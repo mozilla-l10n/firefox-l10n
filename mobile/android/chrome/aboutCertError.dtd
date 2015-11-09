@@ -19,19 +19,19 @@ was trying to connect. -->
 em segurança a <b>#1</b>, mas não podemos confirmar se a sua ligação é segura.">
 
 <!ENTITY certerror.whatShouldIDo.heading "O que devo fazer?">
-<!ENTITY certerror.whatShouldIDo.content "Se, habitualmente, estabelece ligação a este sítio 
+<!ENTITY certerror.whatShouldIDo.content "Se, habitualmente se liga a este site 
 sem problemas, este erro pode significar que alguém está a tentar 
-fazer-se passar pelo sítio, e você não deve continuar.">
+fazer-se passar pelo site e você não deve continuar.">
 <!ENTITY certerror.getMeOutOfHere.label "Tirem-me daqui!">
 
 <!ENTITY certerror.expert.heading "Eu compreendo os riscos">
 <!ENTITY certerror.expert.content "Se compreende o que está a acontecer, pode 
-dizer ao &brandShortName; para confiar na identificação deste sítio. 
-<b>Mesmo que confie no sítio, este erro pode significar que alguém está 
-a tentar utilizar a sua ligação.</b>">
+dar a indicação ao &brandShortName; para confiar na identificação deste site. 
+<b>Mesmo que confie no site, este erro pode significar que alguém está 
+a manipular a sua ligação.</b>">
 <!ENTITY certerror.expert.contentPara2 "Não adicione uma exceção a menos que 
-saiba de uma boa razão para o sítio não ter uma identificação segura.">
-<!ENTITY certerror.addTemporaryException.label "Visitar sítio">
+saiba que existe uma boa razão para o site não ter uma identificação confiável.">
+<!ENTITY certerror.addTemporaryException.label "Visitar o site">
 <!ENTITY certerror.addPermanentException.label "Adicionar exceção permanente">
 
 <!ENTITY certerror.technical.heading "Detalhes técnicos">
