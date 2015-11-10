@@ -25,8 +25,9 @@
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Search</button> 
 </div> 
-<li>Ezin baduzu inolako orririk kargatu, begiratu zure gailuaren datu- edo WiFi-konexioa.</li> 
+<li>Ezin baduzu inolako orririk kargatu, begiratu zure gailuaren datu- edo WiFi-konexioa. 
 <button id='wifi'>Gaitu Wi-Fia</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Ez da fitxategia aurkitu">

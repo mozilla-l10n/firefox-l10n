@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox kontua">
 <!ENTITY fxaccount_status_signed_in_as "Saioa hasita:">
-
+<!ENTITY fxaccount_status_manage_account "Kudeatu kontua">
 <!ENTITY fxaccount_status_auth_server "Kontuaren zerbitzaria">
 <!ENTITY fxaccount_status_sync_now "Sinkronizatu orain">
 <!ENTITY fxaccount_status_syncing2 "SInkronizatzen…">
@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Zerbitzuaren baldintzak">
 <!ENTITY fxaccount_status_linkprivacy "Pribatutasun-oharra">
 <!ENTITY fxaccount_status_more "Gehiago&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Deskonektatu&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Firefoxeko kontua kendu?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;(e)k zure kontuarekin sinkronizatzeari utziko dio baina ez du gailu honetako zure nabigatze-daturik ezabatuko.">
