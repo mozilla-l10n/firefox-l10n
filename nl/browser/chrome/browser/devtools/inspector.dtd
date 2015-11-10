@@ -79,6 +79,32 @@
      current node -->
 <!ENTITY inspectorHTMLDelete.label          "Node verwijderen">
 <!ENTITY inspectorHTMLDelete.accesskey      "v">
+<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     attribute items, which allow to:
+     - add new attribute
+     - edit attribute
+     - remove attribute -->
+<!ENTITY inspectorAttributeSubmenu.label      "Attribuut">
+<!ENTITY inspectorAttributeSubmenu.accesskey  "A">
+
+<!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users add attribute
+     to current node -->
+<!ENTITY inspectorAddAttribute.label        "Attribuut toevoegen">
+<!ENTITY inspectorAddAttribute.accesskey    "t">
+
+<!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users edit attribute
+     for current node -->
+<!ENTITY inspectorEditAttribute.label        "Attribuut bewerken">
+<!ENTITY inspectorEditAttribute.accesskey    "b">
+
+<!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users delete attribute
+     from current node -->
+<!ENTITY inspectorRemoveAttribute.label        "Attribuut verwijderen">
+<!ENTITY inspectorRemoveAttribute.accesskey    "v">
 
 <!ENTITY inspector.selectButton.tooltip     "Element met muis selecteren">
 
@@ -125,3 +151,8 @@
      shown in the inspector contextual-menu for the item that lets users take
      a screenshot of the currently selected node. -->
 <!ENTITY inspectorScreenshotNode.label       "Schermafbeelding van node maken">
+
+<!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users
+     duplicate the currently selected node. -->
+<!ENTITY inspectorDuplicateNode.label       "Node dupliceren">
