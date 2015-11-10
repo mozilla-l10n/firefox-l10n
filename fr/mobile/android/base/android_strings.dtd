@@ -103,7 +103,7 @@
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
 <!ENTITY pref_category_general "Général">
-<!ENTITY pref_category_general_summary "Accueil, langue, zoom, navigation plein écran">
+<!ENTITY pref_category_general_summary2 "Accueil, langue, barre d\u0027adresse">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -152,11 +152,11 @@
 <!ENTITY pref_category_search3 "Recherche">
 <!ENTITY pref_category_search_summary "Personnaliser les moteurs de recherche">
 <!ENTITY pref_category_accessibility "Accessibilité">
-<!ENTITY pref_category_accessibility_summary "Taille du texte, saisie vocale">
+<!ENTITY pref_category_accessibility_summary2 "Taille du texte, zoom, saisie vocale">
 <!ENTITY pref_category_privacy_short "Vie privée">
-<!ENTITY pref_category_privacy_summary2 "Contrôler identifiants, cookies, pistage, données">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "À propos de &brandShortName;, FAQ, données collectées">
+<!ENTITY pref_category_privacy_summary3 "Pistage, cookies, données collectées">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "À propos de &brandShortName;, FAQ, donner son avis">
 <!ENTITY pref_category_datareporting "Données collectées">
 <!ENTITY pref_learn_more "En savoir plus">
 <!ENTITY pref_category_installed_search_engines "Moteurs de recherche installés">
@@ -171,7 +171,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ASTUCE : Ajoutez n\u0027importe quel site à votre liste de moteurs de recherche en effectuant un appui long sur leur champ de recherche puis en appuyant sur l\u0027icône &formatI;.">
 <!ENTITY pref_category_advanced "Avancé">
-<!ENTITY pref_category_advanced_summary "Importation, plugins, outils de développement">
+<!ENTITY pref_category_advanced_summary2 "Restaurer les onglets, plugins, outils de développement">
 <!ENTITY pref_developer_remotedebugging "Débogage distant">
 <!ENTITY pref_developer_remotedebugging_usb "Débogage distant par USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Débogage distant par Wi-Fi">
@@ -214,8 +214,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "Autorisés, sauf cookies tiers">
 <!ENTITY pref_cookies_disabled "Non autorisés">
 
-<!ENTITY pref_tap_to_load_images_title "Appuyer pour charger les images">
-<!ENTITY pref_tap_to_load_images_summary2 "Charger les images uniquement après avoir effectué un appui long dessus">
+<!ENTITY pref_tap_to_load_images_title2 "Afficher les images">
+<!ENTITY pref_tap_to_load_images_enabled "Toujours">
+<!ENTITY pref_tap_to_load_images_data "Seulement par Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled "Jamais">
 
 <!ENTITY pref_tracking_protection_title "Protection contre le pistage">
 <!ENTITY pref_tracking_protection_summary3 "Activée pour la navigation privée">
@@ -251,8 +253,8 @@
 <!ENTITY pref_char_encoding "Encodage du texte">
 <!ENTITY pref_char_encoding_on "Afficher le menu">
 <!ENTITY pref_char_encoding_off "Masquer le menu">
-<!ENTITY pref_clear_private_data_now "Effacer mes traces maintenant">
-<!ENTITY pref_clear_on_exit_title2 "Effacer à la fermeture">
+<!ENTITY pref_clear_private_data "Effacer mes traces">
+<!ENTITY pref_clear_on_exit_title3 "Effacer mes traces à la fermeture">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; effacera automatiquement vos données lorsque vous sélectionnerez « Quitter » depuis le menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Sélectionner les données à effacer">
 <!ENTITY pref_plugins "Plugins">
@@ -260,7 +262,7 @@
 <!ENTITY pref_plugins_tap_to_play "Appuyer pour lancer la lecture">
 <!ENTITY pref_plugins_disabled "Désactivés">
 <!ENTITY pref_text_size "Taille du texte">
-<!ENTITY pref_restore "Onglets">
+<!ENTITY pref_restore_tabs "Restaurer les onglets">
 <!ENTITY pref_restore_always "Toujours restaurer">
 <!ENTITY pref_restore_quit "Ne pas restaurer après avoir quitté &brandShortName;">
 <!ENTITY pref_font_size_tiny "Très petite">
@@ -285,16 +287,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Toujours activer le zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forcer les pages à toujours vous permettre de zoomer">
 <!ENTITY pref_voice_input "Saisie vocale">
-<!ENTITY pref_voice_input_summary "Permettre la saisie vocale dans la barre de titre">
+<!ENTITY pref_voice_input_summary2 "Permettre la saisie vocale dans la barre d\u0027adresse">
 <!ENTITY pref_qrcode_enabled "Lecteur de QR codes">
-<!ENTITY pref_qrcode_enabled_summary "Permettre la lecture des QR codes depuis la barre de titre">
+<!ENTITY pref_qrcode_enabled_summary2 "Permettre la lecture des QR codes depuis la barre d\u0027adresse">
 
 <!ENTITY pref_use_master_password "Mot de passe principal">
-<!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync2 "Se connecter">
 <!ENTITY pref_sync_summary2 "Synchroniser onglets, marque-pages, identifiants, historique">
 <!ENTITY pref_search_suggestions "Suggestions de recherche">
 <!ENTITY pref_history_search_suggestions "Afficher l\u0027historique de recherche">
-<!ENTITY pref_import_android "Importer depuis Android">
+<!ENTITY pref_import_options "Options d\u0027importation">
 <!ENTITY pref_import_android_summary "Importer les marque-pages et l\u0027historique du navigateur d\u0027origine">
 <!ENTITY pref_private_data_history2 "Historique de navigation">
 <!ENTITY pref_private_data_searchHistory "Historique des recherches">
@@ -349,10 +351,10 @@ size. -->
 <!ENTITY datareporting_wifi_title2 "Service de localisation de &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Aide &vendorShortName; à cartographier le monde. Les positions approximatives des réseaux Wi-Fi et cellulaires détectés sont envoyées à &vendorShortName; pour améliorer notre service de géolocalisation">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+<!-- Localization note (pref_update_autodownload3) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Téléch. mises à jour automatiquement">
+<!ENTITY pref_update_autodownload3 "Mises à jour automatiques">
 <!ENTITY pref_update_autodownload_wifi "Seulement par Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Jamais">
 <!ENTITY pref_update_autodownload_always "Toujours">
@@ -434,7 +436,7 @@ size. -->
 <!ENTITY doorhanger_login_select_action_text "Sélectionner un autre nom d\u0027utilisateur">
 <!ENTITY doorhanger_login_select_title "Copier le mot de passe depuis">
 
-<!ENTITY pref_titlebar_mode "Barre de titre">
+<!ENTITY pref_titlebar_mode2 "Barre d\u0027adresse">
 <!ENTITY pref_titlebar_mode_title "Afficher le titre de la page">
 <!ENTITY pref_titlebar_mode_url "Afficher l\u0027adresse de la page">
 
@@ -446,7 +448,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Navigation plein écran">
-<!ENTITY pref_scroll_title_bar_summary "Masquer la barre de titre de &brandShortName; lors du défilement de la page">
+<!ENTITY pref_scroll_title_bar_summary2 "Masquer la barre d\u0027outils de &brandShortName; lors du défilement de la page">
 
 <!ENTITY pref_tab_queue_title2 "Ouvrir plusieurs liens">
 <!ENTITY pref_tab_queue_summary3 "Enregistrer les liens jusqu\u0027à la prochaine ouverture de &brandShortName;">
@@ -529,9 +531,9 @@ size. -->
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY home_reading_list_hint2 "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur l\u0027icône &formatI; lorsque celle-ci apparaît dans la barre de titre.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur le bouton du mode lecture lorsque celui-ci apparaît dans la barre de titre.">
+<!ENTITY home_reading_list_hint_accessible2 "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur le bouton du mode lecture lorsque celui-ci apparaît dans la barre d\u0027adresse.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -728,16 +730,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restriction_disallow_import_settings_title2 "Désactiver  « Importer depuis Android »">
 <!ENTITY restriction_disallow_addons_title2 "Désactiver l\u0027installation de modules">
-<!ENTITY restriction_disallow_devtools_title2 "Désactiver les outils de développement">
-<!ENTITY restriction_disallow_customize_home_title2 "Désactiver la personnalisation de l\u0027écran d\u0027accueil">
 <!ENTITY restriction_disallow_private_browsing_title2 "Désactiver la navigation privée">
 <!ENTITY restriction_disallow_location_services_title2 "Désactiver les services de géolocalisation">
-<!ENTITY restriction_disallow_display_settings_title2 "Désactiver les paramètres d\u0027affichage">
 <!ENTITY restriction_disallow_clear_history_title2 "Désactiver « Effacer l\u0027historique de navigation »">
 <!ENTITY restriction_disallow_master_password_title2 "Désactiver le mot de passe principal">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Désactiver la navigation invité">
+<!ENTITY restriction_disallow_advanced_settings_title "Désactiver les paramètres avancés">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
@@ -752,3 +751,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "Aide et assistance de Firefox pour les profils restreints sur les tablettes Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker): link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Apprenez le Web : Mozilla Webmaker">
+
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "Désolé, cette version de &brandShortName; ne fonctionnera pas sur cet appareil (&formatS1;, &formatS2;). Veuillez télécharger la version appropriée.">
