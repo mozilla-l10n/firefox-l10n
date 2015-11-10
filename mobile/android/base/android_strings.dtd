@@ -435,16 +435,13 @@
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Uscire dalla modalità Navigazione anonima?">
 <!ENTITY intent_uri_cannot_open "Impossibile aprire il link">
 <!ENTITY devtools_auth_scan_header "Scansione del codice QR visualizzato sull’altro dispositivo">
-<!ENTITY restriction_disallow_import_settings_title2 "Disattiva “Importa da Android”">
 <!ENTITY restriction_disallow_addons_title2 "Disattiva installazione comp. aggiuntivi">
-<!ENTITY restriction_disallow_devtools_title2 "Disattiva strumenti di sviluppo">
-<!ENTITY restriction_disallow_customize_home_title2 "Disattiva personaliz. schermata principale">
 <!ENTITY restriction_disallow_private_browsing_title2 "Disattiva Navigazione anonima">
 <!ENTITY restriction_disallow_location_services_title2 "Disattiva servizi di georilevazione">
-<!ENTITY restriction_disallow_display_settings_title2 "Disattiva impostazioni schermo">
 <!ENTITY restriction_disallow_clear_history_title2 "Disattiva “Elimina cronologia”">
 <!ENTITY restriction_disallow_master_password_title2 "Disattiva password principale">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Disattiva navigazione ospite">
+<!ENTITY restriction_disallow_advanced_settings_title "Disattiva impostazioni avanzate">
 <!ENTITY bookmarks_about_browser "Firefox: informazioni sul browser">
 <!ENTITY bookmarks_addons "Firefox: personalizza con i componenti aggiuntivi">
 <!ENTITY bookmarks_support "Firefox: supporto">
