@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Tjänstevillkor">
 <!ENTITY fxaccount_status_linkprivacy "Integritetspolicy">
 <!ENTITY fxaccount_status_more "Mer&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Koppla Från&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Ta bort Firefox Konto?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; kommer sluta att synca med ditt konto, men kommer inte att ta bort något av din webläsardata på enheten">

@@ -216,7 +216,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
 <!ENTITY pref_cookies_disabled "Inaktiverade">
 
-
+<!ENTITY pref_tap_to_load_images_title "Håll in för att hämta bilder">
+<!ENTITY pref_tap_to_load_images_summary2 "Ladda endast bilder då du håller in på dom ">
 
 <!ENTITY pref_tracking_protection_title "Spårnings skydd">
 <!ENTITY pref_tracking_protection_summary3 "Påslaget i privat surfning">
@@ -295,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Synka dina flikar, bokmärken, inloggningar, historik ">
 <!ENTITY pref_search_suggestions "Visa sökförslag">
-
+<!ENTITY pref_history_search_suggestions "Visa Sökhistorik">
 <!ENTITY pref_import_android "Importera från Android">
 <!ENTITY pref_import_android_summary "Importera bokmärken och historia från Androids standardwebbläsare">
 <!ENTITY pref_private_data_history2 "Bläddra i historiken">
@@ -588,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Säker anslutning">
 <!ENTITY identity_connection_insecure "Osäker anslutning">
-
+<!ENTITY identity_login_insecure "Denna sida är inte säker din inloggning kan vara sårbar.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; har blockerat osäkra komponenter på sidan.">
@@ -708,6 +709,7 @@ från Android">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Denna länken kommer öppna i &formatS; Är du säker att du vill avsluta privatsurfning?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
