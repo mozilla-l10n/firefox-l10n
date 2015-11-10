@@ -16,6 +16,7 @@
 <!ENTITY smtpListDelete.accesskey "F">
 <!ENTITY smtpListSetDefault.label "Setja sem sjálfgefið">
 <!ENTITY smtpListSetDefault.accesskey "t">
+<!ENTITY serverDetails.label "Upplýsingar um valin netþjón:">
 <!ENTITY serverDescription.label "Lýsing: ">
 <!ENTITY serverName.label "Nafn netþjóns: ">
 <!ENTITY serverPort.label "Gátt: ">
