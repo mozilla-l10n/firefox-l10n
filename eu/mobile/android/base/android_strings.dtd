@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Atera zukua web mugikorreko zure nabigatze-esperientziari.">
 <!ENTITY  onboard_start_button_account "Hasi saioa &brandShortName;(e)n">
 <!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
-
+<!ENTITY firstrun_button_next "Hurrengoa">
 
 <!ENTITY  onboard_start_restricted1 "Egon seguru eta kontrolpean &brandShortName;(r)en bertsio sinplifikatu honekin.">
 
+<!ENTITY firstrun_import_title "Inportatu">
 <!ENTITY firstrun_import_message "Ongi etorri &brandShortName;(e)ra">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Inportatu laster-markak eta historia beste nabigatzaile batetik.">
+<!ENTITY firstrun_import_action "Transferitu &brandShortName;(e)ra">
+<!ENTITY firstrun_import_dialog_button "Transferitu">
+<!ENTITY firstrun_import_progress_title "Transferitzen">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "Gaur">
 <!ENTITY history_yesterday_section "Atzo">
-
-
-
+<!ENTITY history_week_section3 "Azken 7 egunak">
+<!ENTITY history_this_month_section "Hilabete hau">
+<!ENTITY history_older_section3 "6 hilabete baino zaharragoa">
 
 <!ENTITY go "Joan">
 <!ENTITY search "Bilatu">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Audioa erreproduzitzen – &formatS;">
 
 <!ENTITY settings "Ezarpenak">
 <!ENTITY settings_title "Ezarpenak">
@@ -147,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Bidali fitxa hau konektatutako beste gailu batera">
+
 <!ENTITY pref_category_search3 "Bilaketa">
 <!ENTITY pref_category_search_summary "Pertsonalizatu bilaketa-hornitzaileak">
 <!ENTITY pref_category_display "Bistaratzea">
@@ -194,9 +198,9 @@
 <!ENTITY pref_home_updates_wifi "Wi-Fi bidez soilik">
 <!ENTITY pref_home_suggested_sites "Erakutsi guneen gomendioak">
 <!ENTITY pref_home_suggested_sites_summary "Bistaratu hasiera-orrian interesgarriak izan daitezkeen guneetarako lasterbideak">
-
-
-
+<!ENTITY pref_category_home_homepage "Hasiera-orria">
+<!ENTITY home_homepage_title "Ezarri hasiera-orria">
+<!ENTITY home_homepage_use_current_tab "Erabili uneko fitxa">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Pertsonalizatu">
@@ -212,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Gaituta, hirugarrenenak salbu">
 <!ENTITY pref_cookies_disabled "Desgaituta">
 
-
+<!ENTITY pref_tap_to_load_images_title "Sakatu irudiak kargatzeko">
+<!ENTITY pref_tap_to_load_images_summary2 "Kargatu irudiak denbora luzez sakatzean soilik">
 
 <!ENTITY pref_tracking_protection_title "Jarraipenaren babesa">
-
+<!ENTITY pref_tracking_protection_summary3 "Nabigatze pribatuan gaituta">
 <!ENTITY pref_donottrack_title "Do Not Track">
 <!ENTITY pref_donottrack_summary "Zure jarraipenik ez egiteko esango die guneei &brandShortName;(e)k">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Gaituta">
+<!ENTITY pref_tracking_protection_enabled_pb "Nabigatze pribatuan gaituta">
+<!ENTITY pref_tracking_protection_disabled "Desgaituta">
 
 <!ENTITY tracking_protection_prompt_title "Orain jarraipenaren babesarekin">
 <!ENTITY tracking_protection_prompt_text "Blokeatu modu aktiboan jarraipena egiten duten elementuak.">
@@ -290,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Sinkronizatu zure fitxak, laster-markak, saio-hasierak, historia">
 <!ENTITY pref_search_suggestions "Erakutsi bilaketa-gomendioak">
-
+<!ENTITY pref_history_search_suggestions "Erakutsi bilaketen historia">
 <!ENTITY pref_import_android "Inportatu Android-etik">
 <!ENTITY pref_import_android_summary "Inportatu laster-markak eta historia nabigatzaile natibotik">
 <!ENTITY pref_private_data_history2 "Nabigatze-historia">
@@ -326,7 +332,7 @@ size. -->
 <!ENTITY datareporting_notification_action "Aukeratu zer partekatu">
 <!ENTITY datareporting_notification_summary "Zure esperientzia hobetzeko, &brandShortName;(e)k zenbait informazio bidaltzen dio automatikoki &vendorShortName;(r)i">
 <!ENTITY datareporting_notification_summary_short "Zure esperientzia hobetzeko, &brandShortName;(e)k…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -367,7 +373,7 @@ size. -->
 <!ENTITY share_title "Partekatu">
 <!ENTITY share_image_failed "Ezin da irudia partekatu">
 <!ENTITY save_as_pdf "Gorde PDF gisa">
-
+<!ENTITY print "Inprimatu">
 <!ENTITY find_in_page "Bilatu orrian">
 <!ENTITY desktop_mode "Mahaigaineko gunea">
 <!ENTITY page "Orria">
@@ -387,7 +393,7 @@ size. -->
 
 <!ENTITY find_text "Bilatu orrian">
 <!ENTITY find_prev "Aurrekoa">
-
+<!ENTITY find_next "Hurrengoa">
 <!ENTITY find_close "Itxi">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -412,8 +418,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Ainguratu gunea">
 <!ENTITY contextmenu_top_sites_unpin "Desainguratu gunea">
 <!ENTITY contextmenu_add_search_engine "Gehitu bilaketa-motorra">
-
-
+<!ENTITY contextmenu_mark_read "Markatu irakurritako gisa">
+<!ENTITY contextmenu_mark_unread "Markatu irakurri gabeko gisa">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -436,6 +442,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Handitu eremu txikiak">
+<!ENTITY pref_magnifying_glass_enabled_summary "Handitu loturak eta inprimaki-eremuak hauetatik gertu sakatzean">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -581,11 +589,13 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Konexio segurua">
 <!ENTITY identity_connection_insecure "Konexio ez-segurua">
-
+<!ENTITY identity_login_insecure "Orri hau ez da segurua eta zure saio-hasiera arriskuan egon liteke.">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName;(e)k segurua ez den orri honetako edukia blokeatu du.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName;(e)k seguruak ez diren orri honetako zenbait eduki blokeatu ditu.">
+<!ENTITY mixed_content_display_loaded1 "Orri honetako zenbait atal ez dira seguruak (adib. irudiak).">
+<!ENTITY mixed_content_protection_disabled1 "Babesa desgaitu duzu segurua ez den edukitik.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Jarraipenaren babesa">
@@ -603,6 +613,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Datu pribatuak garbituta">
 <!ENTITY private_data_fail "Datu pribatu batzuk ezin izan dira garbitu">
 
+<!ENTITY bookmarkhistory_button_import "Inportatu">
 <!ENTITY bookmarkhistory_import_both "Laster-markak eta historia inportatzen 
 Android-etik">
 <!ENTITY bookmarkhistory_import_bookmarks "Laster-markak inportatzen 
@@ -698,6 +709,7 @@ Android-etik">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Lotura hau &formatS; aplikazioan irekiko da. Ziur zaude nabigatze pribatutik irten nahi duzula?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -705,6 +717,7 @@ Android-etik">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Irten nabigazio pribatutik?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -729,7 +742,12 @@ Android-etik">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Desgaitu gonbidatu-saioekin nabigatzea">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "Firefox: nabigatzaileari buruz">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: pertsonalizatu gehigarriekin">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: laguntza">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Ikasi weba: Mozilla Webmaker">
