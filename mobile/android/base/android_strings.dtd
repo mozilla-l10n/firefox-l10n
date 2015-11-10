@@ -194,7 +194,7 @@
 <!ENTITY pref_qrcode_enabled "Scansione codici QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Consenti la scansione di codici QR nella barra degli indirizzi">
 <!ENTITY pref_use_master_password "Usa password principale">
-<!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync2 "Accedi">
 <!ENTITY pref_sync_summary2 "Sincronizza schede, segnalibri, accessi, cronologia">
 <!ENTITY pref_search_suggestions "Mostra suggerimenti di ricerca">
 <!ENTITY pref_history_search_suggestions "Mostra cronologia di ricerca">
