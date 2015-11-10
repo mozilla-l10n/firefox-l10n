@@ -85,7 +85,7 @@
 <!ENTITY settings "Ustawienia">
 <!ENTITY settings_title "Ustawienia">
 <!ENTITY pref_category_general "Ogólne">
-<!ENTITY pref_category_general_summary "Strona domowa, język, powiększanie, pełny ekran">
+<!ENTITY pref_category_general_summary2 "Strona domowa, język, pasek adresu">
 
 <!ENTITY pref_category_language "Język">
 <!ENTITY pref_category_language_summary "Zmiana języka przeglądarki">
@@ -110,11 +110,11 @@
 <!ENTITY pref_category_search3 "Wyszukiwanie">
 <!ENTITY pref_category_search_summary "Dostosowanie wyszukiwarek">
 <!ENTITY pref_category_accessibility "Dostępność">
-<!ENTITY pref_category_accessibility_summary "Rozmiar tekstu, sterowanie głosowe">
+<!ENTITY pref_category_accessibility_summary2 "Rozmiar tekstu, powiększanie, sterowanie głosowe">
 <!ENTITY pref_category_privacy_short "Prywatność">
-<!ENTITY pref_category_privacy_summary2 "Kontrola nad danymi logowania, ciasteczkami, śledzeniem i innymi danymi">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "O programie &brandShortName;, najczęściej zadawane pytania, zarządzanie danymi">
+<!ENTITY pref_category_privacy_summary3 "Śledzenie, ciasteczka, zarządzanie danymi">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "O programie &brandShortName;, najczęściej zadawane pytania, opinie">
 <!ENTITY pref_category_datareporting "Udostępnianie danych">
 <!ENTITY pref_learn_more "Więcej informacji">
 <!ENTITY pref_category_installed_search_engines "Zainstalowane wyszukiwarki">
@@ -124,7 +124,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Przywróć domyślne">
 <!ENTITY pref_search_hint "RADA: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
 <!ENTITY pref_category_advanced "Zaawansowane">
-<!ENTITY pref_category_advanced_summary "Importowanie, wtyczki, narzędzia dla programistów">
+<!ENTITY pref_category_advanced_summary2 "Przywracanie kart, wtyczki, narzędzia dla programistów">
 <!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
 <!ENTITY pref_developer_remotedebugging_usb "Zdalne debugowanie przez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Zdalne debugowanie przez Wi-Fi">
@@ -195,8 +195,8 @@
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazywanie">
 <!ENTITY pref_char_encoding_off "Bez pokazywania">
-<!ENTITY pref_clear_private_data_now "Wyczyść prywatne dane">
-<!ENTITY pref_clear_on_exit_title2 "Czyszczenie przy wyłączaniu">
+<!ENTITY pref_clear_private_data "Wyczyść prywatne dane">
+<!ENTITY pref_clear_on_exit_title3 "Czyszczenie przy wyłączaniu">
 <!ENTITY pref_clear_on_exit_summary2 "Przeglądarka &brandShortName; zawsze będzie czyściła prywatne dane po wybraniu opcji \u201eZakończ\u201d z głównego menu">
 <!ENTITY pref_clear_on_exit_dialog_title "Wybierz dane, które chcesz czyścić">
 <!ENTITY pref_plugins "Wtyczki">
@@ -204,9 +204,9 @@
 <!ENTITY pref_plugins_tap_to_play "Stuknięcie, aby odtworzyć">
 <!ENTITY pref_plugins_disabled "Wyłączone">
 <!ENTITY pref_text_size "Rozmiar tekstu">
-<!ENTITY pref_restore "Karty">
-<!ENTITY pref_restore_always "Przywracanie za każdym razem">
-<!ENTITY pref_restore_quit "Bez przywracania po wyłączeniu przeglądarki &brandShortName;">
+<!ENTITY pref_restore_tabs "Przywracanie kart">
+<!ENTITY pref_restore_always "Zawsze">
+<!ENTITY pref_restore_quit "Nigdy">
 <!ENTITY pref_font_size_tiny "Bardzo mały">
 <!ENTITY pref_font_size_small "Mały">
 <!ENTITY pref_font_size_medium "Średni">
@@ -222,16 +222,16 @@
 <!ENTITY pref_zoom_force_enabled "Wymuszanie możliwości powiększania">
 <!ENTITY pref_zoom_force_enabled_summary "Kontroluje możliwość wymuszenia możliwości powiększania dowolnej strony">
 <!ENTITY pref_voice_input "Sterowanie głosowe">
-<!ENTITY pref_voice_input_summary "Umożliwia sterowanie głosowe w pasku tytułu">
+<!ENTITY pref_voice_input_summary2 "Umożliwia sterowanie głosowe w pasku adresu">
 <!ENTITY pref_qrcode_enabled "Czytnik kodów QR">
-<!ENTITY pref_qrcode_enabled_summary "Umożliwia używanie skanera kodów QR w pasku tytułu">
+<!ENTITY pref_qrcode_enabled_summary2 "Umożliwia używanie skanera kodów QR w pasku adresu">
 
 <!ENTITY pref_use_master_password "Hasło główne">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Synchronizowanie kart, zakładek, danych logowania, historii">
 <!ENTITY pref_search_suggestions "Podpowiedzi wyszukiwania">
 <!ENTITY pref_history_search_suggestions "Historia wyszukiwania">
-<!ENTITY pref_import_android "Importuj z Androida">
+<!ENTITY pref_import_options "Opcje importowania">
 <!ENTITY pref_import_android_summary "Importowanie zakładek i historii z domyślnej przeglądarki systemu Android">
 <!ENTITY pref_private_data_history2 "Historia przeglądania">
 <!ENTITY pref_private_data_searchHistory "Historia wyszukiwania">
@@ -275,7 +275,7 @@
 <!ENTITY datareporting_wifi_title2 "Usługi lokalizacji organizacji &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Pomóż organizacji &vendorShortName; mapować świat! Udostępniaj przybliżone informacje o lokalizacji urządzenia poprzez Wi-Fi i dane sieci komórkowej, aby pomóc ulepszać usługi geolokalizacyjne.">
 
-<!ENTITY pref_update_autodownload2 "Automatyczne aktualizacje">
+<!ENTITY pref_update_autodownload3 "Automatyczne aktualizacje">
 <!ENTITY pref_update_autodownload_wifi "Tylko przez Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nigdy">
 <!ENTITY pref_update_autodownload_always "Zawsze">
@@ -342,15 +342,15 @@
 <!ENTITY doorhanger_login_select_action_text "Wybierz inne">
 <!ENTITY doorhanger_login_select_title "Kopiuj hasło dla">
 
-<!ENTITY pref_titlebar_mode "Pasek tytułu">
-<!ENTITY pref_titlebar_mode_title "Pokazywanie tytułu strony">
-<!ENTITY pref_titlebar_mode_url "Pokazywanie adresu strony">
+<!ENTITY pref_titlebar_mode2 "Pasek adresu">
+<!ENTITY pref_titlebar_mode_title "Tytuł strony">
+<!ENTITY pref_titlebar_mode_url "Adres strony">
 
 <!ENTITY pref_magnifying_glass_enabled "Powiększanie małych obszarów">
 <!ENTITY pref_magnifying_glass_enabled_summary "Zwiększanie odnośników i pól formularzy po stuknięciu obok nich">
 
 <!ENTITY pref_scroll_title_bar2 "Przeglądanie pełnoekranowe">
-<!ENTITY pref_scroll_title_bar_summary "Ukrywanie paska tytułu przeglądarki &brandShortName; przy przewijaniu stron">
+<!ENTITY pref_scroll_title_bar_summary2 "Ukrywanie paska przeglądarki &brandShortName; przy przewijaniu stron">
 
 <!ENTITY pref_tab_queue_title2 "Otwieranie wielu odnośników">
 <!ENTITY pref_tab_queue_summary3 "Zachowywanie odnośników do następnego otwarcia programu &brandShortName;">
@@ -405,8 +405,8 @@
 <!ENTITY home_most_recent_empty "Tutaj pojawiają się ostatnio odwiedzone witryny.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: W &formatS1;nowej karcie prywatnej&formatS2; historia nie jest zapisywana.">
 <!ENTITY home_reading_list_empty "Tutaj pojawiają się artykuły zachowane na później.">
-<!ENTITY home_reading_list_hint2 "RADA: Zachowaj artykuły do przeczytania później, przytrzymując ikonę &formatI; po jej pojawieniu się na pasku tytułu.">
-<!ENTITY home_reading_list_hint_accessible "RADA: Zachowaj artykuły do przeczytania później, przytrzymując przycisk widoku ułatwionego czytania po jego pojawieniu się na pasku tytułu.">
+<!ENTITY home_reading_list_hint3 "RADA: Zachowaj artykuły do przeczytania później, przytrzymując ikonę &formatI; po jej pojawieniu się na pasku adresu.">
+<!ENTITY home_reading_list_hint_accessible2 "RADA: Zachowaj artykuły do przeczytania później, przytrzymując przycisk widoku ułatwionego czytania po jego pojawieniu się na pasku adresu.">
 
 <!ENTITY home_default_empty "Nie znaleziono treści do wyświetlenia na tym panelu.">
 
