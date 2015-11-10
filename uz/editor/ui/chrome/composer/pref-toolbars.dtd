@@ -30,9 +30,10 @@
 <!ENTITY bullets.label          "O‘qlar">
 <!ENTITY numbers.label          "Raqamlar">
 <!ENTITY italic.label           "Qiya">
-
-
+<!ENTITY outdent.label          "Bo‘rtib chiqqan">
+<!ENTITY indent.label           "Kemtik">
 <!ENTITY underline.label        "Tagiga chizish">
 
+<!ENTITY absolutePosition.label "Mutlaq joylashuv">
 <!ENTITY decreaseZIndex.label   "Orqaga jo‘natish">
 <!ENTITY increaseZIndex.label   "Oldinga o‘tkazish">
