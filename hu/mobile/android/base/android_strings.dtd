@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Lap küldése másik csatlakoztatott készülékre">
+
 <!ENTITY pref_category_search3 "Keresés">
 <!ENTITY pref_category_search_summary "Keresőszolgáltatások beállítása">
 <!ENTITY pref_category_display "Megjelenítés">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
 <!ENTITY pref_cookies_disabled "Tiltva">
 
-
+<!ENTITY pref_tap_to_load_images_title "Koppintás a képek betöltéséhez">
+<!ENTITY pref_tap_to_load_images_summary2 "Képek betöltése csak hosszú érintésre">
 
 <!ENTITY pref_tracking_protection_title "Védelem követés ellen">
-
+<!ENTITY pref_tracking_protection_summary3 "Engedélyezve privát böngészésben">
 <!ENTITY pref_donottrack_title "Ne kövessenek">
 <!ENTITY pref_donottrack_summary "A &brandShortName; közli a webhelyekkel, hogy Ön nem szeretné, ha követnék">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Engedélyezve">
+<!ENTITY pref_tracking_protection_enabled_pb "Engedélyezve privát böngészésben">
+<!ENTITY pref_tracking_protection_disabled "Tiltva">
 
 <!ENTITY tracking_protection_prompt_title "Most követés elleni védelemmel">
 <!ENTITY tracking_protection_prompt_text "Aktívan blokkolja a követő elemeket, hogy ne kelljen aggódnia.">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Lapok, könyvjelzők, bejelentkezések, előzmények szinkronizálása">
 <!ENTITY pref_search_suggestions "Keresési javaslatok">
-
+<!ENTITY pref_history_search_suggestions "Keresési előzmények megjelenítése">
 <!ENTITY pref_import_android "Importálás Androidról">
 <!ENTITY pref_import_android_summary "Könyvjelzők és előzmények importálása a natív böngészőből">
 <!ENTITY pref_private_data_history2 "Böngészés előzményei">
@@ -327,7 +331,7 @@ size. -->
 <!ENTITY datareporting_notification_action_long "Megosztandó adatok kiválasztása">
 <!ENTITY datareporting_notification_action "Megosztandó adatok kiválasztása">
 <!ENTITY datareporting_notification_summary "A program javítása érdekében a &brandShortName; automatikusan információkat küld a &vendorShortName;-nak.">
-<!ENTITY datareporting_notification_summary_short "A program javítása érdekében a ">
+<!ENTITY datareporting_notification_summary_short "A program javítása érdekében a &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -535,7 +539,7 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
-<!ENTITY home_move_up_to_filter "Vissza: ">
+<!ENTITY home_move_up_to_filter "Vissza: &formatS;">
 
 <!ENTITY home_remote_tabs_title "Szinkronizált lapok">
 <!ENTITY home_remote_tabs_empty "A lapok más készülékekről itt jelennek meg.">
@@ -585,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Biztonságos kapcsolat">
 <!ENTITY identity_connection_insecure "Nem biztonságos kapcsolat">
-
+<!ENTITY identity_login_insecure "Ez az oldal nem biztonságos, és bejelentkezése sebezhető lehet.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "A &brandShortName; nem biztonságos tartalmat blokkolt ezen az oldalon.">
@@ -705,6 +709,7 @@ Androidról">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "A hivatkozás ebben fog megnyílni: &formatS;. Biztosan kilép a privát böngészésből?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -712,6 +717,7 @@ Androidról">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Kilép a privát böngészésből?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
