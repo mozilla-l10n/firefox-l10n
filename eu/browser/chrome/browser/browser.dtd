@@ -189,29 +189,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Inprimatu">
 <!ENTITY printButton.tooltip          "Inprimatu orri hau">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Ikusi gunearen informazioa">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Ikusi jakinarazpena">
 
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Ikusi gehigarria instalatzeko mezua">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ikusi aplikazioaren lineaz kanpoko biltegiratzearen mezua">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Kudeatu zure saio-hasiera informazioa">
 
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Ikusi aplikazioaren instalazio-mezua">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Kudeatu pluginen erabilera orri honetan">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Aldatu guneak jakinarazpenik erakuts dezakeen ala ez">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Kudeatu zure kamera eta/edo mikrofonoa gunearekin partekatzea">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Zure kamera eta/edo mikrofonoa gunearekin partekatzen ari zara">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Kudeatu zure mikrofonoa gunearekin partekatzea">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Zure mikrofonoa gunearekin partekatzen ari zara">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Kudeatu zure leihoak edo pantaila gunearekin partekatzea">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Zure leihoa edo pantaila gunearekin partekatzen ari zara">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Aldatu guneak saguaren erakuslea ezkuta dezakeen ala ez">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Ikusi zerbitzuaren instalazio-mezua">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Itzuli orri hau">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Kudeatu orriaren itzulpena">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Kudeatu DRM softwarearen erabilpena">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
 
 <!ENTITY searchItem.title             "Bilatu">
 <!-- Toolbar items --> 
@@ -252,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Aplikazioak">
 <!ENTITY webapps.accesskey            "p">
-
-
+<!ENTITY loopMenuItem.label           "Hasi solasaldia…">
+<!ENTITY loopMenuItem.accesskey       "s">
 
 <!ENTITY webDeveloperMenu.label       "Web garapena">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -333,14 +338,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY userContextPersonal.label        "Pertsonala">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Lanekoa">
+<!ENTITY userContextWork.accesskey        "L">
+<!ENTITY userContextBanking.label         "Banka">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Erosketak">
+<!ENTITY userContextShopping.accesskey    "E">
 <!ENTITY newNavigatorCmd.label        "Leiho berria">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "L">

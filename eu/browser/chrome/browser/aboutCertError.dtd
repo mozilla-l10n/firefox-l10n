@@ -13,6 +13,8 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "Konexio hau ez da fidagarria">
 <!-- These are going to be used for the updated design in Bug 1207107 -->
 
+<!ENTITY certerror.pagetitle1  "Konexio ez-segurua">
+<!ENTITY certerror.longpagetitle1 "Zure konexioa ez da segurua">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -27,8 +29,10 @@ zoazela frogatzeko. Hala ere, gune honen identitatea ezin da egiaztatu.">
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-
-
+<!ENTITY certerror.introPara "<span class='hostname'/> gunearen jabeak webgunea gaizki konfiguratu du. Zure informazioa lapurtzea sahiesteko, &brandShortName; ez da webgune honetara konektatu.">
+<!ENTITY certerror.returnToPreviousPage.label "Joan atzera">
+<!ENTITY certerror.learnMore "Argibide gehiago…">
+<!ENTITY certerror.advanced.label "Aurreratua">
 
 <!ENTITY certerror.whatShouldIDo.heading "Zer egin behar nuke?">
 <!ENTITY certerror.whatShouldIDo.content "Gune honetara normalean inolako arazorik gabe konektatzen bazara, 
