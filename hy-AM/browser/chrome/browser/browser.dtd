@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Մուտք գործել &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Բացել &syncBrand.shortName.label;-ի կարգավորումները">
 <!ENTITY fxaSignInError.label "Վերակապակցվել &syncBrand.shortName.label;ին">
-
+<!ENTITY fxaUnverified.label "Ստուգել հաշիվը">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; միացրած է">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName;-ը միանգամից կհամաժամեցնի:">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "այժմ լիաէկրան է">
+<!ENTITY fullscreenWarning.generic.label "Փաստաթուղթը այժմ լիաէկրան է">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Դուրս գալ Լիաէկրանից (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Դուրս գալ Լիաէկրանից (esc)">
 <!ENTITY leaveDOMFullScreen.label "Դուրս գալ Լիաէկրան վիճակից">
 <!ENTITY leaveDOMFullScreen.accesskey "Լ">
 
@@ -438,11 +439,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Ցանկանու՞մ եք լավարկել որոնման փորձառությունը առաջարկություններով:">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Իմանալ ավելին...">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ոչ">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Այո">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -499,9 +500,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Փոխել որոնման կարգավորումները">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Որոնել Նոր Ներդիրում">
+<!ENTITY searchInNewTab.accesskey     "Ն">
+<!ENTITY searchSetAsDefault.label     "Հաստատել որպես հիմնական Որոնիչ">
+<!ENTITY searchSetAsDefault.accesskey "հ">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -737,9 +739,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Անվտանգ կապակցում">
 <!ENTITY identity.connectionNotSecure "Կապակցումը անվտանգ չէ">
 <!ENTITY identity.connectionFile "Այս էջը գտնվում է համակարգչում:">
-
+<!ENTITY identity.connectionVerified1 "Դուք անվտանգ կապակցված եք այս կայքին, որը աշխատեցնում է՝">
 <!ENTITY identity.connectionInternal "Սա անվտանգ &brandShortName; էջ է:">
-
+<!ENTITY identity.insecureLoginForms "Ձեր մուտքգործումը հնարավոր է վտանգված է:">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն:">
@@ -749,7 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղկլարկված տեղեկությունները կարող են դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):">
-
+<!ENTITY identity.description.insecureLoginForms "Մուտքգործման տեղեկությունը, որ մուտքագրել եք այս էջում, անվտանգ չէ և կարող է վտանգվել:">
 <!ENTITY identity.description.weakCipher "Ձեր կապակցումը այս կայքին օգտագործում է աղքատ գաղտնագրում և այն գաղտնի չէ:">
 <!ENTITY identity.description.weakCipher2 "Այլ անձինք կարող են դիտել ձեր տեղեկատվությունը կամ փոփոխել կայքի ժառանգորդին:">
 <!ENTITY identity.description.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, որոնք անվտանգ չեն:">
@@ -768,7 +770,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Մանրամասն">
 
 <!ENTITY identity.permissions "Իրավունքներ">
-
+<!ENTITY identity.permissionsEmpty "Դուք չեք արտոնել այս կայքին որևէ հատուկ թույլտվություն:">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -779,7 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Սինք">
 
-
+<!ENTITY syncSignIn.label             "Մուտք գործել &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Սինք">
 <!ENTITY syncSyncNowItem.accesskey    "Ս">
 <!ENTITY syncReAuthItem.label         "Վերակապակցվել &syncBrand.shortName.label;ին">
@@ -855,7 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Անջատել պաշտպանությունը այս ա/շրջանի համար">
+<!ENTITY trackingProtection.unblockPrivate.label "Անջատել պաշտպանությունը ա/շրջանի համար">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "Ա">
 
 
