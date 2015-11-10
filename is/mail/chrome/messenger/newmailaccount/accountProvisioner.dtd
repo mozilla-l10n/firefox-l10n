@@ -6,7 +6,7 @@
 <!ENTITY header2.label "Viltu nýtt tölvupóstfang?">
 <!ENTITY other.languages "Aðeins eru birtir þjónustuaðilar á þínu svæði.  Smelltu til að sýna alla aðila.">
 <!ENTITY error.line1 "Því miður, fannst ekki nein tillaga að tölvupóstfangi.">
-<!ENTITY error.line2 "Þú getur prófað að leita eftir gælunafni eða öðru til að birta fleiri niðurstöður">
+<!ENTITY error.line2 "Þú getur prófað að leita eftir gælunafni eða öðru til að birta fleiri niðurstöður.">
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
