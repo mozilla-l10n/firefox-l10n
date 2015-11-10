@@ -164,6 +164,7 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "दूर XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया यस समस्याको जानकारी गर्न वेबसाइट धनी लाइ सम्पर्क गर्नुहोस ।</li></ul></p>">
 
+<!ENTITY sslv3Used.title "सुरक्षित जडान गर्न असमर्थ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
 
