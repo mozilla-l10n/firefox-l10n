@@ -5,6 +5,7 @@
 
 
 
-
-
-
+<!ENTITY button.cancel.label          "Չեղարկել">
+<!ENTITY button.cancel.accesskey      "Չ">
+<!ENTITY button.ok.label              "Պահպանել փոփոխությունները">
+<!ENTITY button.ok.accesskey          "Պ">
