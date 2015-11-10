@@ -72,7 +72,7 @@
 <!ENTITY settings_title "Impostazioni">
 <!ENTITY pref_category_general "Generale">
 <!ENTITY pref_header_search "Ricerca">
-<!ENTITY pref_category_general_summary "Pagina iniziale, lingua, zoom, navigazione a schermo intero">
+<!ENTITY pref_category_general_summary2 "Pagina iniziale, lingua, barra degli indirizzi">
 <!ENTITY pref_category_language "Lingua">
 <!ENTITY pref_category_language_summary "Cambia la lingua del browser">
 <!ENTITY pref_browser_locale "Lingua del browser">
@@ -91,11 +91,11 @@
 <!ENTITY pref_category_search3 "Ricerca">
 <!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
 <!ENTITY pref_category_accessibility "Accessibilità">
-<!ENTITY pref_category_accessibility_summary "Dimensione del testo, input vocale">
-<!ENTITY pref_category_privacy_summary2 "Gestisci accessi, cookie, tracciamento, dati">
+<!ENTITY pref_category_accessibility_summary2 "Dimensione del testo, zoom, input vocale">
+<!ENTITY pref_category_privacy_summary3 "Tracciamento, cookie, condivisione dati">
 <!ENTITY pref_category_privacy_short "Privacy">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Informazioni su &brandShortName;, FAQ, condivisione dati">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Informazioni su &brandShortName;, FAQ, feedback">
 <!ENTITY pref_category_datareporting "Condivisione dati">
 <!ENTITY pref_learn_more "Ulteriori informazioni">
 <!ENTITY pref_category_installed_search_engines "Motori di ricerca installati">
@@ -105,7 +105,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Ripristina predefiniti">
 <!ENTITY pref_search_hint "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca e poi toccando l’icona &formatI;.">
 <!ENTITY pref_category_advanced "Avanzate">
-<!ENTITY pref_category_advanced_summary "Importazione dati, plugin, strumenti di sviluppo">
+<!ENTITY pref_category_advanced_summary2 "Ripristino schede, plugin, strumenti di sviluppo">
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
 <!ENTITY pref_developer_remotedebugging_usb "Debug remoto tramite USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debug remoto tramite Wi-Fi">
@@ -165,8 +165,8 @@
 <!ENTITY pref_char_encoding "Codifica caratteri">
 <!ENTITY pref_char_encoding_on "Visualizza menu">
 <!ENTITY pref_char_encoding_off "Non visualizzare menu">
-<!ENTITY pref_clear_private_data_now "Elimina dati personali adesso">
-<!ENTITY pref_clear_on_exit_title2 "Elimina alla chiusura">
+<!ENTITY pref_clear_private_data "Elimina dati personali">
+<!ENTITY pref_clear_on_exit_title3 "Elimina dati personali alla chiusura">
 <!ENTITY pref_clear_on_exit_summary2 "I dati personali in &brandShortName; verranno eliminati automaticamente quando si seleziona “Esci” nel menu principale">
 <!ENTITY pref_clear_on_exit_dialog_title "Selezionare i dati da eliminare">
 <!ENTITY pref_plugins "Plugin">
@@ -174,8 +174,8 @@
 <!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
 <!ENTITY pref_plugins_disabled "Disattivati">
 <!ENTITY pref_text_size "Dimensioni testo">
-<!ENTITY pref_restore "Schede">
-<!ENTITY pref_restore_always "Ripristina sempre">
+<!ENTITY pref_restore_tabs "Ripristina schede">
+<!ENTITY pref_restore_always "Sempre">
 <!ENTITY pref_restore_quit "Non ripristinare dopo aver chiuso &brandShortName;">
 <!ENTITY pref_font_size_tiny "Molto piccolo">
 <!ENTITY pref_font_size_small "Piccolo">
@@ -190,15 +190,15 @@
 <!ENTITY pref_zoom_force_enabled_summary "Ignora le impostazioni della pagina e consenti sempre lo zoom">
 <!ENTITY pref_font_size_preview_text "La volpe arancio oltrepassa ogni ostacolo con sempre maggiore velocità, flessibilità e sicurezza. In quanto organizzazione non profit siamo in grado di creare innovazione per il bene degli utenti senza cedere a pressioni o compromessi. Questo significa una migliore esperienza per tutti e un futuro migliore per il Web.">
 <!ENTITY pref_voice_input "Input vocale">
-<!ENTITY pref_voice_input_summary "Attiva input vocale nella barra degli indirizzi">
+<!ENTITY pref_voice_input_summary2 "Attiva input vocale nella barra degli indirizzi">
 <!ENTITY pref_qrcode_enabled "Scansione codici QR">
-<!ENTITY pref_qrcode_enabled_summary "Consenti la scansione di codici QR nella barra degli indirizzi">
+<!ENTITY pref_qrcode_enabled_summary2 "Consenti la scansione di codici QR nella barra degli indirizzi">
 <!ENTITY pref_use_master_password "Usa password principale">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Sincronizza schede, segnalibri, accessi, cronologia">
 <!ENTITY pref_search_suggestions "Mostra suggerimenti di ricerca">
 <!ENTITY pref_history_search_suggestions "Mostra cronologia di ricerca">
-<!ENTITY pref_import_android "Importa da Android">
+<!ENTITY pref_import_options "Opzioni di importazione">
 <!ENTITY pref_import_android_summary "Importa segnalibri e cronologia dal browser di sistema">
 <!ENTITY pref_private_data_history2 "Cronologia di navigazione">
 <!ENTITY pref_private_data_searchHistory "Cronologia ricerche">
@@ -237,7 +237,7 @@
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
 <!ENTITY datareporting_wifi_title2 "Georilevazione di &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Aiuta &vendorShortName; a creare una mappa del mondo. Condividi la posizione approssimativa del tuo dispositivo all’interno delle reti Wi-Fi e cellulare per migliorare i nostri servizi di georilevazione.">
-<!ENTITY pref_update_autodownload2 "Scarica aggiornamenti">
+<!ENTITY pref_update_autodownload3 "Aggiornamenti automatici">
 <!ENTITY pref_update_autodownload_wifi "Solo con Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Mai">
 <!ENTITY pref_update_autodownload_always "Sempre">
@@ -302,13 +302,13 @@
 <!ENTITY doorhanger_login_select_toast_copy_error "Impossibile copiare la password">
 <!ENTITY doorhanger_login_select_action_text "Seleziona un altro accesso">
 <!ENTITY doorhanger_login_select_title "Copia password da">
-<!ENTITY pref_titlebar_mode "Barra del titolo">
+<!ENTITY pref_titlebar_mode2 "Barra degli indirizzi">
 <!ENTITY pref_titlebar_mode_title "Visualizza titolo pagina">
 <!ENTITY pref_titlebar_mode_url "Visualizza indirizzo pagina">
 <!ENTITY pref_magnifying_glass_enabled "Ingrandisci aree piccole">
 <!ENTITY pref_magnifying_glass_enabled_summary "Ingrandisci link e campi dei moduli quando si tocca l’area circostante.">
 <!ENTITY pref_scroll_title_bar2 "Navigazione a schermo intero">
-<!ENTITY pref_scroll_title_bar_summary "Nascondi la barra del titolo di &brandShortName; quando si scorre una pagina verso il basso">
+<!ENTITY pref_scroll_title_bar_summary2 "Nascondi la barra degli strumenti di &brandShortName; quando si scorre una pagina verso il basso">
 <!ENTITY pref_tab_queue_title2 "Apertura di più link">
 <!ENTITY pref_tab_queue_summary3 "Salvali fino alla successiva apertura di &brandShortName;.">
 <!ENTITY page_removed "Pagina rimossa">
@@ -352,8 +352,8 @@
 <!ENTITY home_most_recent_empty "In questa sezione verranno visualizzati i siti web più recenti.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: utilizzando una &formatS1;Nuova scheda anonima&formatS2; non verrà salvata alcuna cronologia.">
 <!ENTITY home_reading_list_empty "In questa sezione verranno visualizzati gli articoli da leggere.">
-<!ENTITY home_reading_list_hint2 "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona &formatI; che appare nella barra del titolo.">
-<!ENTITY home_reading_list_hint_accessible "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona Modalità lettura che appare nella barra del titolo.">
+<!ENTITY home_reading_list_hint3 "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona &formatI; che appare nella barra degli indirizzi.">
+<!ENTITY home_reading_list_hint_accessible2 "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona Modalità lettura che appare nella barra degli indirizzi.">
 <!ENTITY home_default_empty "Nessun contenuto disponibile per questo pannello.">
 <!ENTITY home_move_up_to_filter "Vai a &formatS;">
 <!ENTITY home_remote_tabs_title "Schede sincronizzate">
