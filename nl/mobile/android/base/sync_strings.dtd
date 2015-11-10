@@ -223,6 +223,7 @@
 <!ENTITY fxaccount_status_linktos 'Servicevoorwaarden (en)'>
 <!ENTITY fxaccount_status_linkprivacy 'Privacyverklaring (en)'>
 <!ENTITY fxaccount_status_more 'Meer&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Verbreken&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Firefox-account verwijderen?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; zal het synchroniseren met uw account stoppen, maar geen navigatiegegevens op dit apparaat verwijderen.'>
@@ -230,7 +231,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Firefox-account &formatS; verwijderd.'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Account verwijderen'>
 <!ENTITY fxaccount_enable_debug_mode 'Debugmodus inschakelen'>
 
 <!-- Localization note: this is the name shown by the Android system
