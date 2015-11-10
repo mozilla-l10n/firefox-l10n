@@ -530,16 +530,13 @@
 
 <!ENTITY devtools_auth_scan_header "Skanowanie kodu QR wyświetlonego na drugim urządzeniu">
 
-<!ENTITY restriction_disallow_import_settings_title2 "Wyłącz „Importuj z Androida”">
 <!ENTITY restriction_disallow_addons_title2 "Wyłącz instalację dodatków">
-<!ENTITY restriction_disallow_devtools_title2 "Wyłącz narzędzia dla programistów">
-<!ENTITY restriction_disallow_customize_home_title2 "Wyłącz dostosowywanie strony domowej">
 <!ENTITY restriction_disallow_private_browsing_title2 "Wyłącz tryb prywatny">
 <!ENTITY restriction_disallow_location_services_title2 "Wyłącz usługi lokalizacji">
-<!ENTITY restriction_disallow_display_settings_title2 "Wyłącz ustawienia wyświetlania">
 <!ENTITY restriction_disallow_clear_history_title2 "Wyłącz „Wyczyść historię przeglądania”">
 <!ENTITY restriction_disallow_master_password_title2 "Wyłącz hasło główne">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Wyłącz tryb gościnny">
+<!ENTITY restriction_disallow_advanced_settings_title "Wyłącz ustawienia zaawansowane">
 
 <!ENTITY bookmarks_about_browser "Firefox: O przeglądarce">
 <!ENTITY bookmarks_addons "Firefox: Dodatki">
