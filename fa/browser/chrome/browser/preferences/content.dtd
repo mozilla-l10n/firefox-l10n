@@ -8,8 +8,8 @@
 <!ENTITY  blockPopups.accesskey       "ب">
 
 <!ENTITY  notificationsPolicy.label            "اعلان‌ها">
-
-
+<!ENTITY  notificationsPolicyLearnMore.label   "بیشتر بدانید">
+<!ENTITY  notificationsPolicyDesc3.label       "انتخاب کنید چه سایت‌هایی اجازه دارند به شما اعلان ارسال کنند.">
 <!ENTITY  notificationsPolicyButton.accesskey  "ا">
 <!ENTITY  notificationsPolicyButton.label      "انتخاب…">
 <!ENTITY  notificationsDoNotDisturb.label      "مزاحم من نشوید">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "پخش محتوا DRM">
 <!ENTITY  playDRMContent.accesskey     "پ">
-
+<!ENTITY  playDRMContent.learnMore.label "بیشتر بدانید">

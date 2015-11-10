@@ -41,6 +41,7 @@
 
 <!ENTITY popup.label                     "باز کردن پنجره‌های واشو">
 
+<!ENTITY desktop-notification.label      "نمایش اعلان‌ها">
 <!ENTITY camera.label                    "استفاده از دوربین">
 <!ENTITY microphone.label                "استفاده از میکروفن">
 
