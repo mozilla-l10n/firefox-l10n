@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Alapértelmezett">
 <!ENTITY smtpListSetDefault.accesskey "A">
 
+<!ENTITY serverDetails.label "A kijelölt kiszolgáló adatai:">
 <!ENTITY serverDescription.label "Leírás: ">
 <!ENTITY serverName.label "Kiszolgáló neve: ">
 <!ENTITY serverPort.label "Port: ">
