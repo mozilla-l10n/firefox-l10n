@@ -345,7 +345,7 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Ver o relatório do estado">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Partilha dados de desempenho, utilização, hardware e personalização do seu navegador com a &vendorShortName; para nos ajudar a melhorar o &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de erro para ajudar a &vendorShortName; a tornar o navegado mais estável e seguro">
+<!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de erro para ajudar a &vendorShortName; a tornar o seu navegador mais estável e seguro">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Relator de erro">
