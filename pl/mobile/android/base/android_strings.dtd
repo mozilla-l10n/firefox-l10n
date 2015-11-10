@@ -227,7 +227,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Umożliwia używanie skanera kodów QR w pasku adresu">
 
 <!ENTITY pref_use_master_password "Hasło główne">
-<!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync2 "Zaloguj się">
 <!ENTITY pref_sync_summary2 "Synchronizowanie kart, zakładek, danych logowania, historii">
 <!ENTITY pref_search_suggestions "Podpowiedzi wyszukiwania">
 <!ENTITY pref_history_search_suggestions "Historia wyszukiwania">
