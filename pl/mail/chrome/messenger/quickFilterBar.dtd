@@ -17,9 +17,9 @@
 <!ENTITY quickFilterBar.inaddrbook.label "Od znajomych">
 <!ENTITY quickFilterBar.inaddrbook.tooltip "Wyświetl wiadomości pochodzące wyłącznie od kontaktów z książki adresowej">
 <!ENTITY quickFilterBar.tags.label "Z etykietą">
-<!ENTITY quickFilterBar.tags.tooltip "Wyświetl wyłącznie wiadomości posiadające etykiety">
+<!ENTITY quickFilterBar.tags.tooltip "Wyświetl wyłącznie wiadomości z etykietami">
 <!ENTITY quickFilterBar.attachment.label "Z załącznikiem">
-<!ENTITY quickFilterBar.attachment.tooltip "Wyświetl wyłącznie wiadomości posiadające załączniki">
+<!ENTITY quickFilterBar.attachment.tooltip "Wyświetl wyłącznie wiadomości z załącznikami">
 
 <!ENTITY quickFilterBar.resultsLabel.some.formatString "Znaleziono #1 wiadomość;Znaleziono #1 wiadomości;Znaleziono #1 wiadomości">
 <!ENTITY quickFilterBar.resultsLabel.none "Nie znaleziono wiadomości">

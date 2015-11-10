@@ -56,7 +56,7 @@
 <!ENTITY folderSharingTab.label "Współużytkowanie">
 <!ENTITY privileges.button.label "Uprawnienia…">
 <!ENTITY privileges.button.accesskey "p">
-<!ENTITY permissionsDesc.label "Posiadasz następujące uprawnienia:">
+<!ENTITY permissionsDesc.label "Masz następujące uprawnienia:">
 <!ENTITY folderType.label "Typ folderu:">
 
 <!ENTITY folderQuotaTab.label "Limit miejsca">

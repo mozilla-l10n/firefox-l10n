@@ -18,8 +18,8 @@
 <!ENTITY success.title.after ", następujące adresy e-mail są dostępne:">
 <!ENTITY success.tip "(można spróbować z innymi sugestiami, aby znaleźć więcej dostępnych adresów)">
 <!ENTITY partnership.description "We współpracy z kilkoma dostawcami usług pocztowych, program &brandShortName; może pomóc w założeniu nowego adresu e-mail. Wystarczy wprowadzić w pole wyszukiwania imię i nazwisko, pseudonim lub dowolne inne sugestie nazwy użytkownika, aby wyszukać dostępne adresy.">
-<!ENTITY existing.header "Posiadasz już adres e-mail?">
-<!ENTITY tinyheader.title "Posiadasz już adres e-mail?">
+<!ENTITY existing.header "Masz już adres e-mail?">
+<!ENTITY tinyheader.title "Masz już adres e-mail?">
 <!ENTITY tinyheader.existing "Pomiń i użyj istniejącego adresu e-mail">
 <!ENTITY content.close "Anuluj">
 

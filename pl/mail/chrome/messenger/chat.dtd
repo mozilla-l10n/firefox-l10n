@@ -8,7 +8,7 @@
 <!ENTITY searchResultConversation.label "Wyniki wyszukiwania">
 <!ENTITY chat.noConv.title "Tutaj będą wyświetlane rozmowy.">
 <!ENTITY chat.noConv.description "Używaj kontaktów z listy w lewym panelu w celu rozpoczęcia rozmowy.">
-<!ENTITY chat.noPreviousConv.description "Program &brandShortName; obecnie nie posiada zachowanych żadnych wcześniejszych rozmów dla tego kontaktu.">
+<!ENTITY chat.noPreviousConv.description "&brandShortName; obecnie nie ma zachowanych żadnych wcześniejszych rozmów dla tego kontaktu.">
 <!ENTITY chat.noAccount.title "Brak skonfigurowanych kont czat">
 <!ENTITY chat.noAccount.description "Skorzystaj z przycisku „Nowe konto”, aby skonfigurować konto czatu w programie &brandShortName;.">
 <!ENTITY chat.accountWizard.button "Nowe konto">

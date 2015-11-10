@@ -91,7 +91,7 @@
 ">
 
 <!ENTITY cspBlocked.title "Zablokowane przez politykę bezpieczeństwa treści">
-<!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ strona posiada politykę bezpieczeństwa treści, która na to nie pozwala.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ jej polityka bezpieczeństwa treści na to nie pozwala.</p>">
 
 <!ENTITY corruptedContentError.title "Uszkodzona zawartość">
 <!ENTITY corruptedContentError.longDesc "<p>Żądana treść nie może zostać wyświetlona, ponieważ wystąpił błąd podczas transmisji danych.</p><ul><li>Należy skontaktować się z odpowiedzialnymi w celu poinformowania ich o problemie.</li></ul>">
