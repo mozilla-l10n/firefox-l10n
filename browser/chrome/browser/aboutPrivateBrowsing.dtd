@@ -39,7 +39,7 @@
      -->
 
 <!ENTITY trackingProtection.width1             "24em">
-<!ENTITY trackingProtection.title              "Պատշտանություն հետագծումից">
+<!ENTITY trackingProtection.title              "Պաշտպանություն հետագծումից">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
