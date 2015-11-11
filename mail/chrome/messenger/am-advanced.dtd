@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Типово">
 <!ENTITY smtpListSetDefault.accesskey "Т">
 
+<!ENTITY serverDetails.label "Подробиці про обраний сервер:">
 <!ENTITY serverDescription.label "Опис: ">
 <!ENTITY serverName.label "Ім’я сервера: ">
 <!ENTITY serverPort.label "Порт: ">
