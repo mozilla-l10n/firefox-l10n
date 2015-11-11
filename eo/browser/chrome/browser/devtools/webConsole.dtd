@@ -102,3 +102,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Malfermi en vido de variantoj">
 <!ENTITY openInVarViewCmd.accesskey "v">
+<!ENTITY storeAsGlobalVar.label "Konservi kiel mallokan varianton">
+<!ENTITY storeAsGlobalVar.accesskey "m">

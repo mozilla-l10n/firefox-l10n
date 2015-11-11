@@ -13,7 +13,9 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Vi ne estas en privata retumado">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; evitos ke vi estu spurita kaj ne memoros la historion. Elŝutitaj dosieroj kaj novaj legosignoj estos tamen konservitaj en via aparato.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; blokas partojn de paĝoj, kiuj povus spuri vian retumon.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Ni ne memoros la historion, sed elŝutitaj dosieroj kaj novaj legosignoj estos tamen konservitaj en via aparato.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
