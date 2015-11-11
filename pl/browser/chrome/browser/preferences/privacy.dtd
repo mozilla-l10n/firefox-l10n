@@ -68,7 +68,7 @@
 <!ENTITY privateBrowsingPermanent2.accesskey "t">
 <!ENTITY rememberHistory2.label "Historia przeglądania i pobierania plików">
 <!ENTITY rememberHistory2.accesskey "s">
-<!ENTITY rememberSearchForm.label "Historię wyszukiwania i formularzy">
+<!ENTITY rememberSearchForm.label "Historia wyszukiwania i formularzy">
 <!ENTITY rememberSearchForm.accesskey   "f">
 <!ENTITY clearOnClose.label "Czyszczenie historii podczas zamykania programu &brandShortName;">
 <!ENTITY clearOnClose.accesskey "z">
