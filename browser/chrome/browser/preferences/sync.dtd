@@ -95,6 +95,11 @@ both, to better adapt this sentence to their language.
      The resulting sentence in English is: "Sync to your mobile device.
      Download Firefox for Android or Firefox for iOS." -->
 <!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo2.androidLink      "অ্যান্ড্রয়েডের জন্য ফায়ারফক্স">
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
-<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 
+<!ENTITY mobilePromo2.iOSBefore         " অথবা ">
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo2.iOSLink          "iOS এর জন্য ফায়ারফক্স">
+
+<!ENTITY mobilePromo2.end              ".">
