@@ -10,12 +10,12 @@
 <!ENTITY publishButton.label          "Publicar">
 <!-- Publish Tab Panel -->
 
-<!ENTITY siteList.label               "Nome do sítio:">
+<!ENTITY siteList.label               "Nome do site:">
 <!ENTITY siteList.accesskey           "e">
-<!ENTITY siteList.tooltip             "Escolha o sítio de publicação">
-<!ENTITY newSiteButton.label          "Novo sítio">
+<!ENTITY siteList.tooltip             "Escolha o site para o qual deseja publicar">
+<!ENTITY newSiteButton.label          "Novo site">
 <!ENTITY newSiteButton.accesskey      "N">
-<!ENTITY docDirList.label             "Subdiretório do sítio desta página:">
+<!ENTITY docDirList.label             "Subdiretório do site para esta página:">
 <!ENTITY docDirList.accesskey         "S">
 <!ENTITY docDirList.tooltip           "Escolha ou introduza o nome do subdiretório remoto desta pasta">
 <!ENTITY publishImgCheckbox.label     "Incluir imagens e outros ficheiros">
@@ -45,7 +45,7 @@
 <!ENTITY publishSites.label           "Sites de publicação">
 <!ENTITY serverInfo.label             "Informação do servidor">
 <!ENTITY loginInfo.label              "Informação de inicio de sessão">
-<!ENTITY siteName.label               "Nome do sítio:">
+<!ENTITY siteName.label               "Nome do site:">
 <!ENTITY siteName.accesskey           "e">
 <!ENTITY siteName.tooltip             "Um nickname que identifique este site de publicação (ex.: 'OMeuSite')">
 <!ENTITY siteUrl.label                "Endereço de publicação (ex.: 'ftp://ftp.meuisp.com/meunodedeutilizador'):">
