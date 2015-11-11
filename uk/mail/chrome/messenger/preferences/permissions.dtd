@@ -21,4 +21,8 @@
 <!ENTITY allow.accesskey              "Д">
 <!ENTITY windowClose.key              "w">
 
+<!ENTITY button.cancel.label          "Скасувати">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "Зберегти зміни">
+<!ENTITY button.ok.accesskey          "З">
 
