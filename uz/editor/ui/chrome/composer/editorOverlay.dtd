@@ -113,7 +113,7 @@
 <!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Ustdan chizilgan">
 <!ENTITY styleStrikeThruCmd.accesskey "U">
-<!ENTITY styleSuperscriptCmd.label "Superscript">
+<!ENTITY styleSuperscriptCmd.label "Superskript">
 <!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Subskript">
 <!ENTITY styleSubscriptCmd.accesskey "S">

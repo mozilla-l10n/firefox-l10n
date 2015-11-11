@@ -6,13 +6,13 @@
      the quick filter bar.
      -->
 
-<!ENTITY quickFilterBar.qfbShowFilterBar.label "Tezkor filterlash">
+<!ENTITY quickFilterBar.qfbShowFilterBar.label "Tezkor filter">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Tezkor filterlash paneli">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Tezkor filter paneli">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.

@@ -78,7 +78,8 @@ ulanishini tekshirib ko‘ring.</li>
 <!ENTITY proxyConnectFailure.title "Proksi server ulanishlarni rad qilmoqda">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Proksi sozlamalari to‘g‘ri ekanligini tekshirib ko‘ring.</li> 
-<li>Prokse serverishlayotganligiga ishonch hosil qilish uchun tarmoq administratori bilan bog‘laing.</li> 
+<li>Proksi server ishlayotganligiga ishonch hosil qilish uchun tarmoq administratori bilan 
+ bog‘laning.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proksi serverni topa olmadi">
@@ -91,7 +92,8 @@ ulanishini tekshirib ko‘ring.</li>
 
 <!ENTITY redirectLoop.title "Sahifa to‘g‘ri yo‘naltirilmayapti">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Bu muammo ba’zida kukularni o‘chirib qo‘yilishiga yoki ularni qabul qilishni rad qilinishiga sabab bo‘lishi mumkin.</li> 
+<li>Bu muammo ba’zida kukilarni o‘chirib qo‘yilishiga yoki ularni qabul qilishni rad qilinishiga sabab 
+ bo‘lishi mumkin.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Serverdan kutilmagan javob keldi">
@@ -109,7 +111,8 @@ o‘rnatilgan bo‘lishi kerak.</li>
 
 <!ENTITY nssBadCert.title "Xavfsiz ulanish amalga oshmadi">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Bunga sabab serverdagi noto‘g‘ri sozlanishi bilan bog‘liq muammo bo‘lishi mumkin yoki kimdir server ma’lumotlarini qalbakilashtirishga urinib ko‘ryapti.</li> 
+<li>Bunga sabab serverdagi noto‘g‘ri sozlanishi bilan bog‘liq muammo bo‘lishi mumkin yoki kimdir 
+ server ma’lumotlarini qalbakilashtirishga urinib ko‘ryapti.</li> 
 <li>Agar siz ushbu serverga oldinroq muvaffaqiyatli ulangan bo‘lsangiz, xato 
 vaqtinchalik bo‘lishi va keyinroq urinib ko‘rishingiz mumkin.</li> 
 </ul>">
@@ -146,4 +149,4 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Masofadagi XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Muammo haqida xabar berish uchun veb sayt egasibilan bog‘laning.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li></ul></p>">
