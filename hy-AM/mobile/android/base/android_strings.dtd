@@ -228,7 +228,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Միացված Գաղտնի դիտարկման ժամանակ">
 <!ENTITY pref_tracking_protection_disabled "Անջատված">
 
-<!ENTITY tracking_protection_prompt_title "Այժմ պատշտանություն հետագծումից">
+<!ENTITY tracking_protection_prompt_title "Այժմ պաշտպանություն հետագծումից">
 <!ENTITY tracking_protection_prompt_text "Արգելափակում է հետագծող տարրերը:">
 <!ENTITY tracking_protection_prompt_tip_text "Մանրամասները՝ Գաղտնիության կարգավորումներում">
 <!ENTITY tracking_protection_prompt_action_button "Հասկացա">
@@ -598,7 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Դուք անջատել եք ոչ անվտանգ տարրերից պաշտպանութունը:">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY doorhanger_tracking_title "Պատշտանություն հետագծումից">
+<!ENTITY doorhanger_tracking_title "Պաշտպանություն հետագծումից">
 <!ENTITY doorhanger_tracking_state_enabled "Միացված">
 <!ENTITY doorhanger_tracking_state_disabled "Անջատված">
 <!ENTITY doorhanger_tracking_message_enabled1 "Առցանց հետագծումը արգելափակված է:">
