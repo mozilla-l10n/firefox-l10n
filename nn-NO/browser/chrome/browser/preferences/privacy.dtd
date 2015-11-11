@@ -13,6 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Bruk sporingsvern i private vindauge">
 <!ENTITY trackingProtectionPBM5.accesskey     "u">
 <!ENTITY trackingProtectionPBMLearnMore.label "Les meir">
+<!ENTITY changeBlockList.label          "Endra blokkeringsliste">
+<!ENTITY changeBlockList.accesskey      "E">
 
 <!ENTITY  history.label                 "Historikk">
 
@@ -45,7 +47,6 @@
 
 <!ENTITY  expire.label                  "dei går ut på dato">
 <!ENTITY  close.label                   "eg avsluttar &brandShortName;">
-<!ENTITY  askEachTime.label             "spør kvar gong">
 
 <!ENTITY  cookieExceptions.label        "Unntak …">
 <!ENTITY  cookieExceptions.accesskey    "U">
