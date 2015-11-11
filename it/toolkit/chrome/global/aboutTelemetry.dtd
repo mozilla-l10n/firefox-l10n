@@ -15,6 +15,7 @@
 <!ENTITY aboutTelemetry.choosePing "Scegli ping:">
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping più recente">
 <!ENTITY aboutTelemetry.showOlderPing "Ping più vecchio &gt;&gt;">
+<!ENTITY aboutTelemetry.rawPingData "Dati ping non elaborati…">
 <!ENTITY aboutTelemetry.archiveWeekHeader "Settimana">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 <!ENTITY aboutTelemetry.generalDataSection "Dati generali">
