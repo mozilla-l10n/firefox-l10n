@@ -41,6 +41,7 @@
 
 <!ENTITY popup.label                     "Felugró ablak megnyitása">
 
+<!ENTITY desktop-notification.label      "Értesítések megjelenítése">
 <!ENTITY camera.label                    "Kamera használata">
 <!ENTITY microphone.label                "Mikrofon használata">
 
