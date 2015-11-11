@@ -16,8 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Paste As Quotation">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 
-
-
+<!ENTITY findBarCmd.label "پیدا کردن">
+<!ENTITY findReplaceCmd.label "پیدا کردن و جایگذاری...">
 <!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "بررسی املا">
@@ -40,8 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-
-
+<!ENTITY insertMathCmd.label "ریاضی...">
+<!ENTITY insertMathCmd.accesskey "ر">
 <!ENTITY insertCharsCmd.label "Characters and Symbols…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Break Below Image(s)">
@@ -326,7 +326,7 @@
 <!ENTITY alignLeftButton.tooltip "Align text along left margin">
 <!ENTITY alignCenterButton.tooltip "Align text centered">
 <!ENTITY alignRightButton.tooltip "Align text along right margin">
-
+<!ENTITY alignJustifyButton.tooltip "تراز کردن متن با حاشیه‌های چپ و راست">
 <!-- Structure Toolbar Context Menu items -->
 
 <!ENTITY structSelect.label         "انتخاب">

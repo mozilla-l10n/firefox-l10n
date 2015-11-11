@@ -3,23 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- File menu items -->
 
+<!ENTITY openFileCmd.label "بازکردن پرونده…">
+<!ENTITY openFileCmd.accesskey "ب">
 
+<!ENTITY openRemoteCmd.label "بازکردن نشانی اینترنتی…">
+<!ENTITY openRemoteCmd.accesskey "ش">
 
-
-
-
-
+<!ENTITY fileRecentMenu.label "صفحه‌های اخیر">
+<!ENTITY fileRecentMenu.accesskey "ص">
 <!ENTITY saveCmd.label "ذخیره">
 <!ENTITY saveCmd.accesskey "ذ">
+<!ENTITY saveAsCmd.label "ذخیره به نام…">
+<!ENTITY saveAsCmd.accesskey "ن">
+<!ENTITY saveAsChangeEncodingCmd2.label "ذخیره و تغییر کد گذاری متن">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "ک">
+<!ENTITY publishCmd.label "انتشار‌">
+<!ENTITY publishCmd.accesskey "ا">
 
-
-
-
-
-
-
-
-
+<!ENTITY publishAsCmd.label "انتشار به عنوان...">
+<!ENTITY publishAsCmd.accesskey "ش">
 
 
 <!-- Edit menu items -->
@@ -29,6 +31,6 @@
 <!ENTITY newToolbarCmd.label "جدید">
 
 <!ENTITY openToolbarCmd.label "باز کردن">
-
-
+<!ENTITY openToolbarCmd.tooltip "باز کردن یک پرونده‌ی محلی">
+<!ENTITY saveToolbarCmd.tooltip "ذخیره‌ی پرونده در یک مکان محلی">
 

@@ -66,8 +66,8 @@
 
 <!ENTITY showImageLinkBorder.label "Show border around linked image">
 <!ENTITY showImageLinkBorder.accessKey "b">
-
-
+<!ENTITY LinkAdvancedEditButton.label "ویرایش پیشرفته‌ی پیوند...">
+<!ENTITY LinkAdvancedEditButton.accessKey "پ">
 <!ENTITY LinkAdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
 <!-- These tabs are currently used in the image input dialog -->
 
