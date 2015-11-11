@@ -57,12 +57,12 @@ se o &brandShortName; tem permissão para aceder à web.</li>
 
 <!ENTITY contentEncodingError.title "Erro de codificação do conteúdo">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Contacte o dono do sítio web para o informar deste problema.</li> 
+<li>Contacte os proprietários do website para os informar deste problema.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Tipo de ficheiro não seguro">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Contacte o dono do sítio web para o informar deste problema.</li> 
+<li>Contacte os proprietários do website para os informar deste problema.</li> 
 </ul>">
 
 <!ENTITY netReset.title "A ligação foi reiniciada">
@@ -107,7 +107,7 @@ instalado.</li>
 <!ENTITY nssFailure2.title "A ligação segura falhou">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>A página que está a tentar visualizar não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.</li> 
-<li>Por favor informe os donos do sítio web do problema. Alternativamente, use o comando no menu Ajuda para reportar o mau funcionamendo deste sítio.</li> 
+<li>Por favor informe os proprietários do website do problema.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "A ligação segura falhou">
@@ -119,7 +119,7 @@ temporário e pode tentar mais tarde.</li>
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>O sítio pode estar temporariamente indisponível ou ocupado. Tente novamente 
+<li>O site pode estar temporariamente indisponível ou ocupado. Tente novamente 
 dentro de alguns instantes.</li> 
 <li>Se não conseguir carregar qualquer página, verifique a ligação de rede do seu 
 computador.</li> 
@@ -127,12 +127,12 @@ computador.</li>
 se o &brandShortName; tem autorização para aceder à web.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspeita de sítio de ataque!">
-<!ENTITY malwareBlocked.longDesc "<p>Os sítios de ataque tentam instalar programas que roubam a sua informação pessoal, usam o seu computador para atacar outros ou causam danos ao seu sistema.</p> 
-<p>Os donos de sítios web que acreditam que os seus sítios foram reportados erroneamente como um sítio de ataque podem <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
+<!ENTITY malwareBlocked.title "Suspeita de site de ataque!">
+<!ENTITY malwareBlocked.longDesc "<p>Os sites de ataque tentam instalar programas que roubam a sua informação pessoal, usam o seu computador para atacar outros ou causam danos ao seu sistema.</p> 
+<p>Os proprietários de websites que acreditam que os seus sites foram reportados erroneamente como um site de ataque podem <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
 
-<!ENTITY unwantedBlocked.title "Suspeita de sítio web de programas indesejados!">
-<!ENTITY unwantedBlocked.longDesc "<p>Os sítios web de programas indesejados tentam instalar aplicações que podem afetar o bom funcionamento do seu sistema.</p>">
+<!ENTITY unwantedBlocked.title "Suspeita de site de programas indesejados!">
+<!ENTITY unwantedBlocked.longDesc "<p>As páginas de programas indesejados tentam instalar aplicações que podem afetar o bom funcionamento do seu sistema.</p>">
 
 <!ENTITY phishingBlocked.title "Suspeita de fraude!">
 <!ENTITY phishingBlocked.longDesc "<p>A introdução de qualquer informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo de fraude.</p> 
@@ -142,7 +142,7 @@ se o &brandShortName; tem autorização para aceder à web.</li>
 <!ENTITY cspBlocked.longDesc "O <p>&brandShortName; impediu o carregamento da página porque a mesma tem uma política de segurança de conteúdo que a impede.</p>">
 
 <!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
-<!ENTITY corruptedContentError.longDesc "<p>O conteúdo que está a tentar visualizar não pode ser mostrado porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte os donos do sítio web para os informar sobre este problema.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>O conteúdo que está a tentar visualizar não pode ser mostrado porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte os proprietários para os informar sobre este problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sair daqui!">
@@ -159,4 +159,4 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte o dono do sítio web para o informar sobre este problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os proprietários do website para os informar sobre este problema.</li></ul></p>">

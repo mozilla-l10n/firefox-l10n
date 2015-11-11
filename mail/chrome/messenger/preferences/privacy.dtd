@@ -14,9 +14,9 @@
 
 <!ENTITY captionWebContent.label "Conteúdo web">
 
-<!ENTITY keepHistory.label "Lembrar sítios e ligações que visitei">
+<!ENTITY keepHistory.label "Lembrar websites e ligações que visitei">
 <!ENTITY keepHistory.accesskey "r">
-<!ENTITY acceptCookies.label "Aceitar cookies dos sítios web">
+<!ENTITY acceptCookies.label "Aceitar cookies dos sites">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "Aceitar cookies de terceiros:">
 <!ENTITY acceptThirdParty.pre.accesskey "c">
@@ -33,6 +33,6 @@
 <!ENTITY showCookies.label "Mostrar cookies">
 <!ENTITY showCookies.accesskey "s">
 
-<!ENTITY dntTrackingNotOkay.label2 "Informar os sítios web que não quero ser monitorizado">
+<!ENTITY dntTrackingNotOkay.label2 "Informar os sites que não quero ser monitorizado">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Saber mais sobre a não-monitorização">
