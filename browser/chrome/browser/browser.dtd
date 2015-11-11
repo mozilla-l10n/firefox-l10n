@@ -201,7 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Kontroli ĉu vi volas konservi vian pasvorton">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Vidi la mesaĝon de instalo de la programo">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Administri la uzon de kromprogramoj en tiu ĉi paĝo">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "Elekti ĉu tiu ĉi retejo rajtas montri sciigojn">
+<!ENTITY urlbar.webNotsNotificationAnchor2.label        "Ŝanĝi, ĉu la retejo povas ricevi sciigojn">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administri la dividon de via filmilo kaj/aŭ mikrofono kun la retejo">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Vi dividas vian filmilon kaj/aŭ mikrofonon kun la retejo">
@@ -216,10 +216,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Administri la tradukon de paĝo">
 <!ENTITY urlbar.emeNotificationAnchor.label             "Administri la uzon de programaron DRM">
 
-<!ENTITY urlbar.toggleAutocomplete.label                "Ŝalti/malŝalti la memplenigan ŝprucaĵon">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Montri historion">
 
-
-<!ENTITY locationItem.title           "Retadreso">
 <!ENTITY searchItem.title             "Serĉi">
 
 <!-- Toolbar items --> 
@@ -320,8 +318,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Fermi ilaron de programistoj">
 <!ENTITY devToolbarMenu.label              "Ilaro de programistoj">
 <!ENTITY devToolbarMenu.accesskey          "p">
-<!ENTITY devAppMgrMenu.label               "Administrado de programoj">
-<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -926,15 +922,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "Via ĵusa historio estis viŝita.">
 <!ENTITY panicButton.thankyou.msg2                "Sekura retumo!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Dankon!">
-
-<!ENTITY processHang.terminateScript.label        "Haltigi skripton">
-<!ENTITY processHang.terminateScript.accessKey    "s">
-<!ENTITY processHang.debugScript.label            "Sencimigi skripton">
-<!ENTITY processHang.debugScript.accessKey        "c">
-<!ENTITY processHang.terminatePlugin.label        "Ĉesigi kromprogramon">
-<!ENTITY processHang.terminatePlugin.accessKey    "k">
-<!ENTITY processHang.terminateProcess.label       "Ĉesigi Teksaĵan procezon">
-<!ENTITY processHang.terminateProcess.accessKey   "p">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Pli da informo pri DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "i">

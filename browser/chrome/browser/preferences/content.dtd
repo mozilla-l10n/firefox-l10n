@@ -8,9 +8,13 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "Sciigoj">
-<!ENTITY  notificationsPolicyDesc.label        "Elekti retejojn, kiuj rajtas montri sciigojn">
+<!ENTITY  notificationsPolicyLearnMore.label   "Pli da informo">
+<!ENTITY  notificationsPolicyDesc3.label       "Elektu la retejojn, kiuj rajtas sendi sciigojn al vi">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Elekti…">
+<!ENTITY  notificationsDoNotDisturb.label      "Ne ĝenu min">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "N">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Sciigoj estos montritaj post restarto de &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Esceptoj…">
 <!ENTITY  popupExceptions.accesskey   "E">

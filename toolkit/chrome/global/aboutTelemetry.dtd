@@ -135,3 +135,7 @@ Semajno
 <!ENTITY aboutTelemetry.filterText "
   Filtri (tekstojn aŭ /regulan esprimon/)
 ">
+
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Utilŝarĝo
+">
