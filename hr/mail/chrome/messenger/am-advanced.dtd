@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Postavi zadanim">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
+<!ENTITY serverDetails.label "Detalji odabranog poslužitelja:">
 <!ENTITY serverDescription.label "Opis: ">
 <!ENTITY serverName.label "Ime poslužitelja: ">
 <!ENTITY serverPort.label "Port: ">
