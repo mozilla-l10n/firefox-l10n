@@ -12,4 +12,4 @@
 <!ENTITY zoomReduceCmd.accesskey    "M">
 <!ENTITY zoomReduceCmd.commandkey   "-">
 
-
+<!ENTITY zoomResetCmd.commandkey    "0">

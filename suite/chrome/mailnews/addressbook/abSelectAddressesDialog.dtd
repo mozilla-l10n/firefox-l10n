@@ -6,11 +6,11 @@
 <!ENTITY selectAddressWindow.title           "Seleccionar enderezos">
 
 <!-- Buttons -->
-<!ENTITY toButton.label                      "To->"> 
+<!ENTITY toButton.label                      "Para->"> 
 <!ENTITY toButton.accesskey                  "P"> 
-<!ENTITY ccButton.label                      "Cc->"> 
+<!ENTITY ccButton.label                      "CC->"> 
 <!ENTITY ccButton.accesskey                  "C"> 
-<!ENTITY bccButton.label                     "Bcc->">  
+<!ENTITY bccButton.label                     "CCO->">  
 <!ENTITY bccButton.accesskey                 "O">  
 <!ENTITY newButton.label                     "Novo…"> 
 <!ENTITY newButton.accesskey                 "N"> 

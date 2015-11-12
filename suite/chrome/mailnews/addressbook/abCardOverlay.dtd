@@ -29,9 +29,9 @@
 <!ENTITY NameField2.accesskey           "l">
 <!ENTITY PhoneticField1.label           "Nome fonético:">
 <!ENTITY PhoneticField2.label           "Nome fonético:">
-<!ENTITY DisplayName.label              "Amosar:">
+<!ENTITY DisplayName.label              "Mostrar:">
 <!ENTITY DisplayName.accesskey          "M">
-<!ENTITY preferDisplayName.label        "Preferir sempre o nome amosado ao da cabeceira da mensaxe">
+<!ENTITY preferDisplayName.label        "Preferir sempre o nome mostrado ao da cabeceira da mensaxe">
 <!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY NickName.label                 "Alcume:">
 <!ENTITY NickName.accesskey             "u">

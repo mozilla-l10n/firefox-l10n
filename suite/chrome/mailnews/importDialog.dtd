@@ -31,6 +31,7 @@
 <!ENTITY acctName.label           "Nome:">
 <!ENTITY acctName.accesskey       "N">
 
+
 <!ENTITY back.label               "&lt; Atrás">
 <!ENTITY forward.label            "Seguinte &gt;">
 <!ENTITY finish.label             "Finalizar">

@@ -41,7 +41,7 @@
 
 <!ENTITY popup.label                     "Abrir xanelas emerxentes">
 
-<!ENTITY desktop-notification.label      "Amosar notificacións">
+<!ENTITY push.label                      "Recibir notificacións push">
 <!ENTITY camera.label                    "Usar a cámara">
 <!ENTITY microphone.label                "Usar o micrófono">
 

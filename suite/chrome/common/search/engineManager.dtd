@@ -22,7 +22,7 @@
 <!ENTITY  addEngine.label           "Obter máis buscadores…">
 <!ENTITY  addEngine.accesskey       "a">
 
-<!ENTITY  enableSuggest.label       "Amosar suxestións de busca">
+<!ENTITY  enableSuggest.label       "Mostrar suxestións de busca">
 <!ENTITY  enableSuggest.accesskey   "s">
 
 <!ENTITY  restoreDefaults.label     "Restaurar a configuración predeterminada">

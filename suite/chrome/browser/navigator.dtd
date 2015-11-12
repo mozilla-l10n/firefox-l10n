@@ -74,9 +74,3 @@
 
 <!ENTITY popupIcon.tooltiptext      "Desbloquear as xanelas emerxentes para este sitio web">
 
-<!ENTITY viewSecurityInfo.label      "Ver información de seguranza">
-<!ENTITY viewSecurityInfo.accesskey  "s">
-<!ENTITY viewCertificate.label       "Ver o certificado">
-<!ENTITY viewCertificate.accesskey   "c">
-<!ENTITY viewCertManager.label       "Abrir xestor de certificados">
-<!ENTITY viewCertManager.accesskey   "A">
