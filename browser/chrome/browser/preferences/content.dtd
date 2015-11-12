@@ -7,12 +7,13 @@
 <!ENTITY  blockPopups.label           "Blocar las fenèstras sorgissentas">
 <!ENTITY  blockPopups.accesskey       "B">
 
+<!ENTITY  notificationsPolicy.label            "Notificacions">
+<!ENTITY  notificationsPolicyLearnMore.label   "Ne saber mai">
 
-
-
-
-
-
+<!ENTITY  notificationsPolicyButton.accesskey  "a">
+<!ENTITY  notificationsPolicyButton.label      "Causir…">
+<!ENTITY  notificationsDoNotDisturb.label      "Derrenguetz pas">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 
 
 <!ENTITY  popupExceptions.label       "Excepcions…">
@@ -56,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "Reprodusir lo contengut amb DRM">
 <!ENTITY  playDRMContent.accesskey     "R">
-
+<!ENTITY  playDRMContent.learnMore.label "Ne saber mai">
