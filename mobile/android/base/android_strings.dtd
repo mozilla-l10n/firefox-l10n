@@ -444,6 +444,7 @@
 <!ENTITY restriction_disallow_master_password_title2 "Disattiva password principale">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Disattiva navigazione ospite">
 <!ENTITY restriction_disallow_advanced_settings_title "Disattiva impostazioni avanzate">
+<!ENTITY restriction_disallow_camera_microphone_title "Blocca fotocamera e microfono">
 <!ENTITY bookmarks_about_browser "Firefox: informazioni sul browser">
 <!ENTITY bookmarks_addons "Firefox: personalizza con i componenti aggiuntivi">
 <!ENTITY bookmarks_support "Firefox: supporto">
