@@ -539,6 +539,7 @@
 <!ENTITY restriction_disallow_master_password_title2 "Wyłącz hasło główne">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Wyłącz tryb gościnny">
 <!ENTITY restriction_disallow_advanced_settings_title "Wyłącz ustawienia zaawansowane">
+<!ENTITY restriction_disallow_camera_microphone_title "Zablokuj kamerę i mikrofon">
 
 <!ENTITY bookmarks_about_browser "Firefox: O przeglądarce">
 <!ENTITY bookmarks_addons "Firefox: Dodatki">
