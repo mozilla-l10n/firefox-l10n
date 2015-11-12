@@ -41,7 +41,7 @@
 <!ENTITY setup.tosAgree2.label      "e a">
 <!ENTITY setup.ppLink.label         "Política de privacidade">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+<!ENTITY setup.tosAgree2.accesskey  "a">
 
 <!-- New Account Page 2: Recovery Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; respecta a súa privacidade">
@@ -68,7 +68,7 @@
 <!ENTITY addDevice.dialog.description.label "Para activar o novo dispositivo, vaia ás Preferencias/Opcións do &syncBrand.shortName.label; no dispositivo e seleccione &#x0022;Conectar.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Introduza o código que lle fornece o dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Tente de novo.">
-<!ENTITY addDevice.dialog.successful.label  "Engadiuse correctamente o dispositivo. A sincronización inicial pode levarlle varios minutos e rematará en segundo plano.">
+<!ENTITY addDevice.dialog.successful.label  "Engadiuse o dispositivo correctamente. A sincronización inicial pode levarlle varios minutos e rematará en segundo plano.">
 <!ENTITY addDevice.dialog.recoveryKey.label "Para activar o seu dispositivo necesitará introducir a súa chave de recuperación. Imprima ou garde esta chave e lévea consigo.">
 <!ENTITY addDevice.dialog.connected.label   "Dispositivo conectado">
 

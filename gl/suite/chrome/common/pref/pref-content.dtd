@@ -5,9 +5,9 @@
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
 <!ENTITY pref.content.title                     "Contido">
-<!ENTITY pref.content.description               "Estas configuracións inflúen en como se amosa o contido dos sitios web e as mensaxes no &brandShortName;.">
+<!ENTITY pref.content.description               "Estas configuracións inflúen en como se mostra o contido dos sitios web e as mensaxes no &brandShortName;.">
 <!ENTITY siteIcons.label                        "Iconas do sitio web">
-<!ENTITY useSiteIcons.label                     "Amosar as iconas do sitio web">
+<!ENTITY useSiteIcons.label                     "Mostrar as iconas do sitio web">
 <!ENTITY useSiteIcons.accesskey                 "s">
 <!ENTITY useFavIcons.label                      "Buscar de modo agresivo iconas do sitio web se a páxina non define un">
 <!ENTITY useFavIcons.accesskey                  "a">

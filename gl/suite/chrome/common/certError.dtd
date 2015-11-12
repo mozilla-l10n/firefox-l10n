@@ -21,7 +21,6 @@ o sitio é correcto. Porén, a identidade deste sitio web non se pode verificar.
 <!ENTITY certerror.whatShouldIDo.content "Si normalmente conecta a
 este sitio web sen problemas, este erro podería significar que alguén está
 tentando facerse pasar polo sitio, e non debería continuar.">
-
 <!ENTITY certerror.getMeOutOfHere.label "Isto ten mala pinta, lévame a miña páxina de inicio">
 
 <!ENTITY certerror.expert.heading "Entendo os riscos">

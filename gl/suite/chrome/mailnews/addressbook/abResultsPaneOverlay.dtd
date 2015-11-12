@@ -44,7 +44,7 @@
 <!ENTITY deleteAddrBookCard.accesskey          "B">
 <!ENTITY newAddrBookCard.label                 "Nova tarxeta…">
 <!ENTITY newAddrBookCard.accesskey             "N">
-<!ENTITY newAddrBookMailingList.label          "Nova lista de correo…">
+<!ENTITY newAddrBookMailingList.label          "Nova rolda de correo…">
 <!ENTITY newAddrBookMailingList.accesskey      "l">
 <!ENTITY addrBookCardProperties.label          "Propiedades">
 <!ENTITY addrBookCardProperties.accesskey      "P">

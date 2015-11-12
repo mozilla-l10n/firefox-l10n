@@ -16,6 +16,6 @@
 <!ENTITY findAsYouTypeAutoLinks.label "Só ligazóns">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "l">
 
-<!ENTITY findAsYouTypeFindbarEnable.label "Amosa a barra de buscas ao atopar mentres escribe">
+<!ENTITY findAsYouTypeFindbarEnable.label "Mostra a barra de buscas ao atopar mentres escribe">
 <!ENTITY findAsYouTypeFindbarEnable.accesskey "s">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: Atopar mentres escribe sen amosar a barra de buscas non permite introducir caracteres internacionais.">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: Atopar mentres escribe sen mostrar a barra de buscas non permite introducir caracteres internacionais.">

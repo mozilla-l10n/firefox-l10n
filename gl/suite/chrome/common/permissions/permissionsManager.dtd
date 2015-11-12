@@ -5,10 +5,10 @@
 <!ENTITY windowtitle.label              "Excepcións">
 <!ENTITY treehead.sitename.label        "Sitio web">
 <!ENTITY treehead.status.label          "Estado">
-<!ENTITY remove.label                   "Retirar o sitio web">
-<!ENTITY remove.accesskey               "R">
-<!ENTITY removeall.label                "Retirar todos os sitios web">
-<!ENTITY removeall.accesskey            "e">
+<!ENTITY remove.label                   "Eliminar o sitio web">
+<!ENTITY remove.accesskey               "r">
+<!ENTITY removeall.label                "Eliminar todos os sitios web">
+<!ENTITY removeall.accesskey            "E">
 <!ENTITY address.label                  "Enderezo do sitio web:">
 <!ENTITY address.accesskey              "d">
 <!ENTITY block.label                    "Bloquear">

@@ -4,7 +4,7 @@
 
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Introduza o enderezo da páxina web (URL) ou especifique o ficheiro local que desexa abrir:">
+<!ENTITY enter.label "Introduza o enderezo da páxina web (URL) ou especifique o ficheiro local que desexa abrir:">  
 <!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
      as defined above and attachEnterLabel as defined in
      openLocation.properties -->

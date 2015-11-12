@@ -20,7 +20,7 @@
 <!ENTITY  FTPPort.accesskey           "r">
 
 <!ENTITY  socks.caption               "Proxy xenérico">
-<!ENTITY  socks.description           "Un proxy SOCKS é un proxy xenérico usado ás veces en entornos corporativos e similares.">
+<!ENTITY  socks.description           "Un proxy SOCKS é un proxy xenérico usado ás veces en contornos corporativos e similares.">
 <!ENTITY  socks.label                 "Proxy SOCKS:">
 <!ENTITY  socks.accesskey             "S">
 <!ENTITY  socks4.label                "SOCKS v4">

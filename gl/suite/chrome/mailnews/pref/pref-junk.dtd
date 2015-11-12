@@ -22,7 +22,7 @@
 
 <!ENTITY enableJunkLogging.label        "Activar o rexistro do filtro de lixo">
 <!ENTITY enableJunkLogging.accesskey    "e">
-<!ENTITY openJunkLog.label              "Amosar o rexistro">
+<!ENTITY openJunkLog.label              "Mostrar o rexistro">
 <!ENTITY openJunkLog.accesskey          "s">
 <!ENTITY resetTrainingData.label        "Restabelecer os datos de adestramento">
 <!ENTITY resetTrainingData.accesskey    "R">

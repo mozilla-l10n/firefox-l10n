@@ -14,7 +14,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key       "o">
 
-
+<!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
 <!ENTITY tagCmd3.key "3">

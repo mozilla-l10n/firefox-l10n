@@ -8,8 +8,8 @@
 <!ENTITY sidebar.picker.label           "Lapelas">
 <!ENTITY sidebar.customize.label        "Personalizar barra lateral…">
 <!ENTITY sidebar.customize.accesskey    "P">
-<!ENTITY sidebar.hide.label             "Agochar lapela">
-<!ENTITY sidebar.hide.accesskey         "h">
+<!ENTITY sidebar.hide.label             "Ocultar lapela">
+<!ENTITY sidebar.hide.accesskey         "l">
 <!ENTITY sidebar.switch.label           "Cambiar á lapela">
 <!ENTITY sidebar.switch.accesskey       "b">
 <!ENTITY sidebarCmd.label               "Barra lateral">
@@ -21,7 +21,7 @@
 
 <!ENTITY sidebar.no-panels.state     "Neste momento a barra lateral está baleira.">
 <!ENTITY sidebar.no-panels.add       'Pode engadir lapelas premendo no botón &quot;Lapelas&quot; que está enriba.'>
-<!ENTITY sidebar.no-panels.hide      'Se desexa agochar por completo a barra lateral, prema no menú &quot;Ver&quot; da parte superior, e seleccione &quot;Barra lateral&quot; desde o submenú &quot;Amosar/Agochar&quot;.'>
+<!ENTITY sidebar.no-panels.hide      'Se desexa ocultar por completo a barra lateral, prema no menú &quot;Ver&quot; da parte superior, e seleccione &quot;Barra lateral&quot; desde o submenú &quot;Mostrar/Ocultar&quot;.'>
 <!ENTITY sidebar.sbDirectory.label   "Cartafol da barra lateral…">
 
 <!ENTITY sidebar.pagenotfound.label  "Esta lapela non está dispoñíbel neste momento.">
