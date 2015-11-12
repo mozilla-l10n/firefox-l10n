@@ -15,7 +15,6 @@
 <!ENTITY pasteAsQuotationCmd.label "Apegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Guetar y trocar…">
 <!ENTITY enableInlineSpellChecker.label "Revisar ortografía según escribes">
 <!ENTITY enableInlineSpellChecker.accesskey "R">
 <!ENTITY checkSpellingCmd2.label "Revisar ortografía">
@@ -294,3 +293,7 @@
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY decrementFontSize.key2 ",">
 <!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY insertMathCmd.label "Espresión matemática…">
+<!ENTITY insertMathCmd.accesskey "M">
+<!ENTITY findReplaceCmd.label "Guetar y trocar…">
+<!ENTITY findBarCmd.label "Guetar…">

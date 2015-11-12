@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY captionMailContent.label "Conteníu de corréu">
+<!ENTITY acceptRemoteContent.label "Permitir conteníu remotu nos mensaxes">
+<!ENTITY acceptRemoteContent.accesskey "P">
+<!ENTITY remoteContentExceptions.label "Esceiciones…">
+<!ENTITY remoteContentExceptions.accesskey "s">
+<!ENTITY acceptRemoteContentInfo.label "Saber más tocante a los problemas de privacidá del conteníu remotu">
+<!ENTITY captionWebContent.label "Conteníu web">
+<!ENTITY keepHistory.label "Recordar sitios web y enllaces que visité">
+<!ENTITY keepHistory.accesskey "R">
+<!ENTITY acceptCookies.label "Aceutar cookies de los sitios">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Aceutar cookies de terceros:">
+<!ENTITY acceptThirdParty.pre.accesskey "d">
+<!ENTITY acceptThirdParty.always.label "Siempre">
+<!ENTITY acceptThirdParty.never.label "Enxamás">
+<!ENTITY acceptThirdParty.visited.label "De sitios visitaos">
+<!ENTITY keepUntil.label "Caltener hasta que:">
+<!ENTITY keepUntil.accesskey "C">
+<!ENTITY expire.label "caduquen">
+<!ENTITY close.label "zarre &brandShortName;">
+<!ENTITY askEachTime.label "entrugame cada vegada">
+<!ENTITY cookieExceptions.label "Esceiciones…">
+<!ENTITY cookieExceptions.accesskey "n">
+<!ENTITY showCookies.label "Amosar cookies…">
+<!ENTITY showCookies.accesskey "A">
+<!ENTITY dntTrackingNopref.label2 "Nun indicar a los sitios un res sobre les mios preferencies de rastrexu">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label2 "Indicar a los sitios que nun quiero que me rastrexen">
+<!ENTITY dntTrackingNotOkay.accesskey "">
+<!ENTITY dntTrackingOkay.label2 "Indicar a los sitios que quiero que me rastrexen">
+<!ENTITY dntTrackingOkay.accesskey "I">
+<!ENTITY doNotTrackInfo.label "Saber más tocante a Non rastrexar">

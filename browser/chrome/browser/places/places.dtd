@@ -128,3 +128,5 @@
 <!ENTITY byDayAndSite.label "Por data y sitiu">
 <!ENTITY byDayAndSite.accesskey "t">
 <!ENTITY col.mostrecentvisit.label "Visita más recién">
+<!ENTITY cmd.open_private_window.label "Abrir nuna ventanta privada nueva">
+<!ENTITY cmd.open_private_window.accesskey "P">

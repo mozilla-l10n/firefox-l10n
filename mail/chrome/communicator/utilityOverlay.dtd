@@ -28,8 +28,6 @@
 <!ENTITY selectAllCmd.label "Esbillar too">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Opciones…">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencies">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY viewMenu.label "Ver">
@@ -38,8 +36,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Barra d'estáu">
 <!ENTITY showTaskbarCmd.accesskey "B">
-<!ENTITY proxy.label "Configuración de proxy…">
-<!ENTITY proxy.accesskey "C">
 <!ENTITY closeCmd.label "Zarrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Z">
@@ -50,3 +46,5 @@
 <!ENTITY quitApplicationCmdUnix.accesskey "o">
 <!ENTITY quitApplicationCmdMac.label "Colar de &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey "a">
+<!ENTITY preferencesCmd2.label "Opciones">
+<!ENTITY preferencesCmd2.accesskey "O">

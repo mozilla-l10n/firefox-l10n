@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY fileExceedsQuota.title "Hightail">
+<!ENTITY fileExceedsQuota.storageLimitReached "Algamóse la llende d'almacenamientu">
+<!ENTITY fileExceedsQuota.accept "Anovar">
+<!ENTITY fileExceedsQuota.cancel "Encaboxar">
+<!ENTITY fileExceedsQuota.description "Algamasti la llende d'almacenamientu de la cuenta de 2 GB.">
+<!ENTITY fileExceedsQuota.description1 "L'usu d'almacenamientu actual ye #XXX GB.">
+<!ENTITY fileExceedsQuota.description2 "Anueva güei a una cuenta Pro Plus y consigui más almacenamientu.">
+<!ENTITY fileExceedsQuota.description3 "Tamién pues elexir desaniciar ficheros na cuenta pa tener más espaciu.">

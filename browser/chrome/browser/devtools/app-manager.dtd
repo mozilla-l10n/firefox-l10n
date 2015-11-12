@@ -95,3 +95,5 @@
 <!ENTITY help.troubleShooting "Iguar problemes">
 <!ENTITY help.simulatorAddon "Instalar el complementu Simulator">
 <!ENTITY help.adbHelperAddon "Instalar el complementu Adb Helper">
+<!ENTITY device.debugMainProcessTooltip "Abrir les ferramientes de desendolcadores coneutaes al procesu principal del preséu">
+<!ENTITY device.debugMainProcess "Depurar procesu principal">
