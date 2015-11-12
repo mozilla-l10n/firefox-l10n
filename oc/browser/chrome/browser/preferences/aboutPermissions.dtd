@@ -19,7 +19,7 @@
 
 <!ENTITY permission.alwaysAsk            "Demandar totjorn">
 <!ENTITY permission.allow                "Autorizar">
-<!ENTITY permission.allowForSession      "Autorizar pendent la sesilha">
+<!ENTITY permission.allowForSession      "Autorizar pendent la session">
 <!ENTITY permission.allowFirstPartyOnly  "Domeni principal sol">
 <!ENTITY permission.block                "Blocar">
 
@@ -41,6 +41,8 @@
 
 <!ENTITY popup.label                     "Dobrir de fenèstras sorgissentas">
 
+<!ENTITY desktop-notification.label      "Utilizar las notificacions">
 <!ENTITY camera.label                    "Utilizar la camèra">
 <!ENTITY microphone.label                "Utilizar lo microfòn">
 
+<!ENTITY focusSearch.key                 "f">

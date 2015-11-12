@@ -39,7 +39,7 @@
 
 <!ENTITY syncDeviceName.label       "Nom de l'aparelh :">
 <!ENTITY syncDeviceName.accesskey   "d">
-
+<!ENTITY fxaSyncDeviceName.label       "Nom de l'aparelh">
 
 <!ENTITY cancelChangeSyncDeviceName.label "Anullar">
 <!ENTITY saveChangeSyncDeviceName.label "Enregistrar">

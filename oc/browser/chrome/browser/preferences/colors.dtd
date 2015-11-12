@@ -12,7 +12,7 @@
 
 <!ENTITY  overridePageColors.never.label  "Pas jamai">
 
-<!ENTITY  color                           "Tèxte e rèire plan">
+<!ENTITY  color                           "Tèxte e rèireplan">
 <!ENTITY  textColor.label                 "Tèxte :">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Rèire plan :">

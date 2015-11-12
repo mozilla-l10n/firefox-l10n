@@ -11,7 +11,7 @@
 
 <!ENTITY     button.allow.label             "Autorizar">
 <!ENTITY     button.allow.accesskey         "A">
-<!ENTITY     button.session.label           "Autorizar pendent la sesilha">
+<!ENTITY     button.session.label           "Autorizar pendent la session">
 <!ENTITY     button.session.accesskey       "s">
 <!ENTITY     button.deny.label              "Interdire">
 <!ENTITY     button.deny.accesskey          "I">

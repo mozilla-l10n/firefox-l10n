@@ -4,10 +4,11 @@
 
 <!ENTITY refreshProfile.dialog.title         "Reïnicializar &brandShortName;">
 
-
+<!ENTITY refreshProfile.dialog.description2  "En contunhant anatz :">
 
 
 <!ENTITY refreshProfile.dialog.button.label  "Reïnicializar &brandShortName;">
 
 <!ENTITY refreshProfile.button.label         "Reïnicializar &brandShortName;...">
 
+<!ENTITY refreshProfile.cleaning.description "Netejatge en cors...">

@@ -87,7 +87,7 @@
 <!ENTITY updateHistory.label             "Afichar l'istoric de las mesas a jorn">
 <!ENTITY updateHistory.accesskey         "h">
 
-<!ENTITY useService.label                "Utilizar un servici en rèire plan per installar las mesas a jorn">
+<!ENTITY useService.label                "Utilizar un servici en rèireplan per installar las mesas a jorn">
 <!ENTITY useService.accesskey            "z">
 
 <!ENTITY updateOthers.label              "Metre a jorn automaticament :">
