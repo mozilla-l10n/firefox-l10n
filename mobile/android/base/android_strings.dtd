@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Senda þennan flipa yfir á annað tengt tæki">
+
 <!ENTITY pref_category_search3 "Leita">
 <!ENTITY pref_category_search_summary "Stilla leitarvélar">
 <!ENTITY pref_category_display "Birting">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Virkar fyrir utan þriðja aðila">
 <!ENTITY pref_cookies_disabled "Óvirkar">
 
-
+<!ENTITY pref_tap_to_load_images_title "Snertu til að hlaða inn myndir">
+<!ENTITY pref_tap_to_load_images_summary2 "Hlaða myndir eingöngu þegar þú snertir þær og heldur lengi niðri">
 
 <!ENTITY pref_tracking_protection_title "Vörn gegn því að fylgst sé með þér">
-
+<!ENTITY pref_tracking_protection_summary3 "Virkt í huliðsvöfrun">
 <!ENTITY pref_donottrack_title "Ekki leyfa að fylgjast með">
 <!ENTITY pref_donottrack_summary "&brandShortName; mun láta vefsvæði vita að þú vilt ekki láta fylgjast með þér">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Virkt">
+<!ENTITY pref_tracking_protection_enabled_pb "Virkt í huliðsvöfrun">
+<!ENTITY pref_tracking_protection_disabled "Óvirkt">
 
 <!ENTITY tracking_protection_prompt_title "Nú með vörn gegn því að fylgst sé með þér">
 <!ENTITY tracking_protection_prompt_text "Virk lokun á eltibúnað svo þú þurfir ekki að hafa áhyggjur.">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Synca flipana þína, bókarmerki, lykilorð, sögu">
 <!ENTITY pref_search_suggestions "Sýna leitar uppástungur">
-
+<!ENTITY pref_history_search_suggestions "Sýna í leitarsögu">
 <!ENTITY pref_import_android "Flytja inn frá Android">
 <!ENTITY pref_import_android_summary "Flytja inn bókarmerki og sögu frá innbyggðum vafra">
 <!ENTITY pref_private_data_history2 "Ferill">
@@ -585,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Örugg tenging">
 <!ENTITY identity_connection_insecure "Óörugg tenging">
-
+<!ENTITY identity_login_insecure "Þessi síða er ekki örugg og innskráningin þín gæti verið í hættu.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; hefur lokað á óöruggt efni á þessari síðu.">
@@ -705,6 +709,7 @@ frá Android">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Þessi hlekkur mun opnast í &formatS;. Ertu viss að þú viljir hætta í huliðsstillingu?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -712,6 +717,7 @@ frá Android">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Hætta í huliðsstillingu?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
