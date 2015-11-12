@@ -137,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Hætta í fullum skjá (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Hætta í fullum skjá (esc) ">
+<!ENTITY exitDOMFullscreenMac.button "Hætta í fullum skjá (esc)">
 <!ENTITY leaveDOMFullScreen.label "Hætta í fullum skjá">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -761,10 +761,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher2 "Aðrir geta skoðað þessar upplýsingar eða breytt virkni vefsvæðisins.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.">
 <!ENTITY identity.description.passiveLoaded "Tengingin við þetta vefsvæði er ekki lokuð og upplýsingar sem þú sendir gætu aðrir skoðað.">
-<!ENTITY identity.description.passiveLoaded2 "Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og myndir). ">
+<!ENTITY identity.description.passiveLoaded2 "Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og myndir).">
 <!ENTITY identity.description.passiveLoaded3 "Þótt &brandShortName; hafi lokað á suma hluta, er ennþá innihald á síðunni sem er ekki öruggt (eins og myndir).">
 <!ENTITY identity.description.activeLoaded "Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og skriftur) og tengingin er ekki lokuð.">
-<!ENTITY identity.description.activeLoaded2 "Þær upplýsingar sem þú gefur upp á þessu vefsvæði gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira). ">
+<!ENTITY identity.description.activeLoaded2 "Þær upplýsingar sem þú gefur upp á þessu vefsvæði gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Virkja vernd">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
@@ -772,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "H">
 <!ENTITY identity.learnMore "Fræðast meira">
 
-<!ENTITY identity.moreInfoLinkText2 "Nánari upplýsingar…">
+<!ENTITY identity.moreInfoLinkText2 "Nánari upplýsingar">
 
 <!ENTITY identity.permissions "Heimildir">
 <!ENTITY identity.permissionsEmpty "Þú hefur ekki gefið þessu vefsvæði nein sérstök réttindi.">
