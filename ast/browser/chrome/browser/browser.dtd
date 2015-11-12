@@ -33,7 +33,6 @@
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Abrir direición…">
-<!ENTITY openLocationCmd.accesskey "d">
 <!ENTITY openFileCmd.label "Abrir ficheru…">
 <!ENTITY openFileCmd.accesskey "b">
 <!ENTITY openFileCmd.commandkey "o">
@@ -49,12 +48,9 @@
 <!ENTITY menubarCmd.label "Barra de menús">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barra de ferramientes de navegación">
-<!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra de ferramientes de marcadores">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elementos de la barra de ferramientes de marcadores">
-<!ENTITY addonBarCmd.label "Barra de complementos">
-<!ENTITY addonBarCmd.accesskey "B">
 <!ENTITY pageSourceCmd.label "Códigu fonte de la páxina">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -93,53 +89,37 @@
 <!ENTITY bookmarksToolbarChevron.tooltip "Amosar más marcadores">
 <!ENTITY unsortedBookmarksCmd.label "Marcadores ensin ordenar">
 <!ENTITY backCmd.label "Anterior">
-<!ENTITY backCmd.accesskey "n">
 <!ENTITY backButton.tooltip "Dir a la páxina anterior">
 <!ENTITY forwardCmd.label "Siguiente">
-<!ENTITY forwardCmd.accesskey "g">
 <!ENTITY forwardButton.tooltip "Dir a la páxina siguiente">
 <!ENTITY backForwardButtonMenu.tooltip "Arrastra hacia abaxo o doble clic p'amosar historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastra hacia abaxo pa ver l'historial">
 <!ENTITY reloadCmd.label "Recargar">
-<!ENTITY reloadCmd.accesskey "a">
 <!ENTITY reloadButton.tooltip "Recargar esta páxina">
 <!ENTITY stopCmd.label "Detener">
-<!ENTITY stopCmd.accesskey "t">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Parar la carga d'esta páxina">
 <!ENTITY goEndCap.tooltip "Dir a la URL de la barra de direiciones">
 <!ENTITY printButton.label "Imprentar">
 <!ENTITY printButton.tooltip "Imprentar esta páxina">
-<!ENTITY backForwardItem.title "Atrás/Alantre">
 <!ENTITY locationItem.title "Dirección">
 <!ENTITY searchItem.title "Guetar">
-<!ENTITY throbberItem.title "Progresu">
-<!ENTITY bookmarksItem.title "Marcadores">
-<!ENTITY appMenuButton.label "Menú">
-<!ENTITY appMenuButton.tooltip "Abrir el menú &brandShortName; ">
 <!ENTITY homeButton.label "Aniciu">
 <!ENTITY tabGroupsButton.label "Grupos de llingüetes">
-<!ENTITY tabGroupsButton.tooltip "Agrupar llingüetes">
-<!ENTITY feedButton.label "Soscribise">
-<!ENTITY feedButton.tooltip "Soscribise a esta páxina…">
 <!ENTITY bookmarksButton.label "Marcadores">
-<!ENTITY bookmarksButton.tooltip "Amosar los marcadores">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Marcadores">
-<!ENTITY bookmarksMenuButton.tooltip "Amosar los marcadores">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcadores ensin axeitar">
 <!ENTITY viewBookmarksToolbar.label "Ver la barra de marcadores">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Historial">
-<!ENTITY historyButton.tooltip "Amosar páxines visitaes de recién">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "Ferramientes">
 <!ENTITY toolsMenu.accesskey "T">
 <!ENTITY keywordfield.label "Amestar una pallabra clave pa esta gueta…">
 <!ENTITY keywordfield.accesskey "v">
 <!ENTITY downloads.label "Descargues">
-<!ENTITY downloads.tooltip "Amuesa'l progresu de les descargues en cursu">
 <!ENTITY downloads.accesskey "D">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
@@ -209,16 +189,8 @@
 <!ENTITY historyRestoreLastSession.label "Restaurar sesión anterior">
 <!ENTITY showAllHistoryCmd2.label "Amosar tol historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuToolbarLayout.label "Disposición de les barres de ferramientes…">
 <!ENTITY appMenuSidebars.label "Barres llaterales">
-<!ENTITY appMenuFind.label "Guetar…">
-<!ENTITY appMenuUnsorted.label "Marcadores ensin axeitar">
-<!ENTITY appMenuWebDeveloper.label "Desendolcador web">
-<!ENTITY appMenuGettingStarted.label "Entamar">
-<!ENTITY appMenuSafeMode.label "Reaniciar colos complementos desactivaos…">
-<!ENTITY appMenuSafeMode.accesskey "R">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Cambiar a la llingüeta:">
@@ -265,7 +237,6 @@
 <!ENTITY setDesktopBackgroundCmd.label "Afitar como fondu d'escritoriu…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "S">
 <!ENTITY bookmarkPageCmd2.label "Amestar esta páxina a marcadores">
-<!ENTITY bookmarkPageCmd2.accesskey "m">
 <!ENTITY bookmarkThisLinkCmd.label "Amestar esti enllaz a marcadores">
 <!ENTITY bookmarkThisLinkCmd.accesskey "L">
 <!ENTITY bookmarkThisFrameCmd.label "Amestar esti cuadru a marcadores">
@@ -343,20 +314,11 @@
 <!ENTITY fullZoomToggleCmd.accesskey "p">
 <!ENTITY fullZoom.label "Tamañu">
 <!ENTITY fullZoom.accesskey "m">
-<!ENTITY newTabButton.tooltip "Abrir una llingüeta nueva">
-<!ENTITY newWindowButton.tooltip "Abrir una ventana nueva">
 <!ENTITY sidebarCloseButton.tooltip "Zarrar panel llateral">
-<!ENTITY cutButton.tooltip "Cortar">
-<!ENTITY copyButton.tooltip "Copiar">
-<!ENTITY pasteButton.tooltip "Apegar">
-<!ENTITY fullScreenButton.tooltip "Amosar la ventana en pantalla completa">
-<!ENTITY quitApplicationCmdWin.label "Colar">
-<!ENTITY quitApplicationCmdWin.accesskey "C">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Colar">
 <!ENTITY quitApplicationCmd.accesskey "C">
-<!ENTITY quitApplicationCmdMac.label "Colar de &brandShortName;">
 <!ENTITY closeCmd.label "Zarrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Z">
@@ -401,8 +363,6 @@
 <!ENTITY syncSyncNowItem.label "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey "z">
 <!ENTITY syncToolbarButton.label "Sync">
-<!ENTITY addonBarCloseButton.tooltip "Zarrar la barra de complementos">
-<!ENTITY toggleAddonBarCmd.key        "/">
 <!ENTITY devToolbarCloseButton.tooltiptext "Zarrar la barra de desendolcadores">
 <!ENTITY devToolbarMenu.label "Barra de desendolcadores">
 <!ENTITY devToolbarMenu.accesskey "b">
@@ -457,7 +417,6 @@
 <!ENTITY urlbar.placeholder2 "Términu de gueta o direición">
 <!ENTITY playPluginCmd.label "Activar esti plugin">
 <!ENTITY playPluginCmd.accesskey "c">
-<!ENTITY mixedContentBlocked.moreinfo "La mayoría de los sitios web funcionen correutamente inclusu con esti conteníu bloquiáu.">
 <!ENTITY hidePluginCmd.label "Anubrir esti plugin">
 <!ENTITY hidePluginCmd.accesskey "t">
 <!ENTITY social.addons.label "Alministrar servicios…">
@@ -478,16 +437,8 @@
 <!ENTITY social.activated.undo.label "¡Uis! Desfacer esto">
 <!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.activated.description "Los servicios de <label/> desactiváronse. Pues cambiar la configuración d'estos servicios nel <label class='text-link'>alministrador de complementos</label>.">
-<!ENTITY shareVideoCmd.label "Compartir esti videu">
-<!ENTITY shareVideoCmd.accesskey "t">
-<!ENTITY shareSelectCmd.label "Compartir seleición">
-<!ENTITY shareSelectCmd.accesskey "t">
 <!ENTITY sharePageCmd.label "Compartir esta páxina">
 <!ENTITY sharePageCmd.accesskey "t">
-<!ENTITY shareLinkCmd.label "Compartir esti enllaz">
-<!ENTITY shareLinkCmd.accesskey "t">
-<!ENTITY shareImageCmd.label "Compartir esta imaxe">
-<!ENTITY shareImageCmd.accesskey "t">
 <!ENTITY quitApplicationCmdUnix.key "Q">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY browserConsoleCmd.label "Consola del navegador">
@@ -509,10 +460,6 @@
 <!ENTITY devToolboxMenuItem.keytext "I">
 <!ENTITY viewBookmarksSidebar2.label "Ver el panel llateral de marcadores">
 <!ENTITY uiTour.infoPanel.close "Zarrar">
-<!ENTITY tabCrashed.tryAgain "Reintentar">
-<!ENTITY tabCrashed.message "Esto da un poco vergoña… Tamos intentando amosar esta páxina, pero nun ta respondiendo.">
-<!ENTITY tabCrashed.header "La llingüeta tuvo un fallu">
-<!ENTITY tabCrashed.checkSendReport "Informar a &vendorShortName; tocante a esti fallu pa que puedan igualu.">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; va entamar a sincronizar aína.">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activáu">
 <!ENTITY syncReAuthItem.label "Reconeutar a &syncBrand.shortName.label;…">
@@ -522,12 +469,10 @@
 <!ENTITY syncErrorPanel.signInButton.accesskey "C">
 <!ENTITY syncErrorPanel.heading "Nun pue coneutase a &syncBrand.shortName.label;">
 <!ENTITY switchToMetroCmd2.label "Rellanzar en &brandShortName; pa Windows 8 táctil">
-<!ENTITY switchToMetroCmd.label "Rellanzar en &brandShortName; estilu Windows 8">
 <!ENTITY social.markpageMenu.label "Guardar páxina en…">
 <!ENTITY social.markpageMenu.accesskey "d">
 <!ENTITY social.marklinkMenu.label "Guardar enllaz como">
 <!ENTITY social.marklinkMenu.accesskey "G">
-<!ENTITY quitApplicationCmdWin.tooltip "Colar de &brandShortName;">
 <!ENTITY pluginNotification.width "28em">
 <!ENTITY navbarOverflow.label "Más ferramientes…">
 <!ENTITY identity.help.tooltip "¿Cómo puedo saber si la mio conexón a un sitiu web ye segura?">
@@ -575,3 +520,105 @@
 <!ENTITY webide.accesskey "W">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Desfacer el zarru de la cabera llingüeta">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "f">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Recargar toles llingüetes">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Amestar llingüetes a marcadores…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY getUserMedia.allWindowsShared.message "Van compartise toles ventanes visibles na to pantalla.">
+<!ENTITY eyedropper.label "Seleutor de color">
+<!ENTITY eyedropper.accesskey "S">
+<!ENTITY panicButton.view.undoWarning "Esta aición nun pue desfacese.">
+<!ENTITY panicButton.view.openNewWindow "va abrise una ventana nueva llimpia">
+<!ENTITY panicButton.view.mainTimeframeDesc "Escaecer últimos/es">
+<!ENTITY panicButton.view.mainActionDesc "Si sigues,">
+<!ENTITY panicButton.view.forgetButton "¡Escaecer!">
+<!ENTITY panicButton.view.deleteTabsAndWindows "van zarrase toles <html:strong>llingüetes</html:strong> y <html:strong>ventanes</html:strong>">
+<!ENTITY panicButton.view.deleteHistory "va desaniciase <html:strong>l'historial</html:strong> reciente">
+<!ENTITY panicButton.view.deleteCookies "van desaniciase les <html:strong>cookies</html:strong> recientes">
+<!ENTITY panicButton.view.day "24 hores">
+<!ENTITY panicButton.view.5min "cinco minutos">
+<!ENTITY panicButton.view.2hr "dos hores">
+<!ENTITY panicButton.thankyou.msg2 "¡Navegación segura!">
+<!ENTITY panicButton.thankyou.msg1 "Desanicióse l'historial recién">
+<!ENTITY panicButton.thankyou.buttonlabel "¡Gracies!">
+<!ENTITY webide.keytext "F8">
+<!ENTITY webide.keycode "VK_F8">
+<!ENTITY trackingContentBlocked.options "Opciones">
+<!ENTITY trackingContentBlocked.moreinfo "Les partes d'esta páxina que rastrexen l'actividá en llinia tán bloquiaes.">
+<!ENTITY trackingContentBlocked.message "Rastréu">
+<!ENTITY trackingContentBlocked.learnMore "Deprender más">
+<!ENTITY trackingContentBlocked.disabled.message "La proteición escontra rastréu ta desactivada">
+<!ENTITY trackingContentBlocked.block.label "Activar proteición">
+<!ENTITY mixedContentBlocked2.unblock.label "Desactivar la proteición per agora">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.options "Opciones">
+<!ENTITY mixedContentBlocked2.moreinfo "Dalgunos elementos non cifraos nesti sitiu web tán bloquiaos.">
+<!ENTITY mixedContentBlocked2.message "Conteníu inseguru">
+<!ENTITY mixedContentBlocked2.learnMore "Deprender más">
+<!ENTITY mixedContentBlocked2.disabled.message "La proteición ta desactivada">
+<!ENTITY mixedContentBlocked2.block.label "Activar proteición">
+<!ENTITY mixedContentBlocked2.block.accesskey "v">
+<!ENTITY customizeMode.lwthemes.recommended "Recomendaos">
+<!ENTITY customizeMode.lwthemes.myThemes "Los mios temes">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "L">
+<!ENTITY customizeMode.lwthemes.menuManage "Alministrar">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Consiguir más temes">
+<!ENTITY customizeMode.lwthemes "Temes">
+<!ENTITY badContentBlocked.moreinfo "La mayoría de los sitios web van funcionar correutamente inclusu si se bloquia'l conteníu.">
+<!ENTITY webapps.label "Aplicaciones">
+<!ENTITY webapps.accesskey "p">
+<!ENTITY trackingContentBlocked.unblock2.label "Desactivar proteición nesti sitiu">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.accesskey "A">
+<!ENTITY social.directory.viewmore.text "Ver más">
+<!ENTITY social.directory.text "Pues activar servicios de compartición del direutoriu.">
+<!ENTITY social.directory.label "Direutoriu d'activaciones">
+<!ENTITY social.directory.introText "Primi nun serviciu p'amestalu a &brandShortName;.">
+<!ENTITY social.directory.button "¡Llévame ellí!">
+<!ENTITY shareVideo.label "Compartir esti videu">
+<!ENTITY shareVideo.accesskey "m">
+<!ENTITY shareSelect.label "Compartir seleición">
+<!ENTITY shareSelect.accesskey "m">
+<!ENTITY shareLink.label "Compartir esti enllaz">
+<!ENTITY shareLink.accesskey "n">
+<!ENTITY shareImage.label "Compartir esta imaxe">
+<!ENTITY shareImage.accesskey "m">
+<!ENTITY findShareServices.label "Alcontrar más servicios de compartición…">
+<!ENTITY castVideoCmd.label "Unviar videu al preséu">
+<!ENTITY castVideoCmd.accesskey "U">
+<!ENTITY searchWithHeader.label "Guetar con:">
+<!ENTITY searchWith.label "con:">
+<!ENTITY searchFor.label "Guetar">
+<!ENTITY readingList.sidebar.showMore.label "Amosar más…">
+<!ENTITY readingList.sidebar.emptyText "Amiesta artículos a la to llista de llectura pa guardalos y atópalos fácilmente cuando los necesites.">
+<!ENTITY readingList.sidebar.delete.tooltip "Desaniciar esto de la llista de llectura">
+<!ENTITY readingList.sidebar.commandKey "R">
+<!ENTITY readingList.sidebar.add.tooltip "Amiesta esta páxina a la llista de llectura">
+<!ENTITY readingList.sidebar.add.label "Amestar a la llista de llectura">
+<!ENTITY readingList.showSidebar.label "Amosar panel llateral de la llista de llectura">
+<!ENTITY readingList.label "Llista de llectura">
+<!ENTITY quitApplicationCmdWin2.tooltip "Salir de &brandShorterName;">
+<!ENTITY quitApplicationCmdWin2.label "Salir">
+<!ENTITY quitApplicationCmdWin2.accesskey "S">
+<!ENTITY quitApplicationCmdMac2.label "Salir de &brandShorterName;">
+<!ENTITY processHang.terminateScript.label "Detener script">
+<!ENTITY processHang.terminateScript.accessKey "D">
+<!ENTITY processHang.terminateProcess.label "Matar procesu web">
+<!ENTITY processHang.terminateProcess.accessKey "w">
+<!ENTITY processHang.terminatePlugin.label "Matar plugin">
+<!ENTITY processHang.terminatePlugin.accessKey "M">
+<!ENTITY processHang.debugScript.label "Depurar script">
+<!ENTITY processHang.debugScript.accessKey "u">
+<!ENTITY mirrorTabCmd.label "Espeyar llingüeta">
+<!ENTITY mirrorTabCmd.accesskey "E">
+<!ENTITY emeNotificationsNotNow.label "Agora non">
+<!ENTITY emeNotificationsNotNow.accesskey "A">
+<!ENTITY emeNotificationsDontAskAgain.label "Nun entrugame más">
+<!ENTITY emeNotificationsDontAskAgain.accesskey "N">
+<!ENTITY emeLearnMoreContextMenu.label "Más información tocante a DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey "D">
+<!ENTITY customizeMode.deveditionTheme.label2 "Usar el tema Developer Edition">
+<!ENTITY changeSearchSettings.button "Camudar configuración de busca">
+<!ENTITY browserContentToolboxMenu.label "Caxa de ferramientes de conteníu del restolador">
+<!ENTITY browserToolboxCmd.commandkey "i">

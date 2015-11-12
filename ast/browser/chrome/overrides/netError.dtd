@@ -20,8 +20,8 @@
 <!ENTITY dnsNotFound.longDesc "<p>El restolador nun foi a alcontrar el sirvidor pa la direición proporcionada.</p><ul><li>¿Cometióse un error al escribir el dominiu? (p. ex. <q><strong>ww</strong>.mozilla.org</q> en cuenta de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿De xuru qu'esiste esti dominiu?  La data de rexistru
 pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba la conexón de rede y la configuración del sirvidor DNS.</li><li>¿Ta l'equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li></ul>">
 
-<!ENTITY fileNotFound.title "Nun s'alcontró el ficheru">
-<!ENTITY fileNotFound.longDesc "<ul><li>¿Ye posible que l'elementu se tenga renomao, desaniciao o se camudare'l so camín?</li><li>¿Hai dalgún fallu d'ortografía, mayúscules o cualesquier otru fallu al escribir la direición?</li><li>¿Tienes privilexos d'accesu suficientes pal elementu solicitáu?</li></ul>">
+<!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
+<!ENTITY fileNotFound.longDesc "<ul><li>¿Ye dable que l'elementu se tenga renomao, desaniciao o se camudare'l so camín?</li><li>¿Hai dalgún fallu d'ortografía, mayúscules o cualesquier otru fallu al escribir la direición?</li><li>¿Tienes privilexos d'accesu suficientes pal elementu solicitáu?</li></ul>">
 
 
 <!ENTITY generic.title "Nun pudo completase la solicitú">
@@ -72,7 +72,6 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY unknownSocketType.longDesc "<p>El sitiu respondió a la solicitú de rede d'una forma inesperada y el restolador nun pue continuar.</p>">
 
 <!ENTITY nssFailure2.title "Conexón segura fallida">
-<!ENTITY nssFailure2.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque nun se pudo verificar l'autenticidá de los datos recibíos.</p><ul><li>Por favor, contauta colos alministradores del sitiu web pa informa-yos d'esti problema.</li></ul>">
 
 <!ENTITY nssBadCert.title "La conexón segura falló">
 <!ENTITY nssBadCert.longDesc2 "
@@ -100,8 +99,6 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY phishingBlocked.title "¡Paez qu'esti ye un sitiu web fraudulentu!">
 <!ENTITY phishingBlocked.longDesc "<p>Introducir información personal nesta páxina pue dar llugar a una suplantación d'identidá u otra engañifa.</p>
 <p>Estos tipos de falsificaciones de webs úsense n'engañifes conocíes como ataques de phishing, nos que s'usen páxines web y mensaxes de corréu-e fraudulentos pa imitar fontes nes que se confía.</p>">
-<!ENTITY cspFrameAncestorBlocked.title "Bloquiáu pola política de seguridá de conteníu">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ta torgando qu'esta páxina se cargue d'esta forma porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">
 <!ENTITY corruptedContentError.title "Fallu de corrupción del conteníu">
 
 <!ENTITY corruptedContentError.longDesc "<p>Nun pue amosase la páxina que tas intentando ver, porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Por favor, contauta col propietariu de la web pa informá-y d'esti problema.</li></ul>">
@@ -119,3 +116,17 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta col alministrador del sitiu web pa informalu d'esti problema.</li></ul></p>">
 <!ENTITY unknownProtocolFound.title "La direición nun resulta entendible">
 <!ENTITY unknownProtocolFound.longDesc "">
+<!ENTITY nssFailure2.longDesc2 "">
+<!ENTITY sslv3Used.title "Nun ye dable coneutar de mou seguru">
+<!ENTITY sslv3Used.longDesc "Información avanzao: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.learnMore "Deprender más…">
+<!ENTITY errorReporting.tryAgain "Vuelvi a intentalo">
+<!ENTITY errorReporting.title "Informar d'esti fallu">
+<!ENTITY errorReporting.sent "Unvióse l'informe">
+<!ENTITY errorReporting.sending "Unviando informe">
+<!ENTITY errorReporting.report "Informar">
+<!ENTITY errorReporting.longDesc "Informar de la direición y la información del certificáu de <span id='hostname'></span> va ayudanos a identificar y bloquiar los sitios maliciosos. ¡Gracies por ayudar a crear una web más segura!">
+<!ENTITY errorReporting.learnMore "Más información…">
+<!ENTITY errorReporting.automatic "Nel futuru, informar de fallos automáticamente">
+<!ENTITY cspBlocked.title "Bloquiáu pola política de seguridá de conteníu">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina se cargue d'esta forma porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">

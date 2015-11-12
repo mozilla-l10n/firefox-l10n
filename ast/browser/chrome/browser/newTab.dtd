@@ -7,3 +7,9 @@
 <!ENTITY newtab.undo.restoreButton "Restaurar toes.">
 <!ENTITY newtab.undo.removedLabel "Miniatura desaniciada.">
 <!ENTITY newtab.undo.closeTooltip "Anubrir">
+<!ENTITY newtab.intro.header "¿Qué ye esta páxina?">
+<!ENTITY newtab.customize.what "¿Qué ye esta páxina?">
+<!ENTITY newtab.customize.title "Personalizar la páxina Llingüeta nueva">
+<!ENTITY newtab.customize.topsites "Amosar los sitios preferíos">
+<!ENTITY newtab.customize.suggested "Amosar sitios suxeríos y los tos sitios preferíos">
+<!ENTITY newtab.customize.blank2 "Amosar páxina en blanco">

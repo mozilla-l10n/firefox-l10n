@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label "Corréu fraudulentu">
 <!ENTITY itemPasswords.label "Contraseñes">
 <!ENTITY itemAntiVirus.label "Antivirus">
-<!ENTITY itemCookies.label "Conteníu web">
 <!ENTITY junkMail.intro "Afita la to configuración predeterminada pal corréu non deseáu. La configuración específica de cada cuenta pue axustase na Configuración de les cuentes.">
 <!ENTITY manualMark.label "Cuando conseño los mensaxes como puxarra:">
 <!ENTITY manualMark.accesskey "C">
@@ -36,19 +35,5 @@
 <!ENTITY antiVirus.intro "&brandShortName; pue facer cenciellamente que'l software antivirus analice'l corréu entrante a la gueta de virus enantes de que se guarden llocalmente.">
 <!ENTITY antiVirus.label "Permitir a los antivirus poner en cuarentena mensaxes individuales">
 <!ENTITY antiVirus.accesskey "P">
-<!ENTITY cookies.intro "&brandShortName; permite especificar qué blogs, canales de noticies, y otros sitios web tienen permitío unviar cookies.">
-<!ENTITY acceptCookies.label "Aceutar cookies de sitios">
-<!ENTITY acceptCookies.accesskey "k">
-<!ENTITY keepUntil.label "Caltener hasta que:">
-<!ENTITY keepUntil.accesskey "h">
-<!ENTITY expire.label "caduquen">
-<!ENTITY close.label "yo zarre &brandShortName;">
-<!ENTITY askEachTime.label "entrugame en cada casu">
-<!ENTITY cookieExceptions.label "Esceiciones…">
-<!ENTITY cookieExceptions.accesskey "s">
-<!ENTITY showCookies.label "Amosar cookies…">
-<!ENTITY showCookies.accesskey "M">
 <!ENTITY enableAdaptiveJunkLogging.label "Activar el rexistru del filtru adautativu de corréu puxarra">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "A">
-<!ENTITY doNotTrack.label "Indicar a los sitios web que nun quiero que me rastrexen">
-<!ENTITY doNotTrack.accesskey "I">
