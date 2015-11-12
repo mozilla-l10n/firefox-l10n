@@ -3,10 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
+<!ENTITY siteUrl.label         "Sayt URL manzili:">
+<!ENTITY docSubdir.label       "Sahifa quyi direktoriyasi:">
+<!ENTITY otherSubdir.label     "Rasm quyi direktoriyasi:">
 
+<!ENTITY status.label          "E’lon qilinmoqda…">
+<!ENTITY fileList.label        "E’lon qilish holati">
+<!ENTITY succeeded.label       "Muvaffaqiyatli">
+<!ENTITY failed.label          "Amalga oshmadi">
 
-
-
-
-
-
+<!ENTITY keepOpen              "E’lon qilish tugagandan so‘ng ushbu oyna ochiq qoladi.">
+<!ENTITY closeButton.label     "Yopish">

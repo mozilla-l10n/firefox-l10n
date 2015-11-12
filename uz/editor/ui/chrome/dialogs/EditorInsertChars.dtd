@@ -4,13 +4,16 @@
 <!-- Window title -->
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY windowTitle.label "Belgi kiritish">
+<!ENTITY category.label "Turkum">
+<!ENTITY letter.label "Harf:">
+<!ENTITY letter.accessKey "H">
+<!ENTITY character.label "Belgi:">
+<!ENTITY character.accessKey "B">
+<!ENTITY accentUpper.label "Katta harf urg‘usi">
+<!ENTITY accentLower.label "Kichik harf urg‘usi">
+<!ENTITY otherUpper.label "Boshqa katta harf">
+<!ENTITY otherLower.label "Boshqa kichik harf">
+<!ENTITY commonSymbols.label "Umumiy belgilar">
+<!ENTITY insertButton.label "Kiritish">
+<!ENTITY closeButton.label "Yopish">

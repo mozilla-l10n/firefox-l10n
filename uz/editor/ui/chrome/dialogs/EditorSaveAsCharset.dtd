@@ -7,5 +7,9 @@
 
 
 
-
+<!ENTITY windowTitle2.label "Matnni kodlashni saqlash va o‘zgartirish">
+<!ENTITY documentTitleTitle.label "Sahifa nomi">
+<!ENTITY documentCharsetTitle2.label "Matnni kodlash">
+<!ENTITY documentCharsetDesc2.label "Hujjatni saqlash uchun matnni kodlash usulini tanlang:">
+<!ENTITY documentExportToText.label "Matnga eksport qilish">
 
