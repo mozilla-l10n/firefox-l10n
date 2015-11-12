@@ -94,6 +94,9 @@ both, to better adapt this sentence to their language.
      create a single sentence with active links.
      The resulting sentence in English is: "Sync to your mobile device.
      Download Firefox for Android or Firefox for iOS." -->
+
+
+<!ENTITY mobilePromo2.start            "আপনার মোবাইল ডিভাইসে সিঙ্ক করুন। ডাউনলোড করুন ">
 <!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo2.androidLink      "অ্যান্ড্রয়েডের জন্য ফায়ারফক্স">
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
