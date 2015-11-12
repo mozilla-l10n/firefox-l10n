@@ -13,6 +13,8 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "Bu bağlantı etibarlı deyil">
 <!-- These are going to be used for the updated design in Bug 1207107 -->
 
+<!ENTITY certerror.pagetitle1  "Güvənsiz Bağlantı">
+<!ENTITY certerror.longpagetitle1 "Bağlantınız güvənilir deyil">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -27,8 +29,10 @@ kimlik məlumatı təqdim etməlidir. Ancaq bu saytın kimliyi təsdiqlənə bil
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-
-
+<!ENTITY certerror.introPara "<span class='hostname'/> sahibi web saytı düzgün quraşdırmayıb.  &brandShortName; məlumatlarınızı oğurlanmaqdan qorumaq üçün bu web sayta qoşulmadı.">
+<!ENTITY certerror.returnToPreviousPage.label "Geri Get">
+<!ENTITY certerror.learnMore "Ətraflı öyrən…">
+<!ENTITY certerror.advanced.label "Təkmilləşdirilmiş">
 
 <!ENTITY certerror.whatShouldIDo.heading "Nə Etməliyəm?">
 <!ENTITY certerror.whatShouldIDo.content "Adətən bu sayta heç bir problem 
