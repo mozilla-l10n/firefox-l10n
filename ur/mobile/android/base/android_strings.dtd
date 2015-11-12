@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "اپنے موبائل براؤزنگ تجربے کو واقعی اپنا بنائیں۔">
 <!ENTITY  onboard_start_button_account "&brandShortName; میں سائن ان کریں">
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
-
+<!ENTITY firstrun_button_next "اگلا">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; کی اس سادہ کردہ ورژن کے ساتھ محفوظ رہیں اور کنٹرول اپنے ہاتھ میں رکھیں۔">
 
+<!ENTITY firstrun_import_title "درآمد کریں">
 <!ENTITY firstrun_import_message "&brandShortName; میں خوش آمدید">
-
-
-
-
+<!ENTITY firstrun_import_subtext "دوسرے براؤزر سے اپنی نشانیاں اور تاریخیں درآمد کریں۔">
+<!ENTITY firstrun_import_action "&brandShortName; میں سائن ان کریں">
+<!ENTITY firstrun_import_dialog_button "منتقل کریں">
+<!ENTITY firstrun_import_progress_title "منتقل کر رہا ہے">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "آج">
 <!ENTITY history_yesterday_section "کل">
-
-
-
+<!ENTITY history_week_section3 "پچھلے 7 دن">
+<!ENTITY history_this_month_section "اس مہینے">
+<!ENTITY history_older_section3 "6 ماہ سے پرانے">
 
 <!ENTITY go "جائیں">
 <!ENTITY search "تلاش کریں">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "آڈیو چل رہا ہے – &formatS;">
 
 <!ENTITY settings "سیٹنگیں">
 <!ENTITY settings_title "سیٹنگیں">
@@ -147,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "اس ٹیب کو دیگر جڑے ہوئے آلہ پر بھیجیں">
+
 <!ENTITY pref_category_search3 "تلاش کریں">
 <!ENTITY pref_category_search_summary "اپنے تلاش مہیا کنندہ تخصیص کریں">
 <!ENTITY pref_category_display "دکھائیں">
@@ -194,9 +198,9 @@
 <!ENTITY pref_home_updates_wifi "صرف بعظریہ وائی فائی">
 <!ENTITY pref_home_suggested_sites "سائٹ تجاویز دکھائیں">
 <!ENTITY pref_home_suggested_sites_summary "ان سائٹوں کی تیز راہیں دکھائیں جو ہمارے حساب سے آپ کو پسند آئیں گیں">
-
-
-
+<!ENTITY pref_category_home_homepage "ابتدائی صفحہ">
+<!ENTITY home_homepage_title "ابتدائی صفحہ پر سیٹ کرے">
+<!ENTITY home_homepage_use_current_tab "موجودہ ٹیب استعمال کریں">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "تخصیص کریں">
@@ -212,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "اہل، ماسوائے تیسرے فریق">
 <!ENTITY pref_cookies_disabled "نااہل">
 
-
+<!ENTITY pref_tap_to_load_images_title "نقوش لوڈ کرنے کے لئے ٹیپ کریں">
+<!ENTITY pref_tap_to_load_images_summary2 "طویل دبانیں پر ہی نقوش لوڈ کریں">
 
 <!ENTITY pref_tracking_protection_title "سراغ کاری حفاظت">
-
+<!ENTITY pref_tracking_protection_summary3 "نجی براؤزنگ میں اہل کردہ">
 <!ENTITY pref_donottrack_title "میرا سراغ نہ لگائیں">
 <!ENTITY pref_donottrack_summary "&brandShortName; سائٹوں کو بتائے گا کہ آپ اپنا سراغ نہیں لگوانا چاہتے">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "اہل بنایا گیا">
+<!ENTITY pref_tracking_protection_enabled_pb "نجی براؤزنگ میں اہل کردہ">
+<!ENTITY pref_tracking_protection_disabled "نا اہل بنائیں">
 
 <!ENTITY tracking_protection_prompt_title "اب سراغ کاری حفاظت کے ساتھ">
 <!ENTITY tracking_protection_prompt_text "خود سے سراغ کاری عناصر بلات کریں تاکہ آپ کو پریشانی نہ ہو۔">
@@ -290,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "ہمہ وار کریں">
 <!ENTITY pref_sync_summary2 "اپنے ٹیب، نشانیاں، پاس ورڈ، سابقات ہمہ وقت ساز کریں">
 <!ENTITY pref_search_suggestions "تلاش تجاویز دکھائیں">
-
+<!ENTITY pref_history_search_suggestions "تلاش تاریخ دکھائیں">
 <!ENTITY pref_import_android "اینڈرائڈ سے درآمد کریں">
 <!ENTITY pref_import_android_summary "مقامی براؤزر سے نشانیاں اور تاریخ درآمد کریں">
 <!ENTITY pref_private_data_history2 "براؤزنگ سابقات">
@@ -367,7 +373,7 @@ size. -->
 <!ENTITY share_title "شیئر کریں بذریعہ">
 <!ENTITY share_image_failed "یہ نقش شیئر کرنے میں ناکام">
 <!ENTITY save_as_pdf "بطور PDF محفوظ کریں">
-
+<!ENTITY print "پرنٹ کریں">
 <!ENTITY find_in_page "صفحہ میں ڈھونڈیں">
 <!ENTITY desktop_mode "ڈیسک ٹاپ سائٹ کی فرمائش کریں">
 <!ENTITY page "صفحہ">
@@ -387,7 +393,7 @@ size. -->
 
 <!ENTITY find_text "صفحے میں ڈھونڈیں">
 <!ENTITY find_prev "پچھلا">
-
+<!ENTITY find_next "اگلا">
 <!ENTITY find_close "بند کریں">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -412,8 +418,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "سائٹ پنپن کریں">
 <!ENTITY contextmenu_top_sites_unpin "سائٹ کو اتاریں">
 <!ENTITY contextmenu_add_search_engine "تلاش انجن اضافہ کریں">
-
-
+<!ENTITY contextmenu_mark_read "بطور خواندہ نشان زد کریں">
+<!ENTITY contextmenu_mark_unread "بطور ناخواندہ نشان زد کریں">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -436,6 +442,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "چھوٹے علاقہ کو بڑا کرنا">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -443,7 +451,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "صفحے پر نیچے جاتے وقت &brandShortName; کا عنوان بار چھپائیں">
 
 <!ENTITY pref_tab_queue_title2 "متعدد روابط کھولیں">
-
+<!ENTITY pref_tab_queue_summary3 "آپ کے اگلی بار &brandShortName; کھولنے تک انہیں محفوظ کریں">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -585,8 +593,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Tracking content notifications in site identity popup -->
-
-
+<!ENTITY doorhanger_tracking_state_enabled "اہل بنایا گیا">
+<!ENTITY doorhanger_tracking_state_disabled "نا اہل بنائیں">
 
 
 <!-- Common mixed and tracking content strings in site identity popup -->
@@ -643,7 +651,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "جاری رکھیں">
 <!ENTITY guest_session_dialog_cancel "منسوخ کریں">
 <!ENTITY new_guest_session_title "&brandShortName; اب پھر شروع ہو گا">
-
+<!ENTITY new_guest_session_text2 "جو اسے استعمال کر رہا ہو گا وہ آپ کے کوئی ذاتی براؤزنگ کوائف (جیسے کہ محفوظ پاس ورڈ، سابقات یا نشانیاں) نہیں دیکھ سکے گا۔ \n\n آپ کے مہمان کے فارغ ہو نے پر، ان کے براؤزنگ کوائف حذف کر دیئے جائیں گے اور آپ کی سیشن بحال ہو جائے گی۔">
 <!ENTITY guest_browsing_notification_title "مہمان براؤزنگ اہل ہے">
 <!ENTITY guest_browsing_notification_text "خروج کے لیے کلک کریں">
 
@@ -707,18 +715,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "QR کوڈ کے لئے سکین کر اپنے دوسرے ڈیوائس پر دکھائیں">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restriction_disallow_import_settings_title2 "\u0027Android سے درآمد\u0027 نا اہل بنائیں">
+<!ENTITY restriction_disallow_addons_title2 "اس ایڈ اون کی تنصیب کو نا اہل بنائیں">
 <!ENTITY restriction_disallow_devtools_title2 "ڈیولپر ٹول نا اہل بنائیں">
 <!ENTITY restriction_disallow_customize_home_title2 "ابتدائی صفحہ تخصیص کاری نا اہل بنائیں">
 <!ENTITY restriction_disallow_private_browsing_title2 "نجی براؤزنگ نا اہل بنائیں">
 <!ENTITY restriction_disallow_location_services_title2 "محل وقوع خدمات نا اہل بنائیں">
-
-
-
-
+<!ENTITY restriction_disallow_display_settings_title2 "سیٹنگیں دکھانیں کو نا اہل بنائیں">
+<!ENTITY restriction_disallow_clear_history_title2 "\u0027براؤزنگ کی سرگزشت صاف\u0027 کو نا اہل بنائیں">
+<!ENTITY restriction_disallow_master_password_title2 "ماسٹر پاس ورڈ نا اہل بنائیں">
+<!ENTITY restriction_disallow_guest_browsing_title2 "مہمان براؤزنگ کو غیر فعال کریں">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->

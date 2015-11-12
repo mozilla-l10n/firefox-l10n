@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "رازداری اطلاع نامہ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; میں خوش آمدید">
-
+<!ENTITY fxaccount_getting_started_description2 "اپنے ٹیب، نشانیاں، پاس ورڈ اور مذید اشیا ہمہ وقت ساز کرنے کے لیے سائن ان کریں۔">
 <!ENTITY fxaccount_getting_started_get_started "شروع کریں">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; کا ایک پرانا ورژن استعمال کر رہے ہیں؟">
 <!-- Localization note: the Firefox below should not change with the
@@ -213,7 +213,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "اپنے نئے فائر فاکس اکاؤنٹ میں سائن ان کرنے کے لیے کلک کریں۔">
 <!ENTITY fxaccount_status_bookmarks "نشانیاں">
 <!ENTITY fxaccount_status_history "سابقات">
-
+<!ENTITY fxaccount_status_passwords2 "لاگ ان">
 <!ENTITY fxaccount_status_tabs "ٹیب کھولیے">
 <!ENTITY fxaccount_status_legal "قانونی" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -231,6 +231,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "فائر فاکس اکاؤنٹ &formatS; ہٹا دیا۔">
 
+<!ENTITY fxaccount_enable_debug_mode "ڈیبگ موڈ کو اہل بنائیں">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

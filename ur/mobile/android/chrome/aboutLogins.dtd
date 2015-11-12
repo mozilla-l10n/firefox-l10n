@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "لاگ ان">
 <!ENTITY aboutLogins.update                      "تازہ کاری کریں">
-
+<!ENTITY aboutLogins.emptyLoginText              "اپنے لاگ ان محفوظ رکھیں">
 

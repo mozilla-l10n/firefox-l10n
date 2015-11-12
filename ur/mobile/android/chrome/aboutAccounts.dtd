@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.connected.title "Firefox اکاؤنٹس">
-
-
+<!ENTITY aboutAccounts.connected.description "آپ کے طور پر جڑے ہوئے ہیں">
+<!ENTITY aboutAccounts.syncPreferences.label "ہم ساز سیٹکگیں کی پڑتال کے لئے ٹیپ کرے">
 
 
 

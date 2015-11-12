@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "ناتنصیب کریں">
 <!ENTITY addonAction.undo                       "کالعدم کریں">
 
+<!ENTITY addonUnsigned.message                  "اس ایڈ-اون کی &brandShortName; کے طور پر تصدیق نہیں کی جا سکی۔">
 <!ENTITY addonUnsigned.learnMore                "اور سیکھیں">

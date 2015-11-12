@@ -18,5 +18,7 @@
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
+<!ENTITY privatebrowsingpage.description.normal2 "ذاتی براؤزنگ میں، حالانکہ ہم آپ کے کوئی بھی براؤزنگ سابقات اور کوکیاں نہیں رکھتے ہے۔ نشانیاں اور مسلیں جو آپ ڈاؤن لوڈ کرتے ہیں وہ پھر بھی آپ کے آلہ پر محفوظ ہوںگی۔">
+
 <!ENTITY privatebrowsingpage.link.private "مزید سیکھیں گے؟">
 <!ENTITY privatebrowsingpage.link.normal "نیا نجی ٹیب کھولیں">
