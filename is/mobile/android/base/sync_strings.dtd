@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Notendaskilmálar">
 <!ENTITY fxaccount_status_linkprivacy "Meðferð persónuupplýsinga ">
 <!ENTITY fxaccount_status_more "Meira&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Aftengja&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Fjarlægja Firefox reikning">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; mun hætta að synca reikning þinn en mun ekki eyða neinum vafragögnum af þessu tæki.">
