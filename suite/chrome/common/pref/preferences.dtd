@@ -1,44 +1,46 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 
+<!ENTITY prefWindow.title "Preferências">
+<!ENTITY categoryHeader "Categoria">
 <!ENTITY appear.label "Aparência">
+<!ENTITY content.label "Conteúdo">
 <!ENTITY fonts.label "Fontes">
 <!ENTITY colors.label "Cores">
 <!ENTITY navigator.label "Navigator">
 <!ENTITY history.label "Histórico">
 <!ENTITY languages.label "Idiomas">
 <!ENTITY applications.label "Programas">
+<!ENTITY locationBar.label "Barra de endereços">
 <!ENTITY tabWindows.label "Abas">
+<!ENTITY links.label "Comportamento do link">
 <!ENTITY offline.label "Modo desconectado">
 <!ENTITY security.label "Privacidade &amp; Segurança">
+<!ENTITY privatedata.label "Dados pessoais">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY images.label "Imagens">
+<!ENTITY popups.label "Janelas popup">
+<!ENTITY passwords.label "Senhas">
+<!ENTITY masterpass.label "Senhas mestra">
+<!ENTITY ssltls.label "SSL/TLS">
+<!ENTITY certs.label "Certificados">
+<!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avançado">
 <!ENTITY down.label "Download">
 <!ENTITY cache.label "Cache">
+<!ENTITY offlineApps.label "Aplicativos em modo desconectado">
 <!ENTITY proxies.label "Proxies">
 <!ENTITY httpnetworking.label "HTTP">
+<!ENTITY smart.label "Instalação de programas">
 <!ENTITY download.label "Downloads">
 <!ENTITY keynav.label "Teclado">
+<!ENTITY findAsYouType.label "Localizar texto ao digitar">
 <!ENTITY search.label "Pesquisar na web">
 <!ENTITY policies.label "Políticas de segurança">
 <!ENTITY mousewheel.label "Roda do mouse">
 <!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
-<!ENTITY content.label "Conteúdo">
-<!ENTITY cookies.label "Cookies">
-<!ENTITY images.label "Imagens">
-<!ENTITY locationBar.label "Barra de endereços">
-<!ENTITY popups.label "Janelas popup">
-<!ENTITY passwords.label "Senhas">
-
-<!ENTITY categoryHeader "Categoria">
-<!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
-<!ENTITY prefWindow.title "Preferências">
-
-
-<!ENTITY masterpass.label "Senhas mestra">
-<!ENTITY ssl.label "SSL">
-<!ENTITY certs.label "Certificados">
-<!ENTITY validation.label "Validação">
-<!ENTITY smart.label "Instalação de programas">
+<!ENTITY spellingPane.label  "Ortografia">
 
 <!ENTITY focusSearch.key "f">

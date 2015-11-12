@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Propriedades">
 
 <!ENTITY generalInfo.label                       "Geral">
-<!ENTITY folderCharsetTab.label                  "Codificação padrão:">
-<!ENTITY folderCharsetTab.accesskey              "C">
-<!ENTITY folderCharsetOverride.label             "Usar em todas as mensagens da pasta (ignorar codificação de cada mensagem e seleção automática)">
-<!ENTITY folderCharsetOverride.accesskey         "U">
+<!ENTITY folderCharsetFallback2.label            "Codificação secundária do texto:">
+<!ENTITY folderCharsetFallback2.accesskey        "e">
+<!ENTITY folderCharsetEnforce2.label             "Aplicar codificação a todas as mensagens da pasta (a configuração individual de codificação de texto das mensagens e a detecção automática serão ignoradas)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Recriar arquivo de índice">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar pasta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "O arquivo de índice da pasta (.msf) pode ocasionalmente ser danificado e fazer com que mensagens aparentem estar perdidas ou mensagens excluídas continuem a ser exibidas; reparando a pasta estes problemas podem ser corrigidos.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Incluir as mensagens desta pasta nos resultados da pesquisa global">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
-     
+
 <!ENTITY retention.label "Exclusão">
 <!ENTITY retentionUseAccount.label  "Usar minhas configurações da conta">
 <!ENTITY retentionUseAccount.accesskey "U">

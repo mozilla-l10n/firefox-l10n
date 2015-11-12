@@ -2,51 +2,53 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "M">
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimizar">
 <!ENTITY bringAllToFront.label    "Trazer todas para frente">
-<!ENTITY zoomWindow.label         "Ampliar/Reduzir">
+<!ENTITY zoomWindow.label         "Zoom">
 <!ENTITY windowMenu.label         "Janela">
 
 <!ENTITY helpMenu.label           "Ajuda"> 
-<!ENTITY helpMenu.accesskey       "u"> 
+<!ENTITY helpMenu.accesskey       "A"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ajuda"> 
-<!ENTITY helpMenuWin.accesskey    "u">
-<!ENTITY aboutProduct.label       "Sobre o &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "S">
-<!ENTITY productHelp.label        "Ajuda do &brandShortName;">
-<!ENTITY productHelp.accesskey    "u">
+<!ENTITY helpMenuWin.accesskey    "A">
+<!ENTITY aboutProduct2.label      "Sobre o &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "S">
+<!ENTITY productHelp2.label       "Ajuda do &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "A">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Atalhos do teclado">
 <!ENTITY helpKeyboardShortcuts.accesskey "t">
 
-<!ENTITY helpSafeMode.label       "Reiniciar com extensões desativadas…">
+<!ENTITY helpSafeMode.label       "Reiniciar com os complementos desativados…">
 <!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Reiniciar com os complementos ativados">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport.label       "Relatório de Integridade do &brandShortName;">
-<!ENTITY healthReport.accesskey   "I">
+<!ENTITY healthReport2.label      "Relatório de Integridade do &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "I">
 
 <!ENTITY helpTroubleshootingInfo.label      "Dados para suporte">
 <!ENTITY helpTroubleshootingInfo.accesskey  "a">
 
-<!ENTITY helpFeedbackPage.label      "Enviar minha opinião…">
+<!ENTITY helpFeedbackPage.label      "Enviar opinião…">
 <!ENTITY helpFeedbackPage.accesskey  "E">
 
-<!ENTITY helpShowTour.label             "Tour do &brandShortName;">
-<!ENTITY helpShowTour.accesskey         "o">
+<!ENTITY helpShowTour2.label            "Tour do &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Preferências…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Serviços">
 
-<!ENTITY hideThisAppCmdMac.label        "Ocultar &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "h">
+<!ENTITY hideThisAppCmdMac2.label       "Ocultar o &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ocultar outros">
-<!ENTITY hideOtherAppsCmdMac.commandkey "h">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mostrar tudo">

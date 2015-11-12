@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Antifraude">
 <!ENTITY itemPasswords.label     "Senhas">
 <!ENTITY itemAntiVirus.label     "Antivírus">
-<!ENTITY itemCookies.label       "Conteúdo web">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Defina suas configurações padrão para spam. Opções específicas para cada conta podem ser definidas em “Configurar contas”.">
@@ -47,20 +46,3 @@
 <!ENTITY antiVirus.label      "Aplicativos antivírus podem colocar uma mensagem recebida em quarentena">
 <!ENTITY antiVirus.accesskey  "A">
 
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "O &brandShortName; permite que você especifique os blogs, RSS e outros sites que podem definir cookies.">
-<!ENTITY acceptCookies.label            "Sites podem definir cookies">
-<!ENTITY acceptCookies.accesskey        "S">
-<!ENTITY keepUntil.label                "Preservar cookies até:">
-<!ENTITY keepUntil.accesskey            "P">
-<!ENTITY expire.label                   "Perderem a validade">
-<!ENTITY close.label                    "Sair do &brandShortName;">
-<!ENTITY askEachTime.label              "Perguntar">
-<!ENTITY cookieExceptions.label         "Exceções…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Exibir cookies">
-<!ENTITY showCookies.accesskey          "x">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Notificar aos sites que não desejo ser rastreado">
-<!ENTITY doNotTrack.accesskey           "r">

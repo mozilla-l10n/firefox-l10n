@@ -23,5 +23,5 @@
 <!ENTITY AccessKey.label "Tecla de acesso:">
 <!ENTITY AccessKey.accesskey "T">
 
-<!ENTITY RemoveButton.label "Excluir botão">
-<!ENTITY RemoveButton.accesskey "x">
+<!ENTITY RemoveButton.label "Remover botão">
+<!ENTITY RemoveButton.accesskey "R">

@@ -2,15 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.button.label "Pesquisar">
-<!ENTITY allengines.label "Todos os mecanismos">
-<!ENTITY within.label "em">
-<!ENTITY using.label "usando">
-<!ENTITY choose.label "Selecione os mecanismos de busca e clique em Pesquisar.">
-<!ENTITY results.label "Resultados da pesquisa">
-<!ENTITY engine.column.label "Mecanismos de busca">
-<!ENTITY customize.menuitem.label "Editar categorias...">
-<!ENTITY next.button.label "Avançar &gt;">
-<!ENTITY previous.button.label "&lt; Voltar">
-<!ENTITY next.button.tooltip "Próximos resultados">
-<!ENTITY previous.button.tooltip "Resultados anteriores">
+<!ENTITY search.button.label      "Pesquisar">
+<!ENTITY search.placeholder       "Digite um termo de pesquisa">
+
+<!ENTITY search.engineManager.label "Gerenciar mecanismos de pesquisa…">

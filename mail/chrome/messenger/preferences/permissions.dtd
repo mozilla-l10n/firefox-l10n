@@ -7,8 +7,8 @@
 
 <!ENTITY treehead.sitename.label      "Site">
 <!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Excluir o site">
-<!ENTITY removepermission.accesskey   "E">
+<!ENTITY removepermission.label       "Remover site">
+<!ENTITY removepermission.accesskey   "R">
 <!ENTITY removeallpermissions.label   "Excluir tudo">
 <!ENTITY removeallpermissions.accesskey "t">
 <!ENTITY address.label                "Endereço do site:">
@@ -21,6 +21,8 @@
 <!ENTITY allow.accesskey              "P">
 <!ENTITY windowClose.key              "W">
 
-<!ENTITY button.close.label           "Fechar">
-<!ENTITY button.close.accesskey       "F">
+<!ENTITY button.cancel.label          "Cancelar">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "Salvar alterações">
+<!ENTITY button.ok.accesskey          "S">
 

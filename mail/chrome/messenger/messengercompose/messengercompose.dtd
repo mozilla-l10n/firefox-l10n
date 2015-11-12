@@ -6,7 +6,7 @@
 <!ENTITY msgComposeWindow.title "Edição: (assunto em branco)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Arquivo"> 
+<!ENTITY fileMenu.label "Arquivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newMenu.label "Novo">
 <!ENTITY newMenu.accesskey "N">
@@ -22,17 +22,19 @@
 <!ENTITY attachFileCmd.accesskey "A">
 <!ENTITY attachFileCmd.key "a">
 <!ENTITY attachCloudCmd.label "Anexo on-line">
-<!ENTITY attachCloudCmd.accesskey "L">
+<!ENTITY attachCloudCmd.accesskey "l">
 <!ENTITY attachPageCmd.label "Página da web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "vCard">
 <!ENTITY attachVCardCmd.accesskey "v">
+<!ENTITY remindLater.label "Lembrar-me depois">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.key "w">
 <!ENTITY closeCmd.accesskey "F">
 <!ENTITY saveCmd.label "Salvar">
-<!ENTITY saveCmd.key "s">
+<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "v">
 <!ENTITY saveAsCmd.label "Salvar como">
 <!ENTITY saveAsCmd.accesskey "a">
@@ -50,25 +52,27 @@
 <!ENTITY sendLaterCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "C">
+<!ENTITY printPreviewCmd.label "Visualizar impressão">
+<!ENTITY printPreviewCmd.accesskey "z">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.key "p">
 <!ENTITY printCmd.accesskey "I">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Editar"> 
+<!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Desfazer">
 <!ENTITY undoCmd.key "z">
-<!ENTITY undoCmd.accesskey "D"> 
+<!ENTITY undoCmd.accesskey "D">
 <!ENTITY redoCmd.label "Refazer">
 <!ENTITY redoCmd.key "y">
-<!ENTITY redoCmd.accesskey "R"> 
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Recortar">
 <!ENTITY cutCmd.key "x">
-<!ENTITY cutCmd.accesskey "t"> 
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "c">
-<!ENTITY copyCmd.accesskey "C"> 
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Colar">
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "o">
@@ -83,24 +87,27 @@
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.key "a">
-<!ENTITY selectAllCmd.accesskey "S"> 
-<!ENTITY findCmd.label "Localizar e substituir…">
-<!ENTITY findCmd.key "f">
-<!ENTITY findCmd.accesskey "z">
+<!ENTITY selectAllCmd.accesskey "S">
+<!ENTITY findBarCmd.label "Localizar…">
+<!ENTITY findBarCmd.accesskey "z">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Localizar e substituir…">
+<!ENTITY findReplaceCmd.accesskey "l">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Localizar próxima">
-<!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.accesskey "L">
+<!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Localizar anterior">
+<!ENTITY findPrevCmd.accesskey "a">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "a"> 
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Exibir"> 
+<!ENTITY viewMenu.label "Exibir">
 <!ENTITY viewMenu.accesskey "x">
-<!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "B"> 
+<!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas">
+<!ENTITY viewToolbarsMenuNew.accesskey "B">
 <!ENTITY menubarCmd.label "Barra de menus">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Padrão">
@@ -112,8 +119,8 @@
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">
 
-<!ENTITY addressSidebar.label "Painel de contatos"> 
-<!ENTITY addressSidebar.accesskey "a"> 
+<!ENTITY addressSidebar.label "Painel de contatos">
+<!ENTITY addressSidebar.accesskey "a">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatar">
@@ -151,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "A">
 <!ENTITY priorityMenu.label "Prioridade">
 <!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.title "Prioridade">
+<!ENTITY priorityButton.tooltiptext "Alterar a prioridade da mensagem">
 <!ENTITY priorityButton.label "Prioridade:">
 <!ENTITY lowestPriorityCmd.label "Baixíssima">
 <!ENTITY lowestPriorityCmd.accesskey "x">
@@ -175,19 +184,19 @@
 <!ENTITY addressBookCmd.label "Catálogo de endereços">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "b">
-<!ENTITY accountManagerCmd.label "Configurar contas…">
-<!ENTITY accountManagerCmd.accesskey "n">
-<!ENTITY accountManagerCmdUnix.accesskey "n">
-<!ENTITY preferencesCmd.label "Opções…">
-<!ENTITY preferencesCmd.accesskey "o">
-<!ENTITY preferencesCmdUnix.label       "Preferências">
-<!ENTITY preferencesCmdUnix.accesskey   "P"> 
+<!ENTITY accountManagerCmd2.label "Configurações de contas">
+<!ENTITY accountManagerCmd2.accesskey "s">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Opções">
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Preferências">
+<!ENTITY preferencesCmdUnix.accesskey "P">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY bringAllToFront.label "Trazer Todas para Frente">
-<!ENTITY zoomWindow.label "Ampliar/Reduzir"> 
+<!ENTITY zoomWindow.label "Ampliar/Reduzir">
 <!ENTITY windowMenu.label "Janela">
 
 <!-- Mail Toolbar -->
@@ -197,31 +206,34 @@
 <!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Salvar">
+<!ENTITY printButton.label "Imprimir">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Enviar esta mensagem agora"> 
-<!ENTITY sendlaterButton.tooltip "Armazenar a mensagem na pasta “Saída”"> 
-<!ENTITY quoteButton.tooltip "Citar a mensagem anterior"> 
-<!ENTITY addressButton.tooltip "Selecionar destinatários no catálogo de endereços"> 
-<!ENTITY attachButton.tooltip "Anexar arquivos"> 
+<!ENTITY sendButton.tooltip "Enviar esta mensagem agora">
+<!ENTITY sendlaterButton.tooltip "Enviar esta mensagem mais tarde">
+<!ENTITY quoteButton.tooltip "Citar a mensagem anterior">
+<!ENTITY addressButton.tooltip "Selecionar destinatários no catálogo de endereços">
+<!ENTITY attachButton.tooltip "Anexar arquivos">
 <!ENTITY spellingButton.tooltip "Verificar ortografia da seleção ou de toda a mensagem">
-<!ENTITY saveButton.tooltip "Salvar a mensagem na pasta “Rascunhos”"> 
+<!ENTITY statusLanguageText.tooltip "Verificação ortográfica de idioma">
+<!ENTITY saveButton.tooltip "Salvar a mensagem na pasta “Rascunhos”">
 <!ENTITY cutButton.tooltip              "Recortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Colar">
+<!ENTITY printButton.tooltip "Imprimir a mensagem">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width:9em;">
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De:">
 <!ENTITY fromAddr.accesskey "D">
-<!ENTITY toAddr.label "Para:"> 
-<!ENTITY ccAddr.label "Cc:"> 
-<!ENTITY bccAddr.label "Cco:"> 
-<!ENTITY replyAddr.label "Responder a:"> 
-<!ENTITY newsgroupsAddr.label "Newsgroup:"> 
-<!ENTITY followupAddr.label "Followup-To:"> 
+<!ENTITY toAddr.label "Para:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Cco:">
+<!ENTITY replyAddr.label "Responder a:">
+<!ENTITY newsgroupsAddr.label "Newsgroup:">
+<!ENTITY followupAddr.label "Followup-To:">
 <!ENTITY subject.label "Assunto:">
 <!ENTITY subject.accesskey "s">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
@@ -258,7 +270,7 @@
 <!ENTITY cut.label "Recortar">
 <!ENTITY cut.accesskey "t">
 <!ENTITY copy.label "Copiar">
-<!ENTITY copy.accesskey "c">
+<!ENTITY copy.accesskey "C">
 <!ENTITY paste.label "Colar">
 <!ENTITY paste.accesskey "o">
 <!ENTITY pasteQuote.label "Colar como citação">
@@ -277,7 +289,7 @@
 <!ENTITY attachFile.label "Anexar arquivos…">
 <!ENTITY attachFile.accesskey "n">
 <!ENTITY attachCloud.label "Anexo on-line…">
-<!ENTITY attachCloud.accesskey "L">
+<!ENTITY attachCloud.accesskey "l">
 <!ENTITY convertCloud.label "Converter para…">
 <!ENTITY convertCloud.accesskey "C">
 <!ENTITY cancelUpload.label "Cancelar envio">

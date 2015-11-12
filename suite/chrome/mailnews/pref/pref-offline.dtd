@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-offline.xul -->
-
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.offline.title               "Modo desconectado &amp; espaço em disco">
+
+
+<!ENTITY pref.network.title               "Armazenamento &amp; rede">
 <!ENTITY pref.offline.caption             "Modo desconectado">
 <!ENTITY textStartUp                      "Ao iniciar:">
 <!ENTITY textStartUp.accesskey            "A">
@@ -28,7 +28,11 @@
 <!ENTITY radioNotDownload.accesskey       "o">
 <!ENTITY radioAskDownload                 "Perguntar">
 <!ENTITY radioAskDownload.accesskey       "e">
+<!ENTITY mailConnections.caption          "Conexões de e-mail">
+<!ENTITY mailnewsTimeout.label            "Atingido o tempo limite de conexão:">
+<!ENTITY mailnewsTimeout.accesskey        "m">
+<!ENTITY mailnewsTimeoutSeconds.label     "segundos">
 <!ENTITY Diskspace                        "Espaço em disco">
-<!ENTITY offlineCompact.label             "Compactar pastas quando puder liberar pelo menos">
-<!ENTITY offlineCompact.accesskey         "C">
-<!ENTITY kb.label                         "KB">
+<!ENTITY offlineCompactFolders.label      "Compactar todas as pastas se puder liberar pelo menos">
+<!ENTITY offlineCompactFolders.accesskey  "C">
+<!ENTITY offlineCompactFoldersMB.label    "MB no total">

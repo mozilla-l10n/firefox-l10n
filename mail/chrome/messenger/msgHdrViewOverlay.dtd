@@ -2,27 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Para ">
-<!ENTITY fromField3.label "De ">
-<!ENTITY senderField3.label "Emissor ">
-<!ENTITY organizationField3.label "Empresa ">
-<!ENTITY replyToField3.label "Responder a ">
+<!ENTITY toField4.label "Para">
+<!ENTITY fromField4.label "De">
+<!ENTITY senderField4.label "Remetente">
+<!ENTITY organizationField4.label "Empresa">
+<!ENTITY replyToField4.label "Responder para">
 
-<!ENTITY subjectField3.label "Assunto ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Cco ">
-<!ENTITY newsgroupsField3.label "Newsgroups ">
-<!ENTITY followupToField3.label "Followup to ">
-<!ENTITY tagsHdr3.label "Tags ">
-<!ENTITY dateField3.label "Data ">
-<!ENTITY userAgentField3.label "User agent ">
-<!ENTITY referencesField3.label "Referências ">
-<!ENTITY messageIdField3.label "Identificador de mensagem ">
-<!ENTITY inReplyToField3.label "Em resposta a ">
-<!ENTITY originalWebsite3.label "Site ">
+<!ENTITY subjectField4.label "Assunto">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Cco">
+<!ENTITY newsgroupsField4.label "Newsgroups">
+<!ENTITY followupToField4.label "Repassar para">
+<!ENTITY tagsHdr4.label "Tags">
+<!ENTITY dateField4.label "Data">
+<!ENTITY userAgentField4.label "Agente de usuário">
+<!ENTITY referencesField4.label "Referências">
+<!ENTITY messageIdField4.label "ID da mensagem">
+<!ENTITY inReplyToField4.label "Em resposta a">
+<!ENTITY originalWebsite4.label "Site da web">
 
-<!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
-<!ENTITY editMessageButton.label "Editar">
 <!ENTITY hdrArchiveButton1.label "Arquivar">
 <!ENTITY hdrArchiveButton1.tooltip "Arquivar esta mensagem">
 <!ENTITY hdrSmartReplyButton1.label "Responder inteligente">
@@ -34,6 +32,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Responder à lista de e-mails">
 <!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Postar uma resposta neste grupo">
+<!ENTITY hdrMenuForwardButton.label "Encaminhar como">
 <!ENTITY hdrForwardButton1.label "Encaminhar">
 <!ENTITY hdrForwardButton1.tooltip "Encaminhar mensagem">
 <!ENTITY hdrJunkButton1.label "Spam">
@@ -50,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Sempre exibir o “Responder a”">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "S">
 
-<!ENTITY otherActionsButton1.label "Outras ações">
+<!ENTITY otherActionsButton2.label "Mais">
+<!ENTITY otherActionsButton.tooltip "Mais ações">
 <!ENTITY otherActionsOpenConversation1.label "Abrir como conversa">
 <!ENTITY otherActionsOpenConversation1.accesskey "r">
 <!ENTITY otherActionsOpenInNewWindow1.label "Abrir em nova janela">
@@ -63,8 +63,8 @@
 <!ENTITY markAsUnreadMenuItem1.accesskey "M">
 <!ENTITY saveAsMenuItem1.label "Salvar como…">
 <!ENTITY saveAsMenuItem1.accesskey "S">
-<!ENTITY viewSourceMenuItem1.label "Exibir código-fonte">
-<!ENTITY viewSourceMenuItem1.accesskey "x">
+<!ENTITY viewSourceMenuItem1.label "Ver fonte">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Imprimir…">
 <!ENTITY otherActionsPrint1.accesskey "I">
 

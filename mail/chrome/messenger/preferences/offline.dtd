@@ -4,15 +4,19 @@
 
 <!ENTITY offlineDialog.title "Configurar modo off-line">
 
-<!ENTITY textStartUp "Iniciar no modo off-line?">
+<!ENTITY checkAutoDetect.label "Seguir automaticamente o estado online detectado">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Estado manual quando inicializando:">
 <!ENTITY radioRememberPrevState.label "Somente se já estava no modo off-line">
 <!ENTITY radioRememberPrevState.accesskey "t">
-<!ENTITY radioAskMe.label "Perguntar">
-<!ENTITY radioAskMe.accesskey "e">
-<!ENTITY radioAlwaysOnline.label "Nunca">
-<!ENTITY radioAlwaysOnline.accesskey "u">
+<!ENTITY radioAskState.label "Pergunte-me pelo estado online">
+<!ENTITY radioAskState.accesskey "g">
+<!ENTITY radioAlwaysOnlineState.label "Online">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Desconectado">
+<!ENTITY radioAlwaysOffline.accesskey "D">
 
-<!ENTITY textGoingOnline "Ao sair do modo off-line enviar as mensagens da pasta “Saída”?">
+<!ENTITY textGoingOnline "Ao sair do modo off-line enviar as mensagens não enviadas?">
 <!ENTITY radioAutoSend.label "Sim">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "Não">

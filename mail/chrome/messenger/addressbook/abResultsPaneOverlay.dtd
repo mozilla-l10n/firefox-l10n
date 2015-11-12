@@ -2,10 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "Catálogo de endereços">
+<!ENTITY Addrbook.accesskey                    "a">
 <!ENTITY GeneratedName.label                   "Nome">
-<!ENTITY GeneratedName.accesskey               "n">
+<!ENTITY GeneratedName.accesskey               "N">
 <!ENTITY PrimaryEmail.label                    "E-mail">
-<!ENTITY PrimaryEmail.accesskey                "e">
+<!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Empresa">
 <!ENTITY Company.accesskey                     "m">
 <!ENTITY _PhoneticName.label                   "Nome fonético">
@@ -21,7 +23,7 @@
 <!ENTITY CellularNumber.label                  "Celular">
 <!ENTITY CellularNumber.accesskey              "l">
 <!ENTITY PagerNumber.label                     "Pager">
-<!ENTITY PagerNumber.accesskey                 "p">
+<!ENTITY PagerNumber.accesskey                 "P">
 <!ENTITY FaxNumber.label                       "Fax">
 <!ENTITY FaxNumber.accesskey                   "x">
 <!ENTITY HomePhone.label                       "Telefone residencial">

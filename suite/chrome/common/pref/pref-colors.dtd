@@ -1,26 +1,35 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from content/pref-colors.xul -->
+<!-- LOCALIZATION NOTE : FILE Color management prefs -->
 
-<!ENTITY pref.colors.title "Cores">
-<!ENTITY color "Cores padrão">
-<!ENTITY textColor.label "Texto:">
-<!ENTITY textColor.accesskey "T">
-<!ENTITY backgroundColor.label "Plano de fundo:">
-<!ENTITY backgroundColor.accesskey "p">
-<!ENTITY useSystemColors.label "Usar cores do sistema">
-<!ENTITY useSystemColors.accesskey "u">
-<!ENTITY underlineLinks.label "Sublinhar">
-<!ENTITY underlineLinks.accesskey "s">
-<!ENTITY links "Aparência padrão dos links">
-<!ENTITY linkColor.label "Não visitados:">
-<!ENTITY linkColor.accesskey "n">
-<!ENTITY activeLinkColor.label "Links ativos:">
-<!ENTITY activeLinkColor.accesskey "a">
-<!ENTITY visitedLinkColor.label "Visitados:">
-<!ENTITY visitedLinkColor.accesskey "v">
-<!ENTITY someProvColors "Aplicar cores">
-<!ENTITY alwaysUseDocumentColors.label "Usar as cores especificadas pela página">
+
+<!ENTITY pref.colors.title                 "Cores">
+<!ENTITY color                             "Cores padrão">
+<!ENTITY textColor.label                   "Texto:">
+<!ENTITY textColor.accesskey               "T">
+<!ENTITY backgroundColor.label             "Plano de fundo:">
+<!ENTITY backgroundColor.accesskey         "P">
+<!ENTITY useSystemColors.label             "Usar cores do sistema">
+<!ENTITY useSystemColors.accesskey         "U">
+
+<!ENTITY underlineLinks.label              "Sublinhar">
+<!ENTITY underlineLinks.accesskey          "S">
+<!ENTITY links                             "Aparência padrão dos links">
+<!ENTITY linkColor.label                   "Não visitados:">
+<!ENTITY linkColor.accesskey               "N">
+<!ENTITY activeLinkColor.label             "Links ativos:">
+<!ENTITY activeLinkColor.accesskey         "a">
+<!ENTITY visitedLinkColor.label            "Visitados:">
+<!ENTITY visitedLinkColor.accesskey        "V">
+<!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
+<!ENTITY someProvColors                    "Aplicar cores">
+<!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
+<!ENTITY alwaysUseDocumentColors.label     "Usar as cores especificadas pela página">
 <!ENTITY alwaysUseDocumentColors.accesskey "e">
-<!ENTITY useMyColors.label "Sempre usar as cores padrão">
-<!ENTITY useMyColors.accesskey "m">
+<!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
+<!ENTITY useMyColors.label                 "Sempre usar as cores padrão">
+<!ENTITY useMyColors.accesskey             "m">
+<!ENTITY automaticColors.label             "Somente ignorar as cores da página ao usar um tema de alto contraste">
+<!ENTITY automaticColors.accesskey         "o">

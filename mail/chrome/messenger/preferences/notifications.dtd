@@ -20,5 +20,5 @@ totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
 the exact same thing as in English; please try instead to translate the whole
 sentence. -->
 <!ENTITY  totalOpenTimeBefore.label       "Exibir alerta de novas mensagem por">
-<!ENTITY  totalOpenTimeBefore.accesskey   "N">
+<!ENTITY  totalOpenTimeBefore.accesskey   "n">
 <!ENTITY  totalOpenTimeEnd.label          "segundos">

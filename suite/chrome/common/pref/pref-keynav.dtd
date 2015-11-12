@@ -5,20 +5,16 @@
 <!ENTITY pref.keyNav.title "Navegação com o teclado">
 <!ENTITY tabNavigationBehavior.label "Foco">
 <!ENTITY tabNavigationLinks.label "Links">
-<!ENTITY tabNavigationLinks.accesskey "K">
+<!ENTITY tabNavigationLinks.accesskey "k">
 <!ENTITY tabNavigationForms.label "Botões, rádios, caixas de seleção e listas">
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "NOTA: Caixas de texto sempre fazem parte da ordem da tecla tab.">
 <!ENTITY tabNavigationDesc.label "Tab e Shift+Tab movem o foco entre:">
-<!ENTITY findAsYouTypeBehavior.label "Localizar ao digitar">
-<!ENTITY findAsYouTypeTip.label "NOTA: Para iniciar manualmente digite / para localizar texto ou ' para localizar links. Então digite o texto procurado.">
-<!ENTITY findAsYouTypeTimeout.label "Cancelar a pesquisa após alguns segundos de inatividade">
-<!ENTITY findAsYouTypeTimeout.accesskey "O">
-<!ENTITY findAsYouTypeSound.label "Tocar um som se o texto não for localizado">
-<!ENTITY findAsYouTypeSound.accesskey "T">
-<!ENTITY findAsYouTypeEnableAuto.label "Iniciar assim que teclar na página">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "i">
-<!ENTITY findAsYouTypeAutoText.label "Localizar texto">
-<!ENTITY findAsYouTypeAutoText.accesskey "X">
-<!ENTITY findAsYouTypeAutoLinks.label "Localizar links">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "k">
+<!ENTITY accessibilityBrowseWithCaret.label "Navegação por cursor">
+<!ENTITY browseWithCaretDesc.label "Cursor de teclado permite que você navegue e selecione nas páginas usando as teclas de seta para mover um cursor visível.">
+<!ENTITY browseWithCaretUse.label "Usar cursor de teclado">
+<!ENTITY browseWithCaretUse.accesskey "U">
+<!ENTITY browseWithCaretShortCut.label "Use a tecla de atalho F7 para alternar o modo de cursor de teclado">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "Me avise antes de ativar o cursor de teclado">
+<!ENTITY browseWithCaretWarn.accesskey "M">

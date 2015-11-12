@@ -9,7 +9,7 @@
 <!ENTITY serverSettings.label "Receber mensagens">
 <!ENTITY serverType.label "Tipo:">
 <!ENTITY serverName.label "Servidor:">
-<!ENTITY serverName.accesskey "s">
+<!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Usuário:">
 <!ENTITY userName.accesskey "U">
 <!ENTITY port.label "Porta:">
@@ -36,7 +36,7 @@
 <!ENTITY headersOnly.label "Receber somente os cabeçalhos">
 <!ENTITY headersOnly.accesskey "b">
 <!ENTITY deleteByAgeFromServer.label "Por no máximo">
-<!ENTITY deleteByAgeFromServer.accesskey "O">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "dias">
 <!ENTITY deleteOnServer2.label "Até eu excluí-las">
 <!ENTITY deleteOnServer2.accesskey "e">
@@ -48,7 +48,7 @@
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Somente marcar como excluída">
 <!ENTITY modelMarkDeleted.accesskey "S">
-<!ENTITY modelDeleteImmediately.label "Excluir imediatamente">
+<!ENTITY modelDeleteImmediately.label "Remover imediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Limpar a pasta “Entrada” ao sair">
@@ -68,19 +68,23 @@
 <!ENTITY alwaysAuthenticate.label "Sempre solicitar autenticação ao conectar-se a este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "m">
 <!ENTITY newsrcFilePath.label "Arquivo newsrc:">
-<!ENTITY localPath.label "Pasta local:">
+<!ENTITY newsrcPicker.label "Selecionar o arquivo newsrc">
 <!ENTITY abbreviate.label "Exibir nomes de newsgroups na área de pastas como:">
 <!ENTITY abbreviateOn.label "Nome completo (exemplo: netscape.public.mozilla.mail-news)">
 <!ENTITY abbreviateOff.label "Nomes abreviados (exemplo: n.p.m.mail-news)">
 <!ENTITY advancedButton.label "Avançado…">
 <!ENTITY advancedButton.accesskey "A">
-<!ENTITY serverDefaultCharset.label "Codificação padrão:">
+<!ENTITY serverDefaultCharset2.label "Codificação padrão do texto:">
+<!ENTITY localPath.label "Pasta local:">
 <!ENTITY localFolderPicker.label "Selecione a localização da pasta local:">
 <!ENTITY browseFolder.label "Procurar…">
 <!ENTITY browseFolder.accesskey "P">
-<!ENTITY newsrcPicker.label "Selecionar o arquivo newsrc">
 <!ENTITY browseNewsrc.label "Procurar…">
 <!ENTITY browseNewsrc.accesskey "r">
 
 <!ENTITY accountTitle.label "Configurações da conta">
 <!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não há identidades associadas a ela.">
+<!ENTITY storeType.label "Tipo armazenamento de mensagem:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Um arquivo por pasta (mbox)">
+<!ENTITY maildirStore.label "Um arquivo por mensagem (maildir)">

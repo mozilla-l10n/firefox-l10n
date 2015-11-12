@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "U">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Procurar…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "P">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Ouvir">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "O">
+<!ENTITY pref.calendar.alarms.sound.play.label "Reproduzir">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "p">
 <!ENTITY pref.showalarmbox "Mostrar aviso">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
 <!ENTITY pref.missedalarms "Mostrar alarmes vencidos">
@@ -31,5 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "A">
 <!ENTITY pref.defalarmlen4todos.label "Antecedência padrão de alarmes para tarefas:">
 <!ENTITY pref.defalarmlen4todos.accesskey "n">
-<!ENTITY pref.defaultemail.label "Endereço padrão para onde enviar alarmes:">
-<!ENTITY pref.defaulttext.label "Texto padrão para alarmes:">
+
+<!ENTITY pref.defaultsnoozelength.label "Duração padrão da soneca:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "s">

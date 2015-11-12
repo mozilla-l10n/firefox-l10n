@@ -1,139 +1,82 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from content/navigator.xul -->
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+
+
 
 <!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!ENTITY tabCmd.label "Aba">
-<!ENTITY tabCmd.accesskey "A">
-<!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Abrir...">
-<!ENTITY openCmd.accesskey "a">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Abrir arquivo...">
-<!ENTITY openFileCmd.accesskey "b">
-<!ENTITY openFileCmd.commandkey "o">
+
+<!ENTITY mainWindow.titleprivate "Navegação privativa">
+
 <!ENTITY editPageCmd.label "Editar página">
 <!ENTITY editPageCmd.accesskey "r">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY uploadFile.label "Enviar arquivo...">
-<!ENTITY uploadFile.accesskey "q">
-<!ENTITY printSetupCmd.label "Configurar página...">
-<!ENTITY printSetupCmd.accesskey "c">
-<!ENTITY printPreviewCmd.label "Visualizar impressão">
-<!ENTITY printPreviewCmd.accesskey "z">
-<!ENTITY printCmd.label "Imprimir...">
-<!ENTITY printCmd.accesskey "i">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY viewMenu.label "Exibir">
-<!ENTITY viewMenu.accesskey "x">
-<!ENTITY toolbarsCmd.label "Exibir/Ocultar">
-<!ENTITY toolbarsCmd.accesskey "e">
+
 <!ENTITY navbarCmd.label "Barra de ferramentas">
-<!ENTITY navbarCmd.accesskey "F">
-<!ENTITY personalbarCmd.label "Marcadores">
-<!ENTITY personalbarCmd.accesskey "m">
-<!ENTITY tabbarCmd.label "Barra de abas">
-<!ENTITY tabbarCmd.accesskey "A">
-<!ENTITY taskbarCmd.label "Barra de status">
-<!ENTITY taskbarCmd.accesskey "T">
-<!ENTITY componentbarCmd.label "Ícones dos componentes">
-<!ENTITY componentbarCmd.accesskey "C">
-<!ENTITY useStyleSheetMenu.label "Estilos da página">
-<!ENTITY useStyleSheetMenu.accesskey "s">
-<!ENTITY useStyleSheetNone.label "Nenhum">
-<!ENTITY useStyleSheetNone.accesskey "N">
-<!ENTITY useStyleSheetPersistentOnly.label "Padrão">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "p">
-<!ENTITY pageSourceCmd.label "Código fonte">
-<!ENTITY pageSourceCmd.accesskey "f">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Propriedades da página">
-<!ENTITY pageInfoCmd.accesskey "o">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Tela inteira">
-<!ENTITY fullScreenCmd.accesskey "t">
-<!ENTITY translateMenu.label "Traduzir">
-<!ENTITY translateMenu.accesskey "T">
-<!ENTITY closeOtherTabs.label "Fechar as outras abas">
-<!ENTITY closeOtherTabs.accesskey "o">
+<!ENTITY navbarCmd.accesskey "f">
+<!ENTITY bookmarksToolbarCmd.label     "Barra dos favoritos">
+<!ENTITY bookmarksToolbarCmd.accesskey "v">
+
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "F">
-<!ENTITY minimizeButton.tooltip "Minimizar">
-<!ENTITY restoreButton.tooltip "Restaurar">
-<!ENTITY applyTheme.label "Tema">
-<!ENTITY applyTheme.accesskey "M">
-<!ENTITY getNewThemesCmd.label "Baixar mais temas">
-<!ENTITY getNewThemesCmd.accesskey "B">
-<!ENTITY findOnCmd.label "Localizar na página...">
-<!ENTITY findOnCmd.accesskey "z">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Localizar próxima">
-<!ENTITY findAgainCmd.accesskey "l">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Localizar anterior">
-<!ENTITY findPrevCmd.accesskey "a">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-<!ENTITY searchInternetCmd.label "Pesquisar na web">
-<!ENTITY searchInternetCmd.accesskey "P">
-<!ENTITY searchInternet.commandKey "s">
-<!ENTITY goMenu.label "Ir">
-<!ENTITY goMenu.accesskey "i">
-<!ENTITY goHomeCmd.label "Página Inicial">
-<!ENTITY goHomeCmd.accesskey "i">
-<!ENTITY bookmarksMenu.label "Marcadores">
-<!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY addCurPageCmd.label "Criar marcador para esta página">
-<!ENTITY addCurPageCmd.accesskey "M">
-<!ENTITY addCurPageAsCmd.label "Criar marcador da página...">
-<!ENTITY addCurPageAsCmd.accesskey "R">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Criar marcador do grupo...">
-<!ENTITY addCurTabsAsCmd.accesskey "C">
-<!ENTITY manBookmarksCmd.label "Organizar...">
-<!ENTITY manBookmarksCmd.accesskey "Z">
-<!ENTITY manBookmarksCmd.commandkey "b">
-<!ENTITY emptyItem.label "(Nenhum marcador)">
-<!ENTITY menuBar.tooltip "Menu (clique para exibir)">
-<!ENTITY personalToolbar.tooltip "Marcadores (clique para exibir)">
-<!ENTITY navigationToolbar.tooltip "Barra de ferramentas (clique para exibir)">
-<!ENTITY backButton.label "Voltar">
-<!ENTITY backButton.tooltip "Página anterior">
-<!ENTITY forwardButton.label "Avançar">
-<!ENTITY forwardButton.tooltip "Próxima página">
-<!ENTITY reloadButton.label "Recarregar">
-<!ENTITY reloadButton.tooltip "Atualizar a página">
-<!ENTITY stopButton.label "Parar">
-<!ENTITY stopButton.tooltip "Interromper o carregamento">
-<!ENTITY searchButton.label "Pesquisar">
-<!ENTITY searchButton.tooltip "Digite uma palavra e clique aqui para pesquisar">
-<!ENTITY goButton.label "  Ir  ">
-<!ENTITY goButton.tooltip "Arraste um link para cá ou digite um endereço e clique">
-<!ENTITY printButton.label "Imprimir">
-<!ENTITY printButton.tooltip "Imprimir a página">
-<!ENTITY throbber.tooltip "Abrir o site do &vendorShortName;">
-<!ENTITY locationBar.tooltip "Forneça um endereço, a palavra-chave de um marcador ou um termo de busca">
-<!ENTITY locationBar.accesskey "d">
-<!ENTITY locationBar.title "Endereço">
-<!ENTITY proxyIcon.tooltip 'Para salvar arraste para dentro do menu "Marcadores"'>
-<!ENTITY bookmarksButton.label "Marcadores">
-<!ENTITY bookmarksButton.tooltip "Lista de marcadores">
-<!ENTITY bookmarksToolbarItem.label  "Marcadores da barra de ferramentas">
-<!ENTITY homeButton.label "Página Inicial">
-<!ENTITY statusText.label "Concluído">
-<!ENTITY historyCmd.label "Histórico">
-<!ENTITY historyCmd.accesskey "h">
-<!ENTITY history.commandKey "h">
-<!ENTITY popupIcon.tooltiptext "Um popup foi bloqueado - clique para desbloquear este site">
-<!ENTITY bidiSwitchPageDirectionItem.label "Alternar a direção da página">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
-<!ENTITY clearPrivateDataCmd.accesskey "e">
-<!ENTITY clearPrivateDataCmd.label "Limpar dados pessoais…">
+
+<!ENTITY minimizeButton.tooltip       "Minimizar">
+<!ENTITY restoreButton.tooltip        "Restaurar">
+
 <!ENTITY feedsMenu.label "Se inscrever para esta página">
 <!ENTITY feedsMenu.accesskey "S">
-<!ENTITY recentTabs.label "Abas fechadas recentemente">
-<!ENTITY recentTabs.accesskey "r">
-<!ENTITY recentTabs.commandkey "t">
+
+<!ENTITY menuBar.tooltip                  "Menu (clique para exibir)">
+<!ENTITY bookmarksToolbar.tooltip         "Barra dos favoritos">
+<!ENTITY navigationToolbar.tooltip        "Barra de ferramentas (clique para exibir)">
+<!-- Toolbar items --> 
+
+<!ENTITY backButton.label             "Voltar">
+<!ENTITY backButton.tooltip           "Página anterior">
+<!ENTITY forwardButton.label          "Avançar">
+<!ENTITY forwardButton.tooltip        "Próxima página">
+<!ENTITY reloadButton.label           "Recarregar">
+<!ENTITY reloadButton.tooltip         "Atualizar a página">
+<!ENTITY stopButton.label             "Parar">
+<!ENTITY stopButton.tooltip           "Interromper o carregamento">
+<!ENTITY searchButton.label           "Pesquisar">
+<!ENTITY searchButton.tooltip         "Digite uma palavra e clique aqui para pesquisar">
+<!ENTITY goButton.label               "Ir">
+<!ENTITY goButton.tooltip             "Arraste um link para cá ou digite um endereço e clique">
+<!ENTITY printButton.label            "Imprimir">
+<!ENTITY printButton.tooltip          "Imprimir a página">
+
+<!ENTITY throbber.tooltip             "Abrir o site do &vendorShortName;">
+
+<!ENTITY locationBar.tooltip          "Digite o termo pesquisado, palavra-chave ou o endereço web">
+<!ENTITY locationBar.accesskey        "d">
+<!ENTITY locationBar.title            "Endereço">
+<!ENTITY proxyIcon.tooltip            "Para salvar arraste para dentro do menu &quot;Marcadores&quot;">
+
+<!ENTITY searchItem.title             "Pesquisar">
+
+<!ENTITY bookmarksButton.label        "Marcadores">
+<!ENTITY bookmarksButton.tooltip      "Lista de marcadores">
+<!ENTITY homeButton.label             "Página Inicial">
+<!ENTITY bookmarksToolbarItem.label   "Marcadores da barra de ferramentas">
+<!ENTITY bookmarksToolbarChevron.tooltip "Exibir mais favoritos">
+<!-- Statusbar -->
+
+<!ENTITY  statusText.label            "Concluído">
+
+<!ENTITY popupIcon.tooltiptext      "Um popup foi bloqueado - clique para desbloquear este site">
+
+<!ENTITY viewSecurityInfo.label      "Ver informações de segurança">
+<!ENTITY viewSecurityInfo.accesskey  "s">
+<!ENTITY viewCertificate.label       "Visualizar certificado">
+<!ENTITY viewCertificate.accesskey   "c">
+<!ENTITY viewCertManager.label       "Abrir gerenciador de certificados">
+<!ENTITY viewCertManager.accesskey   "A">

@@ -1,11 +1,11 @@
 # Licensing Information:
-# http://hg.mozilla.org/releases/l10n/mozilla-aurora/pt-BR/file/tip/extensions/spellcheck/hunspell/README.txt
+# https://hg.mozilla.org/releases/l10n/mozilla-beta/pt-BR/file/tip/extensions/spellcheck/hunspell/README.txt
 #
 # Source:
 # https://natura.di.uminho.pt/svn/main/dicionarios/jspell.pt/
 #
 # Maintainer: Jeferson Hultmann <hultmann@gmail.com>
-# Discussion: http://groups.google.com/group/dic-br
+# Discussion: https://groups.google.com/group/dic-br
 
 SET UTF-8
 LANG pt_BR
@@ -351,7 +351,9 @@ SFX d   ível            ibilidades      ível
 SFX d   úvel            ubilidades      úvel
 SFX d   z               cidades         z
 
-SFX i Y 24
+SFX i Y 26
+SFX i   go              guismo          go
+SFX i   go              guismos         go
 SFX i   o               ismo            [^cçã]o
 SFX i   co              quismo          co
 SFX i   ço              cismo           ço
@@ -1407,21 +1409,26 @@ SFX J   e               ito             [^ã]e
 SFX J   o               ito             [^ã]o
 SFX J   0               zito            ão
 
-REP 39
+REP 44
+REP conserteza com_certeza
 REP denovo     de_novo
 REP derrepente de_repente
+REP migo       comigo
 REP encima     em_cima
+REP mea        mea-culpa
 REP tui        twee
 REP pataquada  patacoada
 REP estória    história
-REP Beijing    Pequim
 REP fotinha    fotinho
+REP foliã      foliona
 REP abrid      abert
 REP cobrid     cobert
 REP escrevid   escrit
-REP migo       comigo
+REP teje       esteja
 REP hajar      houver
-REP conserteza com_certeza
+REP Beijing    Pequim
+REP Belarus    Bielorrússia
+REP Taipei     Taipé
 REP por pro
 REP pre per
 REP damente mente
@@ -1489,4 +1496,3 @@ SFX Q   0               -SC             .
 SFX Q   0               -SP             .
 SFX Q   0               -SE             .
 SFX Q   0               -TO             .
-

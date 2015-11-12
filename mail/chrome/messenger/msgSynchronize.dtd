@@ -12,7 +12,7 @@
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Mensagens de newsgroup">
 <!ENTITY syncTypeNews.accesskey "n">
-<!ENTITY sendMessage.label "Enviar mensagens da pasta “Saída”">
+<!ENTITY sendMessage.label "Enviar mensagens não enviadas">
 <!ENTITY sendMessage.accesskey "E">
 <!ENTITY workOffline.label "Entrar no modo off-line ao concluir o download e/ou sincronização">
 <!ENTITY workOffline.accesskey "t">

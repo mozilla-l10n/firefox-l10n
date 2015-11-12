@@ -16,5 +16,5 @@
 <!ENTITY AlignCenter.label "Centralizado">
 <!ENTITY AlignRight.label "Direito">
 
-<!ENTITY RemoveFieldSet.label "Excluir agrupamento de campos">
-<!ENTITY RemoveFieldSet.accesskey "x">
+<!ENTITY RemoveFieldSet.label "Remover agrupamento de campos">
+<!ENTITY RemoveFieldSet.accesskey "R">

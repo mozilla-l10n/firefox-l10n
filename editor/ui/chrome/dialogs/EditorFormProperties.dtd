@@ -8,8 +8,8 @@
 
 <!ENTITY FormName.label "Nome do formulário:">
 <!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "Endereço da ação:">
-<!ENTITY FormAction.accesskey "E">
+<!ENTITY FormAction.label "Ação do URL:">
+<!ENTITY FormAction.accesskey "A">
 <!ENTITY FormMethod.label "Método:">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Codificação:">
@@ -17,5 +17,5 @@
 <!ENTITY FormTarget.label "Frame de destino:">
 <!ENTITY FormTarget.accesskey "F">
 
-<!ENTITY RemoveForm.label "Excluir formulário">
-<!ENTITY RemoveForm.accesskey "x">
+<!ENTITY RemoveForm.label "Remover formulário">
+<!ENTITY RemoveForm.accesskey "R">

@@ -1,21 +1,30 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
+
 
 <!ENTITY pref.appearance.title "Aparência">
-<!ENTITY onStartLegend.label "Ao iniciar o &brandShortName;, abrir o">
-<!ENTITY navCheck.label "Navigator">
-<!ENTITY navCheck.accesskey "n">
-<!ENTITY showToolsLegend.label "Exibir barras de ferramentas como">
-<!ENTITY picsNtextRadio.label "Ícones e texto">
-<!ENTITY picsNtextRadio.accesskey "c">
-<!ENTITY picsOnlyRadio.label "Ícones">
-<!ENTITY picsOnlyRadio.accesskey "o">
-<!ENTITY textonlyRadio.label "Texto">
-<!ENTITY textonlyRadio.accesskey "t">
-<!ENTITY showHideTooltips.label "Exibir descrições em balões (ao apontar com o ponteiro do mouse)">
-<!ENTITY showHideTooltips.accesskey "x">
-<!ENTITY pref.locales.title "Linguagem da interface">
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY onStartLegend.label                    "Ao iniciar o &brandShortName;, abrir o">
+<!ENTITY navCheck.label                         "Navigator">
+<!ENTITY navCheck.accesskey                     "N">
+<!ENTITY showToolsLegend.label                  "Exibir barras de ferramentas como">
+<!ENTITY picsNtextRadio.label                   "Ícones e texto">
+<!ENTITY picsNtextRadio.accesskey               "c">
+<!ENTITY picsOnlyRadio.label                    "Ícones">
+<!ENTITY picsOnlyRadio.accesskey                "o">
+<!ENTITY textonlyRadio.label                    "Texto">
+<!ENTITY textonlyRadio.accesskey                "t">
+<!ENTITY showHideTooltips.label                 "Exibir descrições em balões (ao apontar com o ponteiro do mouse)">
+<!ENTITY showHideTooltips.accesskey             "x">
 
-<!ENTITY restartOnLangChange.label "Preferências de idiomas tomarão efeito ao reiniciar o &brandShortName;.">
-<!ENTITY selectLocale.label "Selecione o idioma para o texto que aparece nas janelas, menus, barras de ferramentas e títulos dos botões:">
+<!ENTITY pref.locales.title                     "Linguagem da interface">
+<!ENTITY selectLocale.label                     "Selecione o idioma para o texto que aparece nas janelas, menus, barras de ferramentas e títulos dos botões:">
+<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLangChange.label              "Preferências de idiomas tomarão efeito ao reiniciar o &brandShortName;.">
+

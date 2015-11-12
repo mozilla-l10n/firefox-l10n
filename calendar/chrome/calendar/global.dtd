@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "Sexta" >
 <!ENTITY day.7.name "Sábado" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "minuto">
-<!ENTITY calendar.global.units.minutes  "minutos">
-<!ENTITY calendar.global.units.hour     "hora">
-<!ENTITY calendar.global.units.hours    "horas">
-<!ENTITY calendar.global.units.day      "dia">
-<!ENTITY calendar.global.units.days     "dias">
-
 <!ENTITY month.1.name "Janeiro" >
 <!ENTITY month.2.name "Fevereiro" >
 <!ENTITY month.3.name "Março" >

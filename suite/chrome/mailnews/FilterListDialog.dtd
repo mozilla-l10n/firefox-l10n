@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Filtros de mensagens">
+<!ENTITY filterListDialog.title "Filtros de mensagens">
 <!ENTITY nameColumn.label "Filtro">
 <!ENTITY activeColumn.label "Aplicar">
 <!ENTITY newButton.label "Novo...">
@@ -12,14 +12,14 @@
 <!ENTITY deleteButton.label "Excluir">
 <!ENTITY deleteButton.accesskey "x">
 <!ENTITY reorderUpButton.label "Para cima">
-<!ENTITY reorderUpButton.accesskey "C">
+<!ENTITY reorderUpButton.accesskey "c">
 <!ENTITY reorderDownButton.label "Para baixo">
-<!ENTITY reorderDownButton.accesskey "B">
+<!ENTITY reorderDownButton.accesskey "b">
 <!ENTITY filterHeader.label "Aplicar os filtros automaticamente na ordem abaixo:">
 <!ENTITY filtersForPrefix.label "Exibir filtros da conta:">
-<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY filtersForPrefix.accesskey "f">
 <!ENTITY viewLogButton.label "Exibir log">
-<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY viewLogButton.accesskey "l">
 <!ENTITY runFilters.label "Aplicar agora">
 <!ENTITY runFilters.accesskey "A">
 <!ENTITY stopFilters.label "Parar">
@@ -27,6 +27,4 @@
 <!ENTITY folderPickerPrefix.label "Aplicar os filtros selecionados na pasta:">
 <!ENTITY folderPickerPrefix.accesskey "t">
 <!ENTITY choosethis.label "Selecionar esta pasta">
-<!ENTITY choosethisnewsserver.label "Selecionar este servidor de news">
-<!ENTITY helpButton.label "Ajuda">
-<!ENTITY helpButton.accesskey "U">
+<!ENTITY choosethisnewsserver.label "selecionar este servidor de notícias">

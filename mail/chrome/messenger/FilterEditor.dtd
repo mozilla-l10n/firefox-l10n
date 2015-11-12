@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Propriedades do filtro">
-<!ENTITY filterEditorDialog.dimensions "width:100ch;">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nome do filtro:">
 <!ENTITY filterName.accesskey "N">
 
@@ -17,15 +17,19 @@
 <!ENTITY highestPriorityCmd.label "Altíssima">
 
 <!ENTITY contextDesc.label "Aplicar filtro ao:">
-<!ENTITY contextIncomingMail.label "Receber novas mensagens:">
-<!ENTITY contextIncomingMail.accesskey "R">
+<!ENTITY contextIncomingMail.label "Ao receber novas mensagens:">
+<!ENTITY contextIncomingMail.accesskey "g">
 <!ENTITY contextManual.label "Aplicar manualmente">
 <!ENTITY contextManual.accesskey "A">
 <!ENTITY contextBeforeCls.label "Filtrar antes de aplicar o Antispam">
 <!ENTITY contextAfterCls.label "Filtrar após aplicar o Antispam">
+<!ENTITY contextOutgoing.label "Após enviar">
+<!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "Arquivo">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Executar estas ações:">
-<!ENTITY filterActionDesc.accesskey "X">
+<!ENTITY filterActionDesc.accesskey "x">
 
 <!ENTITY filterActionOrderWarning.label "Observação: os filtros serão aplicados em uma ordem diferente.">
 <!ENTITY filterActionOrder.label "Ver ordem de execução">
@@ -59,4 +63,3 @@
  -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
-

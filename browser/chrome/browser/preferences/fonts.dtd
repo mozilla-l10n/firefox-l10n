@@ -3,14 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Fontes">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Fontes padrão para:">
 <!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "Tam.:">
+<!ENTITY  size.label                              "Tamanho:">
 <!ENTITY  sizeProportional.accesskey              "T">
 <!ENTITY  sizeMonospace.accesskey                 "a">
 
@@ -23,19 +20,18 @@
 <!ENTITY  sans-serif.accesskey                    "S">
 <!ENTITY  monospace.label                         "Monoespaçada:">
 <!ENTITY  monospace.accesskey                     "o">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Ocidental">
-<!ENTITY  font.langGroup.latin2                   "Europeu central">
+<!ENTITY  font.langGroup.latin                    "Latino">
 <!ENTITY  font.langGroup.japanese                 "Japonês">
 <!ENTITY  font.langGroup.trad-chinese             "Chinês tradicional (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinês simplificado">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinês tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
-<!ENTITY  font.langGroup.baltic                   "Báltico">
 <!ENTITY  font.langGroup.el                       "Grego">
-<!ENTITY  font.langGroup.turkish                  "Turco">
-<!ENTITY  font.langGroup.unicode                  "Outros idiomas">
+<!ENTITY  font.langGroup.other                    "Outros sistemas de escrita">
 <!ENTITY  font.langGroup.thai                     "Tailandês">
 <!ENTITY  font.langGroup.hebrew                   "Hebraico">
 <!ENTITY  font.langGroup.arabic                   "Árabe">
@@ -50,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmuqui">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malaiala">
+<!ENTITY  font.langGroup.math                     "Matemática">
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Canarês">
@@ -59,18 +56,18 @@
 <!ENTITY minSize.label                            "Tamanho mínimo permitido:">
 <!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Nenhum">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Com serifa">
 <!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
 
 <!ENTITY  allowPagesToUse.label                   "Páginas podem usar outras fontes">
 <!ENTITY  allowPagesToUse.accesskey               "n">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Codificação para conteúdo antigo">
-<!ENTITY languages.customize.Fallback.label       "Codificação:">
-<!ENTITY languages.customize.Fallback.accesskey   "d">
-<!ENTITY languages.customize.Fallback.desc        "Esta codificação é usada para conteúdo antigo que falha em declarar sua codificação.">
+<!ENTITY languages.customize.Fallback2.grouplabel "Codificação de texto para conteúdo legado">
+<!ENTITY languages.customize.Fallback2.label      "Codificação de texto secundária:">
+<!ENTITY languages.customize.Fallback2.accesskey  "C">
+<!ENTITY languages.customize.Fallback2.desc       "Esta codificação de texto é usada para conteúdo legado que falha ao declarar a sua codificação.">
 
 <!ENTITY languages.customize.Fallback.auto        "Padrão do idioma atual">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
@@ -107,4 +104,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vietnamita">
-<!ENTITY languages.customize.Fallback.other       "Outra (incl. europeu ocidental)">
+<!ENTITY languages.customize.Fallback.other       "Outro (incl. Europa ocidental)">

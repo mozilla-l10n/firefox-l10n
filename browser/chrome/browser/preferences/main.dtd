@@ -22,7 +22,7 @@
 
 <!ENTITY downloads.label     "Downloads">
 
-<!ENTITY saveTo.label "Salvar arquivos em:">
+<!ENTITY saveTo.label "Salvar arquivos em">
 <!ENTITY saveTo.accesskey "S">
 <!ENTITY chooseFolderWin.label        "Procurar…">
 <!ENTITY chooseFolderWin.accesskey    "P">
@@ -31,10 +31,15 @@
 <!ENTITY alwaysAsk.label "Sempre perguntar onde salvar arquivos">
 <!ENTITY alwaysAsk.accesskey "e">
 
-<!ENTITY alwaysCheckDefault.label         "Sempre verificar, ao iniciar, se o &brandShortName; é o navegador padrão">
-<!ENTITY alwaysCheckDefault2.accesskey    "v">
-<!ENTITY setAsMyDefaultBrowser.label      "Tornar o &brandShortName; o meu navegador padrão">
-<!ENTITY setAsMyDefaultBrowser.accesskey  "T">
+<!ENTITY alwaysCheckDefault2.label        "Sempre verificar se o &brandShortName; é o navegador padrão">
+<!ENTITY alwaysCheckDefault2.accesskey    "S">
+<!ENTITY setAsMyDefaultBrowser2.label     "Tornar Padrão">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
 <!ENTITY isDefault.label                  "O &brandShortName; é o seu navegador padrão">
 <!ENTITY isNotDefault.label               "O &brandShortName; não é o seu navegador padrão">
 
+<!ENTITY separateProfileMode.label        "Permitir que o &brandShortName; e o Firefox rodem ao mesmo tempo">
+<!ENTITY useFirefoxSync.label             "Dica: Este utiliza perfis separados. Use o Sync para compartilhar dados entre eles.">
+<!ENTITY getStarted.label                 "Começar a usar o Sync…">
+
+<!ENTITY e10sEnabled.label                "Ativar o multi-processo do &brandShortName;">

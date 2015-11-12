@@ -14,7 +14,7 @@
 <!ENTITY SelectDisabled.label "Desabilitado">
 <!ENTITY SelectDisabled.accesskey "D">
 <!ENTITY SelectTabIndex.label "Índice para tab:">
-<!ENTITY SelectTabIndex.accesskey "T">
+<!ENTITY SelectTabIndex.accesskey "t">
 
 <!ENTITY OptGroup.label "Grupo de opções">
 <!ENTITY OptGroupLabel.label "Texto:">
@@ -37,11 +37,11 @@
 <!ENTITY SelectedHeader.label "Selecionado">
 
 <!ENTITY AddOption.label "Adicionar opção">
-<!ENTITY AddOption.accesskey "O">
+<!ENTITY AddOption.accesskey "o">
 <!ENTITY AddOptGroup.label "Adicionar grupo">
 <!ENTITY AddOptGroup.accesskey "A">
-<!ENTITY RemoveElement.label "Excluir">
-<!ENTITY RemoveElement.accesskey "X">
+<!ENTITY RemoveElement.label "Remover">
+<!ENTITY RemoveElement.accesskey "R">
 <!ENTITY MoveElementUp.label "Para cima">
 <!ENTITY MoveElementUp.accesskey "c">
 <!ENTITY MoveElementDown.label "Para baixo">
