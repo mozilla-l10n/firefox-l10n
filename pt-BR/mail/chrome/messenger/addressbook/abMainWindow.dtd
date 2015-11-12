@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Catálogo de endereços">
-
+<!ENTITY blankResultsPaneMessage.label                  "Esse catálogo de endereços mostra os contatos só depois de uma pesquisa">
+<!ENTITY localResultsOnlyMessage.label                  "Contatos do catálogo de endereços remotos não são mostradas até que você pesquise">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Arquivo">
 <!ENTITY fileMenu.accesskey                             "A">
 <!ENTITY newMenu.label                                  "Novo">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Contato de catálogo de endereços…">
+<!ENTITY newContact.label                               "Contato do catálogo de endereços…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "n">
 <!ENTITY newListCmd.label                               "Lista de e-mails…">
 <!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Catálogo…">
+<!ENTITY newAddressBookCmd.label                        "Catálogo de endereços…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
 <!ENTITY newLDAPDirectoryCmd.label                      "Diretório LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
@@ -36,7 +37,7 @@
 <!ENTITY printContactCmd.label                          "Imprimir contato…">
 <!ENTITY printContactCmd.accesskey                      "I">
 <!ENTITY printContactCmd.key                            "p">
-<!ENTITY printAddressBook.label                         "Imprimir catálogo…">
+<!ENTITY printAddressBook.label                         "Imprimir catálogo de endereços…">
 <!ENTITY printAddressBook.accesskey                     "a">
 
 <!-- Edit Menu -->
@@ -69,14 +70,14 @@
 <!ENTITY selectAllCmd.key                               "a">
 <!ENTITY searchAddressesCmd.key                         "F">
 <!ENTITY selectAllCmd.accesskey                         "S">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Trocar primeiro e último nome">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "T">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Inverter Nome/Sobrenome">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "I">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Propriedades">
-<!ENTITY propertiesCmd.accesskey                        "i">
-<!ENTITY propertiesCmd.key                              "I">
+<!ENTITY propertiesCmd2.label                           "Propriedades">
+<!ENTITY propertiesCmd2.accesskey                       "P">
+<!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Exibir">
@@ -98,7 +99,7 @@
 <!ENTITY showContactPane2.label                         "Painel do contato">
 <!ENTITY showContactPane2.accesskey                     "a">
 <!ENTITY menu_ShowNameAs.label                          "Exibir nome como">
-<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Primeiro Último">
@@ -116,14 +117,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Mensagens">
 <!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Pesquisar catálogo…">
+<!ENTITY searchAddressesCmd.label                       "Pesquisar endereços…">
 <!ENTITY searchAddressesCmd.accesskey                   "e">
 <!ENTITY importCmd.label                                "Importar…">
-<!ENTITY importCmd.accesskey                            "i">
+<!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exportar…">
 <!ENTITY exportCmd.accesskey                            "x">
-<!ENTITY preferencesCmd.label                           "Opções…">
-<!ENTITY preferencesCmd.accesskey                       "o">
+<!ENTITY preferencesCmd2.label                          "Opções">
+<!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey                   "P">
 
@@ -131,7 +132,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.label                         "Novo contato">
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Nova lista">
-<!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY newlistButton.accesskey                        "l">
 <!ENTITY editButton2.label                              "Propriedades">
 <!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "Nova msg">
@@ -147,7 +148,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Editar o item selecionado">
 <!ENTITY newmsgButton.tooltip                           "Nova mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de bate-papo">
-<!ENTITY deleteButton2.tooltip                           "Excluir item selecionado">
+<!ENTITY deleteButton2.tooltip                           "Excluir o item selecionado">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Catálogos de endereços">
@@ -157,13 +158,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "z">
 <!ENTITY advancedButton.tooltip                         "Mais opções de pesquisa">
 <!ENTITY quickSearchCmd.key                             "K">
-<!ENTITY searchItem.title "Campo de pesquisa">
+<!ENTITY searchItem.title "Busca Rápida">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Catálogo de endereços">
+<!ENTITY Addrbook.accesskey                             "e">
 <!ENTITY GeneratedName.label                            "Nome">
-<!ENTITY GeneratedName.accesskey                        "n">
+<!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">
-<!ENTITY PrimaryEmail.accesskey                         "e">
+<!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ChatName.label                                 "Bate-papo">
 <!ENTITY ChatName.accesskey                             "B">
 <!ENTITY Company.label                                  "Empresa">
@@ -179,7 +182,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY CellularNumber.label                           "Celular">
 <!ENTITY CellularNumber.accesskey                       "l">
 <!ENTITY PagerNumber.label                              "Pager">
-<!ENTITY PagerNumber.accesskey                          "p">
+<!ENTITY PagerNumber.accesskey                          "P">
 <!ENTITY FaxNumber.label                                "Fax">
 <!ENTITY FaxNumber.accesskey                            "x">
 <!ENTITY HomePhone.label                                "Telefone residencial">
@@ -197,8 +200,8 @@ because displayed names don't have the comma in between. -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Contato">
 <!ENTITY home.heading                                   "Endereço residencial">
-<!ENTITY chat.heading                                   "Bate-papo">
 <!ENTITY other.heading                                  "Outros">
+<!ENTITY chat.heading                                   "Bate-papo">
 <!ENTITY phone.heading                                  "Telefones">
 <!ENTITY work.heading                                   "Endereço comercial">
 <!-- Special Box Headings, for mailing lists -->
@@ -206,7 +209,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addresses.heading                              "Endereços">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Mapa">
-<!ENTITY mapIt.tooltip                                  "Pesquisar um mapa deste endereço web">
+<!ENTITY mapIt.tooltip                                  "Exibir um mapa deste endereço web">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label "">
@@ -215,5 +218,5 @@ because displayed names don't have the comma in between. -->
 <!ENTITY windowMenu.label "Janela">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY minimizeWindow.key "M">
-<!ENTITY bringAllToFront.label "Trazer Todas para Frente">
+<!ENTITY bringAllToFront.label "Trazer todas para frente">
 <!ENTITY zoomWindow.label "Ampliar/Reduzir">

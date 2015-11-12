@@ -32,7 +32,7 @@
 <!ENTITY retentionApplyToFlagged.label "Sempre preservar as mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "S">
 <!ENTITY nntpRemoveMsgBody.label "Excluir o conteúdo de mensagens com mais de">
-<!ENTITY nntpRemoveMsgBody.accesskey "I">
+<!ENTITY nntpRemoveMsgBody.accesskey "i">
 <!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura off-line…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avançado…">

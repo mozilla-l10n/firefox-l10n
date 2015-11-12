@@ -3,22 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Geral">
-<!ENTITY itemDisplay.label       "Leitura e exibição">
+<!ENTITY dataChoicesTab.label    "Escolhas de dados">
 <!ENTITY itemUpdate.label        "Atualizações">
 <!ENTITY itemNetworking.label    "Rede e espaço em disco">
 <!ENTITY itemCertificates.label  "Certificados">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Enviar dados sobre desempenho">
-<!ENTITY submitTelemetry.accesskey     "d">
-<!ENTITY telemetryInfoLink.label       "Mais informações sobre o envio de dados">
 <!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexação">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+<!ENTITY allowHWAccel.label            "Usar aceleração de hardware quando disponível">
+<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Tipo de armazenamento de mensagem para contas novas:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore2.label              "Um arquivo por pasta (mbox)">
+<!ENTITY maildirStore.label            "Um arquivo por mensagem (maildir)">
 
 <!ENTITY scrolling.label               "Navegação">
-<!ENTITY useAutoScroll.label           "Autorolagem">
-<!ENTITY useAutoScroll.accesskey       "T">
+<!ENTITY useAutoScroll.label           "Autorrolagem">
+<!ENTITY useAutoScroll.accesskey       "t">
 <!ENTITY useSmoothScrolling.label      "Rolagem suave">
 <!ENTITY useSmoothScrolling.accesskey  "R">
 
@@ -36,47 +38,31 @@
 <!ENTITY showReturnReceipts.label      "Confirmações de leitura…">
 <!ENTITY showReturnReceipts.accesskey  "C">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Leitura">
-<!ENTITY display.caption               "Exibição">
-<!ENTITY showCondensedAddresses.label  "Para pessoas em meus contatos, exibir somente o nome">
-<!ENTITY showCondensedAddresses.accesskey "P">
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetria">
+<!ENTITY telemetryDesc.label             "Compartilha o desempenho, a utilização, o hardware e os dados de personalização sobre o cliente de e-mail com a &vendorShortName; para ajudar a melhorar o &brandShortName;">
+<!ENTITY enableTelemetry.label           "Ativar telemetria">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Saiba mais">
 
-<!ENTITY autoMarkAsRead.label          "Marcar automaticamente mensagens como lidas">
-<!ENTITY autoMarkAsRead.accesskey      "M">
-<!ENTITY markAsReadNoDelay.label       "Ao exibir">
-<!ENTITY markAsReadNoDelay.accesskey   "A">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Ao exibir por">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "segundos">
-<!ENTITY openMsgIn.label               "Abrir mensagens em:">
-<!ENTITY openMsgInNewTab.label         "Nova aba">
-<!ENTITY openMsgInNewTab.accesskey     "N">
-<!ENTITY reuseExpRadio0.label          "Nova janela">
-<!ENTITY reuseExpRadio0.accesskey      "o">
-<!ENTITY reuseExpRadio1.label          "Janela existente">
-<!ENTITY reuseExpRadio1.accesskey      "J">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Ao mover ou excluir, fechar aba/janela da mensagem">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
+<!ENTITY crashReporterSection.label      "Relatório de travamento">
+<!ENTITY crashReporterDesc.label         "O &brandShortName; envia relatório de erros para ajudar a &vendorShortName; a tornar o seu cliente de e-mail mais estável e seguro">
+<!ENTITY enableCrashReporter.label       "Ativar o Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Saiba mais">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Verificar automaticamente se há atualizações para:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "B">
-<!ENTITY enableAddonsUpdate.label       "Extensões e temas instalados">
-<!ENTITY enableAddonsUpdate.accesskey   "E">
-<!ENTITY whenUpdatesFound.label         "Ao encontrar atualizações do &brandShortName;:">
-<!ENTITY modeAskMe.label                "Perguntar o que fazer">
-<!ENTITY modeAskMe.accesskey            "P">
-<!ENTITY modeAutomatic.label            "Receber e instalar a atualização automaticamente">
-<!ENTITY modeAutomatic.accesskey        "R">
-<!ENTITY modeAutoAddonWarn.label        "Alertar caso desative alguma extensão ou tema">
-<!ENTITY modeAutoAddonWarn.accesskey    "A">
-<!ENTITY showUpdates.label              "Histórico de atualizações">
-<!ENTITY showUpdates.accesskey          "H">
+<!ENTITY updateApp.label                 "Atualizações do &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalar atualizações automaticamente (recomendado: melhoria da segurança)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Verificar atualizações, mas permitir que eu escolha quando instalá-las">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Nunca verificar se há atualizações (não recomendado: risco de segurança)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Avise-me se isto vai desabilitar algum de meus complementos">
+<!ENTITY updateAutoAddonWarn.accesskey   "A">
+<!ENTITY updateHistory.label             "Exibir histórico de atualizações">
+<!ENTITY updateHistory.accesskey         "l">
 
 <!ENTITY useService.label                "Usar um serviço em segundo plano para instalar atualizações">
 <!ENTITY useService.accesskey            "s">
@@ -91,10 +77,10 @@
 <!ENTITY showOffline.label             "Configurar modo off-line…">
 <!ENTITY showOffline.accesskey         "o">
 
-<!ENTITY Diskspace "Espaço em disco">
-<!ENTITY offlineCompactFolders.label "Condensar todas as pastas se puder liberar pelo menos">
+<!ENTITY Diskspace                       "Espaço em disco">
+<!ENTITY offlineCompactFolders.label     "Condensar todas as pastas se puder liberar pelo menos">
 <!ENTITY offlineCompactFolders.accesskey "n">
-<!ENTITY offlineCompactFoldersMB.label "MB">
+<!ENTITY offlineCompactFoldersMB.label   "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -113,13 +99,11 @@
 <!ENTITY certs.auto                      "Selecionar um automaticamente">
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Perguntar quando necessário">
-<!ENTITY certs.ask.accesskey             "P">
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "Consultar servidores OCSP para confirmar a validade atual dos certificados">
+<!ENTITY enableOCSP.accesskey            "C">
 
-<!ENTITY viewCertificates.label         "Certificados">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "Revogações">
-<!ENTITY viewCRLs.accesskey             "R">
-<!ENTITY validation.label               "Validação">
-<!ENTITY validation.accesskey           "V">
+<!ENTITY viewCertificates.label         "Ver certificados">
+<!ENTITY viewCertificates.accesskey     "c">
 <!ENTITY viewSecurityDevices.label      "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey  "D">

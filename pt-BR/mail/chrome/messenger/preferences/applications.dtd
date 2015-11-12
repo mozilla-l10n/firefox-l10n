@@ -28,8 +28,8 @@
 <!ENTITY addCloudFileAccount.label        "Adicionar">
 <!ENTITY addCloudFileAccount.accesskey    "A">
 <!ENTITY addCloudFileAccount.description  "Adicionar um serviço de armazenamento on-line">
-<!ENTITY removeCloudFileAccount.label     "Excluir">
-<!ENTITY removeCloudFileAccount.accesskey "x">
+<!ENTITY removeCloudFileAccount.label     "Remover">
+<!ENTITY removeCloudFileAccount.accesskey "R">
 <!ENTITY authRequired.description         "Sua autorização é necessária para verificar as configurações deste serviço de armazenamento.">
 <!ENTITY authRequired.button.label        "Autorizar">
 <!ENTITY authRequired.button.accesskey    "u">

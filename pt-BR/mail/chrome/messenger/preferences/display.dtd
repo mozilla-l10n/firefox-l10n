@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formatação">
 <!ENTITY itemTags.label                   "Tags">
+<!ENTITY itemAdvanced.label               "Avançado">
 
 <!ENTITY style.label                      "Estilo:">
 <!ENTITY style.accesskey                  "E">
@@ -34,7 +35,7 @@
 <!ENTITY removeTagButton.label     "Excluir">
 <!ENTITY removeTagButton.accesskey "x">
 
-<!-- Fonts -->
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Fontes">
 <!ENTITY defaultFont.label       "Fonte padrão:">
 <!ENTITY defaultFont.accesskey   "F">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Avançado…">
 <!ENTITY colorButton.label       "Cores…">
 <!ENTITY colorButton.accesskey   "C">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                  "Leitura">
+<!ENTITY display.caption                  "Exibição">
+<!ENTITY showCondensedAddresses.label     "Para pessoas em meus contatos, exibir somente o nome">
+<!ENTITY showCondensedAddresses.accesskey "P">
+
+<!ENTITY autoMarkAsRead.label             "Marcar automaticamente mensagens como lidas">
+<!ENTITY autoMarkAsRead.accesskey         "M">
+<!ENTITY markAsReadNoDelay.label          "Ao exibir">
+<!ENTITY markAsReadNoDelay.accesskey      "A">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Ao exibir por">
+<!ENTITY markAsReadDelay.accesskey        "e">
+<!ENTITY secondsLabel.label               "segundos">
+<!ENTITY openMsgIn.label                  "Abrir mensagens em:">
+<!ENTITY openMsgInNewTab.label            "Nova aba">
+<!ENTITY openMsgInNewTab.accesskey        "N">
+<!ENTITY reuseExpRadio0.label             "Nova janela">
+<!ENTITY reuseExpRadio0.accesskey         "o">
+<!ENTITY reuseExpRadio1.label             "Janela existente">
+<!ENTITY reuseExpRadio1.accesskey         "J">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Ao mover ou excluir, fechar aba/janela da mensagem">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "v">

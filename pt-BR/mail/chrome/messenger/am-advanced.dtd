@@ -13,12 +13,13 @@
 <!ENTITY smtpListAdd.label  "Adicionar…">
 <!ENTITY smtpListAdd.accesskey  "A">
 <!ENTITY smtpListEdit.label "Editar…">
-<!ENTITY smtpListEdit.accesskey "e">
+<!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Excluir">
 <!ENTITY smtpListDelete.accesskey "u">
 <!ENTITY smtpListSetDefault.label "Definir como padrão">
 <!ENTITY smtpListSetDefault.accesskey "f">
 
+<!ENTITY serverDetails.label "Detalhes do servidor selecionado:">
 <!ENTITY serverDescription.label "Descrição:">
 <!ENTITY serverName.label "Servidor:">
 <!ENTITY serverPort.label "Porta:">

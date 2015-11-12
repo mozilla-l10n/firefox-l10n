@@ -7,23 +7,14 @@
 <!ENTITY autoHide.label "Exibir a barra de abas apenas se houver mais de uma aba">
 <!ENTITY autoHide.accesskey "d">
 <!ENTITY background.label "Carregar links em primeiro plano">
-<!ENTITY background.accesskey "S">
+<!ENTITY background.accesskey "s">
+<!ENTITY warnOnClose.label "Alertar ao fechar uma janela com várias abas">
+<!ENTITY warnOnClose.accesskey "A">
+<!ENTITY relatedAfterCurrent.label "Abrir abas relacionadas após a aba atual">
+<!ENTITY relatedAfterCurrent.accesskey "o">
 <!ENTITY loadGroup.label "Ao abrir um grupo de marcadores">
 <!ENTITY loadGroupAppend.label "Adicionar abas">
 <!ENTITY loadGroupAppend.accesskey "A">
 <!ENTITY loadGroupReplace.label "Substituir as abas existentes">
 <!ENTITY loadGroupReplace.accesskey "S">
 <!ENTITY openTabs.label "Abrir em nova aba quando">
-<!ENTITY newWindow.label "Abrir links">
-<!ENTITY newWindowDescription.label "Forçar links que abrem janelas a abrir">
-<!ENTITY external.label "Links de outros programas">
-<!ENTITY externalDescription.label "Abrir links passados por outros programas">
-<!ENTITY openCurrent.label "Na aba/janela atual">
-<!ENTITY newWindowGroupCurrent.accesskey "a">
-<!ENTITY externalGroupCurrent.accesskey "u">
-<!ENTITY openTab.label "Em nova aba da janela atual">
-<!ENTITY newWindowGroupTab.accesskey "n">
-<!ENTITY externalGroupTab.accesskey "e">
-<!ENTITY openWindow.label "Em nova janela">
-<!ENTITY newWindowGroupWindow.accesskey "j">
-<!ENTITY externalGroupWindow.accesskey "o">

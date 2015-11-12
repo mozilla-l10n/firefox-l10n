@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "x">
 <!ENTITY searchDialogTitle.label     "Pesquisar mensagens">
 <!ENTITY results.label               "Resultados">
-<!ENTITY moveHereMenu.label          "Mover para cá">
-<!ENTITY moveHereMenu.accesskey      "P">
 <!ENTITY moveButton.label            "Mover para">
 <!ENTITY moveButton.accesskey        "M">
 <!ENTITY closeCmd.key                "w"> 
@@ -34,12 +32,15 @@
 <!ENTITY propertiesButton.accesskey  "r">
 <!ENTITY composeButton.label         "Nova mensagem">
 <!ENTITY composeButton.accesskey     "N">
+<!ENTITY deleteCardButton.label      "Excluir">
+<!ENTITY deleteCardButton.accesskey  "x">
 <!ENTITY abSearchDialogTitle.label   "Pesquisar catálogo">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tópico">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatário">
+<!ENTITY correspondentColumn.label "Correspondentes">
 <!ENTITY subjectColumn.label "Assunto">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioridade">
@@ -57,22 +58,23 @@
 <!ENTITY idColumn.label "Ordem de chegada">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Clique para selecionar quais colunas mostrar">
-<!ENTITY threadColumn.tooltip "Clique para agrupar pelo tópico"> 
-<!ENTITY fromColumn.tooltip "Clique para ordenar por remetente">
-<!ENTITY recipientColumn.tooltip "Clique para ordenar pelo destinatário">
-<!ENTITY subjectColumn.tooltip "Clique para ordenar pelo assunto">
-<!ENTITY dateColumn.tooltip "Clique para ordenar pela data">
-<!ENTITY priorityColumn.tooltip "Clique para ordenar pela prioridade">
-<!ENTITY tagsColumn.tooltip "Clique para ordenar pelas tags">
-<!ENTITY accountColumn.tooltip "Clique para ordenar pela conta">
-<!ENTITY statusColumn.tooltip "Clique para ordenar pelo status">
-<!ENTITY sizeColumn.tooltip "Clique para ordenar pelo tamanho">
-<!ENTITY junkStatusColumn.tooltip "Clique para ordenar pela classificação de spam">
-<!ENTITY unreadColumn.tooltip "Número de mensagens não lidas do tópico">
-<!ENTITY totalColumn.tooltip "Número de mensagens do tópico">
-<!ENTITY readColumn.tooltip "Clique para ordenar por mensagem lida">
-<!ENTITY receivedColumn.tooltip "Clique para ordenar pela data de recebimento">
-<!ENTITY starredColumn.tooltip "Clique para ordenar pela estrela">
-<!ENTITY locationColumn.tooltip "Clique para ordenar pela pasta">
-<!ENTITY idColumn.tooltip "Clique para ordenar pela ordem de chegada">
+<!ENTITY columnChooser2.tooltip "Selecionar colunas a serem exibidas">
+<!ENTITY threadColumn2.tooltip "Exibir mensagens agrupadas">
+<!ENTITY fromColumn2.tooltip "Ordenar por remetente">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
+<!ENTITY correspondentColumn2.tooltip "Ordenar por correspondentes">
+<!ENTITY subjectColumn2.tooltip "Ordenar por assunto">
+<!ENTITY dateColumn2.tooltip "Ordenar por data">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridade">
+<!ENTITY tagsColumn2.tooltip "Ordenar por tags">
+<!ENTITY accountColumn2.tooltip "Ordenar por conta">
+<!ENTITY statusColumn2.tooltip "Ordenar por estado">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamanho">
+<!ENTITY junkStatusColumn2.tooltip "Ordernar por status de spam">
+<!ENTITY unreadColumn2.tooltip "O número de mensagens não lidas na lista de discussão">
+<!ENTITY totalColumn2.tooltip "Número total de mensagens no tópico">
+<!ENTITY readColumn2.tooltip "Ordenar por lidas">
+<!ENTITY receivedColumn2.tooltip "Ordenar por data de recebimento">
+<!ENTITY starredColumn2.tooltip "Ordenar por estrela">
+<!ENTITY locationColumn2.tooltip "Ordenar pela localização">
+<!ENTITY idColumn2.tooltip "Ordenar pela ordem de recebimento">

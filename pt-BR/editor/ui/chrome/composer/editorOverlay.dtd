@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Colar como citação">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "O">
-<!ENTITY findCmd.label "Localizar e substituir…">
+<!ENTITY findBarCmd.label "Localizar…">
+<!ENTITY findReplaceCmd.label "Localizar e substituir…">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao digitar">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
 <!ENTITY checkSpellingCmd2.label "Verificar ortografia…">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "Código-fonte HTML…">
 <!ENTITY insertHTMLCmd.accesskey "f">
+<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Caracteres e símbolos…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Quebrar abaixo da imagem">
@@ -75,7 +78,7 @@
 <!ENTITY increaseFontSize.label "Aumentar">
 <!ENTITY increaseFontSize.accesskey "A">
 <!ENTITY incrementFontSize.key "&gt;">
-<!ENTITY incrementFontSize.key2 "."> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Tamanho do texto">
 <!ENTITY fontSizeMenu.accesskey "x">
@@ -115,7 +118,7 @@
 <!ENTITY styleNonbreakingCmd.label "Não quebrar linha">
 <!ENTITY styleNonbreakingCmd.accesskey "l">
 <!ENTITY styleEm.label "Ênfase">
-<!ENTITY styleEm.accesskey "E">
+<!ENTITY styleEm.accesskey "e">
 <!ENTITY styleStrong.label "Ênfase forte">
 <!ENTITY styleStrong.accesskey "f">
 <!ENTITY styleCite.label "Citação">
@@ -138,7 +141,7 @@
 
 <!ENTITY formatRemoveStyles.key "y">
 <!ENTITY formatRemoveLinks.key "k">
-<!ENTITY formatRemoveNamedAnchors.label "Excluir âncoras nomeadas">
+<!ENTITY formatRemoveNamedAnchors.label "Remover âncoras nomeadas">
 <!ENTITY formatRemoveNamedAnchors.accesskey "n">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
@@ -328,8 +331,8 @@
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selecionar">
 <!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Excluir tag">
-<!ENTITY structRemoveTag.accesskey  "x">
+<!ENTITY structRemoveTag.label      "Remover etiqueta">
+<!ENTITY structRemoveTag.accesskey  "R">
 <!ENTITY structChangeTag.label      "Alterar tag">
 <!ENTITY structChangeTag.accesskey  "A">
 

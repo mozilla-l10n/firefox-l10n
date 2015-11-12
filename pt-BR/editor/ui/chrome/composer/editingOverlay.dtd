@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "v">
 <!ENTITY saveAsCmd.label "Salvar como…">
 <!ENTITY saveAsCmd.accesskey "l">
-<!ENTITY saveAsChangeEncodingCmd.label "Salvar e mudar codificação">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "m">
+<!ENTITY saveAsChangeEncodingCmd2.label "Salvar e mudar a codificação do texto">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "e">
 <!ENTITY publishCmd.label "Publicar">
 <!ENTITY publishCmd.accesskey "P">
 <!ENTITY publishCmd.key "s">

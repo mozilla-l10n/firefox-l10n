@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
-<!ENTITY  pageInfoWindow.height "500">
+<!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "c">
 <!ENTITY  copy.label            "Copiar">
@@ -22,11 +22,9 @@
 <!ENTITY  generalReferrer       "Página de origem:">
 <!ENTITY  generalSource         "Origem do cache:">
 <!ENTITY  generalModified       "Modificada em:">
-<!ENTITY  generalEncoding       "Codificação:">
+<!ENTITY  generalEncoding2      "Codificação do texto:">
 <!ENTITY  generalMetaName       "Nome">
 <!ENTITY  generalMetaContent    "Valor">
-<!ENTITY  generalSecurityDetails   "Detalhes">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Mídia">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -57,16 +55,15 @@
 <!ENTITY  permAllow             "Permitir">
 <!ENTITY  permAllowSession      "Excluir ao sair">
 <!ENTITY  permBlock             "Bloquear">
-<!ENTITY  permissionsFor        "Permissões para">
+<!ENTITY  permissionsFor        "Permissões para:">
 <!ENTITY  permPlugins           "Ativar plugins">
 
-<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permClearStorage           "Limpar armazenamento">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Segurança">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Informações de segurança para esta página">
-<!ENTITY  securityView.certView "Exibir certificado">
+<!ENTITY  securityView.certView "Ver certificado">
 <!ENTITY  securityView.accesskey "E">
 <!ENTITY  securityView.unknown   "Desconhecido">
 
@@ -79,10 +76,12 @@
 <!ENTITY  securityView.privacy.header                   "Privacidade e histórico">
 <!ENTITY  securityView.privacy.history                  "Este site foi visitado ontem ou antes?">
 <!ENTITY  securityView.privacy.cookies                  "Este site armazena dados (cookies) no meu computador?">
-<!ENTITY  securityView.privacy.viewCookies              "Exibir cookies">
+<!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "x">
 <!ENTITY  securityView.privacy.passwords                "Há senhas memorizadas deste site?">
-<!ENTITY  securityView.privacy.viewPasswords            "Exibir senhas">
+<!ENTITY  securityView.privacy.viewPasswords            "Ver senhas salvas">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "b">
 
 <!ENTITY  securityView.technical.header                 "Detalhes técnicos">
+
+<!ENTITY  helpButton.label                              "Ajuda">

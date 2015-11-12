@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY doNotDownloadPop3Movemail.label "Para economizar espaço em disco, não receber:">
-<!ENTITY doNotDownload.label "Para economizar espaço em disco, não receber para leitura em modo desconectado:">
+<!ENTITY doNotDownloadNntp.label "Para economizar espaço em disco, não receber para uso off-line:">
+<!ENTITY doNotDownloadImap.label "Para economizar espaço em disco, o recebimento de mensagens do servidor e a  manutenção das cópias locais para uso em modo desconectado podem ser restringidas pela data ou tamanho.">
+<!ENTITY allFoldersOffline.label "Manter mensagens desta conta no computador">
+<!ENTITY allFoldersOffline.accesskey "M">
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
-<!ENTITY offlineNotDownload.accesskey "A">
+<!ENTITY offlineNotDownload.accesskey "a">
+<!ENTITY autosyncNotDownload.label "Não receber mensagens maiores que">
+<!ENTITY autosyncNotDownload.accesskey "N">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens mais recentes">
@@ -14,25 +19,40 @@
 <!ENTITY nntpDownloadMsg.label "Mensagens com mais de">
 <!ENTITY nntpDownloadMsg.accesskey "m">
 <!ENTITY retentionCleanup.label "Mensagens antigas podem ser apagadas permanentemente para liberar espaço em disco">
+<!ENTITY retentionCleanupImap.label "Para recuperar espaço em disco, mensagens antigas podem ser apagadas, tanto as cópias locais quanto suas originais no servidor.">
+<!ENTITY retentionCleanupPop.label "Para recuperar espaço em disco, mensagens antigas podem ser apagadas, incluindo suas originais no servidor.">
 <!ENTITY retentionKeepMsg.label "Excluir mensagens com mais de">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não excluir nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Excluir todas exceto as últimas">
-<!ENTITY retentionKeepNew.accesskey "t">
-<!ENTITY retentionKeepUnread.label "Sempre excluir mensagens lidas">
-<!ENTITY retentionKeepUnread.accesskey "d">
-<!ENTITY nntpRemoveBody.label "Apenas o conteúdo de mensagens com menos de">
-<!ENTITY nntpRemoveBody.accesskey "C">
-<!ENTITY offlineSelectNntp.label "Newsgroups para leitura em modo desconectado...">
-<!ENTITY offlineSelectNntp.accesskey "N">
-<!ENTITY diskspaceGroupTitle.label "Espaço em disco">
-<!ENTITY allFoldersOffline.label "Manter mensagens desta conta no computador">
-<!ENTITY allFoldersOffline.accesskey "M">
+<!ENTITY retentionKeepRecent.label "Excluir tudo, exceto as últimas">
+<!ENTITY retentionKeepRecent.accesskey "E">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Sempre excluir as mensagens lidas (sobrescreve a opção de data)">
+<!ENTITY retentionApplyToFlagged.label "Sempre manter mensagens sinalizadas">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY nntpRemoveMsgBody.label "Excluir o conteúdo de mensagens com mais de">
+<!ENTITY nntpRemoveMsgBody.accesskey "i">
+<!ENTITY offlineSelectNntp.label "Grupos de notícias para leitura em modo desconectado…">
+<!ENTITY offlineSelectNntp.accesskey "G">
 <!ENTITY offlineImapAdvancedOffline.label "Avançado…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronização de mensagens">
-<!ENTITY retentionApplyToFlagged.label "Sempre manter mensagens sinalizadas">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY retentionCleanupImap.label "Para recuperar espaço em disco, mensagens antigas podem ser apagadas, tanto as cópias locais quanto suas originais no servidor.">
-<!ENTITY retentionCleanupPop.label "Para recuperar espaço em disco, mensagens antigas podem ser apagadas, incluindo suas originais no servidor.">
+<!ENTITY diskspaceGroupTitle.label "Espaço em disco">
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+
+<!ENTITY allAutosync.label               "Sincronizar localmente todas as mensagens independentemente da data">
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "Sincronizar os mais recentes">
+<!ENTITY ageAutosync.accesskey           "S">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Dias">
+<!ENTITY weekAgeInterval.label           "Semanas">
+<!ENTITY monthAgeInterval.label          "Meses">
+<!ENTITY yearAgeInterval.label           "Anos">
+<!ENTITY ageAutosyncAfter.label          "">

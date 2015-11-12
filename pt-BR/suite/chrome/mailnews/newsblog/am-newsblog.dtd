@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newsblogTitle.label "Configurações da conta RSS">
-
 <!ENTITY biffStart.label "Verificar novos itens a cada ">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutos">
@@ -16,9 +14,9 @@
 
 <!ENTITY manageSubscriptions.label "Gerenciar inscrições…"> 
 <!ENTITY manageSubscriptions.accesskey "G">
+<!-- entities from rss.rdf -->
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Blogs &amp; notícias">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "Blogs &amp; notícias RSS">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY feeds.accountName "RSS de blogs e notícias">
+<!ENTITY feeds.wizardShortName "RSS">
+<!ENTITY feeds.wizardLongName "RSS de blogs e notícias">
+<!ENTITY feeds.wizardLongName.accesskey "B">

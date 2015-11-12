@@ -6,7 +6,7 @@
 <!ENTITY useGlobalPrefs.label         "Usar minhas opções padrão para confirmações de leitura">
 <!ENTITY useGlobalPrefs.accesskey     "a">
 <!ENTITY globalReceipts.label         "Preferências globais…">
-<!ENTITY globalReceipts.accesskey     "G">
+<!ENTITY globalReceipts.accesskey     "g">
 <!ENTITY useCustomPrefs.label         "Personalizar minhas confirmações de leitura para esta conta">
 <!ENTITY useCustomPrefs.accesskey     "P">
 <!ENTITY requestReceipt.label         "Sempre solicitar uma confirmação de leitura">

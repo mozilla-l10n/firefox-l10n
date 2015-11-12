@@ -6,11 +6,10 @@
 <!ENTITY identitiesListAdd.label  "Nova…">
 <!ENTITY identitiesListAdd.accesskey  "N">
 <!ENTITY identitiesListEdit.label "Editar…">
-<!ENTITY identitiesListEdit.accesskey "e">
+<!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDefault.label "Definir como padrão">
-<!ENTITY identitiesListDefault.accesskey "P">
+<!ENTITY identitiesListDefault.accesskey "p">
 <!ENTITY identitiesListDelete.label "Excluir">
 <!ENTITY identitiesListDelete.accesskey "x">
 <!ENTITY identitiesListClose.label "Fechar">
 <!ENTITY identitiesListClose.accesskey "F">
-

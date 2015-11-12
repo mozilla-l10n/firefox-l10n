@@ -14,5 +14,5 @@
 <!ENTITY AccessKey.label "Tecla de acesso:">
 <!ENTITY AccessKey.accesskey "s">
 
-<!ENTITY RemoveLabel.label "Excluir label">
-<!ENTITY RemoveLabel.accesskey "x">
+<!ENTITY RemoveLabel.label "Remover rótulo">
+<!ENTITY RemoveLabel.accesskey "R">

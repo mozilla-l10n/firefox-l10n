@@ -2,28 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.popups.title "Janelas popup">
-<!ENTITY pref.popups.caption "Janelas popup">
-<!ENTITY popupBlock.label "Bloquear janelas popup">
-<!ENTITY popupBlock.accesskey "B">
-<!ENTITY popupExceptions.label "Sites desbloqueados...">
-<!ENTITY popupExceptions.accesskey "D">
-<!ENTITY whenBlock.description "Quando um popup for bloqueado:">
-<!ENTITY playSound.label "Tocar este som:">
-<!ENTITY playSound.accesskey "s">
-<!ENTITY selectSound.label "Selecionar...">
-<!ENTITY selectSound.accesskey "s">
-<!ENTITY previewSound.label "Testar">
-<!ENTITY previewSound.accesskey "t">
-<!ENTITY selectSound.title "Selecionar som de bloqueio de popups">
-<!ENTITY displayIcon.label "Exibir um ícone na barra de status">
-<!ENTITY displayIcon.accesskey "x">
-<!ENTITY popupNote.description 'NOTA: O bloqueio total de popups pode impedir o carregamento de algumas páginas - como janelas de login. Para desbloquear sites rapidamente, use o menu "Ferramentas" - "Popups". Mesmo se bloqueados, sites podem usar outros métodos para abrir janelas.'>
-<!ENTITY customSound.label              "Arquivo de som personalizado">
-<!ENTITY customSound.accesskey          "A">
-<!ENTITY selectSound.filter             "Sons">
+<!ENTITY pref.popups.title              "Janelas popup">
+
+<!ENTITY pref.popups.caption            "Janelas popup">
+
+<!ENTITY popupBlock.label               "Bloquear janelas popup">
+<!ENTITY popupBlock.accesskey           "B">
+
+<!ENTITY viewPermissions.label          "Gerenciar permissões">
+<!ENTITY viewPermissions.accesskey      "G">
+
+<!ENTITY whenBlock.description          "Quando um popup for bloqueado:">
+<!ENTITY playSound.label                "Tocar este som:">
+<!ENTITY playSound.accesskey            "s">
 <!ENTITY systemSound.label              "Beep do sistema">
 <!ENTITY systemSound.accesskey          "B">
+<!ENTITY customSound.label              "Arquivo de som personalizado">
+<!ENTITY customSound.accesskey          "A">
 
-<!ENTITY displayNotification.accesskey  "E">
+<!ENTITY selectSound.label              "Selecionar...">
+<!ENTITY selectSound.accesskey          "S">
+<!ENTITY playSoundButton.label          "Reproduzir">
+<!ENTITY playSoundButton.accesskey      "R">
+
+<!ENTITY displayIcon.label              "Exibir um ícone na barra de status">
+<!ENTITY displayIcon.accesskey          "x">
+
 <!ENTITY displayNotification.label      "Exibir uma barra de notificação no topo da área de conteúdo">
+<!ENTITY displayNotification.accesskey  "E">
+
+<!ENTITY popupNote.description          "NOTA: O bloqueio total de popups pode impedir o carregamento de algumas páginas - como janelas de login. Para desbloquear sites rapidamente, use o menu &quot;Ferramentas&quot; - &quot;Popups&quot;. Mesmo se bloqueados, sites podem usar outros métodos para abrir janelas.">
+

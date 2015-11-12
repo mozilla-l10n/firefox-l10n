@@ -1,14 +1,23 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
+<!--
+
+ This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY manage.label "Organizar">
-<!ENTITY manage.accesskey "Z">
-<!ENTITY select.label "Usar perfil">
+<!ENTITY            windowTitle.label    "Selecionar perfil de usuário">
+<!ENTITY            profileManager.title "&brandShortName; Gerenciador de perfis">
 
-<!ENTITY availableProfiles.label "Perfis disponíveis">
-<!ENTITY introStart.label "Para acessar teu perfil, que contém tuas mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &start.label; para iniciar tua sessão.">
-<!ENTITY introSwitch.label "Para mudar para outro perfil, que contém mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &select.label; para começar a usá-lo.">
-<!ENTITY profileManager.title "&brandShortName; Gerenciador de perfis">
-<!ENTITY profileManagerText.label "&brandShortName; armazena informação acerca de tuas configurações, preferências, marcadores, mensagens armazena e outros items de usuário no teu perfil.">
-<!ENTITY windowTitle.label "Selecionar perfil de usuário">
+<!ENTITY            manage.label     "Organizar">
+<!ENTITY            manage.accesskey "z">
+<!ENTITY            select.label     "Usar perfil">
+
+<!ENTITY            availableProfiles.label "Perfis disponíveis">
+
+<!ENTITY            introStart.label         "Para acessar teu perfil, que contém tuas mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &start.label; para iniciar tua sessão.">
+<!ENTITY            introSwitch.label        "Para mudar para outro perfil, que contém mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &select.label; para começar a usá-lo.">
+<!ENTITY            profileManagerText.label "&brandShortName; armazena informação acerca de tuas configurações, preferências, marcadores, mensagens armazena e outros items de usuário no teu perfil.">
+
+<!ENTITY            autoSelect.label         "Padrão para este perfil">
+<!ENTITY            autoSelect.accesskey     "s">
+

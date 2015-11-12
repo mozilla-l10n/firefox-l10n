@@ -28,7 +28,7 @@
 <!ENTITY formattingToolbarCmd.label "Barra de formatação">
 <!ENTITY formattingToolbarCmd.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Modo de edição">
-<!ENTITY editmodeToolbarCmd.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "e">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatar">
@@ -47,9 +47,9 @@
 <!ENTITY NormalMode.label "Normal">
 <!ENTITY NormalMode.accesskey "N">
 <!ENTITY NormalMode.tooltip "Exibir bordas nas tabelas e âncoras nomeadas">
-<!ENTITY AllTagsModeTab.label "HTML Tags">
-<!ENTITY AllTagsMode.label "Exibir tags">
-<!ENTITY AllTagsMode.accesskey "x">
+<!ENTITY AllTagsModeTab.label "Etiquetas HTML">
+<!ENTITY AllTagsMode.label "Tags HTML">
+<!ENTITY AllTagsMode.accesskey "a">
 <!ENTITY AllTagsMode.tooltip "Exibir ícones para todas as tags HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
@@ -57,7 +57,7 @@
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
-<!ENTITY HTMLSourceModeTab.label "Source">
+<!ENTITY HTMLSourceModeTab.label "Fonte">
 <!ENTITY HTMLSourceMode.label "Código-fonte HTML">
 <!ENTITY HTMLSourceMode.accesskey "f">
 <!ENTITY HTMLSourceMode.tooltip "Editar código-fonte HTML">

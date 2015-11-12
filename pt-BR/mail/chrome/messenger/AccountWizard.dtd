@@ -5,7 +5,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Assistente de contas">
-<!ENTITY accountWizard.size "width:40em; height:38em;">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 
@@ -119,6 +119,6 @@
 <!ENTITY downloadOnLogin.accesskey "R">
 <!ENTITY deferStorageDesc.label "Desmarque a opção abaixo se quiser receber as mensagens desta conta em um espaço separado. Se deixar marcado, serão usadas as pastas da conta Pastas Locais.">
 <!ENTITY deferStorage.label "Receber mensagens na conta Pastas Locais">
-<!ENTITY deferStorage.accesskey "G">
+<!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Clique em “Concluir” para salvar estas configurações e sair do assistente de contas.">
 <!ENTITY clickFinish.labelMac "Clique em “Concluir” para salvar estas configurações e sair do assistente de contas.">

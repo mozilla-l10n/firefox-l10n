@@ -7,10 +7,10 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Salvar e mudar codificação">
+<!ENTITY windowTitle2.label "Salvar e mudar a codificação do texto">
 <!ENTITY documentTitleTitle.label "Título da página">
-<!ENTITY documentCharsetTitle.label "Codificação">
-<!ENTITY documentCharsetDesc.label "Selecione a codificação na qual você deseja salvar:">
+<!ENTITY documentCharsetTitle2.label "Codificação do texto">
+<!ENTITY documentCharsetDesc2.label "Selecione a codificação na qual você deseja salvar o texto:">
 <!ENTITY documentExportToText.label "Exportar como texto">
 
 

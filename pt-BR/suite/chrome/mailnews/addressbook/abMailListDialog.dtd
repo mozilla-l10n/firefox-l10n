@@ -1,14 +1,21 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Title -->
 
-<!ENTITY mailListWindow.title "Lista de emails">
-<!ENTITY addToAddressBook.label "Criar em:">
-<!ENTITY ListName.label "Nome da lista:">
-<!ENTITY ListNickName.label "Apelido da lista:">
-<!ENTITY ListDescription.label "Descrição:">
-<!ENTITY AddressTitle.label "Digite os endereços para adicioná-los à lista de emails:">
-<!ENTITY addToAddressBook.accesskey "C">
-<!ENTITY ListName.accesskey "N">
-<!ENTITY ListNickName.accesskey "A">
-<!ENTITY ListDescription.accesskey "d">
+<!ENTITY mailListWindow.title           "Lista de emails">
+<!-- Labels -->
+<!ENTITY addToAddressBook.label         "Criar em:">
+
+<!ENTITY ListName.label                 "Nome da lista:">
+<!ENTITY ListNickName.label             "Apelido da lista:">
+<!ENTITY ListDescription.label          "Descrição:">
+<!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
+<!ENTITY AddressTitle.label             "Digite os endereços para adicioná-los à lista de emails:">
+<!-- Access Keys -->
+
+<!ENTITY addToAddressBook.accesskey     "C">
+<!ENTITY ListName.accesskey             "N">
+<!ENTITY ListNickName.accesskey         "A">
+<!ENTITY ListDescription.accesskey      "D">
+

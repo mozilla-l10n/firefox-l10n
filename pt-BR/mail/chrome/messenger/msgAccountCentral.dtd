@@ -2,23 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailSectionHdr.label        "Mensagens"> 
-<!ENTITY readMsgsLink.label           "Ler mensagens"> 
-<!ENTITY composeMsgLink.label         "Criar uma nova mensagem"> 
+<!ENTITY emailSectionHdr.label        "Mensagens">
+<!ENTITY readMsgsLink.label           "Ler mensagens">
+<!ENTITY composeMsgLink.label         "Criar uma nova mensagem">
 
-<!ENTITY newsSectionHdr.label         "Newsgroups"> 
-<!ENTITY subscribeNewsLink.label      "Gerenciar inscrições de newsgroups"> 
+<!ENTITY newsSectionHdr.label         "Newsgroups">
+<!ENTITY subscribeNewsLink.label      "Gerenciar inscrições de newsgroups">
 
 <!ENTITY feedsSectionHdr.label        "RSS">
 <!ENTITY subscribeFeeds.label         "Gerenciar inscrições">
 
-<!ENTITY accountsSectionHdr.label     "Contas"> 
-<!ENTITY subscribeImapFolders.label   "Gerenciar inscrições de pastas">
-<!ENTITY settingsLink.label           "Configurar esta conta"> 
-<!ENTITY newAcctLink.label            "Criar uma nova conta"> 
+<!ENTITY chat.label                   "Bate-papo">
+<!ENTITY movemail.label               "Movemail">
 
-<!ENTITY advFeaturesSectionHdr.label  "Recursos avançados"> 
-<!ENTITY searchMsgsLink.label         "Pesquisar"> 
+<!ENTITY accountsSectionHdr.label     "Contas">
+<!ENTITY subscribeImapFolders.label   "Gerenciar inscrições de pastas">
+<!ENTITY settingsLink.label           "Ver configurações desta conta">
+<!ENTITY newAcctLink.label            "Criar uma nova conta">
+<!ENTITY newAcct.label                "Criar uma nova conta:">
+
+<!ENTITY advFeaturesSectionHdr.label  "Recursos avançados">
+<!ENTITY searchMsgsLink.label         "Pesquisar">
 <!ENTITY filtersLink.label            "Criar filtros para mensagens">
 <!ENTITY junkSettings.label           "Configurações de spam">
 <!ENTITY offlineLink.label            "Configurar modo off-line">
