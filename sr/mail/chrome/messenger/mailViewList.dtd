@@ -4,4 +4,6 @@
 
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
+<!ENTITY mailViewListTitle.label "Прилагоди преглед поруке">
+<!ENTITY viewName.label "Име прегледа">
 
