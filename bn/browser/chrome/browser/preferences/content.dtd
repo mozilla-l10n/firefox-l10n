@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "নোটিফিকেশন">
 <!ENTITY  notificationsPolicyLearnMore.label   "বিস্তারিত জানুন">
-
+<!ENTITY  notificationsPolicyDesc3.label       "কোন সাইটগুলো নোটিফিকেশন গ্রহণের জন্য অনুমতিপ্রাপ্ত তা নির্বাচন করুন">
 <!ENTITY  notificationsPolicyButton.accesskey  "C">
 <!ENTITY  notificationsPolicyButton.label      "বেছে নিন… C">
 <!ENTITY  notificationsDoNotDisturb.label      "আমাকে বিরক্ত করবেন না n">
