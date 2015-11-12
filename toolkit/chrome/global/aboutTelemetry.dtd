@@ -26,6 +26,8 @@
   &lt;&lt; Ping más nuevo">
 <!ENTITY aboutTelemetry.showOlderPing "
   Ping más antiguo &gt;&gt;">
+<!ENTITY aboutTelemetry.rawPingData "
+  Datos de ping en bruto ...">
 <!ENTITY aboutTelemetry.archiveWeekHeader "
   Semana">
 <!ENTITY aboutTelemetry.archivePingHeader "
@@ -68,4 +70,5 @@
   Mostrar datos en bruto para cuelges">
 <!ENTITY aboutTelemetry.filterText "
   Filtro (cadenas o /regexp/)">
-
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Payload">
