@@ -73,7 +73,7 @@
 # link title for https://www.mozilla.org/en-US/about/
 
 
-#define firefox_about Hakkımızda
+#define firefox_about Haqqımızda
 
 
 #unfilter emptyLines
