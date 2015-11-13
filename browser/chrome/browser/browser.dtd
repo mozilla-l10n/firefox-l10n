@@ -147,7 +147,7 @@
 <!ENTITY urlbar.passwordNotificationAnchor.label "Запрос на сохранение вашего пароля">
 <!ENTITY urlbar.webappsNotificationAnchor.label "Просмотреть сообщение об установке приложения">
 <!ENTITY urlbar.pluginsNotificationAnchor.label "Управление запуском плагина на этой странице">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label "Изменение того, можете ли вы получать уведомления с этого сайта">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label "Изменение того, можете ли вы получать уведомления с сайта">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Управление доступом сайта к вашей камере и/или микрофону">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label "Сайт имеет доступ к вашей камере и/или микрофону">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Управление доступом сайта к вашему микрофону">
