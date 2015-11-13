@@ -167,7 +167,7 @@
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
 <!ENTITY pref_clear_private_data "Удалить мои данные">
-<!ENTITY pref_clear_on_exit_title3 "Удалить мои данные при выходе">
+<!ENTITY pref_clear_on_exit_title3 "Удаление моих данных при выходе">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будет автоматически удалять ваши данные при нажатии вами \u0022Выход\u0022 в главном меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Выберите данные для удаления">
 <!ENTITY pref_plugins "Плагины">
@@ -238,7 +238,7 @@
 <!ENTITY datareporting_crashreporter_title_short "Сообщения о падениях">
 <!ENTITY datareporting_wifi_title2 "Служба местоположения &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Помогите &vendorShortName; составить карту мира! Поделитесь приблизительным местоположением Wi-Fi и сотовой сети вашего устройства, чтобы улучшить нашу службу геолокации.">
-<!ENTITY pref_update_autodownload3 "Автоматические обновления">
+<!ENTITY pref_update_autodownload3 "Автоматическое обновление">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Никогда">
 <!ENTITY pref_update_autodownload_always "Всегда">
