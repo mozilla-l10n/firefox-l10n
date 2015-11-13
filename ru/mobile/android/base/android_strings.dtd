@@ -70,7 +70,7 @@
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
 <!ENTITY pref_category_general "Основные">
-<!ENTITY pref_category_general_summary "Домашняя, язык, масштаб, полноэкранный веб-серфинг">
+<!ENTITY pref_category_general_summary2 "Домашняя, язык, панель адреса">
 <!ENTITY pref_category_language "Язык">
 <!ENTITY pref_category_language_summary "Изменение языка вашего браузера">
 <!ENTITY pref_browser_locale "Язык браузера">
@@ -89,11 +89,11 @@
 <!ENTITY pref_category_search3 "Поиск">
 <!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
 <!ENTITY pref_category_accessibility "Специальные возможности">
-<!ENTITY pref_category_accessibility_summary "Размер шрифта, голосовой ввод ">
+<!ENTITY pref_category_accessibility_summary2 "Размер шрифта, масштаб, голосовой ввод">
 <!ENTITY pref_category_privacy_short "Приватность">
-<!ENTITY pref_category_privacy_summary2 "Контроль логинов, кук, отслеживания, данных">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "О &brandShortName;, FAQ, выбор данных">
+<!ENTITY pref_category_privacy_summary3 "Отслеживание, куки, выбор данных">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "О &brandShortName;, FAQ, отзывы">
 <!ENTITY pref_category_datareporting "Выбор данных">
 <!ENTITY pref_learn_more "Подробнее">
 <!ENTITY pref_category_installed_search_engines "Установленные поисковые системы">
@@ -103,7 +103,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Восстановить по умолчанию">
 <!ENTITY pref_search_hint "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем нажав на значок &formatI;.">
 <!ENTITY pref_category_advanced "Дополнительно">
-<!ENTITY pref_category_advanced_summary "Импорт, плагины, инструменты разработки">
+<!ENTITY pref_category_advanced_summary2 "Восстановление вкладок, плагины, инструменты разработки">
 <!ENTITY pref_developer_remotedebugging "Удалённая отладка">
 <!ENTITY pref_developer_remotedebugging_usb "Удалённая отладка через USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Удалённая отладка через Wi-Fi">
@@ -138,8 +138,10 @@
 <!ENTITY pref_cookies_accept_all "Включены">
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
 <!ENTITY pref_cookies_disabled "Отключены">
-<!ENTITY pref_tap_to_load_images_title "Изображения по нажатию">
-<!ENTITY pref_tap_to_load_images_summary2 "Загружать изображения только после долгого нажатия на них">
+<!ENTITY pref_tap_to_load_images_title2 "Показывать изображения">
+<!ENTITY pref_tap_to_load_images_enabled "Всегда">
+<!ENTITY pref_tap_to_load_images_data "Только через Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled "Никогда">
 <!ENTITY pref_tracking_protection_title "Защита от отслеживания">
 <!ENTITY pref_tracking_protection_summary3 "Включена в Приватном просмотре">
 <!ENTITY pref_donottrack_title "Не отслеживать">
@@ -164,8 +166,8 @@
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
-<!ENTITY pref_clear_private_data_now "Удалить мои данные">
-<!ENTITY pref_clear_on_exit_title2 "Удаление при выходе">
+<!ENTITY pref_clear_private_data "Удалить мои данные">
+<!ENTITY pref_clear_on_exit_title3 "Удалить мои данные при выходе">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будет автоматически удалять ваши данные при нажатии вами \u0022Выход\u0022 в главном меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Выберите данные для удаления">
 <!ENTITY pref_plugins "Плагины">
@@ -173,7 +175,7 @@
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
 <!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_text_size "Размер текста">
-<!ENTITY pref_restore "Вкладки">
+<!ENTITY pref_restore_tabs "Восстановление вкладок">
 <!ENTITY pref_restore_always "Всегда восстанавливать">
 <!ENTITY pref_restore_quit "Не восстанавливать после выхода из &brandShortName;">
 <!ENTITY pref_font_size_tiny "Мелкий">
@@ -189,15 +191,15 @@
 <!ENTITY pref_zoom_force_enabled "Всегда разрешать менять масштаб">
 <!ENTITY pref_zoom_force_enabled_summary "Игнорировать настройки сайтов, чтобы вы могли менять масштаб любой страницы">
 <!ENTITY pref_voice_input "Голосовой ввод">
-<!ENTITY pref_voice_input_summary "Добавить в панель заголовка значок голосового ввода">
+<!ENTITY pref_voice_input_summary2 "Добавить в панель адреса значок голосового ввода">
 <!ENTITY pref_qrcode_enabled "Чтение QR-кодов">
-<!ENTITY pref_qrcode_enabled_summary "Добавить в панель заголовка значок QR-сканера">
+<!ENTITY pref_qrcode_enabled_summary2 "Добавить в панель адреса значок QR-сканера">
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
-<!ENTITY pref_sync "Синхронизация">
+<!ENTITY pref_sync2 "Войти">
 <!ENTITY pref_sync_summary2 "Синхронизация вкладок, закладок, логинов, истории">
 <!ENTITY pref_search_suggestions "Поисковые предложения">
 <!ENTITY pref_history_search_suggestions "Показать историю поиска">
-<!ENTITY pref_import_android "Импорт из Android">
+<!ENTITY pref_import_options "Настройки импорта">
 <!ENTITY pref_import_android_summary "Импорт закладок и истории из системного браузера">
 <!ENTITY pref_private_data_history2 "Журнал посещений">
 <!ENTITY pref_private_data_searchHistory "Журнал поиска">
@@ -236,7 +238,7 @@
 <!ENTITY datareporting_crashreporter_title_short "Сообщения о падениях">
 <!ENTITY datareporting_wifi_title2 "Служба местоположения &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Помогите &vendorShortName; составить карту мира! Поделитесь приблизительным местоположением Wi-Fi и сотовой сети вашего устройства, чтобы улучшить нашу службу геолокации.">
-<!ENTITY pref_update_autodownload2 "Автоматически загружать обновления">
+<!ENTITY pref_update_autodownload3 "Автоматические обновления">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Никогда">
 <!ENTITY pref_update_autodownload_always "Всегда">
@@ -301,13 +303,13 @@
 <!ENTITY doorhanger_login_select_toast_copy_error "Не удалось скопировать пароль">
 <!ENTITY doorhanger_login_select_action_text "Выбрать другой логин">
 <!ENTITY doorhanger_login_select_title "Копирование пароля из">
-<!ENTITY pref_titlebar_mode "Панель заголовка">
+<!ENTITY pref_titlebar_mode2 "Панель адреса">
 <!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
 <!ENTITY pref_magnifying_glass_enabled "Увеличивать небольшие области">
 <!ENTITY pref_magnifying_glass_enabled_summary "Увеличивать ссылки и поля форм при касании рядом с ними">
 <!ENTITY pref_scroll_title_bar2 "Полноэкранный веб-серфинг">
-<!ENTITY pref_scroll_title_bar_summary "Скрывать панель заголовка &brandShortName; при прокрутке страницы вниз">
+<!ENTITY pref_scroll_title_bar_summary2 "Скрывать панель &brandShortName; при прокрутке страницы вниз">
 <!ENTITY pref_tab_queue_title2 "Открытие множества ссылок">
 <!ENTITY pref_tab_queue_summary3 "Сохранять их до следующего открытия &brandShortName;">
 <!ENTITY page_removed "Страница удалена">
@@ -352,8 +354,8 @@
 <!ENTITY home_most_recent_empty "Недавно посещённые вами веб-сайты появятся здесь.">
 <!ENTITY home_most_recent_emptyhint2 "Псс: при использовании &formatS1;Новой приватной вкладки&formatS2; ваша история сохраняться не будет.">
 <!ENTITY home_reading_list_empty "Статьи, сохранённые вами для последующего чтения, появятся здесь.">
-<!ENTITY home_reading_list_hint2 "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на значок &formatI;, когда он появится в строке заголовка.">
-<!ENTITY home_reading_list_hint_accessible "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на кнопку режима чтения, когда она появится в строке заголовка.">
+<!ENTITY home_reading_list_hint3 "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на значок &formatI;, когда он появится в панели адреса.">
+<!ENTITY home_reading_list_hint_accessible2 "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на кнопку режима чтения, когда она появится в панели адреса.">
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
 <!ENTITY home_move_up_to_filter "Назад в &formatS;">
 <!ENTITY home_remote_tabs_title "Синхронизированные вкладки">
@@ -435,16 +437,14 @@
 <!ENTITY intent_uri_private_browsing_prompt "Эта ссылка будет открыта в &formatS;. Вы уверены, что хотите выйти из Приватного просмотра?">
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Выйти из Приватного просмотра?">
 <!ENTITY devtools_auth_scan_header "Сканирование QR-кода, отображенного на другом вашем устройстве">
-<!ENTITY restriction_disallow_import_settings_title2 "Отключить \'Импорт из Android\'">
 <!ENTITY restriction_disallow_addons_title2 "Отключить установку дополнений">
-<!ENTITY restriction_disallow_devtools_title2 "Отключить инструменты разработки">
-<!ENTITY restriction_disallow_customize_home_title2 "Отключить настройку Дома">
 <!ENTITY restriction_disallow_private_browsing_title2 "Отключить Приватный просмотр">
 <!ENTITY restriction_disallow_location_services_title2 "Отключить службы местоположения">
-<!ENTITY restriction_disallow_display_settings_title2 "Отключить настройку Отображения">
 <!ENTITY restriction_disallow_clear_history_title2 "Отключить \'Удаление истории веб-сёрфинга\'">
 <!ENTITY restriction_disallow_master_password_title2 "Отключить мастер-пароль">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Отключить Гостевой веб-серфинг">
+<!ENTITY restriction_disallow_advanced_settings_title "Отключить дополнительные настройки">
+<!ENTITY restriction_disallow_camera_microphone_title "Заблокировать камеру и микрофон">
 <!ENTITY bookmarks_about_browser "Firefox: О вашем браузере">
 <!ENTITY bookmarks_addons "Firefox: Настройка с помощью дополнений">
 <!ENTITY bookmarks_support "Firefox: Поддержка">

@@ -27,6 +27,8 @@
 &lt;&lt; Более новый пинг ">
 <!ENTITY aboutTelemetry.showOlderPing "
 Более старый пинг &gt;&gt; ">
+<!ENTITY aboutTelemetry.rawPingData "
+Необработанные данные пинга ... ">
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Неделя
 ">
