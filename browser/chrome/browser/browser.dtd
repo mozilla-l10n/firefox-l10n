@@ -455,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Kërko me:">
-<!ENTITY changeSearchSettings.button  "Ndryshoni Rregullimet e Kërkimit">
+<!ENTITY changeSearchSettings.button  "Ndryshoji Rregullimet e Kërkimit">
 
 <!ENTITY searchInNewTab.label         "Kërkoni në Skedë të Re">
 <!ENTITY searchInNewTab.accesskey     "S">

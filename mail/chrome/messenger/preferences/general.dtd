@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerStartPage.label         "Faqe Fillimi për &brandShortName;-in">
-<!ENTITY enableStartPage.label            "Kur niset &brandShortName;-i, te zona e mesazheve shfaq Faqen e Fillimit">
+<!ENTITY enableStartPage.label            "Kur niset &brandShortName;-i, te fusha e mesazheve shfaq Faqen e Fillimit">
 <!ENTITY enableStartPage.accesskey        "K">
 <!ENTITY location.label                   "Vend:">
 <!ENTITY location1.accesskey               "V">
