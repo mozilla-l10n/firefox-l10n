@@ -284,7 +284,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_media_autoplay_enabled "Թույլատրել ինքնախաղարկումը">
-<!ENTITY pref_media_autoplay_enabled_summary "Վերահսկել, եթե կայքերը փորձեն ինքնախաղարկել տեսանյութեր և այլ մեդիա">
+<!ENTITY pref_media_autoplay_enabled_summary "Վերահսկել, եթե կայքերը փորձեն ինքնանվագարկել տեսանյութեր և այլ մեդիա">
 <!ENTITY pref_zoom_force_enabled "Մշտապես միացնել դիտափոխումը">
 <!ENTITY pref_zoom_force_enabled_summary "Շրջանցել վրագրումը՝ ցանացած էջ դիտափոխելու համար">
 <!ENTITY pref_voice_input "Ձայնային մուտքագրում">
@@ -399,7 +399,7 @@ size. -->
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "Ուղարկում է սարքին">
-<!ENTITY media_play "Խաղարկել">
+<!ENTITY media_play "Նվագարկել">
 <!ENTITY media_pause "Ընդմիջել">
 <!ENTITY media_stop "Կանգնեցնել">
 
