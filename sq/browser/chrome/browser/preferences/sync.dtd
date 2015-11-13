@@ -37,7 +37,7 @@
 <!ENTITY engine.addons.accesskey    "t">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Emër Pajisjeje:">
+<!ENTITY syncDeviceName.label       "Emri i Pajisjes:">
 <!ENTITY syncDeviceName.accesskey   "E">
 <!ENTITY fxaSyncDeviceName.label    "Emër Pajisjeje">
 <!ENTITY changeSyncDeviceName.label "Ndryshoni Emër Pajisjeje…">
