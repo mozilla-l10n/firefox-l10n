@@ -24,7 +24,7 @@
 <li>Se não conseguir carregar qualquer página, verifique a 
 ligação do seu computador à rede.</li> 
 <li>Se o seu computador ou rede estão protegidos por uma firewall ou um proxy, verifique se o 
-&brandShortName; tem permissão de acesso à Web.</li> 
+&brandShortName; tem permissão para aceder à Web.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Ficheiro não encontrado">
@@ -178,7 +178,7 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.longDesc "Informação avançada: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Saber mais…">
 
-<!ENTITY weakCryptoUsed.title "Esta ligação não é segura">
+<!ENTITY weakCryptoUsed.title "A sua ligação não é segura">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
 <!ENTITY weakCryptoUsed.longDesc "Informações: ssl_error_no_cypher_overlap">
