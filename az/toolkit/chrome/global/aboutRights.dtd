@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Haqlarınız haqqında">
-<!ENTITY rights.intro "&brandFullName;, dünya səviyyəsində minlərlə insandan ibarət bir birlik tərəfindən inkişaf etdirilən müstəqil və açıq qaynaqlı bir proqramdır. Bilməli olduğunuz bir neçə şey var:">
+<!ENTITY rights.intro "&brandFullName;, dünya səviyyəsində minlərlə insandan ibarət bir birlik tərəfindən inkişaf etdirilən azad və açıq qaynaqlı bir proqramdır. Bilməli olduğunuz bir neçə şey var:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
