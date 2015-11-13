@@ -759,7 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "As credenciais que introduzir nesta página podem não ser seguras e podem ser comprometidas.">
 <!ENTITY identity.description.weakCipher "A sua ligação a este website utiliza uma encriptação fraca e não é privada.">
 <!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do website.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; bloqueou partes desta página que não são seguras.">
+<!ENTITY identity.description.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
 <!ENTITY identity.description.passiveLoaded "A sua ligação não é privada e a informação que partilha com o site pode ser vista por outros.">
 <!ENTITY identity.description.passiveLoaded2 "Este website contém conteúdo que não é seguro (tais como imagens).">
 <!ENTITY identity.description.passiveLoaded3 "O &brandShortName; bloqueou alguns conteúdos, mas ainda existem elementos na página que não são seguros (como imagens).">
