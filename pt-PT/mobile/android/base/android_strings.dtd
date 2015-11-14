@@ -303,7 +303,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Histórico de pesquisas">
 <!ENTITY pref_private_data_formdata2 "Histórico de formulários">
 <!ENTITY pref_private_data_cookies2 "Cookies e sessões ativas">
-<!ENTITY pref_private_data_passwords2 "Acessos guardados">
+<!ENTITY pref_private_data_passwords2 "Credenciais guardadas">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados offline do website">
 <!ENTITY pref_private_data_siteSettings2 "Definições do site">
