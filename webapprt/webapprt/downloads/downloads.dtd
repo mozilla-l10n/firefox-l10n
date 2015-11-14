@@ -9,44 +9,44 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.height                    "300"> 
 
 <!ENTITY starting.label                   "Starting…">
-<!ENTITY scanning.label                   "Scanning for viruses…">
+<!ENTITY scanning.label                   "Έλεγχος για ιούς…">
 
-<!ENTITY downloads.title                  "Downloads">
+<!ENTITY downloads.title                  "Λήψεις">
 
-<!ENTITY cmd.pause.label                  "Pause">
+<!ENTITY cmd.pause.label                  "Παύση">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Resume">
+<!ENTITY cmd.resume.label                 "Συνέχεια">
 <!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "Cancel">
+<!ENTITY cmd.cancel.label                 "Ακύρωση">
 <!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.show.label                   "Open Containing Folder">
+<!ENTITY cmd.show.label                   "Άνοιγμα φακέλου λήψης">
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Show in Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.open.label                   "Open">
+<!ENTITY cmd.open.label                   "Άνοιγμα">
 <!ENTITY cmd.open.accesskey               "O">
-<!ENTITY cmd.openWith.label               "Open With…">
+<!ENTITY cmd.openWith.label               "Άνοιγμα με…">
 <!ENTITY cmd.openWith.accesskey           "h">
 <!ENTITY cmd.retry.label                  "Retry">
 <!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.goToDownloadPage.label       "Go to Download Page">
+<!ENTITY cmd.goToDownloadPage.label       "Μετάβαση στην σελίδα λήψης">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "Copy Download Link">
+<!ENTITY cmd.copyDownloadLink.label       "Αντιγραφή δεσμού λήψης">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromList.label         "Remove From List">
+<!ENTITY cmd.removeFromList.label         "Απομάκρυνση από τη λίστα">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "Clear List">
-<!ENTITY cmd.clearList.tooltip            "Removes completed, canceled, and failed downloads from the list">
+<!ENTITY cmd.clearList.label              "Εκκαθάριση λίστας">
+<!ENTITY cmd.clearList.tooltip            "Θα απομακρυνθούν ολοκληρωμένες, ακυρωθείσες και αποτυχημένες λήψεις αρχείων από τη λίστα">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Close when downloads complete">
-<!ENTITY closeWhenDone.tooltip            "Closes the Downloads window when all files are done downloading">
+<!ENTITY closeWhenDone.label              "Κλείσιμο όταν ολοκληρωθούν οι λήψεις">
+<!ENTITY closeWhenDone.tooltip            "Κλείσιμο του παραθύρου λήψεων όταν ολοκληρωθεί η λήψη όλων των αρχείων">
 
-<!ENTITY showFolder.label                 "Show this Folder">
-<!ENTITY searchBox.label                  "Search…">
+<!ENTITY showFolder.label                 "Εμφάνιση αυτού του φακέλου">
+<!ENTITY searchBox.label                  "Αναζήτηση…">
