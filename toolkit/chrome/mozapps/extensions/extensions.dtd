@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Διαχείριση προσθέτων">
 
 <!ENTITY search.placeholder                   "Αναζήτηση σε όλα τα πρόσθετα">
-<!ENTITY search.buttonlabel                   "Search">
+<!ENTITY search.buttonlabel                   "Αναζήτηση">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -24,7 +24,7 @@
 <!ENTITY cmd.forward.tooltip                  "Μετάβαση μπροστά μια σελίδα">
 
 <!ENTITY showUnsignedExtensions.button.label  "Some extensions could not be verified">
-<!ENTITY showAllExtensions.button.label       "Show all extensions">
+<!ENTITY showAllExtensions.button.label       "Εμφάνιση όλων των επεκτάσεων">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Όλα τα πρόσθετα έχουν απενεργοποιηθεί στην ασφαλή λειτουργία.">
@@ -229,24 +229,24 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
-<!ENTITY experiment.info.learnmore "Learn More">
+<!ENTITY experiment.info.learnmore "Μάθετε περισσότερα">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Telemetry Settings">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Learn More…">
+<!ENTITY setting.learnmore "Μάθετε περισσότερα…">
 
-<!ENTITY disabledUnsigned.heading "Some add-ons have been disabled">
+<!ENTITY disabledUnsigned.heading "Κάποια πρόσθετα έχουν απενεργοποιηθεί">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "The following add-ons have not been verified for use in &brandShortName;. You can ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "find replacements">
-<!ENTITY disabledUnsigned.description.end " or ask the developer to get them verified.">
+<!ENTITY disabledUnsigned.description.findAddonsLink "βρείτε υποκατάστατα">
+<!ENTITY disabledUnsigned.description.end " ή ζητήστε από τους προγραμματιστές να επαληθεύσουν την εφαρμογή.">
 <!ENTITY disabledUnsigned.learnMore "Learn more about our efforts to help keep you safe online.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Developers interested in getting their add-ons verified can continue by reading our ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
+<!ENTITY disabledUnsigned.devInfo.start "Οι προγραμματιστές που ενδιαφέρονται να επαληθεύσουν τα πρόσθετά τους, μπορούν να απευθυνθούν στο ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "εγχειρίδιο">
 <!ENTITY disabledUnsigned.devInfo.end ".">

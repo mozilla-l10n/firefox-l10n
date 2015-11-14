@@ -25,7 +25,7 @@
 <!ENTITY spellDictionaries.label "Γλώσσες">
 <!ENTITY spellDictionaries.accesskey "λ">
 
-<!ENTITY searchTextBox.clear.label "Clear">
+<!ENTITY searchTextBox.clear.label "Εκκαθάριση">
 
 <!ENTITY fillLoginMenu.label          "Συμπλήρωση λογαριασμού">
 <!ENTITY fillPasswordMenu.label       "Συμπλήρωση κωδικού">
