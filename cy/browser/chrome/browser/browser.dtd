@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Ffenestr Breifat Newydd">
 <!ENTITY newPrivateWindow.accesskey "B">
-<!ENTITY newNonRemoteWindow.label   "Ffenestr Newydd Non-e10s">
+<!ENTITY newNonRemoteWindow.label   "Ffenestr Newydd Nid e10s">
 
 <!ENTITY editMenu.label         "Golygu"> 
 <!ENTITY editMenu.accesskey       "G"> 
