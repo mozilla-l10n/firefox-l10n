@@ -4,15 +4,15 @@
 
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printJobOptions.title "Printer Properties">
+<!ENTITY printJobOptions.title "Ιδιότητες εκτυπωτή">
 
-<!ENTITY paperInput.label "Paper Size:">
+<!ENTITY paperInput.label "Μέγεθος χαρτιού:">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY jobTitleInput.label "Job Title:">
+<!ENTITY jobTitleInput.label "Τίτλος εργασίας:">
 <!ENTITY jobTitleInput.accesskey "J">
 
-<!ENTITY colorGroup.label "Color:">
+<!ENTITY colorGroup.label "Έγχρωμη:">
 <!ENTITY grayRadio.label "Grayscale">
 <!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "Color">
