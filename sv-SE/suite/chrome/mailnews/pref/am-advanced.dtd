@@ -16,6 +16,7 @@
 <!ENTITY smtpListSetDefault.label "Ange förinställd">
 <!ENTITY smtpListSetDefault.accesskey "e">
 
+<!ENTITY serverDetails.label "Egenskaper för den valda servern:">
 <!ENTITY serverDescription.label "Beskrivning: ">
 <!ENTITY serverName.label "Servernamn: ">
 <!ENTITY serverPort.label "Port: ">
