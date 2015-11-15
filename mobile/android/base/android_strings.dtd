@@ -593,6 +593,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexión segura">
 <!ENTITY identity_connection_insecure "Conexión insegura">
+<!ENTITY identity_login_insecure "Esta página no es segura y su ingreso podría ser vulnerable.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloqueado el contenido inseguro en esta página.">
