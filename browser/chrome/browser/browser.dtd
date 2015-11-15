@@ -147,7 +147,7 @@
 <!ENTITY urlbar.passwordNotificationAnchor.label "Marque si quiere guardar su contraseña">
 <!ENTITY urlbar.webappsNotificationAnchor.label "Ver el mensaje de instalación de aplicaciones">
 <!ENTITY urlbar.pluginsNotificationAnchor.label "Administrar uso de plugins en esta página">
-<!ENTITY urlbar.webNotsNotificationAnchor2.label "Cambiar si el sitio puede recibir notificaciones">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label "Cambiar si puede recibir notificaciones del sitio">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Administrar compartición de su cámara o micrófono con el sitio">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label "Está compartiendo su cámara o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Administrar compartición de su micrófono con el sitio">
