@@ -19,7 +19,7 @@
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
-<!ENTITY privatebrowsingpage.description.normal2 "Na Navegação Privada, não mantemos qualquer histórico de navegação ou cookies. Marcadores que adicione e os ficheiros que transferir serão guardados no seu dispositivo.">
+<!ENTITY privatebrowsingpage.description.normal2 "No modo de navegação privada não serão guardados cookies, nem o histórico de navegação. Os marcadores que adicionar e os ficheiros que descarregar serão guardados no seu dispositivo.">
 
 <!ENTITY privatebrowsingpage.link.private "Quer saber mais?">
 <!ENTITY privatebrowsingpage.link.normal "Abrir uma janela privada">
