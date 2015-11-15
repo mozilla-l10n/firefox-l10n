@@ -197,7 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "Féach ar an iarratas ar láthair">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Féach ar theachtaireacht shuiteáil an bhreiseáin">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Féach ar an teachtaireacht faoi stóras as líne">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Bainistigh d'fhaisnéis logála isteach">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Bainistigh d'fhaisnéis logáil isteach">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Cuir tic anseo más mian leat d'fhocal faire a shábháil">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Féach ar theachtaireacht shuiteáil na haipe">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Bainistigh úsáid breiseán ar an leathanach seo">
@@ -746,7 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Stóráiltear an leathanach seo ar do ríomhaire.">
 <!ENTITY identity.connectionVerified1 "Tá ceangal slán agat leis an suíomh seo, suíomh faoi stiúir:">
 <!ENTITY identity.connectionInternal "Is leathanach slán &brandShortName; é seo.">
-<!ENTITY identity.insecureLoginForms "Seans go mbeadh bradaí in ann teacht ar d'fhaisnéis logála isteach.">
+<!ENTITY identity.insecureLoginForms "Seans go mbeadh bradaí in ann teacht ar d'fhaisnéis logáil isteach.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "Chuir &brandShortName; bac ar chodanna den leathanach seo nach bhfuil slán.">
