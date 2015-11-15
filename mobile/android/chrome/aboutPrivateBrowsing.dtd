@@ -13,7 +13,9 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Nenachádzate sa v režime Súkromné prehliadanie">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; vás bude ochraňovať pred sledovaním a nebude ukladať žiadnu históriu, avšak prevzaté súbory a vytvorené záložky budú stále ukladané vo vašom zariadení.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; blokuje tie časti stránok, ktoré môžu sledovať vašu aktivitu na webe.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Neukladáme vašu históriu prehliadania, v zariadení zachováme len prevzaté súbory a novo vytvorené záložky.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
