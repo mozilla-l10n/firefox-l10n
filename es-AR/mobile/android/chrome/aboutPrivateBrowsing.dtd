@@ -8,9 +8,14 @@
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
 <!ENTITY privatebrowsingpage.title.private "+ protección de rastreo">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "No estás en navegación privada">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; evitará que te rastreen y no recordará el historial, pero los archivos descargados y los nuevos marcadores serán guardados en el dispositivo.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloquea partes de las páginas que puedan rastrear la actividad de navegación.">
+<!ENTITY privatebrowsingpage.description.privateDetails "No se recordará ningún historial, pero los archivos descargados y los nuevos marcadores aún serán guardados en el dispositivo.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
