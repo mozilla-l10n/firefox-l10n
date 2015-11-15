@@ -226,7 +226,7 @@
 <!ENTITY fxaccount_remove_account "قطع اتصال&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "حساب فایرفاکس حذف شود؟">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; همگام سازی با حساب شما را متوقف می‌کند, اما هیچ کدوم از اطلاعات مرورگر شما بر روی دستگاه را حذف نمی‌کند.">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; همگام‌سازی با حساب شما را متوقف می‌کند، اما هیچ‌کدام از اطلاعات مرور شما را از روی این دستگاه حذف نمی‌کند.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "حساب فایرفاکس &formatS; حذف شد">

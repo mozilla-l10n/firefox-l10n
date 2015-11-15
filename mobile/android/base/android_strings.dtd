@@ -187,7 +187,7 @@
 <!ENTITY pref_category_home_summary "صفحه‌آغازین خود را شخصی سازی کنید">
 <!ENTITY pref_category_home_panels "قطعه‌ها">
 <!ENTITY home_add_panel_title "اضافه کردن قطعه جدید">
-<!ENTITY home_add_panel_empty "متاسفانه, ما قادر به پیدا کردن هیچ گونه قطعه ای برای اضافه کردن برای شما نیستیم.">
+<!ENTITY home_add_panel_empty "متاسفیم، ما نتوانستیم قطعه‌ای برای اضافه کردن برای شما پیدا کنیم.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -277,7 +277,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
+<!ENTITY pref_font_size_adjust_char "الف">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -429,7 +429,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "نام کاربر">
 <!ENTITY doorhanger_login_edit_password_hint "گذرواژه">
 <!ENTITY doorhanger_login_edit_toggle "نشان دادن گذرواژه‌ها">
-<!ENTITY doorhanger_login_edit_toast_error "ذخیره ورود ناموفق بود">
+<!ENTITY doorhanger_login_edit_toast_error "ذخیره اطلاعات ورود شکست خورد">
 <!ENTITY doorhanger_login_select_message "گذرواژه از &formatS; رونوشت شود؟">
 <!ENTITY doorhanger_login_select_toast_copy "گذرواژه به کلیپ‌بورد کپی شد">
 <!ENTITY doorhanger_login_select_toast_copy_error "امکان کپی گذرواژه وجود ندارد">
@@ -565,7 +565,7 @@ size. -->
 
 <!ENTITY remote_tabs_panel_moved_title "زبانه‌های من کجا رفتند؟">
 <!ENTITY remote_tabs_panel_moved_desc "ما زبانه‌های شما را از دستگاه‌های دیگر به یک بخش از صفحه خانگی شما منتقل کردیم تا بتوانید به راحتی هر زمانی که زبانه‌ جدیدی باز‌ می‌کنید به آن دسترسی داشته باشید.">
-<!ENTITY remote_tabs_panel_moved_link "من را به بخش جدید خودم منتقل کن">
+<!ENTITY remote_tabs_panel_moved_link "من را به قطعه جدیدم ببر.">
 
 <!ENTITY pin_site_dialog_hint "ثبت یک کلید‌واژه جست‌وجو">
 
