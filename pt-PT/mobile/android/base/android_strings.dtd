@@ -220,12 +220,12 @@
 <!ENTITY pref_tap_to_load_images_summary2 "Carregar as imagens apenas quando tocar de forma prolongada sob as mesmas">
 
 <!ENTITY pref_tracking_protection_title "Proteção contra monitorização">
-<!ENTITY pref_tracking_protection_summary3 "Ativado na Navegação Privada">
+<!ENTITY pref_tracking_protection_summary3 "Ativado na navegação privada">
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "O &brandShortName; irá informar os sites que você não quer ser monitorizado">
 
 <!ENTITY pref_tracking_protection_enabled "Ativado">
-<!ENTITY pref_tracking_protection_enabled_pb "Ativado na Navegação Privada">
+<!ENTITY pref_tracking_protection_enabled_pb "Ativado na navegação privada">
 <!ENTITY pref_tracking_protection_disabled "Desativado">
 
 <!ENTITY tracking_protection_prompt_title "Agora com Proteção Contra a Monitorização">
@@ -709,7 +709,7 @@ do Android">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "Esta ligação irá ser apresentada no &formatS;. Tem a certeza que pretende sair da Navegação Privada?">
+<!ENTITY intent_uri_private_browsing_prompt "Esta ligação irá ser apresentada no &formatS;. Tem a certeza de que pretende sair da navegação privada?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -717,7 +717,7 @@ do Android">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "Sair da Navegação Privada?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Sair do modo de navegação privada?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -734,7 +734,7 @@ do Android">
 <!ENTITY restriction_disallow_addons_title2 "Desativar instalação de extras">
 <!ENTITY restriction_disallow_devtools_title2 "Desativar ferramentas de programação">
 <!ENTITY restriction_disallow_customize_home_title2 "Desativar personalização para página inicial">
-<!ENTITY restriction_disallow_private_browsing_title2 "Desativar Navegação Privada">
+<!ENTITY restriction_disallow_private_browsing_title2 "Desativar navegação privada">
 <!ENTITY restriction_disallow_location_services_title2 "Desativar Serviços de Localização">
 <!ENTITY restriction_disallow_display_settings_title2 "Desativar definições de Apresentação">
 <!ENTITY restriction_disallow_clear_history_title2 "Desativar \u0027Limpar histórico de navegação\u0027">
