@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Txertatu automatikoki ixteko kortxeteak">
 <!ENTITY prefs_options_keybindings "Tekla-konbinazioak">
 <!ENTITY prefs_options_keybindings_default "Lehenetsia">
-
-
+<!ENTITY prefs_options_autosavefiles "Autogorde fitxategiak">
+<!ENTITY prefs_options_autosavefiles_tooltip "Gorde automatikoki editatutako fitxategiak proiektua exekutatu aurretik">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Baimenen taula">
