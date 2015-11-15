@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.header "Más notícias primeiro: Este separador bloqueou">
-<!ENTITY tabCrashed.message "Agora a boa notícia: Pode simplesmente fechar este separador. restaurá-lo ou ainda restaurar todos os separadores que bloquearam.">
+<!ENTITY tabCrashed.message "Agora a boa notícia: Pode simplesmente fechar este separador, restaurá-lo ou restaurar todos os separadores que bloquearam.">
 <!ENTITY tabCrashed.sendReport "Submeta um relatório de erro para o ajudar a prevenir futuras más notícias">
 <!ENTITY tabCrashed.includeURL "Incluir endereço da página em que eu estava">
 <!ENTITY tabCrashed.commentPlaceholder "Adicionar um comentário (os comentários são públicos)">
