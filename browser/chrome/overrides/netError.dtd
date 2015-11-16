@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "পৃষ্ঠা লোড করতে সমস্যা">
-<!ENTITY retry.label "পুনরায় চেষ্টা করা হবে">
+<!ENTITY retry.label "পুনরায় চেষ্টা করুন">
 <!-- Specific error messages -->
 
 
