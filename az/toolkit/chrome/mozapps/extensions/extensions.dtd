@@ -197,7 +197,7 @@ havanın vəziyyətini göstərən və ya &brandShortName; tətbiqinin istədiyi
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "Yeniləmə">
+<!ENTITY addon.update.postfix                 "Yenilə">
 <!ENTITY addon.undoAction.label               "Ləğv et">
 <!ENTITY addon.undoAction.tooltip             "Bu əmri ləğv et">
 <!ENTITY addon.undoRemove.label               "Ləğv et">
