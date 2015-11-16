@@ -99,6 +99,8 @@
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY performanceUI.enableFramerate             "سجل معدل الإطارات">
+
 <!-- LOCALIZATION NOTE (performanceUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be recorded. -->
