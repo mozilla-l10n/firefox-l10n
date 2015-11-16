@@ -130,20 +130,20 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY heading1Cmd.label "Virsraksts 1">
+<!ENTITY heading1Cmd.accesskey "1">
+<!ENTITY heading2Cmd.label "Virsraksts 2">
+<!ENTITY heading2Cmd.accesskey "2">
+<!ENTITY heading3Cmd.label "Virsraksts 3">
+<!ENTITY heading3Cmd.accesskey "3">
+<!ENTITY heading4Cmd.label "Virsraksts 4">
+<!ENTITY heading4Cmd.accesskey "4">
+<!ENTITY heading5Cmd.label "Virsraksts 5">
+<!ENTITY heading5Cmd.accesskey "5">
+<!ENTITY heading6Cmd.label "Virsraksts 6">
+<!ENTITY heading6Cmd.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Adrese">
+<!ENTITY paragraphAddressCmd.accesskey "A">
 
 
 <!-- List menu items -->
@@ -184,10 +184,10 @@
 
 
 
+<!ENTITY increaseIndent.key "]">
 
 
-
-
+<!ENTITY decreaseIndent.key "[">
 
 
 <!-- Table Menu -->
@@ -202,6 +202,11 @@
 
 <!-- Insert SubMenu -->
 
+<!ENTITY tableTable.label "Tabula">
+<!ENTITY tableTable.accesskey "T">
+<!ENTITY tableRow.label "Rinda">
+
+<!ENTITY tableRow.accesskey "R">
 
 
 
@@ -214,12 +219,7 @@
 
 
 
-
-
-
-
-
-
+<!ENTITY tableCells.label "Šūna(s)">
 
 
 
@@ -246,24 +246,24 @@
 
 <!-- Toolbar-only items -->
 
+<!ENTITY cutToolbarCmd.tooltip "Izgriezt">
+<!ENTITY copyToolbarCmd.tooltip "Kopēt">
+<!ENTITY pasteToolbarCmd.tooltip "Ielīmēt">
+<!ENTITY printToolbarCmd.label "Drukāt">
+
+<!ENTITY findToolbarCmd.label "Atrast">
 
 
 
+<!ENTITY imageToolbarCmd.label "Attēls">
 
 
 
+<!ENTITY tableToolbarCmd.label "Tabula">
 
+<!ENTITY linkToolbarCmd.label "Saite">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY anchorToolbarCmd.label "Enkurs">
 
 
 
@@ -271,9 +271,9 @@
 
 <!-- Editor toolbar -->
 
-
-
-
+<!ENTITY boldToolbarCmd.tooltip "Treknraksts">
+<!ENTITY italicToolbarCmd.tooltip "Kursīvs">
+<!ENTITY underlineToolbarCmd.tooltip "Pasvītrot">
 
 
 
