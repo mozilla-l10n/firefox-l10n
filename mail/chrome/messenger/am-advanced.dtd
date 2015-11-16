@@ -8,6 +8,7 @@
 <!ENTITY smtpServer.label "Подешавања одлазног (SMTP) сервера">
 
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Када управљате својим идентитетима, можете користити сервер са овог списка тако што ћете га изабрати као одлазни сервер (SMTP) или можете користити подразумевани сервер са овог списка бирањем опције &quot;Користи подразумевани сервер&quot;.">
 
 <!ENTITY smtpListAdd.label  "Додај…">
 <!ENTITY smtpListAdd.accesskey  "д">
@@ -18,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Подеси подразумевани">
 <!ENTITY smtpListSetDefault.accesskey "д">
 
+<!ENTITY serverDetails.label "Детаљи изабраног сервера:">
 <!ENTITY serverDescription.label "Опис: ">
 <!ENTITY serverName.label "Име сервера: ">
 <!ENTITY serverPort.label "Порт: ">

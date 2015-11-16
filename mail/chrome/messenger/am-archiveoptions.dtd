@@ -6,10 +6,13 @@
 
 <!ENTITY dialogTitle.label "Опције архивирања">
 <!ENTITY archiveGranularityPrefix.label "Када се архивирају поруке, смести их у:">
-<!ENTITY archiveYearly.label "Годишње архиве">
+<!ENTITY archiveFlat.label "Једну фасциклу">
+<!ENTITY archiveFlat.accesskey "ј">
+<!ENTITY archiveYearly.label "Годишње архивиране фасцикле">
 <!ENTITY archiveYearly.accesskey "Г">
-<!ENTITY archiveMonthly.label "Месечне архиве">
+<!ENTITY archiveMonthly.label "Месечно архивиране фасцикле">
 <!ENTITY archiveMonthly.accesskey "М">
+<!ENTITY keepFolderStructure.label "Задржи постојећу структуру фасцикли архивираних порука">
 <!ENTITY keepFolderStructure.accesskey "З">
 <!ENTITY archiveExample.label "Пример">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default

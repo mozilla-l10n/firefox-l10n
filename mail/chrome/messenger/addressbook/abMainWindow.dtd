@@ -17,6 +17,8 @@
 <!ENTITY newListCmd.accesskey                           "л">
 <!ENTITY newAddressBookCmd.label                        "Именик…">
 <!ENTITY newAddressBookCmd.accesskey                    "И">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP директоријум…">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Порука">
 <!ENTITY newMessageCmd.key                              "П">
 <!ENTITY newMessageCmd.accesskey                        "п">
@@ -80,15 +82,22 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Преглед">
 <!ENTITY viewMenu.accesskey                             "г">
- 
+<!ENTITY viewToolbarsMenu.label                         "Траке са алатима">
+<!ENTITY viewToolbarsMenu.accesskey                     "Т"> 
 <!ENTITY menubarCmd.label                               "Трака са менијем">
 <!ENTITY menubarCmd.accesskey                           "Т">
+<!ENTITY showAbToolbarCmd.label                         "Трака са алатима за именик">
+<!ENTITY showAbToolbarCmd.accesskey                     "и">
 <!ENTITY showTaskbarCmd.label                           "Трака стања">
 <!ENTITY showTaskbarCmd.accesskey                       "с">
 <!ENTITY customizeToolbar.label                         "Прилагоди…">
 <!ENTITY customizeToolbar.accesskey                     "П">
 <!ENTITY layoutMenu.label                               "Распоред">
 <!ENTITY layoutMenu.accesskey                           "Р">
+<!ENTITY showDirectoryPane.label                        "Панел са фасциклама">
+<!ENTITY showDirectoryPane.accesskey                    "ф">
+<!ENTITY showContactPane2.label                         "Панел са контактима">
+<!ENTITY showContactPane2.accesskey                     "к">
 <!ENTITY menu_ShowNameAs.label                          "Прикажи име као">
 <!ENTITY menu_ShowNameAs.accesskey                      "м"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
@@ -105,6 +114,9 @@ because displayed names don't have the comma in between. -->
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Алатке">
 <!ENTITY tasksMenu.accesskey                            "А">
+<!ENTITY messengerCmd.label                             "Пошта &amp; новинске групе">
+<!ENTITY messengerCmd.accesskey                         "П">
+<!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Претражи адресе…">
 <!ENTITY searchAddressesCmd.accesskey                   "П">
 <!ENTITY importCmd.label                                "Увези…">
@@ -125,6 +137,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.accesskey                          "ј">
 <!ENTITY newmsgButton.label                             "Писање">
 <!ENTITY newmsgButton.accesskey                         "П">
+<!ENTITY newIM.label                                    "Инстант порука">
+<!ENTITY newIM.accesskey                                "И">
 <!ENTITY deleteButton2.label                            "Обриши">
 <!ENTITY deleteButton2.accesskey                        "О">
 
@@ -132,12 +146,16 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Направи нови контакт у именику">
 <!ENTITY newlistButton.tooltip                          "Направи нови списак">
 <!ENTITY editButton2.tooltip                            "Уреди изабрану ставку">
+<!ENTITY newmsgButton.tooltip                           "Пошаљи е-поруку">
+<!ENTITY newIM.tooltip                                  "Пошаљи инстант поруку или ћаскај">
 <!ENTITY deleteButton2.tooltip                           "Обриши изабрану ставку">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Именици">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "Име или адреса е-поште">
+<!ENTITY SearchNameOrEmail.accesskey                    "И">
 <!ENTITY advancedButton.tooltip                         "Напредна претрага адреса">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Брза претрага">
@@ -147,10 +165,16 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Addrbook.accesskey                             "И">
 <!ENTITY GeneratedName.label                            "Име">
 <!ENTITY GeneratedName.accesskey                        "м">
+<!ENTITY PrimaryEmail.label                             "Е-пошта">
+<!ENTITY PrimaryEmail.accesskey                         "Е">
+<!ENTITY ChatName.label                                 "Име ћаскања">
+<!ENTITY ChatName.accesskey                             "с">
 <!ENTITY Company.label                                  "Организација">
 <!ENTITY Company.accesskey                              "з">
 <!ENTITY NickName.label                                 "Надимак">
 <!ENTITY NickName.accesskey                             "и">
+<!ENTITY SecondEmail.label                              "Додатна е-пошта">
+<!ENTITY SecondEmail.accesskey                          "р">
 <!ENTITY Department.label                               "Одељење">
 <!ENTITY Department.accesskey                           "д">
 <!ENTITY JobTitle.label                                 "Титула">
@@ -169,6 +193,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortAscending.accesskey                        "Р">
 <!ENTITY sortDescending.label                           "Опадајући">
 <!ENTITY sortDescending.accesskey                       "О">
+<!ENTITY _PhoneticName.label                            "Фонетско име">
+<!ENTITY _PhoneticName.accesskey                        "н">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->

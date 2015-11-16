@@ -11,22 +11,30 @@
 
 <!ENTITY accountSetupInfo2.label "Да бисте примали поруке, прво морате подесити налог.">
 <!ENTITY accountTypeTitle.label "Подешавање новог налога">
+<!ENTITY accountTypeDesc2.label "Овај чаробњак ће прикупити податке потребне за отварање новог налога. Уколико не знате податке који су потребни, контактирајте вашег систем администратора или достављача интернет услуге.">
 <!ENTITY accountTypeDirections.label "Изаберите коју врсту налога желите да подесите:">
 <!ENTITY accountTypeMail.label "Налог е-поште">
 <!ENTITY accountTypeMail.accesskey "п">
+<!ENTITY accountTypeNews.label "Налог новинске групе">
+<!ENTITY accountTypeNews.accesskey "д">
 
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Идентитет">
+<!ENTITY identityDesc.label "Сваки налог има засебан идентитет који означава све податке које вас идентификују другима када они приме ваше поруке.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Унесите име које желите да се појави у &quot;Пошиљалац&quot; пољу ваших одлазних порука">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
+<!ENTITY fullnameExample.label "(на пример, &quot;Петар Перић&quot;).">
 <!ENTITY fullnameLabel.label "Ваше име:">
 <!ENTITY fullnameLabel.accesskey "В">
 
+<!ENTITY emailLabel.label "Е-пошта:">
+<!ENTITY emailLabel.accesskey "Е">
 
 <!-- Entities for Incoming Server page -->
 
@@ -49,6 +57,7 @@
 <!ENTITY incomingServer.label "Долазни сервер:">
 <!ENTITY incomingServer.accesskey "с">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Унесите долазно корисничко име које сте добили од вашег провајдера е-поште (на пример, &quot;pperic&quot;).">
 <!ENTITY incomingUsername.label "Корисничко име:">
 <!ENTITY incomingUsername.accesskey "К">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
@@ -63,6 +72,7 @@
 <!ENTITY outgoingServer.description "Унесите име вашег одлазног сервера (SMTP) (на пример, &quot;smtp.primer.net&quot;).">
 <!ENTITY outgoingServer.label "Одлазни сервер:">
 <!ENTITY outgoingServer.accesskey "с">
+<!ENTITY outgoingUsername.description "Унесите одлазно корисничко име које вам је дао ваш провајдер е-поште (оно је обично исто као и ваше долазно корисничко име).">
 <!ENTITY outgoingUsername.label "Одлазно корисничко име:">
 <!ENTITY outgoingUsername.accesskey "к">
 
@@ -87,11 +97,13 @@
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ваш одлазни (SMTP) сервер, &quot;">
+<!ENTITY haveSmtp3.suffix3 "&quot;, је исти као и ваш долазни сервер, ваше долазно корисничко име ће бити коришћено за приступ њему.">
 
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Име налога">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Унесите име које желите да буде везано за овај налог (на пример, &quot;Пословни налог&quot;, Кућни налог&quot; или &quot;Новински налог&quot;).">
 <!ENTITY accnameLabel.label "Име налога:">
 <!ENTITY accnameLabel.accesskey "а">
 
@@ -102,5 +114,10 @@
 <!ENTITY serverTypePrefix.label "Врста долазног сервера:">
 <!ENTITY serverNamePrefix.label "Име долазног сервера:">
 <!ENTITY smtpServerNamePrefix.label "Име одлазног сервера (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Име новинског сервера (NNTP):">
 <!ENTITY downloadOnLogin.label "Преузми све поруке сада">
 <!ENTITY downloadOnLogin.accesskey "П">
+<!ENTITY deferStorageDesc.label "Дештиклирајте ову кућицу да бисте чували пошту овог налога у његовој фасцикли. Ово ће учинити да овај налог изгледа као налог највишег нивоа. У супротном ће он бити део глобалног долазног сандучета унутар налога локалних фасцикли.">
+<!ENTITY deferStorage.label "Користи глобално долазно сандуче (чувај пошту унутар локалних фасцикли)">
+<!ENTITY deferStorage.accesskey "г">
+<!ENTITY clickFinish.label "Кликните на Заврши да бисте сачували ова подешавања и изашли из чаробњака за налоге.">
