@@ -35,6 +35,11 @@
 <!ENTITY performanceUI.bufferStatusFull "Vyrovnávací paměť je plná. Starší vzorky jsou nyní přepisovány.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Nahrávání profilu je momentálně nedostupné. Zavřete prosím všechna anonymní okna a zkuste to znovu.">
+
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 <!ENTITY performanceUI.loadingNotice "Načítání…">
  
