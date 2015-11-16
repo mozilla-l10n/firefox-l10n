@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
 
@@ -11,6 +11,7 @@
 
 
 
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
@@ -36,7 +37,7 @@
 
 <!ENTITY saveAsFileCmd.label "Fails">
 <!ENTITY saveAsFileCmd.accesskey "F">
-
+<!ENTITY saveAsFileCmd.key "s">
 
 
 
@@ -102,7 +103,7 @@
 
 
 
-
+<!ENTITY folderPropsCmd2.label "Īpašības">
 
 
 
@@ -218,8 +219,8 @@
 
 
 
-
-
+<!ENTITY headersNormalCmd.label "Normāls">
+<!ENTITY headersNormalCmd.accesskey "N">
 
 
 
@@ -358,52 +359,52 @@
 
 
 
+<!ENTITY watchThreadMenu.key "w">
+
+
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+
+
+<!ENTITY toggleReadCmd.key "m">
 
 
 
 
 
 
+<!ENTITY markThreadAsReadCmd.key "r">
+
+
+<!ENTITY markReadByDateCmd.key "c">
+
+
+<!ENTITY markAllReadCmd.key "c">
+
+
+<!ENTITY markStarredCmd.key "S">
+
+
+<!ENTITY markAsJunkCmd.key "j">
+
+
+<!ENTITY markAsNotJunkCmd.key "j">
 
 
 
 
+<!ENTITY openMessageWindowCmd.key "o">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY openConversationCmd.key "o">
 
 
 
@@ -421,7 +422,7 @@
 
 
 
-
+<!ENTITY addressBookCmd.key "B">
 
 
 
@@ -464,6 +465,11 @@
 
 <!-- Mail Toolbar -->
 
+<!ENTITY replyButton.label "Atbildēt">
+
+
+
+<!ENTITY fileButton.label "Datne">
 
 
 
@@ -473,13 +479,8 @@
 
 
 
-
-
-
-
-
-
-
+<!ENTITY deleteItem.title "Dzēst">
+<!ENTITY deleteButton.label "Dzēst">
 
 
 
@@ -544,7 +545,7 @@
 
 <!-- AppMenu Popup -->
 
-
+<!ENTITY appmenuEditMenu.label "Rediģēt">
 
 
 
@@ -553,7 +554,7 @@
 
 
 <!-- Folder Pane -->
-
+<!ENTITY folderUnreadColumn.label "Nelasīti">
 
 
 <!-- Folder Pane Context Menu -->
@@ -614,7 +615,7 @@
 
 
 
-
+<!ENTITY unreadColumn.label "Nelasīti">
 
 
 
@@ -812,6 +813,8 @@
 
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+
+<!ENTITY preferencesCmdMac2.label       "Iestatījumi">
 
 
 
