@@ -193,19 +193,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Jonga isaziso">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Jonga isicelo sendawo">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Jonga umyalezo wokufakela isongezelelo">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Jonga umyalezo wogcino lwe-app engekho kwinethwekhi">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Lawula inkcazelo yakho yokuloga ungene">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Khangela enoba ufuna ukugcina iphaswedi yakho">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Jonga umyalezo wokufakela i-app">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Lawula ukusetyenziswa kwezifakelo kweli phepha">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Tshintsha enoba le sayithi inokukubonisa izaziso">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Lawula ukwabelana ngekhamera yakho kunye/okanye imayikhrofowuni yakho nesayithi">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Wabelana ngekhamera yakho kunye/okanye imayikhrofowuni nesayithi">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Lawula ukwabelana ngemayikhrofowuni yakho nesayithi">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Wabelana ngemayikhrofowuni yakho nesayithi">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Lawula ukwabelana kwakho ngeefestile okanye iskrini nesayithi">
 
 
 
