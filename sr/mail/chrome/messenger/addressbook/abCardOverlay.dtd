@@ -36,6 +36,10 @@
 <!ENTITY NickName.label                 "Надимак:">
 <!ENTITY NickName.accesskey             "Н">
 
+<!ENTITY PrimaryEmail.label             "Е-пошта:">
+<!ENTITY PrimaryEmail.accesskey         "Е">
+<!ENTITY SecondEmail.label              "Додатна е-пошта:">
+<!ENTITY SecondEmail.accesskey          "а">
 <!ENTITY PreferMailFormat.label         "Жели да прима поруке форматиране као:">
 <!ENTITY PreferMailFormat.accesskey     "ф">
 <!ENTITY PlainText.label                "Чист текст">
@@ -64,6 +68,8 @@
 <!ENTITY HomeCity.accesskey             "д">
 <!ENTITY HomeState.label                "Држава/покрајина:">
 <!ENTITY HomeState.accesskey            "Д">
+<!ENTITY HomeZipCode.label              "ЗИП/поштански број:">
+<!ENTITY HomeZipCode.accesskey          "З">
 <!ENTITY HomeCountry.label              "Држава:">
 <!ENTITY HomeCountry.accesskey          "а">
 <!ENTITY HomeWebPage.label              "Веб страница:">
@@ -92,6 +98,8 @@
 <!ENTITY WorkCity.accesskey             "а">
 <!ENTITY WorkState.label                "Држава/покрајина:">
 <!ENTITY WorkState.accesskey            "в">
+<!ENTITY WorkZipCode.label              "ЗИП/поштански број:">
+<!ENTITY WorkZipCode.accesskey          "З">
 <!ENTITY WorkCountry.label              "Држава:">
 <!ENTITY WorkCountry.accesskey          "р">
 <!ENTITY WorkWebPage.label              "Веб страница:">
@@ -143,5 +151,6 @@
 <!ENTITY BrowsePhoto.accesskey          "р">
 <!ENTITY PhotoURL.label                 "На вебу">
 <!ENTITY PhotoURL.accesskey             "б">
+<!ENTITY PhotoURL.placeholder           "Налепите или укуцајте веб адресу неке фотографије">
 <!ENTITY UpdatePhoto.label              "Ажурирај">
 <!ENTITY UpdatePhoto.accesskey          "у">

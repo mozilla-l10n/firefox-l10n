@@ -2,14 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY newDirectoryTitle.label           "Својства фасцикле сервера">
 <!ENTITY directoryName.label               "Назив: ">
 <!ENTITY directoryName.accesskey           "н">
 <!ENTITY directoryHostname.label           "Име машине: ">
 <!ENTITY directoryHostname.accesskey       "м">
+<!ENTITY directoryBaseDN.label             "Основни ДН: ">
+<!ENTITY directoryBaseDN.accesskey         "в">
 <!ENTITY findButton.label                  "Нађи">
 <!ENTITY findButton.accesskey              "н">
 <!ENTITY directorySecure.label             "Користи безбедну везу (SSL)">
 <!ENTITY directorySecure.accesskey         "у">
+<!ENTITY directoryLogin.label              "Вежи ДН: ">
+<!ENTITY directoryLogin.accesskey          "и">
 <!ENTITY General.tab                       "Опште">
 <!ENTITY Offline.tab                       "Ван мреже">
 <!ENTITY Advanced.tab                      "Напредно">
@@ -26,6 +31,7 @@
 <!ENTITY return.label                      "Не враћај више од једног">
 <!ENTITY return.accesskey                  "р">
 <!ENTITY results.label                     "резултата">
+<!ENTITY offlineText.label                 "Можете преузети локалну копију ове фасцикле да бисте је могли користити ван мреже.">
 <!ENTITY saslMechanism.label               "Начин пријаве: ">
 <!ENTITY saslMechanism.accesskey           "ј">
 <!ENTITY saslOff.label                     "Једноставан">

@@ -6,6 +6,7 @@
 <!ENTITY Addrbook.accesskey                    "И">
 <!ENTITY GeneratedName.label                   "Име">
 <!ENTITY GeneratedName.accesskey               "м">
+<!ENTITY PrimaryEmail.label                    "Е-пошта">
 <!ENTITY PrimaryEmail.accesskey                "Е">
 <!ENTITY Company.label                         "Организација">
 <!ENTITY Company.accesskey                     "з">
@@ -13,6 +14,7 @@
 <!ENTITY _PhoneticName.accesskey               "н">
 <!ENTITY NickName.label                        "Надимак">
 <!ENTITY NickName.accesskey                    "и">
+<!ENTITY SecondEmail.label                     "Додатна е-пошта">
 <!ENTITY SecondEmail.accesskey                 "р">
 <!ENTITY Department.label                      "Одељење">
 <!ENTITY Department.accesskey                  "О">

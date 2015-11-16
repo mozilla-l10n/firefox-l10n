@@ -4,11 +4,14 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!ENTITY addressing.label          "Састављање и адресирање">
 <!ENTITY addressingGroupTitle.label "Адресирање">
 <!ENTITY addressingText.label      "Када се потражују адресе:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Користи моје опште поставке LDAP сервера за овај налог">
 <!ENTITY useGlobal.accesskey       "К">
+<!ENTITY editDirectories.label     "Уреди фасцикле…">
+<!ENTITY editDirectories.accesskey "е">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Користи другачији LDAP сервер:">
 <!ENTITY directories.accesskey     "д">
@@ -25,9 +28,13 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Затим,">
 <!ENTITY then.accesskey                       "о">
+<!ENTITY aboveQuote.label                     "почни мој одговор изнад цитата">
+<!ENTITY belowQuote.label                     "почни мој одговор испод цитата">
 <!ENTITY selectAndQuote.label                 "изабери цитат">
 <!ENTITY place.label                          "и стави мој потпис">
 <!ENTITY place.accesskey                      "п">
+<!ENTITY belowText.label                      "испод цитата (препоручено)">
+<!ENTITY aboveText.label                      "испод мог одговора (изнад цитата)">
 <!ENTITY includeSigOnReply.label              "Укључи потпис у одговорима">
 <!ENTITY includeSigOnReply.accesskey          "У">
 <!ENTITY includeSigOnForward.label            "Укључи потпис у прослеђивањима">
