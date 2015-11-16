@@ -140,11 +140,11 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "معلومات بيئة التشغيل">
+<!ENTITY runtimedetails_adbIsRoot "ADB‏ جذر: ">
 
+<!ENTITY runtimedetails_ADBRootWarning "(يحتاج محمل إقلاع مُزال قفله)">
 
-
-
-
+<!ENTITY runtimedetails_requestPrivileges "يحتاج امتيازات أعلى">
 
 <!-- Device Preferences and Settings -->
 
@@ -156,15 +156,17 @@
 <!-- Device Preferences -->
 
 <!ENTITY devicepreference_title "تفضيلات الجهاز">
-
-
+<!ENTITY devicepreference_search "ابحث في التفضيلات">
+<!ENTITY devicepreference_newname "اسم التفضيل الجديد">
 <!ENTITY devicepreference_newtext "قيمة التّفضيل">
-
+<!ENTITY devicepreference_addnew "أضف تفضيلا جديدا">
 <!-- Device Settings -->
+
+<!ENTITY devicesetting_title "إعدادات الجهاز">
 <!ENTITY devicesetting_search "ابحث في الإعدادات">
-
-
-
+<!ENTITY devicesetting_newname "اسم الإعداد الجديد">
+<!ENTITY devicesetting_newtext "قيمة الإعداد">
+<!ENTITY devicesetting_addnew "أضِف إعدادا جديدا">
 <!-- Monitor -->
 <!ENTITY monitor_help "مساعدة">
 <!-- WiFi Authentication -->
@@ -173,21 +175,27 @@
      server. -->
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "نقطة النهاية التي تحاول الاتصال بها تحتاج المزيد من المعلومات لاستيثاق الاتصال. من فضلك امسح رمز QR أدناه ضوئيا عبر الطلب الموجود في الجهاز الآخر.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "ألم يظهر طلب مسح QR ضوئيا؟">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "هل ظهر طلب مسح QR ضوئيا؟">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "إن سأل الجهاز الآخر عن رمز بدل مسح رمز QR ضوئيا، فمن فضلك انسخ القيمة أدناه إلى الجهاز الآخر:">
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
+<!ENTITY simulator_title "خيارات المحاكي">
+<!ENTITY simulator_remove "احذف المحاكي">
 <!ENTITY simulator_reset "استعد الإعدادات المبدئية">
 <!ENTITY simulator_name "الاسم">
-
+<!ENTITY simulator_software "البرمجيات">
 <!ENTITY simulator_version "النسخة">
 
-
+<!ENTITY simulator_hardware "العتاد">
 <!ENTITY simulator_device "جهاز">
-
-
+<!ENTITY simulator_screenSize "الشاشة">
+<!ENTITY simulator_pixelRatio "معدل البكسلات">
