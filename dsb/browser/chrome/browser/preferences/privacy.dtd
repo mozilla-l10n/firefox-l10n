@@ -57,7 +57,7 @@
 <!ENTITY  historyHeader.pre.label          "&brandShortName; buźo:">
 <!ENTITY  historyHeader.pre.accesskey      "b">
 <!ENTITY  historyHeader.remember.label     "Se historiju spomnjeś">
-<!ENTITY  historyHeader.dontremember.label "Historiju se nigda njespomnjeś">
+<!ENTITY  historyHeader.dontremember.label "Se historiju nigda njespomnjeś">
 <!ENTITY  historyHeader.custom.label       "Swójske nastajenja za historiju wužywaś">
 <!ENTITY  historyHeader.post.label         "">
 
