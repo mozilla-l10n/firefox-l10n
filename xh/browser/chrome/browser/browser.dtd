@@ -208,13 +208,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Lawula ukwabelana ngemayikhrofowuni yakho nesayithi">
 <!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Wabelana ngemayikhrofowuni yakho nesayithi">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Lawula ukwabelana kwakho ngeefestile okanye iskrini nesayithi">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Wabelana ngefestile okanye iskrini sakho kunye nesayithi">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Tshintsha enoba isayithi inokusifihla isalathi">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Jonga umyalezo wokufakela inkonzo">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Guqulela eli khasi">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Lawula ukuguqulelwa kwekhasi">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Lawula ukusetyenziswa kwesoftwe ye-DRM">
 
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Bonisa imbali">
 
 <!ENTITY searchItem.title             "Khangela">
 <!-- Toolbar items --> 
@@ -255,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Apps">
 <!ENTITY webapps.accesskey            "p">
-
-
+<!ENTITY loopMenuItem.label           "Qalisa incoko…">
+<!ENTITY loopMenuItem.accesskey       "a">
 
 <!ENTITY webDeveloperMenu.label       "Umphuhlisi-webhu">
 <!ENTITY webDeveloperMenu.accesskey   "U">
@@ -334,16 +336,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Ifayile"> 
 <!ENTITY fileMenu.accesskey       "I">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Ithebhu Entsha Neyekhonteyina">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "Eyobuqu">
+<!ENTITY userContextPersonal.accesskey    "E">
+<!ENTITY userContextWork.label            "Umsebenzi">
+<!ENTITY userContextWork.accesskey        "U">
+<!ENTITY userContextBanking.label         "Ukubhankisha">
+<!ENTITY userContextBanking.accesskey     "U">
+<!ENTITY userContextShopping.label        "Ukuthenga">
+<!ENTITY userContextShopping.accesskey    "U">
 <!ENTITY newNavigatorCmd.label        "Ifestile entsha">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "I">
