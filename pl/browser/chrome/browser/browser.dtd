@@ -174,7 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label "Określ, czy zachować hasło">
 <!ENTITY urlbar.webappsNotificationAnchor.label "Wyświetl zapytanie instalacji aplikacji">
 <!ENTITY urlbar.pluginsNotificationAnchor.label "Zarządzaj wtyczkami używanymi na tej stronie">
-<!ENTITY urlbar.webNotsNotificationAnchor2.label "Określ, czy strona ma prawo wyświetlać powiadomienia">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label "Określ, czy strona ma prawo wyświetlać powiadomienia">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Zarządzaj udostępnianiem tej stronie kamery i mikrofonu">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label "Udostępniasz tej stronie obraz z kamery i/lub dźwięk dźwięk z mikrofonu">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Zarządzaj udostępnianiem mikrofonu tej stronie">
