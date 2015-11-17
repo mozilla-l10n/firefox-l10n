@@ -26,10 +26,10 @@
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
-<!ENTITY actualSize.label "Současná velikost:">
-<!ENTITY actualSizeRadio.label "Současná velikost">
+<!ENTITY actualSize.label "Skutečná velikost:">
+<!ENTITY actualSizeRadio.label "Skutečná velikost">
 <!ENTITY actualSizeRadio.accessKey "a">
-<!ENTITY actualSizeRadio.tooltip "Zpět k aktuální velikosti obrázku">
+<!ENTITY actualSizeRadio.tooltip "Zpět ke skutečné velikosti obrázku">
 <!ENTITY customSizeRadio.label "Nová velikost">
 <!ENTITY customSizeRadio.accessKey "s">
 <!ENTITY customSizeRadio.tooltip "Změna velikosti obrázku na stránce">
