@@ -16,6 +16,7 @@
 <!ENTITY aboutTelemetry.choosePing "Pingi:">
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nowsze">
 <!ENTITY aboutTelemetry.showOlderPing "Starsze &gt;&gt;">
+<!ENTITY aboutTelemetry.rawPingData "Nieprzetworzone dane">
 <!ENTITY aboutTelemetry.archiveWeekHeader "Tydzień">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
