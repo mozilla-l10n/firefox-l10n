@@ -810,15 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY panicButton.thankyou.msg2 "Bezpiecznego przeglądania!">
 <!ENTITY panicButton.thankyou.buttonlabel "Dzięki!">
 
-<!ENTITY processHang.terminateScript.label "Zatrzymaj skrypt">
-<!ENTITY processHang.terminateScript.accessKey "Z">
-<!ENTITY processHang.debugScript.label "Debuguj skrypt">
-<!ENTITY processHang.debugScript.accessKey "D">
-<!ENTITY processHang.terminatePlugin.label "Zabij wtyczkę">
-<!ENTITY processHang.terminatePlugin.accessKey "w">
-<!ENTITY processHang.terminateProcess.label "Zabij proces">
-<!ENTITY processHang.terminateProcess.accessKey "s">
-
 <!ENTITY emeLearnMoreContextMenu.label "Więcej informacji o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
 <!ENTITY emeNotificationsNotNow.label "Zapytaj później">
