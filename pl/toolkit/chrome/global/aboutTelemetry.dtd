@@ -70,3 +70,4 @@
   Wyświetl nieprzetworzone dane z zawieszeń
 ">
 <!ENTITY aboutTelemetry.filterText "Filtruj (tekst lub /regexp/)">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "Zawartość">
