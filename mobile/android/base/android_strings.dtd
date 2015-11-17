@@ -304,9 +304,6 @@
 <!ENTITY doorhanger_login_select_toast_copy_error "Impossibile copiare la password">
 <!ENTITY doorhanger_login_select_action_text "Seleziona un altro accesso">
 <!ENTITY doorhanger_login_select_title "Copia password da">
-<!ENTITY pref_titlebar_mode2 "Barra degli indirizzi">
-<!ENTITY pref_titlebar_mode_title "Visualizza titolo pagina">
-<!ENTITY pref_titlebar_mode_url "Visualizza indirizzo pagina">
 <!ENTITY pref_magnifying_glass_enabled "Ingrandisci aree piccole">
 <!ENTITY pref_magnifying_glass_enabled_summary "Ingrandisci link e campi dei moduli quando si tocca l’area circostante.">
 <!ENTITY pref_scroll_title_bar2 "Navigazione a schermo intero">
