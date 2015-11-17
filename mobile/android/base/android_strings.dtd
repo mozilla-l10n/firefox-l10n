@@ -451,7 +451,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Při skrolování dolů na stránce skrýt hlavičku okna prohlížeče &brandShortName;">
 
 <!ENTITY pref_tab_queue_title2 "Otevření více odkazů">
-<!ENTITY pref_tab_queue_summary3 "Uložte ke na později do dalšího příštího aplikace &brandShortName;">
+<!ENTITY pref_tab_queue_summary3 "Uložte je do příštího otevření aplikace &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
