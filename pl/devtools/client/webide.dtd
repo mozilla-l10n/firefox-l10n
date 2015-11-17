@@ -68,6 +68,7 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "Projekty">
 <!ENTITY projectPanel_runtimeApps "Aplikacje środowiska">
