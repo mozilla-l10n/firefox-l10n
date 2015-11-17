@@ -18,6 +18,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_options "Opziuns">
 
 
 
