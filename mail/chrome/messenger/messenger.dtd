@@ -63,9 +63,9 @@
 <!ENTITY renameFolder.accesskey "B">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Komprimera mappar">
-<!ENTITY compactFolders.accesskey "K">
+<!ENTITY compactFolders.accesskey    "K">
 <!ENTITY emptyTrashCmd.label "Töm papperskorgen">
-<!ENTITY emptyTrashCmd.accesskey "T">
+<!ENTITY emptyTrashCmd.accesskey    "T">
 <!ENTITY offlineMenu.label "Nedkopplad">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Arbeta nedkopplad">
@@ -130,10 +130,10 @@
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Menyfält">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY showMessengerToolbarCmd.label		"Meddelandeverktyg">
-<!ENTITY showMessengerToolbarCmd.accesskey	"v">
-<!ENTITY customizeToolbar.label		"Anpassa…">
-<!ENTITY customizeToolbar.accesskey	"A">
+<!ENTITY showMessengerToolbarCmd.label "Meddelandeverktyg">
+<!ENTITY showMessengerToolbarCmd.accesskey "v">
+<!ENTITY customizeToolbar.label "Anpassa…">
+<!ENTITY customizeToolbar.accesskey "A">
 
 <!ENTITY messagePaneLayoutStyle.label "Layout">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
@@ -911,4 +911,3 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Alternativ programsymbol…">
-
