@@ -147,7 +147,7 @@
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Revisar si desea guardar su contraseña">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Ver el mensaje de instalación de la app">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Administrar uso de complementos en esta página">
-<!ENTITY urlbar.webNotsNotificationAnchor2.label        "Cambiar si el sitio puede recibir notificaciones o no">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Modificar si puede recibir notificaciones del sitio o no">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administrar el compartir la cámara y/o micrófono con el sitio">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Está compartiendo su cámara y/o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administrar el compartir su micrófono con el sitio">
@@ -560,7 +560,7 @@
 <!ENTITY identity.learnMore "Aprender más">
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 <!ENTITY identity.permissions "Permisos">
-<!ENTITY identity.permissionsEmpty "No ha otorgado a este sitio ningún permiso especial.">
+<!ENTITY identity.permissionsEmpty "No ha dado permisos especiales a este sitio.">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
 <!ENTITY syncBrand.shortName.label "Sync">
@@ -579,8 +579,8 @@
 <!ENTITY social.addons.label "Administrar servicios…">
 <!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
 <!ENTITY social.toggleNotifications.accesskey "">
-<!ENTITY social.activated.description "Los servicios de <label/> han sido activados. Usted puede cambiar sus ajustes para los servicios en el <label class='text-link'>Administrador de complementos</label>.">
-<!ENTITY social.activated.undo.label "Ups, ¡deshaga esto!">
+<!ENTITY social.activated.description "Los servicios de <label/> han sido activados. Puede cambiar sus ajustes para los servicios en el <label class='text-link'>Administrador de complementos</label>.">
+<!ENTITY social.activated.undo.label "Chuta, ¡deshacer esto!">
 <!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "Aprender más…">
 <!ENTITY social.learnMore.accesskey "l">
@@ -588,7 +588,7 @@
 <!ENTITY social.directory.label "Directorio de activaciones">
 <!ENTITY social.directory.text "Puede activar los servicios para compartir desde el directorio.">
 <!ENTITY social.directory.button "¡Llevarme allí!">
-<!ENTITY social.directory.introText "Aprieta en un servicio para añadirlo a &brandShortName;.">
+<!ENTITY social.directory.introText "Apriete en un servicio para añadirlo a &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Ver más">
 <!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Herramientas y funciones adicionales">
@@ -636,7 +636,7 @@
 <!ENTITY trackingContentBlocked.block.label "Activar protección">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "La protección de seguimiento está desactivada">
-<!ENTITY pointerLock.notification.message "Presiona ESC en cualquier momento para mostrarlo nuevamente.">
+<!ENTITY pointerLock.notification.message "Presione ESC en cualquier momento para mostrarlo nuevamente.">
 <!ENTITY pluginNotification.showAll.label "Mostrar todas">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 <!ENTITY pluginActivateNow.label "Permitir ahora">
