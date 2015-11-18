@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Hizmet Koşulları">
 <!ENTITY fxaccount_status_linkprivacy "Gizlilik İlkeleri">
 <!ENTITY fxaccount_status_more "Daha fazla&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Bağlantıyı kes&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox Hesabı kaldırılsın mı?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; artık hesabınızla eşitlenmeyecektir ama bu cihazdaki mevcut tarama verileri silinmeyecektir.">
