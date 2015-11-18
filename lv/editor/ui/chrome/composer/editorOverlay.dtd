@@ -3,36 +3,39 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 <!-- File menu items -->
+
+
+<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
+<!ENTITY pasteNoFormatting.key "V">
+
+
+
+
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY findBarCmd.label "Atrast...">
 
 
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 
 
+<!ENTITY insertLinkCmd.key "L">
 
 
 
 
 
 
-
-
-
-
-
+<!ENTITY insertTableCmd.label "Tabula...">
+<!ENTITY insertTableCmd.accesskey "T">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
 
 
 
@@ -44,13 +47,13 @@
 
 
 <!-- Font Face SubMenu -->
+<!ENTITY fontfaceMenu.label "Fonts">
+<!ENTITY fontfaceMenu.accesskey "F">
 
 
 
 
-
-
-
+<!ENTITY fontFixedWidth.key "T">
 
 
 
@@ -66,6 +69,7 @@
 
 
 <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 
 
@@ -86,6 +90,27 @@
 
 
 
+<!ENTITY styleBoldCmd.key "B">
+
+
+<!ENTITY styleItalicCmd.key "I">
+
+
+<!ENTITY styleUnderlineCmd.key "U">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY styleCite.label "Citāts">
+<!ENTITY styleCite.accesskey "C">
 
 
 
@@ -101,31 +126,11 @@
 
 
 
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 
 
@@ -181,6 +186,8 @@
 
 <!-- Layer toolbar items -->
 
+<!ENTITY layer.tooltip "Slānis">
+
 
 
 
@@ -205,7 +212,7 @@
 <!ENTITY tableTable.label "Tabula">
 <!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Rinda">
-
+<!ENTITY tableRows.label "Rinda(s)">
 <!ENTITY tableRow.accesskey "R">
 
 
@@ -246,6 +253,8 @@
 
 <!-- Toolbar-only items -->
 
+<!ENTITY menuBar.tooltip "Izvēlnes josla">
+
 <!ENTITY cutToolbarCmd.tooltip "Izgriezt">
 <!ENTITY copyToolbarCmd.tooltip "Kopēt">
 <!ENTITY pasteToolbarCmd.tooltip "Ielīmēt">
@@ -271,6 +280,8 @@
 
 <!-- Editor toolbar -->
 
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mazāks fonta izmērs">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Lielāks fonta izmērs">
 <!ENTITY boldToolbarCmd.tooltip "Treknraksts">
 <!ENTITY italicToolbarCmd.tooltip "Kursīvs">
 <!ENTITY underlineToolbarCmd.tooltip "Pasvītrot">
@@ -292,8 +303,8 @@
 
 <!-- TOC manipulation -->
 
-
-
+<!ENTITY updateTOC.label          "Atjaunināt">
+<!ENTITY updateTOC.accesskey      "u">
 
 
 

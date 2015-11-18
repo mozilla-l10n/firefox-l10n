@@ -34,9 +34,9 @@
 
 
 
-
-
-
+<!ENTITY AllTagsModeTab.label "HTML birkas">
+<!ENTITY AllTagsMode.label "HTML birkas">
+<!ENTITY AllTagsMode.accesskey "a">
 
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
@@ -44,10 +44,10 @@
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 
+<!ENTITY HTMLSourceMode.label "HTML pirmkods">
+<!ENTITY HTMLSourceMode.accesskey "H">
 
-
-
-
-
-
+<!ENTITY PreviewModeTab.label "Priekšskatījums">
+<!ENTITY PreviewMode.label "Priekšskatījums">
+<!ENTITY PreviewMode.accesskey "P">
 
