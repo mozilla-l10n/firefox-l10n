@@ -12,6 +12,7 @@
 <!ENTITY  notificationsPolicyDesc3.label       "Επιλέξτε ποιες ιστοσελίδες μπορούν να σας στέλνουν ειδοποιήσεις">
 <!ENTITY  notificationsPolicyButton.label      "Επιλογή…">
 <!ENTITY  notificationsDoNotDisturb.label      "Μην ενοχλείτε">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Δεν θα εμφανίζονται ειδοποιήσεις μέχρι να επανεκκινήσετε τον &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Εξαιρέσεις...">
 <!ENTITY  popupExceptions.accesskey   "ξ">
