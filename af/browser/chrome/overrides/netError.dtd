@@ -185,4 +185,4 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.learnMore "Meer inligting…">
 <!ENTITY weakCryptoAdvanced.title "Gevorderd">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> gebruik verouderde sekuriteittegnologie en is vatbaar vir aanvalle. 'n Aanvaller kan maklik inligting onthul wat mens sou dink veilig moes wees.">
-<!ENTITY weakCryptoAdvanced.override "(Nie beveilig) Probeer om <span class='hostname'></span> om verouderde sekuriteit te laai">
+<!ENTITY weakCryptoAdvanced.override "(Nie beveilig) Probeer om <span class='hostname'></span> met verouderde sekuriteit te laai">
