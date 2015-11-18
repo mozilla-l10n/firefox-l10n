@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "M">
 <!ENTITY replaceField.label "Almashtirish:">
 <!ENTITY replaceField.accesskey "A">
-
-
+<!ENTITY caseSensitiveCheckbox.label "Aniq hajm bo‘yicha topish">
+<!ENTITY caseSensitiveCheckbox.accesskey "b">
 <!ENTITY wrapCheckbox.label "Atrofga moslash">
 <!ENTITY wrapCheckbox.accesskey "m">
 <!ENTITY backwardsCheckbox.label "Orqaroqdan izlash">

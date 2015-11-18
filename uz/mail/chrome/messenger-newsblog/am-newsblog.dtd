@@ -2,15 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY biffStart.label "Yangi maqolalar borligi har ">
+<!ENTITY biffStart.accesskey "Y">
+<!ENTITY biffEnd.label "daqiqada tekshirilsin">
 
+<!ENTITY loginAtStartup.label "Yangi maqolalar borligi kompyuter ishga tushish vaqtida tekshirilsin"> 
+<!ENTITY loginAtStartup.accesskey "t">
 
+<!ENTITY useQuickMode.label "Standart holat bo‘yicha, veb sahifa yuklanishi o‘rniga maqolalar umumiy ma’lumoti ko‘rsatilsin"> 
+<!ENTITY useQuickMode.accesskey "S">
 
+<!ENTITY manageSubscriptions.label "Obunalarni boshqarish…"> 
+<!ENTITY manageSubscriptions.accesskey "b">
 
-
-
-
-
+<!ENTITY feedWindowTitle.label "Tasma hisobi ustasi">
 <!-- entities from rss.rdf -->
 
-
-
+<!ENTITY feeds.accountName "Bloglar va yangiliklar tasmasi">
+<!ENTITY feeds.wizardShortName "Yangiliklar tasmasi">
+<!ENTITY feeds.wizardLongName "Bloglar va yangiliklar tasmasi">
+<!ENTITY feeds.wizardLongName.accesskey "F">
