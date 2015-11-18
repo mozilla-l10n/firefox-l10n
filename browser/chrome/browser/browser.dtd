@@ -257,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Приложения">
 <!ENTITY webapps.accesskey            "П">
-
-
+<!ENTITY loopMenuItem.label           "Започване на разговор…">
+<!ENTITY loopMenuItem.accesskey       "р">
 
 <!ENTITY webDeveloperMenu.label       "Уеб разработчик">
 <!ENTITY webDeveloperMenu.accesskey   "У">
@@ -336,16 +336,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Нов контейнер за подпрозорец">
+<!ENTITY newUserContext.accesskey         "к">
+<!ENTITY userContextPersonal.label        "Лични">
+<!ENTITY userContextPersonal.accesskey    "Л">
+<!ENTITY userContextWork.label            "Работа">
+<!ENTITY userContextWork.accesskey        "Р">
+<!ENTITY userContextBanking.label         "Банкиране">
+<!ENTITY userContextBanking.accesskey     "Б">
+<!ENTITY userContextShopping.label        "Пазаруване">
+<!ENTITY userContextShopping.accesskey    "П">
 <!ENTITY newNavigatorCmd.label        "Нов прозорец">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "п">
