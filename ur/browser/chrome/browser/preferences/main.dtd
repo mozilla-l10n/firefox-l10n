@@ -30,3 +30,16 @@
 <!ENTITY chooseFolderMac.accesskey    "ا">
 <!ENTITY alwaysAsk.label "مجھ سے ہمیشہ پوچھیں کہ مسل کہاں محفوظ کرنی ہے">
 <!ENTITY alwaysAsk.accesskey "ہ">
+
+<!ENTITY alwaysCheckDefault2.label        "ہمیشہ جانچ پڑتال کریں کہ &brandShortName; آپ کا پہلے سے طے شدہ براؤزر ہے">
+<!ENTITY alwaysCheckDefault2.accesskey    "w">
+<!ENTITY setAsMyDefaultBrowser2.label     "طے شدہ بنائیں">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "ش">
+<!ENTITY isDefault.label                  "&brandShortName; اس وقت آپ کا طےشدہ براؤزر ہے">
+<!ENTITY isNotDefault.label               "&brandShortName; اس وقت آپ کا طےشدہ  براؤزر نھیں ہے">
+
+<!ENTITY separateProfileMode.label        "ہونے دیں &brandShortName; اور فائر فاکس کو  ھمہ وقت چلائے">
+<!ENTITY useFirefoxSync.label             "ٹوٹکا: یہ علیحدہ پروفائلز استعمال کرتا ہے. ان کے درمیان ڈیٹا کا اشتراک کرنے کی مطابقت پذیری کا استعمال کریں.">
+<!ENTITY getStarted.label                 "ہم وقت سازی استعمال کرنا شروع کریں…">
+
+<!ENTITY e10sEnabled.label                "کثیر عمل کاری &brandShortName; کو اہل بنائیں">

@@ -9,20 +9,35 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "غیر بھروسہ مند رابطہ">
-<!ENTITY certerror.longpagetitle "یہ رابطہ غیر تصدیق شدہ ہے">
+<!ENTITY certerror.pagetitle  "نا قابل اعتماد کنکشن">
+<!ENTITY certerror.longpagetitle "یہ کنکشن غیر نا قابل اعتماد ہے">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "آپ نے &brandShortName; سے <b>#1</b> تک 
-قابل اعتبار رابطے کی خواہش کی ہے، پر ہم تصدیق نہیں کر سکتے کہ آپ کا رابطہ محفوظ ہے-">
-<!ENTITY certerror.introPara2 "حسب معمول، جب آپ حفاظت سے جڑنے کی کوشش کرتے ہیں،سائٹس بھروسہ مند شناخت پیش کریے گی یقین دلحانی کے لیے کہ آپسہی جگہ جا رہے ہیں. تاہم، اس سائٹ کی شناخت توثیق نہں ہو سکتی.">
+<!ENTITY certerror.introPara1 "آپ نے &brandShortName; کو حفاظت کے ساتھ جڑنے 
+کو کہا ہے<b>#1</b>، لیکن ہمیں یقین نہیں ہے کہ آپ کا کنکشن محفوظ ہے۔">
+<!ENTITY certerror.introPara2 "عام طور ہر، جب آپ حفاظت سے جڑنے کی کوشش کرتے ہیں، 
+سائٹس بھروسہ مند شناخت پیش کریے گی یقین دلحانی کے لیے کہ آپ 
+سہی جگہ جا رہے ہیں۔ تاہم، اس سائٹ کی شناخت توثیق نہں ہو سکتی۔">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "مجھے کیا کرنا چاہیے؟">
-<!ENTITY certerror.whatShouldIDo.content "اگر آپ اکثر اس ویب سائٹ کو استعمال کرتے ہیں تو
+<!ENTITY certerror.whatShouldIDo.content "اگر آپ اکثر اس ویب سائٹ کے ساتھ جڑتیں ہیں تو
 اس خرابی کا مطلب ہے کوئی آپ کا بہروپ
 دھارنا چاہ رہا ہے، اور آپ مزید آگے نہ جائیں    ">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "یہ سائٹ HTTP 
+ کا استعمال کرتی ہےسخت ٹرانسپورٹ سیکورٹی (HSTS) کہ اور &brandShortName; کی وضاحت کرنے کے لئے صرف رابطہ قائم 
+ کرنے کے لئے محفوظ طریقے سے۔ اس کے نتیجے میں، اس سرٹیفکیٹ کے لئے استثنا شامل کرنا 
+ ممکن نہیں ہے۔">
 <!ENTITY certerror.getMeOutOfHere.label "مجھے یہاں سے باہر نکالو!">
 
 <!ENTITY certerror.expert.heading "مجھے خطروں کی پہچان ہے">

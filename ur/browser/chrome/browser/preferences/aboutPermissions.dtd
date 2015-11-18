@@ -41,6 +41,7 @@
 
 <!ENTITY popup.label                     "پاپ اپ دریچے کھولیں">
 
-<!ENTITY fullscreen.label                "پوري اسکريين">
 <!ENTITY camera.label                    "کیمرہ استعمال کریں">
 <!ENTITY microphone.label                "مائیکروفون استعمال کریں">
+
+<!ENTITY focusSearch.key                 "f">

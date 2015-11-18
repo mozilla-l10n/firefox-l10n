@@ -1,21 +1,123 @@
+<!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users edit the
+     (outer) HTML of the current node -->
 <!ENTITY inspectorHTMLEdit.label       "تدوین HTML کے طور پر">
 <!ENTITY inspectorHTMLEdit.accesskey   "ت">
+<!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users copy the
+     inner HTML of the current node -->
 
 <!ENTITY inspectorHTMLCopyInner.label       "اندرونی HTML نقل کریں">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "ا">
+<!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users copy the
+     outer HTML of the current node -->
 
 <!ENTITY inspectorHTMLCopyOuter.label       "بیرونی HTML نقل کریں">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "ب">
+<!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users copy
+     the CSS Selector of the current node -->
 
 <!ENTITY inspectorCopyUniqueSelector.label       "یکتا انتخاب کنندہ نقل کریں">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "ی">
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste outer
+     HTML in the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste inner
+     HTML in the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other Paste
+     items, which allow to paste HTML:
+     - before the current node
+     - after the current node
+     - as the first child of the current node
+     - as the last child of the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste
+     the HTML before the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste
+     the HTML after the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users paste
+     the HTML as the first child the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users paste
+     the HTML as the last child the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users scroll
+     the current node into view -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users delete the
+     current node -->
 
 <!ENTITY inspectorHTMLDelete.label          "نوڈ حذف کریں">
 <!ENTITY inspectorHTMLDelete.accesskey      "ح">
+<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     attribute items, which allow to:
+     - add new attribute
+     - edit attribute
+     - remove attribute -->
+
+<!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users add attribute
+     to current node -->
+
+<!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users edit attribute
+     for current node -->
+
+<!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users delete attribute
+     from current node -->
+
 
 <!ENTITY inspector.selectButton.tooltip     "ماؤس سے عنصر منتخب کریں">
-
-<!ENTITY inspectorSearchHTML.label          "HTML تلاش کرو">
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
+     the placeholder in inspector search box -->
 <!ENTITY inspectorSearchHTML.key            "ف">
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
+     be shown as the placeholder in the future, once the inspector search box
+     supports the full text HTML search in Bug 835896. -->
+
+<!ENTITY inspectorSearchHTML.label3 "HTML تلاش کرو">
+<!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users copy
+     the URL embedding the image data encoded in Base 64 (what we name
+     here Image Data URL). For more information:
+     https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
 
 <!ENTITY inspectorCopyImageDataUri.label       "نقش کا کوائف یو ار ایل نقل کریں">
+<!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users see
+     the DOM properties of the current node. When triggered, this item
+     opens the split Console and displays the properties in its side panel. -->
+<!-- LOCALIZATION NOTE (inspectorUseInConsole.label): This is the label
+     shown in the inspector contextual-menu for the item that outputs a
+     variable for the current node to the console. When triggered,
+     this item opens the split Console. -->
+<!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
+     shown in the inspector contextual-menu for recursively expanding
+     mark-up elements -->
+<!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
+     shown in the inspector contextual-menu for recursively collapsing
+     mark-up elements -->
+
+<!ENTITY inspectorCollapseNode.label       "تفصیل غائب کریں">
+<!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users take
+     a screenshot of the currently selected node. -->
+<!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users
+     duplicate the currently selected node. -->

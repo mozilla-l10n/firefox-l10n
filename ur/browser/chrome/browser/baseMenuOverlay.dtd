@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ہدایات"> 
 <!ENTITY helpMenuWin.accesskey    "ہ">
-<!ENTITY aboutProduct.label       "&brandShortName; کے متعلق">
-<!ENTITY aboutProduct.accesskey   "م">
-<!ENTITY productHelp.label        "&brandShortName; مدد">
-<!ENTITY productHelp.accesskey    "م">
+<!ENTITY aboutProduct2.label      "&brandShorterName; کے بارے میں">
+<!ENTITY aboutProduct2.accesskey  "ک">
+<!ENTITY productHelp2.label       "&brandShorterName; مدد">
+<!ENTITY productHelp2.accesskey   "م">
 <!ENTITY helpMac.commandkey       "؟">
 
 <!ENTITY helpKeyboardShortcuts.label     " کلیدی تختہ تیز راہیں">
@@ -25,9 +25,11 @@
 
 <!ENTITY helpSafeMode.label       "ایڈ اون نا اہل کر کے دوباره شروع کریں">
 <!ENTITY helpSafeMode.accesskey   "د">
+<!ENTITY helpSafeMode.stop.label       "ایڈ اون اہل کر کے دوباره شروع کریں">
+<!ENTITY helpSafeMode.stop.accesskey   "د">
 
-<!ENTITY healthReport.label       "&brandShortName; تندرستی رپورٹ">
-<!ENTITY healthReport.accesskey   "ت">
+<!ENTITY healthReport2.label      "&brandShorterName; تندرستی رپورٹ">
+<!ENTITY healthReport2.accesskey  "ت">
 
 <!ENTITY helpTroubleshootingInfo.label      "ازالہ کاری معلومات">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ا">
@@ -35,16 +37,16 @@
 <!ENTITY helpFeedbackPage.label      "اپنی رائے بھیجیں...">
 <!ENTITY helpFeedbackPage.accesskey  "ب">
 
-<!ENTITY helpShowTour.label             "&brandShortName; سیر">
-<!ENTITY helpShowTour.accesskey         "س">
+<!ENTITY helpShowTour2.label            "&brandShorterName; جائزہ">
+<!ENTITY helpShowTour2.accesskey        "ج">
 
 <!ENTITY preferencesCmdMac.label        "ترجیحات ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "خدمات">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; چھپائیں">
-<!ENTITY hideThisAppCmdMac.commandkey   "ہے">
+<!ENTITY hideThisAppCmdMac2.label       "چھپائیں &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "ہے">
 
 <!ENTITY hideOtherAppsCmdMac.label      "دیگر چھپائیں">
 <!ENTITY hideOtherAppsCmdMac.commandkey "ہے">

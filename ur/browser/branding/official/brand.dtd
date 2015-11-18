@@ -2,7 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  brandShorterName      "فائر فاکس">
 <!ENTITY  brandShortName        "فائر فاکس">
 <!ENTITY  brandFullName         "موزیلا فائر فاکس">
 <!ENTITY  vendorShortName       "موزیلا">
-<!ENTITY  trademarkInfo.part1   "فائرفاکس اور فائرفاکس کی لوگو موزیلا فاؤنڈیشن کے تجارتی نشان ہیں۔">
+<!ENTITY  trademarkInfo.part1   "Firefox اور Firefox کی لوگو Mozilla Foundation کے تجارتی نشان ہیں۔">

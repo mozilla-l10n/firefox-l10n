@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "ک">
 <!ENTITY cmd.open_window.label           "نئے دریچے میں کھولیں">
 <!ENTITY cmd.open_window.accesskey       "ن">
+<!ENTITY cmd.open_private_window.label     "ربط نئے نجی دریچے میں کھولیں">
+<!ENTITY cmd.open_private_window.accesskey "ن">
 <!ENTITY cmd.open_tab.label              "نئی ٹیب میں کھولیں">
 <!ENTITY cmd.open_tab.accesskey          "ن">
 <!ENTITY cmd.open_all_in_tabs.label      "تمام ٹیبوں میں کھولیں">
@@ -83,7 +85,6 @@
 <!ENTITY col.url.label           "محل وقوع">
 <!ENTITY col.mostrecentvisit.label "سب سے حالیہ مصاحبہ">
 <!ENTITY col.visitcount.label    "ملاحظہ شماری">
-<!ENTITY col.keyword.label       "کلیدی لفظ">
 <!ENTITY col.description.label   "تصریح">
 <!ENTITY col.dateadded.label     "اضافہ شدہ">
 <!ENTITY col.lastmodified.label  "آخری بار ترمیم کردہ">

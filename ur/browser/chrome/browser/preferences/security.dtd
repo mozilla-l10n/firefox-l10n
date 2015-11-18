@@ -24,10 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "ا">
 
 
-<!ENTITY  passwords.label               "پاس ورڈ">
+<!ENTITY  logins.label                  "لاگ ان">
 
-<!ENTITY  rememberPasswords.label       "سائٹوں کے لیے پاس ورڈ یاد رکھیں">
-<!ENTITY  rememberPasswords.accesskey   "س">
+<!ENTITY  rememberLogins.label          "سائٹ کے لاگ ان یاد رکھیں">
+<!ENTITY  rememberLogins.accesskey      "ی">
 <!ENTITY  passwordExceptions.label      "استثنیات…">
 <!ENTITY  passwordExceptions.accesskey  "ا">
 
@@ -36,5 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "ماسٹر پاس ورڈ تبدیل کریں…">
 <!ENTITY  changeMasterPassword.accesskey "م">
 
-<!ENTITY  savedPasswords.label            "محفوظ پاس ورڈ…">
-<!ENTITY  savedPasswords.accesskey        "پ">
+<!ENTITY  savedLogins.label              "محفوظ شدہ لاگ ان…">
+<!ENTITY  savedLogins.accesskey          "ل">

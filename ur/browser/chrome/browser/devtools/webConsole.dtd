@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "ویب کنسول">
 <!ENTITY browserConsole.title "براؤزر کنسول">
-
-<!ENTITY networkPanel.requestURLColon             "یو آر ایل کی درخواست ">
-<!ENTITY networkPanel.requestMethodColon          "طریقہ فرمائش">
-<!ENTITY networkPanel.statusCodeColon             "صورت حال کا ضابطہ">
-
-<!ENTITY networkPanel.requestHeaders              "سر تحریر درخواست کریں">
-
-<!ENTITY networkPanel.requestBody                 "جسد کی درخواست کریں">
-
-
-<!ENTITY networkPanel.responseHeaders             "جوابی عمل سر تحریر">
-<!ENTITY networkPanel.responseCookie              "موصولہ کوکی">
-<!ENTITY networkPanel.responseBody                "جوابی عمل جسد">
-<!ENTITY networkPanel.responseBodyCached          "کیسہ بند کوائف">
-<!ENTITY networkPanel.responseBodyUnknownType     "نامعلوم قسم کا مواد">
-<!ENTITY networkPanel.responseNoBody              "کوئی جوابی جسد نہیں">
-<!ENTITY networkPanel.responseImage               "نقش موصولہ">
-<!ENTITY networkPanel.responseImageCached         "کیسہ بند نقش">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -50,9 +32,9 @@
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "ت">
-
-<!ENTITY btnPageCSS.tooltip "CSS نقائص اور تنبیہ لاگ کریں">
-
+<!ENTITY btnPageCSS.label   "CSS">
+<!ENTITY btnPageCSS.tooltip2 "CSS نقائص اور تنبیہ لاگ کریں">
+<!ENTITY btnPageCSS.accesskey "C">
 
 <!ENTITY btnPageJS.tooltip  "JavaScript استثنیات لاگ کریں">
 
@@ -65,10 +47,27 @@
   -  console.error(). -->
 
 
-<!ENTITY btnConsoleErrors       "نقائص">
-<!ENTITY btnConsoleInfo         "معلومات">
-<!ENTITY btnConsoleWarnings     "تنبیہات">
-<!ENTITY btnConsoleLog          "لاگ">
+
+
+
+
+<!ENTITY btnConsoleXhr          "XHR">
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
 
 <!ENTITY filterOutput.placeholder "آؤٹ پٹ فلٹر کریں">
 
@@ -92,3 +91,7 @@
 <!ENTITY closeCmd.key         "و">
 <!ENTITY findCmd.key          "ف">
 <!ENTITY clearOutputCtrl.key  "ل">
+
+
+
+

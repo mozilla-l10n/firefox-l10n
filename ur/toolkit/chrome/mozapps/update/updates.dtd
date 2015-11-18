@@ -13,7 +13,7 @@
 <!ENTITY  noupdatesfound.title            "کوئی تازہ کاریاں نہیں ملیں">
 <!ENTITY  noupdatesautoenabled.intro      "کوئی تازہ کاری کریاں دستیاب نہیں۔ &brandShortName; معیادی طور پر 
 تازہ کاریوں کے لیے چیک کرے گا۔">
-<!ENTITY  noupdatesautodisabled.intro     "کوئی تازہ کاریاں دستیاب نہیں۔ آپ کچھ دیر بعت پھر چیک کر لیں یا 
+<!ENTITY  noupdatesautodisabled.intro     "کوئی تازہ کاریاں دستیاب نہیں۔ آپ کچھ دیر بعد پھر چیک کر لیں یا 
 &brandShortName; کی خودکار تازہ کاری چیکنگ اہل بنا دیں۔">
 
 <!ENTITY  manualUpdate.title              "تازہ کرنے میں ناکام">
@@ -44,11 +44,11 @@
 
 <!ENTITY  license.titleText               "سافٹ ویئر لائسنس معاہدہ">
 <!ENTITY  license.introText               "اس سوفٹ ویر کو استعمال کرنے کی شرائط۔">
-<!ENTITY  license.instructionText         "برائے مہربانی مندرجہ ذیل لائسنس ایگریمنٹ پڑھیے۔ آخر تک پڑھنے کے لئے سکرول بار کا استعمال کیجیے۔">
-<!ENTITY  license.accept                  "مجھے اس ایگریمنٹ کی شرائط قبول ہیں۔">
-<!ENTITY  license.accept.accesskey        "ق">
-<!ENTITY  license.decline                 "مجھے اس ایگریمنٹ کی شرائط قبول نہیں ہیں">
-<!ENTITY  license.decline.accesskey       "ن">
+<!ENTITY  license.instructionText         "برائے مہربانی مندرجہ ذیل لائسنس معاہدہ پڑھیے۔ آخر تک پڑھنے کے لئے سکرول بار کا استعمال کیجیے۔">
+<!ENTITY  license.accept                  "مجھے اس معاہدے کی شرائط قبول ہیں۔">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "مجھے اس معاہدے کی شرائط قبول نہیں ہیں">
+<!ENTITY  license.decline.accesskey       "T">
 
 <!ENTITY  incompatibleList.title          "غیر موازن ایڈ اون ملے">
 
@@ -94,7 +94,7 @@
 
 <!ENTITY  installed.title                 "تازہ کاری تنصیب کر دی گئی">
 <!ENTITY  installed.intro                 "تازہ کاری کامیابی سے تنصیب ہو گئی۔">
-<!ENTITY  whatsnew.label                  "نیا کیا ہے، اس کے بارے میں اور پڑھیں...">
+<!ENTITY  whatsnew.label                  "کیا نیا ہے، اس کے بارے میں مزید پڑھیں...">
 
 <!ENTITY  update.details.label            "تفصیلات">
 <!ENTITY  update.installedOn.label        "تنصیب شدہ از:">

@@ -3,8 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; میں خوش آمدید">
+<!ENTITY aboutAccounts.connected "اکاؤنٹ جڑا ہوا">
 
 <!ENTITY aboutAccountsConfig.description "اپنے ٹیب، نشانیاں، پاس ورڈ اور مزیدہموار بنانے کے لیے سائن ان کریں۔">
 <!ENTITY aboutAccountsConfig.startButton.label "شروع کریں">
 <!ENTITY aboutAccountsConfig.useOldSync.label "ہم وقت ساز کا پرانا ورژن استعمال کر رہے ہیں؟">
-<!ENTITY aboutAccountsConfig.manage.label "بندوبست کریں">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "ترجیحات ہمہ وقت ساز کریں">
+<!ENTITY aboutAccounts.noConnection.title "کوئی کنکشن نہیں">
+<!ENTITY aboutAccounts.noConnection.description "سائن ان کرنے لیے ضروری ہے کہ آپ انٹرنیٹ سے جڑیں ہوں۔">
+<!ENTITY aboutAccounts.noConnection.retry "دوبارہ کوشش کریں">

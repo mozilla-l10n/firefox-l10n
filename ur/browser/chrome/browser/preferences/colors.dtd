@@ -6,12 +6,15 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "صفحات کو میری اوپر دیے گئے انتخاب کی بجائے اپنے رنگ منتخب کرنے دیں">
-<!ENTITY  allowPagesToUse.accesskey       "ا">
+
+
+<!ENTITY  overridePageColors.always.label "ہمیشہ">
+<!ENTITY  overridePageColors.auto.label   "صرف گہرا تناسب امتزاج خیالیات کے ساتھ">
+<!ENTITY  overridePageColors.never.label  "کبھی نہیں">
 
 <!ENTITY  color                           "متن و پس منظر">
-
-
+<!ENTITY  textColor.label                 "متن:">
+<!ENTITY  textColor.accesskey             "م">
 <!ENTITY  backgroundColor.label           "پس منظر:">
 <!ENTITY  backgroundColor.accesskey       "پ">
 <!ENTITY  useSystemColors.label           "نظام رنگ استعمال کریں">

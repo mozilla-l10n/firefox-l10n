@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "کاغذ سائز:">
 <!ENTITY paperInput.accesskey "ک">
 
-<!ENTITY plexInput.label "پلیكس موڈ:">
-<!ENTITY plexInput.accesskey "م">
-
-<!ENTITY resolutionInput.label "جزیات کاری/کوالٹی:">
-<!ENTITY resolutionInput.accesskey "ج">
-
-<!ENTITY cmdInput.label "پرنٹ حکم:">
-<!ENTITY cmdInput.accesskey "ح">
-
 <!ENTITY jobTitleInput.label "جاب عنوان:">
 <!ENTITY jobTitleInput.accesskey "ج">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "م">
 <!ENTITY colorRadio.label "رنگ">
 <!ENTITY colorRadio.accesskey "ر">
-
-<!ENTITY colorspaceInput.label "رنگ جگہ:">
-<!ENTITY colorspaceInput.accesskey "ر">
-
-<!ENTITY fontsGroup.label "فانٹ:">
-<!ENTITY downloadFonts.label "پرنٹر پر فانٹ ڈاؤن لوڈ کریں؟">
-<!ENTITY downloadFonts.accesskey "ڈ">
 
 <!ENTITY edgeMarginInput.label "صفحے کے کنارے سے لے کر حاشیے تک رخنہ">
 <!ENTITY topInput.label "بالا:">

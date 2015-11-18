@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "تازہ کاریوں کے لیے پڑتال کریں">
 <!ENTITY update.checkForUpdatesButton.accesskey   "پ">
-<!ENTITY update.updateButton.label                "تازہ کاری کرنے کے لیے دوباره شروع کریں">
-<!ENTITY update.updateButton.accesskey            "د">
+<!ENTITY update.updateButton.label2                "تازہ کرنے کے لیے &brandShortName; کو دوباره شروع کریں">
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "تازہ کاری لگائیں…">
 <!ENTITY update.applyButtonBillboard.accesskey    "ت">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -27,7 +27,7 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ہے ایک">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "ہمہ گیر حلقہ">
+<!ENTITY community.exp.creditsLink  "عالمی گروه">
 <!ENTITY community.exp.end          "  آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-">
 
 <!ENTITY community.start2           "&brandShortName; کے ڈیزائنر ہیں">
@@ -36,12 +36,15 @@
 <!ENTITY community.middle2          "، آ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ہمہ گیر حلقہ">
-<!ENTITY community.end3             "آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ۔">
+<!ENTITY community.end3             "   آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-">
 
-<!ENTITY contribute.start           "دلچسپ لگا؟">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "شامل ہوں!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "مدد کرنا چاہیں گے؟ ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "ڈونیشن دیں">
+<!ENTITY helpus.middle              " یا ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "شامل ہوں!">
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "لائسنس کرنے کی معلومات ">
@@ -55,7 +58,7 @@
 
 <!ENTITY update.checkingForUpdates  "تازہ کاریوں کے لیے پڑتال کر رہا ہے ... ">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "برانڈ کا مختصر نام; تازہ ترین ہے">
+<!ENTITY update.noUpdatesFound      "&brandShortName; تازہ ترین ہے">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "تازہ کاریاں آپ کے نظام کے منتظم کی طرف سے نااہل شدہ ہیں">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->

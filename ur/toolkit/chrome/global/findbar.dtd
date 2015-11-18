@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "تمام نمایاں کریں">
 <!ENTITY highlightAll.accesskey "ت">
 <!ENTITY highlightAll.tooltiptext "فقرے کے تمام وقوعے نمایاں کریں">
-
-
-<!ENTITY caseSensitive.tooltiptext "کیس حساسیت ساتھ تلاش کریں">
+<!ENTITY caseSensitive.label "کیس میچ کریں">
+<!ENTITY caseSensitive.accesskey "م">
+<!ENTITY caseSensitive.tooltiptext "کیس حساسیت کے ساتھ تلاش کریں">

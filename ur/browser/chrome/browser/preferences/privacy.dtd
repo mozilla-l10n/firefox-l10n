@@ -4,25 +4,34 @@
 
 <!ENTITY tracking.label                 "ٹریکنگ">
 
-<!ENTITY dntTrackingNopref.label2       "سائٹوں کو میری سراغ کاری ترجیحات کے بارے میں میں کچھ بھی نہیں بتائیں">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label2      "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا">
-<!ENTITY dntTrackingOkay.accesskey      "t">
-<!ENTITY doNotTrackInfo.label           "اور سیکھیں">
+<!ENTITY dntTrackingNotOkay4.label     "درخواست دیں کہ سائٹ آپکا سراغ راہ نہ لگاِین">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
+<!ENTITY doNotTrackInfo.label          "اور سیکھیں">
+<!ENTITY trackingProtection5.label     "سراغ راہ حفاظت استعمال کریں">
+<!ENTITY trackingProtection5.accesskey "ا">
+<!ENTITY trackingProtectionLearnMore.label "مزید سیکھیں">
+<!ENTITY trackingProtectionPBM5.label         "ذاتی ونڈوز میں ٹریکنگ حفاظت کا استعمال کریں">
+<!ENTITY trackingProtectionPBM5.accesskey     "ت">
+<!ENTITY trackingProtectionPBMLearnMore.label "مزید سیکھیں">
+<!ENTITY changeBlockList.label          "بلاک فہرست تبدیل کریں">
+<!ENTITY changeBlockList.accesskey      "ت">
 
 <!ENTITY  history.label                 "سابقات">
 
 <!ENTITY  locationBar.label             "مقام بند">
 
-<!ENTITY  locbar.pre.label              "محل وقوع بار استعمال کرتے وقت، تجویز دیں:">
-<!ENTITY  locbar.pre.accessKey          "ا">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "سابقات اور نشانیاں">
+<!ENTITY  locbar.suggest.label          "محل وقوع بار استعمال کرتے وقت، تجویز دیں:">
 <!ENTITY  locbar.history.label          "سابقات">
+<!ENTITY  locbar.history.accesskey      "س">
 <!ENTITY  locbar.bookmarks.label        "نشانیاں">
-<!ENTITY  locbar.nothing.label          "کچھ بھی نہیں">
+<!ENTITY  locbar.bookmarks.accesskey    "ن">
+<!ENTITY  locbar.openpage.label         "ٹیب کھولیے">
+<!ENTITY  locbar.openpage.accesskey     "ک">
+<!ENTITY  locbar.searches.label         "تحقیق و تکمیل کاری تلاش کرتا ہے طےشدہانجن  سے">
+<!ENTITY  locbar.searches.accesskey     "d">
+
+<!ENTITY  suggestionSettings.label      "تلاش کے انجن کی تجاویز کے لئے ترجیحات کو بدلیں…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "سائٹوں پر سے کوکی قبول کریں">
 <!ENTITY  acceptCookies.accesskey       "ق">
@@ -38,7 +47,6 @@
 
 <!ENTITY  expire.label                  "یہ ایکسبائر ہو جائیں">
 <!ENTITY  close.label                   "میں &brandShortName; بند کروں">
-<!ENTITY  askEachTime.label             "مجھے ہر بار پوچھیں">
 
 <!ENTITY  cookieExceptions.label        "استثنیات…">
 <!ENTITY  cookieExceptions.accesskey    "ا">

@@ -12,6 +12,11 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> پر ویب صفحہ حملہ آور صفحہ کے طور پر رپورٹ ہو چکا ہے اور آپ کی سلامتی ترجیحات کی بناہ پر بلاک کر دیا گیا ہے۔">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>حملہ آور صفحات ایسے پروگرام نصب کرنے کی کوشش کرتے ہیں جو نجی معلومات چوری کرتے ہیں، آپ کا کمپیوٹر دوسروں پر حملہ کرنے کے لیے استعمال کرتے ہیں، یا آپ کے نظام کو نقصان پہنچاتے ہیں۔</p><p>کچھ حملہ آور صفحات دانستہ مضر سافٹ ویئر بانٹتے ہیں، لیکن بہت سے اپنے مالکان کے علم اور اجازت کے بغیر اشتباہ کرتے ہیں۔</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "رپورٹ کریں ناخواستہ سافٹ ویئر کہ صفحہات">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "میں اس ویب صفحہ <span id='unwanted_sitename'/> ناپسندیدہ سافٹ ویئر پر مشتمل کی رپورٹ کیا گیا ہے اور آپ کی سلامتی کی ترجیحات کی بنیاد پر بلاک کر دیا گیا ہے۔">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>ناپسندیدہ سافٹ ویئر کے صفحات برامک ہو سکتا ہے کہ یہ سافٹ ویئر انسٹال کرنے کی اور غیر متوقع طور پر آپ کے نظام کو متاثر کرنے کی کوشش کرسکتے ہے۔</p>">
+
 <!ENTITY safeb.blocked.phishingPage.title "ویب نقل رپورٹ کی گئی!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> پر ویب پیج نقلی پیج کے طور پر رپورٹ ہو چکا ہے اور آپ کی سلامتی ترجیحات کی بناہ پر بلاک کر دیا گیا ہے۔">

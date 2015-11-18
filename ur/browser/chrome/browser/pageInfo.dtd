@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "۶۰۰">
-<!ENTITY  pageInfoWindow.height "۵۰۰">
+<!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "س">
 <!ENTITY  copy.label            "نقل کریں ">
@@ -22,11 +22,9 @@
 <!ENTITY  generalReferrer       "یو آر ایل کا حوالہ دے رہا ہے:">
 <!ENTITY  generalSource         "کیسہ ماخذ:">
 <!ENTITY  generalModified       "ترمیم شدہ:">
-<!ENTITY  generalEncoding       "ضابطہ بندی:">
+<!ENTITY  generalEncoding2      "متن کی ضابطہ بندی:">
 <!ENTITY  generalMetaName       "نام">
 <!ENTITY  generalMetaContent    "مشمول">
-<!ENTITY  generalSecurityDetails   "تفصیلات">
-<!ENTITY  generalSecurityDetails.accesskey "ڈ">
 
 <!ENTITY  mediaTab              "میڈیا">
 <!ENTITY  mediaTab.accesskey    "م">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "سلامتی">
 <!ENTITY  securityTab.accesskey "س">
-<!ENTITY  securityHeader        "اس صفحے کے لیے سلامتی معلومات">
 <!ENTITY  securityView.certView "تصدیق نامہ نظارہ کریں">
 <!ENTITY  securityView.accesskey "ن">
 <!ENTITY  securityView.unknown   "نامعلوم">
@@ -86,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "ن">
 
 <!ENTITY  securityView.technical.header                 "تکنیکی تفاصیل">
+
+<!ENTITY  helpButton.label                              "مدد">

@@ -7,11 +7,13 @@
 <!ENTITY     cookiesonsystem.label          "مندرجہ ذیل کوکیاں آپ کے کمپیوٹر پر ذخیرہ ہیں:">
 <!ENTITY     cookiename.label               "نام کوکی">
 <!ENTITY     cookiedomain.label             "سائٹ"> 
-<!ENTITY     button.removecookies.label     "کوکیاں ہٹائیں">
-<!ENTITY     button.removecookie.label      "کوکی ہٹائیں">
-<!ENTITY     button.removecookie.accesskey  "ہ">
-<!ENTITY     button.removeallcookies.label  "تمام کوکیاں ہٹائیں">
-<!ENTITY     button.removeallcookies.accesskey "ت">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeSelectedCookies.accesskey "R">
+<!ENTITY     button.removeAllCookies.label "تمام ہٹائیں">
+<!ENTITY     button.removeAllCookies.accesskey "ت">
 
 <!ENTITY     props.name.label               "نام:">
 <!ENTITY     props.value.label              "مشمول:">

@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "فانٹ">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "فانٹ برائے:">
 <!ENTITY  language.accesskey                      "ف">
@@ -23,19 +20,18 @@
 <!ENTITY  sans-serif.accesskey                    "ن">
 <!ENTITY  monospace.label                         "مونو سپیس:">
 <!ENTITY  monospace.accesskey                     "م">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "مغربی">
-<!ENTITY  font.langGroup.latin2                   "وسطی یورپ">
+<!ENTITY  font.langGroup.latin                    "لاطینی">
 <!ENTITY  font.langGroup.japanese                 "جاپانی">
 <!ENTITY  font.langGroup.trad-chinese             "روایتی چینی (تائیوان)">
 <!ENTITY  font.langGroup.simpl-chinese            "آسان کردہ چینی">
 <!ENTITY  font.langGroup.trad-chinese-hk          "روایتی چینی (ہانگ کانگ)">
 <!ENTITY  font.langGroup.korean                   "کوریائی">
 <!ENTITY  font.langGroup.cyrillic                 "سیریلک">
-<!ENTITY  font.langGroup.baltic                   "بلتائی">
 <!ENTITY  font.langGroup.el                       "یونانی">
-<!ENTITY  font.langGroup.turkish                  "ترکی">
-<!ENTITY  font.langGroup.unicode                  "دیگر زبانیں">
+<!ENTITY  font.langGroup.other                    "دیگرتحریر کرنے کے نظام">
 <!ENTITY  font.langGroup.thai                     "تھائی">
 <!ENTITY  font.langGroup.hebrew                   "عبرانی">
 <!ENTITY  font.langGroup.arabic                   "عربی">
@@ -50,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "گورمکھی">
 <!ENTITY  font.langGroup.khmer                    "خمیر">
 <!ENTITY  font.langGroup.malayalam                "ملیالم">
+<!ENTITY  font.langGroup.math                     "ریاضی">
 <!ENTITY  font.langGroup.oriya                    "اوريا">
 <!ENTITY  font.langGroup.telugu                   "تلگو">
 <!ENTITY  font.langGroup.kannada                  "کاناڈا">
@@ -67,16 +64,16 @@
 <!ENTITY  allowPagesToUse.label                   "صفحات کو میرے اوپر کیے گئے انتخابات کے بجائے اپنے فانٹ چننے دیں">
 <!ENTITY  allowPagesToUse.accesskey               "د">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "ورثہ مواد کے لیے کریکٹر ضابطہ بندی">
-<!ENTITY languages.customize.Fallback.label       "طے شدہ کریکٹر ضابطہ بندی:">
-<!ENTITY languages.customize.Fallback.accesskey   "ک">
-<!ENTITY languages.customize.Fallback.desc        "یہ کریکٹر ضابطہ بندی اس ورثہ مواد کے لیے استعمال کی جاتی ہے جو اپنی ضابطہ بندی نہیں بتاتا۔">
+<!ENTITY languages.customize.Fallback2.grouplabel "ورثہ مواد کے لیے متن کی ضابطہ بندی">
+<!ENTITY languages.customize.Fallback2.label      "فالبیک متنضابطہ بندی:">
+<!ENTITY languages.customize.Fallback2.accesskey  "م">
+<!ENTITY languages.customize.Fallback2.desc       "یہ کریکٹر ضابطہ بندی اس ورثہ مواد کے لیے استعمال کی جاتی ہے جو اپنی ضابطہ بندی نہیں بتاتا۔">
 
 <!ENTITY languages.customize.Fallback.auto        "موجودہ محل وقوع کے لیے طےشدہ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "عربی">
-<!ENTITY languages.customize.Fallback.baltic      "شمالی یورپی">
+
 <!ENTITY languages.customize.Fallback.ceiso       "وسطی یورپ، ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "وسطی یورپی، Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -103,7 +100,6 @@
 <!ENTITY languages.customize.Fallback.thai        "تھائی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "ترکی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vietnamese">

@@ -18,11 +18,28 @@
 
 <!ENTITY importButton.accesskey     "د">
 
+<!ENTITY visibilityToggle.tooltip   "سٹائل شیٹ کی نمائش تبدیل کریں">
 
 <!ENTITY saveButton.label           "محفوظ کریں">
 
 <!ENTITY saveButton.accesskey       "م">
 
+<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
+     menu item to toggle showing original sources in the editor. -->
+
+<!ENTITY showOriginalSources.label     "اصل ماخذ دکھائیں">
+<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
+     the menu item to toggle showing original sources in the editor. -->
+
+<!ENTITY showOriginalSources.accesskey  "د">
+<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
+     menu item to toggle showing @media rule shortcuts in a sidebar. -->
+<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
+     the menu item to toggle showing the @media sidebar. -->
+<!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
+     in each stylesheet editor sidebar. -->
+
+<!ENTITY editorTextbox.placeholder  "یہاں پر CSS لکھیں۔ ">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
 
@@ -35,3 +52,5 @@
 <!ENTITY noStyleSheet-tip-action.label "نیا طرز ورق ملائیں">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "؟">
+<!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
+     context menu item that opens a stylesheet in a new tab -->

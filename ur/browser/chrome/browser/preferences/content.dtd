@@ -6,9 +6,19 @@
 
 <!ENTITY  blockPopups.label           "پوپ اپ وینڈوز بلاک کیجیے">
 <!ENTITY  blockPopups.accesskey       "ب">
+
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "استثنیات…">
 <!ENTITY  popupExceptions.accesskey   "ا">
 
+<!ENTITY  fontsAndColors.label        "فانٹ اور رنگ">
 
 <!ENTITY  defaultFont.label           "طےشدہ فانٹ:">
 <!ENTITY  defaultFont.accesskey       "ط">
@@ -26,3 +36,24 @@
 <!ENTITY chooseLanguage.label         "صفحہ دکھانے کے لیے اپنی زبان چنیں">
 <!ENTITY chooseButton.label           "انتخاب کریں…">
 <!ENTITY chooseButton.accesskey       "ا">
+
+<!ENTITY translateWebPages.label      "ترجمہ کریں ویب کے مواد کا">
+<!ENTITY translateWebPages.accesskey  "ت">
+<!ENTITY translateExceptions.label    "استثنیات ...">
+<!ENTITY translateExceptions.accesskey "ا">
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -  The translations for these strings should match the translations in
+  -  browser/translation.dtd
+  -->
+
+<!ENTITY translation.options.attribution.beforeLogo "کی طرف سے ترجمے">
+<!ENTITY translation.options.attribution.afterLogo "">
+
+<!ENTITY  drmContent.label             "DRM مواد">
+
+<!ENTITY  playDRMContent.label         "DRM مواد چلائیں ">
+<!ENTITY  playDRMContent.accesskey     "چ">
+

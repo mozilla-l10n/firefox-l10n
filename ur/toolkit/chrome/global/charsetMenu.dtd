@@ -2,21 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY charsetMenu.label             "کریکٹر ضابطہ بندی">
-<!ENTITY charsetMenu.accesskey         "ک">
-<!-- The strings below are unused on m-c. They will be removed post-Australis -->
-
-
-<!ENTITY charsetMenuAutodet.label      "خود-کار کھوج">
-<!-- A reserved for Arabic -->
-<!ENTITY charsetMenuAutodet.accesskey  "ک">
-
-<!ENTITY charsetMenuAutodet.off.label     "(off)">
-<!ENTITY charsetMenuAutodet.off.accesskey "o">
-<!ENTITY charsetMenuAutodet.ja.label      "جاپانی">
-<!ENTITY charsetMenuAutodet.ja.accesskey  "ج">
-<!ENTITY charsetMenuAutodet.ru.label      "روسی">
-<!ENTITY charsetMenuAutodet.ru.accesskey  "ر">
-<!ENTITY charsetMenuAutodet.uk.label      "یوکرائینی">
-<!ENTITY charsetMenuAutodet.uk.accesskey  "ی">
-
+<!ENTITY charsetMenu2.label            "متن خفیہکاری">
+<!ENTITY charsetMenu2.accesskey        "ک">

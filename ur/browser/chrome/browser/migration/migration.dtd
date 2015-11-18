@@ -11,14 +11,22 @@
 
 <!ENTITY importFromIE.label             "Microsoft انٹرنیٹ ایکسپلورر ">
 <!ENTITY importFromIE.accesskey         "ا">
+<!ENTITY importFromEdge.label           "مائیکروسافٹ عیدج">
+<!ENTITY importFromEdge.accesskey       "ع">
 <!ENTITY importFromNothing.label        "کچھ درآمد نہ کریں ">
 <!ENTITY importFromNothing.accesskey    "ن">
 <!ENTITY importFromSafari.label         "سفاری ">
 <!ENTITY importFromSafari.accesskey     "س">
+<!ENTITY importFromCanary.label         "کروم کینری">
+<!ENTITY importFromCanary.accesskey     "ی">
 <!ENTITY importFromChrome.label         "کروم ">
 <!ENTITY importFromChrome.accesskey     "ک">
+<!ENTITY importFromChromium.label       "کرومیم">
+<!ENTITY importFromChromium.accesskey   "م">
 <!ENTITY importFromFirefox.label        "فائر فاکس ">
 <!ENTITY importFromFirefox.accesskey    "ف">
+<!ENTITY importFrom360se.label          "360 قابل بھروسا براؤزر">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "کوئی بھی نشانیوں، سابقات یا پاس ورڈ کوائف کا حامل پروگرام نہیں ملا۔ ">
 
@@ -35,3 +43,4 @@
 <!ENTITY done.title                     "درآمد مکمل ">
 <!ENTITY done.label                     "مندرجہ ذیل اشیا کامیابی سے درآمد ہو گئیں: ">
 
+<!ENTITY closeSourceBrowser.label       "جاری رکھنے سے پہلے براہ کرم یقینی بنائیں کے منتخب براؤزر بند کر دیا ہے۔">

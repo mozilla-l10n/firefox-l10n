@@ -49,6 +49,10 @@
   -  button that toggles all breakpoints for all sources. -->
 
 <!ENTITY debuggerUI.sources.toggleBreakpoints "تمام بریک پوائنٹ اہل بنائیں/نا اہل بنائیں">
+<!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
+  -  tooltip for the button that toggles the promise debugger. -->
+
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "وعدہ ٹھیک کرنے والا ٹوگل کریں">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
@@ -70,7 +74,7 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "پکڑے گئے استثنیات کو نظر انداز کریں">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "چ">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -94,6 +98,10 @@
 
 <!ENTITY debuggerUI.showOriginalSource           "اصل ماخذ دکھائیں">
 <!ENTITY debuggerUI.showOriginalSource.accesskey "ہ">
+<!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
+  -  the checkbox that toggles whether sources that we suspect are minified are
+  -  automatically black boxed or not. -->
+<!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -159,6 +167,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.workers        "مزدور">
 <!ENTITY debuggerUI.tabs.sources        "ماخذ">
 <!ENTITY debuggerUI.tabs.traces         "نشانات">
 <!ENTITY debuggerUI.tabs.callstack      "کال تھاک">
@@ -192,3 +201,17 @@
 <!ENTITY debuggerUI.stepping.stepIn2    "وی کے٫نیم وقفہ">
 <!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
 <!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
+<!-- LOCALIZATION NOTE (debuggerUI.context.newTab):  This is the label
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  debugger sources side menu. This should be the same as
+  -  netmonitorUI.context.newTab  -->
+
+<!ENTITY debuggerUI.context.newTab           "نئی ٹیب میں کھولیں">
+<!ENTITY debuggerUI.context.newTab.accesskey "O">
+<!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
+  -  on the context menu that copies the selected request's url. This should be
+  -  the same as netmonitorUI.context.copyUrl -->
+
+<!ENTITY debuggerUI.context.copyUrl           "یو ار ایل نقل کریں">
+<!ENTITY debuggerUI.context.copyUrl.accesskey "C">
+<!ENTITY debuggerUI.context.copyUrl.key "C">

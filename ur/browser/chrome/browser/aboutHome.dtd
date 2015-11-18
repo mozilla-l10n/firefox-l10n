@@ -10,8 +10,6 @@
 
 
 <!ENTITY abouthome.pageTitle "&brandFullName; ابتدائی صفحہ">
-
-<!ENTITY abouthome.searchEngineButton.label "تلاش کریں">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -26,8 +24,16 @@
 
 <!ENTITY abouthome.bookmarksButton.label "کتابی نشانات">
 <!ENTITY abouthome.historyButton.label   "تاریخچہ">
-<!ENTITY abouthome.settingsButton.label  "سیٹنگیں">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "اختیارات">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "ترجیحات">
 <!ENTITY abouthome.addonsButton.label    "ایڈ اون">
-<!ENTITY abouthome.appsButton.label      "مارکیٹ">
+<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
+     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
+     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
+<!ENTITY abouthome.appsButton2.label     "ایپ">
 <!ENTITY abouthome.downloadsButton.label "ڈاؤن لوڈ">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

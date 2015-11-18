@@ -13,6 +13,7 @@
 <!ENTITY port       "دہانہ:">
 <!ENTITY connect    "جڑیں">
 <!ENTITY connecting "جوڑ رہا ہے…">
+<!ENTITY availableAddons "دستیاب بعید ایڈ اون">
 <!ENTITY availableTabs "دستیاب شدہ بعید ٹیبیں:">
 <!ENTITY availableProcesses "دستیاب شدہ بعید عمل کاری:">
 <!ENTITY connectionError "نقص:">
@@ -22,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "Firefox Developer Tools بعید آلات (جیسے کہ Firefox for Android اور Firefox OS) کو ٹھیک کرنے میں مدد دیتا ہے۔ دیکھ لیں کہ آپ نے بعید آلے میں 'Remote debugging' کا اختیار آن کیا ہوا ہے۔ مزید کے لیے دیکھیں از ">
 <!ENTITY remoteDocumentation "دستاویزکاری">
 <!ENTITY remoteHelpSuffix ".">
 

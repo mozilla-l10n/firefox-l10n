@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "استثنیات">
-<!ENTITY window.width                 "36em">
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "سائٹ">
 <!ENTITY treehead.status.label        "حالت">
@@ -21,6 +21,8 @@
 <!ENTITY allow.accesskey              "ہ">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "بند کریں">
-<!ENTITY button.close.accesskey       "ب">
+<!ENTITY button.cancel.label          "منسوخ کریں">
+<!ENTITY button.cancel.accesskey      "م">
+<!ENTITY button.ok.label              "تبدیلیاں محفوظ کریں">
+<!ENTITY button.ok.accesskey          "م">
 

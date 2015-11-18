@@ -16,8 +16,8 @@
 <!ENTITY propertiesButton.accesskey "خ">
 <!ENTITY descText.label "پرنٹر تصریح:">
 <!ENTITY printer.label "پرنٹر">
-<!ENTITY printerInput.label "نام پرنٹر:">
-<!ENTITY printerInput.accesskey "ن">
+<!ENTITY printerInput.label "پرنٹر کا نام:">
+<!ENTITY printerInput.accesskey "پ">
 
 <!ENTITY printrangeGroup.label "چھپائی کی حد">
 <!ENTITY allpagesRadio.label "تمام صفحات">
@@ -40,5 +40,5 @@
 <!ENTITY aslaidoutRadio.accesskey "ل">
 <!ENTITY selectedframeRadio.label  "منتخب شدہ فریم">
 <!ENTITY selectedframeRadio.accesskey  "ف">
-<!ENTITY eachframesepRadio.label  "ہر فریم الگ الگ">
+<!ENTITY eachframesepRadio.label  "ہر کوئ فریم الگ الگ">
 <!ENTITY eachframesepRadio.accesskey  "ہ">
