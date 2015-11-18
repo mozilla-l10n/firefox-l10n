@@ -344,10 +344,6 @@
 <!ENTITY doorhanger_login_select_action_text "Wybierz inne">
 <!ENTITY doorhanger_login_select_title "Kopiuj hasło dla">
 
-<!ENTITY pref_titlebar_mode2 "Pasek adresu">
-<!ENTITY pref_titlebar_mode_title "Tytuł strony">
-<!ENTITY pref_titlebar_mode_url "Adres strony">
-
 <!ENTITY pref_magnifying_glass_enabled "Powiększanie małych obszarów">
 <!ENTITY pref_magnifying_glass_enabled_summary "Zwiększanie odnośników i pól formularzy po stuknięciu obok nich">
 
