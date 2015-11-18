@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Imiqathango yenkonzo">
 <!ENTITY fxaccount_status_linkprivacy "Isaziso sabucala">
 <!ENTITY fxaccount_status_more "Yongeza&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Susa i-Akhawunti ye-Firefox?">
 <!ENTITY fxaccount_remove_account_dialog_message "I-&brandShortName; izakuyeka ukusynka ne-akhawunti yakho, kodwa ayizokucima ukubhrawuza kwakho">

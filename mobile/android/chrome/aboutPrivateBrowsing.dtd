@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "UkwiBhrawuza Yabucala">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "I-&brandShortName; ibhloka iinxalenye zamaphepha ezinokutreka ukubhrawuza kwakho.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Asisayi kukhumbula  nayiphi na imbali, kodwa sidawnlowude iifayile neebhukmakhi ezintsha zisaya kugcinwa kwisixhobo sakho.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->

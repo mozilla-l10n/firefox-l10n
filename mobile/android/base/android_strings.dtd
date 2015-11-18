@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Thumela le thebhu kwesinye isixhobo esiqhagamshelweyo.">
+
 <!ENTITY pref_category_search3 "Khangela">
 <!ENTITY pref_category_search_summary "Lungiselela izikhangeli zakho">
 <!ENTITY pref_category_display "Bonisa">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zivunyelwe, ngaphandle kweqela lesi-3">
 <!ENTITY pref_cookies_disabled "Ivaliwe">
 
-
+<!ENTITY pref_tap_to_load_images_title "Cofa ukuze ulowude imifanekiso.">
+<!ENTITY pref_tap_to_load_images_summary2 "Lowuda imifanekiso kuphela xa uyicofa ixesha elide">
 
 <!ENTITY pref_tracking_protection_title "Ukhuseleko lokutreka">
-
+<!ENTITY pref_tracking_protection_summary3 "Ivulwe kuBhrawuzo Lwabucala">
 <!ENTITY pref_donottrack_title "Musa ukulanda umkhondo">
 <!ENTITY pref_donottrack_summary "I-&brandShortName; iza kuxelela isayithi ukuba akufuni ukulandelwa">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Ezivunyelweyo">
+<!ENTITY pref_tracking_protection_enabled_pb "Ivulwe kuBhrawuzo Lwabucala">
+<!ENTITY pref_tracking_protection_disabled "Ivaliwe">
 
 <!ENTITY tracking_protection_prompt_title "Ngoku inoKhuseleko Lokutreka">
 <!ENTITY tracking_protection_prompt_text "Bhloka ngokuzimisela ii-elementi zokutreka ukuze ungazikhathazi nganto">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Ungqamaniso">
 <!ENTITY pref_sync_summary2 "Ngqamanisa iithebhu zakho, iibhukmakhi, iipasiwedu, imbali">
 <!ENTITY pref_search_suggestions "Bonisa iingcamango zokukhangela">
-
+<!ENTITY pref_history_search_suggestions "Bonisa imbali yokhangelo">
 <!ENTITY pref_import_android "Ngenisa uthatha kwi-Android">
 <!ENTITY pref_import_android_summary "Ngenisa iibhukmakhi nembali evela kwibhrawza yendalo">
 <!ENTITY pref_private_data_history2 "Imbali yokubhrawuza">
@@ -585,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Khusela Uqhagamshelo">
 <!ENTITY identity_connection_insecure "Uqhagamshelo olungakhuselekanga">
-
+<!ENTITY identity_login_insecure "Eli phepha alikhuselekanga yaye ukuloga kwakho ungene kusemngciphekweni.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "I-&brandShortName; ibhloke ii-elementi ezingakhuselekanga kweli phepha.">
@@ -705,6 +709,7 @@ esuka kwi-Android">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Le linki iya kuvuleka kwi-&formatS; Ngaba uqinisekile ufuna ukuphuma kuBhrawuzo Lwabucala?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -712,6 +717,7 @@ esuka kwi-Android">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Phuma kuBhrawuzo Lwabucala?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
