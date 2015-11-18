@@ -7,6 +7,11 @@
 <!ENTITY  blockPopups.label           "Φραγή αναδυόμενων παραθύρων">
 <!ENTITY  blockPopups.accesskey       "Φ">
 
+<!ENTITY  notificationsPolicy.label            "Ειδοποιήσεις">
+<!ENTITY  notificationsPolicyLearnMore.label   "Μάθετε περισσότερα">
+<!ENTITY  notificationsPolicyDesc3.label       "Επιλέξτε ποιες ιστοσελίδες μπορούν να σας στέλνουν ειδοποιήσεις">
+<!ENTITY  notificationsPolicyButton.label      "Επιλογή…">
+<!ENTITY  notificationsDoNotDisturb.label      "Μην ενοχλείτε">
 
 <!ENTITY  popupExceptions.label       "Εξαιρέσεις...">
 <!ENTITY  popupExceptions.accesskey   "ξ">

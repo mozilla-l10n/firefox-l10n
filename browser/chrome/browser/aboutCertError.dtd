@@ -14,6 +14,8 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "Η τρέχουσα σύνδεση στην σελίδα δεν είναι έμπιστη">
 
 <!-- These are going to be used for the updated design in Bug 1207107 -->
+<!ENTITY certerror.pagetitle1  "Μη ασφαλής σύνδεση">
+<!ENTITY certerror.longpagetitle1 "Η σύνδεση δεν είναι ασφαλής">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
@@ -28,6 +30,10 @@ was trying to connect. -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Ο ιδιοκτήτης του <span class='hostname'/> δεν έχει ρυθμίσει την ιστοσελίδα του σωστά.  Για να προστατευτούν οι πληροφορίες σας, ο &brandShortName; δεν συνδέθηκε στην συγκεκριμένη ιστοσελίδα.">
+<!ENTITY certerror.returnToPreviousPage.label "Πίσω">
+<!ENTITY certerror.learnMore "Μάθετε περισσότερα…">
+<!ENTITY certerror.advanced.label "Για προχωρημένους">
 
 <!ENTITY certerror.whatShouldIDo.heading "Τι θέλετε να γίνει;">
 <!ENTITY certerror.whatShouldIDo.content "Αν συνήθως συνδέεστε σε αυτή την σελίδα

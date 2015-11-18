@@ -41,6 +41,7 @@
 
 <!ENTITY popup.label                     "Άνοιγμα αναδυόμενων παραθύρων">
 
+<!ENTITY desktop-notification.label      "Εμφάνιση ειδοποιήσεων">
 <!ENTITY camera.label                    "Use the Camera">
 <!ENTITY microphone.label                "Use the Microphone">
 
