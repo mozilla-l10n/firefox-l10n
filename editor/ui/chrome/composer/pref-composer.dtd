@@ -8,6 +8,7 @@
 
 
 <!ENTITY  pref.composer.title           "Composer">
+<!ENTITY  recentFiles.title             "Neseno lapu izvēlne">
 
 
 
@@ -18,8 +19,7 @@
 
 
 
-
-
+<!ENTITY  composerEditing.label         "Rediģēšana">
 
 
 

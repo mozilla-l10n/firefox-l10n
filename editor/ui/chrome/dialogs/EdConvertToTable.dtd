@@ -4,9 +4,12 @@
 <!-- Window title -->
 
 
+<!ENTITY windowTitle.label "Pārveidot par tabulu">
 
 
-
+<!ENTITY commaRadio.label      "Komats">
+<!ENTITY spaceRadio.label      "Atstarpe">
+<!ENTITY otherRadio.label      "Cita rakstzīme:">
 
 
 

@@ -8,7 +8,7 @@
 <!ENTITY openFileCmd.key "A">
 
 
-
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Nesenās lapas">
 <!ENTITY fileRecentMenu.accesskey "N">
 <!ENTITY saveCmd.label "Saglabāt">
@@ -19,7 +19,7 @@
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "k">
 <!ENTITY publishCmd.label "Publicēt">
 <!ENTITY publishCmd.accesskey "b">
-
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publicēt kā…">
 <!ENTITY publishAsCmd.accesskey "t">
 
@@ -27,6 +27,8 @@
 <!-- Edit menu items -->
 
 <!-- Toolbar buttons/items -->
+
+<!ENTITY newToolbarCmd.label "Jauns">
 
 <!ENTITY openToolbarCmd.label "Atvērt">
 <!ENTITY openToolbarCmd.tooltip "Atvērt lokālu failu">
