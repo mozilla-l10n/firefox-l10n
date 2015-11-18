@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Bu sekmeyi bağlı olan başka bir cihaza gönder">
+
 <!ENTITY pref_category_search3 "Arama">
 <!ENTITY pref_category_search_summary "Arama sağlayıcılarınızı özelleştirin">
 <!ENTITY pref_category_display "Görünüm">
@@ -214,7 +216,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
 <!ENTITY pref_cookies_disabled "Devre dışı">
 
-
+<!ENTITY pref_tap_to_load_images_title "Görselleri yüklemek için dokunun">
+<!ENTITY pref_tap_to_load_images_summary2 "Görselleri yalnızca uzun basınca yükle">
 
 <!ENTITY pref_tracking_protection_title "İzlenme koruması">
 
@@ -292,7 +295,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Sekmelerinizi, yer imlerinizi, hesaplarınızı, geçmişinizi eşitleyin">
 <!ENTITY pref_search_suggestions "Arama önerilerini göster">
-
+<!ENTITY pref_history_search_suggestions "Arama geçmişini göster">
 <!ENTITY pref_import_android "Android\u0027den al">
 <!ENTITY pref_import_android_summary "Yer imlerini ve geçmişi yerel tarayıcıdan içe aktar">
 <!ENTITY pref_private_data_history2 "Tarama geçmişi">
@@ -712,6 +715,7 @@ alınıyor">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Gizli Gezinti\u0027den çıkılsın mı?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
