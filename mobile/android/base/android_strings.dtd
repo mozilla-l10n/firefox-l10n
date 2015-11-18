@@ -65,6 +65,7 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY pref_learn_more "Ulteriuras infurmaziuns">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
