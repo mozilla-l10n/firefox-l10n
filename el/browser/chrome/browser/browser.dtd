@@ -189,12 +189,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Εκτύπωση">
 <!ENTITY printButton.tooltip          "Εκτύπωση αυτής της σελίδας">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Πληροφορίες ιστοσελίδας">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Δείτε μία ειδοποίηση">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Δείτε το αίτημα διαμοιρασμού τοποθεσίας">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Δείτε το μήνυμα εγκατάστασης του πρόσθετου">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Διαχειριστείτε τα στοιχεία σύνδεσής σας">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Επιλέξτε εάν θέλετε να αποθηκεύσετε τον κωδικό πρόσβασής σας">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Διαχείριση χρήσης του πρόσθετου στη συγκεκριμένη σελίδα">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Διαχείριση διαμοιρασμού της κάμερας ή/και του μικροφώνου σας με τη συγκεκριμένη σελίδα">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Μοιράζεστε την κάμερα ή/και το μικρόφωνο σας με τη συγκεκριμένη σελίδα">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Διαχείριση διαμοιρασμού του μικροφώνου με τη συγκεκριμένη σελίδα">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Μοιράζεστε το μικρόφωνο σας με την συγκεκριμένη σελίδα">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Διαχείριση διαμοιρασμού του παραθύρου ή της οθόνης σας με τη συγκεκριμένη σελίδα">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Μοιράζεστε το παράθυρο ή την οθόνη σας με τη συγκεκριμένη σελίδα">
 
+<!ENTITY urlbar.translateNotificationAnchor.label       "Μετέφρασε αυτή τη σελίδα">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Διαχείριση μετάφρασης της σελίδας">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Διαχείριση της χρήσης του λογισμικού DRM">
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
 
 <!ENTITY searchItem.title             "Αναζήτηση">
 
@@ -235,6 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Εφαρμογές">
 <!ENTITY webapps.accesskey            "p">
+<!ENTITY loopMenuItem.label           "Ξεκινήστε μια συνομιλία…">
 
 <!ENTITY webDeveloperMenu.label       "Εργαλεία Προγραμματιστή">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -312,6 +330,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "File"> 
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY userContextPersonal.label        "Προσωπικό">
+<!ENTITY userContextWork.label            "Εργασία">
+<!ENTITY userContextBanking.label         "Τραπεζικές υπηρεσίες">
+<!ENTITY userContextShopping.label        "Αγορές">
 <!ENTITY newNavigatorCmd.label        "Νέο παράθυρο">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -704,7 +726,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
 <!ENTITY identity.connectionFile "Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.">
+<!ENTITY identity.connectionVerified1 "Είστε συνδεδεμένοι με ασφάλεια σε αυτό τη σελίδα, η οποία διευθύνεται από:">
 <!ENTITY identity.connectionInternal "Αυτή είναι μια ασφαλής σελίδα του &brandShortName;.">
+<!ENTITY identity.insecureLoginForms "Η σύνδεση σας μπορεί να τίθεται σε κίνδυνο.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Ο &brandShortName; έχει εμποδίσει τμήματα αυτής της σελίδας που δεν είναι ασφαλή.">
@@ -714,6 +738,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Η σύνδεσή σας σε αυτή τη σελίδα δεν είναι ασφαλής. Πληροφορίες που υποβάλετε μπορεί να είναι ορατές σε τρίτους (όπως κωδικοί, μηνύματα, πιστωτικές κάρτες κ.α. ).">
+<!ENTITY identity.description.insecureLoginForms "Τα στοιχεία σύνδεσης που εισάγατε στη σελίδα δεν είναι ασφαλή και μπορεί να τεθούν σε κίνδυνο.">
 <!ENTITY identity.description.weakCipher "Η σύνδεση σας σε αυτή τη σελίδα χρησιμοποιεί μη ισχυρή κρυπτογράφηση και δεν είναι ασφαλής.">
 <!ENTITY identity.description.weakCipher2 "Τρίτοι μπορούν να δουν τις πληροφορίες σας ή να τροποποιήσουν την συμπεριφορά αυτής της ιστοσελίδας.">
 <!ENTITY identity.description.activeBlocked "Ο &brandShortName; έχει εμποδίσει τμήματα αυτής της σελίδας που δεν είναι ασφαλή.">
@@ -732,6 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Περισσότερες πληροφορίες">
 
 <!ENTITY identity.permissions "Δικαιώματα">
+<!ENTITY identity.permissionsEmpty "Δεν έχετε δώσει ειδικά δικαιώματα σε αυτή τη σελίδα.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -742,6 +768,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "Είσοδος στο &syncBrand.shortName.label; …">
 <!ENTITY syncSyncNowItem.label        "Συγχρονισμός τώρα">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Επανασύνδεση στο &syncBrand.shortName.label;…">
