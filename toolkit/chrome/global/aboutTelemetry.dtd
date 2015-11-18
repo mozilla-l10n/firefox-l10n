@@ -39,6 +39,9 @@ Elija ping:
 <!ENTITY aboutTelemetry.showOlderPing "
 Ping más antiguo &gt;&gt;
 ">
+<!ENTITY aboutTelemetry.rawPingData "
+Datos sin procesar del ping data ...
+">
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Semana
 ">
@@ -99,4 +102,7 @@ Ping
 ">
 <!ENTITY aboutTelemetry.filterText "
   Filtrar (cadenas o /regexp/)
+">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Contenido
 ">
