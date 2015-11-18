@@ -3,4 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- New Tag Dialog -->
 
-
+<!ENTITY newTagDialog.title      "Yeni Etiket Yarat">
+<!ENTITY name.label              "Teq Adı:">
+<!ENTITY name.accesskey          "T">
