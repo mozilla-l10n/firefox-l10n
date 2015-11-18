@@ -70,7 +70,7 @@
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_general "General">
-<!ENTITY pref_category_general_summary "Inicio, idioma, tamaño, navegación en pant. completa">
+<!ENTITY pref_category_general_summary2 "Inicio, idioma, barra URL">
 <!ENTITY pref_category_language "Idioma">
 <!ENTITY pref_category_language_summary "Cambiar el idioma de su navegador">
 <!ENTITY pref_browser_locale "Idioma del navegador">
@@ -89,11 +89,11 @@
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar sus buscadores">
 <!ENTITY pref_category_accessibility "Accesibilidad">
-<!ENTITY pref_category_accessibility_summary "Tamaño del texto, entrada por voz">
+<!ENTITY pref_category_accessibility_summary2 "Tamaño, entrada por voz">
 <!ENTITY pref_category_privacy_short "Privacidad">
-<!ENTITY pref_category_privacy_summary2 "Controlar credenciales, cookies, rastreo, datos">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Acerca de &brandShortName;, FAQ, elección de datos">
+<!ENTITY pref_category_privacy_summary3 "Rastreo, cookies, elección de datos">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Acerca de &brandShortName;, FAQ, su opinión">
 <!ENTITY pref_category_datareporting "Elección de datos">
 <!ENTITY pref_learn_more "Saber más">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
@@ -103,7 +103,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
 <!ENTITY pref_search_hint "TRUCO: añada cualquier sitio web a su lista de buscadores con una pulsación larga en su campo de búsqueda y luego pulsando el icono &formatI;.">
 <!ENTITY pref_category_advanced "Avanzado">
-<!ENTITY pref_category_advanced_summary "Importar, plugins, herr. desarrolladores">
+<!ENTITY pref_category_advanced_summary2 "Restaurar pestañas, plugins, herr. desarrollo">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota mediante USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota mediante wifi">
@@ -138,8 +138,10 @@
 <!ENTITY pref_cookies_accept_all "Activadas">
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, salvo las de terceras partes">
 <!ENTITY pref_cookies_disabled "Desactivadas">
-<!ENTITY pref_tap_to_load_images_title "Toque-para-cargar imágenes">
-<!ENTITY pref_tap_to_load_images_summary2 "Cargar imágenes solo cuando haga una pulsación larga sobre ellas">
+<!ENTITY pref_tap_to_load_images_title2 "Mostrar imágenes">
+<!ENTITY pref_tap_to_load_images_enabled "Siempre">
+<!ENTITY pref_tap_to_load_images_data "Sólo bajo Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled "Nunca">
 <!ENTITY pref_tracking_protection_title "Protección contra rastreo">
 <!ENTITY pref_tracking_protection_summary3 "Activado en navegación privada">
 <!ENTITY pref_donottrack_title "No rastrear">
@@ -164,8 +166,8 @@
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
-<!ENTITY pref_clear_private_data_now "Limpiar datos privados ahora">
-<!ENTITY pref_clear_on_exit_title2 "Limpiar al salir">
+<!ENTITY pref_clear_private_data "Limpiar datos privados">
+<!ENTITY pref_clear_on_exit_title3 "Limpiar datos privados al salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente sus datos cada vez que seleccione \u0022Salir\u0022 desde el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccione qué datos quiere eliminar">
 <!ENTITY pref_plugins "Plugins">
@@ -173,7 +175,7 @@
 <!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
 <!ENTITY pref_plugins_disabled "Desactivados">
 <!ENTITY pref_text_size "Tamaño del texto">
-<!ENTITY pref_restore "Pestañas">
+<!ENTITY pref_restore_tabs "Restaurar pestañas">
 <!ENTITY pref_restore_always "Restaurar siempre">
 <!ENTITY pref_restore_quit "No restaurar tras salir de &brandShortName;">
 <!ENTITY pref_font_size_tiny "Diminuto">
@@ -189,15 +191,15 @@
 <!ENTITY pref_zoom_force_enabled "Activar siempre tamaño personalizado">
 <!ENTITY pref_zoom_force_enabled_summary "Forzar sobrescritura para que pueda variar el tamaño de cualquier página">
 <!ENTITY pref_voice_input "Entrada por voz">
-<!ENTITY pref_voice_input_summary "Permitir dictado por voz en la barra de título">
+<!ENTITY pref_voice_input_summary2 "Permitir dictado por voz en la barra URL">
 <!ENTITY pref_qrcode_enabled "Lector de códigos QR">
-<!ENTITY pref_qrcode_enabled_summary "Permitir analizador QR en la barra de título">
+<!ENTITY pref_qrcode_enabled_summary2 "Permitir escáner QR en la barra URL">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
-<!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync2 "Conectarse">
 <!ENTITY pref_sync_summary2 "Sincronice sus pestañas, marcadores, credenciales, historial">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_history_search_suggestions "Mostrar historial de búsquedas">
-<!ENTITY pref_import_android "Importar desde Android">
+<!ENTITY pref_import_options "Opciones de importación">
 <!ENTITY pref_import_android_summary "Importar marcadores e historial del navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_searchHistory "Buscar en historial">
@@ -236,7 +238,7 @@
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
 <!ENTITY datareporting_wifi_title2 "Servicio de localización de &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "¡Ayude a &vendorShortName; a mapear el mundo! Comparta la ubicación wifi y móvil aproximada de su dispositivo para mejorar nuestro servicio de geolocalización.">
-<!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
+<!ENTITY pref_update_autodownload3 "Actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Siempre">
@@ -301,13 +303,10 @@
 <!ENTITY doorhanger_login_select_toast_copy_error "No se ha podido copiar la contraseña">
 <!ENTITY doorhanger_login_select_action_text "Seleccionar otro inicio de sesión">
 <!ENTITY doorhanger_login_select_title "Copiar contraseña de">
-<!ENTITY pref_titlebar_mode "Barra de título">
-<!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
-<!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
 <!ENTITY pref_magnifying_glass_enabled "Aumentar áreas pequeñas">
 <!ENTITY pref_magnifying_glass_enabled_summary "Aumentar enlaces y campos de formularios al tocar cerca de ellos">
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
-<!ENTITY pref_scroll_title_bar_summary "Ocultar la barra de título de &brandShortName; al bajar por una página">
+<!ENTITY pref_scroll_title_bar_summary2 "Ocultar la barra de herramientas de &brandShortName; al bajar por una página">
 <!ENTITY pref_tab_queue_title2 "Abrir múltiples enlaces">
 <!ENTITY pref_tab_queue_summary3 "Guardarlos hasta que vuelva a abrir &brandShortName;">
 <!ENTITY page_removed "Página eliminada">
@@ -352,8 +351,8 @@
 <!ENTITY home_most_recent_empty "Los sitios web que ha visitado recientemente se mostrarán aquí.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: usar una &formatS1;pestaña privada nueva&formatS2; no guardará su historial.">
 <!ENTITY home_reading_list_empty "Los artículos que guarde para verlos más tarde aparecerán aquí.">
-<!ENTITY home_reading_list_hint2 "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el icono &formatI; cuando aparezca en la barra de título.">
-<!ENTITY home_reading_list_hint_accessible "TRUCO: guarde artículos en su lista de lectura con una pulsación larga sobre el botón del modo de lectura cuando aparezca en la barra de título.">
+<!ENTITY home_reading_list_hint3 "TRUCO: guarde artículos en su lista de lectura con una pulsación larga en el icono &formatI; cuando aparezca en la barra URL.">
+<!ENTITY home_reading_list_hint_accessible2 "TRUCO: guarde artículos en su lista de lectura con una pulsación larga en el botón del modo de lectura cuando aparezca en la barra URL.">
 <!ENTITY home_default_empty "No se ha podido encontrar contenido para este panel.">
 <!ENTITY home_move_up_to_filter "Volver a &formatS;">
 <!ENTITY home_remote_tabs_title "Pestañas sincronizadas">
@@ -438,16 +437,14 @@
 <!ENTITY intent_uri_private_browsing_prompt "Este enlace se abrirá en &formatS;. ¿Seguro que desea salir de la navegación privada?">
 <!ENTITY intent_uri_private_browsing_multiple_match_title "¿Salir de navegación privada?">
 <!ENTITY devtools_auth_scan_header "Escaneando el código QR mostrado en su otro dispositivo">
-<!ENTITY restriction_disallow_import_settings_title2 "Desactivar \'Importar desde Android\'">
 <!ENTITY restriction_disallow_addons_title2 "Desactivar instalación de complementos">
-<!ENTITY restriction_disallow_devtools_title2 "Desactivar herramientas de desarrollador">
-<!ENTITY restriction_disallow_customize_home_title2 "Desactivar personalización de inicio">
 <!ENTITY restriction_disallow_private_browsing_title2 "Desactivar navegación privada">
 <!ENTITY restriction_disallow_location_services_title2 "Desactivar servicios de localización">
-<!ENTITY restriction_disallow_display_settings_title2 "Desactivar ajustes de visualización">
 <!ENTITY restriction_disallow_clear_history_title2 "Desactivar \'Limpiar historial de navegación\'">
 <!ENTITY restriction_disallow_master_password_title2 "Desactivar contraseña maestra">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Desactivar navegación de invitado">
+<!ENTITY restriction_disallow_advanced_settings_title "Desactivar ajustes avanzados">
+<!ENTITY restriction_disallow_camera_microphone_title "Bloquear cámara y micrófono">
 <!ENTITY bookmarks_about_browser "Firefox: acerca de su navegador">
 <!ENTITY bookmarks_addons "Firefox: personalizar con complementos">
 <!ENTITY bookmarks_support "Ayuda de Firefox">
