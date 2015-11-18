@@ -74,6 +74,7 @@
 <!ENTITY runtimePanel_installsimulator "Installa simulatore">
 <!ENTITY runtimePanel_noadbhelper "Installa ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Il dispositivo non è visibile?">
+<!ENTITY runtimePanel_refreshDevices_label "Aggiorna dispositivi">
 <!ENTITY details_valid_header "valido">
 <!ENTITY details_warning_header "avvisi">
 <!ENTITY details_error_header "errori">
