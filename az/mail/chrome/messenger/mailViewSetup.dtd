@@ -4,5 +4,8 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 
-
+<!ENTITY mailViewSetupTitle.label "Mesaj Görünüş Tənzimləmələri">
+<!ENTITY mailViewHeading.label "Mesaj gönünüş adı:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Bu görünüş seçildiyində ancaq bu mesajları göstər:">
 

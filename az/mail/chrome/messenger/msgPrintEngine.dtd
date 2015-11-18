@@ -6,3 +6,6 @@
      will be the keyboard shortcuts effective in print preview, e.g. Ctrl+P
      -->
 
+
+<!ENTITY printCmd.key "P">
+<!ENTITY closeCmd.key "W">
