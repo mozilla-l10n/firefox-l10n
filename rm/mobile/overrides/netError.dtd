@@ -5,9 +5,12 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "Errur cun chargiar la pagina">
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Impussibel da connectar">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
