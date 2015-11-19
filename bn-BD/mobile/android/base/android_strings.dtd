@@ -221,7 +221,7 @@
 
 <!ENTITY pref_tracking_protection_title "ট্র্যাকিং সুরক্ষা">
 <!ENTITY pref_tracking_protection_summary3 "প্রাইভেট ব্রাউজিং এ সক্রিয় থাকুন">
-<!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
+<!ENTITY pref_donottrack_title "ট্র্যাক করবে না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
 <!ENTITY pref_tracking_protection_enabled "সক্রিয় হয়েছে">
