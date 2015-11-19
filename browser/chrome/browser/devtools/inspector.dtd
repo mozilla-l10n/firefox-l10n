@@ -85,19 +85,26 @@
      - add new attribute
      - edit attribute
      - remove attribute -->
-
+<!ENTITY inspectorAttributeSubmenu.label      "Атрибут">
+<!ENTITY inspectorAttributeSubmenu.accesskey  "А">
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
 
+<!ENTITY inspectorAddAttribute.label        "Добавяне на атрибут">
+<!ENTITY inspectorAddAttribute.accesskey    "Д">
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
      for current node -->
 
+<!ENTITY inspectorEditAttribute.label        "Редактиране на атрибут">
+<!ENTITY inspectorEditAttribute.accesskey    "Р">
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
 
+<!ENTITY inspectorRemoveAttribute.label        "Премахване на атрибут">
+<!ENTITY inspectorRemoveAttribute.accesskey    "П">
 
 <!ENTITY inspector.selectButton.tooltip     "Изберете елемент с мишката">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
@@ -147,3 +154,5 @@
 <!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users
      duplicate the currently selected node. -->
+
+<!ENTITY inspectorDuplicateNode.label       "Д&amp;ублиране на възела">

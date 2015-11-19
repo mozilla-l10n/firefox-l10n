@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Отваряне в изгледа за променливи">
 <!ENTITY openInVarViewCmd.accesskey "п">
-
-
+<!ENTITY storeAsGlobalVar.label "Съхраняване като глобална променлива">
+<!ENTITY storeAsGlobalVar.accesskey "С">

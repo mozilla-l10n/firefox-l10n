@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Автоматично вмъкване на затваряща скоба">
 <!ENTITY prefs_options_keybindings "Клавишни комбинации">
 <!ENTITY prefs_options_keybindings_default "Стандартно">
-
-
+<!ENTITY prefs_options_autosavefiles "Автоматично записване на файловете">
+<!ENTITY prefs_options_autosavefiles_tooltip "Автоматично записване на редактираните файлове преди да се пусне проект">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Таблица на правата">
