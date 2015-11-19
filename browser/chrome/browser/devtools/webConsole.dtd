@@ -63,7 +63,7 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 <!ENTITY btnServerLogging.label       "Serveur">
 <!ENTITY btnServerLogging.tooltip     "Journaliser les messages reçus depuis un serveur web">
-<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerLogging.accesskey   "e">
 <!ENTITY btnServerErrors              "Erreurs">
 <!ENTITY btnServerInfo                "Info">
 <!ENTITY btnServerWarnings            "Avertissements">
