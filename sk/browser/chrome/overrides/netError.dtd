@@ -203,3 +203,10 @@ functionality specific to firefox. -->
      "ssl_error_unsupported_version". -->
 <!ENTITY sslv3Used.longDesc "Rozšírené informácie: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Ďalšie informácie…">
+
+<!ENTITY weakCryptoUsed.title "Vaše pripojenie nie je zabezpečené">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "ssl_error_no_cypher_overlap". -->
+<!ENTITY weakCryptoUsed.longDesc "Rozšírené informácie: ssl_error_no_cypher_overlap">
+<!ENTITY weakCryptoUsed.learnMore "Ďalšie informácie…">
+<!ENTITY weakCryptoAdvanced.title "Porkočilé">
