@@ -195,6 +195,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.translateNotificationAnchor.label       "Preložiť túto stránku">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Spravovať preklad stránky">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
 
