@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "Բեռնումներ">
-<!ENTITY aboutDownloads.header                     "Ձեր Բեռնումները">
-<!ENTITY aboutDownloads.empty                      "Չկան բեռնումներ">
+<!ENTITY aboutDownloads.title                      "Ներբեռնումներ">
+<!ENTITY aboutDownloads.header                     "Ձեր ներբեռնումները">
+<!ENTITY aboutDownloads.empty                      "Չկան նեևբեռնումներ">
 
 <!ENTITY aboutDownloads.open                       "Բացել">
 <!ENTITY aboutDownloads.remove                     "Ջնջել">
