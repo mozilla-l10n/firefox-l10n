@@ -514,7 +514,7 @@ size. -->
 <!ENTITY home_history_title "Պատմություն">
 <!ENTITY home_clear_history_button "Մաքրել դիտարկումների պատմությունը">
 <!ENTITY home_clear_history_confirm "Մաքրե՞լ պատմությունը:">
-<!ENTITY home_bookmarks_empty "Այստեղ ցուցադրվում են էջանիշերը:">
+<!ENTITY home_bookmarks_empty "Այստեղ ցուցադրված են էջանիշերը:">
 <!ENTITY home_closed_tabs_title "Վերջին փակված ներդիրները">
 <!ENTITY home_last_tabs_title "Ձեր բացած վերջին ներդիրները">
 <!ENTITY home_last_tabs_empty "Վերջին այցելությունները:">
@@ -522,7 +522,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Ցուցադրված են Ձեր այցելած վերջին կայքերը:">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Սսս. &formatS1;Նոր գաղտնի դիտարկումը&formatS2; չի պահպանի պատմությունը:">
+<!ENTITY home_most_recent_emptyhint2 "&formatS1;Նոր գաղտնի դիտարկումը&formatS2; չի պահպանի պատմությունը:">
 <!ENTITY home_reading_list_empty "Նյութեր, որոնք պահել եք հետագայում ընթերցելու համար:">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
