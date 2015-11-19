@@ -158,8 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "Prioritat">
 <!ENTITY priorityMenu.accesskey "P">
-
-
+<!ENTITY priorityButton.title "Prioritat">
+<!ENTITY priorityButton.tooltiptext "Canvia la prioritat del missatge">
 <!ENTITY priorityButton.label "Prioritat:">
 <!ENTITY lowestPriorityCmd.label "Mínima">
 <!ENTITY lowestPriorityCmd.accesskey "M">
@@ -215,7 +215,7 @@
 <!ENTITY addressButton.tooltip "Seleccioneu un destinatari d'una Llibreta d'adreces">
 <!ENTITY attachButton.tooltip "Adjunta un fitxer a aquest missatge">
 <!ENTITY spellingButton.tooltip "Comprova l'ortografia de la selecció o del missatge sencer">
-
+<!ENTITY statusLanguageText.tooltip "Llengua de la verificació ortogràfica">
 <!ENTITY saveButton.tooltip "Desa aquest missatge">
 <!ENTITY cutButton.tooltip              "Retalla">
 <!ENTITY copyButton.tooltip             "Copia">
