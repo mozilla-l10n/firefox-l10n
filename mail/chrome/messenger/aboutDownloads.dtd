@@ -17,8 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "Suprimeix de l'historial">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
-
-
-
-
-
+<!ENTITY cmd.clearList.label                       "Buida la llista">
+<!ENTITY cmd.clearList.accesskey                   "B">
+<!ENTITY cmd.clearList.tooltip                     "Elimina totes les entrades de la llista de fitxers desats, excepte les baixades en curs.">
+<!ENTITY cmd.searchDownloads.label                 "Cerca…">
+<!ENTITY cmd.searchDownloads.key                   "F">
