@@ -102,6 +102,8 @@
      size of the text box to the label's right.  (If your string for
      "no results" is longer than the "#### messages" case, then size for that.
      -->
+
+<!ENTITY quickFilterBar.resultsLabel.minWidth "۱۰۰">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
      This is the base of the empty text for the text search box.  We replace
      #1 with the contents of the appropriate
