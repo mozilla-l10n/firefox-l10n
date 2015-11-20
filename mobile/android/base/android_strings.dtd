@@ -220,12 +220,13 @@
 <!ENTITY pref_tap_to_load_images_summary2 "Görselleri yalnızca uzun basınca yükle">
 
 <!ENTITY pref_tracking_protection_title "İzlenme koruması">
-
+<!ENTITY pref_tracking_protection_summary3 "Gizli Gezinti\u0027de etkin">
 <!ENTITY pref_donottrack_title "Beni izleme">
 <!ENTITY pref_donottrack_summary "&brandShortName;sitelere izlenmek istemediğinizi söyleyecek">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Etkin">
+<!ENTITY pref_tracking_protection_enabled_pb "Gizli Gezinti\u0027de etkin">
+<!ENTITY pref_tracking_protection_disabled "Devre dışı">
 
 <!ENTITY tracking_protection_prompt_title "Şimdi İzlenme Koruması ile">
 <!ENTITY tracking_protection_prompt_text "Endişeye yer kalmasın diye, size izleyen öğeleri aktif bir şekilde engelliyoruz.">
@@ -708,6 +709,7 @@ alınıyor">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Bu bağlantı &formatS; uygulamasında açılacak. Gizli Gezinti\u0027den çıkmak istediğinizden emin misiniz?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
