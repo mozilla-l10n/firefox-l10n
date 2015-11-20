@@ -443,7 +443,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "چھوٹے علاقہ کو بڑا کرنا">
-
+<!ENTITY pref_magnifying_glass_enabled_summary "روابط اور فارم قطعوں کو وسعت دیں جب انکے قریب کلک کریں">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -471,6 +471,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "صاف کرنے کے لیے کوئی سیٹنگیں نہیں۔">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "پڑھنے کی چیزوں کی فہرست میں ڈال دیا گیا">
 <!ENTITY reading_list_removed "آپ کے پڑھنے والی فہرست سے صفحہ ہٹا دیا گیا">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -587,16 +589,20 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "قابل بھروسا کنکشن">
 <!ENTITY identity_connection_insecure "ناقابل بھروسا کنکشن">
-
+<!ENTITY identity_login_insecure "یہ صفحہ قابل بھروسا نہیں ہے اور آپ کے لاگ ان زد پزیر ہو سکتا ہیں۔">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; نے اس صفحہ پر ناقابل بھروسا عناصر بلاک کر دیا ہیں۔">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; نے اس صفحہ پر ناقابل بھروسا عناصر بلاک کر دیا ہیں۔">
+<!ENTITY mixed_content_display_loaded1 "اس صفحہ کے حصے قابل بھروسا نہیں ہیں (جیسے کہ نقوش)۔">
+<!ENTITY mixed_content_protection_disabled1 "آپ نے ناقابل بھروسا مواد سے حفاظت کو نا اہل بنا دیا ہے۔">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title "سراغ کاری حفاظت">
 <!ENTITY doorhanger_tracking_state_enabled "اہل بنایا گیا">
 <!ENTITY doorhanger_tracking_state_disabled "نا اہل بنائیں">
-
-
+<!ENTITY doorhanger_tracking_message_enabled1 "آپ کے آن لائن رویہ کی سراغ راہ کی کوشش کرنے والے کو بلاک کر دیا گیا ہے۔">
+<!ENTITY doorhanger_tracking_message_disabled2 "اس صفحہ پر ایسے عنصر موجود ہیں جو آبکی براؤزنگ کا سراغ راہ لگا سکتے ہیں۔">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "اور سیکھیں">
@@ -607,6 +613,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "نجی کوائف ہٹا دیئے گئے">
 <!ENTITY private_data_fail "کچھ نجی کوائف ہٹائے نہیں جا سکے">
 
+<!ENTITY bookmarkhistory_button_import "درآمد کریں">
 <!ENTITY bookmarkhistory_import_both "اینڈروائڈ سے نشانیاں اور سابقات  
  درآمد کر رہا ہے">
 <!ENTITY bookmarkhistory_import_bookmarks "اینڈروائڈ سے نشانیاں 
@@ -702,6 +709,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "یہ ربط &formatS; میں کھلا گا کیا۔ آپکو یقیں ہے آپ نجی براؤزنگ سے خروج کرنا چاہتے ہیں؟">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -709,6 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "نجی براؤزنگ سے خروج کریں؟">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -733,7 +742,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_guest_browsing_title2 "مہمان براؤزنگ کو غیر فعال کریں">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "Firefox: آپکے براؤزر کے بارے میں">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: ایڈ اون سے تخصیص کریں">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: معاونت">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
