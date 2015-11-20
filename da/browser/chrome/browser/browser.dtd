@@ -837,7 +837,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Aktiver beskyttelse">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
-<!ENTITY trackingContentBlocked.disabled.message "Sporingsbeskyttelse er deaktiveret">
+<!ENTITY trackingContentBlocked.disabled.message "Beskyttelse mod sporing er deaktiveret">
 
 <!ENTITY pointerLock.notification.message "Tryk på ESC for at få den vist igen.">
 
