@@ -516,7 +516,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbilde">
 <!ENTITY viewBGImageCmd.accesskey     "b">
-<!ENTITY setDesktopBackgroundCmd.label      "Sett som skrivebordsbakgrunn …">
+<!ENTITY setDesktopBackgroundCmd.label      "Bruk som skrivebordsbakgrunn …">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "m">
 <!ENTITY bookmarkPageCmd2.label       "Bokmerk denne siden">
 <!ENTITY bookmarkThisLinkCmd.label      "Bokmerk denne lenken">

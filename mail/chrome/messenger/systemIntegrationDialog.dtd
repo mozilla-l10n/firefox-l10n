@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Systemintegrasjon">
-<!ENTITY acceptIntegration.label  "Sett som standard">
+<!ENTITY acceptIntegration.label  "Bruk som standard">
 <!ENTITY cancelIntegration.label  "Hopp over integrasjon">
 <!ENTITY cancelIntegration2.label  "Avbryt">
 <!ENTITY defaultClient.intro  "Bruk &brandShortName; som standardprogram for:">
@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Nyhetsgrupper">
 <!ENTITY feeds.label "Nyhetskilder">
 
-<!ENTITY unsetDefault.tooltip "Det er ikke mulig å fjerne &brandShortName; som standardklient fra innenfor &brandShortName;. For å sette et annet program som standard må du bruke dette programmets 'Sett som standard'-dialog.">
+<!ENTITY unsetDefault.tooltip "Det er ikke mulig å fjerne &brandShortName; som standardklient fra innenfor &brandShortName;. For å sette et annet program som standard må du bruke dette programmets 'Bruk som standard'-dialog.">
 
 <!ENTITY checkOnStartup.label "Alltid sjekk dette ved oppstart av &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "A">
