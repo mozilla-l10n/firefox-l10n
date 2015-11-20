@@ -14,7 +14,7 @@
 <!ENTITY privatebrowsingpage.title.normal1 "Gizli taramada değilsiniz">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bu sayfanın gezinti etkinliğinizi izleyebilecek kısımlarını engelliyor.">
-
+<!ENTITY privatebrowsingpage.description.privateDetails "Gezinti geçmişinizi hatırlamayacağız ama indirdiğiniz dosyalar ve yeni yer imleriniz cihazınızda kayıtlı kalacaktır.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
