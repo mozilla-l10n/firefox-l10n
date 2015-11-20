@@ -48,7 +48,7 @@
 <!ENTITY sync.title.success.label "سیٹ اپ مکمل">
 <!ENTITY sync.subtitle.success.label1 "آپ کے کوائف اب پس منظر میں ڈاؤن لوڈ ہو رہے ہیں۔ اپنے اکاؤنٹ کو بندوبست کرنے، یا &brandShortName; کے ساتھ براؤزنگ شروع کرنے کے لیے آپ سیٹنگوں میں جا سکتے ہیں۔">
 <!ENTITY sync.settings.label "سیٹنگیں">
-<!ENTITY sync.subtitle.manage.label1 "آپ کا &syncBrand.fullName.label; اکاؤنٹ پہلے سے سیٹ ہے۔ آپ اپنا اکاؤنٹ بندوبست کرنے، یا &brandShortName;&brandShortName; کو شروع کرنے کے لیے سیٹکگیوں میں جا سکتے ہیں۔">
+<!ENTITY sync.subtitle.manage.label1 "آپ کا &syncBrand.fullName.label; اکاؤنٹ پہلے سے سیٹ اپ ہے۔ آپ اپنا اکاؤنٹ بندوبست کرنے کے لئے سیٹنگیں پر جا سکتے ہے، یا &brandShortName; کو شروع کرے۔">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "پھر کوشش کریں۔">
