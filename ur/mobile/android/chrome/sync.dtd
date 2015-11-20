@@ -3,29 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "ہمہ وار کریں">
-<!ENTITY sync.notconnected          "Not connected">
-<!ENTITY sync.connect               "Connect">
-<!ENTITY sync.connected             "Connected">
+<!ENTITY sync.notconnected          "جڑا ہوا نہیں">
+<!ENTITY sync.connect               "جڑیں">
+<!ENTITY sync.connected             "جڑیں">
 <!ENTITY sync.details               "تفصیلات">
-<!ENTITY sync.deviceName            "This device">
-<!ENTITY sync.disconnect            "Disconnect">
+<!ENTITY sync.deviceName            "یہ آلہ">
+<!ENTITY sync.disconnect            "منقطع کریں">
 <!ENTITY sync.syncNow               "ابھی ہمہ وار کریں">
 
-<!ENTITY sync.setup.title           "Connect to Sync">
-<!ENTITY sync.setup.pair            "عمل میں لانے کے لیے، اپنے دوسرے آلے پر &#x0022;Pair a Device&#x0022; منتخب کریں۔">
-<!ENTITY sync.fallback              "I'm not near my computer…">
-<!ENTITY sync.setup.manual          "Enter your Sync account information">
-<!ENTITY sync.account               "Account Name">
+<!ENTITY sync.setup.title           "Sync سے جڑیں">
+<!ENTITY sync.setup.pair            "عمل میں لانے کے لیے، اپنے دیگر آلہ پر &quot;آلہ جوڑیں&quot; منتخب کریں۔">
+<!ENTITY sync.fallback              "میں اپنے کمپیوٹر کے پاس نہیں ہوں…">
+<!ENTITY sync.setup.manual          "اپنے Sync اکاؤنٹ کی معلومات داخل کریں">
+<!ENTITY sync.account               "نام اکاؤنٹ">
 <!ENTITY sync.password              "پاس ورڈ">
-<!ENTITY sync.recoveryKey           "Recovery Key">
-<!ENTITY sync.customServer          "Use custom server">
-<!ENTITY sync.serverURL             "Server URL">
-<!ENTITY sync.setup.connect         "Connect">
+<!ENTITY sync.recoveryKey           "میری بازیافت کلید">
+<!ENTITY sync.customServer          "مخصوص پیش کار استعمال کریں">
+<!ENTITY sync.serverURL             "پیش کار URL">
+<!ENTITY sync.setup.connect         "جڑیں">
 <!ENTITY sync.setup.cancel          "منسوخ کریں">
-<!ENTITY sync.setup.tutorial        "Show me how">
-<!ENTITY sync.setup.waiting2        "Waiting for other device…">
+<!ENTITY sync.setup.tutorial        "مجھے دکھائیں کیسے">
+<!ENTITY sync.setup.waiting2        "دوسر آلے کا انتظار کر رہا ہے…">
 
 <!ENTITY sync.pair.title            "آلے کا جوڑا بنائیں">
-<!ENTITY sync.pair.description      "اپنی نیا آلہ عمل میں لانے کے لیے، آلے پر &#x0022;Set Up Sync&#x0022; منتخب کریں۔">
+<!ENTITY sync.pair.description      "اپنا نیا آلہ عمل میں لانے کے لیے، آلہ پر &quot;سیٹ اپ ہمہ وار&quot; منتخب کریں۔">
 <!ENTITY sync.setup.close           "بند کریں">
-<!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">
+<!ENTITY sync.setup.waitingdownload "آپ کے کوائف اپ پس منظر میں ڈاؤن لوڈ ہو رہے ہیں۔ آپ اس دریچے کو کسی بھی وقت بند کر سکتے ہیں۔">

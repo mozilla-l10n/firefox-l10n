@@ -3,10 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "ایڈ اون">
-<!ENTITY aboutAddons.header2                    "Your Add-ons">
+<!ENTITY aboutAddons.header2                    "آپ کے ایڈ اون">
 <!ENTITY aboutAddons.options                    "اختیارات">
 
 <!ENTITY addonAction.enable                     "اہل بنائیں">
-<!ENTITY addonAction.disable                    "Disable">
+<!ENTITY addonAction.disable                    "نا اہل بنائیں">
 <!ENTITY addonAction.uninstall                  "ناتنصیب کریں">
 <!ENTITY addonAction.undo                       "کالعدم کریں">
+
+<!ENTITY addonUnsigned.message                  "اس ایڈ-اون کی &brandShortName; کے طور پر تصدیق نہیں کی جا سکی۔">
+<!ENTITY addonUnsigned.learnMore                "اور سیکھیں">

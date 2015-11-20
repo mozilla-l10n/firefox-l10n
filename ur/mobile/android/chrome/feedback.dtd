@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY feedbackHeader2.label          "Feedback Tools">
+<!ENTITY feedbackHeader2.label          "رائے ٹول">
 
-<!ENTITY feedback.communicate.title     "Communicate to Us!">
-<!ENTITY feedback.feedback.title        "Give feedback">
-<!ENTITY feedback.feedback.good         "Good">
-<!ENTITY feedback.feedback.bad          "Bad">
+<!ENTITY feedback.communicate.title     "ہمیں بتائیں!">
+<!ENTITY feedback.feedback.title        "رائے دیں">
+<!ENTITY feedback.feedback.good         "اچھا">
+<!ENTITY feedback.feedback.bad          "برا">
 
-<!ENTITY feedback.tools.title           "Tools">
-<!ENTITY feedback.allowTelemetry.title  "پرفارمنس کوائف بھیجیں ">
-<!ENTITY feedback.forceCompat.title     "Force add-ons compatibility">
-<!ENTITY feedback.errorConsole.title    "Enable the Error Console">
+<!ENTITY feedback.tools.title           "ٹول">
+<!ENTITY feedback.allowTelemetry.title  "پرفارمنس کوائف بھیجیں">
+<!ENTITY feedback.forceCompat.title     "ایڈ اون موازنت لازمی کریں">
+<!ENTITY feedback.errorConsole.title    "نقص کنسول اہل بنائیں">
