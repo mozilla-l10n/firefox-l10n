@@ -432,7 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "‌">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "ವಿಳಾಸವನ್ನು ಹುಡುಕು ಅಥವ ನಮೂದಿಸು">
+<!ENTITY urlbar.placeholder2          "ವಿಳಾಸವನ್ನು ಹುಡುಕು ಅಥವಾ ನಮೂದಿಸು">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು:">
 
