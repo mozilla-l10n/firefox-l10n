@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "فائر فاکس اکاؤنٹ">
 <!ENTITY fxaccount_status_signed_in_as "سائن ان بطور">
-
+<!ENTITY fxaccount_status_manage_account "اکاؤنٹ کا بندوبست کریں">
 <!ENTITY fxaccount_status_auth_server "اکاؤنٹ پیش کار">
 <!ENTITY fxaccount_status_sync_now "ابھی ہمہ وار کریں">
 <!ENTITY fxaccount_status_syncing2 "ہمو وار کر رہا ہے…">
@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "سروس کی اصطلاحات">
 <!ENTITY fxaccount_status_linkprivacy "رازداری اطلاع نامہ">
 <!ENTITY fxaccount_status_more "مزید&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "منقطع کریں&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "فائر فاکس اکاؤنٹ ہٹا دیں؟">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; آپ ک اکاؤنٹ ہمہ وقت ساز کرنا روک دے گا، لیکن اس آلے پر آپ کے براؤزنگ کوائف حذف نہیں کرے گا۔">
