@@ -13,6 +13,8 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "یہ کنکشن غیر نا قابل اعتماد ہے">
 <!-- These are going to be used for the updated design in Bug 1207107 -->
 
+<!ENTITY certerror.pagetitle1  "ناقابل بھروسا کنکشن">
+<!ENTITY certerror.longpagetitle1 "آپکا کنکشن ناقابل بھروسا ہے">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -27,8 +29,10 @@ was trying to connect. -->
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-
-
+<!ENTITY certerror.introPara "<span class='hostname'/> کے مالک نے انکی ویب سائٹ نامناسب طرحہ سے تشکیل کی ہیں۔ آپکی معلومات کو چوری ہونے سے حفاظت کے لئے، &brandShortName; اس ویب سائٹ سے نہیں جڑا ہے۔">
+<!ENTITY certerror.returnToPreviousPage.label "واپس جائیں">
+<!ENTITY certerror.learnMore "مزید سیکھیں…">
+<!ENTITY certerror.advanced.label "اعلٰی ترین">
 
 <!ENTITY certerror.whatShouldIDo.heading "مجھے کیا کرنا چاہیے؟">
 <!ENTITY certerror.whatShouldIDo.content "اگر آپ اکثر اس ویب سائٹ کے ساتھ جڑتیں ہیں تو

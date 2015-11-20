@@ -189,9 +189,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "چھاپیں">
 <!ENTITY printButton.tooltip          "یہ صفحہ چھاپیں">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "سائٹ کی معلومات کا نظارہ کریں">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "اعلان کا نظارہ کریں">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "محل وقوع کی درخواست کا نظارہ کریں">
 
 
 
@@ -206,8 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
+<!ENTITY urlbar.servicesNotificationAnchor.label        "سروس کی تنصیب کرنے کے پیغام کا نظارہ کریں">
 
 
 
