@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "آپ نجی براؤزنگ میں نہیں ہیں">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; نے صفحے کے ان حصوں کو بلاک کردیا ہے جو شاید آپکی براؤزنگ کی سرگرمی کا سراغ راہ لگا سکیں۔">
+<!ENTITY privatebrowsingpage.description.privateDetails "ہم یاد نہیں رکھتے کوئی تاریخیں، لیکن ڈاؤن لوڈ کی گئ مسلیں اور نئ نشانیاں محفوظ شدہ ہونگی اپکے آلہ پر۔">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
