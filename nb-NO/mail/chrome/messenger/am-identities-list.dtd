@@ -7,8 +7,8 @@
 <!ENTITY identitiesListAdd.accesskey  "L">
 <!ENTITY identitiesListEdit.label "Rediger …">
 <!ENTITY identitiesListEdit.accesskey "R">
-<!ENTITY identitiesListDefault.label "Sett som standard">
-<!ENTITY identitiesListDefault.accesskey "S">
+<!ENTITY identitiesListDefault.label "Bruk som standard">
+<!ENTITY identitiesListDefault.accesskey "B">
 <!ENTITY identitiesListDelete.label "Slett">
 <!ENTITY identitiesListDelete.accesskey "S">
 <!ENTITY identitiesListClose.label "Lukk">

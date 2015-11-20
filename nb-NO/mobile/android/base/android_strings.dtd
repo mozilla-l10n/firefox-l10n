@@ -289,7 +289,7 @@ size. -->
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Gi tilbakemelding">
 
-<!ENTITY pref_dialog_set_default "Sett som standard">
+<!ENTITY pref_dialog_set_default "Bruk som standard">
 <!ENTITY pref_dialog_default "Standard">
 <!ENTITY pref_dialog_remove "Fjern">
 

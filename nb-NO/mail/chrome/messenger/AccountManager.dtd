@@ -16,7 +16,7 @@
 <!ENTITY addFeedAccountButton.accesskey "h">
 <!ENTITY addOtherAccountButton.label "Legg til annen konto …">
 <!ENTITY addOtherAccountButton.accesskey "L">
-<!ENTITY setDefaultButton.label "Sett som standard">
+<!ENTITY setDefaultButton.label "Bruk som standard">
 <!ENTITY setDefaultButton.accesskey "S">
 <!ENTITY removeButton.label "Slett konto">
 <!ENTITY removeButton.accesskey "t">
