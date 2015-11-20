@@ -80,6 +80,7 @@
 <!ENTITY runtimePanel_installsimulator "Zainstaluj symulator">
 <!ENTITY runtimePanel_noadbhelper "Zainstaluj dodatek ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Niewidoczne urządzenie?">
+<!ENTITY runtimePanel_refreshDevices_label "Odśwież listę urządzeń">
 
 <!ENTITY details_valid_header "Zweryfikowana">
 <!ENTITY details_warning_header "Ostrzeżenia">
