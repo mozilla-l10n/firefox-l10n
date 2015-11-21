@@ -25,7 +25,7 @@
 
 
 
-#define bookmarks_title Mobile
+#define bookmarks_title موبائل
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: About your browser
+#define bookmarks_aboutBrowser فائر فاکس: آپ کے براؤزر کے بارے میں
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons فائر فاکس: ایڈ اون سے تخصیص کریں
 
 
 
@@ -57,23 +57,23 @@
 
 
 
-# link title for https://support.mozilla.org/mobile
+# link title for https://support.mozilla.org/
 
 
 
-#define bookmarks_support Firefox: Support
+#define bookmarks_support فائر فاکس: معاونت
 
 
 
-# LOCALIZATION NOTE (bookmarks_aboutHome):
+# LOCALIZATION NOTE (bookmarks_marketplace):
 
 
 
-# link title for about:home
+# link title for https://marketplace.firefox.com
 
 
 
-#define bookmarks_aboutHome Firefox Start
+#define bookmarks_marketplace فائر فاکس مارکیٹ پلیس
 
 
 
