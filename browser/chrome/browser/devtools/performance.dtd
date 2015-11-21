@@ -21,12 +21,12 @@
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
 
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "रियल टाइम रिकॉर्डिंग डेटा गैर बहु प्रक्रिया फ़ायरफ़ॉक्स पर निष्क्रिय किया गया.">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "रियल टाइम रिकॉर्डिंग डेटा गैर बहु प्रक्रिया Firefox पर निष्क्रिय किया गया.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
 
-<!ENTITY performanceUI.disabledRealTime.disabledE10S "रियल टाइम में रिकॉर्डिंग डेटा प्रदान के लिए प्राथमिकताएँ में बहु प्रक्रिया फ़ायरफ़ॉक्स सक्षम करें.">
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "रियल टाइम में रिकॉर्डिंग डेटा प्रदान के लिए प्राथमिकताएँ में बहु प्रक्रिया Firefox सक्षम करें.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 

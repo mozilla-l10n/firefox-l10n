@@ -99,7 +99,7 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "इस विकल्प को चालू करना डेवलपर टूल को फ़ायरफ़ॉक्स OS जैसे फ़ायरफ़ॉक्स उदाहरण को डिबग करने की स्वीकृति देगादूरस्थ डिबगिंग सक्रिय करें">
-<!ENTITY options.enableRemote.tooltip   "इस विकल्प को चालू करना डेवलपर टूल को फ़ायरफ़ॉक्स OS जैसे फ़ायरफ़ॉक्स उदाहरण को डिबग करने की स्वीकृति देगा">
+<!ENTITY options.enableRemote.tooltip   "इस विकल्प को चालू करना डेवलपर टूल को Firefox OS जैसे Firefox उदाहरण को डिबग करने की स्वीकृति देगा">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -126,7 +126,7 @@ values from browser.dtd.  -->
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label     "तयशुदा फ़ायरफ़ॉक्स डेवलेपर औज़ार">
+<!ENTITY options.selectDefaultTools.label     "तयशुदा Firefox डेवलेपर औज़ार">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
