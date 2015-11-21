@@ -7,12 +7,13 @@
 <!ENTITY  blockPopups.label           "പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക">
 <!ENTITY  blockPopups.accesskey       "B">
 
+<!ENTITY  notificationsPolicy.label            "അറിയിപ്പുകള്‍">
+
+<!ENTITY  notificationsPolicyDesc3.label       "താങ്കള്‍ക്ക് അറിയിപ്പുകള്‍ നല്‍കാന്‍ അനുമതി ഉള്ള വെബ്‌സൈറ്റുകള്‍ തിരഞ്ഞെടുക്കുക">
 
 
-
-
-
-
+<!ENTITY  notificationsDoNotDisturb.label      "എന്നെ ശല്യം ചെയ്യരുത് (n)">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 
 
 <!ENTITY  popupExceptions.label       "വിട്ടുവീഴ്ചകള്‍...">

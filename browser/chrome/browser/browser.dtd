@@ -131,7 +131,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
+<!ENTITY fullscreenWarning.afterDomain.label "ഇപ്പോള്‍ പൂര്‍ണ്ണ വലിപ്പത്തിലാണു്">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -156,7 +156,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "ഈ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
+<!ENTITY shareLink.label "ഈ കണ്ണി പങ്കിടുക (h)">
+<!ENTITY shareLink.accesskey "h">
 <!ENTITY shareImage.label "ഈ ചിത്രം പങ്കിടുക (r)">
 <!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "തെരഞ്ഞെടുത്തതു് പങ്കിടുക (r)">
@@ -189,26 +190,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "ഒരു അറിയിപ്പ് കാണുക">
 
 
 
 
 
+<!ENTITY urlbar.webappsNotificationAnchor.label         "പ്രയോഗം ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നതിന്റെ സന്ദേശം കാണുക">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "ഈ താളിലുള്ള പ്ലഗിന്‍ ഉപയോഗം ക്രമീകരിക്കുക">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "താങ്കളെ അറിയിപ്പുകള്‍ കാണിക്കാന്‍ സൈറ്റിനു് സാധിക്കുമോ ഇല്ലയോ എന്നു് തീരുമാനിക്കൂ">
+
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "താങ്കള്‍ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നു">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "താങ്കളുടെ മൈക്രോഫോണ്‍ സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
 
 
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "താങ്കള്‍ ജാലകം അല്ലെങ്കില്‍ താങ്കളുടെ സ്ക്രീന്‍ സൈറ്റുമായി പങ്കിടുന്നു">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "ഈ സൈറ്റിനു് പോയിന്ററിനെ അദൃശ്യമാക്കാന്‍ സാധിക്കുമോ എന്നത് മാറ്റുക">
 
+<!ENTITY urlbar.translateNotificationAnchor.label       "ഈ താള്‍ തര്‍ജ്ജമ ചെയ്യുക">
 
+<!ENTITY urlbar.emeNotificationAnchor.label             "ഡിആര്‍എം സോഫ്റ്റ്‌വെയറിന്റെ ഉപയോഗം ക്രമീകരിക്കുക">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "നാള്‍വഴി കാണിക്കുക">
 
 <!ENTITY searchItem.title             "തിരയുക">
 <!-- Toolbar items --> 
@@ -334,10 +338,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
-
+<!ENTITY userContextBanking.label         "ബാങ്കിങ്ങ് (B)">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "വ്യാപാരം (S)">
+<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "പുതിയ ജാലകം ">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -435,9 +439,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "ഏതു് റ്റാബ്:">
 
 
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "വേണ്ട">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 
 
 <!-- 
@@ -471,7 +475,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-
+<!ENTITY searchWith.label             "  ചേര്‍ന്ന്:">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
@@ -488,7 +492,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "തിരയല്‍ സജ്ജീകരണങ്ങള്‍ മാറ്റൂ">
 
-
+<!ENTITY searchInNewTab.label         "പുതിയ ടാബില്‍ തിരയുക (T)">
+<!ENTITY searchInNewTab.accesskey     "T">
 
 
 
@@ -668,12 +673,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "പുറത്തു കടക്കുക">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName;-ല്‍ നിന്നും പുറത്ത് കടക്കുക">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "പുറത്തേക്ക്‌"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-
+<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;-ല്‍ നിന്നും പുറത്ത് കടക്കുക">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -720,7 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "പൂര്‍ത്തിയായി">
 <!ENTITY editBookmark.cancel.label                   "റദ്ദാക്കുക">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 
 
@@ -733,18 +738,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "ഈ സൈറ്റുമായുള്ള താങ്കളുടെ ബന്ധം സ്വകാര്യമല്ല. താങ്കള്‍ സമര്‍പ്പിക്കുന്ന വിവരങ്ങള്‍ (രഹസ്യവാക്ക്, സന്ദേശങ്ങള്‍, ക്രെഡിറ്റ് കാര്‍ഡുകള്‍ മുതലായവ) മറ്റുള്ളവര്‍ക്ക് കാണാന്‍ സാധിക്കും.">
+
+<!ENTITY identity.description.weakCipher "ഈ വെബ്സൈറ്റുമായി താങ്കള്‍ക്കുള്ള ബന്ധം ദുര്‍ബലമായ എന്‍ക്രിപ്ഷന്‍ ഉപയോഗിക്കുന്നതിനാല്‍ സ്വകാര്യമല്ല">
+
+
+<!ENTITY identity.description.passiveLoaded "താങ്കളുടെ ബന്ധം സ്വകാര്യമല്ലാത്തതിനാല്‍ താങ്കള്‍ സൈറ്റുമായി പങ്കുവെയ്ക്കുന്ന വിവരങ്ങള്‍ മറ്റുള്ളവര്‍ക്ക് കാണാന്‍ സാധിക്കും.">
+<!ENTITY identity.description.passiveLoaded2 "ഈ വെബ്സൈറ്റില്‍ സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കം (ചിത്രങ്ങള്‍ മുതലായവ) ഉണ്ട്.">
+
+<!ENTITY identity.description.activeLoaded "ഈ വെബ്സൈറ്റില്‍ സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കമുണ്ട് ( സ്ക്രിപ്റ്റുകള്‍ മുതലായവ). കൂടാതെ ഇതിലേക്കുള്ള താങ്കളുടെ ബന്ധം സ്വകാര്യവുമല്ല.">
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY identity.disableMixedContentBlocking.label "ഇപ്പോഴത്തേക്ക് സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കുക (D)">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 
 
 
@@ -787,7 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.accesskey "ത">
 <!ENTITY social.closeNotificationItem.label "ഇപ്പോള്‍ അല്ല ">
 
-
+<!ENTITY social.directory.text "ഈ അറയില്‍ നിന്നും പങ്കിടല്‍ സേവനങ്ങള്‍ സജ്ജമാക്കാവുന്നതാണ്.">
 <!ENTITY social.directory.button "എന്നെ അവിടെ എത്തികൂ">
 <!ENTITY social.directory.introText "&brandShortName; ലേക്ക് ഒരു സേവനം ഉൾപെടുത്താൻ ക്ലിക്ക് ചെയ്യുക">
 <!ENTITY social.directory.viewmore.text "കൂടുതൽ കാണുക">
@@ -800,7 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.toolbars "ടൂള്‍ബാറുകള്‍ കാണിയ്ക്കുക/അദൃശ്യമാക്കുക">
 <!ENTITY customizeMode.titlebar "തലക്കെട്ട് പട്ട">
 <!ENTITY customizeMode.lwthemes "പ്രമേയങ്ങള്‍">
-
+<!ENTITY customizeMode.lwthemes.myThemes "എന്റെ പ്രമേയങ്ങള്‍">
 
 <!ENTITY customizeMode.lwthemes.menuManage "ക്രമീകരിക്കൂ">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
@@ -840,12 +847,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "നിരീക്ഷണം">
 
 
-
-
-
+<!ENTITY trackingContentBlocked.options "ഐച്ഛികങ്ങള്‍">
+<!ENTITY trackingContentBlocked.unblock2.label "ഈ താളില്‍ സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കുക (D)">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "സുരക്ഷ സജ്ജികരിക്കുക (E)">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
-
+<!ENTITY trackingContentBlocked.disabled.message "പിന്തുടരല്‍ സംരക്ഷണം പ്രവര്‍ത്തനരഹിതമാണു്">
 
 <!ENTITY pointerLock.notification.message "ഇതു് വീണ്ടും കാണിയ്ക്കുന്നതിനായി എപ്പോള്‍ വേണമെങ്കിലും ESC അമര്‍ത്തുക">
 
@@ -870,6 +877,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+
+<!ENTITY panicButton.view.mainTimeframeDesc       "അവസാനത്തേതു് മറക്കുക:">
 <!ENTITY panicButton.view.5min                    "അഞ്ച് മിനിറ്റ്">
 <!ENTITY panicButton.view.2hr                     "രണ്ട് മണിക്കൂർ">
 <!ENTITY panicButton.view.day                     "24മണിക്കൂര്‍">
@@ -879,18 +888,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 <!ENTITY panicButton.view.deleteCookies           "ഈയിടെയുള്ള<html:strong> ഉം </html:strong> ഉം നീക്കുക">
 
-
+<!ENTITY panicButton.view.deleteTabsAndWindows    "എല്ലാ <html:strong>ടാബുകളും</html:strong><html:strong>ജാലകങ്ങളും</html:strong>അടക്കൂ">
 
 
 <!ENTITY panicButton.view.undoWarning             "ഈ പ്രവര്‍ത്തനം ചെയ്തു കഴിഞ്ഞാല്‍ പിന്നെ മാറ്റാന്‍ സാദ്ധ്യമല്ല.">
 
 
-
+<!ENTITY panicButton.thankyou.msg1                "സമീപകാല നാള്‍വഴി മായ്ച്ചിരിക്കുന്നു">
+<!ENTITY panicButton.thankyou.msg2                "സുരക്ഷിത ബ്രൗസിങ്ങ്!">
 <!ENTITY panicButton.thankyou.buttonlabel         "നന്ദി!">
 
 
-
-
+<!ENTITY processHang.debugScript.label            "സ്ക്രിപ്റ്റ് ഡീബഗ്ഗ് ചെയ്യുക (D)">
+<!ENTITY processHang.debugScript.accessKey        "D">
 <!ENTITY processHang.terminatePlugin.label        "പ്ലഗിന്‍ ഇല്ലാതാക്കുക (P)">
 <!ENTITY processHang.terminatePlugin.accessKey    "P">
 
@@ -905,4 +915,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY pocketMenuitem.label      "പോക്കറ്റ് പട്ടിക കാണുക">

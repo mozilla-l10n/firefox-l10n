@@ -53,6 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "മെമ്മറിയുടെ ഉപയോഗം">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "രജിസ്റ്റര്‍ ചെയ്‌ത Service Workers">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "അനവധി പ്രക്രിയയ്ക്കുള്ള ജാലകങ്ങള്‍">
 
 
@@ -96,5 +98,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "സാന്റ്ബോക്സ്">
 
-<!ENTITY aboutSupport.safeModeTitle "സേഫ് മോഡ് ശ്രമിച്ചുനോക്കൂ">
+<!ENTITY aboutSupport.safeModeTitle "സേഫ് മോഡ് ശ്രമിച്ചുനോക്കുക">
 

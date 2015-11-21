@@ -135,37 +135,48 @@
 
 <!-- Device Preferences -->
 
-
-
-
+<!ENTITY devicepreference_newname "പുതിയ മുന്‍ഗണനയുടെ പേരു്">
+<!ENTITY devicepreference_newtext "മുന്‍ഗണനയുടെ മൂല്ല്യം">
+<!ENTITY devicepreference_addnew "പുതിയ മുന്‍ഗണന ചേര്‍ക്കുക">
 <!-- Device Settings -->
 
-
-
-
+<!ENTITY devicesetting_title "ഡിവൈസ് സജ്ജീകരണങ്ങള്‍">
+<!ENTITY devicesetting_search "തെരച്ചില്‍ സജ്ജീകരണങ്ങള്‍">
+<!ENTITY devicesetting_newname "പുതിയ സജ്ജീകരണ പേര്">
+<!ENTITY devicesetting_newtext "സജ്ജീകരണ മൂല്ല്യം">
+<!ENTITY devicesetting_addnew "പുതിയ സജ്ജീകരണം ചേര്‍ക്കുക">
 <!-- Monitor -->
+
+<!ENTITY monitor_title "മോണിറ്റര്‍">
 <!ENTITY monitor_help "സഹായം ">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+
+<!ENTITY wifi_auth_header "ക്ലയന്റ് തിരിച്ചറിയല്‍">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "QR സ്കാനര്‍ പ്രോംപ്റ്റ് ഇല്ലേ?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "QR സ്കാനര്‍ പ്രോംപ്റ്റുണ്ടോ ?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "ഒരു QR കോഡ് സ്കാന്‍ ചെയ്യുന്നതിനു് പകരം മറ്റൊരു ഡിവൈസ് ടോക്കനു് വേണ്ടി ആവശ്യപ്പെട്ടാല്‍, ആ ഡിവൈസിലേക്കു് താഴെയുള്ള മൂല്ല്യം പകര്‍ത്തുക:">
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
-
-
-
+<!ENTITY simulator_title "സിമുലേറ്റര്‍ ഉപാധി">
+<!ENTITY simulator_remove "സിമുലേറ്റർ ഇല്ലാതാക്കുക">
+<!ENTITY simulator_reset "സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക">
+<!ENTITY simulator_name "പേരു്">
+<!ENTITY simulator_software "സോഫ്റ്റ്‌വെയർ">
 <!ENTITY simulator_version "പതിപ്പു്">
-
-
-
-
-
+<!ENTITY simulator_profile "പ്രൊഫൈല്‍">
+<!ENTITY simulator_hardware "ഹാര്‍ഡ്‌വെയര്‍">
+<!ENTITY simulator_device "ഉപകരണം">
+<!ENTITY simulator_screenSize "സ്ക്രീന്‍">
+<!ENTITY simulator_pixelRatio "പിക്സൽ അനുപാതം">

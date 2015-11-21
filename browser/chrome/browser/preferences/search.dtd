@@ -2,14 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രം">
+
+
+<!ENTITY provideSearchSuggestions.label        "തിരച്ചിലിനുള്ള നിര്‍ദ്ദേശങ്ങള്‍ നല്‍കുക (s)">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
 
 
+<!ENTITY redirectWindowsSearch.label "വിന്‍ഡോസില്‍ (W) നിന്നുള്ള തിരച്ചിലുകള്‍ക്കായി ഈ തിരച്ചില്‍ യന്ത്രം ഉപയോഗിക്കൂ">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
-
-
-
+<!ENTITY oneClickSearchEngines.label           "ഒറ്റ ക്ലിക്ക് തിരച്ചില്‍ യന്ത്രങ്ങള്‍">
 
 
 <!ENTITY engineKeywordColumn.label             "കീവേര്‍ഡ്">
@@ -18,3 +23,4 @@
 
 
 
+<!ENTITY addMoreSearchEngines.label            "തെരച്ചിലിനുള്ള കൂടുതല്‍ യന്ത്രങ്ങള്‍ ലഭ്യമാക്കുക…">
