@@ -13,13 +13,17 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "ನೀವು ಖಾಸಗಿಯಾಗಿ ಜಾಲವೀಕ್ಷಣೆ ಮಾಡುತ್ತಿದ್ದೀರಿ">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "ಉಳಿಸಲಾಗಿಲ್ಲ">
 <!ENTITY aboutPrivateBrowsing.info.history     "ಇತಿಹಾಸ">
 <!ENTITY aboutPrivateBrowsing.info.searches    "ಹುಡುಕುಗಳು">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "ಕುಕಿಗಳು">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "ತಾತ್ಕಾಲಿಕ ಕಡತಗಳು">
 
+<!ENTITY aboutPrivateBrowsing.info.saved       "ಉಳಿಸಲಾಗಿದೆ">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "ಇಳಿಕೆಗಳು">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "ಪುಟಗುರುತುಗಳು">
 
