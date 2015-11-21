@@ -5,8 +5,8 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Błąd wczytywania strony" >
-<!ENTITY retry.label "Spróbuj ponownie" >
+<!ENTITY loadError.label "Błąd wczytywania strony">
+<!ENTITY retry.label "Spróbuj ponownie">
 
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -17,7 +17,7 @@
 <!ENTITY dnsNotFound.title "Nie odnaleziono adresu">
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
-  <li>Upewnij się, że wprowadzony adres nie zawiera takich literówek, jak 
+  <li>Upewnij się, że wprowadzony adres nie zawiera takich literówek, jak
     <strong>ww</strong>.mozilla.org zamiast
     <strong>www</strong>.mozilla.org</li>
      <div id='searchbox'>
@@ -52,7 +52,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Wyszukaj</button>
     </div>
-  <li>Upewnij się, że używasz poprawnych ukośników (np. 
+  <li>Upewnij się, że używasz poprawnych ukośników (np.
     <strong>/</strong>).</li>
 </ul>
 ">
