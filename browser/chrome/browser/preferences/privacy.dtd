@@ -30,7 +30,7 @@
 <!ENTITY  locbar.searches.label                  "vaikeotsingumootori poolt pakutavate seonduvate otsingute seast">
 <!ENTITY  locbar.searches.accesskey              "d">
 
-<!ENTITY  suggestionSettings.label               "Muuda otsingumootorite otsingusoovituste sätteid…">
+<!ENTITY  suggestionSettings.label               "Muuda otsingumootorite soovituste sätteid…">
 <!ENTITY  suggestionSettings.accesskey           "u">
 
 <!ENTITY acceptCookies.label                     "Küpsised lubatakse">
