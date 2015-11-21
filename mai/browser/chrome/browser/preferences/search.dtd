@@ -2,16 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "तयशुदा खोज इंजिन">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "अपन पूर्वनिर्धारित खोज इंजिन चुनू. &brandShortName; एकरा स्थान बार, खोज बार आओर आरंभ पन्ना पर देखैछ.">
+
+<!ENTITY provideSearchSuggestions.label        "खोज सुझाव प्रदान करू (s)">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
+
+<!ENTITY showURLBarSuggestions.label           "लोकेशन बार परिणाम मे खोज सुझाव देखाबू">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 
 
 
 
+<!ENTITY oneClickSearchEngines.label           "सर्च इंजन एक क्लिक करू ">
 
+<!ENTITY chooseWhichOneToDisplay.label         "ई खोज पट्टी अहाँक वैकल्पिक इंजन सीधा खोजै दैछ. चुनू ककरा देखाएनाइ अछि.">
 
-
-
-
-
+<!ENTITY engineNameColumn.label                "खोज इंजन">
 <!ENTITY engineKeywordColumn.label             "बीजशब्द">
 
 
