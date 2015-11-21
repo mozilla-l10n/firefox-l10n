@@ -6,11 +6,21 @@
 <!ENTITY  no_space_to_start_error "Det er ikke nok ledig plass for at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En feil oppstod ved forsøk på å laste nødvendige filer for å kjøre &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Velkommen">
 <!ENTITY  onboard_start_message3 "Bruk nettet med &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Gjør den mobile surfeopplevelsen til helt din egen.">
 <!ENTITY  onboard_start_button_account "Logg inn på &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Start nettlesing">
+<!ENTITY firstrun_button_next "Neste">
+
 <!ENTITY  onboard_start_restricted1 "Vær trygg og ha kontroll med denne forenklede versjonen av &brandShortName;.">
+
+<!ENTITY firstrun_import_title "Importer">
+<!ENTITY firstrun_import_message "Velkommen til &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importer bokmerker og historikk fra en annen nettleser.">
+<!ENTITY firstrun_import_action "Overfør til &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Overfør">
+<!ENTITY firstrun_import_progress_title "Overfører">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -55,8 +65,9 @@
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
-<!ENTITY history_week_section2 "Forrige uke">
-<!ENTITY history_older_section2 "Forrige måned">
+<!ENTITY history_week_section3 "Siste 7 dager">
+<!ENTITY history_this_month_section "Denne måneden">
+<!ENTITY history_older_section3 "Eldre enn 6 måneder">
 
 <!ENTITY go "Gå">
 <!ENTITY search "Søk">
@@ -69,8 +80,6 @@
 <!ENTITY edit_mode_cancel "Avbryt">
 
 <!ENTITY close_tab "Lukk fane">
-<!ENTITY tab_audio_playing "Denne fanen spiller av lyd">
-<!ENTITY tab_audio_muted "Denne fanen er dempet">
 <!ENTITY one_tab "1 fane">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +90,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "BYTT">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Spiller av lyd – &formatS;">
 
 <!ENTITY settings "Innstillinger">
 <!ENTITY settings_title "Innstillinger">
@@ -182,6 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Bare med Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Vis nettstedsforslag">
 <!ENTITY pref_home_suggested_sites_summary "Viser snarveier til nettsted på startsiden din som vi tror du kan synes er interessante">
+<!ENTITY pref_category_home_homepage "Startside">
+<!ENTITY home_homepage_title "Velg en startside">
+<!ENTITY home_homepage_use_current_tab "Bruk denne fanen">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Tilpass">
@@ -237,7 +257,6 @@
 <!ENTITY pref_plugins_tap_to_play "Trykk for å starte">
 <!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_text_size "Tekststørrelse">
-<!ENTITY pref_reflow_on_zoom4 "Oppdatering av tekstflyt">
 <!ENTITY pref_restore "Faner">
 <!ENTITY pref_restore_always "Alltid gjenopprett">
 <!ENTITY pref_restore_quit "Ikke gjenopprett etter avslutting av &brandShortName;">
@@ -347,6 +366,7 @@ size. -->
 <!ENTITY share_title "Del via">
 <!ENTITY share_image_failed "Klarte ikke dele dette bildet">
 <!ENTITY save_as_pdf "Lagre som PDF">
+<!ENTITY print "Skriv ut">
 <!ENTITY find_in_page "Finn på siden">
 <!ENTITY desktop_mode "Hent side som desktop">
 <!ENTITY page "Side">
@@ -391,6 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Lås nettsted">
 <!ENTITY contextmenu_top_sites_unpin "Opphev låsing">
 <!ENTITY contextmenu_add_search_engine "Legg til en søkemotor">
+<!ENTITY contextmenu_mark_read "Merk som lest">
+<!ENTITY contextmenu_mark_unread "Merk som ulest">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -413,8 +435,8 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_prevent_magnifying_glass "Slå av forstørrelsesglass">
-<!ENTITY pref_prevent_magnifying_glass_summary "Forhindre forstørrelsesglass å bli brukt for å avgjøre tvetydige skjermberøringer">
+<!ENTITY pref_magnifying_glass_enabled "Forstørr små områder">
+<!ENTITY pref_magnifying_glass_enabled_summary "Forstørr lenker og skjemaelementer ved trykk nærme dem">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -473,8 +495,6 @@ size. -->
 <!ENTITY button_set "Sett">
 <!ENTITY button_clear "Tøm">
 <!ENTITY button_copy "Kopier">
-
-<!ENTITY firstrun_panel_title_welcome "Velkommen">
 
 <!ENTITY home_top_sites_title "Toppliste">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Usikker tilkobling">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all "&brandShortName; har blokkert usikre elementer på denne siden.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; har blokkert noen usikre elementer på denne siden.">
-<!ENTITY mixed_content_display_loaded "Denne siden har noen usikre elementer.">
-<!ENTITY mixed_content_protection_disabled "Du har slått av beskyttelse fra usikre elementer.">
-
-<!ENTITY loaded_mixed_content_message "Denne siden viser innhold som ikke er sikret.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokkert innhold som ikke er sikret.">
-<!ENTITY blocked_mixed_content_message_bottom "De fleste nettsted vil fortsatt virke selv om dette innholdet blokkeres.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; har blokkert usikkert innhold på denne siden.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; har blokkert noe av det usikre innholdet på denne siden.">
+<!ENTITY mixed_content_display_loaded1 "Deler av denne siden er ikke sikker (som f.eks. bilder)">
+<!ENTITY mixed_content_protection_disabled1 "Du har slått av beskyttelse mot usikkert innhold.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Sporingsbeskyttelse">
@@ -704,3 +720,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_master_password_title2 "Slå av hovedpassord">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Slå av gjestenettlesing">
 
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Om nettleseren">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Tilpass med utvidelser">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Brukerstøtte">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox Hjelp and Brukerstøtte for begrensede profiler på Android-tablets">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Lær å bruke webben: Mozilla Webmaker">
