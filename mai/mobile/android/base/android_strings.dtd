@@ -17,8 +17,8 @@
 
 
 
-
-
+<!ENTITY firstrun_import_dialog_button "हस्तांतरित करू">
+<!ENTITY firstrun_import_progress_title "हस्तांतरण भ\u0027 रहल अछि">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -51,18 +51,19 @@
 <!ENTITY url_bar_default_text2 "खोजू अथवा पता दर्ज करू">
 
 <!ENTITY bookmark "पुस्तकचिह्न">
-
+<!ENTITY bookmark_remove "पुस्तकचिह्न हटाउ">
 <!ENTITY bookmark_added "पुस्तकचिह्न जोड़ल गेल">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "पहिनेसँ पुस्तकचिह्नित">
 <!ENTITY bookmark_removed "पुस्तकचिह्नित हटाएल गेल">
 <!ENTITY bookmark_updated "पुस्तकचिह्न अद्यतित">
 <!ENTITY bookmark_options "विकल्प">
 
 <!ENTITY history_today_section "आइ">
 <!ENTITY history_yesterday_section "काल्हि">
-
+<!ENTITY history_week_section3 "अंतिम ७ दिन">
 
 
 
