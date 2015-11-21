@@ -45,11 +45,7 @@
 <!ENTITY aboutTelemetry.lateWritesSection "
   Późne zapisy
 ">
-
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Informacje systemowe
-">
-
+<!ENTITY aboutTelemetry.sessionInfoSection "Informacje o sesji">
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   Histogramy zebrane przez dodatki
 ">
