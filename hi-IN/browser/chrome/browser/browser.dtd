@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY leaveDOMFullScreen.label "पूर्ण स्क्रीन से निकलें">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
-<!ENTITY closeWindow.label "Window बंद करें">
+<!ENTITY closeWindow.label "विंडो बंद करें">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "पुस्तचिह्न">
@@ -304,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY browserToolboxMenu.label     "Browser औजारपट्टी">
+<!ENTITY browserToolboxMenu.label     "ब्राउज़र औजारपट्टी">
 <!ENTITY browserToolboxMenu.accesskey "e">
 <!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
@@ -416,9 +416,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी दिखाएँ">
 <!ENTITY appMenuHelp.tooltip "मदद मेनू खोलें">
 
-<!ENTITY customizeMenu.addToToolbar.label "औज़ार पट्टी में Add">
+<!ENTITY customizeMenu.addToToolbar.label "औज़ार पट्टी में जोड़ें">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Menu में जोड़ें">
+<!ENTITY customizeMenu.addToPanel.label "मेन्यू में जोड़ें">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "औज़ार पट्टी पर Move">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">

@@ -40,7 +40,7 @@ was trying to connect. -->
  Strict Transport Security (HSTS) का उपयोग &brandShortName; को उल्लिखित करने के  
  इसकी सुरक्षा के लिए करता है. नतीजतन, इस प्रमाण पत्र के लिए 
 अपवाद जोड़ना संभव नहीं है.">
-<!ENTITY certerror.getMeOutOfHere.label "यहां से मुझे निकालें!">
+<!ENTITY certerror.getMeOutOfHere.label "मुझें यहॉँ से बाहर ले जायें.">
 
 <!ENTITY certerror.expert.heading "मैं जोखिम समझता हूँ">
 <!ENTITY certerror.expert.content "यदि आप समझते हैं कि क्या चल रहा है, आप 

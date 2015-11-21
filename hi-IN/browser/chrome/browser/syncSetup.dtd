@@ -16,7 +16,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "सर्वर">
-<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
+<!ENTITY serverType.default.label      "डिफ़ॉल्ट: Mozilla &syncBrand.fullName.label; server">
 <!ENTITY serverType.custom2.label   "मनपसंद सर्वर का उपयोग करें…">
 <!ENTITY signIn.account2.label      "खाता">
 <!ENTITY signIn.account2.accesskey  "A">

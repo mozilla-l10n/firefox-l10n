@@ -15,10 +15,10 @@
 <!ENTITY restorepage.tryagainButton "पुनर्स्थापित करें">
 <!ENTITY restorepage.restore.access "आर">
 <!ENTITY restorepage.closeButton    "बंद करें">
-<!ENTITY restorepage.close.access   "सी">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "पुनर्स्थापित करें">
-<!ENTITY restorepage.listHeader     "विंडोज व टैब्स">
+<!ENTITY restorepage.listHeader     "विंडोज और टैब">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "विंडो &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
