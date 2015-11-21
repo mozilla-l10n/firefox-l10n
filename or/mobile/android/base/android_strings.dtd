@@ -6,18 +6,21 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ଆରମ୍ଭ କରିବା ପାଇଁ  ଅଧିକ ସ୍ଥାନ ନାହିଁ ।">
 <!ENTITY  error_loading_file "&brandShortName; ଚଳାଇବା ପାଇଁ ଫାଇଲଟିଏ ଲୋଡ଼ କଲାବେଳେ ଅସୁବିଧାଟିଏ ଘଟିଲା">
 
-
-
+<!ENTITY firstrun_panel_title_welcome "ସ୍ୱାଗତ">
+<!ENTITY  onboard_start_message3 "&brandShortName; ସହ ଖୋଜନ୍ତୁ">
+<!ENTITY  onboard_start_subtext3 "ନିଜ ମୋବାଇଲ ୱେବ ଅନୁଭୂତି କେବଳ ନିଜ ଅନୁଭୂତି କରନ୍ତୁ ।">
 <!ENTITY  onboard_start_button_account "&brandShortName; ରେ ସାଇନ ଇନ୍‌ କରନ୍ତୁ">
 <!ENTITY  onboard_start_button_browser "ବ୍ରାଉଜିଙ୍ଗ ଆରମ୍ଭ କରନ୍ତୁ">
+<!ENTITY firstrun_button_next "ପର">
 
+<!ENTITY  onboard_start_restricted1 "&brandShortName;ର ଏହି ସରଳ ସଂସ୍କରଣରେ ନିରାପଦ ରହନ୍ତୁ ଓ ନିୟନ୍ତ୍ରଣରେ ରହନ୍ତୁ ।">
 
-
-
-
-
-
-
+<!ENTITY firstrun_import_title "ଆଣନ୍ତୁ">
+<!ENTITY firstrun_import_message "&brandShortName;କୁ ପାଛୋଟା!">
+<!ENTITY firstrun_import_subtext "ଆଉ ଏକ ବ୍ରାଉଜରରୁ ନିଜ ବୁକମାର୍କ ଓ ଇତିହାସସବୁ ଆଣନ୍ତୁ ।">
+<!ENTITY firstrun_import_action "&brandShortName;କୁ ପଠାନ୍ତୁ">
+<!ENTITY firstrun_import_dialog_button "ପଠାନ୍ତୁ">
+<!ENTITY firstrun_import_progress_title "ପଠାଉଛି">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -50,20 +53,21 @@
 <!ENTITY url_bar_default_text2 "ଠିକଣା ଖୋଜନ୍ତୁ ଅଥବା ଲେଖନ୍ତୁ">
 
 <!ENTITY bookmark "ବୁକମାର୍କ">
-
+<!ENTITY bookmark_remove "ବୁକମାର୍କ କାଢ଼ିଦିଅନ୍ତୁ">
 <!ENTITY bookmark_added "ବୁକମାର୍କ ଯୋଡାଯାଇଛି">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "ଆଗରୁ ବୁକମାର୍କ ଭାବେ ଚିହ୍ନିତ ହୋଇଛି">
 <!ENTITY bookmark_removed "ବୁକମାର୍କ କଢ଼ାଯାଇଛି">
 <!ENTITY bookmark_updated "ବୁକମାର୍କ ଅପଡେଟ କରାଯାଇଛି">
 <!ENTITY bookmark_options "ବିକଳ୍ପଗୁଡ଼ିକ">
 
 <!ENTITY history_today_section "ଆଜି">
 <!ENTITY history_yesterday_section "ଗତକାଲି">
-
-
-
+<!ENTITY history_week_section3 "ଅନ୍ତିମ 7 ଦିନ">
+<!ENTITY history_this_month_section "ଏହି ମାସ">
+<!ENTITY history_older_section3 "6 ମାସ ପୁରୁଣା">
 
 <!ENTITY go "ଯାଆନ୍ତୁ">
 <!ENTITY search "ଖୋଜନ୍ତୁ">
@@ -93,14 +97,15 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "ଅଡ଼ିଓ ଚଳାଉଛି – &formatS;">
 
 <!ENTITY settings "ସଂରଚନା">
-
-
+<!ENTITY settings_title "ସଂରଚନା">
+<!ENTITY pref_category_input_options "ଇନପୁଟ ବିକଳ୍ପ">
 <!ENTITY pref_category_advanced "ଉନ୍ନତ">
 <!ENTITY pref_category_customize "ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ">
-
-
+<!ENTITY pref_category_customize_summary "ମୁଖ୍ୟ ପୃଷ୍ଠା, ଖୋଜା, ଟ୍ୟାବ, ଆଣିବା">
+<!ENTITY pref_category_customize_alt_summary "ମୁଖ୍ୟ ପୃଷ୍ଠା, ଖୋଜା, ଟ୍ୟାବ, ପରେ ଖୋଲିବେ, ଆଣିବେ">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -121,8 +126,10 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_reading_list_btn_label "ପଢ଼ିବା ତାଲିକାରେ ଯୋଗ କରନ୍ତୁ">
 
+<!ENTITY overlay_share_bookmark_btn_label "ବୁକମାର୍କ">
+<!ENTITY overlay_share_reading_list_btn_label "ପଢ଼ିବା ତାଲିକାରେ ଯୋଗ କରନ୍ତୁ">
+<!ENTITY overlay_share_bookmark_btn_label_already "ପୂର୍ବରୁ ବୁକମାର୍କ କରାହୋଇଛି">
 <!ENTITY overlay_share_reading_list_btn_label_already "ପୂର୍ବରୁ ପଠନ ତାଲିକାରେ ଅଛି">
 <!ENTITY overlay_share_send_other "ଅନ୍ୟ ଉପକରଣଗୁଡ଼ିକୁ ପଠାନ୍ତୁ">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -136,10 +143,13 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Firefox ଆକାଉଣ୍ଟ ଯୋଡ଼ାଯାଇଥିବା କୌଣସି ଡିଭାଇସ ମିଳିଲା ନାହିଁ">
 <!-- Localization note (menu_no_synced_devices): Used in a toast when the user
      clicks on the button to send a tab to another device and there are no
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
+
+<!ENTITY menu_no_synced_devices "ଏହି ଟ୍ୟାବଟି ଆଉ ଏକ ଯୋଡ଼ା ଡିଭାଇସକୁ ପଠାନ୍ତୁ">
 
 <!ENTITY pref_category_search_summary "ନିଜ ସନ୍ଧାନ ପ୍ରଦାନକାରୀଙ୍କୁ ଇଚ୍ଛା ଅନୁସାରେ ସଜାଡ଼ନ୍ତୁ">
 <!ENTITY pref_category_display "ପ୍ରଦର୍ଶନୀ">
@@ -236,7 +246,7 @@
 <!ENTITY pref_clear_private_data2 "ବର୍ତ୍ତମାନ ସଫାକରନ୍ତୁ">
 <!ENTITY pref_clear_private_data_category "ବ୍ୟକ୍ତିଗତ ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ">
 
-
+<!ENTITY pref_clear_on_exit_summary2 "ଆପଣ ମୁଖ୍ୟ ସୂଚୀରୁ\u0022Quit\u0022 ବାଛିବାମାତ୍ରେ &brandShortName; ଆପେ ଆପେ ଆପଣଙ୍କ ଡାଟା ସଫା କରିଦେବେ ।">
 <!ENTITY pref_clear_on_exit_dialog_title "କେଉଁ ତଥ୍ୟକୁ ସଫାକରିବା ଉଚିତ ତାହା ବାଛନ୍ତୁ">
 <!ENTITY pref_plugins "ପ୍ଲଗଇନଗୁଡ଼ିକ">
 
