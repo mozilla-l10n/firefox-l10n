@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
+<!ENTITY translation.thisPageIsIn.label         "यो पेज निम्न मा छ">
+<!ENTITY translation.translateThisPage.label    "यो पृष्ठ अनुवाद गर्नुहोस् ?">
 
 
 
+<!ENTITY translation.translatingContent.label   "पृष्ठ सामग्री अनुवाद गर्दै…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -35,7 +38,7 @@
 <!ENTITY translation.translatedTo.label         "लाई">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-
+<!ENTITY translation.showTranslation.button     "अनुवाद देखाउनुहोस्">
 
 <!ENTITY translation.tryAgain.button            "पुन:प्रयास गर्नुहोस्">
 
@@ -46,9 +49,10 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
+<!ENTITY translation.options.neverForSite.label "यस पृष्ठ कहिल्यै अनुवाद नगर्ने ">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "अनुवाद अभिरूचीहरू">
+<!ENTITY translation.options.preferences.accesskey "T">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -62,3 +66,5 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
+
+<!ENTITY translation.options.attribution.yandexTranslate "Yandex द्वारा प्रवर्दित। अनुवाद गर्नुहोस">

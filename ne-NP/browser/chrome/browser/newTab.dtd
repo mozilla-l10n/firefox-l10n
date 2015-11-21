@@ -5,8 +5,8 @@
 
 <!ENTITY newtab.pageTitle "नयाँ ट्याब">
 <!ENTITY newtab.customize.classic "आफ्नो शीर्ष साइटहरु देखाउनुहोस्">
-
-
+<!ENTITY newtab.customize.cog.enhanced "सुझाव गरिएको साइटहरू समावेश गर्नुहोस्">
+<!ENTITY newtab.customize.cog.title2 "नयाँ ट्याब नियन्त्रणहरू">
 
 <!ENTITY newtab.customize.title "नयाँ ट्याब पृष्ठलाई अनुकूलन गर्नुहोस्">
 

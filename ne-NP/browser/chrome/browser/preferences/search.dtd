@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "पूर्वनिर्धारित खोज इन्जिन">
 
 
 
@@ -11,11 +12,15 @@
 
 
 
+
+<!ENTITY chooseWhichOneToDisplay.label         "खोज बारले फरक खोज इन्जिइहरूमा सिधै खोज्न दिन्छ । कुन देखाउने हो छान्नुहोस् ।">
 
 <!ENTITY engineNameColumn.label                "सर्च इन्जिनहरू">
 <!ENTITY engineKeywordColumn.label             "शब्दकुञ्जी">
 
+<!ENTITY restoreDefaultSearchEngines.label     "पूर्वानिर्धारीत खोज इन्जिन पुनर्स्थापना गर्नुहोस् ">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
-
-
+<!ENTITY removeEngine.label                    "हटाउनुहोस्">
+<!ENTITY removeEngine.accesskey                "R">
 

@@ -2,13 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.header "सुरुमा खराब कुरा: ट्याब क्र्यास भयो">
 
+<!ENTITY tabCrashed.sendReport "क्र्यास रिपोर्ट गरेर भविष्यमा यस्ता खराब समाचारहरू रोक्नुहोस्">
+<!ENTITY tabCrashed.includeURL "म भएको पृष्ठको ठेगाना समेट्ने">
+<!ENTITY tabCrashed.commentPlaceholder "टिप्पणी थप्नुहोस् (टिप्पणीहरू सार्वजनिक रूपमा देखिने छ)">
 
+<!ENTITY tabCrashed.emailMe "धेरै जानकारीहरू उपलब्ध भए पछि मलाई इमेल गर्नुहोस्">
+<!ENTITY tabCrashed.crashReporter "मोजिला क्र्यास प्रतिवेदक">
 
-
-
-
-
-
-
-
+<!ENTITY tabCrashed.closeTab "यो ट्याब बन्द गर्नुहोस्">
+<!ENTITY tabCrashed.restoreTab "यो ट्याब पुनर्स्थापना गर्नुहोस्">
+<!ENTITY tabCrashed.restoreAll "सबै क्र्यास भएका ट्याबहरू पुनर्स्थापना गर्नुहोस्">
