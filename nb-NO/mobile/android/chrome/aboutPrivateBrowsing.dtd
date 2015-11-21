@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Du er ikke i privat nettlesing">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; blokkerer de delene av siden som kan spore nettleseraktiviteten.<br/><br/>Vi vil ikke huske noen historikk, men nedlastede filer og nye bokmerker vil likevel lagres til enheten.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; blokkerer de delene av siden som kan spore nettleseraktiviteten din.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Vi vil ikke huske noe historikk, men nedlastede filer og nye bokmerker vil fortsatt lagres til enheten din.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
