@@ -29,7 +29,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "എന്താണു് ചെയ്യേണ്ടതു്?">
 <!ENTITY certerror.whatShouldIDo.content "നിങ്ങള്‍ സാധാരണ ഈ സൈറ്റിലേക്കു് പ്രശ്നങ്ങള്‍ ഇല്ലാതെയാണു് കണക്ട് ചെയ്യുന്നതു് എങ്കില്‍, ഈ പിശകിന്റ അര്‍ത്ഥം ആരോ അനധികൃതമായി കടക്കുന്നു എന്നാണു്. അതിനാല്‍ തുടരുന്നതു് ഉത്തമമല്ല.">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "brandShortName; ഈ സൈറ്റിലേക്കു്സുരക്ഷിതമായി കണക്ട് ചെയ്യുന്നതിനു് HTTP സ്ട്രിക്ട് ട്രാന്‍സ്പോര്‍ട്ട് സെക്യൂരിറ്റി (HSTS) ഉപയോഗിയ്ക്കുന്നു.ആയതിനാല്‍, ഈ സമ്മതപത്രത്തിനു് എക്സപ്ഷന്‍ചേര്‍ക്കുവാന്‍ സാധ്യമല്ല.">
 <!ENTITY certerror.getMeOutOfHere.label "ഇവിടെ നിന്നും പുറത്തു് കടത്തുക!">
 
 <!ENTITY certerror.expert.heading "അപകട സാദ്ധ്യതയെപ്പറ്റി അറിയാം">

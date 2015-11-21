@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "താള്‍ വിവരങ്ങള്‍">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "മിറര്‍ റ്റാബ് (M)">
+<!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍">
@@ -157,12 +157,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.accesskey "ഈ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 
-
-
-
-
-
-
+<!ENTITY shareImage.label "ഈ ചിത്രം പങ്കിടുക (r)">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "തെരഞ്ഞെടുത്തതു് പങ്കിടുക (r)">
+<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareVideo.label "ഈ വീഡിയോ പങ്കിടുക (r)">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "അംഗമാകുക">
 <!ENTITY subscribeToPageMenupopup.label "ഈ താളില്‍ അംഗമാകുക">
 <!ENTITY subscribeToPageMenuitem.label "ഈ താളില്‍ അംഗമാകുക...">
@@ -304,6 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "ബ്രൌസര്‍ കണ്ടന്റ് ടൂള്‍ബോക്സ്">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ഡവലപ്പര്‍ ടൂള്‍ബാര്‍ അടയ്ക്കുക">
 <!ENTITY devToolbarMenu.label              "ഡവലപ്പര്‍ ടൂള്‍ബാര്‍">
@@ -484,6 +486,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "തിരയല്‍ സജ്ജീകരണങ്ങള്‍ മാറ്റൂ">
 
 
 
@@ -722,7 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.connectionInternal "ഇതു് സുരക്ഷിതമായൊരു &brandShortName; താള്‍ ആകുന്നു.">
 
 <!-- Strings for connection state warnings. -->
 
@@ -802,7 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage "ക്രമീകരിക്കൂ">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 
-
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ചാറ്റുകള്‍ ശ്രദ്ധിയ്ക്കുക">
@@ -820,9 +823,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "സ്ക്രീനില്‍ ദൃശ്യമായ എല്ലാ ജാലകങ്ങളും പങ്കിടുന്നു.">
 
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; നിങ്ങളുടെ ബ്രൌസിങ്ങ് ട്രാക്ക് ചെയ്യാനിടയുള്ള ഭാഗങ്ങളെ തടഞ്ഞു വെച്ചിരിക്കുന്നു.">
 
-
-
+<!ENTITY trackingProtection.notDetected3 "ഈ പേജില്‍ നിങ്ങളെ ട്രാക്ക് ചെയ്യുന്ന കാര്യങ്ങളൊന്നും കണ്ടില്ല.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -831,8 +834,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
-
-
+<!ENTITY trackingProtection.block2.label "സുരക്ഷ സജ്ജികരിക്കുക (E)">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "നിരീക്ഷണം">
 
@@ -840,8 +843,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY trackingContentBlocked.block.label "സുരക്ഷ സജ്ജികരിക്കുക (E)">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 
 
 <!ENTITY pointerLock.notification.message "ഇതു് വീണ്ടും കാണിയ്ക്കുന്നതിനായി എപ്പോള്‍ വേണമെങ്കിലും ESC അമര്‍ത്തുക">
@@ -888,8 +891,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY processHang.terminatePlugin.label        "പ്ലഗിന്‍ ഇല്ലാതാക്കുക (P)">
+<!ENTITY processHang.terminatePlugin.accessKey    "P">
 
 
 
