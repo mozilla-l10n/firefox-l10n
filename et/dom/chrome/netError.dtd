@@ -17,7 +17,7 @@
 <!ENTITY dnsNotFound.longDesc "<p>Veebilehitseja ei leidnud sellele aadressile vastavat serverit.</p><ul><li>Kas tegid ehk aadressi sisestamisel vea? (nt <q><strong>www</strong>.mozilla.org</q> asemel hoopis <q><strong>ww</strong>.mozilla.org</q>)</li><li>Kas oled kindel, et see aadress veel kehtib?  See ei pruugi enam registreeritud olla.</li><li>Kas ka teiste lehtede vaatamisel esineb probleeme?  Kontrolli oma võrguühendust ja nimeserveri sätteid.</li><li>Kas sinu arvuti või võrk on kaitstud tulemüüriga? Vigased tulemüüri sätted võivad segada veebilehitsemist.</li></ul>">
 
 <!ENTITY fileNotFound.title "Faili ei leitud">
-<!ENTITY fileNotFound.longDesc "<ul><li>Kas soovitud objekt võib olla ümber nimetatud, kustutatud või mujale paigutatud?</li><li>Kas aadressis võib olla kirjaviga või probleeme suurtähtedega?</li><li>Kas sul on objektile ligipääsemiseks piisavalt õigusi?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Kas soovitud objekt võib olla ümber nimetatud, kustutatud või mujale paigutatud?</li><li>Kas aadressis võib olla sisestusviga või probleeme suurtähtedega?</li><li>Kas sul on objektile ligipääsemiseks piisavalt õigusi?</li></ul>">
 
 <!ENTITY generic.title "Päringut pole võimalik lõpetada">
 <!ENTITY generic.longDesc "<p>Selle probleemi kohta pole lisainformatsiooni.</p>">
