@@ -29,7 +29,7 @@
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Misurazioni semplici">
 <!ENTITY aboutTelemetry.addonDetailsSection "Dettagli comp. aggiuntivo">
 <!ENTITY aboutTelemetry.lateWritesSection "Scritture ritardate">
-<!ENTITY aboutTelemetry.systemInfoSection "Informazioni di sistema">
+<!ENTITY aboutTelemetry.sessionInfoSection "Informazioni sulla sessione">
 <!ENTITY aboutTelemetry.addonHistogramsSection "Istogrammi raccolti da componenti aggiuntivi">
 <!ENTITY aboutTelemetry.toggle "Fare clic per visualizzare/nascondere la sezione">
 <!ENTITY aboutTelemetry.emptySection "(nessun dato raccolto)">
