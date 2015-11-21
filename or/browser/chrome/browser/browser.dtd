@@ -483,6 +483,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
+<!ENTITY searchWithHeader.label       "ଖୋଜିବା ଶବ୍ଦ:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -667,12 +669,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "ପ୍ରସ୍ଥାନ କରନ୍ତୁ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; ଛାଡ଼ନ୍ତୁ">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ବିଦାୟ ନିଅନ୍ତୁ"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-
+<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; ଛାଡ଼ନ୍ତୁ">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
