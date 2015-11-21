@@ -3,14 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-
-
-
+<!ENTITY windowTitle.label            "Publicēt lapu">
+<!ENTITY windowTitleSettings.label    "Publicēt iestatījumus">
+<!ENTITY publishTab.label             "Publicēt">
+<!ENTITY settingsTab.label            "Iestatījumi">
+<!ENTITY publishButton.label          "Publicēt">
 <!-- Publish Tab Panel -->
 
 
-
-
+<!ENTITY newSiteButton.label          "Jauna vietne">
+<!ENTITY newSiteButton.accesskey      "n">
 
 
 
@@ -37,6 +39,8 @@
 
 
 <!-- Settings Tab Panel -->
+<!ENTITY serverInfo.label             "Servera informācija">
+<!ENTITY loginInfo.label              "Pieteikšanās informācija">
 
 
 
@@ -52,8 +56,6 @@
 
 
 
-
-
-
-
+<!ENTITY savePassword.label           "Saglabāt paroli">
+<!ENTITY savePassword.accesskey       "S">
 

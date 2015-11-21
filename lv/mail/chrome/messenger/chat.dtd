@@ -2,6 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY onlineContactsHeader.label    "Tiešsaistes kontakti">
+<!ENTITY offlineContactsHeader.label   "Bezsaistes kontakti">
+<!ENTITY conversationsHeader.label     "Sarunas">
+
+
+
+
+
+
+
+
+
+<!ENTITY chat.showAccountManager.button       "Rādīt tērzēšanas statusu">
+
+<!ENTITY chat.participants             "Dalībnieki:">
 
 
 
@@ -13,25 +28,15 @@
 
 
 
+<!ENTITY openConversationButton.tooltip  "Sākt sarunu">
+<!ENTITY closeConversationButton.tooltip "Aizvērt sarunu">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY addBuddyButton.label          "Pievienot kontaktu">
+<!ENTITY joinChatButton.label          "Pievienoties tērzēšanai">
 
 
 <!ENTITY status.available          "Pieejams">
-
+<!ENTITY status.unavailable        "Nepieejams">
 <!ENTITY status.offline            "Nesaistē">
 
 
