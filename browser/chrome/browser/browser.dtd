@@ -110,9 +110,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; లోనికి ప్రవేశించండి">
-
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; అభీష్టాలు తెరువు">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; తిరిగి అనుసంధానించు">
-
+<!ENTITY fxaUnverified.label "మీ ఖాతాను నిర్ధారించండి">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; చేతనం">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; కాసేపట్లో సింక్రనించడం మొదలుపెడుతుంది.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "ఇప్పుడు పూర్తి తెరలో వుంది">
+<!ENTITY fullscreenWarning.generic.label "ఈ పత్రం ఇప్పుడు పూర్తి తెరలో వుంది">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "పూర్తి తెర నిష్క్రమించు (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "పూర్తి తెర నిష్క్రమించు (esc)">
 <!ENTITY leaveDOMFullScreen.label "నిండుతెర నిష్క్రమించు">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -188,9 +189,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "ముద్రించు">
 <!ENTITY printButton.tooltip          "ఈ పేజీని ముద్రించు">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "సేట్ సమాచారం చూడండి">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "ప్రకటన చూడండి">
 
 
 
@@ -438,7 +441,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable "కాధు">
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "అవును">
 
@@ -689,6 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "పేజీ శైలి">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -738,11 +742,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings. -->
 
-
+<!ENTITY identity.activeLoaded "ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.">
 
 <!-- Strings for connection state warnings in the subview. -->
 
-
+<!ENTITY identity.description.weakCipher "ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్క్రిప్షన్‌తో వుంది మరియు గుట్టుగా లేదు.">
 
 
 
@@ -759,7 +763,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "మరింత సమాచారం">
 
 <!ENTITY identity.permissions "అనుమతులు">
-
+<!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువoటి ప్రత్యేక అనుమతులూ ఇవ్వలేదు.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -770,6 +774,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "సింక్">
 
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; లోనికి ప్రవేశించండి…">
 
 <!ENTITY syncSyncNowItem.label        "ఇప్పుడు సింక్ అవుము">
 <!ENTITY syncSyncNowItem.accesskey    "S">
