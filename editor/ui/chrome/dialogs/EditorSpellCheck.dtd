@@ -9,27 +9,27 @@
 
 
 
+<!ENTITY ignoreButton.label "Ignorēt">
+<!ENTITY ignoreButton.accessKey "I">
+<!ENTITY ignoreAllButton.label "Ignorēt visus">
+<!ENTITY ignoreAllButton.accessKey "n">
 
 
 
 
 
 
+<!ENTITY userDictionary.label "Personīgā vārdnīca:">
 
 
 
-
-
-
-
-
-
-
+<!ENTITY editUserDictionaryButton.label "Rediģēt...">
+<!ENTITY editUserDictionaryButton.accessKey "e">
 
 
 <!ENTITY closeButton.label "Aizvērt">
 <!ENTITY closeButton.accessKey "A">
-
-
-
-
+<!ENTITY sendButton.label "Sūtīt">
+<!ENTITY sendButton.accessKey "S">
+<!ENTITY languagePopup.label "Valoda:">
+<!ENTITY languagePopup.accessKey "l">

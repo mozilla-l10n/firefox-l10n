@@ -33,8 +33,8 @@
 
 
 
-
-
+<!ENTITY saveAsMenu.label "Saglabāt kā">
+<!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Fails">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
@@ -195,8 +195,8 @@
 
 
 
-
-
+<!ENTITY msgsMenu.label "Ziņojumi">
+<!ENTITY msgsMenu.accesskey "m">
 
 
 
@@ -266,6 +266,8 @@
 
 
 
+<!ENTITY nextMsgCmd.label "Ziņojums">
+<!ENTITY nextMsgCmd.accesskey "m">
 
 
 
@@ -277,10 +279,8 @@
 
 
 
-
-
-
-
+<!ENTITY prevMsgCmd.label "Ziņojums">
+<!ENTITY prevMsgCmd.accesskey "m">
 
 
 
@@ -304,10 +304,12 @@
 
 <!-- Message Menu -->
 
+<!ENTITY msgMenu.label "Ziņojums">
+<!ENTITY msgMenu.accesskey "m">
 
 
-
-
+<!ENTITY newNewMsgCmd.label "Ziņojums">
+<!ENTITY newNewMsgCmd.accesskey "m">
 
 
 
@@ -430,7 +432,7 @@
 
 
 <!ENTITY imStatus.available          "Pieejams">
-
+<!ENTITY imStatus.unavailable        "Nepieejams">
 <!ENTITY imStatus.offline            "Nesaistē">
 
 
@@ -450,8 +452,8 @@
 
 
 
-
-
+<!ENTITY importCmd.label "Importēt...">
+<!ENTITY importCmd.accesskey "m">
 
 
 
@@ -622,7 +624,7 @@
 
 
 
-
+<!ENTITY attachmentColumn.label "Pielikumi">
 <!-- Thread Pane Tooltips -->
 
 
@@ -687,8 +689,8 @@
 
 
 
-
-
+<!ENTITY contextSaveAs.label "Saglabāt kā…">
+<!ENTITY contextSaveAs.accesskey "S">
 
 
 
@@ -817,7 +819,7 @@
 <!ENTITY preferencesCmdMac2.label       "Iestatījumi">
 
 
-
+<!ENTITY servicesMenuMac.label          "Pakalpojumi">
 
 
 
