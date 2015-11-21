@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox-konto'>
 <!ENTITY fxaccount_status_signed_in_as 'Logget inn som'>
+<!ENTITY fxaccount_status_manage_account 'Behandle konto'>
 <!ENTITY fxaccount_status_auth_server 'Kontoserver'>
 <!ENTITY fxaccount_status_sync_now 'Synk nå'>
 <!ENTITY fxaccount_status_syncing2 'Synkroniserer …'>
