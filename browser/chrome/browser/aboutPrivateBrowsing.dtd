@@ -13,13 +13,13 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
-
+<!ENTITY aboutPrivateBrowsing.title            "तपाईँ निजी ब्राउजिङ् गर्दै हुनुहुन्छ">
 
 <!ENTITY aboutPrivateBrowsing.info.notsaved    "बचत गरिएको छैन">
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
 <!ENTITY aboutPrivateBrowsing.info.searches    "खोजी">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कुकिज">
-
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "अस्थायी फाइलहरू">
 
 <!ENTITY aboutPrivateBrowsing.info.saved       "बचत गरियो">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोडहरू">
@@ -46,5 +46,6 @@
 <!ENTITY trackingProtection.state.disabled     "बन्द">
 
 
-
-
+<!ENTITY trackingProtection.disable            "अनुगमन सुरक्षा बन्द गरिँदै">
+<!ENTITY trackingProtection.enable             "ट्र्याकिङ सुरक्षा खोलिदैँ">
+<!ENTITY trackingProtection.startTour1         "यसले कसरी काम गर्छ हेर्नुहोस्">

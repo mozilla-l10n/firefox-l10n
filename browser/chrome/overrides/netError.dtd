@@ -21,9 +21,9 @@
 <li>टाइपिङ त्रुटिको निम्ति ठेगाना जाँच गर्नुहोस् जस्तै 
 <strong>ww</strong>.example.com को साटोमा 
 <strong>www</strong>.example.com</li> 
-<li>यदि कुनै पनि पृष्ठ लोड गर्न तपाईं असमर्थ हुनुहुन्छ भने, 
+<li>यदि कुनै पनि पृष्ठ लोड गर्न तपाईँ असमर्थ हुनुहुन्छ भने, 
 कृपया आफ्नो कम्प्युटरको नेटवर्क जडान जाँच गर्नुहोस्।</li> 
-<li>यदि तपाईंको कम्प्युटर वा सञ्जाल अथवा नेटवर्क कुनै फायरवाल अथवा प्रोक्सीबाट सुरक्षित गरिएको छ भने, 
+<li>यदि तपाईँको कम्प्युटर वा सञ्जाल अथवा नेटवर्क कुनै फायरवाल अथवा प्रोक्सीबाट सुरक्षित गरिएको छ भने, 
 &brandShortName; लाई वेब पहुँचको अनुमति छ भन्ने निश्चित गर्नुहोस्।</li> 
 </ul>">
 
@@ -132,7 +132,7 @@
 <!ENTITY malwareBlocked.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p> 
 <p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>">
 
-
+<!ENTITY unwantedBlocked.longDesc "<p>नचाहिँदो सफ्टवेयर पृष्ठहरूले जाली र तपाईँको प्रणालीलाई हानी गर्ने सफ्टवेयरहरू स्थापना गर्न सक्छ।</p>">
 
 <!ENTITY phishingBlocked.title "संकास्पद संजाल जालसाजी!">
 <!ENTITY phishingBlocked.longDesc "<p>व्यक्तिगत जानकारी यो पृष्ठमा राख्नुको नतिजा पहिचानको चोरी वा अन्य छल-कपट हुन सक्छ।</p> 
@@ -155,7 +155,7 @@ functionality specific to firefox. -->
 
 
 
-
+<!ENTITY errorReporting.learnMore "अझ जान्नुहोस्…">
 <!ENTITY errorReporting.sending "रिपोर्ट पठाउनुहोस्">
 
 <!ENTITY errorReporting.report "सुचित">
@@ -167,10 +167,11 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "सुरक्षित जडान गर्न असमर्थ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-
+<!ENTITY sslv3Used.learnMore "अझ जान्नुहोस्…">
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
+<!ENTITY weakCryptoUsed.longDesc "उन्नत जानकारी: ssl_error_no_cypher_overlap">
 <!ENTITY weakCryptoUsed.learnMore "अझ जान्नुहोस्…">
 
 

@@ -4,18 +4,19 @@
 
 <!ENTITY window.title                     "अपवाद - अनुवाद">
 <!ENTITY window.width                     "36em">
+<!ENTITY windowClose.key                  "w">
 
-
+<!ENTITY noTranslationForLanguages.label  "निम्न भाषाहरूमा अनुवाद उपलब्ध छैन :">
 <!ENTITY treehead.languageName.label      "भाषाहरू">
 
 
-
-
+<!ENTITY removeAllLanguages.label         "सबै भाषाहरू हटाउनुस">
+<!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "निम्न साइटहरूको लागि अनुवाद प्रदान गरिने छैन: ">
 <!ENTITY treehead.siteName.label          "साइट">
-
-
+<!ENTITY removeSite.label                 "साइट हटाउनुहोस्">
+<!ENTITY removeSite.accesskey             "S">
 
 
 
