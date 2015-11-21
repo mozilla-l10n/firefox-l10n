@@ -45,6 +45,7 @@
 
 <!ENTITY servicesMenuMac.label          "സേവനങ്ങള്‍">
 
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; മറയ്ക്കുക">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "മറ്റുള്ളവ മറയ്ക്കുക">
