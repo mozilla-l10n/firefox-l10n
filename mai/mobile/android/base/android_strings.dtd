@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; आओर कलेल पर्याप्त स्थान उपलब्ध नहि अछि; आरंभ करब कलेल.">
 <!ENTITY  error_loading_file "&brandShortName; केँ चालू करए खातिर जरूरी फाइल केँ लोड करबाक कोसिस केर दौरान त्रुटि भेल;">
 
-
+<!ENTITY firstrun_panel_title_welcome "स्वागत अछि!">
+<!ENTITY  onboard_start_message3 "&brandShortName; सँ ब्राउज करू">
 
 <!ENTITY  onboard_start_button_account "&brandShortName; मे साइन इन करू">
 <!ENTITY  onboard_start_button_browser "हँसपद ब्राउजिंग">
