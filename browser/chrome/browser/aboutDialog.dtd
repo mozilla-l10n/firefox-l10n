@@ -71,7 +71,7 @@
 
 <!ENTITY update.failed.start        "अद्यतन विफल. ">
 <!ENTITY update.failed.linkText     "नवीनतम संस्करण डाउनलोड करू ">
-<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.end          "अद्यतन असफल खतम">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,

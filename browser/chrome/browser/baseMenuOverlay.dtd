@@ -25,8 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "सहयुक्तिक सँग फेर आरंभ  कएनाइ  निष्क्रिय…">
 <!ENTITY helpSafeMode.accesskey   "R">
-
-
+<!ENTITY helpSafeMode.stop.label       "ऐड-ऑन सक्षम केर सँग फेर आरंभ करू (R)">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShortName; स्वास्थ्य रिपोर्ट (e)">
 <!ENTITY healthReport2.accesskey  "e">

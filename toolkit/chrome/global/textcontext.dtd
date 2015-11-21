@@ -29,9 +29,9 @@
 
 <!ENTITY fillLoginMenu.label          "लॉगिन भरू (F)">
 <!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "कूटशब्द भरू (F)">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "उपयोक्तानाम भरू (F)">
+<!ENTITY fillUsernameMenu.accesskey   "F">
 
-
-
-
-
-
+<!ENTITY viewSavedLogins.label        "सहेजल लॉगिन देखू">

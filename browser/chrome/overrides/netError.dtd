@@ -144,13 +144,14 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "ई त्रुटि केर रिपोर्ट करू">
+<!ENTITY errorReporting.longDesc "<span id='hostname'></span> कलेल पता आओर प्रमाण पत्र जानकारी प्रदान करए सँ हमरा सभक दुर्भावनापूर्ण साइट केर पहिचान करए आओर ब्लॉक करए मे मदति भेटत. एकटा सुरक्षित वेब बनाबै मे मदति कलेल धन्यवाद!">
+<!ENTITY errorReporting.automatic "भविष्य मे स्वचालित रूप सँ त्रुटि केर रिपोर्ट करू">
 <!ENTITY errorReporting.learnMore "आओर जानू…">
-
-
-
-
+<!ENTITY errorReporting.sending "रिपोट पठाए रहल अछि">
+<!ENTITY errorReporting.sent "रिपोर्ट पठाएल गेल">
+<!ENTITY errorReporting.report "रिपोर्ट">
+<!ENTITY errorReporting.tryAgain "फेर कोशिश करू">
 
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">
@@ -158,11 +159,14 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "सुरक्षित रूप सँ कनेक्ट करए मे असमर्थ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "उन्नत जानकारी: ssl_error_unsupported_version">
 
 
+<!ENTITY weakCryptoUsed.title "अहाँक कनेक्शन सुरक्षित नहि अछि">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
-
+<!ENTITY weakCryptoUsed.longDesc "उन्नत जानकारी: ssl_error_no_cypher_overlap">
+<!ENTITY weakCryptoUsed.learnMore "आओर जानू…">
 
 
 
