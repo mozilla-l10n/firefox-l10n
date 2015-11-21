@@ -194,26 +194,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
 <!ENTITY urlbar.defaultNotificationAnchor.label         "ప్రకటన చూడండి">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "స్థానపు అభ్యర్ధనను చూడండి">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "పొడిగింత సంస్థాపనా సందేశం చూడండి">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "ఏప్-ఆఫ్‌లైన్ స్టోరేజ్ సందేశం చూడండి">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "మీ లాగిన్ సమాచారం నిర్వహించండి">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "మీ సంకేతపదం దాచుకోవడానికి చెక్ చేయండి">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "అనువర్తనం సంస్థాపన సందేశం చూడండి">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "ఈ పేజీలో చొప్పింత వాడుకను నిర్వహించండి">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "సైటు మీకు గమనింపులను చూపాలో లేదో మార్చుకోండి">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించుకోండి">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకుంటున్నారు">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "సైటుతో మీ మైక్రోఫోనుని పంచుకోవడాన్ని నిర్వహించండి">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "ఈ సైటుతో మీ మైక్రోఫోనుని పంచుకుంటున్నారు">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "ఈ సైటుతో మీ కిటికీలను లేదా తెరను పంచుకోడాన్ని నిర్వహించండి">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "ఈ సైటుతో మీరు ఒక కిటికీని లేదా మీ తెరను పంచుకుంటున్నారు">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "సూచికని సైటు దాచివుంచాలో లేదో మార్చండి">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "సేవ సంస్థాపన సందేశం చూడండి">
+<!ENTITY urlbar.translateNotificationAnchor.label       "ఈ పేజీని అనువదించండి">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "పేజీ అనువాదాన్ని నిర్వహించండి">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM సాఫ్ట్‌వేరు వాడుకను నిర్వహించండి">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">
 
 <!ENTITY searchItem.title             "వెతుకు">
 <!-- Toolbar items --> 
@@ -248,14 +251,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "దింపుకోళ్ళు (D)">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "పొడిగింతలు">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "అనువర్తనాలు">
 <!ENTITY webapps.accesskey            "p">
-
-
+<!ENTITY loopMenuItem.label           "సంభాషణ ప్రారంభించు...">
+<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "వెబ్ అభివృద్దికారి">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -333,16 +336,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "దస్త్రం (F)"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "కొత్త కంటైనర్ టాబ్">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "వ్యక్తిగతం">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "ఉద్యోగం">
+<!ENTITY userContextWork.accesskey        "W">
+<!ENTITY userContextBanking.label         "బ్యాంకింగ్">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "షాపింగ్">
+<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "కొత్త విండో">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -439,12 +442,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "టాబ్‌నకు మారుము:">
 
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "మీ శోధన అనుభవాన్ని సలహాలతో మెరుగుపరచాలని అనుకుంటున్నారా?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "మరింత తెలుసుకోండి…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "కాధు">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "అవును">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -473,6 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "వెతకవలసిన ప్రశ్న">
+<!ENTITY contentSearchSubmit.label    "వెతకమని చెప్పు">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -499,9 +505,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "అన్వేషణ అమర్పులను మార్చు">
 
-
-
-
+<!ENTITY searchInNewTab.label         "కొత్త టాబులో వెతుకు">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "అప్రమేయ శోధన యంత్రంగా అమర్చండి">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -732,33 +739,38 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "అయినది">
 <!ENTITY editBookmark.cancel.label                   "రద్దుచేయి">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "సురక్షిత అనుసంధానం">
 <!ENTITY identity.connectionNotSecure "అనుసంధానం సురక్షితం కాదు">
-
-
+<!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్ నందు వుంచబడును.">
+<!ENTITY identity.connectionVerified1 " ఈ సైటుకు మీరు సురక్షితంగా అనుసంధానమయ్యారు, సైటుని నడుపుతోంది:">
 <!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
-
+<!ENTITY identity.insecureLoginForms "మీ లాగిన్ రాజీ అయ్యుండొచ్చు">
 <!-- Strings for connection state warnings. -->
 
+<!ENTITY identity.activeBlocked "సురక్షితంకాని భాగాలను &brandShortName; ఈ పేజీనందు నిరోధించినది.">
+<!ENTITY identity.passiveLoaded "ఈ పేజీలోని భాగాలు సురక్షితం కావు (చిత్రాలు వంటివి).">
 <!ENTITY identity.activeLoaded "ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.">
-
+<!ENTITY identity.weakEncryption "ఈ పేజీ బలహీనమైన ఎన్క్రిప్షన్ ఉపయోగిస్తోంది.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడంలేదు. మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డ్స్, మొదలగునవి).">
+<!ENTITY identity.description.insecureLoginForms "ఈ పేజీలో మీరు అందించిన లాగిన్ సమాచారం సురక్షితంకాదు మరియు రాజీపడవచ్చు.">
 <!ENTITY identity.description.weakCipher "ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్క్రిప్షన్‌తో వుంది మరియు గుట్టుగా లేదు.">
+<!ENTITY identity.description.weakCipher2 "ఇతరులు మీ సమాచారం చూడగలరు లేదా వెబ్‌సైట్ పనితీరుని మార్చగలరు.">
+<!ENTITY identity.description.activeBlocked "సురక్షితంకాని భాగాలను &brandShortName; ఈ పేజీలో నిరోధించినది.">
+<!ENTITY identity.description.passiveLoaded "ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడం మరియు మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు.">
+<!ENTITY identity.description.passiveLoaded2 "ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్ కలిగివుంది (చిత్రాలు వంటివి).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; కొంత కాంటెంట్‌ను నిరోధించినప్పటికీ, ఇంకా పేజీపై సురక్షితం కాని కాంటెంట్ వుంది (చిత్రాలు వంటివి).">
+<!ENTITY identity.description.activeLoaded "ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్‌ను కలిగివుంది (స్క్రిప్ట్స్ వంటివి) మరియు దానికి మీరు గుట్టుగా అనుసంధానంకాలేదు.">
+<!ENTITY identity.description.activeLoaded2 "ఈ సైటుతో మీరు పంచుకున్న సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డ్స్, మొదలగునవి).">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "రక్షణను చేతనించు">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "ఇప్పటికి రక్షణను అచేతనించు">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "మరింత తెలుసుకోండి">
 
 <!ENTITY identity.moreInfoLinkText2 "మరింత సమాచారం">
 
@@ -775,7 +787,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "సింక్">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; లోనికి ప్రవేశించండి…">
-
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ఇప్పుడు సింక్ అవుము">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; తిరిగి అనుసంధానించు...">
@@ -836,29 +848,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "పంచుకొనుటకు మైక్రోఫోన్:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "టాబ్ నుండి ఆడియో పంచబడును.">
 <!ENTITY getUserMedia.allWindowsShared.message "మీ తెరపైన కనిపించు అన్ని విండోలు పంచుకోబడును.">
 
-
-
-
+<!ENTITY trackingProtection.title "ట్రాకింగ్ సంరక్షణ">
+<!ENTITY trackingProtection.detectedBlocked3 "మీ విహరణ జాడ తెలుసుకునేందు ఈ పైజీపై వున్న భాగములను &brandShortName; నిరోధిస్తోంది.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "మీ విహరణ జాడ తెలుసుకొనే ఎలిమెంట్లను ఈ సైట్ కలిగివుంది. మీరు రక్షణను అచేతనించారు.">
+<!ENTITY trackingProtection.notDetected3 "ఈ పేజీపైన ఎటువంటి జాడ తెలుసుకొనే ఎలిమెంట్స్ లేవు.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "ఈ సైటుకు రక్షణను అచేతనంచేయి">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "ఈ సెషన్‌కు రక్షణను అచేతనంచేయి">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "రక్షణను చేతనించు">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "ఆరాతీస్తోంది">
 <!ENTITY trackingContentBlocked.moreinfo "మీ ఆన్‌లైన్ కార్యకలాపాలను ట్రాక్ చేసే పేజీనందలి కొన్ని భాగాలు నిరోధించబడినవి.">
 <!ENTITY trackingContentBlocked.learnMore "మరింత నేర్చుకో">
-
-
-
+<!ENTITY trackingContentBlocked.options "ఎంపికలు">
+<!ENTITY trackingContentBlocked.unblock2.label "ఈ సైటుకు రక్షణను అచేతనంచేయి">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "రక్షణను చేతనించు">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ట్రాకింగ్ రక్షణ అచేతనించబడెను">
