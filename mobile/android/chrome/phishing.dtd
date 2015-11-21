@@ -17,4 +17,5 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ଏହି ପ୍ରକାରର ୱେବ କୂଟରଚନାକୁ ଘୋଟାଲାରେ ବ୍ୟବହାର କରାଯାଇଥାଏ ଯାହାକୁ ଫିସିଙ୍ଗ ଆକ୍ରମଣ କୁହାଯାଏ, ଯେଉଁଥିରେ କୂଟଚକ୍ରାନ୍ତ ୱେବ ପୃଷ୍ଠା ଏବଂ ଇମେଲଗୁଡ଼ିକୁ ଆପଣ ବିଶ୍ୱାସ କରୁଥିବା ଉତ୍ସକୁ ନକଲ କରିବା ପାଇଁ ବ୍ୟବହାର କରାଯାଇଥାଏ। ଆପଣ ଏହା ବିଷୟରେ ଅଧିକ ତଥ୍ୟ ପାଇପାରିବେ। </p>">
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/>ରେ ଥିବା ଏହି ୱେବ ପୃଷ୍ଠାରେ ଅଦରକାରୀ ସଫ୍ଟଓଏର ଅଛି ବୋଲି ଚିହ୍ନଟ ହୋଇଥିବାରୁ ଆପଣଙ୍କ ନିରାପତ୍ତା ପସନ୍ଦ ଆଧାରରେ ଏହା ଅଟକାଯାଇଛି ।">
 
