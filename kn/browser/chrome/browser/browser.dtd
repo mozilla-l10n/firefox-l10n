@@ -68,7 +68,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ಮುದ್ರಣ ಮುನ್ನೋಟ">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Print…">
+<!ENTITY printCmd.label "ಮುದ್ರಿಸು...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
