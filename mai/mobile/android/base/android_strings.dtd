@@ -8,15 +8,17 @@
 
 <!ENTITY firstrun_panel_title_welcome "स्वागत अछि!">
 <!ENTITY  onboard_start_message3 "&brandShortName; सँ ब्राउज करू">
-
+<!ENTITY  onboard_start_subtext3 "अपन मोबाइल वेब ब्राउज़िंग अनुभव वास्तव मे स्वयं अपना लेल बनाबू.">
 <!ENTITY  onboard_start_button_account "&brandShortName; मे साइन इन करू">
 <!ENTITY  onboard_start_button_browser "हँसपद ब्राउजिंग">
+<!ENTITY firstrun_button_next "आगाँ">
 
+<!ENTITY  onboard_start_restricted1 "सुरक्षित आओर &brandShortName; केर ई सरल संस्करण केर नियंत्रण मे रहू. ">
 
-
-
-
-
+<!ENTITY firstrun_import_title "आयात करू">
+<!ENTITY firstrun_import_message " &brandShortName; मे स्वागत अछि!">
+<!ENTITY firstrun_import_subtext "अपन पुस्तकचिह्न आओर इतिहासकेँ दोसर ब्राउजरसँ आयात करू.">
+<!ENTITY firstrun_import_action "&brandShortName; मे साइन इन करू">
 <!ENTITY firstrun_import_dialog_button "हस्तांतरित करू">
 <!ENTITY firstrun_import_progress_title "हस्तांतरण भ\u0027 रहल अछि">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -235,16 +237,18 @@
 <!ENTITY tab_queue_toast_action "अखन खोलू">
 <!ENTITY tab_queue_prompt_title "एकाधिक लिंक खोलू? ">
 <!ENTITY tab_queue_prompt_text4 "ओकरा सहेजने राखू जखन धरि अहाँ अगिला बेर &brandShortName; खोलैत छी.">
-
-
-
-
+<!ENTITY tab_queue_prompt_tip_text2 "अहाँ बाद मे सेटिंग में एकरा बदैल सकैत छी ">
+<!ENTITY tab_queue_prompt_positive_action_button "सक्रिय">
+<!ENTITY tab_queue_prompt_negative_action_button "अखन नहि">
+<!ENTITY tab_queue_notification_title " &brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; टैब इंतज़ार कए रहल अछि">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 टैब इंतज़ार कए रहल अछि ">
 
 <!ENTITY pref_char_encoding "वर्ण ऐन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेनू देखाउ">
@@ -255,9 +259,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; अपने डाटाकेँ साफ करताह जखन अहाँ \u0022Quit\u0022 केँ मुख्य मेन्यूसँ चुनैछी">
 <!ENTITY pref_clear_on_exit_dialog_title "चुनू कओन डाटाकेँ साफ कएनाइ अछि">
 <!ENTITY pref_plugins "प्लगइन">
-
+<!ENTITY pref_plugins_enabled "सक्रिय">
 <!ENTITY pref_plugins_tap_to_play "चलाबै कलेल टैप करू">
-
+<!ENTITY pref_plugins_disabled "निष्क्रिय">
 <!ENTITY pref_text_size "पाठ आकार">
 <!ENTITY pref_restore "टैब">
 <!ENTITY pref_restore_always "हरदम पुनर्बहाल करू">
@@ -273,6 +277,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -280,30 +285,30 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "स्वचालन के लेल अनुमति दिय\u0027">
 <!ENTITY pref_media_autoplay_enabled_summary "नियंत्रित करु यदि वेबसाइट सब वीडियोज आउर दोसर मीडिया सामग्री सब के स्वचालित क\u0027 सकैत अछि">
-
-
-
-
-
-
+<!ENTITY pref_zoom_force_enabled "हमेशा जूम सक्षम करू">
+<!ENTITY pref_zoom_force_enabled_summary "बल ओवरराइड अछि, ताकि अहाँ कोनो पृष्ठ ज़ूम कए सकैत छी ">
+<!ENTITY pref_voice_input "ध्वनि क इनपुट">
+<!ENTITY pref_voice_input_summary "शीर्षक पट्टी मे आवाज श्रुतलेख केर अनुमति दिअ">
+<!ENTITY pref_qrcode_enabled "QR कोड रीडर">
+<!ENTITY pref_qrcode_enabled_summary "शीर्षक पट्टी मे क्यूआर स्कैनर क अनुमति दिअ">
 
 <!ENTITY pref_use_master_password "मुख्य गुड़किल्ली क\u0027 प्रयोग  करू ">
 <!ENTITY pref_sync "सिंक">
-
+<!ENTITY pref_sync_summary2 "टैब, पुस्तकचिह्न, लॉगिन, इतिहास सिंक करू">
 <!ENTITY pref_search_suggestions "खोज सलाह देखाउ">
-
+<!ENTITY pref_history_search_suggestions "खोज इतिहास देखाबू">
 <!ENTITY pref_import_android "एंड्रायड सँ आयात करू">
 <!ENTITY pref_import_android_summary "पुस्तकचिह्न आओर इतिहासकेँ नेटिव ब्राउजरसँ आयात करू">
 <!ENTITY pref_private_data_history2 "ब्राउजिंग इतिहास">
-
-
+<!ENTITY pref_private_data_searchHistory "इतिहास खोजू">
+<!ENTITY pref_private_data_formdata2 "इतिहास सँ">
 <!ENTITY pref_private_data_cookies2 "कुकीज आ सक्रिय लागिन">
-
+<!ENTITY pref_private_data_passwords2 "सहेजल लॉगिन">
 <!ENTITY pref_private_data_cache "कैश">
 <!ENTITY pref_private_data_offlineApps "आफलाइन वेबसाइट आँकड़ा">
 <!ENTITY pref_private_data_siteSettings2 "सेटिंग देखाउ">
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोड">
-
+<!ENTITY pref_private_data_syncedTabs "सिंक कएल टैब">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; आरम्भ करू ">
@@ -345,28 +350,30 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "क्रैश रिपोटर">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; अवस्थिति सेवा">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "मदति &vendorShortName; दुनिया केँ आपस मे जोड़ैत अछि ! हमर जियोलोकेशन सेवा मे सुधार करबाक लेल अनुमानित वाई-फाई आओर अपन डिवाइस केर सेलुलर स्थान साझा करू।">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "अद्यतन स्वतः डाउनलोड करू">
-
+<!ENTITY pref_update_autodownload_wifi "केवल वाय-फ़ाय पर">
 <!ENTITY pref_update_autodownload_never "कहियो नहि">
 <!ENTITY pref_update_autodownload_always "हमेशा">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "मदति">
+
 <!ENTITY quit "छोड़ू">
 
 <!ENTITY addons "सहयुक्ति">
-
-
+<!ENTITY logins "लॉगिन">
+<!ENTITY downloads "डाउनलोड">
 <!ENTITY char_encoding "वर्ण एन्कोडिंग">
 
 <!ENTITY share "साझा करू">
 <!ENTITY share_title "एकरासँ साझा करू">
 <!ENTITY share_image_failed "ई छवि केँ साझा करए मे असमर्थ">
 <!ENTITY save_as_pdf "बतौर पीडीएफ़ सहेजू">
-
+<!ENTITY print "छापू">
 <!ENTITY find_in_page "पृष्ठ मे ताकू">
 <!ENTITY desktop_mode "डेस्कटाप साइटक लेल आग्रह करू">
 <!ENTITY page "पृष्ठ">
@@ -375,7 +382,7 @@ size. -->
 <!ENTITY new_private_tab "नव निज टैब">
 <!ENTITY close_all_tabs "सभटा टैब बन्न करू">
 <!ENTITY close_private_tabs "निज टैब बन्न करू">
-
+<!ENTITY tabs_normal "टैब">
 <!ENTITY tabs_private "निज">
 <!ENTITY tabs_synced "सिंक कएल">
 <!ENTITY set_image_fail "छवि सेट करए मे असमर्थ">
@@ -383,47 +390,51 @@ size. -->
 <!ENTITY set_image_chooser_title "बिंब एहि रूपमे सेट करू">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "पृष्ठ मे खोजू">
 <!ENTITY find_prev "पाछाँ">
-
-
+<!ENTITY find_next "आगाँ">
+<!ENTITY find_close "बन्न करू">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "युक्ति मे पठाउ">
 <!ENTITY media_play "बजाउ">
 <!ENTITY media_pause "ठहरू">
-
+<!ENTITY media_stop "रोकू">
 
 <!ENTITY contextmenu_open_new_tab "नव टैब मे खोलू">
 <!ENTITY contextmenu_open_private_tab "निज टैब मे खोलू">
-
+<!ENTITY contextmenu_remove "हटाउ">
 <!ENTITY contextmenu_add_to_launcher "घर स्क्रीन पर जोड़ू">
-
+<!ENTITY contextmenu_share "साझा करू">
 <!ENTITY contextmenu_pasteandgo "साटू आओर बढू">
 <!ENTITY contextmenu_paste "साटू">
 <!ENTITY contextmenu_copyurl "पता नक़ल करू">
 <!ENTITY contextmenu_edit_bookmark "संपादन">
 <!ENTITY contextmenu_subscribe "ई पृष्ठ क सदस्यता लिअ\u0027">
 <!ENTITY contextmenu_site_settings "साइट सेटिंग संपादित करू">
-
+<!ENTITY contextmenu_top_sites_edit "संपादन">
 <!ENTITY contextmenu_top_sites_pin "साइट पिन करू">
 <!ENTITY contextmenu_top_sites_unpin "साइट अनपिन करू">
 <!ENTITY contextmenu_add_search_engine "खोज इंजन जोड़ू">
-
-
+<!ENTITY contextmenu_mark_read "पढ़ल रूपेँ चिह्नित करू">
+<!ENTITY contextmenu_mark_unread "बिनु पढ़ल रूपेँ चिह्नित करू">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[कोनो उपयोक्ता नाम नहि] ">
+<!ENTITY doorhanger_login_edit_title "लॉगिन सम्पादित करू">
 <!ENTITY doorhanger_login_edit_username_hint "प्रयोक्तानाम">
-
-
-
-
-
-
-
-
+<!ENTITY doorhanger_login_edit_password_hint "गुड़किल्ली">
+<!ENTITY doorhanger_login_edit_toggle "गुड़किल्ली देखाउ">
+<!ENTITY doorhanger_login_edit_toast_error "लॉगिन सहेजए मे विफल ">
+<!ENTITY doorhanger_login_select_message "&formatS; सँ पासवर्ड कॉपी करू?">
+<!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्ड मे पासवर्ड कॉपी कएल गेल">
+<!ENTITY doorhanger_login_select_toast_copy_error "गुड़किल्ली कॉपी नहि कएल जाए सकल">
+<!ENTITY doorhanger_login_select_action_text "दोसर लॉगिन चयन करू">
+<!ENTITY doorhanger_login_select_title "सँ पासवर्ड कॉपी करू">
 
 <!ENTITY pref_titlebar_mode "शीर्षक पट्टी">
 <!ENTITY pref_titlebar_mode_title "पृष्ठ शीर्षक देखाउ">
@@ -437,7 +448,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "पूर्ण स्क्रीन ब्राउजिंग">
 <!ENTITY pref_scroll_title_bar_summary "&brandShortName; शीर्षक पट्टीकेँ नुकाउ जखन पृष्ठक स्क्राल डाउन करैछ">
 
-
+<!ENTITY pref_tab_queue_title2 "अनेक लिंक खोलू">
+<!ENTITY pref_tab_queue_summary3 "ओकरा सहेजने राखू जखन धरि अहाँ अगिला बेर &brandShortName; खोलैत छी.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -452,14 +464,17 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "सेटिंग देखाउ">
-
+<!ENTITY site_settings_cancel       "रद्द करू ">
 <!ENTITY site_settings_clear        "साफ करू ">
 <!ENTITY site_settings_no_settings  "सफाइ कलेल कोनो सेटिंग नहि.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "पठन सूचीमे जोड़ू">
 <!ENTITY reading_list_removed "पाठ सूची सँ पृष्ठ हटायल">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "पढ़बाक सूची सँ हटाबू">
 <!ENTITY reading_list_duplicate "पाठ सूची मे पृष्ठ पहिने सँ अछि">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -474,16 +489,16 @@ size. -->
 
 <!ENTITY masterpassword_create_title "मुख्य गुड़किल्ली बदलू">
 <!ENTITY masterpassword_remove_title "मुख्य गुड़किल्ली हटाउ">
-
+<!ENTITY masterpassword_password "गुड़किल्ली">
 <!ENTITY masterpassword_confirm "गुड़किल्ली निश्चित करू">
 
 <!ENTITY button_ok "बेस">
-
+<!ENTITY button_cancel "रद्द करू ">
 <!ENTITY button_yes "हँ">
 <!ENTITY button_no "नहि">
 <!ENTITY button_clear_data "आँकड़ा साफ करू">
-
-
+<!ENTITY button_set "सेट करू">
+<!ENTITY button_clear "साफ करू ">
 <!ENTITY button_copy "नकल करू">
 
 <!ENTITY home_top_sites_title "टाप साइट">
@@ -494,7 +509,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; होम">
-
+<!ENTITY home_history_title "इतिहास">
 <!ENTITY home_clear_history_button "ब्राउजिंग इतिहास साफ करू">
 <!ENTITY home_clear_history_confirm "की अहाँ सुनिश्चित छी जे अहाँ अपन इतिहासकेँ साफ कएनाइ चाहैत अछि?">
 <!ENTITY home_bookmarks_empty "अहाँक सहेजल पुस्तचिह्न एतए देखाइ पड़त.">
@@ -552,6 +567,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "खोज बीजशब्द दर्ज करू">
 
+<!ENTITY filepicker_title "फाइल चुनू">
 <!ENTITY filepicker_audio_title "आवाज चुनू अथवा रिकोड करू">
 <!ENTITY filepicker_image_title "तस्वीर चुनू अथवा खींचू">
 <!ENTITY filepicker_video_title "वीडियो चुनू अथवा रिकोड करू">
@@ -569,7 +585,8 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "सुरक्षित कनेक्शन">
+<!ENTITY identity_connection_insecure "असुरक्षित कनेक्शन">
 
 <!-- Mixed content notifications in site identity popup -->
 
@@ -578,8 +595,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Tracking content notifications in site identity popup -->
 
 
-
-
+<!ENTITY doorhanger_tracking_message_enabled1 "अहाँक ऑनलाइन व्यवहार पर नजर राखए क प्रयास केँ अवरोध कए देल गेल अछि.">
+<!ENTITY doorhanger_tracking_message_disabled2 "ई पृष्ठ ओ तत्व शामिल करैत अछि जे अहाँक ब्राउज़िंग ट्रैक कए सकैत अछि.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "आओर जानू">
@@ -590,6 +607,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "निज आँकड़ा साफ कएलक">
 <!ENTITY private_data_fail "किछु निज आँकड़ा साफ नहि भए सकैछ">
 
+<!ENTITY bookmarkhistory_button_import "आयात करू">
 <!ENTITY bookmarkhistory_import_both "एंड्रायड सँ पुस्तकचिह्न आओर इतिहास 
 केर आयात जारी">
 <!ENTITY bookmarkhistory_import_bookmarks "एंड्रायड सँ पुस्तकचिह्न 
@@ -625,34 +643,45 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "डाउनलोड हए पर अद्यतन लागू करए कलेल छुउ">
 <!ENTITY updater_downloading_retry2 "पुनःप्रयास कलेल छुउ">
 
+<!ENTITY updater_apply_title2 "&brandShortName; कलेल अद्यतन उपलब्ध">
 <!ENTITY updater_apply_select2 "अद्यतन कलेल छुउ">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "नवअतिथि सत्र">
 <!ENTITY exit_guest_session "अतिथि सत्र सँ बाहर">
 <!ENTITY guest_session_dialog_continue "जारी राखू">
-
+<!ENTITY guest_session_dialog_cancel "रद्द करू ">
 <!ENTITY new_guest_session_title "&brandShortName; आब फिनु आरंभ हाएत">
-
+<!ENTITY new_guest_session_text2 "कोनो आओर व्यक्ति अहाँक निज ब्राउजिंग आँकड़ा (सहेजल लिंक, इतिहास अथवा पुस्तकचिह्न) नहि देख सकत .\n\n अतिथि केर जाए क बाद ओकर ब्राउजिंग आँकड़ा सेहो मेट जएताह आओर अहाँक सत्र फेर बहाल भ जएताह.">
 <!ENTITY guest_browsing_notification_title "अतिथि ब्राउजिंग सक्रिय अछि">
 <!ENTITY guest_browsing_notification_text "बाहर निकलब लेल टैप करू">
 
+<!ENTITY exit_guest_session_title "&brandShortName; आब फिनु आरंभ हाएत">
 <!ENTITY exit_guest_session_text "ई सत्र सँ ब्राउजिंग आँकड़ा मेटाय देल जएताह.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037; ">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "मेनू">
 <!ENTITY actionbar_done "संपन्न">
 <!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "आब बाजू">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -662,12 +691,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "अंतिम सिंक: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "अंतिम बार सिंक भेल: कहियो नहि">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "आ">
 
+<!ENTITY intent_uri_cannot_open "लिंक नहि खोलि सकल">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -679,27 +710,36 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "निज ब्राउजिंग सँ बाहर आउ?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "अहाँक आन डिवाइस पर प्रदर्शित QR कोड कलेल स्कैन कए रहल अछि">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_import_settings_title2 "\u0027ऐंड्रॉयड सँ आयात\u0027 निष्क्रिय करू">
+<!ENTITY restriction_disallow_addons_title2 "ऐड-ऑन संस्थापन निष्क्रिय करू">
+<!ENTITY restriction_disallow_devtools_title2 "डेवलपर उपकरण निष्क्रिय करू">
+<!ENTITY restriction_disallow_customize_home_title2 "घर मनपसंदीकरण निष्क्रिय करू">
+<!ENTITY restriction_disallow_private_browsing_title2 "निज ब्राउज़िंग आरंभ करू ">
+<!ENTITY restriction_disallow_location_services_title2 "स्थान सेवा निष्क्रिय करू">
+<!ENTITY restriction_disallow_display_settings_title2 "प्रदर्शिन सेटिंग निष्क्रिय करू">
+<!ENTITY restriction_disallow_clear_history_title2 "\u0027साफ़ ब्राउज़िंग इतिहास\u0027 निष्क्रिय करू">
+<!ENTITY restriction_disallow_master_password_title2 "प्रमुख गुड़किल्ली निष्क्रिय करू">
+<!ENTITY restriction_disallow_guest_browsing_title2 "अतिथि ब्राउजिंग निष्क्रिय करू">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "फायरफाक्स: अहाँक ब्राउजर क संबंध मे">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "फायरफाक्स : सहयुक्ति मनपसिन्न बनाउ">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "फायरफाक्स: समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
