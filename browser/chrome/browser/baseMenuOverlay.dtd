@@ -16,8 +16,8 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "&brandShortName; സംബന്ധിച്ചു്">
 <!ENTITY aboutProduct2.accesskey  "സ">
-
-
+<!ENTITY productHelp2.label       "&brandShorterName; സഹായം (H)">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "കീബോര്‍ഡിനുള്ള കുറുക്കുവഴികള്‍">
@@ -37,7 +37,8 @@
 <!ENTITY helpFeedbackPage.label      "അഭിപ്രായം രേഖപ്പെടുത്തുക…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-
+<!ENTITY helpShowTour2.label            "&brandShorterName; പര്യടനം (o)">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "മുന്‍ഗണനകള്‍...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
