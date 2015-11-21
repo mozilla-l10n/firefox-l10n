@@ -9,6 +9,6 @@
 <!ENTITY aboutAccountsConfig.startButton.label "प्रारंभ करें">
 <!ENTITY aboutAccountsConfig.useOldSync.label "सिंक के पुराने संस्करण का उपयोग कर रहे हैं?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "वरीयताएँ खोजें">
-
-
-
+<!ENTITY aboutAccounts.noConnection.title "कनेक्शन नहीं है">
+<!ENTITY aboutAccounts.noConnection.description "साईन इन के लिए आपका इंटरनेट से जुड़ा होना आवश्यक है.">
+<!ENTITY aboutAccounts.noConnection.retry "पुनः प्रयास करें">
