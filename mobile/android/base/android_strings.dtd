@@ -85,7 +85,6 @@
 <!ENTITY overlay_share_no_url "В отправляемых данных ссылки не найдено">
 <!ENTITY overlay_share_select_device "Выбрать устройство">
 <!ENTITY overlay_no_synced_devices "Не найдено устройств, подключенных к Аккаунту Firefox">
-<!ENTITY menu_no_synced_devices "Это отправляет вкладку на другое подключённое устройство">
 <!ENTITY pref_category_search3 "Поиск">
 <!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
 <!ENTITY pref_category_accessibility "Специальные возможности">
@@ -303,9 +302,6 @@
 <!ENTITY doorhanger_login_select_toast_copy_error "Не удалось скопировать пароль">
 <!ENTITY doorhanger_login_select_action_text "Выбрать другой логин">
 <!ENTITY doorhanger_login_select_title "Копирование пароля из">
-<!ENTITY pref_titlebar_mode2 "Панель адреса">
-<!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
-<!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
 <!ENTITY pref_magnifying_glass_enabled "Увеличивать небольшие области">
 <!ENTITY pref_magnifying_glass_enabled_summary "Увеличивать ссылки и поля форм при касании рядом с ними">
 <!ENTITY pref_scroll_title_bar2 "Полноэкранный веб-серфинг">

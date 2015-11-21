@@ -74,6 +74,7 @@
 <!ENTITY runtimePanel_installsimulator "Установить Симулятор">
 <!ENTITY runtimePanel_noadbhelper "Установить ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Не видите ваше устройство?">
+<!ENTITY runtimePanel_refreshDevices_label "Обновить список устройств">
 <!ENTITY details_valid_header "корректно">
 <!ENTITY details_warning_header "предупреждения">
 <!ENTITY details_error_header "ошибки">
