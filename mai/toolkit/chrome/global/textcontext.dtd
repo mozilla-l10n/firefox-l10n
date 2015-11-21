@@ -27,7 +27,8 @@
 
 <!ENTITY searchTextBox.clear.label "साफ  करू ">
 
-
+<!ENTITY fillLoginMenu.label          "लॉगिन भरू (F)">
+<!ENTITY fillLoginMenu.accesskey      "F">
 
 
 

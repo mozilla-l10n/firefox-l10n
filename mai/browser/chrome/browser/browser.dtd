@@ -726,6 +726,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "रद्द करू">
 
 
+<!ENTITY identity.connectionSecure "रिमोट कनेक्शन">
 
 
 
@@ -764,6 +765,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; मे साइन इन करू">
 
 <!ENTITY syncSyncNowItem.label        "आब तुल्यकालित करू">
 <!ENTITY syncSyncNowItem.accesskey    "S">

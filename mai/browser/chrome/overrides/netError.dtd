@@ -155,6 +155,7 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "सुरक्षित रूप सँ कनेक्ट करए मे असमर्थ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
 
