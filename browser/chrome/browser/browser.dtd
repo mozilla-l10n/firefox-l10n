@@ -189,29 +189,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "প্রিন্ট করুন">
 <!ENTITY printButton.tooltip          "বর্তমানে প্রদর্শিত পৃষ্ঠা প্রিন্ট করুন">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "সাইটের তথ্য দেখুন">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "একটি নোটিফিকেশন দেখুন">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "অবস্থানের অনুরোধ দেখুন">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "অ্যাড-অন ইন্সটল বার্তা দেখুন">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "অ্যাপ্লিকেশন - অফলাইন স্টোরেজ বার্তা দেখুন।">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "আপনার লগইন তথ্যর পরিচালনা করুন">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "দেখুন যদি আপনি আপনার পাসওয়ার্ড সংরক্ষণ করতে চান">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "অ্যাপ্লিকেশন ইনস্টল বার্তা দেখুন">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "এই পৃষ্ঠাতে ব্যবহার করা প্লাগইন পরিচালনা করুন">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "বদল করুন যদি সাইটটি আপনাকে নোটিফিকেশন দেখাতে পারে">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "সাইটের সাথে আপনার ক্যামেরা/বা মাইক্রোফোন শেয়ার করাকে পরিচালনা করুন">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "আপনি আপনার ক্যামেরা/বা মাইক্রোফোন সাইটের সাথে শেয়ার করছেন">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "এই সাইটের সাথে আপনার মাইক্রোফোন শেয়ার করাকে পরিচালনা করুন">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "আপনি এই সাইটের সাথে আপনার মাইক্রোফোন শেয়ার করছেন">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "আপনার উইন্ডোস বা স্ক্রিন এই সাইটের সাথে শেয়ার করাকে পরিচালনা করুন">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "আপনি সাইটের সাথে একটি উইন্ডো বা আপনার স্ক্রিন শেয়ার করছেন">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "বদল করুন যদি সাইটটি পয়েন্টারটাকে হাটাতে পারে">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "পরিসেবা ইনস্টল বার্তা দেখুন">
+<!ENTITY urlbar.translateNotificationAnchor.label       "এই পাতা অনুবাদ করুন">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "পৃষ্ঠার অনুবাদ পরিচালনা করুন">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM সফটওয়্যারের ব্যবহার পরিচালনা করুন">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখান">
 
 <!ENTITY searchItem.title             "অনুসন্ধান">
 <!-- Toolbar items --> 
@@ -252,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "অ্যাপসমূহ">
 <!ENTITY webapps.accesskey            "প">
-
-
+<!ENTITY loopMenuItem.label           "আলাপন শুরু করুন…">
+<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "ওয়েব ডিভেলপর">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -331,16 +336,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ফাইল"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "নতুন আধার ট্যাব">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "ব্যক্তিগত">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "কাজ">
+<!ENTITY userContextWork.accesskey        "W">
+<!ENTITY userContextBanking.label         "ব্যাঙ্কিং">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "কেনাকাটা">
+<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "নতুন উইন্ডো">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
