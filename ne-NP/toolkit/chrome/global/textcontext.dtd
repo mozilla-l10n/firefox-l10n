@@ -27,7 +27,8 @@
 
 <!ENTITY searchTextBox.clear.label "खाली गर्नुहोस्">
 
-
+<!ENTITY fillLoginMenu.label          "लगइन भर्नुहोस्">
+<!ENTITY fillLoginMenu.accesskey      "F">
 
 
 
