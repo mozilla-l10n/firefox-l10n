@@ -197,9 +197,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "محل وقوع کی درخواست کا نظارہ کریں">
 
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "ایپ آف لائن ذخیرہ پیغام کانظارہ کریں">
-
-
-
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "اپنی لاگان معلومات کو بندوبست کریں">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "پڑتال کریں اگر آپ آپنا پاس ورڈ محفوظ کرنا چاہتے ہو">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "ایپ تنسیب کرنے کہ پییغام کا نظارہ کریں">
 
 
 

@@ -61,8 +61,6 @@
      the inspector contextual-menu for the item that lets users delete the
      current node -->
 
-
-
 <!ENTITY inspectorHTMLDelete.label          "نوڈ حذف کریں">
 <!ENTITY inspectorHTMLDelete.accesskey      "ح">
 <!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
