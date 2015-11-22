@@ -14,7 +14,7 @@
 
 <!ENTITY  notificationsDoNotDisturb.label      "എന്നെ ശല്യം ചെയ്യരുത് (n)">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-
+<!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName;റീസ്റ്റാര്‍ട്ട്‌ ചെയ്യുന്നത് വരെ അറിയിപ്പുകള്‍ കാണിക്കുന്നതല്ല">
 
 <!ENTITY  popupExceptions.label       "വിട്ടുവീഴ്ചകള്‍...">
 <!ENTITY  popupExceptions.accesskey   "ക">

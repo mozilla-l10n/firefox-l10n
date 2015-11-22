@@ -5,12 +5,15 @@
 <!ENTITY  updateWizard.title              "&brandShortName;-നുള്ള പരിഷ്കാരം">
 
 <!ENTITY  offline.title                   "&brandShortName; ഓഫ്ലൈന്‍ ആയി പ്രവര്‍ത്തിക്കുന്നു ">
-<!ENTITY  offline.description             "ഇതുമായി പൊരുത്തപ്പെടുന്ന ആഡ്‌-ഓണുകള്‍ ലഭ്യമാണോ എന്ന്‌ അറിയുവാന്‍ &brandShortName;- നു ഓണ്‍ലൈന്‍ ആകേണ്ടത്‌ ആവശ്യമാണ്‌ ">
+<!ENTITY  offline.description             "ഇതുമായി പൊരുത്തപ്പെടുന്ന ആഡ്‌-ഓണുകള്‍ ലഭ്യമാണോ 
+എന്ന്‌ അറിയുവാന്‍ &brandShortName;- നു 
+ഓണ്‍ലൈന്‍ ആകേണ്ടത്‌ ആവശ്യമാണ്‌.">
 <!ENTITY  offline.toggleOffline.label     "ഉടന്‍ ഓണ്‍ലൈന്‍ ആകുക ">
 <!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "പൊരുത്തപ്പെടാത്ത ആഡ്‌-ഓണുകള്‍ ">
-<!ENTITY  mismatch.top.label              "താഴെ പറയുന്ന ആഡ്-ഓണുകള്‍ &brandShortName; -ന്റെ ഈ ലക്കത്തിന് യോജിച്ചതല്ല, അതിനാല്‍ നിഷ്ക്രിയമാക്കിയിരിക്കുന്നു:">
+<!ENTITY  mismatch.top.label              "താഴെ പറയുന്ന ആഡ്-ഓണുകള്‍ &brandShortName; -ന്റെ ഈ പതിപ്പിന് 
+യോജിച്ചതല്ല, അതിനാല്‍ നിഷ്ക്രിയമാക്കിയിരിക്കുന്നു:">
 <!ENTITY  mismatch.bottom.label           "ഈ ആഡ്‌-ഓണുകളുടെ പൊരുത്തപ്പെടുന്ന പതിപ്പുകള്‍ ലഭ്യമാണോ എന്ന്‌ പരിശോധിക്കുവാന്‍ &brandShortName;- നു കഴിയും ">
 
 <!ENTITY  checking.wizard.title           "പൊരുത്തപ്പെടുന്ന ആഡ്‌ഓണുകള്‍ക്കയി പരിശോധിക്കുന്നു ">
