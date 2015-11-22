@@ -9,4 +9,5 @@
 <!ENTITY aboutAccounts.noConnection.title "इंटरनेट कनेक्शन नहि अछि">
 <!ENTITY aboutAccounts.retry.label "फेर कोशिश  करू">
 
-
+<!ENTITY aboutAccounts.restrictedError.title "प्रतिबंधित">
+<!ENTITY aboutAccounts.restrictedError.description "अहाँ फ़ॉयरफॉक्स खाता ई प्रोफाइल सँ प्रबंधित क सकैत छी.">
