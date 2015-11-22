@@ -198,6 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "या पृष्ठावर प्लगईन्सच्या वापराचे व्यवस्थापन करा">
 
 
 
@@ -207,11 +208,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.translateNotificationAnchor.label       "पृष्ठाचे भाषांतर करा">
 
 
 
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दाखवा">
 
 <!ENTITY searchItem.title             "शोधा">
 <!-- Toolbar items --> 
