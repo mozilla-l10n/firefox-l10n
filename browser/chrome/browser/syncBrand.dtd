@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncBrand.shortName.label  "समक्रमण">
-<!ENTITY syncBrand.fullName.label   "फारयफक्स समक्रमण">
-<!ENTITY syncBrand.fxAccount.label  "फायरफक्सको खाता">
+<!ENTITY syncBrand.fullName.label   "Firefox Sync">
+<!ENTITY syncBrand.fxAccount.label  "Firefox खाता">

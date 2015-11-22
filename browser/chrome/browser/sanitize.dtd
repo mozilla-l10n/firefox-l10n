@@ -39,7 +39,7 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 
-<!ENTITY detailsProgressiveDisclosure.label     "विवरणहरु...">
+<!ENTITY detailsProgressiveDisclosure.label     "विवरणहरू...">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "इतिहास">
@@ -57,7 +57,7 @@ that require it.  -->
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemActiveLogins.label            "सक्रिय Logins">
 <!ENTITY itemActiveLogins.accesskey        "L">
-<!ENTITY itemSitePreferences.label         "Site प्राथमिकताहरु">
+<!ENTITY itemSitePreferences.label         "साइट प्राथमिकताहरू">
 <!ENTITY itemSitePreferences.accesskey     "S">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI

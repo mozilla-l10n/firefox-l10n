@@ -7,7 +7,7 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "इन्टरनेट पहुँच गर्न प्रोक्सिहरु कन्फिगर गर्नुहोस्">
+<!ENTITY  proxyTitle.label              "इन्टरनेट पहुँच गर्न प्रोक्सिहरू कन्फिगर गर्नुहोस्">
 <!ENTITY  noProxyTypeRadio.label        "प्रोक्सी प्रयोग नगर्नु">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "&amp; प्रणाली को प्रोक्सी व्यवस्था प्रयोग गर्नुस ">

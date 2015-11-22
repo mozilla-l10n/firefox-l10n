@@ -10,7 +10,7 @@
 
 <!ENTITY robots.pagetitle  "Gort! Klaatu barada nikto!">
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
-<!ENTITY robots.errorTitleText "मानवहरुलाई स्वागत् छ!">
+<!ENTITY robots.errorTitleText "मानवहरूलाई स्वागत् छ!">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
 <!ENTITY robots.errorShortDescText "हामी तपाईकोमा शान्ति र मंगल-कामना सहित भ्रमण गर्न आएका छौं!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->

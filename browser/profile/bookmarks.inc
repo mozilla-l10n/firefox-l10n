@@ -37,7 +37,7 @@
 # Firefox links folder name
 
 
-#define firefox_heading मोजिल्ला फायरफक्स
+#define firefox_heading Mozilla Firefox
 
 
 # LOCALIZATION NOTE (firefox_help):
@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize फायरफक्स अनुकूलन गर्नुहोस्
+#define firefox_customize Firefox अनुकूलन गर्नुहोस्
 
 
 # LOCALIZATION NOTE (firefox_community):

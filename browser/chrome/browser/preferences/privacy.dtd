@@ -22,17 +22,17 @@
 
 
 
+<!ENTITY  locbar.openpage.label         "ट्याबहरू खोल्नुहोस्">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 
 
 
 
-
-
-<!ENTITY  acceptCookies.label           "साइटहरुबाट कुकी स्वीकार गर्नुहुोस्">
+<!ENTITY  acceptCookies.label           "साइटहरूबाट कुकी स्वीकार गर्नुहुोस्">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "तेस्रो-पक्षबाट आउने कुकीहरु स्वीकार गर्नुहुोस्:">
+<!ENTITY  acceptThirdParty.pre.label      "तेस्रो-पक्षबाट आउने कुकीहरू स्वीकार गर्नुहुोस्:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
 <!ENTITY  acceptThirdParty.always.label   "सधैँ">
 <!ENTITY  acceptThirdParty.never.label    "कहिले पनि होइन">
@@ -40,6 +40,7 @@
 
 
 
+<!ENTITY  expire.label                  "तिनीहरूको समय अवधि सकियो">
 <!ENTITY  close.label                   "मैले &brandShortName; बन्द गर्छु">
 
 <!ENTITY  cookieExceptions.label        "अपवादहरू...">
@@ -55,7 +56,7 @@
 <!ENTITY  historyHeader.custom.label       "इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; le तपाईको ब्राउजिङ ,डाउनलोडिङ ,फर्म ,खोजि इतिहासहरु सम्झिन्छ, र तपाईले हेर्नुभएका वेबसाइटका कुकिहरू राख्दछ।">
+<!ENTITY  rememberDescription.label      "&brandShortName; ले तपाईँको ब्राउजिङ ,डाउनलोडिङ ,फर्म ,खोजि इतिहासहरू सम्झिन्छ, र तपाईँले हेर्नुभएका वेबसाइटका कुकीहरू राख्दछ।">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -66,7 +67,7 @@
 <!ENTITY  rememberActions.removeCookies.label "एक-एक कुकीहरू हटाउनुहोस्">
 <!ENTITY  rememberActions.post.label          "।">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; ले तपाईको निजी ब्राउजिङको सेटिङ्गहरु प्रयोग गर्छ र तपाई को कुनै पनि  ब्राउजिङ को कुनै पनि इतिहास सुरक्षित गर्दैन ">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ले तपाईँको निजी ब्राउजिङको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङको कुनै पनि इतिहास सुरक्षित गर्दैन">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 

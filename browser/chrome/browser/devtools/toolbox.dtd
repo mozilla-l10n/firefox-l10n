@@ -36,7 +36,7 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
-<!ENTITY options.context.advancedSettings "उन्नत सेटिङ्गहरु">
+<!ENTITY options.context.advancedSettings "उन्नत सेटिङ्हरू">
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
 
@@ -69,7 +69,7 @@ values from browser.dtd.  -->
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
 
-<!ENTITY options.defaultColorUnit.name "रङका नामहरु">
+<!ENTITY options.defaultColorUnit.name "रङका नामहरू">
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
@@ -101,13 +101,13 @@ values from browser.dtd.  -->
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label     "पूर्वनिर्धारित Firefox विकासकर्ता उपकरणहरु">
+<!ENTITY options.selectDefaultTools.label     "पूर्वनिर्धारित Firefox विकासकर्ता उपकरणहरू">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
 
-<!ENTITY options.selectAdditionalTools.label  "एड-अनहरुद्वारा स्थापित भएका विकासकर्ता उपकरणहरु">
+<!ENTITY options.selectAdditionalTools.label  "एड-अनहरूद्वारा स्थापित भएका विकासकर्ता उपकरणहरू">
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
@@ -135,6 +135,8 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
+<!ENTITY options.stylesheetSourceMaps.label      "मौलिक स्रोतहरू देखाउनुहोस्">
+
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
@@ -146,7 +148,7 @@ values from browser.dtd.  -->
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "जुझारु लगहरु सक्षम पार्नुहोस्">
+<!ENTITY options.enablePersistentLogs.label    "जुझारु लगहरू सक्षम पार्नुहोस्">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
@@ -155,6 +157,9 @@ values from browser.dtd.  -->
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
+
+
+<!ENTITY options.sourceeditor.label                     "सम्पादक प्राथमिकताहरू">
 
 
 
