@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "पृष्ठ जानकारी">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "मिरर ट्याब">
+<!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "पूरा पर्दामा जानुहोस्">
@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; मा साइन इन गर्नुहोस">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; को प्राथमिकताहरू खोल्नुहोस्">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; मा पुन: जडान गर्नुहोस्">
-
+<!ENTITY fxaUnverified.label "खाता प्रमाणिकरण गर्नुहोस्">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; सक्षम पारिएको छ">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; केहि बेरमा सिङ्क हुनेछ।">
 
@@ -130,9 +130,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.beforeDomain.label "‍">
 <!ENTITY fullscreenWarning.afterDomain.label "पुरा स्क्रिन अहिले भयो ">
-
+<!ENTITY fullscreenWarning.generic.label "तपाईँको खाता पुरा पर्दाको भएको छ ">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -146,26 +146,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "पुस्तकचिनोहरू">
 <!ENTITY bookmarksMenu.accesskey "B">
-
+<!ENTITY bookmarkThisPageCmd.label "यस पृष्ठमा पुस्तकचिनो हाल्नुहोस्">
 <!ENTITY editThisBookmarkCmd.label "यो पुस्तकचिनोलाई परिमार्जित गर्नुहोस्">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "अरू धेरै सेयर सेवाहरू पत्तालगाउनुहोस्…">
 <!ENTITY sharePageCmd.label "यो पृष्ठ बाँड्नुहोस्">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "यो लिङ्क सेयर गर्नुहोस्">
 <!ENTITY shareLink.accesskey "h">
-
-
-
-
-
-
-
+<!ENTITY shareImage.label "यो तस्विर सेयर गर्नुहोस्">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "चयन गरिएकालाई सेयर गर्नुहोस्">
+<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareVideo.label "यो भिडियो बाँड्नुहोस्">
+<!ENTITY shareVideo.accesskey "r">
+<!ENTITY feedsMenu.label "सदस्यता लिनुहोस्">
 <!ENTITY subscribeToPageMenupopup.label "यस पृष्ठलाई सब्स्क्राइब गर्नुहोस्">
 <!ENTITY subscribeToPageMenuitem.label "यस पृष्ठलाई सब्स्क्राइब गर्नुहोस्...">
 <!ENTITY addCurPagesCmd.label "सब ट्याबहरूलाई पुस्तकचिनो बनाउनुहोस्...">
@@ -175,37 +176,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY backCmd.label                "पछाडि जाने">
 <!ENTITY backButton.tooltip           "एक पृष्ठ पछाडि जानुहोस्">
-
+<!ENTITY forwardCmd.label             "अगाडि">
 <!ENTITY forwardButton.tooltip        "एक पृष्ठ अगाडि जानुहोस्">
 <!ENTITY backForwardButtonMenu.tooltip "इतिहास हेर्न बाँया क्लिक गर्नुहोस् अथवा तल तान्नुहोस">
 <!ENTITY backForwardButtonMenuMac.tooltip "इतिहास हेर्न तल तान्नुहोस">
-
+<!ENTITY reloadCmd.label              "पुनः लोड गर्नुहोस्">
 <!ENTITY reloadButton.tooltip         "हालको पृष्ठलाई फेरि लोड गर्नुहोस्">
-
+<!ENTITY stopCmd.label                "रोक्नुहोस्">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "यो पृष्ठलाई लोडिङ्ग गर्न रोक्नुहोस्">
 <!ENTITY goEndCap.tooltip             "लोकेसन बारमा भएको स्थानमा जानुहोस्">
 <!ENTITY printButton.label            "मुद्रण गर्नुहोस्">
 <!ENTITY printButton.tooltip          "यो पृष्ठ मुद्रण गर्नुहोस्">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "साइट जानकारी हेर्नुहोस्">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "जानकारी हेर्नुहोस्">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "स्थान अनुरोध हेर्नुहोस्">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "एड-अन स्थापना सन्देश हेर्नुहोस्">
-
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "अनुप्रयोग अफलाइन भन्डारण सन्देशहरू हेर्नुहोस्">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "तपाईको लग-इन जानकारीको व्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "तपाईं आफ्नो पासवर्ड संग्रह गर्न चाहनुहुन्छ भने ठिक लगाउनुहोस् ">
-
+<!ENTITY urlbar.webappsNotificationAnchor.label         "अनुप्रयोग स्थापना सन्देश हेर्नुहोस्">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "यो पृष्ठमा प्लगइन प्रयोगहरू व्यवस्थापन गर्नुहोस् ">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "साइटले नोटिफिकेसन देखाउन सक्छ कि भनेर देखाउनुहोस">
 
-
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "यो साइटलाई तपाईँ क्यामेरा र/अथवा माइक्रोफोन प्रयोग गर्ने अनुमति दिँदै हुनुहुन्छ ">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "यो साइटले माइक्रोफोन कसरी प्रयोग गर्छ भन्ने ब्यस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "यो साइटले तपाईँको माइक्रोफोन प्रयोग गर्दै छ">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "आफ्नो साइटमा विन्डोज वा स्क्रीन साझेदारीको प्रबन्ध मिलाउनुहोस् ">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "यो साइटलाई तपाईँ क्यामेरा र/अथवा माइक्रोफोन प्रयोग गर्न दिँदै हुनुहुन्छ ">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "यस साइटले पोइन्टर लुकाउन सक्छ कि परिवर्तन गर्नुहोस्">
 
 <!ENTITY urlbar.translateNotificationAnchor.label       "यो पृष्ठ अनुवाद गर्नुहोस्">
 
