@@ -20,15 +20,15 @@
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>पताकेँ टाइपिंग गलतीक लेल जाँचू जहिना 
+<li>टाइपिंग त्रुटि कलेल पता जाँचू जहिना 
 <strong>ww</strong>.example.com 
-<strong>www</strong>.example.com</li>क बदला 
+<strong>www</strong>.example.com</li> क बदला 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>खोजू</button> 
 </div> 
-<li>जँ अहाँ कोनो पृष्ठ लोड करबामे असमर्थ अछि, अपन युक्ति आँकड़ा जाँचू अथवा Wi-Fi कनेक्शन.</li> 
-<button id='wifi'>Wi-Fi कनेक्शन सक्रिय करू</button> 
+<li>जँ अहाँ कोनो पृष्ठ लोड करए मे असमर्थ छी, अपन डिवाइस डेटा जाँचू अथवा Wi-Fi कनेक्शन. 
+<button id='wifi'> Wi-Fi कनेक्शन सक्रिय करू</button> 
 </li> 
 </ul>">
 
@@ -65,10 +65,10 @@
 <!ENTITY netOffline.title "Offline mode">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>फेर कोसिस करू. &brandShortName; कनेक्शन खोलबाक कोशिश करताह आओर पृष्ठ फेर लोड करताह.</li> 
-<button id='wifi'>Wi-Fi सक्रिय करू</button> 
-</li> 
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>फेर सँ प्रयास करू. &brandShortName; कनेक्शन खोलए आओर पृष्ठ रिलोड करए केर प्रयास करताह. 
+<button id='wifi'>वाई-फाई आरंभ करू</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "अंतर्वस्तु एन्कोडिंग त्रुटि">
@@ -94,29 +94,32 @@
 
 <!ENTITY proxyConnectFailure.title "प्राक्सी सर्वर कनेक्शन अस्वीकार कए रहल अछि ">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>प्राक्सी सेटिंगक जाँच सुनिश्चित करब क लेल करू जे ओ सही अछि .</li> 
-<li>अपन सँजाल प्रशासक केँ जाँचू सुनिश्चित करबाक लेल प्राक्सी सर्वर काज कए रहल अछि.</li> 
+<li>प्रॉक्सी सेटिंग्स केर जाँच सुनिश्चित करए कलेल करू कि ओ सही अछि.</li> 
+<li>अपन संजाल प्रशासक केँ जाँचू सुनिश्चित करबाक लेल प्रॉक्सी सर्वर काज कए रहल अछि.</li> 
+
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "प्राक्सी सर्वर ढ़ूढ़वमे असमर्थ">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>प्राक्सी सेटिंग जाँचू जाहिसँ पक्का कए सकू जे ओ सही अछि.</li> 
-<li>जाँचू पक्का करबाक लेल जे अहाँक युक्तिक संग कार्यशील आँकड़ा अछि अथवा Wi-Fi कनेक्शन
-<button id='wifi'>Wi-Fi कनेक्शन सक्रिय करू</button> 
+<li>जाँचू आओर ई सुनिश्चत करू कि प्रॉक्सी सेटिंग्स सही अछि.</li> 
+<li>जाँचू आओर ई सुनिश्चत करू कि अहाँक डिवाइस केर डेटा या वाई-फाई कनेक्शन शुरू अछि. 
+<button id='wifi'>वाई-फाई शुरू करू</button> 
 </li> 
-</ul></ul>">
+</ul>">
 
 <!ENTITY redirectLoop.title "पृष्ठ ठीकसँ पुनर्निर्देशित नहि कए रहल अछि ">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>ई समस्या कहियो-कहियो कुकीकेँ स्वीकार करब अथवा निष्क्रिय करबाक कारण होइछ.</li> 
+<li>ई समस्या कहियो कहियो कुकी केँ स्वीकार करए या निष्क्रिय करए केर कारण हाएत अछि.</li> 
+
 </ul>">
 
 <!ENTITY unknownSocketType.title "सर्वर सँ अप्रत्याशित अनुक्रिया">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>सुनिश्चित करबाक लेल जाँचू जे अहाँक सिस्टम निज सुरक्षा प्रबंधक संस्थापित राखल अछि .</li> 
-<li>ई सर्वर पर ककरो गैर मानक विन्यासक कारण भए सकैत अछि.</li> 
+<li>सुनिश्चित करबाक लेल जाँचू कि अहाँक सिस्टम निजी सुरक्षा प्रबंधक संस्थापित रखने अछि.</li> 
+<li>ई सर्वर पर कोनो गैर मानक विन्यास केर कारण भ सकैत अछि.</li> 
+
 </ul>">
 
 <!ENTITY nssFailure2.title "सुरक्षित कनेक्शन विफल">
@@ -127,8 +130,10 @@
 
 <!ENTITY nssBadCert.title "सुरक्षित कनेक्शन विफल">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>ई सर्वर विन्यासक सँग समस्या भए सकैत अछि, अथवा कोनो दोसर सर्वरक रूपेँ छद्म रूपसँ आबैक कोशिश कए सकैत अछि.</li> 
-<li>जँ अहाँ सर्वरसँ पाछाँ सफलतापूर्वक कनेक्ट भए चुकल अछि, त्रुटि अस्थायी भए सकैत अछि, आओर अहाँ एकरा बादमे फेर कोशिश कए सकैत  अछि.</li> 
+<li>ई सर्वरक विन्यास मे समस्या भ सकैत अछि, या कोनो दोसर सर्वर केर रूप मे छद्म रूप सँ आबै केर कोशिश कए सकैत अछि.</li> 
+<li>जँ अहाँ सर्वर सँ पाछाँ सँ सफलतापूर्वक कनेक्ट भ चुकल अछि, त्रुटि अस्थायी भ सकैत अछि, आओर अहाँ एकरा बाद मे फेर कोशिश कए सकैत छी.</li> 
+
+
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
