@@ -44,7 +44,7 @@
 <!ENTITY helpus.middle              ", अथवा ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "सामिल होउ!">
-<!ENTITY helpus.end                 "">
+<!ENTITY helpus.end                 "वा">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "लाइसेंसक सूचना">

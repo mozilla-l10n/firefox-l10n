@@ -13,16 +13,21 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "अहाँ निजी तौर पर ब्राउज़ कए रहल छी">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "नहि सहेजल गेल">
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "ताकू">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कुकीज">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "अस्थाई फाइल">
 
-
+<!ENTITY aboutPrivateBrowsing.info.saved       "सहेजल गेल">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोड">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
 
+<!ENTITY aboutPrivateBrowsing.note1            "कृपया ध्यान राखू कि अहाँक कर्मचारी वा इन्टरनेट सेवा प्रदाता ओ पृष्ठ कए जेकरा अहाँ विजिट करैत छी ओहि पर नजर राखि सकैत अछि">
 <!ENTITY aboutPrivateBrowsing.learnMore        "बेसी  जानू.">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -33,12 +38,17 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width1             "26em">
+<!ENTITY trackingProtection.title              "ट्रैकिंग सुरक्षा">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "शुरू">
+<!ENTITY trackingProtection.state.disabled     "बन्न">
 
 
-
-
-
+<!ENTITY trackingProtection.disable            "ट्रैकिंग सुरक्षा बन्न करू">
+<!ENTITY trackingProtection.enable             "ट्रैकिंग सुरक्षा चालू करू">
+<!ENTITY trackingProtection.startTour1         "देखू ई कोन तरहे काज करैत अछि">

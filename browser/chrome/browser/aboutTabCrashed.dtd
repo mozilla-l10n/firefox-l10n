@@ -5,9 +5,9 @@
 <!ENTITY tabCrashed.header "अदलाह खबर पहिने: ई टैब क्रैश कए गेल अछि">
 <!ENTITY tabCrashed.message "आब नीक गप्प अथवा खबर : अहाँ सिर्फ एहि टैब केँ बन्न करू, रिस्टोर करू अथवा अपन सभ क्रैश कएल टैब फिनु सँ बहाल कए सकैत छी.">
 <!ENTITY tabCrashed.sendReport "आओर बेसी अदलाह खबर सँ बचाबै मे मदति खातिर एकटा क्रैश रिपोट दर्ज करू ">
-
-
-
+<!ENTITY tabCrashed.includeURL "जाहि पृष्ठ पर हम छलहूँ ओकर पता एतय शामिल करू">
+<!ENTITY tabCrashed.commentPlaceholder "टिप्पणी जोड़ू (टिप्पणी सार्वजनिक छल)">
+<!ENTITY tabCrashed.emailPlaceholder "एतय अपन ईमेल पता दीअ">
 
 
 <!ENTITY tabCrashed.reportSent "क्रैश रिपोट पहिने सौंप देल गेल; &amp;brandShortName केँ बेहतर बनाबै मे मदति खातिर अहाँक धन्यवाद!">
