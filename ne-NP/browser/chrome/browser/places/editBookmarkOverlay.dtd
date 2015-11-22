@@ -9,16 +9,16 @@
 
 
 <!ENTITY editBookmarkOverlay.folder.label                    "फोल्डर:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "पुस्तकचिनोको सबै फोल्डरहरु देखाउनुहोस्">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "पुस्तकचिनोको सबै फोल्डरहरू देखाउनुहोस्">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "लुकाउनुहोस्">
 
 
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "ट्यागहरुलाई अल्पविरामले विभाजन गर्नुहोस्">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "ट्यागहरूलाई अल्पविरामले विभाजन गर्नुहोस्">
 <!ENTITY editBookmarkOverlay.description.label               "वर्णन:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 
 
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "सबै ट्याबहरु देखाउुनुहोस्">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "सबै ट्याबहरू देखाउुनुहोस्">
 
 
 <!ENTITY editBookmarkOverlay.choose.label                    "रोज्नुहोस्...">

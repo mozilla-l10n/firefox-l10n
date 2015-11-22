@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "पप-अपहरु">
+<!ENTITY  popups.label                "पप-अपहरू">
 
-<!ENTITY  blockPopups.label           "पप-अप संझ्यालहरुलाई अवरुद्द गर्नुहोस्">
+<!ENTITY  blockPopups.label           "पप-अप सञ्झ्यालहरूलाई अवरुद्द गर्नुहोस्">
 <!ENTITY  blockPopups.accesskey       "B">
 
 
@@ -18,7 +18,7 @@
 <!ENTITY  popupExceptions.label       "अपवादहरू...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  fontsAndColors.label        "फन्टहरु र रङहरु">
+<!ENTITY  fontsAndColors.label        "फन्टहरू र रङहरू">
 
 <!ENTITY  defaultFont.label           "पूर्वनिर्धारित फन्टः">
 <!ENTITY  defaultFont.accesskey       "D">
@@ -33,12 +33,12 @@
 
 
 <!ENTITY languages.label              "भाषाहरू">
-<!ENTITY chooseLanguage.label         "देखिने पृष्ठहरुका लागि तपाईको छनौटको भाषा छान्नुहोस्">
+<!ENTITY chooseLanguage.label         "देखिने पृष्ठहरूका लागि तपाईँको छनौटको भाषा छान्नुहोस्">
 <!ENTITY chooseButton.label           "छान्नुहोस् ...">
 <!ENTITY chooseButton.accesskey       "o">
 
 
-<!ENTITY translateExceptions.label    "अपवादहरु....">
+<!ENTITY translateExceptions.label    "अपवादहरू....">
 <!ENTITY translateExceptions.accesskey "x">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

@@ -8,13 +8,13 @@
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "मेरो गृह पृष्ठ देखाउनुहोस्">
 <!ENTITY startupBlankPage.label    "खाली पृष्ठ देखाउनुहोस्">
-<!ENTITY startupLastSession.label  "पछिल्लो समयबाट मेरो विन्डोजहरु र ट्याबहरु देखाउनुहोस्">
+<!ENTITY startupLastSession.label  "पछिल्लो समयबाट मेरो विन्डोजहरू र ट्याबहरू देखाउनुहोस्">
 
 <!ENTITY homepage.label            "गृह पृष्ठः">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "अहिलेको पृष्ठ प्रयोग गर्नुहोस्">
 <!ENTITY useCurrentPage.accesskey  "C">
-<!ENTITY useMultiple.label         "अहिलेको पृष्ठहरु प्रयोग गर्नुहोस्">
+<!ENTITY useMultiple.label         "अहिलेको पृष्ठहरू प्रयोग गर्नुहोस्">
 <!ENTITY chooseBookmark.label      "पुस्तकचिनो प्रयोग गर्नुहोस्...">
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "पूर्वनिर्धारित रुपमा लग्नुहोस्">
@@ -22,13 +22,13 @@
 
 <!ENTITY downloads.label     "डाउनलोडहरू">
 
-<!ENTITY saveTo.label "फाईलहरु यहाँ बचत गर्नुहोस्">
+<!ENTITY saveTo.label "फाइलहरू यहाँ बचत गर्नुहोस्">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "ब्राउज...">
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "चयन...">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "मलाई फाइलहरु कँहा बचत गर्ने भनेर सधैं सोध">
+<!ENTITY alwaysAsk.label "मलाई फाइलहरू कँहा बचत गर्ने भनेर सधैँ सोध्नुहोस्">
 <!ENTITY alwaysAsk.accesskey "A">
 
 

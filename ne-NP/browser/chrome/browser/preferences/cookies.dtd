@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "यिनी  कुकिहरु तपाईको कम्प्युटरमा संचित छन्  :">
+<!ENTITY     cookiesonsystem.label          "यिनी कुकीहरू तपाईँको कम्प्युटरमा सञ्चित छन्:">
 <!ENTITY     cookiename.label               "कुकी नाम">
 <!ENTITY     cookiedomain.label             "साइट"> 
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):

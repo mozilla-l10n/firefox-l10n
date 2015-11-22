@@ -56,7 +56,7 @@
 <!ENTITY  permAllowSession      "यससत्रका लागि अनुमति">
 <!ENTITY  permBlock             "छेक्नु">
 <!ENTITY  permissionsFor        "यसका लागि अनुमतिहरूः">
-<!ENTITY  permPlugins           "प्लगइनहरु सक्रिय पार्नुहोस्">
+<!ENTITY  permPlugins           "प्लगइनहरू सक्रिय पार्नुहोस्">
 
 <!ENTITY  permClearStorage           "भण्डारन खाली गर्नु">
 <!ENTITY  permClearStorage.accesskey "C">

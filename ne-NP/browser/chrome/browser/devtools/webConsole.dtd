@@ -47,7 +47,7 @@
 <!ENTITY btnPageLogging.accesskey3 "L">
 
 
-
+<!ENTITY btnConsoleWarnings     "चेतावनीहरू">
 
 <!ENTITY btnConsoleXhr          "XHR">
 
@@ -58,7 +58,7 @@
 
 
 
-
+<!ENTITY btnServerWarnings            "चेतावनीहरू">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->

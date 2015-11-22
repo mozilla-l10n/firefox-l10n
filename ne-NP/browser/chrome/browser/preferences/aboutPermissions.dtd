@@ -23,12 +23,12 @@
 <!ENTITY permission.allowFirstPartyOnly  "पहिलो पार्टीको लागि मात्र अनुमति दिनुहोस्">
 <!ENTITY permission.block                "छेक्नुहोस्">
 
-<!ENTITY password.label                  "पासवर्डहरु भण्डारण गर्नुहोस्">
+<!ENTITY password.label                  "पासवर्डहरू भण्डारण गर्नुहोस्">
 <!ENTITY password.manage                 "पासवर्डहरू प्रबन्ध गर्नुहोस्...">
 
-<!ENTITY cookie.label                    "कुकिहरु सेट गर्नुहोस्">
+<!ENTITY cookie.label                    "कुकिहरू सेट गर्नुहोस्">
 <!ENTITY cookie.remove                   "कुकीहरू हटाउनुहोस्">
-<!ENTITY cookie.manage                   "कुकिहरु प्रबन्ध गर्नुहोस्...">
+<!ENTITY cookie.manage                   "कुकिहरू प्रबन्ध गर्नुहोस्...">
 <!ENTITY cookie.removeAll                "सबै कुकीहरू हटाउनुहोस्">
 
 <!ENTITY geo.label                       "स्थान बाँड्नुहोस्">

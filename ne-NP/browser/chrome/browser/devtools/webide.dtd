@@ -38,7 +38,7 @@
 
 
 
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "उपकरण प्राथमिकताहरू">
 
 
 
@@ -77,7 +77,7 @@
 
 
 <!-- Lense -->
-
+<!ENTITY details_warning_header "चेतावनीहरू">
 
 <!ENTITY details_description "वर्णन">
 
@@ -136,6 +136,8 @@
 <!ENTITY device_typeobject "वस्तु">
 
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "उपकरण प्राथमिकताहरू">
 
 
 

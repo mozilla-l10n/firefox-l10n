@@ -14,6 +14,6 @@
 
 
 
-<!ENTITY showTabsInTaskbar.label          "सन्झ्यालको कार्यपट्टीमा ट्याबको पूर्वावलोकनहरु देखाउनुहोस्">
+<!ENTITY showTabsInTaskbar.label          "सन्झ्यालको कार्यपट्टीमा ट्याबको पूर्वावलोकनहरू देखाउनुहोस्">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
 <!ENTITY tabsGroup.label          "ट्याबहरू">

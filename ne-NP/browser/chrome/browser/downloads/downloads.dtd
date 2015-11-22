@@ -103,7 +103,7 @@
      is displayed inside a browser tab.
      -->
 
-<!ENTITY downloadsListEmpty.label         "कुनै डाउनलोडहरु छैन।">
+<!ENTITY downloadsListEmpty.label         "कुनै डाउनलोडहरू छैन।">
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
