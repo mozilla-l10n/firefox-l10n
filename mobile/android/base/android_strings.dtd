@@ -143,12 +143,6 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "Aucun appareil connecté au compte Firefox trouvé">
 
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-<!ENTITY menu_no_synced_devices "Envoyer cet onglet à un autre appareil connecté">
-
 <!ENTITY pref_category_search3 "Recherche">
 <!ENTITY pref_category_search_summary "Personnaliser les moteurs de recherche">
 <!ENTITY pref_category_accessibility "Accessibilité">
@@ -436,10 +430,6 @@ size. -->
 <!ENTITY doorhanger_login_select_action_text "Sélectionner un autre nom d\u0027utilisateur">
 <!ENTITY doorhanger_login_select_title "Copier le mot de passe depuis">
 
-<!ENTITY pref_titlebar_mode2 "Barre d\u0027adresse">
-<!ENTITY pref_titlebar_mode_title "Afficher le titre de la page">
-<!ENTITY pref_titlebar_mode_url "Afficher l\u0027adresse de la page">
-
 <!-- Localization note (pref_magnifying_glass_enabled): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Agrandir les petites zones">
@@ -526,11 +516,11 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst, utiliser un &formatS1;nouvel onglet de navigation privée&formatS2; ne conservera pas votre historique.">
 <!ENTITY home_reading_list_empty "Les articles enregistrés pour plus tard s\u0027affichent ici.">
-<!-- Localization note (home_reading_list_hint2): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur l\u0027icône &formatI; lorsque celle-ci apparaît dans la barre de titre.">
+<!ENTITY home_reading_list_hint3 "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur l\u0027icône &formatI; lorsque celle-ci apparaît dans la barre d\u0027adresse.">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible2 "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur le bouton du mode lecture lorsque celui-ci apparaît dans la barre d\u0027adresse.">
@@ -737,6 +727,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_master_password_title2 "Désactiver le mot de passe principal">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Désactiver la navigation invité">
 <!ENTITY restriction_disallow_advanced_settings_title "Désactiver les paramètres avancés">
+<!ENTITY restriction_disallow_camera_microphone_title "Bloquer la caméra et le microphone">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
