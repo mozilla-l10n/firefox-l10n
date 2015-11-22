@@ -9,7 +9,7 @@
 <!ENTITY restorepage.errorTitle     "यो लज्जादायी छ।">
 <!ENTITY restorepage.problemDesc    "&brandShortName;लाई तपाइको विन्डो र टयाब पुन:हासिल गर्न समस्या भैरहेको छल सामान्यतया यो भर्खरै खोलिएको वेब पृष्ठको कारणले हुन्छ।">
 <!ENTITY restorepage.tryThis        "तपाईँले यो प्रयास गर्न सक्नुहुन्छ:">
-<!ENTITY restorepage.restoreSome    "तपाइले सोच्नु भएको एक वा बढि ट्याबहरु, जसका काराणले समस्या भइरहेको छ, हटाउँदै">
+<!ENTITY restorepage.restoreSome    "तपाईँले सोच्नु भएको एक वा बढि ट्याबहरू, जसका काराणले समस्या भइरहेको छ, हटाउँदै">
 <!ENTITY restorepage.startNew       "पूर्णरुपले नया ब्राउजिङ सत्र सुरु गरिदै">
 
 <!ENTITY restorepage.tryagainButton "पूर्ववस्थामा ल्याउनुहोस्">
@@ -18,7 +18,7 @@
 <!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "पूर्वावस्थामा ल्याउनुहोस्">
-<!ENTITY restorepage.listHeader     "संझ्याल तथा ट्याबहरु">
+<!ENTITY restorepage.listHeader     "संझ्याल तथा ट्याबहरू">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "सञ्झ्याल &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
@@ -29,7 +29,7 @@
 <!ENTITY welcomeback2.pageTitle     "सफलता!">
 <!ENTITY welcomeback2.pageInfo1     " &brandShortName; जान तयार छ।">
 
-<!ENTITY welcomeback2.label.restoreAll  "सबै सञ्झ्यालहरुलाई पुन:स्थापना गर्नुहोस्">
+<!ENTITY welcomeback2.label.restoreAll  "सबै सञ्झ्यालहरूलाई पुन:स्थापना गर्नुहोस्">
 <!ENTITY welcomeback2.label.restoreSome "तपाईँले चाहनुभएको मात्र पुनर्स्थापित गर्नुहोस्">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively

@@ -50,7 +50,7 @@
 <!ENTITY bottomLinks.license        "इजाजतपत्रबारे जानकारी">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "प्रयोगकर्ता अधिकारहरु">
+<!ENTITY bottomLinks.rights         "प्रयोगकर्ता अधिकारहरू">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
 <!ENTITY bottomLinks.privacy        "गोपनीयता नीति">
@@ -60,7 +60,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; अप टु डेट छ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "तपाईँको प्रणाली प्रशासकद्वारा अद्यावधिकहरु अक्षम बनाइएको छ">
+<!ENTITY update.adminDisabled       "तपाईँको प्रणाली प्रशासकद्वारा अद्यावधिकहरू अक्षम बनाइएको छ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; लाई अर्को सत्रले अपडेट गर्दैछ">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
@@ -86,7 +86,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "यो सिस्टममा तपाईंले अरु अद्यावधिकहरु गर्न सक्नुहुन्न । ">
+<!ENTITY update.unsupported.start    "यो सिस्टममा तपाईंले अरु अद्यावधिकहरू गर्न सक्नुहुन्न । ">
 <!ENTITY update.unsupported.linkText "अझै जान्नुहोस्">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -95,7 +95,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "अद्यावधिकहरु डाउनलोड हुदैँछन् — ">
+<!ENTITY update.downloading.start   "अद्यावधिकहरू डाउनलोड हुदैँछन् — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "अद्यावधिक लागू गरिदै…">

@@ -26,8 +26,12 @@
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
+
+<!ENTITY showOriginalSources.label     "मौलिक स्रोतहरू देखाउनुहोस्">
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
+
+<!ENTITY showOriginalSources.accesskey  "o">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for

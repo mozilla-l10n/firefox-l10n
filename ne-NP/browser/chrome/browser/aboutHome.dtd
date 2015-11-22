@@ -14,13 +14,13 @@
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "फायरफक्स छान्नुभएकोमा धन्यवाद! तपाईँको ब्राउजरबाट धेरै फाइदा पाउनका लागि, <a> नयाँ विशेषताहारु </a> बारे जान्नुहोस्।">
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefox छान्नुभएकोमा धन्यवाद! तपाईँको ब्राउजरबाट धेरै फाइदा पाउनका लागि, <a> नयाँ विशेषताहारु </a> बारे जान्नुहोस्।">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "फायरफक्सलाई तपाईले चाहे अनुरुप सजिलै परिवर्तन गर्न सक्नुहुन्छ। <a> हजारौँ एड-अनहरुबाट चयन गर्न सक्नुहुन्छ</a>">
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefox लाई तपाईँले चाहे अनुरूप सजिलै परिवर्तन गर्न सक्नुहुन्छ। <a> हजारौँ एड-अनहरूबाट चयन गर्न सक्नुहुन्छ</a>">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; गैर-नाफामुलक मोजिल्ला फाउन्डेसनको खुला र स्वतन्त्र सफ्टवेयर हो। <a> तपाईँका अधिकारहरु बारे जान्नुहोस...</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; गैर-नाफामुलक Mozilla फाउन्डेसनको खुला र स्वतन्त्र सफ्टवेयर हो। <a> तपाईँका अधिकारहरू बारे जान्नुहोस...</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "पुस्तकचिनोहरू">
 <!ENTITY abouthome.historyButton.label   "इतिहास">
@@ -30,7 +30,7 @@
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "प्राथमिकताहरू">
-<!ENTITY abouthome.addonsButton.label    "एड-अनहरु">
+<!ENTITY abouthome.addonsButton.label    "एड-अनहरू">
 <!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
      the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
      Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
