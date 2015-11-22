@@ -249,4 +249,4 @@
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.start "തങ്ങളുടെ ആഡോണുകൾ വെരിഫൈ ചെയ്യുന്നതിൽ തല്പരരായ ഡെവലപ്പർമാർക്ക് ഞങ്ങളുടെ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "മാന്വൽ വായിക്കുന്നത് തുടരാവുന്നതാണ്">
-<!ENTITY disabledUnsigned.devInfo.end "‌‌">
+<!ENTITY disabledUnsigned.devInfo.end ".">

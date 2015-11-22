@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+<!ENTITY aboutServiceWorkers.title                     "സര്‍വ്വീസ് പ്രവര്‍ത്തകരെ കുറിച്ച്">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutServiceWorkers.maintitle                 "രജിസ്റ്റര്‍ ചെയ്‌ത സര്‍വ്വിസ് പ്രവര്‍ത്തകര്‍">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
