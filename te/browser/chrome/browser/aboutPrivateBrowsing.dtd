@@ -44,6 +44,7 @@
 <!ENTITY trackingProtection.state.enabled      "చేతనం">
 <!ENTITY trackingProtection.state.disabled     "అచేతనం">
 
+<!ENTITY trackingProtection.description1       "పేజీలలో మీ విహారణ జాడ తెలుసుకునే భాగాలను అంతరంగిక కిటికీలు ఇప్పడు నిరోధిస్తాయి.">
 
 <!ENTITY trackingProtection.disable            "ట్రాకింగ్ సంరక్షణను అచేతనించు">
 <!ENTITY trackingProtection.enable             "ట్రాకింగ్ సంరక్షణను చేతనించు">
