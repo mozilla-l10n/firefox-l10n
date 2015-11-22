@@ -251,7 +251,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "ഡൌണ്‍ലോഡുകള്‍">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "ആഡ്‌-ഓണുകള്‍">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -283,7 +283,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "റസ്പോണ്‍സീവ് രീതിയിലുള്ള കാഴ്ച">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "ഐഡ്രോപ്പര്‍">
 <!ENTITY eyedropper.accesskey "ഐ">
@@ -320,7 +320,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
-
+<!ENTITY webide.keycode                    "VK_F4">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -491,7 +491,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY searchAfter.label            "">
+
+<!ENTITY search.label                 "തിരയുക ">
+<!ENTITY searchAfter.label            "‍">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -663,12 +665,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "‍">
 
 <!ENTITY fullZoomReduceCmd.label        "ചെറുതാക്കുക">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "‍">
 
 <!ENTITY fullZoomResetCmd.label         "വീണ്ടും സജ്ജമാക്കുക">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
@@ -742,34 +744,38 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "സുരക്ഷിത കണക്ഷന്‍">
 <!ENTITY identity.connectionNotSecure "താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല">
 <!ENTITY identity.connectionFile "ഈ താള്‍ താങ്കളുടെ കമ്പ്യൂട്ടറില്‍ ശേഖരിച്ചിട്ടുണ്ട്.">
-
+<!ENTITY identity.connectionVerified1 "താങ്കള്‍ സുരക്ഷിതമായി ഈ വെബ്‌ സൈറ്റിലേക്ക് കണക്റ്റ് ചെയ്തിട്ടുണ്ട്, പ്രവര്‍ത്തിപ്പിക്കുന്നത്:">
 <!ENTITY identity.connectionInternal "ഇതു് സുരക്ഷിതമായൊരു &brandShortName; താള്‍ ആകുന്നു.">
 <!ENTITY identity.insecureLoginForms "നിങ്ങളുടെ ലോഗിന്‍ സുരക്ഷിതമല്ലായിരിക്കാം.">
 <!-- Strings for connection state warnings. -->
+
+<!ENTITY identity.activeBlocked "ഈ താളിന്റെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ലാത്തതിനാല്‍ &brandShortName; അത് തടഞ്ഞിട്ടുണ്ട്.">
 <!ENTITY identity.passiveLoaded "ഈ താളിന്റെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ല (ചിത്രങ്ങള്‍ പോലുള്ളവ).">
 <!ENTITY identity.activeLoaded "താങ്കള്‍ ഈ താളില്‍ സംരക്ഷണം നിര്‍വീര്യമാക്കിയിരിക്കുന്നു.">
-
+<!ENTITY identity.weakEncryption "ഈ താള്‍ ദുര്‍ബലമായ എന്‍ക്രിപ്ഷന്‍ ഉപയോഗിക്കുന്നു.">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "ഈ സൈറ്റുമായുള്ള താങ്കളുടെ ബന്ധം സ്വകാര്യമല്ല. താങ്കള്‍ സമര്‍പ്പിക്കുന്ന വിവരങ്ങള്‍ (രഹസ്യവാക്ക്, സന്ദേശങ്ങള്‍, ക്രെഡിറ്റ് കാര്‍ഡുകള്‍ മുതലായവ) മറ്റുള്ളവര്‍ക്ക് കാണാന്‍ സാധിക്കും.">
-
+<!ENTITY identity.description.insecureLoginForms "നിങ്ങള്‍ ഈ താളില്‍ നല്‍കിയിരിയ്ക്കുന്ന പ്രവേശന വിവരങ്ങള്‍ സുരക്ഷിതമല്ലാത്തതിനാല്‍ പ്രശ്നത്തിലാവാൻ സാധ്യതയുണ്ട്.">
 <!ENTITY identity.description.weakCipher "ഈ വെബ്സൈറ്റുമായി താങ്കള്‍ക്കുള്ള ബന്ധം ദുര്‍ബലമായ എന്‍ക്രിപ്ഷന്‍ ഉപയോഗിക്കുന്നതിനാല്‍ സ്വകാര്യമല്ല">
 <!ENTITY identity.description.weakCipher2 "മറ്റുള്ളവര്‍ക്കു് നിങ്ങളുടെ വിവരങ്ങള്‍ കാണുവോനോ ഈ വെബ്സൈറ്റിന്റെ പ്രവര്‍ത്തനത്തില്‍ മാറ്റം വരുത്താനോ സാധിക്കും.">
-
+<!ENTITY identity.description.activeBlocked "ഈ താളിലെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ലാത്തതിനാല്‍ &brandShortName; അത് തടഞ്ഞിട്ടുണ്ട്.">
 <!ENTITY identity.description.passiveLoaded "താങ്കളുടെ ബന്ധം സ്വകാര്യമല്ലാത്തതിനാല്‍ താങ്കള്‍ സൈറ്റുമായി പങ്കുവെയ്ക്കുന്ന വിവരങ്ങള്‍ മറ്റുള്ളവര്‍ക്ക് കാണാന്‍ സാധിക്കും.">
 <!ENTITY identity.description.passiveLoaded2 "ഈ വെബ്സൈറ്റില്‍ സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കം (ചിത്രങ്ങള്‍ മുതലായവ) ഉണ്ട്.">
 <!ENTITY identity.description.passiveLoaded3 "സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കങ്ങള്‍ ചിലതൊക്കെ &brandShortName; തടഞ്ഞിട്ടുണ്ടെങ്കിലും, മറ്റു് ചിലതു് (ചിത്രങ്ങള്‍ പോലുള്ളതു്) ഇപ്പോഴും ഈ താളില്‍ ഉണ്ട്">
 <!ENTITY identity.description.activeLoaded "ഈ വെബ്സൈറ്റില്‍ സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കമുണ്ട് ( സ്ക്രിപ്റ്റുകള്‍ മുതലായവ). കൂടാതെ ഇതിലേക്കുള്ള താങ്കളുടെ ബന്ധം സ്വകാര്യവുമല്ല.">
+<!ENTITY identity.description.activeLoaded2 "ഈ വെബ്‌ സൈറ്റുമായി താങ്കള്‍ പങ്കിടുന്ന വിവരങ്ങള്‍ (രഹസ്യവാക്കുകള്‍, സന്ദേശങ്ങള്‍, ക്രെഡിറ്റ് കാര്‍ഡുകള്‍ മുതലായവ) മറ്റുള്ളവര്‍ക്ക് കാണാന്‍ സാധിച്ചേക്കാം.">
 
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "സംരക്ഷണം സജ്ജമാക്കുക">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "ഇപ്പോഴത്തേക്ക് സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കുക (D)">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "കൂടുതല്‍ അറിയുക">
 
-
+<!ENTITY identity.moreInfoLinkText2 "കൂടുതല്‍ വിവരങ്ങള്‍">
 
 <!ENTITY identity.permissions "ആനുകൂല്യങ്ങള്‍">
-
+<!ENTITY identity.permissionsEmpty "താങ്കള്‍ ഈ വെബ്‌ സൈറ്റിന് പ്രത്യേക അനുമതികള്‍ ഒന്നും നല്‍കിയിട്ടില്ല.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -780,7 +786,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "സിന്‍ക്">
 
-
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label;-ലേക്ക് പ്രവേശിയ്ക്കുക…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ഉടന്‍ സിന്‍ക് ചെയ്യുക">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;-ലേക്ക് വീണ്ടും കണക്ട് ചെയ്യുക…">
@@ -807,6 +814,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.accesskey "ത">
 <!ENTITY social.closeNotificationItem.label "ഇപ്പോള്‍ അല്ല ">
 
+<!ENTITY social.directory.label "ആക്ടിവേഷന്‍സ് ഡയറക്ടറി">
 <!ENTITY social.directory.text "ഈ അറയില്‍ നിന്നും പങ്കിടല്‍ സേവനങ്ങള്‍ സജ്ജമാക്കാവുന്നതാണ്.">
 <!ENTITY social.directory.button "എന്നെ അവിടെ എത്തികൂ">
 <!ENTITY social.directory.introText "&brandShortName; ലേക്ക് ഒരു സേവനം ഉൾപെടുത്താൻ ക്ലിക്ക് ചെയ്യുക">
@@ -821,10 +829,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.titlebar "തലക്കെട്ട് പട്ട">
 <!ENTITY customizeMode.lwthemes "പ്രമേയങ്ങള്‍">
 <!ENTITY customizeMode.lwthemes.myThemes "എന്റെ പ്രമേയങ്ങള്‍">
-
+<!ENTITY customizeMode.lwthemes.recommended "ഉചിതമായതു്">
 <!ENTITY customizeMode.lwthemes.menuManage "ക്രമീകരിക്കൂ">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore "കൂടുതല്‍ തീമുകള്‍ ലഭ്യമാക്കുക">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -843,23 +851,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "ടാബില്‍ നിന്നുള്ള ഓഡിയോ പങ്കിടപ്പെടുന്നതാണ്.">
 <!ENTITY getUserMedia.allWindowsShared.message "സ്ക്രീനില്‍ ദൃശ്യമായ എല്ലാ ജാലകങ്ങളും പങ്കിടുന്നു.">
 
+<!ENTITY trackingProtection.title "പിന്തുടരല്‍ സംരക്ഷണം">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; നിങ്ങളുടെ ബ്രൌസിങ്ങ് ട്രാക്ക് ചെയ്യാനിടയുള്ള ഭാഗങ്ങളെ തടഞ്ഞു വെച്ചിരിക്കുന്നു.">
-
+<!ENTITY trackingProtection.detectedNotBlocked3 "ഈ സൈറ്റില്‍ താങ്കളുടെ ബ്രൗസിങ്ങ് നിരീക്ഷിക്കാന്‍ ഇടയുള്ള ഘടകങ്ങള്‍ ഉണ്ടു്. താങ്കള്‍ സംരക്ഷണം നിര്‍വീര്യമാക്കിയിരിക്കുന്നു.">
 <!ENTITY trackingProtection.notDetected3 "ഈ പേജില്‍ നിങ്ങളെ ട്രാക്ക് ചെയ്യുന്ന കാര്യങ്ങളൊന്നും കണ്ടില്ല.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "ഈ വെബ്‌ സൈറ്റിന് സുരക്ഷ വേണ്ട">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
+<!ENTITY trackingProtection.unblockPrivate.label "ഈ സെഷനു സുരക്ഷ വേണ്ട ">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "സുരക്ഷ സജ്ജികരിക്കുക (E)">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "നിരീക്ഷണം">
-
-
+<!ENTITY trackingContentBlocked.moreinfo "താളില്‍ താങ്കളുടെ ഓണ്‍ലൈന്‍ പ്രവര്‍ത്തനങ്ങള്‍ നിരീക്ഷിയ്ക്കുന്ന ഭാഗങ്ങള്‍ തടഞ്ഞിരിയ്ക്കുന്നു.">
+<!ENTITY trackingContentBlocked.learnMore "കൂടുതല്‍ അറിയുക">
 <!ENTITY trackingContentBlocked.options "ഐച്ഛികങ്ങള്‍">
 <!ENTITY trackingContentBlocked.unblock2.label "ഈ താളില്‍ സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കുക (D)">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
@@ -899,29 +910,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc          "മുമ്പോട്ടുള്ള സമ്മതം:">
 <!ENTITY panicButton.view.deleteCookies           "ഈയിടെയുള്ള<html:strong> ഉം </html:strong> ഉം നീക്കുക">
-
+<!ENTITY panicButton.view.deleteHistory           "അടുത്തിടെയുള്ള <html:strong>നാള്‍വഴി</html:strong> വെട്ടി നീക്കുക">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "എല്ലാ <html:strong>ടാബുകളും</html:strong><html:strong>ജാലകങ്ങളും</html:strong>അടക്കൂ">
-
+<!ENTITY panicButton.view.openNewWindow           "ഒഴിഞ്ഞ ഒരു പുതിയ ജാലകം തുറക്കൂ">
 
 <!ENTITY panicButton.view.undoWarning             "ഈ പ്രവര്‍ത്തനം ചെയ്തു കഴിഞ്ഞാല്‍ പിന്നെ മാറ്റാന്‍ സാദ്ധ്യമല്ല.">
-
+<!ENTITY panicButton.view.forgetButton            "മറന്നേക്ക്!">
 
 <!ENTITY panicButton.thankyou.msg1                "സമീപകാല നാള്‍വഴി മായ്ച്ചിരിക്കുന്നു">
 <!ENTITY panicButton.thankyou.msg2                "സുരക്ഷിത ബ്രൗസിങ്ങ്!">
 <!ENTITY panicButton.thankyou.buttonlabel         "നന്ദി!">
 
-
+<!ENTITY processHang.terminateScript.label        "സ്ക്രിപ്റ്റ് നിര്‍ത്തുക">
+<!ENTITY processHang.terminateScript.accessKey    "S">
 <!ENTITY processHang.debugScript.label            "സ്ക്രിപ്റ്റ് ഡീബഗ്ഗ് ചെയ്യുക (D)">
 <!ENTITY processHang.debugScript.accessKey        "D">
 <!ENTITY processHang.terminatePlugin.label        "പ്ലഗിന്‍ ഇല്ലാതാക്കുക (P)">
 <!ENTITY processHang.terminatePlugin.accessKey    "P">
+<!ENTITY processHang.terminateProcess.label       "വെബ് പ്രക്രിയ ഇല്ലാതാക്കുക">
+<!ENTITY processHang.terminateProcess.accessKey   "K">
 
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "ഡിആര്‍എമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "ഇപ്പോള്‍ വേണ്ട">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "ഇനി ചോദിക്കരുതു് (D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->

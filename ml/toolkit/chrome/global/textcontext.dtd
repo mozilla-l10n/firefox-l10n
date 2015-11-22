@@ -25,6 +25,7 @@
 <!ENTITY spellDictionaries.label "ഭാഷകള്‍ ">
 <!ENTITY spellDictionaries.accesskey "L">
 
+<!ENTITY searchTextBox.clear.label "നീക്കം ചെയ്യുക">
 
 
 
@@ -32,4 +33,4 @@
 <!ENTITY fillUsernameMenu.label       "ഉപയോക്തൃനാമം നിറയ്ക്കുക">
 <!ENTITY fillUsernameMenu.accesskey   "F">
 
-
+<!ENTITY viewSavedLogins.label        "ശേഖരിച്ചിട്ടുള്ള പ്രവേശനങ്ങള്‍ കാണുക">
