@@ -443,7 +443,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "छोट क्षेत्र पैघ बनाबू">
-
+<!ENTITY pref_magnifying_glass_enabled_summary "लिंक पैघ करू आओर ओकरा निकट मे टैप कएला पर क्षेत्र निर्माण करू ">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -589,14 +589,18 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "सुरक्षित कनेक्शन">
 <!ENTITY identity_connection_insecure "असुरक्षित कनेक्शन">
-
+<!ENTITY identity_login_insecure "ई पृष्ठ सुरक्षित नहि अछि आओर अपन लॉगिन घातक भ सकैछ.">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ई पेज पर असुरक्षित सामग्री ब्लॉक क देलक.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ई पेज पर असुरक्षित सामग्री क बलॉक कए देने अछि.">
+<!ENTITY mixed_content_display_loaded1 "ई पेज केर भाग (एहि तरह केर छवि रूप मे) सुरक्षित नहि अछि.">
+<!ENTITY mixed_content_protection_disabled1 "अहाँक असुरक्षित सामग्री सँ खराब सुरक्षा भेटैत अछि.">
 <!-- Tracking content notifications in site identity popup -->
 
-
+<!ENTITY doorhanger_tracking_title "ट्रैकिंग सुरक्षा">
+<!ENTITY doorhanger_tracking_state_enabled "सक्रिय">
+<!ENTITY doorhanger_tracking_state_disabled "निष्क्रिय">
 <!ENTITY doorhanger_tracking_message_enabled1 "अहाँक ऑनलाइन व्यवहार पर नजर राखए क प्रयास केँ अवरोध कए देल गेल अछि.">
 <!ENTITY doorhanger_tracking_message_disabled2 "ई पृष्ठ ओ तत्व शामिल करैत अछि जे अहाँक ब्राउज़िंग ट्रैक कए सकैत अछि.">
 <!-- Common mixed and tracking content strings in site identity popup -->
@@ -705,6 +709,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "लिंक &formatS; मे खुलत. की अहाँ निजी ब्राउज़िग सँ बाहर आबै लेल चाहैत छी?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
