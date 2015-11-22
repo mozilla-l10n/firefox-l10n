@@ -73,8 +73,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "ഫീല്‍ഡ്‌ വാല്യൂ">
 <!ENTITY certmgr.fields.accesskey             "V">
-
-
+<!ENTITY certmgr.hierarchy.label              "സര്‍ട്ടിഫിക്കറ്റ് ശ്രേണി">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "വിവേചനം  ചേര്‍ക്കുക…">
 <!ENTITY certmgr.addException.accesskey       "x">
 

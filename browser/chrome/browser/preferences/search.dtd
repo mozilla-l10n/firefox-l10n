@@ -23,7 +23,8 @@
 <!ENTITY engineNameColumn.label                "തെരച്ചില്‍ എഞ്ചിന്‍">
 <!ENTITY engineKeywordColumn.label             "കീവേര്‍ഡ്">
 
-
+<!ENTITY restoreDefaultSearchEngines.label     "സ്വതവേയുള്ള തെരച്ചില്‍ എഞ്ചിനുകള്‍ വീണ്ടെടുക്കുക">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
 <!ENTITY removeEngine.label                    "നീക്കം ചെയ്യുക">
 <!ENTITY removeEngine.accesskey                "R">
