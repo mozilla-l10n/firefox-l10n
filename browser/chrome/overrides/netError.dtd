@@ -160,11 +160,12 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.title "ഈ പിശക് രേഖപ്പെടുത്തുക">
 
-
+<!ENTITY errorReporting.automatic "ഇനി മുതല്‍ സ്വമേധയാ പിശകുകള്‍ രേഖപ്പെടുത്തുക">
 <!ENTITY errorReporting.learnMore "കൂടുതല്‍ അറിയുക...">
 
-
+<!ENTITY errorReporting.sent "റിപോര്‍ട്ട് അയച്ചു">
 <!ENTITY errorReporting.report "റിപോര്‍ട്ട്">
 
 
