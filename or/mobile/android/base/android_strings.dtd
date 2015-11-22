@@ -29,11 +29,11 @@
 <!ENTITY  reading_list_title "ପଠନ ତାଲିକା">
 <!ENTITY  recent_tabs_title "ସାମ୍ପ୍ରତିକ ଟ୍ୟାବଗୁଡ଼ିକ">
 
-<!ENTITY  switch_to_tab "ଅନ୍ୟ ଏକ ଟ୍ୟାବକୁ ଯାଆନ୍ତୁ">
+<!ENTITY  switch_to_tab "ଆଉ ଏକ ଟ୍ୟାବକୁ ଯା\u0027ନ୍ତୁ">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ବିନାଶ ଖବରକାରୀ">
 <!ENTITY  crash_message2 "&brandShortName; ଅସୁବିଧା ଥିବା ହେତୁ ବନ୍ଦ ହୋଇଗଲା । ଆପଣଙ୍କ ଟ୍ୟାବମାନ ପୁନରାରମ୍ଭ କଲାବେଳକୁ &brandShortName;ରେ ତାଲିକାଭୁକ୍ତ ହୋଇଥିବ ।">
-<!ENTITY  crash_send_report_message3 "&vendorShortName; କୁ ଏହି ବିନାଶ ବିଷୟରେ ଜଣାନ୍ତୁ ଯାହାଫଳରେ ସେମାନେ ଏହାର ସମାଧାନ କରିପାରିବେ">
+<!ENTITY  crash_send_report_message3 "&vendorShortName; ଙ୍କୁ ଏହି କ୍ରାସ ବାବଦରେ ଜଣାନ୍ତୁ ଫଳରେ ସେମାନେ ଏହାକୁ ସୁଧାରିପାରିବେ">
 <!ENTITY  crash_include_url2 "ମୁଁ ଯେଉଁ ପୃଷ୍ଠା ଉପରେ ଅଛି ତାହାର ଠିକଣାଟି ଅନ୍ତର୍ଭୁକ୍ତ୍ କରନ୍ତୁ">
 <!ENTITY  crash_sorry "ଆମେ ଦୁଃଖିତ">
 <!ENTITY  crash_comment "ମତାମତ ଦିଅନ୍ତୁ (ଆପଣଙ୍କ ମତ ସମସ୍ତେ ପଢ଼ିପାରିବେ)">
