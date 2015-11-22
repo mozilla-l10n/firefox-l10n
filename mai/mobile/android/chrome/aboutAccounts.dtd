@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAccounts.connected.title "फायरफाक्स खाता">
+<!ENTITY aboutAccounts.connected.description "अहाँ एकरा सँ कनेक्टेड छी">
+<!ENTITY aboutAccounts.syncPreferences.label "सिंक सेटिंग्स जाँचए कलेल टैप करू">
 
-
-
+<!ENTITY aboutAccounts.noConnection.title "इंटरनेट कनेक्शन नहि अछि">
+<!ENTITY aboutAccounts.retry.label "फेर कोशिश  करू">
 
 
