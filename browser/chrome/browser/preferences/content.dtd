@@ -5,7 +5,8 @@
 <!ENTITY  popups.label                "Emergentes">
 
 <!ENTITY  notificationsPolicy.label            "Notificaciones">
-<!ENTITY  notificationsPolicyDesc.label        "Elija que sitios tendrán permiso de mostrar notificaciones">
+<!ENTITY  notificationsPolicyLearnMore.label   "Conocer más">
+<!ENTITY  notificationsPolicyDesc3.label       "Elija que sitios tendrán permiso de enviar notificaciones">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Elegir…">
 <!ENTITY  notificationsDoNotDisturb.label      "No molestarme">
