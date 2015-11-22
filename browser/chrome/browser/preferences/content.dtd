@@ -14,7 +14,7 @@
 <!ENTITY  notificationsPolicyButton.label      "ಆರಿಸಿ…">
 <!ENTITY  notificationsDoNotDisturb.label      "ತೊಂದರೆ ಮಾಡಬೇಡಿ">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-
+<!ENTITY  notificationsDoNotDisturbDetails.value "ನೀವು &brandShortName; ಅನ್ನು ಮರು ಆರಂಭಿಸುವ ತನಕ ಸೂಚನೆಗಳನ್ನು ತೋರಿಸಲಾಗುವುದಿಲ್ಲ">
 
 <!ENTITY  popupExceptions.label       "ಹೊರತಾದವುಗಳು...">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "Play DRM ವಿಷಯ">
 <!ENTITY  playDRMContent.accesskey     "P">
-
+<!ENTITY  playDRMContent.learnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
