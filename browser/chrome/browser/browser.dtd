@@ -207,13 +207,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "താങ്കള്‍ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നു">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "താങ്കളുടെ മൈക്രോഫോണ്‍ സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
 <!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "താങ്കളുടെ മൈക്രോഫോണ്‍ സൈറ്റുമായി പങ്കിടുകയാണ്">
-
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "താങ്കളുടെ ജാലകം അല്ലെങ്കില്‍ സ്ക്രീന്‍ സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "താങ്കള്‍ ജാലകം അല്ലെങ്കില്‍ താങ്കളുടെ സ്ക്രീന്‍ സൈറ്റുമായി പങ്കിടുന്നു">
 
 <!ENTITY urlbar.pointerLockNotificationAnchor.label     "ഈ സൈറ്റിനു് പോയിന്ററിനെ അദൃശ്യമാക്കാന്‍ സാധിക്കുമോ എന്നത് മാറ്റുക">
-
+<!ENTITY urlbar.servicesNotificationAnchor.label        "സേവനം ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നതിന്റെ സന്ദേശം കാണുക">
 <!ENTITY urlbar.translateNotificationAnchor.label       "ഈ താള്‍ തര്‍ജ്ജമ ചെയ്യുക">
-
+<!ENTITY urlbar.translatedNotificationAnchor.label      "താള്‍ തര്‍ജ്ജമ ചെയ്യുന്നത് ക്രമീകരിക്കുക">
 <!ENTITY urlbar.emeNotificationAnchor.label             "ഡിആര്‍എം സോഫ്റ്റ്‌വെയറിന്റെ ഉപയോഗം ക്രമീകരിക്കുക">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "നാള്‍വഴി കാണിക്കുക">
@@ -255,10 +255,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ആഡ്‌-ഓണുകള്‍">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-
-
-
-
+<!ENTITY webapps.label                "പ്രയോഗങ്ങള്‍">
+<!ENTITY webapps.accesskey            "p">
+<!ENTITY loopMenuItem.label           "ഒരു സംഭാഷണം ആരംഭിക്കൂ…">
+<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "വെബ് ഡവലപ്പര്‍">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -307,7 +307,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "ബ്രൌസര്‍ ടൂള്‍ബോക്സ്">
 <!ENTITY browserToolboxMenu.accesskey "സ">
-
+<!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
@@ -336,12 +336,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ഫയല്‍"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "പുതിയ കണ്ടൈനര്‍ റ്റാബ്">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "വ്യക്തിപരം">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "ജോലി">
+<!ENTITY userContextWork.accesskey        "W">
 <!ENTITY userContextBanking.label         "ബാങ്കിങ്ങ് (B)">
 <!ENTITY userContextBanking.accesskey     "B">
 <!ENTITY userContextShopping.label        "വ്യാപാരം (S)">
@@ -442,11 +442,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ഏതു് റ്റാബ്:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "താങ്കളുടെ തിരയല്‍ അനുഭവങ്ങള്‍ നിര്‍ദ്ദേശങ്ങള്‍ വഴി ഭേദപെടുത്താന്‍ താങ്കള്‍ ആഗ്രഹിക്കുന്നുണ്ടോ?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "കൂടുതല്‍ അറിയുക...">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "വേണ്ട">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable "ഉവ്വ്">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -477,10 +478,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      submit button in the in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "തെരച്ചില്‍ പദം">
-
+<!ENTITY contentSearchSubmit.label    "തിരയല്‍ സമർപ്പിയ്ക്കുക">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+
+<!ENTITY searchFor.label              "തെരയേണ്ടതു്">
 <!ENTITY searchWith.label             "  ചേര്‍ന്ന്:">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -493,6 +496,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
+<!ENTITY searchWithHeader.label       "ഇതുമായി തെരയുക:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -500,8 +505,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "പുതിയ ടാബില്‍ തിരയുക (T)">
 <!ENTITY searchInNewTab.accesskey     "T">
-
-
+<!ENTITY searchSetAsDefault.label     "സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രമാക്കി മാറ്റുക">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -577,8 +582,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "വീഡിയോ ഈമെയില്‍ അയയ്ക്കുക…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "ഡിവൈസിലേക്കു് വീഡിയോ അയയ്ക്കുക">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ഓഡിയോ ഈമെയില്‍ അയയ്ക്കുക…">
 <!ENTITY emailAudioCmd.accesskey      "ഈ">
 <!ENTITY playPluginCmd.label          "ഈ പ്ലഗിന്‍ സജീവമാക്കുക">
@@ -668,7 +673,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.label         "വീണ്ടും സജ്ജമാക്കുക">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "‌">
 
 <!ENTITY fullZoomToggleCmd.label        "പദാവലിയുടെ വലിപ്പം മാത്രം മാറ്റുക">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
@@ -692,6 +697,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "താള്‍ ശൈലി">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -733,14 +739,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "റദ്ദാക്കുക">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
-
+<!ENTITY identity.connectionSecure "സുരക്ഷിത കണക്ഷന്‍">
+<!ENTITY identity.connectionNotSecure "താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല">
+<!ENTITY identity.connectionFile "ഈ താള്‍ താങ്കളുടെ കമ്പ്യൂട്ടറില്‍ ശേഖരിച്ചിട്ടുണ്ട്.">
 
 <!ENTITY identity.connectionInternal "ഇതു് സുരക്ഷിതമായൊരു &brandShortName; താള്‍ ആകുന്നു.">
 <!ENTITY identity.insecureLoginForms "നിങ്ങളുടെ ലോഗിന്‍ സുരക്ഷിതമല്ലായിരിക്കാം.">
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.passiveLoaded "ഈ താളിന്റെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ല (ചിത്രങ്ങള്‍ പോലുള്ളവ).">
-
+<!ENTITY identity.activeLoaded "താങ്കള്‍ ഈ താളില്‍ സംരക്ഷണം നിര്‍വീര്യമാക്കിയിരിക്കുന്നു.">
 
 <!-- Strings for connection state warnings in the subview. -->
 
