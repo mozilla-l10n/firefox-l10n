@@ -56,7 +56,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.params): This is the label displayed
   -  in the network details pane identifying the params tab. -->
 
-<!ENTITY netmonitorUI.tab.params          "परामितिहरु">
+<!ENTITY netmonitorUI.tab.params          "परामितिहरू">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.response): This is the label displayed
   -  in the network details pane identifying the response tab. -->
 
@@ -231,10 +231,14 @@
   -  for the Copy as cURL menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
+
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "हेडरहरू अनुरोध गर्नुहोस्">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
+
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "प्रतिक्रिया शीर्षकहरू">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
@@ -265,8 +269,12 @@
      from the currently displayed request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "हेडरहरू अनुरोध गर्नुहोस्">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.responseHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw response headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "प्रतिक्रिया शीर्षकहरू">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
@@ -289,6 +297,8 @@
 <!ENTITY netmonitorUI.custom.query        "क्वेरी स्ट्रिङ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.headers      "हेडरहरू अनुरोध गर्नुहोस्">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.send): This is the label displayed

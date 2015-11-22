@@ -22,7 +22,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "तपाईँले &brandShortName; लाई सुरक्षित जडानको 
  गर भन्नुभयो <b>#1</b> तर हामी त्यसलाई सुरक्षित ठान्न सक्दैनौ।">
 <!ENTITY certerror.introPara2 "सामान्यतया, जब तपाईँले सुरक्षित रुपमा जडान गर्ने प्रयास गर्नुहुन्छ, 
-साइटहरुले तपाईँलाई विश्वसनिय पहिचान पेश गर्छ जसबाट 
+साइटहरूले तपाईँलाई विश्वसनिय पहिचान पेश गर्छ जसबाट 
 तपाईँ ठिक ठाउँमा जाँदै हुनुहुन्छ भन्ने प्रमाणित हुन्छ। तर, यो साइटको पहिचान सत्यापित गर्न सकिएन।">
 <!-- These are going to be used for the udpated design in Bug 1207107 -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
@@ -33,13 +33,13 @@ was trying to connect. -->
 <!ENTITY certerror.advanced.label "उन्नत">
 
 <!ENTITY certerror.whatShouldIDo.heading "मैले के गर्नुपर्छ?">
-<!ENTITY certerror.whatShouldIDo.content "यदि तपाई सामान्यतया यो साइटसँग बिना समस्याहरु जोडिनु हुन्छ भने,
+<!ENTITY certerror.whatShouldIDo.content "यदि तपाई सामान्यतया यो साइटसँग बिना समस्याहरू जोडिनु हुन्छ भने,
  यो त्रुटिले अरु कसैले यो साइटको रुप धारण गर्ने कोशिश गर्दैछ भन्छ,
  र तपाई अगाडि बढ्न हुँदैन।                                ">
 
 <!ENTITY certerror.getMeOutOfHere.label "मलाई यहाँबाट बाहिर निकाल्नुहोस्!">
 
-<!ENTITY certerror.expert.heading "म जोखिमहरु बुझ्दछु">
+<!ENTITY certerror.expert.heading "म जोखिमहरू बुझ्दछु">
 <!ENTITY certerror.expert.content "यदि तपाईँले के भइरहेको छ बुझ्नु हुन्छ भने, 
 तपाईँले &brandShortName; लाई यो साइटको पहिचानमा भरोसा गर्न भन्न सक्नुहुन्छ।
 <b>तपाईँले यो साइटलाई विश्वास गर्नुभएतापनि, यो त्रुटिको मतलब अरु कोसैले 
@@ -48,4 +48,4 @@ was trying to connect. -->
 तपाईलाई यस साइटले किन भरोसा पहिचानको उपयोग गर्दैन भन्ने बारे एउटा राम्रो कारण थाहाछैन। ">
 <!ENTITY certerror.addException.label "अपवाद थप्नुहोस्...">
 
-<!ENTITY certerror.technical.heading "प्राविधिक विवरणहरु">
+<!ENTITY certerror.technical.heading "प्राविधिक विवरणहरू">

@@ -23,10 +23,10 @@
 <!ENTITY helpKeyboardShortcuts.label     "Keyboard Shortcuts">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "एड-अनहरु अक्षम पारेर पुन: शुरु गर्नुहोस... R">
+<!ENTITY helpSafeMode.label       "एड-अनहरू अक्षम पारेर पुन: सुरु गर्नुहोस...">
 <!ENTITY helpSafeMode.accesskey   "R">
-
-
+<!ENTITY helpSafeMode.stop.label       "एड-अनहरू अक्षम पारेर पुनः सुरु गर्नुहोस">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey  "e">
@@ -43,7 +43,7 @@
 <!ENTITY preferencesCmdMac.label        "प्राथमिकताहरू…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "सेवाहरु">
+<!ENTITY servicesMenuMac.label          "सेवाहरू">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; लुकाउनुहोस्">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">

@@ -13,9 +13,9 @@
 <!ENTITY port       "पोर्ट:">
 <!ENTITY connect    "जडान गर्नुहोस्">
 <!ENTITY connecting "जडान हुँदैछ...">
-
-<!ENTITY availableTabs "उपलब्धित टाढाको ट्याबहरु:">
-<!ENTITY availableProcesses "उपलब्धित टाढाको प्रक्रियाहरु:">
+<!ENTITY availableAddons "उपलब्धित टाढाको ट्याबहरू:">
+<!ENTITY availableTabs "उपलब्धित टाढाको ट्याबहरू:">
+<!ENTITY availableProcesses "उपलब्धित टाढाको प्रक्रियाहरू:">
 <!ENTITY connectionError "त्रुटि:">
 <!ENTITY errorTimeout "त्रुटि:जडान समय समाप्त।">
 <!ENTITY errorRefused "त्रुटि:जडान अस्वीकार भयो।">
