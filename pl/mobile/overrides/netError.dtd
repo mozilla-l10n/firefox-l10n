@@ -161,7 +161,7 @@
 <!ENTITY corruptedContentError.title "Błąd: treść uszkodzona">
 <!ENTITY corruptedContentError.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Lub dodaj wyjątek…">
+<!ENTITY securityOverride.linkText "Możesz także dodać wyjątek…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Zabierz mnie stąd!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj wyjątek…">
 
