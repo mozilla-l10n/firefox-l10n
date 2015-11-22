@@ -16,5 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "ई पृष्ठ पर कोनो निज सूचना केँ डालनाइ पहचान चोरी या आन धोखाक रूपेँ परिणाम आन सकैत अछि.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ई प्रकारक वेब धोखाधड़ी फिशिंग हमलाक रूपेँ जाएबला घोटाला मे प्रयोग कएल जाइछ, जकरामे छद्म वेब पेज आ इमेल केँ प्रयोग कएल जाइत अछि जकरा पर अहाँ भरोसा करैत छी. </p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "आवांछित सॉफ्टवेयर साइट केर रिपोट कएलक!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "ई वेब पेज <span id='unwanted_sitename'/> पर अवांछित सॉफ्टवेयर केर रिपोट भेटल अछि आओर सुरक्षा वरीयता केर आधार पर ब्लॉक कएल गेल अछि.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "अवांछित सॉफ्टवेयर पृष्ठ ओ सॉफ्टवेयर स्थापित करबाक प्रयास करत जे भ्रामक भ सकैछ आओर अप्रत्याशित तरीका मे अहाँक तंत्र केँ प्रभावित क सकैछ.">
