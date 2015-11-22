@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "तुल्यकालित करब कलेल की">
 <!ENTITY sync.configure.engines.sync.my.title.label "अपन समन्वयन करू...">
 <!ENTITY sync.configure.engines.title.bookmarks "पुस्तकचिह्न">
-
+<!ENTITY sync.configure.engines.title.passwords2 "लॉगिन">
 <!ENTITY sync.configure.engines.title.history "इतिहास">
 <!ENTITY sync.configure.engines.title.tabs "टैग">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "गोपनीयता नीति">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; मे अहाँक स्वागत अछि ;">
-
+<!ENTITY fxaccount_getting_started_description2 "टैब, पुस्तकचिह्न, लॉगिन आदि सिंक करब कलेल साइन इन करू.">
 <!ENTITY fxaccount_getting_started_get_started "आरंभ करू">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; क पुरान संस्करण क उपयोग कए रहल अछि?">
 <!-- Localization note: the Firefox below should not change with the
@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "एकटा फायरफाक्स खाता बनाउ">
 <!ENTITY fxaccount_create_account_password_length_restriction "कम सँ कम 8 वर्ण क होनाइ चाही">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "दिन">
+<!ENTITY fxaccount_create_account_month_of_birth "महिना">
 <!ENTITY fxaccount_create_account_year_of_birth "जन्म क साल">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "जारी राखैत हुए, हम फायरफाक्स क्लाउड सेवा क &formatS1; आओर &formatS2;सँ सहमत छी. ">
