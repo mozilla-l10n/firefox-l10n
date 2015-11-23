@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
+<!ENTITY aboutDebugging.title                      "debugging: बारे मे">
+<!ENTITY aboutDebugging.addons                     "सहयुक्ति">
+<!ENTITY aboutDebugging.addonDebugging.label       "debugging सहयुक्त‍ि सक्रिय करू">
+<!ENTITY aboutDebugging.addonDebugging.tooltip     "एहि विकल्प कए चालू केने स सहयुक्त‍ि आ क्रोम ब्राउजर क अनेक हिस्सा डिबग भए जाएत ">
+<!ENTITY aboutDebugging.workers                    "वर्कर">
