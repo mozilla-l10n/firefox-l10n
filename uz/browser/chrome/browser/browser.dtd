@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label;ga kirish">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; parametrlarini ochish">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;ga qayta ulanish">
-
+<!ENTITY fxaUnverified.label "Hisobingizni tasdiqlang">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; yoqib qo‘yildi">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; sinxronlashni hoziroq boshlaydi.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
+<!ENTITY fullscreenWarning.afterDomain.label "– hozir butun ekranda">
 <!ENTITY fullscreenWarning.generic.label "Bu hujjat hozir butun ekranda ko‘rinmoqda">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "&quot;Butun ekranda&quot; usulidan chiqish (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "&quot;Butun ekranda&quot; usulidan chiqish (Esc)">
 <!ENTITY leaveDOMFullScreen.label "Butun ekran’dan chiqish">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -188,29 +189,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Chop qilish">
 <!ENTITY printButton.tooltip          "Ushbu sahifani chop qilish">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Sayt haqidagi ma’lumotni ko‘rish">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Eslatmalarni ko‘rish">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Manzil so‘rovini ko‘rish">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Qo‘shimcha dasturni o‘rnatish xabarini ko‘rish">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ilovalarni oflayn saqlash xabarini ko‘rish">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Login ma’lumotlarini boshqarish">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Parolingizni saqlamoqchi bo‘lsangiz, belgilang">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Ilovani o‘rnatish xabarini ko‘rish">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Ushbu sahifadagi plagindan foydalanishni boshqarish">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Sayt eslatmalaringizni ko‘rsata olish uchun o‘zgartiring">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Kamera yoki mikrofonni sayt bilan bo‘lishishni boshqarish">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Siz hozirda kamera yoki mikrofonni sayt bilan bo‘lishishyapsiz">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Mikrofonni sayt bilan bo‘lishishni boshqarish">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Siz hozirda mikrofonni sayt bilan bo‘lishyapsiz">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Oynalar yoki ekranni sayt bilan bo‘lishishni boshqarish">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Siz hozirda oyna yoki ekranni sayt bilan bo‘lishishyapsiz">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "O‘zgartirsangiz, sayt kursorni yashira oladi">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Xizmatni o‘rnatish xabarini ko‘rish">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Bu sahifa tarjima qilish">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Sahifani tarjima qilishi boshqarish">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM dasturidan foydalanishni boshqarish">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Tarixni ko‘rsatish">
 
 <!ENTITY searchItem.title             "Izlash">
 <!-- Toolbar items --> 
@@ -245,14 +251,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Yuklab olishlar">
 <!ENTITY downloads.accesskey          "Y">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Qo‘shimcha dasturlar">
 <!ENTITY addons.accesskey             "Q">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Ilova dasturlar">
 <!ENTITY webapps.accesskey            "a">
-
-
+<!ENTITY loopMenuItem.label           "Suhbatni boshlash…">
+<!ENTITY loopMenuItem.accesskey       "b">
 
 <!ENTITY webDeveloperMenu.label       "Veb dasturchi">
 <!ENTITY webDeveloperMenu.accesskey   "V">

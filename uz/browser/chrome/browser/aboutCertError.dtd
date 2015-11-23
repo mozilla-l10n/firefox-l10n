@@ -13,6 +13,8 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "Ushbu ulanish ishonchsiz.">
 <!-- These are going to be used for the updated design in Bug 1207107 -->
 
+<!ENTITY certerror.pagetitle1  "Xavfli ulanish">
+<!ENTITY certerror.longpagetitle1 "Ulanish – xavfsiz emas">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -26,9 +28,9 @@ ishonchli ekanligini tekshirishning imkoni bo‘lmadi.">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-
-
-
+<!ENTITY certerror.returnToPreviousPage.label "Orqaga qaytish">
+<!ENTITY certerror.learnMore "Batafil ma’lumot…">
+<!ENTITY certerror.advanced.label "Qo‘shimcha">
 
 <!ENTITY certerror.whatShouldIDo.heading "Men nima qilishim kerak?">
 <!ENTITY certerror.whatShouldIDo.content "Agar doimo ushbu saytga muammosiz
