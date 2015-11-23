@@ -88,14 +88,20 @@
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
 
+<!ENTITY inspectorAddAttribute.label        "أضف خاصية">
+<!ENTITY inspectorAddAttribute.accesskey    "ض">
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
      for current node -->
 
+<!ENTITY inspectorEditAttribute.label        "حرر الخاصية">
+<!ENTITY inspectorEditAttribute.accesskey    "ح">
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
 
+<!ENTITY inspectorRemoveAttribute.label        "أزل الخاصية">
+<!ENTITY inspectorRemoveAttribute.accesskey    "ز">
 
 <!ENTITY inspector.selectButton.tooltip     "اختر العنصر بالفأرة">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
@@ -111,6 +117,8 @@
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
+
+<!ENTITY inspectorCopyImageDataUri.label       "انسخ عنوان بيانات الصورة">
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
      the DOM properties of the current node. When triggered, this item
@@ -121,6 +129,8 @@
      shown in the inspector contextual-menu for the item that outputs a
      variable for the current node to the console. When triggered,
      this item opens the split Console. -->
+
+<!ENTITY inspectorUseInConsole.label       "استخدم في المِعراض">
 <!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
      shown in the inspector contextual-menu for recursively expanding
      mark-up elements -->

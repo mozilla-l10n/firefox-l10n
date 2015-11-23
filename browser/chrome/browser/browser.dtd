@@ -193,26 +193,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "اعرض تنبيهًا">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "اعرض طلب المكان">
 
 
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "أدر معلومات الولوج">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "تحقق مما إذا كنت تريد حفظ كلمة السر">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "اعرض رسالة تثبيت التطبيق">
+
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "غيّر ما إذا كان يمكن الموقع أن يظهر لك التنبيهات">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "أدر مشاركة كمرتك و ميكروفونك مع هذا الموقع">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "تشارك كمرتك و ميكروفونك مع هذا الموقع">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "أدر مشاركة ميكروفونك مع هذا الموقع">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "أدر مشاركة كمرتك مع هذا الموقع">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "أدر مشاركة نوافذك أو شاشتك مع هذا الموقع">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "تشارك نافذة أو شاشتك مع هذا الموقع">
+
+<!ENTITY urlbar.servicesNotificationAnchor.label        "اعرض رسالة تثبيت الخدمة">
+<!ENTITY urlbar.translateNotificationAnchor.label       "ترجم هذه الصفحة">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "أدِر ترجمة الصفحة">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "اعرض التأريخ">
 
 <!ENTITY searchItem.title             "ابحث">
 <!-- Toolbar items --> 
@@ -334,14 +337,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "م">
 <!ENTITY newUserContext.label             "لسان حاوٍ جديد">
 <!ENTITY newUserContext.accesskey         "ح">
+<!ENTITY userContextPersonal.label        "شخصي">
+<!ENTITY userContextPersonal.accesskey    "ش">
+<!ENTITY userContextWork.label            "عمل">
+<!ENTITY userContextWork.accesskey        "ع">
 
 
-
-
-
-
-
-
+<!ENTITY userContextShopping.label        "تسوق">
+<!ENTITY userContextShopping.accesskey    "ت">
 <!ENTITY newNavigatorCmd.label        "نافذة جديدة">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ج">

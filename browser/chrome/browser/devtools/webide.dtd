@@ -13,9 +13,9 @@
 <!ENTITY projectMenu_importHostedApp_label "افتح تطبيقًا مستضافًا…">
 <!ENTITY projectMenu_importHostedApp_accesskey "س">
 <!ENTITY projectMenu_selectApp_label "افتح تطبيقا...">
-
+<!ENTITY projectMenu_selectApp_accesskey "ف">
 <!ENTITY projectMenu_play_label "ثبّت و شغّل">
-
+<!ENTITY projectMenu_play_accesskey "ث">
 <!ENTITY projectMenu_stop_label "أوقف التطبيق">
 <!ENTITY projectMenu_stop_accesskey "ق">
 <!ENTITY projectMenu_debug_label "نقّح التطبيق">
