@@ -11,17 +11,17 @@
 
 <!ENTITY importFromIE.label             "മൈക്രൊസോഫ്റ്റ്‌ ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromEdge.label           "മൈക്രോസോഫ്റ്റ്‍ എഡ്ജ് (E)">
+<!ENTITY importFromEdge.label           "മൈക്രോസോഫ്റ്റ്‍ എഡ്ജ്">
 <!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "ഒന്നും import ചെയ്യരുത്‌">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "സഫാരി">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromCanary.label         "ക്രോം കാനറി (n)">
+<!ENTITY importFromCanary.label         "ക്രോം കാനറി">
 <!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "ക്രോം">
 <!ENTITY importFromChrome.accesskey     "C">
-<!ENTITY importFromChromium.label       "ക്രോമിയം (u)">
+<!ENTITY importFromChromium.label       "ക്രോമിയം">
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "ഫയര്‍ഫോക്സ്">
 <!ENTITY importFromFirefox.accesskey    "x">
