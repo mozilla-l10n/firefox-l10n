@@ -48,17 +48,17 @@
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Ouzhpennañ un degouezh d'an deiziataer">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Nac'hañ">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Nac'h ar bedadenn degouezh">
-
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Nac'hañ an holl">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Nac'h ar bedadenn degouezh evit an holl reveziadennoù eus an degouezh">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Dilemel">
-
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Dilemel eus an deiziataer">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Munudoù...">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Diskouez munudoù an degouezh">
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnMore.label                                    "Muioc'h">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klikit evit kaout muioc'h a zibarzhioù">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Adkadarnaat">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Kas un adkadarnadur d'an aozer">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Enrollañ un eilad">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Enrollañ un eilad eus an degouezh war an deiziataer, distag eus ur respont d'an aozer. Roll ar berzhidi a vo goullonderet.">
 
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Asantiñ ar bedadenn degouezh evit ar mare">
@@ -72,6 +72,8 @@
 
 
 <!-- Account Central page -->
+
+<!ENTITY lightning.acctCentral.newCalendar.label "Krouiñ un deiziataer nevez">
 <!-- today-pane-specific -->
 
 
