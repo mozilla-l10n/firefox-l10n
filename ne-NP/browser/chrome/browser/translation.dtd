@@ -14,8 +14,8 @@
 
 <!ENTITY translation.thisPageIsIn.label         "यो पेज निम्न मा छ">
 <!ENTITY translation.translateThisPage.label    "यो पृष्ठ अनुवाद गर्नुहोस् ?">
-
-
+<!ENTITY translation.translate.button           "अनुवाद गर्नहोस्">
+<!ENTITY translation.notNow.button              "अहिले होइन">
 
 <!ENTITY translation.translatingContent.label   "पृष्ठ सामग्री अनुवाद गर्दै…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
@@ -36,12 +36,15 @@
 
 <!ENTITY translation.translatedFrom.label       "यस पृष्ठ यो बाट अनुवाद गरिएको छ">
 <!ENTITY translation.translatedTo.label         "लाई">
-<!ENTITY translation.translatedToSuffix.label   "">
+<!ENTITY translation.translatedToSuffix.label   "‍">
 
+<!ENTITY translation.showOriginal.button        "मूलरूप देखाउनुहोस्">
 <!ENTITY translation.showTranslation.button     "अनुवाद देखाउनुहोस्">
 
+<!ENTITY translation.errorTranslating.label     "यो पेज अनुवाद गर्दा त्रुटि भएको छ।">
 <!ENTITY translation.tryAgain.button            "पुन:प्रयास गर्नुहोस्">
 
+<!ENTITY translation.serviceUnavailable.label   "अनुवाद अहिले उपलब्ध छैन। केहि समय पछि पुनः प्रयास गर्नुहोला।">
 
 <!ENTITY translation.options.menu               "विकल्पहरू">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -58,7 +61,9 @@
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
-<!ENTITY translation.options.attribution.afterLogo "">
+
+<!ENTITY translation.options.attribution.beforeLogo "अनुवादकर्ता">
+<!ENTITY translation.options.attribution.afterLogo "‍‍">
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

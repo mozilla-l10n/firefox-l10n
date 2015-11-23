@@ -34,8 +34,8 @@
 
 
 
-<!ENTITY isDefault.label                  "तपाइको हालको निर्धारित ब्राउजर &brandShortName;">
-
+<!ENTITY isDefault.label                  "तपाईँको हालको निर्धारित ब्राउजर &brandShortName;">
+<!ENTITY isNotDefault.label               "तपाईँको हालको निर्धारित ब्राउजर &brandShortName;">
 
 
 

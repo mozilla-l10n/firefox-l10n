@@ -8,8 +8,8 @@
 
 <!ENTITY noTranslationForLanguages.label  "निम्न भाषाहरूमा अनुवाद उपलब्ध छैन :">
 <!ENTITY treehead.languageName.label      "भाषाहरू">
-
-
+<!ENTITY removeLanguage.label             "भाषा हटाउनुहोस्">
+<!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "सबै भाषाहरू हटाउनुस">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
@@ -17,8 +17,8 @@
 <!ENTITY treehead.siteName.label          "साइट">
 <!ENTITY removeSite.label                 "साइट हटाउनुहोस्">
 <!ENTITY removeSite.accesskey             "S">
-
-
+<!ENTITY removeAllSites.label             "सबै साइट हटाउनुहोस्">
+<!ENTITY removeAllSites.accesskey         "i">
 
 <!ENTITY button.close.label               "बन्द गर्नुहोस्">
 <!ENTITY button.close.accesskey           "C">

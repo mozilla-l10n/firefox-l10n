@@ -7,7 +7,7 @@
 <!ENTITY tabCrashed.sendReport "क्र्यास रिपोर्ट गरेर भविष्यमा यस्ता खराब समाचारहरू रोक्नुहोस्">
 <!ENTITY tabCrashed.includeURL "म भएको पृष्ठको ठेगाना समेट्ने">
 <!ENTITY tabCrashed.commentPlaceholder "टिप्पणी थप्नुहोस् (टिप्पणीहरू सार्वजनिक रूपमा देखिने छ)">
-
+<!ENTITY tabCrashed.emailPlaceholder "तपाईँको इमेल ठेगाना लेख्नुहोस्">
 <!ENTITY tabCrashed.emailMe "धेरै जानकारीहरू उपलब्ध भए पछि मलाई इमेल गर्नुहोस्">
 <!ENTITY tabCrashed.crashReporter "मोजिला क्र्यास प्रतिवेदक">
 

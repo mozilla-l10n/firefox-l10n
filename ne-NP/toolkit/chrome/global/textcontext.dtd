@@ -31,7 +31,7 @@
 <!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillPasswordMenu.label       "पासवर्ड भर्ने">
 <!ENTITY fillPasswordMenu.accesskey   "F">
-
-
-
+<!ENTITY fillUsernameMenu.label       "प्रयोगकर्ता नाम भर्नुहोस्">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(कुनै लगइन सुझावहरू छैनन्)">
 <!ENTITY viewSavedLogins.label        "संग्रहित लगइनहरू हेर्नुहोस्">

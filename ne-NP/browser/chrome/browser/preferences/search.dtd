@@ -5,13 +5,17 @@
 <!ENTITY defaultSearchEngine.label             "पूर्वनिर्धारित खोज इन्जिन">
 
 
+<!ENTITY provideSearchSuggestions.label        "खोज सुझावहरू प्रदान गर्ने">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
+<!ENTITY showURLBarSuggestions.label           "लोकेसन बार नतिजाहरूमा खोज सुझावहरू देखाउने ">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "खोज इतिहास कहिले पनि लोकेसन बारमा देखिदैन किनभने &brandShortName; लाई कहिले पनि इतिहास नसम्झनेमा सेट गर्नुभएको छ ।">
 
+<!ENTITY redirectWindowsSearch.label "Windows बाट सुरु गर्नलाई यो सर्च इन्जिन प्रयोग गर्नुहोस्">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
-
-
-
-
+<!ENTITY oneClickSearchEngines.label           "एक-क्लिक खोज इन्जिनहरू">
 
 <!ENTITY chooseWhichOneToDisplay.label         "खोज बारले फरक खोज इन्जिइहरूमा सिधै खोज्न दिन्छ । कुन देखाउने हो छान्नुहोस् ।">
 
