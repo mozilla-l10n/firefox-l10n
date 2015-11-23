@@ -61,7 +61,7 @@
 <!ENTITY pairDevice.title.label             "اتصال دستگاه">
 <!ENTITY addDevice.showMeHow.label          "نمایش روش کار">
 <!ENTITY addDevice.dontHaveDevice.label     "هم‌اکنون رایانهٔ مورد نظر همراهم نیست.">
-<!ENTITY pairDevice.setup.description.label  "برای فعالسازی، &quot;جفت شدن به دستگاه دیگر&quot; را در آن دستگاه انتخاب کنید.">
+<!ENTITY pairDevice.setup.description.label  "برای فعالسازی، «جفت شدن به دستگاه دیگر» را در آن دستگاه انتخاب کنید.">
 <!ENTITY addDevice.setup.enterCode.label    "سپس این کد را وارد نمایید:">
 <!ENTITY pairDevice.dialog.description.label "برای فعال‌کردن دستگاه جدید، &quot;نصب همگام‌سازی&quot; را در دستگاه انتخاب کنید.">
 <!ENTITY addDevice.dialog.enterCode.label   "کدی که رایانهٔ دیگر نشان می‌دهد را در این‌جا وارد کنید:">
