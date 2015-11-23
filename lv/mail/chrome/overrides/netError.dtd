@@ -4,12 +4,13 @@
 
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
-
+<!ENTITY retry.label "Mēģiniet vēlreiz">
 <!-- Specific error messages -->
 
 
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.title "Serveris nav atrasts">
 
 
 
