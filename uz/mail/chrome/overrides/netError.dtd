@@ -65,6 +65,7 @@ ulanishini tekshirib ko‘ring.</li>
 <li>Muammo haqida xabar berish uchun sayt egasi bilan bog‘laning.</li> 
 </ul>">
 
+<!ENTITY netReset.title "Ulanish qayta o‘rnatildi">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Ulanish vaqti o‘tib ketdi">
