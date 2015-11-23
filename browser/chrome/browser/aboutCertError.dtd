@@ -29,7 +29,7 @@ zoazela frogatzeko. Hala ere, gune honen identitatea ezin da egiaztatu.">
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara "<span class='hostname'/> gunearen jabeak webgunea gaizki konfiguratu du. Zure informazioa lapurtzea sahiesteko, &brandShortName; ez da webgune honetara konektatu.">
+<!ENTITY certerror.introPara "<span class='hostname'/> gunearen jabeak webgunea gaizki konfiguratu du. Zure informazioa lapurtzea saihesteko, &brandShortName; ez da webgune honetara konektatu.">
 <!ENTITY certerror.returnToPreviousPage.label "Joan atzera">
 <!ENTITY certerror.learnMore "Argibide gehiago…">
 <!ENTITY certerror.advanced.label "Aurreratua">

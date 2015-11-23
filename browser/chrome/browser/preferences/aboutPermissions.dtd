@@ -41,6 +41,7 @@
 
 <!ENTITY popup.label                     "Ireki popup leihoak">
 
+<!ENTITY desktop-notification.label      "Jakinarazpenak erakustea">
 <!ENTITY camera.label                    "Erabili kamera">
 <!ENTITY microphone.label                "Erabili mikrofonoa">
 
