@@ -44,6 +44,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.transferred): This is the label displayed
   -  in the network table toolbar, above the "transferred" column, which is the
   -  compressed / encoded size. -->
+
+<!ENTITY netmonitorUI.toolbar.transferred "മറ്റൊരിടത്തേക്കു് നീക്കിയിരിയ്ക്കുന്നു">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column, which is the
   -  uncompressed / decoded size. -->
@@ -79,6 +81,8 @@
 <!ENTITY netmonitorUI.tab.preview         "തിരനോട്ടം">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.security): This is the label displayed
   -  in the network details pane identifying the security tab. -->
+
+<!ENTITY netmonitorUI.tab.security        "സുരക്ഷ">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 
@@ -123,7 +127,7 @@
   -  in the network details footer for the url filtering textbox. -->
 
 <!ENTITY netmonitorUI.footer.filterFreetext.label  "യുആര്‍എലുകള്‍ അരിക്കുക">
-
+<!ENTITY netmonitorUI.footer.filterFreetext.key  "F">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 
@@ -146,6 +150,8 @@
 <!ENTITY netmonitorUI.summary.method      "ആവശ്യപ്പെടുന്ന രീതി:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
   -  in the network details headers tab identifying the remote address. -->
+
+<!ENTITY netmonitorUI.summary.address     "വിദൂര വിലാസം:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 
@@ -208,10 +214,16 @@
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
+
+<!ENTITY netmonitorUI.security.error      "ഒരു പിശക് ഉണ്ടായിരിയ്ക്കുന്നു:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.protocolVersion): This is the label displayed
   -  in the security tab describing TLS/SSL protocol version. -->
+
+<!ENTITY netmonitorUI.security.protocolVersion "പ്രോട്ടോക്കോള്‍ പതിപ്പു്:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.cipherSuite): This is the label displayed
   -  in the security tab describing the cipher suite used to secure this connection. -->
+
+<!ENTITY netmonitorUI.security.cipherSuite "സിഫര്‍ സൂട്ട്:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
