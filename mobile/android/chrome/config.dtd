@@ -3,19 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY toolbar.searchPlaceholder     "Buscar">
 
-<!ENTITY newPref.namePlaceholder       "Nombre">
 
-<!ENTITY newPref.valueBoolean          "Boolean">
-<!ENTITY newPref.valueString           "String">
-<!ENTITY newPref.valueInteger          "Integer">
 
-<!ENTITY newPref.stringPlaceholder     "Ingresa una cadena">
-<!ENTITY newPref.numberPlaceholder     "Ingresa un número">
 
-<!ENTITY newPref.toggleButton          "Toggle">
-<!ENTITY newPref.cancelButton          "Cancelar">
 
-<!ENTITY contextMenu.copyPrefName      "Copiar nombre">
-<!ENTITY contextMenu.copyPrefValue     "Copiar valor">
+
+
+
