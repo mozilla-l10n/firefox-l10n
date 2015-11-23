@@ -5,7 +5,7 @@
 <!ENTITY tracking.label                 "ٹریکنگ">
 
 <!ENTITY dntTrackingNotOkay4.label     "درخواست دیں کہ سائٹ آپکا سراغ راہ نہ لگاِین">
-<!ENTITY dntTrackingNotOkay4.accesskey "n">
+<!ENTITY dntTrackingNotOkay4.accesskey "ن">
 <!ENTITY doNotTrackInfo.label          "اور سیکھیں">
 <!ENTITY trackingProtection5.label     "سراغ راہ حفاظت استعمال کریں">
 <!ENTITY trackingProtection5.accesskey "ا">
@@ -27,11 +27,11 @@
 <!ENTITY  locbar.bookmarks.accesskey    "ن">
 <!ENTITY  locbar.openpage.label         "ٹیب کھولیے">
 <!ENTITY  locbar.openpage.accesskey     "ک">
-<!ENTITY  locbar.searches.label         "تحقیق و تکمیل کاری تلاش کرتا ہے طےشدہانجن  سے">
-<!ENTITY  locbar.searches.accesskey     "d">
+<!ENTITY  locbar.searches.label         "تحقیق و تکمیل کاری تلاش شدہ انجن سے">
+<!ENTITY  locbar.searches.accesskey     "و">
 
 <!ENTITY  suggestionSettings.label      "تلاش کے انجن کی تجاویز کے لئے ترجیحات کو بدلیں…">
-<!ENTITY  suggestionSettings.accesskey  "g">
+<!ENTITY  suggestionSettings.accesskey  "ب">
 
 <!ENTITY  acceptCookies.label           "سائٹوں پر سے کوکی قبول کریں">
 <!ENTITY  acceptCookies.accesskey       "ق">

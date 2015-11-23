@@ -440,7 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "ٹیب پر سوئچ کریں:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "کیا آہ اپنے تلاش اینجن تجربے کو تجاویز سے بہتر بنانا چاہیں گے؟">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "اور &amp;سیکھیں…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "اور سیکھیں…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "ل">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "نہیں">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "این">
@@ -765,8 +765,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "حفاظت اہل بنائیں">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "ا">
-<!ENTITY identity.disableMixedContentBlocking.label "ابھی کے لیے حفاظت کو نا اہل بنائیں">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.disableMixedContentBlocking.label "ابھی کے لئے حفاظت کو نا اہل بنائیں">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "ن">
 <!ENTITY identity.learnMore "مزید سیکھیں">
 
 <!ENTITY identity.moreInfoLinkText2 "مزید معلومات">

@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "مثال: .mozilla.org ،.net.nz ،192.168.1.0/24">
 <!ENTITY  shareproxy.label              "تمام پروٹوکول کے لیے یہ پراکسی سرور استعمال کریں">
 <!ENTITY  shareproxy.accesskey          "ا">
-<!ENTITY  autologinproxy.label          " تصدیق کے لئے فوری طور پر ترغیب نہیں دیں اگر پاس ورڈ پہلے سےمحفوظ شدہ ہے">
-<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.label          " تصدیق کے لئے فوری طور پر ترغیب نہیں دیں اگر پاس ورڈ پہلے سے محفوظ شدہ ہے">
+<!ENTITY  autologinproxy.accesskey      "غ">
 <!ENTITY  autologinproxy.tooltip        "یہ اختیار خاموشی سے پراکسی پر توثیق کر دیتی ہے جب آپ نے ان کے لیے اسناد محفوظ کیے ہوں۔  توثیق ناکام ہونے کی صورت میں آپ کو بتا دیا جائے گا۔">

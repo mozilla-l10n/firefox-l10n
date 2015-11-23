@@ -36,7 +36,7 @@
 
 
 
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "آلہ ترجیحات">
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-
+<!ENTITY projectPanel_tabs "ٹیبیں">
 
 
 
@@ -130,10 +130,14 @@
 
 <!-- Device Preferences and Settings -->
 
-
+<!ENTITY device_typeboolean "بولیائی">
+<!ENTITY device_typenumber "سالم عدد">
+<!ENTITY device_typestring "سٹرنگ">
 <!ENTITY device_typeobject "آبجیکٹ">
 
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "آلہ ترجیحات">
 
 
 
@@ -164,7 +168,7 @@
 
 
 <!ENTITY simulator_version "ورژن">
-
+<!ENTITY simulator_profile "پروفائل">
 
 <!ENTITY simulator_device "آلہ">
 

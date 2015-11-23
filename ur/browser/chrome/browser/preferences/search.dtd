@@ -13,7 +13,7 @@
 <!ENTITY showURLBarSuggestions.accesskey       "م">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ &brandShortName; تاریخ کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔">
 
-<!ENTITY redirectWindowsSearch.label "Windows&amp; سے تلاش کے لئے تلاش کے انجن کا استعمال کریں">
+<!ENTITY redirectWindowsSearch.label "ونڈوں سے تلاش کے لئے تلاش کے انجن کا استعمال کریں">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "ایک-کلک تلاش انجن">

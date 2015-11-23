@@ -32,7 +32,7 @@
 <!ENTITY alwaysAsk.accesskey "ہ">
 
 <!ENTITY alwaysCheckDefault2.label        "ہمیشہ جانچ پڑتال کریں کہ &brandShortName; آپ کا پہلے سے طے شدہ براؤزر ہے">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+<!ENTITY alwaysCheckDefault2.accesskey    "ی">
 <!ENTITY setAsMyDefaultBrowser2.label     "طے شدہ بنائیں">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "ش">
 <!ENTITY isDefault.label                  "&brandShortName; اس وقت آپ کا طےشدہ براؤزر ہے">
