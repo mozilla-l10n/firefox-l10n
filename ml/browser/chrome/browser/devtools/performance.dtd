@@ -146,9 +146,9 @@
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
 
 <!ENTITY performanceUI.console.recordingNoticeStart "നിലവില്‍ റെക്കോര്‍ഡ്‌ ചെയ്തുകൊണ്ടിരിക്കുന്നത്">
-<!ENTITY performanceUI.console.recordingNoticeEnd   "">
+<!ENTITY performanceUI.console.recordingNoticeEnd   "‌">
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
-
+<!ENTITY performanceUI.console.stopCommandEnd   "കണ്‍സോളിനുള്ളിലേക്ക്.">

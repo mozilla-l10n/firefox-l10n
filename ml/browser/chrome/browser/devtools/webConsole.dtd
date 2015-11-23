@@ -61,17 +61,23 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
-
+<!ENTITY btnServerLogging.label       "സര്‍വര്‍">
+<!ENTITY btnServerLogging.tooltip     "ഒരു വെബ്‌സര്‍വറില്‍ നിന്ന്‍ ലോഗ് സന്ദേങ്ങള്‍ ലഭിച്ചിരിക്കുന്നു">
+<!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "പിശകുകള്‍">
 <!ENTITY btnServerInfo                "വിവരം">
 <!ENTITY btnServerWarnings            "മുന്നറിയിപ്പുകള്‍">
 <!ENTITY btnServerLog                 "ലോഗ്">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "ഷെയേർഡ് വർക്കര്‍സ്">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "സെർവീസ് വർക്കര്‍സ്">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "ആഡ്-ഓണ്‍ അല്ലെങ്കില്‍ ക്രോം വര്‍ക്കര്‍സ്">
 
 <!ENTITY filterOutput.placeholder "ഔട്ട്പുട്ട് ഫില്‍റ്റര്‍ ചെയ്യുക">
 <!ENTITY btnClear.label        "rവെടിപ്പാക്കുക">
@@ -81,13 +87,13 @@
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "‌">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "‌">
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "‌">
 
 <!ENTITY copyURLCmd.label     "കണ്ണിയുടെ വിലാസം പകര്‍ത്തുക">
 <!ENTITY copyURLCmd.accesskey "a">
@@ -95,7 +101,7 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
-
-
+<!ENTITY openInVarViewCmd.label "വേരിയബിള്‍സ് വ്യുവില്‍ തുറക്കുക">
+<!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.label "ഗ്ലോബല്‍ വേരിയബിള്‍ ആയി സ്റ്റോര്‍ ചെയ്യുക">
+<!ENTITY storeAsGlobalVar.accesskey "S">

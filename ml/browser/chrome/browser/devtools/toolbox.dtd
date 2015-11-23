@@ -99,7 +99,7 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "ആഡ്-ഓൺ ഡീബഗ്ഗിങ് ടൂള്‍ബോക്സ് ക്രോം ബ്രൌസര്‍ സജീവമാക്കുക">
-
+<!ENTITY options.enableChrome.tooltip3  "ഈ ഓപ്ഷന്‍ ഓണ്‍ ചെയ്താല്‍ ബ്രൌസര്‍ കോണ്ടെക്സ്റ്റില്‍ അനവധി തരത്തിലുള്ള ഡവലപ്പര്‍ ഉപകരണങ്ങള്‍ ഉപയോഗിയ്ക്കാന്‍ അനുവദിയ്ക്കുകയും (ടൂള്‍സ് > വെബ്‌ ഡെവലപ്പര്‍ > ബ്രൌസര്‍ ടൂള്‍ബോക്സ് വഴി) ആഡ്-ഓണ്‍ മാനേജറില്‍ നിന്നുള്ള ആഡ്-ഓണുകള്‍ ഡീബഗ്ഗും ചെയ്യാനും സാധിക്കും">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -126,6 +126,8 @@ values from browser.dtd.  -->
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
+<!ENTITY options.enableServiceWorkersHTTP.label     "എച് ടി ടി പി മുഖേന സര്‍വീസ് വര്‍ക്കര്‍സ് എനബിള്‍ ചെയ്യുക (ടൂള്‍ബോക്സ് ഓപ്പണ്‍ ആയിരിക്കുമ്പോള്‍)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "ഈ ഓപ്ഷൻ ഓണാക്കുന്നത്, ടൂൾബോക്സ് തുറന്നിട്ടുള്ള എല്ലാ ടാബുകള്‍ക്കും എച് ടി ടി പി മുഖേന സര്‍വീസ് വര്‍ക്കര്‍സ് എനബിള്‍ ചെയ്യും.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -155,6 +157,8 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
+<!ENTITY options.usedeveditiontheme.label   "ഡവലപ്പര്‍ എ‍ഡിഷന്‍ ബ്രൌസര്‍ തീം ഉപയോഗിയ്ക്കുക">
+<!ENTITY options.usedeveditiontheme.tooltip "ഡവലപ്പര്‍ എ‍ഡിഷന്‍ ബ്രൌസര്‍ തീം ടൊഗിള്‍ ചെയ്യുന്നു.">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -209,7 +213,7 @@ values from browser.dtd.  -->
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "ബ്രാക്കറ്റുകൾ തനിയേ അടയ്ക്കുക">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "അടയ്ക്കാനുള്ള ബ്രാക്കറ്റുകൾ തനിയേ ചേർക്കുക">
 <!ENTITY options.sourceeditor.expandtab.label           "സ്പേസുകൾ ഉപയോഗിച്ച് ഇൻഡന്റ് ചെയ്യുക">
-
+<!ENTITY options.sourceeditor.expandtab.tooltip         "ടാബിനു് പകരം സ്പേസുകൾ ഉപയോഗിക്കുക">
 <!ENTITY options.sourceeditor.tabsize.label             "ടാബ് വലിപ്പം">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "കീ ബന്ധങ്ങൾ">
