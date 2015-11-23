@@ -14,7 +14,7 @@
 
 
 
-
+<!ENTITY firstrun_import_message "&brandShortName; -ലേക്ക് സ്വാഗതം">
 
 
 
@@ -62,9 +62,9 @@
 
 <!ENTITY history_today_section "ഇന്നു്">
 <!ENTITY history_yesterday_section "ഇന്നലെ">
-
-
-
+<!ENTITY history_week_section3 "കഴിഞ്ഞ 7 ദിവസങ്ങള്‍">
+<!ENTITY history_this_month_section "ഈ മാസം">
+<!ENTITY history_older_section3 "6 മാസത്തിലധികം പഴക്കമുള്ളത്">
 
 <!ENTITY go "പോവുക">
 <!ENTITY search "തിരയുക">
