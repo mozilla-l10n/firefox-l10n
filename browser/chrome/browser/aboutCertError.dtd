@@ -13,6 +13,8 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "ಈ ಸಂಪರ್ಕವನ್ನು ನಂಬಲಾಗಿಲ್ಲ">
 <!-- These are going to be used for the updated design in Bug 1207107 -->
 
+<!ENTITY certerror.pagetitle1  "ಅಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
+<!ENTITY certerror.longpagetitle1 "ನಿಮ್ಮ ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
