@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>हमला पृष्ठ प्रोग्राम केँ संस्थापित करबाक लेल कोशिश करैत अछि  जे निज सूचना केँ चोराबैछ, अहाँक कंप्यूटर केँ दोसरक हमला अथवा अपन सिस्टमकेँ क्षतिसँ बचाबैक लेल प्रयोग करू .</p><p>किछु हमला साइट जान बूझकए नुकसान दिअबला साफ्टवेयरकेँ वितरित करैत अछि,  मुदा बहुत लोकनिसभकेँ हुनकर मालिक कए अनुमति अथवा ज्ञान कए क्षति पहुँचाएल जाइछ.</p>">
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "एहि वेब पेज <span id='unwanted_sitename'/> अवांछित सॉफ्टवेयर रखबा लेल सूचित कैल गेल अछि आओर अहाँक सुरक्षा वरीयता क आधार पर अवरोध कए देल गेल अछि.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title "रिपोर्ट कएल वेब धोखा!">

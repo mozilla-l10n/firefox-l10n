@@ -48,6 +48,7 @@
 <!ENTITY trackingProtection.state.enabled      "शुरू">
 <!ENTITY trackingProtection.state.disabled     "बन्न">
 
+<!ENTITY trackingProtection.description1       "आब निजी विंडो पृष्ठ केर ओहि भाग कए ब्लॉक कए सकैत अछि, जे अहाँक ऑनलाइन गतिविधि ट्रैक कए सकैत अछि. ">
 
 <!ENTITY trackingProtection.disable            "ट्रैकिंग सुरक्षा बन्न करू">
 <!ENTITY trackingProtection.enable             "ट्रैकिंग सुरक्षा चालू करू">

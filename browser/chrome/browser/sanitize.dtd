@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.label     "ब्राउजिंग आओर डाउनलोड इतिहास">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "फार्म &amp; खोज इतिहास">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+<!ENTITY itemFormSearchHistory.accesskey   "फ">
 <!ENTITY itemCookies.label                 "कुकीज़">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "कैश">

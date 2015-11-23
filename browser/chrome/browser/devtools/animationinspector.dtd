@@ -9,11 +9,21 @@
      tools. A good criteria is the language in which you'd find the best
      documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (title): This is the label shown in the sidebar tab -->
+
+
+
+<!ENTITY title "चल-छवि">
 <!-- LOCALIZATION NOTE (invalidElement): This is the label shown in the panel
      when an invalid node is currently selected in the inspector. -->
+
+<!ENTITY invalidElement "मोजुदा तत्व खातिर कोनो चल-छवि नहि भेटल.">
 <!-- LOCALIZATION NOTE (selectElement): This is the label shown in the panel
      when an invalid node is currently selected in the inspector, to invite the
      user to select a new node by clicking on the element-picker icon. -->
+
+<!ENTITY selectElement "पन्ना स एकटा तत्व चुनू">
 <!-- LOCALIZATION NOTE (allAnimations): This is the label shown at the bottom of
      the panel, in a toolbar, to let the user know the toolbar applies to all
      animations, not just the ones applying to the current element. -->
+
+<!ENTITY allAnimations "सभटा चल-छवि">

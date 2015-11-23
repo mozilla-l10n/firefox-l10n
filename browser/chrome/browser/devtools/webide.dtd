@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle "फ़ायरफ़ाक्स WebIDE">
+<!ENTITY windowTitle "Firefox WebIDE">
 
 <!ENTITY projectMenu_label "प्रोजेक्ट">
 <!ENTITY projectMenu_accesskey "P">
@@ -56,7 +56,7 @@
 
 
 <!ENTITY projectButton_label "अनुप्रयोग खोलू">
-<!ENTITY runtimeButton_label "कार्यसमय चुनू">
+<!ENTITY runtimeButton_label "रनटाइम चुनू">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
