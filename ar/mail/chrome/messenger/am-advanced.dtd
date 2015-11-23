@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "اجعله المبْدئي">
 <!ENTITY smtpListSetDefault.accesskey "ب">
 
+<!ENTITY serverDetails.label "بيانات الخادوم المختار:">
 <!ENTITY serverDescription.label "الوصف: ">
 <!ENTITY serverName.label "اسم الخادوم: ">
 <!ENTITY serverPort.label "المَنفذ: ">
