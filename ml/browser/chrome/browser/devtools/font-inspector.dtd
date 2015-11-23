@@ -12,3 +12,5 @@
 <!ENTITY remote "വിദൂരം">
 <!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
      placeholder in font inspector preview text box. -->
+
+<!ENTITY previewHint "തിരനോട്ടത്തിനുള്ള ടെക്സ്റ്റ്‌">
