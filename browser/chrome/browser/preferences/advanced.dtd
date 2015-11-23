@@ -74,7 +74,7 @@
 <!ENTITY updateTab.label                 "Թարմացնել">
 
 <!ENTITY updateApp.label                 "&brandShortName;-ի թարմացումներ.">
-<!ENTITY updateAuto1.label               "Թարմացումների ինքնավար տեղակայում (խորհուրդ է տրվում. լավարկում է անվտանգությունը)">
+<!ENTITY updateAuto1.label               "Թարմացումների ինքնավար տեղադրում (խորհուրդ է տրվում. լավարկում է անվտանգությունը)">
 <!ENTITY updateAuto1.accesskey           "Թ">
 <!ENTITY updateCheck.label               "Ստուգել թարմացումները, բայց տեղակայման ընտրությունը թողնել ինձ">
 <!ENTITY updateCheck.accesskey           "Ս">
