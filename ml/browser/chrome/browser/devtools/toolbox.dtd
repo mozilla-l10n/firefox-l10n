@@ -210,9 +210,9 @@ values from browser.dtd.  -->
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "അടയ്ക്കാനുള്ള ബ്രാക്കറ്റുകൾ തനിയേ ചേർക്കുക">
 <!ENTITY options.sourceeditor.expandtab.label           "സ്പേസുകൾ ഉപയോഗിച്ച് ഇൻഡന്റ് ചെയ്യുക">
 
-<!ENTITY options.sourceeditor.tabsize.label             "ടാബ് വലിപ്പം (T)">
+<!ENTITY options.sourceeditor.tabsize.label             "ടാബ് വലിപ്പം">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
-<!ENTITY options.sourceeditor.keybinding.label          "കീ ബന്ധങ്ങൾ (K)">
+<!ENTITY options.sourceeditor.keybinding.label          "കീ ബന്ധങ്ങൾ">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "തനിമട്ട്">
 

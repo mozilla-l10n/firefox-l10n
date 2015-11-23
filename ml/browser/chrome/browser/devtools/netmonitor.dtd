@@ -122,6 +122,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
 
+<!ENTITY netmonitorUI.footer.filterFreetext.label  "യുആര്‍എലുകള്‍ അരിക്കുക">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 
@@ -233,8 +235,12 @@
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
   -  on the context menu that copies the selected request's post data -->
+
+<!ENTITY netmonitorUI.context.copyPostData     "പോസ്റ്റ് ഡാറ്റ പകർത്തുക">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData.accesskey): This is the access key
   -  for the Copy POST Data menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyPostData.accesskey "D">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.

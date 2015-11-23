@@ -95,7 +95,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "താള്‍ വിവരങ്ങള്‍">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "മിറര്‍ റ്റാബ് (M)">
+<!ENTITY mirrorTabCmd.label "മിറര്‍ റ്റാബ്">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -158,13 +158,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "ഈ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "ഈ കണ്ണി പങ്കിടുക (h)">
+<!ENTITY shareLink.label "ഈ കണ്ണി പങ്കിടുക">
 <!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "ഈ ചിത്രം പങ്കിടുക (r)">
+<!ENTITY shareImage.label "ഈ ചിത്രം പങ്കിടുക">
 <!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "തെരഞ്ഞെടുത്തതു് പങ്കിടുക (r)">
+<!ENTITY shareSelect.label "തെരഞ്ഞെടുത്തതു് പങ്കിടുക">
 <!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "ഈ വീഡിയോ പങ്കിടുക (r)">
+<!ENTITY shareVideo.label "ഈ വീഡിയോ പങ്കിടുക">
 <!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "അംഗമാകുക">
 <!ENTITY subscribeToPageMenupopup.label "ഈ താളില്‍ അംഗമാകുക">
@@ -342,9 +342,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY userContextPersonal.accesskey    "P">
 <!ENTITY userContextWork.label            "ജോലി">
 <!ENTITY userContextWork.accesskey        "W">
-<!ENTITY userContextBanking.label         "ബാങ്കിങ്ങ് (B)">
+<!ENTITY userContextBanking.label         "ബാങ്കിങ്ങ്">
 <!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "വ്യാപാരം (S)">
+<!ENTITY userContextShopping.label        "വ്യാപാരം">
 <!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "പുതിയ ജാലകം ">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -505,7 +505,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "തിരയല്‍ സജ്ജീകരണങ്ങള്‍ മാറ്റൂ">
 
-<!ENTITY searchInNewTab.label         "പുതിയ ടാബില്‍ തിരയുക (T)">
+<!ENTITY searchInNewTab.label         "പുതിയ ടാബില്‍ തിരയുക">
 <!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രമാക്കി മാറ്റുക">
 <!ENTITY searchSetAsDefault.accesskey "D">
@@ -768,7 +768,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "സംരക്ഷണം സജ്ജമാക്കുക">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
-<!ENTITY identity.disableMixedContentBlocking.label "ഇപ്പോഴത്തേക്ക് സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കുക (D)">
+<!ENTITY identity.disableMixedContentBlocking.label "ഇപ്പോഴത്തേക്ക് സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കുക">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "കൂടുതല്‍ അറിയുക">
 
@@ -865,16 +865,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "ഈ സെഷനു സുരക്ഷ വേണ്ട ">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "സുരക്ഷ സജ്ജികരിക്കുക (E)">
+<!ENTITY trackingProtection.block2.label "സുരക്ഷ സജ്ജികരിക്കുക">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "നിരീക്ഷണം">
 <!ENTITY trackingContentBlocked.moreinfo "താളില്‍ താങ്കളുടെ ഓണ്‍ലൈന്‍ പ്രവര്‍ത്തനങ്ങള്‍ നിരീക്ഷിയ്ക്കുന്ന ഭാഗങ്ങള്‍ തടഞ്ഞിരിയ്ക്കുന്നു.">
 <!ENTITY trackingContentBlocked.learnMore "കൂടുതല്‍ അറിയുക">
 <!ENTITY trackingContentBlocked.options "ഐച്ഛികങ്ങള്‍">
-<!ENTITY trackingContentBlocked.unblock2.label "ഈ താളില്‍ സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കുക (D)">
+<!ENTITY trackingContentBlocked.unblock2.label "ഈ താളില്‍ സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കുക">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "സുരക്ഷ സജ്ജികരിക്കുക (E)">
+<!ENTITY trackingContentBlocked.block.label "സുരക്ഷ സജ്ജികരിക്കുക">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "പിന്തുടരല്‍ സംരക്ഷണം പ്രവര്‍ത്തനരഹിതമാണു്">
 
@@ -926,9 +926,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY processHang.terminateScript.label        "സ്ക്രിപ്റ്റ് നിര്‍ത്തുക">
 <!ENTITY processHang.terminateScript.accessKey    "S">
-<!ENTITY processHang.debugScript.label            "സ്ക്രിപ്റ്റ് ഡീബഗ്ഗ് ചെയ്യുക (D)">
+<!ENTITY processHang.debugScript.label            "സ്ക്രിപ്റ്റ് ഡീബഗ്ഗ് ചെയ്യുക">
 <!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "പ്ലഗിന്‍ ഇല്ലാതാക്കുക (P)">
+<!ENTITY processHang.terminatePlugin.label        "പ്ലഗിന്‍ ഇല്ലാതാക്കുക">
 <!ENTITY processHang.terminatePlugin.accessKey    "P">
 <!ENTITY processHang.terminateProcess.label       "വെബ് പ്രക്രിയ ഇല്ലാതാക്കുക">
 <!ENTITY processHang.terminateProcess.accessKey   "K">
@@ -937,12 +937,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 <!ENTITY emeNotificationsNotNow.label             "ഇപ്പോള്‍ വേണ്ട">
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "ഇനി ചോദിക്കരുതു് (D)">
+<!ENTITY emeNotificationsDontAskAgain.label       "ഇനി ചോദിക്കരുതു്">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-<!ENTITY saveToPocketCmd.label     "താള്‍ പോക്കറ്റില്‍ സൂക്ഷിക്കുക (k)">
+<!ENTITY saveToPocketCmd.label     "താള്‍ പോക്കറ്റില്‍ സൂക്ഷിക്കുക">
 <!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "കണ്ണി പോക്കറ്റില്‍ സൂക്ഷിക്കുക (o)">
+<!ENTITY saveLinkToPocketCmd.label     "കണ്ണി പോക്കറ്റില്‍ സൂക്ഷിക്കുക">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label      "പോക്കറ്റ് പട്ടിക കാണുക">

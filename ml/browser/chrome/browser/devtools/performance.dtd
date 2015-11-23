@@ -36,12 +36,14 @@
 <!ENTITY performanceUI.importButton "ഇംപോര്‍ട്ട് ചെയ്യുക…">
 <!-- LOCALIZATION NOTE (performanceUI.clearButton): This string is displayed
   -  on a button that removes all the recordings. -->
+
+<!ENTITY performanceUI.clearButton "വൃത്തിയാകുക ">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 
 
-
+<!ENTITY performanceUI.toolbar.memory-calltree "അലോക്കേഷനുകൾ">
 
 
 
@@ -55,7 +57,7 @@
 
 
 
-
+<!ENTITY performanceUI.table.samples                  "മാതൃകകള്‍">
 
 
 
@@ -76,6 +78,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+
+<!ENTITY performanceUI.showPlatformData             "ജക്കോ പ്ലാറ്റ്ഫോം ഡേറ്റാ കാണിയ്ക്കുക">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
