@@ -15,13 +15,14 @@
 <!ENTITY address.accesskey            "و">
 <!ENTITY block.label                  "احظر">
 <!ENTITY block.accesskey              "ظ">
-
-
+<!ENTITY session.label                "اسمح لهذه الجلسة">
+<!ENTITY session.accesskey            "ج">
 <!ENTITY allow.label                  "اسمح">
 <!ENTITY allow.accesskey              "م">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "ألغِ">
+<!ENTITY button.cancel.accesskey      "ل">
+<!ENTITY button.ok.label              "احفظ التغييرات">
+<!ENTITY button.ok.accesskey          "ح">
 
