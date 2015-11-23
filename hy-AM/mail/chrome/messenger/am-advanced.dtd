@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Նշել հինականը">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
+<!ENTITY serverDetails.label "Ընտրված սպասարկիչի մանրամասները.">
 <!ENTITY serverDescription.label "Նկարագրություն. ">
 <!ENTITY serverName.label "Սպասարկիչի անունը.">
 <!ENTITY serverPort.label "Պորտը.">
