@@ -848,10 +848,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "ಹಂಚಲು ಮೈಕ್ರೊಫೋನ್:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "ಟ್ಯಾಬ್‌ನಿಂದ ಆಡಿಯೋವನ್ನು ಹಂಚಲಾಗುತ್ತದೆ.">
 <!ENTITY getUserMedia.allWindowsShared.message "ನಿಮ್ಮ ತೆರೆಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಗೋಚರಿಸುವ ಕಿಟಕಿಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.">
 
-
+<!ENTITY trackingProtection.title "ಜಾಡು ಇರಿಸದಂತೆ ರಕ್ಷಣೆ">
+<!ENTITY trackingProtection.detectedBlocked3 "ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಣೆಯ ಜಾಡನ್ನು ಇರಿಸಿಕೊಳ್ಳಬಹುದಾದ ಪುಟದ ಕೆಲವು ಭಾಗಗಳನ್ನು &brandShortName; ನಿರ್ಬಂಧಿಸುತ್ತಿದೆ.">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):

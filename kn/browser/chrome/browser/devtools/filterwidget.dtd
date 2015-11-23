@@ -14,7 +14,11 @@
 <!ENTITY addNewFilterButton "ಸೇರಿಸು">
 <!-- LOCALIZATION NOTE (newPresetPlaceholder): This string is used as
    - a placeholder in the list of presets which is used to save a new preset -->
+
+<!ENTITY newPresetPlaceholder "ಪೂರ್ವಹೊಂದಿಕೆಯ ಹೆಸರು">
 <!-- LOCALIZATION NOTE (savePresetButton): This string is displayed on a button used to save a new preset -->
 
 <!ENTITY savePresetButton "ಉಳಿಸು">
 <!-- LOCALIZATION NOTE(presetsToggleButton): This string is used in a button which toggles the presets list -->
+
+<!ENTITY presetsToggleButton "ಪೂರ್ವಹೊಂದಿಕೆಗಳು">
