@@ -7,4 +7,6 @@
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.maintitle                 "രജിസ്റ്റര്‍ ചെയ്‌ത സര്‍വ്വിസ് പ്രവര്‍ത്തകര്‍">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutServiceWorkers.warning_not_enabled       "സര്‍വ്വീസ് പ്രവര്‍ത്തകരെ പ്രവര്‍ത്തന സജജമാക്കിയിട്ടില്ല.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "സര്‍വ്വിസ് പ്രവര്‍ത്തകരെയൊന്നും രജിസ്റ്റര്‍ ചെയ്തിട്ടില്ല">

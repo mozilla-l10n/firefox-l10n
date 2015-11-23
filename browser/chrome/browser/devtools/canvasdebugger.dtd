@@ -25,6 +25,8 @@
 <!ENTITY canvasDebuggerUI.emptyNotice2    "അനിമേഷൻ ഫ്രെയിമിന്റെ കോൾ സ്റ്റാക് സൂക്ഷിക്കാനുള്ള ബട്ടൺ">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
+
+<!ENTITY canvasDebuggerUI.waitingNotice   "ഒരു ആനിമേഷന്‍ സെക്കിള്‍ രേഖപ്പെടുത്തുന്നു…">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
   -  on a button that starts a new snapshot. -->
 

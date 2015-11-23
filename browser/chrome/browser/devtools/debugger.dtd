@@ -51,6 +51,8 @@
 <!ENTITY debuggerUI.sources.toggleBreakpoints "എല്ലാ ബ്രെയിക്ക്പോയിന്റുകളും പ്രവര്‍ത്തന സജ്ജമാക്കുക/രഹിതമാക്കുക">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
+
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "പ്രോമിസ് ഡീബഗ്ഗർ ടോഗിൾ ചെയ്യുക">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
@@ -72,7 +74,7 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "എക്സപ്ഷനുകള്‍ ഉപേക്ഷിയ്ക്കുക">
-
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -166,6 +168,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "വര്‍ക്കറുകള്‍">
 <!ENTITY debuggerUI.tabs.sources        "ശ്രോതസ്സുകള്‍">
 <!ENTITY debuggerUI.tabs.traces         "ട്രെയിസുകള്‍">
 <!ENTITY debuggerUI.tabs.callstack      "കോള്‍ സ്റ്റാക്ക്">
@@ -205,11 +209,11 @@
   -  netmonitorUI.context.newTab  -->
 
 <!ENTITY debuggerUI.context.newTab           "പുതിയ ടാബില്‍ തുറക്കുക">
-
+<!ENTITY debuggerUI.context.newTab.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
 
 <!ENTITY debuggerUI.context.copyUrl           "യുആര്‍എല്‍ പകര്‍ത്തുക">
-
-
+<!ENTITY debuggerUI.context.copyUrl.accesskey "C">
+<!ENTITY debuggerUI.context.copyUrl.key "C">
