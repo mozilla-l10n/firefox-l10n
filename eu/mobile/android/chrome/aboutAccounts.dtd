@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.connected.title "Firefoxeko kontuak">
-
+<!ENTITY aboutAccounts.connected.description "Honela zaude konektatuta:">
 <!ENTITY aboutAccounts.syncPreferences.label "Sakatu hemen Syncen ezarpenak egiaztatzeko">
 
 <!ENTITY aboutAccounts.noConnection.title "Internet konexiorik ez">
