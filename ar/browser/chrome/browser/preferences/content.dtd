@@ -7,13 +7,14 @@
 <!ENTITY  blockPopups.label           "امنع النوافذ المنبثقة">
 <!ENTITY  blockPopups.accesskey       "ذ">
 
+<!ENTITY  notificationsPolicy.label            "التنبيهات">
+
+<!ENTITY  notificationsPolicyDesc3.label       "اختر أيّ المواقع يُسمح لها بإرسال تنبيهات إليك">
 
 
-
-
-
-
-
+<!ENTITY  notificationsDoNotDisturb.label      "لا تزعجني">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "ز">
+<!ENTITY  notificationsDoNotDisturbDetails.value "لن تُعرض أيّة تنبيهات حتّى إعادة تشغيل &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "الاستثناءات…">
 <!ENTITY  popupExceptions.accesskey   "ت">
