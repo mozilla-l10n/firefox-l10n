@@ -17,7 +17,7 @@
 
 
 <!ENTITY title                  "बाकस नमूना">
-
-
+<!ENTITY margin.tooltip         "margin">
+<!ENTITY border.tooltip         "border">
 <!ENTITY padding.tooltip        "प्याडिङ">
-
+<!ENTITY content.tooltip        "content">

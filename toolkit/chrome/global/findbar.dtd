@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "सम्पूर्ण हाइलाइट गर्नुहोस्">
 <!ENTITY highlightAll.accesskey "A">
 <!ENTITY highlightAll.tooltiptext "यस घटनाहरुमा फेला पर्ने सम्पूर्ण वाक्यांशहरुमा हाइलाइट गर्नुहोस्">
-
-
+<!ENTITY caseSensitive.label "केस मिलाउनुहोस्">
+<!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "केस संवेदनशीलता सहित खोजी गर्नुहोस्">

@@ -28,7 +28,7 @@ was trying to connect. -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-
+<!ENTITY certerror.returnToPreviousPage.label "पछाडि जानुहोस्">
 <!ENTITY certerror.learnMore "अझै जान्नुहोस्…">
 <!ENTITY certerror.advanced.label "उन्नत">
 
@@ -36,7 +36,10 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "यदि तपाई सामान्यतया यो साइटसँग बिना समस्याहरू जोडिनु हुन्छ भने,
  यो त्रुटिले अरु कसैले यो साइटको रुप धारण गर्ने कोशिश गर्दैछ भन्छ,
  र तपाई अगाडि बढ्न हुँदैन।                                ">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "यो साइटले &brandShortName; निर्दिष्ट गर्न HTTP 
+Strict Transport Security (HSTS) प्रयोग गर्छ। केवल 
+जडान यो सुरक्षित। फलस्वरूप,
+ यो प्रमाणपत्रको लागि अपवाद थप्न सम्भव छैन।">
 <!ENTITY certerror.getMeOutOfHere.label "मलाई यहाँबाट बाहिर निकाल्नुहोस्!">
 
 <!ENTITY certerror.expert.heading "म जोखिमहरू बुझ्दछु">
