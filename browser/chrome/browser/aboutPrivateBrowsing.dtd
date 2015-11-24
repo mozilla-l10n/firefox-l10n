@@ -23,7 +23,7 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie-ներ">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Ժամանակավոր ֆայլեր">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "Պահված">
+<!ENTITY aboutPrivateBrowsing.info.saved       "Պահված է">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Բեռնումներ">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Էջանիշեր">
 
