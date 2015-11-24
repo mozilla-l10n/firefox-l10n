@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!ENTITY  error_loading_file "Ha ocurrido un error cuando se intentaba cargar archivos locales necesarios para ejecutar &brandShortName;">
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
 
@@ -34,7 +34,7 @@
 
 
 
-
+<!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
 
 
 
@@ -204,6 +204,7 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "Esperando pestañas &formatD;">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 
@@ -221,7 +222,7 @@
 
 
 
-
+<!ENTITY pref_restore_quit "No restaurar después de salir de &brandShortName;">
 
 
 
@@ -419,6 +420,8 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; Inicio">
+
 
 
 
@@ -496,9 +499,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
-
+<!ENTITY bookmarkhistory_import_both "Importar marcadores e historial 
+desde Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importando marcadores 
+desde Android">
+<!ENTITY bookmarkhistory_import_history "Importando historial 
+desde Android">
 
 
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -512,7 +518,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 
 
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Actualización disponible para &brandShortName;">
 
 
 

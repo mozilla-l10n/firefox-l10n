@@ -44,7 +44,11 @@
 
 
 
-
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Revisa para estar seguro que tu sistema tiene el Administrador de Seguridad Personal 
+instalado.</li> 
+<li>Esto podría ser ocasionado por una configuración no estándar en el servidor.</li> 
+</ul>">
 
 
 
