@@ -110,6 +110,8 @@ values from browser.dtd.  -->
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableWorkers.label    "വര്‍ക്കര്‍ ഡീബഗ്ഗിങ്ങ് പ്രവര്‍ത്തനക്ഷമമാക്കുക (ഡെവലപ്മെന്റില്‍)">
+
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
