@@ -118,6 +118,14 @@ o‘rnatilgan bo‘lishi kerak.</li>
 vaqtinchalik bo‘lishi va keyinroq urinib ko‘rishingiz mumkin.</li> 
 </ul>">
 
+<!ENTITY sharedLongDesc "<ul> 
+<li>Ushbu sayt vaqtincha ishlamayotgan yoki juda ham band bo‘lishi mumkin. Birozdan so‘ng yana urinib ko‘ring. 
+moments.</li> 
+<li>Agar birorta ham sahifa yuklanmasa, kompyuteringizning internetga ulanishini 
+tekshirib ko‘ring.</li> 
+<li>Agar kompyuteringiz yoki tarmoq fayervol, proksi bilan himoyalangan bo‘lsa,
+&brandShortName; brauzerini internetga kirishidan to‘silmaganligiga ishonch hosil qiling.</li> 
+</ul>">
 
 <!ENTITY malwareBlocked.title "Hujum sayti aniqlandi!">
 <!ENTITY malwareBlocked.longDesc "<p>Hujum qiluvchi saytlar shaxsiy ma’lumotlarigizni o‘g‘irlaydigan, sizning kompyuteringizdan boshqalarga hujum qilishda foydalanish uchun yoki tizimingizni buzadigan dasturlarni o‘rnatishga urinadi.</p> 
@@ -127,7 +135,8 @@ vaqtinchalik bo‘lishi va keyinroq urinib ko‘rishingiz mumkin.</li>
 <!ENTITY unwantedBlocked.longDesc "<p>Noxush dasturiy ta’minot sahifalari yolg‘on bo‘lgan dasturlarni o‘rnatishga urinishi va tizimingizga kutilmagan yo‘llar bilan ta’sir qilishga urinishi mumkin.</p>">
 
 <!ENTITY phishingBlocked.title "Veb qalloblik aniqlandi!">
-
+<!ENTITY phishingBlocked.longDesc "<p>Ushbu sahifaga birorta shaxsiy ma’lumotigizni kiritisangiz, shaxsiy ma’lumotlaringiz o‘g‘rilanishi yoki boshqa qallobliklarga uchrashingiz mumkin.</p> 
+<p>Ushbu turdagi veb qallobliklardan, odatda, fishing hujumida foydalaniladi, yolg‘on veb sayt va e-pochtalardan sizni ishontirish uchun foydalaniladi.</p>">
 
 <!ENTITY cspBlocked.title "Sayt xavfsizlik siyosati tomonidan bloklandi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ushbu sahifani yuklanishini to‘xtatib qo‘ydi, chunki sahifadagi tarkib xavfsizlik siyosati bunga ruxsat bermaydi.</p>">
