@@ -8,20 +8,21 @@
 <!ENTITY doNotTrackInfo.label          "మరింత నేర్చుకోండి">
 
 
+<!ENTITY trackingProtectionLearnMore.label "మరింత తెలుసుకోండి">
+
+
+<!ENTITY trackingProtectionPBMLearnMore.label "మరింత తెలుసుకోండి">
 
 
 
-
-
-
-
+<!ENTITY  history.label                 "చరిత్ర">
 
 <!ENTITY  locationBar.label             "స్థానపు పట్టీ">
 
-
-
-
-
+<!ENTITY  locbar.history.label          "చరిత్ర">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "ఇష్టాంశాలు">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
 
 
 
