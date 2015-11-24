@@ -11,14 +11,15 @@
 <!ENTITY  onboard_start_subtext3 "താങ്കളുടെ മൊബൈല്‍ ബ്രൗസിങ്ങ് അനുഭവത്തെ തികച്ചും സ്വന്തമാക്കി മാറ്റൂ.">
 <!ENTITY  onboard_start_button_account "&brandShortName; - ഇതിലേക്ക് പ്രവേശിക്കുക">
 <!ENTITY  onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
+<!ENTITY firstrun_button_next "അടുത്ത">
 
 
-
+<!ENTITY firstrun_import_title "ഇംപോര്‍ട്ട് ചെയ്യുക">
 <!ENTITY firstrun_import_message "&brandShortName; -ലേക്ക് സ്വാഗതം">
-
-
-
-
+<!ENTITY firstrun_import_subtext "നിങ്ങളുടെ ചരിത്രവും അടയാളകുറിപ്പുകളും വേറേ ബ്രൌസറില്‍ നിന്നും എടുക്കുക.">
+<!ENTITY firstrun_import_action "&brandShortName; -ലേക്ക് മാറ്റുക">
+<!ENTITY firstrun_import_dialog_button "മറ്റൊരിടത്തേക്ക് മാറ്റുക">
+<!ENTITY firstrun_import_progress_title "മറ്റൊരിടത്തേക്കു് മാറ്റുന്നു">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -56,6 +57,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "നേരത്തെതന്നെ അടയാളപ്പെടുത്തിയിട്ടുളളത്">
 <!ENTITY bookmark_removed "അടയാളം നീക്കി">
 <!ENTITY bookmark_updated "അടയാളം പുതുക്കി">
 <!ENTITY bookmark_options "ഐച്ഛികങ്ങള്‍">
@@ -125,7 +127,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "അടയാളം">
 <!ENTITY overlay_share_reading_list_btn_label "വായനാ പട്ടികയിലേക്ക് ചേര്‍ക്കുക">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "നേരത്തെതന്നെ അടയാളപ്പെടുത്തിയത്">
 <!ENTITY overlay_share_reading_list_btn_label_already "നേരത്തെ തന്നെ വായനപ്പട്ടികയിലുണ്ടു്">
 <!ENTITY overlay_share_send_other "മറ്റു് ഉപകരണങ്ങളിലേക്ക് അയയ്ക്കുക">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
