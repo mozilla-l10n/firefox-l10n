@@ -188,11 +188,11 @@
 <!-- Simulator Options -->
 
 
-
+<!ENTITY simulator_name "పేరు">
 
 <!ENTITY simulator_version "వర్షన్">
 
 
 <!ENTITY simulator_device "పరికరం">
-
+<!ENTITY simulator_screenSize "తెర">
 
