@@ -71,26 +71,26 @@
 <!ENTITY overrideSmartCacheSize.label    "ସ୍ୱୟଂଚାଳିତ କ୍ୟାଶେ ପରିଚାଳନାକୁ ନବଲିଖନ କରନ୍ତୁ">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY updateTab.label                 "ଅଦ୍ୟତନ କରନ୍ତୁ">
+<!ENTITY updateTab.label                 "ଅପଡେଟ">
 
-<!ENTITY updateApp.label                 "&brandShortName; ଅଦ୍ୟତନଗୁଡ଼ିକ:">
-<!ENTITY updateAuto1.label               "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ସ୍ଥାପନ କରିଥାଏ (ପରାମର୍ଶିତ: ଉନ୍ନତ ସୁରକ୍ଷା)">
+<!ENTITY updateApp.label                 "&brandShortName; ଅପଡେଟସବୁ:">
+<!ENTITY updateAuto1.label               "ଅପଡେଟସବୁ ଆପେଆପେ ଇନଷ୍ଟଲ ହେବ (ଉପଯୁକ୍ତ ହେବ: ଅଧିକ ନିରାପତ୍ତା)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ, କିନ୍ତୁ ସେଗୁଡ଼ିକୁ ସ୍ଥାପନ କରିବି କି ନାହିଁ ତାହା ମୋତେ ବାଛିବାକୁ ଦିଅନ୍ତୁ">
+<!ENTITY updateCheck.label               "ଅପଡେଟସବୁ ଦେଖାନ୍ତୁ କିନ୍ତୁ ସେସବୁ ଇନଷ୍ଟଲ କରିବି କି ନାହିଁ ତାହା ମୋତେ ବାଛିବାକୁ ଦିଅନ୍ତୁ">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "ଅଦ୍ୟତନଗୁଡ଼ିକୁ କଦାପି ଦେଖନ୍ତୁ ନାହିଁ (ପରାମର୍ଶିତ ନୁହଁ: ସୁରକ୍ଷା ଜନିତ ବିପଦ)">
+<!ENTITY updateManual.label              "ଅପଡେଟସବୁ କଦାପି ଦେଖନ୍ତୁ ନାହିଁ (ଏଭଳି ନ କରିବା ପାଇଁ ପରାମର୍ଶ: ନିରାପତ୍ତା ଜନିତ ବିପଦ)">
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "ଯଦି ଏହା କୌଣସି ଏଡ-ଅନକୁ ନିଷ୍କ୍ରିୟ କରୁଛି ତେବେ ମୋତେ ସୂଚନା ଦିଅନ୍ତୁ">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
-<!ENTITY updateHistory.label             "ଅଦ୍ୟତନ ଇତିହାସ ଦର୍ଶାନ୍ତୁ">
+<!ENTITY updateHistory.label             "ଅପଡେଟ ଇତିହାସ ଦେଖାନ୍ତୁ">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରିବା ପାଇଁ ଏକ ପୃଷ୍ଠଭୂମି ସର୍ଭିସକୁ ବ୍ୟବହାର କରନ୍ତୁ">
+<!ENTITY useService.label                "ଅପଡେଟସବୁ ଇନଷ୍ଟଲ କରିବା ପାଇଁ ଏକ ବ୍ୟାକଗ୍ରାଉଣ୍ଡ ସର୍ଭିସ ବ୍ୟବହାର କରନ୍ତୁ">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଅଦ୍ୟତନ କରନ୍ତୁ:">
+<!ENTITY updateOthers.label              "ଆପେଆପେ ଅପଡେଟ କରନ୍ତୁ:">
 <!ENTITY enableSearchUpdate.label        "ଖୋଜା ଯନ୍ତ୍ର">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
