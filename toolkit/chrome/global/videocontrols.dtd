@@ -17,7 +17,7 @@
 <!ENTITY stats.activityPlaying "Խաղարկել">
 <!ENTITY stats.activityEnded "Ավարտված է">
 <!ENTITY stats.activitySeeking "(փնտում է)">
-<!ENTITY stats.volume "Ձայնը">
+<!ENTITY stats.volume "Ուժգնություն">
 <!ENTITY stats.framesParsed "Կադր վերլուծվել է">
 <!ENTITY stats.framesDecoded "Կադր կոդավորվել է">
 <!ENTITY stats.framesPresented "Կադր ներկայացված է">
