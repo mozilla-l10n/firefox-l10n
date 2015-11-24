@@ -44,6 +44,8 @@
 <!ENTITY downloadOnBiff.accesskey "м">
 <!ENTITY username.label "Ваше име за пријаву">
 <!ENTITY deleteMessagePrefix.label "Када обришем поруку:">
+<!ENTITY modelMoveToTrash.label "Премести у ову фасциклу:">
+<!ENTITY modelMoveToTrash.accesskey "о">
 <!ENTITY modelMarkDeleted.label "Само је означи као обрисану">
 <!ENTITY modelMarkDeleted.accesskey "м">
 <!ENTITY modelDeleteImmediately.label "Одмах је уклони">
@@ -67,17 +69,22 @@
 <!ENTITY alwaysAuthenticate.accesskey "в">
 <!ENTITY newsrcFilePath.label "newsrc датотека:">
 <!ENTITY newsrcPicker.label "Изаберите newsrc датотеку">
+<!ENTITY abbreviate.label "Прикажи имена нових група у фасцикли за поруке као:">
 <!ENTITY abbreviateOn.label "Пуна имена (на пример, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Скраћена имена (на пример, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Напредно…">
 <!ENTITY advancedButton.accesskey "п">
 <!ENTITY serverDefaultCharset2.label "Подразумевано кодирање текста:">
+<!ENTITY localPath.label "Локална фасцикла:">
+<!ENTITY localFolderPicker.label "Изаберите локалну фасциклу">
 <!ENTITY browseFolder.label "Прегледај…">
 <!ENTITY browseFolder.accesskey "П">
 <!ENTITY browseNewsrc.label "Прегледај…">
 <!ENTITY browseNewsrc.accesskey "е">
 
 <!ENTITY accountTitle.label "Подешавања налога">
+<!ENTITY accountSettingsDesc.label "Следеће је посебан налог.  Нема идентитета повезаних са њим.">
 <!ENTITY storeType.label "Врста складишта порука:">
 <!ENTITY storeType.accesskey "т">
+<!ENTITY mboxStore2.label "Датотека по фасцикли (mbox)">
 <!ENTITY maildirStore.label "Датотека по поруци (maildir)">

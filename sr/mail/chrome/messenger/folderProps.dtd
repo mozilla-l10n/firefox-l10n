@@ -5,7 +5,18 @@
 <!ENTITY folderProps.windowtitle.label           "Својства">
 
 <!ENTITY generalInfo.label                       "Општи подаци">
+<!ENTITY folderCharsetFallback2.label            "Одступно кодирање текста:">
+<!ENTITY folderCharsetFallback2.accesskey        "е">
+<!ENTITY folderCharsetEnforce2.label             "Примени кодирање на све поруке у фасцикли (појединачна подешавања текста порука и самопрепознавање ће бити занемарено)">
+<!ENTITY folderCharsetEnforce2.accesskey         "П">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Изгради садржај резиме датотеке">
+<!ENTITY folderRebuildSummaryFile2.label         "Поправи фасциклу">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "р">
+<!ENTITY folderRebuildSummaryFile.explanation    "Понекад се датотека са садржајем фасцикле (.msf) оштети и онда поруке могу изгледати као да су нестале или се обрисане поруке појаве. Поправка фасцикле може оправити ове грешке.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Укључи поруке у овој фасцикли у резултате глобалне претраге">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "г">
 
+<!ENTITY retention.label "Политика задржавања">
 <!ENTITY retentionUseAccount.label  "Користи подешавања мог налога">
 <!ENTITY retentionUseAccount.accesskey "К">
 <!ENTITY daysOld.label "дана старо">
@@ -25,11 +36,16 @@
 <!ENTITY retentionApplyToFlagged.accesskey "е">
 
 <!ENTITY folderSynchronizationTab.label          "Усклађивање">
+<!ENTITY folderCheckForNewMessages2.label         "Приликов добијања нових порука на овом налогу, увек провери ову фасциклу">
 <!ENTITY folderCheckForNewMessages2.accesskey     "ј">
 
+<!ENTITY offlineFolder.check.label               "Изабери ову фасциклу за употребу ван мреже">
+<!ENTITY offlineFolder.check.accesskey           "з">
 <!ENTITY offlineFolder.button.label              "Преузми сада">
 <!ENTITY offlineFolder.button.accesskey          "П">
 
+<!ENTITY selectofflineNewsgroup.check.label      "Изабери ову новинску групу за употребу ван мреже">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "о">
 <!ENTITY offlineNewsgroup.button.label           "Преузми сада">
 <!ENTITY offlineNewsgroup.button.accesskey       "П">
 
@@ -42,6 +58,7 @@
 <!ENTITY privileges.button.label                 "Овлашћења…">
 <!ENTITY privileges.button.accesskey             "О">
 <!ENTITY permissionsDesc.label                   "Имате следећа овлашћења:">
+<!ENTITY folderType.label                        "Врста фасцикле:">
 
 <!ENTITY folderQuotaTab.label                    "Квота">
 <!ENTITY folderQuotaRoot.label                   "Квота највишег нивоа:">

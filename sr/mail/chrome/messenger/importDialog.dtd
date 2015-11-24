@@ -30,6 +30,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "&brandShortName;-ов чаробњак за увоз">
 <!ENTITY importShortDesc.label    "Увезите пошту, именике, подешавања и филтере из других програма">
 
+<!ENTITY importDescription1.label "Овај чаробњак ће извршити увоз е-порука, уноса из именика, пријава на доводе, поставке и/или филтере из других поштанских програма и честих формата именика у &brandShortName;.">
 <!ENTITY importDescription2.label "Након увоза, моћи ћете да им приступите унутар програма &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Изаберите врсту датотеке коју желите да увезете:">

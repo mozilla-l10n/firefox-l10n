@@ -11,6 +11,8 @@
 <!ENTITY helpMenuWin.accesskey "П">
 <!ENTITY helpTroubleshootingInfo.label     "Подаци о решавању проблема">
 <!ENTITY helpTroubleshootingInfo.accesskey "р">
+<!ENTITY helpSafeMode.label     "Поново покрени са искљученим додацима…">
+<!ENTITY helpSafeMode.accesskey "к">
 <!ENTITY releaseCmd2.label "Белешке о издању">
 <!ENTITY releaseCmd2.accesskey "Б">
 <!ENTITY whatsNewCmd.label "Шта је ново">

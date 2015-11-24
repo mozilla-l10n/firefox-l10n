@@ -11,6 +11,7 @@
 <!ENTITY identityDesc.label "Сваки налог има идентитет који представља све податке који други људи виде када читају ваше поруке.">
 <!ENTITY name.label "Ваше име:">
 <!ENTITY name.accesskey "В">
+<!ENTITY email.label "Адреса е-поште:">
 <!ENTITY email.accesskey "Е">
 <!ENTITY replyTo.label "Одговори-на адреса:">
 <!ENTITY replyTo.accesskey "с">

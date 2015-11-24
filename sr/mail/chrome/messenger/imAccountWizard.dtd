@@ -15,12 +15,15 @@
 <!ENTITY accountPasswordTitle.label   "Лозинка">
 <!ENTITY accountPasswordInfo.label    "Унесите вашу лозинку у поље испод.">
 <!ENTITY accountPasswordField.label   "Лозинка:">
+<!ENTITY accountPasswordManager.label "Лозинка која је унета овде ће бити ускладиштена преко Управника лозинки. Оставите ово поље празним ако желите да вам се тражи лозинка сваки пут када се овај налог повеже.">
 
 <!ENTITY accountAdvancedTitle.label   "Напредне опције">
 <!ENTITY accountAdvancedInfo.label    "Слободно прескочите овај корак ако то желите.">
 <!ENTITY accountAdvanced.newMailNotification.label   "Обавештавај ме о новој пошти">
 <!ENTITY accountAliasGroupbox.caption "Локални псеудоним">
 <!ENTITY accountAliasField.label      "Псеудоним:">
+<!ENTITY accountAliasInfo.label       "Ово ће само бити приказано у вашим разговорима док ви причате, удаљени контакти ово неће видети.">
+<!ENTITY accountProxySettings.caption "Подешавања посредника">
 <!ENTITY accountProxySettings.change.label     "Промени…">
 <!ENTITY accountProxySettings.change.accessKey "П">
 
