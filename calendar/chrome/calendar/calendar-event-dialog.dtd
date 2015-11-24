@@ -1,0 +1,67 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+<!-- The following entity is for New Task dialog only -->
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+
+<!-- Keyboard Shortcuts -->
+
+<!-- Menubar -->
+
+
+
+
+
+<!-- Toolbar -->
+
+
+<!-- Main page -->
+
+
+
+
+<!-- Recurrence dialog -->
+
+
+
+
+
+
+
+<!-- LOCALIZATON NOTE
+     Some languages use a preposition when describing dates:
+     Portuguese: 6 de Setembro
+     English: 6 [of] September
+     event.recurrence.pattern.yearly.of.label is "of" in
+     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+-->
+
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "ژانویه" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "فوریه" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "مارس" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "آوریل" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "مه" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "ژوئن" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "جولای" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "ژانویه" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "فوریه" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "مارس" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "آوریل" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "مه" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "ژوئن" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "جولای" >
+
+
+<!-- Attendees dialog -->
+
+<!-- Timezone dialog -->
+
+<!-- Read-Only dialog -->
