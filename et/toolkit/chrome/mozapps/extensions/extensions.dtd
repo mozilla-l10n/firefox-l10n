@@ -176,7 +176,7 @@
 <!ENTITY sort.relevance.label                 "Täpsus">
 <!ENTITY sort.relevance.tooltip               "Sordi täpsuse järgi">
 <!ENTITY sort.price.label                     "Hind">
-<!ENTITY sort.price.tooltip                   "Sordi hinna härgi">
+<!ENTITY sort.price.tooltip                   "Sordi hinna järgi">
 
 <!ENTITY search.filter2.label                 "Otsitakse:">
 <!ENTITY search.filter2.installed.label       "Paigaldatud lisade seast">
