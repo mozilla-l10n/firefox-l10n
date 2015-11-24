@@ -17,6 +17,8 @@
 <!ENTITY performanceUI.stopRecording  "പ്രകടനം റെക്കോര്‍ഡ് ചെയ്യുന്നത് നിര്‍ത്തുക">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+<!ENTITY performanceUI.bufferStatusTooltip "പ്രൊഫൈലര്‍ സാമ്പിളുകളെ ഒരു വൃത്താകൃതിയിലുള്ള ബഫറില്‍ സൂക്ഷിക്കുകയും, സൂക്ഷിക്കുന്നതിനുള്ള പരിധിയില്‍ ബഫര്‍ എത്തുമ്പോള്‍ പുതിയ സാമ്പിളുകള്‍ സൂക്ഷിച്ചു വെച്ചിരിക്കുന്നതിന്റെ തുടക്കത്തിലുള്ള സാമ്പിളുകളെ മാറ്റിയെഴുതുകയും ചെയ്യുന്നു.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
@@ -56,13 +58,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "വാട്ടര്‍ഫാള്‍">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "സൂക്ഷിക്കുന്ന സമയത്ത് ബ്രൗസര്‍ നടത്തുന്ന വിവിധ പ്രയോഗങ്ങളെ ഒരു വെള്ളച്ചാട്ടം പോലെ അനുക്രമമായി പ്രദര്‍ശിപ്പിക്കുന്നു.">
 <!ENTITY performanceUI.toolbar.js-calltree "കോള്‍ ട്രീ">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "റെക്കോര്‍ഡിംഗ് ചെയ്യുമ്പോള്‍ ബ്രൌസര്‍ കൂടുതല്‍ സമയം ചിലവഴിക്കുന്ന ജാവസ്ക്രിപ്റ്റ് ഫങ്ഷനുകള്‍ ഹൈലൈറ്റ് ചെയ്യുന്നു.">
 <!ENTITY performanceUI.toolbar.memory-calltree "അലോക്കേഷനുകൾ">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "റെക്കോര്‍ഡിംഗ് ചെയ്യുമ്പോള്‍ മെമ്മറി എവിടെയാണ് അലോക്കേറ്റ് ചെയ്തത് എന്ന്‍ കാണിക്കുന്നു.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "ജെഎസ് ഫ്ലെയിം ചാര്‍ട്ട്">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "സൂക്ഷിക്കുന്നതിന്റെ സമയത്തുള്ള ജാവാസ്ക്രിപ്റ്റ് കോള്‍ സ്റ്റാക് പ്രദര്‍ശിപ്പിക്കുക.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "അല്ലോക്കേഷന്‍ ഫ്ലെയിം ചാര്‍ട്ട് ">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -82,7 +84,7 @@
 <!ENTITY performanceUI.table.totalAlloc               "ആകെ സാമ്പിള്‍ഡ് അലോക്കേഷന്‍">
 
 <!ENTITY performanceUI.table.selfAlloc                "സെല്‍ഫ് സാമ്പിള്‍ഡ് അലോക്കേഷന്‍സ്">
-
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "ഈ സ്ഥാനത്ത് സാമ്പിള്‍ ചെയ്യപ്പെട്ട ഒബ്ജക്റ്റ് അലോക്കേഷനുകളുടെ എണ്ണം.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 
@@ -95,24 +97,24 @@
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
 <!ENTITY performanceUI.invertTree             "കോള്‍ ട്രീ തിരിയ്ക്കുക">
-
+<!ENTITY performanceUI.invertTree.tooltiptext "കോള്‍ ട്രീ തിരിയ്ക്കുന്നതു്, ഏറ്റവും പുതിയ ഫ്രെയിമുകള്‍ മുതല്‍ പഴയ ഫ്രെയിമുകള്‍ വരെയുള്ള പ്രൊഫൈല്‍ ചെയ്ത കോള്‍ വഴികള്‍ ലഭ്യമാക്കുന്നു.">
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
 <!ENTITY performanceUI.invertFlameGraph             "ഫ്ലെയിം ചാര്‍ട്ട് തിരിയ്ക്കുക">
-
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "ഫ്ലെയിം ചാര്‍ട്ട് തിരിയ്ക്കുന്നതു്, ഏറ്റവും ചെറിയ ഫ്രെയിമുകള്‍ മുതല്‍ പഴയ ഫ്രെയിമുകള്‍ വരെയുള്ള പ്രൊഫൈല്‍ ചെയ്ത കോള്‍ പാഥുകള്‍ ലഭ്യമാക്കുന്നു.">
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 
 <!ENTITY performanceUI.showPlatformData             "ജക്കോ പ്ലാറ്റ്ഫോം ഡേറ്റാ കാണിയ്ക്കുക">
-
+<!ENTITY performanceUI.showPlatformData.tooltiptext "പ്ലാറ്റ്ഫോം ഡാറ്റ കാണിക്കുന്നത് ജാവസ്ക്രിപ്റ്റ് പ്രൊഫൈലര്‍ അറിയിപ്പുകളില്‍ ഗെക്കോ പ്ലാറ്റ്ഫോം ചിഹ്നങ്ങള്‍ ഉള്‍പ്പെടുത്തുന്നു.">
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 
 <!ENTITY performanceUI.flattenTreeRecursion             "ട്രീ റിക്കേര്‍ഷന്‍ ഇല്ലാതാക്കുക">
-
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "ഫംഗ്ഷനുകള്‍ നിരീക്ഷിയ്ക്കുമ്പോള്‍ റിക്കേര്‍ഷന്‍ ഇല്ലാതാക്കുക.">
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
@@ -136,7 +138,7 @@
   -  should be recorded. -->
 
 <!ENTITY performanceUI.enableJITOptimizations             "ജെ ഐ ടി ഒപ്റ്റിമൈസേഷന്‍ റെക്കോര്‍ഡ്‌ ചെയ്യുക">
-
+<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "ഓരോ ജാവാസ്ക്രിപ്റ്റ് ഫ്രെയിമിലും സാമ്പിള്‍ ചെയ്യപ്പെട്ട JIT ഒപ്റ്റിമൈസേഷന്‍ ഡാറ്റ സൂക്ഷിക്കുക">
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
@@ -151,4 +153,6 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
+
+<!ENTITY performanceUI.console.stopCommandStart "ഇത് നല്‍കുന്നതിലൂടെ സൂക്ഷിക്കല്‍ നിര്‍ത്തുക - ">
 <!ENTITY performanceUI.console.stopCommandEnd   "കണ്‍സോളിനുള്ളിലേക്ക്.">
