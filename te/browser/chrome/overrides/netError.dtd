@@ -161,7 +161,7 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.title "ఈ దోషాన్ని నివేదించండి">
 
-
+<!ENTITY errorReporting.automatic "ఇకపై దోషాలను ఆటోమెటిగ్గా నివేదించు">
 <!ENTITY errorReporting.learnMore "మరింత తెలుసుకోండి…">
 <!ENTITY errorReporting.sending "నివేదికను పంపిస్తున్నాం">
 <!ENTITY errorReporting.sent "నివేదిక పంపబడింది">
@@ -171,12 +171,16 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "రిమోట్ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ఈ సమస్య గురించి వారికి తెలుపుటకు దయచేసి వెబ్‌సైట్ స్వంతదారులను సంప్రదించండి.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "సురక్షితంగా అనుసంధానం కాలేకున్నాము">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "ఉన్నత సమాచారం: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "మరింత తెలుసుకోండి…">
 
+<!ENTITY weakCryptoUsed.title "మీ అనుసంధానం సురక్షితం కాదు">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
+<!ENTITY weakCryptoUsed.longDesc "ఉన్నత సమాచారం: ssl_error_no_cypher_overlap">
 <!ENTITY weakCryptoUsed.learnMore "మరింత తెలుసుకోండి…">
 <!ENTITY weakCryptoAdvanced.title "ఉన్నతం">
 
