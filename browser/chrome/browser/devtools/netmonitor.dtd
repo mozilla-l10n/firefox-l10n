@@ -213,7 +213,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 
-<!ENTITY netmonitorUI.security.warning.cipher     "എന്‍ക്രിപ്ഷനുള്ള സിഫര്‍ കാലഹരണപ്പെട്ടതും സുരക്ഷിതമല്ലാത്തതും ആണ്.">
+<!ENTITY netmonitorUI.security.warning.cipher     "എന്‍ക്രിപ്ഷനുള്ള സൈഫര്‍ ഒഴിവാക്കപ്പെട്ടതും സുരക്ഷിതമല്ലാത്തതും ആണ്.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
 

@@ -10,11 +10,11 @@
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 
+<!ENTITY checkForUpdates                                     "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക…">
 
 
 
-
-
+<!ENTITY managePlugins                                       "പ്ലഗിനുകള്‍ കൈകാര്യം ചെയ്യുക…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
@@ -23,13 +23,14 @@
 
 
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.submitting                                   "അറിയിപ്പ് അയയ്ക്കുന്നു…">
 
 
+<!ENTITY report.failed                                       "സമര്‍പ്പിയ്ക്കല്‍ പരാജയപ്പെട്ടു.">
+
+<!ENTITY report.comment                                      "ഒരു അഭിപ്രായം ചേര്‍ക്കുക (അഭിപ്രായങ്ങള്‍ എല്ലാവര്‍ക്കുവാന്‍ കാണുവാന്‍ സാധിക്കുന്നു)">
 
 
-
-
-
-
+<!ENTITY plugin.file                                         "ഫയല്‍">
 
 
