@@ -56,7 +56,7 @@
 <!ENTITY bottomLinks.privacy        "గోప్యతా విధానం">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "నవీకరణల కొరకు పరిశీలించుచున్నది…">
+<!ENTITY update.checkingForUpdates  "నవీకరణల కొరకు చూస్తున్నాం…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; తాజాగా ఉంది">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -87,7 +87,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 
 <!ENTITY update.unsupported.start    "ఈ వ్యవస్థపై మీరు ఇంకేమీ తాజాకరణలు చెయ్యలేరు. ">
-<!ENTITY update.unsupported.linkText "మరింత నేర్చుకోండి">
+<!ENTITY update.unsupported.linkText "మరింత తెలుసుకోండి">
 <!ENTITY update.unsupported.end      "మరింత తెలుసుకోండి">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this

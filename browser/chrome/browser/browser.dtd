@@ -61,7 +61,7 @@ can reach it easily. -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "స్థానాన్ని తెరువు...">
-<!ENTITY openFileCmd.label "ఫైల్  తెరువు...">
+<!ENTITY openFileCmd.label "ఫైలును తెరువు…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "పేజీ అమరిక...">
@@ -144,7 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "విండో మూయి">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "ఇష్టాంశాలు (B)">
+<!ENTITY bookmarksMenu.label "ఇష్టాంశాలు">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ఈ పేజీని ఇష్టాంశముచేయి">
 <!ENTITY editThisBookmarkCmd.label "ఈఇష్టాంశమును సరిచేయి">
@@ -154,9 +154,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "మరిన్ని భాగస్వామ్య పరికరాలు కనుగొను...">
-<!ENTITY sharePageCmd.label "ఈ పేజీని పంచుకోండి (S)">
+<!ENTITY sharePageCmd.label "ఈ పేజీని పంచుకోండి">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "S">
+<!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "ఈ లంకెను పంచుకోండి">
 <!ENTITY shareLink.accesskey "h">
@@ -189,7 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "ముద్రించు">
 <!ENTITY printButton.tooltip          "ఈ పేజీని ముద్రించు">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "సేట్ సమాచారం చూడండి">
+<!ENTITY urlbar.viewSiteInfo.label                      "సైటు సమాచారం చూడండి">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
@@ -242,13 +242,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "చరిత్ర">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "సాధనములు">
+<!ENTITY toolsMenu.label              "పనిముట్లు">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
-<!ENTITY keywordfield.label           "ఈ శోధనకు ఒక కీపదము కలుపుము...">
+<!ENTITY keywordfield.label           "ఈ శోధనకు కీపదాన్ని చేర్చండి…">
 <!ENTITY keywordfield.accesskey       "K">
 
-<!ENTITY downloads.label              "దింపుకోళ్ళు (D)">
+<!ENTITY downloads.label              "దింపుకోళ్ళు">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -274,7 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "రిమోట్ వెబ్ కన్సోల్">
 
-<!ENTITY browserConsoleCmd.label      "విహారిణి కన్సోల్ (B)">
+<!ENTITY browserConsoleCmd.label      "విహారిణి కన్సోల్">
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "B">
 
@@ -285,7 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-<!ENTITY eyedropper.label   "ఐడ్రాపర్ (y)">
+<!ENTITY eyedropper.label   "ఐడ్రాపర్">
 <!ENTITY eyedropper.accesskey "y">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -305,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY browserToolboxMenu.label     "విహారిణి పనిముట్లపెట్టె (e)">
+<!ENTITY browserToolboxMenu.label     "విహారిణి పనిముట్లపెట్టె">
 <!ENTITY browserToolboxMenu.accesskey "e">
 <!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
@@ -353,7 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "కొత్త Non-e10s విండో">
 
-<!ENTITY editMenu.label         "సవరణ (E)"> 
+<!ENTITY editMenu.label         "సవరణ"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "వెనుదెమ్ము (U)">  
 <!ENTITY undoCmd.key            "Z">  
