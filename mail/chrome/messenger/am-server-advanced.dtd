@@ -8,6 +8,7 @@
 <!ENTITY serverDirectory.accesskey "р">
 <!ENTITY usingSubscription.label "Прикажи само претплаћене фасцикле">
 <!ENTITY usingSubscription.accesskey "к">
+<!ENTITY dualUseFolders.label "Сервер подржава фасцикле које садрже подфасцикле и поруке">
 <!ENTITY dualUseFolders.accesskey "ф">
 <!ENTITY useIdle.label "Користи наредбу IDLE уколико је сервер подржава">
 <!ENTITY useIdle.accesskey "I">
@@ -23,6 +24,7 @@
 <!ENTITY otherUsersNamespace.accesskey "Д">
 <!ENTITY overrideNamespaces.label "Дозволи серверу да премости ове именске просторе">
 <!ENTITY overrideNamespaces.accesskey "о">
+<!ENTITY pop3Desc.label "Приликом преузимања поп поште овог сервера, смести нову пошту у следећу фасциклу:" >
 <!ENTITY accountDirectory.label "Долазно сандуче налога овог сервера">
 <!ENTITY accountDirectory.accesskey "з">
 <!ENTITY deferToServer.label "Долазно сандуче другог налога">

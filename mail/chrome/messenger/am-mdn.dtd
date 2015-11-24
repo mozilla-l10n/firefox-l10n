@@ -15,6 +15,7 @@
 <!ENTITY leaveIt.label                "Остави је у мом долазном сандучету">
 <!ENTITY leaveIt.accesskey            "и">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label             "Помери је у фасциклу &quot;Послато&quot;">
 <!ENTITY moveToSent.accesskey         "м">
 <!ENTITY requestMDN.label             "Када добијем захтев за слање потврде о пријему:">
 <!ENTITY returnSome.label             "Дозволи слање потврде о пријему за неке поруке">
