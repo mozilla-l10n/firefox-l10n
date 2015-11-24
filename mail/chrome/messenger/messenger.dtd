@@ -190,8 +190,8 @@
 <!ENTITY sortBySubjectCmd.accesskey                    "T">
 <!ENTITY sortByFromCmd.label                           "Saatja">
 <!ENTITY sortByFromCmd.accesskey                       "S">
-<!ENTITY sortByRecipientCmd.label                      "Adressaat">
-<!ENTITY sortByRecipientCmd.accesskey                  "d">
+<!ENTITY sortByRecipientCmd.label                      "Saaja">
+<!ENTITY sortByRecipientCmd.accesskey                  "j">
 <!ENTITY sortByCorrespondentCmd.label                  "Kirjavahetajad">
 <!ENTITY sortByCorrespondentCmd.accesskey              "r">
 <!ENTITY sortByUnreadCmd.label                         "Loetus">

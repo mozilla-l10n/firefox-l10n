@@ -8,7 +8,7 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "Ü">
 
 <!ENTITY lightning.toolbar.sync.label "Sünkroniseeri">
-<!ENTITY lightning.toolbar.sync.tooltip "Laadi kalendrid uuesti ja sünkrooniseeri muudatused">
+<!ENTITY lightning.toolbar.sync.tooltip "Laadi kalendrid uuesti ja sünkroniseeri muudatused">
 <!ENTITY lightning.toolbar.delete.label "Kustuta">
 <!ENTITY lightning.toolbar.delete.tooltip "Kustuta valitud sündmused või ülesanded">
 <!ENTITY lightning.toolbar.edit.label "Muuda">

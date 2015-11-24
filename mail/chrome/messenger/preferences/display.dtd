@@ -54,8 +54,8 @@
 
 <!ENTITY autoMarkAsRead.label              "Kirjad märgitakse automaatselt loetuks">
 <!ENTITY autoMarkAsRead.accesskey          "K">
-<!ENTITY markAsReadNoDelay.label           "kohe peale kuvamist">
-<!ENTITY markAsReadNoDelay.accesskey      "o">
+<!ENTITY markAsReadNoDelay.label           "kohe pärast kuvamist">
+<!ENTITY markAsReadNoDelay.accesskey       "o">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
