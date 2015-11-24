@@ -240,9 +240,9 @@
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 
 
-
+<!ENTITY disabledUnsigned.learnMore "ఆన్‌లైన్లో మిమ్మల్ని సురక్షితంగా ఉంచడానికి మేం చేసే కృషి గురించి తెలుసుకోండి.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
 
-
+<!ENTITY disabledUnsigned.devInfo.end ".">
