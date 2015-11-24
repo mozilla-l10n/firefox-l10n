@@ -13,7 +13,7 @@
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Escolher…">
 <!ENTITY  notificationsDoNotDisturb.label      "Não me perturbar">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "ã">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "N">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Nenhuma notificação será apresentada até reiniciar o &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Exceções…">

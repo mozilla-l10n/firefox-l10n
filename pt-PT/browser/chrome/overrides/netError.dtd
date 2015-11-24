@@ -133,7 +133,7 @@ proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web
 <p>Os detentores de websites que acreditam que os seus sites foram reportados erradamente podem <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
 
 <!ENTITY unwantedBlocked.title "Suspeita de site de software indesejado!">
-<!ENTITY unwantedBlocked.longDesc "<p>As páginas de software não solicitado tentam instalar software que pode ser decetivo e afetar o seu sistema de formas inesperadas. </p>">
+<!ENTITY unwantedBlocked.longDesc "<p>As páginas de software não solicitado tentam instalar software que pode ser decetivo e afetar o seu sistema de formas inesperadas.</p>">
 
 <!ENTITY phishingBlocked.title "Suspeita de wngodo!">
 <!ENTITY phishingBlocked.longDesc "<p>A introdução de qualquer informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo de fraude.</p> 
