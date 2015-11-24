@@ -10,11 +10,15 @@
 
 <!ENTITY aboutTelemetry.uploadDisabled "  L'enviament de dades del FHR està <span>inhabilitat</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  L'enregistrament ampliat de la telemesura està <span>habilitat</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  L'enregistrament ampliat de la telemesura està <span>inhabilitat</span>.">
 
 <!ENTITY aboutTelemetry.pingDataSource "Fes ping a l'origen de les dades">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "Dades de ping actuals">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "Dades de ping arxivades">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Mostra dades de la subsessió">
 

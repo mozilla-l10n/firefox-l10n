@@ -16,8 +16,8 @@
 <!ENTITY tapToPlayPlugin                                     "Toqueu aquí per activar el connector.">
 <!ENTITY clickToActivatePlugin                               "Activa el connector.">
 <!ENTITY checkForUpdates                                     "Cerca actualitzacions…">
-<!ENTITY disabledPlugin                                      "S'ha inhabilitat el connector.">
-<!ENTITY blockedPlugin.label                                 "S'ha blocat aquest connector per la vostra protecció.">
+<!ENTITY disabledPlugin                                      "S'ha inhabilitat aquest connector.">
+<!ENTITY blockedPlugin.label                                 "S'ha blocat aquest connector per a la vostra protecció.">
 <!ENTITY hidePluginBtn.label                                 "Amaga el connector">
 <!ENTITY managePlugins                                       "Gestiona els connectors…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
@@ -25,11 +25,11 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "Torneu a carregar la pàgina">
+<!ENTITY reloadPlugin.middle                                 "Actualitzeu la pàgina">
 <!ENTITY reloadPlugin.post                                   " per tornar-ho a provar.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Envia un informe de fallada">
-<!ENTITY report.submitting                                   "S'està enviant un informe…">
+<!ENTITY report.submitting                                   "S'està enviant l'informe…">
 <!ENTITY report.submitted                                    "S'ha enviat l'informe de fallada.">
 <!ENTITY report.disabled                                     "S'han inhabilitat els informes de fallada.">
 <!ENTITY report.failed                                       "La tramesa ha fallat.">
