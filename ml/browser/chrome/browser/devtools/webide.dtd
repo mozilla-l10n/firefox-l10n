@@ -50,7 +50,7 @@
 <!ENTITY viewMenu_toggleEditor_label "എഡിറ്റര്‍ ടൊഗിള്‍ ചെയ്യുക">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "വലുതാക്കുക">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "ചെറുതാക്കുക">
 <!ENTITY viewMenu_zoomout_accesskey "O">
 <!ENTITY viewMenu_resetzoom_label "സൂം പുനഃക്രമീകരിക്കുക">
