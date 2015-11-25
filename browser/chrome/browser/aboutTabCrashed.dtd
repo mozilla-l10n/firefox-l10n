@@ -5,8 +5,8 @@
 <!ENTITY tabCrashed.header "आधी वाईट बातमी: ही टॅब क्रॅश झाली आहे">
 <!ENTITY tabCrashed.message "खुषखबर: आपण फक्त हा टॅब बंद करून तो पुनर्संचयित करू शकता किंवा सर्व क्रॅश झालेले टॅब पुनर्संचयित करू शकता.">
 <!ENTITY tabCrashed.sendReport "अधिक वाईट घडण्यापेक्षा, क्रॅश अहवाल सादर करा">
-
-
+<!ENTITY tabCrashed.includeURL "मी होतो त्या पानाचा पत्ता समाविष्ट करा">
+<!ENTITY tabCrashed.commentPlaceholder "टिपण्णी समाविष्ट करा (टिपण्णी सर्वाना दिसण्याजोगी असते)">
 
 
 

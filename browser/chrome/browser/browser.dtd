@@ -332,16 +332,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "फाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "नविन कंटेनर टॅब">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "वैयक्तिक">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "कार्य">
+<!ENTITY userContextWork.accesskey        "W">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY userContextShopping.label        "खरेदी">
+<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "नविन पटल">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
