@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Chan eil thu a’ dèanamh brabhsadh prìobhaideach">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "Tha &brandShortName; a’ bacadh pìosan dhen duilleag seo a tha a’ tracadh na bhrabhsas tu ma dh’fhaoidte.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Cha chum sinn gin dhen eachdraidh ’nar cuimhne ach thèid faidhlichean a luchdaicheas tu a-nuas is comharran-lìn ùra a shàbhaladh air an uidheam agad fhathast.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
