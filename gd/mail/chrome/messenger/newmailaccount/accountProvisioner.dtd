@@ -6,7 +6,7 @@
 <!ENTITY header2.label "A bheil thu ag iarraidh seòladh puist-dhealain ùr?">
 <!ENTITY other.languages "Chan fhaic thu an-seo ach na solaraichean san sgìre agad.  Briog an-seo gus a h-uile solaraiche fhaicinn.">
 <!ENTITY error.line1 "Duilich, cha b' urrainn dhuinn moladh a lorg airson puist-dhealain dhut.">
-
+<!ENTITY error.line2 "’S urrainn dhut far-ainmean no briathran eile a chur a-steach gus roghainn eile de phost-d fhaicinn.">
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download

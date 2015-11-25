@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Suidhich roghainn bhunaiteach">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
+<!ENTITY serverDetails.label "Mion-fhiosrachadh mun fhrithealaiche a thagh thu:">
 <!ENTITY serverDescription.label "Tuairisgeul: ">
 <!ENTITY serverName.label "Ainm an fhrithealaiche: ">
 <!ENTITY serverPort.label "Port: ">
