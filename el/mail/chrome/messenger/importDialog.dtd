@@ -15,8 +15,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "ι">
 <!ENTITY importMail.label         "Αλληλογραφία">
 <!ENTITY importMail.accesskey     "λ">
-<!ENTITY importFeeds.label        "Feed Subscriptions">
-<!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Ευρετήρια διευθύνσεων">
 <!ENTITY importAddressbook.accesskey "ρ">
 <!ENTITY importSettings.label     "Ρυθμίσεις">
@@ -34,10 +32,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Όταν γίνει η εισαγωγή θα είναι δυνατή η πρόσβαση σε αυτά μέσα από την Αλληλογραφία ή και το Ευρετήριο Διευθύνσεων του &brandShortName; ">
 
 <!ENTITY selectDescription.label  "Επιλέξτε το πρόγραμμα από το οποίο επιθυμείτε να γίνει η εισαγωγή:">
-<!ENTITY selectDescriptionB.label "Please select an existing account or create a new account:">
 <!ENTITY selectDescription.accesskey "ξ">
-<!ENTITY acctName.label           "Name:">
-<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label               "&lt; Πίσω">
 <!ENTITY forward.label            "Επόμενο &gt;">

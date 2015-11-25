@@ -11,8 +11,6 @@
 <!ENTITY newMenu.label "Νέο">
 <!ENTITY newMenu.accesskey "Ν">
 <!ENTITY newMessage.label "Μήνυμα">
-<!ENTITY newMessage.key "M">
-<!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "ν">
 <!ENTITY newContact.label "Επαφή ευρετηρίου…">
 <!ENTITY newContact.accesskey "φ">
@@ -20,18 +18,12 @@
 <!ENTITY attachMenu.accesskey "ψ">
 <!ENTITY attachFileCmd.label "Αρχείο(α)...">
 <!ENTITY attachFileCmd.accesskey "ρ">
-<!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label "Filelink">
-<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Ιστοσελίδα...">
 <!ENTITY attachPageCmd.accesskey "σ">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Προσωπική κάρτα (vCard)">
 <!ENTITY attachVCardCmd.accesskey "ο">
-<!ENTITY remindLater.label "Remind Me Later">
-<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Κλείσιμο">
-<!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "λ">
 <!ENTITY saveCmd.label "Αποθήκευση">
 <!ENTITY saveCmd.key "s">
@@ -45,63 +37,42 @@
 <!ENTITY saveAsTemplateCmd.label "Πρότυπο">
 <!ENTITY saveAsTemplateCmd.accesskey "τ">
 <!ENTITY sendNowCmd.label "Άμεση αποστολή">
-<!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "π">
 <!ENTITY sendLaterCmd.label "Αναβολή αποστολής">
-<!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "β">
 <!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας...">
 <!ENTITY printSetupCmd.accesskey "φ">
-<!ENTITY printPreviewCmd.label "Print Preview">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Εκτύπωση...">
-<!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "π">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Επεξεργασία">
 <!ENTITY editMenu.accesskey "ξ">
 <!ENTITY undoCmd.label "Αναίρεση">
-<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "ν">
 <!ENTITY redoCmd.label "Αναίρεση">
-<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ρ">
 <!ENTITY cutCmd.label "Αποκοπή">
-<!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "π">
 <!ENTITY copyCmd.label "Αντιγραφή">
-<!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "γ">
 <!ENTITY pasteCmd.label "Επικόλληση">
-<!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "π">
-<!ENTITY pasteNoFormattingCmd.key "V">
-<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "δ">
 <!ENTITY deleteCmd.label "Διαγραφή">
 <!ENTITY deleteCmd.accesskey "Δ">
 <!ENTITY editRewrapCmd.label "Aναδίπλωση">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Μετονομασία συνημμένου…">
 <!ENTITY renameAttachmentCmd.accesskey "τ">
 <!ENTITY selectAllCmd.label "Επιλογή όλων">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "λ">
-<!ENTITY findBarCmd.label "Find…">
-<!ENTITY findBarCmd.accesskey "F">
-<!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Εύρεση και αντικατάσταση...">
 <!ENTITY findReplaceCmd.accesskey "ρ">
 <!ENTITY findReplaceCmd.key "F">
 <!ENTITY findAgainCmd.label "Εύρεση ξανά">
 <!ENTITY findAgainCmd.accesskey "ρ">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Εύρεση Προηγουμένου">
 <!ENTITY findPrevCmd.accesskey "ν">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Προβολή">
@@ -130,8 +101,6 @@
 <!ENTITY optionsMenu.label "Επιλογές">
 <!ENTITY optionsMenu.accesskey "π">
 <!ENTITY checkSpellingCmd2.label "Ορθογραφικός έλεγχος…">
-<!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "θ">
 <!ENTITY enableInlineSpellChecker.label "Αυτόματος ορθογραφικός έλεγχος">
 <!ENTITY enableInlineSpellChecker.accesskey "Α">
@@ -140,14 +109,11 @@
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Επισύναψη προσωπικής κάρτας (vCard)">
-<!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Βεβαίωση ανάγνωσης">
 <!ENTITY returnReceiptMenu.accesskey "Β">
 <!ENTITY dsnMenu.label "Ειδοποίηση παράδοσης">
 <!ENTITY dsnMenu.accesskey "δ">
-<!ENTITY deliveryFormatMenu.label "Delivery Format">
-<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Αυτόματος εντοπισμός">
 <!ENTITY autoFormatCmd.accesskey "τ">
 <!ENTITY plainTextFormatCmd.label "Μόνο απλό κείμενο">
@@ -158,8 +124,6 @@
 <!ENTITY bothFormatCmd.accesskey "κ">
 <!ENTITY priorityMenu.label "Προτεραιότητα">
 <!ENTITY priorityMenu.accesskey "ρ">
-<!ENTITY priorityButton.title "Priority">
-<!ENTITY priorityButton.tooltiptext "Change the message priority">
 <!ENTITY priorityButton.label "Προτεραιότητα:">
 <!ENTITY lowestPriorityCmd.label "Πολύ χαμηλή">
 <!ENTITY lowestPriorityCmd.accesskey "λ">
@@ -180,10 +144,8 @@
 <!ENTITY tasksMenu.accesskey "γ">
 <!ENTITY messengerCmd.label "Αλληλογραφία &amp; Συζητήσεις">
 <!ENTITY messengerCmd.accesskey "γ">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Ευρετήριο διευθύνσεων">
 <!ENTITY addressBookCmd.accesskey "ρ">
-<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Ρυθμίσεις Λογαριασμού">
 <!ENTITY accountManagerCmd2.accesskey "θ">
 <!ENTITY accountManagerCmdUnix2.accesskey "μ">
@@ -193,7 +155,6 @@
 <!ENTITY preferencesCmdUnix.accesskey "ρ">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Ελαχιστοποίηση">
 <!ENTITY bringAllToFront.label "Μεταφορά όλων μπροστά">
 <!ENTITY zoomWindow.label "Μεγέθυνση">
@@ -206,7 +167,6 @@
 <!ENTITY attachButton.label "Επισύναψη">
 <!ENTITY spellingButton.label "Ορθογραφία">
 <!ENTITY saveButton.label "Αποθήκευση">
-<!ENTITY printButton.label "Print">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Άμεση αποστολή μηνύματος">
@@ -214,17 +174,14 @@
 <!ENTITY quoteButton.tooltip "Παράθεση προηγούμενου μηνύματος">
 <!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από το Ευρετήριο Διευθύνσεων">
 <!ENTITY attachButton.tooltip "Εισαγωγή ενός συνημμένου">
-<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 <!ENTITY saveButton.tooltip "Αποθήκευση του μηνύματος">
 <!ENTITY cutButton.tooltip              "Αποκοπή">
 <!ENTITY copyButton.tooltip             "Αντιγραφή">
 <!ENTITY pasteButton.tooltip            "Επικόλληση">
-<!ENTITY printButton.tooltip "Print this message">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Από:">
 <!ENTITY fromAddr.accesskey "π">
 <!ENTITY toAddr.label "Προς:">
@@ -241,22 +198,6 @@
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Εισαγωγή φατσούλας">
-<!ENTITY smiley1Cmd.label "Smile">
-<!ENTITY smiley2Cmd.label "Frown">
-<!ENTITY smiley3Cmd.label "Wink">
-<!ENTITY smiley4Cmd.label "Tongue-out">
-<!ENTITY smiley5Cmd.label "Laughing">
-<!ENTITY smiley6Cmd.label "Embarrassed">
-<!ENTITY smiley7Cmd.label "Undecided">
-<!ENTITY smiley8Cmd.label "Surprise">
-<!ENTITY smiley9Cmd.label "Kiss">
-<!ENTITY smiley10Cmd.label "Yell">
-<!ENTITY smiley11Cmd.label "Cool">
-<!ENTITY smiley12Cmd.label "Money-Mouth">
-<!ENTITY smiley13Cmd.label "Foot-in-Mouth">
-<!ENTITY smiley14Cmd.label "Innocent">
-<!ENTITY smiley15Cmd.label "Cry">
-<!ENTITY smiley16Cmd.label "Lips-are-Sealed">
 
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Δεν υπάρχουν προτάσεις">
@@ -287,14 +228,6 @@
 <!ENTITY selectAll.accesskey "λ">
 <!ENTITY attachFile.label "Επισύναψη αρχείου...">
 <!ENTITY attachFile.accesskey "σ">
-<!ENTITY attachCloud.label "Filelink…">
-<!ENTITY attachCloud.accesskey "i">
-<!ENTITY convertCloud.label "Convert to…">
-<!ENTITY convertCloud.accesskey "C">
-<!ENTITY cancelUpload.label "Cancel Upload">
-<!ENTITY cancelUpload.accesskey "n">
-<!ENTITY convertRegularAttachment.label "Regular Attachment">
-<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Επισύναψη ιστοσελίδας...">
 <!ENTITY attachPage.accesskey "ι">
 

@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Γενικά">
-<!ENTITY dataChoicesTab.label    "Data Choices">
 <!ENTITY itemUpdate.label        "Ενημέρωση">
 <!ENTITY itemNetworking.label    "Δίκτυο &amp; Αποθηκευτικός χώρος">
 <!ENTITY itemCertificates.label  "Πιστοποιητικά">
@@ -11,18 +10,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Ενεργοποίηση γενικής αναζήτησης και καταλογοποίησης">
 <!ENTITY enableGlodaSearch.accesskey   "γ">
-<!ENTITY allowHWAccel.label            "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey        "h">
-<!ENTITY storeType.label               "Message Store Type for new accounts:">
-<!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore2.label              "File per folder (mbox)">
-<!ENTITY maildirStore.label            "File per message (maildir)">
 
-<!ENTITY scrolling.label               "Scrolling">
-<!ENTITY useAutoScroll.label           "Use autoscrolling">
-<!ENTITY useAutoScroll.accesskey       "U">
-<!ENTITY useSmoothScrolling.label      "Use smooth scrolling">
-<!ENTITY useSmoothScrolling.accesskey  "m">
 
 <!ENTITY systemIntegration.label       "Ενσωμάτωση συστήματος">
 <!ENTITY alwaysCheckDefault.label      "Πάντα έλεγχος στην εκκίνηση για το αν ο &brandShortName; είναι η προεπιλεγμένη εφαρμογή αλληλογραφίας">
@@ -39,33 +27,10 @@
 <!ENTITY showReturnReceipts.accesskey  "Β">
 
 <!-- Data Choices -->
-<!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your e-mail client with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY enableTelemetry.label           "Enable Telemetry">
-<!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "Learn More">
 
-<!ENTITY crashReporterSection.label      "Crash Reporter">
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your e-mail client more stable and secure">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Learn More">
 
 <!-- Update -->
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
-<!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-<!ENTITY updateHistory.label             "Show Update History">
-<!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "Use a background service to install updates">
-<!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Ρυθμίσεις…">
@@ -80,7 +45,6 @@
 <!ENTITY Diskspace                       "Αποθηκευτικός χώρος">
 <!ENTITY offlineCompactFolders.label     "Συμπίεση φακέλων πάνω από">
 <!ENTITY offlineCompactFolders.accesskey "π">
-<!ENTITY offlineCompactFoldersMB.label   "MB in total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -100,8 +64,6 @@
 <!ENTITY certs.auto.accesskey            "λ">
 <!ENTITY certs.ask                       "Να γίνεται ερώτηση κάθε φορά">
 <!ENTITY certs.ask.accesskey             "γ">
-<!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
-<!ENTITY enableOCSP.accesskey            "Q">
 
 <!ENTITY viewCertificates.label         "Προβολή πιστοποιητικών">
 <!ENTITY viewCertificates.accesskey     "σ">

@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Ιδιότητες">
 
 <!ENTITY generalInfo.label                       "Γενικές πληροφορίες">
-<!ENTITY folderCharsetFallback2.label            "Fallback Text Encoding:">
-<!ENTITY folderCharsetFallback2.accesskey        "E">
-<!ENTITY folderCharsetEnforce2.label             "Apply encoding to all messages in the folder (individual message text encoding settings and auto-detection will be ignored)">
-<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Επιδιόρθωση αρχείου περίληψης ευρετηρίου">
 <!ENTITY folderRebuildSummaryFile2.label         "Επιδιόρθωση φακέλου">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "ρ">
@@ -61,13 +57,8 @@
 <!ENTITY folderType.label                        "Τύπος φακέλου:">
 
 <!ENTITY folderQuotaTab.label                    "Όριο">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
 <!ENTITY folderQuotaUsage.label                  "Χρήση:">
 <!ENTITY folderQuotaStatus.label                 "Κατάσταση:">
 
-<!ENTITY numberOfMessages.label                  "Number of messages:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
-<!ENTITY numberUnknown.label                     "unknown">
-<!ENTITY sizeOnDisk.label                        "Size on disk:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
-<!ENTITY sizeUnknown.label                       "unknown">

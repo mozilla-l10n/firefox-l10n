@@ -6,7 +6,6 @@
 <!ENTITY itemAutoComplete.label              "Διευθυνσιοδότηση">
 <!ENTITY itemSpellCheck.label                "Ορθογραφικός έλεγχος">
 
-<!ENTITY dialogCompose.title                 "Composing">
 
 <!ENTITY forwardMsg.label                     "Προώθηση μηνυμάτων:">
 <!ENTITY forwardMsg.accesskey                 "θ">
@@ -15,7 +14,6 @@
 <!ENTITY addExtension.label                   "προσθήκη επέκτασης στο όνομα αρχείου">
 <!ENTITY addExtension.accesskey               "χ">
 
-<!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Γραμματοσειρά:">
 <!ENTITY font.accesskey                       "ρ">
 <!ENTITY size.label                           "Μέγεθος:">

@@ -19,10 +19,7 @@
 <!ENTITY whatsNewCmd.accesskey "ν">
 <!ENTITY openHelp.label "Περιεχόμενα βοήθειας">
 <!ENTITY openHelp.accesskey "χ">
-<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Βοήθεια &brandShortName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "Περί &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "ρ">

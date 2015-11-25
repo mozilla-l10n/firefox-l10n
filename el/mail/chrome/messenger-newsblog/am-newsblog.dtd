@@ -6,16 +6,15 @@
 <!ENTITY biffStart.accesskey "ο">
 <!ENTITY biffEnd.label "λεπτά">
 
-<!ENTITY loginAtStartup.label "Έλεγχος για νέα άρθρα κατά την εκκίνηση">
+<!ENTITY loginAtStartup.label "Έλεγχος για νέα άρθρα κατά την εκκίνηση"> 
 <!ENTITY loginAtStartup.accesskey "λ">
 
-<!ENTITY useQuickMode.label "Εμφάνιση περίληψης άρθρου αντί για φόρτωση ολόκληρης της σελίδας">
+<!ENTITY useQuickMode.label "Εμφάνιση περίληψης άρθρου αντί για φόρτωση ολόκληρης της σελίδας"> 
 <!ENTITY useQuickMode.accesskey "π">
 
-<!ENTITY manageSubscriptions.label "Διαχείριση συνδρομών...">
+<!ENTITY manageSubscriptions.label "Διαχείριση συνδρομών..."> 
 <!ENTITY manageSubscriptions.accesskey "Δ">
 
-<!ENTITY feedWindowTitle.label "Feed Account Wizard">
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Ιστολόγια &amp; Ροές ειδήσεων">

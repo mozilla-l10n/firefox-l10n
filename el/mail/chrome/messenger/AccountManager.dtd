@@ -12,8 +12,6 @@
 <!ENTITY addMailAccountButton.accesskey "θ">
 <!ENTITY addIMAccountButton.label "Προσθήκη λογαριασμού chat…">
 <!ENTITY addIMAccountButton.accesskey "c">
-<!ENTITY addFeedAccountButton.label "Add Feed Account…">
-<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Προσθήκη άλλου λογαριασμού...">
 <!ENTITY addOtherAccountButton.accesskey "λ">
 <!ENTITY setDefaultButton.label "Ορισμός ως προεπιλεγμένου">

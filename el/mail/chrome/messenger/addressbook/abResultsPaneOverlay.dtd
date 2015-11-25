@@ -2,12 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Addrbook.label                        "Address Book">
-<!ENTITY Addrbook.accesskey                    "B">
 <!ENTITY GeneratedName.label                   "Όνομα">
 <!ENTITY GeneratedName.accesskey               "ν">
-<!ENTITY PrimaryEmail.label                    "Email">
-<!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Οργανισμός">
 <!ENTITY Company.accesskey                     "γ">
 <!ENTITY _PhoneticName.label                   "Φωνητικό όνομα">
@@ -15,7 +11,6 @@
 <!ENTITY NickName.label                        "Ψευδώνυμο">
 <!ENTITY NickName.accesskey                    "δ">
 <!ENTITY SecondEmail.label                     "Επιπρόσθετο  Email">
-<!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Τμήμα">
 <!ENTITY Department.accesskey                  "μ">
 <!ENTITY JobTitle.label                        "Τίτλος">
@@ -30,8 +25,6 @@
 <!ENTITY HomePhone.accesskey                   "φ">
 <!ENTITY WorkPhone.label                       "Τηλέφωνο Εργασίας">
 <!ENTITY WorkPhone.accesskey                   "γ">
-<!ENTITY ChatName.label                        "Chat Name">
-<!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "Σε αύξουσα σειρά">
 <!ENTITY sortAscending.accesskey               "ξ">
 <!ENTITY sortDescending.label                  "Σε φθίνουσα σειρά">

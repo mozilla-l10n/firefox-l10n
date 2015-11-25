@@ -7,7 +7,6 @@
 <!ENTITY aboutSupport.accountsTitle "Λογαριασμοί Αλληλογραφίας και συζητήσεων">
 <!ENTITY aboutSupport.showPrivateData.mainText "Να συμπεριλαμβάνονται ονόματα λογαριασμών">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(πιθανώς ταυτοποιήσιμες πληροφορίες)">
-<!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Όνομα">
 <!ENTITY aboutSupport.accountsIncomingServer "Διακομιστής εισερχομένων">
 <!ENTITY aboutSupport.accountsOutgoingServers "Διακομιστές εξερχομένων">
@@ -15,6 +14,5 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Ασφάλεια σύνδεσης">
 <!ENTITY aboutSupport.accountsAuthMethod "Μέθοδος πιστοποίησης">
 <!ENTITY aboutSupport.accountsDefault "Προεπιλογή;">
-<!ENTITY aboutSupport.identityName "Identity">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Αποστολή μέσω email">

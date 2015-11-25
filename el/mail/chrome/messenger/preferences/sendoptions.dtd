@@ -17,7 +17,6 @@
 
 <!ENTITY domaindesc.label             "Όταν στέλνετε ένα μήνυμα σε μια διεύθυνση που ανήκει τους παρακάτω τομείς,  ο &brandShortName; επιλέγει αυτόματα τη σωστή μορφοποίηση για τον ανάλογο τομέα. ">
 <!ENTITY HTMLTab.label                "Τομείς HTML">
-<!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Τομείς απλού κειμένου">
 <!ENTITY PlainTextTab.accesskey       "π">
 <!ENTITY AddHtmlDomain.label          "Προσθήκη…">

@@ -15,13 +15,9 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "'Ονομα:">
 <!ENTITY NameField1.accesskey           "ν">
@@ -36,16 +32,12 @@
 <!ENTITY NickName.label                 "Προσωνύμιο:">
 <!ENTITY NickName.accesskey             "μ">
 
-<!ENTITY PrimaryEmail.label             "Email:">
-<!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Πρόσθετο Email:">
 <!ENTITY SecondEmail.accesskey          "τ">
 <!ENTITY PreferMailFormat.label         "Προτιμάει να λαμβάνει μηνύματα σε μορφή:">
 <!ENTITY PreferMailFormat.accesskey     "φ">
 <!ENTITY PlainText.label                "Απλό Κείμενο">
-<!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Άγνωστο">
-<!ENTITY chatName.label                 "Chat Name:">
 
 <!ENTITY WorkPhone.label                "Εργασία:">
 <!ENTITY WorkPhone.accesskey            "γ">
@@ -62,8 +54,6 @@
 <!ENTITY Home.accesskey                 "δ">
 <!ENTITY HomeAddress.label              "Διεύθυνση:">
 <!ENTITY HomeAddress.accesskey          "θ">
-<!ENTITY HomeAddress2.label             "">
-<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Πόλη:">
 <!ENTITY HomeCity.accesskey             "η">
 <!ENTITY HomeState.label                "Επαρχία:">
@@ -76,11 +66,7 @@
 <!ENTITY HomeWebPage.accesskey          "σ">
 <!ENTITY Birthday.label                 "Γενέθλια">
 <!ENTITY Birthday.accesskey             "θ">
-<!ENTITY In.label                       "">
-<!ENTITY Year.placeholder               "Year">
 <!ENTITY Or.value                       "ή">
-<!ENTITY Age.placeholder                "Age">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Εργασία">
 <!ENTITY Work.accesskey                 "γ">
@@ -92,8 +78,6 @@
 <!ENTITY Company.accesskey              "Ο">
 <!ENTITY WorkAddress.label              "Διεύθυνση:">
 <!ENTITY WorkAddress.accesskey          "θ">
-<!ENTITY WorkAddress2.label             "">
-<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Πόλη:">
 <!ENTITY WorkCity.accesskey             "η">
 <!ENTITY WorkState.label                "Επαρχία:">
@@ -108,36 +92,12 @@
 <!ENTITY Other.tab                      "Άλλο">
 <!ENTITY Other.accesskey                "λ">
 <!ENTITY Custom1.label                  "Προσαρμοσμένη 1:">
-<!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Προσαρμοσμένη 2:">
-<!ENTITY Custom2.accesskey              "2">
 <!ENTITY Custom3.label                  "Προσαρμοσμένη 3:">
-<!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Προσαρμοσμένη 4:">
-<!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Σημειώσεις:">
 <!ENTITY Notes.accesskey                "μ">
 
-<!ENTITY Chat.tab                       "Chat">
-<!ENTITY Chat.accesskey                 "a">
-<!ENTITY Gtalk.label                    "Google Talk:">
-<!ENTITY Gtalk.accesskey                "G">
-<!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
-<!ENTITY Yahoo.label                    "Yahoo!:">
-<!ENTITY Yahoo.accesskey                "Y">
-<!ENTITY Skype.label                    "Skype:">
-<!ENTITY Skype.accesskey                "S">
-<!ENTITY QQ.label                       "QQ:">
-<!ENTITY QQ.accesskey                   "Q">
-<!ENTITY MSN.label                      "MSN:">
-<!ENTITY MSN.accesskey                  "M">
-<!ENTITY ICQ.label                      "ICQ:">
-<!ENTITY ICQ.accesskey                  "I">
-<!ENTITY XMPP.label                     "Jabber ID:">
-<!ENTITY XMPP.accesskey                 "J">
-<!ENTITY IRC.label                      "IRC Nick:">
-<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Φωτογραφία">
 <!ENTITY Photo.accesskey                "ω">
