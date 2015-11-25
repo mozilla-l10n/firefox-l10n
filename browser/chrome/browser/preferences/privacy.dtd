@@ -42,7 +42,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Ženje">
 <!ENTITY  acceptThirdParty.visited.label  "Jenož wot wopytanych třećich">
 
-<!ENTITY  keepUntil.label               "Wobchować hač do:">
+<!ENTITY  keepUntil.label               "Wobchować:">
 <!ENTITY  keepUntil.accesskey           "c">
 
 <!ENTITY  expire.label                  "doniž njespadnu">
