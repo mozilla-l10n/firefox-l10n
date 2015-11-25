@@ -14,10 +14,6 @@
 <!ENTITY  proportional.label                      "Μεταβλητού πλάτους:">
 <!ENTITY  proportional.accesskey                  "Μ">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Σταθερού πλάτους:">
 <!ENTITY  monospace.accesskey                     "τ">
 
@@ -31,7 +27,6 @@
 <!ENTITY  font.langGroup.korean                   "Κορεάτικη">
 <!ENTITY  font.langGroup.cyrillic                 "Κυριλλική">
 <!ENTITY  font.langGroup.el                       "Ελληνική">
-<!ENTITY  font.langGroup.other                    "Other Writing Systems">
 <!ENTITY  font.langGroup.thai                     "Ταϊλανδική">
 <!ENTITY  font.langGroup.hebrew                   "Εβραϊκή">
 <!ENTITY  font.langGroup.arabic                   "Αραβική">
@@ -39,14 +34,12 @@
 <!ENTITY  font.langGroup.tamil                    "Ταμίλ">
 <!ENTITY  font.langGroup.armenian                 "Αρμενική">
 <!ENTITY  font.langGroup.bengali                  "Μπενγκάλι">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
 <!ENTITY  font.langGroup.ethiopic                 "Αιθιοπική">
 <!ENTITY  font.langGroup.georgian                 "Γεωργιανή">
 <!ENTITY  font.langGroup.gujarati                 "Γκουαρατί">
 <!ENTITY  font.langGroup.gurmukhi                 "Γκουρμούχι">
 <!ENTITY  font.langGroup.khmer                    "Χμερ">
 <!ENTITY  font.langGroup.malayalam                "Μαλαισιανή">
-<!ENTITY  font.langGroup.math                     "Mathematics">
 <!ENTITY  font.langGroup.oriya                    "Ορίγια">
 <!ENTITY  font.langGroup.telugu                   "Τελούγκου">
 <!ENTITY  font.langGroup.kannada                  "Κανναντα">
@@ -58,8 +51,6 @@
 <!ENTITY minSize.none                             "Κανένα">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!ENTITY  allowPagesToUse.label                   "Οι ιστοσελίδες να χρησιμοποιούν τις δικές τους γραμματοσειρές">
 <!ENTITY  allowPagesToUse.accesskey               "η">
@@ -69,39 +60,23 @@
 <!ENTITY languages.customize.Fallback2.accesskey  "φ">
 <!ENTITY languages.customize.Fallback2.desc       "Αυτή η κωδικοποίηση κειμένου χρησιμοποιείται για περιεχόμενο παλαιών σελίδων που δεν δηλώνουν την κωδικοποίηση τους.">
 
-<!ENTITY languages.customize.Fallback.auto        "Default for Current Locale">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.arabic      "Arabic">
-<!ENTITY languages.customize.Fallback.baltic      "Baltic">
-<!ENTITY languages.customize.Fallback.ceiso       "Central European, ISO">
-<!ENTITY languages.customize.Fallback.cewindows   "Central European, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "Chinese, Simplified">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "Chinese, Traditional">
-<!ENTITY languages.customize.Fallback.cyrillic    "Cyrillic">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "Greek">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "Hebrew">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "Japanese">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.korean      "Korean">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.thai        "Thai">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "Turkish">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.vietnamese  "Vietnamese">
-<!ENTITY languages.customize.Fallback.other       "Other (incl. Western European)">
