@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Teirmichean na seirbheise">
 <!ENTITY fxaccount_status_linkprivacy "Sanas prìobhaideachd">
 <!ENTITY fxaccount_status_more "Barrachd&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Dì-cheangail&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "A bheil thu airson an cunntas Firefox a thoirt air falbh?">
 <!ENTITY fxaccount_remove_account_dialog_message "Sguiridh &brandShortName; de shioncronachadh a’ chunntais agad ach cha sguab e às gin dhen dàta brabhsaidh agad air an uidheam seo.">

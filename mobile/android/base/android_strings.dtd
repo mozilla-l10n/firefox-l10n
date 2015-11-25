@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Cuir an taba seo gu uidheam eile a tha ceangailte ris">
+
 <!ENTITY pref_category_search3 "Lorg">
 <!ENTITY pref_category_search_summary "Gnàthaich na solaraichean luirg agad">
 <!ENTITY pref_category_display "Taisbeanadh">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "An comas, as aonais feadhainn o threas-phàrtaidh">
 <!ENTITY pref_cookies_disabled "À comas">
 
-
+<!ENTITY pref_tap_to_load_images_title "Thoir gnogag gus na dealbhan a luchdadh">
+<!ENTITY pref_tap_to_load_images_summary2 "Na luchdaich dealbhan ach nuair a nithear brùthadh fada orra">
 
 <!ENTITY pref_tracking_protection_title "Dìon o thracadh">
-
+<!ENTITY pref_tracking_protection_summary3 "An comas sa bhrabhsadh phrìobhaideach">
 <!ENTITY pref_donottrack_title "Na tracaich">
 <!ENTITY pref_donottrack_summary "Innsidh &brandShortName; do làraichean nach eil thu ag iarraidh gun tracaich iad thu">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "An comas">
+<!ENTITY pref_tracking_protection_enabled_pb "An comas sa bhrabhsadh phrìobhaideach">
+<!ENTITY pref_tracking_protection_disabled "À comas">
 
 <!ENTITY tracking_protection_prompt_title "Le dìon o thracadh a-nis">
 <!ENTITY tracking_protection_prompt_text "Dèan bacadh air eileamaidean tracaidh.">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sioncronachadh">
 <!ENTITY pref_sync_summary2 "Sioncronaich na tabaichean, comharran-lìn, clàraidhean a-steach ’s an eachdraidh agad">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
-
+<!ENTITY pref_history_search_suggestions "Seall eachdraidh nan lorg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
 <!ENTITY pref_import_android_summary "Ion-phortaich comharran-lìn is an eachdraidh on bhrabhsair tùsail aig an uidheam">
 <!ENTITY pref_private_data_history2 "An eachdraidh brabhsaidh">
@@ -585,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ceangal tèarainte">
 <!ENTITY identity_connection_insecure "Ceangal nach eil tèarainte">
-
+<!ENTITY identity_login_insecure "Chan eil an duilleag seo tèarainte agus dh’fhaoidte gum bris cuideigin air a’ chlàradh agad.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "Bhac &brandShortName; susbaint air an duilleag seo nach eil tèarainte.">
@@ -705,6 +709,7 @@ o Android">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Thèid an ceangal seo fhosgladh ann am &formatS;. A bheil thu cinnteach gu bheil thu airson am brabhsadh prìobhaideach fhàgail?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -712,6 +717,7 @@ o Android">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "A bheil thu airson am brabhsadh prìobhaideach fhàgail?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
