@@ -245,14 +245,20 @@
 <!ENTITY netmonitorUI.context.copyUrl     "URL నకలుతీయి">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "U">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyUrlParams.accesskey "P">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
   -  on the context menu that copies the selected request's post data -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData.accesskey): This is the access key
   -  for the Copy POST Data menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyPostData.accesskey "D">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
@@ -265,14 +271,20 @@
   -  on the context menu that copies the selected item's request headers -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey  "Q">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
+
+<!ENTITY netmonitorUI.context.copyResponseHeaders.accesskey  "S">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
   -  on the context menu that copies the selected response as a string -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyResponse.accesskey  "R">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
 
@@ -285,10 +297,14 @@
   -  on the context menu that copies all as HAR format -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar.accesskey): This is the access key
   -  for the Copy All As HAR menu item displayed in the context menu for a network panel -->
+
+<!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "O">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
   -  on the context menu that saves all as HAR format -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
   -  for the Save All As HAR menu item displayed in the context menu for a network panel -->
+
+<!ENTITY netmonitorUI.context.saveAllAsHar.accesskey "H">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
@@ -296,6 +312,8 @@
 <!ENTITY netmonitorUI.summary.editAndResend "సరికూర్చు మరియు తిరిగిపంపు">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.summary.editAndResend.accesskey "E">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders): This is the label displayed
   -  on the button in the headers tab that toggle view for raw request/response headers
      from the currently displayed request -->
@@ -317,12 +335,16 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->
+
+<!ENTITY netmonitorUI.context.newTab.accesskey "T">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
 
 <!ENTITY netmonitorUI.context.perfTools   "పనితనం విశ్లేషణను ప్రారంభించు...">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
   -  for the performance analysis menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.perfTools.accesskey "A">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
 

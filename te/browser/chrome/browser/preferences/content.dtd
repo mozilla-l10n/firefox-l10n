@@ -7,10 +7,11 @@
 <!ENTITY  blockPopups.label           "పాప్-అప్ విండోలను బ్లాకు చేయి">
 <!ENTITY  blockPopups.accesskey       "B">
 
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "గమనింపులు">
+<!ENTITY  notificationsPolicyLearnMore.label   "మరింత తెలుసుకోండి">
+<!ENTITY  notificationsPolicyDesc3.label       "ఏయే సైట్లు మీకు గమనింపులను పంపవచ్చో ఎంచుకోండి">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "ఎంచుకో…">
 
 
 
@@ -54,4 +55,4 @@
 
 
 
-
+<!ENTITY  playDRMContent.learnMore.label "మరింత తెలుసుకోండి">
