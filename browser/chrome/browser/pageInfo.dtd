@@ -13,7 +13,7 @@
 <!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
-<!ENTITY  generalTab            "సాధారణ">
+<!ENTITY  generalTab            "సాధారణం">
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "చిరునామా:">
 <!ENTITY  generalType           "రకం:">

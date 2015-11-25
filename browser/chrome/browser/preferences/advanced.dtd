@@ -4,7 +4,7 @@
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 
-<!ENTITY generalTab.label                "సాధారణ">
+<!ENTITY generalTab.label                "సాధారణం">
 
 <!ENTITY accessibility.label             "వెసులుబాటు">
 
