@@ -14,13 +14,11 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
-<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Βρίσκεστε σε ιδιωτική περιήγηση">
 
 <!ENTITY aboutPrivateBrowsing.info.notsaved    "Δεν θα αποθηκεύονται">
 <!ENTITY aboutPrivateBrowsing.info.history     "Ιστορικό">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Αναζητήσεις">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Προσωρινά αρχεία">
 
 <!ENTITY aboutPrivateBrowsing.info.saved       "Θα αποθηκεύονται">
@@ -38,7 +36,6 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
-<!ENTITY trackingProtection.width1             "22em">
 <!ENTITY trackingProtection.title              "Προστασία Δεδομένων Περιήγησης">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):

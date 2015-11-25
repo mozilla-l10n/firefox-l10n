@@ -53,4 +53,3 @@
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Προστατευμένη πιστοποίηση token">
 <!ENTITY protectedAuth.msg "Παρακαλώ κάντε πιστοποίηση στο token. Η μέθοδος πιστοποίησης εξαρτάται από το είδος του token.">
-<!ENTITY protectedAuth.tokenName.label "Token:">

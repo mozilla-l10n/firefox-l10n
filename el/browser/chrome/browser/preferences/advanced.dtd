@@ -34,8 +34,6 @@
 <!ENTITY healthReportLearnMore.label     "Μάθετε περισσότερα">
 
 <!ENTITY telemetryDesc.label             "Αποστολή των δεδομένων συμπεριφοράς, χρήσης, υλικού και προσαρμογών του περιηγητή σας στον &vendorShortName; για να  βοηθήσετε να κάνουμε τον &brandShortName; καλύτερο">
-<!ENTITY enableTelemetryData.label       "Share additional data (i.e., Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Μάθετε περισσότερα">
 
 <!ENTITY crashReporterDesc.label         "Ο &brandShortName; υποβάλλει αναφορές καταρρεύσεων στον &vendorShortName; για την βελτίωση της σταθερότητας και της ασφάλειας του περιηγητή σας">
@@ -106,14 +104,11 @@
 <!ENTITY offlineAppRemove.confirm        "Απομάκρυνση δεδομένων για εργασία χωρίς σύνδεση">
 
 <!ENTITY certificateTab.label            "Πιστοποιητικά">
-<!ENTITY certSelection.label             "Requests">
 <!ENTITY certSelection.description       "Όταν ένας εξυπηρετητής απαιτεί ένα πιστοποιητικό:">
 <!ENTITY certs.auto                      "Αυτόματη επιλογής ενός">
 <!ENTITY certs.auto.accesskey            "τ">
 <!ENTITY certs.ask                       "Ερώτηση κάθε φορά">
 <!ENTITY certs.ask.accesskey             "ρ">
-<!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
-<!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Προβολή πιστοποιητικών">
 <!ENTITY viewCerts.accesskey             "ο">
 <!ENTITY viewSecurityDevices.label       "Συσκευές ασφαλείας">
