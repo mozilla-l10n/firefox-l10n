@@ -12,12 +12,10 @@
 <!ENTITY fccReplyFollowsParent.accesskey "θ">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc σε αυτές τις διευθύνσεις:">
-<!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Διαχωρίστε τις διευθύνσεις με κόμματα">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc σε άλλη διεύθυνση">
 <!ENTITY bccAddress.accesskey "θ">
-<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
 <!ENTITY saveMessageDlg.label "Προβολή διαλόγου επιβεβαίωσης κατά την αποθήκευση μηνυμάτων">
 <!ENTITY saveMessageDlg.accesskey "β">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
@@ -42,7 +40,6 @@
 <!ENTITY draftsFolderOn.accesskey "σ">
 <!ENTITY draftInOtherFolder.label "άλλο:">
 <!ENTITY draftInOtherFolder.accesskey "λ">
-<!ENTITY keepTemplates.label "Keep message templates in:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "φάκελο &quot;Πρότυπα&quot; στο:">
 <!ENTITY templatesFolderOn.accesskey "κ">

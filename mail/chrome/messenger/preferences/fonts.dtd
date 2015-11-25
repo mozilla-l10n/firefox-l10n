@@ -14,12 +14,6 @@
 <!ENTITY  proportional.label                      "Μεταβλητές:">
 <!ENTITY  proportional.accesskey                  "β">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -31,7 +25,6 @@
 <!ENTITY  font.langGroup.korean                   "Κορεάτικα">
 <!ENTITY  font.langGroup.cyrillic                 "Κυριλλική">
 <!ENTITY  font.langGroup.el                       "Ελληνικά">
-<!ENTITY  font.langGroup.other                    "Other Writing Systems">
 <!ENTITY  font.langGroup.thai                     "Ταϊλανδική">
 <!ENTITY  font.langGroup.hebrew                   "Εβραϊκά">
 <!ENTITY  font.langGroup.arabic                   "Αραβικά">
@@ -46,20 +39,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Γκουρμούχι">
 <!ENTITY  font.langGroup.khmer                    "Χμερ">
 <!ENTITY  font.langGroup.malayalam                "Μαλαισιανή">
-<!ENTITY  font.langGroup.math                     "Mathematics">
-<!ENTITY  font.langGroup.oriya                    "Oriya">
-<!ENTITY  font.langGroup.telugu                   "Telugu">
-<!ENTITY  font.langGroup.kannada                  "Kannada">
-<!ENTITY  font.langGroup.sinhala                  "Sinhala">
-<!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ελάχιστο μέγεθος γραμματοσειράς:">
 <!ENTITY minSize.accesskey                        "χ">
 <!ENTITY minSize.none                             "Κανένα">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Χειρισμός γραμματοσειράς">

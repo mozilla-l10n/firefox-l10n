@@ -14,7 +14,6 @@
      of free account alternatives. -->
 <!ENTITY error.suggest.before "Μπορείτε ακόμα να προσπαθήσετε με κάποιον από τους  ">
 <!ENTITY error.suggest.middle "παρόχους δωρεάν λογαριασμών αλληλογραφίας">
-<!ENTITY error.suggest.after ".">
 
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping

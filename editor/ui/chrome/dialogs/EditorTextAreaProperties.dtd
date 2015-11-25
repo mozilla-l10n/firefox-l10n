@@ -26,7 +26,6 @@
 <!ENTITY TextAreaWrap.label "Κατάσταση αναδίπλωσης:">
 <!ENTITY TextAreaWrap.accessKey "δ">
 <!ENTITY WrapDefault.value "Προεπιλεγμένο">
-<!ENTITY WrapOff.value "Off">
 <!ENTITY WrapHard.value "Σκληρό">
 <!ENTITY WrapSoft.value "Μαλακό">
 <!ENTITY WrapPhysical.value "Φυσικό">

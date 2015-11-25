@@ -18,15 +18,8 @@
 <!ENTITY  reload.label                  "Ανανέωση">
 <!ENTITY  reload.accesskey              "ν">
 <!ENTITY  http.label                    "Διαμεσολαβητής HTTP:">
-<!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "Διαμεσολαβητής SSL:">
-<!ENTITY  ssl.accesskey                 "s">
 <!ENTITY  socks.label                   "Σύστημα SOCKS:">
-<!ENTITY  socks.accesskey               "c">
-<!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "k">
-<!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
 <!ENTITY  HTTPport.label                "Θύρα:">
 <!ENTITY  HTTPport.accesskey            "Θ">
 <!ENTITY  SSLport.label                 "Θύρα:">

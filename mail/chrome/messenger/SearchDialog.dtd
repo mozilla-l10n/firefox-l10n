@@ -17,9 +17,7 @@
 <!ENTITY deleteButton.accesskey      "Δ">
 <!ENTITY searchDialogTitle.label     "Αναζήτηση Μηνυμάτων">
 <!ENTITY results.label               "Αποτελέσματα">
-<!ENTITY moveButton.label            "Move To">
-<!ENTITY moveButton.accesskey        "T">
-<!ENTITY closeCmd.key                "W">
+ 
 <!ENTITY openInFolder.label          "Άνοιγμα σε φάκελο">
 <!ENTITY openInFolder.accesskey      "φ">
 <!ENTITY saveAsVFButton.label        "Αποθήκευση ως φάκελος αναζήτησης">
@@ -32,15 +30,12 @@
 <!ENTITY propertiesButton.accesskey  "δ">
 <!ENTITY composeButton.label         "Σύνταξη">
 <!ENTITY composeButton.accesskey     "Σ">
-<!ENTITY deleteCardButton.label      "Delete">
-<!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "Προχωρημένη έρευνα Ευρετηρίου διευθύνσεων">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Αλληλουχία">
 <!ENTITY fromColumn.label "Από">
 <!ENTITY recipientColumn.label "Παραλήπτης">
-<!ENTITY correspondentColumn.label "Correspondents">
 <!ENTITY subjectColumn.label "Θέμα">
 <!ENTITY dateColumn.label "Ημερομηνία">
 <!ENTITY priorityColumn.label "Προτεραιότητα">
@@ -62,7 +57,6 @@
 <!ENTITY threadColumn2.tooltip "Εμφάνιση αλληλουχιών μηνυμάτων">
 <!ENTITY fromColumn2.tooltip "Ταξινόμηση κατά αποστολέα">
 <!ENTITY recipientColumn2.tooltip "Ταξινόμηση κατά παραλήπτη">
-<!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
 <!ENTITY subjectColumn2.tooltip "Ταξινόμηση κατά θέμα">
 <!ENTITY dateColumn2.tooltip "Ταξινόμηση κατά ημερομηνία">
 <!ENTITY priorityColumn2.tooltip "Ταξινόμηση κατά προτεραιότητα">

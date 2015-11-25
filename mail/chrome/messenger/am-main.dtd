@@ -12,7 +12,6 @@
 <!ENTITY name.label "Όνομα:">
 <!ENTITY name.accesskey "μ">
 <!ENTITY email.label "Διεύθυνση Email:">
-<!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Διεύθυνση για απαντήσεις:">
 <!ENTITY replyTo.accesskey "σ">
 <!ENTITY replyTo.placeholder "Οι παραλήπτες θα απαντούν σε αυτήν την διαφορετική διεύθυνση">
@@ -21,7 +20,6 @@
 <!ENTITY signatureText.label "Κείμενο υπογραφής:">
 <!ENTITY signatureText.accesskey "μ">
 <!ENTITY signatureHtml.label "Χρήση HTML (π.χ., &lt;b&gt;bold&lt;/b&gt;)">
-<!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "Επισύναψη υπογραφής από αρχείο (κείμενο, HTML, ή εικόνα):">
 <!ENTITY signatureFile.accesskey "ψ">
 <!ENTITY edit.label "Επεξεργασία...">
@@ -31,7 +29,6 @@
 <!ENTITY editVCard.accesskey "ξ">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Επισύναψη της vCard μου στα μηνύματα">
-<!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY manageIdentities.label "Διαχείριση ταυτοτήτων...">
 <!ENTITY manageIdentities.accesskey "Δ">

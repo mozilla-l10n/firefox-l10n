@@ -9,7 +9,6 @@
 <!ENTITY accountManager.close.label          "Κλείσιμο">
 <!ENTITY accountManager.close.accesskey      "λ">
 <!-- This should match account.commandkey in instantbird.dtd -->
-<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Δεν έχει ακόμα ρυθμιστεί λογαριασμός">
 <!ENTITY accountManager.noAccount.description "Κάντε κλικ στο κουμπί &accountManager.newAccount.label; για να αφήσετε τον &brandShortName; να σας βοηθήσει στη διαδικασία δημιουργίας ενός νέου λογαριασμού.">
@@ -25,8 +24,6 @@
 <!ENTITY account.movedown.label       "Μετακίνηση κάτω">
 <!ENTITY account.cancelReconnection.label         "Ακύρωση επανασύνδεσης">
 <!ENTITY account.cancelReconnection.accesskey     "ε">
-<!ENTITY account.copyDebugLog.label     "Copy Debug Log">
-<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting           "Σύνδεση…">
 <!ENTITY account.disconnecting        "Αποσύνδεση…">
 <!ENTITY account.disconnected         "Δεν υπάρχει σύνδεση">

@@ -8,8 +8,6 @@
 <!ENTITY name.placeholder                "Όνομα Επίθετο">
 <!ENTITY name.text                       "Το όνομα σας, όπως θα εμφανίζεται σε τρίτους">
 <!ENTITY email.label                     "Διεύθυνση Email:">
-<!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Κωδικός:">
 <!ENTITY password.accesskey              "δ">
 <!ENTITY password.placeholder            "Κωδικός">
@@ -25,17 +23,11 @@
 <!ENTITY username.label                  "Όνομα χρήστη:">
 <!ENTITY hostname.label                  "Όνομα συστήματος διακομιστή">
 <!ENTITY port.label                      "Θύρα">
-<!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Πιστοποίηση">
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP3">
-<!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Αυτόματος εντοπισμός">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Κανένα">
-<!ENTITY starttls.label                  "STARTTLS">
-<!ENTITY sslTls.label                    "SSL/TLS">
 
 <!ENTITY advancedSetup.label             "Προχωρημένες ρυθμίσεις">
 <!ENTITY advancedSetup.accesskey         "χ">
@@ -69,8 +61,6 @@
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY doneAccount.label               "Done">
-<!ENTITY doneAccount.accesskey           "D">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

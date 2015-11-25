@@ -10,19 +10,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Μεγέθυνση">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "γ">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+ <!-- + is above this key on many keyboards -->
 
 <!ENTITY fullZoomReduceCmd.label        "Σμίκρυνση">
 <!ENTITY fullZoomReduceCmd.accesskey    "μ">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Επαναφορά">
 <!ENTITY fullZoomResetCmd.accesskey     "ρ">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Μεγέθυνση μόνο του κειμένου">
 <!ENTITY fullZoomToggleCmd.accesskey    "ο">

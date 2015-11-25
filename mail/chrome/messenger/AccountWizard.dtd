@@ -41,17 +41,12 @@
 <!ENTITY incomingTitle.label "Πληροφορίες διακομιστή εισερχομένων">
 <!ENTITY incomingServerTypeDesc.label "Επιλέξτε τον τύπο του διακομιστή εισερχομένων που χρησιμοποιείτε.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Διατήρηση μηνυμάτων στον διακομιστή">
 <!ENTITY leaveMsgsOnSrvr.accesskey "Δ">
 <!ENTITY portNum.label "Θύρα:">
 <!ENTITY portNum.accesskey "Θ">
 <!ENTITY defaultPortLabel.label "Προεπιλογή:">
-<!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "Εισάγετε το όνομα του διακομιστή εισερχομένων (για παράδειγμα, &quot;mail.example.gr&quot;).">
 <!ENTITY incomingServer.label "Διακομιστής εισερχομένων:">

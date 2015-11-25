@@ -27,8 +27,6 @@
      The label to display for the "App Menu... Preferences..." menu item that
      controls whether the quick filter bar is visible.
      -->
-<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
-         "Quick Filter Bar">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
@@ -147,8 +145,6 @@
      size of the text box to the label's right.  (If your string for
      "no results" is longer than the "#### messages" case, then size for that.
      -->
-<!ENTITY quickFilterBar.resultsLabel.minWidth
-         "100">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
      This is the base of the empty text for the text search box.  We replace
@@ -163,64 +159,49 @@
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
-<!ENTITY quickFilterBar.show.key2
-         "k">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
      linux (which use the control key).  This should match the value of
      quickFilterBar.show.key above.
      -->
-<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
-         "&lt;Ctrl+Shift+K&gt;">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
      The description of the key-binding to get into the box on mac systems.
      This should match the value of quickFilterBar.show.key above.
      -->
-<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
-         "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanMode.tooltip "Tag filtering mode">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAny.label "Any of">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAny.tooltip "At least one of the selected tag criteria should match">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAll.label "All of">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAll.tooltip "All of the selected tag criteria must match">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of
      extra whitespace.
      -->
-<!ENTITY quickFilterBar.textbox.idealWidth
-         "320">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.minWidth):
      The minimum width of the quick filter textbox in pixels.  This is the size
      which we should refuse to flex below.  When we hit this size, the buttons
      with labels will have their labels collapsed.
      -->
-<!ENTITY quickFilterBar.textbox.minWidth
-         "280">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.explanation.label):
      This label explains what the sender/recipients/subject/body buttons do.

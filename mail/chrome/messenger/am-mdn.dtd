@@ -5,8 +5,6 @@
 <!ENTITY pane.title                   "Βεβαιώσεις ανάγνωσης">
 <!ENTITY useGlobalPrefs.label         "Χρήση των γενικών ρυθμίσεων για αυτόν το λογαριασμό">
 <!ENTITY useGlobalPrefs.accesskey     "Χ">
-<!ENTITY globalReceipts.label         "Global Preferences…">
-<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Προσαρμογή βεβαιώσεων ανάγνωσης για το παρόντα λογαριασμό">
 <!ENTITY useCustomPrefs.accesskey     "Π">
 <!ENTITY requestReceipt.label         "Κατά την αποστολή μηνυμάτων να ζητείται πάντα βεβαίωση ανάγνωσης">

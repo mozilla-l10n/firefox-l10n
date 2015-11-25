@@ -11,10 +11,8 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Αδυναμία σύνδεσης">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Αυτή η διεύθυνση είναι περιορισμένη">
-<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Δεν βρέθηκε ο εξυπηρετητής">
 <!ENTITY dnsNotFound.longDesc "
@@ -37,7 +35,6 @@
 </ul>
 ">
 
-<!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
 <p>Ο &brandShortName; δεν μπορεί να φορτώσει τη σελίδα για κάποιο λόγο.</p>
 ">
@@ -53,7 +50,6 @@
 ">
 
 <!ENTITY netInterrupt.title "Η σύνδεση διακόπηκε">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Το έγγραφο έληξε">
 <!ENTITY notCached.longDesc "<p>Το έγγραφο που ζητήσατε δεν είναι πια διαθέσιμο στην προσωρινή μνήμη.</p><ul><li>Ως μέτρο ασφαλείας ο  &brandShortName; δεν ζητά ξανά να ανασύρει ευαίσθητα έγγραφα.</li><li>Πατήστε Προσπάθεια ξανά για να γίνει αίτηση ξανά στη σελίδα.</li></ul>">
@@ -80,10 +76,8 @@
 ">
 
 <!ENTITY netReset.title "Έγινε διακοπή της σύνδεσης με τη σελίδα">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Υπέρβαση ορίου χρόνου της σύνδεσης">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Δεν έγινε κατανοητή η διεύθυνση">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -163,10 +157,6 @@
 <p>Οι ιδιοκτήτες των ιστοσελίδων που πιστεύουν ότι η σελίδα τους έχει υποδειχθεί λανθασμένα ως κακόβουλη ιστοσελίδα μπορούν να ζητήσουν <a href='http://www.stopbadware.org/home/reviewinfo' >επανεξέταση</a>.</p>
 ">
 
-<!ENTITY unwantedBlocked.title "Suspected Unwanted Software Site!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Unwanted software pages try to install software that can be deceptive and affect your system in unexpected ways.</p>
-">
 
 <!ENTITY phishingBlocked.title "Σελίδα ύποπτη για πλαστογραφία!">
 <!ENTITY phishingBlocked.longDesc "

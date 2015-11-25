@@ -21,7 +21,6 @@
 <!ENTITY accountAdvancedInfo.label    "Μπορείτε, αν θέλετε, να παρακάμψετε αυτό το βήμα.">
 <!ENTITY accountAdvanced.newMailNotification.label   "Ειδοποίηση σε νέα Mail">
 <!ENTITY accountAliasGroupbox.caption "Τοπικό Alias">
-<!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "Αυτό θα εμφανίζεται μόνο στις συζητήσεις που συμμετέχετε, οι απομακρυσμένες επαφές σας δεν θα το βλέπουν.">
 <!ENTITY accountProxySettings.caption "Ρυθμίσεις διαμεσολαβητή">
 <!ENTITY accountProxySettings.change.label     "Αλλαγή…">

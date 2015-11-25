@@ -25,13 +25,8 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.removeFromList.label         "Απομάκρυνση από λίστα">
 <!ENTITY cmd.removeFromList.accesskey     "μ">
 
-<!ENTITY cmd.close.commandkey             "w">
-<!ENTITY cmd.close2.commandkey            "j">
-<!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Εκκαθάριση λίστας">
 <!ENTITY cmd.clearList.tooltip            "Απομακρύνει ολοκληρωμένα, ακυρωμένα και αποτυχημένα αντικείμενα από τη λίστα">
 <!ENTITY cmd.clearList.accesskey          "θ">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
 <!ENTITY searchBox.label                  "Αναζήτηση…">
