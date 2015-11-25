@@ -147,7 +147,6 @@
 <!ENTITY pref_home_suggested_sites_summary "Wyświetlanie na stronie domowej skrótów do interesujących witryn">
 <!ENTITY pref_category_home_homepage "Strona domowa">
 <!ENTITY home_homepage_title "Ustaw stronę domową">
-<!ENTITY home_homepage_use_current_tab "Użycie bieżącej karty">
 
 <!ENTITY pref_header_general "Ogólne">
 <!ENTITY pref_header_search "Wyszukiwanie">
