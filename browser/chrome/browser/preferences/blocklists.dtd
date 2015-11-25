@@ -5,6 +5,7 @@
 
 
 
-
-
-
+<!ENTITY button.cancel.label          "రద్దుచేయి">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "మార్పులను భద్రపరచు">
+<!ENTITY button.ok.accesskey          "S">

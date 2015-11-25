@@ -74,7 +74,7 @@
 <!ENTITY certmgr.fields.label                 "ఫీల్డు విలువ">
 <!ENTITY certmgr.fields.accesskey             "V">
 
-
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "ఆక్షేపణను జతచేయుము…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
