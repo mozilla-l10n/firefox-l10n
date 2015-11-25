@@ -141,7 +141,7 @@
 <!ENTITY detail.updateType                    "స్వయంచాలక నవీకరణలు">
 <!ENTITY detail.updateDefault.label           "అప్రమేయ">
 <!ENTITY detail.updateDefault.tooltip         "అదే నవీకరణ అప్రమేయ మైనప్పుడు వాటిని స్వయంచాలకంగా సంస్థాపించుము">
-<!ENTITY detail.updateAutomatic.label         "పైన">
+<!ENTITY detail.updateAutomatic.label         "ఆన్">
 <!ENTITY detail.updateAutomatic.tooltip       "నవీకరణలను స్వయంచాలకంగా సంస్థాపించుము">
 <!ENTITY detail.updateManual.label            "ఆఫ్">
 <!ENTITY detail.updateManual.tooltip          "నవీకరణలను స్వయంచాలకంగా సంస్థాపించవద్దు">
@@ -185,7 +185,7 @@
 <!ENTITY search.filter2.available.tooltip     "సంస్థాపించుటకు అందుబాటులోని పొడిగింతలు చూపుము">
 
 <!ENTITY addon.homepage                       "నివాసపేజీ">
-<!ENTITY addon.details.label                  "మరిన్ని">
+<!ENTITY addon.details.label                  "ఇంకా">
 <!ENTITY addon.details.tooltip                "ఈ యాడ్-గురించి మరిన్ని వివరములను చూపుము">
 <!ENTITY addon.unknownDate                    "తెలియని">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
