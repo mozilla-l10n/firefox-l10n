@@ -11,7 +11,6 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 <!ENTITY header.site.start               "Δικαιώματα για">
-<!ENTITY header.site.end                 "">
 
 <!ENTITY header.defaults                 "Προεπιλεγμένα δικαιώματα για όλες τις σελίδες">
 
@@ -41,7 +40,4 @@
 
 <!ENTITY popup.label                     "Άνοιγμα αναδυόμενων παραθύρων">
 
-<!ENTITY push.label                      "Receive Push Notifications">
-<!ENTITY camera.label                    "Use the Camera">
-<!ENTITY microphone.label                "Use the Microphone">
 

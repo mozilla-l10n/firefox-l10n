@@ -8,10 +8,8 @@
 
 <!-- LOCALIZATION NOTE (filterListSelectPlaceholder): This string is used as
    - a preview option in the list of possible filters <select> -->
-<!ENTITY filterListSelectPlaceholder "Select a Filter">
 
 <!-- LOCALIZATION NOTE (addNewFilterButton): This string is displayed on a button used to add new filters -->
-<!ENTITY addNewFilterButton "Add">
 
 <!-- LOCALIZATION NOTE (newPresetPlaceholder): This string is used as
    - a placeholder in the list of presets which is used to save a new preset -->

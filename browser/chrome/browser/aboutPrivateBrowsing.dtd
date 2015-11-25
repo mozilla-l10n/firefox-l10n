@@ -19,7 +19,6 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved    "Δεν θα αποθηκεύονται">
 <!ENTITY aboutPrivateBrowsing.info.history     "Ιστορικό">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Αναζητήσεις">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Προσωρινά αρχεία">
 
 <!ENTITY aboutPrivateBrowsing.info.saved       "Θα αποθηκεύονται">

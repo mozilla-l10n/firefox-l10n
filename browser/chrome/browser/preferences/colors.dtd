@@ -6,12 +6,7 @@
 <!ENTITY  window.width                    "44em">
 <!ENTITY  window.macWidth                 "44em">
 
-<!ENTITY  overridePageColors.label        "Override the colors specified by the page with my selections above:">
-<!ENTITY  overridePageColors.accesskey    "O">
 
-<!ENTITY  overridePageColors.always.label "Always">
-<!ENTITY  overridePageColors.auto.label   "Only with High Contrast themes">
-<!ENTITY  overridePageColors.never.label  "Never">
 
 <!ENTITY  color                           "Κείμενο και παρασκήνιο">
 <!ENTITY  textColor.label                 "Κείμενο:">

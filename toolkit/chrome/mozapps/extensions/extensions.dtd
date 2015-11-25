@@ -4,10 +4,8 @@
 <!ENTITY addons.windowTitle                   "Διαχείριση προσθέτων">
 
 <!ENTITY search.placeholder                   "Αναζήτηση σε όλα τα πρόσθετα">
-<!ENTITY search.buttonlabel                   "Search">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Φόρτωση…">
 <!ENTITY listEmpty.installed.label            "Δεν έχετε εγκατεστημένα πρόσθετα αυτού του τύπου">
@@ -23,8 +21,6 @@
 <!ENTITY cmd.back.tooltip                     "Μετάβαση πίσω μια σελίδα">
 <!ENTITY cmd.forward.tooltip                  "Μετάβαση μπροστά μια σελίδα">
 
-<!ENTITY showUnsignedExtensions.button.label  "Some extensions could not be verified">
-<!ENTITY showAllExtensions.button.label       "Show all extensions">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Όλα τα πρόσθετα έχουν απενεργοποιηθεί στην ασφαλή λειτουργία.">
@@ -105,8 +101,6 @@
 <!ENTITY cmd.installAddon.accesskey           "γ">
 <!ENTITY cmd.uninstallAddon.label             "Αφαίρεση">
 <!ENTITY cmd.uninstallAddon.accesskey         "φ">
-<!ENTITY cmd.debugAddon.label                 "Debug">
-<!ENTITY cmd.debugAddon.accesskey             "B">
 <!ENTITY cmd.showPreferencesWin.label         "Επιλογές">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Αλλαγή των επιλογών αυτού του προσθέτου">
 <!ENTITY cmd.showPreferencesUnix.label        "Προτιμήσεις">
@@ -217,8 +211,6 @@
 <!ENTITY addon.createdBy.label                "Από ">
 
 <!ENTITY eula.title                           "Συμφωνία άδειας χρήσης">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Αποδοχή και Εγκατάσταση…">
 
 <!ENTITY settings.path.button.label           "Περιήγηση…">
@@ -228,25 +220,11 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
-<!ENTITY experiment.info.learnmore "Learn More">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetry Settings">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Learn More…">
 
-<!ENTITY disabledUnsigned.heading "Some add-ons have been disabled">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "The following add-ons have not been verified for use in &brandShortName;. You can ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "find replacements">
-<!ENTITY disabledUnsigned.description.end " or ask the developer to get them verified.">
-<!ENTITY disabledUnsigned.learnMore "Learn more about our efforts to help keep you safe online.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Developers interested in getting their add-ons verified can continue by reading our ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
-<!ENTITY disabledUnsigned.devInfo.end ".">

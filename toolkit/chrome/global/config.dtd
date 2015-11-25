@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "about:config">
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
@@ -13,7 +12,6 @@
 
 <!ENTITY searchPrefs.label "Αναζήτηση:">
 <!ENTITY searchPrefs.accesskey "ζ">
-<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Προτιμήσεις">
@@ -26,7 +24,6 @@
 <!ENTITY columnChooser.tooltip "Πατήστε να επιλέξετε τις προς εμφάνιση στήλες"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Αντιγραφή">
 <!ENTITY copyPref.accesskey "γ">
 <!ENTITY copyName.label "Αντιγραφή ονόματος">
@@ -35,15 +32,11 @@
 <!ENTITY copyValue.accesskey "τ">
 <!ENTITY modify.label "Τροποποίηση">
 <!ENTITY modify.accesskey "ρ">
-<!ENTITY toggle.label "Toggle">
-<!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "Επαναφορά">
 <!ENTITY reset.accesskey "π">
 <!ENTITY new.label "Νέο">
 <!ENTITY new.accesskey "Ν">
 <!ENTITY string.label "Αλφαριθμητικό">
 <!ENTITY string.accesskey "λ">
-<!ENTITY integer.label "Integer">
 <!ENTITY integer.accesskey "">
-<!ENTITY boolean.label "Boolean">
 <!ENTITY boolean.accesskey "">

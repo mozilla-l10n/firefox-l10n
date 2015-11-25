@@ -50,8 +50,6 @@
 <!ENTITY netTimeout.title "Σφάλμα ορίου χρόνου">
 <!ENTITY netTimeout.longDesc "Ο περιηγητής δεν συνδέθηκε με την ιστοσελίδα λόγω υπέρβασης του χρονικού ορίου. Πιθανόν να υπάρχουν προβλήματα κίνησης στο δίκτυο. Περιμένετε λίγο και προσπαθήστε ξανά.">
 
-<!ENTITY unknownProtocolFound.title "Unknown Protocol">
-<!ENTITY unknownProtocolFound.longDesc "<p>The address specifies a protocol (e.g. <q>wxyz://</q>) the browser does not recognize, so the browser cannot properly connect to the site.</p><ul><li>Are you trying to access multimedia or other non-text services? Check the site for extra requirements.</li><li>Some protocols may require third-party software or plugins before the browser can recognize them.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Άρνηση σύνδεσης διαμεσολαβητή">
 <!ENTITY proxyConnectFailure.longDesc "<p>Η εφαρμογή είναι ρυθμισμένη να χρησιμοποιεί ένα διαμεσολαβητή, αλλά ο διαμεσολαβητής αρνήθηκε τη σύνδεση.</p><ul><li>Είναι σωστή η ρύθμιση του διαμεσολαβητή; Ελέγξτε τις ρυθμίσεις και προσπαθήστε ξανά.</li><li>Επιτρέπει ο διαμεσολαβητής συνδέσεις από αυτό το δίκτυο;</li><li>Ακόμα έχετε πρόβλημα; Συμβουλευτείτε το διαχειριστή του συστήματος ή τον πάροχο σας.</li></ul>">
@@ -81,10 +79,6 @@
 <p>Οι ιδιοκτήτες των ιστοσελίδων που πιστεύουν ότι η σελίδα τους έχει υποδειχθεί λανθασμένα ως κακόβουλη ιστοσελίδα μπορούν να ζητήσουν <a href='http://www.stopbadware.org/home/reviewinfo' >επανεξέταση</a>.</p>
 ">
 
-<!ENTITY unwantedBlocked.title "Suspected Unwanted Software Site!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Unwanted software pages try to install software that can be deceptive and affect your system in unexpected ways.</p>
-">
 
 <!ENTITY phishingBlocked.title "Σελίδα ύποπτη για πλαστογραφία!">
 <!ENTITY phishingBlocked.longDesc "
@@ -92,8 +86,6 @@
 <p>Αυτού του είδους οι πλαστογραφίες χρησιμοποιούνται σε απάτες γνωστές και ως phishing attacks, με τις οποίες οι ύποπτες σελίδες και emails προσπαθούν να μιμηθούν έμπιστες σε εσάς πηγές.</p>
 ">
 
-<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentError.title "Σφάλμα κατεστραμμένου περιεχομένου">
 <!ENTITY corruptedContentError.longDesc "<p>Δεν είναι δυνατή η εμφάνιση αυτής της σελίδας επειδή υπήρξε ένα σφάλμα στην μεταγωγή δεδομένων.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για το πρόβλημα.</li></ul>">

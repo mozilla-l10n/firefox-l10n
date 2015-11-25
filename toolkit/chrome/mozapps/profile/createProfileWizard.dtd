@@ -18,7 +18,6 @@
 <!ENTITY profilePrompt.label            "Εισάγετε ένα όνομα προφίλ">
 <!ENTITY profilePrompt.accesskey        "Ε">
 <!ENTITY profileDirectoryExplanation.text   "Οι ρυθμίσεις χρήστη, προτιμήσεις, σελιδοδείκτες και αλληλογραφία θα αποθηκευτούν σε:">
-<!ENTITY profileDefaultName             "Default User">
 <!ENTITY button.choosefolder.label      "Επιλογή φακέλου">
 <!ENTITY button.choosefolder.accesskey  "λ">
 <!ENTITY button.usedefault.label        "Χρήση προεπιλεγμένου φακέλου">
