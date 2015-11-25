@@ -15,7 +15,6 @@
 
 <!ENTITY  paneGeneral.title       "Γενικά">
 <!ENTITY  paneTabs.title          "Καρτέλες">
-<!ENTITY  paneSearch.title        "Search">
 <!ENTITY  paneContent.title       "Περιεχόμενο">
 <!ENTITY  paneApplications.title  "Εφαρμογές">
 <!ENTITY  panePrivacy.title       "Απόρρητο">
@@ -23,6 +22,4 @@
 <!ENTITY  paneAdvanced.title      "Για προχωρημένους">
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
 
-<!ENTITY  helpButton.label        "Help">

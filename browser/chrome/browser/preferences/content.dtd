@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Pop-ups">
 
 <!ENTITY  blockPopups.label           "Φραγή αναδυόμενων παραθύρων">
 <!ENTITY  blockPopups.accesskey       "Φ">
@@ -36,10 +35,6 @@
 <!ENTITY chooseButton.label           "Επιλογή...">
 <!ENTITY chooseButton.accesskey       "λ">
 
-<!ENTITY translateWebPages.label      "Translate web content">
-<!ENTITY translateWebPages.accesskey  "T">
-<!ENTITY translateExceptions.label    "Exceptions…">
-<!ENTITY translateExceptions.accesskey "x">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -48,11 +43,5 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-<!ENTITY translation.options.attribution.beforeLogo "Translations by">
-<!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM content">
 
-<!ENTITY  playDRMContent.label         "Play DRM content">
-<!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "Learn more">

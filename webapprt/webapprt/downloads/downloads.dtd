@@ -5,45 +5,24 @@
 <!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
 close to the golden ratio (1.618:1) while making sure it's wide enough for long
 file names and tall enough to hint that there are more downloads in the list -->
-<!ENTITY window.width2                    "485">
-<!ENTITY window.height                    "300"> 
+ 
 
-<!ENTITY starting.label                   "Starting…">
 <!ENTITY scanning.label                   "Έλεγχος για ιούς…">
 
 <!ENTITY downloads.title                  "Λήψεις">
 
 <!ENTITY cmd.pause.label                  "Παύση">
-<!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Συνέχεια">
-<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Ακύρωση">
-<!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.show.label                   "Άνοιγμα φακέλου λήψης">
-<!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "Show in Finder">
-<!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Άνοιγμα">
-<!ENTITY cmd.open.accesskey               "O">
 <!ENTITY cmd.openWith.label               "Άνοιγμα με…">
-<!ENTITY cmd.openWith.accesskey           "h">
-<!ENTITY cmd.retry.label                  "Retry">
-<!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "Μετάβαση στην σελίδα λήψης">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "Αντιγραφή δεσμού λήψης">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromList.label         "Απομάκρυνση από τη λίστα">
-<!ENTITY cmd.removeFromList.accesskey     "e">
 
-<!ENTITY cmd.close.commandKey             "w">
-<!ENTITY cmd.close2.commandKey            "j">
-<!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Εκκαθάριση λίστας">
 <!ENTITY cmd.clearList.tooltip            "Θα απομακρυνθούν ολοκληρωμένες, ακυρωθείσες και αποτυχημένες λήψεις αρχείων από τη λίστα">
-<!ENTITY cmd.clearList.accesskey          "C">
-<!ENTITY cmd.find.commandKey              "f">
-<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Κλείσιμο όταν ολοκληρωθούν οι λήψεις">
 <!ENTITY closeWhenDone.tooltip            "Κλείσιμο του παραθύρου λήψεων όταν ολοκληρωθεί η λήψη όλων των αρχείων">

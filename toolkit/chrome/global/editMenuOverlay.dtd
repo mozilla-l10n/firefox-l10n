@@ -3,33 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "Επεξεργασία">
-<!ENTITY editMenu.accesskey        "e">
 <!ENTITY undoCmd.label             "Αναίρεση">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "u">
-<!ENTITY redoCmd.label             "Redo">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "r">
 <!ENTITY cutCmd.label              "Αποκοπή">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Αντιγραφή">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "c">
 <!ENTITY pasteCmd.label            "Επικόλληση">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Διαγραφή">
-<!ENTITY deleteCmd.accesskey       "d">
 <!ENTITY selectAllCmd.label        "Επιλογή όλων">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "a">
 <!ENTITY findCmd.label             "Εύρεση">
-<!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "F">
-<!ENTITY findAgainCmd.label        "Find Again">
-<!ENTITY findAgainCmd.key          "G">
-<!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "Find Previous">
-<!ENTITY findPreviousCmd.accesskey "v">

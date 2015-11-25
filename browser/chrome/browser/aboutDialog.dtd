@@ -22,7 +22,6 @@
 <!ENTITY warningDesc.telemetryDesc  "Στέλνει αυτόματα πληροφορίες επιδόσεων, υλικού, χρήσης και προσαρμογών πίσω στο &vendorShortName; για να βοηθήσετε να γίνει ο &brandShortName; καλύτερος.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
-<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "Ο &vendorShortName;">
 <!ENTITY community.exp.middle       " είναι μια  ">
@@ -32,7 +31,6 @@
 
 <!ENTITY community.start2           "Ο &brandShortName; δημιουργήθηκε από το ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", μια ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "παγκόσμια κοινότητα">
@@ -44,7 +42,6 @@
 <!ENTITY helpus.middle              "ή">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "συμμετέχετε εθελοντικά!">
-<!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Πληροφορίες άδειας">
@@ -71,14 +68,12 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Αποτυχία ενημέρωσης. ">
 <!ENTITY update.failed.linkText     "Κατεβάστε την τελευταία έκδοση">
-<!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.manual.start        "Υπάρχουν διαθέσιμες ενημερώσεις στο ">
-<!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -88,7 +83,6 @@
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "Δεν μπορείτε να προχωρήσετε σε περαιτέρω ενημερώσεις σε αυτό το σύστημα. ">
 <!ENTITY update.unsupported.linkText "Μάθετε περισσότερα">
-<!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -96,7 +90,6 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Λήψη ενημέρωσης σε εξέλιξη — ">
-<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Εφαρμογή ενημέρωσης…">
 

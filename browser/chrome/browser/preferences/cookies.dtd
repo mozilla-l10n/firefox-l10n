@@ -11,9 +11,6 @@
   The label associated with this accesskey can be found in 
   preferences.properties as removeSelectedCookies.
 -->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "Remove All">
-<!ENTITY     button.removeAllCookies.accesskey "A">
 
 <!ENTITY     props.name.label               "Όνομα:">
 <!ENTITY     props.value.label              "Περιεχόμενο:">
@@ -22,10 +19,6 @@
 <!ENTITY     props.secure.label             "Στάλθηκε για:">
 <!ENTITY     props.expires.label            "Λήγει:">
 
-<!ENTITY     window.title                   "Cookies">
-<!ENTITY     windowClose.key                "w">
-<!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     filter.label                   "Αναζήτηση:">
 <!ENTITY     filter.accesskey               "ζ">

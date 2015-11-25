@@ -7,7 +7,6 @@
 <!ENTITY search.buttonlabel                   "Αναζήτηση">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Φόρτωση…">
 <!ENTITY listEmpty.installed.label            "Δεν έχετε εγκατεστημένα πρόσθετα αυτού του τύπου">
@@ -23,7 +22,6 @@
 <!ENTITY cmd.back.tooltip                     "Μετάβαση πίσω μια σελίδα">
 <!ENTITY cmd.forward.tooltip                  "Μετάβαση μπροστά μια σελίδα">
 
-<!ENTITY showUnsignedExtensions.button.label  "Some extensions could not be verified">
 <!ENTITY showAllExtensions.button.label       "Εμφάνιση όλων των επεκτάσεων">
 
 <!-- global warnings -->
@@ -105,8 +103,6 @@
 <!ENTITY cmd.installAddon.accesskey           "γ">
 <!ENTITY cmd.uninstallAddon.label             "Αφαίρεση">
 <!ENTITY cmd.uninstallAddon.accesskey         "φ">
-<!ENTITY cmd.debugAddon.label                 "Debug">
-<!ENTITY cmd.debugAddon.accesskey             "B">
 <!ENTITY cmd.showPreferencesWin.label         "Επιλογές">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Αλλαγή των επιλογών αυτού του προσθέτου">
 <!ENTITY cmd.showPreferencesUnix.label        "Προτιμήσεις">
@@ -217,8 +213,6 @@
 <!ENTITY addon.createdBy.label                "Από ">
 
 <!ENTITY eula.title                           "Συμφωνία άδειας χρήσης">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Αποδοχή και Εγκατάσταση…">
 
 <!ENTITY settings.path.button.label           "Περιήγηση…">
@@ -228,11 +222,7 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
 <!ENTITY experiment.info.learnmore "Μάθετε περισσότερα">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetry Settings">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Μάθετε περισσότερα…">
 
@@ -240,13 +230,10 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "The following add-ons have not been verified for use in &brandShortName;. You can ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "βρείτε υποκατάστατα">
 <!ENTITY disabledUnsigned.description.end " ή ζητήστε από τους προγραμματιστές να επαληθεύσουν την εφαρμογή.">
-<!ENTITY disabledUnsigned.learnMore "Learn more about our efforts to help keep you safe online.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.start "Οι προγραμματιστές που ενδιαφέρονται να επαληθεύσουν τα πρόσθετά τους, μπορούν να απευθυνθούν στο ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "εγχειρίδιο">
-<!ENTITY disabledUnsigned.devInfo.end ".">

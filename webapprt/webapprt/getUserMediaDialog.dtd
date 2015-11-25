@@ -5,11 +5,7 @@
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
 
-<!ENTITY getUserMediaDialog.title                   "Media Sharing">
-<!ENTITY getUserMediaDialog.button.accept.label     "Share">
-<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
 <!ENTITY getUserMediaDialog.button.cancel.label     "Ακύρωση">
-<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
 <!ENTITY getUserMediaDialog.video.label             "Επιλογή κάμερας">
 <!ENTITY getUserMediaDialog.video.noVideo           "Χωρίς βίντεο">
