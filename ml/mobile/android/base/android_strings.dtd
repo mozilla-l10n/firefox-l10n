@@ -155,7 +155,7 @@
 <!ENTITY pref_category_display "പ്രദര്‍ശനം">
 
 <!ENTITY pref_category_privacy_short "സ്വകാര്യത">
-
+<!ENTITY pref_category_privacy_summary2 "പ്രവേശനങ്ങള്‍, കുക്കീകള്‍, നിരീക്ഷിക്കല്‍, ഡാറ്റ എന്നിവയെ നിയന്ത്രിക്കൂ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;-നെ സംബന്ധിച്ച്, സ്ഥിരം ചോദ്യങ്ങള്‍, ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
 <!ENTITY pref_category_datareporting "ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
@@ -173,12 +173,12 @@
 <!ENTITY pref_search_hint "സഹായി: തിരച്ചില്‍ സഹായികളുടെ പട്ടികയിലേക്ക് ഏത് വെബ്സൈറ്റ് ചേര്‍ക്കണമെങ്കിലും തിരച്ചിലിനുള്ള ഫീല്‍ഡില്‍ ദീര്‍ഘനേരം അമര്‍ത്തിപിടിച്ച് &formatI; ഐക്കണില്‍ ഞെക്കുക.">
 <!ENTITY pref_category_devtools "ഡെവലപ്പര്‍ ഉപകരണങ്ങള്‍">
 <!ENTITY pref_developer_remotedebugging "വിദൂര ഡീബഗ്ഗിങ്">
-
-
-
+<!ENTITY pref_developer_remotedebugging_usb "യു എസ് ബി വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
+<!ENTITY pref_developer_remotedebugging_wifi "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗിനു താങ്കളുടെ ഡിവൈസില്‍ ക്യുആര്‍ കോഡ് റീഡര്‍ ആപ്പ് ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടതുണ്ട്.">
 <!ENTITY pref_category_logins "പ്രവേശനങ്ങള്‍">
-
-
+<!ENTITY pref_remember_signons2 "പ്രവേശനങ്ങള്‍ ഓര്‍മിക്കുക">
+<!ENTITY pref_open_external_urls_privately_title "ലിങ്കുകള്‍ സ്വകാര്യ ബ്രൌസിംഗിലായി തുറക്കുക">
 
 <!ENTITY pref_manage_logins "പ്രവേശനങ്ങള്‍ കൈകാര്യം ചെയ്യുക">
 
@@ -199,30 +199,32 @@
 <!ENTITY pref_home_suggested_sites_summary "താങ്കൾക്ക് ഇഷ്ടപ്പെടും എന്ന് ഞങ്ങൾ കരുതുന്ന സൈറ്റുകളിലേക്കുള്ള കുറുക്കുവഴികൾ പൂമുഖത്താളില്‍ കാണിക്കൂ">
 
 
-
+<!ENTITY home_homepage_use_current_tab "നിലവിലുള്ള ടാബ് ഉപയോഗിക്കുക">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "യഥേഷ്ടമാക്കുക">
-
-
+<!ENTITY pref_header_display "പ്രദര്‍ശനം">
+<!ENTITY pref_header_privacy_short "സ്വകാര്യത">
 <!ENTITY pref_header_help "സഹായം">
-
-
-
+<!ENTITY pref_header_language "ഭാഷ">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "ഡെവലപ്പര്‍ ഉപകരണങ്ങള്‍">
 
 <!ENTITY pref_cookies_menu "കുക്കികള്‍ ">
-
+<!ENTITY pref_cookies_accept_all "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
 <!ENTITY pref_cookies_not_accept_foreign "മൂന്നാം കക്ഷിയെ ഒഴിവാക്കി, പ്രവര്‍ത്തനസജ്ജമാക്കി">
 <!ENTITY pref_cookies_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
 
 
 
+<!ENTITY pref_tracking_protection_title "നിരീക്ഷണ സുരക്ഷ">
 
 <!ENTITY pref_donottrack_title "നിരീക്ഷിയ്ക്കേണ്ട">
+<!ENTITY pref_donottrack_summary "&brandShortName; നിങ്ങള്‍ നിരീക്ഷിക്കപ്പെടാന്‍ ആഗ്രഹിക്കുന്നില്ല എന്ന് വെബ്സൈറ്റുകളോട് പറയും">
 
+<!ENTITY pref_tracking_protection_enabled "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
 
-
-
+<!ENTITY pref_tracking_protection_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
 
 
 
@@ -230,9 +232,9 @@
 
 <!ENTITY tab_queue_toast_action "ഇപ്പോൾ തുറക്കുക">
 
+<!ENTITY tab_queue_prompt_text4 "അടുത്ത തവണ &brandShortName; തുറക്കുന്നത് വരെ അവയെ സൂക്ഷിക്കുക.">
 
-
-
+<!ENTITY tab_queue_prompt_positive_action_button "പ്രവര്‍ത്തന സജ്ജമാക്കുക">
 
 
 <!-- Localization note (tab_queue_notification_text_plural2) : The
@@ -241,6 +243,7 @@
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "ഒരു ടാബ് കാത്തിരിക്കുന്നു">
 
 <!ENTITY pref_char_encoding "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
 <!ENTITY pref_char_encoding_on "മെനു കാണിക്കുക">
@@ -251,9 +254,9 @@
 
 <!ENTITY pref_clear_on_exit_dialog_title "വെടിപ്പാക്കേണ്ട ഡേറ്റാ തെരഞ്ഞെടുക്കൂ">
 <!ENTITY pref_plugins "പ്ലഗിനുകള്‍">
-
+<!ENTITY pref_plugins_enabled "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
 <!ENTITY pref_plugins_tap_to_play "കളിക്കാൻ തട്ടൂ">
-
+<!ENTITY pref_plugins_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
 <!ENTITY pref_text_size "അക്ഷര വലുപ്പം">
 <!ENTITY pref_restore "ടാബുകള്‍">
 <!ENTITY pref_restore_always "എപ്പോഴും പഴയപടിയാക്കുക">
@@ -276,30 +279,30 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "ഓട്ടോപ്ലേ അനുവദിക്കുക">
 
+<!ENTITY pref_zoom_force_enabled "ഇപ്പോഴും സൂം പ്രവര്‍ത്തനസജ്ജമാക്കുക">
 
 
 
-
-
+<!ENTITY pref_qrcode_enabled "ക്യുആര്‍ കോഡ് റീഡര്‍">
 
 
 <!ENTITY pref_use_master_password "ഒരു പ്രധാന രഹസ്യവാക്ക് ഉപയോഗിക്കുക">
 <!ENTITY pref_sync "സിന്‍ക്">
 
 <!ENTITY pref_search_suggestions "തിരയല്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുക">
-
+<!ENTITY pref_history_search_suggestions "തെരച്ചില്‍ നടത്തിയ നാള്‍വഴി കാണിക്കുക">
 <!ENTITY pref_import_android "ആന്‍ഡ്രോയിഡില്‍ നിന്ന് ഇറക്കുമതി ചെയ്യുക">
 
 <!ENTITY pref_private_data_history2 "ബ്രൌസ് ചെയ്ത വെബ്സൈറ്റുകള്‍">
 
 
 <!ENTITY pref_private_data_cookies2 "സജീവമായ ലോഗിനുകളും  കൂക്കികളും">
-
+<!ENTITY pref_private_data_passwords2 "സൂക്ഷിച്ചിട്ടുള്ള പ്രവേശനങ്ങള്‍">
 <!ENTITY pref_private_data_cache "കാഷ്">
 <!ENTITY pref_private_data_offlineApps "ഓഫ്‌ലൈന്‍ വെബ്സൈറ്റ് ഡേറ്റ">
 <!ENTITY pref_private_data_siteSettings2 "വെബ്സൈറ്റ് സജ്ജീകരണങ്ങള്‍">
 <!ENTITY pref_private_data_downloadFiles2 "ഡൌണ്‍ലോഡുകള്‍">
-
+<!ENTITY pref_private_data_syncedTabs "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
 
 
 <!ENTITY pref_about_firefox "&brandShortName;-നെ സംബന്ധിച്ച്">
@@ -346,16 +349,18 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "പുതിയ പതിപ്പുകള്‍ തനിയെ ഡൗണ്‍ലോഡ് ചെയ്യുക">
-
+<!ENTITY pref_update_autodownload_wifi "വൈ-ഫൈ വഴി മാത്രം">
 <!ENTITY pref_update_autodownload_never "ഒരിക്കലുമില്ല">
 <!ENTITY pref_update_autodownload_always "എപ്പോഴും">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "സഹായം">
+
 <!ENTITY quit "പുറത്തു കടക്കുക">
 
 <!ENTITY addons "ആഡ്-ഓണുകള്‍">
-
-
+<!ENTITY logins "പ്രവേശനങ്ങള്‍">
+<!ENTITY downloads "ഡൌണ്‍ലോഡുകള്‍">
 <!ENTITY char_encoding "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
 
 <!ENTITY share "പങ്കിടുക">
@@ -371,7 +376,7 @@ size. -->
 <!ENTITY new_private_tab "പുതിയ സ്വകാര്യ ടാബ്">
 <!ENTITY close_all_tabs "എല്ലാ ടാബും അടക്കുക">
 <!ENTITY close_private_tabs "സ്വകാര്യ റ്റാബുകള്‍ അടയ്ക്കൂ">
-
+<!ENTITY tabs_normal "ടാബുകള്‍">
 <!ENTITY tabs_private "സ്വകാര്യം">
 <!ENTITY tabs_synced "സിങ്ക് ചെയ്തു">
 <!ENTITY set_image_fail "ചിത്രം ചേര്‍ക്കാന്‍ കഴിഞ്ഞില്ല">
@@ -380,43 +385,45 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "മുമ്പു്">
-
-
+<!ENTITY find_next "അടുത്തതു്">
+<!ENTITY find_close "അടക്കുക">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "ഡിവൈസിലേക്കു് അയക്കുന്നു">
 <!ENTITY media_play "പ്ലെ ചെയ്യുക">
 <!ENTITY media_pause "തല്‍ക്കാലത്തേക്കു് നിര്‍ത്തിയിരിയ്ക്കുന്നു">
-
+<!ENTITY media_stop "നിര്‍ത്തുക">
 
 <!ENTITY contextmenu_open_new_tab "പുതിയ ടാബില്‍ തുറക്കുക">
 <!ENTITY contextmenu_open_private_tab "സ്വകാര്യ ടാബിൽ തുറക്കുക">
-
+<!ENTITY contextmenu_remove "ഒഴിവാക്കുക">
 <!ENTITY contextmenu_add_to_launcher "ആസ്ഥന താളിലേക്കു് ചേര്‍ക്കൂ">
-
+<!ENTITY contextmenu_share "പങ്കിടുക">
 <!ENTITY contextmenu_pasteandgo "ഒട്ടിച്ച് തുടരുക">
 <!ENTITY contextmenu_paste "ഒട്ടിക്കുക">
 <!ENTITY contextmenu_copyurl "വിലാസം പകര്‍ത്തുക">
 <!ENTITY contextmenu_edit_bookmark "തിരുത്തുക">
 <!ENTITY contextmenu_subscribe "ഈ താളില്‍ അംഗമാകുക">
 <!ENTITY contextmenu_site_settings "സൈറ്റ് സജ്ജീകരണങ്ങളില്‍ മാറ്റം വരുത്തുക">
-
+<!ENTITY contextmenu_top_sites_edit "തിരുത്തുക">
 <!ENTITY contextmenu_top_sites_pin "സൈറ്റ് ചേര്‍ക്കുക">
 <!ENTITY contextmenu_top_sites_unpin "സൈറ്റ് ഉപേക്ഷിയ്ക്കുക">
 <!ENTITY contextmenu_add_search_engine "തെരച്ചിലിനുള്ള പ്രയോഗം ചേര്‍ക്കുക">
-
-
+<!ENTITY contextmenu_mark_read "വായിച്ചതായി അടയാളപ്പെടുത്തുക">
+<!ENTITY contextmenu_mark_unread "വായിക്കാത്തതായി അടയാളപ്പെടുത്തുക">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_edit_username_hint "ഉപയോക്തൃനാമം ">
+<!ENTITY doorhanger_login_edit_password_hint "രഹസ്യവാക്ക്">
+<!ENTITY doorhanger_login_edit_toggle "രഹസ്യവാക്ക് കാണിയ്ക്കുക">
+<!ENTITY doorhanger_login_edit_toast_error "പ്രവേശനം സൂക്ഷിക്കുവാന്‍ പരാജയപ്പെട്ടു">
+<!ENTITY doorhanger_login_select_message "&formatS; ല്‍ നിന്ന്‍ രഹസ്യവാക്ക് പകര്‍ത്തണോ?">
 
-
-
-
-
-
-
+<!ENTITY doorhanger_login_select_toast_copy_error "രഹസ്യവാക്ക് പകര്‍ത്തുവാന്‍ കഴിഞ്ഞില്ല">
+<!ENTITY doorhanger_login_select_action_text "മറ്റൊരു പ്രവേശനം തിരഞ്ഞെടുക്കുക">
 
 
 <!ENTITY pref_titlebar_mode "തലക്കെട്ട് പട്ട">
@@ -444,11 +451,13 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "വെബ്സൈറ്റ് സജ്ജീകരണങ്ങള്‍">
-
+<!ENTITY site_settings_cancel       "റദ്ദാക്കുക">
 <!ENTITY site_settings_clear        "വൃത്തിയാക്കുക">
 <!ENTITY site_settings_no_settings  "വൃത്തിയാക്കാന്‍ സജ്ജീകരണങ്ങള്‍ ഒന്നുമില്ല.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "വായനാ പട്ടികയിലേക്ക് ചേര്‍ത്തി">
 <!ENTITY reading_list_removed "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ നിന്നും നീക്കം ചെയ്തു">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -467,7 +476,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "പ്രധാന പാസ്‌വേഡ്‌ നിര്‍മ്മിക്കുക">
 <!ENTITY masterpassword_remove_title "പ്രധാന പാസ്‌വേഡ്‌ നീക്കം ചെയ്യുക">
-
+<!ENTITY masterpassword_password "രഹസ്യവാക്ക്">
 <!ENTITY masterpassword_confirm "രഹസ്യവാക്ക് സ്ഥിരീകരിക്കുക">
 
 <!ENTITY button_ok "ശരി">
@@ -487,7 +496,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; ആസ്ഥാനം">
-
+<!ENTITY home_history_title "നാള്‍വഴി">
 <!ENTITY home_clear_history_button "ബ്രൗസിങ്ങ് നാൾവഴി വെടിപ്പാക്കുക">
 <!ENTITY home_clear_history_confirm "നാള്‍വഴി മായ്ക്കട്ടെ?">
 <!ENTITY home_bookmarks_empty "നിങ്ങൾ സൂക്ഷിച്ച അടയാളക്കുറിപ്പുകള്‍ ഇവിടെ കാണിക്കുക">
@@ -520,17 +529,19 @@ size. -->
 <!ENTITY home_remote_tabs_title "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
 
 <!ENTITY home_remote_tabs_unable_to_connect "കണക്ട്‌ ചെയ്യുവാന്‍ സാധിച്ചില്ല">
+<!ENTITY home_remote_tabs_need_to_sign_in "സിങ്കിംഗ് തുടരുവാന്‍ താങ്കളുടെ ഫയര്‍ഫോക്സ് അക്കൗണ്ടിലെക്ക് പ്രവേശിക്കുക.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "താങ്കളുടെ പുതിയ ഫയര്‍ഫോക്സ് അക്കൗണ്ട്‌ തയ്യാറായി!">
 
 
 
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 ഡിവൈസ് മറഞ്ഞിരിക്കുന്നു">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "മറഞ്ഞിരിക്കുന്ന ഡിവൈസുകള്‍">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
@@ -539,6 +550,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "സൂചകപദം നല്‍കു">
 
+<!ENTITY filepicker_title "ഫയല്‍ തിരഞ്ഞെടുക്കുക">
 <!ENTITY filepicker_audio_title "ഒരു ഒച്ച തിരഞ്ഞെടുക്കുകയോ റിക്കാര്‍ഡാക്കുകയോ ചെയ്യുക">
 <!ENTITY filepicker_image_title "ഒരു ചിത്രം തിരഞ്ഞെടുക്കുകയോ എടുക്കുകയോ ചെയ്യുക">
 <!ENTITY filepicker_video_title "ഒരു വീഡീയോ തിരഞ്ഞെടുക്കുകയോ റിക്കാര്‍ഡാക്കുകയോ ചെയ്യുക">
@@ -556,11 +568,14 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
-
+<!ENTITY identity_connection_secure "സുരക്ഷിതമായ കണക്ഷന്‍">
+<!ENTITY identity_connection_insecure "സുരക്ഷിതമല്ലാത്ത കണക്ഷന്‍">
+<!ENTITY identity_login_insecure "ഈ താള്‍ സുരക്ഷിതമല്ല കൂടാതെ താങ്കളുടെ പ്രവേശനം ഭേദിക്കപ്പെട്ടേക്കാം.">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY mixed_content_blocked_all1 "ഈ താളിലെ സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കം &brandShortName; തടഞ്ഞിട്ടുണ്ട്.">
+<!ENTITY mixed_content_blocked_some1 "ഈ താളിലെ സുരക്ഷിതമല്ലാത്ത കുറച്ച് ഉള്ളടക്കം &brandShortName; തടഞ്ഞിട്ടുണ്ട്.">
+<!ENTITY mixed_content_display_loaded1 "ഈ താളിലെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ല (ചിത്രങ്ങള്‍ മുതലായവ).">
 
 <!-- Tracking content notifications in site identity popup -->
 
