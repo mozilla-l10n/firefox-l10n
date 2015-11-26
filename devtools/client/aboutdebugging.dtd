@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons "Componenti aggiuntivi">
 <!ENTITY aboutDebugging.addonDebugging.label "Attiva debug componenti aggiuntivi">
 <!ENTITY aboutDebugging.addonDebugging.tooltip "Attivando questa opzione è possibile effettuare il debug di componenti aggiuntivi e altre parti chrome del browser">
+<!ENTITY aboutDebugging.loadTemporaryAddon "Carica componenti aggiuntivi temporanei">
 <!ENTITY aboutDebugging.workers "Worker">
