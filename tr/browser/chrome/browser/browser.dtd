@@ -589,9 +589,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailAudioCmd.label          "Sesi e-posta ile gönder…">
 <!ENTITY emailAudioCmd.accesskey      "ö">
 <!ENTITY playPluginCmd.label          "Bu yan uygulamayı etkinleştir">
-<!ENTITY playPluginCmd.accesskey      "e">
+<!ENTITY playPluginCmd.accesskey      "B">
 <!ENTITY hidePluginCmd.label          "Bu yan uygulamayı gizle">
-<!ENTITY hidePluginCmd.accesskey      "g">
+<!ENTITY hidePluginCmd.accesskey      "u">
 <!ENTITY copyLinkCmd.label            "Bağlantı konumunu kopyala">
 <!ENTITY copyLinkCmd.accesskey        "B">
 <!ENTITY copyImageCmd.label           "Resim konumunu kopyala">
