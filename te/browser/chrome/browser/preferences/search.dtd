@@ -23,7 +23,8 @@
 <!ENTITY engineNameColumn.label                "శోధన యంత్రం">
 <!ENTITY engineKeywordColumn.label             "కీపదం">
 
-
+<!ENTITY restoreDefaultSearchEngines.label     "అప్రమేయ శోధన యంత్రాలను పునరుద్ధరించు">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
 <!ENTITY removeEngine.label                    "తీసివేయి">
 <!ENTITY removeEngine.accesskey                "R">
