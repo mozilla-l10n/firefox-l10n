@@ -251,7 +251,7 @@
 <!ENTITY pref_clear_private_data2 "ഇപ്പോള്‍ മായ്ക്കുക">
 <!ENTITY pref_clear_private_data_category "സ്വകാര്യവിവരങ്ങള്‍ നീക്കം ചെയ്യുക">
 
-
+<!ENTITY pref_clear_on_exit_summary2 "മെയിന്‍ മെനുവില്‍ നിന്നും \u0022പുറത്തു് കടക്കൂ\u0022 എന്നതെടുക്കുമ്പോള്‍ &brandShortName; നിങ്ങളുടെ ഉപയോഗവിവരങ്ങള്‍ സ്വയം നീക്കം ചെയ്യും.">
 <!ENTITY pref_clear_on_exit_dialog_title "വെടിപ്പാക്കേണ്ട ഡേറ്റാ തെരഞ്ഞെടുക്കൂ">
 <!ENTITY pref_plugins "പ്ലഗിനുകള്‍">
 <!ENTITY pref_plugins_enabled "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
