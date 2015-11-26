@@ -153,7 +153,7 @@
 <!ENTITY pref_category_privacy_short "സ്വകാര്യത">
 
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "&brandShortName;-നെ സംബന്ധിച്ച്, സ്ഥിരം ചോദ്യങ്ങള്‍, ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
 <!ENTITY pref_category_datareporting "ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
 <!ENTITY pref_learn_more "കൂടുതല്‍ അറിയുക">
 <!ENTITY pref_category_installed_search_engines "ഇന്‍സ്റ്റാള്‍ ചെയ്തിരിക്കുന്ന തിരയല്‍ യന്ത്രങ്ങള്‍">

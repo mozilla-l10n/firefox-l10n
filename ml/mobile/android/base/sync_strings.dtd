@@ -218,10 +218,11 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "സേവന നിബന്ധനകള്‍">
 <!ENTITY fxaccount_status_linkprivacy "സ്വകാര്യ അറിയിപ്പു്">
+<!ENTITY fxaccount_status_more "കൂടുതല്‍&ellipsis;">
 
 
-
-
+<!ENTITY fxaccount_remove_account_dialog_title "ഫയര്‍ഫോക്സ് അക്കൌണ്ട് നീക്കം ചെയ്യണമോ?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; താങ്കളുടെ അക്കൗണ്ടുമായി സിന്‍ക് ചെയ്യുന്നത് നിലയ്ക്കും, പക്ഷെ ഈ ഡിവൈസിലുള്ള താങ്കളുടെ ബ്രൗസിങ്ങ് വിവരങ്ങള്‍ വെട്ടി നീക്കില്ല.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 
