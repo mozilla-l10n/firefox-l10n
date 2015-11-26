@@ -28,7 +28,7 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "ఇష్టాంశాలు">
 
 <!ENTITY aboutPrivateBrowsing.note1            "మీరు ఏయే పేజీలు చూసారో ఇప్పటికీ మీ యాజమాన్యం లేదా మీ అంతర్జాల సేవాదారు తెలుసుకోగలరని గమనించండి.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "మరింతగా నేర్చుకో.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "ఇంకా తెలుసుకోండి.">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
      disabled indicator or the words in the title to wrap to the next line, but
