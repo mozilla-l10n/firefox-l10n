@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Standert">
 <!ENTITY smtpListSetDefault.accesskey "S">
 
+<!ENTITY serverDetails.label "Details fan selektearre tsjinner:">
 <!ENTITY serverDescription.label "Omskriuwing: ">
 <!ENTITY serverName.label "Tsjinnernamme: ">
 <!ENTITY serverPort.label "Poarte: ">
