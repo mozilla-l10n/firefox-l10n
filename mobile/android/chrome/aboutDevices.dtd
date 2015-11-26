@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDevices.title              "ഉപകരണങ്ങൾ">
-<!ENTITY aboutDevices.header             "നിങ്ങളുടെ ഉപകരണങ്ങള്‍">
+<!ENTITY aboutDevices.header             "താങ്കളുടെ ഉപകരണങ്ങൾ">
 <!ENTITY aboutDevices.refresh            "പുതുക്കുക">
-<!ENTITY aboutDevices.addDeviceHeader    "ഒരു ഉപകരണം ചേർക്കൂ">
+<!ENTITY aboutDevices.addDeviceHeader    "ഒരു ഉപകരണം ചേർക്കുക">
 <!ENTITY aboutDevices.roku               "റോകു">
 <!ENTITY aboutDevices.chromecast         "ക്രോംകാസ്റ്റ്">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
