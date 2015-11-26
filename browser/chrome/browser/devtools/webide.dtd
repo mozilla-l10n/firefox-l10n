@@ -134,9 +134,11 @@
 <!ENTITY prefs_options_autocomplete "Autofoltôgje">
 <!ENTITY prefs_options_autocomplete_tooltip "Automatysk koadeoanfolling ynskeakelje">
 <!ENTITY prefs_options_autoclosebrackets "Haakjes automatysk slute">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Automatysk slúthaakjes ynfoegje">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Automatysk slútheakjes ynfoegje">
 <!ENTITY prefs_options_keybindings "Fluchtoetsen">
 <!ENTITY prefs_options_keybindings_default "Standert">
+<!ENTITY prefs_options_autosavefiles "Bestannen automatysk bewarje">
+<!ENTITY prefs_options_autosavefiles_tooltip "Bewurke bestannen automatysk bewarje foar útfieren fan projekt">
 
 <!-- Permissions Table -->
 <!ENTITY permissionstable_title "Machtigingentabel">
