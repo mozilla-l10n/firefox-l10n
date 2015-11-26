@@ -438,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "ঠিকানা দিন অথবা অনুসন্ধান করুন">
+<!ENTITY urlbar.placeholder2          "অনুসন্ধান বা ঠিকানা দিন">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ট্যাবে যান:">
 
