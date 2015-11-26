@@ -223,6 +223,7 @@
 <!ENTITY fxaccount_status_linktos 'Pogoji uporabe'>
 <!ENTITY fxaccount_status_linkprivacy 'Obvestilo o zasebnosti'>
 <!ENTITY fxaccount_status_more 'Več &ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Odklopi &ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Odstranim Firefox Račun?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; se bo prenehal sinhronizirati z vašim računom, vendar ne bo izbrisal podatkov o brskanju na tej napravi.'>

@@ -13,6 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Ne uporabljate zasebnega brskanja">
 
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; zavrača dele strani, ki lahko sledijo vaši dejavnosti na spletu.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Ne bomo si zapomnili nobene zgodovine, prenesene datoteke in novi zaznamki pa bodo ostali shranjeni na vaši napravi.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
