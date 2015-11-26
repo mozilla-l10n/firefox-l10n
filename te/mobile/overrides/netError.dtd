@@ -42,7 +42,7 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName;ఏదోఒక కారణం వలన ఈ పేజీని లోడు చేయలేకపోతోంది.</p>">
 
-<!ENTITY malformedURI.title "ఈచిరునామా సరైనిది కాదు">
+<!ENTITY malformedURI.title "ఈ చిరునామా సరైనది కాదు">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "<ul> 
