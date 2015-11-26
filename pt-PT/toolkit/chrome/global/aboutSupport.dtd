@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Informações sobre resolução de problemas">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "Esta página contém as informações técnicas que podem ser úteis para o ajudar 
+<!ENTITY aboutSupport.pageSubtitle "  Esta página contém as informações técnicas que podem ser úteis para o ajudar 
 a tentar resolver um problema. Se estiver à procura de respostas a questões comuns 
 sobre o &brandShortName;, aceda ao nosso <a id='supportLink'>website de apoio</a>.">
 
