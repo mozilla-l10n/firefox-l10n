@@ -13,6 +13,7 @@
 <!ENTITY  onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
 <!ENTITY firstrun_button_next "അടുത്ത">
 
+<!ENTITY  onboard_start_restricted1 "&brandShortName; ന്‍റെ ഈ ലളിതമാക്കിയ പതിപ്പ് വഴി സുരക്ഷിതമായും നിയന്ത്രണത്തിലായും തുടരൂ.">
 
 <!ENTITY firstrun_import_title "ഇംപോര്‍ട്ട് ചെയ്യുക">
 <!ENTITY firstrun_import_message "&brandShortName; -ലേക്ക് സ്വാഗതം">
@@ -147,6 +148,9 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "കണക്റ്റ് ചെയ്ത മറ്റൊരു ഡിവൈസിലേക്ക് ഈ ടാബ് അയക്കുക">
+
+<!ENTITY pref_category_search3 "തെരയുക">
 <!ENTITY pref_category_search_summary "തിരയല്‍ സേവന ദാതാക്കളെ ഇഷ്ടാനുസൃതമാക്കുക">
 <!ENTITY pref_category_display "പ്രദര്‍ശനം">
 
