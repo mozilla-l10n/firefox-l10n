@@ -27,6 +27,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोडहरू">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "पुस्तकचिनोहरू">
 
+<!ENTITY aboutPrivateBrowsing.note1            "निजी ब्राउजिङ् भएतापनि तपाईँको कम्पनी अथवा इन्टरनेटदाताले तपाईँले हेर्नुभएको साइटहरू ट्र्याक गर्न सक्छ।">
 <!ENTITY aboutPrivateBrowsing.learnMore        "अझ जान्नुहोस्।">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -47,6 +48,7 @@
 <!ENTITY trackingProtection.state.enabled      "चालु">
 <!ENTITY trackingProtection.state.disabled     "बन्द">
 
+<!ENTITY trackingProtection.description1       "अब निजी विन्डोहरूले वेब पेजहरूको ब्राउजिङ् क्रियाकलाप ट्र्याक गर्न सक्ने भागहरू पनि रोक्न सक्छ।">
 
 <!ENTITY trackingProtection.disable            "अनुगमन सुरक्षा बन्द गरिँदै">
 <!ENTITY trackingProtection.enable             "ट्र्याकिङ सुरक्षा खोलिदैँ">
