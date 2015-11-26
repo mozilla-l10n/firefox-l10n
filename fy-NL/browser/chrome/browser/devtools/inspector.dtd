@@ -79,6 +79,32 @@
      current node -->
 <!ENTITY inspectorHTMLDelete.label          "Noade fuortsmite">
 <!ENTITY inspectorHTMLDelete.accesskey      "N">
+<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     attribute items, which allow to:
+     - add new attribute
+     - edit attribute
+     - remove attribute -->
+<!ENTITY inspectorAttributeSubmenu.label      "Attribút">
+<!ENTITY inspectorAttributeSubmenu.accesskey  "A">
+
+<!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users add attribute
+     to current node -->
+<!ENTITY inspectorAddAttribute.label        "Attribút tafoegje">
+<!ENTITY inspectorAddAttribute.accesskey    "t">
+
+<!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users edit attribute
+     for current node -->
+<!ENTITY inspectorEditAttribute.label        "Attribút bewurkje">
+<!ENTITY inspectorEditAttribute.accesskey    "b">
+
+<!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users delete attribute
+     from current node -->
+<!ENTITY inspectorRemoveAttribute.label        "Attribút fuortsmite">
+<!ENTITY inspectorRemoveAttribute.accesskey    "v">
 
 <!ENTITY inspector.selectButton.tooltip     "Elemint mei mûs selektearje">
 
@@ -125,3 +151,8 @@
      shown in the inspector contextual-menu for the item that lets users take
      a screenshot of the currently selected node. -->
 <!ENTITY inspectorScreenshotNode.label       "Skermôfbylding fan noade meitsje">
+
+<!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users
+     duplicate the currently selected node. -->
+<!ENTITY inspectorDuplicateNode.label       "Noade duplisearje">

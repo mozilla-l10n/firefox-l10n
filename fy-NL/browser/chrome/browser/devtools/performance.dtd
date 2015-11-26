@@ -35,7 +35,12 @@
 <!ENTITY performanceUI.bufferStatusFull "De buffer is fol. Aldere monsters wurde no oerskreaun.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
-  -  in the call list view while loading a profile. -->
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Opnimmen fan in profyl is op dit stuit net beskikber. Slút alle priveenavigaasjefinsters en probearje it opnij.">
+
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while loading a profile. -->
 <!ENTITY performanceUI.loadingNotice "Lade…">
 
 <!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
