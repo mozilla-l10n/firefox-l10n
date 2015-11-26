@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Utsûnderingen">
-<!ENTITY window.width                 "36em">
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "Webstee">
 <!ENTITY treehead.status.label        "Steat">
@@ -21,5 +21,8 @@
 <!ENTITY allow.accesskey              "T">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Slute">
-<!ENTITY button.close.accesskey       "S">
+<!ENTITY button.cancel.label          "Annulearje">
+<!ENTITY button.cancel.accesskey      "n">
+<!ENTITY button.ok.label              "Wizigingen bewarje">
+<!ENTITY button.ok.accesskey          "i">
+
