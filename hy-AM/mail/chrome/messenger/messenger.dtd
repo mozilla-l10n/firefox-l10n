@@ -672,7 +672,7 @@
 <!ENTITY unreadColumn.label "Չընթերցված">
 <!ENTITY totalColumn.label "Ընդամենը">
 <!ENTITY readColumn.label "Ընթերցել">
-<!ENTITY receivedColumn.label "Ստացման">
+<!ENTITY receivedColumn.label "Ստացված">
 <!ENTITY starredColumn.label "Աստղով">
 <!ENTITY locationColumn.label "Տեղադրությունը">
 <!ENTITY idColumn.label "Ստացման կարգի">
