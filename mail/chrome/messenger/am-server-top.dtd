@@ -4,7 +4,7 @@
 
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY messageStorage.label "Message Storage">
+<!ENTITY messageStorage.label "Сховище повідомлень">
 <!ENTITY securitySettings.label "Налаштування захисту">
 <!ENTITY serverSettings.label "Параметри сервера">
 <!ENTITY serverType.label "Тип сервера:">
@@ -14,7 +14,7 @@
 <!ENTITY userName.accesskey "к">
 <!ENTITY port.label "Порт:">
 <!ENTITY port.accesskey "П">
-<!ENTITY serverPortDefault.label "За умовчанням:">
+<!ENTITY serverPortDefault.label "Типово:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Абревіатури (наприклад, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Додатково…">
 <!ENTITY advancedButton.accesskey "Д">
-<!ENTITY serverDefaultCharset2.label "Кодування за умовчанням:">
+<!ENTITY serverDefaultCharset2.label "Типове кодування шрифту:">
 <!ENTITY localPath.label "Локальна тека:">
 <!ENTITY localFolderPicker.label "Розташування локальних тек">
 <!ENTITY browseFolder.label "Огляд…">
@@ -82,9 +82,9 @@
 <!ENTITY browseNewsrc.label "Огляд…">
 <!ENTITY browseNewsrc.accesskey "О">
 
-<!ENTITY accountTitle.label "Account Settings">
-<!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">
-<!ENTITY storeType.label "Message Store Type:">
-<!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore2.label "File per folder (mbox)">
-<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY accountTitle.label "Налаштування облікового запису">
+<!ENTITY accountSettingsDesc.label "Це особливий обліковий запис.  З ним не пов'язано жодних особистих даних.">
+<!ENTITY storeType.label "Тип зберігання повідомлень:">
+<!ENTITY storeType.accesskey "Т">
+<!ENTITY mboxStore2.label "Один файл на теку (mbox)">
+<!ENTITY maildirStore.label "Один файл на повідомлення (maildir)">

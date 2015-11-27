@@ -9,7 +9,7 @@
 <!ENTITY loginAtStartup.label "Перевіряти наявність нових статей при запуску"> 
 <!ENTITY loginAtStartup.accesskey "П">
 
-<!ENTITY useQuickMode.label "За умовчанням показувати короткий опис статті замість завантаження веб-сторінки"> 
+<!ENTITY useQuickMode.label "Типово, показувати короткий опис статті замість завантаження веб-сторінки"> 
 <!ENTITY useQuickMode.accesskey "м">
 
 <!ENTITY manageSubscriptions.label "Упорядкувати підписки…"> 

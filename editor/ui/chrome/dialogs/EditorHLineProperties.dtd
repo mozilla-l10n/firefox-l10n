@@ -22,6 +22,6 @@
 
 <!ENTITY threeDShading.label "3D-тінь">
 <!ENTITY threeDShading.accessKey "т">
-<!ENTITY saveSettings.label "Використовувати за умовчанням">
+<!ENTITY saveSettings.label "Використовувати як типовий">
 <!ENTITY saveSettings.accessKey "к">
 <!ENTITY saveSettings.tooltip "Зберегти ці параметри, щоб використовувати їх при вставці нових роздільників">

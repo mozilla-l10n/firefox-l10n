@@ -39,4 +39,4 @@
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Сервер вихідної пошти (SMTP):">
 <!ENTITY smtpName.accesskey "и">
-<!ENTITY smtpDefaultServer.label "Використовувати сервер за умовчанням">
+<!ENTITY smtpDefaultServer.label "Використовувати типовий сервер">

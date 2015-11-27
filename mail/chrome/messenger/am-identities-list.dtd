@@ -9,7 +9,7 @@
 <!ENTITY identitiesListEdit.accesskey "З">
 <!ENTITY identitiesListDefault.label "Встановити типовою">
 <!ENTITY identitiesListDefault.accesskey "т">
-<!ENTITY identitiesListDelete.label "Вилучити">
+<!ENTITY identitiesListDelete.label "Видалити">
 <!ENTITY identitiesListDelete.accesskey "В">
-<!ENTITY identitiesListClose.label "Close">
-<!ENTITY identitiesListClose.accesskey "C">
+<!ENTITY identitiesListClose.label "Закрити">
+<!ENTITY identitiesListClose.accesskey "З">
