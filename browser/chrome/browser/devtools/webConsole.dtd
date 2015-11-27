@@ -103,3 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "在变量视图中打开">
 <!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.label "存储为全局变量">
+<!ENTITY storeAsGlobalVar.accesskey "S">

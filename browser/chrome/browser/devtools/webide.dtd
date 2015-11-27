@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "自动插入关闭括号">
 <!ENTITY prefs_options_keybindings "按键绑定">
 <!ENTITY prefs_options_keybindings_default "默认">
+<!ENTITY prefs_options_autosavefiles "自动保存文件">
+<!ENTITY prefs_options_autosavefiles_tooltip "运行项目前自动保存已编辑的文件">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "权限表">
