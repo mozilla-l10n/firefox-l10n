@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title "Opcje wysyłania">
 <!ENTITY sendMail.title "Format wysyłanych wiadomości">
+<!ENTITY autoDowngrade.label "wysyłaj wiadomości w formacie tekstowym, jeśli to możliwe">
+<!ENTITY autoDowngrade.accesskey "w">
 <!ENTITY sendMaildesc.label "Jeżeli co najmniej jeden z adresatów wiadomości wysyłanej w formacie HTML nie znajduje się na liście osób mogących otrzymywać takie wiadomości, to:">
 <!ENTITY askMe.label "pytaj, jakiego formatu użyć przy wysyłaniu wiadomości">
 <!ENTITY askMe.accesskey "k">
