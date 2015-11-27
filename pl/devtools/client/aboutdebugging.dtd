@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons "Dodatki">
 <!ENTITY aboutDebugging.addonDebugging.label "Debugowanie dodatków">
 <!ENTITY aboutDebugging.addonDebugging.tooltip "Włączenie tej opcji umożliwia debugowanie dodatków i innych części interfejsu przeglądarki">
+<!ENTITY aboutDebugging.loadTemporaryAddon "Wczytaj tymczasowy dodatek">
 <!ENTITY aboutDebugging.workers "Wątki">
