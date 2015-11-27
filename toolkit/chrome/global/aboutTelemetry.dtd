@@ -79,8 +79,8 @@ Ping
 <!ENTITY aboutTelemetry.lateWritesSection "
   Escrituras demoradas
 ">
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Información de sistema
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Información de sesión
 ">
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   Histogramas recopilados por complementos
