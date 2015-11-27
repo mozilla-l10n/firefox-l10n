@@ -106,8 +106,8 @@
 
 <!ENTITY viewMenu.label "Տեսք">
 <!ENTITY viewMenu.accesskey "Տ">
-<!ENTITY viewToolbarsMenuNew.label "Գործիքաշերտեր">
-<!ENTITY viewToolbarsMenuNew.accesskey "T">
+<!ENTITY viewToolbarsMenuNew.label "Գործիքագոտիներ">
+<!ENTITY viewToolbarsMenuNew.accesskey "Գ">
 <!ENTITY menubarCmd.label "Ցանկագոտի">
 <!ENTITY menubarCmd.accesskey "Ց">
 <!ENTITY showCompositionToolbarCmd.label "Ստեղծագործության գործիքաշերտը">
