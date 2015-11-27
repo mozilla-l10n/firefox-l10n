@@ -286,7 +286,7 @@ size. -->
 <!ENTITY pref_qrcode_enabled_summary "ອະນຸຍາດຕົວສະແກນ QR ໃນແຖບຫົວຂໍ້ (Title bar)">
 
 <!ENTITY pref_use_master_password "ໃຊ້ລະຫັດຜ່ານຫລັກ">
-<!ENTITY pref_sync "ເກີດຂື້ນພ້ອມກັນ">
+<!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "ຊິງແທັບຂອງທ່ານ, ບຸກມາກ, ລັອກອິນ, ປະຫວັດການນຳໃຊ້">
 <!ENTITY pref_search_suggestions "ສະແດງຜົນການແນະນຳການຊອກຫາ">
 
@@ -301,7 +301,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "ຂໍ້ມູນອັອບລາຍຂອງເວັບໃຊ້">
 <!ENTITY pref_private_data_siteSettings2 "ຕັ້ງຄ່າເວັບໃຊ້">
 <!ENTITY pref_private_data_downloadFiles2 "ດາວໂລດ">
-<!ENTITY pref_private_data_syncedTabs "ແທັບຊິງ">
+<!ENTITY pref_private_data_syncedTabs "Synced ແທັບ">
 
 
 <!ENTITY pref_about_firefox "ກ່ຽວກັບ &brandShortName;">
@@ -494,7 +494,7 @@ size. -->
 <!ENTITY button_clear "ລົບລ້າງ">
 <!ENTITY button_copy "ສຳເນົາ">
 
-<!ENTITY home_top_sites_title "ເວບໄຊຍອດນິຍົມ">
+<!ENTITY home_top_sites_title "ເວັບໄຊຕ໌ຍອດນິຍົມ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "ເພີ່ມເວັບໄຊຕ໌">
@@ -532,7 +532,7 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "ຂື້ນກັບ &formatS;">
 
-<!ENTITY home_remote_tabs_title "ແທັບຊິງ">
+<!ENTITY home_remote_tabs_title "Synced ແທັບ">
 <!ENTITY home_remote_tabs_empty "ແທັບຂອງທ່ານຈາກອຸປະກອນອື່ນໄດ້ສະແດງຂື້ນຢູ່ນີ້.">
 <!ENTITY home_remote_tabs_unable_to_connect "ບໍ່ສາມາດເຊື່ອມຕໍ່">
 <!ENTITY home_remote_tabs_need_to_sign_in "ກະລຸນາເຂົ້າສູ່ລະບົບເພື່ອເຊື່ອມຕໍ່ຫາບັນຊີໄຟຟັອກຂອງທ່ານອີກ ແລະ ດຳເນີນການຊີງຕໍ່ໄປ.">
