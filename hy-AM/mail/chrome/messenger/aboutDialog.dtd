@@ -34,7 +34,7 @@
 <!ENTITY community.middle2          "-ն՝ ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "գլոբալ համայնք, ">
-<!ENTITY community.end3             " որը աշխատում է մեկ նպատակով՝ ապահովել համացանցի հասանելիությունը բոլորի համար:">
+<!ENTITY community.end3             " որն աշխատում է մեկ նպատակով՝ ապահովել համացանցի հասանելիությունը բոլորի համար:">
 
 <!ENTITY helpus.start               "Ցանկանու՞մ եք օգնել: ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
