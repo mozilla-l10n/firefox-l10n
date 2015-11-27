@@ -32,5 +32,5 @@
 <!ENTITY pref.defalarmlen4todos.label "Типовий час сповіщення перед завданням:">
 <!ENTITY pref.defalarmlen4todos.accesskey "в">
 
-<!ENTITY pref.defaultsnoozelength.label "Default Snooze Length:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
+<!ENTITY pref.defaultsnoozelength.label "Типова тривалість затримки сигналу:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "т">
