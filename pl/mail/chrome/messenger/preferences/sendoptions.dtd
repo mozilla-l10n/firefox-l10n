@@ -13,7 +13,7 @@
 <!ENTITY convertPlain.accesskey "t">
 <!ENTITY sendHTML.label "wysyłaj wiadomości w formacie HTML">
 <!ENTITY sendHTML.accesskey "H">
-<!ENTITY sendBoth.label "przesyłaj wiadomości w obydwu formatach: HTML oraz tekstowym">
+<!ENTITY sendBoth.label "wysyłaj wiadomości w obydwu formatach: HTML oraz tekstowym">
 <!ENTITY sendBoth.accesskey "e">
 <!ENTITY override.label "Uwaga: Proszę użyć Książki adresowej, aby ustalić preferowany przez poszczególnych adresatów format wiadomości.">
 <!ENTITY domaindesc.label "W przypadku wysyłania poczty do jednej z poniższych domen, &brandShortName; automatycznie wybierze właściwy format wiadomości.">
