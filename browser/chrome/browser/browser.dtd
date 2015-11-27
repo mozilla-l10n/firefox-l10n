@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "Փոքրացնել">
 <!ENTITY fullScreenRestore.tooltip "Վերականգնել">
 <!ENTITY fullScreenClose.tooltip "Փակել">
-<!ENTITY fullScreenAutohide.label "Թաքցնել Վահանակները">
+<!ENTITY fullScreenAutohide.label "Թաքցնել Գործիքագոտիները">
 <!ENTITY fullScreenAutohide.accesskey "Թ">
 <!ENTITY fullScreenExit.label "Դուրս գալ Լիաէկրան վիճակից">
 <!ENTITY fullScreenExit.accesskey "Լ">
@@ -384,8 +384,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.accesskey       "Տ"> 
 <!ENTITY viewTabGroups.label            "Էջանիշի խմբեր">
 <!ENTITY viewTabGroups.accesskey        "Է">
-<!ENTITY viewToolbarsMenu.label       "Վահանակներ"> 
-<!ENTITY viewToolbarsMenu.accesskey     "Վ"> 
+<!ENTITY viewToolbarsMenu.label       "Գործիքագոտիներ"> 
+<!ENTITY viewToolbarsMenu.accesskey     "Գ"> 
 <!ENTITY viewSidebarMenu.label "Կողային վահանակ">
 <!ENTITY viewSidebarMenu.accesskey "վ">
 <!ENTITY viewCustomizeToolbar.label       "Հարմարեցնել…"> 
@@ -401,8 +401,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Ցուցադրել ամբողջ պատմությունը">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Կազմաձևել">
-<!ENTITY appMenuCustomize.tooltip "Կարգավորել Ցանկը և Գործիքավահանակները">
+<!ENTITY appMenuCustomize.label "Հարմարեցնել">
+<!ENTITY appMenuCustomize.tooltip "Հարմարեցնել Ցանկը և Գործիքագոտիները">
 <!ENTITY appMenuCustomizeExit.label "Փակել կարգավորումը">
 <!ENTITY appMenuCustomizeExit.tooltip "Ավարտել կարգավորումը">
 <!ENTITY appMenuHistory.label "Պատմություն">
@@ -815,7 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Սեղմեք ծառայությանը՝ &brandShortName;-ում ավելացնելու համար:">
 <!ENTITY social.directory.viewmore.text "Տեսնել ավելին">
 
-<!ENTITY customizeMode.tabTitle "Կարգավորել &brandShortName;-ը">
+<!ENTITY customizeMode.tabTitle "Հարմարեցնել &brandShortName;-ը">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Լրացուցիչ գործիքներ և հնարավորություններ">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ի՞նչ լրացուցիչ գործիք">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Ընտրություն կատարեք հազարավոր հավելումներից">

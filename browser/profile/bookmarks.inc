@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize Կարգավորեք Firefox-ը
+#define firefox_customize Հարմարեցնել Firefox-ը
 
 
 # LOCALIZATION NOTE (firefox_community):
