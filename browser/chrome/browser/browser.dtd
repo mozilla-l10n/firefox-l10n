@@ -194,25 +194,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
 <!ENTITY urlbar.defaultNotificationAnchor.label         "सूचना दर्शवा">
-
-
-
-
-
-
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "स्थान विनंती दर्शवा">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "ॲड-ऑन प्रस्थापीत केलेले संदेश दर्शवा">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "ॲप-ऑफलाइन संचय संदेश दर्शवा">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "आपली लॉगइन माहिती व्यवस्थापित करा">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "आपल्याला पासवर्ड साठवायचा असेल तर चेक बॉक्स वर क्लीक करा">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "ॲप प्रस्थापीत केलेल्याचा संदेश दर्शवा">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "या पृष्ठावर प्लगईन्सच्या वापराचे व्यवस्थापन करा">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "साईटने आपल्याला सूचना दर्शवाव्या किंवा कसे यासाठी योग्य बदल करा">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "साइटवर आपला कॅमेरा आणि /किंवा मायक्रोफोन शेअर करण्याचे व्यवस्थापन करा">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "आपण आत्ता या साईटसोबत आपला कॅमेरा अाणि माईक्रोफोन शेअर करत आहात.">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "साइटवर आपला मायक्रोफोन शेअर करण्याचे व्यवस्थापन करा">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "आपण आत्ता या साईटसोबत आपला माईक्रोफोन शेअर करत आहात.">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "साइटवर आपली विंडो किंवा स्क्रीन शेअर करण्याचे व्यवस्थापन करा">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "आपण आत्ता या साईटसोबत आपली विंडो किंवा स्क्रीन शेअर करत आहात.">
 
-
-
-
-
-
-
-
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "साइट पॉईंटर लपवू शकतात की नाही हे बदला">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "सर्विस प्रस्थापीत केल्याचा संदेश दर्शवा">
 <!ENTITY urlbar.translateNotificationAnchor.label       "पृष्ठाचे भाषांतर करा">
-
-
+<!ENTITY urlbar.translatedNotificationAnchor.label      "पृष्ठाच्या अनुवादाचे व्यवस्थापन करा">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM सॉफ्टवेअर वापराचे व्यवस्थापन करा">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दाखवा">
 
@@ -255,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "ॲप्स">
 <!ENTITY webapps.accesskey            "ॲ">
-
-
+<!ENTITY loopMenuItem.label           "संवाद सुरू करा…">
+<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "वेब डेव्हलपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -340,8 +342,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY userContextPersonal.accesskey    "P">
 <!ENTITY userContextWork.label            "कार्य">
 <!ENTITY userContextWork.accesskey        "W">
-
-
+<!ENTITY userContextBanking.label         "बँकिंग">
+<!ENTITY userContextBanking.accesskey     "B">
 <!ENTITY userContextShopping.label        "खरेदी">
 <!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "नविन पटल">
