@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDebugging.title                      "about:debugging">
-
+<!ENTITY aboutDebugging.addons                     "एड-अनहरू">
 <!ENTITY aboutDebugging.addonDebugging.label       "एड-अन डिबगिङ् सुचारु गर्नुहोस्">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "यो सुचारु गर्नाले तपाईँले एड-अनहरू र ब्राउजर क्रोमको बिभिन्न भागहरू डिबग गर्न सक्नुहुनेछ">
 <!ENTITY aboutDebugging.workers                    "Workers">
