@@ -14,7 +14,7 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "Esta conexão não é confiável">
 
 <!-- These are going to be used for the updated design in Bug 1207107 -->
-<!ENTITY certerror.pagetitle1  "Conexão insegura">
+<!ENTITY certerror.pagetitle1  "Conexão não segura">
 <!ENTITY certerror.longpagetitle1 "Sua conexão não é segura">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
