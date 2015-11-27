@@ -223,6 +223,7 @@
 <!ENTITY fxaccount_status_linktos "服务条款">
 <!ENTITY fxaccount_status_linkprivacy "隐私声明">
 <!ENTITY fxaccount_status_more "更多&ellipsis;">
+<!ENTITY fxaccount_remove_account "断开&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "移除 Firefox 账户？">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; 将停止与您的账户的同步，但不会删除您在此设备上的任何浏览数据。">
@@ -230,7 +231,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox 账户 &formatS; 已移除。">
 
-<!ENTITY fxaccount_remove_account_menu_item "移除账户">
 <!ENTITY fxaccount_enable_debug_mode "启用调试模式">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
