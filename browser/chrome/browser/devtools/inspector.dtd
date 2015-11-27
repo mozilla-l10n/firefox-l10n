@@ -128,6 +128,8 @@
 <!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
      shown in the inspector contextual-menu for recursively expanding
      mark-up elements -->
+
+<!ENTITY inspectorExpandNode.label       "అన్నింటినీ విస్తరించు">
 <!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
      shown in the inspector contextual-menu for recursively collapsing
      mark-up elements -->
@@ -136,6 +138,8 @@
 <!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users take
      a screenshot of the currently selected node. -->
+
+<!ENTITY inspectorScreenshotNode.label       "నోడును తెరపట్టు తీయి">
 <!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users
      duplicate the currently selected node. -->
