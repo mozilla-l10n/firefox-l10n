@@ -14,10 +14,10 @@
   "known").
 -->
 
-<!ENTITY  blockAttackSites.label     "ສະກັດກັ້ນ ແລະ ລາຍງານຈຳພວກເວັບໄຊທີ່ມີໄວຣັດ">
+<!ENTITY  blockAttackSites.label     "ສະກັດກັ້ນ ແລະ ລາຍງານຈຳພວກເວັບໄຊຕ໌ທີ່ມີໄວຣັດ">
 <!ENTITY  blockAttackSites.accesskey "k">
 
-<!ENTITY  blockWebForgeries.label     "ສະກັດກັ້ນ ແລະ ລາຍງານເວັບໄຊທີ່ມີການປອມແປງ">
+<!ENTITY  blockWebForgeries.label     "ສະກັດກັ້ນ ແລະ ລາຍງານເວັບໄຊຕ໌ທີ່ມີການປອມແປງ">
 <!ENTITY  blockWebForgeries.accesskey "B">
 
 <!ENTITY  addonExceptions.label         "ຍົກເວັ້ນ">

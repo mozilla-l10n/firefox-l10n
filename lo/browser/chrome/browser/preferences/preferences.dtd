@@ -23,5 +23,5 @@
 <!ENTITY  paneAdvanced.title      "ຂັ້ນສູງ">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "ເກີດຂື້ນພ້ອມກັນ">
+<!ENTITY  paneSync.title          "Sync">
 

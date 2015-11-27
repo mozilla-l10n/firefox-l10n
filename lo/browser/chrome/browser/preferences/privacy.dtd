@@ -55,7 +55,7 @@
 <!ENTITY  historyHeader.custom.label       "ໃຊ້ການຕັ້ງຄ່າຕາມໃຈສຳລັບປະຫວັດການໃຊ້ງານ">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ຈະຈື່ຜົນການຄົ້ນຫາ, ການດາວໂຫລດ, ແບບຟອມ ແລະ ປະຫວັດການຄົ້ນຫາ, ແລະ ຈະຮັກສາຄຸກກີ້ຈາກເວັບໄຊ ທີ່ທ່ານຢ້ຽມຊົມ.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ຈະຈື່ຜົນການຄົ້ນຫາ, ການດາວໂຫລດ, ແບບຟອມ ແລະ ປະຫວັດການຄົ້ນຫາ, ແລະ ຈະຮັກສາຄຸກກີ້ຈາກເວັບໄຊຕ໌ ທີ່ທ່ານຢ້ຽມຊົມ.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -66,7 +66,7 @@
 <!ENTITY  rememberActions.removeCookies.label "ລົບຄຸກກີ້ແຕ່ລະຢ່າງ">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "ການຄັ້ນຫາແບບສ່ວນຕົວຈະນຳໃຊ້ການຕັ້ງຄ່າແບບເດີມ ແລະຈະບໍ່ເກັບບັນດາເວັບໄຊທີ່ເຄີຍເຂົ້າມາກ່ອນ.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ຈະໃຊ້ການຕັ້ງຄ່າດຽວກັບການທ່ອງເວັບແບບສ່ວນຕົວ ແລະ ຈະບໍ່ເກັບບັນດາເວັບໄຊຕ໌ທີ່ເຄີຍເຂົ້າມາກ່ອນ.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 

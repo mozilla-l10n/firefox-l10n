@@ -661,7 +661,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "ຮູບແບບຂອງຫນ້າແບບພື້ນຖານ">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "ປ່ຽນການຕັ້ງຄ່າການປິດກັ້ນປັອບອັບສຳລັບເວັບໄຊ້ນີ້">
+<!ENTITY pageReportIcon.tooltip            "ປ່ຽນການຕັ້ງຄ່າການປິດກັ້ນປັອບອັບສຳລັບເວັບໄຊຕ໌ນີ້">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -729,14 +729,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu2.label     "ແຖບຈາກອຸປະກອນອື່ນ">
 
-<!ENTITY syncBrand.shortName.label    "ເກີດຂື້ນພ້ອມກັນ">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 
 <!ENTITY syncSyncNowItem.label        "ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 
 
-<!ENTITY syncToolbarButton.label      "ເກີດຂື້ນພ້ອມກັນ">
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "ປຸ່ມແຖບເຄື່ອງມືທາງດ້ານສັງຄົມອອນໄລນ໌">
 
