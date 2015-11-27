@@ -8,19 +8,19 @@
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-<!ENTITY day.1.Ddd "Нед" >
+<!ENTITY day.1.Ddd "НД" >
 <!ENTITY day.1.Ddd.accesskey "Н">
-<!ENTITY day.2.Ddd "Пнд" >
+<!ENTITY day.2.Ddd "ПН" >
 <!ENTITY day.2.Ddd.accesskey "П">
-<!ENTITY day.3.Ddd "Вівт" >
+<!ENTITY day.3.Ddd "ВТ" >
 <!ENTITY day.3.Ddd.accesskey "В">
-<!ENTITY day.4.Ddd "Сер" >
+<!ENTITY day.4.Ddd "СР" >
 <!ENTITY day.4.Ddd.accesskey "С">
-<!ENTITY day.5.Ddd "Чтв" >
+<!ENTITY day.5.Ddd "ЧТ" >
 <!ENTITY day.5.Ddd.accesskey "Ч">
-<!ENTITY day.6.Ddd "Птн" >
+<!ENTITY day.6.Ddd "ПТ" >
 <!ENTITY day.6.Ddd.accesskey "т">
-<!ENTITY day.7.Ddd "Сбт" >
+<!ENTITY day.7.Ddd "СБ" >
 <!ENTITY day.7.Ddd.accesskey "б">
 
 <!ENTITY day.1.name "Неділя" >
@@ -46,7 +46,7 @@
 
 <!ENTITY onemonthbackward.tooltip "Один місяць назад" >
 <!ENTITY onemonthforward.tooltip "Один місяць вперед" >
-<!ENTITY showToday.tooltip "Нині">
+<!ENTITY showToday.tooltip "Сьогодні">
 <!ENTITY onedayforward.tooltip "Один день вперед">
 <!ENTITY onedaybackward.tooltip "Один день назад">
 <!ENTITY showselectedday.tooltip "Показати події обраного дня">
