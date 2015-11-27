@@ -16,7 +16,7 @@
 <!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Додати інший запис…">
 <!ENTITY addOtherAccountButton.accesskey "і">
-<!ENTITY setDefaultButton.label "За умовчанням">
+<!ENTITY setDefaultButton.label "Встановити типовим">
 <!ENTITY setDefaultButton.accesskey "у">
 <!ENTITY removeButton.label "Вилучити обліковий запис">
 <!ENTITY removeButton.accesskey "В">
