@@ -189,9 +189,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "छापा">
 <!ENTITY printButton.tooltip          "हे पान छापा">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "संकेतस्थळाची माहिती पहा">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "सूचना दर्शवा">
 
 
 
