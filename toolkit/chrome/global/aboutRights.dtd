@@ -17,6 +17,7 @@
 <!ENTITY rights.intro-point1b "मोजिल्ला सार्वजनिक इजाजतपत्र">
 
 
+<!ENTITY rights.intro-point2-a "तपाईं Mozilla Foundation वा कुनै पनि पार्टीको ट्रेडमार्क अधिकार वा लाइसेन्स प्रदान गरिएको छैन। साथै तपाईँलाई Firefox को नाम र लोगो पनि प्रयोगमा पनि असीमित अधिकार छैन। ट्रेडमार्क सम्बन्धी थप जानकारी पाउन सकिन्छ। ">
 <!ENTITY rights.intro-point2-b "यहाँ">
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
@@ -49,7 +50,7 @@
 
 
 <!ENTITY rights.locationawarebrowsing-term1b "कनफिग:को बारेमा">
-
+<!ENTITY rights.locationawarebrowsing-term2 "geo.enabled टाइप गर्नुहोस्">
 
 
 <!-- intro paragraph for unbranded builds -->

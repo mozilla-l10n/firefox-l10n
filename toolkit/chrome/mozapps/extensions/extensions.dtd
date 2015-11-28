@@ -7,6 +7,7 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
+<!ENTITY loading.label                        "लोड हुँदैछ…">
 
 
 
@@ -71,8 +72,8 @@
 
 
 
-
-
+<!ENTITY cmd.disableAddon.label               "अक्षम पार्नुहोस्">
+<!ENTITY cmd.disableAddon.accesskey           "D">
 
 
 
@@ -107,6 +108,8 @@
 
 
 <!-- detail view -->
+
+<!ENTITY detail.version.label                 "संस्करण">
 
 <!ENTITY detail.creator.label                 "बिकासकर्ता">
 
@@ -149,8 +152,8 @@
 
 
 
-
-
+<!ENTITY search.filter2.installed.tooltip     "स्थापना भइसकेका एड-अनहरु सूचीकृत गर्नुहोस्">
+<!ENTITY search.filter2.available.label       "उपलब्ध एड-अनहरु">
 
 
 <!ENTITY addon.details.label                  "थप">
@@ -171,7 +174,7 @@
 
 <!ENTITY addon.install.label                  "स्थापना गर्नुहोस्">
 
-
+<!ENTITY addon.updateNow.label                "अद्यावधिक गर्नुहोस्">
 
 
 
