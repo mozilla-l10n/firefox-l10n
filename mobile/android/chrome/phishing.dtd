@@ -20,3 +20,7 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Suspicion de page contrefaite !">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "<p>En saisissant des informations sur cette page web, vous pourriez vous exposer à une usurpation d'identité ou à d'autres fraudes.</p>">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ces types de contrefaçon de sites sont utilisés dans les escroqueries connues sous le nom d'attaques par hameçonnage (ou phishing), dans lesquelles les pages et les courriels frauduleux sont utilisés pour imiter des sources que vous pouvez avoir confiance.</p>">
+
+<!ENTITY safeb.blocked.forbiddenPage.title "Site interdit">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "La page web à l'adresse <span id='forbidden_sitename'/> a été bloquée suivant la configuration de votre navigateur.">

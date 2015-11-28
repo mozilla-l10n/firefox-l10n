@@ -192,7 +192,6 @@
 <!ENTITY pref_home_suggested_sites_summary "Afficher sur votre écran d\u0027accueil des raccourcis vers des sites que nous pensons que vous trouverez intéressants">
 <!ENTITY pref_category_home_homepage "Page d\u0027accueil">
 <!ENTITY home_homepage_title "Définir une page d\u0027accueil">
-<!ENTITY home_homepage_use_current_tab "Utiliser l\u0027onglet actuel">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Général">
@@ -458,7 +457,6 @@ size. -->
 <!ENTITY site_settings_title3       "Paramètres de site">
 <!ENTITY site_settings_cancel       "Annuler">
 <!ENTITY site_settings_clear        "Effacer">
-<!ENTITY site_settings_no_settings  "Aucun paramètre à effacer.">
 
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
@@ -747,3 +745,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Désolé, cette version de &brandShortName; ne fonctionnera pas sur cet appareil (&formatS1;, &formatS2;). Veuillez télécharger la version appropriée.">
+
+<!-- https://support.mozilla.org/1/mobile/%VERSION%/%OS%/%LOCALE%/honeycombs -->
+<!ENTITY eol_notification_url "https://support.mozilla.org/1/firefox/&formatS1;/&formatS2;/&formatS3;/honeycombs">
+<!ENTITY eol_notification_title "&brandShortName; ne prend plus en charge Android 3">
+<!ENTITY eol_notification_summary "Appuyez pour en savoir plus">
+
