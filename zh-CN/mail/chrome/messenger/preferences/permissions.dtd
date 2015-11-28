@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "例外">
-<!ENTITY window.width                 "36em">
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "站点">
 <!ENTITY treehead.status.label        "状态">
@@ -16,11 +16,13 @@
 <!ENTITY block.label                  "阻止">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "在当前会话中允许">
-<!ENTITY session.accesskey            "S">
+<!ENTITY session.accesskey            "n">
 <!ENTITY allow.label                  "允许">
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "关闭">
-<!ENTITY button.close.accesskey       "C">
+<!ENTITY button.cancel.label          "取消">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "保存更改">
+<!ENTITY button.ok.accesskey          "S">
 
