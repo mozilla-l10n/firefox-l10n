@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "设为默认">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
+<!ENTITY serverDetails.label "选中服务器的详细信息：">
 <!ENTITY serverDescription.label "描述：">
 <!ENTITY serverName.label "服务器名称：">
 <!ENTITY serverPort.label "端口：">
