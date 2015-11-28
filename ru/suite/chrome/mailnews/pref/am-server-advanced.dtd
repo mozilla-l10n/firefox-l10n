@@ -22,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "у">
 <!ENTITY overrideNamespaces.label "Разрешить серверу перекрывать эти пространства имён">
 <!ENTITY overrideNamespaces.accesskey "з">
-<!ENTITY pop3Desc.label "При получении почты c данного сервера POP3, помещать её в следующую папку:">
-<!ENTITY accountDirectory.label "«Входящие» для данной учётной записи">
-<!ENTITY accountDirectory.accesskey "д">
+<!ENTITY pop3DeferringDesc.label "При загрузке почты c сервера этой учётной записи, помещать новые сообщения в следующую папку:">
+<!ENTITY accountInbox.label "«Входящие» для этой учётной записи">
+<!ENTITY accountInbox.accesskey "д">
 <!ENTITY deferToServer.label "«Входящие» для другой учётной записи">
 <!ENTITY deferToServer.accesskey "х">
 <!ENTITY deferGetNewMail.label "Загружать почту с данного сервера">

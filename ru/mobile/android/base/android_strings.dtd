@@ -125,7 +125,6 @@
 <!ENTITY pref_home_suggested_sites_summary "Отображать ярлыки на сайты на вашей домашней странице, которые, как мы думаем, вы можете найти интересными">
 <!ENTITY pref_category_home_homepage "Домашняя страница">
 <!ENTITY home_homepage_title "Установка домашней страницы">
-<!ENTITY home_homepage_use_current_tab "Использовать текущую вкладку">
 <!ENTITY pref_header_general "Основные">
 <!ENTITY pref_header_search "Поиск">
 <!ENTITY pref_header_privacy_short "Приватность">
@@ -316,7 +315,6 @@
 <!ENTITY site_settings_title3 "Параметры сайта">
 <!ENTITY site_settings_cancel "Отмена">
 <!ENTITY site_settings_clear "Очистить">
-<!ENTITY site_settings_no_settings "Нет настроек для очистки">
 <!ENTITY reading_list_added3 "Добавлено в Список для чтения">
 <!ENTITY reading_list_removed "Страница удалена из вашего Списка для чтения">
 <!ENTITY reading_list_remove "Удалить из Списка для чтения">
@@ -447,3 +445,6 @@
 <!ENTITY bookmarks_restricted_support2 "Справка и поддержка Firefox для ограниченных профилей на планшетах Android">
 <!ENTITY bookmarks_restricted_webmaker "Научитесь создавать Интернет: Mozilla Вебмейкер">
 <!ENTITY unsupported_sdk_version "Извините! Эта сборка &brandShortName; не может работать на этом устройстве (&formatS1;, &formatS2;). Пожалуйста, загрузите корректную версию.">
+<!ENTITY eol_notification_url "https://support.mozilla.org/1/firefox/&formatS1;/&formatS2;/&formatS3;/honeycombs">
+<!ENTITY eol_notification_title "&brandShortName; больше не поддерживает Android 3">
+<!ENTITY eol_notification_summary "Нажмите, чтобы узнать больше">

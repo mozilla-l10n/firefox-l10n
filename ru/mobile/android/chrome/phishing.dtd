@@ -15,3 +15,5 @@
 <!ENTITY safeb.blocked.unwantedPage.title "Имеется информация, что этот сайт содержит нежелательные программы!">
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Имеется информация о том, что веб-страница <span id='unwanted_sitename'/> содержит нежелательные программы. В соответствии с вашими настройками безопасности она была заблокирована.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Страницы с нежелательными программами пытаются установить ПО, стремящееся вас обмануть и произвести неожиданные изменения на вашем устройстве.">
+<!ENTITY safeb.blocked.forbiddenPage.title "Запрещённый сайт">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Веб-страница <span id='forbidden_sitename'/> была заблокирована в соответствии с настройками вашего браузера.">
