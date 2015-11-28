@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Nusiųsti šią kortelę į kitą susietą įrenginį">
+
 <!ENTITY pref_category_search3 "Paieška">
 <!ENTITY pref_category_search_summary "Ieškyklių tinkinimas">
 <!ENTITY pref_category_display "Rodymas">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Leidžiami, išskyrus trečiųjų šalių">
 <!ENTITY pref_cookies_disabled "Neleidžiami">
 
-
+<!ENTITY pref_tap_to_load_images_title "Įkelti paveikslus bakstelėjus">
+<!ENTITY pref_tap_to_load_images_summary2 "Įkelti paveikslus tik tada, kai ant jų palaikote pirštą">
 
 <!ENTITY pref_tracking_protection_title "Apsauga nuo stebėjimo">
-
+<!ENTITY pref_tracking_protection_summary3 "Įjungta privačiajame naršyme">
 <!ENTITY pref_donottrack_title "Nestebėti">
 <!ENTITY pref_donottrack_summary "„&brandShortName;“ praneš svetainėms, kad jūs nenorite būti stebimi">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Įjungta">
+<!ENTITY pref_tracking_protection_enabled_pb "Įjungta privačiajame naršyme">
+<!ENTITY pref_tracking_protection_disabled "Išjungta">
 
 <!ENTITY tracking_protection_prompt_title "Dabar ir su apsauga nuo stebėjimo">
 <!ENTITY tracking_protection_prompt_text "Aktyviai blokuoti stebėjimo elementus, kad jums nereikėtų jaudintis.">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sinchronizavimas">
 <!ENTITY pref_sync_summary2 "Sinchronizuokite korteles, adresyną, slaptažodžius, istoriją">
 <!ENTITY pref_search_suggestions "Rodyti paieškos žodžių siūlymus">
-
+<!ENTITY pref_history_search_suggestions "Rodyti paieškos istoriją">
 <!ENTITY pref_import_android "Importuoti iš „Android“">
 <!ENTITY pref_import_android_summary "Importuoti adresyną ir istoriją iš standartinės naršyklės">
 <!ENTITY pref_private_data_history2 "Naršymo žurnalas">
@@ -585,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Saugus ryšys">
 <!ENTITY identity_connection_insecure "Nesaugus ryšys">
-
+<!ENTITY identity_login_insecure "Šis tinklalapis nėra saugus ir jūsų prisijungimo duomenys gali būti perimti.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "„&brandShortName;“ užblokavo nesaugius šio tinklalapio elementus.">
@@ -705,6 +709,7 @@ iš „Android“">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Ši nuoroda bus atverta per „&formatS;“. Ar tikrai norite nutraukti privačiojo naršymo seansą?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -712,6 +717,7 @@ iš „Android“">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Baigti privatųjį naršymą?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR

@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Paslaugų teikimo sąlygos">
 <!ENTITY fxaccount_status_linkprivacy "Privatumo nuostatai">
 <!ENTITY fxaccount_status_more "Daugiau&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Atjungti…">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Pašalinti „Firefox“ paskyrą?">
 <!ENTITY fxaccount_remove_account_dialog_message "„&brandShortName;“ nustos sinchronizuoti duomenis su jūsų paskyra, tačiau neišvalys naršymo žurnalo šiame įrenginyje.">

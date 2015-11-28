@@ -13,12 +13,13 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Jūs nesate privačiajame naršyme">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "„&brandShortName;“ blokuoja jūsų naršymą galinčias stebėti tinklalapių dalis.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Mes neįsiminsime jokios istorijos, tačiau parsiųsti failai ir nauji adresyno įrašai vis tiek bus įrašyti į jūsų įrenginį.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
-<!ENTITY privatebrowsingpage.description.normal2 "Privačiojo naršymo režime mes nepaliksime jokios naršymo istorijos ar slapukų. Tačiau jei pridėsite įrašų į adresyną ar siųsitės failų, jie vistiek liks išsaugoti jūsų įrenginyje.">
+<!ENTITY privatebrowsingpage.description.normal2 "Privačiojo naršymo režime mes nepaliksime jokios naršymo istorijos ar slapukų. Tačiau jei pridėsite įrašų į adresyną ar siųsitės failų, jie vis tiek bus įrašyti į jūsų įrenginį.">
 
 <!ENTITY privatebrowsingpage.link.private "Norite sužinoti daugiau?">
 <!ENTITY privatebrowsingpage.link.normal "Atverti naują privačiąją kortelę">
