@@ -43,7 +43,7 @@
 <!ENTITY view.search.label                    "Որոնում">
 <!ENTITY view.discover.label                  "Ձեռք բերել հավելումներ">
 <!ENTITY view.recentUpdates.label             "Վերջին Թարմացումները">
-<!ENTITY view.availableUpdates.label          "Առկա Թարմացումները">
+<!ENTITY view.availableUpdates.label          "Առկա Թարմացումներ">
 <!-- addon updates -->
 
 <!ENTITY updates.checkForUpdates.label        "Ստուգել թարմացումները">
