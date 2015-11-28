@@ -53,6 +53,9 @@
 <!ENTITY event.recurrence.pattern.yearly.month.7.label       "جولای" >
 <!ENTITY event.recurrence.pattern.yearly.month.8.label       "اوت" >
 <!ENTITY event.recurrence.pattern.yearly.month.9.label       "سپتامبر" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "اکتبر" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "نوامبر" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "دسامبر" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "ژانویه" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "فوریه" >
 <!ENTITY event.recurrence.pattern.yearly.month2.3.label      "مارس" >
@@ -62,6 +65,9 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.7.label      "جولای" >
 <!ENTITY event.recurrence.pattern.yearly.month2.8.label      "اوت" >
 <!ENTITY event.recurrence.pattern.yearly.month2.9.label      "سپتامبر" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "اکتبر" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "نوامبر" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "دسامبر" >
 
 
 <!-- Attendees dialog -->
