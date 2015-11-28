@@ -144,14 +144,12 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "没有找到已连接 Firefox 账号的设备">
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "您的标签页未能发送。
-请稍后再试。">
+<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
+     clicks on the button to send a tab to another device and there are no
+     other devices present. This label should briefly inform the user that they
+     need another connected device in order to use the feature. -->
+
+<!ENTITY menu_no_synced_devices "发送此标签页到其他设备">
 
 <!ENTITY pref_category_search3 "搜索">
 <!ENTITY pref_category_search_summary "自定义您的搜索提供商">
@@ -218,10 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "已启用，不包括第三方的">
 <!ENTITY pref_cookies_disabled "已停用">
 
+<!ENTITY pref_tap_to_load_images_title "点按后加载图像">
+<!ENTITY pref_tap_to_load_images_summary2 "在长按后才会加载图像。">
+
 <!ENTITY pref_tracking_protection_title "跟踪保护">
-<!ENTITY pref_tracking_protection_summary3 "在隐私浏览中启用">
+<!ENTITY pref_tracking_protection_summary3 "在隐私浏览模式中启用">
 <!ENTITY pref_donottrack_title "请勿跟踪">
 <!ENTITY pref_donottrack_summary "&brandShortName; 将会告诉网站您不想被跟踪">
+
+<!ENTITY pref_tracking_protection_enabled "已启用">
+<!ENTITY pref_tracking_protection_enabled_pb "在隐私浏览中启用">
+<!ENTITY pref_tracking_protection_disabled "已停用">
 
 <!ENTITY tracking_protection_prompt_title "立即使用跟踪保护">
 <!ENTITY tracking_protection_prompt_text "主动屏蔽跟踪元素，让您不再担心。">
@@ -249,7 +254,7 @@
 <!ENTITY pref_char_encoding_on "显示菜单">
 <!ENTITY pref_char_encoding_off "不显示菜单">
 <!ENTITY pref_clear_private_data2 "立即清除">
-<!ENTITY pref_clear_private_data_category "清除个人数据">
+<!ENTITY pref_clear_private_data_category "清除隐私数据">
 <!ENTITY pref_clear_on_exit_title2 "退出时清除">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; 将在您每次从主菜单中选择“退出”时自动清除您的数据">
 <!ENTITY pref_clear_on_exit_dialog_title "选择要清除的数据">
@@ -291,6 +296,7 @@ size. -->
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_sync_summary2 "同步您的标签页、书签、登录信息、历史记录">
 <!ENTITY pref_search_suggestions "显示搜索建议">
+<!ENTITY pref_history_search_suggestions "显示搜索记录">
 <!ENTITY pref_import_android "从 Android 导入">
 <!ENTITY pref_import_android_summary "从原生浏览器导入书签和历史记录">
 <!ENTITY pref_private_data_history2 "浏览历史">
@@ -582,7 +588,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "安全连接">
-<!ENTITY identity_connection_insecure "不安全连接">
+<!ENTITY identity_connection_insecure "不安全的连接">
+<!ENTITY identity_login_insecure "此页面不安全，您的登录信息可能会因此泄露。">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; 已阻止此页面上的不安全内容。">
@@ -695,6 +702,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "无法打开链接">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "此链接将用 &formatS; 打开。您确实要退出隐私浏览模式吗？">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "要退出隐私浏览模式吗？">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -725,8 +745,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_addons "Firefox：使用附加组件个性化体验">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox：用户支持">
-<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
-<!ENTITY bookmarks_marketplace "Firefox 应用市场">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Firefox 帮助和支持 - 在 Android 平板电脑上受限制的配置文件">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
