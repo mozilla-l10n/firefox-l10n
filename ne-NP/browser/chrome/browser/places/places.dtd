@@ -64,7 +64,8 @@
 <!ENTITY cmd.sortby_name.accesskey          "न">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-
+<!ENTITY cmd.new_bookmark.label            "नयाँ पुस्तकचिनो…">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
 
 
 <!ENTITY cmd.context_new_folder.accesskey  "F">
@@ -98,12 +99,14 @@
 
 <!ENTITY forwardButton.tooltip  "अगाडि जानुहोस्">
 
-
+<!ENTITY detailsPane.more.label "थप">
+<!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "कम">
 <!ENTITY detailsPane.less.accesskey "e">
 
 
-
+<!ENTITY find.label               "खोजी गर्नुहोस्:">
+<!ENTITY find.accesskey           "S">
 
 
 <!ENTITY byDate.label             "मिति अनुरूप">

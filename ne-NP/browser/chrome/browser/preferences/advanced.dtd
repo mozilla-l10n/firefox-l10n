@@ -105,7 +105,7 @@
 <!ENTITY offlineAppRemove.confirm        "इन्टरनेट नहुदा चलाउने (अफलाइन ) तथ्यांक हटाउनु होस् ">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्रहरू">
-
+<!ENTITY certSelection.label             "अनुरोधहरु">
 <!ENTITY certSelection.description       "जब सर्वर ले मेरो ब्यक्तिगत सर्टिफिकेट को आग्रह गर्छ ">
 <!ENTITY certs.auto                      "स्वचालित रुपमा एउटा छानोस ">
 

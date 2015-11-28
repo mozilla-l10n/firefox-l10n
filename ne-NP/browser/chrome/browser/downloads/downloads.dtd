@@ -44,8 +44,8 @@
 <!ENTITY cmd.pause.accesskey              "P">
 
 
-
-
+<!ENTITY cmd.cancel.label                 "रद्द गर्नुहोस्">
+<!ENTITY cmd.cancel.accesskey             "C">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
@@ -64,8 +64,8 @@
 
 
 
-
-
+<!ENTITY cmd.clearDownloads.label         "डाउनलोडहरू खाली गर्नुहोस्">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock.label):
      This command may be shown in the context menu, as a menu button item, or as
      a text link when malware or potentially unwanted downloads are blocked.

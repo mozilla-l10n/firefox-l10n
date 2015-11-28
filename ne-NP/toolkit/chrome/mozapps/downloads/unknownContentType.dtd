@@ -5,14 +5,15 @@
 
 
 
+<!ENTITY  other.label                 "अन्य…">
+
+<!ENTITY  saveFile.label              "फाइल बचत गर्नुहोस्">
+<!ENTITY  saveFile.accesskey          "S">
 
 
 
 
 
-
-
-
-
-
+<!ENTITY  chooseHandler.label         "ब्राउज…">
+<!ENTITY  chooseHandler.accesskey     "B">
 
