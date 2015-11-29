@@ -49,7 +49,7 @@
 
 <!ENTITY choose_file "ເລືອກຟາຍ">
 
-<!ENTITY url_bar_default_text2 "ຊອກຫາ ແລະ ປ້ອນທີ່ຢູ່ໃສ">
+<!ENTITY url_bar_default_text2 "ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ຂອງເວັບໄຊຕ໌ໃສ່">
 
 <!ENTITY bookmark "ບຸກມາກ">
 <!ENTITY bookmark_remove "ລືບບຸກມາກ">
@@ -342,7 +342,7 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ຕົວລາຍງານຂໍ້ຜິດພາດ">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; ສະຖານທີ່ບໍລິການ">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; ບໍລິການສະຖານທີ່ຕັ້ງ">
 <!ENTITY datareporting_wifi_geolocation_summary4 "ຊ່ວຍ &vendorShortName; ສ້າງແຜນທີ່ໂລກໂດຍການແບ່ງປັນຕຳແຫນ່ງຂອງໄຟວາຍ ແລະ ໂທລະສັບມືຖືຂອງທ່ານເພື່ອປັບປຸງບໍລິການ Geolocation ຂອງພວກເຮົາ. ">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
