@@ -12,7 +12,7 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Sukurtų paskyrų dar nėra">
-<!ENTITY accountManager.noAccount.description "Kad programoje „&brandShortName;“ galėtumėte kalbėtis, turite pirma susikurti pokalbių paskyrą.">
+<!ENTITY accountManager.noAccount.description "Paspauskite &accountManager.newAccount.label; mygtyką ir &brandShortName; padės jums ją susikurti.">
 <!ENTITY account.autoSignOn.label     "Prisijungti paleidžiant programą">
 <!ENTITY account.autoSignOn.accesskey "p">
 <!ENTITY account.connect.label        "Prisijungti">

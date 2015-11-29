@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukų">
 <!ENTITY  font.langGroup.khmer                    "Chmerų">
 <!ENTITY  font.langGroup.malayalam                "Malajų">
-
+<!ENTITY  font.langGroup.math                     "Matematiniai">
 <!ENTITY  font.langGroup.oriya                    "Orijų">
 <!ENTITY  font.langGroup.telugu                   "Telugų">
 <!ENTITY  font.langGroup.kannada                  "Kanadų">

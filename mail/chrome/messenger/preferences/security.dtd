@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Brukalas">
 <!ENTITY itemPhishing.label      "Apgaulingi laiškai">
 <!ENTITY itemPasswords.label     "Slaptažodžiai">
-
+<!ENTITY itemAntiVirus.label     "Antivirusinė programa">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Brukalo kontrolės nuostatos atskiroms paskyroms parenkamos paskyrų nuostatų lange.">
@@ -42,5 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "s">
 <!-- Anti Virus -->
 
-
+<!ENTITY antiVirus.intro      "Prieš įrašydama gaunamus laiškus programa „&brandShortName;“ gali leisti antivirusinei programai patikrinti ar juose nėra virusų.">
+<!ENTITY antiVirus.label      "Leisti antivirusinei programai izoliuoti atskirus įtartinus laiškus">
+<!ENTITY antiVirus.accesskey  "L">
 
