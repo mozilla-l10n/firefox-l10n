@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Vel mottakar frå ei adressebok">
 <!ENTITY attachButton.tooltip "Ta med vedlegg">
 <!ENTITY spellingButton.tooltip "Kontroller staving av merkt tekst eller heile meldinga">
+<!ENTITY statusLanguageText.tooltip "Stavekontrollspråk">
 <!ENTITY saveButton.tooltip "Lagra meldinga">
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopier">
