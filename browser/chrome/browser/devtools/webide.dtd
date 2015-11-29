@@ -116,10 +116,10 @@
 <!ENTITY prefs_title "वरीयता">
 <!ENTITY prefs_editor_title "संपादक">
 <!ENTITY prefs_general_title "सामान्य">
-
-
-
-
+<!ENTITY prefs_restore "पूर्वनिर्धारित वापस करू">
+<!ENTITY prefs_manage_components "अतिरिक्त घटक प्रबंधित करू">
+<!ENTITY prefs_options_autoconnectruntime "पछिला रनटाइम पर रिकनेक्ट करू">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE जखन शुरू होए, पिछला रनटाइम पर रिकनेक्ट करू">
 <!ENTITY prefs_options_rememberlastproject "पछिला प्रोजेक्ट याद राखू">
 <!ENTITY prefs_options_rememberlastproject_tooltip "पछिला प्रोजेक्ट बहाल करू जखन WebIDE आरंभ हाएत अछि">
 <!ENTITY prefs_options_templatesurl "नमूना यूआरएल">
