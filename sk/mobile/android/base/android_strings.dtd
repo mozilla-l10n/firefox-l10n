@@ -144,13 +144,12 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Nebolo nájdené žiadne zariadenie pripojené k účtu Firefox Account">
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "Vaša karta nemohla byť odoslaná.\nSkúste to znova neskôr.">
+
+<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
+     clicks on the button to send a tab to another device and there are no
+     other devices present. This label should briefly inform the user that they
+     need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "Odoslať túto kartu do iného pripojeného zariadenia">
 
 <!ENTITY pref_category_search3 "Vyhľadávanie">
 <!ENTITY pref_category_search_summary "Prispôsobte si vyhľadávacie moduly">
@@ -273,7 +272,6 @@
 <!ENTITY pref_font_size_large "Veľké">
 <!ENTITY pref_font_size_xlarge "Veľmi veľké">
 <!ENTITY pref_font_size_set "Nastaviť">
-
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -282,7 +280,7 @@ size. -->
 <!ENTITY pref_font_size_adjust_char "-/+">
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Rýchla oranžová líška presahuje vaše očakávania vyššou rýchlosťou, väčšou flexibilitou a zlepšenou bezpečnosťou. Pretože sme neziskoví, sme slobodní pri inováciách bez tlaku na kompromisy. To znamená lepší zážitok pre vás a svetlejšiu budúcnosť pre web.">
 
 <!ENTITY pref_media_autoplay_enabled "Povoliť automatické prehrávanie">
@@ -442,7 +440,7 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazovať adresu stránky">
 
-<!-- Localization note (pref_magnifying_glass_enabled): Label for setting that controls
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Zväčšovať malý obsah">
 <!ENTITY pref_magnifying_glass_enabled_summary "Zväčší odkazy a polia formulárov po ťuknutí v ich okolí">
@@ -526,7 +524,7 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Mimochodom: pri používaní &formatS1;karty režimu Súkromné prehliadanie&formatS2; sa nebude ukladať história.">
 <!ENTITY home_reading_list_empty "Tu sa zobrazujú články uložené na neskôr">
-<!-- Localization note (home_reading_list_hint2): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
@@ -591,6 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Bezpečné pripojenie">
 <!ENTITY identity_connection_insecure "Nezabezpečené pripojenie">
+<!ENTITY identity_login_insecure "Táto stránka nie je zabezpečená a vaše prihlásenie môže byť prezradené.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; zablokoval na tejto stránke obsah, ktorý nie je bezpečný.">
@@ -610,7 +609,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY enable_protection "Zapnúť ochranu">
 <!ENTITY disable_protection "Vypnúť ochranu">
 <!ENTITY keep_blocking "Ponechať blokované">
-    
+
 <!ENTITY private_data_success "Súkromné údaje vymazané">
 <!ENTITY private_data_fail "Niektoré súkromné údaje nemohli byť odstránené">
 
@@ -638,7 +637,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Záložky a história">
 
-<!-- Updater notifications -->
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Je dostupná aktualizácia pre &brandShortName;">
 <!ENTITY updater_start_select2 "Ťuknutím sem ju prevezmete">
 
