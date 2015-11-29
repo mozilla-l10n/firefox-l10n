@@ -336,7 +336,7 @@ size. -->
 <!ENTITY datareporting_fhr_title "ລາຍງານສະຖານະການໃຊ້ງານ &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "ແບ່ງປັນຂໍ້ມູນການໃຊ້ງານຂອງທ່ານກັບ &vendorShortName; ກ່ຽວກັບສະຖານະພາບຕົວທ່ອງເວັບຂອງທ່ານ ແລະ ເພື່ອຊ່ວຍໃຫ້ທ່ານຮູ້ຈັກປະສິດທິພາບການເຮັດວຽກຂອງຕົວທ່ອງເວັບຂອງທ່ານ.">
 <!ENTITY datareporting_abouthr_title "ເບິງລາຍງານສະຖານະການໃຊ້ງານຂອງທ່ານ">
-<!ENTITY datareporting_telemetry_title "ການວັດແທກ ແລະ ສົ່ງຂໍ້ມູນທາງໄກ">
+<!ENTITY datareporting_telemetry_title "ການວັດແທກໄລຍະໄກ">
 <!ENTITY datareporting_telemetry_summary "ແບ່ງປັນຂໍ້ມູນປະສິດທິພາບການເຮັດວຽກ, ອຸປະກອນ ແລະ ການປັບແຕ່ງຕົວທ່ອງເວັບຂອງທ່ານກັບ &vendorShortName; ເພື່ອຊ່ວຍພວກເຮົາເຮັດໃຫ້ &brandShortName; ດີຂື້ກ່ວາເກົາ">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ສົ່ງລາຍງານຄວາມຜິດພາດທີ່ຈະຊ່ວຍໃຫ້ &vendorShortName; ເພື່ອເຮັດໃຫ້ຕົວທ່ອງເວັບຂອງທ່ານມີຄວາມສະຖຽນ ແລະ ປອດໄພຫລາຍຂື້ນ.">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
