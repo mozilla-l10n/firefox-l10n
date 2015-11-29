@@ -28,9 +28,9 @@
 <!ENTITY addToUserDictionaryButton.accessKey "g">
 <!ENTITY editUserDictionaryButton.label "Rediger …">
 <!ENTITY editUserDictionaryButton.accessKey "R">
-<!ENTITY recheckButton.label "Kontroller sida på nytt">
-<!ENTITY recheckButton.accessKey "o">
-<!ENTITY closeButton.label "Lukk">
+<!ENTITY recheckButton2.label "Kontroller tekst på nytt">
+<!ENTITY recheckButton2.accessKey "K">
+<!ENTITY closeButton.label "Lat att">
 <!ENTITY closeButton.accessKey "L">
 <!ENTITY sendButton.label "Send">
 <!ENTITY sendButton.accessKey "d">

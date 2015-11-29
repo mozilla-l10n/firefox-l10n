@@ -13,11 +13,12 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Du er ikkje i privat nettlesing">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox vil hindre at du blir spora, og vil ikkje hugse historikk, men nedlasta filer og nye bokmerke vil likevel lagrast på eininga.">
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; blokkerar dei delane av sida som kan spora nettlesaraktiviteten.<br/><br/>Vi vil ikkje hugsa historikk, men nedlasta filer og nye bokmerke vert likevel lagra i eininga.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "I Privat nettlesing vil vi ikkje lagre nettlesarhistorikken din og infokapslar. Bokmerke du legg til, og filer du lastar ned, vil likevel lagrast på eininga.">
+<!ENTITY privatebrowsingpage.description.normal2 "I Privat nettlesing vil vi ikkje lagra nettlesarhistorikken din og infokapslar. Bokmerke du legg til, og filer du lastar ned, vil likevel lagrast på eininga.">
 
 <!ENTITY privatebrowsingpage.link.private "Vil du lesa meir?">
 <!ENTITY privatebrowsingpage.link.normal "Opna ei ny privat fane">
