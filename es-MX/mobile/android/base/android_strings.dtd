@@ -331,7 +331,7 @@ size. -->
 <!ENTITY datareporting_notification_action "Elige que compartir">
 <!ENTITY datareporting_notification_summary "Para mejorar tu experiencia, &brandShortName; automáticamente enviará algo de información a &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Parar mejorar tu experiencia, &brandShortName;…">
-
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -339,88 +339,105 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-
-
-
-
+<!ENTITY datareporting_fhr_title "Reporte de salud de &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Compartir datos con &vendorShortName; acerca de la salud de tu navegador y ayudarte a entender el desempeño del mismo.">
+<!ENTITY datareporting_abouthr_title "Ver mi Reporte de salud">
+<!ENTITY datareporting_telemetry_title "Telemetría">
+<!ENTITY datareporting_telemetry_summary "Compartir desempeño, uso, hardware y datos de personalización acerca de tu navegador con &vendorShortName; para ayudarnos a hacer &brandShortName; mejor.">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; envía reportes de fallos para ayudar a &vendorShortName; a hacer tu navegador más estable y seguro">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_crashreporter_title_short "Agente de fallos">
+<!ENTITY datareporting_wifi_title2 "Servicio de localización de &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary4 "¡Ayuda a &vendorShortName; a mapear el mundo! Comparte la ubicación Wi.Fi y móvil de tu dispositivo para mejorar nuestro servicio de localización.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
-
-
+<!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
+<!ENTITY pref_update_autodownload_wifi "Sólo sobre Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Nunca">
+<!ENTITY pref_update_autodownload_always "Siempre">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "Ayuda">
 
+<!ENTITY quit "Salir">
 
+<!ENTITY addons "Complementos">
+<!ENTITY logins "Inicios de sesión">
+<!ENTITY downloads "Descargas">
+<!ENTITY char_encoding "Codificación de caracteres">
 
-
-
-
-
-
+<!ENTITY share "Compartir">
+<!ENTITY share_title "Compartir vía">
+<!ENTITY share_image_failed "No se puede compartir esta imagen">
+<!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY print "Imprimir">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY find_in_page "Encontrar en la página">
+<!ENTITY desktop_mode "Solicitar sitio de escritorio">
+<!ENTITY page "Página">
+<!ENTITY tools "Herramientas">
+<!ENTITY new_tab "Nueva pestaña">
+<!ENTITY new_private_tab "Nueva pestaña privada">
+<!ENTITY close_all_tabs "Cerrar todas las pestañas">
+<!ENTITY close_private_tabs "Cerrar pestañas privadas">
+<!ENTITY tabs_normal "Pestañas">
+<!ENTITY tabs_private "Privadas">
+<!ENTITY tabs_synced "Sincronizado">
+<!ENTITY set_image_fail "No se puede establecer la imagen">
+<!ENTITY set_image_path_fail "No se puede guardar la imagen">
+<!ENTITY set_image_chooser_title "Establecer imagen como">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
+<!ENTITY find_text "Encontrar en la página">
+<!ENTITY find_prev "Anterior">
 
-
+<!ENTITY find_close "Cerrar">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
+<!ENTITY media_sending_to "Enviando al dispositivo">
+<!ENTITY media_play "Reproducir">
+<!ENTITY media_pause "Pausar">
+<!ENTITY media_stop "Detener">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY contextmenu_open_new_tab "Abrir en una nueva pestaña">
+<!ENTITY contextmenu_open_private_tab "Abrir en pestaña privada">
+<!ENTITY contextmenu_remove "Eliminar">
+<!ENTITY contextmenu_add_to_launcher "Agregar a la pantalla de inicio">
+<!ENTITY contextmenu_share "Compartir">
+<!ENTITY contextmenu_pasteandgo "Pegar e ir">
+<!ENTITY contextmenu_paste "Pegar">
+<!ENTITY contextmenu_copyurl "Copiar dirección">
+<!ENTITY contextmenu_edit_bookmark "Editar">
+<!ENTITY contextmenu_subscribe "Suscribirse a la página">
+<!ENTITY contextmenu_site_settings "Editar configuraciones del sitio">
+<!ENTITY contextmenu_top_sites_edit "Editar">
+<!ENTITY contextmenu_top_sites_pin "Fijar sitio">
+<!ENTITY contextmenu_top_sites_unpin "Soltar sitio">
+<!ENTITY contextmenu_add_search_engine "Agregar una motor de búsqueda">
 <!ENTITY contextmenu_mark_read "Marcar como leído">
 <!ENTITY contextmenu_mark_unread "Marcar como no leído">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Sin nombre de usuario]">
+<!ENTITY doorhanger_login_edit_title "Editar inicio de sesión">
+<!ENTITY doorhanger_login_edit_username_hint "Nombre de usuario">
+<!ENTITY doorhanger_login_edit_password_hint "Contraseña">
+<!ENTITY doorhanger_login_edit_toggle "Mostrar contraseña">
+<!ENTITY doorhanger_login_edit_toast_error "Falló al guardar el inicio de sesión">
+<!ENTITY doorhanger_login_select_message "¿Copiar contraseña desde &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Contraseña copiada al portapapeles">
+<!ENTITY doorhanger_login_select_toast_copy_error "No se pudo copiar la contraseña">
+<!ENTITY doorhanger_login_select_action_text "Seleccionar otro inicio de sesión">
+<!ENTITY doorhanger_login_select_title "Copiar contraseña desde">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_titlebar_mode "Barra de título">
+<!ENTITY pref_titlebar_mode_title "Mostrar título de página">
+<!ENTITY pref_titlebar_mode_url "Mostrar dirección de la página">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -429,22 +446,32 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
+<!ENTITY pref_scroll_title_bar_summary "Ocultar la barra de título de &brandShortName; al bajar en una página">
 
-
+<!ENTITY pref_tab_queue_title2 "Abrir múltiples enlaces">
+<!ENTITY pref_tab_queue_summary3 "Guardarlas hasta que vuelvas a abrir &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
+<!ENTITY page_removed "Página eliminada">
 
-
-
+<!ENTITY bookmark_edit_title "Editar marcador">
+<!ENTITY bookmark_edit_name "Nombre">
+<!ENTITY bookmark_edit_location "Ubicación">
+<!ENTITY bookmark_edit_keyword "Palabra clave">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-
-
+<!ENTITY site_settings_title3       "Configuraciones del sitio">
+<!ENTITY site_settings_cancel       "Cancelar">
+<!ENTITY site_settings_clear        "Limpiar">
+<!ENTITY site_settings_no_settings  "No hay configuraciones para limpiar.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "Agregado a la lista de lectura">
 
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
