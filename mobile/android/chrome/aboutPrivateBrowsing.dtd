@@ -13,7 +13,9 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Jo brûke gjin Priveenavigaasje">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; sil gjin skiednis ûnthâlde en foarkomme dat jo folge wurde, mar downloade bestannen en nije blêdwizers wurde wol op jo apparaat bewarre.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; blokkearret ûnderdielen fan de siden dy't jo sneupaktiviteit folgje kinne.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Der wurdt gjin skiednis ûnthâlden, mar downloaden bestannen en nije blêdwizers wurde wol op jo apparaat bewarre.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->

@@ -34,9 +34,9 @@
 <!ENTITY  crash_reporter_title "&brandShortName;-ûngelokrapportearder">
 <!ENTITY  crash_message2 "&brandShortName; hie in probleem en is fêstrûn. Jo ljepblêden soene toand wurde moatte op jo &brandShortName;-startside as jo werstarte.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName; fan dit ûngelok op de hichte stelle, sadat se dit ferhelpe kinne">
-<!ENTITY  crash_include_url2 "It adres fan de besocht website meistjoere">
+<!ENTITY  crash_include_url2 "It adres fan de besochte website tafoegje">
 <!ENTITY  crash_sorry "It spyt ús">
-<!ENTITY  crash_comment "Foegje kommentaar ta (kommentaar is publyklik sichtber)">
+<!ENTITY  crash_comment "Foegje in opmerking ta (opmerkingen binne publyklik sichtber)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; tastean om kontakt mei my op te nimmen oer dit rapport">
 <!ENTITY  crash_email "Jo e-mailadres">
 <!ENTITY  crash_closing_alert "Ofslute sûnder in ûngelokrapport te ferstjoeren?">
@@ -144,13 +144,12 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Gjin fia Firefox-account keppelde apparaten fûn">
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "Jo ljepblêd koe net ferstjoerd wurde.\nProbearje it letter opnij.">
+
+<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
+     clicks on the button to send a tab to another device and there are no
+     other devices present. This label should briefly inform the user that they
+     need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "Dit ljepblêd nei in oar ferbûn apparaat ferstjoere">
 
 <!ENTITY pref_category_search3 "Sykje">
 <!ENTITY pref_category_search_summary "Jo sykproviders oanpasse">
@@ -217,10 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ynskeakele, útsein fan tredden">
 <!ENTITY pref_cookies_disabled "Utskeakele">
 
+<!ENTITY pref_tap_to_load_images_title "Tikke foar laden fan ôfbyldingen">
+<!ENTITY pref_tap_to_load_images_summary2 "Ofbyldingen allinnich lade by yndrukt hâlden">
+
 <!ENTITY pref_tracking_protection_title "Beskerming tsjin folgjen">
 <!ENTITY pref_tracking_protection_summary3 "Ynskeakele yn Priveenavigaasje">
 <!ENTITY pref_donottrack_title "Net folgje">
 <!ENTITY pref_donottrack_summary "&brandShortName; sil websites witte litte dat jo net folge wurde wol">
+
+<!ENTITY pref_tracking_protection_enabled "Ynskeakele">
+<!ENTITY pref_tracking_protection_enabled_pb "Ynskeakele yn Priveenavigaasje">
+<!ENTITY pref_tracking_protection_disabled "Utskeakele">
 
 <!ENTITY tracking_protection_prompt_title "No mei Beskerming tsjin folgjen">
 <!ENTITY tracking_protection_prompt_text "Blokkearje aktyf folcheleminten, sadat jo jo gjin soargen hoege te meitsjen.">
@@ -290,6 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Ljepblêden, blêdwizers, oanmeldingen, skiednis syngronisearje">
 <!ENTITY pref_search_suggestions "Sykfoarstelllen toane">
+<!ENTITY pref_history_search_suggestions "Sykskiednis toane">
 <!ENTITY pref_import_android "Ymportearje út Android">
 <!ENTITY pref_import_android_summary "Ymportearje blêdwizers en skiednis fan de ynboude browser">
 <!ENTITY pref_private_data_history2 "Navigaasjeskiednis">
@@ -582,6 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Befeilige ferbining">
 <!ENTITY identity_connection_insecure "Net-befeilige ferbining">
+<!ENTITY identity_login_insecure "Dizze side is net befeilige, en jo oanmelding soe kwetsber wêze kinne .">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; hat ûnfeilige ynhâld op dizze side blokkearre.">
@@ -697,6 +705,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Kin keppeling net iepenje">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Dizze keppeling wurdt yn &formatS; iepene. Binne jo wis dat jo Priveenavigaasje ôfslute wolle?">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Priveenavigaasje ôfslute?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -727,8 +748,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_addons "Firefox: oanpasse mei add-ons">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: stipe">
-<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
-<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Firefox: help en stipe foar beheinde profilen op Android-tablets">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->

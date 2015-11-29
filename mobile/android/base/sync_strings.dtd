@@ -223,6 +223,7 @@
 <!ENTITY fxaccount_status_linktos 'Tsjinstbetingsten (Ing.)'>
 <!ENTITY fxaccount_status_linkprivacy 'Privacyferklearring (Ing.)'>
 <!ENTITY fxaccount_status_more 'Mear&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Ferbrekke&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Firefox-account fuortsmite?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; sil stoppe mei syngronisearjne fan jo account, mar sil neat fan jo browsegegevens op dit apparaat.'>
@@ -230,7 +231,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Firefox-account &formatS; fuortsmiten.'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Account fuortsmite'>
 <!ENTITY fxaccount_enable_debug_mode 'Debugmoadus ynskeakelje'>
 
 <!-- Localization note: this is the name shown by the Android system
