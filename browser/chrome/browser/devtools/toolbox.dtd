@@ -168,8 +168,8 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
-<!ENTITY options.timestampMessages.label      "Ativar horas">
-<!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e o resultado da consola web serão mostrados com a hora">
+<!ENTITY options.timestampMessages.label      "Ativar marcas temporais">
+<!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e o resultado da consola web irão mostrar uma marca temporal">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->

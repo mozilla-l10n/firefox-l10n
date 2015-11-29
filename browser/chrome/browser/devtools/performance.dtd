@@ -102,7 +102,7 @@
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
 <!ENTITY performanceUI.invertFlameGraph             "Inverter gráfico Flame">
-<!ENTITY performanceUI.invertFlameGraph.tooltiptext "A inversão do gráfico mostra os caminhos do perfil de chamada a começar pela frame mais recente até à mais antiga.">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "A inversão do gráfico em chama mostra os caminhos de chamada perfilados desde as frames mais recentes e expandindo até às mais antigas.">
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
@@ -120,19 +120,19 @@
   -  measurements are enabled. -->
 
 <!ENTITY performanceUI.enableMemory             "Gravar memória">
-<!ENTITY performanceUI.enableMemory.tooltiptext "Gravar consumo de memória durante a perfilagem.">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Gravar o consumo de memória ao perfilar.">
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 
 <!ENTITY performanceUI.enableAllocations             "Gravar alocações">
-<!ENTITY performanceUI.enableAllocations.tooltiptext "Gravar alocação de objetos ao perfilar.">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Gravar as alocações de objetos ao perfilar.">
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
 <!ENTITY performanceUI.enableFramerate             "Gravar taxa de frame">
-<!ENTITY performanceUI.enableFramerate.tooltiptext "Gravar taxa de frames durante o perfil.">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Gravar taxa de frames ao perfilar.">
 <!-- LOCALIZATION NOTE (performanceUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be recorded. -->
