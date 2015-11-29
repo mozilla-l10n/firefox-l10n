@@ -255,71 +255,82 @@
 <!ENTITY pref_clear_private_data2 "Limpiar ahora">
 <!ENTITY pref_clear_private_data_category "Limpiar datos privados">
 <!ENTITY pref_clear_on_exit_title2 "Limpiar al salir">
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automáticamente limpiará tus datos siempre que selecciones \u0022Quit\u0022 desde el menú principal">
+<!ENTITY pref_clear_on_exit_dialog_title "Seleccionar que datos limpiar">
+<!ENTITY pref_plugins "Plugins">
+<!ENTITY pref_plugins_enabled "Habilitado">
+<!ENTITY pref_plugins_tap_to_play "Presiona para jugar">
+<!ENTITY pref_plugins_disabled "Deshabilitado">
+<!ENTITY pref_text_size "Tamaño de texto">
+<!ENTITY pref_restore "Pestañas">
+<!ENTITY pref_restore_always "Siempre restaurar">
 <!ENTITY pref_restore_quit "No restaurar después de salir de &brandShortName;">
-
-
-
-
-
-
+<!ENTITY pref_font_size_tiny "Diminuto">
+<!ENTITY pref_font_size_small "Pequeño">
+<!ENTITY pref_font_size_medium "Mediano">
+<!ENTITY pref_font_size_large "Grande">
+<!ENTITY pref_font_size_xlarge "Extra grande">
+<!ENTITY pref_font_size_set "Establecer">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_font_size_preview_text "El veloz zorro naranja supera tus expectativas con más velocidad, flexibilidad y seguridad. No tener ánimo de lucro nos hace libres de innovar para ti sin presiones ni compromisos. Esto quiere decir una mejor experiencia para ti y un mejor futuro para la Web.">
 
+<!ENTITY pref_media_autoplay_enabled "Permitir reproducción automática">
+<!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web puede reproducir videos automáticamente u otro contenido multimedia.">
+<!ENTITY pref_zoom_force_enabled "Siempre habilitar enfoque">
+<!ENTITY pref_zoom_force_enabled_summary "Forzar sobrescritura para que pueda variar el tamaño de cualquier página">
+<!ENTITY pref_voice_input "Entrada de voz">
+<!ENTITY pref_voice_input_summary "Permitir dictado por voz en la barra de título">
+<!ENTITY pref_qrcode_enabled "Lector de códigos QR">
+<!ENTITY pref_qrcode_enabled_summary "Permitir escáner de códigos QR en la barra de título">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_use_master_password "Usar contraseña maestra">
+<!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary2 "Sincroniza tus pestañas, marcadores, inicios de sesión, historial">
+<!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_history_search_suggestions "Mostrar historial de búsqueda">
+<!ENTITY pref_import_android "Importar desde Android">
+<!ENTITY pref_import_android_summary "Importar marcadores e historial desde el navegador nativo">
+<!ENTITY pref_private_data_history2 "Historial de navegación">
+<!ENTITY pref_private_data_searchHistory "Historial de búsqueda">
+<!ENTITY pref_private_data_formdata2 "Desde historial">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; Inicios de sesión activos">
+<!ENTITY pref_private_data_passwords2 "Inicios de sesión guardados">
+<!ENTITY pref_private_data_cache "Caché">
+<!ENTITY pref_private_data_offlineApps "Datos de sitio web sin conexión">
+<!ENTITY pref_private_data_siteSettings2 "Configuraciones del sitio">
+<!ENTITY pref_private_data_downloadFiles2 "Descargas">
+<!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
 
 
+<!ENTITY pref_about_firefox "Acerca de &brandShortName;">
+<!ENTITY pref_vendor_faqs "Preguntas frecuentes">
+<!ENTITY pref_vendor_feedback "Enviar opinión">
 
+<!ENTITY pref_dialog_set_default "Establecer como predeterminado">
+<!ENTITY pref_dialog_default "Predeterminado">
+<!ENTITY pref_dialog_remove "Eliminar">
 
+<!ENTITY pref_search_last_toast "No puedes eliminar o deshabilitar tu último motor de búsqueda">
 
+<!ENTITY pref_panels_show "Mostrar">
+<!ENTITY pref_panels_hide "Ocultar">
+<!ENTITY pref_panels_reorder "Cambiar orden">
+<!ENTITY pref_panels_move_up "Ascender">
+<!ENTITY pref_panels_move_down "Descender">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY datareporting_notification_title "Estadísticas y datos de &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Elige que información compartir">
+<!ENTITY datareporting_notification_action "Elige que compartir">
+<!ENTITY datareporting_notification_summary "Para mejorar tu experiencia, &brandShortName; automáticamente enviará algo de información a &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Parar mejorar tu experiencia, &brandShortName;…">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
