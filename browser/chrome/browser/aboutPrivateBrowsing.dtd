@@ -51,7 +51,7 @@
 
 <!ENTITY trackingProtection.description1       "Las ventanas privadas ahora bloquean partes de la página que pueden rastrear la actividad de navegación.">
 
-<!ENTITY trackingProtection.disable            "Habilitar la protección de rastreo">
-<!ENTITY trackingProtection.enable             "Deshabilitar la protección de rastreo">
+<!ENTITY trackingProtection.disable            "Deshabilitar la protección de rastreo">
+<!ENTITY trackingProtection.enable             "Habilitar la protección de rastreo">
 <!ENTITY trackingProtection.startTour1         "Ver como funciona">
 
