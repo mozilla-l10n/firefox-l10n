@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Numatytasis">
 <!ENTITY smtpListSetDefault.accesskey "N">
 
+<!ENTITY serverDetails.label "Išsamesnė informacija apie pasirinktą serverį:">
 <!ENTITY serverDescription.label "Aprašas: ">
 <!ENTITY serverName.label "Serverio vardas:">
 <!ENTITY serverPort.label "Prievadas: ">
