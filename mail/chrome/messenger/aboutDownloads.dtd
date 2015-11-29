@@ -17,8 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "A">
 <!ENTITY cmd.removeFromHistory.label               "Pašalinti iš sąrašo">
 <!ENTITY cmd.removeFromHistory.accesskey           "š">
+<!ENTITY cmd.clearList.label                       "Išvalyti sąrašą">
+<!ENTITY cmd.clearList.accesskey                   "C">
 
-
-
-
-
+<!ENTITY cmd.searchDownloads.label                 "Ieškoti...">
+<!ENTITY cmd.searchDownloads.key                   "s">
