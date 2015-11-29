@@ -43,7 +43,7 @@
 <!ENTITY recoveryKeyEntry.label        "तपाईंको पुनर्स्थापना साँचो">
 <!ENTITY recoveryKeyEntry.accesskey    "स">
 <!ENTITY syncGenerateNewKey.label  "नयाँ कुञ्जी उत्पन्न गर्नुहोस्">
-<!ENTITY recoveryKeyBackup.description "अरु यन्त्रबाट &syncBrand.fullName.label;मा प्रवेश गर्नको लागि तपाईको रिकोभरि कि चाहिन्छ।कृपया एउटा जगेडा प्रतिलिपि बनाउनुहोस्।तपाईको रिकोभरि कि पुन: प्राप्त गर्न हामीले मदत गर्न सक्दैनाै।">
+<!ENTITY recoveryKeyBackup.description "अरु यन्त्रबाट &syncBrand.fullName.label;मा प्रवेश गर्नको लागि तपाईको रिकोभरि कि चाहिन्छ।कृपया एउटा जगेडा प्रतिलिपि बनाउनुहोस्।तपाईको रिकोभरि कि पुनः प्राप्त गर्न हामीले मदत गर्न सक्दैनाै।">
 
 <!ENTITY button.syncKeyBackup.print.label     "Pring...">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -58,7 +58,7 @@
 
 
 
-<!ENTITY addDevice.dialog.tryAgain.label    "कृपया पुन: प्रयास गर्नुहोस् ।">
+<!ENTITY addDevice.dialog.tryAgain.label    "कृपया पुनः प्रयास गर्नुहोस् ।">
 
 
 
