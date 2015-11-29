@@ -36,7 +36,7 @@
 
 <!ENTITY translation.translatedFrom.label       "इस पृष्ठ को इससे अनुवाद किया गया है">
 <!ENTITY translation.translatedTo.label         "प्रति">
-<!ENTITY translation.translatedToSuffix.label   "">
+<!ENTITY translation.translatedToSuffix.label   "‍">
 
 <!ENTITY translation.showOriginal.button        "मूल दिखाएँ">
 <!ENTITY translation.showTranslation.button     "अनुवाद दिखाएँ">
