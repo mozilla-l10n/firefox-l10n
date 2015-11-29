@@ -1,15 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  no_space_to_start_error "No hay suficiente espacio disponible para que &brandShortName; pueda iniciar.">
 <!ENTITY  error_loading_file "Ha ocurrido un error cuando se intentaba cargar archivos locales necesarios para ejecutar &brandShortName;">
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
-
-
-
-
+<!ENTITY  onboard_start_message3 "Navegar con &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Haz tu experiencia de navegación Web móvil verdaderamente tuya.">
+<!ENTITY  onboard_start_button_account "Iniciar sesión en &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Empezar navegación">
 <!ENTITY firstrun_button_next "Siguiente">
 
+<!ENTITY  onboard_start_restricted1 "Mantente seguro y en control con esta versión simplificada de &brandShortName;.">
 
 <!ENTITY firstrun_import_title "Importar">
 <!ENTITY firstrun_import_message "Bienvenido a &brandShortName;">
@@ -20,27 +24,35 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
+<!ENTITY  bookmarks_title "Marcadores">
+<!ENTITY  history_title "Historial">
+<!ENTITY  reading_list_title "Lista de lectura">
+<!ENTITY  recent_tabs_title "Pestañas recientes">
 
+<!ENTITY  switch_to_tab "Cambiar pestaña">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  crash_reporter_title "Reporte de fallos de &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; ha presentado un problema. Tus pestañas deberían estar colocadas en la página de inicio de &brandShortName; cuando lo reinicies.">
+<!ENTITY  crash_send_report_message3 "Decir a &vendorShortName; acerca de este fallo para que puedan corregirlo">
+<!ENTITY  crash_include_url2 "Incluir la dirección de la página en la que estaba">
+<!ENTITY  crash_sorry "Lo sentimos">
+<!ENTITY  crash_comment "Agregar un comentario (los comentarios son visibles para todos)">
+<!ENTITY  crash_allow_contact2 "Permitir a &vendorShortName; contactarme acerca de este reporte">
+<!ENTITY  crash_email "Tu correo electrónico">
+<!ENTITY  crash_closing_alert "¿Salir sin enviar el reporte de fallos?">
+<!ENTITY  sending_crash_report "Enviando reporte de fallos\u2026">
+<!ENTITY  crash_close_label "Cerrar">
 <!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
+<!ENTITY  exit_label "Salir">
 
+<!ENTITY  launcher_shortcuts_title "Aplicaciones Web de &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "No se encontraron aplicaciones web">
 
+<!ENTITY choose_file "Elegir archivo">
 
+<!ENTITY url_bar_default_text2 "Buscar o ingresar dirección">
 
-
-
+<!ENTITY bookmark "Marcador">
 
 
 <!-- Localization note (bookmark_already_added) : This string is
