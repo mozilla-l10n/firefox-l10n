@@ -586,7 +586,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "भिडियो उपकरणमा पठाउनुहोस">
 <!ENTITY castVideoCmd.accesskey       "e">
-<!ENTITY emailAudioCmd.label          "ईमेल अडियो…">
+<!ENTITY emailAudioCmd.label          "इमेल अडियो…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "यस प्लगिनलाई सक्षम पार्नुहोस्">
 <!ENTITY playPluginCmd.accesskey      "c">
