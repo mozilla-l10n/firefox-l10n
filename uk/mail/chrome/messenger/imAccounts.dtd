@@ -25,8 +25,8 @@
 <!ENTITY account.movedown.label       "Опустити">
 <!ENTITY account.cancelReconnection.label         "Скасувати перепід'єднання">
 <!ENTITY account.cancelReconnection.accesskey     "п">
-<!ENTITY account.copyDebugLog.label     "Copy Debug Log">
-<!ENTITY account.copyDebugLog.accesskey "C">
-<!ENTITY account.connecting           "Під'єднання…">
+<!ENTITY account.copyDebugLog.label     "Копіювати журнал зневадження">
+<!ENTITY account.copyDebugLog.accesskey "К">
+<!ENTITY account.connecting           "З'єднання…">
 <!ENTITY account.disconnecting        "Від'єднання…">
-<!ENTITY account.disconnected         "Не Під'єднано">
+<!ENTITY account.disconnected         "Не з'єднано">
