@@ -70,17 +70,17 @@
 <!ENTITY performanceUI.table.totalDuration            "कुल समय">
 
 <!ENTITY performanceUI.table.selfDuration             "अपन समय">
-
+<!ENTITY performanceUI.table.selfDuration.tooltip     "खाली एहि प्रकार्य मे लागल समय.">
 <!ENTITY performanceUI.table.totalPercentage          "कुल लागत">
-
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "एहि प्रकार्य मे लागल समय आओर प्रकार्य जे ई कॉल केलक.">
 <!ENTITY performanceUI.table.selfPercentage           "स्वयं लागत">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "खाली एहि समारोह क भीतर बेसी काल बिताबू">
 <!ENTITY performanceUI.table.samples                  "नमूना">
-
+<!ENTITY performanceUI.table.samples.tooltip          "जखन प्रोफाइलर नमुना लेलक बेर-बेर प्राकार्य ढ़ेर पर छल ">
 <!ENTITY performanceUI.table.function                 "प्रकार्य">
 <!ENTITY performanceUI.table.function.tooltip         "नमूना समारोहक नाम आओर स्रोत स्थान.">
 <!ENTITY performanceUI.table.totalAlloc               "कुल नमूना आवंटन">
-
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "एहि स्थान पर वस्तु आओर कॉली मे आवंटनक संख्या क नमूना.">
 <!ENTITY performanceUI.table.selfAlloc                "अपन नमूना आवंटन">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "एहि स्थान पर वस्तु आवंटन क संख्या क नमूना.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
@@ -136,7 +136,7 @@
   -  should be recorded. -->
 
 <!ENTITY performanceUI.enableJITOptimizations             "JIT अनुकूलन रिकार्ड करू">
-
+<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "सभ JavaScript फ्रेम मे JIT ऑप्टिमाइजेशन डेटा नमूना रेकार्ड करू.">
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
