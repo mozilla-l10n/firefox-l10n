@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "एप्प खोलू…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "संस्थापित करू आओर चलाबू">
-
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "एप्प रोकू">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "एप्प डिबग करू">
@@ -24,10 +24,11 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "वरीयता">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "अतिरिक्त घटक प्रबंधित करू">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "टैब रिफ्रेश करू">
 
-
-
-
+<!ENTITY runtimeMenu_label "रनटाइम">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "डिसकनेक्ट करू">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
@@ -39,21 +40,21 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "मानीटर">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
-
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "डिवाइस वरीयता">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "डिवाइस सेटिंग्स">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "देखू">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "टॉगल संपादक">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "पैघ करू">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "छोट करू">
-
-
-
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "जूम फेर स सेट करू">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "अनुप्रयोग खोलू">
 <!ENTITY runtimeButton_label "रनटाइम चुनू">
@@ -70,9 +71,10 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
-
-
-
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "हमर परियोजना">
 <!ENTITY projectPanel_runtimeApps "रनटाइम एप्प">
@@ -80,7 +82,7 @@
 <!ENTITY runtimePanel_usb "यूएसबी अओजार">
 <!ENTITY runtimePanel_wifi "Wi-Fi डिवाइस">
 <!ENTITY runtimePanel_simulator "सिमुलेटर">
-
+<!ENTITY runtimePanel_other "आन">
 <!ENTITY runtimePanel_installsimulator "सिम्युलेटर स्थापित करू">
 <!ENTITY runtimePanel_noadbhelper "एडीबी हेल्पर स्थापित करू">
 <!ENTITY runtimePanel_nousbdevice "अहाँक उपकरण नहि देख सकैत अछि?">
@@ -93,7 +95,7 @@
 <!ENTITY details_location "स्थान">
 <!ENTITY details_manifestURL "अनुप्रयोग आईडी">
 <!ENTITY details_removeProject_button "प्रोजेक्ट हटाबू">
-
+<!ENTITY details_showPrepackageLog_button "पैकेज पूर्व लॉग देखाबू">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "नव एप्प">
