@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Išimtys">
-
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "Svetainė">
 <!ENTITY treehead.status.label        "Leidimas">
@@ -15,13 +15,14 @@
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Neleisti">
 <!ENTITY block.accesskey              "N">
-
-
+<!ENTITY session.label                "Leisti vienam seansui">
+<!ENTITY session.accesskey            "n">
 <!ENTITY allow.label                  "Leisti">
 <!ENTITY allow.accesskey              "L">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "Atšaukti">
+<!ENTITY button.cancel.accesskey      "A">
+<!ENTITY button.ok.label              "Įrašyti pakeitimus">
+<!ENTITY button.ok.accesskey          "r">
 
