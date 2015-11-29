@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Marcar si desea guardar la contraseñá">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Ver el mensaje de instalación de aplicación">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Administrar uso de plugins en esta página">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "Cambiar si el sitio puede mostrar notificaciones">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Cambiar si desea recibir notificaciones de este sitio">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administrar compartición de cámara y/o micrófono con el sitio">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Está compartiendo cámara y/o micrófono con el sitio">
@@ -923,15 +923,6 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY panicButton.thankyou.msg1                "El historial reciente se ha limpiado.">
 <!ENTITY panicButton.thankyou.msg2                "¡Navegación segura!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Gracias!">
-
-<!ENTITY processHang.terminateScript.label        "Detener script">
-<!ENTITY processHang.terminateScript.accessKey    "s">
-<!ENTITY processHang.debugScript.label            "Depurar script">
-<!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Matar plugin">
-<!ENTITY processHang.terminatePlugin.accessKey    "P">
-<!ENTITY processHang.terminateProcess.label       "Matar proceso web">
-<!ENTITY processHang.terminateProcess.accessKey   "w">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Conocer más sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
