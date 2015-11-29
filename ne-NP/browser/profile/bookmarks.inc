@@ -19,7 +19,7 @@
 #define bookmarks_toolbarfolder पुस्तकचिनोहरू उपकरणपट्टी फोल्डर
 
 
-#define bookmarks_toolbarfolder_description पुस्तकचिनोहरू उपकरणपट्टीमा देखिनको लागि यो फोल्डरमा तिनीहरु थप्नुहोस
+#define bookmarks_toolbarfolder_description पुस्तकचिनोहरू उपकरणपट्टीमा देखिनको लागि यो फोल्डरमा तिनीहरू थप्नुहोस्
 
 
 # LOCALIZATION NOTE (getting_started):
@@ -46,7 +46,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 
 
-#define firefox_help सहायता र अभ्यासहरु
+#define firefox_help सहायता र अभ्यासहरू
 
 
 # LOCALIZATION NOTE (firefox_customize):
