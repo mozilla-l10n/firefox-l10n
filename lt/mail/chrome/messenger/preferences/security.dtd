@@ -25,7 +25,7 @@
 <!ENTITY resetTrainingData.accesskey "t">
 <!-- Phishing Detector -->
 
-<!ENTITY phishingDetector1.intro  "Analizuodama gaunamus laiškus programa gali patikrinti, ar juose nėra apgaulės.">
+<!ENTITY phishingDetector1.intro  "Analizuodama gaunamus laiškus programa „&brandShortName;“ gali patikrinti, ar jais nebandoma jūsų apgauti.">
 <!ENTITY enablePhishingDetector1.label    "Tikrinti, ar gaunamuose laiškuose nėra apgaulės">
 <!ENTITY enablePhishingDetector1.accesskey  "T">
 <!ENTITY useDownloadedList.label "Naudoti atsiųstą įtartinų laiškų sąrašą">

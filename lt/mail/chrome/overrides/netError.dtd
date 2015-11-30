@@ -47,7 +47,7 @@ dešininį brūkšnį <strong>/</strong>).</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumento galiojimas baigėsi">
-<!ENTITY notCached.longDesc "<p>Prašomo dokumento programos „&brandShortName;“ podėlyje nėra.</p><ul><li>Saugumo sumetimais „&brandShortName;“ jautrių dokumentų automatiškai iš naujo neatsiunčia.</li><li>Jeigu norite dokumentą iš svetainės atsiųsti iš naujo, spustelėkite „Bandyti dar kartą“.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Prašomo dokumento programos podėlyje nėra.</p><ul><li>Saugumo sumetimais „&brandShortName;“ jautrių dokumentų automatiškai iš naujo neatsiunčia.</li><li>Jeigu norite dokumentą iš svetainės atsiųsti iš naujo, spustelėkite „Bandyti dar kartą“.</li></ul>">
 
 <!ENTITY netOffline.title "Dirbama neprisijungus prie tinklo">
 <!ENTITY netOffline.longDesc2 "<ul> 
@@ -109,7 +109,7 @@ programai „&brandShortName;“ leidžiama pasiekti saityną.</li>
 <!ENTITY nssBadCert.title "Saugaus ryšio užmegzti nepavyko">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Ši problema gali kilti dėl blogai parinktų serverio nuostatų arba dėl bandymo apsimesti kitu serveriu.</li> 
-<li>Jei prie šio serverio sėkmingai jungtėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li> 
+<li>Jei prie šio serverio sėkmingai jungėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
@@ -132,7 +132,7 @@ programai „&brandShortName;“ leidžiama pasiekti saityną.</li>
 <p>Tokio tipo apgavystės dažniausiai pasitaiko atakose, kuriose, siekiant sudaryti patikimo šaltinio įvaizdį, pasitelkiami apgaulingi tinklalapiai ir elektroniniai laiškai.</p>">
 
 <!ENTITY cspBlocked.title "Užblokuota dėl saugumo politikos">
-<!ENTITY cspBlocked.longDesc "<p>Tinklalapis neįkeltas, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
+<!ENTITY cspBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
 
 <!ENTITY corruptedContentError.title "Klaida: duomenys pažeisti">
 <!ENTITY corruptedContentError.longDesc "<p>Turinio, kurį bandote atverti, parodyti negalima, nes, perduodant duomenis, įvyko klaida.</p><ul><li>Siūlome susisiekti su jo savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
