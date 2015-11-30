@@ -715,17 +715,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 <!ENTITY devtools_auth_scan_header "Veuillez scanner le QR code affiché par l\u0027autre appareil">
 
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restriction_disallow_addons_title2 "Désactiver l\u0027installation de modules">
-<!ENTITY restriction_disallow_private_browsing_title2 "Désactiver la navigation privée">
-<!ENTITY restriction_disallow_location_services_title2 "Désactiver les services de géolocalisation">
-<!ENTITY restriction_disallow_clear_history_title2 "Désactiver « Effacer l\u0027historique de navigation »">
-<!ENTITY restriction_disallow_master_password_title2 "Désactiver le mot de passe principal">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Désactiver la navigation invité">
-<!ENTITY restriction_disallow_advanced_settings_title "Désactiver les paramètres avancés">
-<!ENTITY restriction_disallow_camera_microphone_title "Bloquer la caméra et le microphone">
+<!ENTITY restrictable_feature_addons_installation "Modules complémentaires">
+<!ENTITY restrictable_feature_private_browsing "Navigation privée">
+<!ENTITY restrictable_feature_location_services "Services de géolocalisation">
+<!ENTITY restrictable_feature_clear_history "Effacer l\u0027historique">
+<!ENTITY restrictable_feature_guest_browsing "Navigation invité">
+<!ENTITY restrictable_feature_master_password "Mot de passe principal">
+<!ENTITY restrictable_feature_advanced_settings "Paramètres avancés">
+<!ENTITY restrictable_feature_camera_microphone "Caméra et microphone">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
