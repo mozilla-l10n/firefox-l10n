@@ -37,7 +37,7 @@
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 
-<!ENTITY performanceUI.unavailableNoticePB "Gravar um perfil atualmente não está disponível. Por favor feche todas as janelas de navegação privada e tente novamente.">
+<!ENTITY performanceUI.unavailableNoticePB "Atualmente, a gravação de perfil está indisponível. Por favor, feche todas as janelas de navegação privada e tente novamente.">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
 
