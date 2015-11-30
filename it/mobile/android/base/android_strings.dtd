@@ -431,14 +431,14 @@
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Uscire dalla modalità Navigazione anonima?">
 <!ENTITY intent_uri_cannot_open "Impossibile aprire il link">
 <!ENTITY devtools_auth_scan_header "Scansione del codice QR visualizzato sull’altro dispositivo">
-<!ENTITY restriction_disallow_addons_title2 "Disattiva installazione comp. aggiuntivi">
-<!ENTITY restriction_disallow_private_browsing_title2 "Disattiva Navigazione anonima">
-<!ENTITY restriction_disallow_location_services_title2 "Disattiva servizi di georilevazione">
-<!ENTITY restriction_disallow_clear_history_title2 "Disattiva “Elimina cronologia”">
-<!ENTITY restriction_disallow_master_password_title2 "Disattiva password principale">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Disattiva navigazione ospite">
-<!ENTITY restriction_disallow_advanced_settings_title "Disattiva impostazioni avanzate">
-<!ENTITY restriction_disallow_camera_microphone_title "Blocca fotocamera e microfono">
+<!ENTITY restrictable_feature_addons_installation "Componenti aggiuntivi">
+<!ENTITY restrictable_feature_private_browsing "Navigazione anonima">
+<!ENTITY restrictable_feature_location_services "Servizi di georilevazione">
+<!ENTITY restrictable_feature_clear_history "Eliminazione cronologia">
+<!ENTITY restrictable_feature_guest_browsing "Navigazione ospite">
+<!ENTITY restrictable_feature_master_password "Password principale">
+<!ENTITY restrictable_feature_advanced_settings "Impostazioni avanzate">
+<!ENTITY restrictable_feature_camera_microphone "Fotocamera e microfono">
 <!ENTITY bookmarks_about_browser "Firefox: informazioni sul browser">
 <!ENTITY bookmarks_addons "Firefox: personalizza con i componenti aggiuntivi">
 <!ENTITY bookmarks_support "Firefox: supporto">
