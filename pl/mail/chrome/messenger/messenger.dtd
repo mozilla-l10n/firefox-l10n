@@ -766,7 +766,7 @@
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Dodaj adres do książki adresowej">
+<!ENTITY AddToAddressBook.label "Dodaj do książki adresowej…">
 <!ENTITY AddToAddressBook.accesskey "k">
 <!ENTITY AddDirectlyToAddressBook.label "Dodaj do książki adresowej">
 <!ENTITY AddDirectlyToAddressBook.accesskey "D">
