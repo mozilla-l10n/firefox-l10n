@@ -14,6 +14,8 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "Questa connexiun n'è betg segira">
 
 <!-- These are going to be used for the updated design in Bug 1207107 -->
+<!ENTITY certerror.pagetitle1  "Connexiun betg segirada">
+<!ENTITY certerror.longpagetitle1 "Tia connexiun n'è betg segira">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
@@ -25,6 +27,10 @@ was trying to connect. -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Il possessur da <span class='hostname'/> ha configurà malamain sia pagina d'internet. Per proteger tias infurmaziuns dad enguladitschs n'ha &brandShortName; betg stabilì ina connexiun cun questa pagina d'internet.">
+<!ENTITY certerror.returnToPreviousPage.label "Turnar">
+<!ENTITY certerror.learnMore "Ulteriuras infurmaziuns…">
+<!ENTITY certerror.advanced.label "Avanzà">
 
 <!ENTITY certerror.whatShouldIDo.heading "Tge duai jau far?">
 <!ENTITY certerror.whatShouldIDo.content "Sche ti has normalmain nagins problems cun questa website, pudess questa errur muntar che insatgi falsifitgescha questa website. En quest cas na duessas ti betg cuntinuar.">
