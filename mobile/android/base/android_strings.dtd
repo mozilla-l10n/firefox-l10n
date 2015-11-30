@@ -426,7 +426,7 @@ size. -->
 
 <!ENTITY doorhanger_login_no_username "[Չկա օգտվողի անուն]">
 <!ENTITY doorhanger_login_edit_title "Խմբագրել մուտքանունը">
-<!ENTITY doorhanger_login_edit_username_hint "Օգտվողի Անունը">
+<!ENTITY doorhanger_login_edit_username_hint "Օգտվողի անուն">
 <!ENTITY doorhanger_login_edit_password_hint "Գաղտնաբառ">
 <!ENTITY doorhanger_login_edit_toggle "Ցուցադրել գաղտնաբառը">
 <!ENTITY doorhanger_login_edit_toast_error "Հնարավոր չեղավ պահպանել մուտքագրումը">
