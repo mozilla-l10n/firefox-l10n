@@ -8,7 +8,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bem-vindo">
 <!ENTITY  onboard_start_message3 "Explorar com o &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Torne a sua navegação web verdadeiramente sua.">
+<!ENTITY  onboard_start_subtext3 "Torne a sua experiência de navegação na Web móvel verdadeiramente sua.">
 <!ENTITY  onboard_start_button_account "Iniciar sessão no &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Começar a navegar">
 <!ENTITY firstrun_button_next "Seguinte">
@@ -16,7 +16,7 @@
 <!ENTITY  onboard_start_restricted1 "Mantenha-se seguro e em controlo com esta versão simplificada do &brandShortName;.">
 
 <!ENTITY firstrun_import_title "Importar">
-<!ENTITY firstrun_import_message "Bem vindo ao &brandShortName;">
+<!ENTITY firstrun_import_message "Bem-vindo ao &brandShortName;">
 <!ENTITY firstrun_import_subtext "Importar os seus marcadores e histórico de outro navegador.">
 <!ENTITY firstrun_import_action "Transferir para o &brandShortName;">
 <!ENTITY firstrun_import_dialog_button "Transferir">
@@ -38,7 +38,7 @@
 <!ENTITY  crash_sorry "Pedimos desculpa">
 <!ENTITY  crash_comment "Adicionar um comentário (os comentários são públicos)">
 <!ENTITY  crash_allow_contact2 "Autorizar que a &vendorShortName; me contacte sobre este erro">
-<!ENTITY  crash_email "O seu endereço de e-mail">
+<!ENTITY  crash_email "O seu email">
 <!ENTITY  crash_closing_alert "Sair sem enviar um relatório de erro?">
 <!ENTITY  sending_crash_report "A enviar relatório de erro\u2026">
 <!ENTITY  crash_close_label "Fechar">
