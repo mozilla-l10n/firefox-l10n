@@ -5,7 +5,7 @@
 
 <!ENTITY pref.smartUpdate.title               "Instalação de Software">
 <!ENTITY addOnsTitle.label                    "Extras">
-<!ENTITY addOnsAllow.label                    "Permitir sítios web de instalar atualizações de extras">
+<!ENTITY addOnsAllow.label                    "Permitir websites de instalar atualizações de extras">
 <!ENTITY addOnsAllow.accesskey                "b">
 <!ENTITY allowedSitesLink.label               "Sites autorizados">
 <!ENTITY autoAddOnsUpdates.label              "Procurar atualizações automaticamente">

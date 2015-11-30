@@ -19,7 +19,7 @@
 <!ENTITY allowHWAccel.accesskey                 "e">
 <!ENTITY textZoomOnly.label                     "Ampliar apenas o texto em vez de toda a página">
 <!ENTITY textZoomOnly.accesskey                 "A">
-<!ENTITY blockAutoRefresh.label                 "Avisar-me quando o sítio tenta redirecionar ou recarregar a página">
-<!ENTITY blockAutoRefresh.accesskey             "v">
-<!ENTITY siteSpecific.label                     "Memorizar nível de ampliação por sítio">
-<!ENTITY siteSpecific.accesskey                 "M">
+<!ENTITY blockAutoRefresh.label                 "Avisar-me quando websites tentam redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.accesskey             "w">
+<!ENTITY siteSpecific.label                     "Memorizar nível de ampliação por site">
+<!ENTITY siteSpecific.accesskey                 "m">

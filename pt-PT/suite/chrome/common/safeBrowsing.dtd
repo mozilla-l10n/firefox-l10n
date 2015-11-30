@@ -6,15 +6,15 @@
 <!ENTITY safeb.palm.decline.label "Ignorar este aviso">
 <!ENTITY safeb.palm.reportPage.label "Porque é que esta página foi bloqueada?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Suspeita de sítio maligno!">
+<!ENTITY safeb.blocked.malwarePage.title "Suspeita de página de ataque!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "O sítio web em  <span id='malware_sitename'/> foi denunciado como um sítio maligno e foi bloqueado de acordo com as suas preferências de segurança.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "A página web em <span id='malware_sitename'/> foi denunciada como uma página de ataque e foi bloqueada de acordo com as suas preferências de segurança.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>As páginas de ataque tentam instalar programas que roubam a sua informação privada, usam o seu computador para atacar outros ou danificam o seu sistema.</p><p>Algumas páginas de ataque distribuem intencionalmente software que provoca estragos, mas muitos foram comprometidos sem o conhecimento e/ou permissão dos seus donos.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Sites identificado como fraude!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "O sítio web em <span id='phishing_sitename'/> foi denunciado como uma fraude web e foi bloqueado de acordo com as suas preferências de segurança.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>As fraudes web são desenhadas para o levar a divulgar informação pessoal e/ou financeira através da imitação de sítios nos quais você pode confiar.</p><p>Introduzir qualquer informação neste sítio web poderá resultar em roubo de identidade ou outro tipo de fraude.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "A página web em <span id='phishing_sitename'/> foi denunciada como uma página falsificada e foi bloqueada de acordo com as suas preferências de segurança.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>As páginas falsificadas são desenhadas para o levar a digitar informação pessoal e/ou de pagamento através da imitação de sites em que costuma confiar.</p><p>Digitar qualquer informação neste site poderá resultar em roubo de identidade ou outro tipo de fraude.</p>">
 
 <!ENTITY reportPhishSite.label         "Reportar como fraude web…">
 <!ENTITY reportPhishSite.accesskey     "w">
