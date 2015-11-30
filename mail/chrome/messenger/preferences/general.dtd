@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerStartPage.label         "„&brandShortName;“ pradžios tinklalapis">
-<!ENTITY enableStartPage.label            "Paleidžiant programą rodyti pradžios tinklalapį">
+<!ENTITY enableStartPage.label            "Paleidžiant programą „&brandShortName;“ laiškų polangyje rodyti pradžios tinklalapį">
 <!ENTITY enableStartPage.accesskey        "P">
 <!ENTITY location.label                   "Adresas:">
 <!ENTITY location1.accesskey               "A">

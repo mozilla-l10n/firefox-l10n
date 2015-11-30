@@ -34,7 +34,7 @@
 <!ENTITY configEditDesc.label          "Papildoma sąranka (patyrusiems naudotojams).">
 <!ENTITY configEdit.label              "Visų parametrų sąrašas…">
 <!ENTITY configEdit.accesskey          "V">
-<!ENTITY returnReceiptsInfo.label      "Parinkite pažymų apie pristatytus laiškus nuostatas">
+<!ENTITY returnReceiptsInfo.label      "Nustatykite kaip „&brandShortName;“ tvarko pažymas apie pristatytus laiškus">
 <!ENTITY showReturnReceipts.label      "Laiškų pristatymo pažymos…">
 <!ENTITY showReturnReceipts.accesskey  "L">
 <!-- Data Choices -->

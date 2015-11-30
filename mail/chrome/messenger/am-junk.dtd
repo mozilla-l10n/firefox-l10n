@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Brukalo nuostatos">
-<!ENTITY trainingDescription.label "Įjungus adaptyvųjį brukalo filtrą, programą „&brandShortName;“ reikės apmokyti, jai parodant, kurie laiškai laikomi brukalu, o kurie – ne. Tam naudokite mygtuką „Brukalas“ priemonių juostoje. Šitaip apmokius programą, brukalą ji mokės atskirti pati.">
+<!ENTITY trainingDescription.label "Įjungus adaptyvųjį brukalo filtrą programą „&brandShortName;“pirma  reikės apmokyti, jai parodant, kurie laiškai laikomi brukalu, o kurie – ne. Tam naudokite mygtuką „Brukalas“ priemonių juostoje. Šitaip apmokius programą, vėliau brukalą ji mokės atskirti pati.">
 <!ENTITY level.label "Įjungti šios paskyros adaptyvųjį brukalo filtrą">
 <!ENTITY level.accesskey "u">
 
