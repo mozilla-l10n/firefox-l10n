@@ -58,8 +58,8 @@
 <!ENTITY cookies.button.remove.label "Remover">
 <!ENTITY cookies.button.remove.accesskey "R">
 
-<!ENTITY cookies.blockOnRemove.label "Ao remover, bloquear os sítios web listados de instalar cookies no futuro">
-<!ENTITY cookies.blockOnRemove.accesskey "o">
+<!ENTITY cookies.blockOnRemove.label "Ao remover, bloquear os websites listados de definir cookies no futuro">
+<!ENTITY cookies.blockOnRemove.accesskey "w">
 <!-- permissions -->
 
 <!ENTITY perm.UseDefault "Utilizar predefinições">
@@ -75,7 +75,7 @@
 <!ENTITY perm.button.add.accesskey "A">
 <!-- preferences -->
 
-<!ENTITY prefs.description "As preferências de conteúdo são uma forma do &brandShortName; guardar as suas definições, como os níveis de ampliação, para um determinado sítio web.">
+<!ENTITY prefs.description "As preferências de conteúdo são uma forma do &brandShortName; guardar as suas definições, como os níveis de ampliação, para um determinado website.">
 
 <!ENTITY prefs.tree.host.label "Site">
 <!ENTITY prefs.tree.name.label "Nome da preferência">

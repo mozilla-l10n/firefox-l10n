@@ -4,7 +4,7 @@
 
 <!ENTITY     tab.cookiesonsystem.label      "Cookies guardados">
 <!ENTITY     tab.bannedservers.label        "Sites do cookie">
-<!ENTITY     div.bannedservers.label        "Gerir os sítios que podem ou não guardar cookies no seu computador.">
+<!ENTITY     div.bannedservers.label        "Gerir os websites que podem ou não guardar cookies no seu computador.">
 <!ENTITY     div.cookiesonsystem.label      "Ver e remover cookies guardados no seu computador.">
 <!ENTITY     treehead.cookiename.label      "Nome do cookie">
 <!ENTITY     treehead.cookiedomain.label    "Site">
@@ -41,8 +41,8 @@
 <!ENTITY     allowSiteSession.accesskey     "S">
 <!ENTITY     removepermission.label         "Remover site">
 <!ENTITY     removepermission.accesskey     "R">
-<!ENTITY     removeallpermissions.label     "Remover todos os sítios">
+<!ENTITY     removeallpermissions.label     "Remover todos os websites">
 <!ENTITY     removeallpermissions.accesskey "e">
 
-<!ENTITY     futureCookies.label            "Não permitir sítios que removem cookies para usar cookies futuros">
-<!ENTITY     futureCookies.accesskey        "m">
+<!ENTITY     futureCookies.label            "Não permitir websites que removem cookies para definir cookies futuros">
+<!ENTITY     futureCookies.accesskey        "d">

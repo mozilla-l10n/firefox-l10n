@@ -30,7 +30,7 @@
 <!ENTITY rights.intro-point3c ".">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "O &brandShortName; oferece serviços de informação opcionais sobre sítios web, tais como serviços de Extras ou de navegação segura; no entanto, não podemos garantir que estes são 100&#037; fiáveis ou livres de erros. Para mais detalhes, incluindo informação sobre como desativar os serviços, podem ser encontrados nos ">
+<!ENTITY rights2.intro-point4a "O &brandShortName; oferece serviços de informação opcionais sobre websites, tais como serviços de Extras ou de navegação segura; no entanto, não podemos garantir que estes são 100&#037; fiáveis ou livres de erros. Para mais detalhes, incluindo informação sobre como desativar os serviços, podem ser encontrados nos ">
 <!ENTITY rights.intro-point4b "termos do serviço">
 <!ENTITY rights.intro-point4c ".">
 
@@ -56,7 +56,7 @@
 
 
 <!ENTITY rights.safebrowsing-a "Navegação segura: ">
-<!ENTITY rights.safebrowsing-b "A desativação da funcionalidade de navegação segura não é recomendável dado que pode resultar na visita de sítios inseguros. Se quiser desativar completamente a funcionalidade, siga estes passos:">
+<!ENTITY rights.safebrowsing-b "A desativação da funcionalidade de navegação segura não é recomendável dado que pode resultar na visita de sítios inseguros.  Se quiser desativar completamente a funcionalidade, siga estes passos:">
 <!ENTITY rights.safebrowsing-term1 "Abrir preferências da aplicação">
 <!ENTITY rights.safebrowsing-term2 "Selecionar o painel principal &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Desmarque as opções para &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">

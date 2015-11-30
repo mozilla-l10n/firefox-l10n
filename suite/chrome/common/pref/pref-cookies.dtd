@@ -11,10 +11,10 @@
 <!ENTITY disableCookies.label           "Bloquear cookies">
 <!ENTITY disableCookies.accesskey       "B">
 
-<!ENTITY accNo3rdPartyCookies.label     "Permitir cookies apenas para o sítio web de origem (sem cookies de terceiros)">
+<!ENTITY accNo3rdPartyCookies.label     "Permitir cookies apenas para o website de origem (sem cookies de terceiros)">
 <!ENTITY accNo3rdPartyCookies.accesskey "o">
 
-<!ENTITY acc3rdPartyVisited.label       "Permitir cookies de terceiros apenas para sítios web visitados anteriormente">
+<!ENTITY acc3rdPartyVisited.label       "Permitir cookies de terceiros apenas para websites visitados anteriormente">
 <!ENTITY acc3rdPartyVisited.accesskey   "v">
 
 <!ENTITY accAllCookies.label            "Permitir todos os cookies">
@@ -38,7 +38,7 @@
 <!ENTITY forCurrentSession.accesskey    "e">
 
 <!ENTITY manageCookies.label            "Gerir cookies e sites">
-<!ENTITY manageCookiesDescription.label "Permite-lhe ver e gerir cookies guardados e definir por sítio se aceita ou rejeita cookies. Definições por sítio sobrepõem-se às definições acima.">
+<!ENTITY manageCookiesDescription.label "Permite-lhe ver e gerir cookies guardados e definir por website se aceita ou rejeita cookies. Definições por website sobrepõem-se às definições acima.">
 
 <!ENTITY viewCookies.label              "Gestor de cookies">
 <!ENTITY viewCookies.accesskey          "G">
