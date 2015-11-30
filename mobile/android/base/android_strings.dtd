@@ -32,7 +32,7 @@
 <!ENTITY  switch_to_tab "K rejtarkoju pśěpěś">
 
 <!ENTITY  crash_reporter_title "&brandShortName; - rozpšawjak wowalenjow">
-<!ENTITY  crash_message2 "&brandShortName; jo problem měł a jo wowalił. Waše rejtarki by měli se na startowem boku &brandShortName; nalicyś, gaž startujośo znowego.">
+<!ENTITY  crash_message2 "&brandShortName; jo problem měł a jo se wowalił. Waše rejtarki by měli se na startowem boku &brandShortName; nalicyś, gaž startujośo znowego.">
 <!ENTITY  crash_send_report_message3 "Informěrujśo &vendorShortName; wó toś tom wowalenju, aby mógał jen wótpórał">
 <!ENTITY  crash_include_url2 "Adresu boka zapśimjeś, kótaryž som se woglědał">
 <!ENTITY  crash_sorry "Jo nam luto">
