@@ -7,9 +7,9 @@
 <!ENTITY treehead.status.label          "Estado">
 <!ENTITY remove.label                   "Remover site">
 <!ENTITY remove.accesskey               "R">
-<!ENTITY removeall.label                "Remover todos os sítios">
+<!ENTITY removeall.label                "Remover todos os websites">
 <!ENTITY removeall.accesskey            "e">
-<!ENTITY address.label                  "Endereço do sítio web:">
+<!ENTITY address.label                  "Endereço do website:">
 <!ENTITY address.accesskey              "d">
 <!ENTITY block.label                    "Bloquear">
 <!ENTITY block.accesskey                "B">

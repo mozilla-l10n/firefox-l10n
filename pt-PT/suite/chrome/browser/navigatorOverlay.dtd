@@ -96,31 +96,31 @@
 <!ENTITY cookieMessageTitle.label "Permissões do cookie alteradas">
 <!ENTITY cookieDisplayCookiesCmd.label "Gerir cookies guardados">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "k">
-<!ENTITY cookieAllowCookiesCmd.label "Permitir cookies deste sítio web">
-<!ENTITY cookieAllowCookiesCmd.accesskey "w">
-<!ENTITY cookieAllowCookiesMsg.label "Os cookies deste sítio web serão sempre permitidos.">
-<!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies de sessão deste sítio web">
+<!ENTITY cookieAllowCookiesCmd.label "Permitir cookies deste website">
+<!ENTITY cookieAllowCookiesCmd.accesskey "P">
+<!ENTITY cookieAllowCookiesMsg.label "Os cookies deste website serão sempre permitidos.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies de sessão deste website">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
-<!ENTITY cookieAllowSessionCookiesMsg.label "Este sítio web apenas pode definir cookies para a sessão atual.">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Este website apenas pode definir cookies para a sessão atual.">
 <!ENTITY cookieCookiesDefaultCmd.label "Utilizar permissões pré-definidas de cookies">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
-<!ENTITY cookieCookiesDefaultMsg.label "Os cookies deste sítio web serão aceites ou rejeitados baseado nas pré-definições.">
-<!ENTITY cookieBlockCookiesCmd.label "Bloquear cookies deste sítio web">
+<!ENTITY cookieCookiesDefaultMsg.label "Os cookies deste website serão aceites ou rejeitados baseado nas pré-definições.">
+<!ENTITY cookieBlockCookiesCmd.label "Bloquear cookies deste website">
 <!ENTITY cookieBlockCookiesCmd.accesskey "B">
-<!ENTITY cookieBlockCookiesMsg.label "Os cookies deste sítio web serão sempre rejeitados.">
+<!ENTITY cookieBlockCookiesMsg.label "Os cookies deste website serão sempre rejeitados.">
 
 <!ENTITY cookieImageMessageTitle.label "Permissões da imagem alteradas">
 <!ENTITY cookieDisplayImagesCmd.label "Gerir permissões da imagem">
 <!ENTITY cookieDisplayImagesCmd.accesskey "m">
-<!ENTITY cookieAllowImagesCmd.label "Permitir imagens deste sítio web">
+<!ENTITY cookieAllowImagesCmd.label "Permitir imagens deste website">
 <!ENTITY cookieAllowImagesCmd.accesskey "a">
-<!ENTITY cookieAllowImagesMsg.label "As imagens deste sítio web serão sempre descarregadas.">
+<!ENTITY cookieAllowImagesMsg.label "As imagens deste website serão sempre descarregadas.">
 <!ENTITY cookieImagesDefaultCmd.label "Utilizar permissões pré-definidas de imagem">
 <!ENTITY cookieImagesDefaultCmd.accesskey "U">
-<!ENTITY cookieImagesDefaultMsg.label "As imagens deste sítio web serão descarregadas com base nas pré-definições.">
-<!ENTITY cookieBlockImagesCmd.label "Bloquear imagens deste sítio web">
+<!ENTITY cookieImagesDefaultMsg.label "As imagens deste website serão descarregadas com base nas pré-definições.">
+<!ENTITY cookieBlockImagesCmd.label "Bloquear imagens deste website">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
-<!ENTITY cookieBlockImagesMsg.label "As imagens deste sítio web nunca serão descarregadas.">
+<!ENTITY cookieBlockImagesMsg.label "As imagens deste website nunca serão descarregadas.">
 
 <!ENTITY cookieAllowPopupsCmd.label "Permitir janelas pop-up deste site">
 <!ENTITY cookieAllowPopupsCmd.accesskey "a">

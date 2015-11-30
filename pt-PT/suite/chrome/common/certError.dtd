@@ -14,27 +14,27 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "Pediu ao &brandShortName; para se ligar 
 com segurança a <b>#1</b>, mas não podemos confirmar que a sua ligação é segura.">
-<!ENTITY certerror.introPara2 "Normalmente, quando se tenta ligar com segurança, 
-os sítios apresentam a identificação de segurança para provar que você está no 
-bom caminho. No entanto, a identidade deste sítio não pode ser verificada.">
+<!ENTITY certerror.introPara2 "Normalmente, quando tenta estabelecer uma ligação segura, os websites 
+mostram a identificação de segurança para lhe provar que está a ir para o sítio certo. 
+No entanto, a identidade deste website não pode ser verificada.">
 
 <!ENTITY certerror.whatShouldIDo.heading "O que devo fazer?">
-<!ENTITY certerror.whatShouldIDo.content "Se se costuma ligar a este sítio 
+<!ENTITY certerror.whatShouldIDo.content "Se se costuma ligar a este website 
 regularmente sem problemas, este erro pode significar que alguém está a tentar 
-fazer-se passar por este sítio e como tal não deve continuar.">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sítio utiliza HTTP 
-Strict Transport Security (HSTS) para especificar que o &brandShortName; apenas
-pode estabelecer uma ligação segura. Como resultado, não é possível adicionar
+fazer-se passar por este website e como tal não deve continuar.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site utiliza HTTP 
+Strict Transport Security (HSTS) para especificar que o &brandShortName; apenas 
+pode estabelecer uma ligação segura. Como resultado, não é possível adicionar 
 uma exceção para este certificado.">
 <!ENTITY certerror.getMeOutOfHere.label "Isto parece estranho e quero voltar para a página inicial">
 
 <!ENTITY certerror.expert.heading "Eu compreendo os riscos">
 <!ENTITY certerror.expert.content "Se compreender o que se está a passar, pode 
-dizer ao &brandShortName; para começar a confiar na identificação deste sítio. 
-<b>Mesmo que confie no sítio, este erro pode significar que alguém está a monitorizar 
+dizer ao &brandShortName; para começar a confiar na identificação deste website. 
+<b>Mesmo que confie no website, este erro pode significar que alguém está a monitorizar 
 a sua ligação.</b>">
-<!ENTITY certerror.expert.contentPara2 "Não adicione uma excepção a menos que saiba de
-uma boa razão para este sítio não ter uma identificação de confiança.">
+<!ENTITY certerror.expert.contentPara2 "Não adicione uma exceção a menos que saiba de 
+uma boa razão para este website não ter uma identificação de confiança.">
 <!ENTITY certerror.addException.label "Adicionar exceção…">
 
 <!ENTITY certerror.technical.heading "Detalhes técnicos">

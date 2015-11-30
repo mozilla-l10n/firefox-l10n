@@ -5,11 +5,11 @@
 
 
 <!ENTITY pref.content.title                     "Conteúdo">
-<!ENTITY pref.content.description               "Estas definições influenciam como um sítio web e o conteúdo de mensagens aparecem no &brandShortName;.">
-<!ENTITY siteIcons.label                        "Ícones do sítio web">
-<!ENTITY useSiteIcons.label                     "Mostrar ícones do sítio web">
+<!ENTITY pref.content.description               "Estas definições influenciam como um website e o conteúdo de mensagens aparecem no &brandShortName;.">
+<!ENTITY siteIcons.label                        "Ícones do website">
+<!ENTITY useSiteIcons.label                     "Mostrar ícones do website">
 <!ENTITY useSiteIcons.accesskey                 "s">
-<!ENTITY useFavIcons.label                      "Procurar agressivamente ícones do sítio web quando a página não define nenhum">
+<!ENTITY useFavIcons.label                      "Procurar agressivamente ícones do website quando a página não define nenhum">
 <!ENTITY useFavIcons.accesskey                  "a">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens grandes para caberem na janela do navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">

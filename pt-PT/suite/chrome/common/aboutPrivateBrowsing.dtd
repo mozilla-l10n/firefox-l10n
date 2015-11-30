@@ -12,7 +12,7 @@
 <!ENTITY privatebrowsingpage.status.private      "O &brandShortName; não irá guardar o histórico desta janela.">
 <!ENTITY privatebrowsingpage.status.normal       "Você não está numa janela de navegação privada.">
 
-<!ENTITY privatebrowsingpage.common.description  "Na janela de navegação privada, o &brandShortName; não guarda o histórico de navegação, pesquisa, descargas, formulários, cookies e ficheiros temporários. Contudo, os marcadores criados ou descargas efetuadas serão mantidos.">
+<!ENTITY privatebrowsingpage.common.description  "Na janela de navegação privada, o &brandShortName; não guarda o histórico de navegação, pesquisa, descargas, formulários, cookies e ficheiros temporários.  Contudo, os marcadores criados ou descargas efetuadas serão mantidos.">
 <!ENTITY privatebrowsingpage.track.warn          "Apesar de não ser registado o histórico de navegação, a sua entidade empregadora ou fornecedor de serviços da Internet poderão monitorizar as páginas acedidas.">
 <!ENTITY privatebrowsingpage.learnmore.label     "Saber mais">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "S">

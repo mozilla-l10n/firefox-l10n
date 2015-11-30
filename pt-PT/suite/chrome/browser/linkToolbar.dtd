@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Link Toolbar Title -->
 
-<!ENTITY linkToolbar.label "Barra de navegação do sítio">
+<!ENTITY linkToolbar.label "Barra de navegação do website">
 <!ENTITY linkToolbar.accesskey "a">
-<!ENTITY linkToolbar.tooltip "Barra de navegação do sítio">
+<!ENTITY linkToolbar.tooltip "Barra de navegação do website">
 <!-- Link Toolbar visibility options -->
 
 <!ENTITY linkToolbarAlways.label "Mostrar sempre">

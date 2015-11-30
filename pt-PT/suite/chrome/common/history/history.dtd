@@ -32,7 +32,7 @@
 <!ENTITY view.groupDay.accesskey        "D">
 <!ENTITY view.groupSite.label           "Site">
 <!ENTITY view.groupSite.accesskey       "S">
-<!ENTITY view.groupDayAndSite.label     "Dia e sítio">
+<!ENTITY view.groupDayAndSite.label     "Dia e website">
 <!ENTITY view.groupDayAndSite.accesskey "a">
 
 <!ENTITY cmd.open.label                 "Abrir">
