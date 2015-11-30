@@ -229,21 +229,24 @@
      to cause this tab to appear. -->
 
 <!ENTITY experiment.info.label "ఇది ఏమిటి? టెలీమెట్రీ అప్పుడప్పుడూ ప్రయోగాలను స్థాపించి నడుపుతూండవచ్చు.">
-<!ENTITY experiment.info.learnmore "మరింత నేర్చుకోండి">
+<!ENTITY experiment.info.learnmore "ఇంకా తెలుసుకోండి">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "టెలీమెట్రీ అమరికలు">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "మరింత తెలుసుకోండి…">
 
+<!ENTITY disabledUnsigned.heading "కొన్ని పొడిగింతలు అచేతనించబడ్డాయి">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.description.start "&brandShortName;‌లో వాడటానికి ఈ కింది పొడిగింతలు తనిఖీ చేయబడలేదు. మీరు ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "ప్రత్యామ్నాయాలు చూసుకోవచ్చు">
+<!ENTITY disabledUnsigned.description.end " లేదా డెవలపర్లను వాటిని తనిఖీ చేయించమని అడగవచ్చు.">
 <!ENTITY disabledUnsigned.learnMore "ఆన్‌లైన్లో మిమ్మల్ని సురక్షితంగా ఉంచడానికి మేం చేసే కృషి గురించి తెలుసుకోండి.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "తమ పొడిగింతలను తనిఖీ చేయించుకోవాలనుకునే డెవలపర్లు మా ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "మాన్యువల్">
-<!ENTITY disabledUnsigned.devInfo.end ".">
+<!ENTITY disabledUnsigned.devInfo.end "లో చెప్పినట్టు కొనసాగవచ్చు.">
