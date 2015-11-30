@@ -201,7 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Kevaskit ma fell deoc'h enrollañ ho ker-tremen">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Gwelout kemennadenn staliadur an arload">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Ardeiñ an arver askouezh war ar bajenn-mañ">
-
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Merañ penaos e c'hall al lec'hienn kas rebuzadurioù deoc'h">
 
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Rannañ a reoc'h ho kamera ha/pe ho mikrofon gant al lec'hienn">
 
