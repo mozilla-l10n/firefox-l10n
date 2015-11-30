@@ -201,14 +201,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Kevaskit ma fell deoc'h enrollañ ho ker-tremen">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Gwelout kemennadenn staliadur an arload">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Ardeiñ an arver askouezh war ar bajenn-mañ">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "Merañ penaos e c'hall al lec'hienn kas rebuzadurioù deoc'h">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Ardeiñ penaos e c'hall al lec'hienn kas rebuzadurioù deoc'h">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Ardeiñ rannadur ho kamera ha/pe ho mikrofon gant al lec'hienn">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Rannañ a reoc'h ho kamera ha/pe ho mikrofon gant al lec'hienn">
-
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Ardeiñ rannadur ho mikrofon gant al lec'hienn">
 <!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Rannañ a rit ho mikrofon gant al lec'hienn">
-
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Ardeiñ rannadur ho prenestr pe ho skramm gant al lec'hienn">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Rannañ a reoc'h ur prenestr pe ho skramm gant al lec'hienn">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Ardeiñ ma c'hell bezañ kuzhet al logodenn gant al lec'hienn">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "Gwelout kemennadenn staliadur ar gwazerezh">
 <!ENTITY urlbar.translateNotificationAnchor.label       "Treiñ ar bajenn-mañ">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Ardeiñ troidigezh ar bajenn">
