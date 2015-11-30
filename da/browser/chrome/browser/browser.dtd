@@ -211,12 +211,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Du deler et vindue eller din skærm med webstedet">
 
 <!ENTITY urlbar.pointerLockNotificationAnchor.label     "Vælg om webstedet kan skjule markøren">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "View the service install message">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Translate this page">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Manage page translation">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Manage use of DRM software">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Vis beskeden om installering af service">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Oversæt siden">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Administrer side-oversættelser">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Administrer brug af DRM-software">
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Show history">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historie">
 
 
 <!ENTITY searchItem.title             "Søgefelt">

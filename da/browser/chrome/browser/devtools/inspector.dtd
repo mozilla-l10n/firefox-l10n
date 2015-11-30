@@ -79,6 +79,32 @@
      current node -->
 <!ENTITY inspectorHTMLDelete.label          "Slet node">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
+<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     attribute items, which allow to:
+     - add new attribute
+     - edit attribute
+     - remove attribute -->
+<!ENTITY inspectorAttributeSubmenu.label      "Attribut">
+<!ENTITY inspectorAttributeSubmenu.accesskey  "A">
+
+<!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users add attribute
+     to current node -->
+<!ENTITY inspectorAddAttribute.label        "Tilføj attribut">
+<!ENTITY inspectorAddAttribute.accesskey    "T">
+
+<!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users edit attribute
+     for current node -->
+<!ENTITY inspectorEditAttribute.label        "Rediger attribut">
+<!ENTITY inspectorEditAttribute.accesskey    "R">
+
+<!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users delete attribute
+     from current node -->
+<!ENTITY inspectorRemoveAttribute.label        "Fjern attribut">
+<!ENTITY inspectorRemoveAttribute.accesskey    "F">
 
 <!ENTITY inspector.selectButton.tooltip     "Vælg element med musen">
 
@@ -125,3 +151,8 @@
      shown in the inspector contextual-menu for the item that lets users take
      a screenshot of the currently selected node. -->
 <!ENTITY inspectorScreenshotNode.label       "Tag skærmbillede af node">
+
+<!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users
+     duplicate the currently selected node. -->
+<!ENTITY inspectorDuplicateNode.label       "Kopier node">
