@@ -761,7 +761,7 @@
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY search.label.base "Szukaj… #1">
+<!ENTITY search.label.base1 "Szukaj #1">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
