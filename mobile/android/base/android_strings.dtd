@@ -342,7 +342,7 @@ size. -->
 
 <!ENTITY datareporting_fhr_title "Relatório de estado do &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Partilha dados com a &vendorShortName; sobre o estado do seu navegador e ajuda a compreender o desempenho do navegador">
-<!ENTITY datareporting_abouthr_title "Ver o relatório do estado">
+<!ENTITY datareporting_abouthr_title "Ver o meu Relatório do Estado">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Partilha dados de desempenho, utilização, hardware e personalização do seu navegador com a &vendorShortName; para nos ajudar a melhorar o &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de erro para ajudar a &vendorShortName; a tornar o seu navegador mais estável e seguro">

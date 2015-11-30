@@ -16,39 +16,39 @@
 
 <!ENTITY sync.subtitle.connect.label "Para ativar o seu novo dispositivo, selecione “Configurar o &syncBrand.shortName.label;”.">
 <!ENTITY sync.subtitle.header2.label "Introduza este código no seu dispositivo">
-<!ENTITY sync.subtitle.connectlocation2.label "Selecione “&sync.title.pair.label;” na secção &syncBrand.shortName.label; na opções do Firefox no computador.">
+<!ENTITY sync.subtitle.connectlocation2.label "Selecione “&sync.title.pair.label;” na secção &syncBrand.shortName.label; das suas outras opções do dispositivo Firefox.">
 <!ENTITY sync.subtitle.pair.label "Para ativar selecione, “Emparelhar um dispositivo” no seu outro dispositivo.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Mostre-me como.">
 <!ENTITY sync.link.advancedsetup.label "Configuração avançada...">
-<!ENTITY sync.link.nodevice.label "Não tenho o dispositivo comigo…">
+<!ENTITY sync.link.nodevice.label "Eu não tenho o dispositivo comigo…">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "A aguardar por outro dispositivo…">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label "Introduza a informação da sua conta do &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Nome da conta">
+<!ENTITY sync.subtitle.account.label "Insira a informação da sua conta do &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Nome da Conta">
 <!ENTITY sync.input.password.label "Palavra-passe">
-<!ENTITY sync.input.key.label "Chave de recuperação">
+<!ENTITY sync.input.key.label "Chave de Recuperação">
 <!ENTITY sync.checkbox.server.label "Utilizar servidor personalizado">
-<!ENTITY sync.input.server.label "URL do servidor">
+<!ENTITY sync.input.server.label "URL do Servidor">
 <!-- Setup Fail -->
 
-<!ENTITY sync.title.fail.label "Não foi possível configurar &syncBrand.shortName.label;">
+<!ENTITY sync.title.fail.label "Não é possível configurar o &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "O &syncBrand.fullName.label; não conseguiu ligar-se ao servidor. Pretende voltar a tentar?">
 <!ENTITY sync.button.tryagain.label "Voltar a tentar">
-<!ENTITY sync.button.manual.label "Configuração manual">
+<!ENTITY sync.button.manual.label "Configuração Manual">
 <!ENTITY sync.subtitle.nointernet.label "Nenhuma ligação de Internet disponível.">
 <!ENTITY sync.subtitle.failaccount.label "A criação da conta no seu dispositivo falhou.">
-<!ENTITY sync.subtitle.failmultiple.label "Tem mais do que um Firefox instalado? De momento o &syncBrand.fullName.label; apenas suporta uma instalação do Firefox. Por favor, remova as outras aplicações para utilizar o &syncBrand.shortName.label;.">
+<!ENTITY sync.subtitle.failmultiple.label "Tem mais do que um Firefox instalado? De momento, o &syncBrand.fullName.label; suporta apenas uma instalação do Firefox. Por favor, desinstale as outras instâncias para utilizar o &syncBrand.shortName.label;.">
 <!-- Setup Success -->
 
-<!ENTITY sync.title.success.label "Configuração terminada">
+<!ENTITY sync.title.success.label "Configuração Concluída">
 <!ENTITY sync.subtitle.success.label1 "Os seus dados estão agora a ser descarregados em segundo plano. Aceda às Definições para gerir a sua conta ou comece a navegar com o &brandShortName;.">
 <!ENTITY sync.settings.label "Definições">
-<!ENTITY sync.subtitle.manage.label1 "A sua conta do &syncBrand.fullName.label; está configurada. Vá a definições para gerir a sua conta ou inicie o &brandShortName;.">
+<!ENTITY sync.subtitle.manage.label1 "A sua conta do &syncBrand.fullName.label; já está configurada. Pode ir às Definições para gerir a sua conta ou inicie o &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Por favor, tente novamente.">
@@ -56,7 +56,7 @@
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Opções">
-<!ENTITY sync.summary.pair.label "Ligue outro dispositivo à sua conta do &syncBrand.shortName.label;">
+<!ENTITY sync.summary.pair.label "Interligue outro dispositivo à sua conta do &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.label "O que sincronizar">
@@ -69,7 +69,7 @@
 
 <!ENTITY sync.button.cancel.label "Cancelar">
 <!ENTITY sync.button.connect.label "Ligar">
-<!ENTITY sync.button.ok.label "OK">
+<!ENTITY sync.button.ok.label "ACEITAR">
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (obsoleto)">
@@ -82,35 +82,35 @@
 <!ENTITY sync.default.client.name "&formatS1; no &formatS2;">
 <!-- Bookmark folder strings -->
 
-<!ENTITY bookmarks.folder.menu.label "Menu de marcadores">
+<!ENTITY bookmarks.folder.menu.label "Menu de Marcadores">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
-<!ENTITY bookmarks.folder.toolbar.label "Barra de ferramentas dos marcadores">
-<!ENTITY bookmarks.folder.unfiled.label "Marcadores desorganizados">
-<!ENTITY bookmarks.folder.desktop.label "Marcadores do computador">
-<!ENTITY bookmarks.folder.mobile.label "Marcadores do dispositivo móvel">
-<!ENTITY bookmarks.folder.readinglist.label "Lista de leitura">
+<!ENTITY bookmarks.folder.toolbar.label "Barra de Ferramentas dos Marcadores">
+<!ENTITY bookmarks.folder.unfiled.label "Marcadores Desordenados">
+<!ENTITY bookmarks.folder.desktop.label "Marcadores do Computador">
+<!ENTITY bookmarks.folder.mobile.label "Marcadores do Dispositivo Móvel">
+<!ENTITY bookmarks.folder.readinglist.label "Lista de Leitura">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label "Afixado">
+<!ENTITY bookmarks.folder.pinned.label "Afixados">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label "Apenas é suportada uma conta do &syncBrand.fullName.label;.">
+<!ENTITY sync.notification.oneaccount.label "É suportada apenas uma conta do &syncBrand.fullName.label;.">
 <!ENTITY sync.notification.configure.saved "As suas seleções foram guardadas.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Nome da conta ou palavra-passe incorreta.">
-<!ENTITY sync.invalidserver.label "Por favor introduza um URL de servidor válido">
+<!ENTITY sync.invalidserver.label "Por favor, insira um URL de servidor válido">
 <!ENTITY sync.verifying.label "A verificar…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Chave de recuperação incorreta. Tente novamente.">
+<!ENTITY sync.new.recoverykey.status.incorrect "Chave de Recuperação incorreta. Por favor, tente novamente.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Enviar separador para os dispositivos">
+<!ENTITY sync.title.send.tab.label "Enviar Separador Para Dispositivos">
 <!ENTITY sync.button.send.label "Enviar">
 <!ENTITY sync.button.set.up.sync.label "Configurar o &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar o &syncBrand.shortName.label; para enviar separadores">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar o &syncBrand.fullName.label; no seu dispositivo para enviar separadores para outros dispositivos.">
 <!ENTITY sync.text.tab.sent.label "O seu separador foi enviado!">
-<!ENTITY sync.text.tab.not.sent.label "Houve um problema ao enviar o seu separador.">
+<!ENTITY sync.text.tab.not.sent.label "Ocorreu um problema ao enviar o seu separador.">
 <!-- Firefox Account strings. -->
 
 
@@ -137,10 +137,10 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Termos do serviço">
-<!ENTITY fxaccount_policy_linkprivacy "Informação sobre a privacidade">
+<!ENTITY fxaccount_policy_linktos "Termos do Serviço">
+<!ENTITY fxaccount_policy_linkprivacy "Nota de Privacidade">
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync "O &syncBrand.shortName.label; dá-lhe as boas-vindas">
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Bem-vindo ao &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Inicie sessão para sincronizar os seus separadores, marcadores, credenciais e mais.">
 <!ENTITY fxaccount_getting_started_get_started "Começar">
 <!ENTITY fxaccount_getting_started_old_firefox "Está a utilizar uma versão antiga do &syncBrand.shortName.label;?">
@@ -149,38 +149,38 @@
      etc).  The account remains a "Firefox Account". -->
 
 <!ENTITY fxaccount_create_account_header2 "Criar uma Conta do Firefox">
-<!ENTITY fxaccount_create_account_password_length_restriction "Tem de ter pelo menos 8 caracteres">
+<!ENTITY fxaccount_create_account_password_length_restriction "Deve ter pelo menos 8 carateres">
 <!ENTITY fxaccount_create_account_day_of_birth "Dia">
 <!ENTITY fxaccount_create_account_month_of_birth "Mês">
 <!ENTITY fxaccount_create_account_year_of_birth "Data de nascimento">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ao continuar, eu concordo com a &formatS1; e a &formatS2; dos serviços do Firefox na nuvem.">
 <!ENTITY fxaccount_create_account_button "Seguinte">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Escolher o que sincronizar">
-<!ENTITY fxaccount_create_account_sign_in_instead "Já tem uma conta? Inicie sessão">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Escolha o que sincronizar">
+<!ENTITY fxaccount_create_account_sign_in_instead "Já tem uma conta? Inicie a sessão">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 ou anterior">
 <!ENTITY fxaccount_create_account_unknown_error "Não foi possível criar a conta">
 
 <!ENTITY fxaccount_account_create_not_allowed "Não é possível criar a conta">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Tem de ter uma determinada idade para criar uma conta.">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Tem de reunir determinados requisitos de idade para criar uma conta.">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Saber mais">
 
 <!ENTITY fxaccount_confirm_account_header "Confirme a sua conta">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Foi enviada uma ligação de verificação para &formatS;">
+<!ENTITY fxaccount_confirm_account_verification_link "Foi enviada uma hiperligação de verificação para &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Reenviar mensagem">
 <!ENTITY fxaccount_confirm_account_change_email "Esquecer este endereço de e-mail?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Mensagem de verificação enviada">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Não foi possível enviar a mensagem de verificação">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Reenviar e-mail de desbloqueio">
-<!ENTITY fxaccount_unlock_code_sent "E-mail para desbloqueio da conta enviado">
-<!ENTITY fxaccount_unlock_code_not_sent "Não foi possível enviar o e-mail para o desbloqueio da conta">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Reenviar mensagem de desbloqueio">
+<!ENTITY fxaccount_unlock_code_sent "Mensagem de desbloqueio da conta enviada">
+<!ENTITY fxaccount_unlock_code_not_sent "Não foi possível enviar a mensagem de desbloqueio da conta">
 
 <!ENTITY fxaccount_sign_in_sub_header "Iniciar sessão">
 <!ENTITY fxaccount_sign_in_button_label "Iniciar sessão">
 <!ENTITY fxaccount_sign_in_forgot_password "Esqueceu-se da palavra-passe?">
 <!ENTITY fxaccount_sign_in_create_account_instead "Criar uma conta">
-<!ENTITY fxaccount_sign_in_unknown_error "Sessão não iniciada">
+<!ENTITY fxaccount_sign_in_unknown_error "Não foi possível iniciar a sessão">
 
 <!ENTITY fxaccount_account_verified_sub_header "Conta verificada">
 <!ENTITY fxaccount_account_verified_description2 "Os seus dados serão sincronizados brevemente.">
@@ -189,14 +189,14 @@
 
 <!ENTITY fxaccount_update_credentials_header "Iniciar sessão">
 <!ENTITY fxaccount_update_credentials_button_label "Iniciar sessão">
-<!ENTITY fxaccount_update_credentials_unknown_error "Sessão não iniciada">
+<!ENTITY fxaccount_update_credentials_unknown_error "Não foi possível iniciar a sessão">
 
 <!ENTITY fxaccount_finish_migrating_header "Inicie sessão para concluir a atualização">
 <!ENTITY fxaccount_finish_migrating_button_label "Concluir atualização">
 <!ENTITY fxaccount_finish_migrating_description "A atualização pode transferir uma quantidade significativa de dados. Recomenda-se a utilização de uma rede sem fios.">
 
 <!ENTITY fxaccount_status_header2 "Conta Firefox">
-<!ENTITY fxaccount_status_signed_in_as "Identificado como">
+<!ENTITY fxaccount_status_signed_in_as "Sessão iniciada como">
 <!ENTITY fxaccount_status_manage_account "Gerir conta">
 <!ENTITY fxaccount_status_auth_server "Servidor da conta">
 <!ENTITY fxaccount_status_sync_now "Sincronizar agora">
@@ -204,11 +204,11 @@
 <!ENTITY fxaccount_status_device_name "Nome do dispositivo">
 <!ENTITY fxaccount_status_sync_server "Servidor de sincronização">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ativo">
-<!ENTITY fxaccount_status_needs_verification2 "A sua conta tem de ser verificada. Toque para reenviar mensagem de verificação.">
-<!ENTITY fxaccount_status_needs_credentials "Não é possível ligar. Toque para iniciar.">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ativado">
+<!ENTITY fxaccount_status_needs_verification2 "A sua conta tem de ser verificada. Toque para reenviar a mensagem de verificação.">
+<!ENTITY fxaccount_status_needs_credentials "Não é possível ligar. Toque para iniciar a sessão.">
 <!ENTITY fxaccount_status_needs_upgrade "Tem de atualizar o &brandShortName; para iniciar a sessão.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative “Sincronizar dados automaticamente” nas definições do Android &gt; Utilização de dados.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative “Sincronizar dados automaticamente” nas Definições do Android &gt; Utilização de dados.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative a opção “Sincronização automática” no menu Definições do Android &gt; Contas.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Toque para iniciar sessão na sua nova conta Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
