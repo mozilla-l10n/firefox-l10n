@@ -6,7 +6,7 @@
 <!ENTITY header2.label "Norite susikurti naują el. pašto adresą?">
 <!ENTITY other.languages "Rodomi tik tie paslaugos teikėjai, kurie ją siūlo jūsų regione. Spustelėkite čia, jeigu norite pamatyti visus teikėjus.">
 <!ENTITY error.line1 "Deja, nepavyko rasti el. pašto adresų pasiūlymų.">
-
+<!ENTITY error.line2 "Taip pat galite adresų ieškoti pagal savo slapyvardį, pravardę ar kitus duomenis">
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download

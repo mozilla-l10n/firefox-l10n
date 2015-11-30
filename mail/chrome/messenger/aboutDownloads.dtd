@@ -19,6 +19,6 @@
 <!ENTITY cmd.removeFromHistory.accesskey           "š">
 <!ENTITY cmd.clearList.label                       "Išvalyti sąrašą">
 <!ENTITY cmd.clearList.accesskey                   "C">
-
+<!ENTITY cmd.clearList.tooltip                     "Iš sąrašo pašalinti užbaigtus, atsisakytus ar nepavykusius failus">
 <!ENTITY cmd.searchDownloads.label                 "Ieškoti...">
 <!ENTITY cmd.searchDownloads.key                   "s">
