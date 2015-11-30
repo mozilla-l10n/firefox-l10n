@@ -94,8 +94,8 @@ verifique se o &brandShortName; tem permissão de acesso à Web.</li>
 
 <!ENTITY redirectLoop.title "A página não está a redirecionar corretamente">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Este problema pode ser causado pelo facto dos cookies estarem inativos 
-ou recusados.</li> 
+<li>Este problema, ás vezes, pode ser causado por desativar ou recusar aceitar 
+cookies.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Resposta inesperada do servidor">
