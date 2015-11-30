@@ -35,7 +35,7 @@
 <!ENTITY block.displaycontent               "Não carregar outro tipo de conteúdo misto ou páginas cifradas">
 <!ENTITY block.displaycontent.accesskey     "m">
 
-<!ENTITY certselect.description             "Decide como é que o &brandShortName; seleciona um certificado de segurança para apresentar em sítios web que necessitam:">
+<!ENTITY certselect.description             "Decide como é que o &brandShortName; seleciona um certificado de segurança para apresentar em websites que necessitam:">
 <!ENTITY certselect.auto                    "Selecionar automaticamente">
 <!ENTITY certselect.auto.accesskey          "e">
 <!ENTITY certselect.ask                     "Pedir sempre">

@@ -6,17 +6,17 @@
 <!ENTITY pref.security.title              "Privacidade e segurança">
 
 <!ENTITY tracking.label                   "Monitorização do utilizador">
-<!ENTITY trackingIntro.label              "Os sítios web podem monitorizá-lo quando os utilizar, afetando assim a sua privacidade.">
+<!ENTITY trackingIntro.label              "Os websites podem monitorizá-lo quando os utilizar, afetando assim a sua privacidade.">
 
 <!ENTITY doNotTrack.label                 "Informar os sítios web que não quero ser monitorizado">
 <!ENTITY doNotTrack.accesskey             "t">
-<!ENTITY trackProtect.label               "Impedir monitorização por parte de sítios conhecidos">
+<!ENTITY trackProtect.label               "Impedir monitorização por parte de sites conhecidos">
 <!ENTITY trackProtect.accesskey           "n">
 <!ENTITY warnTrackContent.label           "Avisar-me se forem detetadas atividades de monitorização">
 <!ENTITY warnTrackContent.accesskey       "A">
 
 <!ENTITY geoLocation.label                "Navegação com informação de localização">
-<!ENTITY geoIntro.label                   "Os sítios web podem solicitar mais informação sobre a sua localização atual.">
+<!ENTITY geoIntro.label                   "Os websites podem solicitar mais informação sobre a sua localização atual.">
 
 <!ENTITY geoEnabled.label                 "Solicitar permissão se um pedido for feito">
 <!ENTITY geoEnabled.accesskey             "S">
@@ -30,10 +30,10 @@
 -->
 
 <!ENTITY safeBrowsing.label               "Navegação segura">
-<!ENTITY safeBrowsingIntro.label          "O &brandShortName; pode bloquear os sítios web indicados como contendo conteúdo malicioso.">
+<!ENTITY safeBrowsingIntro.label          "O &brandShortName; pode bloquear os websites indicados como contendo conteúdo malicioso.">
 
-<!ENTITY blockAttackSites.label           "Bloquear os sítios de ataque reportados (malware, vírus)">
+<!ENTITY blockAttackSites.label           "Bloquear os sites de ataque reportados (malware, vírus)">
 <!ENTITY blockAttackSites.accesskey       "B">
 
-<!ENTITY blockWebForgeries.label          "Bloquear os sítios de engodo web indicados (Phishing)">
+<!ENTITY blockWebForgeries.label          "Bloquear sites suspeitos de falsificações (Phishing)">
 <!ENTITY blockWebForgeries.accesskey      "P">
