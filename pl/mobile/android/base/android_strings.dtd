@@ -526,7 +526,6 @@
 
 <!ENTITY restrictable_feature_addons_installation "Dodatki">
 <!ENTITY restrictable_feature_private_browsing "Tryb prywatny">
-<!ENTITY restrictable_feature_location_services "Usługi lokalizacji">
 <!ENTITY restrictable_feature_clear_history "Czyszczenie historii przeglądania">
 <!ENTITY restrictable_feature_advanced_settings "Ustawienia zaawansowane">
 <!ENTITY restrictable_feature_camera_microphone "Kamera i mikrofon">
