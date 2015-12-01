@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identityDialog.style "width: 88ch;"><!-- en-US: width: 67ch; -->
+<!ENTITY identityDialog.style "width: 88ch;"><!-- en-US: width: 75ch; -->
 <!ENTITY identityTitle.label "Ustawienia tożsamości">
 <!ENTITY identityListDesc.label "Konfiguruj ustawienia dla tej tożsamości:">
 
