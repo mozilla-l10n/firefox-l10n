@@ -102,3 +102,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Åbn i variabelvisning">
 <!ENTITY openInVarViewCmd.accesskey "Å">
+<!ENTITY storeAsGlobalVar.label "Gem som global variabel">
+<!ENTITY storeAsGlobalVar.accesskey "G">
