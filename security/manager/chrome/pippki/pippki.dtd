@@ -13,14 +13,14 @@
 
 <!ENTITY resetPasswordButtonLabel "रिसेट गर्नुहोस्">
 <!ENTITY resetPassword.title  "मुख्य पासवर्ड रिसेट गर्नुहोस्">
-<!ENTITY resetPassword.text  "तपाईँले मास्टर प्रवेशचिन्ह रिसेट गर्नुभयो भने, तपाईँका सबै भण्डारण गरिएका वेब र इ-मेल प्रवेशचिन्हहरु, फाराम लगत, निजी प्रमाणपत्रहरु, र निजी कुय्जीहरुलाई बिर्सिनेछ। के तपाईँ मास्टर प्रवेशचिन्ह रिसेट गर्ने कुरामा दृढ हुनुहुन्छ?">
+<!ENTITY resetPassword.text  "तपाईँले मास्टर प्रवेशचिन्ह रिसेट गर्नुभयो भने, तपाईँका सबै भण्डारण गरिएका वेब र इमेल प्रवेशचिन्हहरू, फाराम लगत, निजी प्रमाणपत्रहरू, र निजी कुञ्जीहरूलाई बिर्सिनेछ। के तपाईँ मास्टर प्रवेशचिन्ह रिसेट गर्ने कुरामा दृढ हुनुहुन्छ?">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "प्रमाणपत्र डाउनलोड गरिरहेको छ">
 <!ENTITY downloadCert.message1 "तपाईँलाई एउटा नयाँ प्रमाणपत्र अधिकारी (CA) लाई विश्वास गर्न भनिएको छ।">
 <!ENTITY downloadCert.trustSSL "Trust this CA to identify web sites.">
 <!ENTITY downloadCert.trustEmail "इमेल प्रयोगकर्ताहरू पहिचान गर्न यो CAलाई विश्वास गर्नुहोस्।">
-<!ENTITY downloadCert.trustObjSign "यो CA लाई सफ्टवेयर विकासकर्ताहरुको पहिचान गर्नका लागि विश्वास गर्नुहोस्।">
+<!ENTITY downloadCert.trustObjSign "यो CA लाई सफ्टवेयर विकासकर्ताहरूको पहिचान गर्नका लागि विश्वास गर्नुहोस्।">
 <!ENTITY downloadCert.message3 "कुनै पनि उद्धेश्यका लागि यो CA विश्वास गर्नु अगाडि, तपाईँले यसको प्रमाणपत्र र यसको नीति र कार्यविधि(यदि उपलब्ध भएमा) जाँच गर्नुपर्दछ ।">
 <!ENTITY downloadCert.viewCert.label "दृश्य">
 <!ENTITY downloadCert.viewCert.text "CA प्रमाणपत्र जाँच गर्नुहोस्">

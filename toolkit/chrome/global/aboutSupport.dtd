@@ -9,15 +9,15 @@
 trying to solve a problem. If you are looking for answers to common questions 
 about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
-<!ENTITY aboutSupport.crashes.title "क्र्यास प्रतिवेदनहरु">
+<!ENTITY aboutSupport.crashes.title "क्र्यास प्रतिवेदनहरू">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "प्रतिवेदन आईडी">
 <!ENTITY aboutSupport.crashes.sendDate "पेश गरियो">
-<!ENTITY aboutSupport.crashes.allReports "सबै क्र्यास प्रतिवेदनहरु">
+<!ENTITY aboutSupport.crashes.allReports "सबै क्र्यास प्रतिवेदनहरू">
 
 
-<!ENTITY aboutSupport.extensionsTitle "विस्तारहरु">
+<!ENTITY aboutSupport.extensionsTitle "विस्तारहरू">
 <!ENTITY aboutSupport.extensionName "नाम">
 <!ENTITY aboutSupport.extensionEnabled "सक्षम पारिएको">
 <!ENTITY aboutSupport.extensionVersion "संस्करण">
@@ -64,7 +64,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin.label "फोल्डर देखाउनुहोस्">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वपूर्ण परिमार्जित प्राथमिकताहरु">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वपूर्ण परिमार्जित प्राथमिकताहरू">
 <!ENTITY aboutSupport.modifiedPrefsName "नाम">
 <!ENTITY aboutSupport.modifiedPrefsValue "मान">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
@@ -93,4 +93,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "क्लिपबोर्डमा कच्चा डेटा प्रतिलिपि गर्नुहोस्">
 
 
-
+<!ENTITY aboutSupport.restartInSafeMode.label "एड-अनहरू अक्षम पारेर पुन: सुरु गर्नुहोस...">

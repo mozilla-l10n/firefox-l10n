@@ -152,8 +152,8 @@
 
 
 
-<!ENTITY search.filter2.installed.tooltip     "स्थापना भइसकेका एड-अनहरु सूचीकृत गर्नुहोस्">
-<!ENTITY search.filter2.available.label       "उपलब्ध एड-अनहरु">
+<!ENTITY search.filter2.installed.tooltip     "स्थापना भइसकेका एड-अनहरू सूचीकृत गर्नुहोस्">
+<!ENTITY search.filter2.available.label       "उपलब्ध एड-अनहरू">
 
 
 <!ENTITY addon.details.label                  "थप">
