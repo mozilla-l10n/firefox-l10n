@@ -524,14 +524,14 @@
 
 <!ENTITY devtools_auth_scan_header "Skanowanie kodu QR wyświetlonego na drugim urządzeniu">
 
-<!ENTITY restriction_disallow_addons_title2 "Wyłącz instalację dodatków">
-<!ENTITY restriction_disallow_private_browsing_title2 "Wyłącz tryb prywatny">
-<!ENTITY restriction_disallow_location_services_title2 "Wyłącz usługi lokalizacji">
-<!ENTITY restriction_disallow_clear_history_title2 "Wyłącz „Wyczyść historię przeglądania”">
-<!ENTITY restriction_disallow_master_password_title2 "Wyłącz hasło główne">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Wyłącz tryb gościnny">
-<!ENTITY restriction_disallow_advanced_settings_title "Wyłącz ustawienia zaawansowane">
-<!ENTITY restriction_disallow_camera_microphone_title "Zablokuj kamerę i mikrofon">
+<!ENTITY restrictable_feature_addons_installation "Dodatki">
+<!ENTITY restrictable_feature_private_browsing "Tryb prywatny">
+<!ENTITY restrictable_feature_location_services "Usługi lokalizacji">
+<!ENTITY restrictable_feature_clear_history "Czyszczenie historii przeglądania">
+<!ENTITY restrictable_feature_guest_browsing "Tryb gościnny">
+<!ENTITY restrictable_feature_master_password "Hasło główne">
+<!ENTITY restrictable_feature_advanced_settings "Ustawienia zaawansowane">
+<!ENTITY restrictable_feature_camera_microphone "Kamera i mikrofon">
 
 <!ENTITY bookmarks_about_browser "Firefox: O przeglądarce">
 <!ENTITY bookmarks_addons "Firefox: Dodatki">
