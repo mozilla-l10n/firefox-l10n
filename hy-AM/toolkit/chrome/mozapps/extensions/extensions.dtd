@@ -141,11 +141,11 @@
 
 <!ENTITY detail.updateType                    "Ինքնաշխատ Թարմացումներ">
 <!ENTITY detail.updateDefault.label           "Լռելյայն">
-<!ENTITY detail.updateDefault.tooltip         "Ինքնաշխատ տեղադրել թարմացումները, եթե այդ ընտրանքը հաստատված է որպես ծրագրային">
+<!ENTITY detail.updateDefault.tooltip         "Ինքնաբար տեղադրել թարմացումները, եթե միայն սա լռելյայն է">
 <!ENTITY detail.updateAutomatic.label         "Միացնել">
-<!ENTITY detail.updateAutomatic.tooltip       "Տեղակայեք թարմացումները ավտոմատ կերպով:">
+<!ENTITY detail.updateAutomatic.tooltip       "Տեղադրել թարմացումները ինքնաբար:">
 <!ENTITY detail.updateManual.label            "Անջատել">
-<!ENTITY detail.updateManual.tooltip          "Մի տեղակայեք թարմացումները ավտոմատ կերպով:">
+<!ENTITY detail.updateManual.tooltip          "Չտեղադրել թարմացումները ինքնաբար">
 <!ENTITY detail.home                          "Կայքէջը">
 <!ENTITY detail.repository                    "Հավելումների պռոֆիլ">
 <!ENTITY detail.size                          "Չափը">
