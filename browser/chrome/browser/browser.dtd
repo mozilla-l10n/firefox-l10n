@@ -216,7 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Administrer side-oversættelser">
 <!ENTITY urlbar.emeNotificationAnchor.label             "Administrer brug af DRM-software">
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historie">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historik">
 
 
 <!ENTITY searchItem.title             "Søgefelt">

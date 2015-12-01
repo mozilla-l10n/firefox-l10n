@@ -35,6 +35,11 @@
 <!ENTITY performanceUI.bufferStatusFull "Bufferen er fuld. Ældre prøver bliver nu overskrevet.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Det er i øjeblikket ikke muligt at optage en profil. Luk alle private vinduer og prøv igen.">
+
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 <!ENTITY performanceUI.loadingNotice "Indlæser…">
 
