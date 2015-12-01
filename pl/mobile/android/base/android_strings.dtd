@@ -528,7 +528,6 @@
 <!ENTITY restrictable_feature_private_browsing "Tryb prywatny">
 <!ENTITY restrictable_feature_location_services "Usługi lokalizacji">
 <!ENTITY restrictable_feature_clear_history "Czyszczenie historii przeglądania">
-<!ENTITY restrictable_feature_guest_browsing "Tryb gościnny">
 <!ENTITY restrictable_feature_advanced_settings "Ustawienia zaawansowane">
 <!ENTITY restrictable_feature_camera_microphone "Kamera i mikrofon">
 
