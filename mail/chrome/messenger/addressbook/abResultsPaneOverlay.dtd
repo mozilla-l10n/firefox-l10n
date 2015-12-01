@@ -6,16 +6,16 @@
 <!ENTITY Addrbook.accesskey                    "A">
 <!ENTITY GeneratedName.label                   "Ad">
 <!ENTITY GeneratedName.accesskey               "d">
-<!ENTITY PrimaryEmail.label                    "E-Posta">
-<!ENTITY PrimaryEmail.accesskey                "P">
+<!ENTITY PrimaryEmail.label                    "E-posta">
+<!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Kurum">
 <!ENTITY Company.accesskey                     "K">
 <!ENTITY _PhoneticName.label                   "Fonetik Ad">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Takma Ad">
 <!ENTITY NickName.accesskey                    "T">
-<!ENTITY SecondEmail.label                     "Ek E-Posta">
-<!ENTITY SecondEmail.accesskey                 "P">
+<!ENTITY SecondEmail.label                     "Ek E-posta">
+<!ENTITY SecondEmail.accesskey                 "k">
 <!ENTITY Department.label                      "Bölüm">
 <!ENTITY Department.accesskey                  "m">
 <!ENTITY JobTitle.label                        "Unvan">

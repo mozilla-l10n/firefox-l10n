@@ -8,7 +8,7 @@
 <!ENTITY name.placeholder                "Ad Soyad">
 <!ENTITY name.text                       "Başkalarına gösterilecek adınız">
 <!ENTITY email.label                     "E-posta adresi:">
-<!ENTITY email.accesskey                 "p">
+<!ENTITY email.accesskey                 "E">
 <!ENTITY email.placeholder               "eposta@siteadresi.com">
 <!ENTITY password.label                  "Parola:">
 <!ENTITY password.accesskey              "P">
