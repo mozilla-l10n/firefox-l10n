@@ -18,7 +18,7 @@
 <!ENTITY bccAddress.label "Bcc էլ. փոստի այս հասցեներին.">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Բաժանել հասցեները ստորակետով">
-<!ENTITY saveMessageDlg.label "Ցուցադրել հաստատման պատուհանը նամակները պահպանելիս">
+<!ENTITY saveMessageDlg.label "Ցուցադրել հաստատման պատուհանը նամակները պահելիս">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "&quot;Sent&quot; թղթապանակը՝">

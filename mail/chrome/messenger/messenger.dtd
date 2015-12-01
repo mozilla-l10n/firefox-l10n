@@ -38,8 +38,8 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Բացել պահպանված նամակը...">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY saveAsMenu.label "Պահպանել Որպես">
-<!ENTITY saveAsMenu.accesskey "S">
+<!ENTITY saveAsMenu.label "Պահել Որպես">
+<!ENTITY saveAsMenu.accesskey "Պ">
 <!ENTITY saveAsFileCmd.label "Ֆայլ">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "Ֆ">
@@ -654,7 +654,7 @@
 <!ENTITY searchRecipient.label "Ում կամ Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Վերնագիրը, Ում կամ Cc">
 <!ENTITY searchMessageBody.label "Ամբողջական նամակ">
-<!ENTITY saveAsVirtualFolderMenu.label "Պահպանել որոնումը որպես թղթապանակ...">
+<!ENTITY saveAsVirtualFolderMenu.label "Պահել որոնումը որպես թղթապանակ...">
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Շղթան">
@@ -746,8 +746,8 @@
 <!ENTITY contextKillThreadMenu.accesskey "Ա">
 <!ENTITY contextKillSubthreadMenu.label "Անտեսել ենթաշղթան">
 <!ENTITY contextWatchThreadMenu.label "Հետևել շղթային">
-<!ENTITY contextSaveAs.label "Պահպանել որպես…">
-<!ENTITY contextSaveAs.accesskey "S">
+<!ENTITY contextSaveAs.label "Պահել որպես…">
+<!ENTITY contextSaveAs.accesskey "Պ">
 <!ENTITY contextPrint.label "Տպել…">
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "Տպելու նախադիտում">
@@ -868,10 +868,10 @@
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!-- Content Pane Context Menu -->
 
-<!ENTITY saveLinkAsCmd.label "Պահպանել հղումը որպես...">
-<!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "Պահպանել նկարը որպես…">
-<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY saveLinkAsCmd.label "Պահել հղումը որպես...">
+<!ENTITY saveLinkAsCmd.accesskey "մ">
+<!ENTITY saveImageAsCmd.label "Պահել նկարը որպես…">
+<!ENTITY saveImageAsCmd.accesskey "ե">
 <!ENTITY copyLinkCmd.label "Պատճենել հղման տեղադրությունը">
 <!ENTITY copyLinkCmd.accesskey "հ">
 <!ENTITY copyImageAllCmd.label "Պատճենել նկարը">

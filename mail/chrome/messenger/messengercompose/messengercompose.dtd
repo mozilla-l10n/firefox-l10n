@@ -33,9 +33,9 @@
 <!ENTITY closeCmd.label "Փակել">
 <!ENTITY closeCmd.key "Փ">
 <!ENTITY closeCmd.accesskey "C">
-<!ENTITY saveCmd.label "Պահպանել">
+<!ENTITY saveCmd.label "Պահել">
 <!ENTITY saveCmd.key "Պ">
-<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveCmd.accesskey "Պ">
 <!ENTITY saveAsCmd.label "Պահպանել Որպես">
 <!ENTITY saveAsCmd.accesskey "A">
 <!ENTITY saveAsFileCmd.label "Ֆայլ...">

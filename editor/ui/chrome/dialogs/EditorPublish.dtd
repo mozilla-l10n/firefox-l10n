@@ -60,6 +60,6 @@
 <!ENTITY password.label               "Գաղտնաբառը.">
 <!ENTITY password.accesskey           "w">
 <!ENTITY password.tooltip             "Օգտվողի Ձեր անվան հետ համակցված գաղտնաբառը">
-<!ENTITY savePassword.label           "Պահպանել գաղտնաբառը">
-<!ENTITY savePassword.accesskey       "S">
-<!ENTITY savePassword.tooltip         "Ընտրեք սա՝ պահպանելու համար գաղտնաբառը Գաղտնաբառերի կառավարիչում">
+<!ENTITY savePassword.label           "Պահել գաղտնաբառը">
+<!ENTITY savePassword.accesskey       "Պ">
+<!ENTITY savePassword.tooltip         "Ընտրեք սա՝ պահելու համար գաղտնաբառը Գաղտնաբառերի կառավարիչում">
