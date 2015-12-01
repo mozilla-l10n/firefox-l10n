@@ -142,31 +142,37 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "अनुमति सारणी">
-
+<!ENTITY permissionstable_name_header "नाम">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "रनटाइम जानकारी">
 <!ENTITY runtimedetails_adbIsRoot "एडीबी रूट अछि:">
 <!ENTITY runtimedetails_summonADBRoot "रूट डिवाइस">
 <!ENTITY runtimedetails_ADBRootWarning "(खुला बूटलोडर चाही)">
-
+<!ENTITY runtimedetails_unrestrictedPrivileges "अप्रतिबंधित DevTools अधिकार:">
 <!ENTITY runtimedetails_requestPrivileges "उच्चतर अधिकार निवेदित करू">
 <!ENTITY runtimedetails_privilegesWarning "(युक्ति रिबूट करताह. रूट पहुँच चाही.)">
 <!-- Device Preferences and Settings -->
 
-
+<!ENTITY device_typeboolean "बुलियन">
+<!ENTITY device_typenumber "पूर्णाँक">
+<!ENTITY device_typestring "स्ट्रिंग">
 <!ENTITY device_typeobject "वस्तु">
-
+<!ENTITY device_typenone "एकटा प्रकार चुनू">
 <!-- Device Preferences -->
 
-
-
-
+<!ENTITY devicepreference_title "साइट वरीयता">
+<!ENTITY devicepreference_search "वरीयता खोजू">
+<!ENTITY devicepreference_newname "नव वरीयता नाम">
+<!ENTITY devicepreference_newtext "वरीयता नाम">
+<!ENTITY devicepreference_addnew "नव वरीयता जोड़ू">
 <!-- Device Settings -->
 
-
-
-
+<!ENTITY devicesetting_title "युक्ति सेटिंग्स">
+<!ENTITY devicesetting_search "स्ट्रिंग सेटिंग्स">
+<!ENTITY devicesetting_newname "नव सेटिंग नाम">
+<!ENTITY devicesetting_newtext "सेटिंग मान">
+<!ENTITY devicesetting_addnew "नव सेटिंग जोड़ू">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "मानीटर">
@@ -179,14 +185,22 @@
 <!ENTITY wifi_auth_header "क्लायंट पहिचान">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "जाहि समापन बिंदु सँ अहाँ कनेक्ट भ रहल छी, ई संबंध कए प्रमाणित करबाक ले आओर अधिक जानकारीक जरूरत अछि. दोसर छोर पर जे QR टोकन देखाइ द रहल अछि ओकरा दोसर युक्ति स प्रदान करू.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "कोनो QR स्कैनर प्रोम्प्ट नहि?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "QR स्कैनर प्रोम्प्ट अछि अहाँक सँग?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "जँ अहाँ युक्ति टोकनक माँग करैत छी QR कोड स्कैन करबाक बदला मे, आन युक्ति क नीच्चाँ मान कए नकल करू:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "प्री-पैकेजिंग कमांड लॉग">
 <!-- Simulator Options -->
+
+<!ENTITY simulator_title "सिमुलेटर विकल्प">
 
 
 
