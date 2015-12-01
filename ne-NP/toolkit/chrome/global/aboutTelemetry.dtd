@@ -21,16 +21,16 @@
 
 
 
-<!ENTITY aboutTelemetry.slowSqlSection "  ढिलो SQL विवरणहरु">
+<!ENTITY aboutTelemetry.slowSqlSection "  ढिलो SQL विवरणहरू">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  ब्राउजर ह्याङ्ग हुन्छ">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  थ्रेड ह्याङ्ग हुन्छ">
 
-<!ENTITY aboutTelemetry.histogramsSection "  आयतचित्रहरु">
+<!ENTITY aboutTelemetry.histogramsSection "  आयतचित्रहरू">
 
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  सामान्य नापहरु">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  सामान्य नापहरू">
 
 <!ENTITY aboutTelemetry.addonDetailsSection "  एड-अन विवरणहरू">
 

@@ -7,23 +7,23 @@
 <!ENTITY certmgr.tab.mine                     "तपाईँका प्रमाणपत्रहरू">
 <!ENTITY certmgr.tab.others2                  "मानिस">
 
-<!ENTITY certmgr.tab.ca                       "अधिकारीहरु">
+<!ENTITY certmgr.tab.ca                       "अधिकारीहरू">
 <!ENTITY certmgr.tab.orphan2                  "अन्य">
 
-<!ENTITY certmgr.mine                         "यी संस्थाहरुबाट तपाईँलाई पहिचान गर्ने प्रमाणपत्रहरु तपाईँसँग छन्:">
+<!ENTITY certmgr.mine                         "यी संस्थाहरूबाट तपाईँलाई पहिचान गर्ने प्रमाणपत्रहरू तपाईँसँग छन्:">
 
 
 <!ENTITY certmgr.cas                          "तपाईँसँग फाइलमा प्रमाणपत्रहरू छन् जसले ती प्रमाणपत्र अधिकारीहरू पहिचान गर्दछन्:">
 
 
 
-
-
+<!ENTITY certmgr.detail.prettyprint_tab.title "विवरणहरू...">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.subjectinfo.label            "यसलाई जारी गरिएको">
 <!ENTITY certmgr.issuerinfo.label             "जारी गरिएको">
 
-<!ENTITY certmgr.fingerprints.label           "औंठाछापहरु">
+<!ENTITY certmgr.fingerprints.label           "औंठाछापहरू">
 <!ENTITY certmgr.certdetail.title             "प्रमाणपत्र विवरण">
 <!ENTITY certmgr.certdetail.cn                "जातिवाचक नाम (जा . ना)">
 <!ENTITY certmgr.certdetail.o                 "संस्थागत एकाइ(सं.ए)">
@@ -33,7 +33,7 @@
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 औंठाछाप">
 
 <!ENTITY certmgr.editcacert.title             "CA प्रमाणपत्र विश्वास ढाँचाहरू सम्पादन गर्नुहोस्">
-<!ENTITY certmgr.editcert.edittrust           "विश्वासयोग्य सेटिङ्गहरु सम्पादन गर्नुहोस्:">
+<!ENTITY certmgr.editcert.edittrust           "विश्वासयोग्य सेटिङ्गहरू सम्पादन गर्नुहोस्:">
 <!ENTITY certmgr.editcert.trustssl            "This certificate can identify web sites.">
 <!ENTITY certmgr.editcert.trustemail          "यो प्रमाणपत्रले मेल प्रयोगकर्ताहरूको पहिचान गर्न सक्छ।">
 
@@ -66,8 +66,8 @@
 
 
 
-
-
+<!ENTITY certmgr.details.label                "प्रमाणपत्र फाइलहरू">
+<!ENTITY certmgr.details.accesskey            "F">
 
 
 

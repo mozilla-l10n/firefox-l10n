@@ -18,10 +18,10 @@
 <!ENTITY stats.activityEnded "सकियो">
 <!ENTITY stats.activitySeeking "(खोज्दै)">
 <!ENTITY stats.volume "आवाज">
-<!ENTITY stats.framesParsed "फ्रेमहरु पद वर्णन गरियो">
-<!ENTITY stats.framesDecoded "फ्रेमहरु सङ्केत भयो">
-<!ENTITY stats.framesPresented "फ्रेमहरु प्रस्तुत">
-
+<!ENTITY stats.framesParsed "फ्रेमहरू पद वर्णन गरियो">
+<!ENTITY stats.framesDecoded "फ्रेमहरू सङ्केत भयो">
+<!ENTITY stats.framesPresented "फ्रेमहरू प्रस्तुत">
+<!ENTITY stats.framesPainted "फ्रेमहरू चित्रित">
 
 <!ENTITY error.aborted "भिडियो लोड हुँदै गर्दा रोकियो।">
 <!ENTITY error.network "सञ्जालको त्रुटिले गर्दा भिडियो प्लेब्याक परित्याग हुन पुग्यो।">

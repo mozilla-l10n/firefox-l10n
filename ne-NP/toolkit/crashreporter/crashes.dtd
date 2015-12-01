@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY crashes.title              "क्र्यास प्रतिवेदनहरु पेश गरियो">
+<!ENTITY crashes.title              "क्र्यास प्रतिवेदनहरू पेश गरियो">
 <!ENTITY id.heading                 "प्रतिवेदन आईडी">
 
-<!ENTITY noReports.label            "कुनै पनि क्र्यास प्रतिवेदनहरु पेश गारिएको छैन।">
+<!ENTITY noReports.label            "कुनै पनि क्र्यास प्रतिवेदनहरू पेश गारिएको छैन।">
 
-<!ENTITY clearAllReports.label      "सबै प्रतिवेदनहरु हटाउनुहोस्">
+<!ENTITY clearAllReports.label      "सबै प्रतिवेदनहरू हटाउनुहोस्">
 

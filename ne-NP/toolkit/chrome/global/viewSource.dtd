@@ -50,7 +50,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "पुन: लोड गर्नुहोस्">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "लामा हरफहरु बेर्नुहोस्"> 
+<!ENTITY menu_wrapLongLines.title "लामा हरफहरू बेर्नुहोस्"> 
 <!ENTITY menu_wrapLongLines.accesskey "W">
 <!ENTITY menu_highlightSyntax.label "वाक्यसंरचना हाइलाइटिङ">
 <!ENTITY menu_highlightSyntax.accesskey "H">

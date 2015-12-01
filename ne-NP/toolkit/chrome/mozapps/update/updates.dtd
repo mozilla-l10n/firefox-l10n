@@ -24,9 +24,9 @@
 
 
 
-
+<!ENTITY  license.accept                  "म इजाजतपत्र सम्झौतामा भएकामा सर्तहरू स्वीकार गर्दछु">
 <!ENTITY  license.accept.accesskey        "c">
-
+<!ENTITY  license.decline                 "म इजाजतपत्र सम्झौतामा भएका सर्तहरू स्वीकार गर्दिन">
 <!ENTITY  license.decline.accesskey       "T">
 
 
