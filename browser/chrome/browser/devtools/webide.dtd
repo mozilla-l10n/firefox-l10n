@@ -201,13 +201,13 @@
 <!-- Simulator Options -->
 
 <!ENTITY simulator_title "सिमुलेटर विकल्प">
-
-
-
-
+<!ENTITY simulator_remove "सिमुलेटर मेटाबू">
+<!ENTITY simulator_reset "पूर्वनिर्धारित वापस करू">
+<!ENTITY simulator_name "नाम">
+<!ENTITY simulator_software "साॅफ्टवेयर">
 <!ENTITY simulator_version "संस्करण">
-
-
-
-
-
+<!ENTITY simulator_profile "प्रोफाइल">
+<!ENTITY simulator_hardware "हार्डवेयर">
+<!ENTITY simulator_device "डिवाइस">
+<!ENTITY simulator_screenSize "स्क्रीन">
+<!ENTITY simulator_pixelRatio "पिक्सेल अनुपात">
