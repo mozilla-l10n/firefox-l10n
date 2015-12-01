@@ -37,8 +37,8 @@
 
 <!ENTITY warnOnSendAccelKey.label             "Հաստատել՝ նամակը ուղարկելիս հիմնաբառի պիտակը օգտ.">
 <!ENTITY warnOnSendAccelKey.accesskey         "C">
-<!ENTITY autoSave.label                       "Պահպանել ամեն՝">
-<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSave.label                       "Պահել յուրաքանչյուր՝">
+<!ENTITY autoSave.accesskey                   "Պ">
 <!ENTITY autoSaveEnd.label                    "րոպե">
 
 <!ENTITY emailCollectionPicker.label           "Միանգամից ավելացնել ելքային հասցեները իմ՝">

@@ -22,8 +22,8 @@
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Բացել թղթապանակում">
 <!ENTITY openInFolder.accesskey      "r">
-<!ENTITY saveAsVFButton.label        "Պահպանել որպես փնտրման թղթ.">
-<!ENTITY saveAsVFButton.accesskey    "v">
+<!ENTITY saveAsVFButton.label        "Պահել որպես որոնման թղթ.">
+<!ENTITY saveAsVFButton.accesskey    "ե">
 <!-- for ABSearchDialog.xul -->
 
 <!ENTITY abSearchHeading.label       "Որոնել հետևյալում.">
