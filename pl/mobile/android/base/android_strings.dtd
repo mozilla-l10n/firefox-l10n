@@ -525,10 +525,15 @@
 <!ENTITY devtools_auth_scan_header "Skanowanie kodu QR wyświetlonego na drugim urządzeniu">
 
 <!ENTITY restrictable_feature_addons_installation "Dodatki">
+<!ENTITY restrictable_feature_addons_installation_description "Dodawanie funkcji do przeglądarki Firefox. Uwaga: Dodatki mogą wyłączać pewne ograniczenia.">
 <!ENTITY restrictable_feature_private_browsing "Tryb prywatny">
+<!ENTITY restrictable_feature_private_browsing_description "Umożliwia członkom rodziny przeglądanie bez zachowywania informacji o odwiedzanych stronach.">
 <!ENTITY restrictable_feature_clear_history "Czyszczenie historii przeglądania">
+<!ENTITY restrictable_feature_clear_history_description "Umożliwia członkom rodziny usuwanie informacji o odwiedzonych stronach.">
 <!ENTITY restrictable_feature_advanced_settings "Ustawienia zaawansowane">
+<!ENTITY restrictable_feature_advanced_settings_description "Importowanie zakładek, przywracanie kart i automatyczne aktualizacje. Po wyłączeniu ustawienia są odpowiednie dla każdego członka rodziny.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera i mikrofon">
+<!ENTITY restrictable_feature_camera_microphone_description "Umożliwia członkom rodziny korzystanie z komunikacji w czasie rzeczywistym.">
 
 <!ENTITY bookmarks_about_browser "Firefox: O przeglądarce">
 <!ENTITY bookmarks_addons "Firefox: Dodatki">
