@@ -7,9 +7,9 @@
 
 
 
-<!ENTITY windowTitle2.label "Պահպանել և փոխել գրանշանի կոդավորումը">
+<!ENTITY windowTitle2.label "Պահել և փոխել գրանշանի կոդավորումը">
 <!ENTITY documentTitleTitle.label "Էջի անունը">
 <!ENTITY documentCharsetTitle2.label "Տեքստի կոդավորումը">
-<!ENTITY documentCharsetDesc2.label "Ընտրեք գրանշանի կոդավորումը, որով ցանկանում եք պահպանել փաստաթուղթը.">
+<!ENTITY documentCharsetDesc2.label "Ընտրեք գրանշանի կոդավորումը, որով ցանկանում եք պահել փաստաթուղթը.">
 <!ENTITY documentExportToText.label "Արտածել տեքստով">
 
