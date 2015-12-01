@@ -14,7 +14,7 @@
 <!ENTITY accountTypeDesc2.label "Bu sihirbaz, hesap kurulumu için gereken bilgileri toplayacak. İstenen bilgilere sahip değilseniz lütfen sistem yöneticiniz veya internet servis sağlayıcınızla iletişime geçin.">
 <!ENTITY accountTypeDirections.label "Eklemek istediğiniz hesap türünü seçin:">
 <!ENTITY accountTypeMail.label "E-posta hesabı">
-<!ENTITY accountTypeMail.accesskey "p">
+<!ENTITY accountTypeMail.accesskey "E">
 <!ENTITY accountTypeNews.label "Haber grubu hesabı">
 <!ENTITY accountTypeNews.accesskey "H">
 <!-- Entities for Identity page -->

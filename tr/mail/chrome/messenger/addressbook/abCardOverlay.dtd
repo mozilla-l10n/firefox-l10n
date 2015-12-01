@@ -36,8 +36,8 @@
 <!ENTITY NickName.label                 "Takma Ad:">
 <!ENTITY NickName.accesskey             "T">
 
-<!ENTITY PrimaryEmail.label             "E-Posta:">
-<!ENTITY PrimaryEmail.accesskey         "P">
+<!ENTITY PrimaryEmail.label             "E-posta:">
+<!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Ek E-Posta:">
 <!ENTITY SecondEmail.accesskey          "o">
 <!ENTITY PreferMailFormat.label         "Tercih ettiği ileti alma biçimi:">
