@@ -16,7 +16,7 @@
 <!ENTITY viewTags.accesskey "T">
 <!ENTITY viewCustomViews.label "Ընտրված տեսքով">
 <!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "Պահպանել տեսքը...">
+<!ENTITY viewVirtualFolder.label "Պահել տեսքը որպես թղթապանակ...">
 <!ENTITY viewVirtualFolder.accesskey "Պ">
 <!ENTITY viewCustomizeView.label "Կարգավորել…">
 <!ENTITY viewCustomizeView.accesskey "C">

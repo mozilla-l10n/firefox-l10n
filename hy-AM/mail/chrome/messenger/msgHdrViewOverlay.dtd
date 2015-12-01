@@ -61,7 +61,7 @@
 <!ENTITY markAsReadMenuItem1.accesskey "Ն">
 <!ENTITY markAsUnreadMenuItem1.label "Նշել որպես Չընթերցված">
 <!ENTITY markAsUnreadMenuItem1.accesskey "Ն">
-<!ENTITY saveAsMenuItem1.label "Պահպանել որպես...">
+<!ENTITY saveAsMenuItem1.label "Պահել որպես...">
 <!ENTITY saveAsMenuItem1.accesskey "Պ">
 <!ENTITY viewSourceMenuItem1.label "Նայել աղբյուրը">
 <!ENTITY viewSourceMenuItem1.accesskey "Ն">
@@ -75,16 +75,16 @@
 
 <!ENTITY openAttachmentCmd.label    "Բացել">
 <!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Պահպանել որպես…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "S">
+<!ENTITY saveAsAttachmentCmd.label    "Պահել որպես…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "Պ">
 <!ENTITY detachAttachmentCmd.label    "Բաժանել...">
 <!ENTITY detachAttachmentCmd.accesskey    "D">
 <!ENTITY deleteAttachmentCmd.label    "Ջնջել">
 <!ENTITY deleteAttachmentCmd.accesskey    "e">
 <!ENTITY openAllAttachmentsCmd.label    "Բացել բոլորը...">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
-<!ENTITY saveAllAttachmentsCmd.label    "Պահպանել բոլորը...">
-<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY saveAllAttachmentsCmd.label    "Պահել բոլորը...">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "Պ">
 <!ENTITY detachAllAttachmentsCmd.label    "Բաժանել բոլորը...">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
 <!ENTITY deleteAllAttachmentsCmd.label    "Ջնջել բոլորը...">
@@ -93,10 +93,10 @@
 <!ENTITY openAttachment.tooltip "Բացել կցված ֆայլը">
 <!-- Attachment toolbar items -->
 
-<!ENTITY saveAttachmentButton1.label       "Պահպանել">
-<!ENTITY saveAttachmentButton1.tooltip     "Պահպանել կցված ֆայլը">
-<!ENTITY saveAllAttachmentsButton1.label   "Պահպանել բոլորը">
-<!ENTITY saveAllAttachmentsButton1.tooltip "Պահպանել բոլոր կցված ֆայլերը">
+<!ENTITY saveAttachmentButton1.label       "Պահել">
+<!ENTITY saveAttachmentButton1.tooltip     "Պահել կցված ֆայլը">
+<!ENTITY saveAllAttachmentsButton1.label   "Պահել բոլորը">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Պահել բոլոր կցված ֆայլերը">
 
 <!ENTITY copyLinkCmd.label        "Պատճենել հղման հասցեն">
 <!ENTITY copyLinkCmd.accesskey    "Պ">
