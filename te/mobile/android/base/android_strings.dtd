@@ -6,6 +6,7 @@
 <!ENTITY  no_space_to_start_error "&brandShortName;ను మొదలుపెట్టడానికి తగినంత ఖాళీ జాగా లేదు.">
 <!ENTITY  error_loading_file "&brandShortName;ను నడపడానికి కావలసిన ఫైల్స్ లోడు చేస్తున్నప్పుడు ఏదో లోపం సంభవించింది">
 
+<!ENTITY firstrun_panel_title_welcome "స్వాగతం">
 
 
 <!ENTITY  onboard_start_button_account "&brandShortName; లోనికి ప్రవేశించండి">
@@ -61,8 +62,8 @@
 
 <!ENTITY history_today_section "ఈరోజు">
 <!ENTITY history_yesterday_section "నిన్న">
-
-
+<!ENTITY history_week_section3 "గత 7 రోజులు">
+<!ENTITY history_this_month_section "ఈ నెల">
 
 
 <!ENTITY go "వెళ్ళు">
