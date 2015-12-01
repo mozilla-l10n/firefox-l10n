@@ -94,7 +94,7 @@
 <!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
 <!ENTITY enableSearchUpdate.accesskey    "ք">
 
-<!ENTITY offlineNotify.label             "Տեղեկացնել, երբ վեբ կայքը խնդրում է պահպանել ֆայլեր՝ անցանց եղանակում աշխատելու համար">
+<!ENTITY offlineNotify.label             "Տեղեկացնել, երբ վեբ կայքը խնդրում է պահել ֆայլեր՝ անցանց եղանակում աշխատելու համար">
 <!ENTITY offlineNotify.accesskey         "Տ">
 <!ENTITY offlineNotifyExceptions.label   "Բացառություններ…">
 <!ENTITY offlineNotifyExceptions.accesskey "ց">

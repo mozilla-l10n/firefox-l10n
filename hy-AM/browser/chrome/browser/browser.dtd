@@ -558,7 +558,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "շ">
 <!ENTITY emailPageCmd.label           "Հղումը ուղարկել էլ. փոստով...">
 <!ENTITY emailPageCmd.accesskey       "Հ">
-<!ENTITY savePageCmd.label            "Պահպանել Էջը Որպես…">
+<!ENTITY savePageCmd.label            "Պահել Էջը Որպես…">
 <!ENTITY savePageCmd.accesskey        "Ո">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
@@ -567,7 +567,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "Պ">
 <!ENTITY printFrameCmd.label          "Տպել շրջանակը…">
 <!ENTITY printFrameCmd.accesskey      "Տ">
-<!ENTITY saveLinkCmd.label            "Պահպանել Հղումը Որպես…">
+<!ENTITY saveLinkCmd.label            "Պահել Հղումը Որպես…">
 <!ENTITY saveLinkCmd.accesskey        "ո">
 <!ENTITY saveImageCmd.label           "Պահպանել Նկարը Որպես…">
 <!ENTITY saveImageCmd.accesskey       "պ">
@@ -639,7 +639,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "Թ">
 <!ENTITY videoFullScreen.label       "Բացել Լիաէկրան ">
 <!ENTITY videoFullScreen.accesskey   "Բ">
-<!ENTITY videoSaveImage.label        "Պահպանել մանրապատկերը որպես...">
+<!ENTITY videoSaveImage.label        "Պահել էկրանի պատկերը որպես...">
 <!ENTITY videoSaveImage.accesskey    "Պ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -835,9 +835,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.chatBar.accesskey "ց">
 
 <!ENTITY social.markpageMenu.accesskey "է">
-<!ENTITY social.markpageMenu.label "Պահպանել էջը...">
+<!ENTITY social.markpageMenu.label "Պահել էջը...">
 <!ENTITY social.marklinkMenu.accesskey "հ">
-<!ENTITY social.marklinkMenu.label "Պահպանել հղումը...">
+<!ENTITY social.marklinkMenu.label "Պահել հղումը...">
 
 <!ENTITY getUserMedia.selectCamera.label "Մուտք տեսախցիկին.">
 <!ENTITY getUserMedia.selectCamera.accesskey "Մ">
@@ -936,8 +936,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "Ա">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-<!ENTITY saveToPocketCmd.label     "Պահպանել էջը Pocket-ում">
+<!ENTITY saveToPocketCmd.label     "Պահել էջը Pocket-ում">
 <!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Պահպանել էջը Pocket-ում">
+<!ENTITY saveLinkToPocketCmd.label     "Պահել էջը Pocket-ում">
 <!ENTITY saveLinkToPocketCmd.accesskey "P">
 <!ENTITY pocketMenuitem.label      "Դիտել Pocket-ի ցանկը">

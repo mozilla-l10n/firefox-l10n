@@ -42,7 +42,7 @@
 <!ENTITY fxaSyncDeviceName.label       "Սարքի անունը">
 <!ENTITY changeSyncDeviceName.label "Փոխել սարքի անունը…">
 <!ENTITY cancelChangeSyncDeviceName.label "Չեղարկել">
-<!ENTITY saveChangeSyncDeviceName.label "Պահպանել">
+<!ENTITY saveChangeSyncDeviceName.label "Պահել">
 <!ENTITY unlinkDevice.label           "Հետկցել այս սարքը">
 <!-- Footer stuff -->
 
