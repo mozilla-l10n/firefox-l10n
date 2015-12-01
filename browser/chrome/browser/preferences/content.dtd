@@ -12,9 +12,9 @@
 <!ENTITY  notificationsPolicyDesc3.label       "ఏయే సైట్లు మీకు గమనింపులను పంపవచ్చో ఎంచుకోండి">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "ఎంచుకో…">
-
-
-
+<!ENTITY  notificationsDoNotDisturb.label      "నన్ను విసిగించొద్దు">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "మీరు &brandShortName; పునఃప్రారంభించేదాక ఏ గమనింపు చూపబడదు">
 
 <!ENTITY  popupExceptions.label       "మినహాయింపులు…">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -53,6 +53,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "వీరిచే అనువాదములు">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM కాంటెంట్">
 
-
+<!ENTITY  playDRMContent.label         "DRM కాంటెంట్ నడుపు">
+<!ENTITY  playDRMContent.accesskey     "P">
 <!ENTITY  playDRMContent.learnMore.label "మరింత తెలుసుకోండి">
