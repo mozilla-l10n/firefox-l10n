@@ -59,7 +59,7 @@
 <!ENTITY otherActionsOpenInNewTab1.accesskey "ն">
 <!ENTITY markAsReadMenuItem1.label "Նշել որպես ընթերցված">
 <!ENTITY markAsReadMenuItem1.accesskey "Ն">
-<!ENTITY markAsUnreadMenuItem1.label "Նշել որպես Չընթերցված">
+<!ENTITY markAsUnreadMenuItem1.label "Նշել որպես չընթերցված">
 <!ENTITY markAsUnreadMenuItem1.accesskey "Ն">
 <!ENTITY saveAsMenuItem1.label "Պահել որպես...">
 <!ENTITY saveAsMenuItem1.accesskey "Պ">
