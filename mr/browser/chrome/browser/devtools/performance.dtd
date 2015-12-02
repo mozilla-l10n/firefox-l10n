@@ -58,9 +58,9 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "वॉटरफॉल">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "रेकॉर्डिंग दरम्यान ब्राउझर करत असलेले विविध कार्य अनुक्रमे दाखवते.">
 <!ENTITY performanceUI.toolbar.js-calltree "कॉल वृक्ष">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "रेकॉर्डिंग दरम्यान ब्राउझरने सर्वाधिक वेळ घेतलेल्या JavaScript फंक्शन प्रखरतेने दाखवते.">
 <!ENTITY performanceUI.toolbar.memory-calltree "वाटण्या">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "रेकॉर्डींग दरम्यान मेमरी ची वाटणी कुठे झाली ते दर्शवते.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS फ्लेम चार्ट">
