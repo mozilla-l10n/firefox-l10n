@@ -68,7 +68,7 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "Curăță acum">
 <!ENTITY clearOfflineAppCacheNow.accesskey "m">
-<!ENTITY overrideSmartCacheSize.label    "Ignoră administrarea automată a memoriei cache">
+<!ENTITY overrideSmartCacheSize.label    "Ignoră gestionarea automată a cache-ului">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
 <!ENTITY updateTab.label                 "Actualizare">

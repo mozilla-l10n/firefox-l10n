@@ -11,7 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "Arată sugestiile de căutare în rezultatele din bara de adrese.">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
-
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat &brandShortName; ca să nu țină minte niciodată istoricul.">
 
 <!ENTITY redirectWindowsSearch.label "Folosește acest motor de căutare pentru căutări din Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
