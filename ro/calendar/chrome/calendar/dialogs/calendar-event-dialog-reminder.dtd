@@ -5,8 +5,8 @@
 <!ENTITY reminderdialog.title                              "Setare memento">
 <!ENTITY reminder.add.label                                "Adaugă">
 <!ENTITY reminder.add.accesskey                            "A">
-<!ENTITY reminder.remove.label                             "Șterge">
-<!ENTITY reminder.remove.accesskey                         "r">
+<!ENTITY reminder.remove.label                             "Elimină">
+<!ENTITY reminder.remove.accesskey                         "R">
 
 <!ENTITY reminder.reminderDetails.label                    "Detalii despre memento">
 <!ENTITY reminder.action.label                             "Alege o acțiune pentru memento">

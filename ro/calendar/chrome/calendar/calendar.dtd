@@ -240,7 +240,7 @@
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
-<!ENTITY calendar.context.removeserver.label           "Înlătură calendarul…">
+<!ENTITY calendar.context.removeserver.label           "Elimină calendarul…">
 <!ENTITY calendar.context.removeserver.accesskey       "r">
 <!ENTITY calendar.context.unsubscribeserver.label      "Dezabonare de la calendar…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "o">

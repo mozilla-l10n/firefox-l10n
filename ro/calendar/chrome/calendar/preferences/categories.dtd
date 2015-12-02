@@ -13,8 +13,8 @@
 <!ENTITY pref.categories.edit.title "Editare categorie">
 <!ENTITY pref.categories.editButton.label "Editează…">
 <!ENTITY pref.categories.editButton.accesskey "E">
-<!ENTITY pref.categories.removeButton.label "Înlătură">
-<!ENTITY pref.categories.removeButton.accesskey "r">
+<!ENTITY pref.categories.removeButton.label "Elimină">
+<!ENTITY pref.categories.removeButton.accesskey "R">
 <!ENTITY pref.categories.name.label "Nume">
 <!ENTITY pref.categories.color.label "Culoare">
 <!ENTITY pref.categories.usecolor.label "Folosește culoarea">
