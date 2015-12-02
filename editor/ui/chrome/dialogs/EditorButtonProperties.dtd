@@ -23,5 +23,5 @@
 <!ENTITY AccessKey.label "Tastă acces:">
 <!ENTITY AccessKey.accesskey "a">
 
-<!ENTITY RemoveButton.label "Elimină buton">
-<!ENTITY RemoveButton.accesskey "E">
+<!ENTITY RemoveButton.label "Elimină butonul">
+<!ENTITY RemoveButton.accesskey "R">
