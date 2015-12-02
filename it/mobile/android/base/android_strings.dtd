@@ -449,6 +449,5 @@
 <!ENTITY bookmarks_restricted_support2 "Supporto per l’uso di profili limitati in Firefox su tablet Android">
 <!ENTITY bookmarks_restricted_webmaker "Impara il Web: Mozilla Webmaker">
 <!ENTITY unsupported_sdk_version "Siamo spiacenti, questa versione di &brandShortName; non è compatibile con questo dispositivo (&formatS1;, &formatS2;). È necessario scaricare la versione corretta.">
-<!ENTITY eol_notification_url "https://support.mozilla.org/1/firefox/&formatS1;/&formatS2;/&formatS3;/honeycombs">
 <!ENTITY eol_notification_title "&brandShortName; non è più compatibile con Android 3">
 <!ENTITY eol_notification_summary "Tocca per ulteriori informazioni">
