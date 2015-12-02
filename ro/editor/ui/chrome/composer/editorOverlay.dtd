@@ -144,7 +144,7 @@
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Elimină ancorele cu nume">
-<!ENTITY formatRemoveNamedAnchors.accesskey "l">
+<!ENTITY formatRemoveNamedAnchors.accesskey "r">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraf">
@@ -334,7 +334,7 @@
 <!ENTITY structSelect.label         "Selectează">
 <!ENTITY structSelect.accesskey     "S">
 <!ENTITY structRemoveTag.label      "Elimină tag">
-<!ENTITY structRemoveTag.accesskey  "E">
+<!ENTITY structRemoveTag.accesskey  "R">
 <!ENTITY structChangeTag.label      "Modifică tag">
 <!ENTITY structChangeTag.accesskey  "M">
 <!-- TOC manipulation -->
@@ -344,6 +344,6 @@
 <!ENTITY updateTOC.label          "Actualizează">
 <!ENTITY updateTOC.accesskey      "A">
 <!ENTITY removeTOC.label          "Elimină">
-<!ENTITY removeTOC.accesskey      "E">
+<!ENTITY removeTOC.accesskey      "R">
 <!ENTITY tocMenu.label            "Cuprins…">
 <!ENTITY tocMenu.accesskey        "C">
