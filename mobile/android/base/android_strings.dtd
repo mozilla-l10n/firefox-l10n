@@ -267,7 +267,7 @@ size. -->
 
 
 
-
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
 
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
@@ -292,6 +292,7 @@ size. -->
 
 
 
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
 <!ENTITY datareporting_notification_action_long "Choose what information to share">
 <!ENTITY datareporting_notification_action "Choose what to share">
 <!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
@@ -473,6 +474,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint2 "TIP: Save articles to your reading list by long pressing the &formatI; icon when it appears in the title bar.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "TIP: Save articles to your reading list by long pressing the reader mode button when it appears in the title bar.">
@@ -549,6 +551,7 @@ from Android">
 from Android">
 <!ENTITY bookmarkhistory_import_wait "Please wait...">
 
+<!ENTITY suggestions_prompt3 "Would you like to turn on search suggestions?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
