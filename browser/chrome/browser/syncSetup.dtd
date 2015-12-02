@@ -15,7 +15,7 @@
 <!ENTITY setup.choicePage.existing2.label "من هم‌اکنون از &syncBrand.shortName.label; در دستگاه دیگری استفاده میکنم">
 <!-- New Account AND Existing Account -->
 
-<!ENTITY server.label               "پایگاه">
+<!ENTITY server.label               "کارگزار">
 <!ENTITY serverType.default.label      "پیش‌فرض: سرور &syncBrand.fullName.label; ">
 <!ENTITY serverType.custom2.label   "استفاده از یک پایگاه خاص…">
 <!ENTITY signIn.account2.label      "حساب">
