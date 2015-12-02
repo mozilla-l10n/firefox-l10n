@@ -101,8 +101,8 @@
 
 <!ENTITY offlineAppsList2.label          "Următoarele site-uri web au permisiunea de a stoca date pentru utilizare offline:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Șterge…">
-<!ENTITY offlineAppsListRemove.accesskey "r">
+<!ENTITY offlineAppsListRemove.label     "Elimină…">
+<!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Șterge datele offline">
 
 <!ENTITY certificateTab.label            "Certificate">
