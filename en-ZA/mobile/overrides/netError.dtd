@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "Unable to connect">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "This address is restricted">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -35,7 +35,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "The connection was interrupted">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Document Expired">
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
@@ -55,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "The connection was reset">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "The connection has timed out">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "The address wasn't understood">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -75,6 +75,12 @@ working.</li>
 <!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Check the proxy settings to make sure that they are correct.</li> 
+<li>Check to make sure your device has a working data or Wi-Fi connection. 
+<button id='wifi'>Enable Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "The page isn't redirecting properly">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -90,7 +96,10 @@ installed.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Secure Connection Failed">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li> 
+<li>Please contact the website owners to inform them of this problem.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Secure Connection Failed">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -101,6 +110,13 @@ be temporary, and you can try again later.</li>
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li> 
+<li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection. 
+<button id='wifi'>Enable Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">

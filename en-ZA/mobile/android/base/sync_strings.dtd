@@ -133,7 +133,7 @@
 
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Welcome to &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description2 "Sign in to sync your tabs, bookmarks, logins &amp; more.">
 <!ENTITY fxaccount_getting_started_get_started "Get started">
 <!ENTITY fxaccount_getting_started_old_firefox "Using an older version of &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
