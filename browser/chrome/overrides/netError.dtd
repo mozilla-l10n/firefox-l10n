@@ -176,13 +176,13 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
 <!ENTITY sslv3Used.longDesc "सखोल माहिती: ssl_error_unsupported_version">
-
+<!ENTITY sslv3Used.learnMore "अधिक जाणून घ्या…">
 
 <!ENTITY weakCryptoUsed.title "आपली जोडणी सुरक्षीत नाही">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
 <!ENTITY weakCryptoUsed.longDesc "अधिक माहिती: ssl_error_no_cypher_overlap">
-
+<!ENTITY weakCryptoUsed.learnMore "अधिक जाणून घ्या…">
 <!ENTITY weakCryptoAdvanced.title "प्रगत">
-
-
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरते. आपण समजत असलेली सुरक्षित माहिती आक्रमणकर्ता सहजरीत्या पाहू शकतो.">
+<!ENTITY weakCryptoAdvanced.override "(असुरक्षित) कालबाह्य सुरक्षा यंत्रणा वापरून <span class='hostname'></span> लोड करण्याचा प्रयत्न करा">
