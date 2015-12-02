@@ -41,7 +41,7 @@
 
 <!ENTITY popup.label                     "Åbn pop op-vinduer">
 
-<!ENTITY push.label                      "Modtage push-meddelelser">
+<!ENTITY desktop-notification.label      "Vis beskeder">
 <!ENTITY camera.label                    "Brug kameraet">
 <!ENTITY microphone.label                "Brug mikrofonen">
 
