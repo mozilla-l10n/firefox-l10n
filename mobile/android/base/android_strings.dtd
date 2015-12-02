@@ -17,7 +17,7 @@
 
 <!ENTITY firstrun_import_title "Importar">
 <!ENTITY firstrun_import_message "Bem-vindo ao &brandShortName;">
-<!ENTITY firstrun_import_subtext "Importar os seus marcadores e histórico de outro navegador.">
+<!ENTITY firstrun_import_subtext "Importe os seus marcadores e o histórico de outro navegador.">
 <!ENTITY firstrun_import_action "Transferir para o &brandShortName;">
 <!ENTITY firstrun_import_dialog_button "Transferir">
 <!ENTITY firstrun_import_progress_title "A transferir">
@@ -26,19 +26,19 @@
 
 <!ENTITY  bookmarks_title "Marcadores">
 <!ENTITY  history_title "Histórico">
-<!ENTITY  reading_list_title "Lista de leitura">
-<!ENTITY  recent_tabs_title "Separadores recentes">
+<!ENTITY  reading_list_title "Lista de Leitura">
+<!ENTITY  recent_tabs_title "Separadores Recentes">
 
-<!ENTITY  switch_to_tab "Mudar para separador">
+<!ENTITY  switch_to_tab "Mudar para o separador">
 
 <!ENTITY  crash_reporter_title "Relator de erros do &brandShortName;">
-<!ENTITY  crash_message2 "O &brandShortName; teve um erro. Os seus separadores devem estar listados na página inicial do &brandShortName; quando reiniciar.">
+<!ENTITY  crash_message2 "O &brandShortName; teve um problema e crachou. Os seus separadores deverão estar listados na página Inicial do &brandShortName; quando reiniciar.">
 <!ENTITY  crash_send_report_message3 "Informar a &vendorShortName; sobre este erro para que o possam resolver">
 <!ENTITY  crash_include_url2 "Incluir o endereço da página onde estava">
 <!ENTITY  crash_sorry "Pedimos desculpa">
-<!ENTITY  crash_comment "Adicionar um comentário (os comentários são públicos)">
-<!ENTITY  crash_allow_contact2 "Autorizar que a &vendorShortName; me contacte sobre este erro">
-<!ENTITY  crash_email "O seu email">
+<!ENTITY  crash_comment "Adicionar um comentário (os comentários são visíveis publicamente)">
+<!ENTITY  crash_allow_contact2 "Autorizar que a &vendorShortName; me contacte sobre este relatório">
+<!ENTITY  crash_email "O seu e-mail">
 <!ENTITY  crash_closing_alert "Sair sem enviar um relatório de erro?">
 <!ENTITY  sending_crash_report "A enviar relatório de erro\u2026">
 <!ENTITY  crash_close_label "Fechar">
@@ -48,7 +48,7 @@
 <!ENTITY  launcher_shortcuts_title "Aplicações web do &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Nenhuma aplicação web encontrada">
 
-<!ENTITY choose_file "Escolher ficheiro">
+<!ENTITY choose_file "Escolher Ficheiro">
 
 <!ENTITY url_bar_default_text2 "Pesquise ou digite um endereço">
 
@@ -79,17 +79,17 @@
 <!ENTITY site_security "Segurança do site">
 <!ENTITY edit_mode_cancel "Cancelar">
 
-<!ENTITY close_tab "Fechar separador">
+<!ENTITY close_tab "Fechar Separador">
 <!ENTITY one_tab "1 separador">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; separadores">
-<!ENTITY new_tab_opened "Novo separador aberto">
-<!ENTITY new_private_tab_opened "Novo separador privado aberto">
+<!ENTITY new_tab_opened "Aberto novo separador">
+<!ENTITY new_private_tab_opened "Aberto novo separador privado">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "ALTERNAR">
+<!ENTITY switch_button_message "MUDAR">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -111,7 +111,7 @@
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Idioma">
-<!ENTITY pref_category_language_summary "Mudar idioma do navegador">
+<!ENTITY pref_category_language_summary "Altere o idioma do seu navegador">
 <!ENTITY pref_browser_locale "Idioma do navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -128,9 +128,9 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Marcador">
-<!ENTITY overlay_share_reading_list_btn_label "Adicionar à lista de leitura">
+<!ENTITY overlay_share_reading_list_btn_label "Adicionar à Lista de Leitura">
 <!ENTITY overlay_share_bookmark_btn_label_already "Já existe nos marcadores">
-<!ENTITY overlay_share_reading_list_btn_label_already "Já existe na lista de leitura">
+<!ENTITY overlay_share_reading_list_btn_label_already "Já existe na Lista de Leitura">
 <!ENTITY overlay_share_send_other "Enviar para outros dispositivos">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -143,7 +143,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Não foi encontrada nenhuma Conta Firefox associada a dispositivos">
+<!ENTITY overlay_no_synced_devices "Não foram encontrados dispositivos ligados na Conta Firefox">
 <!-- Localization note (menu_no_synced_devices): Used in a toast when the user
      clicks on the button to send a tab to another device and there are no
      other devices present. This label should briefly inform the user that they
@@ -154,18 +154,18 @@
 <!ENTITY pref_category_search3 "Pesquisar">
 <!ENTITY pref_category_search_summary "Personalizar os seus fornecedores de pesquisa">
 <!ENTITY pref_category_display "Mostrar">
-<!ENTITY pref_category_display_summary "Texto, barra de título, navegação em ecrã inteiro">
+<!ENTITY pref_category_display_summary "Texto, barra de título, navegação em ecrã completo">
 <!ENTITY pref_category_privacy_short "Privacidade">
 <!ENTITY pref_category_privacy_summary2 "Controle credenciais, cookies, monitorização, dados">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Acerca do &brandShortName;, das FAQs e das escolhas de dados">
+<!ENTITY pref_category_vendor_summary "Acerca do &brandShortName;, perguntas frequentes e opções de dados">
 <!ENTITY pref_category_datareporting "Escolhas de dados">
 <!ENTITY pref_learn_more "Saber mais">
 <!ENTITY pref_category_installed_search_engines "Motores de pesquisa instalados">
 <!ENTITY pref_category_add_search_providers "Adicionar mais fornecedores de pesquisa">
 <!ENTITY pref_category_search_restore_defaults "Restaurar motores de pesquisa">
-<!ENTITY pref_search_restore_defaults "Restaurar pré-definições">
-<!ENTITY pref_search_restore_defaults_summary "Restaurar pré-definições">
+<!ENTITY pref_search_restore_defaults "Restaurar predefinições">
+<!ENTITY pref_search_restore_defaults_summary "Restaurar predefinições">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -176,18 +176,18 @@
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_developer_remotedebugging_usb "Depuração remota via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuração remota via Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "A depuração por Wi-Fi requer que o seu dispositivo tenha uma aplicação instalada para a leitura de códigos QR.">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "A depuração por Wi-Fi requer que o seu dispositivo tenha uma aplicação de leitura de códigos QR instalada.">
 <!ENTITY pref_category_logins "Credenciais">
 <!ENTITY pref_remember_signons2 "Memorizar credenciais">
-<!ENTITY pref_open_external_urls_privately_title "Abrir ligações em janela privada">
+<!ENTITY pref_open_external_urls_privately_title "Abrir ligações em navegação Privada">
 <!ENTITY pref_open_external_urls_privately_summary "Para todas as ligações externas abertas no &brandShortName;">
 <!ENTITY pref_manage_logins "Gerir credenciais">
 
-<!ENTITY pref_category_home "Página inicial">
-<!ENTITY pref_category_home_summary "Personalizar a sua página inicial">
+<!ENTITY pref_category_home "Página Inicial">
+<!ENTITY pref_category_home_summary "Personalize a sua página inicial">
 <!ENTITY pref_category_home_panels "Painéis">
 <!ENTITY home_add_panel_title "Adicionar novo painel">
-<!ENTITY home_add_panel_empty "Lamentamos, mas não conseguimos localizar painéis que possa adicionar.">
+<!ENTITY home_add_panel_empty "Lamentamos, mas não conseguimos encontrar quaisquer painéis que possa adicionar.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
