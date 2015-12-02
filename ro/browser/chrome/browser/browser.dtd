@@ -425,10 +425,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Mută în meniu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "u">
-<!ENTITY customizeMenu.removeFromToolbar.label "Șterge din bara de unelte">
+<!ENTITY customizeMenu.removeFromToolbar.label "Elimină din bara de unelte">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
-<!ENTITY customizeMenu.removeFromMenu.label "Șterge din meniu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "r">
+<!ENTITY customizeMenu.removeFromMenu.label "Elimină din meniu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Adaugă mai multe elemente…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 

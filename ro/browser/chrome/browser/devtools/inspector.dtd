@@ -98,6 +98,8 @@
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
 
+<!ENTITY inspectorRemoveAttribute.label        "Elimină atributul">
+<!ENTITY inspectorRemoveAttribute.accesskey    "r">
 
 <!ENTITY inspector.selectButton.tooltip     "Selectează elementul cu mouse">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
