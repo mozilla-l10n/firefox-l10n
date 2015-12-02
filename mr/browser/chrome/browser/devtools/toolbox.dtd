@@ -6,7 +6,7 @@
 
 
 <!ENTITY closeCmd.key  "W">
-
+<!ENTITY toggleToolbox.key  "I">
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
@@ -21,20 +21,29 @@ fullZoomReduceCmd.commandkey2, fullZoomResetCmd.commandkey,
 and fullZoomResetCmd.commandkey2 should all match the corresponding
 values from browser.dtd.  -->
 
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY toolboxReload.key             "r">
 <!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
+<!ENTITY toolboxToggleMinimize.key     "U">
 
+<!ENTITY toolboxToggle.key             "d">
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
+<!ENTITY toolboxFramesTooltip          "iframe म्हणून सध्याचा हवा असेलेला दस्तएवज निवडा">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "ब्राउझर साधनपेटी उघडण्यात त्रुटी:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -87,6 +96,8 @@ values from browser.dtd.  -->
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label5    "chrome आणि ॲडऑन डिबगिंग साधनपेट्या सक्रीय करा">
+<!ENTITY options.enableChrome.tooltip3  "हे पर्याय सुरु केल्यामुळे आपल्याला खूप डेवलपर साधने ब्राउझर मध्ये वापरता येतील (साधने > वेब डेवलपर > साधनपेटी) आणि अॅड-ऑन्स व्यवस्थापकाहून अॅड-ऑन्स डीबग करा.">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -97,6 +108,8 @@ values from browser.dtd.  -->
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableWorkers.label    "वर्कर डीबगिंग सक्रीय करा (विकसनात)">
+<!ENTITY options.enableWorkers.tooltip  "हे पर्याय सुरु केल्यावर डेवलपर साधनांना वर्कर्सला डीबग करण्याची परवानगी असेल.">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -112,6 +125,8 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+
+<!ENTITY options.enableServiceWorkersHTTP.label     "वर्कर्स सेवा वर सक्रिय करा (जेव्हा साधनपेटी उघडी असेल)">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -137,9 +152,13 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
+
+<!ENTITY options.selectDevToolsTheme.label2   "थीम्स">
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
+<!ENTITY options.usedeveditiontheme.label   "डेवलपर आवृत्ती ब्राउझर योजना वापरा">
+<!ENTITY options.usedeveditiontheme.tooltip "डेवलपर आवृत्ती ब्राउझर योजना बदलते.">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -194,7 +213,7 @@ Gecko प्लॅटफॉर्म सिम्बल्स">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "कंस स्व बंद करा">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "बंद कंस स्वतः अंतर्भुत करा">
 <!ENTITY options.sourceeditor.expandtab.label           "मोकळ्या जागेचा वापर समासकरिता करा">
-
+<!ENTITY options.sourceeditor.expandtab.tooltip         "टॅब की ऐवजी स्पेसेस की चा वापर करा">
 <!ENTITY options.sourceeditor.tabsize.label             "टॅब आकार">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "किबाइंडिंग्ज">
