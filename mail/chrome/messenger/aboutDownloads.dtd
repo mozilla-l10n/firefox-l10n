@@ -22,3 +22,5 @@
 <!ENTITY cmd.clearList.tooltip                     "Poista kaikki merkinnät tallentuista tiedostoista, paitsi käynnissä olevat lataukset.">
 <!ENTITY cmd.searchDownloads.label                 "Etsi…">
 <!ENTITY cmd.searchDownloads.key                   "F">
+<!ENTITY cmd.clearDownloads.label                  "Tyhjennä lista">
+<!ENTITY cmd.clearDownloads.accesskey              "T">
