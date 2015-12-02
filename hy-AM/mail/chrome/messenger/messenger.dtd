@@ -400,8 +400,8 @@
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Որպես ընթերցված">
 <!ENTITY markAsReadCmd.accesskey "R">
-<!ENTITY markAsUnreadCmd.label "Որպես Չընթերցված">
-<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markAsUnreadCmd.label "Որպես չընթերցված">
+<!ENTITY markAsUnreadCmd.accesskey "չ">
 <!ENTITY markThreadAsReadCmd.label "Թեմաները ընթերցված">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "Թ">
