@@ -157,7 +157,7 @@
 <!ENTITY pref_category_display_summary "Texto, barra de título, navegación de pantalla completa">
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_privacy_summary2 "Control de credenciales, cookies, rastreo, datos">
-<!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_vendor_summary "Acerca de &brandShortName;, preguntas frecuentes, elección de datos">
 <!ENTITY pref_category_datareporting "Elección de datos">
 <!ENTITY pref_learn_more "Saber más">
@@ -208,10 +208,9 @@
 <!ENTITY pref_header_privacy_short "Privacidad">
 <!ENTITY pref_header_help "Ayuda">
 <!ENTITY pref_header_language "Idioma">
-<!ENTITY pref_header_vendor "&vendorShortName;">
+
 <!ENTITY pref_header_devtools "Herramientas de desarrollador">
 
-<!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Habilitado">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo a terceros">
 <!ENTITY pref_cookies_disabled "Deshabiltado">
@@ -239,7 +238,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Puedes cambiar esto después en Configuraciones">
 <!ENTITY tab_queue_prompt_positive_action_button "Habilitar">
 <!ENTITY tab_queue_prompt_negative_action_button "Ahora no">
-<!ENTITY tab_queue_notification_title "&brandShortName;">
+
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -257,7 +256,7 @@
 <!ENTITY pref_clear_on_exit_title2 "Limpiar al salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automáticamente limpiará tus datos siempre que selecciones \u0022Quit\u0022 desde el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccionar que datos limpiar">
-<!ENTITY pref_plugins "Plugins">
+
 <!ENTITY pref_plugins_enabled "Habilitado">
 <!ENTITY pref_plugins_tap_to_play "Presiona para jugar">
 <!ENTITY pref_plugins_disabled "Deshabilitado">
@@ -276,7 +275,6 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -292,7 +290,7 @@ size. -->
 <!ENTITY pref_qrcode_enabled_summary "Permitir escáner de códigos QR en la barra de título">
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
-<!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_sync_summary2 "Sincroniza tus pestañas, marcadores, inicios de sesión, historial">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_history_search_suggestions "Mostrar historial de búsqueda">
@@ -331,7 +329,7 @@ size. -->
 <!ENTITY datareporting_notification_action "Elige que compartir">
 <!ENTITY datareporting_notification_summary "Para mejorar tu experiencia, &brandShortName; automáticamente enviará algo de información a &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Parar mejorar tu experiencia, &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
