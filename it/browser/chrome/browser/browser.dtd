@@ -20,9 +20,6 @@
 <!ENTITY pinTab.accesskey "h">
 <!ENTITY unpinTab.label "Sblocca scheda">
 <!ENTITY unpinTab.accesskey "h">
-<!ENTITY moveToGroup.label "Sposta nel gruppo">
-<!ENTITY moveToGroup.accesskey "o">
-<!ENTITY moveToNewGroup.label "Nuovo gruppo">
 <!ENTITY moveToNewWindow.label "Sposta in una nuova finestra">
 <!ENTITY moveToNewWindow.accesskey "f">
 <!ENTITY bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
@@ -162,7 +159,6 @@
 <!ENTITY urlbar.openHistoryPopup.tooltip "Visualizza cronologia">
 <!ENTITY searchItem.title "Cerca">
 <!ENTITY homeButton.label "Pagina iniziale&#173;">
-<!ENTITY tabGroupsButton.label "Gruppi di schede">
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Segnalibri">
@@ -281,8 +277,6 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewTabGroups.label "Gruppi di schede">
-<!ENTITY viewTabGroups.accesskey "G">
 <!ENTITY viewToolbarsMenu.label "Barre degli strumenti">
 <!ENTITY viewToolbarsMenu.accesskey "B">
 <!ENTITY viewSidebarMenu.label "Barra laterale">
@@ -346,7 +340,6 @@
 <!ENTITY searchInNewTab.accesskey "n">
 <!ENTITY searchSetAsDefault.label "Imposta come motore di ricerca predefinito">
 <!ENTITY searchSetAsDefault.accesskey "m">
-<!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Apri link in nuova scheda">
 <!ENTITY openLinkCmdInTab.accesskey "s">
 <!ENTITY openLinkCmd.label "Apri link in nuova finestra">
