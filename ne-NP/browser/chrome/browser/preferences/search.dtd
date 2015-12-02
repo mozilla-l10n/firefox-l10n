@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "पूर्वनिर्धारित खोज इन्जिन">
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "आफ्नो पूर्वनिर्धारित खोजी इन्जिन छनौट गर्नुहोस्। &brandShortName; ले यसलाई लोकेसन बार, खोजी बार, र पृष्ठ सुरु गर्दा प्रयोग गर्छ।">
 
 <!ENTITY provideSearchSuggestions.label        "खोज सुझावहरू प्रदान गर्ने">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
