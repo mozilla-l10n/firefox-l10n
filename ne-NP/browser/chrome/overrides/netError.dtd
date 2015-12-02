@@ -154,8 +154,14 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY errorReporting.title "यो त्रुटी प्रतिवेदन पठाउनुहोस्">
 
+<!ENTITY securityOverride.warningContent "<p>यदी यो इन्टरनेट जडानमा तपाईँलाई पुर्ण भरोसा छैन वा यदि तपाईँले पहिले यस किसिमको चेतावनी देख्नुभएको थिएन भने, तपाईँले अपवादमा थप्नु हुँदैन।</p> 
+ 
+ <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button> ">
+
+<!ENTITY errorReporting.title "यो त्रुटी प्रतिवेदन पठाउनुहोस्">
+<!ENTITY errorReporting.longDesc "<span id='hostname'></span> को लागि ठेगाना र प्रमाणपत्र जानकारी रिपोर्ट गर्नुभएमा, हामीलाई खराब साइटहरु पहिचान र ब्लक मदत हुनेछ। हामीलाई एक सुरक्षित वेब बनाउन मदत गर्नु भएकोमा धन्यवाद!">
 <!ENTITY errorReporting.automatic "भविष्यमा त्रुटिहरू स्वतः पठाउने">
 <!ENTITY errorReporting.learnMore "अझ जान्नुहोस्…">
 <!ENTITY errorReporting.sending "रिपोर्ट पठाउनुहोस्">
@@ -178,5 +184,5 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.longDesc "उन्नत जानकारी: ssl_error_no_cypher_overlap">
 <!ENTITY weakCryptoUsed.learnMore "अझ जान्नुहोस्…">
 <!ENTITY weakCryptoAdvanced.title "उन्नत">
-
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ले पुरानो र आक्रमण हुनसक्ने सुरक्षा प्रविधि प्रयोग गर्दछ। कुनै आक्रमणकर्ताले तपाईँलाई सुरक्षित लागेको जानकारी बाहिर फुत्काउन सक्छ। ">
 <!ENTITY weakCryptoAdvanced.override "(सुरक्षित छैन) <span class='hostname'></span> पुरानो सुरक्षा प्रविधि अपनाई लोड गर्न प्रयास गर्नुहोस्">
