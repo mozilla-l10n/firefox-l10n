@@ -5,8 +5,9 @@
 <!ENTITY syncCustomize.dialog.title       "छनौट सिन्क गर्नुहोस्">
 <!ENTITY syncCustomize.acceptButton.label "सुरु गर्नुहोस्">
 
-
-
+<!ENTITY syncCustomize.title              "के तपाईं सिङ्क गर्न चाहनुहुन्छ?">
+<!ENTITY syncCustomize.description        "तपाईं यो चयन विकल्पबाट परिवर्तन गर्न सक्नुहुन्छ।">
+<!ENTITY syncCustomizeUnix.description    "तपाईं यो चयन प्राथमिकताबाट परिवर्तन गर्न सक्नुहुन्छ।">
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
@@ -18,9 +19,9 @@
 <!ENTITY engine.history.accesskey         "r">
 <!ENTITY engine.tabs.label                "ट्याबहरू">
 <!ENTITY engine.tabs.accesskey            "T">
-
-
-
-
-
-
+<!ENTITY engine.passwords.label           "पासवर्डहरू">
+<!ENTITY engine.passwords.accesskey       "P">
+<!ENTITY engine.addons.label              "डेस्कटप एड-अनहरु">
+<!ENTITY engine.addons.accesskey          "A">
+<!ENTITY engine.prefs.label               "डेस्कटप प्राथमिकताहरु">
+<!ENTITY engine.prefs.accesskey           "s">

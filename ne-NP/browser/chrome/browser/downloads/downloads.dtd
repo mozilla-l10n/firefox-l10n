@@ -51,14 +51,14 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "फोल्डर समाविष्ट भएको खोल्नुहोस्">
+<!ENTITY cmd.show.label                   "समाविष्ट भएको फोल्डर खोल्नुहोस्">
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "फाइन्डरमा देखाउनुहोस्">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "पुनः प्रयास गर्नुहोस्">
 <!ENTITY cmd.goToDownloadPage.label       "डाउनलोड पेजमा जानुहोस्">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "डाउनलोड लिङ्क सार्नुहोस्">
+<!ENTITY cmd.copyDownloadLink.label       "डाउनलोड लिङ्क प्रतिलिपि गर्नुहोस्">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "इतिहासबाट हटाउनुहोस्">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
