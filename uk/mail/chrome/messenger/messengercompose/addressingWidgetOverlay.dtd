@@ -9,5 +9,5 @@
 <!ENTITY bccAddr.label  "Прих. копія:"> 
 <!ENTITY replyAddr.label   "Зворотна адреса:"> 
 <!ENTITY newsgroupsAddr.label   "Група новин:"> 
-<!ENTITY followupAddr.label   "Followup-To:"> 
+<!ENTITY followupAddr.label   "Відповідь в групу новин:"> 
 
