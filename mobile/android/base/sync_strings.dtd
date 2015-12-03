@@ -54,8 +54,6 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-
-<!ENTITY sync.default.client.name "&formatS1; sobre &formatS2;">
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.places.label "Ranɨaɨ taɨjɨra rɨgɨnoa">
 
@@ -146,7 +144,7 @@
 
 
 
-<!ENTITY fxaccount_status_sync_server "Servidor de Sync">
+
 
 
 
@@ -165,7 +163,7 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
-<!ENTITY fxaccount_status_more "Más&ellipsis;">
+
 <!ENTITY fxaccount_remove_account "Desconectar&ellipsis;">
 
 
