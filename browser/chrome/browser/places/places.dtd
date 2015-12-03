@@ -16,8 +16,8 @@
 <!ENTITY views.label                    "दृश्य V">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "तपाईंको दृश्य परिवर्तन गर्नुहोस्">
-
-
+<!ENTITY view.columns.label             "कोलमहरु देखाउनुहोस्">
+<!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "क्रमबद्ब गर्नुहोस्">
 <!ENTITY view.sort.accesskey            "क">
 <!ENTITY view.unsorted.label            "क्रमबद्ध नगरिएको">
@@ -27,9 +27,10 @@
 <!ENTITY view.sortDescending.label      "Z > A श्णीबद्ध क्रम">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-
-
-
+<!ENTITY importBookmarksFromHTML.label     "HTML… बाट पुस्तकचिनो आयात गर्नुहोस्">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "पुस्तकचिनो HTML… मा निर्यात गर्नुहोस्">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
 
 
 
