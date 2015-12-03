@@ -336,15 +336,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "फाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "नविन कंटेनर टॅब">
+<!ENTITY newUserContext.label             "नविन Container टॅब">
 <!ENTITY newUserContext.accesskey         "C">
-<!ENTITY userContextPersonal.label        "वैयक्तिक">
+<!ENTITY userContextPersonal.label        "Personal">
 <!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "कार्य">
+<!ENTITY userContextWork.label            "Work">
 <!ENTITY userContextWork.accesskey        "W">
 <!ENTITY userContextBanking.label         "बँकिंग">
 <!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "खरेदी">
+<!ENTITY userContextShopping.label        "Shopping">
 <!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "नविन पटल">
 <!ENTITY newNavigatorCmd.key        "N">
