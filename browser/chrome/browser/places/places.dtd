@@ -10,10 +10,11 @@
 <!ENTITY organize.accesskey    "स">
 <!ENTITY organize.tooltip      "आफ्नो पुस्तक चिनोहरू सङ्गठित गर्नुहोस्">
 
-
+<!ENTITY file.close.label               "बन्द गर्नुहोस् C">
+<!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-
-
+<!ENTITY views.label                    "दृश्य V">
+<!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "तपाईंको दृश्य परिवर्तन गर्नुहोस्">
 
 
