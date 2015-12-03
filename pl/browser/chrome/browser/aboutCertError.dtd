@@ -9,7 +9,7 @@
 <!ENTITY certerror.pagetitle1 "Niezabezpieczone połączenie">
 <!ENTITY certerror.longpagetitle1 "Połączenie nie jest bezpieczne">
 
-<!ENTITY certerror.introPara "Właściciel witryny <span class='hostname'/> niepoprawnie ją skonfigurował. &brandShortName; nie połączył się z nią, aby chronić użytkownika przed próbą kradzieży informacji.">
+<!ENTITY certerror.introPara "Właściciel witryny <span class='hostname'/> niepoprawnie ją skonfigurował. Program &brandShortName; nie połączył się z nią, aby chronić użytkownika przed kradzieżą informacji.">
 <!ENTITY certerror.returnToPreviousPage.label "Wróć do poprzedniej strony">
 <!ENTITY certerror.learnMore "Więcej informacji…">
 <!ENTITY certerror.advanced.label "Zaawansowane">
