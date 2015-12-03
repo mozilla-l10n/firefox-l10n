@@ -31,15 +31,15 @@
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "पुस्तकचिनो HTML… मा निर्यात गर्नुहोस्">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-
-
+<!ENTITY importOtherBrowser.label          "अर्को ब्राउजरबाट डाटा आयात गर्नुहोस्…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "जगेडा...">
 <!ENTITY cmd.backup.accesskey           "ज">
-
-
-
-
+<!ENTITY cmd.restore2.label             "पूर्ववस्थामा ल्याउनुहोस्">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "फाइल रोज्नुहोस्...">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY cmd.bookmarkLink.label         "यो पृष्ठमा पुस्तकचिनो हाल्नुहोस्...">
 <!ENTITY cmd.bookmarkLink.accesskey     "य">
@@ -50,12 +50,12 @@
 
 <!ENTITY cmd.open.label                  "खोल्नुहोस्">
 <!ENTITY cmd.open.accesskey              "ख">
-
-
-
-
-
-
+<!ENTITY cmd.open_window.label           "लिङ्कलाई नयाँ सञ्झ्यालमा खोल्नुहोस्">
+<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_private_window.label     "लिङ्कलाई नयाँ निजी सञ्झ्यालमा खोल्नुहोस् ">
+<!ENTITY cmd.open_private_window.accesskey "P">
+<!ENTITY cmd.open_tab.label              "नयाँ ट्याबमा खोल्नुहोस्">
+<!ENTITY cmd.open_tab.accesskey          "w">
 <!ENTITY cmd.open_all_in_tabs.label      "सबैलाई ट्याबहरूमा खोल्नुहोस्">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
@@ -68,13 +68,14 @@
 
 <!ENTITY cmd.new_bookmark.label            "नयाँ पुस्तकचिनो…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
-
-
+<!ENTITY cmd.new_folder.label              "नयाँ फोल्डर…">
+<!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "नयाँ विभाजक">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-
+<!ENTITY cmd.reloadLivebookmark.label      "रिलोड लाइव बुकमार्क">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "सार्नुहोस्...">
 <!ENTITY cmd.moveBookmarks.accesskey              "स">
@@ -117,7 +118,7 @@
 <!ENTITY bySite.accesskey         "S">
 <!ENTITY byMostVisited.label      "सबभन्दा भ्रमण गरिएको अनुसार">
 <!ENTITY byMostVisited.accesskey  "V">
-
-
-
-
+<!ENTITY byLastVisited.label      "सबभन्दा पछि भ्रमण गरिएको अनुसार">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "समय अनी साईट अनुसार">
+<!ENTITY byDayAndSite.accesskey   "t">
