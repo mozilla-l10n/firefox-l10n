@@ -52,7 +52,7 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                   "फोल्डर समाविष्ट भएको खोल्नुहोस्">
-<!ENTITY cmd.show.accesskey               "फ">
+<!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "फाइन्डरमा देखाउनुहोस्">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "पुनः प्रयास गर्नुहोस्">
@@ -101,7 +101,7 @@
 <!ENTITY downloadsHistory.accesskey       "S">
 
 <!ENTITY clearDownloadsButton.label       "डाउनलेाडहरू खाली गर्नुहोस्">
-<!ENTITY clearDownloadsButton.tooltip     "सबै सकिएका, रद्ध गरिएका र विफल भएका डाउनलोडहरु मेटाउने">
+<!ENTITY clearDownloadsButton.tooltip     "सबै सकिएका, रद्ध गरिएका र विफल भएका डाउनलोडहरु मेटाउनुहोस्">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
