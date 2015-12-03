@@ -6,6 +6,8 @@
 %brandDTD;
 <!ENTITY loadError.label "Errore caricamento pagina">
 <!ENTITY retry.label "Riprova">
+<!ENTITY returnToPreviousPage.label "Torna indietro">
+<!ENTITY advanced.label "Avanzate">
 <!ENTITY connectionFailure.title "Connessione non riuscita">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.title "Questo indirizzo è bloccato">
@@ -138,9 +140,7 @@
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
-<!ENTITY errorReporting.title "Segnala questo errore">
-<!ENTITY errorReporting.longDesc "La segnalazione dell’indirizzo e delle informazioni sul certificato relativi a <span id='hostname'></span> ci aiuta a identificare e bloccare siti malevoli. Aiutaci a creare un Web più sicuro.">
-<!ENTITY errorReporting.automatic "Invia automaticamente le segnalazioni di errore in futuro">
+<!ENTITY errorReporting.automatic2 "Segnala errori come questo per aiutare Mozilla a identificare e bloccare siti dannosi">
 <!ENTITY errorReporting.learnMore "Ulteriori informazioni…">
 <!ENTITY errorReporting.sending "Invio in corso">
 <!ENTITY errorReporting.sent "Segnalazione inviata">
@@ -150,10 +150,8 @@
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contattare l’amministratore del sito web e segnalare il problema.</li></ul></p>">
 <!ENTITY sslv3Used.title "Impossibile stabilire una connessione sicura">
 <!ENTITY sslv3Used.longDesc "Dettaglio errore: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "Ulteriori informazioni…">
 <!ENTITY weakCryptoUsed.title "La connessione non è sicura">
 <!ENTITY weakCryptoUsed.longDesc "Informazioni avanzate: ssl_error_no_cypher_overlap">
-<!ENTITY weakCryptoUsed.learnMore "Ulteriori informazioni…">
 <!ENTITY weakCryptoAdvanced.title "Avanzate">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilizza protocolli di sicurezza obsoleti e vulnerabili. Questo potrebbe consentire a malintenzionati di intercettare e leggere informazioni che l’utente considera sicure.">
 <!ENTITY weakCryptoAdvanced.override "(Non sicuro) Prova a caricare <span class='hostname'></span> utilizzando protocolli di sicurezza obsoleti">
