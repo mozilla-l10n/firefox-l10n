@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Błąd wczytywania strony" >
 <!ENTITY retry.label "Spróbuj ponownie">
+<!ENTITY returnToPreviousPage.label "Wróć do poprzedniej strony">
+<!ENTITY advanced.label "Zaawansowane">
 
 <!-- Specific error messages -->
 
@@ -126,9 +128,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY errorReporting.title "Zgłoś ten błąd">
-<!ENTITY errorReporting.longDesc "Zgłaszając adres i informacje o certyfikacie dla <span id='hostname'></span>, pomagasz identyfikować i blokować niebezpieczne strony. Dziękujemy za pomoc w tworzeniu bezpieczniejszej sieci!">
-<!ENTITY errorReporting.automatic "Automatyczne zgłaszanie błędów">
+<!ENTITY errorReporting.automatic2 "Automatyczne zgłaszanie podobnych temu błędów (pomaga Mozilli identyfikować i blokować niebezpieczne strony)">
 <!ENTITY errorReporting.learnMore "Więcej informacji…">
 <!ENTITY errorReporting.sending "Wysyłanie zgłoszenia…">
 <!ENTITY errorReporting.sent "Wysłano zgłoszenie">
@@ -140,11 +140,9 @@ functionality specific to firefox. -->
 
 <!ENTITY sslv3Used.title "Nie udało się nawiązać bezpiecznego połączenia">
 <!ENTITY sslv3Used.longDesc "Szczegóły: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "Więcej informacji…">
 
 <!ENTITY weakCryptoUsed.title "Połączenie nie gwarantuje bezpieczeństwa">
 <!ENTITY weakCryptoUsed.longDesc "Informacje: ssl_error_no_cypher_overlap">
-<!ENTITY weakCryptoUsed.learnMore "Więcej informacji…">
 <!ENTITY weakCryptoAdvanced.title "Zaawansowane">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> używa przestarzałej i podatnej na ataki technologii bezpieczeństwa. Atakujący mógłby łatwo odszyfrować informacje, które miały być bezpieczne.">
 <!ENTITY weakCryptoAdvanced.override "(Odradzane) Wczytaj <span class='hostname'></span> używając przestarzałych zabezpieczeń">
