@@ -22,7 +22,7 @@
 <!ENTITY noAltText.label "Չօգտագործել այլընտրանքային տեքստ">
 <!ENTITY noAltText.accessKey "Չ">
 
-<!ENTITY previewBox.label "Դիտում">
+<!ENTITY previewBox.label "Պատկերի նախադիտում">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 

@@ -61,7 +61,7 @@
 <!ENTITY HTMLSourceMode.label "HTML աղբյուր">
 <!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY HTMLSourceMode.tooltip "Խմբագրել HTML աղբյուրը">
-<!ENTITY PreviewModeTab.label "Դիտել">
-<!ENTITY PreviewMode.label "Դիտել">
-<!ENTITY PreviewMode.accesskey "P">
+<!ENTITY PreviewModeTab.label "Նախադիտել">
+<!ENTITY PreviewMode.label "Նախադիտել">
+<!ENTITY PreviewMode.accesskey "Ն">
 <!ENTITY PreviewMode.tooltip "Ցուցադրել որպես WYSIWYG (ինչպես որ դիտարկիչում)">

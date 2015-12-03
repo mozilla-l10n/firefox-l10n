@@ -117,8 +117,8 @@
 <!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Ենթագրվածք">
 <!ENTITY styleSubscriptCmd.accesskey "S">
-<!ENTITY styleNonbreakingCmd.label "Անբաժանելի">
-<!ENTITY styleNonbreakingCmd.accesskey "N">
+<!ENTITY styleNonbreakingCmd.label "Չընդհատող">
+<!ENTITY styleNonbreakingCmd.accesskey "Չ">
 <!ENTITY styleEm.label "Շեշտադրում">
 <!ENTITY styleEm.accesskey "E">
 <!ENTITY styleStrong.label "Խիստ շեշտադրում">

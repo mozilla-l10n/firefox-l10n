@@ -77,16 +77,16 @@
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Պահել որպես…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "Պ">
-<!ENTITY detachAttachmentCmd.label    "Բաժանել...">
-<!ENTITY detachAttachmentCmd.accesskey    "D">
+<!ENTITY detachAttachmentCmd.label    "Ապակցել...">
+<!ENTITY detachAttachmentCmd.accesskey    "Ա">
 <!ENTITY deleteAttachmentCmd.label    "Ջնջել">
 <!ENTITY deleteAttachmentCmd.accesskey    "e">
 <!ENTITY openAllAttachmentsCmd.label    "Բացել բոլորը...">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label    "Պահել բոլորը...">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "Պ">
-<!ENTITY detachAllAttachmentsCmd.label    "Բաժանել բոլորը...">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY detachAllAttachmentsCmd.label    "Ապակցել բոլորը...">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "Ա">
 <!ENTITY deleteAllAttachmentsCmd.label    "Ջնջել բոլորը...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
