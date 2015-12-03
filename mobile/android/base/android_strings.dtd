@@ -127,6 +127,9 @@
 <!ENTITY pref_home_suggested_sites_summary "Visualizza nella pagina iniziale dei link a siti che riteniamo interessanti per gli utenti">
 <!ENTITY pref_category_home_homepage "Pagina iniziale">
 <!ENTITY home_homepage_title "Imposta una pagina iniziale">
+<!ENTITY home_homepage_radio_default "&brandShortName; Home">
+<!ENTITY home_homepage_radio_user_address "Personalizzata">
+<!ENTITY home_homepage_hint_user_address "Inserire un indirizzo o un termine di ricerca">
 <!ENTITY pref_header_general "Generale">
 <!ENTITY pref_header_privacy_short "Privacy">
 <!ENTITY pref_header_accessibility "Accessibilità">
