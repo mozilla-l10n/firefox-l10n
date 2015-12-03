@@ -10,36 +10,43 @@
 <!ENTITY button.createNewAccount.label "नयाँ खाता खोल्नुहोस्">
 <!ENTITY button.haveAccount.label      "मसँग एउटा खाता छ">
 
-
-
+<!ENTITY setup.choicePage.title.label     "के तपाईंले यस अघि &syncBrand.fullName.label; प्रयोग गर्नुभएको छ?">
+<!ENTITY setup.choicePage.new.label       "मैले पहिले &syncBrand.shortName.label; कहिल्यै प्रयोग गरेको छैन">
+<!ENTITY setup.choicePage.existing2.label "म पहिले नै अर्को उपकरणमा &syncBrand.shortName.label; प्रयोग गर्छु">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "सर्भर">
-
-
+<!ENTITY serverType.default.label      "पूर्वनिर्धारित: Mozilla &syncBrand.fullName.label; सर्भर">
+<!ENTITY serverType.custom2.label   "अनुकूल सर्भर प्रयोग...">
 <!ENTITY signIn.account2.label      "खाता">
 <!ENTITY signIn.account2.accesskey  "ख">
-
-
-
-
+<!ENTITY signIn.password.label      "पासवर्ड">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.recoveryKey.label       "पुनर्स्थापना साँचो">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 <!-- New Account Page 1: Basic Account Info -->
 
-
-
-
-
-
+<!ENTITY setup.newAccountDetailsPage.title.label "खाता विवरणहरु">
+<!ENTITY setup.emailAddress.label     "इमेल ठेगाना">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.choosePassword.label      "पासवर्ड छान्नुहोस्">
+<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.confirmPassword.label     "पासवर्ड पुष्टि गर्नुहोस्">
+<!ENTITY setup.confirmPassword.accesskey "m">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
+<!ENTITY setup.tosAgree1.label      "म सहमत">
+<!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "सेवाको सर्तहरू">
-
+<!ENTITY setup.tosAgree2.label      "र">
 <!ENTITY setup.ppLink.label         "गोपनीयता निति">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+<!ENTITY setup.tosAgree3.label      "‌">
+<!ENTITY setup.tosAgree2.accesskey  "‌">
 <!-- My Recovery Key dialog -->
 
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; तपाईंको गोपनीयता बारे चासो राख्छ">
+<!ENTITY setup.newRecoveryKeyPage.description.label "तपाइँको पुरा गोपनीयता सुनिश्चित गर्न, तपाइँको डाटा सबै अपलोड पूर्व गुप्तिकरण भइरहेको छ। तपाईंको डाटा डिक्रिप्ट गर्न आवश्यक पुनः स्थापना साँचो अपलोड गरिएको छैन।">
 <!ENTITY recoveryKeyEntry.label        "तपाईंको पुनर्स्थापना साँचो">
 <!ENTITY recoveryKeyEntry.accesskey    "स">
 <!ENTITY syncGenerateNewKey.label  "नयाँ कुञ्जी उत्पन्न गर्नुहोस्">
@@ -47,15 +54,15 @@
 
 <!ENTITY button.syncKeyBackup.print.label     "Pring...">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-
-
+<!ENTITY button.syncKeyBackup.save.label      "बचत…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
 <!ENTITY pairDevice.title.label             "साधनसँग सम्बन्धन कायम गर्नुहोस्">
-
-
+<!ENTITY addDevice.showMeHow.label          "कसरी मलाई देखाउनुहोस्।">
+<!ENTITY addDevice.dontHaveDevice.label     "मेरो साथमा उपकरण छैन">
 <!ENTITY pairDevice.setup.description.label  "सक्रिय गर्नका निमित्त तपाईको अर्को उपकरणमा &quot;पेयर अ डिभाईस&quot; सेलेक्ट गर्नुहोस।">
-
+<!ENTITY addDevice.setup.enterCode.label    "त्यसपछि, यो कोड प्रविष्ट गर्नुहोस्:">
 
 
 <!ENTITY addDevice.dialog.tryAgain.label    "कृपया पुनः प्रयास गर्नुहोस् ।">
