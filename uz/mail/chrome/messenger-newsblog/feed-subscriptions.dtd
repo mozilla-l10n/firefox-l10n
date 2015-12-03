@@ -15,7 +15,8 @@
 <!ENTITY locationValidate.label      "Tekshirish">
 <!ENTITY validateText.label          "Tasdiqlang va yaroqli URL manzilini oling.">
 
-
+<!ENTITY feedFolder.label            "Maqolalar joylashgan manzil:">
+<!ENTITY feedFolder.accesskey        "j">
 
 <!ENTITY quickMode.label             "Veb sahifa yuklanishi o‘rniga maqolalar haqida umumiy ma’lumot ko‘rsatilsin">
 <!ENTITY quickMode.accesskey         "k">
