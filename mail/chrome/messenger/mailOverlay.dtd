@@ -7,5 +7,5 @@
 <!ENTITY  newMessageCmd.label             "Лист">
 <!ENTITY  newMessageCmd.accesskey         "Л">
  
-<!ENTITY  newContactCmd.label             "Картку адресної книги…">
+<!ENTITY  newContactCmd.label             "Контакт адресної книги…">
 <!ENTITY  newContactCmd.accesskey         "К">
