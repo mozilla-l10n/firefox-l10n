@@ -545,6 +545,5 @@
 
 <!ENTITY unsupported_sdk_version "Ta wersja programu &brandShortName; nie może działać na tym urządzeniu (&formatS1;, &formatS2;). Prosimy pobrać właściwą wersję.">
 
-<!ENTITY eol_notification_url "https://support.mozilla.org/1/firefox/&formatS1;/&formatS2;/&formatS3;/honeycombs">
 <!ENTITY eol_notification_title "&brandShortName; nie obsługuje już systemu Android 3">
 <!ENTITY eol_notification_summary "Stuknij, aby dowiedzieć się więcej">
