@@ -63,19 +63,19 @@
 <!ENTITY addDevice.dontHaveDevice.label     "मेरो साथमा उपकरण छैन">
 <!ENTITY pairDevice.setup.description.label  "सक्रिय गर्नका निमित्त तपाईको अर्को उपकरणमा &quot;पेयर अ डिभाईस&quot; सेलेक्ट गर्नुहोस।">
 <!ENTITY addDevice.setup.enterCode.label    "त्यसपछि, यो कोड प्रविष्ट गर्नुहोस्:">
-
-
+<!ENTITY pairDevice.dialog.description.label "तपाइँको नयाँ उपकरण सक्रिय गराउन, उपकरणमा &quot;सिङ्क सेट अप&quot; चयन गर्नुहोस्।">
+<!ENTITY addDevice.dialog.enterCode.label   "उपकरणले प्रदान गरेको कोड प्रविष्ट गर्नुहोस्:">
 <!ENTITY addDevice.dialog.tryAgain.label    "कृपया पुनः प्रयास गर्नुहोस् ।">
-
-
-
+<!ENTITY addDevice.dialog.successful.label  "उपकरण सफलतापूर्वक थपिएको छ। सुरुमा सिङ्ख्रोनाइजेसन धेरै मिनेट लाग्न सक्छ र पृष्ठभूमिमा समाप्त हुनेछ।">
+<!ENTITY addDevice.dialog.recoveryKey.label     "तपाइँको उपकरण सक्रिय गर्न तपाइँको पुनर्स्थापना साँचो प्रविष्ट गर्न आवश्यक हुन्छ। कृपया यो साँचो प्रिन्ट वा बचत गरि आफुसँग राख्नुहोस्।">
+<!ENTITY addDevice.dialog.connected.label   "उपकरण जडित">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "साइन इन गर्नुहोस्">
 <!ENTITY existingRecoveryKey.description "अर्को उपकरणको &syncBrand.shortName.label; विकल्पमा गइ  &quot;खाता प्रबन्ध&quot; अनतर्गत &quot;मेरो रिकोभरि&quot; चयन गरि तपाईले आफ्नो रिकोभरि कि को प्रतिलिपि प्राप्त गर्न सक्नुहुनेछ।">
 <!ENTITY verifying.label              "रूजु गर्दै…">
 <!ENTITY resetPassword.label          "पासवर्ड रिसेट गर्नुहोस्">
-
+<!ENTITY resetSyncKey.label           "मैले मेरो अर्को उपकरण हराएँ।">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "सिन्क विकल्पहरू">
@@ -83,22 +83,23 @@
 <!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "मेरो समक्रमण">
-
-
-
-
-
-
+<!ENTITY engine.bookmarks.label     "पुस्तकचिनोहरू">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "ट्याबहरू">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "इतिहास">
+<!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "पासवर्डहरू">
 <!ENTITY engine.passwords.accesskey "प">
-
-
+<!ENTITY engine.prefs.label         "प्राथमिकताहरू…">
+<!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "एड-अन">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "मेरो &syncBrand.shortName.label; डेटा यो उपकरणको डेटासँग मर्ज गर्नुहोस्">
 <!ENTITY choice2.merge.recommended.label "सिफारिश गरिएको:">
-
-
+<!ENTITY choice2a.client.main.label      "यो उपकरणको डेटासँग मेरो &syncBrand.shortName.label; डेटा बदल्नुहोस्">
+<!ENTITY choice2a.server.main.label      "यो उपकरणको डाटा सबै अन्य उपकरणहरू बदल्नुहोस्">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "पुष्टि गर्नुहोस्">
