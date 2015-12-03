@@ -32,9 +32,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "n">
 <!ENTITY  unpinTab.label                     "Odepnij kartę">
 <!ENTITY  unpinTab.accesskey                 "n">
-<!ENTITY moveToGroup.label                   "Przenieś do grupy">
-<!ENTITY moveToGroup.accesskey               "e">
-<!ENTITY moveToNewGroup.label                "Nowa grupa">
 <!ENTITY  moveToNewWindow.label              "Przenieś do nowego okna">
 <!ENTITY  moveToNewWindow.accesskey          "o">
 <!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
@@ -193,8 +190,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Strona startowa" >
 
-<!ENTITY tabGroupsButton.label        "Grupy kart">
-
 <!ENTITY bookmarksButton.label          "Zakładki">
 <!ENTITY bookmarksCmd.commandkey        "b">
 
@@ -349,8 +344,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label "Widok" >
 <!ENTITY viewMenu.accesskey "W" >
-<!ENTITY viewTabGroups.label            "Grupy kart">
-<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label "Paski narzędzi" >
 <!ENTITY viewToolbarsMenu.accesskey "P" >
 <!ENTITY viewSidebarMenu.label "Panel boczny" >
@@ -425,8 +418,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey "S">
 <!ENTITY searchSetAsDefault.label "Ustaw jako domyślną wyszukiwarkę">
 <!ENTITY searchSetAsDefault.accesskey "U">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label "Otwórz odnośnik w nowej karcie" >
 <!ENTITY openLinkCmdInTab.accesskey "j" >
