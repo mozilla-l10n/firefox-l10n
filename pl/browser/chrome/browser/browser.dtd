@@ -372,6 +372,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Wyświetl historię w panelu bocznym">
 <!ENTITY appMenuHelp.tooltip "Pomoc">
 
+<!ENTITY appMenuRemoteTabs.label "Karty z innych urządzeń">
+<!ENTITY appMenuRemoteTabs.fetching.label "Pobieranie listy kart…">
+<!ENTITY appMenuRemoteTabs.notabs.label "Brak otwartych kart">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Włącz synchronizację kart, aby wyświetlić ich listę z innych urządzeń.">
+<!ENTITY appMenuRemoteTabs.noclients.label "Zaloguj się na innych urządzeniach, aby wyświetlić tutaj listę otwartych na nich kart.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Ustawienia synchronizacji">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Zaloguj się, aby wyświetlić tutaj listę kart z innych urządzeń.">
+<!ENTITY appMenuRemoteTabs.signin.label "Zaloguj się do synchronizacji">
+
 <!ENTITY customizeMenu.addToToolbar.label "Dodaj do paska narzędzi">
 <!ENTITY customizeMenu.addToToolbar.accesskey "D">
 <!ENTITY customizeMenu.addToPanel.label "Dodaj do menu">
