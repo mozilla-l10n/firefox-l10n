@@ -14,7 +14,7 @@ by NSS/PSM via netError.xhtml. -->
 <!-- These are going to be used for the updated design in Bug 1207107 -->
 
 <!ENTITY certerror.pagetitle1  "ناامن">
-
+<!ENTITY certerror.longpagetitle1 "اتصال شما امن نیست">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -29,8 +29,10 @@ was trying to connect. -->
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-
-
+<!ENTITY certerror.introPara "مالک <span class='hostname'/> سایت خود را به گونه‌ای نادرست پیکربندی کرده‌‌اند.  جهت محافظت از دزده شدن اطلاعات شما، &brandShortName; به این سایت متصل نشده است.">
+<!ENTITY certerror.returnToPreviousPage.label "برگشت به عقب">
+<!ENTITY certerror.learnMore "بیشتر بدانید">
+<!ENTITY certerror.advanced.label "پیشرفته">
 
 <!ENTITY certerror.whatShouldIDo.heading "چه باید بکنم؟">
 <!ENTITY certerror.whatShouldIDo.content "اگر معمولاً بدون اشکال به این سایت 
