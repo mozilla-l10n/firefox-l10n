@@ -90,6 +90,10 @@
 <p>Tego rodzaju fałszerstwa określa się mianem phishingu. Atak ten polega na utworzeniu przez przestępców podrobionej strony lub wiadomości udającej źródło godne zaufania.</p>
 ">
 
+<!ENTITY forbiddenBlocked.title "Zablokowana strona">
+<!ENTITY forbiddenBlocked.longDesc "<p>Program &brandShortName;, zgodnie ze swoimi ustawieniami, zablokował wczytywanie tej strony.</p>
+">
+
 <!ENTITY cspBlocked.title "Zablokowane przez politykę bezpieczeństwa treści">
 <!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ jej polityka bezpieczeństwa treści na to nie pozwala.</p>">
 
