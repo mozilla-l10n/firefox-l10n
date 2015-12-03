@@ -106,7 +106,7 @@
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "कम">
 <!ENTITY detailsPane.less.accesskey "e">
-
+<!ENTITY detailsPane.selectAnItemText.description "वस्तुको गुण हेर्न र सम्पादन गर्न कुनै एक वस्तु चयन गर्नुहोस्">
 
 <!ENTITY find.label               "खोजी गर्नुहोस्:">
 <!ENTITY find.accesskey           "S">
