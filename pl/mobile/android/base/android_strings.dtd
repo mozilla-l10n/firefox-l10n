@@ -147,6 +147,9 @@
 <!ENTITY pref_home_suggested_sites_summary "Wyświetlanie na stronie domowej skrótów do interesujących witryn">
 <!ENTITY pref_category_home_homepage "Strona domowa">
 <!ENTITY home_homepage_title "Ustaw stronę domową">
+<!ENTITY home_homepage_radio_default "&brandShortName;: Strona domowa">
+<!ENTITY home_homepage_radio_user_address "Inny adres">
+<!ENTITY home_homepage_hint_user_address "Wpisz adres lub zapytanie">
 
 <!ENTITY pref_header_general "Ogólne">
 <!ENTITY pref_header_search "Wyszukiwanie">
