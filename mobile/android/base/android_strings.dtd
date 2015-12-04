@@ -221,6 +221,9 @@
 <!ENTITY pref_donottrack_title "Sledenje">
 <!ENTITY pref_donottrack_summary "&brandShortName; bo stranem sporočal, naj vam ne sledijo">
 
+<!ENTITY pref_tracking_protection_enabled "Omogočena">
+<!ENTITY pref_tracking_protection_enabled_pb "Omogočena v zasebnem brskanju">
+<!ENTITY pref_tracking_protection_disabled "Onemogočena">
 
 <!ENTITY tracking_protection_prompt_title "Zdaj z zaščito pred sledenjem">
 <!ENTITY tracking_protection_prompt_text "Aktivno blokiramo sledilne elemente, zato vam ni potrebno skrbeti.">
@@ -290,6 +293,7 @@ size. -->
 <!ENTITY pref_sync "Sinhroniziraj">
 <!ENTITY pref_sync_summary2 "Sinhronizirajte zavihke, zaznamke, prijave in zgodovino">
 <!ENTITY pref_search_suggestions "Prikaži predloge iskanja">
+<!ENTITY pref_history_search_suggestions "Prikaži zgodovino iskanj">
 <!ENTITY pref_import_android "Uvozi iz Androida">
 <!ENTITY pref_import_android_summary "Uvozite zaznamke in zgodovino iz privzeto nameščenega brskalnika">
 <!ENTITY pref_private_data_history2 "Zgodovino brskanja">
@@ -582,6 +586,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Varna povezava">
 <!ENTITY identity_connection_insecure "Nevarna povezava">
+<!ENTITY identity_login_insecure "Ta stran ni varna, zato lahko vašo prijavo prestrežejo.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; je zavrnil nevarno vsebino na tej stran.">
