@@ -9,10 +9,10 @@
 <!ENTITY  notificationsPolicy.label            "Beskeder">
 <!ENTITY  notificationsPolicyLearnMore.label   "Læs mere">
 <!ENTITY  notificationsPolicyDesc3.label       "Vælg websteder, der må sende dig beskeder">
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.accesskey  "g">
 <!ENTITY  notificationsPolicyButton.label      "Vælg…">
 <!ENTITY  notificationsDoNotDisturb.label      "Forstyr ikke">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "o">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Der vil ikke blive vist beskeder før du genstarter &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Undtagelser…">
