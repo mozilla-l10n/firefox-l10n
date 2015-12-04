@@ -16,22 +16,22 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY cmd.resume.label                 "पुनः आरम्भ">
 <!ENTITY cmd.resume.accesskey             "R">
-
-
+<!ENTITY cmd.cancel.label                 "रद्द गर्नुहोस्">
+<!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.show.label                   "फोल्डर समाविष्ट भएको खोल्नुहोस्">
 <!ENTITY cmd.show.accesskey               "फ">
-
-
-
-
+<!ENTITY cmd.showMac.label                "फाइन्डरमा देखाउनुहोस्">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.open.label                   "खोल्नुहोस्">
+<!ENTITY cmd.open.accesskey               "O">
 <!ENTITY cmd.openWith.label               "… ले खोल्नुहोस्">
 <!ENTITY cmd.openWith.accesskey           "h">
 <!ENTITY cmd.retry.label                  "पुनः प्रयास गर्नुहोस्">
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "डाउनलोड पृष्ठमा जानुहोस्">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-
-
+<!ENTITY cmd.copyDownloadLink.label       "डाउनलोड लिङ्क प्रतिलिपि गर्नुहोस्">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromList.label         "सूचीबाट हटाउनुहोस्">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
