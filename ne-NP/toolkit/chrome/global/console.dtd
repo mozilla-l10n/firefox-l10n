@@ -28,9 +28,9 @@
 <!ENTITY copyCmd.label       "प्रतिलिपि गर्नुहोस्">  
 <!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
-<!ENTITY sortFirst.label     "शुरु > अन्तिम श्रेणीबद्ध क्रम">
+<!ENTITY sortFirst.label     "सुरु > अन्तिम श्रेणीबद्ध क्रम">
 <!ENTITY sortFirst.accesskey "F">
-<!ENTITY sortLast.label      "अन्तिम > शुरुको श्रेणीबद्ध क्रम">
+<!ENTITY sortLast.label      "अन्तिम > सुरुको श्रेणीबद्ध क्रम">
 <!ENTITY sortLast.accesskey  "L">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  

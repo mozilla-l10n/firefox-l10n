@@ -86,7 +86,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "यो सिस्टममा तपाईंले अरु अद्यावधिकहरू गर्न सक्नुहुन्न । ">
+<!ENTITY update.unsupported.start    "यो सिस्टममा तपाईँले अरु अद्यावधिकहरू गर्न सक्नुहुन्न । ">
 <!ENTITY update.unsupported.linkText "अझै जान्नुहोस्">
 <!ENTITY update.unsupported.end      "‍">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -103,5 +103,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "तपाईँ अहिले ">
+<!ENTITY channel.description.start  "तपाईँ अहिले भएको स्थान ">
 <!ENTITY channel.description.end    " अद्यावधिक प्रणालीमा हुनुहुन्छ। ">

@@ -4,8 +4,8 @@
 
 <!ENTITY print.label          "Pring...">
 <!ENTITY print.accesskey      "P">
-
-
+<!ENTITY pageSetup.label      "पृष्ठ सेटअप…">
+<!ENTITY pageSetup.accesskey  "u">
 
 
 <!ENTITY of.label             "को">
@@ -15,18 +15,18 @@
 
 <!ENTITY landscape.label      "ल्यान्डस्केप">
 <!ENTITY landscape.accesskey  "L">
-
-
+<!ENTITY close.label          "बन्द गर्नुहोस्">
+<!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "३०&#037;">
 <!ENTITY p40.label            "४०&#037;">
-
+<!ENTITY p50.label            "५०&#037;">
 <!ENTITY p60.label            "६०&#037;">
 <!ENTITY p70.label            "७०&#037;">
 <!ENTITY p80.label            "८०&#037;">
 <!ENTITY p90.label            "९०&#037;">
-
+<!ENTITY p100.label           "१००&#037;">
 <!ENTITY p125.label           "१२५&#037;">
-
+<!ENTITY p150.label           "१५०&#037;">
 <!ENTITY p175.label           "१७५&#037;">
 <!ENTITY p200.label           "200&#037;">
 

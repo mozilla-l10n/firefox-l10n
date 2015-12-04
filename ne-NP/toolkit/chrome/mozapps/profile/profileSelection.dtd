@@ -14,8 +14,8 @@
 <!ENTITY            availprofiles.label    "उपलब्ध प्रोफाइलहरू">
 
 
-
-
+<!ENTITY            renameButton.label     "प्रोफाइलको पुनःनामाकरण गर्नुहोस् ">
+<!ENTITY            renameButton.accesskey "R">
 
 
 <!-- manager entities -->

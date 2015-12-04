@@ -15,7 +15,7 @@
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "दृश्य V">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "तपाईंको दृश्य परिवर्तन गर्नुहोस्">
+<!ENTITY views.tooltip                  "तपाईँको दृश्य परिवर्तन गर्नुहोस्">
 <!ENTITY view.columns.label             "कोलमहरु देखाउनुहोस्">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "क्रमबद्ब गर्नुहोस्">

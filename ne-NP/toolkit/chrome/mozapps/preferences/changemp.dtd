@@ -6,8 +6,8 @@
 <!ENTITY setPassword.tokenName.label       "सुरक्षा यन्त्र">
 <!ENTITY setPassword.oldPassword.label     "हालको पासवर्ड:">
 <!ENTITY setPassword.newPassword.label     "नयाँ पासवर्ड प्रविष्ट गर्नुहोस्:">
-<!ENTITY setPassword.reenterPassword.label "पासवर्ड पुन: प्रविष्टि गर्नुहोस्:">
+<!ENTITY setPassword.reenterPassword.label "पासवर्ड पुनः प्रविष्टि गर्नुहोस्:">
 <!ENTITY setPassword.meter.label           "पासवर्ड गुणस्तर नाप:">
 <!ENTITY setPassword.meter.loading         "लोड हुँदैछ">
-<!ENTITY masterPasswordDescription.label   "साइट पासवर्ड जस्तो सम्वेदनशील जानकारी सुरक्षित राख्न मुख्य पासवर्ड प्रयोग गरिन्छ।  यदि तपाईँले मुख्य पासवर्ड बनाउनु भयो भने हरेक सत्रमा तपाईँसँग एकपल्ट पासवर्ड मागिनेछ जब &brandShortName;ले पासवर्डले सुरक्षित गरी बचत गरिएको जानकारी पुन: प्राप्त गर्छ।">
+<!ENTITY masterPasswordDescription.label   "साइट पासवर्ड जस्तो सम्वेदनशील जानकारी सुरक्षित राख्न मुख्य पासवर्ड प्रयोग गरिन्छ।  यदि तपाईँले मुख्य पासवर्ड बनाउनु भयो भने हरेक सत्रमा तपाईँसँग एकपल्ट पासवर्ड मागिनेछ जब &brandShortName;ले पासवर्डले सुरक्षित गरी बचत गरिएको जानकारी पुनः प्राप्त गर्छ।">
 

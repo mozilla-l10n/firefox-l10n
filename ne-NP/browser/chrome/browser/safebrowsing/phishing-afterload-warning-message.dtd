@@ -7,6 +7,7 @@
 <!ENTITY safeb.palm.notforgery.label2 "यो एउटा वेब जालसाजी होइन…">
 <!ENTITY safeb.palm.reportPage.label "यो पृष्ठ किन बन्द गरिएको थियो?">
 
+<!ENTITY safeb.blocked.malwarePage.title "उजुर गरिएको आक्रमण साइट!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 

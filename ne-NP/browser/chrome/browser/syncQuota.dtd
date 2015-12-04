@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY quota.dialogTitle.label    "सर्भरको भाग">
-<!ENTITY quota.retrievingInfo.label "पुन: प्राप्त कोटा जानकारी लिदैँ…">
+<!ENTITY quota.retrievingInfo.label "पुनः प्राप्त कोटा जानकारी लिदैँ…">
 <!ENTITY quota.typeColumn.label     "प्रकार">
 <!ENTITY quota.sizeColumn.label     "साइज">
