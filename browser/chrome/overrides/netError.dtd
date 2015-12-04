@@ -223,4 +223,4 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.learnMore "Læs mere…">
 <!ENTITY weakCryptoAdvanced.title "Avanceret">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber ville nemt kunne afsløre information, som du troede var sikker.">
-<!ENTITY weakCryptoAdvanced.override "(Ikke sikker) Forsøg at indlæse <span class='hostname'></span> gennem at bruge forældet sikkerheds-teknologi">
+<!ENTITY weakCryptoAdvanced.override "USIKKERT: Forsøg at indlæse <span class='hostname'></span>, selvom den bruger forældet sikkerheds-teknologi">
