@@ -7,7 +7,7 @@
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.title.private " + Proteção Contra a Monitorização">
+<!ENTITY privatebrowsingpage.title.private " + Proteção Contra Monitorização">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
