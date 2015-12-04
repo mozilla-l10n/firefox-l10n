@@ -1,7 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY addons.windowTitle                   "एड-अन प्रबन्धक">
 
+<!ENTITY search.placeholder                   "सबै एड-अन खोज्नुहोस्">
 
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -9,19 +11,20 @@
 
 <!ENTITY loading.label                        "लोड हुँदैछ…">
 
+<!ENTITY listEmpty.availableUpdates.label     "कुनै अद्यावधि फेला परेन">
 
 
 
-
-
-
-
-
+<!ENTITY listEmpty.button.label               "एड-अन बारेमा थप जान्नुहोस्">
+<!ENTITY installAddonFromFile.label           "फाइलबाट एड-अनहरू स्थापना गर्नुहोस्…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "सबै एड-अनहरूको लागि उपकरणहरू">
 
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पछाडि जानुहोस्">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ अगाडि जानुहोस्">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "केही एक्सटेन्सनहरू प्रमाणिकरण गर्न सकिएन">
+<!ENTITY showAllExtensions.button.label       "सबै एक्सटेन्सनहरू देखाउनुहोस्">
 <!-- global warnings -->
 
 
@@ -32,38 +35,42 @@
 <!-- global informations -->
 
 <!-- categories / views -->
-
-
-
+<!ENTITY view.discover.label                  "एड-अनहरू प्राप्त गर्नुहोस्">
+<!ENTITY view.recentUpdates.label             "हालका अद्यावधिकहरू">
+<!ENTITY view.availableUpdates.label          "उपलब्ध अद्यावधिहरू">
 <!-- addon updates -->
 
-
-
+<!ENTITY updates.viewUpdates.label            "हालका अद्यावधिहरू हेर्नुहोस्">
+<!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-
+<!ENTITY updates.updateAddonsAutomatically.label     "सबै एड-अनहरू स्वतः अद्यावधि गर्नुहोस्">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-
-
-
-
-
-
-
-
-
-
+<!ENTITY updates.resetUpdatesToAutomatic.label       "सबै एड-अनहरू स्वतः अद्यावधि हुन पूर्व निर्धारित गर्नुहोस्">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "सबै एड-अनहरू चाहेको बेला अद्यावधि हुन पूर्व निर्धारित गर्नुहोस्">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "एड-अनहरू अद्यावधि गर्दै">
+<!ENTITY updates.installed.label              "तपाईँका एड-अनहरू अद्यावधि गरिएका छन् ।">
+<!ENTITY updates.downloaded.label             "तपाईँका एड-अन अद्यावधिहरू डाउनलोड गरिएका छन् ।">
+<!ENTITY updates.restart.label                "स्थापना सकिए पछि पुनः सुरु गर्नुहोस्">
+<!ENTITY updates.noneFound.label              "कुनै अद्यावधि फेला परेन">
+<!ENTITY updates.manualUpdatesFound.label     "उपलब्ध अद्यावधिहरू हेर्नुहोस्">
+<!ENTITY updates.updateSelected.label         "अद्यावधिहरू स्थापना गर्नुहोस्">
 
 <!-- addon actions -->
 
-
-
+<!ENTITY cmd.showDetails.label                "थप जानकारी देखाउनुहोस्">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "अद्यावधि खोज्नुहोस्">
+<!ENTITY cmd.findUpdates.accesskey            "F">
 
 
 
@@ -74,17 +81,17 @@
 
 <!ENTITY cmd.disableAddon.label               "अक्षम पार्नुहोस्">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY cmd.enableTheme.label                "वियर आवरणहरू">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "वियरिङ आवरणहरू रोक्नुहोस्">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.askToActivate.label              "सक्रिय पार्न लगाउनुहोस्">
+<!ENTITY cmd.askToActivate.tooltip            "यो एड-अन प्रयोग गर्न हरेक पटक सोध्नुहोस्">
+<!ENTITY cmd.alwaysActivate.label             "सँधै सक्रिय गर्नुहोस्">
+<!ENTITY cmd.alwaysActivate.tooltip           "सधैँ यो एड-अन प्रयोग गर्नुहोस्">
+<!ENTITY cmd.neverActivate.label              "कहिल्यै सक्रिय नगर्नुहोस्">
+<!ENTITY cmd.neverActivate.tooltip            "कहिल्यै यो एड-अन प्रयोग नगर्नुहोस्">
+<!ENTITY cmd.stateMenu.tooltip                "यो एड-अन कहिले चल्छ परिवर्तन गर्नुहोस्">
 
 
 <!ENTITY cmd.uninstallAddon.label             "हटाउनुहोस्">
@@ -92,15 +99,16 @@
 
 
 <!ENTITY cmd.showPreferencesWin.label         "विकल्पहरू">
+<!ENTITY cmd.showPreferencesWin.tooltip       "यस एड-अनका विकल्पहरू बदल्नुहोस्">
 
+<!ENTITY cmd.showPreferencesUnix.tooltip      "यस एड-अनका प्राथमिकताहरू बदल्नुहोस्">
+<!ENTITY cmd.contribute.label                 "योगदान गर्नुहोस्">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "यो एड-अनको विकासमा योगदान दिनुहोस्">
 
+<!ENTITY cmd.showReleaseNotes.label           "रिलिज नोट देखाउनुहोस्">
 
-
-
-
-
-
-
+<!ENTITY cmd.hideReleaseNotes.label           "रिलिज नोट लुकाउनुहोस्">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
