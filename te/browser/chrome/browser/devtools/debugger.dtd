@@ -51,6 +51,8 @@
 <!ENTITY debuggerUI.sources.toggleBreakpoints "బ్రేక్‌పాయింట్లు చేతనం/అచేతనం చేయి">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
+
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "ప్రొమిస్ డీబగ్గర్ మార్చు">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
