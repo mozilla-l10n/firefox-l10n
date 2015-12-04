@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  checking.title                  "अद्यावधिकहरू जाँच गर्दै…">
 
 
 
@@ -15,8 +16,9 @@
 
 
 
+<!ENTITY  unsupportedLink.label           "थप जान्नुहोस् ।">
 
-
+<!ENTITY  incompatibleCheck.title         "एड-अन अनुकुलता जाँचिदैछ">
 
 
 
@@ -37,6 +39,7 @@
 
 <!ENTITY  details.link                    "विवरण">
 
+<!ENTITY  error.title                     "अद्यावधि असफल भयो।">
 
 
 

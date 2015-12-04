@@ -42,7 +42,7 @@
 <!ENTITY translation.showTranslation.button     "अनुवाद देखाउनुहोस्">
 
 <!ENTITY translation.errorTranslating.label     "यो पेज अनुवाद गर्दा त्रुटि भएको छ।">
-<!ENTITY translation.tryAgain.button            "पुन:प्रयास गर्नुहोस्">
+<!ENTITY translation.tryAgain.button            "पुनःप्रयास गर्नुहोस्">
 
 <!ENTITY translation.serviceUnavailable.label   "अनुवाद अहिले उपलब्ध छैन। केहि समय पछि पुनः प्रयास गर्नुहोला।">
 

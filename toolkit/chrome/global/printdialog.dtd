@@ -6,12 +6,14 @@
 
 <!ENTITY printButton.label "मुद्रण गर्नुहोस्">
 
+<!ENTITY printDialog.title "मुद्रण गर्नुहोस्">
 
 <!ENTITY fpDialog.title "फाइल बचत गर्नुहोस्">
 
-
-
-
+<!ENTITY fileCheck.label "फाइलमा मुद्रण गर्नुहोस्">
+<!ENTITY fileCheck.accesskey "F">
+<!ENTITY propertiesButton.label "विशेषताहरू">
+<!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "मुद्रक वर्णन:">
 <!ENTITY printer.label "मुद्रक">
 
@@ -22,8 +24,8 @@
 
 <!ENTITY rangeRadio.label  "पृष्ठहरू">
 <!ENTITY rangeRadio.accesskey  "प">
-
-
+<!ENTITY frompageInput.label  "बाट">
+<!ENTITY frompageInput.accesskey  "r">
 
 
 <!ENTITY selectionRadio.label "Selection">
@@ -34,9 +36,9 @@
 
 
 <!ENTITY printframeGroup.label "फ्रेमहरू मुद्रण गर्नुहोस्">
-
-
-
-
+<!ENTITY aslaidoutRadio.label "स्क्रिनमा छोडिए जस्तै">
+<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY selectedframeRadio.label  "छानिएको फ्रेम">
+<!ENTITY selectedframeRadio.accesskey  "m">
 <!ENTITY eachframesepRadio.label  "हरेक फ्रेम भिन्दा भिन्दै">
 <!ENTITY eachframesepRadio.accesskey  "ह">

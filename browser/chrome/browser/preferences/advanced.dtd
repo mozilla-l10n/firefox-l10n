@@ -74,7 +74,7 @@
 <!ENTITY updateTab.label                 "अद्यावधिक">
 
 <!ENTITY updateApp.label                 "&brandShortName; अद्यावधिकहरू:">
-<!ENTITY updateAuto1.label               "अद्यावधिहरू स्वत: इन्स्टल गर्नुहोस् (सुझव: उन्नत सुरक्षाको लागि)">
+<!ENTITY updateAuto1.label               "अद्यावधिहरू स्वतः इन्स्टल गर्नुहोस् (सुझाव: उन्नत सुरक्षाको लागि)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheck.label               "अद्यावधिको लागि जांच गर्नुस ,तर सफ्टवेयर स्थापना गर्ने कि नगर्ने मलाई छान्न दिनुस ">
 <!ENTITY updateCheck.accesskey           "अ">
@@ -89,7 +89,7 @@
 <!ENTITY useService.label                "अपडेटहरू स्थापना गर्नका लागि पृष्ठभूमि सेवाको प्रयोग गर">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "स्वत: अद्यावधिहरू">
+<!ENTITY updateOthers.label              "स्वतः अद्यावधिहरू">
 <!ENTITY enableSearchUpdate.label        "सर्च ईन्जिनहरू">
 <!ENTITY enableSearchUpdate.accesskey    "ई">
 

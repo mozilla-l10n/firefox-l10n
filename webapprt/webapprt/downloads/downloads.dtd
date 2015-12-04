@@ -15,8 +15,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY cmd.pause.label                  "पज">
 <!ENTITY cmd.pause.accesskey              "P">
-
-
+<!ENTITY cmd.resume.label                 "पुनः निरन्तरता दिनुहोस्">
+<!ENTITY cmd.resume.accesskey             "R">
 
 
 <!ENTITY cmd.show.label                   "फोल्डर समाविष्ट भएको खोल्नुहोस्">
@@ -27,8 +27,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 
 
-
-
+<!ENTITY cmd.retry.label                  "पुनः प्रयास गर्नुहोस्">
+<!ENTITY cmd.retry.accesskey              "R">
 
 
 

@@ -34,10 +34,10 @@
 
 
 
-
-
-
-
+<!ENTITY marginLeft.label    "बायाँ:">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "दायाँ:">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "हेडरहरू र फुटरहरू">
 

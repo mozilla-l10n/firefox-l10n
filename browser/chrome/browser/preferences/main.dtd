@@ -4,7 +4,7 @@
 
 <!ENTITY startup.label             "सुरुवात">
 
-<!ENTITY startupPage.label         "जब &brandShortName; शुरु हुन्छ:">
+<!ENTITY startupPage.label         "जब &brandShortName; सुरु हुन्छ:">
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "मेरो गृह पृष्ठ देखाउनुहोस्">
 <!ENTITY startupBlankPage.label    "खाली पृष्ठ देखाउनुहोस्">

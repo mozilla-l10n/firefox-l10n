@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "सुरक्षित मोडमा सुरु गर्नुहोस्">
-
+<!ENTITY refreshProfile.label         "&brandShortName; पुनः लोड गर्नुहोस्">
 
 
 

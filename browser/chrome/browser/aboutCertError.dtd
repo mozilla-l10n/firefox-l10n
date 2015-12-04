@@ -29,7 +29,7 @@ was trying to connect. -->
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara "<span class='hostname'/> को मालिकले उनीहरूको वेबसाइट राम्ररी मिलाएका छैनन्।      तपाइको जानकारी चोरी हुनबाट बचाउन &brandShortName; ले यो वेबसाइटमा जडान गरेको छैन। ">
+<!ENTITY certerror.introPara "<span class='hostname'/> को मालिकले उनीहरूको वेबसाइट राम्ररी मिलाएका छैनन्।      तपाईँको जानकारी चोरी हुनबाट बचाउन &brandShortName; ले यो वेबसाइटमा जडान गरेको छैन। ">
 <!ENTITY certerror.returnToPreviousPage.label "पछाडि जानुहोस्">
 <!ENTITY certerror.learnMore "अझै जान्नुहोस्…">
 <!ENTITY certerror.advanced.label "उन्नत">

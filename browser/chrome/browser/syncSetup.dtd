@@ -10,7 +10,7 @@
 <!ENTITY button.createNewAccount.label "नयाँ खाता खोल्नुहोस्">
 <!ENTITY button.haveAccount.label      "मसँग एउटा खाता छ">
 
-<!ENTITY setup.choicePage.title.label     "के तपाईंले यस अघि &syncBrand.fullName.label; प्रयोग गर्नुभएको छ?">
+<!ENTITY setup.choicePage.title.label     "के तपाईँले यस अघि &syncBrand.fullName.label; प्रयोग गर्नुभएको छ?">
 <!ENTITY setup.choicePage.new.label       "मैले पहिले &syncBrand.shortName.label; कहिल्यै प्रयोग गरेको छैन">
 <!ENTITY setup.choicePage.existing2.label "म पहिले नै अर्को उपकरणमा &syncBrand.shortName.label; प्रयोग गर्छु">
 <!-- New Account AND Existing Account -->
@@ -45,9 +45,9 @@
 <!ENTITY setup.tosAgree2.accesskey  "‌">
 <!-- My Recovery Key dialog -->
 
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; तपाईंको गोपनीयता बारे चासो राख्छ">
-<!ENTITY setup.newRecoveryKeyPage.description.label "तपाइँको पुरा गोपनीयता सुनिश्चित गर्न, तपाइँको डाटा सबै अपलोड पूर्व गुप्तिकरण भइरहेको छ। तपाईंको डाटा डिक्रिप्ट गर्न आवश्यक पुनः स्थापना साँचो अपलोड गरिएको छैन।">
-<!ENTITY recoveryKeyEntry.label        "तपाईंको पुनर्स्थापना साँचो">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; तपाईँको गोपनीयता बारे चासो राख्छ">
+<!ENTITY setup.newRecoveryKeyPage.description.label "तपाईँको पुरा गोपनीयता सुनिश्चित गर्न, तपाईँको डाटा सबै अपलोड पूर्व गुप्तिकरण भइरहेको छ। तपाईँको डाटा डिक्रिप्ट गर्न आवश्यक पुनः स्थापना साँचो अपलोड गरिएको छैन।">
+<!ENTITY recoveryKeyEntry.label        "तपाईँको पुनर्स्थापना साँचो">
 <!ENTITY recoveryKeyEntry.accesskey    "स">
 <!ENTITY syncGenerateNewKey.label  "नयाँ कुञ्जी उत्पन्न गर्नुहोस्">
 <!ENTITY recoveryKeyBackup.description "अरु यन्त्रबाट &syncBrand.fullName.label;मा प्रवेश गर्नको लागि तपाईको रिकोभरि कि चाहिन्छ।कृपया एउटा जगेडा प्रतिलिपि बनाउनुहोस्।तपाईको रिकोभरि कि पुनः प्राप्त गर्न हामीले मदत गर्न सक्दैनाै।">
@@ -63,11 +63,11 @@
 <!ENTITY addDevice.dontHaveDevice.label     "मेरो साथमा उपकरण छैन">
 <!ENTITY pairDevice.setup.description.label  "सक्रिय गर्नका निमित्त तपाईको अर्को उपकरणमा &quot;पेयर अ डिभाईस&quot; सेलेक्ट गर्नुहोस।">
 <!ENTITY addDevice.setup.enterCode.label    "त्यसपछि, यो कोड प्रविष्ट गर्नुहोस्:">
-<!ENTITY pairDevice.dialog.description.label "तपाइँको नयाँ उपकरण सक्रिय गराउन, उपकरणमा &quot;सिङ्क सेट अप&quot; चयन गर्नुहोस्।">
+<!ENTITY pairDevice.dialog.description.label "तपाईँको नयाँ उपकरण सक्रिय गराउन, उपकरणमा &quot;सिङ्क सेट अप&quot; चयन गर्नुहोस्।">
 <!ENTITY addDevice.dialog.enterCode.label   "उपकरणले प्रदान गरेको कोड प्रविष्ट गर्नुहोस्:">
 <!ENTITY addDevice.dialog.tryAgain.label    "कृपया पुनः प्रयास गर्नुहोस् ।">
 <!ENTITY addDevice.dialog.successful.label  "उपकरण सफलतापूर्वक थपिएको छ। सुरुमा सिङ्ख्रोनाइजेसन धेरै मिनेट लाग्न सक्छ र पृष्ठभूमिमा समाप्त हुनेछ।">
-<!ENTITY addDevice.dialog.recoveryKey.label     "तपाइँको उपकरण सक्रिय गर्न तपाइँको पुनर्स्थापना साँचो प्रविष्ट गर्न आवश्यक हुन्छ। कृपया यो साँचो प्रिन्ट वा बचत गरि आफुसँग राख्नुहोस्।">
+<!ENTITY addDevice.dialog.recoveryKey.label     "तपाईँको उपकरण सक्रिय गर्न तपाईँको पुनर्स्थापना साँचो प्रविष्ट गर्न आवश्यक हुन्छ। कृपया यो साँचो प्रिन्ट वा बचत गरि आफुसँग राख्नुहोस्।">
 <!ENTITY addDevice.dialog.connected.label   "उपकरण जडित">
 <!-- Existing Account Page 2: Manual Login -->
 

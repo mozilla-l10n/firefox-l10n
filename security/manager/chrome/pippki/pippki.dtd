@@ -7,7 +7,7 @@
 <!ENTITY setPassword.tokenName.label "सुरक्षा यन्त्र">
 <!ENTITY setPassword.oldPassword.label "हालको पासवर्ड:">
 <!ENTITY setPassword.newPassword.label "नयाँ पासवर्ड:">
-<!ENTITY setPassword.reenterPassword.label "नयाँ पासवर्ड(पुन:):">
+<!ENTITY setPassword.reenterPassword.label "नयाँ पासवर्ड(पुनः):">
 <!ENTITY setPassword.meter.label "पासवर्ड गुणस्तर मिटर">
 <!-- Values for resetpassword.xul -->
 
@@ -39,8 +39,8 @@
 <!ENTITY pkcs12.setpassword.title  "एउटा प्रमाणपत्र जगेडा पासवर्ड छनोट गर्नुहोस्">
 <!ENTITY pkcs12.setpassword.message  "तपाईँले यहाँ सेट गर्नुभएको प्रमाणपत्र जगेडा पासवर्डले तपाईँले सिर्जना गर्न लाग्नुभएको जगेडा फाइललाई सुरक्षित राख्छ।   तपाईँले जगेडा सहित अघि बढ्न यो पासवर्ड सेट गर्नुपर्ने हुन्छ।">
 <!ENTITY pkcs12.setpassword.label1 "प्रमाणपत्र ब्याकअप पासवर्ड:">
-<!ENTITY pkcs12.setpassword.label2 "प्रमाणपत्र ब्याकअप पासवर्ड(पुन:):">
-<!ENTITY pkcs12.setpassword.reminder "महत्वपूर्ण: तपाईँले आफ्नो प्रमाणपत्रको जगेडा पासवर्ड बिर्सनुभयो भने, तपाईँले यो जगेडालाई पछि पुन:भण्डारण गर्न सक्नुहुन्न।  कृपया यसलाई सुरक्षित स्थानमा रेकर्ड गर्नुहोस्।">
+<!ENTITY pkcs12.setpassword.label2 "प्रमाणपत्र ब्याकअप पासवर्ड(पुनः):">
+<!ENTITY pkcs12.setpassword.reminder "महत्वपूर्ण: तपाईँले आफ्नो प्रमाणपत्रको जगेडा पासवर्ड बिर्सनुभयो भने, तपाईँले यो जगेडालाई पछि पुनःभण्डारण गर्न सक्नुहुन्न।  कृपया यसलाई सुरक्षित स्थानमा रेकर्ड गर्नुहोस्।">
 
 <!ENTITY chooseToken.title  "चिनोको संवाद छनोट गर्नहोस्">
 <!ENTITY chooseToken.message1 "कृपया एउटा चिनो छान्नुहोस्।">

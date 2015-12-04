@@ -15,14 +15,14 @@
 <!ENTITY colorGroup.label "रंग:">
 <!ENTITY grayRadio.label "Grayscale">
 <!ENTITY grayRadio.accesskey "G">
+<!ENTITY colorRadio.label "रङ्ग">
+<!ENTITY colorRadio.accesskey "C">
 
 
 
 
 
-
-
-
-
-
-
+<!ENTITY leftInput.label "बायाँ:">
+<!ENTITY leftInput.accesskey "L">
+<!ENTITY rightInput.label "दायाँ:">
+<!ENTITY rightInput.accesskey "R">

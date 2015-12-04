@@ -47,7 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY viewMenu.label           "दृश्य">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY reloadCmd.label "पुन: लोड गर्नुहोस्">
+<!ENTITY reloadCmd.label "पुनः लोड गर्नुहोस्">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "लामा हरफहरू बेर्नुहोस्"> 
