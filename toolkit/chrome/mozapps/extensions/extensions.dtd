@@ -134,14 +134,15 @@
 
 <!ENTITY detail.size                          "साइज">
 
-
-
-
-
-
-
-
-
+<!ENTITY detail.checkForUpdates.label         "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
+<!ENTITY detail.checkForUpdates.tooltip       "यो एड-अनको लागि अद्यावधिकहरू जाँच गर्नुहोस्">
+<!ENTITY detail.showPreferencesWin.label      "विकल्पहरू">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "यस एड-अनका विकल्पहरू बदल्नुहोस्">
+<!ENTITY detail.showPreferencesUnix.label     "प्राथमिकताहरू">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "यस एड-अनका प्राथमिकताहरू बदल्नुहोस्">
 <!-- ratings -->
 <!-- download/install progress -->
 
@@ -151,39 +152,42 @@
 
 
 <!ENTITY sort.name.label                      "नाम">
-
-
-
-
-
+<!ENTITY sort.name.tooltip                    "नाम अनुसार क्रमबद्ध गर्नुहोस्">
+<!ENTITY sort.dateUpdated.label               "अन्तिममा अद्यावधिक भएको">
+<!ENTITY sort.dateUpdated.tooltip             "अद्यावधिक मिति अनुसार क्रमबद्ध गर्नुहोस्">
+<!ENTITY sort.relevance.label                 "सर्वश्रेष्ठ म्याच">
+<!ENTITY sort.relevance.tooltip               "सान्दर्भिकता अनुसार क्रमबद्ध गर्नुहोस्">
 <!ENTITY sort.price.label                     "मूल्य">
+<!ENTITY sort.price.tooltip                   "मूल्य अनुसार क्रमबद्ध गर्नुहोस्">
 
-
-
+<!ENTITY search.filter2.label                 "खोजी गर्नुहोस्:">
+<!ENTITY search.filter2.installed.label       "मेरो एड-अनहरु">
 <!ENTITY search.filter2.installed.tooltip     "स्थापना भइसकेका एड-अनहरू सूचीकृत गर्नुहोस्">
 <!ENTITY search.filter2.available.label       "उपलब्ध एड-अनहरू">
+<!ENTITY search.filter2.available.tooltip     "स्थापना गर्न उपलब्ध एड-अनहरु देखाउनुहोस्">
 
-
+<!ENTITY addon.homepage                       "गृहपृष्ठ">
 <!ENTITY addon.details.label                  "थप">
-
+<!ENTITY addon.details.tooltip                "यस एड-अन बारे थप विवरण देखाउनुहोस्">
 <!ENTITY addon.unknownDate                    "अज्ञात">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(disabled)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "अद्यावधिक">
 
+<!ENTITY addon.undoAction.tooltip             "यस कार्यलाई पूर्ववत स्थितिमा ल्याउनुहोस्">
 
-
-
+<!ENTITY addon.undoRemove.tooltip             "यस एड-अनलाई स्थापित राख्नुहोस्">
 <!ENTITY addon.restartNow.label               "अहिले पुनः सुरु गर्नुहोस्">
 <!ENTITY addon.install.label                  "स्थापना गर्नुहोस्">
-
+<!ENTITY addon.install.tooltip                "यस एड-अनलाई स्थापित गर्नुहोस्">
 <!ENTITY addon.updateNow.label                "अद्यावधिक गर्नुहोस्">
-
+<!ENTITY addon.updateNow.tooltip              "यो एड-अनको लागि अद्यावधिक स्थापना गर्नुहोस्">
 
 
 

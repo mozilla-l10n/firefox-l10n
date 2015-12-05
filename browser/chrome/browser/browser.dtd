@@ -260,7 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY loopMenuItem.label           "कुराकानी सुरु गर्नुहोस्…">
 <!ENTITY loopMenuItem.accesskey       "t">
 
-<!ENTITY webDeveloperMenu.label       "वेब देवेलोपर">
+<!ENTITY webDeveloperMenu.label       "वेब डेभेलोपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY devToolsCmd.keycode          "VK_F12 ">
