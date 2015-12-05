@@ -104,7 +104,7 @@
 
 <!ENTITY setup.optionsConfirmPage.title "पुष्टि गर्नुहोस्">
 
-
+<!ENTITY confirm.client3.label         "चेतावनी: यस उपकरणमा निम्न &brandShortName; डाटा  मेटिने छ:">
 
 
 <!-- New & Existing Account: Setup Complete -->
