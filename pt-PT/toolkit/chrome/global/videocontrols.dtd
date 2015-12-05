@@ -21,7 +21,7 @@
 <!ENTITY stats.framesParsed "Frames analisadas">
 <!ENTITY stats.framesDecoded "Frames descodificadas">
 <!ENTITY stats.framesPresented "Frames mostradas">
-<!ENTITY stats.framesPainted "Molduras desenhadas">
+<!ENTITY stats.framesPainted "Frames desenhadas">
 
 <!ENTITY error.aborted "O carregamento do vídeo parou.">
 <!ENTITY error.network "Reprodução de vídeo abortada devido a um erro de rede.">
