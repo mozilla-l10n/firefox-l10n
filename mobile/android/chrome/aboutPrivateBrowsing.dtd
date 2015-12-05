@@ -13,9 +13,10 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Et ole yksityinen selaus -tilassa">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox estää seuraamisen eikä tallenna mitään historiatietoja. Ladatut tiedostot ja kirjanmerkit sivustoille säilyvät laitteella normaalilla tavalla.">
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; estää sivulta osat, jotka voivat seurata selainkäyttäytymistäsi.<br/><br/>Emme tallenna mitään historiatietoja, mutta ladatut tiedostot ja kirjanmerkit sivustoille tallennetaan laitteelle.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "Yksityinen selaus -tilassa ei tallenneta selaushistoriaa tai evästeitä. Ladatut tiedostot ja kirjanmerkit sivustoille säilyvät laitteella normaalilla tavalla.">
 

@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox-tili'>
 <!ENTITY fxaccount_status_signed_in_as 'Kirjauduttu tunnuksella'>
+<!ENTITY fxaccount_status_manage_account 'Muokkaa tiliä'>
 <!ENTITY fxaccount_status_auth_server 'Tilin palvelin'>
 <!ENTITY fxaccount_status_sync_now 'Synkronoi heti'>
 <!ENTITY fxaccount_status_syncing2 'Synkronoidaan…'>
