@@ -125,6 +125,9 @@
 <!ENTITY pref_home_suggested_sites_summary "Отображать ярлыки на сайты на вашей домашней странице, которые, как мы думаем, вы можете найти интересными">
 <!ENTITY pref_category_home_homepage "Домашняя страница">
 <!ENTITY home_homepage_title "Установка домашней страницы">
+<!ENTITY home_homepage_radio_default "Дом &brandShortName;">
+<!ENTITY home_homepage_radio_user_address "Другая">
+<!ENTITY home_homepage_hint_user_address "Введите адрес или поисковый запрос">
 <!ENTITY pref_header_general "Основные">
 <!ENTITY pref_header_search "Поиск">
 <!ENTITY pref_header_privacy_short "Приватность">
@@ -165,6 +168,7 @@
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
 <!ENTITY pref_clear_private_data "Удалить мои данные">
+<!ENTITY pref_clear_private_data_now_tablet "Удалить сейчас">
 <!ENTITY pref_clear_on_exit_title3 "Удаление моих данных при выходе">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будет автоматически удалять ваши данные при нажатии вами \u0022Выход\u0022 в главном меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Выберите данные для удаления">
@@ -431,20 +435,23 @@
 <!ENTITY intent_uri_private_browsing_prompt "Эта ссылка будет открыта в &formatS;. Вы уверены, что хотите выйти из Приватного просмотра?">
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Выйти из Приватного просмотра?">
 <!ENTITY devtools_auth_scan_header "Сканирование QR-кода, отображенного на другом вашем устройстве">
-<!ENTITY restriction_disallow_addons_title2 "Отключить установку дополнений">
-<!ENTITY restriction_disallow_private_browsing_title2 "Отключить Приватный просмотр">
-<!ENTITY restriction_disallow_location_services_title2 "Отключить службы местоположения">
-<!ENTITY restriction_disallow_clear_history_title2 "Отключить \'Удаление истории веб-сёрфинга\'">
-<!ENTITY restriction_disallow_master_password_title2 "Отключить мастер-пароль">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Отключить Гостевой веб-серфинг">
-<!ENTITY restriction_disallow_advanced_settings_title "Отключить дополнительные настройки">
-<!ENTITY restriction_disallow_camera_microphone_title "Заблокировать камеру и микрофон">
+<!ENTITY restrictable_feature_addons_installation "Дополнения">
+<!ENTITY restrictable_feature_addons_installation_description "Добавляют возможности или функциональность в Firefox. Примечание: Дополнения могут снимать определённые ограничения.">
+<!ENTITY restrictable_feature_private_browsing "Приватный просмотр">
+<!ENTITY restrictable_feature_private_browsing_description "Позволяет членам семьи сёрфить по Интернету, не сохраняя информацию о сайтах и страницах, которые они посетили.">
+<!ENTITY restrictable_feature_clear_history "Удаление истории">
+<!ENTITY restrictable_feature_clear_history_description "Позволяет членам семьи удалять информацию о сайтах и страницах, которые они посетили.">
+<!ENTITY restrictable_feature_advanced_settings "Дополнительные параметры">
+<!ENTITY restrictable_feature_advanced_settings_description "Это включает в себя импорт закладок, восстановление вкладок и автоматическое обновление. Отключите для перехода к упрощённым настройкам, подходящим для любого члена семьи.">
+<!ENTITY restrictable_feature_camera_microphone "Камера и микрофон">
+<!ENTITY restrictable_feature_camera_microphone_description "Позволяет членам семьи участвовать в общении на веб-сайтах в реальном времени.">
+<!ENTITY restrictable_feature_data_choices "Выбор данных">
+<!ENTITY restrictable_feature_data_choices_description "Выбирать, следует ли отправлять информацию об использовании в Mozilla, чтобы помочь сделать Firefox лучше.">
 <!ENTITY bookmarks_about_browser "Firefox: О вашем браузере">
 <!ENTITY bookmarks_addons "Firefox: Настройка с помощью дополнений">
 <!ENTITY bookmarks_support "Firefox: Поддержка">
 <!ENTITY bookmarks_restricted_support2 "Справка и поддержка Firefox для ограниченных профилей на планшетах Android">
 <!ENTITY bookmarks_restricted_webmaker "Научитесь создавать Интернет: Mozilla Вебмейкер">
 <!ENTITY unsupported_sdk_version "Извините! Эта сборка &brandShortName; не может работать на этом устройстве (&formatS1;, &formatS2;). Пожалуйста, загрузите корректную версию.">
-<!ENTITY eol_notification_url "https://support.mozilla.org/1/firefox/&formatS1;/&formatS2;/&formatS3;/honeycombs">
 <!ENTITY eol_notification_title "&brandShortName; больше не поддерживает Android 3">
 <!ENTITY eol_notification_summary "Нажмите, чтобы узнать больше">

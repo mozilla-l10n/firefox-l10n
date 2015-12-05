@@ -701,7 +701,7 @@
 <!ENTITY contextUnmute.label "Восстановить звук">
 <!ENTITY contextUnmute.accesskey "т">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY search.label.base "Поиск… #1">
+<!ENTITY search.label.base1 "Поиск #1">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
 <!ENTITY AddToAddressBook.label "Добавить в адресную книгу…">
