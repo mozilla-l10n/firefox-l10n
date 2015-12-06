@@ -52,7 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-<!ENTITY translation.options.neverForSite.label "यस पृष्ठ कहिल्यै अनुवाद नगर्ने ">
+<!ENTITY translation.options.neverForSite.label "यस पृष्ठ कहिल्यै अनुवाद नगर्ने">
 <!ENTITY translation.options.neverForSite.accesskey "e">
 <!ENTITY translation.options.preferences.label  "अनुवाद अभिरूचीहरू">
 <!ENTITY translation.options.preferences.accesskey "T">

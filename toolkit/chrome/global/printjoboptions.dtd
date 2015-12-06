@@ -18,10 +18,11 @@
 <!ENTITY colorRadio.label "रङ्ग">
 <!ENTITY colorRadio.accesskey "C">
 
-
-
-
-
+<!ENTITY edgeMarginInput.label "पानाक छेउबाट मार्जिन सम्म">
+<!ENTITY topInput.label "माथि:">
+<!ENTITY topInput.accesskey "T">
+<!ENTITY bottomInput.label "तल:">
+<!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "बायाँ:">
 <!ENTITY leftInput.accesskey "L">
 <!ENTITY rightInput.label "दायाँ:">

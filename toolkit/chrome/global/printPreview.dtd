@@ -6,13 +6,13 @@
 <!ENTITY print.accesskey      "P">
 <!ENTITY pageSetup.label      "पृष्ठ सेटअप…">
 <!ENTITY pageSetup.accesskey  "u">
-
-
+<!ENTITY page.label           "पाना:">
+<!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "को">
-
-
-
-
+<!ENTITY scale.label          "स्केल:">
+<!ENTITY scale.accesskey      "S">
+<!ENTITY portrait.label       "पोट्रेट">
+<!ENTITY portrait.accesskey   "o">
 <!ENTITY landscape.label      "ल्यान्डस्केप">
 <!ENTITY landscape.accesskey  "L">
 <!ENTITY close.label          "बन्द गर्नुहोस्">
@@ -29,10 +29,11 @@
 <!ENTITY p150.label           "१५०&#037;">
 <!ENTITY p175.label           "१७५&#037;">
 <!ENTITY p200.label           "200&#037;">
-
+<!ENTITY Custom.label         "अनुकूल…">
 <!ENTITY ShrinkToFit.label    "ठीक हुनलाई खुम्च्याउनुहोस्">
+<!ENTITY customPrompt.title   "अनुकूल स्केल…">
 
-
-
-
-
+<!ENTITY homearrow.tooltip    "पहिलो पृष्ठ">
+<!ENTITY endarrow.tooltip     "अन्तिम पृष्ठ">
+<!ENTITY nextarrow.tooltip    "अर्को पृष्ठ">
+<!ENTITY previousarrow.tooltip "पहिलेको पृष्ठ">
