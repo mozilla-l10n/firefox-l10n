@@ -137,7 +137,7 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Termos do Serviço">
+<!ENTITY fxaccount_policy_linktos "Termos do serviço">
 <!ENTITY fxaccount_policy_linkprivacy "Nota de Privacidade">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bem-vindo ao &syncBrand.shortName.label;">
