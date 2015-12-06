@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Ushbu ichki oynani boshqa ulangan qurilmaga jo‘natish">
+
 <!ENTITY pref_category_search3 "Izlash">
 <!ENTITY pref_category_search_summary "Izlash tizimlarini moslash">
 <!ENTITY pref_category_display "Ko‘rsatish">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Begona saytlardan boshqalari yoqib qo‘yildi">
 <!ENTITY pref_cookies_disabled "O‘chirib qo‘yilgan">
 
-
+<!ENTITY pref_tap_to_load_images_title "Rasmlarni yuklab olish uchun bosing">
+<!ENTITY pref_tap_to_load_images_summary2 "Rasmlar ustiga uzoq bosib tursangiz, ular yuklanadi">
 
 <!ENTITY pref_tracking_protection_title "Kuzatishdan himoyalanish">
-
+<!ENTITY pref_tracking_protection_summary3 "Maxfiy ko‘rish rejimi yoqib qo‘yildi">
 <!ENTITY pref_donottrack_title "Kuzatmang">
 <!ENTITY pref_donottrack_summary "&brandShortName; saytlarga sizni kuzatishlarini xohlamsaligingiz aytiladi.">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Yoqib qoʻyildi">
+<!ENTITY pref_tracking_protection_enabled_pb "Maxfiy ko‘rish rejimi yoqib qo‘yildi">
+<!ENTITY pref_tracking_protection_disabled "O‘chirib qo‘yildi">
 
 <!ENTITY tracking_protection_prompt_title "Hozir kuzatishdan himoyalanish bilan">
 <!ENTITY tracking_protection_prompt_text "Kuzatish elementlari faol ravishda bloklanmoqda, shuning uchun xavotir olmang.">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sinxronlash">
 <!ENTITY pref_sync_summary2 "Ichki oynalar, xatcho‘plar, loginlar va tarixni sinxronlash">
 <!ENTITY pref_search_suggestions "Izlash bo‘yicha tavsiyalarni ko‘rsatish">
-
+<!ENTITY pref_history_search_suggestions "Izlash tarixini ko‘rsatish">
 <!ENTITY pref_import_android "Androiddan emport qilish">
 <!ENTITY pref_import_android_summary "Asosiy brauzerdan xatcho‘plar va tarixni import qilish">
 <!ENTITY pref_private_data_history2 "Ko‘rish tarixi">
@@ -585,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Xavfsiz ulanish">
 <!ENTITY identity_connection_insecure "Xavfli ulanish">
-
+<!ENTITY identity_login_insecure "Bu sahifa xavfsiz emas, shuning uchun kirish zararli.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "Ushbu sahifadagi xavfli elementlarni &brandShortName; blokladi.">
