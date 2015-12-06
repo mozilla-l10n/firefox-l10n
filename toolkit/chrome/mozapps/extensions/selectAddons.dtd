@@ -12,11 +12,11 @@
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
 <!ENTITY select.keep.style           "width: 6ch;">
-
+<!ENTITY select.action               "कार्य">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
 <!ENTITY select.action.style         "width: 35ch;">
-
+<!ENTITY select.source               "स्थापना कर्ता">
 <!ENTITY select.name                 "नाम">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
@@ -36,6 +36,6 @@
 
 <!ENTITY footer.label                "तपाईँले आफ्नो एड-अनहरू सँधै एड-अन प्रबन्धकबाट परिवर्तन गर्न सक्नुहुने छ।">
 <!ENTITY cancel.label                "रद्द गर्नुहोस्">
-
-
+<!ENTITY back.label                  "पछाडि">
+<!ENTITY next.label                  "अर्को">
 <!ENTITY done.label                  "सम्पन्न भयो">

@@ -13,7 +13,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "डाउनलोडहरू">
 
-
+<!ENTITY cmd.pause.label                  "पज">
+<!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "पुनः आरम्भ">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "रद्द गर्नुहोस्">
@@ -48,4 +49,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "सबै फाइलहरू डाउनलोड भएपछि डाउनलोड सञ्झ्याल बन्द गर्दछ">
 
 <!ENTITY showFolder.label                 "यो फोल्डर देखाउनुहोस्">
-
+<!ENTITY searchBox.label                  "खोजी गर्नुहोस्…">

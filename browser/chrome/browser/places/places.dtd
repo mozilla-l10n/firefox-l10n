@@ -110,8 +110,8 @@
 
 <!ENTITY find.label               "खोजी गर्नुहोस्:">
 <!ENTITY find.accesskey           "S">
-
-
+<!ENTITY view.label               "दृश्य">
+<!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "मिति अनुरूप">
 <!ENTITY byDate.accesskey         "D">
 <!ENTITY bySite.label             "साइट अनुरुप">
