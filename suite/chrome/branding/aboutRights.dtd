@@ -16,7 +16,7 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
-<!ENTITY rights.intro-point1a "O &brandShortName; é-lhe disponibilizado sobre os termos da ">
+<!ENTITY rights.intro-point1a "O &brandShortName; é disponibilizado nos termos da ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas. Também pode modificar o código fonte do &brandShortName; conforme as suas necessidades. A Mozilla Public License também lhe dá o direito de distribuir as suas versões modificadas.">
 
