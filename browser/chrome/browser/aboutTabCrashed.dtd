@@ -9,7 +9,7 @@
 <!ENTITY tabCrashed.commentPlaceholder "टिप्पणी थप्नुहोस् (टिप्पणीहरू सार्वजनिक रूपमा देखिने छ)">
 <!ENTITY tabCrashed.emailPlaceholder "तपाईँको इमेल ठेगाना लेख्नुहोस्">
 <!ENTITY tabCrashed.emailMe "धेरै जानकारीहरू उपलब्ध भए पछि मलाई इमेल गर्नुहोस्">
-<!ENTITY tabCrashed.crashReporter "मोजिला क्र्यास प्रतिवेदक">
+<!ENTITY tabCrashed.crashReporter "Mozilla क्र्यास प्रतिवेदक">
 <!ENTITY tabCrashed.reportSent "क्र्यासको जानकारी पठाईसकियो; &brandShortName; राम्रो बनाउन गर्नुभएको मद्दतको लागि धन्यवाद!">
 <!ENTITY tabCrashed.closeTab "यो ट्याब बन्द गर्नुहोस्">
 <!ENTITY tabCrashed.restoreTab "यो ट्याब पुनर्स्थापना गर्नुहोस्">

@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "लोड हुँदैछ…">
-
+<!ENTITY listEmpty.installed.label            "तपाईँले यस प्रकारको कुनै पनि एड-अन स्थापना गर्नुभएको छैन">
 <!ENTITY listEmpty.availableUpdates.label     "कुनै अद्यावधि फेला परेन">
-
+<!ENTITY listEmpty.recentUpdates.label        "तपाईँले हालै कुनै पनि एड-अनहरू स्थापना गर्नु भएको छैन">
 <!ENTITY listEmpty.findUpdates.label          "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
 <!ENTITY listEmpty.search.label               "कुनै पनि मिल्ने एड-अन पाइएन">
 <!ENTITY listEmpty.button.label               "एड-अन बारेमा थप जान्नुहोस्">
@@ -68,7 +68,7 @@
 <!ENTITY updates.noneFound.label              "कुनै अद्यावधि फेला परेन">
 <!ENTITY updates.manualUpdatesFound.label     "उपलब्ध अद्यावधिहरू हेर्नुहोस्">
 <!ENTITY updates.updateSelected.label         "अद्यावधिहरू स्थापना गर्नुहोस्">
-
+<!ENTITY updates.updateSelected.tooltip       "यो सूचीमा रहेका सबै अद्यावधीहरू स्थापना गर्नुहोस्">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label                "थप जानकारी देखाउनुहोस्">
@@ -112,12 +112,14 @@
 <!ENTITY cmd.contribute.tooltip               "यो एड-अनको विकासमा योगदान दिनुहोस्">
 
 <!ENTITY cmd.showReleaseNotes.label           "रिलिज नोट देखाउनुहोस्">
-
+<!ENTITY cmd.showReleaseNotes.tooltip         "यो अद्यावधीको रिलिज टिप्पणीहरू देखाउनुहोस्">
 <!ENTITY cmd.hideReleaseNotes.label           "रिलिज नोट लुकाउनुहोस्">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+<!ENTITY discover.title                       "एड-अनहरू के हो ?">
 
 
 <!-- detail view -->
@@ -129,14 +131,15 @@
 <!ENTITY detail.numberOfDownloads.label       "डाउनलोडहरू">
 
 
+<!ENTITY detail.updateType                    "स्वतः अद्यावधि">
 <!ENTITY detail.updateDefault.label           "पूर्वनिर्धारित">
 
-
-
+<!ENTITY detail.updateAutomatic.label         "खुल्ला">
+<!ENTITY detail.updateAutomatic.tooltip       "अद्यावधिहरू स्वतः इन्स्टल गर्नुहोस्">
 <!ENTITY detail.updateManual.label            "बंन्द गर्नुहोस्">
 
 <!ENTITY detail.home                          "गृहपृष्ठ">
-
+<!ENTITY detail.repository                    "एड-अन प्रोफाइल">
 <!ENTITY detail.size                          "साइज">
 
 <!ENTITY detail.checkForUpdates.label         "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
@@ -149,6 +152,9 @@
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "यस एड-अनका प्राथमिकताहरू बदल्नुहोस्">
 <!-- ratings -->
+
+
+<!ENTITY rating2.label                        "रेटिङ">
 <!-- download/install progress -->
 
 <!ENTITY progress.pause.tooltip               "पज">
@@ -193,8 +199,8 @@
 <!ENTITY addon.install.tooltip                "यस एड-अनलाई स्थापित गर्नुहोस्">
 <!ENTITY addon.updateNow.label                "अद्यावधिक गर्नुहोस्">
 <!ENTITY addon.updateNow.tooltip              "यो एड-अनको लागि अद्यावधिक स्थापना गर्नुहोस्">
-
-
+<!ENTITY addon.includeUpdate.label            "अद्यावधिमा समावेश गर्ने">
+<!ENTITY addon.updateAvailable.label          "अद्यावधि उपलब्ध छ">
 <!ENTITY addon.checkingForUpdates.label       "अद्यावधिकहरूका लागि जाँच गर्नुहोस्…">
 <!ENTITY addon.releaseNotes.label             "रिलिज नोटहरू:">
 <!ENTITY addon.loadingReleaseNotes.label      "लोड हुँदैछ…">
@@ -203,7 +209,7 @@
 
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-
+<!ENTITY eula.accept                          "स्वीकार गरि स्थापना गर्नुहोस् …">
 
 <!ENTITY settings.path.button.label           "ब्राउज गर्नुहोस्…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
@@ -212,20 +218,20 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "अझ जान्नुहोस्">
-
-
-
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "टेलिमेट्री सेटिङ्">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "थप जान्नुहोस्…">
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
+<!ENTITY disabledUnsigned.description.findAddonsLink "प्रतिस्थापन खोज्नुहोस्">
 
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
+<!ENTITY disabledUnsigned.devInfo.linkToManual "म्यानुअल">
 
