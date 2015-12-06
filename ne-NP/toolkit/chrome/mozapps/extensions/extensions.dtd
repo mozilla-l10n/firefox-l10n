@@ -34,6 +34,8 @@
 
 <!-- global informations -->
 
+<!ENTITY info.plugincheck.label                 "तपाईँका प्लगिनहरू अद्यावधिक छन् भनेर जान्नुहोस्">
+<!ENTITY info.plugincheck.tooltip               "तपाईँका प्लगिनहरू अद्यावधिक छन् भनेर जान्नुहोस्">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "खोजी गर्नुहोस्">
@@ -207,6 +209,7 @@
 
 
 
+<!ENTITY eula.title                           "प्रयोगकर्ता सम्झौता प्रमाण पत्र">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "स्वीकार गरि स्थापना गर्नुहोस् …">

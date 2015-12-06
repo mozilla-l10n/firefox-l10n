@@ -19,10 +19,16 @@
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+<!ENTITY canvasDebuggerUI.emptyNotice1    "क्लिक गर्नुहोस्">
+<!ENTITY canvasDebuggerUI.emptyNotice2    "फ्रेमको स्ट्याक कल रेकर्ड गर्न बटनमा">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
+
+<!ENTITY canvasDebuggerUI.waitingNotice   "एनिमेसन साइकल रेकर्ड गर्दै…">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
   -  on a button that starts a new snapshot. -->
+
+<!ENTITY canvasDebuggerUI.recordSnapshot.tooltip "एनिमेसन लुपमा अर्को फ्रेम रेकर्ड गर्नुहोस्।">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.importSnapshot): This string is displayed
   -  on a button that opens a dialog to import a saved snapshot data file. -->
 
@@ -33,3 +39,5 @@
 <!ENTITY canvasDebuggerUI.clearSnapshots "खाली गर्नुहोस्">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.searchboxPlaceholder): This string is displayed
   -  as a placeholder of the search box that filters the calls list. -->
+
+<!ENTITY canvasDebuggerUI.searchboxPlaceholder "कलहरू फिल्टर गर्नुहोस्">
