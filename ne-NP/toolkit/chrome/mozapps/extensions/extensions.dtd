@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "एड-अन प्रबन्धक">
 
 <!ENTITY search.placeholder                   "सबै एड-अन खोज्नुहोस्">
-
+<!ENTITY search.buttonlabel                   "खोजी गर्नुहोस्">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -13,8 +13,8 @@
 
 <!ENTITY listEmpty.availableUpdates.label     "कुनै अद्यावधि फेला परेन">
 
-
-
+<!ENTITY listEmpty.findUpdates.label          "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
+<!ENTITY listEmpty.search.label               "कुनै पनि मिल्ने एड-अन पाइएन">
 <!ENTITY listEmpty.button.label               "एड-अन बारेमा थप जान्नुहोस्">
 <!ENTITY installAddonFromFile.label           "फाइलबाट एड-अनहरू स्थापना गर्नुहोस्…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -27,19 +27,23 @@
 <!ENTITY showAllExtensions.button.label       "सबै एक्सटेन्सनहरू देखाउनुहोस्">
 <!-- global warnings -->
 
+<!ENTITY warning.checkcompatibility.enable.label   "सक्षम पार्नुहोस्">
 
 
-
-
+<!ENTITY warning.updatesecurity.enable.label       "सक्षम पार्नुहोस्">
 
 <!-- global informations -->
 
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "खोजी गर्नुहोस्">
 <!ENTITY view.discover.label                  "एड-अनहरू प्राप्त गर्नुहोस्">
 <!ENTITY view.recentUpdates.label             "हालका अद्यावधिकहरू">
 <!ENTITY view.availableUpdates.label          "उपलब्ध अद्यावधिहरू">
 <!-- addon updates -->
 
+<!ENTITY updates.checkForUpdates.label        "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "हालका अद्यावधिहरू हेर्नुहोस्">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
@@ -71,14 +75,15 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "अद्यावधि खोज्नुहोस्">
 <!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferencesWin.label             "विकल्पहरू">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "प्राथमिकताहरू…">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.about.label                      "बारेमा">
+<!ENTITY cmd.about.accesskey                  "A">
 
-
-
-
-
-
-
-
+<!ENTITY cmd.enableAddon.label                "सक्षम पार्नुहोस्">
+<!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "अक्षम पार्नुहोस्">
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "वियर आवरणहरू">
@@ -92,15 +97,15 @@
 <!ENTITY cmd.neverActivate.label              "कहिल्यै सक्रिय नगर्नुहोस्">
 <!ENTITY cmd.neverActivate.tooltip            "कहिल्यै यो एड-अन प्रयोग नगर्नुहोस्">
 <!ENTITY cmd.stateMenu.tooltip                "यो एड-अन कहिले चल्छ परिवर्तन गर्नुहोस्">
-
-
+<!ENTITY cmd.installAddon.label               "स्थापना गर्नुहोस्">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "हटाउनुहोस्">
 <!ENTITY cmd.uninstallAddon.accesskey         "ह">
-
-
+<!ENTITY cmd.debugAddon.label                 "डिबग गर्नुहोस्">
+<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "विकल्पहरू">
 <!ENTITY cmd.showPreferencesWin.tooltip       "यस एड-अनका विकल्पहरू बदल्नुहोस्">
-
+<!ENTITY cmd.showPreferencesUnix.label        "प्राथमिकताहरू">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "यस एड-अनका प्राथमिकताहरू बदल्नुहोस्">
 <!ENTITY cmd.contribute.label                 "योगदान गर्नुहोस्">
 <!ENTITY cmd.contribute.accesskey             "C">
@@ -118,9 +123,9 @@
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "संस्करण">
-
+<!ENTITY detail.lastupdated.label             "अन्तिम अद्यावधिक">
 <!ENTITY detail.creator.label                 "बिकासकर्ता">
-
+<!ENTITY detail.homepage.label                "गृहपृष्ठ">
 <!ENTITY detail.numberOfDownloads.label       "डाउनलोडहरू">
 
 
@@ -130,7 +135,7 @@
 
 <!ENTITY detail.updateManual.label            "बंन्द गर्नुहोस्">
 
-
+<!ENTITY detail.home                          "गृहपृष्ठ">
 
 <!ENTITY detail.size                          "साइज">
 
@@ -179,9 +184,9 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "अद्यावधिक">
-
+<!ENTITY addon.undoAction.label               "पूर्वस्थितिमा फर्काउनुहोस्">
 <!ENTITY addon.undoAction.tooltip             "यस कार्यलाई पूर्ववत स्थितिमा ल्याउनुहोस्">
-
+<!ENTITY addon.undoRemove.label               "पूर्वस्थितिमा फर्काउनुहोस्">
 <!ENTITY addon.undoRemove.tooltip             "यस एड-अनलाई स्थापित राख्नुहोस्">
 <!ENTITY addon.restartNow.label               "अहिले पुनः सुरु गर्नुहोस्">
 <!ENTITY addon.install.label                  "स्थापना गर्नुहोस्">
@@ -190,9 +195,9 @@
 <!ENTITY addon.updateNow.tooltip              "यो एड-अनको लागि अद्यावधिक स्थापना गर्नुहोस्">
 
 
-
-
-
+<!ENTITY addon.checkingForUpdates.label       "अद्यावधिकहरूका लागि जाँच गर्नुहोस्…">
+<!ENTITY addon.releaseNotes.label             "रिलिज नोटहरू:">
+<!ENTITY addon.loadingReleaseNotes.label      "लोड हुँदैछ…">
 
 
 
@@ -200,6 +205,7 @@
 <!ENTITY eula.height                          "400px">
 
 
+<!ENTITY settings.path.button.label           "ब्राउज गर्नुहोस्…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
@@ -210,6 +216,7 @@
 
 
 
+<!ENTITY setting.learnmore "थप जान्नुहोस्…">
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with

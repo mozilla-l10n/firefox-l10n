@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  intro2.label                "तपाईँले खोल्न छान्नुभएको छ:">
-
+<!ENTITY  from.label                  "बाट:">
 <!ENTITY  actionQuestion.label        "&brandShortName; ले यो फाइललाई के गर्नुपर्छ?">
 
 <!ENTITY  openWith.label              "खोल्नुहोस्">
@@ -16,7 +16,8 @@
 
 
 
-
+<!ENTITY  chooseHandlerMac.label      "छान्नुहोस्…">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "ब्राउज…">
 <!ENTITY  chooseHandler.accesskey     "B">
 

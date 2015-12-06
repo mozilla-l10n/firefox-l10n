@@ -3,3 +3,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  settingsChangePreferences.label  "सेटिङहरू अनुप्रयोगको ट्याबमा &brandShortName; अभिरुचीहरूमा बदल्न सकिने छ।">
+<!ENTITY  settingsChangeOptions.label      "सेटिङहरू अनुप्रयोगको ट्याबमा &brandShortName; विकल्पहरूमा बदल्न सकिने छ।">

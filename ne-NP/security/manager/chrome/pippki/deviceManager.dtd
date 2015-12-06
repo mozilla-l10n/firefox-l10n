@@ -12,15 +12,16 @@
 <!ENTITY devmgr.details.title                   "विवरणहरू">
 <!ENTITY devmgr.details.title2                  "मान">
 
-
-
-
+<!ENTITY devmgr.button.login.label              "लग इन">
+<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.logout.label             "लग आउट">
+<!ENTITY devmgr.button.logout.accesskey         "O">
 <!ENTITY devmgr.button.changepw.label           "पासवर्ड परिवर्तन गर्नुहोस्">
 <!ENTITY devmgr.button.changepw.accesskey       "P">
-
-
-
-
+<!ENTITY devmgr.button.load.label               "लोड गर्नुहोस्">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "अनलोड गर्नुहोस्">
+<!ENTITY devmgr.button.unload.accesskey         "U">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "तपाईँले थप्न चाहनुभएको मोड्युलका लागि जानकारी प्रविष्ट गर्नुहोस्।">
@@ -29,7 +30,7 @@
 <!ENTITY loaddevice.modname.default             "नयाँ PKCS#11 मोड्युल">
 <!ENTITY loaddevice.filename                    "मोड्युल फाइलनाम:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-
+<!ENTITY loaddevice.browse                      "ब्राउज गर्नुहोस्…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title                       "PKCS#11 साधन लोड गर्नुहोस्">

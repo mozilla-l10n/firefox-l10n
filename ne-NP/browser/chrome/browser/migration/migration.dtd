@@ -11,22 +11,22 @@
 
 <!ENTITY importFromIE.label             "माइक्रोसफ्ट इन्टरनेट एक्सप्लोरर">
 <!ENTITY importFromIE.accesskey         "M">
-
-
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "केहि पनि आयात नगर्नुहोस्">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "सफारी">
 <!ENTITY importFromSafari.accesskey     "S">
-
-
+<!ENTITY importFromCanary.label         "Chrome Canary">
+<!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "क्रोम">
 <!ENTITY importFromChrome.accesskey     "C">
-
-
+<!ENTITY importFromChromium.label       "Chromium">
+<!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "फायरफक्स">
 <!ENTITY importFromFirefox.accesskey    "x">
-
-
+<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "पुस्तकचिन्हहरू, इतिहास अथवा पासवर्ड डाटा नभएका कार्यक्रमहरू भेटिन सक्छन ।">
 
