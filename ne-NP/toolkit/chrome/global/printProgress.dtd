@@ -6,7 +6,7 @@
 <!ENTITY printWindow.title "मुद्रण हुँदैछ"> 
 <!ENTITY title    "शीर्षक:"> 
 <!ENTITY progress "प्रगति:">
-
+<!ENTITY preparing "तयार पार्दै…">
 <!ENTITY printComplete "मुद्रण सम्पन्न भएको छ।">
 
 <!ENTITY dialogCancel.label "रद्द गर्नुहोस्"> 

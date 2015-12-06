@@ -5,5 +5,5 @@
 
 <!ENTITY printWindow.title "मुद्रण पूर्वदृश्य"> 
 <!ENTITY title   "शीर्षक:"> 
-
+<!ENTITY preparing "तयार पार्दै…">
 <!ENTITY progress "प्रगति:">

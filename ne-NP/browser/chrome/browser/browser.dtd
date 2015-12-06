@@ -876,7 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "सुरक्षा सुचारु गर्नुहोस्">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "ट्रयाकिङ् सुरक्षाको अक्षम गरिएको छ">
+<!ENTITY trackingContentBlocked.disabled.message "ट्रयाकिङ् सुरक्षा निस्क्रिय गरियो">
 
 <!ENTITY pointerLock.notification.message "यसलाई फेरि देखाउन कुनै पनि समयमा ESC थिच्नुहोस्">
 
@@ -911,7 +911,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-<!ENTITY panicButton.view.mainActionDesc          "अगि बढ्दा :">
+<!ENTITY panicButton.view.mainActionDesc          "अगाडि जानाले:">
 <!ENTITY panicButton.view.deleteCookies           "हालको <html:strong>कुकिज</html:strong> मेटाउनुहोस्">
 <!ENTITY panicButton.view.deleteHistory           "हालको <html:strong>इतिहास</html:strong> मेट्नुहोस्">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "सबै <html:strong>ट्याबहरू</html:strong> र <html:strong>विन्डोहरू</html:strong> बन्द गर्नुहोस">
@@ -933,7 +933,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY processHang.terminateProcess.label       "वेब प्रोसेस अन्त्य गर्नुहोस्">
 <!ENTITY processHang.terminateProcess.accessKey   "K">
 
-<!ENTITY emeLearnMoreContextMenu.label            "DRM को बारेमा बढि जान्नुहोस्…">
+<!ENTITY emeLearnMoreContextMenu.label            "DRM बारे थप जान्नुहोस्">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 <!ENTITY emeNotificationsNotNow.label             "अहिले होइन">
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
@@ -941,7 +941,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-<!ENTITY saveToPocketCmd.label     "पृष्ठ Pocket मा बचत गर्नुहोस्">
+<!ENTITY saveToPocketCmd.label     "Pocket मा सङ्ग्रह गर्नुहोस्">
 <!ENTITY saveToPocketCmd.accesskey "k">
 <!ENTITY saveLinkToPocketCmd.label     "Pocket मा लिङ्क बचत गर्नहोस्">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
