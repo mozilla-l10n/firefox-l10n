@@ -10,14 +10,14 @@
 <!ENTITY  proxyTitle.label              "इन्टरनेट पहुँच गर्न प्रोक्सिहरू कन्फिगर गर्नुहोस्">
 <!ENTITY  noProxyTypeRadio.label        "प्रोक्सी प्रयोग नगर्नु">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "&amp; प्रणाली को प्रोक्सी व्यवस्था प्रयोग गर्नुस ">
+<!ENTITY  systemTypeRadio.label         "प्रणालीको प्रोक्सी व्यवस्था प्रयोग गर्नुहोस्">
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "यो नेटवर्क को लागि प्रोक्सी व्यवस्था आफै पत्ता लगाउनु ">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "मानवचालित प्रोक्सि कन्फिग्रेसन:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "स्वचालित प्रोक्सी कन्फिगरेसन यूआरएल">
-<!ENTITY  autoTypeRadio.accesskey       "स">
+<!ENTITY  autoTypeRadio.label           "स्वचालित प्रोक्सी कन्फिगरेसन युआरएल:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "फेरी पेजको सामग्री भर्नुहोस ">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP प्रोक्सी:">
@@ -26,13 +26,13 @@
 <!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL प्रोक्सी:">
 <!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "सोसक्स होस्ट:">
-<!ENTITY  socks.accesskey               "स">
+<!ENTITY  socks.label                   "SOCKS होस्ट:">
+<!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label          "दूर DNS">
+<!ENTITY  socksRemoteDNS.label          "दुर DNS">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "पोर्ट:">
 <!ENTITY  HTTPport.accesskey            "P">
@@ -42,7 +42,7 @@
 <!ENTITY  noproxy.label                 "...का लागि कुनै प्रोक्सि छैन">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "उदाहरण: .mozilla.org, .net.nz, १९२.१६८.१.०/२४">
-<!ENTITY  shareproxy.label              "&amp; सबै प्रोक्सी सर्वर प्रोटोकल को लागि यो प्रयोग गर्नुहोस ">
+<!ENTITY  shareproxy.label              "सबै प्रोक्सी सर्वर प्रोटोकलको लागि यो प्रयोग गर्नुहोस् ">
 <!ENTITY  shareproxy.accesskey          "s">
 
 

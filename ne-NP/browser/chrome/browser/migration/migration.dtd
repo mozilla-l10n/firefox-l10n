@@ -13,14 +13,14 @@
 <!ENTITY importFromIE.accesskey         "M">
 
 
-<!ENTITY importFromNothing.label        "केहि आयात नगर्नुहोस् ">
-<!ENTITY importFromNothing.accesskey    "क">
+<!ENTITY importFromNothing.label        "केहि पनि आयात नगर्नुहोस्">
+<!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "सफारी">
-<!ENTITY importFromSafari.accesskey     "स">
+<!ENTITY importFromSafari.accesskey     "S">
 
 
 <!ENTITY importFromChrome.label         "क्रोम">
-<!ENTITY importFromChrome.accesskey     "क">
+<!ENTITY importFromChrome.accesskey     "C">
 
 
 <!ENTITY importFromFirefox.label        "फायरफक्स">

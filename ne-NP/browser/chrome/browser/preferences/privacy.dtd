@@ -49,7 +49,7 @@
 <!ENTITY  showCookies.label             "कुकीहरू देखाउनुहोस्...">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; ले:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "इतिहास स्मझिने">
 <!ENTITY  historyHeader.dontremember.label "इतिहास कहिल्यै नसम्झिने">

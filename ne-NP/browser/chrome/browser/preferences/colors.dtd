@@ -16,7 +16,7 @@
 <!ENTITY  textColor.label                 "पाठ:">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "पृष्ठभूमि:">
-<!ENTITY  backgroundColor.accesskey       "प">
+<!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "प्रणालीका रंगहरू प्रयोग गर्नुहोस्">
 <!ENTITY  useSystemColors.accesskey       "s">
 

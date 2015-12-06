@@ -9,7 +9,7 @@
 -->
 
 <!ENTITY update.checkForUpdatesButton.label       "अद्यावधिक जाँच गर्नुहोस्">
-<!ENTITY update.checkForUpdatesButton.accesskey   "अ">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2                "&brandShortName; अपडेट गर्न फेरि सुरु गर्नुहोस्">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "अद्यावधिक लागू गर्नुहोस...">

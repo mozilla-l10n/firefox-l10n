@@ -21,8 +21,8 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Keyword:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "सबै ट्याबहरू देखाउुनुहोस्">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "यो पुस्तकचिनोलाई साइडबारमा लोड गर्नुहोस्  h">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "यो पुस्तकचिनोलाई साइडबारमा लोड गर्नुहोस् ">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "रोज्नुहोस्...">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "नयाँ फोल्डर o">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "नयाँ फोल्डर">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

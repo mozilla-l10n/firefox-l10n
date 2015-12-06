@@ -8,7 +8,8 @@
 <!ENTITY warnCloseMultipleTabs.label  "बहुविध ट्याबहरू बन्द गर्न खोज्दा मलाई सचेत गर्नुहोस्">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-
+<!ENTITY warnOpenManyTabs.label       "बहुविध ट्याबहरू खोल्दा &brandShortName; ढिलो हुन सक्छ भनेर मलाई सचेत गर्नुहोस्">
+<!ENTITY warnOpenManyTabs.accesskey   "d">
 
 
 
