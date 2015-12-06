@@ -42,3 +42,4 @@
 <!ENTITY useFirefoxSync.label             "सुझाव: यसले अलग प्रोफाइल प्रयोग गर्दछ। तिनीहरू बीच डाटा साझेदारी गर्न सिङ्क प्रयोग गर्नुहोस्।">
 <!ENTITY getStarted.label                 "सिङ्क प्रयोग गर्न सुरु गर्नुहोस्…">
 
+<!ENTITY e10sEnabled.label                "बहु-प्रोसेस &brandShortName; सक्षम पार्नुहोस्">

@@ -40,7 +40,7 @@
 <!ENTITY syncDeviceName.label       "साधनको नामः">
 <!ENTITY syncDeviceName.accesskey   "c">
 
-
+<!ENTITY changeSyncDeviceName.label "उपकरणको नाम परिवर्तन गर्नुहोस्…">
 <!ENTITY cancelChangeSyncDeviceName.label "रद्द गर्नुहोस्">
 <!ENTITY saveChangeSyncDeviceName.label "बचत गर्नुहोस्">
 <!ENTITY unlinkDevice.label           "यो उपकरण विछेद गर्नुहोस्">
@@ -49,7 +49,7 @@
 <!ENTITY prefs.tosLink.label        "सेवाको सर्तहरू">
 <!ENTITY prefs.ppLink.label         "गोपनीयता नीति">
 <!-- Firefox Accounts stuff -->
-
+<!ENTITY determiningAcctStatus.label     "तपाईंको खाता स्थिति निर्धारण गरिदैँ…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -57,38 +57,50 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInUnverified.beforename.label "">
-
+<!ENTITY signedInUnverified.aftername.label "प्रमाणित गरिएको छैन।">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+
+<!ENTITY signedInLoginFailure.beforename.label "कृपया पुन:कनेक्ट गर्न साइन इन गर्नुहोस्">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
+<!ENTITY notSignedIn.label           "तपाईंँले साइन इन गर्नुभएको छैन।">
 <!ENTITY signIn.label                "साइन इन गर्नुहोस्">
+<!ENTITY profilePicture.tooltip      "प्रोफाइल तस्वीर परिवर्तन गर्नुहोस्">
 
+<!ENTITY disconnect.label            "विच्छेद…">
+<!ENTITY verify.label                "इमेल रुजु गर्नुहोस">
+<!ENTITY forget.label                "यो इमेलको बारेमा बिर्सनुहोस्">
 
-
-
-
-
+<!ENTITY welcome.description "जहाँ जहाँ &brandShortName; प्रयोग गर्नुहुन्छ, त्यहाँ त्यहाँ आफ्नो ट्याबहरू, बुकमार्क, पासवर्ड र अरु कुरा प्रयोग गर्नुहोस्">
 
 
 
 <!ENTITY welcome.useOldSync.label "समक्रमणको पुरानो संस्करण प्रयोग गरिँदै छ ?">
 
+<!ENTITY signedOut.caption            "तपाईँको वेब अाफु साथै लैजानुहोस">
+<!ENTITY signedOut.description        "सबै उपकरणहरूमा आफ्नो बुकमार्क, इतिहास, ट्याबहरू, पासवर्ड, थप-ओन, र प्राथमिकताहरू सिंक्रोनाइज गर्नुहोस्।">
+<!ENTITY signedOut.accountBox.title   "एक &syncBrand.fxAccount.label; संग जडान गर्नुहोस्">
 
 
 
-
-
+<!ENTITY signedIn.engines.label       "सबै उपकरणहरूमा सिङ्क गर्नुहोस्">
 <!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Sync to your mobile device.
      Download Firefox for Android or Firefox for iOS." -->
+
+
+<!ENTITY mobilePromo2.start            "आफ्नो मोबाइल उपकरणमा सिङ्क गर्नुहोस्। निम्न कुरा डाउनलोड गर्नुहोस्: ">
 <!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo2.androidLink      "Android को लागि Firefox">
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
+
+<!ENTITY mobilePromo2.iOSBefore         " वा ">
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo2.iOSLink          "iOS को लागि Firefox">
 
+<!ENTITY mobilePromo2.end              "।.">
