@@ -19,7 +19,7 @@
   -  "simple discardable text editor". -->
 
 <!ENTITY fileMenu.label               "फाइल">
-<!ENTITY fileMenu.accesskey           "फ">
+<!ENTITY fileMenu.accesskey           "F">
 
 <!ENTITY newWindowCmd.label           "नयाँ सञ्झ्याल">
 <!ENTITY newWindowCmd.accesskey       "N">

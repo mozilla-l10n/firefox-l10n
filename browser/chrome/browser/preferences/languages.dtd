@@ -11,7 +11,7 @@
 <!ENTITY languages.customize.moveDown.label             "तल सार्नुहोस्">
 <!ENTITY languages.customize.moveDown.accesskey         "D">
 <!ENTITY languages.customize.deleteButton.label         "हटाउनुहोस्">
-<!ENTITY languages.customize.deleteButton.accesskey     "ह">
+<!ENTITY languages.customize.deleteButton.accesskey     "R">
 <!ENTITY languages.customize.selectLanguage.label       "राख्नलाई भाषा छनोट गर्नुहोस ">
 <!ENTITY languages.customize.addButton.label            "थप्नुहोस्">
 <!ENTITY languages.customize.addButton.accesskey        "A">

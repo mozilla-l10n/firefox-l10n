@@ -4,7 +4,7 @@
 
 <!ENTITY  fontsDialog.title                       "फन्टहरू">
 
-<!ENTITY  language.label                          "&amp; अंक्षरको लागि ">
+<!ENTITY  language.label                          "निम्नको लागि फन्ट्सहरू:">
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "साइज:">

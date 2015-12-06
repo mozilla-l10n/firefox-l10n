@@ -7,24 +7,24 @@
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "सङ्गठित गर्नुहोस्">
-<!ENTITY organize.accesskey    "स">
+<!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "आफ्नो पुस्तक चिनोहरू सङ्गठित गर्नुहोस्">
 
-<!ENTITY file.close.label               "बन्द गर्नुहोस् C">
+<!ENTITY file.close.label               "बन्द गर्नुहोस्">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "दृश्य V">
+<!ENTITY views.label                    "दृश्य">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "तपाईँको दृश्य परिवर्तन गर्नुहोस्">
 <!ENTITY view.columns.label             "कोलमहरु देखाउनुहोस्">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "क्रमबद्ब गर्नुहोस्">
-<!ENTITY view.sort.accesskey            "क">
+<!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "क्रमबद्ध नगरिएको">
 <!ENTITY view.unsorted.accesskey        "U">
 <!ENTITY view.sortAscending.label       "A > Z श्रेणीबद्ध क्रम">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z > A श्णीबद्ध क्रम">
+<!ENTITY view.sortDescending.label      "Z > A क्रमवद्ध क्रम">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "HTML… बाट पुस्तकचिनो आयात गर्नुहोस्">
@@ -34,22 +34,22 @@
 <!ENTITY importOtherBrowser.label          "अर्को ब्राउजरबाट डाटा आयात गर्नुहोस्…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
-<!ENTITY cmd.backup.label               "जगेडा...">
-<!ENTITY cmd.backup.accesskey           "ज">
+<!ENTITY cmd.backup.label               "ब्याकअप...">
+<!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "पूर्ववस्थामा ल्याउनुहोस्">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "फाइल रोज्नुहोस्...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY cmd.bookmarkLink.label         "यो पृष्ठमा पुस्तकचिनो हाल्नुहोस्...">
-<!ENTITY cmd.bookmarkLink.accesskey     "य">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "यो पृष्ठ मेट्नुहोस्">
-<!ENTITY cmd.delete.accesskey           "य">
+<!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "यो साइटको बारेमा बिर्सनुहोस्">
-<!ENTITY cmd.deleteDomainData.accesskey "य">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
 
 <!ENTITY cmd.open.label                  "खोल्नुहोस्">
-<!ENTITY cmd.open.accesskey              "ख">
+<!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "लिङ्कलाई नयाँ सञ्झ्यालमा खोल्नुहोस्">
 <!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_private_window.label     "लिङ्कलाई नयाँ निजी सञ्झ्यालमा खोल्नुहोस् ">
@@ -63,7 +63,7 @@
 <!ENTITY cmd.properties.accesskey  "i">
 
 <!ENTITY cmd.sortby_name.label              "नाम अनुसार क्रमबद्ध गर्नुहोस्">
-<!ENTITY cmd.sortby_name.accesskey          "न">
+<!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "नयाँ पुस्तकचिनो…">
@@ -78,7 +78,7 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "सार्नुहोस्...">
-<!ENTITY cmd.moveBookmarks.accesskey              "स">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "नाम">
 <!ENTITY col.tags.label          "ट्यागहरू">
@@ -90,7 +90,7 @@
 <!ENTITY col.lastmodified.label  "पछिल्लो परिमार्जित">
 
 <!ENTITY search.label                              "खोजी गर्नुहोस्:">
-<!ENTITY search.accesskey                          "ख">
+<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
