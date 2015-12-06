@@ -212,7 +212,7 @@
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings2 "Настройки сайтов">
 <!ENTITY pref_private_data_downloadFiles2 "Загрузки">
-<!ENTITY pref_private_data_syncedTabs "Синхронизированные вкладки">
+<!ENTITY pref_private_data_syncedTabs "Облачные вкладки">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Отправить отзыв">
@@ -265,7 +265,7 @@
 <!ENTITY close_private_tabs "Закрыть приватные вкладки">
 <!ENTITY tabs_normal "Вкладки">
 <!ENTITY tabs_private "Приватные">
-<!ENTITY tabs_synced "Синхронизированные">
+<!ENTITY tabs_synced "Облачные">
 <!ENTITY set_image_fail "Не удалось установить изображение">
 <!ENTITY set_image_path_fail "Не удалось сохранить изображение">
 <!ENTITY set_image_chooser_title "Установить изображение как">
@@ -356,7 +356,7 @@
 <!ENTITY home_reading_list_hint_accessible2 "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на кнопку режима чтения, когда она появится в панели адреса.">
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
 <!ENTITY home_move_up_to_filter "Назад в &formatS;">
-<!ENTITY home_remote_tabs_title "Синхронизированные вкладки">
+<!ENTITY home_remote_tabs_title "Облачные вкладки">
 <!ENTITY home_remote_tabs_empty "Ваши вкладки с других устройств появятся здесь.">
 <!ENTITY home_remote_tabs_unable_to_connect "Попытка соединения не удалась">
 <!ENTITY home_remote_tabs_need_to_sign_in "Пожалуйста, войдите, чтобы снова подключиться к Учётной записи Firefox и продолжить синхронизацию.">
