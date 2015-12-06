@@ -19,22 +19,28 @@
 <!ENTITY  found.enableXPInstall.label     "Allow web sites to install software">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
+<!ENTITY  installing.wizard.title         "संगत एड-अनहरू स्थापना गरिदैँ">
+
+
+<!ENTITY  noupdates.wizard.title          "कुनै संगत एड-अनहरू भेटिएन">
+
+<!ENTITY  noupdates.error.desc            "अद्यावधिक खोज्दा केही समस्या थिए।">
+
+
+<!ENTITY  finished.wizard.title           "संगत एड-अनहरू स्थापित भए">
+<!ENTITY  finished.top.label              "&brandShortName; ले तपाईँको एड-अनहरुमा अद्यावधिक स्थापना गरेको छ।">
 
 
 
+<!ENTITY  adminDisabled.wizard.title      "अद्यावधिकहरु जाँच्न असक्षम">
 
 
+<!ENTITY  versioninfo.wizard.title        "एड-अनहरूको अनुकूलता जाँच गरिँदै">
 
+<!ENTITY  versioninfo.waiting             "यसले केही मिनेट लिन सक्छ…">
 
-
-
-
-
-
-
-
-
+<!ENTITY  installerrors.wizard.title      "अद्यावधिकहरु स्थापना गर्दा समस्या भयो">
 
 <!-- general strings used by several of the finish pages -->
 
-
+<!ENTITY  enableChecking.label            "&brandShortName; लाई अद्यावधिक जाँच गर्न अनुमति दिनुहोस्।">

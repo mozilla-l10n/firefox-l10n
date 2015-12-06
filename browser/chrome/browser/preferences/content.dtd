@@ -7,13 +7,13 @@
 <!ENTITY  blockPopups.label           "पप-अप सञ्झ्यालहरूलाई अवरुद्द गर्नुहोस्">
 <!ENTITY  blockPopups.accesskey       "B">
 
+<!ENTITY  notificationsPolicyLearnMore.label   "अझै जान्नुहोस्">
+<!ENTITY  notificationsPolicyDesc3.label       "कुन-कुन साइटहरुलाई तपाईँलाई सूचना पठाउने अनुमति दिन चहानुहुन्छ, छान्नुहोस्">
 
 
 
 
-
-
-
+<!ENTITY  notificationsDoNotDisturbDetails.value "तपाईंले &brandShortName; पुनः सुरु नगरेसम्म कुनै सूचना देखाइनेछैन">
 
 <!ENTITY  popupExceptions.label       "अपवादहरू...">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -37,7 +37,8 @@
 <!ENTITY chooseButton.label           "छान्नुहोस् ...">
 <!ENTITY chooseButton.accesskey       "o">
 
-
+<!ENTITY translateWebPages.label      "वेब सामग्री अनुवाद गर्नुहोस्">
+<!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "अपवादहरू....">
 <!ENTITY translateExceptions.accesskey "x">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -49,6 +50,8 @@
   -->
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM सामग्री">
 
-
+<!ENTITY  playDRMContent.label         "DRM सामग्री प्ले गर्नुहोस्">
+<!ENTITY  playDRMContent.accesskey     "P">
 

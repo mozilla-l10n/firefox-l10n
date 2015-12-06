@@ -23,9 +23,10 @@
 
 
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "क्र्यास प्रतिवेद पठाउनुहोस्">
 
-
-
+<!ENTITY report.submitted                                    "क्र्यास प्रतिवेदन पठाइयो।">
+<!ENTITY report.disabled                                     "क्र्यास प्रतिवेदन निस्क्रिय गरिएको छ।">
 
 
 
