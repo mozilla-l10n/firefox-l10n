@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Preferencias de envío">
 <!ENTITY sendMail.title               "Formato del texto">
+<!ENTITY autoDowngrade.label          "Enviar mensajes como texto plano si es posible">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Cuando se envía un mensaje en formato HTML y uno o más de los destinatarios no están listados como capaces de recibir correo HTML:">
 <!ENTITY askMe.label                  "Preguntarme qué hacer">
 <!ENTITY askMe.accesskey              "k">

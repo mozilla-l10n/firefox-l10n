@@ -35,4 +35,4 @@ alterando su conexión.</b>">
 <!ENTITY certerror.expert.contentPara2 "No agregue una excepción a menos que
 conozca que hay una buena razón para que este sitio no use una identificación confiable.">
 <!ENTITY certerror.addException.label "Agregar excepción…">
-
+<!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
