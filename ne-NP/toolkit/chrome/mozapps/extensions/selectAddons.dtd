@@ -26,6 +26,7 @@
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 
+<!ENTITY action.disable.heading      "निम्न एड-अन अक्षम पारिनेछ:">
 
 
 

@@ -20,7 +20,7 @@
 <!ENTITY  paneApplications.title  "एप्लिकेसनहरू">
 <!ENTITY  panePrivacy.title       "गोपनीयता">
 <!ENTITY  paneSecurity.title      "सुरक्षा">
-<!ENTITY  paneAdvanced.title      "अग्रिम">
+<!ENTITY  paneAdvanced.title      "एड्भान्स्ड">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "सिङ्क">

@@ -103,12 +103,12 @@
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "पुष्टि गर्नुहोस्">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ले अब तपाईंको सिङ्क खातामा सबै उपकरणको ब्राउजर डाटा मर्ज गर्नेछ।">
 <!ENTITY confirm.client3.label         "चेतावनी: यस उपकरणमा निम्न &brandShortName; डाटा  मेटिने छ:">
-
-
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; ले त्यसपछि यो उपकरणमा तपाईँको &syncBrand.fullName.label; डाटा प्रतिलिपि गर्नेछ।">
+<!ENTITY confirm.server2.label         "चेतावनी: निम्न उपकरणहरूमा तपाईँको स्थानीय डाटा अधिलेखित गरिनेछ:">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "सेटअप समाप्त">
-
-
+<!ENTITY changeOptions.label "तपाईं तलबाट सिङ्क विकल्प चयन गरेर यस प्राथमिकता परिवर्तन गर्न सक्नुहुन्छ।">
+<!ENTITY continueUsing.label "तपाईं अब &brandShortName; उपयोग जारी हुन सक्छ।">
