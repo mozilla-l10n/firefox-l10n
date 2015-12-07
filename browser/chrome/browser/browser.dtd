@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "नयाँ सञ्झ्याल">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "नयाँ निजी सन्झ्याल">
+<!ENTITY newPrivateWindow.label     "नयाँ निजी सञ्झ्याल">
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "नयाँ Non-e10s विन्डो">
 

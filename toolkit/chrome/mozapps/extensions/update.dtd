@@ -5,16 +5,18 @@
 <!ENTITY  updateWizard.title              "&brandShortName; अद्यावधिकहरू:">
 
 
+<!ENTITY  offline.toggleOffline.label     "अनलाइन जानुहोस् ।">
+<!ENTITY  offline.toggleOffline.accesskey "G">
+
+<!ENTITY  mismatch.win.title              "असमर्थित एड-अनहरू">
 
 
 
 
 
 
-
-
-
-
+<!ENTITY  found.wizard.title               "समर्थित एड-अनहरू भेटिए">
+<!ENTITY  found.top.label                 "स्थापना गर्न चाहनुभएको एड-अनहरू छान्नुहोस्:">
 
 <!ENTITY  found.enableXPInstall.label     "Allow web sites to install software">
 <!ENTITY  found.enableXPInstall.accesskey "A">

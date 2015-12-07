@@ -4,11 +4,13 @@
 
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
+<!ENTITY checking.heading            "तपाईँका एड-अनहरू जाँच्दै">
 
 
+<!ENTITY select.heading              "तपाईँका एड-अनहरू छान्नुहोस्">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-
+<!ENTITY select.keep                 "राख्नुहोस्">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
 <!ENTITY select.keep.style           "width: 6ch;">
@@ -23,6 +25,7 @@
      selectAddons.properties. -->
 <!ENTITY select.name.style           "width: 33ch;">
 
+<!ENTITY confirm.heading             "तपाईँका एड-अनहरू छान्नुहोस्">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 
@@ -31,6 +34,7 @@
 
 
 
+<!ENTITY update.heading              "तपाईँका एड-अनहरू अद्यावधि गर्दै">
 
 
 
