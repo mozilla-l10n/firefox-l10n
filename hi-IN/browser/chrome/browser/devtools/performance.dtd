@@ -72,11 +72,11 @@
 <!ENTITY performanceUI.table.selfDuration             "स्व समय">
 
 <!ENTITY performanceUI.table.totalPercentage          "कुल लागत">
-
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "इस प्रकार्य व इसके द्वारा बुलाये गए प्रकार्य में व्यतीत समय अवधि प्रतिशत में |">
 <!ENTITY performanceUI.table.selfPercentage           "स्वयं लागत">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "केवल इस समारोह के भीतर अधिक समय बिताये.">
 <!ENTITY performanceUI.table.samples                  "नमूना">
-
+<!ENTITY performanceUI.table.samples.tooltip          "प्रोफ़ाइलर द्वारा नमूना लिए जा रहे समय यह प्रकार्य के स्टैक में होने की संख्या |">
 <!ENTITY performanceUI.table.function                 "फंक्शन">
 <!ENTITY performanceUI.table.function.tooltip         "नमूना समारोह के नाम और स्रोत स्थान.">
 <!ENTITY performanceUI.table.totalAlloc               "कुल नमूना आवंटन">
@@ -145,4 +145,6 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
+
+<!ENTITY performanceUI.console.stopCommandStart "प्रविष्ट कर रिकॉर्डिंग रोकें">
 <!ENTITY performanceUI.console.stopCommandEnd   "कंसोल में">
