@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY title           "Install Add-on">
-<!ENTITY intro           "Another program on your computer would like to modify
-                          &brandShortName; with the following add-on:">
-<!ENTITY warning         "Install add-ons only from authors whom you trust.">
-<!ENTITY allow           "Allow this installation">
-<!ENTITY later           "You can always change your mind at any time by going
-                          to the Add-ons Manager.">
-<!ENTITY continue        "Continue">
-<!ENTITY restartMessage  "You must restart &brandShortName; to finish installing this add-on.">
-<!ENTITY restartButton   "Restart &brandShortName;">
-<!ENTITY cancelButton    "Cancel">
+<!ENTITY title           "Moĩmbaha ñemohenda">
+<!ENTITY intro           "Ambue tembiaporape nemohendahápe omoambuese 
+&brandShortName; ko moimbaha ndive:">
+<!ENTITY warning         "Emohenda moĩmbaha umi ejeroviaveha añógui.">
+<!ENTITY allow           "Emoneĩ ko ñemohenda">
+<!ENTITY later           "Tapiaite ikatu emoambue neremiandu péicha eipotáramo 
+tembipuru'i ñangarekohára rupi.">
+<!ENTITY continue        "Jejapojeyjey ">
+<!ENTITY restartMessage  "Emoñepyrũjeyva'erã &brandShortName; embopaha hag̃ua ko moimbaha ñemohenda.">
+<!ENTITY restartButton   "&brandShortName; moñepyrũjey">
+<!ENTITY cancelButton    "Heja">

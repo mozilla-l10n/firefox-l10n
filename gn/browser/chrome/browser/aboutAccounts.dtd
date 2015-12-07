@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "Welcome to &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Account connected">
+<!ENTITY aboutAccounts.welcome "Tereg̃uahẽporãite &syncBrand.shortName.label;-pe">
+<!ENTITY aboutAccounts.connected "Mba'ete jeikekuaahápe">
 
-<!ENTITY aboutAccountsConfig.description "Sign in to sync your tabs, bookmarks, passwords &amp; more.">
-<!ENTITY aboutAccountsConfig.startButton.label "Get started">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Using an older version of Sync?">
-<!ENTITY aboutAccountsConfig.syncPreferences.label "Sync preferences">
-<!ENTITY aboutAccounts.noConnection.title "No connection">
-<!ENTITY aboutAccounts.noConnection.description "You must be connected to the Internet to sign in.">
-<!ENTITY aboutAccounts.noConnection.retry "Try again">
+<!ENTITY aboutAccountsConfig.description "Eñepyrũ tembiapo embojuehe hag̃ua tendayke, techaukaha, ñe'ẽñemi ha hetave. ">
+<!ENTITY aboutAccountsConfig.startButton.label "Eñepyrũ">
+<!ENTITY aboutAccountsConfig.useOldSync.label "Reipurúpa Mbojuehegua ymaguaréva.">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Jerohoryvéva mbojuehe">
+<!ENTITY aboutAccounts.noConnection.title "Jeikekatu'ỹ">
+<!ENTITY aboutAccounts.noConnection.description "Eikeva'erã ñandutípe eñepyrũ hag̃ua ko tembiapo.">
+<!ENTITY aboutAccounts.noConnection.retry "Eha'ã jey">

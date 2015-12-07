@@ -1,124 +1,124 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Library">
+
+<!ENTITY places.library.title  "Mba'erysýi">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Organize">
-<!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+<!ENTITY organize.label        "Japokuaa">
+<!ENTITY organize.accesskey    "J">
+<!ENTITY organize.tooltip      "Embohekokatu nde rechaukahakuéra">
 
-<!ENTITY file.close.label               "Close">
+<!ENTITY file.close.label               "Mboty">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "Views">
+<!ENTITY views.label                    "Hechaha">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "Change your view">
-<!ENTITY view.columns.label             "Show Columns">
+<!ENTITY views.tooltip                  "Hechaha moambue">
+<!ENTITY view.columns.label             "Yta rechaukaha">
 <!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sort.label                "Sort">
-<!ENTITY view.sort.accesskey            "S">
-<!ENTITY view.unsorted.label            "Unsorted">
-<!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A > Z Sort Order">
+<!ENTITY view.sort.label                "Mohenda">
+<!ENTITY view.sort.accesskey            "M">
+<!ENTITY view.unsorted.label            "Mohenda'ỹva">
+<!ENTITY view.unsorted.accesskey        "M">
+<!ENTITY view.sortAscending.label       "A > Z ñemohenda">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z > A Sort Order">
-<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY view.sortDescending.label      "A > Z ñemohenda">
+<!ENTITY view.sortDescending.accesskey  "A">
 
-<!ENTITY importBookmarksFromHTML.label     "Import Bookmarks from HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Techaukaha mba'ereru HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Export Bookmarks to HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Techaukaha mba'ereraha HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Import Data from Another Browser…">
+<!ENTITY importOtherBrowser.label          "Mba'ekuaarã mba'ereru gui…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
-<!ENTITY cmd.backup.label               "Backup…">
-<!ENTITY cmd.backup.accesskey           "B">
-<!ENTITY cmd.restore2.label             "Restore">
+<!ENTITY cmd.backup.label               "Mbokuatia...">
+<!ENTITY cmd.backup.accesskey           "M">
+<!ENTITY cmd.restore2.label             "Mbojevy">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Choose File…">
-<!ENTITY cmd.restoreFromFile.accesskey  "C">
+<!ENTITY cmd.restoreFromFile.label      "Marandurenda Poravo…">
+<!ENTITY cmd.restoreFromFile.accesskey  "P">
 
-<!ENTITY cmd.bookmarkLink.label         "Bookmark This Page…">
+<!ENTITY cmd.bookmarkLink.label         "Kuatiarogue techaukaháre mbojuapy…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Delete This Page">
-<!ENTITY cmd.delete.accesskey           "D">
-<!ENTITY cmd.deleteDomainData.label     "Forget About This Site">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
+<!ENTITY cmd.delete.label               "Ko kuatiarogue Ñembogue">
+<!ENTITY cmd.delete.accesskey           "Ñ">
+<!ENTITY cmd.deleteDomainData.label     "Ko Ñanduti Rendágui Tesarái">
+<!ENTITY cmd.deleteDomainData.accesskey "T">
 
-<!ENTITY cmd.open.label                  "Open">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Open in a New Window">
+<!ENTITY cmd.open.label                  "Jeike">
+<!ENTITY cmd.open.accesskey              "J">
+<!ENTITY cmd.open_window.label           "Ovetã Pyahúpe jeike">
 <!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "Open in a New Private Window">
+<!ENTITY cmd.open_private_window.label     "Ovetã ñemi pyahúpe jeike">
 <!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Open in a New Tab">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "Open All in Tabs">
+<!ENTITY cmd.open_tab.label              "Tendayke Pyahúpe jeike">
+<!ENTITY cmd.open_tab.accesskey          "h">
+<!ENTITY cmd.open_all_in_tabs.label      "Tendayképe jeikepa">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
-<!ENTITY cmd.properties.label      "Properties">
-<!ENTITY cmd.properties.accesskey  "i">
+<!ENTITY cmd.properties.label      "Mba'ejára">
+<!ENTITY cmd.properties.accesskey  "M">
 
-<!ENTITY cmd.sortby_name.label              "Sort By Name">
-<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.sortby_name.label              "Teraite rupi Ñemohenda">
+<!ENTITY cmd.sortby_name.accesskey          "Ñ">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "New Bookmark…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "New Folder…">
-<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.new_bookmark.label            "Techaukaha pyahu...">
+<!ENTITY cmd.new_bookmark.accesskey        "p">
+<!ENTITY cmd.new_folder.label              "Ñongatuha pyahu...">
+<!ENTITY cmd.new_folder.accesskey          "p">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "New Separator">
+<!ENTITY cmd.new_separator.label           "Mopa'ũha pyahu">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Reload Live Bookmark">
+<!ENTITY cmd.reloadLivebookmark.label      "Techaukaha oku'éva myenyhẽjey">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  "Move…">
+<!ENTITY cmd.moveBookmarks.label                  "Gueraha…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
-<!ENTITY col.name.label          "Name">
-<!ENTITY col.tags.label          "Tags">
-<!ENTITY col.url.label           "Location">
-<!ENTITY col.mostrecentvisit.label "Most Recent Visit">
-<!ENTITY col.visitcount.label    "Visit Count">
-<!ENTITY col.description.label   "Description">
-<!ENTITY col.dateadded.label     "Added">
-<!ENTITY col.lastmodified.label  "Last Modified">
+<!ENTITY col.name.label          "Téra">
+<!ENTITY col.tags.label          "Teramoĩ">
+<!ENTITY col.url.label           "Tendaréra">
+<!ENTITY col.mostrecentvisit.label "Jeike ramo pyahuvéva">
+<!ENTITY col.visitcount.label    "Jeikekuéra papapy">
+<!ENTITY col.description.label   "Moha'ãnga">
+<!ENTITY col.dateadded.label     "Mbojoapypyre">
+<!ENTITY col.lastmodified.label  "Ñemoambue paha">
 
-<!ENTITY search.label                              "Search:">
+<!ENTITY search.label                              "Heka:">
 <!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Import and Backup">
+<!ENTITY maintenance.label      "Mba'ereru ha jepytaso">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip    "Nde rechahaukakuéra mba'ereru ha mba'ereraha">
 
-<!ENTITY backButton.tooltip  "Go back">
+<!ENTITY backButton.tooltip  "Tapykuévo jeho">
 
-<!ENTITY forwardButton.tooltip  "Go forward">
+<!ENTITY forwardButton.tooltip  "Tenonde jeho">
 
-<!ENTITY detailsPane.more.label "More">
+<!ENTITY detailsPane.more.label "Hetave">
 <!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "Less">
+<!ENTITY detailsPane.less.label "Sa'ive">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.selectAnItemText.description "Select an item to view and edit its properties">
+<!ENTITY detailsPane.selectAnItemText.description "Eiporavo peteĩ mba'epuru ehecha ha embosako'i hag̃ua imba'etee">
 
-<!ENTITY find.label               "Search:">
+<!ENTITY find.label               "Heka:">
 <!ENTITY find.accesskey           "S">
-<!ENTITY view.label               "View">
+<!ENTITY view.label               "Hecha">
 <!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "By Date">
+<!ENTITY byDate.label             "Arange rupi">
 <!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "By Site">
+<!ENTITY bySite.label             "Tenda rupi">
 <!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "By Most Visited">
+<!ENTITY byMostVisited.label      "Jeike papapy hetave rupi">
 <!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "By Last Visited">
+<!ENTITY byLastVisited.label      "Jeike pahaite rupi">
 <!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "By Date and Site">
+<!ENTITY byDayAndSite.label       "Arange ha tenda rupi">
 <!ENTITY byDayAndSite.accesskey   "t">

@@ -1,66 +1,66 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "Page Setup">
 
-<!ENTITY basic.tab           "Format &amp; Options">
+<!ENTITY printSetup.title    "Kuatiarogue ñembohekopyahu">
 
-<!ENTITY formatGroup.label   "Format">
+<!ENTITY basic.tab           "Ysaja ha poravopyrã">
 
-<!ENTITY orientation.label   "Orientation:">
-<!ENTITY portrait.label      "Portrait">
+<!ENTITY formatGroup.label   "Ysaja">
+
+<!ENTITY orientation.label   "Jehesape'a:">
+<!ENTITY portrait.label      "Oñembo'ýva">
 <!ENTITY portrait.accesskey  "P">
-<!ENTITY landscape.label     "Landscape">
+<!ENTITY landscape.label     "Oñenóva">
 <!ENTITY landscape.accesskey "L">
 
-<!ENTITY scale.label         "Scale:">
+<!ENTITY scale.label         "Jupiha:">
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
+<!ENTITY shrinkToFit.label   "Emoĩporã kuatiarogue pykuépe">
 <!ENTITY shrinkToFit.accesskey "W">
 
-<!ENTITY optionsGroup.label  "Options">
+<!ENTITY optionsGroup.label  "Jeporavorã">
 
-<!ENTITY printBG.label       "Print Background (colors &amp; images)">
+<!ENTITY printBG.label       "Tugua monguatia (sa'y ha mba'era'ãnga)">
 <!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "Margins &amp; Header/Footer">
+<!ENTITY advanced.tab        "Tembe'y ha kuatiarogue myakãha/py">
 
-<!ENTITY marginGroup.label   "Margins (#1)">
-<!ENTITY marginUnits.inches  "inches">
-<!ENTITY marginUnits.metric  "millimeters">
-<!ENTITY marginTop.label     "Top:">
+<!ENTITY marginGroup.label   "Tembe'y (#1)">
+<!ENTITY marginUnits.inches  "ha'ãha">
+<!ENTITY marginUnits.metric  "ha'ãha'i">
+<!ENTITY marginTop.label     "Yvatevéva:">
 <!ENTITY marginTop.accesskey "T">
-<!ENTITY marginBottom.label  "Bottom:">
+<!ENTITY marginBottom.label  "Michĩvéva:">
 <!ENTITY marginBottom.accesskey "B">
-<!ENTITY marginLeft.label    "Left:">
+<!ENTITY marginLeft.label    "Asu:">
 <!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginRight.label   "Right:">
+<!ENTITY marginRight.label   "Akatúa:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "Headers &amp; Footers">
+<!ENTITY headerFooter.label  "Myakãha ha py">
 
-<!ENTITY hfLeft.label        "Left:">
-<!ENTITY hfCenter.label      "Center:">
-<!ENTITY hfRight.label       "Right:">
-<!ENTITY headerLeft.tip      "Left header">
-<!ENTITY headerCenter.tip    "Center header">
-<!ENTITY headerRight.tip     "Right header">
-<!ENTITY footerLeft.tip      "Left footer">
-<!ENTITY footerCenter.tip    "Center footer">
-<!ENTITY footerRight.tip     "Right footer">
+<!ENTITY hfLeft.label        "Asu:">
+<!ENTITY hfCenter.label      "Mombyte:">
+<!ENTITY hfRight.label       "Akatúa:">
+<!ENTITY headerLeft.tip      "Myakãha asúva">
+<!ENTITY headerCenter.tip    "Myakãha mbyteguáva">
+<!ENTITY headerRight.tip     "Myakãha akatuagua">
+<!ENTITY footerLeft.tip      "Py asugua">
+<!ENTITY footerCenter.tip    "Py mbyteguáva">
+<!ENTITY footerRight.tip     "Py akatuagua">
 
-<!ENTITY hfTitle             "Title">
-<!ENTITY hfURL               "URL">
-<!ENTITY hfDateAndTime       "Date/Time">
-<!ENTITY hfPage              "Page #">
-<!ENTITY hfPageAndTotal      "Page # of #">
-<!ENTITY hfBlank             "--blank--">
-<!ENTITY hfCustom            "Custom…">
+<!ENTITY hfTitle             "Teratee:">
+<!ENTITY hfURL               "Kundaharape">
+<!ENTITY hfDateAndTime       "Arange/aravo">
+<!ENTITY hfPage              "Kuatiarogue #">
+<!ENTITY hfPageAndTotal      "Kuatiarogue # pe #">
+<!ENTITY hfBlank             "--nandi--">
+<!ENTITY hfCustom            "Ñemomba'epyre…">
 
-<!ENTITY customPrompt.title  "Custom…">
-<!ENTITY customPrompt.prompt "Enter your custom header/footer text">
+<!ENTITY customPrompt.title  "Ñemomba'epyre…">
+<!ENTITY customPrompt.prompt "Emoinge nemoñe'ẽrã mba'etéva myakãha/pýva">

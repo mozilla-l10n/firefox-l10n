@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  history.title             "Update History">
-<!ENTITY  history.intro             "The following updates have been installed:">
-<!ENTITY  closebutton.label         "Close">
+<!ENTITY  history.title             "Ñembohekopyahu rembiasakue">
+<!ENTITY  history.intro             "Oñemohendapáma ko'ã ñembohekopyahu:">
+<!ENTITY  closebutton.label         "Mboty">
                                      
-<!ENTITY  noupdates.label           "No updates installed yet">
+<!ENTITY  noupdates.label           "Ndaipóri gueteri ñembohekopyahu oñemohendapyréva">
 
-<!ENTITY  name.header               "Update Name">
-<!ENTITY  date.header               "Install Date">
-<!ENTITY  type.header               "Type">
-<!ENTITY  state.header              "State">
+<!ENTITY  name.header               "Ñembohekopyahu réra">
+<!ENTITY  date.header               "Ñembohekopyahu arange">
+<!ENTITY  type.header               "Mba'eichagua">
+<!ENTITY  state.header              "Tekotee">
 

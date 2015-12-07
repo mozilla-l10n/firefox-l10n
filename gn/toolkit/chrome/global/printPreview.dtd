@@ -2,20 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY print.label          "Print…">
+<!ENTITY print.label          "Mbokuatia">
 <!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "Page Setup…">
+<!ENTITY pageSetup.label      "Embopyahu tenda...">
 <!ENTITY pageSetup.accesskey  "u">
-<!ENTITY page.label           "Page:">
+<!ENTITY page.label           "Kuatiarogue:">
 <!ENTITY page.accesskey       "a">
-<!ENTITY of.label             "of">
-<!ENTITY scale.label          "Scale:">
+<!ENTITY of.label             "pe">
+<!ENTITY scale.label          "Jupiha:">
 <!ENTITY scale.accesskey      "S">
-<!ENTITY portrait.label       "Portrait">
+<!ENTITY portrait.label       "Oñembo'ýva">
 <!ENTITY portrait.accesskey   "o">
-<!ENTITY landscape.label      "Landscape">
+<!ENTITY landscape.label      "Oñenóva">
 <!ENTITY landscape.accesskey  "L">
-<!ENTITY close.label          "Close">
+<!ENTITY close.label          "Mboty">
 <!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
@@ -29,11 +29,11 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "Custom…">
-<!ENTITY ShrinkToFit.label    "Shrink To Fit">
-<!ENTITY customPrompt.title   "Custom Scale…">
+<!ENTITY Custom.label         "Ñemomba'epyre…">
+<!ENTITY ShrinkToFit.label    "Kuatiarogue ñemoĩporã">
+<!ENTITY customPrompt.title   "Jupiha ñemomba'epyre…">
 
-<!ENTITY homearrow.tooltip    "First page">
-<!ENTITY endarrow.tooltip     "Last page">
-<!ENTITY nextarrow.tooltip    "Next page">
-<!ENTITY previousarrow.tooltip "Previous page">
+<!ENTITY homearrow.tooltip    "Kuatiarogue peteïha">
+<!ENTITY endarrow.tooltip     "Kuatiarogue paha">
+<!ENTITY nextarrow.tooltip    "Kuatiarogue upeigua">
+<!ENTITY previousarrow.tooltip "Kuatiarogue mboyvegua">

@@ -2,37 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY playButton.playLabel "Play">
-<!ENTITY playButton.pauseLabel "Pause">
-<!ENTITY muteButton.muteLabel "Mute">
-<!ENTITY muteButton.unmuteLabel "Unmute">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
-<!ENTITY castingButton.castingLabel "Cast to Screen">
+<!ENTITY playButton.playLabel "Mboheta">
+<!ENTITY playButton.pauseLabel "Mombyta">
+<!ENTITY muteButton.muteLabel "Mokirirĩ">
+<!ENTITY muteButton.unmuteLabel "Mba'epu mbojevy">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Mba'erechaha tuichavéva">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Mba'erechaha tuichavévagui ñesẽ">
+<!ENTITY castingButton.castingLabel "Mba'erechaha ojuehéva">
 
-<!ENTITY stats.media "Media">
-<!ENTITY stats.size "Size">
-<!ENTITY stats.activity "Activity">
-<!ENTITY stats.activityPaused "Paused">
-<!ENTITY stats.activityPlaying "Playing">
-<!ENTITY stats.activityEnded "Ended">
-<!ENTITY stats.activitySeeking "(seeking)">
-<!ENTITY stats.volume "Volume">
-<!ENTITY stats.framesParsed "Frames parsed">
-<!ENTITY stats.framesDecoded "Frames decoded">
-<!ENTITY stats.framesPresented "Frames presented">
-<!ENTITY stats.framesPainted "Frames painted">
+<!ENTITY stats.media "Hupytyha">
+<!ENTITY stats.size "Tuichakue">
+<!ENTITY stats.activity "Tembiapo">
+<!ENTITY stats.activityPaused "Emombyta">
+<!ENTITY stats.activityPlaying "Ñemboheta">
+<!ENTITY stats.activityEnded "Opámava">
+<!ENTITY stats.activitySeeking "(ohekahína)">
+<!ENTITY stats.volume "Mbopuha">
+<!ENTITY stats.framesParsed "Mba'era'ãnga oĩmbapyréva">
+<!ENTITY stats.framesDecoded "Mba'era'ãnga papapy'óva">
+<!ENTITY stats.framesPresented "Mba'era'ãnga jehechaukapyre">
+<!ENTITY stats.framesPainted "Mba'era'ãnga jehechaukapyréva">
 
-<!ENTITY error.aborted "Video loading stopped.">
-<!ENTITY error.network "Video playback aborted due to a network error.">
-<!ENTITY error.decode "Video can't be played because the file is corrupt.">
-<!ENTITY error.srcNotSupported "Video format or MIME type is not supported.">
-<!ENTITY error.noSource2 "No video with supported format and MIME type found.">
-<!ENTITY error.generic "Video playback aborted due to an unknown error.">
-
+<!ENTITY error.aborted "Ojejoko ta'ãngamýi ñemyenyhẽ.">
+<!ENTITY error.network "Ta'ãndamýi ñemboheta ojejokóma ñanduti jejavy rupi.">
+<!ENTITY error.decode "Ndaikatúi emboheta ta'ãngamýi pe marandurenda imarã rupi.">
+<!ENTITY error.srcNotSupported "Ysaja térã MIME ta'ãngamýi rehegua noñemoneĩri.">
+<!ENTITY error.noSource2 "Ndojejuhúi mba'eveichagua ta'ãngamýi oguerekóva ysaja térã peteĩva MIME ojokupytýva.">
+<!ENTITY error.generic "Pe ta'ãngamýi ñemboheta ndoikomo'ãi peteĩ jejavy jeikuaa'ỹva rupi.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
-<!ENTITY scrubberScale.nameFormat "#1 of #2 elapsed">
+
+<!ENTITY scrubberScale.nameFormat "#1 of #2 ohasapyréva">

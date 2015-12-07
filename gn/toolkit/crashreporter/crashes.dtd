@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY crashes.title              "Submitted Crash Reports">
-<!ENTITY id.heading                 "Report ID">
-<!ENTITY date.heading               "Date Submitted">
-<!ENTITY noReports.label            "No crash reports have been submitted.">
-<!ENTITY noConfig.label             "This application has not been configured to display crash reports. The preference <code>breakpad.reportURL</code> must be set.">
-<!ENTITY clearAllReports.label      "Remove All Reports">
+<!ENTITY crashes.title              "Jejavy ñemondo momarandu">
+<!ENTITY id.heading                 "ID momarandu">
+<!ENTITY date.heading               "Ñemondo ára">
+<!ENTITY noReports.label            "Ndojeguerahaukái jejavy momarandu.">
+<!ENTITY noConfig.label             "Ko tembipuru'i noñembohekói ohechauka hag̃ua marandu'i jejavy rehegua. Oñembohekova'erã pe jerohoryvéva <code>breakpad.reportURL</code>.">
+<!ENTITY clearAllReports.label      "Opavave momarandu mbogue">
 

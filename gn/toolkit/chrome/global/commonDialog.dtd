@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "Brief Title"> 
-<!ENTITY message.label    "Some sample Text goes here.">
-<!ENTITY editfield0.label "User Name:"> 
-<!ENTITY editfield1.label "Password:"> 
-<!ENTITY checkbox.label   "check">
-<!ENTITY copyCmd.label    "Copy">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY header.label     "Teratee mombykypyre"> 
+<!ENTITY message.label    "Ko'ápe oho peteĩ moñe'ẽrã techapyrãramo.">
+<!ENTITY editfield0.label "Puruhára réra:"> 
+<!ENTITY editfield1.label "Ñe'ẽñemi:"> 
+<!ENTITY checkbox.label   "jehechajey">
+<!ENTITY copyCmd.label    "Emomokõi">
+<!ENTITY copyCmd.accesskey "E">
+<!ENTITY selectAllCmd.label "Embosa'ypa">
+<!ENTITY selectAllCmd.accesskey "E">

@@ -5,27 +5,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Choose User Profile">
+<!ENTITY            windowtitle.label      "&brandShortName; - Eiparavo peteĩ poruhára mba'ete">
 
-<!ENTITY            profilename.label      "Profile Name:">
+<!ENTITY            profilename.label      "Mba'ete réra:">
 
-<!ENTITY            start.label            "Start &brandShortName;">
-<!ENTITY            exit.label             "Exit">
+<!ENTITY            start.label            "&brandShortName; ñepyrũ">
+<!ENTITY            exit.label             "Ñesẽ">
 
-<!ENTITY            availprofiles.label    "Available Profiles">
+<!ENTITY            availprofiles.label    "Mba'ete ojepurukuaáva">
 
-<!ENTITY            newButton.label        "Create Profile…">
+<!ENTITY            newButton.label        "Emoheñói mba'ete…">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Rename Profile…">
+<!ENTITY            renameButton.label     "Emboherajey mba'ete…">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Delete Profile…">
+<!ENTITY            deleteButton.label     "Emboguete mba'ete…">
 <!ENTITY            deleteButton.accesskey "D">
-
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; stores information about your settings, preferences, and other user items in your user profile.">
 
-<!ENTITY            offlineState.label    "Work offline">
+<!ENTITY            pmDescription.label    "&brandShortName; oñongatu marandu ñembohekopyahu rehegua, jerororyvéva ha ambue mba'epuru puruhára imba'eteépe.">
+
+<!ENTITY            offlineState.label    "Jeikekatu'ỹme mba'apo">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
+<!ENTITY            useSelected.label       "Eipuru mba'ete poravopyre ejerure'ỹre ñepyrũha">
 <!ENTITY            useSelected.accesskey   "s">

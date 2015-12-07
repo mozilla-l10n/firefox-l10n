@@ -2,36 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Cut">
+<!ENTITY cutCmd.label "Kytĩ">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Paste">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY undoCmd.label "Undo">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Delete">
-<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY copyCmd.label "Monguatia">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Emboja">
+<!ENTITY pasteCmd.accesskey "E">
+<!ENTITY undoCmd.label "Mboguevi">
+<!ENTITY undoCmd.accesskey "M">
+<!ENTITY selectAllCmd.label "Embosa'ypa">
+<!ENTITY selectAllCmd.accesskey "E">
+<!ENTITY deleteCmd.label "Embogue">
+<!ENTITY deleteCmd.accesskey "E">
 
-<!ENTITY spellAddToDictionary.label "Add to Dictionary">
+<!ENTITY spellAddToDictionary.label "Ñe'ẽryrúre mbojuapy">
 <!ENTITY spellAddToDictionary.accesskey "o">
-<!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
+<!ENTITY spellUndoAddToDictionary.label "Emboguevi ñe'ẽryrúre mbojuapy">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.label "Jehai jehechajey">
 <!ENTITY spellCheckToggle.accesskey "g">
-<!ENTITY spellNoSuggestions.label "(No Spelling Suggestions)">
-<!ENTITY spellDictionaries.label "Languages">
-<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellNoSuggestions.label "(Ndaipóri ñe'ẽporã haingatu rehegua)">
+<!ENTITY spellDictionaries.label "Ñe'ẽita">
+<!ENTITY spellDictionaries.accesskey "L">
 
-<!ENTITY searchTextBox.clear.label "Clear">
+<!ENTITY searchTextBox.clear.label "Mopotĩ">
 
-<!ENTITY fillLoginMenu.label          "Fill Login">
+<!ENTITY fillLoginMenu.label          "Emonyhẽ jeikeha">
 <!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "Fill Password">
+<!ENTITY fillPasswordMenu.label       "Emyenyhẽ ñe'ẽñemi">
 <!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "Fill Username">
+<!ENTITY fillUsernameMenu.label       "Emoĩ puruhára réra">
 <!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(No Login Suggestions)">
-<!ENTITY viewSavedLogins.label        "View Saved Logins">
+<!ENTITY noLoginSuggestions.label     "(Ndaipóri ñe'ẽporã tembiapo ñepyrũ rehegua)">
+<!ENTITY viewSavedLogins.label        "Tenda ñepyrũ ñongatupyréva jehecha">

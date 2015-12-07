@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Guaraní
+#define MOZ_LANG_TITLE Guarani (Paraguay)

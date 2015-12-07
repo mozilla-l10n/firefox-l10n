@@ -2,47 +2,47 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY permissionsManager.title        "Permissions Manager">
+<!ENTITY permissionsManager.title        "Ñemoneĩ ñangarekoha">
 
-<!ENTITY sites.search                    "Search Sites">
-<!ENTITY sites.allSites                  "All Sites">
-
+<!ENTITY sites.search                    "Tendakuéra jeheka">
+<!ENTITY sites.allSites                  "Opaite tenda">
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
-<!ENTITY header.site.start               "Permissions for">
-<!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Default Permissions for All Sites">
+<!ENTITY header.site.start               "Ñemoneĩ g̃uarã">
+<!ENTITY header.site.end                 "Guarani">
 
-<!ENTITY permissions.forgetSite          "Forget About This Site">
+<!ENTITY header.defaults                 "Ñemoneĩ ijypykuéva opaite tendápe g̃uarã">
 
-<!ENTITY permission.alwaysAsk            "Always Ask">
-<!ENTITY permission.allow                "Allow">
-<!ENTITY permission.allowForSession      "Allow for Session">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
-<!ENTITY permission.block                "Block">
+<!ENTITY permissions.forgetSite          "Ko ñanduti rendágui tesarái">
 
-<!ENTITY password.label                  "Store Passwords">
-<!ENTITY password.manage                 "Manage Passwords…">
+<!ENTITY permission.alwaysAsk            "Porandu meme">
+<!ENTITY permission.allow                "Moneĩ">
+<!ENTITY permission.allowForSession      "Tembiapópe g̃uarã ñemoneĩ">
+<!ENTITY permission.allowFirstPartyOnly  "Ñepyrũguáva año moneĩ">
+<!ENTITY permission.block                "Jokoha">
 
-<!ENTITY cookie.label                    "Set Cookies">
-<!ENTITY cookie.remove                   "Remove Cookies">
-<!ENTITY cookie.manage                   "Manage Cookies…">
-<!ENTITY cookie.removeAll                "Remove All Cookies">
+<!ENTITY password.label                  "Ñe'ẽñemi ñongatu">
+<!ENTITY password.manage                 "Ñe'ẽñemi ñangareko…">
 
-<!ENTITY geo.label                       "Share Location">
+<!ENTITY cookie.label                    "Kookie jeguereko">
+<!ENTITY cookie.remove                   "Kookie mbogue">
+<!ENTITY cookie.manage                   "Kookie ñangareko…">
+<!ENTITY cookie.removeAll                "Kookie ñemboguepaite">
 
-<!ENTITY plugins.label                   "Plugins">
+<!ENTITY geo.label                       "Tendaite moherakuã">
 
+<!ENTITY plugins.label                   "Mboguejyrã'i">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Maintain Offline Storage">
 
-<!ENTITY popup.label                     "Open Pop-up Windows">
+<!ENTITY indexedDB.label                 "Mbyatypyre jeguereko jeikekatu'ỹre">
 
-<!ENTITY desktop-notification.label      "Show Notifications">
-<!ENTITY camera.label                    "Use the Camera">
-<!ENTITY microphone.label                "Use the Microphone">
+<!ENTITY popup.label                     "Ovetã apysẽme jeike">
+
+<!ENTITY desktop-notification.label      "Ñemomarandu jehechauka">
+<!ENTITY camera.label                    "Ta'ãngamýi jepuru">
+<!ENTITY microphone.label                "Ñe'ẽatãha jeporu">
 
 <!ENTITY focusSearch.key                 "f">

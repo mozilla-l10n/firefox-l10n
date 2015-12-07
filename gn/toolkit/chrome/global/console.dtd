@@ -2,36 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY errorConsole.title "Error Console">
+<!ENTITY errorConsole.title "Mba'e'oka osẽvaíva">
 
-<!ENTITY errFile.label   "Source File:">
-<!ENTITY errLine.label   "Line:">
-<!ENTITY errColumn.label "Column:">
+<!ENTITY errFile.label   "Marandurenda ypyguáva:">
+<!ENTITY errLine.label   "Tairenda:">
+<!ENTITY errColumn.label "Yta:">
 
-<!ENTITY all.label          "All">
+<!ENTITY all.label          "Opavave">
 <!ENTITY all.accesskey      "A">
-<!ENTITY errors.label       "Errors">
+<!ENTITY errors.label       "Jejavy">
 <!ENTITY errors.accesskey   "E">
-<!ENTITY warnings.label     "Warnings">
+<!ENTITY warnings.label     "Jesarekorã">
 <!ENTITY warnings.accesskey "W">
-<!ENTITY messages.label     "Messages">
+<!ENTITY messages.label     "Ñe'ẽmondo">
 <!ENTITY messages.accesskey "M">
-<!ENTITY clear.label        "Clear">
+<!ENTITY clear.label        "Mopotĩ">
 <!ENTITY clear.accesskey    "C">
-<!ENTITY codeEval.label     "Code:">
+<!ENTITY codeEval.label     "Ayvu:">
 <!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.label     "Evaluate">
+<!ENTITY evaluate.label     "Ñeha'ã">
 <!ENTITY evaluate.accesskey "v">
-<!ENTITY filter2.label      "Filter:">
+<!ENTITY filter2.label      "Mboguaha:">
 <!ENTITY filter2.accesskey  "F">
 
-<!ENTITY copyCmd.label       "Copy">  
-<!ENTITY copyCmd.accesskey   "C"> 
+<!ENTITY copyCmd.label       "Emomokõi">  
+<!ENTITY copyCmd.accesskey   "E"> 
 <!ENTITY copyCmd.commandkey  "C"> 
-<!ENTITY sortFirst.label     "First > Last Sort Order">
-<!ENTITY sortFirst.accesskey "f">
-<!ENTITY sortLast.label      "Last > First Sort Order">
-<!ENTITY sortLast.accesskey  "l">
+<!ENTITY sortFirst.label     "Ñemohendaite peteĩha > paháva">
+<!ENTITY sortFirst.accesskey "F">
+<!ENTITY sortLast.label      "Ñemohendaite paháva > peteĩha">
+<!ENTITY sortLast.accesskey  "L">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  

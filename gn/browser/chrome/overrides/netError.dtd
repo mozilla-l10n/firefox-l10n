@@ -5,222 +5,191 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problem loading page">
-<!ENTITY retry.label "Try Again">
-
+<!ENTITY loadError.label "Apañuái oñemyenyhẽvo kuatiarogue">
+<!ENTITY retry.label "Eha'ãjey">
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Unable to connect">
+
+<!ENTITY connectionFailure.title "Ndaikatúi eike">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "This address is restricted">
-<!ENTITY deniedPortAccess.longDesc "">
+<!ENTITY deniedPortAccess.title "Ko kundaharenda ndaikatúi eipuru">
+<!ENTITY deniedPortAccess.longDesc "Guarani">
 
-<!ENTITY dnsNotFound.title "Server not found">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.title "Mohendahavusu ndojejuhúiva">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Ehechajey kundaharape ndoguerekóipa jejavy ijehaípe 
+oikotevẽháicha <strong>ww</strong>.ejemplo.com rendaguépe 
+<strong>www</strong>.ejemplo.com</li> 
+<li>Ndaikatúiramo emyanyhẽ kuatiarogue, ehechajey jeikekatu 
+nemohendaha ñanduti rehegua.</li> 
+<li>Nemohendaha térã ñanduti oguerekóramo ñemo'ã peteĩ tatakytĩha 
+térã proxy, ehecháke &brandShortName; oguerekópa ñemoneĩ 
+oikekuaa hag̃ua ñandutípe.</li> 
+</ul>">
 
-<!ENTITY fileNotFound.title "File not found">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>Check the file name for capitalization or other typing errors.</li>
-  <li>Check to see if the file was moved, renamed or deleted.</li>
-</ul>
-">
+<!ENTITY fileNotFound.title "Marandurenda ndojejuhúiva">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Ehechajey marandurenda réra ndoguerekoiha jejavy 
+ijehaípe, avei taiguasu ojepurukuévo.</li> 
+<li>Ehechajey pe marandurenda noñemongu'éipa, oñembohéra ambue térã 
+oñemboguepyréva.</li> 
+</ul>">
 
 
-<!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "
-<p>&brandShortName; can't load this page for some reason.</p>
-">
+<!ENTITY generic.title "Ndi.">
+<!ENTITY generic.longDesc "<p>&brandShortName; ndaikatúi omyanyhẽ ko kuatiarogue oiméne mba'érepa.</p>">
 
-<!ENTITY malformedURI.title "The address isn't valid">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Web addresses are usually written like
-    <strong>http://www.example.com/</strong></li>
-  <li>Make sure that you're using forward slashes (i.e.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.title "Pe kundaharenda ndoikói">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Ñanduti kundharape ojehai tapia kóicha 
+<strong>http://www.ejemplo.com/</strong></li> 
+<li>Ema'ẽjey eipuru porãpa barra ojero'áva tenonde 
+gotyo (p.e. <strong>/</strong>.</li> 
+</ul>">
 
-<!ENTITY netInterrupt.title "The connection was interrupted">
+<!ENTITY netInterrupt.title "Pe jeike ojejokóma">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Kuatia oikove'ỹmava">
+<!ENTITY notCached.longDesc "<p>Kuatia jerurepyre noĩvéima ojepuru hag̃uáicha kache &brandShortName;-pe.</p><ul><li>Kyhyje tekorosãrãramo, &brandShortName; ndojeruremo'ãvéima ijehegui kuatiakuéra takate'ỹha.</li><li>Eikutu Ñeha'ãjey ejerure jey hag̃ua pe kuatia ñanduti renda pegua.</li></ul>">
 
-<!ENTITY netOffline.title "Offline mode">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.title "Jeikekatu'ỹre">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Ejopy &quot;Ha&apos;ã jey&quot; remoambue hag̃ua jeikekatúpe ha kuatiarogue myenyhẽjey.</li> 
+</ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.title "Tetepy mbopapapy jejavy">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Eñe'ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi.</li> 
+</ul>">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.title "Koichagua marandurenda hekotee'ỹva">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Eñe'ẽ ñanduti renda jára ndive emomarandu hag̃ua chupekuéra ko apañuãi rehegua.</li> 
+</ul>">
 
-<!ENTITY netReset.title "The connection was reset">
+<!ENTITY netReset.title "Jeike oñepyrũjeýma">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "The connection has timed out">
+<!ENTITY netTimeout.title "Pe jeike ndoikovéima">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "The address wasn't understood">
-<!ENTITY unknownProtocolFound.longDesc "
-<ul>
-  <li>You might need to install other software to open this address.</li>
-</ul>
-">
+<!ENTITY unknownProtocolFound.title "Pe kundaharape nahesakãi">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>Ikatu eikotevẽ emohenda ambue software eike hag̃ua ko kundaharapépe.</li> 
+</ul>">
 
-<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
-</ul>
-">
+<!ENTITY proxyConnectFailure.title "Mohendahavusu proxy ombotove jeike">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Ehechajey proxy ñemboheko eikuaaite hag̃ua 
+oĩ porãpa.</li> 
+<li>Eñe'ẽ ñanduti ñangarekohára ndive eikuaaite hag̃ua 
+mohendahavusu proxy oiko porãiteha.</li> 
+</ul>">
 
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
-<!ENTITY proxyResolveFailure.longDesc "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your computer has a working network connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.title "Ndaikatúi ojejuhu mohendahavusu proxy">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Ehechajey proxy ñemboheko eikuaa porã hag̃ua 
+oikoitetaha.</li> 
+<li>Ehechajey nemohendaha oguerekópa ñandutípe jeikekatu 
+ojepurukuaáva.</li> 
+<li>Nemohendaha térã ñanduti omo'ã chupe peteĩ tatakytĩha 
+térã proxy, ehechajeýke &brandShortName; oguerekópa ñemoneĩ 
+oike hag̃ua ñandutípe.</li> 
+</ul>">
 
-<!ENTITY redirectLoop.title "The page isn't redirecting properly">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
-    cookies.</li>
-</ul>
-">
+<!ENTITY redirectLoop.title "Ko kuatiarogue ndoguerahái hekoitépe">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Ko apañuãi oikokuaa reipe'a térã neremoneĩriramo 
+kookie ñeg̃uahẽ.</li> 
+</ul>">
 
-<!ENTITY unknownSocketType.title "Unexpected response from server">
-<!ENTITY unknownSocketType.longDesc "
-<ul>
-  <li>Check to make sure your system has the Personal Security Manager
-    installed.</li>
-  <li>This might be due to a non-standard configuration on the server.</li>
-</ul>
-">
+<!ENTITY unknownSocketType.title "Mbohovái eha'ãrõ'ỹva mohendahavusúgui">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Ehechajey nde apopyvusu oguerekópa ñangarekoha imba'eteéva 
+tekorosãrã mohendapyréva.</li> 
+<li>Kóva ikatu ojehuhína peteĩ ñemboheko oiko porã'ỹva 
+mohendahavusúpe rupi.</li> 
+</ul>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
-<!ENTITY nssFailure2.longDesc2 "
-<ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY nssFailure2.title "Jeikekatu jejavýva">
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Kuatiarogue eikeseha ndaikatúi ehecha mba'ekuaarã og̃uahẽva ndaijeroviakatúi ndojehechajeýi rupi.</li> 
+<li>Ikatúpiko, eñe'ẽmi ñanduti renda jára ndive ha emombe'umi chupekuéra ko apañuãi rehegua.</li> 
+</ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
-</ul>
-">
+<!ENTITY nssBadCert.title "Jeikekatu ojavy">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Ikatuhína peteĩ apañuãi mohendahavusu ñemboheko reheguáva, térã oiméne oĩ omyengoviaséva pe mohendahavusúpe.</li> 
+<li>Eikuaaporãramo eikekatúma hague ko mohendahavusúpe, pe jejavy ikatu sapy'aite g̃uarãnte ha ikatukuaáta eha'ãjey tenondemieve.</li> 
+</ul>">
 
-<!ENTITY sharedLongDesc "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few
-    moments.</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
-</ul>
-">
+<!ENTITY sharedLongDesc "<ul> 
+<li>Pe tenda ikatu hína ndojepurukuaái sapy'aitemi térã 
+ojepuruetereihína. Eha'ãjey ãgamieve.</li> 
+<li>Ndaikatúiramo emyanyhẽ mba'evéichagua kuatiarogue, ehechajey ijeikekatu 
+nemohendaha ñanduti peguápe.</li> 
+<li>Nemohendaha térã ñanduti omo'ã chupe tatakytĩha 
+térã proxy, ehecháke &brandShortName; oguerekópa moneĩ 
+oike hãgua ñandutípe.</li> 
+</ul>">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.title "¡Tenda hekomarãkuaáva!">
+<!ENTITY malwareBlocked.longDesc "<p>Ñanduti renda hekomarãva oñeha'ã omohenda tembiaporape ikatúva omonda marandu ñemiguáva, oipuru nemohendaha omoapañuãi hag̃ua ambuépe térã ombyai nde apopyvusu.</p>
+<p>Ñanduti renda jarakuéra ojehechakuaáva peteĩ tenda hekomarãvaramo ikatu <a href='http://www.stopbadware.org/home/reviewinfo' > ojerure ojehechajey hag̃ua</a>.</p>">
 
-<!ENTITY unwantedBlocked.title "Suspected Unwanted Software Site!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Unwanted software pages try to install software that can be deceptive and affect your system in unexpected ways.</p>
-">
+<!ENTITY unwantedBlocked.title "¡Ndojehechaporãmbái ko tenda!">
+<!ENTITY unwantedBlocked.longDesc "<p>Software kuatiarogue ojehayhu'ỹva omohendase software ivai ha ombyaikuaáva nemohendaha eha'ãrõ'ỹre.</p>">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY phishingBlocked.title "¡Ñanduti renda ha'ete hekomarãva!">
+<!ENTITY phishingBlocked.longDesc "<p>Oimeraẽva marandu avamba'éva ñemoinge ko kuatiaroguépe ikatu oipytyvõ téra ñemonda térã ambue mba'evairã.</p> 
+<p>Ko'ãichagua ñanduti vai ojepuru ojaho'i hag̃ua phishing (téra rekovia), kuatiarogue ha ñanduti veve ivaíva ojepuru oha'ãnga hag̃ua umi mba'e nde rejeroviaha.</p>">
 
-<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspBlocked.title "Ojejoko hetepy rekorosãrã purureko rupi">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ndohejái ko kuatiaroguépe oñemyañyhẽvo kóicha pe kuatiarogue oguereko rupi tetepy rekorosãrã purureko nomoneĩrĩva.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.title "Tetepy marãva jejavy">
+<!ENTITY corruptedContentError.longDesc "<p>Pe Kuatiarogue ehechaséva ndaikatúi ojehechauka ndéve ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ ko ñanduti renda jarakuéra ndive emomarandu hag̃ua chupekuéra ko apañuãi</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
-<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
-
+<!ENTITY securityOverride.linkText "Terã ikatu embojoapy oĩ'ỹva…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Cheguenohẽ ko'águi!">
+<!ENTITY securityOverride.exceptionButtonLabel "Embojoaju ambue mba'e">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>Ani embojoapy mba'eve oĩ'ỹva eipururõhína ñandutípe jeike nderejeroviapáirõ hese terã rehecháta marandu kyhyjerã ko tendápe.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY errorReporting.title "Report this error">
-<!ENTITY errorReporting.longDesc "Reporting the address and certificate information for <span id='hostname'></span> will help us identify and block malicious sites. Thanks for helping create a safer web!">
-<!ENTITY errorReporting.automatic "Automatically report errors in the future">
-<!ENTITY errorReporting.learnMore "Learn more…">
-<!ENTITY errorReporting.sending "Sending report">
-<!ENTITY errorReporting.sent "Report sent">
-<!ENTITY errorReporting.report "Report">
-<!ENTITY errorReporting.tryAgain "Try again">
+<!ENTITY errorReporting.title "Emomarandu ko jejavy rehegua">
+<!ENTITY errorReporting.longDesc "Emombe'u kundaharape marandu ha pe mboajepyréva <span id='hostname'></span> ñanepytyvõta jahechakuaa ha jajoko hag̃ua tenda imarãva. ¡Aguyje jepytyvõ haguére amoheñói hag̃ua peteĩ ñanduti jeroviaháva!">
+<!ENTITY errorReporting.automatic "Emomarandu pya'e jejavykuéra tenondeve g̃uarãva">
+<!ENTITY errorReporting.learnMore "Kuaave…">
+<!ENTITY errorReporting.sending "Marandu ñemondo">
+<!ENTITY errorReporting.sent "Marandu mondopyre">
+<!ENTITY errorReporting.report "Marandu">
+<!ENTITY errorReporting.tryAgain "Eha'ãjey">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "XUL okaygua">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Eñe'ẽ ñanduti renda jarakuéra ndive emomarandu hag̃ua chupekuéra ko apañuãi.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Unable to Connect Securely">
+<!ENTITY sslv3Used.title "Ndaikatúi eikekatu">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Advanced info: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "Learn More…">
+<!ENTITY sslv3Used.longDesc "Marandu ha'etéva: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.learnMore "Kuaave…">
 
-<!ENTITY weakCryptoUsed.title "Your connection is not secure">
+<!ENTITY weakCryptoUsed.title "Nde jeike ndahekokatúi">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
-<!ENTITY weakCryptoUsed.longDesc "Advanced info: ssl_error_no_cypher_overlap">
-<!ENTITY weakCryptoUsed.learnMore "Learn More…">
-<!ENTITY weakCryptoAdvanced.title "Advanced">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe.">
-<!ENTITY weakCryptoAdvanced.override "(Not secure) Try loading <span class='hostname'></span> using outdated security">
+<!ENTITY weakCryptoUsed.longDesc "Marandu opanungáva: ssl_error_no_cypher_overlap">
+<!ENTITY weakCryptoUsed.learnMore "Kuaave…">
+<!ENTITY weakCryptoAdvanced.title "Opanungáva">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> oipuru tembipuru pyahu tekorosãrã ituja ha ikangýmava mba'evai renondépe. Pe mba'evai ikatu ohechauka marandu nde eréva hekorosãha.">
+<!ENTITY weakCryptoAdvanced.override "(Jeroviaha'ỹva) Eñeha'ã emyenyhẽ <span class='hostname'></span> eipurukuévo tekorosãrã ndoikovéimava">

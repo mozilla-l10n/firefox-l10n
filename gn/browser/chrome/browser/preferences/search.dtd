@@ -2,31 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY defaultSearchEngine.label             "Default Search Engine">
+<!ENTITY defaultSearchEngine.label             "Jehakaha ijypykuéva">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Choose your default search engine. &brandShortName; uses it in the location bar, search bar, and start page.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Eiporavo nde jehekaha ijypykuéva. &brandShortName; oipuru kundaharape renda, jehekaha renda, ha avei kuatiarogue ñepyrũ.">
 
-<!ENTITY provideSearchSuggestions.label        "Provide search suggestions">
+<!ENTITY provideSearchSuggestions.label        "Eme'ẽ jehekaha je'epýva">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Show search suggestions in location bar results">
+<!ENTITY showURLBarSuggestions.label           "Mostrar sugerencias de búsqueda en la barra de direcciones y resultadosKundaharape renda ha apopyre jeheka jehechauka">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "Search suggestions will not be shown in location bar results because you have configured &brandShortName; to never remember history.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Jeheka je'epyréva ndojekuaamo'ãi kundaharape renda apopyrépe, oñembohekóma rupi &brandShortName; aníke nemandu'a tembiasakuére.">
 
-<!ENTITY redirectWindowsSearch.label "Use this search engine for searches from Windows">
+<!ENTITY redirectWindowsSearch.label "Eipuru ko hekaha eheka hag̃ua Windows rupi">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
-<!ENTITY oneClickSearchEngines.label           "One-click search engines">
+<!ENTITY oneClickSearchEngines.label           "Jehekaha mongu'eha jekutu peteĩva">
 
-<!ENTITY chooseWhichOneToDisplay.label         "The search bar lets you search alternate engines directly. Choose which ones to display.">
+<!ENTITY chooseWhichOneToDisplay.label         "La barra de búsqueda le permite buscar directamente los motores alternativos. Elija cuáles que se vea.Pe jehekaha renda neipytyvõ reheka hag̃ua pya'evehápe jehekaha ykepeguáva. Eiporavo mávapa ojehecháta.">
 
-<!ENTITY engineNameColumn.label                "Search Engine">
-<!ENTITY engineKeywordColumn.label             "Keyword">
+<!ENTITY engineNameColumn.label                "Jehekaha">
+<!ENTITY engineKeywordColumn.label             "Ñe'ẽ ñemigua">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Restore Default Search Engines">
-<!ENTITY restoreDefaultSearchEngines.accesskey "d">
+<!ENTITY restoreDefaultSearchEngines.label     "Embojevy ijypykuéva ha jehekaha mongu'eha">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
-<!ENTITY removeEngine.label                    "Remove">
-<!ENTITY removeEngine.accesskey                "r">
+<!ENTITY removeEngine.label                    "Pe'a">
+<!ENTITY removeEngine.accesskey                "R">
 
-<!ENTITY addMoreSearchEngines.label            "Add more search engines…">
+<!ENTITY addMoreSearchEngines.label            "Embojuajuve jehekaha…">

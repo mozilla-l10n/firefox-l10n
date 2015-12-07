@@ -2,113 +2,113 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
-
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; mbohekoha">
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label      "I Have an Account">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
+<!ENTITY setup.pickSetupType.description2 "¡Tereg̃uahẽporãite! Ndereipurúiramo &syncBrand.fullName.label; araka'eve, eikotevẽ emoheñói nemba'eterã.">
+<!ENTITY button.createNewAccount.label "Mba'ete pyahu moheñói">
+<!ENTITY button.haveAccount.label      "Aguereko che mba'ete">
 
+<!ENTITY setup.choicePage.title.label     "Reipurúpa &syncBrand.fullName.label; yma">
+<!ENTITY setup.choicePage.new.label       "Ndaipurúi araka'eve &syncBrand.shortName.label; yma">
+<!ENTITY setup.choicePage.existing2.label "Aipurúma &syncBrand.shortName.label; ambue mba'e'okápe">
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Server">
-<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
-<!ENTITY serverType.custom2.label   "Use a custom server…">
-<!ENTITY signIn.account2.label      "Account">
+
+<!ENTITY server.label               "Mohendahavusu">
+<!ENTITY serverType.default.label      "Ijypykuete: Mozilla &syncBrand.fullName.label; mohendahavusu">
+<!ENTITY serverType.custom2.label   "Mohendahavusu ñemomba'epyre jepuru…">
+<!ENTITY signIn.account2.label      "Mab'ete">
 <!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.password.label      "Password">
-<!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.recoveryKey.label       "Recovery Key">
+<!ENTITY signIn.password.label      "Ñe'ẽñemi">
+<!ENTITY signIn.password.accesskey  "Ñ">
+<!ENTITY signIn.recoveryKey.label       "Ñe'ẽñemi ñembojevyrã">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
-
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.emailAddress.label     "Email Address">
-<!ENTITY setup.emailAddress.accesskey "E">
-<!ENTITY setup.choosePassword.label      "Choose a Password">
-<!ENTITY setup.choosePassword.accesskey  "P">
-<!ENTITY setup.confirmPassword.label     "Confirm Password">
-<!ENTITY setup.confirmPassword.accesskey "m">
 
+<!ENTITY setup.newAccountDetailsPage.title.label "Mab'ete mba'emimi">
+<!ENTITY setup.emailAddress.label     "Ñandutiveve kundaharape">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.choosePassword.label      "Ñe'ẽñemi jeporavo">
+<!ENTITY setup.choosePassword.accesskey  "Ñ">
+<!ENTITY setup.confirmPassword.label     "Ñe'ẽñemi mboaje">
+<!ENTITY setup.confirmPassword.accesskey "m">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
-<!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Privacy Policy">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
 
+<!ENTITY setup.tosAgree1.label      "Amoneĩ umi">
+<!ENTITY setup.tosAgree1.accesskey  "A">
+<!ENTITY setup.tosLink.label        "Mba'epytyvõrã ñemboguata">
+<!ENTITY setup.tosAgree2.label      "ha pe">
+<!ENTITY setup.ppLink.label         "Porureko ñemiguáva">
+<!ENTITY setup.tosAgree3.label      "Guarani">
+<!ENTITY setup.tosAgree2.accesskey  "Guarani">
 <!-- My Recovery Key dialog -->
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY recoveryKeyEntry.label        "Your Recovery Key">
+
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; omomba'e neremiñemi">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Eñangareko hag̃ua neremiñemi tuichaháicha, opaite nemba'ekuaarã iñangarekoháva emondo mboyve ñandutípe. Ñe'ẽñemi jeguerujey ehecha hag̃ua umi mba'ekuaarã noñemondói.">
+<!ENTITY recoveryKeyEntry.label        "Neñe'ẽñemi jeguerujey">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
-<!ENTITY syncGenerateNewKey.label  "Generate a new key">
-<!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
+<!ENTITY syncGenerateNewKey.label  "Ñe'ẽñemi jeguerujey japo">
+<!ENTITY recoveryKeyBackup.description "Neñe'ẽñemi jeguerujey eikotevẽ eike hag̃ua &syncBrand.fullName.label;-pe ambue mohendaha rupi. Emoheñói peteĩ mbohetarã ko'ág̃a. Ndaikatúi roipytyvõ erekojey hag̃ua neñe'ẽñemi jeguerujey.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
-
+<!ENTITY button.syncKeyBackup.print.label     "Mbokuatia...">
+<!ENTITY button.syncKeyBackup.print.accesskey "M">
+<!ENTITY button.syncKeyBackup.save.label      "Ñongatu...">
+<!ENTITY button.syncKeyBackup.save.accesskey  "Ñ">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
-<!ENTITY pairDevice.title.label             "Pair a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "To activate your device you will need to enter your Recovery Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
 
+<!ENTITY pairDevice.title.label             "Mba'e'oka momba'apojoja">
+<!ENTITY addDevice.showMeHow.label          "Chembo'emína mba'éichapa.">
+<!ENTITY addDevice.dontHaveDevice.label     "Ndaguerekói pe mba'e'oka chendive.">
+<!ENTITY pairDevice.setup.description.label  "Emyandy hag̃ua, eiporavo &quot;Mba&apos;e&apos;oka momba&apos;apojoja&quot; pe ambue nemba&apos;e&apos;okápe.">
+<!ENTITY addDevice.setup.enterCode.label    "Uperire, emoinge ko ayvu:">
+<!ENTITY pairDevice.dialog.description.label "Emyandy hag̃ua nemba&apos;e&apos;oka pyahu, eiporavo &quot;Sync mboheko&quot; pe ambue nemba&apos;e&apos;okápe.">
+<!ENTITY addDevice.dialog.enterCode.label   "Ehai pe ayvu ome'ẽva pe mba'e'oka:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Eha'ã jey.">
+<!ENTITY addDevice.dialog.successful.label  "Ko mba'e'oka oñembojoapy hekopete. Ko ñembojuehe ñepyrũ ikatu hi'are heta aravo'i ha hu'ãta chehechakuaa'ỹre.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Emyendy hag̃ua nemba'e'oka eikotevẽ emoinge neñe'ẽñemi mbojevypyre. Embokuatia térã eñongatu ha egueraha nendive.">
+<!ENTITY addDevice.dialog.connected.label   "Mba'e'oka juajupyre">
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
-<!ENTITY verifying.label              "Verifying…">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
 
+<!ENTITY setup.signInPage.title.label "Eiképy">
+<!ENTITY existingRecoveryKey.description "Ikatu eguereko peteĩ monguatiapyre neñe&apos;ẽñemi jeguerujey ehóvo &syncBrand.shortName.label; poravorãme, ambue nemohendahápe ha eiporavo &quot;Che ñe&apos;ẽñemi jeguerujey&quot; &quot;Mba&apos;ete ñangarekoha&quot; poguýpe.">
+<!ENTITY verifying.label              "Ojehechajey...">
+<!ENTITY resetPassword.label          "Ñe'ẽñemi mbojevyjey">
+<!ENTITY resetSyncKey.label           "Okañy chehegui ambue che mba'e'oka.">
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
-<!ENTITY syncDeviceName.label       "Device Name:">
+
+<!ENTITY setup.optionsPage.title      "Sync jeporavorã">
+<!ENTITY syncDeviceName.label       "Mba'e'oka réra:">
 <!ENTITY syncDeviceName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "Mbojuehe">
+<!ENTITY engine.bookmarks.label     "Techaukaha">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.label          "Tendayke">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.label       "Tembiasakue">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.passwords.label     "Ñe'ẽñemi">
+<!ENTITY engine.passwords.accesskey "Ñ">
+<!ENTITY engine.prefs.label         "Ojeguerohoryvéva">
+<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "Moĩmbaha">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
-
+<!ENTITY choice2a.merge.main.label       "Embojehe'a ko mba'e'oka mba'ekuaarã &syncBrand.shortName.label; mba'ekuaarã rehe">
+<!ENTITY choice2.merge.recommended.label "Jeroviaháva:">
+<!ENTITY choice2a.client.main.label      "Emoambue umi mba'ekuaarã ko mba'e'oka pegua &syncBrand.shortName.label; mba'ekuaarã ndive">
+<!ENTITY choice2a.server.main.label      "Emoambue umi mba'ekuaarã ambue mba'e'oka rehegua ko'ã mba'ekuaarã rehegua ndive">
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
-<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
 
+<!ENTITY setup.optionsConfirmPage.title "Ñemoneĩ">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ombojehe'apaitéta kundaha mba'ekuaarã ko mba'e'oka rehegua nemba'ete Sync pegua ndive.">
+<!ENTITY confirm.client3.label         "Kyhyjerã: Ko'ã mba'ekuaarã &brandShortName; rehegua ko mba'e'oka pegua oñemboguepáta:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; ombohasáta mba'ekuaarãnguéra &syncBrand.fullName.label; rehegua ko mba'e'okápe.">
+<!ENTITY confirm.server2.label         "Kyhyjerã: Ko'ã mba'e'oka ojehaijo'áta nde mba'ekuaarã pypeguáva ndive:">
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+
+<!ENTITY setup.successPage.title "Ñemohenda opámava">
+<!ENTITY changeOptions.label "Ikatu remoambue ko jerohoryvéva eiporavóvo Sync rehegua iguypeveguáva.">
+<!ENTITY continueUsing.label "Ikatu eipuru gueteri &brandShortName;.">

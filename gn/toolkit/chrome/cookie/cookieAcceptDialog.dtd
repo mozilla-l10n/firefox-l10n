@@ -2,20 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY     props.name.label               "Name:">
-<!ENTITY     props.value.label              "Content:">
-<!ENTITY     props.domain.label             "Host:">
-<!ENTITY     props.path.label               "Path:">
-<!ENTITY     props.secure.label             "Send For:">
-<!ENTITY     props.expires.label            "Expires:">
+<!ENTITY     props.name.label               "Téra">
+<!ENTITY     props.value.label              "Pypegua:">
+<!ENTITY     props.domain.label             "Mohendahavusu:">
+<!ENTITY     props.path.label               "Tape:">
+<!ENTITY     props.secure.label             "Eguerahauka">
+<!ENTITY     props.expires.label            "Ndoikovéima:">
 
-<!ENTITY     button.allow.label             "Allow">
-<!ENTITY     button.allow.accesskey         "A">
-<!ENTITY     button.session.label           "Allow for Session">
-<!ENTITY     button.session.accesskey       "S">
-<!ENTITY     button.deny.label              "Deny">
+<!ENTITY     button.allow.label             "Moneĩ">
+<!ENTITY     button.allow.accesskey         "M">
+<!ENTITY     button.session.label           "Tembiapo Ñepyrũ Moneĩ">
+<!ENTITY     button.session.accesskey       "T">
+<!ENTITY     button.deny.label              "Ñembotove">
 <!ENTITY     button.deny.accesskey          "D">
 
-<!ENTITY     dialog.title                   "Confirm setting cookie">
-<!ENTITY     dialog.remember.label          "Use my choice for all cookies from this site">
+<!ENTITY     dialog.title                   "Emoneĩ kookie ñemohendaite">
+<!ENTITY     dialog.remember.label          "Aipuru che poravopy opaite kookie ko tenda pegua">
 <!ENTITY     dialog.remember.accesskey      "U">
