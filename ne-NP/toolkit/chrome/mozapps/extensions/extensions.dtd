@@ -27,11 +27,13 @@
 <!ENTITY showAllExtensions.button.label       "सबै एक्सटेन्सनहरू देखाउनुहोस्">
 <!-- global warnings -->
 
-<!ENTITY warning.checkcompatibility.enable.label   "सक्षम पार्नुहोस्">
+<!ENTITY warning.safemode.label                    "सबै एड-अनहरू सुरक्षित मोडद्वारा असक्षम गरिएको छ।">
 
+<!ENTITY warning.checkcompatibility.enable.label   "सक्षम पार्नुहोस्">
+<!ENTITY warning.checkcompatibility.enable.tooltip "एड-अन समर्थन जाँच सक्षम पार्नुहोस्">
 
 <!ENTITY warning.updatesecurity.enable.label       "सक्षम पार्नुहोस्">
-
+<!ENTITY warning.updatesecurity.enable.tooltip     "एड-अन अद्यावधिक सुरक्षा जाँच सक्षम पार्नुहोस्">
 <!-- global informations -->
 
 <!ENTITY info.plugincheck.label                 "तपाईँका प्लगिनहरू अद्यावधिक छन् भनेर जान्नुहोस्">
@@ -139,7 +141,7 @@
 <!ENTITY detail.updateAutomatic.label         "खुल्ला">
 <!ENTITY detail.updateAutomatic.tooltip       "अद्यावधिहरू स्वतः इन्स्टल गर्नुहोस्">
 <!ENTITY detail.updateManual.label            "बंन्द गर्नुहोस्">
-
+<!ENTITY detail.updateManual.tooltip          "स्वचालित अद्यावधिक स्थापना नगर्नुहोस्">
 <!ENTITY detail.home                          "गृहपृष्ठ">
 <!ENTITY detail.repository                    "एड-अन प्रोफाइल">
 <!ENTITY detail.size                          "साइज">
@@ -206,7 +208,7 @@
 <!ENTITY addon.checkingForUpdates.label       "अद्यावधिकहरूका लागि जाँच गर्नुहोस्…">
 <!ENTITY addon.releaseNotes.label             "रिलिज नोटहरू:">
 <!ENTITY addon.loadingReleaseNotes.label      "लोड हुँदैछ…">
-
+<!ENTITY addon.errorLoadingReleaseNotes.label "माफ गर्नुहोस्, तर रिलीज टिप्पणीहरू लोड गर्दा एउटा त्रुटि भयो।">
 
 <!ENTITY addon.createdBy.label                "सर्जक">
 
