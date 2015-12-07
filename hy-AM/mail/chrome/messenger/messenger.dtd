@@ -270,8 +270,8 @@
 <!ENTITY findCmd.label "Որոնել այս նամակում...">
 <!ENTITY findCmd.accesskey "Ո">
 <!ENTITY findCmd.key "Փ">
-<!ENTITY findAgainCmd.label "Կրկին փնտրել">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.label "Կրկին գտնել">
+<!ENTITY findAgainCmd.accesskey "ր">
 <!ENTITY findAgainCmd.key "Կ">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
@@ -605,7 +605,7 @@
 
 <!ENTITY folderContextGetMessages.label "Ստանալ նամակները">
 <!ENTITY folderContextGetMessages.accesskey "G">
-<!ENTITY folderContextOpenInNewWindow.label "Բացել Նոր պատուհանում">
+<!ENTITY folderContextOpenInNewWindow.label "Բացել նոր պատուհանում">
 <!ENTITY folderContextOpenInNewWindow.accesskey "Բ">
 <!ENTITY folderContextOpenNewTab.label "Բացել նոր ներդիրում">
 <!ENTITY folderContextOpenNewTab.accesskey "ն">

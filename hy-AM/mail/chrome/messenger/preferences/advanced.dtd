@@ -27,7 +27,7 @@
 <!ENTITY systemIntegration.label       "Համակարգային ինտեգրում">
 <!ENTITY alwaysCheckDefault.label      "Բացելիս միշտ ստուգել, թե արդյոք &brandShortName;-ը փոստային հիմնական ծրագիրն է">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
-<!ENTITY searchIntegration.label       "Թույլատրել &searchIntegration.engineName;-ին փնտրելու նամակներ">
+<!ENTITY searchIntegration.label       "Թույլատրել &searchIntegration.engineName;-ին որոնել նամակներ">
 <!ENTITY searchIntegration.accesskey   "s">
 <!ENTITY checkDefaultsNow.label        "Ստուգել...">
 <!ENTITY checkDefaultsNow.accesskey    "N">

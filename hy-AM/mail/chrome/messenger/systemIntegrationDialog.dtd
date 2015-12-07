@@ -17,5 +17,5 @@
 <!ENTITY checkOnStartup.label "&brandShortName;-ը բացելիս միշտ ստուգել այս ընտրությունը։">
 <!ENTITY checkOnStartup.accesskey "A">
 
-<!ENTITY searchIntegration.label "Թույլատրել &searchIntegration.engineName;-ին փնտրելու նամակներ">
+<!ENTITY searchIntegration.label "Թույլատրել &searchIntegration.engineName;-ին որոնել նամակներ">
 <!ENTITY searchIntegration.accesskey "s">

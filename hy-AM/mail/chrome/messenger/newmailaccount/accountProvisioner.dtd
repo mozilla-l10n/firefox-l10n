@@ -6,7 +6,7 @@
 <!ENTITY header2.label "Ցանկանու՞մ եք նոր էլ. փոստ։">
 <!ENTITY other.languages "Այստեղ ներկայացված են միայն Ձեր տարածաշրջանի էլ. փոստի մատակարարները։ Սեղմեք այստեղ՝ բոլորը ցուցադրելու համար։">
 <!ENTITY error.line1 "Կներեք, չենք կարող գտնել առաջարկվող էլ. հասցեները։">
-<!ENTITY error.line2 "Կարող եք նաև փնտրել մականուններ կամ ցանկացած բառ՝ լրացուցիչ հասցեների համար:">
+<!ENTITY error.line2 "Կարող եք նաև որոնել մականուններ կամ ցանկացած բառ՝ լրացուցիչ հասցեների համար:">
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
@@ -21,7 +21,7 @@
 
 <!ENTITY success.title.before "Ողջույն ">
 <!ENTITY success.title.after ", հետևյալ էլ. հասցեները հասանելի են Ձեզ համար.">
-<!ENTITY success.tip "(Կարող եք նաև փնտրել մականուններ կամ ցանկացած բառ՝ լրացուցիչ հասցեների համար)">
+<!ENTITY success.tip "(Կարող եք նաև որոնել մականուններ կամ ցանկացած բառ՝ լրացուցիչ հասցեների համար)">
 <!ENTITY partnership.description "Մենք համագործակվում ենք որոշ ընկերությունների հետ և դրա արդյունքում &brandShortName;-ը ձեզ հնարավորություն է տալիս բացել փոստարկղեր: Պարզապես նշեք ձեր հաշվի անունը և առաջ:">
 <!ENTITY existing.header "Արդեն ունե՞ք էլ. հասցե։">
 <!ENTITY tinyheader.title "Ստացե՞լ եք հասցե։">

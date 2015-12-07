@@ -94,8 +94,8 @@
 <!ENTITY findReplaceCmd.label "Գտնել և ՓոFխարինել...">
 <!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findReplaceCmd.key "H">
-<!ENTITY findAgainCmd.label "Կրկին փնտրել">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.label "Կրկին գտնել">
+<!ENTITY findAgainCmd.accesskey "ր">
 <!ENTITY findAgainCmd.key "Կ">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Գտնել Նախորդը">
