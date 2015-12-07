@@ -8,7 +8,7 @@
 <!ENTITY tabCrashed.includeURL "जिस पृष्ठ पर मै था उसका पता यहा शामिल करो">
 <!ENTITY tabCrashed.commentPlaceholder "टिप्पणी जोड़ें (टिप्पणियाँ सार्वजनिक हैं)">
 <!ENTITY tabCrashed.emailPlaceholder "यहाँ अपना ईमेल पता डालें">
-
+<!ENTITY tabCrashed.emailMe "जब अधिक जानकारी उपलब्ध है मुझे ईमेल करो|">
 <!ENTITY tabCrashed.crashReporter "Mozilla क्रैश रिपोर्टर">
 <!ENTITY tabCrashed.reportSent "दुर्घटना की रिपोर्ट पहले से ही प्रस्तुत; बेहतर बनाने में &brandShortName; मदद के लिए धन्यवाद!">
 <!ENTITY tabCrashed.closeTab "इस टैब को बन्द करें">
