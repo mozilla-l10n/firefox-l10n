@@ -14,7 +14,7 @@
 
 <!ENTITY fileMenu.label "फाइल">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "पृष्ठलाई यसरि बचत गर्नुहोस्...">
+<!ENTITY savePageCmd.label "पृष्ठलाई यसरि सङ्ग्रह गर्नुहोस्...">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
 

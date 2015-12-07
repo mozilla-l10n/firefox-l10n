@@ -38,7 +38,7 @@
 <!ENTITY  mediaDimension        "आयामहरूः">
 <!ENTITY  mediaLongdesc         "लामो वर्णन:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "यस रूपमा बचत गर्नुहोस्...">
+<!ENTITY  mediaSaveAs           "यस रूपमा सङ्ग्रह गर्नुहोस्...">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "सञ्चार पूर्वावलोकनः">

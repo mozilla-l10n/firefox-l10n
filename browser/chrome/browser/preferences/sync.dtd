@@ -42,7 +42,7 @@
 <!ENTITY fxaSyncDeviceName.label       "साधनको नामः">
 <!ENTITY changeSyncDeviceName.label "उपकरणको नाम परिवर्तन गर्नुहोस्…">
 <!ENTITY cancelChangeSyncDeviceName.label "रद्द गर्नुहोस्">
-<!ENTITY saveChangeSyncDeviceName.label "बचत गर्नुहोस्">
+<!ENTITY saveChangeSyncDeviceName.label "सङ्ग्रह गर्नुहोस्">
 <!ENTITY unlinkDevice.label           "यो उपकरण विछेद गर्नुहोस्">
 <!-- Footer stuff -->
 
