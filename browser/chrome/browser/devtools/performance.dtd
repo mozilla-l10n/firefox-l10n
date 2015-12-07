@@ -80,7 +80,7 @@
 <!ENTITY performanceUI.table.function                 "फंक्शन">
 <!ENTITY performanceUI.table.function.tooltip         "नमूना समारोह के नाम और स्रोत स्थान.">
 <!ENTITY performanceUI.table.totalAlloc               "कुल नमूना आवंटन">
-
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "इस स्थान पर और कॉल्लीस में ऑब्जेक्ट आवंटन नमूनों की कुल संख्या ।">
 <!ENTITY performanceUI.table.selfAlloc                "कुल नमूना आवंटन">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "इस स्थान पर वस्तु आवंटन की संख्या का नमूना.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
@@ -135,8 +135,12 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be recorded. -->
 
+<!ENTITY performanceUI.enableJITOptimizations             "JITअनुकूलन को रिकॉर्ड करें">
+<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "प्रत्येक जावास्क्रिप्ट फ्रेम में जांचा गया JIT अनुकूलन डेटा रिकॉर्ड करें ।">
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
+
+<!ENTITY performanceUI.JITOptimizationsTitle "JITअनुकूलन">
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
