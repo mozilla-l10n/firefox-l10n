@@ -20,8 +20,8 @@
 
 <!ENTITY visibilityToggle.tooltip   "शैली पाना दृश्यात्मकता टगल गर्नुहोस्">
 
-<!ENTITY saveButton.label           "बचत">
-<!ENTITY saveButton.tooltip         "यो शैली पाना फाइलमा बचत गर्नुहोस्">
+<!ENTITY saveButton.label           "सङ्ग्रह">
+<!ENTITY saveButton.tooltip         "यो शैली पाना फाइलमा सङ्ग्रह गर्नुहोस्">
 <!ENTITY saveButton.accesskey       "S">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context

@@ -17,13 +17,13 @@
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "तपाईँ निजी ब्राउजिङ् गर्दै हुनुहुन्छ">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "बचत गरिएको छैन">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "सङ्ग्रह गरिएको छैन">
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
 <!ENTITY aboutPrivateBrowsing.info.searches    "खोजी">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कुकिज">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "अस्थायी फाइलहरू">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "बचत गरियो">
+<!ENTITY aboutPrivateBrowsing.info.saved       "सङ्ग्रह गरियो">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोडहरू">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "पुस्तकचिनोहरू">
 
