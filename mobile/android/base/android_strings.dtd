@@ -102,11 +102,8 @@
 
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
-<!ENTITY pref_category_input_options "Opciones de ingreso">
-<!ENTITY pref_category_advanced "Avanzada">
-<!ENTITY pref_category_customize "Personalizar">
-<!ENTITY pref_category_customize_summary "Inicio, búsqueda, pestañas, importar">
-<!ENTITY pref_category_customize_alt_summary "Inicio, búsqueda, pestañas, abrir después, importar">
+<!ENTITY pref_category_general "General">
+<!ENTITY pref_category_general_summary2 "Inicio, idioma, barra de direcciones">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -264,9 +261,11 @@
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
 <!ENTITY pref_char_encoding_off "No mostrar menú">
-<!ENTITY pref_clear_private_data2 "Borrar ahora">
-<!ENTITY pref_clear_private_data_category "Limpiar datos privados">
-<!ENTITY pref_clear_on_exit_title2 "Limpiar al salir">
+<!ENTITY pref_clear_private_data "Borrar datos privados">
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Borrar ahora">
+<!ENTITY pref_clear_on_exit_title3 "Borrar datos privados al salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente tus datos cuando elijás \u0022Salir\u0022 del menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccionar que datos limpiar">
 <!ENTITY pref_plugins "Plugins">
@@ -274,7 +273,7 @@
 <!ENTITY pref_plugins_tap_to_play "Pulsar para ejecutar">
 <!ENTITY pref_plugins_disabled "Deshabilitado">
 <!ENTITY pref_text_size "Tamaño de texto">
-<!ENTITY pref_restore "Pestañas">
+<!ENTITY pref_restore_tabs "Restaurar pestañas">
 <!ENTITY pref_restore_always "Siempre restaurar">
 <!ENTITY pref_restore_quit "No restaurar después de salir de &brandShortName;">
 <!ENTITY pref_font_size_tiny "Muy chico">
@@ -300,17 +299,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Siempre habilitar zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forzar que se pueda hacer zoom en cualquier página">
 <!ENTITY pref_voice_input "Ingfeso por voz">
-<!ENTITY pref_voice_input_summary "Permitir dictado por voz en la barra de títulos">
+<!ENTITY pref_voice_input_summary2 "Permitir dictado por voz en la barra de direcciones">
 <!ENTITY pref_qrcode_enabled "Lector de códigos QR">
-<!ENTITY pref_qrcode_enabled_summary "Permitir scanner QR en la barra de títulos">
+<!ENTITY pref_qrcode_enabled_summary2 "Permitir scanner QR en la barra de direcciones">
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
-<!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync2 "Ingresar">
 <!ENTITY pref_sync_summary2 "Sincronizar pestañas, marcadores, ingresos, historial">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_history_search_suggestions "Mostrar historial de búsqueda">
-<!ENTITY pref_import_android "Importar desde Android">
-<!ENTITY pref_import_android_summary "Importar marcadores e historial desde el navegador nativo">
+<!ENTITY pref_import_options "Opciones de importación">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_searchHistory "Historial de búsqueda">
 <!ENTITY pref_private_data_formdata2 "Historial de formularios">
@@ -366,7 +364,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
+<!ENTITY pref_update_autodownload3 "Actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo sobre Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Siempre">
@@ -448,10 +446,6 @@ size. -->
 <!ENTITY doorhanger_login_select_action_text "Seleccionar otro usuario">
 <!ENTITY doorhanger_login_select_title "Copiar contraseña desde">
 
-<!ENTITY pref_titlebar_mode "Barra de título">
-<!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
-<!ENTITY pref_titlebar_mode_url "Mostrar dirección de la página">
-
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Áreas con lupa">
@@ -460,7 +454,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Navegación a pantalla completa">
-<!ENTITY pref_scroll_title_bar_summary "Oculta la barra de título de &brandShortName; cuando se desplace la página hacia abajo">
+<!ENTITY pref_scroll_title_bar_summary2 "Oculta la barra de herramientas de &brandShortName; cuando se desplace la página hacia abajo">
 
 <!ENTITY pref_tab_queue_title2 "Abrir enlaces múltiples">
 <!ENTITY pref_tab_queue_summary3 "Guardarlos hasta la próxima vez que se abra &brandShortName;">
@@ -480,7 +474,6 @@ size. -->
 <!ENTITY site_settings_title3       "Configuración del sitio">
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Borrar">
-<!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
 
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->

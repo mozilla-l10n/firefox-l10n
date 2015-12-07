@@ -24,7 +24,7 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Permitir que el servidor reemplace estos espacios de nombres">
 <!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3Desc.label "Al descargar el correo pop3 de este servidor, se puede almacenar en la bandeja de entrada global (la bandeja de entrada en Carpetas locales), en la bandeja de entrada de esta cuenta, o en la bandeja de entrada de otra cuenta pop3">
+<!ENTITY pop3DeferringDesc.label "Al descargar el correo pop3 del servidor de esta cuenta, usar la siguiente carpeta para guardar los nuevos mensajes">
 <!ENTITY accountInbox.label "Bandeja de entrada para esta cuenta">
 <!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Bandeja de entrada para una cuenta distinta">
