@@ -41,6 +41,8 @@
 
 <!ENTITY popup.label                     "Open Pop-up Windows">
 
+<!ENTITY desktop-notification.label      "अधिसूचना दिखाएँ">
 <!ENTITY camera.label                    "कैमरे का उपयोग करें">
 <!ENTITY microphone.label                "माइक्रोफ़ोन का उपयोग करें">
 
+<!ENTITY focusSearch.key                 "f">

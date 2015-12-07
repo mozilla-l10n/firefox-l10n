@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "अतिरिक्त घटक प्रबंधित करें">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-
+<!ENTITY projectMenu_refreshTabs_label "टैब ताज़ा करें">
 
 <!ENTITY runtimeMenu_label "रनटाइम">
 <!ENTITY runtimeMenu_accesskey "R">
