@@ -780,6 +780,8 @@
 <!ENTITY SendMessageTo.accesskey "W">
 <!ENTITY CopyEmailAddress.label "Kopiuj adres e-mail">
 <!ENTITY CopyEmailAddress.accesskey "K">
+<!ENTITY CopyNameAndEmailAddress.label "Kopiuj nazwę i adres e-mail">
+<!ENTITY CopyNameAndEmailAddress.accesskey "o">
 <!ENTITY CopyNewsgroupName.label "Kopiuj nazwę grupy dyskusyjnej">
 <!ENTITY CopyNewsgroupName.accesskey "n">
 <!ENTITY CopyNewsgroupURL.label "Kopiuj adres grupy dyskusyjnej">
