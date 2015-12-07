@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "नयाँ सन्झ्यालहरू नयाँ ट्याबमा खोल्नुहोस्">
+<!ENTITY newWindowsAsTabs.label       "नयाँ सञ्झ्यालहरू नयाँ ट्याबमा खोल्नुहोस्">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "बहुविध ट्याबहरू बन्द गर्न खोज्दा मलाई सचेत गर्नुहोस्">
@@ -17,6 +17,6 @@
 <!ENTITY switchToNewTabs.label        "मैले नयाँ ट्याबमा लिङ्क खोल्ने बितिक्कै, त्यसमा तुरुन्त लग्नुहोस्">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
-<!ENTITY showTabsInTaskbar.label          "सन्झ्यालको कार्यपट्टीमा ट्याबको पूर्वावलोकनहरू देखाउनुहोस्">
+<!ENTITY showTabsInTaskbar.label          "सञ्झ्याल कार्यपट्टीमा ट्याबको पूर्वावलोकनहरू देखाउनुहोस्">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
 <!ENTITY tabsGroup.label          "ट्याबहरू">

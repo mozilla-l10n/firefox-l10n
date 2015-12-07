@@ -208,6 +208,7 @@
 <!ENTITY addon.loadingReleaseNotes.label      "लोड हुँदैछ…">
 
 
+<!ENTITY addon.createdBy.label                "सर्जक">
 
 <!ENTITY eula.title                           "प्रयोगकर्ता सम्झौता प्रमाण पत्र">
 <!ENTITY eula.width                           "560px">
@@ -227,6 +228,7 @@
 
 <!ENTITY setting.learnmore "थप जान्नुहोस्…">
 
+<!ENTITY disabledUnsigned.heading "केही एड-अन निस्क्रिय गरिएका छन् ">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
