@@ -563,22 +563,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "लिङ्कलाई इमेल गर्नुहोस्">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "यस रूपमा पृष्ठ बचत गर्नुहोस्...">
+<!ENTITY savePageCmd.label            "यस रूपमा पृष्ठ सङ्ग्रह गर्नुहोस्...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "यसरूपमा फ्रेम बचत गर्नुहोस्…">
+<!ENTITY saveFrameCmd.label           "यसरूपमा फ्रेम सङ्ग्रह गर्नुहोस्…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "फ्रेम प्रिन्ट गर्नुहोस्">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "यस रूपमा लिङ्क बचत गर्नुहोस्...">
+<!ENTITY saveLinkCmd.label            "यस रूपमा लिङ्क सङ्ग्रह गर्नुहोस्...">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "यस रूपमा छवि बचत गर्नुहोस्…">
+<!ENTITY saveImageCmd.label           "यस रूपमा तस्विर सङ्ग्रह गर्नुहोस्…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "भिडियो अरू रुपमा बचत गर्नुहोस्…">
+<!ENTITY saveVideoCmd.label           "भिडियो अरू रुपमा सङ्ग्रह गर्नुहोस्…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "अडियोलाई यस रुपमा बचत गर्नुहोस्...">
+<!ENTITY saveAudioCmd.label           "अडियोलाई यस रुपमा सङ्ग्रह गर्नुहोस्...">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "तस्विरलाई इमेल गर्नुहोस्">
 <!ENTITY emailImageCmd.accesskey      "g">
@@ -644,7 +644,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "पूरा पर्दा">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "यस रुपमा स्न्यापसट बचत गर्नुहोस्...">
+<!ENTITY videoSaveImage.label        "यस रुपमा स्न्यापसट सङ्ग्रह गर्नुहोस्...">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -840,9 +840,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "पृष्ठहरूलाई यहाँ बचत गर्नुहोस....">
+<!ENTITY social.markpageMenu.label "पृष्ठहरूलाई यहाँ सङ्ग्रह गर्नुहोस....">
 <!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "लिङ्कहरूलाई यहाँ बचत गर्नुहोस....">
+<!ENTITY social.marklinkMenu.label "लिङ्कहरूलाई यहाँ सङ्ग्रह गर्नुहोस....">
 
 <!ENTITY getUserMedia.selectCamera.label "क्यामेरलाई बाँड्ने:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -920,7 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "यो क्रियाकलाप नहुन सक्दैन।">
 <!ENTITY panicButton.view.forgetButton            "बिर्सिनु!">
 
-<!ENTITY panicButton.thankyou.msg1                "तपाईँको हालको ईतिहास खाली भयो।">
+<!ENTITY panicButton.thankyou.msg1                "तपाईँको हालको इतिहास खाली भयो।">
 <!ENTITY panicButton.thankyou.msg2                "सुरक्षित ब्राउजिङ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "धन्यवाद!">
 
@@ -943,6 +943,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY saveToPocketCmd.label     "Pocket मा सङ्ग्रह गर्नुहोस्">
 <!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Pocket मा लिङ्क बचत गर्नहोस्">
+<!ENTITY saveLinkToPocketCmd.label     "Pocket मा लिङ्क सङ्ग्रह गर्नुहोस्">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label      "Poket को सुची हेर्नुहोस्">

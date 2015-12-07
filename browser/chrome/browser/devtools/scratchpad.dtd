@@ -35,11 +35,11 @@
 <!ENTITY revertCmd.label              "पछाडि फर्कनुहोस्...">
 <!ENTITY revertCmd.accesskey          "t">
 
-<!ENTITY saveFileCmd.label            "बचत">
+<!ENTITY saveFileCmd.label            "सङ्ग्रह">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "यस रूपमा बचत गर्नुहोस्...">
+<!ENTITY saveFileAsCmd.label          "यस रूपमा सङ्ग्रह गर्नुहोस्...">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.key                 "W">
