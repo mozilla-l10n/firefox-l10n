@@ -15,7 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "सामान्य">
 <!ENTITY  paneTabs.title          "ट्याबहरू">
-
+<!ENTITY  paneSearch.title        "खोजी">
 <!ENTITY  paneContent.title       "सामग्री">
 <!ENTITY  paneApplications.title  "एप्लिकेसनहरू">
 <!ENTITY  panePrivacy.title       "गोपनीयता">

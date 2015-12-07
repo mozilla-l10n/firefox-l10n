@@ -9,20 +9,22 @@
 <!ENTITY doNotTrackInfo.label          "अझ जान्नुहोस् ">
 <!ENTITY trackingProtection5.label     "ट्रयाकिङ् सुरक्षाको प्रयोग गर्नुहोस्">
 <!ENTITY trackingProtection5.accesskey "i">
-
+<!ENTITY trackingProtectionLearnMore.label "अझ जान्नुहोस् ">
 <!ENTITY trackingProtectionPBM5.label         "निजी विन्डोहरूमा ट्रयाकिङ् सुरक्षाको प्रयोग गर्नुहोस्">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-
+<!ENTITY trackingProtectionPBMLearnMore.label "अझ जान्नुहोस् ">
 <!ENTITY changeBlockList.label          "ब्लक सूची परिवर्तन गर्नुहोस्">
 <!ENTITY changeBlockList.accesskey      "C">
 
+<!ENTITY  history.label                 "इतिहास">
 
 <!ENTITY  locationBar.label             "स्थानपट्टी ">
 
-
-
-
-
+<!ENTITY  locbar.suggest.label          "स्थानपट्टी प्रयोग गर्दा सुझाव देखाउनुहोस्">
+<!ENTITY  locbar.history.label          "इतिहास">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "पुस्तकचिनोहरू">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ट्याबहरू खोल्नुहोस्">
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "पूर्वनिर्धारित खोजी इन्जिनद्वारा भेटिएका सम्बन्धित खोजहरु">
@@ -56,7 +58,7 @@
 <!ENTITY  historyHeader.remember.label     "इतिहास स्मझिने">
 <!ENTITY  historyHeader.dontremember.label "इतिहास कहिल्यै नसम्झिने">
 <!ENTITY  historyHeader.custom.label       "इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्">
-<!ENTITY  historyHeader.post.label         "">
+<!ENTITY  historyHeader.post.label         "‌">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ले तपाईँको ब्राउजिङ ,डाउनलोडिङ ,फर्म ,खोजि इतिहासहरू सम्झिन्छ, र तपाईँले हेर्नुभएका वेबसाइटका कुकीहरू राख्दछ।">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
