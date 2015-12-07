@@ -77,7 +77,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "इमेल रुजु गर्नुहोस">
 <!ENTITY forget.label                "यो इमेलको बारेमा बिर्सनुहोस्">
 
-<!ENTITY welcome.description "जहाँ जहाँ &brandShortName; प्रयोग गर्नुहुन्छ, त्यहाँ त्यहाँ आफ्नो ट्याबहरू, बुकमार्क, पासवर्ड र अरु कुरा प्रयोग गर्नुहोस्">
+<!ENTITY welcome.description "जहाँ जहाँ &brandShortName; प्रयोग गर्नुहुन्छ, त्यहाँ त्यहाँ आफ्नो ट्याबहरू, पुस्तकचिनोहरू, पासवर्डहरू र अरु कुरा प्रयोग गर्नुहोस्">
 <!ENTITY welcome.signIn.label "साइन इन गर्नुहोस्">
 <!ENTITY welcome.createAccount.label "खाता सिर्जना गर्नुहोस्">
 

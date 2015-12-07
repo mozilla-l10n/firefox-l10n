@@ -7,6 +7,7 @@
 <!ENTITY  blockPopups.label           "पप-अप सञ्झ्यालहरूलाई अवरुद्द गर्नुहोस्">
 <!ENTITY  blockPopups.accesskey       "B">
 
+<!ENTITY  notificationsPolicy.label            "सूचनाहरू">
 <!ENTITY  notificationsPolicyLearnMore.label   "अझै जान्नुहोस्">
 <!ENTITY  notificationsPolicyDesc3.label       "कुन-कुन साइटहरुलाई तपाईँलाई सूचना पठाउने अनुमति दिन चहानुहुन्छ, छान्नुहोस्">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -48,6 +49,8 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "अनुवादकर्ता">
 <!ENTITY translation.options.attribution.afterLogo "‌">
 
 <!ENTITY  drmContent.label             "DRM सामग्री">
