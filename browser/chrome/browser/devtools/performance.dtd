@@ -17,6 +17,8 @@
 <!ENTITY performanceUI.stopRecording  "रिकॉर्डिंग प्रदर्शन बंद करें">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+<!ENTITY performanceUI.bufferStatusTooltip "प्रोफाइलर एक परिपत्र बफर में नमूने संग्रहीत करता है, और जब बफर एक रिकॉर्डिंग की सीमा तक पहुँच जाता है, नये नमूने रिकॉर्डिंग की शुरुआत से नमूने के ऊपर ही लिखना शुरू हो जाते हैं।">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
@@ -54,19 +56,19 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "वाटरफॉल">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "ब्राउज़र द्वारा रिकॉर्डिंग के समय किये जा रहे अलग-अलग प्रचालन को दिखता है, जो की एक झरने की भांति क्रमिक रूप से दर्शाया गया है|">
 <!ENTITY performanceUI.toolbar.js-calltree "कॉल शाखा">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "ब्राउज़र रिकॉर्डिंग के दौरान सबसे अधिक समय बिताया जहां जावास्क्रिप्ट कार्यों पर प्रकाश डाला गया।">
 <!ENTITY performanceUI.toolbar.memory-calltree "आबंटन">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "मेमोरी कहाँ आवंटित हुयी रिकॉर्डिंग क दौरान यह दर्शाता है |">
 <!ENTITY performanceUI.toolbar.js-flamegraph "जेएस फ्लैम चार्ट">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "रिकॉर्डिंग के दौरान जावास्क्रिप्ट का कॉल स्टैक दर्शाता है |">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "आवंटन फ्लेम सूचि">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
 <!ENTITY performanceUI.table.totalDuration            "कुल समय">
-
+<!ENTITY performanceUI.table.totalDuration.tooltip    "इस प्रकार्य व इसके द्वारा बुलाये गए प्रकार्य में व्यतीत समय अवधि |">
 <!ENTITY performanceUI.table.selfDuration             "स्व समय">
 
 <!ENTITY performanceUI.table.totalPercentage          "कुल लागत">
