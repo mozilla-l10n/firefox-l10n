@@ -8,7 +8,7 @@
 
 <!ENTITY printDialog.title "मुद्रण गर्नुहोस्">
 
-<!ENTITY fpDialog.title "फाइल बचत गर्नुहोस्">
+<!ENTITY fpDialog.title "फाइल सङ्ग्रह गर्नुहोस्">
 
 <!ENTITY fileCheck.label "फाइलमा मुद्रण गर्नुहोस्">
 <!ENTITY fileCheck.accesskey "F">

@@ -54,7 +54,7 @@
 
 <!ENTITY button.syncKeyBackup.print.label     "Pring...">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "बचत…">
+<!ENTITY button.syncKeyBackup.save.label      "सङ्ग्रह…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
@@ -67,7 +67,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "उपकरणले प्रदान गरेको कोड प्रविष्ट गर्नुहोस्:">
 <!ENTITY addDevice.dialog.tryAgain.label    "कृपया पुनः प्रयास गर्नुहोस् ।">
 <!ENTITY addDevice.dialog.successful.label  "उपकरण सफलतापूर्वक थपिएको छ। सुरुमा सिङ्ख्रोनाइजेसन धेरै मिनेट लाग्न सक्छ र पृष्ठभूमिमा समाप्त हुनेछ।">
-<!ENTITY addDevice.dialog.recoveryKey.label     "तपाईँको उपकरण सक्रिय गर्न तपाईँको पुनर्स्थापना साँचो प्रविष्ट गर्न आवश्यक हुन्छ। कृपया यो साँचो प्रिन्ट वा बचत गरि आफुसँग राख्नुहोस्।">
+<!ENTITY addDevice.dialog.recoveryKey.label     "तपाईँको उपकरण सक्रिय गर्न तपाईँको पुनर्स्थापना साँचो प्रविष्ट गर्न आवश्यक हुन्छ। कृपया यो साँचो प्रिन्ट वा सङ्ग्रह गरि आफुसँग राख्नुहोस्।">
 <!ENTITY addDevice.dialog.connected.label   "उपकरण जडित">
 <!-- Existing Account Page 2: Manual Login -->
 
