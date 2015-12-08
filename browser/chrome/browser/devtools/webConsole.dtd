@@ -51,10 +51,10 @@
 <!ENTITY btnPageLogging.label   "लॉगिंग ">
 <!ENTITY btnPageLogging.tooltip "window.console वस्तु में लॉग संदेश भेजा गया">
 <!ENTITY btnPageLogging.accesskey3 "L">
-
-
-
-
+<!ENTITY btnConsoleErrors       "त्रुटियां">
+<!ENTITY btnConsoleInfo         "सूचना">
+<!ENTITY btnConsoleWarnings     "चेतावनीयां">
+<!ENTITY btnConsoleLog          "रोजनामचा">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "पुनर्बहाव">
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
@@ -64,10 +64,10 @@
 <!ENTITY btnServerLogging.label       "Server">
 <!ENTITY btnServerLogging.tooltip     "वेब सर्वर द्वारा लॉग संदेश प्राप्त हुए">
 <!ENTITY btnServerLogging.accesskey   "S">
-
-
-
-
+<!ENTITY btnServerErrors              "त्रुटियां">
+<!ENTITY btnServerInfo                "सूचना">
+<!ENTITY btnServerWarnings            "चेतावनीयां">
+<!ENTITY btnServerLog                 "रोजनामचा">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
