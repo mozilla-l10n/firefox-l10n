@@ -17,6 +17,7 @@
 
 
 
+<!ENTITY  unsupported.title               "सिस्टम असमर्थित">
 
 <!ENTITY  unsupportedLink.label           "थप जान्नुहोस् ।">
 
@@ -26,6 +27,7 @@
 
 
 
+<!ENTITY  license.titleText               "सफ्टवेयर लाइसेन्स सम्झौता">
 
 
 <!ENTITY  license.accept                  "म इजाजतपत्र सम्झौतामा भएकामा सर्तहरू स्वीकार गर्दछु">
