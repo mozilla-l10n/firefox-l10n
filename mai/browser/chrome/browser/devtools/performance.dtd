@@ -58,19 +58,19 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "वाटरफॉल">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "ब्राउज़र स रिकॉर्डिंग क समय कैल जा रहल अलग-अलग प्रचालन कए देखाबैत अछि, जे की एकटा झरना क भांति क्रमिक रूप से दर्शाओल गेल अछि|">
 <!ENTITY performanceUI.toolbar.js-calltree "कॉल ट्री">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "रिकॉर्डिंग काल ब्राउजर जतय बेसी समय बिताबैत अछि ओ JavaScript क हाइलाइट करू">
 <!ENTITY performanceUI.toolbar.memory-calltree "अावंटन">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "रि‍कॉर्डिंग काल स्मृति जतय बेसी आवंटित होएत अछि ओकर देखाबू">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS फ्लैम चार्ट">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "रिकॉर्डिंग काल जावास्क्रिप्टक कॉल स्टैक दखाबैत अछि |">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "आवंटन फ्लेम सूचि">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
 <!ENTITY performanceUI.table.totalDuration            "कुल समय">
-
+<!ENTITY performanceUI.table.totalDuration.tooltip    "एहि प्रकार्य मे लागल समय आओर प्रकार्य जे ई कएलक.">
 <!ENTITY performanceUI.table.selfDuration             "अपन समय">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "खाली एहि प्रकार्य मे लागल समय.">
 <!ENTITY performanceUI.table.totalPercentage          "कुल लागत">

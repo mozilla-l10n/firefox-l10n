@@ -129,7 +129,7 @@ values from browser.dtd.  -->
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "HTTP पर वर्कर सेवा सक्षम करू (जखन औजारपेटी खुलल होए)">
-
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "एहि विकल्प कए सक्रिय करबा स HTTP पर वर्कर सेवा सक्रिय भए जाएत  ओ सभटा टैब क लेल जेकरा मे औजारपेटी खुजल होएत |">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
