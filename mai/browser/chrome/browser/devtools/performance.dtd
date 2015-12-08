@@ -17,6 +17,8 @@
 <!ENTITY performanceUI.stopRecording  "रिकॉर्डिंग प्रदर्शन बन्न करू">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+<!ENTITY performanceUI.bufferStatusTooltip "प्रोफाइलरक एकटा परिपत्र बफर मे नमूना जमा करैत अछि, आओर जखन बफर एकटा रिकॉर्डिंग क सीमा तक पहुँच जाएत अछि, नबका नमूना रिकॉर्डिंग क शुरुआत स नमूनाक ऊपरे लिखनाय शुरू कए दैत अछि।">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
