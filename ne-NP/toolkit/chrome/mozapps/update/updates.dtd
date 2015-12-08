@@ -8,8 +8,9 @@
 
 <!ENTITY  pluginupdatesfound.title        "प्लगिनको लागि अपडेटहरू भेटियो">
 
+<!ENTITY  pluginupdateslink.label         "तपाईँको प्लगइन अपग्रेड कसरी गर्ने भनेर हेर्नुहोस्।">
 
-
+<!ENTITY  noupdatesfound.title            "कुनै अद्यावधि पाइएन">
 
 
 
@@ -35,6 +36,7 @@
 <!ENTITY  license.decline                 "म इजाजतपत्र सम्झौतामा भएका सर्तहरू स्वीकार गर्दिन">
 <!ENTITY  license.decline.accesskey       "T">
 
+<!ENTITY  incompatibleList.title          "असमर्थित एड-अन भेटियो">
 
 
 
