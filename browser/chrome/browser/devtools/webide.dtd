@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "बन्न कोष्ठक स्वतः डालू">
 <!ENTITY prefs_options_keybindings "कीबाइंडिंग">
 <!ENTITY prefs_options_keybindings_default "पूर्वनिर्धारित">
-
-
+<!ENTITY prefs_options_autosavefiles "स्वतःसहेजल फाइल">
+<!ENTITY prefs_options_autosavefiles_tooltip "परियोजना कए चलेबा स पहि‍ने संपादित फ़ाइल कए स्वचालित रूप स सहेजू">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "अनुमति सारणी">
