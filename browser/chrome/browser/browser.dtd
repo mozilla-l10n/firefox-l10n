@@ -520,14 +520,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir ligação">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
-<!ENTITY openFrameCmdInTab.label      "Abrir moldura em novo separador">
+<!ENTITY openFrameCmdInTab.label      "Abrir frame em novo separador">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
-<!ENTITY openFrameCmd.label           "Abrir moldura em nova janela">
+<!ENTITY openFrameCmd.label           "Abrir frame em nova janela">
 <!ENTITY openFrameCmd.accesskey       "j">
-<!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas esta moldura">
+<!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Recarregar moldura">
+<!ENTITY reloadFrameCmd.label         "Recarregar frame">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver código fonte da seleção">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Ver código fonte MathML">
@@ -536,11 +536,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Ver código fonte da página">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "Ver código fonte da moldura">
+<!ENTITY viewFrameSourceCmd.label     "Ver código fonte do frame">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "Ver informações da página">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Ver informações da moldura">
+<!ENTITY viewFrameInfoCmd.label       "Ver informações do frame">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY reloadImageCmd.label         "Recarregar imagem">
 <!ENTITY reloadImageCmd.accesskey     "R">
@@ -559,7 +559,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkPageCmd2.label       "Criar marcador para esta página">
 <!ENTITY bookmarkThisLinkCmd.label      "Criar marcador para esta ligação">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
-<!ENTITY bookmarkThisFrameCmd.label      "Criar marcador para esta moldura">
+<!ENTITY bookmarkThisFrameCmd.label      "Criar marcador para este frame">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "Enviar ligação por email…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -568,9 +568,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Guardar moldura como…">
-<!ENTITY saveFrameCmd.accesskey       "m">
-<!ENTITY printFrameCmd.label          "Imprimir moldura…">
+<!ENTITY saveFrameCmd.label           "Guardar frame como…">
+<!ENTITY saveFrameCmd.accesskey       "f">
+<!ENTITY printFrameCmd.label          "Imprimir frame…">
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Guardar ligação como…">
 <!ENTITY saveLinkCmd.accesskey        "G">
@@ -604,7 +604,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Copiar endereço de email">
 <!ENTITY copyEmailCmd.accesskey       "e">
-<!ENTITY thisFrameMenu.label              "Esta moldura">
+<!ENTITY thisFrameMenu.label              "Este frame">
 <!ENTITY thisFrameMenu.accesskey          "t">
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and

@@ -64,7 +64,7 @@
 <!ENTITY performanceUI.toolbar.memory-calltree "Alocações">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Mostra onde a memória foi alocada durante a gravação.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Gráfico em chama de JS">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Mostra a pilha de invocações JavaScript durante o curso da gravação.">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Mostra a call stack JavaScript durante o curso da gravação.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Gráfico em chama de alocações">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -138,7 +138,7 @@
   -  should be recorded. -->
 
 <!ENTITY performanceUI.enableJITOptimizations             "Gravar otimizações JIT">
-<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Gravar dados de otimizações JIT retirados de cada moldura JavaScript.">
+<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Gravar dados de otimizações JIT retirados de cada frame JavaScript.">
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
