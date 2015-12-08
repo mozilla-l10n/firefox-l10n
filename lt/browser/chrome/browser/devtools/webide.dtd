@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Automatiškai pridėti užveriantįjį skliaustą, įvedus atveriantįjį">
 <!ENTITY prefs_options_keybindings "Klavišų susiejimai">
 <!ENTITY prefs_options_keybindings_default "Numatytieji">
-
-
+<!ENTITY prefs_options_autosavefiles "Automatiškai įrašyti failus">
+<!ENTITY prefs_options_autosavefiles_tooltip "Automatiškai įrašyti pakeitimus failuose prieš paleidžiant projektą">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Leidimų lentelė">
