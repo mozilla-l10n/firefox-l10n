@@ -25,7 +25,7 @@
 <!ENTITY resetTrainingData.accesskey "n">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "&brandShortName; lahko z iskanjem pogosto uporabljenih metod za zavajanje preveri sporočila, za katera sumi, da vsebujejo e-poštno prevaro .">
+<!ENTITY phishingDetector1.intro  "&brandShortName; lahko z iskanjem pogostih metod za zavajanje preverja sporočila in vas obvesti, če sumi, da vsebujejo e-poštno prevaro.">
 <!ENTITY enablePhishingDetector1.label    "Sporoči, če obstaja sum, da je prikazano sporočilo e-poštna prevara">
 <!ENTITY enablePhishingDetector1.accesskey  "S">
 <!ENTITY useDownloadedList.label "Uporabi prenesen seznam sumov e-poštnih prevar">
