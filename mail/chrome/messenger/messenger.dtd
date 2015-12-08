@@ -849,6 +849,8 @@
 <!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Copiar dirección de correo electrónico">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNameAndEmailAddress.label "Copiar nombre y dirección de correo electrónico">
+<!ENTITY CopyNameAndEmailAddress.accesskey "n">
 <!ENTITY CopyNewsgroupName.label "Copiar nombre del grupo de noticias">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copiar URL del grupo de noticias">
