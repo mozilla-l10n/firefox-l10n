@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "निजी विंडोज में ट्रैकिंग सुरक्षा का उपयोग करें">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "अधिक जानें">
-
-
+<!ENTITY changeBlockList.label          "अवरोधित सूची बदलें">
+<!ENTITY changeBlockList.accesskey      "अ">
 
 <!ENTITY  history.label                 "इतिहास">
 
@@ -59,7 +59,7 @@
 <!ENTITY  historyHeader.remember.label     "इतिहास याद रखें">
 <!ENTITY  historyHeader.dontremember.label "इतिहास कभी याद नहीं रखें">
 <!ENTITY  historyHeader.custom.label       "इतिहास के लिए मनपसंद सेटिंग्स का उपयोग करें">
-<!ENTITY  historyHeader.post.label         "">
+<!ENTITY  historyHeader.post.label         "‍">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; आपके ब्राउज़िंग, डाउनलोड, फ़ॉर्म और खोज इतिहास, आपके द्वारा देखे गए वेबसाइटों के कुकीज़ याद रखेगा.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->

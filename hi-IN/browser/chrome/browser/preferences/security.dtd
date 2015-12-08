@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  logins.label                  "दाखिला">
 
+<!ENTITY  rememberLogins.label          "साइटों के लिए दाखिला याद रखें">
+<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "अपवाद…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "मुख्य कूटशब्द बदलें…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-
+<!ENTITY  savedLogins.label              "सहेजें गए लॉगइन देखें">
+<!ENTITY  savedLogins.accesskey          "L">
