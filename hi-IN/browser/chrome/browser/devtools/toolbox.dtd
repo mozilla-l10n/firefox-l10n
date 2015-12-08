@@ -70,6 +70,8 @@ values from browser.dtd.  -->
 <!ENTITY options.defaultColorUnit.accesskey "u">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.authored "लेखक जैसा">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 
@@ -127,7 +129,7 @@ values from browser.dtd.  -->
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "(जब टूलबॉक्स खुले हों) HTTP पर वर्कर सेवा सक्षम करें">
-
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "इस विकल्प को सक्रिय करने से HTTP पर वर्कर सेवा सक्रिय हो जाएगी उन सभी टैब के लिए जिनमें औजारपेटी खुली होगी |">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->

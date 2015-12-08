@@ -8,13 +8,13 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "अधिसूचना">
-
+<!ENTITY  notificationsPolicyLearnMore.label   "अधिक जानें">
 <!ENTITY  notificationsPolicyDesc3.label       "कौन-सी वेबसाइटों अधिसूचना भेजने की अनुमति दे रहा">
-
-
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "Choose…">
 <!ENTITY  notificationsDoNotDisturb.label      "परेशान नहीं करें">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-
+<!ENTITY  notificationsDoNotDisturbDetails.value " कोई अधिसूचना नहीं दिखेगा जब तक &brandShortName; फिर से  चालू करेंगे ">
 
 <!ENTITY  popupExceptions.label       "अपवाद...">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM सामग्री बजाएँ">
 <!ENTITY  playDRMContent.accesskey     "P">
-
+<!ENTITY  playDRMContent.learnMore.label "अधिक जानें">

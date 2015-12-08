@@ -36,6 +36,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+
+<!ENTITY performanceUI.unavailableNoticePB "रिकॉर्डिंग प्रोफ़ाइल वर्तमान में अनुपलब्ध है। कृपया सभी निजी ब्राउज़िंग विंडो को बंद करें और पुन: प्रयास करें।">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
 
@@ -70,7 +72,7 @@
 <!ENTITY performanceUI.table.totalDuration            "कुल समय">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "इस प्रकार्य व इसके द्वारा बुलाये गए प्रकार्य में व्यतीत समय अवधि |">
 <!ENTITY performanceUI.table.selfDuration             "स्व समय">
-
+<!ENTITY performanceUI.table.selfDuration.tooltip     "केवल इस समारोह के भीतर अधिक बिताये गये समय कि मात्रा.">
 <!ENTITY performanceUI.table.totalPercentage          "कुल लागत">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "इस प्रकार्य व इसके द्वारा बुलाये गए प्रकार्य में व्यतीत समय अवधि प्रतिशत में |">
 <!ENTITY performanceUI.table.selfPercentage           "स्वयं लागत">
