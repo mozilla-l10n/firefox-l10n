@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "आप साइन इन नहीं हैं">
 <!ENTITY signIn.label                "साइन इन">
 <!ENTITY profilePicture.tooltip      "प्रोफ़ाइल तस्वीर बदलें">
-
+<!ENTITY verifiedManage.label        "खाता प्रबंधित करें">
 <!ENTITY disconnect.label            "डिस्कनेक्ट करें">
 <!ENTITY verify.label                "ईमेल सत्यापित करें">
 <!ENTITY forget.label                "इस ईमेल को भूल जाइए">
@@ -105,3 +105,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo2.iOSLink          "iOS के लिए Firefox">
 
+<!ENTITY mobilePromo2.end              ".">
