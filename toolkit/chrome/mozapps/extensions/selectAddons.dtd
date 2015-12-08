@@ -30,14 +30,15 @@
      here should match the string source.other in selectAddons.properties. -->
 
 <!ENTITY action.disable.heading      "निम्न एड-अन अक्षम पारिनेछ:">
-
-
-
+<!ENTITY action.incompatible.heading "निम्न एड-अन अक्षम छन्, तर तिनीहरू संगत भएमा चाँडै सक्षम हुनेछन्ः">
+<!ENTITY action.update.heading       "निम्न एड-अन अद्यावधिक गरिनेछ:">
+<!ENTITY action.enable.heading       "निम्न एड-अन सक्षम हुनेछ:">
 
 <!ENTITY update.heading              "तपाईँका एड-अनहरू अद्यावधि गर्दै">
+<!ENTITY update.progress.label       "तपाईँले चयन गर्नु भएका एड-अनहरूका लागि अद्यावधिक स्थापना गरिँदै।">
 
-
-
+<!ENTITY errors.heading              "&brandShortName; ले तपाईँको केही एड-अनहरुलाई अद्यावधिक गर्न सकेन।">
+<!ENTITY errors.description          "तपाईँको केही एड-अनहरूको लागि अद्यावधिक स्थापना असफल भयो। &brandShortName; ले स्वतः पछि फेरि तिनीहरूलाई अद्यावधिक गर्न प्रयास गर्नेछ।">
 
 <!ENTITY footer.label                "तपाईँले आफ्नो एड-अनहरू सँधै एड-अन प्रबन्धकबाट परिवर्तन गर्न सक्नुहुने छ।">
 <!ENTITY cancel.label                "रद्द गर्नुहोस्">
