@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "कनेक्ट केलेल्या दुसऱ्या‬ उपकरणावर हा टॅब पाठवा">
+
 <!ENTITY pref_category_search3 "शोध">
 <!ENTITY pref_category_search_summary "शोध पुरविणारे स्वपसंत करा">
 <!ENTITY pref_category_display "दृश्य">
