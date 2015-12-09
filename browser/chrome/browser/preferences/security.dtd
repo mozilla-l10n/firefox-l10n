@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "Բ">
 
 
+<!ENTITY  logins.label                  "Մուտքաանուններ">
 
+<!ENTITY  rememberLogins.label          "Հիշել մուտքանունները կայքերի համար">
+<!ENTITY  rememberLogins.accesskey      "Հ">
 <!ENTITY  passwordExceptions.label      "Բացառություններ…">
 <!ENTITY  passwordExceptions.accesskey  "ա">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Փոխել Հիմնական գաղտնաբառը…">
 <!ENTITY  changeMasterPassword.accesskey "Հ">
 
-
+<!ENTITY  savedLogins.label              "Պահված մուտքանուններ...">
+<!ENTITY  savedLogins.accesskey          "մ">

@@ -189,29 +189,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Տպել">
 <!ENTITY printButton.tooltip          "Տպել տվյալ էջը">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Դիտել կայքի տեղեկությունը">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Դիտել ծանուցումը">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Դիտել տեղադրության հարցումը">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Դիտել հավելումը տեղադրելու ուղերձը">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Դիտել հավելվածի անցանց պահեստի ուղերձը">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Կառավարել մուտքի ձեր տեղեկությունը">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Ստուգեք, թե արդյոք ցանկանում եք պահել գաղտնաբառը">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Դիտել հավելվածը տեղադրելու ուղերձը">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Կառավարել բաղադրիչի օգտագործումը այս էջում">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Փոխել, թե արդյոք կայքը կարող է ցուցադրել ձեզ ծանուցումները">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Կառավարել խցիկի և/կամ բարձրախոսի համաօգտագործումը այս կայքի հետ">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Դուք համաօգտագործում եք ձեր խցիկը և/կամ բարձրախոսը այս կայքի հետ">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Կառավարել ձեր բարձրախոսի համաօգտագործումը այս կայքի հետ">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Դուք համաօգտագործում եք ձեր բարձրախոսը այս կայքի հետ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Կառավարել պատուհանների կամ էկրանի համաօգտագործումը այս կայքի հետ">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Դուք համաօգտագործում եք պատուհան կամ ձեր էկրանը այս կայքի հետ">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Փոխել, թե արդյոք կայքը կարող է թաքցնել նշիչը">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Դիտել ծառայությունը տեղադրելու ուղերձը">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Թարգմանել այս էջը">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Կառավարել էջի թարգմանությունը">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Կառավարել DRM ծրագրաշարի օգտագործումը">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Ցուցադրել պատմությունը">
 
 <!ENTITY searchItem.title             "Որոնում">
 <!-- Toolbar items --> 
@@ -252,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Հավելվածներ">
 <!ENTITY webapps.accesskey            "ե">
-
-
+<!ENTITY loopMenuItem.label           "Սկսել զրույց...">
+<!ENTITY loopMenuItem.accesskey       "կ">
 
 <!ENTITY webDeveloperMenu.label       "Վեբ ծրագրավորող">
 <!ENTITY webDeveloperMenu.accesskey   "Վ">
@@ -331,16 +336,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Ֆայլ"> 
 <!ENTITY fileMenu.accesskey       "Ֆ">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Նոր պարունակի ներդիր">
+<!ENTITY newUserContext.accesskey         "պ">
+<!ENTITY userContextPersonal.label        "Անձնական">
+<!ENTITY userContextPersonal.accesskey    "Ա">
+<!ENTITY userContextWork.label            "Աշխատանքային">
+<!ENTITY userContextWork.accesskey        "Ա">
+<!ENTITY userContextBanking.label         "Բանկային">
+<!ENTITY userContextBanking.accesskey     "Բ">
+<!ENTITY userContextShopping.label        "Առևտուր">
+<!ENTITY userContextShopping.accesskey    "Ա">
 <!ENTITY newNavigatorCmd.label        "Նոր Պատուհան">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Ն">

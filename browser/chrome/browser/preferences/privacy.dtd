@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Օգտ. հետագծման պաշտպանությունը Գաղտնի պատուհանում">
 <!ENTITY trackingProtectionPBM5.accesskey     "տ">
 <!ENTITY trackingProtectionPBMLearnMore.label "Իմանալ ավելին">
-
-
+<!ENTITY changeBlockList.label          "Փոխել արգելացուցակը">
+<!ENTITY changeBlockList.accesskey      "Փ">
 
 <!ENTITY  history.label                 "Պատմություն">
 
