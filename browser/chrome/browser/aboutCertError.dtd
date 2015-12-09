@@ -29,7 +29,7 @@ was trying to connect. -->
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara "<span class='hostname'/> की मालिक इस वेबसैट का कान्फ़िगुरेशन अनुचित कीये है. आपकी जानकारी चोरी से रक्षित रखने के लिये &amp;brandShortName कनैक्ट नहि हुआ है  ">
+<!ENTITY certerror.introPara "<span class='hostname'/>की मालिक इस वेबसैट का कान्फ़िगुरेशन अनुचित कीये है.   आपकी जानकारी चोरी से रक्षित रखने के लिये &amp;brandShortName कनैक्ट नहि हुआ है.">
 <!ENTITY certerror.returnToPreviousPage.label "पीछे जाएँ">
 <!ENTITY certerror.learnMore "अधिक जानें…">
 <!ENTITY certerror.advanced.label "उन्नत">
