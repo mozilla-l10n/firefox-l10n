@@ -116,7 +116,7 @@
 <!ENTITY byDate.accesskey         "D">
 <!ENTITY bySite.label             "साइट अनुरुप">
 <!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "सबभन्दा भ्रमण गरिएको अनुसार">
+<!ENTITY byMostVisited.label      "धेरै अगान्तुक आएको अनुसार">
 <!ENTITY byMostVisited.accesskey  "V">
 <!ENTITY byLastVisited.label      "सबभन्दा पछि भ्रमण गरिएको अनुसार">
 <!ENTITY byLastVisited.accesskey  "L">
