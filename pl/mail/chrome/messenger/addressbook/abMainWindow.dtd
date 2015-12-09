@@ -71,7 +71,6 @@
 <!ENTITY searchAddressesCmd.key "f">
 <!ENTITY swapFirstNameLastNameCmd.label "Zamień miejscami Imię/Nazwisko">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "w">
-<!-- Don't translate hideSwapFnLnUI, swap FN/LN UI Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd2.label "Właściwości">
 <!ENTITY propertiesCmd2.accesskey "i">
@@ -102,13 +101,12 @@
 <!ENTITY firstLastCmd2.label "Imię Nazwisko">
 <!ENTITY firstLastCmd2.accesskey "I">
 <!ENTITY lastFirstCmd.label "Nazwisko, imię">
-<!ENTITY lastFirstCmd.accesskey "n">
+<!ENTITY lastFirstCmd.accesskey "N">
 <!ENTITY displayNameCmd.label "Wyświetlana nazwa">
 <!ENTITY displayNameCmd.accesskey "W">
 <!ENTITY sortMenu.label "Sortowanie według">
 <!ENTITY sortMenu.accesskey "S">
 
-<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Narzędzia">
 <!ENTITY tasksMenu.accesskey "N">
 <!ENTITY messengerCmd.label "Poczta i grupy dyskusyjne">
@@ -125,7 +123,6 @@
 <!ENTITY preferencesCmdUnix.label "Preferencje">
 <!ENTITY preferencesCmdUnix.accesskey "P">
 
-<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label "Nowa wizytówka">
 <!ENTITY newContactButton.accesskey "N">
 <!ENTITY newlistButton.label "Nowa lista dystrybucyjna">
@@ -139,7 +136,6 @@
 <!ENTITY deleteButton2.label "Usuń">
 <!ENTITY deleteButton2.accesskey "U">
 
-<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip "Dodaj nową wizytówkę do książki adresowej">
 <!ENTITY newlistButton.tooltip "Dodaj nową listę dystrybucyjną">
 <!ENTITY editButton2.tooltip "Edytuj zaznaczony element">
@@ -147,17 +143,14 @@
 <!ENTITY newIM.tooltip "Połącz z adresatem za pomocą komunikatora">
 <!ENTITY deleteButton2.tooltip "Usuń zaznaczony element">
 
-<!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label "Książki adresowe">
 
-<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Imię, nazwisko lub e-mail">
 <!ENTITY SearchNameOrEmail.accesskey "n">
 <!ENTITY advancedButton.tooltip "Zaawansowane wyszukiwanie adresów">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchItem.title "Szybkie wyszukiwanie">
 
-<!-- Results Pane -->
 <!ENTITY GeneratedName.label "Imię i nazwisko">
 <!ENTITY GeneratedName.accesskey "n">
 <!ENTITY PrimaryEmail.label "E-mail">
@@ -191,25 +184,19 @@
 <!ENTITY _PhoneticName.label "Wymowa">
 <!ENTITY _PhoneticName.accesskey "o">
 
-<!-- Card Summary Pane -->
-<!-- Box Headings -->
 <!ENTITY contact.heading "Kontakt">
 <!ENTITY home.heading "Dom">
 <!ENTITY other.heading "Inne">
 <!ENTITY chat.heading "Czat">
 <!ENTITY phone.heading "Telefon">
 <!ENTITY work.heading "Praca">
-<!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading "Opis">
 <!ENTITY addresses.heading "Adresy">
-<!-- For Map It! -->
 <!ENTITY mapItButton.label "Pokaż mapę">
 <!ENTITY mapIt.tooltip "Wyświetl mapę z sieci WWW dla tego adresu">
 
-<!-- Status Bar -->
 <!ENTITY statusText.label "">
 
-<!-- Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Okno">
 <!ENTITY minimizeWindow.label "Minimalizuj okno">
 <!ENTITY minimizeWindow.key "m">
