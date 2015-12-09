@@ -128,7 +128,6 @@
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li> 
 <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, seiceáil do cheangal sonraí nó Wi-Fi. 
-Wi-Fi connection. 
 <button id='wifi'>Cumasaigh Wi-Fi</button> 
 </li> 
 </ul>">
