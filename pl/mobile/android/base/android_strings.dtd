@@ -167,7 +167,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "Wyświetlanie obrazków">
 <!ENTITY pref_tap_to_load_images_enabled "Zawsze">
 <!ENTITY pref_tap_to_load_images_data "Tylko przez Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled "Nigdy">
+<!ENTITY pref_tap_to_load_images_disabled2 "Blokowanie">
 
 <!ENTITY pref_tracking_protection_title "Ochrona przed śledzeniem">
 <!ENTITY pref_tracking_protection_summary3 "Włączona w trybie prywatnym">
