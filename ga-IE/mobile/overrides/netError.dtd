@@ -67,16 +67,19 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>Bain triail eile as. Déanfaidh &brandShortName; iarracht ceangal a oscailt agus an leathanach a athluchtú. 
-the page. 
 <button id='wifi'>Cumasaigh Wi-Fi</button> 
 </li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> 
+</ul>">
 
 <!ENTITY unsafeContentType.title "Cineál Comhaid Baolach">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Athshocraíodh an ceangal">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -85,10 +88,15 @@ the page.
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Níor tuigeadh an seoladh">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh seo a oscailt.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh seo a oscailt.</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Tá an seachfhreastalaí ag diúltú le ceangail">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Cinntigh go bhfuil na socruithe seachfhreastalaí ceart.</li> <li>Téigh i dteagmháil le do riarthóir líonra le bheith cinnte go bhfuil an seachfhreastalaí ag obair.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Cinntigh go bhfuil na socruithe seachfhreastalaí ceart.</li> 
+<li>Téigh i dteagmháil le do riarthóir líonra le bheith cinnte go bhfuil an seachfhreastalaí ag obair.</li> 
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "Ní féidir an seachfhreastalaí a aimsiú">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
