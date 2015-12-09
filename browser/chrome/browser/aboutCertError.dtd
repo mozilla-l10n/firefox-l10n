@@ -15,3 +15,4 @@
 <b>Anche se si ha fiducia nel sito, questo errore potrebbe comunque significare che qualcuno sta cercando di interferire con la connessione.</b>">
 <!ENTITY certerror.expert.contentPara2 "Aggiungere un’eccezione solo nel caso in cui si conosca un motivo valido per cui questo sito non sta utilizzando una modalità di identificazione affidabile.">
 <!ENTITY certerror.addException.label "Aggiungi eccezione…">
+<!ENTITY certerror.copyToClipboard.label "Copia il testo negli appunti">
