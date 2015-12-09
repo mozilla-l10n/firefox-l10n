@@ -133,6 +133,8 @@
 <!ENTITY newmsgButton.accesskey "N">
 <!ENTITY newIM.label "Nowa wiadomość błyskawiczna">
 <!ENTITY newIM.accesskey "i">
+<!ENTITY printButton.label "Drukuj…">
+<!ENTITY printButton.accesskey "D">
 <!ENTITY deleteButton2.label "Usuń">
 <!ENTITY deleteButton2.accesskey "U">
 
