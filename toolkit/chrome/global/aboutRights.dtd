@@ -19,6 +19,7 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". This means you may use, copy and distribute  &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
 
+<!ENTITY rights.intro-point2-a "आप किसी भी ट्रेडमार्क अधिकारों या मोज़िला फाउंडेशन या सीमा फ़ायरफ़ॉक्स नाम या लोगो के बिना सहित किसी भी पार्टी के ट्रेडमार्क को लाइसेंस प्रदान नहीं हैं। ट्रेडमार्क पर अतिरिक्त जानकारी पाया जा सकता ">
 <!ENTITY rights.intro-point2-b "here">
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
