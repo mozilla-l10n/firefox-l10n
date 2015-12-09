@@ -41,6 +41,8 @@
 
 <!ENTITY popup.label                     "Բացել Pop-up Պատուհանները">
 
+<!ENTITY desktop-notification.label      "Ցուցադրել ծանուցումները">
 <!ENTITY camera.label                    "Օգտ. տեսախցիկը">
 <!ENTITY microphone.label                "Օգտ. խոսափողը">
 
+<!ENTITY focusSearch.key                 "f">

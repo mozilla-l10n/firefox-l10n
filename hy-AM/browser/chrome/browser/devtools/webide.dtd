@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Կառավարել լր. բաղադրիչները">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-
+<!ENTITY projectMenu_refreshTabs_label "Թարմացնել ներդիրները">
 
 <!ENTITY runtimeMenu_label "Աշխատաժամանակ">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -137,7 +137,7 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Ինքնավար ներմուծել փակող փակագիծ">
 <!ENTITY prefs_options_keybindings "Ստեղնաշարի համադրումներ">
 <!ENTITY prefs_options_keybindings_default "Լռելյայն">
-
+<!ENTITY prefs_options_autosavefiles "Ինքնապահել ֆայլերը">
 
 <!-- Permissions Table -->
 

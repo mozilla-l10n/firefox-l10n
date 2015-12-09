@@ -5,7 +5,7 @@
 <!ENTITY playButton.playLabel "Միացնել">
 <!ENTITY playButton.pauseLabel "Ընդմիջել">
 <!ENTITY muteButton.muteLabel "Սսկել">
-<!ENTITY muteButton.unmuteLabel "Ձայն">
+<!ENTITY muteButton.unmuteLabel "Միացնել ձայնը">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Լիաէկրան">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Դուրս գալ Լիաէկրան վիճակից">
 <!ENTITY castingButton.castingLabel "Էկրանին">
