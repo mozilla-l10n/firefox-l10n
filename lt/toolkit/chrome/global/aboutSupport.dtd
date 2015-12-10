@@ -55,7 +55,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "Atminties naudojimas">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
-<!ENTITY aboutSupport.appBasicsServiceWorkers "Registruoti scenarijai">
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Registruoti aptarnavimo scenarijai">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Daugiaprocesiai langai">
 
