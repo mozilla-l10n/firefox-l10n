@@ -12,8 +12,8 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Pesquisar texto ao começar a escrever">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Avisar se os sítios web que visito tentarem redirecionar ou recarregar a página">
-<!ENTITY blockAutoRefresh.accesskey      "t">
+<!ENTITY blockAutoRefresh.label          "Avisar-me se os websites tentarem redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Navegação">
 
