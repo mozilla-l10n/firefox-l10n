@@ -281,8 +281,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Öğeyi incele">
 <!ENTITY inspectContextMenu.accesskey "c">
 
-<!ENTITY responsiveDesignTool.label   "Uyumlu tasarım modu">
-<!ENTITY responsiveDesignTool.accesskey "U">
+<!ENTITY responsiveDesignTool.label   "Responsive tasarım modu">
+<!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Damlalık">
