@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "आपण खाजगी ब्राउजिंग मध्ये नाही आहात.">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; पानाचा काही भाग अडवते जे कदाचित आपल्या ब्राउझिंग मागोवा घेऊ शकतात.">
+<!ENTITY privatebrowsingpage.description.privateDetails "आम्ही कुठलाही इतिहास लक्षात नाही ठेवणार, पण डाउनलोड केलेल्या फाइली आणि नवीन वाचन खूणा तरी आपल्या उपकरणावर साठवल्या जातील.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
