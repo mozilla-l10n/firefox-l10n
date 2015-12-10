@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey "t">
 <!ENTITY restoreHTMLDefaults.label "Przywróć domyślne">
 <!ENTITY restoreHTMLDefaults.accesskey "e">
+<!ENTITY enterKeyCreatesNewParagraph.label "Klawisz Enter tworzy nowy akapit podczas używania formatu akapitu">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY spellCheck.label "Sprawdzaj pisownię przed wysłaniem wiadomości">
 <!ENTITY spellCheck.accesskey "a">
