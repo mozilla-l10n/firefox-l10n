@@ -74,7 +74,7 @@
 <!ENTITY btnConsoleSharedWorkers "Bendri scenarijai">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
-<!ENTITY btnConsoleServiceWorkers "Scenarijai">
+<!ENTITY btnConsoleServiceWorkers "Aptarnavimo scenarijai">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
 <!ENTITY btnConsoleWindowlessWorkers "Priedas arba „Chrome“ scenarijai">
