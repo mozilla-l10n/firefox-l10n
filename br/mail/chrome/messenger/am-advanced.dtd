@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Dre ziouer">
 <!ENTITY smtpListSetDefault.accesskey "z">
 
+<!ENTITY serverDetails.label "Munudoù an dafariad bet diuzet :">
 <!ENTITY serverDescription.label "Deskrivadenn :">
 <!ENTITY serverName.label "Anv dafariad :">
 <!ENTITY serverPort.label "Porzh :">
