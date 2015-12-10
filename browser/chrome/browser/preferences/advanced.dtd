@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "आओर जानू">
 
 <!ENTITY telemetryDesc.label             "&vendorShortName; क संग &brandShortName; केँ बेहतर बनाबैक लेल प्रदर्शन, प्रयोग, हार्डवेयर आओर पसंदीदाकरण आँकड़े केँ अपन ब्राउज़रक साथ साझा करैत अछि">
-
-
+<!ENTITY enableTelemetryData.label       "अतिरिक्त डेटा साझा करू (यानी, टेलीमिति)">
+<!ENTITY enableTelemetryData.accesskey   "ट">
 <!ENTITY telemetryLearnMore.label        "आओर जानू">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; क्रैश रिपोर्ट सौंपेछ जाहिसँ &vendorShortName; क' मदत अहाँक ब्राउज़र केँ अधिक स्थायित्व आओर सुरक्षित बनाबैमे हुए">
@@ -106,14 +106,14 @@
 <!ENTITY offlineAppRemove.confirm        "आफलाइन आँकड़ा हटाउ">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
-
+<!ENTITY certSelection.label             "निवेदन">
 <!ENTITY certSelection.description       "जखन एकरा सर्वर हमर निज प्रमाणपत्र क आग्रह करैत अछि:">
 <!ENTITY certs.auto                      "कोनो एकरा स्वतः चुनू">
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "हमरासँ हरदम पूछू">
 <!ENTITY certs.ask.accesskey             "A">
-
-
+<!ENTITY enableOCSP.label                "OCSP रेस्पांडर सर्वरकेँ प्रश्न करू जाहिसँ प्रमाणपत्रकेँ मोजुदा वैधताकेँ पुष्टि भए सकै (Q)">
+<!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "प्रमाणपत्र देखू">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "सुरक्षा डिवाइस">
