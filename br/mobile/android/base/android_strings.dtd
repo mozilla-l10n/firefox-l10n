@@ -589,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Kennask diarvar">
 <!ENTITY identity_connection_insecure "Kennask arvarus">
-
+<!ENTITY identity_login_insecure "N\u0027eo ket diogel ar bajenn ha gallout a ra ho titouroù kennaskañ bezañ en arvar.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "Stanket eo bet elfennoù arvarus er bajenn gant &brandShortName;.">
