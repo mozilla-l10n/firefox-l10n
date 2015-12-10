@@ -8,7 +8,7 @@
 <!ENTITY getUserMediaDialog.title                   "మాధ్యమ భాగస్వామ్యం">
 <!ENTITY getUserMediaDialog.button.accept.label     "పంచుకో (S)">
 <!ENTITY getUserMediaDialog.button.accept.accesskey "S">
-<!ENTITY getUserMediaDialog.button.cancel.label     "రద్దుచేయి (n)">
+<!ENTITY getUserMediaDialog.button.cancel.label     "రద్దుచేయి">
 <!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
 <!ENTITY getUserMediaDialog.video.label             "కేమెరా ఎంపికచేయి">
