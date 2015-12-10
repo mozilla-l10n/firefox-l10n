@@ -42,19 +42,19 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
 
-
-
+<!ENTITY runtimeMenu_showSettings_label "పరికరపు అమరికలు">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "దర్శించు">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "ఎడిటర్ మార్చు">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "జూమ్ చేయి">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "జూమ్ తగ్గించు">
+<!ENTITY viewMenu_zoomout_accesskey "O">
 
-
-
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "అనువర్తనం తెరు">
 <!ENTITY runtimeButton_label "రన్‌టైమ్ ఎంపికచేయి">
@@ -71,9 +71,10 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
-
-
-
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "నా ప్రోజెక్టులు">
 <!ENTITY projectPanel_runtimeApps "రన్‌టైమ్ అనువర్తనాలు">
@@ -141,7 +142,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "అనుమతుల పట్టిక">
-
+<!ENTITY permissionstable_name_header "పేరు">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "రన్‌టైమ్ సమాచారం">

@@ -52,8 +52,8 @@
 <!ENTITY btnPageLogging.tooltip "window.console ఆబ్జక్టునకు పంపిన లాగ్ సందేశాలు">
 <!ENTITY btnPageLogging.accesskey3 "L">
 
-
-
+<!ENTITY btnConsoleInfo         "సమాచారం">
+<!ENTITY btnConsoleWarnings     "హెచ్చరికలు">
 
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "రీఫ్లోస్">
@@ -61,15 +61,20 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
+<!ENTITY btnServerLogging.label       "సర్వర్">
+<!ENTITY btnServerLogging.tooltip     "వెబ్ సర్వర్ నుండి అందుకున్న సందేశాలను నమోదుచేయి">
+<!ENTITY btnServerLogging.accesskey   "S">
 
-
-
-
-
+<!ENTITY btnServerInfo                "సమాచారం">
+<!ENTITY btnServerWarnings            "హెచ్చరికలు">
+<!ENTITY btnServerLog                 "చిట్టా">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "పంచుకున్న వర్కర్స్">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "సర్వీస్ వర్కర్స్">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
 
