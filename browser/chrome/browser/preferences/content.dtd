@@ -7,13 +7,14 @@
 <!ENTITY  blockPopups.label           "पापअप विंडो केँ रोकू">
 <!ENTITY  blockPopups.accesskey       "B">
 
-
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "सूचना">
+<!ENTITY  notificationsPolicyLearnMore.label   "आओर जानू">
+<!ENTITY  notificationsPolicyDesc3.label       "कोन साइट अध‍िसूचना भेजबा क अनुमति दए रहल अछि चुनू">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "चुनू…">
+<!ENTITY  notificationsDoNotDisturb.label      "परेशान नहि करू">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "जँ अहॉं &brandShortName; फेर स चालू नहि करब कोनो अध‍िसुचना नहि देखाएत">
 
 <!ENTITY  popupExceptions.label       "अपवाद...">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -52,6 +53,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "द्वारा अनूदित">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM अंतर्वस्तु">
 
-
-
+<!ENTITY  playDRMContent.label         "DRM सामग्री बजाउ">
+<!ENTITY  playDRMContent.accesskey     "P">
+<!ENTITY  playDRMContent.learnMore.label "आओर जानू">
