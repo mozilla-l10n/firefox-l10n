@@ -9,6 +9,7 @@
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
+<!ENTITY missingPlugin                                       "ఈ విషయాన్ని చూపించడానికి ఒక ప్లగిన్ కావాలి.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 
 
