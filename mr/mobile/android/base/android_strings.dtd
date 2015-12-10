@@ -216,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "तिसरा पक्ष सोडुन, सक्षम">
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
 
-
+<!ENTITY pref_tap_to_load_images_title "टिचकीने उघडणारी चित्रे">
+<!ENTITY pref_tap_to_load_images_summary2 "काही वेळ दाबून ठेवल्यावरच चित्रे दाखवा">
 
 <!ENTITY pref_tracking_protection_title "सुरक्षेचा मागोवा">
-
+<!ENTITY pref_tracking_protection_summary3 "खाजगी ब्राउझिंग मधे कार्यान्वित">
 <!ENTITY pref_donottrack_title "मागोवा घेऊ नका">
 <!ENTITY pref_donottrack_summary "&brandShortName; हे साइट्सना कळवेल की आपण मागोवा घेऊ इच्छित नाही">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "कार्यान्वित">
+<!ENTITY pref_tracking_protection_enabled_pb "खाजगी ब्राउझिंग मधे कार्यान्वित">
+<!ENTITY pref_tracking_protection_disabled "निष्क्रिय">
 
 <!ENTITY tracking_protection_prompt_title "आता मागोवा सुरक्षा सोबत">
 <!ENTITY tracking_protection_prompt_text "तत्परतेने मागोवा घटक अडवते जेणेकरुन आपल्याला काळजी करावी नाही लागणार.">
@@ -294,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "ताळमेळ">
 <!ENTITY pref_sync_summary2 "आपल्या टॅब्स, वाचनखुणा, लॉगइन्स, इतिहास यांचे ताळमेळ साधा">
 <!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
-
+<!ENTITY pref_history_search_suggestions "शोध इतिहास दर्शवा">
 <!ENTITY pref_import_android "Android मधून घ्या">
 <!ENTITY pref_import_android_summary "मूळ ब्राउज़रमधून वाचनखुणा आणि इतिहास आयात करा">
 <!ENTITY pref_private_data_history2 "ब्राउझिंग इतिहास">
@@ -587,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "सुरक्षित जोडणी">
 <!ENTITY identity_connection_insecure "असुरक्षित जोडणी">
-
+<!ENTITY identity_login_insecure "हे पान सुरक्षित नसून आपले लॉगिन धोक्यत असु शकते.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;ने या पानावर असुरक्षित आशय अडवले.">
@@ -707,6 +709,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "&formatS; मधे दुवा उघडेल.  आपण खरंच खाजगी ब्राउझिंग सोडुन जाऊ इच्छिता का?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -714,6 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "खाजगी ब्राउझिंग सोडायचे?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
