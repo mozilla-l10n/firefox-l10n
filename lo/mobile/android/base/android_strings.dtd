@@ -148,6 +148,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "ສົ່ງແທັບນີ້ໄປຫາອຸປະກອນອື່ນທີ່ໄດ້ຮັບການເຊື່ອມຕໍ່">
+
 <!ENTITY pref_category_search3 "ຊອກຫາ">
 <!ENTITY pref_category_search_summary "ດັດແກ້ຕົວຊອກຫາຂອງທ່ານ">
 <!ENTITY pref_category_display "ສະແດງ">
@@ -487,7 +489,7 @@ size. -->
 
 <!ENTITY button_ok "ຕົກລົງ">
 <!ENTITY button_cancel "ຍົກເລີກ">
-<!ENTITY button_yes "ແມ່ນ">
+<!ENTITY button_yes "ໃຊ້">
 <!ENTITY button_no "ບໍ່">
 <!ENTITY button_clear_data "ລົບລ້າງຂໍ້ມູນ">
 <!ENTITY button_set "ກຳນົດ">
