@@ -214,15 +214,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Activate, excluzând terții">
 <!ENTITY pref_cookies_disabled "Dezactivate">
 
+<!ENTITY pref_tap_to_load_images_title "Atinge pentru a încărca imaginile">
+<!ENTITY pref_tap_to_load_images_summary2 "Încarcă imaginile doar la apăsarea lungă a acestora">
 
-
-<!ENTITY pref_tracking_protection_title "Protecția față de urmărire">
+<!ENTITY pref_tracking_protection_title "Protecție față de urmărire">
 <!ENTITY pref_tracking_protection_summary3 "Activată în navigarea privată">
 <!ENTITY pref_donottrack_title "Nu mă urmări">
 <!ENTITY pref_donottrack_summary "&brandShortName; va spune site-urilor că nu dorești să fii urmărit">
 
+<!ENTITY pref_tracking_protection_enabled "Activată">
 <!ENTITY pref_tracking_protection_enabled_pb "Activată în navigarea privată">
-
+<!ENTITY pref_tracking_protection_disabled "Dezactivată">
 
 <!ENTITY tracking_protection_prompt_title "Acum cu protecție de urmărire">
 <!ENTITY tracking_protection_prompt_text "Blochează în mod activ elementele care îți urmăresc navigarea astfel încât să nu-ți faci griji.">
@@ -282,7 +284,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Permite redarea automată">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă site-urile web pot rula automat videoclipuri și alt conținut media">
 <!ENTITY pref_zoom_force_enabled "Activează mereu zoom-ul">
-<!ENTITY pref_zoom_force_enabled_summary "Forțează suprascrierea ca să poți face focalizare pe orice pagină">
+<!ENTITY pref_zoom_force_enabled_summary "Forțează suprascrierea ca să poți face zoom pe orice pagină">
 <!ENTITY pref_voice_input "Intrare vocală">
 <!ENTITY pref_voice_input_summary "Permite dictarea vocală în bara de titlu">
 <!ENTITY pref_qrcode_enabled "Cititor de coduri QR">
@@ -292,19 +294,19 @@ size. -->
 <!ENTITY pref_sync "Sincronizare">
 <!ENTITY pref_sync_summary2 "Sincronizează filele, semnele de carte, autentificările, istoricul">
 <!ENTITY pref_search_suggestions "Arată sugestii de căutare">
-
+<!ENTITY pref_history_search_suggestions "Arată istoricul căutărilor">
 <!ENTITY pref_import_android "Importă din Android">
 <!ENTITY pref_import_android_summary "Importă semnele de carte și istoricul din browserul nativ">
 <!ENTITY pref_private_data_history2 "Istoricul navigării">
 <!ENTITY pref_private_data_searchHistory "Istoricul căutărilor">
 <!ENTITY pref_private_data_formdata2 "Istoricul formularelor">
-<!ENTITY pref_private_data_cookies2 "Cookie-uri și autentificări active">
-<!ENTITY pref_private_data_passwords2 "Autentificări salvate">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Date offline ale site-urilor web">
+<!ENTITY pref_private_data_cookies2 "Cookie-urile și autentificările active">
+<!ENTITY pref_private_data_passwords2 "Autentificările salvate">
+<!ENTITY pref_private_data_cache "Cache-ul">
+<!ENTITY pref_private_data_offlineApps "Datele offline ale site-urilor web">
 <!ENTITY pref_private_data_siteSettings2 "Setările site-urilor">
-<!ENTITY pref_private_data_downloadFiles2 "Descărcări">
-<!ENTITY pref_private_data_syncedTabs "File sincronizate">
+<!ENTITY pref_private_data_downloadFiles2 "Descărcările">
+<!ENTITY pref_private_data_syncedTabs "Filele sincronizate">
 
 
 <!ENTITY pref_about_firefox "Despre &brandShortName;">
@@ -438,7 +440,7 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_magnifying_glass_enabled "Amplifică zonele mici">
+<!ENTITY pref_magnifying_glass_enabled "Mărește zonele mici">
 <!ENTITY pref_magnifying_glass_enabled_summary "Mărește linkurile și câmpurile formularelor la apăsarea lângă acestea">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
