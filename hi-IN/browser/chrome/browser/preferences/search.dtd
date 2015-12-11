@@ -11,7 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "स्थान पट्टी परिणाम में खोज सुझाव दिखाएँ">
 <!ENTITY showURLBarSuggestions.accesskey       "स">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "खोज सुझाव स्थान पट्टी में दिखाए नहीं जायेंगे क्योंकि आपने &brandShortName; को कभी भी इतिहास याद न रखने के लिए कॉन्फ़िगर करा है.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "खोज सुझाव स्थान पट्टी में दिखाएँ नहीं जायेंगे क्योंकी आपने &brandShortName; को कभी भी इतिहास याद न रखने क लिए कॉन्फ़िगर करा है ">
 
 <!ENTITY redirectWindowsSearch.label "विंडोज से खोजों के लिए इस खोज इंजन का प्रयोग करें">
 <!ENTITY redirectWindowsSearch.accesskey "व">
