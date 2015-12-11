@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Ikusi gehigarria instalatzeko mezua">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ikusi aplikazioaren lineaz kanpoko biltegiratzearen mezua">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Kudeatu zure saio-hasiera informazioa">
-
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Markatu pasahitza gorde nahi baduzu">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Ikusi aplikazioaren instalazio-mezua">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Kudeatu pluginen erabilera orri honetan">
 <!ENTITY urlbar.webNotsNotificationAnchor.label         "Aldatu guneak jakinarazpenik erakuts dezakeen ala ez">
@@ -336,8 +336,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fitxategia"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Edukiontzi-fitxa berria">
+<!ENTITY newUserContext.accesskey         "E">
 <!ENTITY userContextPersonal.label        "Pertsonala">
 <!ENTITY userContextPersonal.accesskey    "P">
 <!ENTITY userContextWork.label            "Lanekoa">
