@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "&brandFullName; क परिचय">
+<!ENTITY aboutDialog.title          "&brandFullName; क परिचय ">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -44,7 +44,7 @@
 <!ENTITY helpus.middle              ", अथवा ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "सामिल होउ!">
-<!ENTITY helpus.end                 "वा">
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "लाइसेंसक सूचना">
@@ -71,7 +71,7 @@
 
 <!ENTITY update.failed.start        "अद्यतन विफल. ">
 <!ENTITY update.failed.linkText     "नवीनतम संस्करण डाउनलोड करू ">
-<!ENTITY update.failed.end          "अद्यतन असफल खतम">
+<!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,

@@ -29,7 +29,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "सक्रिय करू ">
 <!ENTITY aboutSupport.experimentEndDate "समाप्ति तिथि ">
 <!ENTITY aboutSupport.experimentHomepage "होमपेज">
-
+<!ENTITY aboutSupport.experimentBranch "शाखा">
 
 <!ENTITY aboutSupport.appBasicsTitle "अनुप्रयोग मूल">
 <!ENTITY aboutSupport.appBasicsName "नाम">
@@ -54,8 +54,11 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति के उपयोग">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "पंजीकृत सर्विस वर्कर">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "मल्टी प्रोसेस विंडोज़">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "सुरक्षित मोड">
 
 <!ENTITY aboutSupport.showDir.label "खुलल निर्देशिका">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

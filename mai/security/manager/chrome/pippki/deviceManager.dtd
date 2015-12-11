@@ -28,7 +28,7 @@
 <!ENTITY loaddevice.modname                     "मौड्यूल नाम:">
 <!ENTITY loaddevice.modname.accesskey           "M">
 <!ENTITY loaddevice.modname.default             "नव PKCS#11 मौड्यूल">
-<!ENTITY loaddevice.filename                    "मौड्यूल फाइलनाम:">
+<!ENTITY loaddevice.filename                    "मोड्यूल फाइलनाम:">
 <!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "ब्राउज  करू ...">
 <!ENTITY loaddevice.browse.accesskey            "B">
