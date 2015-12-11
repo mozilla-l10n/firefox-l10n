@@ -184,5 +184,5 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.longDesc "Informazio aurreratua: ssl_error_no_cypher_overlap">
 <!ENTITY weakCryptoUsed.learnMore "Argibide gehiago…">
 <!ENTITY weakCryptoAdvanced.title "Aurreratua">
-
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ostalariak zaharkituta dagoen eta erasoen aurrean babesik ez duen segurtasun-teknologia erabiltzen du. Segurua zela uste zenuen informazioa erraz agerraraz lezake erasotzaile batek.">
 <!ENTITY weakCryptoAdvanced.override "(Ez segurua) Saiatu <span class='hostname'></span> kargatzen segurtasun zaharkitua erabiliz">
