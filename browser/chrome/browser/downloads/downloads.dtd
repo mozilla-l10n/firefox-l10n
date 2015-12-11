@@ -53,7 +53,7 @@
      -->
 <!ENTITY cmd.show.label                   "संग्राहक फोल्डर खोलें">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "फाइंडर में दिखाएँ">
+<!ENTITY cmd.showMac.label                " फाइंडर में दिखाएँ">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "फिर कोशिश करें">
 <!ENTITY cmd.goToDownloadPage.label       "डाउनलोड पृष्ठ पर जाएँ">
@@ -83,7 +83,7 @@
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
 
-<!ENTITY blocked.label                    "रोका हुआ">
+<!ENTITY blocked.label                    "अवरूद्ध">
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example
      malware, when there is an associated explanation page on the Mozilla site.
@@ -101,7 +101,7 @@
 <!ENTITY downloadsHistory.accesskey       "S">
 
 <!ENTITY clearDownloadsButton.label       "डाउनलोड साफ़ करें">
-<!ENTITY clearDownloadsButton.tooltip     "संपन्न, रद्द, और विफल डाउनलोड को हटाया">
+<!ENTITY clearDownloadsButton.tooltip     " संपन्न, रद्द, और विफल डाउनलोड को हटाया">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
@@ -118,4 +118,4 @@
      results in the Downloads view.
      -->
 
-<!ENTITY downloadsListNoMatch.label       "कोई मेल खाते डाउनलोड नहीं ढूँढ़ सका">
+<!ENTITY downloadsListNoMatch.label       " कोई मेल खाते डाउनलोड नहीं ढूँढ़ सका">
