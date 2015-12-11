@@ -33,5 +33,5 @@
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "उपयोक्तानाम भरू (F)">
 <!ENTITY fillUsernameMenu.accesskey   "F">
-
+<!ENTITY noLoginSuggestions.label     "(कोनो लॉगइन सुझाव नहि)">
 <!ENTITY viewSavedLogins.label        "सहेजल लॉगिन देखू">

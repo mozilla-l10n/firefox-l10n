@@ -17,7 +17,7 @@
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "सफारी">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromCanary.label         "क्रोम Canary">
+<!ENTITY importFromCanary.label         "क्रोम कैनरी">
 <!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "क्रोम">
 <!ENTITY importFromChrome.accesskey     "C">
@@ -25,7 +25,7 @@
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "फायरफाक्स">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFrom360se.label          "360 सुरक्षित ब्राउज़र">
+<!ENTITY importFrom360se.label          "360 सुरक्षित ब्राउज़र">
 <!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "प्रोग्राम जे पुस्तकचिह्न, इतिहास अथवा गुड़किल्ली आँकड़ा रखती अछि पायी गई.">

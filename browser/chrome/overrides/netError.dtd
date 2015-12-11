@@ -130,7 +130,8 @@
 <!ENTITY malwareBlocked.longDesc "<p>हमला साइट उन प्रोग्रामकेँ संस्थापित करबाक कोशिश करैत अछि जे निज जानकारी चुराबै अछि, अहाँक कंप्यूटरक प्रयोग दोसर पर हमलाक लेल करैत अछि, अथवा अहाँक सिस्टम केँ क्षति पहुंचाबैत अछि.</p> 
 <p>वेब साइटक मालिक जे विश्वास करैत छी जे हुनका साइट ककरो गलतीक वजह सँ हमला साइटक रूपेँ रिपोर्ट कएल गेल अछि ओ <a href='http://www.stopbadware.org/home/reviewinfo' >समीक्षाक लेल आग्रह</a> कए सकैत अछि.</p>">
 
-
+<!ENTITY unwantedBlocked.title "संदिग्ध अवांछित सॉफ्टवेयर साइट!">
+<!ENTITY unwantedBlocked.longDesc "<p>अवांछित सॉफ्टवेयर पृष्ठ ओ सॉफ्टवेयर स्थापित करए केर प्रयास करैत अछि जेभ्रामक भ सकैछ आओर अप्रत्याशित तरीका मे अहाँक तंत्र केँ प्रभावित कए सकैत अछि.</p>">
 
 <!ENTITY phishingBlocked.title "संदेहास्पद वेब धोखाधड़ी!">
 <!ENTITY phishingBlocked.longDesc "<p>ककरो निज सूचना केँ एहि पृष्ठ पर दाखिल कएनाइ पहचान चोरी अथवा दोसर धोखाक कारण भए सकैत अछि.</p> 
@@ -173,13 +174,13 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
 <!ENTITY sslv3Used.longDesc "उन्नत जानकारी: ssl_error_unsupported_version">
-
+<!ENTITY sslv3Used.learnMore "आओर जानू…">
 
 <!ENTITY weakCryptoUsed.title "अहाँक कनेक्शन सुरक्षित नहि अछि">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
 <!ENTITY weakCryptoUsed.longDesc "उन्नत जानकारी: ssl_error_no_cypher_overlap">
 <!ENTITY weakCryptoUsed.learnMore "आओर जानू…">
-
-
-
+<!ENTITY weakCryptoAdvanced.title "उन्नत">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> आब पुरान भ गेल अछि आओर हमला खातिर भेद्य भ चुकल अछि. एक हमला द्वारा अहाँक सूचना जकरा अहाँ सुरक्षित बुझैत छी ओ आसानी सँ प्रकट भ सकैत अछि.">
+<!ENTITY weakCryptoAdvanced.override "(Not secure) लोड करबाक कोसिस करू <span class='hostname'></span> पुरानसुरक्षा क उपयोग सँ ">
