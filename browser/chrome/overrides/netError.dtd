@@ -13,19 +13,11 @@
 <!ENTITY connectionFailure.title "कनेक्ट करने में असमर्थ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "यह पता प्रतिबंधित है">
+<!ENTITY deniedPortAccess.title " यह पता प्रतिबंधित है">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सर्वर नहीं मिला">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>पता को टाइपिंग त्रुटि के लिए जाँचे जैसे कि 
-<strong>ww</strong>.example.com बजाए 
-<strong>www</strong>.example.com</li> 
-<li>यदि आप किसी पृष्ठ को लोड करने में असमर्थ हैं, अपने कंप्यूटर संजाल कनेक्शन 
-की जांच करें.</li> 
-<li>यदि आपका कंप्यूटर या संजाल फायरवाल या प्रॉक्सी से सुरक्षित है, सुनिश्चित करें 
-कि &brandShortName; को वेब के अभिगम के लिए अनुमति प्राप्त है.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>पता को टाइपिंग त्रुटि के लिए जाँचे जैसे कि <strong>ww</strong>.example.com बजाए <strong>www</strong>.example.com</li> <li>यदि आप किसी पृष्ठ को लोड करने में असमर्थ हैं, अपने कंप्यूटर संजाल कनेक्शन की जांच करें.</li> <li>यदि आपका कंप्यूटर या संजाल फायरवाल या प्रॉक्सी से सुरक्षित है, सुनिश्चित करें कि &brandShortName; को वेब के अभिगम के लिए अनुमति प्राप्त है.</li> </ul>">
 
 <!ENTITY fileNotFound.title "फाइल नहीं मिला">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -38,7 +30,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; कुछ कारणों के लिए इस पृष्ठ को लोड नहीं कर सकता है.</p>">
 
 <!ENTITY malformedURI.title "पता वैध नहीं है">
-<!ENTITY malformedURI.longDesc "<ul> 
+<!ENTITY malformedURI.longDesc " <ul> 
 <li>वेब पता प्रायः इस तरह लिखा जाता है 
 <strong>http://www.example.com/</strong></li> 
 <li>सुनिश्चित करें कि आप फॉरवर्ड स्लैश का प्रयोग कर रहे हैं (यानी 
@@ -62,14 +54,14 @@
 </ul>">
 
 <!ENTITY unsafeContentType.title "असुरक्षित फाइल प्रकार">
-<!ENTITY unsafeContentType.longDesc "<ul> 
+<!ENTITY unsafeContentType.longDesc " <ul> 
 <li>कृपया वेबसाइट मालिक से उन्हें इस समस्या के बारे में बताने के लिए संपर्क करें.</li> 
 </ul>">
 
 <!ENTITY netReset.title "कनेक्शन रिसेट किया गया था">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc " &sharedLongDesc;">
 
-<!ENTITY netTimeout.title "कनेक्शन का समय समाप्त हो गया">
+<!ENTITY netTimeout.title " कनेक्शन का समय समाप्त हो गया">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "पता समझा नहीं गया था">
@@ -84,7 +76,7 @@
 काम कर रहा है.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "प्राक्सी सर्वर ढ़ूढ़ने में असमर्थ">
+<!ENTITY proxyResolveFailure.title " प्राक्सी सर्वर ढ़ूढ़ने में असमर्थ">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>प्रॉक्सी सेटिंग की जाँच सुनिश्चित करने के लिए करें कि वे सही हैं.</li> 
 <li>सुनिश्चित करने के लिए जाँचें कि आपके कंप्यूटर के पास कार्यशील संजाल कनेक्शन है.</li> 
@@ -128,7 +120,7 @@
 कि &brandShortName; वेब अभिगमन के लिए अनुमति प्राप्त है.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "संदेहास्पद हमला साइट!">
+<!ENTITY malwareBlocked.title " संदेहास्पद हमला साइट!">
 <!ENTITY malwareBlocked.longDesc "<p>हमला साइट उन प्रोग्रामों को संस्थापित करने की कोशिश करता है जो निजी सूचना चुराते हैं, आपके कंप्यूटर का प्रयोग दूसरों पर हमले के लिए करते हैं, या आपके सिस्टम को क्षति पहुंचाते हैं.</p> 
 <p>वेब साइट के मालिक जो विश्वास करते हैं कि उनका साइट किसी गलती की वजह से हमला साइट के रूप में रिपोर्ट किया गया है वे <a href='http://www.stopbadware.org/home/reviewinfo' >समीक्षा के लिए आग्रह</a> कर सकते हैं.</p>">
 
