@@ -6,7 +6,7 @@
 <!ENTITY minimizeWindow.label     " न्यूनतम">
 <!ENTITY bringAllToFront.label    " सभी को सामने लाएँ">
 <!ENTITY zoomWindow.label         " बड़ा-छोटा करें">
-<!ENTITY windowMenu.label         "खिड़की">
+<!ENTITY windowMenu.label         " विंडो">
 
 <!ENTITY helpMenu.label           "सहायता."> 
 <!ENTITY helpMenu.accesskey       "स"> 

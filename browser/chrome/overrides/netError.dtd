@@ -5,31 +5,31 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "पृष्ठ की लोडिंग में समस्या">
+<!ENTITY loadError.label " पृष्ठ की लोडिंग में समस्या">
 <!ENTITY retry.label "फिर कोशिश करें">
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "कनेक्ट करने में असमर्थ">
+<!ENTITY connectionFailure.title " कनेक्ट करने में असमर्थ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title " यह पता प्रतिबंधित है">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "सर्वर नहीं मिला">
+<!ENTITY dnsNotFound.title " सर्वर नहीं मिला">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>पता को टाइपिंग त्रुटि के लिए जाँचे जैसे कि <strong>ww</strong>.example.com बजाए <strong>www</strong>.example.com</li> <li>यदि आप किसी पृष्ठ को लोड करने में असमर्थ हैं, अपने कंप्यूटर संजाल कनेक्शन की जांच करें.</li> <li>यदि आपका कंप्यूटर या संजाल फायरवाल या प्रॉक्सी से सुरक्षित है, सुनिश्चित करें कि &brandShortName; को वेब के अभिगम के लिए अनुमति प्राप्त है.</li> </ul>">
 
-<!ENTITY fileNotFound.title "फाइल नहीं मिला">
-<!ENTITY fileNotFound.longDesc "<ul> 
+<!ENTITY fileNotFound.title " फाइल नहीं मिला">
+<!ENTITY fileNotFound.longDesc " <ul> 
 <li>कैपिटलाइजेशन या दूसरी टाइपिंग त्रुटि के लिए फाइल नाम जांचें.</li> 
 <li>जाँचे यह देखने के लिए कि फाइल खिसकाया, फिर नामकरण किया अथवा मिटाया गया था.</li> 
 </ul>">
 
 
 <!ENTITY generic.title "ओफ्फ.">
-<!ENTITY generic.longDesc "<p>&brandShortName; कुछ कारणों के लिए इस पृष्ठ को लोड नहीं कर सकता है.</p>">
+<!ENTITY generic.longDesc " <p>&brandShortName; कुछ कारणों के लिए इस पृष्ठ को लोड नहीं कर सकता है.</p>">
 
-<!ENTITY malformedURI.title "पता वैध नहीं है">
+<!ENTITY malformedURI.title " पता वैध नहीं है">
 <!ENTITY malformedURI.longDesc " <ul> 
 <li>वेब पता प्रायः इस तरह लिखा जाता है 
 <strong>http://www.example.com/</strong></li> 
@@ -37,18 +37,18 @@
 <strong>/</strong>).</li> 
 </ul>">
 
-<!ENTITY netInterrupt.title "कनेक्शन बाधित किया गया था">
+<!ENTITY netInterrupt.title " कनेक्शन बाधित किया गया था">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "दस्तावेज़ का समय समाप्त">
+<!ENTITY notCached.title " दस्तावेज़ का समय समाप्त">
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "Offline mode">
-<!ENTITY netOffline.longDesc2 "<ul> 
+<!ENTITY netOffline.longDesc2 " <ul> 
 <li>&quot;फिर कोशिश करें&quot; को ऑनलाइन अवस्था में जाने के लिए दबाएँ और पृष्ठ फिर लोड करें.</li> 
 </ul>">
 
-<!ENTITY contentEncodingError.title "अंतर्वस्तु ऐन्कोडिंग त्रुटि">
+<!ENTITY contentEncodingError.title " अंतर्वस्तु ऐन्कोडिंग त्रुटि">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>कृपया वेबसाइट मालिक से उन्हें इस समस्या के बारे में बताने के लिए संपर्क करें.</li> 
 </ul>">
@@ -58,26 +58,26 @@
 <li>कृपया वेबसाइट मालिक से उन्हें इस समस्या के बारे में बताने के लिए संपर्क करें.</li> 
 </ul>">
 
-<!ENTITY netReset.title "कनेक्शन रिसेट किया गया था">
+<!ENTITY netReset.title " कनेक्शन रिसेट किया गया था">
 <!ENTITY netReset.longDesc " &sharedLongDesc;">
 
 <!ENTITY netTimeout.title " कनेक्शन का समय समाप्त हो गया">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "पता समझा नहीं गया था">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title " पता समझा नहीं गया था">
+<!ENTITY unknownProtocolFound.longDesc " <ul> 
 <li>आप अन्य साफ्टवेयर को इस पता को खोलने के लिए संस्थापित कर सकते हैं.</li> 
 </ul>">
 
-<!ENTITY proxyConnectFailure.title "प्रॉक्सी सर्वर कनेक्शन अस्वीकार कर रहा है">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<!ENTITY proxyConnectFailure.title " प्रॉक्सी सर्वर कनेक्शन अस्वीकार कर रहा है">
+<!ENTITY proxyConnectFailure.longDesc " <ul> 
 <li>प्रॉक्सी सेटिंग की जाँच सुनिश्चित करने के लिए करें कि वे सही हैं.</li> 
 <li>अपने संजाल प्रशासक को जांचे सुनिश्चित करने के लिए प्रॉक्सी सर्वर 
 काम कर रहा है.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title " प्राक्सी सर्वर ढ़ूढ़ने में असमर्थ">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<!ENTITY proxyResolveFailure.longDesc " <ul> 
 <li>प्रॉक्सी सेटिंग की जाँच सुनिश्चित करने के लिए करें कि वे सही हैं.</li> 
 <li>सुनिश्चित करने के लिए जाँचें कि आपके कंप्यूटर के पास कार्यशील संजाल कनेक्शन है.</li> 
 <li>यदि आपका कंप्यूटर या संजाल फायरवाल या प्रॉक्सी से सुरक्षित है, सुनिश्चित करें 
@@ -90,7 +90,7 @@
 करने के कारण होता है.</li> 
 </ul>">
 
-<!ENTITY unknownSocketType.title "सर्वर से अप्रत्याशित अनुक्रिया">
+<!ENTITY unknownSocketType.title " सर्वर से अप्रत्याशित अनुक्रिया">
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>सुनिश्चित करने के लिए जाँचें कि आपके सिस्टम में निजी सुरक्षा प्रबंधक 
 स्थापित है.</li> 
@@ -103,7 +103,7 @@
 <li>कृपया वेब साइट मालिक को इस समस्या के बारे में सूचित करने के लिए संपर्क करें.</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "सुरक्षित कनेक्शन विफल">
+<!ENTITY nssBadCert.title " सुरक्षित कनेक्शन विफल">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>यह सर्वर विन्यास के साथ समस्या हो सकती है, या कोई दूसरा 
 सर्वर का भेष बना के आने की कोशिश कर सकता है !</li> 
@@ -134,13 +134,13 @@
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY corruptedContentError.title "खराब अंतर्वस्तु त्रुटि">
+<!ENTITY corruptedContentError.title " खराब अंतर्वस्तु त्रुटि">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "या आप एक अपवाद जोड़ सकते हैं…">
+<!ENTITY securityOverride.linkText " या आप एक अपवाद जोड़ सकते हैं…">
 <!ENTITY securityOverride.getMeOutOfHereButton "यहाँ से मुझे बाहर ले जाएँ!">
-<!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोड़ें…">
+<!ENTITY securityOverride.exceptionButtonLabel " अपवाद जोड़ें…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
@@ -170,7 +170,7 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.longDesc "उन्नत जानकारी: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "अधिक जानें…">
 
-<!ENTITY weakCryptoUsed.title "आपका कनेक्शन असुरक्षित है">
+<!ENTITY weakCryptoUsed.title "आपका कनेक्शन सुरक्षित नही हैं">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
 <!ENTITY weakCryptoUsed.longDesc "विस्तृत जानकारी : ssl_error_no_cypher_overlap">
