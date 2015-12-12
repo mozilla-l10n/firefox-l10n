@@ -902,7 +902,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-<!ENTITY panicButton.view.mainTimeframeDesc       "अन्तिम बिर्सनुहोस्:">
+<!ENTITY panicButton.view.mainTimeframeDesc       "अन्तिमलाई बिर्सनुहोस्:">
 <!ENTITY panicButton.view.5min                    "पाँच मिनेट">
 <!ENTITY panicButton.view.2hr                     "दुई घन्टा">
 <!ENTITY panicButton.view.day                     "२४ घन्टा">
