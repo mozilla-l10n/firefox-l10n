@@ -192,6 +192,21 @@
 <!ENTITY pref_home_suggested_sites_summary "Afficher sur votre écran d\u0027accueil des raccourcis vers des sites que nous pensons que vous trouverez intéressants">
 <!ENTITY pref_category_home_homepage "Page d\u0027accueil">
 <!ENTITY home_homepage_title "Définir une page d\u0027accueil">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Accueil de &brandShortName;">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Personnalisée">
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
+<!ENTITY home_homepage_hint_user_address "Adresse ou terme à rechercher">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Général">
@@ -210,7 +225,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "Afficher les images">
 <!ENTITY pref_tap_to_load_images_enabled "Toujours">
 <!ENTITY pref_tap_to_load_images_data "Seulement par Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled "Jamais">
+<!ENTITY pref_tap_to_load_images_disabled2 "Bloquer">
 
 <!ENTITY pref_tracking_protection_title "Protection contre le pistage">
 <!ENTITY pref_tracking_protection_summary3 "Activée pour la navigation privée">
@@ -247,6 +262,9 @@
 <!ENTITY pref_char_encoding_on "Afficher le menu">
 <!ENTITY pref_char_encoding_off "Masquer le menu">
 <!ENTITY pref_clear_private_data "Effacer mes traces">
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Effacer maintenant">
 <!ENTITY pref_clear_on_exit_title3 "Effacer mes traces à la fermeture">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; effacera automatiquement vos données lorsque vous sélectionnerez « Quitter » depuis le menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Sélectionner les données à effacer">
@@ -719,13 +737,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Modules complémentaires">
+<!ENTITY restrictable_feature_addons_installation_description "Ajoutent des fonctionnalités à Firefox. Note : les modules peuvent désactiver certaines restrictions.">
 <!ENTITY restrictable_feature_private_browsing "Navigation privée">
-<!ENTITY restrictable_feature_location_services "Services de géolocalisation">
+<!ENTITY restrictable_feature_private_browsing_description "Permet aux membres de la famille de naviguer sans enregistrer d\u0027informations sur les sites qu\u0027ils ont visités.">
 <!ENTITY restrictable_feature_clear_history "Effacer l\u0027historique">
-<!ENTITY restrictable_feature_guest_browsing "Navigation invité">
-<!ENTITY restrictable_feature_master_password "Mot de passe principal">
+<!ENTITY restrictable_feature_clear_history_description "Permet aux membres de la famille d\u0027effacer des informations concernant les sites et les pages qu\u0027ils ont visités.">
 <!ENTITY restrictable_feature_advanced_settings "Paramètres avancés">
+<!ENTITY restrictable_feature_advanced_settings_description "Incluent l\u0027importation de marque-pages, la restauration d\u0027onglets et les mises à jours automatiques. Désactivez-les pour bénéficier de paramètres plus simples pour tous les membres de la famille.">
 <!ENTITY restrictable_feature_camera_microphone "Caméra et microphone">
+<!ENTITY restrictable_feature_camera_microphone_description "Permet aux membres de la famille d\u0027engager des communications en temps réel sur des sites web.">
+<!ENTITY restrictable_feature_data_choices "Données collectées">
+<!ENTITY restrictable_feature_data_choices_description "Décidez si vous souhaitez envoyer ou non des informations à Mozilla pour aider à améliorer Firefox.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
@@ -747,7 +769,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY unsupported_sdk_version "Désolé, cette version de &brandShortName; ne fonctionnera pas sur cet appareil (&formatS1;, &formatS2;). Veuillez télécharger la version appropriée.">
 
 <!-- https://support.mozilla.org/1/mobile/%VERSION%/%OS%/%LOCALE%/honeycombs -->
-<!ENTITY eol_notification_url "https://support.mozilla.org/1/firefox/&formatS1;/&formatS2;/&formatS3;/honeycombs">
 <!ENTITY eol_notification_title "&brandShortName; ne prend plus en charge Android 3">
 <!ENTITY eol_notification_summary "Appuyez pour en savoir plus">
 

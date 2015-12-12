@@ -24,3 +24,4 @@ was trying to connect. -->
 <!ENTITY certerror.expert.content "Si vous comprenez ce qui se passe, vous pouvez indiquer à &brandShortName; de commencer à faire confiance à l'identification de ce site. <b>Même si vous avez confiance en ce site, cette erreur pourrait signifier que quelqu'un est en train de pirater votre connexion.</b>">
 <!ENTITY certerror.expert.contentPara2 "N'ajoutez pas d'exception à moins que vous ne connaissiez une bonne raison pour laquelle ce site n'utilise pas d'identification certifiée.">
 <!ENTITY certerror.addException.label "Ajouter une exception…">
+<!ENTITY certerror.copyToClipboard.label "Copier le texte dans le presse-papiers">
