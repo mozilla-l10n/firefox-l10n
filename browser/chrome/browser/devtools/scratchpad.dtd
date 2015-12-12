@@ -18,6 +18,10 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
+
+
+<!ENTITY window.title                 "स्क्र्याचप्याड">
+
 <!ENTITY fileMenu.label               "फाइल">
 <!ENTITY fileMenu.accesskey           "F">
 
@@ -42,8 +46,9 @@
 <!ENTITY saveFileAsCmd.label          "यस रूपमा सङ्ग्रह गर्नुहोस्...">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
+<!ENTITY closeCmd.label               "बन्द गर्नुहोस्">
 <!ENTITY closeCmd.key                 "W">
-
+<!ENTITY closeCmd.accesskey           "C">
 
 <!ENTITY viewMenu.label               "दृश्य">
 <!ENTITY viewMenu.accesskey           "V">
@@ -61,7 +66,8 @@
 
 
 
-
+<!ENTITY normalSize.label             "साधारण आकार">
+<!ENTITY normalSize.accesskey         "N">
 
 
 <!ENTITY editMenu.label               "सम्पादन">
@@ -79,8 +85,9 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "राम्रो छपाइ">
 <!ENTITY pprint.key                   "p">
-
+<!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -92,6 +99,8 @@
 <!ENTITY environmentMenu.accesskey    "n">
 
 
+<!ENTITY contentContext.label         "सामग्री">
+<!ENTITY contentContext.accesskey     "C">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
@@ -99,12 +108,16 @@
   -  was called "Chrome".
   -->
 
+<!ENTITY browserContext.label         "ब्राउजर">
+<!ENTITY browserContext.accesskey     "B">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
 
-
-
+<!ENTITY helpMenu.label               "मद्दत">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "मद्दत">
+<!ENTITY helpMenuWin.accesskey        "H">
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
