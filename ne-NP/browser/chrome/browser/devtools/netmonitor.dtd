@@ -75,6 +75,8 @@
 <!ENTITY netmonitorUI.tab.security        "सुरक्षा">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterAll    "सबै">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
 
@@ -116,6 +118,8 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
+
+<!ENTITY netmonitorUI.footer.clear  "खाली गर्नुहोस्">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.panesButton.tooltip): This is the tooltip for
@@ -205,6 +209,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "जडान :">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
@@ -301,6 +307,8 @@
 <!ENTITY netmonitorUI.custom.headers      "हेडरहरू अनुरोध गर्नुहोस्">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.postData     "अनुरोध भाग:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
 
@@ -311,3 +319,5 @@
 <!ENTITY netmonitorUI.custom.cancel       "रद्द गर्नुहोस्">
 <!-- LOCALIZATION NOTE (netmonitorUI.backButton): This is the label displayed
   -  on the button which exists the performance statistics view -->
+
+<!ENTITY netmonitorUI.backButton          "पछाडि">

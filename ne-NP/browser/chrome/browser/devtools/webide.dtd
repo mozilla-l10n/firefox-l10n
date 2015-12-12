@@ -19,9 +19,9 @@
 
 
 
+<!ENTITY projectMenu_remove_label "प्रोजेक्ट हटाउनुहोस्">
 
-
-
+<!ENTITY projectMenu_showPrefs_label "प्राथमिकताहरू">
 
 
 
@@ -47,9 +47,9 @@
 
 
 
+<!ENTITY viewMenu_zoomin_label "जुम बढाउनुहोस्">
 
-
-
+<!ENTITY viewMenu_zoomout_label "जुम घटाउनुहोस्">
 
 
 
@@ -77,12 +77,14 @@
 
 
 <!-- Lense -->
+
+<!ENTITY details_valid_header "वैध">
 <!ENTITY details_warning_header "चेतावनीहरू">
-
+<!ENTITY details_error_header "त्रुटिहरू">
 <!ENTITY details_description "वर्णन">
+<!ENTITY details_location "स्थान">
 
-
-
+<!ENTITY details_removeProject_button "प्रोजेक्ट हटाउनुहोस्">
 
 <!-- New App -->
 
@@ -97,8 +99,10 @@
 
 <!-- Prefs -->
 
-<!ENTITY prefs_general_title "सामान्य">
+<!ENTITY prefs_title "प्राथमिकताहरू">
 
+<!ENTITY prefs_general_title "सामान्य">
+<!ENTITY prefs_restore "पूर्वानिर्धारित अवस्थामा ल्याउनुहोस्">
 
 
 
@@ -122,7 +126,7 @@
 
 
 <!-- Permissions Table -->
-
+<!ENTITY permissionstable_name_header "नाम">
 <!-- Runtime Details -->
 
 
@@ -132,7 +136,9 @@
 
 <!-- Device Preferences and Settings -->
 
-
+<!ENTITY device_typeboolean "बुलियन">
+<!ENTITY device_typenumber "इन्टिजर">
+<!ENTITY device_typestring "स्ट्रिङ्ग">
 <!ENTITY device_typeobject "वस्तु">
 
 <!-- Device Preferences -->
@@ -140,10 +146,10 @@
 <!ENTITY devicepreference_title "उपकरण प्राथमिकताहरू">
 
 
-
+<!ENTITY devicepreference_newtext "प्राथमिकता मान">
 
 <!-- Device Settings -->
-
+<!ENTITY devicesetting_search "खोज सेटिङ्हरू">
 
 
 
@@ -164,8 +170,8 @@
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
-
-
+<!ENTITY simulator_reset "पूर्वानिर्धारित अवस्थामा ल्याउनुहोस्">
+<!ENTITY simulator_name "नाम">
 
 <!ENTITY simulator_version "संस्करण">
 
