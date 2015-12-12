@@ -189,13 +189,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Tlačiť">
 <!ENTITY printButton.tooltip          "Umožní vytlačiť túto stránku">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Zobraziť informácie o stránke">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Zobraziť upozornenie">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Zobraziť žiadosť o polohu">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Zobraziť správu o inštalácii doplnku">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Zobraziť správu o úložisku pre aplikácie v režime offline">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Spravovať prihlasovacie údaje">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Otázka, či chcete uložiť heslo">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Zobraziť správu o inštalácii aplikácie">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Spravovať používanie zásuvných modulov na tejto stránke">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Upraviť, či stránka môže zobrazovať upozornenia">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Spravovať zdieľanie kamery a mikrofónu so stránkou">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "So stránkou zdieľate kameru a mikrofón">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Spravovať zdieľanie mikrofónu so stránkou">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "So stránkou zdieľate mikrofón">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Spravovať zdieľanie vašich okien alebo obrazovky so stránkou">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "So stránkou zdieľate okno alebo obrazovku">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Upraviť, či stránka môže skryť ukazovateľ myši">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Zobraziť správu o inštalácii služby">
 <!ENTITY urlbar.translateNotificationAnchor.label       "Preložiť túto stránku">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Spravovať preklad stránky">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Spravovať používanie softvéru DRM">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
 
