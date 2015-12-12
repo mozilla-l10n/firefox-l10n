@@ -231,7 +231,7 @@
 
 <!ENTITY tracking_protection_prompt_title "Désormais avec protection contre le pistage">
 <!ENTITY tracking_protection_prompt_text "Les éléments pouvant pister votre navigation sont bloqués afin que vous n\u0027ayez pas à vous en préoccuper.">
-<!ENTITY tracking_protection_prompt_tip_text "Consultez les paramètres de vie privée pour en savoir plus">
+<!ENTITY tracking_protection_prompt_tip_text "Consulter les paramètres de vie privée pour en savoir plus">
 <!ENTITY tracking_protection_prompt_action_button "Fermer">
 
 <!ENTITY tab_queue_toast_message3 "Onglet enregistré dans &brandShortName;">
