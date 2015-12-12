@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Segirezza da la connexiun">
 <!ENTITY aboutSupport.accountsAuthMethod "Metoda d'autentificaziun">
 <!ENTITY aboutSupport.accountsDefault "Standard?">
+<!ENTITY aboutSupport.identityName "Identitad">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Trametter per e-mail">

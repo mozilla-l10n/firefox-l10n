@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Definir sco standard">
 <!ENTITY smtpListSetDefault.accesskey "s">
 
+<!ENTITY serverDetails.label "Detagls dal server tschernì:">
 <!ENTITY serverDescription.label "Descripziun: ">
 <!ENTITY serverName.label "Num dal server: ">
 <!ENTITY serverPort.label "Port: ">
