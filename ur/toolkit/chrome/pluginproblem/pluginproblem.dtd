@@ -28,7 +28,7 @@
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "کریش رپورٹ بھیجیں">
 <!ENTITY report.submitting                                   "رپورٹ بھیج رہا ہے...">
-
+<!ENTITY report.submitted                                    "کریش رپورٹ بھیج دی گئی۔">
 <!ENTITY report.disabled                                     "کریش رپورٹ کاری نا اہل ہے۔">
 <!ENTITY report.failed                                       "جمع کاری ناکام۔">
 <!ENTITY report.unavailable                                  "کوئی رپورٹ دستیاب نہیں۔">
