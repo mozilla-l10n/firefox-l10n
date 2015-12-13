@@ -124,7 +124,9 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "एड-अनहरू के हो ?">
-
+<!ENTITY discover.description2                "एड-अनहरू तपाईंलाई अतिरिक्त कार्यक्षमता वा शैलीमा &brandShortName; 
+ लाई व्यक्तिगत बनागने अनुप्रयोगहरू हुन्।  &brandShortName; लाई 
+ आफ्नै बनाउन समय-बचत ट्याब, मौसम नोटिफायर, वा आवरण हाल्न प्रयास गर्नुहोस्।">
 
 <!-- detail view -->
 
@@ -134,10 +136,11 @@
 <!ENTITY detail.homepage.label                "गृहपृष्ठ">
 <!ENTITY detail.numberOfDownloads.label       "डाउनलोडहरू">
 
+<!ENTITY detail.contributions.description     "यस एड-अनको विकासकर्ताले तपाईंसंग एउटा सानो योगदान मागेर यसको निरन्तर विकासमा मदत माग्छन्।">
 
 <!ENTITY detail.updateType                    "स्वतः अद्यावधि">
 <!ENTITY detail.updateDefault.label           "पूर्वनिर्धारित">
-
+<!ENTITY detail.updateDefault.tooltip         "यदि पूर्वनिर्धारित हो भने मात्र अद्यावधिहरू स्वतः स्थापना गर्नुहोस्">
 <!ENTITY detail.updateAutomatic.label         "खुल्ला">
 <!ENTITY detail.updateAutomatic.tooltip       "अद्यावधिहरू स्वतः इन्स्टल गर्नुहोस्">
 <!ENTITY detail.updateManual.label            "बंन्द गर्नुहोस्">
@@ -223,6 +226,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "यो के हो? Telemetry ले समय समयमा स्थापना र विभिन्न प्रयोगहरू गर्न सक्छ।">
 <!ENTITY experiment.info.learnmore "अझ जान्नुहोस्">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "टेलिमेट्री सेटिङ्">
@@ -234,6 +239,7 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "निम्न एड-अनहरू &brandShortName; मा प्रयोग गर्न प्रमाणित भएको छैन। तपाईँ सक्नुहुन्छ ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "प्रतिस्थापन खोज्नुहोस्">
 
 
