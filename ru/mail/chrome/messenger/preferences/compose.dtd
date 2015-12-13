@@ -16,13 +16,15 @@
 <!ENTITY font.label "Шрифт:">
 <!ENTITY font.accesskey "р">
 <!ENTITY size.label "Размер:">
-<!ENTITY size.accesskey "м">
+<!ENTITY size.accesskey "е">
 <!ENTITY fontColor.label "Цвет текста:">
 <!ENTITY fontColor.accesskey "т">
 <!ENTITY bgColor.label "Цвет фона:">
 <!ENTITY bgColor.accesskey "в">
 <!ENTITY restoreHTMLDefaults.label "Восстановить значения по умолчанию">
 <!ENTITY restoreHTMLDefaults.accesskey "м">
+<!ENTITY enterKeyCreatesNewParagraph.label "При использовании формата абзаца, клавиша ввода создает новый абзац">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "п">
 <!ENTITY spellCheck.label "Проверять орфографию перед отправкой сообщения">
 <!ENTITY spellCheck.accesskey "г">
 <!ENTITY spellCheckInline.label "Проверять орфографию при наборе текста">

@@ -21,7 +21,7 @@
 <!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 сообщение;#1 сообщения;#1 сообщений">
 <!ENTITY quickFilterBar.resultsLabel.none "Не найдено">
 <!ENTITY quickFilterBar.resultsLabel.minWidth "100">
-<!ENTITY quickFilterBar.textbox.emptyText.base "Фильтр сообщений… #1">
+<!ENTITY quickFilterBar.textbox.emptyText.base1 "Фильтровать эти сообщения #1">
 <!ENTITY quickFilterBar.show.key2 "k">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac "&lt;⇧⌘K&gt;">
