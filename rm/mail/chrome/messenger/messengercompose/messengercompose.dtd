@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "e">
 <!ENTITY priorityMenu.label "Prioritad">
 <!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.title "Prioritad">
+<!ENTITY priorityButton.tooltiptext "Midar la prioritad dal messadi">
 <!ENTITY priorityButton.label "Prioritad:">
 <!ENTITY lowestPriorityCmd.label "La pli bassa">
 <!ENTITY lowestPriorityCmd.accesskey "s">
@@ -213,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Tscherner in destinatur ord in cudeschet d'adressas">
 <!ENTITY attachButton.tooltip "Includer ina agiunta">
 <!ENTITY spellingButton.tooltip "Controllar l'ortografia da la part selecziunada u da l'entir messadi">
+<!ENTITY statusLanguageText.tooltip "Lingua da la controlla d'ortografia">
 <!ENTITY saveButton.tooltip "Memorisar quest messadi">
 <!ENTITY cutButton.tooltip              "Tagliar ora">
 <!ENTITY copyButton.tooltip             "Copiar">
