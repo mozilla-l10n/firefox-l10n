@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identityDialog.style "width: 70ch;">
+<!ENTITY identityDialog.style "width: 80ch;">
 <!ENTITY identityTitle.label "Configuración de la identidad">
 <!ENTITY identityListDesc.label "Establecer la configuración para esta identidad:">
 <!ENTITY settingsTab.label "Configuración">
