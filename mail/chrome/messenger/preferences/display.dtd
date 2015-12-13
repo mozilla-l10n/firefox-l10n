@@ -47,7 +47,27 @@
 <!ENTITY colorButton.accesskey   "C">
 
 <!-- Advanced -->
+<!ENTITY reading.caption                  "Leger">
+<!ENTITY display.caption                  "Mussar">
+<!ENTITY showCondensedAddresses.label     "Mo mussar il 'Num per mussar' per persunas en mes cudeschet d'adressas">
+<!ENTITY showCondensedAddresses.accesskey "M">
 
+<!ENTITY autoMarkAsRead.label             "Marcar automaticamain ils messadis sco legids">
+<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY markAsReadNoDelay.label          "Immediat cun mussar">
+<!ENTITY markAsReadNoDelay.accesskey      "e">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Suenter avair mussà durant">
+<!ENTITY markAsReadDelay.accesskey        "t">
+<!ENTITY secondsLabel.label               "secundas">
+<!ENTITY openMsgIn.label                  "Avrir messadis en:">
+<!ENTITY openMsgInNewTab.label            "In nov tab">
+<!ENTITY openMsgInNewTab.accesskey        "t">
+<!ENTITY reuseExpRadio0.label             "Ina nova fanestra da messadis">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "Ina fanestra da messadis existenta">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Serrar la fanestra da messadis/il tab sch'il messadi vegn spustà u stizzà">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "S">

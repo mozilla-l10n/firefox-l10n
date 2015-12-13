@@ -21,4 +21,8 @@
 <!ENTITY allow.accesskey              "P">
 <!ENTITY windowClose.key              "w">
 
+<!ENTITY button.cancel.label          "Interrumper">
+<!ENTITY button.cancel.accesskey      "I">
+<!ENTITY button.ok.label              "Memorisar las midadas">
+<!ENTITY button.ok.accesskey          "M">
 
