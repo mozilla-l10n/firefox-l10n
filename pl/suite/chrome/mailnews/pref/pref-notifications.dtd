@@ -21,6 +21,10 @@
 <!ENTITY showAlertSubject.accesskey "t">
 <!ENTITY showAlertSender.label "Wyświetlaj nadawcę">
 <!ENTITY showAlertSender.accesskey "e">
+<!ENTITY useSystemAlert.label "Używaj okna powiadomień systemu operacyjnego">
+<!ENTITY useSystemAlert.accesskey "s">
+<!ENTITY useBuiltInAlert.label "Używaj okna powiadomień programu &brandShortName;">
+<!ENTITY useBuiltInAlert.accesskey "U">
 
 <!ENTITY showTrayIcon.label "Wyświetlaj ikonę w pasku systemowym">
 <!ENTITY showTrayIcon.accesskey "l">
