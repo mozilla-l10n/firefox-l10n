@@ -12,7 +12,7 @@
 <!ENTITY  notificationsPolicyDesc3.label       "कोन साइट अध‍िसूचना भेजबा क अनुमति दए रहल अछि चुनू">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "चुनू…">
-<!ENTITY  notificationsDoNotDisturb.label      "परेशान नहि करू">
+<!ENTITY  notificationsDoNotDisturb.label      "परेसान नहि करू">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "जँ अहॉं &brandShortName; फेर स चालू नहि करब कोनो अध‍िसुचना नहि देखाएत">
 

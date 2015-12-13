@@ -65,7 +65,7 @@
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "पुरातन कंटेंटक लेल वर्ण एनकोडिंग">
-<!ENTITY languages.customize.Fallback2.label      "फालबैक आओर पाठ एनकोडिं">
+<!ENTITY languages.customize.Fallback2.label      "फालबैक आओर पाठ एनकोडिं:">
 <!ENTITY languages.customize.Fallback2.accesskey  "प">
 <!ENTITY languages.customize.Fallback2.desc       "पुरातन कंटेंटक लेल वर्ण एनकोडिंग जे अपन एन्कोडिंग कए घोषित करबामे विफल रहैत अछि.">
 
