@@ -14,6 +14,10 @@
 <!ENTITY showAlertSubject.accesskey "s">
 <!ENTITY showAlertSender.label "Mostrar el remitente">
 <!ENTITY showAlertSender.accesskey "l">
+<!ENTITY useSystemAlert.label "Usar las notificaciones de escritorio del sistema operativo">
+<!ENTITY useSystemAlert.accesskey "n">
+<!ENTITY useBuiltInAlert.label "Usar las ventanas de notificaciones propias de &brandShortName;">
+<!ENTITY useBuiltInAlert.accesskey "v">
 <!ENTITY showTrayIcon.label "Mostrar un icono en la bandeja">
 <!ENTITY showTrayIcon.accesskey "i">
 <!ENTITY showBalloon.label "Mostrar una alerta emergente">
