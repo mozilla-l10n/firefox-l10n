@@ -5,8 +5,8 @@
 <!ENTITY tabCrashed.header "پہلے بری خبر: یہ ٹیب کریش ہو گیا ہے">
 <!ENTITY tabCrashed.message "اب ایک خوش خبری: آپ صرف اس ٹیب کو بند کر سکتے ہیں، بحال کر سکتے ہیں یا تمام تباہ شدہ ٹیب بحال کر سکتے ہیں۔">
 <!ENTITY tabCrashed.sendReport "مزید بری خبروں کو روکنے کے لیے مدد کرنے کے لیے تباہ رپورٹ جمع کرائیں">
-
-
+<!ENTITY tabCrashed.includeURL "میں جس صفحہ پر تھا اس کا پتہ شامل کریں">
+<!ENTITY tabCrashed.commentPlaceholder "تبصرہ ڈالیں (تبصرے سب کو نظر آتے ہیں)">
 <!ENTITY tabCrashed.emailPlaceholder "یہاں اپنا ای میل پتہ داخل کریں">
 <!ENTITY tabCrashed.emailMe "مجھے ای میل کریں جب مزید معلومات دستیاب ہوں">
 <!ENTITY tabCrashed.crashReporter "Mozilla تباہ رپورٹر">
