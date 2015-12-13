@@ -125,6 +125,9 @@
 <!ENTITY pref_home_suggested_sites_summary "Mostrar en su página de inicio accesos directos a sitios que pensamos que puede encontrar interesantes">
 <!ENTITY pref_category_home_homepage "Página de inicio">
 <!ENTITY home_homepage_title "Establecer una página de inicio">
+<!ENTITY home_homepage_radio_default "Página de inicio de &brandShortName;">
+<!ENTITY home_homepage_radio_user_address "Personalizado">
+<!ENTITY home_homepage_hint_user_address "Introduzca dirección o término de búsqueda">
 <!ENTITY pref_header_general "General">
 <!ENTITY pref_header_search "Buscar">
 <!ENTITY pref_header_privacy_short "Privacidad">
@@ -139,7 +142,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "Mostrar imágenes">
 <!ENTITY pref_tap_to_load_images_enabled "Siempre">
 <!ENTITY pref_tap_to_load_images_data "Sólo bajo Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled "Nunca">
+<!ENTITY pref_tap_to_load_images_disabled2 "Bloqueadas">
 <!ENTITY pref_tracking_protection_title "Protección contra rastreo">
 <!ENTITY pref_tracking_protection_summary3 "Activado en navegación privada">
 <!ENTITY pref_donottrack_title "No rastrear">
@@ -165,6 +168,7 @@
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
 <!ENTITY pref_clear_private_data "Limpiar datos privados">
+<!ENTITY pref_clear_private_data_now_tablet "Limpiar ahora">
 <!ENTITY pref_clear_on_exit_title3 "Limpiar datos privados al salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente sus datos cada vez que seleccione \u0022Salir\u0022 desde el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccione qué datos quiere eliminar">
@@ -434,20 +438,23 @@
 <!ENTITY intent_uri_private_browsing_prompt "Este enlace se abrirá en &formatS;. ¿Seguro que desea salir de la navegación privada?">
 <!ENTITY intent_uri_private_browsing_multiple_match_title "¿Salir de navegación privada?">
 <!ENTITY devtools_auth_scan_header "Escaneando el código QR mostrado en su otro dispositivo">
-<!ENTITY restriction_disallow_addons_title2 "Desactivar instalación de complementos">
-<!ENTITY restriction_disallow_private_browsing_title2 "Desactivar navegación privada">
-<!ENTITY restriction_disallow_location_services_title2 "Desactivar servicios de localización">
-<!ENTITY restriction_disallow_clear_history_title2 "Desactivar \'Limpiar historial de navegación\'">
-<!ENTITY restriction_disallow_master_password_title2 "Desactivar contraseña maestra">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Desactivar navegación de invitado">
-<!ENTITY restriction_disallow_advanced_settings_title "Desactivar ajustes avanzados">
-<!ENTITY restriction_disallow_camera_microphone_title "Bloquear cámara y micrófono">
+<!ENTITY restrictable_feature_addons_installation "Complementos">
+<!ENTITY restrictable_feature_addons_installation_description "Añadir características o funcionalidades a Firefox. Nota: los complementos pueden desactivar ciertas restricciones.">
+<!ENTITY restrictable_feature_private_browsing "Navegación privada">
+<!ENTITY restrictable_feature_private_browsing_description "Permitir a los miembros de la familia navegar sin guardar información sobre los sitios y páginas que han visitado.">
+<!ENTITY restrictable_feature_clear_history "Limpiar historial">
+<!ENTITY restrictable_feature_clear_history_description "Permitir a los miembros de la familia eliminar información sobre los sitios y las páginas que ha visitado.">
+<!ENTITY restrictable_feature_advanced_settings "Ajustes avanzados">
+<!ENTITY restrictable_feature_advanced_settings_description "Esto incluye importar marcadores, restaurar pestañas y actualizaciones automáticas. Desactívelo para ajustes simplificados aptos para cualquier miembro de la familia.">
+<!ENTITY restrictable_feature_camera_microphone "Cámara y micrófono">
+<!ENTITY restrictable_feature_camera_microphone_description "Permitir a los miembros de la familia iniciar comunicación en tiempo real en los sitios web.">
+<!ENTITY restrictable_feature_data_choices "Elección de datos">
+<!ENTITY restrictable_feature_data_choices_description "Elegir si enviar o no información de uso a Mozilla para ayudar a mejorar Firefox.">
 <!ENTITY bookmarks_about_browser "Firefox: acerca de su navegador">
 <!ENTITY bookmarks_addons "Firefox: personalizar con complementos">
 <!ENTITY bookmarks_support "Ayuda de Firefox">
 <!ENTITY bookmarks_restricted_support2 "Ayuda y asistencia de Firefox para perfiles limitados en tabletas Android">
 <!ENTITY bookmarks_restricted_webmaker "Aprenda la web: Mozilla Webmaker">
 <!ENTITY unsupported_sdk_version "¡Lo sentimos! Este &brandShortName; no funcionará en este dispositivo (&formatS1;, &formatS2;). Descargue la versión correcta.">
-<!ENTITY eol_notification_url "https://support.mozilla.org/1/firefox/&formatS1;/&formatS2;/&formatS3;/honeycombs">
 <!ENTITY eol_notification_title "&brandShortName; ya no es compatible con Android 3">
 <!ENTITY eol_notification_summary "Toque para más información">
