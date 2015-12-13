@@ -9,7 +9,7 @@
 <!ENTITY encryptionChoiceLabel.label "Domyślne ustawienia szyfrowania podczas wysyłania wiadomości:">
 <!ENTITY neverEncrypt.label "Nigdy (nie używaj szyfrowania)">
 <!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Wymagaj (nie można wysłać wiadomości jeśli nie wszyscy adresaci mają certyfikat)">
+<!ENTITY alwaysEncryptMessage.label "Wymagaj (nie można wysłać wiadomości, jeśli nie wszyscy adresaci mają certyfikat)">
 <!ENTITY alwaysEncryptMessage.accesskey "a">
 <!ENTITY encryptionCert.message "Certyfikat do szyfrowania i deszyfrowania otrzymanych wiadomości:">
 <!ENTITY digitalSign.certificate.button "Wybierz…">
