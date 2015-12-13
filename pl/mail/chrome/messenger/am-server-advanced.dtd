@@ -9,8 +9,6 @@
 <!ENTITY usingSubscription.accesskey "P">
 <!ENTITY dualUseFolders.label "Serwer obsługuje foldery zawierające podfoldery i wiadomości">
 <!ENTITY dualUseFolders.accesskey "S">
-<!ENTITY useIdle.label "Używaj polecenia IDLE jeśli serwer je obsługuje">
-<!ENTITY useIdle.accesskey "U">
 <!ENTITY maximumConnectionsNumber.label "Maksymalna liczba połączeń z serwerem">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!ENTITY namespaceDesc.label "Poniższe ustawienia określają dostępne przestrzenie nazw na bieżącym serwerze IMAP">
