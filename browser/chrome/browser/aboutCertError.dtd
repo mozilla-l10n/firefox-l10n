@@ -15,3 +15,4 @@
 <b>Incluso aunque confíe en este sitio, este error puede significar que alguien esté interfiriendo en su conexión.</b>">
 <!ENTITY certerror.expert.contentPara2 "No añada una excepción a menos que sepa que hay una razón seria por la que este sitio no use identificación confiable.">
 <!ENTITY certerror.addException.label "Añadir excepción…">
+<!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
