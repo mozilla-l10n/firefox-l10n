@@ -6,7 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label "Это адресная книга покажет контакты только после поиска">
 <!ENTITY localResultsOnlyMessage.label "Контакты из удаленных адресных книг не будут показаны, пока вы не выполните поиск">
 <!ENTITY fileMenu.label "Файл">
-<!ENTITY fileMenu.accesskey "Ф">
+<!ENTITY fileMenu.accesskey "й">
 <!ENTITY newMenu.label "Создать">
 <!ENTITY newMenu.accesskey "С">
 <!ENTITY newContact.label "Контакт адресной книги…">
@@ -20,12 +20,12 @@
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "Сообщение">
 <!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.accesskey "б">
+<!ENTITY newMessageCmd.accesskey "о">
 <!ENTITY osxAddressBook.label "Использовать адресную книгу Mac OS X">
 <!ENTITY osxAddressBook.accesskey "O">
 <!ENTITY closeCmd.label "Закрыть">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "З">
+<!ENTITY closeCmd.accesskey "а">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "а">
 <!ENTITY printPreviewContactCmd.label "Предварительный просмотр контакта">
@@ -36,26 +36,26 @@
 <!ENTITY printContactCmd.accesskey "ч">
 <!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Печать адресной книги…">
-<!ENTITY printAddressBook.accesskey "а">
+<!ENTITY printAddressBook.accesskey "е">
 <!ENTITY editMenu.label "Правка">
-<!ENTITY editMenu.accesskey "П">
+<!ENTITY editMenu.accesskey "а">
 <!ENTITY undoCmd.label "Отменить">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "О">
+<!ENTITY undoCmd.accesskey "м">
 <!ENTITY redoCmd.label "Повторить">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "П">
+<!ENTITY redoCmd.accesskey "в">
 <!ENTITY cutCmd.label "Вырезать">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "В">
+<!ENTITY cutCmd.accesskey "ы">
 <!ENTITY copyCmd.label "Копировать">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "К">
+<!ENTITY copyCmd.accesskey "о">
 <!ENTITY pasteCmd.label "Вставить">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "с">
+<!ENTITY pasteCmd.accesskey "и">
 <!ENTITY deleteCmd.label "Удалить">
-<!ENTITY deleteCmd.accesskey "У">
+<!ENTITY deleteCmd.accesskey "л">
 <!ENTITY deleteAbCmd.label "Удалить адресную книгу">
 <!ENTITY deleteContactCmd.label "Удалить контакт">
 <!ENTITY deleteContactsCmd.label "Удалить контакты">
@@ -73,7 +73,7 @@
 <!ENTITY propertiesCmd2.accesskey "в">
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY viewMenu.label "Вид">
-<!ENTITY viewMenu.accesskey "В">
+<!ENTITY viewMenu.accesskey "и">
 <!ENTITY viewToolbarsMenu.label "Панели инструментов">
 <!ENTITY viewToolbarsMenu.accesskey "П">
 <!ENTITY menubarCmd.label "Панель меню">
@@ -91,19 +91,19 @@
 <!ENTITY showContactPane2.label "Панель контактов">
 <!ENTITY showContactPane2.accesskey "к">
 <!ENTITY menu_ShowNameAs.label "Показывать имя как">
-<!ENTITY menu_ShowNameAs.accesskey "П">
+<!ENTITY menu_ShowNameAs.accesskey "о">
 <!ENTITY firstLastCmd2.label "Имя Фамилия">
-<!ENTITY firstLastCmd2.accesskey "И">
+<!ENTITY firstLastCmd2.accesskey "я">
 <!ENTITY lastFirstCmd.label "Фамилия Имя">
-<!ENTITY lastFirstCmd.accesskey "Ф">
+<!ENTITY lastFirstCmd.accesskey "и">
 <!ENTITY displayNameCmd.label "Отображаемое имя">
-<!ENTITY displayNameCmd.accesskey "О">
+<!ENTITY displayNameCmd.accesskey "ж">
 <!ENTITY sortMenu.label "Сортировка">
 <!ENTITY sortMenu.accesskey "р">
 <!ENTITY tasksMenu.label "Инструменты">
 <!ENTITY tasksMenu.accesskey "И">
 <!ENTITY messengerCmd.label "Почта и группы новостей">
-<!ENTITY messengerCmd.accesskey "П">
+<!ENTITY messengerCmd.accesskey "о">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY searchAddressesCmd.label "Поиск адресов…">
 <!ENTITY searchAddressesCmd.accesskey "а">
@@ -125,6 +125,8 @@
 <!ENTITY newmsgButton.accesskey "з">
 <!ENTITY newIM.label "Мгновенное сообщение">
 <!ENTITY newIM.accesskey "М">
+<!ENTITY printButton.label "Печать…">
+<!ENTITY printButton.accesskey "е">
 <!ENTITY deleteButton2.label "Удалить">
 <!ENTITY deleteButton2.accesskey "д">
 <!ENTITY newContactButton.tooltip "Создание нового контакта адресной книги">

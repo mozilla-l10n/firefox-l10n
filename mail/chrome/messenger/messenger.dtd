@@ -717,7 +717,9 @@
 <!ENTITY SendMessageTo.label "Составить сообщение для">
 <!ENTITY SendMessageTo.accesskey "с">
 <!ENTITY CopyEmailAddress.label "Копировать адрес электронной почты">
-<!ENTITY CopyEmailAddress.accesskey "К">
+<!ENTITY CopyEmailAddress.accesskey "а">
+<!ENTITY CopyNameAndEmailAddress.label "Копировать имя и адрес электронной почты">
+<!ENTITY CopyNameAndEmailAddress.accesskey "о">
 <!ENTITY CopyNewsgroupName.label "Копировать имя группы новостей">
 <!ENTITY CopyNewsgroupName.accesskey "п">
 <!ENTITY CopyNewsgroupURL.label "Копировать URL группы новостей">

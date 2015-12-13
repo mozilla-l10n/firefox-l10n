@@ -14,6 +14,10 @@
 <!ENTITY showAlertSubject.accesskey "е">
 <!ENTITY showAlertSender.label "Отображать отправителя">
 <!ENTITY showAlertSender.accesskey "п">
+<!ENTITY useSystemAlert.label "Использовать уведомления рабочего стола операционной системы">
+<!ENTITY useSystemAlert.accesskey "м">
+<!ENTITY useBuiltInAlert.label "Использовать собственные окна уведомлений &brandShortName;">
+<!ENTITY useBuiltInAlert.accesskey "ы">
 <!ENTITY showTrayIcon.label "Показать значок в трее">
 <!ENTITY showTrayIcon.accesskey "з">
 <!ENTITY showBalloon.label "Показать всплывающее уведомление">

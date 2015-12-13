@@ -68,20 +68,18 @@
 <!ENTITY incrementFontSize.key2 ".">
 <!ENTITY fontSizeMenu.label "Размер шрифта">
 <!ENTITY fontSizeMenu.accesskey "м">
-<!ENTITY size-xx-smallCmd.label "крошечный">
-<!ENTITY size-xx-smallCmd.accesskey "к">
-<!ENTITY size-x-smallCmd.label "мелкий">
-<!ENTITY size-x-smallCmd.accesskey "е">
-<!ENTITY size-smallCmd.label "маленький">
-<!ENTITY size-smallCmd.accesskey "а">
-<!ENTITY size-mediumCmd.label "средний">
-<!ENTITY size-mediumCmd.accesskey "с">
-<!ENTITY size-largeCmd.label "большой">
-<!ENTITY size-largeCmd.accesskey "б">
-<!ENTITY size-x-largeCmd.label "крупный">
-<!ENTITY size-x-largeCmd.accesskey "к">
-<!ENTITY size-xx-largeCmd.label "огромный">
-<!ENTITY size-xx-largeCmd.accesskey "о">
+<!ENTITY size-tinyCmd.label "Крошечный">
+<!ENTITY size-tinyCmd.accesskey "ш">
+<!ENTITY size-smallCmd.label "Мелкий">
+<!ENTITY size-smallCmd.accesskey "к">
+<!ENTITY size-mediumCmd.label "Средний">
+<!ENTITY size-mediumCmd.accesskey "е">
+<!ENTITY size-largeCmd.label "Большой">
+<!ENTITY size-largeCmd.accesskey "о">
+<!ENTITY size-extraLargeCmd.label "Огромный">
+<!ENTITY size-extraLargeCmd.accesskey "м">
+<!ENTITY size-hugeCmd.label "Крупный">
+<!ENTITY size-hugeCmd.accesskey "п">
 <!ENTITY fontStyleMenu.label "Стиль текста">
 <!ENTITY fontStyleMenu.accesskey "т">
 <!ENTITY styleBoldCmd.label "Полужирный">
@@ -264,6 +262,7 @@
 <!ENTITY BackgroundColorButton.tooltip "Выбор цвета для фона">
 <!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Выберите цвет подсветки текста">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Указать размер шрифта">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Уменьшить размер шрифта">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Увеличить размер шрифта">
 <!ENTITY boldToolbarCmd.tooltip "Полужирный">

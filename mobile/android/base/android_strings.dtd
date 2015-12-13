@@ -139,10 +139,10 @@
 <!ENTITY pref_cookies_accept_all "Включены">
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
 <!ENTITY pref_cookies_disabled "Отключены">
-<!ENTITY pref_tap_to_load_images_title2 "Показывать изображения">
+<!ENTITY pref_tap_to_load_images_title2 "Показ изображений">
 <!ENTITY pref_tap_to_load_images_enabled "Всегда">
 <!ENTITY pref_tap_to_load_images_data "Только через Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled "Никогда">
+<!ENTITY pref_tap_to_load_images_disabled2 "Заблокирован">
 <!ENTITY pref_tracking_protection_title "Защита от отслеживания">
 <!ENTITY pref_tracking_protection_summary3 "Включена в Приватном просмотре">
 <!ENTITY pref_donottrack_title "Не отслеживать">

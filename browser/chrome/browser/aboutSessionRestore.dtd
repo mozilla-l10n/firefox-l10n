@@ -26,8 +26,8 @@
 <!ENTITY welcomeback2.afterlink.pageInfo2 "">
 <!ENTITY welcomeback2.link.pageInfo2 "узнайте больше о том, что вы можете сделать.">
 <!ENTITY tabgroupsmigration.tabtitle "Миграция других групп вкладок">
-<!ENTITY tabgroupsmigration.pagetitle "Извините. Групп вкладок больше нет.">
-<!ENTITY tabgroupsmigration.learnMoreLink "Подробнее">
-<!ENTITY tabgroupsmigration.description "&brandShortName; добавил в закладки все ваши группы, так что вы ничего не потеряли. &#037;S">
+<!ENTITY tabgroupsmigration.pagetitle2 "Мы удалили Группы вкладок, но сохранили ваши вкладки">
+<!ENTITY tabgroupsmigration.learnaboutaddons "Узнайте о дополнениях, заменяющих Группы вкладок.">
+<!ENTITY tabgroupsmigration.description2 "&brandShortName; добавил в закладки все ваши группы, так что вы ничего не потеряли.">
 <!ENTITY tabgroupsmigration.bookmarkbutton "Показать группы вкладок в закладках">
 <!ENTITY tabgroupsmigration.restoredescription "Вы также можете решить восстановить некоторые или все фоновые группы в окна прямо сейчас:">
