@@ -661,7 +661,7 @@
 <!ENTITY fromColumn.label "O">
 <!ENTITY recipientColumn.label "Faightear">
 <!ENTITY correspondentColumn.label "Co-sgrìobhaichean">
-<!ENTITY subjectColumn.label "A' chuspair">
+<!ENTITY subjectColumn.label "An cuspair">
 <!ENTITY dateColumn.label "Ceann-là">
 <!ENTITY priorityColumn.label "Prìomhachas">
 <!ENTITY tagsColumn.label "Taga">
