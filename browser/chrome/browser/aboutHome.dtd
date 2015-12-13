@@ -20,7 +20,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "É fácil personalizar o Firefox. <a>Escolha de entre centenas de extras</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "O &brandFullName; é uma aplicação gratuita e open source da Mazilla Foundation. <a>Conheça os seus direitos…</a>">
+<!ENTITY abouthome.rightsSnippet "O &brandFullName; é uma aplicação gratuita e de código aberto da Fundação Mozilla. <a>Conheça os seus direitos…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Marcadores">
 <!ENTITY abouthome.historyButton.label   "Histórico">
