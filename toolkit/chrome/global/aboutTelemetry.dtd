@@ -54,8 +54,8 @@
   Detalles del complemento">
 <!ENTITY aboutTelemetry.lateWritesSection "
   Últimas escrituras">
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Información del sistema">
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Información de sesión">
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   Histogramas recolectados por complementos">
 <!ENTITY aboutTelemetry.toggle "
