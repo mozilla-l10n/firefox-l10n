@@ -21,7 +21,7 @@
 <!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 mensaje;#1 mensajes">
 <!ENTITY quickFilterBar.resultsLabel.none "No hay resultados">
 <!ENTITY quickFilterBar.resultsLabel.minWidth "100">
-<!ENTITY quickFilterBar.textbox.emptyText.base "Filtrar estos mensajes… #1">
+<!ENTITY quickFilterBar.textbox.emptyText.base1 "Filtrar estos mensajes #1">
 <!ENTITY quickFilterBar.show.key2 "k">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Mayús+K&gt;">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac "&lt;⇧⌘K&gt;">

@@ -23,6 +23,8 @@
 <!ENTITY bgColor.accesskey "C">
 <!ENTITY restoreHTMLDefaults.label "Restaurar valores por omisión">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
+<!ENTITY enterKeyCreatesNewParagraph.label "Al usar formato de párrafo, la tecla Enter crea un nuevo párrafo.">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 <!ENTITY spellCheck.label "Comprobar la ortografía antes de enviar">
 <!ENTITY spellCheck.accesskey "C">
 <!ENTITY spellCheckInline.label "Activar corrección ortográfica al escribir">

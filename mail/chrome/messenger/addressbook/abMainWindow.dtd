@@ -20,12 +20,12 @@
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "Mensaje">
 <!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.accesskey "m">
+<!ENTITY newMessageCmd.accesskey "M">
 <!ENTITY osxAddressBook.label "Usar la libreta de direcciones de Mac OS X">
 <!ENTITY osxAddressBook.accesskey "U">
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewContactCmd.label "Vista preliminar del contacto">
@@ -38,7 +38,7 @@
 <!ENTITY printAddressBook.label "Imprimir libreta de direcciones…">
 <!ENTITY printAddressBook.accesskey "A">
 <!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Deshacer">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "h">
@@ -50,10 +50,10 @@
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.accesskey "r">
 <!ENTITY deleteAbCmd.label "Eliminar libreta de direcciones">
@@ -73,7 +73,7 @@
 <!ENTITY propertiesCmd2.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY viewMenu.label "Ver">
-<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenu.accesskey "h">
 <!ENTITY menubarCmd.label "Barra de menú">
@@ -91,13 +91,13 @@
 <!ENTITY showContactPane2.label "Panel de contactos">
 <!ENTITY showContactPane2.accesskey "P">
 <!ENTITY menu_ShowNameAs.label "Mostrar nombre como">
-<!ENTITY menu_ShowNameAs.accesskey "n">
+<!ENTITY menu_ShowNameAs.accesskey "N">
 <!ENTITY firstLastCmd2.label "Nombre y apellidos">
 <!ENTITY firstLastCmd2.accesskey "m">
 <!ENTITY lastFirstCmd.label "Apellidos, nombre">
-<!ENTITY lastFirstCmd.accesskey "l">
+<!ENTITY lastFirstCmd.accesskey "L">
 <!ENTITY displayNameCmd.label "Nombre mostrado">
-<!ENTITY displayNameCmd.accesskey "d">
+<!ENTITY displayNameCmd.accesskey "D">
 <!ENTITY sortMenu.label "Ordenar por">
 <!ENTITY sortMenu.accesskey "O">
 <!ENTITY tasksMenu.label "Herramientas">
@@ -125,6 +125,8 @@
 <!ENTITY newmsgButton.accesskey "C">
 <!ENTITY newIM.label "IM">
 <!ENTITY newIM.accesskey "I">
+<!ENTITY printButton.label "Imprimir…">
+<!ENTITY printButton.accesskey "r">
 <!ENTITY deleteButton2.label "Eliminar">
 <!ENTITY deleteButton2.accesskey "l">
 <!ENTITY newContactButton.tooltip "Crear un nuevo contacto de la libreta de direcciones">

@@ -68,20 +68,18 @@
 <!ENTITY incrementFontSize.key2 ".">
 <!ENTITY fontSizeMenu.label "Tamaño">
 <!ENTITY fontSizeMenu.accesskey "T">
-<!ENTITY size-xx-smallCmd.label "Extrapequeño">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "Muy pequeño">
-<!ENTITY size-x-smallCmd.accesskey "m">
+<!ENTITY size-tinyCmd.label "Diminuto">
+<!ENTITY size-tinyCmd.accesskey "D">
 <!ENTITY size-smallCmd.label "Pequeño">
 <!ENTITY size-smallCmd.accesskey "P">
 <!ENTITY size-mediumCmd.label "Medio">
-<!ENTITY size-mediumCmd.accesskey "d">
+<!ENTITY size-mediumCmd.accesskey "M">
 <!ENTITY size-largeCmd.label "Grande">
 <!ENTITY size-largeCmd.accesskey "G">
-<!ENTITY size-x-largeCmd.label "Muy grande">
-<!ENTITY size-x-largeCmd.accesskey "y">
-<!ENTITY size-xx-largeCmd.label "Extragrande">
-<!ENTITY size-xx-largeCmd.accesskey "x">
+<!ENTITY size-extraLargeCmd.label "Extragrande">
+<!ENTITY size-extraLargeCmd.accesskey "x">
+<!ENTITY size-hugeCmd.label "Enorme">
+<!ENTITY size-hugeCmd.accesskey "E">
 <!ENTITY fontStyleMenu.label "Estilo de texto">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Negrita">
@@ -264,6 +262,7 @@
 <!ENTITY BackgroundColorButton.tooltip "Elija un color para el fondo">
 <!ENTITY throbber.tooltip "Ir a la página web de &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Elegir color para remarcar texto">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Establecer tamaño de letra">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Reducir el tamaño de la letra">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumentar el tamaño de la letra">
 <!ENTITY boldToolbarCmd.tooltip "Negrita">

@@ -121,7 +121,7 @@
 <!ENTITY calendar.task.category.button.tooltip "Categorizar tareas">
 <!ENTITY calendar.task.complete.button.tooltip "Marcar tareas seleccionadas como completadas">
 <!ENTITY calendar.task.priority.button.tooltip "Cambiar la prioridad">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base "Filtrar tareas… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1 "Filtrar tareas #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Mayús+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac "&lt;⇧⌘K&gt;">
 <!ENTITY calendar.context.modifyorviewitem.label "Abrir">
