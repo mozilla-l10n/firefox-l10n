@@ -59,7 +59,7 @@
 <!ENTITY locationBar.tooltip "Wprowadź termin, słowo kluczowe lub adres WWW">
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Adres">
-<!ENTITY proxyIcon.tooltip "Przeciągnij i upuść tę ikonę, aby stworzyć odnośnik do tej strony">
+<!ENTITY proxyIcon.tooltip "Przeciągnij i upuść tę ikonę, aby utworzyć odnośnik do tej strony">
 
 <!ENTITY searchItem.title "Szukaj">
 
