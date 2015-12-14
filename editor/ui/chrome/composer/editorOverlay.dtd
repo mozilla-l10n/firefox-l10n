@@ -55,7 +55,7 @@
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "選擇字型">
-<!ENTITY fontfaceMenu.label "字體">
+<!ENTITY fontfaceMenu.label "字型">
 <!ENTITY fontfaceMenu.accesskey "F">
 <!ENTITY fontVarWidth.label "可變寬度">
 <!ENTITY fontVarWidth.accesskey "V">
