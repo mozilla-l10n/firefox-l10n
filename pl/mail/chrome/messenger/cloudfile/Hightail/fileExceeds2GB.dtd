@@ -4,4 +4,4 @@
 
 <!ENTITY fileExceeds2GB.title "Hightail">
 <!ENTITY fileExceeds2GB.cancel "OK">
-<!ENTITY fileExceeds2GB.description "Wgrywanie plików o wielkości większej niż 2GB nie jest obsługiwane.">
+<!ENTITY fileExceeds2GB.description "Wgrywanie plików o wielkości większej niż 2 GB nie jest obsługiwane.">
