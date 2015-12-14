@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY titledefault.label "&brandFullName;">
-<!ENTITY titleSeparator.label " - ">
+<!ENTITY titleSeparator.label " – ">
 
 <!-- Tab context menu -->
 <!ENTITY closeTabCmd2.label "Zamknij kartę">

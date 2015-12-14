@@ -17,9 +17,9 @@
 <!ENTITY sendBoth.accesskey "e">
 <!ENTITY override.label "Uwaga: Proszę użyć Książki adresowej, aby ustalić preferowany przez poszczególnych adresatów format wiadomości.">
 <!ENTITY domaindesc.label "W przypadku wysyłania poczty do jednej z poniższych domen, &brandShortName; automatycznie wybierze właściwy format wiadomości.">
-<!ENTITY HTMLTab.label "Domeny - format HTML">
+<!ENTITY HTMLTab.label "Domeny – format HTML">
 <!ENTITY HTMLTab.accesskey "H">
-<!ENTITY PlainTextTab.label "Domeny - format tekstowy">
+<!ENTITY PlainTextTab.label "Domeny – format tekstowy">
 <!ENTITY PlainTextTab.accesskey "t">
 <!ENTITY AddHtmlDomain.label "Dodaj…">
 <!ENTITY AddHtmlDomain.accesskey "a">
@@ -29,7 +29,7 @@
 <!ENTITY DeleteHtmlDomain.accesskey "U">
 <!ENTITY DeletePlainText.label "Usuń">
 <!ENTITY DeletePlainText.accesskey "s">
-<!ENTITY add.htmltitle "Dodaj domenę - HTML">
+<!ENTITY add.htmltitle "Dodaj domenę – HTML">
 <!ENTITY add.htmldomain "Nazwa domeny, której użytkownicy preferują otrzymywanie wiadomości w formacie HTML:">
-<!ENTITY add.plaintexttitle "Dodaj domenę - format tekstowy">
+<!ENTITY add.plaintexttitle "Dodaj domenę – format tekstowy">
 <!ENTITY add.plaintextdomain "Nazwa domeny, której użytkownicy preferują otrzymywanie wiadomości w formacie tekstowym:">

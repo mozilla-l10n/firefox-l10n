@@ -21,9 +21,9 @@
 <!ENTITY overrideNamespaces.label "Zezwalaj, aby serwer zmieniał powyższe ustawienia przestrzeni nazw">
 <!ENTITY overrideNamespaces.accesskey "Z">
 <!ENTITY pop3DeferringDesc.label "Poczta pobierana z serwera tego konta powinna być zapisywana w następującym folderze:">
-<!ENTITY accountInbox.label "Odebrane - dla tego konta">
+<!ENTITY accountInbox.label "Odebrane – dla tego konta">
 <!ENTITY accountInbox.accesskey "O">
-<!ENTITY deferToServer.label "Odebrane - dla konta:">
+<!ENTITY deferToServer.label "Odebrane – dla konta:">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Uwzględnij ten serwer podczas pobierania nowych wiadomości">
 <!ENTITY deferGetNewMail.accesskey "t">

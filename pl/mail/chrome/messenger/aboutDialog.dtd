@@ -53,7 +53,7 @@
 <!ENTITY update.unsupported.linkText "Więcej informacji">
 <!ENTITY update.unsupported.end ".">
 
-<!ENTITY update.downloading.start "Pobieranie aktualizacji — ">
+<!ENTITY update.downloading.start "Pobieranie aktualizacji – ">
 <!ENTITY update.downloading.end "">
 
 <!ENTITY update.applying "Instalowanie aktualizacji…">

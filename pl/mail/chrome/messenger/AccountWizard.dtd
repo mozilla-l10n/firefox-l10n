@@ -56,9 +56,9 @@
 <!ENTITY outgoingUsername.accesskey "a">
 
 <!ENTITY modifyOutgoing.suffix "Ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
-<!ENTITY haveSmtp1.prefix "Zostanie użyty domyślny serwer poczty wychodzącej (SMTP) - „">
+<!ENTITY haveSmtp1.prefix "Zostanie użyty domyślny serwer poczty wychodzącej (SMTP) – „">
 <!ENTITY haveSmtp1.suffix3 "”.">
-<!ENTITY haveSmtp2.prefix "Do wysyłania wiadomości z tego konta zostanie użyta nazwa użytkownika domyślnego serwera poczty wychodzącej (SMTP) - „">
+<!ENTITY haveSmtp2.prefix "Do wysyłania wiadomości z tego konta zostanie użyta nazwa użytkownika domyślnego serwera poczty wychodzącej (SMTP) – „">
 <!ENTITY haveSmtp2.suffix3 "”.">
 <!ENTITY haveSmtp3.prefix "Wprowadzone nazwy serwerów poczty wychodzącej i przychodzącej są takie same: „">
 <!ENTITY haveSmtp3.suffix3 "”. Powyższa nazwa użytkownika będzie używana również podczas wysyłania wiadomości.">
