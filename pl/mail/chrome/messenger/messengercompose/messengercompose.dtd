@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Tworzenie: (bez tematu)">
 
-<!-- File Menu -->
 <!ENTITY fileMenu.label "Plik">
 <!ENTITY fileMenu.accesskey "P">
 <!ENTITY newMenu.label "Utwórz">
@@ -57,7 +55,6 @@
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.key "P">
 
-<!-- Edit Menu -->
 <!ENTITY editMenu.label "Edycja">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Cofnij">
@@ -102,7 +99,6 @@
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
-<!-- View Menu -->
 <!ENTITY viewMenu.label "Widok">
 <!ENTITY viewMenu.accesskey "W">
 <!ENTITY viewToolbarsMenuNew.label "Paski narzędzi">
@@ -121,11 +117,9 @@
 <!ENTITY addressSidebar.label "Panel adresów ">
 <!ENTITY addressSidebar.accesskey "a">
 
-<!-- Format Menu -->
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "F">
 
-<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opcje">
 <!ENTITY optionsMenu.accesskey "O">
 <!ENTITY checkSpellingCmd2.label "Sprawdź pisownię…">
@@ -171,7 +165,6 @@
 <!ENTITY fileCarbonCopyCmd.accesskey "a">
 <!ENTITY fileHereMenu.label "Zachowaj tutaj">
 
-<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Narzędzia">
 <!ENTITY tasksMenu.accesskey "N">
 <!ENTITY messengerCmd.label "Poczta i grupy dyskusyjne">
@@ -188,14 +181,12 @@
 <!ENTITY preferencesCmdUnix.label "Preferencje">
 <!ENTITY preferencesCmdUnix.accesskey "P">
 
-<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimalizuj okno">
 <!ENTITY bringAllToFront.label "Przesuń wszystkie na wierzch">
 <!ENTITY zoomWindow.label "Zmień rozmiar okna">
 <!ENTITY windowMenu.label "Okno">
 
-<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Wyślij">
 <!ENTITY quoteButton.label "Cytuj">
 <!ENTITY addressButton.label "Adresy">
@@ -204,7 +195,6 @@
 <!ENTITY saveButton.label "Zapisz jako">
 <!ENTITY printButton.label "Drukuj">
 
-<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Wyślij tę wiadomość">
 <!ENTITY sendlaterButton.tooltip "Wyślij tę wiadomość później">
 <!ENTITY quoteButton.tooltip "Zacytuj poprzednią wiadomość">
@@ -218,7 +208,6 @@
 <!ENTITY pasteButton.tooltip "Wklej">
 <!ENTITY printButton.tooltip "Wydrukuj tę wiadomość">
 
-<!-- Headers -->
 <!ENTITY headersSpace.style "width: 11.25em;">
 <!ENTITY fromAddr.label "Nadawca:">
 <!ENTITY fromAddr.accesskey "d">
@@ -230,9 +219,8 @@
 <!ENTITY followupAddr.label "Kontynuacja na:">
 <!ENTITY subject.label "Temat:">
 <!ENTITY subject.accesskey "T">
-<!ENTITY attachments.accesskey "a"><!-- for attachmentCount in composeMsgs.properties -->
+<!ENTITY attachments.accesskey "a">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Wstaw emotikonkę">
 <!ENTITY smiley1Cmd.label "Uśmiech">
 <!ENTITY smiley2Cmd.label "Dezaprobata">
@@ -251,7 +239,6 @@
 <!ENTITY smiley15Cmd.label "Płacz">
 <!ENTITY smiley16Cmd.label "Nic nie powiem">
 
-<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Nie znaleziono sugestii dla słowa">
 <!ENTITY spellCheckIgnoreWord.label "Ignoruj słowo">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
@@ -291,9 +278,10 @@
 <!ENTITY attachPage.label "Załącz stronę WWW…">
 <!ENTITY attachPage.accesskey "W">
 
-<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Dodaj słowniki…">
 <!ENTITY spellAddDictionaries.accesskey "D">
 
-<!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adresy">
+
+<!ENTITY customizeFromAddress.label "Dostosuj adres nadawcy…">
+<!ENTITY customizeFromAddress.accesskey "D">
