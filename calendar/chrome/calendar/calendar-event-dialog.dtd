@@ -121,6 +121,9 @@
 <!ENTITY event.email.attendees.accesskey "S">
 <!ENTITY event.email.tentative.attendees.label "Scrivi una e-mail ai partecipanti non certi…">
 <!ENTITY event.email.tentative.attendees.accesskey "u">
+<!ENTITY event.remove.attendees.label "Rimuovi tutti i partecipanti…">
+<!ENTITY event.remove.attendees.accesskey "u">
+<!ENTITY event.remove.attendee.label "Rimuovi partecipante">
 <!ENTITY event.toolbar.save.label "Salva ed esci">
 <!ENTITY event.toolbar.delete.label "Elimina">
 <!ENTITY event.toolbar.attendees.label "Invita partecipanti">
@@ -303,6 +306,7 @@
 <!ENTITY event.attendee.usertype.group "Gruppo">
 <!ENTITY event.attendee.usertype.resource "Risorsa">
 <!ENTITY event.attendee.usertype.room "Stanza">
+<!ENTITY event.attendee.usertype.unknown "Sconosciuto">
 <!ENTITY timezone.title.label "Specificare il fuso orario">
 <!ENTITY event.timezone.custom.label "Ulteriori fusi orari…">
 <!ENTITY read.only.general.label "Generale">
