@@ -78,24 +78,22 @@
 <!ENTITY increaseFontSize.label "Större">
 <!ENTITY increaseFontSize.accesskey "t">
 <!ENTITY incrementFontSize.key "&gt;">
-<!ENTITY incrementFontSize.key2 "+"> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "+"> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Storlek">
 <!ENTITY fontSizeMenu.accesskey "o">
-<!ENTITY size-xx-smallCmd.label "extra extra liten">
-<!ENTITY size-xx-smallCmd.accesskey "i">
-<!ENTITY size-x-smallCmd.label "extra liten">
-<!ENTITY size-x-smallCmd.accesskey "e">
+<!ENTITY size-tinyCmd.label "mycket liten">
+<!ENTITY size-tinyCmd.accesskey "t">
 <!ENTITY size-smallCmd.label "liten">
 <!ENTITY size-smallCmd.accesskey "l">
 <!ENTITY size-mediumCmd.label "medelstor">
 <!ENTITY size-mediumCmd.accesskey "m">
 <!ENTITY size-largeCmd.label "stor">
 <!ENTITY size-largeCmd.accesskey "s">
-<!ENTITY size-x-largeCmd.label "extra stor">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "extra extra stor">
-<!ENTITY size-xx-largeCmd.accesskey "o">
+<!ENTITY size-extraLargeCmd.label "extra stor">
+<!ENTITY size-extraLargeCmd.accesskey "x">
+<!ENTITY size-hugeCmd.label "mycket stor">
+<!ENTITY size-hugeCmd.accesskey "o">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Textvariant">
@@ -224,6 +222,7 @@
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabell">
 <!ENTITY tableMenu.accesskey "b">
+
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Markera">
 <!ENTITY tableSelectMenu.accesskey "M">
@@ -269,7 +268,7 @@
 <!ENTITY tableDeleteMenu.label "Ta bort">
 <!ENTITY tableDeleteMenu.accesskey "T">
 
-<!-- text for "Sammanfoga celler" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
@@ -311,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Välj markeringsfärg för text">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ange teckenstorlek">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mindre teckenstorlek">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Större teckenstorlek">
 <!ENTITY boldToolbarCmd.tooltip "Halvfet">

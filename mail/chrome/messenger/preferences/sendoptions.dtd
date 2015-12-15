@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Format på meddelanden">
 <!ENTITY sendMail.title               "Textformat">
+<!ENTITY autoDowngrade.label          "Skicka meddelanden som oformaterad text om möjligt">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "När du skickar meddelanden i HTML-format och någon av mottagarna inte är registrerad som kapabel att ta emot HTML:">
 <!ENTITY askMe.label                  "Fråga mig">
 <!ENTITY askMe.accesskey              "F">
