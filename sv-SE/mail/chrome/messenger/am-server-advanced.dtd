@@ -10,24 +10,22 @@
 <!ENTITY usingSubscription.accesskey "V">
 <!ENTITY dualUseFolders.label "Servern kan hantera mappar med både undermappar och meddelanden">
 <!ENTITY dualUseFolders.accesskey "e">
-<!ENTITY useIdle.label "Använd kommandot IDLE om servern stöder det">
-<!ENTITY useIdle.accesskey "L">
 <!ENTITY maximumConnectionsNumber.label "Maximala antalet serveranslutningar att cacha">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Här ställer du in namnrymderna (namespace) på IMAP-servern">
 <!ENTITY personalNamespace.label "Personlig:">
 <!ENTITY personalNamespace.accesskey "P">
-<!ENTITY publicNamespace.label   "Publik (delad):">
+<!ENTITY publicNamespace.label "Publik (delad):">
 <!ENTITY publicNamespace.accesskey "b">
-<!ENTITY otherUsersNamespace.label    "Andra användares:">
+<!ENTITY otherUsersNamespace.label "Andra användares:">
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Tillåt att servern bestämmer">
 <!ENTITY overrideNamespaces.accesskey "T">
-<!ENTITY pop3Desc.label "När du hämtar e-post från denna POP-server, använd följande mapp för ny e-post:">
-<!ENTITY accountDirectory.label "Inkorgen för denna servers konto">
-<!ENTITY accountDirectory.accesskey "d">
+<!ENTITY pop3DeferringDesc.label "När du hämtar e-post från det här kontots server, använd följande mapp för att lagra nya meddelanden:" >
+<!ENTITY accountInbox.label "Inkorgen för det här kontot">
+<!ENTITY accountInbox.accesskey "h">
 <!ENTITY deferToServer.label "Inkorgen för ett annat konto">
-<!ENTITY deferToServer.accesskey "ö">
+<!ENTITY deferToServer.accesskey "a">
 <!ENTITY deferGetNewMail.label "Inkludera denna server när du hämtar ny e-post">
 <!ENTITY deferGetNewMail.accesskey "I">

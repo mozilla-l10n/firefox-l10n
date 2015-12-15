@@ -6,11 +6,11 @@
 <!ENTITY msgComposeWindow.title "Skriv: (inget ämne)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Arkiv"> 
+<!ENTITY fileMenu.label "Arkiv">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newMenu.label "Nytt">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newMessage.label "Nytt meddelande">  
+<!ENTITY newMessage.label "Nytt meddelande">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
@@ -59,32 +59,32 @@
 <!ENTITY printCmd.accesskey "u">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Redigera"> 
+<!ENTITY editMenu.label "Redigera">
 <!ENTITY editMenu.accesskey "R">
 <!ENTITY undoCmd.label "Ångra">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "Å"> 
+<!ENTITY undoCmd.accesskey "Å">
 <!ENTITY redoCmd.label "Gör om">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "G"> 
+<!ENTITY redoCmd.accesskey "G">
 <!ENTITY cutCmd.label "Klipp ut">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "K"> 
+<!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopiera">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "o"> 
+<!ENTITY copyCmd.accesskey "o">
 <!ENTITY pasteCmd.label "Klistra in">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Gör om radbrytning">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "y">
-<!ENTITY renameAttachmentCmd.label "Byt namn på bilaga…">
-<!ENTITY renameAttachmentCmd.accesskey "B">
+<!ENTITY editRewrapCmd.accesskey "y">
 <!ENTITY deleteCmd.label "Ta bort">
 <!ENTITY deleteCmd.accesskey "T">
+<!ENTITY editRewrapCmd.label "Gör om radbrytning">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Byt namn på bilaga…">
+<!ENTITY renameAttachmentCmd.accesskey "B">
 <!ENTITY selectAllCmd.label "Markera allt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "M">
@@ -95,19 +95,19 @@
 <!ENTITY findReplaceCmd.accesskey "r">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Sök nästa">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Sök tidigare">
+<!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "d">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Visa"> 
+<!ENTITY viewMenu.label "Visa">
 <!ENTITY viewMenu.accesskey "s">
-<!ENTITY viewToolbarsMenuNew.label "Verktygsfält"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "V"> 
+<!ENTITY viewToolbarsMenuNew.label "Verktygsfält">
+<!ENTITY viewToolbarsMenuNew.accesskey "V">
 <!ENTITY menubarCmd.label "Menyfält">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Skriv">
@@ -119,8 +119,8 @@
 <!ENTITY customizeToolbar.label "Anpassa…">
 <!ENTITY customizeToolbar.accesskey "A">
 
-<!ENTITY addressSidebar.label "Kontaktsidofältet"> 
-<!ENTITY addressSidebar.accesskey "K"> 
+<!ENTITY addressSidebar.label "Kontaktsidofältet">
+<!ENTITY addressSidebar.accesskey "K">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatering">
@@ -190,13 +190,13 @@
 <!ENTITY preferencesCmd2.label "Alternativ">
 <!ENTITY preferencesCmd2.accesskey "e">
 <!ENTITY preferencesCmdUnix.label "Inställningar">
-<!ENTITY preferencesCmdUnix.accesskey "I"> 
+<!ENTITY preferencesCmdUnix.accesskey "I">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimera">
 <!ENTITY bringAllToFront.label "Lägg i förgrunden">
-<!ENTITY zoomWindow.label "Zooma fönster"> 
+<!ENTITY zoomWindow.label "Zooma fönster">
 <!ENTITY windowMenu.label "Fönster">
 
 <!-- Mail Toolbar -->
@@ -209,14 +209,14 @@
 <!ENTITY printButton.label "Skriv ut">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Skickar meddelandet nu"> 
-<!ENTITY sendlaterButton.tooltip "Skickar meddelandet senare"> 
-<!ENTITY quoteButton.tooltip "Citerar föregående meddelande"> 
+<!ENTITY sendButton.tooltip "Skickar meddelandet nu">
+<!ENTITY sendlaterButton.tooltip "Skickar meddelandet senare">
+<!ENTITY quoteButton.tooltip "Citerar föregående meddelande">
 <!ENTITY addressButton.tooltip "Väljer mottagare ur någon adressbok">
-<!ENTITY attachButton.tooltip "Lägg till en bilaga"> 
+<!ENTITY attachButton.tooltip "Lägg till en bilaga">
 <!ENTITY spellingButton.tooltip "Kontrollerar stavningen på markerad text eller hela meddelandet">
 <!ENTITY statusLanguageText.tooltip "Stavningskontrollera språk">
-<!ENTITY saveButton.tooltip "Sparar meddelandet"> 
+<!ENTITY saveButton.tooltip "Sparar meddelandet">
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopiera">
 <!ENTITY pasteButton.tooltip            "Klistra in">
@@ -228,12 +228,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Från:">
 <!ENTITY fromAddr.accesskey "n">
-<!ENTITY toAddr.label "Till:"> 
-<!ENTITY ccAddr.label "Kopia:"> 
-<!ENTITY bccAddr.label "Dold kopia:"> 
-<!ENTITY replyAddr.label "Svar-till:"> 
-<!ENTITY newsgroupsAddr.label "Diskussionsgrupp:"> 
-<!ENTITY followupAddr.label "Uppföljning-till:"> 
+<!ENTITY toAddr.label "Till:">
+<!ENTITY ccAddr.label "Kopia:">
+<!ENTITY bccAddr.label "Dold kopia:">
+<!ENTITY replyAddr.label "Svar-till:">
+<!ENTITY newsgroupsAddr.label "Diskussionsgrupp:">
+<!ENTITY followupAddr.label "Uppföljning-till:">
 <!ENTITY subject.label "Ämne:">
 <!ENTITY subject.accesskey "e">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
@@ -305,3 +305,7 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakter">
+
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Anpassa från adress…">
+<!ENTITY customizeFromAddress.accesskey "A">
