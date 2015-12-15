@@ -75,6 +75,9 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "Mes projets">
 <!ENTITY projectPanel_runtimeApps "Applications de l'environnement">
@@ -86,6 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "Installer un simulateur">
 <!ENTITY runtimePanel_noadbhelper "Installer ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Vous ne voyez pas votre appareil ?">
+<!ENTITY runtimePanel_refreshDevices_label "Actualiser les appareils">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "valide">
