@@ -138,6 +138,9 @@ da ima &brandShortName; pravico dostopati do omrežja.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p> 
 <p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>">
 
+<!ENTITY forbiddenBlocked.title "Prepovedana stran">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje te strani, ker je nastavljen, da jo blokira.</p>">
+
 <!ENTITY cspBlocked.title "Blokirano zaradi Politike za varnost vsebin">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje te strani na ta način, kajti zanjo velja politika o varnosti vsebin, ki tega ne dovoljuje.</p>">
 

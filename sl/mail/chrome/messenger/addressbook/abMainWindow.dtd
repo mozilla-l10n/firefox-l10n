@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Pogled">
 <!ENTITY viewMenu.accesskey                             "P">
 <!ENTITY viewToolbarsMenu.label                         "Orodne vrstice">
-<!ENTITY viewToolbarsMenu.accesskey                     "O"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "O">
 <!ENTITY menubarCmd.label                               "Vrstica z menijem">
 <!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Orodna vrstica imenika">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Podokno za stike">
 <!ENTITY showContactPane2.accesskey                     "s">
 <!ENTITY menu_ShowNameAs.label                          "Prikaži ime kot">
-<!ENTITY menu_ShowNameAs.accesskey                      "P"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "P">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Ime Priimek">
-<!ENTITY firstLastCmd2.accesskey                        "m"> 
+<!ENTITY firstLastCmd2.accesskey                        "m">
 <!ENTITY lastFirstCmd.label                             "Priimek, ime">
 <!ENTITY lastFirstCmd.accesskey                         "P">
 <!ENTITY displayNameCmd.label                           "Prikazano ime">
@@ -128,7 +128,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.label                       "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey                   "N">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Nov stik">
 <!ENTITY newContactButton.accesskey                     "s">
 <!ENTITY newlistButton.label                            "Nov seznam">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Neposredno sporočilo">
 <!ENTITY newIM.accesskey                                "N">
+<!ENTITY printButton.label                              "Natisni ...">
+<!ENTITY printButton.accesskey                          "a">
 <!ENTITY deleteButton2.label                            "Izbriši">
 <!ENTITY deleteButton2.accesskey                        "b">
 
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Uredi izbrani predmet">
 <!ENTITY newmsgButton.tooltip                           "Pošlji poštno sporočilo">
 <!ENTITY newIM.tooltip                                  "Pošlji neposredno sporočilo ali klepetaj">
-<!ENTITY deleteButton2.tooltip                           "Izbriši izbrani predmet">
+<!ENTITY deleteButton2.tooltip                          "Izbriši izbrani predmet">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Imeniki">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Prikaži zemljevid za ta naslov s spleta">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "Okno">
-<!ENTITY minimizeWindow.label "Pomanjšaj">
-<!ENTITY minimizeWindow.key "P">
-<!ENTITY bringAllToFront.label "Vse v ospredje">
-<!ENTITY zoomWindow.label "Povečava">
+<!ENTITY windowMenu.label                               "Okno">
+<!ENTITY minimizeWindow.label                           "Pomanjšaj">
+<!ENTITY minimizeWindow.key                             "P">
+<!ENTITY bringAllToFront.label                          "Vse v ospredje">
+<!ENTITY zoomWindow.label                               "Povečava">
