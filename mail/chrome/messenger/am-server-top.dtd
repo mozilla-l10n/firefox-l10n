@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Перевіряти наявність нових листів кожні ">
 <!ENTITY biffStart.accesskey "е">
 <!ENTITY biffEnd.label "хвилин">
+<!ENTITY useIdleNotifications.label "Дозволити миттєві сповіщення від сервера при отриманні нових повідомлень">
+<!ENTITY useIdleNotifications.accesskey "з">
 <!ENTITY connectionSecurity.label "Безпека з’єднання:">
 <!ENTITY connectionSecurity.accesskey "Б">
 <!ENTITY connectionSecurityType-0.label "Жодної">

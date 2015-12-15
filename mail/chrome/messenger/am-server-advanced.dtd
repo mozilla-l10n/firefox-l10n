@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "П">
 <!ENTITY dualUseFolders.label "Сервер підтримує теки, що містять вкладені теки і листи">
 <!ENTITY dualUseFolders.accesskey "С">
-<!ENTITY useIdle.label "Використовувати команду IDLE, якщо її підтримує сервер">
-<!ENTITY useIdle.accesskey "р">
 <!ENTITY maximumConnectionsNumber.label "Максимальне число кешованих з’єднань">
 <!ENTITY maximumConnectionsNumber.accesskey "М">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "ч">
 <!ENTITY overrideNamespaces.label "Дозволити серверу перекривати ці простори імен">
 <!ENTITY overrideNamespaces.accesskey "І">
-<!ENTITY pop3Desc.label "При отриманні пошти з даного сервера POP3, поміщати її в наступну теку:" >
-<!ENTITY accountDirectory.label "«Вхідні» для даного облікового запису">
-<!ENTITY accountDirectory.accesskey "а">
+<!ENTITY pop3DeferringDesc.label "При завантаженні пошти з цього сервера облікових записів, використовувати наступну теку для збереження нових повідомлень:" >
+<!ENTITY accountInbox.label "Вхідні для цього облікового запису">
+<!ENTITY accountInbox.accesskey "х">
 <!ENTITY deferToServer.label "«Вхідні» для іншого облікового запису">
 <!ENTITY deferToServer.accesskey "н">
 <!ENTITY deferGetNewMail.label "Завантажувати пошту з даного сервера">
