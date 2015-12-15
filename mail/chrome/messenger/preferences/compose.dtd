@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Återställ standard">
 <!ENTITY restoreHTMLDefaults.accesskey        "Å">
+<!ENTITY enterKeyCreatesNewParagraph.label    "När du använder styckeformat, entertangenten skapar ett nytt stycke">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY spellCheck.label                     "Kontrollera stavningen innan meddelanden skickas">
 <!ENTITY spellCheck.accesskey                 "K">
