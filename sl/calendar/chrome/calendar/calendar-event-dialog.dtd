@@ -138,6 +138,9 @@
 <!ENTITY event.email.attendees.accesskey                  "v">
 <!ENTITY event.email.tentative.attendees.label            "Sestavi e-pošto za nepotrjene udeležence …">
 <!ENTITY event.email.tentative.attendees.accesskey        "n">
+<!ENTITY event.remove.attendees.label                     "Odstrani vse udeležence ...">
+<!ENTITY event.remove.attendees.accesskey                 "O">
+<!ENTITY event.remove.attendee.label                      "Odstrani udeleženca">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Shrani in zapri">
@@ -348,6 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "Skupina">
 <!ENTITY event.attendee.usertype.resource       "Vir">
 <!ENTITY event.attendee.usertype.room           "Klepetalnica">
+<!ENTITY event.attendee.usertype.unknown        "Neznano">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Navedite časovni pas">
