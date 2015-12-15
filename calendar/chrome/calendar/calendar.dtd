@@ -26,6 +26,9 @@
 <!ENTITY calendar.events.filter.next31Days.label "Begivenheder i de næste 31 dage">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Begivenheder for denne kalendermåned">
 
+<!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
+   - This label and tooltip is used for the column with the checkbox in the
+   - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label "Færdig">
 <!ENTITY calendar.unifinder.tree.done.tooltip2             "Sorter efter færdig">
 <!ENTITY calendar.unifinder.tree.priority.label "Prioritet">
@@ -74,7 +77,6 @@
 <!ENTITY calendar.prevmonth.label               "Forrige måned" >
 <!ENTITY calendar.nextmonth.accesskey           "æ" >
 <!ENTITY calendar.prevmonth.accesskey           "F" >
-
 
 <!ENTITY calendar.navigation.nextday.tooltip "En dag frem">
 <!ENTITY calendar.navigation.prevday.tooltip "En dag tilbage">
@@ -147,7 +149,8 @@
 <!ENTITY calendar.task.complete.button.tooltip "Marker valgte opgaver som fuldførte">
 <!ENTITY calendar.task.priority.button.tooltip "Skift vigtighed">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Opgavefilter… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Opgavefilter #1">
+
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Skift+F&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;F&gt;">
 
