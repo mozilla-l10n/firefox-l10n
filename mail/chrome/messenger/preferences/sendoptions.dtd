@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Možnosti pošiljanja">
 <!ENTITY sendMail.title               "Oblika besedila">
+<!ENTITY autoDowngrade.label          "Po možnosti pošlji sporočila kot golo besedilo">
+<!ENTITY autoDowngrade.accesskey      "ž">
 <!ENTITY sendMaildesc.label           "Ko pošiljam sporočila v obliki HTML, eden ali več prejemnikov pa ne more prejemati HTML:">
 <!ENTITY askMe.label                  "me vprašaj, kaj storiti">
 <!ENTITY askMe.accesskey              "m">

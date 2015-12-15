@@ -82,20 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "Velikost">
 <!ENTITY fontSizeMenu.accesskey "V">
-<!ENTITY size-xx-smallCmd.label "xx-majhna">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "x-majhna">
-<!ENTITY size-x-smallCmd.accesskey "h">
+<!ENTITY size-tinyCmd.label "drobna">
+<!ENTITY size-tinyCmd.accesskey "d">
 <!ENTITY size-smallCmd.label "majhna">
 <!ENTITY size-smallCmd.accesskey "a">
 <!ENTITY size-mediumCmd.label "srednja">
 <!ENTITY size-mediumCmd.accesskey "s">
 <!ENTITY size-largeCmd.label "velika">
 <!ENTITY size-largeCmd.accesskey "e">
-<!ENTITY size-x-largeCmd.label "x-velika">
-<!ENTITY size-x-largeCmd.accesskey "k">
-<!ENTITY size-xx-largeCmd.label "xx-velika">
-<!ENTITY size-xx-largeCmd.accesskey "i">
+<!ENTITY size-extraLargeCmd.label "zelo velika">
+<!ENTITY size-extraLargeCmd.accesskey "z">
+<!ENTITY size-hugeCmd.label "ogromna">
+<!ENTITY size-hugeCmd.accesskey "o">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Slog pisave">
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Izberi označevalno barvo besedila">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nastavite velikost pisave">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Manjša velikost pisave">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Večja velikost pisave">
 <!ENTITY boldToolbarCmd.tooltip "Krepko">
