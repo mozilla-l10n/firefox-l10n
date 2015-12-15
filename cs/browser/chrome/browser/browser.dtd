@@ -852,7 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.title "Ochrana proti sledování">
 <!ENTITY trackingProtection.detectedBlocked3 "Aplikace &brandShortName; blokuje části stránky, které mohou sledovat vaši aktivitu prohlížení.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tato stránka obsahuje prvky, které mohou sledovat vaše prohlížení. Zakázali jste ochranu.">
-<!ENTITY trackingProtection.notDetected3 "Na této stránky nebyly zjistěny žádné sledovací prvky.">
+<!ENTITY trackingProtection.notDetected3 "Na této stránce nebyly zjištěny žádné sledovací prvky.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
