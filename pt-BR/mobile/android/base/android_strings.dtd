@@ -146,6 +146,9 @@
 <!ENTITY pref_category_accessibility "Acessibilidade">
 <!ENTITY pref_category_accessibility_summary2 "Tamanho do texto, zoom, entrada de voz">
 <!ENTITY pref_category_privacy_short "Privacidade">
+<!ENTITY pref_category_privacy_summary3 "Rastreamento, cookies, escolhas de dados">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Sobre o &brandShortName;, FAQs, opinião">
 <!ENTITY pref_category_datareporting "Escolha de dados">
 <!ENTITY pref_learn_more "Saiba mais">
 <!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
@@ -160,6 +163,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Dica: adicione qualquer site à sua lista de mecanismos de pesquisa dando um toque longo em seu campo de pesquisa e um toque no ícone &formatI;.">
 <!ENTITY pref_category_advanced "Avançado">
+<!ENTITY pref_category_advanced_summary2 "Restaurar abas, plugins, ferramentas do desenvolvedor">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_developer_remotedebugging_usb "Depuração remota via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuração remota via Wi-Fi">
@@ -189,6 +193,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Página inicial do &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -447,6 +452,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Navegação em tela inteira">
+<!ENTITY pref_scroll_title_bar_summary2 "Ocultar a barra de ferramentas do &brandShortName; ao rolar a tela para baixo">
 
 <!ENTITY pref_tab_queue_title2 "Abir múltiplos links">
 <!ENTITY pref_tab_queue_summary3 "Salvar para a próxima vez que iniciar o &brandShortName;">
@@ -525,8 +531,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint3 "Dica: salve artigos em sua lista de leitura dando um toque longo no ícone &formatI; quando ele aparecer na barra de endereço.">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible2 "Dica: salve artigos em sua lista de leitura dando um toque longo no botão do modo de leitura quando ele aparecer na barra de endereço.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -752,4 +760,5 @@ do Android">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_title "O &brandShortName; não oferece mais suporte ao Android 3">
 <!ENTITY eol_notification_summary "Toque para saber mais">
