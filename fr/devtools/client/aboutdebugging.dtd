@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Modules">
 <!ENTITY aboutDebugging.addonDebugging.label       "Activer le débogage des modules complémentaires">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Activer cette fonction vous permettra de déboguer les modules complémentaires et diverses autres parties du chrome du navigateur">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Charger un module temporaire">
 <!ENTITY aboutDebugging.workers                    "Workers">
