@@ -20,3 +20,7 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Веб-сторінка <span id='unwanted_sitename'/> відома як така, що розповсюджує небажане програмне забезпечення, і тому була заблокована згідно з вашими вподобаннями безпеки.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Сторінки такого типу намагаються встановити програмне забезпечення, яке може вас ввести в оману та призвести до непередбачуваних змін у системі.">
+
+<!ENTITY safeb.blocked.forbiddenPage.title "Заборонений сайт">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Ця веб-сторінка <span id='forbidden_sitename'/> була заблокована на основі вашої конфігурації веб-переглядача.">
