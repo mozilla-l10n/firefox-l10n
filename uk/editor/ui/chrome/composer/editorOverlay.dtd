@@ -82,20 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "Розмір">
 <!ENTITY fontSizeMenu.accesskey "Р">
-<!ENTITY size-xx-smallCmd.label "крихітний">
-<!ENTITY size-xx-smallCmd.accesskey "х">
-<!ENTITY size-x-smallCmd.label "дрібний">
-<!ENTITY size-x-smallCmd.accesskey "б">
-<!ENTITY size-smallCmd.label "маленький">
+<!ENTITY size-tinyCmd.label "Крихітний">
+<!ENTITY size-tinyCmd.accesskey "и">
+<!ENTITY size-smallCmd.label "Маленький">
 <!ENTITY size-smallCmd.accesskey "н">
-<!ENTITY size-mediumCmd.label "середній">
+<!ENTITY size-mediumCmd.label "Середній">
 <!ENTITY size-mediumCmd.accesskey "р">
-<!ENTITY size-largeCmd.label "крупний">
-<!ENTITY size-largeCmd.accesskey "п">
-<!ENTITY size-x-largeCmd.label "великий">
-<!ENTITY size-x-largeCmd.accesskey "л">
-<!ENTITY size-xx-largeCmd.label "величезний">
-<!ENTITY size-xx-largeCmd.accesskey "ч">
+<!ENTITY size-largeCmd.label "Великий">
+<!ENTITY size-largeCmd.accesskey "е">
+<!ENTITY size-extraLargeCmd.label "Величезний">
+<!ENTITY size-extraLargeCmd.accesskey "л">
+<!ENTITY size-hugeCmd.label "Гігантський">
+<!ENTITY size-hugeCmd.accesskey "Г">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Стиль тексту">
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Виберіть колір підсвічування тексту">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Встановити розмір шрифту">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Менший розмір шрифту">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Більший розмір шрифту">
 <!ENTITY boldToolbarCmd.tooltip "Напівжирний">
