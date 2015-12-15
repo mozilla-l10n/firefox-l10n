@@ -1,9 +1,8 @@
- <!-- ***** BEGIN LICENSE BLOCK *****
-   - This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY event.title.label               "Redigera objekt" >
+<!ENTITY event.title.label                  "Redigera objekt" >
 
 <!ENTITY event.dialog.keepDurationButton.tooltip   "Behåll varaktighet vid ändring av slutdatum">
 <!ENTITY event.dialog.keepDurationButton.accesskey "K">
@@ -11,8 +10,8 @@
 <!ENTITY newevent.from.label                "Från" >
 <!ENTITY newevent.to.label                  "Till" >
 
-<!ENTITY newevent.status.label 		    	"Status" >
-<!ENTITY newevent.status.accesskey 	    	"S" >
+<!ENTITY newevent.status.label                    "Status" >
+<!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "Ej angiven" >
 <!ENTITY newevent.eventStatus.none.accesskey      "a" >
 <!ENTITY newevent.todoStatus.none.label           "Ej angiven" >
@@ -23,9 +22,9 @@
 <!ENTITY newevent.status.tentative.accesskey      "P" >
 <!ENTITY newevent.status.confirmed.label          "Bekräftad" >
 <!ENTITY newevent.status.confirmed.accesskey      "B" >
-<!ENTITY newevent.status.needsaction.label  "En åtgärd krävs" >
-<!ENTITY newevent.status.inprogress.label   "Pågående" >
-<!ENTITY newevent.status.completed.label    "Avslutad" >
+<!ENTITY newevent.status.needsaction.label        "En åtgärd krävs" >
+<!ENTITY newevent.status.inprogress.label         "Pågående" >
+<!ENTITY newevent.status.completed.label          "Avslutad" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; färdigt">
@@ -139,6 +138,9 @@
 <!ENTITY event.email.attendees.accesskey                  "S">
 <!ENTITY event.email.tentative.attendees.label            "Skicka e-post till alla preliminära deltagare…">
 <!ENTITY event.email.tentative.attendees.accesskey        "e">
+<!ENTITY event.remove.attendees.label                     "Ta bort alla deltagare...">
+<!ENTITY event.remove.attendees.accesskey                 "t">
+<!ENTITY event.remove.attendee.label                      "Ta bort deltagare">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Spara och stäng">
@@ -234,10 +236,6 @@
 <!ENTITY event.repeat.yearly.label                      "Årlig">
 <!ENTITY event.repeat.custom.label                      "Anpassad…">
 
-<!ENTITY event.recurrence.pattern.every.label           "Varje" >
-<!ENTITY repeat.units.days.both                         "Dag(ar)" >
-<!ENTITY event.recurrence.pattern.every.weekday.label   "Varje dag" >
-
 <!ENTITY event.recurrence.pattern.label                 "Återkommande mönster">
 <!ENTITY event.recurrence.occurs.label                  "Upprepa" >
 <!ENTITY event.recurrence.day.label                     "daglig" >
@@ -245,12 +243,9 @@
 <!ENTITY event.recurrence.month.label                   "månadsvis" >
 <!ENTITY event.recurrence.year.label                    "årligen" >
 
-<!ENTITY event.recurrence.range.label                   "Intervall för återkommande">
-<!ENTITY event.recurrence.forever.label                 "Inget slutdatum" >
-<!ENTITY event.recurrence.repeat.for.label              "Skapa" >
-<!ENTITY event.recurrence.appointments.label            "Möte(en)" >
-<!ENTITY event.repeat.until.label                       "Upprepa tills" >
-<!ENTITY event.recurrence.preview.label                 "Förhandsgranska">
+<!ENTITY event.recurrence.pattern.every.label           "Varje" >
+<!ENTITY repeat.units.days.both                         "Dag(ar)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Varje dag" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Varje" >
 <!ENTITY repeat.units.weeks.both                        "Vecka(or)" >
@@ -329,6 +324,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "November" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "December" >
 
+<!ENTITY event.recurrence.range.label                   "Intervall för återkommande">
+<!ENTITY event.recurrence.forever.label                 "Inget slutdatum" >
+<!ENTITY event.recurrence.repeat.for.label              "Skapa" >
+<!ENTITY event.recurrence.appointments.label            "Möte(en)" >
+<!ENTITY event.repeat.until.label                       "Upprepa tills" >
+<!ENTITY event.recurrence.preview.label                 "Förhandsgranska">
+
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Bjud in deltagare">
 <!ENTITY event.organizer.label                  "Organisatör">
@@ -349,6 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "Grupp">
 <!ENTITY event.attendee.usertype.resource       "Resurs">
 <!ENTITY event.attendee.usertype.room           "Rum">
+<!ENTITY event.attendee.usertype.unknown        "Okänd">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Ange tidszon">
@@ -374,4 +377,3 @@
 <!ENTITY read.only.attendees.label       "Deltagare">
 <!ENTITY read.only.description.label     "beskrivning">
 <!ENTITY read.only.link.label            "Liknande länk">
-
