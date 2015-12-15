@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "т">
 <!ENTITY restoreHTMLDefaults.label            "Відновити типові значення">
 <!ENTITY restoreHTMLDefaults.accesskey        "В">
+<!ENTITY enterKeyCreatesNewParagraph.label    "При використанні формату параграфів, кнопка вводу створює новий параграф">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "п">
 
 <!ENTITY spellCheck.label                     "Перевіряти орфографію перед відсиланням листа">
 <!ENTITY spellCheck.accesskey                 "і">

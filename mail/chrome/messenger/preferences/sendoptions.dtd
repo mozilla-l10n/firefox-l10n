@@ -4,7 +4,9 @@
 
 <!ENTITY dialog.title                 "Параметри надсилання">
 <!ENTITY sendMail.title               "Текстовому форматі">
-<!ENTITY sendMaildesc.label           "При відсиланні листів у форматі HTML, якщо вказано, що один або декілька з адресатів не можуть отримувати пошту у форматі HTML:">
+<!ENTITY autoDowngrade.label          "Надсилати повідомлення у вигляді звичайного тексту при можливості">
+<!ENTITY autoDowngrade.accesskey      "т">
+<!ENTITY sendMaildesc.label           "При надсиланні листів у форматі HTML, якщо вказано, що один або декілька з адресатів не можуть отримувати пошту у форматі HTML:">
 <!ENTITY askMe.label                  "Запитувати (поштовий клієнт запитає, який формат використовувати)">
 <!ENTITY askMe.accesskey              "З">
 <!ENTITY convertPlain.label           "Перетворити лист у текстовий (частину форматування може бути втрачено)">
