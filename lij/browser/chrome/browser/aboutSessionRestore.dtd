@@ -32,3 +32,11 @@
 <!ENTITY welcomeback2.beforelink.pageInfo2 "I conponenti azonti instalæ i ò cancelæ e e inpostaçioin do navegatô en torna co-i valoî predefinii. ">
 <!ENTITY welcomeback2.afterlink.pageInfo2 " se sta operaçion a no t'à risòlto i problemi.">
 <!ENTITY welcomeback2.link.pageInfo2 "Descòvri e atre soloçioin ch'emmo">
+
+<!ENTITY tabgroupsmigration.tabtitle "Migraçion Gruppi de feuggi">
+<!ENTITY tabgroupsmigration.pagetitle2 "A fonçion Gruppi de feuggi a l'é stæta scancelâ ma i feuggi existenti son stæti sarvæ.">
+<!ENTITY tabgroupsmigration.learnaboutaddons "Atre informaçion in sci conponenti azonti pe sostitoî Gruppi de feuggi.">
+'<!ENTITY tabgroupsmigration.description2 "Son stæti creæ di segnalibbri in &brandShortName; pe ògni gruppo, no emmo perso ninte.">
+<!ENTITY tabgroupsmigration.bookmarkbutton "Fanni vedde Gruppi de feuggi inti segnalibbri">
+<!ENTITY tabgroupsmigration.restoredescription "Ti peu anche ripigiâ quarche ò tutti i gruppi de feuggi no en òua mostræ in neuvi barcoin:">
+
