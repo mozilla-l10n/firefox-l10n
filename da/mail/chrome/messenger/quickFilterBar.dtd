@@ -62,8 +62,16 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth): The minimum width, in pixels, of the results label.  Please size this so that a 3 or 4 digit number of messages in the results can be displayed without growing the size of the box.  You can tell this has been accomplished if adding a filter constraint that changes the displayed string to your "no results" string does not result in any changes to the size of the text box to the label's right.  (If your string for "no results" is longer than the "#### messages" case, then size for that.  -->
 <!ENTITY quickFilterBar.resultsLabel.minWidth  "100">
 
-<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base): This is the base of the empty text for the text search box.  We replace #1 with the contents of the appropriate quickFilterBar.textbox.emptyText.keyLabel.* value for the platform. The goal is to convey to the user that typing in the box will filter the messages and that there is a hotkey they can press to get to the box faster.  -->
-<!ENTITY quickFilterBar.textbox.emptyText.base  "Filtrer disse meddelelser… #1">
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base1):
+     This is the base of the empty text for the text search box.  We replace
+     #1 with the contents of the appropriate
+     quickFilterBar.textbox.emptyText.keyLabel.* value for the platform.
+     The goal is to convey to the user that typing in the box will filter
+     the messages and that there is a hotkey they can press to get to the
+     box faster.
+     -->
+<!ENTITY quickFilterBar.textbox.emptyText.base1
+         "Filtrer disse meddelelser #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->

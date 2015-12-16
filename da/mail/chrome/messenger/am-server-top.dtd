@@ -18,6 +18,8 @@
 <!ENTITY biffStart.label "Kontroller for nye meddelelser hvert">
 <!ENTITY biffStart.accesskey "o">
 <!ENTITY biffEnd.label "minut">
+<!ENTITY useIdleNotifications.label "Tillad øjeblikkelige servermeddelelser ved modtagelse af nye meddelelser">
+<!ENTITY useIdleNotifications.accesskey "T">
 <!ENTITY connectionSecurity.label "Forbindelsessikkerhed:">
 <!ENTITY connectionSecurity.accesskey "F">
 <!ENTITY connectionSecurityType-0.label "Ingen">

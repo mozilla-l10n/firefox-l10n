@@ -165,6 +165,10 @@
 <p>Denne type netsvindel er kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
 ">
 
+<!ENTITY forbiddenBlocked.title "Blokeret websted">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde, da den har en indholdssikkerhedspolitik, der forbyder dette.</p>
+">
+
 <!ENTITY cspBlocked.title "Blokeret grundet indholdssikkerhedspolitik">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde, da den har en indholdssikkerhedspolitik, der forbyder dette.</p>">
 

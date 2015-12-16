@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Gendan standard">
 <!ENTITY restoreHTMLDefaults.accesskey        "G">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Når du benytter afsnitsformat, vil et tryk på tasten Enter oprette et nyt afsnit">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "å">
 
 <!ENTITY spellCheck.label "Udfør stavekontrol før meddelelsen sendes">
 <!ENTITY spellCheck.accesskey "U">

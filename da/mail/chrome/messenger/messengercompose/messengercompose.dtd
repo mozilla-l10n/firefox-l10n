@@ -303,3 +303,7 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakter">
+
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Tilpas afsenderadresse…">
+<!ENTITY customizeFromAddress.accesskey "T">

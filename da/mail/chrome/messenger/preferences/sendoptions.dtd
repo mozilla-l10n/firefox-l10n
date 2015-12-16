@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title "Sendeindstillinger">
 <!ENTITY sendMail.title "Tekstformat">
+<!ENTITY autoDowngrade.label          "Send om muligt meddelelser som ren tekst">
+<!ENTITY autoDowngrade.accesskey      "e">
 <!ENTITY sendMaildesc.label "Når meddelelser sendes i HTML-format og en eller flere af modtagerne er markeret som ude af stand til at læse HTML:">
 <!ENTITY askMe.label "Spørg mig">
 <!ENTITY askMe.accesskey "s">
