@@ -6,8 +6,5 @@
      file, all messages that likely don't need to tie into app-specific UI
      should go into netError.dtd -->
 
-<!ENTITY securityOverride.linkText "ò ti peu azonze 'na eceçion…">
-<!ENTITY securityOverride.warningContent "<p>Tì no dovesci azonze 'na eceçion se ti uzi 'na conescion che no ti gh'æ de fiduccia ò se ti no gh'æ l'andio de vedde di alarmi in sto server.</p>
-<p>Se t'eu ancon azonze 'na eceçion pe sto scito, ti peu anâ inte inpostaçioin avansæ da criptaçion.</p>
- ">
+
 
