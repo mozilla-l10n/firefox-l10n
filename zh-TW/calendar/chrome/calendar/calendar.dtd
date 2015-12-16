@@ -149,7 +149,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "將工作標示為已完成">
 <!ENTITY calendar.task.priority.button.tooltip  "修改重要性">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "過濾工作… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "過濾工作 #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 

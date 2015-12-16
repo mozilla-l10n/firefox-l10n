@@ -82,20 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "大小">
 <!ENTITY fontSizeMenu.accesskey "z">
-<!ENTITY size-xx-smallCmd.label "最小">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "更小">
-<!ENTITY size-x-smallCmd.accesskey "m">
+<!ENTITY size-tinyCmd.label "非常小">
+<!ENTITY size-tinyCmd.accesskey "T">
 <!ENTITY size-smallCmd.label "小">
 <!ENTITY size-smallCmd.accesskey "s">
 <!ENTITY size-mediumCmd.label "中">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "大">
 <!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "特大">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "最大">
-<!ENTITY size-xx-largeCmd.accesskey "e">
+<!ENTITY size-extraLargeCmd.label "特大">
+<!ENTITY size-extraLargeCmd.accesskey "x">
+<!ENTITY size-hugeCmd.label "非常大">
+<!ENTITY size-hugeCmd.accesskey "H">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "文字樣式">
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "選擇強調文字的色彩">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "設定字型大小">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "字型縮小">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "字型放大">
 <!ENTITY boldToolbarCmd.tooltip "粗體字">
