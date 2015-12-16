@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "每">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "分鐘檢查新郵件">
+<!ENTITY useIdleNotifications.label "收到新訊息時，允許即時的伺服器通知">
+<!ENTITY useIdleNotifications.accesskey "A">
 <!ENTITY connectionSecurity.label "連線安全性:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "無">

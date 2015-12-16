@@ -101,11 +101,8 @@
 
 <!ENTITY settings "設定">
 <!ENTITY settings_title "設定">
-<!ENTITY pref_category_input_options "輸入選項">
-<!ENTITY pref_category_advanced "進階">
-<!ENTITY pref_category_customize "自訂">
-<!ENTITY pref_category_customize_summary "首頁、搜尋、分頁、匯入">
-<!ENTITY pref_category_customize_alt_summary "首頁、搜尋、分頁、稍後再開、匯入">
+<!ENTITY pref_category_general "一般">
+<!ENTITY pref_category_general_summary2 "首頁、語言、網址列">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -145,20 +142,14 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "沒有已連線到 Firefox 帳號的裝置">
 
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-<!ENTITY menu_no_synced_devices "將此頁面傳送到其他連結的裝置">
-
 <!ENTITY pref_category_search3 "搜尋">
 <!ENTITY pref_category_search_summary "自訂您的搜尋引擎">
-<!ENTITY pref_category_display "顯示">
-<!ENTITY pref_category_display_summary "字體大小、標題列、全螢幕瀏覽">
+<!ENTITY pref_category_accessibility "輔助功能">
+<!ENTITY pref_category_accessibility_summary2 "文字大小、縮放、語音輸入">
 <!ENTITY pref_category_privacy_short "個人隱私">
-<!ENTITY pref_category_privacy_summary2 "控制登入帳號、Cookies、追蹤、數據回傳設定">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "關於 &brandShortName;、常見問題、資料選擇">
+<!ENTITY pref_category_privacy_summary3 "追蹤、Cookie、資料選擇">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "關於 &brandShortName;、常見問題、意見回饋">
 <!ENTITY pref_category_datareporting "資料選擇">
 <!ENTITY pref_learn_more "詳細資訊">
 <!ENTITY pref_category_installed_search_engines "已安裝的搜尋引擎">
@@ -172,12 +163,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "秘訣: 長按網頁中的搜尋欄位，然後點擊 &formatI; 圖示來將任何網站新增至您的搜尋服務提供者清單。">
-<!ENTITY pref_category_devtools "開發者工具">
+<!ENTITY pref_category_advanced "進階">
+<!ENTITY pref_category_advanced_summary2 "還原分頁、外掛程式、開發者工具">
 <!ENTITY pref_developer_remotedebugging "遠端除錯">
 <!ENTITY pref_developer_remotedebugging_usb "透過 USB 進行遠端除錯">
 <!ENTITY pref_developer_remotedebugging_wifi "透過 Wi-Fi 進行遠端除錯">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "您的裝置需要安裝 QR 碼掃描程式才能使用 Wi-Fi 除錯。">
-<!ENTITY pref_category_logins "登入資訊">
 <!ENTITY pref_remember_signons2 "記住登入資訊">
 <!ENTITY pref_open_external_urls_privately_title "使用隱私瀏覽模式開啟鏈結">
 <!ENTITY pref_open_external_urls_privately_summary "對所有在 &brandShortName; 開啟的外部鏈結">
@@ -200,24 +191,40 @@
 <!ENTITY pref_home_suggested_sites_summary "在您的首頁顯示我們覺得您可能也有興趣的網站捷徑">
 <!ENTITY pref_category_home_homepage "首頁">
 <!ENTITY home_homepage_title "設定首頁">
-<!ENTITY home_homepage_use_current_tab "使用目前分頁">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; 首頁">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "自訂">
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
+<!ENTITY home_homepage_hint_user_address "輸入網址或搜尋詞彙">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "自訂">
-<!ENTITY pref_header_display "顯示">
+<!ENTITY pref_header_general "一般">
+<!ENTITY pref_header_search "搜尋">
 <!ENTITY pref_header_privacy_short "個人隱私">
+<!ENTITY pref_header_accessibility "輔助功能">
+<!ENTITY pref_header_advanced "進階">
 <!ENTITY pref_header_help "說明">
-<!ENTITY pref_header_language "語言">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "開發者工具">
 
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "啟用">
 <!ENTITY pref_cookies_not_accept_foreign "啟用，第三方 Cookie 除外">
 <!ENTITY pref_cookies_disabled "停用">
 
-<!ENTITY pref_tap_to_load_images_title "點擊以讀取圖片">
-<!ENTITY pref_tap_to_load_images_summary2 "只有在長按時才會讀取圖片。">
+<!ENTITY pref_tap_to_load_images_title2 "顯示圖片">
+<!ENTITY pref_tap_to_load_images_enabled "總是">
+<!ENTITY pref_tap_to_load_images_data "僅透過 Wi-Fi 連線">
+<!ENTITY pref_tap_to_load_images_disabled2 "封鎖">
 
 <!ENTITY pref_tracking_protection_title "追蹤保護">
 <!ENTITY pref_tracking_protection_summary3 "在隱私瀏覽中打開">
@@ -253,9 +260,11 @@
 <!ENTITY pref_char_encoding "語言及字元編碼">
 <!ENTITY pref_char_encoding_on "顯示選單">
 <!ENTITY pref_char_encoding_off "不顯示選單">
-<!ENTITY pref_clear_private_data2 "立刻清除">
-<!ENTITY pref_clear_private_data_category "清除隱私資料">
-<!ENTITY pref_clear_on_exit_title2 "離開時清除">
+<!ENTITY pref_clear_private_data "清除隱私資料">
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "立刻清除">
+<!ENTITY pref_clear_on_exit_title3 "結束時，清除隱私資料">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; 將會在您選擇主選單中的「離開」時自動清除您的資料">
 <!ENTITY pref_clear_on_exit_dialog_title "選擇要清除的資料">
 <!ENTITY pref_plugins "外掛程式">
@@ -263,7 +272,7 @@
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
 <!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_text_size "文字大小">
-<!ENTITY pref_restore "分頁">
+<!ENTITY pref_restore_tabs "還原分頁">
 <!ENTITY pref_restore_always "總是還原">
 <!ENTITY pref_restore_quit "不要在離開 &brandShortName; 後還原">
 <!ENTITY pref_font_size_tiny "非常小">
@@ -288,16 +297,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "總是啟用縮放">
 <!ENTITY pref_zoom_force_enabled_summary "強制讓所有網頁都能縮放大小">
 <!ENTITY pref_voice_input "語音輸入">
-<!ENTITY pref_voice_input_summary "允許在標題列使用語音聽寫">
+<!ENTITY pref_voice_input_summary2 "允許在網址列使用語音輸入">
 <!ENTITY pref_qrcode_enabled "QR 碼閱讀器">
-<!ENTITY pref_qrcode_enabled_summary "允許在標題列中使用 QR 碼掃描器">
+<!ENTITY pref_qrcode_enabled_summary2 "允許在網址列使用 QR 碼掃描器">
 
 <!ENTITY pref_use_master_password "使用主控密碼">
-<!ENTITY pref_sync "同步">
+<!ENTITY pref_sync2 "登入">
 <!ENTITY pref_sync_summary2 "同步您的分頁、書籤、登入資訊、瀏覽紀錄">
 <!ENTITY pref_search_suggestions "顯示搜尋建議">
 <!ENTITY pref_history_search_suggestions "顯示搜尋紀錄">
-<!ENTITY pref_import_android "自 Android 匯入">
+<!ENTITY pref_import_options "匯入選項">
 <!ENTITY pref_import_android_summary "自內建瀏覽器匯入書籤與瀏覽紀錄">
 <!ENTITY pref_private_data_history2 "瀏覽歷史紀錄">
 <!ENTITY pref_private_data_searchHistory "搜尋紀錄">
@@ -354,7 +363,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "自動下載更新">
+<!ENTITY pref_update_autodownload3 "自動更新">
 <!ENTITY pref_update_autodownload_wifi "僅透過 Wi-Fi 連線">
 <!ENTITY pref_update_autodownload_never "永不">
 <!ENTITY pref_update_autodownload_always "總是">
@@ -436,10 +445,6 @@ size. -->
 <!ENTITY doorhanger_login_select_action_text "選擇另一組帳號">
 <!ENTITY doorhanger_login_select_title "複製密碼">
 
-<!ENTITY pref_titlebar_mode "標題列">
-<!ENTITY pref_titlebar_mode_title "顯示頁面標題">
-<!ENTITY pref_titlebar_mode_url "顯示頁面地址">
-
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "放大範圍">
@@ -448,7 +453,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "全螢幕瀏覽">
-<!ENTITY pref_scroll_title_bar_summary "向下滑動頁面時隱藏 &brandShortName; 的標題列">
+<!ENTITY pref_scroll_title_bar_summary2 "捲動網頁時隱藏 &brandShortName; 工具列">
 
 <!ENTITY pref_tab_queue_title2 "開啟多個鏈結">
 <!ENTITY pref_tab_queue_summary3 "先存下來，下次開啟 &brandShortName; 時再一起打開">
@@ -468,7 +473,6 @@ size. -->
 <!ENTITY site_settings_title3       "網站設定">
 <!ENTITY site_settings_cancel       "取消">
 <!ENTITY site_settings_clear        "清除">
-<!ENTITY site_settings_no_settings  "沒有可清除的設定。">
 
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
@@ -524,14 +528,14 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "噓！&formatS1;開新隱私瀏覽分頁&formatS2; 後將不會儲存您的瀏覽紀錄。">
 <!ENTITY home_reading_list_empty "您儲存稍後再讀的文件將會顯示於此。">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "秘訣: 在標題列出現 &formatI; 圖示時長按該圖示來將文章儲存至您的閱讀清單。">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!ENTITY home_reading_list_hint3 "秘訣: 網址列出現 &formatI; 時，長按該圖示即可將文章儲存至您的閱讀清單。">
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "秘訣: 當標題列顯示閱讀模式按鈕時，長按該按鈕以將文章儲存至您的閱讀清單。">
+<!ENTITY home_reading_list_hint_accessible2 "秘訣: 網址列出現閱讀器模式按鈕時，長按該圖示即可將文章儲存至您的閱讀清單。">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -724,19 +728,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 <!ENTITY devtools_auth_scan_header "正在掃描另一台裝置上的 QR 碼">
 
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restriction_disallow_import_settings_title2 "停用「自 Android 匯入」">
-<!ENTITY restriction_disallow_addons_title2 "停用附加元件安裝">
-<!ENTITY restriction_disallow_devtools_title2 "停用開發者工具">
-<!ENTITY restriction_disallow_customize_home_title2 "停用自訂首頁">
-<!ENTITY restriction_disallow_private_browsing_title2 "停用隱私瀏覽">
-<!ENTITY restriction_disallow_location_services_title2 "停用位置服務">
-<!ENTITY restriction_disallow_display_settings_title2 "停用顯示設定">
-<!ENTITY restriction_disallow_clear_history_title2 "停用「清除瀏覽紀錄」">
-<!ENTITY restriction_disallow_master_password_title2 "停用主控密碼">
-<!ENTITY restriction_disallow_guest_browsing_title2 "停用訪客瀏覽">
+<!ENTITY restrictable_feature_addons_installation "附加元件">
+<!ENTITY restrictable_feature_addons_installation_description "新增功能到 Firefox。註: 附加元件可關閉某些限制。">
+<!ENTITY restrictable_feature_private_browsing "隱私瀏覽模式">
+<!ENTITY restrictable_feature_private_browsing_description "讓家人可在上網時不留下造訪過的網站資訊。">
+<!ENTITY restrictable_feature_clear_history "清除瀏覽記錄">
+<!ENTITY restrictable_feature_clear_history_description "讓家人可以刪除造訪過的網站資訊。">
+<!ENTITY restrictable_feature_advanced_settings "進階設定">
+<!ENTITY restrictable_feature_advanced_settings_description "包含匯入書籤、恢復分頁和自動更新。關閉此選項可簡化家人使用時需設定的內容。">
+<!ENTITY restrictable_feature_camera_microphone "攝影機與麥克風">
+<!ENTITY restrictable_feature_camera_microphone_description "讓家人可以透過網站即時溝通。">
+<!ENTITY restrictable_feature_data_choices "資料選擇">
+<!ENTITY restrictable_feature_data_choices_description "選擇是否要傳送使用資訊給 Mozilla，幫助我們改善 Firefox。">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -749,4 +755,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "Android 平板上的受限設定檔的 Firefox 輔助說明與技術支援">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "了解 Web: Mozilla Webmaker">
+
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "抱歉！這個版本的 &brandShortName; 無法在此裝置（&formatS1;, &formatS2;）執行，請下載正確的版本。">
+
+<!ENTITY eol_notification_title "&brandShortName; 不再支援 Android 3">
+<!ENTITY eol_notification_summary "點擊以獲得更多資訊">
 

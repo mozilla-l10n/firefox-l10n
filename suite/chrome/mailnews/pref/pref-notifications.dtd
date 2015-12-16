@@ -21,6 +21,10 @@
 <!ENTITY showAlertSubject.accesskey       "u">
 <!ENTITY showAlertSender.label            "顯示寄件者">
 <!ENTITY showAlertSender.accesskey        "n">
+<!ENTITY useSystemAlert.label             "使用作業系統的桌面通知功能">
+<!ENTITY useSystemAlert.accesskey         "d">
+<!ENTITY useBuiltInAlert.label            "使用 &brandShortName; 自己的通知視窗">
+<!ENTITY useBuiltInAlert.accesskey        "w">
 
 <!ENTITY showTrayIcon.label               "顯示工具列圖示">
 <!ENTITY showTrayIcon.accesskey           "t">

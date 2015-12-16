@@ -306,4 +306,7 @@
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "聯絡人">
 
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "自訂寄件地址…">
+<!ENTITY customizeFromAddress.accesskey "A">
 
