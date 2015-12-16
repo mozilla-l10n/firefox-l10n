@@ -157,3 +157,5 @@
 <!ENTITY simulator_device "Dispoxitivo">
 <!ENTITY simulator_screenSize "Schermo">
 <!ENTITY simulator_pixelRatio "Proporçioin pixel">
+<!ENTITY key_reload_devtools "R">
+<!ENTITY runtimePanel_refreshDevices_label "Agiorna dispoxitivi">
