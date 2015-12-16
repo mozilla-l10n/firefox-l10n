@@ -1,4 +1,4 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+	<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Запит на збереження вашого пароля">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Перегляд повідомлення про встановлення програми">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Керування використанням плагінів на цій сторінці">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Змінення налаштувань для отримання сповіщень від цього сайту">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Зміна налаштувань отримання сповіщень від цього сайту">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Керування доступом сайту до вашої камери та/або мікрофону">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Сайт має доступ до вашої камери та/або мікрофону">
@@ -411,7 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Відкрити меню допомоги">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронізовані вкладки">
-<!ENTITY appMenuRemoteTabs.fetching.label "Отримання даних про синхронізовані вкладки…">
+<!ENTITY appMenuRemoteTabs.fetching.label "Отримання синхронізованих вкладок…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Немає відкритих вкладок">
@@ -421,10 +421,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Увійдіть у Firefox з інших пристроїв щоб переглянути свої вкладки.">
+<!ENTITY appMenuRemoteTabs.noclients.label "Увійдіть у Firefox з інших пристроїв, щоб переглядати їх вкладки тут.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Налаштування синхронізації">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Увійдіть щоб переглянути список вкладок з інших ваших пристроїв.">
-<!ENTITY appMenuRemoteTabs.signin.label "Увійдіть для початку синхронізації">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
+<!ENTITY appMenuRemoteTabs.signin.label "Увійти в Синхронізацію">
 
 <!ENTITY customizeMenu.addToToolbar.label "Додати на панель">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
