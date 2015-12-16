@@ -48,3 +48,9 @@ their language.
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "saiba o que mais pode fazer.">
+
+<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
+     the tab groups (panorama) migration page, not about:sessionrestore -->
+<!ENTITY tabgroupsmigration.tabtitle            "Migrar seu outros grupos de abas">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "Saiba mais sobre complementos que substituem os grupos de abas.">
+

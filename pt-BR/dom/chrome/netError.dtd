@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Falha no carregamento da página">
 <!ENTITY retry.label "Tentar de novo">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Falha na conexão">
 <!ENTITY connectionFailure.longDesc "<p>Embora o site pareça válido, não foi possível estabelecer uma conexão.</p><ul><li>O servidor poderia estar temporariamente fora do ar? Tente de novo mais tarde.</li><li>Não consegue abrir outros sites? Verifique a conexão de rede do computador.</li><li>O seu computador ou rede é protegido por um firewall ou proxy? Configurações incorretas podem interferir na navegação.</li></ul>">
@@ -83,6 +83,14 @@
 <!ENTITY phishingBlocked.longDesc "<p>O fornecimento de dados pessoais nesta página pode resultar em roubo de identidade ou outros golpes.</p> 
 <p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e emails se fazem passar por fontes que você confiaria.</p>">
 
+<!ENTITY forbiddenBlocked.title "Site proibido">
+<!ENTITY forbiddenBlocked.longDesc "<p>O navegador impediu nesta página de ser carregada porque está configurado para bloqueá-la.</p>
+">
+
+<!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção…">
+<!ENTITY securityOverride.warningContent "<p>Você não deve adicionar uma exceção se estiver usando uma conexão com a internet que não confie totalmente ou se não costumava ver um alerta para este servidor.</p> 
+<p>Caso ainda deseje adicionar uma exceção para este site, pode fazê-lo nas configurações avançadas de criptografia.</p>">
+
 <!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspBlocked.longDesc "<p>O navegador impediu esta página de carregar desta forma porque a política de segurança de conteúdo da página não permite.</p>">
 
@@ -91,10 +99,3 @@
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
