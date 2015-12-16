@@ -3,5 +3,4 @@ bing
 eBay-en-GB
 google
 pogodak
-vokabular
 wikipedia-sr
