@@ -199,7 +199,7 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "Нестандартно">
+<!ENTITY home_homepage_radio_user_address "Власна">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
@@ -739,9 +739,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing "Приватний перегляд">
 <!ENTITY restrictable_feature_private_browsing_description "Дозволити членам родини переглядати Інтернет без збереження інформації про відвідані ними сайти та сторінки.">
 <!ENTITY restrictable_feature_clear_history "Стерти історію">
-<!ENTITY restrictable_feature_clear_history_description "Дозволяє членам родини видаляти інформацію про сайти та сторінки, які вони відвідали.">
+<!ENTITY restrictable_feature_clear_history_description "Дозволяє членам родини видаляти інформацію про відвідані ними сайти та сторінки.">
 <!ENTITY restrictable_feature_advanced_settings "Додаткові налаштування">
-<!ENTITY restrictable_feature_advanced_settings_description "Це включає: імпортування закладок, відновлення вкладок та автоматичні оновлення. Вимкніть для спрощеного налаштування, яке підходить для будь-якого члена сім'ї.">
+<!ENTITY restrictable_feature_advanced_settings_description "Це включає імпорт закладок, відновлення вкладок та автоматичні оновлення. Вимкніть для спрощених налаштувань, які підходять для будь-якого члена сім'ї.">
 <!ENTITY restrictable_feature_camera_microphone "Камера й мікрофон">
 <!ENTITY restrictable_feature_camera_microphone_description "Дозволяє членам сім'ї спілкуватись у режимі реального часу на веб-сайтах.">
 <!ENTITY restrictable_feature_data_choices "Вибір даних">
@@ -762,7 +762,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "Приносимо вибачення! &brandShortName; не може працювати на цьому пристрої (&formatS1;, &formatS2;). Будь ласка, завантажте правильну версію.">
+<!ENTITY unsupported_sdk_version "Приносимо вибачення! Ця версія &brandShortName; не буде працювати на цьому пристрої (&formatS1;, &formatS2;). Завантажте правильну версію.">
 
 <!ENTITY eol_notification_title "&brandShortName; більше не підтримує Android 3">
-<!ENTITY eol_notification_summary "Торкніться тут, щоб дізнатись більше">
+<!ENTITY eol_notification_summary "Торкніться, щоб дізнатись більше">
