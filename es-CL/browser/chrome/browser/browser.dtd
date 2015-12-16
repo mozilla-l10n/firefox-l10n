@@ -20,9 +20,6 @@
 <!ENTITY pinTab.accesskey "P">
 <!ENTITY unpinTab.label "Despegar pestaña">
 <!ENTITY unpinTab.accesskey "b">
-<!ENTITY moveToGroup.label "Mover a grupo">
-<!ENTITY moveToGroup.accesskey "M">
-<!ENTITY moveToNewGroup.label "Nuevo grupo">
 <!ENTITY moveToNewWindow.label "Mover a nueva ventana">
 <!ENTITY moveToNewWindow.accesskey "v">
 <!ENTITY bookmarkAllTabs.label "Marcar todas las pestañas…">
@@ -162,7 +159,6 @@
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY homeButton.label "Inicio">
-<!ENTITY tabGroupsButton.label "Grupos de pestañas">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Marcadores">
@@ -281,8 +277,6 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewTabGroups.label "Grupos de pestañas">
-<!ENTITY viewTabGroups.accesskey "G">
 <!ENTITY viewToolbarsMenu.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenu.accesskey "t">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
@@ -306,6 +300,14 @@
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral de historial">
 <!ENTITY appMenuHelp.tooltip "Abrir menú de Ayuda">
+<!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
+<!ENTITY appMenuRemoteTabs.fetching.label "Obteniendo pestañas sincronizadas…">
+<!ENTITY appMenuRemoteTabs.notabs.label "No hay pestañas abiertas">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Active la sincronización de pestañas para ver una lista de las estañas de sus otros dispositivos.">
+<!ENTITY appMenuRemoteTabs.noclients.label "Conéctese a Firefox desde sus otros dispositivos para ver sus pestañas en ellos.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Conéctese para ver una lista de pestañas de sus otros dispositivos.">
+<!ENTITY appMenuRemoteTabs.signin.label "Conectarse para sincronizar">
 <!ENTITY customizeMenu.addToToolbar.label "Añadir a barra">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Añadir al menú">
@@ -350,7 +352,6 @@
 <!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "Ajustar como motor de búsqueda predeterminado">
 <!ENTITY searchSetAsDefault.accesskey "D">
-<!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Abrir enlace en nueva pestaña">
 <!ENTITY openLinkCmdInTab.accesskey "t">
 <!ENTITY openLinkCmd.label "Abrir enlace en nueva ventana">
@@ -562,7 +563,7 @@
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No ha dado permisos especiales a este sitio.">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
-<!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
+<!ENTITY syncTabsMenu3.label     "Pestañas sincronizadas">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label             "Conectarse a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
