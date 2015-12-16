@@ -157,7 +157,7 @@ functionality specific to firefox. -->
 
 <!ENTITY advanced.label "Avansæ">
 <!ENTITY errorReporting.automatic2 "Segnala eroî comme sto chi pe agiutâ Mozilla a identificâ e blocâ sciti danozi">
-forbiddenBlocked.title "Scito no consentio">
+<!ENTITY forbiddenBlocked.title "Scito no consentio">
 <!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; o l'à blocou o caregamento da pagina in baze a-a pròpia configuraçion.</p>">
 <!ENTITY returnToPreviousPage.label "Vanni inderê">
 <!ENTITY sslv3Used.longDesc2 "Informaçion avansæ: SSL_ERROR_UNSUPPORTED_VERSION">
