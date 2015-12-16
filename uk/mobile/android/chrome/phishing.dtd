@@ -23,4 +23,4 @@
 
 <!ENTITY safeb.blocked.forbiddenPage.title "Заборонений сайт">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Ця веб-сторінка <span id='forbidden_sitename'/> була заблокована на основі вашої конфігурації веб-переглядача.">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Ця веб-сторінка <span id='forbidden_sitename'/> була заблокована згідно з вашою конфігурацією браузера.">
