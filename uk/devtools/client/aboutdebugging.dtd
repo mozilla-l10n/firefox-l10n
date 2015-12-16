@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Додатки">
 <!ENTITY aboutDebugging.addonDebugging.label       "Увімкнути зневадження додатків">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Увімкнення цієї функції дозволить вам зневаджувати додатки й інші різноманітні частини chrome браузера ">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Завантажити тимчасовий додаток">
 <!ENTITY aboutDebugging.workers                    "Workers">
