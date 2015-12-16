@@ -4,8 +4,11 @@
 
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
-<!ENTITY loadError.label "Problema al cargar la página">
-<!ENTITY retry.label "Intente nuevamente">
+<!ENTITY loadError.label "Problemas al cargar la página">
+<!ENTITY retry.label "Volver a intentar">
+<!ENTITY returnToPreviousPage.label "Retroceder">
+<!ENTITY advanced.label "Avanzado">
+
 <!ENTITY connectionFailure.title "Imposible conectarse">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
@@ -145,9 +148,7 @@
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sáquenme de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
 
-<!ENTITY errorReporting.title "Reportar este error">
-<!ENTITY errorReporting.longDesc "Reportar la dirección y la información del certificado para <span id='hostname'></span> nos ayuda a identificar y bloquear sitios maliciosos. ¡Gracias por ayudar a crear una web más segura!">
-<!ENTITY errorReporting.automatic "Reportar errores automáticamente en el futuro">
+<!ENTITY errorReporting.automatic2 "Reporte errores como este para ayudar a Mozilla a identificar y bloquear sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Aprender más…">
 <!ENTITY errorReporting.sending "Enviando reporte">
 <!ENTITY errorReporting.sent "Reporte enviado">
@@ -158,14 +159,12 @@
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte a los dueños del sitio para informarles del problema.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "No se puede conectar de forma segura">
-<!ENTITY sslv3Used.longDesc "Información avanzada: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "Aprender más…">
+<!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "Su conexión no es segura">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
-<!ENTITY weakCryptoUsed.longDesc "Info avanzada: ssl_error_no_cypher_overlap">
-<!ENTITY weakCryptoUsed.learnMore "Aprender más…">
+<!ENTITY weakCryptoUsed.longDesc2 "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Avanzado">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnología de seguridad que está obsoleta y vulnerable a ataques. Un atacante puede fácilmente revelar información que se pensaba estaba segura.">
 <!ENTITY weakCryptoAdvanced.override "(Inseguro) Intentar cargar <span class='hostname'></span> usando seguridad obsoleta">
