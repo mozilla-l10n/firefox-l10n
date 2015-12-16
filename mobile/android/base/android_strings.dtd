@@ -102,6 +102,7 @@
 <!ENTITY settings "Configurações">
 <!ENTITY settings_title "Configurações">
 <!ENTITY pref_category_general "Geral">
+<!ENTITY pref_category_general_summary2 "Inicio, idioma, barra de URL">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
