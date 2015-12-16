@@ -9,8 +9,6 @@
 <!ENTITY usingSubscription.accesskey "V">
 <!ENTITY dualUseFolders.label "Serveren understøtter mapper med undermapper og meddelelser">
 <!ENTITY dualUseFolders.accesskey "u">
-<!ENTITY useIdle.label "Brug kommandoen IDLE, hvis serveren understøtter den">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Maksimalt antal serverforbindelser der tilsluttes">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!ENTITY namespaceDesc.label "Disse egenskaber angiver navneområder for din IMAP-server">
@@ -22,9 +20,9 @@
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Tillad serveren at se bort fra disse navneområder">
 <!ENTITY overrideNamespaces.accesskey "n">
-<!ENTITY pop3Desc.label "Når der hentes POP3-meddelelser fra denne server, så benyt følgende mapper:">
-<!ENTITY accountDirectory.label "Indbakke for denne servers konto">
-<!ENTITY accountDirectory.accesskey "I">
+<!ENTITY pop3DeferringDesc.label "Når der hentes mails fra denne kontos server, så benyt følgende mapper til nye meddelelser:" >
+<!ENTITY accountInbox.label "Indbakke for denne konto">
+<!ENTITY accountInbox.accesskey "I">
 <!ENTITY deferToServer.label "Indbakke for en anden konto">
 <!ENTITY deferToServer.accesskey "a">
 <!ENTITY deferGetNewMail.label "Medtag denne konto, når der hentes nye meddelelser">

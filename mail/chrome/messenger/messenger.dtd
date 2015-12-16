@@ -819,7 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (search.label.base):
+<!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box.  We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
@@ -828,7 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Søg… #1">
+<!ENTITY search.label.base1 "Søg #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -857,6 +857,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SendMessageTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Kopier mailadresse">
 <!ENTITY CopyEmailAddress.accesskey "o">
+<!ENTITY CopyNameAndEmailAddress.label "Kopier navn og mailadresse">
+<!ENTITY CopyNameAndEmailAddress.accesskey "p">
 <!ENTITY CopyNewsgroupName.label "Kopier nyhedsgruppens navn">
 <!ENTITY CopyNewsgroupName.accesskey "n">
 <!ENTITY CopyNewsgroupURL.label "Kopier nyhedsgruppens URL">
