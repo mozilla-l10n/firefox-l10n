@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection "  Algemene data">
 
 
@@ -35,7 +36,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Laat geskryf">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Stelselinligting">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramme deur byvoegings versamel">
 
@@ -47,3 +47,4 @@
 
 
 <!ENTITY aboutTelemetry.filterText "  Filtreer (stringe of /reg.uitdruk./)">
+
