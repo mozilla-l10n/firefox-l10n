@@ -149,7 +149,7 @@
 <!ENTITY pref_category_privacy_short "Приватність">
 <!ENTITY pref_category_privacy_summary3 "Стеження, куки, вибір даних">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Про &brandShortName;, ЧаП, зворотній зв'язок">
+<!ENTITY pref_category_vendor_summary2 "Про &brandShortName;, ЧаП, зворотній зв’язок">
 <!ENTITY pref_category_datareporting "Вибір даних">
 <!ENTITY pref_learn_more "Докладніше">
 <!ENTITY pref_category_installed_search_engines "Встановлені засоби пошуку">
@@ -532,10 +532,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint3 "ПІДКАЗКА: Додавайте статті до свого списку читання тривалим дотиком до піктограми &formatI;, коли вона з'являється в панелі адреси.">
+<!ENTITY home_reading_list_hint3 "ПІДКАЗКА: Додавайте статті до свого списку читання тривалим дотиком до піктограми &formatI;, коли вона з’являється в панелі адреси.">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "ПІДКАЗКА: Додавайте статті до свого списку читання тривалим дотиком до кнопки режиму читання, коли вона з'являється в панелі адреси.">
+<!ENTITY home_reading_list_hint_accessible2 "ПІДКАЗКА: Додавайте статті до свого списку читання тривалим дотиком до кнопки режиму читання, коли вона з’являється в панелі адреси.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -741,9 +741,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Стерти історію">
 <!ENTITY restrictable_feature_clear_history_description "Дозволяє членам родини видаляти інформацію про відвідані ними сайти та сторінки.">
 <!ENTITY restrictable_feature_advanced_settings "Додаткові налаштування">
-<!ENTITY restrictable_feature_advanced_settings_description "Це включає імпорт закладок, відновлення вкладок та автоматичні оновлення. Вимкніть для спрощених налаштувань, які підходять для будь-якого члена сім'ї.">
+<!ENTITY restrictable_feature_advanced_settings_description "Це включає імпорт закладок, відновлення вкладок та автоматичні оновлення. Вимкніть для спрощених налаштувань, які підходять для будь-кого з членів сім’ї.">
 <!ENTITY restrictable_feature_camera_microphone "Камера й мікрофон">
-<!ENTITY restrictable_feature_camera_microphone_description "Дозволяє членам сім'ї спілкуватись у режимі реального часу на веб-сайтах.">
+<!ENTITY restrictable_feature_camera_microphone_description "Дозволяє членам сім’ї спілкуватись у режимі реального часу на веб-сайтах.">
 <!ENTITY restrictable_feature_data_choices "Вибір даних">
 <!ENTITY restrictable_feature_data_choices_description "Оберіть, надсилати чи ні інформацію про використання в Mozilla, щоб допомогти зробити Firefox кращим.">
 
