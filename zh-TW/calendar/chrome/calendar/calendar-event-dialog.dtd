@@ -138,6 +138,9 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "編寫電子郵件給未確定的與會者…">
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
+<!ENTITY event.remove.attendees.label                     "移除所有參與者…">
+<!ENTITY event.remove.attendees.accesskey                 "q">
+<!ENTITY event.remove.attendee.label                      "移除參與者">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "儲存並關閉">
@@ -348,6 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "群組">
 <!ENTITY event.attendee.usertype.resource       "資源">
 <!ENTITY event.attendee.usertype.room           "空間">
+<!ENTITY event.attendee.usertype.unknown        "未知">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "請指定時區">
