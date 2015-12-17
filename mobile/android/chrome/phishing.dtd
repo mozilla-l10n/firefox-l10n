@@ -20,3 +20,7 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Webstedet <span id='unwanted_sitename'/> er blevet anmeldt for at indeholde uønskede programmer og er blevet blokeret i henhold til dine sikkerhedsindstillinger.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Websteder med uønskede programmer prøver at lokke dig til at installere programmer, der kan påvirke dit system på uventede måder.">
+
+<!ENTITY safeb.blocked.forbiddenPage.title "Blokeret websted">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Websiden på <span id='forbidden_sitename'/> er blevet blokeret henhold til din browsers indstillinger.">
