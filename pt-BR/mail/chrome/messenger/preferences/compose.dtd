@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "u">
 <!ENTITY restoreHTMLDefaults.label            "Restaurar o padrão">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Ao usar o formato de parágrafo, a tecla enter cria um novo parágrafo">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY spellCheck.label                     "Verificar ortografia antes de enviar">
 <!ENTITY spellCheck.accesskey                 "e">
