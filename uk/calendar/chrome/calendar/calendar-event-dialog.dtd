@@ -138,6 +138,9 @@
 <!ENTITY event.email.attendees.accesskey                  "С">
 <!ENTITY event.email.tentative.attendees.label            "Створити повідомлення для учасників, які ще не визначились…">
 <!ENTITY event.email.tentative.attendees.accesskey        "о">
+<!ENTITY event.remove.attendees.label                     "Прибрати всіх учасників...">
+<!ENTITY event.remove.attendees.accesskey                 "и">
+<!ENTITY event.remove.attendee.label                      "Прибрати учасника">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Зберегти та закрити">
@@ -348,6 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "Група">
 <!ENTITY event.attendee.usertype.resource       "Ресурс">
 <!ENTITY event.attendee.usertype.room           "Кімната">
+<!ENTITY event.attendee.usertype.unknown        "Невідомо">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Зазначте часовий пояс">
