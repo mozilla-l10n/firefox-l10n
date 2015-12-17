@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "x">
 <!ENTITY dualUseFolders.label "O servidor suporta pastas que contêm subpastas e mensagens">
 <!ENTITY dualUseFolders.accesskey "s">
-<!ENTITY useIdle.label "Usar o comando IDLE caso o servidor suporte">
-<!ENTITY useIdle.accesskey "U">
 <!ENTITY maximumConnectionsNumber.label "Número máximo de conexões cache para servidores:">
 <!ENTITY maximumConnectionsNumber.accesskey "N">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,8 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Permitir que o servidor sobrescreva estes namespaces">
 <!ENTITY overrideNamespaces.accesskey "e">
-<!ENTITY pop3Desc.label "Ao receber mensagens POP deste servidor, salvá-las na:" >
-<!ENTITY accountDirectory.label "Pasta Entrada de uma conta própria">
-<!ENTITY accountDirectory.accesskey "P">
+<!ENTITY pop3DeferringDesc.label "Quando baixar mensagens desta conta, use a seguinte pasta para armazenar novas mensagens:" >
+<!ENTITY accountInbox.label "Caixa de entrada desta conta">
 <!ENTITY deferToServer.label "Pasta Entrada de outra conta:">
 <!ENTITY deferToServer.accesskey "E">
 <!ENTITY deferGetNewMail.label "Ao receber mensagens, incluir esta conta">

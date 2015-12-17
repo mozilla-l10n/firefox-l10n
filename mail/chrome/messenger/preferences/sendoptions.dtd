@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Formato de envio">
 <!ENTITY sendMail.title               "Mensagens com formatação">
+<!ENTITY autoDowngrade.label          "Enviar mensagens como texto sem formatação, se possível">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Ao enviar mensagens com formatação (HTML) e um destinatário não estiver definido para receber nesse formato:">
 <!ENTITY askMe.label                  "Perguntar qual é o formato desejado">
 <!ENTITY askMe.accesskey              "P">

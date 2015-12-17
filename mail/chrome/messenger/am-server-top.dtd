@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Verificar novas mensagens a cada">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutos">
+<!ENTITY useIdleNotifications.label "Permitir notificações imediatas do servidor quando novas mensagens chegarem">
+<!ENTITY useIdleNotifications.accesskey "P">
 <!ENTITY connectionSecurity.label "Segurança da conexão:">
 <!ENTITY connectionSecurity.accesskey "d">
 <!ENTITY connectionSecurityType-0.label "Nenhuma">

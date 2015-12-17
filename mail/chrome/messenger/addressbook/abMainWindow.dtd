@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Exibir">
 <!ENTITY viewMenu.accesskey                             "x">
 <!ENTITY viewToolbarsMenu.label                         "Barras de ferramentas">
-<!ENTITY viewToolbarsMenu.accesskey                     "B"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "B">
 <!ENTITY menubarCmd.label                               "Barra de menus">
 <!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Padrão">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Painel do contato">
 <!ENTITY showContactPane2.accesskey                     "a">
 <!ENTITY menu_ShowNameAs.label                          "Exibir nome como">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Primeiro Último">
-<!ENTITY firstLastCmd2.accesskey                        "P"> 
+<!ENTITY firstLastCmd2.accesskey                        "P">
 <!ENTITY lastFirstCmd.label                             "Último, Primeiro">
 <!ENTITY lastFirstCmd.accesskey                         "r">
 <!ENTITY displayNameCmd.label                           "Apresentar como">
@@ -128,7 +128,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.label                       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey                   "P">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Novo contato">
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Nova lista">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "N">
 <!ENTITY newIM.label                                    "Msg instantânea">
 <!ENTITY newIM.accesskey                                "M">
+<!ENTITY printButton.label                              "Imprimir…">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "Excluir">
 <!ENTITY deleteButton2.accesskey                        "x">
 
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Editar o item selecionado">
 <!ENTITY newmsgButton.tooltip                           "Nova mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de bate-papo">
-<!ENTITY deleteButton2.tooltip                           "Excluir o item selecionado">
+<!ENTITY deleteButton2.tooltip                          "Excluir o item selecionado">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Catálogos de endereços">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Exibir um mapa deste endereço web">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "Janela">
-<!ENTITY minimizeWindow.label "Minimizar">
-<!ENTITY minimizeWindow.key "M">
-<!ENTITY bringAllToFront.label "Trazer todas para frente">
-<!ENTITY zoomWindow.label "Ampliar/Reduzir">
+<!ENTITY windowMenu.label                               "Janela">
+<!ENTITY minimizeWindow.label                           "Minimizar">
+<!ENTITY minimizeWindow.key                             "M">
+<!ENTITY bringAllToFront.label                          "Trazer todas para frente">
+<!ENTITY zoomWindow.label                               "Ampliar/Reduzir">
