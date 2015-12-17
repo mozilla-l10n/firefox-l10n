@@ -447,6 +447,8 @@
 <!ENTITY restrictable_feature_camera_microphone_description "Permetti ai membri della famiglia di utilizzare strumenti di comunicazione in tempo reale sui siti web.">
 <!ENTITY restrictable_feature_data_choices "Condivisione dati">
 <!ENTITY restrictable_feature_data_choices_description "Scegli se inviare informazioni a Mozilla per contribuire al miglioramento di Firefox.">
+<!ENTITY restrictable_feature_block_list "Blocco contenuti">
+<!ENTITY restrictable_feature_block_list_description "Blocca siti web che includono contenuti sensibili.">
 <!ENTITY bookmarks_about_browser "Firefox: informazioni sul browser">
 <!ENTITY bookmarks_addons "Firefox: personalizza con i componenti aggiuntivi">
 <!ENTITY bookmarks_support "Firefox: supporto">
