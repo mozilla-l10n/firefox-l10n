@@ -163,7 +163,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "Tip: Du kan tilføje et websted til din liste over søgetjenester ved at trykke og holde på dets søgefelt og så trykke på ikonet &formatI;.">
-<!ENTITY pref_category_advanced "Advanceret">
+<!ENTITY pref_category_advanced "Avanceret">
 <!ENTITY pref_category_advanced_summary2 "Gendan faneblade, plugins, udviklerværktøjer">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
