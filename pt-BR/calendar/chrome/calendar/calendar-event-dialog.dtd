@@ -138,6 +138,9 @@
 <!ENTITY event.email.attendees.accesskey                  "m">
 <!ENTITY event.email.tentative.attendees.label            "Criar mensagem aos participantes indecisos…">
 <!ENTITY event.email.tentative.attendees.accesskey        "i">
+<!ENTITY event.remove.attendees.label                     "Remover todos os participantes...">
+<!ENTITY event.remove.attendees.accesskey                 "e">
+<!ENTITY event.remove.attendee.label                      "Remover participante">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Salvar e fechar">
@@ -348,6 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "Grupo">
 <!ENTITY event.attendee.usertype.resource       "Recurso">
 <!ENTITY event.attendee.usertype.room           "Sala">
+<!ENTITY event.attendee.usertype.unknown        "Desconhecido">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Favor especificar o fuso horário">
