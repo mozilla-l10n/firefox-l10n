@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "檢視">
 <!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "工具列">
-<!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "T">
 <!ENTITY menubarCmd.label                               "選單列">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "通訊錄工具列">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "聯絡人窗格">
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "姓名顯示方式">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "[名] [姓] (英式)">
-<!ENTITY firstLastCmd2.accesskey                        "f"> 
+<!ENTITY firstLastCmd2.accesskey                        "f">
 <!ENTITY lastFirstCmd.label                             "[姓][名] (中式)">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "顯示名稱">
@@ -128,7 +128,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.label                       "偏好設定">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "新連絡人">
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "新增群組名單">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "即時訊息">
 <!ENTITY newIM.accesskey                                "I">
+<!ENTITY printButton.label                              "列印…">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "刪除">
 <!ENTITY deleteButton2.accesskey                        "D">
 
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "編輯選取的項目">
 <!ENTITY newmsgButton.tooltip                           "寄送新郵件">
 <!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天">
-<!ENTITY deleteButton2.tooltip                           "刪除選取的項目">
+<!ENTITY deleteButton2.tooltip                          "刪除選取的項目">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "通訊錄">
@@ -212,12 +214,12 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "顯示此地址的網路地圖">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "視窗">
-<!ENTITY minimizeWindow.label "縮到最小">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "將此程式所有視窗移至最前">
-<!ENTITY zoomWindow.label "縮放">
+<!ENTITY windowMenu.label                               "視窗">
+<!ENTITY minimizeWindow.label                           "縮到最小">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "將此程式所有視窗移至最前">
+<!ENTITY zoomWindow.label                               "縮放">
 
