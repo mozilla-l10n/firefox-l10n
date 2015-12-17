@@ -138,7 +138,7 @@
 <!ENTITY event.email.attendees.accesskey "E">
 <!ENTITY event.email.tentative.attendees.label "Skriv en mail til ubeslutsomme deltagere…">
 <!ENTITY event.email.tentative.attendees.accesskey "u">
-<!ENTITY event.remove.attendees.label                     "Fjern alle attendees...">
+<!ENTITY event.remove.attendees.label                     "Fjern alle deltagere...">
 <!ENTITY event.remove.attendees.accesskey                 "F">
 <!ENTITY event.remove.attendee.label                      "Fjern deltager">
 
