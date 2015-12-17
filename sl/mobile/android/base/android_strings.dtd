@@ -163,6 +163,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da dolgo pritisnete na njeno polje za iskanje in tapnete ikono &formatI;.">
 <!ENTITY pref_category_advanced "Napredno">
+<!ENTITY pref_category_advanced_summary2 "Obnovi zavihke, vtičnike, orodja za razvijalce">
 <!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
 <!ENTITY pref_developer_remotedebugging_usb "Oddaljeno razhroščevanje preko USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Oddaljeno razhroščevanje preko Wi-Fi">
@@ -192,15 +193,18 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; Domov">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Po meri">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Vnesite naslov ali iskalni niz">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Splošno">
@@ -219,6 +223,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "Prikaži slike">
 <!ENTITY pref_tap_to_load_images_enabled "Vedno">
 <!ENTITY pref_tap_to_load_images_data "Le prek Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Blokirano">
 
 <!ENTITY pref_tracking_protection_title "Zaščita pred sledenjem">
 <!ENTITY pref_tracking_protection_summary3 "Omogočeno v zasebnem brskanju">
@@ -266,6 +271,7 @@
 <!ENTITY pref_plugins_tap_to_play "Predvajaj ob dotiku">
 <!ENTITY pref_plugins_disabled "Onemogočeno">
 <!ENTITY pref_text_size "Velikost besedila">
+<!ENTITY pref_restore_tabs "Obnovi zavihke">
 <!ENTITY pref_restore_always "Vedno obnovi">
 <!ENTITY pref_restore_quit "Ne obnavljaj po zapiranju &brandShortName;a">
 <!ENTITY pref_font_size_tiny "Drobno">
@@ -290,13 +296,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Vedno omogoči povečavo">
 <!ENTITY pref_zoom_force_enabled_summary "Vsili povečavo, tako da je mogoča na vsaki strani">
 <!ENTITY pref_voice_input "Glasovni vnos">
+<!ENTITY pref_voice_input_summary2 "Dovoli glasovne ukaze v URL vrstici">
 <!ENTITY pref_qrcode_enabled "Bralnik QR-kode">
+<!ENTITY pref_qrcode_enabled_summary2 "Dovoli skener QR kod v URL vrstici">
 
 <!ENTITY pref_use_master_password "Uporabi glavno geslo">
 <!ENTITY pref_sync2 "Prijava">
 <!ENTITY pref_sync_summary2 "Sinhronizirajte zavihke, zaznamke, prijave in zgodovino">
 <!ENTITY pref_search_suggestions "Prikaži predloge iskanja">
 <!ENTITY pref_history_search_suggestions "Prikaži zgodovino iskanj">
+<!ENTITY pref_import_options "Uvozi možnosti">
 <!ENTITY pref_import_android_summary "Uvozite zaznamke in zgodovino iz privzeto nameščenega brskalnika">
 <!ENTITY pref_private_data_history2 "Zgodovino brskanja">
 <!ENTITY pref_private_data_searchHistory "Zgodovina iskanja">
@@ -443,6 +452,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Celozaslonsko brskanje">
+<!ENTITY pref_scroll_title_bar_summary2 "Skrij &brandShortName; orodno vrstico, ko se premaknem po strani navzdol">
 
 <!ENTITY pref_tab_queue_title2 "Odpiranje več povezav">
 <!ENTITY pref_tab_queue_summary3 "Shranite jih, dokler naslednjič odprete &amp;brandShortName;">
@@ -521,8 +531,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint3 "Namig: Shranite predmete na vaš bralni seznam z dolgim pritiskom na &formatI; ikono, ko se pojavi v URL vrstici.">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible2 "Namig: Shranite predmete na vaš bralni seznam z dolgim pritiskom na gumb za bralni način, ko se pojavi v URL vrstici.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -700,6 +712,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Ta povezava se bo odprla v &formatS;. Ste prepričani da želite zapustiti zasebno brskanje?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -707,6 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Zapusti zasebno brskanje?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -725,7 +739,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Počisti zgodovino">
 <!ENTITY restrictable_feature_clear_history_description "Članom družine omogoča, da izbrišejo informacije o tem, katere spletne strani so obiskali.">
 <!ENTITY restrictable_feature_advanced_settings "Napredne nastavitve">
+<!ENTITY restrictable_feature_advanced_settings_description "To vsebuje uvažanje zaznamkov, onavljanje zavihkov in avtomatske posodobitve. Izključite za poenostavljene nastavitve primerne za vse družinske člane.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera in mikrofon">
+<!ENTITY restrictable_feature_camera_microphone_description "Dovoli družinskim članom, da uporabljajo komunikacijo v realnem času na spletnih straneh.">
 <!ENTITY restrictable_feature_data_choices "Podatkovne možnosti">
 <!ENTITY restrictable_feature_data_choices_description "Izberite, ali želite pomagati izboljšati Firefox s pošiljanjem podatkov o uporabi Mozilli.">
 
@@ -744,5 +760,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "Oprostite! Ta &brandShortName; ne bo delovala na vaši napravi (&formatS1;,&formatS2;). Namestite pravilno verzijo.">
 
 <!ENTITY eol_notification_title "&brandShortName; ne podpira več Androida 3">
+<!ENTITY eol_notification_summary "Klikni, da izveš več">
