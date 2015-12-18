@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping más antigup &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escrituras demoradas">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Información de sistema">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas recopilados por complementos">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Mostrar datos no procesados de cuelgues">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (cadenas o /regexp/)">
+
