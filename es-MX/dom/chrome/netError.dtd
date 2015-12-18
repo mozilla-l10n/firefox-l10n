@@ -83,6 +83,10 @@
 <!ENTITY phishingBlocked.longDesc "<p>Si introduces algún dato puedes ser víctima de suplantación de identidad entre otros fraudes.</p> 
 <p>La falsificación de Sitios web se usa en una técnica llamada Ataque de phishing, en la cual, se usan Sitios web y/o mensajes de correo electrónico que imitan a los originales en los que, tal vez, confías.</p>">
 
+
+
+
+
 <!ENTITY cspBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
 <!ENTITY cspBlocked.longDesc "<p>El navegador ha impedido cargar esta página de esta manera porque la página tiene una política de seguridad de contenidos que no lo permite.</p>">
 
@@ -91,10 +95,3 @@
 
 <!ENTITY remoteXUL.title "XUL Remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
