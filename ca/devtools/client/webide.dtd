@@ -75,6 +75,8 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "Els meus projectes">
 <!ENTITY projectPanel_runtimeApps "Aplicacions de l'entorn d'execució">
@@ -86,6 +88,7 @@
 <!ENTITY runtimePanel_installsimulator "Instal·la el simulador">
 <!ENTITY runtimePanel_noadbhelper "Instal·la l'ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "No veieu el vostre dispositiu?">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "vàlid">

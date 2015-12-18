@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Complements">
 <!ENTITY aboutDebugging.addonDebugging.label       "Habilita la depuració de complements">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "En activar aquesta opció, podreu depurar complements i altres parts del chrome del navegador">
+
 <!ENTITY aboutDebugging.workers                    "Processos de treball">
