@@ -8,16 +8,19 @@
 <!ENTITY safeb.palm.reportPage.label "ဤဝတ်ဆိုက်အားဘာကြောင့်ပိတ်ထားသနည်း။">
 
 <!ENTITY safeb.blocked.malwarePage.title "တိုက်ခိုက်သတင်ပေးခြင်းခံထားရသောစာမျက်နှာ!">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "ဤဝတ်ဆိုက်၏<span id='malware_sitename'/>သည်တိုက်ခိုက်နိုင်ဖွယ်ရှိသောစာမျက်နှာဟုသတင်းပေးခြင်းခံရပြီးသင်၏လုံခြုံရေးအပြင်အဆင်များအရပိတ်ပင်ထားခြင်းခံရသည်။">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>တိုက်ခိုက်သောဝတ်စာမျက်နှာများသည်ကွန်ပျူတာအတွင်းအချို့ပရိုဂရမ်များထည့်သွင်းပြီးသင့်အားအခြားတစ်နေရာမှတိုက်ခိုက်ရန်ကြိုးပမ်းနေသည်</p><p>အချို့တိုက်ခိုက်ဝတ်စာမျက်နှာများသည်နိုင်ငံတကာ အဆင့်အန္တရာယ်ရှိသောဆော့ဝဲများအားဖြန်ချီလျှက်ရှိသည်။</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "အတိုင်ကြားခံထားရသည့် မလိုအပ်သည့်ဆော့ဖ်ဝဲများ စာမျက်နှာ။">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/>ရှိ ဒီဝဘ်စာမျက်နှာသည် မလိုအပ်သော ဆော့ဖ်ဝဲများ ပါဝင်ကြောင်း အကြောင်းကြားခံထားရပြီး သင့်လုံခြုံရေး အပြင်အဆင်များပေါ်မူတည်ပြီး ထိုဆိုက်ကို တားဆီးထားသည်။">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>မလိုအပ်သည့် ဆော့ဖ်ဝဲ စာမျက်နှာများသည် သင့်စနစ်ကို ပုံမှန်မလည်ပတ်စေရန် ဆောင်ရွက်စေသည့် ဆော့ဖ်ဝဲများ တပ်ဆင်ရန် ကြိုးစားကြသည်။</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "သတိပေးခြင်းခံထားရသောဝတ်ဆိုက်။">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "ယခုဝတ်စာမျက်နှာ၏<span id='phishing_sitename'/>အားသတင်ပေးပို့ထားခြင်းအားတွေ့ရှိရပြီးသင်၏လုံခြုံရေးအပြင်အဆင်များအရပိတ်ပင်ထားခြင်းခံံသည်။">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>ဝတ်ဆိုက်နှောက်ယှက်သူများဟာသင့်အားယောင်ဝါးဝါးဖြစ်စေသောအချက်အလက်များဖြင့်သင့်ထဲမှာ ကိုယ်ရေးကိုယ်တာအချက်အလက်များနှင့်စီးပွားရေးဆိုင်ရာအချက်အလက်များခိုးယူရန်စီစဉ်ထားတတ်ပါသည်</p><p>ဝတ်စာမျက်နှာထဲသို့မည်သည့်အချက်အလက်များထည့်လိုက်စေကာမူအရာအားလုံးဆိုက်ဘာသူခိုးများလက်သို့ရောက်ရှိသွားမည်ဖြစ်သည်။</p>">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+

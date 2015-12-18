@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "ပင်းန် အဟောင်း &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "ရက်သတ္တပတ်">
 
 <!ENTITY aboutTelemetry.archivePingHeader "ပင်းန်">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "နောက်ကျသောရေးသားချက်">
 
-<!ENTITY aboutTelemetry.systemInfoSection "စနစ်၏အချက်အလက်များ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "   Histograms Collected by Add-ons">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Show raw data from hangs">
 
 <!ENTITY aboutTelemetry.filterText "  Filter (strings or /regexp/)">
+

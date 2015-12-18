@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Unpin Tab">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "အုပ်စုစီသို့ရွေ့မည်။">
-<!ENTITY  moveToGroup.accesskey              "အ">
-<!ENTITY  moveToNewGroup.label               "အုပ်စုတစ်ခုပြုလုပ်မည်။">
 <!ENTITY  moveToNewWindow.label              "အသစ်ဖွင့်လှစ်ထားသောဝင်းဒိုးဆီသို့ရွေ့မည်။">
 <!ENTITY  moveToNewWindow.accesskey          "အ">
 <!ENTITY  bookmarkAllTabs.label              "(T) တပ်ဗ်အားလုံး စာအမှတ်ဖြစ်သုံးပါ...">
@@ -218,8 +215,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "အိမ်">
 
-<!ENTITY tabGroupsButton.label        "Strolladoù ivinelloù">
-
 <!ENTITY bookmarksButton.label          "မှတ်သားချက်များ">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -382,8 +377,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Vရှူမြင်ချက်"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "စာမျက်နှာအစုများ။">
-<!ENTITY viewTabGroups.accesskey        "စ">
 <!ENTITY viewToolbarsMenu.label       "(T)ခလုပ်ဘားများ"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "eဘေးတန်း">
@@ -411,6 +404,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "သုံးခဲ့တဲ့အတိုင်းပြန်ဖွင့်မယ်">
 <!ENTITY appMenuHistory.viewSidebar.label "အသုံးပြုမှတ်တမ်း ဘေးဘားအားသုံးမည်">
 <!ENTITY appMenuHelp.tooltip "အကူအညီမီနူးအားဖွင့်">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Aတူးဘားသို့ပေါင်းထည့်">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -504,8 +509,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "အဓိက ရှာဖွေရန် နေရာ အဖြစ် သတ်မှတ် ရန်။">
 <!ENTITY searchSetAsDefault.accesskey "D">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "အချိတ်အဆက်ကို Tစာအမှတ်သစ်မှာ ဖွင့်ပါ">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -775,9 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "မီးမြေခွေးရှိဝတ်စာမျက်နှာများ">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "အခြားပစ္စည်းများမှ Tab များ ">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 
@@ -918,15 +919,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "သင့် လတ်တလောမှတ်တမ်းကို ရှင်းလင်းထားသည်။">
 <!ENTITY panicButton.thankyou.msg2                "လုံခြုံစိတ်ချရသော ရှာဖွေကြည့်ရှုခြင်း။">
 <!ENTITY panicButton.thankyou.buttonlabel         "ကျေးဇူးတင်ပါသည်။">
-
-<!ENTITY processHang.terminateScript.label        "Script ကို Sရပ်ဆိုင်းပါ">
-<!ENTITY processHang.terminateScript.accessKey    "S">
-<!ENTITY processHang.debugScript.label            "Script Dပြဿနာကို ရှင်းပါ">
-<!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Pပလဂ်အင် ဆောင်ရွက်နေမှုကို ရပ်ဆိုင်းပါ">
-<!ENTITY processHang.terminatePlugin.accessKey    "P">
-<!ENTITY processHang.terminateProcess.label       "ဝဘ်လုပ်ငန်းစဉ်ကို Kရပ်ဆိုင်းပါ">
-<!ENTITY processHang.terminateProcess.accessKey   "K">
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM အကြောင်း ပိုမိုလေ့လာပါ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">

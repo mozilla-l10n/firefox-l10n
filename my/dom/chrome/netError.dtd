@@ -83,6 +83,10 @@
 <!ENTITY phishingBlocked.longDesc "<p>ဒီစာမျက်နှာပေါ်မှာ ကိုယ်ရေး အချက်အလက် တခုခု ရေးထည့်လိုက်ခြင်းကြောင့် တူညီတဲ့ ခိုးယူမှု (သို့) အခြား လိမ်လည်မှု ကို ဖြစ်စေနိုင်တယ်။</p> 
 <p>ဒီပုံစံ ကွန်ရက် လိမ်လည်မှုများဟာ လိမ်လည်တိုက်ခိုက်မှုလို့ ခေါ်တဲ့ ရိုက်စားမှုများမှာ အသုံးပြုကြတယ်၊ အဲဒီမှာ ကွန်ရက် စာမျက်နှာတုများနဲ့ အီးမေးလ်များကို သင်စိတ်ချမဲ့ အရင်းအမြစ်တွေ တုပပြီး သုံးစွဲကြတယ်။</p>">
 
+
+
+
+
 <!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
 <!ENTITY cspBlocked.longDesc "<p>လုံခြုံရေးမူဝါဒအရဤစာမျက်နှာအား ယခုကဲ့သို့သောနည်းလမ်းဖြင့်ဖွင့်လှစ်ခြင်းအားတားမြစ်ထားသည်</p>">
 
@@ -91,10 +95,3 @@
 
 <!ENTITY remoteXUL.title "အားဖယ်ပါ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;

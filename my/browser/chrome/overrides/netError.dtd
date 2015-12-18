@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "စာမျက်နှာ ဖွင့်လှစ်မှု အမှား">
 <!ENTITY retry.label "ထပ်ကြိုးစားပါ">
+
+
 <!-- Specific error messages -->
 
 
@@ -139,6 +141,8 @@ installed.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Entering any personal information on this page may result in identity theft or other fraud.</p> 
 <p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
 
@@ -160,9 +164,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY errorReporting.title "ဒီ အမှားကို သတင်းပို့ရန်">
-<!ENTITY errorReporting.longDesc "လိပ်စာနှင့် အထောက်အထား အချက်အလက်ကို <span id='hostname'></span> အတွက် အသိပေးခြင်းသည် မလိုတမာဆိုက်များကို ရှာဖွေဖော်ထုတ်ခြင်းနှင့် တားဆီးရာတွင် ကျွန်တော်တို့ကို ကူညီပါသည်။. ပိုမိုလုံခြုံသော ဝဘ်တည်ဆောက်ရာတွင် ကူညီသည့်အတွက် ကျေးဇူးတင်ပါသည်။!">
-<!ENTITY errorReporting.automatic "နောင်တွင် အမှားများကို အလိုအလျောက် သတင်းပို့ပါ">
 <!ENTITY errorReporting.learnMore "ပိုမို လေ့လာပါ…">
 <!ENTITY errorReporting.sending "အစီရင်ခံစာကို ပေးပို့နေသည်">
 <!ENTITY errorReporting.sent "အစီရင်ခံစာကို ပေးပို့ပြီးပြီ">
@@ -173,14 +174,11 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">
 
 <!ENTITY sslv3Used.title "လုံခြုံစိတ်ချစွာ မချိတ်ဆက်နိုင်ပါ">
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Advanced info: ssl_error_unsupported_version">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 
