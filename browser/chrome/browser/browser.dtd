@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "No fixis la pestanya">
 <!ENTITY  unpinTab.accesskey                 "f">
-<!ENTITY  moveToGroup.label                  "Mou al grup">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "Grup nou">
 <!ENTITY  moveToNewWindow.label              "Mou a una finestra nova">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Afegeix totes les pestanyes a les adreces d'interès…">
@@ -201,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Comprova si voleu desar la contrasenya">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Mostra el missatge d'instal·lació de l'aplicació">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Gestiona l'ús de connectors en aquesta pàgina">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "Canvia l'opció de si el lloc pot mostrar notificacions">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Gestiona la compartició de la càmera o del micròfon amb el lloc">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Esteu compartint la càmera o el micròfon amb el lloc">
@@ -222,8 +219,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Inici">
-
-<!ENTITY tabGroupsButton.label        "Grups de pestanyes">
 
 <!ENTITY bookmarksButton.label          "Adreces d'interès">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -387,8 +382,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Visualitza"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "Grups de pestanyes">
-<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Barres d'eines"> 
 <!ENTITY viewToolbarsMenu.accesskey     "a"> 
 <!ENTITY viewSidebarMenu.label "Barra lateral">
@@ -416,6 +409,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Restaura la sessió anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Mostra la barra lateral de l'historial">
 <!ENTITY appMenuHelp.tooltip "Obre el menú d'ajuda">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Afegeix a la barra d'eines">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -509,8 +514,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "t">
 <!ENTITY searchSetAsDefault.label     "Defineix com a motor de cerca per defecte">
 <!ENTITY searchSetAsDefault.accesskey "D">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Obre l'enllaç en una pestanya nova">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
@@ -780,9 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Pestanyes del navegador">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Pestanyes d'altres dispositius">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -923,15 +924,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "S'ha netejat el vostre historial recent.">
 <!ENTITY panicButton.thankyou.msg2                "Navegueu amb seguretat!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Gràcies!">
-
-<!ENTITY processHang.terminateScript.label        "Atura l'script">
-<!ENTITY processHang.terminateScript.accessKey    "A">
-<!ENTITY processHang.debugScript.label            "Depura l'script">
-<!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Finalitza el connector">
-<!ENTITY processHang.terminatePlugin.accessKey    "z">
-<!ENTITY processHang.terminateProcess.label       "Finalitza el procés web">
-<!ENTITY processHang.terminateProcess.accessKey   "F">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Més informació sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">

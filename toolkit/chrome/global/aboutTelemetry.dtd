@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping més antic &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Setmana">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escriptures tardanes">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Informació del sistema">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogrames recollits pels complements">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Mostra les dades sense processar dels bloquejos">
 
 <!ENTITY aboutTelemetry.filterText "  Filtra (cadenes o /regexp/)">
+
