@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "सहयुक्तियाँ">
 <!ENTITY aboutDebugging.addonDebugging.label       "सहयुक्ति दोषसुधार सक्रिय करें">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "इस चालु करने से add-ons और क्रोम ब्राउज़र के अन्य विभिन्न भागों डीबग करने के लिए आपको अनुमति देगा">
+
 <!ENTITY aboutDebugging.workers                    "श्रमिकों">
