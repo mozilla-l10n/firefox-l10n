@@ -741,7 +741,9 @@ do Android">
 <!ENTITY restrictable_feature_clear_history "Limpar histórico">
 <!ENTITY restrictable_feature_clear_history_description "Permite que os membros da família apaguem informações sobre os sites e páginas visitados">
 <!ENTITY restrictable_feature_advanced_settings "Configurações avançadas">
+<!ENTITY restrictable_feature_advanced_settings_description "Isso inclui importação de favoritos, restaurando abas e atualizações automáticas. Desligue para definições simplificadas, adequadas para qualquer membro da família.">
 <!ENTITY restrictable_feature_camera_microphone "Câmera e microfone">
+<!ENTITY restrictable_feature_camera_microphone_description "Permite o engajamento de membros da família em comunicações em tempo real em páginas web.">
 <!ENTITY restrictable_feature_data_choices "Escolha de dados">
 <!ENTITY restrictable_feature_data_choices_description "Escolha se deseja ou não enviar informações de uso para ajudar a Mozilla a tornar o Firefox melhor.">
 
@@ -760,6 +762,7 @@ do Android">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "Desculpe! Este &brandShortName; não funciona neste dispositivo (&formatS1;, &formatS2;). Por favor baixe a versão correta.">
 
 <!ENTITY eol_notification_title "O &brandShortName; não oferece mais suporte ao Android 3">
 <!ENTITY eol_notification_summary "Toque para saber mais">
