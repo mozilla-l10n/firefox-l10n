@@ -75,6 +75,9 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "m">
 
 <!ENTITY projectPanel_myProjects "Moje Projekty">
 <!ENTITY projectPanel_runtimeApps "Nałoženja běžneho časa">
@@ -86,6 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "Simulator instalować">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper instalować">
 <!ENTITY runtimePanel_nousbdevice "Njemóžeće swój grat widźeć?">
+<!ENTITY runtimePanel_refreshDevices_label "Graty aktualizować">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "płaćiwy">
