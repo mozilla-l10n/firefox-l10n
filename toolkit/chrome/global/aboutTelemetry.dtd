@@ -26,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "پینگ قدیمی‌تر &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "هفته">
 
 <!ENTITY aboutTelemetry.archivePingHeader "پینگ">
@@ -52,7 +53,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  دیرنویس‌ها">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  اطلاعات سیستم">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  نمودار هیستوگرام جمع‌آوری شده توسط افزونه‌ها">
 
@@ -67,3 +67,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  نمایش اطلاعات خام درباره توقف‌ها">
 
 <!ENTITY aboutTelemetry.filterText "  فیلتر (رشته یا /regexp/)">
+

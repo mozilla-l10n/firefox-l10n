@@ -73,6 +73,8 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "پروژه های من">
 
@@ -84,6 +86,7 @@
 <!ENTITY runtimePanel_installsimulator "نصب شبیه‌ساز">
 <!ENTITY runtimePanel_noadbhelper "نصب راهنما ADB">
 <!ENTITY runtimePanel_nousbdevice "نمی‌توانید دستگاه های خود را مشاهده کنید؟">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "معتبر">
