@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Tillägg">
 <!ENTITY aboutDebugging.addonDebugging.label       "Aktivera avlusning av tillägg">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Med detta alternativ kan du avlusa tillägg och diverse andra delar av webbläsaren Chrome">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Ladda temporärt tillägg">
 <!ENTITY aboutDebugging.workers                    "Workers">
