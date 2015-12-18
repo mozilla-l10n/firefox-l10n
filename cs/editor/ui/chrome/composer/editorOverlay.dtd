@@ -82,20 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "Velikost">
 <!ENTITY fontSizeMenu.accesskey "l">
-<!ENTITY size-xx-smallCmd.label "Menší">
-<!ENTITY size-xx-smallCmd.accesskey "e">
-<!ENTITY size-x-smallCmd.label "Nejmenší">
-<!ENTITY size-x-smallCmd.accesskey "m">
+<!ENTITY size-tinyCmd.label "Drobné">
+<!ENTITY size-tinyCmd.accesskey "r">
 <!ENTITY size-smallCmd.label "Malé">
 <!ENTITY size-smallCmd.accesskey "l">
 <!ENTITY size-mediumCmd.label "Střední">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "Větší">
 <!ENTITY size-largeCmd.accesskey "t">
-<!ENTITY size-x-largeCmd.label "Velké">
-<!ENTITY size-x-largeCmd.accesskey "k">
-<!ENTITY size-xx-largeCmd.label "Největší">
-<!ENTITY size-xx-largeCmd.accesskey "e">
+<!ENTITY size-extraLargeCmd.label "Extra velké">
+<!ENTITY size-extraLargeCmd.accesskey "x">
+<!ENTITY size-hugeCmd.label "Obrovské">
+<!ENTITY size-hugeCmd.accesskey "b">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Styl">
@@ -147,7 +145,7 @@
 
 <!ENTITY paragraphMenu.label "Odstavec">
 <!ENTITY paragraphMenu.accesskey "o">
-<!ENTITY paragraphParagraphCmd.label "Odstavec">
+<!ENTITY paragraphParagraphCmd.label "Odstavec">  
 <!ENTITY paragraphParagraphCmd.accesskey "o">
 <!ENTITY heading1Cmd.label "Nadpis 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -270,7 +268,7 @@
 <!ENTITY tableDeleteMenu.label "Smazat">
 <!ENTITY tableDeleteMenu.accesskey "m">
 
-<!-- text for "Join Cells" is in editor.properties
+<!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Vybere barvu pro barevné zvýrazňování">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nastavit velikost písma">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Zmenší velikost písma">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Zvětší velikost písma">
 <!ENTITY boldToolbarCmd.tooltip "Tučné">
@@ -329,19 +328,19 @@
 <!ENTITY alignJustifyButton.tooltip "Zarovná text do bloku">
 
 <!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label "Vybrat">
-<!ENTITY structSelect.accesskey "V">
-<!ENTITY structRemoveTag.label "Odebrat značku">
-<!ENTITY structRemoveTag.accesskey "r">
-<!ENTITY structChangeTag.label "Změnit značku">
-<!ENTITY structChangeTag.accesskey "m">
+<!ENTITY structSelect.label         "Vybrat">
+<!ENTITY structSelect.accesskey     "V">
+<!ENTITY structRemoveTag.label      "Odebrat značku">
+<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "Změnit značku">
+<!ENTITY structChangeTag.accesskey  "m">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label "Vložit">
-<!ENTITY insertTOC.accesskey "l">
-<!ENTITY updateTOC.label "Aktualizovat">
-<!ENTITY updateTOC.accesskey "A">
-<!ENTITY removeTOC.label "Odebrat">
-<!ENTITY removeTOC.accesskey "O">
-<!ENTITY tocMenu.label "Obsah…">
-<!ENTITY tocMenu.accesskey "b">
+<!ENTITY insertTOC.label          "Vložit">
+<!ENTITY insertTOC.accesskey      "l">
+<!ENTITY updateTOC.label          "Aktualizovat">
+<!ENTITY updateTOC.accesskey      "A">
+<!ENTITY removeTOC.label          "Odebrat">
+<!ENTITY removeTOC.accesskey      "O">
+<!ENTITY tocMenu.label            "Obsah…">
+<!ENTITY tocMenu.accesskey        "b">
