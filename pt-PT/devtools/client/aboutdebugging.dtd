@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Extras">
 <!ENTITY aboutDebugging.addonDebugging.label       "Ativar depuração de extras">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Se ativar esta opção, poderá depurar extras e outras partes do seu navegador">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Carregar extra temporário">
 <!ENTITY aboutDebugging.workers                    "Workers">
