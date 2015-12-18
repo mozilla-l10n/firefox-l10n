@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Sayfa yükleme sorunu">
 <!ENTITY retry.label "Yeniden dene">
+
+
 <!-- Specific error messages -->
 
 
@@ -139,6 +141,8 @@ kontrol edin.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Bu sayfaya herhangi bir bilgi girmeniz, kimlik hırsızlığı veya başka bir dolandırıcılıkla sonuçlanabilir.</p> 
 <p>Bu tür web sahtecilikleri, yemleme denilen dümenlerde kullanılır. Yemleme saldırılarında, güvenebileceğiniz kaynakları taklit eden web sayfaları ve e-postalar kullanılır.</p>">
 
+
+
 <!ENTITY cspBlocked.title "İçerik güvenlik politikası uyarınca engellendi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
@@ -160,9 +164,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY errorReporting.title "Bu hatayı bildir">
-<!ENTITY errorReporting.longDesc "<span id='hostname'></span> için adres ve sertifika bilgilerini rapor etmeniz zararlı siteleri tanımlayıp engellememize yardımcı olacaktır. Daha güvenli bir web yaratmamıza yardım ettiğiniz için teşekkürler!">
-<!ENTITY errorReporting.automatic "İleride hataları otomatik olarak bildir">
 <!ENTITY errorReporting.learnMore "Daha fazla bilgi al…">
 <!ENTITY errorReporting.sending "Rapor gönderiliyor">
 <!ENTITY errorReporting.sent "Rapor gönderildi">
@@ -173,16 +174,12 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Onları bu sorundan haberdar etmek için lütfen site sahipleri ile iletişime geçin.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Güvenli bağlantı kurulamadı">
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "İleri düzey bilgi: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "Daha fazla bilgi al…">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
 <!ENTITY weakCryptoUsed.title "Bağlantınız güvenli değil">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-<!ENTITY weakCryptoUsed.longDesc "Gelişmiş bilgi: ssl_error_no_cypher_overlap">
-<!ENTITY weakCryptoUsed.learnMore "Daha fazla bilgi al…">
-<!ENTITY weakCryptoAdvanced.title "Gelişmiş">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> sitesi eskimiş ve saldırılara açık bir güvenlik teknolojisi kullanıyor. Saldırganlar, güvende olduğunu düşündüğünüz bilgileri kolayca ele geçirebilir.">
 <!ENTITY weakCryptoAdvanced.override "(Güvenli değil) Eskimiş güvenlik ayarlarıyla <span class='hostname'></span> adresini yeniden yüklemeyi dene">
