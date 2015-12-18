@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Gwirio os ydych am gadw eich cyfrinair">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Gweld y neges gosod ap">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Rheoli defnydd ategyn ar y dudalen hon">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Newid p'un ai rydych yn derbyn hysbysiadau o'r wefan">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Rydych yn rhannu eich camera a/neu eich meicroffon gyda'r wefan">
@@ -410,17 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Gweld Bar Ochr Hanes">
 <!ENTITY appMenuHelp.tooltip "Agor Dewislen Cymorth">
 
-
+<!ENTITY appMenuRemoteTabs.label "Tabiau wedi'u Cydweddu">
+<!ENTITY appMenuRemoteTabs.fetching.label "Estyn Tabiau wedi'u Cydweddu…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Dim tabiau agored">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Mewngofnodwch i Firefox o'ch dyfeisiau eraill i weld eu tabiau yma.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Dewisiadau Cydweddu">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
+<!ENTITY appMenuRemoteTabs.signin.label "Mewngofnodwch i Sync">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ychwanegu i'r Bar Offer">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Y">
@@ -784,6 +788,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "Tabiau porwyr">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "Tabiau wedi'u Cydweddu">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
