@@ -149,6 +149,7 @@
 <!ENTITY pref_category_privacy_short "Zasebnost">
 <!ENTITY pref_category_privacy_summary3 "Sledenje, piškotki, podatkovne možnosti">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "O &brandShortName;u, pogosta vprašanja, povratne informacije">
 <!ENTITY pref_category_datareporting "Podatkovne možnosti">
 <!ENTITY pref_learn_more "Več o tem">
 <!ENTITY pref_category_installed_search_engines "Nameščeni iskalniki">
