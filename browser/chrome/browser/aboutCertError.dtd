@@ -32,4 +32,4 @@ yn gallu golygu fod rhywun wedi ymyrryd â'ch cysylltiad.</b>">
 <!ENTITY certerror.expert.contentPara2 "Peidiwch ychwanegu eithriad heblaw
 eich bod yn gwybod fod rheswm da pam nad yw'r wefan yn defnyddio dynodiadau mae modd ymddiried ynddynt.">
 <!ENTITY certerror.addException.label "Ychwanegu Eithriad…">
-
+<!ENTITY certerror.copyToClipboard.label "Copïo testun i'r clipfwrdd">

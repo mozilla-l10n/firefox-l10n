@@ -6,5 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Ychwanegion">
 <!ENTITY aboutDebugging.addonDebugging.label       "Galluogi dadfygio ychwanegion">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Bydd cychwyn y dewis hwn yn caniatáu i chi dadfygio ychwanegion ac amryw ddarnau eraill o chrome y porwr">
-
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Llwytho Ychwanegyn Dros Dro">
 <!ENTITY aboutDebugging.workers                    "Gweithwyr">

@@ -51,8 +51,10 @@ their language.
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
-
-
-
-
+<!ENTITY tabgroupsmigration.tabtitle            "Mudo eich Grwpiau Tab eraill">
+<!ENTITY tabgroupsmigration.pagetitle2          "Rydym wedi tynnu Grwpiau Tabiau, ond wedi cadw eich tabiau">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "Dysgwch am ychwanegion Grwpiau Tabiau eraill.">
+<!ENTITY tabgroupsmigration.description2        "Mae &brandShortName; wedi gosod nod tudalen i'ch grwpiau i gyd felly nid ydych wedi colli dim.">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "Dangos Grwpiau Tabiau Nod Tudalen">
+<!ENTITY tabgroupsmigration.restoredescription  "Gallwch hefyd ddewis i adfer rhai neu'r holl grwpiau cefndir i ffenestri nawr:">
 

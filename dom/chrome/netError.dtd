@@ -83,9 +83,12 @@
 <!ENTITY phishingBlocked.longDesc "<p>Gall rannu gwybodaeth bersonol ar y dudalen arwain at ddwyn hunaniaeth neu dwyll arall.</p> 
 <p>Mae'r math yma o ffugiadau gwe yn cael eu defnyddio mewn twyll o'r enw ymosodiadau pysgota neu phishing attacks, lle mae gwefannau twyllodrus ac e-byst yn cael eu defnyddio i efelychu gwefannau rydych yn ymddiried ynddynt.</p>">
 
+<!ENTITY forbiddenBlocked.title "Gwefan Waharddedig">
+<!ENTITY forbiddenBlocked.longDesc "<p>Mae'r porwr wedi atal y dudalen hon rhag llwytho oherwydd mae wedi ei ffurfweddu i'w rwystro.</p>">
 
-
-
+<!ENTITY securityOverride.linkText "Neu mae modd ychwanegu eithriad…">
+<!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried yn llwyr ynddo neu os nad ydych wedi arfer a gweld negeseuon rhybudd ar gyfer y gweinydd hwn.</p> 
+<p>Os ydych yn parhau i fod yn awyddus i ychwanegu eithriad i'r wefan, gallwch wneud hynny yng ngosodiadau uwch amgryptio.</p>">
 
 <!ENTITY cspBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
 <!ENTITY cspBlocked.longDesc "<p>Mae'r porwr wedi atal y dudalen rhag cael ei llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
