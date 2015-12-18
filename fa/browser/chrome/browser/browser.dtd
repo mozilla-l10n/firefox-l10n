@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "کندن زبانه">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "انتقال به گروه">
-<!ENTITY  moveToGroup.accesskey              "ق">
-<!ENTITY  moveToNewGroup.label               "گروه جدید">
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
 <!ENTITY  moveToNewWindow.accesskey          "پ">
 <!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه زبانه‌ها…">
@@ -201,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "بررسی کنید که آیا می‌خواهید گذرواژه خود را ذخیره کنید">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "نمایش پیامِ نصبِ برنامه">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "مدیریت پلاگین‌های استفاده شده در این صفحه">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "تغییر اینکه آیا سایت می‌تواند اعلان‌هایی به شما نمایش دهد یا خیر">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "مدیریت اینکه آیا دوربین و/یا میکروفون خود را با این سایت به اشتراک می‌گذارید یا خیر">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "شما دوربین یا میکروفن خود را با این سایت به اشتراک گذاشته‌اید">
@@ -222,8 +219,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "خانه">
-
-<!ENTITY tabGroupsButton.label        "گروه‌بندی زبانه‌ها">
 
 <!ENTITY bookmarksButton.label          "نشانک‌ها">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -387,8 +382,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "نما"> 
 <!ENTITY viewMenu.accesskey       "ن"> 
-<!ENTITY viewTabGroups.label            "گروه‌بندی زبانه‌ها">
-<!ENTITY viewTabGroups.accesskey        "گ">
 <!ENTITY viewToolbarsMenu.label       "نوار ابزار"> 
 <!ENTITY viewToolbarsMenu.accesskey     "ن"> 
 <!ENTITY viewSidebarMenu.label "نوار کناری">
@@ -416,6 +409,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "بازآوری نشست قبلی">
 <!ENTITY appMenuHistory.viewSidebar.label "نمایش ستون تاریخچه">
 <!ENTITY appMenuHelp.tooltip "باز کردن منوراهنما">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "افزودن به نوار ابزار">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ا">
@@ -509,8 +514,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "ز">
 <!ENTITY searchSetAsDefault.label     "تنظیم به عنوان موتور جست‌وجو پیش‌فرض">
 <!ENTITY searchSetAsDefault.accesskey "پ">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "باز کردن پیوند در زبانهٔ جدید">
 <!ENTITY openLinkCmdInTab.accesskey   "ز">
@@ -780,9 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "زبانه‌های مرورگر">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "زبانه‌هایی از دستگاه‌های دیگر">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "هم‌گام‌سازی">
 
@@ -923,15 +924,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "تاریخچه‌ی اخیر شما پاک شد.">
 <!ENTITY panicButton.thankyou.msg2                "مرور امن!">
 <!ENTITY panicButton.thankyou.buttonlabel         "متشکریم!">
-
-<!ENTITY processHang.terminateScript.label        "توقف کدنوشته">
-<!ENTITY processHang.terminateScript.accessKey    "ت">
-<!ENTITY processHang.debugScript.label            "اشکال‌زدایی کدنوشته">
-<!ENTITY processHang.debugScript.accessKey        "ا">
-<!ENTITY processHang.terminatePlugin.label        "از‌کار‌انداختن پلاگین">
-<!ENTITY processHang.terminatePlugin.accessKey    "پ">
-<!ENTITY processHang.terminateProcess.label       "از‌کار‌انداختن پردازش وب">
-<!ENTITY processHang.terminateProcess.accessKey   "ا">
 
 <!ENTITY emeLearnMoreContextMenu.label            "درباره‌ی DRM بیشتر بدانید...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
