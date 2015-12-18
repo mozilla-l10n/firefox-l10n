@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Přidatki">
 <!ENTITY aboutDebugging.addonDebugging.label       "Pytanje za zmylkami za přidatki zmóžnić">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Hdyž to zapinaće, móžeće přidatki a wšelake druhe dźěle wobhladowakoweho powjercha za zmylkami přepytować">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Nachwilny přidatk začitać">
 <!ENTITY aboutDebugging.workers                    "Workers">
