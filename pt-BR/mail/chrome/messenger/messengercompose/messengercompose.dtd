@@ -306,3 +306,5 @@
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contatos">
 
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Personalizar endereço do remetente...">
