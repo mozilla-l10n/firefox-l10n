@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping antigo &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Fraco">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escritas atrasadas">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Informações do sistema">
+<!ENTITY aboutTelemetry.sessionInfoSection "  Informações da sessão">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas obtidos por extras">
 
@@ -69,3 +70,5 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Mostrar dados em bruto dos bloqueios">
 
 <!ENTITY aboutTelemetry.filterText "  Filtro (strings ou /regexp/)">
+
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  'Payload'">
