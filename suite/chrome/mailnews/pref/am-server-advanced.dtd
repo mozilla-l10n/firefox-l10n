@@ -9,8 +9,6 @@
 <!ENTITY usingSubscription.accesskey "о">
 <!ENTITY dualUseFolders.label "Сервер поддерживает папки, содержащие вложенные папки и сообщения">
 <!ENTITY dualUseFolders.accesskey "е">
-<!ENTITY useIdle.label "Использовать команду IDLE, если её поддерживает сервер">
-<!ENTITY useIdle.accesskey "п">
 <!ENTITY maximumConnectionsNumber.label "Максимальное число кэшируемых соединений">
 <!ENTITY maximumConnectionsNumber.accesskey "к">
 <!ENTITY namespaceDesc.label "Эти настройки определяют пространства имён на вашем IMAP-сервере">
