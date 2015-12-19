@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Vel standard">
 <!ENTITY smtpListSetDefault.accesskey "e">
 
+<!ENTITY serverDetails.label "Detaljar om den valde tenaren:">
 <!ENTITY serverDescription.label "Skildring: ">
 <!ENTITY serverName.label "Tenarnamn: ">
 <!ENTITY serverPort.label "Port: ">
