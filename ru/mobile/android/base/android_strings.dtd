@@ -447,6 +447,8 @@
 <!ENTITY restrictable_feature_camera_microphone_description "Позволяет членам семьи участвовать в общении на веб-сайтах в реальном времени.">
 <!ENTITY restrictable_feature_data_choices "Выбор данных">
 <!ENTITY restrictable_feature_data_choices_description "Выбирать, следует ли отправлять информацию об использовании в Mozilla, чтобы помочь сделать Firefox лучше.">
+<!ENTITY restrictable_feature_block_list "Список блокировки">
+<!ENTITY restrictable_feature_block_list_description "Блокировка веб-сайтов, содержащих деликатную информацию.">
 <!ENTITY bookmarks_about_browser "Firefox: О вашем браузере">
 <!ENTITY bookmarks_addons "Firefox: Настройка с помощью дополнений">
 <!ENTITY bookmarks_support "Firefox: Поддержка">

@@ -15,3 +15,13 @@
 <!ENTITY profileManagerText.label "&brandShortName; хранит информацию о ваших параметрах, настройках, закладках, сохранённых сообщениях и т.д. в вашем профиле.">
 <!ENTITY autoSelect.label "Запускать этот профиль по умолчанию">
 <!ENTITY autoSelect.accesskey "а">
+<!ENTITY start.label "Запуск &brandShortName;">
+<!ENTITY exit.label "Выход">
+<!ENTITY newButton.label "Создать…">
+<!ENTITY newButton.accesskey "з">
+<!ENTITY renameButton.label "Переименовать…">
+<!ENTITY renameButton.accesskey "м">
+<!ENTITY deleteButton.label "Удалить…">
+<!ENTITY deleteButton.accesskey "л">
+<!ENTITY offlineState.label "Работать автономно">
+<!ENTITY offlineState.accesskey "о">

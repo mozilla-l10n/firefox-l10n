@@ -182,8 +182,6 @@
 <!ENTITY addons.commandkey "A">
 <!ENTITY webapps.label "Приложения">
 <!ENTITY webapps.accesskey "и">
-<!ENTITY loopMenuItem.label "Сделать звонок…">
-<!ENTITY loopMenuItem.accesskey "е">
 <!ENTITY webDeveloperMenu.label "Веб-разработка">
 <!ENTITY webDeveloperMenu.accesskey "б">
 <!ENTITY devToolsCmd.keycode "VK_F12">
