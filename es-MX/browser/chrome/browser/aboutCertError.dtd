@@ -32,4 +32,4 @@ que alguien está manipulando tu conexión.</b>">
 <!ENTITY certerror.expert.contentPara2 "No agregues una excepción  
 a menos que sepas que hay una buena razón para que este sitio no utilice la identificación de confianza.">
 <!ENTITY certerror.addException.label "Agregar excepción…">
-
+<!ENTITY certerror.copyToClipboard.label "Copiar el texto al portapapeles">
