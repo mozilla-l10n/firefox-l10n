@@ -19,8 +19,10 @@
 
 <!ENTITY safeb.blocked.phishingPage.title "Suspeita de site falsificado!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "A página web em <span id='phishing_sitename'/> foi denunciada como uma página falsificada e foi bloqueada de acordo com as suas preferências de segurança.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "A página web em <span id='phishing_sitename'/> foi denunciada como uma página falsificada e bloqueada de acordo com as suas preferências de segurança.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>As páginas falsificadas são desenhadas para o levar a digitar informação pessoal e/ou de pagamento através da imitação de sites em que costuma confiar.</p><p>Digitar qualquer informação neste site poderá resultar em roubo de identidade ou outro tipo de fraude.</p>">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "Site proibido">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Esta página Web em <span id='forbidden_sitename'/> foi bloqueada, baseado na configuração do seu navegador.">
 

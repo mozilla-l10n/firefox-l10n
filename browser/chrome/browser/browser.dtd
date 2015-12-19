@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Selecione se pretende guardar a sua palavra-passe">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Ver a mensagem de instalação da aplicação">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Gerir utilização de plugins nesta página">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Alterar se deseja ou não receber notificações do site">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Gerir a partilha da sua câmara e/ou microfone com o site">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Está a partilhar a sua câmara e/ou microfone com este site">
@@ -417,9 +417,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Nenhum separador aberto">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ative a sincronização de separadores para ver uma lista de separadores a partir de outros dispositivos.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Inicie a sessão no Firefox a partir de outros dispositivos para ver aqui os seus separadores.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferências do Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicie sessão para ver a lista de separadores em outros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Iniciar sessão no Sync">
