@@ -48,3 +48,11 @@ their language.
 <!ENTITY welcomeback2.afterlink.pageInfo2   "‍">
 
 <!ENTITY welcomeback2.link.pageInfo2        "আপনি কি করতে পারবেন তা আরো বিস্তারিত জানুন">
+<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
+     the tab groups (panorama) migration page, not about:sessionrestore -->
+
+
+
+
+
+

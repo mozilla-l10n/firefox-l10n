@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "পুরাতন পিং &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "সপ্তাহ">
 
 <!ENTITY aboutTelemetry.archivePingHeader "পিং">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  বিলম্বিত লেখনী">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  সিস্টেম সংক্রান্ত তথ্য">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  অ্যাড-অন দ্বারা হিস্টোগ্রাম সংগৃহীত">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  হ্যাং থেকে অবিন্যস্ত ডাটা প্রদর্শন করুন">
 
 <!ENTITY aboutTelemetry.filterText "  ফিল্টার (স্ট্রিং অথবা /regexp/)">
+
