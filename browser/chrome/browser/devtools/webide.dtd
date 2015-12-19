@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "알아서 닫는 괄호 넣기">
 <!ENTITY prefs_options_keybindings "키 바인딩">
 <!ENTITY prefs_options_keybindings_default "기본">
+<!ENTITY prefs_options_autosavefiles "파일 자동 저장">
+<!ENTITY prefs_options_autosavefiles_tooltip "프로젝트 실행하기 전에 수정된 파일을 자동으로 저장">
 
 <!-- Permissions Table -->
 <!ENTITY permissionstable_title "권한 표">
