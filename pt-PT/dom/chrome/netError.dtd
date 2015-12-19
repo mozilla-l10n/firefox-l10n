@@ -83,9 +83,12 @@
 <!ENTITY phishingBlocked.longDesc "<p>Introduzir qualquer informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo de fraude.</p> 
 <p>Este tipo de falsificações web são usadas em esquemas conhecidos como ataques de engodo, em que páginas web fraudulentas e mensagens de correio eletrónico são utilizadas para imitar fontes em que confia.</p>">
 
+<!ENTITY forbiddenBlocked.title "Site proibido">
+<!ENTITY forbiddenBlocked.longDesc "<p>O navegador impediu o carregamento desta página porque está configurado para a bloquear.</p>">
 
-
-
+<!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção…">
+<!ENTITY securityOverride.warningContent "<p>Não deverá adicionar uma exceção se estiver a utilizar uma ligação à Internet em que não confia ou se não está habituado a ver um aviso para este servidor.</p> 
+<p>Se ainda desejar adicionar uma exceção para este site, pode efetuá-lo nas definições avançadas da encriptação.</p>">
 
 <!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspBlocked.longDesc "<p>O navegador impediu o carregamento desta página porque a página tem uma política de segurança de conteúdos que a desativa.</p>">
