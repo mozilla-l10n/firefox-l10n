@@ -756,4 +756,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "非常抱歉！此版本的 &brandShortName; 无法在这个设备（&formatS1;，&formatS2;）上使用。请下载正确的版本。">
 
+<!ENTITY eol_notification_title "&brandShortName; 不再支持 Android 3">
+<!ENTITY eol_notification_summary "点按以详细了解">
