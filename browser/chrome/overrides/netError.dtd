@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "S'ha produciu un problema en cargar a pachina">
 <!ENTITY retry.label "Torna-lo a probar">
+
+
 <!-- Specific error messages -->
 
 
@@ -139,6 +141,8 @@ asegure-se que o &brandShortName; tiene permiso ta accedir ta la web.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Escribir qualsiquier información personal en ista pachina podría resultar en una suplantación d'identidat u en belatro fraude.</p> 
 <p>Istas menas de webs fraudulentas las fan servir en ataques de phishing, en os quals pachinas y correus electronicos fraudulentos s'utilizan ta imitar fuents en as quals gosa confiar.</p>">
 
+
+
 <!ENTITY cspBlocked.title "S'ha blocau por a politica de seguranza de conteniu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha privau que a pachina se cargue d'ista traza porque tiene una politica de seguranza de conteniu que no lo permite.</p>">
 
@@ -160,9 +164,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY errorReporting.title "Reportar ista error">
-<!ENTITY errorReporting.longDesc "Reportar l'adreza y información de certificau de <span id='hostname'></span> nos aduyará a identificar y blocar os puestos maliciosos. Mersi por aduyar a fer una web mas segura!">
-<!ENTITY errorReporting.automatic "Reportar automaticament errors en o futuro">
 <!ENTITY errorReporting.learnMore "Saber-ne mas…">
 <!ENTITY errorReporting.sending "Se ye ninviando un reporte…">
 <!ENTITY errorReporting.sent "Ninviau o reporte">
@@ -173,14 +174,12 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "No ye posible connectar de traza segura">
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Info abanzada: ssl_error_unsupported_version">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Información abanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 

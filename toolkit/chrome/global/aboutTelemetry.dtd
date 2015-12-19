@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping mas viello &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escrituras rezagadas">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Información d'o sistema">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas replegaus por complementos">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Amostrar os datos zanceros d'as penchadas">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (cadenas u /regexp/)">
+
