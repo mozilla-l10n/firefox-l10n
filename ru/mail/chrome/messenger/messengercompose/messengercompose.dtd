@@ -266,3 +266,5 @@
 <!ENTITY spellAddDictionaries.label "Добавить словари…">
 <!ENTITY spellAddDictionaries.accesskey "Д">
 <!ENTITY addressesSidebarTitle.label "Контакты">
+<!ENTITY customizeFromAddress.label "Настроить адрес отправителя…">
+<!ENTITY customizeFromAddress.accesskey "и">
