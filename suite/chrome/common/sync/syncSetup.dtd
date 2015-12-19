@@ -46,9 +46,9 @@
 <!ENTITY addDevice.title.label "Добавление устройства">
 <!ENTITY addDevice.showMeHow.label "Показать мне как.">
 <!ENTITY addDevice.dontHaveDevice.label "У меня нет с собой устройства">
-<!ENTITY addDevice.setup.description.label "Для активации перейдите на другом вашем устройстве в настройки &syncBrand.shortName.label; и выберите «Добавить устройство».">
+<!ENTITY addDevice.setup.description.label "Для активации перейдите на другом вашем устройстве в настройки Синхронизации и выберите «Добавить устройство».">
 <!ENTITY addDevice.setup.enterCode.label "Затем введите этот код:">
-<!ENTITY addDevice.dialog.description.label "Чтобы активировать ваше новое устройство, перейдите на устройстве в настройки &syncBrand.shortName.label; и выберите «Соединиться».">
+<!ENTITY addDevice.dialog.description.label "Чтобы активировать ваше новое устройство, перейдите на устройстве в настройки Синхронизации и выберите «Соединиться».">
 <!ENTITY addDevice.dialog.enterCode.label "Введите предоставленный устройством код:">
 <!ENTITY addDevice.dialog.tryAgain.label "Пожалуйста, попробуйте снова.">
 <!ENTITY addDevice.dialog.successful.label "Устройство было успешно добавлено. Первоначальная синхронизация может занять несколько минут и завершится в фоновом режиме.">
@@ -75,9 +75,9 @@
 <!ENTITY engine.passwords.accesskey "р">
 <!ENTITY engine.prefs.label "Настройки">
 <!ENTITY engine.prefs.accesskey "с">
-<!ENTITY choice2.merge.main.label "Объединить данные этого компьютера с данными моего &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.main.label "Объединить данные этого компьютера с данными моей Синхронизации">
 <!ENTITY choice2.merge.recommended.label "(рекомендуется)">
-<!ENTITY choice2.client.main.label "Заменить все данные на этом компьютере данными моего &syncBrand.shortName.label;">
+<!ENTITY choice2.client.main.label "Заменить все данные на этом компьютере данными моей Синхронизации">
 <!ENTITY choice2.server.main.label "Заменить данные на всех остальных устройствах данными этого компьютера">
 <!ENTITY setup.optionsConfirmPage.title "Подтверждение">
 <!ENTITY confirm.merge.label "&syncBrand.fullName.label; теперь объединит все данные браузера на этом компьютере с данными вашей учётной записи Sync.">

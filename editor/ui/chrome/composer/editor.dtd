@@ -43,4 +43,4 @@
 <!ENTITY PreviewModeTab.label "Предварительный просмотр">
 <!ENTITY PreviewMode.label "Предварительный просмотр">
 <!ENTITY PreviewMode.accesskey "р">
-<!ENTITY PreviewMode.tooltip "Показывать страницу как в браузере">
+<!ENTITY PreviewMode.tooltip "Показывать страницу, как в браузере">
