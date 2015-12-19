@@ -29,7 +29,7 @@
 <!ENTITY cookies.tree.host.label "Веб-сайт">
 <!ENTITY cookies.tree.name.label "Имя куки">
 <!ENTITY cookies.tree.expires.label "Срок действия:">
-<!ENTITY cookies.infobox.label "Информация о выбранном куке">
+<!ENTITY cookies.infobox.label "Информация о выбранной куке">
 <!ENTITY cookies.info.name.label "Имя:">
 <!ENTITY cookies.info.value.label "Содержимое:">
 <!ENTITY cookies.info.host.label "Узел:">
@@ -55,7 +55,7 @@
 <!ENTITY perm.host.placeholder "Введите имя узла">
 <!ENTITY perm.button.add.label "Добавить">
 <!ENTITY perm.button.add.accesskey "б">
-<!ENTITY prefs.description "Настройки содержимого это способ, используемый &brandShortName;, для сохранения своих настроек, например масштаб, специфичный для веб-сайта.">
+<!ENTITY prefs.description "Настройки содержимого — это способ, используемый &brandShortName; для сохранения своих настроек, например масштаба, специфичного для веб-сайта.">
 <!ENTITY prefs.tree.host.label "Веб-сайт">
 <!ENTITY prefs.tree.name.label "Имя настройки">
 <!ENTITY prefs.tree.value.label "Значение">

@@ -121,7 +121,7 @@
 <!ENTITY tableOrCellColor.accesskey "ч">
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "Удалить якори с именами">
+<!ENTITY formatRemoveNamedAnchors.label "Удалить якоря с именами">
 <!ENTITY formatRemoveNamedAnchors.accesskey "д">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 <!ENTITY paragraphMenu.label "Абзац">

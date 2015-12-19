@@ -6,7 +6,7 @@
 <!ENTITY tabDisplay.label "Отображение вкладок">
 <!ENTITY autoHide.label "Скрывать панель вкладок, если открыта только одна вкладка">
 <!ENTITY autoHide.accesskey "к">
-<!ENTITY background.label "Переходить на новые вкладки открываемые из ссылок">
+<!ENTITY background.label "Переходить на новые вкладки, открываемые из ссылок">
 <!ENTITY background.accesskey "х">
 <!ENTITY warnOnClose.label "Предупреждать при закрытии окна с несколькими вкладками">
 <!ENTITY warnOnClose.accesskey "д">
