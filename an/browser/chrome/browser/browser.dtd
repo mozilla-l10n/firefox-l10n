@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "C">
 <!ENTITY  unpinTab.label                     "Desclavar a pestanya">
 <!ENTITY  unpinTab.accesskey                 "D">
-<!ENTITY  moveToGroup.label                  "Mover ta o grupo">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "Nuevo grupo">
 <!ENTITY  moveToNewWindow.label              "Mover ta una finestra nueva">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Anyader todas as pestanyas en marcapachinas…">
@@ -189,21 +186,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprentar">
 <!ENTITY printButton.tooltip          "Imprentar ista pachina">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Amostrar a información d'o puesto">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Amostrar una notificación">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Amostrar a solicitut d'ubicación">
+
+
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Chestiona la información d'inicio de sesión">
 
 
 
 
 
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Ye compartindo a suya camera u microfono con ista pachina">
 
-
-
-
-
-
-
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Ye compartindo o suyo microfono con ista pachina">
 
 
 
@@ -217,8 +216,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Inicio">
-
-<!ENTITY tabGroupsButton.label        "Grupos de pestanyas">
 
 <!ENTITY bookmarksButton.label          "Marcapachinas">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -382,8 +379,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Veyer"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "Grupos de pestanyas">
-<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Barras de ferramientas"> 
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Panel lateral">
@@ -411,6 +406,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Recuperar a sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Amostrar a barra lateral de l'historial">
 <!ENTITY appMenuHelp.tooltip "Ubrir o menú d'aduya">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Adhibir en a barra de ferramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -504,8 +511,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "t">
 <!ENTITY searchSetAsDefault.label     "Definir como o motor de busca por defecto">
 <!ENTITY searchSetAsDefault.accesskey "D">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Ubrir o vinclo en una pestanya nueva">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
@@ -775,9 +780,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Pestanyas d'o navegador">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
-<!ENTITY syncTabsMenu2.label     "Pestanyas dende atros dispositivos">
+<!ENTITY syncTabsMenu3.label     "Pestanyas sincronizadas">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -918,15 +923,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "O tuyo historial recient ye vuedau.">
 <!ENTITY panicButton.thankyou.msg2                "Navega seguro!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Gracias!">
-
-<!ENTITY processHang.terminateScript.label        "Aturar o script">
-<!ENTITY processHang.terminateScript.accessKey    "t">
-<!ENTITY processHang.debugScript.label            "Depurar o script">
-<!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Amortar o Plugin">
-<!ENTITY processHang.terminatePlugin.accessKey    "P">
-<!ENTITY processHang.terminateProcess.label       "Amortar o proceso web">
-<!ENTITY processHang.terminateProcess.accessKey   "A">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Amortar o proceso web">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "A">
