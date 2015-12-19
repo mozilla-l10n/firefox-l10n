@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Қосымшалар">
 <!ENTITY aboutDebugging.addonDebugging.label       "Қосымшаларды жөндеуді іске қосу">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Бұны іске қосу сізге қосымшалар және browser chrome басқа түрлі бөліктерін де жөндеуге мүмкіндік береді">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Уақытша қосымшаны жүктеу">
 <!ENTITY aboutDebugging.workers                    "Жұмыс үрдістері">
