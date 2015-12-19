@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE (identityDialog.style): This value should be roughly
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
-<!ENTITY identityDialog.style "width: 80ch;">
+<!ENTITY identityDialog.style "width: 74ch;">
 <!ENTITY identityTitle.label "Налаштування ідентифікатора">
 <!ENTITY identityListDesc.label "Налаштувати параметри для цього ідентифікатора:">
 
