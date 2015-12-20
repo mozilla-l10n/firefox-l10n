@@ -175,6 +175,10 @@ ser temporal y puede inentarlo nuevamente más tarde.</li>
 <p>Estos tipos de falsificaciones web son usados en estafas conocidas como ataques de <i>phishing</i>, en los que páginas web y correos electrónicos fraudulentos son usados para imitar fuentes en las que puede confiar.</p>
 ">
 
+<!ENTITY forbiddenBlocked.title "Sitio prohibido">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue porque la configuración la tiene bloqueada.</p>
+">
+
 <!ENTITY cspBlocked.title "Bloqueado por política de seguridad de contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 
