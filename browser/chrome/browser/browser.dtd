@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "بررسی کنید که آیا می‌خواهید گذرواژه خود را ذخیره کنید">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "نمایش پیامِ نصبِ برنامه">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "مدیریت پلاگین‌های استفاده شده در این صفحه">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "اینکه آیا می‌توانید از این سایت اعلان دریافت کنید یا خیر را تغییر دهید">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "مدیریت اینکه آیا دوربین و/یا میکروفون خود را با این سایت به اشتراک می‌گذارید یا خیر">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "شما دوربین یا میکروفن خود را با این سایت به اشتراک گذاشته‌اید">
@@ -341,10 +341,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY userContextBanking.accesskey     "ک">
 <!ENTITY userContextShopping.label        "خرید">
 <!ENTITY userContextShopping.accesskey    "خ">
-<!ENTITY newNavigatorCmd.label        "پنجره‌ی جدید‌">
+<!ENTITY newNavigatorCmd.label        "پنجره جدید‌">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "پ">
-<!ENTITY newPrivateWindow.label     "پنجره‌ی ناشناس جدید">
+<!ENTITY newPrivateWindow.label     "پنجره ناشناس جدید">
 <!ENTITY newPrivateWindow.accesskey "پ">
 <!ENTITY newNonRemoteWindow.label   "پنجره جدید Non-e10s">
 
@@ -410,17 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "نمایش ستون تاریخچه">
 <!ENTITY appMenuHelp.tooltip "باز کردن منوراهنما">
 
-
+<!ENTITY appMenuRemoteTabs.label "زبانه‌های همگام‌سازی شده">
+<!ENTITY appMenuRemoteTabs.fetching.label "در حال دریافت زبانه‌های همگام‌سازی شده…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "بدون زبانه باز">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "روشن کردن همگام‌سازی زبانه‌ها برای نمایش فهرستی از زبانه‌های باز در دستگاه‌های دیگر">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "در دستگاه‌های دیگر خود، وارد حساب فایرفاکس شوید تا زبانه‌های باز آنها را اینجا ببینید.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "ترجیحات همگام‌سازی">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "برای نمایش فهرست زبانه‌ها از دستگاه‌های دیگر وارد شوید.">
+<!ENTITY appMenuRemoteTabs.signin.label "برای همگام‌سازی وارد شوید">
 
 <!ENTITY customizeMenu.addToToolbar.label "افزودن به نوار ابزار">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ا">
@@ -784,6 +788,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "زبانه‌های مرورگر">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "زبانه‌های همگام‌سازی شده">
 
 <!ENTITY syncBrand.shortName.label    "هم‌گام‌سازی">
 

@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "اشکال در هنگام بارگیری">
 <!ENTITY retry.label "تلاش دوباره">
-
-
+<!ENTITY returnToPreviousPage.label "برو عقب">
+<!ENTITY advanced.label "پیشرفته">
 <!-- Specific error messages -->
 
 
@@ -141,7 +141,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>وارد کردن اطلاعات شخصی در این صقحه ممکن است به سرقت هویت شما یا تخلفات دیگری بیانجامد</p> 
 <p>این نوع جعل‌های وبی در برخی حقه‌ها به نام حملات ماهی‌گیری استفاده می‌شوند.  در این نوع حملات، از صفحات وب متخلف و پست الکترونیکی برای بازی کردن نقش منبعی که به آن اطمینان دارید استفاده می‌شود.</p>">
 
-
+<!ENTITY forbiddenBlocked.title "سایت ممنوع">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه بدلیل اینکه برای مسدود کردن آن پیکربندی شده است، جلوگیری کرد .</p>">
 
 <!ENTITY cspBlocked.title "بازداشته شده بنا بر سیاست امنیتی محتوا">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
@@ -164,6 +165,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "خطاهایی مانند این را گزارش کنید تا به موزیلا برای شناسایی و مسدود کردن سایت‌های مخرب کمک کنید.">
 <!ENTITY errorReporting.learnMore "اطلاعات بیشتر…">
 <!ENTITY errorReporting.sending "در حال ارسال گزارش">
 <!ENTITY errorReporting.sent "گزارش ارسال شد">
@@ -176,10 +178,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "قادر به برقراری اتصال امن نمیباشد">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "اطلاعات پیشرفته: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "اتصال شما امن نیست">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
+<!ENTITY weakCryptoUsed.longDesc2 "اطلاعات پیشرفته: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "پیشرفته">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> از تکنولوژی امنیتی منسوخ شده استفاده می‌کند که در برابر حمله‌ها آسیب‌پذیر است. یک مهاجم به راحتی می‌تواند اطلاعاتی که شما فکر می‌کنید امن هستند را افشا کند.">
 <!ENTITY weakCryptoAdvanced.override "(امن نیست) تلاش برای بارگذاری <span class='hostname'></span>با استفاده از امنیت منسوخ شده">
