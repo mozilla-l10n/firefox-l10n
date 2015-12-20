@@ -17,6 +17,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "أسبوع">
 
 <!ENTITY aboutTelemetry.archivePingHeader "طرْق">
@@ -42,7 +43,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  كتابات متأخرّة">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  معلومات النظام">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  رسومات بيانية جمعتها الإضافات">
 
@@ -57,3 +57,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  أظهر البيانات الخام من التعليق">
 
 <!ENTITY aboutTelemetry.filterText "  مرشح (نصوص أو /regexp/)">
+
