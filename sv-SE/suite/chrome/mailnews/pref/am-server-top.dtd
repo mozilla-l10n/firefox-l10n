@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Kontrollera var ">
 <!ENTITY biffStart.accesskey "r">
 <!ENTITY biffEnd.label "minut om det kommit nya meddelanden">
+<!ENTITY useIdleNotifications.label "Tillåt omedelbara servermeddelanden när nya meddelanden tas emot">
+<!ENTITY useIdleNotifications.accesskey "T">
 <!ENTITY connectionSecurity.label "Anslutningssäkerhet:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Ingen">

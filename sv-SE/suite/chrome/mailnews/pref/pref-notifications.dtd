@@ -21,6 +21,11 @@
 <!ENTITY showAlertSubject.accesskey       "t">
 <!ENTITY showAlertSender.label            "Visa avsändaren">
 <!ENTITY showAlertSender.accesskey        "n">
+<!ENTITY useSystemAlert.label             "Använd operativsystemets inbyggda aviseringar">
+<!ENTITY useSystemAlert.accesskey         "s">
+<!ENTITY useBuiltInAlert.label            "Använd &brandShortName;:s egna aviseringsfönster">
+<!ENTITY useBuiltInAlert.accesskey        "n">
+
 
 <!ENTITY showTrayIcon.label               "Visa en fältikon">
 <!ENTITY showTrayIcon.accesskey           "i">
