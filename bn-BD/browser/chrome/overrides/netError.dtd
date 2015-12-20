@@ -7,7 +7,7 @@
 
 <!ENTITY loadError.label "পৃষ্ঠা লোড করতে সমস্যা">
 <!ENTITY retry.label "পুনরায় চেষ্টা করুন">
-
+<!ENTITY returnToPreviousPage.label "পিছনে ফিরে যাও">
 
 <!-- Specific error messages -->
 
@@ -164,6 +164,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "মজিলাকে এই ধরনের প্রতিবেদন দিয়ে ক্ষরিকারক সাইট চিহ্নিত এবং অবরুদ্ধ করতে সাহায্য করুন।">
 <!ENTITY errorReporting.learnMore "আরও জানুন…">
 <!ENTITY errorReporting.sending "রিপোর্ট পাঠানো হচ্ছে">
 <!ENTITY errorReporting.sent "রিপোর্ট পাঠানো হয়েছে">
@@ -176,6 +177,7 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "সুরক্ষিতভাবে কানেক্ট করতে ব্যার্থ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "বিস্তারিত তথ্য: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "আপনার সংযোগ নিরাপদ নয়">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
