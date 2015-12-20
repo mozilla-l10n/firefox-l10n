@@ -5,11 +5,11 @@
 <!ENTITY pref.notifications.title         "通知">
 <!ENTITY notifications.caption            "通知">
 <!ENTITY newMessagesArrive.label          "当新消息到达时：">
+
 <!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
      showAlertFor.label is associated with the checkbox to show the alert,
      leading into a numerical field to enter a time in seconds, followed by
      showAlertTimeEnd.label which in en-US is the unit of the value -->
-
 
 <!ENTITY showAlertFor.label               "显示一条提醒：">
 <!ENTITY showAlertFor.accesskey           "S">
@@ -21,6 +21,10 @@
 <!ENTITY showAlertSubject.accesskey       "u">
 <!ENTITY showAlertSender.label            "显示发件人">
 <!ENTITY showAlertSender.accesskey        "n">
+<!ENTITY useSystemAlert.label             "使用操作系统的桌面通知">
+<!ENTITY useSystemAlert.accesskey         "d">
+<!ENTITY useBuiltInAlert.label            "使用 &brandShortName; 自己的通知窗口">
+<!ENTITY useBuiltInAlert.accesskey        "w">
 
 <!ENTITY showTrayIcon.label               "显示托盘图标">
 <!ENTITY showTrayIcon.accesskey           "t">
