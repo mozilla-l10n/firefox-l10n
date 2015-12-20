@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  ढिलो SQL विवरणहरू">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  ब्राउजर ह्याङ्ग हुन्छ">
@@ -36,7 +37,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  ढिलो लेखन">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  प्रणाली जानकारी">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  एड-अनहरूद्वारा हिस्टोग्रामहरू संकलन गरियो">
 
@@ -49,3 +49,4 @@
 
 
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिङहरू वा /regexp/)">
+

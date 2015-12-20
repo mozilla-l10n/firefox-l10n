@@ -66,6 +66,8 @@
 
 
 
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 
 <!ENTITY projectPanel_tabs "ट्याबहरू">
@@ -74,6 +76,7 @@
 
 <!ENTITY runtimePanel_other "अन्य">
 <!ENTITY runtimePanel_installsimulator "सीमुलेटर स्थापना गर्नुहोस्">
+
 
 
 <!-- Lense -->

@@ -5,7 +5,7 @@
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "तपाईँका एड-अनहरू जाँच्दै">
-
+<!ENTITY checking.progress.label     "&brandShortName; को यस संस्करणसंग मिल्दोजुल्दो एड-अनहरूको जाँच गरिँदै।">
 
 <!ENTITY select.heading              "तपाईँका एड-अनहरू छान्नुहोस्">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"

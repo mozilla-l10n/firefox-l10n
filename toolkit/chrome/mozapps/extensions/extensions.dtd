@@ -127,7 +127,8 @@
 <!ENTITY discover.description2                "एड-अनहरू तपाईंलाई अतिरिक्त कार्यक्षमता वा शैलीमा &brandShortName; 
  लाई व्यक्तिगत बनागने अनुप्रयोगहरू हुन्।  &brandShortName; लाई 
  आफ्नै बनाउन समय-बचत ट्याब, मौसम नोटिफायर, वा आवरण हाल्न प्रयास गर्नुहोस्।">
-
+<!ENTITY discover.footer                      "तपाईं इन्टरनेटमा जोडिएको बेला, यस पेनले 
+ तपाईंलाई प्रयास गर्नको लागि सर्वोत्तम र सबैभन्दा लोकप्रिय एड-अनहरू प्रदर्शन गर्नेछ।">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "संस्करण">
@@ -241,10 +242,11 @@
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "निम्न एड-अनहरू &brandShortName; मा प्रयोग गर्न प्रमाणित भएको छैन। तपाईँ सक्नुहुन्छ ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "प्रतिस्थापन खोज्नुहोस्">
-
-
+<!ENTITY disabledUnsigned.description.end " वा विकासकर्तालाई तिनीहरू प्रमाणित गर्न भन्नुहोस्।">
+<!ENTITY disabledUnsigned.learnMore "तपाईंलाई अनलाइनमा सुरक्षित राख्ने हाम्रो प्रयासमा बारे अधिक जान्नुहोस्।">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "आफ्नो एड-अनहरू प्रमाणित गर्न रुचि भएका विकासकर्ताहरू यो पढ्नु होला ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "म्यानुअल">
-
+<!ENTITY disabledUnsigned.devInfo.end "।">

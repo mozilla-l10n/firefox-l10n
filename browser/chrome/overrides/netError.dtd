@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "पृष्ठ लोड गर्न समस्या">
 <!ENTITY retry.label "पुनःप्रयास गर्नुहोस्">
+<!ENTITY returnToPreviousPage.label "पछाडि जानुहोस्">
+<!ENTITY advanced.label "उन्नत">
 <!-- Specific error messages -->
 
 
@@ -139,6 +141,9 @@
 <!ENTITY phishingBlocked.longDesc "<p>व्यक्तिगत जानकारी यो पृष्ठमा राख्नुको नतिजा पहिचानको चोरी वा अन्य छल-कपट हुन सक्छ।</p> 
 <p>यस प्रकारको वेब धोखेबाजी फिसिङ् जस्ता घोटालामा प्रयोग हुन्छ जुनमा नक्कली वेब पृष्ठ र इमेलहरू तपाईँले विश्वास गर्नसक्ने स्रोतहरूको नक्कल गर्नमा प्रयोग गरिन्छ।</p>">
 
+<!ENTITY forbiddenBlocked.title "निषेधित साइट">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; ले यो पृष्ठ लोड हुनबाट रोक्यो किनभने यो बन्देज गर्नको लागि कन्फिगर गरिएको थियो। </p>">
+
 <!ENTITY cspBlocked.title "सामग्री सुरक्षा नीति द्वारा अवरुद्ध">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ले यो पृष्ठ लोड हुनबाट यसप्रकारले रोक्यो किनभने यो पृष्ठमा सामग्री सुरक्षा नीति छ जसले यसलाई अस्विकार गर्यो।</p>">
 
@@ -160,9 +165,7 @@ functionality specific to firefox. -->
  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button> ">
 
-<!ENTITY errorReporting.title "यो त्रुटी प्रतिवेदन पठाउनुहोस्">
-<!ENTITY errorReporting.longDesc "<span id='hostname'></span> को लागि ठेगाना र प्रमाणपत्र जानकारी रिपोर्ट गर्नुभएमा, हामीलाई खराब साइटहरु पहिचान र ब्लक मदत हुनेछ। हामीलाई एक सुरक्षित वेब बनाउन मदत गर्नु भएकोमा धन्यवाद!">
-<!ENTITY errorReporting.automatic "भविष्यमा त्रुटिहरू स्वतः पठाउने">
+<!ENTITY errorReporting.automatic2 "यो जस्तै त्रुटिहरूको सुचना दिएर Mozilla लाई खराब साइटहरु चिन्न र ब्लक गर्न मदत गर्नुहोस्">
 <!ENTITY errorReporting.learnMore "अझ जान्नुहोस्…">
 <!ENTITY errorReporting.sending "रिपोर्ट पठाउनुहोस्">
 <!ENTITY errorReporting.sent "प्रतिवेदन पठाइयो">
@@ -173,16 +176,14 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया यस समस्याको जानकारी गर्न वेबसाइट धनी लाइ सम्पर्क गर्नुहोस ।</li></ul></p>">
 
 <!ENTITY sslv3Used.title "सुरक्षित जडान गर्न असमर्थ">
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "उन्नत जानकारी: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "अझ जान्नुहोस्…">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "उन्नत जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "तपाईँको जडान सुरक्षित छैन">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-<!ENTITY weakCryptoUsed.longDesc "उन्नत जानकारी: ssl_error_no_cypher_overlap">
-<!ENTITY weakCryptoUsed.learnMore "अझ जान्नुहोस्…">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "उन्नत जानकारी: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "उन्नत">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ले पुरानो र आक्रमण हुनसक्ने सुरक्षा प्रविधि प्रयोग गर्दछ। कुनै आक्रमणकर्ताले तपाईँलाई सुरक्षित लागेको जानकारी बाहिर फुत्काउन सक्छ। ">
 <!ENTITY weakCryptoAdvanced.override "(सुरक्षित छैन) <span class='hostname'></span> पुरानो सुरक्षा प्रविधि अपनाई लोड गर्न प्रयास गर्नुहोस्">
