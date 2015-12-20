@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ट्याबलाई अनपिन गर्नुहोस्">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "समूहमा स्थानान्तरण गर्नुहोस्">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "नयाँ समूह">
 <!ENTITY  moveToNewWindow.label              "नयाँ सञ्झ्यालमा सार्नुहोस्">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "सबै ट्याबहरूलाई बुकमार्क गर्नुहोस…">
@@ -201,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "तपाईँ आफ्नो पासवर्ड संग्रह गर्न चाहनुहुन्छ भने ठिक लगाउनुहोस् ">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "अनुप्रयोग स्थापना सन्देश हेर्नुहोस्">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "यो पृष्ठमा प्लगइन प्रयोगहरू व्यवस्थापन गर्नुहोस् ">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "साइटले नोटिफिकेसन देखाउन सक्छ कि भनेर देखाउनुहोस">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "तपाईं साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "यो साइटलाई तपाईँ क्यामेरा र/अथवा माइक्रोफोन प्रयोग गर्ने अनुमति दिँदै हुनुहुन्छ ">
@@ -222,8 +219,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "गृह">
-
-<!ENTITY tabGroupsButton.label        "ट्याबका समूहहरू">
 
 <!ENTITY bookmarksButton.label          "पुस्तकचिनो">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -387,8 +382,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "दृश्य"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "ट्याब समूहहरू">
-<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "टुलबारहरू"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "साइडबार">
@@ -416,6 +409,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "अघिल्लो सत्र पुनर्स्थापना गर्नुहोस्">
 <!ENTITY appMenuHistory.viewSidebar.label "साइडबारको इतिहास हेर">
 <!ENTITY appMenuHelp.tooltip "सहयोग मेनु खोल्नुहोस्">
+
+<!ENTITY appMenuRemoteTabs.label "समन्वयन गरिएको ट्याबहरू">
+<!ENTITY appMenuRemoteTabs.fetching.label "समन्वय गरिएको ट्याबहरु ल्याइँदै…">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "खुला ट्याबहरू छैन">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न ट्याब सिङ्क कार्य सुरु गर्नुहोस्।">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "यहाँ आफ्नो ट्याबहरू हेर्न तपाईचको अन्य उपकरणहरूबाट Firefox मा साइन इन गर्नुहोस्।">
+<!ENTITY appMenuRemoteTabs.openprefs.label "सिङ्क प्राथमिकताहरु">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न साइन इन गर्नुहोस्।">
+<!ENTITY appMenuRemoteTabs.signin.label "सिङ्क गर्न साइन इन गर्नुहोस्">
 
 <!ENTITY customizeMenu.addToToolbar.label "टुलबारमा थप्नुहोस्">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -509,8 +518,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "पूर्वनिर्धारित खोज इन्जिन बनाउनुहोस्">
 <!ENTITY searchSetAsDefault.accesskey "D">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "लिङ्कलाई नयाँ ट्याबमा खोल्नुहोस्">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -780,9 +787,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ब्राउजर ट्याबहरू">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
-<!ENTITY syncTabsMenu2.label     "अन्य यन्त्रमा भएका ट्याबहरू">
+<!ENTITY syncTabsMenu3.label     "समन्वयन गरिएको ट्याबहरू">
 
 <!ENTITY syncBrand.shortName.label    "समक्रमण">
 
@@ -923,15 +930,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "तपाईँको हालको इतिहास खाली भयो।">
 <!ENTITY panicButton.thankyou.msg2                "सुरक्षित ब्राउजिङ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "धन्यवाद!">
-
-<!ENTITY processHang.terminateScript.label        "स्क्रिप्ट रोक्नुहोस्">
-<!ENTITY processHang.terminateScript.accessKey    "S">
-<!ENTITY processHang.debugScript.label            "स्क्रिप्ट डिबग गर्नुहोस्">
-<!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "प्लगइन बन्द गर्नुहोस्">
-<!ENTITY processHang.terminatePlugin.accessKey    "P">
-<!ENTITY processHang.terminateProcess.label       "वेब प्रोसेस अन्त्य गर्नुहोस्">
-<!ENTITY processHang.terminateProcess.accessKey   "K">
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM बारे थप जान्नुहोस्">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
