@@ -116,11 +116,14 @@
 <!ENTITY event.menu.options.show.time.free.label "Libre">
 <!ENTITY event.menu.options.show.time.free.accesskey "L">
 <!ENTITY event.invite.attendees.label "Invitar a asistentes…">
-<!ENTITY event.invite.attendees.accesskey "I">
+<!ENTITY event.invite.attendees.accesskey "e">
 <!ENTITY event.email.attendees.label "Redactar mensaje para todos los asistentes…">
 <!ENTITY event.email.attendees.accesskey "A">
 <!ENTITY event.email.tentative.attendees.label "Redactar mensaje para los asistentes indecisos…">
 <!ENTITY event.email.tentative.attendees.accesskey "d">
+<!ENTITY event.remove.attendees.label "Eliminar todos los asistentes…">
+<!ENTITY event.remove.attendees.accesskey "E">
+<!ENTITY event.remove.attendee.label "Eliminar asistente">
 <!ENTITY event.toolbar.save.label "Guardar y cerrar">
 <!ENTITY event.toolbar.delete.label "Eliminar">
 <!ENTITY event.toolbar.attendees.label "Invitar a asistentes">
@@ -177,7 +180,7 @@
 <!ENTITY event.attachments.popup.removeAll.label "Eliminar todo">
 <!ENTITY event.attachments.popup.removeAll.accesskey "t">
 <!ENTITY event.attachments.popup.attachPage.label "Adjuntar página web…">
-<!ENTITY event.attachments.popup.attachPage.accesskey "W">
+<!ENTITY event.attachments.popup.attachPage.accesskey "d">
 <!ENTITY event.url.label "Enlace relacionado:">
 <!ENTITY event.priority2.label "Prioridad:">
 <!ENTITY event.reminder.none.label "Sin recordatorio ">
@@ -303,6 +306,7 @@
 <!ENTITY event.attendee.usertype.group "Grupo">
 <!ENTITY event.attendee.usertype.resource "Recurso">
 <!ENTITY event.attendee.usertype.room "Sala">
+<!ENTITY event.attendee.usertype.unknown "Desconocido">
 <!ENTITY timezone.title.label "Especifique la zona horaria">
 <!ENTITY event.timezone.custom.label "Más zonas horarias…">
 <!ENTITY read.only.general.label "General">
