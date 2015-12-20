@@ -9,8 +9,6 @@
 <!ENTITY usingSubscription.accesskey "u">
 <!ENTITY dualUseFolders.label "El servidor admite carpetas que contengan sub-carpetas y mensajes">
 <!ENTITY dualUseFolders.accesskey "g">
-<!ENTITY useIdle.label "Usar comando IDLE si el servidor lo admite">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Número máximo de conexiones del servidor a la caché">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!ENTITY namespaceDesc.label "Estas preferencias especifican los espacios de nombres en su servidor IMAP">
