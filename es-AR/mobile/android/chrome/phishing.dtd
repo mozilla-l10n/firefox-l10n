@@ -20,3 +20,7 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta página web en <span id='unwanted_sitename'/> ha sido infromada que contiene software no deseado y ha sido bloqueada basada en tus preferencias de seguridad.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Páginas de software no deseado tratan de instalar software que puede ser engañoso y afectar a tu sistema en formas inesperadas.">
+
+<!ENTITY safeb.blocked.forbiddenPage.title "Sitio prohibido">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "El sitio web en <span id='forbidden_sitename'/> ha sido bloqueado según la configuración del navegador.">
