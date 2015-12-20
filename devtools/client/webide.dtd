@@ -58,9 +58,9 @@
 
 <!ENTITY projectButton_label "打开应用">
 <!ENTITY runtimeButton_label "选择运行环境">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,6 +75,9 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "我的项目">
 <!ENTITY projectPanel_runtimeApps "运行环境的应用">
@@ -86,8 +89,9 @@
 <!ENTITY runtimePanel_installsimulator "安装模拟器">
 <!ENTITY runtimePanel_noadbhelper "安装 ADB 助手">
 <!ENTITY runtimePanel_nousbdevice "看不到您的设备？">
-<!-- Lense -->
+<!ENTITY runtimePanel_refreshDevices_label "刷新设备">
 
+<!-- Lense -->
 <!ENTITY details_valid_header "有效">
 <!ENTITY details_warning_header "警告">
 <!ENTITY details_error_header "错误">
@@ -96,23 +100,23 @@
 <!ENTITY details_manifestURL "应用 ID">
 <!ENTITY details_removeProject_button "移除项目">
 <!ENTITY details_showPrepackageLog_button "显示预打包日志">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "新建应用">
 <!ENTITY newAppHeader "选择模板">
 <!ENTITY newAppLoadingTemplate "正在载入模板…">
 <!ENTITY newAppProjectName "项目名称：">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "关闭">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "额外组件">
 <!ENTITY addons_aboutaddons "打开附加组件管理器">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "首选项">
 <!ENTITY prefs_editor_title "编辑器">
 <!ENTITY prefs_general_title "常规">
@@ -139,12 +143,12 @@
 <!ENTITY prefs_options_keybindings_default "默认">
 <!ENTITY prefs_options_autosavefiles "自动保存文件">
 <!ENTITY prefs_options_autosavefiles_tooltip "运行项目前自动保存已编辑的文件">
-<!-- Permissions Table -->
 
+<!-- Permissions Table -->
 <!ENTITY permissionstable_title "权限表">
 <!ENTITY permissionstable_name_header "名称">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "运行环境信息">
 <!ENTITY runtimedetails_adbIsRoot "ADB 已取得 root 权限：">
 <!ENTITY runtimedetails_summonADBRoot "root 设备">
@@ -152,36 +156,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "不受限的开发者工具权限：">
 <!ENTITY runtimedetails_requestPrivileges "请求更高权限">
 <!ENTITY runtimedetails_privilegesWarning "（将重启设备。需要 root 权限。）">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "布尔值">
 <!ENTITY device_typenumber "整数">
 <!ENTITY device_typestring "字符串">
 <!ENTITY device_typeobject "对象">
 <!ENTITY device_typenone "选择类型">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "设备首选项">
 <!ENTITY devicepreference_search "搜索首选项">
 <!ENTITY devicepreference_newname "新增首选项名称">
 <!ENTITY devicepreference_newtext "首选项值">
 <!ENTITY devicepreference_addnew "添加新首选项">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "设备设置">
 <!ENTITY devicesetting_search "搜索设置">
 <!ENTITY devicesetting_newname "新建设置名称">
 <!ENTITY devicesetting_newtext "设置值">
 <!ENTITY devicesetting_addnew "添加新设置">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "监控器">
 <!ENTITY monitor_help "帮助">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "客户端身份信息">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -195,11 +199,11 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "如果您的其他设备要求您提供一个令牌而不是扫描一个二维码，请复制下面的值到其他设备：">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "预打包命令日志">
-<!-- Simulator Options -->
 
+<!-- Simulator Options -->
 <!ENTITY simulator_title "模拟器选项">
 <!ENTITY simulator_remove "删除模拟器">
 <!ENTITY simulator_reset "恢复默认设置">
