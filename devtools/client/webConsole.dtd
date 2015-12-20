@@ -102,3 +102,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "변수 보기에서 열기">
 <!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.label "전역 변수로 저장">
+<!ENTITY storeAsGlobalVar.accesskey "S">

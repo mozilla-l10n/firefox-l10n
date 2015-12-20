@@ -85,18 +85,26 @@
      - add new attribute
      - edit attribute
      - remove attribute -->
+<!ENTITY inspectorAttributeSubmenu.label      "속성">
+<!ENTITY inspectorAttributeSubmenu.accesskey  "A">
 
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
+<!ENTITY inspectorAddAttribute.label        "속성 추가">
+<!ENTITY inspectorAddAttribute.accesskey    "A">
 
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
      for current node -->
+<!ENTITY inspectorEditAttribute.label        "속성 편집">
+<!ENTITY inspectorEditAttribute.accesskey    "E">
 
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
+<!ENTITY inspectorRemoveAttribute.label        "속성 삭제">
+<!ENTITY inspectorRemoveAttribute.accesskey    "R">
 
 <!ENTITY inspector.selectButton.tooltip     "마우스로 요소 선택">
 
