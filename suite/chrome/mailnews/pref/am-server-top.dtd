@@ -16,6 +16,8 @@
 <!ENTITY biffStart.label "Buscar nuevos mensajes cada ">
 <!ENTITY biffStart.accesskey "j">
 <!ENTITY biffEnd.label "minutos">
+<!ENTITY useIdleNotifications.label "Permitir notificaciones inmediatas del servidor cuando lleguen nuevos mensajes">
+<!ENTITY useIdleNotifications.accesskey "P">
 <!ENTITY connectionSecurity.label "Seguridad de la conexión:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Ninguna">
