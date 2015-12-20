@@ -104,8 +104,8 @@
 <!ENTITY environmentMenu.accesskey    "Մ">
 
 
-<!ENTITY contentContext.label         "Պարունակությունը">
-<!ENTITY contentContext.accesskey     "Պ">
+<!ENTITY contentContext.label         "Բովանդակություն">
+<!ENTITY contentContext.accesskey     "Բ">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
