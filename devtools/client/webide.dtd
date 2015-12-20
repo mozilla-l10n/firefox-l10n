@@ -77,6 +77,7 @@
 <!ENTITY key_resetzoom "0">
 <!-- reload WebIDE and devtools from local checkout -->
 <!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "т">
 
 <!ENTITY projectPanel_myProjects "Менің жобаларым">
 <!ENTITY projectPanel_runtimeApps "Орындалу ортасы қолданбалары">
@@ -88,7 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "Симуляторды орнату">
 <!ENTITY runtimePanel_noadbhelper "ADB көмекшісін орнату">
 <!ENTITY runtimePanel_nousbdevice "Құрылғыңыз көрінбей ме?">
-
+<!ENTITY runtimePanel_refreshDevices_label "Құрылғыларды жаңарту">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "жарамды">

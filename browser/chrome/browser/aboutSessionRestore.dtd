@@ -54,7 +54,7 @@ their language.
 <!ENTITY tabgroupsmigration.tabtitle            "Басқа беттер топтарын жылжыту">
 <!ENTITY tabgroupsmigration.pagetitle2          "Біз беттер топтарын өшірдік, бірақ, беттеріңізді сақтап қойдық">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Беттер топтарын алмастыра алатын қосымшалар жөнінде біліңіз.">
-
-
-
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; барлығын бетбелгілерге қосты, сондықтан, ешнәрсе жоғалмайды.">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "Бетбелгілердегі беттер топтарын көрсету">
+<!ENTITY tabgroupsmigration.restoredescription  "Сіз қазір кейбір немесе барлық фон топтарын терезелерге қалпына келтіруді таңдай аласыз:">
 
