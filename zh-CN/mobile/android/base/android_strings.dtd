@@ -453,6 +453,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "全屏浏览">
+<!ENTITY pref_scroll_title_bar_summary2 "网页向下滚动时隐藏 &brandShortName; 工具栏">
 
 <!ENTITY pref_tab_queue_title2 "一并打开多个链接">
 <!ENTITY pref_tab_queue_summary3 "先存下来，下次打开 &brandShortName; 时一并打开">
@@ -531,8 +532,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint3 "提示：当 &formatI; 图标出现在 URL 栏时，长按它即可将文章保存到您的阅读列表。">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible2 "提示：当阅读模式按钮出现在 URL 栏时，长按它即可将文章保存到您的阅读列表。">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
