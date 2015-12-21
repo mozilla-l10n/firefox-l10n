@@ -308,3 +308,4 @@
 
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Personalizar endereço do remetente...">
+<!ENTITY customizeFromAddress.accesskey "a">
