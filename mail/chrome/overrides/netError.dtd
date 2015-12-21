@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "页面载入出错">
 <!ENTITY retry.label "重试">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "无法连接">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -107,6 +107,10 @@
 <!ENTITY phishingBlocked.title "涉嫌站点伪造!">
 <!ENTITY phishingBlocked.longDesc " <p>在本页面输入个人信息可能会导致账号被盗或其他危险。</p><p>这类钓鱼网站常含有被称为“钓鱼攻击”的诈骗行为，这些伪装的网页或邮件地址可能用来假冒成您信任的源地址以实施诈骗。</p> ">
 
+<!ENTITY forbiddenBlocked.title "禁止的站点">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; 阻止了此页面的加载，因为它被配置成需要阻止它。</p>
+">
+
 <!ENTITY cspBlocked.title "由于内容安全策略而被阻止">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面载入，因为这个页面的内容安全政策不允许其以这种方式被载入。</p>">
 
@@ -116,11 +120,11 @@
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
 <!ENTITY securityOverride.getMeOutOfHereButton "带我离开！">
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>如果您使用的是一个您不能完全信任的互联网连接，或者您并不使用警告的此服务器，您不应该添加一个例外。</p> 
  

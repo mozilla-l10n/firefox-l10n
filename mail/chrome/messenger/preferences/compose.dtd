@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "恢复默认值">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY enterKeyCreatesNewParagraph.label    "使用段落格式时，用回车键创建一个新的段落">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY spellCheck.label                     "发送前进行拼写检查">
 <!ENTITY spellCheck.accesskey                 "C">

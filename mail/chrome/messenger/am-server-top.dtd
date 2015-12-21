@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
 
+<!-- extracted from am-server-top.xul -->
 
 <!ENTITY messageStorage.label "消息存储">
 <!ENTITY securitySettings.label "安全设置">
@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "每隔">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "分钟检查一次新消息">
+<!ENTITY useIdleNotifications.label "当新邮件到达时允许服务器立即通知">
+<!ENTITY useIdleNotifications.accesskey "A">
 <!ENTITY connectionSecurity.label "连接安全：">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "无">

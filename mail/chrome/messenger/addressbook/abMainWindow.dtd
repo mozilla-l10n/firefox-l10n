@@ -39,8 +39,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "打印通讯录…">
 <!ENTITY printAddressBook.accesskey                     "A">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "编辑">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "撤销">
@@ -78,12 +78,12 @@
 <!ENTITY propertiesCmd2.label                           "属性">
 <!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label                                 "查看">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "工具栏">
-<!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "T">
 <!ENTITY menubarCmd.label                               "菜单栏">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "通讯录工具栏">
@@ -99,19 +99,19 @@
 <!ENTITY showContactPane2.label                         "联系人面板">
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "名称显示方式">
-<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "姓名">
-<!ENTITY firstLastCmd2.accesskey                        "F"> 
+<!ENTITY firstLastCmd2.accesskey                        "F">
 <!ENTITY lastFirstCmd.label                             "姓氏，名字">
 <!ENTITY lastFirstCmd.accesskey                         "L">
 <!ENTITY displayNameCmd.label                           "显示名称">
 <!ENTITY displayNameCmd.accesskey                       "D">
 <!ENTITY sortMenu.label                                 "排序">
 <!ENTITY sortMenu.accesskey                             "S">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "工具">
 <!ENTITY tasksMenu.accesskey                            "T">
 <!ENTITY messengerCmd.label                             "邮件与新闻组">
@@ -127,8 +127,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "首选项">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-<!-- Address Book Toolbar and Context Menus -->  
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "新建联系人">
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "新建列表">
@@ -139,28 +139,30 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "实时消息">
 <!ENTITY newIM.accesskey                                "I">
+<!ENTITY printButton.label                              "打印…">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "删除">
 <!ENTITY deleteButton2.accesskey                        "D">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "创建新的通讯录联系人">
 <!ENTITY newlistButton.tooltip                          "创建新列表">
 <!ENTITY editButton2.tooltip                            "编辑选中项">
 <!ENTITY newmsgButton.tooltip                           "发送一个邮件消息">
 <!ENTITY newIM.tooltip                                  "发送一条即时消息或聊天">
-<!ENTITY deleteButton2.tooltip                           "删除选中项">
+<!ENTITY deleteButton2.tooltip                          "删除选中项">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "通讯录">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "名称或者电子邮件">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "高级地址搜索">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "快速搜索">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "通讯录">
 <!ENTITY Addrbook.accesskey                             "B">
 <!ENTITY GeneratedName.label                            "名称">
@@ -195,9 +197,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "D">
 <!ENTITY _PhoneticName.label                            "小名">
 <!ENTITY _PhoneticName.accesskey                        "o">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "联系">
 <!ENTITY home.heading                                   "家庭">
 <!ENTITY other.heading                                  "其它">
@@ -210,13 +212,13 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "获取地图">
 <!ENTITY mapIt.tooltip                                  "从网站显示一幅此地址的地图">
+
 <!-- Status Bar -->
+<!ENTITY statusText.label                               "">
 
-<!ENTITY statusText.label "">
 <!--  Mac OS X Window Menu -->
-
-<!ENTITY windowMenu.label "窗口">
-<!ENTITY minimizeWindow.label "最小化">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "全部置前">
-<!ENTITY zoomWindow.label "缩放">
+<!ENTITY windowMenu.label                               "窗口">
+<!ENTITY minimizeWindow.label                           "最小化">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "全部置前">
+<!ENTITY zoomWindow.label                               "缩放">
