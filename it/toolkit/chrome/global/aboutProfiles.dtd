@@ -8,3 +8,5 @@
 <!ENTITY aboutProfiles.restart.title "Riavvia">
 <!ENTITY aboutProfiles.restart.inSafeMode "Riavvia disattivando i componenti aggiuntivi…">
 <!ENTITY aboutProfiles.restart.normal "Riavvia normalmente…">
+<!ENTITY aboutProfiles.profileManager.workOffline "Lavora non in linea">
+<!ENTITY aboutProfiles.profileManager.autoSelect "Utilizza il profilo selezionato senza chiedere all’avvio">
