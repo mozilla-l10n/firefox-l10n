@@ -75,6 +75,9 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "Mo Chuid Tionscadal">
 <!ENTITY projectPanel_runtimeApps "Aipeanna Ama Rite">
@@ -86,6 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "Suiteáil Ionsamhlóir">
 <!ENTITY runtimePanel_noadbhelper "Suiteáil Cúntóir ADB">
 <!ENTITY runtimePanel_nousbdevice "Nach bhfuil tú in ann do ghléas a fheiceáil?">
+<!ENTITY runtimePanel_refreshDevices_label "Athluchtaigh Gléasanna">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "bailí">
