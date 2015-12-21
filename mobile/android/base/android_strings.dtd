@@ -443,8 +443,6 @@
 <!ENTITY restrictable_feature_advanced_settings_description "Include importazione di segnalibri, ripristino delle schede e aggiornamenti automatici. Disattivarlo per ottenere delle impostazioni più semplici e adatte a tutta la famiglia.">
 <!ENTITY restrictable_feature_camera_microphone "Fotocamera e microfono">
 <!ENTITY restrictable_feature_camera_microphone_description "Permetti ai membri della famiglia di utilizzare strumenti di comunicazione in tempo reale sui siti web.">
-<!ENTITY restrictable_feature_data_choices "Condivisione dati">
-<!ENTITY restrictable_feature_data_choices_description "Scegli se inviare informazioni a Mozilla per contribuire al miglioramento di Firefox.">
 <!ENTITY restrictable_feature_block_list "Blocco contenuti">
 <!ENTITY restrictable_feature_block_list_description "Blocca siti web che includono contenuti sensibili.">
 <!ENTITY bookmarks_about_browser "Firefox: informazioni sul browser">
