@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "发送选项">
 <!ENTITY sendMail.title               "文本格式">
+<!ENTITY autoDowngrade.label          "如果可能的话以纯文本方式发送消息">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "当以 HTML 格式发送消息并且一个或多个收件人未被列为可接收 HTML 时：">
 <!ENTITY askMe.label                  "询问我将做什么">
 <!ENTITY askMe.accesskey              "k">
