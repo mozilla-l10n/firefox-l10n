@@ -748,6 +748,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "Permet aux membres de la famille d\u0027engager des communications en temps réel sur des sites web.">
 <!ENTITY restrictable_feature_data_choices "Données collectées">
 <!ENTITY restrictable_feature_data_choices_description "Décidez si vous souhaitez envoyer ou non des informations à Mozilla pour aider à améliorer Firefox.">
+<!ENTITY restrictable_feature_block_list "Liste de blocage">
+<!ENTITY restrictable_feature_block_list_description "Bloquer les sites web comportant du contenu sensible.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
