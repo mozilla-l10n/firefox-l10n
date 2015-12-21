@@ -51,6 +51,8 @@ their language.
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
+<!ENTITY tabgroupsmigration.tabtitle            "আপনার অন্যান্য ট্যাব গ্রুপে মাইগ্রেট করুন">
+<!ENTITY tabgroupsmigration.pagetitle2          "আমরা ট্যাব গ্রুপ অপসারণ করেছি, কিন্তু আপনার ট্যাবগুলো সংরক্ষণ করেছি">
 
 
 
