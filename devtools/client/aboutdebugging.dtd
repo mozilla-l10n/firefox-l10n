@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Breiseáin">
 <!ENTITY aboutDebugging.addonDebugging.label       "Cumasaigh dífhabhtú breiseán">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Leis an rogha seo, beidh tú in ann breiseáin agus codanna eile den bhrabhsálaí a dhífhabhtú">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Lódáil an Breiseán Sealadach">
 <!ENTITY aboutDebugging.workers                    "Oibrithe">
