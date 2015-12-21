@@ -35,7 +35,7 @@
 <!ENTITY retentionApplyToFlagged.label "Vedno ohrani označena sporočila">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 
-<!ENTITY folderSynchronizationTab.label          "Usklajevanje">
+<!ENTITY folderSynchronizationTab.label          "Sinhronizacija">
 <!ENTITY folderCheckForNewMessages2.label         "Ob prejemu novih sporočil za ta račun vedno preveri to mapo">
 <!ENTITY folderCheckForNewMessages2.accesskey     "u">
 
