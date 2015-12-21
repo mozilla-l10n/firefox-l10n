@@ -269,3 +269,8 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Appuyez pour vous connecter en tant que &formatS;'>
+
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
+<!ENTITY old_sync_deprecated_notification_title 'Connectez-vous pour poursuivre la synchronisation'>
+<!ENTITY old_sync_deprecated_notification_content 'Votre compte n\u0027est plus pris en charge'>
