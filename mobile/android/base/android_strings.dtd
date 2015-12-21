@@ -743,7 +743,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Effacer l\u0027historique">
 <!ENTITY restrictable_feature_clear_history_description "Permet aux membres de la famille d\u0027effacer des informations concernant les sites et les pages qu\u0027ils ont visités.">
 <!ENTITY restrictable_feature_advanced_settings "Paramètres avancés">
-<!ENTITY restrictable_feature_advanced_settings_description "Incluent l\u0027importation de marque-pages, la restauration d\u0027onglets et les mises à jours automatiques. Désactivez-les pour bénéficier de paramètres plus simples pour tous les membres de la famille.">
+<!ENTITY restrictable_feature_advanced_settings_description "Incluent l\u0027importation de marque-pages, la restauration d\u0027onglets et les mises à jour automatiques. Désactivez-les pour bénéficier de paramètres plus simples pour tous les membres de la famille.">
 <!ENTITY restrictable_feature_camera_microphone "Caméra et microphone">
 <!ENTITY restrictable_feature_camera_microphone_description "Permet aux membres de la famille d\u0027engager des communications en temps réel sur des sites web.">
 <!ENTITY restrictable_feature_data_choices "Données collectées">
@@ -773,4 +773,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- https://support.mozilla.org/1/mobile/%VERSION%/%OS%/%LOCALE%/honeycombs -->
 <!ENTITY eol_notification_title "&brandShortName; ne prend plus en charge Android 3">
 <!ENTITY eol_notification_summary "Appuyez pour en savoir plus">
-
