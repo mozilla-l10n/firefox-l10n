@@ -243,7 +243,7 @@
 <!ENTITY calendar.context.removeserver.accesskey       "O">
 <!ENTITY calendar.context.unsubscribeserver.label      "Odjavi se od koledarja …">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "d">
-<!ENTITY calendar.context.synccalendars.label          "Sinhroniziraj koledarje">
+<!ENTITY calendar.context.synccalendars.label          "Uskladi koledarje">
 <!ENTITY calendar.context.synccalendars.accesskey      "U">
 <!ENTITY calendar.context.publish.label                "Objavi koledar">
 <!ENTITY calendar.context.publish.accesskey            "O">
