@@ -84,15 +84,12 @@
 
 
 
+
+
+
+
 <!ENTITY corruptedContentError.title "બગડેલ સમાવિષ્ટોની ક્ષતિ">
 <!ENTITY corruptedContentError.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાશે નહિં કારણ કે માહિતી પરિવહનમાં ક્ષતિ મળી આવી હતી.</p><ul><li>મહેરબાની કરીને આ સમસ્યા વિશે વેબસાઇટના માલિકોને જાણ કરવા માટે તેમને સંપર્ક કરો.</li></ul>">
 
 <!ENTITY remoteXUL.title "દૂરસ્થ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>મહેરબાની કરીને આ સમસ્યાને તેઓને જણાવવા માટે વેબસાઇટ માલિકોનો સંપર્ક કરો.</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;

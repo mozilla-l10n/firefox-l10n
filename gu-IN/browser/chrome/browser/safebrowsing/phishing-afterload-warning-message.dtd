@@ -8,14 +8,17 @@
 <!ENTITY safeb.palm.reportPage.label "શા માટે આ પાનાંને બ્લોક કરેલ છે?">
 
 <!ENTITY safeb.blocked.malwarePage.title "હુમલો થયેલ પાનાંનો અહેવાલ થયેલ છે!">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> પર આ વેબ પાનું હુમલો થયેલ પાનાં તરીકે અહેવાલ કરી દેવામાં આવ્યુ છે અને તમારી સુરક્ષા પસંદગીઓ પર બ્લોક કરી દેવામાં આવ્યુ છે.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>હુમલો થયેલ પાનાંઓ કાર્યક્રમને સ્થાપિત કરવાનો પ્રયત્ન કરે છે કે જે ખાનગી જાણકારીને ચોરી લે છે, બીજાઓ પર હુમલો કરવા માટે તમારા કમ્પ્યૂટરને વાપરે છે, અથવા તમારી સિસ્ટમને બગાડી દે છે.</p><p>અમુક હુમલો થયેલ પાનાંઓ જાણી જોઇને સોફ્ટવેરને નુકશાન પહોંચાડે છે, પરંતુ ઘણા બધા તેનાં માલિકોની પરવાનગી અથવા જ્ઞાન વગર સમાધાન થયેલ છે.</p>">
 
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
 <!ENTITY safeb.blocked.phishingPage.title "બનાવટી વેબનો અહેવાલ થયેલ છે!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> પર આ વેબ પાનું બનાવટી વેબ તરીકે અહેવાલ કરી દેવામાં આવ્યુ છે અને તમારી સુરક્ષા પસંદગીઓ પર બ્લોક કરી દેવામાં આવ્યુ છે.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>સ્ત્રોતોને અનુકરણ કરવા વડે વ્યક્તિગત અથવા નાણાકીય જાણકારીમાં બનાવટી વેબો તમને છેતરવા માટે રચેલ છે કે જે તમે તેનો વિશ્ર્વાસ કરી શકો છો .</p><p> આ વેબ પાનાં પર કોઇપણ જાણકારીને દાખલ કરવા દ્દારા ચોરીની ઓળખાણ અથવા બીજી છેતરપિંડીમાં પરિણામ આવી શકે છે.</p>">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
