@@ -39,9 +39,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Banua Kichupo">
 <!ENTITY  unpinTab.accesskey                 "c">
-<!ENTITY  moveToGroup.label                  "Hamisha kwa Kundi">
-<!ENTITY  moveToGroup.accesskey              "H">
-<!ENTITY  moveToNewGroup.label               "Kikundi Kipya">
 <!ENTITY  moveToNewWindow.label              "Hamisha kwa Dirisha Mpya">
 <!ENTITY  moveToNewWindow.accesskey          "M">
 
@@ -210,8 +207,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Nyumbani">
 
-<!ENTITY tabGroupsButton.label        "Vikundi vya Vichupo">
-
 <!ENTITY bookmarksButton.label          "Vialamisho">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -369,8 +364,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Onyesha"> 
 <!ENTITY viewMenu.accesskey       "O"> 
-<!ENTITY viewTabGroups.label            "Kichupo Vikundi">
-<!ENTITY viewTabGroups.accesskey        "V">
 <!ENTITY viewToolbarsMenu.label       "Mwambaa zana"> 
 <!ENTITY viewToolbarsMenu.accesskey     "M"> 
 <!ENTITY viewSidebarMenu.label "Mwambaa upande">
@@ -394,6 +387,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+
+
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
 
 
 
@@ -477,8 +482,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Fungua Kiungo kwa Kichupo Kipya">
 <!ENTITY openLinkCmdInTab.accesskey   "K">
@@ -740,9 +743,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Kivinjari vichupo">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Vichupo Kutoka Kwenye Vifaa Vingine">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Ulandanishi">
 
@@ -866,14 +867,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY panicButton.view.undoWarning             "Kitendo hakiwazi kutenduliwa.">
-
-
-
-
-
-
-
-
 
 
 

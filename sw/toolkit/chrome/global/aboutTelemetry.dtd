@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Chelewesha Kauli za SQL">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "       Vikwamaji vya Kivinjari">
@@ -34,7 +35,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "       Viandiko Vilivyochelewa">
 
-<!ENTITY aboutTelemetry.systemInfoSection "       Maelezo ya Mfumo">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "       Histogramia Zilizokusanywa na vifaa vya nyongesa">
 
@@ -46,4 +46,5 @@
 <!ENTITY aboutTelemetry.fetchSymbols "  Leta majina ya fomula saidizi za kwama ya omekezo">
 
 <!ENTITY aboutTelemetry.hideSymbols "  Onyesha data ghafi kutoka kwa vikwamaji">
+
 

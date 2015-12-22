@@ -82,6 +82,10 @@
 <!ENTITY phishingBlocked.longDesc "<p>Kuingiza maelezo yoyote ya kibinafsi kwenye ukurasa huu waweza kusababisha wizi au udanganyifu wa aina nyingine.</p> 
 <p>Aina hizi za ughushi hutumiwa katika taka zinazojulikana kama utapeli data shambulizi, ambapo kurasa za udanganyifu za wavuti na barua pepe hutumiwa kuiga chanzo ambacho waweza kuamini.</p>">
 
+
+
+
+
 <!ENTITY cspBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
 <!ENTITY cspBlocked.longDesc "<p>Kivinjari kimezuia ukurasa huu kupakia katika njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo inakataza hili.</p>">
 
@@ -90,10 +94,3 @@
 
 <!ENTITY remoteXUL.title "XUL ya Mbali">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwafahamisha juu ya tatizo hili.</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;

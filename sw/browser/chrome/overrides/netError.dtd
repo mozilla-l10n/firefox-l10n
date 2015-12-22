@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Tatizo katika kupakia ukurasa">
 <!ENTITY retry.label "Jaribu Tena">
+
+
 <!-- Specific error messages -->
 
 
@@ -135,6 +137,8 @@ kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Kuinigiza maelezo yoyote ya kibinafsi kwenye ukurasa huu kwaweza kusababisha wizi wa utambulishi au aina nyingine za udanganyifu.</p> 
 <p>Aina hizi za ughushi wa wavuti zinatumiwa katika uvamizi wa utapeli data, amabapo kurasa za wavuti danganyifu na barua pepe zinatumiwa kuiga chanzo unachoweza kuamimi.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; imzuia ukurasa huu kupakiwa kwa njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo haiiruhusu.</p>">
 
@@ -162,18 +166,14 @@ functionality specific to firefox. -->
 
 
 
-
-
 <!ENTITY remoteXUL.title "XUL ya Mbali">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwafahamisha juu ya tatizo hili.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 
