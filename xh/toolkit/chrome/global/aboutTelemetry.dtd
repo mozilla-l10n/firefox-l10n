@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "I-ping endala &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Iveki">
 
 <!ENTITY aboutTelemetry.archivePingHeader "I-ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Mva ibhala">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Inkcazelo yenkqubo">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  IiHistogrem ziqokelelwe zizongezelelo">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Bonisa iingcombolo ezingahlelwanga kwezijingayo">
 
 <!ENTITY aboutTelemetry.filterText "  Hluza (izitringi okanye /regexp/)">
+
