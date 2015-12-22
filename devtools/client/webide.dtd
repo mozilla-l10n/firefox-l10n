@@ -75,6 +75,8 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "Моите проекти">
 <!ENTITY projectPanel_runtimeApps "Пуснати приложения">
@@ -86,6 +88,7 @@
 <!ENTITY runtimePanel_installsimulator "Инсталиране на симулатор">
 <!ENTITY runtimePanel_noadbhelper "Инсталиране на помощник за ADB">
 <!ENTITY runtimePanel_nousbdevice "Не можете да видите вашето устройство?">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "валидни">
