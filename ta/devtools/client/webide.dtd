@@ -75,6 +75,8 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "என் திட்டங்கள்">
 <!ENTITY projectPanel_runtimeApps "இயக்க நேர செயலிகள்">
@@ -86,6 +88,7 @@
 <!ENTITY runtimePanel_installsimulator "சிமுலேட்டரை நிறுவு">
 <!ENTITY runtimePanel_noadbhelper "ADB உதவியை நிறுவு">
 <!ENTITY runtimePanel_nousbdevice "உங்கள் சாதனத்தைப் பார்க்க முடியவில்லை?">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "சரியானது">

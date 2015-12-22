@@ -82,6 +82,10 @@
 <!ENTITY phishingBlocked.longDesc "<p>இந்தப் பக்கத்தில் ஏதேனும் தனிப்பட்ட தகவலை உள்ளிட்டால் அது அடையாளத் திருட்டு அல்லது மற்ற மோசடிகளுக்கு வழிவகுக்கக்கூடும்.</p> 
 <p>இந்த வகையான இணைய மோசடிகள் ஃபிஷிங் எனப்படும் விவகாரங்களில் பயன்படுத்தப்படுகின்றன, அத்தகைய மோசடிகளின் போது நீங்கள் நம்பக்கூடிய மூலங்களைப் போன்றே ஒத்துள்ள வகையில் வலைப்பக்கங்களும் மின்னஞ்சல்களும் தோற்றமளித்து உங்களை ஏமாற்றும்.</p>">
 
+
+
+
+
 <!ENTITY cspBlocked.title "உள்ளடக்க பாதுகாப்பு கொள்கையால் தடுக்கப்பட்டது">
 <!ENTITY cspBlocked.longDesc "<p>இந்தப் பக்கத்தில், இந்தப் பக்கத்தை இவ்விதமாக ஏற்றுவதைத் தடுக்கும் வகையிலான ஒரு உள்ளடக்கப் பாதுகாப்பு கொள்கை உள்ளதால், உலாவி இந்தப் பக்கத்தை இவ்விதமாக ஏற்றுவதைத் தடுத்துவிட்டது.</p>">
 
@@ -90,10 +94,3 @@
 
 <!ENTITY remoteXUL.title "தொலைநிலை XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>வலைத்தள உரிமையாளர்களைத் தொடர்புகொண்டு இந்த சிக்கல் குறித்து தெரிவிக்கவும்.</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
