@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Slow SQL Statements">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Browser Hangs">
@@ -36,7 +37,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Late Writes">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  System Information">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histograms Collected by Add-ons">
 
@@ -51,3 +51,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Show raw data from hangs">
 
 <!ENTITY aboutTelemetry.filterText "  Filter (strings or /regexp/)">
+
