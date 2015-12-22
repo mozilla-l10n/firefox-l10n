@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "k">
 <!ENTITY  unpinTab.label                     "Nor loku bukandi">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "Ganandi margaa do">
-<!ENTITY  moveToGroup.accesskey              "G">
-<!ENTITY  moveToNewGroup.label               "Marga taaga">
 <!ENTITY  moveToNewWindow.label              "Ganandi zanfun taagaa ra">
 <!ENTITY  moveToNewWindow.accesskey          "z">
 <!ENTITY  bookmarkAllTabs.label              "Nor lokey kul šilbay…">
@@ -218,8 +215,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Šintin">
 
-<!ENTITY tabGroupsButton.label        "Nor loku margarey">
-
 <!ENTITY bookmarksButton.label          "Doo-šilbawey">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -382,8 +377,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Gunari"> 
 <!ENTITY viewMenu.accesskey       "G"> 
-<!ENTITY viewTabGroups.label            "Nor loku margarey">
-<!ENTITY viewTabGroups.accesskey        "g">
 <!ENTITY viewToolbarsMenu.label       "Goyjinay žeerey"> 
 <!ENTITY viewToolbarsMenu.accesskey     "G"> 
 <!ENTITY viewSidebarMenu.label "Cerawžeeri">
@@ -411,6 +404,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Goywaati bisantaa yeeti">
 <!ENTITY appMenuHistory.viewSidebar.label "Taariki ceraw zuu cebe">
 <!ENTITY appMenuHelp.tooltip "Faaba šilbayboŋ feeri">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Goyjinay zuu tonton">
 <!ENTITY customizeMenu.addToToolbar.accesskey "o">
@@ -504,8 +509,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "t">
 <!ENTITY searchSetAsDefault.label     "Kayandi sanda tilasu ceecijinay">
 <!ENTITY searchSetAsDefault.accesskey "t">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Doboo feeri nor loku taaga ra">
 <!ENTITY openLinkCmdInTab.accesskey   "n">
@@ -775,9 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Ceecikaw nor lokey">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Jinay tanayaŋ nor lokey">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -918,15 +919,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "War taariki koraa n' ka tuusandi.">
 <!ENTITY panicButton.thankyou.msg2                "Ceeciyan saajante!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Foo nda goy!">
-
-<!ENTITY processHang.terminateScript.label        "Šigira-dumoo kayandi">
-<!ENTITY processHang.terminateScript.accessKey    "g">
-<!ENTITY processHang.debugScript.label            "Šigira-dumoo hasaraa kaa">
-<!ENTITY processHang.debugScript.accessKey        "d">
-<!ENTITY processHang.terminatePlugin.label        "Wii nda sukari dam">
-<!ENTITY processHang.terminatePlugin.accessKey    "P">
-<!ENTITY processHang.terminateProcess.label       "Interneti koyjineyan wii">
-<!ENTITY processHang.terminateProcess.accessKey   "I">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Bay ka tonton DRM ga…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">

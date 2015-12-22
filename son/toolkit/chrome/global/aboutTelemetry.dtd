@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection " Yamma bayhayey">
 
 
@@ -39,7 +40,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Hantum kokorantey">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Dabariɲaa alhabar">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Titilawey kaŋ tontoney n'i marga">
 
@@ -54,3 +54,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Foku bayhaya ganey sanba">
 
 <!ENTITY aboutTelemetry.filterText "  Fay (tenjirey wala /regexp/)">
+
