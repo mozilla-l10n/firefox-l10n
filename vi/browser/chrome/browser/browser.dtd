@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Gỡ tab">
 <!ENTITY  unpinTab.accesskey                 "G">
-<!ENTITY  moveToGroup.label                  "Di chuyển vào nhóm">
-<!ENTITY  moveToGroup.accesskey              "D">
-<!ENTITY  moveToNewGroup.label               "Nhóm mới">
 <!ENTITY  moveToNewWindow.label              "Di chuyển sang cửa sổ mới">
 <!ENTITY  moveToNewWindow.accesskey          "c">
 <!ENTITY  bookmarkAllTabs.label              "Đánh dấu tất cả các tab…">
@@ -217,8 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Trang nhà">
 
-<!ENTITY tabGroupsButton.label        "Các nhóm tab">
-
 <!ENTITY bookmarksButton.label          "Đánh dấu trang">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -381,8 +376,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Hiển thị"> 
 <!ENTITY viewMenu.accesskey       "H"> 
-<!ENTITY viewTabGroups.label            "Các nhóm tab">
-<!ENTITY viewTabGroups.accesskey        "n">
 <!ENTITY viewToolbarsMenu.label       "Thanh công cụ"> 
 <!ENTITY viewToolbarsMenu.accesskey     "c"> 
 <!ENTITY viewSidebarMenu.label "Thanh lề">
@@ -410,6 +403,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Khôi phục phiên làm việc trước">
 <!ENTITY appMenuHistory.viewSidebar.label "Hiển thị thanh lề nhật ký">
 <!ENTITY appMenuHelp.tooltip "Mở menu trợ giúp">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Thêm vào thanh công cụ">
 <!ENTITY customizeMenu.addToToolbar.accesskey "c">
@@ -502,8 +507,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Mở liên kết trong tab mới">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
@@ -773,9 +776,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Các tab">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Các tab ở thiết bị khác">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -915,15 +916,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "Dữ liệu gần đây đã bị xóa.">
 <!ENTITY panicButton.thankyou.msg2                "Duyệt web an toàn!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Cảm ơn!">
-
-<!ENTITY processHang.terminateScript.label        "Dừng script">
-<!ENTITY processHang.terminateScript.accessKey    "S">
-<!ENTITY processHang.debugScript.label            "Debug script">
-<!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Ngừng plugin">
-<!ENTITY processHang.terminatePlugin.accessKey    "P">
-<!ENTITY processHang.terminateProcess.label       "Ngừng tiến trình Web">
-<!ENTITY processHang.terminateProcess.accessKey   "K">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Tìm hiểu thêm về DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
