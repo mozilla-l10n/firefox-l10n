@@ -8,21 +8,6 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-
-<!ENTITY certerror.pagetitle  "საეჭვო კავშირი">
-<!ENTITY certerror.longpagetitle "ეს კავშირი საეჭვოა">
-<!-- These are going to be used for the updated design in Bug 1207107 -->
-
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-
-<!ENTITY certerror.introPara1 "თქვენ მოსთხოვეთ &brandShortName; ბრაუზერს 
-<b>#1</b> სერვერთან დაკავშირება, მაგრამ ამ კავშირის უსაფრთხოებას ვერ დაგიდასტურებთ.">
-<!ENTITY certerror.introPara2 "ჩვეულებრივ, როცა უსაფრთხო დაკავშირებას ცდილობთ, 
-საიტები წარმოადგენენ საკუთარი იდენტურობის საბუთს ამ მისამართის საიმედოობის 
-დასამტკიცებლად. თუმცა, ამ საიტის იდენტურობის შემოწმება ვერ ხერხდება.">
-<!-- These are going to be used for the udpated design in Bug 1207107 -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -30,14 +15,7 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.whatShouldIDo.heading "რა უნდ აგავაკეთო?">
-<!ENTITY certerror.whatShouldIDo.content "თუ ამ საიტს ჩვეულებრივ პრობლემების 
-გარეშე უკავშირდებით, ეს შეცდომა შეიძლება ნიშნავდე, რომ ვიღაც 
-ცდილობს საიტის გაყალბებას და თქვენ აღარ უნდა გააგრძელოთ კავშირი.">
 
-<!ENTITY certerror.getMeOutOfHere.label "გამიყვანეთ აქედან!">
-
-<!ENTITY certerror.expert.heading "მე ვაცნობიერებ რისკებს">
 <!ENTITY certerror.expert.content "თუ საქმის ვითარებაში გერკვიეთ, შეგიძლიათ 
 აცნობოთ &brandShortName; ბრაუზერს რათა იგი ენდოს ამ საიტს. 
 <b>მაშინაც, თუ საიტს ენდობით, ეს შეცდომა შესაძლოა ნიშნავდეს, რომ 
@@ -46,4 +24,3 @@ was trying to connect. -->
 გაგაჩნიათ საკმარისი საფუძველი თუ რატომ არ სარგებლობს საიტი საიმედო იდენტურობით.">
 <!ENTITY certerror.addException.label "გამონაკლისის დამატება…">
 
-<!ENTITY certerror.technical.heading "ტექნიკური დეტალები">
