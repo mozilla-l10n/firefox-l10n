@@ -304,6 +304,7 @@
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferenze Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Accedi per visualizzare un elenco delle schede aperte in altri dispositivi.">
 <!ENTITY appMenuRemoteTabs.signin.label "Accedi a Sync">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Visualizza barra laterale Schede sincronizzate">
 <!ENTITY customizeMenu.addToToolbar.label "Aggiungi alla barra degli strumenti">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Aggiungi al menu">
@@ -556,6 +557,19 @@
 <!ENTITY identity.permissionsEmpty "Nessun permesso speciale associato a questo sito.">
 <!ENTITY tabsToolbar.label "Schede del browser">
 <!ENTITY syncTabsMenu3.label "Schede sincronizzate">
+<!ENTITY syncedTabs.sidebar.label "Schede sincronizzate">
+<!ENTITY syncedTabs.sidebar.fetching.label "Recupero schede sincronizzate…">
+<!ENTITY syncedTabs.sidebar.noclients.label "Accedi a Firefox in un altro dispositivo per visualizzarne le schede in questa sezione.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label "Accedi per visualizzare un elenco di tutte le schede aperte in altri dispositivi.">
+<!ENTITY syncedTabs.sidebar.notabs.label "Nessuna scheda aperta">
+<!ENTITY syncedTabs.sidebar.openprefs.label "Apri le impostazioni di &syncBrand.shortName.label;">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Attiva la sincronizzazione delle schede per visualizzare un elenco di tutte le schede disponibili negli altri dispositivi.">
+<!ENTITY syncedTabs.context.openTab.label "Apri questa scheda">
+<!ENTITY syncedTabs.context.openTab.accesskey "A">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label "Aggiungi ai segnalibri…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "s">
+<!ENTITY syncedTabs.context.refreshList.label "Aggiorna elenco">
+<!ENTITY syncedTabs.context.refreshList.accesskey "e">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label "Accedi a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey "y">
