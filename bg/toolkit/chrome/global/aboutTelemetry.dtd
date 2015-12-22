@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "По-стар пинг &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Седмица">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Пинг">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "Късни записи">
 
-<!ENTITY aboutTelemetry.systemInfoSection "Системна информация">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "Хистограми събрани от добавки">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "Показване на необработените данни от сривовете">
 
 <!ENTITY aboutTelemetry.filterText "Филтър (низ или /регулярен израз/)">
+
