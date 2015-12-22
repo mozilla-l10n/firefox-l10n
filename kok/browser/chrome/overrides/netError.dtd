@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "पान लोडिंग जातना आडमेळ आयलो">
 <!ENTITY retry.label "परतून यत्न करात">
+
+
 <!-- Specific error messages -->
 
 
@@ -138,6 +140,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>ह्या पानार कसलीय वैयक्तिक माहिती दिल्यार वळख चोरी वो हेर फटिंगपणां जाव येता.</p> 
 <p>ह्या तरेची वेब चोरी फिशिंग हल्ले म्हण वळखुपी फटिंगपणांनी वापल्ली वता, जंय तुमी विश्र्वास दवरता त्या स्त्रोतांचे अनुकरण करपाक बोगस वेबपानां आणि ईमेल वापरल्ल्यो वतात.</p>">
 
+
+
 <!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणान प्रतिबंधित केलां">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; न ह्या पानाक अशेतरेन लोड जावपापासून आडयला कारण पानाक आशय सुरक्षा धोरण आसा जे अशे करपाक दिना.</p>">
 
@@ -159,9 +163,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY errorReporting.title "ह्या एरराविशीं कळयात">
-<!ENTITY errorReporting.longDesc " <span id='hostname'></span> खातीर नामो आनी प्रमाणपत्राची माहिती दिवप आमका वायट सायटीं ओळखुपाक आनी आडोवपाक मदत जातली. सुरक्षित वेब तयार करपाक मदत करपाक धन्यवाद!">
-<!ENTITY errorReporting.automatic "भविश्यान आपसूक एरर्सांविंशीं कळयात">
 <!ENTITY errorReporting.learnMore "अदिक शिकात...">
 <!ENTITY errorReporting.sending "अहवाल धाडटा">
 <!ENTITY errorReporting.sent "अहवाल धाडला">
@@ -172,13 +173,11 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ह्या आडमेळा विशीं कळोवपाक मात्शे वेबसायट मालकांक संपर्क करात.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "सुरक्षित पणान जुळपाक शकना.">
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 

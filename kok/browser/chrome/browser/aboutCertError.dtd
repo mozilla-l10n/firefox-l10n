@@ -8,21 +8,6 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-
-<!ENTITY certerror.pagetitle  "विश्वास नाशिल्ली जोडणी">
-<!ENTITY certerror.longpagetitle "ह्या जोडणेर विश्वास ना">
-<!-- These are going to be used for the updated design in Bug 1207107 -->
-
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-
-<!ENTITY certerror.introPara1 "तुमी &brandShortName; सुरक्षित रीतीन 
- <b>#1</b>जोडपाक विचारलां, पुण तुमची जोडणी सुरक्षित आसा हाका आमी दुजोरो दिवपाक शकनात.">
-<!ENTITY certerror.introPara2 "सामान्यपणान, जेन्ना तुमी सुरक्षित रीतीन जोडपाक सोदता, 
-सायटी तुमका तुमी योग्य ठिकाणार चल्ल्यात हे दाखोवपाक विश्र्वासू वळख सादर करतल्यो
-मात, ह्या सायटीची वळख तपासपाक शकना.">
-<!-- These are going to be used for the udpated design in Bug 1207107 -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -30,17 +15,11 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.whatShouldIDo.heading "हांवे किदें करचे?">
-<!ENTITY certerror.whatShouldIDo.content "तुमी जर ह्या सायटीकडेन आडमेळाबगर 
-जोडपाक शकतात, ह्या एरराचो अर्थ असो की कोण तरी  
-सायट इंपर्सनेट करपाक सोदता आणि तुमी मुखार वचपाक फावना.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ही सायट HTTP वापरता 
 स्ट्रीक्ट ट्रान्स्पोर्ट सिक्युरिटी (HSTS) हे स्पश्ट करपाक की &brandShortName; फकत ताका 
 सुरक्षित रीतीन जोडटा. ताकालागून, ह्या प्रमाणपत्राक आडवाद जोडप 
 शक्य ना.">
-<!ENTITY certerror.getMeOutOfHere.label "माका हांगाच्यान भायर काडात!">
 
-<!ENTITY certerror.expert.heading "म्हाका भंय खबर आसात">
 <!ENTITY certerror.expert.content "किदे चल्ला हे जर तुमी जाणात, तुमच्यान 
  &brandShortName; क सांगपाक जाता की ह्या सायटीच्या वळखीचेर विश्र्वास दवरप सुरू कर 
 <b>जरी तुमी सायटीचेर विश्र्वास दवरतात, ह्या एरराचो अर्थ कोण तरी  
@@ -49,4 +28,3 @@ was trying to connect. -->
 आडवाद जोडू नाकात.">
 <!ENTITY certerror.addException.label "अपवाद जोडात...">
 
-<!ENTITY certerror.technical.heading "तंत्रिक तपशील">

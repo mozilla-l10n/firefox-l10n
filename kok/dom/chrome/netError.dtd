@@ -82,6 +82,10 @@
 <!ENTITY phishingBlocked.longDesc "<p>ह्या पानार कसलीय वैयक्तिक माहिती दिल्यार वळख चोरी वो हेर फटिंगपण जांव येता.</p> 
 <p>या प्रकारच्यो वेब चोरयो फिशिंग हल्ले म्हणतात तसल्या भानगडींनी वापल्ल्यो वतात. जातूंत फटिंग वेब पानां आणि ईमेल तुमी विश्र्वास दवरतात त्या स्त्रोतांची नक्कल करपाक वापल्ल्यो वतात.</p>">
 
+
+
+
+
 <!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणान प्रतिबंधित केलां">
 <!ENTITY cspBlocked.longDesc "<p>ब्रावजरान ह्या पानक अशेतरेन लोड जावपापासून आडयला कारण पानाक आशय सुरक्षा धोरण आसा जे अशे करपाक दिना.</p>">
 
@@ -90,10 +94,3 @@
 
 <!ENTITY remoteXUL.title "रिमोट XUL">
 <!ENTITY remoteXUL.longDesc "</p><ul><li>ह्या आडमेळाविशी कळोवपाक मात्शे तुमच्या वेबसायट मालकांक संपर्क करात.</li></ul>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;

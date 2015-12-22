@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection "  सर्वसादारण डेटा">
 
 
@@ -38,7 +39,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection " लेट बरोवप">
 
-<!ENTITY aboutTelemetry.systemInfoSection " व्यवस्था माहिती">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection " अॅड-ऑन्सान एकठाय केल्ले हिस्टोग्रॅम्स">
 
@@ -53,3 +53,4 @@
 <!ENTITY aboutTelemetry.hideSymbols " हँग्जातल्यान रॉ डेटा दाखयाच">
 
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रींग्ज वो /regexp/)">
+
