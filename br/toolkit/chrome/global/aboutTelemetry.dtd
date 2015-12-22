@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping kozhoc'h &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Sizhun">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Skrivadurioù diwezhat">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Titouroù ar reizhiad">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Tellunioù dastumet gant an askouezhioù">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Diskouez roadennoù diaoz ar sac'hadennoù">
 
 <!ENTITY aboutTelemetry.filterText "  Sil (hedadoù pe /riñvenn reoliek/)">
+
