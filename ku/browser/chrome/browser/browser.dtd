@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "H">
 <!ENTITY  unpinTab.label                     "Hilpekînê nesabît bike">
 <!ENTITY  unpinTab.accesskey                 "i">
-<!ENTITY  moveToGroup.label                  "Biguhêze komê">
-<!ENTITY  moveToGroup.accesskey              "m">
-<!ENTITY  moveToNewGroup.label               "Koma nû">
 <!ENTITY  moveToNewWindow.label              "Biguheze pencereyeke din">
 <!ENTITY  moveToNewWindow.accesskey          "B">
 
@@ -212,8 +209,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Serûpel">
 
-<!ENTITY tabGroupsButton.label        "Komên hilpekînan">
-
 <!ENTITY bookmarksButton.label          "Bijare">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -373,8 +368,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Nîşan bide"> 
 <!ENTITY viewMenu.accesskey       "b"> 
-<!ENTITY viewTabGroups.label            "Komên hilpekînan">
-<!ENTITY viewTabGroups.accesskey        "K">
 <!ENTITY viewToolbarsMenu.label       "Darikê Amûran"> 
 <!ENTITY viewToolbarsMenu.accesskey     "A"> 
 <!ENTITY viewSidebarMenu.label "Darikê Quncikê">
@@ -402,6 +395,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Danişîna berê veava bike">
 <!ENTITY appMenuHistory.viewSidebar.label "Darika kêlekê ya Raboriyê nîşan bide">
 <!ENTITY appMenuHelp.tooltip "Menuya Alîkariyê veke">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Têxe nav darikê amûran">
 <!ENTITY customizeMenu.addToToolbar.accesskey "T">
@@ -484,8 +489,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Girêdanê Di Hilpekîneke Nû De Veke">
 <!ENTITY openLinkCmdInTab.accesskey   "H">
@@ -747,9 +750,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Hilpekînên gerokê">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Hilpekînên cîhazên din">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -876,14 +877,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY panicButton.view.undoWarning             "Ev çalakî şûnde nayê anîn.">
-
-
-
-
-
-
-
-
 
 
 
