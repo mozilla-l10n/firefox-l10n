@@ -180,8 +180,6 @@
 <!ENTITY addons.label "Componenti aggiuntivi">
 <!ENTITY addons.accesskey "C">
 <!ENTITY addons.commandkey "A">
-<!ENTITY webapps.label "App">
-<!ENTITY webapps.accesskey "A">
 <!ENTITY webDeveloperMenu.label "Sviluppo web">
 <!ENTITY webDeveloperMenu.accesskey "v">
 <!ENTITY devToolsCmd.keycode "VK_F12">
