@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping tuichavéva; &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Arapokõindy">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection " Jehaipy mbotapykuéva">
 
-<!ENTITY aboutTelemetry.systemInfoSection " Mohendahavusu marandu">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histograma ombyatýva tembipuru'i">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols " Ehechauka mba'ekuaarã oñemboheko'ỹva jepytaite rehegua">
 
 <!ENTITY aboutTelemetry.filterText " Mbogua (joajuha térã /regexp/)">
+

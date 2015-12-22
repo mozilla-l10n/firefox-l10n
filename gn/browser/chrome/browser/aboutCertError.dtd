@@ -9,22 +9,8 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "Jeike jerovia'ỹ">
-<!ENTITY certerror.longpagetitle "Ko jeike ne'ĩra oñemboaje">
-<!-- These are going to be used for the updated design in Bug 1207107 -->
-
 <!ENTITY certerror.pagetitle1  "Jeikekatu'ỹ">
 <!ENTITY certerror.longpagetitle1 "Nde jeike ndahekokatúi">
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-
-<!ENTITY certerror.introPara1 "Ejerurékuri &brandShortName;-pe oike hag̃ua  
- jeroviápe <b>#1</b>-pe, hákatu ne'ĩra oñembojerovia pe jeike.">
-<!ENTITY certerror.introPara2 "Akóinte, reikétarõ jeroviápe, 
- tendakuéra ohechauka marandu oñemboajepyréva he'íva 
-reimeha tenda hekokatúvape. Upéicharõ jepe, ko tenda reraite ndaikatúikuri oñemboaje.">
-<!-- These are going to be used for the udpated design in Bug 1207107 -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -34,17 +20,11 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "Kuaave…">
 <!ENTITY certerror.advanced.label "Opanungáva">
 
-<!ENTITY certerror.whatShouldIDo.heading "Mba'épa rejapokuaa">
-<!ENTITY certerror.whatShouldIDo.content "Akóinte reikérõ ko 
- tendápe apañuãi'ỹre, ko jejavy ojehukuaa oĩgui 
- máva omyengoviaséva ko tenda, upévare resẽva'erã upégui.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ko tenda oipuru HTTP 
 (HSTS) omoha'eño &brandShortName; oike hag̃ua
 pype tekorosãme. Tembiapokuéramo, ndaikatúi embojoaju peteĩ oĩ'ỹva ko 
 mboajepyrépe.">
-<!ENTITY certerror.getMeOutOfHere.label "Cherenohẽ ko'águi">
 
-<!ENTITY certerror.expert.heading "Aikũmby oikokuaaha mba'evai">
 <!ENTITY certerror.expert.content "Reikuaárõ rejapóva, 
 rejopyva'erã &brandShortName;-pe ojerovia hag̃ua ko tenda reraitére. 
 <b> jepémo oĩ jerovia ko tendáre, ko jejavy he'ise oĩha tapicha 
@@ -53,4 +33,3 @@ rejopyva'erã &brandShortName;-pe ojerovia hag̃ua ko tenda reraitére. 
  oimérô ndereikuaaiporãi mba'érepa ko tenda ndoiporúi teraite mboajepyre.">
 <!ENTITY certerror.addException.label "Embojoapy oĩ'ỹva...">
 
-<!ENTITY certerror.technical.heading "Aporeko mba'emimi">

@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Apañuái oñemyenyhẽvo kuatiarogue">
 <!ENTITY retry.label "Eha'ãjey">
+
+
 <!-- Specific error messages -->
 
 
@@ -146,6 +148,8 @@ oike hãgua ñandutípe.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Oimeraẽva marandu avamba'éva ñemoinge ko kuatiaroguépe ikatu oipytyvõ téra ñemonda térã ambue mba'evairã.</p> 
 <p>Ko'ãichagua ñanduti vai ojepuru ojaho'i hag̃ua phishing (téra rekovia), kuatiarogue ha ñanduti veve ivaíva ojepuru oha'ãnga hag̃ua umi mba'e nde rejeroviaha.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Ojejoko hetepy rekorosãrã purureko rupi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ndohejái ko kuatiaroguépe oñemyañyhẽvo kóicha pe kuatiarogue oguereko rupi tetepy rekorosãrã purureko nomoneĩrĩva.</p>">
 
@@ -167,9 +171,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY errorReporting.title "Emomarandu ko jejavy rehegua">
-<!ENTITY errorReporting.longDesc "Emombe'u kundaharape marandu ha pe mboajepyréva <span id='hostname'></span> ñanepytyvõta jahechakuaa ha jajoko hag̃ua tenda imarãva. ¡Aguyje jepytyvõ haguére amoheñói hag̃ua peteĩ ñanduti jeroviaháva!">
-<!ENTITY errorReporting.automatic "Emomarandu pya'e jejavykuéra tenondeve g̃uarãva">
 <!ENTITY errorReporting.learnMore "Kuaave…">
 <!ENTITY errorReporting.sending "Marandu ñemondo">
 <!ENTITY errorReporting.sent "Marandu mondopyre">
@@ -180,16 +181,12 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Eñe'ẽ ñanduti renda jarakuéra ndive emomarandu hag̃ua chupekuéra ko apañuãi.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Ndaikatúi eikekatu">
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Marandu ha'etéva: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "Kuaave…">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
 <!ENTITY weakCryptoUsed.title "Nde jeike ndahekokatúi">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-<!ENTITY weakCryptoUsed.longDesc "Marandu opanungáva: ssl_error_no_cypher_overlap">
-<!ENTITY weakCryptoUsed.learnMore "Kuaave…">
-<!ENTITY weakCryptoAdvanced.title "Opanungáva">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> oipuru tembipuru pyahu tekorosãrã ituja ha ikangýmava mba'evai renondépe. Pe mba'evai ikatu ohechauka marandu nde eréva hekorosãha.">
 <!ENTITY weakCryptoAdvanced.override "(Jeroviaha'ỹva) Eñeha'ã emyenyhẽ <span class='hostname'></span> eipurukuévo tekorosãrã ndoikovéimava">

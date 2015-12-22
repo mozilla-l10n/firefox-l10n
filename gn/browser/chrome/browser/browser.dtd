@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Tendayke mombytapy mbogue">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "Atýpe jegueraha">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "Aty pyahu">
 <!ENTITY  moveToNewWindow.label              "Ovetã pyahúpe jegueraha">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Embosa'y opavave tendayke…">
@@ -201,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Ehechajey eñongatusépa neñe'ẽñemi">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Emohenda tembipuru'i marandu rehegua">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Eñangareko mboguejyrã'i jepuru ko kuatiaroguépe">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "Emoambue pe tenda nde ehechauseha kuatiahaipy">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Nde eipuruhína neta'ãngamýi ha / térã neñe'ẽataha ko tenda ndive">
@@ -222,8 +219,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Ñepyrũ">
-
-<!ENTITY tabGroupsButton.label        "Tendayke aty">
 
 <!ENTITY bookmarksButton.label          "Techaukaha">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -387,8 +382,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Hecha"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "Tendayke aty">
-<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Tembiporu renda"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "Ta'ãngarupa yke">
@@ -416,6 +409,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Tembiasakue ramovéva ñemopotĩ">
 <!ENTITY appMenuHistory.viewSidebar.label "Ta'ãngarupa yke rembiasakue jehecha">
 <!ENTITY appMenuHelp.tooltip "Poravorã ñepytyvõme jeike">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Tembipuru rendáre mbojoapy">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -509,8 +514,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "Emopyenda ijypykuévaramo ha jehekaha mongu'eha">
 <!ENTITY searchSetAsDefault.accesskey "D">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Tendayke pyahu joajuhápe jeike">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -780,9 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Kundahára rendayke">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Tendayke ambue mba'e'okaguáva">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -923,15 +924,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "Tembiasakue ipyahuvéva oñembogue.">
 <!ENTITY panicButton.thankyou.msg2                "¡Jeikekatu!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Aguyje">
-
-<!ENTITY processHang.terminateScript.label        "Script joko">
-<!ENTITY processHang.terminateScript.accessKey    "S">
-<!ENTITY processHang.debugScript.label            "Emopotī Script">
-<!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Kill ha Plugin">
-<!ENTITY processHang.terminatePlugin.accessKey    "P">
-<!ENTITY processHang.terminateProcess.label       "Kill Web Mba'eapo">
-<!ENTITY processHang.terminateProcess.accessKey   "K">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Hetave marandu  DRM y ...gui">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
