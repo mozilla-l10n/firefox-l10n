@@ -75,6 +75,8 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "Jūsų projektai">
 <!ENTITY projectPanel_runtimeApps "Programos įrenginyje">
@@ -86,6 +88,7 @@
 <!ENTITY runtimePanel_installsimulator "Įdiegti simuliatorių">
 <!ENTITY runtimePanel_noadbhelper "Įdiegti ADB pagelbiklį">
 <!ENTITY runtimePanel_nousbdevice "Nematote savo įrenginio?">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "patikra sėkminga">

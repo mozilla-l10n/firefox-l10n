@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Senesnis ryšio patikrinimas &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Savaitė">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ryšio patikrinimas">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Vėlavę įrašymai">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Sistemos duomenys">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Priedų sukauptos histogramos">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Rodyti neapdorotus strigčių duomenis">
 
 <!ENTITY aboutTelemetry.filterText "  Filtras (tekstas arba /reguliarusis reiškinys/)">
+
