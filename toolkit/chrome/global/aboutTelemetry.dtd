@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Régebbi ping &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Hét">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "Késői írások">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Rendszerinformációk">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Kiegészítők által gyűjtött hisztogramok">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Nyers adatok megjelenítése a lefagyásokból">
 
 <!ENTITY aboutTelemetry.filterText "Szűrő (karakterláncok vagy /regexp/)">
+
