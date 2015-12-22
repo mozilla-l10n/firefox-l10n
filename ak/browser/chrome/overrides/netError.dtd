@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Kratafa atwe ehyia mfomso">
 <!ENTITY retry.label "San Sɔ Hwɛ">
+
+
 <!-- Specific error messages -->
 
 
@@ -134,6 +136,8 @@ yɛ biribi ɛto betwa a ɛrennkyɛ koraa, anaaso wo pɛ a san sɔ hwɛ ekyiri yi
 <!ENTITY phishingBlocked.longDesc "<p>Wo rekyerɛw wo ho nsɛm wɔ krataafa yi so betumi ama obi ewia wo su, anaaso ewia wo sika anaaso biribi foforo.</p> 
 <p>Yɛfrɛ wɛb ndaadaa te sɛ yinom sɛ Intanɛt sakawa, a binom nam emel ne wɛb nkrataafa so de yɛ wɔn ho sɛ obia a wobetumi de wo were ahyɛ wɔn mu.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Kɔntɛnt Sikuriti Mbra esi no kwan">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; sii krataafa yi kwan sɛ ɔbeloode wɔ kwan yi so efiri sɛ krataafa no wɔ sikuriti mbra bi a ɔmma biribi te sɛ yi ho kwan.</p>">
 
@@ -161,18 +165,14 @@ functionality specific to firefox. -->
 
 
 
-
-
 <!ENTITY remoteXUL.title "XUL remoot">
 <!ENTITY remoteXUL.longDesc "<p><ul><li> Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 

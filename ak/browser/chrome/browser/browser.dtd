@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "T">
 <!ENTITY  unpinTab.label                     "Yi tab ntim">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "Soa-kɔ kuw mu">
-<!ENTITY  moveToGroup.accesskey              "S">
-<!ENTITY  moveToNewGroup.label               "Kuw foforo">
 <!ENTITY  moveToNewWindow.label              "Soa-kɔ tokura foforo so">
 <!ENTITY  moveToNewWindow.accesskey          "f">
 
@@ -212,8 +209,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Fie">
 
-<!ENTITY tabGroupsButton.label        "Tab nkuw">
-
 <!ENTITY bookmarksButton.label          "Mbukmaak">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -373,8 +368,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Hwɛ"> 
 <!ENTITY viewMenu.accesskey       "H"> 
-<!ENTITY viewTabGroups.label            "Tab nkuw">
-<!ENTITY viewTabGroups.accesskey        "k">
 <!ENTITY viewToolbarsMenu.label       "Ntuulbaa"> 
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Nkyɛn-baa">
@@ -402,6 +395,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Fa sɛhyɛn dadaw no san bra.">
 <!ENTITY appMenuHistory.viewSidebar.label "Hwɛ abakɔsɛm saedbaa">
 <!ENTITY appMenuHelp.tooltip "Bue mboa mɛnu">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Fa ka tuulbaa no ho">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -484,8 +489,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Bue Link wɔ Tab Foforo mu">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -747,9 +750,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Brawsa ntab">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Ntab firi akɔmputa afoforo">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Synk">
 
@@ -875,14 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY panicButton.view.undoWarning             "Wɔrenntumi nnsane wo ekyiri sɛ wo kɔ so di dwumadi yi a.">
-
-
-
-
-
-
-
-
 
 
 
