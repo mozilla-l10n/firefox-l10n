@@ -106,6 +106,10 @@ Jéemaatal.</p>">
 <p>Dali royaal yii dañuleen di faral di jëfandikoo ci ay e mail foród 
 ngir di song songu doolinka ngir toppandoo cosaan yi nga wóolu.</p>">
 
+
+
+
+
 <!ENTITY cspBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
 <!ENTITY cspBlocked.longDesc "<p>Joowkat bi dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko naguwul.</p>">
 
@@ -114,10 +118,3 @@ ngir di song songu doolinka ngir toppandoo cosaan yi nga wóolu.</p>">
 
 <!ENTITY remoteXUL.title "XUL bu sori">
 <!ENTITY remoteXUL.longDesc "<ul><li>Jokkool ak boroomi dalub web ngir yëgal leen jafe jafe bi.</li></ul>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;

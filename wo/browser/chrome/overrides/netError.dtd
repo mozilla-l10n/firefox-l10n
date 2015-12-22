@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Jumte ci yebum xët wi">
 <!ENTITY retry.label "Jéemaatal">
+
+
 <!-- Specific error messages -->
 
 
@@ -124,6 +126,8 @@ mën nga jéemaat ci kanam.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Dugal say xibaari bopp ci xët bile mën na tax ñu sacc sa dantite walla beneen foród.</p> 
 <p>Giiri dali royaal yu ni mel dañu leen di jëfandikoo ci ay e mail foród ngir di song songu dolinka, da ñuy toppandoo ay cosaan yoo wóolu .</p>">
 
+
+
 <!ENTITY cspBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko nanguwul.</p>">
 
@@ -151,18 +155,14 @@ functionality specific to firefox. -->
 
 
 
-
-
 <!ENTITY remoteXUL.title "XUL bu sori">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jokkool ak boroomi dalul web bi ngir wax leen jafe jafe bi.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 

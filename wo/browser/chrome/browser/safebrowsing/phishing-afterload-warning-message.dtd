@@ -8,14 +8,17 @@
 <!ENTITY safeb.palm.reportPage.label "Lu tax ñu boloke dal bi?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Xët bu bon !">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Dalub web bi ci <span id='malware_sitename'/> Yéene nañu ni dal bu bon la te boloke nañu ko, ñu ngi sukkandiku ci say taamu kaarange.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Xët yu bon yi dañuy jéema samp ay porogaraam yuy sacc say xibaar, di jëfandikoo sa ordinatëër ngir song yeneen walla ñu yaq sa doxalin.</p><p>Xët yu bari da ñuy tay di yonnee ay xeltéef yu bon, wante xët yu bari dañuy taq te seen boroom yëgul.</p>">
 
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
 <!ENTITY safeb.blocked.phishingPage.title "Dalu royaal !">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Dalub web bi ci <span id='phishing_sitename'/> yéene nañu ni royaal la, boloke nañu ko, ñi ngi sukkandiku ci say taamu kaarange .">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Dalub web royaal yi seen liggéey mooy indi la ba nga joxe say, ni mu kooy defe mooy toppandoo dal yi nga wóólu .</p><p>Dugal ay xibaar ci xët wile mën na jur saccum dantite walla leneen.</p>">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
