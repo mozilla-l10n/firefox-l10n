@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Di barkirina rûpelê de çewtî">
 <!ENTITY retry.label "Dîsa Biceribîne">
+
+
 <!-- Specific error messages -->
 
 
@@ -120,6 +122,8 @@ bi alîkariya şîfrekirina ewle.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Dibe ku agahiyên bikevî vê malperê bibin sedema dizîna agahiyên te yên takekesî.</p> 
 <p>Ev cure malperên sextekar xwe wekî ewle nîşan didin lê êrîşên nepen dikin.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
 <!ENTITY cspBlocked.longDesc "<p>Ji ber ku di vê rûpelê de naverokeke dijberî peymana ewlekariyê heye, &brandShortName;ê ew asteng kir.</p>">
 
@@ -141,8 +145,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
 <!ENTITY errorReporting.learnMore "Bêtir bizane…">
 
 
@@ -152,13 +154,11 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XULa dûr">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tika ye ji bo çareserkirina vê pirsgirêkê bi xwediyê malperê re bikeve têkiliyê.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 
