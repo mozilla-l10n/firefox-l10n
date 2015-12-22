@@ -22,5 +22,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "صفحهٔ به نشانی <span id='phishing_sitename'/> به عنوان یک جعل وبی گزارش شده است و دسترسی به آن بر اساس ترجیحات امنیتی شما مسدود شده است.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>جعل‌های وبی برای فریب دادن شما توسط تقلید از منابعی که ممکن است مورد اطمینان شما باشند به جهت افشای اطلاعات شخصی یا مالی شما طراحی گردیده‌اند.</p><p>وارد کردن هر گونه اطلاعاتی در این صفحهٔ وبی ممکن است منجر به دزدیده شدن هویت شما یا تقلب‌های دیگری منجر شود.</p>">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "سایت ممنوع">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "صفحه وب در <span id='forbidden_sitename'/> بر اساس پیکربندی مرورگر شما مسدود شده است.">
 
