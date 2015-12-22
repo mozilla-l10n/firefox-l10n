@@ -62,9 +62,12 @@
 
 
 
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 
 <!ENTITY projectPanel_tabs "Tabs">
+
 
 
 
