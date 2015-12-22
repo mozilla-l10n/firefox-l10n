@@ -75,6 +75,8 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "គម្រោង​របស់​ខ្ញុំ">
 <!ENTITY projectPanel_runtimeApps "ពេលវេលា​ដំណើរការ​កម្មវិធី">
@@ -86,6 +88,7 @@
 <!ENTITY runtimePanel_installsimulator "ដំឡើង​កម្មវិធី​និម្មិត">
 <!ENTITY runtimePanel_noadbhelper "ដំឡើង​កម្មវិធី​ជំនួយ ADB">
 <!ENTITY runtimePanel_nousbdevice "មិន​អាច​មើល​ឧបករណ៍​របស់​អ្នក?">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "ត្រឹមត្រូវ">

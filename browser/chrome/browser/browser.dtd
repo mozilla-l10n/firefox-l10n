@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ដោះ​​ខ្ទាស់​ផ្ទាំង">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "ផ្លាស់ទី​ទៅកាន់​ក្រុម">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "ក្រុម​ថ្មី">
 <!ENTITY  moveToNewWindow.label              "ផ្លាស់ទី​ទៅកាន់​បង្អួច​ថ្មី">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "ចំណាំ​ផ្ទាំង​​ទាំងអស់…">
@@ -218,8 +215,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "ដើម">
 
-<!ENTITY tabGroupsButton.label        "ក្រុម​ផ្ទាំង">
-
 <!ENTITY bookmarksButton.label          "ចំណាំ">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -382,8 +377,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "មើល"> 
 <!ENTITY viewMenu.accesskey       "ម"> 
-<!ENTITY viewTabGroups.label            "ក្រុមផ្ទាំង">
-<!ENTITY viewTabGroups.accesskey        "ផ">
 <!ENTITY viewToolbarsMenu.label       "របារ​ឧបករណ៍"> 
 <!ENTITY viewToolbarsMenu.accesskey     "រ"> 
 <!ENTITY viewSidebarMenu.label "របារ​ចំហៀង">
@@ -411,6 +404,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "ស្ដារ​សម័យ​មុន">
 <!ENTITY appMenuHistory.viewSidebar.label "មើល​របារ​ចំហៀង​ប្រវត្តិ">
 <!ENTITY appMenuHelp.tooltip "បើក​ម៉ឺនុយ​ជំនួយ">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "បន្ថែម​ទៅ​របារ​ឧបករណ៍">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ប">
@@ -504,8 +509,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "កំណត់​ជា​ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម">
 <!ENTITY searchSetAsDefault.accesskey "D">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "បើក​តំណ​ក្នុងផ្ទាំង​ថ្មី">
 <!ENTITY openLinkCmdInTab.accesskey   "ផ">
@@ -775,9 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ផ្ទាំង​កម្មវិធី​អ៊ីនធឺណិត">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "ផ្ទាំង​ពី​ឧបករណ៍​ផ្សេងទៀត">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "ធ្វើ​សមកាលកម្ម">
 
@@ -918,15 +919,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "ប្រវត្តិ​បច្ចុប្បន្ន​របស់​អ្នក​ត្រូវ​បាន​សម្អាត។">
 <!ENTITY panicButton.thankyou.msg2                "ការ​រុករក​សុវត្ថិភាព!">
 <!ENTITY panicButton.thankyou.buttonlabel         "អរគុណ!">
-
-<!ENTITY processHang.terminateScript.label        "បញ្ឈប់​ស្គ្រីប">
-<!ENTITY processHang.terminateScript.accessKey    "ប">
-<!ENTITY processHang.debugScript.label            "បំបាត់​កំហុស​ស្គ្រីប">
-<!ENTITY processHang.debugScript.accessKey        "ប">
-<!ENTITY processHang.terminatePlugin.label        "បញ្ឈប់កម្មវិធី​ជំនួយ">
-<!ENTITY processHang.terminatePlugin.accessKey    "ក">
-<!ENTITY processHang.terminateProcess.label       "បញ្ឈប់​ដំណើរការ​វេបសាយ">
-<!ENTITY processHang.terminateProcess.accessKey   "ប">
 
 <!ENTITY emeLearnMoreContextMenu.label            "ស្វែងយល់​បន្ថែម​អំពី DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
