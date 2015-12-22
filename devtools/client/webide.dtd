@@ -147,6 +147,7 @@
 <!ENTITY wifi_auth_no_scanner "Nessuna richiesta di scansione del QR?">
 <!ENTITY wifi_auth_yes_scanner "Viene visualizzata una richiesta di scansione del QR?">
 <!ENTITY wifi_auth_token_request "Se l’altro dispositivo richiede un token invece della scansione di un codice QR, inserire il seguente codice:">
+<!ENTITY wifi_auth_qr_size_note "Se il codice QR risulta troppo piccolo per effettuare la scansione, provare a ingrandire la finestra o aumentare lo zoom.">
 <!ENTITY logs_title "Registro comandi pre-packaging">
 <!ENTITY simulator_title "Opzioni simulatore">
 <!ENTITY simulator_remove "Elimina simulatore">
