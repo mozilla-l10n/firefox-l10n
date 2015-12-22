@@ -114,7 +114,7 @@
 <!ENTITY shareSelect.accesskey "i">
 <!ENTITY shareVideo.label "Condividi questo video">
 <!ENTITY shareVideo.accesskey "i">
-<!ENTITY feedsMenu.label "Abbonati">
+<!ENTITY feedsMenu2.label "Abbonati a questa pagina">
 <!ENTITY subscribeToPageMenupopup.label "Abbonati a questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abbonati a questa pagina…">
 <!ENTITY addCurPagesCmd.label "Tutte le schede nei segnalibri…">
