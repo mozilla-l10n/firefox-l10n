@@ -8,21 +8,6 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-
-<!ENTITY certerror.pagetitle  "Найдваргүй холболт">
-<!ENTITY certerror.longpagetitle "Энэ холболт найдвартай биш">
-<!-- These are going to be used for the updated design in Bug 1207107 -->
-
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-
-<!ENTITY certerror.introPara1 "Та &brandShortName; ашиглан 
-<b>#1</b>-тай нууцлалтай холболт хийхийг хүссэн боловч бид таны холболтыг найдвартай гэж баталж чадахгүй нь.">
-<!ENTITY certerror.introPara2 "Ердийн үед хэрэв та нууцлалтай холболт хийх тохиолдолд, 
-холбогдож байгаа хуудаснууд өөрсдийгөө таниулахуйц итгэмжлэгдсэн таних дугаар харуулдаг. 
-Гэтэл энэ хуудасны итгэмжлэх таних дугаарыг шалгаж чадахгүй байна.">
-<!-- These are going to be used for the udpated design in Bug 1207107 -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -30,13 +15,7 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.whatShouldIDo.heading "Би юу хийх хэрэгтэй вэ?">
-<!ENTITY certerror.whatShouldIDo.content "Хэрэв та урьд нь энэ хуудсанд ямар ч хүндрэлгүй ордог байсан бол 
-хэн нэгэн уг хуудастай адилхан харагдах гэсэн оролдлог байж болзошгүй болохоор та цааш нь үргэлжлүүлэх хэрэггүй.">
 
-<!ENTITY certerror.getMeOutOfHere.label "Эндээс намайг гарга!">
-
-<!ENTITY certerror.expert.heading "Би эрсдлийг нь ойлголоо">
 <!ENTITY certerror.expert.content "Хэрэв та юу болж байгааг ойлгосон бол энэ хуудасны 
 таних дугаарыг &brandShortName;-д итгэмжлүүлж болно. 
 <b>Хэдийгээр та энэ хуудсанд итгэдэг ч, энэ гарсан алдаа нь таны холболтоор хэн нэг нь оролдож байгааг илэрхийлж байж болдзошгүй билээ.</b>">
@@ -44,4 +23,3 @@ was trying to connect. -->
 шалтгааныг баттай мэдээгүй бол онцгой нөхцлийн жагсаалтанд бүү нэм.">
 <!ENTITY certerror.addException.label "Онцгой нөхцөл…">
 
-<!ENTITY certerror.technical.heading "Техникийн мэдээлэл">

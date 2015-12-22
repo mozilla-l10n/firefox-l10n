@@ -42,9 +42,6 @@ can reach it easily. -->
 
 
 
-
-
-
 <!ENTITY  closeTab.label                     "Самбарыг хаа">
 <!ENTITY  closeTab.accesskey                 "С">
 
@@ -204,7 +201,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -339,8 +335,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Харагдац"> 
 <!ENTITY viewMenu.accesskey       "ц"> 
-
-
 <!ENTITY viewToolbarsMenu.label       "Багажит самбарууд"> 
 <!ENTITY viewToolbarsMenu.accesskey     "Б"> 
 <!ENTITY viewSidebarMenu.label "Хажуу самбарт">
@@ -363,6 +357,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+
+
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
 
 
 
@@ -439,7 +445,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-
 
 
 
@@ -696,7 +701,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 
 
@@ -805,14 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY panicButton.view.undoWarning             "Энэ үйлдлийг буцаах боломжгүйг анхаарна уу.">
-
-
-
-
-
-
-
-
 
 
 
