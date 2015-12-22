@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Преглед">
 <!ENTITY viewMenu.accesskey                             "г">
 <!ENTITY viewToolbarsMenu.label                         "Траке са алатима">
-<!ENTITY viewToolbarsMenu.accesskey                     "Т"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "Т">
 <!ENTITY menubarCmd.label                               "Трака са менијем">
 <!ENTITY menubarCmd.accesskey                           "Т">
 <!ENTITY showAbToolbarCmd.label                         "Трака са алатима за именик">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Панел са контактима">
 <!ENTITY showContactPane2.accesskey                     "к">
 <!ENTITY menu_ShowNameAs.label                          "Прикажи име као">
-<!ENTITY menu_ShowNameAs.accesskey                      "м"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "м">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Име Презиме">
-<!ENTITY firstLastCmd2.accesskey                        "и"> 
+<!ENTITY firstLastCmd2.accesskey                        "и">
 <!ENTITY lastFirstCmd.label                             "Презиме, Име">
 <!ENTITY lastFirstCmd.accesskey                         "п">
 <!ENTITY displayNameCmd.label                           "Име за приказ">
@@ -128,7 +128,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.label                       "Поставке">
 <!ENTITY preferencesCmdUnix.accesskey                   "в">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Нови контакт">
 <!ENTITY newContactButton.accesskey                     "к">
 <!ENTITY newlistButton.label                            "Нови списак">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "П">
 <!ENTITY newIM.label                                    "Инстант порука">
 <!ENTITY newIM.accesskey                                "И">
+<!ENTITY printButton.label                              "Штампај…">
+<!ENTITY printButton.accesskey                          "р">
 <!ENTITY deleteButton2.label                            "Обриши">
 <!ENTITY deleteButton2.accesskey                        "О">
 
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Уреди изабрану ставку">
 <!ENTITY newmsgButton.tooltip                           "Пошаљи е-поруку">
 <!ENTITY newIM.tooltip                                  "Пошаљи инстант поруку или ћаскај">
-<!ENTITY deleteButton2.tooltip                           "Обриши изабрану ставку">
+<!ENTITY deleteButton2.tooltip                          "Обриши изабрану ставку">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Именици">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Прикажи ову адресу на карти са веба">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "Прозор">
-<!ENTITY minimizeWindow.label "Смањи">
-<!ENTITY minimizeWindow.key "м">
-<!ENTITY bringAllToFront.label "Пренеси све напред">
-<!ENTITY zoomWindow.label "Зумирај">
+<!ENTITY windowMenu.label                               "Прозор">
+<!ENTITY minimizeWindow.label                           "Смањи">
+<!ENTITY minimizeWindow.key                             "м">
+<!ENTITY bringAllToFront.label                          "Пренеси све напред">
+<!ENTITY zoomWindow.label                               "Зумирај">
