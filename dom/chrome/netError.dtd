@@ -82,6 +82,11 @@
 <!ENTITY phishingBlocked.longDesc "<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p> 
 <p>Aquestes tipes de contrefaiçon de sites son utilizats dins de corrièrs electronics frauduloses concebuts per d'atacs per anquetatage (o phishing), dins las qualas las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts dins las qualas avètz fisança.</p>">
 
+
+
+<!ENTITY securityOverride.linkText "O podètz apondre una excepcion…">
+
+
 <!ENTITY cspBlocked.title "Blocat per Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>Lo navigador a empachat lo cargament d'aquesta pagina d'aqueste biais perque la pagina a una estrategia de seguretat de contengut que lo permet pas.</p>">
 
@@ -90,10 +95,3 @@
 
 <!ENTITY remoteXUL.title "XUL distant">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
