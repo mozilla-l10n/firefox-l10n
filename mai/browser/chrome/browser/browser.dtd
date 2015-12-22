@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "टैबक पिन निकालू">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "समूहमे घसकाउ">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "नव समूह">
 <!ENTITY  moveToNewWindow.label              "नव विंडो मे घसकाउ">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "सबहि टैबकेँ पुस्तचिन्हित करू (T)…">
@@ -201,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "जाँचू जँ अहाँ अपन कूटशब्द सहेजे चाहैत छी">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "एप्प स्थापन संदेश देखू">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "इ पृष्ठ पर प्लगइन उपयोग प्रबंधि‍त करू">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "बदलू नहि तँ साइट अहाँक अधि‍सूचना देखाए सकैत अछि">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "साइट संगे अपन कैमरा आ माइक्रोफोन साझा करबाक व्यवस्था प्रबंधि‍त करू">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "अहाँ साइट सँग अपन कैमरा आओर / या माइक्रोफोन साझा कए रहल छी ">
@@ -222,8 +219,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "घर">
-
-<!ENTITY tabGroupsButton.label        "टैब समूह">
 
 <!ENTITY bookmarksButton.label          "पुस्तकचिह्न">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -387,8 +382,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "दृश्य"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "टैब समूह">
-<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "अओजारपट्टी"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "बाज़ू पट्टी">
@@ -416,6 +409,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "पछिला सत्र फेर बहाल करू">
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी देखाबू">
 <!ENTITY appMenuHelp.tooltip "मदति मेनू खोलू">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "अओज़ार पट्टी मे जोड़ू (A)">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -509,8 +514,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "तयशुदा सर्च इंजिन रूपेँ सेट करू (D)">
 <!ENTITY searchSetAsDefault.accesskey "D">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "नव टैब मे कड़ी खोलू">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -780,9 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ब्राउजर टैब">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "आन युक्तिसँ टैब">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -923,15 +924,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "अहाँक हालिया इतिहास साफ कएल गेल.">
 <!ENTITY panicButton.thankyou.msg2                "सुरक्षित ब्राउजिंग!">
 <!ENTITY panicButton.thankyou.buttonlabel         "शुक्रिया!">
-
-<!ENTITY processHang.terminateScript.label        "स्क्रिप्ट रोकू">
-<!ENTITY processHang.terminateScript.accessKey    "S">
-<!ENTITY processHang.debugScript.label            "स्क्रिप्ट डिबग करू ">
-<!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "प्लगिन समाप्त करू">
-<!ENTITY processHang.terminatePlugin.accessKey    "P">
-<!ENTITY processHang.terminateProcess.label       "वेब प्रक्रिया समाप्त करू">
-<!ENTITY processHang.terminateProcess.accessKey   "K">
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM केर संबंध मे बेसी जानू…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">

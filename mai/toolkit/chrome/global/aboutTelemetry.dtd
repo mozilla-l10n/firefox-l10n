@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "पुरान पिंग &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "सप्ताह">
 
 <!ENTITY aboutTelemetry.archivePingHeader "पिंग">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "किछु देर सँ लिखू">
 
-<!ENTITY aboutTelemetry.systemInfoSection "सिस्टम जानकारी">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "आयत छवि एड-ओन द्वारा एकत्रित ">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "देखाबू कच्चा आंकड़ा झूलए सँ">
 
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिंग अथवा /regexp/)">
+
