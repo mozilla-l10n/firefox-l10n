@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "L'acesso a-a pòrta o l'é dizabilitou pe raxoin de seguessa">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "No trovo l'indirisso">
+<!ENTITY dnsNotFound.title "No trövo l'indirisso">
 <!ENTITY dnsNotFound.longDesc "<ul>
   <li>Contròlla che l'indirisso o no l'agge di eroî comme
     <strong>ww</strong>.ezenpio.com invece de
