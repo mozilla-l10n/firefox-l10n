@@ -56,7 +56,6 @@
 <!ENTITY performanceUI.enableFramerate.tooltiptext "Frequenza con cui viene registrata la profilazione.">
 <!ENTITY performanceUI.enableJITOptimizations "Registra ottimizzazioni JIT">
 <!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Registra ottimizzazioni JIT rilevate in ogni frame JavaScript.">
-<!ENTITY performanceUI.JITOptimizationsTitle "Ottimizzazioni JIT">
 <!ENTITY performanceUI.console.recordingNoticeStart "Registrazione attuale via">
 <!ENTITY performanceUI.console.recordingNoticeEnd "">
 <!ENTITY performanceUI.console.stopCommandStart "Interrompere la registrazione digitando">
