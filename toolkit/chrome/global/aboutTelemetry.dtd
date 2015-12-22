@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping zaharragoa &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Astea">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Idazketa berantiarrak">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Sistemaren informazioa">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Gehigarriek bildutako histogramak">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Erakutsi esekitzeen datu gordinak">
 
 <!ENTITY aboutTelemetry.filterText "  Iragazi (kateak edo /adierazpen-erregularra/)">
+

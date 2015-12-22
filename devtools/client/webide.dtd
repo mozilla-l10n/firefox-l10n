@@ -75,6 +75,8 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "Nire proiektuak">
 <!ENTITY projectPanel_runtimeApps "Exekuzio-inguruneko aplikazioak">
@@ -86,6 +88,7 @@
 <!ENTITY runtimePanel_installsimulator "Instalatu simulatzailea">
 <!ENTITY runtimePanel_noadbhelper "Instalatu ADB laguntzailea">
 <!ENTITY runtimePanel_nousbdevice "Ezin duzu zure gailua ikusi?">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "baliozkoa">

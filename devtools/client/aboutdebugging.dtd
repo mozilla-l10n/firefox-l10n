@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Gehigarriak">
 <!ENTITY aboutDebugging.addonDebugging.label       "Gaitu gehigarrien arazketa">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Aukera hau gaituz gero, gehigarriak eta nabigatzailearen interfazearen beste hainbat zati araztu ahal izango dituzu">
+
 <!ENTITY aboutDebugging.workers                    "Langileak">
