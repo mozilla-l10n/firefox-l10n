@@ -184,6 +184,6 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Informação avançada: SSL_ERROR_NO_CYPHER_OVERLAP">
-
+<!ENTITY weakCryptoAdvanced.title "Avançado">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnologia de segurança que está desatualizada e vulnerável a ataque. Um atacante pode facilmente revelar informação que pensasse ser segura.">
 <!ENTITY weakCryptoAdvanced.override "(Não seguro) Tente carregar <span class='hostname'></span> utilizando segurança desatualizada">
