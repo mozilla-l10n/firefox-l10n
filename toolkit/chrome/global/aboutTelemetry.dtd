@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Stariji ping &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Tjedan">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Zakašnjela zapisivanja">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Informacije o sustavu">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogrami koje su prikupili dodaci">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Prikaži neobrađene podatke od smrzavanja raw data from hangs">
 
 <!ENTITY aboutTelemetry.filterText "  Filtriraj (tekst ili /regexp/)">
+

@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Dodaci">
 <!ENTITY aboutDebugging.addonDebugging.label       "Omogući otklanjanje grešaka u dodacima">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Uključivanje ove opcije će vam dopustiti otklanjanje grešaka u dodacima i ostalim dijelovima chromea web preglednika">
+
 <!ENTITY aboutDebugging.workers                    "Workeri">
