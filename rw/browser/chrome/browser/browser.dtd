@@ -43,9 +43,6 @@ can reach it easily. -->
 
 
 
-
-
-
 <!ENTITY tabCmd.label "Agafishi Gashya">
 <!ENTITY tabCmd.accesskey "f">
 
@@ -198,7 +195,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "Gushakisha">
 <!-- Toolbar items -->
 
-
 <!ENTITY bookmarksButton.label          "Utumenyetso">
 
 
@@ -338,8 +334,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Kureba"> 
 <!ENTITY viewMenu.accesskey       "r"> 
-
-
 <!ENTITY viewToolbarsMenu.label       "Imyanyabikoresho"> 
 <!ENTITY viewToolbarsMenu.accesskey     "y"> 
 <!ENTITY viewSidebarMenu.label "Umwanyaruhande">
@@ -361,6 +355,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+
+
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
 
 
 
@@ -438,7 +444,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-
 
 
 
@@ -687,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 
 
@@ -788,14 +793,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-
-
-
-
-
-
-
 
 
 
