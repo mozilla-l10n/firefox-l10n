@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection "  Dữ liệu chung">
 
 
@@ -39,7 +40,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Ghi trễ">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Thông tin hệ thống">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "   Biểu đồ Thu thập bởi Tiện ích mở rộng ">
 
@@ -54,3 +54,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "   Hiện dữ liệu thô từ các lần treo ">
 
 <!ENTITY aboutTelemetry.filterText "  Bộ lọc (chuỗi bình thường hoặc /regexp/)">
+

@@ -83,6 +83,10 @@
 <!ENTITY phishingBlocked.longDesc "<p>Nếu bạn nhập bất kì thông tin nào vào trang này thì có thể dẫn đến việc bị trộm danh tính hoặc gặp các hình thức lừa đảo khác.</p>
 <p>Những kiểu trang web giả mạo này được dùng trong các âm mưu lừa đảo - còn gọi là 'tấn công thả mồi giả' (phishing attack), trong đó chúng thường giả mạo thành các trang web và email mà bạn tin tưởng.</p>">
 
+
+
+
+
 <!ENTITY cspBlocked.title "Bị chặn bởi Chính sách bảo mật nội dung">
 <!ENTITY cspBlocked.longDesc "<p>Trình duyệt bảo vệ trang này khỏi việc tải theo cách này bởi vì nó có một chính sách bảo mật nội dung không cho phép việc này.</p>">
 
@@ -91,10 +95,3 @@
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vui lòng liên hệ với chủ trang web để báo với họ vấn đề này.</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
