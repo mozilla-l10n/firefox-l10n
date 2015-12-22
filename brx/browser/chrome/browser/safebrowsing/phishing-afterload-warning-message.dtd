@@ -8,14 +8,17 @@
 <!ENTITY safeb.palm.reportPage.label "बे बिलाइखौ मानो ब्लक खालामदोंमोन?">
 
 <!ENTITY safeb.blocked.malwarePage.title "रिपर्ट होनाय गाग्लोबनाय बिलाइ!">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> आव थानाय बे वेब बिलाइखौ मोनसे गाग्लोबनाय बिलाइ महरै रिपर्ट खालामबाय आरो नोंथांनि रैखाथि पसन्दआव सोनारनानै ब्लक खालामबाय।">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>गाग्लोबनाय बिलाइआ प्राइभेट फोरमायथिहोग्रा खावनाय प्रग्रामखौ इनष्टल खालामनो नाजायो, गुबुनखौ गाग्लोबनो नोंथांनि कम्पुटारखौ बाहाय, एबा नोंथांनि सिस्टेमखौ खहा खालाम।</p><p>माखासे गाग्लोबनाय बिलाइआ खहागोनां सफ्टवेयारखौ गोसो मथे रानना होयो, नाथाय बिसोरनि बिगोमानो मोनथिहोयाबालानो एबा बिसोरनि गनायथि गैयाबालानो गोबांआनो गनायलायो।</p>">
 
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
 <!ENTITY safeb.blocked.phishingPage.title "रिपर्ट खालामखानाय वेब नंखाय!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> आव थानाय बे वेब बिलाइखौ मोनसे वेब नंखाय महरै रिपर्ट खालामबाय आरो नोंथांनि रैखाथि पसन्दआव सोनारनानै ब्लक खालामबाय।">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>नोंथाङा फोथायनाय फुंखाखौ नखल खालामनानै निजि एबा राङारि फोरमायथिहोग्रा दिन्थिनानै वेब नंखायखौ नोंथांखौ थगायनो डिजाइन खालामनाय जायो।</p><p>जायखि जाया फोरमायथिहोग्राखौ बे बिलाइआव हाबहोयोब्ला सिखाव एबा गुबुन थगायनायखौ सिनायनो हागौ जानांगौ।</p>">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+

@@ -75,6 +75,8 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "आंनि प्रजेक्ट">
 <!ENTITY projectPanel_runtimeApps "रानटाइम एप्स">
@@ -86,6 +88,7 @@
 <!ENTITY runtimePanel_installsimulator "दिन्थिफ्लाग्राखौ इनष्टल खालाम">
 <!ENTITY runtimePanel_noadbhelper "ADB हेल्पारखौ इनष्टल खालाम">
 <!ENTITY runtimePanel_nousbdevice "नोंथांनि डिभाइसखौ नायनो हाया?">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "बाहाय जाथाव">

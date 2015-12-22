@@ -8,21 +8,6 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-
-<!ENTITY certerror.pagetitle  "फोथायजायै फोनांजाब">
-<!ENTITY certerror.longpagetitle "बे फोनांजाबा फोथायजायै">
-<!-- These are going to be used for the updated design in Bug 1207107 -->
-
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-
-<!ENTITY certerror.introPara1 "नोंथाङा &brandShortName; खौ <b>#1</b> जों रैखाथियै फोनांजाब खालामनो
-थिनबाय, नाथाय जों नोंथांनि फोनांजाबआ रैखाथि होननानै रोखा खालामनो हाया।">
-<!ENTITY certerror.introPara2 "सरासनस्रायै, नोंथाङा रैखाथियै फोनांजाब खालामनाय समाव,
-नोंथाङा थार जायगायाव थांगासिनो दं होननानै फोरमान खालामनो थाखाय
-साइटआ फोथायथाव सिनायथिखौ दिन्थिगोन। अदेबानि, बे साइटनि सिनायथिखौ थारबिजिरनो हाया।">
-<!-- These are going to be used for the udpated design in Bug 1207107 -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -30,17 +15,11 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.whatShouldIDo.heading "आं मा खालामनांगौ?">
-<!ENTITY certerror.whatShouldIDo.content "नोंथाङा जेबो जेंना गैयाबालानो बे साइटजों सरासनस्रायै फोनांजाब खालामोब्ला 
-बे गोरोन्थिनि ओंथिया जाबाय सोरबा साइटखौ बाहायनो नाजागासिनो दं, आरो 
-नोंथाङा सालाय लांबाय थानो नाङा।">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "&brandShortName; आ रैखाथियै फोनांजाब खालामो होननानै थिक खालामनो
 बे साइटआ HTTP स्ट्रिक्ट ट्रेन्सपर्ट सिकिउरिटि (HSTS)खौ बाहायो।
 बेनि जाउनाव, बे सार्टिफिकेटनि थाखाय मोनसे एंगारनाय दाजाबदेरनो
 सम्भाव नङा।">
-<!ENTITY certerror.getMeOutOfHere.label "बेनिफ्राय गोजानाव थां!">
 
-<!ENTITY certerror.expert.heading "आं खैफोदखौ बुजियो">
 <!ENTITY certerror.expert.content "नोंथाङा बुजियोब्ला बे साइटनि सिनायथिखौ फोथायनो थाखाय 
 नोंथाङा &brandShortName; नो खिन्थानो हायो।
 <b>नोंथाङा साइटखौ फोथायोब्लाबो बे गोरोन्थिनि ओंथिया जाबाय
@@ -49,4 +28,3 @@ was trying to connect. -->
 मोनथियागौमानि एंगारनायखौ दाजाबदेरनाङा">
 <!ENTITY certerror.addException.label "एंगारनायखौ दाजाबदेर...">
 
-<!ENTITY certerror.technical.heading "बिरोंदामिनारि गुवारै">

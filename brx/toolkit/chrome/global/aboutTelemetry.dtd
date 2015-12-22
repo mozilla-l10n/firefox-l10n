@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection "सरासनस्रा डाटा">
 
 
@@ -38,7 +39,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "गोबाव लिरनाय">
 
-<!ENTITY aboutTelemetry.systemInfoSection "सिस्टेम फोरमायथिहोग्रा">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "Add-ons जों बुथुमजानाय हिस्ट'ग्राम">
 
@@ -53,3 +53,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "हेंस निफ्राय निफ्राय गोथां डाटाखौ दिन्थि">
 
 <!ENTITY aboutTelemetry.filterText "फिल्टार (स्ट्रिं एबा /regexp/)">
+

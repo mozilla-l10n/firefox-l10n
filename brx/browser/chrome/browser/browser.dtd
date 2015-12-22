@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "टेबखौ आनपिन खालाम (b)">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "हानजायाव थां (M)">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "गोदान हानजा">
 <!ENTITY  moveToNewWindow.label              "गोदान उइन्ड'याव थां (W)">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "गासै टेबखौ बुकमार्क खालाम (T)">
@@ -217,8 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "ह'म">
 
-<!ENTITY tabGroupsButton.label        "टेब हानजा">
-
 <!ENTITY bookmarksButton.label          "बुकमार्क">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -379,8 +374,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "नुथाय(V)"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "हानजाखौ टेब हो(G)">
-<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "टुलबारफोर(T)"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "साइडबार(e)">
@@ -408,6 +401,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "आवगयनि जथुम्माखौ लाबोफिन">
 <!ENTITY appMenuHistory.viewSidebar.label "जारिमिन साइडबारखौ नाय">
 <!ENTITY appMenuHelp.tooltip "मदद मेनुखौ खेव">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "टुलबारजों दाजाबदेर">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -493,8 +498,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "गोदान टेबआव लिंकखौ खेव(T)">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -756,9 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ब्राउजार टेबफोर">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "गुबुन डिभाइस निफ्राय टेब">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "सिनक">
 
@@ -895,14 +896,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "नोंथांनि दानि जारिमिनखौ खोमोरनाय जायो।">
 <!ENTITY panicButton.thankyou.msg2                "रैखाथि ब्राउजिं!">
 <!ENTITY panicButton.thankyou.buttonlabel         "साबायखर!">
-
-
-
-
-
-
-
-
 
 
 
