@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Izitatimende ze-SQL ezingasheshi">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Izihengi zesibuki">
@@ -34,7 +35,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Abaloli bakamuva">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Ukwaziswa Ngesistimu">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Ama-Histograms aqoqwe ngezenezelo">
 
@@ -46,4 +46,5 @@
 <!ENTITY aboutTelemetry.fetchSymbols "  Landa amagama emisebenzi wezitaki ezihengiwe">
 
 <!ENTITY aboutTelemetry.hideSymbols "  Bonisa idatha engavuthiwe kusuka kumahengi">
+
 
