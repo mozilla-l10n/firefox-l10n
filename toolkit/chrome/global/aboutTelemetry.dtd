@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "Ditatamente tše nanyago tša SQL">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "Praosara e a diega">
@@ -34,7 +35,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "Dingwalwa tša ka morago ga nako">
 
-<!ENTITY aboutTelemetry.systemInfoSection "Tshedimošo ya tshepedišo">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "Dihistograma tšeo di kgobokeditšwego ke ditlaleletši">
 
@@ -46,4 +46,5 @@
 <!ENTITY aboutTelemetry.fetchSymbols "Lata maina a ditiro bakeng sa mekgobo ya go diega">
 
 <!ENTITY aboutTelemetry.hideSymbols "Laetša tsebišo go tšwa go tšeo di diegago">
+
 
