@@ -153,7 +153,7 @@
 <!ENTITY pref_category_datareporting "Вибір даних">
 <!ENTITY pref_learn_more "Докладніше">
 <!ENTITY pref_category_installed_search_engines "Встановлені засоби пошуку">
-<!ENTITY pref_category_add_search_providers "Додати інші джерела">
+<!ENTITY pref_category_add_search_providers "Додавання інших джерел">
 <!ENTITY pref_category_search_restore_defaults "Відновити засоби пошуку">
 <!ENTITY pref_search_restore_defaults "Відновити типові">
 <!ENTITY pref_search_restore_defaults_summary "Відновити типові">
@@ -186,10 +186,10 @@
 <!ENTITY pref_category_home_content_settings "Налаштування вмісту">
 <!ENTITY pref_home_updates "Автоматичні оновлення">
 <!ENTITY pref_home_updates_enabled "Увімкнено">
-<!ENTITY pref_home_updates_wifi "Лише по Wi-Fi">
+<!ENTITY pref_home_updates_wifi "Лише через Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Показувати пропоновані сайти">
-<!ENTITY pref_home_suggested_sites_summary "Відображати на домашній сторінці ярлики сайтів, які на нашу думку можуть вас зацікавити">
-<!ENTITY pref_category_home_homepage "Домашня сторінка">
+<!ENTITY pref_home_suggested_sites_summary "Показувати на початковій сторінці ярлики сайтів, які на нашу думку можуть вас зацікавити">
+<!ENTITY pref_category_home_homepage "Початкова сторінка">
 <!ENTITY home_homepage_title "Встановити домашню сторінку">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -293,7 +293,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Швидкий рудий лис перестрибне через ваші очікування з більшою швидкістю, гнучкістю та безпечністю. Як некомерційна організація, ми вільні творити заради вас без потреби йти на компроміси. Ми покращимо вашу роботу в інтернеті та зробимо його майбутнє світлим.">
 
 <!ENTITY pref_media_autoplay_enabled "Дозволити автовідтворення">
-<!ENTITY pref_media_autoplay_enabled_summary "Контроль можливості автоматичного відтворення відео сайтами та іншим медійним вмістом">
+<!ENTITY pref_media_autoplay_enabled_summary "Контроль автоматичного відтворення відео та іншого медіа-вмісту веб-сайтами">
 <!ENTITY pref_zoom_force_enabled "Дозволяти змінювати масштаб">
 <!ENTITY pref_zoom_force_enabled_summary "Ігнорувати налаштування сайтів, щоб ви могли змінювати масштаб будь-якої сторінки">
 <!ENTITY pref_voice_input "Голосове введення">
@@ -304,8 +304,8 @@ size. -->
 <!ENTITY pref_use_master_password "Головний пароль">
 <!ENTITY pref_sync2 "Увійти">
 <!ENTITY pref_sync_summary2 "Синхронізація вкладок, закладок, логінів та історії">
-<!ENTITY pref_search_suggestions "Показувати пошукові припущення">
-<!ENTITY pref_history_search_suggestions "Показати історію пошуку">
+<!ENTITY pref_search_suggestions "Показувати пошукові пропозиції">
+<!ENTITY pref_history_search_suggestions "Показувати історію пошуку">
 <!ENTITY pref_import_options "Параметри імпорту">
 <!ENTITY pref_import_android_summary "Імпорт закладок та історії з вбудованого браузера">
 <!ENTITY pref_private_data_history2 "Історія перегляду">
@@ -325,7 +325,7 @@ size. -->
 <!ENTITY pref_vendor_feedback "Залишити відгук">
 
 <!ENTITY pref_dialog_set_default "Встановити типовим">
-<!ENTITY pref_dialog_default "Типовий">
+<!ENTITY pref_dialog_default "Типова">
 <!ENTITY pref_dialog_remove "Вилучити">
 
 <!ENTITY pref_search_last_toast "Ви не можете вилучити чи вимкнути ваш останній засіб пошуку.">
@@ -364,7 +364,7 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "Автоматичні оновлення">
-<!ENTITY pref_update_autodownload_wifi "Лише по Wi-Fi">
+<!ENTITY pref_update_autodownload_wifi "Лише через Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Ніколи">
 <!ENTITY pref_update_autodownload_always "Завжди">
 
