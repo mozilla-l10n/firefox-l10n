@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Nyahpin Tab">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "Pindah ke Kumpulan">
-<!ENTITY  moveToGroup.accesskey              "P">
-<!ENTITY  moveToNewGroup.label               "Kumpulan Baru">
 <!ENTITY  moveToNewWindow.label              "Pindah ke Tetingkap Baru">
 <!ENTITY  moveToNewWindow.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Tandabuku Semua Tab…">
@@ -217,8 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Utama">
 
-<!ENTITY tabGroupsButton.label        "Tab Kumpulan">
-
 <!ENTITY bookmarksButton.label          "Penandabuku">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -379,8 +374,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Lihat"> 
 <!ENTITY viewMenu.accesskey       "L"> 
-<!ENTITY viewTabGroups.label            "Tab Kumpulan">
-<!ENTITY viewTabGroups.accesskey        "T">
 <!ENTITY viewToolbarsMenu.label       "Bar Alatan"> 
 <!ENTITY viewToolbarsMenu.accesskey     "A"> 
 <!ENTITY viewSidebarMenu.label "Bar Sebelah">
@@ -408,6 +401,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Pulihkan Sesi Terdahulu">
 <!ENTITY appMenuHistory.viewSidebar.label "Lihat Bar Sisi Sejarah">
 <!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Tambah ke Bar Alatan">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -498,8 +503,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Buka Pautan dalam Tab Baru">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -769,9 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Tab-tab pelayar">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Tab dari peranti lain">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -907,15 +908,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "Sejarah terbaru anda telah dibersihkan.">
 <!ENTITY panicButton.thankyou.msg2                "Berhati-hati dalam pelayaran!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Terima kasih!">
-
-<!ENTITY processHang.terminateScript.label        "Hentikan Skrip">
-<!ENTITY processHang.terminateScript.accessKey    "S">
-<!ENTITY processHang.debugScript.label            "Skrip nyahpijat">
-<!ENTITY processHang.debugScript.accessKey        "S">
-
-
-
-
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ketahui lebih lanjut mengenai DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">

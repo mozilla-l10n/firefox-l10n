@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Penyata SQL Lambat">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Pelayar Tergantung">
@@ -36,7 +37,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Tulis Lewat">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Sistem Informasi">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogram Dikumpul oleh Add-on">
 
@@ -51,3 +51,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Pamer data mentah daripada hangs">
 
 <!ENTITY aboutTelemetry.filterText "  Penapis (rentetan atau /regexp/)">
+
