@@ -22,5 +22,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Tuta webstrona na <span id='phishing_sitename'/> bu jako webfalšowanka zdźělene a na zakładźe wašich wěstotnych nastajenjow zablokowane.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Webfalšowanki su za to myslene, was přez imitowanje žórłow, kotrymž dowěrjeće, nawabić, zo byšće wosobinske abo financielne informacije přeradźił.</p><p>Zapodaće informacijow na tutym websydle móže ke kradnjenju identity abo druhemu wobšudstwu wjesć.</p>">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "Zakazane sydło">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Tuta webstrona na <span id='forbidden_sitename'/> je so na zakładźe konfiguracije wašeho wobhladowaka zablokowała.">
 
