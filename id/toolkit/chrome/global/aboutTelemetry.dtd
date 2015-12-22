@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping lebih lama &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Minggu">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Penulisan Di Akhir">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Informasi Sistem">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogram yang Dikumpulkan berdasar Pengaya">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Tampilkan data mentah dari proses yang macet">
 
 <!ENTITY aboutTelemetry.filterText "  Filter (string atau /ekspresi reguler/)">
+

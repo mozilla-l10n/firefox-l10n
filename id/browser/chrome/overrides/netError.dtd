@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Memuat laman bermasalah">
 <!ENTITY retry.label "Coba Lagi">
+
+
 <!-- Specific error messages -->
 
 
@@ -130,6 +132,8 @@ bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Dengan memasukkan informasi pribadi pada laman ini, pencurian identitas atau kejahatan lainnya dapat terjadi.</p> 
 <p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai &quot;phishing attack&quot; yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
 
@@ -151,9 +155,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY errorReporting.title "Laporkan kesalahan ini">
-<!ENTITY errorReporting.longDesc "Pelaporan alamat dan informasi sertifikat <span id='hostname'></span> akan membantu kami mengidentifikasi dan memblokir situs yang berbahaya. Terima kasih telah membantu menyelenggarakan web yang lebih aman!">
-<!ENTITY errorReporting.automatic "Laporkan kesalahan secara otomatis sejak saat ini">
 <!ENTITY errorReporting.learnMore "Pelajari lebih lanjut…">
 <!ENTITY errorReporting.sending "Mengirim laporan">
 <!ENTITY errorReporting.sent "Laporan dikirim">
@@ -164,14 +165,11 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Gagal Tersambung dengan Aman">
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Info lanjutan: ssl_error_unsupported_version">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 

@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Buang dari Tab Permanen">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "Pindahkan ke Kelompok Tab">
-<!ENTITY  moveToGroup.accesskey              "K">
-<!ENTITY  moveToNewGroup.label               "Kelompok Tab Baru">
 <!ENTITY  moveToNewWindow.label              "Pindahkan ke Jendela Baru">
 <!ENTITY  moveToNewWindow.accesskey          "J">
 <!ENTITY  bookmarkAllTabs.label              "Markahi Semua Tab…">
@@ -217,8 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Beranda">
 
-<!ENTITY tabGroupsButton.label        "Kelompok Tab">
-
 <!ENTITY bookmarksButton.label          "Markah">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -381,8 +376,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Tampilan"> 
 <!ENTITY viewMenu.accesskey       "T"> 
-<!ENTITY viewTabGroups.label            "Kelompok Tab">
-<!ENTITY viewTabGroups.accesskey        "K">
 <!ENTITY viewToolbarsMenu.label       "Bilah Alat"> 
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Bilah Samping">
@@ -410,6 +403,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Pulihkan Sesi Sebelumnya">
 <!ENTITY appMenuHistory.viewSidebar.label "Tampilkan Bilah Samping Riwayat">
 <!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Tambahkan ke Bilah Alat">
 <!ENTITY customizeMenu.addToToolbar.accesskey "T">
@@ -499,8 +504,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Buka Tautan di Tab Baru">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -764,9 +767,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Tab peramban">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Tab dari Perangkat Lainnya">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -903,15 +904,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "Riwayat terakhir Anda telah dibersihkan.">
 <!ENTITY panicButton.thankyou.msg2                "Hati-hati dalam Menjelajah!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Terima Kasih!">
-
-<!ENTITY processHang.terminateScript.label        "Hentikan Skrip">
-<!ENTITY processHang.terminateScript.accessKey    "H">
-<!ENTITY processHang.debugScript.label            "Debug Skrip">
-<!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Hentikan Plugin">
-<!ENTITY processHang.terminatePlugin.accessKey    "P">
-<!ENTITY processHang.terminateProcess.label       "Hentikan Proses Web">
-<!ENTITY processHang.terminateProcess.accessKey   "W">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Pelajari lebih lanjut tentang DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
