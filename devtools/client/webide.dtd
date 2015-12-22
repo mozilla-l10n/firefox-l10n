@@ -74,6 +74,8 @@
 
 
 
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "ମୋର ପ୍ରକଳ୍ପଗୁଡ଼ିକ">
 <!ENTITY projectPanel_runtimeApps "ଚଳନ୍ତି ପ୍ରୟୋଗଗୁଡ଼ିକ">
@@ -85,6 +87,7 @@
 <!ENTITY runtimePanel_installsimulator "ଅନୁକାରୀକୁ ସ୍ଥାପନ କରନ୍ତୁ">
 <!ENTITY runtimePanel_noadbhelper "ADB ସହାୟକକୁ ସ୍ଥାପନ କରନ୍ତୁ">
 <!ENTITY runtimePanel_nousbdevice "ଆପଣଙ୍କର ଉପକରଣକୁ ଦେଖିପାରୁ ନାହାନ୍ତି କି?">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "ବୈଧ">
