@@ -17,6 +17,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "వారం">
 
 <!ENTITY aboutTelemetry.archivePingHeader "పింగ్">
@@ -42,7 +43,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  లేట్ వ్రైట్స్">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  వ్యవస్థ సమాచారం">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  హిస్టోగ్రామ్స్ పొడిగింతలచే సేకరించబడెను">
 
@@ -57,3 +57,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  స్థంబనల నుండి ముడి దత్తాంశం చూపు">
 
 <!ENTITY aboutTelemetry.filterText "  వడపోత (పదబంధం లేక /regexp/)">
+

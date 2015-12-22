@@ -75,6 +75,8 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "నా ప్రోజెక్టులు">
 <!ENTITY projectPanel_runtimeApps "రన్‌టైమ్ అనువర్తనాలు">
@@ -86,6 +88,7 @@
 <!ENTITY runtimePanel_installsimulator "సిమ్యులేటర్ సంస్థాపించు">
 <!ENTITY runtimePanel_noadbhelper "ADB సహాయకి సంస్థాపించు">
 <!ENTITY runtimePanel_nousbdevice "మీ పరికరం చూడలేక పోతున్నారా?">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "చెల్లునటువంటి">
