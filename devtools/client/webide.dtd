@@ -64,6 +64,8 @@
 
 
 
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 
 <!ENTITY projectPanel_tabs "แท็บ">
@@ -74,6 +76,7 @@
 
 
 <!ENTITY runtimePanel_nousbdevice "ไม่พบอุปกรณ์ของคุณ?">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "ถูกต้อง">

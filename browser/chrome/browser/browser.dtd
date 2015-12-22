@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "ต">
 <!ENTITY  unpinTab.label                     "เลิกตรึงแท็บ">
 <!ENTITY  unpinTab.accesskey                 "ล">
-<!ENTITY  moveToGroup.label                  "ย้ายไปยังกลุ่ม">
-<!ENTITY  moveToGroup.accesskey              "ย">
-<!ENTITY  moveToNewGroup.label               "กลุ่มใหม่">
 <!ENTITY  moveToNewWindow.label              "ย้ายไปหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ป">
 <!ENTITY  bookmarkAllTabs.label              "คั่นหน้าเว็บทุกแท็บ…">
@@ -201,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "โปรดทำเครื่องหมายกล่องนี้หากคุณต้องการบันทึกรหัสผ่าน">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "ดูข้อความการติดตั้งแอพ">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "จัดการการใช้งานโปรแกรมเสริมบนหน้านี้">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "เปลี่ยนไม่ว่าเว็บไซต์จะสามารถแสดงการแจ้งเตือนหรือไม่">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "จัดการการแบ่งปันการใช้งานกล้องหรือไมโครโฟนของคุณกับเว็บไซต์">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "คุณกำลังแบ่งปันการใช้งานกล้องหรือไมโครโฟนของคุณบนเว็บไซต์">
@@ -222,8 +219,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "บ้าน">
-
-<!ENTITY tabGroupsButton.label        "กลุ่มแท็บ">
 
 <!ENTITY bookmarksButton.label          "ที่คั่นหน้า">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -387,8 +382,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "มุมมอง"> 
 <!ENTITY viewMenu.accesskey       "ม"> 
-<!ENTITY viewTabGroups.label            "กลุ่มแท็บ">
-<!ENTITY viewTabGroups.accesskey        "ล">
 <!ENTITY viewToolbarsMenu.label       "แถบเครื่องมือ"> 
 <!ENTITY viewToolbarsMenu.accesskey     "ค"> 
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
@@ -416,6 +409,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "เรียกคืนวาระที่แล้ว">
 <!ENTITY appMenuHistory.viewSidebar.label "ดูแถบข้างประวัติ">
 <!ENTITY appMenuHelp.tooltip "เปิดเมนูช่วยเหลือ">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "เพิ่มไปยังแถบเครื่องมือ">
 <!ENTITY customizeMenu.addToToolbar.accesskey "พ">
@@ -509,8 +514,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "แ">
 <!ENTITY searchSetAsDefault.label     "ตั้งเป็นเครื่องมือค้นหาปริยาย">
 <!ENTITY searchSetAsDefault.accesskey "ป">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "เปิดลิงก์ในแท็บใหม่">
 <!ENTITY openLinkCmdInTab.accesskey   "ท">
@@ -780,9 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "แท็บเบราว์เซอร์">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "แท็บจากอุปกรณ์อื่น">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -923,15 +924,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "ประวัติการใช้ล่าสุดได้ถูกลบล้างแล้ว">
 <!ENTITY panicButton.thankyou.msg2                "ดูหน้าเว็บปลอดภัย!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ขอบคุณมาก!">
-
-<!ENTITY processHang.terminateScript.label        "หยุดการทำงานของสคริปต์">
-<!ENTITY processHang.terminateScript.accessKey    "ห">
-<!ENTITY processHang.debugScript.label            "ดีบั๊กสคริปต์">
-<!ENTITY processHang.debugScript.accessKey        "ด">
-<!ENTITY processHang.terminatePlugin.label        "ยุติโปรแกรมเสริม">
-<!ENTITY processHang.terminatePlugin.accessKey    "ป">
-<!ENTITY processHang.terminateProcess.label       "ยุติเว็บโพรเซส">
-<!ENTITY processHang.terminateProcess.accessKey   "ย">
 
 <!ENTITY emeLearnMoreContextMenu.label            "ข้อมูลเพิ่มเติมเกี่ยวกับ DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
