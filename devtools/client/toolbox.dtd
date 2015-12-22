@@ -21,6 +21,7 @@
 <!ENTITY toolboxToggle.key "d">
 <!ENTITY toolboxReload.key "r">
 <!ENTITY toolboxFramesTooltip "Seleziona un iframe come documento da analizzare">
+<!ENTITY toolboxNoAutoHideTooltip "Disattiva “nascondi automaticamente” per popup ">
 <!ENTITY browserToolboxErrorMessage "Errore in apertura Cassetta degli attrezzi browser:">
 <!ENTITY options.context.advancedSettings "Impostazioni avanzate">
 <!ENTITY options.context.inspector "Analisi pagina">
