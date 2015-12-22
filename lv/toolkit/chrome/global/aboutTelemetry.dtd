@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Vecāki ping &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Nedēļa">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Vēlie rakstījumi">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Sistēmas informācija">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Papildinājumu apkopotās histogrammas">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Parādīt neapstrādātus ieķērumu datus">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrs (virkne vai /regexp/)">
+
