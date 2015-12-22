@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "q">
 <!ENTITY  unpinTab.label                     "Qistirilgan ichki oynani olib tashlash">
 <!ENTITY  unpinTab.accesskey                 "k">
-<!ENTITY  moveToGroup.label                  "Guruhga ko‘chirish">
-<!ENTITY  moveToGroup.accesskey              "k">
-<!ENTITY  moveToNewGroup.label               "Yangi guruh">
 <!ENTITY  moveToNewWindow.label              "Yangi oynaga ko‘chirish">
 <!ENTITY  moveToNewWindow.accesskey          "y">
 <!ENTITY  bookmarkAllTabs.label              "Barcha ichki oynalarni xatcho‘plarga qo‘shish…">
@@ -201,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Parolingizni saqlamoqchi bo‘lsangiz, belgilang">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Ilovani o‘rnatish xabarini ko‘rish">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Ushbu sahifadagi plagindan foydalanishni boshqarish">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "Sayt eslatmalaringizni ko‘rsata olish uchun o‘zgartiring">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Kamera yoki mikrofonni sayt bilan bo‘lishishni boshqarish">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Siz hozirda kamera yoki mikrofonni sayt bilan bo‘lishishyapsiz">
@@ -222,8 +219,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Uy">
-
-<!ENTITY tabGroupsButton.label        "Ichki oynalarni guruhlash">
 
 <!ENTITY bookmarksButton.label          "Xatcho‘plar">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -387,8 +382,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Ko‘rinish"> 
 <!ENTITY viewMenu.accesskey       "K"> 
-<!ENTITY viewTabGroups.label            "Ichki oynalarni guruhlash">
-<!ENTITY viewTabGroups.accesskey        "g">
 <!ENTITY viewToolbarsMenu.label       "Asboblar paneli"> 
 <!ENTITY viewToolbarsMenu.accesskey     "A"> 
 <!ENTITY viewSidebarMenu.label "Yon panel">
@@ -416,6 +409,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Oldingi seansni tiklash">
 <!ENTITY appMenuHistory.viewSidebar.label "Tarixni yon panelda ko‘rsatish">
 <!ENTITY appMenuHelp.tooltip "Yordam menyusini ochish">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Asboblar paneliga qo‘shish">
 <!ENTITY customizeMenu.addToToolbar.accesskey "q">
@@ -506,8 +511,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Linkni yangi ichki oynada ochish">
 <!ENTITY openLinkCmdInTab.accesskey   "i">
@@ -769,9 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Brauzer ichki oynalari">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Boshqa qurilmalardan ichki oynalar">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Sinxronlash">
 
@@ -908,15 +909,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "So‘nggi tarixingiz tozalandi.">
 <!ENTITY panicButton.thankyou.msg2                "Xavfsiz ko‘rish!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Rahmat!">
-
-<!ENTITY processHang.terminateScript.label        "Skriptni to‘xtatish">
-<!ENTITY processHang.terminateScript.accessKey    "t">
-<!ENTITY processHang.debugScript.label            "Skriptni tuzatish">
-<!ENTITY processHang.debugScript.accessKey        "S">
-<!ENTITY processHang.terminatePlugin.label        "Plaginni to‘xtatish">
-<!ENTITY processHang.terminatePlugin.accessKey    "P">
-<!ENTITY processHang.terminateProcess.label       "Veb jarayonni to‘xtatish">
-<!ENTITY processHang.terminateProcess.accessKey   "t">
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM haqida ko‘proq o‘rganish…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
