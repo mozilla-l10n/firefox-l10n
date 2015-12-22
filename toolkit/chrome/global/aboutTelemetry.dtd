@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection "  பொது தரவு">
 
 
@@ -38,7 +39,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  தாமத எழுதல்கள்">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  கணினி தகவல்">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  துணை நிரல்கள் சேகரித்த செவ்வக வரைபடங்கள்">
 
@@ -53,3 +53,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  உறைதல்களிலிருந்து அசல் தரவைக் காண்பி">
 
 <!ENTITY aboutTelemetry.filterText "  வடிகட்டு(சரளங்கள் அல்லது /regexp/)">
+

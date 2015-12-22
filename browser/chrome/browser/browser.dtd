@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "கீற்றை நீக்கு">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "குழுவுக்கு நகர்த்து">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "புதிய குழு">
 <!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகரவும்">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "அனைத்து கீற்றுகளையும் புத்தகக்குறியிடு…">
@@ -217,8 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "இல்லம்">
 
-<!ENTITY tabGroupsButton.label        "கீற்று குழுக்கள்">
-
 <!ENTITY bookmarksButton.label          "புத்தகக்குறிகள்">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -379,8 +374,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "பார்வை"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "கீற்று குழுக்கள்">
-<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "கருவிப்பட்டைகள்"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "பக்கப்பட்டை">
@@ -408,6 +401,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
 <!ENTITY appMenuHistory.viewSidebar.label "வரலாறுப் பக்கப்பட்டையை பார்க்க">
 <!ENTITY appMenuHelp.tooltip "உதவிப் பட்டியை திற">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "கருவிப்பட்டியில் சேர்க்க">
 <!ENTITY customizeMenu.addToToolbar.accesskey "க">
@@ -495,8 +500,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "இணைப்பை புதிய கீற்றில் திற">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -758,9 +761,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "உலாவி கீற்றுகள்">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "மற்ற சாதனங்களிலிருந்த கீற்றுகள்">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">
 
@@ -897,14 +898,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "உங்கள் சமீபத்திய வரலாறு துடைக்கப்பட்டது.">
 <!ENTITY panicButton.thankyou.msg2                "பாதுகாப்பான உலவல்!">
 <!ENTITY panicButton.thankyou.buttonlabel         "நன்றி!">
-
-
-
-
-
-
-
-
 
 
 
