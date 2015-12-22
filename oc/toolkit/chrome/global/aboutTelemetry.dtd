@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection "  Donadas generalas">
 
 
@@ -39,7 +40,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escrituras tardièras">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Informacions del sistèma">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Istogramas collectats pels moduls complementaris">
 
@@ -54,3 +54,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Afichar las donadas brutas dels blocatges">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (cadena de caractèrs o expression regulara)">
+

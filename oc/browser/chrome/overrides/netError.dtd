@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Problèma al moment de cargar la pagina">
 <!ENTITY retry.label "Tornatz ensajar">
+
+
 <!-- Specific error messages -->
 
 
@@ -138,6 +140,8 @@ que &brandShortName; a l'autorizacion d'accedir al Web.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p> 
 <p>Aquestes tipes de contrafaiçon de sites son utilizats dins de corrièrs electronics frauduloses concebuts per d'atacs per anquetatage (o phishing), dins las qualas las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts dins las qualas avètz fisança.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacha lo cargament d'aquesta pagina d 'aqueste biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
 
@@ -159,8 +163,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
 <!ENTITY errorReporting.sending "Mandadís del rapòrt">
 
@@ -170,13 +172,11 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL distant">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.learnMore "Ne saber mai…">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
-<!ENTITY weakCryptoAdvanced.title "Avançat">
 
 
