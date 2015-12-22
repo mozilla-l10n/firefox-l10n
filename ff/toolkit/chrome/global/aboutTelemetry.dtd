@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection "  Keɓe Kuuɓal">
 
 
@@ -38,7 +39,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Binndi Sakket">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Humpito Yuɓɓo">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Asdiiwe ɗe Ɓeyditte Ndoɓindii">
 
@@ -53,3 +53,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Hollu keɓe kecce iwɗe e kooke">
 
 <!ENTITY aboutTelemetry.filterText "  Ciimtinirgal (strings or /regexp/)">
+

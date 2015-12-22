@@ -8,15 +8,18 @@
 <!ENTITY safeb.palm.reportPage.label "Hol ko waɗi ngoo hello daaƴeede?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Jaŋtaama ko Hello Njangu!">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Ngoo hello geese to <span id='malware_sitename'/> jaŋtaama ko hello njangu etee daaƴaama tugnaade e cuɓoraaɗe kisal maa.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Kelle njangu eotoo ko loowde topirɗe gujjirɗe humpito maa suraango, kuutoroo ordinateer maa ngam yande e woɗɓe, walla bonna yuɓɓo maa.</p><p>Yoga e kelle njangu ɗee ena cara topirɗe bonɗe e teyre, kono keewɗe ko bonnooje tawa jeyɗo-ɗe oo anndaa walla yamiraani.</p>">
 
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Ngoo hello geese to <span id='unwanted_sitename'/> jaŋtaama ko hello njangu etee daaƴaama tugnaade e cuɓoraaɗe kisal maa.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title "Jaŋtaama ko Maawol Geese!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Ngoo hello geese to <span id='phishing_sitename'/> jaŋtaama ko maawol geese etee daaƴaama tugnaade e cuɓoraaɗe kisal maa.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Maawe geese mbaɗiraa ko tuufaade-ma ngam njaynaa humpito maa heeriingo walla koppore huutoraade ƴembagol cewle ɗe kooli-ɗaa.</p><p>Naatnude humpito maa keeriiɗo e ngoo hello ena waawi wuftude e nguyka innitol walla jamfe goɗɗe.</p>">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
