@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Masalah memuatkan laman">
 <!ENTITY retry.label "Cuba Lagi">
+
+
 <!-- Specific error messages -->
 
 
@@ -138,6 +140,8 @@ yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Memasukkan sebarang informasi peribadi di laman ini akan menyebabkan kecurian identiti atau lain-lain penipuan.</p> 
 <p>Jenis-jenis penipuan web ini digunakan dalam memperolokkan yang dikenali sebagai serangan phishing, di mana pembohongan laman-laman web dan email digunakan untuk meniru sumber-sumber yang kamu percayai.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
 
@@ -159,8 +163,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
  <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
 <!ENTITY errorReporting.learnMore "Ketahui lanjut…">
 
 
@@ -170,13 +172,11 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL Tempat Lain">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memberitahu mereka mengenai masalah ini.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 

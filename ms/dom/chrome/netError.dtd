@@ -82,6 +82,10 @@
 <!ENTITY phishingBlocked.longDesc "<p>Memasukkan sebarang informasi peribadi di laman ini akan menyebabkan kecurian identiti atau lain-lain penipuan.</p> 
  <p>Pemalsuan web ini digunakan oleh komplot tertentu yang dikenali sebagai serangan phishing, di mana pemalsuan laman web dan email digunakan untuk meniru sumber-sumber yang dipercayai.</p>">
 
+
+
+
+
 <!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
 <!ENTITY cspBlocked.longDesc "<p>Pelayar menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
 
@@ -90,10 +94,3 @@
 
 <!ENTITY remoteXUL.title "Capaian jauh XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memberitahu mereka mengenai masalah ini.</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
