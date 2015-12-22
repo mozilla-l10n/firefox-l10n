@@ -16,7 +16,7 @@
 <!ENTITY biffStart.label "Sprawdzaj, czy nadeszły nowe wiadomości co">
 <!ENTITY biffStart.accesskey "S">
 <!ENTITY biffEnd.label "minut">
-<!ENTITY useIdleNotifications.label "Zezwalaj na natychmiastowe powiadomienia serwera po odebraniu nowej wiadomości">
+<!ENTITY useIdleNotifications.label "Natychmiast powiadamiaj o nowych wiadomościach na serwerze">
 <!ENTITY useIdleNotifications.accesskey "Z">
 <!ENTITY connectionSecurity.label "Bezpieczeństwo połączenia:">
 <!ENTITY connectionSecurity.accesskey "B">
