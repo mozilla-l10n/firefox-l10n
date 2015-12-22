@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "ಹಳೆಯ ಪಿಂಗ್ &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "ವಾರ">
 
 <!ENTITY aboutTelemetry.archivePingHeader "ಪಿಂಗ್">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  ತಡವಾಗಿ ಬರೆಯುವಿಕೆ">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  ವ್ಯವಸ್ಥೆಯ ಮಾಹಿತಿ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ಆಡ್-ಆನ್‌ಗಲಿಂದ ಸಂಗ್ರಹಿಸಲಾದ ಹಿಸ್ಟೊಗ್ರಾಮ್‌ಗಳು">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  ಹ್ಯಾಂಗ್‌ಗಳಿಗಾಗಿ ಕಚ್ಛಾದ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸು">
 
 <!ENTITY aboutTelemetry.filterText "  ಸೋಸಕ (ಪದಸಮುಚ್ಚಯಗಳು ಅಥವ /regexp/)">
+
