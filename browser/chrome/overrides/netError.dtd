@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Ikibazo Gufungura iyi Paji">
 <!ENTITY retry.label "Gerageza Nanone">
+
+
 <!-- Specific error messages -->
 
 
@@ -77,6 +79,8 @@
 
 
 
+
+
 <!ENTITY securityOverride.getMeOutOfHereButton "Nsohora muno!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ongeraho irengayobora">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -92,15 +96,11 @@ functionality specific to firefox. -->
 
 
 
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
-
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 
