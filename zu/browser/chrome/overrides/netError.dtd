@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Kune nkinga ekulayisheni ikhasi">
 <!ENTITY retry.label "Phinda Uzame">
+
+
 <!-- Specific error messages -->
 
 
@@ -134,6 +136,8 @@ kwesikhashana.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Ukufaka noma iyiphi imininingwane yakho kule khasi kungaholela ekuntshontshweni kobunikazi noma kokuye ukukhohlisa.</p> 
 <p>Lezi zinhlobo zokubhumbuluzwa kwe webhu kusetshenziswa ekuqolweni okwaziwa ngokuhlaselwa kwe-phishing, lapho amakhasi wewebhu anenkohliso nama imeyili asetshenziselwa ukufaniswa nemithombo ongayethemba.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Kuvinjelwe yinqubomgomo yokuphepha okuqukethwe">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ivimbele le khasi ekulayisheni ngale ndlela ngoba ikhasi linenqubomgomo yokuphepha kokuqukethwe okuyinqabelayo.</p>">
 
@@ -161,18 +165,14 @@ functionality specific to firefox. -->
 
 
 
-
-
 <!ENTITY remoteXUL.title "Isilawuli-kude se-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 
