@@ -55,6 +55,6 @@ their language.
 <!ENTITY tabgroupsmigration.pagetitle2          "Removemos os grupos, mas guardámos os separadores">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Saiba mais sobre os extras de substituição dos grupos de separadores.">
 <!ENTITY tabgroupsmigration.description2        "&brandShortName; adicionou todos os seus grupos nos marcadores para que não tenha perdido nada.">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "Mostrar grupos de separadores marcados">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "Mostrar os grupos de separadores nos marcadores">
 <!ENTITY tabgroupsmigration.restoredescription  "Poderá também escolher restaurar alguns ou todos os grupos de fundo em janelas:">
 
