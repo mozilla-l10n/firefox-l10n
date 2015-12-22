@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "પાનું લાવવામાં સમસ્યા">
 <!ENTITY retry.label "પુનઃપ્રયાસ કરો">
+
+
 <!-- Specific error messages -->
 
 
@@ -127,6 +129,8 @@
 
 
 
+
+
 <!ENTITY corruptedContentError.title "બગડેલું વસ્તુ સંપાદક">
 <!ENTITY corruptedContentError.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાશે નહિં કારણ કે માહિતીના પરિવહનમાં ક્ષતિ મળી આવી છે.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની જાણ કરવા માટે વેબસાઇટના માલિકનો સંપર્ક કરો.</li></ul>">
 
@@ -151,18 +155,14 @@ functionality specific to firefox. -->
 
 
 
-
-
 <!ENTITY remoteXUL.title "દૂરસ્થ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>મહેરબાની કરીને આ સમસ્યાને તેઓને જણાવવા માટે વેબસાઇટ માલિકોનો સંપર્ક કરો.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 

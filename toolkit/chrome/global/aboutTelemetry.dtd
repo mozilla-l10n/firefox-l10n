@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  ધીમા SQL વાક્યો">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  બ્રાઉઝર અટકેલ">
@@ -36,7 +37,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  અંતમાં લખે છે">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  સિસ્ટમ જાણકારી">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  એડઓન દ્દારા સંગ્રહેલ હિસ્ટોગ્રામ">
 
@@ -51,3 +51,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  અટકેલથી કાચી માહિતીને બતાવો">
 
 <!ENTITY aboutTelemetry.filterText "  ગાળક (શબ્દમાળા અથવા /regexp/)">
+
