@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "К">
 <!ENTITY  unpinTab.label                     "Кыбытыгы өһүл">
 <!ENTITY  unpinTab.accesskey                 "ы">
-<!ENTITY  moveToGroup.label                  "Бөлөххө көһөр">
-<!ENTITY  moveToGroup.accesskey              "Б">
-<!ENTITY  moveToNewGroup.label               "Саҥа бөлөх">
 <!ENTITY  moveToNewWindow.label              "Саҥа түннүккэ көһөр">
 <!ENTITY  moveToNewWindow.accesskey          "т">
 
@@ -212,8 +209,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Дьиэ-сирэйгэ">
 
-<!ENTITY tabGroupsButton.label        "Кыбытыктар бөлөхтөрө">
-
 <!ENTITY bookmarksButton.label          "Бэлиэлэр">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -369,8 +364,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Көстүү"> 
 <!ENTITY viewMenu.accesskey       "К"> 
-<!ENTITY viewTabGroups.label            "Кыбытыктар бөлөхтөрө">
-<!ENTITY viewTabGroups.accesskey        "б">
 <!ENTITY viewToolbarsMenu.label       "Тэриллэр"> 
 <!ENTITY viewToolbarsMenu.accesskey     "Т"> 
 <!ENTITY viewSidebarMenu.label "Ойоҕос панель">
@@ -394,6 +387,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+
+
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
 
 
 
@@ -477,8 +482,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Саҥа кыбытыкка арый">
 <!ENTITY openLinkCmdInTab.accesskey   "к">
@@ -740,9 +743,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Браузер кыбытыктара">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Атын тэриллэр кыбытыктара">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -865,14 +866,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY panicButton.view.undoWarning             "Бу дьайыы төннөрүллүбэт.">
-
-
-
-
-
-
-
-
 
 
 

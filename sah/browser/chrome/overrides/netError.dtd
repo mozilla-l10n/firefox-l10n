@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Сирэйи хачайдыыр сатаммата">
 <!ENTITY retry.label "Хатылаан көр">
+
+
 <!-- Specific error messages -->
 
 
@@ -122,6 +124,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>Бу сирэйгэ ханнык баҕарар тус бэйэҥ туһунан информацияны киллэрбитиҥ түөкүттэргэ түбэһиэн сөп</p>
 <p>Маннык түөкүннээһин фишинг диэн ааттанар көрүҥэр түөкүттэр ситим-сирдэрэ уонна электроннай почталара Эн итэҕэйэр ситим-сиргин майгынныыр буолар.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Иһинээҕитин көрөн хааччахтааһыҥҥа түбэстэ">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;  бу сирэйи көрөрү хааччахтаата, тоҕо диэтэххэ бу сирэй иһинээҕитэ куттал суох буолуутун политикатын кытта сөп түбэһиспэт.</p>">
 
@@ -149,18 +153,14 @@ functionality specific to firefox. -->
 
 
 
-
-
 <!ENTITY remoteXUL.title "Тэйиччи XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 

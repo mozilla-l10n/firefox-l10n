@@ -8,14 +8,17 @@
 <!ENTITY safeb.palm.reportPage.label "Бу сирэй тоҕо хааччахтанна?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Ситим-сир көмпүүтэрдэри атаакалаабыт сибикитэ баар!">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> көмпүүтэрдэри атаакалыыр сибикилээх. Онон эн куттал суох буолуутун хааччыйар дьаһайыыгар сөп түбэһэн бу ситим-сир хааччахтаммыт.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Көмпүүтэрдэри атаакалыыр ситим-сирдэр тус бэйэҕэ сыһыаннаах информацияны уорар, көмпүүтэри алдьатар эбэтэр эн көмпүүтэргин туһанан атын көмпүүтэрдэри сутуйар соруктаах оҥоһуллаллар.</p> <p>Сорох маннык сирэйдэр анаан оҥоһуллубут, оттон сорохтор урут алдьатыллыбыт уонна бас билээччилэриттэн кистээн атын көмпүүтэрдэри атаакалыыр буолаллар.</p>">
 
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
 <!ENTITY safeb.blocked.phishingPage.title "Бу түөкүттэр ситим-сирдэрэ буолуон сөп!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> көмпүүтэрдэри атаакалыырга оҥоһуллубут быһыылаах. Онон эн куттал суох буолуутун хааччыйар дьаһайыыгар сөп түбэһэн бу ситим-сир хааччахтаммыт.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Түөкүн ситим-сирдэр эн итэҕэйэр сирдэргин үтүктэлллэр уонна тус бэйэҕэр эбэтэр үпкэ-харчыга сыһыаннаах информацияны ыһыгыннара сатыыллар.</p><p>Маннык сиргэ ханнык баҕарар информацияны угар куттааллаах.</p>">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+

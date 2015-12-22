@@ -82,6 +82,10 @@
 <!ENTITY phishingBlocked.longDesc "<p>Бу сирэйгэ ханнык баҕарар тус бэйэҥ туһунан информацияны киллэрбитиҥ түөкүттэргэ түбэһиэн сөп</p>
 <p>Түөкүннээһин фишинг диэн ааттанар бу көрүҥэр түөкүттэр ситим-сирдэрэ уонна электроннай почталара Эн итэҕэйэр ситим-сиргин майгынныыр буолар.</p>">
 
+
+
+
+
 <!ENTITY cspBlocked.title "Куттал суох буоллун диэн хааччахтанна">
 <!ENTITY cspBlocked.longDesc "<p>Браузер бу сирэйи көрөрү хааччахтаата, тоҕо диэтэххэ бу сирэй иһинээҕитэ куттал суох буолуутун политикатын кытта сөп түбэһиспэт.</p>">
 
@@ -90,10 +94,3 @@
 
 <!ENTITY remoteXUL.title "Тэйиччи XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;

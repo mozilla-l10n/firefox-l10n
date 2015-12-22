@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "   Бытаан SQL-инструкция ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "   Браузер ыйаныыта ">
@@ -34,7 +35,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Хойукку суруктар">
 
-<!ENTITY aboutTelemetry.systemInfoSection "   Систиэмэ туһунан ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "   Эбиискэлэр хомуйбут гистограммалара ">
 
@@ -46,4 +46,5 @@
 <!ENTITY aboutTelemetry.fetchSymbols "   Ыйаныы стектарын функцияларын ааттарын киллэр ">
 
 <!ENTITY aboutTelemetry.hideSymbols "   Ыйаныылар тустарынан ситэтэ суох дааннайдары көрдөрүү ">
+
 
