@@ -102,7 +102,7 @@
 <!ENTITY settings "Налаштування">
 <!ENTITY settings_title "Налаштування">
 <!ENTITY pref_category_general "Загальне">
-<!ENTITY pref_category_general_summary2 "Домівка, мова, панель адреси">
+<!ENTITY pref_category_general_summary2 "Початкова сторінка, мова, панель адреси">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -143,7 +143,7 @@
 <!ENTITY overlay_no_synced_devices "Не знайдено пристроїв, підключених до облікового запису Firefox">
 
 <!ENTITY pref_category_search3 "Пошук">
-<!ENTITY pref_category_search_summary "Налаштувати засоби пошуку">
+<!ENTITY pref_category_search_summary "Налаштування засобів пошуку">
 <!ENTITY pref_category_accessibility "Доступність">
 <!ENTITY pref_category_accessibility_summary2 "Розмір тексту, масштабування, голосове введення">
 <!ENTITY pref_category_privacy_short "Приватність">
@@ -164,7 +164,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Підказка: Додавайте будь-який сайт до списку засобів пошуку тривалим дотиком до його пошукового поля, а потім торкнувшись до піктограми &formatI;.">
 <!ENTITY pref_category_advanced "Додатково">
-<!ENTITY pref_category_advanced_summary2 "Відновити вкладки, плагіни, інструменти розробника">
+<!ENTITY pref_category_advanced_summary2 "Відновлення вкладок, плагіни, інструменти розробника">
 <!ENTITY pref_developer_remotedebugging "Віддалене зневадження">
 <!ENTITY pref_developer_remotedebugging_usb "Віддалене зневадження через USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Віддалене зневадження через Wi-Fi">
@@ -175,7 +175,7 @@
 <!ENTITY pref_manage_logins "Керувати паролями">
 
 <!ENTITY pref_category_home "Початкова сторінка">
-<!ENTITY pref_category_home_summary "Налаштувати початкову сторінку">
+<!ENTITY pref_category_home_summary "Налаштування початкової сторінки">
 <!ENTITY pref_category_home_panels "Панелі">
 <!ENTITY home_add_panel_title "Додати нову панель">
 <!ENTITY home_add_panel_empty "На жаль, ми не знайшли жодних панелей, які можна було б додати.">
@@ -194,7 +194,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "Домівка &brandShortName;">
+<!ENTITY home_homepage_radio_default "Початкова сторінка &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -272,7 +272,7 @@
 <!ENTITY pref_plugins_tap_to_play "Торкнутися, щоб грати">
 <!ENTITY pref_plugins_disabled "Вимкнено">
 <!ENTITY pref_text_size "Розмір тексту">
-<!ENTITY pref_restore_tabs "Відновити вкладки">
+<!ENTITY pref_restore_tabs "Відновлення вкладок">
 <!ENTITY pref_restore_always "Завжди відновлювати">
 <!ENTITY pref_restore_quit "Не відновлювати після виходу з &brandShortName;">
 <!ENTITY pref_font_size_tiny "Дрібний">
