@@ -142,9 +142,6 @@
 ">
 <!ENTITY errorReporting.automatic2 "Segnala errori come questo per aiutare Mozilla a identificare e bloccare siti dannosi">
 <!ENTITY errorReporting.learnMore "Ulteriori informazioni…">
-<!ENTITY errorReporting.sending "Invio in corso">
-<!ENTITY errorReporting.sent "Segnalazione inviata">
-<!ENTITY errorReporting.tryAgain "Riprova">
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contattare l’amministratore del sito web e segnalare il problema.</li></ul></p>">
 <!ENTITY sslv3Used.title "Impossibile stabilire una connessione sicura">
