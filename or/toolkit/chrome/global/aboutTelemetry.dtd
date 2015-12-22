@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  ମନ୍ଥର SQL ଅଭିବ୍ୟକ୍ତି">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  ବ୍ରାଉଜର ଅଟକିଯାଇଛି">
@@ -36,7 +37,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  ବିଳମ୍ବ ଲେଖାଗୁଡ଼ିକ">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  ତନ୍ତ୍ର ସୂଚନା">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ଆୟତ ଚିତ୍ରକୁ ଏଡ଼-ଅନଗୁଡ଼ିକ ଦ୍ୱାରା ସଂଗ୍ରହ କରାଯାଇଛି">
 
@@ -51,3 +51,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  ହ୍ୟାଙ୍ଗଗୁଡ଼ିକରୁ ମୂଳ ତଥ୍ୟକୁ ଦର୍ଶାନ୍ତୁ">
 
 <!ENTITY aboutTelemetry.filterText "  ଛାଣନ୍ତୁ (ବାକ୍ୟଖଣ୍ଡ କିମ୍ବା /regexp/)">
+
