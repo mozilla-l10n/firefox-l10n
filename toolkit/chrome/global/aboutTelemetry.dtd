@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "&gt;&gt; ping mai vechi">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Săptămână">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Scrieri întârziate">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Informații sistem">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histograme colectate de suplimente">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Arată datele brute de la blocări">
 
 <!ENTITY aboutTelemetry.filterText "  Filtru (șir caracter sau /regexp/)">
+
