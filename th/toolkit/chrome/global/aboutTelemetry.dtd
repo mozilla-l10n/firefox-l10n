@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection "  ข้อมูลทั่วไป">
 
 
@@ -39,7 +40,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  การเขียนทีหลัง">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  ข้อมูลระบบ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ฮิสโทแกรมที่เก็บโดยส่วนเสริม">
 
@@ -54,3 +54,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  แสดงข้อมูลดิบจากการค้าง">
 
 <!ENTITY aboutTelemetry.filterText "  ตัวกรอง (สตริง หรือ /นิพจน์ปรกติ/)">
+
