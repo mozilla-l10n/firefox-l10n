@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "টেব আনপিন কৰক">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "দললৈ যাওক">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "নতুন দল">
 <!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোলে যাওক">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "সকলো টেব পত্ৰচিহ্ন কৰক…">
@@ -217,8 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "মূখ্য পৃষ্ঠা">
 
-<!ENTITY tabGroupsButton.label        "টেব দলসমূহ">
-
 <!ENTITY bookmarksButton.label          "পত্ৰচিহ্নসমূহ">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -379,8 +374,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "দৰ্শন কৰক"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "টেব দলসমূহ">
-<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "টুলবাৰসমূহ"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "কাষবাৰ">
@@ -408,6 +401,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "পুৰ্বৱৰ্তী অধিবেশন পুনৰদ্ধাৰ কৰক">
 <!ENTITY appMenuHistory.viewSidebar.label "ইতিহাস কাষবাৰ দৰ্শন কৰক">
 <!ENTITY appMenuHelp.tooltip "সহায় মেনু খোলক">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "সঁজুলিবাৰলৈ যোগ কৰক">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -493,8 +498,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "এটা নতুন টেবত লিঙ্ক খোলক">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -756,9 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ব্ৰাউছাৰ টেবসমূহ">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "অন্য ডিভাইচসমূহৰ টেবসমূহ">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "সংমিহলি">
 
@@ -895,14 +896,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "আপোনাৰ শেহতীয়া ইতিহাস আতৰোৱা হৈছে।">
 <!ENTITY panicButton.thankyou.msg2                "সুৰক্ষিত ব্ৰাউছিং!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ধন্যবাদ!">
-
-
-
-
-
-
-
-
 
 
 
