@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection "جنرل ڈاٹا">
 
 
@@ -38,7 +39,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "لیٹ رایِٹ">
 
-<!ENTITY aboutTelemetry.systemInfoSection "سِسٹم انفارمیشن">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "ہِسٹوگرام آیہ جمع کرنْہ ایڈ۔آنو ذریعہ">
 
@@ -53,3 +53,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "را ڈاٹا ہأیو ہینگو پیٹھ">
 
 <!ENTITY aboutTelemetry.filterText "فلٹر(سیٹرینگ یا /regexp/) ">
+
