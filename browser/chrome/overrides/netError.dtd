@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "გვერდის ჩატვირთვის შეცდომა">
 <!ENTITY retry.label "კვლავ სცადეთ">
+
+
 <!-- Specific error messages -->
 
 
@@ -132,6 +134,8 @@
 
 
 
+
+
 <!ENTITY securityOverride.linkText "ან გამონაკლისის დამატება შეგიძლიათ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "მომაშორე აქაურობას!">
 <!ENTITY securityOverride.exceptionButtonLabel "გამონაკლისის დამატება…">
@@ -148,15 +152,11 @@ functionality specific to firefox. -->
 
 
 
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
-
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 
