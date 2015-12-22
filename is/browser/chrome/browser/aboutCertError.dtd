@@ -32,4 +32,4 @@ fikta við tenginguna þína.</b>">
 <!ENTITY certerror.expert.contentPara2 "Ekki bæta við undantekningu nema 
 þú vitir að það sé góð ástæða fyrir því að þetta vefsvæði notar ekki traust skilríki.">
 <!ENTITY certerror.addException.label "Bæta við undantekningu…">
-
+<!ENTITY certerror.copyToClipboard.label "Afrita texta á klemmuspjald">
