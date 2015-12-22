@@ -83,6 +83,10 @@
 <!ENTITY phishingBlocked.longDesc "<p>اس صفحہ پر کوئی بھی نجی معلومات داخل کرنے سے شناخت کی چوری یا کوئی اور فراڈ ہو سکتا ہے۔</p> 
 <p>اس قسم کی ویب نقلیں سکیموں میں استعمال کی جاتی ہیں جنہیں فشنگ اٹیکس کہا جاتا ہے۔ اس میں فراڈ ویب صفحے اور ای میلیں ایسی چیزوں کین نقل کرنے کے لیے استعمال کی جاتی ہیں جن پر آپ بھروسا کرتے ہیں۔</p>">
 
+
+
+
+
 <!ENTITY cspBlocked.title "مواد سکیورٹی پالیسی کے تحت بلاک">
 <!ENTITY cspBlocked.longDesc "<p>براوزر نے اس صفحے کو لوڈ ہونے سے روک دیا ہے کیونکہ صفحے کی مواد سکیورٹی پالیسی اس کی اجازت نہیں دیتی۔</p>">
 
@@ -91,10 +95,3 @@
 
 <!ENTITY remoteXUL.title "بعید XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے ان سے رابطہ کریں۔</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;

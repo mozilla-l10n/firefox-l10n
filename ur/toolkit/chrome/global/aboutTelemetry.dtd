@@ -17,6 +17,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.archivePingHeader "پینگ">
 
 
@@ -37,7 +38,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  دیرانہ لکھائی">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  نظام معلومات">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ایڈ اون کے ذریعے جمع کیے گئے ہسٹوگرام">
 
@@ -52,3 +52,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  رکاوٹوں کے خام کوائف دکھائیں">
 
 <!ENTITY aboutTelemetry.filterText "  فلٹر (سٹرنگز یا /regexp/)">
+
