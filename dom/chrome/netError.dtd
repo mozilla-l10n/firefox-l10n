@@ -83,6 +83,10 @@
 <!ENTITY phishingBlocked.longDesc "<p>ककरो निज सूचना केँ एहि पृष्ठ पर दाखिल कएनाइ पहचान चोरी अथवा दोसर धोखाक कारण भए सकैत अछि.</p> 
 <p>ई प्रकारक वेब धोखाधड़ी केँ फिशिंग हमलामे प्रयुक्त होइछ, जकरामे धोखा दिअबला वेब पृष्ठ आओर इमेल केँ ओ स्रोतक नकलक लेल प्रयोग कएल जाइत  अछि जकरा पल अहाँ भरोस करैत छी.</p>">
 
+
+
+
+
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
@@ -91,10 +95,3 @@
 
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;

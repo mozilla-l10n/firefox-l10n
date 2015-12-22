@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "सहयुक्ति">
 <!ENTITY aboutDebugging.addonDebugging.label       "debugging सहयुक्त‍ि सक्रिय करू">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "एहि विकल्प कए चालू केने स सहयुक्त‍ि आ क्रोम ब्राउजर क अनेक हिस्सा डिबग भए जाएत ">
+
 <!ENTITY aboutDebugging.workers                    "वर्कर">
