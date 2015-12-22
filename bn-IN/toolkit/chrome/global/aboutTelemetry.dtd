@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "পুরন পিং &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "সপ্তাহ">
 
 <!ENTITY aboutTelemetry.archivePingHeader "পিং">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "লেট রাইটস্">
 
-<!ENTITY aboutTelemetry.systemInfoSection "সিস্টেম সংক্রান্ত তথ্য">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "অ্যাড-অনস দ্বারা সংগৃহীত স্তম্ভচিত্র">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "hangs থেকে কাঁচা ডেটা দেখান">
 
 <!ENTITY aboutTelemetry.filterText "ফিল্টার (স্ট্রিং অথবা /regexp/)">
+
