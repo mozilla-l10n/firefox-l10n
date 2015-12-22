@@ -8,21 +8,6 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-
-<!ENTITY certerror.pagetitle  "ການເຊີ່ມຕໍ່ທີ່ບໍ່ຫນ້າໄວ້ວາງໃຈ">
-<!ENTITY certerror.longpagetitle "ການເຊື່ອມຕໍ່ນີ້ເຊື່ອຖືບໍ່ໄດ້">
-<!-- These are going to be used for the updated design in Bug 1207107 -->
-
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-
-<!ENTITY certerror.introPara1 "ເຈົ້າໄດ້ຖາມ&brandShortName;ເພື່ອເຊືອມຕໍ່ 
- ຄວາມປອດໄພ<b>#1</b>, ແຕ່ວ່າພວກເຮົາບໍ່ສາມາດຢືນຢັນວ່າການເຊື່ອມຕໍ່ຂອງທ່ານແມ່ນປອດໄພ.">
-<!ENTITY certerror.introPara2 "ໂດຍປົກກະຕິແລ້ວ ຫາກທ່ານພະຍາຍາມເຊື່ອມຕໍ່ແບບເຂົ້າລະຫັດຫາເວັບໄຊຕ໌ໃດນຶ່ງ, 
-ເວັບໄຊຕ໌ນັ້ນຈະຕ້ອງສະແດງການຢືນຢັນທີ່ເຊື່ອຖືໄດ້ ເພື່ອພິສູດວ່າທ່ານ 
-ເຂົ້າຖືກເວັບໄຊຕ໌ແລ້ວ. ຢ່າງໃດກໍຕາມ ເວັບໄຊຕ໌ນີ້ບໍ່ສາມາດຢືນຢັນຄວາມເຊື່ອຖືຂອງຕົນເອງໄດ້.">
-<!-- These are going to be used for the udpated design in Bug 1207107 -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -30,17 +15,11 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.whatShouldIDo.heading "ຂ້ອຍຄວນເຮັດແນວໃດ?">
-<!ENTITY certerror.whatShouldIDo.content "ຫາກທ່ານເຄີຍເຊື່ອມຕໍ່ເຂົ້າຫາ 
-ເວັບໄຊຕ໌ນີ້ໂດຍບໍ່ມີບັນຫາມາກ່ອນ, ກໍອາດເປັນໄປໄດ້ວ່າຄວາມຜິດພາດນີ້ເກີດຈາກບາງຄົນ 
-ພະຍາຍາມປອມແປງເວັບໄຊຕ໌ ເຊິ່ງທ່ານບໍ່ຄວນເຂົ້າໄປຕໍ່.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ເວັບໄຊຕ໌ນີ້ໃຊ້ HTTP 
 ການຮັກສາຄວາມປອດໄພ (HSTS) ເພື່ອຮັບປະກັນວ່າ &brandShortName; ພຽງການເຊື່ອມຕໍ່ 
 ເຂົ້າຫາມັນມີຄວາມປອດໄພດີ. ດັ່ງນັ້ນມັນຈຶ່ງເປັນໄປບໍ່ໄດ້ທີ່ຈະເພີ່ມຂໍ້ຍົກເວັ້ນສຳລັບ 
 ໃບຮັບຮອງນີ້.">
-<!ENTITY certerror.getMeOutOfHere.label "ພາຂ້ອຍອອກຈາກບ່ອນນີ້!">
 
-<!ENTITY certerror.expert.heading "ຂ້ອຍຍອມຮັບຄວາມສ່ຽງ">
 <!ENTITY certerror.expert.content "ຫາກທ່ານເຂົ້າໃຈ ແລະຍອມຮັບສິ່ງທີ່ກຳລັງເກີດຂຶ້ນ ທ່ານ 
 ສາມາດບອກ &brandShortName; ໃຫ້ເຊື່ອຖືການຢືນຢັນໂຕຂອງເວັບໄຊຕ໌ນີ້ໄດ້. 
 <b>ເຖິງແມ່ນວ່າທ່ານເຊື່ອເວັບໄຊຕ໌ນີ້ກໍຕາມ ຄວາມຜິດພາດທີ່ເກີດຂຶ້ນນີ້ ອາດໝາຍເຖິງມີບາງຄົນພະຍາຍາມ 
@@ -49,4 +28,3 @@ was trying to connect. -->
 ທ່ານບໍ່ມີເຫດຜົນທີ່ດີພໍວ່າເປັນຫຍັງເວັບໄຊຕ໌ນີ້ຈຶ່ງບໍ່ມີການຢືນຢັນໂຕທີ່ຖືກຕ້ອງ.">
 <!ENTITY certerror.addException.label "ຕື່ມຂໍ້ຍົກເວັ້ນ…">
 
-<!ENTITY certerror.technical.heading "ຂໍ້ມູນດ້ານເທັກນິກ">
