@@ -9,22 +9,8 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "Kgolagano e sa tshephagaleng">
-<!ENTITY certerror.longpagetitle "Kgolagano e ga e Tshephege">
-<!-- These are going to be used for the updated design in Bug 1207107 -->
-
 <!ENTITY certerror.pagetitle1  "Kgolagano e e sa Sireletsegang">
 <!ENTITY certerror.longpagetitle1 "Kgolagano ya gago ga e a sireletsega">
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-
-<!ENTITY certerror.introPara1 "O kopile &brandShortName; go golagana 
-mo go sireletsegileng kwa <b>#1</b>, mme re ka se tlhomamise gore kgolagano ya gago is sireletsegile.">
-<!ENTITY certerror.introPara2 "Ka tlwaelo, fa o leka go golaganya mo go sireletsegileng, 
-disaete di tla tlhagisa boitshupo jo bo tshepegang go supa fa o ya 
-kwa le felong le le siameng. Le fa go ntse jalo, boitshupo jwa saete e ga bo ka ke jwa netefadiwa.">
-<!-- These are going to be used for the udpated design in Bug 1207107 -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -32,17 +18,11 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.whatShouldIDo.heading "Ke dire jang?">
-<!ENTITY certerror.whatShouldIDo.content "Fa o tlwaetse go golagana le 
-saete e go se na mathata, phoso e e ka raya gore mongwe o 
-leka go tsietsa saete, ka jalo ga wa tshwanela go tshwelela.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Saete e e dirisa HTTP~
 Go Romela mo go Sireletsegileng (HSTS) go tshwaela gore &brandShortName; go ka golagana fela~
 mo go yone ka tshireletsego. Ka go nna jalo, ga go kgonege go ka tsenya sepe se se ka tlhaolang~
 setlankana se.">
-<!ENTITY certerror.getMeOutOfHere.label "Ntlosa fano!">
 
-<!ENTITY certerror.expert.heading "Ke Tlhaloganya Bodiphatsa">
 <!ENTITY certerror.expert.content "Fa o tlhaloganya se se diragalang, o 
 ka bolelela &brandShortName; go simolola go tshepha boitshupo jwa setsha se. 
 <b> Le fa o tshepha saete e, phoso e e ka raya gore mongwe o 
@@ -51,4 +31,3 @@ o gwetlhagwetlhana le kgolaganyo ya gago.</b>">
  fa o na le lebaka le le utlwalang a gore ke eng setsha se se sa dirise boitshupo jo bo tshephegang.">
 <!ENTITY certerror.addException.label "Tsenya tse di ntshiwang...">
 
-<!ENTITY certerror.technical.heading "Ditshetlana tsa Botegeniki">
