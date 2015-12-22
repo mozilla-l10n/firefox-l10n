@@ -5,6 +5,8 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 <!ENTITY retry.label "Leka Gape">
+
+
 <!-- Specific error messages -->
 
 
@@ -81,6 +83,8 @@ gore &brandShortName; e na le tetlelesego ya Webo.</li>
 <!ENTITY phishingBlocked.title "Pelaelo ya Webo Togo Maaka!">
 
 
+
+
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;thibetse tsebe e go tsenya ka tsela e ntseng jaana ka gore tsebe e na le pholisi ya diteng pabalesego e sa e letleleleng.</p>">
 
 <!ENTITY corruptedContentError.title "Phoso ya Diteng e Senyegileng">
@@ -93,8 +97,6 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY errorReporting.longDesc "Pego ya aterese le tshedimosetso ya setifikeiti ya <span id='hostname'></span> e tla re thusa go lemoga le go kganela disaete tse di tletseng tshenyo. Re lebogela thuso ka go tlhama webo e babalesegileng!">
-<!ENTITY errorReporting.automatic "E fa pegelo ya diphoso ka go itirisa mo lobakeng le letlang">
 <!ENTITY errorReporting.learnMore "Ithute thata...">
 
 
@@ -104,13 +106,11 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Ga go kgonege go Golagana mo go Sireletsegileng">
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 
 

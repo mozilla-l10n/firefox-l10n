@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "G">
 <!ENTITY  unpinTab.label                     "Gokolola Thebe">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "Sutisetsa ko Setlhopheng">
-<!ENTITY  moveToGroup.accesskey              "S">
-<!ENTITY  moveToNewGroup.label               "Setlhopa se Sešha">
 <!ENTITY  moveToNewWindow.label              "Sutisetsa ko Window e Ntšha">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Tshwaatsebe Tsotlhe Dithebe...">
@@ -217,8 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Gae">
 
-<!ENTITY tabGroupsButton.label        "Thebe ya Ditlhopha">
-
 <!ENTITY bookmarksButton.label          "Matshwaotsebe">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -381,8 +376,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Leba"> 
 <!ENTITY viewMenu.accesskey       "L"> 
-<!ENTITY viewTabGroups.label            "Thebe Ditlhopha">
-<!ENTITY viewTabGroups.accesskey        "D">
 <!ENTITY viewToolbarsMenu.label       "Dibara tsa Didiriswa"> 
 <!ENTITY viewToolbarsMenu.accesskey     "D"> 
 <!ENTITY viewSidebarMenu.label "Barathoko">
@@ -410,6 +403,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Busetsa botlameladikopanelwa jo bo fetileng">
 <!ENTITY appMenuHistory.viewSidebar.label "Barathoko ya Tebo ya Ditiragalo tse di difetileng">
 <!ENTITY appMenuHelp.tooltip "Bula Menu wa Thuso">
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Tsenya ko Bara ya didiriswa">
 <!ENTITY customizeMenu.addToToolbar.accesskey "T">
@@ -502,8 +507,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Bula Kgokagano mo Thebeng e Ntšha">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -773,9 +776,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Dithebe tsa Sebatli">
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-<!ENTITY syncTabsMenu2.label     "Dithebe go tswa mo Didirisweng">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncBrand.shortName.label    "Rulaganya ka tsamaisano">
 
@@ -915,15 +916,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "Motlhala o bosheng wa gago o phimotswe.">
 <!ENTITY panicButton.thankyou.msg2                "Go batla mo go pabalesego!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ditebogo!">
-
-<!ENTITY processHang.terminateScript.label        "Emisa Sekeripiti">
-<!ENTITY processHang.terminateScript.accessKey    "E">
-<!ENTITY processHang.debugScript.label            "Rarabolola Sekeripiti">
-<!ENTITY processHang.debugScript.accessKey        "R">
-<!ENTITY processHang.terminatePlugin.label        "Bolaya Gokela">
-<!ENTITY processHang.terminatePlugin.accessKey    "G">
-<!ENTITY processHang.terminateProcess.label       "Bolaya Thulaganyo ya Webo">
-<!ENTITY processHang.terminateProcess.accessKey   "B">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ithute thata ka DRM...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
