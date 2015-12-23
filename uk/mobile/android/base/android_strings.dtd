@@ -190,7 +190,7 @@
 <!ENTITY pref_home_suggested_sites "Показувати пропоновані сайти">
 <!ENTITY pref_home_suggested_sites_summary "Показувати на початковій сторінці ярлики сайтів, які на нашу думку можуть вас зацікавити">
 <!ENTITY pref_category_home_homepage "Початкова сторінка">
-<!ENTITY home_homepage_title "Встановити домашню сторінку">
+<!ENTITY home_homepage_title "Встановити початкову сторінку">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -221,7 +221,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Увімкнено, включно з третьосторонніми">
 <!ENTITY pref_cookies_disabled "Вимкнено">
 
-<!ENTITY pref_tap_to_load_images_title2 "Показувати зображення">
+<!ENTITY pref_tap_to_load_images_title2 "Показ зображень">
 <!ENTITY pref_tap_to_load_images_enabled "Завжди">
 <!ENTITY pref_tap_to_load_images_data "Лише через Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Заблоковано">
