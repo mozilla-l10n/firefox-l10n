@@ -32,4 +32,4 @@ o klask kemer pivelezh al lec'hienn.</b>">
 <!ENTITY certerror.expert.contentPara2 "N'ouzhpennit ket un nemedenn 
 nemet mar gouezit perak ne implij ket al lec'hienn-mañ un testeni fiziek.">
 <!ENTITY certerror.addException.label "Ouzhpennañ un nemedenn…">
-
+<!ENTITY certerror.copyToClipboard.label "Eilañ an destenn er golver">

@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Kevaskit ma fell deoc'h enrollañ ho ker-tremen">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Gwelout kemennadenn staliadur an arload">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Ardeiñ an arver askouezh war ar bajenn-mañ">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Ardeiñ penaos e c'hallit degemer rebuzadurioù digant al lec'hienn">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Ardeiñ rannadur ho kamera ha/pe ho mikrofon gant al lec'hienn">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Rannañ a reoc'h ho kamera ha/pe ho mikrofon gant al lec'hienn">
@@ -410,17 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Gwelout barrenn gostez ar roll istor">
 <!ENTITY appMenuHelp.tooltip "Digeriñ al lañser skoazell">
 
-
+<!ENTITY appMenuRemoteTabs.label "Ivinelloù goubredet">
+<!ENTITY appMenuRemoteTabs.fetching.label "O kerc'hat an ivinelloù goubredet...">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Ivinell digor ebet">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Gweredekait goubredañ an ivinelloù evit gwelout ur roll ivinelloù eus ho trevnadoù all.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Kennaskit da Firefox adalek ho trevnadoù all evit gwelout o ivinelloù aze.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Gwellvezvioù goubredañ">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Kennaskit da welet ur roll ivinelloù eus ho trevnadoù all">
+<!ENTITY appMenuRemoteTabs.signin.label "Kennaskañ da Synx">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ouzhpennañ d'ar varrenn ostilhoù">
 <!ENTITY customizeMenu.addToToolbar.accesskey "O">
@@ -784,6 +788,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "Ivinelloù merdeer">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "Ivinelloù goubredet">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
