@@ -2,3 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY attachmentReminderDialog.title   "Речи које покрећу подсетник о прилогу">
+<!ENTITY attachKeywordText.label          "&brandShortName; ће вас упозорити о прилозима који недостају ако пробате да пошаљете поруку која садржи једну од ових речи.">
+<!ENTITY addKeywordButton.label           "Додај">
+<!ENTITY addKeywordButton.accesskey       "Д">
+<!ENTITY editKeywordButton.label          "Уреди">
+<!ENTITY editKeywordButton.accesskey      "У">
+<!ENTITY removeKeywordButton.label        "Обриши">
+<!ENTITY removeKeywordButton.accesskey    "О">

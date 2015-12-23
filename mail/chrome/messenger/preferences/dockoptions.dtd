@@ -2,4 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dockOptionsDialog.title               "Опције иконице програма">
+<!ENTITY window.macWidth                       "35em">
 
+<!ENTITY bounceSystemDockIcon.label            "Анимирај иконицу програма када нова порука стигне">
+<!ENTITY bounceSystemDockIcon.accesskey        "и">
+<!ENTITY newMessagesCountDock.label            "Број нових порука">
+<!ENTITY newMessagesCountDock.accesskey        "н">
+<!ENTITY showAllUnreadMessagesCount.label      "Број непрочитаних порука">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "х">
+<!ENTITY dockIconBadge.label                   "Беџ иконице програма">
+<!ENTITY dockIconShow.label                    "Стави следећи беџ на иконицу програма:">
+<!ENTITY directNotificationSettings.label      "Можете онемогућити беџ у окну за обавештења у подешавањима система.">

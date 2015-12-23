@@ -306,3 +306,6 @@
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Контакти">
 
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Прилагоди из адресе…">
+<!ENTITY customizeFromAddress.accesskey "А">
