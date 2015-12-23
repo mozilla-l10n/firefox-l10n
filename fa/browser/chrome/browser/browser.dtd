@@ -359,9 +359,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "بریدن">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ر"> 
-<!ENTITY copyCmd.label            "کپی">  
+<!ENTITY copyCmd.label            "رونوشت">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "ک"> 
+<!ENTITY copyCmd.accesskey          "ر"> 
 <!ENTITY pasteCmd.label           "چسباندن">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "چ"> 

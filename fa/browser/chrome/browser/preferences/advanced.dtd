@@ -94,8 +94,8 @@
 <!ENTITY enableSearchUpdate.label        "موتورهای جست‌وجو">
 <!ENTITY enableSearchUpdate.accesskey    "م">
 
-<!ENTITY offlineNotify.label             "اطلاع بده به من هنگامی که یک پایگاه وب تلاش می‌کند اطلاعاتی برای استفاده آفلاین ذخیره کند">
-<!ENTITY offlineNotify.accesskey         "ا">
+<!ENTITY offlineNotify.label             "هنگامی که یک پایگاه وب تلاش می‌کند اطلاعاتی برای استفاده آفلاین ذخیره کند به من اطلاع بده">
+<!ENTITY offlineNotify.accesskey         "ه">
 <!ENTITY offlineNotifyExceptions.label   "استثناها…">
 <!ENTITY offlineNotifyExceptions.accesskey "ث">
 
