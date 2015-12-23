@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Siz maxfiy ko‘rish rejimida emassiz">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "Internetdagi faoliyatingizni kuzatishi mumkin bo‘lgan sahifalar qismlarini &brandShortName; bloklaydi.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Biz hech qanday tarixni eslab qolmaymiz, lekin yuklab olingan fayllar va yangi qo‘shilgan xatcho‘plar qurilmangizda saqlanib qolaveradi.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->

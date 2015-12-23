@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Xizmat shartlari">
 <!ENTITY fxaccount_status_linkprivacy "Maxfiylik eslatmalari">
 <!ENTITY fxaccount_status_more "Ko‘proq&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "&ellipsis; hisobini uzish">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox hisobi o‘chirilsinmi?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; hisobingiz bilan sinxronlashni to‘xtatadi, ammo qurilmangizdagi ko‘rish tarixingizni o‘chirmaydi.">
