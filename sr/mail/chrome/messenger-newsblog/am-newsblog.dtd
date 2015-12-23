@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY biffStart.label "Провери да ли има нових чланака на сваких ">
+<!ENTITY biffStart.accesskey "л">
+<!ENTITY biffEnd.label "минута">
+
+<!ENTITY loginAtStartup.label "Провери да ли има нових чланака при покретању програма"> 
+<!ENTITY loginAtStartup.accesskey "П">
+
+<!ENTITY useQuickMode.label "Подразумевано, прикажи резиме чланка уместо учитавања веб странице"> 
+<!ENTITY useQuickMode.accesskey "з">
+
+<!ENTITY manageSubscriptions.label "Управљајте претплатама…"> 
+<!ENTITY manageSubscriptions.accesskey "У">
+
+<!ENTITY feedWindowTitle.label "Чаробњак за налоге довода">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Блогови и доводи вести">
+<!ENTITY feeds.wizardShortName "Доводи">
+<!ENTITY feeds.wizardLongName "Блогови и доводи вести">
+<!ENTITY feeds.wizardLongName.accesskey "г">
