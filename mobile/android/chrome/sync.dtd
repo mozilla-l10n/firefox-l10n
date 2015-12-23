@@ -4,6 +4,12 @@
 
 
 
+<!ENTITY sync.details               "Detalles">
+
+
+<!ENTITY sync.syncNow               "Sincronizar ahora">
+
+<!ENTITY sync.setup.pair            "Para activar, selecciona &quot;Emparejar un dispositivo&quot; en tu otro dispositivo.">
 
 
 
@@ -12,16 +18,11 @@
 
 
 
+<!ENTITY sync.setup.cancel          "Cancelar">
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY sync.pair.title            "Emparejar un dispositivo">
+<!ENTITY sync.pair.description      "Para activar tu nuevo dispositivo, selecciona &quot;Configurar Sync&quot; en el dispositivo.">
+<!ENTITY sync.setup.close           "Cerrar">
 
