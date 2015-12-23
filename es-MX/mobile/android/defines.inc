@@ -7,5 +7,6 @@
 
 # variable definition and use the format specified.
 
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mozilla México</em:contributor>
 
 #unfilter emptyLines

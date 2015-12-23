@@ -101,16 +101,11 @@
 
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
-<!ENTITY pref_category_input_options "Opciones de entrada">
-<!ENTITY pref_category_advanced "Avanzado">
-<!ENTITY pref_category_customize "Personalizar">
-<!ENTITY pref_category_customize_summary "Inicio, buscar, pestañas, importar">
-<!ENTITY pref_category_customize_alt_summary "Inicio, buscar, pestañas, abrir después, importar ">
+
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "Idioma">
 <!ENTITY pref_category_language_summary "Cambiar el idioma de tu navegador">
 <!ENTITY pref_browser_locale "Idioma del navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -138,27 +133,21 @@
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "Enviar a otro dispositivo">
-<!ENTITY overlay_share_no_url "No se ha encontrado enlace en esta compartición">
+<!ENTITY overlay_share_no_url "No se ha encontrado el enlace para esta compartición">
 <!ENTITY overlay_share_select_device "Seleccionar dispositivo">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "No hay ninguna cuenta de Firefox conectada a este dispositivo">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-
-<!ENTITY menu_no_synced_devices "Enviar esta pestaña a otro dispositivo conectado">
+<!ENTITY overlay_no_synced_devices "No se encontró una cuenta de Firefox conectada a los dispositivos">
 
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar tus proveedores de búsqueda">
-<!ENTITY pref_category_display "Mostrar">
-<!ENTITY pref_category_display_summary "Texto, barra de título, navegación de pantalla completa">
-<!ENTITY pref_category_privacy_short "Privacidad">
-<!ENTITY pref_category_privacy_summary2 "Control de credenciales, cookies, rastreo, datos">
 
-<!ENTITY pref_category_vendor_summary "Acerca de &brandShortName;, preguntas frecuentes, elección de datos">
+
+<!ENTITY pref_category_privacy_short "Privacidad">
+
+
+
 <!ENTITY pref_category_datareporting "Elección de datos">
 <!ENTITY pref_learn_more "Saber más">
 <!ENTITY pref_category_installed_search_engines "Motores de búsqueda instalados">
@@ -172,12 +161,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSEJO: Agrega cualquier sitio web a la lista de proveedores de búsqueda con una presión larga en su campo de búsqueda y luego tocando el ícono &formatI;.">
-<!ENTITY pref_category_devtools "Herramientas de desarrollador">
+
+
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota vía USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota vía Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Depuración por Wi-Fi requiere que tu dispositivo tenga un lector de códigos QR instalado.">
-<!ENTITY pref_category_logins "Inicios de sesión">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración por Wi-Fi require que tenga tu dispositivo un app de lector de códigos QR.">
 <!ENTITY pref_remember_signons2 "Recordar inicios de sesión">
 <!ENTITY pref_open_external_urls_privately_title "Abrir enlaces en Navegación Privada">
 <!ENTITY pref_open_external_urls_privately_summary "Para todos los enlaces externos abiertos en &brandShortName;">
@@ -193,30 +182,40 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 agregado a página de inicio">
 <!ENTITY pref_category_home_content_settings "Configuraciones de contenido">
-<!ENTITY pref_home_updates "Actualizaciones automáticas">
+
 <!ENTITY pref_home_updates_enabled "Habilitado">
 <!ENTITY pref_home_updates_wifi "Solo sobre Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Mostrar sugerencias de sitio">
 <!ENTITY pref_home_suggested_sites_summary "Mostrar atajos a los sitios en tu página de inicio que pensamos podrían ser de interés">
 <!ENTITY pref_category_home_homepage "Página de inicio">
 <!ENTITY home_homepage_title "Establecer página de inicio">
-<!ENTITY home_homepage_use_current_tab "Usar pestaña actual">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Personalizar">
-<!ENTITY pref_header_display "Mostrar">
 <!ENTITY pref_header_privacy_short "Privacidad">
-<!ENTITY pref_header_help "Ayuda">
-<!ENTITY pref_header_language "Idioma">
 
-<!ENTITY pref_header_devtools "Herramientas de desarrollador">
+
+<!ENTITY pref_header_help "Ayuda">
+
 
 <!ENTITY pref_cookies_accept_all "Habilitado">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo a terceros">
 <!ENTITY pref_cookies_disabled "Deshabiltado">
 
-<!ENTITY pref_tap_to_load_images_title "Cargar imágenes">
-<!ENTITY pref_tap_to_load_images_summary2 "Cargar imágenes sólo cuando las mantengas presionadas">
+
+
+
 
 <!ENTITY pref_tracking_protection_title "Protección de rastreo">
 <!ENTITY pref_tracking_protection_summary3 "Habilitado en Navegación Privada">
@@ -251,9 +250,11 @@
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
 <!ENTITY pref_char_encoding_off "No mostrar menú">
-<!ENTITY pref_clear_private_data2 "Limpiar ahora">
-<!ENTITY pref_clear_private_data_category "Limpiar datos privados">
-<!ENTITY pref_clear_on_exit_title2 "Limpiar al salir">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Limpiar ahora">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automáticamente limpiará tus datos siempre que selecciones \u0022Quit\u0022 desde el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccionar que datos limpiar">
 
@@ -261,7 +262,7 @@
 <!ENTITY pref_plugins_tap_to_play "Presiona para jugar">
 <!ENTITY pref_plugins_disabled "Deshabilitado">
 <!ENTITY pref_text_size "Tamaño de texto">
-<!ENTITY pref_restore "Pestañas">
+
 <!ENTITY pref_restore_always "Siempre restaurar">
 <!ENTITY pref_restore_quit "No restaurar después de salir de &brandShortName;">
 <!ENTITY pref_font_size_tiny "Diminuto">
@@ -285,16 +286,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Siempre habilitar enfoque">
 <!ENTITY pref_zoom_force_enabled_summary "Forzar sobrescritura para que pueda variar el tamaño de cualquier página">
 <!ENTITY pref_voice_input "Entrada de voz">
-<!ENTITY pref_voice_input_summary "Permitir dictado por voz en la barra de título">
+
 <!ENTITY pref_qrcode_enabled "Lector de códigos QR">
-<!ENTITY pref_qrcode_enabled_summary "Permitir escáner de códigos QR en la barra de título">
+
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 
 <!ENTITY pref_sync_summary2 "Sincroniza tus pestañas, marcadores, inicios de sesión, historial">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_history_search_suggestions "Mostrar historial de búsqueda">
-<!ENTITY pref_import_android "Importar desde Android">
+
 <!ENTITY pref_import_android_summary "Importar marcadores e historial desde el navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_searchHistory "Historial de búsqueda">
@@ -351,18 +352,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
 <!ENTITY pref_update_autodownload_wifi "Sólo sobre Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
-<!ENTITY pref_update_autodownload_always "Siempre">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Ayuda">
 
 <!ENTITY quit "Salir">
 
-<!ENTITY addons "Complementos">
-<!ENTITY logins "Inicios de sesión">
+
 <!ENTITY downloads "Descargas">
 <!ENTITY char_encoding "Codificación de caracteres">
 
@@ -379,7 +378,7 @@ size. -->
 <!ENTITY new_private_tab "Nueva pestaña privada">
 <!ENTITY close_all_tabs "Cerrar todas las pestañas">
 <!ENTITY close_private_tabs "Cerrar pestañas privadas">
-<!ENTITY tabs_normal "Pestañas">
+
 <!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincronizado">
 <!ENTITY set_image_fail "No se puede establecer la imagen">
@@ -432,10 +431,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "No se pudo copiar la contraseña">
 <!ENTITY doorhanger_login_select_action_text "Seleccionar otro inicio de sesión">
 <!ENTITY doorhanger_login_select_title "Copiar contraseña desde">
-
-<!ENTITY pref_titlebar_mode "Barra de título">
-<!ENTITY pref_titlebar_mode_title "Mostrar título de página">
-<!ENTITY pref_titlebar_mode_url "Mostrar dirección de la página">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -445,7 +440,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
-<!ENTITY pref_scroll_title_bar_summary "Ocultar la barra de título de &brandShortName; al bajar en una página">
+
 
 <!ENTITY pref_tab_queue_title2 "Abrir múltiples enlaces">
 <!ENTITY pref_tab_queue_summary3 "Guardarlas hasta que vuelvas a abrir &brandShortName;">
@@ -465,7 +460,6 @@ size. -->
 <!ENTITY site_settings_title3       "Configuraciones del sitio">
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Limpiar">
-<!ENTITY site_settings_no_settings  "No hay configuraciones para limpiar.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -504,8 +498,6 @@ size. -->
 <!ENTITY home_top_sites_add "Agregar un sitio">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "&brandShortName; Inicio">
 <!ENTITY home_history_title "Historial">
 <!ENTITY home_clear_history_button "Limpiar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Estás seguro que quieres limpiar tu historial?">
@@ -519,14 +511,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: usando una &formatS1;Nueva pestaña privada&formatS2; no se guardará tu historial.">
 <!ENTITY home_reading_list_empty "Artículos que guardes para después se mostrarán aquí.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "Consejo: Para guardar artículos en tu lista de lectura presiona el icono &formatI; cuando aparezca en la barra de titulo.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Consejo: Para guardar artículos en tu lista de lectura presiona el botón de modo lectura cuando aparezca en la barra de titulo.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -559,7 +549,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Desocultar dispositivos seleccionados">
 
 <!ENTITY remote_tabs_panel_moved_title "¿A dónde fueron mis pestañas?">
-<!ENTITY remote_tabs_panel_moved_desc "Hemos movido tus pestañas de otros dispositivos al panel de tu página de inicio para que sean fácilmente accesible para vez que abras una nueva pestaña.">
+<!ENTITY remote_tabs_panel_moved_desc "Hemos movido tus pestañas de otros dispositivos al panel de tu página de inicio para que sean fácilmente accesibles para vez que abras una nueva pestaña.">
 <!ENTITY remote_tabs_panel_moved_link "Llévame a mi nuevo panel.">
 
 <!ENTITY pin_site_dialog_hint "Introduce una palabra clave de búsqueda">
@@ -713,20 +703,20 @@ desde Android">
      code. -->
 
 <!ENTITY devtools_auth_scan_header "Escaneando el código QR mostrado en tu otro dispositivo">
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY restriction_disallow_import_settings_title2 "Deshabilitar \u0027Importar desde Android\u0027">
-<!ENTITY restriction_disallow_addons_title2 "Deshabilitar instalación de complemento">
-<!ENTITY restriction_disallow_devtools_title2 "Deshabilitar herramientas de desarrollador">
-<!ENTITY restriction_disallow_customize_home_title2 "Deshabilitar personalización de Inicio">
-<!ENTITY restriction_disallow_private_browsing_title2 "Deshabilitar Navegación Privada">
-<!ENTITY restriction_disallow_location_services_title2 "Deshabilitar Servicios de Localización">
-<!ENTITY restriction_disallow_display_settings_title2 "Deshabilitar configuración de pantalla">
-<!ENTITY restriction_disallow_clear_history_title2 "Deshabilitar \u0027Limpiar historial de navegación\u0027">
-<!ENTITY restriction_disallow_master_password_title2 "Deshabilitar contraseña maestra">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Deshabilitar Navegación de Invitado">
+<!ENTITY restrictable_feature_private_browsing "Navegación Privada">
+
+
+
+
+
+
+
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -739,3 +729,8 @@ desde Android">
 <!ENTITY bookmarks_restricted_support2 "Ayuda de Firefox y soporte para perfiles restringidos en tabletas Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Conoce la Web: Mozilla Webmaker">
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+

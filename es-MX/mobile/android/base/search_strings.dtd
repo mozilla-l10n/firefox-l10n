@@ -2,29 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search_app_name "&brandShortName; Jénode">
+<!ENTITY search_app_name "&brandShortName; Buscar">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
-<!ENTITY search_bar_hint "Jénode &formatS;">
+<!ENTITY search_bar_hint "Buscar &formatS;">
 
-<!ENTITY search_empty_title2 "Jenua taɨnede">
-<!ENTITY search_empty_message "Raɨre jéno o  óiakadɨo">
+<!ENTITY search_empty_title2 "Iniciar búsqueda">
+<!ENTITY search_empty_message "Búsqueda rápida para cualquier cosa que necesites">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
 
-<!ENTITY search_plus_content_description "Itófe zota jénoyena">
+<!ENTITY search_plus_content_description "Agregar a la barra de búsqueda">
 
 <!ENTITY search_pref_title "Configuración">
 <!ENTITY search_pref_button_content_description "Configuración">
 
-<!ENTITY pref_clearHistory_confirmation "Já doga jágaɨ">
+<!ENTITY pref_clearHistory_confirmation "Historial limpio">
 <!ENTITY pref_clearHistory_dialogMessage "¿Eliminar todo el historial de búsquedas de este dispositivo?">
-<!ENTITY pref_clearHistory_title "Jenoka jágaɨ dóiri">
+<!ENTITY pref_clearHistory_title "Limpiar historial de búsqueda">
 
-<!ENTITY pref_searchProvider_title "Ráya jenokana">
+<!ENTITY pref_searchProvider_title "Motor de búsqueda">
 
-<!ENTITY search_widget_button_label "Jénode">
+<!ENTITY search_widget_button_label "Buscar">
 
-<!ENTITY network_error_title "Nitaoñede Internet">
-<!ENTITY network_error_message "Beno yuta eroyena abɨdo finoka fakara">
+<!ENTITY network_error_title "Sin conexión a Internet">
+<!ENTITY network_error_message "Presiona aquí para revisar tu configuración de red">
