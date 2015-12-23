@@ -22,5 +22,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Die webblad by <span id='phishing_sitename'/> is as 'n webnamaaksel aangegee en is op grond van u sekuriteitvoorkeure geblokkeer.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Webnamaaksels word ontwerp om mens te flous om persoonlike of finansiële inligting bekend te maak deur bronne na te maak wat mens dalk vertrou.</p><p>Deur inligting op hierdie webblad te gee, kan dit dalk lei tot identiteitsdiefstal of ander bedrog.</p>">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "Verbode werf">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Die webblad by <span id='forbidden_sitename'/> is geblik gebaseer op die blaaier se opstelling.">
 
