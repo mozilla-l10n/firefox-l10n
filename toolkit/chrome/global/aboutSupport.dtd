@@ -93,8 +93,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "تاریخچهٔ نصب">
 <!ENTITY aboutSupport.updateHistoryTitle "تاریخچه بروزرسانی">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "به کلیپ‌بورد کپی کن">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "داده‌های خام را به کلیپ‌بورد کپی کن">
+<!ENTITY aboutSupport.copyTextToClipboard.label "رونوشت متن به تخته‌گیره">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "رونوشت برداشتن از داده‌های خام در تخته‌گیره">
 
 <!ENTITY aboutSupport.sandboxTitle "فضا آزمایش">
 

@@ -72,7 +72,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "ورود">
-<!ENTITY existingRecoveryKey.description "برای دریافت کپی از کلید بازیابی خود، به تنظیمات &syncBrand.shortName.label; روی دستگاه خود رفته،   و&quot;کلید بازیابی من&quot;را در زیر&quot;مدیریت حساب&quot; انتخاب کنید.">
+<!ENTITY existingRecoveryKey.description "شما می‌توانید رونوشتی از کلید بازیابی خود را با رفتن به تنظیمات &syncBrand.shortName.label; در دستگاه دیگر خود،  و انتخاب «کلید بازیابی من» تحت قسمت «مدیریت حساب»، دریافت کنید.">
 <!ENTITY verifying.label              "در حال وارسی…">
 <!ENTITY resetPassword.label          "پاک‌سازی گذرواژه">
 <!ENTITY resetSyncKey.label           "رایانهٔ دیگر خود را گم کرده‌ام.">
@@ -105,7 +105,7 @@
 <!ENTITY setup.optionsConfirmPage.title "تأیید">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; هم‌اکنون تمامی اطلاعات مرور در این دستگاه را با سرور همگام‌سازی ادغام میکند.">
 <!ENTITY confirm.client3.label         "هشدار: اطلاعات زیر در &brandShortName;  در این دستگاه پاک می‌شوند:">
-<!ENTITY confirm.client2.moreinfo.label "سپس &brandShortName; اطلاعات &syncBrand.fullName.label; را در دستگاه کپی میکند.">
+<!ENTITY confirm.client2.moreinfo.label "سپس &brandShortName; رونوشتی از اطلاعات &syncBrand.fullName.label; را در دستگاه ذخیره می‌کند.">
 <!ENTITY confirm.server2.label         "هشدار: اطلاعات موجود روی این رایانه‌ها با اطلاعات این رایانه جایگزین خواهد شد:">
 <!-- New & Existing Account: Setup Complete -->
 

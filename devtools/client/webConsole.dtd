@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "پیشانهٔ وب">
-
+<!ENTITY browserConsole.title "پایانه مرورگر">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
