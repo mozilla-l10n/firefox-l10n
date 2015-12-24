@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "دعوة منفصلة لكل حاضر">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "هذا الخيار يرسل رسالة دعوة واحدة لكل حاضر. كل دعوة تحتوي فقط على الحاضر المتلقي للدعوة بحيث لا يُفصح عن هويات الحضور الأخرى.">
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "خيارات">
 <!ENTITY  event.menu.options.accesskey                        "خ">
-<!ENTITY  event.menu.options.attendees.label                  "ادع الحضور…">
-<!ENTITY  event.menu.options.attendees.accesskey              "د">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "أظهر المناطق الزمنية">
 <!ENTITY  event.menu.options.timezone2.accesskey              "ط">
 <!ENTITY  event.menu.options.priority2.label                  "الأولويّة">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "متفرغ">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "ف">
 
-<!ENTITY event.invite.attendees.label                     "ادع الحضور…">
-<!ENTITY event.invite.attendees.accesskey                 "د">
+
 <!ENTITY event.email.attendees.label                      "اكتب بريدا إلكترونيا إلى كل الحضور…">
 <!ENTITY event.email.attendees.accesskey                  "ك">
 <!ENTITY event.email.tentative.attendees.label            "اكتب بريدا إلكترونيا إلى الحضور المترددين…">
 <!ENTITY event.email.tentative.attendees.accesskey        "د">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "احفظ و أغلق">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "الاسم:" >
 <!ENTITY event.title.textbox.accesskey                    "س">
-<!ENTITY event.location.label                             "المكان:" >
-<!ENTITY event.location.accesskey                         "م">
+
+
 <!ENTITY event.categories.label                           "الفئة:">
 <!ENTITY event.categories.accesskey                       "ف">
 <!ENTITY event.categories.textbox.label                   "أضف فئة جديدة" >
 <!ENTITY event.calendar.label                             "التقويم:" >
 <!ENTITY event.calendar.accesskey                         "ت">
-<!ENTITY event.attendees.label                            "الحضور:" >
-<!ENTITY event.attendees.accesskey                        "ح" >
+
+
 <!ENTITY event.alldayevent.label                          "حدث طوال اليوم" >
 <!ENTITY event.alldayevent.accesskey                      "ط">
 <!ENTITY event.from.label                                 "البداية:" >
 <!ENTITY event.from.accesskey                             "د">
 <!ENTITY task.from.label                                  "البداية:" >
 <!ENTITY task.from.accesskey                              "د">
-<!ENTITY event.to.label                                   "النهاية:" >
-<!ENTITY event.to.accesskey                               "ه">
+
+
 <!ENTITY task.to.label                                    "تاريخ الاستحقاق:" >
 <!ENTITY task.to.accesskey                                "ق">
 <!ENTITY task.status.label                                "الحالة:" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "ف" >
 <!ENTITY event.attachments.popup.removeAll.label          "أزل الكل" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "ك" >
-<!ENTITY event.attachments.popup.attachPage.label         "أرفق صفحة وِب…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "ص" >
+
+
 <!ENTITY event.url.label                                  "رابط ذا صلة:" >
 <!ENTITY event.priority2.label                            "الأولويّة:">
 
@@ -348,6 +348,7 @@
 <!ENTITY event.attendee.usertype.group          "مجموعة">
 <!ENTITY event.attendee.usertype.resource       "مورِد">
 <!ENTITY event.attendee.usertype.room           "غرفة">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "من فضلك حدد المنطقة الزمنية">
