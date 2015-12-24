@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Възстановяване">
 <!ENTITY restoreHTMLDefaults.accesskey        "ъ">
 
+
+
 <!ENTITY spellCheck.label                     "Проверка на правописа преди изпращане">
 <!ENTITY spellCheck.accesskey                 "П">
 <!ENTITY spellCheckInline.label               "Проверка на правописа със самото писане">

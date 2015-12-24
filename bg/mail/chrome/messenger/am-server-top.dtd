@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Проверка за нови писма на всеки ">
 <!ENTITY biffStart.accesskey "к">
 <!ENTITY biffEnd.label "минути">
+
+
 <!ENTITY connectionSecurity.label "Сигурност на връзката:">
 <!ENTITY connectionSecurity.accesskey "у">
 <!ENTITY connectionSecurityType-0.label "Без">

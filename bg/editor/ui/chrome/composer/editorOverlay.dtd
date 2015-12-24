@@ -84,20 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Размер">
 <!ENTITY fontSizeMenu.accesskey "м">
-<!ENTITY size-xx-smallCmd.label "най-малък">
-<!ENTITY size-xx-smallCmd.accesskey "л">
-<!ENTITY size-x-smallCmd.label "по-малък">
-<!ENTITY size-x-smallCmd.accesskey "а">
-<!ENTITY size-smallCmd.label "малък">
-<!ENTITY size-smallCmd.accesskey "ъ">
-<!ENTITY size-mediumCmd.label "среден">
-<!ENTITY size-mediumCmd.accesskey "д">
-<!ENTITY size-largeCmd.label "голям">
-<!ENTITY size-largeCmd.accesskey "г">
-<!ENTITY size-x-largeCmd.label "по-голям">
-<!ENTITY size-x-largeCmd.accesskey "о">
-<!ENTITY size-xx-largeCmd.label "най-голям">
-<!ENTITY size-xx-largeCmd.accesskey "й">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Стил на текста">
@@ -313,7 +311,6 @@
 <!ENTITY throbber.tooltip "Към началната страница на &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Изберете цвят на откроения текст">
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Намаляване размера на шрифта">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Увеличаване размера на текста">
 <!ENTITY boldToolbarCmd.tooltip "Удебелен">

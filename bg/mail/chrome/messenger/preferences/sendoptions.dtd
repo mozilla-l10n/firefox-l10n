@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Настройки за изпращане">
 <!ENTITY sendMail.title               "Текстов формат">
+
+
 <!ENTITY sendMaildesc.label           "Когато изпращате писмо в HTML формат и един и повече получатели не могат да получават HTML:">
 <!ENTITY askMe.label                  "Запитване какво действие да се предприеме">
 <!ENTITY askMe.accesskey              "З">
