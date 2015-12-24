@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Restaura els valors per defecte">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
+
+
 <!ENTITY spellCheck.label                     "Comprova l'ortografia abans d'enviar">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Activa la verificació ortogràfica a mesura que s'escriu">
