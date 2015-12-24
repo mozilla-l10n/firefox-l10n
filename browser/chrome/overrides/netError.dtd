@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "পৃষ্ঠা লোড করতে সমস্যা">
 <!ENTITY retry.label "পুনরায় চেষ্টা করুন">
 <!ENTITY returnToPreviousPage.label "পিছনে ফিরে যাও">
-
+<!ENTITY advanced.label "উন্নততর ">
 <!-- Specific error messages -->
 
 
@@ -141,7 +141,8 @@ connection.</li>
 <!ENTITY phishingBlocked.longDesc "<p>এই পৃষ্ঠায় ব্যক্তিগত তথ্য দিয়ে থাকলে আপনি পরিচয় প্রতারণা বা অন্যান্য প্রতারণার শিকার হতে পারেন।</p> 
 <p>এসব ওয়েব জালিয়াতি ফিশিং নামে পরিচিত। জাল ওয়েবসাইটগুলো, পরিচিত ও বিশ্বাসযোগ্য সাইট ও ইমেইল নকল করে আপনার কাছ থেকে  ব্যক্তিগত ও অর্থ সংক্রান্ত তথ্য বের করে নেয়।</p>">
 
-
+<!ENTITY forbiddenBlocked.title "নিষিদ্ধ সাইট">
+<!ENTITY forbiddenBlocked.longDesc "<p>এই পৃষ্ঠাটি লোড করতে &brandShortName; বাধা দেয় কারণ আপনার নির্ধারিত কনফিগারেশনে এটিকে ব্লক করতে বলা হয়েছে।</p>">
 
 <!ENTITY cspBlocked.title "বিষয়বস্তুর নিরাপত্তা নীতিমালা দ্বারা ব্লক">
 <!ENTITY cspBlocked.longDesc "<p>এভাবে পৃষ্ঠা লোড করতে &brandShortName; বাধা দেয় কারণ এ পৃষ্ঠার বিষয়বস্তুর নিরাপত্তা নীতিমালা এটা করতে অনুমোদন দেয় না।</p>">
@@ -182,6 +183,7 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.title "আপনার সংযোগ নিরাপদ নয়">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
+<!ENTITY weakCryptoUsed.longDesc2 "উচ্চপর্যায়ের তথ্য: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "উন্নততর">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> একটি নিরাপত্তা ব্যবস্থা ব্যবহার করে যা সেকেলে এবং অরক্ষিত। একজন আক্রমণকারী সহজেই সেই তথ্যগুলো ফাঁস করে দিতে পারে যা আপনি নিরাপদ মনে করতেন।">
 <!ENTITY weakCryptoAdvanced.override "(নিরাপদ নয়) পুরনো নিরাপত্তা ব্যবস্থা ব্যবহার করেই <span class='hostname'></span> লোড করার চেষ্টা করুন">
