@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Skats">
 <!ENTITY viewMenu.accesskey                             "S">
 <!ENTITY viewToolbarsMenu.label                         "Rīkjoslas">
-<!ENTITY viewToolbarsMenu.accesskey                     "R"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "R">
 
 
 
@@ -103,7 +103,7 @@
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Vārds Uzvārds">
-<!ENTITY firstLastCmd2.accesskey                        "V"> 
+<!ENTITY firstLastCmd2.accesskey                        "V">
 <!ENTITY lastFirstCmd.label                             "Uzvārds Vārds">
 <!ENTITY lastFirstCmd.accesskey                         "U">
 
@@ -126,6 +126,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.label                       "Iestatījumi">
 <!ENTITY preferencesCmdUnix.accesskey                   "u">
 <!-- Address Book Toolbar and Context Menus -->
+
+
 
 
 
@@ -200,7 +202,7 @@ because displayed names don't have the comma in between. -->
 
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
 
