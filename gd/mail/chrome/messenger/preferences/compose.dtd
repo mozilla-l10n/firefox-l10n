@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Aisig na roghainnean bunaiteach">
 <!ENTITY restoreHTMLDefaults.accesskey        "r">
 
+
+
 <!ENTITY spellCheck.label                     "Ceartaich an litreachadh mus dèid a chur">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Ceartaich an litreachadh fhad 's a bhios mi a' sgrìobhadh">

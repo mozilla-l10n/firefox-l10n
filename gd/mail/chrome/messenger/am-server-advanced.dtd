@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "N">
 <!ENTITY dualUseFolders.label "Tha am frithealaiche a' cur taic ri pasgain anns a bheil fo-phasgain is teachdaireachdan">
 <!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "Cleachd an àithne IDLE ma chuireas am frithealaiche taic ris">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Àireamh as motha de cheanglaichean frithealaiche ri thasgadh">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "C">
 <!ENTITY overrideNamespaces.label "Leig le frithealaichean na namespaces seo fhàgail gu taobh">
 <!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3Desc.label "Ma luchdaicheas mi a-nuas post POP airson an fhrithealaiche seo, cleachd am pasgan a leanas airson post ùr:" >
-<!ENTITY accountDirectory.label "Am bogsa a-steach airson cunntas an fhrithealaiche seo">
-<!ENTITY accountDirectory.accesskey "s">
+
+
+
 <!ENTITY deferToServer.label "Am bogsa a-steach airson cunntas eile">
 <!ENTITY deferToServer.accesskey "A">
 <!ENTITY deferGetNewMail.label "Gabh a-steach am frithealaiche seo nuair a dh'iarras mi am post ùr">
