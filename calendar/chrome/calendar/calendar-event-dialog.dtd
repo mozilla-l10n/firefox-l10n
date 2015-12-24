@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Partaide bakoitzeko gonbidapen bana">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Aukera honek partaide bakoitzeko gonbidapen bana bidaltzen du. Gonbidapen bakoitzak gonbidatutako hartzailearen helbidea dauka soilik eta beste partaideak ez dira aditzera emango.">
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "Aukerak">
 <!ENTITY  event.menu.options.accesskey                        "A">
-<!ENTITY  event.menu.options.attendees.label                  "Gonbidatu partaideak…">
-<!ENTITY  event.menu.options.attendees.accesskey              "G">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Erakutsi ordu-zonak">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Lehentasuna">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Libre">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
-<!ENTITY event.invite.attendees.label                     "Gonbidatu partaideak…">
-<!ENTITY event.invite.attendees.accesskey                 "G">
+
 <!ENTITY event.email.attendees.label                      "Partaide guztientzat e-posta idatzi…">
 <!ENTITY event.email.attendees.accesskey                  "g">
 <!ENTITY event.email.tentative.attendees.label            "Erabaki gabeko partaideei e-posta idatzi…">
 <!ENTITY event.email.tentative.attendees.accesskey        "E">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Gorde eta itxi">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "Izenburua:" >
 <!ENTITY event.title.textbox.accesskey                    "I">
-<!ENTITY event.location.label                             "Helbidea:" >
-<!ENTITY event.location.accesskey                         "l">
+
+
 <!ENTITY event.categories.label                           "Kategoria:">
 <!ENTITY event.categories.accesskey                       "K">
 <!ENTITY event.categories.textbox.label                   "Gehitu kategoria berria" >
 <!ENTITY event.calendar.label                             "Egutegia:" >
 <!ENTITY event.calendar.accesskey                         "E">
-<!ENTITY event.attendees.label                            "Partaideak:" >
-<!ENTITY event.attendees.accesskey                        "I" >
+
+
 <!ENTITY event.alldayevent.label                          "Egun osoko gertaera" >
 <!ENTITY event.alldayevent.accesskey                      "o">
 <!ENTITY event.from.label                                 "Hasi:" >
 <!ENTITY event.from.accesskey                             "H">
 <!ENTITY task.from.label                                  "Hasiera:" >
 <!ENTITY task.from.accesskey                              "B">
-<!ENTITY event.to.label                                   "Amaiera:" >
-<!ENTITY event.to.accesskey                               "A">
+
+
 <!ENTITY task.to.label                                    "Amaiera data:" >
 <!ENTITY task.to.accesskey                                "d">
 <!ENTITY task.status.label                                "Egoera:" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "I" >
 <!ENTITY event.attachments.popup.removeAll.label          "Kendu denak" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-<!ENTITY event.attachments.popup.attachPage.label         "Erantsi web orria…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
+
+
 <!ENTITY event.url.label                                  "Erlazionatutako lotura:" >
 <!ENTITY event.priority2.label                            "Lehentasuna:">
 
@@ -348,6 +348,7 @@
 <!ENTITY event.attendee.usertype.group          "Taldea">
 <!ENTITY event.attendee.usertype.resource       "Baliabidea">
 <!ENTITY event.attendee.usertype.room           "Gela">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Zehaztu ordu-zonaldea">
