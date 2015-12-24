@@ -93,10 +93,7 @@
 
 <!ENTITY settings "Settings">
 
-
-<!ENTITY pref_category_advanced "Advanced">
-<!ENTITY pref_category_customize "Customise">
-
+<!ENTITY pref_category_general "General">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -125,17 +122,13 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 
-<!ENTITY pref_category_display "Display">
+
 
 <!ENTITY pref_category_privacy_short "Privacy">
 
-<!ENTITY pref_category_vendor "&vendorShortName;">
+
 
 <!ENTITY pref_category_datareporting "Data choices">
 <!ENTITY pref_learn_more "Learn more">
@@ -149,9 +142,9 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_category_devtools "Developer tools">
-<!ENTITY pref_developer_remotedebugging "Remote debugging">
 
+
+<!ENTITY pref_developer_remotedebugging "Remote debugging">
 
 
 
@@ -169,7 +162,6 @@
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
 
-<!ENTITY pref_home_updates "Automatic updates">
 
 
 
@@ -177,6 +169,18 @@
 
 
 
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 
@@ -210,6 +214,8 @@
 
 
 
+
+
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -221,7 +227,8 @@
 <!ENTITY pref_char_encoding_on "Show menu">
 <!ENTITY pref_char_encoding_off "Don\u0027t show menu">
 
-<!ENTITY pref_clear_private_data_category "Clear private data">
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 
 
 
@@ -230,7 +237,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tap to play">
 
 <!ENTITY pref_text_size "Text size">
-<!ENTITY pref_restore "Tabs">
+
 <!ENTITY pref_restore_always "Always restore">
 <!ENTITY pref_restore_quit "Don\u0027t restore after quitting &brandShortName;">
 <!ENTITY pref_font_size_tiny "Tiny">
@@ -258,11 +265,11 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "Use master password">
-<!ENTITY pref_sync "Sync">
+
 
 <!ENTITY pref_search_suggestions "Show search suggestions">
 
-<!ENTITY pref_import_android "Import from Android">
+
 
 
 
@@ -319,15 +326,13 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Download updates automatically">
 
 <!ENTITY pref_update_autodownload_never "Never">
-<!ENTITY pref_update_autodownload_always "Always">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Quit">
 
-<!ENTITY addons "Add-ons">
 
 
 <!ENTITY char_encoding "Character Encoding">
@@ -392,10 +397,6 @@ size. -->
 
 
 
-
-<!ENTITY pref_titlebar_mode "Title bar">
-<!ENTITY pref_titlebar_mode_title "Show page title">
-<!ENTITY pref_titlebar_mode_url "Show page address">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -420,7 +421,6 @@ size. -->
 <!ENTITY site_settings_title3       "Site Settings">
 
 <!ENTITY site_settings_clear        "Clear">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "Page removed from your Reading List">
@@ -457,8 +457,6 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
-<!ENTITY home_title "&brandShortName; Home">
-
 
 
 <!ENTITY home_bookmarks_empty "Bookmarks you save show up here.">
@@ -470,14 +468,12 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "Articles you save for later show up here.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "TIP: Save articles to your reading list by long pressing the &formatI; icon when it appears in the title bar.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "TIP: Save articles to your reading list by long pressing the reader mode button when it appears in the title bar.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
@@ -635,9 +631,11 @@ from Android">
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restrictable_feature_private_browsing "Private Browsing">
 
 
 
@@ -653,3 +651,8 @@ from Android">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
