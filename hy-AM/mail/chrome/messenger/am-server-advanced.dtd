@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "Սպասարկիչը աջակցում է ենթաթղթապանակները և նամակները">
 <!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "Օգտ. IDLE հրաման, եթե սպասարկիչը աջակցում է այն">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Սպասարկիչի առավելագույն կապակցումները պահոցին">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Թույլատրել սպասարկիչին կարգավորել այս անվանադաշտերը">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "Pop նամակները ստանալիս օգտ. հետևյալ թղթապանակը նոր նամակների համար." >
-<!ENTITY accountDirectory.label "Այս սպասարկիչի փոստարկղի Մուտքայինը">
-<!ENTITY accountDirectory.accesskey "s">
+
+
+
 <!ENTITY deferToServer.label "Այլ փոստարկղի Մուտքայինը">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Ներառել այս սպասարկիչը՝ նոր նամակ ստանալիս">
