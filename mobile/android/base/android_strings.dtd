@@ -101,16 +101,11 @@
 
 <!ENTITY settings "Inställningar">
 <!ENTITY settings_title "Inställningar">
-<!ENTITY pref_category_input_options "Inmatningsalternativ">
-<!ENTITY pref_category_advanced "Avancerat">
-<!ENTITY pref_category_customize "Anpassa">
-<!ENTITY pref_category_customize_summary "Hem, sök, flikar, importera">
-<!ENTITY pref_category_customize_alt_summary "Hem, sök, flikar, öppna senare, importera ">
+
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "Språk">
 <!ENTITY pref_category_language_summary "Byt din webbläsares språk ">
 <!ENTITY pref_browser_locale "Webbläsarens Språk">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -144,21 +139,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Inga Firefox-Konto anslutna enheter hittades">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-
-<!ENTITY menu_no_synced_devices "Skicka den här fliken till en annan ansluten enhet">
 
 <!ENTITY pref_category_search3 "Sök">
 <!ENTITY pref_category_search_summary "Anpassa sökleverantörerna">
-<!ENTITY pref_category_display "Visa">
-<!ENTITY pref_category_display_summary "Text, namnlist, helskärm surfning">
+
+
 <!ENTITY pref_category_privacy_short "Integritet">
-<!ENTITY pref_category_privacy_summary2 "Kontrollera inloggningar, kakor, spårning, datatrafik">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Om &brandShortName;, FAQs, val av datanätverk">
+
+
+
 <!ENTITY pref_category_datareporting "Dataalternativ">
 <!ENTITY pref_learn_more "Läs mer">
 <!ENTITY pref_category_installed_search_engines "Installerade sökmotorer">
@@ -172,12 +161,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPS: Lägg till en webbplats till din lista på söktjänster genom att långtrycka på dess sökfält och trycka på ikonen &formatI;.">
-<!ENTITY pref_category_devtools "Utvecklarverktyg">
+
+
 <!ENTITY pref_developer_remotedebugging "Fjärrfelsökning">
 <!ENTITY pref_developer_remotedebugging_usb "Fjärrfelsökning via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Fjärrfelsökning via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi-felsökning kräver att din enhet har en QR kodsläsar app installerad.">
-<!ENTITY pref_category_logins "Inloggningar ">
 <!ENTITY pref_remember_signons2 "Kom ihåg inloggningar ">
 <!ENTITY pref_open_external_urls_privately_title "Öppna länkar i Privat surfläge">
 <!ENTITY pref_open_external_urls_privately_summary "För alla externa länkar öppnade i &brandShortName;">
@@ -193,31 +182,41 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "”&formatS;” lades till på startsidan">
 <!ENTITY pref_category_home_content_settings "Innehåll">
-<!ENTITY pref_home_updates "Automatiska uppdateringar">
+
 <!ENTITY pref_home_updates_enabled "Aktiverad">
 <!ENTITY pref_home_updates_wifi "Endast via Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Visa sökförslag">
 <!ENTITY pref_home_suggested_sites_summary "Visa ikoner till hemsidor på din hem sida som vi tror du är intresserad av">
 <!ENTITY pref_category_home_homepage "Hemsida">
 <!ENTITY home_homepage_title "Välj en hemsida">
-<!ENTITY home_homepage_use_current_tab "Använd aktuell flik">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Anpassa">
-<!ENTITY pref_header_display "Visa">
 <!ENTITY pref_header_privacy_short "Integritet">
+
+
 <!ENTITY pref_header_help "Hjälp">
-<!ENTITY pref_header_language "Språk">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Utvecklarverktyg">
+
 
 <!ENTITY pref_cookies_menu "Kakor">
 <!ENTITY pref_cookies_accept_all "Aktiverad">
 <!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
 <!ENTITY pref_cookies_disabled "Inaktiverade">
 
-<!ENTITY pref_tap_to_load_images_title "Håll in för att hämta bilder">
-<!ENTITY pref_tap_to_load_images_summary2 "Ladda endast bilder då du håller in på dom ">
+
+
+
 
 <!ENTITY pref_tracking_protection_title "Spårnings skydd">
 <!ENTITY pref_tracking_protection_summary3 "Påslaget i privat surfning">
@@ -253,9 +252,11 @@
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
 <!ENTITY pref_char_encoding_off "Visa inte meny">
-<!ENTITY pref_clear_private_data2 "Rensa nu ">
-<!ENTITY pref_clear_private_data_category "Rensa känslig data">
-<!ENTITY pref_clear_on_exit_title2 "Töm vid avstängning">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Rensa nu ">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kommer automatiskt rensa din data när du väljer  \Avsluta\ från huvudmenyn">
 <!ENTITY pref_clear_on_exit_dialog_title "Välj vilken data som ska rensas">
 <!ENTITY pref_plugins "Insticksmoduler">
@@ -263,7 +264,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tryck för att visa">
 <!ENTITY pref_plugins_disabled "Inaktiverat">
 <!ENTITY pref_text_size "Textstorlek">
-<!ENTITY pref_restore "Flikar">
+
 <!ENTITY pref_restore_always "Återställ alltid">
 <!ENTITY pref_restore_quit "Återställ inte när &brandShortName; avslutats">
 <!ENTITY pref_font_size_tiny "Pytteliten">
@@ -288,16 +289,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Aktivera alltid zoom">
 <!ENTITY pref_zoom_force_enabled_summary "åsidosätt så att du kan zooma på vilken sida som helst">
 <!ENTITY pref_voice_input "Röst inmatning">
-<!ENTITY pref_voice_input_summary "Tillåt röstdiktering i namnlisten">
+
 <!ENTITY pref_qrcode_enabled "QR-Kods läsare ">
-<!ENTITY pref_qrcode_enabled_summary "Tillåt QR skanner i namnlisten">
+
 
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
-<!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_sync_summary2 "Synka dina flikar, bokmärken, inloggningar, historik ">
 <!ENTITY pref_search_suggestions "Visa sökförslag">
 <!ENTITY pref_history_search_suggestions "Visa Sökhistorik">
-<!ENTITY pref_import_android "Importera från Android">
+
 <!ENTITY pref_import_android_summary "Importera bokmärken och historia från Androids standardwebbläsare">
 <!ENTITY pref_private_data_history2 "Bläddra i historiken">
 <!ENTITY pref_private_data_searchHistory "Sökhistorik">
@@ -354,18 +355,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Hämta uppdateringar automatiskt">
 <!ENTITY pref_update_autodownload_wifi "Endast via Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Aldrig">
-<!ENTITY pref_update_autodownload_always "Alltid">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Hjälp">
 
 <!ENTITY quit "Avsluta">
 
-<!ENTITY addons "Tillägg">
-<!ENTITY logins "Inloggningar ">
+
 <!ENTITY downloads "Hämtningar">
 <!ENTITY char_encoding "Teckenkodning">
 
@@ -382,7 +381,7 @@ size. -->
 <!ENTITY new_private_tab "Ny privat flik">
 <!ENTITY close_all_tabs "Stäng alla flikar">
 <!ENTITY close_private_tabs "Stäng privata flikar">
-<!ENTITY tabs_normal "Flikar">
+
 <!ENTITY tabs_private "Privata">
 <!ENTITY tabs_synced "Synkade">
 <!ENTITY set_image_fail "Kan inte använda bild">
@@ -435,10 +434,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "Kunde inte kopiera lösenord ">
 <!ENTITY doorhanger_login_select_action_text "Välj en annan inloggning">
 <!ENTITY doorhanger_login_select_title "Kopiera lösenord från ">
-
-<!ENTITY pref_titlebar_mode "Namnfältet">
-<!ENTITY pref_titlebar_mode_title "Visa sidans namn">
-<!ENTITY pref_titlebar_mode_url "Visa sidans adress">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -448,7 +443,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Fullskärms surfning">
-<!ENTITY pref_scroll_title_bar_summary "Dölj &brandShortName;namnlistan när du bläddrar ner en sida">
+
 
 <!ENTITY pref_tab_queue_title2 "Öppna flera länkar ">
 <!ENTITY pref_tab_queue_summary3 "Spara dom tills nästa gång du öppnar &brandShortName;">
@@ -468,7 +463,6 @@ size. -->
 <!ENTITY site_settings_title3       "Platsinställningar">
 <!ENTITY site_settings_cancel       "Avbryt">
 <!ENTITY site_settings_clear        "Rensa">
-<!ENTITY site_settings_no_settings  "Det finns inga inställningar att rensa.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -509,8 +503,6 @@ size. -->
 <!ENTITY home_top_sites_add "Lägg till en plats">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "&brandShortName; start">
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_clear_history_button "Töm bläddringshistorik">
 <!ENTITY home_clear_history_confirm "Är du säker på att du vill rensa historiken?">
@@ -524,14 +516,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst! Använder du en &formatS1;Ny Privat Flik&formatS2; kommer din historik inte sparas.">
 <!ENTITY home_reading_list_empty "Artiklar som du sparat till senare visas här.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "TIPS: Spara artiklar till läslistan genom att långtrycka på ikonen &formatI; när den visas i namnfältet.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "TIPS: Spara artiklar till läslistan genom att långtrycka på läslägeknappen när den visas i namnfältet.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -726,20 +716,20 @@ från Android">
      code. -->
 
 <!ENTITY devtools_auth_scan_header "Scanning för QR-kod som visas på den andra enheten">
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY restriction_disallow_import_settings_title2 "Sla av \u0027Importera från Android\u0027">
-<!ENTITY restriction_disallow_addons_title2 "Inaktivera tilläggs installation">
-<!ENTITY restriction_disallow_devtools_title2 "Inaktivera utvecklarverktyg">
-<!ENTITY restriction_disallow_customize_home_title2 "Inaktivera Hem anpassningar">
-<!ENTITY restriction_disallow_private_browsing_title2 "Inaktivera privat surfning">
-<!ENTITY restriction_disallow_location_services_title2 "Inaktivera Platstjänster">
-<!ENTITY restriction_disallow_display_settings_title2 "Inaktivera bildskärmsinställningar">
-<!ENTITY restriction_disallow_clear_history_title2 "Inaktivera \u0027Töm bläddringshistoriken\u0027">
-<!ENTITY restriction_disallow_master_password_title2 "Inaktivera huvudlösenord">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Inaktivera gäst surfning ">
+<!ENTITY restrictable_feature_private_browsing "Privat surfning">
+
+
+
+
+
+
+
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -752,3 +742,8 @@ från Android">
 <!ENTITY bookmarks_restricted_support2 "Firefox Hjälp och Support för begränsade profiler på Android surfplattor">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Lär dig mer om webben: Mozilla Webmaker">
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
