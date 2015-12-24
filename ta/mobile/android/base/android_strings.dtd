@@ -97,16 +97,11 @@
 
 <!ENTITY settings "அமைப்புகள்">
 <!ENTITY settings_title "அமைப்புகள்">
-<!ENTITY pref_category_input_options "உள்ளீடு தேர்வுகள்">
-<!ENTITY pref_category_advanced "மேம்பட்டது">
-<!ENTITY pref_category_customize "தனிபயனாக்கு">
-<!ENTITY pref_category_customize_summary "முகப்பு, தேடு, கீற்றுகள், இறக்கு">
-<!ENTITY pref_category_customize_alt_summary "முகப்பு, தேடு, கீற்றுகள், பின்னர் திற, இறக்கு">
+<!ENTITY pref_category_general "பொதுவான">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "மொழி">
 <!ENTITY pref_category_language_summary "உங்கள் உலாவியின் மொழியை மாற்று">
 <!ENTITY pref_browser_locale "உலாவி மொழி">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -140,19 +135,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Firefox கணக்குடன் இணைக்கப்பட்ட சாதனம் ஏதுமில்லை">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "தேடு">
 <!ENTITY pref_category_search_summary "தேடு பொறி வழங்குநர்களை தனிப்பயனாக்கு">
-<!ENTITY pref_category_display "காண்பி">
-<!ENTITY pref_category_display_summary "உரை, தலைப்பு பட்டை, முழுத்திரை உலாவல்">
+
+
 <!ENTITY pref_category_privacy_short "தனியுரிமை">
 
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "&brandShortName;, அகேகே, தரவு வாய்ப்புகள் பற்றி">
+
+
 <!ENTITY pref_category_datareporting "தரவுத் தேர்வுகள்">
 <!ENTITY pref_learn_more "மேலும் அறிய">
 <!ENTITY pref_category_installed_search_engines "நிறுவப்பட்ட தேடு பொறிகள்">
@@ -166,12 +157,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "குறிப்பு: தெடல் புலத்தில் தொடர்ந்து அழுத்திய பிறகு &formatI; சின்னத்தை தட்டி எந்த இணையத்தளத்தையும் தேடு பொறி வழங்குநர்களின் பட்டியலுடன் சேர்க்கவும்.">
-<!ENTITY pref_category_devtools "உருவாக்குனர் கருவிகள்">
+
+
 <!ENTITY pref_developer_remotedebugging "தொலைநிலை பிழைதிருத்தம்">
 
 
 
-<!ENTITY pref_category_logins "உள்நுழைவுகள்">
 <!ENTITY pref_remember_signons2 "புகுபதிகைகளை நினைவில்கொள்">
 <!ENTITY pref_open_external_urls_privately_title "இணைப்புகளை தனிப்பட்ட உலாவலில் திற">
 
@@ -187,28 +178,39 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 முகப்பு பக்கத்தில் சேர்க்கப்பட்டது">
 <!ENTITY pref_category_home_content_settings "உள்ளடக்க அமைவுகள்">
-<!ENTITY pref_home_updates "தானியாக்க புதுப்பித்தல்கள்">
+
 <!ENTITY pref_home_updates_enabled "செயல்படுத்தப்பட்டது">
 <!ENTITY pref_home_updates_wifi "வை-பை வழியாக மட்டும்">
 <!ENTITY pref_home_suggested_sites "தளத்தின் பரிந்துரைகளை காட்டு">
 <!ENTITY pref_home_suggested_sites_summary "வலைத்தளங்களின் குறுக்கு பாதைகளை முகுப்பு பக்கத்தில் அமைத்தல் சுவாரஸ்யமாக இருக்கும் என நினைத்தோம்">
 
 
-
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "தனிபயனாக்கு">
-<!ENTITY pref_header_display "காண்பி">
 <!ENTITY pref_header_privacy_short "தனியுரிமை">
+
+
 <!ENTITY pref_header_help "உதவி">
-<!ENTITY pref_header_language "மொழி">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "உருவாக்குனர் கருவிகள்">
+
 
 <!ENTITY pref_cookies_menu "குக்கீகள்">
 <!ENTITY pref_cookies_accept_all "செயல்படுத்தப்பட்டது">
 <!ENTITY pref_cookies_not_accept_foreign "செயலிலுள்ள, 3ஆவது கட்சி நீங்கலாக">
 <!ENTITY pref_cookies_disabled "முடக்கப்பட்டது">
+
+
 
 
 
@@ -242,9 +244,11 @@
 <!ENTITY pref_char_encoding "எழுத்து குறிமுறை">
 <!ENTITY pref_char_encoding_on "பட்டியலை காட்டு">
 <!ENTITY pref_char_encoding_off "பட்டியலை காட்ட வேண்டாம்">
-<!ENTITY pref_clear_private_data2 "இப்போது துடை">
-<!ENTITY pref_clear_private_data_category "தனிபயன் தரவை நீக்கவும்">
-<!ENTITY pref_clear_on_exit_title2 "வெளியேறும்போது துடை">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "இப்போது துடை">
+
 <!ENTITY pref_clear_on_exit_summary2 "முதன்மை பட்டியலில் \u0022Quit\u0022 என்பதை தெரிவுச்செய்யும் போதெல்லாம் உங்களுடைய தரவை &brandShortName; இது தானாகவே துடைத்துவிடும்">
 <!ENTITY pref_clear_on_exit_dialog_title "துடைக்க வேண்டிய தரவை தேர்">
 <!ENTITY pref_plugins "செருகுநிரல்கள்">
@@ -252,7 +256,7 @@
 <!ENTITY pref_plugins_tap_to_play "இயக்க தட்டவும்">
 <!ENTITY pref_plugins_disabled "முடக்கப்பட்டது">
 <!ENTITY pref_text_size "உரை அளவு">
-<!ENTITY pref_restore "கீற்றுகள்">
+
 <!ENTITY pref_restore_always "எப்போதும் மீட்டமை">
 <!ENTITY pref_restore_quit "&brandShortName; வெளியேறியப்பின் மீட்டமைக்காதே">
 <!ENTITY pref_font_size_tiny "நுண்ணிய">
@@ -277,16 +281,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "அளவுமாற்றதை எப்பொழுதும் செயல்படுத்து">
 <!ENTITY pref_zoom_force_enabled_summary "கட்டாய புறக்கணித்தல் மூலம் எந்தப் பக்கத்தையும் பெரிதாக்க முடியும்">
 <!ENTITY pref_voice_input "குரல் உள்ளீடு">
-<!ENTITY pref_voice_input_summary "தலைப்பு பட்டையில் குரல் வாசிப்பை அனுமதிக்கவும்">
+
 <!ENTITY pref_qrcode_enabled "QR குறியீடு படிப்பான்">
-<!ENTITY pref_qrcode_enabled_summary "தலைப்பு பட்டையில் QR வருடியை அனுமதி">
+
 
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்லை பயன்படுத்து">
-<!ENTITY pref_sync "ஒத்திசை">
+
 
 <!ENTITY pref_search_suggestions "தேடுல் பரிந்துரைகளை காட்டு">
 
-<!ENTITY pref_import_android "ஆன்ட்ராய்டிலிருந்து இறக்கு">
+
 <!ENTITY pref_import_android_summary "சொந்த உலாவியிலிருந்து புத்தகக்குறிகளையும் வரலாறையும் இறக்கு">
 <!ENTITY pref_private_data_history2 "உலாவலின் வரலாறு">
 <!ENTITY pref_private_data_searchHistory "தேடல் வரலாறு">
@@ -343,18 +347,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "தானாக பதிவிறக்கு">
 <!ENTITY pref_update_autodownload_wifi "வை-பை வழியாக மட்டும்">
 <!ENTITY pref_update_autodownload_never "எப்போதுமில்லை">
-<!ENTITY pref_update_autodownload_always "எப்போதும்">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "உதவி">
 
 <!ENTITY quit "வெளியேறு">
 
-<!ENTITY addons "கூடுதல் இணைப்புகள்">
-<!ENTITY logins "உள்நுழைவுகள்">
+
 <!ENTITY downloads "பதிவிறக்கங்கள்">
 <!ENTITY char_encoding "எழுத்து குறிமுறை">
 
@@ -371,7 +373,7 @@ size. -->
 <!ENTITY new_private_tab "புதிய தனிப்பயன் கீற்று">
 <!ENTITY close_all_tabs "எல்லா தத்தலையும் மூடு">
 <!ENTITY close_private_tabs "தனிப்பட்ட கீற்றுகளை மூடு">
-<!ENTITY tabs_normal "கீற்றுகள்">
+
 <!ENTITY tabs_private "தனிப்பட்ட">
 <!ENTITY tabs_synced "ஒருங்கிணைக்கப்பட்டது">
 <!ENTITY set_image_fail "படத்தை அமைக்க முடியவில்லை">
@@ -422,10 +424,6 @@ size. -->
 
 
 
-
-<!ENTITY pref_titlebar_mode "தலைப்பு பட்டி">
-<!ENTITY pref_titlebar_mode_title "பக்க தலைப்பை காண்பி">
-<!ENTITY pref_titlebar_mode_url "பக்க முகவரியை காண்பி">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -433,7 +431,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "முழுத்திரை உலாவல்">
-<!ENTITY pref_scroll_title_bar_summary "ஒரு பக்கத்தை கீழே உருட்டும் போது &brandShortName; தலைப்பு பட்டையை மறை">
+
 
 <!ENTITY pref_tab_queue_title2 "பல இணைப்புகளைத் திற">
 
@@ -453,7 +451,6 @@ size. -->
 <!ENTITY site_settings_title3       "இணையத்தள அமைவுகள்">
 <!ENTITY site_settings_cancel       "ரத்து">
 <!ENTITY site_settings_clear        "துடை">
-<!ENTITY site_settings_no_settings  "நீக்க எந்த அமைப்புகளும் இல்லை.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "உங்கள் வாசிப்பு பட்டியலிருந்து பக்கம் நீக்கப்பட்டுள்ளது">
@@ -492,8 +489,6 @@ size. -->
 <!ENTITY home_top_sites_add "ஒரு இணையத்தளத்தை சேர்">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "&brandShortName; முகப்பு">
 <!ENTITY home_history_title "வரலாறு">
 <!ENTITY home_clear_history_button "உலாவி வரலாற்றை துடை">
 <!ENTITY home_clear_history_confirm "உங்களுடைய வரலாற்றை நிச்சையமாக துடைக்க வேண்டுமா?">
@@ -507,14 +502,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "பராக்: &formatS1; பயன்னடுத்தி தனிப்பட்ட கீற்று&formatS2; உங்கள் வரலாற்றை சேமிக்காது.">
 <!ENTITY home_reading_list_empty "நீங்கள் சேமித்த கட்டுரைகள் பிறகு இங்கு காண்பிக்கப்படும்.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "குறிப்பு: கட்டுரைகளை உங்களின் படிக்கும் பட்டியலில் சேமிக்க தலைப்பு பட்டையில் தோன்றும் போது &formatI; சின்னத்தை தொடர்ந்து அழுத்தவும்.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "குறிப்பு: கட்டுரைகளை உங்களின் படிக்கும் பட்டியலில் சேமிக்க படி என்ற பொத்தான் தலைப்பு பட்டையில் தோன்றும்பொது நீண்ட நேரம் அமுக்கவும்.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -698,9 +691,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restrictable_feature_private_browsing "தனிப்பட்ட உலாவல்">
 
 
 
@@ -716,3 +711,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
