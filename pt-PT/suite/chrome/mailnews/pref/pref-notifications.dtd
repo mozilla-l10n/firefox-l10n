@@ -22,6 +22,10 @@
 <!ENTITY showAlertSender.label            "Mostrar o remetente">
 <!ENTITY showAlertSender.accesskey        "n">
 
+
+
+
+
 <!ENTITY showTrayIcon.label               "Mostrar um ícone">
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY showBalloon.label                "Mostrar um balão de alerta">
