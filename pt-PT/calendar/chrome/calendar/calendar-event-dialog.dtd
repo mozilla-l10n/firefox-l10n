@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Separar convite por convidado">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opção envia um convite por correio por pessoa. Cada convite apenas contém o destinatário do convite pelo que outros convidados não serão identificados.">
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "f">
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "Opções">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attendees.label                  "Convidar participantes…">
-<!ENTITY  event.menu.options.attendees.accesskey              "i">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Mostrar fusos horários">
 <!ENTITY  event.menu.options.timezone2.accesskey              "s">
 <!ENTITY  event.menu.options.priority2.label                  "Prioridade">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Livre">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "i">
 
-<!ENTITY event.invite.attendees.label                     "Convidar participantes...">
-<!ENTITY event.invite.attendees.accesskey                 "i">
+
 <!ENTITY event.email.attendees.label                      "Criar mensagem para todos participantes…">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Criar mensagem para os participantes indecisos…">
 <!ENTITY event.email.tentative.attendees.accesskey        "m">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Guardar e fechar">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "Título:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
-<!ENTITY event.location.label                             "Localização:" >
-<!ENTITY event.location.accesskey                         "L">
+
+
 <!ENTITY event.categories.label                           "Categoria:">
 <!ENTITY event.categories.accesskey                       "i">
 <!ENTITY event.categories.textbox.label                   "Adicionar nova categoria" >
 <!ENTITY event.calendar.label                             "Calendário:" >
 <!ENTITY event.calendar.accesskey                         "C">
-<!ENTITY event.attendees.label                            "Participantes:" >
-<!ENTITY event.attendees.accesskey                        "i" >
+
+
 <!ENTITY event.alldayevent.label                          "Evento de dia completo" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Início:" >
 <!ENTITY event.from.accesskey                             "I">
 <!ENTITY task.from.label                                  "Início:" >
 <!ENTITY task.from.accesskey                              "n">
-<!ENTITY event.to.label                                   "Fim:" >
-<!ENTITY event.to.accesskey                               "F">
+
+
 <!ENTITY task.to.label                                    "Fim previsto:" >
 <!ENTITY task.to.accesskey                                "v">
 <!ENTITY task.status.label                                "Estado:" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "A" >
 <!ENTITY event.attachments.popup.removeAll.label          "Remover tudo" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "t" >
-<!ENTITY event.attachments.popup.attachPage.label         "Anexar página web..." >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
+
+
 <!ENTITY event.url.label                                  "Ligação relacionada:" >
 <!ENTITY event.priority2.label                            "Prioridade:">
 
@@ -348,6 +348,7 @@
 <!ENTITY event.attendee.usertype.group          "Grupo">
 <!ENTITY event.attendee.usertype.resource       "Recurso">
 <!ENTITY event.attendee.usertype.room           "Quarto">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Por favor especifique o fuso horário">
