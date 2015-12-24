@@ -77,20 +77,18 @@
 
 <!ENTITY fontSizeMenu.label "Grootte">
 <!ENTITY fontSizeMenu.accesskey "G">
-<!ENTITY size-xx-smallCmd.label "xx-small">
-<!ENTITY size-xx-smallCmd.accesskey "s">
-<!ENTITY size-x-smallCmd.label "x-small">
-<!ENTITY size-x-smallCmd.accesskey "s">
-<!ENTITY size-smallCmd.label "small">
-<!ENTITY size-smallCmd.accesskey "s">
-<!ENTITY size-mediumCmd.label "medium">
-<!ENTITY size-mediumCmd.accesskey "m">
-<!ENTITY size-largeCmd.label "large">
-<!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "x-large">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-large">
-<!ENTITY size-xx-largeCmd.accesskey "l">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Teksstyl">
@@ -305,7 +303,6 @@
 <!ENTITY throbber.tooltip "Gaan na &vendorShortName; se tuisblad">
 <!ENTITY HighlightColorButton.tooltip "Kies verligkleur vir teks">
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Kleiner lettertipe">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Groter lettertipe">
 <!ENTITY boldToolbarCmd.tooltip "Vet">

@@ -126,7 +126,7 @@
      -->
 
 <!ENTITY quickFilterBar.resultsLabel.minWidth "120">
-<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base1):
      This is the base of the empty text for the text search box.  We replace
      #1 with the contents of the appropriate
      quickFilterBar.textbox.emptyText.keyLabel.* value for the platform.

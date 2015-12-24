@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "W">
 <!ENTITY dualUseFolders.label "Bediener werk met vouers wat subgidse en boodskappe bevat">
 <!ENTITY dualUseFolders.accesskey "v">
-<!ENTITY useIdle.label "Gebruik IDLE-bevel indien die bediener daarmee werk">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Maksimum getal bedienerverbindings om te kas">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Laat bediener toe om hierdie naamruimtes te oorheers">
 <!ENTITY overrideNamespaces.accesskey "L">
-<!ENTITY pop3Desc.label "Wanneer u POP-pos vir hierdie bediener aflaai, gebruik die volgende vouer vir nuwe pos:" >
-<!ENTITY accountDirectory.label "Inkassie vir hierdie bediener se rekening">
-<!ENTITY accountDirectory.accesskey "i">
+
+
+
 <!ENTITY deferToServer.label "Inkassie vir 'n ander rekening">
 <!ENTITY deferToServer.accesskey "a">
 <!ENTITY deferGetNewMail.label "Sluit hierdie bediener in wanneer u nuwe pos kry">

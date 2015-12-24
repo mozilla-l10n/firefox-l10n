@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Stuuropsies">
 <!ENTITY sendMail.title               "Teksformaat">
+
+
 <!ENTITY sendMaildesc.label           "Wanneer boodskappe in HTML-formaat gestuur word en een of meer ontvangers is nie gelys as mense wat HTML kan ontvang nie:">
 <!ENTITY askMe.label                  "Vra my wat om te doen">
 <!ENTITY askMe.accesskey              "r">
