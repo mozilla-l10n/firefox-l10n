@@ -15,7 +15,7 @@ by NSS/PSM via netError.xhtml. -->
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara "مالک <span class='hostname'/> سایت خود را به گونه‌ای نادرست پیکربندی کرده‌‌اند.  جهت محافظت از دزده شدن اطلاعات شما، &brandShortName; به این سایت متصل نشده است.">
+<!ENTITY certerror.introPara "مالک <span class='hostname'/> سایت خود را به گونه‌ای نادرست پیکربندی کرده‌ است.  جهت محافظت از دزدیده شدن اطلاعات شما، &brandShortName; به این سایت متصل نشده است.">
 <!ENTITY certerror.returnToPreviousPage.label "برگشت به عقب">
 <!ENTITY certerror.learnMore "بیشتر بدانید">
 <!ENTITY certerror.advanced.label "پیشرفته">
