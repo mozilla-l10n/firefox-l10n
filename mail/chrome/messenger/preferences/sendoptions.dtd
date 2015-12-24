@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Roghanna Seolta">
 <!ENTITY sendMail.title               "Formáid Téacs">
+
+
 <!ENTITY sendMaildesc.label           "Agus teachtaireachtaí á seoladh i bhformáid HTML, má tá faighteoirí nach féidir leo glacadh le HTML:">
 <!ENTITY askMe.label                  "Fiafraigh díom cad atá le déanamh">
 <!ENTITY askMe.accesskey              "F">
