@@ -18,3 +18,5 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "یِھ ویب پیج  <span id='malware_sitename'/> چھ رپورٹ کرنھ آمت بیہ چھ یھ رکاونھ آمت تھنز سکوزٹی ترجیات متابکب.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "غیر متالبہ سوفٹ ویر چھ سوفٹ ویر انسٹال کرنچ کوشش کران یوس زن فریب تیھ بیھ تحندس سسٹمس متاسر کرِ واریھ تریقو سییتھ ">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

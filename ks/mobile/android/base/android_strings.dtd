@@ -95,15 +95,10 @@
 <!ENTITY settings "سٹِنگس">
 <!ENTITY settings_title "سٹِنگس">
 
-<!ENTITY pref_category_advanced "ایڑوانسڑ">
-<!ENTITY pref_category_customize "شِرِو">
-<!ENTITY pref_category_customize_summary "ہوم،ژانڈِو،ٹیبس،انیو">
-<!ENTITY pref_category_customize_alt_summary "ہوم،ژانڈِو،ٹیبس،پتِ خولِیو،انیو">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "زبان">
 <!ENTITY pref_category_language_summary "بروزرس بدلایو زبان">
 <!ENTITY pref_browser_locale "بروزرچ زبان">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -136,19 +131,15 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "ژانڈِو">
 
-<!ENTITY pref_category_display "ڑسپلے">
-<!ENTITY pref_category_display_summary "متن ،ٹایِٹل بار،پورء-سکرین براوزینگ">
+
+
 <!ENTITY pref_category_privacy_short "پرایوےسی">
 
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "&brandShortName; متعلق, FAQs,ڑیٹا چوسس">
+
+
 <!ENTITY pref_category_datareporting "ڑیٹا چوسس">
 <!ENTITY pref_learn_more "بئ ھچھو">
 <!ENTITY pref_category_installed_search_engines "اِنسٹالڑ سعرچ انجن">
@@ -162,12 +153,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP:ایڈ کرو کنھ وبسئٹ پنس سرچ پروویڑرس">
-<!ENTITY pref_category_devtools "ڑولاپر آلات">
+
+
 <!ENTITY pref_developer_remotedebugging "ریموٹ ڑیبگینگ">
 
 
 
-<!ENTITY pref_category_logins "لاگنز">
 
 
 
@@ -183,28 +174,39 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 گو جمح ۃومپیجس منز">
 <!ENTITY pref_category_home_content_settings "کونٹینٹ سیٹنگس">
-<!ENTITY pref_home_updates "آٹومیٹک اپڑیٹس">
+
 <!ENTITY pref_home_updates_enabled "یلہ">
 <!ENTITY pref_home_updates_wifi "سرف Wi-Fi پیاٹھ">
 <!ENTITY pref_home_suggested_sites "ہایو سایٹن ہیند مچورء">
 
 
 
-
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "شِرِو">
-<!ENTITY pref_header_display "ہایو">
+
+
 
 <!ENTITY pref_header_help "مدد">
-<!ENTITY pref_header_language "زبان">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "ڑولاپرس آلات">
+
 
 <!ENTITY pref_cookies_menu "کوکیز">
 <!ENTITY pref_cookies_accept_all "یالء آمت کرنء">
 
 <!ENTITY pref_cookies_disabled "باند آمت کرنء">
+
+
 
 
 
@@ -237,9 +239,11 @@
 
 <!ENTITY pref_char_encoding_on "میءنیو ہایو">
 <!ENTITY pref_char_encoding_off "میءنیو مء ہایو">
-<!ENTITY pref_clear_private_data2 "ساف کریو">
-<!ENTITY pref_clear_private_data_category "صاف کریو پرایویٹ ڈیٹا">
-<!ENTITY pref_clear_on_exit_title2 "صاف کرو نیران نیران">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "ساف کریو">
+
 
 <!ENTITY pref_clear_on_exit_dialog_title "چنو ڈیٹا صاف کرنئ کھآترء">
 <!ENTITY pref_plugins "پلگ انس">
@@ -247,7 +251,7 @@
 <!ENTITY pref_plugins_tap_to_play "ٹیپ کرو گند نِ کھآترء">
 <!ENTITY pref_plugins_disabled "ڈسعبلڈ">
 <!ENTITY pref_text_size "متن سئز">
-<!ENTITY pref_restore "ٹیبس">
+
 <!ENTITY pref_restore_always "ھ">
 
 
@@ -272,7 +276,7 @@ size. -->
 
 
 
-<!ENTITY pref_sync "سِنک">
+
 
 
 
@@ -330,7 +334,6 @@ size. -->
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 
-<!ENTITY addons "ایڑ-آن">
 
 
 
@@ -393,9 +396,6 @@ size. -->
 
 
 
-
-
-
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -413,7 +413,6 @@ size. -->
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 
 
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
@@ -458,11 +457,11 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -600,9 +599,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
 
 
 
@@ -618,3 +619,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
