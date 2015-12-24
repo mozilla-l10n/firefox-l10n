@@ -20,3 +20,5 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Yra pranešta, jog tinklalapis <span id='unwanted_sitename'/> yra kenkėjiškas, tad jis buvo užblokuotas remiantis naršyklės saugumo nuostatomis.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Kenkėjiški tinklalapiai siekia įdiegti programinę įrangą, kuri gali būti apgaulinga ir pakenkti jūsų kompiuteriui.">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
