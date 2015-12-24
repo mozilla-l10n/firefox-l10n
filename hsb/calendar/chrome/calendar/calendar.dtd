@@ -149,7 +149,6 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Wubrane nadawki jako sčinjene markěrować">
 <!ENTITY calendar.task.priority.button.tooltip  "Prioritu změnić">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Nadawki filtrować… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Strg+Umsch+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
