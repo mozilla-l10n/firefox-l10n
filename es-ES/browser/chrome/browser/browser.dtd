@@ -615,7 +615,7 @@
 <!ENTITY getUserMedia.audioCapture.label "Se compartirá el audio de la pestaña.">
 <!ENTITY getUserMedia.allWindowsShared.message "Se compartirán todas las ventanas visibles en su pantalla.">
 <!ENTITY trackingProtection.title "Protección contra rastreo">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; está bloqueando partes de esta página que puede rastrear su navegación.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; está bloqueando partes de esta página que pueden rastrear su navegación.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este sitio incluye elementos que pueden rastrear su navegación. Tiene la protección desactivada.">
 <!ENTITY trackingProtection.notDetected3 "No se han detectado elementos de rastreo en esta página.">
 <!ENTITY trackingProtection.unblock.label "Desactivar protección en este sitio">
