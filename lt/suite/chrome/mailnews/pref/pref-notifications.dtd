@@ -22,6 +22,10 @@
 <!ENTITY showAlertSender.label            "Rodyti siuntėją">
 <!ENTITY showAlertSender.accesskey        "n">
 
+
+
+
+
 <!ENTITY showTrayIcon.label               "rodyti piktogramą pranešimų srityje">
 <!ENTITY showTrayIcon.accesskey           "p">
 <!ENTITY showBalloon.label                "rodyti iškylantį įspėjimą">
