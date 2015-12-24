@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Alapértelmezett értékek visszaállítása">
 <!ENTITY restoreHTMLDefaults.accesskey        "A">
 
+
+
 <!ENTITY spellCheck.label                     "Helyesírás ellenőrzése küldés előtt">
 <!ENTITY spellCheck.accesskey                 "H">
 <!ENTITY spellCheckInline.label               "Helyesírás ellenőrzése beírás közben">
