@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Her katılımcı için ayrı davetiye">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Bu seçenek katılımcı başına bir e-posta daveti gönderir. Her davet, diğer katılımcı kimliklerini ifşa etmeyecek şekilde alıcı katılımcıyı içerir.">
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "Seçenekler">
 <!ENTITY  event.menu.options.accesskey                        "S">
-<!ENTITY  event.menu.options.attendees.label                  "Katılımcıları davet et…">
-<!ENTITY  event.menu.options.attendees.accesskey              "K">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Saat dilimlerini göster">
 <!ENTITY  event.menu.options.timezone2.accesskey              "S">
 <!ENTITY  event.menu.options.priority2.label                  "Öncelik">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Serbest">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "S">
 
-<!ENTITY event.invite.attendees.label                     "Katılımcıları davet et">
-<!ENTITY event.invite.attendees.accesskey                 "K">
+
 <!ENTITY event.email.attendees.label                      "Tüm katılımcılara e-posta yaz…">
 <!ENTITY event.email.attendees.accesskey                  "T">
 <!ENTITY event.email.tentative.attendees.label            "Katılımı belli olmayan katılımcılara e-posta yaz…">
 <!ENTITY event.email.tentative.attendees.accesskey        "K">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Kaydet ve kapat">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "Başlık:" >
 <!ENTITY event.title.textbox.accesskey                    "B">
-<!ENTITY event.location.label                             "Konum:" >
-<!ENTITY event.location.accesskey                         "K">
+
+
 <!ENTITY event.categories.label                           "Kategori:">
 <!ENTITY event.categories.accesskey                       "o">
 <!ENTITY event.categories.textbox.label                   "Yeni kategori ekle" >
 <!ENTITY event.calendar.label                             "Takvim:" >
 <!ENTITY event.calendar.accesskey                         "m">
-<!ENTITY event.attendees.label                            "Katılımcılar:" >
-<!ENTITY event.attendees.accesskey                        "I" >
+
+
 <!ENTITY event.alldayevent.label                          "Tam günlük etkinlik" >
 <!ENTITY event.alldayevent.accesskey                      "ü">
 <!ENTITY event.from.label                                 "Başlangıç:" >
 <!ENTITY event.from.accesskey                             "n">
 <!ENTITY task.from.label                                  "Başlangıç:" >
 <!ENTITY task.from.accesskey                              "B">
-<!ENTITY event.to.label                                   "Bitiş:" >
-<!ENTITY event.to.accesskey                               "i">
+
+
 <!ENTITY task.to.label                                    "Son tarih:" >
 <!ENTITY task.to.accesskey                                "S">
 <!ENTITY task.status.label                                "Durum:" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "A" >
 <!ENTITY event.attachments.popup.removeAll.label          "Tümünü kaldır" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-<!ENTITY event.attachments.popup.attachPage.label         "Web sayfası ekle…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
+
+
 <!ENTITY event.url.label                                  "İlgili bağlantı:" >
 <!ENTITY event.priority2.label                            "Önemlilik:">
 
@@ -348,6 +348,7 @@
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Kaynak">
 <!ENTITY event.attendee.usertype.room           "Oda">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Lütfen saat dilimini belirleyin">
