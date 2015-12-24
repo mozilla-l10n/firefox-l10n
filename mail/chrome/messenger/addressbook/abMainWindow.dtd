@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Vizualizare">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Bare de unelte">
-<!ENTITY viewToolbarsMenu.accesskey                     "t"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "t">
 <!ENTITY menubarCmd.label                               "Bara cu meniul">
 <!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Bara cu contacte">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Panoul cu contacte">
 <!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label                          "Afișează numele în forma">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Prenume Nume">
-<!ENTITY firstLastCmd2.accesskey                        "P"> 
+<!ENTITY firstLastCmd2.accesskey                        "P">
 <!ENTITY lastFirstCmd.label                             "Nume, Prenume">
 <!ENTITY lastFirstCmd.accesskey                         "N">
 <!ENTITY displayNameCmd.label                           "Nume de afișat">
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Contact nou">
 <!ENTITY newContactButton.accesskey                     "C">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "m">
 <!ENTITY newIM.label                                    "Mesaj instantaneu">
 <!ENTITY newIM.accesskey                                "i">
+
+
 <!ENTITY deleteButton2.label                            "Șterge">
 <!ENTITY deleteButton2.accesskey                        "t">
 <!-- Address Book Toolbar Tooltips -->
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Editează elementul selectat">
 <!ENTITY newmsgButton.tooltip                           "Trimite un mesaj e-mail">
 <!ENTITY newIM.tooltip                                  "Trimite un mesaj instantaneu sau conversează prin chat">
-<!ENTITY deleteButton2.tooltip                           "Șterge elementul selectat">
+<!ENTITY deleteButton2.tooltip                          "Șterge elementul selectat">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Agende de contacte">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Afișează o hartă de pe web cu această adresă">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Fereastră">
-<!ENTITY minimizeWindow.label "Minimizează">
-<!ENTITY minimizeWindow.key "M">
-<!ENTITY bringAllToFront.label "Adu-le pe toate în față">
-<!ENTITY zoomWindow.label "Lupă">
+<!ENTITY windowMenu.label                               "Fereastră">
+<!ENTITY minimizeWindow.label                           "Minimizează">
+<!ENTITY minimizeWindow.key                             "M">
+<!ENTITY bringAllToFront.label                          "Adu-le pe toate în față">
+<!ENTITY zoomWindow.label                               "Lupă">
