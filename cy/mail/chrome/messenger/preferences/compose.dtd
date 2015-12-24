@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Adfer y Rhagosodiad">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
+
+
 <!ENTITY spellCheck.label                     "Gwirio sillafu cyn anfon">
 <!ENTITY spellCheck.accesskey                 "s">
 <!ENTITY spellCheckInline.label               "Galluogi gwirio sillafu wrth deipio">

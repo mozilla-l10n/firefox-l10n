@@ -84,20 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Maint">
 <!ENTITY fontSizeMenu.accesskey "M">
-<!ENTITY size-xx-smallCmd.label "bach iawn, iawn">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "bach iawn">
-<!ENTITY size-x-smallCmd.accesskey "i">
-<!ENTITY size-smallCmd.label "bach">
-<!ENTITY size-smallCmd.accesskey "b">
-<!ENTITY size-mediumCmd.label "canolig">
-<!ENTITY size-mediumCmd.accesskey "c">
-<!ENTITY size-largeCmd.label "mawr">
-<!ENTITY size-largeCmd.accesskey "m">
-<!ENTITY size-x-largeCmd.label "mawr iawn">
-<!ENTITY size-x-largeCmd.accesskey "w">
-<!ENTITY size-xx-largeCmd.label "mawr iawn, iawn">
-<!ENTITY size-xx-largeCmd.accesskey "n">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Arddull Testun">
@@ -313,7 +311,6 @@
 <!ENTITY throbber.tooltip "Mynd i dudalen gartref &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Dewis lliw amlygu ar gyfer y testun">
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Maint ffont lai">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Maint ffont mwy">
 <!ENTITY boldToolbarCmd.tooltip "Trwm">
