@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Atskiras kvietimas kiekvienam dalyviui">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Pažymėjus, kiekvienam dalyviui bus siunčiamas atskiras asmeninis kvietimas, todėl visas dalyvių sąrašas kvietime nebus atskleistas.">
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "Nuostatos">
 <!ENTITY  event.menu.options.accesskey                        "N">
-<!ENTITY  event.menu.options.attendees.label                  "Pakviesti dalyvius…">
-<!ENTITY  event.menu.options.attendees.accesskey              "d">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Rodyti laiko juostas">
 <!ENTITY  event.menu.options.timezone2.accesskey              "j">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritetas">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "laisvą">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "l">
 
-<!ENTITY event.invite.attendees.label                     "Pakviesti dalyvius…">
-<!ENTITY event.invite.attendees.accesskey                 "P">
+
 <!ENTITY event.email.attendees.label                      "Rašyti laišką visiems dalyviams…">
 <!ENTITY event.email.attendees.accesskey                  "v">
 <!ENTITY event.email.tentative.attendees.label            "Rašyti laišką preliminariai apsisprendusiems dalyviams…">
 <!ENTITY event.email.tentative.attendees.accesskey        "n">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Įrašyti ir užverti">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "Pavadinimas:" >
 <!ENTITY event.title.textbox.accesskey                    "P">
-<!ENTITY event.location.label                             "Vieta:" >
-<!ENTITY event.location.accesskey                         "V">
+
+
 <!ENTITY event.categories.label                           "Kategorija:">
 <!ENTITY event.categories.accesskey                       "K">
 <!ENTITY event.categories.textbox.label                   "Pridėti naują kategoriją" >
 <!ENTITY event.calendar.label                             "Kalendorius:" >
 <!ENTITY event.calendar.accesskey                         "o">
-<!ENTITY event.attendees.label                            "Dalyviai:" >
-<!ENTITY event.attendees.accesskey                        "D" >
+
+
 <!ENTITY event.alldayevent.label                          "Visos dienos įvykis" >
 <!ENTITY event.alldayevent.accesskey                      "V">
 <!ENTITY event.from.label                                 "Pradžia:" >
 <!ENTITY event.from.accesskey                             "r">
 <!ENTITY task.from.label                                  "Pradžia:" >
 <!ENTITY task.from.accesskey                              "r">
-<!ENTITY event.to.label                                   "Pabaiga:" >
-<!ENTITY event.to.accesskey                               "a">
+
+
 <!ENTITY task.to.label                                    "Terminas:" >
 <!ENTITY task.to.accesskey                                "e">
 <!ENTITY task.status.label                                "Būsena:" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "v" >
 <!ENTITY event.attachments.popup.removeAll.label          "Pašalinti visus" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "v" >
-<!ENTITY event.attachments.popup.attachPage.label         "Pridėti tinklalapį…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "t" >
+
+
 <!ENTITY event.url.label                                  "Saitas:" >
 <!ENTITY event.priority2.label                            "Prioritetas:">
 
@@ -348,6 +348,7 @@
 <!ENTITY event.attendee.usertype.group          "Grupė">
 <!ENTITY event.attendee.usertype.resource       "Išteklius">
 <!ENTITY event.attendee.usertype.room           "Kambarys">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Prašom parinkti laiko juostą">
