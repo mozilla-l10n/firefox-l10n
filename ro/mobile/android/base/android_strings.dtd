@@ -101,16 +101,11 @@
 
 <!ENTITY settings "Setări">
 <!ENTITY settings_title "Setări">
-<!ENTITY pref_category_input_options "Opțiuni de intrare">
-<!ENTITY pref_category_advanced "Avansat">
-<!ENTITY pref_category_customize "Personalizare">
-<!ENTITY pref_category_customize_summary "Pagină de start, căutare, file, importă">
-<!ENTITY pref_category_customize_alt_summary "Pagină de start, file, deschide mai târziu, importă">
+
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "Limbă">
 <!ENTITY pref_category_language_summary "Schimbă limba browserului">
 <!ENTITY pref_browser_locale "Limba browserului">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -144,19 +139,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Niciun dispozitiv conectat găsit la contul Firefox">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "Căutare">
 <!ENTITY pref_category_search_summary "Personalizează motoarele de căutare">
-<!ENTITY pref_category_display "Ecran">
-<!ENTITY pref_category_display_summary "Text, bară de titlu, navigare pe ecran complet">
+
+
 <!ENTITY pref_category_privacy_short "Confidențialitate">
-<!ENTITY pref_category_privacy_summary2 "Controlează autentificările, cookie-urile, urmărirea, datele">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Despre &brandShortName;, întrebări frecvente, împărtășire de date">
+
+
+
 <!ENTITY pref_category_datareporting "Împărtășire de date">
 <!ENTITY pref_learn_more "Află mai multe">
 <!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
@@ -170,12 +161,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "PONT: Adaugă orice site în lista motoarelor de căutare prin atingerea lungă pe câmpul de căutare al acestuia iar apoi apăsând pe iconița &formatI;.">
-<!ENTITY pref_category_devtools "Unelte de dezvoltare">
+
+
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
 <!ENTITY pref_developer_remotedebugging_usb "Depanare de la distanță via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depanare de la distanță via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Depanarea via Wi-Fi necesită ca dispozitivul să aibă o aplicație care scanează coduri QR.">
-<!ENTITY pref_category_logins "Autentificări">
 <!ENTITY pref_remember_signons2 "Reține autentificările">
 <!ENTITY pref_open_external_urls_privately_title "Deschide linkuri în navigarea privată">
 <!ENTITY pref_open_external_urls_privately_summary "Pentru toate linkurile externe deschise în &brandShortName;">
@@ -191,31 +182,41 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 adăugat la pagina de start">
 <!ENTITY pref_category_home_content_settings "Setări de conținut">
-<!ENTITY pref_home_updates "Actualizări automate">
+
 <!ENTITY pref_home_updates_enabled "Activate">
 <!ENTITY pref_home_updates_wifi "Doar prin Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Arată sugestii de site-uri">
 <!ENTITY pref_home_suggested_sites_summary "Afișează scurtături pe pagina de start către site-uri pe care noi credem că le-ai putea considera interesante">
 <!ENTITY pref_category_home_homepage "Pagină de start">
 <!ENTITY home_homepage_title "Setează o pagină de start">
-<!ENTITY home_homepage_use_current_tab "Folosește fila actuală">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Personalizare">
-<!ENTITY pref_header_display "Ecran">
 <!ENTITY pref_header_privacy_short "Confidențialitate">
+
+
 <!ENTITY pref_header_help "Ajutor">
-<!ENTITY pref_header_language "Limbă">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Unelte de dezvoltare">
+
 
 <!ENTITY pref_cookies_menu "Cookie-uri">
 <!ENTITY pref_cookies_accept_all "Activate">
 <!ENTITY pref_cookies_not_accept_foreign "Activate, excluzând terții">
 <!ENTITY pref_cookies_disabled "Dezactivate">
 
-<!ENTITY pref_tap_to_load_images_title "Atinge pentru a încărca imaginile">
-<!ENTITY pref_tap_to_load_images_summary2 "Încarcă imaginile doar la apăsarea lungă a acestora">
+
+
+
 
 <!ENTITY pref_tracking_protection_title "Protecție față de urmărire">
 <!ENTITY pref_tracking_protection_summary3 "Activată în navigarea privată">
@@ -251,9 +252,11 @@
 <!ENTITY pref_char_encoding "Codare de caractere">
 <!ENTITY pref_char_encoding_on "Arată meniul">
 <!ENTITY pref_char_encoding_off "Nu arăta meniul">
-<!ENTITY pref_clear_private_data2 "Curăță acum">
-<!ENTITY pref_clear_private_data_category "Curăță datele private">
-<!ENTITY pref_clear_on_exit_title2 "Curăță la ieșire">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Curăță acum">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; va curăța automat datele de fiecare dată când selectezi \u201EIeși\u201D din meniul principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selectează ce date să ștergi">
 <!ENTITY pref_plugins "Pluginuri">
@@ -261,7 +264,7 @@
 <!ENTITY pref_plugins_tap_to_play "Atinge pentru redare">
 <!ENTITY pref_plugins_disabled "Dezactivate">
 <!ENTITY pref_text_size "Mărimea textului">
-<!ENTITY pref_restore "File">
+
 <!ENTITY pref_restore_always "Restaurează mereu">
 <!ENTITY pref_restore_quit "Nu restaura după ieșirea din &brandShortName;">
 <!ENTITY pref_font_size_tiny "Foarte mică">
@@ -286,16 +289,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Activează mereu zoom-ul">
 <!ENTITY pref_zoom_force_enabled_summary "Forțează suprascrierea ca să poți face zoom pe orice pagină">
 <!ENTITY pref_voice_input "Intrare vocală">
-<!ENTITY pref_voice_input_summary "Permite dictarea vocală în bara de titlu">
+
 <!ENTITY pref_qrcode_enabled "Cititor de coduri QR">
-<!ENTITY pref_qrcode_enabled_summary "Permite scanerul QR în bara de titlu">
+
 
 <!ENTITY pref_use_master_password "Folosește parola generală">
-<!ENTITY pref_sync "Sincronizare">
+
 <!ENTITY pref_sync_summary2 "Sincronizează filele, semnele de carte, autentificările, istoricul">
 <!ENTITY pref_search_suggestions "Arată sugestii de căutare">
 <!ENTITY pref_history_search_suggestions "Arată istoricul căutărilor">
-<!ENTITY pref_import_android "Importă din Android">
+
 <!ENTITY pref_import_android_summary "Importă semnele de carte și istoricul din browserul nativ">
 <!ENTITY pref_private_data_history2 "Istoricul navigării">
 <!ENTITY pref_private_data_searchHistory "Istoricul căutărilor">
@@ -352,18 +355,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Descarcă actualizări automat">
 <!ENTITY pref_update_autodownload_wifi "Doar prin Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Niciodată">
-<!ENTITY pref_update_autodownload_always "Mereu">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Ajutor">
 
 <!ENTITY quit "Ieși">
 
-<!ENTITY addons "Suplimente">
-<!ENTITY logins "Autentificări">
+
 <!ENTITY downloads "Descărcări">
 <!ENTITY char_encoding "Codare caractere">
 
@@ -380,7 +381,7 @@ size. -->
 <!ENTITY new_private_tab "Filă privată nouă">
 <!ENTITY close_all_tabs "Închide toate filele">
 <!ENTITY close_private_tabs "Închide filele private">
-<!ENTITY tabs_normal "File">
+
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Sincronizate">
 <!ENTITY set_image_fail "Nu s-a putut seta imaginea">
@@ -433,10 +434,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "Nu s-a putut copia parola">
 <!ENTITY doorhanger_login_select_action_text "Selectează o altă autentificare">
 <!ENTITY doorhanger_login_select_title "Copiază parola din">
-
-<!ENTITY pref_titlebar_mode "Bară de titlu">
-<!ENTITY pref_titlebar_mode_title "Arată titlul paginii">
-<!ENTITY pref_titlebar_mode_url "Arată adresa paginii">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -446,7 +443,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Navigare pe ecran complet">
-<!ENTITY pref_scroll_title_bar_summary "Ascunde bara de titlu a &brandShortName; când derulezi în josul paginii">
+
 
 <!ENTITY pref_tab_queue_title2 "Deschide multiple linkuri">
 <!ENTITY pref_tab_queue_summary3 "Salvează-le până la următoarea deschidere a &brandShortName;.">
@@ -466,7 +463,6 @@ size. -->
 <!ENTITY site_settings_title3       "Setările site-ului">
 <!ENTITY site_settings_cancel       "Renunță">
 <!ENTITY site_settings_clear        "Curăță">
-<!ENTITY site_settings_no_settings  "Nu sunt setări de curățat.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -507,8 +503,6 @@ size. -->
 <!ENTITY home_top_sites_add "Adaugă un site">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "Pagina de start &brandShortName;">
 <!ENTITY home_history_title "Istoric">
 <!ENTITY home_clear_history_button "Curăță istoricul de navigare">
 <!ENTITY home_clear_history_confirm "Sigur dorești să cureți istoricul?">
@@ -522,14 +516,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: folosind o &formatS1;filă privată nouă&formatS2; nu se va salva istoricul.">
 <!ENTITY home_reading_list_empty "Articolele pe care le-ai salvat pentru mai târziu apar aici.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "PONT: Salvează articole în lista de citit prin apăsarea lungă a iconiței &formatI; când aceasta apare în bara de titlu.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "PONT: Salvează articole în lista de citit prin apăsarea lungă a butonului mod citire când acesta apare în bara de titlu.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -724,20 +716,20 @@ din Android">
      code. -->
 
 <!ENTITY devtools_auth_scan_header "Se scanează codul QR afișat pe celălalt dispozitiv">
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY restriction_disallow_import_settings_title2 "Dezactivează „Importă din Android”">
-<!ENTITY restriction_disallow_addons_title2 "Dezactivează instalarea suplimentelor">
-<!ENTITY restriction_disallow_devtools_title2 "Dezactivează uneltele de dezvoltare">
-<!ENTITY restriction_disallow_customize_home_title2 "Dezactivează personalizarea paginii de start">
-<!ENTITY restriction_disallow_private_browsing_title2 "Dezactivează navigarea privată">
-<!ENTITY restriction_disallow_location_services_title2 "Dezactivează serviciile de localizare">
-<!ENTITY restriction_disallow_display_settings_title2 "Dezactivează setările de afișare">
-<!ENTITY restriction_disallow_clear_history_title2 "Dezactivează „Curăță istoricul de navigare”">
-<!ENTITY restriction_disallow_master_password_title2 "Dezactivează parola generală">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Dezactivează navigarea în mod vizitator">
+<!ENTITY restrictable_feature_private_browsing "Navigare fără urme">
+
+
+
+
+
+
+
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -750,3 +742,8 @@ din Android">
 <!ENTITY bookmarks_restricted_support2 "Ajutor și suport Firefox pentru profiluri restricționate pe tabletele Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Învață webul: Mozilla Webmaker">
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
