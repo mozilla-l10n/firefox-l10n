@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Түрі">
 <!ENTITY viewMenu.accesskey                             "р">
 <!ENTITY viewToolbarsMenu.label                         "Саймандар панельдері">
-<!ENTITY viewToolbarsMenu.accesskey                     "С"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "С">
 <!ENTITY menubarCmd.label                               "Мәзір жолағы">
 <!ENTITY menubarCmd.accesskey                           "М">
 
@@ -103,7 +103,7 @@
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Аты Жөні">
-<!ENTITY firstLastCmd2.accesskey                        "А"> 
+<!ENTITY firstLastCmd2.accesskey                        "А">
 
 
 
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY preferencesCmdUnix.label                       "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey                   "м">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Жаңа контакт">
 <!ENTITY newContactButton.accesskey                     "к">
@@ -137,6 +137,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.accesskey                          "а">
 <!ENTITY newmsgButton.label                             "Жазу">
 <!ENTITY newmsgButton.accesskey                         "Ж">
+
+
 
 
 <!ENTITY deleteButton2.label                            "Өшіру">
@@ -207,11 +209,11 @@ because displayed names don't have the comma in between. -->
 
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Терезе">
-<!ENTITY minimizeWindow.label "Шақтау">
+<!ENTITY windowMenu.label                               "Терезе">
+<!ENTITY minimizeWindow.label                           "Шақтау">
 
-<!ENTITY bringAllToFront.label "Барлығын алдына қою">
-<!ENTITY zoomWindow.label "Үлкейту">
+<!ENTITY bringAllToFront.label                          "Барлығын алдына қою">
+<!ENTITY zoomWindow.label                               "Үлкейту">

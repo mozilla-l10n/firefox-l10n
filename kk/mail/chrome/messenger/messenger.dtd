@@ -779,9 +779,9 @@
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
+     not changed
      -->
-<!-- LOCALIZATION NOTE (search.label.base):
+<!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box.  We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
@@ -814,6 +814,8 @@
 
 <!ENTITY CopyEmailAddress.label "Эл.пошта адресін көшіріп алу">
 <!ENTITY CopyEmailAddress.accesskey "к">
+
+
 
 
 
