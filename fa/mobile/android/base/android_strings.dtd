@@ -101,11 +101,13 @@
 
 <!ENTITY settings "تنظیمات">
 <!ENTITY settings_title "تنظیمات">
-
-
+<!ENTITY pref_category_general "عمومی">
+<!ENTITY pref_category_general_summary2 "خانه، زبان، نوار آدرس">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "زبان">
 <!ENTITY pref_category_language_summary "زبان مرورگر خود را تغییر دهید">
 <!ENTITY pref_browser_locale "زبان مرورگر">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,12 +144,12 @@
 
 <!ENTITY pref_category_search3 "جستجو">
 <!ENTITY pref_category_search_summary "جستجوگر خود را شخصی سازی نمایید">
-
-
+<!ENTITY pref_category_accessibility "دسترسی‌پذیری">
+<!ENTITY pref_category_accessibility_summary2 "اندازه متن، بزرگنمایی، ورودی صوتی">
 <!ENTITY pref_category_privacy_short "حریم‌خصوصی">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "ردیابی، کوکی‌ها، انتخاب داده">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "درباره &brandShortName;، سوالات متداول، بازخورد">
 <!ENTITY pref_category_datareporting "انتخاب داده‌ها">
 <!ENTITY pref_learn_more "اطلاعات بیشتر">
 <!ENTITY pref_category_installed_search_engines "موتورهای جستجو نصب شده">
@@ -161,8 +163,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "نکته: هر وب سایتی را با فشردن طولانی بر روی فیلد جستجو و تپ بر روی شمایل &formatI;  به فهرست تامین کننده‌های جستجو اضافه کنید.">
-
-
+<!ENTITY pref_category_advanced "پیشرفته">
+<!ENTITY pref_category_advanced_summary2 "بازآوری زبانه‌ها، افزونه‌ها، ابزارهای توسعه">
 <!ENTITY pref_developer_remotedebugging "رفع‌اشکال از راه دور">
 <!ENTITY pref_developer_remotedebugging_usb "رفع اشکال راه دور به واسطه‌ی USB">
 <!ENTITY pref_developer_remotedebugging_wifi "رفع اشکال از راه دور به وسیله Wi-Fi">
@@ -182,7 +184,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 به صفحه‌خانگی اضافه شد.">
 <!ENTITY pref_category_home_content_settings "تنظیمات محتوا">
-
+<!ENTITY pref_home_updates "بروزرسانی‌های خودکار">
 <!ENTITY pref_home_updates_enabled "فعال شد">
 <!ENTITY pref_home_updates_wifi "فقط با Wi-Fi">
 <!ENTITY pref_home_suggested_sites "نمایش پیشنهادهای سایت">
@@ -192,31 +194,37 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "خانه &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "سفارشی">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "آدرس یا عبارتی برای جست‌وجو وارد کنید">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "عمومی">
+<!ENTITY pref_header_search "جستجو">
 <!ENTITY pref_header_privacy_short "حریم‌خصوصی">
-
-
+<!ENTITY pref_header_accessibility "دسترسی‌پذیری">
+<!ENTITY pref_header_advanced "پیشرفته">
 <!ENTITY pref_header_help "راهنما">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "کوکی‌ها">
 <!ENTITY pref_cookies_accept_all "فعال شد">
 <!ENTITY pref_cookies_not_accept_foreign "فعال شده، بدون شخص ثالث">
 <!ENTITY pref_cookies_disabled "غیرفعال شد">
 
-
-
-
+<!ENTITY pref_tap_to_load_images_title2 "نمایش تصاویر">
+<!ENTITY pref_tap_to_load_images_enabled "همیشه">
+<!ENTITY pref_tap_to_load_images_data "فقط با Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "مسدود شد">
 
 <!ENTITY pref_tracking_protection_title "محافظت در برابر ردگیری">
 <!ENTITY pref_tracking_protection_summary3 "فعال شده در حالت مرور خصوصی">
@@ -252,11 +260,11 @@
 <!ENTITY pref_char_encoding "کدگذاری نویسه‌ها">
 <!ENTITY pref_char_encoding_on "نمایش منو">
 <!ENTITY pref_char_encoding_off "منو را نمایش نده">
-
+<!ENTITY pref_clear_private_data "پاک‌سازی اطلاعات خصوصی">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "هم‌اکنون پاک شود">
-
+<!ENTITY pref_clear_on_exit_title3 "پاک کردن اطاعات خصوصی هنگام خروج">
 <!ENTITY pref_clear_on_exit_summary2 "هر زمان \u0022خروج\u0022 را از منوی اصلی انتخاب کنید &brandShortName; اطلاعات شما را به طور خودکار پاک می‌کند">
 <!ENTITY pref_clear_on_exit_dialog_title "داده‌هایی که می‌خواهید پاک شوند را انتخاب کنید">
 <!ENTITY pref_plugins "افزونه‌ها">
@@ -264,7 +272,7 @@
 <!ENTITY pref_plugins_tap_to_play "برای اجرا، فشار دهید">
 <!ENTITY pref_plugins_disabled "غیرفعال شد">
 <!ENTITY pref_text_size "اندازهٔ متن">
-
+<!ENTITY pref_restore_tabs "بازآوری زبانه‌ها">
 <!ENTITY pref_restore_always "همیشه برگردان">
 <!ENTITY pref_restore_quit "پس از خروج از &brandShortName; بازآوری نکن">
 <!ENTITY pref_font_size_tiny "ریز">
@@ -289,16 +297,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "همیشه زوم‌ فعال‌ باشد">
 <!ENTITY pref_zoom_force_enabled_summary "نادیده‌ گرفتن درخواست‌ها بنابراین امکان بزرگنمایی در هر صفحه">
 <!ENTITY pref_voice_input "ورودی صدا">
-
+<!ENTITY pref_voice_input_summary2 "مجوز به فرمان صوتی در نوار آدرس">
 <!ENTITY pref_qrcode_enabled "خواننده کد QR">
-
+<!ENTITY pref_qrcode_enabled_summary2 "مجوز به بارکدخوان QR در نوار عنوان">
 
 <!ENTITY pref_use_master_password "استفاده از گذرواژهٔ اصلی">
-
+<!ENTITY pref_sync2 "ورود">
 <!ENTITY pref_sync_summary2 "زبانه‌ها، نشانک‌ها، ورودها و تاریخچه خود را هم‌گام‌سازی کنید">
 <!ENTITY pref_search_suggestions "نمایش پیشنهادهای جست‌وجو">
 <!ENTITY pref_history_search_suggestions "نمایش تاریخچه جست‌وجو">
-
+<!ENTITY pref_import_options "گزینه‌های وارد کردن">
 <!ENTITY pref_import_android_summary "وارد‌کردن نشانک‌ها و تاریخچه از مرورگر اصلی">
 <!ENTITY pref_private_data_history2 "تاریخچۀ مرور">
 <!ENTITY pref_private_data_searchHistory "جست‌وجو در تاریخچه">
@@ -355,16 +363,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "بروزرسانی‌های خودکار">
 <!ENTITY pref_update_autodownload_wifi "فقط با Wi-Fi">
 <!ENTITY pref_update_autodownload_never "هرگز">
-
+<!ENTITY pref_update_autodownload_always "همیشه">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "راهنما">
 
 <!ENTITY quit "خروج">
 
-
+<!ENTITY addons "افزودنی‌ها">
+<!ENTITY logins "ورودها">
 <!ENTITY downloads "دریافت‌ها">
 <!ENTITY char_encoding "کدگذاری نویسه‌ها">
 
@@ -381,7 +391,7 @@ size. -->
 <!ENTITY new_private_tab "زبانه‌ی خصوصی جدید">
 <!ENTITY close_all_tabs "بستن همه‌ی زبانه‌ها">
 <!ENTITY close_private_tabs "بستن زبانه‌های خصوصی">
-
+<!ENTITY tabs_normal "زبانه‌ها">
 <!ENTITY tabs_private "خصوصی">
 <!ENTITY tabs_synced "همگام‌سازی شد">
 <!ENTITY set_image_fail "ناتوانی در تنظیم تصویر">
@@ -443,7 +453,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "مرور تمام صفحه">
-
+<!ENTITY pref_scroll_title_bar_summary2 "پنهان کردن نوار ابزار &brandShortName; هنگام حرکت به سمت پایین صفحه">
 
 <!ENTITY pref_tab_queue_title2 "باز‌کردن چندین پیوند">
 <!ENTITY pref_tab_queue_summary3 "ذخیره اطلاعات تا نوبت بعدی که &brandShortName; را باز می‌کنید">
@@ -503,6 +513,8 @@ size. -->
 <!ENTITY home_top_sites_add "افزودن یک سایت">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "خانه &brandShortName;">
 <!ENTITY home_history_title "تاریخچه">
 <!ENTITY home_clear_history_button "پاک کردن تاریخچه مرور">
 <!ENTITY home_clear_history_confirm "آیا مطمئن هستید می‌خواهید تاریخچه مرور خود را پاک کنید؟">
@@ -520,8 +532,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint3 "نکته: مقالات را با فشردن طولانی آیکن &formatI; در هنگامی که بر روی نوار عنوان ظاهر می‌شود به فهرست مطالعه خود اضافه کنید.">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible2 "نکته: مقالات را با فشردن طولانی مدت دکمه «حالت خواندن» هنگامی که در نوار عنوان ظاهر می‌شود در فهرست مطالعه خود اضافه کنید.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -720,16 +734,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "افزودنی‌ها">
+<!ENTITY restrictable_feature_addons_installation_description "به فایرفاکس امکانات و عملکردهای جدید اضافه کنید. نکته: افزدونی‌ها می‌توانند محدودیت‌های مشخصی را غیرفعال کنند.">
 <!ENTITY restrictable_feature_private_browsing "مرور خصوصی">
-
-
-
-
-
-
-
-
-
+<!ENTITY restrictable_feature_private_browsing_description "به اعضا خانواده اجازه می‌دهد تا بدون ذخیره اطلاعات درباره سایت‌ها و صفحاتی که بازدید کرده‌اند، به مرور وب بپردازند.">
+<!ENTITY restrictable_feature_clear_history "پاک کردن تاریخچه">
+<!ENTITY restrictable_feature_clear_history_description "به اعضا خانواده اجازه می‌دهد تا اطلاعات درباره سایت‌ها و صفحاتی که بازدید کرده‌اند را حذف کنند.">
+<!ENTITY restrictable_feature_advanced_settings "تنظیمات پیشرفته">
+<!ENTITY restrictable_feature_advanced_settings_description "این شامل وارد کردن نشانک‌ها، بازآوری زبانه‌ها و بروزرسانی خودکار می‌شود. برای ساده کردن تنظیمات که برای همه اعضا خانواده مناسب است، خاموش کنید.">
+<!ENTITY restrictable_feature_camera_microphone "دوربین و میکروفن">
+<!ENTITY restrictable_feature_camera_microphone_description "به اعضا خانواده اجازه می‌دهد تا وارد ارتباط دوطرفه‌ی بهنگام با وب‌سایت‌ها شوند.">
+<!ENTITY restrictable_feature_data_choices "انتخاب داده‌ها">
+<!ENTITY restrictable_feature_data_choices_description "انتخاب کنید که آیا مایلید تا اطلاعات استفاده را به موزیلا، برای کمک به بهتر شدن فایرفاکس، ارسال کنید یا خیر.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -746,4 +762,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "متأسفیم! این &brandShortName; بر روی این دستگاه کار نخواهد کرد (&formatS1;، &formatS2;). لطفاً نسخه صحیح را دریافت کنید.">
 
+<!ENTITY eol_notification_title "&brandShortName; دیگر از نسخه ۳ اندروید پشتیبانی نمی‌کند">
+<!ENTITY eol_notification_summary "برای اطلاعات بیشتر ضربه بزنید">
