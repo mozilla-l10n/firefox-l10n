@@ -14,7 +14,7 @@
 <!ENTITY newButton.tooltip          "                  Ստեղծել և կցել փաստաթղթին նոր ոճային աղյուսակ                ">
 <!ENTITY newButton.accesskey        "Ն">
 
-<!ENTITY importButton.label         "Ներմուծում…">
+<!ENTITY importButton.label         "Ներմուծել…">
 <!ENTITY importButton.tooltip       "Ներառել և կցել փաստաթղթին առկա ոճային աղյուսակը                ">
 <!ENTITY importButton.accesskey     "Ն">
 

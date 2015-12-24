@@ -37,7 +37,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
-<!ENTITY performanceUI.importButton "Ներմուծում…">
+<!ENTITY performanceUI.importButton "Ներմուծել…">
 <!-- LOCALIZATION NOTE (performanceUI.clearButton): This string is displayed
   -  on a button that removes all the recordings. -->
 
