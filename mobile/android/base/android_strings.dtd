@@ -98,16 +98,11 @@
 
 <!ENTITY settings "การตั้งค่า">
 <!ENTITY settings_title "การตั้งค่า">
+<!ENTITY pref_category_general "ทั่วไป">
 
-<!ENTITY pref_category_advanced "ขั้นสูง">
-<!ENTITY pref_category_customize "กำหนดเอง">
-<!ENTITY pref_category_customize_summary "หน้าแรก ค้นหา แท็บ นำเข้า">
-<!ENTITY pref_category_customize_alt_summary "หน้าหลัก, ค้นหา, แท็บ, เปิดทีหลัง, นำเข้า">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "ภาษา">
 <!ENTITY pref_category_language_summary "เปลี่ยนภาษาของเบราว์เซอร์คุณ">
 <!ENTITY pref_browser_locale "ภาษาของเบราว์เซอร์">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -141,19 +136,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "ไม่พบอุปกรณ์ที่เชื่อมต่อกับบัญชี Firefox">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "ค้นหา">
 <!ENTITY pref_category_search_summary "ปรับแต่งผู้จัดการค้นหาของคุณ">
-<!ENTITY pref_category_display "การแสดงผล">
-<!ENTITY pref_category_display_summary "ข้อความ แถบชื่อเรื่อง การท่องเว็บแบบเต็มจอ">
+
+
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
 
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "เกี่ยวกับ &brandShortName; FAQs ตัวเลือกข้อมูล">
+
+
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
 <!ENTITY pref_learn_more "เรียนรู้เพิ่มเติม">
 <!ENTITY pref_category_installed_search_engines "เครื่องมือค้นหาที่ติดตั้งไว้">
@@ -167,12 +158,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "เคล็ดลับ: เพิ่มเว็บไซต์ใดๆ เข้าในรายการผู้ให้บริการค้นหาของคุณ โดยการแตะค้างบนช่องค้นหาเว็บไซต์ จากนั้นแตะที่ไอคอน &formatI;">
-<!ENTITY pref_category_devtools "เครื่องมือนักพัฒนา">
+
+
 <!ENTITY pref_developer_remotedebugging "การดีบักผ่านเครือข่าย">
 
 
 
-<!ENTITY pref_category_logins "เข้าระบบ">
 
 
 
@@ -188,30 +179,40 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ถูกเพิ่มไปยังหน้าแรก">
 <!ENTITY pref_category_home_content_settings "ตั้งค่าเนื้อหา">
-<!ENTITY pref_home_updates "การปรับรุ่นอัตโนมัติ">
+
 <!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_home_updates_wifi "เฉพาะบน Wi-Fi">
 <!ENTITY pref_home_suggested_sites "แสดงคำแนะนำเว็บไซต์">
 <!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนโฮมเพจของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
 
 
-<!ENTITY home_homepage_use_current_tab "ใช้แท็บปัจจุบัน">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "ปรับแต่ง">
-<!ENTITY pref_header_display "แสดง">
 <!ENTITY pref_header_privacy_short "ความเป็นส่วนตัว">
+
+
 <!ENTITY pref_header_help "ช่วยเหลือ">
-<!ENTITY pref_header_language "ภาษา">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "เครื่องมือนักพัฒนา">
+
 
 <!ENTITY pref_cookies_menu "คุกกี้">
 <!ENTITY pref_cookies_accept_all "ถูกเปิดใช้งาน">
 <!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากเว็บที่ไม่ได้กำลังเปิด">
 <!ENTITY pref_cookies_disabled "ปิดใช้งาน">
 
-<!ENTITY pref_tap_to_load_images_title "แตะเพื่อโหลดภาพ">
+
+
 
 
 
@@ -244,9 +245,11 @@
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
 <!ENTITY pref_char_encoding_off "ไม่แสดงเมนู">
-<!ENTITY pref_clear_private_data2 "ล้างทันที">
-<!ENTITY pref_clear_private_data_category "ล้างข้อมูลส่วนตัว">
-<!ENTITY pref_clear_on_exit_title2 "ล้างเมื่อออก">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "ล้างทันที">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \u0022ออก\u0022 จากเมนูหลัก">
 <!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่ต้องการล้าง">
 <!ENTITY pref_plugins "โปรแกรมเสริม">
@@ -254,7 +257,7 @@
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
 <!ENTITY pref_plugins_disabled "ถูกปิดใช้งาน">
 <!ENTITY pref_text_size "ขนาดตัวอักษร">
-<!ENTITY pref_restore "แท็บ">
+
 <!ENTITY pref_restore_always "เรียกคืนเสมอ">
 <!ENTITY pref_restore_quit "ไม่เรียกคืนหลังออกจาก &brandShortName;">
 <!ENTITY pref_font_size_tiny "เล็กมาก">
@@ -284,11 +287,11 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
-<!ENTITY pref_sync "Sync">
+
 
 <!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
 <!ENTITY pref_history_search_suggestions "แสดงประวัติการค้นหา">
-<!ENTITY pref_import_android "นำเข้าจากแอนดรอยด์">
+
 <!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเว็บเบราว์เซอร์ในเครื่อง">
 <!ENTITY pref_private_data_history2 "ประวัติการท่องเว็บ">
 <!ENTITY pref_private_data_searchHistory "ประวัติการค้นหา">
@@ -345,18 +348,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "ดาวน์โหลดการปรับปรุงโดยอัตโนมัติ">
 <!ENTITY pref_update_autodownload_wifi "เฉพาะบน Wi-Fi">
 <!ENTITY pref_update_autodownload_never "ไม่ต้อง">
-<!ENTITY pref_update_autodownload_always "เปิดใช้เสมอ">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "วิธีใช้">
 
 <!ENTITY quit "ออก">
 
-<!ENTITY addons "ส่วนเสริม">
-<!ENTITY logins "เข้าระบบ">
+
 <!ENTITY downloads "ดาวน์โหลด">
 <!ENTITY char_encoding "รหัสอักขระ">
 
@@ -373,7 +374,7 @@ size. -->
 <!ENTITY new_private_tab "แท็บแบบส่วนตัวใหม่">
 <!ENTITY close_all_tabs "ปิดทุกแท็บ">
 <!ENTITY close_private_tabs "ปิดแท็บแบบส่วนตัว">
-<!ENTITY tabs_normal "แท็บ">
+
 <!ENTITY tabs_private "ส่วนตัว">
 <!ENTITY tabs_synced "ผสานข้อมูลแล้ว">
 <!ENTITY set_image_fail "ไม่สามารถตั้งค่ารูป">
@@ -426,10 +427,6 @@ size. -->
 
 
 <!ENTITY doorhanger_login_select_title "คัดลอกรหัสผ่านจาก">
-
-<!ENTITY pref_titlebar_mode "แถบหัวเรื่อง">
-<!ENTITY pref_titlebar_mode_title "แสดงหัวเรื่องเว็บ">
-<!ENTITY pref_titlebar_mode_url "แสดงที่อยู่เว็บ">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -437,7 +434,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "การท่องเว็บแบบเต็มจอ">
-<!ENTITY pref_scroll_title_bar_summary "ซ่อนแถบชื่อเรื่อง &brandShortName; เมื่อเลื่อนหน้าลงมา">
+
 
 <!ENTITY pref_tab_queue_title2 "เปิดหลายลิงก์">
 
@@ -457,7 +454,6 @@ size. -->
 <!ENTITY site_settings_title3       "การตั้งค่ารายเว็บ">
 <!ENTITY site_settings_cancel       "ยกเลิก">
 <!ENTITY site_settings_clear        "ล้าง">
-<!ENTITY site_settings_no_settings  "ไม่มีการตั้งค่าให้ล้าง">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -498,8 +494,6 @@ size. -->
 <!ENTITY home_top_sites_add "เพิ่มเว็บไซต์">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "หน้าหลัก &brandShortName;">
 <!ENTITY home_history_title "ประวัติ">
 <!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าคุณต้องการล้างประวัติการเข้าชม?">
@@ -513,14 +507,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "หมายเหตุ: การใช้&formatS1;แท็บส่วนตัวใหม่&formatS2;จะไม่บันทึกประวัติของคุณ">
 <!ENTITY home_reading_list_empty "บทความที่คุณบันทึกไว้อ่านทีหลังจะแสดงอยู่ตรงนี้">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "เคล็ดลับ: บันทึกบทความลงในรายการอ่านของคุณได้โดยการแตะไอคอน &formatI; ค้างไว้ เมื่อปรากฏบนแถบหัวเรื่อง">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "เคล็ดลับ : บันทึกบทความลงรายการอ่านของคุณโดยแตะค้างที่ปุ่มโหมดตัวอ่าน เมื่อปรากฏบนแถบหัวเรื่อง">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -706,9 +698,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restrictable_feature_private_browsing "การดูเว็บแบบส่วนตัว">
 
 
 
@@ -724,3 +718,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
