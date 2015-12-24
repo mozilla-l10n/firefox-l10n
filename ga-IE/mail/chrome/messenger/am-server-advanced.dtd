@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "T">
 <!ENTITY dualUseFolders.label "Tacaíonn an freastalaí le fillteáin ina bhfuil fofhillteáin agus teachtaireachtaí">
 <!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "Úsáid an t-ordú IDLE má thacaíonn an freastalaí leis">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Uasmhéid na gceangal freastalaí a chuirfear sa taisce">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "E">
 <!ENTITY overrideNamespaces.label "Ceadaigh don fhreastalaí na hainmspásanna seo a shárú">
 <!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3Desc.label "Agus ríomhphost POP á íosluchtú ón bhfreastalaí seo, úsáid an fillteán seo a leanas le haghaidh teachtaireachtaí nua:" >
-<!ENTITY accountDirectory.label "Bosca Isteach chuntas an fhreastalaí seo">
-<!ENTITY accountDirectory.accesskey "s">
+
+
+
 <!ENTITY deferToServer.label "Bosca Isteach cuntais eile">
 <!ENTITY deferToServer.accesskey "e">
 <!ENTITY deferGetNewMail.label "Cuir an freastalaí seo san áireamh agus ríomhphost nua á fháil">

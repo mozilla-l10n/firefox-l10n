@@ -84,20 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Méid">
 <!ENTITY fontSizeMenu.accesskey "d">
-<!ENTITY size-xx-smallCmd.label "fíorbheag">
-<!ENTITY size-xx-smallCmd.accesskey "r">
-<!ENTITY size-x-smallCmd.label "an-bheag">
-<!ENTITY size-x-smallCmd.accesskey "n">
-<!ENTITY size-smallCmd.label "beag">
-<!ENTITY size-smallCmd.accesskey "b">
-<!ENTITY size-mediumCmd.label "measartha">
-<!ENTITY size-mediumCmd.accesskey "s">
-<!ENTITY size-largeCmd.label "mór">
-<!ENTITY size-largeCmd.accesskey "m">
-<!ENTITY size-x-largeCmd.label "an-mhór">
-<!ENTITY size-x-largeCmd.accesskey "a">
-<!ENTITY size-xx-largeCmd.label "ollmhór">
-<!ENTITY size-xx-largeCmd.accesskey "o">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Stíl Téacs">
@@ -313,7 +311,6 @@
 <!ENTITY throbber.tooltip "Téigh go dtí an leathanach baile &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Roghnaigh dath soilsithe an téacs">
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Clómhéid níos lú">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Clómhéid níos mó">
 <!ENTITY boldToolbarCmd.tooltip "Trom">
