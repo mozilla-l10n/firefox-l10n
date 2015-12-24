@@ -96,16 +96,11 @@
 
 <!ENTITY settings "Teelte">
 
-
-<!ENTITY pref_category_advanced "Ceeɓore">
-<!ENTITY pref_category_customize "Heertin">
-<!ENTITY pref_category_customize_summary "Jaɓɓorgo, yiylo, tabbe, jiggo">
+<!ENTITY pref_category_general "Kuuɓal">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "Ɗemngal">
 <!ENTITY pref_category_language_summary "Waylu ɗemngal wanngorde maa">
 <!ENTITY pref_browser_locale "Ɗemngal wanngorde">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -136,18 +131,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search_summary "Heertin carwinooɓe njiilaw maa">
-<!ENTITY pref_category_display "Jaytino">
-<!ENTITY pref_category_display_summary "Binndol, balal tiitoonde, bangagol njaajeendi-yaynirde">
+
+
 <!ENTITY pref_category_privacy_short "Suturo">
 
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Baɗte &brandShortName;, FAQs, cuɓe keɓe">
+
+
 <!ENTITY pref_category_datareporting "Cuɓe keɓe">
 <!ENTITY pref_learn_more "Ɓeydu humpito">
 <!ENTITY pref_category_installed_search_engines "Jiylorɗe aafaaɗe">
@@ -161,9 +152,9 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Ɓeydi lowre njiɗ-ɗaa fof e doggol sarwooɓe njiilaw maa so ñoƴƴude juutngol e gallow njiilaw mum kisa tappaa e maanndel &formatI; ngel.">
-<!ENTITY pref_category_devtools "Kuutorɗe topaajo">
-<!ENTITY pref_developer_remotedebugging "Buggitagol goɗɗungol">
 
+
+<!ENTITY pref_developer_remotedebugging "Buggitagol goɗɗungol">
 
 
 
@@ -182,26 +173,39 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "&formatS; ɓeydaama to jaɓɓorgo">
 <!ENTITY pref_category_home_content_settings "Teelte loowdi">
-<!ENTITY pref_home_updates "Kesɗitine jaajol">
+
 <!ENTITY pref_home_updates_enabled "Daaƴtaaɗo">
 <!ENTITY pref_home_updates_wifi "E Wifi tan">
 <!ENTITY pref_home_suggested_sites "Hollu lowe basiyaaɗi">
 <!ENTITY pref_home_suggested_sites_summary "Hollu codorɗe lowe e hello jaɓɓorgo maa ɗe min cikki aɗa foti hatojinde">
 
 
-
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 
+
+
 <!ENTITY pref_header_help "Ballal">
-
-
 
 
 <!ENTITY pref_cookies_menu "Kukiije">
 
 <!ENTITY pref_cookies_not_accept_foreign "Daaƴtaaɗo, wondaani e ɓe woɗɓe">
 <!ENTITY pref_cookies_disabled "Daaƴaama">
+
+
 
 
 
@@ -233,9 +237,11 @@
 <!ENTITY pref_char_encoding "Dokkitannde alkule">
 <!ENTITY pref_char_encoding_on "Hollu dosol">
 <!ENTITY pref_char_encoding_off "Hoto hollu dosol">
-<!ENTITY pref_clear_private_data2 "Momtu jooni">
-<!ENTITY pref_clear_private_data_category "Momtu keɓe sirluuje">
-<!ENTITY pref_clear_on_exit_title2 "Momtu tuma jaltugol">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Momtu jooni">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; maa momtu e jaajol tuma kala nde labi-ɗaa  \0022Yaltu\u0022 e dosol dowrowol ngol">
 <!ENTITY pref_clear_on_exit_dialog_title "Labo keɓe momteteeɗe">
 <!ENTITY pref_plugins "Ceŋe">
@@ -243,7 +249,7 @@
 <!ENTITY pref_plugins_tap_to_play "Fiy ngam tarde">
 
 <!ENTITY pref_text_size "Ɓetol binndi">
-<!ENTITY pref_restore "Taaɓe">
+
 <!ENTITY pref_restore_always "Artir sahaa kala">
 <!ENTITY pref_restore_quit "Hoto artir caggal jaltugol &brandShortName;">
 <!ENTITY pref_font_size_tiny "Pamarum">
@@ -272,11 +278,11 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "Huutoro finnde baabaare">
-<!ENTITY pref_sync "Sanngoɗin">
+
 
 <!ENTITY pref_search_suggestions "Hollu wasiyaaji jiirlorɗe">
 
-<!ENTITY pref_import_android "Jiggo iwde e Android">
+
 <!ENTITY pref_import_android_summary "Jiggo maantore e aslol iwde e wanngorde cinndel ngel">
 <!ENTITY pref_private_data_history2 "Aslol peeragol">
 
@@ -333,15 +339,13 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Aawto kesɗitine e jaajol">
 
 <!ENTITY pref_update_autodownload_never "Hay sahaa">
-<!ENTITY pref_update_autodownload_always "Sahaa kala">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Yaltu">
 
-<!ENTITY addons "Ɓeyditte">
 
 
 <!ENTITY char_encoding "Dokkitannde Alkule">
@@ -408,10 +412,6 @@ size. -->
 
 
 
-
-<!ENTITY pref_titlebar_mode "Palal tiitoonde">
-<!ENTITY pref_titlebar_mode_title "Hollu tiitoonde hello">
-<!ENTITY pref_titlebar_mode_url "Hollu ñiiɓirde hello">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -419,7 +419,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Banngagol njaajeendi yaynirde">
-<!ENTITY pref_scroll_title_bar_summary "Suuɗ palal tiitoonde &brandShortName; so aɗa woroo les hello">
+
 
 
 <!-- Localization note (page_removed): This string appears in a toast message when
@@ -438,7 +438,6 @@ size. -->
 <!ENTITY site_settings_title3       "Teelte Lowre">
 
 <!ENTITY site_settings_clear        "Momtu">
-<!ENTITY site_settings_no_settings  "Teelte ngalaa saka momtee.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "Hello momtaama e Doggol Taro maa">
@@ -477,8 +476,6 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
-<!ENTITY home_title "Jaɓɓorgo &brandShortName;">
-
 <!ENTITY home_clear_history_button "Momtu aslol peeraagol">
 <!ENTITY home_clear_history_confirm "Aɗa yenanaa yiɗde momtude aslol maa?">
 <!ENTITY home_bookmarks_empty "Maantore ndanndu-ɗaa njaltata ɗoo.">
@@ -491,14 +488,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Heee: huutoraade &formatS1;Tabbere Suturo Hesere&formatS2; danndataa aslol maa.">
 <!ENTITY home_reading_list_empty "Binndanɗe ndanndu-ɗaa njaltata ɗoo.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "TIP: Danndu binndanɗe to doggol maa targol so ñoƴƴude juutnnde e maandel &formatI; so nde yaltii e palal tiitooɗe ndee.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "TIP: Danndu binndanɗe to doggol maa targol so ñoƴƴude juutnnde e butoŋ mbayka targol so nde yaltii e palal tiitooɗe ndee.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -669,9 +664,11 @@ iwde e Android">
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restrictable_feature_private_browsing "Banngagol Suturo">
 
 
 
@@ -687,3 +684,8 @@ iwde e Android">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
