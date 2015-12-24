@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Kóžde ">
 <!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "mjeńšin za nowymi powěsćemi pruwować">
+
+
 <!ENTITY connectionSecurity.label "Zwiskowa wěstota:">
 <!ENTITY connectionSecurity.accesskey "Z">
 <!ENTITY connectionSecurityType-0.label "Žana">

@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Standardy wobnowić">
 <!ENTITY restoreHTMLDefaults.accesskey        "b">
 
+
+
 <!ENTITY spellCheck.label                     "Prawopis do słanja pruwować">
 <!ENTITY spellCheck.accesskey                 "s">
 <!ENTITY spellCheckInline.label               "Prawopis při zapodaću pruwować">

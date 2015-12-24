@@ -138,6 +138,8 @@ zo &brandShortName; smě z webom zwjazać.</li> 
 <!ENTITY phishingBlocked.longDesc "<p>Zapodawanje wosobinskich informacijow na tutej stronje móža ke kradnjenju identity abo druhemu wobsudstwu wjesć.</p> 
 <p>Tute typy webwobšudstwow wužiwaja so w jebanstwach jako čušlace nadpady, w kotrychž wobšudne webstrony a e-mejle so wužiwaja, zo bychu žórła imitowali, kotrymž dowěrjeće.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Přez wěstotne prawidła za wobsah zablokowany">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je začitanju tuteje strony na tute wašnje zadźěwał, dokelž strona ma wěstotne prawidła za wobsah, kotrež to njedowoleja.</p>">
 
