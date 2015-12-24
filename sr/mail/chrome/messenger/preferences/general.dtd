@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY messengerStartPage.label         "&brandShortName; почетна страна">
+<!ENTITY enableStartPage.label            "Када се &brandShortName; покрене, прикажи почетну страну у делу за поруке">
+<!ENTITY enableStartPage.accesskey        "К">
+<!ENTITY location.label                   "Место:">
+<!ENTITY location1.accesskey               "о">
+<!ENTITY useDefault.label                 "Врати подразумевано">
+<!ENTITY useDefault.accesskey             "В">
+
+<!ENTITY changeDockIconOptions.label      "Промени поставке за иконицу програма">
+<!ENTITY dockOptions.label                "Опције иконице програма…">
+<!ENTITY dockOptions.accesskey            "н">
+
+<!ENTITY newMessagesArrive.label          "Када нове поруке стигну:">
+<!ENTITY playSound.label                  "Пусти звук">
+<!ENTITY playSound1.accesskey              "з">
+<!ENTITY showAnimatedAlert.label          "Прикажи узбуну">
+<!ENTITY showAnimatedAlert.accesskey      "б">
+<!ENTITY customizeMailAlert.label         "Прилагоди…">
+<!ENTITY customizeMailAlert.accesskey     "д">
+
+<!ENTITY showTrayIcon.label               "Прикажи иконицу у системској касети">
+<!ENTITY showTrayIcon.accesskey           "т">
+
+<!ENTITY play.label                       "Пусти">
+<!ENTITY play.accesskey                   "П">
+<!ENTITY systemsound.label                "Подразумевани системски звук за нову пошту">
+<!ENTITY systemsoundMac.label             "Системски звук узбуне">
+<!ENTITY systemsoundMac.accesskey         "и">
+<!ENTITY systemsound.accesskey            "и">
+<!ENTITY customsound.label                "Користи следећу звучну датотеку">
+<!ENTITY customsound.accesskey            "р">
+<!ENTITY browse.label                     "Преглед…">
+<!ENTITY browse.accesskey                 "л">
+
+<!ENTITY defaultSearchEngine.label        "Подразумевани претраживач">
