@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Садржај поште">
+
+<!ENTITY acceptRemoteContent.label "Дозволи удаљени садржај у порукама">
+<!ENTITY acceptRemoteContent.accesskey "д">
+<!ENTITY remoteContentExceptions.label "Изузеци…">
+<!ENTITY remoteContentExceptions.accesskey "з">
+<!ENTITY acceptRemoteContentInfo.label "Сазнајте више о проблемима приватности код удаљеног садржаја">
+
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Веб садржај">
+
+<!ENTITY keepHistory.label "Памти веб странице и везе које сам посетио">
+<!ENTITY keepHistory.accesskey "м">
+<!ENTITY acceptCookies.label "Прихватај колачиће са страница">
+<!ENTITY acceptCookies.accesskey "х">
+<!ENTITY acceptThirdParty.pre.label "Прихватај колачиће трећих странки:">
+<!ENTITY acceptThirdParty.pre.accesskey "л">
+<!ENTITY acceptThirdParty.always.label "Увек">
+<!ENTITY acceptThirdParty.never.label "Никада">
+<!ENTITY acceptThirdParty.visited.label "Са посећених">
+<!ENTITY keepUntil.label "Чувај док:">
+<!ENTITY keepUntil.accesskey "в">
+<!ENTITY expire.label "они не истекну">
+<!ENTITY close.label "Док не затворим &brandShortName;">
+<!ENTITY askEachTime.label "питај ме сваки пут">
+<!ENTITY cookieExceptions.label "Изузеци…">
+<!ENTITY cookieExceptions.accesskey "И">
+<!ENTITY showCookies.label "Прикажи колачиће…">
+<!ENTITY showCookies.accesskey "р">
+
+<!ENTITY dntTrackingNotOkay.label2 "Реци веб страницама да не желим да ме прате">
+<!ENTITY dntTrackingNotOkay.accesskey "ц">
+<!ENTITY doNotTrackInfo.label "Сазнајте више о Не желим да ме прате">
