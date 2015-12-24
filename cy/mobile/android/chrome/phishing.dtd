@@ -20,3 +20,5 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Mae'r dudalen hon <span id='unwanted_sitename'/> wedi ei chofnodi i gynnwys meddalwedd digroeso ac mae wedi ei rhwystro yn seiliedig ar eich dewisiadau diogelwch.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Mae tudalennau meddalwedd digroeso yn ceisio gosod meddalwedd sy'n dwyllodrus ac yn effeithio ar eich system mewn ffyrdd anisgwyl.">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
