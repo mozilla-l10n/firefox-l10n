@@ -101,15 +101,10 @@
 <!ENTITY settings "സജ്ജീകരണങ്ങള്‍">
 <!ENTITY settings_title "ക്രമീകരണങ്ങള്‍">
 
-<!ENTITY pref_category_advanced "സങ്കീര്‍ണ്ണമായവ...">
-<!ENTITY pref_category_customize "ഇഷ്ടാനുസൃതമാക്കുക">
-<!ENTITY pref_category_customize_summary "പൂമുഖം, തിരച്ചില്‍, ടാബുകള്‍, ഇറക്കുമതി">
-<!ENTITY pref_category_customize_alt_summary "പൂമുഖം, തിരച്ചില്‍, ടാബുകള്‍, പിന്നീട് തുറക്കുക, ഇറക്കുമതി">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "ഭാഷ">
 <!ENTITY pref_category_language_summary "താങ്കളുടെ ബ്രൗസറിന്റെ ഭാഷ മാറ്റൂ">
 <!ENTITY pref_browser_locale "ബ്രൗസറിന്റെ ഭാഷ">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -143,21 +138,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "ഫയര്‍ഫോക്സ് അക്കൗണ്ടുമായി ബന്ധിപ്പിച്ചിട്ടുള്ള ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-
-<!ENTITY menu_no_synced_devices "കണക്റ്റ് ചെയ്ത മറ്റൊരു ഡിവൈസിലേക്ക് ഈ ടാബ് അയക്കുക">
 
 <!ENTITY pref_category_search3 "തെരയുക">
 <!ENTITY pref_category_search_summary "തിരയല്‍ സേവന ദാതാക്കളെ ഇഷ്ടാനുസൃതമാക്കുക">
-<!ENTITY pref_category_display "പ്രദര്‍ശനം">
+
 
 <!ENTITY pref_category_privacy_short "സ്വകാര്യത">
-<!ENTITY pref_category_privacy_summary2 "പ്രവേശനങ്ങള്‍, കുക്കീകള്‍, നിരീക്ഷിക്കല്‍, ഡാറ്റ എന്നിവയെ നിയന്ത്രിക്കൂ">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "&brandShortName;-നെ സംബന്ധിച്ച്, സ്ഥിരം ചോദ്യങ്ങള്‍, ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
+
+
+
 <!ENTITY pref_category_datareporting "ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
 <!ENTITY pref_learn_more "കൂടുതല്‍ അറിയുക">
 <!ENTITY pref_category_installed_search_engines "ഇന്‍സ്റ്റാള്‍ ചെയ്തിരിക്കുന്ന തിരയല്‍ യന്ത്രങ്ങള്‍">
@@ -171,12 +160,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "സഹായി: തിരച്ചില്‍ സഹായികളുടെ പട്ടികയിലേക്ക് ഏത് വെബ്സൈറ്റ് ചേര്‍ക്കണമെങ്കിലും തിരച്ചിലിനുള്ള ഫീല്‍ഡില്‍ ദീര്‍ഘനേരം അമര്‍ത്തിപിടിച്ച് &formatI; ഐക്കണില്‍ ഞെക്കുക.">
-<!ENTITY pref_category_devtools "ഡെവലപ്പര്‍ ഉപകരണങ്ങള്‍">
+
+
 <!ENTITY pref_developer_remotedebugging "വിദൂര ഡീബഗ്ഗിങ്">
 <!ENTITY pref_developer_remotedebugging_usb "യു എസ് ബി വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
 <!ENTITY pref_developer_remotedebugging_wifi "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗിനു താങ്കളുടെ ഡിവൈസില്‍ ക്യുആര്‍ കോഡ് റീഡര്‍ ആപ്പ് ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടതുണ്ട്.">
-<!ENTITY pref_category_logins "പ്രവേശനങ്ങള്‍">
 <!ENTITY pref_remember_signons2 "പ്രവേശനങ്ങള്‍ ഓര്‍മിക്കുക">
 <!ENTITY pref_open_external_urls_privately_title "ലിങ്കുകള്‍ സ്വകാര്യ ബ്രൌസിംഗിലായി തുറക്കുക">
 
@@ -192,28 +181,39 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "&formatS; ഹോംപേജിലേക്ക് ചേര്‍ത്തിരിക്കുന്നു">
 <!ENTITY pref_category_home_content_settings "ഉള്ളടക്ക സജ്ജീകരണങ്ങള്‍">
-<!ENTITY pref_home_updates "ഓട്ടോമാറ്റിക്ക് പരിഷ്കരണങ്ങള്‍">
+
 <!ENTITY pref_home_updates_enabled "പ്രവര്‍ത്തനക്ഷമമാക്കി">
 <!ENTITY pref_home_updates_wifi "വൈ-ഫൈ വഴി മാത്രം">
 <!ENTITY pref_home_suggested_sites "സൈറ്റ് നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുക">
 <!ENTITY pref_home_suggested_sites_summary "താങ്കൾക്ക് ഇഷ്ടപ്പെടും എന്ന് ഞങ്ങൾ കരുതുന്ന സൈറ്റുകളിലേക്കുള്ള കുറുക്കുവഴികൾ പൂമുഖത്താളില്‍ കാണിക്കൂ">
 
 
-<!ENTITY home_homepage_use_current_tab "നിലവിലുള്ള ടാബ് ഉപയോഗിക്കുക">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "യഥേഷ്ടമാക്കുക">
-<!ENTITY pref_header_display "പ്രദര്‍ശനം">
 <!ENTITY pref_header_privacy_short "സ്വകാര്യത">
+
+
 <!ENTITY pref_header_help "സഹായം">
-<!ENTITY pref_header_language "ഭാഷ">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "ഡെവലപ്പര്‍ ഉപകരണങ്ങള്‍">
+
 
 <!ENTITY pref_cookies_menu "കുക്കികള്‍ ">
 <!ENTITY pref_cookies_accept_all "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
 <!ENTITY pref_cookies_not_accept_foreign "മൂന്നാം കക്ഷിയെ ഒഴിവാക്കി, പ്രവര്‍ത്തനസജ്ജമാക്കി">
 <!ENTITY pref_cookies_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
+
+
 
 
 
@@ -248,8 +248,10 @@
 <!ENTITY pref_char_encoding "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
 <!ENTITY pref_char_encoding_on "മെനു കാണിക്കുക">
 <!ENTITY pref_char_encoding_off "മെനു കാണിക്കേണ്ട">
-<!ENTITY pref_clear_private_data2 "ഇപ്പോള്‍ മായ്ക്കുക">
-<!ENTITY pref_clear_private_data_category "സ്വകാര്യവിവരങ്ങള്‍ നീക്കം ചെയ്യുക">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "ഇപ്പോള്‍ മായ്ക്കുക">
 
 <!ENTITY pref_clear_on_exit_summary2 "മെയിന്‍ മെനുവില്‍ നിന്നും \u0022പുറത്തു് കടക്കൂ\u0022 എന്നതെടുക്കുമ്പോള്‍ &brandShortName; നിങ്ങളുടെ ഉപയോഗവിവരങ്ങള്‍ സ്വയം നീക്കം ചെയ്യും.">
 <!ENTITY pref_clear_on_exit_dialog_title "വെടിപ്പാക്കേണ്ട ഡേറ്റാ തെരഞ്ഞെടുക്കൂ">
@@ -258,7 +260,7 @@
 <!ENTITY pref_plugins_tap_to_play "കളിക്കാൻ തട്ടൂ">
 <!ENTITY pref_plugins_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
 <!ENTITY pref_text_size "അക്ഷര വലുപ്പം">
-<!ENTITY pref_restore "ടാബുകള്‍">
+
 <!ENTITY pref_restore_always "എപ്പോഴും പഴയപടിയാക്കുക">
 <!ENTITY pref_restore_quit "&brandShortName;-ല്‍ വിരമിച്ച ശേഷം പഴയപടിയാക്കേണ്ട">
 <!ENTITY pref_font_size_tiny "ചെറുത്">
@@ -287,11 +289,11 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "ഒരു പ്രധാന രഹസ്യവാക്ക് ഉപയോഗിക്കുക">
-<!ENTITY pref_sync "സിന്‍ക്">
+
 
 <!ENTITY pref_search_suggestions "തിരയല്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുക">
 <!ENTITY pref_history_search_suggestions "തെരച്ചില്‍ നടത്തിയ നാള്‍വഴി കാണിക്കുക">
-<!ENTITY pref_import_android "ആന്‍ഡ്രോയിഡില്‍ നിന്ന് ഇറക്കുമതി ചെയ്യുക">
+
 
 <!ENTITY pref_private_data_history2 "ബ്രൌസ് ചെയ്ത വെബ്സൈറ്റുകള്‍">
 
@@ -348,18 +350,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "പുതിയ പതിപ്പുകള്‍ തനിയെ ഡൗണ്‍ലോഡ് ചെയ്യുക">
 <!ENTITY pref_update_autodownload_wifi "വൈ-ഫൈ വഴി മാത്രം">
 <!ENTITY pref_update_autodownload_never "ഒരിക്കലുമില്ല">
-<!ENTITY pref_update_autodownload_always "എപ്പോഴും">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "സഹായം">
 
 <!ENTITY quit "പുറത്തു കടക്കുക">
 
-<!ENTITY addons "ആഡ്-ഓണുകള്‍">
-<!ENTITY logins "പ്രവേശനങ്ങള്‍">
+
 <!ENTITY downloads "ഡൌണ്‍ലോഡുകള്‍">
 <!ENTITY char_encoding "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
 
@@ -376,7 +376,7 @@ size. -->
 <!ENTITY new_private_tab "പുതിയ സ്വകാര്യ ടാബ്">
 <!ENTITY close_all_tabs "എല്ലാ ടാബും അടക്കുക">
 <!ENTITY close_private_tabs "സ്വകാര്യ റ്റാബുകള്‍ അടയ്ക്കൂ">
-<!ENTITY tabs_normal "ടാബുകള്‍">
+
 <!ENTITY tabs_private "സ്വകാര്യം">
 <!ENTITY tabs_synced "സിങ്ക് ചെയ്തു">
 <!ENTITY set_image_fail "ചിത്രം ചേര്‍ക്കാന്‍ കഴിഞ്ഞില്ല">
@@ -425,10 +425,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "രഹസ്യവാക്ക് പകര്‍ത്തുവാന്‍ കഴിഞ്ഞില്ല">
 <!ENTITY doorhanger_login_select_action_text "മറ്റൊരു പ്രവേശനം തിരഞ്ഞെടുക്കുക">
 
-
-<!ENTITY pref_titlebar_mode "തലക്കെട്ട് പട്ട">
-<!ENTITY pref_titlebar_mode_title "പേജിന്റെ തലക്കെട്ട് കാണിക്കുക">
-<!ENTITY pref_titlebar_mode_url "താളിന്റെ വിലാസം കാണിക്കുക">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -453,7 +449,6 @@ size. -->
 <!ENTITY site_settings_title3       "വെബ്സൈറ്റ് സജ്ജീകരണങ്ങള്‍">
 <!ENTITY site_settings_cancel       "റദ്ദാക്കുക">
 <!ENTITY site_settings_clear        "വൃത്തിയാക്കുക">
-<!ENTITY site_settings_no_settings  "വൃത്തിയാക്കാന്‍ സജ്ജീകരണങ്ങള്‍ ഒന്നുമില്ല.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -494,8 +489,6 @@ size. -->
 <!ENTITY home_top_sites_add "ഒരു സൈറ്റ് ചേര്‍ക്കുാം">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "&brandShortName; ആസ്ഥാനം">
 <!ENTITY home_history_title "നാള്‍വഴി">
 <!ENTITY home_clear_history_button "ബ്രൗസിങ്ങ് നാൾവഴി വെടിപ്പാക്കുക">
 <!ENTITY home_clear_history_confirm "നാള്‍വഴി മായ്ക്കട്ടെ?">
@@ -509,14 +502,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "ഏയ്, &formatS1;പുതിയ സ്വകാര്യ ടാബ്&formatS2; ഉപയോഗിയ്ക്കുന്നത് താങ്കളുടെ നാള്‍വഴി സൂക്ഷിക്കില്ല.">
 <!ENTITY home_reading_list_empty "പിന്നീട് കാണാൻ നിങ്ങൾ സൂക്ഷിച്ച ലേഖനങ്ങൾ ഇവിടെ കാണിക്കുന്നു.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "&formatI; ഐക്കണ്‍ തലക്കെട്ട് പട്ടയില്‍ വരുമ്പോള്‍ അത് ദീര്‍ഘനേരം അമര്‍ത്തിപിടിച്ച് ലേഖനങ്ങള്‍ നിങ്ങളുടെ വായനാ പട്ടികയില്‍ സൂക്ഷിക്കുക.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "റീഡര്‍ മോഡ് ബട്ടണ്‍ തലക്കെട്ട് പട്ടയില്‍ വരുമ്പോള്‍ അത് ദീര്‍ഘനേരം അമര്‍ത്തിപിടിച്ച് ലേഖനങ്ങള്‍ നിങ്ങളുടെ വായനാ പട്ടികയില്‍ സൂക്ഷിക്കുക.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -688,9 +679,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restrictable_feature_private_browsing "സ്വകാര്യ ബ്രൗസിങ്">
 
 
 
@@ -706,3 +699,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
