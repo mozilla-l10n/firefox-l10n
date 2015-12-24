@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "افحص الرسائل الجديدة كل ">
 <!ENTITY biffStart.accesskey "ف">
 <!ENTITY biffEnd.label "دقائق">
+
+
 <!ENTITY connectionSecurity.label "أمن الاتصال:">
 <!ENTITY connectionSecurity.accesskey "ص">
 <!ENTITY connectionSecurityType-0.label "لا شيء">

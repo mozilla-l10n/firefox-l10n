@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "استعد المبدئيات">
 <!ENTITY restoreHTMLDefaults.accesskey        "م">
 
+
+
 <!ENTITY spellCheck.label                     "دقِّق الإملاء قبل الإرسال">
 <!ENTITY spellCheck.accesskey                 "د">
 <!ENTITY spellCheckInline.label               "فعّل تدقيق الإملاء بينما أكتب">

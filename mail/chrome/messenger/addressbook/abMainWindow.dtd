@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "اعرض">
 <!ENTITY viewMenu.accesskey                             "ع">
 <!ENTITY viewToolbarsMenu.label                         "أشرطة الأدوات">
-<!ENTITY viewToolbarsMenu.accesskey                     "ش"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "ش">
 <!ENTITY menubarCmd.label                               "شريط القائمة">
 <!ENTITY menubarCmd.accesskey                           "ئ">
 <!ENTITY showAbToolbarCmd.label                         "شريط أدوات دفتر العناوين">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "لوحة المراسلين">
 <!ENTITY showContactPane2.accesskey                     "س">
 <!ENTITY menu_ShowNameAs.label                          "اعرض الاسم ك‍">
-<!ENTITY menu_ShowNameAs.accesskey                      "ك"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "ك">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "الاسم الكنية">
-<!ENTITY firstLastCmd2.accesskey                        "م"> 
+<!ENTITY firstLastCmd2.accesskey                        "م">
 <!ENTITY lastFirstCmd.label                             "الأخير، الأول">
 <!ENTITY lastFirstCmd.accesskey                         "و">
 <!ENTITY displayNameCmd.label                           "اسم العرض">
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "خ">
 <!ENTITY preferencesCmdUnix.label                       "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey                   "ف">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "متراسل جديد">
 <!ENTITY newContactButton.accesskey                     "ج">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "ك">
 <!ENTITY newIM.label                                    "رسالة فورية">
 <!ENTITY newIM.accesskey                                "ف">
+
+
 <!ENTITY deleteButton2.label                            "احذف">
 <!ENTITY deleteButton2.accesskey                        "ح">
 <!-- Address Book Toolbar Tooltips -->
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "حرّر العنصر المُختار">
 <!ENTITY newmsgButton.tooltip                           "أرسِل رسالة بريد">
 <!ENTITY newIM.tooltip                                  "أرسِل رسالة فورية أو دردشة">
-<!ENTITY deleteButton2.tooltip                           "احذف العنصر المُختار">
+<!ENTITY deleteButton2.tooltip                          "احذف العنصر المُختار">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "دفاتر العناوين">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "اعرض خريطة لهذا العنوان من الوب">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "نافذة">
-<!ENTITY minimizeWindow.label "صغّر">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
-<!ENTITY zoomWindow.label "قرّب">
+<!ENTITY windowMenu.label                               "نافذة">
+<!ENTITY minimizeWindow.label                           "صغّر">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "اجلب الكل للمقدمة">
+<!ENTITY zoomWindow.label                               "قرّب">
