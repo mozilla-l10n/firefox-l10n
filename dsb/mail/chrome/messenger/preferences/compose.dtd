@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Standardy wótnowiś">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
 
+
+
 <!ENTITY spellCheck.label                     "Pšawopis do słanja kontrolěrowaś">
 <!ENTITY spellCheck.accesskey                 "P">
 <!ENTITY spellCheckInline.label               "Pšawopis pśi zapódaśu kontrolěrowaś">

@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Słańske opcije">
 <!ENTITY sendMail.title               "Tekstowy format">
+
+
 <!ENTITY sendMaildesc.label           "Gaž powěsći sćelu se we formaśe HTML a za jadnogo dostawarja abo někotarych dostawarjow jo pódane, až njamógu HTML dostaś:">
 <!ENTITY askMe.label                  "Pšašaś se, co dej se cyniś">
 <!ENTITY askMe.accesskey              "P">
