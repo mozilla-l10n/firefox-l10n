@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Invitație separată per participant">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Această opțiune trimite o invitație pe e-mail per participant. Fiecare invitație conține doar participantul destinatar, astfel încât identitățile altor participanți nu sunt dezvăluite.">
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "Opțiuni">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attendees.label                  "Invită participanți…">
-<!ENTITY  event.menu.options.attendees.accesskey              "I">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Afișare fusuri orare">
 <!ENTITY  event.menu.options.timezone2.accesskey              "f">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritate">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Liber">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
-<!ENTITY event.invite.attendees.label                     "Invită participanți…">
-<!ENTITY event.invite.attendees.accesskey                 "I">
+
 <!ENTITY event.email.attendees.label                      "Compune un mesaj către toți participanții…">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Compune un mesaj către participanții indeciși…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Salvează și închide">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "Titlu:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
-<!ENTITY event.location.label                             "Amplasare:" >
-<!ENTITY event.location.accesskey                         "l">
+
+
 <!ENTITY event.categories.label                           "Categorie:">
 <!ENTITY event.categories.accesskey                       "C">
 <!ENTITY event.categories.textbox.label                   "Adaugă o categorie nouă" >
 <!ENTITY event.calendar.label                             "Calendar:" >
 <!ENTITY event.calendar.accesskey                         "C">
-<!ENTITY event.attendees.label                            "Participanți:" >
-<!ENTITY event.attendees.accesskey                        "a" >
+
+
 <!ENTITY event.alldayevent.label                          "Evenimentul durează toată ziua" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Dată de început:" >
 <!ENTITY event.from.accesskey                             "n">
 <!ENTITY task.from.label                                  "Început:" >
 <!ENTITY task.from.accesskey                              "n">
-<!ENTITY event.to.label                                   "Sfârșit:" >
-<!ENTITY event.to.accesskey                               "S">
+
+
 <!ENTITY task.to.label                                    "Dată de sfârșit:" >
 <!ENTITY task.to.accesskey                                "D">
 <!ENTITY task.status.label                                "Stare:" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "D" >
 <!ENTITY event.attachments.popup.removeAll.label          "Elimină-le pe toate" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-<!ENTITY event.attachments.popup.attachPage.label         "Atașează o pagină web…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
+
+
 <!ENTITY event.url.label                                  "Linkul către asocieri:" >
 <!ENTITY event.priority2.label                            "Prioritate:">
 
@@ -348,6 +348,7 @@
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Resursă">
 <!ENTITY event.attendee.usertype.room           "Cameră">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Vă rugăm să specificați fusul orar">
