@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Pedadennoù hiniennel dispartiet">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "An dibarzh-mañ a gas ur bedadenn dre bostel evit pep perzhiad. N'eus nemet chomlec'h postel an perzhiad er postel evit ma ne vefe ket diskuliet identelezh ar berzhidi all.">
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "Dibarzhioù">
 <!ENTITY  event.menu.options.accesskey                        "D">
-<!ENTITY  event.menu.options.attendees.label                  "Pediñ Perzhidi...">
-<!ENTITY  event.menu.options.attendees.accesskey              "P">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Skrammañ ar gwerzhidi-eur">
 <!ENTITY  event.menu.options.timezone2.accesskey              "g">
 <!ENTITY  event.menu.options.priority2.label                  "Tevet">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Dieub">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "D">
 
-<!ENTITY event.invite.attendees.label                     "Kouviañ Perzhidi">
-<!ENTITY event.invite.attendees.accesskey                 "K">
+
 <!ENTITY event.email.attendees.label                      "Skridaozañ ur bostel d'an holl berzhidi...">
 <!ENTITY event.email.attendees.accesskey                  "h">
 <!ENTITY event.email.tentative.attendees.label            "Sevel Postel evit Perzhidi Arvarus">
 <!ENTITY event.email.tentative.attendees.accesskey        "P">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Enrollañ ha serriñ">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "Titl :" >
 <!ENTITY event.title.textbox.accesskey                    "i">
-<!ENTITY event.location.label                             "Lec'hiadur :" >
-<!ENTITY event.location.accesskey                         "L">
+
+
 <!ENTITY event.categories.label                           "Rummad">
 <!ENTITY event.categories.accesskey                       "a">
 <!ENTITY event.categories.textbox.label                   "Ouzhpennañ ur rummad nevez" >
 <!ENTITY event.calendar.label                             "Deiziataeroù :" >
 <!ENTITY event.calendar.accesskey                         "e">
-<!ENTITY event.attendees.label                            "Perzhidi :" >
-<!ENTITY event.attendees.accesskey                        "P" >
+
+
 <!ENTITY event.alldayevent.label                          "Degouezh war an devezh a-bezh" >
 <!ENTITY event.alldayevent.accesskey                      "w">
 <!ENTITY event.from.label                                 "Deraouiñ :" >
 <!ENTITY event.from.accesskey                             "D">
 <!ENTITY task.from.label                                  "Penn-kentañ :" >
 <!ENTITY task.from.accesskey                              "D">
-<!ENTITY event.to.label                                   "Dibenn :" >
-<!ENTITY event.to.accesskey                               "D">
+
+
 <!ENTITY task.to.label                                    "Devezh dleet :" >
 <!ENTITY task.to.accesskey                                "e">
 <!ENTITY task.status.label                                "Stad :" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "D" >
 <!ENTITY event.attachments.popup.removeAll.label          "Dilemel pep tra" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-<!ENTITY event.attachments.popup.attachPage.label         "Stagañ ar bajennad web..." >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
+
+
 <!ENTITY event.url.label                                  "Liamm kar :" >
 <!ENTITY event.priority2.label                            "Renk :">
 
@@ -348,6 +348,7 @@
 <!ENTITY event.attendee.usertype.group          "Strollad">
 <!ENTITY event.attendee.usertype.resource       "Loaz">
 <!ENTITY event.attendee.usertype.room           "Sal">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Erspizait ar Maez Eureier Mar-plij">
