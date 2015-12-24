@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Berrezarri lehenetsiak">
 <!ENTITY restoreHTMLDefaults.accesskey        "r">
 
+
+
 <!ENTITY spellCheck.label                     "Egiaztatu ortografia bidali aurretik">
 <!ENTITY spellCheck.accesskey                 "g">
 <!ENTITY spellCheckInline.label               "Gaitu ortografia egiaztatzea idatzi ahala">

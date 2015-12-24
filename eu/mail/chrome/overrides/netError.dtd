@@ -137,6 +137,8 @@ egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Orrialde honetan informazio pertsonala sartzean nortasun iruzur bat egiteko aukera dago.</p> 
 <p>Mota honetako web iruzurrak phishing erasoak bezala ezagutzen dira, konfiantza duzun webgune eta e-posta helbideak imitatzen dira.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orrialde hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
 

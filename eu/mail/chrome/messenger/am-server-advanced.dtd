@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "Zerbitzariak azpikarpetak eta mezuak dituzten karpetak onartzen ditu">
 <!ENTITY dualUseFolders.accesskey "k">
-<!ENTITY useIdle.label "Erabili IDLE komandoa zerbitzariak onartzen badu">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Cachean gordeko diren zerbitzari-konexio kopuru maximoa">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "B">
 <!ENTITY overrideNamespaces.label "Onartu zerbitzariak izen-eremu hauek gainidaztea">
 <!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3Desc.label "Zerbitzari honetatik pop posta deskargatzean, erabili hurrengo karpeta posta berriarentzat:" >
-<!ENTITY accountDirectory.label "Zerbitzari honen kontuaren sarrera-ontzia">
-<!ENTITY accountDirectory.accesskey "h">
+
+
+
 <!ENTITY deferToServer.label "Beste kontu baten sarrera-ontzia">
 <!ENTITY deferToServer.accesskey "B">
 <!ENTITY deferGetNewMail.label "Kontuan hartu zerbitzari hau posta berria jasotzerakoan">

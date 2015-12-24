@@ -84,20 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Tamaina">
 <!ENTITY fontSizeMenu.accesskey "m">
-<!ENTITY size-xx-smallCmd.label "xx-txikia">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "x-txikia">
-<!ENTITY size-x-smallCmd.accesskey "k">
-<!ENTITY size-smallCmd.label "txikia">
-<!ENTITY size-smallCmd.accesskey "t">
-<!ENTITY size-mediumCmd.label "ertaina">
-<!ENTITY size-mediumCmd.accesskey "r">
-<!ENTITY size-largeCmd.label "handia">
-<!ENTITY size-largeCmd.accesskey "h">
-<!ENTITY size-x-largeCmd.label "x-handia">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-handia">
-<!ENTITY size-xx-largeCmd.accesskey "i">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Testu estiloa">
@@ -313,7 +311,6 @@
 <!ENTITY throbber.tooltip "Joan &vendorShortName;(r)en hasiera-orrira">
 <!ENTITY HighlightColorButton.tooltip "Aukeratu testuaren nabarmentze-kolorea">
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Letra tamaina txikiagoa">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Letra tamaina handiagoa">
 <!ENTITY boldToolbarCmd.tooltip "Lodia">
