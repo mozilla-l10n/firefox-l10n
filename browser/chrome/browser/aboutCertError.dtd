@@ -32,4 +32,4 @@ was trying to connect. -->
 <!ENTITY certerror.expert.contentPara2 "ఈ సైటు నమ్మదగిన గుర్తింపును వుపయోగించక పోవుటకు మంచి కారణం వుందని మీకు తెలిస్తే తప్ప 
 ఆక్షేపణను జతచేయవద్దు.">
 <!ENTITY certerror.addException.label "ఆక్షేపణ జతచేయి…">
-
+<!ENTITY certerror.copyToClipboard.label "పాఠ్యాన్ని క్లిప్‌బోర్డుకి కాపీచేయి">
