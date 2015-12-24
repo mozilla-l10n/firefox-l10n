@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Jo‘natish moslamalari">
 <!ENTITY sendMail.title               "Matn formati">
+
+
 <!ENTITY sendMaildesc.label           "Xabarlar HTML formatda jo‘natilayotganda va bir yoki bir nechta qabul qiluvchilar HTML qabul qiluvchi sifatida ko‘rsatilmagan bo‘lsa:">
 <!ENTITY askMe.label                  "Nima qilish mendan so‘ralsin">
 <!ENTITY askMe.accesskey              "s">

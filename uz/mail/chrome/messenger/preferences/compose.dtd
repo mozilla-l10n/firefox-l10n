@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Asosiy sozlamalarni tiklash">
 <!ENTITY restoreHTMLDefaults.accesskey        "t">
 
+
+
 <!ENTITY spellCheck.label                     "Jo‘natishdan oldin imlo xatolarini tekshirish">
 <!ENTITY spellCheck.accesskey                 "t">
 <!ENTITY spellCheckInline.label               "Yozayotganda imlo xatolarini tekshirishni yoqib qo‘yish">

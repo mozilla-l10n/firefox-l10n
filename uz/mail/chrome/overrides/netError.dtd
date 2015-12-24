@@ -138,6 +138,8 @@ tekshirib ko‘ring.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Ushbu sahifaga birorta shaxsiy ma’lumotigizni kiritisangiz, shaxsiy ma’lumotlaringiz o‘g‘rilanishi yoki boshqa qallobliklarga uchrashingiz mumkin.</p> 
 <p>Ushbu turdagi veb qallobliklardan, odatda, fishing hujumida foydalaniladi, yolg‘on veb sayt va e-pochtalardan sizni ishontirish uchun foydalaniladi.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Sayt xavfsizlik siyosati tomonidan bloklandi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ushbu sahifani yuklanishini to‘xtatib qo‘ydi, chunki sahifadagi tarkib xavfsizlik siyosati bunga ruxsat bermaydi.</p>">
 

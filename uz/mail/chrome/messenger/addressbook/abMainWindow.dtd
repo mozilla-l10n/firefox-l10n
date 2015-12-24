@@ -80,7 +80,7 @@
 <!ENTITY viewMenu.label                                 "Ko‘rinishi">
 <!ENTITY viewMenu.accesskey                             "K">
 <!ENTITY viewToolbarsMenu.label                         "Asboblar paneli">
-<!ENTITY viewToolbarsMenu.accesskey                     "A"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "A">
 
 
 
@@ -122,6 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.label                       "Parametrlar">
 <!ENTITY preferencesCmdUnix.accesskey                   "m">
 <!-- Address Book Toolbar and Context Menus -->
+
+
 
 
 
@@ -193,7 +195,7 @@ because displayed names don't have the comma in between. -->
 
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
 
