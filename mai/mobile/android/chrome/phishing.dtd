@@ -20,3 +20,5 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "ई वेब पेज <span id='unwanted_sitename'/> पर अवांछित सॉफ्टवेयर केर रिपोट भेटल अछि आओर सुरक्षा वरीयता केर आधार पर ब्लॉक कएल गेल अछि.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "अवांछित सॉफ्टवेयर पृष्ठ ओ सॉफ्टवेयर स्थापित करबाक प्रयास करत जे भ्रामक भ सकैछ आओर अप्रत्याशित तरीका मे अहाँक तंत्र केँ प्रभावित क सकैछ.">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
