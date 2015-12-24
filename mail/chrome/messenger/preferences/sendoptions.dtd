@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Siuntimo parinktys">
 <!ENTITY sendMail.title               "Siunčiamo teksto tipai">
+
+
 <!ENTITY sendMaildesc.label           "Išsiunčiant laiškus raiškiuoju tekstu (HTML) gali paaiškėti, kad esama adresatų, neįtrauktų į gavėjų, galinčių priimti tokį tekstą, sąrašą. Tuomet:">
 <!ENTITY askMe.label                  "įspėti">
 <!ENTITY askMe.accesskey              "s">
