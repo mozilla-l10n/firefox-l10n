@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "Poslužitelj podržava mape koje sadrže podmape i poruke">
 <!ENTITY dualUseFolders.accesskey "l">
-<!ENTITY useIdle.label "Koristi IDLE naredbu ako je poslužitelj podržava">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Maksimalan broj veza s poslužiteljem spremljen u priručnoj memoriji">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "o">
 <!ENTITY overrideNamespaces.label "Dozvoli poslužitelju da nadjača ovaj imenski prostor">
 <!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3Desc.label "Prilikom preuzimanja pošte s ovog POP poslužitelja, koristi sljedeću mapu za novu poštu:" >
-<!ENTITY accountDirectory.label "Primljena pošta za ovaj račun na poslužitelju">
-<!ENTITY accountDirectory.accesskey "s">
+
+
+
 <!ENTITY deferToServer.label "Primljena pošta za drugi račun">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Uključi ovaj poslužitelj prilikom primanja nove pošte">

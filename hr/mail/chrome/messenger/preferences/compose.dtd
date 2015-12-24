@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Vrati zadane postavke">
 <!ENTITY restoreHTMLDefaults.accesskey        "r">
 
+
+
 <!ENTITY spellCheck.label                     "Provjeri pravopis prije slanja">
 <!ENTITY spellCheck.accesskey                 "P">
 <!ENTITY spellCheckInline.label               "Omogući provjeru pravopisa prilikom pisanja">
