@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Invitació separada per a cada assistent">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Aquesta opció envia un missatge d'invitació per assistent. Cada invitació conté l'assistent com a únic destinatari, de forma que els assistents no veuen la identitat els uns dels altres.">
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "Opcions">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attendees.label                  "Invita assistents…">
-<!ENTITY  event.menu.options.attendees.accesskey              "I">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Mostra els fusos horaris">
 <!ENTITY  event.menu.options.timezone2.accesskey              "h">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritat">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Lliure">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
-<!ENTITY event.invite.attendees.label                     "Invita assistents…">
-<!ENTITY event.invite.attendees.accesskey                 "I">
+
 <!ENTITY event.email.attendees.label                      "Redacta un missatge a tots els assistents…">
 <!ENTITY event.email.attendees.accesskey                  "t">
 <!ENTITY event.email.tentative.attendees.label            "Redacta un missatge a tots els assistents indecisos…">
 <!ENTITY event.email.tentative.attendees.accesskey        "i">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Desa i tanca">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "Títol:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
-<!ENTITY event.location.label                             "Ubicació:" >
-<!ENTITY event.location.accesskey                         "U">
+
+
 <!ENTITY event.categories.label                           "Categoria:">
 <!ENTITY event.categories.accesskey                       "g">
 <!ENTITY event.categories.textbox.label                   "Afegeix una categoria nova" >
 <!ENTITY event.calendar.label                             "Calendari:" >
 <!ENTITY event.calendar.accesskey                         "C">
-<!ENTITY event.attendees.label                            "Assistents:" >
-<!ENTITY event.attendees.accesskey                        "A" >
+
+
 <!ENTITY event.alldayevent.label                          "Cita de tot el dia" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Inici:" >
 <!ENTITY event.from.accesskey                             "I">
 <!ENTITY task.from.label                                  "Inici:" >
 <!ENTITY task.from.accesskey                              "I">
-<!ENTITY event.to.label                                   "Fi:" >
-<!ENTITY event.to.accesskey                               "F">
+
+
 <!ENTITY task.to.label                                    "Venciment:" >
 <!ENTITY task.to.accesskey                                "V">
 <!ENTITY task.status.label                                "Estat:" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "Suprimeix-les totes" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "t" >
-<!ENTITY event.attachments.popup.attachPage.label         "Adjunta una pàgina web…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
+
+
 <!ENTITY event.url.label                                  "Enllaç relacionat:" >
 <!ENTITY event.priority2.label                            "Prioritat:">
 
@@ -348,6 +348,7 @@
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Recurs">
 <!ENTITY event.attendee.usertype.room           "Sala">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Indiqueu el fus horari">
