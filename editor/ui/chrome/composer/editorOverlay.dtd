@@ -84,20 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Tamanho">
 <!ENTITY fontSizeMenu.accesskey "T">
-<!ENTITY size-xx-smallCmd.label "xx-pequeno">
-<!ENTITY size-xx-smallCmd.accesskey "q">
-<!ENTITY size-x-smallCmd.label "x-pequeno">
-<!ENTITY size-x-smallCmd.accesskey "e">
-<!ENTITY size-smallCmd.label "pequeno">
-<!ENTITY size-smallCmd.accesskey "p">
-<!ENTITY size-mediumCmd.label "médio">
-<!ENTITY size-mediumCmd.accesskey "d">
-<!ENTITY size-largeCmd.label "grande">
-<!ENTITY size-largeCmd.accesskey "g">
-<!ENTITY size-x-largeCmd.label "x-grande">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-grande">
-<!ENTITY size-xx-largeCmd.accesskey "a">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Estilo do texto">
@@ -313,7 +311,6 @@
 <!ENTITY throbber.tooltip "Ir para a página inicial do &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Escolha a cor de realce do texto">
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Diminuir tamanho da letra">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumentar tamanho da letra">
 <!ENTITY boldToolbarCmd.tooltip "Negrito">

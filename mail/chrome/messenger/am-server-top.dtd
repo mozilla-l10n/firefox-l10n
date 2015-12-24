@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Procurar novas mensagens a cada ">
 <!ENTITY biffStart.accesskey "n">
 <!ENTITY biffEnd.label "minutos">
+
+
 <!ENTITY connectionSecurity.label "Segurança da ligação:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Nenhuma">

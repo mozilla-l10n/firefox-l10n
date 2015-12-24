@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Opções de envio">
 <!ENTITY sendMail.title               "Formato de texto">
+
+
 <!ENTITY sendMaildesc.label           "Ao enviar mensagens no formato HTML e um ou mais destinatários não estão indicados como aptos a receber em HTML:">
 <!ENTITY askMe.label                  "Perguntar o que fazer">
 <!ENTITY askMe.accesskey              "P">

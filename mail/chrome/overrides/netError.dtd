@@ -138,6 +138,8 @@ se o &brandShortName; tem autorização para aceder à web.</li>
 <!ENTITY phishingBlocked.longDesc "<p>A introdução de qualquer informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo de fraude.</p> 
 <p>Este tipo de falsificações web são usadas em esquemas conhecidos como ataques de engodo, em que páginas web fraudulentas e mensagens de correio eletrónico são utilizadas para imitar fontes em que confia.</p>">
 
+
+
 <!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspBlocked.longDesc "O <p>&brandShortName; impediu o carregamento da página porque a mesma tem uma política de segurança de conteúdo que a impede.</p>">
 
