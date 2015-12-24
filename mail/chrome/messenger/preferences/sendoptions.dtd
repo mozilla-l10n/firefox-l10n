@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Mogućnosti slanja">
 <!ENTITY sendMail.title               "Oblikovanje teksta">
+
+
 <!ENTITY sendMaildesc.label           "Ako prilikom slanja poruka u HTML formatu jedan ili više primatelja nisu označeni da mogu primati HTML poruke:">
 <!ENTITY askMe.label                  "Pitaj me što želim uraditi">
 <!ENTITY askMe.accesskey              "i">

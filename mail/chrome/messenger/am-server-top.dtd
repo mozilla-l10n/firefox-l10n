@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Provjeri dostupnost novih poruka svakih ">
 <!ENTITY biffStart.accesskey "v">
 <!ENTITY biffEnd.label "minuta">
+
+
 <!ENTITY connectionSecurity.label "Sigurnost veze:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Nikakva">
