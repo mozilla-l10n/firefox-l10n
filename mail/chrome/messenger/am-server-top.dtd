@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Periksa pesan baru setiap ">
 <!ENTITY biffStart.accesskey "P">
 <!ENTITY biffEnd.label "menit">
+
+
 <!ENTITY connectionSecurity.label "Keamanan sambungan:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Tidak ada">

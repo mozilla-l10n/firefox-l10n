@@ -26,6 +26,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Kembalikan Nilai Default">
 <!ENTITY restoreHTMLDefaults.accesskey        "K">
 
+
+
 <!ENTITY spellCheck.label                     "Periksa ejaan sebelum mengirim">
 <!ENTITY spellCheck.accesskey                 "e">
 <!ENTITY spellCheckInline.label               "Aktifkan pemeriksa ejaan saat mengetik">
