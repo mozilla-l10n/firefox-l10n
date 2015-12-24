@@ -192,25 +192,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      It is not possible to see them visually in the UI. -->
 <!ENTITY urlbar.defaultNotificationAnchor.label         "Amostrar una notificación">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "Amostrar a solicitut d'ubicación">
-
-
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Amuestra o mensache d'instalación d'o complemento">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Amuestra o mensache d'almagacenamiento difuera d'a linia d'as aplicacions">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Chestiona la información d'inicio de sesión">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Compreba si quiers alzar la tuya clau">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Amuestra o mensache d'instalación de l'aplicación">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Chestiona l'uso de connectors en ista pachina">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Cambiar a opción de recibir notificacions dende iste puesto">
 
-
-
-
-
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Chestiona a compartición d'a camera u microfono con iste puesto">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Ye compartindo a suya camera u microfono con ista pachina">
-
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Chestiona a compartición d'o microfono con iste puesto">
 <!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Ye compartindo o suyo microfono con ista pachina">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Chestiona a compartición d'as finestras u a pantalla con iste puesto">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Ye compartindo una finestra u a pantalla con iste puesto">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Cambiar la opción de si o puesto puet amagar o puntero">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Amostrar o mensache d'instalación d'o servicio">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Traducir ista pachina">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Chestionar la traducción de pachinas">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Chestionar l'uso de software de DRM">
 
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Amostrar lo historial">
 
 <!ENTITY searchItem.title             "Mirar">
 <!-- Toolbar items --> 
@@ -249,8 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Aplicacions">
 <!ENTITY webapps.accesskey            "p">
-
-
+<!ENTITY loopMenuItem.label           "Iniciar una conversa…">
+<!ENTITY loopMenuItem.accesskey       "a">
 
 <!ENTITY webDeveloperMenu.label       "Desembolicador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -328,16 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fichero"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Nueva pestanya contenedor">
+<!ENTITY newUserContext.accesskey         "c">
+<!ENTITY userContextPersonal.label        "Personal">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Treballo">
+<!ENTITY userContextWork.accesskey        "T">
+<!ENTITY userContextBanking.label         "Banca">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Crompas">
+<!ENTITY userContextShopping.accesskey    "s">
 <!ENTITY newNavigatorCmd.label        "Nueva finestra">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -407,17 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Amostrar a barra lateral de l'historial">
 <!ENTITY appMenuHelp.tooltip "Ubrir o menú d'aduya">
 
-
+<!ENTITY appMenuRemoteTabs.label "Pestanyas sincronizadas">
+<!ENTITY appMenuRemoteTabs.fetching.label "Trayendo as Pestanyas Sincronizadas…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "No i hai pestanyas ubiertas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activa la sincronización de pestanyas pa veyer una lista de pestanyas dende os atros dispositivos.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Dentrar en Firefox dende os atros dispositivos pa veyer as suyas pestanyas aquí.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Dentrar pa veyer una lista de pestanyas d'os atros dispositivos.">
+<!ENTITY appMenuRemoteTabs.signin.label "Dentrar en Sync">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adhibir en a barra de ferramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">

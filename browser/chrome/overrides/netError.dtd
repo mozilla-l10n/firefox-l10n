@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "S'ha produciu un problema en cargar a pachina">
 <!ENTITY retry.label "Torna-lo a probar">
-
-
+<!ENTITY returnToPreviousPage.label "Ir enta zaga">
+<!ENTITY advanced.label "Abanzau">
 <!-- Specific error messages -->
 
 
@@ -141,7 +141,8 @@ asegure-se que o &brandShortName; tiene permiso ta accedir ta la web.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Escribir qualsiquier información personal en ista pachina podría resultar en una suplantación d'identidat u en belatro fraude.</p> 
 <p>Istas menas de webs fraudulentas las fan servir en ataques de phishing, en os quals pachinas y correus electronicos fraudulentos s'utilizan ta imitar fuents en as quals gosa confiar.</p>">
 
-
+<!ENTITY forbiddenBlocked.title "Puesto vedau">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; ha privau que ista pachina se cargue porque ye configurau pa blocar-la.</p>">
 
 <!ENTITY cspBlocked.title "S'ha blocau por a politica de seguranza de conteniu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha privau que a pachina se cargue d'ista traza porque tiene una politica de seguranza de conteniu que no lo permite.</p>">
@@ -164,6 +165,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "Informa d'errors como iste pa aduyar a Mozilla a identificar y blocar puestos dolents.">
 <!ENTITY errorReporting.learnMore "Saber-ne mas…">
 <!ENTITY errorReporting.sending "Se ye ninviando un reporte…">
 <!ENTITY errorReporting.sent "Ninviau o reporte">
@@ -178,8 +180,10 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información abanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "A connexion no ye segura">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
-
-
+<!ENTITY weakCryptoUsed.longDesc2 "Información abanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Abanzau">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> fa servir una tecnolochía de seguridat obsoleta y vulnerable a a ataques. Un atacant podría veyer facilment la información que atrament pensarías que ye segura.">
+<!ENTITY weakCryptoAdvanced.override "(Inseguro) Mira de cargar <span class='hostname'></span> con a seguridat obsoleta">
