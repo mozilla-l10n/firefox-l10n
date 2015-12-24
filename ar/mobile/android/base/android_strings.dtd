@@ -101,16 +101,11 @@
 
 <!ENTITY settings "الإعدادات">
 <!ENTITY settings_title "الإعدادات">
-<!ENTITY pref_category_input_options "خيارات الدخل">
-<!ENTITY pref_category_advanced "متقدّم">
-<!ENTITY pref_category_customize "خصّص">
-<!ENTITY pref_category_customize_summary "الرئيسية، و البحث، و الألسنة، و الاستيراد">
-<!ENTITY pref_category_customize_alt_summary "الرئيسية، و البحث، و الألسنة، و الفتح لاحقًا، و الاستيراد">
+<!ENTITY pref_category_general "عام">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "اللغة">
 <!ENTITY pref_category_language_summary "غيّر لغة المتصفح">
 <!ENTITY pref_browser_locale "لغة المتصفّح">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -144,21 +139,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "لم يُعثر على أيّ جهاز مربوط بحساب فيرفكس">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-
-<!ENTITY menu_no_synced_devices "أرسل هذا اللسان إلى جهاز متّصل آخر">
 
 <!ENTITY pref_category_search3 "البحث">
 <!ENTITY pref_category_search_summary "خصص مزودي البحث">
-<!ENTITY pref_category_display "العرض">
-<!ENTITY pref_category_display_summary "النص، و شريط العنوان، و التصفح في ملء الشاشة">
+
+
 <!ENTITY pref_category_privacy_short "الخصوصية">
-<!ENTITY pref_category_privacy_summary2 "تحكم في جلسات الولوج، والكعكات، والتعقّب والبيانات">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "عن &brandShortName;، و الأسئلة الشائعة، و اختيارات البيانات">
+
+
+
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
 <!ENTITY pref_learn_more "اطّلع على المزيد">
 <!ENTITY pref_category_installed_search_engines "محركات البحث المُثبّتة">
@@ -172,12 +161,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "فائدة: أضف أي موقع على لائحة مزودي البحث الخاصة بك عن طريق الضغط المطول على مساحة البحث ثم النقر على أيقونة &formatI;.">
-<!ENTITY pref_category_devtools "أدوات المطورين">
+
+
 <!ENTITY pref_developer_remotedebugging "تنقيح عن بعد">
 <!ENTITY pref_developer_remotedebugging_usb "التنقيح عن بعد عبر USB">
 <!ENTITY pref_developer_remotedebugging_wifi "التنقيح عن بعد عبر واي-فاي">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "يتطلّب التنقيح عبر واي-فاي تثبيت برنامج لقراءة رموز QR على جهازك.">
-<!ENTITY pref_category_logins "جلسات الولوج">
 <!ENTITY pref_remember_signons2 "تذكّر جلسات الولوج">
 <!ENTITY pref_open_external_urls_privately_title "افتح الروابط في التصفح الخاص">
 <!ENTITY pref_open_external_urls_privately_summary "لكلّ الروابط الخارجيّة المفتوحة في &brandShortName;">
@@ -193,28 +182,39 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "أضيفت \u0027&formatS;\u0027 إلى صفحة البداية">
 <!ENTITY pref_category_home_content_settings "إعدادات المحتوى">
-<!ENTITY pref_home_updates "التحديثات التلقائية">
+
 <!ENTITY pref_home_updates_enabled "مفعّلة">
 <!ENTITY pref_home_updates_wifi "عبر واي فاي فقط">
 <!ENTITY pref_home_suggested_sites "اعرض اقتراحات الموقع">
 <!ENTITY pref_home_suggested_sites_summary "اعرض اختصارات للمواقع التي نعتقد أنها تثير اهتمامك في صفحة البداية">
 <!ENTITY pref_category_home_homepage "صفحة البداية">
 <!ENTITY home_homepage_title "حدد صفحة بداية">
-<!ENTITY home_homepage_use_current_tab "استخدم اللسان الحالي">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "خصّص">
-<!ENTITY pref_header_display "العرض">
 <!ENTITY pref_header_privacy_short "الخصوصية">
+
+
 <!ENTITY pref_header_help "مساعدة">
-<!ENTITY pref_header_language "اللغة">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "أدوات المطوّرين">
+
 
 <!ENTITY pref_cookies_menu "الكعكات">
 <!ENTITY pref_cookies_accept_all "مفعّلة">
 <!ENTITY pref_cookies_not_accept_foreign "مفعّلة، باستثناء الأطراف الخارجية">
 <!ENTITY pref_cookies_disabled "مُعطّلة">
+
+
 
 
 
@@ -251,9 +251,11 @@
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
 <!ENTITY pref_char_encoding_off "لا تُظهر القائمة">
-<!ENTITY pref_clear_private_data2 "امسح الان">
-<!ENTITY pref_clear_private_data_category "امسح البيانات الخاصة">
-<!ENTITY pref_clear_on_exit_title2 "امسح عند الخروج">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "امسح الان">
+
 <!ENTITY pref_clear_on_exit_summary2 "سيمسح &brandShortName; بياناتك تلقائيًا عند اختيارك ”أغلق“ من القائمة الرئيسية">
 <!ENTITY pref_clear_on_exit_dialog_title "اختر البيانات التي ستُمسح">
 <!ENTITY pref_plugins "الملحقات">
@@ -261,7 +263,7 @@
 <!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
 <!ENTITY pref_plugins_disabled "مُعطّلة">
 <!ENTITY pref_text_size "حجم النص">
-<!ENTITY pref_restore "الألسنة">
+
 <!ENTITY pref_restore_always "استعد دائمًا">
 <!ENTITY pref_restore_quit "لا تستعد بعد إغلاق &brandShortName;">
 <!ENTITY pref_font_size_tiny "ضئيل">
@@ -286,16 +288,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "فعّل التقريب دائمًا">
 <!ENTITY pref_zoom_force_enabled_summary "تخطى الإعدادات لتتمكن من تقريب أي صفحة">
 <!ENTITY pref_voice_input "إدخال الصوت">
-<!ENTITY pref_voice_input_summary "اسمح بالأوامر الصّوتيّة في شريط العنوان">
+
 <!ENTITY pref_qrcode_enabled "قارئ كود QR">
-<!ENTITY pref_qrcode_enabled_summary "اسمح بماسح QR في شريط العنوان">
+
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
-<!ENTITY pref_sync "تزامُن">
+
 <!ENTITY pref_sync_summary2 "زامن الألسنة، و العلامات، و جلسات الولوج و التأريخ">
 <!ENTITY pref_search_suggestions "اعرض اقتراحات البحث">
 <!ENTITY pref_history_search_suggestions "أظهر تأريخ البحث">
-<!ENTITY pref_import_android "استورد من أندرويد">
+
 <!ENTITY pref_import_android_summary "استورد العلامات و تأريخ التصفح من المتصفح المحلي">
 <!ENTITY pref_private_data_history2 "تأريخ التصفح">
 <!ENTITY pref_private_data_searchHistory "تأريخ البحث">
@@ -352,18 +354,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "نزّل التحديثات تلقائيًا">
 <!ENTITY pref_update_autodownload_wifi "عبر واي فاي فقط">
 <!ENTITY pref_update_autodownload_never "أبدًا">
-<!ENTITY pref_update_autodownload_always "دائمًا">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "مساعدة">
 
 <!ENTITY quit "أغلق">
 
-<!ENTITY addons "الإضافات">
-<!ENTITY logins "جلسات الولوج">
+
 <!ENTITY downloads "التنزيلات">
 <!ENTITY char_encoding "ترميز المحارف">
 
@@ -380,7 +380,7 @@ size. -->
 <!ENTITY new_private_tab "لسان خاص جديد">
 <!ENTITY close_all_tabs "أغلق كل الألسنة">
 <!ENTITY close_private_tabs "أغلق الألسنة الخاصة">
-<!ENTITY tabs_normal "الألسنة">
+
 <!ENTITY tabs_private "خاص">
 <!ENTITY tabs_synced "مُزامَن">
 <!ENTITY set_image_fail "تعذر استخدام الصورة">
@@ -433,10 +433,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "تعذر نسخ كلمة السر">
 <!ENTITY doorhanger_login_select_action_text "اختر ولوجا آخر">
 <!ENTITY doorhanger_login_select_title "انسخ كلمة السر من">
-
-<!ENTITY pref_titlebar_mode "شريط العنوان">
-<!ENTITY pref_titlebar_mode_title "أظهر عنوان الصفحة">
-<!ENTITY pref_titlebar_mode_url "أظهر مسار الصفحة">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -446,7 +442,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "التصفح في كل الشاشة">
-<!ENTITY pref_scroll_title_bar_summary "أخفِ شريط عنوان &brandShortName; عند تمرير الصفحة لأسفل">
+
 
 <!ENTITY pref_tab_queue_title2 "افتح روابط متعددة">
 <!ENTITY pref_tab_queue_summary3 "احفظها حتّى أفتح &brandShortName; ثانية">
@@ -466,7 +462,6 @@ size. -->
 <!ENTITY site_settings_title3       "إعدادات الموقع">
 <!ENTITY site_settings_cancel       "ألغِ">
 <!ENTITY site_settings_clear        "امسح">
-<!ENTITY site_settings_no_settings  "لا إعدادات لمسحها.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -507,8 +502,6 @@ size. -->
 <!ENTITY home_top_sites_add "أضف موقعًا">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "صفحة &brandShortName; الرئيسية">
 <!ENTITY home_history_title "التأريخ">
 <!ENTITY home_clear_history_button "امسح تأريخ التصفح">
 <!ENTITY home_clear_history_confirm "أمتأكد من أنك تريد مسح التأريخ؟">
@@ -522,14 +515,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "تذكّر: استخدام &formatS1;لسان خاص جديد&formatS2; لن يحفظ تأريخ التصفح.">
 <!ENTITY home_reading_list_empty "المقالات التي تحفظها لقراءتها لاحقًا تظهر هنا.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "فائدة: احفظ المقالات في قائمة القراءة بالضغط المطول على أيقونة &formatI; عندما تظهر في شريط العنوان.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "فائدة: احفظ المقالات في قائمة القراءة بالضغط المطول على زر وضع القارئ عندما يظهر في شريط العنوان.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -724,20 +715,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 
 <!ENTITY devtools_auth_scan_header "يمسح ضوئيا بحثا عن رمز QR معروض على الجهاز الآخر">
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY restriction_disallow_import_settings_title2 "عطّل ’استورد من أندرويد‘">
-<!ENTITY restriction_disallow_addons_title2 "عطّل تثبيت الإضافات">
-<!ENTITY restriction_disallow_devtools_title2 "عطّل أدوات المطورين">
-<!ENTITY restriction_disallow_customize_home_title2 "عطّل تخصيص صفحة البداية">
-<!ENTITY restriction_disallow_private_browsing_title2 "عطّل التصفح الخاص">
-<!ENTITY restriction_disallow_location_services_title2 "عطّل خدمات التموضع">
-<!ENTITY restriction_disallow_display_settings_title2 "عطّل إعدادات العرض">
-<!ENTITY restriction_disallow_clear_history_title2 "عطّل ’امسح تأريخ التصفح‘">
-<!ENTITY restriction_disallow_master_password_title2 "عطّل كلمة السر الرئيسية">
-<!ENTITY restriction_disallow_guest_browsing_title2 "عطّل التصفح كضيف">
+<!ENTITY restrictable_feature_private_browsing "التصفح الخاص">
+
+
+
+
+
+
+
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -748,3 +739,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_support "فَيَرفُكس: الدعم">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
