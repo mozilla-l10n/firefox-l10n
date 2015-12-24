@@ -451,9 +451,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Uzzināt vairāk…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "r">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nē">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "u">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Jā">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "I">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "j">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
