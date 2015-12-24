@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Restaurar pré-definição">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
+
+
 <!ENTITY spellCheck.label                     "Verificar ortografia antes de enviar">
 <!ENTITY spellCheck.accesskey                 "V">
 <!ENTITY spellCheckInline.label               "Verificar ortografia ao escrever">
