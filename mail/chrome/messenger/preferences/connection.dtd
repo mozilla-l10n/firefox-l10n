@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  connectionsDialog.title       "Подешавања везе">
+
+<!ENTITY  proxyTitle.label              "Подесите прокси за приступ интернету">
+<!ENTITY  noProxyTypeRadio.label        "Без проксија">
+<!ENTITY  noProxyTypeRadio.accesskey    "д">
+<!ENTITY  systemTypeRadio.label         "Користи системска подешавања проксија">
+<!ENTITY  systemTypeRadio.accesskey     "т">
+<!ENTITY  WPADTypeRadio.label           "Сам препознај подешавања проксија за ову мрежу">
+<!ENTITY  WPADTypeRadio.accesskey       "ј">
+<!ENTITY  manualTypeRadio.label         "Ручно подешавање проксија:">
+<!ENTITY  manualTypeRadio.accesskey     "Р">
+<!ENTITY  autoTypeRadio.label           "URL аутоматског подешавања проксија:">
+<!ENTITY  autoTypeRadio.accesskey       "А">
+<!ENTITY  reload.label                  "Поново учитај">
+<!ENTITY  reload.accesskey              "ј">
+<!ENTITY  http.label                    "HTTP прокси:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "SSL прокси:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS домаћин:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Порт:">
+<!ENTITY  HTTPport.accesskey            "п">
+<!ENTITY  SSLport.label                 "Порт:">
+<!ENTITY  SSLport.accesskey             "о">
+<!ENTITY  SOCKSport.label               "Порт:">
+<!ENTITY  SOCKSport.accesskey           "т">
+<!ENTITY  noproxy.label                 "Нема прокси за:">
+<!ENTITY  noproxy.accesskey             "н">
+<!ENTITY  noproxyExplain.label          "На пример: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Користи овај прокси сервер за све протоколе">
+<!ENTITY  shareproxy.accesskey          "з">

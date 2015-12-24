@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                 "Опције слања">
+<!ENTITY sendMail.title               "Формат текста">
+<!ENTITY autoDowngrade.label          "Пошаљи поруку као обичан текст ако је могуће">
+<!ENTITY autoDowngrade.accesskey      "т">
+<!ENTITY sendMaildesc.label           "Када шаљем поруку у HTML формату а један или више прималаца нису наведени да могу примати HTML пошту:">
+<!ENTITY askMe.label                  "Питај ме шта да радим">
+<!ENTITY askMe.accesskey              "ј">
+<!ENTITY convertPlain.label           "Претвори поруку у обичан текст">
+<!ENTITY convertPlain.accesskey       "в">
+<!ENTITY sendHTML.label               "Ипак пошаљи поруку као HTML">
+<!ENTITY sendHTML.accesskey           "И">
+<!ENTITY sendBoth.label               "Пошаљи поруку и као HTML и као обичан текст">
+<!ENTITY sendBoth.accesskey           "б">
+<!ENTITY override.label               "Напомена: користите именик да бисте навели жељени формат текста за примаоце.">
+
+<!ENTITY domaindesc.label             "Када пошаљете поруку на адресу са једним од домена наведених испод, &brandShortName; ће аутоматски послати поруку у исправном формату.">
+<!ENTITY HTMLTab.label                "HTML домени">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Домени за обичан текст">
+<!ENTITY PlainTextTab.accesskey       "б">
+<!ENTITY AddHtmlDomain.label          "Додај…">
+<!ENTITY AddHtmlDomain.accesskey      "Д">
+<!ENTITY AddPlainText.label           "Додај…">
+<!ENTITY AddPlainText.accesskey       "Д">
+<!ENTITY DeleteHtmlDomain.label       "Обриши">
+<!ENTITY DeleteHtmlDomain.accesskey   "р">
+<!ENTITY DeletePlainText.label        "Обриши">
+<!ENTITY DeletePlainText.accesskey    "р">
+
+<!ENTITY add.htmltitle                "Додај име HTML домена">
+<!ENTITY add.htmldomain               "Име HTML домена:">
+<!ENTITY add.plaintexttitle           "Додај име домена за обичан текст:">
+<!ENTITY add.plaintextdomain          "Име домена за обичан текст:">
