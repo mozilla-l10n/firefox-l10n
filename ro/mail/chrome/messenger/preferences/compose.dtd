@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Restaurează setările implicite">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
+
+
 <!ENTITY spellCheck.label                     "Verifică ortografia înainte de a trimite">
 <!ENTITY spellCheck.accesskey                 "c">
 <!ENTITY spellCheckInline.label               "Activează verificarea ortografiei în timpul tastării">

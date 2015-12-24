@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Opțiuni de trimitere">
 <!ENTITY sendMail.title               "Formatare text">
+
+
 <!ENTITY sendMaildesc.label           "Când trimiteți mesaje în format HTML și unul sau mai mulți destinatari nu sunt marcați ca fiind capabili să accepte HTML:">
 <!ENTITY askMe.label                  "Întreabă-mă ce să fac">
 <!ENTITY askMe.accesskey              "n">
