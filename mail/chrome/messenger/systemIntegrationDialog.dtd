@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY systemIntegration.title  "Системска интеграција">
+<!ENTITY acceptIntegration.label  "Подеси као подразумевано">
+<!ENTITY cancelIntegration.label  "Прескочи интеграцију">
+<!ENTITY cancelIntegration2.label  "Откажи">
+<!ENTITY defaultClient.intro  "Користи &brandShortName; као подразумевани клијент за:">
+
+<!ENTITY email.label "Е-пошту">
+<!ENTITY newsgroups.label "Новинске групе">
+<!ENTITY feeds.label "Доводе">
+
+<!ENTITY unsetDefault.tooltip "Није могуће подесити да &brandShortName; не буде више подразумевани клијент унутар самог &brandShortName;-а. Да бисте подесили да неки други програм буде подразумевани, морате искористити „Подеси као подразумевано“ дијалог тог програма.">
+
+<!ENTITY checkOnStartup.label "Увек изврши ову проверу приликом покретања &brandShortName;-а">
+<!ENTITY checkOnStartup.accesskey "У">
+
+<!ENTITY searchIntegration.label "Дозволи програму &searchIntegration.engineName; да претражује поруке">
+<!ENTITY searchIntegration.accesskey "Д">

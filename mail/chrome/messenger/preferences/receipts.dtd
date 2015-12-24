@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                  "Повратнице">
+<!ENTITY requestReceipt.label          "Приликом слања порука, увек затражи повратницу">
+<!ENTITY requestReceipt.accesskey      "л">
+<!ENTITY receiptArrive.label           "Када повратница стигне:">
+<!ENTITY leaveIt.label                 "Остави је у мом долазном сандучету">
+<!ENTITY leaveIt.accesskey             "м">
+<!ENTITY moveToSent.label              "Помери је у моју фасциклу &quot;Послато&quot;">
+<!ENTITY moveToSent.accesskey          "ф">
+<!ENTITY requestMDN.label              "Када примим захтев за повратницом:">
+<!ENTITY never.label                   "Никада не шаљи повратницу">
+<!ENTITY never.accesskey               "д">
+<!ENTITY returnSome.label              "Дозволи повратнице за неке поруке">
+<!ENTITY returnSome.accesskey          "з">
+<!ENTITY notInToCc.label               "Ако нисам у пољима „За“ или „Коп“ те поруке:">
+<!ENTITY notInToCc.accesskey           "у">
+<!ENTITY outsideDomain.label           "Ако је пошиљалац ван мог домена:">
+<!ENTITY outsideDomain.accesskey       "ј">
+<!ENTITY otherCases.label              "У свим другим случајевима:">
+<!ENTITY otherCases.accesskey          "г">
+<!ENTITY askMe.label                   "Питај ме">
+<!ENTITY alwaysSend.label              "Увек пошаљи">
+<!ENTITY neverSend.label               "Никада не шаљи">

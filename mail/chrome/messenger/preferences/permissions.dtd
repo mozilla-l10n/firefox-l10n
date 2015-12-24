@@ -2,6 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title                 "Изузеци">
+<!ENTITY window.width                 "45em">
 
+<!ENTITY treehead.sitename.label      "Страница">
+<!ENTITY treehead.status.label        "Стање">
+<!ENTITY removepermission.label       "Уклони страницу">
+<!ENTITY removepermission.accesskey   "У">
+<!ENTITY removeallpermissions.label   "Уклони све странице">
+<!ENTITY removeallpermissions.accesskey "е">
+<!ENTITY address.label                "Адреса веб странице:">
+<!ENTITY address.accesskey            "д">
+<!ENTITY block.label                  "Блокирај">
+<!ENTITY block.accesskey              "Б">
+<!ENTITY session.label                "Дозволи за сесију">
+<!ENTITY session.accesskey            "з">
+<!ENTITY allow.label                  "Дозволи">
+<!ENTITY allow.accesskey              "Д">
+<!ENTITY windowClose.key              "w">
 
+<!ENTITY button.cancel.label          "Откажи">
+<!ENTITY button.cancel.accesskey      "к">
+<!ENTITY button.ok.label              "Сачувај измене">
+<!ENTITY button.ok.accesskey          "С">
 
