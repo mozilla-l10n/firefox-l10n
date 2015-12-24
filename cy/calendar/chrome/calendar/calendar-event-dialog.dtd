@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Gwahoddiad ar wahân i fynychwyr">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Mae'r dewis hwn yn anfon un e-bost gwahoddiad i bob mynychwr. Bydd y gwahoddiad yn cynnwys y mynychwr sy'n derbyn yn unig, fel nad yw manylion mynychwyr eraill yn cael eu datgelu.">
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "Dewisiadau">
 <!ENTITY  event.menu.options.accesskey                        "D">
-<!ENTITY  event.menu.options.attendees.label                  "Gwahodd Mynychwyr…">
-<!ENTITY  event.menu.options.attendees.accesskey              "M">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Dangos Cylchoedd Amser">
 <!ENTITY  event.menu.options.timezone2.accesskey              "D">
 <!ENTITY  event.menu.options.priority2.label                  "Blaenoriaeth">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Rhydd">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "R">
 
-<!ENTITY event.invite.attendees.label                     "Gwahodd Mynychwyr…">
-<!ENTITY event.invite.attendees.accesskey                 "M">
+
 <!ENTITY event.email.attendees.label                      "Cyfansoddi E-bost i'r Holl Fynychwyr…">
 <!ENTITY event.email.attendees.accesskey                  "H">
 <!ENTITY event.email.tentative.attendees.label            "Cyfansoddi E-bost i Fynychwyr Ansicr…">
 <!ENTITY event.email.tentative.attendees.accesskey        "A">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Cadw a Chau">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "Teitl:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
-<!ENTITY event.location.label                             "Lleoliad:" >
-<!ENTITY event.location.accesskey                         "L">
+
+
 <!ENTITY event.categories.label                           "Categori:">
 <!ENTITY event.categories.accesskey                       "a">
 <!ENTITY event.categories.textbox.label                   "Ychwanegu categori newydd" >
 <!ENTITY event.calendar.label                             "Calendr:" >
 <!ENTITY event.calendar.accesskey                         "a">
-<!ENTITY event.attendees.label                            "Mynychwyr:" >
-<!ENTITY event.attendees.accesskey                        "M" >
+
+
 <!ENTITY event.alldayevent.label                          "Digwyddiad drwy'r Dydd" >
 <!ENTITY event.alldayevent.accesskey                      "D">
 <!ENTITY event.from.label                                 "Cychwyn:" >
 <!ENTITY event.from.accesskey                             "C">
 <!ENTITY task.from.label                                  "Cychwyn:" >
 <!ENTITY task.from.accesskey                              "y">
-<!ENTITY event.to.label                                   "Gorffen:" >
-<!ENTITY event.to.accesskey                               "G">
+
+
 <!ENTITY task.to.label                                    "Erbyn Dyddiad:" >
 <!ENTITY task.to.accesskey                                "E">
 <!ENTITY task.status.label                                "Statws:" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "A" >
 <!ENTITY event.attachments.popup.removeAll.label          "Tynnu Popeth" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "T" >
-<!ENTITY event.attachments.popup.attachPage.label         "Atodi Tudalen Gwe…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "G" >
+
+
 <!ENTITY event.url.label                                  "Dolen Gysylltiedig:" >
 <!ENTITY event.priority2.label                            "Blaenoriaeth:">
 
@@ -348,6 +348,7 @@
 <!ENTITY event.attendee.usertype.group          "Grŵp">
 <!ENTITY event.attendee.usertype.resource       "Adnodd">
 <!ENTITY event.attendee.usertype.room           "Ystafell">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Nodwch y Cylch Amser">
