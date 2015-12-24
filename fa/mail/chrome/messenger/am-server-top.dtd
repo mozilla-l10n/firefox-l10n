@@ -20,6 +20,8 @@
 <!ENTITY biffStart.label "Check for new messages every ">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "minutes">
+
+
 <!ENTITY connectionSecurity.label "Connection security:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "هیچ">
