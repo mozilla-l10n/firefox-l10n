@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Üzenetküldési beállítások">
 <!ENTITY sendMail.title               "Szövegformátum">
+
+
 <!ENTITY sendMaildesc.label           "Ha HTML-üzenetet küldése esetén egy vagy több címzettről nem ismert, hogy képes-e HTML-t fogadni:">
 <!ENTITY askMe.label                  "Kérdezzen rá, hogy mi a teendő">
 <!ENTITY askMe.accesskey              "K">

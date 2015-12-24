@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Nézet">
 <!ENTITY viewMenu.accesskey                             "N">
 <!ENTITY viewToolbarsMenu.label                         "Eszköztárak">
-<!ENTITY viewToolbarsMenu.accesskey                     "E"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "E">
 <!ENTITY menubarCmd.label                               "Menüsor">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Címjegyzék eszköztár">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Névjegyek ablaktábla">
 <!ENTITY showContactPane2.accesskey                     "N">
 <!ENTITY menu_ShowNameAs.label                          "Nevek megjelenítése">
-<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Utónév vezetéknév">
-<!ENTITY firstLastCmd2.accesskey                        "U"> 
+<!ENTITY firstLastCmd2.accesskey                        "U">
 <!ENTITY lastFirstCmd.label                             "Vezetéknév, utónév">
 <!ENTITY lastFirstCmd.accesskey                         "V">
 <!ENTITY displayNameCmd.label                           "Megjelenítendő név">
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "B">
 <!ENTITY preferencesCmdUnix.label                       "Beállítások">
 <!ENTITY preferencesCmdUnix.accesskey                   "B">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Új névjegy">
 <!ENTITY newContactButton.accesskey                     "n">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "z">
 <!ENTITY newIM.label                                    "Azonnali üzenet">
 <!ENTITY newIM.accesskey                                "A">
+
+
 <!ENTITY deleteButton2.label                            "Törlés">
 <!ENTITY deleteButton2.accesskey                        "r">
 <!-- Address Book Toolbar Tooltips -->
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "A kijelölt elem szerkesztése">
 <!ENTITY newmsgButton.tooltip                           "Új üzenet létrehozása">
 <!ENTITY newIM.tooltip                                  "Üzenet küldése vagy csevegés">
-<!ENTITY deleteButton2.tooltip                           "A kijelölt elem törlése">
+<!ENTITY deleteButton2.tooltip                          "A kijelölt elem törlése">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Címjegyzékek">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "A címhez tartozó térkép megjelenítése a webről">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Ablak">
-<!ENTITY minimizeWindow.label "Kis méret">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Előtérbe hozás">
-<!ENTITY zoomWindow.label "Nagyítás">
+<!ENTITY windowMenu.label                               "Ablak">
+<!ENTITY minimizeWindow.label                           "Kis méret">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Előtérbe hozás">
+<!ENTITY zoomWindow.label                               "Nagyítás">

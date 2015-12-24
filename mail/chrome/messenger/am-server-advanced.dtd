@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "f">
 <!ENTITY dualUseFolders.label "A kiszolgáló támogat olyan mappákat, amelyek további almappákat és leveleket tartalmaznak">
 <!ENTITY dualUseFolders.accesskey "t">
-<!ENTITY useIdle.label "Az IDLE parancs használata, ha a kiszolgáló támogatja">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "A gyorsítótárazandó kiszolgáló-kapcsolatok maximális száma">
 <!ENTITY maximumConnectionsNumber.accesskey "o">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "M">
 <!ENTITY overrideNamespaces.label "A kiszolgáló felülírhatja ezeket a névtartományokat">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "POP-levél letöltésekor erről a kiszolgálóról a következő mappa használata az új levelekhez:" >
-<!ENTITY accountDirectory.label "Beérkezett üzenetek mappa">
-<!ENTITY accountDirectory.accesskey "B">
+
+
+
 <!ENTITY deferToServer.label "Másik postafiók Beérkezett üzenetek mappája">
 <!ENTITY deferToServer.accesskey "M">
 <!ENTITY deferGetNewMail.label "Kiszolgáló lekérdezése új levelek letöltésekor">
