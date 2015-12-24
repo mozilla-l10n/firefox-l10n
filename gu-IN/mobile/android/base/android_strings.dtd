@@ -95,9 +95,6 @@
 <!ENTITY settings "સેટીંગ">
 <!ENTITY settings_title "સેટીંગ">
 
-<!ENTITY pref_category_advanced "અદ્યતન">
-<!ENTITY pref_category_customize "વિધ્યપૂર્ણ કરો">
-
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -126,18 +123,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "શોધો">
 <!ENTITY pref_category_search_summary "મારા શોધ પ્રોવાઇડરો વૈવિધ્યપૂર્ણ કરો">
-<!ENTITY pref_category_display "દર્શાવો">
+
 
 <!ENTITY pref_category_privacy_short "ખાનગીપણુ">
 
-<!ENTITY pref_category_vendor "&vendorShortName;">
+
 
 <!ENTITY pref_category_datareporting "માહિતી વિકલ્પો">
 <!ENTITY pref_learn_more "વધુ શીખો">
@@ -152,9 +145,9 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "ટિપ્પણી: તમારા શોધ પ્રોવાઇડરોની તમારી યાદીમાં કોઇપણ વેબસાઇટ ઉમેરો તેના શોધ ક્ષેત્ર પર લાંબુ-દબાવી રાખીને અને પછી &formatI; ચિહ્ન પર ઠપકારીને.">
-<!ENTITY pref_category_devtools "વિકાસકર્તા સાધનો">
-<!ENTITY pref_developer_remotedebugging "રીમોટ ડિબગીંગ">
 
+
+<!ENTITY pref_developer_remotedebugging "રીમોટ ડિબગીંગ">
 
 
 
@@ -173,28 +166,39 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ઘરપાનામાં ઉમેરાયુ">
 <!ENTITY pref_category_home_content_settings "વસ્તુ સેટીંગ">
-<!ENTITY pref_home_updates "સ્વયં સુધારાઓ">
+
 <!ENTITY pref_home_updates_enabled "સક્રિય કરેલ">
 <!ENTITY pref_home_updates_wifi "માત્ર Wi-Fi પર">
 
 
 
 
-
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "વિધ્યપૂર્ણ કરો">
-<!ENTITY pref_header_display "દર્શાવો">
 <!ENTITY pref_header_privacy_short "ખાનગીપણુ">
+
+
 <!ENTITY pref_header_help "મદદ">
 
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "વિકાસકર્તા સાધનો">
 
 <!ENTITY pref_cookies_menu "કુકીઓ">
 <!ENTITY pref_cookies_accept_all "સક્રિય કરેલ">
 <!ENTITY pref_cookies_not_accept_foreign "સક્રિય કરેલ, ત્રીજી વ્યક્તિને નહિ સમાવીને">
 <!ENTITY pref_cookies_disabled "નિષ્ક્રિય કરેલ">
+
+
 
 
 
@@ -227,7 +231,8 @@
 <!ENTITY pref_char_encoding_on "મેનુ બતાવો">
 <!ENTITY pref_char_encoding_off "મેનુ બતાવશો નહિં">
 
-
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 
 
 
@@ -236,7 +241,7 @@
 <!ENTITY pref_plugins_tap_to_play "વગાડવા માટે ઠપકારો">
 <!ENTITY pref_plugins_disabled "નિષ્ક્રિય કરેલ">
 <!ENTITY pref_text_size "લખાણ માપ">
-<!ENTITY pref_restore "ટૅબ">
+
 <!ENTITY pref_restore_always "હંમેશા પુનઃસંગ્રહો">
 <!ENTITY pref_restore_quit "&brandShortName; બંધ કર્યા પછી પુનઃસંગ્રહો નહિ">
 <!ENTITY pref_font_size_tiny "ટચુકડા">
@@ -265,11 +270,11 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "મુખ્ય પાસવર્ડ વાપરો">
-<!ENTITY pref_sync "સીંક">
+
 
 <!ENTITY pref_search_suggestions "શોધ સૂચનો બતાવો">
 
-<!ENTITY pref_import_android "Android માંથી આયાત કરો">
+
 
 <!ENTITY pref_private_data_history2 "બ્રાઉઝીંગ ઇતિહાસ">
 
@@ -326,15 +331,13 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "સુધારાઓ આપોઆપ ડાઉનલોડ કરો">
 <!ENTITY pref_update_autodownload_wifi "માત્ર Wi-Fi ઉપર">
 <!ENTITY pref_update_autodownload_never "ક્યારેય નહિ">
-<!ENTITY pref_update_autodownload_always "હંમેશા">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "બંધ કરો">
 
-<!ENTITY addons "ઍડ-ઓન">
 
 <!ENTITY downloads "ડાઉનલોડ">
 <!ENTITY char_encoding "અક્ષર સંગ્રહપદ્ધતિ">
@@ -352,7 +355,7 @@ size. -->
 <!ENTITY new_private_tab "નવી ખાનગી ટૅબ">
 <!ENTITY close_all_tabs "બધી ટૅબ બંધ કરો">
 
-<!ENTITY tabs_normal "ટૅબ">
+
 <!ENTITY tabs_private "ખાનગી">
 <!ENTITY tabs_synced "સીંક થયેલ">
 <!ENTITY set_image_fail "ચિત્ર ગોઠવવામાં અસમર્થ">
@@ -401,10 +404,6 @@ size. -->
 
 
 
-
-<!ENTITY pref_titlebar_mode "શીર્ષક પટ્ટી">
-<!ENTITY pref_titlebar_mode_title "પાનાં શીર્ષક બતાવો">
-<!ENTITY pref_titlebar_mode_url "પાનાં સરનામુ બતાવો">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -427,7 +426,6 @@ size. -->
 <!ENTITY site_settings_title3       "સાઇટ સેટીંગ">
 <!ENTITY site_settings_cancel       "રદ કરો">
 <!ENTITY site_settings_clear        "સાફ કરો">
-<!ENTITY site_settings_no_settings  "સાફ કરવા માટે કોઇપણ સેટીંગ નથી.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -475,14 +473,12 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "તમે પછીથી જોવા માટે જે લેખો સંગ્રહો તે અહીં દેખાય છે.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "ટિપ્પણી: &formatI; ચિહ્ન લાંબે સુધી દબાવી રાખીને લેખોને તમારી વાંચન યાદીમાં ઉમેરો જ્યારે તે શીર્ષક પટ્ટીમાં દેખાય.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "ટિપ્પણી: વાંચન સ્થિતિ બટન લાંબે સુધી દબાવી રાખીને લેખોને તમારી વાંચન યાદીમાં ઉમેરો જ્યારે તે શીર્ષક પટ્ટીમાં દેખાય.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -649,9 +645,11 @@ Android માંથી">
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
 
 
 
@@ -667,3 +665,8 @@ Android માંથી">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
