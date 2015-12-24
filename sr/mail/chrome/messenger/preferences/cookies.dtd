@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width                      "36em">
+
+<!ENTITY cookiesonsystem.label             "Следећи колачићи су сачувани на вашем рачунару:">
+<!ENTITY cookiename.label                  "Име колачића">
+<!ENTITY cookiedomain.label                "Страница">
+<!ENTITY button.removecookie.label         "Уклони колачић">
+<!ENTITY button.removecookie.accesskey     "У">
+<!ENTITY button.removeallcookies.label     "Уклони све колачиће">
+<!ENTITY button.removeallcookies.accesskey "в">
+
+<!ENTITY props.name.label                  "Име:">
+<!ENTITY props.value.label                 "Садржај:">
+<!ENTITY props.domain.label                "Домаћин:">
+<!ENTITY props.path.label                  "Путања:">
+<!ENTITY props.secure.label                "Пошаљи за:">
+<!ENTITY props.expires.label               "Истиче:">
+
+<!ENTITY window.title                      "Колачићи">
+<!ENTITY windowClose.key                   "w">
+<!ENTITY focusSearch1.key                  "f">
+<!ENTITY focusSearch2.key                  "k">
+
+<!ENTITY filter.label                      "Претрага:">
+<!ENTITY filter.accesskey                  "П">
+
+<!ENTITY button.close.label                "Затвори">
+<!ENTITY button.close.accesskey            "З">
+

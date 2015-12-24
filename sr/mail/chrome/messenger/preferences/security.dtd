@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemJunk.label          "Непожељно">
+<!ENTITY itemPhishing.label      "Електронске преваре">
+<!ENTITY itemPasswords.label     "Лозинке">
+<!ENTITY itemAntiVirus.label     "Антивирус">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Поставите ваша подразумевана подешавања непожељне поште. Специфична подешавања за сваки налог понаособ можете поставити у подешавањима тог налога.">
+<!ENTITY manualMark.label "Када означим поруке као непожељне:">
+<!ENTITY manualMark.accesskey "К">
+<!ENTITY manualMarkModeMove.label "Помери их у фасциклу &quot;Непожељно&quot; тог налога">
+<!ENTITY manualMarkModeMove.accesskey "о">
+<!ENTITY manualMarkModeDelete.label "Обриши их">
+<!ENTITY manualMarkModeDelete.accesskey "б">
+<!ENTITY markAsReadOnSpam.label "Означи поруке за које је утврђено да су непожељне као прочитане">
+<!ENTITY markAsReadOnSpam.accesskey "О">
+<!ENTITY enableAdaptiveJunkLogging.label "Омогући записивање адаптивног филтрирања непожељног">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "г">
+<!ENTITY openJunkLog.label "Прикажи записник">
+<!ENTITY openJunkLog.accesskey "и">
+<!ENTITY resetTrainingData.label "Ресетуј податке тренирања">
+<!ENTITY resetTrainingData.accesskey "н">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; може да проучава поруке тако да тражи оне поруке које садрже честе технике којима се преваранти служе да би вас преварили.">
+<!ENTITY enablePhishingDetector1.label    "Кажи ми ако порука коју читам делује као електронска превара">
+<!ENTITY enablePhishingDetector1.accesskey  "К">
+<!ENTITY useDownloadedList.label "Користи преузети списак сумњивих порука">
+<!ENTITY useDownloadedList.accesskey "и">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "&brandShortName; може памтити лозинке за све важе налоге.">
+<!ENTITY useMasterPassword.label        "Користи главну лозинку">
+<!ENTITY useMasterPassword.accesskey    "р">
+<!ENTITY masterPassword.intro           "Главна лозинка може заштити све ваше лозинке али је морате уносити једном по сесији.">
+<!ENTITY changeMasterPassword.label     "Промени главну лозинку…">
+<!ENTITY changeMasterPassword.accesskey "м">
+<!ENTITY savedPasswords.label           "Сачуване лозинке…">
+<!ENTITY savedPasswords.accesskey       "С">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; може олакшати вашем антивирусу анализирање долазне поште на вирусе пре него што се они ускладиште локално.">
+<!ENTITY antiVirus.label      "Дозволи антивирусима да ставе појединачне долазне поруке у карантин">
+<!ENTITY antiVirus.accesskey  "Д">
+

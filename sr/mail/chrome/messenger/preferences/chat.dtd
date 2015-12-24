@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  startupAction.label         "Када се &brandShortName; покрене:">
+<!ENTITY  startupAction.accesskey     "п">
+<!ENTITY  startupOffline.label        "Остави моје налоге ћаскања ван мреже">
+<!ENTITY  startupConnectAuto.label    "Повежи моје налоге ћаскања аутоматски">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Покажи мојим контактима да сам у мировању након">
+<!ENTITY  reportIdleAfter.accesskey     "к">
+<!ENTITY  idleTime                      "минута неактивности">
+
+<!ENTITY  andSetStatusToAway.label      "и подеси моје стање у „Ван рачунара“ са овом поруком стања:">
+<!ENTITY  andSetStatusToAway.accesskey  "д">
+
+<!ENTITY  sendTyping.label              "Шаљи обавештења о куцању у разговорима">
+<!ENTITY  sendTyping.accesskey          "к">
+
+<!ENTITY  chatNotifications.label             "Када порука адресирана на вас стигне:">
+<!ENTITY  desktopChatNotifications.label      "Прикажи обавештење:">
+<!ENTITY  desktopChatNotifications.accesskey  "в">
+<!ENTITY  completeNotification.label          "са именом пошиљаоца и прегледом поруке">
+<!ENTITY  buddyInfoOnly.label                 "само са именом пошиљаоца">
+<!ENTITY  dummyNotification.label             "без било каквог податка">
+<!ENTITY  chatSound.accesskey                 "г">
+<!ENTITY  chatSound.label                     "Пусти звук">
+<!ENTITY  play.label                          "Пусти">
+<!ENTITY  play.accesskey                      "П">
+<!ENTITY  systemSound.label                   "Подразумевани системски звук за нову поруку">
+<!ENTITY  systemSound.accesskey               "з">
+<!ENTITY  customsound.label                   "Користи следећу звучну датотеку">
+<!ENTITY  customsound.accesskey               "К">
+<!ENTITY  browse.label                        "Преглед…">
+<!ENTITY  browse.accesskey                    "П">
+

@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY offlineDialog.title "Подешавања рада ван мреже">
+
+<!ENTITY checkAutoDetect.label "Аутоматски прати пронађено стање рада на мрежи">
+<!ENTITY checkAutoDetect.accesskey "т">
+<!ENTITY titleStartUp "Ручно стање приликом покретања:">
+<!ENTITY radioRememberPrevState.label "Запамти претходно стање рада на мрежи">
+<!ENTITY radioRememberPrevState.accesskey "З">
+<!ENTITY radioAskState.label "Питај ме за стање рада на мрежи">
+<!ENTITY radioAskState.accesskey "ј">
+<!ENTITY radioAlwaysOnlineState.label "На мрежи">
+<!ENTITY radioAlwaysOnlineState.accesskey "Н">
+<!ENTITY radioAlwaysOffline.label "Ван мреже">
+<!ENTITY radioAlwaysOffline.accesskey "В">
+
+<!ENTITY textGoingOnline "Послати непослате поруке након повезивања на мрежу?">
+<!ENTITY radioAutoSend.label "Да">
+<!ENTITY radioAutoSend.accesskey "Д">
+<!ENTITY radioNotSend.label "Не">
+<!ENTITY radioNotSend.accesskey "Н">
+<!ENTITY radioAskUnsent.label "Питај ме">
+<!ENTITY radioAskUnsent.accesskey "ј">
+<!ENTITY textGoingOffline "Преузети поруке за употребу ван мреже пре одласка у рад ван мреже?">
+<!ENTITY radioAutoDownload.label "Да">
+<!ENTITY radioAutoDownload.accesskey "а">
+<!ENTITY radioNotDownload.label "Не">
+<!ENTITY radioNotDownload.accesskey "е">
+<!ENTITY radioAskDownload.label "Питај ме">
+<!ENTITY radioAskDownload.accesskey "т">
