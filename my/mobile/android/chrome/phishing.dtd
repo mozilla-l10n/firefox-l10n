@@ -19,3 +19,5 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "ဤဝဘ်ဆိုက်၏ <span id='unwanted_sitename'/> သည် တိုက်ခိုက်နိုင်ဖွယ်ရှိသော စာမျက်နှာဟု သတင်းပေးခြင်းခံရပြီး သင်၏လုံခြုံရေးအပြင်အဆင်များအရ ပိတ်ပင်ထားခြင်းခံရသည်။">
 
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
