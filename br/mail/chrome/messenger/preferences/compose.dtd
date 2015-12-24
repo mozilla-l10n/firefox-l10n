@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Assav ar re dre ziouer">
 <!ENTITY restoreHTMLDefaults.accesskey        "r">
 
+
+
 <!ENTITY spellCheck.label                     "Gwiriañ ar reizhskrivañ a-raok kas">
 <!ENTITY spellCheck.accesskey                 "w">
 <!ENTITY spellCheckInline.label               "Gweredekaat reizhskrivañ en ur vizskrivañ">

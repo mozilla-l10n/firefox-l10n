@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "s">
 <!ENTITY dualUseFolders.label "Skorañ a ra an dafariad an teuliadoù a zo kemennadennoù hag isteuliadoù enno">
 <!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "Ober gant an arc'hwel IDLE m'eo skoret gant an dafariad">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Niver uhelañ a gennaskadurioù ouzh an dafariad da lakaat er grubuilh">
 <!ENTITY maximumConnectionsNumber.accesskey "h">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "r">
 <!ENTITY overrideNamespaces.label "Aotren an dafariad da flastrañ an egoroù envel-mañ">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "Pa vez pellgarget posteloù POP evit an dafariad-mañ, ober gant an teuliad da-heul evit ar posteloù nevez :" >
-<!ENTITY accountDirectory.label "Boestad-degemer evit ar gont dafariad-mañ">
-<!ENTITY accountDirectory.accesskey "s">
+
+
+
 <!ENTITY deferToServer.label "Boestad-degemer evit meur a gont">
 <!ENTITY deferToServer.accesskey "m">
 <!ENTITY deferGetNewMail.label "Enlakaat an dafariad-mañ pa vez kerc'het posteloù nevez">

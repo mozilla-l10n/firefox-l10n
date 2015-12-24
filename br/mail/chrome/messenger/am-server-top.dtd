@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Gwiriañ ar c'hemennadennoù nevez bep">
 <!ENTITY biffStart.accesskey "G">
 <!ENTITY biffEnd.label "a vunutennoù">
+
+
 <!ENTITY connectionSecurity.label "Diogelroez ar c'hennask:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Tra ebet">

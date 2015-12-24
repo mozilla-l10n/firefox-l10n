@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Gwelout">
 <!ENTITY viewMenu.accesskey                             "w">
 <!ENTITY viewToolbarsMenu.label                         "Barrennoù ostilhoù">
-<!ENTITY viewToolbarsMenu.accesskey                     "B"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "B">
 <!ENTITY menubarCmd.label                               "Barrenn lañser">
 <!ENTITY menubarCmd.accesskey                           "B">
 <!ENTITY showAbToolbarCmd.label                         "Barrenn ostilhoù ar c'harned posteloù">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Penel an darempred">
 <!ENTITY showContactPane2.accesskey                     "d">
 <!ENTITY menu_ShowNameAs.label                          "Diskouez an anv evel">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Anv-bihan Anv">
-<!ENTITY firstLastCmd2.accesskey                        "b"> 
+<!ENTITY firstLastCmd2.accesskey                        "b">
 <!ENTITY lastFirstCmd.label                             "Anv, Anv-bihan">
 <!ENTITY lastFirstCmd.accesskey                         "A">
 <!ENTITY displayNameCmd.label                           "Anv da skrammañ">
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "D">
 <!ENTITY preferencesCmdUnix.label                       "Gwellvezioù">
 <!ENTITY preferencesCmdUnix.accesskey                   "w">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Darempred nevez">
 <!ENTITY newContactButton.accesskey                     "a">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Kemennadenn brim">
 <!ENTITY newIM.accesskey                                "i">
+
+
 <!ENTITY deleteButton2.label                            "Dilemel">
 <!ENTITY deleteButton2.accesskey                        "D">
 <!-- Address Book Toolbar Tooltips -->
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Embann an elfenn diuzet">
 <!ENTITY newmsgButton.tooltip                           "Kas ur postel">
 <!ENTITY newIM.tooltip                                  "Kas ur gemennadenn diadaol pe flapañ">
-<!ENTITY deleteButton2.tooltip                           "Dilemel an elfenn diuzet">
+<!ENTITY deleteButton2.tooltip                          "Dilemel an elfenn diuzet">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Karnedoù chomlec'hioù">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Skrammañ ur gartenn eus ar chomlec'h-mañ diouzh internet">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Prenestr">
-<!ENTITY minimizeWindow.label "Bihanaat ar prenestr">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Kas pep tra d'ar rakleur">
-<!ENTITY zoomWindow.label "Zoum">
+<!ENTITY windowMenu.label                               "Prenestr">
+<!ENTITY minimizeWindow.label                           "Bihanaat ar prenestr">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Kas pep tra d'ar rakleur">
+<!ENTITY zoomWindow.label                               "Zoum">

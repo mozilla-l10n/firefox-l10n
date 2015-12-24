@@ -84,20 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Ment">
 <!ENTITY fontSizeMenu.accesskey "e">
-<!ENTITY size-xx-smallCmd.label "xx-bihan">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "x-bihan">
-<!ENTITY size-x-smallCmd.accesskey "b">
-<!ENTITY size-smallCmd.label "bihan">
-<!ENTITY size-smallCmd.accesskey "b">
-<!ENTITY size-mediumCmd.label "krenn">
-<!ENTITY size-mediumCmd.accesskey "k">
-<!ENTITY size-largeCmd.label "ledan">
-<!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "x-bras">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-ledan">
-<!ENTITY size-xx-largeCmd.accesskey "l">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Stil testenn">
@@ -313,7 +311,6 @@
 <!ENTITY throbber.tooltip "Mont da bajenn &vendorShortName; ">
 <!ENTITY HighlightColorButton.tooltip "Dibab al liv sklêrijennañ evit an destenn">
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Ment nodrezh bihanoc'h">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Ment nodrezh brasoc'h">
 <!ENTITY boldToolbarCmd.tooltip "Tev">
