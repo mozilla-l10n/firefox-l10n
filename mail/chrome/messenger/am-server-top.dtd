@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Ստուգել նամակները ամեն՝">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "րոպե">
+
+
 <!ENTITY connectionSecurity.label "Կապակցվելու անվտանգությունը.">
 <!ENTITY connectionSecurity.accesskey "ո">
 <!ENTITY connectionSecurityType-0.label "Չկա">

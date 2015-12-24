@@ -32,7 +32,7 @@
 <!ENTITY filterActionDesc.accesskey "P">
 
 <!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
-<!ENTITY filterActionOrder.label "See execution order">
+<!ENTITY filterActionOrder.label "Դիտել կատարման կարգը">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Տեղափոխել նամակը՝">

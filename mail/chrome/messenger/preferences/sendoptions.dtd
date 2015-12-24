@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Ուղարկելու ընտրանքներ">
 <!ENTITY sendMail.title               "Տեքստային">
+
+
 <!ENTITY sendMaildesc.label           "Եթե նամակը ուղարկում եք HTML-ով և այն ստացողներից մեկը չկա HTML նամակ ստացողների ցանկում.">
 <!ENTITY askMe.label                  "Հարցնել, թե ինչ անել">
 <!ENTITY askMe.accesskey              "k">

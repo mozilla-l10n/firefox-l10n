@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Ըստ ծրագրայինի">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
+
+
 <!ENTITY spellCheck.label                     "Ուղարկելուց առաջ ստուգել ուղղագրությունը">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Միացնել ուղղագրության ստուգումը">

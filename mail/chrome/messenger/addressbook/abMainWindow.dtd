@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Տեսք">
 <!ENTITY viewMenu.accesskey                             "Տ">
 <!ENTITY viewToolbarsMenu.label                         "Գործիքագոտիներ">
-<!ENTITY viewToolbarsMenu.accesskey                     "Գ"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "Գ">
 <!ENTITY menubarCmd.label                               "Ցանկագոտի">
 <!ENTITY menubarCmd.accesskey                           "Ց">
 <!ENTITY showAbToolbarCmd.label                         "Հասցեագրքի գործիքաշերտը">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Կոնտակտների պ-ը">
 <!ENTITY showContactPane2.accesskey                     "Կ">
 <!ENTITY menu_ShowNameAs.label                          "Ցուցադրել անունը որպես">
-<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Անուն ազգանուն">
-<!ENTITY firstLastCmd2.accesskey                        "Ա"> 
+<!ENTITY firstLastCmd2.accesskey                        "Ա">
 <!ENTITY lastFirstCmd.label                             "Անուն ազգանուն">
 <!ENTITY lastFirstCmd.accesskey                         "Ա">
 <!ENTITY displayNameCmd.label                           "Ցուցադրվող անունը">
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "Կ">
 <!ENTITY preferencesCmdUnix.label                       "Կարգավորումներ…">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Նոր կոնտակտ">
 <!ENTITY newContactButton.accesskey                     "C">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "Ակնթարթային նամակ">
 <!ENTITY newIM.accesskey                                "I">
+
+
 <!ENTITY deleteButton2.label                            "Ջնջել">
 <!ENTITY deleteButton2.accesskey                        "D">
 <!-- Address Book Toolbar Tooltips -->
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Խմբագրել ընտրվածը">
 <!ENTITY newmsgButton.tooltip                           "Ուղարկել նամակը">
 <!ENTITY newIM.tooltip                                  "Ուղարկել անմիջական նամակը">
-<!ENTITY deleteButton2.tooltip                           "Ջնջել ընտրվածը">
+<!ENTITY deleteButton2.tooltip                          "Ջնջել ընտրվածը">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Հասցեագիրք">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Ցուցադրել հասցեի քարտեզը վեբից">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Պատուհան">
-<!ENTITY minimizeWindow.label "Թաքցնել">
-<!ENTITY minimizeWindow.key "Թ">
-<!ENTITY bringAllToFront.label "Բոլորից առջև">
-<!ENTITY zoomWindow.label "Չափը">
+<!ENTITY windowMenu.label                               "Պատուհան">
+<!ENTITY minimizeWindow.label                           "Թաքցնել">
+<!ENTITY minimizeWindow.key                             "Թ">
+<!ENTITY bringAllToFront.label                          "Բոլորից առջև">
+<!ENTITY zoomWindow.label                               "Չափը">
