@@ -84,20 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Boyut">
 <!ENTITY fontSizeMenu.accesskey "B">
-<!ENTITY size-xx-smallCmd.label "xx-küçük">
-<!ENTITY size-xx-smallCmd.accesskey "k">
-<!ENTITY size-x-smallCmd.label "x-küçük">
-<!ENTITY size-x-smallCmd.accesskey "ç">
-<!ENTITY size-smallCmd.label "küçük">
-<!ENTITY size-smallCmd.accesskey "ü">
-<!ENTITY size-mediumCmd.label "orta">
-<!ENTITY size-mediumCmd.accesskey "o">
-<!ENTITY size-largeCmd.label "büyük">
-<!ENTITY size-largeCmd.accesskey "y">
-<!ENTITY size-x-largeCmd.label "x-büyük">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-büyük">
-<!ENTITY size-xx-largeCmd.accesskey "b">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Metin Biçemi">
@@ -313,7 +311,6 @@
 <!ENTITY throbber.tooltip "&vendorShortName; ana sayfasına git">
 <!ENTITY HighlightColorButton.tooltip "Vurgulu metin rengini seç">
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Daha küçük yazı tipi boyutu">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Daha büyük yazı tipi boyutu">
 <!ENTITY boldToolbarCmd.tooltip "Kalın">

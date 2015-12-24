@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Varsayılanları geri yükle">
 <!ENTITY restoreHTMLDefaults.accesskey        "V">
 
+
+
 <!ENTITY spellCheck.label                     "Göndermeden önce yazım denetimi yap">
 <!ENTITY spellCheck.accesskey                 "a">
 <!ENTITY spellCheckInline.label               "Yazı yazılırken anında yazım denetimini etkinleştir">

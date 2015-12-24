@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "e">
 <!ENTITY dualUseFolders.label "Sunucu, alt dizin ve ileti içeren dizinleri destekliyor">
 <!ENTITY dualUseFolders.accesskey "S">
-<!ENTITY useIdle.label "Sunucu desteklerse IDLE komutunu kullan">
-<!ENTITY useIdle.accesskey "L">
 <!ENTITY maximumConnectionsNumber.label "Önbelleğe alınacak bağlantı sayısı üst sınırı">
 <!ENTITY maximumConnectionsNumber.accesskey "n">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "i">
 <!ENTITY overrideNamespaces.label "Sunucunun bu ad uzaylarının üstüne yazmasına izin ver">
 <!ENTITY overrideNamespaces.accesskey "u">
-<!ENTITY pop3Desc.label "Bu sunucudan pop posta indirirken yeni postalar için şu dizini kullan:" >
-<!ENTITY accountDirectory.label "Bu sunucunun gelen kutusu">
-<!ENTITY accountDirectory.accesskey "s">
+
+
+
 <!ENTITY deferToServer.label "Farklı bir hesabın gelen kutusu">
 <!ENTITY deferToServer.accesskey "k">
 <!ENTITY deferGetNewMail.label "Yeni e-postaları alırken bu sunucuyu dâhil et">
