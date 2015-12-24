@@ -98,15 +98,10 @@
 <!ENTITY settings "Paràmetres">
 <!ENTITY settings_title "Paràmetres">
 
-<!ENTITY pref_category_advanced "Avançat">
-<!ENTITY pref_category_customize "Personalitza">
-<!ENTITY pref_category_customize_summary "Inici, cerca, pestanyes, importa">
-<!ENTITY pref_category_customize_alt_summary "Inici, cerca, pestanyes, obre més tard, importa">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "Llengua">
 <!ENTITY pref_category_language_summary "Canvia la llengua del navegador">
 <!ENTITY pref_browser_locale "Llengua del navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -140,19 +135,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "No s\u0027ha trobat cap dispositiu connectat al compte del Firefox">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "Cerca">
 <!ENTITY pref_category_search_summary "Personalitzeu els proveïdors de cerca">
-<!ENTITY pref_category_display "Visualització">
-<!ENTITY pref_category_display_summary "Text, barra de títol, navegació a pantalla completa">
+
+
 <!ENTITY pref_category_privacy_short "Privadesa">
 
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Quant al &brandShortName;, PMF, elecció de dades">
+
+
 <!ENTITY pref_category_datareporting "Elecció de dades">
 <!ENTITY pref_learn_more "Més informació">
 <!ENTITY pref_category_installed_search_engines "Motors de cerca instal·lats">
@@ -166,12 +157,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSELL: Per afegir qualsevol lloc web a la llista de proveïdors de cerca, manteniu premut el camp de cerca i toqueu la icona &formatI;.">
-<!ENTITY pref_category_devtools "Eines per a desenvolupadors">
+
+
 <!ENTITY pref_developer_remotedebugging "Depuració remota">
 
 
 
-<!ENTITY pref_category_logins "Inicis de sessió">
 
 
 
@@ -187,28 +178,39 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "«&formatS;» s\u0027ha afegit a la pàgina d\u0027inici">
 <!ENTITY pref_category_home_content_settings "Paràmetres del contingut">
-<!ENTITY pref_home_updates "Actualitzacions automàtiques">
+
 <!ENTITY pref_home_updates_enabled "Activades">
 <!ENTITY pref_home_updates_wifi "Només per Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Mostra suggeriments de llocs">
 <!ENTITY pref_home_suggested_sites_summary "Mostra a la pàgina d\u0027inici dreceres de llocs que creiem que us poden interessar">
 
 
-
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Personalitza">
-<!ENTITY pref_header_display "Visualització">
 <!ENTITY pref_header_privacy_short "Privadesa">
+
+
 <!ENTITY pref_header_help "Ajuda">
-<!ENTITY pref_header_language "Llengua">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Eines per a desenvolupadors">
+
 
 <!ENTITY pref_cookies_menu "Galetes">
 <!ENTITY pref_cookies_accept_all "Habilitades">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
 <!ENTITY pref_cookies_disabled "Inhabilitades">
+
+
 
 
 
@@ -242,9 +244,11 @@
 <!ENTITY pref_char_encoding "Codificació de caràcters">
 <!ENTITY pref_char_encoding_on "Mostra el menú">
 <!ENTITY pref_char_encoding_off "No mostris el menú">
-<!ENTITY pref_clear_private_data2 "Neteja-les ara">
-<!ENTITY pref_clear_private_data_category "Neteja dades privades">
-<!ENTITY pref_clear_on_exit_title2 "Neteja-les en sortir">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Neteja-les ara">
+
 <!ENTITY pref_clear_on_exit_summary2 "El &brandShortName; netejarà automàticament les vostres dades quan seleccioneu «Surt» en el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccioneu quines dades cal netejar">
 <!ENTITY pref_plugins "Connectors">
@@ -252,7 +256,7 @@
 <!ENTITY pref_plugins_tap_to_play "Toca per iniciar-los">
 <!ENTITY pref_plugins_disabled "Inhabilitats">
 <!ENTITY pref_text_size "Mida del text">
-<!ENTITY pref_restore "Pestanyes">
+
 <!ENTITY pref_restore_always "Restaura-les sempre">
 <!ENTITY pref_restore_quit "No les restauris en sortir del &brandShortName;">
 <!ENTITY pref_font_size_tiny "Molt petita">
@@ -282,11 +286,11 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "Contrasenya mestra">
-<!ENTITY pref_sync "Sync">
+
 
 <!ENTITY pref_search_suggestions "Mostra suggeriments de cerca">
 
-<!ENTITY pref_import_android "Importa de l\u0027Android">
+
 <!ENTITY pref_import_android_summary "Importa les adreces d\u0027interès i l\u0027historial del navegador natiu">
 <!ENTITY pref_private_data_history2 "Historial de navegació">
 <!ENTITY pref_private_data_searchHistory "Historial de cerca">
@@ -343,18 +347,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Baixa actualitzacions automàticament">
 <!ENTITY pref_update_autodownload_wifi "Només per Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Mai">
-<!ENTITY pref_update_autodownload_always "Sempre">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Ajuda">
 
 <!ENTITY quit "Surt">
 
-<!ENTITY addons "Complements">
-<!ENTITY logins "Inicis de sessió">
+
 <!ENTITY downloads "Baixades">
 <!ENTITY char_encoding "Codificació caràcters">
 
@@ -371,7 +373,7 @@ size. -->
 <!ENTITY new_private_tab "Pestanya privada nova">
 <!ENTITY close_all_tabs "Tanca totes les pestanyes">
 <!ENTITY close_private_tabs "Tanca les pestanyes privades">
-<!ENTITY tabs_normal "Pestanyes">
+
 <!ENTITY tabs_private "Privades">
 <!ENTITY tabs_synced "Sincronitzades">
 <!ENTITY set_image_fail "No es pot definir la imatge">
@@ -424,10 +426,6 @@ size. -->
 
 
 
-
-<!ENTITY pref_titlebar_mode "Barra de títol">
-<!ENTITY pref_titlebar_mode_title "Mostra el títol de la pàgina">
-<!ENTITY pref_titlebar_mode_url "Mostra l\u0027adreça de la pàgina">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -435,7 +433,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Navegació a pantalla completa">
-<!ENTITY pref_scroll_title_bar_summary "Amaga la barra de títol del &brandShortName; en desplaçar la pàgina cap avall">
+
 
 <!ENTITY pref_tab_queue_title2 "Obre diversos enllaços">
 
@@ -455,7 +453,6 @@ size. -->
 <!ENTITY site_settings_title3       "Paràmetres del lloc">
 <!ENTITY site_settings_cancel       "Cancel·la">
 <!ENTITY site_settings_clear        "Neteja">
-<!ENTITY site_settings_no_settings  "No hi ha cap paràmetre per netejar.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "S\u0027ha eliminat la pàgina de la llista de lectura">
@@ -494,8 +491,6 @@ size. -->
 <!ENTITY home_top_sites_add "Afegeix un lloc">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "Inici del &brandShortName;">
 <!ENTITY home_history_title "Historial">
 <!ENTITY home_clear_history_button "Neteja l\u0027historial de navegació">
 <!ENTITY home_clear_history_confirm "Esteu segur que voleu netejar l\u0027historial?">
@@ -509,14 +504,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: si utilitzeu una &formatS1;Pestanya privada nova&formatS2;, no es desarà l\u0027historial.">
 <!ENTITY home_reading_list_empty "Aquí es mostren els articles que deseu per llegir-los més tard.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "CONSELL: Per desar articles a la llista de lectura, manteniu premuda la icona &formatI; quan aparegui a la barra de títol.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "CONSELL: Per desar articles a la llista de lectura, manteniu premut el botó de mode de lectura quan aparegui a la barra de títol.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -700,9 +693,11 @@ de l\u0027Android">
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restrictable_feature_private_browsing "Navegació privada">
 
 
 
@@ -718,3 +713,8 @@ de l\u0027Android">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
