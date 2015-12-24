@@ -101,16 +101,11 @@
 
 <!ENTITY settings "Ezarpenak">
 <!ENTITY settings_title "Ezarpenak">
-<!ENTITY pref_category_input_options "Sarrerako aukerak">
-<!ENTITY pref_category_advanced "Aurreratua">
-<!ENTITY pref_category_customize "Pertsonalizatu">
-<!ENTITY pref_category_customize_summary "Hasiera, bilaketa, fitxak, inportatzea">
-<!ENTITY pref_category_customize_alt_summary "Hasiera, bilaketa, fitxak, ireki gerorako, inportatu">
+
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "Hizkuntza">
 <!ENTITY pref_category_language_summary "Aldatu nabigatzailearen hizkuntza">
 <!ENTITY pref_browser_locale "Nabigatzailearen hizkuntza">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -144,21 +139,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Ez da aurkitu Firefox kontura konektatutako gailurik">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-
-<!ENTITY menu_no_synced_devices "Bidali fitxa hau konektatutako beste gailu batera">
 
 <!ENTITY pref_category_search3 "Bilaketa">
 <!ENTITY pref_category_search_summary "Pertsonalizatu bilaketa-hornitzaileak">
-<!ENTITY pref_category_display "Bistaratzea">
-<!ENTITY pref_category_display_summary "Testua, titulu-barra, pantaila osoko nabigatzea">
+
+
 <!ENTITY pref_category_privacy_short "Pribatutasuna">
-<!ENTITY pref_category_privacy_summary2 "Kontrolatu saio-hasierak, cookieak, jarraipena, datuak">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "&brandShortName;(r)i buruz, ohiko galderak, datu-aukerak">
+
+
+
 <!ENTITY pref_category_datareporting "Datu-aukerak">
 <!ENTITY pref_learn_more "Argibide gehiago">
 <!ENTITY pref_category_installed_search_engines "Instalatutako bilaketa-motorrak">
@@ -172,12 +161,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "Aholkua: Gehitu edozein webgune bilaketa-hornitzaileen zerrendan denbora luzez bere bilaketa-eremua sakatuz eta ondoren &formatI; ikonoan sakatuz.">
-<!ENTITY pref_category_devtools "Garatzaile-tresnak">
+
+
 <!ENTITY pref_developer_remotedebugging "Urruneko arazketa">
 <!ENTITY pref_developer_remotedebugging_usb "USB bidezko urruneko arazketa">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi bidezko urruneko arazketa">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi bidezko arazketak zure gailuak QR kodeen irakugailua instalatuta izatea behar du.">
-<!ENTITY pref_category_logins "Saio-hasierak">
 <!ENTITY pref_remember_signons2 "Gogoratu saio-hasierak">
 <!ENTITY pref_open_external_urls_privately_title "Ireki loturak nabigatze pribatuan">
 <!ENTITY pref_open_external_urls_privately_summary "&brandShortName;(e)n irekitako kanpo-lotura guztientzat">
@@ -193,31 +182,41 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 panela hasiera-orrira gehitu da">
 <!ENTITY pref_category_home_content_settings "Edukiaren ezarpenak">
-<!ENTITY pref_home_updates "Eguneraketa automatikoak">
+
 <!ENTITY pref_home_updates_enabled "Gaituta">
 <!ENTITY pref_home_updates_wifi "Wi-Fi bidez soilik">
 <!ENTITY pref_home_suggested_sites "Erakutsi guneen gomendioak">
 <!ENTITY pref_home_suggested_sites_summary "Bistaratu hasiera-orrian interesgarriak izan daitezkeen guneetarako lasterbideak">
 <!ENTITY pref_category_home_homepage "Hasiera-orria">
 <!ENTITY home_homepage_title "Ezarri hasiera-orria">
-<!ENTITY home_homepage_use_current_tab "Erabili uneko fitxa">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Pertsonalizatu">
-<!ENTITY pref_header_display "Bistaratzea">
 <!ENTITY pref_header_privacy_short "Pribatutasuna">
+
+
 <!ENTITY pref_header_help "Laguntza">
-<!ENTITY pref_header_language "Hizkuntza">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Garatzaile-tresnak">
+
 
 <!ENTITY pref_cookies_menu "Cookieak">
 <!ENTITY pref_cookies_accept_all "Gaituta">
 <!ENTITY pref_cookies_not_accept_foreign "Gaituta, hirugarrenenak salbu">
 <!ENTITY pref_cookies_disabled "Desgaituta">
 
-<!ENTITY pref_tap_to_load_images_title "Sakatu irudiak kargatzeko">
-<!ENTITY pref_tap_to_load_images_summary2 "Kargatu irudiak denbora luzez sakatzean soilik">
+
+
+
 
 <!ENTITY pref_tracking_protection_title "Jarraipenaren babesa">
 <!ENTITY pref_tracking_protection_summary3 "Nabigatze pribatuan gaituta">
@@ -253,9 +252,11 @@
 <!ENTITY pref_char_encoding "Erakutsi karaktere-kodeketa">
 <!ENTITY pref_char_encoding_on "Erakutsi menua">
 <!ENTITY pref_char_encoding_off "Ez erakutsi menua">
-<!ENTITY pref_clear_private_data2 "Garbitu orain">
-<!ENTITY pref_clear_private_data_category "Garbitu datu pribatuak">
-<!ENTITY pref_clear_on_exit_title2 "Garbitu irtetean">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Garbitu orain">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName;(e)k zure datuak automatikoki garbituko ditu menu nagusitik \u0022Irten\u0022 hautatzen duzun bakoitzean">
 <!ENTITY pref_clear_on_exit_dialog_title "Hautatu garbitu beharreko datuak">
 <!ENTITY pref_plugins "Pluginak">
@@ -263,7 +264,7 @@
 <!ENTITY pref_plugins_tap_to_play "Sakatu erreproduzitzeko">
 <!ENTITY pref_plugins_disabled "Desgaituta">
 <!ENTITY pref_text_size "Testuaren tamaina">
-<!ENTITY pref_restore "Fitxak">
+
 <!ENTITY pref_restore_always "Berreskuratu beti">
 <!ENTITY pref_restore_quit "Ez berreskuratu &brandShortName;(e)tik irten ondoren">
 <!ENTITY pref_font_size_tiny "Txikitxoa">
@@ -288,16 +289,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Gaitu beti zooma">
 <!ENTITY pref_zoom_force_enabled_summary "Behartu gainidazketa edozein orritan zooma erabili ahal izateko">
 <!ENTITY pref_voice_input "Ahots bidezko sarrera">
-<!ENTITY pref_voice_input_summary "Baimendu ahots bidezko diktaketa titulu-barran">
+
 <!ENTITY pref_qrcode_enabled "QR kodeen irakurgailua">
-<!ENTITY pref_qrcode_enabled_summary "Baimendu QR eskanerra titulu-barran">
+
 
 <!ENTITY pref_use_master_password "Erabili pasahitz nagusia">
-<!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_sync_summary2 "Sinkronizatu zure fitxak, laster-markak, saio-hasierak, historia">
 <!ENTITY pref_search_suggestions "Erakutsi bilaketa-gomendioak">
 <!ENTITY pref_history_search_suggestions "Erakutsi bilaketen historia">
-<!ENTITY pref_import_android "Inportatu Android-etik">
+
 <!ENTITY pref_import_android_summary "Inportatu laster-markak eta historia nabigatzaile natibotik">
 <!ENTITY pref_private_data_history2 "Nabigatze-historia">
 <!ENTITY pref_private_data_searchHistory "Bilaketen historia">
@@ -354,18 +355,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Deskargatu eguneraketak automatikoki">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi bidez soilik">
 <!ENTITY pref_update_autodownload_never "Inoiz ez">
-<!ENTITY pref_update_autodownload_always "Beti">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Laguntza">
 
 <!ENTITY quit "Irten">
 
-<!ENTITY addons "Gehigarriak">
-<!ENTITY logins "Saio-hasierak">
+
 <!ENTITY downloads "Deskargak">
 <!ENTITY char_encoding "Karaktere-kodeketa">
 
@@ -382,7 +381,7 @@ size. -->
 <!ENTITY new_private_tab "Fitxa pribatu berria">
 <!ENTITY close_all_tabs "Itxi fitxa guztiak">
 <!ENTITY close_private_tabs "Itxi fitxa pribatuak">
-<!ENTITY tabs_normal "Fitxak">
+
 <!ENTITY tabs_private "Pribatua">
 <!ENTITY tabs_synced "Sinkronizatuak">
 <!ENTITY set_image_fail "Ezin da irudia ezarri">
@@ -435,10 +434,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "Ezin da pasahitza kopiatu">
 <!ENTITY doorhanger_login_select_action_text "Hautatu beste saio-hasiera bat">
 <!ENTITY doorhanger_login_select_title "Kopiatu pasahitza hemendik">
-
-<!ENTITY pref_titlebar_mode "Titulu-barra">
-<!ENTITY pref_titlebar_mode_title "Erakutsi orriaren titulua">
-<!ENTITY pref_titlebar_mode_url "Erakutsi orriaren helbidea">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -448,7 +443,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Pantaila osoko nabigatzea">
-<!ENTITY pref_scroll_title_bar_summary "Ezkutatu &brandShortName;(r)en titulu-barra orria behera korritzean">
+
 
 <!ENTITY pref_tab_queue_title2 "Ireki hainbat lotura">
 <!ENTITY pref_tab_queue_summary3 "Gorde itzazu &brandShortName; irekitzen duzun hurrengo aldirako">
@@ -468,7 +463,6 @@ size. -->
 <!ENTITY site_settings_title3       "Gunearen ezarpenak">
 <!ENTITY site_settings_cancel       "Utzi">
 <!ENTITY site_settings_clear        "Garbitu">
-<!ENTITY site_settings_no_settings  "Ez dago garbitzeko ezarpenik.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -509,8 +503,6 @@ size. -->
 <!ENTITY home_top_sites_add "Gehitu gunea">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "&brandShortName; hasiera-orria">
 <!ENTITY home_history_title "Historia">
 <!ENTITY home_clear_history_button "Garbitu nabigatze-historia">
 <!ENTITY home_clear_history_confirm "Ziur zaude nabigatze-historia garbitu nahi duzula?">
@@ -524,14 +516,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Adi: &formatS1;Fitxa pribatu berria&formatS2; erabiliz gero ez da historiarik gordeko.">
 <!ENTITY home_reading_list_empty "Gerorako gorde dituzun artikuluak hemen agertzen dira.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "Aholkua: Gorde artikuluak zure irakurketa-zerrendan denbora luzez &formatI; ikonoan sakatuz titulu-barran agertzen denean.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Aholkua: Gorde artikuluak zure irakurketa-zerrendan denbora luzez irakurketa moduaren botoia sakatuz titulu-barran agertzen denean.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -726,20 +716,20 @@ Android-etik">
      code. -->
 
 <!ENTITY devtools_auth_scan_header "Zure beste gailuan bistaratzen den QR kodea eskaneatzen">
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY restriction_disallow_import_settings_title2 "Desgaitu \u0027Inportatu Android\u0027-etik">
-<!ENTITY restriction_disallow_addons_title2 "Desgaitu gehigarrien instalazioa">
-<!ENTITY restriction_disallow_devtools_title2 "Desgaitu garatzaile-tresnak">
-<!ENTITY restriction_disallow_customize_home_title2 "Desgaitu hasiera-orriaren pertsonalizazioa">
-<!ENTITY restriction_disallow_private_browsing_title2 "Desgaitu nabigatze pribatua">
-<!ENTITY restriction_disallow_location_services_title2 "Desgaitu kokapen-zerbitzuak">
-<!ENTITY restriction_disallow_display_settings_title2 "Desgaitu bistaratze-hobespenak">
-<!ENTITY restriction_disallow_clear_history_title2 "Desgaitu \u0027Garbitu nabigatze-historia\u0027">
-<!ENTITY restriction_disallow_master_password_title2 "Desgaitu pasahitz nagusia">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Desgaitu gonbidatu-saioekin nabigatzea">
+<!ENTITY restrictable_feature_private_browsing "Nabigatze pribatua">
+
+
+
+
+
+
+
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -752,3 +742,8 @@ Android-etik">
 <!ENTITY bookmarks_restricted_support2 "Android tabletetako murriztutako profiletarako Firefoxen laguntza eta euskarria">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Ikasi weba: Mozilla Webmaker">
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
