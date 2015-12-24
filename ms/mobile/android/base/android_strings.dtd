@@ -96,16 +96,11 @@
 
 <!ENTITY settings "Tetapan">
 <!ENTITY settings_title "Tetapan">
+<!ENTITY pref_category_general "Am">
 
-<!ENTITY pref_category_advanced "Lanjutan">
-<!ENTITY pref_category_customize "Suaikan">
-<!ENTITY pref_category_customize_summary "Utama, carian, tab, import">
-<!ENTITY pref_category_customize_alt_summary "Utama,carian, tab, buka kemudian, import">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "Bahasa">
 <!ENTITY pref_category_language_summary "Ubah bahasa pelayar anda">
 <!ENTITY pref_browser_locale "Bahasa pelayar">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -139,19 +134,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Peranti Firefox akaun yang bersambung tidak dapat dijumpai">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "Carian">
 <!ENTITY pref_category_search_summary "Menyesuai penyedia carian anda">
-<!ENTITY pref_category_display "Paparan">
-<!ENTITY pref_category_display_summary "Teks, bar tajuk, pelayaran skrin penuh">
+
+
 <!ENTITY pref_category_privacy_short "Privasi">
 
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Perihal &brandShortName;, FAQs, pilihan data">
+
+
 <!ENTITY pref_category_datareporting "Pilihan data">
 <!ENTITY pref_learn_more "Ketahui lagi">
 <!ENTITY pref_category_installed_search_engines "Enjin carian dipasang">
@@ -165,12 +156,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Tambah sebarang laman web kepada senarai penyedia carian anda dengan menekan lama pada medan carian kemudian sentuh ikon &formatI;.">
-<!ENTITY pref_category_devtools "Alatan pembangun">
+
+
 <!ENTITY pref_developer_remotedebugging "Menyahpepijat jarak jauh">
 
 
 
-<!ENTITY pref_category_logins "Log masuk">
 
 
 
@@ -186,28 +177,39 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ditambah kepada laman utama">
 <!ENTITY pref_category_home_content_settings "Tetapan kandungan">
-<!ENTITY pref_home_updates "Pengemaskinian automatik">
+
 <!ENTITY pref_home_updates_enabled "Dibolehkan">
 <!ENTITY pref_home_updates_wifi "Hanya melalui Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Tunjuk cadangan laman">
 <!ENTITY pref_home_suggested_sites_summary "Pamerkan pintasan ke laman yang kami rasa menarik untuk anda pada laman utama anda.">
 
 
-
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Penyesuaian">
-<!ENTITY pref_header_display "Paparan">
 <!ENTITY pref_header_privacy_short "Privasi">
+
+
 <!ENTITY pref_header_help "Bantuan">
-<!ENTITY pref_header_language "Bahasa">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Alatan pembangun">
+
 
 <!ENTITY pref_cookies_menu "Kuki">
 <!ENTITY pref_cookies_accept_all "Dibolehkan">
 <!ENTITY pref_cookies_not_accept_foreign "Dibolehkan, tidak termasuk pihak ke-3">
 <!ENTITY pref_cookies_disabled "Dilumpuhkan">
+
+
 
 
 
@@ -239,9 +241,11 @@
 <!ENTITY pref_char_encoding "Pengekodan aksara">
 <!ENTITY pref_char_encoding_on "Papar menu">
 <!ENTITY pref_char_encoding_off "Jangan papar menu">
-<!ENTITY pref_clear_private_data2 "Padam sekarang">
-<!ENTITY pref_clear_private_data_category "Bersihkan data peribadi">
-<!ENTITY pref_clear_on_exit_title2 "Lapangkan semasa keluar">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Padam sekarang">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan memadam data anda secara automatik apabila anda memilih \u0022Berhenti\u0022 daripada menu utama">
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang ingin dipadam">
 <!ENTITY pref_plugins "Plugin">
@@ -249,7 +253,7 @@
 <!ENTITY pref_plugins_tap_to_play "Sentuh untuk main">
 <!ENTITY pref_plugins_disabled "Dilumpuhkan">
 <!ENTITY pref_text_size "Saiz teks">
-<!ENTITY pref_restore "Tab">
+
 <!ENTITY pref_restore_always "Sentiasa memulihkan">
 <!ENTITY pref_restore_quit "Jangan memulihkan selepas berhenti &brandShortName;">
 <!ENTITY pref_font_size_tiny "Sangat Kecil">
@@ -279,11 +283,11 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "Guna kata laluan induk">
-<!ENTITY pref_sync "Sync">
+
 
 <!ENTITY pref_search_suggestions "Tunjuk cadangan carian">
 
-<!ENTITY pref_import_android "Import dari Android">
+
 
 <!ENTITY pref_private_data_history2 "Sejarah pelungsuran">
 
@@ -340,15 +344,13 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Muat turun kemas kini secara automatik">
 
 <!ENTITY pref_update_autodownload_never "Tidak sekali">
-<!ENTITY pref_update_autodownload_always "Sentiasa">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Keluar">
 
-<!ENTITY addons "Add-ons">
 
 
 <!ENTITY char_encoding "Pengekodan Aksara">
@@ -417,10 +419,6 @@ size. -->
 
 
 
-
-<!ENTITY pref_titlebar_mode "Tajuk bar">
-<!ENTITY pref_titlebar_mode_title "Tunjukkan tajuk halaman">
-<!ENTITY pref_titlebar_mode_url "Tunjukkan alamat halaman">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -428,7 +426,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Pelayaran Skrin-penuh ">
-<!ENTITY pref_scroll_title_bar_summary "Sorok bar tajuk &brandShortName; apabila skrol ke bawah laman">
+
 
 
 <!-- Localization note (page_removed): This string appears in a toast message when
@@ -447,7 +445,6 @@ size. -->
 <!ENTITY site_settings_title3       "Tetapan Laman">
 <!ENTITY site_settings_cancel       "Batal">
 <!ENTITY site_settings_clear        "Bersih">
-<!ENTITY site_settings_no_settings  "Tiada tetapan untuk dibersihkan.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "Halaman dikeluarkan dari Senarai Pembacaan anda">
@@ -486,8 +483,6 @@ size. -->
 <!ENTITY home_top_sites_add "Tambah sebuah laman">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "&brandShortName; Utama">
 <!ENTITY home_history_title "Sejarah">
 <!ENTITY home_clear_history_button "Bersihkan sejarah pelayaran">
 <!ENTITY home_clear_history_confirm "Adakah anda pasti anda mahu memadam sejarah anda?">
@@ -501,14 +496,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: Menggunakan &formatS1; Tab swasta baru&formatS2; tidak akan menyimpan sejarah anda.">
 <!ENTITY home_reading_list_empty "Artikel yang anda simpan untuk paparan kemudian dipaparkan di sini.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "TIP: Simpan artikel ke senarai pembacaan anda dengan menekan lama ikon &formatI; apabila ia muncul dalam bar tajuk.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "PETUA: Simpan artikel ke senarai pembacaan anda dengan menekan lama butang mod pembaca apabila ia muncul dalam bar tajuk.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -687,9 +680,11 @@ dari Android">
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restrictable_feature_private_browsing "Melungsur Secara Peribadi">
 
 
 
@@ -705,3 +700,8 @@ dari Android">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
