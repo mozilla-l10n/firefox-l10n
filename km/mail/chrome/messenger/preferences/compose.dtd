@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
+
+
 <!ENTITY spellCheck.label                     "Check spelling before sending">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Enable spell check as you type">
