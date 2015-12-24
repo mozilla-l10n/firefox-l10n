@@ -149,7 +149,6 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Marca les tasques seleccionades com a acabades">
 <!ENTITY calendar.task.priority.button.tooltip  "Canvia la prioritat">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtra les tasques... #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Maj+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
