@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Comprova si hi ha missatges nous cada ">
 <!ENTITY biffStart.accesskey "h">
 <!ENTITY biffEnd.label "minuts">
+
+
 <!ENTITY connectionSecurity.label "Connexió segura:">
 <!ENTITY connectionSecurity.accesskey "C">
 <!ENTITY connectionSecurityType-0.label "Cap">
