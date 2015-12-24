@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Bidalketa-aukerak">
 <!ENTITY sendMail.title               "Testuaren formatua">
+
+
 <!ENTITY sendMaildesc.label           "Mezuak HTML formatuan bidaltzean eta hartzaileetako bat edo gehiago HTML mezuak jasotzeko zerrendan ez daudenean:">
 <!ENTITY askMe.label                  "Galdetu niri zer egin">
 <!ENTITY askMe.accesskey              "t">
