@@ -20,3 +20,5 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "ទំព័រ​បណ្ដាញ​នេះ​នៅ <span id='unwanted_sitename'/> ត្រូវ​បាន​រាយការណ៍​ថា​មាន​កម្មវិធី​ដែល​មិន​ចង់​បាន និង​ត្រូវ​បាន​ទប់ស្កាត់​​អាស្រ័យ​​តាម​ចំណូលចិត្ត​សុវត្ថិភាព​របស់​អ្នក។">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "ទំព័រ​កម្មវិធី​ដែល​មិន​ចង់​បាន​​ព្យាយាម​ដំឡើង​កម្មវិធី​ដែល​អាច​ឆបោក និង​ប៉ះពាល់​ប្រព័ន្ធ​របស់​អ្នក​តាម​មធ្យោបាយ​ដែល​មិន​នឹក​​ស្មាន​ដល់។">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

@@ -101,16 +101,11 @@
 
 <!ENTITY settings "ការ​កំណត់">
 <!ENTITY settings_title "ការ​កំណត់">
-<!ENTITY pref_category_input_options "ជម្រើស​បញ្ចូល">
-<!ENTITY pref_category_advanced "កម្រិត​ខ្ពស់">
-<!ENTITY pref_category_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
-<!ENTITY pref_category_customize_summary "ដើម ស្វែងរក ផ្ទាំង នាំចូល">
-<!ENTITY pref_category_customize_alt_summary "ដើម, ស្វែងរក, ថេប, បើក​បន្ទាប់, នាំចូល">
+<!ENTITY pref_category_general "ទូទៅ">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "ភាសា">
 <!ENTITY pref_category_language_summary "ប្ដូរ​ភាសា​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក">
 <!ENTITY pref_browser_locale "ភាសា​កម្មវិធី​អ៊ីនធឺណិត">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -144,19 +139,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "រក​មិន​ឃើញ​ឧបករណ៍​ដែល​បាន​ភ្ជាប់​សម្រាប់​គណនី Firefox">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "ស្វែងរក">
 <!ENTITY pref_category_search_summary "ប្ដូរ​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
-<!ENTITY pref_category_display "បង្ហាញ">
-<!ENTITY pref_category_display_summary "អត្ថបទ របារ​ចំណងជើង ការ​រកមើល​ពេញ​អេក្រង់">
+
+
 <!ENTITY pref_category_privacy_short "ភាព​ឯកជន">
-<!ENTITY pref_category_privacy_summary2 "គ្រប់គ្រង​ការ​ចូល, ខូគី, ការ​តាមដាន, ទិន្នន័យ">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "អំពី &brandShortName;, FAQs, ជម្រើស​ទិន្នន័យ">
+
+
+
 <!ENTITY pref_category_datareporting "ជម្រើស​ទិន្នន័យ">
 <!ENTITY pref_learn_more "ស្វែងយល់​បន្ថែម">
 <!ENTITY pref_category_installed_search_engines "ម៉ាស៊ីន​ស្វែងរក​ដែល​បាន​ដំឡើង">
@@ -170,12 +161,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "ព័ត៌មាន​ជំនួយ៖ បន្ថែម​តំបន់បណ្ដាញ​ណាមួយ​ទៅកាន់​​ក្រុមហ៊ុន​ផ្ដល់​​ការ​ស្វែងរក ដោយ​ចុច​​លើ​វាល​ស្វែងរក​របស់​វា បន្ទាប់​មក​ប៉ះ​រូបតំណាង &formatI; ។">
-<!ENTITY pref_category_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
+
+
 <!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
 <!ENTITY pref_developer_remotedebugging_usb "បញ្ជា​​កែ​កំហុស​ពី​ចម្ងាយ​តាមរយៈ​យូអេសប៊ី">
 <!ENTITY pref_developer_remotedebugging_wifi "បញ្ជា​​​កែ​កំហុស​ពី​ចម្ងាយ​តាមរយៈ​វ៉ាយហ្វាយ">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ការ​​កែ​កំហុស​តាម​វ៉ាយហ្វាយ​ទាមទារ​ឧបករណ៍​របស់​អ្នក​​ដំឡើង​កម្មវិធី​អាន​កូដ QR ។">
-<!ENTITY pref_category_logins "ចូល">
 <!ENTITY pref_remember_signons2 "ចងចាំ​ការ​ចូល">
 <!ENTITY pref_open_external_urls_privately_title "បើក​តំណ​ក្នុង​ការ​រក​មើល​ឯកជន">
 <!ENTITY pref_open_external_urls_privately_summary "សម្រាប់​តំណ​ខាង​ក្រៅ​ទាំងអស់​ដែល​បាន​បើក​ក្នុង &brandShortName;">
@@ -191,28 +182,39 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 បាន​បន្ថែម​ទៅ​គេហ​ទំព័រ">
 <!ENTITY pref_category_home_content_settings "ការ​កំណត់​មាតិកា">
-<!ENTITY pref_home_updates "បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ">
+
 <!ENTITY pref_home_updates_enabled "បាន​បើក">
 <!ENTITY pref_home_updates_wifi "តាម​វ៉ាយហ្វាយ​តែប៉ុណ្ណោះ">
 <!ENTITY pref_home_suggested_sites "បង្ហាញ​ការ​ផ្ដល់​យោបល់​​តំបន់បណ្ដាញ">
 <!ENTITY pref_home_suggested_sites_summary "បង្ហាញ​ផ្លូវ​កាត់​ទៅ​គេហទំព័រ​ដែល​អ្នក​គិត​ថា​គួរ​ឲ្យ​ចាប់​អារម្មណ៍ នៅ​លើ​ទំព័រ​ដើម​របស់​អ្នក">
 <!ENTITY pref_category_home_homepage "គេហទំព័រ">
 <!ENTITY home_homepage_title "កំណត់​គេហ​ទំព័រ">
-<!ENTITY home_homepage_use_current_tab "ប្រើ​ផ្ទាំង​បច្ចុប្បន្ន">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
-<!ENTITY pref_header_display "បង្ហាញ">
 <!ENTITY pref_header_privacy_short "ភាព​ឯកជន">
+
+
 <!ENTITY pref_header_help "ជំនួយ">
-<!ENTITY pref_header_language "ភាសា">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
+
 
 <!ENTITY pref_cookies_menu "​ខូគី">
 <!ENTITY pref_cookies_accept_all "បាន​បើក">
 <!ENTITY pref_cookies_not_accept_foreign "បាន​បើក រួមបញ្ចូល​ទាំង​ភាគី​ទី៣">
 <!ENTITY pref_cookies_disabled "បាន​បិទ">
+
+
 
 
 
@@ -249,9 +251,11 @@
 <!ENTITY pref_char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY pref_char_encoding_on "បង្ហាញ​ម៉ឺនុយ">
 <!ENTITY pref_char_encoding_off "កុំ​បង្ហាញ​ម៉ឺនុយ">
-<!ENTITY pref_clear_private_data2 "សម្អាត​ឥឡូវ​">
-<!ENTITY pref_clear_private_data_category "សម្អាត​ទិន្នន័យ​ឯកជន">
-<!ENTITY pref_clear_on_exit_title2 "សម្អាត​ពេល​ចេញ">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "សម្អាត​ឥឡូវ​">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; នឹង​សម្អាត​ទិន្នន័យ​របស់​អ្នក​ដោយ​ស្វ័យ​ប្រវត្តិ នៅ​ពេលណា​​ដែល​អ្នក​ជ្រើស \u0022ចេញ\u0022 ពី​ម៉ឺនុយ​មេ">
 <!ENTITY pref_clear_on_exit_dialog_title "ជ្រើស​ទិន្នន័យ​ណា​មួយ​ដើម្បី​សម្អាត">
 <!ENTITY pref_plugins "កម្មវិធី​ជំនួយ">
@@ -259,7 +263,7 @@
 <!ENTITY pref_plugins_tap_to_play "ផ្ទាំង​ដែល​ត្រូវ​បង្ហាញ">
 <!ENTITY pref_plugins_disabled "បាន​បិទ">
 <!ENTITY pref_text_size "ទំហំ​អត្ថបទ">
-<!ENTITY pref_restore "ផ្ទាំង">
+
 <!ENTITY pref_restore_always "ស្ដារ​ជានិច្ច">
 <!ENTITY pref_restore_quit "កុំ​ស្ដារ​បន្ទាប់ពី​បិទ &brandShortName;">
 <!ENTITY pref_font_size_tiny "ល្អិត">
@@ -284,16 +288,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "បើក​ការ​ពង្រីក​ជានិច្ច">
 <!ENTITY pref_zoom_force_enabled_summary "បង្ខំ​បដិសេធ ដូច្នេះ​អ្នក​អាច​ពង្រីក​ទំព័រ​ណាមួយ​ក៏​បាន">
 <!ENTITY pref_voice_input "ការ​បញ្ចូល​ជា​សំឡេង">
-<!ENTITY pref_voice_input_summary "អនុញ្ញាត​ការ​សរសេរ​តាម​សំឡេង​នៅក្នុង​របារ​ចំណងជើង">
+
 <!ENTITY pref_qrcode_enabled "កម្មវិធី​អាន​កូដ QR">
-<!ENTITY pref_qrcode_enabled_summary "អនុញ្ញាត​កម្មវិធីស្កេន QR នៅ​ក្នុង​របារ​ចំណងជើង">
+
 
 <!ENTITY pref_use_master_password "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
-<!ENTITY pref_sync "ធ្វើ​សមកាលកម្ម">
+
 <!ENTITY pref_sync_summary2 "ធ្វើ​សមកាលកម្ម​ផ្ទាំង​, ចំណាំ, ការ​ចូល, ប្រវត្តិ​របស់​អ្នក">
 <!ENTITY pref_search_suggestions "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
 
-<!ENTITY pref_import_android "នាំចូល​ពី Android">
+
 <!ENTITY pref_import_android_summary "នាំចូល​ចំណាំ និង​ប្រវត្តិ​ពី​កម្មវិធី​អ៊ីនធឺណិត​ដើម">
 <!ENTITY pref_private_data_history2 "​ប្រវត្តិ​រក​មើល">
 <!ENTITY pref_private_data_searchHistory "ប្រវត្តិ​ស្វែងរក">
@@ -350,18 +354,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "ទាញ​យក​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_update_autodownload_wifi "តាម​វ៉ាយហ្វាយ​តែប៉ុណ្ណោះ">
 <!ENTITY pref_update_autodownload_never "កុំ">
-<!ENTITY pref_update_autodownload_always "ជានិច្ច">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "ជំនួយ">
 
 <!ENTITY quit "ចេញ">
 
-<!ENTITY addons "កម្មវិធី​បន្ថែម">
-<!ENTITY logins "ចូល">
+
 <!ENTITY downloads "ទាញ​យក">
 <!ENTITY char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 
@@ -378,7 +380,7 @@ size. -->
 <!ENTITY new_private_tab "ផ្ទាំង​ឯកជន​ថ្មី">
 <!ENTITY close_all_tabs "បិទ​ផ្ទាំង​ទាំងអស់">
 <!ENTITY close_private_tabs "បិទ​ផ្ទាំង​ឯកជន">
-<!ENTITY tabs_normal "ផ្ទាំង">
+
 <!ENTITY tabs_private "ឯកជន">
 <!ENTITY tabs_synced "បាន​ធ្វើ​សមកាលកម្ម">
 <!ENTITY set_image_fail "មិន​អាច​កំណត់​រូបភាព">
@@ -431,10 +433,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "មិន​អាច​ចម្លង​ពាក្យ​សម្ងាត់">
 <!ENTITY doorhanger_login_select_action_text "ជ្រើស​ការ​ចូល​ផ្សេង">
 <!ENTITY doorhanger_login_select_title "ចម្លង​ពាក្យ​សម្ងាត់​ពី">
-
-<!ENTITY pref_titlebar_mode "របារ​ចំណង​ជើង">
-<!ENTITY pref_titlebar_mode_title "បង្ហាញ​ចំណងជើង​ទំព័រ">
-<!ENTITY pref_titlebar_mode_url "បង្ហាញ​អាសយដ្ឋាន​ទំព័រ">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -444,7 +442,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "ការ​រុករក​ពេញ​អេក្រង់">
-<!ENTITY pref_scroll_title_bar_summary "លាក់​របារ​ចំណង​ជើង &brandShortName; ពេល​រមូរ​ទំព័រ​ចុះក្រោម">
+
 
 <!ENTITY pref_tab_queue_title2 "បើក​តំណ​ច្រើន">
 <!ENTITY pref_tab_queue_summary3 "រក្សាទុក​វា​រហូតដល់​ពេល​ដែល​អ្នក​បើក​បន្ទាប់ &brandShortName;">
@@ -464,7 +462,6 @@ size. -->
 <!ENTITY site_settings_title3       "ការ​កំណត់​តំបន់បណ្ដាញ">
 <!ENTITY site_settings_cancel       "បោះបង់">
 <!ENTITY site_settings_clear        "សម្អាត">
-<!ENTITY site_settings_no_settings  "មិន​មាន​ការ​កំណត់​ដែល​ត្រូវ​សម្អាត​ទេ។">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -505,8 +502,6 @@ size. -->
 <!ENTITY home_top_sites_add "បន្ថែម​តំបន់បណ្ដាញ">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "ទំព័រ​ដើម &brandShortName;">
 <!ENTITY home_history_title "ប្រវត្តិ">
 <!ENTITY home_clear_history_button "សម្អាត​ប្រវត្តិ​រុករក">
 <!ENTITY home_clear_history_confirm "តើ​អ្នក​ពិតជា​ចង់​សម្អាត​ប្រវត្តិ​របស់​អ្នក​មែនឬ?">
@@ -520,14 +515,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: ការ​ប្រើ &formatS1;ផ្ទាំង​ឯកជន​ថ្មី&formatS2; នឹង​មិន​រក្សាទុក​ប្រវត្តិ​របស់​អ្នក​ទេ។">
 <!ENTITY home_reading_list_empty "អត្ថបទ​ដែល​អ្នក​បាន​រក្សាទុក​នឹង​បង្ហាញ​នៅ​ទីនេះ។">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "ព័ត៌មាន​ជំនួយ៖ រក្សាទុក​អត្ថបទ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក​ដោយ​ចុច​​លើ​​រូបតំណាង  &formatI; ពេល​វា​បង្ហាញ​នៅ​ក្នុង​របារ​ចំណងជើង។">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "ព័ត៌មាន​ជំនួយ៖ រក្សាទុក​អត្ថបទ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក​ដោយ​ចុច​យូរ​លើ​ប៊ូតុង​របៀប​អ្នក​អាន ពេល​វា​លេចឡើង​នៅ​ក្នុង​របារ​ចំណងជើង។">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -720,20 +713,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 
 <!ENTITY devtools_auth_scan_header "ការ​ស្កេន​កូដ QR ដែល​​បង្ហាញ​នៅ​លើ​​ឧបករណ៍​ផ្សេង​របស់​អ្នក">
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY restriction_disallow_import_settings_title2 "បិទ \u0027ការ​នាំចូល​ពី​អេនដ្រយ\u0027">
-<!ENTITY restriction_disallow_addons_title2 "បិទ​ការ​ដំឡើង​កម្មវិធី​​ផ្នែក​បន្ថែម">
-<!ENTITY restriction_disallow_devtools_title2 "បិទ​ដំណើរការ​ឧបករណ៍​អ្នក​អភិវឌ្ឍ">
-<!ENTITY restriction_disallow_customize_home_title2 "បិទ​ការ​​កែ​​​ទំព័រ​ដើម​តាម​បំណង">
-<!ENTITY restriction_disallow_private_browsing_title2 "បិទ​ការ​រក​មើល​ជា​ឯកជន">
-<!ENTITY restriction_disallow_location_services_title2 "បិទ​សេវាកម្ម​ទីតាំង">
-<!ENTITY restriction_disallow_display_settings_title2 "បិទ​ការ​កំណត់​ការ​បង្ហាញ">
-<!ENTITY restriction_disallow_clear_history_title2 "បិទ \u0027ប្រវត្តិ​រក​មើល​ដែល​សម្អាត\u0027">
-<!ENTITY restriction_disallow_master_password_title2 "បិទ​ពាក្យ​សម្ងាត់​មេ">
-<!ENTITY restriction_disallow_guest_browsing_title2 "បិទ​ការ​រក​មើល​ជា​ភ្ញៀវ">
+<!ENTITY restrictable_feature_private_browsing "ការ​រក​មើល​ឯកជន">
+
+
+
+
+
+
+
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -746,3 +739,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "ជំនួយ និង​ការ​គាំទ្រ Firefox សម្រាប់​​ប្រវត្តិរូប​ដែល​រឹត​បន្តឹង​នៅ​លើ​ថេប្លេត​អេនដ្រយ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "ស្វែងយល់​ពី​បណ្ដាញ៖ Mozilla Webmaker">
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
