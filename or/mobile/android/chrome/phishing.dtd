@@ -19,3 +19,5 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/>ରେ ଥିବା ଏହି ୱେବ ପୃଷ୍ଠାରେ ଅଦରକାରୀ ସଫ୍ଟଓଏର ଅଛି ବୋଲି ଚିହ୍ନଟ ହୋଇଥିବାରୁ ଆପଣଙ୍କ ନିରାପତ୍ତା ପସନ୍ଦ ଆଧାରରେ ଏହା ଅଟକାଯାଇଛି ।">
 
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
