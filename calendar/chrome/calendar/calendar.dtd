@@ -149,7 +149,6 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Marchează sarcinile selectate ca îndeplinite">
 <!ENTITY calendar.task.priority.button.tooltip  "Schimbă prioritatea">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrare sarcini… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
