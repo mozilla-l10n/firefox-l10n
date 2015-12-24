@@ -8,10 +8,15 @@
 
 
 <!ENTITY lightning.toolbar.sync.label "Sinkronkan">
+
 <!ENTITY lightning.toolbar.delete.label "Hapus">
+
 <!ENTITY lightning.toolbar.edit.label "Edit">
-<!ENTITY lightning.toolbar.gototoday.label "Buka Hari Ini">
+
+
+
 <!ENTITY lightning.toolbar.print.label "Cetak">
+
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Acara">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Buat acara baru">
 <!ENTITY lightning.toolbar.newtask.label      "Tugas">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Buat tugas baru">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Hari">
