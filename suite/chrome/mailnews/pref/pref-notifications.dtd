@@ -22,6 +22,10 @@
 <!ENTITY showAlertSender.label            "Feladó megjelenítése">
 <!ENTITY showAlertSender.accesskey        "F">
 
+
+
+
+
 <!ENTITY showTrayIcon.label               "Tálcaikon megjelenítése">
 <!ENTITY showTrayIcon.accesskey           "T">
 <!ENTITY showBalloon.label                "Felugró értesítési ablak megjelenítése">
