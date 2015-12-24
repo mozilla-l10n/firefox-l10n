@@ -186,9 +186,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir aquesta pagina">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Afichar las entresenhas sul site internet">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Afichar una notificacion">
 
 
 
@@ -773,6 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Onglets d'autres aparelhs">
 
+<!ENTITY syncSignIn.label             "Se connectar a &syncBrand.shortName.label;">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sincronizar ara">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -868,7 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.accesskey "f">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "Autorizar ara">
+<!ENTITY pluginActivateNow.label "Activar ara">
 <!ENTITY pluginActivateAlways.label "Activar totjorn">
 <!ENTITY pluginBlockNow.label "Blocar lo plugin">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
