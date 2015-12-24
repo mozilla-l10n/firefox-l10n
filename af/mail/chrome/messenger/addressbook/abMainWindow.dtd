@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Bekyk">
 <!ENTITY viewMenu.accesskey                             "B">
 <!ENTITY viewToolbarsMenu.label                         "Nutsbalke">
-<!ENTITY viewToolbarsMenu.accesskey                     "N"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "N">
 
 
 <!ENTITY showAbToolbarCmd.label                         "Adresboek-nutsbalk">
@@ -99,7 +99,7 @@
 
 
 <!ENTITY menu_ShowNameAs.label                          "Vertoon naam as">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 
@@ -126,7 +126,7 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY preferencesCmdUnix.label                       "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey                   "k">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Nuwe kennis">
 <!ENTITY newContactButton.accesskey                     "k">
@@ -138,6 +138,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Kitsboodskappe">
 <!ENTITY newIM.accesskey                                "K">
+
+
 <!ENTITY deleteButton2.label                            "Skrap">
 <!ENTITY deleteButton2.accesskey                        "S">
 <!-- Address Book Toolbar Tooltips -->
@@ -147,7 +149,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Redigeer die gemerkte item">
 <!ENTITY newmsgButton.tooltip                           "Stuur 'n posboodskap">
 <!ENTITY newIM.tooltip                                  "Stuur 'n kitsboodskap of klets">
-<!ENTITY deleteButton2.tooltip                           "Skrap gemerkte item">
+<!ENTITY deleteButton2.tooltip                          "Skrap gemerkte item">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Adresboeke">
@@ -209,11 +211,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Vertoon padkaart van hierdie adres van die web af">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Venster">
-<!ENTITY minimizeWindow.label "Minimeer">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Bring alles na vore">
-<!ENTITY zoomWindow.label "Zoem">
+<!ENTITY windowMenu.label                               "Venster">
+<!ENTITY minimizeWindow.label                           "Minimeer">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Bring alles na vore">
+<!ENTITY zoomWindow.label                               "Zoem">

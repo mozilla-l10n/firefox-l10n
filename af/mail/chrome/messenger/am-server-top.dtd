@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Kontroleer vir nuwe boodskappe elke ">
 <!ENTITY biffStart.accesskey "e">
 <!ENTITY biffEnd.label "minute">
+
+
 <!ENTITY connectionSecurity.label "Verbindingsekuriteit:">
 <!ENTITY connectionSecurity.accesskey "V">
 <!ENTITY connectionSecurityType-0.label "Geen">

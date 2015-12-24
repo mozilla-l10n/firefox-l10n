@@ -137,6 +137,8 @@ maak seker dat &brandShortName; toegelaat word om toegang tot die web te verkry.
 
 
 
+
+
 <!ENTITY securityOverride.linkText "Of u kan 'n uitsondering byvoeg…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Eina! Laat ek weg wees!">
 <!ENTITY securityOverride.exceptionButtonLabel "Voeg uitsondering by…">
