@@ -99,16 +99,11 @@
 
 <!ENTITY settings "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY settings_title "ಸಿದ್ಧತೆಗಳು">
-<!ENTITY pref_category_input_options "ಇನ್‌ಪುಟ್ ಆಯ್ಕೆಗಳು">
-<!ENTITY pref_category_advanced "ಸುಧಾರಿತ">
-<!ENTITY pref_category_customize "ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸು">
-<!ENTITY pref_category_customize_summary "ಮನೆ, ಹುಡುಕು, ಹಾಳೆಗಳು, ಆಮದುಮಾಡು">
-<!ENTITY pref_category_customize_alt_summary "ಮನೆ, ಹುಡುಕು, ಹಾಳೆಗಳು, ನಂತರ ತೆಗೆ, ಆಮದುಮಾಡು">
+
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "ಭಾಷೆ">
 <!ENTITY pref_category_language_summary "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನ ಭಾಷೆ ಬದಲಾಯಿಸಿ">
 <!ENTITY pref_browser_locale "ವೀಕ್ಷಕದ ಭಾಷೆ">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,19 +137,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Firefox ಖಾತೆ ಸಂಪರ್ಕಿತಗೊಂಡಿರುವ ಸಾಧನಗಳು ಕಂಡುಬಂದಿಲ್ಲ">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "ಹುಡುಕು">
 <!ENTITY pref_category_search_summary "ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರನ್ನು ಗ್ರಾಹಕೀಯಗೊಳಿಸು">
-<!ENTITY pref_category_display "ಪ್ರದರ್ಶಿಸು">
-<!ENTITY pref_category_display_summary "ಪಠ್ಯ, ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ, ಪೂರ್ಣ ಪರದೆ ಜಾಲಾಟ">
+
+
 <!ENTITY pref_category_privacy_short "ಗೌಪ್ಯತೆ">
-<!ENTITY pref_category_privacy_summary2 "ನಿಯಂತ್ರಣ ಲಾಗಿನ್‌ಗಳು, ಕುಕೀಗಳು, ಜಾಡು ಇರಿಸುವಿಕೆ, ದತ್ತಾಂಶ">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "&brandShortName;,FAQs, ಡೇಟಾ ಆಯ್ಕೆಗಳು ಬಗ್ಗೆ">
+
+
+
 <!ENTITY pref_category_datareporting "ದತ್ತಾಂಶ ಆಯ್ಕೆಗಳು">
 <!ENTITY pref_learn_more "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY pref_category_installed_search_engines "ಅನುಸ್ಥಾಪಿಸಿರುವ ಸರ್ಚ್ ಎಂಜಿನ್‌ಗಳು">
@@ -168,12 +159,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: ಯಾವುದೇ ಜಾಲತಾಣವನ್ನು ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಅದರ ಹುಡುಕು ವಲಯದಲ್ಲಿ ದೀರ್ಘವಾಗಿ ಒತ್ತಿ ಮತ್ತು &formatI; ಲಾಂಛನದ ಮೇಲೆ ತಟ್ಟಿ.">
-<!ENTITY pref_category_devtools "ವಿಕಸನಾ ಉಪಕರಣಗಳು">
+
+
 <!ENTITY pref_developer_remotedebugging "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್">
 
 
 
-<!ENTITY pref_category_logins "ಲಾಗಿನ್‌ಗಳು">
 <!ENTITY pref_remember_signons2 "ಲಾಗಿನ್‌ಗಳನ್ನು ನೆನಪಿಡಿ">
 <!ENTITY pref_open_external_urls_privately_title "ಕೊಂಡಿಗಳನ್ನು ಖಾಸಗಿ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
 <!ENTITY pref_open_external_urls_privately_summary "&brandShortName; ನಲ್ಲಿ ತೆರೆಯಲಾದ ಎಲ್ಲ ಬಾಹ್ಯ ಕೊಂಡಿಗಳು">
@@ -189,28 +180,39 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ಅನ್ನು ಮುಖಪುಟಕ್ಕೆ ಸೇರಿಸಲಾಗಿದೆ">
 <!ENTITY pref_category_home_content_settings "ವಸ್ತುವಿಷಯದ ಸಿದ್ಧತೆಗಳು">
-<!ENTITY pref_home_updates "ಸ್ವಯಂಚಾಲಿತ ಅಪ್‌ಡೇಟ್‌ಗಳು">
+
 <!ENTITY pref_home_updates_enabled "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_home_updates_wifi "ವೈ-ಫೈ ಜೊತೆಗೆ ಮಾತ್ರ">
 <!ENTITY pref_home_suggested_sites "ತಾಣ ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY pref_home_suggested_sites_summary "ನಿಮ್ಮ ಮುಖಪುಟದಲ್ಲಿ ನಾವು ನಿಮಗೆ ಕುತೂಹಲಕಾರಿ ಎನಿಸುವ ತಾಣಗಳ ಕೊಂಡಿಗಳನ್ನು ಪ್ರದರ್ಶಿಸಿ">
 
 
-
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸು">
-<!ENTITY pref_header_display "ಪ್ರದರ್ಶಿಸು">
 <!ENTITY pref_header_privacy_short "ಗೌಪ್ಯತೆ">
+
+
 <!ENTITY pref_header_help "ಸಹಾಯ">
-<!ENTITY pref_header_language "ಭಾಷೆ">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "ವಿಕಸನಾ ಉಪಕರಣಗಳು">
+
 
 <!ENTITY pref_cookies_menu "ಕುಕಿಗಳು">
 <!ENTITY pref_cookies_accept_all "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_cookies_not_accept_foreign "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ, 3ನೆಯವರನ್ನು ಹೊರತುಪಡಿಸಿ">
 <!ENTITY pref_cookies_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
+
+
 
 
 
@@ -246,9 +248,11 @@
 <!ENTITY pref_char_encoding "ಅಕ್ಷರದ ಎನ್ಕೋಡಿಂಗ್">
 <!ENTITY pref_char_encoding_on "ಪರಿವಿಡಿ ತೋರಿಸು">
 <!ENTITY pref_char_encoding_off "ಪರಿವಿಡಿ ತೋರಿಸಬೇಡ">
-<!ENTITY pref_clear_private_data2 "ಈಗಲೆ ಅಳಿಸು">
-<!ENTITY pref_clear_private_data_category "ಖಾಸಗಿ ದತ್ತಾಂಶವನ್ನು ಖಾಲಿಮಾಡು">
-<!ENTITY pref_clear_on_exit_title2 "ನಿರ್ಗಮಿಸುವಾಗ ತೆರವುಗೊಳಿಸು">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "ಈಗಲೆ ಅಳಿಸು">
+
 <!ENTITY pref_clear_on_exit_summary2 "ನೀವು ಮುಖ್ಯ ಪರಿವಿಡಿಯಿಂದ \u0022\u0027ಆಚೆ ಬಾ\u0027\u0022ವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದಾಗ &brandShortName; ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿಮ್ಮ ಡೇಟಾವನ್ನು ತೆರವುಗೊಳಿಸುವುದು">
 <!ENTITY pref_clear_on_exit_dialog_title "ಯಾವ ಡೇಟಾ ತೆರವುಗೊಳಿಸಬೇಕು ಆಯ್ಕೆಮಾಡು">
 <!ENTITY pref_plugins "ಪ್ಲಗ್‌ಇನ್‌ಗಳು">
@@ -256,7 +260,7 @@
 <!ENTITY pref_plugins_tap_to_play "ಆಡಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
 <!ENTITY pref_plugins_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_text_size "ಪಠ್ಯದ ಗಾತ್ರ">
-<!ENTITY pref_restore "ಟ್ಯಾಬ್‌ಗಳು">
+
 <!ENTITY pref_restore_always "ಯಾವಾಗಲೂ ಮರುಸ್ಥಾಪಿಸು">
 <!ENTITY pref_restore_quit "&brandShortName; ನಿಂದ ಆಚೆ ಬಂದಾಗ, ರಿಸ್ಟೋರ್ ಮಾಡಬೇಡಿ">
 <!ENTITY pref_font_size_tiny "ಅತಿ ಚಿಕ್ಕದು">
@@ -281,16 +285,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "ಜೂಮ್‌ ಅನ್ನು ಯಾವಾಗಲೂ ಸಕ್ರಿಯವಾಗಿರಿಸು">
 <!ENTITY pref_zoom_force_enabled_summary "ಯಾವುದೇ ಪುಟವನ್ನು ಜೂಮ್ ಮಾಡುವಂತಾಗಲು ಆದೇಶವನ್ನು ದಾಟಿ">
 <!ENTITY pref_voice_input "‍‍ಧ್ವನಿಯ ಇನ್‌ಪುಟ್">
-<!ENTITY pref_voice_input_summary "‍‍‍‍ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ಧ್ವನಿ ಉತ್ಕಲೇಖನವನ್ನು ಅನುಮತಿಸು">
+
 <!ENTITY pref_qrcode_enabled "QR ಸಂಕೇತ ಓದುಗ">
-<!ENTITY pref_qrcode_enabled_summary "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ QR ಶೋಧಕವನ್ನು ಅನುಮತಿಸು">
+
 
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
-<!ENTITY pref_sync "ಸಿಂಕ್">
+
 <!ENTITY pref_sync_summary2 "ನಿಮ್ಮ ಹಾಳೆಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶ ಪದಗಳು, ಇತಿಹಾಸ ಸಿಂಕ್ ಮಾಡಿ">
 <!ENTITY pref_search_suggestions "ಹುಡುಕಲು ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
 
-<!ENTITY pref_import_android "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು">
+
 <!ENTITY pref_import_android_summary "ಸ್ಥಳೀಯ ಬ್ರೌಸರ್‌ನಿಂದ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡು">
 <!ENTITY pref_private_data_history2 "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
 <!ENTITY pref_private_data_searchHistory "ಇತಿಹಾಸವನ್ನು ಹುಡುಕು">
@@ -347,18 +351,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡು">
 <!ENTITY pref_update_autodownload_wifi "ವೈ-ಫೈ ಜೊತೆಗೆ ಮಾತ್ರ">
 <!ENTITY pref_update_autodownload_never "ಎಂದಿಗೂ ಬೇಡ">
-<!ENTITY pref_update_autodownload_always "ಯಾವಾಗಲೂ">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "ಸಹಾಯ">
 
 <!ENTITY quit "ನಿರ್ಗಮಿಸು">
 
-<!ENTITY addons "ಆಡ್-ಆನ್‌ಗಳು">
-<!ENTITY logins "ಲಾಗಿನ್‌ಗಳು">
+
 <!ENTITY downloads "ಇಳಿಕೆಗಳು">
 <!ENTITY char_encoding "ಅಕ್ಷರಗಳ ಎನ್ಕೋಡಿಂಗ್‍">
 
@@ -375,7 +377,7 @@ size. -->
 <!ENTITY new_private_tab "ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್">
 <!ENTITY close_all_tabs "ಎಲ್ಲ ಟ್ಯಾಬ್‍ಗಳನ್ನು ಮುಚ್ಚು">
 <!ENTITY close_private_tabs "ಖಾಸಗಿ ಹಾಳೆಗಳನ್ನು ಮುಚ್ಚು">
-<!ENTITY tabs_normal "ಟ್ಯಾಬ್‌ಗಳು">
+
 <!ENTITY tabs_private "ಖಾಸಗಿ">
 <!ENTITY tabs_synced "ಮೇಳೈಸಿದೆ">
 <!ENTITY set_image_fail "ಚಿತ್ರವನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
@@ -428,10 +430,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "‍ಗುಪ್ತಪದವನ್ನು ಪ್ರತಿ ಮಾಡಲು ಆಗಲಿಲ್ಲ">
 <!ENTITY doorhanger_login_select_action_text "‍ಇನ್ನೊಂದು ಲಾಗಿನ್ ಅನ್ನು ‍ಆರಿಸಿ">
 <!ENTITY doorhanger_login_select_title "ಇದರಿಂದ ಗುಪ್ತಪದವನ್ನು ನಕಲಿಸಿ">
-
-<!ENTITY pref_titlebar_mode "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
-<!ENTITY pref_titlebar_mode_title "ಪುಟದ ಶೀರ್ಷಿಕೆ ತೋರಿಸು">
-<!ENTITY pref_titlebar_mode_url "ಪುಟದ ವಿಳಾಸ ತೋರಿಸು">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -439,7 +437,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "ಪೂರ್ಣ-ತೆರೆಯಲ್ಲಿ ಜಾಲಾಡುವಿಕೆ">
-<!ENTITY pref_scroll_title_bar_summary "&brandShortName; ನ ಟೈಟಲ್ ಬಾರನ್ನು ಪುಟವೊಂದರಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡುವಾಗ ಅಡಗಿಸು">
+
 
 <!ENTITY pref_tab_queue_title2 "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆ">
 
@@ -459,7 +457,6 @@ size. -->
 <!ENTITY site_settings_title3       "ತಾಣದ ಸಂಯೋಜನೆಗಳು">
 <!ENTITY site_settings_cancel       "ರದ್ದು ಮಾಡು">
 <!ENTITY site_settings_clear        "ಅಳಿಸು">
-<!ENTITY site_settings_no_settings  "ಅಳಿಸಲು ಯಾವುದೇ ಸಿದ್ಧತೆಗಳಿಲ್ಲ.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "ನಿಮ್ಮ ಓದು ಪಟ್ಟಿಯಿಂದ ಪುಟವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ">
@@ -498,8 +495,6 @@ size. -->
 <!ENTITY home_top_sites_add "ತಾಣವನ್ನು ಸೇರಿಸು">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "&brandShortName; ಮುಖಪುಟ">
 <!ENTITY home_history_title "ಇತಿಹಾಸ">
 <!ENTITY home_clear_history_button "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ">
 <!ENTITY home_clear_history_confirm "ನೀವು ಇತಿಹಾಸವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲು ಬಯಸಿದ್ದು ಖಚಿತವೆ?">
@@ -513,14 +508,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1; ಅನ್ನು ಬಳಸಲಾಗುತ್ತಿದೆ;ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್&formatS2; ನಿಮ್ಮ ಇತಿಹಾಸವನ್ನು ಉಳಿಸುವುದಿಲ್ಲ.">
 <!ENTITY home_reading_list_empty "ನಂತರ ಓದಲು ಉಳಿಸಿದ ಲೇಖನಗಳನ್ನು ಇಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "TIP: ಲೇಖನಗಳನ್ನು ನಿಮ್ಮ ಓದುಪಟ್ಟಿಗೆ, &formatI; ಚಿನ್ಹೆಯು ಶಿರೋನಾಮೆ ಪಟ್ಟಿಯಲ್ಲಿ ಕಾಣಿಸಿದಾಗ ಅದನ್ನು ದೀರ್ಘ ಒತ್ತುವಿಕೆಯಿಂದ ಉಳಿಸಿ.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "TIP: ಲೇಖನಗಳನ್ನು ನಿಮ್ಮ ಓದುಪಟ್ಟಿಗೆ, ಓದುಗ ಕ್ರಮ ಗುಂಡಿಯು ಶಿರೋನಾಮೆ ಪಟ್ಟಿಯಲ್ಲಿ ಕಾಣಿಸಿದಾಗ ಅದನ್ನು ದೀರ್ಘ ಒತ್ತುವಿಕೆಯಿಂದ ಉಳಿಸಿ.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -708,20 +701,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY restriction_disallow_import_settings_title2 "\u0027ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು\u0027 ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ">
-<!ENTITY restriction_disallow_addons_title2 "ಆಡ್-ಆನ್ ಅನುಸ್ಥಾಪಿಸುವುದನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ">
-<!ENTITY restriction_disallow_devtools_title2 "ವಿಕಸನಾ ಉಪಕರಣಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY restriction_disallow_customize_home_title2 "ಮನೆಯ ಅಗತ್ಯಾನುಗುಣಗೊಳಿಕೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY restriction_disallow_private_browsing_title2 "ಖಾಸಗಿ ವೀಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY restriction_disallow_location_services_title2 "ಸ್ಥಳಾಧಾರಿತ ಸೇವೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY restriction_disallow_display_settings_title2 "ಪ್ರದರ್ಶಕ ಸಿದ್ದತೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY restriction_disallow_clear_history_title2 "\u0027ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ\u0027 ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY restriction_disallow_master_password_title2 "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY restriction_disallow_guest_browsing_title2 "ಅತಿಥಿ ಜಾಲಾಟ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY restrictable_feature_private_browsing "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
+
+
+
+
+
+
+
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -732,3 +725,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_support "Firefox: ಬೆಂಬಲ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
