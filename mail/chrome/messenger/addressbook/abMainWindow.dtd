@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Naglěd">
 <!ENTITY viewMenu.accesskey                             "N">
 <!ENTITY viewToolbarsMenu.label                         "Symbolowe rědki">
-<!ENTITY viewToolbarsMenu.accesskey                     "S"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "S">
 <!ENTITY menubarCmd.label                               "Menijowa rědka">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Symbolowa rědka adresnika">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Kontaktowy wobłuk">
 <!ENTITY showContactPane2.accesskey                     "K">
 <!ENTITY menu_ShowNameAs.label                          "Mě pokazaś ako">
-<!ENTITY menu_ShowNameAs.accesskey                      "o"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "o">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Pśedmě swójźbne mě">
-<!ENTITY firstLastCmd2.accesskey                        "P"> 
+<!ENTITY firstLastCmd2.accesskey                        "P">
 <!ENTITY lastFirstCmd.label                             "Swójźbne mě, pśedmě">
 <!ENTITY lastFirstCmd.accesskey                         "S">
 <!ENTITY displayNameCmd.label                           "Zwobraznjone mě">
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "N">
 <!ENTITY preferencesCmdUnix.label                       "Preference">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Nowy kontakt">
 <!ENTITY newContactButton.accesskey                     "k">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "s">
 <!ENTITY newIM.label                                    "Direktna powěsć">
 <!ENTITY newIM.accesskey                                "D">
+
+
 <!ENTITY deleteButton2.label                            "Lašowaś">
 <!ENTITY deleteButton2.accesskey                        "L">
 <!-- Address Book Toolbar Tooltips -->
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Wubrany zapisk wobźěłaś">
 <!ENTITY newmsgButton.tooltip                           "E-mail pósłaś">
 <!ENTITY newIM.tooltip                                  "Direktnu powěsć pósłaś abo chat">
-<!ENTITY deleteButton2.tooltip                           "Wubrany zapisk lašowaś">
+<!ENTITY deleteButton2.tooltip                          "Wubrany zapisk lašowaś">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Adresniki">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Kórtu toś teje adrese z weba zwobrazniś">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Wokno">
-<!ENTITY minimizeWindow.label "Miniměrowaś">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Do prědka stajiś">
-<!ENTITY zoomWindow.label "Skalěrowaś">
+<!ENTITY windowMenu.label                               "Wokno">
+<!ENTITY minimizeWindow.label                           "Miniměrowaś">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Do prědka stajiś">
+<!ENTITY zoomWindow.label                               "Skalěrowaś">

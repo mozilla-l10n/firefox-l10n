@@ -84,20 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Wjelikosć">
 <!ENTITY fontSizeMenu.accesskey "W">
-<!ENTITY size-xx-smallCmd.label "wjelgickano mały">
-<!ENTITY size-xx-smallCmd.accesskey "c">
-<!ENTITY size-x-smallCmd.label "wjelgin mały">
-<!ENTITY size-x-smallCmd.accesskey "w">
-<!ENTITY size-smallCmd.label "mały">
-<!ENTITY size-smallCmd.accesskey "m">
-<!ENTITY size-mediumCmd.label "srjejźny">
-<!ENTITY size-mediumCmd.accesskey "s">
-<!ENTITY size-largeCmd.label "wjeliki">
-<!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "wjelgin wjeliki">
-<!ENTITY size-x-largeCmd.accesskey "e">
-<!ENTITY size-xx-largeCmd.label "wjelgickano wjeliki">
-<!ENTITY size-xx-largeCmd.accesskey "l">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Tekstowy stil">
@@ -313,7 +311,6 @@
 <!ENTITY throbber.tooltip "K startowemu bokoju &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Wuzwignjeńsku barwu za tekst wubraś">
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mjeńša pismowa wjelikosć">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Wětša pismowa wjelikosć">
 <!ENTITY boldToolbarCmd.tooltip "Tucny">
