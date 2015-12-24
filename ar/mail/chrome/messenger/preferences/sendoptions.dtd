@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "خيارات الإرسال">
 <!ENTITY sendMail.title               "تنسيق النص">
+
+
 <!ENTITY sendMaildesc.label           "عند إرسال رسائل بتنسيق HTML ولم يكن واحد أو أكثر من المستلمين في قائمة من يستطيع استقبال رسائل HTML:">
 <!ENTITY askMe.label                  "اسألني ماذا ستفعل">
 <!ENTITY askMe.accesskey              "س">

@@ -84,20 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "الحجم">
 <!ENTITY fontSizeMenu.accesskey "ج">
-<!ENTITY size-xx-smallCmd.label "صغير جدا جدا">
-<!ENTITY size-xx-smallCmd.accesskey "د">
-<!ENTITY size-x-smallCmd.label "صغير جدا">
-<!ENTITY size-x-smallCmd.accesskey "ج">
-<!ENTITY size-smallCmd.label "صغير">
-<!ENTITY size-smallCmd.accesskey "ص">
-<!ENTITY size-mediumCmd.label "متوسط">
-<!ENTITY size-mediumCmd.accesskey "ط">
-<!ENTITY size-largeCmd.label "كبير">
-<!ENTITY size-largeCmd.accesskey "ك">
-<!ENTITY size-x-largeCmd.label "كبير جدا">
-<!ENTITY size-x-largeCmd.accesskey "ب">
-<!ENTITY size-xx-largeCmd.label "كبير جدا جدا">
-<!ENTITY size-xx-largeCmd.accesskey "ي">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "طراز النص">
@@ -313,7 +311,6 @@
 <!ENTITY throbber.tooltip "اذهب إلي صفحة &vendorShortName; الرئيسية">
 <!ENTITY HighlightColorButton.tooltip "اختر لون إبراز النص">
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "خط أصغر">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "خط أكبر">
 <!ENTITY boldToolbarCmd.tooltip "عريض">

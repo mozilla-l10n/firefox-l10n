@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "ظ">
 <!ENTITY dualUseFolders.label "يدعم الخادوم المجلدات التي تحوي مجلدات فرعيّة ورسائل">
 <!ENTITY dualUseFolders.accesskey "م">
-<!ENTITY useIdle.label "استخدم الأمر IDLE إذا كان الخادوم يدعمه">
-<!ENTITY useIdle.accesskey "س">
 <!ENTITY maximumConnectionsNumber.label "العدد الأقصى للاتّصالات بالخادوم التي ستُستبقى">
 <!ENTITY maximumConnectionsNumber.accesskey "ع">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "ن">
 <!ENTITY overrideNamespaces.label "اسمح للخادوم بتعديل فضاء التسمية هذا">
 <!ENTITY overrideNamespaces.accesskey "س">
-<!ENTITY pop3Desc.label "عند تنزيل بريد pop من هذا الخادوم، استخدم المجلد التالي للبريد الجديد:" >
-<!ENTITY accountDirectory.label "صندوق الوارد لحساب الخادوم هذا">
-<!ENTITY accountDirectory.accesskey "ه">
+
+
+
 <!ENTITY deferToServer.label "صندوق الوارد لحساب آخر">
 <!ENTITY deferToServer.accesskey "خ">
 <!ENTITY deferGetNewMail.label "اشمل هذا الخادوم عند جلب البريد الجديد">
