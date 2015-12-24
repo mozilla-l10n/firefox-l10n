@@ -6,14 +6,14 @@
 
 
 <!ENTITY closeCmd.key  "W">
-
+<!ENTITY toggleToolbox.key  "I">
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
 <!ENTITY toolboxCloseButton.tooltip    "بستن ابزار توسعه دهنده">
-
-
-
+<!ENTITY toolboxOptionsButton.key      "O">
+<!ENTITY toolboxNextTool.key           "]">
+<!ENTITY toolboxPreviousTool.key       "[">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey, fullZoomEnlargeCmd.commandkey2,
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey,
@@ -21,54 +21,88 @@ fullZoomReduceCmd.commandkey2, fullZoomResetCmd.commandkey,
 and fullZoomResetCmd.commandkey2 should all match the corresponding
 values from browser.dtd.  -->
 
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
+<!ENTITY toolboxReload.key             "r">
 <!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
+<!ENTITY toolboxToggleMinimize.key     "U">
 
+<!ENTITY toolboxToggle.key             "d">
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
+<!ENTITY toolboxFramesTooltip          "انتخاب یک iframe به عنوان سندِ هدفِ فعلی">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "خطا در باز کردن جعبه‌ابزار مرورگر:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
+
+<!ENTITY options.context.advancedSettings "تنظیمات پیشرفته">
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
+
+<!ENTITY options.context.inspector "بازرس‌">
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
+<!ENTITY options.showUserAgentStyles.label "نمایش سبک‌های مرورگر">
+<!ENTITY options.showUserAgentStyles.tooltip "روشن کردن این باعث می‌شود سبک‌های پیش‌فرضی که مرورگر بارگیری کرده است نمایش داده شوند.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.label "واحد رنگی پیش‌فرض">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.accesskey "u">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hex "Hex">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
+
+<!ENTITY options.defaultColorUnit.name "نام رنگ‌ها">
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh  "تنها نشست فعلی، صفحه را بازآوری می‌کند">
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label5    "فعال‌سازی کروم مرورگر و ابزارهای رفع‌اشکال افزودنی‌ها">
+
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
+
+<!ENTITY options.enableRemote.label3    "فعال‌سازی رفع‌اشکال از راه دور">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -91,10 +125,14 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label     "ابزارهای توسعه پیش‌فرض فایرفاکس">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
+
+<!ENTITY options.selectAdditionalTools.label  "ابزارهای توسعه نصب شده توسط افزودنی‌ها">
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
@@ -109,9 +147,11 @@ values from browser.dtd.  -->
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label2   "تم و زمینه ها">
+<!ENTITY options.selectDevToolsTheme.label2   "تم‌ها">
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+
+<!ENTITY options.usedeveditiontheme.label   "استفاده از تم مرورگرِ ویرایش توسعه‌دهندگان">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
@@ -120,39 +160,53 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
+<!ENTITY options.timestampMessages.label      "فعال‌سازی برچسب زمانی">
+
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
+
+<!ENTITY options.styleeditor.label            "ویرایشگر سبک">
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
+<!ENTITY options.stylesheetSourceMaps.label      "نمایش منابع اصلی">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "نمایش منابع اصلی (مثلا پرونده‌های Sass) در «ویرایشگر سبک» و «بازرس»">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+
+<!ENTITY options.stylesheetAutocompletion.label      "تکمیل خودکار CSS">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
+
+<!ENTITY options.commonPrefs.label           "ترجیحات معمول">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
+
+<!ENTITY options.enablePersistentLogs.label    "فعال‌سازی وقایع پایدار">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 
+<!ENTITY options.showPlatformData.label    "نمایش اطلاعات بستر Gecko">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
 
 <!ENTITY options.sourceeditor.label                     "ترجیحات ویرایشگر">
+<!ENTITY options.sourceeditor.detectindentation.label   "تشخیص تورفتگی">
 
-
-
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "بستن خودکار براکت‌ها">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "افزودن خودکار براکت بسته">
-
-
+<!ENTITY options.sourceeditor.expandtab.label           "تورفتگی با استفاده از فاصله">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "استفاده از فاصله به جای نویسه تب">
 <!ENTITY options.sourceeditor.tabsize.label             "&amp; اندازۀ زبانه">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 
