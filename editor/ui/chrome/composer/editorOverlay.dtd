@@ -84,8 +84,6 @@
 
 
 
-
-
 <!-- Font Style SubMenu -->
 
 <!ENTITY styleBoldCmd.label "Қалың">
@@ -284,6 +282,7 @@
 
 
 <!-- Editor toolbar -->
+
 
 <!ENTITY boldToolbarCmd.tooltip "Жуан">
 <!ENTITY italicToolbarCmd.tooltip "Көлбеу">
