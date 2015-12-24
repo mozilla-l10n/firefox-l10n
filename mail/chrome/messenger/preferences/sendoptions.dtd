@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Gönderme Seçenekleri">
 <!ENTITY sendMail.title               "Metin Biçimi">
+
+
 <!ENTITY sendMaildesc.label           "İletiyi HTML biçiminde gönderirken ve alıcılardan biri veya daha fazlası HTML ileti alamıyorken:">
 <!ENTITY askMe.label                  "Ne yapılacağını bana sor">
 <!ENTITY askMe.accesskey              "N">

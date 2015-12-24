@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Yeni iletileri her ">
 <!ENTITY biffStart.accesskey "h">
 <!ENTITY biffEnd.label "dakikada bir kontrol et">
+
+
 <!ENTITY connectionSecurity.label "Bağlantı güvenliği: ">
 <!ENTITY connectionSecurity.accesskey "ü">
 <!ENTITY connectionSecurityType-0.label "Hiçbiri">
