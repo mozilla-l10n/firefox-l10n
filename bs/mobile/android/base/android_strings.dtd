@@ -99,16 +99,11 @@
 
 <!ENTITY settings "Postavke">
 <!ENTITY settings_title "Postavke">
-<!ENTITY pref_category_input_options "Opcije unosa">
-<!ENTITY pref_category_advanced "Napredno">
-<!ENTITY pref_category_customize "Prilagodi">
-<!ENTITY pref_category_customize_summary "Početna, pretraživanje, tabovi, uvoz">
-<!ENTITY pref_category_customize_alt_summary "Početna, pretraživanje, tabovi, otvori kasnije, uvoz">
+
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "Jezik">
 <!ENTITY pref_category_language_summary "Promijenite jezik vašeg browsera">
 <!ENTITY pref_browser_locale "Jezik browsera">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,19 +137,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Nisu pronađeni uređaji povezani na Firefox račun">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "Traži">
 <!ENTITY pref_category_search_summary "Prilagodite svoje pretraživače">
-<!ENTITY pref_category_display "Ekran">
-<!ENTITY pref_category_display_summary "Tekst, naslovna traka, surfanje preko cijelog ekrana">
+
+
 <!ENTITY pref_category_privacy_short "Privatnost">
-<!ENTITY pref_category_privacy_summary2 "Kontrola prijava, kolačići, praćenje, podaci">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "O &brandShortName;u, često postavljana pitanja, izbori podataka">
+
+
+
 <!ENTITY pref_category_datareporting "Izbori podataka">
 <!ENTITY pref_learn_more "Saznajte više">
 <!ENTITY pref_category_installed_search_engines "Instalirani pretraživači">
@@ -168,12 +159,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "SAVJET: Dodajte bilo koju stranicu na listu pretraživača dugim pritiskom na njeno polje za pretragu i zatim dodirom na &formatI; ikonu.">
-<!ENTITY pref_category_devtools "Razvojni alati">
+
+
 <!ENTITY pref_developer_remotedebugging "Udaljeno debagiranje">
 <!ENTITY pref_developer_remotedebugging_usb "Udaljeno debagiranje preko USB-a">
 <!ENTITY pref_developer_remotedebugging_wifi "Udaljeno debagiranje preko Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debagiranje zahtijeva d vaš uređaj ima instaliran čitač QR koda.">
-<!ENTITY pref_category_logins "Prijave">
 <!ENTITY pref_remember_signons2 "Zapamti prijave">
 <!ENTITY pref_open_external_urls_privately_title "Otvori linkove u privatnom surfanju">
 <!ENTITY pref_open_external_urls_privately_summary "Za sve vanjske linkove otvorene u &brandShortName;u">
@@ -189,28 +180,39 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "&formatS; dodan na početnu stranicu">
 <!ENTITY pref_category_home_content_settings "Postavke sadržaja">
-<!ENTITY pref_home_updates "Automatske nadogradnje">
+
 <!ENTITY pref_home_updates_enabled "Omogućeno">
 <!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Prikaži prijedloge stranica">
 <!ENTITY pref_home_suggested_sites_summary "Na početnoj stranici prikazati linkove na stranice za koje mislimo da će vam biti interesantne">
 
 
-
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Prilagodi">
-<!ENTITY pref_header_display "Ekran">
 <!ENTITY pref_header_privacy_short "Privatnost">
+
+
 <!ENTITY pref_header_help "Pomoć">
-<!ENTITY pref_header_language "Jezik">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Razvojni alati">
+
 
 <!ENTITY pref_cookies_menu "Kolačići">
 <!ENTITY pref_cookies_accept_all "Omogućeno">
 <!ENTITY pref_cookies_not_accept_foreign "Omogućeno, isključujući treća lica">
 <!ENTITY pref_cookies_disabled "Onemogućeno">
+
+
 
 
 
@@ -247,9 +249,11 @@
 <!ENTITY pref_char_encoding "Enkodiranje karaktera">
 <!ENTITY pref_char_encoding_on "Prikaži meni">
 <!ENTITY pref_char_encoding_off "Ne prikazuj meni">
-<!ENTITY pref_clear_private_data2 "Obriši odmah">
-<!ENTITY pref_clear_private_data_category "Obriši privatne podatke">
-<!ENTITY pref_clear_on_exit_title2 "Obriši pri izlazu">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Obriši odmah">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; će automatski brisati vaše podatke svaki put kada izaberete \u0022Quit\u0022 u glavnom meniju">
 <!ENTITY pref_clear_on_exit_dialog_title "Izaberite podatke za brisanje">
 <!ENTITY pref_plugins "Plugini">
@@ -257,7 +261,7 @@
 <!ENTITY pref_plugins_tap_to_play "Dodirnite za play">
 <!ENTITY pref_plugins_disabled "Onemogućeno">
 <!ENTITY pref_text_size "Veličina teksta">
-<!ENTITY pref_restore "Tabovi">
+
 <!ENTITY pref_restore_always "Uvijek vrati">
 <!ENTITY pref_restore_quit "Ne vraćaj nakon izlaza iz &brandShortName;a">
 <!ENTITY pref_font_size_tiny "Sićušan">
@@ -282,16 +286,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Uvijek omogući zumiranje">
 <!ENTITY pref_zoom_force_enabled_summary "Prisilno zaobiđi postavke da bi mogli zumirati svaku stranicu">
 <!ENTITY pref_voice_input "Glasovni unos">
-<!ENTITY pref_voice_input_summary "Dozvoli unos glasom u naslovnu traku">
+
 <!ENTITY pref_qrcode_enabled "Čitač QR koda">
-<!ENTITY pref_qrcode_enabled_summary "Dozvoli QR skener u naslovnoj traci">
+
 
 <!ENTITY pref_use_master_password "Koristi glavnu lozinku">
-<!ENTITY pref_sync "Sync">
+
 <!ENTITY pref_sync_summary2 "Sinhronizujte svoje tabove, zabilješke, prijave, historiju">
 <!ENTITY pref_search_suggestions "Prikaži prijedloge pretraživanja">
 
-<!ENTITY pref_import_android "Uvezi iz Androida">
+
 <!ENTITY pref_import_android_summary "Uvezi zabilješke i historiju iz nativnog browsera">
 <!ENTITY pref_private_data_history2 "Historija surfanja">
 <!ENTITY pref_private_data_searchHistory "Historija pretraživanja">
@@ -348,18 +352,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Automatski preuzmi nadogradnje">
 <!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nikad">
-<!ENTITY pref_update_autodownload_always "Uvijek">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Pomoć">
 
 <!ENTITY quit "Izlaz">
 
-<!ENTITY addons "Add-oni">
-<!ENTITY logins "Prijave">
+
 <!ENTITY downloads "Preuzimanja">
 <!ENTITY char_encoding "Enkodiranje karaktera">
 
@@ -376,7 +378,7 @@ size. -->
 <!ENTITY new_private_tab "Novi privatni tab">
 <!ENTITY close_all_tabs "Zatvori sve tabove">
 <!ENTITY close_private_tabs "Zatvori privatne tabove">
-<!ENTITY tabs_normal "Tabovi">
+
 <!ENTITY tabs_private "Privatno">
 <!ENTITY tabs_synced "Sinhronizirano">
 <!ENTITY set_image_fail "Ne mogu postaviti sliku">
@@ -429,10 +431,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "Neuspjelo kopiranje lozinke">
 <!ENTITY doorhanger_login_select_action_text "Izaberite drugu prijavu">
 <!ENTITY doorhanger_login_select_title "Kopiraj lozinku iz">
-
-<!ENTITY pref_titlebar_mode "Naslovna traka">
-<!ENTITY pref_titlebar_mode_title "Prikaži naslov stranice">
-<!ENTITY pref_titlebar_mode_url "Prikaži adresu stranice">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -440,7 +438,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Surfanje preko cijelog ekrana">
-<!ENTITY pref_scroll_title_bar_summary "Sakrij &brandShortName; naslovnu traku prilikom skrolanja dolje po stranici">
+
 
 <!ENTITY pref_tab_queue_title2 "Otvori više linkova">
 <!ENTITY pref_tab_queue_summary3 "Spasite ih do sljedećeg pokretanja &brandShortName;a">
@@ -460,7 +458,6 @@ size. -->
 <!ENTITY site_settings_title3       "Postavke stranice">
 <!ENTITY site_settings_cancel       "Otkaži">
 <!ENTITY site_settings_clear        "Obriši">
-<!ENTITY site_settings_no_settings  "Nema postavki za brisanje.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -501,8 +498,6 @@ size. -->
 <!ENTITY home_top_sites_add "Dodaj stranicu">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "&brandShortName; početna">
 <!ENTITY home_history_title "Historija">
 <!ENTITY home_clear_history_button "Obriši historiju surfanja">
 <!ENTITY home_clear_history_confirm "Da li ste sigurni da želite obrisati vašu historiju?">
@@ -516,14 +511,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Šššš: korištenjem &formatS1;Novog privatnog taba&formatS2; vaša historija se neće pamtiti.">
 <!ENTITY home_reading_list_empty "Članci koje spasite za kasnije će se pojaviti ovdje.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "SAVJET: Spasite članke u listu za čitanje dugim pritiskom na &formatI; ikonu kada se pojavi u naslovnoj traci.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "SAVJET: Spasite članke u listu za čitanje dugim pritiskom na dugme režima za čitanje kada se pojavi u naslovnoj traci.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -713,23 +706,28 @@ iz Androida">
      code. -->
 
 <!ENTITY devtools_auth_scan_header "Skeniram za QR kod prikazan na vašem drugom uređaju">
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY restriction_disallow_import_settings_title2 "Onemogući \u0027Uvoz iz Androida\u0027">
-<!ENTITY restriction_disallow_addons_title2 "Onemogući instalaciju add-ona">
-<!ENTITY restriction_disallow_devtools_title2 "Onemogući razvojne alate">
-<!ENTITY restriction_disallow_customize_home_title2 "Onemogući prilagođavanje početnog ekrana">
-<!ENTITY restriction_disallow_private_browsing_title2 "Onemogući privatno surfanje">
-<!ENTITY restriction_disallow_location_services_title2 "Onemogući usluge lociranja">
-<!ENTITY restriction_disallow_display_settings_title2 "Onemogući postavke ekrana">
-<!ENTITY restriction_disallow_clear_history_title2 "Onemogući \u0027Obriši historiju surfanja\u0027">
-<!ENTITY restriction_disallow_master_password_title2 "Onemogući glavnu lozinku">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Onemogući gostujuće surfanje">
+
+
+
+
+
+
+
+
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
