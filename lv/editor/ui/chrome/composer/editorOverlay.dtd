@@ -84,8 +84,6 @@
 
 
 
-
-
 <!-- Font Style SubMenu -->
 
 
@@ -279,7 +277,6 @@
 
 
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mazāks fonta izmērs">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Lielāks fonta izmērs">
 <!ENTITY boldToolbarCmd.tooltip "Treknraksts">
