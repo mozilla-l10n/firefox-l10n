@@ -101,16 +101,11 @@
 
 <!ENTITY settings "Nastajenja">
 <!ENTITY settings_title "Nastajenja">
-<!ENTITY pref_category_input_options "Zapódawańske nastajenja">
-<!ENTITY pref_category_advanced "Rozšyrjone">
-<!ENTITY pref_category_customize "Pśiměriś">
-<!ENTITY pref_category_customize_summary "Startowy bok, pytanje, rejtarki, import">
-<!ENTITY pref_category_customize_alt_summary "Startowy bok, pytanje, rejtarki, pózdźej wócyniś, importěrowaś">
+
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "Rěc">
 <!ENTITY pref_category_language_summary "Změńśo rěc swójogo wobglědowaka">
 <!ENTITY pref_browser_locale "Rěc wobglědowaka">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -144,21 +139,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Žedne rědy namakane, kótarež su z kontom Firefox zwězane">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-
-<!ENTITY menu_no_synced_devices "Toś ten rejtark na drugi zwězany rěd pósłaś">
 
 <!ENTITY pref_category_search3 "Pytaś">
 <!ENTITY pref_category_search_summary "Pśiměrśo swójich pytańskich póbitowarjow">
-<!ENTITY pref_category_display "Zwobrazniś">
-<!ENTITY pref_category_display_summary "Tekst, titelowa rědka, pśeglědowanje w połnej wobrazowce">
+
+
 <!ENTITY pref_category_privacy_short "Priwatnosć">
-<!ENTITY pref_category_privacy_summary2 "Pśizjawjenja, cookieje, slědowanje, daty kontrolěrowaś">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Wó &brandShortName;, ceste pšašanja, wuběrk datow">
+
+
+
 <!ENTITY pref_category_datareporting "Datowy wuběrki">
 <!ENTITY pref_learn_more "Dalšne informacije">
 <!ENTITY pref_category_installed_search_engines "Zainstalěrowane pytnice">
@@ -172,12 +161,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "POKAZKA: Pśidajśo swójej lisćinje pytańskich póbitowarjow websedło, z tym až dłujko na jogo pytańske pólo a pótusniśo pótom symbol &formatI;.">
-<!ENTITY pref_category_devtools "Wuwijarske rědy">
+
+
 <!ENTITY pref_developer_remotedebugging "Daloke pytanje za zmólkami">
 <!ENTITY pref_developer_remotedebugging_usb "Daloke pytanje zmólkow pśez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Daloke pytanje zmólkow pśez WLAN">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Pytanje zmólkow pśez WLAN se pomina, až QR-kodowy cytak jo na wašom rěźe instalěrowany.">
-<!ENTITY pref_category_logins "Pśizjawjenja">
 <!ENTITY pref_remember_signons2 "Pśizjawjenja se spomnjeś">
 <!ENTITY pref_open_external_urls_privately_title "Wótkaze w priwatnem modusu wócyniś">
 <!ENTITY pref_open_external_urls_privately_summary "Za wšykne eksterne wótkaze, kótarež se w &brandShortName; wócynjaju">
@@ -193,31 +182,41 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 jo se startowemu bokoju pśidał">
 <!ENTITY pref_category_home_content_settings "Wopśimjeśowe nastajenja">
-<!ENTITY pref_home_updates "Awtomatiske aktualizacije">
+
 <!ENTITY pref_home_updates_enabled "Zmóžnjony">
 <!ENTITY pref_home_updates_wifi "Jano pśez Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Sedłowe naraźenja pokazaś">
 <!ENTITY pref_home_suggested_sites_summary "Tastowe skrotconki za sedła na wašom startowem boku zwobrazniś, wó kótarychž myslimy, až wy maśo je za zajmne">
 <!ENTITY pref_category_home_homepage "Startowy bok">
 <!ENTITY home_homepage_title "Startowy bok póstajiś">
-<!ENTITY home_homepage_use_current_tab "Aktualny rejtark wužywaś">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Pśiměriś">
-<!ENTITY pref_header_display "Zwobrazniś">
 <!ENTITY pref_header_privacy_short "Priwatnosć">
+
+
 <!ENTITY pref_header_help "Pomoc">
-<!ENTITY pref_header_language "Rěc">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Wuwijarske rědy">
+
 
 <!ENTITY pref_cookies_menu "Cookieje">
 <!ENTITY pref_cookies_accept_all "Zmóžnjony">
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjony, z wuwześim tśeśich póbitowarjow">
 <!ENTITY pref_cookies_disabled "Znjemóžnjony">
 
-<!ENTITY pref_tap_to_load_images_title "Wobraze, kótarež zacytuju se pśez pótusnjenje">
-<!ENTITY pref_tap_to_load_images_summary2 "Wobraze janož pótom zacytaś, gaž tłocyśo dłujko na nje">
+
+
+
 
 <!ENTITY pref_tracking_protection_title "Slědowański šćit">
 <!ENTITY pref_tracking_protection_summary3 "W priwatnem modusu zmóžnjony">
@@ -253,9 +252,11 @@
 <!ENTITY pref_char_encoding "Znamuškowe koděrowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazaś">
 <!ENTITY pref_char_encoding_off "Meni njepokazaś">
-<!ENTITY pref_clear_private_data2 "Něnto lašowaś">
-<!ENTITY pref_clear_private_data_category "Priwatne daty wulašowaś">
-<!ENTITY pref_clear_on_exit_title2 "Pś kóńcenju lašowaś">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Něnto lašowaś">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; wulašujo waše daty awtomatiski, gažkuli wuběraśo \u0022Skóńcyś\u0022 z głownego menija">
 <!ENTITY pref_clear_on_exit_dialog_title "Wubjeŕśo, kótare daty maju se wulašowaś">
 <!ENTITY pref_plugins "Tykace">
@@ -263,7 +264,7 @@
 <!ENTITY pref_plugins_tap_to_play "Pótusniśo, aby wótgrał">
 <!ENTITY pref_plugins_disabled "Znjemóžnjony">
 <!ENTITY pref_text_size "Tekstowa wjelikosć">
-<!ENTITY pref_restore "Rejtarki">
+
 <!ENTITY pref_restore_always "Pśecej wótnowiś">
 <!ENTITY pref_restore_quit "Po skóńcenju &brandShortName; njewótnowiś">
 <!ENTITY pref_font_size_tiny "Małučki">
@@ -288,16 +289,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Skalěrowanje pśecej zmóžniś">
 <!ENTITY pref_zoom_force_enabled_summary "Wunuźćo pśepisanje, aby mógał kuždy bok skalěrowaś">
 <!ENTITY pref_voice_input "Rěcne zapódaśe">
-<!ENTITY pref_voice_input_summary "Rěcne zapódawanje w titelowej rědce dowóliś">
+
 <!ENTITY pref_qrcode_enabled "Cytak QR-koda">
-<!ENTITY pref_qrcode_enabled_summary "QR-scanner w titelowej rědce dowóliś">
+
 
 <!ENTITY pref_use_master_password "Głowne gronidło wužywaś">
-<!ENTITY pref_sync "Snychronizěrowaś">
+
 <!ENTITY pref_sync_summary2 "Synchronizěrujśo swóje rejtarki, cytańske znamjenja, pśizjawjenja a historiju">
 <!ENTITY pref_search_suggestions "Pytańske naraźenja pokazaś">
 <!ENTITY pref_history_search_suggestions "Pytańsku historiju pokazaś">
-<!ENTITY pref_import_android "Z Androida importěrowaś">
+
 <!ENTITY pref_import_android_summary "Importěrujśo cytańske znamjenjai a historiju ze spócetnego wobglědowaka">
 <!ENTITY pref_private_data_history2 "Pśeglědowańska historija">
 <!ENTITY pref_private_data_searchHistory "Pytańska historija">
@@ -354,18 +355,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Aktualizacije awtomatiski ześěgnuś">
 <!ENTITY pref_update_autodownload_wifi "Jano pśez Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nigda">
-<!ENTITY pref_update_autodownload_always "Pśecej">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Pomoc">
 
 <!ENTITY quit "Skóńcyś">
 
-<!ENTITY addons "Dodanki">
-<!ENTITY logins "Pśizjawjenja">
+
 <!ENTITY downloads "Ześěgnjenja">
 <!ENTITY char_encoding "Znamuškowe koděrowanje">
 
@@ -382,7 +381,7 @@ size. -->
 <!ENTITY new_private_tab "Nowy priwatny rejtark">
 <!ENTITY close_all_tabs "Wšykne rejtarki zacyniś">
 <!ENTITY close_private_tabs "Priwatne rejtarki zacyniś">
-<!ENTITY tabs_normal "Rejtarki">
+
 <!ENTITY tabs_private "Priwatny">
 <!ENTITY tabs_synced "Synchronizěrowany">
 <!ENTITY set_image_fail "Wobraz njedajo se pódaś">
@@ -435,10 +434,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "Gronidło njedajo se kopěrowaś">
 <!ENTITY doorhanger_login_select_action_text "Druge pśizjawjenje wubraś">
 <!ENTITY doorhanger_login_select_title "Gronidło kopěrowaś z">
-
-<!ENTITY pref_titlebar_mode "Titelowa rědka">
-<!ENTITY pref_titlebar_mode_title "Titel boka pokazaś">
-<!ENTITY pref_titlebar_mode_url "Adresu boka pokazaś">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -448,7 +443,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Pśeglědowanje z połneju wobrazowku">
-<!ENTITY pref_scroll_title_bar_summary "Titelowu rědku &brandShortName; schowaś, gaž bok kula se dołoj">
+
 
 <!ENTITY pref_tab_queue_title2 "Někotare wótkaze wócyniś">
 <!ENTITY pref_tab_queue_summary3 "Je składowaś, až njewócynijośo &brandShortName; pśiducy raz">
@@ -468,7 +463,6 @@ size. -->
 <!ENTITY site_settings_title3       "Sedłowe nastajenja">
 <!ENTITY site_settings_cancel       "Pśetergnuś">
 <!ENTITY site_settings_clear        "Lašowaś">
-<!ENTITY site_settings_no_settings  "Njejsu žedne nastajenja za lašowanje.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -509,8 +503,6 @@ size. -->
 <!ENTITY home_top_sites_add "Sedło pśidaś">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "Startowy bok &brandShortName;">
 <!ENTITY home_history_title "Historija">
 <!ENTITY home_clear_history_button "Pśeglědowańsku historiju wuprozniś">
 <!ENTITY home_clear_history_confirm "Cośo napšawdu historiju wuprozniś?">
@@ -524,14 +516,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Pst: wužywanje &formatS1;nowego priwatnego rejtarka&formatS2; njebuźo wašu historiju składowaś.">
 <!ENTITY home_reading_list_empty "Nastawki, kótarež składujośo na pózdźej, pokazuju se how.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "POKAZKA: Pśidajśo cytańskej lisćinje nastawki, z tym až tłocyśo dłujko na symbol &formatI;, gaž pokazujo se w titelowej rědce.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "POKAZKA: Pśidajśo swójej cytańskej lisćinje nastawki, z tym až tłocyśo dłujko tłocašk cytakowego modusa, gaž pokazujo se w titelowej rědce.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -726,20 +716,20 @@ z Androida">
      code. -->
 
 <!ENTITY devtools_auth_scan_header "Scannowanje QR-koda pokazujo se na wašom drugem rěźe">
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY restriction_disallow_import_settings_title2 "‚Z Androida importěrowáś‘ znjemóžniś">
-<!ENTITY restriction_disallow_addons_title2 "Instalěrowanje dodankow znjemóžniś">
-<!ENTITY restriction_disallow_devtools_title2 "Wuwijarske rědy znjemóžniś">
-<!ENTITY restriction_disallow_customize_home_title2 "Pśiměrjenje startowego boka znjemóžniś">
-<!ENTITY restriction_disallow_private_browsing_title2 "Priwatne pśeglědowanje znjemóžniś">
-<!ENTITY restriction_disallow_location_services_title2 "Stojnišćowe słužby znjemóžniś">
-<!ENTITY restriction_disallow_display_settings_title2 "Zwobraznjeńske nastajenja znjemóžniś">
-<!ENTITY restriction_disallow_clear_history_title2 "‚Pśeglědowańsku historiju wuprozniś‘ znjemóžniś">
-<!ENTITY restriction_disallow_master_password_title2 "Głowne gronidło znjemóžniś">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Góstne pśeglědowanje znjemóžniś">
+<!ENTITY restrictable_feature_private_browsing "Priwatny modus">
+
+
+
+
+
+
+
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -752,3 +742,8 @@ z Androida">
 <!ENTITY bookmarks_restricted_support2 "Pomoc Firefox za wobgranicowane profile na Androidowych tabletach">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Póznajśo web: Mozilla Webmaker">
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
