@@ -20,3 +20,5 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "এই ওয়েবসাইটটি <span id='unwanted_sitename'/> অনাকাঙ্খিত সফটওয়ার বহন করে বলে, রিপোর্ট করা হয়েছে এবং আপনার নিরাপত্তা পছন্দ অনুযায়ী ব্লক করা হয়েছে।">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "অবাঞ্ছনীয় সফটওয়্যার পেজ গুলি এমন কিছু সফটওয়্যার ইন্সটল করতে চাইছে যা আপনার কম্পিউটারের সমুহ ক্ষতির সম্ভাবনার কারণ হতে পারে।">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
