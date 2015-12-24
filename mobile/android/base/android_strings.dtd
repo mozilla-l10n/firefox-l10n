@@ -97,11 +97,8 @@
 
 <!ENTITY settings "అమరికలు">
 <!ENTITY settings_title "అమరికలు">
+<!ENTITY pref_category_general "సాధారణం">
 
-<!ENTITY pref_category_advanced "ఉన్నతం">
-<!ENTITY pref_category_customize "మలచుకొనడం">
-<!ENTITY pref_category_customize_summary "ముంగిలి, వెతకడం, ట్యాబులు, దిగుమతి">
-<!ENTITY pref_category_customize_alt_summary "ముంగిలి, వెతకడం, ట్యాబులు, తరువాత తెరువు, దిగుమతి">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -140,19 +137,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "ఫైర్‌ఫాక్స్ ఖాతా సంధానమైవున్న పరికరాలేమీ కనబడలేదు">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "వెతుకు">
 <!ENTITY pref_category_search_summary "మీకు అన్వేషణ అందించువారిని మలచుకొనుము">
-<!ENTITY pref_category_display "ప్రదర్శన">
-<!ENTITY pref_category_display_summary "పాఠం, శీర్షిక పట్టీ, నిండు-తెర విహారణ">
+
+
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
 
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "&brandShortName; గురించి, FAQs, డేటా ఎంపికలు">
+
+
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
 <!ENTITY pref_learn_more "మరింత తెలుసుకోండి">
 <!ENTITY pref_category_installed_search_engines "స్థాపిత సెర్చింజన్లు">
@@ -166,12 +159,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "చిట్కా: ఏదైనా వెబ్‌సైటును శోధన ప్రదాతల జాబితాలో చేర్చుడానికి ఆ సైటులోని వెతుకుడు పెట్టెపై ఎక్కువసేపు-వత్తి అప్పుడు &formatI; ప్రతీకాన్ని తాకండి.">
-<!ENTITY pref_category_devtools "అభివృద్ధికారుల పనిముట్లు">
+<!ENTITY pref_category_advanced "ఉన్నతం">
+
 <!ENTITY pref_developer_remotedebugging "రిమోట్ డీబగ్గింగ్">
 
 
 
-<!ENTITY pref_category_logins "ప్రవేశాలు">
 
 
 
@@ -187,28 +180,43 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ముంగిలిపుటకు చేర్చబడింది">
 <!ENTITY pref_category_home_content_settings "విషయపు అమరికలు">
-<!ENTITY pref_home_updates "స్వయంచాలక నవీకరణలు">
+
 <!ENTITY pref_home_updates_enabled "చేతనం">
 <!ENTITY pref_home_updates_wifi "వై-ఫై ద్వారా మాత్రమే">
 <!ENTITY pref_home_suggested_sites "సైటు సలహాలను చూపించు">
 <!ENTITY pref_home_suggested_sites_summary "మీరు ఆశక్తి కనబర్చే సైటులకు లఘువులను మీ ముంగిలిపేజీపై ప్రదర్శించును">
 
 
-
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; ముంగిలి">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "మలచుకొనండి">
-<!ENTITY pref_header_display "ప్రదర్శన">
+<!ENTITY pref_header_general "సాధారణం">
+<!ENTITY pref_header_search "వెతకడం">
 <!ENTITY pref_header_privacy_short "అంతరంగికత">
+
+<!ENTITY pref_header_advanced "ఉన్నతం">
 <!ENTITY pref_header_help "సహాయం">
-<!ENTITY pref_header_language "భాష">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "అభివృద్ధికారుల పనిముట్లు">
 
 <!ENTITY pref_cookies_menu "కుకీలు">
 <!ENTITY pref_cookies_accept_all "చేతనం">
 <!ENTITY pref_cookies_not_accept_foreign "చేతనం, 3వ పక్షం మినహాయించి">
 <!ENTITY pref_cookies_disabled "అచేతనం">
+
+<!ENTITY pref_tap_to_load_images_title2 "బొమ్మలను చూపించు">
+<!ENTITY pref_tap_to_load_images_enabled "ఎల్లప్పుడూ">
 
 
 
@@ -228,8 +236,8 @@
 
 
 
-
-
+<!ENTITY tab_queue_prompt_negative_action_button "ఇప్పుడు కాదు">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -240,9 +248,11 @@
 <!ENTITY pref_char_encoding "అక్షరాల ఎన్కోడింగు">
 <!ENTITY pref_char_encoding_on "మెను చూపించు">
 <!ENTITY pref_char_encoding_off "మెనూని చూపించకు">
-<!ENTITY pref_clear_private_data2 "ఇప్పుడే చెరిపివేయి">
-<!ENTITY pref_clear_private_data_category "ప్రైవేటు డేటా తొలగించు">
-<!ENTITY pref_clear_on_exit_title2 "నిష్క్రణతో శుభ్రపరచు">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "ఇప్పుడే చెరిపివేయి">
+
 <!ENTITY pref_clear_on_exit_summary2 "ముఖ్య మెనూ నుండి మీరు \u0022Quit\u0022 ను ఎంచినప్పుడు &brandShortName; స్వయంచాలకంగా మీ డేటాను శుభ్రంచేయును">
 <!ENTITY pref_clear_on_exit_dialog_title "ఏఏ డేటాను తుడిచివేయాలో ఎంచుకోండి">
 <!ENTITY pref_plugins "ప్లగిన్లు">
@@ -250,7 +260,7 @@
 <!ENTITY pref_plugins_tap_to_play "ఆడించడానికి ముట్టుకోండి">
 <!ENTITY pref_plugins_disabled "అచేతనం">
 <!ENTITY pref_text_size "పాఠ్య పరిమాణం">
-<!ENTITY pref_restore "ట్యాబులు">
+
 <!ENTITY pref_restore_always "ఎప్పుడూ పునరుద్ధరించు">
 <!ENTITY pref_restore_quit "&brandShortName; నుండి నిష్క్రమించిన తర్వాత పునరుద్ధరించవద్దు">
 <!ENTITY pref_font_size_tiny "అతి చిన్న">
@@ -279,11 +289,11 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "ప్రధాన సంకేతపదాన్ని వాడు">
-<!ENTITY pref_sync "సింక్">
+
 
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
 
-<!ENTITY pref_import_android "ఆండ్రాయిడ్ నుండి దిగుమతి చేయి">
+
 <!ENTITY pref_import_android_summary "నేటివ్ విహారిణి నుండి ఇష్టాంశాలనూ చరిత్రనూ దిగుమతి చేసుకోండి">
 <!ENTITY pref_private_data_history2 "విహరణ చరిత్ర">
 
@@ -340,7 +350,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "నవీకరణలను ఆటోమెటిగ్గా దించుకో">
 <!ENTITY pref_update_autodownload_wifi "వై-ఫై ద్వారా మాత్రమే">
 <!ENTITY pref_update_autodownload_never "ఎప్పటికీవద్దు">
 <!ENTITY pref_update_autodownload_always "ఎల్లప్పుడూ">
@@ -350,7 +359,7 @@ size. -->
 
 <!ENTITY quit "నిష్క్రమించు">
 
-<!ENTITY addons "పొడిగింతలు">
+<!ENTITY addons "పొడగింతలు">
 <!ENTITY logins "ప్రవేశాలు">
 <!ENTITY downloads "దింపుకోళ్ళు">
 <!ENTITY char_encoding "అక్షర సంహితీకరణ">
@@ -368,7 +377,7 @@ size. -->
 <!ENTITY new_private_tab "కొత్త అంతరంగిక ట్యాబు">
 <!ENTITY close_all_tabs "ట్యాబులన్నీ మూసివేయి">
 <!ENTITY close_private_tabs "ప్రయివేటు ట్యాబులను మూసివేయి">
-<!ENTITY tabs_normal "ట్యాబులు">
+
 <!ENTITY tabs_private "అంతరంగికం">
 <!ENTITY tabs_synced "సింకైన">
 <!ENTITY set_image_fail "చిత్రాన్ని అమర్చలేదు">
@@ -421,10 +430,6 @@ size. -->
 
 
 
-
-<!ENTITY pref_titlebar_mode "శీర్షిక పట్టీ">
-<!ENTITY pref_titlebar_mode_title "పేజీ శీర్షికను చూపించు">
-<!ENTITY pref_titlebar_mode_url "పేజీ చిరునామాను చూపించు">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -432,7 +437,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "నిండుతెర విహరణ">
-<!ENTITY pref_scroll_title_bar_summary "పేజీలను క్రిందికి స్ర్కోల్ చేస్తున్నప్పుడు &brandShortName; శీర్షిక పట్టీని దాచిపెట్టు">
+
 
 
 <!-- Localization note (page_removed): This string appears in a toast message when
@@ -451,7 +456,6 @@ size. -->
 <!ENTITY site_settings_title3       "సైటు అమరికలు">
 <!ENTITY site_settings_cancel       "రద్దుచేయి">
 <!ENTITY site_settings_clear        "తుడుచివేయి">
-<!ENTITY site_settings_no_settings  "తుడిచేయాల్సిన అమరికలు ఏమీ లేవు.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "మీ చదివే జాబితా నుండి పేజీ తీసివేయబడింది">
@@ -505,14 +509,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "ష్: &formatS1;కొత్త అంతరంగిక ట్యాబు&formatS2; వాడితే మీ చరిత్ర నమోదుకాదు.">
 <!ENTITY home_reading_list_empty "తర్వాత చూడడం కోసం భద్రపరిచిన వ్యాసాలు ఇక్కడ కనిపిస్తాయి.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "చిట్కా: వ్యాసాలను మీరు చదువవలసిన జాబితాలో చేర్చుకోడానికి శీర్షిక పట్టీలో &formatI; ప్రతీకాన్ని ఎక్కువసేపు నొక్కివుంచండి.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "చిట్కా: వ్యాసాలను మీరు చదువవలసిన జాబితాలో భద్రపరచుకోడానికి శీర్షిక పట్టీపై రీడర్ మోడ్ బొత్తం కనబడినప్పుడు దాన్ని ఎక్కువసేపు నొక్కివుంచండి.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -694,17 +696,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_private_browsing "అంతరంగిక విహారణ">
 
 
 
+<!ENTITY restrictable_feature_advanced_settings "ఉన్నత అమరికలు">
 
 
 
-
+<!ENTITY restrictable_feature_data_choices "డేటా ఎంపికలు">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -712,3 +716,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
