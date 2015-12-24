@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Roghainnean a' chuir">
 <!ENTITY sendMail.title               "Fòrmat teacsa">
+
+
 <!ENTITY sendMaildesc.label           "Nuair a chuireas mi teachdaireachdan ann am fòrmat HTML gu aonan no barrachd dhaoine 's fios nach urrainn dhaibh HTML fhaighinn:">
 <!ENTITY askMe.label                  "Faighnich dhìom na tha mi airson dèanamh">
 <!ENTITY askMe.accesskey              "F">

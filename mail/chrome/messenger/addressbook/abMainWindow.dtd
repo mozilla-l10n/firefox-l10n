@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Sealladh">
 <!ENTITY viewMenu.accesskey                             "S">
 <!ENTITY viewToolbarsMenu.label                         "Na bàraichean-inneil">
-<!ENTITY viewToolbarsMenu.accesskey                     "N"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "N">
 <!ENTITY menubarCmd.label                               "Bàr a' chlàir-thaice">
 <!ENTITY menubarCmd.accesskey                           "r">
 <!ENTITY showAbToolbarCmd.label                         "Bàr-inneil leabhar nan seòladh">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Leòsan an neach-aithne">
 <!ENTITY showContactPane2.accesskey                     "e">
 <!ENTITY menu_ShowNameAs.label                          "Seall an t-ainm mar seo">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Ainm Sloinneadh">
-<!ENTITY firstLastCmd2.accesskey                        "A"> 
+<!ENTITY firstLastCmd2.accesskey                        "A">
 <!ENTITY lastFirstCmd.label                             "Sloinneadh, Ainm">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "Ainm-taisbeanaidh">
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "o">
 <!ENTITY preferencesCmdUnix.label                       "Roghainnean">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Neach-aithne ùr">
 <!ENTITY newContactButton.accesskey                     "N">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Grad-theachdaireachd">
 <!ENTITY newIM.accesskey                                "i">
+
+
 <!ENTITY deleteButton2.label                            "Sguab às">
 <!ENTITY deleteButton2.accesskey                        "S">
 <!-- Address Book Toolbar Tooltips -->
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Deasaich an rud a thagh thu">
 <!ENTITY newmsgButton.tooltip                           "Cuir teachdaireachd puist">
 <!ENTITY newIM.tooltip                                  "Cuir grad-theachdaireachd no dèan cabadaich">
-<!ENTITY deleteButton2.tooltip                           "Sguab às an rud a thagh thu">
+<!ENTITY deleteButton2.tooltip                          "Sguab às an rud a thagh thu">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Leabhraichean nan seòladh">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Seall mapa dhen t-seòladh seo on lìon">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Uinneag">
-<!ENTITY minimizeWindow.label "Lughdaich">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Gluais a h-uile gun a' bheulaibh">
-<!ENTITY zoomWindow.label "Sùm">
+<!ENTITY windowMenu.label                               "Uinneag">
+<!ENTITY minimizeWindow.label                           "Lughdaich">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Gluais a h-uile gun a' bheulaibh">
+<!ENTITY zoomWindow.label                               "Sùm">
