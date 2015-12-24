@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "J">
 <!ENTITY dualUseFolders.label "Serwer rjadowaki podpěruje, kotrež podrjadowaki a powěsće wobsahuja">
 <!ENTITY dualUseFolders.accesskey "S">
-<!ENTITY useIdle.label "Přikaz IDLE wužiwać, jelizo serwer jón podpěruje">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Maksimalna ličba serwerowych zwiskow, kotrež dyrbja so pufrować">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "D">
 <!ENTITY overrideNamespaces.label "Serwerej dowolić, zo tute mjenowe rumy přeńdźe">
 <!ENTITY overrideNamespaces.accesskey "l">
-<!ENTITY pop3Desc.label "Hdyž so e-mejl POP za tutón serwer sćahuje, slědowacy rjadowak za nowu e-mejl wužiwać:" >
-<!ENTITY accountDirectory.label "Póstowy kašćik za konto tutoho serwera">
-<!ENTITY accountDirectory.accesskey "s">
+
+
+
 <!ENTITY deferToServer.label "Póstowy kašćik za druhe konto">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Tutón serwer při přijimanju noweje e-mejle zapřijeć">

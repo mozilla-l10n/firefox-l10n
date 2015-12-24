@@ -84,20 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Wulkosć">
 <!ENTITY fontSizeMenu.accesskey "W">
-<!ENTITY size-xx-smallCmd.label "nimoměry mały">
-<!ENTITY size-xx-smallCmd.accesskey "n">
-<!ENTITY size-x-smallCmd.label "jara mały">
-<!ENTITY size-x-smallCmd.accesskey "r">
-<!ENTITY size-smallCmd.label "mały">
-<!ENTITY size-smallCmd.accesskey "m">
-<!ENTITY size-mediumCmd.label "srěni">
-<!ENTITY size-mediumCmd.accesskey "s">
-<!ENTITY size-largeCmd.label "wulki">
-<!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "jara wulki">
-<!ENTITY size-x-largeCmd.accesskey "u">
-<!ENTITY size-xx-largeCmd.label "nimoměry wulki">
-<!ENTITY size-xx-largeCmd.accesskey "i">
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Tekstowy stil">
@@ -313,7 +311,6 @@
 <!ENTITY throbber.tooltip "K startowej stronje &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Wuzběhnjensku barbu za tekst wubrać">
 <!-- Editor toolbar -->
-
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mjeńša pismowa wulkosć">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Wjetša pismowa wulkosć">
 <!ENTITY boldToolbarCmd.tooltip "Tučny">
