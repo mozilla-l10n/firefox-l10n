@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "П">
 <!ENTITY dualUseFolders.label "Сървъра поддържа папки, които съдържат подпапки и писма">
 <!ENTITY dualUseFolders.accesskey "С">
-<!ENTITY useIdle.label "Използване на команда IDLE ако сървъра я поддържа">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Максимален брой кеширани връзки">
 <!ENTITY maximumConnectionsNumber.accesskey "М">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "Д">
 <!ENTITY overrideNamespaces.label "Сървърът може да променя тези именни пространства">
 <!ENTITY overrideNamespaces.accesskey "С">
-<!ENTITY pop3Desc.label "При изтегляне на pop поща от този сървър, ще се използва тази папка за нова поща:" >
-<!ENTITY accountDirectory.label "Пощенска кутия на тази поща">
-<!ENTITY accountDirectory.accesskey "з">
+
+
+
 <!ENTITY deferToServer.label "Пощенска кутия на друга поща">
 <!ENTITY deferToServer.accesskey "у">
 <!ENTITY deferGetNewMail.label "Включително и този сървър при получаване на нова поща">
