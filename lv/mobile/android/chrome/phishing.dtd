@@ -20,3 +20,5 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Par šo lapu <span id='malware_sitename'/> ir saņemti ziņojumi, ka no tās tiek veikti uzbrukumi tās apmeklētājiem. Atbilstoši jūsu drošības iestatījumiem, lapa ir bloķēta.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nevēlamas programmatūras lapas mēģina instalēt krāpnieciskas un citādi bīstamas programmas, kas var kaitēt jums.">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
