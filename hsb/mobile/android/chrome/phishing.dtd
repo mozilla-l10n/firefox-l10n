@@ -20,3 +20,5 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Tuta webstrona na <span id='unwanted_sitename'/> bu jako strona zdźělena, kotraž njewitanu softwaru wobsahuje a na zakładźe wašich wěstotnych nastajenjow zablokowana.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Njewitane softwarowe strony pospytuju softwaru instalować, kotraž móže wobšudna być a waš system na njewočakowane wašnja wobwliwować.">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
