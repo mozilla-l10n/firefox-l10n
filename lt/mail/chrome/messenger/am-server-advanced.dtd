@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "R">
 <!ENTITY dualUseFolders.label "Serveris turi darbo su poaplankiais priemones">
 <!ENTITY dualUseFolders.accesskey "S">
-<!ENTITY useIdle.label "Naudoti komandą IDLE, jei serveris ją supranta">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Didžiausias leistinas lygiagrečių prisijungimų prie serverio skaičius">
 <!ENTITY maximumConnectionsNumber.accesskey "D">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "K">
 <!ENTITY overrideNamespaces.label "Leisti serveriui keisti šias vardų sritis">
 <!ENTITY overrideNamespaces.accesskey "L">
-<!ENTITY pop3Desc.label "Naujus iš šio serverio POP3 protokolu gautus laiškus laikyti:" >
-<!ENTITY accountDirectory.label "šio serverio paskyros gautų laiškų aplanke">
-<!ENTITY accountDirectory.accesskey "š">
+
+
+
 <!ENTITY deferToServer.label "kitos paskyros gautų laiškų aplanke">
 <!ENTITY deferToServer.accesskey "k">
 <!ENTITY deferGetNewMail.label "Tikrinant paštą, įtraukti ir šį serverį">

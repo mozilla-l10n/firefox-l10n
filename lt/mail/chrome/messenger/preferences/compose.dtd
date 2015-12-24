@@ -27,6 +27,8 @@
 <!ENTITY restoreHTMLDefaults.label            "Atstatyti numatytąsias nuostatas">
 <!ENTITY restoreHTMLDefaults.accesskey        "A">
 
+
+
 <!ENTITY spellCheck.label                     "Tikrinti rašybą prieš išsiunčiant laišką">
 <!ENTITY spellCheck.accesskey                 "T">
 <!ENTITY spellCheckInline.label               "Tikrinti rašybą rašant tekstą">

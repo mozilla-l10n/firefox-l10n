@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Rodymas">
 <!ENTITY viewMenu.accesskey                             "R">
 <!ENTITY viewToolbarsMenu.label                         "Priemonių juostos">
-<!ENTITY viewToolbarsMenu.accesskey                     "j"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "j">
 <!ENTITY menubarCmd.label                               "Meniu juosta">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Adresų knygos">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Adresato polangis">
 <!ENTITY showContactPane2.accesskey                     "A">
 <!ENTITY menu_ShowNameAs.label                          "Asmenvardžio rodymas">
-<!ENTITY menu_ShowNameAs.accesskey                      "m"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "m">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Vardas pavardė">
-<!ENTITY firstLastCmd2.accesskey                        "V"> 
+<!ENTITY firstLastCmd2.accesskey                        "V">
 <!ENTITY lastFirstCmd.label                             "Pavardė, vardas">
 <!ENTITY lastFirstCmd.accesskey                         "P">
 <!ENTITY displayNameCmd.label                           "Kaip nurodyta kortelėje">
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "N">
 <!ENTITY preferencesCmdUnix.label                       "Nuostatos">
 <!ENTITY preferencesCmdUnix.accesskey                   "N">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Naujas adresatas">
 <!ENTITY newContactButton.accesskey                     "a">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "L">
 <!ENTITY newIM.label                                    "Žinutė">
 <!ENTITY newIM.accesskey                                "Ž">
+
+
 <!ENTITY deleteButton2.label                            "Pašalinti">
 <!ENTITY deleteButton2.accesskey                        "š">
 <!-- Address Book Toolbar Tooltips -->
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Taisyti pažymėtą elementą">
 <!ENTITY newmsgButton.tooltip                           "Rašyti elektroninį laišką">
 <!ENTITY newIM.tooltip                                  "Siųsti žinutę arba pradėti pokalbį">
-<!ENTITY deleteButton2.tooltip                           "Pašalinti pažymėtą elementą">
+<!ENTITY deleteButton2.tooltip                          "Pašalinti pažymėtą elementą">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Adresų knygos">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Rodyti šį adresą saityno žemėlapyje">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Langas">
-<!ENTITY minimizeWindow.label "Suskleisti">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Perkelti visus į priekį">
-<!ENTITY zoomWindow.label "Pakeisti dydį">
+<!ENTITY windowMenu.label                               "Langas">
+<!ENTITY minimizeWindow.label                           "Suskleisti">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Perkelti visus į priekį">
+<!ENTITY zoomWindow.label                               "Pakeisti dydį">
