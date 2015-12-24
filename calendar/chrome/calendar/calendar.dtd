@@ -149,7 +149,6 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Kijelölt feladatok befejezettnek jelölése">
 <!ENTITY calendar.task.priority.button.tooltip  "Prioritás változtatása">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Feladatok szűrése… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->

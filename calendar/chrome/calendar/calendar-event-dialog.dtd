@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Külön meghívó minden résztvevőnek">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Ezzel minden résztvevőnek külön meghívó levelet küldhet. Minden meghívó csak a címzett résztvevőt tartalmazza, így a többi résztvevő személyazonossága nem kerül közzétételre.">
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "Beállítások">
 <!ENTITY  event.menu.options.accesskey                        "B">
-<!ENTITY  event.menu.options.attendees.label                  "Résztvevők meghívása…">
-<!ENTITY  event.menu.options.attendees.accesskey              "R">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Időzónák megjelenítése">
 <!ENTITY  event.menu.options.timezone2.accesskey              "I">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritás">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Szabad">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "S">
 
-<!ENTITY event.invite.attendees.label                     "Résztvevők meghívása…">
-<!ENTITY event.invite.attendees.accesskey                 "R">
+
 <!ENTITY event.email.attendees.label                      "E-mail küldése minden résztvevőnek…">
 <!ENTITY event.email.attendees.accesskey                  "E">
 <!ENTITY event.email.tentative.attendees.label            "E-mail küldése a vissza nem jelzett résztvevőknek…">
 <!ENTITY event.email.tentative.attendees.accesskey        "m">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Mentés és bezárás">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "Cím:" >
 <!ENTITY event.title.textbox.accesskey                    "C">
-<!ENTITY event.location.label                             "Hely:" >
-<!ENTITY event.location.accesskey                         "H">
+
+
 <!ENTITY event.categories.label                           "Kategória:">
 <!ENTITY event.categories.accesskey                       "K">
 <!ENTITY event.categories.textbox.label                   "Új kategória hozzáadása" >
 <!ENTITY event.calendar.label                             "Naptár:" >
 <!ENTITY event.calendar.accesskey                         "N">
-<!ENTITY event.attendees.label                            "Résztvevők:" >
-<!ENTITY event.attendees.accesskey                        "R" >
+
+
 <!ENTITY event.alldayevent.label                          "Egész napos esemény" >
 <!ENTITY event.alldayevent.accesskey                      "E">
 <!ENTITY event.from.label                                 "Kezdet:" >
 <!ENTITY event.from.accesskey                             "K">
 <!ENTITY task.from.label                                  "Kezdet:" >
 <!ENTITY task.from.accesskey                              "K">
-<!ENTITY event.to.label                                   "Vége:" >
-<!ENTITY event.to.accesskey                               "V">
+
+
 <!ENTITY task.to.label                                    "Határidő:" >
 <!ENTITY task.to.accesskey                                "H">
 <!ENTITY task.status.label                                "Állapot:" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "n" >
 <!ENTITY event.attachments.popup.removeAll.label          "Összes eltávolítása" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "s" >
-<!ENTITY event.attachments.popup.attachPage.label         "Weboldal csatolása…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
+
+
 <!ENTITY event.url.label                                  "Kapcsolódó hivatkozás:" >
 <!ENTITY event.priority2.label                            "Sürgősség:">
 
@@ -348,6 +348,7 @@
 <!ENTITY event.attendee.usertype.group          "Csoport">
 <!ENTITY event.attendee.usertype.resource       "Erőforrás">
 <!ENTITY event.attendee.usertype.room           "Szoba">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Adja meg az időzónát">
