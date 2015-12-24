@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "l">
 <!ENTITY dualUseFolders.label "Server mendukung folder yang berisi subfolder dan pesan">
 <!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "Gunakan perintah IDLE jika server mendukung fitur ini">
-<!ENTITY useIdle.accesskey "i">
 <!ENTITY maximumConnectionsNumber.label "Jumlah sambungan maksimum ke server yang disimpan pada tembolok">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "L">
 <!ENTITY overrideNamespaces.label "Izinkan server untuk mengganti namespace ini">
 <!ENTITY overrideNamespaces.accesskey "I">
-<!ENTITY pop3Desc.label "Ketika mengunduh email pop dari server ini, gunakan folder berikut untuk email baru:" >
-<!ENTITY accountDirectory.label "Kotak masuk untuk akun server ini">
-<!ENTITY accountDirectory.accesskey "s">
+
+
+
 <!ENTITY deferToServer.label "Kotak masuk untuk akun yang lain">
 <!ENTITY deferToServer.accesskey "l">
 <!ENTITY deferGetNewMail.label "Sertakan server ini saat mengunduh email baru">

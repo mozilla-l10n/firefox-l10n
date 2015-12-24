@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Tampilan">
 <!ENTITY viewMenu.accesskey                             "T">
 <!ENTITY viewToolbarsMenu.label                         "Bilah Alat">
-<!ENTITY viewToolbarsMenu.accesskey                     "t"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "t">
 <!ENTITY menubarCmd.label                               "Bilah Menu">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Bilah Alat Buku Alamat">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Panel Kenalan">
 <!ENTITY showContactPane2.accesskey                     "K">
 <!ENTITY menu_ShowNameAs.label                          "Tampilkan Kartu Nama Sebagai">
-<!ENTITY menu_ShowNameAs.accesskey                      "k"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "k">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Nama Depan dan Nama Belakang">
-<!ENTITY firstLastCmd2.accesskey                        "D"> 
+<!ENTITY firstLastCmd2.accesskey                        "D">
 <!ENTITY lastFirstCmd.label                             "Nama Belakang, Nama Depan">
 <!ENTITY lastFirstCmd.accesskey                         "B">
 <!ENTITY displayNameCmd.label                           "Nama Tampilan">
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY preferencesCmdUnix.label                       "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey                   "P">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Data Kenalan Baru">
 <!ENTITY newContactButton.accesskey                     "K">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "T">
 <!ENTITY newIM.label                                    "Pesan Instan">
 <!ENTITY newIM.accesskey                                "I">
+
+
 <!ENTITY deleteButton2.label                            "Hapus">
 <!ENTITY deleteButton2.accesskey                        "H">
 <!-- Address Book Toolbar Tooltips -->
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Ubah item terpilih">
 <!ENTITY newmsgButton.tooltip                           "Kirim email">
 <!ENTITY newIM.tooltip                                  "Kirim pesan instan atau chatting">
-<!ENTITY deleteButton2.tooltip                           "Hapus item terpilih">
+<!ENTITY deleteButton2.tooltip                          "Hapus item terpilih">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Buku Alamat">
@@ -210,11 +212,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Tampilkan peta alamat ini dari Web">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Jendela">
-<!ENTITY minimizeWindow.label "Kecilkan">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Tampilkan Semua ke Latar Depan">
-<!ENTITY zoomWindow.label "Perbesaran">
+<!ENTITY windowMenu.label                               "Jendela">
+<!ENTITY minimizeWindow.label                           "Kecilkan">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Tampilkan Semua ke Latar Depan">
+<!ENTITY zoomWindow.label                               "Perbesaran">
