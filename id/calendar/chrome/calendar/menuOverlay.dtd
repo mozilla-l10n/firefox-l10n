@@ -34,6 +34,7 @@
 <!ENTITY showUnifinderCmd.label                 "Cari Acara">
 <!ENTITY showUnifinderCmd.accesskey             "a">
 
+
 <!ENTITY calendar.displaytodos.checkbox.label       "Tampilkan Tugas di Kalender">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
 

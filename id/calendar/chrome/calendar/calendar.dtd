@@ -149,7 +149,6 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Tandar selesai pada tugas terpilih ">
 <!ENTITY calendar.task.priority.button.tooltip  "Ubah prioritas">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filter tugas… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
@@ -250,8 +249,10 @@
 <!ENTITY calendar.context.export.accesskey             "E">
 <!ENTITY calendar.context.properties.label             "Properti">
 <!ENTITY calendar.context.properties.accesskey         "P">
-<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+<!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
+     This is the access key used for the hideCalendar string -->
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 

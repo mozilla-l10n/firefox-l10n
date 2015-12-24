@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Undangan ke masing-masing">
 
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "Pengaturan">
 <!ENTITY  event.menu.options.accesskey                        "P">
-<!ENTITY  event.menu.options.attendees.label                  "Undang Peserta…">
-<!ENTITY  event.menu.options.attendees.accesskey              "U">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Tampilkan Zona Waktu">
 <!ENTITY  event.menu.options.timezone2.accesskey              "Z">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritas">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Bebas">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "B">
 
-<!ENTITY event.invite.attendees.label                     "Undang Peserta…">
-<!ENTITY event.invite.attendees.accesskey                 "U">
+
 <!ENTITY event.email.attendees.label                      "Buat Email untuk Semua Peserta…">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Buat Email untuk Semua Peserta yang Belum Pasti…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Simpan dan Tutup">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "Judul:" >
 <!ENTITY event.title.textbox.accesskey                    "J">
-<!ENTITY event.location.label                             "Lokasi:" >
-<!ENTITY event.location.accesskey                         "L">
+
+
 <!ENTITY event.categories.label                           "Kategori:">
 <!ENTITY event.categories.accesskey                       "K">
 
 <!ENTITY event.calendar.label                             "Kalender:" >
 <!ENTITY event.calendar.accesskey                         "K">
-<!ENTITY event.attendees.label                            "Undangan:" >
-<!ENTITY event.attendees.accesskey                        "U" >
+
+
 <!ENTITY event.alldayevent.label                          "Acara Seharian" >
 <!ENTITY event.alldayevent.accesskey                      "S">
 <!ENTITY event.from.label                                 "Mulai:" >
 <!ENTITY event.from.accesskey                             "M">
 <!ENTITY task.from.label                                  "Mulai:" >
 <!ENTITY task.from.accesskey                              "M">
-<!ENTITY event.to.label                                   "Selesai:" >
-<!ENTITY event.to.accesskey                               "S">
+
+
 <!ENTITY task.to.label                                    "Jatuh Tempo:" >
 <!ENTITY task.to.accesskey                                "o">
 <!ENTITY task.status.label                                "Status:" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "B" >
 <!ENTITY event.attachments.popup.removeAll.label          "Hapus Semua" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-<!ENTITY event.attachments.popup.attachPage.label         "Lampirkan Laman Web…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
+
+
 <!ENTITY event.url.label                                  "Tautan Terkait:" >
 <!ENTITY event.priority2.label                            "Prioritas:">
 
@@ -347,6 +347,7 @@
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Sumber Daya">
 <!ENTITY event.attendee.usertype.room           "Ruangan">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Tentukan Zona Waktu">
