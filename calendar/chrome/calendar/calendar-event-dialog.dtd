@@ -36,8 +36,6 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Отделни покани за участниците">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Тази опция изпраща по една покана за всеки участник. Всяка покана съдържа само адреса на получателя, така че други участници не се виждат.">
 <!-- Keyboard Shortcuts -->
-
-<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -103,8 +101,8 @@
 
 <!ENTITY  event.menu.options.label                            "Настройки">
 <!ENTITY  event.menu.options.accesskey                        "Н">
-<!ENTITY  event.menu.options.attendees.label                  "Поканване на участници...">
-<!ENTITY  event.menu.options.attendees.accesskey              "ч">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Показване на времевите зони">
 <!ENTITY  event.menu.options.timezone2.accesskey              "з">
 <!ENTITY  event.menu.options.priority2.label                  "Приоритет">
@@ -132,12 +130,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Свободен">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "б">
 
-<!ENTITY event.invite.attendees.label                     "Поканване на участници…">
-<!ENTITY event.invite.attendees.accesskey                 "ч">
+
 <!ENTITY event.email.attendees.label                      "Създаване на писмо до всички участници…">
 <!ENTITY event.email.attendees.accesskey                  "в">
 <!ENTITY event.email.tentative.attendees.label            "Създаване на писмо до нерешилите участници">
 <!ENTITY event.email.tentative.attendees.accesskey        "н">
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Запис и затваряне">
@@ -157,23 +157,23 @@
 
 <!ENTITY event.title.textbox.label                        "Заглавие:" >
 <!ENTITY event.title.textbox.accesskey                    "З">
-<!ENTITY event.location.label                             "Местоположение:" >
-<!ENTITY event.location.accesskey                         "М">
+
+
 <!ENTITY event.categories.label                           "Категория:">
 <!ENTITY event.categories.accesskey                       "я">
 <!ENTITY event.categories.textbox.label                   "Добавяне на нова категория" >
 <!ENTITY event.calendar.label                             "Календар:" >
 <!ENTITY event.calendar.accesskey                         "К">
-<!ENTITY event.attendees.label                            "Участници:" >
-<!ENTITY event.attendees.accesskey                        "У" >
+
+
 <!ENTITY event.alldayevent.label                          "Целодневно събитие" >
 <!ENTITY event.alldayevent.accesskey                      "л">
 <!ENTITY event.from.label                                 "Начало:" >
 <!ENTITY event.from.accesskey                             "Н">
 <!ENTITY task.from.label                                  "Начало:" >
 <!ENTITY task.from.accesskey                              "Н">
-<!ENTITY event.to.label                                   "Край:" >
-<!ENTITY event.to.accesskey                               "К">
+
+
 <!ENTITY task.to.label                                    "Крайна дата:" >
 <!ENTITY task.to.accesskey                                "й">
 <!ENTITY task.status.label                                "Статус:" >
@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "О" >
 <!ENTITY event.attachments.popup.removeAll.label          "Премахване на всички" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "х" >
-<!ENTITY event.attachments.popup.attachPage.label         "Прикачане на уеб страница…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "у" >
+
+
 <!ENTITY event.url.label                                  "Сродна връзка:" >
 <!ENTITY event.priority2.label                            "Приоритет:">
 
@@ -348,6 +348,7 @@
 <!ENTITY event.attendee.usertype.group          "Група">
 <!ENTITY event.attendee.usertype.resource       "Ресурс">
 <!ENTITY event.attendee.usertype.room           "Стая">
+
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Моля, посочете времевата зона">
