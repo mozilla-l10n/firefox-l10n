@@ -26,6 +26,8 @@
 <!ENTITY restoreHTMLDefaults.label            "احیای تنظیمات پیش‌فرض">
 <!ENTITY restoreHTMLDefaults.accesskey        "ا">
 
+
+
 <!ENTITY spellCheck.label                     "Check spelling before sending">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Enable spell check as you type">
