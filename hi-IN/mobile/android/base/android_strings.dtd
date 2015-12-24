@@ -101,16 +101,11 @@
 
 <!ENTITY settings "सेटिंग">
 <!ENTITY settings_title "सेटिंग">
-<!ENTITY pref_category_input_options "इनपुट के विकल्प">
-<!ENTITY pref_category_advanced "उन्नत">
-<!ENTITY pref_category_customize "मनपसंद बनाएँ">
-<!ENTITY pref_category_customize_summary "मुखपृष्ठ, खोज, टैब, आयात">
-<!ENTITY pref_category_customize_alt_summary "होम, खोज, टैब, बाद में खोलें, आयात">
+
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-<!ENTITY pref_category_language "भाषा">
 <!ENTITY pref_category_language_summary "अपने ब्राउज़र की भाषा बदलें">
 <!ENTITY pref_browser_locale "ब्राउज़र की भाषा  ">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -144,21 +139,15 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "फ़ायरफ़ॉक्स खाते से जुड़े कोई भी उपकरण पाएँ नहीं गए">
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-
-<!ENTITY menu_no_synced_devices "इस टैब को दूसरे उपकरण पर भेजें">
 
 <!ENTITY pref_category_search3 "खोजें">
 <!ENTITY pref_category_search_summary "खोज प्रदाता को मनपसंद बनाएँ">
-<!ENTITY pref_category_display "दिखाएँ">
-<!ENTITY pref_category_display_summary "पाठ, शीर्षक पट्टी, पूर्ण स्क्रीन ब्राउज़िंग ">
+
+
 <!ENTITY pref_category_privacy_short "गोपनीयता">
-<!ENTITY pref_category_privacy_summary2 "नियंत्रण कूटशब्द, कुकीज़, नज़र रखने, डेटा">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "परिचय &brandShortName;, FAQs, आँकड़ा पसंद">
+
+
+
 <!ENTITY pref_category_datareporting "आँकड़ा विकल्प">
 <!ENTITY pref_learn_more "अधिक जानें">
 <!ENTITY pref_category_installed_search_engines "संस्थापित खोज इंजन">
@@ -172,12 +161,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "सुझाव : खोज प्रदाता की सूची में किसी भी वेबसाइट को जोड़ने के लिए खोज क्षेत्र को देर तक दबाएँ और &formatI; प्रतीक को टिपटिपाएँ.">
-<!ENTITY pref_category_devtools "डेवलेपर औज़ार">
+
+
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डिबगिंग">
 <!ENTITY pref_developer_remotedebugging_usb "USB से होकर दूरस्थ दोषसुधार">
 <!ENTITY pref_developer_remotedebugging_wifi "वाई फाई से होकर दूरस्थ दोषसुधार">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "वाई फाई दोषसुधार को आपके डिवाइस में QR ऐप संस्थापित होने की जरुरत हैं.">
-<!ENTITY pref_category_logins "लॉगिन">
 <!ENTITY pref_remember_signons2 "लॉग इन याद रखें">
 <!ENTITY pref_open_external_urls_privately_title "लिंक को निजी ब्राउज़िंग में खोलिए">
 <!ENTITY pref_open_external_urls_privately_summary "सभी बाहरी लिंक जो कि &brandShortName; मैं खोले गए हैं">
@@ -193,31 +182,41 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 मुखपृष्ठ पर जोड़ा गया">
 <!ENTITY pref_category_home_content_settings "अंतर्वस्तु सेटिंग">
-<!ENTITY pref_home_updates "स्वतः अद्यतन">
+
 <!ENTITY pref_home_updates_enabled "सक्षम">
 <!ENTITY pref_home_updates_wifi "केवल वाय-फ़ाय पर">
 <!ENTITY pref_home_suggested_sites "साइट सुझाव दिखाएँ">
 <!ENTITY pref_home_suggested_sites_summary "अपने शुरुआती पृष्ठ पर साइटों के शॉर्टकट दिखायें, जो हमें लगता है कि आपको दिलचस्प लगेेंगे |">
 
 <!ENTITY home_homepage_title "होमपेज व्यवस्थित करें">
-<!ENTITY home_homepage_use_current_tab "वर्तमान टैब का उपयोग करें">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "मनपसंद बनाएँ">
-<!ENTITY pref_header_display "प्रदर्शित करें">
 <!ENTITY pref_header_privacy_short "गोपनीयता">
+
+
 <!ENTITY pref_header_help "मदद">
-<!ENTITY pref_header_language "भाषा">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "डेवलेपर औज़ार">
+
 
 <!ENTITY pref_cookies_menu "कुकीज़">
 <!ENTITY pref_cookies_accept_all "सक्षम">
 <!ENTITY pref_cookies_not_accept_foreign "सक्षम, तीसरा पक्ष छोड़कर">
 <!ENTITY pref_cookies_disabled "अक्षम">
 
-<!ENTITY pref_tap_to_load_images_title "छवि लोड करने के लिए दबाएँ">
-<!ENTITY pref_tap_to_load_images_summary2 "चित्र तभी लोड करें जब उन्हें लंबा दबाएँ">
+
+
+
 
 <!ENTITY pref_tracking_protection_title "ट्रैकिंग संरक्षण">
 <!ENTITY pref_tracking_protection_summary3 "निजी ब्राउज़िंग में सक्षम करें">
@@ -253,9 +252,11 @@
 <!ENTITY pref_char_encoding "वर्ण एन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेन्यू दिखाएँ">
 <!ENTITY pref_char_encoding_off "मेन्यू मत दिखाएँ">
-<!ENTITY pref_clear_private_data2 "अब साफ़ करें">
-<!ENTITY pref_clear_private_data_category "निजी आँकड़ा साफ़ करें">
-<!ENTITY pref_clear_on_exit_title2 "बाहर निकलने पर साफ करें">
+
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "अब साफ़ करें">
+
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; स्वचालित रूप से आपका डाटा साफ करेगा जब आप मुख्य मेन्यू से \u0022बाहर जाएँ\u0022 चुनेंगे">
 <!ENTITY pref_clear_on_exit_dialog_title "साफ करने के लिए डाटा चुनें | ">
 <!ENTITY pref_plugins "प्लगइन">
@@ -263,7 +264,7 @@
 <!ENTITY pref_plugins_tap_to_play "चलाने के लिए टिपटिपाएँ">
 <!ENTITY pref_plugins_disabled "अक्षम">
 <!ENTITY pref_text_size "पाठ आकार">
-<!ENTITY pref_restore "टैब">
+
 <!ENTITY pref_restore_always "हमेशा पुनर्बहाल करें">
 <!ENTITY pref_restore_quit "&brandShortName; छोड़ने के बाद पुनर्बहाल मत करें">
 <!ENTITY pref_font_size_tiny "नन्हा">
@@ -288,16 +289,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "हमेशा जूम सक्षम करें">
 <!ENTITY pref_zoom_force_enabled_summary "बल ओवरराइड हैं, ताकि आप किसी भी पृष्ठ ज़ूम कर सकते हैं ">
 <!ENTITY pref_voice_input "ध्वनि का इनपुट">
-<!ENTITY pref_voice_input_summary "शीर्षक पट्टी में आवाज श्रुतलेख की अनुमति दें">
+
 <!ENTITY pref_qrcode_enabled "क्यूआर कोड रीडर">
-<!ENTITY pref_qrcode_enabled_summary "शीर्षक पट्टी में क्यूआर स्कैनर की अनुमति दें">
+
 
 <!ENTITY pref_use_master_password "प्रधान कूटशब्द का उपयोग करें">
-<!ENTITY pref_sync "सिंक">
+
 <!ENTITY pref_sync_summary2 "अपने टैब, बुकमार्क, कूटशब्द, इतिहास समन्वयित करें">
 <!ENTITY pref_search_suggestions "खोज सलाह दिखाएँ">
 
-<!ENTITY pref_import_android "ऐंड्रॉयड से आयात करें">
+
 <!ENTITY pref_import_android_summary "देशी ब्राउज़र से बुकमार्क और इतिहास आयात करें">
 <!ENTITY pref_private_data_history2 "ब्राउज़िंग इतिहास">
 <!ENTITY pref_private_data_searchHistory "खोज इतिहास">
@@ -354,18 +355,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "अद्यतन स्वतः डाउनलोड करें">
 <!ENTITY pref_update_autodownload_wifi "केवल वाय-फ़ाय पर">
 <!ENTITY pref_update_autodownload_never "कभी नहीं">
-<!ENTITY pref_update_autodownload_always "हमेशा">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "मदद">
 
 <!ENTITY quit "बाहर">
 
-<!ENTITY addons "सहयुक्ति">
-<!ENTITY logins "लॉगइन">
+
 <!ENTITY downloads "डाउनलोड">
 <!ENTITY char_encoding "वर्ण एन्कोडिंग">
 
@@ -382,7 +381,7 @@ size. -->
 <!ENTITY new_private_tab "नया निजी टैब">
 <!ENTITY close_all_tabs "सभी टैब बन्द करें">
 <!ENTITY close_private_tabs "निजी टैब बंद करें |">
-<!ENTITY tabs_normal "टैबस ">
+
 <!ENTITY tabs_private "निजी">
 <!ENTITY tabs_synced "सिंक किया">
 <!ENTITY set_image_fail "छवि सेट करने में असमर्थ">
@@ -435,10 +434,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "पासवर्ड कॉपी नहीं किया जा सका">
 <!ENTITY doorhanger_login_select_action_text "दूसरा लॉगिन चयन करें">
 <!ENTITY doorhanger_login_select_title "से पासवर्ड कॉपी करें">
-
-<!ENTITY pref_titlebar_mode "शीर्षक पट्टी">
-<!ENTITY pref_titlebar_mode_title "पृष्ठ शीर्षक दिखाएँ">
-<!ENTITY pref_titlebar_mode_url "पृष्ठ पता दिखाएँ">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
@@ -446,7 +441,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "पूर्ण स्क्रीन ब्राउज़िंग">
-<!ENTITY pref_scroll_title_bar_summary "पृष्ठ नीचे स्क्रॉल करते समय &brandShortName; को छिपाएँ">
+
 
 <!ENTITY pref_tab_queue_title2 "अनेक लिंक खोलें">
 <!ENTITY pref_tab_queue_summary3 "उन्हें सहेजें जबतक आप अगली बार &brandShortName; खोलते">
@@ -466,7 +461,6 @@ size. -->
 <!ENTITY site_settings_title3       "साइट सेटिंग">
 <!ENTITY site_settings_cancel       "रद्द करें">
 <!ENTITY site_settings_clear        "साफ़ करें">
-<!ENTITY site_settings_no_settings  "सफ़ाई के लिए कोई सेटिंग नहीं.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -507,8 +501,6 @@ size. -->
 <!ENTITY home_top_sites_add "साइट जोड़ें">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "&brandShortName; घर">
 <!ENTITY home_history_title "इतिहास">
 <!ENTITY home_clear_history_button "ब्राउज़िंग का इतिहास साफ़ करें |">
 <!ENTITY home_clear_history_confirm "क्या आप दृढ़ हैं की आप इतिहास को साफ करना चाहते हैं?">
@@ -522,14 +514,12 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "अरे: &formatS1; का उपयोग करते हुए नया निजी टैब &formatS2; आपका नक्शे कदम संचय नहि करेगा.">
 <!ENTITY home_reading_list_empty "बाद के लिए सहेजे गए आलेख यहाँ दिखते हैं.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "नुस्ख़ा: जब यह &formatI; चिह्न शीर्षक पट्टी में दिखे तो इसे थोड़ी देर तक दबाकर आलेख अपनी पाठ सूची में सहेजें.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "नुस्ख़ा: जब रीडर अवस्था बटन शीर्षक पट्टी में दिखे तो इसे थोड़ी देर तक दबाकर लेखों को पाठ सूची में सहेजें.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -719,23 +709,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 
 <!ENTITY devtools_auth_scan_header "आपके अन्य डिवाइस पर प्रदर्शित QR कोड के लिए स्कैन कर रहे हैं">
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-<!ENTITY restriction_disallow_import_settings_title2 "\u0027ऐंड्रॉयड से आयात\u0027 निष्क्रिय करें">
-<!ENTITY restriction_disallow_addons_title2 "ऐड-ऑन संस्थापित निष्क्रिय करें">
-<!ENTITY restriction_disallow_devtools_title2 "डेवलपर उपकरण निष्क्रिय करें">
-<!ENTITY restriction_disallow_customize_home_title2 "घर मनपसंदीकरण निष्क्रिय करें">
-<!ENTITY restriction_disallow_private_browsing_title2 "निजी ब्राउजिंग निष्क्रिय करें">
-<!ENTITY restriction_disallow_location_services_title2 "स्थान सेवाएँ निष्क्रिय करें">
-<!ENTITY restriction_disallow_display_settings_title2 "प्रदर्शिन सेटिंग निष्क्रिय करें">
-<!ENTITY restriction_disallow_clear_history_title2 "\u0027साफ़ ब्राउज़िंग इतिहास\u0027 निष्क्रिय करें">
-<!ENTITY restriction_disallow_master_password_title2 "प्रधान कूटशब्द निष्क्रिय करें">
-<!ENTITY restriction_disallow_guest_browsing_title2 "अतिथि ब्राउजिंग निष्क्रिय करें">
+<!ENTITY restrictable_feature_private_browsing "निजी ब्राउज़िंग">
+
+
+
+
+
+
+
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
