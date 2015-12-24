@@ -20,3 +20,5 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Situs web di <span id='unwanted_sitename'/> telah dilaporkan melayani perangkat lunak yang tidak diinginkan dan telah diblokir berdasarkan pengaturan keamanan Anda.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Laman perangkat lunak yang tidak diinginkan mencoba menginstal perangkat lunak yang mungkin menipu dan mempengaruhi sistem Anda dalam cara yang tidak diinginkan.">
+
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
