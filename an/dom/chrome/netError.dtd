@@ -83,9 +83,12 @@
 <!ENTITY phishingBlocked.longDesc "<p>Si escribe información personal en ista pachina podría resultar en una suplantación d'identidat u belatro fraude.</p> 
 <p>Istos tipos de falsificacions de webs s'usan en timos conoixius como ataques de phishing, en os quals s'usan pachinas web y mensaches de correu electronico fraudulentos ta imitar fuents en as quals se confía.</p>">
 
+<!ENTITY forbiddenBlocked.title "Puesto vedau">
+<!ENTITY forbiddenBlocked.longDesc "<p>Lo navegador ha privau que ista pachina se cargue porque ye configurau pa blocar-la.</p>">
 
-
-
+<!ENTITY securityOverride.linkText "U puede anyader-ie una excepción…">
+<!ENTITY securityOverride.warningContent "<p>No habría d'adhibir una excepción si ye usando una connexión d'Internet en a qual no confíe de tot u si no ye feito a veyer garra alvertencia sobre iste servidor.</p> 
+<p>Si encara deseya adhibir una excepción ta iste puesto, puede fer-lo en a suya configuración abanzada de cifrau.</p>">
 
 <!ENTITY cspBlocked.title "Bloqueyau por a politica de seguranza de conteniu">
 <!ENTITY cspBlocked.longDesc "<p>O navegador ha impediu que ista pachina se cargue d'ista traza porque a pachina tiene una politica de seguranza de conteniu que no lo permite.</p>">

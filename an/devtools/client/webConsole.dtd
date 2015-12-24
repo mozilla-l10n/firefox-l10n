@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Ubrir en a vista de variables">
 <!ENTITY openInVarViewCmd.accesskey "v">
-
-
+<!ENTITY storeAsGlobalVar.label "Almagazenar como una variable global">
+<!ENTITY storeAsGlobalVar.accesskey "A">
