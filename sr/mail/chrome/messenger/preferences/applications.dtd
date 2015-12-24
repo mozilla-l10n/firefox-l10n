@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  typeColumn.label            "Врста садржаја">
+<!ENTITY  typeColumn.accesskey        "т">
+
+<!ENTITY  actionColumn2.label         "Радња">
+<!ENTITY  actionColumn2.accesskey     "д">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.placeholder          "Претрага">
+
+<!ENTITY saveTo.label                 "Сачувај датотеке у">
+<!ENTITY saveTo.accesskey             "С">
+<!ENTITY alwaysAsk.label              "Увек питај где да се сачувају датотеке">
+<!ENTITY alwaysAsk.accesskey          "У">
+<!ENTITY chooseFolderWin.label        "Преглед…">
+<!ENTITY chooseFolderWin.accesskey    "П">
+<!ENTITY chooseFolderMac.label        "Изабери…">
+<!ENTITY chooseFolderMac.accesskey    "И">
+
+<!ENTITY attachments.incoming.label   "Долазно">
+<!ENTITY attachments.outgoing.label   "Одлазно">
+
+<!ENTITY addCloudFileAccount.label        "Додај">
+<!ENTITY addCloudFileAccount.accesskey    "Д">
+<!ENTITY addCloudFileAccount.description  "Додај нову Filelink услугу складиштења">
+<!ENTITY removeCloudFileAccount.label     "Уклони">
+<!ENTITY removeCloudFileAccount.accesskey "У">
+<!ENTITY authRequired.description         "Потребно је да дате овлашћење за преглед подешавања ове услуге складиштења.">
+<!ENTITY authRequired.button.label        "Овласти">
+<!ENTITY authRequired.button.accesskey    "л">
+
+<!ENTITY enableCloudFileAccountOffer.label "Понуди дељење за датотеке веће од">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
