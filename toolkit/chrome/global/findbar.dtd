@@ -5,12 +5,12 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
 
-<!ENTITY next.tooltip "Find the next occurrence of the phrase">
-<!ENTITY previous.tooltip "Find the previous occurrence of the phrase">
-<!ENTITY findCloseButton.tooltip "Close find bar">
-<!ENTITY highlightAll.label "Highlight All">
-<!ENTITY highlightAll.accesskey "a">
-<!ENTITY highlightAll.tooltiptext "Highlight all occurrences of the phrase">
-<!ENTITY caseSensitive.label "Match Case">
-<!ENTITY caseSensitive.accesskey "c">
-<!ENTITY caseSensitive.tooltiptext "Search with case sensitivity">
+<!ENTITY next.tooltip "Trobar a siguient aparición d'a frase">
+<!ENTITY previous.tooltip "Trobar l'anterior aparición d'a frase">
+<!ENTITY findCloseButton.tooltip "Zarrar a barra de busca">
+<!ENTITY highlightAll.label "Resaltar-lo tot">
+<!ENTITY highlightAll.accesskey "R">
+<!ENTITY highlightAll.tooltiptext "Resaltar todas as aparicions d'a frase">
+<!ENTITY caseSensitive.label "Coincidir mayusclas">
+<!ENTITY caseSensitive.accesskey "C">
+<!ENTITY caseSensitive.tooltiptext "Mirar distinguindo entre mayusclas y minusclas">

@@ -3,5 +3,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  settingsChangePreferences.label  "Settings can be changed using the Applications tab in &brandShortName;'s Preferences.">
-<!ENTITY  settingsChangeOptions.label      "Settings can be changed using the Applications tab in &brandShortName;'s Options.">
+<!ENTITY  settingsChangePreferences.label  "Os parametros de configuración se pueden cambiar dende a pestanya Aplicacions en as preferencias d'o &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Os parametros de configuración se pueden cambiar dende a pestanya Aplicacions d'as opcions d'o &brandShortName;.">

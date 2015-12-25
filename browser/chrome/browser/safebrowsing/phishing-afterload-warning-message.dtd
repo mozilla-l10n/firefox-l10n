@@ -2,22 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Get me out of here!">
-<!ENTITY safeb.palm.decline.label "Ignore this warning">
-<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
-<!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
+<!ENTITY safeb.palm.accept.label "Saca-me d'aquí!">
+<!ENTITY safeb.palm.decline.label "No fer caso d'ista alvertencia">
+<!ENTITY safeb.palm.notforgery.label2 "No ye un puesto web fraudulento…">
+<!ENTITY safeb.palm.reportPage.label "Por qué s'ha blocau iste puesto web?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
+<!ENTITY safeb.blocked.malwarePage.title "Iste puesto ye una web atacant!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "S'ha informau que o puesto web en <span id='malware_sitename'/> sería una web atacant y s'ha blocau seguntes as suyas preferencias de seguranza.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Os puestos atacants miran d'instalar programas que pueden rapar información privada, fer servir o suyo ordinador ta atacar atros u danyar o suyo sistema.</p><p>Qualques puestos atacants distribuyen intencionalmente software nocivo, tot y que muitos son compromesos sin a conoixencia u permiso d'os suyos propietarios.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Reported Unwanted Software Page!">
+<!ENTITY safeb.blocked.unwantedPage.title "Posible pachina de software no deseyau!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "This web page at <span id='unwanted_sitename'/> has been reported to contain unwanted software and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Unwanted software pages try to install software that can be deceptive and affect your system in unexpected ways.</p>">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "S'ha informau que o puesto web en <span id='unwanted_sitename'/> puede estar una web con software no deseyau y s'ha blocau seguntes as suyas preferencias de seguranza.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>As pachinas de software no deseyau mirar d'instalar software que puede estar enganyoso y afectar a o suyo sistema de trazas no asperadas.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Reported Web Forgery!">
+<!ENTITY safeb.blocked.phishingPage.title "S'ha informau que iste puesto web ye una falsificación!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "S'ha informau que o puesto web en <span id='phishing_sitename'/> sería una falsificación web y ha estau blocau seguntes as suyas preferencias de seguranza.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>As falsificacions de webs son disenyadas ta mirar d'enganyuflar a l'usuario ta que revele información personal u financiera imitando as fuents en as qualas gosa confiar.</p><p>Escribir qualsiquier información en ista pachina web puede resultar en una suplantación d'identidat u en belatra mena de frau.</p>">

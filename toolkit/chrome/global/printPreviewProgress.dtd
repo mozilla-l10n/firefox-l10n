@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
 
-<!ENTITY printWindow.title "Print Preview"> 
-<!ENTITY title   "Title:"> 
-<!ENTITY preparing "Preparing…">
-<!ENTITY progress "Progress:">
+<!ENTITY printWindow.title "Anvista preliminar"> 
+<!ENTITY title   "Titol:"> 
+<!ENTITY preparing "Se ye aprestando…">
+<!ENTITY progress "Progreso:">

@@ -10,25 +10,25 @@
      on web development on the web. -->
 
 
-<!ENTITY newButton.label            "New">
-<!ENTITY newButton.tooltip          "Create and append a new style sheet to the document">
+<!ENTITY newButton.label            "Nuevo">
+<!ENTITY newButton.tooltip          "Creyar y adhibir una fuella d'estilo nueva a o documento">
 <!ENTITY newButton.accesskey        "N">
 
-<!ENTITY importButton.label         "Import…">
-<!ENTITY importButton.tooltip       "Import and append an existing style sheet to the document">
+<!ENTITY importButton.label         "Importar…">
+<!ENTITY importButton.tooltip       "Importar y adhibir una fuella d'estilo nueva a o documento">
 <!ENTITY importButton.accesskey     "I">
 
-<!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
+<!ENTITY visibilityToggle.tooltip   "Commutar a visibilidat d'a fuella d'estilo">
 
-<!ENTITY saveButton.label           "Save">
-<!ENTITY saveButton.tooltip         "Save this style sheet to a file">
-<!ENTITY saveButton.accesskey       "S">
+<!ENTITY saveButton.label           "Alzar">
+<!ENTITY saveButton.tooltip         "Alzar ista fuella d'estilo en un fichero">
+<!ENTITY saveButton.accesskey       "A">
 
-<!ENTITY optionsButton.tooltip      "Style Editor options">
+<!ENTITY optionsButton.tooltip      "Opcions de l'editor d'estilo">
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
 
-<!ENTITY showOriginalSources.label     "Show original sources">
+<!ENTITY showOriginalSources.label     "Amostrar as fuents orichinals">
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
 
@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
 
-<!ENTITY showMediaSidebar.label     "Show @media sidebar">
+<!ENTITY showMediaSidebar.label     "Amostrar a barra lateral @media">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->
 
@@ -44,24 +44,24 @@
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
 
-<!ENTITY mediaRules.label           "@media rules">
+<!ENTITY mediaRules.label           "Reglas @media">
 
-<!ENTITY editorTextbox.placeholder  "Type CSS here.">
+<!ENTITY editorTextbox.placeholder  "Escriba o CSS aquí.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
 
-<!ENTITY noStyleSheet.label         "This page has no style sheet.">
+<!ENTITY noStyleSheet.label         "Ista pachina no tiene garra fuella d'estilo.">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-start.label): This is the start of a
      tip sentence shown when there is no stylesheet. It suggests to create a new
      stylesheet and provides an action link to do so. -->
 
-<!ENTITY noStyleSheet-tip-start.label  "Perhaps you'd like to ">
+<!ENTITY noStyleSheet-tip-start.label  "Puestar quiera ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
-<!ENTITY noStyleSheet-tip-action.label "append a new style sheet">
+<!ENTITY noStyleSheet-tip-action.label "adhibir una fuella d'estilo nueva">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
 
-<!ENTITY openLinkNewTab.label     "Open Link in New Tab">
+<!ENTITY openLinkNewTab.label     "Ubrir o vinclo en una pes&amp;tanya nueva">

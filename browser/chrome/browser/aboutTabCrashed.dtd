@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "Bad news first: This tab has crashed">
-<!ENTITY tabCrashed.message "Now for the good news: You can just close this tab, restore it or restore all your crashed tabs.">
-<!ENTITY tabCrashed.sendReport "Submit a crash report to help prevent more bad news">
-<!ENTITY tabCrashed.includeURL "Include the address of the page I was on">
-<!ENTITY tabCrashed.commentPlaceholder "Add a comment (comments are publicly visible)">
-<!ENTITY tabCrashed.emailPlaceholder "Enter your email address here">
-<!ENTITY tabCrashed.emailMe "Email me when more information is available">
-<!ENTITY tabCrashed.crashReporter "Mozilla Crash Reporter">
-<!ENTITY tabCrashed.reportSent "Crash report already submitted; thank you for helping make &brandShortName; better!">
-<!ENTITY tabCrashed.closeTab "Close This Tab">
-<!ENTITY tabCrashed.restoreTab "Restore This Tab">
-<!ENTITY tabCrashed.restoreAll "Restore All Crashed Tabs">
+<!ENTITY tabCrashed.header "En primeras as malas noticias: Ista pestanya s'ha penchau">
+<!ENTITY tabCrashed.message "Agora as buenas: puetz zarrar a pestanya, recuperar-la u recuperar todas as pestanyas penchadas.">
+<!ENTITY tabCrashed.sendReport "Ninvia un informe de fallo ta aduyar a privar mas malas noticias">
+
+
+
+
+
+<!ENTITY tabCrashed.reportSent "Ya s'ha ninviau o informe de fallos; muitas gracias por aduyar a amillorar &brandShortName;!">
+<!ENTITY tabCrashed.closeTab "Zarrar ista pestanya">
+<!ENTITY tabCrashed.restoreTab "Recuperar ista pestanya">
+<!ENTITY tabCrashed.restoreAll "Recuperar todas as pestanyas penchadas">

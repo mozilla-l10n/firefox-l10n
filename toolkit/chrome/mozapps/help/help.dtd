@@ -8,27 +8,27 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "Back">
-<!ENTITY backButton.accesskey           "B">
-<!ENTITY backButton.tooltip             "Go back one page">
-<!ENTITY forwardButton.label            "Forward">
-<!ENTITY forwardButton.accesskey        "F">
-<!ENTITY forwardButton.tooltip          "Go forward one page">
-<!ENTITY copyCmd.label                  "Copy">
+<!ENTITY backButton.label               "Enta zaga">
+<!ENTITY backButton.accesskey           "z">
+<!ENTITY backButton.tooltip             "Ir una pachina entazaga">
+<!ENTITY forwardButton.label            "Enta debant">
+<!ENTITY forwardButton.accesskey        "E">
+<!ENTITY forwardButton.tooltip          "Ir una pachina entabant">
+<!ENTITY copyCmd.label                  "Copiar">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "Select All">
-<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY selectAllCmd.label             "Seleccionar-lo tot">
+<!ENTITY selectAllCmd.accesskey         "a">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Home">
-<!ENTITY homeButton.tooltip             "Go to the Help Start Page">
-<!ENTITY printButton.label              "Print">
-<!ENTITY printButton.tooltip            "Print this page">
+<!ENTITY homeButton.label               "Inicio">
+<!ENTITY homeButton.tooltip             "Ir a la pachina d'inicio d'a aduya">
+<!ENTITY printButton.label              "Imprentar">
+<!ENTITY printButton.tooltip            "Imprentar ista pachina">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "Search">
-<!ENTITY searchHeader.label             "Search results">
-<!ENTITY toctab.label                   "Contents">
+<!ENTITY search.emptytext               "Mirar">
+<!ENTITY searchHeader.label             "Resultaus d'a busca">
+<!ENTITY toctab.label                   "Contenius">
 <!ENTITY toctab.accesskey               "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -48,10 +48,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "Always on Top">
-<!ENTITY zLevel.accesskey               "T">
+<!ENTITY zLevel.label                   "Siempre dencima">
+<!ENTITY zLevel.accesskey               "S">
 
-<!ENTITY fullZoomReduceBtn.label        "Zoom Out">
-<!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "Zoom In">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+<!ENTITY fullZoomReduceBtn.label        "Disminuir grandaria">
+<!ENTITY fullZoomReduceBtn.accesskey    "D">
+<!ENTITY fullZoomEnlargeBtn.label       "Aumentar grandaria">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "A">

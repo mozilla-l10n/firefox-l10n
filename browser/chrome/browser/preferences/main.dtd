@@ -2,44 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "Startup">
+<!ENTITY startup.label             "Inicio">
 
-<!ENTITY startupPage.label         "When &brandShortName; starts:">
-<!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "Show my home page">
-<!ENTITY startupBlankPage.label    "Show a blank page">
-<!ENTITY startupLastSession.label  "Show my windows and tabs from last time">
+<!ENTITY startupPage.label         "Quan s'enchegue o &brandShortName;:">
+<!ENTITY startupPage.accesskey     "e">
+<!ENTITY startupHomePage.label     "Amostrar a mía pachina d'inicio">
+<!ENTITY startupBlankPage.label    "Amostrar una pachina en blanco">
+<!ENTITY startupLastSession.label  "Amostrar as mías finestras y pestanyas d'a zaguer vegada">
 
-<!ENTITY homepage.label            "Home Page:">
+<!ENTITY homepage.label            "Pachina d'inicio:">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "Use Current Page">
-<!ENTITY useCurrentPage.accesskey  "C">
-<!ENTITY useMultiple.label         "Use Current Pages">
-<!ENTITY chooseBookmark.label      "Use Bookmark…">
-<!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreDefault.label      "Restore to Default">
-<!ENTITY restoreDefault.accesskey  "R">
+<!ENTITY useCurrentPage.label      "Usar pachina actual">
+<!ENTITY useCurrentPage.accesskey  "c">
+<!ENTITY useMultiple.label         "Usar pachinas actuals">
+<!ENTITY chooseBookmark.label      "Usar o marcapachinas…">
+<!ENTITY chooseBookmark.accesskey  "m">
+<!ENTITY restoreDefault.label      "Restaurar ta la valura por defecto">
+<!ENTITY restoreDefault.accesskey  "v">
 
-<!ENTITY downloads.label     "Downloads">
+<!ENTITY downloads.label     "Descargas">
 
-<!ENTITY saveTo.label "Save files to">
-<!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "Browse…">
-<!ENTITY chooseFolderWin.accesskey    "o">
-<!ENTITY chooseFolderMac.label        "Choose…">
-<!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY saveTo.label "Alzar os fichers en">
+<!ENTITY saveTo.accesskey "A">
+<!ENTITY chooseFolderWin.label        "Examinar…">
+<!ENTITY chooseFolderWin.accesskey    "x">
+<!ENTITY chooseFolderMac.label        "Trigar…">
+<!ENTITY chooseFolderMac.accesskey    "T">
+<!ENTITY alwaysAsk.label "Preguntar-me siempre a ón alzar os fichers">
+<!ENTITY alwaysAsk.accesskey "r">
 
-<!ENTITY alwaysCheckDefault2.label        "Always check if &brandShortName; is your default browser">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser2.label     "Make Default">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
-<!ENTITY isDefault.label                  "&brandShortName; is currently your default browser">
-<!ENTITY isNotDefault.label               "&brandShortName; is not your default browser">
+<!ENTITY alwaysCheckDefault2.label        "Comprebar siempre si o &brandShortName; ye o suyo navegador por defecto">
+<!ENTITY alwaysCheckDefault2.accesskey    "o">
+<!ENTITY setAsMyDefaultBrowser2.label     "Fer o navegador por defecto">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+<!ENTITY isDefault.label                  "&brandShortName; ye agora o suyo navegador por defecto">
+<!ENTITY isNotDefault.label               "&brandShortName; no ye o suyo navegador por defecto">
 
-<!ENTITY separateProfileMode.label        "Allow &brandShortName; and Firefox to run at the same time">
-<!ENTITY useFirefoxSync.label             "Tip: This uses separate profiles. Use Sync to share data between them.">
-<!ENTITY getStarted.label                 "Start using Sync…">
+<!ENTITY separateProfileMode.label        "Permitir que &brandShortName; y Firefox corran de vez">
+<!ENTITY useFirefoxSync.label             "Consello: Isto fa servir perfils deseparaus. Faiga servir Sync pa compartir datos entre ells.">
+<!ENTITY getStarted.label                 "Empecipiar a usar Sync…">
 
-<!ENTITY e10sEnabled.label                "Enable multi-process &brandShortName;">
+<!ENTITY e10sEnabled.label                "Activar &brandShortName;  multiproceso">

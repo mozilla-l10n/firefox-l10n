@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title                 "Exceptions">
-<!ENTITY window.width                 "45em">
+<!ENTITY window.title                 "Excepcions">
+<!ENTITY window.width                 "48em">
 
-<!ENTITY treehead.sitename.label      "Site">
-<!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Remove Site">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "Remove All Sites">
-<!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label                "Address of website:">
-<!ENTITY address.accesskey            "d">
-<!ENTITY block.label                  "Block">
+<!ENTITY treehead.sitename.label      "Puesto web">
+<!ENTITY treehead.status.label        "Estau">
+<!ENTITY removepermission.label       "Eliminar o puesto web">
+<!ENTITY removepermission.accesskey   "E">
+<!ENTITY removeallpermissions.label   "Eliminar totz os puestos web">
+<!ENTITY removeallpermissions.accesskey "l">
+<!ENTITY address.label                "Adreza d'o puesto web:">
+<!ENTITY address.accesskey            "A">
+<!ENTITY block.label                  "Blocar">
 <!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "Allow for Session">
-<!ENTITY session.accesskey            "S">
-<!ENTITY allow.label                  "Allow">
-<!ENTITY allow.accesskey              "A">
+<!ENTITY session.label                "Permitir por ista sesión">
+<!ENTITY session.accesskey            "s">
+<!ENTITY allow.label                  "Permitir">
+<!ENTITY allow.accesskey              "P">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.cancel.label          "Cancel">
+<!ENTITY button.cancel.label          "Cancelar">
 <!ENTITY button.cancel.accesskey      "C">
-<!ENTITY button.ok.label              "Save Changes">
-<!ENTITY button.ok.accesskey          "S">
+<!ENTITY button.ok.label              "Alzar os cambios">
+<!ENTITY button.ok.accesskey          "A">
 

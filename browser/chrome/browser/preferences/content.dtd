@@ -2,45 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Pop-ups">
+<!ENTITY  popups.label                "Finestras emerchents">
 
-<!ENTITY  blockPopups.label           "Block pop-up windows">
+<!ENTITY  blockPopups.label           "Blocar finestras emerchents">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Notifications">
-<!ENTITY  notificationsPolicyLearnMore.label   "Learn more">
-<!ENTITY  notificationsPolicyDesc3.label       "Choose which sites are allowed to send you notifications">
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "Choose…">
-<!ENTITY  notificationsDoNotDisturb.label      "Do not disturb me">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "No notification will be shown until you restart &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Exceptions…">
+
+
+
+
+
+
+
+<!ENTITY  popupExceptions.label       "Excepcions…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  fontsAndColors.label        "Fonts &amp; Colors">
+<!ENTITY  fontsAndColors.label        "Fuents y Colors">
 
-<!ENTITY  defaultFont.label           "Default font:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "Size:">
-<!ENTITY  defaultSize.accesskey       "S">
+<!ENTITY  defaultFont.label           "Tipografía por defecto:">
+<!ENTITY  defaultFont.accesskey       "d">
+<!ENTITY  defaultSize.label           "Mida:">
+<!ENTITY  defaultSize.accesskey       "M">
 
-<!ENTITY  advancedFonts.label         "Advanced…">
+<!ENTITY  advancedFonts.label         "Abanzadas…">
 <!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "Colors…">
 <!ENTITY  colors.accesskey            "C">
 
 
-<!ENTITY languages.label              "Languages">
-<!ENTITY chooseLanguage.label         "Choose your preferred language for displaying pages">
-<!ENTITY chooseButton.label           "Choose…">
-<!ENTITY chooseButton.accesskey       "o">
+<!ENTITY languages.label              "Luengas">
+<!ENTITY chooseLanguage.label         "Trigar l'idioma preferiu ta amostrar as pachinas web">
+<!ENTITY chooseButton.label           "Trigar…">
+<!ENTITY chooseButton.accesskey       "T">
 
-<!ENTITY translateWebPages.label      "Translate web content">
+<!ENTITY translateWebPages.label      "Traducir o conteniu web">
 <!ENTITY translateWebPages.accesskey  "T">
-<!ENTITY translateExceptions.label    "Exceptions…">
+<!ENTITY translateExceptions.label    "Excepcions…">
 <!ENTITY translateExceptions.accesskey "x">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -50,11 +49,11 @@
   -  browser/translation.dtd
   -->
 
-<!ENTITY translation.options.attribution.beforeLogo "Translations by">
+<!ENTITY translation.options.attribution.beforeLogo "Traduccions de">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM content">
+<!ENTITY  drmContent.label             "Conteniu DRM">
 
-<!ENTITY  playDRMContent.label         "Play DRM content">
-<!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "Learn more">
+<!ENTITY  playDRMContent.label         "Reproducir conteniu DRM">
+<!ENTITY  playDRMContent.accesskey     "p">
+

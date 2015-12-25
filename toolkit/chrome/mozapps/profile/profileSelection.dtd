@@ -5,27 +5,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Choose User Profile">
+<!ENTITY            windowtitle.label      "&brandShortName; - Trigue un perfil d'usuario">
 
-<!ENTITY            profilename.label      "Profile Name:">
+<!ENTITY            profilename.label      "Nombre d'o perfil:">
 
-<!ENTITY            start.label            "Start &brandShortName;">
-<!ENTITY            exit.label             "Exit">
+<!ENTITY            start.label            "Encetar o &brandShortName;">
+<!ENTITY            exit.label             "Salir">
 
-<!ENTITY            availprofiles.label    "Available Profiles">
+<!ENTITY            availprofiles.label    "Perfils disponibles">
 
-<!ENTITY            newButton.label        "Create Profile…">
+<!ENTITY            newButton.label        "Creyar un perfil…">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Rename Profile…">
+<!ENTITY            renameButton.label     "Renombrar o perfil…">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Delete Profile…">
-<!ENTITY            deleteButton.accesskey "D">
+<!ENTITY            deleteButton.label     "Eliminar o perfil…">
+<!ENTITY            deleteButton.accesskey "E">
 <!-- manager entities -->
 
-<!ENTITY            pmDescription.label    "&brandShortName; stores information about your settings, preferences, and other user items in your user profile.">
+<!ENTITY            pmDescription.label    "&brandShortName; almagazena información sobre a suya configuración, preferencias y atros elementos d'usuario en o suyo perfil d'usuario.">
 
-<!ENTITY            offlineState.label    "Work offline">
+<!ENTITY            offlineState.label    "Treballar sin conexión">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
-<!ENTITY            useSelected.accesskey   "s">
+<!ENTITY            useSelected.label       "Usar o perfil trigau sin preguntar a l'inicio">
+<!ENTITY            useSelected.accesskey   "U">
