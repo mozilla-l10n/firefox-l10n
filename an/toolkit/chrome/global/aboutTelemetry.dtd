@@ -2,136 +2,70 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
+<!ENTITY aboutTelemetry.pageTitle "Datos de telemetría">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Change
-">
+<!ENTITY aboutTelemetry.changeDataChoices "  Cambiar">
 
-<!ENTITY aboutTelemetry.uploadEnabled "
-  FHR data upload is <span>enabled</span>.
-">
+<!ENTITY aboutTelemetry.uploadEnabled "  A puyada de datos de FHR ye <span>activada</span>.">
 
-<!ENTITY aboutTelemetry.uploadDisabled "
-  FHR data upload is <span>disabled</span>.
-">
+<!ENTITY aboutTelemetry.uploadDisabled "  A puyada de datos de FHR ye <span>desactivada</span>.">
 
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Extended Telemetry recording is <span>enabled</span>.
-">
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  O rechistro de telemetría extendida ye <span>activau</span>.">
 
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Extended Telemetry recording is <span>disabled</span>.
-">
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  O rechistro de telemetría extendida ye <span>desactivau</span>.">
 
-<!ENTITY aboutTelemetry.pingDataSource "
-Ping data source:
-">
+<!ENTITY aboutTelemetry.pingDataSource "Fuent de datos de ping:">
 
-<!ENTITY aboutTelemetry.showCurrentPingData "
-Current ping data
-">
+<!ENTITY aboutTelemetry.showCurrentPingData "Datos actuals de ping">
 
-<!ENTITY aboutTelemetry.showArchivedPingData "
-Archived ping data
-">
+<!ENTITY aboutTelemetry.showArchivedPingData "Datos de ping archivaus">
 
-<!ENTITY aboutTelemetry.showSubsessionData "
-Show subsession data
-">
+<!ENTITY aboutTelemetry.showSubsessionData "Amostrar datos d'a subsession">
 
-<!ENTITY aboutTelemetry.choosePing "
-Choose ping:
-">
+<!ENTITY aboutTelemetry.choosePing "Trigar ping:">
 
-<!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Newer ping
-">
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nunca fer ping">
 
-<!ENTITY aboutTelemetry.showOlderPing "
-Older ping &gt;&gt;
-">
+<!ENTITY aboutTelemetry.showOlderPing "Ping mas viello &gt;&gt;">
 
-<!ENTITY aboutTelemetry.archiveWeekHeader "
-Week
-">
+<!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
 
-<!ENTITY aboutTelemetry.archivePingHeader "
-Ping
-">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
-<!ENTITY aboutTelemetry.generalDataSection "
-  General Data
-">
+<!ENTITY aboutTelemetry.generalDataSection "  Datos chenerals">
 
-<!ENTITY aboutTelemetry.environmentDataSection "
-  Environment Data
-">
+<!ENTITY aboutTelemetry.environmentDataSection "  Datos d'o entorno">
 
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Telemetry Log
-">
+<!ENTITY aboutTelemetry.telemetryLogSection "  Rechistro de telemetría">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
-">
+<!ENTITY aboutTelemetry.slowSqlSection "  Consultas SQL lentas">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
-">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Penchadas d'o navegador">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Thread Hangs
-">
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Penchadas de filos">
 
-<!ENTITY aboutTelemetry.histogramsSection "
-  Histograms
-">
+<!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
-<!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Keyed Histograms
-">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Datos chenerals">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Simple Measurements
-">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Midas simples">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Add-on Details
-">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Detalles d'o complemento">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Late Writes
-">
+<!ENTITY aboutTelemetry.lateWritesSection "  Escrituras rezagadas">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  System Information
-">
+<!ENTITY aboutTelemetry.systemInfoSection "  Información d'o sistema">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histograms Collected by Add-ons
-">
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas replegaus por complementos">
 
-<!ENTITY aboutTelemetry.toggle "
-  Click to toggle section
-">
+<!ENTITY aboutTelemetry.toggle "  Faiga clic ta desenrollar/reducir a sección">
 
-<!ENTITY aboutTelemetry.emptySection "
-  (No data collected)
-">
+<!ENTITY aboutTelemetry.emptySection "  (No s'ha replegau garra dato)">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
-">
+<!ENTITY aboutTelemetry.fullSqlWarning "  AVISO: A depuración de consultas SQL lentas ye activada. Talment as cadenas SQL completas se amuestren abaixo, pero no se ninviarán ta Telemetría.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Fetch function names for hang stacks
-">
+<!ENTITY aboutTelemetry.fetchSymbols "  Recullir os nombres d'as funcions d'as pilas que se penchen">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Show raw data from hangs
-">
+<!ENTITY aboutTelemetry.hideSymbols "  Amostrar os datos zanceros d'as penchadas">
 
-<!ENTITY aboutTelemetry.filterText "
-  Filter (strings or /regexp/)
-">
+<!ENTITY aboutTelemetry.filterText "  Filtrar (cadenas u /regexp/)">

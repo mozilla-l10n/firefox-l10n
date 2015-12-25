@@ -6,8 +6,6 @@
      should go into netError.dtd -->
 
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-<p>If you still wish to add an exception for this site, you can do so in your advanced encryption settings.</p>
-">
+<!ENTITY securityOverride.linkText "U puede adhibir una excepción…">
+<!ENTITY securityOverride.warningContent "<p>No habría d'adhibir una excepción si ye usando una connexión d'Internet en a qual no confíe de raso u si no ye feito a veyer garra alvertencia sobre iste servidor.</p> 
+<p>Si encara deseya adhibir una excepción ta iste puesto, puede fer-lo en a suya configuración abanzada de zifrau.</p>">

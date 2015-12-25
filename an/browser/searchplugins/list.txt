@@ -1,8 +1,6 @@
-amazondotcom
-bing
-eBay
 google
+yahoo-es
+bing
+eBay-es
+wikipedia-an
 twitter
-wikipedia
-yahoo
-yahoo-en-CA:hidden

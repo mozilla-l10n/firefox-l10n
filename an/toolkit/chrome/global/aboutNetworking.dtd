@@ -2,30 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutNetworking.title                 "About Networking">
-<!ENTITY aboutNetworking.warning               "This is very experimental. Do not use without adult supervision.">
-<!ENTITY aboutNetworking.showNextTime          "Show this warning next time">
+<!ENTITY aboutNetworking.title                 "Información sobre o ret">
+<!ENTITY aboutNetworking.warning               "Isto ye a saber que experimental. No s'ha de fer servir sin a supervisión d'un adulto.">
+<!ENTITY aboutNetworking.showNextTime          "Mostra ista alvertencia a vegada siguient">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.http                  "Http">
 <!ENTITY aboutNetworking.sockets               "Sockets">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
-<!ENTITY aboutNetworking.refresh               "Refresh">
-<!ENTITY aboutNetworking.autoRefresh           "Autorefresh every 3 seconds">
-<!ENTITY aboutNetworking.hostname              "Hostname">
-<!ENTITY aboutNetworking.port                  "Port">
+<!ENTITY aboutNetworking.refresh               "Esviellar">
+<!ENTITY aboutNetworking.autoRefresh           "Esviellar automaticament cada 3 segundos">
+<!ENTITY aboutNetworking.hostname              "Nombre d'o servidor">
+<!ENTITY aboutNetworking.port                  "Puerto">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
-<!ENTITY aboutNetworking.active                "Active">
-<!ENTITY aboutNetworking.idle                  "Idle">
-<!ENTITY aboutNetworking.host                  "Host">
+<!ENTITY aboutNetworking.active                "Activo">
+<!ENTITY aboutNetworking.idle                  "Inactivo">
+<!ENTITY aboutNetworking.host                  "Servidor">
 <!ENTITY aboutNetworking.tcp                   "TCP">
-<!ENTITY aboutNetworking.sent                  "Sent">
-<!ENTITY aboutNetworking.received              "Received">
-<!ENTITY aboutNetworking.family                "Family">
-<!ENTITY aboutNetworking.addresses             "Addresses">
-<!ENTITY aboutNetworking.expires               "Expires (Seconds)">
-<!ENTITY aboutNetworking.messagesSent          "Messages Sent">
-<!ENTITY aboutNetworking.messagesReceived      "Messages Received">
-<!ENTITY aboutNetworking.bytesSent             "Bytes Sent">
-<!ENTITY aboutNetworking.bytesReceived         "Bytes Received">
+<!ENTITY aboutNetworking.sent                  "Ninviau">
+<!ENTITY aboutNetworking.received              "Recibiu">
+<!ENTITY aboutNetworking.family                "Familia">
+<!ENTITY aboutNetworking.addresses             "Adrezas">
+<!ENTITY aboutNetworking.expires               "Expira (segundos)">
+<!ENTITY aboutNetworking.messagesSent          "Mensaches ninviaus">
+<!ENTITY aboutNetworking.messagesReceived      "Mensaches recibius">
+<!ENTITY aboutNetworking.bytesSent             "Bytes ninviaus">
+<!ENTITY aboutNetworking.bytesReceived         "Bytes recibius">

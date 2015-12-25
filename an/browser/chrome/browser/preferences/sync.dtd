@@ -3,55 +3,55 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY setupButton.label          "Configurar o &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "C">
+<!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; le permite d'accedir ta os marcapachinas, historial, claus, preferencias y pestanyas de qualsiquiera d'os suyos dispositivos.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "Esviellar">
+<!ENTITY resetPass.label              "Restablir">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "Change Password…">
-<!ENTITY myRecoveryKey.label          "My Recovery Key">
-<!ENTITY resetSync2.label             "Reset Sync…">
+<!ENTITY manageAccount.label          "Chestionar a cuenta">
+<!ENTITY manageAccount.accesskey      "C">
+<!ENTITY changePassword2.label        "Cambiar a clau…">
+<!ENTITY myRecoveryKey.label          "A mío clau de recuperación">
+<!ENTITY resetSync2.label             "Restablir a cuenta de Sync…">
 
-<!ENTITY pairDevice.label             "Pair a Device">
+<!ENTITY pairDevice.label             "Vincular un dispositivo">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY syncMy.label               "Sincronizar">
+<!ENTITY engine.bookmarks.label     "Marcapachinas">
+<!ENTITY engine.bookmarks.accesskey "M">
+<!ENTITY engine.tabs.label          "Pestanyas">
+<!ENTITY engine.tabs.accesskey      "t">
+<!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY engine.addons.label        "Add-ons">
-<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.passwords.label     "Claus d'acceso">
+<!ENTITY engine.passwords.accesskey "l">
+<!ENTITY engine.prefs.label         "Preferencias">
+<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "Complementos">
+<!ENTITY engine.addons.accesskey    "C">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
-<!ENTITY fxaSyncDeviceName.label       "Device Name">
-<!ENTITY changeSyncDeviceName.label "Change Device Name…">
-<!ENTITY cancelChangeSyncDeviceName.label "Cancel">
-<!ENTITY saveChangeSyncDeviceName.label "Save">
-<!ENTITY unlinkDevice.label           "Unlink This Device">
+<!ENTITY syncDeviceName.label       "Nombre d'o dispositivo:">
+<!ENTITY syncDeviceName.accesskey   "m">
+<!ENTITY fxaSyncDeviceName.label       "Nombre d'o dispositivo">
+<!ENTITY changeSyncDeviceName.label "Cambear o nombre d'o dispositivo…">
+<!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
+<!ENTITY saveChangeSyncDeviceName.label "Alzar">
+<!ENTITY unlinkDevice.label           "Desvincular iste dispositivo">
 <!-- Footer stuff -->
 
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "Termins d'o Servicio">
+<!ENTITY prefs.ppLink.label         "Politica de privacidat">
 <!-- Firefox Accounts stuff -->
 
-<!ENTITY fxaPrivacyNotice.link.label "Privacy Notice">
-<!ENTITY determiningAcctStatus.label     "Determining your account status…">
+<!ENTITY fxaPrivacyNotice.link.label "Nota sobre privacidat">
+<!ENTITY determiningAcctStatus.label     "Determinando o estau d'a suya cuenta...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -59,50 +59,42 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInUnverified.beforename.label "">
-<!ENTITY signedInUnverified.aftername.label "is not verified.">
+<!ENTITY signedInUnverified.aftername.label "no ye verificau.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 
-<!ENTITY signedInLoginFailure.beforename.label "Please sign in to reconnect">
+<!ENTITY signedInLoginFailure.beforename.label "Enciete una sesión ta reconnectar">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "You are not signed in.">
-<!ENTITY signIn.label                "Sign in">
-<!ENTITY profilePicture.tooltip      "Change profile picture">
-<!ENTITY verifiedManage.label        "Manage Account">
-<!ENTITY disconnect.label            "Disconnect…">
-<!ENTITY verify.label                "Verify Email">
-<!ENTITY forget.label                "Forget this Email">
+<!ENTITY notSignedIn.label           "No ha encetau garra sesión.">
+<!ENTITY signIn.label                "Connectar-se">
+<!ENTITY profilePicture.tooltip      "Cambiar a imachen de perfil">
+<!ENTITY verifiedManage.label        "Chestionar a cuenta">
+<!ENTITY disconnect.label            "Desconnectar...">
+<!ENTITY verify.label                "Verificar mensache">
+<!ENTITY forget.label                "Oblide iste mensache">
 
-<!ENTITY welcome.description "Access your tabs, bookmarks, passwords and more wherever you use &brandShortName;.">
-<!ENTITY welcome.signIn.label "Sign In">
-<!ENTITY welcome.createAccount.label "Create Account">
+<!ENTITY welcome.description "Acceda a las suyas pestanyas, marcapachinas, claus y mas siempre que faiga servir &brandShortName;.">
+<!ENTITY welcome.signIn.label "Connectar-se">
+<!ENTITY welcome.createAccount.label "Creyar una cuenta">
 
-<!ENTITY welcome.useOldSync.label "Using an older version of Sync?">
+<!ENTITY welcome.useOldSync.label "Fer servir una versión antiga de Sync?">
 
-<!ENTITY signedOut.caption            "Take your Web with you">
-<!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
-<!ENTITY signedOut.accountBox.title   "Connect with a &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Create Account">
-<!ENTITY signedOut.accountBox.signin  "Sign In">
+<!ENTITY signedOut.caption            "Leva-te o tuyo Web">
+<!ENTITY signedOut.description        "Sincroniza os tuyos marcapachinas, historial, pestanyas, claus, complementos y preferencias entre totz os tuyos dispositivos.">
+<!ENTITY signedOut.accountBox.title   "Connectar con una &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Creyar una cuenta">
+<!ENTITY signedOut.accountBox.signin  "Connectar-se">
 
-<!ENTITY signedIn.engines.label       "Sync across all devices">
+<!ENTITY signedIn.engines.label       "Sincronizar entre totz os dispositivos">
 <!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Sync to your mobile device.
      Download Firefox for Android or Firefox for iOS." -->
-
-
-<!ENTITY mobilePromo2.start            "Sync to your mobile device. Download ">
 <!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-<!ENTITY mobilePromo2.androidLink      "Firefox for Android">
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
-
-<!ENTITY mobilePromo2.iOSBefore         " or ">
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
-<!ENTITY mobilePromo2.iOSLink          "Firefox for iOS">
 
-<!ENTITY mobilePromo2.end              ".">

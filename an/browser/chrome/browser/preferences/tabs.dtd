@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.label       "Ubrir as nuevas finestras millor en pestanyas">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "Warn me when closing multiple tabs">
-<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+<!ENTITY warnCloseMultipleTabs.label  "Alvertir en zarrar multiples pestanyas">
+<!ENTITY warnCloseMultipleTabs.accesskey  "A">
 
-<!ENTITY warnOpenManyTabs.label       "Warn me when opening multiple tabs might slow down &brandShortName;">
+<!ENTITY warnOpenManyTabs.label       "Alvertir-me quan ubrir quantas pestanyas pueda enlentir o &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "Don’t load tabs until selected">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
+<!ENTITY restoreTabsOnDemand.label        "No cargar as pestanyas dicas qu sigan seleccionadas">
+<!ENTITY restoreTabsOnDemand.accesskey    "N">
 
-<!ENTITY switchToNewTabs.label        "When I open a link in a new tab, switch to it immediately">
+<!ENTITY switchToNewTabs.label        "En ubrir un vinclo en una nueva pestanya, cambiar ta ista de camín">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
-<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
-<!ENTITY showTabsInTaskbar.accesskey      "k">
-<!ENTITY tabsGroup.label          "Tabs">
+<!ENTITY showTabsInTaskbar.label          "Amostrar miniaturas d'as pestanyas en a barra de quefers de Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "n">
+<!ENTITY tabsGroup.label          "Pestanyas">
