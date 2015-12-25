@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Asistent d'importación">
+<!ENTITY migrationWizard.title          "Import Wizard">
 
-<!ENTITY importFrom.label               "Importar opcions, marcapachinas, historial, claus y atros datos de:">
-<!ENTITY importFromUnix.label           "Importar preferencias, marcapachinas, historial, claus y atros datos de:">
-<!ENTITY importFromBookmarks.label      "Importar os marcapachinas de:">
+<!ENTITY importFrom.label               "Import Options, Bookmarks, History, Passwords and other data from:">
+<!ENTITY importFromUnix.label           "Import Preferences, Bookmarks, History, Passwords and other data from:">
+<!ENTITY importFromBookmarks.label      "Import Bookmarks from:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromNothing.label        "No importar cosa">
-<!ENTITY importFromNothing.accesskey    "p">
+<!ENTITY importFromNothing.label        "Don't import anything">
+<!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "Chrome Canary">
@@ -24,23 +24,23 @@
 <!ENTITY importFromChromium.label       "Chromium">
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
-<!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFrom360se.label          "Navegador seguro 360">
+<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "No s'ha trobau garra programa que contenese marcapachinas, historial u datos de claus.">
+<!ENTITY noMigrationSources.label       "No programs that contain bookmarks, history or password data could be found.">
 
-<!ENTITY importSource.title             "Importar a configuración y os datos">
-<!ENTITY importItems.title              "Elementos a importar">
-<!ENTITY importItems.label              "Seleccione qué elementos quiere importar:">
+<!ENTITY importSource.title             "Import Settings and Data">
+<!ENTITY importItems.title              "Items to Import">
+<!ENTITY importItems.label              "Select which items to import:">
 
-<!ENTITY migrating.title                "Se ye importando…">
-<!ENTITY migrating.label                "Os siguients elementos se son importando agora…">
+<!ENTITY migrating.title                "Importing…">
+<!ENTITY migrating.label                "The following items are currently being imported…">
 
-<!ENTITY selectProfile.title            "Seleccionar perfil">
-<!ENTITY selectProfile.label            "Os siguients perfils son disponibles ta importar-los dende:">
+<!ENTITY selectProfile.title            "Select Profile">
+<!ENTITY selectProfile.label            "The following profiles are available to import from:">
 
-<!ENTITY done.title                     "Fin d'a importación">
-<!ENTITY done.label                     "Os siguients elementos s'han importau correctament:">
+<!ENTITY done.title                     "Import Complete">
+<!ENTITY done.label                     "The following items were successfully imported:">
 
-<!ENTITY closeSourceBrowser.label       "Asegure-se de que o navegador trigau ye zarrau antes de continar.">
+<!ENTITY closeSourceBrowser.label       "Please ensure the selected browser is closed before continuing.">

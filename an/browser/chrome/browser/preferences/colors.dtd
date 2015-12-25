@@ -3,28 +3,28 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "Colors">
-<!ENTITY  window.width                    "48em">
-<!ENTITY  window.macWidth                 "49em">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Sobreescribir as colors especificadas por a pachina con as mías seleccions d'alto:">
-<!ENTITY  overridePageColors.accesskey    "o">
+<!ENTITY  overridePageColors.label        "Override the colors specified by the page with my selections above:">
+<!ENTITY  overridePageColors.accesskey    "O">
 
-<!ENTITY  overridePageColors.always.label "Siempre">
-<!ENTITY  overridePageColors.auto.label   "Nomás con temas d'alto contraste">
-<!ENTITY  overridePageColors.never.label  "Nunca">
+<!ENTITY  overridePageColors.always.label "Always">
+<!ENTITY  overridePageColors.auto.label   "Only with High Contrast themes">
+<!ENTITY  overridePageColors.never.label  "Never">
 
-<!ENTITY  color                           "Texto y fundo">
-<!ENTITY  textColor.label                 "Texto:">
+<!ENTITY  color                           "Text and Background">
+<!ENTITY  textColor.label                 "Text:">
 <!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Fundo:">
-<!ENTITY  backgroundColor.accesskey       "F">
-<!ENTITY  useSystemColors.label           "Utilizar as colors d'o sistema">
+<!ENTITY  backgroundColor.label           "Background:">
+<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  useSystemColors.label           "Use system colors">
 <!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "Subrayar os vinclos">
-<!ENTITY  underlineLinks.accesskey        "b">
-<!ENTITY  links                           "Color d'os vinclos">
-<!ENTITY  linkColor.label                 "Vinclos no visitaus:">
-<!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Vinclos visitaus:">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  underlineLinks.label            "Underline links">
+<!ENTITY  underlineLinks.accesskey        "U">
+<!ENTITY  links                           "Link Colors">
+<!ENTITY  linkColor.label                 "Unvisited Links:">
+<!ENTITY  linkColor.accesskey             "L">
+<!ENTITY  visitedLinkColor.label          "Visited Links:">
+<!ENTITY  visitedLinkColor.accesskey      "V">

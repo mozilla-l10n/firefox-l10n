@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "Titol abreviau"> 
-<!ENTITY message.label    "Aquí va un texto d'eixemplo.">
-<!ENTITY editfield0.label "Nombre d'usuario:"> 
-<!ENTITY editfield1.label "Clau:"> 
-<!ENTITY checkbox.label   "comprebar">
-<!ENTITY copyCmd.label    "Copiar">
+<!ENTITY header.label     "Brief Title"> 
+<!ENTITY message.label    "Some sample Text goes here.">
+<!ENTITY editfield0.label "User Name:"> 
+<!ENTITY editfield1.label "Password:"> 
+<!ENTITY checkbox.label   "check">
+<!ENTITY copyCmd.label    "Copy">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Trigar tot">
-<!ENTITY selectAllCmd.accesskey "T">
+<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY selectAllCmd.accesskey "A">

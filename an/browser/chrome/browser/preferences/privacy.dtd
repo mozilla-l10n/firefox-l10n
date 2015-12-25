@@ -2,95 +2,95 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Seguimiento">
+<!ENTITY tracking.label                 "Tracking">
 
-<!ENTITY dntTrackingNotOkay4.label     "Demandar que os puestos no te faigan seguimiento">
+<!ENTITY dntTrackingNotOkay4.label     "Request that sites not track you">
 <!ENTITY dntTrackingNotOkay4.accesskey "n">
-<!ENTITY doNotTrackInfo.label          "Saber-ne mas">
-<!ENTITY trackingProtection5.label     "Usar Protección contra Seguimiento">
+<!ENTITY doNotTrackInfo.label          "Learn More">
+<!ENTITY trackingProtection5.label     "Use Tracking Protection">
 <!ENTITY trackingProtection5.accesskey "i">
-<!ENTITY trackingProtectionLearnMore.label "Saber-ne mas">
-<!ENTITY trackingProtectionPBM5.label         "Usar Protección contra Seguimiento en Finestras Privadas">
+<!ENTITY trackingProtectionLearnMore.label "Learn more">
+<!ENTITY trackingProtectionPBM5.label         "Use Tracking Protection in Private Windows">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!ENTITY trackingProtectionPBMLearnMore.label "Saber-ne mas">
-<!ENTITY changeBlockList.label          "Cambiar a lista de bloqueyos">
+<!ENTITY trackingProtectionPBMLearnMore.label "Learn more">
+<!ENTITY changeBlockList.label          "Change Block List">
 <!ENTITY changeBlockList.accesskey      "C">
 
-<!ENTITY  history.label                 "Historial">
+<!ENTITY  history.label                 "History">
 
-<!ENTITY  locationBar.label             "Barra d'adrezas">
+<!ENTITY  locationBar.label             "Location Bar">
 
-<!ENTITY  locbar.suggest.label          "Quan se faiga servir a barra d'adrezas, sucherir:">
-<!ENTITY  locbar.history.label          "Historial">
+<!ENTITY  locbar.suggest.label          "When using the location bar, suggest:">
+<!ENTITY  locbar.history.label          "History">
 <!ENTITY  locbar.history.accesskey      "H">
-<!ENTITY  locbar.bookmarks.label        "Marcapachinas">
-<!ENTITY  locbar.bookmarks.accesskey    "M">
-<!ENTITY  locbar.openpage.label         "Ubrir as pestanyas">
+<!ENTITY  locbar.bookmarks.label        "Bookmarks">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "Open tabs">
 <!ENTITY  locbar.openpage.accesskey     "O">
-<!ENTITY  locbar.searches.label         "Buscas relacionadas con o motor de busca predeterminau">
+<!ENTITY  locbar.searches.label         "Related searches from the default search engine">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Cambiar as preferencias de sucherencias en motors de busca…">
-<!ENTITY  suggestionSettings.accesskey  "b">
+<!ENTITY  suggestionSettings.label      "Change preferences for search engine suggestions…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Acceptar cookies d'os puestos web">
+<!ENTITY  acceptCookies.label           "Accept cookies from sites">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Acceptar as cookies de tercers:">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Siempre">
-<!ENTITY  acceptThirdParty.never.label    "Nunca">
-<!ENTITY  acceptThirdParty.visited.label  "D'as visitadas">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Never">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
-<!ENTITY  keepUntil.label               "Conservar-las dica:">
-<!ENTITY  keepUntil.accesskey           "d">
+<!ENTITY  keepUntil.label               "Keep until:">
+<!ENTITY  keepUntil.accesskey           "u">
 
-<!ENTITY  expire.label                  "que circumduzcan">
-<!ENTITY  close.label                   "que zarre o &brandShortName;">
+<!ENTITY  expire.label                  "they expire">
+<!ENTITY  close.label                   "I close &brandShortName;">
 
-<!ENTITY  cookieExceptions.label        "Excepcions…">
+<!ENTITY  cookieExceptions.label        "Exceptions…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Amostrar as cookies…">
-<!ENTITY  showCookies.accesskey         "s">
+<!ENTITY  showCookies.label             "Show Cookies…">
+<!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "O &brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "O">
-<!ENTITY  historyHeader.remember.label     "remerará l'historial">
-<!ENTITY  historyHeader.dontremember.label "no remerará l'historial">
-<!ENTITY  historyHeader.custom.label       "ferá servir a configuración personalizada de l'historial">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
+<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.remember.label     "Remember history">
+<!ENTITY  historyHeader.dontremember.label "Never remember history">
+<!ENTITY  historyHeader.custom.label       "Use custom settings for history">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; remerará o suyo historial de navegación, descargas, formularios y buscas, y alzará tamién cookies d'os puestos Web que visite.">
+<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from websites you visit.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "Si quiere, puede ">
-<!ENTITY  rememberActions.clearHistory.label  "porgar o suyo historial recient">
-<!ENTITY  rememberActions.middle.label        ", u ">
-<!ENTITY  rememberActions.removeCookies.label "eliminar bellas cookies">
+<!ENTITY  rememberActions.pre.label           "You may want to ">
+<!ENTITY  rememberActions.clearHistory.label  "clear your recent history">
+<!ENTITY  rememberActions.middle.label        ", or ">
+<!ENTITY  rememberActions.removeCookies.label "remove individual cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "O &brandShortName; ferá servir a mesma configuración que en a navegación privada, y no remerará garra dato d'o suyo historial entre que navega por a Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  dontrememberActions.pre.label          "Tamién podría querer ">
-<!ENTITY  dontrememberActions.clearHistory.label "limpiar tot l'historial">
+<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
+<!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Emplegar siempre o modo de navegación privada">
+<!ENTITY  privateBrowsingPermanent2.label "Always use private browsing mode">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "Remerar o mío historial de navegación y descargas">
-<!ENTITY  rememberHistory2.accesskey  "m">
+<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "Remerar l'historial de formularios y buscas">
+<!ENTITY  rememberSearchForm.label       "Remember search and form history">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Porgar l'historial quan o &brandShortName; se zarre">
-<!ENTITY  clearOnClose.accesskey         "h">
+<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
+<!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "Configuración…">
-<!ENTITY  clearOnCloseSettings.accesskey "g">
+<!ENTITY  clearOnCloseSettings.label     "Settings…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">

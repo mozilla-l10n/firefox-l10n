@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR mozilla.org / Softaragonés
+#define MOZ_LANGPACK_CREATOR mozilla.org
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 
 # variable definition and use the format specified.
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Softaragonés</em:contributor> <em:contributor>Softcatalà</em:contributor> <em:contributor>Juan Pablo Martínez Cortés</em:contributor> <em:contributor>Chesús Daniel Trigo</em:contributor> <em:contributor>Daniel Martínez Cucalón</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Joe Solon</em:contributor> <em:contributor>Suzy Solon</em:contributor>
 
 #unfilter emptyLines

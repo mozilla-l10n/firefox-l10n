@@ -10,16 +10,16 @@
 # live.
 
 
-#define bookmarks_title Marcapachinas
+#define bookmarks_title Bookmarks
 
 
-#define bookmarks_heading Marcapachinas
+#define bookmarks_heading Bookmarks
 
 
-#define bookmarks_toolbarfolder Carpeta d'a barra de marcapachinas
+#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
 
 
-#define bookmarks_toolbarfolder_description Adhiba marcadors a ista carpeta ta veyer-los en a barra de ferramientas de marcapachinas
+#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
 
 
 # LOCALIZATION NOTE (getting_started):
@@ -28,7 +28,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/central/
 
 
-#define getting_started Primers trangos
+#define getting_started Getting Started
 
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -46,7 +46,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 
 
-#define firefox_help Aduya y guidas
+#define firefox_help Help and Tutorials
 
 
 # LOCALIZATION NOTE (firefox_customize):
@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize Personalice o Firefox
+#define firefox_customize Customize Firefox
 
 
 # LOCALIZATION NOTE (firefox_community):
@@ -64,7 +64,7 @@
 # link title for https://www.mozilla.org/en-US/contribute/
 
 
-#define firefox_community Embreque-se-ie
+#define firefox_community Get Involved
 
 
 # LOCALIZATION NOTE (firefox_about):
@@ -73,7 +73,7 @@
 # link title for https://www.mozilla.org/en-US/about/
 
 
-#define firefox_about Arredol de nusatros
+#define firefox_about About Us
 
 
 #unfilter emptyLines

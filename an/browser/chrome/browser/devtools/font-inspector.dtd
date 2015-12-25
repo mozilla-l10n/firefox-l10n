@@ -5,12 +5,12 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "Fuents">
-<!ENTITY showAllFonts "Amostrar todas as fuents emplegadas en ista pachina">
-<!ENTITY usedAs "Emplegadas como: ">
-<!ENTITY system "sistema">
-<!ENTITY remote "remoto">
+<!ENTITY title "Fonts">
+<!ENTITY showAllFonts "See all the fonts used in the page">
+<!ENTITY usedAs "Used as: ">
+<!ENTITY system "system">
+<!ENTITY remote "remote">
 <!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
      placeholder in font inspector preview text box. -->
 
-<!ENTITY previewHint "Texto de previsualización">
+<!ENTITY previewHint "Preview Text">
