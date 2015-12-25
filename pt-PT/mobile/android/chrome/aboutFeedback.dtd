@@ -12,7 +12,7 @@
 <!ENTITY intro.message             "Diga-nos o que achou do &brandShortName; para Android até agora.">
 <!ENTITY intro.happyLink           "Adoro">
 <!ENTITY intro.sadLink             "Tive alguns problemas">
-<!ENTITY intro.maybeLater          "Mais tarde">
+<!ENTITY intro.maybeLater          "Talvez mais tarde">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
-<!ENTITY happy.message             "Deseja mostrar a sua preferência dando-nos 5 estrelas no Google Play?">
+<!ENTITY happy.message             "Deseja partilhar a sua preferência dando-nos 5 estrelas no Google Play?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 

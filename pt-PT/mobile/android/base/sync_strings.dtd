@@ -214,7 +214,7 @@
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
 <!ENTITY fxaccount_status_history "Histórico">
 <!ENTITY fxaccount_status_passwords2 "Credenciais">
-<!ENTITY fxaccount_status_tabs "Separadores">
+<!ENTITY fxaccount_status_tabs "Separadores abertos">
 <!ENTITY fxaccount_status_legal "Jurídico" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -226,7 +226,7 @@
 <!ENTITY fxaccount_remove_account "Desligar&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Remover Conta do Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "O &brandShortName; irá parar de sincronizar a sua conta, mas não irá apagar os dados de navegação neste dispositivo.">
+<!ENTITY fxaccount_remove_account_dialog_message "O &brandShortName; irá parar a sincronização com a sua conta, mas não irá apagar nenhum dos dados de navegação neste dispositivo.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Conta do Firefox &formatS; removida.">
@@ -248,16 +248,16 @@
      has been made to the remote server, and an error of some type has
      been returned. -->
 
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Tem de atualizar o Firefox">
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "É necessário atualizar o Firefox">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "A conta já existe. &formatS1;">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Endereço de e-mail ou palavra-passe inválida">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Endereço de e-mail ou palavra-passe inválida">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Conta não verificada">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Servidor ocupado, tente mais tarde">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor ocupado, tente mais tarde">
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Houve um problema">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Servidor ocupado, tente novamente mais tarde">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor ocupado, tente novamente mais tarde">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Ocorreu um problema">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Não é possível ligar à rede">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "A conta está bloqueada. &formatS1;">
 

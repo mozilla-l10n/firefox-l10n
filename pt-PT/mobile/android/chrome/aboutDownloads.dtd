@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Descargas">
-<!ENTITY aboutDownloads.header                     "Descargas">
+<!ENTITY aboutDownloads.header                     "As suas descargas">
 <!ENTITY aboutDownloads.empty                      "Nenhuma descarga">
 
 <!ENTITY aboutDownloads.open                       "Abrir">
