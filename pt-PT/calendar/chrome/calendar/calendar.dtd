@@ -322,7 +322,7 @@
 <!ENTITY calendarproperties.wcap.label                     "Servidor de calendário Sun Java (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formato:">
 <!ENTITY calendarproperties.location.label                 "Localização:">
-<!ENTITY calendarproperties.refreshInterval.label          "Atualização de calendário:">
+<!ENTITY calendarproperties.refreshInterval.label          "Calendário de atualização:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manualmente">
 <!ENTITY calendarproperties.name.label                     "Nome:">
 <!ENTITY calendarproperties.readonly.label                 "Só leitura">
