@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "Ha decidiu d'ubrir:">
-<!ENTITY  from.label                  "dende:">
-<!ENTITY  actionQuestion.label        "Qué habría de fer o &brandShortName; con iste fichero?">
+<!ENTITY  intro2.label                "You have chosen to open:">
+<!ENTITY  from.label                  "from:">
+<!ENTITY  actionQuestion.label        "What should &brandShortName; do with this file?">
 
-<!ENTITY  openWith.label              "Ubrir con">
+<!ENTITY  openWith.label              "Open with">
 <!ENTITY  openWith.accesskey          "o">
-<!ENTITY  other.label                 "Atros…">
+<!ENTITY  other.label                 "Other…">
 
-<!ENTITY  saveFile.label              "Alzar fichero">
-<!ENTITY  saveFile.accesskey          "z">
+<!ENTITY  saveFile.label              "Save File">
+<!ENTITY  saveFile.accesskey          "s">
 
-<!ENTITY  rememberChoice.label        "Fer isto automaticament ta istos fichers a partir d'agora.">
-<!ENTITY  rememberChoice.accesskey    "e">
+<!ENTITY  rememberChoice.label        "Do this automatically for files like this from now on.">
+<!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIs.label              "que ye:">
+<!ENTITY  whichIs.label              "which is:">
 
-<!ENTITY  chooseHandlerMac.label      "Trigar…">
-<!ENTITY  chooseHandlerMac.accesskey  "T">
-<!ENTITY  chooseHandler.label         "Examinar…">
-<!ENTITY  chooseHandler.accesskey     "E">
+<!ENTITY  chooseHandlerMac.label      "Choose…">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
+<!ENTITY  chooseHandler.label         "Browse…">
+<!ENTITY  chooseHandler.accesskey     "B">
 
-<!ENTITY  unknownPromptText.label     "Quiere alzar iste fichero?">
+<!ENTITY  unknownPromptText.label     "Would you like to save this file?">

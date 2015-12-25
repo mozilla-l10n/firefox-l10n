@@ -2,64 +2,64 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  updateWizard.title              "Actualización de &brandShortName;">
+<!ENTITY  updateWizard.title              "&brandShortName; Update">
 
-<!ENTITY  offline.title                   "&brandShortName; ye en modo sin connexión">
-<!ENTITY  offline.description             "Cal que &brandShortName; pase a modo con connexión ta comprebar si i hai 
-actualizacions disponibles d'os suyos complementos ta fer-los compatibles con 
-ista versión.">
-<!ENTITY  offline.toggleOffline.label     "Pasar a modo con connexión agora.">
-<!ENTITY  offline.toggleOffline.accesskey "P">
+<!ENTITY  offline.title                   "&brandShortName; is working offline">
+<!ENTITY  offline.description             "&brandShortName; needs to go online in order to see if updates
+                                           are available for your add-ons to make them compatible with this
+                                           version.">
+<!ENTITY  offline.toggleOffline.label     "Go online now.">
+<!ENTITY  offline.toggleOffline.accesskey "G">
 
-<!ENTITY  mismatch.win.title              "Complementos incompatibles">
-<!ENTITY  mismatch.top.label              "Os siguients complementos no son compatibles con a nueva versión de 
-&brandShortName; y s'han desactivau:">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; puede comprebar si i hai versions compatibles 
-disponibles d'istos complementos.">
+<!ENTITY  mismatch.win.title              "Incompatible Add-ons">
+<!ENTITY  mismatch.top.label              "The following add-ons are not compatible with this version of
+                                           &brandShortName; and have been disabled:">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; can check if there are compatible versions
+                                           of these add-ons available.">
 
-<!ENTITY  checking.wizard.title           "Se ye comprebando si i hai complementos compatibles">
-<!ENTITY  checking.top.label              "Se ye comprebando si i hai actualizacions ta os complementos incompatibles…">
-<!ENTITY  checking.status                 "Isto podría tardar bells minutos…">
+<!ENTITY  checking.wizard.title           "Checking for Compatible Add-ons">
+<!ENTITY  checking.top.label              "Checking your incompatible add-ons for updates…">
+<!ENTITY  checking.status                 "This may take a few minutes…">
 
-<!ENTITY  found.wizard.title               "S'ha trobau complementos compatibles">
-<!ENTITY  found.top.label                 "Seleccione os complementos que quiere instalar:">
-<!ENTITY  found.disabledXPinstall.label   "No pueden instalar-se istas actualizacions porque a instalación de software 
-ye desactivada en iste momento. Puede cambiar ista configuración debaixo.">
-<!ENTITY  found.enableXPInstall.label     "Permitir que os puestos web instalen software">
-<!ENTITY  found.enableXPInstall.accesskey "P">
+<!ENTITY  found.wizard.title               "Found Compatible Add-ons">
+<!ENTITY  found.top.label                 "Select the add-ons you would like to install:">
+<!ENTITY  found.disabledXPinstall.label   "These updates can't be installed because software installation is currently
+                                           disabled. You can change this setting below.">
+<!ENTITY  found.enableXPInstall.label     "Allow websites to install software">
+<!ENTITY  found.enableXPInstall.accesskey "A">
 
-<!ENTITY  installing.wizard.title         "Se son instalando os complementos compatibles">
-<!ENTITY  installing.top.label            "Se son descargando y instalando as actualizacions d'os suyos complementos…">
+<!ENTITY  installing.wizard.title         "Installing Compatible Add-ons">
+<!ENTITY  installing.top.label            "Downloading and installing updates to your add-ons…">
 
-<!ENTITY  noupdates.wizard.title          "No s'han trobau complementos compatibles">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; no ha puesto trobar actualizacions d'os suyos 
-complementos incompatibles.">
-<!ENTITY  noupdates.error.desc            "S'han trobau qualques problemas en intentar de trobar actualizacions.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; mirará periodicament y le informará quan 
-trobe actualizacions compatibles ta istos complementos.">
+<!ENTITY  noupdates.wizard.title          "No Compatible Add-ons Found">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; was unable to find updates to your
+                                           incompatible add-ons.">
+<!ENTITY  noupdates.error.desc            "Some problems were encountered when trying to find updates.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; will check periodically and inform you
+                                           when compatible updates for these add-ons are found.">
 
-<!ENTITY  finished.wizard.title           "S'han instalau os complementos compatibles">
-<!ENTITY  finished.top.label              "&brandShortName; ha instalau as actualizacions d'os suyos complementos.">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; puede mirar periodicament y informar-le 
-quan trobe actualizacions t'os complementos.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; mirará periodicament y le informará 
-quan trobe actualizacions t'os complementos.">
+<!ENTITY  finished.wizard.title           "Compatible Add-ons Installed">
+<!ENTITY  finished.top.label              "&brandShortName; has installed the updates to your add-ons.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; can check periodically and inform you
+                                           when updates for add-ons are found.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; will check periodically and inform you
+                                           when updates for add-ons are found.">
 
-<!ENTITY  adminDisabled.wizard.title      "No se pueden mirar as actualizacions">
-<!ENTITY  adminDisabled.warning.label     "No ye posible mirar as actualizacions d'os complementos incompatibles 
-porque s'ha desactivau a instalación de software en &brandShortName;. 
-Contacte con l'administrador d'o sistema ta obtener aduya.">
+<!ENTITY  adminDisabled.wizard.title      "Unable to Check for Updates">
+<!ENTITY  adminDisabled.warning.label     "It is not possible to check for updates to incompatible add-ons
+                                           because software installation for &brandShortName; has been disabled.
+                                           Please contact your System Administrator for assistance.">
 
-<!ENTITY  versioninfo.wizard.title        "Se ye comprebando a compatibilidad d'os complementos">
-<!ENTITY  versioninfo.top.label           "Se ye comprebando si i hai complementos compatibles con ista 
-versión de &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "Isto puede tardar uns menutos…">
+<!ENTITY  versioninfo.wizard.title        "Checking Compatibility of Add-ons">
+<!ENTITY  versioninfo.top.label           "Checking your add-ons for compatibility with this
+                                           version of &brandShortName;.">
+<!ENTITY  versioninfo.waiting             "This may take a few minutes…">
 
-<!ENTITY  installerrors.wizard.title      "S'han produciu problemas en instalar as actualizacions">
-<!ENTITY  installerrors.intro.label       "&brandShortName; ha trobau problemas en actualizar 
-qualques d'os suyos complementos.">
+<!ENTITY  installerrors.wizard.title      "Problems Installing Updates">
+<!ENTITY  installerrors.intro.label       "&brandShortName; encountered problems when updating
+                                           some of your add-ons.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY  clickFinish.label               "Prete Finalizar ta continar con l'inicio de &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Prete Rematau ta continar con l'inicio de &brandShortName;.">
-<!ENTITY  enableChecking.label            "Permitir que &brandShortName; mire actualizacions.">
+<!ENTITY  clickFinish.label               "Click Finish to continue starting &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Click Done to continue starting &brandShortName;.">
+<!ENTITY  enableChecking.label            "Allow &brandShortName; to check for updates.">

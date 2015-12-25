@@ -1,252 +1,252 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Chestor de complementos">
+<!ENTITY addons.windowTitle                   "Add-ons Manager">
 
-<!ENTITY search.placeholder                   "Mirar totz os complementos">
-<!ENTITY search.buttonlabel                   "Mirar">
+<!ENTITY search.placeholder                   "Search all add-ons">
+<!ENTITY search.buttonlabel                   "Search">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Se ye cargando…">
-<!ENTITY listEmpty.installed.label            "No tiene instalau garra complemento d'ista mena">
-<!ENTITY listEmpty.availableUpdates.label     "No s'ha trobau garra actualización">
-<!ENTITY listEmpty.recentUpdates.label        "No ha actualizau recientment garra complemento">
-<!ENTITY listEmpty.findUpdates.label          "Mirar si i hai actualizacions">
-<!ENTITY listEmpty.search.label               "No s'ha puesto trobar garra complemento que cumpla os criterios">
-<!ENTITY listEmpty.button.label               "Trobe más información d'os complementos">
-<!ENTITY installAddonFromFile.label           "Instalar un complemento dende un fichero…">
+<!ENTITY loading.label                        "Loading…">
+<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.availableUpdates.label     "No updates found">
+<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
+<!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
+<!ENTITY listEmpty.button.label               "Learn more about add-ons">
+<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
 <!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Ainas ta totz os complementos">
+<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
 
-<!ENTITY cmd.back.tooltip                     "Ir entazaga una pachina">
-<!ENTITY cmd.forward.tooltip                  "Ir una pachina enta debant">
+<!ENTITY cmd.back.tooltip                     "Go back one page">
+<!ENTITY cmd.forward.tooltip                  "Go forward one page">
 
-<!ENTITY showUnsignedExtensions.button.label  "No s'ha puesto verificar bellas extensions">
-<!ENTITY showAllExtensions.button.label       "Amostrar todas as extensions">
+<!ENTITY showUnsignedExtensions.button.label  "Some extensions could not be verified">
+<!ENTITY showAllExtensions.button.label       "Show all extensions">
 <!-- global warnings -->
 
-<!ENTITY warning.safemode.label                    "O modo seguro ha desactivau totz os complementos.">
-<!ENTITY warning.checkcompatibility.label          "A comprebación de compatibilidad d'os complementos ye desactivada. Puestar tienga complementos incompatibles.">
-<!ENTITY warning.checkcompatibility.enable.label   "Activar">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Activar a comprebación de compatibilidad d'os complementos">
-<!ENTITY warning.updatesecurity.label              "A comprebación de seguranza d'os complementos ye desactivada. As actualizacions podrían meter-le en risque.">
-<!ENTITY warning.updatesecurity.enable.label       "Activar">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Activar a comprebación de seguranza d'os complementos">
+<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
+<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label   "Enable">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label       "Enable">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 <!-- global informations -->
 
-<!ENTITY info.plugincheck.label                 "Prete aquí ta veyer si os suyos plugins son actualizaus">
-<!ENTITY info.plugincheck.tooltip               "Prete aquí ta veyer si os suyos plugins son actualizaus">
+<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
 <!-- categories / views -->
 
-<!ENTITY view.search.label                    "Mirar">
-<!ENTITY view.discover.label                  "Mas complementos">
-<!ENTITY view.recentUpdates.label             "Actualizacions recients">
-<!ENTITY view.availableUpdates.label          "Actualizacions disponibles">
+<!ENTITY view.search.label                    "Search">
+<!ENTITY view.discover.label                  "Get Add-ons">
+<!ENTITY view.recentUpdates.label             "Recent Updates">
+<!ENTITY view.availableUpdates.label          "Available Updates">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "Mirar si i hai actualizacions">
-<!ENTITY updates.checkForUpdates.accesskey    "M">
-<!ENTITY updates.viewUpdates.label            "Veyer as actualizacions recients">
+<!ENTITY updates.checkForUpdates.label        "Check for Updates">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.viewUpdates.label            "View Recent Updates">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Esviellar os complementos automaticament">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "E">
+<!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reiniciar totz os complementos ta que s'esviellen automaticament">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reiniciar totz os complementos ta que s'esviellen manualment">
+<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
-<!ENTITY updates.updating.label               "Se son actualizando os complementos">
-<!ENTITY updates.installed.label              "S'han actualizau os suyos complementos.">
-<!ENTITY updates.downloaded.label             "S'han descargau as actualizacions d'os suyos complementos.">
-<!ENTITY updates.restart.label                "Reiniciar agora ta completar l'instalación">
-<!ENTITY updates.noneFound.label              "No s'ha trobau garra actualización">
-<!ENTITY updates.manualUpdatesFound.label     "Veyer as actualizacions disponibles">
-<!ENTITY updates.updateSelected.label         "Instalar as actualizacions">
-<!ENTITY updates.updateSelected.tooltip       "Instalar as actualizacions disponibles en ista lista">
+<!ENTITY updates.updating.label               "Updating add-ons">
+<!ENTITY updates.installed.label              "Your add-ons have been updated.">
+<!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
+<!ENTITY updates.restart.label                "Restart now to complete installation">
+<!ENTITY updates.noneFound.label              "No updates found">
+<!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
+<!ENTITY updates.updateSelected.label         "Install Updates">
+<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label                "Amostrar mas información">
-<!ENTITY cmd.showDetails.accesskey            "A">
-<!ENTITY cmd.findUpdates.label                "Mirar actualizacions">
-<!ENTITY cmd.findUpdates.accesskey            "M">
-<!ENTITY cmd.preferencesWin.label             "Opcions">
+<!ENTITY cmd.showDetails.label                "Show More Information">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "Find Updates">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferencesWin.label             "Options">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "Preferencias">
+<!ENTITY cmd.preferencesUnix.label            "Preferences">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Quanto a">
-<!ENTITY cmd.about.accesskey                  "a">
+<!ENTITY cmd.about.label                      "About">
+<!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAddon.label                "Activar">
-<!ENTITY cmd.enableAddon.accesskey            "v">
-<!ENTITY cmd.disableAddon.label               "Desactivar">
+<!ENTITY cmd.enableAddon.label                "Enable">
+<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.disableAddon.label               "Disable">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "Emplegar o tema">
-<!ENTITY cmd.enableTheme.accesskey            "m">
-<!ENTITY cmd.disableTheme.label               "Deixar d'emplegar o tema">
-<!ENTITY cmd.disableTheme.accesskey           "p">
-<!ENTITY cmd.askToActivate.label              "Preguntar pa activar">
-<!ENTITY cmd.askToActivate.tooltip            "Demandar por cada vegada o permiso pa fer servir iste complemento">
-<!ENTITY cmd.alwaysActivate.label             "Activar siempre">
-<!ENTITY cmd.alwaysActivate.tooltip           "Fer servir siempre iste complemento">
-<!ENTITY cmd.neverActivate.label              "No activar nunca">
-<!ENTITY cmd.neverActivate.tooltip            "No fer servir nunca iste complemento">
-<!ENTITY cmd.stateMenu.tooltip                "Cambiar quan s'execute iste complemento">
-<!ENTITY cmd.installAddon.label               "Instalar">
+<!ENTITY cmd.enableTheme.label                "Wear Theme">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.askToActivate.label              "Ask to Activate">
+<!ENTITY cmd.askToActivate.tooltip            "Ask to use this add-on each time">
+<!ENTITY cmd.alwaysActivate.label             "Always Activate">
+<!ENTITY cmd.alwaysActivate.tooltip           "Always use this add-on">
+<!ENTITY cmd.neverActivate.label              "Never Activate">
+<!ENTITY cmd.neverActivate.tooltip            "Never use this add-on">
+<!ENTITY cmd.stateMenu.tooltip                "Change when this add-on runs">
+<!ENTITY cmd.installAddon.label               "Install">
 <!ENTITY cmd.installAddon.accesskey           "I">
-<!ENTITY cmd.uninstallAddon.label             "Eliminar">
-<!ENTITY cmd.uninstallAddon.accesskey         "E">
-<!ENTITY cmd.debugAddon.label                 "Depurar">
-<!ENTITY cmd.debugAddon.accesskey             "p">
-<!ENTITY cmd.showPreferencesWin.label         "Opcions">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar as opciones d'iste complemento">
-<!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Cambiar as preferencias d'iste complemento">
-<!ENTITY cmd.contribute.label                 "Colaborar-ie">
+<!ENTITY cmd.uninstallAddon.label             "Remove">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.debugAddon.label                 "Debug">
+<!ENTITY cmd.debugAddon.accesskey             "B">
+<!ENTITY cmd.showPreferencesWin.label         "Options">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
+<!ENTITY cmd.showPreferencesUnix.label        "Preferences">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Change this add-on's preferences">
+<!ENTITY cmd.contribute.label                 "Contribute">
 <!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Colaborar en o desembolique d'iste complemento">
+<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
 
-<!ENTITY cmd.showReleaseNotes.label           "Amostrar as notas d'a versión">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Amostrar as notas d'a versión d'ista actualización">
-<!ENTITY cmd.hideReleaseNotes.label           "Amagar as notas d'a versión">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Amagar as notas d'a versión d'ista actualización">
+<!ENTITY cmd.showReleaseNotes.label           "Show Release Notes">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
+<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-<!ENTITY discover.title                       "Qué son os complementos?">
-<!ENTITY discover.description2                "Os complementos son aplicacions que le permiten personalizar &brandShortName; con 
-funcionalidatz u estilos adicionals. Prebe un panel lateral ta cabidar tiempo, un notificador d'orache u un tema ta fer &brandShortName; 
-mas personal.">
-<!ENTITY discover.footer                      "Quan siga connectau a Internet, ista finestra l'amostrará 
-beluns d'os millors y mas populars complementos ta que los prebe.">
+<!ENTITY discover.title                       "What are Add-ons?">
+<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
+  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
+  your own.">
+<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
+  some of the best and most popular add-ons for you to try out.">
 <!-- detail view -->
 
-<!ENTITY detail.version.label                 "Versión">
-<!ENTITY detail.lastupdated.label             "Zaguera actualización">
-<!ENTITY detail.creator.label                 "Desembolicador">
-<!ENTITY detail.homepage.label                "Pachina d'inicio">
-<!ENTITY detail.numberOfDownloads.label       "Descargas">
+<!ENTITY detail.version.label                 "Version">
+<!ENTITY detail.lastupdated.label             "Last Updated">
+<!ENTITY detail.creator.label                 "Developer">
+<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.numberOfDownloads.label       "Downloads">
 
-<!ENTITY detail.contributions.description     "O desembolicador d'iste complemento solicita que le aduyes a continar con o suyo desembolique fendo una chicota donación.">
+<!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
 
-<!ENTITY detail.updateType                    "Actualizacions automaticas">
-<!ENTITY detail.updateDefault.label           "Por defecto">
-<!ENTITY detail.updateDefault.tooltip         "Instalar automaticament as actualizacions nomás si ixe ye o comportamiento por defecto">
-<!ENTITY detail.updateAutomatic.label         "Enchegadas">
-<!ENTITY detail.updateAutomatic.tooltip       "Instalar as actualizacions automaticament">
-<!ENTITY detail.updateManual.label            "Desenchegadas">
-<!ENTITY detail.updateManual.tooltip          "No instalar as actualizacions automaticament">
-<!ENTITY detail.home                          "Pachina d'inicio">
-<!ENTITY detail.repository                    "Perfil d'o complemento">
-<!ENTITY detail.size                          "Grandaria">
+<!ENTITY detail.updateType                    "Automatic Updates">
+<!ENTITY detail.updateDefault.label           "Default">
+<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
+<!ENTITY detail.updateAutomatic.label         "On">
+<!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
+<!ENTITY detail.updateManual.label            "Off">
+<!ENTITY detail.updateManual.tooltip          "Don't automatically install updates">
+<!ENTITY detail.home                          "Homepage">
+<!ENTITY detail.repository                    "Add-on Profile">
+<!ENTITY detail.size                          "Size">
 
-<!ENTITY detail.checkForUpdates.label         "Mirar si i hai actualizacions">
-<!ENTITY detail.checkForUpdates.accesskey     "M">
-<!ENTITY detail.checkForUpdates.tooltip       "Mirar si i hai actualizacions d'este complemento">
-<!ENTITY detail.showPreferencesWin.label      "Opcions">
+<!ENTITY detail.checkForUpdates.label         "Check for Updates">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
+<!ENTITY detail.showPreferencesWin.label      "Options">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Cambiar as opcions d'iste complemento">
-<!ENTITY detail.showPreferencesUnix.label     "Preferencias">
+<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
+<!ENTITY detail.showPreferencesUnix.label     "Preferences">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Cambiar as preferencias d'iste complemento">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Change this add-on's preferences">
 <!-- ratings -->
 
 
-<!ENTITY rating2.label                        "Puntuación">
+<!ENTITY rating2.label                        "Rating">
 <!-- download/install progress -->
 
-<!ENTITY progress.pause.tooltip               "Pausar">
-<!ENTITY progress.cancel.tooltip              "Cancelar">
+<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.cancel.tooltip              "Cancel">
 <!-- list sorting -->
 
 
-<!ENTITY sort.name.label                      "Nombre">
-<!ENTITY sort.name.tooltip                    "Ordinar por nombre">
-<!ENTITY sort.dateUpdated.label               "Zaguera actualización">
-<!ENTITY sort.dateUpdated.tooltip             "Ordinar por calendata d'actualización">
-<!ENTITY sort.relevance.label                 "Millor coincidencia">
-<!ENTITY sort.relevance.tooltip               "Ordinar por relevancia">
-<!ENTITY sort.price.label                     "Pre">
-<!ENTITY sort.price.tooltip                   "Ordinar por pre">
+<!ENTITY sort.name.label                      "Name">
+<!ENTITY sort.name.tooltip                    "Sort by name">
+<!ENTITY sort.dateUpdated.label               "Last Updated">
+<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
+<!ENTITY sort.relevance.label                 "Best match">
+<!ENTITY sort.relevance.tooltip               "Sort by relevance">
+<!ENTITY sort.price.label                     "Price">
+<!ENTITY sort.price.tooltip                   "Sort by price">
 
-<!ENTITY search.filter2.label                 "Mirar:">
-<!ENTITY search.filter2.installed.label       "Os míos complementos">
-<!ENTITY search.filter2.installed.tooltip     "Amostrar os complementos instalaus">
-<!ENTITY search.filter2.available.label       "Complementos disponibles">
-<!ENTITY search.filter2.available.tooltip     "Amostrar os complementos disponibles ta instalar">
+<!ENTITY search.filter2.label                 "Search:">
+<!ENTITY search.filter2.installed.label       "My Add-ons">
+<!ENTITY search.filter2.installed.tooltip     "Show installed add-ons">
+<!ENTITY search.filter2.available.label       "Available Add-ons">
+<!ENTITY search.filter2.available.tooltip     "Show add-ons available to install">
 
-<!ENTITY addon.homepage                       "Pachina d'inicio">
-<!ENTITY addon.details.label                  "Mas">
-<!ENTITY addon.details.tooltip                "Amostrar mas detalles d'iste complemento">
-<!ENTITY addon.unknownDate                    "Desconoixiu">
+<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.details.label                  "More">
+<!ENTITY addon.details.tooltip                "Show more details about this add-on">
+<!ENTITY addon.unknownDate                    "Unknown">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(desactivau)">
+<!ENTITY addon.disabled.postfix               "(disabled)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "Actualizar">
-<!ENTITY addon.undoAction.label               "Desfer">
-<!ENTITY addon.undoAction.tooltip             "Desfer l'acción">
-<!ENTITY addon.undoRemove.label               "Desfer">
-<!ENTITY addon.undoRemove.tooltip             "Mantener o complemento instalau">
-<!ENTITY addon.restartNow.label               "Reiniciar agora">
-<!ENTITY addon.install.label                  "Instalar">
-<!ENTITY addon.install.tooltip                "Instalar iste complemento">
-<!ENTITY addon.updateNow.label                "Actualizar-lo agora">
-<!ENTITY addon.updateNow.tooltip              "Instalar l'actualización d'iste complemento">
-<!ENTITY addon.includeUpdate.label            "Incluir en l'actualización">
-<!ENTITY addon.updateAvailable.label          "I hai una actualización disponible">
-<!ENTITY addon.checkingForUpdates.label       "Se ye mirando si i hai actualizacions…">
-<!ENTITY addon.releaseNotes.label             "Notas d'a versión:">
-<!ENTITY addon.loadingReleaseNotes.label      "Se ye cargando…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "S'ha produciu una error en cargar as notas de versión.">
+<!ENTITY addon.update.postfix                 "Update">
+<!ENTITY addon.undoAction.label               "Undo">
+<!ENTITY addon.undoAction.tooltip             "Undo this action">
+<!ENTITY addon.undoRemove.label               "Undo">
+<!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
+<!ENTITY addon.restartNow.label               "Restart now">
+<!ENTITY addon.install.label                  "Install">
+<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.updateNow.label                "Update Now">
+<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
+<!ENTITY addon.includeUpdate.label            "Include in Update">
+<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
+<!ENTITY addon.releaseNotes.label             "Release Notes:">
+<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
 
-<!ENTITY addon.createdBy.label                "Por ">
+<!ENTITY addon.createdBy.label                "By ">
 
-<!ENTITY eula.title                           "Alcuerdo de licencia d'usuario final">
+<!ENTITY eula.title                           "End-User License Agreement">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Acceptar-lo y instalar-lo…">
+<!ENTITY eula.accept                          "Accept and Install…">
 
-<!ENTITY settings.path.button.label           "Navegar…">
+<!ENTITY settings.path.button.label           "Browse…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 
-<!ENTITY experiment.info.label "Qué ye ixo? De cabo ta quan, a telemetría se puet instalar y executar experimentos.">
-<!ENTITY experiment.info.learnmore "Ta saber-ne mas">
-<!ENTITY experiment.info.learnmore.accesskey "M">
-<!ENTITY experiment.info.changetelemetry "Achustes de telemetría">
+<!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
+<!ENTITY experiment.info.learnmore "Learn More">
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "Telemetry Settings">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Ta saber-ne mas…">
+<!ENTITY setting.learnmore "Learn More…">
 
-<!ENTITY disabledUnsigned.heading "Bells complementos s'han desactivau">
+<!ENTITY disabledUnsigned.heading "Some add-ons have been disabled">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Os siguients complementos no s'han puesto verificar pa o suyo uso en &brandShortName;. Puetz ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "trobar alternativas">
-<!ENTITY disabledUnsigned.description.end " u demandar a o desenrollador que las faiga verificar.">
-<!ENTITY disabledUnsigned.learnMore "Aprender mas sobre os nuestros esfuerzos ta aduyar-le a estar seguro en linia.">
+<!ENTITY disabledUnsigned.description.start "The following add-ons have not been verified for use in &brandShortName;. You can ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "find replacements">
+<!ENTITY disabledUnsigned.description.end " or ask the developer to get them verified.">
+<!ENTITY disabledUnsigned.learnMore "Learn more about our efforts to help keep you safe online.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Os desenrolladors interesaus en fer verificar os suyos complementos pueden seguir leyendo o nuestro ">
+<!ENTITY disabledUnsigned.devInfo.start "Developers interested in getting their add-ons verified can continue by reading our ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">

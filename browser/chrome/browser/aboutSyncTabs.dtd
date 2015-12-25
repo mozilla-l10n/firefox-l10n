@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tabs.otherDevices.label): Keep this in sync with syncTabsMenu2.label from browser.dtd -->
 
-<!ENTITY tabs.otherDevices.label               "Pestanyas dende atros dispositivos">
+<!ENTITY tabs.otherDevices.label               "Tabs From Other Devices">
 
-<!ENTITY tabs.searchText.label                   "Escriba aquí ta mirar pestanyas…">
+<!ENTITY tabs.searchText.label                   "Type here to find tabs…">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 
-<!ENTITY tabs.context.openTab.label                   "Ubrir ista pestanya">
-<!ENTITY tabs.context.openTab.accesskey               "p">
-<!ENTITY tabs.context.openMultipleTabs.label          "Ubrir as pestanyas seleccionadas">
-<!ENTITY tabs.context.openMultipleTabs.accesskey      "o">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "Meter ista pestanya en os marcapachinas…">
-<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "M">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Meter as pestanyas trigadas en os marcapachinas…">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "M">
-<!ENTITY tabs.context.refreshList.label               "Esviellar lista">
-<!ENTITY tabs.context.refreshList.accesskey           "E">
+<!ENTITY tabs.context.openTab.label                   "Open This Tab">
+<!ENTITY tabs.context.openTab.accesskey               "O">
+<!ENTITY tabs.context.openMultipleTabs.label          "Open Selected Tabs">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "O">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Bookmark This Tab…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Bookmark Selected Tabs…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
+<!ENTITY tabs.context.refreshList.label               "Refresh List">
+<!ENTITY tabs.context.refreshList.accesskey           "R">

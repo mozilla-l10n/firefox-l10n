@@ -4,63 +4,63 @@
 <!-- extracted from printjoboptions.xul -->
 
 
-<!ENTITY printSetup.title    "Configuración d'a pachina">
+<!ENTITY printSetup.title    "Page Setup">
 
-<!ENTITY basic.tab           "Formato &amp; opcions">
+<!ENTITY basic.tab           "Format &amp; Options">
 
-<!ENTITY formatGroup.label   "Formato">
+<!ENTITY formatGroup.label   "Format">
 
-<!ENTITY orientation.label   "Orientación:">
-<!ENTITY portrait.label      "Vertical">
-<!ENTITY portrait.accesskey  "V">
-<!ENTITY landscape.label     "Horizontal">
-<!ENTITY landscape.accesskey "H">
+<!ENTITY orientation.label   "Orientation:">
+<!ENTITY portrait.label      "Portrait">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Landscape">
+<!ENTITY landscape.accesskey "L">
 
-<!ENTITY scale.label         "Escala:">
-<!ENTITY scale.accesskey     "s">
+<!ENTITY scale.label         "Scale:">
+<!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Achustar a l'amplaria d'a pachina">
-<!ENTITY shrinkToFit.accesskey "u">
+<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
+<!ENTITY shrinkToFit.accesskey "W">
 
-<!ENTITY optionsGroup.label  "Opcions">
+<!ENTITY optionsGroup.label  "Options">
 
-<!ENTITY printBG.label       "Imprentar o fondo (colors y imachens)">
-<!ENTITY printBG.accesskey   "f">
+<!ENTITY printBG.label       "Print Background (colors &amp; images)">
+<!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "Marguins &amp; capitero/piet de pachina">
+<!ENTITY advanced.tab        "Margins &amp; Header/Footer">
 
-<!ENTITY marginGroup.label   "Marguins (#1)">
-<!ENTITY marginUnits.inches  "pulzadas">
-<!ENTITY marginUnits.metric  "milimetros">
-<!ENTITY marginTop.label     "Superior:">
-<!ENTITY marginTop.accesskey "S">
-<!ENTITY marginBottom.label  "Inferior:">
-<!ENTITY marginBottom.accesskey "I">
-<!ENTITY marginLeft.label    "Cucha:">
-<!ENTITY marginLeft.accesskey "h">
-<!ENTITY marginRight.label   "Dreita:">
-<!ENTITY marginRight.accesskey "D">
+<!ENTITY marginGroup.label   "Margins (#1)">
+<!ENTITY marginUnits.inches  "inches">
+<!ENTITY marginUnits.metric  "millimeters">
+<!ENTITY marginTop.label     "Top:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "Bottom:">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "Left:">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "Right:">
+<!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "Capiters &amp; pietz de pachina">
+<!ENTITY headerFooter.label  "Headers &amp; Footers">
 
-<!ENTITY hfLeft.label        "Cucha:">
-<!ENTITY hfCenter.label      "Centro:">
-<!ENTITY hfRight.label       "Dreita:">
-<!ENTITY headerLeft.tip      "Encabezado cucho">
-<!ENTITY headerCenter.tip    "Encabezado central">
-<!ENTITY headerRight.tip     "Encabezado dreito">
-<!ENTITY footerLeft.tip      "Piet cucho">
-<!ENTITY footerCenter.tip    "Piet central">
-<!ENTITY footerRight.tip     "Piet dreito">
+<!ENTITY hfLeft.label        "Left:">
+<!ENTITY hfCenter.label      "Center:">
+<!ENTITY hfRight.label       "Right:">
+<!ENTITY headerLeft.tip      "Left header">
+<!ENTITY headerCenter.tip    "Center header">
+<!ENTITY headerRight.tip     "Right header">
+<!ENTITY footerLeft.tip      "Left footer">
+<!ENTITY footerCenter.tip    "Center footer">
+<!ENTITY footerRight.tip     "Right footer">
 
-<!ENTITY hfTitle             "Titol">
-<!ENTITY hfURL               "Adreza URL">
-<!ENTITY hfDateAndTime       "Calendata/hora">
-<!ENTITY hfPage              "Pachina #">
-<!ENTITY hfPageAndTotal      "Pachina # de #">
-<!ENTITY hfBlank             "--cosa--">
-<!ENTITY hfCustom            "Personalizau…">
+<!ENTITY hfTitle             "Title">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Date/Time">
+<!ENTITY hfPage              "Page #">
+<!ENTITY hfPageAndTotal      "Page # of #">
+<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfCustom            "Custom…">
 
-<!ENTITY customPrompt.title  "Personalizau…">
-<!ENTITY customPrompt.prompt "Introduzca o suyo texto personalizau d'encabezado/piet">
+<!ENTITY customPrompt.title  "Custom…">
+<!ENTITY customPrompt.prompt "Enter your custom header/footer text">

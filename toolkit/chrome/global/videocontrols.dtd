@@ -2,37 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY playButton.playLabel "Reproducir">
-<!ENTITY playButton.pauseLabel "Pausar">
-<!ENTITY muteButton.muteLabel "Silenciar">
-<!ENTITY muteButton.unmuteLabel "Restaurar son">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Pantalla completa">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Salir d'a pantalla completa">
-<!ENTITY castingButton.castingLabel "Transmitir a la pantalla">
+<!ENTITY playButton.playLabel "Play">
+<!ENTITY playButton.pauseLabel "Pause">
+<!ENTITY muteButton.muteLabel "Mute">
+<!ENTITY muteButton.unmuteLabel "Unmute">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
+<!ENTITY castingButton.castingLabel "Cast to Screen">
 
-<!ENTITY stats.media "Fichers multimedia">
-<!ENTITY stats.size "Mida">
-<!ENTITY stats.activity "Actividat">
-<!ENTITY stats.activityPaused "En pausa">
-<!ENTITY stats.activityPlaying "En reproducción">
-<!ENTITY stats.activityEnded "Rematau">
-<!ENTITY stats.activitySeeking "(se ye posicionando)">
-<!ENTITY stats.volume "Volumen">
-<!ENTITY stats.framesParsed "Fotogramas analisaus">
-<!ENTITY stats.framesDecoded "Fotogramas descodificaus">
-<!ENTITY stats.framesPresented "Fotogramas presentaus">
-<!ENTITY stats.framesPainted "Fotogramas pintaus">
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Size">
+<!ENTITY stats.activity "Activity">
+<!ENTITY stats.activityPaused "Paused">
+<!ENTITY stats.activityPlaying "Playing">
+<!ENTITY stats.activityEnded "Ended">
+<!ENTITY stats.activitySeeking "(seeking)">
+<!ENTITY stats.volume "Volume">
+<!ENTITY stats.framesParsed "Frames parsed">
+<!ENTITY stats.framesDecoded "Frames decoded">
+<!ENTITY stats.framesPresented "Frames presented">
+<!ENTITY stats.framesPainted "Frames painted">
 
-<!ENTITY error.aborted "S'ha aturau a descarga d'o video.">
-<!ENTITY error.network "S'ha abortau a reproducción d'o video por un problema con o ret.">
-<!ENTITY error.decode "O video no se puede reproducir porque o fichero ye corrompiu.">
-<!ENTITY error.srcNotSupported "O formato d'o video u o tipo MIME no son compatibles.">
-<!ENTITY error.noSource2 "No s'ha trobau garra video con un formato u un tipo MIME compatibles.">
-<!ENTITY error.generic "S'ha abortau a reproducción d'o video por un problema desconoixiu.">
+<!ENTITY error.aborted "Video loading stopped.">
+<!ENTITY error.network "Video playback aborted due to a network error.">
+<!ENTITY error.decode "Video can't be played because the file is corrupt.">
+<!ENTITY error.srcNotSupported "Video format or MIME type is not supported.">
+<!ENTITY error.noSource2 "No video with supported format and MIME type found.">
+<!ENTITY error.generic "Video playback aborted due to an unknown error.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "S'ha reproduciu #1 de #2">
+<!ENTITY scrubberScale.nameFormat "#1 of #2 elapsed">

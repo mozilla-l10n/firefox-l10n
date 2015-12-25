@@ -20,80 +20,80 @@
 
 
 
-<!ENTITY window.title                 "Quaderno de prebatinas">
+<!ENTITY window.title                 "Scratchpad">
 
-<!ENTITY fileMenu.label               "Fichero">
+<!ENTITY fileMenu.label               "File">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "Nueva finestra">
+<!ENTITY newWindowCmd.label           "New Window">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Ubrir un fichero…">
-<!ENTITY openFileCmd.accesskey        "U">
+<!ENTITY openFileCmd.label            "Open File…">
+<!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Ubrir recients">
-<!ENTITY openRecentMenu.accesskey     "r">
+<!ENTITY openRecentMenu.label         "Open Recent">
+<!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Revertir…">
+<!ENTITY revertCmd.label              "Revert…">
 <!ENTITY revertCmd.accesskey          "t">
 
-<!ENTITY saveFileCmd.label            "Alzar">
-<!ENTITY saveFileCmd.accesskey        "l">
+<!ENTITY saveFileCmd.label            "Save">
+<!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Alzar como…">
-<!ENTITY saveFileAsCmd.accesskey      "c">
+<!ENTITY saveFileAsCmd.label          "Save As…">
+<!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "Zarrar">
+<!ENTITY closeCmd.label               "Close">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "Z">
+<!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY viewMenu.label               "Veyer">
+<!ENTITY viewMenu.label               "View">
 <!ENTITY viewMenu.accesskey           "V">
 
-<!ENTITY lineNumbers.label             "Amostrar os numeros de linia">
-<!ENTITY lineNumbers.accesskey         "l">
+<!ENTITY lineNumbers.label             "Show Line Numbers">
+<!ENTITY lineNumbers.accesskey         "L">
 
-<!ENTITY wordWrap.label                "Achustar o texto">
-<!ENTITY wordWrap.accesskey            "x">
+<!ENTITY wordWrap.label                "Wrap Text">
+<!ENTITY wordWrap.accesskey            "W">
 
-<!ENTITY highlightTrailingSpace.label     "Resalta os espacios finals">
+<!ENTITY highlightTrailingSpace.label     "Highlight Trailing Space">
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
-<!ENTITY largerFont.label             "Tipo de letra mas gran">
+<!ENTITY largerFont.label             "Larger Font">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY largerFont.commandkey2       "="> 
 
-<!ENTITY smallerFont.label            "Tipo de letra mas chicot">
-<!ENTITY smallerFont.accesskey        "m">
+<!ENTITY smallerFont.label            "Smaller Font">
+<!ENTITY smallerFont.accesskey        "M">
 <!ENTITY smallerFont.commandkey       "-">
 
-<!ENTITY normalSize.label             "Mida normal">
-<!ENTITY normalSize.accesskey         "n">
+<!ENTITY normalSize.label             "Normal Size">
+<!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
-<!ENTITY editMenu.label               "Editar">
+<!ENTITY editMenu.label               "Edit">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY run.label                    "Executar">
-<!ENTITY run.accesskey                "r">
+<!ENTITY run.label                    "Run">
+<!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Inspeccionar">
+<!ENTITY inspect.label                "Inspect">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Amostrar">
-<!ENTITY display.accesskey            "A">
-<!ENTITY display.key                  "s">
+<!ENTITY display.label                "Display">
+<!ENTITY display.accesskey            "D">
+<!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "Escoscar o codigo">
+<!ENTITY pprint.label                 "Pretty Print">
 <!ENTITY pprint.key                   "p">
-<!ENTITY pprint.accesskey             "g">
+<!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -101,11 +101,11 @@
   -  (browser).
   -->
 
-<!ENTITY environmentMenu.label        "Entorno">
-<!ENTITY environmentMenu.accesskey    "n">
+<!ENTITY environmentMenu.label        "Environment">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
-<!ENTITY contentContext.label         "Conteniu">
+<!ENTITY contentContext.label         "Content">
 <!ENTITY contentContext.accesskey     "C">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -114,33 +114,33 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label         "Navegador">
-<!ENTITY browserContext.accesskey     "v">
+<!ENTITY browserContext.label         "Browser">
+<!ENTITY browserContext.accesskey     "B">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "Aduya">
-<!ENTITY helpMenu.accesskey           "A">
-<!ENTITY helpMenuWin.label            "Aduya">
-<!ENTITY helpMenuWin.accesskey        "A">
+<!ENTITY helpMenu.label               "Help">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "Help">
+<!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "Aduya d'o quaderno de prebatinas en o MDN">
-<!ENTITY documentationLink.accesskey  "d">
+<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
+<!ENTITY documentationLink.accesskey  "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
 
-<!ENTITY resetContext2.label          "Restaurar as variables">
-<!ENTITY resetContext2.accesskey      "t">
+<!ENTITY resetContext2.label          "Reset Variables">
+<!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "Recargar y executar">
-<!ENTITY reloadAndRun.accesskey       "e">
+<!ENTITY reloadAndRun.label           "Reload And Run">
+<!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY executeMenu.label            "Executar">
-<!ENTITY executeMenu.accesskey        "x">
+<!ENTITY executeMenu.label            "Execute">
+<!ENTITY executeMenu.accesskey        "X">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
@@ -151,6 +151,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-<!ENTITY evalFunction.label "Evaluar a función actual">
-<!ENTITY evalFunction.accesskey "f">
+<!ENTITY evalFunction.label "Evaluate Current Function">
+<!ENTITY evalFunction.accesskey "v">
 <!ENTITY evalFunction.key "e">

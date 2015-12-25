@@ -4,7 +4,7 @@
 
 #filter substitution
 
-# LOCALIZATION NOTE: this preference is set to true for en-US specifically,
+# LOCALIZATION NOTE: this preference is set to true for ${locale} specifically,
 # locales without this line have the setting set to false by default.
 pref("browser.search.geoSpecificDefaults", true);
 

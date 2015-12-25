@@ -1,30 +1,30 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY about.version                "versión">
+<!ENTITY about.version                "version">
 <!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
-<!ENTITY about.credits.beforeLink     "Veyer una lista de ">
-<!ENTITY about.credits.linkTitle      "colaboradors">
+<!ENTITY about.credits.beforeLink     "See a list of ">
+<!ENTITY about.credits.linkTitle      "contributors">
 <!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.credits.afterLink      " d'o prochecto Mozilla.">
+<!ENTITY about.credits.afterLink      " to the Mozilla Project.">
 <!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no space between this phrase and the linked about.license.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
-<!ENTITY about.license.beforeTheLink  "Leyer a ">
-<!ENTITY about.license.linkTitle      "información de licencia">
+<!ENTITY about.license.beforeTheLink  "Read the ">
+<!ENTITY about.license.linkTitle      "licensing information">
 <!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.license.afterTheLink   " d'iste producto.">
+<!ENTITY about.license.afterTheLink   " for this product.">
 <!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
-<!ENTITY about.relnotes.beforeTheLink "Leyer as ">
-<!ENTITY about.relnotes.linkTitle     "notas de publicación">
+<!ENTITY about.relnotes.beforeTheLink "Read the ">
+<!ENTITY about.relnotes.linkTitle     "release notes">
 <!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no space between the linked about.relnotes.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.relnotes.afterTheLink  " d'ista versión.">
+<!ENTITY about.relnotes.afterTheLink  " for this version.">
 <!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
-<!ENTITY about.buildconfig.beforeTheLink "Veyer a ">
-<!ENTITY about.buildconfig.linkTitle     "configuración de compilación">
+<!ENTITY about.buildconfig.beforeTheLink "See the ">
+<!ENTITY about.buildconfig.linkTitle     "build configuration">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.buildconfig.afterTheLink  " emplegada en ista versión.">
+<!ENTITY about.buildconfig.afterTheLink  " used for this version.">
 
-<!ENTITY about.buildIdentifier        "Identificador d'a compilación: ">
+<!ENTITY about.buildIdentifier        "Build identifier: ">

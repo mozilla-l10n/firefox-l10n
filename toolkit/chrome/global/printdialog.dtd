@@ -4,41 +4,41 @@
 <!-- extracted from printdialog.xul -->
 
 
-<!ENTITY printButton.label "Imprentar">
+<!ENTITY printButton.label "Print">
 
-<!ENTITY printDialog.title "Imprentar">
+<!ENTITY printDialog.title "Print">
 
-<!ENTITY fpDialog.title "Alzar o fichero">
+<!ENTITY fpDialog.title "Save File">
 
-<!ENTITY fileCheck.label "Imprentar ta un archivo">
-<!ENTITY fileCheck.accesskey "h">
-<!ENTITY propertiesButton.label "Propiedatz…">
+<!ENTITY fileCheck.label "Print to File">
+<!ENTITY fileCheck.accesskey "F">
+<!ENTITY propertiesButton.label "Properties…">
 <!ENTITY propertiesButton.accesskey "o">
-<!ENTITY descText.label "Descripción d'a impresora:">
-<!ENTITY printer.label "Impresora">
-<!ENTITY printerInput.label "Nombre d'a impresora:">
+<!ENTITY descText.label "Printer Description:">
+<!ENTITY printer.label "Printer">
+<!ENTITY printerInput.label "Printer Name:">
 <!ENTITY printerInput.accesskey "N">
 
-<!ENTITY printrangeGroup.label "Rango d'impresión">
-<!ENTITY allpagesRadio.label "Todas as pachinas">
-<!ENTITY allpagesRadio.accesskey "T">
-<!ENTITY rangeRadio.label  "Pachinas">
+<!ENTITY printrangeGroup.label "Print Range">
+<!ENTITY allpagesRadio.label "All Pages">
+<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY rangeRadio.label  "Pages">
 <!ENTITY rangeRadio.accesskey  "P">
-<!ENTITY frompageInput.label  "de">
-<!ENTITY frompageInput.accesskey  "d">
-<!ENTITY topageInput.label  "ta">
+<!ENTITY frompageInput.label  "from">
+<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY topageInput.label  "to">
 <!ENTITY topageInput.accesskey  "t">
-<!ENTITY selectionRadio.label "Selección">
+<!ENTITY selectionRadio.label "Selection">
 <!ENTITY selectionRadio.accesskey "S">
 
-<!ENTITY copies.label "Copias">
-<!ENTITY numCopies.label "Numero de copias:">
+<!ENTITY copies.label "Copies">
+<!ENTITY numCopies.label "Number of copies:">
 <!ENTITY numCopies.accesskey "c">
 
-<!ENTITY printframeGroup.label "Imprentar as bastidas">
-<!ENTITY aslaidoutRadio.label "Tal como se veye en pantalla">
-<!ENTITY aslaidoutRadio.accesskey "v">
-<!ENTITY selectedframeRadio.label  "O marco seleccionau">
+<!ENTITY printframeGroup.label "Print Frames">
+<!ENTITY aslaidoutRadio.label "As laid out on the screen">
+<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY selectedframeRadio.label  "The selected frame">
 <!ENTITY selectedframeRadio.accesskey  "m">
-<!ENTITY eachframesepRadio.label  "Cada marco por separau">
-<!ENTITY eachframesepRadio.accesskey  "C">
+<!ENTITY eachframesepRadio.label  "Each frame separately">
+<!ENTITY eachframesepRadio.accesskey  "E">

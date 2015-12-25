@@ -2,35 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY devmgr.title                           "Chestor de dispositivos">
+<!ENTITY devmgr.title                           "Device Manager">
 <!-- LOCALIZATION NOTE (devmgr.style): This is CSS style for Device Manager
      window size. Don't translate "width" nor "height". Adjust the numbers
      to make window contents fit. -->
-<!ENTITY devmgr.style                           "width: 56em; height: 36em;">
+<!ENTITY devmgr.style                           "width: 52em; height: 32em;">
 
-<!ENTITY devmgr.devlist.label                   "Modulos y dispositivos de seguranza">
-<!ENTITY devmgr.details.title                   "Detalles">
-<!ENTITY devmgr.details.title2                  "Valor">
+<!ENTITY devmgr.devlist.label                   "Security Modules and Devices">
+<!ENTITY devmgr.details.title                   "Details">
+<!ENTITY devmgr.details.title2                  "Value">
 
-<!ENTITY devmgr.button.login.label              "Encetar una sesión">
+<!ENTITY devmgr.button.login.label              "Log In">
 <!ENTITY devmgr.button.login.accesskey          "n">
-<!ENTITY devmgr.button.logout.label             "Rematar a sesión">
-<!ENTITY devmgr.button.logout.accesskey         "R">
-<!ENTITY devmgr.button.changepw.label           "Cambiar a clau">
-<!ENTITY devmgr.button.changepw.accesskey       "C">
-<!ENTITY devmgr.button.load.label               "Cargar">
-<!ENTITY devmgr.button.load.accesskey           "C">
-<!ENTITY devmgr.button.unload.label             "Descargar">
-<!ENTITY devmgr.button.unload.accesskey         "D">
+<!ENTITY devmgr.button.logout.label             "Log Out">
+<!ENTITY devmgr.button.logout.accesskey         "O">
+<!ENTITY devmgr.button.changepw.label           "Change Password">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.load.label               "Load">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "Unload">
+<!ENTITY devmgr.button.unload.accesskey         "U">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info                        "Introduzca la información d'o modulo que quiere adhibir.">
-<!ENTITY loaddevice.modname                     "Nombre d'o modulo:">
-<!ENTITY loaddevice.modname.accesskey           "m">
-<!ENTITY loaddevice.modname.default             "Nuevo modulo PKCS#11">
-<!ENTITY loaddevice.filename                    "Nombre de fichero d'o modulo:">
+<!ENTITY loaddevice.info                        "Enter the information for the module you want to add.">
+<!ENTITY loaddevice.modname                     "Module Name:">
+<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.default             "New PKCS#11 Module">
+<!ENTITY loaddevice.filename                    "Module filename:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "Navegar…">
-<!ENTITY loaddevice.browse.accesskey            "N">
+<!ENTITY loaddevice.browse                      "Browse…">
+<!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title                       "Cargar o dispositivo PKCS#11">
+<!ENTITY loaddevice.title                       "Load PKCS#11 Device">
