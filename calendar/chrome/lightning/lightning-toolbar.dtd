@@ -8,7 +8,7 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "ه">
 
 <!ENTITY lightning.toolbar.sync.label "زامِن">
-<!ENTITY lightning.toolbar.sync.tooltip "أعد تحميل التقويمات وزامن التعديلات">
+<!ENTITY lightning.toolbar.sync.tooltip "أعد تحميل التقاويم وزامن التغييرات">
 <!ENTITY lightning.toolbar.delete.label "احذف">
 <!ENTITY lightning.toolbar.delete.tooltip "احذف الأحداث أو المهام المحددة">
 <!ENTITY lightning.toolbar.edit.label "حرر">
