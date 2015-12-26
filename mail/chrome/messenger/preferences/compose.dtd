@@ -1,0 +1,64 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label                   "Опште">
+<!ENTITY itemAutoComplete.label              "Адресирање">
+<!ENTITY itemSpellCheck.label                "Правопис">
+
+<!ENTITY dialogCompose.title                 "Састављање">
+
+<!ENTITY forwardMsg.label                     "Прослеђивање порука:">
+<!ENTITY forwardMsg.accesskey                 "л">
+<!ENTITY inline.label                         "Унутар линије">
+<!ENTITY asAttachment.label                   "Као прилог">
+<!ENTITY addExtension.label                   "додај екстензију на име датотеке">
+<!ENTITY addExtension.accesskey               "е">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Фонт:">
+<!ENTITY font.accesskey                       "н">
+<!ENTITY size.label                           "Величина:">
+<!ENTITY size.accesskey                       "и">
+<!ENTITY fontColor.label                      "Боја текста:">
+<!ENTITY fontColor.accesskey                  "Т">
+<!ENTITY bgColor.label                        "Боја позадине:">
+<!ENTITY bgColor.accesskey                    "Б">
+<!ENTITY restoreHTMLDefaults.label            "Врати подразумевано">
+<!ENTITY restoreHTMLDefaults.accesskey        "д">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Приликом коришћења параграф формата, enter дугме прави нови параграф">
+
+<!ENTITY spellCheck.label                     "Провери правопис пре слања">
+<!ENTITY spellCheck.accesskey                 "в">
+<!ENTITY spellCheckInline.label               "Омогући проверу правописа приликом куцања">
+<!ENTITY spellCheckInline1.accesskey          "г">
+<!ENTITY languagePopup.label                  "Језик:">
+<!ENTITY languagePopup.accessKey              "Ј">
+<!ENTITY downloadDictionaries.label           "Преузми још речника">
+
+<!ENTITY warnOnSendAccelKey.label             "Тражи потврду када се порука шаље са пречицом на тастатури">
+<!ENTITY warnOnSendAccelKey.accesskey         "Т">
+<!ENTITY autoSave.label                       "Аутоматски чувај на">
+<!ENTITY autoSave.accesskey                   "А">
+<!ENTITY autoSaveEnd.label                    "минута">
+
+<!ENTITY emailCollectionPicker.label           "Аутоматски додај одлазне електронске адресе у моје:">
+<!ENTITY emailCollectionPicker.accesskey       "А">
+<!ENTITY addressingTitle.label                 "Самодовршавање адреса">
+<!ENTITY autocompleteText.label                "Приликом адресирања порука, тражи одговарајуће уносе у:">
+<!ENTITY addressingEnable.label                "Локалним именицима">
+<!ENTITY addressingEnable.accesskey            "Л">
+<!ENTITY directories.label                     "Сервер фасцикле:">
+<!ENTITY directories.accesskey                 "ф">
+<!ENTITY directoriesNone.label                 "Ништа">
+<!ENTITY editDirectories.label                 "Уреди фасцикле…">
+<!ENTITY editDirectories.accesskey             "У">
+
+<!ENTITY sendOptionsDescription.label          "Подеси понашање форматирања текста">
+<!ENTITY sendOptions.label                     "Опције слања…">
+<!ENTITY sendOptions.accesskey                 "с">
+
+<!ENTITY attachmentReminder.label              "Провери да ли недостају прилози">
+<!ENTITY attachmentReminder.accesskey          "ј">
+<!ENTITY attachmentReminderOptions.label       "Кључне речи…">
+<!ENTITY attachmentReminderOptions.accesskey   "К">

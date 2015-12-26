@@ -8,6 +8,7 @@
 <!ENTITY editContactName.label "Име:">
 <!ENTITY editContactName.accesskey "И">
 
+<!ENTITY editContactEmail.label "Е-пошта:">
 <!ENTITY editContactEmail.accesskey "Е">
 
 <!ENTITY editContactAddressBook.label "Именик:">

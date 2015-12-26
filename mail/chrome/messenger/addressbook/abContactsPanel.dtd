@@ -14,4 +14,9 @@
 <!ENTITY addrBookCardProperties.accesskey   "С">
 <!ENTITY addtoToFieldMenu.label             "Додај у поље">
 <!ENTITY addtoToFieldMenu.accesskey         "а">
+<!ENTITY addtoCcFieldMenu.label             "Додај у Коп поље">
+<!ENTITY addtoBccFieldMenu.label            "Додај у сКоп поље">
 
+<!ENTITY toButton.label                     "Додај у За:">
+<!ENTITY ccButton.label                     "Додај у Коп:">
+<!ENTITY bccButton.label                    "Додај у сКоп:">
