@@ -101,11 +101,13 @@
 
 <!ENTITY settings "Opcions">
 <!ENTITY settings_title "Configuración">
-
+<!ENTITY pref_category_general "Cheneral">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Luenga">
 <!ENTITY pref_category_language_summary "Cambiar o idioma d\u0027o tuyo navegador">
 <!ENTITY pref_browser_locale "Luenga d\u0027o navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,7 +144,7 @@
 
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar os suyos motors de busca">
-
+<!ENTITY pref_category_accessibility "Accesibilidat">
 
 <!ENTITY pref_category_privacy_short "Privacidat">
 
@@ -161,7 +163,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSELLO: adhiba qualsieuir puesto web en a suya lista de motors de busca con una pretada larga en o suyo campo de busca y dimpués tocando l\u0027icono &formatI;.">
-
+<!ENTITY pref_category_advanced "Abanzau">
 
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota vía USB">
@@ -182,7 +184,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 adhibiu en a pachina d\u0027inicio">
 <!ENTITY pref_category_home_content_settings "Achustes de conteniu">
-
+<!ENTITY pref_home_updates "Actualizacions automaticas">
 <!ENTITY pref_home_updates_enabled "Activadas">
 <!ENTITY pref_home_updates_wifi "Nomás con Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Amostrar sucherencias de puestos">
@@ -192,10 +194,12 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Pachina d\u0027inicio de &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Presonalizau">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
@@ -203,11 +207,13 @@
      text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "Cheneral">
+<!ENTITY pref_header_search "Mirar">
 <!ENTITY pref_header_privacy_short "Privacidat">
-
-
+<!ENTITY pref_header_accessibility "Accesibilidat">
+<!ENTITY pref_header_advanced "Abanzau">
 <!ENTITY pref_header_help "Aduya">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activadas">
