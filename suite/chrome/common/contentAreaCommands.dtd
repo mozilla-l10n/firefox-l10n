@@ -17,7 +17,7 @@
 <!ENTITY openLinkInWindowCmd.accesskey "b">
 <!ENTITY openFrameCmd.label           "Abrir moldura em nova janela">
 <!ENTITY openFrameCmd.accesskey       "j">
-<!ENTITY openFrameCmdInTab.label      "Abrir moldura em novo separador">
+<!ENTITY openFrameCmdInTab.label      "Abrir frame num novo separador">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY keywordfield.label           "Adicionar palavra-chave a esta pesquisa…">
 <!ENTITY keywordfield.accesskey       "q">
