@@ -44,7 +44,7 @@
 <!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "另存新檔…">
-<!ENTITY saveFileAsCmd.accesskey      "a">
+<!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "關閉">
 <!ENTITY closeCmd.key                 "W">
@@ -101,7 +101,7 @@
   -  (browser).
   -->
 <!ENTITY environmentMenu.label        "環境">
-<!ENTITY environmentMenu.accesskey    "n">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
 <!ENTITY contentContext.label         "內容">
@@ -132,14 +132,14 @@
   -  to reset/clear the global object of the environment where the code executes.
   -->
 <!ENTITY resetContext2.label          "重設變數">
-<!ENTITY resetContext2.accesskey      "t">
+<!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY reloadAndRun.label           "重新載入並執行">
 <!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "執行">
-<!ENTITY executeMenu.accesskey        "x">
+<!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
