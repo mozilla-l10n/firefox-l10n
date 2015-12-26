@@ -11,7 +11,7 @@
 <!ENTITY askMe.accesskey "п">
 <!ENTITY convertPlain.label "Преобразовывать сообщение в простой текст">
 <!ENTITY convertPlain.accesskey "р">
-<!ENTITY sendHTML.label "Отправлять сообщения в HTML">
+<!ENTITY sendHTML.label "Отправлять сообщение в HTML">
 <!ENTITY sendHTML.accesskey "а">
 <!ENTITY sendBoth.label "Отправлять сообщение в виде как простого текста, так и HTML">
 <!ENTITY sendBoth.accesskey "т">
