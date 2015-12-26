@@ -18,7 +18,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> 的网站管理员未正确设置好网站。为了确保您的信息不会被泄露，&brandShortName; 并未连接至该网站。">
 <!ENTITY certerror.returnToPreviousPage.label "后退">
-<!ENTITY certerror.learnMore "了解更多内容…">
+<!ENTITY certerror.learnMore "详细了解…">
 <!ENTITY certerror.advanced.label "高级">
 
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此网站使用了 HTTP 严格传输安全协议（HSTS），要求 &brandShortName; 只应与其建立安全的连接。正因如此，此证书无法添加到例外。">
