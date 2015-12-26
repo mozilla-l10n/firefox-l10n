@@ -457,7 +457,7 @@
 
 <!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">
 <!ENTITY contextOpenNewWindow.accesskey "A">
-<!ENTITY contextOpenNewTab.label "Abrir mensagem em novo separador">
+<!ENTITY contextOpenNewTab.label "Abrir mensagem num novo separador">
 <!ENTITY contextOpenNewTab.accesskey "s">
 <!ENTITY contextEditAsNew.label "Editar como nova...">
 <!ENTITY contextEditAsNew.accesskey "d">
@@ -495,7 +495,7 @@
 <!ENTITY folderContextGetMessages.accesskey "O">
 <!ENTITY folderContextOpenNewWindow.label "Abrir em nova janela de correio">
 <!ENTITY folderContextOpenNewWindow.accesskey "j">
-<!ENTITY folderContextOpenNewTab.label "Abrir em novo separador">
+<!ENTITY folderContextOpenNewTab.label "Abrir num novo separador">
 <!ENTITY folderContextOpenNewTab.accesskey "s">
 <!ENTITY folderContextRename.label "Mudar nome">
 <!ENTITY folderContextRename.accesskey "r">

@@ -48,7 +48,7 @@
 
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_tab.label              "Abrir em novo separador">
+<!ENTITY cmd.open_tab.label              "Abrir num novo separador">
 <!ENTITY cmd.open_tab.accesskey          "s">
 <!ENTITY cmd.open_window.label           "Abrir em nova janela">
 <!ENTITY cmd.open_window.accesskey       "n">
