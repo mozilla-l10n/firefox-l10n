@@ -32,4 +32,4 @@ Strict Transport Security (HSTS) प्रयोग गर्छ। केवल
 <!ENTITY certerror.expert.contentPara2 "तब सम्म अपवाद नथप्नुहोस जबसम्म 
 तपाईलाई यस साइटले किन भरोसा पहिचानको उपयोग गर्दैन भन्ने बारे एउटा राम्रो कारण थाहाछैन। ">
 <!ENTITY certerror.addException.label "अपवाद थप्नुहोस्...">
-
+<!ENTITY certerror.copyToClipboard.label "क्लिपबोर्डमा पाठ प्रतिलिपि गर्नुहोस्">
