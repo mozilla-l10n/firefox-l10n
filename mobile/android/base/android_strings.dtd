@@ -101,11 +101,13 @@
 
 <!ENTITY settings "Tənzimləmələr">
 <!ENTITY settings_title "Tənzimləmələr">
-
-
+<!ENTITY pref_category_general "Ümumi">
+<!ENTITY pref_category_general_summary2 "Ev, dil, ünvan sətri">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Dil">
 <!ENTITY pref_category_language_summary "Səyyahınızın dilini dəyişin">
 <!ENTITY pref_browser_locale "Səyyahın dili">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,7 +144,7 @@
 
 <!ENTITY pref_category_search3 "Axtar">
 <!ENTITY pref_category_search_summary "Axtarış sistemini xüsusiləşdirin">
-
+<!ENTITY pref_category_accessibility "Əlçatanlıq">
 
 <!ENTITY pref_category_privacy_short "Məxfilik">
 
