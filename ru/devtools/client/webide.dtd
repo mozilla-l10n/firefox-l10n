@@ -159,3 +159,6 @@
 <!ENTITY simulator_device "Устройство">
 <!ENTITY simulator_screenSize "Экран">
 <!ENTITY simulator_pixelRatio "Соотношение пикселей">
+<!ENTITY simulator_tv_data "Симуляция ТВ">
+<!ENTITY simulator_tv_data_open "Данные конфигурации">
+<!ENTITY simulator_tv_data_open_button "Открыть каталог конфигурации…">

@@ -108,8 +108,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Удалённая отладка через Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Для удалённой отладки через Wi-Fi необходимо, чтобы на вашем устройстве было установлено приложение для чтения QR-кодов.">
 <!ENTITY pref_remember_signons2 "Запоминать логины">
-<!ENTITY pref_open_external_urls_privately_title "Открывать ссылки в приватном просмотре">
-<!ENTITY pref_open_external_urls_privately_summary "Для всех внешних ссылок, открытых в &brandShortName;">
 <!ENTITY pref_manage_logins "Управление логинами">
 <!ENTITY pref_category_home "Дом">
 <!ENTITY pref_category_home_summary "Настройка домашней страницы">
@@ -445,8 +443,6 @@
 <!ENTITY restrictable_feature_advanced_settings_description "Это включает в себя импорт закладок, восстановление вкладок и автоматическое обновление. Отключите для перехода к упрощённым настройкам, подходящим для любого члена семьи.">
 <!ENTITY restrictable_feature_camera_microphone "Камера и микрофон">
 <!ENTITY restrictable_feature_camera_microphone_description "Позволяет членам семьи участвовать в общении на веб-сайтах в реальном времени.">
-<!ENTITY restrictable_feature_data_choices "Выбор данных">
-<!ENTITY restrictable_feature_data_choices_description "Выбирать, следует ли отправлять информацию об использовании в Mozilla, чтобы помочь сделать Firefox лучше.">
 <!ENTITY restrictable_feature_block_list "Список блокировки">
 <!ENTITY restrictable_feature_block_list_description "Блокировка веб-сайтов, содержащих деликатную информацию.">
 <!ENTITY bookmarks_about_browser "Firefox: О вашем браузере">
