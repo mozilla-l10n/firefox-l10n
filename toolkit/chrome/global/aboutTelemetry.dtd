@@ -19,6 +19,12 @@
 Данные текущего пинга ">
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Данные архивированного пинга ">
+<!ENTITY aboutTelemetry.pingDataDisplay "
+Отображение данных пинга: ">
+<!ENTITY aboutTelemetry.structured "
+Структурированное ">
+<!ENTITY aboutTelemetry.raw "
+Необработанный JSON ">
 <!ENTITY aboutTelemetry.showSubsessionData "
 Отображать данные подсессии ">
 <!ENTITY aboutTelemetry.choosePing "
