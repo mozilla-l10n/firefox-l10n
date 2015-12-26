@@ -307,3 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Darempredoù">
 <!-- Identity popup customize menuitem -->
 
+<!ENTITY customizeFromAddress.label "Personelaat ar chomlec'h 'A-berzh'...">
+<!ENTITY customizeFromAddress.accesskey "P">

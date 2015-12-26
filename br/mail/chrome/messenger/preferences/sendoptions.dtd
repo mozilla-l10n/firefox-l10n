@@ -4,8 +4,8 @@
 
 <!ENTITY dialog.title                 "Dibarzhioù kas">
 <!ENTITY sendMail.title               "Mentrezh an destenn">
-
-
+<!ENTITY autoDowngrade.label          "Kas kemennadennoù evel testenn blaen m'eo posupl">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Pa vez kaset posteloù e mentrezh HTML hag unan pe veur a zegemerer n'int ket war roll ar re varrek da zegemer HTML:">
 <!ENTITY askMe.label                  "Goulenn petra ober">
 <!ENTITY askMe.accesskey              "p">
