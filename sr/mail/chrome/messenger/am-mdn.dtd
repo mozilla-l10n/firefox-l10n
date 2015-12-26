@@ -22,6 +22,7 @@
 <!ENTITY returnSome.accesskey         "е">
 <!ENTITY never.label                  "Никада не шаљи потврду о пријему">
 <!ENTITY never.accesskey              "Н">
+<!ENTITY notInToCc.label              "Нисам ни у За ни у Коп делу поруке:">
 <!ENTITY notInToCc.accesskey          "А">
 <!ENTITY outsideDomain.label          "Ако је пошиљалац ван мог домена:">
 <!ENTITY outsideDomain.accesskey      "п">

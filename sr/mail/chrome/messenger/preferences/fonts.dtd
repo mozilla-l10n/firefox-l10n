@@ -2,18 +2,79 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  fontsAndEncodingsDialog.title           "Фонтови и кодирања">
 
+<!ENTITY  language.label                          "Фонтови за:">
+<!ENTITY  language.accesskey                      "т">
 
+<!ENTITY  size.label                              "Величина:">
+<!ENTITY  sizeProportional.accesskey              "е">
+<!ENTITY  sizeMonospace.accesskey                 "т">
 
+<!ENTITY  proportional.label                      "Сразмерно:">
+<!ENTITY  proportional.accesskey                  "з">
 
+<!ENTITY  serif.label                             "Серифни:">
+<!ENTITY  serif.accesskey                         "С">
+<!ENTITY  sans-serif.label                        "Безсерифни:">
+<!ENTITY  sans-serif.accesskey                    "ф">
+<!ENTITY  monospace.label                         "Утврђене ширине:">
+<!ENTITY  monospace.accesskey                     "У">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Латинични">
+<!ENTITY  font.langGroup.japanese                 "Јапански">
+<!ENTITY  font.langGroup.trad-chinese             "Традиционални кинески (Тајван)">
+<!ENTITY  font.langGroup.simpl-chinese            "Поједностаљени кинески">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Традиционални кинески (Хонг Конг)">
+<!ENTITY  font.langGroup.korean                   "Корејски">
+<!ENTITY  font.langGroup.cyrillic                 "Ћирилични">
+<!ENTITY  font.langGroup.el                       "Грчки">
+<!ENTITY  font.langGroup.other                    "Други језици">
+<!ENTITY  font.langGroup.thai                     "Тајландски">
+<!ENTITY  font.langGroup.hebrew                   "Хебрејски">
+<!ENTITY  font.langGroup.arabic                   "Арапски">
+<!ENTITY  font.langGroup.devanagari               "Девангарски">
+<!ENTITY  font.langGroup.tamil                    "Тамилски">
+<!ENTITY  font.langGroup.armenian                 "Јерменски">
+<!ENTITY  font.langGroup.bengali                  "Бенгалски">
+<!ENTITY  font.langGroup.canadian                 "Уједињени канадски слоговни">
+<!ENTITY  font.langGroup.ethiopic                 "Етиопијски">
+<!ENTITY  font.langGroup.georgian                 "Грузијски">
+<!ENTITY  font.langGroup.gujarati                 "Гујарати">
+<!ENTITY  font.langGroup.gurmukhi                 "Гурмукхски">
+<!ENTITY  font.langGroup.khmer                    "Кмерски">
+<!ENTITY  font.langGroup.malayalam                "Малајски">
+<!ENTITY  font.langGroup.math                     "Математички">
+<!ENTITY  font.langGroup.oriya                    "Орија">
+<!ENTITY  font.langGroup.telugu                   "Телугу">
+<!ENTITY  font.langGroup.kannada                  "Канадски">
+<!ENTITY  font.langGroup.sinhala                  "Синхалески">
+<!ENTITY  font.langGroup.tibetan                  "Тибетански">
 <!-- Minimum font size -->
+<!ENTITY minSize.label                            "Најмања величина фонта:">
+<!ENTITY minSize.accesskey                        "т">
+<!ENTITY minSize.none                             "Ништа">
 
 <!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Серифни">
+<!ENTITY  useDefaultFontSansSerif.label           "Безсерифни">
 
 <!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Контрола фонта">
+<!ENTITY  useFixedWidthForPlainText.label         "Користи фонт утврђене ширине за обичне текстуалне поруке">
+<!ENTITY  fixedWidth.accesskey                    "б">
+<!ENTITY  useDocumentFonts.label                  "Дозволи порукама да користе друге фонтове">
+<!ENTITY  useDocumentFonts.accesskey              "о">
 
 <!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Одлазна пошта:">
+<!ENTITY sendDefaultCharset.accesskey     "л">
+<!ENTITY languagesTitle2.label            "Кодирање текста">
+<!ENTITY composingDescription2.label      "Постави подразумевано кодирање текста за послату и примљену пошту">
 
+<!ENTITY viewDefaultCharsetList.label     "Долазна пошта:">
+<!ENTITY viewDefaultCharsetList.accesskey  "Д">
+<!ENTITY replyInDefaultCharset3.label     "Где је могуће, користи подразумевано кодирање текста у одговорима">
+<!ENTITY replyInDefaultCharset3.accesskey "Г">

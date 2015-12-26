@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Тражи поруке у:">
+<!ENTITY searchHeading.accesskey     "и">
+<!ENTITY searchSubfolders.label      "Претражи подфасцикле">
+<!ENTITY searchSubfolders.accesskey  "е">
+<!ENTITY searchOnServer.label        "Изврши претрагу на серверу">
+<!ENTITY searchOnServer.accesskey    "у">
+<!ENTITY resetButton.label           "Очисти">
+<!ENTITY resetButton.accesskey       "с">
+<!ENTITY openButton.label            "Отвори">
+<!ENTITY openButton.accesskey        "и">
+<!ENTITY deleteButton.label          "Обриши">
+<!ENTITY deleteButton.accesskey      "б">
+<!ENTITY searchDialogTitle.label     "Претражи поруке">
+<!ENTITY results.label               "Резултати">
+<!ENTITY moveButton.label            "Помери у">
+<!ENTITY moveButton.accesskey        "м">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Отвори у фасцикли">
+<!ENTITY openInFolder.accesskey      "л">
+<!ENTITY saveAsVFButton.label        "Сачувај као претраживачку фасциклу">
+<!ENTITY saveAsVFButton.accesskey    "ц">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Тражи у:">
+<!ENTITY abSearchHeading.accesskey   "и">
+<!ENTITY propertiesButton.label      "Својства">
+<!ENTITY propertiesButton.accesskey  "С">
+<!ENTITY composeButton.label         "Пиши">
+<!ENTITY composeButton.accesskey     "П">
+<!ENTITY deleteCardButton.label      "Обриши">
+<!ENTITY deleteCardButton.accesskey  "б">
+<!ENTITY abSearchDialogTitle.label   "Напредна претрага именика">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Нит">
+<!ENTITY fromColumn.label "Од">
+<!ENTITY recipientColumn.label "Прималац">
+<!ENTITY correspondentColumn.label "Дописници">
+<!ENTITY subjectColumn.label "Тема">
+<!ENTITY dateColumn.label "Датум">
+<!ENTITY priorityColumn.label "Важност">
+<!ENTITY tagsColumn.label "Ознаке">
+<!ENTITY accountColumn.label "Налог">
+<!ENTITY statusColumn.label "Стање">
+<!ENTITY sizeColumn.label "Величина">
+<!ENTITY junkStatusColumn.label "Стање непожељности">
+<!ENTITY unreadColumn.label "Непрочитано">
+<!ENTITY totalColumn.label "Укупно">
+<!ENTITY readColumn.label "Прочитано">
+<!ENTITY receivedColumn.label "Примљено">
+<!ENTITY starredColumn.label "Са звездицом">
+<!ENTITY locationColumn.label "Место">
+<!ENTITY idColumn.label "Редослед доставе">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Изаберите колоне за приказ">
+<!ENTITY threadColumn2.tooltip "Прикажи нити поруке">
+<!ENTITY fromColumn2.tooltip "Поређај по пошиљаоцу">
+<!ENTITY recipientColumn2.tooltip "Поређај по примаоцу">
+<!ENTITY correspondentColumn2.tooltip "Поређај по дописницима">
+<!ENTITY subjectColumn2.tooltip "Поређај по теми">
+<!ENTITY dateColumn2.tooltip "Поређај по датуму">
+<!ENTITY priorityColumn2.tooltip "Поређај по важности">
+<!ENTITY tagsColumn2.tooltip "Поређај по ознакама">
+<!ENTITY accountColumn2.tooltip "Поређај по налогу">
+<!ENTITY statusColumn2.tooltip "Поређај по стању">
+<!ENTITY sizeColumn2.tooltip "Поређај по величини">
+<!ENTITY junkStatusColumn2.tooltip "Поређај по стању непожељности">
+<!ENTITY unreadColumn2.tooltip "Број непрочитаних порука у овој нити">
+<!ENTITY totalColumn2.tooltip "Укупан број порука у овој нити">
+<!ENTITY readColumn2.tooltip "Поређај по прочитаности">
+<!ENTITY receivedColumn2.tooltip "Поређај по датуму пријема">
+<!ENTITY starredColumn2.tooltip "Поређај по звездици">
+<!ENTITY locationColumn2.tooltip "Поређај по месту">
+<!ENTITY idColumn2.tooltip "Поређај по редоследу пријема">
