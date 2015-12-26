@@ -16,7 +16,7 @@
 <!ENTITY autoSave.label "Автоматически сохранять сообщение каждые">
 <!ENTITY autoSave.accesskey "м">
 <!ENTITY autoSaveEnd.label "минут">
-<!ENTITY wrapOutMsg.label "Длина строки в текстовых сообщениях:">
+<!ENTITY wrapOutMsg.label "Длина строки в простых текстовых сообщениях:">
 <!ENTITY wrapOutMsg.accesskey "л">
 <!ENTITY char.label "символов">
 <!ENTITY defaultMessagesHeader.label "Параметры по умолчанию для сообщений в формате HTML">

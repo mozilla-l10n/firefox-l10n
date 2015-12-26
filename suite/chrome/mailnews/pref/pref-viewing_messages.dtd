@@ -15,7 +15,7 @@
 <!ENTITY smaller.label "Меньше">
 <!ENTITY color.label "Цвет:">
 <!ENTITY color.accesskey "Ц">
-<!ENTITY displayPlainText.caption "Сообщения в текстовом формате">
+<!ENTITY displayPlainText.caption "Сообщения в виде простого текста">
 <!ENTITY fontPlainText.label "Шрифт:">
 <!ENTITY fontPlainText.accesskey "ф">
 <!ENTITY displayQuoted.label "Настройки цитирования сообщений:">
