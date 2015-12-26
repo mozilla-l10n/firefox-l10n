@@ -607,7 +607,7 @@
 <!ENTITY folderContextGetMessages.accesskey "O">
 <!ENTITY folderContextOpenInNewWindow.label "Abrir">
 <!ENTITY folderContextOpenInNewWindow.accesskey "A">
-<!ENTITY folderContextOpenNewTab.label "Abrir em novo separador">
+<!ENTITY folderContextOpenNewTab.label "Abrir num novo separador">
 <!ENTITY folderContextOpenNewTab.accesskey "s">
 <!ENTITY folderContextNew.label "Nova subpasta...">
 <!ENTITY folderContextNew.accesskey "N">
@@ -708,7 +708,7 @@
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
-<!ENTITY contextOpenNewTab.label "Abrir mensagem em novo separador">
+<!ENTITY contextOpenNewTab.label "Abrir mensagem num novo separador">
 <!ENTITY contextOpenNewTab.accesskey "s">
 <!ENTITY contextOpenConversation.label "Abrir mensagem na conversa">
 <!ENTITY contextOpenConversation.accesskey "n">
