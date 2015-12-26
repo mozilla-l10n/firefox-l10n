@@ -9,7 +9,7 @@
 <!ENTITY sendMaildesc.label "При отправке сообщений в формате HTML, если указано, что один или более адресатов не могут получать почту в формате HTML:">
 <!ENTITY askMe.label "Спрашивать, что делать">
 <!ENTITY askMe.accesskey "п">
-<!ENTITY convertPlain.label "Преобразовать сообщение в простой текст">
+<!ENTITY convertPlain.label "Преобразовывать сообщение в простой текст">
 <!ENTITY convertPlain.accesskey "р">
 <!ENTITY sendHTML.label "Отправлять сообщения в HTML">
 <!ENTITY sendHTML.accesskey "а">
