@@ -74,11 +74,14 @@
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
-<!ENTITY key_resetzoom "0">
+<!ENTITY key_resetzoom "1">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "我的專案">
 <!ENTITY projectPanel_runtimeApps "Runtime 應用程式">
-<!ENTITY projectPanel_tabs "標籤">
+<!ENTITY projectPanel_tabs "分頁">
 <!ENTITY runtimePanel_usb "USB 裝置">
 <!ENTITY runtimePanel_wifi "Wi-Fi 裝置">
 <!ENTITY runtimePanel_simulator "模擬器">
@@ -86,6 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "安裝模擬器">
 <!ENTITY runtimePanel_noadbhelper "安裝 ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "看不到您的裝置？">
+<!ENTITY runtimePanel_refreshDevices_label "重新整理裝置">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "有效">

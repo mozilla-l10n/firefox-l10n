@@ -58,7 +58,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Waterfall">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "顯示有不同的操作：瀏覽器在紀錄及排序的同時也在執行中。">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "以瀑布的方式循序顯示瀏覽器的不同操作。">
 <!ENTITY performanceUI.toolbar.js-calltree "呼叫樹">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "在紀錄時，強調瀏覽器花最多時間處理的 JavaScript 函數。">
 <!ENTITY performanceUI.toolbar.memory-calltree "配置">
