@@ -12,17 +12,17 @@
 <!ENTITY sendHTML2.accesskey "я">
 <!ENTITY sendBoth2.label "Отправлять сообщение в виде как простого текста, так и HTML (увеличивает размер)">
 <!ENTITY sendBoth2.accesskey "п">
-<!ENTITY domain.title "Домены, (не) поддерживающие HTML">
+<!ENTITY domain.title "Домены поддерживающие HTML и Простой текст">
 <!ENTITY domaindesc.label "При отправке сообщения на адрес, доменная часть которого находится в одном из списков ниже, почтовый клиент автоматически отправляет это сообщение в нужном формате (HTML или простой текст).">
-<!ENTITY HTMLdomaintitle.label "Поддержка HTML">
+<!ENTITY HTMLdomaintitle.label "Домены, поддерживающие HTML">
 <!ENTITY HTMLdomaintitle.accesskey "о">
 <!ENTITY PlainTexttitle.label "Домены, поддерживающие простой текст">
-<!ENTITY PlainTexttitle.accesskey "т">
+<!ENTITY PlainTexttitle.accesskey "е">
 <!ENTITY AddButton.label "Добавить…">
 <!ENTITY AddHtmlDomain.accesskey "в">
 <!ENTITY AddPlainText.accesskey "и">
 <!ENTITY DeleteButton.label "Удалить">
-<!ENTITY DeleteHtmlDomain.accesskey "д">
+<!ENTITY DeleteHtmlDomain.accesskey "а">
 <!ENTITY DeletePlainText.accesskey "л">
 <!ENTITY add.htmltitle "Добавить имя в список «Поддержка HTML»">
 <!ENTITY add.htmldomain "Имя домена:">
