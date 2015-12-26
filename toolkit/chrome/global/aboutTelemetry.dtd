@@ -27,6 +27,12 @@ Datos acuales de ping
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Datos archivados de ping
 ">
+<!ENTITY aboutTelemetry.pingDataDisplay "
+Visualización de datos de ping:">
+<!ENTITY aboutTelemetry.structured "
+Estructurado">
+<!ENTITY aboutTelemetry.raw "
+JSON sin procesar">
 <!ENTITY aboutTelemetry.showSubsessionData "
 Mostrar datos de subsesión
 ">
