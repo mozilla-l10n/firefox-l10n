@@ -54,7 +54,7 @@
 <!ENTITY cmd.open_window.accesskey       "n">
 <!ENTITY cmd.open_private_window.label     "Abrir em nova janela privada">
 <!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Abrir em novo separador">
+<!ENTITY cmd.open_tab.label              "Abrir num novo separador">
 <!ENTITY cmd.open_tab.accesskey          "s">
 <!ENTITY cmd.open_all_in_tabs.label      "Abrir tudo em separadores">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "t">

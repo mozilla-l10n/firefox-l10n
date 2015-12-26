@@ -527,7 +527,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir ligação">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
-<!ENTITY openFrameCmdInTab.label      "Abrir frame em novo separador">
+<!ENTITY openFrameCmdInTab.label      "Abrir frame num novo separador">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY openFrameCmd.label           "Abrir frame em nova janela">
 <!ENTITY openFrameCmd.accesskey       "j">
