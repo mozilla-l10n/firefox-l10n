@@ -101,11 +101,13 @@
 
 <!ENTITY settings "Баптаулар">
 <!ENTITY settings_title "Баптаулар">
-
-
+<!ENTITY pref_category_general "Жалпы">
+<!ENTITY pref_category_general_summary2 "Үй, тіл, адрес жолағы">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Тіл">
 <!ENTITY pref_category_language_summary "Браузеріңіздің тілін өзгертіңіз">
 <!ENTITY pref_browser_locale "Браузер тілі">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,12 +144,12 @@
 
 <!ENTITY pref_category_search3 "Іздеу">
 <!ENTITY pref_category_search_summary "Іздеу қызметтерін баптаңыз">
-
-
+<!ENTITY pref_category_accessibility "Қолжетерлілік">
+<!ENTITY pref_category_accessibility_summary2 "Мәтін өлшемі, масштаб, дауыспен енгізу">
 <!ENTITY pref_category_privacy_short "Жекелік">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "Бақылау, cookies, деректер таңдауы">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; туралы, ЖҚС, кері байланыс">
 <!ENTITY pref_category_datareporting "Деректер таңдауы">
 <!ENTITY pref_learn_more "Көбірек білу">
 <!ENTITY pref_category_installed_search_engines "Орнатылған іздеу жүйелері">
@@ -161,8 +163,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "КЕҢЕС: Кез-келген веб-сайтты іздеу жүйелеріне қосу үшін оның іздеу өрісінен ұзақ басып, &formatI; таңбашасына басу керек.">
-
-
+<!ENTITY pref_category_advanced "Кеңейтілген">
+<!ENTITY pref_category_advanced_summary2 "Беттер, плагиндер, өндіруші саймандарын қалпына келтіру">
 <!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
 <!ENTITY pref_developer_remotedebugging_usb "USB арқылы қашықтан жөндеу">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi арқылы қашықтан жөндеу">
@@ -182,7 +184,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 үй парағына қосылды">
 <!ENTITY pref_category_home_content_settings "Құрама баптаулары">
-
+<!ENTITY pref_home_updates "Автожаңартулар">
 <!ENTITY pref_home_updates_enabled "Іске қосулы">
 <!ENTITY pref_home_updates_wifi "Тек Wi-Fi арқылы">
 <!ENTITY pref_home_suggested_sites "Сайттарды ұсыну">
@@ -192,31 +194,37 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; үй парағы">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Таңдауыңызша">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Адресті немесе ізделетін ұғымды енгізіңіз">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "Жалпы">
+<!ENTITY pref_header_search "Іздеу">
 <!ENTITY pref_header_privacy_short "Жекелік">
-
-
+<!ENTITY pref_header_accessibility "Қолжетерлілік">
+<!ENTITY pref_header_advanced "Кеңейтілген">
 <!ENTITY pref_header_help "Көмек">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Іске қосулы">
 <!ENTITY pref_cookies_not_accept_foreign "Іске қосылған, 3 жақты сайттардан басқа">
 <!ENTITY pref_cookies_disabled "Сөндірілген">
 
-
-
-
+<!ENTITY pref_tap_to_load_images_title2 "Суреттерді көрсету">
+<!ENTITY pref_tap_to_load_images_enabled "Әрқашан">
+<!ENTITY pref_tap_to_load_images_data "Тек Wi-Fi арқылы">
+<!ENTITY pref_tap_to_load_images_disabled2 "Блокталған">
 
 <!ENTITY pref_tracking_protection_title "Бақылаудан қорғаныс">
 <!ENTITY pref_tracking_protection_summary3 "Жекелік шолу режимінде іске қосылған">
@@ -252,11 +260,11 @@
 <!ENTITY pref_char_encoding "Кодталуы">
 <!ENTITY pref_char_encoding_on "Мәзірді көрсету">
 <!ENTITY pref_char_encoding_off "Мәзірді көрсетпеу">
-
+<!ENTITY pref_clear_private_data "Жеке деректерді өшіру">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Қазір тазарту">
-
+<!ENTITY pref_clear_on_exit_title3 "Шыққанда, жеке деректерді өшіру">
 <!ENTITY pref_clear_on_exit_summary2 "Сіз басты мәзірден \u0022Шығу\u0022 батырмасын басқан кезде &brandShortName; деректеріңізді автоөшіреді">
 <!ENTITY pref_clear_on_exit_dialog_title "Өшірілетін деректерді таңдаңыз">
 <!ENTITY pref_plugins "Плагиндер">
@@ -264,7 +272,7 @@
 <!ENTITY pref_plugins_tap_to_play "Ойнату үшін шерту">
 <!ENTITY pref_plugins_disabled "Сөндірілген">
 <!ENTITY pref_text_size "Мәтін өлшемі">
-
+<!ENTITY pref_restore_tabs "Беттерді қалпына келтіру">
 <!ENTITY pref_restore_always "Әрқашан қалпына келтіру">
 <!ENTITY pref_restore_quit "&brandShortName; жұмысын аяқтағаннан кейін қалпына келтірмеу">
 <!ENTITY pref_font_size_tiny "Шағын">
@@ -289,16 +297,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Масштабты әрқашан іске қосу">
 <!ENTITY pref_zoom_force_enabled_summary "Баптауды үстінен жазу, масштаб әр бетте жасайтын болады">
 <!ENTITY pref_voice_input "Дыбыстық енгізу">
-
+<!ENTITY pref_voice_input_summary2 "Адрес жолағында дауыспен теруді рұқсат ету">
 <!ENTITY pref_qrcode_enabled "QR кодтарын тану">
-
+<!ENTITY pref_qrcode_enabled_summary2 "Адрес жолағында QR сканеріне рұқсат ету">
 
 <!ENTITY pref_use_master_password "Мастер парольді қолдану">
-
+<!ENTITY pref_sync2 "Кіру">
 <!ENTITY pref_sync_summary2 "Беттер, бетбелгілер, логиндер, тарихты синхрондау">
 <!ENTITY pref_search_suggestions "Іздеу ұсыныстарын көрсету">
 <!ENTITY pref_history_search_suggestions "Іздеулер тарихын көрсету">
-
+<!ENTITY pref_import_options "Импорт опциялары">
 <!ENTITY pref_import_android_summary "Жүйелік браузерден бетбелгілер және шолу тарихын импорттау">
 <!ENTITY pref_private_data_history2 "Шолу тарихы">
 <!ENTITY pref_private_data_searchHistory "Іздеулер тарихы">
@@ -355,16 +363,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Автожаңартулар">
 <!ENTITY pref_update_autodownload_wifi "Тек Wi-Fi арқылы">
 <!ENTITY pref_update_autodownload_never "Ешқашан">
-
+<!ENTITY pref_update_autodownload_always "Әрқашан">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Көмек">
 
 <!ENTITY quit "Шығу">
 
-
+<!ENTITY addons "Қосымшалар">
+<!ENTITY logins "Логиндер">
 <!ENTITY downloads "Жүктемелер">
 <!ENTITY char_encoding "Кодталуы">
 
@@ -381,7 +391,7 @@ size. -->
 <!ENTITY new_private_tab "Жаңа жекелік беті">
 <!ENTITY close_all_tabs "Барлық беттерді жабу">
 <!ENTITY close_private_tabs "Жекелік беттерді жабу">
-
+<!ENTITY tabs_normal "Беттер">
 <!ENTITY tabs_private "Жеке">
 <!ENTITY tabs_synced "Синхрондалған">
 <!ENTITY set_image_fail "Суретті орнату мүмкін емес">
@@ -443,7 +453,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Толық экранды шолу">
-
+<!ENTITY pref_scroll_title_bar_summary2 "Парақ астына айналдыру кезінде &brandShortName; саймандар панелін жасыру">
 
 <!ENTITY pref_tab_queue_title2 "Бірнеше сілтемені ашу">
 <!ENTITY pref_tab_queue_summary3 "Оларды &brandShortName; келесі рет ашқаныңызға дейін сақтаңыз">
@@ -503,6 +513,8 @@ size. -->
 <!ENTITY home_top_sites_add "Сайтты қосу">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "&brandShortName; үй парағы">
 <!ENTITY home_history_title "Тарихы">
 <!ENTITY home_clear_history_button "Шолу тарихын тазарту">
 <!ENTITY home_clear_history_confirm "Тарихты өшіруді шынымен қалайсыз ба?">
@@ -520,8 +532,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint3 "КЕҢЕС: Мақалаларды кейінірек оқу үшін адрес жолағында &formatI; таңбашасы шыққан кезде оны ұзақ басу арқылы сақтаңыз.">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible2 "КЕҢЕС: Мақалаларды оқу тізіміне сақтау үшін адрес жолағында оқу режимі таңбашасы шыққан кезде оны ұзақ басыңыз.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -720,16 +734,18 @@ Android-тан импорттау">
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "Қосымшалар">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox-қа мүмкіндіктерді қосыңыз. Ескерту: Қосымшалар кейбір шектеулерді бұза алады.">
 <!ENTITY restrictable_feature_private_browsing "Жекелік шолу">
-
-
-
-
-
-
-
-
-
+<!ENTITY restrictable_feature_private_browsing_description "Отбасыңыздың мүшелеріне олар өздері қараған сайттар және беттер тарихын сақтамай-ақ, шолу мүмкіндігін рұқсат ету.">
+<!ENTITY restrictable_feature_clear_history "Тарихты тазарту">
+<!ENTITY restrictable_feature_clear_history_description "Отбасыңыздың мүшелеріне олар өздері қараған сайттар және беттер тарихын өшіруге рұқсат ету.">
+<!ENTITY restrictable_feature_advanced_settings "Кеңейтілген баптаулар">
+<!ENTITY restrictable_feature_advanced_settings_description "Бұның ішінде бетбелгілерді импорттау, беттерді қалпына келтіру және автожаңартулар бар. Отбасыңыздың әр мүшесіне жарайтын қарапайым баптауларды алу үшін осыны сөндіріңіз.">
+<!ENTITY restrictable_feature_camera_microphone "Камера және микрофон">
+<!ENTITY restrictable_feature_camera_microphone_description "Отбасыңыздың мүшелеріне веб сайттарда нақты уақыттағы сөйлесулерге қатысуды рұқсат ету.">
+<!ENTITY restrictable_feature_data_choices "Деректер таңдауы">
+<!ENTITY restrictable_feature_data_choices_description "Firefox-ты жақсарту мақсатында Mozilla-ға қолдану ақпаратын жіберу керек пе, соны таңдаңыз.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -746,4 +762,7 @@ Android-тан импорттау">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "Кешіріңіз! Бұл &brandShortName; осы құрылғыда жасамайды (&formatS1;, &formatS2;). Жарамды нұсқасын жүктеп алыңыз.">
 
+<!ENTITY eol_notification_title "&brandShortName; Android 3 нұсқасын қолдамайды">
+<!ENTITY eol_notification_summary "Көбірек білу үшін шертіңіз">

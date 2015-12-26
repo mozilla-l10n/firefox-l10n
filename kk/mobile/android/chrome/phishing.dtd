@@ -21,4 +21,6 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Бұл веб <span id='unwanted_sitename'/> парағы ұнамсыз бағдарламалық қамтаманы тарататыны ретінде белгілі, және сіздің қауіпсіздік баптауларыңызға сәйкес блокталған.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Ұнамсыз бағдарламалық қамтамасы бар беттер жүйеге зақым келтіре алатын және жүйенінің күтпеген жақтарына жағымсыз әсерін тигізетін БҚ-ны орнатқысы келеді.">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "Тыйым салынған сайт">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Бұл <span id='forbidden_sitename'/> веб парағы сіздің браузеріңіздің баптауларына сәйкес блокталған.">
