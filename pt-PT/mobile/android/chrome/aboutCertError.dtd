@@ -9,19 +9,19 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "Ligação não segura">
+<!ENTITY certerror.pagetitle  "Ligação não confiável">
 <!ENTITY certerror.longpagetitle "Esta ligação não é de confiança">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "Pediu ao &brandShortName; para ligar 
-em segurança a <b>#1</b>, mas não podemos confirmar se a sua ligação é segura.">
+com segurança a <b>#1</b>, mas não foi possível confirmar que a sua ligação é segura.">
 
 <!ENTITY certerror.whatShouldIDo.heading "O que devo fazer?">
-<!ENTITY certerror.whatShouldIDo.content "Se, habitualmente se liga a este site 
-sem problemas, este erro pode significar que alguém está a tentar 
-fazer-se passar pelo site e você não deve continuar.">
+<!ENTITY certerror.whatShouldIDo.content "Se acede regularmente a 
+este site sem problemas, este erro pode significar que alguém está a tentar 
+fazer-se passar pelo site. Por este motivo, não deve continuar.">
 <!ENTITY certerror.getMeOutOfHere.label "Tirem-me daqui!">
 
 <!ENTITY certerror.expert.heading "Eu compreendo os riscos">

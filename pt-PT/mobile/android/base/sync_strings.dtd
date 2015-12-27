@@ -208,14 +208,14 @@
 <!ENTITY fxaccount_status_needs_verification2 "A sua conta tem de ser verificada. Toque para reenviar a mensagem de verificação.">
 <!ENTITY fxaccount_status_needs_credentials "Não é possível ligar. Toque para iniciar a sessão.">
 <!ENTITY fxaccount_status_needs_upgrade "Tem de atualizar o &brandShortName; para iniciar a sessão.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative “Sincronizar dados automaticamente” nas Definições do Android &gt; Utilização de dados.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative a opção “Sincronização automática” no menu Definições do Android &gt; Contas.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "O &syncBrand.shortName.label; está configurado mas não está a sincronizar automaticamente. Ative a opção “Sincronizar dados automaticamente” nas Definições do Android &gt; Utilização de dados.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "O &syncBrand.shortName.label; está configurado mas não está a sincronizar automaticamente. Ative a opção “Sincronização automática” no menu Definições do Android &gt; Contas.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Toque para iniciar sessão na sua nova conta Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
 <!ENTITY fxaccount_status_history "Histórico">
 <!ENTITY fxaccount_status_passwords2 "Credenciais">
 <!ENTITY fxaccount_status_tabs "Separadores abertos">
-<!ENTITY fxaccount_status_legal "Jurídico" >
+<!ENTITY fxaccount_status_legal "Legal" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
@@ -231,7 +231,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Conta do Firefox &formatS; removida.">
 
-<!ENTITY fxaccount_enable_debug_mode "Ativar o Modo de Depuração">
+<!ENTITY fxaccount_enable_debug_mode "Ativar o modo de depuração">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
