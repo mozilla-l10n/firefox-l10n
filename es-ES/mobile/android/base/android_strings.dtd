@@ -108,8 +108,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota mediante wifi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración wifi requiere que su dispositivo tenga una aplicación lectora de códigos QR instalada.">
 <!ENTITY pref_remember_signons2 "Recordar credenciales">
-<!ENTITY pref_open_external_urls_privately_title "Abrir enlaces en navegación privada">
-<!ENTITY pref_open_external_urls_privately_summary "Para todos los enlaces externos abiertos en &brandShortName;">
 <!ENTITY pref_manage_logins "Administrar inicios de sesión">
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personalizar su página de inicio">
@@ -448,8 +446,8 @@
 <!ENTITY restrictable_feature_advanced_settings_description "Esto incluye importar marcadores, restaurar pestañas y actualizaciones automáticas. Desactívelo para ajustes simplificados aptos para cualquier miembro de la familia.">
 <!ENTITY restrictable_feature_camera_microphone "Cámara y micrófono">
 <!ENTITY restrictable_feature_camera_microphone_description "Permitir a los miembros de la familia iniciar comunicación en tiempo real en los sitios web.">
-<!ENTITY restrictable_feature_data_choices "Elección de datos">
-<!ENTITY restrictable_feature_data_choices_description "Elegir si enviar o no información de uso a Mozilla para ayudar a mejorar Firefox.">
+<!ENTITY restrictable_feature_block_list "Lista de bloqueo">
+<!ENTITY restrictable_feature_block_list_description "Bloquea sitios web que incluyen contenido confidencial.">
 <!ENTITY bookmarks_about_browser "Firefox: acerca de su navegador">
 <!ENTITY bookmarks_addons "Firefox: personalizar con complementos">
 <!ENTITY bookmarks_support "Ayuda de Firefox">
