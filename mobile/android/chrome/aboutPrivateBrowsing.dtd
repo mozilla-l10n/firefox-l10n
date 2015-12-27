@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title "Navegação privada">
+<!ENTITY privatebrowsingpage.title "Navegação Privada">
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.title.private " + Proteção Contra Monitorização">
+<!ENTITY privatebrowsingpage.title.private " + Proteção Contra a Monitorização">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
-<!ENTITY privatebrowsingpage.title.normal1 "Não está no modo de navegação privada">
+<!ENTITY privatebrowsingpage.title.normal1 "Não está no modo Navegação Privada">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "O &brandShortName; bloqueia partes das páginas que podem monitorizar a sua atividade de navegação.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Não iremos registar qualquer histórico, mas ficheiros transferidos e novos marcadores serão guardados no seu dispositivo.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Não iremos memorizar qualquer histórico, mas os ficheiros descarregados e novos marcadores serão guardados no seu dispositivo.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
-<!ENTITY privatebrowsingpage.description.normal2 "No modo de navegação privada não serão guardados cookies, nem o histórico de navegação. Os marcadores que adicionar e os ficheiros que descarregar serão guardados no seu dispositivo.">
+<!ENTITY privatebrowsingpage.description.normal2 "No modo Navegação Privada não serão memorizados o seu histórico de navegação ou cookies. Os marcadores que adicionar e os ficheiros que descarregar serão guardados no seu dispositivo.">
 
 <!ENTITY privatebrowsingpage.link.private "Quer saber mais?">
 <!ENTITY privatebrowsingpage.link.normal "Abrir uma janela privada">

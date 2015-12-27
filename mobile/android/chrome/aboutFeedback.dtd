@@ -33,10 +33,10 @@
 
 <!ENTITY happy.ratingLink          "Sim, ir para o Google Play">
 <!ENTITY happy.maybeLater2         "Talvez mais tarde">
-<!ENTITY happy.noThanks            "Não obrigado">
+<!ENTITY happy.noThanks            "Não, obrigado">
 
 <!ENTITY sad.header                "Oh não!">
-<!ENTITY sad.message               "Pedimos desculpa pelos problemas que teve com o &brandShortName;. Por favor diga-nos o que aconteceu para que possamos resolver.">
+<!ENTITY sad.message               "Pedimos desculpa pelos problemas que teve com o &brandShortName;. Por favor, diga-nos o que aconteceu para que possamos resolver.">
 <!ENTITY sad.placeholder           "Introduza aqui o seu comentário">
 <!ENTITY sad.lastSite2             "Incluir último site visitado">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
@@ -46,7 +46,7 @@
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
-<!ENTITY sad.thanksMessageTop      "Estamos sempre a trabalhar para tornar melhor o &brandShortName;. Fique descansado que pessoas verdadeiras irão ler o seu comentário e farão o melhor para resolver o seu problema.">
+<!ENTITY sad.thanksMessageTop      "Estamos sempre a trabalhar para tornar melhor o &brandShortName;. Fique descansado, pessoas reais irão ler o seu comentário e farão o melhor para resolver o seu problema.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
@@ -54,4 +54,4 @@
 <!ENTITY sad.thanksMessageBottom   "Ou então.">
 
 <!ENTITY feedback.privacy2         "Para sua privacidade, não inclua quaisquer dados pessoais no seu comentário.">
-<!ENTITY feedback.send             "Enviar feedback">
+<!ENTITY feedback.send             "Enviar comentário">
