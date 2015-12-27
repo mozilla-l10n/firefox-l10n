@@ -171,8 +171,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Débogage distant par Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Le débogage par Wi-Fi nécessite que votre appareil dispose d\u0027une application permettant de lire les QR codes.">
 <!ENTITY pref_remember_signons2 "Enreg. les identifiants">
-<!ENTITY pref_open_external_urls_privately_title "Ouvrir les liens en nav. privée">
-<!ENTITY pref_open_external_urls_privately_summary "Utiliser la navigation privée pour tous les liens externes ouverts avec &brandShortName;">
 <!ENTITY pref_manage_logins "Gérer les identifiants">
 
 <!ENTITY pref_category_home "Écran d\u0027accueil">
@@ -746,8 +744,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "Incluent l\u0027importation de marque-pages, la restauration d\u0027onglets et les mises à jour automatiques. Désactivez-les pour bénéficier de paramètres plus simples pour tous les membres de la famille.">
 <!ENTITY restrictable_feature_camera_microphone "Caméra et microphone">
 <!ENTITY restrictable_feature_camera_microphone_description "Permet aux membres de la famille d\u0027engager des communications en temps réel sur des sites web.">
-<!ENTITY restrictable_feature_data_choices "Données collectées">
-<!ENTITY restrictable_feature_data_choices_description "Décidez si vous souhaitez envoyer ou non des informations à Mozilla pour aider à améliorer Firefox.">
 <!ENTITY restrictable_feature_block_list "Liste de blocage">
 <!ENTITY restrictable_feature_block_list_description "Bloquer les sites web comportant du contenu sensible.">
 
