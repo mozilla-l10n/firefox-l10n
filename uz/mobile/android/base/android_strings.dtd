@@ -101,11 +101,13 @@
 
 <!ENTITY settings "Sozlamalar">
 <!ENTITY settings_title "Sozlamalar">
-
-
+<!ENTITY pref_category_general "Umumiy">
+<!ENTITY pref_category_general_summary2 "Uy, til, URL qatori">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Til">
 <!ENTITY pref_category_language_summary "Brauzeringiz tilini o‘zgartirish">
 <!ENTITY pref_browser_locale "Brauzer tili">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,12 +144,12 @@
 
 <!ENTITY pref_category_search3 "Izlash">
 <!ENTITY pref_category_search_summary "Izlash tizimlarini moslash">
-
-
+<!ENTITY pref_category_accessibility "Qulayliklar">
+<!ENTITY pref_category_accessibility_summary2 "Matn hajmi, masshtab, ovoz kiritish">
 <!ENTITY pref_category_privacy_short "Maxfiylik">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "Kuzatish, kukilar, ma’lumot tanlovi">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; haqida, savol-javoblar, fikr-mulohaza">
 <!ENTITY pref_category_datareporting "Tanlangan ma’lumotlar">
 <!ENTITY pref_learn_more "Koʻproq o‘rganish">
 <!ENTITY pref_category_installed_search_engines "Izlash tizimlari o‘rnatildi">
@@ -161,8 +163,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "MASLAHAT: birorta veb sahifani izlash xizmatlari ro‘yxatiga qo‘shmoqchi bo‘lsangiz, o‘sha saytning izlash maydonchasiga barmog‘ingizni bosib turing, so‘ngra &formatI; nishonchasiga bosing.">
-
-
+<!ENTITY pref_category_advanced "Qo‘shimcha">
+<!ENTITY pref_category_advanced_summary2 "Ichki oyna, plagin va dasturchi asboblarini tiklash">
 <!ENTITY pref_developer_remotedebugging "Masofadan tuzatish">
 <!ENTITY pref_developer_remotedebugging_usb "USB orqali masofadan nozozlikni tuzatish">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi orqali masofadan nosozlikni tuzatish">
@@ -182,7 +184,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 uy sahifasiga qo‘shildi">
 <!ENTITY pref_category_home_content_settings "Tarkib sozlamalari">
-
+<!ENTITY pref_home_updates "Avtomatik yangilanishlar">
 <!ENTITY pref_home_updates_enabled "Yoqib qo‘yilgan">
 <!ENTITY pref_home_updates_wifi "Faqat Wi-Fi orqali">
 <!ENTITY pref_home_suggested_sites "Izlash bo‘yicha tavsiyalarni ko‘rsatish">
