@@ -6,13 +6,12 @@
 <!ENTITY sendMaildesc.label "Cuando se envíen mensajes con formato (HTML) y uno o más destinatarios no estén listados como capacitados para recibir HTML:">
 <!ENTITY askMe.label "Preguntarme qué hacer (se le pedirá que escoja un formato)">
 <!ENTITY askMe.accesskey "P">
-<!ENTITY convertPlain.label "Convertir el mensaje a texto sin formato (puede perderse parte del formato)">
-<!ENTITY convertPlain.accesskey "C">
-<!ENTITY sendHTML.label "Enviar el mensaje con formato (HTML) de todas formas (puede que algunos programas de correo no puedan mostrarlo)">
-<!ENTITY sendHTML.accesskey "S">
-<!ENTITY sendBoth.label "Enviar el mensaje en ambos formatos, texto sin formato y HTML (tamaño del mensaje mayor)">
-<!ENTITY sendBoth.accesskey "n">
-<!ENTITY override.label "Puede invalidar estas configuraciones para mensajes individuales utilizando el menú Opciones en la ventana de redacción de correo.">
+<!ENTITY convertPlain2.label "Convertir el mensaje a texto sin formato (se puede perder formato)">
+<!ENTITY convertPlain2.accesskey "C">
+<!ENTITY sendHTML2.label "Enviar el mensaje solo como HTML (puede provocar problemas de visualización)">
+<!ENTITY sendHTML2.accesskey "H">
+<!ENTITY sendBoth2.label "Enviar el mensaje como texto sin formato y como HTML (más tamaño)">
+<!ENTITY sendBoth2.accesskey "f">
 <!ENTITY domain.title "Dominios de HTML y texto sin formato">
 <!ENTITY domaindesc.label "Cuando envíe un mensaje a una dirección en uno de los dominios listados abajo, se envía automáticamente el mensaje en el formato preferido (texto con o sin formato).">
 <!ENTITY HTMLdomaintitle.label "Dominios HTML">
@@ -31,3 +30,5 @@
 <!ENTITY add.plaintextdomain "Nombre de dominio de texto sin formato:">
 <!ENTITY domainnameError.title "Error de nombre de dominio">
 <!ENTITY invalidEntryError.label "El nombre de dominio @string@ no es válido y será ignorado. Los nombres de dominio válidos deben incluir al menos un '.' y caracteres a ambos lados de éste.">
+<!ENTITY autoDowngrade.label "Enviar automáticamente el mensaje como texto sin formato si no se aprecia un formato significativo (prevalece sobre otras opciones).">
+<!ENTITY autoDowngrade.accesskey "u">

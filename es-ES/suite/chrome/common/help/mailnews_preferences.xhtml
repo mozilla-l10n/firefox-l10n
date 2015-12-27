@@ -456,25 +456,46 @@
     para expandir la lista).</li>
 </ol>
 
+<p>Los mensajes con formato (redactados en HTML) pueden enviarse como HTML,
+  texto sin formato o ambos (aquellos redactados en texto sin formato siempre
+  se enviarán únicamente como texto sin formato).
+</p>
+
+<p>Si cualquiera de los destinatarios  no está explícitamente listado para
+  recibir HTML, basándose en su entrada en la libreta d direcciones o en una
+  configuración basada en el dominio como se explica más abajo, se aplicarán
+  las siguientes opciones:</p>
+
 <ul>
   <li><strong>Preguntarme qué hacer</strong>: esta opción hace que
     &brandShortName; le pregunte qué formato quiere elegir antes de enviar el
     mensaje.</li>
   <li><strong>Convertir el mensaje a texto sin formato</strong>: esta opción
-    puede hacer que el mensaje pierda atributos como pueda ser texto en
-    negrita.</li>
-  <li><strong>Enviar el mensaje en HTML de todas formas</strong>: si selecciona
-    esta opción, tenga en cuenta que algunos programas de correo pueden tener
-    problemas para mostrar el mensaje correctamente.</li>
+    envía el mensaje únicamente como texto sin formato y, por tanto, hará que
+    su mensaje pierda formato como los colores personalizados o texto en
+    negrita. También eliminará todas las imágenes que estén incrustadas en el
+    mensaje (pero no los adjuntos).</li>
+  <li><strong>Enviar el mensaje solo como HTML</strong>: si selecciona esta
+    opción, tenga en cuenta que algunos programas de correo pueden tener
+    problemas para mostrar el mensaje correctamente, al no enviarse una
+    representación alternativa del mensaje en texto sin formato.</li>
   <li><strong>Enviar el mensaje en ambos formatos, texto sin formato y
-    HTML</strong>: esta opción usa más espacio en disco.
-    <p>Siempre puede omitir estas opciones para un mensaje concreto usando el
-      menú Opciones en la ventana Redacción de Correo y noticias.</p>
-  </li>
-  <li><strong>Dominios HTML y texto sin formato</strong>: use el botón Añadir
-    para añadir los nombres de los dominios a los que habitualmente manda
-    correo, si sabe qué dominios pueden mostrar mensajes de correo en HTML y
-    qué dominios pueden mostrar sólo texto sin formato.</li>
+    HTML</strong>: esta opción es el mejor compromiso entre compatibilidad y
+    conservación de formato e imágenes incrustadas, pero incrementa el
+    tamaño del mensaje.</li>
+</ul>
+
+<p>Configuración para dominios completos:</p>
+<ul>
+  <li><strong>Enviar automáticamente el mensaje como texto sin formato si no
+    se aprecia un formato significativo:</strong>: use esta opción para
+    convertir los mensajes redactados en HTML a texto sin formato para
+    reducir el tamaño del mensaje si no se ha aplicado formato o se ha aplicado
+    muy poco formato significativo. <q>Significativo</q> en este caso incluye
+    estilos de negrita o cursiva, subrayados, colores personalizados, etc.
+    Esta comprobación se ejecuta <em>antes</em> de consultar la libreta de
+    direcciones o configuraciones de dominio para determinar el formato de
+    envío.</li>
 </ul>
 
 <p>Por ejemplo, si habitualmente manda correo a varios destinatarios que tienen
@@ -482,12 +503,20 @@
   electrónico que acaban en <q>netscape.net</q>), y si sabe que este nombre de
   dominio es capaz de mostrar mensajes en HTML, entonces puede añadir el
   dominio netscape.net a la lista de dominios HTML para que &brandShortName;
-  automáticamente envíe los mensajes en HTML a estos destinatarios.</p>
+  automáticamente envíe los mensajes en HTML a estos destinatarios (observe que
+  no se envía la parte en texto sin formato en este caso).</p>
 
 <p>Igualmente, si suele enviar correo a personas en un dominio que sabe que
   sólo puede recibir mensajes en texto sin formato, puede añadir ese dominio a
   la lista de dominios de texto sin formato, para que &brandShortName;
-  automáticamente envíe los mensajes a ese dominio en texto sin formato.</p>
+  automáticamente envíe los mensajes a ese dominio en texto sin formato (no se
+  envía la parte en HTML).</p>
+
+<p>Cuando añada a una persona o una dirección a la libreta de direcciones,
+  puede especificar si ese destinatario puede recibir mensajes en HTML. Sin
+  embargo, cuando no se sabe esta información, puede configurar en las
+  preferencias de formato de envío cómo quiere que &brandShortName; trate
+  estos mensajes.</p>
 
 <p><strong>Nota</strong>: si habitualmente redacta mensajes en HTML, tenga en
   cuenta que a veces no todos los destinatarios usan programas de correo que
@@ -497,12 +526,6 @@
   con formato sólo HTML, o a ambos formatos. Esta configuración se aplica a
   todas las cuentas de correo, pero sólo a mensajes de correo y no a mensajes
   de grupos de noticias.</p>
-
-<p>Cuando añada a una persona o una dirección a la libreta de direcciones,
-  puede especificar si ese destinatario puede recibir mensajes en HTML. Sin
-  embargo, cuando no se sabe esta información, puede configurar en las
-  preferencias de formato de envío cómo quiere que &brandShortName; trate
-  estos mensajes.</p>
 
 <p>[ <a href="#mail_and_newsgroup_preferences">Volver al principio de la
   sección</a> ]</p>
