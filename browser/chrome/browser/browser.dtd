@@ -536,8 +536,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "بازآوردن چارچوب">
 <!ENTITY reloadFrameCmd.accesskey     "ب">
-<!ENTITY viewPartialSourceForSelectionCmd.label "نمایش مبداء بخش انتخاب شده">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "نمایش مبداء MathML">
+<!ENTITY viewPartialSourceForSelectionCmd.label "نمایش کدمنبع قسمت انتخابی">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "نمایش کدمنبع MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
