@@ -150,7 +150,7 @@
 <!ENTITY pref_category_privacy_summary3 "跟踪、Cookie、数据反馈">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "关于 &brandShortName;、常见问题解答、反馈">
-<!ENTITY pref_category_datareporting "反馈">
+<!ENTITY pref_category_datareporting "数据反馈">
 <!ENTITY pref_learn_more "详细了解">
 <!ENTITY pref_category_installed_search_engines "已安装的搜索引擎">
 <!ENTITY pref_category_add_search_providers "添加更多搜索提供商">
@@ -185,7 +185,7 @@
 <!ENTITY home_add_panel_installed "“&formatS;”已加入首页">
 <!ENTITY pref_category_home_content_settings "内容设置">
 <!ENTITY pref_home_updates "自动更新">
-<!ENTITY pref_home_updates_enabled "已启用">
+<!ENTITY pref_home_updates_enabled "启用">
 <!ENTITY pref_home_updates_wifi "仅通过 Wi-Fi">
 <!ENTITY pref_home_suggested_sites "显示推荐网站">
 <!ENTITY pref_home_suggested_sites_summary "显示我们认为您可能感兴趣的网站">
@@ -217,9 +217,9 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookie">
-<!ENTITY pref_cookies_accept_all "已启用">
-<!ENTITY pref_cookies_not_accept_foreign "已启用，不包括第三方的">
-<!ENTITY pref_cookies_disabled "已停用">
+<!ENTITY pref_cookies_accept_all "启用">
+<!ENTITY pref_cookies_not_accept_foreign "启用，第三方 Cookie 除外">
+<!ENTITY pref_cookies_disabled "禁用">
 
 <!ENTITY pref_tap_to_load_images_title2 "显示图像">
 <!ENTITY pref_tap_to_load_images_enabled "总是">
@@ -231,9 +231,9 @@
 <!ENTITY pref_donottrack_title "请勿跟踪">
 <!ENTITY pref_donottrack_summary "&brandShortName; 将会告诉网站您不想被跟踪">
 
-<!ENTITY pref_tracking_protection_enabled "已启用">
+<!ENTITY pref_tracking_protection_enabled "启用">
 <!ENTITY pref_tracking_protection_enabled_pb "在隐私浏览中启用">
-<!ENTITY pref_tracking_protection_disabled "已停用">
+<!ENTITY pref_tracking_protection_disabled "禁用">
 
 <!ENTITY tracking_protection_prompt_title "立即使用跟踪保护">
 <!ENTITY tracking_protection_prompt_text "主动屏蔽跟踪元素，让您不再担心。">
@@ -268,9 +268,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; 将在您每次从主菜单中选择“退出”时自动清除您的数据">
 <!ENTITY pref_clear_on_exit_dialog_title "选择要清除的数据">
 <!ENTITY pref_plugins "插件">
-<!ENTITY pref_plugins_enabled "已启用">
+<!ENTITY pref_plugins_enabled "启用">
 <!ENTITY pref_plugins_tap_to_play "点按即可播放">
-<!ENTITY pref_plugins_disabled "已禁用">
+<!ENTITY pref_plugins_disabled "禁用">
 <!ENTITY pref_text_size "文字大小">
 <!ENTITY pref_restore_tabs "恢复标签页">
 <!ENTITY pref_restore_always "总是恢复">
@@ -603,7 +603,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "跟踪保护">
-<!ENTITY doorhanger_tracking_state_enabled "已启用">
+<!ENTITY doorhanger_tracking_state_enabled "启用">
 <!ENTITY doorhanger_tracking_state_disabled "已停用">
 <!ENTITY doorhanger_tracking_message_enabled1 "跟踪您的在线行为的尝试已被阻止。">
 <!ENTITY doorhanger_tracking_message_disabled2 "此页面包含可能跟踪您的浏览行为的元素。">
@@ -741,7 +741,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "这包含导入书签、恢复标签页和自动更新。关闭此选项可简化家庭成员使用时所须设定的内容。">
 <!ENTITY restrictable_feature_camera_microphone "相机和麦克风">
 <!ENTITY restrictable_feature_camera_microphone_description "允许家庭成员在网站上的即时通讯。">
-<!ENTITY restrictable_feature_data_choices "反馈">
+<!ENTITY restrictable_feature_data_choices "数据反馈">
 <!ENTITY restrictable_feature_data_choices_description "选择是否发送使用情况给 Mozilla，帮助我们改进 Firefox。">
 
 <!-- Default Bookmarks titles-->
