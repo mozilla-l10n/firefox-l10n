@@ -389,7 +389,7 @@ size. -->
 
 <!ENTITY find_text "Encontrar en la página">
 <!ENTITY find_prev "Anterior">
-
+<!ENTITY find_next "Siguiente">
 <!ENTITY find_close "Cerrar">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -598,6 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Datos privados limpiados">
 <!ENTITY private_data_fail "Algunos datos privados no pueden ser limpiados">
 
+<!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importar marcadores e historial 
 desde Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importando marcadores 
