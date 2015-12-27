@@ -182,8 +182,6 @@
 <!ENTITY addons.commandkey "A">
 <!ENTITY webapps.label "Aplicaciones">
 <!ENTITY webapps.accesskey "p">
-<!ENTITY loopMenuItem.label "Iniciar una conversación…">
-<!ENTITY loopMenuItem.accesskey "I">
 <!ENTITY webDeveloperMenu.label "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey "W">
 <!ENTITY devToolsCmd.keycode "VK_F12">
