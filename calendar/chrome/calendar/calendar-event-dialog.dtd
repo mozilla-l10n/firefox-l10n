@@ -138,6 +138,9 @@
 <!ENTITY event.email.attendees.accesskey                  "k">
 <!ENTITY event.email.tentative.attendees.label            "Koosta kiri kõigile kõhklevatele osalejatele…">
 <!ENTITY event.email.tentative.attendees.accesskey        "h">
+<!ENTITY event.remove.attendees.label                     "Eemalda kõik osalejad...">
+<!ENTITY event.remove.attendees.accesskey                 "e">
+<!ENTITY event.remove.attendee.label                      "Eemalda osaleja">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Salvesta ja sulge">
@@ -353,6 +356,7 @@
 <!ENTITY event.attendee.usertype.group          "Grupp">
 <!ENTITY event.attendee.usertype.resource       "Ressurss">
 <!ENTITY event.attendee.usertype.room           "Ruum">
+<!ENTITY event.attendee.usertype.unknown        "Teadmata">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Ajavööndi määramine">
