@@ -225,7 +225,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "Mostrar imágenes">
 <!ENTITY pref_tap_to_load_images_enabled "Siempre">
 <!ENTITY pref_tap_to_load_images_data "Solo por Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled "Nunca">
+<!ENTITY pref_tap_to_load_images_disabled2 "Bloqueadas">
 
 <!ENTITY pref_tracking_protection_title "Protección contra rastreo">
 <!ENTITY pref_tracking_protection_summary3 "Habilitada en navegación privada">
