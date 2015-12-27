@@ -529,7 +529,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openFrameCmdInTab.label      "Abrir frame num novo separador">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
-<!ENTITY openFrameCmd.label           "Abrir frame em nova janela">
+<!ENTITY openFrameCmd.label           "Abrir frame numa nova janela">
 <!ENTITY openFrameCmd.accesskey       "j">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
