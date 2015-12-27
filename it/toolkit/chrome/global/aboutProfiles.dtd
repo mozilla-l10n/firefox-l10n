@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutProfiles.title "Informazioni sui profili">
-<!ENTITY aboutProfiles.subtitle "Questa pagina permette di gestire i profili. Ogni profilo rappresenta un mondo a sé, con cronologia, segnalibri, impostazioni e componenti aggiuntivi completamente indipendenti.">
+<!ENTITY aboutProfiles.subtitle "Questa pagina permette di gestire i profili. Ogni profilo rappresenta una realtà separata, con cronologia, segnalibri, impostazioni e componenti aggiuntivi completamente indipendenti.">
 <!ENTITY aboutProfiles.create "Crea un nuovo profilo">
 <!ENTITY aboutProfiles.restart.title "Riavvia">
 <!ENTITY aboutProfiles.restart.inSafeMode "Riavvia disattivando i componenti aggiuntivi…">
