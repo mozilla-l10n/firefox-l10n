@@ -215,3 +215,6 @@
 <!ENTITY simulator_device "Appareil">
 <!ENTITY simulator_screenSize "Écran">
 <!ENTITY simulator_pixelRatio "Rapport d'aspect de pixel">
+<!ENTITY simulator_tv_data "Simulateur TV">
+<!ENTITY simulator_tv_data_open "Données de configuration">
+<!ENTITY simulator_tv_data_open_button "Ouvrir le répertoire de configuration…">
