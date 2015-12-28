@@ -100,7 +100,6 @@
 </ul>
 ">
 
-
 <!ENTITY proxyResolveFailure.title "Proxy server nenalezen">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -167,6 +166,10 @@ za chvíli.</li>
 <!ENTITY phishingBlocked.longDesc "
 <p>Vložení osobních informací na takovéto stránce může skočit krádeží identity nebo jiným podvodem.</p>
 <p>Tyto podvodné stránky nazývané též útoky typu phishing se snaží zpravidla napodobit webové stránky nebo e-maily ze zdrojů, kterým věříte.</p>
+">
+
+<!ENTITY forbiddenBlocked.title "Zakázaná stránka">
+<!ENTITY forbiddenBlocked.longDesc "<p>Aplikace &brandShortName; zabránila v načtení této stránky, protože je nastaveno její blokování.</p>
 ">
 
 <!ENTITY cspBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
