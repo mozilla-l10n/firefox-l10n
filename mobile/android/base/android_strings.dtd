@@ -214,9 +214,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "সক্রিয়, তৃতীয় পক্ষ ব্যতীত">
 <!ENTITY pref_cookies_disabled "নিষ্ক্রিয়">
 
+<!ENTITY pref_tap_to_load_images_title2 "ছবি দেখাও">
 
 
-
+<!ENTITY pref_tap_to_load_images_disabled2 "ব্লক করা হয়েছে">
 
 <!ENTITY pref_tracking_protection_title "ট্র্যাকিং সুরক্ষা">
 <!ENTITY pref_tracking_protection_summary3 "প্রাইভেট ব্রাউজিং এ সক্রিয় থাকুন">
@@ -256,7 +257,7 @@
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "এখনই পরিষ্কার করুন">
-
+<!ENTITY pref_clear_on_exit_title3 "প্রস্থানকালে ব্যক্তিগত তথ্য পরিষ্কার করুন">
 <!ENTITY pref_clear_on_exit_summary2 "যখনই আপনি প্রধান মেনু থেকে \u0022Quit\u0022 নির্বাচন করবেন &brandShortName; স্বয়ংক্রিয়ভাবে আপনার তথ্য মুছে ফেলবে">
 <!ENTITY pref_clear_on_exit_dialog_title "কোন তথ্য মুছে ফেলতে হবে তা নির্বাচন করুন">
 <!ENTITY pref_plugins "প্লাগইন">
@@ -264,7 +265,7 @@
 <!ENTITY pref_plugins_tap_to_play "প্লে করতে ট্যাপ করুন">
 <!ENTITY pref_plugins_disabled "নিষ্ক্রিয়">
 <!ENTITY pref_text_size "টেক্সটের আকার">
-
+<!ENTITY pref_restore_tabs "ট্যাব পুনরুদ্ধার করুন">
 <!ENTITY pref_restore_always "সবসময় রিস্টোর করুন">
 <!ENTITY pref_restore_quit "প্রস্থান করার পর রিস্টোর করা হবে না &brandShortName;">
 <!ENTITY pref_font_size_tiny "অতিক্ষুদ্র">
@@ -294,7 +295,7 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "মাস্টার পাসওয়ার্ড ব্যবহার করুন">
-
+<!ENTITY pref_sync2 "সাইন ইন">
 <!ENTITY pref_sync_summary2 "আপনার ট্যাব, বুকমার্ক, লগইন, ইতিহাস সিঙ্ক করুন">
 <!ENTITY pref_search_suggestions "অনুসন্ধানের সাজেশন প্রদর্শন">
 <!ENTITY pref_history_search_suggestions "অনুসন্ধানের ইতিহাস দেখাও">
@@ -719,14 +720,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
+<!ENTITY restrictable_feature_addons_installation_description "ফায়ারফক্সে বৈশিষ্ট্য বা কার্যকারিতা যোগ করুন। উল্লেখ্য: অ্যাড-অন কিছু নিষেধাজ্ঞা নিষ্ক্রিয় করতে পারে।">
 <!ENTITY restrictable_feature_private_browsing "একান্ত ব্রাউজিং">
+<!ENTITY restrictable_feature_private_browsing_description "পরিবারের সদস্যদের সাইট ও পাতা পরিদর্শন সংক্রান্ত তথ্য সংরক্ষণ ছাড়াই ব্রাউজ করতে দেয়।">
+<!ENTITY restrictable_feature_clear_history "ইতিহাস মুছে ফেলুন">
+<!ENTITY restrictable_feature_clear_history_description "পরিবারের সদস্যদের সাইট ও পাতা পরিদর্শন সংক্রান্ত তথ্য মুছে ফেলতে দেয়।">
+<!ENTITY restrictable_feature_advanced_settings "উন্নত সেটিং">
 
-
-
-
-
-
+<!ENTITY restrictable_feature_camera_microphone "ক্যামেরা ও মাইক্রোফোন">
 
 
 
