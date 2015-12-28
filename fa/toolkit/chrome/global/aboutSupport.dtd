@@ -30,7 +30,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "فعال‌سازی">
 <!ENTITY aboutSupport.experimentEndDate "تاریخ پایان">
 <!ENTITY aboutSupport.experimentHomepage "صفحه خانگی">
-
+<!ENTITY aboutSupport.experimentBranch "شاخه">
 
 <!ENTITY aboutSupport.appBasicsTitle "اطلاعات اولیهٔ برنامه">
 <!ENTITY aboutSupport.appBasicsName "نام">
@@ -55,8 +55,11 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "استفاده حافظه">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workerهای ثبت شده">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "پنجره‌های چندپردازشی">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "حالت امن">
 
 <!ENTITY aboutSupport.showDir.label "باز کردن پوشه">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

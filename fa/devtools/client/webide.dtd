@@ -24,10 +24,11 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "ترجیحات">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
+<!ENTITY projectMenu_manageComponents_label "مدیریت مولفه‌های بیشتر">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "ازنوسازی زبانه‌ها">
 
-
+<!ENTITY runtimeMenu_label "زمان اجرا">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "قطع ارتباط">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
@@ -35,11 +36,11 @@
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "عکس صفحه">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
-
+<!ENTITY runtimeMenu_showDetails_label "اطلاعات زمان‌اجرا">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-
+<!ENTITY runtimeMenu_showMonitor_label "رصد">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "ترجیحات دستگاه">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "تنظیمات دستگاه">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
@@ -52,10 +53,11 @@
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "کوچک‌نمایی">
 <!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "ازنوسازی بزرگنمایی">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
-
-
-
+<!ENTITY projectButton_label "بازکردن برنامه">
+<!ENTITY runtimeButton_label "انتخاب زمان اجرا">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -75,18 +77,19 @@
 <!ENTITY key_resetzoom "0">
 <!-- reload WebIDE and devtools from local checkout -->
 <!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "ًُR">
 
 <!ENTITY projectPanel_myProjects "پروژه های من">
-
+<!ENTITY projectPanel_runtimeApps "برنامه‌های زمان اجرا">
 <!ENTITY projectPanel_tabs "زبانه‌ها">
-
-
-
+<!ENTITY runtimePanel_usb "دستگاه‌های USB">
+<!ENTITY runtimePanel_wifi "دستگاه‌های Wi-Fi">
+<!ENTITY runtimePanel_simulator "شبیه‌ساز‌ها">
 <!ENTITY runtimePanel_other "غیره">
 <!ENTITY runtimePanel_installsimulator "نصب شبیه‌ساز">
 <!ENTITY runtimePanel_noadbhelper "نصب راهنما ADB">
 <!ENTITY runtimePanel_nousbdevice "نمی‌توانید دستگاه های خود را مشاهده کنید؟">
-
+<!ENTITY runtimePanel_refreshDevices_label "ازنوسازی دستگاه ها">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "معتبر">
@@ -111,14 +114,16 @@
 <!-- Addons -->
 
 <!ENTITY addons_title "مولفه‌های بیشتر">
-
+<!ENTITY addons_aboutaddons "بازکردن مدیر افزونه‌ها">
 <!-- Prefs -->
 
+<!ENTITY prefs_title "ترجیحات">
+<!ENTITY prefs_editor_title "ویراستار">
 <!ENTITY prefs_general_title "عمومی">
-
-
-
-
+<!ENTITY prefs_restore "بازگرداندن تنظیمات پیش‌فرض">
+<!ENTITY prefs_manage_components "مدیریت مولفه‌های بیشتر">
+<!ENTITY prefs_options_autoconnectruntime "اتصال مجدد به زمان اجرا قبلی">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "اتصال مجدد به زمان اجرا قبلی زمانی که WebIDE آغاز شد">
 <!ENTITY prefs_options_rememberlastproject "به‌خاطر سپردن آخرین پروژه">
 <!ENTITY prefs_options_rememberlastproject_tooltip "برگرداندن آخرین پروژه زمانی که WebIDE در حال اجراست">
 <!ENTITY prefs_options_templatesurl "URL قالب ها ">
@@ -126,17 +131,17 @@
 <!ENTITY prefs_options_showeditor "نمایش ویرایشگر">
 <!ENTITY prefs_options_showeditor_tooltip "نمایش ویرایشگر داخلی">
 <!ENTITY prefs_options_tabsize "اندازه زبانه">
+<!ENTITY prefs_options_expandtab "زبانه‌های نرم">
+<!ENTITY prefs_options_expandtab_tooltip "استفاده از فاصله به جای نویسه تب">
+<!ENTITY prefs_options_detectindentation "Autoindent">
 
-
-
-
-
-
-
-
+<!ENTITY prefs_options_autocomplete "تکمیل خودکار">
+<!ENTITY prefs_options_autocomplete_tooltip "فعال‌کردن تکمیل خودکار کد">
+<!ENTITY prefs_options_autoclosebrackets "بستن خودکار براکت‌ها">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "افزودن خودکار براکت بسته">
 
 <!ENTITY prefs_options_keybindings_default "پیش‌فرض">
-
+<!ENTITY prefs_options_autosavefiles "ذخیره خودکار فایل‌ها">
 
 <!-- Permissions Table -->
 
