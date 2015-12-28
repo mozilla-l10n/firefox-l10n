@@ -22,8 +22,8 @@
 <!ENTITY quickMode.accesskey         "ن">
 
 
-
-
+<!ENTITY autotagUsePrefix.label      "برچسب‌های پیشوند با:">
+<!ENTITY autotagUsePrefix.accesskey  "پ">
 <!ENTITY autoTagPrefix.placeholder   "یک پیشوند برچسب وارد کنید">
 
 <!ENTITY button.addFeed.label        "افزودن">
