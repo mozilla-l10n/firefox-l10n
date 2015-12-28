@@ -93,7 +93,7 @@
 می‌توانید هم‌اکنون &brandShortName; را راه‌اندازی مجدد کنید، یا به کارتان ادامه داده و این کار را بعداً انجام دهید.">
 
 <!ENTITY  installed.title                 "بروزرسانی نصب شد">
-<!ENTITY  installed.intro                 "‏این به‌هنگام‌سازی با موفقیت نصب شد.">
+<!ENTITY  installed.intro                 "‏این بروزرسانی با موفقیت نصب شد.">
 <!ENTITY  whatsnew.label                  "در مورد چیزهای جدید بیشتر بدانید…">
 
 <!ENTITY  update.details.label            "جزئیات">
