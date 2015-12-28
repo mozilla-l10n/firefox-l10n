@@ -1,6 +1,6 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR mozilla.org
+#define MOZ_LANGPACK_CREATOR mozilla.rs
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
