@@ -13,9 +13,10 @@
 <!ENTITY feedLocation.accesskey      "ن">
 <!ENTITY feedLocation.placeholder    "لطفاْ یک نشانی اینترنتی خوراک صحیح برای افزوده شدن وارد کنید">
 <!ENTITY locationValidate.label      "اعتبار سنجی">
+<!ENTITY validateText.label          "بررسی اعتبار سنجی و بازیابی یک آدرس اینترنتی معتبر.">
 
-
-
+<!ENTITY feedFolder.label            "ذخیره مقالات در:">
+<!ENTITY feedFolder.accesskey        "ذ">
 
 <!ENTITY quickMode.label             "نمایش خلاصه‌ی مقاله بجای بارگذاری صفحه‌ی وب">
 <!ENTITY quickMode.accesskey         "ن">
@@ -35,7 +36,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Export">
 <!ENTITY button.exportOPML.accesskey "x">
-
+<!ENTITY button.exportOPML.tooltip   "صادر کردن خوراک‌ها با ساختار پوشه؛ کنترل و کلیک یا کنترل اینتر برای صادر کردن خوارک‌ها به عنوان یک لیست">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "بستن">
