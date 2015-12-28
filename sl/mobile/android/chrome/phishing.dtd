@@ -23,4 +23,4 @@
 
 <!ENTITY safeb.blocked.forbiddenPage.title "Prepovedana stran">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Ta spletna stran na <span id='forbidden_sitename'/> je bila blokirana na podlagi nastavitve vašega brskalnika.">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Ta spletna stran na <span id='forbidden_sitename'/> je bila zavrnjena na podlagi nastavitve vašega brskalnika.">
