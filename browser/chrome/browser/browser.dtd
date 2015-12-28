@@ -201,6 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
 
 <!ENTITY searchItem.title             "חיפוש">
 
@@ -316,6 +317,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "קובץ"> 
 <!ENTITY fileMenu.accesskey       "ק">
+<!ENTITY userContextPersonal.label        "פרטי">
+<!ENTITY userContextPersonal.accesskey    "א">
+<!ENTITY userContextWork.label            "עבודה">
+<!ENTITY userContextWork.accesskey        "ע">
+<!ENTITY userContextBanking.label         "בנקאות">
+<!ENTITY userContextBanking.accesskey     "ב">
+<!ENTITY userContextShopping.label        "קניות">
+<!ENTITY userContextShopping.accesskey    "ק">
 <!ENTITY newNavigatorCmd.label        "חלון חדש">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ח">
@@ -385,13 +394,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "הצגת סרגל הצד היסטוריה">
 <!ENTITY appMenuHelp.tooltip "פתיחת תפריט העזרה">
 
+<!ENTITY appMenuRemoteTabs.label "לשוניות שסונכרנו">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "אין לשוניות פתוחות">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.openprefs.label "העדפות Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "התחברות אל Sync">
 
 <!ENTITY customizeMenu.addToToolbar.label "הוספה לסרגל כלים">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ר">
@@ -755,6 +768,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "לשוניות הדפדפן">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!ENTITY syncTabsMenu3.label     "לשוניות מסונכרנות">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
