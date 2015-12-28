@@ -20,3 +20,7 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Tato webová stránka na serveru <span id='unwanted_sitename'/> byla nahlášena, že obsahuje nežádoucí software a byla zablokována na základě vašeho bezpečnostního nastavení.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nežádoucí stránka se software se pokouší nainstalovat software, který může být klamavý a ovlivnit váš systém neočekávanými způsoby.">
+
+<!ENTITY safeb.blocked.forbiddenPage.title "Zakázaná stránka">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Tato webová stránka <span id='forbidden_sitename'/> byla zablokována na základě konfigurace vašeho prohlížeče.">
