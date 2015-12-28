@@ -6,7 +6,7 @@
 -->
 
 
-<!ENTITY update.checkForUpdatesButton.label       "بررسی برای به‌روز رسانی‌ها">
+<!ENTITY update.checkForUpdatesButton.label       "بررسی برای بروزرسانی‌ها">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ب">
 <!ENTITY update.updateButton.label2               "برای انجام بروزرسانی، &brandShortName; را دوباره راه‌اندازی کنید">
 
