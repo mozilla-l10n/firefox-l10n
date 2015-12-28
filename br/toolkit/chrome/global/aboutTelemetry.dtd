@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping kozhoc'h &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Roadennoù ping diaoz...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Sizhun">
 
@@ -55,6 +56,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Skrivadurioù diwezhat">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  Titouroù an estez">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Tellunioù dastumet gant an askouezhioù">
 
@@ -70,3 +72,4 @@
 
 <!ENTITY aboutTelemetry.filterText "  Sil (hedadoù pe /riñvenn reoliek/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
