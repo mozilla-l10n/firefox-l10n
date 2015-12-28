@@ -42,7 +42,7 @@
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
 
-<!ENTITY mediaRules.label           "قواعد &amp;رسانه">
+<!ENTITY mediaRules.label           "قواعد @media">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
