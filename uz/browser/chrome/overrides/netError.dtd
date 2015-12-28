@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Sahifani yuklashda muammo">
 <!ENTITY retry.label "Yana urinib ko‘rish">
-
-
+<!ENTITY returnToPreviousPage.label "Orqaga">
+<!ENTITY advanced.label "Qo‘shimcha">
 <!-- Specific error messages -->
 
 
@@ -141,6 +141,7 @@ ulanishini tekshirib ko‘ring.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Ushbu sahifaga shaxsiy ma’lumotlarni kiritish, ularni o‘g‘irlanishiga yoki boshqa tovlamachiliklarga sabab bo‘lishi mumkin.</p> 
 <p>Ushbu turdagi veb qalloblikdan, odatda, fishing hujumida foydalaniladi, yolg‘on vebsahifa va e-pochtalar ishonchingizga kirish uchun ishlatiladi.</p>">
 
+<!ENTITY forbiddenBlocked.title "Taqiqlangan sayt">
 
 
 <!ENTITY cspBlocked.title "Kontent xavfsizlik nazorati tomonidan bloklangan">
