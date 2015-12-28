@@ -84,18 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Չափը">
 <!ENTITY fontSizeMenu.accesskey "z">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY size-tinyCmd.label "Փոքրիկ">
+<!ENTITY size-tinyCmd.accesskey "Փ">
+<!ENTITY size-smallCmd.label "Փոքր">
+<!ENTITY size-smallCmd.accesskey "Փ">
+<!ENTITY size-mediumCmd.label "Միջին">
+<!ENTITY size-mediumCmd.accesskey "Մ">
+<!ENTITY size-largeCmd.label "Մեծ">
+<!ENTITY size-largeCmd.accesskey "Մ">
+<!ENTITY size-extraLargeCmd.label "Շատ մեծ">
+<!ENTITY size-extraLargeCmd.accesskey "ա">
+<!ENTITY size-hugeCmd.label "Հսկայական">
+<!ENTITY size-hugeCmd.accesskey "Հ">
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Տեքստի ոճը">
@@ -311,6 +311,8 @@
 <!ENTITY throbber.tooltip "Անցնել &vendorShortName; մեկնարկային էջին">
 <!ENTITY HighlightColorButton.tooltip "Ընտրել գունանշման գույնը տեքստի համար">
 <!-- Editor toolbar -->
+
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ընտրել տառաչափը">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Տառատեսակի փոքր չափ">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Տառատեսակի մեծ չափ">
 <!ENTITY boldToolbarCmd.tooltip "Թավ">

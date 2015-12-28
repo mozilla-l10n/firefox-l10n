@@ -307,3 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Կոնտակտներ">
 <!-- Identity popup customize menuitem -->
 
+<!ENTITY customizeFromAddress.label "Հարմարեցնել հասցեից...">
+<!ENTITY customizeFromAddress.accesskey "հ">

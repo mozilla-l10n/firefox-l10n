@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Ըստ ծրագրայինի">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-
-
+<!ENTITY enterKeyCreatesNewParagraph.label    "Երբ օգտագործում եք պարբերության ձևաչափը՝ մուտքագրման բանալին ստեղծում է նոր պարբերություն">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "պ">
 
 <!ENTITY spellCheck.label                     "Ուղարկելուց առաջ ստուգել ուղղագրությունը">
 <!ENTITY spellCheck.accesskey                 "C">
