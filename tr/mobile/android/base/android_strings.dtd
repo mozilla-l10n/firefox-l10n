@@ -102,10 +102,12 @@
 <!ENTITY settings "Ayarlar">
 <!ENTITY settings_title "Ayarlar">
 <!ENTITY pref_category_general "Genel">
-
+<!ENTITY pref_category_general_summary2 "Ana ekran, dil, adres çubuğu">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Dil">
 <!ENTITY pref_category_language_summary "Tarayıcınızın dilini değiştirin">
 <!ENTITY pref_browser_locale "Tarayıcı dili">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,12 +144,12 @@
 
 <!ENTITY pref_category_search3 "Arama">
 <!ENTITY pref_category_search_summary "Arama sağlayıcılarınızı özelleştirin">
-
-
+<!ENTITY pref_category_accessibility "Erişilebilirlik">
+<!ENTITY pref_category_accessibility_summary2 "Metin boyutu, yakınlaştırma, ses girdisi">
 <!ENTITY pref_category_privacy_short "Gizlilik">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "İzlenme, çerezler, veri tercihleri">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; hakkında, SSS\u0027ler, geri bildirim">
 <!ENTITY pref_category_datareporting "Veri tercihleri">
 <!ENTITY pref_learn_more "Daha fazla bilgi">
 <!ENTITY pref_category_installed_search_engines "Yüklü arama motorları">
@@ -161,8 +163,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "İPUCU: Herhangi bir web sitesinin arama alanına uzun dokunduktan sonra &formatI; simgesine dokunarak onu arama sağlayıcı listenize ekleyebilirsiniz.">
-
-
+<!ENTITY pref_category_advanced "Gelişmiş">
+<!ENTITY pref_category_advanced_summary2 "Sekmeleri geri yükle, yan uygulamalar, geliştirici araçları">
 <!ENTITY pref_developer_remotedebugging "Uzaktan hata ayıklama">
 <!ENTITY pref_developer_remotedebugging_usb "USB ile uzaktan hata ayıklama">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ile uzaktan hata ayıklama">
@@ -182,7 +184,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "&formatS; başlangıç sayfasına eklendi">
 <!ENTITY pref_category_home_content_settings "İçerik ayarları">
-
+<!ENTITY pref_home_updates "Otomatik güncellemeler">
 <!ENTITY pref_home_updates_enabled "Etkin">
 <!ENTITY pref_home_updates_wifi "Yalnızca Wi-Fi üzerinden">
 <!ENTITY pref_home_suggested_sites "Site önerilerini göster">
@@ -192,31 +194,37 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; Ana Sayfası">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Özel">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Adres veya aranacak terim yazın">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "Genel">
+
 <!ENTITY pref_header_privacy_short "Gizlilik">
-
-
+<!ENTITY pref_header_accessibility "Erişilebilirlik">
+<!ENTITY pref_header_advanced "Gelişmiş">
 <!ENTITY pref_header_help "Yardım">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Çerezler">
 <!ENTITY pref_cookies_accept_all "Etkin">
 <!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
 <!ENTITY pref_cookies_disabled "Devre dışı">
 
-
-
-
+<!ENTITY pref_tap_to_load_images_title2 "Resimleri göster">
+<!ENTITY pref_tap_to_load_images_enabled "Her zaman">
+<!ENTITY pref_tap_to_load_images_data "Yalnızca Wi-Fi üzerinden">
+<!ENTITY pref_tap_to_load_images_disabled2 "Engellendi">
 
 <!ENTITY pref_tracking_protection_title "İzlenme koruması">
 <!ENTITY pref_tracking_protection_summary3 "Gizli Gezinti\u0027de etkin">
@@ -252,11 +260,11 @@
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
 <!ENTITY pref_char_encoding_on "Menüyü göster">
 <!ENTITY pref_char_encoding_off "Menüyü gösterme">
-
+<!ENTITY pref_clear_private_data "Özel verileri temizle">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Şimdi temizle">
-
+<!ENTITY pref_clear_on_exit_title3 "Özel verileri çıkışta temizle">
 <!ENTITY pref_clear_on_exit_summary2 "Ana menüden \u0022Çık\u0022ı seçtiğiniz zaman &brandShortName; verilerinizi otomatik olarak temizleyecektir">
 <!ENTITY pref_clear_on_exit_dialog_title "Temizlenecek verileri seçin">
 <!ENTITY pref_plugins "Yan uygulamalar">
@@ -264,7 +272,7 @@
 <!ENTITY pref_plugins_tap_to_play "Oynatmak için dokun">
 <!ENTITY pref_plugins_disabled "Devre dışı">
 <!ENTITY pref_text_size "Metin boyutu">
-
+<!ENTITY pref_restore_tabs "Sekmeleri geri yükle">
 <!ENTITY pref_restore_always "Her zaman geri yükle">
 <!ENTITY pref_restore_quit "&brandShortName; tarayıcısından çıktıktan sonra geri yükleme ">
 <!ENTITY pref_font_size_tiny "Çok küçük">
@@ -289,7 +297,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Yakınlaştırmayı her zaman etkinleştir">
 <!ENTITY pref_zoom_force_enabled_summary "Her sayfayı yakınlaştırabilmeniz için sayfa tercihini zorla değiştirir">
 <!ENTITY pref_voice_input "Sesle giriş">
-
+<!ENTITY pref_voice_input_summary2 "Adres çubuğunda sesli dikteye izin ver">
 <!ENTITY pref_qrcode_enabled "QR kodu okuyucu">
 
 
