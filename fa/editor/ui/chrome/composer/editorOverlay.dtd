@@ -75,6 +75,7 @@
 <!ENTITY decreaseFontSize.accesskey "r">
 
 <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 "،"> 
 <!ENTITY increaseFontSize.label "Larger">
 <!ENTITY increaseFontSize.accesskey "g">
 

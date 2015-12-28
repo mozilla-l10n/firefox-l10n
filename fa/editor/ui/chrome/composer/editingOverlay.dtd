@@ -22,15 +22,17 @@
 
 <!ENTITY publishAsCmd.label "انتشار به عنوان...">
 <!ENTITY publishAsCmd.accesskey "ش">
-
-
+<!ENTITY fileRevert.label "بازگشت">
+<!ENTITY fileRevert.accesskey "t">
 <!-- Edit menu items -->
 
+<!ENTITY publishSettings.label "انتشار پیکربندی سایت...">
+<!ENTITY publishSettings.accesskey "b">
 <!-- Toolbar buttons/items -->
 
 <!ENTITY newToolbarCmd.label "جدید">
-
+<!ENTITY newToolbarCmd.tooltip "ایجاد یک صفحه نوشتاری جدید">
 <!ENTITY openToolbarCmd.label "باز کردن">
 <!ENTITY openToolbarCmd.tooltip "باز کردن یک پرونده‌ی محلی">
 <!ENTITY saveToolbarCmd.tooltip "ذخیره‌ی پرونده در یک مکان محلی">
-
+<!ENTITY publishToolbarCmd.tooltip "آپلود فایل به یک مکان دور">

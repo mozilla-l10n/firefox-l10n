@@ -46,22 +46,22 @@
 <!ENTITY NormalModeTab.label "عادی">
 <!ENTITY NormalMode.label "حالت ویرایش عادی">
 <!ENTITY NormalMode.accesskey "ع">
-
+<!ENTITY NormalMode.tooltip "نمایش کادرهای جدول و گوشه‌های نام گذاری شده">
 <!ENTITY AllTagsModeTab.label "برچسب‌های HTML">
 <!ENTITY AllTagsMode.label "برچسب‌های HTML">
 <!ENTITY AllTagsMode.accesskey "چ">
-
+<!ENTITY AllTagsMode.tooltip "نمایش آیکن‌ها برای همه‌ی برچسب‌های HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "rtl">
-
+<!ENTITY HTMLSourceModeTab.label "منبع">
 <!ENTITY HTMLSourceMode.label "منبع HTML">
 <!ENTITY HTMLSourceMode.accesskey "م">
 <!ENTITY HTMLSourceMode.tooltip "ویرایش منبع HTML">
 <!ENTITY PreviewModeTab.label "پیش‌نمایش">
 <!ENTITY PreviewMode.label "پیش‌نمایش">
 <!ENTITY PreviewMode.accesskey "پ">
-
+<!ENTITY PreviewMode.tooltip "نمایش به عنوان WYSIWYG (همانند داخل مرورگر)">
