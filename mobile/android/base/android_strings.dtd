@@ -730,7 +730,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone "ক্যামেরা ও মাইক্রোফোন">
 
 
-
+<!ENTITY restrictable_feature_data_choices_description "আরও ভাল ফায়ারফক্স তৈরিতে সাহায্য করতে ব্যবহার সম্পর্কিত তথ্য মজিলাতে প্রেরণ করা হবে কি না তা নির্বাচন করুন।">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -747,4 +747,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_title "&brandShortName; অ্যান্ড্রয়েড 3 সমর্থন করে না।">
+<!ENTITY eol_notification_summary "আরও জানতে ট্যাপ করুন">
