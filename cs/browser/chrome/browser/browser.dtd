@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Zaškrtněte, pokud chcete uložit své heslo">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Zobrazit zprávu o instalaci aplikace">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Spravovat využití zásuvných modulů na této stránce">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Změnit, zda můžete přijímat oznámení z webu">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Změnit, zda můžete ze serveru přijímat oznámení">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Spravovat sdílení webkamery a/nebo mikrofonu se stránkou">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Sdílíte webkameru a/nebo mikrofon se stránkou">
@@ -714,7 +714,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Základní styl">
 <!ENTITY pageStylePersistentOnly.accesskey "Z">
 
-<!ENTITY pageReportIcon.tooltip            "Změní nastavení blokování vyskakovacích oken pro webový server">
+<!ENTITY pageReportIcon.tooltip            "Změní nastavení blokování vyskakovacích oken pro tento server">
 
 <!ENTITY allowPopups.accesskey "P">
 <!-- On Windows we use the term "Options" to describe settings, but
