@@ -39,8 +39,8 @@
 
 <!ENTITY syncDeviceName.label       "Qurilma nomi:">
 <!ENTITY syncDeviceName.accesskey   "Q">
-
-
+<!ENTITY fxaSyncDeviceName.label       "Qurilma nomi">
+<!ENTITY changeSyncDeviceName.label "Qurilma nomini o‘zgartirish…">
 <!ENTITY cancelChangeSyncDeviceName.label "Bekor qilish">
 <!ENTITY saveChangeSyncDeviceName.label "Saqlash">
 <!ENTITY unlinkDevice.label           "Ushbu qurilmani uzish">
@@ -71,7 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Siz kirmagansiz.">
 <!ENTITY signIn.label                "Kirish">
-
+<!ENTITY profilePicture.tooltip      "Profil rasmini o‘zgartirish">
 
 <!ENTITY disconnect.label            "Ajratilmoqda…">
 <!ENTITY verify.label                "E-pochtani tasdiqlash">
@@ -83,11 +83,12 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Sinx-yaning eskiroq versiyalaridan foydalanilsinmi?">
 
+<!ENTITY signedOut.description        "Xatcho‘plar, tarix, ichi oyna, parollaringiz va boshqa parametrlarni barcha qurilmalaringizaro sinxronlang.">
+<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; bilan ulanish">
 
 
 
-
-
+<!ENTITY signedIn.engines.label       "Barcha qurilmalar aro sinxronlang">
 <!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Sync to your mobile device.

@@ -20,5 +20,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> veb sahifasi qallob veb sayt sifatida ma`lumot berilgan. Xavfsizlik moslamalaringizga asoslanib bloklangan.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Qalbaki veb saytlar siz ishonishingiz mumkin boʻlgan manbalarni koʻrsatib, shaxsiy yoki iqtisodiy ma`lumotlaringizni oʻgʻirlash uchun yasalgan boʻladi.</p><p>Bunday veb sahifalarga ma`lumot kiritsangiz, shaxsiy ma`lumotlaringiz oʻgʻirlanishi mumkin.</p>">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "Taqiqlangan sayt">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Brauzer sozlamalariga ko‘ra, <span id='forbidden_sitename'/> manzilidagi veb-sahifa bloklangan.">
 

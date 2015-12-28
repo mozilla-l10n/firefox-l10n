@@ -33,4 +33,5 @@
 <!ENTITY  changeMasterPassword.label     "Parol ustasini oʻzgartirish">
 <!ENTITY  changeMasterPassword.accesskey "u">
 
-
+<!ENTITY  savedLogins.label              "Saqlangan login ma’lumotlari…">
+<!ENTITY  savedLogins.accesskey          "l">

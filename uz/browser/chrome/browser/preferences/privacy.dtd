@@ -4,13 +4,14 @@
 
 <!ENTITY tracking.label                 "Kuzatish">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Saytlar sizni kuzatmasligini talab qilish">
+<!ENTITY dntTrackingNotOkay4.accesskey "S">
 <!ENTITY doNotTrackInfo.label          "Ko‘proq o‘rganish">
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "Kuzatuvdan himoya ishlatish">
+<!ENTITY trackingProtection5.accesskey "h">
+<!ENTITY trackingProtectionLearnMore.label "Batafsil ma’lumot">
+<!ENTITY trackingProtectionPBM5.label         "Maxfiy oynalarda kuzatuvdan himoya ishlatish">
+<!ENTITY trackingProtectionPBM5.accesskey     "M">
 
 
 
@@ -26,8 +27,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "X">
 <!ENTITY  locbar.openpage.label         "Ichki oynalarni ochish">
 <!ENTITY  locbar.openpage.accesskey     "o">
-
-
+<!ENTITY  locbar.searches.label         "Asosiy qidiruv tizimidan aloqador natijalar">
+<!ENTITY  locbar.searches.accesskey     "A">
 
 
 
