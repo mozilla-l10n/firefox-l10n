@@ -24,4 +24,5 @@
 
 <!ENTITY safeb.blocked.forbiddenPage.title "নিষিদ্ধ সাইট">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "<span id='forbidden_sitename'/> এই ওয়েব পাতাটি আপনার ব্রাউজার কনফিগারেশন অনুযায়ী ব্লক করা হয়েছে।">
 
