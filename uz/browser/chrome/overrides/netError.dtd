@@ -142,7 +142,7 @@ ulanishini tekshirib ko‘ring.</li>
 <p>Ushbu turdagi veb qalloblikdan, odatda, fishing hujumida foydalaniladi, yolg‘on vebsahifa va e-pochtalar ishonchingizga kirish uchun ishlatiladi.</p>">
 
 <!ENTITY forbiddenBlocked.title "Taqiqlangan sayt">
-
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; bu sahifani yuklashga yo‘l qo‘ymadi, chunki uni bloklashga sozlangan.</p>">
 
 <!ENTITY cspBlocked.title "Kontent xavfsizlik nazorati tomonidan bloklangan">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ushbu sahifani bu yo‘lda yuklashga to‘sqinlik qildi, chunki sahifadagi xavfsizlik siyosati bunga ruxsat bermadi.</p>">
@@ -165,6 +165,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "Shu kabi xatolik hisobotlari Mozillaga zararli saytlarni aniqlash va bloklashda yordam beradi">
 <!ENTITY errorReporting.learnMore "Ko‘proq o‘rganish…">
 <!ENTITY errorReporting.sending "Ma’lumot jo‘natish">
 <!ENTITY errorReporting.sent "Ma’lumot jo‘natildi">
@@ -177,9 +178,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Xavfsiz ulanish amalga oshmadi">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Qo‘shimcha ma’lumot: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Ulanish xavfsiz emas">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
-
-
+<!ENTITY weakCryptoUsed.longDesc2 "Qo‘shimcha ma’lumot: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Qo‘shimcha">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> eskirgan, hujumga qarshi zaif xavfsizlik texnologiyasidan foydalanadi. Siz xavfsiz deb o‘ylagan ma’lumotni hujumchi osongina oshkor qilishi mumkin.">
+<!ENTITY weakCryptoAdvanced.override "(Xavfsiz emas) Eskirgan xavfsizlik texnologiyali <span class='hostname'></span> sahifasini yuklab ko‘rish">

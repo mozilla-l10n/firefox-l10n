@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Parolingizni saqlamoqchi bo‘lsangiz, belgilang">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Ilovani o‘rnatish xabarini ko‘rish">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Ushbu sahifadagi plagindan foydalanishni boshqarish">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Saytdan eslatma olish imkoniyatini o‘zgartirish">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Kamera yoki mikrofonni sayt bilan bo‘lishishni boshqarish">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Siz hozirda kamera yoki mikrofonni sayt bilan bo‘lishishyapsiz">
@@ -331,16 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fayl"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Yangi Konteyner ichki oynasi">
+<!ENTITY newUserContext.accesskey         "K">
+<!ENTITY userContextPersonal.label        "Shaxsiy">
+<!ENTITY userContextPersonal.accesskey    "S">
+<!ENTITY userContextWork.label            "Ish">
+<!ENTITY userContextWork.accesskey        "I">
+<!ENTITY userContextBanking.label         "Bank ishi">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Xaridlar">
+<!ENTITY userContextShopping.accesskey    "X">
 <!ENTITY newNavigatorCmd.label        "Yangi oyna">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -410,6 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Tarixni yon panelda ko‘rsatish">
 <!ENTITY appMenuHelp.tooltip "Yordam menyusini ochish">
 
+<!ENTITY appMenuRemoteTabs.label "Sinxronlangan ichki oynalar">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -449,8 +450,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Tavsiyalar yordamida izlash bo‘yicha tajribangizni oshirishni xohlaysizmi?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ko‘proq o‘rganish…">
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "&#037;S-ekran">
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ha">
 
@@ -482,6 +483,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Qidiruv so‘rovi">
+<!ENTITY contentSearchSubmit.label    "Qidiruv so‘rovini jo‘natish">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -699,6 +702,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Y">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Sahifa uslubi">
 <!ENTITY pageStyleMenu.accesskey "l">
@@ -741,12 +745,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY identity.connectionNotSecure "Ulanish – xavfsiz emas">
-
+<!ENTITY identity.connectionFile "Bu sahifa kompyuteringizda saqlangan.">
 <!ENTITY identity.connectionVerified1 "Quyidagi yordamida ishlaydigan ushbu saytga xavfli ulandingiz:">
 <!ENTITY identity.connectionInternal "Bu xavfsiz &brandShortName; sahifasi.">
 
 <!-- Strings for connection state warnings. -->
 
+<!ENTITY identity.activeBlocked "&brandShortName; ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.">
+<!ENTITY identity.passiveLoaded "Ushbu sahifa qismlari xavfsiz emas (masalan, rasmlar).">
 
 
 <!-- Strings for connection state warnings in the subview. -->
@@ -754,16 +760,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "Ushbu vebsahifaga ulanish kuchsiz kodlash usulidan foydalanadi, shuning uchun u maxfiy emas.">
 <!ENTITY identity.description.weakCipher2 "Boshqa odamlar ma’lumotlaringizni ko‘rishi yoki vebsayt xususiyatlarini o‘zgartirishi mumkin.">
 
-
-
+<!ENTITY identity.description.passiveLoaded "Bu ulanish maxfiy emas, shu sababli siz sayt bilan bo‘lishgan ma’lumotlarni boshqalar ko‘rishi mumkin.">
+<!ENTITY identity.description.passiveLoaded2 "Ushbu saytda xavfsiz bo‘lmagan kontent mavjud (masalan, rasmlar).">
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; ba’zi tarkibni blokladi, ammo sahifada hali ham xavfli tarkiblar (masalan, rasmlar) bor.">
 <!ENTITY identity.description.activeLoaded "Ushbu saytda xavfli tarkib mavjud (masalan, skriptlar), shuning uchun ulanish maxfiy emas.">
+<!ENTITY identity.description.activeLoaded2 "Bu sayt bilan bo‘lishgan ma’lumotlaringizni (masalan, parol, xabar, kredit kartalarini) boshqalar ko‘rishi mumkin.">
 
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Himoyani yoqish">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "H">
 <!ENTITY identity.disableMixedContentBlocking.label "Himoyani hozir o‘chirish">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "h">
-
+<!ENTITY identity.learnMore "Batafsil ma’lumot">
 
 
 <!ENTITY identity.permissions "Ruxsatlar">
@@ -776,7 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sinxronlash">
 
-
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Hozir sinxronlash">
 <!ENTITY syncSyncNowItem.accesskey    "s">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; ga qayta ulanish…">
@@ -840,7 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "Ekraningizdagi barcha ko‘rinadigan oynalar bo‘lishiladi.">
 
-
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; internetdagi faoliyatingizni kuzatishi mumkin bo‘lgan sahifa qismlarini blokladi.">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
@@ -850,14 +857,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
+<!ENTITY trackingProtection.unblockPrivate.label "Bu seansda himoyani o‘chirish">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "o">
 
 
 
 <!ENTITY trackingContentBlocked.message "Kuzatish">
 <!ENTITY trackingContentBlocked.moreinfo "Sizning onlayn faoliyatingizni kuzatuvchi sahifalar qismlari bloklandi.">
 <!ENTITY trackingContentBlocked.learnMore "Ko‘proq o‘rganish">
-
+<!ENTITY trackingContentBlocked.options "Tanlamalar">
 
 
 <!ENTITY trackingContentBlocked.block.label "Himoyani yoqish">

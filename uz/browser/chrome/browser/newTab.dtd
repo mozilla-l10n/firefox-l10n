@@ -4,13 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Yangi ichki oyna">
-
+<!ENTITY newtab.customize.classic "Sara saytlaringizni ko‘rsatish">
 <!ENTITY newtab.customize.cog.enhanced "Tavsiya qilingan saytlar bilan birga">
-
-
+<!ENTITY newtab.customize.cog.title2 "YANGI ICHKI OYNA TUGMALARI">
+<!ENTITY newtab.customize.cog.learn "Yangi ichki oyna haqida ma’lumot">
 <!ENTITY newtab.customize.title "Yangi ichki oyna sahifasini qulaylashtirish">
 <!ENTITY newtab.customize.suggested "Tavsiya qilingan va yuqori reytingli saytlaringizni ko‘rsatish">
-
+<!ENTITY newtab.customize.topsites "Sara saytlaringizni ko‘rsatish">
 <!ENTITY newtab.customize.blank2 "Bo‘sh sahifa ko‘rsatilsin">
 <!ENTITY newtab.undo.removedLabel "Nishoncha olib tashlandi.">
 <!ENTITY newtab.undo.undoButton "Bekor qilish.">
