@@ -8,7 +8,7 @@
 <!ENTITY netmonitorUI.reloadNotice2 "wczytaj stronę ponownie">
 <!ENTITY netmonitorUI.reloadNotice3 ", aby zobaczyć szczegółowe informacje o aktywności sieciowej.">
 
-<!ENTITY netmonitorUI.toolbar.status2 "✓">
+<!ENTITY netmonitorUI.toolbar.status3 "Status">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 <!ENTITY netmonitorUI.toolbar.method      "Metoda">
