@@ -341,8 +341,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY userContextPersonal.label        "Osebno">
 <!ENTITY userContextPersonal.accesskey    "P">
 <!ENTITY userContextWork.label            "Služba">
+<!ENTITY userContextWork.accesskey        "S">
 <!ENTITY userContextBanking.label         "Bančništvo">
+<!ENTITY userContextBanking.accesskey     "B">
 <!ENTITY userContextShopping.label        "Nakupovanje">
+<!ENTITY userContextShopping.accesskey    "N">
 <!ENTITY newNavigatorCmd.label        "Novo okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
