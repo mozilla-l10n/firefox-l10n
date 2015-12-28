@@ -4,6 +4,8 @@
 <!-- LOCALIZATION NOTE (identityDialog.style): This value should be roughly
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
+
+<!ENTITY identityDialog.style "min-width: 75ch;">
 <!ENTITY identityTitle.label "Նույնական. կարգ.">
 <!ENTITY identityListDesc.label "Կազմաձևել նույնականացման կարգ-ը.">
 
