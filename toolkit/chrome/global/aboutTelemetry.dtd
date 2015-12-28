@@ -26,6 +26,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "پینگ قدیمی‌تر &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "پینگ اطلاعات خام ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "هفته">
 

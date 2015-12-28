@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
+
+<!ENTITY unsupportedPlatform.pre                             "متاسفیم، اما &brandShortName; نمی‌تواند در این دستگاه فلش را اجرا کند. ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "بیشتر بدانید…">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
@@ -15,19 +18,20 @@
 <!ENTITY checkForUpdates                                     "بررسی بروزرسانی …">
 <!ENTITY disabledPlugin                                      "این افزونه غیرفعال است.">
 <!ENTITY blockedPlugin.label                                 "این متصل‌شونده به منظور محافظت از شما باز داشته شده است.">
-
-
+<!ENTITY hidePluginBtn.label                                 "مخفی کردن افزونه">
+<!ENTITY managePlugins                                       "مدیریت افزونه‌ها...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 
 <!ENTITY reloadPlugin.pre                                    "">
-
-
+<!ENTITY reloadPlugin.middle                                 "بارگزاری مجدد صفحه">
+<!ENTITY reloadPlugin.post                                   " برای تلاش مجدد.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-
-
-
+<!ENTITY report.please                                       "ارسال گزارش دچار خرابی شده است">
+<!ENTITY report.submitting                                   "در حال ارسال گزارش…">
+<!ENTITY report.submitted                                    "خرابی در ارسال گزارش.">
+<!ENTITY report.disabled                                     "ارسال گزارش غیرفعال است.">
 <!ENTITY report.failed                                       "ارسال به مشکل برخورد.">
 <!ENTITY report.unavailable                                  "گزارشی وجود ندارد.">
 <!ENTITY report.comment                                      "افزودن یک توضیح (توضیحات در دسترس عموم قرار خواهند گرفت)">
