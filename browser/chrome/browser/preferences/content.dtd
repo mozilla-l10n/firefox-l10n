@@ -8,10 +8,10 @@
 <!ENTITY  blockPopups.accesskey       "Կ">
 
 <!ENTITY  notificationsPolicy.label            "Ծանուցումներ">
-
+<!ENTITY  notificationsPolicyLearnMore.label   "Իմանալ ավելին">
 <!ENTITY  notificationsPolicyDesc3.label       "Ընտրեք, թե որ կայքերին է թույլատրված ուղարկել ձեզ ծանուցումներ">
-
-
+<!ENTITY  notificationsPolicyButton.accesskey  "ն">
+<!ENTITY  notificationsPolicyButton.label      "Ընտրել…">
 <!ENTITY  notificationsDoNotDisturb.label      "Չխանգարել ինձ">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "խ">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ծանուցում չի ցուցադրվի մինչև &brandShortName;-ի վերագործարկումը">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "Նվագարկել DRM բովանդակություն">
 <!ENTITY  playDRMContent.accesskey     "Ն">
-
+<!ENTITY  playDRMContent.learnMore.label "Իմանալ ավելին">
