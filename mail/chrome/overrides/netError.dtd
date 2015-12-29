@@ -5,27 +5,128 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "Проблем при учитавању странице">
+<!ENTITY retry.label "Покушајте поново">
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Не могу да се повежем">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
+<!ENTITY deniedPortAccess.title "Приступ овој адреси је ограничен">
+<!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.title "Сервер није пронађен">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Проверите адресу на грешке у куцању, попут 
+    <strong>ww</strong>.primerdomena.rs уместо
+    <strong>www</strong>.primerdomena.rs</li>
+  <li>Ако не можете да учитате ниједну страницу, проверите да ли је веза рачунара са 
+    мрежом активна.</li>
+  <li>Ако су рачунар или мрежа заштићени са заштитним зидом или посредником, проверите да ли је програму &brandShortName; дозвољено да приступа мрежи.</li>
+</ul>
+">
 
+<!ENTITY fileNotFound.title "Датотека није нађена">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Проверите име датотеке на грешку у куцању, грешку са величином слова или на неку другу грешку у куцању.</li>
+  <li>Проверите да ли је датотека померена, преименована или обрисана.</li>
+</ul>
+">
 
+<!ENTITY generic.title "Упс.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; не може да учита ову страницу из неког разлога.</p>
+">
 
+<!ENTITY malformedURI.title "Адреса није исправна">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Веб адресе се обично пишу као
+    <strong>http://www.primerdomena.rs/</strong></li>
+  <li>Проверите да ли користите косу црту (тј.: 
+    <strong>/</strong>).</li>
+</ul>
+">
 
+<!ENTITY netInterrupt.title "Веза је прекинута">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Документ је истекао">
+<!ENTITY notCached.longDesc "<p>Тражени документ није доступан у кешу.</p><ul><li>Зарад веће безбедности, &brandShortName; не учитава аутоматски поверљива документа.</li><li>Кликните на „Покушај поново“ да бисте поново затражили документ са веб странице.</li></ul>">
 
+<!ENTITY netOffline.title "Режим рада ван мреже">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Притисните &quot;Покушај поново&quot; да бисте укључили режим рада на мрежи и да бисте поново учитали страницу.</li>
+</ul>
+">
 
+<!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Контактирајте власнике веб странице да бисте их обавестили о овом проблему.</li>
+</ul>
+">
 
+<!ENTITY unsafeContentType.title "Небезбедна врста датотеке">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Контактирајте власнике веб странице да бисте их обавестили о овом проблему.</li>
+</ul>
+">
 
+<!ENTITY netReset.title "Веза је ресетована">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
+<!ENTITY netTimeout.title "Веза је истекла">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Не могу да растумачим адресу">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Можда ћете морати да инсталирате неки други програм да бисте отворили ову адресу.</li>
+</ul>
+">
 
+<!ENTITY proxyConnectFailure.title "Прокси сервер одбија везе">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Проверите ваша подешавања проксија и постарајте се да су тачна.</li>
+  <li>Контактирајте вашег администратора мреже и проверите да ли прокси сервер
+    ради.</li>
+</ul>
+">
 
+<!ENTITY proxyResolveFailure.title "Не могу да пронађем прокси сервер">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Проверите подешавања проксија и постарајте се да буду исправна.</li>
+  <li>Проверите да ли веза са интернетом на вашем рачунару ради.</li>
+  <li>Ако је ваш рачунар или ваша мрежа заштићена проксијем или заштитним зидом, проверите
+    да је &brandShortName;-у дозвољено да приступи Вебу.</li>
+</ul>">
 
+<!ENTITY redirectLoop.title "Страница не преусмерава исправно">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Понекад је узрок овог проблема искључено прихватање или одбијање
+    колачића.</li>
+</ul>
+">
 
+<!ENTITY unknownSocketType.title "Неочекиван одговор од сервера">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Проверите да ли је на вашем систему инсталиран Personal Security
+    Manager.</li>
+  <li>Узрок овоме је можда нестандардно подешавање на серверу.</li>
+</ul>
+">
 
+<!ENTITY nssFailure2.title "Безбедно повезивање није успело">
 
 
 
