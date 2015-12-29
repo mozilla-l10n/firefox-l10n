@@ -177,3 +177,6 @@
 <!ENTITY simulator_device "Urządzenie">
 <!ENTITY simulator_screenSize "Ekran">
 <!ENTITY simulator_pixelRatio "Współczynnik pikseli">
+<!ENTITY simulator_tv_data "Symulacja TV">
+<!ENTITY simulator_tv_data_open "Dane konfiguracyjne">
+<!ENTITY simulator_tv_data_open_button "Otwórz katalog z konfiguracją…">
