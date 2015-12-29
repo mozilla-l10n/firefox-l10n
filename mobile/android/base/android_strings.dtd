@@ -102,7 +102,7 @@
 <!ENTITY settings "সেটিংসমূহ">
 <!ENTITY settings_title "সেটিংসমূহ">
 
-
+<!ENTITY pref_category_general_summary2 "হোম, ভাষা, URL বার">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -142,12 +142,12 @@
 
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
 <!ENTITY pref_category_search_summary "আপনার অনুসন্ধান সেবাপ্রদানকারী কাস্টমাইজ করুন">
-
-
+<!ENTITY pref_category_accessibility "প্রবেশযোগ্যতা">
+<!ENTITY pref_category_accessibility_summary2 "টেক্সটের আকার, জুম করা, ভয়েস ইনপুট">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
+<!ENTITY pref_category_privacy_summary3 "ট্র্যাকিং, কুকিস, ডাটা পছন্দ">
 
-
-
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; সম্পর্কিত প্রায়শ জিজ্ঞাসিত প্রশ্নাবলী, মতামত">
 <!ENTITY pref_category_datareporting "তথ্য পছন্দ">
 <!ENTITY pref_learn_more "আরও জানুন">
 <!ENTITY pref_category_installed_search_engines "ইন্সটলকৃত সার্চ ইঞ্জিন">
@@ -162,7 +162,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "পরামর্শ: যেকোনো ওয়েবসাইটকে আপনার অনুসন্ধান প্রদানকারীদের তালিকায় যুক্ত করতে সেই ওয়েবসাইটের অনুসন্ধানক্ষেত্রে কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন।">
 
-
+<!ENTITY pref_category_advanced_summary2 "ট্যাব, প্লাগ-ইন, ডেভেলপার টুলগুলো ফিরিয়ে আনুন">
 <!ENTITY pref_developer_remotedebugging "রিমোট ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_usb "USB এর মাধ্যমে রিমোট ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi এর মাধ্যমে রিমোট ডিবাগিং">
@@ -196,15 +196,17 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "স্বনির্ধারিত">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "ঠিকানা অথবা অনুসন্ধানের জন্য শব্দ লিখুন">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_privacy_short "গোপনীয়তা">
-
+<!ENTITY pref_header_accessibility "প্রবেশযোগ্যতা">
 
 <!ENTITY pref_header_help "সহায়তা">
 
@@ -216,7 +218,7 @@
 
 <!ENTITY pref_tap_to_load_images_title2 "ছবি দেখাও">
 
-
+<!ENTITY pref_tap_to_load_images_data "শুধুমাত্র ওয়াইফাই নির্ভর">
 <!ENTITY pref_tap_to_load_images_disabled2 "ব্লক করা হয়েছে">
 
 <!ENTITY pref_tracking_protection_title "ট্র্যাকিং সুরক্ষা">
@@ -292,7 +294,7 @@ size. -->
 <!ENTITY pref_voice_input "ভয়েস ইনপুট">
 
 <!ENTITY pref_qrcode_enabled "QR কোড রিডার">
-
+<!ENTITY pref_qrcode_enabled_summary2 "URL বারে QR স্ক্যানারের অনুমতি দিন">
 
 <!ENTITY pref_use_master_password "মাস্টার পাসওয়ার্ড ব্যবহার করুন">
 <!ENTITY pref_sync2 "সাইন ইন">
@@ -365,6 +367,7 @@ size. -->
 
 <!ENTITY quit "প্রস্থান">
 
+<!ENTITY addons "অ্যাড-অন">
 
 <!ENTITY downloads "ডাউনলোড">
 <!ENTITY char_encoding "ক্যারেক্টার এনকোডিং">
@@ -444,7 +447,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "সম্পূর্ণ স্ক্রিন জুড়ে ব্রাউজিং">
-
+<!ENTITY pref_scroll_title_bar_summary2 "যখন একটি পাতায় স্ক্রল করছেন তখন &brandShortName; টুলবারকে আড়াল কর">
 
 <!ENTITY pref_tab_queue_title2 "একাধিক লিঙ্ক খুলুন">
 <!ENTITY pref_tab_queue_summary3 "পরবর্তীতে যখন &brandShortName; খুলবেন ততক্ষণ পর্যন্ত তাদের সংরক্ষণ করুন">
