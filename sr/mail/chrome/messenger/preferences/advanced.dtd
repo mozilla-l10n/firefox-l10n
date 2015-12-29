@@ -3,19 +3,84 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Опште">
+<!ENTITY dataChoicesTab.label    "Избори о подацима">
+<!ENTITY itemUpdate.label        "Ажурирање">
+<!ENTITY itemNetworking.label    "Мрежа и простор на диску">
+<!ENTITY itemCertificates.label  "Сертификати">
 
 <!-- General Settings -->
+<!ENTITY enableGlodaSearch.label       "Омогући општу претрагу и пописивање">
+<!ENTITY enableGlodaSearch.accesskey   "О">
+<!ENTITY allowHWAccel.label            "Користи хардверско убрзање када је доступно">
+<!ENTITY allowHWAccel.accesskey        "х">
+<!ENTITY storeType.label               "Врста складишта порука за нове налоге:">
+<!ENTITY storeType.accesskey           "л">
+<!ENTITY mboxStore2.label              "Датотека по фасцикли (mbox)">
+<!ENTITY maildirStore.label            "Датотека по поруци (maildir)">
 
+<!ENTITY scrolling.label               "Клизање">
+<!ENTITY useAutoScroll.label           "Користи самоклизање">
+<!ENTITY useAutoScroll.accesskey       "К">
+<!ENTITY useSmoothScrolling.label      "Користи глатко клизање">
+<!ENTITY useSmoothScrolling.accesskey  "г">
 
+<!ENTITY systemIntegration.label       "Интеграција са системом">
+<!ENTITY alwaysCheckDefault.label      "Увек провери да ли је &brandShortName; подразумевани поштански клијент при покретању">
+<!ENTITY alwaysCheckDefault.accesskey  "в">
+<!ENTITY searchIntegration.label       "Дозволи &searchIntegration.engineName; да претражује поруке">
+<!ENTITY searchIntegration.accesskey   "в">
+<!ENTITY checkDefaultsNow.label        "Провери сада…">
+<!ENTITY checkDefaultsNow.accesskey    "с">
+<!ENTITY configEditDesc.label          "Напредна подешавања">
+<!ENTITY configEdit.label              "Уређивач подешавања…">
+<!ENTITY configEdit.accesskey          "п">
+<!ENTITY returnReceiptsInfo.label      "Начин на који &brandShortName; барата са потврдама о пријему">
+<!ENTITY showReturnReceipts.label      "Потврде о пријему…">
+<!ENTITY showReturnReceipts.accesskey  "П">
 
 <!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Телеметрија">
+<!ENTITY telemetryDesc.label             "Дели податке о перформансама, коришћењу, хардверу и прилагођавањима на вашем клијенту за е-пошту са &vendorShortName;-ом да бисмо учинили &brandShortName; бољим">
+<!ENTITY enableTelemetry.label           "Омогући телеметрију">
+<!ENTITY enableTelemetry.accesskey       "т">
+<!ENTITY telemetryLearnMore.label        "Сазнајте више">
 
+<!ENTITY crashReporterSection.label      "Извештавач о рушењу">
+<!ENTITY crashReporterDesc.label         "&brandShortName; подноси извештаје о рушењу да би помогао &vendorShortName;-и да учини ваш клијент е-поште стабилнијим и безбеднијим">
+<!ENTITY enableCrashReporter.label       "Омогући извештавач о рушењу">
+<!ENTITY enableCrashReporter.accesskey   "и">
+<!ENTITY crashReporterLearnMore.label    "Сазнајте више">
 
 <!-- Update -->
+<!ENTITY updateApp.label                 "&brandShortName; ажурирања:">
+<!ENTITY updateAuto.label                "Аутоматски инсталирај ажурирања (преопручено: побољшава безбедност)">
+<!ENTITY updateAuto.accesskey            "А">
+<!ENTITY updateCheck.label               "Провери да ли има ажурирања али мени допусти да изаберем када да се инсталирају">
+<!ENTITY updateCheck.accesskey           "П">
+<!ENTITY updateManual.label              "Никада не проверавај да ли има ажурирања (није препоручено: безбедносни ризик)">
+<!ENTITY updateManual.accesskey          "Н">
+<!ENTITY updateAutoAddonWarn.label       "Упозори ме ако ће ово искључити било који од мојих додатака">
+<!ENTITY updateAutoAddonWarn.accesskey   "У">
+<!ENTITY updateHistory.label             "Прикажи историјат ажурирања">
+<!ENTITY updateHistory.accesskey         "П">
 
+<!ENTITY useService.label                "Користи услугу у позадини за инсталирање ажурирања">
+<!ENTITY useService.accesskey            "л">
 
 <!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Подешавања…">
+<!ENTITY showSettings.accesskey        "П">
+<!ENTITY proxiesConfigure.label        "Подесите начин на који се &brandShortName; повезује на интернет">
+<!ENTITY connectionsInfo.caption       "Веза">
+<!ENTITY offlineInfo.caption           "Ван мреже">
+<!ENTITY offlineInfo.label             "Подесите подешавања рада ван мреже">
+<!ENTITY showOffline.label             "Ван мреже…">
+<!ENTITY showOffline.accesskey         "В">
 
+<!ENTITY Diskspace                       "Простор на диску">
+<!ENTITY offlineCompactFolders.label     "Сажми све фасцикле када се тиме уштеди више од">
+<!ENTITY offlineCompactFolders.accesskey "а">
+<!ENTITY offlineCompactFoldersMB.label   "мегабајта укупно">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -23,6 +88,22 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+<!ENTITY useCacheBefore.label            "Користи до">
+<!ENTITY useCacheBefore.accesskey        "К">
+<!ENTITY useCacheAfter.label             "мегабајта простора за кеш">
+<!ENTITY clearCacheNow.label             "Очисти сада">
+<!ENTITY clearCacheNow.accesskey         "д">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Када сервер затражи мој лични сертификат:">
+<!ENTITY certs.auto                      "Изабери један аутоматски">
+<!ENTITY certs.auto.accesskey            "б">
+<!ENTITY certs.ask                       "Питај ме сваки пут">
+<!ENTITY certs.ask.accesskey             "в">
+<!ENTITY enableOCSP.label                "Упитај OCSP сервер за одговарање да би потврдио тренутну исправност сертификата">
+<!ENTITY enableOCSP.accesskey            "У">
 
+<!ENTITY viewCertificates.label         "Погледај сертификате">
+<!ENTITY viewCertificates.accesskey     "П">
+<!ENTITY viewSecurityDevices.label      "Безбедносни уређаји">
+<!ENTITY viewSecurityDevices.accesskey  "ј">
