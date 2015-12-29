@@ -27,6 +27,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label "Niektóre rozszerzenia nie mogły zostać zweryfikowane">
 <!ENTITY showAllExtensions.button.label "Pokaż wszystkie rozszerzenia">
+<!ENTITY debugAddons.label "Debuguj dodatki">
+<!ENTITY debugAddons.accesskey "i">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Wszystkie dodatki zostały wyłączone przez tryb awaryjny">
