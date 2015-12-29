@@ -23,4 +23,4 @@
 
 <!ENTITY safeb.blocked.forbiddenPage.title "Արգելված կայք">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Այս վեբ էջը <span id='forbidden_sitename'/>-ում արգելափկված է՝ համաձայն դիտարկիչի կազմաձևի:">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Այս վեբ էջը <span id='forbidden_sitename'/>-ում արգելափակված է՝ համաձայն դիտարկիչի կազմաձևի:">
