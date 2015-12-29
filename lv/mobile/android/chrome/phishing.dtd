@@ -21,4 +21,6 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Par šo lapu <span id='malware_sitename'/> ir saņemti ziņojumi, ka no tās tiek veikti uzbrukumi tās apmeklētājiem. Atbilstoši jūsu drošības iestatījumiem, lapa ir bloķēta.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nevēlamas programmatūras lapas mēģina instalēt krāpnieciskas un citādi bīstamas programmas, kas var kaitēt jums.">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "Aizliegta lapa">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Lapa <span id='forbidden_sitename'/> ir bloķēta atbilstoši jūsu pārlūka iestatījumiem.">
