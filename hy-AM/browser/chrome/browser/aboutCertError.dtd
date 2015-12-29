@@ -32,4 +32,4 @@ Strict Transport Security (HSTS)՝ նշելու համար, որ &brandShortName
 <!ENTITY certerror.expert.contentPara2 "Մի կատարեք բացառություն, քանի դեռ 
 չգիտեք համոզիչ հանգամանք, որի պատճառով այս կայքը չի օգտագործում ճիշտ ինքնություն:">
 <!ENTITY certerror.addException.label "Ավելացնել բացառություն...">
-
+<!ENTITY certerror.copyToClipboard.label "Պատճենել մեկուսաշրջույթում">
