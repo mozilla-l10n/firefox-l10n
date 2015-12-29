@@ -11,6 +11,6 @@
 <!ENTITY newMessagesCountDock.accesskey        "n">
 <!ENTITY showAllUnreadMessagesCount.label      "Il dumber da messadis nunlegids">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "u">
-<!ENTITY dockIconBadge.label                   "Badge da l'icona">
-<!ENTITY dockIconShow.label                    "Ladezza dal badge da l'icona:">
-<!ENTITY directNotificationSettings.label      "Ti pos deactivar il badge sin la panela dad avis en las preferenzas dal sistem.">
+<!ENTITY dockIconBadge.label                   "Dumbrader en l'icona">
+<!ENTITY dockIconShow.label                    "Ladezza dal dumbrader en l'icona:">
+<!ENTITY directNotificationSettings.label      "Ti pos deactivar il dumbrader sin la panela dad avis en las preferenzas dal sistem.">
