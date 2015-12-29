@@ -288,3 +288,6 @@
 <!ENTITY spellAddDictionaries.accesskey "a">
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Tengiliðir">
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Sérsníða Frá veffang…">
+<!ENTITY customizeFromAddress.accesskey "a">

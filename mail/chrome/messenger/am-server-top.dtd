@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Athuga með nýjan póst á ">
 <!ENTITY biffStart.accesskey "u">
 <!ENTITY biffEnd.label "mínútna fresti">
+<!ENTITY useIdleNotifications.label "Leyfa að tilkynna strax þegar nýr póstur kemur">
+<!ENTITY useIdleNotifications.accesskey "a">
 <!ENTITY connectionSecurity.label "Öryggi tengingar:">
 <!ENTITY connectionSecurity.accesskey "Ö">
 <!ENTITY connectionSecurityType-0.label "Ekkert">
