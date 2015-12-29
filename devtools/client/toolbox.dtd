@@ -70,6 +70,8 @@ values from browser.dtd.  -->
 <!ENTITY options.defaultColorUnit.accesskey "u">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.authored "به عنوان نویسنده">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 
@@ -97,16 +99,18 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "فعال‌سازی کروم مرورگر و ابزارهای رفع‌اشکال افزودنی‌ها">
-
+<!ENTITY options.enableChrome.tooltip3  "فعال کردن این گزینه این امکان را به شما می‌دهد تا از امکانات بسیار گسترده ابزار توسعه‌دهندگان در زمینه مرور (ابزار > توسعه وب > جعبه ابزار مرورگر) و اشکال زدایی افزونه ها از طریق مدیریت افزونه اقدام کنید.">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "فعال‌سازی رفع‌اشکال از راه دور">
-
+<!ENTITY options.enableRemote.tooltip   "فعال کردن این گزینه به ابزار توسعه اجازه اشکال زدایی از راه دور فایرفاکس مانند سیستم عامل فایرفاکس را می‌دهد">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
+
+<!ENTITY options.enableWorkers.label    "فعال‌سازی کارگر اشکال زدایی ( در حال توسعه)">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
