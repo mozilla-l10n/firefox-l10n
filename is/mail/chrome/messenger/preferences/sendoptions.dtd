@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title "Sendingarkostir">
 <!ENTITY sendMail.title "Textaform">
+<!ENTITY autoDowngrade.label "Senda póst sem einfaldan texta ef það er hægt">
+<!ENTITY autoDowngrade.accesskey "t">
 <!ENTITY sendMaildesc.label "Þegar verið er að senda póst á HTML formi og einn eða fleiri viðtakendur eru ekki skilgreindir þannig að þeir geti tekið á móti HTML:">
 <!ENTITY askMe.label "Spyrja hvað gera skal">
 <!ENTITY askMe.accesskey "k">

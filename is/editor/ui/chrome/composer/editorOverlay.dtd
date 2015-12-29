@@ -79,20 +79,18 @@
 
 <!ENTITY fontSizeMenu.label "Stærð">
 <!ENTITY fontSizeMenu.accesskey "æ">
-<!ENTITY size-xx-smallCmd.label "minnstur">
-<!ENTITY size-xx-smallCmd.accesskey "i">
-<!ENTITY size-x-smallCmd.label "minni">
-<!ENTITY size-x-smallCmd.accesskey "m">
-<!ENTITY size-smallCmd.label "lítil">
-<!ENTITY size-smallCmd.accesskey "l">
-<!ENTITY size-mediumCmd.label "meðal">
+<!ENTITY size-tinyCmd.label "Pínulítið">
+<!ENTITY size-tinyCmd.accesskey "t">
+<!ENTITY size-smallCmd.label "Lítið">
+<!ENTITY size-smallCmd.accesskey "L">
+<!ENTITY size-mediumCmd.label "Meðal">
 <!ENTITY size-mediumCmd.accesskey "e">
-<!ENTITY size-largeCmd.label "stór">
+<!ENTITY size-largeCmd.label "Stór">
 <!ENTITY size-largeCmd.accesskey "t">
-<!ENTITY size-x-largeCmd.label "stærra">
-<!ENTITY size-x-largeCmd.accesskey "æ">
-<!ENTITY size-xx-largeCmd.label "stærst">
-<!ENTITY size-xx-largeCmd.accesskey "r">
+<!ENTITY size-extraLargeCmd.label "Mjög stórt">
+<!ENTITY size-extraLargeCmd.accesskey "ö">
+<!ENTITY size-hugeCmd.label "Risa stórt">
+<!ENTITY size-hugeCmd.accesskey "R">
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Textasnið">
 <!ENTITY fontStyleMenu.accesskey "s">
@@ -293,6 +291,7 @@
 <!ENTITY throbber.tooltip "Fara á heimasíðu &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Veldu auðkenningarlit fyrir texta">
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Skilgreina leturstærð">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Minni leturstærð">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Stærri leturstærð">
 <!ENTITY boldToolbarCmd.tooltip "Feitletrað">

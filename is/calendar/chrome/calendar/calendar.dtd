@@ -130,7 +130,7 @@
 <!ENTITY calendar.task.category.button.tooltip "Flokka verkefni">
 <!ENTITY calendar.task.complete.button.tooltip "Merkja valinn verkefni sem lokið">
 <!ENTITY calendar.task.priority.button.tooltip "Breyta forgangi">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base "Sía verkefni… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1 "Sía verkefni #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->

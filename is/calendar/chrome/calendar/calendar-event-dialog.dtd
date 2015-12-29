@@ -127,6 +127,9 @@
 <!ENTITY event.email.attendees.accesskey "a">
 <!ENTITY event.email.tentative.attendees.label "Sníða póst til allra óákveðinna þátttakenda…">
 <!ENTITY event.email.tentative.attendees.accesskey "S">
+<!ENTITY event.remove.attendees.label "Fjarlægja alla þátttakendur...">
+<!ENTITY event.remove.attendees.accesskey "þ">
+<!ENTITY event.remove.attendee.label "Fjarlægja þátttakanda">
 <!-- Toolbar -->
 <!ENTITY event.toolbar.save.label "Vista og loka">
 <!ENTITY event.toolbar.delete.label "Eyða">
@@ -320,6 +323,7 @@
 <!ENTITY event.attendee.usertype.group "Setja í hóp">
 <!ENTITY event.attendee.usertype.resource "Tilfang">
 <!ENTITY event.attendee.usertype.room "Herbergi">
+<!ENTITY event.attendee.usertype.unknown "Ekki vitað">
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Settu inn tímabelti">
 <!ENTITY event.timezone.custom.label "Fleiri tímabelti…">

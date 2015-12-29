@@ -23,6 +23,8 @@
 <!ENTITY bgColor.accesskey "g">
 <!ENTITY restoreHTMLDefaults.label "Endurstilla sjálfgefin gildi">
 <!ENTITY restoreHTMLDefaults.accesskey "r">
+<!ENTITY enterKeyCreatesNewParagraph.label "Þegar þú ert að nota málsgreinarham, þá býr enter lykillinn til nýja málsgrein">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "m">
 <!ENTITY spellCheck.label "Athuga stafsetningu áður en póstur er sendur">
 <!ENTITY spellCheck.accesskey "A">
 <!ENTITY spellCheckInline.label "Virkja leiðréttingu á stafsetningu fyrir innsleginn texta">

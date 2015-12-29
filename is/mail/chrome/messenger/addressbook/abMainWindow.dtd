@@ -83,7 +83,6 @@
 <!ENTITY viewMenu.accesskey "k">
 <!ENTITY viewToolbarsMenu.label "Verkfæraslár">
 <!ENTITY viewToolbarsMenu.accesskey "V">
- 
 <!ENTITY menubarCmd.label "Valmynd">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showAbToolbarCmd.label "Nafnaskrá verkfæraslá">
@@ -100,12 +99,10 @@
 <!ENTITY showContactPane2.accesskey "T">
 <!ENTITY menu_ShowNameAs.label "Sýna nafn sem">
 <!ENTITY menu_ShowNameAs.accesskey "n">
- 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label "Skírnarnafn eftirnafn">
 <!ENTITY firstLastCmd2.accesskey "f">
- 
 <!ENTITY lastFirstCmd.label "Eftirnafn, fornafn">
 <!ENTITY lastFirstCmd.accesskey "E">
 <!ENTITY displayNameCmd.label "Birtingarnafn">
@@ -128,7 +125,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey "o">
 <!ENTITY preferencesCmdUnix.label "Valkostir">
 <!ENTITY preferencesCmdUnix.accesskey "V">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label "Nýr tengiliður">
 <!ENTITY newContactButton.accesskey "N">
 <!ENTITY newlistButton.label "Nýr listi">
@@ -139,6 +136,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey "S">
 <!ENTITY newIM.label "Snarboð">
 <!ENTITY newIM.accesskey "n">
+<!ENTITY printButton.label "Prenta…">
+<!ENTITY printButton.accesskey "r">
 <!ENTITY deleteButton2.label "Eyða">
 <!ENTITY deleteButton2.accesskey "E">
 <!-- Address Book Toolbar Tooltips -->
