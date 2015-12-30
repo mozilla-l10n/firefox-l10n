@@ -31,8 +31,8 @@
 <!ENTITY PhoneticField2.label           "Phonetic:">
 <!ENTITY DisplayName.label              "Display:">
 <!ENTITY DisplayName.accesskey          "D">
-
-
+<!ENTITY preferDisplayName.label        "همیشه نام نمایشی را روی سربرگ پیام نمایش بده">
+<!ENTITY preferDisplayName.accesskey    "ه">
 <!ENTITY NickName.label                 "Nickname:">
 <!ENTITY NickName.accesskey             "N">
 
@@ -45,7 +45,7 @@
 <!ENTITY PlainText.label                "Plain Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "نامشخص">
-
+<!ENTITY chatName.label                 "نام گپ:">
 
 <!ENTITY WorkPhone.label                "Work:">
 <!ENTITY WorkPhone.accesskey            "k">
@@ -77,9 +77,9 @@
 <!ENTITY Birthday.label                 "Birthday:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
-
+<!ENTITY Year.placeholder               "سال">
 <!ENTITY Or.value                       "or">
-
+<!ENTITY Age.placeholder                "سن">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Work">
@@ -118,37 +118,39 @@
 <!ENTITY Notes.label                    "Notes:">
 <!ENTITY Notes.accesskey                "N">
 
+<!ENTITY Chat.tab                       "گپ">
+<!ENTITY Chat.accesskey                 "یک">
+<!ENTITY Gtalk.label                    "گوگل تاک:">
+<!ENTITY Gtalk.accesskey                "گ">
+<!ENTITY AIM.label                      "پیام رسان AOL:">
+
+<!ENTITY Yahoo.label                    "یاهو!:">
+<!ENTITY Yahoo.accesskey                "ی">
+<!ENTITY Skype.label                    "اسکایپ:">
+<!ENTITY Skype.accesskey                "ا">
 
 
 
 
 
 
+<!ENTITY XMPP.label                     "شناسه Jabber:‌">
+<!ENTITY XMPP.accesskey                 "J">
 
 
 
+<!ENTITY Photo.tab                      "عکس">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY PhotoDesc.label                "یکی از اینها را انتخاب کنید:">
+<!ENTITY GenericPhoto.label             "عکس عمومی">
+<!ENTITY GenericPhoto.accesskey         "ع">
 <!ENTITY DefaultPhoto.label             "Default">
-
-
-
-
-
-
-
-
-
+<!ENTITY PhotoFile.label                "روی این رایانه">
+<!ENTITY PhotoFile.accesskey            "ر">
+<!ENTITY BrowsePhoto.label              "مرور">
+<!ENTITY BrowsePhoto.accesskey          "م">
+<!ENTITY PhotoURL.label                 "روی وب">
+<!ENTITY PhotoURL.accesskey             "و">
+<!ENTITY PhotoURL.placeholder           "آدرس اینترنتی یک عکس را بازنشانی یا تایپ کنید">
+<!ENTITY UpdatePhoto.label              "به‌هنگام‌سازی">
+<!ENTITY UpdatePhoto.accesskey          "U">
