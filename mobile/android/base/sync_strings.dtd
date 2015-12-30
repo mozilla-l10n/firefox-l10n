@@ -273,3 +273,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
+<!ENTITY old_sync_deprecated_notification_title "Logáil isteach le dul ar aghaidh leis an sioncrónú">
+<!ENTITY old_sync_deprecated_notification_content "Ní thacaítear le do chuntas a thuilleadh">
