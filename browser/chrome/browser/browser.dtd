@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Parolunuzu yadda saxlamaq istəyirsinizsə seçin">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Tətbiq quraşdırma mesajını gör">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Qoşma istifadəsini bu səhifədə idarə edin">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Saytdan bildiriş alıb alamayacağınızı dəyişdirin">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Kamera və/və ya mikrofonu saytla paylaşmağınızı idarə edin">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Kamera və/və ya mikrofonunuzu saytla paylaşırsınız">
@@ -411,17 +411,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Kömək Menyusunu Aç">
 
 <!ENTITY appMenuRemoteTabs.label "Sinxronlaşdırılmış Vərəqlər">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Sinxronlaşdırılmış vərəqlər alınır…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Açıq vərəq yoxdur">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün vərəq sinxronizasiyasını aktivləşdirin.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Digər cihazlarınızdan da Firefox-a daxil olun, vərəqlərini burada görün.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync Nizamlamaları">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ə Daxil ol">
 
 <!ENTITY customizeMenu.addToToolbar.label "Alət Sətrinə Əlavə et">
