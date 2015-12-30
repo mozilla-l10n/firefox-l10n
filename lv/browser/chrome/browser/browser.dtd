@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Atzīmējiet, ja vēlaties saglabāt paroli">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Aplūkot lietotnes instalēšanas paziņojumu">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Pārvaldīt spraudņu lietojumu šajā lapā">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Mainiet, vai šī lapa var parādīt paziņojumus">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Pārvaldīt kameras un/vai mikrofona koplietošanu ar šo lapu">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Jūs šobrīd koplietojat kameru un/vai mikrofonu ar šo lapu">
@@ -410,17 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Rādīt vēstures sānjoslu">
 <!ENTITY appMenuHelp.tooltip "Atvērt palīdzības izvēlni">
 
-
+<!ENTITY appMenuRemoteTabs.label "Sinhronizētās cilnes">
+<!ENTITY appMenuRemoteTabs.fetching.label "Iegūst sinhronizētās cilnes…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Nav atvērto cilņu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Pierakstieties Firefox citās ierīcēs, lai redzētu šeit cilnes no šīm ierīcēm.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Sinhronizācijas iestatījumi">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Pierakstieties, lai redzētu šeit cilnes no šīm ierīcēm.">
+<!ENTITY appMenuRemoteTabs.signin.label "Pieslēgties Sync">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pievienot rīkjoslai">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -784,6 +788,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "Pārlūka cilnes">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "Sinhronizētās cilnes">
 
 <!ENTITY syncBrand.shortName.label    "Sinhronizēt">
 
