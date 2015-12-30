@@ -145,7 +145,7 @@ egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li>
 <!ENTITY corruptedContentError.title "Hondatutako edukiaren errorea">
 <!ENTITY corruptedContentError.longDesc "<p>Ikusten saiatzen ari zaren edukia ezin da erakutsi errore bat detektatu delako datu-transmisioan.</p><ul><li>Jarri harremanetan arduradunekin arazo honen berri emateko.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Edo salbuespen bat gehitu dezakezu…">
+<!ENTITY securityOverride.linkText "Edo salbuespen bat gehi dezakezu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Eraman hemendik at!">
 <!ENTITY securityOverride.exceptionButtonLabel "Gehitu salbuespena…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
