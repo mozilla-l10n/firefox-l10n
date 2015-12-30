@@ -8,15 +8,16 @@
 <!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "Name or Email">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY deleteAddrBookCard.label           "حذف">
+<!ENTITY deleteAddrBookCard.accesskey       "ح">
+<!ENTITY addrBookCardProperties.label       "ویژگی‌ها">
+<!ENTITY addrBookCardProperties.accesskey   "و">
+<!ENTITY addtoToFieldMenu.label             "افزودن به فیلد به">
+<!ENTITY addtoToFieldMenu.accesskey         "ا">
+<!ENTITY addtoCcFieldMenu.label             "افزودن به فیلد رونوشت">
+<!ENTITY addtoCcFieldMenu.accesskey         "ر">
+<!ENTITY addtoBccFieldMenu.label            "افزودن به فیلد رونوشت محرمانه">
+<!ENTITY addtoBccFieldMenu.accesskey        "ح">
 
 <!ENTITY toButton.label                     "Add to To:">
 <!ENTITY toButton.accesskey                 "A">

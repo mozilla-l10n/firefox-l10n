@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Address Book">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "این دفترچه آدرس اطلاعات تماس‌ها را فقط پس از یک جستجو نمایش میدهد">
+<!ENTITY localResultsOnlyMessage.label                  "اطلاعات تماس از دفترچه آدرس‌های راه درو تا زمانی که شما جستجو نکرده باشید، نمایش داده نمی‌شوند">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "پرونده">
 <!ENTITY fileMenu.accesskey                             "پ">
@@ -75,8 +75,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesCmd2.label                           "ویژگی‌ها">
+<!ENTITY propertiesCmd2.accesskey                       "و">
 
 <!-- View Menu -->
 
@@ -84,8 +84,8 @@
 <!ENTITY viewMenu.accesskey                             "ن">
 <!ENTITY viewToolbarsMenu.label                         "نوار ابزار">
 <!ENTITY viewToolbarsMenu.accesskey                     "ن">
-
-
+<!ENTITY menubarCmd.label                               "نوار منو">
+<!ENTITY menubarCmd.accesskey                           "م">
 <!ENTITY showAbToolbarCmd.label                         "Address Book Toolbar">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "نوار وضعیت">
@@ -94,8 +94,8 @@
 <!ENTITY customizeToolbar.accesskey                     "س">
 <!ENTITY layoutMenu.label                               "Layout">
 <!ENTITY layoutMenu.accesskey                           "L">
-
-
+<!ENTITY showDirectoryPane.label                        "چهارچوب پوشه">
+<!ENTITY showDirectoryPane.accesskey                    "پ">
 
 
 <!ENTITY menu_ShowNameAs.label                          "Show Name As">
