@@ -16,4 +16,5 @@
 
 
 
-
+<!ENTITY okButton.title           "Tamam">
+<!ENTITY okButton.accesskey       "T">
