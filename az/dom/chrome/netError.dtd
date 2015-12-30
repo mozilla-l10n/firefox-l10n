@@ -83,6 +83,7 @@
 <!ENTITY phishingBlocked.longDesc "<p>Bu səhifədə daxil edilən şəxsi məlumatlar, şəxsiyyət oğurluğuna ya da başqa növ fırıldaqçılıq məsədi ilə istifadə oluna bilər.</p> 
 <p>Bu cür saxtakarlıqlarda inandığınız Web səhifələrini təqlid edən saxta web səhifələri və e-poçtlardan istifadə edilərək fırıldaqçılıq edilir.</p>">
 
+<!ENTITY forbiddenBlocked.title "Qadağan Edilmiş Sayt">
 
 
 
