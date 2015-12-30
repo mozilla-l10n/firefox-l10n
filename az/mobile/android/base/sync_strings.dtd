@@ -69,7 +69,7 @@
 
 <!ENTITY sync.button.cancel.label "Ləğv et">
 <!ENTITY sync.button.connect.label "Qoşul">
-<!ENTITY sync.button.ok.label "Oldu">
+<!ENTITY sync.button.ok.label "Tamam">
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (köhnə)">
@@ -270,3 +270,8 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; olaraq dazil olmaq üçün toxunun">
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
+
+<!ENTITY old_sync_deprecated_notification_title "Sinxronlaşdırmaya davam etmək üçün daxil olun">
+<!ENTITY old_sync_deprecated_notification_content "Hesab artıq dəstəklənmir">
