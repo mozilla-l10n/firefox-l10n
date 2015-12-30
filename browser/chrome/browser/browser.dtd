@@ -803,8 +803,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY socialToolbar.title        "Sosial Alət Sətiri Düyməsi">
 
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
+<!ENTITY social.ok.label       "Tamam">
+<!ENTITY social.ok.accesskey   "T">
 
 <!ENTITY social.toggleSidebar.label "Yan paneli göstər">
 <!ENTITY social.toggleSidebar.accesskey "p">
