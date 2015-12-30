@@ -22,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "E">
 <!ENTITY overrideNamespaces.label "Ceadaigh don fhreastalaí na hainmspásanna seo a shárú">
 <!ENTITY overrideNamespaces.accesskey "a">
-
-
-
+<!ENTITY pop3DeferringDesc.label "Agus ríomhphost á íosluchtú ó fhreastalaí an chuntais seo, úsáid an fillteán seo a leanas le haghaidh teachtaireachtaí nua:" >
+<!ENTITY accountInbox.label "Bosca isteach an chuntais seo">
+<!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Bosca Isteach cuntais eile">
 <!ENTITY deferToServer.accesskey "e">
 <!ENTITY deferGetNewMail.label "Cuir an freastalaí seo san áireamh agus ríomhphost nua á fháil">
