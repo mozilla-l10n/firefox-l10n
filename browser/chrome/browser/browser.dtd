@@ -424,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.label "Diğer cihazlardaki sekmelerinizi görmek için cihazlardan Firefox'a o giriş yapın.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Eşitleme Tercihleri">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
-
+<!ENTITY appMenuRemoteTabs.signin.label "Sync’e giriş yapın">
 
 <!ENTITY customizeMenu.addToToolbar.label "Araç çubuğuna ekle">
 <!ENTITY customizeMenu.addToToolbar.accesskey "e">
@@ -788,6 +788,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "Tarayıcı sekmeleri">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "Eşitlenmiş sekmeler">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
