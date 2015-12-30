@@ -145,11 +145,11 @@
 <!ENTITY pref_category_search3 "Axtar">
 <!ENTITY pref_category_search_summary "Axtarış sistemini xüsusiləşdirin">
 <!ENTITY pref_category_accessibility "Əlçatanlıq">
-
+<!ENTITY pref_category_accessibility_summary2 "Yazı ölçüsü, yaxınlaşdırma, səs girişi">
 <!ENTITY pref_category_privacy_short "Məxfilik">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "İzlənmə, çərəzlər, məlumat seçimləri">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; haqqında, ÇSS-lər, əks əlaqə">
 <!ENTITY pref_category_datareporting "Məlumat seçimi">
 <!ENTITY pref_learn_more "Ətraflı öyrən">
 <!ENTITY pref_category_installed_search_engines "Quraşdırılmış axtarış mühərrikləri">
@@ -163,8 +163,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "MƏSLƏHƏT: Hər-hansı bir saytı axtarış mühərrikləriniz siyahısına əlavə etmək üçün onun axtarış yerinə basılı tutun və daha sonra &formatI; ikonuna basın.">
-
-
+<!ENTITY pref_category_advanced "Təkmilləşmiş">
+<!ENTITY pref_category_advanced_summary2 "Vərəqləri bərpa et, qoşmalar, tərtibatçı alətləri">
 <!ENTITY pref_developer_remotedebugging "Uzaqdan sazlama">
 <!ENTITY pref_developer_remotedebugging_usb "USB ilə məsafəli sazlama">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ilə məsafəli sazlama">
@@ -184,7 +184,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 anasəhifəyə əlavə edildi">
 <!ENTITY pref_category_home_content_settings "Məzmun tənzimləmələri">
-
+<!ENTITY pref_home_updates "Avtomatik yeniləmələr">
 <!ENTITY pref_home_updates_enabled "Fəal">
 <!ENTITY pref_home_updates_wifi "Yalnız Wi-Fi ilə">
 <!ENTITY pref_home_suggested_sites "Sayt təkliflərini göstər">
@@ -194,31 +194,37 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; Ana Səhifə">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Xüsusi">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Ünvan daxil edin və ya ifadə axtarın">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "Ümumi">
+<!ENTITY pref_header_search "Axtar">
 <!ENTITY pref_header_privacy_short "Məxfilik">
-
-
+<!ENTITY pref_header_accessibility "Əlçatanlıq">
+<!ENTITY pref_header_advanced "Təkmilləşmiş">
 <!ENTITY pref_header_help "Kömək">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookielər">
 <!ENTITY pref_cookies_accept_all "Aktiv">
 <!ENTITY pref_cookies_not_accept_foreign "Aktivdir, 3-cü tərəf xaric">
 <!ENTITY pref_cookies_disabled "Söndürülüb">
 
-
-
-
+<!ENTITY pref_tap_to_load_images_title2 "Şəkilləri göstər">
+<!ENTITY pref_tap_to_load_images_enabled "Həmişə">
+<!ENTITY pref_tap_to_load_images_data "Yalnız Wi-Fi ilə">
+<!ENTITY pref_tap_to_load_images_disabled2 "Bloklanmış">
 
 <!ENTITY pref_tracking_protection_title "İzlənmə qoruması">
 <!ENTITY pref_tracking_protection_summary3 "Məxfi Səyahətdə aktivdir">
@@ -254,11 +260,11 @@
 <!ENTITY pref_char_encoding "Simvol kodlaşdırması">
 <!ENTITY pref_char_encoding_on "Menyunu göstər">
 <!ENTITY pref_char_encoding_off "Menyunu göstərmə">
-
+<!ENTITY pref_clear_private_data "Şəxsi məlumatları təmizlə">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "İndi təmizlə">
-
+<!ENTITY pref_clear_on_exit_title3 "Şəxsi məlumatları çıxışda təmizlə">
 <!ENTITY pref_clear_on_exit_summary2 "Əsas menyudan \u0022Çıx\u0022 seçdiyiniz zaman &brandShortName; sizin məlumatlarınız avtomatik təmizləyəcək">
 <!ENTITY pref_clear_on_exit_dialog_title "Hansı məlumatın təmizlənəcəyini seçin">
 <!ENTITY pref_plugins "Qoşmalar">
@@ -266,7 +272,7 @@
 <!ENTITY pref_plugins_tap_to_play "Oxutmaq üçün ekrana toxunun">
 <!ENTITY pref_plugins_disabled "Söndürülüb">
 <!ENTITY pref_text_size "Mətn ölçüsü">
-
+<!ENTITY pref_restore_tabs "Vərəqləri bərpa et">
 <!ENTITY pref_restore_always "Həmişə bərpa et">
 <!ENTITY pref_restore_quit "&brandShortName; səyyahından çıxdıqdan sonra bərpa etmə">
 <!ENTITY pref_font_size_tiny "Bambalaca">
@@ -291,16 +297,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Yaxınlaşdırmanı həmişə aktiv saxla">
 <!ENTITY pref_zoom_force_enabled_summary "Zorla üzərinə yaz ki, hər səhifəni yaxınlaşdırmaq mümkün olsun">
 <!ENTITY pref_voice_input "Səs girişi">
-
+<!ENTITY pref_voice_input_summary2 "Başlıq sətrində səs diksiyasına icazə ver">
 <!ENTITY pref_qrcode_enabled "QR kod oxuyucu">
-
+<!ENTITY pref_qrcode_enabled_summary2 "Başlıq sətrində QR oxuyucuya icazə ver">
 
 <!ENTITY pref_use_master_password "Ana şifrədən istifadə et">
-
+<!ENTITY pref_sync2 "Daxil ol">
 <!ENTITY pref_sync_summary2 "Vərəqlərinizi, əlfəcinlərinizi, daxil olmaları, tarixçənizi sinxronlaşdırın">
 <!ENTITY pref_search_suggestions "Axtarış təkliflərini göstər">
 <!ENTITY pref_history_search_suggestions "Axtarış tarixçəsini göstər">
-
+<!ENTITY pref_import_options "İdxal seçimləri">
 <!ENTITY pref_import_android_summary "Əlfəcinləri və tarixçəni əsas səyyahdan daxil et">
 <!ENTITY pref_private_data_history2 "Səyahət tarixçəsi">
 <!ENTITY pref_private_data_searchHistory "Axtarış tarixçəsi">
@@ -357,16 +363,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Avtomatik yeniləmələr">
 <!ENTITY pref_update_autodownload_wifi "Yalnız Wi-Fi üzərindən">
 <!ENTITY pref_update_autodownload_never "Heç vaxt">
-
+<!ENTITY pref_update_autodownload_always "Həmişə">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Kömək">
 
 <!ENTITY quit "Çıx">
 
-
+<!ENTITY addons "Əlavələr">
+<!ENTITY logins "Hesablar">
 <!ENTITY downloads "Endirilənlər">
 <!ENTITY char_encoding "Simvol kodlaşdırması">
 
@@ -383,7 +391,7 @@ size. -->
 <!ENTITY new_private_tab "Yeni Məxfi Vərəq">
 <!ENTITY close_all_tabs "Bütün vərəqləri qapat">
 <!ENTITY close_private_tabs "Məxfi vərəqləri qapat">
-
+<!ENTITY tabs_normal "Vərəqlər">
 <!ENTITY tabs_private "Məxfi">
 <!ENTITY tabs_synced "Sinxronlaşdırılmış">
 <!ENTITY set_image_fail "Şəkil təyin edilə bilmədi">
@@ -445,7 +453,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Tam ekran səyahət">
-
+<!ENTITY pref_scroll_title_bar_summary2 "Səhifəni aşağı sürüşdürərkən &brandShortName; başlıq sətrini gizlət">
 
 <!ENTITY pref_tab_queue_title2 "Çoxlu keçid aç">
 <!ENTITY pref_tab_queue_summary3 "Onları &brandShortName; səyyahını daha sonra açana qədər saxla">
@@ -505,6 +513,8 @@ size. -->
 <!ENTITY home_top_sites_add "Sayt əlavə et">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "&brandShortName; Ana Səhifə">
 <!ENTITY home_history_title "Tarixçə">
 <!ENTITY home_clear_history_button "Səyahət keçmişini təmizlə">
 <!ENTITY home_clear_history_confirm "Keçmişi təmizləmək istədiyinizə əminsiniz?">
@@ -522,8 +532,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint3 "Məsləhət: Məqalələri daha sonra oxumaq üçün &formatI; ikonu başlıq sətrində gəldiyi zaman onu basılı saxlayın.">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible2 "Məsləhət: Məqalələri daha sonra oxumaq üçün oxuma rejimi ikonu başlıq sətrində gəldiyi zaman onu basılı saxlayın.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -722,16 +734,18 @@ idxal edilir">
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "Əlavələr">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox-a özəllik və funksionallıqlar əlavə edin. Qeyd: Əlavələr bəzi qadağaları söndürə bilərlər.">
 <!ENTITY restrictable_feature_private_browsing "Gizli baxış">
-
-
-
-
-
-
-
-
-
+<!ENTITY restrictable_feature_private_browsing_description "Ailə üzvlərinə ziyarət etdikləri sayt və səhifələri yadda saxlamadan internet səyahəti etməyə icazə verir.">
+<!ENTITY restrictable_feature_clear_history "Keçmişi Təmizlə">
+<!ENTITY restrictable_feature_clear_history_description "Ailə üzvlərinə ziyarət etdikləri sayt və səhifələri silmələrinə icazə verir.">
+<!ENTITY restrictable_feature_advanced_settings "Təkmilləşmiş Tənzimləmələr">
+<!ENTITY restrictable_feature_advanced_settings_description "Buna əlfəcinlərin idxalı, vərəqlərin bərpası və avtomatik yeniləmələr daxildir. Bütün ailə üzvlərinə uyğun asan tənzimləmələr üçün söndürün.">
+<!ENTITY restrictable_feature_camera_microphone "Kamera və Mikrofon">
+<!ENTITY restrictable_feature_camera_microphone_description "Ailə üzvlərinə web saytlardakı real vaxt ünsiyyətlərlə məşğul olmağa icazə verir.">
+<!ENTITY restrictable_feature_data_choices "Məlumat Seçimləri">
+<!ENTITY restrictable_feature_data_choices_description "Firefox-u daha yaxşı etmək üçün istifadə haqqında məlumatı Mozillaya göndərib göndərməməsini seçin.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -748,4 +762,7 @@ idxal edilir">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "Bağışlayın! Bu &brandShortName; bu cihazda işləmir (&formatS1;, &formatS2;). Lütfən doğru versiyanı endirin.">
 
+<!ENTITY eol_notification_title "&brandShortName; artıq Android 3 dəstəkləmir">
+<!ENTITY eol_notification_summary "Ətraflı öyrənmək üçün toxunun">
