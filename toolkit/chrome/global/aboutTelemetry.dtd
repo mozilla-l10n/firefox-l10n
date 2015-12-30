@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "जुना पिंग &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "मुळ पिंग डाटा...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "आठवडा">
 
@@ -55,6 +56,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  विलंबीत लिखाणे">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  सत्र माहिती">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ॲडऑन्सतर्फे एकत्र केलेले हिस्टोग्राम्स">
 
@@ -70,3 +72,4 @@
 
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिंग्ज किंवा /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  पेलोड">
