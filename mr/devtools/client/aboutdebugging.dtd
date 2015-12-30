@@ -6,5 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "अॅड-ऑन्स">
 <!ENTITY aboutDebugging.addonDebugging.label       "ॲड-ऑन डिबगिंग सुरू करा">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "हे पर्याय सुरू करून तुम्ही ब्राउजर क्रोम चे विविध ॲड-ऑन्स आणि विविध इतर भाग डिबग करू शकता">
-
+<!ENTITY aboutDebugging.loadTemporaryAddon         "तात्पुरता अॅड-ऑन लोक करा">
 <!ENTITY aboutDebugging.workers                    "वर्कर्स">
