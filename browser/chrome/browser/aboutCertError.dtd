@@ -32,4 +32,4 @@ veikt neatļautas darbības ar jūsu savienojumu.</b>">
 <!ENTITY certerror.expert.contentPara2 "Nepievienojiet izņēmumus, ja vien 
 jums nav patiešām laba iemesla uzticēties lapas identifikācijai.">
 <!ENTITY certerror.addException.label "Pievienot izņēmumu…">
-
+<!ENTITY certerror.copyToClipboard.label "Kopēt tekstu atmiņā">
