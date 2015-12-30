@@ -249,3 +249,6 @@
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
+
