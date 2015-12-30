@@ -741,11 +741,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Glan an Stair">
 <!ENTITY restrictable_feature_clear_history_description "Ligeann seo do dhaoine muinteartha faisnéis faoi na suímh agus na leathanaigh a dtugann siad cuairt orthu a scriosadh.">
 <!ENTITY restrictable_feature_advanced_settings "Ardsocruithe">
-
-
-
-
-
+<!ENTITY restrictable_feature_advanced_settings_description "San áireamh leis seo tá iompórtáil leabharmharcanna, athchóiriú cluaisíní, agus nuashonruithe uathoibríocha. Múch seo leis na roghanna simplí a chur i bhfeidhm, roghanna atá oiriúnach don chlann ar fad.">
+<!ENTITY restrictable_feature_camera_microphone "Ceamara agus Micreafón">
+<!ENTITY restrictable_feature_camera_microphone_description "Ligeann seo do dhaoine muinteartha cumarsáid fhíor-ama a dhéanamh ar shuímh Ghréasáin.">
+<!ENTITY restrictable_feature_data_choices "Roghanna Sonraí">
+<!ENTITY restrictable_feature_data_choices_description "An mbeifeá sásta faisnéis úsáide a sheoladh chuig Mozilla chun cabhrú linn Firefox a fheabhsú?">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -762,4 +762,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "Ár leithscéal! Ní fheidhmíonn an leagan seo de &brandShortName; ar an ngléas seo (&formatS1;, &formatS2;). Ní mór duit an leagan ceart a íosluchtú.">
 
+<!ENTITY eol_notification_title "Ní thacaíonn &brandShortName; le hAndroid 3 a thuilleadh">
+<!ENTITY eol_notification_summary "Tapáil anseo chun tuilleadh eolais a fháil">
