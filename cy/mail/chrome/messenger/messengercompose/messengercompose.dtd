@@ -307,3 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Cysylltiadau">
 <!-- Identity popup customize menuitem -->
 
+<!ENTITY customizeFromAddress.label "Cyfaddasu Cyfeiriad Oddi Wrth…">
+<!ENTITY customizeFromAddress.accesskey "O">

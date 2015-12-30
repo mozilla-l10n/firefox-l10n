@@ -825,6 +825,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
+<!ENTITY search.label.base1 "Chwilio #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -853,8 +854,8 @@
 <!ENTITY SendMessageTo.accesskey "Y">
 <!ENTITY CopyEmailAddress.label "Copïo Cyfeiriad E-bost">
 <!ENTITY CopyEmailAddress.accesskey "C">
-
-
+<!ENTITY CopyNameAndEmailAddress.label "Copïo Enw a Chyfeiriad E-bost">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Copïo Enw Grŵp Newyddion">
 <!ENTITY CopyNewsgroupName.accesskey "N">
 <!ENTITY CopyNewsgroupURL.label "Copïo URL Grŵp Newyddion">

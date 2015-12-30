@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "C">
 <!ENTITY restoreHTMLDefaults.label            "Adfer y Rhagosodiad">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-
-
+<!ENTITY enterKeyCreatesNewParagraph.label    "Pan yn defnyddio fformat paragraff, mae'r bysell Enter yn creu paragraff newydd">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY spellCheck.label                     "Gwirio sillafu cyn anfon">
 <!ENTITY spellCheck.accesskey                 "s">
