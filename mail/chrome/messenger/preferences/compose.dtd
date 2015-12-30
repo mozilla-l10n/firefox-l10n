@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "l">
 <!ENTITY restoreHTMLDefaults.label            "Athchóirigh na Réamhshocruithe">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-
-
+<!ENTITY enterKeyCreatesNewParagraph.label    "Agus formáidiú altanna in úsáid, tosaíonn an eochair Enter alt nua">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY spellCheck.label                     "Ceartaigh litriú sula seoltar teachtaireachtaí">
 <!ENTITY spellCheck.accesskey                 "C">
