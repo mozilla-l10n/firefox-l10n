@@ -23,5 +23,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Lietotāji ir sūdzējušies par lapu <span id='phishing_sitename'/>. Tā tiek uzskatīta par bīstamu krāpnieku lapu, un, balstoties uz jūsu drošības iestatījumiem, tā ir bloķēta.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Krāpnieku lapas ir veidotas ar mērķi izkrāpt no lietotājiem svarīgu privāto vai finanšu informāciju. Šīs lapas parasti atdarina kādu pazīstamu lapu, kurai jūs varētu uzticēties.</p><p>Jebkādas informācijas ievadīšana šajā lapā var novest pie jūsu datu zādzības vai krāpšanas.</p>">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "Aizliegta lapa">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Lapa <span id='forbidden_sitename'/> ir bloķēta atbilstoši jūsu pārlūka iestatījumiem.">
 

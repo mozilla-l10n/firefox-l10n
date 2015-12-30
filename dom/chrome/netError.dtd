@@ -83,9 +83,12 @@
 <!ENTITY phishingBlocked.longDesc "<p>Personiskās informācijas ievadīšana šajā lapā var novest pie tās zādzības un ļaunprātīgas izmantošanas vai krāpšanas.</p> 
 <p>Šāda tipa lapas tiek izmantotas uzbrukumos, kas pazīstami kā fišinga uzbrukumi, kuros ar neīstu mājas lapu vai e-pastu palīdzību krāpnieki mēģina izlikties par uzticamiem Interneta avotiem.</p>">
 
+<!ENTITY forbiddenBlocked.title "Aizliegta lapa">
+<!ENTITY forbiddenBlocked.longDesc "<p>Pārlūks liedza šai lapai ielādēties šādā veidā, jo to neatļauj lapas drošības politika.</p>">
 
-
-
+<!ENTITY securityOverride.linkText "Vai arī varat pievienot izņēmumu…">
+<!ENTITY securityOverride.warningContent "<p>Jums nevajadzētu pievienot izņēmumus, ja izmantojat Interneta savienojumu, kuram pilnībā neuzticaties vai arī, ja redzat brīdinājumu serverī, kurā parasti viss ir kārtībā.</p> 
+<p>Ja joprojām vēlaties pievienot izņēmumu, to varat izdarīt paplašinātajos pārlūka šifrēšanas iestatījumos.</p>">
 
 <!ENTITY cspBlocked.title "Bloķē satura drošības politika">
 <!ENTITY cspBlocked.longDesc "<p>Pārlūks liedza šai lapai ielādēties šādā veidā, jo to neatļauj lapas drošības politika.</p>">

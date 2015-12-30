@@ -77,6 +77,7 @@
 <!ENTITY key_resetzoom "0">
 <!-- reload WebIDE and devtools from local checkout -->
 <!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "r">
 
 <!ENTITY projectPanel_myProjects "Mani projekti">
 <!ENTITY projectPanel_runtimeApps "Izpildlaika lietotnes">
@@ -88,7 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "Instalēt simulatoru">
 <!ENTITY runtimePanel_noadbhelper "Instalēt ADB palīgu">
 <!ENTITY runtimePanel_nousbdevice "Neredzat savas ierīces?">
-
+<!ENTITY runtimePanel_refreshDevices_label "Atsvaidzināt ierīces">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "derīgs">
