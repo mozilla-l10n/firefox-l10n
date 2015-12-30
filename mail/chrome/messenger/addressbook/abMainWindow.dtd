@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Address Book">
-<!ENTITY blankResultsPaneMessage.label                  "این دفترچه آدرس اطلاعات تماس‌ها را فقط پس از یک جستجو نمایش میدهد">
-<!ENTITY localResultsOnlyMessage.label                  "اطلاعات تماس از دفترچه آدرس‌های راه درو تا زمانی که شما جستجو نکرده باشید، نمایش داده نمی‌شوند">
+<!ENTITY blankResultsPaneMessage.label                  "این دفترچه آدرس مخاطب‌ها را فقط پس از یک جستجو نمایش میدهد">
+<!ENTITY localResultsOnlyMessage.label                  "مخاطب‌ها از دفترچه‌های آدرس راه درو تا زمانی که شما جستجو نکرده باشید، نمایش داده نمی‌شوند">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "پرونده">
 <!ENTITY fileMenu.accesskey                             "پ">
 <!ENTITY newMenu.label                                  "جدید">
 <!ENTITY newMenu.accesskey                              "ج">
-<!ENTITY newContact.label                               "Address Book Contact…">
-<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.label                               "مخاطب دفترچه آدرس...">
+<!ENTITY newContact.accesskey                           "م">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Mailing List…">
 <!ENTITY newListCmd.accesskey                           "L">
@@ -30,12 +30,12 @@
 <!ENTITY closeCmd.accesskey                             "ب">
 <!ENTITY printSetupCmd.label                            "تنظیم صفحه…">
 <!ENTITY printSetupCmd.accesskey                        "ت">
-<!ENTITY printPreviewContactCmd.label                   "Print Preview Contact">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
+<!ENTITY printPreviewContactCmd.label                   "پیش‌نمایش چاپ مخاطب">
+<!ENTITY printPreviewContactCmd.accesskey               "پ">
 <!ENTITY printPreviewAddressBook.label                  "Print Preview Address Book">
 <!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printContactCmd.label                          "Print Contact…">
-<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.label                          "چاپ مخاطب...">
+<!ENTITY printContactCmd.accesskey                      "چ">
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Print Address Book…">
 <!ENTITY printAddressBook.accesskey                     "A">
@@ -61,8 +61,8 @@
 <!ENTITY deleteCmd.label                                "حذف">
 <!ENTITY deleteCmd.accesskey                            "ح">
 <!ENTITY deleteAbCmd.label                              "Delete Address Book">
-<!ENTITY deleteContactCmd.label                         "Delete Contact">
-<!ENTITY deleteContactsCmd.label                        "Delete Contacts">
+<!ENTITY deleteContactCmd.label                         "حذف مخاطب">
+<!ENTITY deleteContactsCmd.label                        "حذف مخاطبین">
 <!ENTITY deleteListCmd.label                            "Delete List">
 <!ENTITY deleteListsCmd.label                           "Delete Lists">
 <!ENTITY deleteItemsCmd.label                           "Delete Items">
@@ -96,13 +96,14 @@
 <!ENTITY layoutMenu.accesskey                           "L">
 <!ENTITY showDirectoryPane.label                        "چهارچوب پوشه">
 <!ENTITY showDirectoryPane.accesskey                    "پ">
-
-
+<!ENTITY showContactPane2.label                         "چهارچوب مخاطب">
+<!ENTITY showContactPane2.accesskey                     "م">
 <!ENTITY menu_ShowNameAs.label                          "Show Name As">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-
+<!ENTITY firstLastCmd2.label                            "نام نام خانوادگی">
+<!ENTITY firstLastCmd2.accesskey                        "ن">
 <!ENTITY lastFirstCmd.label                             "Last, First">
 <!ENTITY lastFirstCmd.accesskey                         "L">
 <!ENTITY displayNameCmd.label                           "Display Name">
@@ -122,14 +123,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "و">
 <!ENTITY exportCmd.label                                "صادر کردن…">
 <!ENTITY exportCmd.accesskey                            "ص">
-
-
+<!ENTITY preferencesCmd2.label                          "گزینه‌ها">
+<!ENTITY preferencesCmd2.accesskey                      "گ">
 <!ENTITY preferencesCmdUnix.label                       "ترجیحات">
 <!ENTITY preferencesCmdUnix.accesskey                   "ت">
 <!-- Address Book Toolbar and Context Menus -->
 
-<!ENTITY newContactButton.label                         "New Contact">
-<!ENTITY newContactButton.accesskey                     "C">
+<!ENTITY newContactButton.label                         "مخاطب جدید">
+<!ENTITY newContactButton.accesskey                     "م">
 <!ENTITY newlistButton.label                            "New List">
 <!ENTITY newlistButton.accesskey                        "L">
 <!ENTITY editButton2.label                              "ویژگی‌ها">
@@ -138,8 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "Instant Message">
 <!ENTITY newIM.accesskey                                "I">
-
-
+<!ENTITY printButton.label                              "چاپ...">
+<!ENTITY printButton.accesskey                          "چ">
 <!ENTITY deleteButton2.label                            "حذف">
 <!ENTITY deleteButton2.accesskey                        "ح">
 <!-- Address Book Toolbar Tooltips -->
@@ -162,12 +163,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Quick Search">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "دفترچه آدرس">
+<!ENTITY Addrbook.accesskey                             "د">
 <!ENTITY GeneratedName.label                            "نام">
 <!ENTITY GeneratedName.accesskey                        "ن">
 <!ENTITY PrimaryEmail.label                             "پست الکترونیکی">
 <!ENTITY PrimaryEmail.accesskey                         "پ">
-
-
+<!ENTITY ChatName.label                                 "نام گپ:">
+<!ENTITY ChatName.accesskey                             "گ">
 <!ENTITY Company.label                                  "Organization">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "نام مستعار">
@@ -200,7 +203,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Home">
 <!ENTITY other.heading                                  "Other">
-
+<!ENTITY chat.heading                                   "گپ">
 <!ENTITY phone.heading                                  "شمارهٔ تلفن">
 <!ENTITY work.heading                                   "Work">
 <!-- Special Box Headings, for mailing lists -->

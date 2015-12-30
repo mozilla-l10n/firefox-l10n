@@ -30,8 +30,8 @@
 <!ENTITY HomePhone.accesskey                   "H">
 <!ENTITY WorkPhone.label                       "Work Phone">
 <!ENTITY WorkPhone.accesskey                   "W">
-
-
+<!ENTITY ChatName.label                        "نام گپ">
+<!ENTITY ChatName.accesskey                    "گ">
 <!ENTITY sortAscending.label                   "Ascending">
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "Descending">
