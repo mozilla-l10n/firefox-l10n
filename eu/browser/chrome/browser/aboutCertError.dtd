@@ -32,4 +32,4 @@ esan nahi dezake errore honek.</b>">
 <!ENTITY certerror.expert.contentPara2 "Ez gehitu salbuespenik 
 gune honek identifikazio fidagarria ez erabiltzeko arrazoi on bat duela jakin ezean.">
 <!ENTITY certerror.addException.label "Gehitu salbuespena…">
-
+<!ENTITY certerror.copyToClipboard.label "Kopiatu testua arbelean">

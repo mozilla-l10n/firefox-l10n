@@ -83,9 +83,12 @@
 <!ENTITY phishingBlocked.longDesc "<p>Orri honetan informazio pertsonala sartzeak nortasun lapurreta edo beste iruzurren batean erortzea ekar lezake.</p> 
 <p>Webeko iruzur mota hau phishing eraso bezala ezagutzen da eta orri nahiz helbide elektroniko faltsuak erabiltzen dira konfiantzazko gune baten aurrean zaudela sinestarazteko.</p>">
 
+<!ENTITY forbiddenBlocked.title "Gune debekatua">
+<!ENTITY forbiddenBlocked.longDesc "<p>Nabigatzaileak orri hau kargatzea eragotzi du konfigurazioak blokeatu duelako.</p>">
 
-
-
+<!ENTITY securityOverride.linkText "Edo salbuespen bat gehi dezakezu…">
+<!ENTITY securityOverride.warningContent "<p>Ez zenuke salbuespenik gehitu behar erabat fidatzekoa ez den Internet konexio bat erabiltzen ari bazara edo ez bazaude ohituta zerbitzari honetarako abisuak ikustera.</p> 
+<p>Hala ere salbuespen bat gehitu nahi baduzu, zifratze-ezarpen aurreratuetan ezar dezakezu.</p>">
 
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspBlocked.longDesc "<p>Nabigatzaileak orri hau modu honetan kargatzea eragotzi du edukien segurtasun-politikak baimentzen ez duelako.</p>">
