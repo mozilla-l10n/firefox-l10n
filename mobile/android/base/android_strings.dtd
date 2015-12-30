@@ -498,7 +498,7 @@ size. -->
 <!ENTITY masterpassword_password "Şifrə">
 <!ENTITY masterpassword_confirm "Şifrəni təsdiqləyin">
 
-<!ENTITY button_ok "Oldu">
+<!ENTITY button_ok "Tamam">
 <!ENTITY button_cancel "Ləğv et">
 <!ENTITY button_yes "Hə">
 <!ENTITY button_no "Xeyir">
