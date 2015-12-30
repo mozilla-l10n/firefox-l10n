@@ -147,7 +147,7 @@
 <!ENTITY pref_category_accessibility "Auðveldað aðgengi">
 <!ENTITY pref_category_accessibility_summary2 "Leturstærð, stækka, innlestur með rödd">
 <!ENTITY pref_category_privacy_short "Gagnaleynd">
-
+<!ENTITY pref_category_privacy_summary3 "Fylgst með þér, smákökur, valmöguleikar fyrir gögn">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Um &brandShortName;, algengar spurningar, endurgjöf">
 <!ENTITY pref_category_datareporting "Fleiri valkostir">
@@ -264,7 +264,7 @@
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Hreinsa núna">
-
+<!ENTITY pref_clear_on_exit_title3 "Hreinsa persónuleg gögn þegar lokað er">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; mun hreinsa gögnin þín sjálfvirkt þegar þú velur  \u0022hætta\u0022  úr aðal valmyndinni">
 <!ENTITY pref_clear_on_exit_dialog_title "Veldu hvaða gögn á að hreinsa">
 <!ENTITY pref_plugins "Tengiforrit">
@@ -741,11 +741,11 @@ frá Android">
 <!ENTITY restrictable_feature_clear_history "Hreinsa feril">
 <!ENTITY restrictable_feature_clear_history_description "Leyfir fjölskyldumeðlimum að eyða upplýsingum um svæði og síður sem þau skoða.">
 <!ENTITY restrictable_feature_advanced_settings "Nánari stillingar">
-
-
-
-
-
+<!ENTITY restrictable_feature_advanced_settings_description "Þar með talið innflutning á bókarmerkjum, endurheimta flipa og sjálfvirkar uppfærslur. Slökkvið á til að einfalda stillingar sem henta öllum fjölskyldumeðlimum.">
+<!ENTITY restrictable_feature_camera_microphone "Myndavél &amp; hljóðnemi">
+<!ENTITY restrictable_feature_camera_microphone_description "Gerir fjölskyldumeðlimum kleift að taka þátt í rauntíma samskiptum á vefsvæðum.">
+<!ENTITY restrictable_feature_data_choices "Meðhöndlun gagna">
+<!ENTITY restrictable_feature_data_choices_description "Veldu hvort þú viljir eða viljir ekki senda upplýsingar um notkun til Mozilla til að aðstoða við að gera Firefox betri.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -762,4 +762,7 @@ frá Android">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "Því miður þá virkar &brandShortName; ekki á þessu tæki (&formatS1;, &formatS2;). Vinsamlega hala niður réttri útgáfu.">
 
+<!ENTITY eol_notification_title "&brandShortName; styður ekki lengur Android 3">
+<!ENTITY eol_notification_summary "Snertu til að fræðast nánar">
