@@ -4,8 +4,8 @@
 
 <!ENTITY dialog.title                 "Dewisiadau Anfon">
 <!ENTITY sendMail.title               "Fformat Testun">
-
-
+<!ENTITY autoDowngrade.label          "Anfon negeuon fel testun plaen os yn bosib.">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Wrth anfon negeseuon mewn fformat HTML ac nad yw un neu fwy o'r derbynwyr wedi'u rhestru fel eu bod yn gallu derbyn HTML:">
 <!ENTITY askMe.label                  "Gofyn i mi beth i'w wneud">
 <!ENTITY askMe.accesskey              "G">

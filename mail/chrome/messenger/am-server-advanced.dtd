@@ -22,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "D">
 <!ENTITY overrideNamespaces.label "Caniatáu i'r gweinydd i wrth-wneud y bylchau enw">
 <!ENTITY overrideNamespaces.accesskey "C">
-
-
-
+<!ENTITY pop3DeferringDesc.label "Wrth lwytho e-bost i lawr o weinydd y cyfrif, defnyddiwch y ffolder ganlynol i gadw'r negeseuon newydd." >
+<!ENTITY accountInbox.label "Blwch Derbyn y cyfrif hwn">
+<!ENTITY accountInbox.accesskey "c">
 <!ENTITY deferToServer.label "Blwch Derbyn cyfrif gwahanol">
 <!ENTITY deferToServer.accesskey "g">
 <!ENTITY deferGetNewMail.label "Cynnwys y gweinydd hwn wrth estyn e-byst newydd">

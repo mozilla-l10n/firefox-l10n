@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Gwirio am negeseuon newydd bob ">
 <!ENTITY biffStart.accesskey "w">
 <!ENTITY biffEnd.label "munud">
-
-
+<!ENTITY useIdleNotifications.label "Caniatáu hysbysiadau gweinydd wrth i negeseuon newydd gyrraedd">
+<!ENTITY useIdleNotifications.accesskey "a">
 <!ENTITY connectionSecurity.label "Diogelwch y cysylltiad:">
 <!ENTITY connectionSecurity.accesskey "D">
 <!ENTITY connectionSecurityType-0.label "Dim">

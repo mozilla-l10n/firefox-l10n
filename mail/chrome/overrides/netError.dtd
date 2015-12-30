@@ -136,7 +136,8 @@ gwnewch yn siŵr fod gan &brandShortName; hawl i fynediad i'r we.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Gall gyflwyno gwybodaeth bersonol ar y dudalen hon arwain at ddwyn hunaniaeth neu dwyll arall.</p> 
 <p>Mae'r math yma o dwyll ar y we yn cael eu defnyddio ar gyfer ymosodiad pysgota neu phishing attacks, lle mae tudalennau gwe neu e-byst twyllodrus yn cael eu defnyddio i efelychu ffynonellau rydych yn ymddiried ynddynt.</p>">
 
-
+<!ENTITY forbiddenBlocked.title "Gwefan Waharddedig">
+<!ENTITY forbiddenBlocked.longDesc "<p>Mae &brandShortName; wedi atal y dudalen hon rhag llwytho oherwydd mae wedi ei ffurfweddu i'w rwystro.</p>">
 
 <!ENTITY cspBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
 <!ENTITY cspBlocked.longDesc "<p>Mae &brandShortName; wedi rhwystro'r dudalen rhag llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
