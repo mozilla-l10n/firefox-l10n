@@ -32,4 +32,4 @@ gu bheil seo a' ciallachadh gu bheil cuideigin a' cur a-steach air a' cheangal a
 <!ENTITY certerror.expert.contentPara2 "Na cuir eisgeachd ris ach ma tha fhios agad gu bheil 
 carson nach eil an làrach seo a' cleachdadh dearbh-aithne earbsach.">
 <!ENTITY certerror.addException.label "Cuir eisgeachd ris…">
-
+<!ENTITY certerror.copyToClipboard.label "Cuir lethbhreac dhen teacsa air an stòr-bhòrd">
