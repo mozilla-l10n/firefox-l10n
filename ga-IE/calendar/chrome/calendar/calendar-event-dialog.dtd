@@ -36,6 +36,8 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Cuireadh ar léith do gach rannpháirtí">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Leis an rogha seo, seolfar teachtaireacht ar leith chuig gach rannpháirtí. Ní chuirfear ainmneacha ná seoltaí ríomhphoist na rannpháirtithe eile sa teachtaireacht.">
 <!-- Keyboard Shortcuts -->
+
+<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -101,8 +103,8 @@
 
 <!ENTITY  event.menu.options.label                            "Roghanna">
 <!ENTITY  event.menu.options.accesskey                        "o">
-
-
+<!ENTITY  event.menu.options.attendees.label                  "Tabhair Cuireadh Do Rannpháirtithe…">
+<!ENTITY  event.menu.options.attendees.accesskey              "T">
 <!ENTITY  event.menu.options.timezone2.label                  "Taispeáin Criosanna Ama">
 <!ENTITY  event.menu.options.timezone2.accesskey              "s">
 <!ENTITY  event.menu.options.priority2.label                  "Tosaíocht">
@@ -130,14 +132,15 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Saor">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "S">
 
-
+<!ENTITY event.invite.attendees.label                     "Tabhair Cuireadh Do Rannpháirtithe…">
+<!ENTITY event.invite.attendees.accesskey                 "Q">
 <!ENTITY event.email.attendees.label                      "Cum ríomhphost chuig an lucht freastail go léir…">
 <!ENTITY event.email.attendees.accesskey                  "g">
 <!ENTITY event.email.tentative.attendees.label            "Cum ríomhphost chuig an lucht freastail neamhdhearbhaithe…">
 <!ENTITY event.email.tentative.attendees.accesskey        "n">
-
-
-
+<!ENTITY event.remove.attendees.label                     "Bain gach rannpháirtí...">
+<!ENTITY event.remove.attendees.accesskey                 "q">
+<!ENTITY event.remove.attendee.label                      "Bain rannpháirtí">
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Sábháil agus Dún">
@@ -157,23 +160,23 @@
 
 <!ENTITY event.title.textbox.label                        "Teideal:" >
 <!ENTITY event.title.textbox.accesskey                    "i">
-
-
+<!ENTITY event.location.label                             "Suíomh:" >
+<!ENTITY event.location.accesskey                         "S">
 <!ENTITY event.categories.label                           "Catagóir:">
 <!ENTITY event.categories.accesskey                       "r">
 <!ENTITY event.categories.textbox.label                   "Cuir catagóir nua leis" >
 <!ENTITY event.calendar.label                             "Féilire:" >
 <!ENTITY event.calendar.accesskey                         "F">
-
-
+<!ENTITY event.attendees.label                            "Rannpháirtithe:" >
+<!ENTITY event.attendees.accesskey                        "e" >
 <!ENTITY event.alldayevent.label                          "Imeacht ar feadh an lae" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Tús:" >
 <!ENTITY event.from.accesskey                             "T">
 <!ENTITY task.from.label                                  "Tosach:" >
 <!ENTITY task.from.accesskey                              "B">
-
-
+<!ENTITY event.to.label                                   "Deireadh:" >
+<!ENTITY event.to.accesskey                               "x">
 <!ENTITY task.to.label                                    "Dáta Dlite:" >
 <!ENTITY task.to.accesskey                                "D">
 <!ENTITY task.status.label                                "Stádas:" >
@@ -198,8 +201,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "Bain Uile" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-
-
+<!ENTITY event.attachments.popup.attachPage.label         "Ceangail Leathanach&amp; Gréasáin…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
 <!ENTITY event.url.label                                  "Nasc Gaolta:" >
 <!ENTITY event.priority2.label                            "Tosaíocht:">
 
@@ -348,7 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "Grúpa">
 <!ENTITY event.attendee.usertype.resource       "Acmhainn">
 <!ENTITY event.attendee.usertype.room           "Seomra">
-
+<!ENTITY event.attendee.usertype.unknown        "Anaithnid">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Sonraigh crios ama">
