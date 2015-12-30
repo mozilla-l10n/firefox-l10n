@@ -448,16 +448,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Leita eða sláðu inn veffang">
-<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.accesskey             "ð">
 <!ENTITY urlbar.switchToTab.label     "Fara á flipa:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Viltu bæta leitina með því að nota uppástungur?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Vita meira…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "V">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nei">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Já">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "J">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
