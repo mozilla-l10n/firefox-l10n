@@ -540,6 +540,8 @@
 <!ENTITY restrictable_feature_camera_microphone_description "Umożliwia członkom rodziny korzystanie z komunikacji w czasie rzeczywistym.">
 <!ENTITY restrictable_feature_data_choices "Udostępnianie danych">
 <!ENTITY restrictable_feature_data_choices_description "Czy wysyłać do Mozilli informacje o wykorzystaniu, aby pomóc w ulepszaniu przeglądarki Firefox.">
+<!ENTITY restrictable_feature_block_list "Lista blokowanych stron">
+<!ENTITY restrictable_feature_block_list_description "Blokowanie stron zawierających wrażliwą treść.">
 
 <!ENTITY bookmarks_about_browser "Firefox: O przeglądarce">
 <!ENTITY bookmarks_addons "Firefox: Dodatki">
