@@ -28,7 +28,7 @@
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "सबै एड-अनहरू सुरक्षित मोडद्वारा असक्षम गरिएको छ।">
-<!ENTITY warning.checkcompatibility.label          "एड-अन अनुकूलता जाँच अक्षम पारिएको छ। तपाईं संग अमिल्दो एड-अनहरु हुन सक्छन।">
+<!ENTITY warning.checkcompatibility.label          "एड-अन अनुकूलता जाँच अक्षम पारिएको छ। तपाईं संग अमिल्दो एड-अनहरु हुन सक्छन्।">
 <!ENTITY warning.checkcompatibility.enable.label   "सक्षम पार्नुहोस्">
 <!ENTITY warning.checkcompatibility.enable.tooltip "एड-अन समर्थन जाँच सक्षम पार्नुहोस्">
 <!ENTITY warning.updatesecurity.label              "एड-अनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईं अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।">
