@@ -206,3 +206,6 @@
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "Dokończ aktualizację &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Stuknij, aby zalogować się jako &formatS;">
+
+<!ENTITY old_sync_deprecated_notification_title "Zaloguj się, aby synchronizować">
+<!ENTITY old_sync_deprecated_notification_content "Ten rodzaj konta nie jest już obsługiwany">
