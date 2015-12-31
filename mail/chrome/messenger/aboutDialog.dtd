@@ -11,13 +11,13 @@
 <!ENTITY community.exp.mozillaLink "&vendorShortName;">
 <!ENTITY community.exp.middle " es una ">
 <!ENTITY community.exp.creditsLink "comunidad global">
-<!ENTITY community.exp.end " trabajando juntos para mantener la web abierta, pública y accesible a todos.">
+<!ENTITY community.exp.end " que trabaja unida para mantener la Web abierta, pública y accesible a todos.">
 <!ENTITY community.start2 "&brandShortName; está diseñado por ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", una ">
 <!ENTITY community.creditsLink "comunidad global">
-<!ENTITY community.end3 " trabajando juntos para mantener la web abierta, pública y accesible a todos.">
-<!ENTITY helpus.start "¿Quiere ayudar? ">
+<!ENTITY community.end3 " que trabaja unida para mantener la Web abierta, pública y accesible a todos.">
+<!ENTITY helpus.start "¿Quiere ayudar? ¡">
 <!ENTITY helpus.donateLink "Haga una donación">
 <!ENTITY helpus.middle " o ">
 <!ENTITY helpus.getInvolvedLink "¡involúcrese!">
