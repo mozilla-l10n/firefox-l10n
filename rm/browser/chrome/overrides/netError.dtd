@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Errur cun chargiar la pagina">
 <!ENTITY retry.label "Empruvar anc ina giada">
+<!ENTITY returnToPreviousPage.label "Turnar">
+<!ENTITY advanced.label "Extendì">
 
 <!-- Specific error messages -->
 
@@ -108,6 +110,9 @@
 <!ENTITY phishingBlocked.longDesc "<p>Sche ti endateschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u autras furmas d'engion.</p> 
 <p>Questas furmas da falsificaziun en il web vegnan utilisadas per emprovas d'engion ch'ins numna &quot;attatgas da phishing&quot;. Criminals cun l'intenziun d'engianar emprovan uschia d'imitar paginas d'internet u e-mails che inspiran confidenza.</p>">
 
+<!ENTITY forbiddenBlocked.title "Pagina scumandada">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina vegnia chargiada perquai che la configuraziun la blochescha.</p>">
+
 <!ENTITY cspBlocked.title "Bloccà da las directivas per la segirezza dal cuntegn">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina chargia en tala maniera perquai che la pagina cuntegna directivas per la segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
 
@@ -131,9 +136,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY errorReporting.title "Rapportar questa errur">
-<!ENTITY errorReporting.longDesc "Sche ti rapportas questa adressa e las infurmaziuns da certificat per <span id='hostname'></span> ans gida quai dad identifitgar e bloccar paginas malvulentas. Grazia per gidar da crear in web pli segir!">
-<!ENTITY errorReporting.automatic "Rapportar automaticamain errurs en l'avegnir">
+<!ENTITY errorReporting.automatic2 "Rapportar talas errurs per gidar a Mozilla dad identifitgar e bloccar paginas che pon donnegiar tes computer">
 <!ENTITY errorReporting.learnMore "Ulteriuras infurmaziuns…">
 <!ENTITY errorReporting.sending "Trametter il rapport">
 <!ENTITY errorReporting.sent "Tramess il rapport">
@@ -144,16 +147,14 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possessur da la website davart quest problem.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Impussibel da connectar a moda segira">
-<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-     "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Infurmaziuns avanzadas: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "Ulteriuras infurmaziuns…">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Infurmaziuns avanzadas: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "Tia connexiun n'è betg segira">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
-     "ssl_error_no_cypher_overlap". -->
-<!ENTITY weakCryptoUsed.longDesc "Infurmaziuns avanzadas: ssl_error_no_cypher_overlap">
-<!ENTITY weakCryptoUsed.learnMore "Ulteriuras infurmaziuns…">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "Infurmaziuns avanzadas: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Extendì">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilisescha ina tecnologia da segirezza antiquada e vulnerabla per attatgas. In attatgader pudess leger senza gronds sforzs las infurmaziuns che paran dad esser segiradas.">
 <!ENTITY weakCryptoAdvanced.override "(Betg segir) Emprova da chargiar <span class='hostname'></span> cun utilisar ina tecnologia da segirezza antiquada">
