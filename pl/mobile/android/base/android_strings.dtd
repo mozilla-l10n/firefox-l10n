@@ -128,8 +128,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Zdalne debugowanie przez Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugowanie przez Wi-Fi wymaga zainstalowania czytnika kodów QR na urządzeniu.">
 <!ENTITY pref_remember_signons2 "Zachowywanie danych logowania">
-<!ENTITY pref_open_external_urls_privately_title "Otwieranie odnośników w trybie prywatnym">
-<!ENTITY pref_open_external_urls_privately_summary "Dla wszystkich zewnętrznych odnośników otwieranych w programie &brandShortName;">
 <!ENTITY pref_manage_logins "Zarządzaj danymi logowania">
 
 <!ENTITY pref_category_home "Strona domowa">
