@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Doplnky">
 <!ENTITY aboutDebugging.addonDebugging.label       "Povoliť ladenie doplnkov">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Zapnutím tejto voľby umožníte ladenia doplnkov a ďalších súčastí chrome prehliadača">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Načítať dočasný doplnok">
 <!ENTITY aboutDebugging.workers                    "Workery">

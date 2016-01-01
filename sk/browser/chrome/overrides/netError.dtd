@@ -165,6 +165,9 @@
 <p>Tieto typy falošných stránok sa používajú na podvody, pri ktorých sa kombináciou webovej stránky a e-mailových správ napodobňujú dôveryhodné zdroje.</p>
 ">
 
+<!ENTITY forbiddenBlocked.title "Zakázaná stránka">
+<!ENTITY forbiddenBlocked.longDesc "<p>Aplikácia &brandShortName; zabránila v načítaní tejto stránky, pretože je nastavené jej blokovanie.</p>
+">
 
 <!ENTITY cspBlocked.title "Blokované kvôli zásadám ochrany obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Prehliadač &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
@@ -189,6 +192,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+<!ENTITY errorReporting.automatic2 "Hlásiť chyby ako je táto a pomôcť tým organizácii Mozilla identifikovať a blokovať škodlivé stránky">
 <!ENTITY errorReporting.learnMore "Ďalšie informácie…">
 <!ENTITY errorReporting.sending "Hlásenie sa odosiela">
 <!ENTITY errorReporting.sent "Hlásenie odoslané">
@@ -206,6 +210,7 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.title "Vaše pripojenie nie je zabezpečené">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "Podrobné informácie: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Rozšírené">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> používa bezpečnostnú technológiu, ktorá je zastaraná a je náchylná na útoky. Útočník sa môže jednoducho dostať k informáciám, o ktorých si myslíte, že sú v bezpečí.">
 <!ENTITY weakCryptoAdvanced.override "(Nezabezpečené) Vyskúšať načítať <span class='hostname'></span> použitím zastaraného zabezpečenia">
