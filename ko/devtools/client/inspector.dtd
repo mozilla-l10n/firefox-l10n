@@ -113,9 +113,8 @@
 <!ENTITY inspectorSearchHTML.label2          "CSS 선택자로 찾기">
 <!ENTITY inspectorSearchHTML.key            "F">
 
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
-     be shown as the placeholder in the future, once the inspector search box
-     supports the full text HTML search in Bug 835896. -->
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
+     shown as the placeholder for the markup view search in the inspector. -->
 <!ENTITY inspectorSearchHTML.label3 "HTML에서 찾기">
 
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
@@ -155,3 +154,4 @@
 <!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users
      duplicate the currently selected node. -->
+<!ENTITY inspectorDuplicateNode.label       "노드 복제">
