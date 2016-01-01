@@ -32,4 +32,4 @@ was trying to connect. -->
 <!ENTITY certerror.expert.contentPara2 "जोपर्यंत तुम्हाला हे स्थळ विश्वासर्ह ओळख 
 का वापरत नाही याचे कारण माहित असल्याशिवाय अपवाद जोडू नका.">
 <!ENTITY certerror.addException.label "अपवाद जोडा…">
-
+<!ENTITY certerror.copyToClipboard.label "क्लिपबोर्डमध्ये मजकुराची प्रत बनवा">
