@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Kontrolovat nové zprávy každých">
 <!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "minut">
+<!ENTITY useIdleNotifications.label "Povolit okamžité upozornění pro nové zprávy">
+<!ENTITY useIdleNotifications.accesskey "a">
 <!ENTITY connectionSecurity.label "Zabezpečení spojení:">
 <!ENTITY connectionSecurity.accesskey "b">
 <!ENTITY connectionSecurityType-0.label "Žádné">
@@ -59,7 +61,7 @@
 <!ENTITY loginAtStartup.accesskey "s">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Zobrazit dotaz před načtením více než">
 <!ENTITY maxMessagesStart.accesskey "Z">
