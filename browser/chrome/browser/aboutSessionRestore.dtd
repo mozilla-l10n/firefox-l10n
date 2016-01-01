@@ -52,7 +52,7 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "आफ्नो अन्य ट्याब समूहमा स्थानान्तरण गर्नुहोस्">
-
+<!ENTITY tabgroupsmigration.pagetitle2          "हामीले ट्याब समूह हटायौँ, तपाईँको ट्याबहरू सुरक्षित गरिसकेका छौं">
 
 
 
