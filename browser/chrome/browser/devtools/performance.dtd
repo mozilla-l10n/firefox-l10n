@@ -36,6 +36,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+
+<!ENTITY performanceUI.unavailableNoticePB "Agora mesmo no se puede rechistrar un perfil. Tanque totdas las finestras de navegación privada y torne a prebar.">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
 
