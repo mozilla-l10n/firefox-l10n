@@ -21,7 +21,7 @@
 <!ENTITY projectMenu_debug_label "Depurar aplicación">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Borrar prochecto">
-<!ENTITY projectMenu_remove_accesskey "B">
+<!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Preferencias">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Chestionar components extra">
@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Insertar automaticament os gafetz de zarrar">
 <!ENTITY prefs_options_keybindings "Asociacions de teclas">
 <!ENTITY prefs_options_keybindings_default "Predeterminau">
-
-
+<!ENTITY prefs_options_autosavefiles "Alzar automaticament os fichers">
+<!ENTITY prefs_options_autosavefiles_tooltip "Alzar automaticament os fichers editaus antes d'executar o prochecto">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabla de permisos">

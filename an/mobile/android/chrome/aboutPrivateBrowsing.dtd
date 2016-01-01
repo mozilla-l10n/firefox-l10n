@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "No ye en Navegación Privada">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloca partes de pachinas que pueden fer seguimiento d'a suya actividat de navegación.">
+<!ENTITY privatebrowsingpage.description.privateDetails "No se remerará garra historial, pero os fichers baixaus y os nuevos marcapachinas encara s'alzarán en o dispositivo.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
