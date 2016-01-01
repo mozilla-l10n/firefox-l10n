@@ -75,6 +75,9 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "내 프로젝트">
 <!ENTITY projectPanel_runtimeApps "런타임 앱">
@@ -86,6 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "시뮬레이터 설치">
 <!ENTITY runtimePanel_noadbhelper "ADB 도우미 설치">
 <!ENTITY runtimePanel_nousbdevice "기기가 안뜹니까?">
+<!ENTITY runtimePanel_refreshDevices_label "기기 새로고침">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "유효">
