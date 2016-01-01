@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Kontrolovat nové zprávy každých">
 <!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "minut">
+<!ENTITY useIdleNotifications.label "Povolit okamžité upozornění pro nové zprávy">
+<!ENTITY useIdleNotifications.accesskey "a">
 <!ENTITY connectionSecurity.label "Zabezpečení spojení:">
 <!ENTITY connectionSecurity.accesskey "b">
 <!ENTITY connectionSecurityType-0.label "Žádné">
@@ -73,8 +75,8 @@
 <!ENTITY abbreviateOn.label "Celá jména (např.: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Zkracovat jména (např.: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Rozšířené…">
-<!ENTITY advancedButton.accesskey "R">
 <!ENTITY serverDefaultCharset2.label "Výchozí znaková sada textu:">
+<!ENTITY advancedButton.accesskey "R">
 <!ENTITY localPath.label "Místní adresář:">
 <!ENTITY localFolderPicker.label "Vyberte místní adresář">
 <!ENTITY browseFolder.label "Procházet…">
