@@ -935,10 +935,3 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY emeNotificationsNotNow.accesskey         "P">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ne plus demander à l'avenir">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "N">
-
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-<!ENTITY saveToPocketCmd.label     "Enregistrer la page dans Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Enregistrer le lien dans Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "Afficher la liste Pocket">
