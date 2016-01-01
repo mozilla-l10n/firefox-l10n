@@ -17,7 +17,7 @@
 <!ENTITY  generalTab.accesskey  "P">
 <!ENTITY  generalURL            "Adresa:">
 <!ENTITY  generalType           "Typ:">
-<!ENTITY  generalMode           "Rysowanski modu:">
+<!ENTITY  generalMode           "Zwobraznjenski modus:">
 <!ENTITY  generalSize           "Wulkosć:">
 <!ENTITY  generalReferrer       "Wróćopokazowacy URL:">
 <!ENTITY  generalSource         "Žórło z pufrowaka:">
