@@ -251,8 +251,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Aplicaciones">
 <!ENTITY webapps.accesskey            "p">
-<!ENTITY loopMenuItem.label           "Iniciar una conversación…">
-<!ENTITY loopMenuItem.accesskey       "v">
 
 <!ENTITY webDeveloperMenu.label       "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -939,9 +937,3 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY emeNotificationsDontAskAgain.label       "No preguntarme nuevamente">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "o">
 
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-<!ENTITY saveToPocketCmd.label     "Guardar página en Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Guardar enlace en Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "Ver lsita de Pocket">
