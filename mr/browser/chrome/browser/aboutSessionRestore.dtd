@@ -51,6 +51,8 @@ their language.
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
+<!ENTITY tabgroupsmigration.tabtitle            "तुमचे दुसरे टॅब गट स्थलांतरित करा">
+<!ENTITY tabgroupsmigration.pagetitle2          "आम्ही आपले टॅब गट काढून टाकले आहेत पण टॅब ठेवल्या आहेत">
 
 
 
