@@ -7,12 +7,13 @@
 <!ENTITY  blockPopups.label           "پوپ اپ وینڈوز بلاک کیجیے">
 <!ENTITY  blockPopups.accesskey       "ب">
 
+<!ENTITY  notificationsPolicy.label            "اعلانات">
 
 
-
-
-
-
+<!ENTITY  notificationsPolicyButton.accesskey  "ا">
+<!ENTITY  notificationsPolicyButton.label      "انتخاب کریں…">
+<!ENTITY  notificationsDoNotDisturb.label      "مجھے خلل نہ ڈالیے">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 
 
 <!ENTITY  popupExceptions.label       "استثنیات…">
