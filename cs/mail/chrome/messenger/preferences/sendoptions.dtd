@@ -2,34 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title "Předvolby odesílání">
-<!ENTITY sendMail.title "Textový formát">
-<!ENTITY sendMaildesc.label "Při odesílání zpráv ve formátu HTML a jeden nebo více příjemců není podle záznamů schopen přijímat formát HTML:">
-<!ENTITY askMe.label "Zobrazit dotaz, co dělat (je-li zpráva ve formátu HTML)">
-<!ENTITY askMe.accesskey "d">
-<!ENTITY convertPlain.label "Převést zprávu na prostý text (může se ztratit formátování)">
-<!ENTITY convertPlain.accesskey "v">
-<!ENTITY sendHTML.label "Bez ohledu na uživatele odeslat zprávu ve formátu HTML">
-<!ENTITY sendHTML.accesskey "B">
-<!ENTITY sendBoth.label "Odeslat zprávu ve formátu prostého textu i HTML">
-<!ENTITY sendBoth.accesskey "O">
-<!ENTITY override.label "Toto nastavení lze změnit u jednotlivé zprávy pomocí nabídky Formát.">
+<!ENTITY dialog.title                 "Předvolby odesílání">
+<!ENTITY sendMail.title               "Textový formát">
+<!ENTITY autoDowngrade.label          "Pokud je to možné, odesílat zprávy jako prostý text">
+<!ENTITY autoDowngrade.accesskey      "r">
+<!ENTITY sendMaildesc.label           "Při odesílání zpráv ve formátu HTML a jeden nebo více příjemců není podle záznamů schopen přijímat formát HTML:">
+<!ENTITY askMe.label                  "Zobrazit dotaz, co dělat (je-li zpráva ve formátu HTML)">
+<!ENTITY askMe.accesskey              "d">
+<!ENTITY convertPlain.label           "Převést zprávu na prostý text (může se ztratit formátování)">
+<!ENTITY convertPlain.accesskey       "v">
+<!ENTITY sendHTML.label               "Bez ohledu na uživatele odeslat zprávu ve formátu HTML">
+<!ENTITY sendHTML.accesskey           "B">
+<!ENTITY sendBoth.label               "Odeslat zprávu ve formátu prostého textu i HTML">
+<!ENTITY sendBoth.accesskey           "O">
+<!ENTITY override.label               "Toto nastavení lze změnit u jednotlivé zprávy pomocí nabídky Formát.">
 
-<!ENTITY domaindesc.label "Když pošlete zprávu na adresu v jedné z domén uvedených níže, &brandShortName; automaticky zprávu odešle ve správném formátu.">
-<!ENTITY HTMLTab.label "Domény pro HTML">
-<!ENTITY HTMLTab.accesskey "H">
-<!ENTITY PlainTextTab.label "Domény pro prostý text">
-<!ENTITY PlainTextTab.accesskey "t">
-<!ENTITY AddHtmlDomain.label "Přidat…">
-<!ENTITY AddHtmlDomain.accesskey "P">
-<!ENTITY AddPlainText.label "Přidat…">
-<!ENTITY AddPlainText.accesskey "d">
-<!ENTITY DeleteHtmlDomain.label "Smazat">
-<!ENTITY DeleteHtmlDomain.accesskey "S">
-<!ENTITY DeletePlainText.label "Smazat">
-<!ENTITY DeletePlainText.accesskey "m">
+<!ENTITY domaindesc.label             "Když pošlete zprávu na adresu v jedné z domén uvedených níže, &brandShortName; automaticky zprávu odešle ve správném formátu.">
+<!ENTITY HTMLTab.label                "Domény pro HTML">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Domény pro prostý text">
+<!ENTITY PlainTextTab.accesskey       "t">
+<!ENTITY AddHtmlDomain.label          "Přidat…">
+<!ENTITY AddHtmlDomain.accesskey      "P">
+<!ENTITY AddPlainText.label           "Přidat…">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteHtmlDomain.label       "Smazat">
+<!ENTITY DeleteHtmlDomain.accesskey   "S">
+<!ENTITY DeletePlainText.label        "Smazat">
+<!ENTITY DeletePlainText.accesskey    "m">
 
-<!ENTITY add.htmltitle "Přidat doménu pro HTML">
-<!ENTITY add.htmldomain "Název domény pro HTML:">
-<!ENTITY add.plaintexttitle "Přidat doménu pro prostý text">
-<!ENTITY add.plaintextdomain "Název domény pro prostý text:">
+<!ENTITY add.htmltitle                "Přidat doménu pro HTML">
+<!ENTITY add.htmldomain               "Název domény pro HTML:">
+<!ENTITY add.plaintexttitle           "Přidat doménu pro prostý text">
+<!ENTITY add.plaintextdomain          "Název domény pro prostý text:">

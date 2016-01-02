@@ -2,62 +2,64 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label "Obecné">
-<!ENTITY itemAutoComplete.label "Adresování">
-<!ENTITY itemSpellCheck.label "Pravopis">
+<!ENTITY itemGeneral.label                   "Obecné">
+<!ENTITY itemAutoComplete.label              "Adresování">
+<!ENTITY itemSpellCheck.label                "Pravopis">
 
 <!ENTITY dialogCompose.title                 "Vytváření">
 
-<!ENTITY forwardMsg.label "Přeposílat zprávy:">
-<!ENTITY forwardMsg.accesskey "s">
-<!ENTITY inline.label "Vloženě">
-<!ENTITY asAttachment.label "Jako přílohu">
-<!ENTITY addExtension.label "Přidat k názvu souboru příponu">
-<!ENTITY addExtension.accesskey "d">
+<!ENTITY forwardMsg.label                     "Přeposílat zprávy:">
+<!ENTITY forwardMsg.accesskey                 "s">
+<!ENTITY inline.label                         "Vloženě">
+<!ENTITY asAttachment.label                   "Jako přílohu">
+<!ENTITY addExtension.label                   "Přidat k názvu souboru příponu">
+<!ENTITY addExtension.accesskey               "d">
 
-<!ENTITY htmlComposeHeader.label "HTML">
-<!ENTITY font.label "Písmo:">
-<!ENTITY font.accesskey "m">
-<!ENTITY size.label "Velikost:">
-<!ENTITY size.accesskey "V">
-<!ENTITY fontColor.label "Text:">
-<!ENTITY fontColor.accesskey "T">
-<!ENTITY bgColor.label "Pozadí:">
-<!ENTITY bgColor.accesskey "P">
-<!ENTITY restoreHTMLDefaults.label "Obnovit výchozí">
-<!ENTITY restoreHTMLDefaults.accesskey "O">
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Písmo:">
+<!ENTITY font.accesskey                       "m">
+<!ENTITY size.label                           "Velikost:">
+<!ENTITY size.accesskey                       "V">
+<!ENTITY fontColor.label                      "Text:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "Pozadí:">
+<!ENTITY bgColor.accesskey                    "P">
+<!ENTITY restoreHTMLDefaults.label            "Obnovit výchozí">
+<!ENTITY restoreHTMLDefaults.accesskey        "O">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Při použití formátu odstavce, klávesou Enter vytvoříte nový odstavec">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "f">
 
-<!ENTITY spellCheck.label "Při odesílání zpráv kontrolovat pravopis">
-<!ENTITY spellCheck.accesskey "k">
-<!ENTITY spellCheckInline.label "Povolit kontrolu pravopisu při psaní">
-<!ENTITY spellCheckInline1.accesskey "P">
-<!ENTITY languagePopup.label "Jazyk:">
-<!ENTITY languagePopup.accessKey "J">
-<!ENTITY downloadDictionaries.label "Stáhnout další slovníky">
+<!ENTITY spellCheck.label                     "Při odesílání zpráv kontrolovat pravopis">
+<!ENTITY spellCheck.accesskey                 "k">
+<!ENTITY spellCheckInline.label               "Povolit kontrolu pravopisu při psaní">
+<!ENTITY spellCheckInline1.accesskey          "P">
+<!ENTITY languagePopup.label                  "Jazyk:">
+<!ENTITY languagePopup.accessKey              "J">
+<!ENTITY downloadDictionaries.label           "Stáhnout další slovníky">
 
-<!ENTITY warnOnSendAccelKey.label "Při odeslání zprávy pomocí klávesové zkratky požadovat potvrzení">
-<!ENTITY warnOnSendAccelKey.accesskey "i">
-<!ENTITY autoSave.label "Automaticky ukládat každých">
-<!ENTITY autoSave.accesskey "A">
-<!ENTITY autoSaveEnd.label "minut">
+<!ENTITY warnOnSendAccelKey.label             "Při odeslání zprávy pomocí klávesové zkratky požadovat potvrzení">
+<!ENTITY warnOnSendAccelKey.accesskey         "i">
+<!ENTITY autoSave.label                       "Automaticky ukládat každých">
+<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSaveEnd.label                    "minut">
 
-<!ENTITY emailCollectionPicker.label "Automaticky přidat odchozí e-mailovou adresu do složky:">
-<!ENTITY emailCollectionPicker.accesskey "A">
-<!ENTITY addressingTitle.label "Automatické dokončování adres">
-<!ENTITY autocompleteText.label "Při vkládání adresáta hledat shodné položky v:">
-<!ENTITY addressingEnable.label "Místní kontakty">
-<!ENTITY addressingEnable.accesskey "M">
-<!ENTITY directories.label "Adresářový server:">
-<!ENTITY directories.accesskey "s">
-<!ENTITY directoriesNone.label "Žádný">
-<!ENTITY editDirectories.label "Upravit adresáře…">
-<!ENTITY editDirectories.accesskey "U">
+<!ENTITY emailCollectionPicker.label           "Automaticky přidat odchozí e-mailovou adresu do složky:">
+<!ENTITY emailCollectionPicker.accesskey       "A">
+<!ENTITY addressingTitle.label                 "Automatické dokončování adres">
+<!ENTITY autocompleteText.label                "Při vkládání adresáta hledat shodné položky v:">
+<!ENTITY addressingEnable.label                "Místní kontakty">
+<!ENTITY addressingEnable.accesskey            "M">
+<!ENTITY directories.label                     "Adresářový server:">
+<!ENTITY directories.accesskey                 "s">
+<!ENTITY directoriesNone.label                 "Žádný">
+<!ENTITY editDirectories.label                 "Upravit adresáře…">
+<!ENTITY editDirectories.accesskey             "U">
 
-<!ENTITY sendOptionsDescription.label "Nastavení chování textového formátu ">
-<!ENTITY sendOptions.label "Předvolby odesílání…">
-<!ENTITY sendOptions.accesskey "e">
+<!ENTITY sendOptionsDescription.label          "Nastavení chování textového formátu ">
+<!ENTITY sendOptions.label                     "Předvolby odesílání…">
+<!ENTITY sendOptions.accesskey                 "e">
 
-<!ENTITY attachmentReminder.label "Kontrolovat zapomenuté přílohy">
-<!ENTITY attachmentReminder.accesskey "n">
-<!ENTITY attachmentReminderOptions.label "Klíčová slova…">
-<!ENTITY attachmentReminderOptions.accesskey "K">
+<!ENTITY attachmentReminder.label              "Kontrolovat zapomenuté přílohy">
+<!ENTITY attachmentReminder.accesskey          "n">
+<!ENTITY attachmentReminderOptions.label       "Klíčová slova…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">

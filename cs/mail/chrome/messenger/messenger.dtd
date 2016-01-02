@@ -854,6 +854,8 @@
 <!ENTITY SendMessageTo.accesskey "V">
 <!ENTITY CopyEmailAddress.label "Kopírovat e-mailovou adresu">
 <!ENTITY CopyEmailAddress.accesskey "K">
+<!ENTITY CopyNameAndEmailAddress.label "Kopírovat jméno a e-mailovou adresu">
+<!ENTITY CopyNameAndEmailAddress.accesskey "n">
 <!ENTITY CopyNewsgroupName.label "Kopírovat název diskusní skupiny">
 <!ENTITY CopyNewsgroupName.accesskey "K">
 <!ENTITY CopyNewsgroupURL.label "Kopírovat adresu diskusní skupiny">
