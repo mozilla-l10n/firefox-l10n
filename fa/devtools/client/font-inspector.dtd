@@ -6,9 +6,11 @@
 
 
 <!ENTITY title "قلم‌ها">
-
-
-
+<!ENTITY showAllFonts "مشاهده تمام قلم‌های استفاده شده در صفحه">
+<!ENTITY usedAs "استفاده شده به عنوان: ">
+<!ENTITY system "سیستم">
 <!ENTITY remote "از دور">
 <!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
      placeholder in font inspector preview text box. -->
+
+<!ENTITY previewHint "متن پیش‌نمایش">
