@@ -660,8 +660,3 @@
 <!ENTITY emeNotificationsNotNow.accesskey "е">
 <!ENTITY emeNotificationsDontAskAgain.label "Не спрашивать в следующий раз">
 <!ENTITY emeNotificationsDontAskAgain.accesskey "а">
-<!ENTITY saveToPocketCmd.label "Сохранить страницу в Pocket">
-<!ENTITY saveToPocketCmd.accesskey "х">
-<!ENTITY saveLinkToPocketCmd.label "Сохранить ссылку в Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "о">
-<!ENTITY pocketMenuitem.label "Показать список Pocket">

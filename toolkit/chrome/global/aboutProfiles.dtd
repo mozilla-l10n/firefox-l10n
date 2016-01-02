@@ -1,6 +1,4 @@
-<!--
-
- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -10,3 +8,5 @@
 <!ENTITY aboutProfiles.restart.title "Перезапустить">
 <!ENTITY aboutProfiles.restart.inSafeMode "Перезапустить с отключёнными дополнениями…">
 <!ENTITY aboutProfiles.restart.normal "Перезапустить в обычном режиме…">
+<!ENTITY aboutProfiles.profileManager.workOffline "Работать автономно">
+<!ENTITY aboutProfiles.profileManager.autoSelect "Запускать выделенный профиль без запроса">
