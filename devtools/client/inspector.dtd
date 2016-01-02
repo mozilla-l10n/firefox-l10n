@@ -25,13 +25,13 @@
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
-<!ENTITY inspectorHTMLPasteOuter.label      "چسباندن HTML خارجی">
-<!ENTITY inspectorHTMLPasteOuter.accesskey  "چ">
+<!ENTITY inspectorHTMLPasteOuter.label      "جایگذاری HTML خارجی">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "ج">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
-<!ENTITY inspectorHTMLPasteInner.label      "چسباندن HTML داخلی">
+<!ENTITY inspectorHTMLPasteInner.label      "جایگذاری HTML داخلی">
 <!ENTITY inspectorHTMLPasteInner.accesskey  "د">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
@@ -41,8 +41,8 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
-<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "چسباندن…">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "چ">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "جایگذاری…">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "ج">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->

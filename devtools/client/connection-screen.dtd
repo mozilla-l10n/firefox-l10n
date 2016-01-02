@@ -8,21 +8,23 @@
 
 
 <!ENTITY title      "وصل شدن">
-
+<!ENTITY header     "اتصال به دستگاه دوردست">
 <!ENTITY host       "میزبان:">
 <!ENTITY port       "درگاه:">
 <!ENTITY connect    "وصل شدن">
 <!ENTITY connecting "در حال اتصال…">
-
-
-
+<!ENTITY availableAddons "افزودنی‌های دوردستِ در دسترس:">
+<!ENTITY availableTabs "زبانه‌های دوردستِ در دسترس:">
+<!ENTITY availableProcesses "پردازش‌های دوردستِ در دسترس:">
 <!ENTITY connectionError "خطا:">
-
+<!ENTITY errorTimeout "خطا: انقضای زمان اتصال.">
 <!ENTITY errorRefused "خطا:ارتباط‌قطع شد.">
 <!ENTITY errorUnexpected "خطای غیرمنتظره.">
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteDocumentation "مستندات">
 
+<!ENTITY remoteHelp "«ابزارهای توسعه فایرفاکس» می‌تواند از دستگاه‌های دوردست اشکال‌زدایی کند (برای مثال، فایرفاکس برای اندروید و Firefox OS). مطمئن شوید که گزینه «اشکال‌زدایی دوردست» را در دستگاه دیگر فعال کرده‌اید. برای مثال،  ">
+<!ENTITY remoteDocumentation "مستندات">
+<!ENTITY remoteHelpSuffix ".">
 

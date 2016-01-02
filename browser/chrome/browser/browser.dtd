@@ -36,8 +36,8 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "چسباندن زبانه">
-<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  pinTab.label                       "سنجاق کردن زبانه">
+<!ENTITY  pinTab.accesskey                   "س">
 <!ENTITY  unpinTab.label                     "کندن زبانه">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
@@ -362,9 +362,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyCmd.label            "رونوشت">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "ر"> 
-<!ENTITY pasteCmd.label           "چسباندن">  
+<!ENTITY pasteCmd.label           "جایگذاری">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "چ"> 
+<!ENTITY pasteCmd.accesskey         "ج"> 
 <!ENTITY deleteCmd.label          "حذف">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "ح"> 
