@@ -164,6 +164,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Přidejte libovolnou stránku do svého seznamu poskytovatelů vyhledávání dlouhým stiskem, a následně klepněte na ikonu &formatI;.">
 <!ENTITY pref_category_advanced "Rozšířené">
+<!ENTITY pref_category_advanced_summary2 "Obnova panelů, zásuvné moduly, nástroje vývojáře">
 <!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
 <!ENTITY pref_developer_remotedebugging_usb "Vzdálené ladění pomocí USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Vzdálené ladění pomocí Wi-Fi">
@@ -204,6 +205,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Zadejte adresu nebo hledaný výraz">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Obecné">
@@ -270,6 +272,7 @@
 <!ENTITY pref_plugins_tap_to_play "Přehrát po klepnutí">
 <!ENTITY pref_plugins_disabled "Zakázat">
 <!ENTITY pref_text_size "Velikost textu">
+<!ENTITY pref_restore_tabs "Obnovit panely">
 <!ENTITY pref_restore_always "Vždy obnovit">
 <!ENTITY pref_restore_quit "Neobnovovat po ukončení aplikace &brandShortName;">
 <!ENTITY pref_font_size_tiny "Drobné">
@@ -303,6 +306,7 @@ size. -->
 <!ENTITY pref_sync_summary2 "Synchronizace vašich panelů, záložek, přihlášení a historie">
 <!ENTITY pref_search_suggestions "Povolit našeptávání">
 <!ENTITY pref_history_search_suggestions "Zobrazit historii vyhledávání">
+<!ENTITY pref_import_options "Možnosti importu">
 <!ENTITY pref_import_android_summary "Import záložek a historie z prohlížeče v systému">
 <!ENTITY pref_private_data_history2 "Historie prohlížení">
 <!ENTITY pref_private_data_searchHistory "Historie vyhledávání">
@@ -728,11 +732,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Doplňky">
+<!ENTITY restrictable_feature_addons_installation_description "Přidávejte do Firefoxu další funkce. Poznámka: Doplňky mohou zakázat některá omezení.">
 <!ENTITY restrictable_feature_private_browsing "Anonymní prohlížení">
+<!ENTITY restrictable_feature_private_browsing_description "Umožní dalším členům rodiny prohlížení bez ukládání informací o stránkách, které navštívili.">
 <!ENTITY restrictable_feature_clear_history "Vymazat historii">
+<!ENTITY restrictable_feature_clear_history_description "Umožní dalším členům rodiny smazat informace o stránkách, které navštívili.">
 <!ENTITY restrictable_feature_advanced_settings "Pokročilé nastavení">
+<!ENTITY restrictable_feature_advanced_settings_description "Obsahuje import záložek, obnovu panelů nebo automatické aktualizace. Vypněte pro zjednodušené nastavení vhodné pro všechny členy rodiny.">
 <!ENTITY restrictable_feature_camera_microphone "Fotoaparát a mikrofón">
+<!ENTITY restrictable_feature_camera_microphone_description "Umožní dalším členům rodiny komunikovat na webových serverech v reálném čase.">
 <!ENTITY restrictable_feature_data_choices "Možnosti hlášení">
+<!ENTITY restrictable_feature_data_choices_description "Zvolte, zda odesílat organizaci Mozilla data o používání pro vylepšení prohlížeče Firefox.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -749,6 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "Tato verze aplikace &brandShortName; nebude na tomto zařízení (&formatS1;, &formatS2;) fungovat. Stáhněte si prosím správnou verzi.">
 
 <!ENTITY eol_notification_title "&brandShortName; již nepodporuje Android 3">
 <!ENTITY eol_notification_summary "Pro další informace klepněte zde">
