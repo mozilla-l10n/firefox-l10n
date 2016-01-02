@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "آف لائن کام کریں">
 <!ENTITY            offlineState.accesskey "ک">
 
-
+<!ENTITY            useSelected.label       "استعمال کریں منتخب شد پروفائل بعیر پوچھے آغاز میں">
+<!ENTITY            useSelected.accesskey   "s">

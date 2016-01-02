@@ -211,6 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "سابقات دکھائیں">
 
 <!ENTITY searchItem.title             "تلاش کریں">
 <!-- Toolbar items --> 
@@ -439,12 +440,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "مزید اشیا ڈالیں…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ڈ">
 
-<!ENTITY openCmd.commandkey           "ک">
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "پتہ تلاش یا داخل کریں">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ٹیب پر سوئچ کریں:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "کیا آہ اپنے تلاش اینجن تجربے کو تجاویز سے بہتر بنانا چاہیں گے؟">
+<!ENTITY urlbar.searchSuggestionsNotification.question "کیا آپ اپنے تلاش انجن تجربے کو تجاویز سے بہتر بنانا چاہیں گے؟">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "اور سیکھیں…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "ل">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "نہیں">
@@ -688,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.accesskey   "خ">
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; خارج کریں">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goForwardCmd.commandKey "[">
 <!ENTITY quitApplicationCmd.label       "کنارہ کریں"> 
 <!ENTITY quitApplicationCmd.accesskey   "ک">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; برخاست کریں">
