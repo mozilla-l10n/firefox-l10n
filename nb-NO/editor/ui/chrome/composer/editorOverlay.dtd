@@ -82,20 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "Størrelse">
 <!ENTITY fontSizeMenu.accesskey "e">
-<!ENTITY size-xx-smallCmd.label "xx-liten">
-<!ENTITY size-xx-smallCmd.accesskey "t">
-<!ENTITY size-x-smallCmd.label "x-liten">
-<!ENTITY size-x-smallCmd.accesskey "i">
-<!ENTITY size-smallCmd.label "liten">
-<!ENTITY size-smallCmd.accesskey "l">
-<!ENTITY size-mediumCmd.label "medium">
-<!ENTITY size-mediumCmd.accesskey "m">
-<!ENTITY size-largeCmd.label "stor">
-<!ENTITY size-largeCmd.accesskey "s">
-<!ENTITY size-x-largeCmd.label "x-stor">
-<!ENTITY size-x-largeCmd.accesskey "o">
-<!ENTITY size-xx-largeCmd.label "xx-stor">
-<!ENTITY size-xx-largeCmd.accesskey "r">
+<!ENTITY size-tinyCmd.label "Ekstra liten">
+<!ENTITY size-tinyCmd.accesskey "E">
+<!ENTITY size-smallCmd.label "Liten">
+<!ENTITY size-smallCmd.accesskey "L">
+<!ENTITY size-mediumCmd.label "Middels">
+<!ENTITY size-mediumCmd.accesskey "M">
+<!ENTITY size-largeCmd.label "Stor">
+<!ENTITY size-largeCmd.accesskey "S">
+<!ENTITY size-extraLargeCmd.label "Ekstra stor">
+<!ENTITY size-extraLargeCmd.accesskey "k">
+<!ENTITY size-hugeCmd.label "Gigantisk">
+<!ENTITY size-hugeCmd.accesskey "G">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Tekststil">
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Velg uthevingsfarge for tekst">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Velg skriftstørrelse">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mindre skriftstørrelse">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Større skrift">
 <!ENTITY boldToolbarCmd.tooltip "Fet">

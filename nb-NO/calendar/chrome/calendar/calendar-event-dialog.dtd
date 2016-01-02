@@ -138,6 +138,9 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Skriv e-post til uvisse deltakere …">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
+<!ENTITY event.remove.attendees.label                     "Fjern alle deltakere ...">
+<!ENTITY event.remove.attendees.accesskey                 "F">
+<!ENTITY event.remove.attendee.label                      "Fjern deltaker">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Lagre og lukk">
@@ -348,6 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "Gruppe">
 <!ENTITY event.attendee.usertype.resource       "Ressurs">
 <!ENTITY event.attendee.usertype.room           "Rom">
+<!ENTITY event.attendee.usertype.unknown        "Ukjent">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Oppgi tidssone">
