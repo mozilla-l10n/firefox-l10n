@@ -73,7 +73,8 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "可疑的攻击站点！">
-<!ENTITY malwareBlocked.longDesc " <p>攻击站点尝试通过安装程序来盗取隐私数据、使用您的计算机攻击他人或者破坏您的系统。</p> <p>网站所有者若认为自己的站点被错误地报告为攻击站点，可以<a href='http://www.stopbadware.org/home/reviewinfo' >请求评审</a>。</p> ">
+<!ENTITY malwareBlocked.longDesc "<p>有攻击行为的站点尝试通过安装程序来窃取隐私数据、使用您的计算机攻击他人或者破坏您的系统。</p> 
+<p>网站所有者若认为自己的站点被错误地举报为攻击站点，可以<a href='http://www.stopbadware.org/home/reviewinfo' >申诉</a>。</p> ">
 
 <!ENTITY unwantedBlocked.title "疑似不受欢迎软件的网站！">
 <!ENTITY unwantedBlocked.longDesc "不受欢迎软件的页面可能会尝试安装欺骗性或者以预期之外方式影响您的系统的软件。">
