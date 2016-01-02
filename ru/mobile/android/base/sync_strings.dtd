@@ -169,3 +169,5 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Нажмите, чтобы войти как &formatS;">
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "Завершить обновление &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Нажмите, чтобы войти как &formatS;">
+<!ENTITY old_sync_deprecated_notification_title "Войдите, чтобы продолжить синхронизацию">
+<!ENTITY old_sync_deprecated_notification_content "Ваш аккаунт более не поддерживается">
