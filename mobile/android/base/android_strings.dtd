@@ -3,30 +3,93 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY  no_space_to_start_error "Betg avunda memoria per aviar &brandShortName;.">
+<!ENTITY  error_loading_file "Ina errur è cumparida durant l'emprova da chargiar las datotecas necessarias per exequir &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Bainvegni">
+<!ENTITY  onboard_start_message3 "Navigar cun &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Adattescha il navigar mobil a tes giavischs.">
+<!ENTITY  onboard_start_button_account "S'annunziar tar &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Cumenzar a navigar">
+<!ENTITY firstrun_button_next "Enavant">
 
+<!ENTITY  onboard_start_restricted1 "Resta segir e mantegna la controlla cun questa versiun simplifitgada da &brandShortName;.">
 
+<!ENTITY firstrun_import_title "Importar">
+<!ENTITY firstrun_import_message "Bainvegni a &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importescha tes segnapaginas e la cronologia d'in auter navigatur.">
+<!ENTITY firstrun_import_action "Transferir a &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Transfer">
+<!ENTITY firstrun_import_progress_title "Transferir">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Segnapaginas">
+<!ENTITY  history_title "Cronologia">
+<!ENTITY  reading_list_title "Glista da lectura">
+<!ENTITY  recent_tabs_title "Ultims tabs">
 
+<!ENTITY  switch_to_tab "Midar al tab">
 
+<!ENTITY  crash_reporter_title "Rapportader da collaps da &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; ha gì in problem ed è collabà. Tes tabs duessan vegnir mussads sin la pagina da partenza da &brandShortName; sche ti reavieschas.">
+<!ENTITY  crash_send_report_message3 "Infurmar &vendorShortName; davart quest problem per ch'el possia vegnir curregì">
+<!ENTITY  crash_include_url2 "Agiuntar l'adressa da la pagina che jau hai gist visità">
+<!ENTITY  crash_sorry "Perstgisa">
+<!ENTITY  crash_comment "Agiuntar in commentari (attenziun: ils commentaris vegnan publitgads)">
+<!ENTITY  crash_allow_contact2 "Permetter a &vendorShortName; da ma contactar en connex cun quest rapport">
+<!ENTITY  crash_email "Tia adressa dad e-mail">
+<!ENTITY  crash_closing_alert "Sortir senza trametter il rapport da collaps?">
+<!ENTITY  sending_crash_report "Trametter il rapport da collaps\u2026">
+<!ENTITY  crash_close_label "Serrar">
+<!ENTITY  crash_restart_label "Reaviar &brandShortName;">
+<!ENTITY  exit_label "Terminar">
 
+<!ENTITY  launcher_shortcuts_title "Applicaziuns web da &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Chattà naginas applicaziuns web">
 
+<!ENTITY choose_file "Tscherner ina datoteca">
 
+<!ENTITY url_bar_default_text2 "Tschertgar u endatar in'adressa">
 
+<!ENTITY bookmark "Segnapagina">
+<!ENTITY bookmark_remove "Allontanar il segnapagina">
+<!ENTITY bookmark_added "Agiuntà il segnapagina">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Gia marcà sco segnapagina">
+<!ENTITY bookmark_removed "Allontanà il segnapagina">
+<!ENTITY bookmark_updated "Actualisà il segnapagina">
 <!ENTITY bookmark_options "Opziuns">
 
+<!ENTITY history_today_section "Oz">
+<!ENTITY history_yesterday_section "Ier">
+<!ENTITY history_week_section3 "Ultims 7 dis">
+<!ENTITY history_this_month_section "Quest mais">
+<!ENTITY history_older_section3 "Pli vegl che 6 mais">
 
+<!ENTITY go "Siglir a">
+<!ENTITY search "Tschertgar">
+<!ENTITY reload "Rechargiar">
+<!ENTITY forward "Renviar">
+<!ENTITY menu "Menu">
+<!ENTITY back "Enavos">
+<!ENTITY stop "Fermar">
+<!ENTITY site_security "Segirezza da la pagina">
+<!ENTITY edit_mode_cancel "Interrumper">
 
+<!ENTITY close_tab "Serrar il tab">
+<!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; tabs">
+<!ENTITY new_tab_opened "Avert in nov tab">
+<!ENTITY new_private_tab_opened "Avert in nov tab privat">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "MIDAR">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -34,28 +97,44 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Fa ir tun – &formatS;">
 
+<!ENTITY settings "Preferenzas">
+<!ENTITY settings_title "Preferenzas">
+<!ENTITY pref_category_general "General">
+<!ENTITY pref_category_general_summary2 "Partenza, lingua, trav d'adressas">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Lingua">
+<!ENTITY pref_category_language_summary "Midar la lingua da tes navigatur">
+<!ENTITY pref_browser_locale "Lingua dal navigatur">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!ENTITY locale_system_default "Standard dal sistem">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Agiuntar a &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Segnapagina">
+<!ENTITY overlay_share_reading_list_btn_label "Agiuntar a la glista da lectura">
+<!ENTITY overlay_share_bookmark_btn_label_already "Gia marcà sco segnapagina">
+<!ENTITY overlay_share_reading_list_btn_label_already "Gia en la glista da lectura">
+<!ENTITY overlay_share_send_other "Trametter ad auters apparats">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Trametter ad in auter apparat">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
