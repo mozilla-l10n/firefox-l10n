@@ -9,12 +9,12 @@
 
 <!ENTITY  notificationsPolicy.label            "اعلانات">
 
-
+<!ENTITY  notificationsPolicyDesc3.label       "انتخاب کیجیئے کونسی سائٹس کو آپ کو اطلاع ارسال کرنے کی اجازت ہے">
 <!ENTITY  notificationsPolicyButton.accesskey  "ا">
 <!ENTITY  notificationsPolicyButton.label      "انتخاب کریں…">
 <!ENTITY  notificationsDoNotDisturb.label      "مجھے خلل نہ ڈالیے">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-
+<!ENTITY  notificationsDoNotDisturbDetails.value "جب تک آپ &brandShortName; دوباره شروع نہیں کرتے تب تک اطلاعت نہیں دکھائی دینگے">
 
 <!ENTITY  popupExceptions.label       "استثنیات…">
 <!ENTITY  popupExceptions.accesskey   "ا">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM مواد چلائیں ">
 <!ENTITY  playDRMContent.accesskey     "چ">
-
+<!ENTITY  playDRMContent.learnMore.label "مزید سیکھیں">
