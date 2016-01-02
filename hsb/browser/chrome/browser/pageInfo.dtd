@@ -28,8 +28,8 @@
 
 <!ENTITY  mediaTab              "Medije">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "Městno:">
-<!ENTITY  mediaText             "Nawjazany tekst:">
+<!ENTITY  mediaLocation         "Adresa:">
+<!ENTITY  mediaText             "Přisłušny tekst:">
 <!ENTITY  mediaAltHeader        "Alternatiwny tekst">
 <!ENTITY  mediaAddress          "Adresa">
 <!ENTITY  mediaType             "Typ">
