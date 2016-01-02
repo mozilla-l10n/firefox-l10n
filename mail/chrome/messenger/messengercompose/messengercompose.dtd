@@ -78,11 +78,11 @@
 <!ENTITY pasteCmd.accesskey "V">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.accesskey "i">
 <!ENTITY deleteCmd.label "Smazat">
 <!ENTITY deleteCmd.accesskey "m">
 <!ENTITY editRewrapCmd.label "Zalomit">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "i">
 <!ENTITY renameAttachmentCmd.label "Přejmenovat přílohu…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Vybrat vše">
@@ -217,9 +217,9 @@
 <!ENTITY spellingButton.tooltip "Zkontroluje pravopis vybrané části nebo celé zprávy">
 <!ENTITY statusLanguageText.tooltip "Jazyk kontroly pravopisu">
 <!ENTITY saveButton.tooltip "Uloží tuto zprávu">
-<!ENTITY cutButton.tooltip "Vyjmout">
-<!ENTITY copyButton.tooltip "Kopírovat">
-<!ENTITY pasteButton.tooltip "Vložit">
+<!ENTITY cutButton.tooltip              "Vyjmout">
+<!ENTITY copyButton.tooltip             "Kopírovat">
+<!ENTITY pasteButton.tooltip            "Vložit">
 <!ENTITY printButton.tooltip "Vytiskne zprávu">
 
 <!-- Headers -->
@@ -306,3 +306,6 @@
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adresář">
 
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Nastavení adresy odesílatele…">
+<!ENTITY customizeFromAddress.accesskey "a">
