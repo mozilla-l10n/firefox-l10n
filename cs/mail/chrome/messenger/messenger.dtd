@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
@@ -63,9 +63,9 @@
 <!ENTITY renameFolder.accesskey "P">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Provést údržbu složek">
-<!ENTITY compactFolders.accesskey "b">
+<!ENTITY compactFolders.accesskey    "b">
 <!ENTITY emptyTrashCmd.label "Vysypat koš">
-<!ENTITY emptyTrashCmd.accesskey "y">
+<!ENTITY emptyTrashCmd.accesskey    "y">
 <!ENTITY offlineMenu.label "Režim offline">
 <!ENTITY offlineMenu.accesskey "f">
 <!ENTITY offlineGoOfflineCmd.label "Pracovat offline">
@@ -333,25 +333,25 @@
 <!ENTITY newNewMsgCmd.accesskey "Z">
 <!ENTITY archiveMsgCmd.label "Archivovat">
 <!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "Zrušit zprávu">
 <!ENTITY cancelNewsMsgCmd.accesskey "u">
 <!ENTITY replyMsgCmd.label "Odpovědět">
 <!ENTITY replyMsgCmd.accesskey "O">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Odpovědět pouze odesílateli">
 <!ENTITY replySenderCmd.accesskey "i">
 <!ENTITY replyNewsgroupCmd2.label "Odpovědět do diskusní skupiny">
-<!ENTITY replyNewsgroupCmd2.accesskey "y">
+<!ENTITY replyNewsgroupCmd2.accesskey  "y">
 <!ENTITY replyToAllMsgCmd.label "Odpovědět všem">
-<!ENTITY replyToAllMsgCmd.accesskey "d">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "d">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Odpovědět do konference">
-<!ENTITY replyToListMsgCmd.accesskey "f">
+<!ENTITY replyToListMsgCmd.accesskey  "f">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Přeposlat">
 <!ENTITY forwardMsgCmd.accesskey "l">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Přeposlat jako">
 <!ENTITY forwardAsMenu.accesskey "j">
 <!ENTITY forwardAsInline.label "Vložená">
@@ -456,10 +456,10 @@
 <!ENTITY activitymanager.accesskey "k">
 <!ENTITY imAccountsStatus.label "Stav chatu">
 <!ENTITY imAccountsStatus.accesskey "u">
-<!ENTITY imStatus.available "Dostupný">
-<!ENTITY imStatus.unavailable "Nedostupný">
-<!ENTITY imStatus.offline "Offline">
-<!ENTITY imStatus.showAccounts "Zobrazit účty…">
+<!ENTITY imStatus.available          "Dostupný">
+<!ENTITY imStatus.unavailable        "Nedostupný">
+<!ENTITY imStatus.offline            "Offline">
+<!ENTITY imStatus.showAccounts       "Zobrazit účty…">
 <!ENTITY joinChatCmd.label "Chatovat…">
 <!ENTITY joinChatCmd.accesskey "v">
 <!ENTITY savedFiles.label "Uložené soubory">
@@ -816,7 +816,7 @@
      not changed
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (search.label.base):
+<!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box.  We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
@@ -825,7 +825,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Hledat… #1">
+<!ENTITY search.label.base1 "Hledat #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -897,17 +897,17 @@
 <!ENTITY zoomWindow.label "Zvětšit okno">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label "Předvolby">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "Služby">
-<!ENTITY hideThisAppCmdMac.label "Skrýt &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Skrýt ostatní">
+<!ENTITY preferencesCmdMac2.label       "Předvolby">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Služby">
+<!ENTITY hideThisAppCmdMac.label        "Skrýt &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Skrýt ostatní">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Zobrazit vše">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Zobrazit vše">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Nastavení ikony aplikace…">

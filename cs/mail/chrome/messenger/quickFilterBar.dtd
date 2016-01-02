@@ -28,7 +28,7 @@
      controls whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
-         "Lišta rychlého filtru">        
+         "Lišta rychlého filtru">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
@@ -150,7 +150,7 @@
 <!ENTITY quickFilterBar.resultsLabel.minWidth
          "100">
 
-<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base1):
      This is the base of the empty text for the text search box.  We replace
      #1 with the contents of the appropriate
      quickFilterBar.textbox.emptyText.keyLabel.* value for the platform.
@@ -158,8 +158,8 @@
      the messages and that there is a hotkey they can press to get to the
      box faster.
      -->
-<!ENTITY quickFilterBar.textbox.emptyText.base
-         "Filtrovat tyto zprávy… #1">
+<!ENTITY quickFilterBar.textbox.emptyText.base1
+         "Filtrovat tyto zprávy #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
@@ -180,7 +180,7 @@
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
          "&lt;&#x21E7;&#x2318;K&gt;">
-         
+
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
@@ -204,7 +204,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAll.tooltip "Pro splnění kritéria musí být obsaženy všechny ze zvolených štítků">         
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Pro splnění kritéria musí být obsaženy všechny ze zvolených štítků">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
