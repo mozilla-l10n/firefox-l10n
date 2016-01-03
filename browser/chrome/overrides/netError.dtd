@@ -19,30 +19,43 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Impussibel da chattar l'adressa">
-<!ENTITY dnsNotFound.longDesc "<p>Impussibel da chattar il server da host da l'adressa dumandada.</p><ul><li>Has ti fatg in sbagl da scriver cun endatar l'adressa? (per exempel <q><strong>ww</strong>.mozilla.org</q> empè da <q><strong>www</strong>.mozilla.org</q>)</li><li> Es ti segir che l'adressa exista? La registraziun pudess esser scrudada.</li><li>Na pos ti era betg chargiar autras websites? Controllescha tias configuraziuns dal server DNS e quellas da la connexiun a la rait.</li><li>Èn tes computer u tia rait protegids d'ina firewall u d'in proxy? Configuraziuns falladas pon disturbar l'access al web.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Controllescha sche l'adressa cuntegna sbagls da tippar sco 
+    <strong>ww</strong>.example.com enstagl da
+    <strong>www</strong>.example.com</li>
+  <li>Sch'i na va era betg da chargiar autras paginas, controllescha la connexiun a la rait dal 
+    computer.</li>
+  <li>Sche tes computer u tia rait èn protegids dad ina firewall u in proxy, controllescha 
+    che &brandShortName; dastga acceder il web.</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "Impussibel da chattar la datoteca">
-<!ENTITY fileNotFound.longDesc "<ul><li>Forsa è l'endataziun vegnida renumnada, stizzada u spustada? </li><li>Cuntegna l'adressa in sbagl ortografic, in sbagl da scripziun grond e pitschen u in auter sbagl da scriver? </li><li>Has ti ils dretgs d'access correspundents per chargiar l'endataziun dumandada?</li></ul>">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Controllescha sch'il num da datoteca cuntegna in sbagl da scripziun grond u pitschen u auters sbagls da tippar.</li>
+  <li>Controllescha sche la datoteca è vegnida renumnada, stizzada u spustada.</li>
+</ul>">
 
 
-<!ENTITY generic.title "Impussibel d'exequir la dumonda">
-<!ENTITY generic.longDesc "<p>Ulteriuras infurmaziuns davart quest problem u questa errur n'èn per il mument betg disponiblas.</p>">
+<!ENTITY generic.title "Oh Dieu!">
+<!ENTITY generic.longDesc "<p>&brandShortName; na po betg chargiar questa pagina per tscherts motivs.</p>">
 
-<!ENTITY malformedURI.title "Adressa nunvalida">
+<!ENTITY malformedURI.title "L'adressa è nunvalida">
 <!ENTITY malformedURI.longDesc "
  <ul>
-   <li>Adressas d'internet vegnan normalmain scrittas uschia
-     <strong>http://www.exempel.ch/</strong></li>
+   <li>Adressas d'internet vegnan normalmain scrittas uschia:
+     <strong>http://www.example.com/</strong></li>
    <li>Controllescha che ti has utilisà stritgs diagonals che mussan enavant (q.v.d.
      <strong>/</strong>).</li>
  </ul>
 ">
 
-<!ENTITY netInterrupt.title "La transmissiun da datas è interrutta">
+<!ENTITY netInterrupt.title "La connexiun è interrutta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document scrudà">
-<!ENTITY notCached.longDesc "<p>Il document dumandà n'è betg disponibel en il cache da &brandShortName;.</p><ul><li>Sco mesira da protecziun na rechargia &brandShortName; betg automaticamain documents sensibels.</li><li>Clicca sin 'Empruvar danovamain' per rechargiar il document da la website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Il document dumandà n'è betg disponibel en il cache da &brandShortName;.</p><ul><li>Sco mesira da precauziun na rechargia &brandShortName; betg automaticamain documents delicats.</li><li>Clicca sin Empruvar danovamain per rechargiar il document da la website.</li></ul>">
 
 <!ENTITY netOffline.title "Modus offline">
 <!ENTITY netOffline.longDesc2 "
