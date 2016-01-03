@@ -135,39 +135,109 @@
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "Trametter ad in auter apparat">
+<!ENTITY overlay_share_select_device "Tscherner l'apparat">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Chattà nagin apparat collià cun il conto da Firefox">
 
+<!ENTITY pref_category_search3 "Tschertgar">
+<!ENTITY pref_category_search_summary "Persunalisar tes servetschs da tschertga">
+<!ENTITY pref_category_accessibility "Agids d\'access">
+<!ENTITY pref_category_accessibility_summary2 "Grondezza dal text, zoom, endataziun vocala">
+<!ENTITY pref_category_privacy_short "Sfera privata">
+<!ENTITY pref_category_privacy_summary3 "Fastizar, cookies, decisiuns areguard datas">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Davart &brandShortName;, dumondas frequentas, resun">
+<!ENTITY pref_category_datareporting "Decisiuns areguard datas">
 <!ENTITY pref_learn_more "Ulteriuras infurmaziuns">
+<!ENTITY pref_category_installed_search_engines "Maschinas da tschertgar installadas">
+<!ENTITY pref_category_add_search_providers "Agiuntar dapli servetschs da tschertga">
+<!ENTITY pref_category_search_restore_defaults "Restaurar las maschinas da tschertgar">
+<!ENTITY pref_search_restore_defaults "Restaurar il standard">
+<!ENTITY pref_search_restore_defaults_summary "Restaurar il standard">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint "TIP: Ti pos agiuntar mintga pagina d'internet a la glista dals servetschs da tschertga cun smatgar ditg sin il champ da tschertgar e lura tutgar l'icona &formatI;.">
+<!ENTITY pref_category_advanced "Avanzà">
+<!ENTITY pref_category_advanced_summary2 "Restaurar tabs, plug-ins, utensils per sviluppaders">
+<!ENTITY pref_developer_remotedebugging "Debugging a distanza">
+<!ENTITY pref_developer_remotedebugging_usb "Debugging a distanza via USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Debugging a distanza via WLAN">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Per utilisar il debugging a distanza via WLAN sto tes apparat disponer dad ina applicaziun per leger codes QR.">
+<!ENTITY pref_remember_signons2 "Memorisar infurmaziuns d'annunzia">
+<!ENTITY pref_open_external_urls_privately_title "Avrir colliaziuns en il modus privat">
+<!ENTITY pref_open_external_urls_privately_summary "Per tut las colliaziuns externas avertas en &brandShortName;">
+<!ENTITY pref_manage_logins "Administrar las infurmaziuns d'annunzia">
 
+<!ENTITY pref_category_home "Pagina da partenza">
+<!ENTITY pref_category_home_summary "Persunalisescha tia pagina da partenza">
+<!ENTITY pref_category_home_panels "Panelas">
+<!ENTITY home_add_panel_title "Agiuntar ina nova panela">
+<!ENTITY home_add_panel_empty "Perstgisa, nus n\'avain chattà nagina panela per agiuntar per tai.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "Agiuntà \'&formatS;\' a la pagina da partenza">
+<!ENTITY pref_category_home_content_settings "Preferenzas dal cuntegn">
+<!ENTITY pref_home_updates "Actualisaziuns automaticas">
+<!ENTITY pref_home_updates_enabled "Activà">
+<!ENTITY pref_home_updates_wifi "Mo via WLAN">
+<!ENTITY pref_home_suggested_sites "Mussar propostas da paginas">
+<!ENTITY pref_home_suggested_sites_summary "Mussar scursanidas a paginas sin tia pagina da partenza che nus considerain sco interessantas">
+<!ENTITY pref_category_home_homepage "Pagina da partenza">
+<!ENTITY home_homepage_title "Definir ina pagina da partenza">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Partenza da &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Persunalisà">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Endatescha ina adressa u in term da tschertgar">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "General">
+<!ENTITY pref_header_search "Tschertgar">
+<!ENTITY pref_header_privacy_short "Sfera privata">
+<!ENTITY pref_header_accessibility "Agids d\'access">
+<!ENTITY pref_header_advanced "Avanzà">
+<!ENTITY pref_header_help "Agid">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Activà">
+<!ENTITY pref_cookies_not_accept_foreign "Activà, senza tals da terzs">
+<!ENTITY pref_cookies_disabled "Deactivà">
 
+<!ENTITY pref_tap_to_load_images_title2 "Mussar maletgs">
+<!ENTITY pref_tap_to_load_images_enabled "Adina">
+<!ENTITY pref_tap_to_load_images_data "Mo via WLAN">
+<!ENTITY pref_tap_to_load_images_disabled2 "Bloccà">
 
+<!ENTITY pref_tracking_protection_title "Protecziun cunter il fastizar">
+<!ENTITY pref_tracking_protection_summary3 "Activà en il modus privat">
+<!ENTITY pref_donottrack_title "Betg suandar mes fastizs">
+<!ENTITY pref_donottrack_summary "&brandShortName; infurmescha paginas che ti na veglias betg vegnir fastizà">
 
+<!ENTITY pref_tracking_protection_enabled "Activà">
+<!ENTITY pref_tracking_protection_enabled_pb "Activà en il modus privat">
+<!ENTITY pref_tracking_protection_disabled "Deactivà">
 
+<!ENTITY tracking_protection_prompt_title "Ussa cun protecziun cunter il fastizar">
+<!ENTITY tracking_protection_prompt_text "Bloccar activamain elements che fastizeschan per che ti na stos betg t\'occupar dad els.">
+<!ENTITY tracking_protection_prompt_tip_text "Visita las preferenzas per la sfera privata per ulteriuras infurmaziuns">
+<!ENTITY tracking_protection_prompt_action_button "Chapì!">
 
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
