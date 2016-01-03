@@ -239,24 +239,57 @@
 <!ENTITY tracking_protection_prompt_tip_text "Visita las preferenzas per la sfera privata per ulteriuras infurmaziuns">
 <!ENTITY tracking_protection_prompt_action_button "Chapì!">
 
+<!ENTITY tab_queue_toast_message3 "Memorisà il tab en &brandShortName;">
+<!ENTITY tab_queue_toast_action "Avrir ussa">
+<!ENTITY tab_queue_prompt_title "Avrir pliras colliaziuns?">
+<!ENTITY tab_queue_prompt_tip_text2 "Ti pos midar questa tscherna en las preferenzas">
+<!ENTITY tab_queue_prompt_positive_action_button "Activar">
+<!ENTITY tab_queue_prompt_negative_action_button "Betg ussa">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; spetgan">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 tab spetga">
 
+<!ENTITY pref_char_encoding "Codaziun da caracters">
+<!ENTITY pref_char_encoding_on "Mussar il menu">
+<!ENTITY pref_char_encoding_off "Betg mussar il menu">
+<!ENTITY pref_clear_private_data "Stizzar las datas privatas">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Stizzar ussa">
+<!ENTITY pref_clear_on_exit_title3 "Stizzar las datas privatas cun serrar">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vegn adina a stizzar automaticamain tias datas sche ti tschernas \u0022Serrar\u0022 en il menu principal">
+<!ENTITY pref_clear_on_exit_dialog_title "Tscherna las datas che duain vegnir stizzadas">
+<!ENTITY pref_plugins "Plug-ins">
+<!ENTITY pref_plugins_enabled "Activà">
+<!ENTITY pref_plugins_tap_to_play "Tutgar per far ir">
+<!ENTITY pref_plugins_disabled "Deactivà">
+<!ENTITY pref_text_size "Grondezza da la scrittira">
+<!ENTITY pref_restore_tabs "Restaurar ils tabs">
+<!ENTITY pref_restore_always "Adina restaurar">
+<!ENTITY pref_restore_quit "Betg restaurar suenter serrar &brandShortName;">
+<!ENTITY pref_font_size_tiny "Pitschnin">
+<!ENTITY pref_font_size_small "Pitschen">
+<!ENTITY pref_font_size_medium "Mesaun">
+<!ENTITY pref_font_size_large "Grond">
+<!ENTITY pref_font_size_xlarge "Fitg grond">
+<!ENTITY pref_font_size_set "Definir">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_media_autoplay_enabled "Adina far ir automaticamain">
 
 
 
