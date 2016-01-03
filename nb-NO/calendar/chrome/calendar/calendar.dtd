@@ -149,7 +149,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Marker valgte oppgaver som fullførte">
 <!ENTITY calendar.task.priority.button.tooltip  "Endre prioritet">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrer oppgaver … #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Filtrer oppgaver #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Skift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
