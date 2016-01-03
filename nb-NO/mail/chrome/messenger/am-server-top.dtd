@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Se etter nye meldinger hvert">
 <!ENTITY biffStart.accesskey "e">
 <!ENTITY biffEnd.label "minutt">
+<!ENTITY useIdleNotifications.label "Tillat umiddelbare servervarsler når nye meldinger mottas">
+<!ENTITY useIdleNotifications.accesskey "T">
 <!ENTITY connectionSecurity.label "Tilkoblingssikkerhet:">
 <!ENTITY connectionSecurity.accesskey "o">
 <!ENTITY connectionSecurityType-0.label "Ingen">
