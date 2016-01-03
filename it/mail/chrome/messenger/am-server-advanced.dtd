@@ -9,8 +9,6 @@
 <!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "Il server supporta cartelle contenenti altre cartelle e messaggi">
 <!ENTITY dualUseFolders.accesskey "s">
-<!ENTITY useIdle.label "Utilizza il comando IDLE se supportato dal server">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Numero massimo di collegamenti verso il server da tenere in cache">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!ENTITY namespaceDesc.label "Queste preferenze definiscono i domini sul server IMAP">
@@ -22,10 +20,10 @@
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Permetti al server di sovrascrivere questi domini">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "Quando si scarica la posta da questo server utilizzare la seguente cartella per memorizzarla:">
-<!ENTITY accountDirectory.label "Posta in arrivo per l'account di questo server">
-<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY pop3DeferringDesc.label "Quando si scaricano la posta dal server di questo account, utilizzare la seguente cartella per memorizzare i nuovi messaggi:">
+<!ENTITY accountInbox.label "Posta in arrivo per questo account">
+<!ENTITY accountInbox.accesskey "I">
 <!ENTITY deferToServer.label "Posta in arrivo di un altro account.">
-<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Includi questo account durante la ricezione della posta">
 <!ENTITY deferGetNewMail.accesskey "I">

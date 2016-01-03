@@ -701,7 +701,7 @@
 <!ENTITY contextUnmute.label "Attiva audio">
 <!ENTITY contextUnmute.accesskey "A">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY search.label.base "Ricerca… #1">
+<!ENTITY search.label.base1 "Cerca #1">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
 <!ENTITY AddToAddressBook.label "Aggiungi in rubrica…">
@@ -718,6 +718,8 @@
 <!ENTITY SendMessageTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Copia indirizzo email">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNameAndEmailAddress.label "Copia nome e indirizzo di posta">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Copia nome del gruppo di discussione">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copia URL del gruppo di discussione">
