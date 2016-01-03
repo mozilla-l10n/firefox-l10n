@@ -743,9 +743,9 @@ import qilinmoqda">
 <!ENTITY restrictable_feature_advanced_settings "Qo‘shimcha moslamalar">
 <!ENTITY restrictable_feature_advanced_settings_description "Unga xatcho‘plarni import qilish, ichki oynalarni tiklash va avtomatik yangilashlar ham kiradi. Soddalashtirilgan sozlamalarnni o‘chirib qo‘yish har qanday oila a’zosi uchun mos keladi.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera va mikrofon">
-
+<!ENTITY restrictable_feature_camera_microphone_description "Oila a’zolariga veb saytlarda real vaqtda bog‘lanish imkonini beradi.">
 <!ENTITY restrictable_feature_data_choices "Ma’lumotlar tanlovi">
-
+<!ENTITY restrictable_feature_data_choices_description "Firefox brauzerini yaxshilashda yordam berish uchun Mozillaga foydalanilgan ma’lumotlarni jo‘natish yoki jo‘natmaslikni tanlang.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -762,4 +762,7 @@ import qilinmoqda">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "Kechirasiz! &brandShortName; brauzerining ayni shu versiyasi ushbu qurilmada (&formatS1;, &formatS2;) ishlamaydi. Boshqa versiyasini yuklab oling.">
 
+<!ENTITY eol_notification_title "&brandShortName; endi Android 3 tizimida ishlamaydi">
+<!ENTITY eol_notification_summary "Batafsil ma’lumot olish uchun bosing">
