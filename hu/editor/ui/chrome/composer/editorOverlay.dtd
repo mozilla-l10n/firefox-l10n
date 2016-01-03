@@ -84,18 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Méret">
 <!ENTITY fontSizeMenu.accesskey "r">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY size-tinyCmd.label "Apró">
+<!ENTITY size-tinyCmd.accesskey "A">
+<!ENTITY size-smallCmd.label "Kicsi">
+<!ENTITY size-smallCmd.accesskey "c">
+<!ENTITY size-mediumCmd.label "Közepes">
+<!ENTITY size-mediumCmd.accesskey "z">
+<!ENTITY size-largeCmd.label "Nagy">
+<!ENTITY size-largeCmd.accesskey "N">
+<!ENTITY size-extraLargeCmd.label "Nagyon nagy">
+<!ENTITY size-extraLargeCmd.accesskey "o">
+<!ENTITY size-hugeCmd.label "Hatalmas">
+<!ENTITY size-hugeCmd.accesskey "H">
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Szöveg stílusa">
@@ -311,6 +311,8 @@
 <!ENTITY throbber.tooltip "Ugrás a &vendorShortName; honlapjára">
 <!ENTITY HighlightColorButton.tooltip "Szövegkiemelésre használt szín kiválasztása">
 <!-- Editor toolbar -->
+
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Betűméret beállítása">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Kisebb betűméret">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Nagyobb betűméret">
 <!ENTITY boldToolbarCmd.tooltip "Félkövér">
