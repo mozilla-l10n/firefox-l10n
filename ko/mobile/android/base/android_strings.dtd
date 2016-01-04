@@ -101,6 +101,8 @@
 
 <!ENTITY settings "프로그램 설정">
 <!ENTITY settings_title "프로그램 설정">
+<!ENTITY pref_category_general "일반">
+<!ENTITY pref_category_general_summary2 "홈, 언어, URL창">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -146,6 +148,8 @@
 <!ENTITY pref_category_accessibility_summary2 "텍스트 크기, 확대/축소, 음성 입력">
 <!ENTITY pref_category_privacy_short "개인 정보">
 <!ENTITY pref_category_privacy_summary3 "추적, 쿠키, 데이터 선택">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName;소개, FAQ, 피드백">
 <!ENTITY pref_category_datareporting "데이터 선택">
 <!ENTITY pref_learn_more "더 알아보기">
 <!ENTITY pref_category_installed_search_engines "설치된 검색 엔진">
@@ -190,17 +194,21 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; 홈">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "사용자">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "주소나 검색어 입력">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "일반">
 <!ENTITY pref_header_search "검색">
 <!ENTITY pref_header_privacy_short "개인 정보">
 <!ENTITY pref_header_accessibility "접근성">
@@ -256,6 +264,7 @@
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "지금 삭제">
+<!ENTITY pref_clear_on_exit_title3 "나갈 때 개인 데이터 삭제">
 <!ENTITY pref_clear_on_exit_summary2 "주 메뉴를 통해 \u0022종료\u0022 시킬때 마다 &brandShortName;가 자동으로 정보를 삭제합니다">
 <!ENTITY pref_clear_on_exit_dialog_title "삭제할 정보 선택">
 <!ENTITY pref_plugins "플러그인">
@@ -288,7 +297,9 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "항상 줌 활성화">
 <!ENTITY pref_zoom_force_enabled_summary "어느 페이지든 항상 줌을 할 수 있도록 설정">
 <!ENTITY pref_voice_input "음성 입력">
+<!ENTITY pref_voice_input_summary2 "제목창에 음성 입력 허가">
 <!ENTITY pref_qrcode_enabled "QR 코드 리더">
+<!ENTITY pref_qrcode_enabled_summary2 "제목창에 QR 스캐너 허가">
 
 <!ENTITY pref_use_master_password "기본 암호 사용">
 <!ENTITY pref_sync2 "로그인">
@@ -720,9 +731,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_addons_installation "부가 기능">
+<!ENTITY restrictable_feature_private_browsing "사생활 보호 브라우징">
+<!ENTITY restrictable_feature_clear_history "방문목록 지우기">
+<!ENTITY restrictable_feature_clear_history_description "가족 구성원이 그들이 방문한 페이지와 사이트 정보를 삭제 할 수 있도록 허용합니다.">
 <!ENTITY restrictable_feature_advanced_settings "고급 설정">
 <!ENTITY restrictable_feature_camera_microphone "카메라와 마이크">
 <!ENTITY restrictable_feature_data_choices "데이터 선택">
+<!ENTITY restrictable_feature_data_choices_description "Firefox 성능 향상을 위해 Mozilla에 사용 정보를 보낼지 여부를 선택합니다.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -740,3 +756,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_title "&brandShortName;는 더이상 Android 3을 지원하지 않습니다">
+<!ENTITY eol_notification_summary "탭해서 자세히 보기">
