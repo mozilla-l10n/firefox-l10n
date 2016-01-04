@@ -299,13 +299,44 @@ size. -->
 <!ENTITY pref_voice_input "Endataziun vocala">
 <!ENTITY pref_voice_input_summary2 "Permetter da dictar en la trav d'adressas">
 <!ENTITY pref_qrcode_enabled "Lectur da codes QR">
+<!ENTITY pref_qrcode_enabled_summary2 "Permetter da scannar codes QR en la trav d'adressas">
+
+<!ENTITY pref_use_master_password "Utilisar in pled-clav universal">
+<!ENTITY pref_sync2 "S'annunziar">
+<!ENTITY pref_sync_summary2 "Sincronisar tes tabs, segnapaginas, infurmaziuns d'annunzia, cronologia">
+<!ENTITY pref_search_suggestions "Mussar propostas da tschertga">
+<!ENTITY pref_history_search_suggestions "Mussar la cronologia da tschertgar">
+<!ENTITY pref_import_options "Opziuns d'import">
+<!ENTITY pref_import_android_summary "Importar segnapaginas e la cronologia dal navigatur da standard">
+<!ENTITY pref_private_data_history2 "Cronologia da la navigaziun">
+<!ENTITY pref_private_data_searchHistory "Cronologia da tschertgas">
+<!ENTITY pref_private_data_formdata2 "Cronologia da formulars">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; annunzias activas">
+<!ENTITY pref_private_data_passwords2 "Infurmaziuns d'annunzia memorisadas">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_offlineApps "Datas da websites offline">
+<!ENTITY pref_private_data_siteSettings2 "Configuraziun per la website">
+<!ENTITY pref_private_data_downloadFiles2 "Telechargiadas">
+<!ENTITY pref_private_data_syncedTabs "Tabs sincronisads">
 
 
+<!ENTITY pref_about_firefox "Davart &brandShortName;">
+<!ENTITY pref_vendor_faqs "Dumondas frequentas">
+<!ENTITY pref_vendor_feedback "Dar in resun">
 
+<!ENTITY pref_dialog_set_default "Definir sco standard">
+<!ENTITY pref_dialog_default "Standard">
+<!ENTITY pref_dialog_remove "Allontanar">
 
+<!ENTITY pref_search_last_toast "Ti na pos betg allontanar u deactivar l\'ultima maschina da tschertgar.">
 
+<!ENTITY pref_panels_show "Mussar">
+<!ENTITY pref_panels_hide "Zuppentar">
+<!ENTITY pref_panels_reorder "Midar la successiun">
+<!ENTITY pref_panels_move_up "Spustar ensi">
+<!ENTITY pref_panels_move_down "Spustar engiu">
 
-
+<!ENTITY datareporting_notification_title "Statistica &amp; datas da &brandShortName;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
