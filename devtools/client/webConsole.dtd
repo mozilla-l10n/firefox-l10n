@@ -102,3 +102,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Otvoriť v zobrazení Premenné">
 <!ENTITY openInVarViewCmd.accesskey "P">
+<!ENTITY storeAsGlobalVar.label "Uložiť ako globálnu premennú">
+<!ENTITY storeAsGlobalVar.accesskey "U">

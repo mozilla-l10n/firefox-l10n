@@ -79,17 +79,42 @@
      current node -->
 <!ENTITY inspectorHTMLDelete.label          "Odstrániť uzol">
 <!ENTITY inspectorHTMLDelete.accesskey      "d">
+<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     attribute items, which allow to:
+     - add new attribute
+     - edit attribute
+     - remove attribute -->
+<!ENTITY inspectorAttributeSubmenu.label      "Atribút">
+<!ENTITY inspectorAttributeSubmenu.accesskey  "A">
+
+<!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users add attribute
+     to current node -->
+<!ENTITY inspectorAddAttribute.label        "Pridať atribút">
+<!ENTITY inspectorAddAttribute.accesskey    "A">
+
+<!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users edit attribute
+     for current node -->
+<!ENTITY inspectorEditAttribute.label        "Upraviť atribút">
+<!ENTITY inspectorEditAttribute.accesskey    "U">
+
+<!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users delete attribute
+     from current node -->
+<!ENTITY inspectorRemoveAttribute.label        "Odstrániť atribút">
+<!ENTITY inspectorRemoveAttribute.accesskey    "O">
 
 <!ENTITY inspector.selectButton.tooltip     "Výber prvku pomocou myši">
 
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
      the placeholder in inspector search box -->
-<!ENTITY inspectorSearchHTML.label2         "Hľadať pomocou selektorov CSS">
+<!ENTITY inspectorSearchHTML.label2          "Hľadať pomocou selektorov CSS">
 <!ENTITY inspectorSearchHTML.key            "F">
 
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
-     be shown as the placeholder in the future, once the inspector search box
-     supports the full text HTML search in Bug 835896. -->
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
+     shown as the placeholder for the markup view search in the inspector. -->
 <!ENTITY inspectorSearchHTML.label3 "Hľadať v HTML">
 
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
@@ -125,3 +150,8 @@
      shown in the inspector contextual-menu for the item that lets users take
      a screenshot of the currently selected node. -->
 <!ENTITY inspectorScreenshotNode.label       "Vytvoriť snímku uzla">
+
+<!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users
+     duplicate the currently selected node. -->
+<!ENTITY inspectorDuplicateNode.label       "Duplikovať uzol">
