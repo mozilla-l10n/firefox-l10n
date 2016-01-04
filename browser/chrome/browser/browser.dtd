@@ -660,8 +660,3 @@
 <!ENTITY emeNotificationsNotNow.accesskey "A">
 <!ENTITY emeNotificationsDontAskAgain.label "No preguntarme de nuevo">
 <!ENTITY emeNotificationsDontAskAgain.accesskey "N">
-<!ENTITY saveToPocketCmd.label "Guardar página en Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label "Guardar enlace en Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label "Ver lista de Pocket">
