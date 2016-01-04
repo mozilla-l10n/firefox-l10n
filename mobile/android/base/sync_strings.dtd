@@ -170,4 +170,4 @@
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "¿Terminar actualización de &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Toque para iniciar sesión como &formatS;">
 <!ENTITY old_sync_deprecated_notification_title "Inicie sesión para continuar sincronizando">
-<!ENTITY old_sync_deprecated_notification_content "Su cuenta ya no es compatible">
+<!ENTITY old_sync_deprecated_notification_content "Su cuenta ya no se admite">
