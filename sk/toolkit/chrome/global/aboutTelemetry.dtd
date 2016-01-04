@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Starší ping &gt;&gt;">
 
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "Týždeň">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -54,7 +55,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "Neskoré zápisy">
 
-<!ENTITY aboutTelemetry.systemInfoSection "Systémové informácie">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "Histogramy zozbierané doplnkami">
 
@@ -69,3 +69,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "Zobraziť nespracované údaje zo zlyhaní">
 
 <!ENTITY aboutTelemetry.filterText "Filter (reťazec alebo /regexp/)">
+

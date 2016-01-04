@@ -29,7 +29,7 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "Dokončené na &#37;">
 
-<!-- LOCALIZATON NOTE(newevent.attendees.notify.label,newevent.attendees.notifyundisclosed.label)
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Upozorniť účastníkov">
@@ -101,36 +101,36 @@
 <!ENTITY  event.menu.view.showlink.label                  "Zobraziť súvisiaci odkaz">
 <!ENTITY  event.menu.view.showlink.accesskey              "o">
 
-<!ENTITY  event.menu.options.label                        "Možnosti">
-<!ENTITY  event.menu.options.accesskey                    "M">
-<!ENTITY  event.menu.options.attendees.label              "Pozvať účastníkov…">
-<!ENTITY  event.menu.options.attendees.accesskey          "P">
-<!ENTITY  event.menu.options.timezone2.label              "Zobraziť časové pásma">
-<!ENTITY  event.menu.options.timezone2.accesskey          "a">
-<!ENTITY  event.menu.options.priority2.label              "Priorita">
-<!ENTITY  event.menu.options.priority2.accesskey          "r">
+<!ENTITY  event.menu.options.label                            "Možnosti">
+<!ENTITY  event.menu.options.accesskey                        "M">
+<!ENTITY  event.menu.options.attendees.label                  "Pozvať účastníkov…">
+<!ENTITY  event.menu.options.attendees.accesskey              "P">
+<!ENTITY  event.menu.options.timezone2.label                  "Zobraziť časové pásma">
+<!ENTITY  event.menu.options.timezone2.accesskey              "a">
+<!ENTITY  event.menu.options.priority2.label                  "Priorita">
+<!ENTITY  event.menu.options.priority2.accesskey              "r">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Neurčená">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "u">
-<!ENTITY  event.menu.options.priority.low.label           "Nízka">
-<!ENTITY  event.menu.options.priority.low.accesskey       "N">
-<!ENTITY  event.menu.options.priority.normal.label        "Normálna">
-<!ENTITY  event.menu.options.priority.normal.accesskey    "o">
-<!ENTITY  event.menu.options.priority.high.label          "Vysoká">
-<!ENTITY  event.menu.options.priority.high.accesskey      "V">
-<!ENTITY  event.menu.options.privacy.label                "Súkromie">
-<!ENTITY  event.menu.options.privacy.accesskey            "S">
-<!ENTITY  event.menu.options.privacy.public.label         "Verejná udalosť">
-<!ENTITY  event.menu.options.privacy.public.accesskey     "V">
-<!ENTITY  event.menu.options.privacy.confidential.label   "Zobraziť iba dátum a čas">
-<!ENTITY  event.menu.options.privacy.confidential.accesskey "Z">
-<!ENTITY  event.menu.options.privacy.private.label        "Súkromná udalosť">
-<!ENTITY  event.menu.options.privacy.private.accesskey    "S">
-<!ENTITY  event.menu.options.show.time.label              "Zobraziť čas ako">
-<!ENTITY  event.menu.options.show.time.accesskey          "Z">
-<!ENTITY  event.menu.options.show.time.busy.label         "Zaneprázdnený">
-<!ENTITY  event.menu.options.show.time.busy.accesskey     "Z">
-<!ENTITY  event.menu.options.show.time.free.label         "Voľný">
-<!ENTITY  event.menu.options.show.time.free.accesskey     "V">
+<!ENTITY  event.menu.options.priority.low.label               "Nízka">
+<!ENTITY  event.menu.options.priority.low.accesskey           "N">
+<!ENTITY  event.menu.options.priority.normal.label            "Normálna">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "o">
+<!ENTITY  event.menu.options.priority.high.label              "Vysoká">
+<!ENTITY  event.menu.options.priority.high.accesskey          "V">
+<!ENTITY  event.menu.options.privacy.label                    "Súkromie">
+<!ENTITY  event.menu.options.privacy.accesskey                "S">
+<!ENTITY  event.menu.options.privacy.public.label             "Verejná udalosť">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "V">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Zobraziť iba dátum a čas">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "Z">
+<!ENTITY  event.menu.options.privacy.private.label            "Súkromná udalosť">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "S">
+<!ENTITY  event.menu.options.show.time.label                  "Zobraziť čas ako">
+<!ENTITY  event.menu.options.show.time.accesskey              "Z">
+<!ENTITY  event.menu.options.show.time.busy.label             "Zaneprázdnený">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "Z">
+<!ENTITY  event.menu.options.show.time.free.label             "Voľný">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "V">
 
 <!ENTITY event.invite.attendees.label                     "Pozvať účastníkov…">
 <!ENTITY event.invite.attendees.accesskey                 "P">
@@ -138,6 +138,9 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Napísať e-mail pre nerozhodnutých účastníkov…">
 <!ENTITY event.email.tentative.attendees.accesskey        "N">
+<!ENTITY event.remove.attendees.label                     "Odstrániť všetkých účastníkov...">
+<!ENTITY event.remove.attendees.accesskey                 "O">
+<!ENTITY event.remove.attendee.label                      "Odstrániť účastníka">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Uložiť a zavrieť">
@@ -188,7 +191,6 @@
 <!ENTITY event.description.accesskey                      "P">
 <!ENTITY event.attachments.label                          "Prílohy:" >
 <!ENTITY event.attachments.accesskey                      "h" >
-
 <!ENTITY event.attachments.menubutton.label               "Pripojiť">
 <!ENTITY event.attachments.menubutton.accesskey           "i">
 <!ENTITY event.attachments.url.label                      "Webová stránka…">
@@ -221,7 +223,7 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Čas ako:">
 <!ENTITY event.statusbarpanel.privacy.label               "Súkromie:">
-    
+
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Úprava opakovaní">
 
@@ -251,7 +253,7 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Každý" >
 <!ENTITY repeat.units.months.both                       "mesiac" >
-<!ENTITY event.recurrence.monthly.every.label           "Každý">
+<!ENTITY event.recurrence.monthly.every.label           "Každý" >
 <!ENTITY event.recurrence.monthly.first.label           "Prvý">
 <!ENTITY event.recurrence.monthly.second.label          "Druhý">
 <!ENTITY event.recurrence.monthly.third.label           "Tretí">
@@ -337,9 +339,9 @@
 <!ENTITY event.freebusy.button.previous.slot    "Predchádzajúci vhodný čas">
 <!ENTITY event.freebusy.zoom                    "Zmena veľkosti:">
 <!ENTITY event.freebusy.legend.free             "Voľný" >
+<!ENTITY event.freebusy.legend.busy             "Zaneprázdnený" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Neistý" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Mimo kancelárie" >
-<!ENTITY event.freebusy.legend.busy             "Zaneprázdnený" >
 <!ENTITY event.freebusy.legend.unknown          "Žiadne informácie" >
 <!ENTITY event.attendee.role.required           "Vyžadovaná účasť">
 <!ENTITY event.attendee.role.optional           "Voliteľná účasť">
@@ -349,6 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "Skupina">
 <!ENTITY event.attendee.usertype.resource       "Prostriedok">
 <!ENTITY event.attendee.usertype.room           "Miestnosť">
+<!ENTITY event.attendee.usertype.unknown        "Neznáme">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Spresnite časové pásmo">
