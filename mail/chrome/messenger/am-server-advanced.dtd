@@ -22,6 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "네임스페이스를 우선하도록 서버 허가">
 <!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3DeferringDesc.label "이 계정 서버에서 메일을 다운로드 받을 때, 새 메시지를 아래 폴더에 저장:" >
+<!ENTITY accountInbox.label "이 계정의 받은 편지함">
+<!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "다른 POP3 계정의 받은 편지함">
 <!ENTITY deferToServer.accesskey "D">
 <!ENTITY deferGetNewMail.label "새 메일이 도착하면 이 서버도 포함">

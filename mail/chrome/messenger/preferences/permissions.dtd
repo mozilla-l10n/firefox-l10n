@@ -21,5 +21,8 @@
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "닫기">
-<!ENTITY button.close.accesskey       "C">
+<!ENTITY button.cancel.label          "취소">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "변경사항 저장">
+<!ENTITY button.ok.accesskey          "S">
+
