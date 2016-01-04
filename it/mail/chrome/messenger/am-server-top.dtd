@@ -16,6 +16,8 @@
 <!ENTITY biffStart.label "Controlla nuovi messaggi ogni ">
 <!ENTITY biffStart.accesskey "n">
 <!ENTITY biffEnd.label "minuti">
+<!ENTITY useIdleNotifications.label "Consentire la notifica immediata da parte del server quando arriva un nuovo messaggio">
+<!ENTITY useIdleNotifications.accesskey "C">
 <!ENTITY connectionSecurity.label "Sicurezza della connessione:">
 <!ENTITY connectionSecurity.accesskey "d">
 <!ENTITY connectionSecurityType-0.label "Nessuna">
