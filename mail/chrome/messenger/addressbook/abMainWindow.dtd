@@ -6,7 +6,7 @@
 <!ENTITY blankResultsPaneMessage.label "Per questa rubrica verranno visualizzati i contatti solo dopo una ricerca">
 <!ENTITY localResultsOnlyMessage.label "I contatti da rubriche remote non sono visualizzati fino a quando non si effettua una ricerca">
 <!ENTITY fileMenu.label "File">
-<!ENTITY fileMenu.accesskey "f">
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nuovo">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newContact.label "Contatto rubrica…">
@@ -20,12 +20,12 @@
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "Messaggio">
 <!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.accesskey "m">
+<!ENTITY newMessageCmd.accesskey "M">
 <!ENTITY osxAddressBook.label "Utilizza la rubrica di Mac OS X">
 <!ENTITY osxAddressBook.accesskey "O">
 <!ENTITY closeCmd.label "Chiudi">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY printSetupCmd.label "Imposta pagina…">
 <!ENTITY printSetupCmd.accesskey "p">
 <!ENTITY printPreviewContactCmd.label "Stampa anteprima contatto">
@@ -41,16 +41,16 @@
 <!ENTITY editMenu.accesskey "M">
 <!ENTITY undoCmd.label "Annulla">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
+<!ENTITY undoCmd.accesskey "U">
 <!ENTITY redoCmd.label "Ripeti">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Taglia">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copia">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Incolla">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "I">
@@ -65,7 +65,7 @@
 <!ENTITY selectAllCmd.label "Seleziona tutto">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY swapFirstNameLastNameCmd.label "Scambia Nome/Cognome">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "m">
 <!ENTITY hideSwapFnLnUI "true">
@@ -73,7 +73,7 @@
 <!ENTITY propertiesCmd2.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY viewMenu.label "Visualizza">
-<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Barre degli strumenti">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY menubarCmd.label "Barra del menu">
@@ -91,7 +91,7 @@
 <!ENTITY showContactPane2.label "Riquadro contatti">
 <!ENTITY showContactPane2.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "Mostra nomi come">
-<!ENTITY menu_ShowNameAs.accesskey "n">
+<!ENTITY menu_ShowNameAs.accesskey "N">
 <!ENTITY firstLastCmd2.label "Nome Cognome">
 <!ENTITY firstLastCmd2.accesskey "N">
 <!ENTITY lastFirstCmd.label "Cognome, Nome">
@@ -125,6 +125,8 @@
 <!ENTITY newmsgButton.accesskey "S">
 <!ENTITY newIM.label "Messaggio istantaneo">
 <!ENTITY newIM.accesskey "M">
+<!ENTITY printButton.label "Stampa…">
+<!ENTITY printButton.accesskey "m">
 <!ENTITY deleteButton2.label "Elimina">
 <!ENTITY deleteButton2.accesskey "E">
 <!ENTITY newContactButton.tooltip "Crea un nuovo contatto in rubrica">

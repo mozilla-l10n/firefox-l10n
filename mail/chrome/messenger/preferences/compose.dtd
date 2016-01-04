@@ -23,6 +23,8 @@
 <!ENTITY bgColor.accesskey "l">
 <!ENTITY restoreHTMLDefaults.label "Ripristina predefiniti">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
+<!ENTITY enterKeyCreatesNewParagraph.label "Quando si utilizza il formato paragrafo, il tasto Invio crea un nuovo paragrafo">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 <!ENTITY spellCheck.label "Controlla ortografia prima di inviare">
 <!ENTITY spellCheck.accesskey "C">
 <!ENTITY spellCheckInline.label "Attiva il controllo ortografico durante la digitazione">

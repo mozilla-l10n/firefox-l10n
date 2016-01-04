@@ -266,3 +266,5 @@
 <!ENTITY spellAddDictionaries.label "Aggiungi dizionari…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY addressesSidebarTitle.label "Contatti">
+<!ENTITY customizeFromAddress.label "Personalizza il campo Da…">
+<!ENTITY customizeFromAddress.accesskey "D">
