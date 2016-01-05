@@ -273,3 +273,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
+<!ENTITY old_sync_deprecated_notification_title "সিঙ্ক অব্যাহত রাখতে সাইন ইন করুন">
+<!ENTITY old_sync_deprecated_notification_content "আপনার অ্যাকাউন্ট আর সাপোর্ট করে না">
