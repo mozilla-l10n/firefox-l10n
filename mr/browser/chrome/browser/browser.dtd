@@ -40,7 +40,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "टॅबचे पिन अशक्य करा">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToNewWindow.label              "नविन पटलाकडे हलवा">
+<!ENTITY  moveToNewWindow.label              "नवीन पटलाकडे हलवा">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "सर्व टॅब्जना वाचनखूण लावा…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
@@ -51,7 +51,7 @@ can reach it easily. -->
 
 <!ENTITY  listAllTabs.label      "सर्व टॅब्स्ची सूची">
 
-<!ENTITY tabCmd.label "नविन टॅब">
+<!ENTITY tabCmd.label "नवीन टॅब">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "आपल्याला पासवर्ड साठवायचा असेल तर चेक बॉक्स वर क्लीक करा">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "ॲप प्रस्थापीत केलेल्याचा संदेश दर्शवा">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "या पृष्ठावर प्लगईन्सच्या वापराचे व्यवस्थापन करा">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "साईटने आपल्याला सूचना दर्शवाव्या किंवा कसे यासाठी योग्य बदल करा">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "साइटवर आपला कॅमेरा आणि /किंवा मायक्रोफोन शेअर करण्याचे व्यवस्थापन करा">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "आपण आत्ता या साईटसोबत आपला कॅमेरा अाणि माईक्रोफोन शेअर करत आहात.">
@@ -331,7 +331,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "फाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "नविन Container टॅब">
+<!ENTITY newUserContext.label             "नवीन Container टॅब">
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY userContextPersonal.label        "Personal">
 <!ENTITY userContextPersonal.accesskey    "P">
@@ -341,10 +341,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY userContextBanking.accesskey     "B">
 <!ENTITY userContextShopping.label        "Shopping">
 <!ENTITY userContextShopping.accesskey    "S">
-<!ENTITY newNavigatorCmd.label        "नविन पटल">
+<!ENTITY newNavigatorCmd.label        "नवीन पटल">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "नविन वैयक्तिक पटल">
+<!ENTITY newPrivateWindow.label     "नवीन वैयक्तिक पटल">
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "नवीन Non-e10s विंडो">
 
@@ -410,17 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाजूच्यापट्टीचे दृष्य">
 <!ENTITY appMenuHelp.tooltip "मदत मेन्यु उघडा">
 
-
+<!ENTITY appMenuRemoteTabs.label "ताळमेळीत टॅब्स">
+<!ENTITY appMenuRemoteTabs.fetching.label "ताळमेळ झालेले टॅब्स मिळवित आहे…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "उघडे टॅब्स नाहीत">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "तुमच्या इतर उपकरणावरुन या उपकरणावर टॅब्स पाहण्यासाठी टॅब सींकींग सक्रीय करा.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "तुमच्या इतर उपकरणावरुन येथे टॅब्स पाहण्यासाठी Firefox मध्ये साइन इन करा.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "ताळमेळ प्राधान्यता">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "तुमच्या इतर उपकरणावरुन टॅब्स पाहण्यासाठी साइन इन करा.">
+<!ENTITY appMenuRemoteTabs.signin.label "सींक करणयासाठी साइन इन करा">
 
 <!ENTITY customizeMenu.addToToolbar.label "साधनपट्टीमध्ये समाविष्ट करा">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -510,22 +514,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "शोध सेटिंग बदला">
 
-<!ENTITY searchInNewTab.label         "नविन टॅबमध्ये शोधा">
+<!ENTITY searchInNewTab.label         "नवीन टॅबमध्ये शोधा">
 <!ENTITY searchInNewTab.accesskey     "ट">
 <!ENTITY searchSetAsDefault.label     "मुलभूत शोध इंजिन संचित करा">
 <!ENTITY searchSetAsDefault.accesskey "म">
 
-<!ENTITY openLinkCmdInTab.label       "दुवा नविन टॅबमध्ये उघडा">
+<!ENTITY openLinkCmdInTab.label       "दुवा नवीन टॅबमध्ये उघडा">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "दुव्याला नवीन पटलात उघडा">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "नविन वैयक्तिक पटलात दुवा उघडा">
+<!ENTITY openLinkInPrivateWindowCmd.label "नवीन वैयक्तिक पटलात दुवा उघडा">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "दुवा उघडा">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "नविन टॅबमध्ये चौकट उघडा">
+<!ENTITY openFrameCmdInTab.label      "नवीन टॅबमध्ये चौकट उघडा">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "चौकटाला नविन पटलात उघडा">
+<!ENTITY openFrameCmd.label           "चौकटाला नवीन पटलात उघडा">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "फक्त ही चौकट दाखवा">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -785,6 +789,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "ब्राउजर टॅब्स्">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
+<!ENTITY syncTabsMenu3.label     "ताळमेळीत टॅब्स">
+
 <!ENTITY syncBrand.shortName.label    "ताळमेळ">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; मध्ये साईन इन करा...">
@@ -916,7 +922,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteCookies           "अलीकडील <html:strong>कुकीज</html:strong> काढा">
 <!ENTITY panicButton.view.deleteHistory           "अलिकडील <html:strong>इतिहास</html:strong>नष्ट करा">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "सगळे <html:strong>टॅब</html:strong> आणि <html:strong>पटल</html:strong> बंद करा">
-<!ENTITY panicButton.view.openNewWindow           "नविन पटल उघडा">
+<!ENTITY panicButton.view.openNewWindow           "नवीन पटल उघडा">
 
 <!ENTITY panicButton.view.undoWarning             "ही कृती रद्द करणे अशक्य.">
 <!ENTITY panicButton.view.forgetButton            "विसरा!">

@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "URL ला नविन टॅबमध्ये उघडा">
+<!ENTITY openURL.label     "URL ला नवीन टॅबमध्ये उघडा">
 <!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.

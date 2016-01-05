@@ -196,7 +196,7 @@ values from browser.dtd.  -->
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogs.label    "दीर्घस्थायी लॉग्स सुरू करा">
-<!ENTITY options.enablePersistentLogs.tooltip  "ह्या पर्यायचा वापर केल्यास नविन पृष्ठकरिता संचारन करताना, वेब कंसोल आणि नेटवर्क मॉनिटर आऊटपुट नष्ट होणार नाही">
+<!ENTITY options.enablePersistentLogs.tooltip  "ह्या पर्यायचा वापर केल्यास नवीन पृष्ठकरिता संचारन करताना, वेब कंसोल आणि नेटवर्क मॉनिटर आऊटपुट नष्ट होणार नाही">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
