@@ -53,8 +53,8 @@ their language.
 
 <!ENTITY tabgroupsmigration.tabtitle            "तुमचे दुसरे टॅब गट स्थलांतरित करा">
 <!ENTITY tabgroupsmigration.pagetitle2          "आम्ही आपले टॅब गट काढून टाकले आहेत पण टॅब ठेवल्या आहेत">
-
-
-
-
+<!ENTITY tabgroupsmigration.learnaboutaddons    "टॅब गट बदलासाठीच्या ॲड-ऑन्स् संबंधी जाणून घ्या.">
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; ने आपले सर्व गट बुकमार्क केले आहेत. त्यामुळे आपण काहीही गमाविले नाही.">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "बुकमार्क केलेले सर्व टॅब गट दर्शवा">
+<!ENTITY tabgroupsmigration.restoredescription  "आता आपण, सर्व बॅकग्राउंड गट किंवा त्यातील काही भाग विंडोज मध्ये पुनर्संचयित करू शकता:">
 

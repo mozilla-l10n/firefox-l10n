@@ -10,8 +10,8 @@
      on web development on the web. -->
 
 
-<!ENTITY newButton.label            "नविन">
-<!ENTITY newButton.tooltip          "दस्तऐवजकरिता नविन स्टाइल शीट निर्माण करा व समाविष्ट करा">
+<!ENTITY newButton.label            "नवीन">
+<!ENTITY newButton.tooltip          "दस्तऐवजकरिता नवीन स्टाइल शीट निर्माण करा व समाविष्ट करा">
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "आयात करा…">
@@ -58,7 +58,7 @@
 <!ENTITY noStyleSheet-tip-start.label  "कदाचित तुम्हाला हे करायचे असेल ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
-<!ENTITY noStyleSheet-tip-action.label "नविन स्टाइल शीट समाविष्ट करा">
+<!ENTITY noStyleSheet-tip-action.label "नवीन स्टाइल शीट समाविष्ट करा">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the

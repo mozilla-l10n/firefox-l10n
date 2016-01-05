@@ -25,7 +25,7 @@
 <!ENTITY fileMenu.label               "फाइल">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "नविन पटल">
+<!ENTITY newWindowCmd.label           "नवीन पटल">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 

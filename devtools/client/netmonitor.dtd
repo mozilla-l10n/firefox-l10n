@@ -347,7 +347,7 @@
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
 
-<!ENTITY netmonitorUI.context.newTab      "नविन टॅबमध्ये उघडा">
+<!ENTITY netmonitorUI.context.newTab      "नवीन टॅबमध्ये उघडा">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->
