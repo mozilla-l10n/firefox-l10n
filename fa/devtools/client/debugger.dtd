@@ -64,59 +64,73 @@
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
-
+<!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 
+<!ENTITY debuggerUI.showOnlyEnum           "تنها ویژیگی های قابل شمارش را نمایش بده">
+<!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
+<!ENTITY debuggerUI.showOriginalSource           "نمایش منابع اصلی">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
 
+<!ENTITY debuggerUI.autoBlackBox           "کوچک‌سازی خودکار منابع جعبه سیاه">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
 <!ENTITY debuggerUI.searchPanelOperators    "عملگرها:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
+
+<!ENTITY debuggerUI.searchFile           "فیلتر اسکریپت‌ها">
 <!ENTITY debuggerUI.searchFile.key       "P">
-
-
+<!ENTITY debuggerUI.searchFile.altkey    "O">
+<!ENTITY debuggerUI.searchFile.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
 <!ENTITY debuggerUI.searchGlobal           "جست‌وجوی همه‌ی سندها">
-
-
+<!ENTITY debuggerUI.searchGlobal.key       "F">
+<!ENTITY debuggerUI.searchGlobal.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
-
+<!ENTITY debuggerUI.searchFunction           "جست‌و‌جو برای توابع تعریف شده">
+<!ENTITY debuggerUI.searchFunction.key       "D">
+<!ENTITY debuggerUI.searchFunction.accesskey "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
 <!ENTITY debuggerUI.searchToken           "پیدا کردن">
-
-
+<!ENTITY debuggerUI.searchToken.key       "F">
+<!ENTITY debuggerUI.searchToken.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
 <!ENTITY debuggerUI.searchGoToLine           "رفتن به سطر…">
-
-
+<!ENTITY debuggerUI.searchGoToLine.key       "L">
+<!ENTITY debuggerUI.searchGoToLine.accesskey "L">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 
-
+<!ENTITY debuggerUI.searchVariable           "فیلتر متغیر‌ها">
+<!ENTITY debuggerUI.searchVariable.key       "V">
+<!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
-
+<!ENTITY debuggerUI.focusVariables           "تمرکز بر روی درخت متغییرها">
+<!ENTITY debuggerUI.focusVariables.key       "V">
+<!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
