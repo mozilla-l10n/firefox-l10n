@@ -762,5 +762,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "দুঃখিত! &brandShortName; (&formatS1;, &formatS2;) এই ডিভাইসে কাজ করছে না। অনুগ্রহ করে সাম্প্রতিকতম সংস্করণ ডাউনলোড করুন।">
+
 <!ENTITY eol_notification_title "&brandShortName; অ্যান্ড্রয়েড 3 সমর্থন করে না।">
 <!ENTITY eol_notification_summary "আরও জানতে ট্যাপ করুন">
