@@ -4,7 +4,7 @@
 
 <!ENTITY dialog.title "Opzioni di invio">
 <!ENTITY sendMail.title "Formato testo">
-<!ENTITY autoDowngrade.label "Invia i messaggi come testo semplice, se possibile">
+<!ENTITY autoDowngrade.label "Se possibile invia i messaggi come testo semplice.">
 <!ENTITY autoDowngrade.accesskey "t">
 <!ENTITY sendMaildesc.label "Quando si inviano messaggi in HTML e uno o più destinatari non sono elencati come in grado di ricevere HTML:">
 <!ENTITY askMe.label "Chiedi che cosa fare">

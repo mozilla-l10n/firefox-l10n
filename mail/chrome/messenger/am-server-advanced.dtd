@@ -20,7 +20,7 @@
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Permetti al server di sovrascrivere questi domini">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3DeferringDesc.label "Quando si scaricano la posta dal server di questo account, utilizzare la seguente cartella per memorizzare i nuovi messaggi:">
+<!ENTITY pop3DeferringDesc.label "Quando si scarica la posta dal server di questo account, utilizzare la seguente cartella per memorizzare i nuovi messaggi:">
 <!ENTITY accountInbox.label "Posta in arrivo per questo account">
 <!ENTITY accountInbox.accesskey "I">
 <!ENTITY deferToServer.label "Posta in arrivo di un altro account.">
