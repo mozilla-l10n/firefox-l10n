@@ -339,6 +339,9 @@ size. -->
 <!ENTITY datareporting_notification_title "Statistica &amp; datas da &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Tscherna las infurmaziuns che ti vuls cundivider">
 <!ENTITY datareporting_notification_action "Tscherner tge che vegn cundividì">
+<!ENTITY datareporting_notification_summary "Per meglierar il product trametta &brandShortName; automaticamain tschertas infurmaziuns a &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Per meglierar il product trametta &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -346,16 +349,51 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "Analisa da la sanadad da &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Cundivida datas davart la «sanadad» da tes navigatur cun &vendorShortName; e gida da chapir la prestaziun dal navigatur">
+<!ENTITY datareporting_abouthr_title "Mussar l'analisa da sanadad">
+<!ENTITY datareporting_telemetry_title "Telemetria">
+<!ENTITY datareporting_telemetry_summary "Cundivida datas davart la prestaziun, utilisaziun, hardware e persunalisaziun da tes navigatur cun &vendorShortName; per gidar a meglierar &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; trametta rapports davart collaps per gidar &vendorShortName; da meglierar la stabilitad e la segirezza dal navigatur">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Rapportader da collaps">
+<!ENTITY datareporting_wifi_title2 "Servetsch da posiziun da &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Gida a &vendorShortName; da cartografar il mund! Cundivida la posiziun da WLAN e da cellas da telefonia mobila da tes apparat per meglierar il servetsch da posiziun.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Actualisaziuns automaticas">
+<!ENTITY pref_update_autodownload_wifi "Mo via WLAN">
+<!ENTITY pref_update_autodownload_never "Mai">
+<!ENTITY pref_update_autodownload_always "Adina">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Agid">
 
+<!ENTITY quit "Serrar">
 
+<!ENTITY addons "Supplements">
+<!ENTITY logins "Infurmaziuns d'annunzia">
+<!ENTITY downloads "Telechargiadas">
+<!ENTITY char_encoding "Codaziun da caracters">
 
+<!ENTITY share "Cundivider">
+<!ENTITY share_title "Cundivider via">
+<!ENTITY share_image_failed "Impussibel da cundivider questa grafica">
+<!ENTITY save_as_pdf "Memorisar sco PDF">
+<!ENTITY print "Stampar">
+<!ENTITY find_in_page "Tschertgar en la pagina">
+<!ENTITY desktop_mode "Chargiar la pagina per visurs gronds">
+<!ENTITY page "Pagina">
+<!ENTITY tools "Utensils">
+<!ENTITY new_tab "Nov tab">
+<!ENTITY new_private_tab "Nov tab privat">
+<!ENTITY close_all_tabs "Serrar tut ils tabs">
+<!ENTITY close_private_tabs "Serrar ils tabs privats">
+<!ENTITY tabs_normal "Tabs">
+<!ENTITY tabs_private "Privat">
+<!ENTITY tabs_synced "Sincronisà">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
