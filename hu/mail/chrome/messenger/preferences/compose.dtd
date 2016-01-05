@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "H">
 <!ENTITY restoreHTMLDefaults.label            "Alapértelmezett értékek visszaállítása">
 <!ENTITY restoreHTMLDefaults.accesskey        "A">
-
-
+<!ENTITY enterKeyCreatesNewParagraph.label    "Bekezdésformázás használatakor az Enter billentyű új bekezdést készít ">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "k">
 
 <!ENTITY spellCheck.label                     "Helyesírás ellenőrzése küldés előtt">
 <!ENTITY spellCheck.accesskey                 "H">

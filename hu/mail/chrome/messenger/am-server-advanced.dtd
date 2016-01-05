@@ -22,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "M">
 <!ENTITY overrideNamespaces.label "A kiszolgáló felülírhatja ezeket a névtartományokat">
 <!ENTITY overrideNamespaces.accesskey "A">
-
-
-
+<!ENTITY pop3DeferringDesc.label "A fiók kiszolgálójáról való levélletöltéskor a következő mappa használata új levelek tárolására:" >
+<!ENTITY accountInbox.label "Fiók beérkezett üzenetek mappája">
+<!ENTITY accountInbox.accesskey "F">
 <!ENTITY deferToServer.label "Másik postafiók Beérkezett üzenetek mappája">
 <!ENTITY deferToServer.accesskey "M">
 <!ENTITY deferGetNewMail.label "Kiszolgáló lekérdezése új levelek letöltésekor">
