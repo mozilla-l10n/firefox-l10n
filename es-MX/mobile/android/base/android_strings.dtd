@@ -101,11 +101,13 @@
 
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
-
+<!ENTITY pref_category_general "General">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Idioma">
 <!ENTITY pref_category_language_summary "Cambiar el idioma de tu navegador">
 <!ENTITY pref_browser_locale "Idioma del navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,12 +144,12 @@
 
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar tus proveedores de búsqueda">
-
-
+<!ENTITY pref_category_accessibility "Accesibilidad">
+<!ENTITY pref_category_accessibility_summary2 "Tamaño de texto, enfoque, entrada de voz">
 <!ENTITY pref_category_privacy_short "Privacidad">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "Rastreo, cookies, elección de datos">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Acerca de &brandShortName;, preguntas frecuentes, retroalimentación">
 <!ENTITY pref_category_datareporting "Elección de datos">
 <!ENTITY pref_learn_more "Saber más">
 <!ENTITY pref_category_installed_search_engines "Motores de búsqueda instalados">
@@ -161,8 +163,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSEJO: Agrega cualquier sitio web a la lista de proveedores de búsqueda con una presión larga en su campo de búsqueda y luego tocando el ícono &formatI;.">
-
-
+<!ENTITY pref_category_advanced "Avanzado">
+<!ENTITY pref_category_advanced_summary2 "Restaurar pestañas, extensiones, herramientas de desarrollador">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota vía USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota vía Wi-Fi">
@@ -182,7 +184,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 agregado a página de inicio">
 <!ENTITY pref_category_home_content_settings "Configuraciones de contenido">
-
+<!ENTITY pref_home_updates "Actualizaciones automáticas">
 <!ENTITY pref_home_updates_enabled "Habilitado">
 <!ENTITY pref_home_updates_wifi "Solo sobre Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Mostrar sugerencias de sitio">
@@ -192,19 +194,22 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; Inicio">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Personalizado">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Ingresa la dirección o término de búsqueda">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_privacy_short "Privacidad">
-
+<!ENTITY pref_header_accessibility "Accesibilidad">
 
 <!ENTITY pref_header_help "Ayuda">
 
@@ -213,6 +218,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo a terceros">
 <!ENTITY pref_cookies_disabled "Deshabiltado">
 
+<!ENTITY pref_tap_to_load_images_title2 "Mostrar imágenes">
 
 
 
@@ -250,11 +256,11 @@
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
 <!ENTITY pref_char_encoding_off "No mostrar menú">
-
+<!ENTITY pref_clear_private_data "Borrar datos privados">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Limpiar ahora">
-
+<!ENTITY pref_clear_on_exit_title3 "Borrar datos privados al salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automáticamente limpiará tus datos siempre que selecciones \u0022Quit\u0022 desde el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccionar que datos limpiar">
 
@@ -262,7 +268,7 @@
 <!ENTITY pref_plugins_tap_to_play "Presiona para jugar">
 <!ENTITY pref_plugins_disabled "Deshabilitado">
 <!ENTITY pref_text_size "Tamaño de texto">
-
+<!ENTITY pref_restore_tabs "Restaurar pestañas">
 <!ENTITY pref_restore_always "Siempre restaurar">
 <!ENTITY pref_restore_quit "No restaurar después de salir de &brandShortName;">
 <!ENTITY pref_font_size_tiny "Diminuto">
@@ -707,17 +713,17 @@ desde Android">
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
+<!ENTITY restrictable_feature_addons_installation_description "Añadir características o funcionalidades a Firefox. Nota: Los complementos pueden desactivar ciertas restricciones.">
 <!ENTITY restrictable_feature_private_browsing "Navegación Privada">
+<!ENTITY restrictable_feature_private_browsing_description "Permite a los miembros de la familia navegar sin guardar información sobre los sitios y las páginas que han visitado.">
+<!ENTITY restrictable_feature_clear_history "Borrar historial">
+<!ENTITY restrictable_feature_clear_history_description "Permite a los miembros de la familia eliminar información sobre los sitios y páginas que han visitado.">
+<!ENTITY restrictable_feature_advanced_settings "Configuraciones avanzadas">
 
+<!ENTITY restrictable_feature_camera_microphone "Cámara y micrófono">
+<!ENTITY restrictable_feature_camera_microphone_description "Permite a los miembros de la familia participar en la comunicación en tiempo real en los sitios web.">
 
-
-
-
-
-
-
-
+<!ENTITY restrictable_feature_data_choices_description "Elige si deseas o no enviar información de uso a Mozilla para ayudar a hacer Firefox mejor.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -734,4 +740,5 @@ desde Android">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_title "&brandShortName; ya no es compatible con Android 3">
+<!ENTITY eol_notification_summary "Toca para obtener más información">
