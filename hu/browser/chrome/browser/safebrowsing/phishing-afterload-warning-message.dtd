@@ -22,5 +22,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "A(z) <span id='phishing_sitename'/> címen működő weboldalról bejelentés érkezett, hogy hamisított weboldal, ezért a biztonsági beállítások alapján a böngésző a hozzáférést nem engedélyezi.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>A hamisított webhelyek úgy próbálnak személyes vagy pénzügyi adatokat kicsalni, hogy a felhasználó által megbízható webhelyeket utánoznak.</p><p>Bármilyen adat megadása egy ilyen webhelyen identitáslopáshoz vagy más visszaéléshez vezethet.</p>">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "Tiltott oldal">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "A(z) <span id='forbidden_sitename'/> című weboldal blokkolva lett a böngésző biztonsági beállításai alapján.">
 

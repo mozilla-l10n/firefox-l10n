@@ -32,4 +32,4 @@ valaki megpiszkálta a kapcsolatot.</b>">
 <!ENTITY certerror.expert.contentPara2 "Ne adjon hozzá kivételt, kivéve ha 
 tudja, hogy jó oka van annak, hogy ez a webhely nem megbízható azonosítást használ.">
 <!ENTITY certerror.addException.label "Kivétel hozzáadása…">
-
+<!ENTITY certerror.copyToClipboard.label "Szöveg másolása a vágólapra">
