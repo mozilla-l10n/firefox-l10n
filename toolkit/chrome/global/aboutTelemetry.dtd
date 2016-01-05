@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "পুরাতন পিং &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "অপরিশোধিত পিং ডাটা ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "সপ্তাহ">
 
@@ -71,3 +72,4 @@
 
 <!ENTITY aboutTelemetry.filterText "  ফিল্টার (স্ট্রিং অথবা /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  পেলোড">
