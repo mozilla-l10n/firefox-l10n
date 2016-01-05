@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Thoir sùil a bheil thu airson am facal-faire agad a shàbhaladh">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Seall an teachdaireachd mu stàladh na h-aplacaid">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Stiùirich cleachdadh nam plugan air an duilleag seo">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Cuir romhad am faigh thu brathan on làrach seo gus nach fhaigh">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Stiùirich co-roinneadh a’ chamara ’s/no a’ mhicreofoin agad leis an làrach">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Tha thu a’ co-roinneadh a’ chamara ’s/no a’ mhicreofoin agad leis an làrach">
@@ -410,15 +410,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Seall bàr-taoibh na h-eachdraidh">
 <!ENTITY appMenuHelp.tooltip "Fosgail clàr-taice na cobharach">
 
-
+<!ENTITY appMenuRemoteTabs.label "Tabaichean sioncronaichte">
+<!ENTITY appMenuRemoteTabs.fetching.label "A’ faighinn nan tbaichean sioncronaichte…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Chan eil taba fosgailte">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Cuir air sioncronachadh nan tabaichean airson cothrom fhaighinn air na tabaichean agad o uidheaman eile.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Clàraich a-steach gu Firefox o na h-uidheaman eile agad gus na tabaichean uapa fhaicinn an-seo.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Roghainnean sioncronachaidh">
 
 
 
