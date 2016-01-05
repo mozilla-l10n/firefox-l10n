@@ -41,7 +41,7 @@
 <!ENTITY translateWebPages.label      "ترجمہ کریں ویب کے مواد کا">
 <!ENTITY translateWebPages.accesskey  "ت">
 <!ENTITY translateExceptions.label    "استثنیات ...">
-<!ENTITY translateExceptions.accesskey "ا">
+<!ENTITY translateExceptions.accesskey "س">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
