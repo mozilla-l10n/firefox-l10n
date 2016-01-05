@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Первый день недели:">
 <!ENTITY pref.weekstarts.accesskey "е">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Показать номер недели в обзорах и минимесяце">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "о">
 <!ENTITY pref.daysoff.label "Включить эти дни в рабочую неделю:">
 
 <!ENTITY pref.calendar.view.daystart.label "День начинается в:">

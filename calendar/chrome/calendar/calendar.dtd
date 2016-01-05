@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Задачи" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Показать выполненные задачи">
 
-<!ENTITY calendar.today.button.label       "Сегодня">
+<!ENTITY calendar.today.button.label          "Сегодня">
 <!ENTITY calendar.tomorrow.button.label       "Завтра">
-<!ENTITY calendar.soon.button.label           "Скоро">
+<!ENTITY calendar.upcoming.button.label       "Предстоящие">
 
 <!ENTITY calendar.events.filter.all.label "Все события">
 <!ENTITY calendar.events.filter.today.label "События на сегодня">
@@ -57,8 +57,8 @@
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Сортировка по продолжительности">
 <!ENTITY calendar.unifinder.close.tooltip                  "Закрыть поиск событий и список событий">
 
-<!ENTITY calendar.today.button.tooltip            "Перейти на сегодня" >
-<!ENTITY calendar.todaypane.button.tooltip        "Показать мероприятия на сегодня" >
+<!ENTITY calendar.today.button.tooltip          "Перейти на сегодня" >
+<!ENTITY calendar.todaypane.button.tooltip      "Показать мероприятия на сегодня" >
 
 <!ENTITY calendar.day.button.tooltip            "Перейти к обзору дня" >
 <!ENTITY calendar.week.button.tooltip           "Перейти к обзору недели" >
@@ -149,7 +149,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Отметить выбранные задачи как выполненные">
 <!ENTITY calendar.task.priority.button.tooltip  "Изменить приоритет">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Фильтр задач… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Фильтр задач #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
@@ -232,8 +232,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "Н">
 <!ENTITY calendar.context.findcalendar.label           "Найти календарь…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "а" >
-<!ENTITY calendar.context.deleteserver.label           "Удалить календарь">
-<!ENTITY calendar.context.deleteserver.accesskey       "У">
+<!ENTITY calendar.context.deleteserver2.label          "Удалить календарь из списка…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "л">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "Стереть календарь…">
+<!ENTITY calendar.context.removeserver.accesskey       "е">
+<!ENTITY calendar.context.unsubscribeserver.label      "Отписаться от календаря…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "п">
 <!ENTITY calendar.context.synccalendars.label          "Синхронизировать календари">
 <!ENTITY calendar.context.synccalendars.accesskey      "и">
 <!ENTITY calendar.context.publish.label                "Опубликовать календарь…">
@@ -242,6 +251,20 @@
 <!ENTITY calendar.context.export.accesskey             "Э">
 <!ENTITY calendar.context.properties.label             "Свойства">
 <!ENTITY calendar.context.properties.accesskey         "С">
+
+<!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
+     This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.showcalendar.accesskey      "а">
+
+<!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
+     This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "ы">
+
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "з">
+<!ENTITY calendar.context.showall.label                "Показать все календари">
+<!ENTITY calendar.context.showall.accesskey            "е">
 
 <!ENTITY calendar.context.convertmenu.label              "Преобразовать в">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "П">
@@ -349,4 +372,3 @@
 <!ENTITY calendar.extract.task.button          "Добавить как задачу">
 <!ENTITY calendar.extract.event.button.tooltip "Извлечь календарную информацию из сообщения и добавить в календарь как событие">
 <!ENTITY calendar.extract.task.button.tooltip  "Извлечь календарную информацию из сообщения и добавить в календарь как задачу">
-
