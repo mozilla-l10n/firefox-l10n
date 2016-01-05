@@ -91,18 +91,22 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Sólo una cuenta de &syncBrand.fullName.label; es soportada.">
-
+<!ENTITY sync.notification.configure.saved "Tus selecciones se han guardado.">
 <!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "Nombre de usuario o contraseña incorrecta.">
 <!ENTITY sync.invalidserver.label "Por favor, ingresa una dirección válida para el servidor">
-
-
+<!ENTITY sync.verifying.label "Verificando…">
+<!ENTITY sync.new.recoverykey.status.incorrect "Clave de recuperación incorrecta. Por favor, intenta nuevamente.">
 <!-- Send tab to device. -->
 
-
-
-
-
-
+<!ENTITY sync.title.send.tab.label "Enviar pestañas a los dispositivos">
+<!ENTITY sync.button.send.label "Enviar">
+<!ENTITY sync.button.set.up.sync.label "Configurar &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar &syncBrand.shortName.label; para enviar pestañas">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; en tu dispositivo para enviar pestañas a otros dispositivos.">
+<!ENTITY sync.text.tab.sent.label "¡Tu pestaña ha sido enviada!">
+<!ENTITY sync.text.tab.not.sent.label "Hubo un problema al enviar tu pestaña.">
 <!-- Firefox Account strings. -->
 
 
@@ -117,7 +121,7 @@
 <!ENTITY fxaccount_email_hint "Correo electrónico">
 <!ENTITY fxaccount_password_hint "Contraseña">
 <!ENTITY fxaccount_password_hide "Ocultar">
-
+<!ENTITY fxaccount_password_show "Mostrar">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
@@ -263,3 +267,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
+<!ENTITY old_sync_deprecated_notification_title "Inicia sesión para continuar sincronizando">
+<!ENTITY old_sync_deprecated_notification_content "Tu cuenta ya no es compatible">
