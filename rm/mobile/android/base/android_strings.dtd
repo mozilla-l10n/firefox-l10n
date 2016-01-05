@@ -337,6 +337,8 @@ size. -->
 <!ENTITY pref_panels_move_down "Spustar engiu">
 
 <!ENTITY datareporting_notification_title "Statistica &amp; datas da &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Tscherna las infurmaziuns che ti vuls cundivider">
+<!ENTITY datareporting_notification_action "Tscherner tge che vegn cundividì">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
