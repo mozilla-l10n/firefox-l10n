@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Op nieuwe berichten controleren om de">
 <!ENTITY biffStart.accesskey "c">
 <!ENTITY biffEnd.label "minuten">
+<!ENTITY useIdleNotifications.label "Directe servernotificaties toestaan als er nieuwe berichten binnenkomen">
+<!ENTITY useIdleNotifications.accesskey "D">
 <!ENTITY connectionSecurity.label "Verbindingsbeveiliging:">
 <!ENTITY connectionSecurity.accesskey "V">
 <!ENTITY connectionSecurityType-0.label "Geen">
@@ -30,7 +32,7 @@
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Authenticatiemethode:">
-<!ENTITY authMethod.accesskey "d">
+<!ENTITY authMethod.accesskey "A">
 <!ENTITY leaveOnServer.label "Berichten op de server laten">
 <!ENTITY leaveOnServer.accesskey "r">
 <!ENTITY headersOnly.label "Alleen berichtkoppen ophalen">
@@ -66,7 +68,7 @@
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "berichten">
 <!ENTITY alwaysAuthenticate.label "Altijd om authenticatie vragen bij verbinden met deze server">
-<!ENTITY alwaysAuthenticate.accesskey "a">
+<!ENTITY alwaysAuthenticate.accesskey "A">
 <!ENTITY newsrcFilePath.label "newsrc-bestand:">
 <!ENTITY newsrcPicker.label "newsrc-bestand selecteren">
 <!ENTITY abbreviate.label "Nieuwsgroepnamen in het berichtenmapvenster tonen als:">

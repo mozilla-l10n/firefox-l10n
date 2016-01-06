@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "A">
 <!ENTITY restoreHTMLDefaults.label            "Standaardwaarden herstellen">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Als u tekstopmaak Alinea gebruikt, creëert de Enter-toets een nieuwe alinea">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "E">
 
 <!ENTITY spellCheck.label                     "Spelling controleren voor het verzenden">
 <!ENTITY spellCheck.accesskey                 "c">

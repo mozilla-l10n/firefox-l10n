@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Verzendopties">
 <!ENTITY sendMail.title               "Tekstopmaak">
+<!ENTITY autoDowngrade.label          "Verzend berichten indien mogelijk als platte tekst">
+<!ENTITY autoDowngrade.accesskey      "b">
 <!ENTITY sendMaildesc.label           "Wanneer een bericht in HTML-opmaak wordt verzonden en van een of meer ontvangers is niet bekend of ze HTML kunnen ontvangen:">
 <!ENTITY askMe.label                  "Mij vragen wat te doen">
 <!ENTITY askMe.accesskey              "v">
