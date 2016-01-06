@@ -138,7 +138,7 @@
 <!ENTITY event.email.attendees.accesskey                  "С">
 <!ENTITY event.email.tentative.attendees.label            "Создать сообщение для неопределившихся участников…">
 <!ENTITY event.email.tentative.attendees.accesskey        "о">
-<!ENTITY event.remove.attendees.label                     "Удалить всех участников...">
+<!ENTITY event.remove.attendees.label                     "Удалить всех участников…">
 <!ENTITY event.remove.attendees.accesskey                 "а">
 <!ENTITY event.remove.attendee.label                      "Удалить участника">
 
@@ -351,7 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "Группа">
 <!ENTITY event.attendee.usertype.resource       "Ресурс">
 <!ENTITY event.attendee.usertype.room           "Комната">
-<!ENTITY event.attendee.usertype.unknown        "Неизвестен">
+<!ENTITY event.attendee.usertype.unknown        "Неизвестно">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Укажите часовой пояс">

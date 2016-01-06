@@ -26,8 +26,8 @@
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
-<!ENTITY calendar.removecalendar.label          "Стереть выбранный календарь…">
-<!ENTITY calendar.removecalendar.accesskey      "е">
+<!ENTITY calendar.removecalendar.label          "Удалить выбранный календарь…">
+<!ENTITY calendar.removecalendar.accesskey      "и">
 
 
 <!ENTITY calendar.menu.customize.label          "Настроить…">
