@@ -305,3 +305,7 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adresboek">
+
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Van-adres aanpassen…">
+<!ENTITY customizeFromAddress.accesskey "V">

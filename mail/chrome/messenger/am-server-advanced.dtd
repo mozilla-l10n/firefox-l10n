@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "a">
 <!ENTITY dualUseFolders.label "Server ondersteunt mappen met submappen en berichten">
 <!ENTITY dualUseFolders.accesskey "o">
-<!ENTITY useIdle.label "IDLE-opdracht gebruiken als de server het ondersteunt">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Maximumaantal serververbindingen in de buffer">
 <!ENTITY maximumConnectionsNumber.accesskey "n">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "d">
 <!ENTITY overrideNamespaces.label "Server toestaan om deze namespaces te negeren">
 <!ENTITY overrideNamespaces.accesskey "S">
-<!ENTITY pop3Desc.label "Bij het downloaden van e-mail van deze POP3-server, de volgende map voor nieuwe e-mail gebruiken:">
-<!ENTITY accountDirectory.label "Postvak IN van deze serveraccount">
-<!ENTITY accountDirectory.accesskey "P">
+<!ENTITY pop3DeferringDesc.label "Bij het downloaden van e-mail van deze POP3-server, de volgende map voor nieuwe e-mail gebruiken:">
+<!ENTITY accountInbox.label "Postvak IN van deze account">
+<!ENTITY accountInbox.accesskey "P">
 <!ENTITY deferToServer.label "Postvak IN van een andere account">
 <!ENTITY deferToServer.accesskey "r">
 <!ENTITY deferGetNewMail.label "Deze server bij het ophalen van nieuwe berichten betrekken">
