@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Сегодня">
 <!ENTITY calendar.tomorrow.button.label       "Завтра">
-<!ENTITY calendar.upcoming.button.label       "Предстоящие">
+<!ENTITY calendar.upcoming.button.label       "Скоро">
 
 <!ENTITY calendar.events.filter.all.label "Все события">
 <!ENTITY calendar.events.filter.today.label "События на сегодня">
@@ -232,14 +232,14 @@
 <!ENTITY calendar.context.newserver.accesskey          "Н">
 <!ENTITY calendar.context.findcalendar.label           "Найти календарь…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "а" >
-<!ENTITY calendar.context.deleteserver2.label          "Удалить календарь из списка…">
+<!ENTITY calendar.context.deleteserver2.label          "Удалить данные календаря…">
 <!ENTITY calendar.context.deleteserver2.accesskey      "л">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
-<!ENTITY calendar.context.removeserver.label           "Стереть календарь…">
+<!ENTITY calendar.context.removeserver.label           "Удалить календарь…">
 <!ENTITY calendar.context.removeserver.accesskey       "е">
 <!ENTITY calendar.context.unsubscribeserver.label      "Отписаться от календаря…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "п">
