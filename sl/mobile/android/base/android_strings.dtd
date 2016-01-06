@@ -735,6 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Dodatki">
+<!ENTITY restrictable_feature_addons_installation_description "Dodajte zmogljivosti Firefoxu. Opomba: dodatki lahko onemogočijo nekatere omejitve.">
 <!ENTITY restrictable_feature_private_browsing "Zasebno brskanje">
 <!ENTITY restrictable_feature_private_browsing_description "Članom družine omogoča brskanje brez shranjevanja informacij o tem, katere spletne strani so obiskali.">
 <!ENTITY restrictable_feature_clear_history "Počisti zgodovino">
