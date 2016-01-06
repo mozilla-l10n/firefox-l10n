@@ -270,3 +270,8 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Притисните да се пријавите као &formatS;'>
+
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
+<!ENTITY old_sync_deprecated_notification_title 'Пријавите се да наставите'>
+<!ENTITY old_sync_deprecated_notification_content 'Ваш налог више није подржан'>
