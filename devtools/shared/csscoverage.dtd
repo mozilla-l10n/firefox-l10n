@@ -29,7 +29,9 @@
   -  separated by a styled <link> tag and 2 and 3 separated by a styled
   -  <style> tag -->
 
-
+<!ENTITY csscoverage.optimize.body1 "Bəzən yükləndirməni sürətləndirmək üçün">
+<!ENTITY csscoverage.optimize.body2 "teqlərin yerini səhifənin aşağısına dəyişdirib">
+<!ENTITY csscoverage.optimize.body3 "yuxarıda 'load' tədbirindən əvvəl lazım olan elementləri sətiriçi stillərlə yarada bilərsiz. Ehtiyyacınız olacaq stil blokları:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
@@ -39,7 +41,7 @@
   -  bottom of the page, with 2a being the URL opened when the link text in 3
   -  is clicked -->
 
-<!ENTITY csscoverage.footer1 "Bax">
-<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
-
-
+<!ENTITY csscoverage.footer1 "Bu raportun yaradılması üçün olan xəbərdarlıq üçün">
+<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/az/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "CSS Əhatə etmə Aləti haqqında MTŞ məqaləsinə">
+<!ENTITY csscoverage.footer4 "baxın.">
