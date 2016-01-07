@@ -51,8 +51,10 @@ their language.
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
-
-
+<!ENTITY tabgroupsmigration.tabtitle            "Waše druge rejtarkowe kupki pśenosowaś">
+<!ENTITY tabgroupsmigration.pagetitle2          "Smy rejtarkowe kupki wótpórali, ale waše rejtarki składowali">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "Zgóńśo wěcej wó dodankach, kótarež narownuju rejtarkowe kupki.">
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; jo wšykne waše kupki ako cytańske znamjenja składł, až njeby nic zgubił.">
 
 
 
