@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping más antigup &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Datos sin procesar del ping data ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
 
@@ -55,6 +56,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escrituras demoradas">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  Información de la sesión">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas recopilados por complementos">
 
@@ -70,3 +72,4 @@
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (cadenas o /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Contenido">
