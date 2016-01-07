@@ -83,6 +83,7 @@
 <!ENTITY phishingBlocked.longDesc "<p>Dh&apos;fhaodadh goid do dhearbh-aithne no foill eile èirigh dhut ma bheir thu seachad fiosrachadh pearsanta sam bith air an duilleag seo</p> 
 <p>Thèid an seòrsa seo de dh&apos;fhallsaidheachd-lìn a chleachdadh ann an cam-ghnothach air a bheil &quot;fiasgach&quot; far a bheil duilleagan-lìn is puist-dhealain a&apos; gabhail orra gu bheil iad nan tùsan earbsach.</p>">
 
+<!ENTITY forbiddenBlocked.title "Làrach thoirmisgte">
 
 
 
