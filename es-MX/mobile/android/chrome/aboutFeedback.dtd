@@ -40,6 +40,8 @@
 <!ENTITY sad.placeholder           "Escribe tu opinión aquí">
 <!ENTITY sad.lastSite2             "Incluir último sitio visitado">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+
+<!ENTITY sad.urlPlaceholder        "http://">
 <!ENTITY sad.thanksHeader2         "Gracias.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -49,5 +51,7 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
-<!ENTITY feedback.privacy2         "Para tu privacidad, no incluyas ninguna información personal en tus comentarios.">
+<!ENTITY sad.thanksMessageBottom   "Si no.">
 
+<!ENTITY feedback.privacy2         "Para tu privacidad, no incluyas ninguna información personal en tus comentarios.">
+<!ENTITY feedback.send             "Enviar comentarios">

@@ -741,10 +741,10 @@ desde Android">
 <!ENTITY restrictable_feature_clear_history "Borrar historial">
 <!ENTITY restrictable_feature_clear_history_description "Permite a los miembros de la familia eliminar información sobre los sitios y páginas que han visitado.">
 <!ENTITY restrictable_feature_advanced_settings "Configuraciones avanzadas">
-
+<!ENTITY restrictable_feature_advanced_settings_description "Esto incluye importar marcadores, restaurar pestañas y actualizaciones automáticas. Desactívalo para configuraciones más simples para cualquier miembro de la familia.">
 <!ENTITY restrictable_feature_camera_microphone "Cámara y micrófono">
 <!ENTITY restrictable_feature_camera_microphone_description "Permite a los miembros de la familia participar en la comunicación en tiempo real en los sitios web.">
-
+<!ENTITY restrictable_feature_data_choices "Elección de datos">
 <!ENTITY restrictable_feature_data_choices_description "Elige si deseas o no enviar información de uso a Mozilla para ayudar a hacer Firefox mejor.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -761,6 +761,8 @@ desde Android">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+
+<!ENTITY unsupported_sdk_version "¡Lo siento! &brandShortName; no trabajará en este dispositivo (&formatS1;, &formatS2;). Por favor, descarga la versión correcta.">
 
 <!ENTITY eol_notification_title "&brandShortName; ya no es compatible con Android 3">
 <!ENTITY eol_notification_summary "Toca para obtener más información">

@@ -7,12 +7,14 @@
 
 <!ENTITY newPref.namePlaceholder       "Nombre">
 
-
-
+<!ENTITY newPref.valueBoolean          "Booleano">
+<!ENTITY newPref.valueString           "Cadena">
+<!ENTITY newPref.valueInteger          "Entero">
 
 <!ENTITY newPref.stringPlaceholder     "Ingresar una cadena">
 <!ENTITY newPref.numberPlaceholder     "Ingresar un número">
 
+<!ENTITY newPref.toggleButton          "Conmutar">
 <!ENTITY newPref.cancelButton          "Cancelar">
 
 <!ENTITY contextMenu.copyPrefName      "Copiar nombre">
