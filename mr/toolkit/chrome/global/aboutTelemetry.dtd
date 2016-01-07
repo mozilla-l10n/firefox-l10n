@@ -16,7 +16,7 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "पिंग डाटा स्रोत:">
 
-<!ENTITY aboutTelemetry.showCurrentPingData "सध्याचा पिंग डाटा">
+<!ENTITY aboutTelemetry.showCurrentPingData "सद्याचा पिंग डाटा">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "संग्रहित पिंग डाटा">
 

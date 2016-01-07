@@ -106,7 +106,7 @@
 <!ENTITY cmd.uninstallAddon.label             "काढून टाका">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.debugAddon.label                 "डिबग">
-<!ENTITY cmd.debugAddon.accesskey             "ड">
+<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "पर्याय">
 <!ENTITY cmd.showPreferencesWin.tooltip       "या ॲडऑनचे पर्याय बदला">
 <!ENTITY cmd.showPreferencesUnix.label        "पसंती">

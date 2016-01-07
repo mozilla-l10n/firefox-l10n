@@ -29,7 +29,7 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "पासवर्डज">
+<!ENTITY engine.passwords.label     "पासवर्डस्">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "पसंती">
 <!ENTITY engine.prefs.accesskey     "s">
@@ -89,7 +89,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create  "खाते निर्माण करा">
 <!ENTITY signedOut.accountBox.signin  "साइन इन">
 
-<!ENTITY signedIn.engines.label       "सगळ्या साधनांबरोबर समक्रमण करा">
+<!ENTITY signedIn.engines.label       "सर्व साधनांबरोबर समक्रमण करा">
 <!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Sync to your mobile device.
