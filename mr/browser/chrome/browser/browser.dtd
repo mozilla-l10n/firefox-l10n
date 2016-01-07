@@ -247,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "ॲडऑन्स">
+<!ENTITY addons.label                 "ॲड-ऑन्स">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "ॲप्स">
@@ -591,8 +591,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "व्हिडिओ ईमेल करा…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "उपकरणांना व्हिडिओ पाठवा">
-<!ENTITY castVideoCmd.accesskey       "प">
+<!ENTITY castVideoCmd.label           "उपकरणांना चित्रफीत पाठवा">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ऑडिओ ईमेल करा…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ह्या प्लगइनला सुरू करा">
@@ -830,7 +830,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.tabTitle "&brandShortName; पसंतीचे करा">
 <!ENTITY customizeMode.menuAndToolbars.header2 "अगाऊ साधने आणि गुणविशेष">
 <!ENTITY customizeMode.menuAndToolbars.empty "आणखी साधने पाहिजेत?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारो ॲडऑन्सपासून पसंत करा">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारो ॲड-ऑन्सपासून पसंत करा">
 <!ENTITY customizeMode.restoreDefaults "पूर्वनिर्धारित पुनःस्थापीत करा">
 <!ENTITY customizeMode.toolbars "साधनपट्ट्या दाखवा किंवा छुपे करा">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
@@ -939,8 +939,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-<!ENTITY saveToPocketCmd.label     "पृष्ठ पॉकेट मध्ये संकलित करा">
-<!ENTITY saveToPocketCmd.accesskey "प">
-<!ENTITY saveLinkToPocketCmd.label     "दुवा पॉकेट मध्ये संकलित करा">
+<!ENTITY saveToPocketCmd.label     "पृष्ठ Pocket मध्ये संकलित करा">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "दुवा Pocket मध्ये संकलित करा">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "पॉकेट सूची पहा">
+<!ENTITY pocketMenuitem.label      "Pocket सूची पहा">
