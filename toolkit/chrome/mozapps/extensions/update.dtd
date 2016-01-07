@@ -14,7 +14,7 @@
 <!ENTITY  mismatch.win.title              "असहत्व ऍड-ऑन">
 <!ENTITY  mismatch.top.label              "&brandShortName; च्या ह्या आवृत्तीशी खालिल ॲडऑन 
 सहत्व नाही व त्यास अकार्यान्वीत केले:">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; उपलब्ध ॲडऑन्सकरिता 
+<!ENTITY  mismatch.bottom.label           "&brandShortName; उपलब्ध ॲड-ऑन्सकरिता 
 सहत्व आवृत्ती तपासतो.">
 
 <!ENTITY  checking.wizard.title           "सहत्व ऍड-ऑन करीता तपासत आहे">
@@ -35,7 +35,7 @@
 <!ENTITY  noupdates.intro.desc            "&brandShortName; आपल्या असहत्व ऍड-ऑन करीता अद्ययावत 
 शोधू शकला नाही .">
 <!ENTITY  noupdates.error.desc            "अद्ययावत शोधतेवेळी काहिक अडचणी आढळले.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; नियतकालिक तपास करतो व ॲडऑन्स 
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; नियतकालिक तपास करतो व ॲड-ऑन्स 
 करीता हे अद्ययावत आढळल्यावर आपल्याला कळवतो.">
 
 <!ENTITY  finished.wizard.title           "सहत्व ऍड-ऑन प्रतिष्ठापीत">
@@ -43,7 +43,7 @@
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; नियतकालिक तपास करतो व 
 ॲडऑन करिता हे अद्ययावत आढळल्यावर आपल्याला कळवतो.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; नियतकालिक तपास करतो व 
-ॲडऑन्सकरिता अद्ययावत आढळल्यावर आपल्याला कळवतो.">
+ॲड-ऑन्सकरिता अद्ययावत आढळल्यावर आपल्याला कळवतो.">
 
 <!ENTITY  adminDisabled.wizard.title      "अद्ययावताकरीता तपासणी करत आहे">
 <!ENTITY  adminDisabled.warning.label     "असहत्व ऍड-ऑन करीता अद्ययावत तपासने 
