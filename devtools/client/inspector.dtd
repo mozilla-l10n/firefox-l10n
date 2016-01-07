@@ -42,19 +42,19 @@
      - as the last child of the current node -->
 
 <!ENTITY inspectorHTMLPasteExtraSubmenu.label      "चिकटवा...">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "च">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
 <!ENTITY inspectorHTMLPasteBefore.label      "आधी">
-<!ENTITY inspectorHTMLPasteBefore.accesskey  "आ">
+<!ENTITY inspectorHTMLPasteBefore.accesskey  "B">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
 <!ENTITY inspectorHTMLPasteAfter.label       "नंतर">
-<!ENTITY inspectorHTMLPasteAfter.accesskey   "न">
+<!ENTITY inspectorHTMLPasteAfter.accesskey   "A">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
