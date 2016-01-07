@@ -82,7 +82,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Поново учитај све језичке">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "у">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Забележи све језичке…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "З">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ј">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Обнови затворене језичке">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "О">
 
@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Забелешке">
 <!ENTITY bookmarksMenuButton.unsorted.label "Неразврстане забелешке">
 <!ENTITY viewBookmarksSidebar2.label        "Прикажи у бочној палети">
-<!ENTITY viewBookmarksToolbar.label         "Погледај траку са забелешкама">
+<!ENTITY viewBookmarksToolbar.label         "Прикажи траку са забелешкама">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -408,7 +408,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Обриши историјат…">
 <!ENTITY appMenuHistory.restoreSession.label "Обнови претходну сесију">
 <!ENTITY appMenuHistory.viewSidebar.label "Прикажи палету историјата">
-<!ENTITY appMenuHelp.tooltip "Отворите мени за помоћ">
+<!ENTITY appMenuHelp.tooltip "Отвори мени за помоћ">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизовани језичци">
 <!ENTITY appMenuRemoteTabs.fetching.label "Преузимам синхронизоване језичке…">
@@ -444,7 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.label "Уклони са менија">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "е">
 <!ENTITY customizeMenu.addMoreItems.label "Додај још елемената…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "с">
+<!ENTITY customizeMenu.addMoreItems.accesskey "Д">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Претражи или унеси адресу">
