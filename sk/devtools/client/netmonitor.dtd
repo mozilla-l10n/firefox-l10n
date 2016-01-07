@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 <!ENTITY netmonitorUI.toolbar.status2     "✓">
-    
+
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 <!ENTITY netmonitorUI.toolbar.method      "Metóda">
@@ -177,10 +177,6 @@
   -  in the network details response tab identifying an image's mime. -->
 <!ENTITY netmonitorUI.response.mime       "Typ MIME:">
 
-<!-- LOCALIZATION NOTE (netmonitorUI.response.encoding): This is the label displayed
-  -  in the network details response tab identifying an image's encoding. -->
-<!ENTITY netmonitorUI.response.encoding   "Kódovanie:">
-
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.blocked): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "blocked" state. -->
@@ -246,11 +242,11 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
-<!ENTITY netmonitorUI.context.copyUrl      "Kopírovať adresu URL">
+<!ENTITY netmonitorUI.context.copyUrl     "Kopírovať adresu URL">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.context.copyUrl.accesskey  "K">
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "K">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
@@ -329,11 +325,11 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
-<!ENTITY netmonitorUI.summary.editAndResend      "Upraviť a znova odoslať">
+<!ENTITY netmonitorUI.summary.editAndResend "Upraviť a znova odoslať">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.summary.editAndResend.accesskey  "z">
+<!ENTITY netmonitorUI.summary.editAndResend.accesskey "z">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders): This is the label displayed
   -  on the button in the headers tab that toggle view for raw request/response headers
@@ -356,8 +352,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->
-<!ENTITY netmonitorUI.context.newTab.accesskey  "O">
-    
+<!ENTITY netmonitorUI.context.newTab.accesskey "O">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
 <!ENTITY netmonitorUI.context.perfTools   "Spustiť analýzu výkonu…">
