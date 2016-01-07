@@ -83,9 +83,12 @@
 <!ENTITY phishingBlocked.longDesc "<p>Zapódawanje wósobinskich informacijow na toś tom boku móžo ku kšadnjenjeju identity abo drugej wobšuźe wjasć.</p> 
 <p>Toś te typy webwobšudow wužywaju se w wobšudnistwach ako snuchlece napady, w kótarychž wobšudne webboki a mejlki se wužywaju, aby žrědła imitěrowali, kótarymž dowěriśo.</p>">
 
+<!ENTITY forbiddenBlocked.title "Zakazane sedło">
+<!ENTITY forbiddenBlocked.longDesc "<p>Wobglědowak jo toś tomu bokoju zacytowanje zawoborał, dokulaž jo se konfigurěrował, aby jen blokěrował.</p>">
 
-
-
+<!ENTITY securityOverride.linkText "Abo móžośo wuwześe pśidaś…">
+<!ENTITY securityOverride.warningContent "<p>Wy njeby měl wuwześe pśidaś, jolic wužywaśo internetny zwisk, kótaremuž dopołnje njedowěriśo abo jolic zwětšego njewiźiśo warnowanje za toś ten serwer.</p>
+ <p>Jolic cośo hyšći wuwześe za toś to sedło pśidaś, móžośo to w swójich rozšyrjonych koděrowańskich nastajenjach cyniś.</p>">
 
 <!ENTITY cspBlocked.title "Pśez wěstotne pšawidła za wopśimjeśe zablokěrowany">
 <!ENTITY cspBlocked.longDesc "<p>Wobglědowak jo zacytowanjoju toś togo boka na toś ten nałog zajźował, dokulaž bok ma wěstotne pšawidła za wopśimjeśe, kótarež to njedowóluju.</p>">
