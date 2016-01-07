@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "Complementos">
-
+<!ENTITY aboutAddons.header2                    "Tus complementos">
 <!ENTITY aboutAddons.options                    "Opciones">
 
 <!ENTITY addonAction.enable                     "Habilitar">
-
-
+<!ENTITY addonAction.disable                    "Deshabilitar">
+<!ENTITY addonAction.uninstall                  "Desinstalar">
 <!ENTITY addonAction.undo                       "Deshacer">
 
 <!ENTITY addonUnsigned.message                  "Este complemento podría no estar verificado por &brandShortName;.">
-
+<!ENTITY addonUnsigned.learnMore                "Saber más">
