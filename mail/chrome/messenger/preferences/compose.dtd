@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "A">
 <!ENTITY restoreHTMLDefaults.label            "Standertwearden tebeksette">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
+<!ENTITY enterKeyCreatesNewParagraph.label    "As jo tekstopmaak Alinea brûke, makket de Enter-toets in nije alinea">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "E">
 
 <!ENTITY spellCheck.label                     "Stavering kontrolearje foar it ferstjoeren">
 <!ENTITY spellCheck.accesskey                 "k">

@@ -172,6 +172,10 @@ Oanfalsides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje 
 <p>Dizze typen fan webferfalsking wurde brûkt yn scams bekend as phishing oanfallen, weryn frauduleuse websides en emails brûkt wurde om boarnes dy't jo fertrouwe te imitearjen.</p>
 ">
 
+<!ENTITY forbiddenBlocked.title "Ferbeane website">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; hat opkeard dat dizze side laden waard, omdat it konfigurearre is om him te blokkearjen.</p>
+">
+
 <!ENTITY cspBlocked.title "Blokkearre troch ynhâldsbefeiligingsbelied">
 <!ENTITY cspBlocked.longDesc "<p>De browser hat opkeard dat de side op dizze manier laden wurd, omdat de side in ynhâldsbefeiligingsbelied hat dat dit net tastiet.</p>">
 

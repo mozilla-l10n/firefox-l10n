@@ -23,12 +23,12 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "B">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Mac OS X Adresboek brûke">
+<!ENTITY osxAddressBook.label                           "Mac OS X-adresboek brûke">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Slute">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "S">
-<!ENTITY printSetupCmd.label                            "Side-ynstellingen…">
+<!ENTITY printSetupCmd.label                            "Sideynstellingen…">
 <!ENTITY printSetupCmd.accesskey                        "S">
 <!ENTITY printPreviewContactCmd.label                   "Ofdrukfoarbyld kontakt">
 <!ENTITY printPreviewContactCmd.accesskey               "f">
@@ -75,8 +75,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI                                 "true">
-<!ENTITY propertiesCmd2.label                            "Eigenskippen">
-<!ENTITY propertiesCmd2.accesskey                        "E">
+<!ENTITY propertiesCmd2.label                           "Eigenskippen">
+<!ENTITY propertiesCmd2.accesskey                       "E">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -96,15 +96,15 @@
 <!ENTITY layoutMenu.accesskey                           "L">
 <!ENTITY showDirectoryPane.label                        "Mappaniel">
 <!ENTITY showDirectoryPane.accesskey                    "p">
-<!ENTITY showContactPane2.label                          "Kontaktpaniel">
-<!ENTITY showContactPane2.accesskey                      "K">
+<!ENTITY showContactPane2.label                         "Kontaktpaniel">
+<!ENTITY showContactPane2.accesskey                     "K">
 <!ENTITY menu_ShowNameAs.label                          "Nammen werjaan as">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                             "Foarnamme efternamme">
-<!ENTITY firstLastCmd2.accesskey                         "F">
-<!ENTITY lastFirstCmd.label                             "Efternamme, foarnamme">
+<!ENTITY firstLastCmd2.label                            "Foarnamme achternamme">
+<!ENTITY firstLastCmd2.accesskey                        "F">
+<!ENTITY lastFirstCmd.label                             "Achternamme, foarnamme">
 <!ENTITY lastFirstCmd.accesskey                         "A">
 <!ENTITY displayNameCmd.label                           "Werjeftenamme">
 <!ENTITY displayNameCmd.accesskey                       "W">
@@ -123,8 +123,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "Y">
 <!ENTITY exportCmd.label                                "Eksportearje">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                           "Opsjes">
-<!ENTITY preferencesCmd2.accesskey                       "O">
+<!ENTITY preferencesCmd2.label                          "Opsjes">
+<!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Foarkarren">
 <!ENTITY preferencesCmdUnix.accesskey                   "F">
 
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "O">
 <!ENTITY newIM.label                                    "Ynstant-berjocht">
 <!ENTITY newIM.accesskey                                "Y">
+<!ENTITY printButton.label                              "Ofdrukke…">
+<!ENTITY printButton.accesskey                          "d">
 <!ENTITY deleteButton2.label                            "Fuortsmite">
 <!ENTITY deleteButton2.accesskey                        "F">
 
@@ -156,7 +158,7 @@ because displayed names don't have the comma in between. -->
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Namme of e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "Breder adres sykje">
+<!ENTITY advancedButton.tooltip                         "Wiidweidich adres sykje">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title                               "Fluch sykje">
 
@@ -209,7 +211,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addresses.heading                              "Adressen">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Plattegrûn">
-<!ENTITY mapIt.tooltip                                  "De kaart fan dit adres toane op it ynternet">
+<!ENTITY mapIt.tooltip                                  "De kaart fan dit adres toane op ynternet">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label                               "">

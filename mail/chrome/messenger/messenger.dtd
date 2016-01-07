@@ -816,7 +816,7 @@
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box.  We replace
      #1 with the contents of the appropriate
      searchAllMessages.keyLabel.* value for the platform.
@@ -825,7 +825,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Sykje… #1">
+<!ENTITY search.label.base1 "Sykje #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -854,8 +854,10 @@
 <!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "E-mailadres kopiearje">
 <!ENTITY CopyEmailAddress.accesskey "k">
+<!ENTITY CopyNameAndEmailAddress.label "Namme en e-mailadres kopiearje">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Nijsgroepnamme kopiearje">
-<!ENTITY CopyNewsgroupName.accesskey "N">
+<!ENTITY CopyNewsgroupName.accesskey "g">
 <!ENTITY CopyNewsgroupURL.label "Nijsgroepnamme-URL kopiearje">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Filter meitsje op basis fan…">

@@ -306,3 +306,7 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adresboek">
+
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Fan-adres oanpasse…">
+<!ENTITY customizeFromAddress.accesskey "F">
