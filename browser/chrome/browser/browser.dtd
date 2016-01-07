@@ -92,7 +92,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "पृष्ठाची माहिती">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Mirror Tab">
+<!ENTITY mirrorTabCmd.label "हुबेहुब टॅब">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -486,7 +486,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
-<!ENTITY contentSearchInput.label     "पृच्छा शोधा">
+<!ENTITY contentSearchInput.label     "शोधण्यासाठी संज्ञा">
 <!ENTITY contentSearchSubmit.label    "शोध संकलित करा">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -515,9 +515,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.button  "शोध सेटिंग बदला">
 
 <!ENTITY searchInNewTab.label         "नवीन टॅबमध्ये शोधा">
-<!ENTITY searchInNewTab.accesskey     "ट">
-<!ENTITY searchSetAsDefault.label     "मुलभूत शोध इंजिन संचित करा">
-<!ENTITY searchSetAsDefault.accesskey "म">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "पूर्वनिर्धारित शोध इंजिन म्हणून ठरवा">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "दुवा नवीन टॅबमध्ये उघडा">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -771,12 +771,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "या वेबसाईटवरील काही भाग (उदा. प्रतिमा) सुरक्षित नाही.">
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName;ने काही भाग अडवले असले, तरी ह्या पानावर काही असुरक्षित आशय आहेत (उदा. प्रतिमा).">
 <!ENTITY identity.description.activeLoaded "या वेबसाईटवरील काही भाग (उदा. स्क्रिप्ट्स) सुरक्षित नाही आणि आपली जोडणी खाजगी नाही आहे.">
-<!ENTITY identity.description.activeLoaded2 "आपण जी माहिती जमा करता आहात (जसे कि सांकेतिक शब्द, संदेश, क्रेडीट कार्ड इत्यादी) ते इतर लोक पाहू शकतात.">
+<!ENTITY identity.description.activeLoaded2 "आपण जी माहिती जमा करता आहात (जसे कि पासवर्ड, संदेश, क्रेडीट कार्ड माहिती, इत्यादी) ते इतर लोक पाहू शकतात.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "सुरक्षा सक्रीय करा">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "स">
-<!ENTITY identity.disableMixedContentBlocking.label "सुरक्षा निष्क्रिय करा">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "न">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
+<!ENTITY identity.disableMixedContentBlocking.label "सद्या सुरक्षा निष्क्रिय करा">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "आणखी शिका">
 
 <!ENTITY identity.moreInfoLinkText2 "अधिक माहिती">
@@ -823,8 +823,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.directory.label "सक्रीय केलेल्यांची सूची">
 <!ENTITY social.directory.text "तुम्ही निर्देशिकेमधून Share सेवा सक्रिय करू शकता.">
-<!ENTITY social.directory.button "मला तिकडे न्ह्या!">
-<!ENTITY social.directory.introText "&brandShortName; मध्ये जोडण्यासाठी सेवा वर क्लिक करा.">
+<!ENTITY social.directory.button "मला तिकडे न्या !">
+<!ENTITY social.directory.introText "&brandShortName; मध्ये जोडण्यासाठी एका सेवे वर क्लिक करा.">
 <!ENTITY social.directory.viewmore.text "अधिक पहा">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; पसंतीचे करा">
@@ -834,9 +834,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "पूर्वनिर्धारित पुनःस्थापीत करा">
 <!ENTITY customizeMode.toolbars "साधनपट्ट्या दाखवा किंवा छुपे करा">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
-<!ENTITY customizeMode.lwthemes "थीम">
-<!ENTITY customizeMode.lwthemes.myThemes "माझ्या थीम">
-<!ENTITY customizeMode.lwthemes.recommended "शिफारस">
+<!ENTITY customizeMode.lwthemes "थीम्स">
+<!ENTITY customizeMode.lwthemes.myThemes "माझ्या थीम्स">
+<!ENTITY customizeMode.lwthemes.recommended "शिफारसीय">
 <!ENTITY customizeMode.lwthemes.menuManage "व्यवस्थापन करा">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "अधिक थिम्स मिळवा">
@@ -866,23 +866,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "ह्या वेबसाईट साठी सुरक्षा निष्क्रिय करा">
-<!ENTITY trackingProtection.unblock.accesskey "न">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "ह्या पानावर सुरक्षा बंद करा">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "ब">
+<!ENTITY trackingProtection.unblockPrivate.label "ह्या सत्रासाठी सुरक्षा निष्क्रिय करा">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "सुरक्षा सक्रीय करा">
-<!ENTITY trackingProtection.block2.accesskey "स">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "ट्रॅकिंग">
 <!ENTITY trackingContentBlocked.moreinfo "आपल्या आॅनलाइन कार्याचा मागोवा घेणारे पानाचे काही भाग अडवले गेले आहेत.">
 <!ENTITY trackingContentBlocked.learnMore "आणखी शिका">
 <!ENTITY trackingContentBlocked.options "पर्याय">
 <!ENTITY trackingContentBlocked.unblock2.label "ह्या वेबसाईट साठी सुरक्षा निष्क्रिय करा">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "न">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "सुरक्षा सक्रीय करा">
-<!ENTITY trackingContentBlocked.block.accesskey "स">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "मागोवा सुरक्षा निष्क्रीत केलेले आहे">
 
 <!ENTITY pointerLock.notification.message "पुन्हा दाखवण्याकरिता कोणत्याही वेळी ESC दाबा.">
@@ -933,7 +933,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM बद्दल अधिक जाणून घ्या…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "आता नको (N)">
+<!ENTITY emeNotificationsNotNow.label             "आता नको">
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "मला पुन्हा विचारू नका (D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
