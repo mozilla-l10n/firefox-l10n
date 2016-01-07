@@ -126,7 +126,7 @@
 <!ENTITY discover.title                       "ॲड-ऑन्स् काय असतात?">
 <!ENTITY discover.description2                "ॲड-ऑन्स् ते ॲप्लिकेशन्स् असतात जे &brandShortName; ला 
 अगाऊ कार्यक्षमता किंवा शैलीसह पसंतीचे करण्यासाठी सुविधा पुरवतात. &brandShortName; ला पसंतीचे करण्यासाठी टाइम-सेव्हिंग बाजूचीपट्टी, हवामान सूचक, 
-किंवा दृष्य कल्पना या ॲड-ऑन्सचा वापर करून पहा.">
+किंवा दृष्य कल्पना या ॲड-ऑन्स् चा वापर करून पहा.">
 <!ENTITY discover.footer                      "इंटरनेटशी जोडणी केल्यावर, ही पट्टी काहिक सर्वोत्तम व सर्वात जास्त चर्चीत 
 असलेले ॲड-ऑन्स् वापरून पाहण्याची सुविधा पुरवते.">
 <!-- detail view -->
@@ -236,17 +236,17 @@
 
 <!ENTITY setting.learnmore "आणखी शिका…">
 
-<!ENTITY disabledUnsigned.heading "काही अॅड-ऑनस् अक्षम केले गेले आहेत">
+<!ENTITY disabledUnsigned.heading "काही ॲड-ऑन्स् अक्षम केले गेले आहेत">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "खालील अॅड-ऑनस् &brandShortName; मध्ये वापरण्यासाठी पडताळले गेले नाहीत. तुम्ही करू शकता ">
+<!ENTITY disabledUnsigned.description.start "खालील अॅड-ऑन्स् &brandShortName; मध्ये वापरण्यासाठी पडताळले गेले नाहीत. तुम्ही करू शकता ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "पुनर्बदल शोधा">
 <!ENTITY disabledUnsigned.description.end " किंवा विकासकाला ते पडताळून घ्यायला सांगा.">
 <!ENTITY disabledUnsigned.learnMore "तुम्हाला ऑनलाईन सुरक्षित कसे ठेवायचे याबाबत आमच्या प्रयत्नांसंबंधी अधिक जाणून घ्या.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "ज्यांना त्यांचे अॅड-ऑनस् पडताळून घेण्यात स्वारस्य आहे असे विकासक ते करू शकताता. त्यासाठी वाचा">
+<!ENTITY disabledUnsigned.devInfo.start "ज्यांना त्यांचे अॅड-ऑन्स् पडताळून घेण्यात स्वारस्य आहे असे विकासक ते करू शकताता. त्यासाठी वाचा">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "मॅन्युअल">
 <!ENTITY disabledUnsigned.devInfo.end ".">

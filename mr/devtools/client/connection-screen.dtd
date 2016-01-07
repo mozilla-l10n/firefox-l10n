@@ -13,7 +13,7 @@
 <!ENTITY port       "पोर्ट:">
 <!ENTITY connect    "जोडणी करा">
 <!ENTITY connecting "जोडणी करत आहे…">
-<!ENTITY availableAddons "उपलब्ध रिमोट ॲड-ऑन्स:">
+<!ENTITY availableAddons "उपलब्ध रिमोट ॲड-ऑन्स्:">
 <!ENTITY availableTabs "उपलब्ध रिमोट टॅब्ज:">
 <!ENTITY availableProcesses "उपलब्ध रिमोट प्रक्रिया:">
 <!ENTITY connectionError "त्रुटी:">

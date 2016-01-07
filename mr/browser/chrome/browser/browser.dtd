@@ -247,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "ॲड-ऑन्स">
+<!ENTITY addons.label                 "ॲड-ऑन्स्">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "ॲप्स">
@@ -830,7 +830,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.tabTitle "&brandShortName; पसंतीचे करा">
 <!ENTITY customizeMode.menuAndToolbars.header2 "अगाऊ साधने आणि गुणविशेष">
 <!ENTITY customizeMode.menuAndToolbars.empty "आणखी साधने पाहिजेत?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारो ॲड-ऑन्सपासून पसंत करा">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारो ॲड-ऑन्स् पासून पसंत करा">
 <!ENTITY customizeMode.restoreDefaults "पूर्वनिर्धारित पुनःस्थापीत करा">
 <!ENTITY customizeMode.toolbars "साधनपट्ट्या दाखवा किंवा छुपे करा">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
