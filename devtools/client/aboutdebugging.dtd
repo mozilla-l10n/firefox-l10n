@@ -6,5 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Dodanki">
 <!ENTITY aboutDebugging.addonDebugging.label       "Pytanje za zmólkami za dodanki zmóžniś">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Gaž to zašaltujośo, móžośo dodanki a wšake druge źěle wobglědowakowego pówjercha za zmólkami pśepytowaś">
-
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Nachylny dodank zacytaś">
 <!ENTITY aboutDebugging.workers                    "Workery">
