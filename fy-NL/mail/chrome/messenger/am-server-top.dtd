@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Op nije berjochten kontrolearje nei elke">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minuten">
+<!ENTITY useIdleNotifications.label "Direkte tsjinnernotifikaasjes tastean as der nije berjochten binnenkomme">
+<!ENTITY useIdleNotifications.accesskey "D">
 <!ENTITY connectionSecurity.label "Ferbiningsfeilichheid:">
 <!ENTITY connectionSecurity.accesskey "b">
 <!ENTITY connectionSecurityType-0.label "Gjin">
@@ -30,7 +32,7 @@
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Autentikaasjemetoade:">
-<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.accesskey "A">
 <!ENTITY leaveOnServer.label "Berjochten op de tsjinner stean litte">
 <!ENTITY leaveOnServer.accesskey "h">
 <!ENTITY headersOnly.label "Allinnich berjochtkoppen ophelje">
@@ -61,7 +63,7 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
-<!ENTITY maxMessagesStart.label "My freegje foar it ynladen fan mear as">
+<!ENTITY maxMessagesStart.label "My freegje foar it downloaden fan mear as">
 <!ENTITY maxMessagesStart.accesskey "f">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "berjochten">

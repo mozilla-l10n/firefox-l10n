@@ -10,10 +10,8 @@
 <!ENTITY usingSubscription.label "Allinnich oanmelde mappen toane">
 <!ENTITY dualUseFolders.accesskey "a">
 <!ENTITY dualUseFolders.label "Tsjinner stipet mappen mei submappen en berjochten">
-<!ENTITY useIdle.accesskey "I">
-<!ENTITY useIdle.label "IDLE-commando brûke as de tsjinner it stipet">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
-<!ENTITY maximumConnectionsNumber.label "Maksimumoantal tsjinnerferbiningen yn de buffer">
+<!ENTITY maximumConnectionsNumber.label "Maksimum tal tsjinnerferbiningen yn de buffer">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "Dizze ynstellingen omskriuwe de namespaces op jo IMAP-tsjinner">
 <!ENTITY personalNamespace.accesskey "e">
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.label "Oare brûkers:">
 <!ENTITY overrideNamespaces.accesskey "T">
 <!ENTITY overrideNamespaces.label "Tsjinner tastean om dizze namespaces te negearjen">
-<!ENTITY pop3Desc.label "By it ynladen fan e-mail fan dizze POP3-tsjinner, de folgjende map foar nije e-mail brûke:">
-<!ENTITY accountDirectory.accesskey "P">
-<!ENTITY accountDirectory.label "Postfek YN fan dizze tsjinneraccount">
+<!ENTITY pop3DeferringDesc.label "By it downloaden fan e-mail fan dizze POP3-tsjinner, de folgjende map foar nije e-mail brûke:">
+<!ENTITY accountInbox.label "Postfek YN fan dizze account">
+<!ENTITY accountInbox.accesskey "P">
 <!ENTITY deferToServer.accesskey "r">
 <!ENTITY deferToServer.label "Postfek YN fan in oar account">
 <!ENTITY deferGetNewMail.accesskey "b">
