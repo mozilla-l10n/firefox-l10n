@@ -32,4 +32,4 @@ anlamına gelebilir.</b>">
 <!ENTITY certerror.expert.contentPara2 "Bu siteye, güvenilir kimlik bilgisi sunmaması için geçerli bir nedeni 
 olmadıkça ayrıcalık tanımayın.">
 <!ENTITY certerror.addException.label "Ayrıcalık tanı…">
-
+<!ENTITY certerror.copyToClipboard.label "Metni panoya kopyala">
