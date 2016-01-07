@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Kontrolěrujśo, lěc cośo swójo gronidło składowaś">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Instalěrowańsku powěźeńku nałoženja pokazaś">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Wužywanje tykacow na toś tom boku zastojaś">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Změńśo, lěc móžośo powěźeńki wót sedła dostaś">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Źělenje wašeje kamery a/abo wašogo mikrofona ze sedłom zastojaś">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Źěliśo swóju kameru a/abo waš mikrofon ze sedłom">
@@ -410,17 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Bócnicu historije pokazaś">
 <!ENTITY appMenuHelp.tooltip "Meni Pomoc wócyniś">
 
-
+<!ENTITY appMenuRemoteTabs.label "Synchronizěrowane rejtarki">
+<!ENTITY appMenuRemoteTabs.fetching.label "Synchronizěrowane rejtarki se wobstaruju…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Žedne wócynjone rejtarki">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Synchronizěrowanje rejtarkow zašaltowaś, aby se lisćina rejtarkow z drugich rědow pokazała.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Pśizjawśo se pla Firefox z drugich rědow, aby se jich rejtarki how woglědał.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Nastajenja synchronizěrowaś">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Pśizjawśo se, aby see lisćinu rejtarkow ze swójich drugich rědow woglědał.">
+<!ENTITY appMenuRemoteTabs.signin.label "Pla Sync pśizjawiś">
 
 <!ENTITY customizeMenu.addToToolbar.label "Symbolowej rědce pśidaś">
 <!ENTITY customizeMenu.addToToolbar.accesskey "S">
@@ -784,6 +788,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "Rejtarki wobglědowaka">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "Synchronizěrowane rejtarki">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
