@@ -186,14 +186,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "ပုံနှိုပ်ပါ">
 <!ENTITY printButton.tooltip          "ဒီစာမျက်နှာကို ပုံနှိုပ်ပါ">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "အခု ဝက်ဆိုက် ၏ အချက်အလက်များ ကြည့်ရန်။">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "အသိပေးချက် များကြည့်ရန်">
 
 
 
-
-
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "သင့်ရဲ့ဝင်ရောက်ခြင်းဆိုင်ရာအချက်အလက်များကိုစီမံရန်">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "သင့်ရဲ့စကားဝှက်သိမ်းခြင်းကိုစစ်ဆေးပါ">
 
 
 
