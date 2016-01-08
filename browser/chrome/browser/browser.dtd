@@ -410,6 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Bona ibha esecaleni yeMbali">
 <!ENTITY appMenuHelp.tooltip "Vula iMenyu yoNcedo">
 
+<!ENTITY appMenuRemoteTabs.label "Iithebhu Ezingqamanisiweyo">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -418,9 +419,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.openprefs.label "Ngqamanisa iiPreferensi">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
+<!ENTITY appMenuRemoteTabs.signin.label "Sayina ungene ukuze uNgqamanise">
 
 <!ENTITY customizeMenu.addToToolbar.label "Yongeza kwiThulbha">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Y">
@@ -784,6 +785,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "Iithebhu zokubhrawuza">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "Iithebhu Ezingqamanisiweyo">
 
 <!ENTITY syncBrand.shortName.label    "Ungqamaniso">
 
