@@ -735,13 +735,13 @@ o Android">
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "Ychwanegion">
-<!ENTITY restrictable_feature_addons_installation_description "Ychwanegwch nodweddion neu swyddogaethau i Firefox. Sylw:Gall ychwanegion analluogi rhai cyfyngiadau.">
+<!ENTITY restrictable_feature_addons_installation_description "Ychwanegwch nodweddion neu swyddogaethau i Firefox. Sylw: Gall ychwanegion analluogi rhai cyfyngiadau.">
 <!ENTITY restrictable_feature_private_browsing "Pori Preifat">
 <!ENTITY restrictable_feature_private_browsing_description "Mae\u0027n caniatáu i aelodau\u0027r teulu i bori heb gadw manylion gwefannau a\u0027r tudalennau mae nhw wedi ymweld â nhw.">
 <!ENTITY restrictable_feature_clear_history "Clirio Hanes">
-<!ENTITY restrictable_feature_clear_history_description "Mae\u0027n caniatáu i aelodau\u0027r teulu ddileu manylion gwefannau a\u0027r tudalennau mae nhw wedi ymweld â nhw">
+<!ENTITY restrictable_feature_clear_history_description "Mae\u0027n caniatáu i aelodau\u0027r teulu ddileu manylion gwefannau a\u0027r tudalennau mae nhw wedi ymweld â nhw.">
 <!ENTITY restrictable_feature_advanced_settings "Gosodiadau Uwch">
-<!ENTITY restrictable_feature_advanced_settings_description "Mae hyn yn cynnwys mewnforio nodau tudalen, adfer tagiau ac awtomeiddio diweddariadau.  Diffoddwch ar gyfer gosodiadau syml, addas ar gyfer unrhyw aelod o\u0027r teulu.">
+<!ENTITY restrictable_feature_advanced_settings_description "Mae hyn yn cynnwys mewnforio nodau tudalen, adfer tagiau ac awtomeiddio diweddariadau. Diffoddwch ar gyfer gosodiadau syml, addas ar gyfer unrhyw aelod o\u0027r teulu.">
 <!ENTITY restrictable_feature_camera_microphone "Camera a Meicroffon">
 <!ENTITY restrictable_feature_camera_microphone_description "Caniatáu i aelodau\u0027r teulu i gysylltu\u0027n fyw pan ar wefannau.">
 <!ENTITY restrictable_feature_data_choices "Dewisiadau Data">
@@ -765,4 +765,4 @@ o Android">
 <!ENTITY unsupported_sdk_version "Ymddiheuriadau! Fydd &brandShortName; ddim yn gweithio ar y ddyfais hon (&formatS1;, &formatS2;). Llwythwch y fersiwn cywir i lawr.">
 
 <!ENTITY eol_notification_title "Nid yw &brandShortName; bellach yn cefnogi Android 3">
-<!ENTITY eol_notification_summary "Eisiau gwybod mwy?">
+<!ENTITY eol_notification_summary "Tapiwch i ddysgu rhagor">
