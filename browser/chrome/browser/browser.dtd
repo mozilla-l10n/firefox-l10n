@@ -411,14 +411,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Vula iMenyu yoNcedo">
 
 <!ENTITY appMenuRemoteTabs.label "Iithebhu Ezingqamanisiweyo">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Ilanda Iithebhu Ezingqamanisiweyo…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Azikho iithebhu ezivuliweyo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Layita ungqamaniso lwethebhu ukuze ujonge uludwe lweethebhu kwezinye izixhobo zakho.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Sayina ungene kwi-Firefox ngokusuka kwezinye izixhobo zakho ukuze uonge iithebhu zazo apha.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ngqamanisa iiPreferensi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sayina ungene ukuze uNgqamanise">
