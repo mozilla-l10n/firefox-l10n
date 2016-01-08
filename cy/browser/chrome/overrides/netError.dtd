@@ -165,7 +165,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY errorReporting.automatic2 "Mae adroddiadau gwall fel hyn y cynorthwyo Mozilla i adnabod a rhwystro gwefannau maleisus.">
+<!ENTITY errorReporting.automatic2 "Mae adroddiadau gwall fel hyn y cynorthwyo Mozilla i adnabod a rhwystro gwefannau maleisus">
 <!ENTITY errorReporting.learnMore "Dysgu rhagor…">
 <!ENTITY errorReporting.sending "Anfon adroddiad">
 <!ENTITY errorReporting.sent "Adroddiad wedi ei anfon">
