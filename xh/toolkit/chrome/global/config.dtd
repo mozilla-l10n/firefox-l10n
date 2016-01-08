@@ -11,9 +11,10 @@
 <!ENTITY aboutWarningButton.label "Ndiza kulumka, Ndiyathembisa!">
 <!ENTITY aboutWarningCheckbox.label "Bonisa esi silumkiso kwixesha elizayo">
 
-
+<!ENTITY searchPrefs.label "Khangela:">
+<!ENTITY searchPrefs.accesskey "n">
 <!ENTITY focusSearch.key "r">
-
+<!ENTITY focusSearch2.key "f">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Igama Lesikhethwa">
@@ -29,8 +30,8 @@
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopa">
 <!ENTITY copyPref.accesskey "K">
-
-
+<!ENTITY copyName.label "Kopa Negama">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Kopa Ixabiso">
 <!ENTITY copyValue.accesskey "I">
 <!ENTITY modify.label "Hlengahlengisa">
@@ -39,8 +40,8 @@
 <!ENTITY toggle.accesskey "I">
 <!ENTITY reset.label "Phinda umisele">
 <!ENTITY reset.accesskey "P">
-
-
+<!ENTITY new.label "Okutsha">
+<!ENTITY new.accesskey "t">
 <!ENTITY string.label "Umtya">
 <!ENTITY string.accesskey "U">
 <!ENTITY integer.label "Inani elipheleleyo">
