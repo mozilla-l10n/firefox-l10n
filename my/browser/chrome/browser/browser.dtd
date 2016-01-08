@@ -197,8 +197,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "သင့်ရဲ့ဝင်ရောက်ခြင်းဆိုင်ရာအချက်အလက်များကိုစီမံရန်">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "သင့်ရဲ့စကားဝှက်သိမ်းခြင်းကိုစစ်ဆေးပါ">
 
-
-
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "ဒီစာမျက်နှာရဲ့ပလပ်အင်အသုံးပြုမှုကိုစီမံရန်">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "ဒီစာမျက်နှာရဲ့အသိပေးခြင်းကို လက်ခံခြင်းအားစီမံကြည့်ရန်">
 
 
 
