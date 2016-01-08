@@ -22,5 +22,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Eli khasi lewebhu kwi-<span id='phishing_sitename'/> lichazwe njengekhasi lenkohliso kwaye lithintelwe ngokweepriferensi zakho zokhuseleko.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Iinkohliso zwebhu zenzelwe ukukuqhatha ukuba uvelise inkcazelo yakho okanye eyemali ngokulinganisa amaxwebhu onokuwathemba.</p><p>Ukungenisa nayiphi na inkcazelo kweli khasi lewebhu kungakhokelela ekubiweni kwazo okanye kobunye ubuqhetseba.</p>">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "ISayithi Eyalelweyo">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Eli phepha le Webhu kwi- <span id='forbidden_sitename'/> libhlokiwe ngokusekelwe kuyilo lwebhrawuza.">
 
