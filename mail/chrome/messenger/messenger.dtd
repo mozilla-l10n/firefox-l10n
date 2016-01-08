@@ -855,7 +855,7 @@
 <!ENTITY CopyEmailAddress.label "Copïo Cyfeiriad E-bost">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CopyNameAndEmailAddress.label "Copïo Enw a Chyfeiriad E-bost">
-<!ENTITY CopyNameAndEmailAddress.accesskey "N">
+<!ENTITY CopyNameAndEmailAddress.accesskey "E">
 <!ENTITY CopyNewsgroupName.label "Copïo Enw Grŵp Newyddion">
 <!ENTITY CopyNewsgroupName.accesskey "N">
 <!ENTITY CopyNewsgroupURL.label "Copïo URL Grŵp Newyddion">
