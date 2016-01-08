@@ -11,10 +11,10 @@
 <!ENTITY unsupportedPlatform.post                            "">
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-
-
-
-
+<!ENTITY clickToActivatePlugin                               "Vuselela isifakelo.">
+<!ENTITY checkForUpdates                                     "Khangela izihlaziyo…">
+<!ENTITY disabledPlugin                                      "Esi sifakelo sivaliwe.">
+<!ENTITY blockedPlugin.label                                 "Isifakelo sibhlokiwe ukukhusela wena.">
 
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
@@ -33,5 +33,6 @@
 
 
 
-
-
+<!ENTITY plugin.file                                         "Ifayile">
+<!ENTITY plugin.mimeTypes                                    "Iintlobo ze-MIME">
+<!ENTITY plugin.flashProtectedMode.label                     "Yenza isebenze imo yokusebenza ekhuselekileyo ye-Adobe Flash">
