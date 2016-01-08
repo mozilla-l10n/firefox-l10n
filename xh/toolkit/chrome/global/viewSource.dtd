@@ -71,7 +71,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "k">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "Emva">
 <!ENTITY backCmd.accesskey "E">
@@ -80,6 +80,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-
-
-
+<!ENTITY copyLinkCmd.label "Indawo Yokukopa Nokulinka">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyEmailCmd.label "Kopa Uze U-Imeyile Iadresi">
+<!ENTITY copyEmailCmd.accesskey "E">
