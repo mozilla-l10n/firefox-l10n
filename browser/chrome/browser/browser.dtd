@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Khangela enoba ufuna ukugcina iphaswedi yakho">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Jonga umyalezo wokufakela i-app">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Lawula ukusetyenziswa kwezifakelo kweli phepha">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Tshintsha enoba ungafumana isaziso kule sayithi">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Lawula ukwabelana ngekhamera yakho kunye/okanye imayikhrofowuni yakho nesayithi">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Wabelana ngekhamera yakho kunye/okanye imayikhrofowuni nesayithi">
