@@ -77,8 +77,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backCmd.accesskey "E">
 <!ENTITY forwardCmd.label "Gqithisela phambili">
 <!ENTITY forwardCmd.accesskey "G">
-
-
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
 
 
