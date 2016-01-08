@@ -141,6 +141,7 @@ ukuba i-&brandShortName; ivunyelwe ukufikelela kwiWebhu.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Ukungenisa naziphi na iinkcukacha kweli khasi kungakhokelela ekubiweni kwazo okanye kobunye ubuqhetseba.</p> 
 <p>Ezi ndidi zenkohliso zewebhu zisetyenziswa kwiqhinga elaziwa njengeqhinga lokufumana iinkcukacha apho amakhasi ewebhu neeimeyile zisetyenziswa ngokufana nemithombo onokuyithemba.</p>">
 
+<!ENTITY forbiddenBlocked.title "ISayithi Eyalelweyo">
 
 
 <!ENTITY cspBlocked.title "Ithintelwe ngumGaqonkqubo woKhuseleko lomXholo">
