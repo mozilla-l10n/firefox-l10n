@@ -106,6 +106,8 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Leb">
 <!ENTITY pref_category_language_summary "Lok leb pa layeny mamegi">
 <!ENTITY pref_browser_locale "Leb pa layeny">
 <!-- Localization note (locale_system_default) : This string indicates that
