@@ -24,4 +24,5 @@
 
 <!ENTITY safeb.blocked.forbiddenPage.title "차단된 사이트">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "이 <span id='forbidden_sitename'/> 웹 페이지는 브라우저 설정에 의해 차단되었습니다.">
 
