@@ -273,5 +273,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
-<!ENTITY old_sync_deprecated_notification_title "Přizjewće so, zo byšće ze synchronowanjom pokročował">
+<!ENTITY old_sync_deprecated_notification_title "Přizjewće so, zo byšće ze synchronizowanjom pokročował">
 <!ENTITY old_sync_deprecated_notification_content "Waše konto so hižo njepodpěruje">
