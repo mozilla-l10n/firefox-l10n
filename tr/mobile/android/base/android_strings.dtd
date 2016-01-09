@@ -738,13 +738,13 @@ alınıyor">
 
 <!ENTITY restrictable_feature_private_browsing "Gizli Tarama">
 
+<!ENTITY restrictable_feature_clear_history "Geçmişi temizle">
 
 
 
+<!ENTITY restrictable_feature_camera_microphone "Kamera ve mikrofon">
 
-
-
-
+<!ENTITY restrictable_feature_data_choices "Veri tercihleri">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -762,4 +762,5 @@ alınıyor">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_title "&brandShortName; artık Android 3\u0027ü desteklemiyor">
+<!ENTITY eol_notification_summary "Daha fazla bilgi almak için dokunun">
