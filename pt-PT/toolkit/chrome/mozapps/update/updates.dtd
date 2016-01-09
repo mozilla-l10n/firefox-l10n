@@ -65,7 +65,7 @@ agora o pacote completo da atualização.">
 
 <!ENTITY  error.title                     "Falha ao atualizar">
 
-<!ENTITY  error.label                     "Ocorreram erros ao verificar, a descarregar ou a instalar esta 
+<!ENTITY  error.label                     "Ocorreram erros ao verificar, descarregar ou instalar esta 
 atualização. O &brandShortName; não pôde ser atualizado porque:">
                                            
 <!ENTITY  errorManual.label               "Pode atualizar manualmente o &brandShortName; acedendo a esta
