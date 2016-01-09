@@ -74,11 +74,11 @@
 <!ENTITY updateTab.label                 "Atualização">
 
 <!ENTITY updateApp.label                 "Atualizações do &brandShortName;:">
-<!ENTITY updateAuto1.label               "Instalar atualizações automaticamente (recomendado: melhoria da segurança)">
-<!ENTITY updateAuto1.accesskey           "m">
+<!ENTITY updateAuto1.label               "Instalar atualizações automaticamente (recomendado: melhoria de segurança)">
+<!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheck.label               "Procurar atualizações e pedir para selecionar as que pretendo instalar">
 <!ENTITY updateCheck.accesskey           "c">
-<!ENTITY updateManual.label              "Não procurar atualizações (não recomendado: riscos de segurança)">
+<!ENTITY updateManual.label              "Nunca procurar atualizações (não recomendado: risco de segurança)">
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "Avisar-me se este procedimento desativar algum dos meus extras">
