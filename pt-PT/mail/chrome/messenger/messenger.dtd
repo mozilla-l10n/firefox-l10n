@@ -607,7 +607,7 @@
 <!ENTITY folderContextGetMessages.accesskey "O">
 <!ENTITY folderContextOpenInNewWindow.label "Abrir">
 <!ENTITY folderContextOpenInNewWindow.accesskey "A">
-<!ENTITY folderContextOpenNewTab.label "Abrir num novo separador">
+<!ENTITY folderContextOpenNewTab.label "Abrir em novo separador">
 <!ENTITY folderContextOpenNewTab.accesskey "s">
 <!ENTITY folderContextNew.label "Nova subpasta...">
 <!ENTITY folderContextNew.accesskey "N">
