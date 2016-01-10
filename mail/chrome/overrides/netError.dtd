@@ -163,9 +163,9 @@
 <p>Власники веб-сайтів, які вважають, що їхній сайт назвали зловмисним без підстав, можуть <a href='http://www.stopbadware.org/home/reviewinfo' >вимагати  перегляду</a>.</p>
 ">
 
-<!ENTITY unwantedBlocked.title "Suspected Unwanted Software Site!">
+<!ENTITY unwantedBlocked.title "Сайт підозрюється в розміщенні небажаного програмного забезпечення!">
 <!ENTITY unwantedBlocked.longDesc "
-<p>Unwanted software pages try to install software that can be deceptive and affect your system in unexpected ways.</p>
+<p>Сторінки такого типу намагаються встановити програмне забезпечення, яке може вас ввести в оману та призвести до непередбачуваних змін у системі.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Сайт підозрюється у шахрайстві!">
