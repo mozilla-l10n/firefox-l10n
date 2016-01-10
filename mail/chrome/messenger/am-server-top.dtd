@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Thoir sùil airson teachdaireachdan ùra gach ">
 <!ENTITY biffStart.accesskey "T">
 <!ENTITY biffEnd.label "mionaid(ean)">
-
-
+<!ENTITY useIdleNotifications.label "Ceadaich brathan an fhrithealaiche sa bhad nuair a ruigeas teachdaireachdan ùra">
+<!ENTITY useIdleNotifications.accesskey "a">
 <!ENTITY connectionSecurity.label "Tèarainteachd a' cheangail:">
 <!ENTITY connectionSecurity.accesskey "T">
 <!ENTITY connectionSecurityType-0.label "Chan eil gin">

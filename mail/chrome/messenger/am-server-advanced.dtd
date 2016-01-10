@@ -22,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "C">
 <!ENTITY overrideNamespaces.label "Leig le frithealaichean na namespaces seo fhàgail gu taobh">
 <!ENTITY overrideNamespaces.accesskey "a">
-
-
-
+<!ENTITY pop3DeferringDesc.label "Ma luchdaichear a-nuas post o fhrithealaiche a’ chunntais seo, cuir am post ùr sa phasgan a leanas:" >
+<!ENTITY accountInbox.label "Bogsa a‑steach a’ chunntais seo">
+<!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Am bogsa a-steach airson cunntas eile">
 <!ENTITY deferToServer.accesskey "A">
 <!ENTITY deferGetNewMail.label "Gabh a-steach am frithealaiche seo nuair a dh'iarras mi am post ùr">

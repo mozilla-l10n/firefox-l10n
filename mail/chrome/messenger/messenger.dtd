@@ -825,6 +825,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
+<!ENTITY search.label.base1 "Lorg #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -853,8 +854,8 @@
 <!ENTITY SendMessageTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Dèan lethbhreac de sheòladh a' phuist-dhealain">
 <!ENTITY CopyEmailAddress.accesskey "c">
-
-
+<!ENTITY CopyNameAndEmailAddress.label "Dèan lethbhreac dhen ainm is de sheòladh a’ phuist-d">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Dèan lethbhreac de dh'ainm a' bhuidhinn-naidheachd">
 <!ENTITY CopyNewsgroupName.accesskey "c">
 <!ENTITY CopyNewsgroupURL.label "Dèan lethbhreac de dh'URL a' bhuidhinn-naidheachd">

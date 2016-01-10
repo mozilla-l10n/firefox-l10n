@@ -84,18 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Meud">
 <!ENTITY fontSizeMenu.accesskey "M">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY size-tinyCmd.label "Beag bìodach">
+<!ENTITY size-tinyCmd.accesskey "e">
+<!ENTITY size-smallCmd.label "Beag">
+<!ENTITY size-smallCmd.accesskey "B">
+<!ENTITY size-mediumCmd.label "Meadhanach">
+<!ENTITY size-mediumCmd.accesskey "M">
+<!ENTITY size-largeCmd.label "Mòr">
+<!ENTITY size-largeCmd.accesskey "r">
+<!ENTITY size-extraLargeCmd.label "Glè mhòr">
+<!ENTITY size-extraLargeCmd.accesskey "G">
+<!ENTITY size-hugeCmd.label "Anabarrach mòr">
+<!ENTITY size-hugeCmd.accesskey "A">
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Stoidhle an teacsa">
@@ -311,6 +311,8 @@
 <!ENTITY throbber.tooltip "Rach gu duilleag-dhachaigh &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Tagh dath airson teacsa a shoillseachadh">
 <!-- Editor toolbar -->
+
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Suidhich meud a’ chrutha-chlò">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Lughdaich meud a' chrutha-chlò">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Meudaich meud a' chrutha-chlò">
 <!ENTITY boldToolbarCmd.tooltip "Trom">
