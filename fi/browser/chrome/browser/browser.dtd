@@ -189,7 +189,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label             "Tulosta">
 <!ENTITY printButton.tooltip           "Tulosta sivu">
 
-<!ENTITY locationItem.title            "Osoite">
+<!ENTITY urlbar.viewSiteInfo.label                      "Näytä tiedot sivustosta">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Näytä huomautus">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Näytä paikannuspyyntö">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Näytä lisäosan asennusviesti">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Näytä lisäosan viesti yhteydettömän tilan tiedoista">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Muokkaa kirjautumistietoja">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Valitse tallennetaanko salasanaa">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Näytä sovelluksen asennusviesti">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Muokkaa liitännäisten käyttöä sivulla">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Muokkaa sivuston oikeutta näyttää huomautuksia">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Muokkaa kameran ja/tai mikrofonin jakamisasetuksia sivustolla">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Jaat kamerasi ja/tai mikrofonisi sivuston kanssa">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Muokkaa mikrofonin jakamisasetuksia sivustolla">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Jaat mikrofonisi sivuston kanssa">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Muokkaa ikkunoiden tai näytön jakamisasetuksia sivustolla">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Jaat ikkunan tai näyttösi sivuston kanssa">
+
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Valitse voiko sivusto piilottaa hiiren osoittimen">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Näytä palvelun asennusviesti">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Käännä sivu">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Muokkaa sivujen kääntämistä">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Muokkaa DRM-ohjelmien käyttöä">
+
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
+
 <!ENTITY searchItem.title              "Etsi">
 
 <!-- Toolbar items --> 
@@ -229,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Sovellukset">
 <!ENTITY webapps.accesskey            "S">
+<!ENTITY loopMenuItem.label           "Aloita keskustelu…">
+<!ENTITY loopMenuItem.accesskey       "k">
 
 <!ENTITY webDeveloperMenu.label       "Web-työkalut (englanninkielisiä)">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -288,8 +318,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "App Manager">
-<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -308,6 +336,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label          "Tiedosto">
 <!ENTITY fileMenu.accesskey        "T">
+<!ENTITY newUserContext.label             "Uusi luokiteltu välilehti">
+<!ENTITY newUserContext.accesskey         "l">
+<!ENTITY userContextPersonal.label        "Omat">
+<!ENTITY userContextPersonal.accesskey    "H">
+<!ENTITY userContextWork.label            "Työ">
+<!ENTITY userContextWork.accesskey        "T">
+<!ENTITY userContextBanking.label         "Raha">
+<!ENTITY userContextBanking.accesskey     "R">
+<!ENTITY userContextShopping.label        "Kaupat">
+<!ENTITY userContextShopping.accesskey    "K">
 <!ENTITY newNavigatorCmd.label         "Uusi ikkuna">
 <!ENTITY newNavigatorCmd.key         "N">
 <!ENTITY newNavigatorCmd.accesskey       "U">
