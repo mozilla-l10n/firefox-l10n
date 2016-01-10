@@ -249,8 +249,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label "Complementos">
 <!ENTITY addons.accesskey "o">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Aplicaciones">
-<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
