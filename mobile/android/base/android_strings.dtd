@@ -146,7 +146,7 @@
 <!ENTITY pref_category_search_summary "Suchmaschinen auswählen">
 <!ENTITY pref_category_accessibility "Barrierefreiheit">
 <!ENTITY pref_category_accessibility_summary2 "Textgröße, Zoom, Spracheingabe">
-<!ENTITY pref_category_privacy_short "Privatsphäre">
+<!ENTITY pref_category_privacy_short "Datenschutz">
 <!ENTITY pref_category_privacy_summary3 "Aktivitätenverfolgung, Cookies, Datenübermittlung">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Über &brandShortName;, Häufig gestellte Fragen, Feedback">
@@ -210,7 +210,7 @@
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Allgemein">
 <!ENTITY pref_header_search "Suche">
-<!ENTITY pref_header_privacy_short "Privatsphäre">
+<!ENTITY pref_header_privacy_short "Datenschutz">
 <!ENTITY pref_header_accessibility "Barrierefreiheit">
 <!ENTITY pref_header_advanced "Erweitert">
 <!ENTITY pref_header_help "Hilfe">
@@ -237,7 +237,7 @@
 
 <!ENTITY tracking_protection_prompt_title "Nun mit Schutz vor Aktivitätenverfolgung">
 <!ENTITY tracking_protection_prompt_text "Blockiert selbständig Inhalte zur Aktivitätenverfolgung, damit Sie sich keine Sorgen machen müssen.">
-<!ENTITY tracking_protection_prompt_tip_text "Rufen Sie die Privatsphäre-Einstellungen auf, um mehr zu erfahren">
+<!ENTITY tracking_protection_prompt_tip_text "Rufen Sie die Datenschutz-Einstellungen auf, um mehr zu erfahren">
 <!ENTITY tracking_protection_prompt_action_button "Verstanden!">
 
 <!ENTITY tab_queue_toast_message3 "Tab gespeichert in &brandShortName;">
@@ -299,7 +299,7 @@ size. -->
 <!ENTITY pref_voice_input "Spracheingabe">
 <!ENTITY pref_voice_input_summary2 "Spracheingabe in der Adressleiste erlauben">
 <!ENTITY pref_qrcode_enabled "QR-Code-Leser">
-<!ENTITY pref_qrcode_enabled_summary2 "QR-Scanner in der Adressleiste erlauben">
+<!ENTITY pref_qrcode_enabled_summary2 "QR-Code-Leser in der Adressleiste erlauben">
 
 <!ENTITY pref_use_master_password "Master-Passwort benutzen">
 <!ENTITY pref_sync2 "Anmelden">
@@ -453,7 +453,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Vollbildmodus">
-<!ENTITY pref_scroll_title_bar_summary2 "Die Navigationsleiste von &brandShortName; beim Herunterwischen verbergen">
+<!ENTITY pref_scroll_title_bar_summary2 "Navigationsleiste von &brandShortName; beim Herunterwischen ausblenden">
 
 <!ENTITY pref_tab_queue_title2 "Beim Öffnen mehrerer Links">
 <!ENTITY pref_tab_queue_summary3 "Zurückstellen bis zum nächsten Öffnen von &brandShortName;">
