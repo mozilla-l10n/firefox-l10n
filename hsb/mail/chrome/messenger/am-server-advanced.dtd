@@ -22,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "D">
 <!ENTITY overrideNamespaces.label "Serwerej dowolić, zo tute mjenowe rumy přeńdźe">
 <!ENTITY overrideNamespaces.accesskey "l">
-
-
-
+<!ENTITY pop3DeferringDesc.label "Hdyž e-mejl wot serwera tutoho konta sćahujeće, wužiwajće slědowacy rjadowak, zo byšće nowe powěsće składował:" >
+<!ENTITY accountInbox.label "Póstowy dochad za tute konto">
+<!ENTITY accountInbox.accesskey "t">
 <!ENTITY deferToServer.label "Póstowy kašćik za druhe konto">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Tutón serwer při přijimanju noweje e-mejle zapřijeć">

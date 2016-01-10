@@ -4,8 +4,8 @@
 
 <!ENTITY dialog.title                 "Wotesyłanske nastajenja">
 <!ENTITY sendMail.title               "Tekstowy format">
-
-
+<!ENTITY autoDowngrade.label          "Powěsće jako luty tekst pósłać, jeli móžno">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Jeli chceće powěsće w formaće HTML pósłać a jedyn přijimar abo wjace přijimarjow njeje podaty, zo by móhł HTML dóstać:">
 <!ENTITY askMe.label                  "So prašeć, štož činić">
 <!ENTITY askMe.accesskey              "r">
