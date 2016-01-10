@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "z">
 <!ENTITY restoreHTMLDefaults.label            "Standardy wobnowić">
 <!ENTITY restoreHTMLDefaults.accesskey        "b">
-
-
+<!ENTITY enterKeyCreatesNewParagraph.label    "Hdyž so wotstawkowy format wužiwa, tasta Enter nowy wotstawk wutwori">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "w">
 
 <!ENTITY spellCheck.label                     "Prawopis do słanja pruwować">
 <!ENTITY spellCheck.accesskey                 "s">
