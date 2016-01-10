@@ -56,8 +56,8 @@
 <!ENTITY lineNumbers.label             "Mostrar número da linha">
 <!ENTITY lineNumbers.accesskey         "l">
 
-<!ENTITY wordWrap.label                "Moldar texto">
-<!ENTITY wordWrap.accesskey            "M">
+<!ENTITY wordWrap.label                "Encapsular texto">
+<!ENTITY wordWrap.accesskey            "E">
 
 <!ENTITY highlightTrailingSpace.label     "Destacar texto deslocado">
 <!ENTITY highlightTrailingSpace.accesskey "D">
