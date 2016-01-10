@@ -28,7 +28,7 @@
      controls whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
-         "Quick Filter Bar">
+         "Панель швидкого фільтрування">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
@@ -184,27 +184,27 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanMode.tooltip "Tag filtering mode">
+<!ENTITY quickFilterBar.booleanMode.tooltip "Режим фільтрування за міткою">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAny.label "Any of">
+<!ENTITY quickFilterBar.booleanModeAny.label "Будь-який з">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAny.tooltip "At least one of the selected tag criteria should match">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Повинен збігатися принаймні один з обраних критеріїв">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAll.label "All of">
+<!ENTITY quickFilterBar.booleanModeAll.label "Всі з">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAll.tooltip "All of the selected tag criteria must match">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Повинні збігатися всі обрані критерії">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.

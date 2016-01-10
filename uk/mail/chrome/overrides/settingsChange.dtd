@@ -2,5 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  settingsChangePreferences.label  "Settings can be changed using the Attachments tab in &brandShortName;'s Preferences.">
-<!ENTITY  settingsChangeOptions.label      "Settings can be changed using the Attachments tab in &brandShortName;'s Options.">
+<!ENTITY  settingsChangePreferences.label  "Налаштування можуть бути змінені у вкладці Вкладення Налаштувань &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Налаштування можуть бути змінені у вкладці Вкладення Налаштувань &brandShortName;.">
