@@ -102,10 +102,12 @@
 <!ENTITY settings "Roghainnean">
 <!ENTITY settings_title "Roghainnean">
 <!ENTITY pref_category_general "Coitcheann">
-
+<!ENTITY pref_category_general_summary2 "Dachaigh, cànan, bàr an URL">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Cànan">
 <!ENTITY pref_category_language_summary "Atharraich cànan a’ bhrabhsair agad">
 <!ENTITY pref_browser_locale "Cànan a’ bhrabhsair">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,12 +144,12 @@
 
 <!ENTITY pref_category_search3 "Lorg">
 <!ENTITY pref_category_search_summary "Gnàthaich na solaraichean luirg agad">
-
-
+<!ENTITY pref_category_accessibility "So-inntrigeachd">
+<!ENTITY pref_category_accessibility_summary2 "Meud an teacsa, sùm, ion‑chur gutha">
 <!ENTITY pref_category_privacy_short "Prìobhaideachd">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "Tracadh, briosgaidean, roghainnean dàta">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Mu &brandShortName;, CÀBHA, do bheachd air">
 <!ENTITY pref_category_datareporting "Roghainnean dàta">
 <!ENTITY pref_learn_more "Barrachd fiosrachaidh">
 <!ENTITY pref_category_installed_search_engines "Einnseanan-luirg stàlaichte">
@@ -161,8 +163,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "GLIOCAS: ’S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada air an raon luirg aige ’s a\u0027 toirt gnogag air an ìomhaigheag &formatI; an uairsin.">
-
-
+<!ENTITY pref_category_advanced "Adhartach">
+<!ENTITY pref_category_advanced_summary2 "Aisig tabaichean, plugain, innealan an luchd-leasachaidh">
 <!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
 <!ENTITY pref_developer_remotedebugging_usb "Dì-bhugachadh cèin slighe USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Dì-bhugachadh cèin slighe WiFi">
@@ -182,7 +184,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "Chaidh “&formatS;” a chur ris an duilleag-dhachaigh">
 <!ENTITY pref_category_home_content_settings "Roghainnean na susbaint">
-
+<!ENTITY pref_home_updates "Ùrachaidhean fèin-obrachail">
 <!ENTITY pref_home_updates_enabled "An comas">
 <!ENTITY pref_home_updates_wifi "Air WiFi a-mhàin">
 <!ENTITY pref_home_suggested_sites "Seall molaidhean làraichean">
@@ -192,31 +194,37 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Dachaigh &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Gnàthaichte">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Cuir a-steach facal-luirg no seòladh">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "Coitcheann">
+<!ENTITY pref_header_search "Lorg">
 <!ENTITY pref_header_privacy_short "Prìobhaideachd">
-
-
+<!ENTITY pref_header_accessibility "So-inntrigeachd">
+<!ENTITY pref_header_advanced "Adhartach">
 <!ENTITY pref_header_help "Cobhair">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Briosgaidean">
 <!ENTITY pref_cookies_accept_all "An comas">
 <!ENTITY pref_cookies_not_accept_foreign "An comas, as aonais feadhainn o threas-phàrtaidh">
 <!ENTITY pref_cookies_disabled "À comas">
 
-
-
-
+<!ENTITY pref_tap_to_load_images_title2 "Seall dealbhan">
+<!ENTITY pref_tap_to_load_images_enabled "An-còmhnaidh">
+<!ENTITY pref_tap_to_load_images_data "Air WiFi a-mhàin">
+<!ENTITY pref_tap_to_load_images_disabled2 "Air a chasg">
 
 <!ENTITY pref_tracking_protection_title "Dìon o thracadh">
 <!ENTITY pref_tracking_protection_summary3 "An comas sa bhrabhsadh phrìobhaideach">
@@ -252,11 +260,11 @@
 <!ENTITY pref_char_encoding "Còdachadh charactaran">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
 <!ENTITY pref_char_encoding_off "Na seall an clàr-taice">
-
+<!ENTITY pref_clear_private_data "Falamhaich an dàta prìobhaideach">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Falamhaich an-dràsta">
-
+<!ENTITY pref_clear_on_exit_title3 "Falamhaich an dàta prìobhaideach aig àm fàgail">
 <!ENTITY pref_clear_on_exit_summary2 "Falamhaichidh &brandShortName; an dàta agad gu fèin-obrachail gach turas a thaghas tu “Fàg an-seo” sa phrìomh chlàr-taice">
 <!ENTITY pref_clear_on_exit_dialog_title "Tagh an dàta a thèid fhalamhadh">
 <!ENTITY pref_plugins "Plugain">
@@ -264,7 +272,7 @@
 <!ENTITY pref_plugins_tap_to_play "Gnog gus a chluich">
 <!ENTITY pref_plugins_disabled "À comas">
 <!ENTITY pref_text_size "Meud an teacsa">
-
+<!ENTITY pref_restore_tabs "Aisig a h-uile taba">
 <!ENTITY pref_restore_always "Aisig an-còmhnaidh">
 <!ENTITY pref_restore_quit "Na aisig an dèidh dhomh &brandShortName; fhàgail">
 <!ENTITY pref_font_size_tiny "Beag bìodach">
@@ -289,16 +297,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Cuir an sùmadh an comas an-còmhnaidh">
 <!ENTITY pref_zoom_force_enabled_summary "Tar-àithn e airson ’s gun urrainn dhut duilleag sam bith a shùmadh">
 <!ENTITY pref_voice_input "Ion-chur gutha">
-
+<!ENTITY pref_voice_input_summary2 "Ceadaich deachdadh gutha ann am bàr an tiotail">
 <!ENTITY pref_qrcode_enabled "Leughadair còd QR">
-
+<!ENTITY pref_qrcode_enabled_summary2 "Ceadaich sganair QR ann am bàr an tiotail">
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
-
+<!ENTITY pref_sync2 "Clàraich a-steach">
 <!ENTITY pref_sync_summary2 "Sioncronaich na tabaichean, comharran-lìn, clàraidhean a-steach ’s an eachdraidh agad">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_history_search_suggestions "Seall eachdraidh nan lorg">
-
+<!ENTITY pref_import_options "Roghainnean ion-phortaidh">
 <!ENTITY pref_import_android_summary "Ion-phortaich comharran-lìn is an eachdraidh on bhrabhsair tùsail aig an uidheam">
 <!ENTITY pref_private_data_history2 "An eachdraidh brabhsaidh">
 <!ENTITY pref_private_data_searchHistory "Eachdraidh nan lorg">
@@ -355,16 +363,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Ùrachaidhean fèin-obrachail">
 <!ENTITY pref_update_autodownload_wifi "Air WiFi a-mhàin">
 <!ENTITY pref_update_autodownload_never "Chan ann idir">
-
+<!ENTITY pref_update_autodownload_always "An-còmhnaidh">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Cobhair">
 
 <!ENTITY quit "Fàg an-seo">
 
-
+<!ENTITY addons "Tuilleadain">
+<!ENTITY logins "Clàraidhean a-steach">
 <!ENTITY downloads "Luchdaidhean a-nuas">
 <!ENTITY char_encoding "Còdachadh charactaran">
 
@@ -381,7 +391,7 @@ size. -->
 <!ENTITY new_private_tab "Taba prìobhaideach ùr">
 <!ENTITY close_all_tabs "Dùin a h-uile taba">
 <!ENTITY close_private_tabs "Dùin na tabaichean prìobhaideach">
-
+<!ENTITY tabs_normal "Tabaichean">
 <!ENTITY tabs_private "Prìobhaideach">
 <!ENTITY tabs_synced "Sioncronaichte">
 <!ENTITY set_image_fail "Cha ghabh an dealbh seo a shuidheachadh">
@@ -443,7 +453,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Brabhsadh làn-sgrìn">
-
+<!ENTITY pref_scroll_title_bar_summary2 "Falaich bàr-inneal &brandShortName; nuair a sgrolaichear sìos air duilleag">
 
 <!ENTITY pref_tab_queue_title2 "Fosgail iomadh ceangal">
 <!ENTITY pref_tab_queue_summary3 "Sàbhail iad gus an ath-thuras a dh’fhosglas tu &brandShortName;">
@@ -503,6 +513,8 @@ size. -->
 <!ENTITY home_top_sites_add "Cuir làrach ris">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "Dachaigh &brandShortName;">
 <!ENTITY home_history_title "Eachdraidh">
 <!ENTITY home_clear_history_button "Falamhaich an eachdraidh brabhsaidh">
 <!ENTITY home_clear_history_confirm "A bheil thu cinnteach gu bheil thu airson an eachdraidh agad fhalamhadh?">
@@ -520,8 +532,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint3 "GLIOCAS: ’S urrainn dhut rudan a tha thu a’ leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air an ìomhaigheag &formatI; nuair a nochdas e ann am bàr an URL.">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible2 "GLIOCAS: ’S urrainn dhut rudan a tha thu a’ leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air putan modha an leughadair nuair a nochdas e ann am bàr an URL.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -719,6 +733,8 @@ o Android">
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restrictable_feature_addons_installation "Tuilleadain">
 
 <!ENTITY restrictable_feature_private_browsing "Brabhsadh prìobhaideach">
 
