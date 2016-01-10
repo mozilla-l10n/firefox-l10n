@@ -14,9 +14,9 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-
-
-
+<!ENTITY certerror.returnToPreviousPage.label "Înapoi">
+<!ENTITY certerror.learnMore "Află mai multe…">
+<!ENTITY certerror.advanced.label "Avansat">
 
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Acest site folosește HTTP 
 Strict Transport Security (HSTS) pentru a specifica că &brandShortName; se conectează doar 
@@ -30,4 +30,4 @@ puteți seta &brandShortName; să aibă încredere pe viitor în identificarea a
 <!ENTITY certerror.expert.contentPara2 "Nu adăugați excepții decât dacă aveți 
 un motiv întemeiat să credeți că acest site nu folosește o identificare de încredere">
 <!ENTITY certerror.addException.label "Adaugă excepție…">
-
+<!ENTITY certerror.copyToClipboard.label "Copiază textul în clipboard">
