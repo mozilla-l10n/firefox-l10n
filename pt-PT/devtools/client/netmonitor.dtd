@@ -368,7 +368,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.query): This is the label displayed
   -  above the query string entry in the custom request form -->
 
-<!ENTITY netmonitorUI.custom.query        "Linha da consulta:">
+<!ENTITY netmonitorUI.custom.query        "String de consulta:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
 
