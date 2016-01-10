@@ -273,3 +273,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
+<!ENTITY old_sync_deprecated_notification_title "Clàraich a-steach airson leantainn air an t-sioncronachadh.">
+<!ENTITY old_sync_deprecated_notification_content "Chan eil taic ris a’ chunntas agad tuilleadh">
