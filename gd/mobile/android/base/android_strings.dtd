@@ -735,17 +735,17 @@ o Android">
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "Tuilleadain">
-
+<!ENTITY restrictable_feature_addons_installation_description "Cuir gleusan is comasan ri Firefox. An aire: Dh’fhaoidte gun cuir tuilleadain cuid a chuingeachaidhean a chur à comas.">
 <!ENTITY restrictable_feature_private_browsing "Brabhsadh prìobhaideach">
-
-
-
-
-
-
-
-
-
+<!ENTITY restrictable_feature_private_browsing_description "Leig le buill an teaghlaich brabhsadh gun a bhith a’ clàradh dè na làraichean air an do thadhail iad.">
+<!ENTITY restrictable_feature_clear_history "Falamhaich an eachdraidh">
+<!ENTITY restrictable_feature_clear_history_description "Leig le buill an teaghlaich fiosrachadh mu na làraichean air an do thadhail iad a sguabadh às.">
+<!ENTITY restrictable_feature_advanced_settings "Roghainnean adhartach">
+<!ENTITY restrictable_feature_advanced_settings_description "Tha seo a’ gabhail a‑staigh ion‑phortadh chomharran‑lìn, aiseag thabaichean is ùrachaidhean fèin‑obrachail. Cuir dheth seo airson roghainnean simplidh a chur an sàs a bhios iomchaidh do bhall sam bith dhen teaghlach.">
+<!ENTITY restrictable_feature_camera_microphone "An camara ⁊ am micreofon">
+<!ENTITY restrictable_feature_camera_microphone_description "Bheir seo comas do bhuill an teaghlaich pàirt a ghabhail ann an conaltradh beò air làraichean‑lìn.">
+<!ENTITY restrictable_feature_data_choices "Roghainnean dàta">
+<!ENTITY restrictable_feature_data_choices_description "Cuir romhad an dèid fiosrachadh a chur gu Mozilla mu na dòighean air an cleachd thu e airson ’s gun urrainn dhuinn Firefox a leasachadh.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -762,4 +762,7 @@ o Android">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "Tha sinn duilich! Chan obraich seo, &brandShortName;, air an uidheam seo (&formatS1;, &formatS2;). Feuch is luchdaich a‑nuas an tionndadh ceart.">
 
+<!ENTITY eol_notification_title "Chan eil &brandShortName; a’ cur taic ri Android 3 tuilleadh">
+<!ENTITY eol_notification_summary "Thoir gnogag airson barrachd fiosrachaidh">
