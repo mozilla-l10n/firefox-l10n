@@ -271,3 +271,8 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text '點擊以登入為 &formatS;'>
 
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
+<!ENTITY old_sync_deprecated_notification_title '登入後繼續同步'>
+<!ENTITY old_sync_deprecated_notification_content '已不再支援您的帳號'>
+
