@@ -171,8 +171,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota vía Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Depuración por Wi-Fi requiere que el dispositivo tenga instalada una aplicación de lectura de códigos QR.">
 <!ENTITY pref_remember_signons2 "Recordar ingresos">
-<!ENTITY pref_open_external_urls_privately_title "Abrir enlaces en ventana privada">
-<!ENTITY pref_open_external_urls_privately_summary "Para todos los enlaces externos abiertos en &brandShortName;">
 <!ENTITY pref_manage_logins "Administrar ingresos">
 
 <!ENTITY pref_category_home "Inicio">
@@ -752,8 +750,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "Se incluye importar marcadores, restaurar pestañás y actualizaciones automáticas. Deshabilitar para opciones simplificadas puede ser adecuado para cualquier miembro de la familia.">
 <!ENTITY restrictable_feature_camera_microphone "Cámara y micrófono">
 <!ENTITY restrictable_feature_camera_microphone_description "Permitir miembros de la familia se involucren en comunicaciones en tiempo real en sitios web.">
-<!ENTITY restrictable_feature_data_choices "Opciones de datos">
-<!ENTITY restrictable_feature_data_choices_description "Seleccionar si se puede o no enviar información de uso a Mozilla para ayudar a mejorar Firefox.">
+<!ENTITY restrictable_feature_block_list "Lista de bloqueo">
+<!ENTITY restrictable_feature_block_list_description "Bloquear sitios que incluyan contenido sensible.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
