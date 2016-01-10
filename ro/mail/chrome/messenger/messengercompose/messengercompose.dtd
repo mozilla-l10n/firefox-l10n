@@ -215,7 +215,7 @@
 <!ENTITY addressButton.tooltip "Selectați destinatarul din agenda de contacte">
 <!ENTITY attachButton.tooltip "Include un atașament">
 <!ENTITY spellingButton.tooltip "Verifică ortografia pentru zona selectată sau pentru întregul mesaj">
-
+<!ENTITY statusLanguageText.tooltip "Verificarea ortografiei limbii">
 <!ENTITY saveButton.tooltip "Salvează acest mesaj">
 <!ENTITY cutButton.tooltip              "Taie">
 <!ENTITY copyButton.tooltip             "Copiază">

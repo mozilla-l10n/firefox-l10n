@@ -20,8 +20,8 @@
 <!ENTITY replaceButton.accessKey "l">
 <!ENTITY replaceAllButton.label "Înlocuiește toate">
 <!ENTITY replaceAllButton.accessKey "o">
-
-
+<!ENTITY stopButton.label "Stop">
+<!ENTITY stopButton.accessKey "o">
 <!ENTITY userDictionary.label "Dicționar personal:">
 <!ENTITY moreDictionaries.label "Descarcă mai multe dicționare…">
 <!ENTITY addToUserDictionaryButton.label "Adaugă cuvânt">
