@@ -138,6 +138,8 @@
      the messages and that there is a hotkey they can press to get to the
      box faster.
      -->
+
+<!ENTITY quickFilterBar.textbox.emptyText.base1 "Criathair na teachdaireachdan a leanas #1">
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
 

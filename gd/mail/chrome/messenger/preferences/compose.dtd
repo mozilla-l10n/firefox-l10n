@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "b">
 <!ENTITY restoreHTMLDefaults.label            "Aisig na roghainnean bunaiteach">
 <!ENTITY restoreHTMLDefaults.accesskey        "r">
-
-
+<!ENTITY enterKeyCreatesNewParagraph.label    "Nuair a bhios tu san fhòrmat pharagraf, cruthaichidh an iuchair Enter paragraf ùr.">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY spellCheck.label                     "Ceartaich an litreachadh mus dèid a chur">
 <!ENTITY spellCheck.accesskey                 "C">
