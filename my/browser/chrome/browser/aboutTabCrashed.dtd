@@ -6,10 +6,10 @@
 <!ENTITY tabCrashed.message "ကဲ အခုသတင်းကောင်းတွေကတော့ - သင်ယခု တပ်ဗ်တစ်ခုထဲကိုသာ ပိတ်ပြီး ပြန်ဖွင့် သို့ သင့်တဗ်အားလုံးကို ဖွင့်">
 <!ENTITY tabCrashed.sendReport "သတင်းဆိုးများအား ကာကွယ်နိုင်ရန် ပြဿနာ အချက်အလက်အား တင်ပြပါ">
 <!ENTITY tabCrashed.includeURL "ကျွန်ုပ်ရောက်နေခဲ့သော စာမျက်နှာလိပ်စာပါ ထည့်ပေးလိုက်မည်။">
-
-
-
-
+<!ENTITY tabCrashed.commentPlaceholder "မှတ်ချက်ပေးပါ (ဤမှတ်ချက်များကို လူအများ မြင်ရလိမ့်မည်)">
+<!ENTITY tabCrashed.emailPlaceholder "သင့်အီမေးလ်လိပ်စာကို ဤနေရာတွင် ထည့်ပါ။">
+<!ENTITY tabCrashed.emailMe "အချက်အလက်များ ထပ်မံရရှိလာပါက ကျွန်ုပ်ထံ အီးမေးလ်ပို့ပါ">
+<!ENTITY tabCrashed.crashReporter "မိုဇီလာ အပျက်အစီး အစီရင်ခံသူ">
 <!ENTITY tabCrashed.reportSent "ပြဿနာ အချက်အား ကြိုတင် တင်ပြခဲ့ပြီး ဖြစ်ပါသည်။ &brandShortName; ပိုကောင်းအောင် ပြုလုပ်နိုင်ရန် သင့်ကူညီမှုအား ကျေးဇူးတင်ပါသည်">
 <!ENTITY tabCrashed.closeTab "ယခု ကော်လံအား ပိတ်ပါ">
 <!ENTITY tabCrashed.restoreTab "ယခု ကော်လံအား ပြန်ဖွင့်ပါ">
