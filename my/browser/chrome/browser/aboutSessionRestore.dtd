@@ -51,8 +51,10 @@ their language.
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
-
-
-
-
+<!ENTITY tabgroupsmigration.tabtitle            "သင်၏ အခြားတဗ်အစုများကို ပူးပေါင်းပါ">
+<!ENTITY tabgroupsmigration.pagetitle2          "ကျွန်တော်တို့ တဗ်အစုများကို ဖျက်ထားသည်။ သို့သော် သင့်တဗ်များကို သိမ်းထားပါသည်။">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "တဗ်အစုများအစားထို့းသည့် အဒ်အွန်အကြောင်း ကြည့်ရှုပါ။">
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; သည် သင့်တဗ်အစုများအားလုံးကို မှတ်သားပြီးပါပြီ။ ထို့အတွက်ကြောင့် မည်သည့်တဗ်မျှ မဆုံးရှုံးတော့ပါ။">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "မှတ်သားထားသည့် တဗ်အစုများကို ပြရန်">
+<!ENTITY tabgroupsmigration.restoredescription  "သင်သည် သိမ်းထားသည့် တဗ်အစုများ အားလုံး (သို့) အချို့ကို ဝင်းဒိုးများအဖြစ်သို့ မူလအတိုင်း ပြန်လည်ထုတ်ယူရန် ရွေးချယ်နိုင်သည်။">
 
