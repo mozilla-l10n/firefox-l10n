@@ -32,7 +32,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "Käynnissä">
 <!ENTITY aboutSupport.experimentEndDate "Loppumispäivämäärä">
 <!ENTITY aboutSupport.experimentHomepage "Kotisivu">
-
+<!ENTITY aboutSupport.experimentBranch "Kanava">
 
 <!ENTITY aboutSupport.appBasicsTitle "Ohjelman perustiedot">
 <!ENTITY aboutSupport.appBasicsName "Nimi">
