@@ -86,16 +86,16 @@
 <!ENTITY fontSizeMenu.accesskey "M">
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY size-smallCmd.label "Mic">
+<!ENTITY size-smallCmd.accesskey "M">
+<!ENTITY size-mediumCmd.label "Mediu">
+<!ENTITY size-mediumCmd.accesskey "e">
+<!ENTITY size-largeCmd.label "Mare">
+<!ENTITY size-largeCmd.accesskey "M">
+<!ENTITY size-extraLargeCmd.label "Foarte mare">
+<!ENTITY size-extraLargeCmd.accesskey "t">
+<!ENTITY size-hugeCmd.label "Uriaș">
+<!ENTITY size-hugeCmd.accesskey "U">
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Stil text">
@@ -311,6 +311,8 @@
 <!ENTITY throbber.tooltip "Pagina principală &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
 <!-- Editor toolbar -->
+
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Stabilire mărime font">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Font mai mic">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Font mai mare">
 <!ENTITY boldToolbarCmd.tooltip "Aldin">

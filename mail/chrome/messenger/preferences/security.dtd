@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Nesolicitat">
 <!ENTITY itemPhishing.label      "Înșelătorii prin e-mail">
 <!ENTITY itemPasswords.label     "Parole">
-
+<!ENTITY itemAntiVirus.label     "Antivirus">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Setați setările implicite pentru mesajele nesolicitate. Se pot alege și setări specifice fiecărui cont din setările contului.">
@@ -42,5 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "s">
 <!-- Anti Virus -->
 
-
+<!ENTITY antiVirus.intro      "&brandShortName; poate ușura munca programelor antivirus scanând mesajele primite de viruși înainte de a le stoca pe disc.">
+<!ENTITY antiVirus.label      "Permite programelor antivirus să pună în carantină individual mesajele primite">
+<!ENTITY antiVirus.accesskey  "a">
 

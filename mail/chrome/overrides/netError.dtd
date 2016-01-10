@@ -138,6 +138,7 @@ asigurați-vă că &brandShortName; are permisiunea de a accesa webul.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Introducerea de informații personale pe această pagină ar putea rezulta în furt de identitate sau altă fraudă.</p> 
 <p>Aceste tipuri de falsuri web sunt folosite în păcăleli cunoscute ca atacuri de tip „phishing”, în care pagini și e-mailuri frauduloase sunt folosite pentru a imita surse în care aveți încredere.</p>">
 
+<!ENTITY forbiddenBlocked.title "Site interzis">
 
 
 <!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
