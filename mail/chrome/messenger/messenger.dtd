@@ -631,7 +631,7 @@
 <!ENTITY folderContextMarkNewsgroupRead.label "Shënoje Grupin e Lajmeve si Të lexuar">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "L">
 <!ENTITY folderContextMarkMailFolderRead.label "Shënoje Dosjen si Të lexuar">
-<!ENTITY folderContextMarkMailFolderRead.accesskey "D">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "l">
 <!ENTITY folderContextSubscribe.label "Pajtohuni…">
 <!ENTITY folderContextSubscribe.accesskey "P">
 <!ENTITY folderContextSearchForMessages.label "Kërkoni Te Mesazhet…">
