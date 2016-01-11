@@ -103,6 +103,8 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "ภาษา">
 <!ENTITY pref_category_language_summary "เปลี่ยนภาษาของเบราว์เซอร์คุณ">
 <!ENTITY pref_browser_locale "ภาษาของเบราว์เซอร์">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -193,6 +195,7 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "กำหนดเอง">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
@@ -200,8 +203,10 @@
      text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "ทั่วไป">
+<!ENTITY pref_header_search "ค้นหา">
 <!ENTITY pref_header_privacy_short "ความเป็นส่วนตัว">
-
+<!ENTITY pref_header_accessibility "การช่วยเข้าถึง">
 
 <!ENTITY pref_header_help "ช่วยเหลือ">
 
@@ -245,11 +250,11 @@
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
 <!ENTITY pref_char_encoding_off "ไม่แสดงเมนู">
-
+<!ENTITY pref_clear_private_data "ล้างข้อมูลส่วนตัว">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ล้างทันที">
-
+<!ENTITY pref_clear_on_exit_title3 "ล้างข้อมูลส่วนตัวเมื่อออก">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \u0022ออก\u0022 จากเมนูหลัก">
 <!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่ต้องการล้าง">
 <!ENTITY pref_plugins "โปรแกรมเสริม">
@@ -257,7 +262,7 @@
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
 <!ENTITY pref_plugins_disabled "ถูกปิดใช้งาน">
 <!ENTITY pref_text_size "ขนาดตัวอักษร">
-
+<!ENTITY pref_restore_tabs "เรียกคืนแท็บ">
 <!ENTITY pref_restore_always "เรียกคืนเสมอ">
 <!ENTITY pref_restore_quit "ไม่เรียกคืนหลังออกจาก &brandShortName;">
 <!ENTITY pref_font_size_tiny "เล็กมาก">
@@ -374,7 +379,7 @@ size. -->
 <!ENTITY new_private_tab "แท็บแบบส่วนตัวใหม่">
 <!ENTITY close_all_tabs "ปิดทุกแท็บ">
 <!ENTITY close_private_tabs "ปิดแท็บแบบส่วนตัว">
-
+<!ENTITY tabs_normal "แท็บ">
 <!ENTITY tabs_private "ส่วนตัว">
 <!ENTITY tabs_synced "ผสานข้อมูลแล้ว">
 <!ENTITY set_image_fail "ไม่สามารถตั้งค่ารูป">
