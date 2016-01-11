@@ -224,3 +224,6 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableWorkers.label    "Aktivizoni diagnostikim worker-ësh (në zhvillim e sipër)">
 <!ENTITY options.enableWorkers.tooltip  "Aktivizimi i kësaj mundësie do t&apos;u lejojë mjeteve të zhvilluesit të diagnostikojnë worker-ë">
+<!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
+  -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.authored "Si e Autorit">
