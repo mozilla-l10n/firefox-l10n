@@ -13,6 +13,7 @@
 <!ENTITY  onboard_start_button_browser "ເລີ່ມການຄົ້ນຫາ">
 <!ENTITY firstrun_button_next "ຕໍ່ໄປ">
 
+<!ENTITY  onboard_start_restricted1 "ທ່ອງເວັບຢ່າງປອດໄພ ແລະ ຢູ່ພາຍໃຕ້ການຄວບຄຸມຂອງທ່ານດ້ວຍລຸ້ນນີ້ຂອງ &brandShortName;.">
 
 <!ENTITY firstrun_import_title "ນຳເຂົ້າ">
 <!ENTITY firstrun_import_message "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
@@ -100,11 +101,13 @@
 
 <!ENTITY settings "ການຕັ້ງຄ່າ">
 <!ENTITY settings_title "ການຕັ້ງຄ່າ">
-
-
+<!ENTITY pref_category_general "ທົ່ວໄປ">
+<!ENTITY pref_category_general_summary2 "ຫນ້າລັກ, ພາສາ, ແຖບ URL">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "ພາສາ">
 <!ENTITY pref_category_language_summary "ປ່ຽນພາສາໃນບຣາວເສີຂອງທ່ານ">
 <!ENTITY pref_browser_locale "ພາສາໃນບຣາວເສີ">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -141,12 +144,12 @@
 
 <!ENTITY pref_category_search3 "ຊອກຫາ">
 <!ENTITY pref_category_search_summary "ດັດແກ້ຕົວຊອກຫາຂອງທ່ານ">
-
-
+<!ENTITY pref_category_accessibility "ການເຂົ້າເຖິງ">
+<!ENTITY pref_category_accessibility_summary2 "ຂະໜາດຕົວຫນັງສື, ຂະຫຍາຍ, ປ້ອນສຽງເຂົ້າ">
 <!ENTITY pref_category_privacy_short "ຄວາມເປັນສ່ວນຕົວ">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "ການຕິດຕາມ, ຄຸກກີ, ການເລືອກຂໍ້ມູນ">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "ກ່ຽວກັບ &brandShortName;, ຄຳຖາມທີພົບເປັນປະຈຳ, ຄໍາຄຶດຄໍາເຫັນ">
 <!ENTITY pref_category_datareporting "ເລືອກຂໍ້ມູນ">
 <!ENTITY pref_learn_more "ຮຽນຮູ້ເພີ່ມເຕີມ">
 <!ENTITY pref_category_installed_search_engines "ໄດ້ທຳການຕິດຕັ້ງລະບົບການຄົ້ນຫາແລ້ວ">
@@ -160,7 +163,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "ຄຳແນະນຳ: ເພີ່ມທຸກໆເວັບໃຊ້ເຂົ້າໄປໃນລາຍການຜູ້ສະຫນອງການຄົ້ນຫາຂອງທ່ານໂດຍການກົດຄ້າງໄວ້ໃນຫ້ອງຄົ້ນຫາ ແລະ ຫລັງຈາກນັ້ນກົດທີ່ກາ &formatI; ">
-
+<!ENTITY pref_category_advanced "ຂັ້ນສູງ">
 
 <!ENTITY pref_developer_remotedebugging "ການດີບັກທາງໃກ">
 <!ENTITY pref_developer_remotedebugging_usb "ການດີບັກ (Debugging) ທາງໃກຜ່ານທາງ USB">
@@ -181,7 +184,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "&formatS; ໄດ້ເພີ່ມຫນ້າຫລັກແລ້ວ">
 <!ENTITY pref_category_home_content_settings "ການຕັ້ງຄ່າເນື້ອຫາ">
-
+<!ENTITY pref_home_updates "ອັບເດດອັດຕະໂນມັດ">
 <!ENTITY pref_home_updates_enabled "ເປີດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_home_updates_wifi "ຜ່ານທາງ Wi-Fi ເທົ່ານັ້ນ">
 <!ENTITY pref_home_suggested_sites "ສະແດງຜົນການແນະນຳການເວັບໃຊ້">
@@ -191,39 +194,46 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; ຫນ້າລັກ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "ປັບແຕ່ງ">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "ປ້ອນທີຢູ່ຂອງເວັບ ຫລື ຄຳທີ່ຕ້ອງການຄົ້ນຫາ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "ທົ່ວໄປ">
+<!ENTITY pref_header_search "ຊອກຫາ">
 <!ENTITY pref_header_privacy_short "ຄວາມເປັນສ່ວນຕົວ">
-
-
+<!ENTITY pref_header_accessibility "ການເຂົ້າເຖິງ">
+<!ENTITY pref_header_advanced "ຂັ້ນສູງ">
 <!ENTITY pref_header_help "ຊ່ວຍເຫລືອ">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "ຄຸກກີ">
 <!ENTITY pref_cookies_accept_all "ເປີດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_cookies_not_accept_foreign "ເປີດໃຊ້ງານ, ປະກອບໄປດ້ວຍບຸກຄົນທີ່ສາມ">
 <!ENTITY pref_cookies_disabled "ປິດໃຊ້ງານ">
 
-
-
-
+<!ENTITY pref_tap_to_load_images_title2 "ສະແດງຮູບພາບ">
+<!ENTITY pref_tap_to_load_images_enabled "ຕະຫລອດເວລາ">
+<!ENTITY pref_tap_to_load_images_data "ຜ່ານທາງ Wi-Fi ເທົ່ານັ້ນ">
+<!ENTITY pref_tap_to_load_images_disabled2 "ບັອກ">
 
 <!ENTITY pref_tracking_protection_title "ການປ້ອງກັນການຕິດຕາມ">
-
+<!ENTITY pref_tracking_protection_summary3 "ເປີດໃຫ້ໃຊ້ງານໃນການຄົ້ນຫາແບບສ່ວນຕົວ">
 <!ENTITY pref_donottrack_title "ບໍ່ຕິດຕາມ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ຈະບອກເວັບໃຊ້ທີ່ທ່ານບໍ່ຕ້ອງການໃຫ້ຖືກຕິດຕາມ">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "ເປີດໃຊ້ງານແລ້ວ">
+<!ENTITY pref_tracking_protection_enabled_pb "ເປີດໃຫ້ໃຊ້ງານໃນການຄົ້ນຫາແບບສ່ວນຕົວ">
+<!ENTITY pref_tracking_protection_disabled "ປິດໃຊ້ງານ">
 
 <!ENTITY tracking_protection_prompt_title "ຂະນະນີ້ມີການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY tracking_protection_prompt_text "ບັອກອົງປະກອບການຕິດຕາມເພື່ອເຮັດໃຫ້ທ່ານບໍ່ຕ້ອງກັງວົນ.">
@@ -250,11 +260,11 @@
 <!ENTITY pref_char_encoding "ການເຂົ້າລະຫັດຕົວອັກສອນ">
 <!ENTITY pref_char_encoding_on "ສະແດງລາຍການ">
 <!ENTITY pref_char_encoding_off "ບໍ່ຕ້ອງສະແດງລາຍການ">
-
+<!ENTITY pref_clear_private_data "ລົບລ້າງຂໍ້ມູນສ່ວນໂຕ">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ລົບລ້າງຕອນນີ້ເລີຍ">
-
+<!ENTITY pref_clear_on_exit_title3 "ລົບລ້າງຂໍ້ມູນສ່ວນຕົວເມື່ອທ່ານອອກ">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ຈະລົບລ້າງຂໍ້ມູນຂອງທ່ານແບບອັດຕະໂນມັດທຸກຄັ້ງທີ່ທ່ານເລືອກ \u0022Quit\u0022 ຈາກລາຍການຫລັກ">
 <!ENTITY pref_clear_on_exit_dialog_title "ເລືອກຂໍ້ມູນທີ່ຕ້ອງການລົບລ້າງ">
 <!ENTITY pref_plugins "ປັກອິນ">
@@ -262,7 +272,7 @@
 <!ENTITY pref_plugins_tap_to_play "ແຕະເພື່ອຫລີ້ນ">
 <!ENTITY pref_plugins_disabled "ໄດ້ປິດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_text_size "ຂະໜາດຕົວຫນັງສື">
-
+<!ENTITY pref_restore_tabs "ກູ້ຄືນແທັບ">
 <!ENTITY pref_restore_always "ເອີ້ນກັບຄືນຢູ່ສະເຫມີ">
 <!ENTITY pref_restore_quit "ບໍ່ຕ້ອງເອີ້ນກັບຄືນຫລັງຈາກອອກຈາກ &brandShortName;">
 <!ENTITY pref_font_size_tiny "ນ້ອຍຫລາຍ">
@@ -285,16 +295,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "ເປີດໃຊ້ງານຊູມຕະລອດເວລາ">
 <!ENTITY pref_zoom_force_enabled_summary "ບັງຄັບໃຊ້ເພື່ອເຮັດໃຫ້ສາມາດຂະຫຍາຍເບິງໄດ້ທຸກຫນ້າ">
 <!ENTITY pref_voice_input "ໃສ່ສຽງ">
-
+<!ENTITY pref_voice_input_summary2 "ອະນຸຍາດຄຳສັ່ງສຽງໃນແຖບ URL">
 <!ENTITY pref_qrcode_enabled "ຕົວອ່ານລະຫັດ QR">
-
+<!ENTITY pref_qrcode_enabled_summary2 "ອະນຸຍາດຕົວສະແກນ QR ໃນແຖບ URL">
 
 <!ENTITY pref_use_master_password "ໃຊ້ລະຫັດຜ່ານຫລັກ">
-
+<!ENTITY pref_sync2 "ເຂົ້າສູ່ລະບົບ">
 <!ENTITY pref_sync_summary2 "ຊິງແທັບຂອງທ່ານ, ບຸກມາກ, ລັອກອິນ, ປະຫວັດການນຳໃຊ້">
 <!ENTITY pref_search_suggestions "ສະແດງຜົນການແນະນຳການຊອກຫາ">
-
-
+<!ENTITY pref_history_search_suggestions "ສະແດງປະຫວັດການຊອກຫາ">
+<!ENTITY pref_import_options "ທາງເລືອກໃນການປ້ອນຂໍ້ມູນ">
 <!ENTITY pref_import_android_summary "ນຳເຂົ້າບຸກມາກ ແລະ ປະຫວັດຈາກບຣາວເຊີ">
 <!ENTITY pref_private_data_history2 "ປະຫວັດການຄົ້ນຫາ">
 <!ENTITY pref_private_data_searchHistory "ປະຫວັດການຊອກຫາ">
@@ -351,16 +361,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "ອັບເດດອັດຕະໂນມັດ">
 <!ENTITY pref_update_autodownload_wifi "ຜ່ານທາງ Wi-Fi ເທົ່ານັ້ນ">
 <!ENTITY pref_update_autodownload_never "ບໍ່ເຄີຍ">
-
+<!ENTITY pref_update_autodownload_always "ຕະຫລອດເວລາ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "ວິທີໃຊ້">
 
 <!ENTITY quit "ອອກ">
 
-
+<!ENTITY addons "Add-ons">
+<!ENTITY logins "ລັອກອິນ">
 <!ENTITY downloads "ດາວໂຫລດ">
 <!ENTITY char_encoding "ການເຂົ້າລະຫັດຕົວອັກສອນ">
 
@@ -370,14 +382,14 @@ size. -->
 <!ENTITY save_as_pdf "ບັກທຶກເປັນ PDF">
 <!ENTITY print "ພິມ">
 <!ENTITY find_in_page "ຄົ້ນຫາໃນຫນ້ານີ້">
-
+<!ENTITY desktop_mode "ເອີ້ນໃຊ້ເວັບໄຊຕ໌ສຳລັບເດສ໌ກທັອບ">
 <!ENTITY page "ຫນ້າ">
 <!ENTITY tools "ເຄື່ອງມື">
 <!ENTITY new_tab "ເປີດໜ້າຕ່າງໃໝ່">
 <!ENTITY new_private_tab "ແທັບສ່ວນຕົວໃຫມ່">
 <!ENTITY close_all_tabs "ປິດແທັບທັງຫມົດ">
 <!ENTITY close_private_tabs "ປິດແທັບສ່ວນຕົວ">
-
+<!ENTITY tabs_normal "ແທັບ">
 <!ENTITY tabs_private "ສ່ວນຕົວ">
 <!ENTITY tabs_synced "ຊິງ">
 <!ENTITY set_image_fail "ບໍ່ສາມາດຕັ້ງຄ່າຮູບພາບໄດ້">
@@ -437,7 +449,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "ການຄົ້ນຫາແບບເຕັມຈໍ">
-
+<!ENTITY pref_scroll_title_bar_summary2 "ເຊື່ອງ &brandShortName; ແຖບຫົວຂໍ້ເມື່ອເລື່ອນຫນ້າເວັບໄຊຕ໌ລົງ.">
 
 <!ENTITY pref_tab_queue_title2 "ເປີດຫລາຍລີ້ງ">
 <!ENTITY pref_tab_queue_summary3 "ບັນທຶກໄວ້ຈົນກະທັ້ງທ່ານເປີດໃນຄັ້ງຕໍ່ໄປ &brandShortName;">
@@ -497,6 +509,8 @@ size. -->
 <!ENTITY home_top_sites_add "ເພີ່ມເວັບໄຊຕ໌">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "&brandShortName; ຫນ້າທໍາອິດ">
 <!ENTITY home_history_title "ປະຫວັດການໃຊ້ງານ">
 <!ENTITY home_clear_history_button "ລົບລ້າງປະຫວັດຂອງການຊອກຫາ">
 <!ENTITY home_clear_history_confirm "ທ່ານຫມັ້ນໃຈແລ້ວບໍ່ວ່າທ່ານຕ້ອງການລົບລ້າງປະຫວັດການໃຊ້ງານຂອງທ່ານທີ່ຜ່ານມາ?">
