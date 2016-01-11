@@ -62,7 +62,7 @@ values from browser.dtd.  -->
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
 
-<!ENTITY options.defaultColorUnit.label "Unidade pré-definida de cor">
+<!ENTITY options.defaultColorUnit.label "Unidade predefinida de cor">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
@@ -134,7 +134,7 @@ values from browser.dtd.  -->
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label     "Ferramentas pré-definidas de programação do Firefox">
+<!ENTITY options.selectDefaultTools.label     "Ferramentas predefinidas de programação do Firefox">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
@@ -214,7 +214,7 @@ símbolos da plataforma Gecko">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Inferir indentação com base no conteúdo do código">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Fechar automaticamente parêntesis retos">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserir automaticamente os parêntesis retos de fecho">
-<!ENTITY options.sourceeditor.expandtab.label           "Indentar com espaços">
+<!ENTITY options.sourceeditor.expandtab.label           "Indentar usando espaços">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Utilizar espaços em vez do caractere de tabulação">
 <!ENTITY options.sourceeditor.tabsize.label             "Tamanho da tabulação">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
