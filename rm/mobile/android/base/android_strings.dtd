@@ -593,31 +593,56 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Connexiun segirada">
 <!ENTITY identity_connection_insecure "Connexiun betg segirada">
+<!ENTITY identity_login_insecure "Questa pagina n'è betg segira e tias datas d'annunzia pudessan esser periclitadas.">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloccà cuntegn malsegir sin questa pagina.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ha bloccà ina part dal cuntegn malsegir sin questa pagina.">
+<!ENTITY mixed_content_display_loaded1 "Parts da questa pagina (p.ex. maletgs) n'èn betg segiradas.">
+<!ENTITY mixed_content_protection_disabled1 "Ti has deactivà la protecziun cunter cuntegn malsegir.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title "Protecziun cunter il fastizar">
+<!ENTITY doorhanger_tracking_state_enabled "Activà">
+<!ENTITY doorhanger_tracking_state_disabled "Deactivà">
+<!ENTITY doorhanger_tracking_message_enabled1 "Emprovas da ta fastizar durant navigar èn vegnidas bloccadas.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Questa pagina cuntegna elements che ta pon eventualmain fastizar durant navigar.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
+<!ENTITY learn_more "Ulteriuras infurmaziuns">
+<!ENTITY enable_protection "Activar la protecziun">
+<!ENTITY disable_protection "Deactivar la protecziun">
+<!ENTITY keep_blocking "Cuntinuar da bloccar">
 
+<!ENTITY private_data_success "Stizzà las datas privatas">
+<!ENTITY private_data_fail "I n'è betg reussì da stizzar tschertas datas privatas">
 
+<!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importar ils segnapaginas e la cronologia
                                       dad Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importar ils segnapaginas
                                            dad Android">
+<!ENTITY bookmarkhistory_import_history "Importar la cronologia
+                                         dad Android">
+<!ENTITY bookmarkhistory_import_wait "Spetgar per plaschair...">
 
+<!ENTITY suggestions_prompt3 "Vuls ti activar propostas da tschertga?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Tschertgar cun &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Tschertgar cun &formatS1;: &formatS2;">
 
+<!ENTITY webapp_generic_name "App">
 
+<!ENTITY searchable_description "Segnapaginas e cronologia">
 
  <!-- Updater notifications -->
 
