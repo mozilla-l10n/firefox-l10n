@@ -4,8 +4,8 @@
 <!-- extracted from am-addressing.xul -->
 
 
-<!ENTITY addressing.label          "Spisowanje a adresowanje">
-<!ENTITY addressingGroupTitle.label "Adresowanje">
+<!ENTITY addressing.label          "Wobdźěłować a adresować">
+<!ENTITY addressingGroupTitle.label "Adresować">
 <!ENTITY addressingText.label      "Při pytanju za powěsćemi:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Globalne nastajenja serwera LDAP za tute konto wužiwac">
@@ -19,7 +19,7 @@
 <!-- am-addressing.xul -->
 
 
-<!ENTITY compositionGroupTitle.label          "Spisowanje">
+<!ENTITY compositionGroupTitle.label          "Wobdźěłanje">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Powěsće we formaće HTML spisać">
 <!ENTITY useHtml.accesskey                    "H">
@@ -40,7 +40,7 @@
 <!ENTITY includeSigOnForward.label            "Signaturu za dalesposrědkowanja zapřijeć">
 <!ENTITY includeSigOnForward.accesskey        "l">
 
-<!ENTITY globalComposingPrefs.label           "Globalne spisowanske nastajenja…">
+<!ENTITY globalComposingPrefs.label           "Globalne wobdźěłowanske nastajenja…">
 <!ENTITY globalComposingPrefs.accesskey       "G">
 
 <!ENTITY globalAddressingPrefs.label          "Globalne adresowanske nastajenja…">

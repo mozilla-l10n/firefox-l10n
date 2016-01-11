@@ -110,7 +110,7 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "S">
 <!ENTITY menubarCmd.label "Menijowa lajsta">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY showCompositionToolbarCmd.label "Spisowanska lajsta">
+<!ENTITY showCompositionToolbarCmd.label "Wobdźěłowanska lajsta">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Formatowanska lajsta">
 <!ENTITY showFormattingBarCmd.accesskey "F">

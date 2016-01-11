@@ -30,8 +30,8 @@
 <!ENTITY abSearchHeading.accesskey   "t">
 <!ENTITY propertiesButton.label      "Kajkosće">
 <!ENTITY propertiesButton.accesskey  "K">
-<!ENTITY composeButton.label         "Spisać">
-<!ENTITY composeButton.accesskey     "S">
+<!ENTITY composeButton.label         "Pisać">
+<!ENTITY composeButton.accesskey     "P">
 <!ENTITY deleteCardButton.label      "Zhašeć">
 <!ENTITY deleteCardButton.accesskey  "h">
 <!ENTITY abSearchDialogTitle.label   "Rozšěrjene pytanje w adresniku">

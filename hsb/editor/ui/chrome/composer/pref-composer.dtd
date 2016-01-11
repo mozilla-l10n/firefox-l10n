@@ -19,7 +19,7 @@
 <!ENTITY  saveAssociatedFiles.accesskey "b">
 <!ENTITY  showPublishDialog.label       "Přeco wozjewjenski dialog pokazać, hdyž so strony wozjewjeja">
 <!ENTITY  showPublishDialog.accesskey   "P">
-<!ENTITY  composerEditing.label         "Wobdźěłowanje">
+<!ENTITY  composerEditing.label         "Wobdźěłować">
 <!ENTITY  maintainStructure.label       "Wuhotowanje tabele wobchować, hdyž so cele zasadźeja abo hašeja">
 <!ENTITY  maintainStructure.tooltip     "Wobchowuje praworóžkatu podobu tabele přez awtomatiske přidawanje celow po zasadźenju abo zhašenju celow">
 <!ENTITY  maintainStructure.accesskey   "h">
