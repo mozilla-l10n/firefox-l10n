@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Administroni përdorim shtojcash në këtë faqe">
 <!ENTITY urlbar.webNotsNotificationAnchor.label         "Ndryshoni zgjedhjen për nëse sajti mund t&apos;ju shfaqë a jo njoftime">
 
-!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administroni ndarjen me sajtin të kamerës dhe/ose mikrofonit tuaj">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administroni ndarjen me sajtin të kamerës dhe/ose mikrofonit tuaj">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Po ndani me sajtin kamerën dhe/ose mikrofonin tuaj">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administroni ndarjen me sajtin të mikrofonit tuaj">
 <!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Po ndani me sajtin mikrofonin tuaj">
