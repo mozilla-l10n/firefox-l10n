@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Samodejno vstavljaj zaklepaje">
 <!ENTITY prefs_options_keybindings "Bližnjice tipk">
 <!ENTITY prefs_options_keybindings_default "Privzeto">
+<!ENTITY prefs_options_autosavefiles "Samodejno shranjuj datoteke">
+<!ENTITY prefs_options_autosavefiles_tooltip "Samodejno shrani spremembe datotek pred zagonom projekta">
 
 <!-- Permissions Table -->
 <!ENTITY permissionstable_title "Tabela dovoljenj">
