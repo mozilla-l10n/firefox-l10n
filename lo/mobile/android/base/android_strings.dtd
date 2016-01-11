@@ -164,7 +164,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ຄຳແນະນຳ: ເພີ່ມທຸກໆເວັບໃຊ້ເຂົ້າໄປໃນລາຍການຜູ້ສະຫນອງການຄົ້ນຫາຂອງທ່ານໂດຍການກົດຄ້າງໄວ້ໃນຫ້ອງຄົ້ນຫາ ແລະ ຫລັງຈາກນັ້ນກົດທີ່ກາ &formatI; ">
 <!ENTITY pref_category_advanced "ຂັ້ນສູງ">
-
+<!ENTITY pref_category_advanced_summary2 "ກູ້ຄືນແທັບ, ປັກອິນ, ເຄື່ອງມືສຳລັບນັກພັດທະນາ">
 <!ENTITY pref_developer_remotedebugging "ການດີບັກທາງໃກ">
 <!ENTITY pref_developer_remotedebugging_usb "ການດີບັກ (Debugging) ທາງໃກຜ່ານທາງ USB">
 <!ENTITY pref_developer_remotedebugging_wifi "ການດີບັກ (Debugging) ທາງໃກຜ່ານທາງ Wi-Fi">
@@ -528,6 +528,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint3 "ເຄັດລັບ: ບັນທຶກຫົວຂໍ້ນີ້ໄປໄວ້ໃນລາຍການອ່ານຂອງທ່ານໂດຍການກົດ &formatI; ຄ້າງໄວ້ຈົນໄອຄອນປະກົດຂື້ນຢູ່ໃນແຖບຫົວຂໍ້.">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
