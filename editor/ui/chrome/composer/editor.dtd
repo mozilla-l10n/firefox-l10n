@@ -10,7 +10,7 @@
 <!-- Toolbar-only items -->
 
 
-<!ENTITY compositionToolbar.tooltip "Spisowanska lajsta">
+<!ENTITY compositionToolbar.tooltip "Wobdźěłowanska lajsta">
 <!ENTITY previewToolbarCmd.label "Přepytać">
 <!ENTITY previewToolbarCmd.tooltip "Tutu stronu do wobhladowaka začitać">
 <!-- File menu items -->
@@ -23,8 +23,8 @@
 <!ENTITY sendPageCmd.accesskey "s">
 <!-- View menu items -->
 
-<!ENTITY compositionToolbarCmd.label "Spisowanska lajsta">
-<!ENTITY compositionToolbarCmd.accesskey "S">
+<!ENTITY compositionToolbarCmd.label "Wobdźěłowanska lajsta">
+<!ENTITY compositionToolbarCmd.accesskey "W">
 <!ENTITY formattingToolbarCmd.label "Formatowanska lajsta">
 <!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Wobdźěłowanska lajsta">

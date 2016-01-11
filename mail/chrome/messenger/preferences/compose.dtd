@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label                   "Powšitkowny">
-<!ENTITY itemAutoComplete.label              "Adresowanje">
+<!ENTITY itemAutoComplete.label              "Adresować">
 <!ENTITY itemSpellCheck.label                "Prawopis">
 
-<!ENTITY dialogCompose.title                 "Spisanje">
+<!ENTITY dialogCompose.title                 "Wobdźěłować">
 
 <!ENTITY forwardMsg.label                     "Powěsće dale sposrědkować:">
 <!ENTITY forwardMsg.accesskey                 "d">
