@@ -86,7 +86,9 @@
 <!ENTITY forbiddenBlocked.title "Yasaklanmış site">
 <!ENTITY forbiddenBlocked.longDesc "<p>Tarayıcınız bu sayfayı engellemek üzere yapılandırıldığı için sayfanın yüklenmesi önlendi.</p>">
 
-
+<!ENTITY securityOverride.linkText "Veya ayrıcalık ekleyebilirsiniz…">
+<!ENTITY securityOverride.warningContent "<p>Tamamen güvenmediğiniz bir internet bağlantısı kullanıyorsanız veya bu sunucuyla ilgili uyarılar almaya alışık değilseniz ayrıcalık tanımamalısınız.</p> 
+<p>Yine de ayrıcalık tanımayı istiyorsanız bunu gelişmiş şifreleme ayarlarınızdan yapabilirsiniz.</p>">
 
 <!ENTITY cspBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
 <!ENTITY cspBlocked.longDesc "<p>Tarayıcı bu sayfanın yüklenmesini engelledi; çünkü sayfa, yüklenmesine izin vermeyen bir içerik güvenliği ilkesine sahip.</p>">
