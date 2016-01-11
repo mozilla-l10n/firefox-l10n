@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name 'Tschertga da &brandShortName;'>
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Tschertgar cun &formatS;'>
+
+<!ENTITY search_empty_title2 'Cumenzar da tschertgar'>
+<!ENTITY search_empty_message 'Tschertga a moda simpla tut tge che ti vuls'>
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Agiuntar a la trav da tschertgar'>
+
+<!ENTITY search_pref_title 'Parameters'>
+<!ENTITY search_pref_button_content_description 'Preferenzas'>
+
+<!ENTITY pref_clearHistory_confirmation 'Stizzà la cronologia'>
+<!ENTITY pref_clearHistory_dialogMessage 'Stizzar l'entira cronologia da tschertga da quest apparat?'>
+<!ENTITY pref_clearHistory_title 'Stizzar la cronologia da tschertga'>
+
+<!ENTITY pref_searchProvider_title 'Maschina da tschertgar'>
+
+<!ENTITY search_widget_button_label 'Tschertgar'>
+
+<!ENTITY network_error_title 'Nagina connexiun a l'internet'>
+<!ENTITY network_error_message 'Tutgar qua per controllar la configuraziun da l'access a l'internet'>
