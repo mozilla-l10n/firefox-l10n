@@ -149,6 +149,7 @@
      clicks on the button to send a tab to another device and there are no
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "Pošlji ta zavihek na drugo povezano napravo">
 
 <!ENTITY pref_category_search3 "Iskanje">
 <!ENTITY pref_category_search_summary "Prilagodite svoje iskalnike">
@@ -215,6 +216,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Omogočeno, z izjemo tretjih strani">
 <!ENTITY pref_cookies_disabled "Onemogočeno">
 
+<!ENTITY pref_tap_to_load_images_title "Tapni za nalaganje slik">
+<!ENTITY pref_tap_to_load_images_summary2 "Nalaganje slik samo ob daljšem pritisku nanje">
 
 <!ENTITY pref_tracking_protection_title "Zaščita pred sledenjem">
 <!ENTITY pref_tracking_protection_summary3 "Omogočeno v zasebnem brskanju">
@@ -706,6 +709,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Povezava se bo odprla v aplikaciji &formatS;. Ali ste prepričani, da želite končati zasebno brskanje?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -713,6 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Končam zasebno brskanje?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -747,3 +752,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "Pomoč in podpora za Firefox z omejenimi profili na tablicah Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Spoznajte splet: Mozilla Webmaker">
+
