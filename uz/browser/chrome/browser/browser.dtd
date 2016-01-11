@@ -454,7 +454,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.question "Tavsiyalar yordamida izlash bo‘yicha tajribangizni oshirishni xohlaysizmi?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ko‘proq o‘rganish…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "&#037;S-ekran">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Yo‘q">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ha">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">

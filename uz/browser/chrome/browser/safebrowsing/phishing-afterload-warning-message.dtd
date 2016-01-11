@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Hujum saytlari shaxsiy ma`lumotlaringizni oʻgʻirlash, boshqalarga sizning kompyuteringizdan hujum uyushtirishda foydalanish yoki tizimingizni buzish maqsadida turli dasturlarni oʻrnatishga urinadi</p><p>Bir qancha hujum saytlari zararli dasturlar bilan birga tarqatiladi, lekin koʻpchiligi egalarining ruxsatisiz va bilimisiz xavfli ekanligi ma`lum boʻladi.</p>">
 
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> veb sahifasi hujum sayti sifatida xabar berilgan va shu sababli xavfsizlik moslamalaringizga asoslanib, bloklangan.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title "Veb qalloblik haqida xabar berildi!">
