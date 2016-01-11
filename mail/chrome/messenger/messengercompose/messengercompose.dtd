@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 
-<!ENTITY msgComposeWindow.title "Spisaś: (žedna tema)">
+<!ENTITY msgComposeWindow.title "Pisaś: (žedna tema)">
 <!-- File Menu -->
 
 <!ENTITY fileMenu.label "Dataja">
@@ -110,7 +110,7 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "S">
 <!ENTITY menubarCmd.label "Menijowa rědka">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY showCompositionToolbarCmd.label "Spisowańska rědka">
+<!ENTITY showCompositionToolbarCmd.label "Wobźěłowańska rědka">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Formatěrowańska rědka">
 <!ENTITY showFormattingBarCmd.accesskey "F">
