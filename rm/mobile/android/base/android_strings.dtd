@@ -471,56 +471,115 @@ size. -->
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Configuraziun per la website">
+<!ENTITY site_settings_cancel       "Interrumper">
+<!ENTITY site_settings_clear        "Stizzar">
 
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+<!ENTITY reading_list_added3 "Agiuntà a la glista da lectura">
+<!ENTITY reading_list_removed "Allontanà la pagina da la glista da lectura">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Allontanar da la glista da lectura">
+<!ENTITY reading_list_duplicate "La pagina è gia sin la glista da lectura">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Dapli ch'ina ura">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Acziuns supplementaras">
 
+<!ENTITY masterpassword_create_title "Crear in pled-clav universal">
+<!ENTITY masterpassword_remove_title "Allontanar il pled-clav universal">
+<!ENTITY masterpassword_password "Pled-clav">
+<!ENTITY masterpassword_confirm "Confermar il pled-clav">
 
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Interrumper">
+<!ENTITY button_yes "Gea">
+<!ENTITY button_no "Na">
+<!ENTITY button_clear_data "Stizzar las datas">
+<!ENTITY button_set "Definì">
+<!ENTITY button_clear "Stizzar">
+<!ENTITY button_copy "Copiar">
 
+<!ENTITY home_top_sites_title "Paginas preferidas">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Agiuntar ina pagina">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Partenza da &brandShortName;">
+<!ENTITY home_history_title "Cronologia">
+<!ENTITY home_clear_history_button "Stizzar la cronologia">
+<!ENTITY home_clear_history_confirm "Vuls ti propi stizzar la cronologia?">
+<!ENTITY home_bookmarks_empty "Segnapaginas che ti memoriseschas cumparan qua.">
+<!ENTITY home_closed_tabs_title "Tabs serrads dacurt">
+<!ENTITY home_last_tabs_title "Tabs da l'ultima giada">
+<!ENTITY home_last_tabs_empty "Tabs averts dacurt cumparan qua.">
+<!ENTITY home_open_all "Avrir tuts">
+<!ENTITY home_most_recent_empty "Paginas visitadas dacurt cumparan qua.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: paginas avertas en in &formatS1;Nov tab privat&formatS2; na vegnan betg memorisadas en la cronologia.">
+<!ENTITY home_reading_list_empty "Artitgels che ti memoriseschas per pli tard cumparan qua.">
 <!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint3 "TIP: Memorisescha artitgels en la glista da lectura cun tegnair smatgà l'icona &formatI; sch'ella cumpara en la trav d'adressas.">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible2 "TIP: Memorisescha artitgels en la glista da lectura cun smatgar ditg il buttun dal modus da lectura sch'el cumpara en la trav d'adressas.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Chattà nagin cuntegn per questa panela.">
 
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "Ensi a &formatS;">
 
+<!ENTITY home_remote_tabs_title "Tabs sincronisads">
+<!ENTITY home_remote_tabs_empty "Tes tabs dad auters apparats cumparan qua.">
+<!ENTITY home_remote_tabs_unable_to_connect "Impussibel da connectar">
+<!ENTITY home_remote_tabs_need_to_sign_in "T'annunzia p.pl. per connectar danovamain cun tes conto da Firefox e cuntinuar da sincronisar.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Tes nov conto da Firefox è pront!">
 
+<!ENTITY home_remote_tabs_trouble_verifying "Has ti difficultads cun verifitgar tes conto?">
+<!ENTITY home_remote_tabs_need_to_verify "Verifitgescha p.pl. tes conto da Firefox per cumenzar da sincronisar.">
 
+<!ENTITY home_remote_tabs_one_hidden_device "Zuppentà 1 apparat">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "Zuppentà &formatD; apparats">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Apparats zuppentads">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Betg pli zuppentar ils apparats tschernids">
 
+<!ENTITY remote_tabs_panel_moved_title "Nua èn mes tabs?">
+<!ENTITY remote_tabs_panel_moved_desc "Nus avain spustà tes tabs dad auters apparats en ina panela sin la pagina da partenza. Uschia als pos ti adina acceder cura che ti avras in nov tab.">
+<!ENTITY remote_tabs_panel_moved_link "Mussar la nova panela.">
 
+<!ENTITY pin_site_dialog_hint "Endatar in chavazzin da tschertgar">
 
+<!ENTITY filepicker_title "Tscherner ina datoteca">
+<!ENTITY filepicker_audio_title "Tscherner u registrar in tun">
+<!ENTITY filepicker_image_title "Tscherner u far in maletg">
+<!ENTITY filepicker_video_title "Tscherner u registrar in video">
 
 <!-- Site identity popup -->
+<!ENTITY identity_connected_to "Ti es collià cun">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -532,6 +591,8 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_connection_secure "Connexiun segirada">
+<!ENTITY identity_connection_insecure "Connexiun betg segirada">
 
 <!-- Mixed content notifications in site identity popup -->
 
