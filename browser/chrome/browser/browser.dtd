@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação privativa)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação privada)">
 
 <!ENTITY appmenu.tooltip                     "Abrir menu">
 <!ENTITY navbarOverflow.label                "Mais ferramentas…">
@@ -344,7 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Nova janela">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "o">
-<!ENTITY newPrivateWindow.label     "Nova janela privativa">
+<!ENTITY newPrivateWindow.label     "Nova janela privada">
 <!ENTITY newPrivateWindow.accesskey "j">
 <!ENTITY newNonRemoteWindow.label   "Nova janela Non-e10s">
 
@@ -523,7 +523,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "b">
 <!ENTITY openLinkCmd.label            "Abrir link em uma nova janela">
 <!ENTITY openLinkCmd.accesskey        "A">
-<!ENTITY openLinkInPrivateWindowCmd.label "Abrir link em uma nova janela privativa">
+<!ENTITY openLinkInPrivateWindowCmd.label "Abrir link em uma nova janela privada">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "r">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir link">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
@@ -761,15 +761,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Esta página usa criptografia fraca.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "A conexão com este site não é privativa. As informações que enviar (tais como senhas, mensagens, cartões de créditos, etc.) podem ser vistas por outros.">
+<!ENTITY identity.description.insecure "A conexão com este site não é privada. As informações que enviar (tais como senhas, mensagens, cartões de créditos, etc.) podem ser vistas por outros.">
 <!ENTITY identity.description.insecureLoginForms "As informações de login que você publicar nesta página não é segura e pode ser comprometida.">
-<!ENTITY identity.description.weakCipher "A conexão com este website usa criptografia fraca e não é privativa.">
+<!ENTITY identity.description.weakCipher "A conexão com este website usa criptografia fraca e não é privada.">
 <!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do site web.">
 <!ENTITY identity.description.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
-<!ENTITY identity.description.passiveLoaded "A sua coneção não é privativa e a informação que compartilha com o site pode ser vista por outros.">
+<!ENTITY identity.description.passiveLoaded "A sua coneção não é privada e a informação que compartilha com o site pode ser vista por outros.">
 <!ENTITY identity.description.passiveLoaded2 "Este site web contém conteúdo que não é seguro (tal como imagens).">
 <!ENTITY identity.description.passiveLoaded3 "O &brandShortName; bloqueou alguns conteúdos, mas ainda tem elementos na página que não são seguros (como imagens).">
-<!ENTITY identity.description.activeLoaded "Este site web contém conteúdo que não é seguro (tal como scripts) e a sua conexão com o mesmo não é privativa.">
+<!ENTITY identity.description.activeLoaded "Este site web contém conteúdo que não é seguro (tal como scripts) e a sua conexão com o mesmo não é privada.">
 <!ENTITY identity.description.activeLoaded2 "Informações que compartilhar com este site (tais como senhas, mensagens, cartões de créditos, etc.) podem ser vistas por terceiros.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ativar proteção">

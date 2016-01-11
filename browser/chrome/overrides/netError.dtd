@@ -30,9 +30,9 @@ do seu computador.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Arquivo não encontrado">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Verifique se o nome do arquivo possui erros de digitação, como uma letra maiúscula em vez de minúscula.</li> 
-<li>Verifique se o arquivo foi movido, renomeado ou excluído.</li> 
+<!ENTITY fileNotFound.longDesc "<ul>
+  <li>Verifique se o nome do arquivo possui letras maiúsculas ou erros de digitação.</li>
+  <li>Verifique se o arquivo foi movido, renomeado ou excluído.</li>
 </ul>">
 
 
@@ -131,7 +131,7 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 </ul>">
 
 <!ENTITY malwareBlocked.title "Site suspeito de ser um foco de ataques!">
-<!ENTITY malwareBlocked.longDesc "<p>Focos de ataques são sites que tentam instalar aplicativos que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p> 
+<!ENTITY malwareBlocked.longDesc "<p>Sites de ataque tentam instalar programas que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p> 
 <p>Proprietários de sites que acreditem estar sendo injustamente classificados como um foco de ataques podem <a href='http://www.stopbadware.org/home/reviewinfo'>solicitar uma reavaliação</a>.</p>">
 
 <!ENTITY unwantedBlocked.title "Site suspeito de software indesejado!">

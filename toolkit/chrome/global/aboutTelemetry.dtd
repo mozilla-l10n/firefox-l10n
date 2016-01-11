@@ -73,3 +73,5 @@
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (strings ou /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Carga útil">
