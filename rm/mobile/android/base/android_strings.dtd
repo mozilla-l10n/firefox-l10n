@@ -394,32 +394,83 @@ size. -->
 <!ENTITY tabs_normal "Tabs">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Sincronisà">
+<!ENTITY set_image_fail "Impussibel da definir il maletg">
+<!ENTITY set_image_path_fail "Impussibel da memorisar il maletg">
+<!ENTITY set_image_chooser_title "Definir il maletg sco">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Tschertgar en la pagina">
+<!ENTITY find_prev "Precedent">
+<!ENTITY find_next "Proxim">
+<!ENTITY find_close "Serrar">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_sending_to "Trametter a l'apparat">
+<!ENTITY media_play "Far ir">
+<!ENTITY media_pause "Pausa">
+<!ENTITY media_stop "Fermar">
 
+<!ENTITY contextmenu_open_new_tab "Avrir en in nov tab">
+<!ENTITY contextmenu_open_private_tab "Avrir en in tab privat">
+<!ENTITY contextmenu_remove "Allontanar">
+<!ENTITY contextmenu_add_to_launcher "Agiuntar al visur da partenza">
+<!ENTITY contextmenu_share "Cundivider">
+<!ENTITY contextmenu_pasteandgo "Encollar &amp; chargiar">
+<!ENTITY contextmenu_paste "Encollar">
+<!ENTITY contextmenu_copyurl "Copiar l'adressa">
+<!ENTITY contextmenu_edit_bookmark "Modifitgar">
+<!ENTITY contextmenu_subscribe "Abunar la pagina">
+<!ENTITY contextmenu_site_settings "Modifitgar la configuraziun per la website">
+<!ENTITY contextmenu_top_sites_edit "Modifitgar">
+<!ENTITY contextmenu_top_sites_pin "Fixar la pagina">
+<!ENTITY contextmenu_top_sites_unpin "Betg pli fixar la pagina">
+<!ENTITY contextmenu_add_search_engine "Agiuntar ina maschina da tschertgar">
+<!ENTITY contextmenu_mark_read "Marcar sco legì">
+<!ENTITY contextmenu_mark_unread "Marcar sco nunlegì">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[Nagin num d'utilisader]">
+<!ENTITY doorhanger_login_edit_title "Modifitgar las datas d'annunzia">
+<!ENTITY doorhanger_login_edit_username_hint "Num d'utilisader">
+<!ENTITY doorhanger_login_edit_password_hint "Pled-clav">
+<!ENTITY doorhanger_login_edit_toggle "Mussar il pled-clav">
+<!ENTITY doorhanger_login_edit_toast_error "Betg reussì da memorisar las datas d'annunzia">
+<!ENTITY doorhanger_login_select_message "Copiar il pled-clav da &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Copià il pled-clav en l'archiv provisoric">
+<!ENTITY doorhanger_login_select_toast_copy_error "Impussibel da copiar il pled-clav">
+<!ENTITY doorhanger_login_select_action_text "Tscherner autras infurmaziuns d'annunzia">
+<!ENTITY doorhanger_login_select_title "Copiar il pled-clav da">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_magnifying_glass_enabled "Engrondir zonas pitschnas">
+<!ENTITY pref_magnifying_glass_enabled_summary "Engrondir colliaziuns e champs da formulars cun tippar dasperas">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar2 "Navigar cun maletg entir">
+<!ENTITY pref_scroll_title_bar_summary2 "Zuppentar la trav d'utensils cun scrollar engiu sin ina pagina">
 
+<!ENTITY pref_tab_queue_title2 "Avrir pliras colliaziuns">
+<!ENTITY pref_tab_queue_summary3 "Las memorisar enfin la proxima giada che ti avras &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+<!ENTITY page_removed "Allontanà la pagina">
 
+<!ENTITY bookmark_edit_title "Modifitgar il segnapagina">
+<!ENTITY bookmark_edit_name "Num">
+<!ENTITY bookmark_edit_location "Adressa">
+<!ENTITY bookmark_edit_keyword "Pled magic">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Configuraziun per la website">
 
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
