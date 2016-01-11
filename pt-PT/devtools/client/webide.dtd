@@ -140,7 +140,7 @@
 <!ENTITY prefs_options_autoclosebrackets "Fecho automático de parênteses">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Insere automaticamente o fecho dos parênteses">
 <!ENTITY prefs_options_keybindings "Associação de teclas">
-<!ENTITY prefs_options_keybindings_default "Pré-definido">
+<!ENTITY prefs_options_keybindings_default "Predefinido">
 <!ENTITY prefs_options_autosavefiles "Guardar ficheiros automaticamente">
 <!ENTITY prefs_options_autosavefiles_tooltip "Guardar os ficheiros editados antes de executar o projeto">
 <!-- Permissions Table -->
