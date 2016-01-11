@@ -30,7 +30,7 @@
 <!ENTITY cmd.restore2.label             "Riktheji">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Zgjidhni Kartelë…">
-<!ENTITY cmd.restoreFromFile.accesskey  "Z">
+<!ENTITY cmd.restoreFromFile.accesskey  "K">
 <!ENTITY cmd.open.label                  "Hape">
 <!ENTITY cmd.open.accesskey              "H">
 <!ENTITY cmd.open_window.label           "Hape në Dritare të Re">
