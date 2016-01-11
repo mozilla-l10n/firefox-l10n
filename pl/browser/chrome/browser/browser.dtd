@@ -813,9 +813,3 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY emeNotificationsNotNow.accesskey "Z">
 <!ENTITY emeNotificationsDontAskAgain.label "Nie pytaj ponownie">
 <!ENTITY emeNotificationsDontAskAgain.accesskey "e">
-
-<!ENTITY saveToPocketCmd.label "Wyślij stronę do Pocket">
-<!ENTITY saveToPocketCmd.accesskey "s">
-<!ENTITY saveLinkToPocketCmd.label "Wyślij odnośnik do Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label "Wysłane do Pocket">
