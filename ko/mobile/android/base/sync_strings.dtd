@@ -34,7 +34,7 @@
 <!ENTITY sync.input.key.label '복원키'>
 <!ENTITY sync.checkbox.server.label '독자 서버 이용'>
 <!ENTITY sync.input.server.label '서버 URL'>
-  
+
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label '&syncBrand.shortName.label; 설정 할 수 없음'>
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label;는 서버에 접속할 수 없습니다. 다시 하시겠습니까??'>
@@ -43,7 +43,7 @@
 <!ENTITY sync.subtitle.nointernet.label '인터넷 접속 할 수 없습니다.'>
 <!ENTITY sync.subtitle.failaccount.label '기기에 계정 생성을 실패했습니다.'>
 <!ENTITY sync.subtitle.failmultiple.label '하나 이상의 Firefox가 설치되어 있습니까? 현재, &syncBrand.fullName.label;는 한번에 하나의 Firefox 설치만을 지원합니다. &syncBrand.shortName.label;을 사용하시려면 삭제하시기 바랍니다.'>
-  
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label '설정 완료'>
 <!ENTITY sync.subtitle.success.label1 '여러분의 동기화 정보는 백그라운드에서 다운로드하고 있습니다. 계정 관리는 설정을 통해 하실 수 있습니다.'>
@@ -66,12 +66,11 @@
 <!ENTITY sync.configure.engines.title.history '방문 기록'>
 <!ENTITY sync.configure.engines.title.tabs '탭'>
 
-
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label '취소'>
 <!ENTITY sync.button.connect.label '접속'>
 <!ENTITY sync.button.ok.label '확인'>
-  
+
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (사용되지 않음)'>
 
@@ -82,7 +81,6 @@
      GT-I1950" and "Fennec on MI 2S". -->
 <!ENTITY sync.default.client.name '&formatS1;, &formatS2;'>
 
-  
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label '북마크 메뉴'>
 <!ENTITY bookmarks.folder.places.label ''>
@@ -105,7 +103,6 @@
 <!ENTITY sync.verifying.label '확인하는 중…'>
 <!ENTITY sync.new.recoverykey.status.incorrect '복원키가 올바르지는 않습니다. 다시 시도해 주십시오.'>
 
-
 <!-- Send tab to device. -->
 <!ENTITY sync.title.send.tab.label '탭을 기기로 보내기'>
 <!ENTITY sync.button.send.label '보내기'>
@@ -115,13 +112,12 @@
 <!ENTITY sync.text.tab.sent.label '탭을 보냈습니다!'>
 <!ENTITY sync.text.tab.not.sent.label '탭을 보내는데 문제가 생겼습니다.'>
 
-<!-- Firefox account strings. -->
+<!-- Firefox Account strings. -->
 
 <!ENTITY fxaccount_full_label 'Firefox 계정'>
 
 <!ENTITY fxaccount_custom_server_account_title '서버에 계정 사용하기'>
 <!ENTITY fxaccount_custom_server_sync_title '서버에 동기화 데이터 저장하기'>
-
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -136,6 +132,11 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing '브라우저로 돌아가기'>
 
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 <!ENTITY fxaccount_policy_linktos '서비스 약관'>
 <!ENTITY fxaccount_policy_linkprivacy '개인 정보 보호 정책'>
 
@@ -146,7 +147,7 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Firefox 계정 만들기'>
 <!ENTITY fxaccount_create_account_password_length_restriction '적어도 8자 이상이어야 함'>
 <!ENTITY fxaccount_create_account_day_of_birth '일'>
@@ -165,7 +166,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more '자세히 알아보기'>
 
 <!ENTITY fxaccount_confirm_account_header '계정 확인하기'>
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link '인증 메일이 &formatS;로 전송되었습니다.'>
 <!ENTITY fxaccount_confirm_account_resend_email '메일 재전송'>
 <!ENTITY fxaccount_confirm_account_change_email '메일 주소를 잊어버렸나요?'>
@@ -232,16 +233,15 @@
 
 <!ENTITY fxaccount_enable_debug_mode '디버그 모드 활성화'>
 
-
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; 옵션'>
 <!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; 설정'>
 
@@ -262,11 +262,16 @@
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED '계정이 잠겼습니다. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label;가 연결되지 않음'>
-<!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 '&formatS;로 로그인하기'>
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title '&syncBrand.shortName.label; 업그레이드 완료하기?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text '&formatS; 계정으로 로그인하기'>
+
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
+<!ENTITY old_sync_deprecated_notification_title '계속 동기화를 하려면 로그인'>
+<!ENTITY old_sync_deprecated_notification_content '이 계정은 더 이상 지원되지 않음'>
