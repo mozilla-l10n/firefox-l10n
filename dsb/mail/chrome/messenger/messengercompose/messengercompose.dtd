@@ -307,3 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Kontakty">
 <!-- Identity popup customize menuitem -->
 
+<!ENTITY customizeFromAddress.label "Z adrese pśiměriś…">
+<!ENTITY customizeFromAddress.accesskey "a">

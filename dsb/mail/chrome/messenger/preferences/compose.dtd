@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "z">
 <!ENTITY restoreHTMLDefaults.label            "Standardy wótnowiś">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
-
-
+<!ENTITY enterKeyCreatesNewParagraph.label    "Gaž wótstawkowy format se wužywa, tasta Enter napórajo nowy wótstawk">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "w">
 
 <!ENTITY spellCheck.label                     "Pšawopis do słanja kontrolěrowaś">
 <!ENTITY spellCheck.accesskey                 "P">
