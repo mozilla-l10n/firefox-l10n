@@ -531,6 +531,7 @@ size. -->
 <!ENTITY home_reading_list_hint3 "ເຄັດລັບ: ບັນທຶກຫົວຂໍ້ນີ້ໄປໄວ້ໃນລາຍການອ່ານຂອງທ່ານໂດຍການກົດ &formatI; ຄ້າງໄວ້ຈົນໄອຄອນປະກົດຂື້ນຢູ່ໃນແຖບຫົວຂໍ້.">
 <!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible2 "ເຄັດລັບ: ບັນທຶກຫົວຂໍ້ນີ້ໄປໄວ້ໃນລາຍການອ່ານຂອງທ່ານໂດຍການກົດປູມໂມດຜູ້ອ່ານຄ້າງໄວ້ຈົນກະທັ້ງມັນຈະປະກົດຂື້ນໃນແຖບ URL.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -588,11 +589,13 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "ການເຊື່ອມຕໍ່ທີປອດໄພ">
 <!ENTITY identity_connection_insecure "ການເຊື່ອມຕໍ່ທີບໍ່ປອດໄພ">
-
+<!ENTITY identity_login_insecure "ຫນ້າເວັບນີ້ບໍ່ມີຄວາມປອດໄພ ແລະ ຂໍ້ມູນການລັອກອິນຂອງທ່ານອາດຈະຖືກແຮັກໄດ້.">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ໄດ້ບັອກເນື້ອຫາທີ່ບໍ່ປອດໄພຢູ່ໃນຫນ້າເວັບນີ້.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ໄດ້ບັອກບາງເນື້ອຫາທີ່ບໍ່ປອດໄພຢູ່ໃນຫນ້າເວັບນີ້.">
+<!ENTITY mixed_content_display_loaded1 "ເນື້ອຫາບາງສ່ວນໃນຫນ້າເວັບນີ້ບໍ່ມີຄວາມປອດໄພ (ເຊັ່ນວ່າຮູບພາບ).">
+<!ENTITY mixed_content_protection_disabled1 "ທ່ານໄດ້ປິດໃຊ້ງານການປ້ອງກັນເນື້ອຫາທີ່ບໍ່ມີຄວາມປອດໄພ.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "ການປ້ອງກັນການຕິດຕາມ">
@@ -610,6 +613,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ລ້າງຂໍ້ມູນສ່ວນໂຕ">
 <!ENTITY private_data_fail "ບໍ່ສາມາດລ້າງບາງຂໍ້ມູນສ່ວນໂຕໄດ້">
 
+<!ENTITY bookmarkhistory_button_import "ນຳເຂົ້າ">
 <!ENTITY bookmarkhistory_import_both "ການນຳເຂົ້າບຸກມາກ ແລະ ປະຫວັດ 
 ຈາກ Android">
 <!ENTITY bookmarkhistory_import_bookmarks "ການນຳເຂົ້າບຸກມາກ 
@@ -654,7 +658,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ສືບຕໍ່">
 <!ENTITY guest_session_dialog_cancel "ຍົກເລີກ">
 <!ENTITY new_guest_session_title "&brandShortName; ຈະເລີ່ມລະບົບໃຫມ່">
-
+<!ENTITY new_guest_session_text2 "ຜູ້ທີ່ເຂົ້າມານຳໃຊ້ມັນຈະບໍ່ສາມາດເຫັນຂໍ້ມູນການທ່ອງເວັບຂອງທ່ານ (ເຊັ່ນວ່າ ຂໍ້ມູນການລັອກອິນ, ປະຫວັດການໃຊ້ງານ ຫລື ບຸກມາກ). \n\nເມື່ອທ່ານອອກຈາກໂມດແຂກ ຂໍ້ມູນການທ່ອງເວັບຂອງທ່ານຈະຖືກລຶບອອກ ແລະ ເສັສ໌ສັນເກົ່າຂອງທ່ານຈະໄດ້ຮັບການກູ້ຄືນ.">
 <!ENTITY guest_browsing_notification_title "ເປີດໃຊ້ງານການເຂົ້າເວັບໃນໂຫມດແຂກ">
 <!ENTITY guest_browsing_notification_text "ແຕະເພື່ອອອກ">
 
@@ -705,6 +709,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "ລີ້ງນີ້ຈະເປີດໃນ &formatS;. ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການອອກຈາກໂມດການທ່ອງເວັບແບບສ່ວນຕົວ?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -712,6 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "ຕ້ອງການອອກຈາກໂມດການທ່ອງເວັບແບບສ່ວນຕົວຫລືບໍ?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -724,11 +730,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "Add-ons">
 
-
-
-
-
+<!ENTITY restrictable_feature_private_browsing "ການທ່ອງເວັບແບບສ່ວນຕົວ">
+<!ENTITY restrictable_feature_private_browsing_description "ອະນຸຍາດໃຫ້ສະມາຊິກພາຍໃນຄອບຄົວສາມາດເຂົ້າທ່ອງເວັບໄດ້ໂດຍປາສະຈາກການບັນທຶກຂໍ້ມູນກ່ຽວກັບເວັບໄຊຕ໌ ແລະ ຫນ້າເວັບທີ່ພວກເຂົາເຂົ້າໄປເບິງ.">
+<!ENTITY restrictable_feature_clear_history "ລຶບປະຫວັດການໃຊ້ງານ">
+<!ENTITY restrictable_feature_clear_history_description "ອະນຸຍາດໃຫ້ສະມາຊິກພາຍໃນຄອບຄົວສາມາດລືບຂໍ້ມູນກ່ຽວກັບເວັບໄຊຕ໌ ແລະ ຫນ້າເວັບທີ່ພວກເຂົາເຂົ້າໄປເບິງ.">
+<!ENTITY restrictable_feature_advanced_settings "ການຕັ້ງຄ່າຂັ້ນສູງ">
 
 
 
