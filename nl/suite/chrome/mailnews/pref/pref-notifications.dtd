@@ -21,6 +21,10 @@
 <!ENTITY showAlertSubject.accesskey       "o">
 <!ENTITY showAlertSender.label            "Afzender tonen">
 <!ENTITY showAlertSender.accesskey        "n">
+<!ENTITY useSystemAlert.label             "Desktopnotificaties van het besturingssysteem gebruiken">
+<!ENTITY useSystemAlert.accesskey         "D">
+<!ENTITY useBuiltInAlert.label            "&brandShortName;&apos;s eigen meldingsvensters gebruiken">
+<!ENTITY useBuiltInAlert.accesskey        "m">
 
 <!ENTITY showTrayIcon.label               "Een systeemvakpictogram tonen">
 <!ENTITY showTrayIcon.accesskey           "t">
