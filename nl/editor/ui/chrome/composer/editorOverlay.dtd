@@ -310,7 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Markeringskleur voor tekst kiezen">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Lettergrootte instellen-">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Lettergrootte instellen">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Kleinere lettergrootte">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Grotere lettergrootte">
 <!ENTITY boldToolbarCmd.tooltip "Vet">
