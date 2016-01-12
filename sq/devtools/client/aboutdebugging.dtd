@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Shtesa">
 <!ENTITY aboutDebugging.addonDebugging.label       "Aktivizoni diagnostikim shtesash">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Aktivizimi i kësaj do t&apos;ju lejojë të diagnostikoni shtesa dhe të tjera pjesë të ndryshme të chrome-es së shfletuesit">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Ngarko Shtesë të Përkohshme">
 <!ENTITY aboutDebugging.workers                    "Workers">
