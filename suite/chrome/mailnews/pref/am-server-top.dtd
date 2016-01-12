@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Kontrolovať novú poštu každých">
 <!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "minút">
+<!ENTITY useIdleNotifications.label "Povoliť okamžité upozornenia pre nové správy">
+<!ENTITY useIdleNotifications.accesskey "o">
 <!ENTITY connectionSecurity.label "Zabezpečenie pripojenia:">
 <!ENTITY connectionSecurity.accesskey "e">
 <!ENTITY connectionSecurityType-0.label "žiadne">
@@ -73,9 +75,9 @@
 <!ENTITY abbreviateOn.label "Úplný názov (napr. 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skratky (napr. 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Pokročilé…">
+<!ENTITY serverDefaultCharset2.label "Štandardné kódovanie textu:">
 <!ENTITY advancedButton.accesskey "i">
 <!ENTITY localPath.label "Lokálny priečinok:">
-<!ENTITY serverDefaultCharset2.label "Štandardné kódovanie textu:">
 <!ENTITY localFolderPicker.label "Výber lokálneho priečinka">
 <!ENTITY browseFolder.label "Prehľadávať…">
 <!ENTITY browseFolder.accesskey "h">
