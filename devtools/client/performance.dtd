@@ -151,3 +151,8 @@
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
 <!ENTITY performanceUI.console.stopCommandStart "Ndaleni regjistrimin duke dhënë">
 <!ENTITY performanceUI.console.stopCommandEnd   "te konsola.">
+
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Regjistrimi i një profili është hëpërhë jo gati. Ju lutemi, mbyllini krejt dritaret e shfletimit privat dhe riprovoni.">
