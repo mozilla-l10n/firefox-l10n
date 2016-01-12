@@ -82,20 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "Grootte">
 <!ENTITY fontSizeMenu.accesskey "G">
-<!ENTITY size-xx-smallCmd.label "xx-klein">
-<!ENTITY size-xx-smallCmd.accesskey "e">
-<!ENTITY size-x-smallCmd.label "x-klein">
-<!ENTITY size-x-smallCmd.accesskey "l">
-<!ENTITY size-smallCmd.label "klein">
-<!ENTITY size-smallCmd.accesskey "k">
-<!ENTITY size-mediumCmd.label "medium">
-<!ENTITY size-mediumCmd.accesskey "m">
-<!ENTITY size-largeCmd.label "groot">
-<!ENTITY size-largeCmd.accesskey "g">
-<!ENTITY size-x-largeCmd.label "x-groot">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-groot">
-<!ENTITY size-xx-largeCmd.accesskey "r">
+<!ENTITY size-tinyCmd.label "Zeer klein">
+<!ENTITY size-tinyCmd.accesskey "Z">
+<!ENTITY size-smallCmd.label "Klein">
+<!ENTITY size-smallCmd.accesskey "K">
+<!ENTITY size-mediumCmd.label "Standaard">
+<!ENTITY size-mediumCmd.accesskey "S">
+<!ENTITY size-largeCmd.label "Groot">
+<!ENTITY size-largeCmd.accesskey "G">
+<!ENTITY size-extraLargeCmd.label "Heel groot">
+<!ENTITY size-extraLargeCmd.accesskey "H">
+<!ENTITY size-hugeCmd.label "Extra groot">
+<!ENTITY size-hugeCmd.accesskey "x">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Tekststijl">
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Markeringskleur voor tekst kiezen">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Lettergrootte instellen-">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Kleinere lettergrootte">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Grotere lettergrootte">
 <!ENTITY boldToolbarCmd.tooltip "Vet">
