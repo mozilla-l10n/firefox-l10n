@@ -138,7 +138,8 @@ až &brandShortName; smějo pśistup na Web měś.</li> 
 <!ENTITY phishingBlocked.longDesc "<p>Zapódawanje wósobinskich informacijow na toś tom boku móžo ku kšadnjenjeju identity abo drugej wobšuźe wjasć.</p> 
 <p>Toś te typy webwobšudow wužywaju se we webwobšudach ako snuchlece napady, w kótarychž wobšudne webboki a e-maile se wužywaju, aby žrědła imitěrowali, kótarymž dowěriśo.</p>">
 
-
+<!ENTITY forbiddenBlocked.title "Zakazane sedło">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; jo toś tomu bokoju zacytowanje zawoborał, dokulaž jo se konfigurěrował, aby jen blokěrował.</p>">
 
 <!ENTITY cspBlocked.title "Pśez wěstotne pšawidła za wopśimjeśe zablokěrowany">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; jo zacytowanjeju toś togo boka na toś ten nałog zajźował, dokulaž bok ma wěstotne pšawidła za wopśimjeśe, kótarež to njedowóluju.</p>">
