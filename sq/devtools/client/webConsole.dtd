@@ -103,3 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Hapeni nën Pamjen Ndryshore">
 <!ENTITY openInVarViewCmd.accesskey "N">
+<!ENTITY storeAsGlobalVar.label "Depozitoje si ndryshore globale">
+<!ENTITY storeAsGlobalVar.accesskey "D">

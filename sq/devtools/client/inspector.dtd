@@ -97,10 +97,42 @@
 <!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users take
      a screenshot of the currently selected node. -->
-<!ENTITY inspectorScreenshotNode.label       "Foto ekrani Për Nyjen">
+<!ENTITY inspectorScreenshotNode.label       "Foto ekrani Për Nyjën">
 
 <!-- LOCALIZATION NOTE (inspectorUseInConsole.label): This is the label
      shown in the inspector contextual-menu for the item that outputs a
      variable for the current node to the console. When triggered,
      this item opens the split Console. -->
 <!ENTITY inspectorUseInConsole.label       "Përdore në Konsolë">
+
+<!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users add attribute
+     to current node -->
+<!ENTITY inspectorAddAttribute.label        "Shtoni Atribut">
+<!ENTITY inspectorAddAttribute.accesskey    "S">
+
+<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     attribute items, which allow to:
+     - add new attribute
+     - edit attribute
+     - remove attribute -->
+<!ENTITY inspectorAttributeSubmenu.label      "Atribut">
+<!ENTITY inspectorAttributeSubmenu.accesskey  "A">
+
+<!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users
+     duplicate the currently selected node. -->
+<!ENTITY inspectorDuplicateNode.label       "Përsëdyteni Nyjën">
+
+<!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users edit attribute
+     for current node -->
+<!ENTITY inspectorEditAttribute.label        "Përpunoni Atribut">
+<!ENTITY inspectorEditAttribute.accesskey    "P">
+
+<!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users delete attribute
+     from current node -->
+<!ENTITY inspectorRemoveAttribute.label        "Hiqni Atribut">
+<!ENTITY inspectorRemoveAttribute.accesskey    "H">
