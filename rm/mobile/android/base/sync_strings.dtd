@@ -53,7 +53,7 @@
 <!ENTITY sync.configure.engines.title.label 'Tge sincronisar'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Sincronisar…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Segnapaginas'>
-<!ENTITY sync.configure.engines.title.passwords2 'Infurmaziuns d'annunzia'>
+<!ENTITY sync.configure.engines.title.passwords2 'Infurmaziuns d\'annunzia'>
 <!ENTITY sync.configure.engines.title.history 'Cronologia'>
 <!ENTITY sync.configure.engines.title.tabs 'Tabs'>
 
@@ -162,20 +162,20 @@
 
 <!ENTITY fxaccount_sign_in_forgot_password 'Emblidà il pled-clav?'>
 <!ENTITY fxaccount_sign_in_create_account_instead 'Crear in conto'>
-<!ENTITY fxaccount_sign_in_unknown_error 'Impussibel da s'annunziar'>
+<!ENTITY fxaccount_sign_in_unknown_error 'Impussibel da s\'annunziar'>
 
 <!ENTITY fxaccount_account_verified_sub_header 'Verifitgà il conto'>
 <!ENTITY fxaccount_account_verified_description2 'Tias datas vegnan immediat sincronisadas.'>
 
-<!ENTITY fxaccount_migration_finished_header 'Terminà l'actualisaziun'>
+<!ENTITY fxaccount_migration_finished_header 'Terminà l\'actualisaziun'>
 
-<!ENTITY fxaccount_update_credentials_header 'S'annunziar'>
-<!ENTITY fxaccount_update_credentials_button_label 'S'annunziar'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Impussibel da s'annunziar'>
+<!ENTITY fxaccount_update_credentials_header 'S\'annunziar'>
+<!ENTITY fxaccount_update_credentials_button_label 'S\'annunziar'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'Impussibel da s\'annunziar'>
 
-<!ENTITY fxaccount_finish_migrating_header 'T'annunzia per terminar l'actualisaziun'>
-<!ENTITY fxaccount_finish_migrating_button_label 'Terminar l'actualisaziun'>
-<!ENTITY fxaccount_finish_migrating_description 'Per l'actualisaziun ston eventualmain vegnir transmessas bleras datas. I vegn recumandà dad utilisar ina connexiun da WLAN per quest intent.'>
+<!ENTITY fxaccount_finish_migrating_header 'T\'annunzia per terminar l\'actualisaziun'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Terminar l\'actualisaziun'>
+<!ENTITY fxaccount_finish_migrating_description 'Per l\'actualisaziun ston eventualmain vegnir transmessas bleras datas. I vegn recumandà dad utilisar ina connexiun da WLAN per quest intent.'>
 
 <!ENTITY fxaccount_status_header2 'Conto da Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Annunzià sco'>
@@ -183,26 +183,26 @@
 <!ENTITY fxaccount_status_auth_server 'Server dal conto'>
 <!ENTITY fxaccount_status_sync_now 'Sincronisar ussa'>
 <!ENTITY fxaccount_status_syncing2 'Sincronisar…'>
-<!ENTITY fxaccount_status_device_name 'Num da l'apparat'>
+<!ENTITY fxaccount_status_device_name 'Num da l\'apparat'>
 <!ENTITY fxaccount_status_sync_server 'Server per sincronisar'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; è activà'>
-<!ENTITY fxaccount_status_needs_verification2 'Tes conto sto vegnir verifitgà. Tutga per trametter danovamain l'e-mail da verificaziun.'>
-<!ENTITY fxaccount_status_needs_credentials 'Impussibel da connectar. Tutgar per s'annunziar.'>
-<!ENTITY fxaccount_status_needs_upgrade 'Ti stos actualisar &brandShortName; per s'annunziar.'>
+<!ENTITY fxaccount_status_needs_verification2 'Tes conto sto vegnir verifitgà. Tutga per trametter danovamain l\'e-mail da verificaziun.'>
+<!ENTITY fxaccount_status_needs_credentials 'Impussibel da connectar. Tutgar per s\'annunziar.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Ti stos actualisar &brandShortName; per s\'annunziar.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; è endrizzà ma betg configurà per sincronisar automaticamain. Activescha “Sincronisar automaticamain las datas” en las preferenzas dad Android sut Utilisaziun da datas.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; è endrizzà ma betg configurà per sincronisar automaticamain. Activescha “Sincronisar automaticamain las datas” en il menu da las preferenzas dad Android sut Contos.'>
-<!ENTITY fxaccount_status_needs_finish_migrating 'Smatga per t'annunziar cun tes nov conto da Firefox.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Smatga per t\'annunziar cun tes nov conto da Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Segnapaginas'>
 <!ENTITY fxaccount_status_history 'Cronologia'>
-<!ENTITY fxaccount_status_passwords2 'Infurmaziuns d'annunzia'>
+<!ENTITY fxaccount_status_passwords2 'Infurmaziuns d\'annunzia'>
 <!ENTITY fxaccount_status_tabs 'Tabs averts'>
 <!ENTITY fxaccount_status_legal 'Indicaziuns giuridicas' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Cundiziuns d'utilisaziun dal servetsch'>
+<!ENTITY fxaccount_status_linktos 'Cundiziuns d\'utilisaziun dal servetsch'>
 <!ENTITY fxaccount_status_linkprivacy 'Infurmaziuns davart la protecziun da datas'>
 <!ENTITY fxaccount_status_more 'Dapli&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Deconnectar&ellipsis;'>
@@ -236,24 +236,24 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Il conto exista gia. &formatS1;'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Adressa dad e-mail u pled-clav nunvalid'>
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Adressa dad e-mail u pled-clav nunvalid'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Il conto n'è betg verifitgà'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Il conto n\'è betg verifitgà'>
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Il server è surchargià, emprova pli tard anc ina giada'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Il server è surchargià, emprova pli tard anc ina giada'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Ina errur è succedida'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Impussibel da connectar cun la rait'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Il conto è bloccà. &formatS1;'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; n'è betg connectà'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; n\'è betg connectà'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tutgar per s'annunziar sco &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tutgar per s\'annunziar sco &formatS;'>
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Terminar l'actualisaziun da &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Terminar l\'actualisaziun da &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tutgar per s'annunziar sco &formatS;'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tutgar per s\'annunziar sco &formatS;'>
 
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
-<!ENTITY old_sync_deprecated_notification_title 'S'annunziar per cuntinuar da sincronisar'>
+<!ENTITY old_sync_deprecated_notification_title 'S\'annunziar per cuntinuar da sincronisar'>
 <!ENTITY old_sync_deprecated_notification_content 'Tes conto na vegn betg pli sustegnì'>
