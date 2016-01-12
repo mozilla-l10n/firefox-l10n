@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Kontrolovať novú poštu každých">
 <!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "minút">
+<!ENTITY useIdleNotifications.label "Povoliť okamžité upozornenia pre nové správy">
+<!ENTITY useIdleNotifications.accesskey "o">
 <!ENTITY connectionSecurity.label "Zabezpečenie pripojenia:">
 <!ENTITY connectionSecurity.accesskey "e">
 <!ENTITY connectionSecurityType-0.label "žiadne">
@@ -59,7 +61,7 @@
 <!ENTITY loginAtStartup.accesskey "v">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Opýtať sa pri preberaní viac ako">
 <!ENTITY maxMessagesStart.accesskey "s">
@@ -68,6 +70,7 @@
 <!ENTITY alwaysAuthenticate.label "Pri pripájaní sa na tento server vždy vyžadovať overenie">
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "Súbor newsrc:">
+<!ENTITY newsrcPicker.label "Vyberte súbor newsrc">
 <!ENTITY abbreviate.label "Zobraziť názvy diskusných skupín ako :">
 <!ENTITY abbreviateOn.label "Úplný názov (napr. 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skratky (napr. 'n.p.m.mail-news')">
@@ -78,7 +81,6 @@
 <!ENTITY localFolderPicker.label "Výber lokálneho priečinka">
 <!ENTITY browseFolder.label "Prehľadávať…">
 <!ENTITY browseFolder.accesskey "h">
-<!ENTITY newsrcPicker.label "Vyberte súbor newsrc">
 <!ENTITY browseNewsrc.label "Prehľadávať…">
 <!ENTITY browseNewsrc.accesskey "d">
 
