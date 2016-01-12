@@ -732,7 +732,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "부가 기능">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox에 기능을 추가합니다. 참고: 부가 기능은 특정 제한을 해제할 수 있습니다.">
 <!ENTITY restrictable_feature_private_browsing "사생활 보호 브라우징">
+<!ENTITY restrictable_feature_private_browsing_description "가족 구성원이 그들이 방문한 사이트와 페이지의 기록을 남기지 않을 수 있도록 허용합니다.">
 <!ENTITY restrictable_feature_clear_history "방문목록 지우기">
 <!ENTITY restrictable_feature_clear_history_description "가족 구성원이 그들이 방문한 페이지와 사이트 정보를 삭제 할 수 있도록 허용합니다.">
 <!ENTITY restrictable_feature_advanced_settings "고급 설정">
