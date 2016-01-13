@@ -1,3 +1,10 @@
+pref_tap_to_load_images_summary2
+pref_tap_to_load_images_title
+
+
+
+
+
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -185,9 +192,6 @@
 <!ENTITY pref_cookies_accept_all "Të aktivizuara">
 <!ENTITY pref_cookies_not_accept_foreign "Të aktivizuara, hiq palët e treta">
 <!ENTITY pref_cookies_disabled "Të çaktivizuara">
-
-<!ENTITY pref_tap_to_load_images_title "Prekeni që të ngarkohen figura">
-<!ENTITY pref_tap_to_load_images_summary2 "Ngarko figura vetëm kur e mbani gjatë të shtypur">
 
 <!ENTITY pref_tracking_protection_title "Mbrojtje nga gjurmimi">
 <!ENTITY pref_tracking_protection_summary3 "Aktive nën Shfletim Privat">
@@ -742,13 +746,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Mësoni Web-in: Mozilla Webmaker">
 
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-<!ENTITY menu_no_synced_devices "Dërgoje këtë skedë te një tjetër pajisje e lidhur">
-
-<!ENTITY eol_notification_title "&brandShortName;-i s&apos;e mbulon më Android 3-in">
+<!ENTITY eol_notification_title "&brandShortName;-i s\’e mbulon më Android 3-in">
 <!ENTITY eol_notification_summary "Prekeni që të mësoni më tepër">
 
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
