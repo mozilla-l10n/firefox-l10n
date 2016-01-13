@@ -85,11 +85,7 @@
 
 <!ENTITY settings "Rregullime">
 <!ENTITY settings_title "Rregullime">
-<!ENTITY pref_category_input_options "Mundësi futjesh">
 <!ENTITY pref_category_advanced "Të mëtejshme">
-<!ENTITY pref_category_customize "Personalizim">
-<!ENTITY pref_category_customize_summary "Kreu, kërkim, skeda, importim">
-<!ENTITY pref_category_customize_alt_summary "Kreu, kërkim, skeda, hapi më vonë, importim">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -128,22 +124,13 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "S\&apos;u gjetën pajisja të lidhura me Llogari Firefox">
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "Skeda juaj s\&apos;u dërgua dot.\nJu lutemi, riprovoni më vonë.">
-
 <!ENTITY pref_category_search3 "Kërkim">
 <!ENTITY pref_category_search_summary "Personalizoni mundësuesit e kërkimeve tuaja">
-<!ENTITY pref_category_display "Ekran">
-<!ENTITY pref_category_display_summary "Tekst, shtyllë titujsh, shfletim sa krejt ekrani">
 <!ENTITY pref_category_privacy_short "Privatësi">
-<!ENTITY pref_category_privacy_summary2 "Mbani nën kontroll kredenciale hyrjesh, cookie, gjurmime, të dhëna">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Mbi &brandShortName;-in, FAQ, zgjedhje mbi të dhënat">
+<!ENTITY pref_category_privacy_summary3 "Gjurmim, cookies, zgjedhje të dhënash">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Mbi &brandShortName;-in, FAQ, përshtypje">
+
 <!ENTITY pref_category_datareporting "Zgjedhje të dhënash">
 <!ENTITY pref_learn_more "Mësoni më tepër">
 <!ENTITY pref_category_installed_search_engines "Motorë të instaluar kërkimesh">
@@ -157,12 +144,10 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "NDIHMËZ: Shtoni çfarëdo sajti te lista juaj e mundësuesve të kërkimeve duke mbajtur të shtypur për disa sekonda fushën e tij të kërkimeve dhe mandej duke prekur ikonën &formatI;.">
-<!ENTITY pref_category_devtools "Mjete zhvilluesi">
 <!ENTITY pref_developer_remotedebugging "Diagnostikim së largëti">
 <!ENTITY pref_developer_remotedebugging_usb "Diagnostikim së largëti përmes USB-je">
 <!ENTITY pref_developer_remotedebugging_wifi "Diagnostikim së largëti përmes Wi-Fi-i">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Diagnostikimi përmes Wi-Fi-i lyp që pajisja juaj të ketë të instaluar një aplikacion leximi kodesh QR.">
-<!ENTITY pref_category_logins "Kredenciale Hyrjesh">
 <!ENTITY pref_remember_signons2 "Mba mend kredenciale hyrjesh">
 <!ENTITY pref_open_external_urls_privately_title "Hapi lidhjet në shfletim Privat">
 <!ENTITY pref_open_external_urls_privately_summary "Për krejt lidhjet e hapura në &brandShortName;">
@@ -186,26 +171,32 @@
 <!ENTITY pref_home_suggested_sites_summary "Shfaq te kreu juaj shkurtore për te sajte të cilët mendojmë se mund t\&apos;ju duken interesante">
 <!ENTITY pref_category_home_homepage "Kreu">
 <!ENTITY home_homepage_title "Vëre si Kreun">
-<!ENTITY home_homepage_use_current_tab "Përdor skedën e tanishme">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "Personalizojeni">
-<!ENTITY pref_header_display "Ekran">
+<!ENTITY pref_header_general "Të përgjithshme">
+<!ENTITY pref_header_search "Kërkim">
 <!ENTITY pref_header_privacy_short "Privatësi">
+<!ENTITY pref_header_accessibility "Përdorshmëri">
+<!ENTITY pref_header_advanced "Të mëtejshme">
 <!ENTITY pref_header_help "Ndihmë">
-<!ENTITY pref_header_language "Gjuhë">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Mjete zhvilluesi">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Të aktivizuara">
 <!ENTITY pref_cookies_not_accept_foreign "Të aktivizuara, hiq palët e treta">
 <!ENTITY pref_cookies_disabled "Të çaktivizuara">
 
+<!ENTITY pref_tap_to_load_images_title "Prekeni që të ngarkohen figura">
+<!ENTITY pref_tap_to_load_images_summary2 "Ngarko figura vetëm kur e mbani gjatë të shtypur">
+
 <!ENTITY pref_tracking_protection_title "Mbrojtje nga gjurmimi">
 <!ENTITY pref_tracking_protection_summary3 "Aktive nën Shfletim Privat">
 <!ENTITY pref_donottrack_title "Mos më gjurmo">
 <!ENTITY pref_donottrack_summary "&brandShortName;-i do t\&apos;u thotë sajteve se nuk doni të gjurmoheni">
+
+<!ENTITY pref_tracking_protection_enabled "E aktivizuar">
+<!ENTITY pref_tracking_protection_enabled_pb "E aktivizuar nën Shfletim Privat">
+<!ENTITY pref_tracking_protection_disabled "E çaktivizuar">                                           
 
 <!ENTITY tracking_protection_prompt_title "Tani me Mbrojtje Nga Gjurmimet">
 <!ENTITY tracking_protection_prompt_text "Bllokoni aktivisht elemente gjurmimi, që të mos keni pse të shqetësoheni.">
@@ -233,9 +224,12 @@
 <!ENTITY pref_char_encoding "Kodim shkronjash">
 <!ENTITY pref_char_encoding_on "Shfaqe menunë">
 <!ENTITY pref_char_encoding_off "Mos e shfaq menunë">
-<!ENTITY pref_clear_private_data2 "Pastroji tani">
-<!ENTITY pref_clear_private_data_category "Pastro të dhënat private">
-<!ENTITY pref_clear_on_exit_title2 "Pastroji gjatë daljes">
+<!ENTITY pref_clear_private_data "Pastro të Dhënat Private">
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Pastroji tani">
+
+<!ENTITY pref_clear_on_exit_title3 "Pastro të dhëna private gjatë daljes">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-i do të pastrojë vetvetiu të dhënat tuaja kurdo që zgjidhni 
 \u0022Dilni\u0022 prej menusë kryesore">
 <!ENTITY pref_clear_on_exit_dialog_title "Përzgjidhni cilat të dhëna të pastrohen">
@@ -245,7 +239,7 @@
 <!ENTITY pref_plugins_disabled "E çaktivizuar">
 <!ENTITY pref_text_size "Madhësi teksti">
 <!--<!ENTITY pref_reflow_on_zoom4 "Text reflow">-->
-<!ENTITY pref_restore "Skeda">
+<!ENTITY pref_restore_tabs "Rikthe skeda">
 <!ENTITY pref_restore_always "Riktheji përherë">
 <!ENTITY pref_restore_quit "Mos i rikthe pas daljes nga &brandShortName;-u">
 <!ENTITY pref_font_size_tiny "Shumë të vogla">
@@ -270,15 +264,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Aktivizoje përherë zoom-in">
 <!ENTITY pref_zoom_force_enabled_summary "Detyroni anashkalim, që të mund të zmadhoni ose zvogëloni cilëndo faqe">
 <!ENTITY pref_voice_input "Futje zëri">
-<!ENTITY pref_voice_input_summary "Lejo te shtylla e vendeve diktim me zë">
+<!ENTITY pref_voice_input_summary2 "Lejo te shtylla e URL-ven diktim me zë">
 <!ENTITY pref_qrcode_enabled "Lexues kodesh QR">
-<!ENTITY pref_qrcode_enabled_summary "Lejo te shtylla e vendeve skaner QR">
+<!ENTITY pref_qrcode_enabled_summary2 "Lejo te shtylla e URL-ve skaner QR">
 
 <!ENTITY pref_use_master_password "Përdor fjalëkalim të përgjithshëm">
-<!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync2 "Hyni">
 <!ENTITY pref_sync_summary2 "Njëkohësoni skeda, faqerojtës, kredenciale hyrjesh dhe historikun tuaj">
 <!ENTITY pref_search_suggestions "Shfaq këshillime kërkimi">
-<!ENTITY pref_import_android "Importoni prej Android-i">
+<!ENTITY pref_history_search_suggestions "Shfaq historik kërkimesh">
+<!ENTITY pref_import_options "Mundësi importimi">
 <!ENTITY pref_import_android_summary "Importoni faqerojtës dhe historik prej shfletuesit të Android-it">
 <!ENTITY pref_private_data_history2 "Historik shfletimesh">
 <!ENTITY pref_private_data_searchHistory "Historik kërkimesh">
@@ -336,7 +331,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Shkarkoji përditësimet vetvetiu">
+<!ENTITY pref_update_autodownload3 "Përditësime të vetvetishme">
 <!ENTITY pref_update_autodownload_wifi "Vetëm përmes Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Kurrë">
 <!ENTITY pref_update_autodownload_always "Përherë">
@@ -418,10 +413,6 @@ size. -->
 <!ENTITY doorhanger_login_select_action_text "Përzgjidh të tjera kredenciale hyrjeje">
 <!ENTITY doorhanger_login_select_title "Kopjoje fjalëkalimin prej">
 
-<!ENTITY pref_titlebar_mode "Shtyllë titujsh">
-<!ENTITY pref_titlebar_mode_title "Shfaq titull faqeje">
-<!ENTITY pref_titlebar_mode_url "Shfaq adresë faqeje">
-
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Zmadho zona të vogla">
@@ -430,7 +421,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Shfletim në ekran të plotë">
-<!ENTITY pref_scroll_title_bar_summary "Fshihe shtyllën e titujve për &brandShortName;-in kur rrëshqitet poshtë një faqe">
+<!ENTITY pref_scroll_title_bar_summary2 "Fshihe panelin e &brandShortName;-it kur rrëshqitet poshtë në faqe">
 
 <!ENTITY pref_tab_queue_title2 "Hapni lidhje të shumëfishta">
 <!ENTITY pref_tab_queue_summary3 "Ruajini deri herës tjetër që hapni &brandShortName;-un">
@@ -450,7 +441,6 @@ size. -->
 <!ENTITY site_settings_title3       "Rregullime Sajti">
 <!ENTITY site_settings_cancel       "Anuloje">
 <!ENTITY site_settings_clear        "Pastroje">
-<!ENTITY site_settings_no_settings  "Nuk ka rregullime për t\u0027i pastruar.">
 
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
@@ -521,14 +511,14 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: përdorimi i një &formatS1;Skede të Re Private&formatS2; nuk do të shkaktojë ruajtjen e historikut tuaj.">
 <!ENTITY home_reading_list_empty "Artikujt që keni ruajtur për më vonë, shfaqen këtu.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "NDIHMËZ: Ruani artikuj te lista juaj e leximeve duke e mbajtur të shtypur për disa sekonda ikonën &formatI;, kur shfaqet te shtylla e titujve.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!ENTITY home_reading_list_hint3 "NDIHMËZ: Ruani artikuj te lista juaj e leximeve duke e mbajtur të shtypur për disa sekonda ikonën &formatI;, kur shfaqet te shtylla e URL-ve.">
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "NDIHMËZ: Ruani artikuj te lista juaj e leximeve duke e mbajtur të shtypur për disa sekonda butonin e mënyrës lexim, kur shfaqet te shtylla e titujve.">
+<!ENTITY home_reading_list_hint_accessible2 "NDIHMËZ: Ruani artikuj te lista juaj e leximeve duke e mbajtur të shtypur për disa sekonda butonin e mënyrës lexim, kur shfaqet te shtylla e URL-ve.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -586,6 +576,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Lidhje e Sigurt">
 <!ENTITY identity_connection_insecure "Lidhje Jo e Sigurt">
+<!ENTITY identity_login_insecure "Kjo faqe është jo e sigurt dhe të dhënat tuaja për hyrjen mund të jenë të cenueshme.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;-u ka bllokuar në këtë faqe lëndë jo të sigurt.">
@@ -701,6 +692,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "S\&apos;hapet dot lidhja">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Kjo lidhje do të hapet nën &formatS;. Jeni i sigurt se doni të dilni nga Shfletimi Privat?">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Të dilet nga Shfletimi Privat?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -710,19 +714,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 <!ENTITY devtools_auth_scan_header "Po skanohet për kodin QR të shfaqur në pajisjen tuaj tjetër">
 
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restriction_disallow_import_settings_title2 "Çaktivizo \'Importo prej Android-i\'">
-<!ENTITY restriction_disallow_addons_title2 "Çaktivizo instalim shtese">
-<!ENTITY restriction_disallow_devtools_title2 "Çaktivizo mjete zhvilluesi">
-<!ENTITY restriction_disallow_customize_home_title2 "Çaktivizo personalizim Kreu">
-<!ENTITY restriction_disallow_private_browsing_title2 "Çaktivizo Shfletim Privat">
-<!ENTITY restriction_disallow_location_services_title2 "Çaktivizo Shërbime Vendndodhjeje">
-<!ENTITY restriction_disallow_display_settings_title2 "Çaktivizo rregullime Ekrani">
-<!ENTITY restriction_disallow_clear_history_title2 "Çaktivizo \'Pastro historik shfletimesh\'">
-<!ENTITY restriction_disallow_master_password_title2 "Çaktivizo fjalëkalim të përgjithshëm">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Çaktivizo Shfletim Si Mysafir">
+<!ENTITY restrictable_feature_addons_installation "Shtesa">
+<!ENTITY restrictable_feature_addons_installation_description "Shtojini Firefox-it veçori dhe funksione. Shënim: Shtesat mund të çaktivizojnë disa kufizime.">
+<!ENTITY restrictable_feature_private_browsing "Shfletim Privat">
+<!ENTITY restrictable_feature_private_browsing_description "U lejon anëtarëve të familjes të shfletojnë pa ruajtur të dhëna rreth sajteve dhe faqeve që kanë vizituar.">
+<!ENTITY restrictable_feature_clear_history "Pastro Historikun">
+<!ENTITY restrictable_feature_clear_history_description "U lejon anëtarëve të familjes të fshijnë të dhëna rreth sajteve dhe faqeve që kanë vizituar.">
+<!ENTITY restrictable_feature_advanced_settings "Rregullime të Mëtejshme">
+<!ENTITY restrictable_feature_advanced_settings_description "Këtu përfshihen importim faqerojtësish, rikthim skedash dhe përditësime të vetvetishme. Për rregullime të thjeshtuara, të përshtatshme për këdo në familje, çaktivizojeni.">
+<!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
+<!ENTITY restrictable_feature_camera_microphone_description "U lejon anëtarëve të familjes të hyjnë në komunikim të atëçastshëm në sajte.">
+<!ENTITY restrictable_feature_data_choices "Zgjedhje Mbi të Dhëna">
+<!ENTITY restrictable_feature_data_choices_description "Zgjidhni të dërgohen ose jo te Mozilla të dhëna përdorimi, për të ndihmuar në përmirësimin e Firefox-i.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -731,9 +737,48 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_addons "Firefox: Personalizojeni me shtesa">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: Asistencë">
-<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
-<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Ndihmë dhe Asistencë Firefox për profile të kufizuar në tablete Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Mësoni Web-in: Mozilla Webmaker">
+
+<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
+     clicks on the button to send a tab to another device and there are no
+     other devices present. This label should briefly inform the user that they
+     need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "Dërgoje këtë skedë te një tjetër pajisje e lidhur">
+
+<!ENTITY eol_notification_title "&brandShortName;-i s&apos;e mbulon më Android 3-in">
+<!ENTITY eol_notification_summary "Prekeni që të mësoni më tepër">
+
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Faqja hyrëse për &brandShortName;">
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
+<!ENTITY home_homepage_hint_user_address "Jepni adresë ose term kërkimi">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Vetjake">
+
+<!ENTITY pref_category_accessibility "Përdorshmëri">
+<!ENTITY pref_category_accessibility_summary2 "Madhësi teksti, zoom, futje zanore">
+<!ENTITY pref_category_advanced_summary2 "Riktheni skeda, shtojca, mjete zhvilluesi">
+<!ENTITY pref_category_general "Të përgjithshme">
+<!ENTITY pref_category_general_summary2 "Kreu, gjuhë, shtyllë URL-sh">
+
+<!ENTITY pref_tap_to_load_images_title2 "Shfaq figura">
+<!ENTITY pref_tap_to_load_images_enabled "Përherë">
+<!ENTITY pref_tap_to_load_images_data "Vetëm përmes Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "E bllokuar">
+
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "Na ndjeni! Ky &brandShortName; s\'do të funksionojë në këtë pajisje (&formatS1;, &formatS2;). Ju lutemi, shkarkoni versionin e saktë.">
