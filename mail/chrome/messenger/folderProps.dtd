@@ -4,9 +4,9 @@
 
 <!ENTITY folderProps.windowtitle.label           "Veti">
 <!ENTITY generalInfo.label                       "Të dhëna Të përgjithshme">
-<!ENTITY folderCharsetFallback.label             "Kodim Shkronjash Kalimi Vetvetiu:">
-<!ENTITY folderCharsetFallback.accesskey         "E">
-<!ENTITY folderCharsetEnforce.label              "Zbatoje kodimin për krejt mesazhet te dosja (kodimi i shkronjave për mesazhe individuale dhe vetëzbulimi do të shpërfillen)">
+<!ENTITY folderCharsetFallback2.label             "Kodim Teksti Kalimi Vetvetiu:">
+<!ENTITY folderCharsetFallback.2accesskey         "E">
+<!ENTITY folderCharsetEnforce2.label              "Zbatoje kodimin për krejt mesazhet te dosja (kodimi i tekstit për mesazhe individuale dhe vetëzbulimi do të shpërfillen)">
 <!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Riformo Treguesin për Përmbledhje Kartele">
 <!ENTITY folderRebuildSummaryFile2.label         "Riparoje Dosjen">

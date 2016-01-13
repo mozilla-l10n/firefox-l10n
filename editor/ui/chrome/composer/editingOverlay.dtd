@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "R">
 <!ENTITY saveAsCmd.label "Ruajeni Si…">
 <!ENTITY saveAsCmd.accesskey "S">
-<!ENTITY saveAsChangeEncodingCmd.label "Ruaje Dhe Ndërroji Kodimin e Shkronjave">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "N">
+<!ENTITY saveAsChangeEncodingCmd2.label "Ruaje Dhe Ndërroji Kodimin e Tekstit">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "N">
 <!ENTITY publishCmd.label "Botoje">
 <!ENTITY publishCmd.accesskey "B">
 <!ENTITY publishCmd.key "S">
