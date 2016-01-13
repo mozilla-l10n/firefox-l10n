@@ -227,7 +227,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Llogaria Firefox për &formatS; u hoq.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Hiqe Llogarinë">
+<!ENTITY fxaccount_remove_account "Shkëputeni&ellipsis;">
 <!ENTITY fxaccount_enable_debug_mode "Aktivizoni Mënyrën Diagnostikim">
 
 <!-- Localization note: this is the name shown by the Android system
