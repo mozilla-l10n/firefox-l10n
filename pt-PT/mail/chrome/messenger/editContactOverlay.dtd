@@ -17,7 +17,7 @@
 <!ENTITY editContactPanelCancel.label "Cancelar">
 <!ENTITY editContactPanelCancel.accesskey "C">
 
-<!ENTITY editContactPanelDone.label "Terminado">
+<!ENTITY editContactPanelDone.label "Terminar">
 <!ENTITY editContactPanelDone.accesskey "T">
 
 <!ENTITY contactMoveDisabledWarning.description "Não pode alterar o livro de endereços porque o contacto pertence a uma lista de correio.">
