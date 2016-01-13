@@ -18,7 +18,7 @@
 <!ENTITY newevent.eventStatus.cancelled.label     "Zrušeno" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "Z" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Zrušeno" >
-<!ENTITY newevent.status.tentative.label          "Nezávazně" >
+<!ENTITY newevent.status.tentative.label          "Předběžně" >
 <!ENTITY newevent.status.tentative.accesskey      "e" >
 <!ENTITY newevent.status.confirmed.label          "Potvrzeno" >
 <!ENTITY newevent.status.confirmed.accesskey      "P" >
@@ -340,7 +340,7 @@
 <!ENTITY event.freebusy.zoom                    "Změna velikosti:">
 <!ENTITY event.freebusy.legend.free             "Volno" >
 <!ENTITY event.freebusy.legend.busy             "Není volno" >
-<!ENTITY event.freebusy.legend.busy_tentative   "Nezávazně" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Předběžně" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Mimo kancelář" >
 <!ENTITY event.freebusy.legend.unknown          "Bez informací" >
 <!ENTITY event.attendee.role.required           "Vyžadovaný účastník">
