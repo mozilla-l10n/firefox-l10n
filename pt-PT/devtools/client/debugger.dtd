@@ -56,7 +56,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
-<!ENTITY debuggerUI.startTracing "Iniciar tracing">
+<!ENTITY debuggerUI.startTracing "Iniciar 'tracing'">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
@@ -78,7 +78,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
-<!ENTITY debuggerUI.showPanesOnInit           "Mostrar painéis de arranque">
+<!ENTITY debuggerUI.showPanesOnInit           "Mostrar painéis ao arrancar">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "s">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
