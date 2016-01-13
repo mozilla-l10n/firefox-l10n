@@ -688,7 +688,7 @@ do Android">
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Menu">
-<!ENTITY actionbar_done "Feito">
+<!ENTITY actionbar_done "OK">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Fale agora">
