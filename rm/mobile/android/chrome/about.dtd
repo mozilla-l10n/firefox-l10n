@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY aboutPage.title                        "Davart &brandFullName;">
+<!ENTITY aboutPage.title                        "Davart &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; è experimental ed eventualmain instabel.">
 <!ENTITY aboutPage.telemetryStart               " Il program trametta automaticamain infurmaziuns davart la prestaziun, la hardware, l'utilisaziun e la persunalisaziun a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
