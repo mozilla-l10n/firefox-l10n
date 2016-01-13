@@ -61,10 +61,10 @@
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Pošle znovu potvrzení organizátorovi">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Uložit kopii">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Uloží kopii události do kalendáře nezávisle na odpovědi jejímu organizátorovi. Seznam účastníků bude vymazán.">
-<!ENTITY lightning.imipbar.btnTentative.label                               "Nezávazně">
-<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Přijme nezávazně pozvání na událost">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Nezávazně vše">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Přijme nezávazně pozvání na všechna opakování události">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Předběžně">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Přijme předběžně pozvání na událost">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Předběžně vše">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Přijme předběžně pozvání na všechna opakování události">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Aktualizovat">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Aktualizuje událost v kalendáři">
 <!ENTITY lightning.imipbar.description                                      "Tato zpráva obsahuje pozvání na událost.">
