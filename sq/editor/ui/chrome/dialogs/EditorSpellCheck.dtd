@@ -28,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "F">
 <!ENTITY editUserDictionaryButton.label "Përpunoni…">
 <!ENTITY editUserDictionaryButton.accessKey "P">
-<!ENTITY recheckButton.label "Rikontrollo Faqen">
-<!ENTITY recheckButton.accessKey "R">
+<!ENTITY recheckButton2.label "Rikontrollo Tekstin">
+<!ENTITY recheckButton2.accessKey "R">
 <!ENTITY closeButton.label "Mbylle">
 <!ENTITY closeButton.accessKey "M">
 <!ENTITY sendButton.label "Dërgoje">

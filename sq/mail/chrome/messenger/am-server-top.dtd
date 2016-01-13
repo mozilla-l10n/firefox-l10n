@@ -68,7 +68,7 @@
 <!ENTITY abbreviateOff.label "Emra të shkurtuar (Për shembull, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Të mëtejshëm…">
 <!ENTITY advancedButton.accesskey "m">
-<!ENTITY serverDefaultCharset.label "Kodim Parazgjedhje Shkronjash:">
+<!ENTITY serverDefaultCharset2.label "Kodim Parazgjedhje Tekstesh:">
 <!ENTITY localFolderPicker.label "Përzgjidhni Drejtori Vendore">
 <!ENTITY browseFolder.label "Shfletoni…">
 <!ENTITY browseFolder.accesskey "S">
@@ -88,5 +88,5 @@
 <!ENTITY accountSettingsDesc.label "Kjo që vijon është një llogari speciale.  Nuk ka identitete që i përshoqërohen asaj.">
 <!ENTITY storeType.label "Lloj Depozitimi Mesazhesh:">
 <!ENTITY storeType.accesskey "L">
-<!ENTITY mboxStore.label "Një kartelë e madhe (mbox)">
+<!ENTITY mboxStore2.label "Një kartelë për dosje (mbox)">
 <!ENTITY maildirStore.label "Një kartelë për mesazh (maildir)">

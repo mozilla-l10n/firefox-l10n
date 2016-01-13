@@ -43,6 +43,7 @@
 <!ENTITY threadColumn.label "Rrjedhë">
 <!ENTITY fromColumn.label "Nga">
 <!ENTITY recipientColumn.label "Marrës">
+<!ENTITY correspondentColumn.label "Korrespondentë">
 <!ENTITY subjectColumn.label "Subjekt">
 <!ENTITY dateColumn.label "Datë">
 <!ENTITY priorityColumn.label "Përparësi">
@@ -64,6 +65,7 @@
 <!ENTITY threadColumn2.tooltip "Shfaq rrjedha mesazhesh">
 <!ENTITY fromColumn2.tooltip "Renditi sipas nga">
 <!ENTITY recipientColumn2.tooltip "Renditi sipas marrësish">
+<!ENTITY correspondentColumn2.tooltip "Renditi sipas korrespondentësh">
 <!ENTITY subjectColumn2.tooltip "Renditi sipas subjektesh">
 <!ENTITY dateColumn2.tooltip "Renditi sipas datash">
 <!ENTITY priorityColumn2.tooltip "Renditi sipas përparësish">
