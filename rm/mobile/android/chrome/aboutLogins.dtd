@@ -4,3 +4,7 @@
 <!ENTITY % brandDTD
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
+<!ENTITY aboutLogins.title                       "Infurmaziuns d'annunzia">
+<!ENTITY aboutLogins.update                      "Actualisar">
+<!ENTITY aboutLogins.emptyLoginText              "Protegia tias infurmaziuns d'annunzia">
+<!ENTITY aboutLogins.emptyLoginHint              "Infurmaziuns d'annunzia che ti memoriseschas en &brandShortName; cumparan qua.">
