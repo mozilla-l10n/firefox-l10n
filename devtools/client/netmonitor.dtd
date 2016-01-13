@@ -17,7 +17,7 @@
 <!ENTITY netmonitorUI.panesButton.tooltip "Veddi informaçioin in sciâ ræ">
 <!ENTITY netmonitorUI.summary.url "URL domanda:">
 <!ENTITY netmonitorUI.summary.method "Metodo de domanda:">
-<!ENTITY netmonitorUI.summary.status "Còdice de stæto:">
+<!ENTITY netmonitorUI.summary.status "Còdice de stato:">
 <!ENTITY netmonitorUI.summary.version "Verscion:">
 <!ENTITY netmonitorUI.summary.size "Dimenscioin testa:">
 <!ENTITY netmonitorUI.response.name "Nomme:">

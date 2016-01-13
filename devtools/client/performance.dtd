@@ -9,7 +9,7 @@
 <!ENTITY performanceUI.disabledRealTime.disabledE10S "Ativâ o mòddo moltiprocesso di Firefox inte preferense pe fâ a regitraçion in tenpo reale.">
 <!ENTITY performanceUI.bufferStatusFull "O buffer o l'é pin. I canpioin ciù vegi saian sorviascriti.">
 <!ENTITY performanceUI.loadingNotice "Caregamento…">
-<!ENTITY performanceUI.recordButton.tooltip "Ativa/dizativa o stæto de 'na regitraçion.">
+<!ENTITY performanceUI.recordButton.tooltip "Ativa/dizativa o stato de 'na regitraçion.">
 <!ENTITY performanceUI.importButton "Inpòrta…">
 <!ENTITY performanceUI.clearButton "Cancella">
 <!ENTITY performanceUI.toolbar.waterfall "Sequensa tenporâ">
