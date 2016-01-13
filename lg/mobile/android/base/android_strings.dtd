@@ -30,7 +30,7 @@
 
 <!ENTITY  crash_reporter_title "Akalopa Okuzikirira kwa &brandShortName; ">
 
-<!ENTITY  crash_send_report_message3 "Gamba &Omusubuzi; ekikwata ku kkabenje asobole oku gitteleza">
+<!ENTITY  crash_send_report_message3 "Gamba &vendorShortName; ekikwata ku kkabenje asobole oku gitteleza">
 <!ENTITY  crash_include_url2 "Tekako endagiriro lupapula lwe mbadde ko.">
 <!ENTITY  crash_sorry "Tusonyiwe">
 <!ENTITY  crash_comment "Gatttawo endowooza yo (endowooza zirabibwa buli omu)">
