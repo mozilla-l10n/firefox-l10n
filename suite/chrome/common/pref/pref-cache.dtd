@@ -7,7 +7,7 @@
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title "Mezipaměť">
 <!ENTITY pref.cache.caption "Nastavení mezipaměti">
-<!ENTITY cachePara "Často používané dokumenty mohou být ukládány do mezipaměti pro rychlejší přístup k webu. Při stažení dokumentu dojde k porovnání dokumentu z mezipaměti s dokumentem ze sítě, přičemž se vybere poslední verze dokumentu. (Klepnutím na tlačítko Obnovit zobrazíte vždy aktuální verzi stránky.)">
+<!ENTITY cachePara "Často navštěvované webové stránky jsou ukládány do mezipaměti na vašem disku. (Klepnutím na tlačítko Obnovit zobrazíte vždy aktuální verzi stránky.)">
 <!ENTITY cacheCheck.label "&brandShortName; nastaví velikost automaticky.">
 <!ENTITY cacheCheck.accesskey "S">
 <!ENTITY diskCacheUpTo.label "Použít maximálně">
