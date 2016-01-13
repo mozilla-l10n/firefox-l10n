@@ -14,10 +14,10 @@
 <!ENTITY sync.title.pair.label 'Associar in apparat'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Per activar tes nov apparat tscherna “Endrizzar &syncBrand.shortName.label;” sin l'apparat.'>
+<!ENTITY sync.subtitle.connect.label 'Per activar tes nov apparat tscherna “Endrizzar &syncBrand.shortName.label;” sin l\&apos;apparat.'>
 <!ENTITY sync.subtitle.header2.label 'Endatescha quest code sin tes auter apparat'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Tscherna “&sync.title.pair.label;” en la secziun &syncBrand.shortName.label; da las preferenzas da Firefox sin l'auter apparat.'>
-<!ENTITY sync.subtitle.pair.label 'Per activar tscherna “Associar in apparat” sin l'auter apparat.'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Tscherna “&sync.title.pair.label;” en la secziun &syncBrand.shortName.label; da las preferenzas da Firefox sin l\&apos;auter apparat.'>
+<!ENTITY sync.subtitle.pair.label 'Per activar tscherna “Associar in apparat” sin l\&apos;auter apparat.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Mussar co far.'>
@@ -25,7 +25,7 @@
 <!ENTITY sync.link.nodevice.label 'Jau n\&apos;hai betg qua l\&apos;apparat…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Spetgar sin l'auter apparat…'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'Spetgar sin l\&apos;auter apparat…'>
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'Endatescha tias infurmaziuns dal conto da &syncBrand.fullName.label;'>
