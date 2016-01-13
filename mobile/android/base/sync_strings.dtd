@@ -14,7 +14,10 @@
 <!ENTITY sync.title.pair.label 'Associar in apparat'>
 
 <!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Per activar tes nov apparat tscherna “Endrizzar &syncBrand.shortName.label;” sin l'apparat.'>
 <!ENTITY sync.subtitle.header2.label 'Endatescha quest code sin tes auter apparat'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Tscherna “&sync.title.pair.label;” en la secziun &syncBrand.shortName.label; da las preferenzas da Firefox sin l'auter apparat.'>
+<!ENTITY sync.subtitle.pair.label 'Per activar tscherna “Associar in apparat” sin l'auter apparat.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Mussar co far.'>
@@ -22,6 +25,7 @@
 <!ENTITY sync.link.nodevice.label 'Jau n\&apos;hai betg qua l\&apos;apparat…'>
 
 <!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'Spetgar sin l'auter apparat…'>
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'Endatescha tias infurmaziuns dal conto da &syncBrand.fullName.label;'>
@@ -33,17 +37,22 @@
 
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Impussibel dad endrizzar &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; n'ha betg pudì connectar cun il server. Vuls ti empruvar anc ina giada?'>
 <!ENTITY sync.button.tryagain.label 'Reempruvar'>
 <!ENTITY sync.button.manual.label 'Endrizzar manualmain'>
+<!ENTITY sync.subtitle.nointernet.label 'La connexiun cun l'internet n'è betg disponibla.'>
+<!ENTITY sync.subtitle.failaccount.label 'I n'è betg reussì da crear in conto sin tes apparat.'>
 <!ENTITY sync.subtitle.failmultiple.label 'Has ti tinstallà dapli che in Firefox? Actualmain sustegna &syncBrand.fullName.label; mo ina installaziun da Firefox a la giada. Deinstallescha p.pl. las autras instanzas per pudair utilisar &syncBrand.shortName.label;.'>
 
 <!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Terminà l'installaziun'>
 <!ENTITY sync.subtitle.success.label1 'Tias datas vegnan ussa telechargiadas en il fund davos. Ti pos administrar tes conto en las Preferenzas u cumenzar a navigar cun &brandShortName;.'>
 <!ENTITY sync.settings.label 'Preferenzas'>
 <!ENTITY sync.subtitle.manage.label1 'Tes conto da &syncBrand.fullName.label; è gia endrizzà. Ti pos administrar tes conto en las Preferenzas u aviar &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Emprova p.pl. anc ina giada.'>
+<!ENTITY sync.pair.connectlocation.label 'Per activar tes nov apparat tscherna l'emprim “Endrizzar &syncBrand.shortName.label;” sin l'auter apparat e lura “Jau hai in conto”.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Opziuns'>
@@ -128,9 +137,11 @@
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_policy_linktos 'Cundiziuns d'utilisaziun'>
 <!ENTITY fxaccount_policy_linkprivacy 'Infurmaziuns davart la protecziun da datas'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Bainvegni tar &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'T'annunzia per sincronisar tabs, segnapaginas, infurmaziuns d'annunzia e dapli.'>
 <!ENTITY fxaccount_getting_started_get_started 'Cumenzar'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Utiliseschas ti ina versiun pli veglia da &syncBrand.shortName.label;?'>
 
@@ -146,6 +157,7 @@
 <!ENTITY fxaccount_create_account_policy_text2 'Cun cuntinuar accepteschas ti las &formatS1; e las &formatS2; dals servetschs da cloud da Firefox.'>
 <!ENTITY fxaccount_create_account_button 'Enavant'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Tscherna tge sincronisar'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'Ti has gia in conto? T'annunzia'>
 <!ENTITY fxaccount_create_account_1990_or_earlier '1990 u pli baud'>
 <!ENTITY fxaccount_create_account_unknown_error 'Betg reussì da crear in conto'>
 
@@ -156,10 +168,16 @@
 <!ENTITY fxaccount_confirm_account_header 'Conferma tes conto'>
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Ina colliaziun da verificaziun è vegnida tramessa a &formatS;'>
+<!ENTITY fxaccount_confirm_account_resend_email 'Trametter danovamain l'e-mail'>
 <!ENTITY fxaccount_confirm_account_change_email 'Emblidar questa adressa dad e-mail?'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Tramess l'e-mail da verificaziun'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Impussibel da trametter l\&apos;e-mail da verificaziun'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Trametter danovamain l'e-mail per debloccar'>
+<!ENTITY fxaccount_unlock_code_sent 'Tramess l'e-mail per debloccar il conto'>
 <!ENTITY fxaccount_unlock_code_not_sent 'Impussibel da trametter l\&apos;e-mail per debloccar il conto'>
 
+<!ENTITY fxaccount_sign_in_sub_header 'S'annunziar'>
+<!ENTITY fxaccount_sign_in_button_label 'S'annunziar'>
 <!ENTITY fxaccount_sign_in_forgot_password 'Emblidà il pled-clav?'>
 <!ENTITY fxaccount_sign_in_create_account_instead 'Crear in conto'>
 <!ENTITY fxaccount_sign_in_unknown_error 'Impussibel da s\&apos;annunziar'>
