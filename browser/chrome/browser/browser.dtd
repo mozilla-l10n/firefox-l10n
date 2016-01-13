@@ -749,28 +749,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Zabezpečené připojení">
 <!ENTITY identity.connectionNotSecure "Připojení není zabezpečeno">
-<!ENTITY identity.connectionFile "Tato stránka je uložena na vašem počítači.">
-<!ENTITY identity.connectionVerified1 "Jste zabezpečeně připojeni na tuto stránku, provozovanou:">
+<!ENTITY identity.connectionFile "Tato stránka je uložena ve vašem počítači.">
+<!ENTITY identity.connectionVerified1 "Spojení s tímto serverem je zabezpečené. Jeho provozovatelem je:">
 <!ENTITY identity.connectionInternal "Toto je zabezpečená stránka aplikace &brandShortName;.">
-<!ENTITY identity.insecureLoginForms "Vaše přihlášení mohlo být vyzrazeno.">
+<!ENTITY identity.insecureLoginForms "Vaše přihlašovací údaje mohou být vyzrazeny.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Aplikace &brandShortName; zablokovala nezabezpečené části této stránky.">
 <!ENTITY identity.passiveLoaded "Části této stránky nejsou zabezpečené (například obrázky).">
 <!ENTITY identity.activeLoaded "Zakázali jste ochranu na této stránce.">
-<!ENTITY identity.weakEncryption "Tato stránka používá slabé šifrování.">
+<!ENTITY identity.weakEncryption "Tento server používá slabé šifrování.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Vaše připojení na tuto stránku není zabezpečené. Informace (jako jsou hesla, zprávy, číslo kreditní karty, atd.), které odešlete, mohou být viděny ostatními.">
+<!ENTITY identity.description.insecure "Vaše připojení k tomuto serveru není soukromé. Informace, které odešlete (jako hesla, zprávy, číslo kreditní karty atd.), mohou být viděny ostatními.">
 <!ENTITY identity.description.insecureLoginForms "Přihlašovací údaje, které zadáte na této stránce, nebudou zabezpečeny a mohou být vyzrazeny.">
-<!ENTITY identity.description.weakCipher "Vaše připojení na tuto stránku používá slabé šifrování a není tedy zabezpečeno.">
-<!ENTITY identity.description.weakCipher2 "Ostatní lidé mohou prohlížet vaše informace nebo pozměňovat chování webových stránek.">
+<!ENTITY identity.description.weakCipher "Vaše připojení k tomuto serveru používá slabé šifrování a není soukromé.">
+<!ENTITY identity.description.weakCipher2 "Ostatní lidé mohou vidět vaše informace nebo pozměnit chování stránky.">
 <!ENTITY identity.description.activeBlocked "Aplikace &brandShortName; zablokovala nezabezpečené části této stránky.">
-<!ENTITY identity.description.passiveLoaded "Vaše připojení není zabezpečené a informace, které sdílíte s tímto webem, mohou být viděny ostatními.">
+<!ENTITY identity.description.passiveLoaded "Vaše připojení není soukromé a informace, které sdílíte s tímto webem, mohou být viděny ostatními.">
 <!ENTITY identity.description.passiveLoaded2 "Tato webová stránka obsahuje obsah, který není zabezpečen (například obrázky).">
 <!ENTITY identity.description.passiveLoaded3 "Ačkoli aplikace &brandShortName; zablokovala nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky).">
-<!ENTITY identity.description.activeLoaded "Tato webová stránka obsahuje obsah, který není zabezpečen (například skripty), a připojení k této stránce tak není zabezpečeno.">
-<!ENTITY identity.description.activeLoaded2 "Informace (jako jsou hesla, zprávy, číslo kreditní karty, atd.), které sdílíte s touto stránkou, mohou být viděny ostatními.">
+<!ENTITY identity.description.activeLoaded "Tato webová stránka obsahuje obsah, který není zabezpečen (například skripty), a připojení k tomuto serveru tak není soukromé.">
+<!ENTITY identity.description.activeLoaded2 "Informace, které sdílíte s touto stránkou (jako hesla, zprávy, číslo kreditní karty, atd.), mohou být viděny ostatními.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Povolit ochranu">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "P">
@@ -781,7 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Další informace">
 
 <!ENTITY identity.permissions "Oprávnění">
-<!ENTITY identity.permissionsEmpty "Nemáte udělena pro tento web žádná zvláštní oprávnění.">
+<!ENTITY identity.permissionsEmpty "Pro tento server nemáte udělena žádná zvláštní oprávnění.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

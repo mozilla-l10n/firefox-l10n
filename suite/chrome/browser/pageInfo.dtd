@@ -80,14 +80,14 @@
 <!ENTITY feedSubscribe "Odebírat">
 <!ENTITY feedSubscribe.accesskey "O">
 
-<!ENTITY permTab "Povolení">
-<!ENTITY permTab.accesskey "P">
+<!ENTITY permTab "Oprávnění">
+<!ENTITY permTab.accesskey "p">
 <!ENTITY permUseDefault "Použít výchozí">
 <!ENTITY permAskAlways "Vždy se zeptat">
 <!ENTITY permAllow "Povolit">
 <!ENTITY permAllowSession "Povolit pro relaci">
 <!ENTITY permBlock "Blokovat">
-<!ENTITY permissionsFor "Povolení pro server:">
+<!ENTITY permissionsFor "Oprávnění pro server:">
 <!ENTITY permImage "Nahrávat obrázky">
 <!ENTITY permPopup "Otevírat vyskakovací okna">
 <!ENTITY permNotifications     "Zobrazovat upozornění">
@@ -99,20 +99,20 @@
 <!ENTITY securityTab.accesskey "B">
 <!ENTITY securityHeader "Bezpečnostní informace o této stránce">
 <!ENTITY securityView.certView "Zobrazit certifikát">
-<!ENTITY securityView.accesskey "Z">
+<!ENTITY securityView.accesskey "c">
 <!ENTITY securityView.unknown "neznámý">
 
 
 <!ENTITY securityView.identity.header "Identita webového serveru">
 <!ENTITY securityView.identity.owner "Vlastník: ">
 <!ENTITY securityView.identity.domain "Webový server: ">
-<!ENTITY securityView.identity.verifier "Ověřitel: ">
+<!ENTITY securityView.identity.verifier "Ověřovatel: ">
 
 <!ENTITY securityView.privacy.header "Soukromí a historie">
 <!ENTITY securityView.privacy.history "Navštívil jsem už někdy tento server?">
 <!ENTITY securityView.privacy.cookies "Má tento server uložené cookies na mém počítači?">
 <!ENTITY securityView.privacy.viewCookies "Zobrazit cookies">
-<!ENTITY securityView.privacy.viewCookies.accessKey "c">
+<!ENTITY securityView.privacy.viewCookies.accessKey "Z">
 <!ENTITY securityView.privacy.passwords "Mám pro tento server uložená hesla?">
 <!ENTITY securityView.privacy.viewPasswords "Zobrazit uložená hesla">
 <!ENTITY securityView.privacy.viewPasswords.accessKey "h">
