@@ -196,6 +196,8 @@
 <!ENTITY sortByFromCmd.accesskey "J">
 <!ENTITY sortByRecipientCmd.label "Marrësish">
 <!ENTITY sortByRecipientCmd.accesskey "ë">
+<!ENTITY sortByCorrespondentCmd.label "Korrespondentë">
+<!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Të lexuar">
 <!ENTITY sortByUnreadCmd.accesskey "l">
 <!ENTITY sortByOrderReceivedCmd.label "Radhës së Marrjes">
@@ -663,6 +665,7 @@
 <!ENTITY threadColumn.label "Rrjedhë">
 <!ENTITY fromColumn.label "Prej">
 <!ENTITY recipientColumn.label "Marrës">
+<!ENTITY correspondentColumn.label "Korrespondentë">
 <!ENTITY subjectColumn.label "Subjekt">
 <!ENTITY dateColumn.label "Datë">
 <!ENTITY priorityColumn.label "Përparësi">
@@ -685,6 +688,7 @@
 <!ENTITY threadColumn2.tooltip "Shfaq rrjedha mesazhesh">
 <!ENTITY fromColumn2.tooltip "Renditi sipas nga-ve">
 <!ENTITY recipientColumn2.tooltip "Renditi sipas marrësit">
+<!ENTITY correspondentColumn2.tooltip "Renditi sipas korrespondentësh">
 <!ENTITY subjectColumn2.tooltip "Renditi sipas subjektesh">
 <!ENTITY dateColumn2.tooltip "Renditi sipas datash">
 <!ENTITY priorityColumn2.tooltip "Renditi sipas përparësie">

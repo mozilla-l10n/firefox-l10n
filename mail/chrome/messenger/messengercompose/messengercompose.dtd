@@ -159,7 +159,8 @@
 <!ENTITY bothFormatCmd.accesskey "h">
 <!ENTITY priorityMenu.label "Përparësi">
 <!ENTITY priorityMenu.accesskey "P">
-<!ENTITY priorityButton.label "Përparësi:">
+<!ENTITY priorityButton.title "Përparësi">
+<!ENTITY priorityButton.tooltiptext "Ndryshoni përparësinë e mesazhit">
 <!ENTITY lowestPriorityCmd.label "Më e Ulta">
 <!ENTITY lowestPriorityCmd.accesskey "U">
 <!ENTITY lowPriorityCmd.label "E ulët">
@@ -214,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Përzgjidhni marrës prej një Libri Adresash"> 
 <!ENTITY attachButton.tooltip "Përfshini një bashkëngjitje"> 
 <!ENTITY spellingButton.tooltip "Kontrolloni drejtshkrimin e përzgjedhjes ose të krejt mesazhit">
+<!ENTITY statusLanguageText.tooltip "Gjuhë kontrolli drejtshkrimi">
 <!ENTITY saveButton.tooltip "Ruajeni këtë mesazh"> 
 <!ENTITY cutButton.tooltip              "Prijeni">
 <!ENTITY copyButton.tooltip             "Kopjojeni">

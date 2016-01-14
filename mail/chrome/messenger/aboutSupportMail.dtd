@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Siguri lidhjeje">
 <!ENTITY aboutSupport.accountsAuthMethod "Metodë mirëfilltësimi">
 <!ENTITY aboutSupport.accountsDefault "Parazgjedhje?">
+<!ENTITY aboutSupport.identityName "Identitet">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Dërgoje me email">

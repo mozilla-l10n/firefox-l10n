@@ -21,6 +21,7 @@
 <!ENTITY allow.accesskey              "L">
 <!ENTITY windowClose.key              "i">
 
-<!ENTITY button.close.label           "Mbylle">
-<!ENTITY button.close.accesskey       "M">
-
+<!ENTITY button.cancel.label          "Anuloje">
+<!ENTITY button.cancel.accesskey      "A">
+<!ENTITY button.ok.label              "Ruaji Ndryshimet">
+<!ENTITY button.ok.accesskey          "R">

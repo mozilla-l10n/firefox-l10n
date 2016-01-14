@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "H">
 <!ENTITY cmd.removeFromHistory.label               "Hiqe Prej Historikut">
 <!ENTITY cmd.removeFromHistory.accesskey           "Q">
-<!ENTITY cmd.clearDownloads.label                  "Pastroji Shkarkimet">
-<!ENTITY cmd.clearDownloads.accesskey              "S">
+<!ENTITY cmd.clearList.label                       "Pastroje Listën">
+<!ENTITY cmd.clearList.accesskey                   "P">
+<!ENTITY cmd.clearList.tooltip                     "Hiq krejt zërat prej listës së kartelave të ruajtura, me përjashtim të shkarkimeve në rrugë e sipër.">
+<!ENTITY cmd.searchDownloads.label                 "Kërkoni…">
+<!ENTITY cmd.searchDownloads.key                   "K">
