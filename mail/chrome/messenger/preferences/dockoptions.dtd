@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "a">
 <!ENTITY dockIconBadge.label                   "Stemë ikone aplikacioni">
 <!ENTITY dockIconShow.label                    "Stemë ikone aplikacioni me:">
+<!ENTITY directNotificationSettings.label      "Stemën mund ta çaktivizoni te pjesa Njoftime në Parapëlqime Sistemi.">
