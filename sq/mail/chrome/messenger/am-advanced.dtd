@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Vëre si Parazgjedhje">
 <!ENTITY smtpListSetDefault.accesskey "V">
 
+<!ENTITY serverDetails.label "Hollësi shërbyesi të përzgjedhur:">
 <!ENTITY serverDescription.label "Përshkrim: ">
 <!ENTITY serverName.label "Emër Shërbyesi: ">
 <!ENTITY serverPort.label "Portë: ">

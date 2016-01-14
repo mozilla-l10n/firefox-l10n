@@ -4,6 +4,8 @@
 
 <!ENTITY itemFormatting.label             "Formatim">
 <!ENTITY itemTags.label                   "Etiketa">
+<!ENTITY itemAdvanced.label               "Të mëtejshme">
+
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "i">
 <!ENTITY regularStyle.label               "I rregullt">
@@ -15,6 +17,8 @@
 <!ENTITY regularSize.label                "Të rregullta">
 <!ENTITY bigger.label                     "Më të mëdha">
 <!ENTITY smaller.label                    "Më të vogla">
+<!ENTITY quotedTextColor.label            "Ngjyrë:">
+<!ENTITY quotedTextColor.accesskey        "n">
 <!ENTITY displayWidth.label               "Mesazhe Tekst i Thjeshtë">
 <!ENTITY displayText.label	          "Kur shfaqen mesazhe teksti të thjeshtë të cituar:">
 <!ENTITY quotedTextColor.label            "Ngjyrë:">
@@ -43,3 +47,29 @@
 <!ENTITY fontOptions.label       "Shkronja…">
 <!ENTITY colorButton.label       "Ngjyra…">
 <!ENTITY colorButton.accesskey   "N">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                  "Lexim">
+<!ENTITY display.caption                  "Shfaqje">
+<!ENTITY showCondensedAddresses.label     "Për persona në librin tim të adresave shfaq vetëm emër ekrani">
+<!ENTITY showCondensedAddresses.accesskey "P">
+
+<!ENTITY autoMarkAsRead.label             "Shënoji vetvetiu mesazhet si të lexuar">
+<!ENTITY autoMarkAsRead.accesskey         "v">
+<!ENTITY markAsReadNoDelay.label          "Sapo të shfaqen">
+<!ENTITY markAsReadNoDelay.accesskey      "S">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Pasi janë shfaqur për">
+<!ENTITY markAsReadDelay.accesskey        "P">
+<!ENTITY secondsLabel.label               "sekonda">
+<!ENTITY openMsgIn.label                  "Hapi mesazhet në:">
+<!ENTITY openMsgInNewTab.label            "Skedë të re">
+<!ENTITY openMsgInNewTab.accesskey        "k">
+<!ENTITY reuseExpRadio0.label             "Dritare të re mesazhesh">
+<!ENTITY reuseExpRadio0.accesskey         "D">
+<!ENTITY reuseExpRadio1.label             "Dritare ekzistuese mesazhesh">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Me lëvizjen ose fshirjen mbylle dritaren /skedën e mesazhit">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "m">
