@@ -80,23 +80,21 @@
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
-
 <!ENTITY fontSizeMenu.label "Madhësi">
 <!ENTITY fontSizeMenu.accesskey "d">
-<!ENTITY size-xx-smallCmd.label "xx-të-vogla">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "x-të-vogla">
-<!ENTITY size-x-smallCmd.accesskey "l">
-<!ENTITY size-smallCmd.label "të vogla">
-<!ENTITY size-smallCmd.accesskey "o">
-<!ENTITY size-mediumCmd.label "mesatare">
-<!ENTITY size-mediumCmd.accesskey "s">
-<!ENTITY size-largeCmd.label "të mëdha">
-<!ENTITY size-largeCmd.accesskey "t">
-<!ENTITY size-x-largeCmd.label "x-të-mëdha">
-<!ENTITY size-x-largeCmd.accesskey "ë">
-<!ENTITY size-xx-largeCmd.label "xx-të-mëdha">
-<!ENTITY size-xx-largeCmd.accesskey "h">
+<!ENTITY size-tinyCmd.label "Të vockla">
+<!ENTITY size-tinyCmd.accesskey "c">
+<!ENTITY size-smallCmd.label "Të vogla">
+<!ENTITY size-smallCmd.accesskey "v">
+<!ENTITY size-mediumCmd.label "Mesatare">
+<!ENTITY size-mediumCmd.accesskey "M">
+<!ENTITY size-largeCmd.label "Të mëdha">
+<!ENTITY size-largeCmd.accesskey "a">
+<!ENTITY size-extraLargeCmd.label "Ekstra të Mëdha">
+<!ENTITY size-extraLargeCmd.accesskey "k">
+<!ENTITY size-hugeCmd.label "Të stërmëdha">
+<!ENTITY size-hugeCmd.accesskey "s">
+
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Stil Teksti">
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Zgjidhni ngjyrë theksimi teksti">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Caktoni madhësi shkronjash">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Madhësi më e vogël shkronjash">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Madhësi më e madhe shkronjash">
 <!ENTITY boldToolbarCmd.tooltip "të Trasha">
