@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Kuždych ">
 <!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "minutow za nowymi powěsćami pśeglědaś">
-<!ENTITY useIdleNotifications.label "Serwerowe powěźeńki ned zmóžniś, gaž dojdu nowe powěsći">
-<!ENTITY useIdleNotifications.accesskey "S">
+
+
 <!ENTITY connectionSecurity.label "Zwiskowa wěstota:">
 <!ENTITY connectionSecurity.accesskey "Z">
 <!ENTITY connectionSecurityType-0.label "Žedna">
