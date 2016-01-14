@@ -2,8 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY safeb.palm.accept.label "Bandunar questa pagina">
+<!ENTITY safeb.palm.decline.label "Ignorar quest avertiment">
+<!ENTITY safeb.palm.notforgery.label2 "Quai n'è betg in'emprova d'engion…">
+<!ENTITY safeb.palm.reportPage.label "Pertge è questa pagina vegnida bloccada?">
 
+<!ENTITY safeb.blocked.malwarePage.title "Classifitgà sco pagina attatganta!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Questa pagina d'internet sut <span id='malware_sitename'/> è annunziada sco pagina attatganta ed è vegnida bloccada sin fundament da tias preferenzas da segirezza.">
 
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
