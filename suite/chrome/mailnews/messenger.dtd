@@ -452,7 +452,7 @@
 <!ENTITY editRemoteContentSettings.accesskey "E">
 <!-- Statusbar -->
 
-<!ENTITY  statusText.label "Terminado">
+<!ENTITY  statusText.label "OK">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">
