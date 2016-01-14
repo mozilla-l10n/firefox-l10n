@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Betg connectà">
+<!ENTITY sync.connect               "Connectar">
+<!ENTITY sync.connected             "Connectà">
+<!ENTITY sync.details               "Detagls">
+<!ENTITY sync.deviceName            "Quest apparat">
+<!ENTITY sync.disconnect            "Deconnectar">
+<!ENTITY sync.syncNow               "Sincronisar ussa">
+
+<!ENTITY sync.setup.title           "Connectar per sincronisar">
+<!ENTITY sync.setup.pair            "Per activar, tscherna &#x0022;Associar in apparat&#x0022; sin tes auter apparat.">
+<!ENTITY sync.fallback              "Mes computer n'è betg qua…">
+<!ENTITY sync.setup.manual          "Endatescha las infurmaziuns da tes conto da Sync">
+<!ENTITY sync.account               "Num dal conto">
+<!ENTITY sync.password              "Pled-clav">
+<!ENTITY sync.recoveryKey           "Clav da restauraziun">
+<!ENTITY sync.customServer          "Utilisar in agen server">
+<!ENTITY sync.serverURL             "URL dal server">
+<!ENTITY sync.setup.connect         "Connectar">
+<!ENTITY sync.setup.cancel          "Interrumper">
+<!ENTITY sync.setup.tutorial        "Mussar co">
+<!ENTITY sync.setup.waiting2        "Spetgar sin l'auter apparat…">
+
+<!ENTITY sync.pair.title            "Associar in apparat">
+<!ENTITY sync.setup.close           "Serrar">
+<!ENTITY sync.setup.waitingdownload "Tias datas vegnan ussa telechargiadas en il fund davos. Ti pos serrar questa fanestra da tut temp.">
