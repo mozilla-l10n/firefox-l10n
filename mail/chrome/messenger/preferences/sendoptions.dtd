@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Mundësi Dërgimi">
 <!ENTITY sendMail.title               "Format Teksti">
+<!ENTITY autoDowngrade.label          "Nëse mundet, dërgoji mesazhet si tekst i thjeshtë">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Kur dërgohen mesazhe në format HTML, dhe një a më shumë nga marrësit nuk janë te lista e atyre që munden të marrin HTML:">
 <!ENTITY askMe.label                  "Pyetmë ç&apos;të bëj">
 <!ENTITY askMe.accesskey              "P">
