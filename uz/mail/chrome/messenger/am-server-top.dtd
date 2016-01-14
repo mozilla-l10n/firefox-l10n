@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Yangi xabarlarni har">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "daqiqada ko‘rish">
-<!ENTITY useIdleNotifications.label "Yangi xabarlar olinganda serverdan tezda ogohlantirish xabarlari ko‘rsatilishiga ruxsat berish">
-<!ENTITY useIdleNotifications.accesskey "r">
+
+
 
 
 <!ENTITY connectionSecurityType-0.label "Yo‘q">
