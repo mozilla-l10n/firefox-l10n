@@ -52,6 +52,32 @@
 <!ENTITY enableCrashReporter.accesskey   "V">
 <!ENTITY crashReporterLearnMore.label    "Mësoni Më Tepër">
 
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Lexim">
+<!ENTITY display.caption                "Paraqitje">
+<!ENTITY showCondensedAddresses.label  "Shfaq emra ekrani vetëm për persona në librin tim të adresave">
+<!ENTITY showCondensedAddresses.accesskey "e">
+
+<!ENTITY autoMarkAsRead.label          "Shënoji vetvetiu mesazhet si të lexuara">
+<!ENTITY autoMarkAsRead.accesskey      "v">
+<!ENTITY markAsReadNoDelay.label       "Sapo të shfaqen">
+<!ENTITY markAsReadNoDelay.accesskey   "S">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Pas shfaqjes, brenda">
+<!ENTITY markAsReadDelay.accesskey     "P">
+<!ENTITY secondsLabel.label            "sekondash">
+<!ENTITY openMsgIn.label               "Hapi mesazhet në:">
+<!ENTITY openMsgInNewTab.label         "Skedë të re">
+<!ENTITY openMsgInNewTab.accesskey     "k">
+<!ENTITY reuseExpRadio0.label          "Dritare të re mesazhi">
+<!ENTITY reuseExpRadio0.accesskey      "D">
+<!ENTITY reuseExpRadio1.label          "Dritare ekzistuese mesazhi">
+<!ENTITY reuseExpRadio1.accesskey      "z">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Me lëvizjen ose fshirjen, mbyll edhe dritaren/skedën e mesazhit">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "M">
+
 <!-- Update -->
 <!ENTITY updateApp.label                 "Përditësime &brandShortName;-i">
 <!ENTITY updateAuto.label                "Instaloji përditësimet vetvetiu (e këshillueshme: siguri e përmirësuar)">
