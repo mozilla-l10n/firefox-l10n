@@ -101,11 +101,8 @@
 
 <!ENTITY settings "Instellingen">
 <!ENTITY settings_title "Instellingen">
-<!ENTITY pref_category_input_options "Invoeropties">
-<!ENTITY pref_category_advanced "Geavanceerd">
-<!ENTITY pref_category_customize "Aanpassen">
-<!ENTITY pref_category_customize_summary "Start, zoeken, tabbladen, importeren">
-<!ENTITY pref_category_customize_alt_summary "Start, zoeken, tabbladen, later openen, importeren">
+<!ENTITY pref_category_general "Algemeen">
+<!ENTITY pref_category_general_summary2 "Startpagina, taal, URL-balk">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -145,20 +142,14 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "Geen via Firefox-account gekoppelde apparaten gevonden">
 
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-<!ENTITY menu_no_synced_devices "Dit tabblad naar een ander verbonden apparaat verzenden">
-
 <!ENTITY pref_category_search3 "Zoeken">
 <!ENTITY pref_category_search_summary "Uw zoekproviders aanpassen">
-<!ENTITY pref_category_display "Weergave">
-<!ENTITY pref_category_display_summary "Tekst, titelbalk, volledigschermnavigatie">
+<!ENTITY pref_category_accessibility "Toegankelijkheid">
+<!ENTITY pref_category_accessibility_summary2 "Tekstgrootte, zoomen, spraakinvoer">
 <!ENTITY pref_category_privacy_short "Privacy">
-<!ENTITY pref_category_privacy_summary2 "Aanmeldingen, cookies, volgen, gegevens beheren">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Over &brandShortName;, FAQ’s, gegevenskeuzes">
+<!ENTITY pref_category_privacy_summary3 "Volgen, cookies, gegevenskeuzes">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Over &brandShortName;, FAQ’s, feedback">
 <!ENTITY pref_category_datareporting "Gegevenskeuzes">
 <!ENTITY pref_learn_more "Meer info">
 <!ENTITY pref_category_installed_search_engines "Geïnstalleerde zoekmachines">
@@ -172,12 +163,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: voeg een website aan uw lijst met zoekproviders toe door uw vinger op het zoekveld ervan te houden en daarna op het pictogram &formatI; te tikken.">
-<!ENTITY pref_category_devtools "Ontwikkelaarshulpmiddelen">
+<!ENTITY pref_category_advanced "Geavanceerd">
+<!ENTITY pref_category_advanced_summary2 "Tabbladen herstellen, plug-ins, ontwikkelaarshulpmiddelen">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via wifi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wifi-debugging vereist dat een QR-codelezer-app op uw apparaat is geïnstalleerd.">
-<!ENTITY pref_category_logins "Aanmeldingen">
 <!ENTITY pref_remember_signons2 "Aanmeldingen onthouden">
 <!ENTITY pref_open_external_urls_privately_title "Koppelingen openen in Privénavigatie">
 <!ENTITY pref_open_external_urls_privately_summary "Voor alle in &brandShortName; geopende externe koppelingen">
@@ -200,24 +191,40 @@
 <!ENTITY pref_home_suggested_sites_summary "Snelkoppelingen naar websites die u mogelijk interessant vindt op uw startpagina weergeven">
 <!ENTITY pref_category_home_homepage "Startpagina">
 <!ENTITY home_homepage_title "Een startpagina instellen">
-<!ENTITY home_homepage_use_current_tab "Huidige tabblad gebruiken">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName;-startpagina">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Aangepast">
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
+<!ENTITY home_homepage_hint_user_address "Voer adres of zoekterm in">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "Aanpassen">
-<!ENTITY pref_header_display "Weergave">
+<!ENTITY pref_header_general "Algemeen">
+<!ENTITY pref_header_search "Zoeken">
 <!ENTITY pref_header_privacy_short "Privacy">
+<!ENTITY pref_header_accessibility "Toegankelijkheid">
+<!ENTITY pref_header_advanced "Geavanceerd">
 <!ENTITY pref_header_help "Help">
-<!ENTITY pref_header_language "Taal">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Ontwikkelaarshulpmiddelen">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ingeschakeld">
 <!ENTITY pref_cookies_not_accept_foreign "Ingeschakeld, behalve van derden">
 <!ENTITY pref_cookies_disabled "Uitgeschakeld">
 
-<!ENTITY pref_tap_to_load_images_title "Tikken voor laden van afbeeldingen">
-<!ENTITY pref_tap_to_load_images_summary2 "Afbeeldingen alleen laden bij ingedrukt houden">
+<!ENTITY pref_tap_to_load_images_title2 "Afbeeldingen tonen">
+<!ENTITY pref_tap_to_load_images_enabled "Altijd">
+<!ENTITY pref_tap_to_load_images_data "Alleen via wifi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Geblokkeerd">
 
 <!ENTITY pref_tracking_protection_title "Bescherming tegen volgen">
 <!ENTITY pref_tracking_protection_summary3 "Ingeschakeld in Privénavigatie">
@@ -253,17 +260,19 @@
 <!ENTITY pref_char_encoding "Tekenset">
 <!ENTITY pref_char_encoding_on "Menu tonen">
 <!ENTITY pref_char_encoding_off "Menu niet tonen">
-<!ENTITY pref_clear_private_data2 "Nu wissen">
-<!ENTITY pref_clear_private_data_category "Privégegevens wissen">
-<!ENTITY pref_clear_on_exit_title2 "Wissen bij afsluiten">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; zal automatisch uw gegevens wissen als u \u201CAfsluiten\u201D selecteert in het hoofdmenu">
+<!ENTITY pref_clear_private_data "Privégegevens wissen">
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Nu wissen">
+<!ENTITY pref_clear_on_exit_title3 "Privégegevens wissen bij afsluiten">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; zal automatisch uw gegevens wissen als u \u2018Afsluiten\u2019 selecteert in het hoofdmenu">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecteer welke gegevens u wilt wissen">
 <!ENTITY pref_plugins "Plug-ins">
 <!ENTITY pref_plugins_enabled "Ingeschakeld">
 <!ENTITY pref_plugins_tap_to_play "Tikken voor afspelen">
 <!ENTITY pref_plugins_disabled "Uitgeschakeld">
 <!ENTITY pref_text_size "Tekstgrootte">
-<!ENTITY pref_restore "Tabbladen">
+<!ENTITY pref_restore_tabs "Tabbladen herstellen">
 <!ENTITY pref_restore_always "Altijd herstellen">
 <!ENTITY pref_restore_quit "Niet herstellen na afsluiten van &brandShortName;">
 <!ENTITY pref_font_size_tiny "Zeer klein">
@@ -281,23 +290,23 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
      demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "De snelle oranje vos springt over uw verwachtingen met meer snelheid, meer flexibiliteit en meer veiligheid. Als stichting zijn we vrij om in uw belang en zonder druk voor compromissen te innoveren. Dat betekent een betere ervaring voor u en een stralende toekomst voor het internet.">
+<!ENTITY pref_font_size_preview_text "De snelle oranje vos springt over uw verwachtingen met meer snelheid, meer flexibiliteit en meer veiligheid. Als non-profitorganisatie zijn we vrij om in uw belang en zonder druk voor compromissen te innoveren. Dat betekent een betere ervaring voor u en een stralende toekomst voor het internet.">
 
 <!ENTITY pref_media_autoplay_enabled "Automatisch afspelen toestaan">
 <!ENTITY pref_media_autoplay_enabled_summary "Automatisch afspelen van video’s en andere media-inhoud door websites beheren">
 <!ENTITY pref_zoom_force_enabled "Zoom altijd inschakelen">
 <!ENTITY pref_zoom_force_enabled_summary "Overschrijven forceren, zodat u elke pagina kunt zoomen">
 <!ENTITY pref_voice_input "Spraakinvoer">
-<!ENTITY pref_voice_input_summary "Spraakdictee in de titelbalk toestaan">
+<!ENTITY pref_voice_input_summary2 "Spraakdictee in de URL-balk toestaan">
 <!ENTITY pref_qrcode_enabled "QR-codelezer">
-<!ENTITY pref_qrcode_enabled_summary "QR-scanner in de titelbalk toestaan">
+<!ENTITY pref_qrcode_enabled_summary2 "QR-scanner in de URL-balk toestaan">
 
 <!ENTITY pref_use_master_password "Hoofdwachtwoord gebruiken">
-<!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync2 "Aanmelden">
 <!ENTITY pref_sync_summary2 "Tabbladen, bladwijzers, aanmeldingen, geschiedenis synchroniseren">
 <!ENTITY pref_search_suggestions "Zoeksuggesties tonen">
 <!ENTITY pref_history_search_suggestions "Zoekgeschiedenis tonen">
-<!ENTITY pref_import_android "Importeren uit Android">
+<!ENTITY pref_import_options "Importeeropties">
 <!ENTITY pref_import_android_summary "Bladwijzers en geschiedenis vanuit de systeemeigen browser importeren">
 <!ENTITY pref_private_data_history2 "Navigatiegeschiedenis">
 <!ENTITY pref_private_data_searchHistory "Zoekgeschiedenis">
@@ -354,7 +363,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Updates automatisch downloaden">
+<!ENTITY pref_update_autodownload3 "Automatische updates">
 <!ENTITY pref_update_autodownload_wifi "Alleen via wifi">
 <!ENTITY pref_update_autodownload_never "Nooit">
 <!ENTITY pref_update_autodownload_always "Altijd">
@@ -436,10 +445,6 @@ size. -->
 <!ENTITY doorhanger_login_select_action_text "Andere aanmelding selecteren">
 <!ENTITY doorhanger_login_select_title "Wachtwoord kopiëren van">
 
-<!ENTITY pref_titlebar_mode "Titelbalk">
-<!ENTITY pref_titlebar_mode_title "Paginatitel tonen">
-<!ENTITY pref_titlebar_mode_url "Pagina-adres tonen">
-
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Kleine gebieden vergroten">
@@ -448,7 +453,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Volledigschermnavigatie">
-<!ENTITY pref_scroll_title_bar_summary "De &brandShortName;-titelbalk verbergen tijdens het omlaag scrollen op een pagina">
+<!ENTITY pref_scroll_title_bar_summary2 "De &brandShortName;-werkbalk verbergen tijdens het omlaag scrollen op een pagina">
 
 <!ENTITY pref_tab_queue_title2 "Meerdere koppelingen openen">
 <!ENTITY pref_tab_queue_summary3 "Sla ze op voor de volgende keer dat u &brandShortName; opent">
@@ -468,7 +473,6 @@ size. -->
 <!ENTITY site_settings_title3       "Website-instellingen">
 <!ENTITY site_settings_cancel       "Annuleren">
 <!ENTITY site_settings_clear        "Wissen">
-<!ENTITY site_settings_no_settings  "Er zijn geen instellingen om te wissen.">
 
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
@@ -524,14 +528,14 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: een &formatS1;Nieuw privétabblad&formatS2; openen zal geen geschiedenis van u opslaan.">
 <!ENTITY home_reading_list_empty "Hier verschijnen artikelen die u voor later opslaat.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "TIP: sla artikelen op naar uw leeslijst door uw vinger op het pictogram &formatI; te houden zodra dit in de titelbalk verschijnt.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
+<!ENTITY home_reading_list_hint3 "TIP: sla artikelen op naar uw leeslijst door uw vinger op het pictogram &formatI; te houden zodra dit in de URL-balk verschijnt.">
+<!-- Localization note (home_reading_list_hint_accessible2): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "TIP: sla artikelen op naar uw leeslijst door uw vinger op de lezermodusknop te houden zodra deze in de titelbalk verschijnt.">
+<!ENTITY home_reading_list_hint_accessible2 "sla artikelen op naar uw leeslijst door uw vinger op de lezermodusknop te houden zodra deze in de URL-balk verschijnt.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -727,19 +731,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 <!ENTITY devtools_auth_scan_header "QR-code scannen die op uw andere apparaat wordt weergegeven">
 
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restriction_disallow_import_settings_title2 "‘Importeren uit Android’ uitschakelen">
-<!ENTITY restriction_disallow_addons_title2 "Add-on-installatie uitschakelen">
-<!ENTITY restriction_disallow_devtools_title2 "Ontwikkelaarshulpmiddelen uitschakelen">
-<!ENTITY restriction_disallow_customize_home_title2 "Startpagina-aanpassing uitschakelen">
-<!ENTITY restriction_disallow_private_browsing_title2 "Privénavigatie uitschakelen">
-<!ENTITY restriction_disallow_location_services_title2 "Locatieservices uitschakelen">
-<!ENTITY restriction_disallow_display_settings_title2 "Weergave-instellingen uitschakelen">
-<!ENTITY restriction_disallow_clear_history_title2 "‘Geschiedenis wissen’ uitschakelen">
-<!ENTITY restriction_disallow_master_password_title2 "Hoofdwachtwoord uitschakelen">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Gastnavigatie uitschakelen">
+<!ENTITY restrictable_feature_addons_installation "Add-ons">
+<!ENTITY restrictable_feature_addons_installation_description "Voeg functies of functionaliteiten toe aan Firefox. Noot: add-ons kunnen bepaalde beperkingen uitschakelen.">
+<!ENTITY restrictable_feature_private_browsing "Privénavigatie">
+<!ENTITY restrictable_feature_private_browsing_description "Laat gezinsleden surfen zonder gegevens over de door hen bezochte websites en pagina’s op te slaan.">
+<!ENTITY restrictable_feature_clear_history "Geschiedenis wissen">
+<!ENTITY restrictable_feature_clear_history_description "Laat gezinsleden gegevens over de door hen bezochte websites verwijderen.">
+<!ENTITY restrictable_feature_advanced_settings "Geavanceerde instellingen">
+<!ENTITY restrictable_feature_advanced_settings_description "Omvatten het importeren van bladwijzers, herstellen van tabbladen en automatische updates. Zet dit uit voor vereenvoudigde instellingen die voor elk gezinslid passend zijn.">
+<!ENTITY restrictable_feature_camera_microphone "Camera &amp; microfoon">
+<!ENTITY restrictable_feature_camera_microphone_description "Laat gezinsleden deelnemen aan realtime-communicatie op websites.">
+<!ENTITY restrictable_feature_data_choices "Gegevenskeuzes">
+<!ENTITY restrictable_feature_data_choices_description "Kiezen of gebruiksgegevens naar Mozilla worden verzonden om Firefox te helpen verbeteren.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -752,3 +758,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "Firefox: hulp en ondersteuning voor beperkte profielen op Android-tablets">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Leer het web: Mozilla Webmaker">
+
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "Sorry! Deze &brandShortName; werkt niet op dit apparaat (&formatS1;, &formatS2;). Download de juiste versie.">
+
+<!ENTITY eol_notification_title "&brandShortName; ondersteunt geen Android 3 meer">
+<!ENTITY eol_notification_summary "Tik voor meer info">
