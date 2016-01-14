@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Új üzenetek ellenőrzése ">
 <!ENTITY biffStart.accesskey "z">
 <!ENTITY biffEnd.label "percenként">
-
-
+<!ENTITY useIdleNotifications.label "Azonnali kiszolgálóértesítések engedélyezése új üzenetek érkezésekor">
+<!ENTITY useIdleNotifications.accesskey "A">
 <!ENTITY connectionSecurity.label "Kapcsolat biztonsága:">
 <!ENTITY connectionSecurity.accesskey "b">
 <!ENTITY connectionSecurityType-0.label "nincs">
