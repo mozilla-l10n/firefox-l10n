@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Kóžde ">
 <!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "mjeńšin za nowymi powěsćemi pruwować">
-<!ENTITY useIdleNotifications.label "Hnydomne serwerowe zdźělenki zmóžnić, hdyž nowe powěsće dóńdu">
-<!ENTITY useIdleNotifications.accesskey "H">
+
+
 <!ENTITY connectionSecurity.label "Zwiskowa wěstota:">
 <!ENTITY connectionSecurity.accesskey "Z">
 <!ENTITY connectionSecurityType-0.label "Žana">
