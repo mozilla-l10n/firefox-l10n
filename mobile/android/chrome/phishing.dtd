@@ -14,10 +14,12 @@
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Suspect d'engion via web!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Sche ti endateschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u autras furmas d'engion.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Questas furmas da falsificaziun en il web vegnan utilisadas per emprovas d'engion, numnadas attatgas da "phishing". Criminals cun l'intenziun d'engianar emprovan uschia d'imitar paginas d'internet u e-mails che inspiran confidenza.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Rapportà sco pagina cun software nungiavischada!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Questa pagina web sut <span id='unwanted_sitename'/> è vegnida annunziada sco pagina che cuntegna software nungiavischada e vegn bloccada sin basa da tias preferenzas da segirezza.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Paginas cun software nungiavischada emprovan dad installar software che po engianar ed influenzar tes sistem en moda nunspetgada.">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "Pagina scumandada">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "La pagina <span id='forbidden_sitename'/> è vegnida bloccada sin basa da tia configuraziun dal navigatur.">
