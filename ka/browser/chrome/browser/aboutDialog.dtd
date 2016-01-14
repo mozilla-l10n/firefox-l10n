@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "&brandFullName; ბრაუზერის შესახებ">
+<!ENTITY aboutDialog.title          "&brandFullName;-ის შესახებ">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -11,19 +11,20 @@
 <!ENTITY update.checkForUpdatesButton.label       "განახლებების შემოწმება">
 <!ENTITY update.checkForUpdatesButton.accesskey   "გ">
 <!ENTITY update.updateButton.label2                "განახლების დასაყენებლად გადატვირთეთ &brandShortName;">
-
-<!ENTITY update.applyButtonBillboard.label        "განახლების გააქტიურება">
+<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.applyButtonBillboard.label        "განახლების გააქტიურება...">
 <!ENTITY update.applyButtonBillboard.accesskey    "გ">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
-<!ENTITY warningDesc.version        "&brandShortName; არის საცდელი ვერსია და შესაძლოა არამდგრადად იმუშაოს.">
+<!ENTITY warningDesc.version        "&brandShortName; საცდელი ვერსიაა და შესაძლოა არამდგრადად იმუშაოს.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "ის ავტომატურად აგზავნის ინფორმაციას კომპიუტერის წარმადობა, ნაწილებისა და მორგების შესახებ &vendorShortName;-ში რათა მოხდეს &brandShortName;-ს გაუმჯობესება.">
+<!ENTITY warningDesc.telemetryDesc  "ის ავტომატურად აგზავნის ინფორმაციას კომპიუტერის წარმადობა, ნაწილებისა და მორგების შესახებ &vendorShortName;-ში რათა მოხდეს &brandShortName;-ის გაუმჯობესება.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " არის ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "მსოფლიო საზოგადოების მიერ">
@@ -37,11 +38,12 @@
 <!ENTITY community.creditsLink      "მსოფლიო საზოგადოების მიერ">
 <!ENTITY community.end3             ",  ვინც ზრუნავს ღია ინტერნეტზე, რათა ის დარჩეს ყველასათვის გახსნილი და ხელმისაწვდომი.">
 
-<!ENTITY helpus.start               "გსურს დაგბეხმარო? ">
+<!ENTITY helpus.start               "გსურს დაგვეხმარო? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "გააკეთეთ შემოწირულობა">
 <!ENTITY helpus.middle              " ან ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "შემოგვიერთდით!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -51,12 +53,12 @@
 <!ENTITY bottomLinks.rights         "მომხმარებლის უფლებები">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "პირადი პოლიტიკა">
+<!ENTITY bottomLinks.privacy        "კონფიდენციალობის პოლიტიკა">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "მიმდინარეობს განახლებებზე შემოწმება...">
+<!ENTITY update.checkingForUpdates  "მიმდინარეობს განახლებების შემოწმება...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; უახლესი ვერსიის არის">
+<!ENTITY update.noUpdatesFound      "&brandShortName; უახლესი ვერსიაა">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "განახლებები აკრძალულია თქვენი სისტემური ადმინისტრატორის მიერ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
@@ -68,7 +70,7 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.failed.start        "განახლება ჩაიშალა. ">
-<!ENTITY update.failed.linkText     "უახლესი ვერსიის გადმოტვირთვა">
+<!ENTITY update.failed.linkText     "უახლესი ვერსიის ჩამოტვირთვა">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -96,10 +98,10 @@
 <!ENTITY update.downloading.start   "განახლების ჩამოტვირთვა — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "განახლების მისადაგება...">
+<!ENTITY update.applying            "განახლების გააქტიურება...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "თქვენ იყენებთ ">
-<!ENTITY channel.description.end    " განახლების არხი. ">
+<!ENTITY channel.description.start  "თქვენ ამჟამად იყენებთ ">
+<!ENTITY channel.description.end    " განახლების არხს. ">
