@@ -311,101 +311,104 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserContentToolboxMenu.accesskey "ყ">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "დეველოპერის ხელსაწყოთა ზოლის დახურვა">
-
-
-
-
-
+<!ENTITY devToolbarMenu.label              "დეველოპერის ხელსაწყოთა ზოლი">
+<!ENTITY devToolbarMenu.accesskey          "ვ">
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "ხელსაწყოების გადართვა">
-<!ENTITY devToolboxMenuItem.accesskey      "გ">
+<!ENTITY devToolboxMenuItem.label          "ხელსაწყოთა ბერკეტი">
+<!ENTITY devToolboxMenuItem.accesskey      "ბ">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
+<!ENTITY devToolbarToolsButton.tooltip     "დეველოპერის ხელსაწყოების ბერკეტი">
+<!ENTITY devToolbarOtherToolsButton.label  "მეტი ხელსაწყოები">
 
-<!ENTITY devToolbarToolsButton.tooltip     "შემუშავების ხელსაწყოების გადართვა">
-<!ENTITY devToolbarOtherToolsButton.label  "მეტი ხელსაწყო">
-
-<!ENTITY getMoreDevtoolsCmd.label        "მეტი ხელსაწყოს მოძიება">
+<!ENTITY getMoreDevtoolsCmd.label        "მეტი ხელსაწყოები მიღება">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "მ">
 
 <!ENTITY fileMenu.label         "ფაილი"> 
-<!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fileMenu.accesskey       "ფ">
+<!ENTITY newUserContext.label             "ახალი სათავსი ჩანართი">
+<!ENTITY newUserContext.accesskey         "ს">
+<!ENTITY userContextPersonal.label        "პირადი">
+<!ENTITY userContextPersonal.accesskey    "პ">
+<!ENTITY userContextWork.label            "სამუშაო">
+<!ENTITY userContextWork.accesskey        "მ">
+<!ENTITY userContextBanking.label         "საბანკო საქმე">
+<!ENTITY userContextBanking.accesskey     "ს">
+<!ENTITY userContextShopping.label        "ვაჭრობა">
+<!ENTITY userContextShopping.accesskey    "ვ">
 <!ENTITY newNavigatorCmd.label        "ახალი ფანჯარა">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newNavigatorCmd.accesskey      "ა">
 <!ENTITY newPrivateWindow.label     "ახალი პირადი ფანჯარა">
 <!ENTITY newPrivateWindow.accesskey "ფ">
-
+<!ENTITY newNonRemoteWindow.label   "ახალი არა-e10s ფანჯარა">
 
 <!ENTITY editMenu.label         "რედაქტირება"> 
-<!ENTITY editMenu.accesskey       "E"> 
-
+<!ENTITY editMenu.accesskey       "რ"> 
+<!ENTITY undoCmd.label            "მოქმედების დაბრუნება">  
 <!ENTITY undoCmd.key            "Z">  
-
-<!ENTITY redoCmd.label            "გამეორება">  
-
-<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY undoCmd.accesskey          "მ"> 
+<!ENTITY redoCmd.label            "კვლავ შესრულება">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "კ"> 
 <!ENTITY cutCmd.label           "ამოჭრა">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY cutCmd.accesskey         "რ"> 
 <!ENTITY copyCmd.label            "კოპირება">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY copyCmd.accesskey          "კ"> 
 <!ENTITY pasteCmd.label           "ჩასმა">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY pasteCmd.accesskey         "ს"> 
 <!ENTITY deleteCmd.label          "წაშლა">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY deleteCmd.accesskey        "წ"> 
 <!ENTITY selectAllCmd.label         "სრული მონიშვნა">  
-
-<!ENTITY selectAllCmd.accesskey       "A"> 
-
-
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "მ"> 
+<!ENTITY preferencesCmd2.label       "პარამეტრები">
+<!ENTITY preferencesCmd2.accesskey     "პ">
 <!ENTITY preferencesCmdUnix.label       "პარამეტრები">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "ტ"> 
 
+<!ENTITY clearRecentHistory.label               "უახლესი ისტორიის გასუფთავება...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "ჩვენება"> 
-<!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "პულტები"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
-<!ENTITY viewSidebarMenu.label "გვერდითი პანელი">
-<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewMenu.label         "ხედი"> 
+<!ENTITY viewMenu.accesskey       "ხ"> 
+<!ENTITY viewToolbarsMenu.label       "ხელსაწყოთა ზოლები"> 
+<!ENTITY viewToolbarsMenu.accesskey     "ხ"> 
+<!ENTITY viewSidebarMenu.label "გვერდითი ზოლი">
+<!ENTITY viewSidebarMenu.accesskey "ზ">
 <!ENTITY viewCustomizeToolbar.label       "მორგება…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY viewCustomizeToolbar.accesskey     "მ">
 
 <!ENTITY historyMenu.label "ისტორია">
-<!ENTITY historyMenu.accesskey "s">
-<!ENTITY historyUndoMenu.label "ბოლოს დახურული დაფები">
+<!ENTITY historyMenu.accesskey "ი">
+<!ENTITY historyUndoMenu.label "ბოლოს დახურული ჩანართები">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "ბოლოს დახურული სარკმლები">
+<!ENTITY historyUndoWindowMenu.label "ბოლოს დახურული ფანჯრები">
+<!ENTITY historyRestoreLastSession.label "წინა სესიის აღდგენა">
 
-
+<!ENTITY showAllHistoryCmd2.label "სრული ისტორიის ჩვენება">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY appMenuCustomize.label "მორგება">
+<!ENTITY appMenuCustomize.tooltip "მენიუს და ხელსაწყოთა ზოლების მორგება">
+<!ENTITY appMenuCustomizeExit.label "მორგებიდან გამოსვლა">
+<!ENTITY appMenuCustomizeExit.tooltip "მორგების დასრულება">
+<!ENTITY appMenuHistory.label "ისტორია">
+<!ENTITY appMenuHistory.showAll.label "სრული ისტორიის ჩვენება">
+<!ENTITY appMenuHistory.clearRecent.label "უახლესი ისტორიის გასუფთავება…">
+<!ENTITY appMenuHistory.restoreSession.label "წინა სესიის აღდგენა">
+<!ENTITY appMenuHistory.viewSidebar.label "ისტორიის გვერდითი ზოლის ჩვენება">
+<!ENTITY appMenuHelp.tooltip "დახმარების მენიუს გახსნა">
 
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
