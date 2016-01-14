@@ -29,7 +29,7 @@
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 
-<!ENTITY calendar.unifinder.tree.done.label                "Terminado">
+<!ENTITY calendar.unifinder.tree.done.label                "OK">
 <!ENTITY calendar.unifinder.tree.done.tooltip2             "Ordenar por terminado">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioridade">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ordenar por prioridade">
