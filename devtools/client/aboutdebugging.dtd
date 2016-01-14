@@ -6,5 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Kiegészítők">
 <!ENTITY aboutDebugging.addonDebugging.label       "Kiegészítő-hibakeresés be">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Kiegészítők és a böngésző chrome-jának más részeinek hibakeresése">
-
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Ideiglenes kiegészítő betöltése">
 <!ENTITY aboutDebugging.workers                    "Workerek">
