@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Lorg teachtaireachtaí nua gach ">
 <!ENTITY biffStart.accesskey "g">
 <!ENTITY biffEnd.label "nóiméad">
-<!ENTITY useIdleNotifications.label "Ceadaigh fógraí ón bhfreastalaí nuair a thagann teachtaireachtaí nua isteach">
-<!ENTITY useIdleNotifications.accesskey "C">
+
+
 <!ENTITY connectionSecurity.label "Slándáil an cheangail:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Gan sonrú">
