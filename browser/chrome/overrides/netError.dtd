@@ -178,6 +178,8 @@
 ">
 
 <!ENTITY forbiddenBlocked.title "금지된 사이트">
+<!ENTITY forbiddenBlocked.longDesc "<p>이 페이지는 차단 사이트로 설정되어 있어서 &brandShortName;가 페이지 로딩을 차단했습니다.</p>
+">
 
 <!ENTITY cspBlocked.title "콘텐츠 보안 정책에 의한 차단">
 <!ENTITY cspBlocked.longDesc "<p>이 페이지는 콘텐츠 보안 정책에서 허락하지 않는 방법으로 로딩되어 &brandShortName;가 차단했습니다.</p>">
@@ -202,6 +204,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+<!ENTITY errorReporting.automatic2 "오류 보고서를 보내면 멜웨어 사이트를 차단하거나 그 오류를 분석하는데 도움이 됩니다.">
 <!ENTITY errorReporting.learnMore "더 알아보기…">
 <!ENTITY errorReporting.sending "보고서를 보내는 중">
 <!ENTITY errorReporting.sent "보고서를 보냄">
