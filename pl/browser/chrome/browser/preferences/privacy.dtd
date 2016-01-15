@@ -21,7 +21,7 @@
 <!ENTITY changeBlockList.accesskey "b">
 
 <!ENTITY doNotTrack.pre.label "Ustawienia informowania witryn o ">
-<!ENTITY doNotTrack.settings.label "preferencjach wzgędem śledzenia">
+<!ENTITY doNotTrack.settings.label "preferencjach względem śledzenia">
 <!ENTITY doNotTrack.post.label ".">
 
 <!ENTITY locationBar.label "Pasek adresu">
