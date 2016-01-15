@@ -11,6 +11,8 @@
 <!ENTITY trackingProtectionNever.label "Wyłączona">
 <!ENTITY trackingProtectionNever.accesskey "W">
 <!ENTITY trackingProtectionLearnMore.label "Więcej informacji">
+<!ENTITY trackingProtectionExceptions.label "Wyjątki…">
+<!ENTITY trackingProtectionExceptions.accesskey "i">
 
 <!ENTITY trackingProtectionPBM5.label "Ochrona przed śledzeniem w oknach prywatnych">
 <!ENTITY trackingProtectionPBM5.accesskey "r">
