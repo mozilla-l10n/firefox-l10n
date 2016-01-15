@@ -55,6 +55,6 @@ their language.
 <!ENTITY tabgroupsmigration.pagetitle2          "ჩვენ ჩანართის ჯგუფები წავშალეთ, მაგრამ თქვენი ჩანართები შევინახეთ">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "გაიგეთ ჩანართის ჯგუფების შემცველელი მოდულების შესახებ.">
 <!ENTITY tabgroupsmigration.description2        "&brandShortName;-მა ყველა ჯგუფი ჩაინიშნა, ასე რომ არაფერი დაგიკარგავთ.">
-
-
+<!ENTITY tabgroupsmigration.bookmarkbutton      "ჩანიშნული ჩანართის ჯგუფების ჩვენება">
+<!ENTITY tabgroupsmigration.restoredescription  "თქვენ ასევე შეგიძლიათ აირჩიოთ და ახლავე აღადგინოთ ზოგი ან ყველა ფონური ჯგუფი ახალ ფანჯარაში:">
 

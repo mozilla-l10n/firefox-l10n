@@ -2,13 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY tabCrashed.header "ჯერ ცუდი ამბავი: ეს ჩანართი ავარიულად გაითიშა">
+<!ENTITY tabCrashed.message "ახლა კი კარგი ამბავი: თქვენ უბრალოდ შეგიძლიათ დახუროთ ეს ჩანართი, შემდეგ აღადგინოთ ეს ან ყველა ავარიულად დახურული ჩანართი.">
+<!ENTITY tabCrashed.sendReport "გამოგვიგზავნეთ ავარიული დახურვის მოხსენება მომავალში ცუდი ამბების თავიდან ასაცილებლად">
+<!ENTITY tabCrashed.includeURL "იმ გვერდის მისამართის შეცვა, რომელზეც ვიმყოფებოდი">
+<!ENTITY tabCrashed.commentPlaceholder "დაამატეთ კომენტარი (კომენტარების ნახვა ყველას შეუძლია)">
+<!ENTITY tabCrashed.emailPlaceholder "შეიყვანეთ თქვენი ელ-ფოსტის მისამართი">
+<!ENTITY tabCrashed.emailMe "მომწერეთ, როდესაც მეტი ინფრომაცია გახდება ცნობილი">
+<!ENTITY tabCrashed.crashReporter "Mozilla-ს ავარიული დახურვის მომხსენებელი">
+<!ENTITY tabCrashed.reportSent "ავარიული დახურვის შეტყობინება უკვე გადმოგზავნილია; მადლობას გიხდით &brandShortName;-ის გაუმჯობესებაში დახმარებისთვის!">
+<!ENTITY tabCrashed.closeTab "ამ ჩანართის დახურვა">
+<!ENTITY tabCrashed.restoreTab "ამ ჩანართის აღდგენა">
+<!ENTITY tabCrashed.restoreAll "ყველა ავარულად დახურული ჩანართის აღდგენა">
