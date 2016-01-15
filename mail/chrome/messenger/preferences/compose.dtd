@@ -57,6 +57,8 @@
 <!ENTITY bgColor.accesskey                    "S">
 <!ENTITY restoreHTMLDefaults.label            "Rimerr Parazgjedhjet">
 <!ENTITY restoreHTMLDefaults.accesskey        "i">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Kur përdoret formati paragrafë, tasti Enter krijon paragraf të ri">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY attachmentReminder.label              "Kontrollo për bashkëngjitje që mungojnë">
 <!ENTITY attachmentReminder.accesskey          "K">
