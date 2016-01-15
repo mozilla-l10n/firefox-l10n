@@ -10,7 +10,7 @@
 
 <!ENTITY window.title "Console web">
 
-<!ENTITY saveBodies.label "Registra a domanda e-o còrpo de-e risposte">
+<!ENTITY saveBodies.label "Registra a domanda e-o còrpo de risposte">
 <!ENTITY saveBodies.accesskey "R">
 <!ENTITY btnPageNet.label "Ræ">
 <!ENTITY btnPageNet.tooltip "Registra i accessi a-a ræ">

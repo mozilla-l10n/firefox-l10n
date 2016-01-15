@@ -508,7 +508,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.passiveLoaded "Quarche elemento de sta pagina no en segui (prezempio inmagini).">
 <!ENTITY identity.activeLoaded "A proteçion a l'é dizativâ pe sta pagina.">
 <!ENTITY identity.weakEncryption "Sta pagina a deuvia na cifratua debole.">
-<!ENTITY identity.description.insecure "A conescion con sto scito a no l'é privâ. E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de-e carte de credito, ecc. porievan ese amiæ da atri sogetti.">
+<!ENTITY identity.description.insecure "A conescion con sto scito a no l'é privâ. E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de carte de credito, ecc. porievan ese amiæ da atri sogetti.">
 <!ENTITY identity.description.insecureLoginForms "E informaçioin de acesso inserie in sta pagina no en segue e porievan ese conpromisse.">
 <!ENTITY identity.description.weakCipher "A conescion con sto scito web a deuvia na cifratua debole e a no l'é privâ.">
 <!ENTITY identity.description.weakCipher2 "Atri sogetti porievan amiâ e informaçioin trasmisse ò modificâ o conportamento do scito.">
@@ -517,7 +517,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Quarche elemento de sto scito web o no l'é seguo (prezenpio inmagini).">
 <!ENTITY identity.description.passiveLoaded3 "Sciben quarche elemento o segge blocou da &brandShortName;, in sta pagina gh'é ancon di elementi no sigui (prezenpio inmagini).">
 <!ENTITY identity.description.activeLoaded "A conescion con sto scito web a no l'é segua perché a gh'à di contegnui no segui (prezenpio script).">
-<!ENTITY identity.description.activeLoaded2 "E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de-e carte de credito, ecc. porievan ese amiæ da atri sogetti.">
+<!ENTITY identity.description.activeLoaded2 "E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de carte de credito, ecc. porievan ese amiæ da atri sogetti.">
 <!ENTITY identity.enableMixedContentBlocking.label "Ativa proteçion">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
 <!ENTITY identity.disableMixedContentBlocking.label "Dizativa temporaneamente proteçion">
