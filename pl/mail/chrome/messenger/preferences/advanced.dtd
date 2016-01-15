@@ -89,7 +89,7 @@
 <!ENTITY enableOCSP.label "Wyślij zapytanie do serwerów OCSP, aby potwierdzić aktualność certyfikatów">
 <!ENTITY enableOCSP.accesskey "e">
 
-<!ENTITY viewCertificates.label "Wyświetl certyfikaty">
-<!ENTITY viewCertificates.accesskey "W">
+<!ENTITY manageCertificates.label "Zarządzaj certyfikatami">
+<!ENTITY manageCertificates.accesskey "Z">
 <!ENTITY viewSecurityDevices.label "Urządzenia zabezpieczające">
 <!ENTITY viewSecurityDevices.accesskey "U">
