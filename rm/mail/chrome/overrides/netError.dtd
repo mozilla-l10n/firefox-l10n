@@ -103,6 +103,9 @@
 <!ENTITY phishingBlocked.longDesc "<p>Sche ti endateschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u autras furmas d'engion.</p> 
 <p>Questas furmas da falsificaziun en il web vegnan utilisadas per emprovas d'engion ch'ins numna &quot;attatgas da phishing&quot;. Criminals cun l'intenziun d'engianar emprovan uschia d'imitar paginas d'internet u e-mails che inspiran confidenza.</p>">
 
+<!ENTITY forbiddenBlocked.title "Pagina scumandada">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina vegnia chargiada perquai che la configuraziun pretenda da la bloccar.</p>">
+
 <!ENTITY cspBlocked.title "Bloccà da las directivas per la segirezza dal cuntegn">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina chargia en tala maniera perquai che la pagina cuntegna directivas per la segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
 
