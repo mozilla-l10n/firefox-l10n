@@ -6,7 +6,7 @@
 <!ENTITY refreshProfile.dialog.description1 "Parti torna da zero pe risolve i problemi e avei torna e prestaçioin originali.">
 <!ENTITY refreshProfile.dialog.description2 "Se ti væ avanti:">
 <!ENTITY refreshProfile.dialog.items.label1 "Scancelemmo i conponenti azonti e personalizaçioin">
-<!ENTITY refreshProfile.dialog.items.label2 "Repiggemmo e inpostaçioin predefinite do navegatô">
+<!ENTITY refreshProfile.dialog.items.label2 "Repiggemmo e inpostaçioin predefinie do navegatô">
 <!ENTITY refreshProfile.dialog.button.label "Repiggia &brandShortName;">
 <!ENTITY refreshProfile.title "Dâ recatto a &brandShortName;">
 <!ENTITY refreshProfile.button.label "Repiggia &brandShortName;…">
