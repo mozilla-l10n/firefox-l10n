@@ -101,7 +101,10 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "უსაფრთხო დაკავშირება ვერ მოხერხდა">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>თქვენს მიერ მოთხოვნილი გვერდის ვერ გამოჩნდება, რადგან მიღებული მონაცემების ნამდვილობის დადასტურება ვერ ხერხდება.</li> 
+<li>გთხოვთ დაუკავშირდით ვებ-საიტის მფლობელებს და შეატყობინეთ ამ პრობლემის შესახებ.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "უსაფრთხო დაკავშირება ვერ ხერხდება">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -150,7 +153,7 @@ functionality specific to firefox. -->
 
 
 
-
+<!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ დაუკავშირდით ვებ-საიტის მფლობელებს და შეატყობინეთ ამ პრობლემის შესახებ.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
