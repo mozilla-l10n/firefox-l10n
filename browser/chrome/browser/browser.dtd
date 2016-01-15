@@ -410,29 +410,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "ისტორიის გვერდითი ზოლის ჩვენება">
 <!ENTITY appMenuHelp.tooltip "დახმარების მენიუს გახსნა">
 
-
+<!ENTITY appMenuRemoteTabs.label "სინქრონირებული ჩანართები">
+<!ENTITY appMenuRemoteTabs.fetching.label "სინქრონირებული ჩანართების მიღება…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "გახსნილი ჩანართები არაა">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "ჩართეთ ჩანართების სინქრონიზაცია თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "შედით Firefox-ში თქვენი სხვა მოწყობილობებიდან მათი ჩანართების აქ სანახავად.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "სინქრონიზაციის პარამეტრები">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
+<!ENTITY appMenuRemoteTabs.signin.label "Sync-ში შესვლა">
 
-
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.label "ხელსაწყოთა ზოლში დამატება">
+<!ENTITY customizeMenu.addToToolbar.accesskey "დ">
+<!ENTITY customizeMenu.addToPanel.label "მენიუში დამატება">
+<!ENTITY customizeMenu.addToPanel.accesskey "მ">
+<!ENTITY customizeMenu.moveToToolbar.label "ხელსაწყოთა ზოლში გადატანა">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "გ">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
+<!ENTITY customizeMenu.moveToPanel.label "მენიუში გადატანა">
+<!ENTITY customizeMenu.moveToPanel.accesskey "გ">
 
 
 
@@ -673,12 +679,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "გასვლა">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName;-დან გამოსვლა">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "დასრულება"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-
+<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;-დან გამოსვლა">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "დახურვა">  
