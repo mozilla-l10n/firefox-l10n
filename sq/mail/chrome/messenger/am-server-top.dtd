@@ -24,6 +24,7 @@
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minuta">
 <!ENTITY useIdleNotifications.label "Lejo nga shërbyesi njoftime të menjëhershme kur arrijnë mesazhe të rinj">
+<!ENTITY useIdleNotifications.accesskey "L">
 <!ENTITY authMethod.label "Metodë mirëfilltësimi:">
 <!ENTITY authMethod.accesskey "m">
 <!ENTITY leaveOnServer.label "Lëri mesazhet në shërbyes">
