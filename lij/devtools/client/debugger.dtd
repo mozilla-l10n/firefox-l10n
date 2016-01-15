@@ -29,7 +29,7 @@
 <!ENTITY debuggerUI.showOnlyEnum "Fanni vedde solo e proprietæ che ti peu contâ">
 
 <!ENTITY debuggerUI.searchVariable.key "F">
-<!ENTITY debuggerUI.focusVariables "Seleçionn-a 'n erbo de-e variabili">
+<!ENTITY debuggerUI.focusVariables "Seleçionn-a 'n erbo de variabili">
 
 <!ENTITY debuggerUI.searchFile.altkey "O">
 <!ENTITY debuggerUI.searchFunction "Çerca definiçion de fonçion">
