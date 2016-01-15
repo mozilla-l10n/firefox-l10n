@@ -120,7 +120,7 @@
 <!ENTITY pref_category_search_restore_defaults "Przywróć wyszukiwarki">
 <!ENTITY pref_search_restore_defaults "Przywróć domyślne">
 <!ENTITY pref_search_restore_defaults_summary "Przywróć domyślne">
-<!ENTITY pref_search_hint "RADA: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
+<!ENTITY pref_search_hint "Rada: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
 <!ENTITY pref_category_advanced "Zaawansowane">
 <!ENTITY pref_category_advanced_summary2 "Przywracanie kart, wtyczki, narzędzia dla programistów">
 <!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
@@ -401,8 +401,8 @@
 <!ENTITY home_most_recent_empty "Tutaj pojawiają się ostatnio odwiedzone witryny.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: W &formatS1;nowej karcie prywatnej&formatS2; historia nie jest zapisywana.">
 <!ENTITY home_reading_list_empty "Tutaj pojawiają się artykuły zachowane na później.">
-<!ENTITY home_reading_list_hint3 "RADA: Zachowaj artykuły do przeczytania później, przytrzymując ikonę &formatI; po jej pojawieniu się na pasku adresu.">
-<!ENTITY home_reading_list_hint_accessible2 "RADA: Zachowaj artykuły do przeczytania później, przytrzymując przycisk widoku ułatwionego czytania po jego pojawieniu się na pasku adresu.">
+<!ENTITY home_reading_list_hint3 "Rada: Zachowaj artykuły do przeczytania później, przytrzymując ikonę &formatI; po jej pojawieniu się na pasku adresu.">
+<!ENTITY home_reading_list_hint_accessible2 "Rada: Zachowaj artykuły do przeczytania później, przytrzymując przycisk widoku ułatwionego czytania po jego pojawieniu się na pasku adresu.">
 
 <!ENTITY home_default_empty "Nie znaleziono treści do wyświetlenia na tym panelu.">
 
