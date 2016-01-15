@@ -3,9 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tracking.label "Śledzenie">
-<!ENTITY trackingProtection5.label "Ochrona przed śledzeniem">
-<!ENTITY trackingProtection5.accesskey "O">
+<!ENTITY trackingProtectionHeader.label "Ochrona przed śledzeniem">
+<!ENTITY trackingProtectionAlways.label "Zawsze włączona">
+<!ENTITY trackingProtectionAlways.accesskey "Z">
+<!ENTITY trackingProtectionPrivate.label "W oknach prywatnych">
+<!ENTITY trackingProtectionPrivate.accesskey "o">
+<!ENTITY trackingProtectionNever.label "Wyłączona">
+<!ENTITY trackingProtectionNever.accesskey "W">
 <!ENTITY trackingProtectionLearnMore.label "Więcej informacji">
+
 <!ENTITY trackingProtectionPBM5.label "Ochrona przed śledzeniem w oknach prywatnych">
 <!ENTITY trackingProtectionPBM5.accesskey "r">
 <!ENTITY trackingProtectionPBMLearnMore.label "Więcej informacji">
