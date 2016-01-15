@@ -34,22 +34,80 @@
 ">
 
 <!ENTITY fileNotFound.title "Betg chattà la datoteca">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Controllescha sch'il num da la datoteca è scrit endretg (era resguardar maiusclas-minusclas).</li>
+  <li>Controllescha sche la datoteca è vegnida spustada, renumnada u stizzada.</li>
+</ul>
+">
 
 
+<!ENTITY generic.title "Oh Dieu.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; na po betg chargiar questa pagina per x in motiv.</p>
+">
 
+<!ENTITY malformedURI.title "L'adressa è nunvalida">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
+<ul>
+  <li>Adressas d'internet vegnan per ordinari scrittas uschia:
+    <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Tschertgar</button>
+    </div>
+  <li>Controllescha che ti utiliseschas stritgs diagonals che mussan enavant (
+    <strong>/</strong>).</li>
+</ul>
+">
 
+<!ENTITY netInterrupt.title "La connexiun è interrutta">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY notCached.title "Document scrudà">
+<!ENTITY notCached.longDesc "<p>Il document dumandà n'è betg disponibel en il cache da &brandShortName;.</p><ul><li>Sco mesira da precauziun na rechargia &brandShortName; betg automaticamain documents sensibels.</li><li>Clicca sin 'Empruvar danovamain' per rechargiar il document da la website.</li></ul>">
 
+<!ENTITY netOffline.title "Modus offline">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "
+<ul>
+  <li>Emprova anc ina giada. &brandShortName; emprova dad avrir ina connexiun e rechargiar la pagina.
+    <button id='wifi'>Activar WLAN</button>
+  </li>
+</ul>
+">
 
+<!ENTITY contentEncodingError.title "Cuntegn cun codaziun nunvalida">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Contactescha per plaschair l'administratur da la website per al infurmar davart quest problem.</li>
+</ul>
+">
 
+<!ENTITY unsafeContentType.title "Tip da datoteca malsegir">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Informescha p.pl. ils possessurs da la pagina d'internet per als infurmar davart quest problem.</li>
+</ul>
+">
 
+<!ENTITY netReset.title "La connexiun è vegnida reinizialisada">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY netTimeout.title "La connexiun ha surpassà la limita da temp">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Impussibel da chapir l'adressa">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Ti stos eventualmain installar software supplementara per avrir questa adressa.</li>
+</ul>
+">
 
+<!ENTITY proxyConnectFailure.title "Il proxy server refusescha connexiuns">
 
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
