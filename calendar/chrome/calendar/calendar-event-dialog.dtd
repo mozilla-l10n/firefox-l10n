@@ -36,6 +36,8 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Dźělene přeprošenje na wobdźělnika">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Tute nastajenje sćele jedne přeprošensku e-mejlku na wobdźělnika. Kóžde přeprošenje wobsahuje jenož přijimaceho wobdźělnika, tak zo druhe identity wobdźělnikow so njepřeradźuja.">
 <!-- Keyboard Shortcuts -->
+
+<!ENTITY event.dialog.new.event.key2              "l">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -101,8 +103,8 @@
 
 <!ENTITY  event.menu.options.label                            "Nastajenja">
 <!ENTITY  event.menu.options.accesskey                        "N">
-
-
+<!ENTITY  event.menu.options.attendees.label                  "Wobdźělnikow přeprosyć…">
+<!ENTITY  event.menu.options.attendees.accesskey              "d">
 <!ENTITY  event.menu.options.timezone2.label                  "Časowe pasma pokazać">
 <!ENTITY  event.menu.options.timezone2.accesskey              "s">
 <!ENTITY  event.menu.options.priority2.label                  "Priorita">
@@ -130,14 +132,15 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Swobodny">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "S">
 
-
+<!ENTITY event.invite.attendees.label                     "Wobdźělnikow přeprosyć…">
+<!ENTITY event.invite.attendees.accesskey                 "W">
 <!ENTITY event.email.attendees.label                      "E-mejlku na wšěch wobdźělnikow spisać…">
 <!ENTITY event.email.attendees.accesskey                  "E">
 <!ENTITY event.email.tentative.attendees.label            "E-mejlku na njerozsudźenych wobdźělnikow spisać…">
 <!ENTITY event.email.tentative.attendees.accesskey        "r">
-
-
-
+<!ENTITY event.remove.attendees.label                     "Wšěch wobdźělnikow wotstronić...">
+<!ENTITY event.remove.attendees.accesskey                 "d">
+<!ENTITY event.remove.attendee.label                      "Wobdźělnika wotstronić">
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Składować a začinić">
@@ -157,23 +160,23 @@
 
 <!ENTITY event.title.textbox.label                        "Titul:" >
 <!ENTITY event.title.textbox.accesskey                    "i">
-
-
+<!ENTITY event.location.label                             "Městno:" >
+<!ENTITY event.location.accesskey                         "s">
 <!ENTITY event.categories.label                           "Kategorija:">
 <!ENTITY event.categories.accesskey                       "g">
 <!ENTITY event.categories.textbox.label                   "Nowu kategoriju přidać" >
 <!ENTITY event.calendar.label                             "Protyka:" >
 <!ENTITY event.calendar.accesskey                         "r">
-
-
+<!ENTITY event.attendees.label                            "Wobdźělnicy:" >
+<!ENTITY event.attendees.accesskey                        "l" >
 <!ENTITY event.alldayevent.label                          "Cyłodnjowski podawk" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Start:" >
 <!ENTITY event.from.accesskey                             "S">
 <!ENTITY task.from.label                                  "Start:" >
 <!ENTITY task.from.accesskey                              "S">
-
-
+<!ENTITY event.to.label                                   "Kónc:" >
+<!ENTITY event.to.accesskey                               "K">
 <!ENTITY task.to.label                                    "Termin:" >
 <!ENTITY task.to.accesskey                                "m">
 <!ENTITY task.status.label                                "Status:" >
@@ -198,8 +201,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "o" >
 <!ENTITY event.attachments.popup.removeAll.label          "Wšě wotstronić" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "W" >
-
-
+<!ENTITY event.attachments.popup.attachPage.label         "Webstronu připowěsnyć…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "s" >
 <!ENTITY event.url.label                                  "Přiwuzny wotkaz:" >
 <!ENTITY event.priority2.label                            "Priorita:">
 
@@ -348,7 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "Skupina">
 <!ENTITY event.attendee.usertype.resource       "Resursa">
 <!ENTITY event.attendee.usertype.room           "Rumnosć">
-
+<!ENTITY event.attendee.usertype.unknown        "Njeznaty">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Prošu podajće časowe pasmo">
