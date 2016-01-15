@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "มีปัญหาขณะกำลังโหลดหน้าเว็บ">
 <!ENTITY retry.label "ลองอีกครั้ง">
-
-
+<!ENTITY returnToPreviousPage.label "ย้อนกลับ">
+<!ENTITY advanced.label "ขั้นสูง">
 <!-- Specific error messages -->
 
 
@@ -141,6 +141,7 @@
 <!ENTITY phishingBlocked.longDesc "<p>การกรอกข้อมูลส่วนตัวใด ๆ ในหน้าเว็บไซต์นี้อาจจะทำให้อัตลักษณ์ของคุณถูกขโมยหรือนำไปใช้ในทางที่ผิดได้โดยง่าย</p> 
 <p>เว็บลอกเลียนลักษณะนี้จะเป็นการใช้เล่ห์อุบายล่อหลอกคุณด้วยหน้าเว็บไซต์หรืออีเมลที่คุณอาจจะเชื่อถือ</p>">
 
+<!ENTITY forbiddenBlocked.title "เว็บไซต์ที่ไม่อนุญาต">
 
 
 <!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
