@@ -8,13 +8,22 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
+
+<!ENTITY certerror.pagetitle1  "დაუცველი კავშირი">
+<!ENTITY certerror.longpagetitle1 "თქვენი კავშირი დაცული არაა">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY certerror.introPara "<span class='hostname'/>-ის მფლოებელმა ვებ-საიტი არასწორად გამართა.  თქვენი ინფორმაციის მოპარვისგან დაცვის მიზეზით, &brandShortName; ამ ვებ-საიტს არ დაუკავშირდა.">
+<!ENTITY certerror.returnToPreviousPage.label "უკან დაბრუნება">
+<!ENTITY certerror.learnMore "მეტის გაგება…">
+<!ENTITY certerror.advanced.label "დამატებითი">
 
-
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი HTTP-ს იყენებს 
+Strict Transport Security (HSTS) რათა მიუთითოთ, რომ &brandShortName; დაუკავშირდეს მხოლოდ 
+დაცულად. შედეგად, შეუძლებელია ამ სერტიფიკატისთვის გამონაკლისის 
+დამატება.">
 
 <!ENTITY certerror.expert.content "თუ საქმის ვითარებაში გერკვიეთ, შეგიძლიათ 
 აცნობოთ &brandShortName; ბრაუზერს რათა იგი ენდოს ამ საიტს. 
@@ -23,4 +32,4 @@ was trying to connect. -->
 <!ENTITY certerror.expert.contentPara2 "ნუ დაუმატებთ გამონაკლისს თუ არ 
 გაგაჩნიათ საკმარისი საფუძველი თუ რატომ არ სარგებლობს საიტი საიმედო იდენტურობით.">
 <!ENTITY certerror.addException.label "გამონაკლისის დამატება…">
-
+<!ENTITY certerror.copyToClipboard.label "ტექსტის ბუფერში კოპირება">
