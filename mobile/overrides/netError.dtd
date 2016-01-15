@@ -6,6 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Errur cun chargiar la pagina">
+<!ENTITY retry.label "Reempruvar">
 
 <!-- Specific error messages -->
 

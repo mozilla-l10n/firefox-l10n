@@ -26,5 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Spetgar sin l'auter apparat…">
 
 <!ENTITY sync.pair.title            "Associar in apparat">
+<!ENTITY sync.pair.description      "Per activar tes nov apparat, tscherna &#x0022;Endrizzar Sync&#x0022; sin l'apparat.">
 <!ENTITY sync.setup.close           "Serrar">
 <!ENTITY sync.setup.waitingdownload "Tias datas vegnan ussa telechargiadas en il fund davos. Ti pos serrar questa fanestra da tut temp.">
