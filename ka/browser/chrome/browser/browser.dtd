@@ -751,118 +751,149 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "დაცული კავშირი">
 <!ENTITY identity.connectionNotSecure "კავშირი დაუცველია">
 <!ENTITY identity.connectionFile "ეს გვერდი თქვენს კომპიუტერშია შენახული.">
-
-
-
+<!ENTITY identity.connectionVerified1 "თქვენ ამ საიტთან დაცულად ხართ დაკავშირებული, მფლობელი:">
+<!ENTITY identity.connectionInternal "ეს &brandShortName;-ს დაცული გვერდია.">
+<!ENTITY identity.insecureLoginForms "თქვენი შესვლა შესაძლოა საფრთხეში იყოს.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName;-მა დაბლოკაამ გვერდის ნაწილები, რომელიც შესაძლოა დაუცველი იყოს.">
+<!ENTITY identity.passiveLoaded "ამ გვერდის ნაწილები დაუცველია (მაგალითად სურათები).">
+<!ENTITY identity.activeLoaded "თქვენ ამ გვერდზე დაცვა გამორთეთ.">
+<!ENTITY identity.weakEncryption "ეს გვერდი სუსტ დაშიფვრას იყენებს.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "თქვენი კავშირი ამ საიტთან პირადი არ არის. თქვენს მიერ გადაგზავნილი ინფორმაცია შესაძლოა სხვებმაც იხილონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
+<!ENTITY identity.description.insecureLoginForms "შესვლის ინფორმაცია, რომელსაც ამ გვერდზე შეიყვანთ, დაუცველია და შესაძლოა საფრთხეში ჩავარდეს.">
+<!ENTITY identity.description.weakCipher "თქვენი ამ ვებ-საიტთან კავშირი იყენებს სუსტ დაშიფვრას და პირდაული არაა.">
+<!ENTITY identity.description.weakCipher2 "სხვა ხალხსაც შეუძლია თქვენი ინფორმაციის ნახვა ან ვებ-საიტის ქცევის შეცვლა.">
+<!ENTITY identity.description.activeBlocked "&brandShortName;-მა დაბლოკაამ გვერდის ნაწილები, რომელიც შესაძლოა დაუცველი იყოს.">
+<!ENTITY identity.description.passiveLoaded "თქვენი კავშირი პირდაული არაა და თქვენ მიერ ამ საიტთან გაზიარებული ინფორმაცია შესაძლოა სხვებმაც იხილონ.">
+<!ENTITY identity.description.passiveLoaded2 "ეს ვებ-საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (მაგალითად სურათები).">
+<!ENTITY identity.description.passiveLoaded3 "მიუხედავად იმისა, რომ &brandShortName;-მა გარკვეული შიგთავსი დაბლოკა, რაღაცეები მაინც დაუცველი დარჩა (მაგალითად სურათები).">
+<!ENTITY identity.description.activeLoaded "ეს ვებ-საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (მაგალითად სკრიპტები) და თქვენი კავშირი პირადი არაა.">
+<!ENTITY identity.description.activeLoaded2 "ინფორმაცია, რომელსაც ამ საიტს გაუზიარებთ შესაძლოა სხვებმაც იხილონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
 
+<!ENTITY identity.enableMixedContentBlocking.label "დაცვის ჩართვა">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "რ">
+<!ENTITY identity.disableMixedContentBlocking.label "დაცვის გამორთვა დროებით">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "დ">
+<!ENTITY identity.learnMore "გაიგეთ მეტი">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY identity.moreInfoLinkText2 "მეტი ინფორმაცია">
 
 <!ENTITY identity.permissions "უფლებები">
-
+<!ENTITY identity.permissionsEmpty "ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
+<!ENTITY tabsToolbar.label "ბრაუზერის ჩანართები">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
+<!ENTITY syncTabsMenu3.label     "სინქრონირებული ჩანართები">
 
+<!ENTITY syncBrand.shortName.label    "სინქრონიზება">
 
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label;-ში შესვლა…">
+<!ENTITY syncSignIn.accesskey         "Y">
+<!ENTITY syncSyncNowItem.label        "სინქრონირება ახლა">
+<!ENTITY syncSyncNowItem.accesskey    "ს">
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;-თან ხელახლა დაკავშირება…">
+<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncToolbarButton.label      "სინქრონიზება">
 
+<!ENTITY socialToolbar.title        "სოციალური ხელსაწყოთა ზოლის ღილაკი">
 
+<!ENTITY social.ok.label       "დიახ">
+<!ENTITY social.ok.accesskey   "დ">
 
+<!ENTITY social.toggleSidebar.label "გვერდითი ზოლის ჩვენება">
+<!ENTITY social.toggleSidebar.accesskey "გ">
 
+<!ENTITY social.addons.label "მომსახურებების მართვა…">
 
+<!ENTITY social.toggleNotifications.label "სამუშაო დაფის შეტყობინებების ჩვენება">
+<!ENTITY social.toggleNotifications.accesskey "ტ">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY social.activated.description "<label/>-დან მომსახურებები ჩაირთო. მომსახურებების პარამეტრების შეცვლა შეგიძლიათ <label class='text-link'>მოდულების მმართველიდან</label>.">
+<!ENTITY social.activated.undo.label "ვაი, ამ მოქმედების დაბრუნება!">
+<!ENTITY social.activated.undo.accesskey "u">
+<!ENTITY social.learnMore.label "გაიგეთ მეტი…">
+<!ENTITY social.learnMore.accesskey "გ">
 <!ENTITY social.closeNotificationItem.label "არა ახლა">
 
+<!ENTITY social.directory.label "აქტივაციების დირექტორია">
+<!ENTITY social.directory.text "თქვენ გაზიარების მომსახურებების გააქტიურება დირექტორიიდან შეგიძლიათ.">
+<!ENTITY social.directory.button "იქ გადამიყვანეთ!">
+<!ENTITY social.directory.introText "დააწკაპეთ მომსახურებს &brandShortName;-ს დასამატებლად.">
+<!ENTITY social.directory.viewmore.text "მეტის ნახვა">
 
-
-
-
-
-
-
-
+<!ENTITY customizeMode.tabTitle "&brandShortName;-ს მორგება">
+<!ENTITY customizeMode.menuAndToolbars.header2 "დამატებითი ხელსაწყოები და ფუნქციები">
+<!ENTITY customizeMode.menuAndToolbars.empty "მეტი ხელსაწყო გსურთ?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ ათასობით მოდულიდან">
 <!ENTITY customizeMode.restoreDefaults "ნაგულისხმების აღდგენა">
-
-
+<!ENTITY customizeMode.toolbars "ხელსაწყოთა ზოლების ჩვენება / დამალვა">
+<!ENTITY customizeMode.titlebar "სათაურის ზოლი">
 <!ENTITY customizeMode.lwthemes "თემები">
-
+<!ENTITY customizeMode.lwthemes.myThemes "ჩემი დეკორაციები">
 <!ENTITY customizeMode.lwthemes.recommended "რეკომენდებული">
+<!ENTITY customizeMode.lwthemes.menuManage "მართვა">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "მეტი დეკორაციის მიღება">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
+<!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "ჩატების ფოკუსირება">
+<!ENTITY social.chatBar.accesskey "კ">
 
+<!ENTITY social.markpageMenu.accesskey "გ">
+<!ENTITY social.markpageMenu.label "გვერდის შენახვა სად...">
+<!ENTITY social.marklinkMenu.accesskey "ბ">
+<!ENTITY social.marklinkMenu.label "ბმულის შენახვა სად...">
 
+<!ENTITY getUserMedia.selectCamera.label "გასაზიარებელი კამერა:">
+<!ENTITY getUserMedia.selectCamera.accesskey "კ">
+<!ENTITY getUserMedia.selectMicrophone.label "გასაზიარებელი მიკროფონი:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "მ">
+<!ENTITY getUserMedia.audioCapture.label "ჩანართიდან აუდიო გაზიარდება.">
+<!ENTITY getUserMedia.allWindowsShared.message "თქვენს ეკრანზე ხილული ყველა ფანჯარა გაზიარდება.">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY trackingProtection.title "თვალყურისგან დაცვა">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ბლოკავს გვერდის ნაწილებს, რომლებიც შესაძლოა თქვენს ბრაუზინგს აღრიცხავდეს.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "ეს საიტი შეიცავს ელემენტებს, რომელიც შესაძლოა თქვენს ბრაუზინგს აღრიცხავდეს. თქვენ დაცვა გამორთული გაქვთ.">
+<!ENTITY trackingProtection.notDetected3 "ამ გვერდზე აღმრიცხავი ელემენტები არ აღმოჩენილა.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "ამ საიტისთვის დაცვის გამორთვა">
+<!ENTITY trackingProtection.unblock.accesskey "გ">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "ამ სესიისთვის დაცვის გამორთვა">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "გ">
+<!ENTITY trackingProtection.block2.label "დაცვის ჩართვა">
+<!ENTITY trackingProtection.block2.accesskey "რ">
 
+<!ENTITY trackingContentBlocked.message "თვალყური">
+<!ENTITY trackingContentBlocked.moreinfo "გვერდის ნაწილები, რომელიც შესაძლოა თქვენს ონლაინ აქტივობას აღრიცხავდეს, დაიბლოკა.">
+<!ENTITY trackingContentBlocked.learnMore "გაიგეთ მეტი">
+<!ENTITY trackingContentBlocked.options "პარამეტრები">
+<!ENTITY trackingContentBlocked.unblock2.label "ამ საიტისთვის დაცვის გამორთვა">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "გ">
+<!ENTITY trackingContentBlocked.block.label "დაცვის ჩართვა">
+<!ENTITY trackingContentBlocked.block.accesskey "რ">
+<!ENTITY trackingContentBlocked.disabled.message "თვალყურისგან დაცვა გამორთულია">
 
+<!ENTITY pointerLock.notification.message "დააჭირეთ ESC-ს ამის ნებისმიერ დროს გამოსაჩენად.">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pluginNotification.showAll.label "ყველას ჩვენება">
+<!ENTITY pluginNotification.showAll.accesskey "ნ">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-
+<!ENTITY pluginActivateNow.label "ახლა დაშვება">
+<!ENTITY pluginActivateAlways.label "დაშვება და დამახსოვრება">
+<!ENTITY pluginBlockNow.label "პლაგინის დაბლოკვა">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
@@ -871,35 +902,45 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "დახურვა">
 
+<!ENTITY appMenuSidebars.label         "გვერდითი პანელები">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "დავივიწყოთ ბოლო:">
+<!ENTITY panicButton.view.5min                    "ხუთი წუთი">
+<!ENTITY panicButton.view.2hr                     "ორი საათი">
+<!ENTITY panicButton.view.day                     "24 საათი">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "გაგრძელებისას მოხდება:">
+<!ENTITY panicButton.view.deleteCookies           "ბოლო <html:strong>ფუნთუშების</html:strong> წაშლა">
+<!ENTITY panicButton.view.deleteHistory           "ბოლო <html:strong>ისტორიის</html:strong> წაშლა">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "ყველა <html:strong>ჩანართის</html:strong> და <html:strong>ფანჯრის</html:strong> დახურვა">
+<!ENTITY panicButton.view.openNewWindow           "ახალი სუფთა ფანჯრის გახსნა">
 
 <!ENTITY panicButton.view.undoWarning             "ეს ქმედება შეუქცევადია.">
+<!ENTITY panicButton.view.forgetButton            "დავივიწყოთ!">
 
+<!ENTITY panicButton.thankyou.msg1                "თქვენი ბოლო ისტორია გასუფთავებულია.">
+<!ENTITY panicButton.thankyou.msg2                "უსაფრთხო ბრაუზინგი!">
+<!ENTITY panicButton.thankyou.buttonlabel         "გმადლობთ!">
 
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "გაიგეთ მეტი DRM-ის შესახებ…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "ახლა არა">
+<!ENTITY emeNotificationsNotNow.accesskey         "ა">
 <!ENTITY emeNotificationsDontAskAgain.label       "აღარ შემეკითხო">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "გვერდის შენახვა Pocket-ში">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "ბმულის შენახვა Pocket-ში">
+<!ENTITY saveLinkToPocketCmd.accesskey "ნ">
+<!ENTITY pocketMenuitem.label      "Pocket-ის სიის ნახვა">
