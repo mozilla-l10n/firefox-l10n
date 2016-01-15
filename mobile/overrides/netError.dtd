@@ -12,10 +12,28 @@
 <!ENTITY connectionFailure.title "Impussibel da connectar">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY deniedPortAccess.title "Questa adressa è restrenschida">
+<!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.title "Betg chattà il server">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
+<ul>
+  <li>Controllescha sche l'adressa cuntegna sbagls da tippar sco
+    <strong>ww</strong>.example.com empè da
+    <strong>www</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Tschertgar</button>
+    </div>
+  <li>Sche naginas paginas na funcziunan, controllescha la connexiun da datas u da WLAN da tes apparat.
+    <button id='wifi'>Activar W-LAN</button>
+  </li>
+</ul>
+">
 
+<!ENTITY fileNotFound.title "Betg chattà la datoteca">
 
 
 
