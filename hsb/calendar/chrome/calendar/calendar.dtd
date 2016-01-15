@@ -149,6 +149,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Wubrane nadawki jako sčinjene markěrować">
 <!ENTITY calendar.task.priority.button.tooltip  "Prioritu změnić">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Nadawki filtrować #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Strg+Umsch+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
@@ -198,7 +199,7 @@
 <!ENTITY progress.level.25.accesskey  "2">
 <!ENTITY progress.level.50            "50 &percnt; sčinjene">
 <!ENTITY progress.level.50.accesskey  "5">
-<!ENTITY progress.level.75            "75 &percnt;&percnt; sčinjene">
+<!ENTITY progress.level.75            "75&percnt; sčinjene">
 <!ENTITY progress.level.75.accesskey  "7">
 <!ENTITY progress.level.100            "100 &percnt; sčinjene">
 <!ENTITY progress.level.100.accesskey  "1">
