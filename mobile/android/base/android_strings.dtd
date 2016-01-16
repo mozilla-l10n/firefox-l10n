@@ -377,6 +377,7 @@
 <!ENTITY identity_connection_secure "Conexión segura">
 <!ENTITY identity_connection_insecure "Conexión insegura">
 <!ENTITY identity_login_insecure "Esta página no es segura y sus credenciales pueden ser vulnerables.">
+<!ENTITY identity_connection_chromeui "Esta es una página segura de &brandShortName;">
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloqueado contenido inseguro en esta página.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ha bloqueado parte del contenido inseguro en esta página.">
 <!ENTITY mixed_content_display_loaded1 "Partes de esta página no son seguras (como imágenes).">
