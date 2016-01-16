@@ -84,18 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Veličina">
 <!ENTITY fontSizeMenu.accesskey "V">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY size-tinyCmd.label "Sićušna">
+<!ENTITY size-tinyCmd.accesskey "n">
+<!ENTITY size-smallCmd.label "Mala">
+<!ENTITY size-smallCmd.accesskey "M">
+<!ENTITY size-mediumCmd.label "Srednja">
+<!ENTITY size-mediumCmd.accesskey "S">
+<!ENTITY size-largeCmd.label "Velika">
+<!ENTITY size-largeCmd.accesskey "l">
+<!ENTITY size-extraLargeCmd.label "Jako velika">
+<!ENTITY size-extraLargeCmd.accesskey "J">
+<!ENTITY size-hugeCmd.label "Ogromna">
+<!ENTITY size-hugeCmd.accesskey "O">
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Stil teksta">
@@ -311,6 +311,8 @@
 <!ENTITY throbber.tooltip "Idi na &vendorShortName; naslovnu stranicu">
 <!ENTITY HighlightColorButton.tooltip "Odaberi boju za označavanje teksta">
 <!-- Editor toolbar -->
+
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Postavi veličinu fonta">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Smanji veličinu fonta">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Povećaj veličinu fonta">
 <!ENTITY boldToolbarCmd.tooltip "Podebljano">
