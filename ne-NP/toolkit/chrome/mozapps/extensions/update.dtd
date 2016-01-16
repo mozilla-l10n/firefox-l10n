@@ -49,11 +49,13 @@
 
 
 <!ENTITY  versioninfo.wizard.title        "एड-अनहरूको अनुकूलता जाँच गरिँदै">
-
+<!ENTITY  versioninfo.top.label           "&brandShortName; को यस संस्करणसंग मिल्दोजुल्दो एड-अनहरुको 
+ लागि जाँच गरिदैँ।">
 <!ENTITY  versioninfo.waiting             "यसले केही मिनेट लिन सक्छ…">
 
 <!ENTITY  installerrors.wizard.title      "अद्यावधिकहरु स्थापना गर्दा समस्या भयो">
-
+<!ENTITY  installerrors.intro.label       "तपाईँको केही एड-अनहरू अद्यावधिक गर्दा 
+ &brandShortName; मा समस्या आयो।">
 <!-- general strings used by several of the finish pages -->
 
 <!ENTITY  clickFinish.label               "&brandShortName; शुरू गर्न समाप्त मा क्लिक गर्नुहोस्।">
