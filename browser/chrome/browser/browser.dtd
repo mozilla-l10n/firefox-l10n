@@ -198,6 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "비밀번호 저장을 원하는지 확인">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "앱 설치 메시지 보기">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "이 페이지에서의 플러그인 사용 관리">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "사이트의 알림을 받을지 말지 고르기">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "카메라와 마이크를 사이트에서 공유할지 관리">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "사이트에서 카메라와 마이크를 공유하고 있음">
@@ -413,12 +414,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.fetching.label "동기화된 탭 불러오기…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "열린 탭이 없음">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "다른 기기의 탭 목록을 보려면 탭 동기화를 켜십시오.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "다른 기기의 탭을 이곳에서도 보려면 그 기기의 Firefox에 로그인하십시오.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Sync 설정">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "다른 기기의 탭 목록을 보기 위해서 로그인 하세요.">
+<!ENTITY appMenuRemoteTabs.signin.label "Sync에 로그인">
 
 <!ENTITY customizeMenu.addToToolbar.label "도구 상자에 추가">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -782,6 +788,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "브라우저 탭">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!ENTITY syncTabsMenu3.label     "동기화된 탭">
 
 <!ENTITY syncBrand.shortName.label    "동기화">
 
