@@ -9,8 +9,8 @@
 <!ENTITY restorepage.errorTitle     "Јако нам је жао.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; има проблема да обнови прозоре и језичке. Узрок овоме је обично недавно отворена веб страница.">
 <!ENTITY restorepage.tryThis        "Можете да пробате:">
-<!ENTITY restorepage.restoreSome    "Уклањање једног или више језичака за које мислите да су узрок проблема">
-<!ENTITY restorepage.startNew       "Покретање потпуно нове сесије">
+<!ENTITY restorepage.restoreSome    "Уклањањем једног или више језичака за које мислите да су узрок проблема">
+<!ENTITY restorepage.startNew       "Покретањем нове сесије">
 
 <!ENTITY restorepage.tryagainButton "Обнови">
 <!ENTITY restorepage.restore.access "О">
