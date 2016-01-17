@@ -11,7 +11,7 @@
 <!ENTITY  onboard_start_subtext3 "独具风格的移动网络浏览体验。">
 <!ENTITY  onboard_start_button_account "登录到 &brandShortName;">
 <!ENTITY  onboard_start_button_browser "开始浏览">
-<!ENTITY firstrun_button_next "下一个">
+<!ENTITY firstrun_button_next "下一步">
 
 <!ENTITY  onboard_start_restricted1 "使用简化的 &brandShortName; 版本，确保安全和可控。">
 
