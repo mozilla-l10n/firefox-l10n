@@ -82,20 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "Grutte">
 <!ENTITY fontSizeMenu.accesskey "G">
-<!ENTITY size-xx-smallCmd.label "xx-lyts">
-<!ENTITY size-xx-smallCmd.accesskey "t">
-<!ENTITY size-x-smallCmd.label "x-lyts">
-<!ENTITY size-x-smallCmd.accesskey "y">
-<!ENTITY size-smallCmd.label "lyts">
-<!ENTITY size-smallCmd.accesskey "l">
-<!ENTITY size-mediumCmd.label "medium">
-<!ENTITY size-mediumCmd.accesskey "m">
-<!ENTITY size-largeCmd.label "grut">
-<!ENTITY size-largeCmd.accesskey "g">
-<!ENTITY size-x-largeCmd.label "x grut">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-grut">
-<!ENTITY size-xx-largeCmd.accesskey "r">
+<!ENTITY size-tinyCmd.label "Hiel lyts">
+<!ENTITY size-tinyCmd.accesskey "H">
+<!ENTITY size-smallCmd.label "Lyts">
+<!ENTITY size-smallCmd.accesskey "L">
+<!ENTITY size-mediumCmd.label "Standert">
+<!ENTITY size-mediumCmd.accesskey "S">
+<!ENTITY size-largeCmd.label "Grut">
+<!ENTITY size-largeCmd.accesskey "G">
+<!ENTITY size-extraLargeCmd.label "Hiel grut">
+<!ENTITY size-extraLargeCmd.accesskey "H">
+<!ENTITY size-hugeCmd.label "Ekstra grut">
+<!ENTITY size-hugeCmd.accesskey "E">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Tekststyl">
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Markearringskleur foar tekst kieze">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Lettergrutte ynstelle">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Lytsere lettergrutte">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Gruttere lettergrutte">
 <!ENTITY boldToolbarCmd.tooltip "Fet">
