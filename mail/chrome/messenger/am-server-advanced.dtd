@@ -24,6 +24,7 @@
 <!ENTITY overrideNamespaces.accesskey "о">
 <!ENTITY pop3DeferringDesc.label "Приликом преузимања порука са сервера овог налога, користи следећу фасциклу за складиштење нових порука:" >
 <!ENTITY accountInbox.label "Долазно сандуче за овај налог">
+<!ENTITY accountInbox.accesskey "з">
 <!ENTITY deferToServer.label "Долазно сандуче другог налога">
 <!ENTITY deferToServer.accesskey "Д">
 <!ENTITY deferGetNewMail.label "Укључи овај сервер приликом преузимања нове поште">

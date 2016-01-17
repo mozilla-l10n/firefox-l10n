@@ -82,20 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "Величина">
 <!ENTITY fontSizeMenu.accesskey "ч">
-<!ENTITY size-xx-smallCmd.label "xx-мала">
-<!ENTITY size-xx-smallCmd.accesskey "а">
-<!ENTITY size-x-smallCmd.label "x-мала">
-<!ENTITY size-x-smallCmd.accesskey "м">
+<!ENTITY size-tinyCmd.label "сићушна">
+<!ENTITY size-tinyCmd.accesskey "н">
 <!ENTITY size-smallCmd.label "мала">
 <!ENTITY size-smallCmd.accesskey "л">
 <!ENTITY size-mediumCmd.label "средња">
 <!ENTITY size-mediumCmd.accesskey "д">
 <!ENTITY size-largeCmd.label "велика">
 <!ENTITY size-largeCmd.accesskey "е">
-<!ENTITY size-x-largeCmd.label "x-велика">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-велика">
-<!ENTITY size-xx-largeCmd.accesskey "и">
+<!ENTITY size-extraLargeCmd.label "веома велика">
+<!ENTITY size-extraLargeCmd.accesskey "л">
+<!ENTITY size-hugeCmd.label "огромна">
+<!ENTITY size-hugeCmd.accesskey "г">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Обликовање текста">
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Изаберите боју означавања текста">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Постави величину фонта">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Мања боја фонта">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Већа боја фонта">
 <!ENTITY boldToolbarCmd.tooltip "Подебљано">

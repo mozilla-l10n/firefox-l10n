@@ -27,6 +27,7 @@
 <!ENTITY restoreHTMLDefaults.label            "Врати подразумевано">
 <!ENTITY restoreHTMLDefaults.accesskey        "д">
 <!ENTITY enterKeyCreatesNewParagraph.label    "Приликом коришћења параграф формата, enter дугме прави нови параграф">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "п">
 
 <!ENTITY spellCheck.label                     "Провери правопис пре слања">
 <!ENTITY spellCheck.accesskey                 "в">

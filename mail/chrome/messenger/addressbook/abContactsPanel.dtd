@@ -15,8 +15,13 @@
 <!ENTITY addtoToFieldMenu.label             "Додај у поље">
 <!ENTITY addtoToFieldMenu.accesskey         "а">
 <!ENTITY addtoCcFieldMenu.label             "Додај у Коп поље">
+<!ENTITY addtoCcFieldMenu.accesskey         "К">
 <!ENTITY addtoBccFieldMenu.label            "Додај у сКоп поље">
+<!ENTITY addtoBccFieldMenu.accesskey        "с">
 
 <!ENTITY toButton.label                     "Додај у За:">
+<!ENTITY toButton.accesskey                 "Д">
 <!ENTITY ccButton.label                     "Додај у Коп:">
+<!ENTITY ccButton.accesskey                 "К">
 <!ENTITY bccButton.label                    "Додај у сКоп:">
+<!ENTITY bccButton.accesskey                "с">
