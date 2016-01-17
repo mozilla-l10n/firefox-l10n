@@ -36,6 +36,8 @@
 <!ENTITY event.attendees.notifyundisclosed.label    "Odvoji pozivnice po sudionicima">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Ova mogućnost šalje jednu poruku e-pošte po sudioniku. Svaka pozivnica sadrži samo jednog sudionika tako da identitet drugih sudionika nije otkriven.">
 <!-- Keyboard Shortcuts -->
+
+<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -101,8 +103,8 @@
 
 <!ENTITY  event.menu.options.label                            "Mogućnosti">
 <!ENTITY  event.menu.options.accesskey                        "o">
-
-
+<!ENTITY  event.menu.options.attendees.label                  "Pozovi sudionike…">
+<!ENTITY  event.menu.options.attendees.accesskey              "i">
 <!ENTITY  event.menu.options.timezone2.label                  "Prikaži vremenske zone">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Proritet">
@@ -130,14 +132,15 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Slobodan">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "b">
 
-
+<!ENTITY event.invite.attendees.label                     "Pozovi sudionike…">
+<!ENTITY event.invite.attendees.accesskey                 "Q">
 <!ENTITY event.email.attendees.label                      "Napiši poruku e-pošte svim sudionicima…">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Napiši poruku e-pošte neodlučnim sudionicima…">
 <!ENTITY event.email.tentative.attendees.accesskey        "N">
-
-
-
+<!ENTITY event.remove.attendees.label                     "Ukloni sve sudionike...">
+<!ENTITY event.remove.attendees.accesskey                 "s">
+<!ENTITY event.remove.attendee.label                      "Ukloni sudionika">
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Spremi i zatvori">
@@ -157,23 +160,23 @@
 
 <!ENTITY event.title.textbox.label                        "Naslov:" >
 <!ENTITY event.title.textbox.accesskey                    "N">
-
-
+<!ENTITY event.location.label                             "Lokacija:" >
+<!ENTITY event.location.accesskey                         "k">
 <!ENTITY event.categories.label                           "Kategorija:">
 <!ENTITY event.categories.accesskey                       "t">
 <!ENTITY event.categories.textbox.label                   "Dodaj novu kategoriju" >
 <!ENTITY event.calendar.label                             "Kalendar:" >
 <!ENTITY event.calendar.accesskey                         "K">
-
-
+<!ENTITY event.attendees.label                            "Sudionici:" >
+<!ENTITY event.attendees.accesskey                        "S" >
 <!ENTITY event.alldayevent.label                          "Cjelodnevni događaj" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Počinje:" >
 <!ENTITY event.from.accesskey                             "P">
 <!ENTITY task.from.label                                  "Počinje:" >
 <!ENTITY task.from.accesskey                              "P">
-
-
+<!ENTITY event.to.label                                   "Završava:" >
+<!ENTITY event.to.accesskey                               "v">
 <!ENTITY task.to.label                                    "Dospjeva:" >
 <!ENTITY task.to.accesskey                                "s">
 <!ENTITY task.status.label                                "Status:" >
@@ -198,8 +201,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "Ukloni sve" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "k" >
-
-
+<!ENTITY event.attachments.popup.attachPage.label         "Priloži web stranicu…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
 <!ENTITY event.url.label                                  "Povezana poveznica:" >
 <!ENTITY event.priority2.label                            "Prioritet:">
 
@@ -348,7 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "Grupni">
 <!ENTITY event.attendee.usertype.resource       "Resurs">
 <!ENTITY event.attendee.usertype.room           "Soba">
-
+<!ENTITY event.attendee.usertype.unknown        "Nepoznat">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Odaberite vremensku zonu">
