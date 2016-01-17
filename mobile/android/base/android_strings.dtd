@@ -101,11 +101,13 @@
 
 <!ENTITY settings "Postavke">
 <!ENTITY settings_title "Postavke">
-
-
+<!ENTITY pref_category_general "Općenito">
+<!ENTITY pref_category_general_summary2 "Početna, jezik, URL traka">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Jezik">
 <!ENTITY pref_category_language_summary "Promijenite jezik svog preglednika">
 <!ENTITY pref_browser_locale "Jezik preglednika">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,12 +144,12 @@
 
 <!ENTITY pref_category_search3 "Traži">
 <!ENTITY pref_category_search_summary "Prilagodite svoje pretraživače interneta">
-
-
+<!ENTITY pref_category_accessibility "Pristupačnost">
+<!ENTITY pref_category_accessibility_summary2 "Veličina teksta, uvećanje, glasovni unos">
 <!ENTITY pref_category_privacy_short "Privatnost">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "Praćenje, kolačići, izbori podataka">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "O &brandShortName;, često postavljana pitanja, povratne informacije">
 <!ENTITY pref_category_datareporting "Izbori podataka">
 <!ENTITY pref_learn_more "Saznajte više">
 <!ENTITY pref_category_installed_search_engines "Instalirani pretraživači interneta">
@@ -161,8 +163,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "SAVJET: Dodajte bilo koju stranicu na popis pretraživača interneta tako da dugo pritisnete na polje za pretraživanje i onda pritisnete &formatI; ikonu.">
-
-
+<!ENTITY pref_category_advanced "Napredno">
+<!ENTITY pref_category_advanced_summary2 "Vrati kartice, priključci, alati za ravijatelje">
 <!ENTITY pref_developer_remotedebugging "Udaljeno otklanjanje grešaka">
 <!ENTITY pref_developer_remotedebugging_usb "Udaljeno otklanjanje grešaka putem USB-a">
 <!ENTITY pref_developer_remotedebugging_wifi "Udaljeno otklanjanje grešaka putem Wi-Fi">
@@ -182,7 +184,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "&formatS; dodan na početnu stranicu">
 <!ENTITY pref_category_home_content_settings "Postavke sadržaja">
-
+<!ENTITY pref_home_updates "Automatske dopune">
 <!ENTITY pref_home_updates_enabled "Omogućeno">
 <!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Prikaži prijedloge stranica">
@@ -192,31 +194,37 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; početna stranica">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Prilagođeno">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Unesite adresu ili pojam pretrage">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "Općenito">
+<!ENTITY pref_header_search "Traži">
 <!ENTITY pref_header_privacy_short "Privatnost">
-
-
+<!ENTITY pref_header_accessibility "Pristupačnost">
+<!ENTITY pref_header_advanced "Napredno">
 <!ENTITY pref_header_help "Pomoć">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Kolačići">
 <!ENTITY pref_cookies_accept_all "Omogućeno">
 <!ENTITY pref_cookies_not_accept_foreign "Omogućeno, isključujući treće strane">
 <!ENTITY pref_cookies_disabled "Onemogućeno">
 
-
-
-
+<!ENTITY pref_tap_to_load_images_title2 "Prikaži slike">
+<!ENTITY pref_tap_to_load_images_enabled "Uvijek">
+<!ENTITY pref_tap_to_load_images_data "Samo preko Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Blokirano">
 
 <!ENTITY pref_tracking_protection_title "Zaštita od praćenja">
 <!ENTITY pref_tracking_protection_summary3 "Omogućeno u Privatnom pretraživanju">
@@ -252,11 +260,11 @@
 <!ENTITY pref_char_encoding "Kodna stranica">
 <!ENTITY pref_char_encoding_on "Prikaži izbornik">
 <!ENTITY pref_char_encoding_off "Ne prikazuj izbornik">
-
+<!ENTITY pref_clear_private_data "Očisti privatne podatke">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Očisti sad">
-
+<!ENTITY pref_clear_on_exit_title3 "Očisti privatne podatke prilikom izlaza">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; će automatski očistiti vaše podatke svaki puta kada odaberete \u0022Izlaz\u0022 u glavnom izborniku">
 <!ENTITY pref_clear_on_exit_dialog_title "Odaberite koje podatke očistiti">
 <!ENTITY pref_plugins "Priključci">
@@ -264,7 +272,7 @@
 <!ENTITY pref_plugins_tap_to_play "Dotakni za pokretanje">
 <!ENTITY pref_plugins_disabled "Onemogućeno">
 <!ENTITY pref_text_size "Veličina teksta">
-
+<!ENTITY pref_restore_tabs "Vrati kartice">
 <!ENTITY pref_restore_always "Uvijek vrati">
 <!ENTITY pref_restore_quit "Ne vraćaj nakon izlaza iz &brandShortName;">
 <!ENTITY pref_font_size_tiny "Sićušan">
@@ -289,16 +297,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Uvijek omogući uvećanje">
 <!ENTITY pref_zoom_force_enabled_summary "Prisilno zaobiđi postavke tako da možete uvećati svaku stranicu">
 <!ENTITY pref_voice_input "Glasovni unos">
-
+<!ENTITY pref_voice_input_summary2 "Dozvoli glasovni unos u URL traku">
 <!ENTITY pref_qrcode_enabled "Čitač QR koda">
-
+<!ENTITY pref_qrcode_enabled_summary2 "Dozvoli QR skener u URL traci">
 
 <!ENTITY pref_use_master_password "Koristi glavnu lozinku">
-
+<!ENTITY pref_sync2 "Prijava">
 <!ENTITY pref_sync_summary2 "Sinkronizirajte svoje kartice, zabilješke, prijave, povijest">
 <!ENTITY pref_search_suggestions "Prikaži prijedloge pretraživanja">
 <!ENTITY pref_history_search_suggestions "Prikaži povijest pretraživanja">
-
+<!ENTITY pref_import_options "Mogućnosti uvoza">
 <!ENTITY pref_import_android_summary "Uvezi zabilješke i povijest s izvornog preglednika">
 <!ENTITY pref_private_data_history2 "Povijest pretraživanja">
 <!ENTITY pref_private_data_searchHistory "Povijest pretraživanja">
@@ -355,16 +363,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Automatske dopune">
 <!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nikada">
-
+<!ENTITY pref_update_autodownload_always "Uvijek">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Pomoć">
 
 <!ENTITY quit "Izlaz">
 
-
+<!ENTITY addons "Dodaci">
+<!ENTITY logins "Prijave">
 <!ENTITY downloads "Preuzimanja">
 <!ENTITY char_encoding "Kodna stranica">
 
@@ -381,7 +391,7 @@ size. -->
 <!ENTITY new_private_tab "Nova privatna kartica">
 <!ENTITY close_all_tabs "Zatvori sve kartice">
 <!ENTITY close_private_tabs "Zatvori privatne kartice">
-
+<!ENTITY tabs_normal "Kartice">
 <!ENTITY tabs_private "Privatno">
 <!ENTITY tabs_synced "Sinkronizirano">
 <!ENTITY set_image_fail "Nije moguće postaviti sliku">
