@@ -77,6 +77,7 @@
 <!ENTITY key_resetzoom "0">
 <!-- reload WebIDE and devtools from local checkout -->
 <!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "C">
 
 <!ENTITY projectPanel_myProjects "Projelerim">
 <!ENTITY projectPanel_runtimeApps "Çalışma zamanı uygulamaları">
@@ -88,7 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "Simülatör yükle">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper'ı yükle">
 <!ENTITY runtimePanel_nousbdevice "Cihazınızı göremiyor musunuz?">
-
+<!ENTITY runtimePanel_refreshDevices_label "Cihazları yenile">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "geçerli">
