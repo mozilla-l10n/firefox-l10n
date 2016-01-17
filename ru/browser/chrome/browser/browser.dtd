@@ -180,8 +180,6 @@
 <!ENTITY addons.label "Дополнения">
 <!ENTITY addons.accesskey "Д">
 <!ENTITY addons.commandkey "A">
-<!ENTITY webapps.label "Приложения">
-<!ENTITY webapps.accesskey "и">
 <!ENTITY webDeveloperMenu.label "Веб-разработка">
 <!ENTITY webDeveloperMenu.accesskey "б">
 <!ENTITY devToolsCmd.keycode "VK_F12">

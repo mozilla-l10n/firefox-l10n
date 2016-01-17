@@ -350,8 +350,8 @@
 <!ENTITY home_most_recent_empty "Недавно посещённые вами веб-сайты появятся здесь.">
 <!ENTITY home_most_recent_emptyhint2 "Псс: при использовании &formatS1;Новой приватной вкладки&formatS2; ваша история сохраняться не будет.">
 <!ENTITY home_reading_list_empty "Статьи, сохранённые вами для последующего чтения, появятся здесь.">
-<!ENTITY home_reading_list_hint3 "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на значок &formatI;, когда он появится в панели адреса.">
-<!ENTITY home_reading_list_hint_accessible2 "СОВЕТ: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на кнопку режима чтения, когда она появится в панели адреса.">
+<!ENTITY home_reading_list_hint3 "Совет: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на значок &formatI;, когда он появится в панели адреса.">
+<!ENTITY home_reading_list_hint_accessible2 "Совет: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на кнопку режима чтения, когда она появится в панели адреса.">
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
 <!ENTITY home_move_up_to_filter "Назад в &formatS;">
 <!ENTITY home_remote_tabs_title "Облачные вкладки">
@@ -377,6 +377,7 @@
 <!ENTITY identity_connection_secure "Защищённое соединение">
 <!ENTITY identity_connection_insecure "Незащищённое соединение">
 <!ENTITY identity_login_insecure "Эта страница не защищена и ваш логин может быть скомпрометирован.">
+<!ENTITY identity_connection_chromeui "Это защищённая страница &brandShortName;">
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; заблокировал небезопасное содержимое на этой странице.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; заблокировал некоторое небезопасное содержимое на этой странице.">
 <!ENTITY mixed_content_display_loaded1 "Части этой страницы (такие как изображения) не защищены.">
