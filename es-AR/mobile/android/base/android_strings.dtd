@@ -596,6 +596,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexión segura">
 <!ENTITY identity_connection_insecure "Conexión insegura">
 <!ENTITY identity_login_insecure "Esta página no es segura y el ingreso podría ser vulnerable.">
+<!ENTITY identity_connection_chromeui "Esta es una página de &brandShortName; segura">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloqueado el contenido inseguro en esta página.">
