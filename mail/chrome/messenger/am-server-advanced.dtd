@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "u">
 <!ENTITY dualUseFolders.label "El servidor admite carpetas que contengan subcarpetas y mensajes">
 <!ENTITY dualUseFolders.accesskey "g">
-<!ENTITY useIdle.label "Usar comando IDLE si el servidor lo admite">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Número máximo de conexiones del servidor a caché">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->

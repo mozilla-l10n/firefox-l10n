@@ -304,3 +304,7 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
+
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Personalizar dirección origen…">
+<!ENTITY customizeFromAddress.accesskey "a">
