@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Add-ons">
 <!ENTITY aboutDebugging.addonDebugging.label       "Add-on-debugging ynskeakelje">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Troch dit oan te setten kinne jo flaters yn add-ons en ferskate oare ûnderdielen fan de browserchrome opspoare">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Tydlike add-on lade">
 <!ENTITY aboutDebugging.workers                    "Workers">
