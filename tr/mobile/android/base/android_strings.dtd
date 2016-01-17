@@ -209,7 +209,7 @@
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_general "Genel">
-
+<!ENTITY pref_header_search "Arama">
 <!ENTITY pref_header_privacy_short "Gizlilik">
 <!ENTITY pref_header_accessibility "Erişilebilirlik">
 <!ENTITY pref_header_advanced "Gelişmiş">
@@ -735,17 +735,17 @@ alınıyor">
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "Eklentiler">
-
+<!ENTITY restrictable_feature_addons_installation_description "Firefox\u0027a yeni özellikler ve işlevler ekleyin. Not: Eklentiler bazı kısıtlamaları devre dışı bırakabilir.">
 <!ENTITY restrictable_feature_private_browsing "Gizli Tarama">
-
+<!ENTITY restrictable_feature_private_browsing_description "Aile bireylerinin ziyaret ettikleri siteler ve sayfalarla ilgili bilgileri kaydetmeden dolaşmalarına izin verir.">
 <!ENTITY restrictable_feature_clear_history "Geçmişi temizle">
-
-
-
+<!ENTITY restrictable_feature_clear_history_description "Aile bireylerinin ziyaret ettikleri siteler ve sayfalarla ilgili bilgileri silmelerine izin verir.">
+<!ENTITY restrictable_feature_advanced_settings "Gelişmiş ayarlar">
+<!ENTITY restrictable_feature_advanced_settings_description "Bunlara yer imlerini içe aktarmak, sekmeleri geri yüklemek ve otomatik güncellemeler dahildir. Tüm aile bireylerine uygun basitleştirilmiş ayarlar için bunu kapatın.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera ve mikrofon">
-
+<!ENTITY restrictable_feature_camera_microphone_description "Aile bireylerinin web siteleri üzerinde gerçek zamanlı iletişim kurmalarına izin verir.">
 <!ENTITY restrictable_feature_data_choices "Veri tercihleri">
-
+<!ENTITY restrictable_feature_data_choices_description "Firefox\u0027u iyileştirmek için Mozilla\u0027ya kullanım bilgilerinizi gönderip göndermeyeceğinizi seçin.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -761,6 +761,8 @@ alınıyor">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+
+<!ENTITY unsupported_sdk_version "Üzgünüz! Bu &brandShortName; bu cihazda (&formatS1;, &formatS2;) çalışamaz. Lütfen doğru sürümü indirin.">
 
 <!ENTITY eol_notification_title "&brandShortName; artık Android 3\u0027ü desteklemiyor">
 <!ENTITY eol_notification_summary "Daha fazla bilgi almak için dokunun">

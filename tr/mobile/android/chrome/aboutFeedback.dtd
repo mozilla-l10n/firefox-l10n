@@ -9,7 +9,7 @@
 <!ENTITY pageTitle                 "&brandShortName; Geri Bildirimi">
 
 <!ENTITY intro.header              "Bir dakikanız var mı?">
-<!ENTITY intro.message             "Şimdiye dek  Android için &brandShortName; hakkında ne düşündüğünüzü bize söyleyin.">
+<!ENTITY intro.message             "Şimdiye dek Android için &brandShortName; hakkında ne düşündüğünüzü bize söyleyin.">
 <!ENTITY intro.happyLink           "Sevdim">
 <!ENTITY intro.sadLink             "Bazı sorunlarla karşılaştım">
 <!ENTITY intro.maybeLater          "Belki daha sonra">
