@@ -815,8 +815,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.description "Os serviços de <label/> foram ativados. Pode alterar as definições dos serviços no <label class='text-link'>Gestor de extras</label>.">
-<!ENTITY social.activated.undo.label "Cancelar!">
-<!ENTITY social.activated.undo.accesskey "n">
+<!ENTITY social.activated.undo.label "Oops, desfaz isto!">
+<!ENTITY social.activated.undo.accesskey "d">
 <!ENTITY social.learnMore.label "Saber mais…">
 <!ENTITY social.learnMore.accesskey "b">
 <!ENTITY social.closeNotificationItem.label "Agora não">
