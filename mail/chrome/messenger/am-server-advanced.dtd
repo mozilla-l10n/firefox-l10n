@@ -22,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "o">
 <!ENTITY overrideNamespaces.label "Dozvoli poslužitelju da nadjača ovaj imenski prostor">
 <!ENTITY overrideNamespaces.accesskey "a">
-
-
-
+<!ENTITY pop3DeferringDesc.label "Prilikom preuzimanja pošte s poslužitelja ovog računa, koristi sljedeću mapu za pohranu novih poruka:" >
+<!ENTITY accountInbox.label "Primljena pošta za ovaj račun">
+<!ENTITY accountInbox.accesskey "P">
 <!ENTITY deferToServer.label "Primljena pošta za drugi račun">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Uključi ovaj poslužitelj prilikom primanja nove pošte">
