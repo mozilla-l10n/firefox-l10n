@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "f">
 <!ENTITY restoreHTMLDefaults.label            "Restaurar predeterminados">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Al usar formato de párrafo, la tecla Intro crea un nuevo párrafo">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY spellCheck.label                     "Verificar ortografía antes de enviar">
 <!ENTITY spellCheck.accesskey                 "V">
