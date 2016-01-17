@@ -246,6 +246,8 @@
 <!ENTITY bodyAllParts.label "Сви делови">
 <!ENTITY bodyAllParts.accesskey "С">
 
+<!ENTITY bodyMenuFeed.label "Похрани тело поруке као">
+<!ENTITY bodyMenuFeed.accesskey "х">
 <!ENTITY viewFeedWebPage.label "Веб страница">
 <!ENTITY viewFeedWebPage.accesskey "В">
 <!ENTITY viewFeedSummary.label "Резиме">
@@ -823,6 +825,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
+<!ENTITY search.label.base1 "Претражи #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -851,6 +854,8 @@
 <!ENTITY SendMessageTo.accesskey "т">
 <!ENTITY CopyEmailAddress.label "Умножи е-адресу">
 <!ENTITY CopyEmailAddress.accesskey "м">
+<!ENTITY CopyNameAndEmailAddress.label "Умножи име и е-адресу">
+<!ENTITY CopyNameAndEmailAddress.accesskey "м">
 <!ENTITY CopyNewsgroupName.label "Умножи име новинске групе">
 <!ENTITY CopyNewsgroupName.accesskey "м">
 <!ENTITY CopyNewsgroupURL.label "Умножи URL новинске групе">

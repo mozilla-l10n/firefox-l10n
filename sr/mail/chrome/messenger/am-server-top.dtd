@@ -24,6 +24,7 @@
 <!ENTITY biffStart.accesskey "х">
 <!ENTITY biffEnd.label "минута">
 <!ENTITY useIdleNotifications.label "Дозволи хитна обавешетења сервера када стигне нова порука">
+<!ENTITY useIdleNotifications.accesskey "г">
 <!ENTITY connectionSecurity.label "Безбедност везе:">
 <!ENTITY connectionSecurity.accesskey "з">
 <!ENTITY connectionSecurityType-0.label "Ништа">
