@@ -138,7 +138,8 @@ ima li &brandShortName; omogućen pristup Webu.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Unošenje bilo kakvih osobnih podataka na ovoj web stranici može rezultirati krađom identiteta ili nekom drugom prijevarom.</p> 
 <p>Ovakve vrste web krivotvorina se koriste u prijevarama poznatijima kao napad lažnim predstavljanjem, u kojima se koriste varljive web stranice ili e-poštu koje imitiraju izvore kojima možda vjerujete.</p>">
 
-
+<!ENTITY forbiddenBlocked.title "Zabranjena stranica">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; je spriječio učitavanje ove stranice jer je tako naređeno u postavkama.</p>">
 
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je zaustavio učitavanje ove stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
