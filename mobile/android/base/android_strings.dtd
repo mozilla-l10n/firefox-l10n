@@ -50,7 +50,7 @@
 
 <!ENTITY choose_file "Tscherner ina datoteca">
 
-<!ENTITY url_bar_default_text2 "Tschertgar u endatar in\&apos;adressa">
+<!ENTITY url_bar_default_text2 "Tschertgar u tippar l\&apos;adressa">
 
 <!ENTITY bookmark "Segnapagina">
 <!ENTITY bookmark_remove "Allontanar il segnapagina">
@@ -384,7 +384,7 @@ size. -->
 <!ENTITY save_as_pdf "Memorisar sco PDF">
 <!ENTITY print "Stampar">
 <!ENTITY find_in_page "Tschertgar en la pagina">
-<!ENTITY desktop_mode "Chargiar la pagina per visurs gronds">
+<!ENTITY desktop_mode "Pagina per visurs gronds">
 <!ENTITY page "Pagina">
 <!ENTITY tools "Utensils">
 <!ENTITY new_tab "Nov tab">
@@ -645,7 +645,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Segnapaginas e cronologia">
 
  <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Ina actualisaziun è disponibla per &brandShortName;">
+<!ENTITY updater_start_title2 "&brandShortName;: Actualisaziun disponibla">
 <!ENTITY updater_start_select2 "Tutgar per telechargiar">
 
 <!ENTITY updater_downloading_title2 "Telechargiar &brandShortName;">
@@ -653,7 +653,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Tutgar per applitgar l\&apos;actualisaziun cura ch\&apos;ella è telechargiada">
 <!ENTITY updater_downloading_retry2 "Tutgar per reempruvar">
 
-<!ENTITY updater_apply_title2 "Ina actualisaziun è disponibla per &brandShortName;">
+<!ENTITY updater_apply_title2 "&brandShortName;: Actualisaziun disponibla">
 <!ENTITY updater_apply_select2 "Tutgar per actualisar">
 
 <!-- Guest mode -->
