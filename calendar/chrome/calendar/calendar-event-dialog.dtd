@@ -5,7 +5,7 @@
 <!ENTITY event.title.label                  "Item bewerken" >
 
 <!ENTITY event.dialog.keepDurationButton.tooltip   "De tijdsperiode behouden bij wijzigen van de einddatum">
-<!ENTITY event.dialog.keepDurationButton.accesskey "D">
+<!ENTITY event.dialog.keepDurationButton.accesskey "x">
 
 <!ENTITY newevent.from.label                "Van" >
 <!ENTITY newevent.to.label                  "Tot" >
@@ -138,6 +138,9 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "E-mail opstellen aan onbesliste genodigden…">
 <!ENTITY event.email.tentative.attendees.accesskey        "o">
+<!ENTITY event.remove.attendees.label                     "Alle genodigden verwijderen…">
+<!ENTITY event.remove.attendees.accesskey                 "v">
+<!ENTITY event.remove.attendee.label                      "Genodigde verwijderen">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Opslaan en sluiten">
@@ -165,7 +168,7 @@
 <!ENTITY event.calendar.label                             "Agenda:" >
 <!ENTITY event.calendar.accesskey                         "d">
 <!ENTITY event.attendees.label                            "Genodigden:" >
-<!ENTITY event.attendees.accesskey                        "G" >
+<!ENTITY event.attendees.accesskey                        "e" >
 <!ENTITY event.alldayevent.label                          "De hele dag" >
 <!ENTITY event.alldayevent.accesskey                      "h">
 <!ENTITY event.from.label                                 "Begin:" >
@@ -343,11 +346,12 @@
 <!ENTITY event.attendee.role.required           "Vereiste genodigde">
 <!ENTITY event.attendee.role.optional           "Optionele genodigde">
 <!ENTITY event.attendee.role.chair              "Voorzitter">
-<!ENTITY event.attendee.role.nonparticipant     "Niet deelnemend">
+<!ENTITY event.attendee.role.nonparticipant     "Niet-deelnemer">
 <!ENTITY event.attendee.usertype.individual     "Persoon">
 <!ENTITY event.attendee.usertype.group          "Groep">
-<!ENTITY event.attendee.usertype.resource       "Bron">
+<!ENTITY event.attendee.usertype.resource       "Resource">
 <!ENTITY event.attendee.usertype.room           "Ruimte">
+<!ENTITY event.attendee.usertype.unknown        "Onbekend">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Specificeer de tijdzone">
