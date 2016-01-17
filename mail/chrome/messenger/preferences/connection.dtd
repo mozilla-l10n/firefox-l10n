@@ -16,7 +16,7 @@
 <!ENTITY  autoTypeRadio.label           "URL za automatsko podešavanje proxyja:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
 <!ENTITY  reload.label                  "Ponovno učitaj">
-<!ENTITY  reload.accesskey              "č">
+<!ENTITY  reload.accesskey              "j">
 <!ENTITY  http.label                    "HTTP Proxy:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL Proxy:">

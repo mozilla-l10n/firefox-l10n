@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Vrati zadane postavke">
 <!ENTITY restoreHTMLDefaults.accesskey        "r">
-
-
+<!ENTITY enterKeyCreatesNewParagraph.label    "Kada koristite oblik odlomka, tipka enter stvara novi odlomak">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "o">
 
 <!ENTITY spellCheck.label                     "Provjeri pravopis prije slanja">
 <!ENTITY spellCheck.accesskey                 "P">
