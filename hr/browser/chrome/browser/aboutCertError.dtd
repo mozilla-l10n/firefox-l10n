@@ -31,4 +31,4 @@ možete instruirati &brandShortName; da vjeruje identifikaciji ove stranice.
 <!ENTITY certerror.expert.contentPara2 "Nemojte dodavati iznimku, osim ako znate 
 da postoji dobar razlog zašto ova stranica ne koristi vjerodostojnu identifikaciju.">
 <!ENTITY certerror.addException.label "Dodaj iznimku…">
-
+<!ENTITY certerror.copyToClipboard.label "Kopiraj tekst u međuspremnik">
