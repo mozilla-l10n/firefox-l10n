@@ -46,7 +46,9 @@
  तपाईँलाई सूचित गर्नेछ।">
 
 <!ENTITY  adminDisabled.wizard.title      "अद्यावधिकहरु जाँच्न असक्षम">
-
+<!ENTITY  adminDisabled.warning.label     "यो &brandShortName; को लागि सफ्टवेयर स्थापना अक्षम गरिएको छ 
+ किनभने अमिल्दो एड-अनको लागि अद्यावधिक जाँच गर्न सम्भव छैन।
+ सहयोगका लागि तपाईँको सिस्टम एडमिनीस्ट्रेटरलाई सम्पर्क गर्नुहोस्।">
 
 <!ENTITY  versioninfo.wizard.title        "एड-अनहरूको अनुकूलता जाँच गरिँदै">
 <!ENTITY  versioninfo.top.label           "&brandShortName; को यस संस्करणसंग मिल्दोजुल्दो एड-अनहरुको 
