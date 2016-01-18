@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Davart &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; è experimental ed eventualmain instabel.">
-<!ENTITY aboutPage.telemetryStart               " Il program trametta automaticamain infurmaziuns davart la prestaziun, la hardware, l'utilisaziun e la persunalisaziun a ">
+<!ENTITY aboutPage.telemetryStart               "Il program trametta automaticamain infurmaziuns davart la prestaziun, la hardware, l'utilisaziun e la persunalisaziun a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " per gidar da meglierar &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Tschertgar actualisaziuns »">
