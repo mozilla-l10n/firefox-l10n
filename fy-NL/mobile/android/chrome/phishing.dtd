@@ -21,3 +21,7 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Dizze webside op <span id='unwanted_sitename'/> is rapportearre as in webside dy't net-winske software befettet en is blokkearre op basis fan jo befeiligingsynstellingen.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Siden mei net-winske software probearje software te ynstallearjen dy't misliedend wêze kin en jo systeem op ûnferwachte manieren beÿnfloedzje kin.">
+
+<!ENTITY safeb.blocked.forbiddenPage.title "Ferbeane website">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Dizze website op <span id='forbidden_sitename'/> is blokkearre op basis fan jo browserkonfiguraasje.">
