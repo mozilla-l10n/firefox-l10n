@@ -271,3 +271,8 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tik om jo oan te melden as &formatS;'>
 
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
+<!ENTITY old_sync_deprecated_notification_title 'Meld jo oan om fierder te syngronisearjen'>
+<!ENTITY old_sync_deprecated_notification_content 'Jo account wurdt net mear stipe'>
+
