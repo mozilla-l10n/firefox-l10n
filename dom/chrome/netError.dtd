@@ -92,7 +92,11 @@
 <p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>
 ">
 
+<!ENTITY forbiddenBlocked.title "Prepovedana stran">
+<!ENTITY forbiddenBlocked.longDesc "<p>Brskalnik je preprečil nalaganje te strani, ker je nastavljen, da jo zavrača.</p>
+">
 
+<!ENTITY securityOverride.linkText "Lahko pa dodate izjemo …">
 <!ENTITY securityOverride.warningContent "
 <p>Izjeme ne dodajajte, če uporabljate internetno povezavo, ki je ne zaupate popolnoma ali če tega opozorila običajno na tem strežniku ne vidite.</p>
 <p>Če še vedno želite dodati izjemo za to stran, lahko to storite v nastavitvah za napredno šifriranje.</p>
