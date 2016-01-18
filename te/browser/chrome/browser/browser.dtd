@@ -410,6 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "చరిత్ర పక్కపట్టీను చూడండి">
 <!ENTITY appMenuHelp.tooltip "సహాయం మెనుని తెరువు">
 
+<!ENTITY appMenuRemoteTabs.label "సింకైన ట్యాబులు">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -785,6 +786,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "విహారిణి టాబ్‌లు">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "సింకైన ట్యాబులు">
 
 <!ENTITY syncBrand.shortName.label    "సింక్">
 
