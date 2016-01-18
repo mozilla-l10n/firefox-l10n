@@ -101,6 +101,8 @@ values from browser.dtd.  -->
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableWorkers.label    "Միացնել աշխատողի վրիպազերծումը (մշակման մեջ)">
+
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -186,13 +188,13 @@ Gecko հարթակի նշանները">
 
 <!ENTITY options.sourceeditor.label                     "Խմբագրիչի նախըտրանքներ">
 
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Գուշակել բացատը ըստ աղբյուրի բովանդակության">
 
 
 
 
-
-
-
+<!ENTITY options.sourceeditor.tabsize.label             "Ներդիրի չափը">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 
 
 <!ENTITY options.sourceeditor.keybinding.default.label  "Լռելյայն">

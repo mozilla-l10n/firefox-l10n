@@ -52,7 +52,7 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 
-
-
-
+<!ENTITY tabgroupsmigration.description2        "&brandShortName;-ը էջանշել է Ձեր բոլոր խմբերը, այսպիսով չեք կորցրել որևէ բան։">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "Ցուցադրել էջանշված ներդիրի խմբերը">
+<!ENTITY tabgroupsmigration.restoredescription  "Նաև կարող եք ընտրել վերականգնել որոշ կամ բոլոր ետնապլանի խմբերը պատուհանների մեջ՝">
 

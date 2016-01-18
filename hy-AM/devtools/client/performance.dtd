@@ -55,12 +55,12 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY performanceUI.table.selfDuration             "Ինքնակառավարման ժամ">
 
 
 
 
-
-
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "Ժամային տոկոսը ծախսվել է միայն այս գործառույթի ընթացքում։">
 <!ENTITY performanceUI.table.samples                  "Նմուշներ">
 
 
@@ -88,7 +88,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
-
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Ուղղել ռեկուրսիան, երբ ստուգվում են գործառույթները։">
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
