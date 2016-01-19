@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Problem sa učitavanjem stranice">
 <!ENTITY retry.label "Pokušaj ponovo">
-
-
+<!ENTITY returnToPreviousPage.label "Idi nazad">
+<!ENTITY advanced.label "Napredno">
 <!-- Specific error messages -->
 
 
@@ -141,7 +141,8 @@ računara.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Unošenje bilo kakvih ličnih podataka na ovu stranicu može dovesti do krađe identiteta ili neke druge prevare.</p> 
 <p>Ovi tipovi web krađa se koriste u prevarama poznatim kao phishing napadi, kod kojih se lažne web stranice i emailovi koriste da oponašaju izvore kojima vjerujete.</p>">
 
-
+<!ENTITY forbiddenBlocked.title "Zabranjena stranica">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; je spriječio učitavanje ove stranice jer je konfigurisan da je blokira.</p>">
 
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je spriječio učitavanje stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
@@ -164,6 +165,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "Prijavite greške poput ove da biste pomogli Mozilli da identifikuje i blokira opasne stranice">
 <!ENTITY errorReporting.learnMore "Saznajte više…">
 <!ENTITY errorReporting.sending "Šaljem izvještaj">
 <!ENTITY errorReporting.sent "Izvještaj poslat">
@@ -176,10 +178,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Uspostava sigurne veze nije uspjela">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Napredna info: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "Vaša veza nije sigurna">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
+<!ENTITY weakCryptoUsed.longDesc2 "Napredna info: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Napredno">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>koristi zastarjelu sigurnosnu tehnologiju koja je ranjiva na napade. Napadač bi lahko mogao otkriti podatke koje ste smatrali sigurnim.">
 <!ENTITY weakCryptoAdvanced.override "(Nije sigurno) Probaj učitati <span class='hostname'></span> koristeći zastarjelu zaštitu">

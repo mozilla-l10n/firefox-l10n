@@ -6,5 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Add-oni">
 <!ENTITY aboutDebugging.addonDebugging.label       "Omogući debagiranje add-ona">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Uključivanje ove opcije će vam omogućiti da debagirate add-one i druge dijelove chrome-a browsera">
-
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Učitaj privremeni add-on">
 <!ENTITY aboutDebugging.workers                    "Workeri">

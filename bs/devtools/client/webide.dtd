@@ -77,6 +77,7 @@
 <!ENTITY key_resetzoom "0">
 <!-- reload WebIDE and devtools from local checkout -->
 <!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "Moji projekti">
 <!ENTITY projectPanel_runtimeApps "Runtime aplikacije">
@@ -88,7 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "Instaliraj simulator">
 <!ENTITY runtimePanel_noadbhelper "Instaliraj ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Ne vidite svoj uređaj?">
-
+<!ENTITY runtimePanel_refreshDevices_label "Osvježi uređaje">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "validno">
