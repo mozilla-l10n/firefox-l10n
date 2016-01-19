@@ -25,7 +25,7 @@
 <!ENTITY signMessage.accesskey "д">
 <!ENTITY signingCert.message "Личный сертификат для подписи:">
 <!ENTITY certificates.label "Сертификаты">
-<!ENTITY manageCerts.label "Просмотр сертификатов">
-<!ENTITY manageCerts.accesskey "р">
+<!ENTITY manageCerts2.label "Управление сертификатами">
+<!ENTITY manageCerts2.accesskey "п">
 <!ENTITY manageDevices.label "Устройства защиты">
 <!ENTITY manageDevices.accesskey "т">

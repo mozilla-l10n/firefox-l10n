@@ -22,7 +22,7 @@
 <!ENTITY useSmoothScrolling.accesskey "л">
 <!ENTITY systemIntegration.label "Интеграция с системой">
 <!ENTITY alwaysCheckDefault.label "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
-<!ENTITY alwaysCheckDefault.accesskey "п">
+<!ENTITY alwaysCheckDefault.accesskey "ж">
 <!ENTITY searchIntegration.label "Разрешить &searchIntegration.engineName; производить поиск сообщений">
 <!ENTITY searchIntegration.accesskey "з">
 <!ENTITY checkDefaultsNow.label "Проверить сейчас…">
@@ -36,7 +36,7 @@
 <!ENTITY telemetrySection.label "Телеметрия">
 <!ENTITY telemetryDesc.label "Поделиться сведениями о производительности, использовании, аппаратном обеспечении и настройках вашего почтового клиента с &vendorShortName;, чтобы помочь нам сделать &brandShortName; ещё лучше">
 <!ENTITY enableTelemetry.label "Включить телеметрию">
-<!ENTITY enableTelemetry.accesskey "ю">
+<!ENTITY enableTelemetry.accesskey "а">
 <!ENTITY telemetryLearnMore.label "Подробнее">
 <!ENTITY crashReporterSection.label "Сообщения о падениях">
 <!ENTITY crashReporterDesc.label "&brandShortName; отправляет сообщения о падении, чтобы помочь &vendorShortName; сделать ваш почтовый клиент более стабильным и безопасным">
@@ -66,7 +66,7 @@
 <!ENTITY showOffline.accesskey "в">
 <!ENTITY Diskspace "Дисковое пространство">
 <!ENTITY offlineCompactFolders.label "Сжимать все папки, если при этом высвободится всего более">
-<!ENTITY offlineCompactFolders.accesskey "м">
+<!ENTITY offlineCompactFolders.accesskey "ь">
 <!ENTITY offlineCompactFoldersMB.label "МБ">
 <!ENTITY useCacheBefore.label "Использовать до">
 <!ENTITY useCacheBefore.accesskey "п">
@@ -79,8 +79,8 @@
 <!ENTITY certs.ask "Спрашивать каждый раз">
 <!ENTITY certs.ask.accesskey "ш">
 <!ENTITY enableOCSP.label "Запрашивать у OCSP-серверов подтверждение текущего статуса сертификатов">
-<!ENTITY enableOCSP.accesskey "и">
-<!ENTITY viewCertificates.label "Просмотр сертификатов">
-<!ENTITY viewCertificates.accesskey "м">
+<!ENTITY enableOCSP.accesskey "ю">
+<!ENTITY manageCertificates.label "Управление сертификатами">
+<!ENTITY manageCertificates.accesskey "щ">
 <!ENTITY viewSecurityDevices.label "Устройства защиты">
 <!ENTITY viewSecurityDevices.accesskey "о">
