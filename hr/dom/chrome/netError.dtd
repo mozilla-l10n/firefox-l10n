@@ -83,9 +83,12 @@
 <!ENTITY phishingBlocked.longDesc "<p>Unos privatnih informacija na ovoj stranici može rezultirati krađom identiteta ili nekom drugom prijevarom.</p> 
 <p>Ove vrste web prijevara se koriste u muljažama poznatim kao lažno predstavljanje u kojima web stranice ili e-poruke imitiraju izvore kojima vjerujete.</p>">
 
+<!ENTITY forbiddenBlocked.title "Zabranjena stranica">
+<!ENTITY forbiddenBlocked.longDesc "<p>Web preglednik  je spriječio učitavanje ove stranice jer je tako naređeno u postavkama.</p>">
 
-
-
+<!ENTITY securityOverride.linkText "Ili možete dodati iznimku…">
+<!ENTITY securityOverride.warningContent "<p>Ne biste trebali dodavati iznimke ako koristite vezu prema Internetu kojoj ne vjerujete u potpunosti ili ako niste ranije viđali upozorenje za ovaj poslužitelj.</p> 
+<p>Ako ipak želite dodati iznimku za ovu stranicu, to možete učiniti u naprednim postavkama enkripcije.</p>">
 
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>Preglednik je zaustavio učitavanje ove stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
