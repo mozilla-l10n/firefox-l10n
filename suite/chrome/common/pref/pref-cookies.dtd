@@ -20,10 +20,6 @@
 <!ENTITY acceptforNDays.label "Принимать куки на">
 <!ENTITY acceptforNDays.accesskey "м">
 <!ENTITY days.label "дней">
-<!ENTITY warnAboutCookies.label "Запрашивать подтверждение для каждой куки">
-<!ENTITY warnAboutCookies.accesskey "ш">
-<!ENTITY forCurrentSession.label "за исключением сеансовых кук">
-<!ENTITY forCurrentSession.accesskey "ю">
 <!ENTITY manageCookies.label "Управление веб-сайтами и куками">
 <!ENTITY manageCookiesDescription.label "Здесь вы можете просматривать и упорядочивать сохранённые куки и настройки принятия или отклонения кук для отдельных веб-сайтов. Настройки отдельных веб-сайтов перекрывают указанные выше настройки.">
 <!ENTITY viewCookies.label "Управление куками">

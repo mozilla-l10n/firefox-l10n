@@ -11,7 +11,6 @@
 <!ENTITY allowWindowMoveResize.label "Перемещать существующие окна и изменять их размеры">
 <!ENTITY allowWindowFlip.label "Помещать окна поверх других окон или под них">
 <!ENTITY allowWindowStatusChange.label "Менять текст в строке состояния">
-<!ENTITY allowWindowImageSrcChange.label "Менять изображения">
 <!ENTITY allowContextmenuDisable.label "Отключать или замещать контекстные меню">
 <!ENTITY allowHideStatusBar.label "Скрывать строку состояния">
 <!ENTITY enableDrmMedia.label "Включить Управление цифровыми правами (DRM) для">

@@ -7,7 +7,7 @@
 <!ENTITY serverSettings.label "Параметры сервера">
 <!ENTITY serverType.label "Тип сервера:">
 <!ENTITY serverName.label "Имя сервера:">
-<!ENTITY serverName.accesskey "И">
+<!ENTITY serverName.accesskey "я">
 <!ENTITY userName.label "Имя пользователя:">
 <!ENTITY userName.accesskey "м">
 <!ENTITY port.label "Порт:">
@@ -17,7 +17,7 @@
 <!ENTITY biffStart.accesskey "к">
 <!ENTITY biffEnd.label "минут">
 <!ENTITY useIdleNotifications.label "Разрешить серверу при поступлении новых сообщений немедленно отображать уведомление">
-<!ENTITY useIdleNotifications.accesskey "з">
+<!ENTITY useIdleNotifications.accesskey "н">
 <!ENTITY connectionSecurity.label "Защита соединения:">
 <!ENTITY connectionSecurity.accesskey "щ">
 <!ENTITY connectionSecurityType-0.label "Нет">
@@ -27,35 +27,35 @@
 <!ENTITY authMethod.label "Метод аутентификации:">
 <!ENTITY authMethod.accesskey "е">
 <!ENTITY leaveOnServer.label "Оставлять копии сообщений на сервере">
-<!ENTITY leaveOnServer.accesskey "т">
+<!ENTITY leaveOnServer.accesskey "с">
 <!ENTITY headersOnly.label "Загружать только заголовки сообщений">
-<!ENTITY headersOnly.accesskey "з">
+<!ENTITY headersOnly.accesskey "г">
 <!ENTITY deleteByAgeFromServer.label "Не более">
-<!ENTITY deleteByAgeFromServer.accesskey "е">
+<!ENTITY deleteByAgeFromServer.accesskey "л">
 <!ENTITY daysEnd.label "дней">
 <!ENTITY deleteOnServer2.label "Пока я не удалю их">
 <!ENTITY deleteOnServer2.accesskey "у">
 <!ENTITY downloadOnBiff.label "Автоматически загружать новые сообщения">
-<!ENTITY downloadOnBiff.accesskey "А">
+<!ENTITY downloadOnBiff.accesskey "а">
 <!ENTITY username.label "Ваше регистрационное имя">
 <!ENTITY deleteMessagePrefix.label "При удалении сообщения:">
 <!ENTITY modelMoveToTrash.label "Переместить его в папку:">
-<!ENTITY modelMoveToTrash.accesskey "п">
+<!ENTITY modelMoveToTrash.accesskey "и">
 <!ENTITY modelMarkDeleted.label "Отметить его как удалённое">
-<!ENTITY modelMarkDeleted.accesskey "у">
+<!ENTITY modelMarkDeleted.accesskey "т">
 <!ENTITY modelDeleteImmediately.label "Удалить его сразу">
-<!ENTITY modelDeleteImmediately.accesskey "р">
+<!ENTITY modelDeleteImmediately.accesskey "д">
 <!ENTITY expungeOnExit.label "Сжимать при выходе папку «Входящие»">
 <!ENTITY expungeOnExit.accesskey "ж">
 <!ENTITY emptyTrashOnExit.label "Очищать при выходе папку «Удалённые»">
-<!ENTITY emptyTrashOnExit.accesskey "О">
+<!ENTITY emptyTrashOnExit.accesskey "ч">
 <!ENTITY loginAtStartup.label "Проверять почту при запуске">
-<!ENTITY loginAtStartup.accesskey "П">
+<!ENTITY loginAtStartup.accesskey "в">
 <!ENTITY maxMessagesStart.label "Спрашивать перед загрузкой более чем">
-<!ENTITY maxMessagesStart.accesskey "б">
+<!ENTITY maxMessagesStart.accesskey "ш">
 <!ENTITY maxMessagesEnd.label "сообщений">
 <!ENTITY alwaysAuthenticate.label "Всегда проводить аутентификацию при подключении к этому серверу">
-<!ENTITY alwaysAuthenticate.accesskey "В">
+<!ENTITY alwaysAuthenticate.accesskey "о">
 <!ENTITY newsrcFilePath.label "файл newsrc:">
 <!ENTITY newsrcPicker.label "Выбрать файл newsrc">
 <!ENTITY abbreviate.label "Показывать имена групп новостей:">
@@ -63,16 +63,16 @@
 <!ENTITY abbreviateOff.label "Аббревиатурой (например «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Дополнительно…">
 <!ENTITY serverDefaultCharset2.label "Кодировка текста по умолчанию:">
-<!ENTITY advancedButton.accesskey "Д">
+<!ENTITY advancedButton.accesskey "п">
 <!ENTITY localPath.label "Локальный каталог:">
 <!ENTITY localFolderPicker.label "Выбор локального каталога">
 <!ENTITY browseFolder.label "Обзор…">
 <!ENTITY browseFolder.accesskey "б">
 <!ENTITY browseNewsrc.label "Обзор…">
-<!ENTITY browseNewsrc.accesskey "О">
+<!ENTITY browseNewsrc.accesskey "з">
 <!ENTITY accountTitle.label "Параметры учётной записи">
 <!ENTITY accountSettingsDesc.label "Эта учётная запись особенная. С ней не связаны никакие персональные данные.">
 <!ENTITY storeType.label "Тип хранилища сообщений:">
-<!ENTITY storeType.accesskey "п">
+<!ENTITY storeType.accesskey "х">
 <!ENTITY mboxStore2.label "Каждая папка в отдельном файле (mbox)">
 <!ENTITY maildirStore.label "Каждое сообщение в отдельном файле (maildir)">
