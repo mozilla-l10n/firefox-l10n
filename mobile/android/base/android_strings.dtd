@@ -50,7 +50,7 @@
 
 <!ENTITY choose_file "Ընտրել Ֆայլը">
 
-<!ENTITY url_bar_default_text2 "Փնտրել կամ մուտքագրել հասցեն">
+<!ENTITY url_bar_default_text2 "Մուտքագրեք կայքի հասցե կամ որոնում">
 
 <!ENTITY bookmark "Էջանիշ">
 <!ENTITY bookmark_remove "Հեռացնել էջանիշը">
@@ -205,7 +205,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "Մուտքագրել հասցե կամ որոնում">
+<!ENTITY home_homepage_hint_user_address "Մուտքագրեք կայքի հասցե կամ որոնում">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_general "Գլխավոր">
@@ -571,7 +571,7 @@ size. -->
 <!ENTITY remote_tabs_panel_moved_desc "Մենք տեղափոխել եք ձեր ներդիրները այլ սարքերից մեկնարկային էջի վահանակ՝ ամեն անգամնոր ներդիր բացելիս դրանց արագ մուտք ունենալու համար: ">
 <!ENTITY remote_tabs_panel_moved_link "Տա՛ր ինձ նոր վանահակ:">
 
-<!ENTITY pin_site_dialog_hint "Գրեք, թե ինչ որոնել">
+<!ENTITY pin_site_dialog_hint "Մուտքագրեք որոնում">
 
 <!ENTITY filepicker_title "Ընտրել Ֆայլը">
 <!ENTITY filepicker_audio_title "Ընտրեք կամ ձայնագրեք">
