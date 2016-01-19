@@ -1,7 +1,7 @@
-amazondotcom
 bing
 duckduckgo
 google
-twitter
-wikipedia
-yahoo
+leo_ende_de
+pledarigrond
+wikipedia-rm
+yahoo-ch
