@@ -138,6 +138,9 @@
 <!ENTITY event.email.attendees.accesskey                  "t">
 <!ENTITY event.email.tentative.attendees.label            "Scriver in e-mail als participants indecis…">
 <!ENTITY event.email.tentative.attendees.accesskey        "i">
+<!ENTITY event.remove.attendees.label                     "Allontanar tut ils participants…">
+<!ENTITY event.remove.attendees.accesskey                 "c">
+<!ENTITY event.remove.attendee.label                      "Allontanar il participant">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Memorisar e Serrar">
@@ -348,6 +351,7 @@
 <!ENTITY event.attendee.usertype.group          "Gruppa">
 <!ENTITY event.attendee.usertype.resource       "Resursa">
 <!ENTITY event.attendee.usertype.room           "Localitad">
+<!ENTITY event.attendee.usertype.unknown        "Nunenconuschent">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Specifitgescha p.pl. la zona d'urari">
