@@ -23,7 +23,7 @@
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "Latin">
+<!ENTITY  font.langGroup.latin                    "Латиниця">
 <!ENTITY  font.langGroup.japanese                 "Японський">
 <!ENTITY  font.langGroup.trad-chinese             "Традиційний китайський (Тайвань)">
 <!ENTITY  font.langGroup.simpl-chinese            "Спрощений китайський">
@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Корейський">
 <!ENTITY  font.langGroup.cyrillic                 "Кирилиця">
 <!ENTITY  font.langGroup.el                       "Грецький">
-<!ENTITY  font.langGroup.other                    "Other Writing Systems">
+<!ENTITY  font.langGroup.other                    "Інші системи написання">
 <!ENTITY  font.langGroup.thai                     "Тайський">
 <!ENTITY  font.langGroup.hebrew                   "Іврит">
 <!ENTITY  font.langGroup.arabic                   "Арабський">
@@ -47,11 +47,11 @@
 <!ENTITY  font.langGroup.khmer                    "Кхмерський">
 <!ENTITY  font.langGroup.malayalam                "Малаялам">
 <!ENTITY  font.langGroup.math                     "Математика">
-<!ENTITY  font.langGroup.oriya                    "Oriya">
-<!ENTITY  font.langGroup.telugu                   "Telugu">
-<!ENTITY  font.langGroup.kannada                  "Kannada">
-<!ENTITY  font.langGroup.sinhala                  "Sinhala">
-<!ENTITY  font.langGroup.tibetan                  "Tibetan">
+<!ENTITY  font.langGroup.oriya                    "Орія">
+<!ENTITY  font.langGroup.telugu                   "Телуґу">
+<!ENTITY  font.langGroup.kannada                  "Каннада">
+<!ENTITY  font.langGroup.sinhala                  "Сінгала">
+<!ENTITY  font.langGroup.tibetan                  "Тибетський">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Найменший розмір шрифту:">
 <!ENTITY minSize.accesskey                        "Н">

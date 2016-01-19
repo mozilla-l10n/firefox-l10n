@@ -14,10 +14,10 @@
 <!ENTITY paneComposition.title    "Створення">
 <!ENTITY paneChat.title           "Чат">
 <!ENTITY paneAttachments.title    "Вкладення">
-<!ENTITY panePrivacy.title        "Privacy">
+<!ENTITY panePrivacy.title        "Приватність">
 <!ENTITY paneSecurity.title       "Безпека">
 <!ENTITY paneAdvanced.title       "Додатково">
-<!ENTITY paneAccount.title        "Accounts">
+<!ENTITY paneAccount.title        "Облікові записи">
 
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">

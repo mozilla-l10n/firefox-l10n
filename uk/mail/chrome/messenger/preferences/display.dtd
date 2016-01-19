@@ -4,7 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Форматування">
 <!ENTITY itemTags.label                   "Мітки">
-<!ENTITY itemAdvanced.label               "Advanced">
+<!ENTITY itemAdvanced.label               "Додатково">
 
 <!ENTITY style.label                      "Стиль:">
 <!ENTITY style.accesskey                  "С">
@@ -36,15 +36,15 @@
 <!ENTITY removeTagButton.accesskey "В">
 
 <!-- Fonts and Colors -->
-<!ENTITY fontsAndColors1.label   "Fonts &amp; Colors">
+<!ENTITY fontsAndColors1.label   "Шрифти й кольори">
 <!ENTITY defaultFont.label       "Типовий шрифт:">
 <!ENTITY defaultFont.accesskey   "Т">
 <!ENTITY defaultSize.label       "Розмір:">
 <!ENTITY defaultSize.accesskey   "Р">
 <!ENTITY fontOptions.accesskey   "Ш">
 <!ENTITY fontOptions.label       "Шрифти…">
-<!ENTITY colorButton.label       "Colors…">
-<!ENTITY colorButton.accesskey   "C">
+<!ENTITY colorButton.label       "Кольори…">
+<!ENTITY colorButton.accesskey   "К">
 
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Читання">

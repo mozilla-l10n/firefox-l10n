@@ -6,7 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Автодоповнення">
 <!ENTITY itemSpellCheck.label                "Орфографія">
 
-<!ENTITY dialogCompose.title                 "Composing">
+<!ENTITY dialogCompose.title                 "Створення">
 
 <!ENTITY forwardMsg.label                     "Пересилати листи:">
 <!ENTITY forwardMsg.accesskey                 "П">

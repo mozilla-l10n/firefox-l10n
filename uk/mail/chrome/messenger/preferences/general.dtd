@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerStartPage.label         "Стартова сторінка &brandShortName;">
-<!ENTITY enableStartPage.label            "Показувати стартову сторінку в області перегляду листа при запуску &brandShortName;">
+<!ENTITY messengerStartPage.label         "Початкова сторінка &brandShortName;">
+<!ENTITY enableStartPage.label            "Показувати початкову сторінку в області перегляду листа при запуску &brandShortName;">
 <!ENTITY enableStartPage.accesskey        "с">
-<!ENTITY location.label                   "Адрес:">
+<!ENTITY location.label                   "Розташування:">
 <!ENTITY location1.accesskey               "д">
 <!ENTITY useDefault.label                 "Відновити">
 <!ENTITY useDefault.accesskey             "н">
 
-<!ENTITY changeDockIconOptions.label      "Змінити налаштування для іконки програми">
-<!ENTITY dockOptions.label                "Налаштування іконки програми…">
+<!ENTITY changeDockIconOptions.label      "Змінити налаштування для піктограми програми">
+<!ENTITY dockOptions.label                "Налаштування піктограми програми…">
 <!ENTITY dockOptions.accesskey            "л">
 
 <!ENTITY newMessagesArrive.label          "При появі нових листів:">
@@ -22,7 +22,7 @@
 <!ENTITY customizeMailAlert.label         "Налаштувати…">
 <!ENTITY customizeMailAlert.accesskey     "л">
 
-<!ENTITY showTrayIcon.label               "Показувати іконку в треї">
+<!ENTITY showTrayIcon.label               "Показувати піктограму в області сповіщень">
 <!ENTITY showTrayIcon.accesskey           "і">
 
 <!ENTITY play.label                       "Відтворити">
