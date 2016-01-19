@@ -10,6 +10,6 @@
 <!ENTITY webAudioEditorUI.tab.automation "Automatyzacja">
 <!ENTITY webAudioEditorUI.inspectorTitle "Inspektor AudioNode">
 <!ENTITY webAudioEditorUI.inspectorEmpty "Brak zaznaczonych węzłów AudioNode.">
-<!ENTITY webAudioEditorUI.propertiesEmpty "Węzeł nie posiada żadnych właściwości.">
-<!ENTITY webAudioEditorUI.automationEmpty "Węzeł nie posiada żadnych AudioParams.">
-<!ENTITY webAudioEditorUI.automationNoEvents "AudioParam nie posiada żadnych zdarzeń automatyzacji.">
+<!ENTITY webAudioEditorUI.propertiesEmpty "Węzeł nie ma żadnych właściwości.">
+<!ENTITY webAudioEditorUI.automationEmpty "Węzeł nie ma żadnych AudioParams.">
+<!ENTITY webAudioEditorUI.automationNoEvents "AudioParam nie ma żadnych zdarzeń automatyzacji.">
