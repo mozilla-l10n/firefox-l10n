@@ -142,8 +142,8 @@
 
 <!ENTITY pref_category_search3 "البحث">
 <!ENTITY pref_category_search_summary "خصص مزودي البحث">
-
-
+<!ENTITY pref_category_accessibility "الإتاحة">
+<!ENTITY pref_category_accessibility_summary2 "حجم النص، التقريب، الإدخال بالصوت">
 <!ENTITY pref_category_privacy_short "الخصوصية">
 
 
@@ -161,7 +161,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "فائدة: أضف أي موقع على لائحة مزودي البحث الخاصة بك عن طريق الضغط المطول على مساحة البحث ثم النقر على أيقونة &formatI;.">
-
+<!ENTITY pref_category_advanced "متقدّم">
 
 <!ENTITY pref_developer_remotedebugging "تنقيح عن بعد">
 <!ENTITY pref_developer_remotedebugging_usb "التنقيح عن بعد عبر USB">
