@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "36em">
 
 <!ENTITY treehead.sitename.label      "Сайт">
-<!ENTITY treehead.status.label        "Статус">
+<!ENTITY treehead.status.label        "Стан">
 <!ENTITY removepermission.label       "Вилучити сайт">
 <!ENTITY removepermission.accesskey   "В">
 <!ENTITY removeallpermissions.label   "Вилучити всі сайти">

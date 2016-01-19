@@ -3,36 +3,36 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Mail Content -->
-<!ENTITY captionMailContent.label "Mail Content">
+<!ENTITY captionMailContent.label "Вміст електронної пошти">
 
-<!ENTITY acceptRemoteContent.label "Allow remote content in messages">
-<!ENTITY acceptRemoteContent.accesskey "m">
-<!ENTITY remoteContentExceptions.label "Exceptions…">
-<!ENTITY remoteContentExceptions.accesskey "x">
-<!ENTITY acceptRemoteContentInfo.label "Learn more about the privacy issues of remote content">
+<!ENTITY acceptRemoteContent.label "Дозволити віддалений вміст в повідомленнях">
+<!ENTITY acceptRemoteContent.accesskey "в">
+<!ENTITY remoteContentExceptions.label "Винятки…">
+<!ENTITY remoteContentExceptions.accesskey "и">
+<!ENTITY acceptRemoteContentInfo.label "Докладніше про питання приватності й віддалений вміст">
 
 <!-- Web Content -->
-<!ENTITY captionWebContent.label "Web Content">
+<!ENTITY captionWebContent.label "Веб-вміст">
 
-<!ENTITY keepHistory.label "Remember websites and links I've visited">
-<!ENTITY keepHistory.accesskey "R">
-<!ENTITY acceptCookies.label "Accept cookies from sites">
-<!ENTITY acceptCookies.accesskey "A">
-<!ENTITY acceptThirdParty.pre.label "Accept third-party cookies:">
-<!ENTITY acceptThirdParty.pre.accesskey "c">
-<!ENTITY acceptThirdParty.always.label "Always">
-<!ENTITY acceptThirdParty.never.label "Never">
-<!ENTITY acceptThirdParty.visited.label "From visited">
-<!ENTITY keepUntil.label "Keep until:">
-<!ENTITY keepUntil.accesskey "K">
-<!ENTITY expire.label "they expire">
-<!ENTITY close.label "I close &brandShortName;">
-<!ENTITY askEachTime.label "ask me every time">
-<!ENTITY cookieExceptions.label "Exceptions…">
-<!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "Show Cookies…">
-<!ENTITY showCookies.accesskey "S">
+<!ENTITY keepHistory.label "Пам'ятати відвідані мною веб-сайти й посилання">
+<!ENTITY keepHistory.accesskey "П">
+<!ENTITY acceptCookies.label "Приймати куки від сайтів">
+<!ENTITY acceptCookies.accesskey "к">
+<!ENTITY acceptThirdParty.pre.label "Приймати куки від сторонніх сайтів:">
+<!ENTITY acceptThirdParty.pre.accesskey "с">
+<!ENTITY acceptThirdParty.always.label "Завжди">
+<!ENTITY acceptThirdParty.never.label "Ніколи">
+<!ENTITY acceptThirdParty.visited.label "Від відвіданих">
+<!ENTITY keepUntil.label "Зберігати доки:">
+<!ENTITY keepUntil.accesskey "З">
+<!ENTITY expire.label "не закінчиться термін їх дії">
+<!ENTITY close.label "я не закрию &brandShortName;">
+<!ENTITY askEachTime.label "питати кожного разу">
+<!ENTITY cookieExceptions.label "Винятки…">
+<!ENTITY cookieExceptions.accesskey "В">
+<!ENTITY showCookies.label "Показати куки…">
+<!ENTITY showCookies.accesskey "о">
 
-<!ENTITY dntTrackingNotOkay.label2 "Tell sites that I do not want to be tracked">
-<!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY doNotTrackInfo.label "Learn more about Do Not Track">
+<!ENTITY dntTrackingNotOkay.label2 "Повідомляти сайтам, що я не хочу щоб за мною стежили">
+<!ENTITY dntTrackingNotOkay.accesskey "н">
+<!ENTITY doNotTrackInfo.label "Докладніше про відмову від стеження">

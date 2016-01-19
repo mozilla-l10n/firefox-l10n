@@ -4,17 +4,17 @@
 
 <!ENTITY offlineDialog.title "Налаштування автономного режиму">
 
-<!ENTITY checkAutoDetect.label "Automatically follow detected online state">
-<!ENTITY checkAutoDetect.accesskey "d">
-<!ENTITY titleStartUp "Manual state when starting up:">
+<!ENTITY checkAutoDetect.label "Автоматично обирати виявлений стан підключення">
+<!ENTITY checkAutoDetect.accesskey "в">
+<!ENTITY titleStartUp "Ручний вибір стану під час запуску:">
 <!ENTITY radioRememberPrevState.label "Пам'ятати про автономний режим">
 <!ENTITY radioRememberPrevState.accesskey "р">
 <!ENTITY radioAskState.label "Питати мене про онлайн-режим при запуску">
 <!ENTITY radioAskState.accesskey "и">
-<!ENTITY radioAlwaysOnlineState.label "Online">
-<!ENTITY radioAlwaysOnlineState.accesskey "l">
-<!ENTITY radioAlwaysOffline.label "Offline">
-<!ENTITY radioAlwaysOffline.accesskey "f">
+<!ENTITY radioAlwaysOnlineState.label "В мережі">
+<!ENTITY radioAlwaysOnlineState.accesskey "м">
+<!ENTITY radioAlwaysOffline.label "Не в мережі">
+<!ENTITY radioAlwaysOffline.accesskey "е">
 
 <!ENTITY textGoingOnline "Відсилати невідіслані листи перед виходом в автономний режим?">
 <!ENTITY radioAutoSend.label "Так">
