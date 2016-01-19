@@ -63,7 +63,7 @@ gotyo (p.e. <strong>/</strong>.</li>
 
 <!ENTITY contentEncodingError.title "Tetepy mbopapapy jejavy">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Eñe'ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi.</li> 
+<li><li>Eñe'ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Koichagua marandurenda hekotee'ỹva">
@@ -118,7 +118,7 @@ mohendahavusúpe rupi.</li>
 <!ENTITY nssFailure2.title "Jeikekatu jejavýva">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>Kuatiarogue eikeseha ndaikatúi ehecha mba'ekuaarã og̃uahẽva ndaijeroviakatúi ndojehechajeýi rupi.</li> 
-<li>Ikatúpiko, eñe'ẽmi ñanduti renda jára ndive ha emombe'umi chupekuéra ko apañuãi rehegua.</li> 
+<li><li>Ikatúpiko, eñe'ẽmi ñanduti renda jára ndive ha emombe'umi chupekuéra ko apañuãi rehegua.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Jeikekatu ojavy">
@@ -154,7 +154,7 @@ oike hãgua ñandutípe.</li>
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ndohejái ko kuatiaroguépe oñemyañyhẽvo kóicha pe kuatiarogue oguereko rupi tetepy rekorosãrã purureko nomoneĩrĩva.</p>">
 
 <!ENTITY corruptedContentError.title "Tetepy marãva jejavy">
-<!ENTITY corruptedContentError.longDesc "<p>Pe Kuatiarogue ehechaséva ndaikatúi ojehechauka ndéve ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ ko ñanduti renda jarakuéra ndive emomarandu hag̃ua chupekuéra ko apañuãi</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Pe Kuatiarogue ehechaséva ndaikatúi ojehechauka ndéve ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ ko ñanduti renda jarakuéra ndive emomarandu hag̃ua chupekuéra ko apañuãi.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Terã ikatu embojoapy oĩ'ỹva…">

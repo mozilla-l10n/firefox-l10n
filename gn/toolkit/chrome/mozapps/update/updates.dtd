@@ -11,7 +11,8 @@
 <!ENTITY  pluginupdateslink.label         "Ehecha mba'éichapa embohekopyahúta nemboguerã'i.">
 
 <!ENTITY  noupdatesfound.title            "Ndojejuhúi ñembohekopyahu">
-<!ENTITY  noupdatesautoenabled.intro      "Ndaipóri ñembohekopyahu ojepurukuaáva. &brandShorName; ohechajeýta tapiaite oĩpa ñembohekopyahu.">
+<!ENTITY  noupdatesautoenabled.intro      "Ndaipóri ñembohekopyahu ojepurukuaáva. &brandShortName; ohechajeýta tapiaite 
+ oĩpa ñembohekopyahu.">
 <!ENTITY  noupdatesautodisabled.intro     "Ndaipóri ñembohekopyahu ojepurukuaáva. Eha'ãjey ag̃amieve térã emyandy pe votõ ñembohekopyahu ijeheguíva &brandShortName; mba'éva.">
 
 <!ENTITY  manualUpdate.title              "Ndaikatúi embohekopyahu">

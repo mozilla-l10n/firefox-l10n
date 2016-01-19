@@ -90,7 +90,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Pe kundaha ojoko ko kuatiaroguégui oñemyenyhẽvo kóicha kuatiarogue oguereko rupi peteĩ tapereko jeroviaha tetepy rehegua nomoneĩriva.</p>">
 
 <!ENTITY corruptedContentError.title "Tetepy imarãva rupi jejavy">
-<!ENTITY corruptedContentError.longDesc "<p>Kuatiarogue eñeha'ãva ehecha ndojehechaukakuaái ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ umi ñanduti renda jára ndive emombe'u hag̃ua chupekuéra ko apañuãi rehegua.</ul></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Kuatiarogue eñeha'ãva ehecha ndojehechaukakuaái ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ umi ñanduti renda jára ndive emombe'u hag̃ua chupekuéra ko apañuãi rehegua.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL okaygua">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Eñe'ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi rehegua.</li></ul></p>">
