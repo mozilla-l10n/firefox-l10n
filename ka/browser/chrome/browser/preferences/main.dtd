@@ -2,20 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "თავფურცელი">
+<!ENTITY startup.label             "გაშვება">
 
 <!ENTITY startupPage.label         "&brandShortName; სეანსის დაწყებისას:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "გადასვლა ჩემს საწყის გვერდზე">
-<!ENTITY startupBlankPage.label    "ცარიელი გვერდის გახსნა">
-<!ENTITY startupLastSession.label  "ბოლო სეანსის ფანჯრებისა და დაფების ჩვენება">
+<!ENTITY startupHomePage.label     "ჩემი საწყისი გვერდის ჩვენება">
+<!ENTITY startupBlankPage.label    "ცარიელი გვერდის ჩვენება">
+<!ENTITY startupLastSession.label  "ბოლო სეანსის ფანჯრებისა და ჩანართების ჩვენება">
 
-
+<!ENTITY homepage.label            "საწყისი გვერდი:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "მიმდინარე გვერდის გამოყენება">
 <!ENTITY useCurrentPage.accesskey  "C">
-<!ENTITY useMultiple.label         "მიმდინარე გვერდის გამოყენება">
-
-
+<!ENTITY useMultiple.label         "მიმდინარე გვერდების გამოყენება">
+<!ENTITY chooseBookmark.label      "სანიშნის გამოყენება…">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "ნაგულისხმების აღდგენა">
 <!ENTITY restoreDefault.accesskey  "R">
 
@@ -23,19 +24,22 @@
 
 <!ENTITY saveTo.label "ფაილების შენახვა -">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "ნუსხა…">
+<!ENTITY chooseFolderWin.label        "დათვალიერება…">
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "შერჩევა…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ყოველთვის დამეკითხე ფაილების შენახვის ადგილს">
+<!ENTITY alwaysAsk.label "ყოველთვის შემეკითხე ფაილების შენახვის ადგილს">
 <!ENTITY alwaysAsk.accesskey "A">
 
+<!ENTITY alwaysCheckDefault2.label        "ყოველთვის შემოწმდეს თუ &brandShortName; თქვენი ნაგულისხმევი ბრაუზერია">
+<!ENTITY alwaysCheckDefault2.accesskey    "w">
+<!ENTITY setAsMyDefaultBrowser2.label     "ნაგულისხმებად დაყენება">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY isDefault.label                  "&brandShortName; ახლა თქვენი ნაგულისხმები ბრაუზერია">
+<!ENTITY isNotDefault.label               "&brandShortName; თქვენი ნაგულისხმები ბრაუზერი არაა">
 
+<!ENTITY separateProfileMode.label        "&brandShortName;-ის და Firefox-ის ერთად გაშვების ნების დართვა">
+<!ENTITY useFirefoxSync.label             "რჩევა: ეს ცალკეულ პროფილებს იყენებს. მათ შორის მონაცემების გასაზიარებლად Sync გამოიყენეთ.">
+<!ENTITY getStarted.label                 "Sync-ის გამოყენების დაწყება…">
 
-
-
-
-
-
-
-
+<!ENTITY e10sEnabled.label                "მრავალ-პროცესიანი &brandShortName;-ის ჩართვა">

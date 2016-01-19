@@ -2,17 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.label       "ახალი ფანჯრების ახალ ჩანართში გახსნა">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "გაფრთხილება მრავალი დაფის დახურვისას">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOpenManyTabs.label       "გამაფრთხილე, როდესაც მრავალი ჩანართის გახსნამ შესაძლოა &brandShortName; შეანელოს">
+<!ENTITY warnOpenManyTabs.accesskey   "d">
 
+<!ENTITY restoreTabsOnDemand.label        "არ ჩაიტვირთოს ჩანართი სანამ მასზე არ გადავალ">
+<!ENTITY restoreTabsOnDemand.accesskey    "u">
 
-
-
-
+<!ENTITY switchToNewTabs.label        "ბმულის ახალ ჩანართში გახსნისას მაშინვე მასზე გადასვლა">
+<!ENTITY switchToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "აჩვენე ტაბების ესკიზები Windows-ის სასტარტო ზოლში.">
 <!ENTITY showTabsInTaskbar.accesskey      "ტ">
