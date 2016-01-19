@@ -21,4 +21,6 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Web stranica <span id='unwanted_sitename'/> je prijavljena kao nesigurna stranica i blokirana je na temelju vaših sigurnosnih postavki.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nesigurne stranice pokušavaju instalirati programe koju su zavaravajući i mogu utjecati na vaš sustav na neočekivane načine.">
 
+<!ENTITY safeb.blocked.forbiddenPage.title "Zabranjena stranica">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Web stranica <span id='forbidden_sitename'/> je blokirana na temelju postavki vašeg preglednika.">
