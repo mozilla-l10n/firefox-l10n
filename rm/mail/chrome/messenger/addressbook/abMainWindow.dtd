@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Vista">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Travs d'utensils">
-<!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "T">
 <!ENTITY menubarCmd.label                               "Trav da menu">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Trav d'utensils dal cudeschet d'adressas">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Prevista dal contact">
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Mussar suandantamain il num">
-<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Prenum num">
-<!ENTITY firstLastCmd2.accesskey                        "P"> 
+<!ENTITY firstLastCmd2.accesskey                        "P">
 <!ENTITY lastFirstCmd.label                             "Num, prenum">
 <!ENTITY lastFirstCmd.accesskey                         "N">
 <!ENTITY displayNameCmd.label                           "Num per mussar">
@@ -128,7 +128,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.label                       "Preferenzas">
 <!ENTITY preferencesCmdUnix.accesskey                   "p">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Nov contact">
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Nova glista">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Messadi immediat">
 <!ENTITY newIM.accesskey                                "I">
+<!ENTITY printButton.label                              "Stampar…">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "Stizzar">
 <!ENTITY deleteButton2.accesskey                        "z">
 
@@ -148,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Modifitgar l'element tschernì">
 <!ENTITY newmsgButton.tooltip                           "Scriver in nov e-mail">
 <!ENTITY newIM.tooltip                                  "Scriver in nov messadi immediat (instant message) u in nov chat">
-<!ENTITY deleteButton2.tooltip                           "Stizzar l'element tschernì">
+<!ENTITY deleteButton2.tooltip                          "Stizzar l'element tschernì">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Cudeschets d'adressas">
@@ -212,11 +214,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Mussar questa adressa sin ina charta en il web">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "Fanestra">
-<!ENTITY minimizeWindow.label "Minimar">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Prender tuts enavant">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY windowMenu.label                               "Fanestra">
+<!ENTITY minimizeWindow.label                           "Minimar">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Prender tuts enavant">
+<!ENTITY zoomWindow.label                               "Zoom">

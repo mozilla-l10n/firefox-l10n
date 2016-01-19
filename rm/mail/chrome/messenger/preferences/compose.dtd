@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "f">
 <!ENTITY restoreHTMLDefaults.label            "Restaurar la successiun da standard">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Sch'il format da paragrafs vegn utilisà creescha la tasta enter in nov paragraf">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY spellCheck.label                     "Controllar l'ortografia avant che trametter">
 <!ENTITY spellCheck.accesskey                 "C">

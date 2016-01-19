@@ -82,20 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "Grondezza">
 <!ENTITY fontSizeMenu.accesskey "G">
-<!ENTITY size-xx-smallCmd.label "spezialmain pitschen">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "fitg pitschen">
-<!ENTITY size-x-smallCmd.accesskey "t">
+<!ENTITY size-tinyCmd.label "Pitschnin">
+<!ENTITY size-tinyCmd.accesskey "t">
 <!ENTITY size-smallCmd.label "pitschen">
 <!ENTITY size-smallCmd.accesskey "p">
 <!ENTITY size-mediumCmd.label "mesaun">
 <!ENTITY size-mediumCmd.accesskey "m">
 <!ENTITY size-largeCmd.label "grond">
 <!ENTITY size-largeCmd.accesskey "g">
-<!ENTITY size-x-largeCmd.label "fitg grond">
-<!ENTITY size-x-largeCmd.accesskey "f">
-<!ENTITY size-xx-largeCmd.label "spezialmain grond">
-<!ENTITY size-xx-largeCmd.accesskey "z">
+<!ENTITY size-extraLargeCmd.label "Fitg grond">
+<!ENTITY size-extraLargeCmd.accesskey "F">
+<!ENTITY size-hugeCmd.label "Extrem grond">
+<!ENTITY size-hugeCmd.accesskey "x">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Stil da la scrittira">
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Tscherner ina colur per text relevà">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Definir la grondezza da scrittira">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Empitschnir la grondezza da scrittira">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Engrondir la grondezza da scrittira">
 <!ENTITY boldToolbarCmd.tooltip "Grass">

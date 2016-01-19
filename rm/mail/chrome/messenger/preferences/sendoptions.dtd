@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Opziuns da trametter">
 <!ENTITY sendMail.title               "Format dal text">
+<!ENTITY autoDowngrade.label          "Trametter ils messadis sco text brut sche pussaivel">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Cun trametter messadis en il format HTML ad in u plirs destinaturs che na pon u na vulan tenor la glista betg retschaiver HTML:">
 <!ENTITY askMe.label                  "Dumandar tge far">
 <!ENTITY askMe.accesskey              "D">

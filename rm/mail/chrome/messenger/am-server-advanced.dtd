@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "a">
 <!ENTITY dualUseFolders.label "Il server sustegna ordinaturs che cuntegnan sutordinaturs e messadis">
 <!ENTITY dualUseFolders.accesskey "u">
-<!ENTITY useIdle.label "Utilisar il cumond IDLE sch'il server al sustegna">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Dumber maximal da connexiuns a servers mantegnidas">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Permetter al server da remplazzar quests spazis da nums">
 <!ENTITY overrideNamespaces.accesskey "P">
-<!ENTITY pop3Desc.label "Nua duai la posta entrada da quest conto vegnir memorisada?" >
-<!ENTITY accountDirectory.label "Posta entrada separada per quest conto">
-<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY pop3DeferringDesc.label "Memorisar novs messadis telechargiads dal server da quest conto en suandant ordinatur:" >
+<!ENTITY accountInbox.label "Posta entrada per quest conto">
+<!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Posta entrada d'in auter conto">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Includer quest conto cun retschaiver messadis">
