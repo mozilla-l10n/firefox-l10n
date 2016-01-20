@@ -16,8 +16,8 @@
 <!ENTITY helpMenuWin.accesskey    "К">
 
 
-
-
+<!ENTITY productHelp2.label       "&brandShorterName; Көмө">
+<!ENTITY productHelp2.accesskey   "К">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Кылгас клавиатура">
@@ -28,7 +28,8 @@
 
 
 
-
+<!ENTITY healthReport2.label      "&brandShorterName; туругун отчуота">
+<!ENTITY healthReport2.accesskey  "г">
 
 <!ENTITY helpTroubleshootingInfo.label      "Кыһалҕаны быһаарар туһунан">
 <!ENTITY helpTroubleshootingInfo.accesskey  "К">
@@ -36,13 +37,15 @@
 <!ENTITY helpFeedbackPage.label      "Бэйэҥ санааҕын ыыт…">
 <!ENTITY helpFeedbackPage.accesskey  "Б">
 
-
+<!ENTITY helpShowTour2.label            "&brandShorterName; Көмө">
+<!ENTITY helpShowTour2.accesskey        "К">
 
 <!ENTITY preferencesCmdMac.label        "Туруоруулар...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Сулууспалар">
 
+<!ENTITY hideThisAppCmdMac2.label       "Маны &brandShorterName; кистээ">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Атыны кистээ">
