@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Označite ako želite spremiti vašu lozinku">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Prikaži instalacijsku poruku aplikacije">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Upravljajte korištenjem priključaka na ovoj stranici">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Promijenite postavke primanja obavijesti od ove stranice">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Upravljajte dijeljenjem vaše kamere i/ili mikrofona sa stranicom">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Sa stranicom dijelite vašu kameru i/ili mikrofon">
@@ -410,17 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži okvir povijesti">
 <!ENTITY appMenuHelp.tooltip "Otvori izbornik pomoći">
 
-
+<!ENTITY appMenuRemoteTabs.label "Sinkronizirane kartice">
+<!ENTITY appMenuRemoteTabs.fetching.label "Preuzimanje sinkroniziranih kartica…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Nema otvorenih kartica">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Uključite sinkronizaciju kartica da biste vidjeli kartice s vaših ostalih uređaja.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Prijavite se u Firefox s ostalih uređaja da biste vidjeli tamošnje kartice ovdje.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Sync postavke">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se da biste vidjeli kartice s vaših ostalih uređaja.">
+<!ENTITY appMenuRemoteTabs.signin.label "Prijavite se u Sync">
 
 <!ENTITY customizeMenu.addToToolbar.label "Dodaj na alatnu traku">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -784,6 +788,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "Kartice preglednika">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "Sinkronizirane kartice">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
