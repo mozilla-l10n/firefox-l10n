@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "L'acesso a-a pòrta o l'é dizabilitou pe raxoin de seguessa">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "No trövo l'indirisso">
+<!ENTITY dnsNotFound.title "No treuvo l'indirisso">
 <!ENTITY dnsNotFound.longDesc "<ul>
   <li>Contròlla che l'indirisso o no l'agge di eroî comme
     <strong>ww</strong>.ezenpio.com invece de
@@ -63,7 +63,7 @@
 <!ENTITY proxyConnectFailure.title "O proxy o refua a conescion">
 <!ENTITY proxyConnectFailure.longDesc "<p>O navegatô o l'é inpostou pe uzâ un server proxy ma o proxy refua e conescioin.</p><ul><li>E inpostaçioin proxy do navegatô en giuste? Contròlla e preuva torna.</li><li>O proxy permette e conescioin da sta ræ?</li><li>Ti gh'æ ancon di problemi? Ciamma o teu aministratô da ræ ò fornitô de serviççi internet pe ascistensa.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "No tròvo o proxy">
+<!ENTITY proxyResolveFailure.title "No treuvo o proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>Contròlla se e inpostaçioin do proxy son giuste.</li>
   <li>Contròlla se o teu computer o l'agge 'na conescion che bonn-a.</li>

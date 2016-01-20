@@ -49,7 +49,7 @@
 <!ENTITY proxyConnectFailure.title "O proxy o refua a conescion">
 <!ENTITY proxyConnectFailure.longDesc "<p>O navegatô o l'é inpostou pe uzâ un server proxy ma o proxy o refua e conescioin.</p><ul><li>E inpostaçioin proxy do navegatô en giuste? Contròlla e preuva torna.</li><li>O proxy permette e conescioin da sta ræ?</li><li>Ti gh'æ torna di problemi? Ciamma o teu aministratô da ræ ò fornitô de serviççi internet pe ascistensa.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "No tròvo o proxy">
+<!ENTITY proxyResolveFailure.title "No treuvo o proxy">
 <!ENTITY proxyResolveFailure.longDesc "<p>O navegatô o l'é inpostou pe uzâ un server proxy ma o proxy o refua e conescioin.</p><ul><li>E inpostaçioin proxy do navegatô en giuste? Contròlla e preuva torna.</li><li>O proxy permette e conescioin da sta ræ?</li><li>Ti gh'æ torna di problemi? Ciamma o teu aministratô da ræ ò fornitô de serviççi internet pe ascistensa.</li></ul>">
 
 <!ENTITY redirectLoop.title "Redireçionn-a o Loop">
