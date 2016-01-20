@@ -21,11 +21,15 @@
 სისტემური უფლება მის ჩასადგმელად. გთხოვთ მიმართოთ თქვენს სისტემურ 
 ადმინს ან კვლავ სცადოთ სხვა ანგარიშით, რომელსაც შესაბამისი უფლებები 
 გააჩნია.">
-
+<!ENTITY  manualUpdate.space.desc         "ხელმისაწვდომია უსაფრთხოების და სტაბილურობის რეკომენდებული განახლება, მაგრამ თქვენ
+                                           მის დასაყენებლად საკმარისი ადგილი არ გაქვთ.">
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName; პროგრამის უახლესი ვერსიის გადაწერა ყოველთვის შეგიძლიათ აქედან:">
 
-
-
+<!ENTITY  unsupported.title               "სისტემა მხარდაუჭერელია">
+<!ENTITY  unsupported.label               "თქვენი &brandShortName; ვადაგასულია, მაგრამ უახლესი ვერსია
+                                           თქვენს სისტემაზე მხარდაჭერილი არაა. გთხოვთ განაახლეთ თქვენი სისტემა, შემდეგ კი ახლიდან სცადეთ.
+                                           ეს ცნობა აღარ გამოჩნდება, მაგრამ თქვენ შეგიძლიათ">
+<!ENTITY  unsupportedLink.label           "გაიგოთ მეტი.">
 
 <!ENTITY  incompatibleCheck.title         "პაკეტის თავსებადობის შემოწმება">
 <!ENTITY  incompatibleCheck.label         "თქვენი პაკეტების ახალი ვერსიების მოძიება…">
@@ -48,6 +52,7 @@
 
 <!ENTITY  incompatibleList.title          "მოიძებნა არათავსებადი პაკეტი">
 
+<!ENTITY  downloadPage.title              "&brandShortName; იტვირთება">
 <!ENTITY  downloading.intro               "განახლება იტვირთება…">
 <!ENTITY  connecting.label                "დაკავშირება განახლების სერვერთან…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ვერ ამოწმებს ჩამოტვირთული ზრდადი 
@@ -68,8 +73,6 @@
                                            
 <!ENTITY  errorpatching.intro             "ნაწილობრივი განახლება შეუძლებელია. 
 &brandShortName; კვლავ შეეცდება სრული განახლების გადმოტვირთვის გზით.">
-
-
 
 
 <!ENTITY  finishedPage.title              "განახლება მზადაა ჩასადგმელად">

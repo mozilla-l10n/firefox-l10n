@@ -1,19 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!ENTITY addons.windowTitle                   "დამატებების მმართველი">
 
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-
-
-
-
-
-
-
-
-
 
 
 <!ENTITY cmd.back.tooltip                     "უკან ერთი გვერდით">
@@ -21,28 +12,19 @@
 
 
 <!-- global warnings -->
-
 <!ENTITY warning.safemode.label                    "ყველა მოდული ამორთულია უსაფრთხო რეჟიმის მიერ.">
 <!ENTITY warning.checkcompatibility.label          "მოდულების თავსებადობის შემოწმება ამორთულია. შესაძლოა არათავსებადი მოდულები გქონდეთ.">
-
-
 <!ENTITY warning.updatesecurity.label              "მოდულის განახლების უსაფრთხოების შემოწმება ამორთულია. განახლებამ შესაძლებელია ზიანი მოგაყენოთ.">
-
 
 <!-- global informations -->
 
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "პაკეტების მიღება">
 
-
 <!-- addon updates -->
-
-
-
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -50,26 +32,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 
-
-
-
-
-
-
-
-
-
-
 <!-- addon actions -->
-
 <!ENTITY cmd.findUpdates.label                "განახლებების პოვნა">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-
-
-
-
-
-
 
 <!ENTITY cmd.enableAddon.label                "ჩართვა">
 <!ENTITY cmd.enableAddon.accesskey            "E">
@@ -77,87 +42,29 @@
 <!ENTITY cmd.disableAddon.accesskey           "D">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-
 <!-- detail view -->
-
 <!ENTITY detail.version.label                 "ვერსია">
-
-
-
 <!ENTITY detail.numberOfDownloads.label       "ჩამოტვირთვები">
 
 
 <!ENTITY detail.updateDefault.label           "ნაგულისხმები">
-
-
-
-
-
-
-
 <!ENTITY detail.size                          "ზომა">
 
 
 
-
-
-
-
-
-
 <!-- ratings -->
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "პაუზა">
 <!ENTITY progress.cancel.tooltip              "გაუქმება">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "სახელი">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
@@ -169,27 +76,13 @@
      necessary -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY eula.title                           "მომხმარებლის სალიცენზიო შეთანხმება">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "მიღება და ჩადგმა…">
 
 <!ENTITY settings.path.button.label           "ნუსხა…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
@@ -198,17 +91,9 @@
 <!ENTITY experiment.info.learnmore "დაწვრილებით">
 
 
-
-
-
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
