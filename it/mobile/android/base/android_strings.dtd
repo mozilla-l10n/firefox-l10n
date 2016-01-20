@@ -158,8 +158,10 @@
 <!ENTITY tab_queue_prompt_title "Apertura di più link">
 <!ENTITY tab_queue_prompt_text4 "Salvali fino alla successiva apertura di &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "È possibile modificare questa scelta in Impostazioni">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Attiva “Permit drawing over other apps”">
 <!ENTITY tab_queue_prompt_positive_action_button "Attiva">
 <!ENTITY tab_queue_prompt_negative_action_button "Non adesso">
+<!ENTITY tab_queue_prompt_settings_button "Vai a Impostazioni">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!ENTITY tab_queue_notification_text_plural2 "&formatD; schede in attesa">
 <!ENTITY tab_queue_notification_text_singular2 "1 scheda in attesa">
