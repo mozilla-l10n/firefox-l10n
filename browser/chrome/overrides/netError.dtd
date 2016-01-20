@@ -144,7 +144,6 @@
 <!ENTITY errorReporting.learnMore "Ulteriori informazioni…">
 <!ENTITY errorReporting.sending "Invio in corso">
 <!ENTITY errorReporting.sent "Segnalazione inviata">
-<!ENTITY errorReporting.report "Segnala">
 <!ENTITY errorReporting.tryAgain "Riprova">
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contattare l’amministratore del sito web e segnalare il problema.</li></ul></p>">
