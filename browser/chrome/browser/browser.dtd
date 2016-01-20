@@ -276,8 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Scrúdaigh Eilimint">
 <!ENTITY inspectContextMenu.accesskey "S">
 
-<!ENTITY responsiveDesignTool.label   "Dearadh Sofhreagrach">
-<!ENTITY responsiveDesignTool.accesskey "D">
+<!ENTITY responsiveDesignTool.label   "Amharc an Dearaidh Shofhreagraigh">
+<!ENTITY responsiveDesignTool.accesskey "A">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Dathphiocaire">
@@ -451,7 +451,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "m">
 <!ENTITY urlbar.switchToTab.label     "Téigh go cluaisín:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Ar mhaith leat do chuardaigh a fheabhsú trí mholtaí a sheoladh?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "An bhfuil fonn ort do chuardaigh a fheabhsú trí mholtaí a sheoladh?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Tuilleadh eolais…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Níl">
