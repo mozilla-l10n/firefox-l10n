@@ -81,7 +81,7 @@
 
 <!ENTITY filterOutput.placeholder "Scag an t-aschur">
 <!ENTITY btnClear.label        "Bánaigh">
-<!ENTITY btnClear.tooltip      "Glan aschur ón chonsól Gréasáin">
+<!ENTITY btnClear.tooltip      "Glan an t-aschur ón gConsól Gréasáin">
 <!ENTITY btnClear.accesskey    "B">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
