@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning "Si tratta di una funzione sperimentale. Non utilizzare senza la supervisione di un adulto.">
 <!ENTITY aboutNetworking.showNextTime "Visualizza nuovamente questo avviso in futuro">
 <!ENTITY aboutNetworking.ok "OK">
-<!ENTITY aboutNetworking.http "Http">
+<!ENTITY aboutNetworking.HTTP "HTTP">
 <!ENTITY aboutNetworking.sockets "Socket">
 <!ENTITY aboutNetworking.dns "DNS">
 <!ENTITY aboutNetworking.websockets "WebSocket">
