@@ -26,7 +26,7 @@
 <!ENTITY checkSpelling.label             "Corrigir ortografia ao escrever">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY dataChoicesTab.label            "Escolha de dados">
+<!ENTITY dataChoicesTab.label            "Escolhas de dados">
 
 <!ENTITY healthReportDesc.label          "Ajuda-o a compreender melhor o desempenho do seu navegador e partilha os seus dados com a &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Ativar o relatório de desempenho do &brandShortName;">
