@@ -135,3 +135,7 @@
 ">
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contattare l’amministratore del sito web e segnalare il problema.</li></ul></p>">
+<!ENTITY sslv3Used.title "Impossibile stabilire una connessione sicura">
+<!ENTITY sslv3Used.longDesc "Informazioni avanzate: SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY weakCryptoUsed.title "Questa connessione non è sicura">
+<!ENTITY weakCryptoUsed.longDesc "Informazioni avanzate: SSL_ERROR_NO_CYPHER_OVERLAP">
