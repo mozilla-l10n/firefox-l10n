@@ -127,19 +127,76 @@
 ">
 
 <!ENTITY nssFailure2.title "Безбедно повезивање није успело">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Страница коју покушавате да погледате се не може приказати јер се не може проверити веродостојност примљених података.</li>
+  <li>Контактирајте власнике веб странице да бисте их обавестили о овом проблему.</li>
+</ul>
+">
 
+<!ENTITY nssBadCert.title "Безбедно повезивање није успело">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Ово може бити проблем са подешавањем сервера или
+се неко други претвара да је овај сервер.</li>
+  <li>Ако сте се већ једном успешно повезали у прошлости, ова грешка је можда привремена
+покушати поново касније.</li>
+</ul>
+">
 
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Страница је привремено недоступна или сувише заузета. Пробајте поново
+    за који минут.</li>
+  <li>Ако не можете да учитате било коју страницу, проверите вашу мрежну везу
+    на рачунару.</li>
+  <li>Ако је су ваш рачунар или мрежа заштићени заштитним зидом или проксијем, постарајте се
+    да је &brandShortName;-у дозвољен приступ Интернету.</li>
+</ul>
+">
 
+<!ENTITY malwareBlocked.title "Сумњива нападна страница!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Нападне странице покушавају да инсталирају програме који краду ваше приватне податке, користе ваш рачунар за напад на друге или праве штету на вашем систему.</p>
+<p>Власници страница који верују да је њихова страница пријављена грешком као нападна страница могу да <a href='http://www.stopbadware.org/home/reviewinfo'>затраже преиспитивање пријаве</a>.</p>
+">
 
+<!ENTITY unwantedBlocked.title "Сумњива страница са непожељним софтвером!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Странице са непожељном софтвером покушавају да инсталирају програме који могу бити обмањујући и који могу да нашкоде вашем систему на неочекиване начине.</p>
+">
 
+<!ENTITY phishingBlocked.title "Сумњив веб фалсификат!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Унос било каквог личног податка на овој страници може довести до крађе идентитета или до других превара.</p>
+<p>Ове врсте веб фалсификата се користе у преварама које су познатије као фишинг (пецање) напади где се шкодне странице и електронске поруке користе да имитирају изворе којима можда већ верујете.</p>
+">
 
+<!ENTITY forbiddenBlocked.title "Забрањени сајт">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице јер је подешен да је блокира.</p>
+">
 
+<!ENTITY cspBlocked.title "Блокирано политиком безбедности садржаја">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин зато што страница има подешену политику безбедности садржаја која брани учитавање.</p>">
 
+<!ENTITY corruptedContentError.title "Грешка поквареног садржаја">
+<!ENTITY corruptedContentError.longDesc "<p>Садржај који покушавате да погледате се не може приказати јер је уочена грешка у преносу података.</p><ul><li>Контактирајте власнике да бисте их обавестили о овом проблему.</li></ul>">
 
+<!ENTITY securityOverride.linkText "Или можете додати изузетак…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Води ме одавде!">
+<!ENTITY securityOverride.exceptionButtonLabel "Додај изузетак…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
+<!ENTITY securityOverride.warningContent "
+<p>Не бисте требали да додајете изузетак ако користите интернет везу којој не верујете или ако нисте пре видели овакво упозорење за овај сервер.</p>
 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
+
+<!ENTITY remoteXUL.title "Удаљени XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Контактирајте власнике веб странице да бисте их обавестили о овом проблему.</li></ul></p>">
