@@ -63,7 +63,7 @@ gotyo (p.e. <strong>/</strong>.</li>
 
 <!ENTITY contentEncodingError.title "Tetepy mbopapapy jejavy">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li><li>Eñe'ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi.</li> 
+<li>Eñe'ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Koichagua marandurenda hekotee'ỹva">
@@ -118,7 +118,7 @@ mohendahavusúpe rupi.</li>
 <!ENTITY nssFailure2.title "Jeikekatu jejavýva">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>Kuatiarogue eikeseha ndaikatúi ehecha mba'ekuaarã og̃uahẽva ndaijeroviakatúi ndojehechajeýi rupi.</li> 
-<li><li>Ikatúpiko, eñe'ẽmi ñanduti renda jára ndive ha emombe'umi chupekuéra ko apañuãi rehegua.</li> 
+<li>Ikatúpiko, eñe'ẽmi ñanduti renda jára ndive ha emombe'umi chupekuéra ko apañuãi rehegua.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Jeikekatu ojavy">
