@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "550">
 
-
+<!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "კოპირება">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
@@ -21,7 +22,7 @@
 <!ENTITY  generalReferrer       "დამოწმება:">
 <!ENTITY  generalSource         "წყარო:">
 <!ENTITY  generalModified       "შეიცვალა:">
-
+<!ENTITY  generalEncoding2      "ტექსტის დაშიფვრა">
 <!ENTITY  generalMetaName       "სახელი">
 <!ENTITY  generalMetaContent    "შიგთავსი">
 
@@ -55,9 +56,10 @@
 <!ENTITY  permAllowSession      "დაშვება სეანსზე">
 <!ENTITY  permBlock             "დაბლოკვა">
 <!ENTITY  permissionsFor        "უფლებები:">
+<!ENTITY  permPlugins           "გააქტიურეთ პლაგინები">
 
-
-
+<!ENTITY  permClearStorage           "საცავის გასუფთავება">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "უსაფრთხოება">
 <!ENTITY  securityTab.accesskey "S">
@@ -65,17 +67,21 @@
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "უცნობია">
 
-<!ENTITY  securityView.identity.owner    "მფლობელი: ">
 
+<!ENTITY  securityView.identity.header   "ვებ-საიტის იდენტურობა">
+<!ENTITY  securityView.identity.owner    "მფლობელი: ">
+<!ENTITY  securityView.identity.domain   "ვებ-საიტი:">
 <!ENTITY  securityView.identity.verifier "შეამოწმა: ">
 
-
-
-<!ENTITY  securityView.privacy.viewCookies              "ნაჭდევების ჩვენება">
+<!ENTITY  securityView.privacy.header                   "კონფიდენციალურობის &amp; ისტორია">
+<!ENTITY  securityView.privacy.history                  "ამ ვებ-საიტზე დღემდე შემოსული ვარ?">
+<!ENTITY  securityView.privacy.cookies                  "ინახავს ეს ვებ-საიტი ჩემს კომპიუტერში ინფორმაციას (ფუნთუშებს)?">
+<!ENTITY  securityView.privacy.viewCookies              "ფუნთუშების ჩვენება">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-
+<!ENTITY  securityView.privacy.passwords                "ამ ვებ-საიტისთვის პაროლები შენახული მაქვს?">
 <!ENTITY  securityView.privacy.viewPasswords            "შენახული პაროლების ჩვენება">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "ტექნიკური დეტალები">
 
+<!ENTITY  helpButton.label                              "დახმარება">

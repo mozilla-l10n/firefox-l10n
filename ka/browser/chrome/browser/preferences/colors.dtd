@@ -6,10 +6,12 @@
 <!ENTITY  window.width                    "64em">
 <!ENTITY  window.macWidth                 "60em">
 
+<!ENTITY  overridePageColors.label        "გვერდის მიერ მითითებული ფერების უგუებელყოფა და ჩემი არჩევის გამოყენება:">
+<!ENTITY  overridePageColors.accesskey    "O">
 
-
-
-
+<!ENTITY  overridePageColors.always.label "ყოველთვის">
+<!ENTITY  overridePageColors.auto.label   "მხოლოდ მაღალი კონტრასტის თემებთან">
+<!ENTITY  overridePageColors.never.label  "არასდროს">
 
 <!ENTITY  color                           "ტექსტი და ფონი">
 <!ENTITY  textColor.label                 "ტექსტი:">

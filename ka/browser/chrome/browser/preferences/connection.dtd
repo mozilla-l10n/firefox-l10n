@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-
-
+<!ENTITY  socksRemoteDNS.label          "დისტანციური DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "პორტი:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -44,6 +44,5 @@
 <!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .gia.ge, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ყველა ოქმისთვის ამ პროქსის გამოყენება">
 <!ENTITY  shareproxy.accesskey          "s">
-
-
-
+<!ENTITY  autologinproxy.label          "არ მთხოვო ავთენტიფიკაცია თუ პაროლი შენახულია">
+<!ENTITY  autologinproxy.accesskey      "i">
