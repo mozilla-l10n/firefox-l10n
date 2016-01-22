@@ -3,30 +3,30 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "იმპორტი">
+<!ENTITY migrationWizard.title          "შემოტანის ოსტატი">
 
-<!ENTITY importFrom.label               "პარამეტრების, სანიშნეების, ისტორიის, პაროლებისა და სხვა მონაცემთა გადმოტანა:">
-<!ENTITY importFromUnix.label           "პარამეტრების, სანიშნეების, ისტორიის, პაროლებისა და სხვა მონაცემთა გადმოტანა:">
-<!ENTITY importFromBookmarks.label      "სანიშნეთა გადმოტანა:">
+<!ENTITY importFrom.label               "შემოიტანეთ პარამეტრები, სანიშნეები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
+<!ENTITY importFromUnix.label           "შემოიტანეთ პარამეტრები, სანიშნეები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
+<!ENTITY importFromBookmarks.label      "სანიშნეთა შემოტანა:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-
-
-<!ENTITY importFromNothing.label        "არაფრის გადმოტანა">
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromNothing.label        "არაფრის შემოტანა">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY importFromCanary.label         "Chrome Canary">
+<!ENTITY importFromCanary.accesskey     "n">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChromium.label       "Chromium">
+<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "ვერ მოიძებნა სანიშნეების, ისტორიის ან პაროლის მონაცემთა შემცველი პროგრამები.">
 
@@ -43,3 +43,4 @@
 <!ENTITY done.title                     "გადმოტანა დასრულდა">
 <!ENTITY done.label                     "გადმოტანილია შემდეგი ელემენტები:">
 
+<!ENTITY closeSourceBrowser.label       "გაგრძელებამდე დარწმუნდით, რომ არჩეული ბრაუზერი დახურულია.">
