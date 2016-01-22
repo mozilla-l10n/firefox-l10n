@@ -166,7 +166,7 @@
 ">
 
 <!ENTITY forbiddenBlocked.title "Blokeret websted">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde, da den har en indholdssikkerhedspolitik, der forbyder dette.</p>
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; blokerede denne side på grund af dine sikkerhedsindstillinger.</p>
 ">
 
 <!ENTITY cspBlocked.title "Blokeret grundet indholdssikkerhedspolitik">
