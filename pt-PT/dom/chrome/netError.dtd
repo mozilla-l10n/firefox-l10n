@@ -68,7 +68,7 @@
 
 <!ENTITY nssBadCert.title "A ligação segura falhou">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Este pode ser um problema com a configuração do servidor ou pode ser alguém a tentar fazer-se passar por este servidor.</li> 
+<li>Este pode ser um problema com a configuração do servidor, ou pode ser alguém a tentar fazer-se passar pelo servidor.</li> 
 <li>Se se ligou a este servidor no passado, o erro pode ser temporário e pode tentar mais tarde.</li> 
 </ul>">
 
