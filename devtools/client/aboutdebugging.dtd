@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Tilføjelser">
 <!ENTITY aboutDebugging.addonDebugging.label       "Aktiver debugging af tilføjelser">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Ved at aktivere dette kan du debugge tilføjelser og forskellige andre dele af browserens chrome">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Indlæs midlertidig tilføjelse">
 <!ENTITY aboutDebugging.workers                    "Workers">
