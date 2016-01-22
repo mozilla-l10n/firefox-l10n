@@ -23,20 +23,20 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Надсилати сповіщення про набір у бесідах">
 <!ENTITY  sendTyping.accesskey          "н">
 
-<!ENTITY  chatNotifications.label             "When messages directed at you arrive:">
-<!ENTITY  desktopChatNotifications.label      "Show a notification:">
-<!ENTITY  desktopChatNotifications.accesskey  "c">
-<!ENTITY  completeNotification.label          "with sender's name and message preview">
-<!ENTITY  buddyInfoOnly.label                 "with sender's name only">
-<!ENTITY  dummyNotification.label             "without any info">
-<!ENTITY  chatSound.accesskey                 "d">
-<!ENTITY  chatSound.label                     "Play a sound">
-<!ENTITY  play.label                          "Play">
-<!ENTITY  play.accesskey                      "P">
-<!ENTITY  systemSound.label                   "Default system sound for new mail">
-<!ENTITY  systemSound.accesskey               "D">
-<!ENTITY  customsound.label                   "Use the following sound file">
-<!ENTITY  customsound.accesskey               "U">
-<!ENTITY  browse.label                        "Browse…">
-<!ENTITY  browse.accesskey                    "B">
+<!ENTITY  chatNotifications.label             "Коли прибувають направлені вам повідомлення:">
+<!ENTITY  desktopChatNotifications.label      "Показувати сповіщення:">
+<!ENTITY  desktopChatNotifications.accesskey  "о">
+<!ENTITY  completeNotification.label          "з ім'ям відправника і переглядом повідомлення">
+<!ENTITY  buddyInfoOnly.label                 "лише з ім'ям відправника">
+<!ENTITY  dummyNotification.label             "без жодної інформації">
+<!ENTITY  chatSound.accesskey                 "з">
+<!ENTITY  chatSound.label                     "Відтворювати звук">
+<!ENTITY  play.label                          "Відтворити">
+<!ENTITY  play.accesskey                      "и">
+<!ENTITY  systemSound.label                   "Типовий системний звук для нової пошти">
+<!ENTITY  systemSound.accesskey               "Т">
+<!ENTITY  customsound.label                   "Використовувати наступний звуковий файл">
+<!ENTITY  customsound.accesskey               "а">
+<!ENTITY  browse.label                        "Огляд…">
+<!ENTITY  browse.accesskey                    "л">
 
