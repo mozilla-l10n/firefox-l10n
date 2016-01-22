@@ -2,16 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  blockPopups.label           "ფირნიშების დაბლოკვა">
+<!ENTITY  popups.label                "ამომხტარი ფანჯრები">
+
+<!ENTITY  blockPopups.label           "ამომხტარი ფანჯრების დაბლოკვა">
 <!ENTITY  blockPopups.accesskey       "B">
 
-
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "შეტყობინებები">
+<!ENTITY  notificationsPolicyLearnMore.label   "შეიტყვეთ მეტი">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
 
 <!ENTITY  popupExceptions.label       "გამონაკლისები…">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -34,9 +32,9 @@
 <!ENTITY chooseButton.label           "შერჩევა…">
 <!ENTITY chooseButton.accesskey       "o">
 
-
 <!ENTITY translateExceptions.label    "გამონაკლისები…">
 <!ENTITY translateExceptions.accesskey "x">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -45,7 +43,5 @@
   -  browser/translation.dtd
   -->
 <!ENTITY translation.options.attribution.afterLogo "">
-
-
 
 
