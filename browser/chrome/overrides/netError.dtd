@@ -205,11 +205,10 @@ functionality specific to firefox. -->
 ">
 
 <!ENTITY errorReporting.automatic2 "Indberet automatisk fejl som denne for at hjælpe Mozilla med at identificere og blokere ondsindede websteder.">
-<!ENTITY errorReporting.automatic "Rapporter fejl automatisk i fremtiden">
 <!ENTITY errorReporting.learnMore "Læs mere…">
 <!ENTITY errorReporting.sending "Sender rapport">
 <!ENTITY errorReporting.sent "Rapport sendt">
-<!ENTITY errorReporting.report "Rapport">
+<!ENTITY errorReporting.report "Rapporter">
 <!ENTITY errorReporting.tryAgain "Prøv igen">
 
 <!ENTITY remoteXUL.title "Remote XUL">

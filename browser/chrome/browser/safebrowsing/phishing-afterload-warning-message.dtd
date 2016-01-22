@@ -14,7 +14,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Anmeldt websted med uønskede programmer!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Webstedet <span id='unwanted_sitename'/> er blevet anmeldt for at indeholde uønskede programmer og er blevet blokeret i henhold til dine sikkerhedsindstillinger.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Webstedet <span id='unwanted_sitename'/> er blevet anmeldt for at indeholde uønskede programmer og er blevet blokeret på grund af dine sikkerhedsindstillinger.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Websteder med uønskede programmer prøver at lokke dig til at installere programmer, der kan påvirke dit system på uventede måder.</p>">
 <!ENTITY safeb.blocked.phishingPage.title "Anmeldt netsvindel!">
 
