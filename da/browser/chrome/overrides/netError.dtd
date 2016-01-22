@@ -204,7 +204,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY errorReporting.automatic2 "Indberet automatisk fejl som denne for at hjælpe Mozilla med at dentificere og blokere ondsindede websteder.">
+<!ENTITY errorReporting.automatic2 "Indberet automatisk fejl som denne for at hjælpe Mozilla med at identificere og blokere ondsindede websteder.">
 <!ENTITY errorReporting.automatic "Rapporter fejl automatisk i fremtiden">
 <!ENTITY errorReporting.learnMore "Læs mere…">
 <!ENTITY errorReporting.sending "Sender rapport">
@@ -223,7 +223,7 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.title "Din forbindelse er ikke sikker">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Advanced info: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoUsed.longDesc2 "Advanceret info: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Avanceret">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber ville nemt kunne afsløre information, som du troede var sikker.">
 <!ENTITY weakCryptoAdvanced.override "USIKKERT: Forsøg at indlæse <span class='hostname'></span>, selvom den bruger forældet sikkerheds-teknologi">
