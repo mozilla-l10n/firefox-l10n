@@ -10,7 +10,7 @@
 <!ENTITY restorepage.problemDesc    "Mae &brandShortName; yn cael trafferth adfer eich ffenestri a'ch tabiau. Mae hyn fel arfer oherwydd tudalen gwe sydd wedi ei hagor yn ddiweddar.">
 <!ENTITY restorepage.tryThis        "Gallwch geisio:">
 <!ENTITY restorepage.restoreSome    "Tynnu un neu fwy o dabiau rydych yn meddwl gall achosi'r broblem">
-<!ENTITY restorepage.startNew       "Cychwyn seiwn pori gwbl newydd">
+<!ENTITY restorepage.startNew       "Cychwyn sesiwn pori gwbl newydd">
 
 <!ENTITY restorepage.tryagainButton "Adfer">
 <!ENTITY restorepage.restore.access "A">
