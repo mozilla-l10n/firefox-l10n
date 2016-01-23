@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Upozornit účastníky">
-<!ENTITY event.attendees.notifyundisclosed.label    "Upozornit každého účastníka samostatně">
+<!ENTITY event.attendees.notify.accesskey           "U">
+<!ENTITY event.attendees.notifyundisclosed.label    "Upozornit účastníky samostatně">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "s">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Pošle e-mail s upozorněním pro každého účastníka. Každá pozvánka obsahuje pouze jednoho účastníka, takže ostatní účastníci nemohou být odhaleni.">
 
 <!-- Keyboard Shortcuts -->
@@ -138,9 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "v">
 <!ENTITY event.email.tentative.attendees.label            "Napsat e-mail nezávazně přihlášeným účastníkům…">
 <!ENTITY event.email.tentative.attendees.accesskey        "n">
-<!ENTITY event.remove.attendees.label                     "Odebrat všechny účastníky...">
-<!ENTITY event.remove.attendees.accesskey                 "O">
+<!ENTITY event.remove.attendees.label2                    "Odebrat všechny účastníky">
+<!ENTITY event.remove.attendees.accesskey                 "v">
 <!ENTITY event.remove.attendee.label                      "Odebrat účastníka">
+<!ENTITY event.remove.attendee.accesskey                  "O">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Uložit a zavřít">
@@ -168,7 +171,7 @@
 <!ENTITY event.calendar.label                             "Kalendář:" >
 <!ENTITY event.calendar.accesskey                         "l">
 <!ENTITY event.attendees.label                            "Účastníci:" >
-<!ENTITY event.attendees.accesskey                        "a" >
+<!ENTITY event.attendees.accesskey                        "a">
 <!ENTITY event.alldayevent.label                          "Celodenní událost" >
 <!ENTITY event.alldayevent.accesskey                      "c">
 <!ENTITY event.from.label                                 "Začátek:" >
