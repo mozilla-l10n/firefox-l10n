@@ -32,8 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Rebuziñ ar berzhidi">
 <!ENTITY event.attendees.notifyundisclosed.label    "Pedadennoù hiniennel dispartiet">
+
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "An dibarzh-mañ a gas ur bedadenn dre bostel evit pep perzhiad. N'eus nemet chomlec'h postel an perzhiad er postel evit ma ne vefe ket diskuliet identelezh ar berzhidi all.">
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.task.key2               "D">
@@ -138,6 +138,7 @@
 
 
 
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Enrollañ ha serriñ">
@@ -157,8 +158,8 @@
 
 <!ENTITY event.title.textbox.label                        "Titl :" >
 <!ENTITY event.title.textbox.accesskey                    "i">
-
-
+<!ENTITY event.location.label                             "Lec'hiadur :" >
+<!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Rummad">
 <!ENTITY event.categories.accesskey                       "a">
 <!ENTITY event.categories.textbox.label                   "Ouzhpennañ ur rummad nevez" >
@@ -168,10 +169,10 @@
 
 <!ENTITY event.alldayevent.label                          "Degouezh war an devezh a-bezh" >
 <!ENTITY event.alldayevent.accesskey                      "w">
-<!ENTITY event.from.label                                 "Deraouiñ :" >
-<!ENTITY event.from.accesskey                             "D">
-<!ENTITY task.from.label                                  "Penn-kentañ :" >
-<!ENTITY task.from.accesskey                              "D">
+
+
+
+
 
 
 <!ENTITY task.to.label                                    "Devezh dleet :" >
@@ -180,8 +181,8 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Adkregiñ :" >
 <!ENTITY event.repeat.accesskey                           "A">
-<!ENTITY event.until.label                                "Betek :">
-<!ENTITY event.until.accesskey                            "k">
+
+
 <!ENTITY event.reminder.label                             "Adglav :" >
 <!ENTITY event.reminder.accesskey                         "g">
 <!ENTITY event.description.label                          "Deskrivadur :" >
