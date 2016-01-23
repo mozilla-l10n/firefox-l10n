@@ -32,8 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Hysbysu mynychwyr">
 <!ENTITY event.attendees.notifyundisclosed.label    "Gwahoddiad ar wahân i fynychwyr">
+
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Mae'r dewis hwn yn anfon un e-bost gwahoddiad i bob mynychwr. Bydd y gwahoddiad yn cynnwys y mynychwr sy'n derbyn yn unig, fel nad yw manylion mynychwyr eraill yn cael eu datgelu.">
 <!-- Keyboard Shortcuts -->
 
@@ -103,8 +103,8 @@
 
 <!ENTITY  event.menu.options.label                            "Dewisiadau">
 <!ENTITY  event.menu.options.accesskey                        "D">
-<!ENTITY  event.menu.options.attendees.label                  "Gwahodd Mynychwyr…">
-<!ENTITY  event.menu.options.attendees.accesskey              "M">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Dangos Cylchoedd Amser">
 <!ENTITY  event.menu.options.timezone2.accesskey              "D">
 <!ENTITY  event.menu.options.priority2.label                  "Blaenoriaeth">
@@ -132,15 +132,15 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Rhydd">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "R">
 
-<!ENTITY event.invite.attendees.label                     "Gwahodd Mynychwyr…">
-<!ENTITY event.invite.attendees.accesskey                 "Q">
+
 <!ENTITY event.email.attendees.label                      "Cyfansoddi E-bost i'r Holl Fynychwyr…">
 <!ENTITY event.email.attendees.accesskey                  "H">
 <!ENTITY event.email.tentative.attendees.label            "Cyfansoddi E-bost i Fynychwyr Ansicr…">
 <!ENTITY event.email.tentative.attendees.accesskey        "A">
-<!ENTITY event.remove.attendees.label                     "Tynnu'r holl fynychwyr...">
-<!ENTITY event.remove.attendees.accesskey                 "q">
-<!ENTITY event.remove.attendee.label                      "Tynnu mynychwr">
+
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Cadw a Chau">
@@ -167,24 +167,24 @@
 <!ENTITY event.categories.textbox.label                   "Ychwanegu categori newydd" >
 <!ENTITY event.calendar.label                             "Calendr:" >
 <!ENTITY event.calendar.accesskey                         "a">
-<!ENTITY event.attendees.label                            "Mynychwyr:" >
-<!ENTITY event.attendees.accesskey                        "M" >
+
+
 <!ENTITY event.alldayevent.label                          "Digwyddiad drwy'r Dydd" >
 <!ENTITY event.alldayevent.accesskey                      "D">
-<!ENTITY event.from.label                                 "Cychwyn:" >
-<!ENTITY event.from.accesskey                             "C">
-<!ENTITY task.from.label                                  "Cychwyn:" >
-<!ENTITY task.from.accesskey                              "y">
+
+
+
+
 <!ENTITY event.to.label                                   "Gorffen:" >
-<!ENTITY event.to.accesskey                               "x">
+
 <!ENTITY task.to.label                                    "Erbyn Dyddiad:" >
 <!ENTITY task.to.accesskey                                "E">
 <!ENTITY task.status.label                                "Statws:" >
 <!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Ailadrodd:" >
 <!ENTITY event.repeat.accesskey                           "A">
-<!ENTITY event.until.label                                "Tan:">
-<!ENTITY event.until.accesskey                            "T">
+
+
 <!ENTITY event.reminder.label                             "Atgoffwr:" >
 <!ENTITY event.reminder.accesskey                         "t">
 <!ENTITY event.description.label                          "Disgrifiad:" >
