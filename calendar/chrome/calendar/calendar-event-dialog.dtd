@@ -33,7 +33,9 @@
    - they still fit in. -->
 
 <!ENTITY event.attendees.notify.label               "Cuir fios dha na freastalaichean">
+<!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Cuireadh an t-aon do gach frithealaiche">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Ma thaghas tu seo, thèid cuireadh an t-aon a chur do gach frithealaiche. Chan fhaicear anns gach cuireadh ach ainm an neach ud agus chan fhaicear ainmean chàich.">
 <!-- Keyboard Shortcuts -->
 
@@ -133,14 +135,15 @@
 <!ENTITY  event.menu.options.show.time.free.accesskey         "S">
 
 <!ENTITY event.invite.attendees.label                     "Thoir cuireadh do dh’fhreastalaichean…">
-<!ENTITY event.invite.attendees.accesskey                 "Q">
+<!ENTITY event.invite.attendees.accesskey                 "i">
 <!ENTITY event.email.attendees.label                      "Sgrìobh post-dealain dhan a h-uile freastalaiche…">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Sgrìobh post-dealain dha na freastalaichean nach eil cinnteach fhathast…">
 <!ENTITY event.email.tentative.attendees.accesskey        "S">
-<!ENTITY event.remove.attendees.label                     "Thoir air falbh gach freastalaiche...">
-<!ENTITY event.remove.attendees.accesskey                 "q">
+<!ENTITY event.remove.attendees.label2                    "Thoir air falbh gach freastalaiche...">
+<!ENTITY event.remove.attendees.accesskey                 "r">
 <!ENTITY event.remove.attendee.label                      "Thoir am freastalaiche air falbh">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Sàbhail is dùin e">
@@ -161,14 +164,14 @@
 <!ENTITY event.title.textbox.label                        "Tiotal:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Àite:" >
-<!ENTITY event.location.accesskey                         "t">
+<!ENTITY event.location.accesskey                         "i">
 <!ENTITY event.categories.label                           "Roinn-seòrsa:">
 <!ENTITY event.categories.accesskey                       "R">
 <!ENTITY event.categories.textbox.label                   "Cuir roinn-seòrsa ùr ris" >
 <!ENTITY event.calendar.label                             "Mìosachan:" >
 <!ENTITY event.calendar.accesskey                         "c">
 <!ENTITY event.attendees.label                            "Freastalaichean:" >
-<!ENTITY event.attendees.accesskey                        "s" >
+<!ENTITY event.attendees.accesskey                        "n">
 <!ENTITY event.alldayevent.label                          "Tachartas fad an latha" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Àm-tòiseachaidh:" >
@@ -176,7 +179,7 @@
 <!ENTITY task.from.label                                  "Àm-tòiseachaidh:" >
 <!ENTITY task.from.accesskey                              "s">
 <!ENTITY event.to.label                                   "Àm-crìochnachaidh:" >
-<!ENTITY event.to.accesskey                               "x">
+<!ENTITY event.to.accesskey                               "u">
 <!ENTITY task.to.label                                    "Ceann-ama:" >
 <!ENTITY task.to.accesskey                                "C">
 <!ENTITY task.status.label                                "Cor:" >
@@ -184,7 +187,7 @@
 <!ENTITY event.repeat.label                               "Dèan a-rithist:" >
 <!ENTITY event.repeat.accesskey                           "r">
 <!ENTITY event.until.label                                "Gu ruige:">
-<!ENTITY event.until.accesskey                            "i">
+<!ENTITY event.until.accesskey                            "B">
 <!ENTITY event.reminder.label                             "Cuir 'nam chuimhne:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Tuairisgeul:" >
