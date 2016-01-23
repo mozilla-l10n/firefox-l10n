@@ -32,9 +32,11 @@
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "通知参加者">
-<!ENTITY event.attendees.notifyundisclosed.label    "保持不在邀请函中披露与会者">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "这个选项为每个参加者发送一封邀请信。每封邀请信只包含收件方而不会暴露其他参加者。">
+<!ENTITY event.attendees.notify.label               "通知参与者">
+<!ENTITY event.attendees.notify.accesskey           "f">
+<!ENTITY event.attendees.notifyundisclosed.label    "分别邀请各参与者">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "此选项将分别为每个参与者发送一封邀请信。每封邀请信只包含收件方，而不会披露其他参与者。">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -138,9 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "A">
 <!ENTITY event.email.tentative.attendees.label            "编写邮件给待定的参与者…">
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
-<!ENTITY event.remove.attendees.label                     "删除所有与会者...">
+<!ENTITY event.remove.attendees.label2                    "移除所有参与者">
 <!ENTITY event.remove.attendees.accesskey                 "q">
-<!ENTITY event.remove.attendee.label                      "删除与会者">
+<!ENTITY event.remove.attendee.label                      "移除参与者">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "保存并关闭">
@@ -168,7 +171,7 @@
 <!ENTITY event.calendar.label                             "日历：" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "参与者：" >
-<!ENTITY event.attendees.accesskey                        "I" >
+<!ENTITY event.attendees.accesskey                        "I">
 <!ENTITY event.alldayevent.label                          "全天事件" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "开始：" >
