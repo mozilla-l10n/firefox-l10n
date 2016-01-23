@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Уведомить участников">
+<!ENTITY event.attendees.notify.accesskey           "в">
 <!ENTITY event.attendees.notifyundisclosed.label    "Разделить приглашения по участникам">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "з">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Эта настройка позволяет отправить эл.письмо с приглашением каждому участнику по отдельности. Каждое приглашение индивидуально и другие участники не раскрываются.">
 
 <!-- Keyboard Shortcuts -->
@@ -138,9 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "С">
 <!ENTITY event.email.tentative.attendees.label            "Создать сообщение для неопределившихся участников…">
 <!ENTITY event.email.tentative.attendees.accesskey        "о">
-<!ENTITY event.remove.attendees.label                     "Удалить всех участников…">
+<!ENTITY event.remove.attendees.label2                    "Удалить всех участников">
 <!ENTITY event.remove.attendees.accesskey                 "а">
 <!ENTITY event.remove.attendee.label                      "Удалить участника">
+<!ENTITY event.remove.attendee.accesskey                  "л">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Сохранить и закрыть">
@@ -168,7 +171,7 @@
 <!ENTITY event.calendar.label                             "Календарь:" >
 <!ENTITY event.calendar.accesskey                         "а">
 <!ENTITY event.attendees.label                            "Участники:" >
-<!ENTITY event.attendees.accesskey                        "У" >
+<!ENTITY event.attendees.accesskey                        "У">
 <!ENTITY event.alldayevent.label                          "Весь день" >
 <!ENTITY event.alldayevent.accesskey                      "д">
 <!ENTITY event.from.label                                 "Начало:" >
