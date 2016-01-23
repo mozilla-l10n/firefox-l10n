@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Genodigden informeren">
+<!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Uitnodiging scheiden per genodigde">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "s">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Deze optie verzendt één e-mailuitnodiging per genodigde. Elke uitnodiging bevat alleen het adres van de genodigde, zodat identiteiten van andere genodigden niet openbaar zijn.">
 
 <!-- Keyboard Shortcuts -->
@@ -138,9 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "E-mail opstellen aan onbesliste genodigden…">
 <!ENTITY event.email.tentative.attendees.accesskey        "o">
-<!ENTITY event.remove.attendees.label                     "Alle genodigden verwijderen…">
+<!ENTITY event.remove.attendees.label2                    "Alle genodigden verwijderen">
 <!ENTITY event.remove.attendees.accesskey                 "v">
 <!ENTITY event.remove.attendee.label                      "Genodigde verwijderen">
+<!ENTITY event.remove.attendee.accesskey                  "w">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Opslaan en sluiten">
