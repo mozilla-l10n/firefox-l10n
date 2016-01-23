@@ -219,7 +219,7 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Weitere Informationen: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Ihre Verbindung ist nicht gesichert">
+<!ENTITY weakCryptoUsed.title "Diese Verbindung ist nicht sicher">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Weitere Informationen: SSL_ERROR_NO_CYPHER_OVERLAP">
