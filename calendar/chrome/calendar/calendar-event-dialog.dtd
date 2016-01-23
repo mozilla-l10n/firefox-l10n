@@ -24,7 +24,9 @@
 <!ENTITY newevent.status.completed.label "Completado el">
 <!ENTITY newtodo.percentcomplete.label "&#037; completo">
 <!ENTITY event.attendees.notify.label "Notificar a asistentes">
+<!ENTITY event.attendees.notify.accesskey "f">
 <!ENTITY event.attendees.notifyundisclosed.label "Separar la invitación por asistente">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "S">
 <!ENTITY event.attendees.notifyundisclosed.tooltip "Esta opción envía un mensaje de invitación a cada asistente. Cada invitación sólo contiene un asistente como destinatario, de modo que no se revela al resto de asistentes.">
 <!ENTITY event.dialog.new.event.key2 "I">
 <!ENTITY event.dialog.new.task.key2 "D">
@@ -121,9 +123,10 @@
 <!ENTITY event.email.attendees.accesskey "A">
 <!ENTITY event.email.tentative.attendees.label "Redactar mensaje para los asistentes indecisos…">
 <!ENTITY event.email.tentative.attendees.accesskey "d">
-<!ENTITY event.remove.attendees.label "Eliminar todos los asistentes…">
+<!ENTITY event.remove.attendees.label2 "Eliminar todos los asistentes">
 <!ENTITY event.remove.attendees.accesskey "E">
 <!ENTITY event.remove.attendee.label "Eliminar asistente">
+<!ENTITY event.remove.attendee.accesskey "E">
 <!ENTITY event.toolbar.save.label "Guardar y cerrar">
 <!ENTITY event.toolbar.delete.label "Eliminar">
 <!ENTITY event.toolbar.attendees.label "Invitar a asistentes">
