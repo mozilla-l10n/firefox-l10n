@@ -157,11 +157,14 @@
 <!ENTITY tab_queue_prompt_title "¿Abrir múltiples enlaces?">
 <!ENTITY tab_queue_prompt_text4 "Guardarlos hasta que vuelva a abrir &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Puede cambiar esto más adelante en Ajustes">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Activar Permitir dibujar sobre otras aplicaciones">
 <!ENTITY tab_queue_prompt_positive_action_button "Activar">
 <!ENTITY tab_queue_prompt_negative_action_button "Ahora no">
+<!ENTITY tab_queue_prompt_settings_button "Ir a Ajustes">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!ENTITY tab_queue_notification_text_plural2 "&formatD; pestañas en espera">
 <!ENTITY tab_queue_notification_text_singular2 "1 pestaña en espera">
+<!ENTITY tab_queue_notification_settings "Para &quot;Abrir múltiples enlaces&quot;, active el permiso \'Dibujar sobre otras aplicaciones\' para &brandShortName;">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
@@ -348,10 +351,9 @@
 <!ENTITY home_last_tabs_empty "Sus pestañas recientes se mostrarán aquí.">
 <!ENTITY home_open_all "Abrir todo">
 <!ENTITY home_most_recent_empty "Los sitios web que ha visitado recientemente se mostrarán aquí.">
+<!ENTITY home_selected_empty "Los sitios web que visitó en el periodo seleccionado se muestran aquí.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: usar una &formatS1;pestaña privada nueva&formatS2; no guardará su historial.">
 <!ENTITY home_reading_list_empty "Los artículos que guarde para verlos más tarde aparecerán aquí.">
-<!ENTITY home_reading_list_hint3 "TRUCO: guarde artículos en su lista de lectura con una pulsación larga en el icono &formatI; cuando aparezca en la barra URL.">
-<!ENTITY home_reading_list_hint_accessible2 "TRUCO: guarde artículos en su lista de lectura con una pulsación larga en el botón del modo de lectura cuando aparezca en la barra URL.">
 <!ENTITY home_default_empty "No se ha podido encontrar contenido para este panel.">
 <!ENTITY home_move_up_to_filter "Volver a &formatS;">
 <!ENTITY home_remote_tabs_title "Pestañas sincronizadas">
