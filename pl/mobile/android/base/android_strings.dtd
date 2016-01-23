@@ -186,8 +186,10 @@
 <!ENTITY tab_queue_prompt_title "Otwieranie wielu odnośników">
 <!ENTITY tab_queue_prompt_text4 "Zachowywanie odnośników do następnego otwarcia programu &brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text2 "Można to zmienić później w ustawieniach">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Włącz „Zezwól na wyświetlanie nad innymi aplikacjami”">
 <!ENTITY tab_queue_prompt_positive_action_button "Włącz">
 <!ENTITY tab_queue_prompt_negative_action_button "Nie teraz">
+<!ENTITY tab_queue_prompt_settings_button "Przejdź do ustawień">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!ENTITY tab_queue_notification_text_plural2 "Oczekujące karty: &formatD;">
 <!ENTITY tab_queue_notification_text_singular2 "Jedna oczekująca karta">
