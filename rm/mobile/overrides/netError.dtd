@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Errur cun chargiar la pagina">
-<!ENTITY retry.label "Reempruvar">
+<!ENTITY retry.label "Empruvar anc ina giada">
 
 <!-- Specific error messages -->
 
@@ -29,7 +29,7 @@
       <button id='searchbutton'>Tschertgar</button>
     </div>
   <li>Sche naginas paginas na funcziunan, controllescha la connexiun da datas u da WLAN da tes apparat.
-    <button id='wifi'>Activar W-LAN</button>
+    <button id='wifi'>Activar WLAN</button>
   </li>
 </ul>
 ">

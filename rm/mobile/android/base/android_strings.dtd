@@ -426,7 +426,7 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Modifitgar">
 <!ENTITY contextmenu_top_sites_pin "Fixar la pagina">
 <!ENTITY contextmenu_top_sites_unpin "Betg pli fixar la pagina">
-<!ENTITY contextmenu_add_search_engine "Agiuntar ina maschina da tschertgar">
+<!ENTITY contextmenu_add_search_engine "Agiuntar maschina da tschertga">
 <!ENTITY contextmenu_mark_read "Marcar sco legì">
 <!ENTITY contextmenu_mark_unread "Marcar sco nunlegì">
 
