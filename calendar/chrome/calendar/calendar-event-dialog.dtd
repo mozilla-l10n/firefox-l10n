@@ -32,8 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Katılımcıları uyar">
 <!ENTITY event.attendees.notifyundisclosed.label    "Her katılımcı için ayrı davetiye">
+
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Bu seçenek katılımcı başına bir e-posta daveti gönderir. Her davet, diğer katılımcı kimliklerini ifşa etmeyecek şekilde alıcı katılımcıyı içerir.">
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.task.key2               "D">
@@ -138,6 +138,7 @@
 
 
 
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Kaydet ve kapat">
@@ -157,8 +158,8 @@
 
 <!ENTITY event.title.textbox.label                        "Başlık:" >
 <!ENTITY event.title.textbox.accesskey                    "B">
-
-
+<!ENTITY event.location.label                             "Konum:" >
+<!ENTITY event.location.accesskey                         "K">
 <!ENTITY event.categories.label                           "Kategori:">
 <!ENTITY event.categories.accesskey                       "o">
 <!ENTITY event.categories.textbox.label                   "Yeni kategori ekle" >
@@ -168,10 +169,10 @@
 
 <!ENTITY event.alldayevent.label                          "Tam günlük etkinlik" >
 <!ENTITY event.alldayevent.accesskey                      "ü">
-<!ENTITY event.from.label                                 "Başlangıç:" >
-<!ENTITY event.from.accesskey                             "n">
-<!ENTITY task.from.label                                  "Başlangıç:" >
-<!ENTITY task.from.accesskey                              "B">
+
+
+
+
 
 
 <!ENTITY task.to.label                                    "Son tarih:" >
@@ -180,8 +181,8 @@
 <!ENTITY task.status.accesskey                            "D">
 <!ENTITY event.repeat.label                               "Tekrarla:" >
 <!ENTITY event.repeat.accesskey                           "r">
-<!ENTITY event.until.label                                "Şu zamana kadar:">
-<!ENTITY event.until.accesskey                            "z">
+
+
 <!ENTITY event.reminder.label                             "Anımsatıcı:" >
 <!ENTITY event.reminder.accesskey                         "n">
 <!ENTITY event.description.label                          "Açıklama:" >
