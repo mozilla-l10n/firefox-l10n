@@ -26,6 +26,8 @@
    - they still fit in. -->
 
 
+
+
 <!-- Keyboard Shortcuts -->
 
 
@@ -79,6 +81,10 @@
 
 <!ENTITY  event.menu.view.toolbars.label                  "Գործիքագոտիներ">
 <!ENTITY  event.menu.view.toolbars.accesskey              "Գ">
+
+
+
+
 
 
 
@@ -293,6 +299,7 @@
 
 
 <!-- Attendees dialog -->
+
 
 
 
