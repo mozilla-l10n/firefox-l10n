@@ -140,7 +140,7 @@
 <!ENTITY event.email.attendees.accesskey                  "E">
 <!ENTITY event.email.tentative.attendees.label            "E-mail opstelle oan ûnbesliste dielnimmers…">
 <!ENTITY event.email.tentative.attendees.accesskey        "o">
-<!ENTITY event.remove.attendees.label2                    "Alle dielnimmers fuortsmite…">
+<!ENTITY event.remove.attendees.label2                    "Alle dielnimmers fuortsmite">
 <!ENTITY event.remove.attendees.accesskey                 "A">
 <!ENTITY event.remove.attendee.label                      "Dielnimmers fuortsmite">
 <!ENTITY event.remove.attendee.accesskey                  "f">
