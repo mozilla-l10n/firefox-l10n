@@ -32,8 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Ishtirokchilarga xabar berish">
 <!ENTITY event.attendees.notifyundisclosed.label    "Har bir ishtirokchiga alohida taklif">
+
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Buni tanlasangiz, har bir ishtirokchiga alohida taklif xatini jo‘natadi. Har bir takli faqatgina ishtirok etadigan qabul qiluvchini jamlagan, shunday ekan boshqa ishtirokchilar shaxsiy ma’lumotlari oshkor qilinmaydi.">
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.task.key2               "D">
@@ -138,6 +138,7 @@
 
 
 
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Saqlash va yopish">
@@ -157,8 +158,8 @@
 
 <!ENTITY event.title.textbox.label                        "Sarlavha:" >
 <!ENTITY event.title.textbox.accesskey                    "i">
-
-
+<!ENTITY event.location.label                             "Joylashuvi:" >
+<!ENTITY event.location.accesskey                         "l">
 <!ENTITY event.categories.label                           "Turkumi:">
 <!ENTITY event.categories.accesskey                       "T">
 <!ENTITY event.categories.textbox.label                   "Yangi turkum qo‘shish" >
@@ -168,10 +169,10 @@
 
 <!ENTITY event.alldayevent.label                          "Tadbir kunlik tadbir" >
 <!ENTITY event.alldayevent.accesskey                      "b">
-<!ENTITY event.from.label                                 "Boshlanishi:" >
-<!ENTITY event.from.accesskey                             "B">
-<!ENTITY task.from.label                                  "Boshlanishi:" >
-<!ENTITY task.from.accesskey                              "B">
+
+
+
+
 
 
 <!ENTITY task.to.label                                    "Tugash sanasi:" >
@@ -180,8 +181,8 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Takrorlash:" >
 <!ENTITY event.repeat.accesskey                           "T">
-<!ENTITY event.until.label                                "Ushbu vaqtgacha:">
-<!ENTITY event.until.accesskey                            "U">
+
+
 <!ENTITY event.reminder.label                             "Eslatkich:" >
 <!ENTITY event.reminder.accesskey                         "E">
 <!ENTITY event.description.label                          "Ta’rifi:" >
