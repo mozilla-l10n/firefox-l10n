@@ -32,6 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
+<!ENTITY event.attendees.notify.label               "Notificar participantes">
+<!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Separar convite por convidado">
 
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opção envia um convite por correio por pessoa. Cada convite apenas contém o destinatário do convite pelo que outros convidados não serão identificados.">
