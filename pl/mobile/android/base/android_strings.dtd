@@ -194,6 +194,8 @@
 <!ENTITY tab_queue_notification_text_plural2 "Oczekujące karty: &formatD;">
 <!ENTITY tab_queue_notification_text_singular2 "Jedna oczekująca karta">
 
+<!ENTITY tab_queue_notification_settings "Proszę włączyć uprawnienie „Wyświetlanie nad innymi aplikacjami” dla aplikacji &brandShortName;, aby móc używać funkcji „Otwieranie wielu odnośników”">
+
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazywanie">
 <!ENTITY pref_char_encoding_off "Bez pokazywania">
