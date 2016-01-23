@@ -32,8 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Notificar convidados">
 <!ENTITY event.attendees.notifyundisclosed.label    "Separar convite por convidado">
+
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opção envia um convite por correio por pessoa. Cada convite apenas contém o destinatário do convite pelo que outros convidados não serão identificados.">
 <!-- Keyboard Shortcuts -->
 
@@ -103,8 +103,8 @@
 
 <!ENTITY  event.menu.options.label                            "Opções">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attendees.label                  "Convidar participantes…">
-<!ENTITY  event.menu.options.attendees.accesskey              "i">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Mostrar fusos horários">
 <!ENTITY  event.menu.options.timezone2.accesskey              "s">
 <!ENTITY  event.menu.options.priority2.label                  "Prioridade">
@@ -132,15 +132,15 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Livre">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "i">
 
-<!ENTITY event.invite.attendees.label                     "Convidar participantes…">
-<!ENTITY event.invite.attendees.accesskey                 "Q">
+
 <!ENTITY event.email.attendees.label                      "Criar mensagem para todos participantes…">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Criar mensagem para os participantes indecisos…">
 <!ENTITY event.email.tentative.attendees.accesskey        "m">
-<!ENTITY event.remove.attendees.label                     "Remover todos os participantes...">
-<!ENTITY event.remove.attendees.accesskey                 "q">
-<!ENTITY event.remove.attendee.label                      "Remover participante">
+
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Guardar e fechar">
@@ -161,30 +161,30 @@
 <!ENTITY event.title.textbox.label                        "Título:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Localização:" >
-<!ENTITY event.location.accesskey                         "c">
+<!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Categoria:">
 <!ENTITY event.categories.accesskey                       "i">
 <!ENTITY event.categories.textbox.label                   "Adicionar nova categoria" >
 <!ENTITY event.calendar.label                             "Calendário:" >
 <!ENTITY event.calendar.accesskey                         "C">
-<!ENTITY event.attendees.label                            "Participantes:" >
-<!ENTITY event.attendees.accesskey                        "s" >
+
+
 <!ENTITY event.alldayevent.label                          "Evento de dia completo" >
 <!ENTITY event.alldayevent.accesskey                      "d">
-<!ENTITY event.from.label                                 "Início:" >
-<!ENTITY event.from.accesskey                             "I">
-<!ENTITY task.from.label                                  "Início:" >
-<!ENTITY task.from.accesskey                              "n">
+
+
+
+
 <!ENTITY event.to.label                                   "Fim:" >
-<!ENTITY event.to.accesskey                               "x">
+
 <!ENTITY task.to.label                                    "Fim previsto:" >
 <!ENTITY task.to.accesskey                                "v">
 <!ENTITY task.status.label                                "Estado:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Repetir:" >
 <!ENTITY event.repeat.accesskey                           "R">
-<!ENTITY event.until.label                                "Até:">
-<!ENTITY event.until.accesskey                            "t">
+
+
 <!ENTITY event.reminder.label                             "Lembrete:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Descrição:" >
