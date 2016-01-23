@@ -32,10 +32,14 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
+<!ENTITY event.attendees.notify.label               "Wobźělniki informěrowaś">
+<!ENTITY event.attendees.notify.accesskey           "l">
 <!ENTITY event.attendees.notifyundisclosed.label    "Źělone pśepšosenje na wobźělnika">
-
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "l">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Toś to nastajenje sćelo jadnu pśepšoseńsku mejlku na wobźělnika. Kužde pśepšosenje wopśimujo jano dostawajucego wobźělnika, tak až druge identity wobźělnikow se njepśeraźuju.">
 <!-- Keyboard Shortcuts -->
+
+<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -101,8 +105,8 @@
 
 <!ENTITY  event.menu.options.label                            "Nastajenja">
 <!ENTITY  event.menu.options.accesskey                        "N">
-
-
+<!ENTITY  event.menu.options.attendees.label                  "Wobźělniki pśepšosyś…">
+<!ENTITY  event.menu.options.attendees.accesskey              "o">
 <!ENTITY  event.menu.options.timezone2.label                  "Casowe cony pokazaś">
 <!ENTITY  event.menu.options.timezone2.accesskey              "c">
 <!ENTITY  event.menu.options.priority2.label                  "Priorita">
@@ -130,15 +134,16 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Wólny">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "W">
 
-
+<!ENTITY event.invite.attendees.label                     "Wobźělniki pśepšosyś…">
+<!ENTITY event.invite.attendees.accesskey                 "o">
 <!ENTITY event.email.attendees.label                      "Mejlku na wšykne wobźělniki spisaś…">
 <!ENTITY event.email.attendees.accesskey                  "M">
 <!ENTITY event.email.tentative.attendees.label            "Mejlku na njerozsuźone wobźělniki spisaś…">
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
-
-
-
-
+<!ENTITY event.remove.attendees.label2                    "Wšykne wobźělniki wótpóraś">
+<!ENTITY event.remove.attendees.accesskey                 "k">
+<!ENTITY event.remove.attendee.label                      "Wobźělnika wótpóraś">
+<!ENTITY event.remove.attendee.accesskey                  "b">
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Składowaś a zacyniś">
@@ -165,24 +170,24 @@
 <!ENTITY event.categories.textbox.label                   "Nowu kategoriju pśidaś" >
 <!ENTITY event.calendar.label                             "Kalender:" >
 <!ENTITY event.calendar.accesskey                         "K">
-
-
+<!ENTITY event.attendees.label                            "Wobźělniki:" >
+<!ENTITY event.attendees.accesskey                        "l">
 <!ENTITY event.alldayevent.label                          "Cełodnjowske tšojenje" >
 <!ENTITY event.alldayevent.accesskey                      "d">
-
-
-
-
-
-
+<!ENTITY event.from.label                                 "Start:" >
+<!ENTITY event.from.accesskey                             "S">
+<!ENTITY task.from.label                                  "Start:" >
+<!ENTITY task.from.accesskey                              "S">
+<!ENTITY event.to.label                                   "Kóńc:" >
+<!ENTITY event.to.accesskey                               "k">
 <!ENTITY task.to.label                                    "Termin:" >
 <!ENTITY task.to.accesskey                                "m">
 <!ENTITY task.status.label                                "Status:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Wóspjetowanje:" >
 <!ENTITY event.repeat.accesskey                           "W">
-
-
+<!ENTITY event.until.label                                "Až do:">
+<!ENTITY event.until.accesskey                            "A">
 <!ENTITY event.reminder.label                             "Dopomnjeśe:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Wopisanje:" >
@@ -199,8 +204,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "c" >
 <!ENTITY event.attachments.popup.removeAll.label          "Wšykno wótpóraś" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "W" >
-
-
+<!ENTITY event.attachments.popup.attachPage.label         "Webbok pśipowjesyś…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "b" >
 <!ENTITY event.url.label                                  "Pśisłušny wótkaz:" >
 <!ENTITY event.priority2.label                            "Priorita:">
 
@@ -349,7 +354,7 @@
 <!ENTITY event.attendee.usertype.group          "Kupka">
 <!ENTITY event.attendee.usertype.resource       "Resursa">
 <!ENTITY event.attendee.usertype.room           "Rumnosć">
-
+<!ENTITY event.attendee.usertype.unknown        "Njeznaty">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Pšosym pódajśo casowu conu">
