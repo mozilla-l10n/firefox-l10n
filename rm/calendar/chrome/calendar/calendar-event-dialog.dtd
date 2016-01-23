@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Infurmar ils participants">
+<!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Invitaziun seperada per mintga participant">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Questa opziun trametta in e-mail d'invitaziun seperà per mintga participant. Mintga invitaziun cuntegna be il participant da destinatur, uschè che las identitads dals auters participants na vegnan betg relevadas.">
 
 <!-- Keyboard Shortcuts -->
@@ -138,9 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "t">
 <!ENTITY event.email.tentative.attendees.label            "Scriver in e-mail als participants indecis…">
 <!ENTITY event.email.tentative.attendees.accesskey        "i">
-<!ENTITY event.remove.attendees.label                     "Allontanar tut ils participants…">
+<!ENTITY event.remove.attendees.label2                    "Allontanar tut ils participants">
 <!ENTITY event.remove.attendees.accesskey                 "c">
 <!ENTITY event.remove.attendee.label                      "Allontanar il participant">
+<!ENTITY event.remove.attendee.accesskey                  "l">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Memorisar e Serrar">
@@ -168,7 +171,7 @@
 <!ENTITY event.calendar.label                             "Chalender" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Participants:" >
-<!ENTITY event.attendees.accesskey                        "I" >
+<!ENTITY event.attendees.accesskey                        "I">
 <!ENTITY event.alldayevent.label                          "Tuttadi" >
 <!ENTITY event.alldayevent.accesskey                      "T">
 <!ENTITY event.from.label                                 "Cumenzament:" >
