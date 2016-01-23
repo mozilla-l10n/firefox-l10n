@@ -32,8 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Résztvevők értesítése">
 <!ENTITY event.attendees.notifyundisclosed.label    "Külön meghívó minden résztvevőnek">
+
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Ezzel minden résztvevőnek külön meghívó levelet küldhet. Minden meghívó csak a címzett résztvevőt tartalmazza, így a többi résztvevő személyazonossága nem kerül közzétételre.">
 <!-- Keyboard Shortcuts -->
 
@@ -103,8 +103,8 @@
 
 <!ENTITY  event.menu.options.label                            "Beállítások">
 <!ENTITY  event.menu.options.accesskey                        "B">
-<!ENTITY  event.menu.options.attendees.label                  "Résztvevők meghívása…">
-<!ENTITY  event.menu.options.attendees.accesskey              "R">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Időzónák megjelenítése">
 <!ENTITY  event.menu.options.timezone2.accesskey              "I">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritás">
@@ -132,15 +132,15 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Szabad">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "S">
 
-<!ENTITY event.invite.attendees.label                     "Résztvevők meghívása…">
-<!ENTITY event.invite.attendees.accesskey                 "h">
+
 <!ENTITY event.email.attendees.label                      "E-mail küldése minden résztvevőnek…">
 <!ENTITY event.email.attendees.accesskey                  "E">
 <!ENTITY event.email.tentative.attendees.label            "E-mail küldése a vissza nem jelzett résztvevőknek…">
 <!ENTITY event.email.tentative.attendees.accesskey        "m">
-<!ENTITY event.remove.attendees.label                     "Minden résztvevő eltávolítása…">
-<!ENTITY event.remove.attendees.accesskey                 "d">
-<!ENTITY event.remove.attendee.label                      "Résztvevő eltávolítása">
+
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Mentés és bezárás">
@@ -167,24 +167,24 @@
 <!ENTITY event.categories.textbox.label                   "Új kategória hozzáadása" >
 <!ENTITY event.calendar.label                             "Naptár:" >
 <!ENTITY event.calendar.accesskey                         "N">
-<!ENTITY event.attendees.label                            "Résztvevők:" >
-<!ENTITY event.attendees.accesskey                        "R" >
+
+
 <!ENTITY event.alldayevent.label                          "Egész napos esemény" >
 <!ENTITY event.alldayevent.accesskey                      "E">
-<!ENTITY event.from.label                                 "Kezdet:" >
-<!ENTITY event.from.accesskey                             "K">
-<!ENTITY task.from.label                                  "Kezdet:" >
-<!ENTITY task.from.accesskey                              "K">
+
+
+
+
 <!ENTITY event.to.label                                   "Vége:" >
-<!ENTITY event.to.accesskey                               "v">
+
 <!ENTITY task.to.label                                    "Határidő:" >
 <!ENTITY task.to.accesskey                                "H">
 <!ENTITY task.status.label                                "Állapot:" >
 <!ENTITY task.status.accesskey                            "l">
 <!ENTITY event.repeat.label                               "Ismétlés:" >
 <!ENTITY event.repeat.accesskey                           "I">
-<!ENTITY event.until.label                                "Eddig:">
-<!ENTITY event.until.accesskey                            "d">
+
+
 <!ENTITY event.reminder.label                             "Emlékeztető:" >
 <!ENTITY event.reminder.accesskey                         "E">
 <!ENTITY event.description.label                          "Leírás:" >
