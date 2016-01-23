@@ -174,3 +174,9 @@
 
 <!ENTITY remoteXUL.title "Zdalna treść XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul></p>">
+
+<!ENTITY sslv3Used.title "Nie udało się nawiązać bezpiecznego połączenia">
+<!ENTITY sslv3Used.longDesc "Szczegóły: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Połączenie nie gwarantuje bezpieczeństwa">
+<!ENTITY weakCryptoUsed.longDesc "Szczegóły: SSL_ERROR_NO_CYPHER_OVERLAP">
