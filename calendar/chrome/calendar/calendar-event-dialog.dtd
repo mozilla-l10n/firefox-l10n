@@ -32,8 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Wobdźělnikow informować">
 <!ENTITY event.attendees.notifyundisclosed.label    "Dźělene přeprošenje na wobdźělnika">
+
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Tute nastajenje sćele jedne přeprošensku e-mejlku na wobdźělnika. Kóžde přeprošenje wobsahuje jenož přijimaceho wobdźělnika, tak zo druhe identity wobdźělnikow so njepřeradźuja.">
 <!-- Keyboard Shortcuts -->
 
@@ -103,8 +103,8 @@
 
 <!ENTITY  event.menu.options.label                            "Nastajenja">
 <!ENTITY  event.menu.options.accesskey                        "N">
-<!ENTITY  event.menu.options.attendees.label                  "Wobdźělnikow přeprosyć…">
-<!ENTITY  event.menu.options.attendees.accesskey              "d">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Časowe pasma pokazać">
 <!ENTITY  event.menu.options.timezone2.accesskey              "s">
 <!ENTITY  event.menu.options.priority2.label                  "Priorita">
@@ -132,15 +132,15 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Swobodny">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "S">
 
-<!ENTITY event.invite.attendees.label                     "Wobdźělnikow přeprosyć…">
-<!ENTITY event.invite.attendees.accesskey                 "W">
+
 <!ENTITY event.email.attendees.label                      "E-mejlku na wšěch wobdźělnikow spisać…">
 <!ENTITY event.email.attendees.accesskey                  "E">
 <!ENTITY event.email.tentative.attendees.label            "E-mejlku na njerozsudźenych wobdźělnikow spisać…">
 <!ENTITY event.email.tentative.attendees.accesskey        "r">
-<!ENTITY event.remove.attendees.label                     "Wšěch wobdźělnikow wotstronić...">
-<!ENTITY event.remove.attendees.accesskey                 "d">
-<!ENTITY event.remove.attendee.label                      "Wobdźělnika wotstronić">
+
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Składować a začinić">
@@ -161,30 +161,30 @@
 <!ENTITY event.title.textbox.label                        "Titul:" >
 <!ENTITY event.title.textbox.accesskey                    "i">
 <!ENTITY event.location.label                             "Městno:" >
-<!ENTITY event.location.accesskey                         "s">
+<!ENTITY event.location.accesskey                         "M">
 <!ENTITY event.categories.label                           "Kategorija:">
 <!ENTITY event.categories.accesskey                       "g">
 <!ENTITY event.categories.textbox.label                   "Nowu kategoriju přidać" >
 <!ENTITY event.calendar.label                             "Protyka:" >
 <!ENTITY event.calendar.accesskey                         "r">
-<!ENTITY event.attendees.label                            "Wobdźělnicy:" >
-<!ENTITY event.attendees.accesskey                        "l" >
+
+
 <!ENTITY event.alldayevent.label                          "Cyłodnjowski podawk" >
 <!ENTITY event.alldayevent.accesskey                      "d">
-<!ENTITY event.from.label                                 "Start:" >
-<!ENTITY event.from.accesskey                             "S">
-<!ENTITY task.from.label                                  "Start:" >
-<!ENTITY task.from.accesskey                              "S">
+
+
+
+
 <!ENTITY event.to.label                                   "Kónc:" >
-<!ENTITY event.to.accesskey                               "K">
+
 <!ENTITY task.to.label                                    "Termin:" >
 <!ENTITY task.to.accesskey                                "m">
 <!ENTITY task.status.label                                "Status:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Wospjetowanje:" >
 <!ENTITY event.repeat.accesskey                           "W">
-<!ENTITY event.until.label                                "Hač do:">
-<!ENTITY event.until.accesskey                            "H">
+
+
 <!ENTITY event.reminder.label                             "Dopomnjeće:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Wopisanje:" >
