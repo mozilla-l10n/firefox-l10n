@@ -32,8 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Cuir in iúl don lucht freastail">
 <!ENTITY event.attendees.notifyundisclosed.label    "Cuireadh ar léith do gach rannpháirtí">
+
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Leis an rogha seo, seolfar teachtaireacht ar leith chuig gach rannpháirtí. Ní chuirfear ainmneacha ná seoltaí ríomhphoist na rannpháirtithe eile sa teachtaireacht.">
 <!-- Keyboard Shortcuts -->
 
@@ -103,8 +103,8 @@
 
 <!ENTITY  event.menu.options.label                            "Roghanna">
 <!ENTITY  event.menu.options.accesskey                        "o">
-<!ENTITY  event.menu.options.attendees.label                  "Tabhair Cuireadh Do Rannpháirtithe…">
-<!ENTITY  event.menu.options.attendees.accesskey              "T">
+
+
 <!ENTITY  event.menu.options.timezone2.label                  "Taispeáin Criosanna Ama">
 <!ENTITY  event.menu.options.timezone2.accesskey              "s">
 <!ENTITY  event.menu.options.priority2.label                  "Tosaíocht">
@@ -132,15 +132,15 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Saor">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "S">
 
-<!ENTITY event.invite.attendees.label                     "Tabhair Cuireadh Do Rannpháirtithe…">
-<!ENTITY event.invite.attendees.accesskey                 "Q">
+
 <!ENTITY event.email.attendees.label                      "Cum ríomhphost chuig an lucht freastail go léir…">
 <!ENTITY event.email.attendees.accesskey                  "g">
 <!ENTITY event.email.tentative.attendees.label            "Cum ríomhphost chuig an lucht freastail neamhdhearbhaithe…">
 <!ENTITY event.email.tentative.attendees.accesskey        "n">
-<!ENTITY event.remove.attendees.label                     "Bain gach rannpháirtí...">
-<!ENTITY event.remove.attendees.accesskey                 "q">
-<!ENTITY event.remove.attendee.label                      "Bain rannpháirtí">
+
+
+
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Sábháil agus Dún">
@@ -167,24 +167,24 @@
 <!ENTITY event.categories.textbox.label                   "Cuir catagóir nua leis" >
 <!ENTITY event.calendar.label                             "Féilire:" >
 <!ENTITY event.calendar.accesskey                         "F">
-<!ENTITY event.attendees.label                            "Rannpháirtithe:" >
-<!ENTITY event.attendees.accesskey                        "e" >
+
+
 <!ENTITY event.alldayevent.label                          "Imeacht ar feadh an lae" >
 <!ENTITY event.alldayevent.accesskey                      "d">
-<!ENTITY event.from.label                                 "Tús:" >
-<!ENTITY event.from.accesskey                             "T">
-<!ENTITY task.from.label                                  "Tosach:" >
-<!ENTITY task.from.accesskey                              "B">
+
+
+
+
 <!ENTITY event.to.label                                   "Deireadh:" >
-<!ENTITY event.to.accesskey                               "x">
+
 <!ENTITY task.to.label                                    "Dáta Dlite:" >
 <!ENTITY task.to.accesskey                                "D">
 <!ENTITY task.status.label                                "Stádas:" >
 <!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Athdhéan:" >
 <!ENTITY event.repeat.accesskey                           "A">
-<!ENTITY event.until.label                                "Go dtí:">
-<!ENTITY event.until.accesskey                            "d">
+
+
 <!ENTITY event.reminder.label                             "Meabhrúchán:" >
 <!ENTITY event.reminder.accesskey                         "M">
 <!ENTITY event.description.label                          "Cur Síos:" >
