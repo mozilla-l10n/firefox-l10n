@@ -406,8 +406,6 @@
 <!ENTITY home_selected_empty "Tutaj pojawiają się witryny odwiedzone w wybranym przedziale czasowym.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: W &formatS1;nowej karcie prywatnej&formatS2; historia nie jest zapisywana.">
 <!ENTITY home_reading_list_empty "Tutaj pojawiają się artykuły zachowane na później.">
-<!ENTITY home_reading_list_hint3 "Rada: Zachowaj artykuły do przeczytania później, przytrzymując ikonę &formatI; po jej pojawieniu się na pasku adresu.">
-<!ENTITY home_reading_list_hint_accessible2 "Rada: Zachowaj artykuły do przeczytania później, przytrzymując przycisk widoku ułatwionego czytania po jego pojawieniu się na pasku adresu.">
 
 <!ENTITY home_default_empty "Nie znaleziono treści do wyświetlenia na tym panelu.">
 
