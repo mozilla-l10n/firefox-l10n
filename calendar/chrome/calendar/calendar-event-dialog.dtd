@@ -32,8 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-<!ENTITY event.attendees.notify.label               "Beri tahu peserta">
 <!ENTITY event.attendees.notifyundisclosed.label    "Undangan ke masing-masing">
+
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.task.key2               "D">
@@ -138,6 +138,7 @@
 
 
 
+
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Simpan dan Tutup">
@@ -157,8 +158,8 @@
 
 <!ENTITY event.title.textbox.label                        "Judul:" >
 <!ENTITY event.title.textbox.accesskey                    "J">
-
-
+<!ENTITY event.location.label                             "Lokasi:" >
+<!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Kategori:">
 <!ENTITY event.categories.accesskey                       "K">
 
@@ -168,10 +169,10 @@
 
 <!ENTITY event.alldayevent.label                          "Acara Seharian" >
 <!ENTITY event.alldayevent.accesskey                      "S">
-<!ENTITY event.from.label                                 "Mulai:" >
-<!ENTITY event.from.accesskey                             "M">
-<!ENTITY task.from.label                                  "Mulai:" >
-<!ENTITY task.from.accesskey                              "M">
+
+
+
+
 
 
 <!ENTITY task.to.label                                    "Jatuh Tempo:" >
