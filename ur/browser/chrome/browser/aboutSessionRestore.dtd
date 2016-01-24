@@ -50,9 +50,9 @@ their language.
 <!ENTITY welcomeback2.link.pageInfo2        "مزید سیکھیں کہ آپ کیا کر سکتے ہیں۔">
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
-
-
-
-
+<!ENTITY tabgroupsmigration.pagetitle2          "ہم نے ٹیب گروپ ہٹا دئے ہے، لیکن ٹیب محفوظ کر دئے ہے">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "ٹیب گروپ متبادل ایڈ اون کے بارے میں اور سیکھیں۔">
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; نے آپکے سبھی گروپ کو نشان زد کر دیا ہے تو آپنے کچھ بھی نہیں کھو یا ہے۔">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "نشان زد ٹیب گروپ دکھائیں">
 
 
