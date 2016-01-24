@@ -164,7 +164,7 @@
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!ENTITY tab_queue_notification_text_plural2 "В очереди &formatD; вкладки(ок)">
 <!ENTITY tab_queue_notification_text_singular2 "В очереди 1 вкладка">
-<!ENTITY tab_queue_notification_settings "Для &quot;Открытия множества ссылок&quot;, пожалуйста, предоставьте &brandShortName; разрешение «Показ окон поверх других приложений»">
+<!ENTITY tab_queue_notification_settings "Для \&quot;Открытия множества ссылок\&quot;, пожалуйста, предоставьте &brandShortName; разрешение \'Показ окон поверх других приложений\'">
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
