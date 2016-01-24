@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Send meddelelse til deltagerne">
+<!ENTITY event.attendees.notify.accesskey           "S">
 <!ENTITY event.attendees.notifyundisclosed.label    "Separat invitation til hver deltager">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "e">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Med dette valg vil der blive sendt en separat mail til hver deltager. Hver invitation vil kun indeholde modtageren selv, så andre deltagere ikke vises.">
 
 <!-- Keyboard Shortcuts -->
@@ -135,12 +137,13 @@
 <!ENTITY event.invite.attendees.label "Inviter deltagere…">
 <!ENTITY event.invite.attendees.accesskey "I">
 <!ENTITY event.email.attendees.label "Skriv en mail til alle deltagere…">
-<!ENTITY event.email.attendees.accesskey "E">
+<!ENTITY event.email.attendees.accesskey "e">
 <!ENTITY event.email.tentative.attendees.label "Skriv en mail til ubeslutsomme deltagere…">
 <!ENTITY event.email.tentative.attendees.accesskey "u">
-<!ENTITY event.remove.attendees.label                     "Fjern alle deltagere...">
-<!ENTITY event.remove.attendees.accesskey                 "F">
-<!ENTITY event.remove.attendee.label                      "Fjern deltager">
+<!ENTITY event.remove.attendees.label2 "Fjern alle deltagere">
+<!ENTITY event.remove.attendees.accesskey "F">
+<!ENTITY event.remove.attendee.label "Fjern deltager">
+<!ENTITY event.remove.attendee.accesskey "j">
 
 <!-- Toolbar -->
 <!ENTITY event.toolbar.save.label "Gem og luk">
