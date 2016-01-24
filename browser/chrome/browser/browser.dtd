@@ -531,7 +531,7 @@
 <!ENTITY identity.connectionFile "Эта страница хранится на вашем компьютере.">
 <!ENTITY identity.connectionVerified1 "Вы подключились по защищённому соединению к этому сайту, управляемому:">
 <!ENTITY identity.connectionInternal "Это защищённая страница &brandShortName;.">
-<!ENTITY identity.insecureLoginForms "Ваш логин может быть скомпрометирован.">
+<!ENTITY identity.insecureLoginForms2 "Логины, введённые на этой странице, могут быть скомпрометированы.">
 <!ENTITY identity.activeBlocked "&brandShortName; заблокировал незащищённые части этой страницы.">
 <!ENTITY identity.passiveLoaded "Части этой страницы (такие как изображения) не защищены.">
 <!ENTITY identity.activeLoaded "Вы отключили защиту на этой странице.">

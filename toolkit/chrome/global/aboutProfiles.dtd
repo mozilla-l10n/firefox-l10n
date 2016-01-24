@@ -8,5 +8,3 @@
 <!ENTITY aboutProfiles.restart.title "Перезапустить">
 <!ENTITY aboutProfiles.restart.inSafeMode "Перезапустить с отключёнными дополнениями…">
 <!ENTITY aboutProfiles.restart.normal "Перезапустить в обычном режиме…">
-<!ENTITY aboutProfiles.profileManager.workOffline "Работать автономно">
-<!ENTITY aboutProfiles.profileManager.autoSelect "Запускать выделенный профиль без запроса">
