@@ -141,7 +141,7 @@
 <!ENTITY phishingBlocked.longDesc "<p>اس صفحے پر کوئی بھی نجی معلومات داخل کرنے سے شناخت کی چوری یا کسی اور قسم کا فراڈ ہو سکتا ہے۔</p> 
 <p>اس قسم کی ویب نقلیں فراڈ کے لیے استعمال کی جاتی ہیں اور انہیں فشنگ اٹیک کے نام سے جانا جاتا ہے۔ آس کے اندر نقلی ویب صفحے اور ای میل آپ کی جانی ہوئی چیزوں کی نقل کرنے کے لیے استعمال کیے جاتے ہیں۔</p>">
 
-
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; نے اس صفحہ کو لوڈ ہونے سے روک دیا کیونکہ اس  نے اسے بلاک پر تشکیل کیا ہے۔ </p> ">
 
 <!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
 <!ENTITY cspBlocked.longDesc "<p> نے اس صفحے کو اس طریقے سے لوڈ نہیں ہونے دیا کیونکہ اس صفحے کی مواد سکیورٹی پالیسی ہے جو اس کی اجازت نہیں دیتی۔ &brandShortName;</p>">
@@ -164,6 +164,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "Mozilla کی مدد کرے نقصان کردہ سائٹ کی شناخت اور بلاک کرنیں کے لئے اس طرح کی نقص رپورٹ کرے">
 <!ENTITY errorReporting.learnMore "مزید سیکھیں…">
 <!ENTITY errorReporting.sending "رپورٹ بھیج رہا ہے">
 <!ENTITY errorReporting.sent "رپورٹ بھیج دی گئی">
@@ -176,10 +177,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "حفاظتی طور پر جڑنے میں ناکام">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "اعلی معلومات: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "آپکا کنکشن ناقابل بھروسا ہے">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
+<!ENTITY weakCryptoUsed.longDesc2 "اعلی معلومات: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "اعلٰی ترین">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> سلامتی ٹیکنالوجی استعمال کرتا ہے جو بٰٰغد از تاریخ ہے اور حملہ کے لیے زد پزیر ہے۔ ایک حملاور آسانی سے معلومات افشا کرسکتا ہے جسے آپ محفوظ سمجھتے ہیں۔">
 <!ENTITY weakCryptoAdvanced.override "(ناقابل بھروسا) لوڈ کرنے کی کوشش کریں<span class='hostname'></span> پرانی سلامتی استعمال کرنے ہوئے">

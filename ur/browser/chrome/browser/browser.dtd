@@ -418,9 +418,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "یہاں انکے ٹیبیں دیکھنیں کے لئے اپنے دیگر آلات سے Firefox میں سائن ان کرے۔">
+<!ENTITY appMenuRemoteTabs.openprefs.label "ہمہ وقت ساز ترجیحات">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "ٹیبیں کی فہرست دیکھنیں کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
+<!ENTITY appMenuRemoteTabs.signin.label "ہم سازی کے لئے سائن ان کریں">
 
 <!ENTITY customizeMenu.addToToolbar.label "ٹول بار میں ڈالیں">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ڈ">
@@ -784,6 +785,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "براؤزر کے ٹیب">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "ہمہ وقت ساز ٹیب">
 
 <!ENTITY syncBrand.shortName.label    "ہمہ وار کریں">
 
