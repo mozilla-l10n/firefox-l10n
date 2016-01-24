@@ -157,11 +157,14 @@
 <!ENTITY tab_queue_prompt_title "Открываете много ссылок?">
 <!ENTITY tab_queue_prompt_text4 "Сохраните их до следующего открытия &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Вы можете изменить это позже в Параметрах">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Предоставить разрешение на показ окон поверх других приложений">
 <!ENTITY tab_queue_prompt_positive_action_button "Включить">
 <!ENTITY tab_queue_prompt_negative_action_button "Не сейчас">
+<!ENTITY tab_queue_prompt_settings_button "Перейти в Параметры">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!ENTITY tab_queue_notification_text_plural2 "В очереди &formatD; вкладки(ок)">
 <!ENTITY tab_queue_notification_text_singular2 "В очереди 1 вкладка">
+<!ENTITY tab_queue_notification_settings "Для &quot;Открытия множества ссылок&quot;, пожалуйста, предоставьте &brandShortName; разрешение \'Показ окон поверх других приложений\'">
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
@@ -348,10 +351,9 @@
 <!ENTITY home_last_tabs_empty "Ваши недавние вкладки появятся здесь.">
 <!ENTITY home_open_all "Открыть все">
 <!ENTITY home_most_recent_empty "Недавно посещённые вами веб-сайты появятся здесь.">
+<!ENTITY home_selected_empty "Веб-сайты, посещённые вами в выбранный период времени, отобразятся здесь.">
 <!ENTITY home_most_recent_emptyhint2 "Псс: при использовании &formatS1;Новой приватной вкладки&formatS2; ваша история сохраняться не будет.">
 <!ENTITY home_reading_list_empty "Статьи, сохранённые вами для последующего чтения, появятся здесь.">
-<!ENTITY home_reading_list_hint3 "Совет: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на значок &formatI;, когда он появится в панели адреса.">
-<!ENTITY home_reading_list_hint_accessible2 "Совет: Сохраните статьи в ваш список для чтения, произведя долгое нажатие на кнопку режима чтения, когда она появится в панели адреса.">
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
 <!ENTITY home_move_up_to_filter "Назад в &formatS;">
 <!ENTITY home_remote_tabs_title "Облачные вкладки">
