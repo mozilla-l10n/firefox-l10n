@@ -14,13 +14,6 @@
 
 <!ENTITY onboard_start_restricted1 "Bądź bezpieczny dzięki uproszczonej wersji przeglądarki &brandShortName;.">
 
-<!ENTITY firstrun_import_title "Importowanie">
-<!ENTITY firstrun_import_message "Witamy w przeglądarce &brandShortName;">
-<!ENTITY firstrun_import_subtext "Można zaimportować zakładki i historię z innej przeglądarki.">
-<!ENTITY firstrun_import_action "Prześlij do przeglądarki &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Prześlij">
-<!ENTITY firstrun_import_progress_title "Przesyłanie">
-
 <!ENTITY bookmarks_title "Zakładki">
 <!ENTITY history_title "Historia">
 <!ENTITY reading_list_title "Do przeczytania">
