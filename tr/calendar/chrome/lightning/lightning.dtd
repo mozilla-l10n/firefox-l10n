@@ -57,13 +57,13 @@
 <!ENTITY lightning.imipbar.btnMore.label                                    "Devamı">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Diğer seçenekleri görmek için tıklayın">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Yeniden onayla">
-
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Düzenleyene onay gönderir">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Kopyasını kaydet">
-
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Düzenleyene yanıt vermeden etkinliğin bir kopyasını takvime kaydet. Katılımcı listesi temizlenecektir.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Kesin değil">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Etkinlik davetini kesin olmadan kabul et">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Hepsi kesin değil">
-
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Bu etkinliğin tüm kopyaları için etkinlik davetini kesin olmadan kabul et">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Güncelle">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Takvimdeki etkinliği güncelle">
 <!ENTITY lightning.imipbar.description                                      "Bu ileti bir etkinliğe davetiyedir.">
