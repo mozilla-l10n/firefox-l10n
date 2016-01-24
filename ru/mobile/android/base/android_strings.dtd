@@ -7,16 +7,22 @@
 <!ENTITY firstrun_panel_title_welcome "Добро пожаловать">
 <!ENTITY onboard_start_message3 "Браузер &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Делает ваш мобильный веб-сёрфинг по-настоящему уникальным.">
-<!ENTITY onboard_start_button_account "Войти в &brandShortName;">
+<!ENTITY firstrun_urlbar_message "Добро пожаловать в &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Ускорьте свой поиск с помощью полезных ярлыков поисковых предложений.">
+<!ENTITY firstrun_bookmarks_title "История">
+<!ENTITY firstrun_bookmarks_message "Ваше любимое, на виду и в центре">
+<!ENTITY firstrun_bookmarks_subtext "При поиске получайте результаты из ваших закладок и истории.">
+<!ENTITY firstrun_data_title "Трафик">
+<!ENTITY firstrun_data_message "Меньше трафика, больше экономии">
+<!ENTITY firstrun_data_subtext "Блокируйте изображения, чтобы уменьшить расход трафика на каждом посещаемом сайте.">
+<!ENTITY firstrun_sync_title "Синхронизация">
+<!ENTITY firstrun_sync_message "&brandShortName; всегда рядом с вами">
+<!ENTITY firstrun_sync_subtext "Синхронизируйте свои вкладки, пароли и многое другое, везде, где вы его используете.">
+<!ENTITY firstrun_signin_message "Соединитесь и вперёд">
+<!ENTITY firstrun_signin_button "Войти в Синхронизацию">
 <!ENTITY onboard_start_button_browser "Начать веб-сёрфинг">
 <!ENTITY firstrun_button_next "Далее">
 <!ENTITY onboard_start_restricted1 "Будьте в безопасности и установите свой контроль с этой упрощённой версией &brandShortName;.">
-<!ENTITY firstrun_import_title "Импорт">
-<!ENTITY firstrun_import_message "Добро пожаловать в &brandShortName;">
-<!ENTITY firstrun_import_subtext "Импорт закладок и истории из другого браузера.">
-<!ENTITY firstrun_import_action "Передать в &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Передать">
-<!ENTITY firstrun_import_progress_title "Передача">
 <!ENTITY bookmarks_title "Закладки">
 <!ENTITY history_title "История">
 <!ENTITY reading_list_title "Список для чтения">
@@ -413,6 +419,8 @@
 <!ENTITY updater_downloading_retry2 "Нажмите для повтора">
 <!ENTITY updater_apply_title2 "Доступно обновление &brandShortName;">
 <!ENTITY updater_apply_select2 "Нажмите для обновления">
+<!ENTITY updater_permission_text "Чтобы загружать файлы и обновления, предоставьте &brandShortName; разрешение на доступ к хранилищу.">
+<!ENTITY updater_permission_allow "Предоставить">
 <!ENTITY new_guest_session "Новая гостевая сессия">
 <!ENTITY exit_guest_session "Выйти из гостевой сессии">
 <!ENTITY guest_session_dialog_continue "Продолжить">
