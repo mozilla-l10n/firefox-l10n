@@ -6,6 +6,7 @@
 <!ENTITY safeb.palm.decline.label "Игнорировать это предупреждение">
 <!ENTITY safeb.palm.notforgery.label2 "Это не мошеннический веб-сайт…">
 <!ENTITY safeb.palm.reportPage.label "Почему эта страница была заблокирована?">
+<!ENTITY safeb.palm.whyForbidden.label "Почему эта страница была заблокирована?">
 <!ENTITY safeb.blocked.malwarePage.title "Имеется информация, что эта веб-страница атакует компьютеры!">
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Имеется информация о том, что веб-страница <span id='malware_sitename'/> используется для атак на компьютеры пользователей. В соответствии с вашими настройками безопасности она была заблокирована.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Веб-страницы, атакующие компьютеры, пытаются установить программное обеспечение, которое похищает персональную информацию, вредит вашей системе или использует ваш компьютер для атак на другие компьютеры.</p> <p>Некоторые страницы намеренно созданы для распространения вредоносного программного обеспечения, однако многие страницы были взломаны и делают это без ведома или разрешения своих владельцев.</p>">
@@ -15,5 +16,5 @@
 <!ENTITY safeb.blocked.unwantedPage.title "Имеется информация, что этот сайт содержит нежелательные программы!">
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Имеется информация о том, что веб-страница <span id='unwanted_sitename'/> содержит нежелательные программы. В соответствии с вашими настройками безопасности она была заблокирована.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Страницы с нежелательными программами пытаются установить ПО, стремящееся вас обмануть и произвести неожиданные изменения на вашем устройстве.">
-<!ENTITY safeb.blocked.forbiddenPage.title "Запрещённый сайт">
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Веб-страница <span id='forbidden_sitename'/> была заблокирована в соответствии с настройками вашего браузера.">
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Сайт заблокирован">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Веб-страница <span id='forbidden_sitename'/> была заблокирована профилем вашего администратора.">
