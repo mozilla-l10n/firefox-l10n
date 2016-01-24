@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY msgComposeWindow.title "메일 쓰기: (제목 없음)">
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Write: (no subject)">
 
-<!-- File menu items -->
+<!-- File Menu -->
 <!ENTITY fileMenu.label "파일">
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "새로 만들기">
@@ -21,8 +21,8 @@
 <!ENTITY attachFileCmd.label "파일 첨부…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label		"파일 공유">
-<!ENTITY attachCloudCmd.accesskey	"i">
+<!ENTITY attachCloudCmd.label "파일 공유">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "웹 페이지 첨부…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -78,25 +78,25 @@
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "재보호">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
-<!ENTITY renameAttachmentCmd.label	"첨부 파일 이름 변경…">
-<!ENTITY renameAttachmentCmd.accesskey	"e">
 <!ENTITY deleteCmd.label "삭제">
 <!ENTITY deleteCmd.accesskey "d">
+<!ENTITY editRewrapCmd.label "재보호">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "첨부 파일 이름 변경…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "전체 선택">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findBarCmd.label "찾기…">
-<!ENTITY findBarCmd.key "F">
 <!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "찾아 바꾸기…">
 <!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "다시 찾기">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "이전 찾기">
 <!ENTITY findPrevCmd.accesskey "v">
@@ -144,12 +144,12 @@
 
 <!ENTITY returnReceiptMenu.label "수신 확인">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY autoFormatCmd.label "자동 선택">
-<!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY dsnMenu.label "메일 전달 상태 확인">
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY deliveryFormatMenu.label "전달 서식">
 <!ENTITY deliveryFormatMenu.accesskey "F">
+<!ENTITY autoFormatCmd.label "자동 선택">
+<!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "텍스트 형식으로">
 <!ENTITY plainTextFormatCmd.accesskey "p">
 <!ENTITY htmlFormatCmd.label "HTML 형식으로">
@@ -214,18 +214,18 @@
 <!ENTITY quoteButton.tooltip "이전 메시지 인용">
 <!ENTITY addressButton.tooltip "주소록에서 받는 사람 선택">
 <!ENTITY attachButton.tooltip "메시지에 파일 첨부">
-<!ENTITY spellingButton.tooltip		"선택한 텍스트 또는 메시지 맞춤법 검사하기">
+<!ENTITY spellingButton.tooltip "선택한 텍스트 또는 메시지 맞춤법 검사하기">
 <!ENTITY statusLanguageText.tooltip "맞춤법 검사 언어">
 <!ENTITY saveButton.tooltip "메시지 저장">
-<!ENTITY cutButton.tooltip "잘라내기">
-<!ENTITY copyButton.tooltip "복사">
-<!ENTITY pasteButton.tooltip "붙여넣기">
+<!ENTITY cutButton.tooltip              "잘라내기">
+<!ENTITY copyButton.tooltip             "복사">
+<!ENTITY pasteButton.tooltip            "붙여넣기">
 <!ENTITY printButton.tooltip "이 메시지 인쇄하기">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style		"width: 9em;">
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "보내는 사람:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "받는 사람:">
@@ -288,20 +288,24 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "파일 첨부…">
 <!ENTITY attachFile.accesskey "F">
-<!ENTITY attachCloud.label		"파일 공유…">
-<!ENTITY attachCloud.accesskey		"i">
-<!ENTITY convertCloud.label		"첨부 방식 전환…">
-<!ENTITY convertCloud.accesskey		"C">
-<!ENTITY cancelUpload.label		"업로드 취소">
-<!ENTITY cancelUpload.accesskey		"n">
-<!ENTITY convertRegularAttachment.label	"일반 첨부">
-<!ENTITY convertRegularAttachment.accesskey	"A">
+<!ENTITY attachCloud.label "파일 공유…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "첨부 방식 전환…">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "업로드 취소">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "일반 첨부">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "웹 페이지 첨부…">
 <!ENTITY attachPage.accesskey "W">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label	"맞춤법 사전 추가…">
-<!ENTITY spellAddDictionaries.accesskey	"A">
+<!ENTITY spellAddDictionaries.label "맞춤법 사전 추가…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
-<!ENTITY addressesSidebarTitle.label	"메일주소">
+<!ENTITY addressesSidebarTitle.label "메일주소">
+
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "보낸 사람 주소 설정…">
+<!ENTITY customizeFromAddress.accesskey "A">

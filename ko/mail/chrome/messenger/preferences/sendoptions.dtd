@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "보내기 설정">
 <!ENTITY sendMail.title               "텍스트 형식">
+<!ENTITY autoDowngrade.label          "가능하다면 메시지를 일반 텍스트로 보냄">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "HTML 형식으로 메시지를 보내고 수신자가 HTML 형식을 받을 수 없는 목록에 있을 때:">
 <!ENTITY askMe.label                  "다시 물어 보기">
 <!ENTITY askMe.accesskey              "k">

@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "새 메시지 확인">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "분 마다">
+<!ENTITY useIdleNotifications.label "새 메시지에 대한 즉시 서버 알림 허용">
+<!ENTITY useIdleNotifications.accesskey "w">
 <!ENTITY connectionSecurity.label "보안 연결:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "없음">
