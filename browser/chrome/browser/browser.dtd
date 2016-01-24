@@ -410,17 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Rodyti žurnalo parankinę">
 <!ENTITY appMenuHelp.tooltip "Atverti žinyno meniu">
 
-
+<!ENTITY appMenuRemoteTabs.label "Sinchronizuotos kortelės">
+<!ENTITY appMenuRemoteTabs.fetching.label "Gaunamos sinchronizuotos kortelės…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Nėra atvertų kortelių">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Įjunkite kortelių sinchronizavimą norėdami peržiūrėti kituose įrenginiuose esančias korteles">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Prisijunkite prie „Firefox“ iš kito savo įrenginio norėdami jo korteles matyti čia.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Sinchronizavimo nuostatos">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Prisijunkite norėdami peržiūrėti kituose įrenginiuose esančias korteles">
+<!ENTITY appMenuRemoteTabs.signin.label "Prisijungti prie „Sync“">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pridėti į priemonių juostą">
 <!ENTITY customizeMenu.addToToolbar.accesskey "P">
@@ -784,6 +788,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "Kortelių juosta">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "Sinchronizuotos kortelės">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 

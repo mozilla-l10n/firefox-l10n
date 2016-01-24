@@ -32,4 +32,4 @@ prie ryšio su svetaine buvo „prikišti nagai“.</b>">
 <!ENTITY certerror.expert.contentPara2 "Nekurkite išimties, nebent gerai žinote, 
 kodėl ši svetainė nenaudoja patikimo liudijimo savo tapatumui užtikrinti.">
 <!ENTITY certerror.addException.label "Sukurti išimtį…">
-
+<!ENTITY certerror.copyToClipboard.label "Kopijuoti tekstą į iškarpinę">
