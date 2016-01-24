@@ -14,6 +14,9 @@
 <!ENTITY firstrun_bookmarks_title "Historia">
 <!ENTITY firstrun_bookmarks_message "Ulubione strony, zawsze dostępne">
 <!ENTITY firstrun_bookmarks_subtext "Wyświetlaj wyniki z zakładek i historii podczas wyszukiwania.">
+<!ENTITY firstrun_data_title "Dane">
+<!ENTITY firstrun_data_message "Mniej danych, więcej oszczędności">
+<!ENTITY firstrun_data_subtext "Blokuj obrazy, aby zmniejszyć zużycie danych.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, zawsze blisko">
 <!ENTITY firstrun_sync_subtext "Synchronizuj karty, hasła i wiele więcej między wszystkimi urządzeniami.">
