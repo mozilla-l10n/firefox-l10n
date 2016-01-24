@@ -5,7 +5,7 @@
 <!ENTITY event.title.label "Rediger element">
 
 <!ENTITY event.dialog.keepDurationButton.tooltip  "Behold varighed, når du ændrer slutdato">
-<!ENTITY event.dialog.keepDurationButton.accesskey "å">
+<!ENTITY event.dialog.keepDurationButton.accesskey "x">
 
 <!ENTITY newevent.from.label "Fra">
 <!ENTITY newevent.to.label "Til">
@@ -33,9 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Send meddelelse til deltagerne">
-<!ENTITY event.attendees.notify.accesskey           "S">
+<!ENTITY event.attendees.notify.accesskey           "m">
 <!ENTITY event.attendees.notifyundisclosed.label    "Separat invitation til hver deltager">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "e">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "p">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Med dette valg vil der blive sendt en separat mail til hver deltager. Hver invitation vil kun indeholde modtageren selv, så andre deltagere ikke vises.">
 
 <!-- Keyboard Shortcuts -->
@@ -189,7 +189,7 @@
 <!ENTITY event.until.label                                "Indtil:">
 <!ENTITY event.until.accesskey                            "I">
 <!ENTITY event.reminder.label "Påmindelse:">
-<!ENTITY event.reminder.accesskey "P">
+<!ENTITY event.reminder.accesskey "å">
 <!ENTITY event.description.label "Beskrivelse:">
 <!ENTITY event.description.accesskey "e">
 <!ENTITY event.attachments.label "Vedhæftede filer:">
