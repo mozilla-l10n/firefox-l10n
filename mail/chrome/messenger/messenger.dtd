@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
@@ -30,12 +30,12 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "G">
 <!ENTITY newExistingEmailAccountCmd.label "기존 메일 계정…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
-<!ENTITY newIMAccountCmd.label			"채팅 계정…">
-<!ENTITY newIMAccountCmd.accesskey		"C">
+<!ENTITY newIMAccountCmd.label "채팅 계정…">
+<!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY newFeedAccountCmd.label "피드 계정…">
 <!ENTITY newFeedAccountCmd.accesskey "d">
-<!ENTITY newIMContactCmd.label			"채팅 연락처…">
-<!ENTITY newIMContactCmd.accesskey		"h">
+<!ENTITY newIMContactCmd.label "채팅 연락처…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "메시지 열기…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "다른 이름으로 저장">
@@ -63,9 +63,9 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "폴더 압축">
-<!ENTITY compactFolders.accesskey "F">
+<!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "지운 편지함 비우기">
-<!ENTITY emptyTrashCmd.accesskey "y">
+<!ENTITY emptyTrashCmd.accesskey    "y">
 <!ENTITY offlineMenu.label "오프라인">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "오프라인으로 작업">
@@ -312,17 +312,17 @@
 <!ENTITY goBackCmd.label "뒤로">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label		"채팅">
-<!ENTITY goChatCmd.accesskey		"c">
-<!ENTITY goChatCmd.key		"C">
+<!ENTITY goChatCmd.label "채팅">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.key "C">
 <!ENTITY prevStarredMsgCmd.label "별표 메시지">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "폴더">
 <!ENTITY folderMenu.accesskey "O">
 <!ENTITY goRecentlyClosedTabs.label "최근에 닫은 탭">
-<!ENTITY goRecentlyClosedTabs.accesskey	"R">
-<!ENTITY startPageCmd.label		"시작 페이지">
-<!ENTITY startPageCmd.accesskey		"S">
+<!ENTITY goRecentlyClosedTabs.accesskey "R">
+<!ENTITY startPageCmd.label "시작 페이지">
+<!ENTITY startPageCmd.accesskey "S">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "메시지">
@@ -338,20 +338,20 @@
 <!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY replyMsgCmd.label "회신">
 <!ENTITY replyMsgCmd.accesskey "R">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "회신">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd2.label "뉴스 그룹에 답신">
-<!ENTITY replyNewsgroupCmd2.accesskey "u">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "전체 회신">
-<!ENTITY replyToAllMsgCmd.accesskey "p">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "p">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "리스트로 회신">
 <!ENTITY replyToListMsgCmd.accesskey  "L">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "전달">
 <!ENTITY forwardMsgCmd.accesskey "F">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "다음으로 전달하기">
 <!ENTITY forwardAsMenu.accesskey "w">
 <!ENTITY forwardAsInline.label "내용">
@@ -397,7 +397,7 @@
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "표시">
 <!ENTITY markMenu.accesskey "k">
-<!ENTITY toggleReadCmd.key		"m">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "읽은 상태로 표시">
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsUnreadCmd.label "읽지 않은 상태로 표시">
@@ -425,9 +425,9 @@
 <!ENTITY openMessageWindowCmd.label "메시지 열기">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label	"새 탭으로 대화 열기">
-<!ENTITY openConversationCmd.accesskey	"s">
-<!ENTITY openConversationCmd.key	"o">
+<!ENTITY openConversationCmd.label "새 탭으로 대화 열기">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "첨부">
 <!ENTITY openAttachmentListCmd.accesskey "A">
 <!ENTITY openFeedMessage1.label "피드를 열 때">
@@ -445,23 +445,23 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "도구">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY addressBookCmd.key "B">
 <!ENTITY messengerCmd.label "메일 및 뉴스 그룹">
 <!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "주소록">
 <!ENTITY addressBookCmd.accesskey "B">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "부가 기능">
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "메시지 작업 관리">
 <!ENTITY activitymanager.accesskey "v">
-<!ENTITY imAccountsStatus.label		"채팅 상태">
-<!ENTITY imAccountsStatus.accesskey	"C">
-<!ENTITY imStatus.available		"이용 가능">
-<!ENTITY imStatus.unavailable		"이용 불가">
-<!ENTITY imStatus.offline		"오프라인">
-<!ENTITY imStatus.showAccounts		"계정 표시…">
-<!ENTITY joinChatCmd.label		"채팅 참가…">
-<!ENTITY joinChatCmd.accesskey		"t">
+<!ENTITY imAccountsStatus.label "채팅 상태">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "이용 가능">
+<!ENTITY imStatus.unavailable        "이용 불가">
+<!ENTITY imStatus.offline            "오프라인">
+<!ENTITY imStatus.showAccounts       "계정 표시…">
+<!ENTITY joinChatCmd.label "채팅 참가…">
+<!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "저장된 파일">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -481,13 +481,13 @@
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "오류 정보">
 <!ENTITY errorConsoleCmd.accesskey "E">
-<!ENTITY errorConsoleCmd.commandkey	"j">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "최근 기록 삭제…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "계정 설정…">
 <!ENTITY accountManagerCmd2.accesskey "S">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd.label,
-   which is placed under the Edit menu on Unix systems -->
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
+        which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "원격 디버깅 허용">
 <!ENTITY allowRemoteDebugging.accesskey "g">
@@ -502,11 +502,11 @@
 <!ENTITY fileButton.label "파일">
 <!ENTITY archiveButton.label "보관">
 <!ENTITY nextButton.label "다음">
-<!ENTITY nextButtonToolbarItem.label	"다음 항목">
-<!ENTITY nextMsgButton.label		"다음 메시지">
-<!ENTITY previousButton.label		"이전">
-<!ENTITY previousButtonToolbarItem.label	"이전 항목">
-<!ENTITY previousMsgButton.label	"이전 메시지">
+<!ENTITY nextButtonToolbarItem.label "다음 항목">
+<!ENTITY nextMsgButton.label "다음 메시지">
+<!ENTITY previousButton.label "이전">
+<!ENTITY previousButtonToolbarItem.label "이전 항목">
+<!ENTITY previousMsgButton.label "이전 메시지">
 <!ENTITY backButton1.label "뒤로">
 <!ENTITY goForwardButton1.label "앞으로">
 <!ENTITY deleteItem.title "삭제">
@@ -520,7 +520,7 @@
 <!ENTITY junkButton.label "스팸">
 <!ENTITY notJunkButton.label "정상">
 <!ENTITY addressBookButton.label "주소록">
-<!ENTITY chatButton.label		"채팅">
+<!ENTITY chatButton.label "채팅">
 <!ENTITY glodaSearch.title "전체 검색">
 <!ENTITY searchItem.title "빠른 검색">
 <!ENTITY mailViewsToolbarItem.title "메일 보기">
@@ -544,9 +544,9 @@
 <!ENTITY fileButton.tooltip "선택한 메시지 파일">
 <!ENTITY archiveButton.tooltip "선택한 메시지 보관">
 <!ENTITY nextButton.tooltip "다음 읽지 않은 메일로 이동">
-<!ENTITY nextMsgButton.tooltip		"다음 메시지로 이동">
+<!ENTITY nextMsgButton.tooltip "다음 메시지로 이동">
 <!ENTITY previousButton.tooltip "읽지 않은 이전 메시지로 이동">
-<!ENTITY previousMsgButton.tooltip		"이전 메시지로 이동">
+<!ENTITY previousMsgButton.tooltip "이전 메시지로 이동">
 <!ENTITY goForwardButton.tooltip "한 메시지 앞으로 가기">
 <!ENTITY goBackButton.tooltip "한 메시지 뒤로 가기">
 <!ENTITY deleteButton.tooltip "선택한 메시지나 폴더 삭제">
@@ -557,7 +557,7 @@
 <!ENTITY junkButton.tooltip "선택한 메시지를 스팸 메일로 설정">
 <!ENTITY notJunkButton.tooltip "선택한 메시지를 정상 메일로 설정">
 <!ENTITY addressBookButton.tooltip "주소록 열기">
-<!ENTITY chatButton.tooltip		"채팅 열기">
+<!ENTITY chatButton.tooltip "채팅 열기">
 <!ENTITY tagButton.tooltip "태그 메시지">
 <!ENTITY compactButton.tooltip "선택한 폴더에서 삭제 표시된 메시지 지우기">
 <!ENTITY appmenuButton1.tooltip "앱 메뉴 표시하기">
@@ -710,8 +710,8 @@
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "새 탭으로 메시지 열기">
 <!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextOpenConversation.label		"새 탭으로 대화 열기"><!--  en-US: "Open Message in Conversation"  -->
-<!ENTITY contextOpenConversation.accesskey	"n">
+<!ENTITY contextOpenConversation.label "새 탭으로 대화 열기">
+<!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextOpenContainingFolder.label "메시지를 포함한 폴더 열기">
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "새로 편집…">
@@ -738,14 +738,14 @@
 <!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "이동">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
-<!ENTITY contextKillThreadMenu.label "글타래 무시">
-<!ENTITY contextKillThreadMenu.accesskey "I">
-<!ENTITY contextKillSubthreadMenu.label "하위 글타래 무시">
-<!ENTITY contextWatchThreadMenu.label "글타래 보기">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "최근">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "복사">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextKillThreadMenu.label "글타래 무시">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "하위 글타래 무시">
+<!ENTITY contextWatchThreadMenu.label "글타래 보기">
 <!ENTITY contextSaveAs.label "다른 이름으로 저장…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "인쇄…">
@@ -813,10 +813,10 @@
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
+     not changed
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (search.label.base):
+<!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box.  We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
@@ -825,8 +825,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base	"검색… #1">
-<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.label.base1 "#1 검색">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -838,8 +837,9 @@
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
-<!-- Message Header Context Menu -->    
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "주소록에 추가…">
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "주소록에 바로 추가">
@@ -854,6 +854,8 @@
 <!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "메일 주소 복사">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNameAndEmailAddress.label "이름과 메일 주소 복사">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "뉴스 그룹 이름 복사">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "뉴스 그룹 URL 복사">
@@ -897,17 +899,17 @@
 <!ENTITY zoomWindow.label "창 확대">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label "환경 설정…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "서비스">
-<!ENTITY hideThisAppCmdMac.label "&brandShortName; 숨기기">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "다른 프로그램 숨기기">
+<!ENTITY preferencesCmdMac2.label       "환경 설정…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "서비스">
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; 숨기기">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "다른 프로그램 숨기기">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "모두 보이기">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "모두 보이기">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "독 아이콘 옵션…">
