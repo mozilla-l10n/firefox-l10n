@@ -504,6 +504,9 @@
 <!ENTITY updater_apply_title2 "&brandShortName;: dostępne są nowe aktualizacje">
 <!ENTITY updater_apply_select2 "Dotknij, aby zaktualizować">
 
+<!ENTITY updater_permission_text "Należy zezwolić aplikacji &brandShortName; na dostęp do dysku, aby móc pobierać pliki i aktualizacje.">
+<!ENTITY updater_permission_allow "Zezwól">
+
 <!ENTITY new_guest_session "Nowa sesja gościnna">
 <!ENTITY exit_guest_session "Zakończ sesję gościnną">
 <!ENTITY guest_session_dialog_continue "Kontynuuj">
