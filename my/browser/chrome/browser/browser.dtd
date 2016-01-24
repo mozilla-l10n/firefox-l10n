@@ -191,12 +191,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
 <!ENTITY urlbar.defaultNotificationAnchor.label         "အသိပေးချက် များကြည့်ရန်">
-
-
-
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "တည်နေရာတောင်းဆိုမှုကို ကြည့်ရန်">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "အတ်အွန်တပ်ဆင်မှု သတင်းကို ကြည့်ရန်">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "အက်ပ်၏ ကွန်ယက်မဲ့ သိမ်းဆည်းမှု သတင်းကို ကြည့်ရန်">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "သင့်ရဲ့ဝင်ရောက်ခြင်းဆိုင်ရာအချက်အလက်များကိုစီမံရန်">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "သင့်ရဲ့စကားဝှက်သိမ်းခြင်းကိုစစ်ဆေးပါ">
-
+<!ENTITY urlbar.webappsNotificationAnchor.label         "အက်ပ် ထည့်သွင်းမှု သတင်းကို ကြည့်ရန်">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "ဒီစာမျက်နှာရဲ့ပလပ်အင်အသုံးပြုမှုကိုစီမံရန်">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "ဒီစာမျက်နှာရဲ့အသိပေးခြင်းကို လက်ခံခြင်းအားစီမံကြည့်ရန်">
 
@@ -204,14 +204,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "ယခုစာမျက်နှာသည် မိုက်ကရိုဖုန်း၊ ကင်မရာများကို သင်နှင့်အတူ မျှသုံးနေသည်။">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "ဤစာမျက်နှာသည် မိုက်ကရိုဖုန်းကို သင်နှင့်အတူ မျှသုံးနေသည်">
 <!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "ဤစာမျက်နှာသည် မိုက်ကရိုဖုန်းကို သင်နှင့်အတူ မျှသုံးနေသည်">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "ဒီဆိုက်သို့ သင့် ဝင်းဒိုးများ (သို့) မျက်နှာပြင် မျှဝေအသုံးပြုမှုကို စီမံရန်">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "သင်သည် ဝင်းဒိုးတစ်ခု (သို့) မျက်နှာပြင်ကို ဒီဆိုက်နှင့်အတူ မျှသုံးနေသည်">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "ဒီဆိုက်သည် ပွိုင်တာကို ဖျောက်သည်ဖြစ်စေကာမူ ပြောင်းလဲမှုကို ဆောင်ရွက်ပါ">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "ဆားဗစ်ထည့်သွင်းမှု သတင်းကို ကြည့်ရန်">
+<!ENTITY urlbar.translateNotificationAnchor.label       "ဒီစာမျက်နှာကို ဘာသာပြန်ပါ">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "စာမျက်နှာ ဘာသာပြန်ဆိုမှုကို စီမံရန်">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM ဆော့ဖ်ဝဲများ အသုံးပြုခြင်းကို စီမံရန်">
 
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "မှတ်တမ်းကို ပြပါ">
 
 <!ENTITY searchItem.title             "ရှာဖွေပါ">
 <!-- Toolbar items --> 
