@@ -8,7 +8,17 @@
 <!ENTITY firstrun_panel_title_welcome "Witamy">
 <!ENTITY onboard_start_message3 "Przeglądaj z programem &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Spraw, aby przeglądanie mobilne stało się prawdziwie Twoim.">
-<!ENTITY onboard_start_button_account "Zaloguj się do przeglądarki &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "Witamy w przeglądarce &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Wyszukuj szybciej dzięki pomocnym sugestiom.">
+<!ENTITY firstrun_bookmarks_title "Historia">
+<!ENTITY firstrun_bookmarks_message "Ulubione strony, zawsze dostępne">
+<!ENTITY firstrun_bookmarks_subtext "Wyświetlaj wyniki z zakładek i historii podczas wyszukiwania.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, zawsze blisko">
+<!ENTITY firstrun_sync_subtext "Synchronizuj karty, hasła i wiele więcej między wszystkimi urządzeniami.">
+<!ENTITY firstrun_signin_message "Połącz z innymi urządzeniami">
+<!ENTITY firstrun_signin_button "Zaloguj się do synchronizacji">
 <!ENTITY onboard_start_button_browser "Zacznij przeglądać Internet">
 <!ENTITY firstrun_button_next "Dalej">
 
