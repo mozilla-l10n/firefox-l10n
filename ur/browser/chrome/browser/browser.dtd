@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "پڑتال کریں اگر آپ آپنا پاس ورڈ محفوظ کرنا چاہتے ہو">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "ایپ تنسیب کرنے کہ پییغام کا نظارہ کریں">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "اس صفحہ پر پلگ ان کہ استعمال کو بندوبست کریں">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "تبدیل کریں کے آپ اس سائٹ سے اطلاع وصول کرنا چاہتے ہے یا نہیں">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "کیمرہ اور مائیکروفون کی سائٹ کے ساتھ حصہ داری کو بندوبست کریں">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "آپ اپنا کیمرہ اور/یا مائیکروفون سائٹ کے حصہ داری کر رہے ہیں">
@@ -410,9 +410,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "بغلی بار میں سابقات دیکھیں">
 <!ENTITY appMenuHelp.tooltip "مدد مینیو کھولیں">
 
-
+<!ENTITY appMenuRemoteTabs.label "ہمہ وقت ساز ٹیب">
+<!ENTITY appMenuRemoteTabs.fetching.label "ہم وقت ساز ٹیب بازیافت کریں…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "کوئی کھولیں ٹیب نہیں">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown

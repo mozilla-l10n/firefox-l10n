@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "صفحہ لوڈ کرنے میں مسلہ">
 <!ENTITY retry.label "دوبارہ کوشش کریں">
-
-
+<!ENTITY returnToPreviousPage.label "واپس جائیں">
+<!ENTITY advanced.label "اعلٰی ترین">
 <!-- Specific error messages -->
 
 
@@ -141,6 +141,7 @@
 <!ENTITY phishingBlocked.longDesc "<p>اس صفحے پر کوئی بھی نجی معلومات داخل کرنے سے شناخت کی چوری یا کسی اور قسم کا فراڈ ہو سکتا ہے۔</p> 
 <p>اس قسم کی ویب نقلیں فراڈ کے لیے استعمال کی جاتی ہیں اور انہیں فشنگ اٹیک کے نام سے جانا جاتا ہے۔ آس کے اندر نقلی ویب صفحے اور ای میل آپ کی جانی ہوئی چیزوں کی نقل کرنے کے لیے استعمال کیے جاتے ہیں۔</p>">
 
+<!ENTITY forbiddenBlocked.title "ممنوع سائٹ">
 <!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; نے اس صفحہ کو لوڈ ہونے سے روک دیا کیونکہ اس  نے اسے بلاک پر تشکیل کیا ہے۔ </p> ">
 
 <!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
