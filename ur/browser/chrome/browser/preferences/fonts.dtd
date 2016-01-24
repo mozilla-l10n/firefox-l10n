@@ -73,7 +73,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "عربی">
-
+<!ENTITY languages.customize.Fallback.baltic      "شمالی یورپی">
 <!ENTITY languages.customize.Fallback.ceiso       "وسطی یورپ، ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "وسطی یورپی، Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -100,6 +100,7 @@
 <!ENTITY languages.customize.Fallback.thai        "تھائی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "ترکی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vietnamese">

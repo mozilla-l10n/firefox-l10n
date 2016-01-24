@@ -32,4 +32,4 @@ was trying to connect. -->
 <!ENTITY certerror.expert.contentPara2 "استثنیٰ شامل نہ کریں
 ناکہ آپ کے پاس کوئی اچھی دلیل ہے کہ اس ویب سائٹ کوقابل اعتبارشناخت کی ضرورت نہیں۔">
 <!ENTITY certerror.addException.label "اکسیپشنمیں میں اضافہ کریں…">
-
+<!ENTITY certerror.copyToClipboard.label "متن کو تختہ تراشہ پر نقل کریں">
