@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Meddela deltagare">
+<!ENTITY event.attendees.notify.accesskey           "d">
 <!ENTITY event.attendees.notifyundisclosed.label    "Separat inbjudan till varje deltagare">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "p">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Detta alternativ skickar en inbjudan per deltagare. Varje inbjudan innehåller bara en mottagare så att övriga deltagares identitet inte lämnas ut.">
 
 <!-- Keyboard Shortcuts -->
@@ -138,9 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "S">
 <!ENTITY event.email.tentative.attendees.label            "Skicka e-post till alla preliminära deltagare…">
 <!ENTITY event.email.tentative.attendees.accesskey        "e">
-<!ENTITY event.remove.attendees.label                     "Ta bort alla deltagare...">
+<!ENTITY event.remove.attendees.label2                    "Ta bort alla deltagare">
 <!ENTITY event.remove.attendees.accesskey                 "t">
 <!ENTITY event.remove.attendee.label                      "Ta bort deltagare">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Spara och stäng">
@@ -168,7 +171,7 @@
 <!ENTITY event.calendar.label                             "Kalender:" >
 <!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Deltagare:" >
-<!ENTITY event.attendees.accesskey                        "e" >
+<!ENTITY event.attendees.accesskey                        "e">
 <!ENTITY event.alldayevent.label                          "Heldagshändelse" >
 <!ENTITY event.alldayevent.accesskey                      "H">
 <!ENTITY event.from.label                                 "Start:" >
