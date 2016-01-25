@@ -86,14 +86,14 @@
 <!ENTITY size-tinyCmd.accesskey "Z">
 <!ENTITY size-smallCmd.label "Klein">
 <!ENTITY size-smallCmd.accesskey "K">
-<!ENTITY size-mediumCmd.label "Standaard">
-<!ENTITY size-mediumCmd.accesskey "S">
+<!ENTITY size-mediumCmd.label "Normaal">
+<!ENTITY size-mediumCmd.accesskey "m">
 <!ENTITY size-largeCmd.label "Groot">
 <!ENTITY size-largeCmd.accesskey "G">
-<!ENTITY size-extraLargeCmd.label "Heel groot">
-<!ENTITY size-extraLargeCmd.accesskey "H">
-<!ENTITY size-hugeCmd.label "Extra groot">
-<!ENTITY size-hugeCmd.accesskey "x">
+<!ENTITY size-extraLargeCmd.label "Extra groot">
+<!ENTITY size-extraLargeCmd.accesskey "x">
+<!ENTITY size-hugeCmd.label "Zeer groot">
+<!ENTITY size-hugeCmd.accesskey "r">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Tekststijl">
