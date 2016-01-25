@@ -98,7 +98,7 @@
 
 <!ENTITY securityOverride.linkText "Oder Sie können eine Ausnahme hinzufügen…">
 <!ENTITY securityOverride.warningContent "
-<p>Sie sollten keine Ausnahme hinzufügen, wenn Sie eine Internetverbindung verwenden, der Sie nicht komplett vertrauen oder nicht gewohnt sind, diese Warnung für diesen Server zu sehen.</p>
+<p>Sie sollten keine Ausnahme hinzufügen, wenn Sie eine Internetverbindung verwenden, der Sie nicht komplett vertrauen, oder nicht gewohnt sind, diese Warnung für diesen Server zu sehen.</p>
 <p>Wenn Sie trotzdem eine Ausnahme für diese Website hinzufügen möchten, können Sie das in Ihren erweiterten Verschlüsselungseinstellungen tun.</p>
 ">
 
