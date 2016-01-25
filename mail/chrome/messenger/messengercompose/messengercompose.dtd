@@ -6,7 +6,7 @@
 <!ENTITY msgComposeWindow.title "Rédaction du message">
 
 <!-- File menu -->
-<!ENTITY fileMenu.label "Fichier"> 
+<!ENTITY fileMenu.label "Fichier">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nouveau">
 <!ENTITY newMenu.accesskey "N">
@@ -59,14 +59,14 @@
 <!ENTITY printCmd.accesskey "P">
 
 <!-- Edit menu -->
-<!ENTITY editMenu.label "Édition"> 
+<!ENTITY editMenu.label "Édition">
 <!ENTITY editMenu.accesskey "n">
 <!ENTITY undoCmd.label "Annuler">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "u">
 <!ENTITY redoCmd.label "Rétablir">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R"> 
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Couper">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "C">
@@ -89,7 +89,7 @@
 <!ENTITY renameAttachmentCmd.accesskey "R">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "T"> 
+<!ENTITY selectAllCmd.accesskey "T">
 <!ENTITY findBarCmd.label "Rechercher…">
 <!ENTITY findBarCmd.accesskey "h">
 <!ENTITY findBarCmd.key "F">
@@ -106,9 +106,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- View menu -->
-<!ENTITY viewMenu.label "Affichage"> 
+<!ENTITY viewMenu.label "Affichage">
 <!ENTITY viewMenu.accesskey "A">
-<!ENTITY viewToolbarsMenuNew.label "Barres d'outils"> 
+<!ENTITY viewToolbarsMenuNew.label "Barres d'outils">
 <!ENTITY viewToolbarsMenuNew.accesskey "t">
 <!ENTITY menubarCmd.label "Barre de menus">
 <!ENTITY menubarCmd.accesskey "m">
@@ -121,8 +121,8 @@
 <!ENTITY customizeToolbar.label "Personnaliser…">
 <!ENTITY customizeToolbar.accesskey "P">
 
-<!ENTITY addressSidebar.label "Barre des contacts"> 
-<!ENTITY addressSidebar.accesskey "o"> 
+<!ENTITY addressSidebar.label "Barre des contacts">
+<!ENTITY addressSidebar.accesskey "o">
 
 <!-- Format menu -->
 <!ENTITY formatMenu.label "Format">
@@ -192,7 +192,7 @@
 <!ENTITY preferencesCmd2.label "Options">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Préférences">
-<!ENTITY preferencesCmdUnix.accesskey "n"> 
+<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -230,12 +230,12 @@
 <!ENTITY headersSpace.style "width: 11em;">
 <!ENTITY fromAddr.label "Expéditeur :">
 <!ENTITY fromAddr.accesskey "x">
-<!ENTITY toAddr.label "Pour :"> 
-<!ENTITY ccAddr.label "Copie à :"> 
-<!ENTITY bccAddr.label "Copie cachée à :"> 
-<!ENTITY replyAddr.label "Répondre à :"> 
-<!ENTITY newsgroupsAddr.label "Groupe :"> 
-<!ENTITY followupAddr.label "Faire suivre à :"> 
+<!ENTITY toAddr.label "Pour :">
+<!ENTITY ccAddr.label "Copie à :">
+<!ENTITY bccAddr.label "Copie cachée à :">
+<!ENTITY replyAddr.label "Répondre à :">
+<!ENTITY newsgroupsAddr.label "Groupe :">
+<!ENTITY followupAddr.label "Faire suivre à :">
 <!ENTITY subject.label  "Sujet :">
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
@@ -305,3 +305,7 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contacts">
+
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Personnaliser l'adresse d'expédition…">
+<!ENTITY customizeFromAddress.accesskey "x">

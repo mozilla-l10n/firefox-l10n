@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "u">
 <!ENTITY restoreHTMLDefaults.label            "Restaurer les paramètres initiaux">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Lors de l'utilisation du formatage de paragraphe, la touche « Entrée » permet de créer un nouveau paragraphe">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "s">
 
 <!ENTITY spellCheck.label                     "Vérifier l'orthographe avant l'envoi">
 <!ENTITY spellCheck.accesskey                 "V">
