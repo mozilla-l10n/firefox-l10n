@@ -7,6 +7,9 @@
 <!ENTITY firstrun_panel_title_welcome "Benvenuto">
 <!ENTITY onboard_start_message3 "Naviga con &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Un’esperienza di navigazione che si adatta alle tue esigenze.">
+<!ENTITY firstrun_data_title "Dati">
+<!ENTITY firstrun_data_message "Risparmia sulla connessione">
+<!ENTITY firstrun_data_subtext "Blocca le immagini per consumare meno dati ogni volta che visiti un sito.">
 <!ENTITY onboard_start_button_account "Accedi a &brandShortName;">
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
 <!ENTITY firstrun_button_next "Successivo">
