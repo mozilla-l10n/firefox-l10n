@@ -23,7 +23,7 @@
 <!ENTITY biffStart.label "Op nieuwe berichten controleren om de">
 <!ENTITY biffStart.accesskey "c">
 <!ENTITY biffEnd.label "minuten">
-<!ENTITY useIdleNotifications.label "Directe servernotificaties toestaan als er nieuwe berichten binnenkomen">
+<!ENTITY useIdleNotifications.label "Directe servernotificaties toestaan als nieuwe berichten binnenkomen">
 <!ENTITY useIdleNotifications.accesskey "D">
 <!ENTITY connectionSecurity.label "Verbindingsbeveiliging:">
 <!ENTITY connectionSecurity.accesskey "V">
@@ -58,17 +58,17 @@
 <!ENTITY emptyTrashOnExit.label "Prullenbak leegmaken bij afsluiten">
 <!ENTITY emptyTrashOnExit.accesskey "f">
 <!ENTITY loginAtStartup.label "Op nieuwe berichten controleren bij opstarten">
-<!ENTITY loginAtStartup.accesskey "o">
+<!ENTITY loginAtStartup.accesskey "r">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Mij vragen voor het downloaden van meer dan">
-<!ENTITY maxMessagesStart.accesskey "v">
+<!ENTITY maxMessagesStart.accesskey "d">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "berichten">
 <!ENTITY alwaysAuthenticate.label "Altijd om authenticatie vragen bij verbinden met deze server">
-<!ENTITY alwaysAuthenticate.accesskey "A">
+<!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "newsrc-bestand:">
 <!ENTITY newsrcPicker.label "newsrc-bestand selecteren">
 <!ENTITY abbreviate.label "Nieuwsgroepnamen in het berichtenmapvenster tonen als:">

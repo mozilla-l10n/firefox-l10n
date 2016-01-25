@@ -42,7 +42,7 @@
 <!ENTITY markMessageRead.label "Markeren als gelezen">
 <!ENTITY markMessageUnread.label "Markeren als ongelezen">
 <!ENTITY markMessageStarred.label "Ster toevoegen">
-<!ENTITY setPriority.label "Prioriteit wijzigen in">
+<!ENTITY setPriority.label "Prioriteit wijzigen naar">
 <!ENTITY addTag.label "Bericht labelen">
 <!ENTITY setJunkScore.label "Ongewenstberichtstatus instellen op">
 <!ENTITY deleteMessage.label "Bericht verwijderen">

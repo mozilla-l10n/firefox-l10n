@@ -7,7 +7,7 @@
 <!ENTITY accountManagerTitle.label "Accountinstellingen">
 
 <!ENTITY accountActionsButton.label "Accountacties">
-<!ENTITY accountActionsButton.accesskey "c">
+<!ENTITY accountActionsButton.accesskey "o">
 <!ENTITY addMailAccountButton.label "E-mailaccount toevoegen…">
 <!ENTITY addMailAccountButton.accesskey "E">
 <!ENTITY addIMAccountButton.label "Chataccount toevoegen…">

@@ -83,6 +83,6 @@
 <!ENTITY insecureServer.tooltip.title    "Waarschuwing! Dit is een niet-beveiligde server.">
 <!ENTITY insecureServer.tooltip.details  "Klik op de cirkel voor meer details.">
 
-<!ENTITY insecureUnencrypted.description "Uw e-mail en authenticatie worden niet-versleuteld verzonden, dus uw wachtwoord (en uw bericht) kunnen gemakkelijk worden gelezen door anderen. &brandShortName; geeft u toegang tot uw e-mail, maar u zou uw e-mailprovider kunnen vragen de server te configureren met een beveiligde verbinding.">
+<!ENTITY insecureUnencrypted.description "Uw e-mail en authenticatie worden onversleuteld verzonden, dus uw wachtwoord (en uw bericht) kunnen gemakkelijk door anderen worden gelezen. &brandShortName; geeft u toegang tot uw e-mail, maar u zou uw e-mailprovider kunnen vragen de server met een beveiligde verbinding te configureren.">
 <!ENTITY insecureSelfSigned.description  "De server gebruikt een certificaat dat we niet kunnen vertrouwen, dus we weten niet zeker dat niemand het verkeer tussen &brandShortName; en uw server onderschept. &brandShortName; geeft u toegang tot uw e-mail, maar u zou uw e-mailprovider kunnen vragen de server te configureren met een vertrouwd certificaat.">
 <!ENTITY secureServer.description        "Gefeliciteerd! Dit is een beveiligde server.">

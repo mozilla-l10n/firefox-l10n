@@ -10,7 +10,7 @@
 <!ENTITY move.label "Nieuwe ongewenste berichten verplaatsen naar:">
 <!ENTITY move.accesskey "N">
 <!ENTITY junkFolderOn.label "map ‘Ongewenst’ in:">
-<!ENTITY junkFolderOn.accesskey "O">
+<!ENTITY junkFolderOn.accesskey "w">
 <!ENTITY otherFolder.label "Anders:">
 <!ENTITY otherFolder.accesskey "A">
 <!ENTITY purge1.label "Ongewenste berichten ouder dan">

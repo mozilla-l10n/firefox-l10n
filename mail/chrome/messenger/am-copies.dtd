@@ -28,9 +28,9 @@
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Berichtarchieven">
 <!ENTITY keepArchives.label "Berichtarchieven bewaren in:">
-<!ENTITY keepArchives.accesskey "B">
+<!ENTITY keepArchives.accesskey "t">
 <!ENTITY archiveHierarchyButton.label "Archiveringsopties…">
-<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archiveHierarchyButton.accesskey "h">
 <!ENTITY archivesFolderOn.label "Map ‘Archieven’ in:">
 <!ENTITY archivesFolderOn.accesskey "r">
 <!ENTITY archiveInOtherFolder.label "Anders:">
@@ -39,7 +39,7 @@
 <!ENTITY keepDrafts.label "Berichtconcepten bewaren in:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Map ‘Concepten’ in:">
-<!ENTITY draftsFolderOn.accesskey "C">
+<!ENTITY draftsFolderOn.accesskey "M">
 <!ENTITY draftInOtherFolder.label "Anders:">
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!ENTITY keepTemplates.label "Berichtsjablonen bewaren in:">
