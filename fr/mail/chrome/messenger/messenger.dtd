@@ -854,7 +854,7 @@
 <!ENTITY CopyEmailAddress.label "Copier l'adresse électronique">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CopyNameAndEmailAddress.label "Copier le nom et l'adresse électronique">
-+<!ENTITY CopyNameAndEmailAddress.accesskey "l">
+<!ENTITY CopyNameAndEmailAddress.accesskey "l">
 <!ENTITY CopyNewsgroupName.label "Copier le nom du groupe de discussion">
 <!ENTITY CopyNewsgroupName.accesskey "g">
 <!ENTITY CopyNewsgroupURL.label "Copier l'adresse du groupe de discussion">
