@@ -25,6 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "کچھ توسیعات کی تصدیق نہیں ہو سکی">
 <!ENTITY showAllExtensions.button.label       "تمام توسیعات دکھائیں">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔">
@@ -105,8 +107,6 @@
 <!ENTITY cmd.installAddon.accesskey           "ت">
 <!ENTITY cmd.uninstallAddon.label             "ہٹائیں">
 <!ENTITY cmd.uninstallAddon.accesskey         "ہ">
-<!ENTITY cmd.debugAddon.label                 "ٹھیک کریں">
-<!ENTITY cmd.debugAddon.accesskey             "ٹ">
 <!ENTITY cmd.showPreferencesWin.label         "اختیارات">
 <!ENTITY cmd.showPreferencesWin.tooltip       "اس ایڈ اون کے اختیارات تبدیل کریں">
 <!ENTITY cmd.showPreferencesUnix.label        "ترجیحات">

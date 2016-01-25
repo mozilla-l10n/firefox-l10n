@@ -169,7 +169,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "مزید سیکھیں…">
 <!ENTITY errorReporting.sending "رپورٹ بھیج رہا ہے">
 <!ENTITY errorReporting.sent "رپورٹ بھیج دی گئی">
-<!ENTITY errorReporting.report "رپورٹ">
 <!ENTITY errorReporting.tryAgain "دوبارہ کوشش کریں">
 
 <!ENTITY remoteXUL.title "بعید XUL">

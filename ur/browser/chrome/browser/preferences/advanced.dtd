@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "جب ویب سائٹیں صفحہ کو دوسری سمت بھیجنے کی یا پھر لوڈ کرنے کی کوشش کریں تو مجھے متنبہ کریں">
 <!ENTITY blockAutoRefresh.accesskey      "س">
 
+
+
 <!ENTITY browsing.label                  "براؤزنگ">
 
 <!ENTITY useAutoScroll.label             "خودکار طومار استعمال کریں">

@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "بھیجیں برائے:">
 <!ENTITY     props.expires.label            "مدت ختم ہوتی ہے:">
 
+
 <!ENTITY     window.title                   "کوکیاں">
 <!ENTITY     windowClose.key                "د">
 <!ENTITY     focusSearch1.key               "ف">
