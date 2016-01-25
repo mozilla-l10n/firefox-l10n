@@ -22,3 +22,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "ຫນ້າເວັບຊັອບແວທີ່ບໍ່ພຶງປະສົງພະຍາຍາມຈະຕິດຕັ້ງໂປແກຣມທີ່ລໍ່ລວງທ່ານ ແລະ ມີຜົນເຮັດໃຫ້ລະບົບຂອງທ່ານຜິດປົກກະຕິ.">
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "ຫນ້າເວັບນີ້ທີ່ <span id='forbidden_sitename'/> ໄດ້ຖືກບັອກໂດຍອີ່ງໃສ່ການຕັ້ງຄ່າຕົວທ່ອງເວັບຂອງທ່ານ.">
