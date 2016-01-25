@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning "Eksperymentalna jakość! Nie używać bez nadzoru dorosłych.">
 <!ENTITY aboutNetworking.showNextTime "Wyświetl to ostrzeżenie następnym razem">
 <!ENTITY aboutNetworking.ok "OK">
-<!ENTITY aboutNetworking.http "HTTP">
+<!ENTITY aboutNetworking.HTTP "HTTP">
 <!ENTITY aboutNetworking.sockets "Socket">
 <!ENTITY aboutNetworking.dns "DNS">
 <!ENTITY aboutNetworking.websockets "WebSocket">
