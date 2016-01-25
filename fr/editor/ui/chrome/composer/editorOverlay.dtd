@@ -83,20 +83,18 @@
 
 <!ENTITY fontSizeMenu.label "Taille">
 <!ENTITY fontSizeMenu.accesskey "i">
-<!ENTITY size-xx-smallCmd.label "Très très petite">
-<!ENTITY size-xx-smallCmd.accesskey "e">
-<!ENTITY size-x-smallCmd.label "Très petite">
-<!ENTITY size-x-smallCmd.accesskey "T">
+<!ENTITY size-tinyCmd.label "Très petite">
+<!ENTITY size-tinyCmd.accesskey "T">
 <!ENTITY size-smallCmd.label "Petite">
 <!ENTITY size-smallCmd.accesskey "P">
 <!ENTITY size-mediumCmd.label "Moyenne">
 <!ENTITY size-mediumCmd.accesskey "M">
 <!ENTITY size-largeCmd.label "Grande">
 <!ENTITY size-largeCmd.accesskey "G">
-<!ENTITY size-x-largeCmd.label "Très grande">
-<!ENTITY size-x-largeCmd.accesskey "r">
-<!ENTITY size-xx-largeCmd.label "Très très grande">
-<!ENTITY size-xx-largeCmd.accesskey "d">
+<!ENTITY size-extraLargeCmd.label "Très grande">
+<!ENTITY size-extraLargeCmd.accesskey "r">
+<!ENTITY size-hugeCmd.label "Très très grande">
+<!ENTITY size-hugeCmd.accesskey "d">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Style">
@@ -148,7 +146,7 @@
 
 <!ENTITY paragraphMenu.label "Paragraphe">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Paragraphe">  
+<!ENTITY paragraphParagraphCmd.label "Paragraphe">
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Titre 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -270,7 +268,7 @@
 <!ENTITY tableDeleteMenu.label "Supprimer">
 <!ENTITY tableDeleteMenu.accesskey "E">
 
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Choisir la mise en couleur pour le texte">
 
 <!-- editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Définir la taille de police">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Réduire la taille de police">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Augmenter la taille de police">
 <!ENTITY boldToolbarCmd.tooltip "Gras">

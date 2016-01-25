@@ -35,7 +35,7 @@
 <!ENTITY event.attendees.notify.label               "Informer les participants">
 <!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Invitation séparée pour chaque participant">
-<!ENTITY event.attendees.notifyundisclo[sed.accesskey  "v">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "v">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Cette option envoie un courriel d'invitation à chaque participant. Chaque invitation est adressée à un seul participant afin que les autres participants restent inconnus.">
 
 <!-- Keyboard Shortcuts -->

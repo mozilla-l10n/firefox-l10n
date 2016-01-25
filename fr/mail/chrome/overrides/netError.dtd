@@ -176,6 +176,9 @@ Vous pouvez également utiliser la commande dans le menu d'aide pour signaler un
 <p>Ces types de contrefaçon de sites sont utilisés dans des courriels frauduleux conçus pour des attaques par hameçonnage (ou phishing), dans lesquelles les pages web et les courriels frauduleux sont utilisés pour imiter des sources en lesquelles vous avez confiance.</p>
 ">
 
+<!ENTITY forbiddenBlocked.title "Site interdit">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page, car il est configuré pour la bloquer.</p>
+
 <!ENTITY cspBlocked.title "Bloqué par une stratégie de sécurité de contenu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car la page a une stratégie de sécurité de contenu qui ne le permet pas.</p>">
 
