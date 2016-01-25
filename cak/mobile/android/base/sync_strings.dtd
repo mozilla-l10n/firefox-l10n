@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Atux nixim">
 <!ENTITY sync.configure.engines.sync.my.title.label "Tixim ri taq a…">
 <!ENTITY sync.configure.engines.title.bookmarks "Yakäl taq etal">
-
+<!ENTITY sync.configure.engines.title.passwords2 "Kitikirisaxik taq moloj">
 <!ENTITY sync.configure.engines.title.history "K\u0027ulwachinel">
 <!ENTITY sync.configure.engines.title.tabs "Taq ruwi\u0027">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Ichinan rutzijol">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Matyox chawe yatok pa &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description2 "Tatikirisaj samaj richin yexim ri taq ruwi\u0027, yakäl etal, ewan taq tzij chuqa\u0027 ch\u0027aqa\u0027 chik.">
 <!ENTITY fxaccount_getting_started_get_started "Nab\u0027ey taq xak">
 <!ENTITY fxaccount_getting_started_old_firefox "¿La nawokisaj jun ojer ruwäch chi &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Retal rutaqoya\u0027l Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Okisan achi\u0027el">
+<!ENTITY fxaccount_status_manage_account "Tinuk\u0027samajïx ri retal taqoya\u0027l">
 <!ENTITY fxaccount_status_auth_server "Ruk\u0027u\u0027x samaj ri retal taqoya\u0027l">
 <!ENTITY fxaccount_status_sync_now "Tixim wakami">
 <!ENTITY fxaccount_status_syncing2 "Tajin nixim…">
@@ -212,7 +213,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapitz\u0027a\u0027 richin yatok chupam ri k\u0027ak\u0027a\u0027 rub\u0027i\u0027 ataqoya\u0027l richin Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Yakäl taq etal">
 <!ENTITY fxaccount_status_history "K\u0027ulwachinel">
-
+<!ENTITY fxaccount_status_passwords2 "Kitikirisaxik taq moloj">
 <!ENTITY fxaccount_status_tabs "Jaqon taq ruwi\u0027">
 <!ENTITY fxaccount_status_legal "Taqanel tzijol" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -222,14 +223,15 @@
 <!ENTITY fxaccount_status_linktos "Retal rutzijol re Samaj re\u0027">
 <!ENTITY fxaccount_status_linkprivacy "Ichinan rutzijol">
 <!ENTITY fxaccount_status_more "Ch\u0027aqa\u0027 chik&ellipsis;">
+<!ENTITY fxaccount_remove_account "Tichup&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "¿Tiyuj el ri rub\u0027i\u0027 taqoya\u0027l richin Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;&brandShortName; xtuya\u0027 kan chi ruximik ri rub\u0027i\u0027 ataqoya\u0027l, ri majun tzij richin kanoxïk xtuyüj el chupam ri okisaxel. ">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; xtuya\u0027 kan ruximik ataqoya\u0027l, majun kanonel tzij  xtuyüj el chupam ri okisaxel. ">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Yujun rub\u0027i\u0027 taqoya\u0027l richin Firefox &formatS;.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Tiyuj el ri rub\u0027i\u0027 taqoya\u0027l">
+<!ENTITY fxaccount_enable_debug_mode "Titzïj ri chojmirisaxik rub\u0027eyal">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
@@ -268,3 +270,8 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Tapitz\u0027a\u0027 qa richin nok achi\u0027el &formatS;">
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
+
+<!ENTITY old_sync_deprecated_notification_title "Tatikirisaj molojri\u0027ïl richin k\u0027a naxïm na awi\u0027">
+<!ENTITY old_sync_deprecated_notification_content "Man nuk\u0027äm ta chik ruwäch ri ataqoya\u0027l">

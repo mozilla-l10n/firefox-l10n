@@ -93,9 +93,10 @@
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Tajin yeruxutuj r itaq okem ri proxi ruk'u'x samaj ">
-<!ENTITY proxyConnectFailure.longDesc "<ul>    
-<li>Tanik'oj ri runuk'ulem proxi richin najikib'a' chi ütz.</li>    
-<li>Tatz'ib'aj el chi re ri anuk'unel b'ey richin najikib'a chi ri proxi ruk'u'x samaj tajin nisamäj.</li>    
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Tanik'oj ri runuk'ulem proxi richin najikib'a' chi ütz.</li> 
+<li>Tatz'ib'aj el chi re ri anuk'unel b'ey richin najikib'a chi ri proxi ruk'u'x samaj tajin 
+nisamäj.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Man nilitäj ta ri proxi ruk'u'x samaj">
@@ -109,14 +110,17 @@
  </ul>">
 
 <!ENTITY redirectLoop.title "Man tajin ta nuq'axaj chik ütz ri ruxaq k'amaya'l">
-<!ENTITY redirectLoop.longDesc " <ul>    
-<li>Re jun k'ayewal re' nik'ulwachitäj ruma nachüp o e'aq'aton kik'ulik ri taq kuki.</li>    
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Re jun k'ayewal re' nik'ulwachitäj ruma nachüp o e'aq'aton kik'ulik 
+ri taq kuki.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Man oyob'en ta re rutzijol tajin nuya' pe ri ruk'u'x samaj">
-<!ENTITY unknownSocketType.longDesc "<ul>    
-<li>Tanikoj chi ri aq'inoj ruyakon ri nuk'unel ichinan chajinem.</li>    
-<li>Rik'in jub'a' ke ri' nub'än ruma runuk'ulem man pa rub'eyal ta ri ruk'u'x samaj.</li></ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Tanikoj chi ri aq'inoj ja ri nuk'unel ichinan chajinem 
+ruyakon.</li> 
+<li>Rik'in jub'a' ke ri' nub'än ruma runuk'ulem man pa rub'eyal ta ri ruk'u'x samaj.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "Man xtikïr ta rik'in ri ütz okem">
 <!ENTITY nssFailure2.longDesc2 "<ul>    
@@ -125,9 +129,11 @@
 </ul>">
 
 <!ENTITY nssBadCert.title "Man xtikïr ta rik'in ri ütz okem">
-<!ENTITY nssBadCert.longDesc2 "<ul>    
-<li>Rik'in jub'a' jun ruk'ayewal ri runuk'ulem ruk'u'x samaj, o chuqa' k'o ri tajin nik'exon ri ruk'u'x samaj.</li>    
-<li>We at jikïl chi atokinäq chik ütz pa re ruk'u'x samaj re', ri sachoj xa xe jun ti mej ruma ri' tikirel natojtob'ej chik pa jun chik ch'uti ramaj.</li>    
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Rik'in jub'a' jun ruk'ayewal ri runuk'ulem ruk'u'x samaj, o chuqa' k'o ri tajin 
+nik'exon ri ruk'u'x samaj.</li> 
+<li>We at jikïl chi atokinäq chik ütz pa re ruk'u'x samaj re', ri sachoj xa xe jun ti mej 
+ruma ri' tikirel natojtob'ej chik pa jun chik ch'uti ramaj.</li> 
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
@@ -162,3 +168,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Näj XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, ke'atz'ib'aj el ri rajaw ri ruxaq k'amaya'l richin naya' rutzijol chi ke re k'ayewal re'.</li></ul></p>">
 
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->

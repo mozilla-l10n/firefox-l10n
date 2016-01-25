@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Telesäx el">
 <!ENTITY addonAction.undo                       "Titzolin chi rij">
 
+<!ENTITY addonUnsigned.message                  "Re jun add-on man tikirel nijikib'äx ruma &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Tetamäx ch'aqa' chik">
