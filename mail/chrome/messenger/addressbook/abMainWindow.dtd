@@ -70,7 +70,7 @@
 <!ENTITY deleteListCmd.label                            "Supprimer la liste">
 <!ENTITY deleteListsCmd.label                           "Supprimer les listes">
 <!ENTITY deleteItemsCmd.label                           "Supprimer les éléments">
-<!ENTITY selectAllCmd.label                             "Tout sélectionner">  
+<!ENTITY selectAllCmd.label                             "Tout sélectionner">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "T">
@@ -108,7 +108,7 @@
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Prénom Nom">
-<!ENTITY firstLastCmd2.accesskey                        "P"> 
+<!ENTITY firstLastCmd2.accesskey                        "P">
 <!ENTITY lastFirstCmd.label                             "Nom, Prénom">
 <!ENTITY lastFirstCmd.accesskey                         "N">
 <!ENTITY displayNameCmd.label                           "Nom à afficher">
@@ -144,6 +144,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "r">
 <!ENTITY newIM.label                                    "Message instantané">
 <!ENTITY newIM.accesskey                                "i">
+<!ENTITY printButton.label                              "Imprimer…">
+<!ENTITY printButton.accesskey                          "m">
 <!ENTITY deleteButton2.label                            "Supprimer">
 <!ENTITY deleteButton2.accesskey                        "S">
 
