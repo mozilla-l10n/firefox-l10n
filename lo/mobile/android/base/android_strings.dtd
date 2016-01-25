@@ -17,7 +17,7 @@
 
 <!ENTITY firstrun_import_title "ນຳເຂົ້າ">
 <!ENTITY firstrun_import_message "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
-<!ENTITY firstrun_import_subtext "ນຳເຂົ້າບຸກມາກ ແລະ ປະຫວັດການໃຊ້ງານຂອງທ່ານຈາກອຸປະກອນອື່ນ.">
+<!ENTITY firstrun_import_subtext "ນຳເຂົ້າບຸກມາກ ແລະ ປະຫວັດການໃຊ້ງານຂອງທ່ານຈາກຕົວທ່ອງເວັບອື່ນ.">
 <!ENTITY firstrun_import_action "ຍ້າຍໄປ &brandShortName;">
 <!ENTITY firstrun_import_dialog_button "ຍ້າຍ">
 <!ENTITY firstrun_import_progress_title "ກຳລັງຍ້າຍ">
@@ -108,8 +108,8 @@
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "ພາສາ">
-<!ENTITY pref_category_language_summary "ປ່ຽນພາສາໃນບຣາວເສີຂອງທ່ານ">
-<!ENTITY pref_browser_locale "ພາສາໃນບຣາວເສີ">
+<!ENTITY pref_category_language_summary "ປ່ຽນພາສາໃນຕົວທ່ອງເວັບຂອງທ່ານ">
+<!ENTITY pref_browser_locale "ພາສາໃນຕົວທ່ອງເວັບ">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
@@ -305,7 +305,7 @@ size. -->
 <!ENTITY pref_search_suggestions "ສະແດງຜົນການແນະນຳການຊອກຫາ">
 <!ENTITY pref_history_search_suggestions "ສະແດງປະຫວັດການຊອກຫາ">
 <!ENTITY pref_import_options "ທາງເລືອກໃນການປ້ອນຂໍ້ມູນ">
-<!ENTITY pref_import_android_summary "ນຳເຂົ້າບຸກມາກ ແລະ ປະຫວັດຈາກບຣາວເຊີ">
+<!ENTITY pref_import_android_summary "ນຳເຂົ້າບຸກມາກ ແລະ ປະຫວັດຈາກຕົວທ່ອງເວັບ">
 <!ENTITY pref_private_data_history2 "ປະຫວັດການຄົ້ນຫາ">
 <!ENTITY pref_private_data_searchHistory "ປະຫວັດການຊອກຫາ">
 <!ENTITY pref_private_data_formdata2 "ແບບຟອມປະຫວັດການໃຊ້ງານ">
@@ -744,8 +744,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "ໄຟຟັອກ: ກ່ຽວກັບຕົວທ່ອງເວັບຂອງທ່ານ">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "ໄຟຟັອກ: ການສະໜັບສະໜູນ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
