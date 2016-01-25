@@ -737,10 +737,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "ລຶບປະຫວັດການໃຊ້ງານ">
 <!ENTITY restrictable_feature_clear_history_description "ອະນຸຍາດໃຫ້ສະມາຊິກພາຍໃນຄອບຄົວສາມາດລືບຂໍ້ມູນກ່ຽວກັບເວັບໄຊຕ໌ ແລະ ຫນ້າເວັບທີ່ພວກເຂົາເຂົ້າໄປເບິງ.">
 <!ENTITY restrictable_feature_advanced_settings "ການຕັ້ງຄ່າຂັ້ນສູງ">
+<!ENTITY restrictable_feature_advanced_settings_description "ນີ້ປະກອບໄປດ້ວຍການນຳເຂົ້າບຸກມາກ, ການກູ້ຄືນແທັບ ແລະ ການອັບເດດແບບອັດຕະໂນມັດ. ປິດເພື່ອເຮັດໃຫ້ການຕັ້ງຄ່າງ່າຍດາຍ ແລະ ເຫມາະສົມສຳລັບສະມາຊິກໃນຄອບຄົວທຸກຄົນ.">
+<!ENTITY restrictable_feature_camera_microphone "ກ້ອງຖ່າຍ ແລະ ໄມໂຄຣໂຟນ">
 
-
-
-
+<!ENTITY restrictable_feature_data_choices "ເລືອກຂໍ້ມູນ">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -755,4 +755,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_summary "ແຕະເພື່ອຮຽນຮູ້ເພີ່ມເຕີມ">

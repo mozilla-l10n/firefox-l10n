@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "ບັນຊີໄຟຟັອກ">
 <!ENTITY fxaccount_status_signed_in_as "ເຂົ້າສູ່ລະບົບດ້ວຍ">
-
+<!ENTITY fxaccount_status_manage_account "ຈັດການບັນຊີ">
 <!ENTITY fxaccount_status_auth_server "ບັນຊີໃນເຄື່ອງແມ່ຂ່າຍ">
 <!ENTITY fxaccount_status_sync_now "ຊິງໃນຂະນະນີ້">
 <!ENTITY fxaccount_status_syncing2 "ກຳລັງຊິງ…">
@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "ເງື່ອນໄຂການໃຫ້ບໍລິການ">
 <!ENTITY fxaccount_status_linkprivacy "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ">
 <!ENTITY fxaccount_status_more "ເພີ່ມເຕີມ &ellipsis;">
-
+<!ENTITY fxaccount_remove_account "ຕັດການເຊື່ອມຕໍ່&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "ລືບບັນຊີໄຟຟັອກຫລືບໍ່?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; ຈະຢຸດການ Sync ກັບບັນຊີຂອງທ່ານ, ແຕ່ວ່າຈະບໍ່ລືບຂໍ້ມູນການທ່ອງເວັບໃນອຸປະກອນນີ້ອອກ.">
@@ -273,3 +273,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
+<!ENTITY old_sync_deprecated_notification_title "ລົ່ງຊື່ເຂົ້າໃຊ້ເພື່ອດຳເນີນການ Syncing">
+<!ENTITY old_sync_deprecated_notification_content "ບັນຊີຂອງທ່ານບໍ່ໄດ້ຮັບການສະໜັບສະໜູນອີກຕໍ່ໄປ">
