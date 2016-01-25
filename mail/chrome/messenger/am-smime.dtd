@@ -25,8 +25,8 @@
 <!ENTITY signMessage.accesskey "m">
 <!ENTITY signingCert.message "Använd följande personliga certifikat:">
 
-<!ENTITY certificates.label       "Certifikat">
-<!ENTITY manageCerts.label      "Visa certifikat">
-<!ENTITY manageCerts.accesskey   "V">
-<!ENTITY manageDevices.label    "Säkerhetsenheter">
+<!ENTITY certificates.label "Certifikat">
+<!ENTITY manageCerts2.label "Hantera certifikat">
+<!ENTITY manageCerts2.accesskey "H">
+<!ENTITY manageDevices.label "Säkerhetsenheter">
 <!ENTITY manageDevices.accesskey "S">
