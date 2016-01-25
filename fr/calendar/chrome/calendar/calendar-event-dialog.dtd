@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Informer les participants">
+<!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Invitation séparée pour chaque participant">
+<!ENTITY event.attendees.notifyundisclo[sed.accesskey  "v">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Cette option envoie un courriel d'invitation à chaque participant. Chaque invitation est adressée à un seul participant afin que les autres participants restent inconnus.">
 
 <!-- Keyboard Shortcuts -->
@@ -138,6 +140,10 @@
 <!ENTITY event.email.attendees.accesskey "R">
 <!ENTITY event.email.tentative.attendees.label "Écrire un courriel aux participants indécis…">
 <!ENTITY event.email.tentative.attendees.accesskey "d">
+<!ENTITY event.remove.attendees.label2                    "Retirer tous les participants">
+<!ENTITY event.remove.attendees.accesskey                 "t">
+<!ENTITY event.remove.attendee.label                      "Retirer le participant">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
 <!ENTITY event.toolbar.save.label "Enregistrer et fermer">
@@ -347,7 +353,8 @@
 <!ENTITY event.attendee.usertype.individual "Individu">
 <!ENTITY event.attendee.usertype.group "Groupe">
 <!ENTITY event.attendee.usertype.resource "Ressource">
-<!ENTITY event.attendee.usertype.room "Canal">
+<!ENTITY event.attendee.usertype.room "Salle">
+<!ENTITY event.attendee.usertype.unknown "Type inconnu">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Veuillez indiquer le fuseau horaire">
