@@ -8,5 +8,3 @@
 <!ENTITY aboutProfiles.restart.title "Redémarrer">
 <!ENTITY aboutProfiles.restart.inSafeMode "Redémarrer avec les modules désactivés…">
 <!ENTITY aboutProfiles.restart.normal "Redémarrer normalement…">
-<!ENTITY aboutProfiles.profileManager.workOffline "Travailler hors connexion">
-<!ENTITY aboutProfiles.profileManager.autoSelect "Utiliser le profil sélectionné sans demander au démarrage">
