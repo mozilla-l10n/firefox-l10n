@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
+<!ENTITY setupButton.label          "Tinuk'samajïx &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "T">
 
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
@@ -49,7 +51,7 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInUnverified.beforename.label "">
-
+<!ENTITY signedInUnverified.aftername.label "man jikib'an ta.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -59,7 +61,7 @@ both, to better adapt this sentence to their language.
 
 
 
-<!ENTITY manage.label                "Tisamajïx">
+
 
 
 
@@ -74,7 +76,11 @@ both, to better adapt this sentence to their language.
 
 
 
-
-<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
+<!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Sync to your mobile device.
+     Download Firefox for Android or Firefox for iOS." -->
+<!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 

@@ -23,8 +23,6 @@
 <!ENTITY netmonitorUI.reloadNotice3       "ri ruxaq richin natz'ët rucholajil etamab'äl pa ruwi' rusamaj rub'ey.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
-
-<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
@@ -176,10 +174,6 @@
   -  in the network details response tab identifying an image's mime. -->
 
 <!ENTITY netmonitorUI.response.mime       "MIME Ruwäch:">
-<!-- LOCALIZATION NOTE (netmonitorUI.response.encoding): This is the label displayed
-  -  in the network details response tab identifying an image's encoding. -->
-
-<!ENTITY netmonitorUI.response.encoding   "Cholajil:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.blocked): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "blocked" state. -->
@@ -210,10 +204,6 @@
   -  in a "receive" state. -->
 
 <!ENTITY netmonitorUI.timings.receive     "Tajin nik'ul:">
-<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
-  -  for warning icon that indicates a connection uses insecure protocol. -->
-
-<!ENTITY netmonitorUI.security.warning.sslv3      "Itzel nitz'et ri rub'eyal samaj SSL 3.0 ruma ri' ajitz.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 

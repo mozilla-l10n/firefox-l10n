@@ -18,6 +18,10 @@
 
 
 
+
+
+
+
 <!ENTITY aboutTelemetry.generalDataSection "Chijun taq Tzij">
 
 
@@ -39,7 +43,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Yaloj taq tz'ib'anïk">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  Retamab'al q'inoj">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Molon taq tem k'ulwäch  ruma taq tz'aqat">
 
@@ -54,3 +57,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "  Kek'ut taq tzij man esamajin ta pa tzeqeb'anïk">
 
 <!ENTITY aboutTelemetry.filterText "  Tichayüx (taq cholaj o /regexp/)">
+

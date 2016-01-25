@@ -6,12 +6,12 @@
 <!ENTITY newtab.pageTitle "K’ak’a’ ruwi’">
 <!ENTITY newtab.customize.classic "Ke'ak'utu' ri taq ruxaq ak'amaya'l ye'awajo'">
 <!ENTITY newtab.customize.cog.enhanced "Ke'atz'aqtisaj ri taq ruxaq k'amaya'l echilab'en">
-
+<!ENTITY newtab.customize.cog.title2 "K'AK'A' TAQ CHAJINEL RUWI'">
 <!ENTITY newtab.customize.cog.learn "Ke'awetamaj ch'aqa' chik taq K'ak'a' Ruwi'">
 <!ENTITY newtab.customize.title "Tawichinaj ri ruxaq richin K'ak'a' Ruwi'">
-
+<!ENTITY newtab.customize.suggested "Kek'ut pe ri taq ruxaq k'amaya'l echilab'en pe chuqa' ri ajowanel taq ruxaq k'amaya'l">
 <!ENTITY newtab.customize.topsites "Kek'ut pe ri taq ruxaq ak'amaya'l ye'awajo'">
-
+<!ENTITY newtab.customize.blank2 "Tik'üt pe ri kowöl ruxaq">
 <!ENTITY newtab.undo.removedLabel "Yujun Ch'uti'n.">
 <!ENTITY newtab.undo.undoButton "Titzolïx.">
 <!ENTITY newtab.undo.restoreButton "Titzolïx kiwäch konojel.">

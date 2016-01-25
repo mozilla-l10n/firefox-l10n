@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Rub'anikil Kaxa">
+<!ENTITY layoutViewTitle        "Rub'anikil Kaxa">
 <!ENTITY margin.tooltip         "ruchi'">
 <!ENTITY border.tooltip         "ruchi'">
 <!ENTITY padding.tooltip        "nojsan">

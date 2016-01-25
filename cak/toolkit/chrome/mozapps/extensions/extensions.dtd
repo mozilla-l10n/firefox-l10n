@@ -20,6 +20,8 @@
 <!ENTITY cmd.forward.tooltip                  "Jun chik ruxaq">
 
 
+
+
 <!-- global warnings -->
 
 
@@ -87,8 +89,6 @@
 
 <!ENTITY cmd.uninstallAddon.label             "Telesäx">
 <!ENTITY cmd.uninstallAddon.accesskey         "s">
-
-
 
 
 

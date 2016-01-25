@@ -15,8 +15,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY cmd.pause.label                  "Rupab'axik">
 <!ENTITY cmd.pause.accesskey              "R">
-<!ENTITY cmd.resume.label                 "&#037;Tisamajïx chik qa">
-<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.resume.label                 "Tisamajïx chik qa">
+<!ENTITY cmd.resume.accesskey             "T">
 <!ENTITY cmd.cancel.label                 "Tiq'at">
 <!ENTITY cmd.cancel.accesskey             "T">
 <!ENTITY cmd.show.label                   "Tijaq ri yaksamaj  k'o rupam ">

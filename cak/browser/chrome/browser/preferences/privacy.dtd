@@ -2,12 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+
+
+
+
+
+
+
+
 <!ENTITY tracking.label                 "Kanoxïk">
 
 
 
 
 
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 
 
@@ -39,10 +50,8 @@
 
 
 
-
-
-
-
+<!ENTITY  historyHeader.pre.label          "&brandShortName; xtitikïr:">
+<!ENTITY  historyHeader.pre.accesskey      "x">
 
 
 

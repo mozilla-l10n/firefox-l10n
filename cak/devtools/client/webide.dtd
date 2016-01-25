@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Kenuk'samajïx kitz'aqat taq ch'akul">
 <!ENTITY projectMenu_manageComponents_accesskey "K">
 
+
 <!ENTITY runtimeMenu_label "Ruq'ijul b'anatajnïk">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Tichup">
@@ -74,6 +75,8 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "Taq nunimasamaj">
 <!ENTITY projectPanel_runtimeApps "Ruq'ijul b'anatajnïk kichin taq chokoy">
@@ -85,6 +88,7 @@
 <!ENTITY runtimePanel_installsimulator "Tiyak ri SIMULATOR">
 <!ENTITY runtimePanel_noadbhelper "Tiyak ADB to'onel">
 <!ENTITY runtimePanel_nousbdevice "¿La man yatikïr ta natz'ët ri awokisaxel?">
+
 <!-- Lense -->
 
 <!ENTITY details_valid_header "ütz">
@@ -136,6 +140,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Tich'ap pa ruyonil tz'apin taq q'inijuch'">
 <!ENTITY prefs_options_keybindings "Kitunik taq pitz'b'äl">
 <!ENTITY prefs_options_keybindings_default "Jikib'an wi">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Rukemoj kikajtz'ik ya'oj taq q'ij">
@@ -208,3 +214,6 @@
 <!ENTITY simulator_device "Samajib'äl">
 <!ENTITY simulator_screenSize "Ruwäch">
 <!ENTITY simulator_pixelRatio "Ximoj pisel">
+
+
+

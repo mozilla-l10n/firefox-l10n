@@ -10,29 +10,6 @@
 
 <!ENTITY window.title "Web Temeb'äl">
 <!ENTITY browserConsole.title "Rutemeb'al okik'amaya'l">
-
-<!ENTITY networkPanel.requestURLColon             "K'utun URL:">
-<!ENTITY networkPanel.requestMethodColon          "Rub'eyal ri k'utun:">
-<!ENTITY networkPanel.statusCodeColon             "Rajlab'al Amaq':">
-
-<!ENTITY networkPanel.requestHeaders              "Taq ruch'utukwi' ri k'utun">
-<!ENTITY networkPanel.requestCookie               "Kuki etaqon">
-<!ENTITY networkPanel.requestBody                 "Ruch'akul ri k'utun">
-<!ENTITY networkPanel.requestFormData             "Taq rutzij nojwuj etaqon">
-
-<!ENTITY networkPanel.responseHeaders             "Taq ruch'utukwi' tzolin tzij">
-<!ENTITY networkPanel.responseCookie              "Kuki k'ulun">
-<!ENTITY networkPanel.responseBody                "Ruch'akul tzolin tzij">
-<!ENTITY networkPanel.responseBodyCached          "Taq tzij pan ewa'n">
-<!ENTITY networkPanel.responseBodyUnknownType     "Ruwäch chi rupam man etaman ta ruwa">
-<!ENTITY networkPanel.responseNoBody              "Majun ruch'akul ruk'amon pe ri tzolin tzij">
-<!ENTITY networkPanel.responseImage               "Wachib'äl k'ulun">
-<!ENTITY networkPanel.responseImageCached         "Wachib'äl pan ewa'n">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "Keq'alajisäx taq kich'akul ri taq k'utun chuqa' tzolin taq tzij">
-<!ENTITY saveBodies.accesskey "K">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +46,21 @@
 <!ENTITY btnPageLogging.label   "Tz'ib'axïk">
 <!ENTITY btnPageLogging.tooltip "Keq'alajisäx rutzijol taq taqoj etaqon pa ri window.console wachinäq">
 <!ENTITY btnPageLogging.accesskey3 "K">
-<!ENTITY btnConsoleErrors       "Taq sachoj">
-<!ENTITY btnConsoleInfo         "Etamab'äl">
-<!ENTITY btnConsoleWarnings     "Kitzijol taq k'ayewal">
-<!ENTITY btnConsoleLog          "Tz'ib'axïk">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Taq qajnäq">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
@@ -108,5 +94,7 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+
+
 
 
