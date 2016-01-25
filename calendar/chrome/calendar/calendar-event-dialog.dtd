@@ -35,7 +35,7 @@
 <!ENTITY event.attendees.notify.label               "Hysbysu mynychwyr">
 <!ENTITY event.attendees.notify.accesskey           "m">
 <!ENTITY event.attendees.notifyundisclosed.label    "Gwahoddiad ar wahân i fynychwyr">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "G">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Mae'r dewis hwn yn anfon un e-bost gwahoddiad i bob mynychwr. Bydd y gwahoddiad yn cynnwys y mynychwr sy'n derbyn yn unig, fel nad yw manylion mynychwyr eraill yn cael eu datgelu.">
 <!-- Keyboard Shortcuts -->
 
@@ -48,7 +48,7 @@
 <!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
-<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.cut.key                     "n">
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "F">
 <!ENTITY event.dialog.select.all.key              "A">
