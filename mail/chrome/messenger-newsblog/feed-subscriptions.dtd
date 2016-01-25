@@ -21,7 +21,7 @@
 <!ENTITY quickMode.label             "Pokaži povzetek članka namesto nalaganja spletne strani">
 <!ENTITY quickMode.accesskey         "P">
 
-<!ENTITY autotagEnable.label         "Samodejno ustvari oznake iz imen &lt;kategorij&gt; vira">
+<!ENTITY autotagEnable.label         "Samodejno ustvari oznake iz imen &lt;category&gt; vira">
 <!ENTITY autotagEnable.accesskey     "S">
 <!ENTITY autotagUsePrefix.label      "Oznakam dodaj predpono:">
 <!ENTITY autotagUsePrefix.accesskey  "O">
