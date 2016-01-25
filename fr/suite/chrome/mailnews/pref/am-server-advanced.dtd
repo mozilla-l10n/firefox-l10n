@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "V">
 <!ENTITY dualUseFolders.label "Le serveur prend en charge les dossiers qui contiennent des sous-dossiers et des messages">
 <!ENTITY dualUseFolders.accesskey "m">
-<!ENTITY useIdle.label "Utiliser la commande IDLE si le serveur le gère">
-<!ENTITY useIdle.accesskey "i">
 <!ENTITY maximumConnectionsNumber.label "Nombre maximum de connexions au serveur à conserver en mémoire cache">
 <!ENTITY maximumConnectionsNumber.accesskey "N">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Permettre au serveur d'ignorer ces espaces de noms">
 <!ENTITY overrideNamespaces.accesskey "o">
-<!ENTITY pop3Desc.label "Lorsque vous téléchargez du courrier via le protocole POP3 de ce serveur, utiliser les répertoires de Courrier entrant suivant :" >
-<!ENTITY accountDirectory.label "Courrier entrant de ce compte">
-<!ENTITY accountDirectory.accesskey "e">
+<!ENTITY pop3DeferringDesc.label "Lorsque vous téléchargez du courrier depuis le compte de ce serveur, utiliser les répertoires de Courrier entrant suivants pour stocker les messages :" >
+<!ENTITY accountInbox.label "Courrier entrant de ce compte">
+<!ENTITY accountInbox.accesskey "e">
 <!ENTITY deferToServer.label "Courrier entrant d'un autre compte">
 <!ENTITY deferToServer.accesskey "a">
 <!ENTITY deferGetNewMail.label "Inclure ce serveur lors de la relève du nouveau courrier">

@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Vérifier les nouveaux messages toutes les ">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutes">
+<!ENTITY useIdleNotifications.label "Autoriser les notifications instantanées lorsque de nouveaux messages arrivent">
+<!ENTITY useIdleNotifications.accesskey "A">
 <!ENTITY connectionSecurity.label "Sécurité de la connexion :">
 <!ENTITY connectionSecurity.accesskey "S">
 <!ENTITY connectionSecurityType-0.label "Aucune">
@@ -57,7 +59,7 @@
 <!ENTITY emptyTrashOnExit.accesskey "b">
 <!ENTITY loginAtStartup.label "Vérifier le courrier au lancement">
 <!ENTITY loginAtStartup.accesskey "r">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->

@@ -42,7 +42,7 @@
 <!ENTITY openMessageFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Enregistrer comme">
-<!ENTITY saveAsMenu.accesskey "s"> 
+<!ENTITY saveAsMenu.accesskey "s">
 <!ENTITY saveAsFileCmd.label "Fichier">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
@@ -56,7 +56,7 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "L">
 <!ENTITY getNextNMsgCmd.label "Relever les 500 prochains messages">
 <!ENTITY getNextNMsgCmd.accesskey "p">
-<!ENTITY sendUnsentCmd.label "Envoyer les messages en attente">  
+<!ENTITY sendUnsentCmd.label "Envoyer les messages en attente">
 <!ENTITY sendUnsentCmd.accesskey "a">
 <!ENTITY subscribeCmd.label "S'abonner…">
 <!ENTITY subscribeCmd.accesskey "b">
@@ -64,7 +64,7 @@
 <!ENTITY deleteFolder.accesskey "d">
 <!ENTITY renameFolder.label "Renommer le dossier…">
 <!ENTITY renameFolder.accesskey "R">
-<!ENTITY renameFolder.key "VK_F2"> 
+<!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compacter les dossiers">
 <!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vider la corbeille">
@@ -287,7 +287,7 @@
 <!ENTITY searchAddressesCmd.accesskey "a">
 
 <!-- Go Menu -->
-<!ENTITY goMenu.label "Aller à"> 
+<!ENTITY goMenu.label "Aller à">
 <!ENTITY goMenu.accesskey "l">
 <!ENTITY nextMenu.label "Prochain">
 <!ENTITY nextMenu.accesskey "P">
@@ -685,7 +685,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Choisir les colonnes à afficher">
-<!ENTITY threadColumn2.tooltip "Afficher les fils de discussion"> 
+<!ENTITY threadColumn2.tooltip "Afficher les fils de discussion">
 <!ENTITY fromColumn2.tooltip "Trier par expéditeur">
 <!ENTITY recipientColumn2.tooltip "Trier par destinataire">
 <!ENTITY correspondentColumn2.tooltip "Trier par correspondants">
@@ -815,7 +815,7 @@
      This is actually the key used for the global message search box; we have
      not changed -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (search.label.base):
+<!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box.  We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
@@ -824,7 +824,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Rechercher… #1">
+<!ENTITY search.label.base1 "Rechercher #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -853,6 +853,8 @@
 <!ENTITY SendMessageTo.accesskey "y">
 <!ENTITY CopyEmailAddress.label "Copier l'adresse électronique">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNameAndEmailAddress.label "Copier le nom et l'adresse électronique">
++<!ENTITY CopyNameAndEmailAddress.accesskey "l">
 <!ENTITY CopyNewsgroupName.label "Copier le nom du groupe de discussion">
 <!ENTITY CopyNewsgroupName.accesskey "g">
 <!ENTITY CopyNewsgroupURL.label "Copier l'adresse du groupe de discussion">

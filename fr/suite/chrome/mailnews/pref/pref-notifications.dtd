@@ -21,6 +21,10 @@
 <!ENTITY showAlertSubject.accesskey       "b">
 <!ENTITY showAlertSender.label            "Afficher l'expéditeur">
 <!ENTITY showAlertSender.accesskey        "f">
+<!ENTITY useSystemAlert.label             "Utiliser les notifications du système d'exploitation">
+<!ENTITY useSystemAlert.accesskey         "d">
+<!ENTITY useBuiltInAlert.label            "Utiliser les notifications de &brandShortName;">
+<!ENTITY useBuiltInAlert.accesskey        "t">
 
 <!ENTITY showTrayIcon.label               "Afficher une icône dans la barre de notification">
 <!ENTITY showTrayIcon.accesskey           "e">
