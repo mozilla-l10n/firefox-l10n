@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "Šigirawey">
+<!ENTITY fontInspectorTitle "Šigirawey">
 <!ENTITY showAllFonts "Dii šigirawey kul kaŋ ga dira moɲoo ra">
 <!ENTITY usedAs "Goyandi sanda: ">
 <!ENTITY system "dabariɲaa">

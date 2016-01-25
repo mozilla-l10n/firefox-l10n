@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Sanba woo se:">
 <!ENTITY     props.expires.label            "Waatoo ga ben:">
 
+
 <!ENTITY     window.title                   "Aleewawey">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

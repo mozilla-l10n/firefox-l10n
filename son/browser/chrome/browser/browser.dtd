@@ -186,17 +186,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Kar">
 <!ENTITY printButton.tooltip          "Moɲoo woo kar">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Nungu alhabar guna">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Bangandiyan guna">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Horodoo hãayanoo guna">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Tontoni sinjiyan alhabaroo guna">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Porogaram ši-ciya alhabaroo guna">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "War ciyari alhabarey juwal">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Guna wala war ga boona ka war šennikufaloo gaabu">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Porogaram sinjiyan alhabaroo guna">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Sukari goyyan juwal moɲoo woo ga">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Barmay wala war ga hin ka duu bangandiyaney nungoo ga">
 
 
 
@@ -245,10 +247,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Tontoney">
 <!ENTITY addons.accesskey             "T">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Porogaramizey">
-<!ENTITY webapps.accesskey            "P">
-
-
 
 <!ENTITY webDeveloperMenu.label       "Tataaru cinakaw">
 <!ENTITY webDeveloperMenu.accesskey   "T">
@@ -744,7 +742,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Moɲoo woo n' ka jisandii war ordinateroo ga.">
 <!ENTITY identity.connectionVerified1 "War dobu nda saajaw nungoo woo ga, kaŋ ga dira nda:">
 <!ENTITY identity.connectionInternal "Woo ti &brandShortName; moo saajante.">
-<!ENTITY identity.insecureLoginForms "War huruyan šilbaa ši saajaw ne.">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; na moɲoo woo doo fooyaŋ kaŋ ši saajaw gagay.">
@@ -926,10 +924,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "n">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ma ši ay hãa koyne">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "M">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "Moɲoo gaabu Pocket ga">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Doboo gaabu Pocket boŋ">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "Pocket maašeede guna">

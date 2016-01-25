@@ -5,11 +5,11 @@
 <!ENTITY tabCrashed.header "Alhabar laala jina: Nor lokoo woo kaŋ">
 <!ENTITY tabCrashed.message "Sohõ alhabar henna: War ga hin ka nor lokoo woo daabu, a yeeti wala nor loku kaŋantey kul yeeti.">
 <!ENTITY tabCrashed.sendReport "Kaŋyan bayrandi sanba k'alhabar laala taaga ganji">
-
-
-
-
-
+<!ENTITY tabCrashed.includeURL "Moɲoo kaŋ boŋ ay cindi aderesoo dam">
+<!ENTITY tabCrashed.commentPlaceholder "Daara foo tonton (daarawey ga hin ka diyandi)">
+<!ENTITY tabCrashed.emailPlaceholder "War bataga aderesoo dam ne">
+<!ENTITY tabCrashed.emailMe "Bataga tee yane nd' alhabar tontoni bangay">
+<!ENTITY tabCrashed.crashReporter "Mozilla kaŋyan bayrandikaw">
 <!ENTITY tabCrashed.reportSent "Kaŋyan bayrandi n' ka sanbandi ka ben; foofo nda war faabaa ka &brandShortName; boryandi ka tonton!">
 <!ENTITY tabCrashed.closeTab "Nor lokoo woo daabu">
 <!ENTITY tabCrashed.restoreTab "Nor lokoo woo yeeti">

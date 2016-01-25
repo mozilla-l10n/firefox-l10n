@@ -15,8 +15,10 @@ by NSS/PSM via netError.xhtml. -->
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-
-
+<!ENTITY certerror.introPara "<span class='hostname'/> koyoo mana ngey interneti nungoo hanse ka boori.  Ka ganji war alhabaroo ma zayandi, &brandShortName; wanji ka dobu interneti nungoo woo ga.">
+<!ENTITY certerror.returnToPreviousPage.label "Yee banda">
+<!ENTITY certerror.learnMore "Bay ka tonton…">
+<!ENTITY certerror.advanced.label "Jinekoyante">
 
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Nungoo woo ga goy nda HTTP 
 Kanbeyan saajaw šenda (HSTS) ka tabatandi kaŋ &brandShortName; ma ciya a ga de 
@@ -30,4 +32,8 @@ ni gaaru ni ciyaroo waate. </b>">
 <!ENTITY certerror.expert.contentPara2 "War ma ši lanbari tonton nda manti 
 war ga bay kaŋ adalil hennoo goo no, kaŋ se dogoo woo ši nda taamanssa naanayante.">
 <!ENTITY certerror.addException.label "Lanbari tonton…">
+<!ENTITY certerror.copyToClipboard.label "Hantumoo berandi deeji-walhaa ga">
+
+
+
 

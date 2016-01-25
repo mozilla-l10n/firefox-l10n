@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "Interneti diji-walha">
 <!ENTITY browserConsole.title "Ceecikaw diji-walha">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "Hãayan nda zaabi gundakunawey leeti">
-<!ENTITY saveBodies.accesskey "l">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 

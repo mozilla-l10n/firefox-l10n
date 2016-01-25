@@ -51,8 +51,10 @@ their language.
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
-
-
-
-
+<!ENTITY tabgroupsmigration.tabtitle            "War kanji margari taney ganandi">
+<!ENTITY tabgroupsmigration.pagetitle2          "Ir na kanji margarey kaa amma war kanjey gaabundi">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "Bay kanji margarey barmayyan tontoney ga.">
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; na margarey kul doo-šilbay hala haya kul ma ši dere war se.">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "Kanji margari doo-šilbantey cebe">
+<!ENTITY tabgroupsmigration.restoredescription  "War ga hin ka soobay da ka bandafaari margari jerey wal' ikul yeeti zanfunoo ra sohõ:">
 

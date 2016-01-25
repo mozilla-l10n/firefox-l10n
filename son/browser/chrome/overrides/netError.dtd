@@ -167,7 +167,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Bay ka tonton…">
 <!ENTITY errorReporting.sending "Goo ma bayrandi sanba">
 <!ENTITY errorReporting.sent "Bayrandi sanbante">
-<!ENTITY errorReporting.report "Bayrandi">
 <!ENTITY errorReporting.tryAgain "Ceeci koyne">
 
 <!ENTITY remoteXUL.title "XUL moora">
