@@ -8,5 +8,3 @@
 <!ENTITY aboutProfiles.restart.title "Ponowne uruchamianie">
 <!ENTITY aboutProfiles.restart.inSafeMode "Uruchom ponownie z wyłączonymi dodatkami…">
 <!ENTITY aboutProfiles.restart.normal "Uruchom ponownie…">
-<!ENTITY aboutProfiles.profileManager.workOffline "Pracuj w trybie offline">
-<!ENTITY aboutProfiles.profileManager.autoSelect "Domyślnie (bez pytania) używaj zaznaczonego profilu przy uruchamianiu">
