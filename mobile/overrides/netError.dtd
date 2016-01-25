@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "页面载入出错">
 <!ENTITY retry.label "重试">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "无法连接">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -121,9 +121,9 @@
 <li>这可能是服务器配置的问题，或者有人尝试冒充该服务器所致。</li> 
 <li>如果您之前曾成功连接该服务器，那么此错误可能是暂时的，您可以稍后再试。</li> 
 </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>该网站可能暂时不可用或者太忙。请在几分钟后重试。</li> 
 <li>如果您无法载入任何页面，请检查您的移动设备数据或者 Wi-Fi 连接。 
@@ -140,11 +140,11 @@
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
 <!ENTITY securityOverride.getMeOutOfHereButton "带我离开！">
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>如果您使用的是一个您不能完全信任的互联网连接，或者您并不使用警告的此服务器，您不应该添加一个例外。</p> 
  
@@ -154,3 +154,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "远程 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>请联系网站拥有者告知这个问题。</li></ul></p>">
 
+<!ENTITY sslv3Used.title "无法安全连接">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "高级信息: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "您的连接不安全">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "高级信息: SSL_ERROR_NO_CYPHER_OVERLAP">
