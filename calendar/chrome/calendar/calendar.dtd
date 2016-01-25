@@ -142,7 +142,7 @@
 <!ENTITY calendar.task.complete.button.tooltip "Marquer les tâches sélectionnées comme terminées">
 <!ENTITY calendar.task.priority.button.tooltip "Changer la priorité">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base "Filtrer les tâches… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1 "Filtrer les tâches #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Maj+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac "&lt;&#x21E7;&#x2318;K&gt;">
 
