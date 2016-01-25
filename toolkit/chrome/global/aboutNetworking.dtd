@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived "Messaggi ricevuti">
 <!ENTITY aboutNetworking.bytesSent "Byte inviati">
 <!ENTITY aboutNetworking.bytesReceived "Byte ricevuti">
+<!ENTITY aboutNetworking.dnsLookup "DNS lookup">
+<!ENTITY aboutNetworking.dnsLookupButton "Risolvi">
+<!ENTITY aboutNetworking.dnsDomain "Dominio">
+<!ENTITY aboutNetworking.dnsLookupTableColumn "IP">
