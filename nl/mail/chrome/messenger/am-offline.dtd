@@ -6,7 +6,7 @@
 <!ENTITY doNotDownloadNntp.label "Om schijfruimte te besparen, niet downloaden voor offlinegebruik:">
 <!ENTITY doNotDownloadImap.label "Om schijfruimte te besparen kan het downloaden van berichten van de server en het bewaren van lokale versies voor offlinegebruik worden beperkt op leeftijd of grootte.">
 <!ENTITY allFoldersOffline.label "Berichten voor deze account op deze computer bewaren">
-<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline.accesskey "c">
 <!ENTITY offlineNotDownload.label "Berichten groter dan">
 <!ENTITY offlineNotDownload.accesskey "r">
 <!ENTITY autosyncNotDownload.label "Berichten niet downloaden die groter zijn dan">

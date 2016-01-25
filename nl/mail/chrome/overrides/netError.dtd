@@ -175,7 +175,7 @@
 ">
 
 <!ENTITY forbiddenBlocked.title "Verboden website">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; heeft voorkomen dat deze pagina werd geladen, omdat het geconfigureerd is om hem te blokkeren.</p>
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; heeft voorkomen dat deze pagina werd geladen, omdat het is geconfigureerd om de pagina te blokkeren.</p>
 ">
 
 <!ENTITY cspBlocked.title "Geblokkeerd door inhoudbeveiligingsbeleid">

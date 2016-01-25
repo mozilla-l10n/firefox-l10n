@@ -7,7 +7,7 @@
 <!ENTITY biffEnd.label "minuten">
 
 <!ENTITY loginAtStartup.label "Op nieuwe artikelen controleren bij opstarten">
-<!ENTITY loginAtStartup.accesskey "o">
+<!ENTITY loginAtStartup.accesskey "t">
 
 <!ENTITY useQuickMode.label "Standaard de artikelsamenvatting weergeven i.p.v. de webpagina laden">
 <!ENTITY useQuickMode.accesskey "S">

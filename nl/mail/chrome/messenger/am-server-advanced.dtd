@@ -22,8 +22,8 @@
 <!ENTITY otherUsersNamespace.accesskey "d">
 <!ENTITY overrideNamespaces.label "Server toestaan om deze namespaces te negeren">
 <!ENTITY overrideNamespaces.accesskey "S">
-<!ENTITY pop3DeferringDesc.label "Bij het downloaden van e-mail van deze POP3-server, de volgende map voor nieuwe e-mail gebruiken:">
-<!ENTITY accountInbox.label "Postvak IN van deze account">
+<!ENTITY pop3DeferringDesc.label "Bij het downloaden van e-mail van de server van deze account, de volgende map voor het opslaan van nieuwe berichten gebruiken:">
+<!ENTITY accountInbox.label "Postvak IN voor deze account">
 <!ENTITY accountInbox.accesskey "P">
 <!ENTITY deferToServer.label "Postvak IN van een andere account">
 <!ENTITY deferToServer.accesskey "r">

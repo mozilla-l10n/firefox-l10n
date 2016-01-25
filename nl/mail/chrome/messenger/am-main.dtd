@@ -17,7 +17,7 @@
 <!ENTITY replyTo.accesskey "n">
 <!ENTITY replyTo.placeholder "Ontvangers zullen antwoorden naar dit andere adres">
 <!ENTITY organization.label "Organisatie:">
-<!ENTITY organization.accesskey "O">
+<!ENTITY organization.accesskey "r">
 <!ENTITY signatureText.label "Tekst van de ondertekening:">
 <!ENTITY signatureText.accesskey "T">
 <!ENTITY signatureHtml.label "HTML gebruiken (bv. &lt;b&gt;bold&lt;/b&gt;)">

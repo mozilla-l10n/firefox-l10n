@@ -620,7 +620,7 @@
 <!ENTITY folderContextEmptyTrash.label "Prullenbak leegmaken">
 <!ENTITY folderContextEmptyTrash.accesskey "P">
 <!ENTITY folderContextEmptyJunk.label "Ongewensteberichtenmap leegmaken">
-<!ENTITY folderContextEmptyJunk.accesskey "t">
+<!ENTITY folderContextEmptyJunk.accesskey "s">
 <!ENTITY folderContextSendUnsentMessages.label "Niet-verzonden berichten verzenden">
 <!ENTITY folderContextSendUnsentMessages.accesskey "N">
 <!ENTITY folderContextUnsubscribe.label "Abonnement opzeggen">
