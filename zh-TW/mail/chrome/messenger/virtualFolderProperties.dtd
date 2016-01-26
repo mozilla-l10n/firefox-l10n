@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY virtualFolderProperties.title "新增即時搜尋資料夾">
-<!ENTITY name.label                 "名字:">
+<!ENTITY name.label                 "名稱:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "在下列位置建立子資料夾:">
 <!ENTITY description.accesskey      "C">

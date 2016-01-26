@@ -215,4 +215,7 @@
 <!ENTITY simulator_device "裝置">
 <!ENTITY simulator_screenSize "畫面">
 <!ENTITY simulator_pixelRatio "像素比例">
+<!ENTITY simulator_tv_data "電視模擬">
+<!ENTITY simulator_tv_data_open "設定資料">
+<!ENTITY simulator_tv_data_open_button "開啟設定目錄…">
 

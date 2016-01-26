@@ -26,8 +26,8 @@
 <!ENTITY signingCert.message "使用此憑證簽署您寄出的郵件:">
 
 <!ENTITY certificates.label "憑證">
-<!ENTITY manageCerts.label "檢視憑證">
-<!ENTITY manageCerts.accesskey "V">
+<!ENTITY manageCerts2.label "管理憑證">
+<!ENTITY manageCerts2.accesskey "M">
 <!ENTITY manageDevices.label "安全裝置">
 <!ENTITY manageDevices.accesskey "y">
 

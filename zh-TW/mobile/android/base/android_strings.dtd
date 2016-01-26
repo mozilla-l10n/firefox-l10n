@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "歡迎">
 <!ENTITY  onboard_start_message3 "使用 &brandShortName; 瀏覽">
 <!ENTITY  onboard_start_subtext3 "讓您的行動網頁瀏覽體驗能有您自己的風格。">
-<!ENTITY  onboard_start_button_account "登入至 &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "歡迎使用 &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "透過好用的搜尋建議捷徑，更快找到想要的東西。">
+<!ENTITY firstrun_bookmarks_title "瀏覽紀錄">
+<!ENTITY firstrun_bookmarks_message "您的最愛，就在正中央">
+<!ENTITY firstrun_bookmarks_subtext "搜尋時，同步在書籤與瀏覽紀錄中尋找">
+<!ENTITY firstrun_data_title "網路數據">
+<!ENTITY firstrun_data_message "網路用得更少，幫您省得更多">
+<!ENTITY firstrun_data_subtext "封鎖圖片，讓您不用花這麼多流量就能開啟各個網站。">
+<!ENTITY firstrun_sync_title "同步">
+<!ENTITY firstrun_sync_message "&brandShortName; 總是站在您這邊">
+<!ENTITY firstrun_sync_subtext "隨處同步您的分頁、密碼。">
+<!ENTITY firstrun_signin_message "開始連線使用">
+<!ENTITY firstrun_signin_button "登入至 Sync">
 <!ENTITY  onboard_start_button_browser "開始瀏覽">
 <!ENTITY firstrun_button_next "下一步">
 
 <!ENTITY  onboard_start_restricted1 "透過這個簡單版的 &brandShortName; 保持安全與控制程度。">
-
-<!ENTITY firstrun_import_title "匯入">
-<!ENTITY firstrun_import_message "歡迎使用 &brandShortName;">
-<!ENTITY firstrun_import_subtext "從其他瀏覽器匯入書籤與瀏覽紀錄。">
-<!ENTITY firstrun_import_action "轉移至 &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "傳輸">
-<!ENTITY firstrun_import_progress_title "轉移中">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "透過 Wi-Fi 進行遠端除錯">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "您的裝置需要安裝 QR 碼掃描程式才能使用 Wi-Fi 除錯。">
 <!ENTITY pref_remember_signons2 "記住登入資訊">
-<!ENTITY pref_open_external_urls_privately_title "使用隱私瀏覽模式開啟鏈結">
-<!ENTITY pref_open_external_urls_privately_summary "對所有在 &brandShortName; 開啟的外部鏈結">
 <!ENTITY pref_manage_logins "管理登入密碼">
 
 <!ENTITY pref_category_home "首頁">
@@ -245,8 +249,14 @@
 <!ENTITY tab_queue_prompt_title "開啟多個鏈結？">
 <!ENTITY tab_queue_prompt_text4 "先存下來，下次開啟 &brandShortName; 時再一起打開">
 <!ENTITY tab_queue_prompt_tip_text2 "您之後也可以在設定中修改此行為">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "授予「蓋過其他應用程式」權限">
 <!ENTITY tab_queue_prompt_positive_action_button "啟用">
 <!ENTITY tab_queue_prompt_negative_action_button "現在不要">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "開啟設定">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +266,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "等待開啟 1 個分頁中">
+
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "若要開啟多個鏈結，請授權 &brandShortName; 取得「蓋過其他應用程式」的權限">
 
 <!ENTITY pref_char_encoding "語言及字元編碼">
 <!ENTITY pref_char_encoding_on "顯示選單">
@@ -524,18 +538,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "您最近的分頁將會顯示於此。">
 <!ENTITY home_open_all "開啟全部">
 <!ENTITY home_most_recent_empty "您最近瀏覽的網頁將會顯示於此。">
+<!ENTITY home_selected_empty "您在選擇的時間範圍開啟的網站將在此顯示。">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "噓！&formatS1;開新隱私瀏覽分頁&formatS2; 後將不會儲存您的瀏覽紀錄。">
 <!ENTITY home_reading_list_empty "您儲存稍後再讀的文件將會顯示於此。">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "秘訣: 網址列出現 &formatI; 時，長按該圖示即可將文章儲存至您的閱讀清單。">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "秘訣: 網址列出現閱讀器模式按鈕時，長按該圖示即可將文章儲存至您的閱讀清單。">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -594,6 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "安全連線">
 <!ENTITY identity_connection_insecure "不安全的連線">
 <!ENTITY identity_login_insecure "此頁面並不安全，您的登入資訊可能會有風險。">
+<!ENTITY identity_connection_chromeui "此頁面為安全的&brandShortName;頁面">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; 已封鎖此頁面不安全的內容。">
@@ -653,7 +661,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "有可用的 &brandShortName; 更新">
 <!ENTITY updater_apply_select2 "選擇此處套用">
 
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "請允許 &brandShortName; 存取您的儲存空間以下載檔案或進行更新。">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "允許">
+
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "進入訪客瀏覽階段">
 <!ENTITY exit_guest_session "結束訪客瀏覽階段">
 <!ENTITY guest_session_dialog_continue "繼續">
@@ -741,8 +756,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "包含匯入書籤、恢復分頁和自動更新。關閉此選項可簡化家人使用時需設定的內容。">
 <!ENTITY restrictable_feature_camera_microphone "攝影機與麥克風">
 <!ENTITY restrictable_feature_camera_microphone_description "讓家人可以透過網站即時溝通。">
-<!ENTITY restrictable_feature_data_choices "資料選擇">
-<!ENTITY restrictable_feature_data_choices_description "選擇是否要傳送使用資訊給 Mozilla，幫助我們改善 Firefox。">
+<!ENTITY restrictable_feature_block_list "封鎖清單">
+<!ENTITY restrictable_feature_block_list_description "封鎖包含敏感內容的網站。">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
