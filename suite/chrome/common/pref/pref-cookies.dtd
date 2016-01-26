@@ -32,11 +32,6 @@
 <!ENTITY acceptforNDays.accesskey       "f">
 <!ENTITY days.label                     "napra">
 
-<!ENTITY warnAboutCookies.label         "Kérdés minden sütinél">
-<!ENTITY warnAboutCookies.accesskey     "K">
-<!ENTITY forCurrentSession.label        "kivéve a munkamenethez tartozó sütiknél">
-<!ENTITY forCurrentSession.accesskey    "k">
-
 <!ENTITY manageCookies.label            "Sütik és webhelyek kezelése">
 <!ENTITY manageCookiesDescription.label "Lehetővé teszi a tárol sütik megtekintését ls kezelését, valamint a sütik elfogadásánal vagy visszautasításának szabályozását webhelyekre lebontva. A webhelyre megadott beállítás felülbírálja a fenti beállításokat.">
 

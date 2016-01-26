@@ -17,7 +17,6 @@
 <!ENTITY allowWindowMoveResize.label     "Létező ablakok áthelyezése vagy átméretezése">
 <!ENTITY allowWindowFlip.label           "Ablakok előtérbe vagy háttérbe helyezése">
 <!ENTITY allowWindowStatusChange.label   "Állapotsor szövegének megváltoztatása">
-<!ENTITY allowWindowImageSrcChange.label "Képek megváltoztatása">
 <!ENTITY allowContextmenuDisable.label   "Előugró menük letiltása vagy cseréje">
 <!ENTITY allowHideStatusBar.label        "Állapotsor elrejtése">
 
