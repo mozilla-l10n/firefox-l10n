@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Arverañ an testeni-mañ evit sinañ gant un doare niverel ar c'hemennadennoù kaset ganeoc'h :">
 
 <!ENTITY certificates.label "Testenioù">
-<!ENTITY manageCerts.label "Gwelout an testenioù">
-<!ENTITY manageCerts.accesskey "w">
+<!ENTITY manageCerts2.label "Ardeiñ an testenioù">
+<!ENTITY manageCerts2.accesskey "A">
 <!ENTITY manageDevices.label "Trevnad diogelroez">
 <!ENTITY manageDevices.accesskey "o">

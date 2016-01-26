@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Goulenn kadarnaat talvoudegezh an testenioù gant an dafariadoù OCSP">
 <!ENTITY enableOCSP.accesskey            "G">
 
-<!ENTITY viewCertificates.label         "Gwelout an testenioù">
-<!ENTITY viewCertificates.accesskey     "G">
-<!ENTITY viewSecurityDevices.label      "Trobarzhelloù diogelroez">
-<!ENTITY viewSecurityDevices.accesskey  "d">
+<!ENTITY manageCertificates.label "Ardeiñ an testenioù">
+<!ENTITY manageCertificates.accesskey "A">
+<!ENTITY viewSecurityDevices.label "Trobarzhelloù diogelroez">
+<!ENTITY viewSecurityDevices.accesskey "d">
