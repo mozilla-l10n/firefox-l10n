@@ -32,11 +32,6 @@
 <!ENTITY acceptforNDays.accesskey       "s">
 <!ENTITY days.label                     "dienų">
 
-<!ENTITY warnAboutCookies.label         "Įspėti prieš įrašant slapuką">
-<!ENTITY warnAboutCookies.accesskey     "ė">
-<!ENTITY forCurrentSession.label        "išskyrus vienam seansui įrašomus slapukus">
-<!ENTITY forCurrentSession.accesskey    "v">
-
 <!ENTITY manageCookies.label            "Tvarkyti slapukus">
 <!ENTITY manageCookiesDescription.label "Čia galima tvarkyti slapukus ir parinkti slapukų nuostatas atskiroms svetainėms. Šios nuostatos nustelbia aukščiau parinktas nuostatas.">
 
