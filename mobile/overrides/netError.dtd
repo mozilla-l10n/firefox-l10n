@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Falha no carregamento da página">
 <!ENTITY retry.label "Tentar de novo">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Não é possível conectar-se">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -135,9 +135,9 @@ alguém tentando se passar por ele.</li>
 <li>Se já conectou com êxito a este servidor, o erro pode ser temporário 
 e pode tentar de novo mais tarde.</li> 
 </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Este site pode estar temporariamente fora do ar ou sobrecarregado. Tente de novo em alguns instantes.</li> 
 <li>Se não conseguir carregar nenhuma página, verifique a conexão de dados ou Wi-Fi do seu dispositivo. 
@@ -154,11 +154,11 @@ e pode tentar de novo mais tarde.</li>
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Me tire daqui!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Não deve adicionar uma exceção se estiver usando uma conexão com a internet que não confie totalmente ou se não costumava ver um alerta para este servidor.</p> 
  
@@ -168,3 +168,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Não é possível conectar com segurança">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Informações avançadas: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Sua conexão não é segura">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Informações avançadas: SSL_ERROR_NO_CYPHER_OVERLAP">
