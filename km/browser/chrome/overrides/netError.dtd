@@ -167,7 +167,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "ស្វែងយល់​បន្ថែម...">
 <!ENTITY errorReporting.sending "កំពុង​ផ្ញើ​របាយការណ៍">
 <!ENTITY errorReporting.sent "របាយការណ៍​បាន​ផ្ញើ">
-<!ENTITY errorReporting.report "រាយការណ៍">
 <!ENTITY errorReporting.tryAgain "ព្យាយាម​ម្ដងទៀត">
 
 <!ENTITY remoteXUL.title "XUL ពី​ចម្ងាយ">

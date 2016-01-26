@@ -25,6 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "ផ្នែក​បន្ថែម​ខ្លះ​មិន​អាច​បញ្ជាក់​បាន​ទេ">
 <!ENTITY showAllExtensions.button.label       "បង្ហាញ​ផ្នែក​បន្ថែម​ទាំងអស់">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "កម្មវិធី​បន្ថែម​ទាំងអស់​ត្រូវ​បាន​បិទ​ដោយ​របៀប​សុវត្ថិភាព ។">
@@ -105,8 +107,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "យកចេញ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "បំបាត់​កំហុស">
-<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "ជម្រើស">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ផ្លាស់ប្ដូរ​ជម្រើស​របស់​កម្មវិធី​បន្ថែម​នេះ">
 <!ENTITY cmd.showPreferencesUnix.label        "ចំណូលចិត្ត">

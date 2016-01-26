@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "ពុម្ពអក្សរ">
+<!ENTITY fontInspectorTitle "ពុម្ពអក្សរ">
 <!ENTITY showAllFonts "មើល​ពុម្ពអក្សរ​ទាំងអស់​ដែល​បាន​ប្រើ​នៅ​ក្នុង​ទំព័រ​នេះ">
 <!ENTITY usedAs "បាន​ប្រើ​ជា៖">
 <!ENTITY system "ប្រព័ន្ធ">
