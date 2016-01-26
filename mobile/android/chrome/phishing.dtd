@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Eina! Laat ek weg wees!">
 <!ENTITY safeb.palm.decline.label "Ignoreer hierdie waarskuwing">
 <!ENTITY safeb.palm.notforgery.label2 "Dit is nie 'n kwaadwillige webnamaaksel nie…">
-<!ENTITY safeb.palm.reportPage.label "Hoekom is hierdie bladsy geblok?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "'n Gerapporteerde aanvalsbladsy!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
