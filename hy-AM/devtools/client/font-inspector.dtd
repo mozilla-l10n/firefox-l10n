@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "Տառատեսակներ">
+<!ENTITY fontInspectorTitle "Տառատեսակներ">
 <!ENTITY showAllFonts "Դիտել էջում օգտագործվող բոլոր տառատեսակները">
 <!ENTITY usedAs "Օգտ. է որպես.">
 <!ENTITY system "համակարգային">

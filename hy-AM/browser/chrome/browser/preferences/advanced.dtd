@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "Զգուշացնել, երբ վեբ կայքերը փորձում են վերահասցեավորել կամ վերբեռնել էջը">
 <!ENTITY blockAutoRefresh.accesskey      "յ">
 
+
+
 <!ENTITY browsing.label                  "Դիտարկում">
 
 <!ENTITY useAutoScroll.label             "Օգտագործել ինքնաթերթումը">

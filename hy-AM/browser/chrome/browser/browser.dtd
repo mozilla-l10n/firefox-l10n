@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Հավելումներ">
 <!ENTITY addons.accesskey             "Հ">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Հավելվածներ">
-<!ENTITY webapps.accesskey            "ե">
-<!ENTITY loopMenuItem.label           "Սկսել զրույց...">
-<!ENTITY loopMenuItem.accesskey       "կ">
 
 <!ENTITY webDeveloperMenu.label       "Վեբ ծրագրավորող">
 <!ENTITY webDeveloperMenu.accesskey   "Վ">
@@ -752,7 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Այս էջը գտնվում է համակարգչում:">
 <!ENTITY identity.connectionVerified1 "Դուք անվտանգ կապակցված եք այս կայքին, որը աշխատեցնում է՝">
 <!ENTITY identity.connectionInternal "Սա անվտանգ &brandShortName; էջ է:">
-<!ENTITY identity.insecureLoginForms "Ձեր մուտքգործումը հնարավոր է վտանգված է:">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն:">
@@ -936,10 +932,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "Ո">
 <!ENTITY emeNotificationsDontAskAgain.label       "Այլևս չհարցնել">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "Ա">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "Պահել էջը Pocket-ում">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Պահել էջը Pocket-ում">
-<!ENTITY saveLinkToPocketCmd.accesskey "P">
-<!ENTITY pocketMenuitem.label      "Դիտել Pocket-ի ցանկը">

@@ -25,6 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Որոշ հավելումներ չեն կարող ստուգվել:">
 <!ENTITY showAllExtensions.button.label       "Ցուցադրել բոլորը">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Ապահով կերպը պասիվացրել է բոլոր հավելումները:">
@@ -105,8 +107,6 @@
 <!ENTITY cmd.installAddon.accesskey           "Տ">
 <!ENTITY cmd.uninstallAddon.label             "Հեռացնել">
 <!ENTITY cmd.uninstallAddon.accesskey         "Հ">
-<!ENTITY cmd.debugAddon.label                 "Վրիպազերծել">
-<!ENTITY cmd.debugAddon.accesskey             "պ">
 <!ENTITY cmd.showPreferencesWin.label         "Կարգավորումներ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Կարգավորել այս հավելումը">
 <!ENTITY cmd.showPreferencesUnix.label        "Նախընտրանքներ">

@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Ում.">
 <!ENTITY     props.expires.label            "Ավարտվելու է.">
 
+
 <!ENTITY     window.title                   "Cookie-ներ">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
