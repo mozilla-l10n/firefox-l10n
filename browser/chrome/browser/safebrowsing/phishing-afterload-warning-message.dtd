@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Đưa tôi ra khỏi đây!">
 <!ENTITY safeb.palm.decline.label "Bỏ qua cảnh báo này">
 <!ENTITY safeb.palm.notforgery.label2 "Đây không phải trang web giả mạo…">
-<!ENTITY safeb.palm.reportPage.label "Tại sao trang này bị chặn?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Trang web Ác ý Đã biết!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,5 +23,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Trang web tại <span id='phishing_sitename'/> được báo cáo là trang web giả mạo và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Trang giả mạo được thiết kế để lừa bạn tiết lộ thông tin tài chính hoặc cá nhân bằng cách bắt chước các trang mà bạn tin tưởng.</p><p>Nhập bất kì thông tin nào vào trang này có thể dẫn đến việc bị trộm danh tính hoặc gặp các hình thức lừa đảo khác.</p>">
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

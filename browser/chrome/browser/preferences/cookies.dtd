@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "Gửi cho:">
 <!ENTITY     props.expires.label            "Hết hạn:">
 
+
 <!ENTITY     window.title                   "Cookie">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

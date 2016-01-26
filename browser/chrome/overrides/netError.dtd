@@ -167,7 +167,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Tìm hiểu thêm…">
 <!ENTITY errorReporting.sending "Đang gửi báo cáo">
 <!ENTITY errorReporting.sent "Đã gửi báo cáo">
-<!ENTITY errorReporting.report "Báo cáo">
 <!ENTITY errorReporting.tryAgain "Thử lại">
 
 <!ENTITY remoteXUL.title "Remote XUL">
