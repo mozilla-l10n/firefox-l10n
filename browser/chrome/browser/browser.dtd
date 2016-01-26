@@ -232,10 +232,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
-
-
-
-
 <!ENTITY webDeveloperMenu.label       "இணையத்தள அபிவிருத்தியாளர்">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
@@ -852,11 +848,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 
 

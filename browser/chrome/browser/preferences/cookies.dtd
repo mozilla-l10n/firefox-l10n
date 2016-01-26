@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "இதற்கு அனுப்புக:">
 <!ENTITY     props.expires.label            "காலாவதியாகிவிட்டது:">
 
+
 <!ENTITY     window.title                   "குக்கீகள்">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
