@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "संकेत स्थळ पान पुन्हनिर्देशीत किंवा पुन्हदाखल करतेवेळी मला सतर्क करा">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
+
+
 <!ENTITY browsing.label                  "ब्राउजिंग">
 
 <!ENTITY useAutoScroll.label             "स्वस्क्रोलिंगचा वापर करा">
