@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Sonraí pingithe sa chartlann">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "Taispeáin sonraí fosheisiúin">
 
 <!ENTITY aboutTelemetry.choosePing "Roghnaigh ping:">
@@ -28,7 +31,6 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping níos sine &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Amhshonraí pinge...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Seachtain">
 

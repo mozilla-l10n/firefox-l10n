@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Le haghaidh:">
 <!ENTITY     props.expires.label            "As Feidhm:">
 
+
 <!ENTITY     window.title                   "Fianáin">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

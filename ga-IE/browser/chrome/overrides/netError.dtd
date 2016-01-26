@@ -124,7 +124,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Tuilleadh eolais…">
 <!ENTITY errorReporting.sending "Tuairisc á seoladh">
 <!ENTITY errorReporting.sent "Seoladh an tuairisc">
-<!ENTITY errorReporting.report "Tuairisc">
 <!ENTITY errorReporting.tryAgain "Bain triail eile as">
 
 <!ENTITY remoteXUL.title "XUL Cianda">
