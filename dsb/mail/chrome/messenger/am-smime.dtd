@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Toś ten certifikat wužywaś, aby powěsći, kótarež sćelośo, digitalnje pódpisało:">
 
 <!ENTITY certificates.label "Certifikaty">
-<!ENTITY manageCerts.label "Certifikaty se woglědaś">
-<!ENTITY manageCerts.accesskey "C">
+<!ENTITY manageCerts2.label "Certifikaty zastojaś">
+<!ENTITY manageCerts2.accesskey "C">
 <!ENTITY manageDevices.label "Wěstotne rědy">
 <!ENTITY manageDevices.accesskey "s">
