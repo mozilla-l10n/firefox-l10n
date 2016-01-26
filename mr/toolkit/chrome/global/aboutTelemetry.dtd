@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "संग्रहित पिंग डाटा">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "सबसेशन डाटा दाखवा">
 
 <!ENTITY aboutTelemetry.choosePing "पिंग निवडा:">
@@ -28,7 +31,6 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "जुना पिंग &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "मुळ पिंग डाटा...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "आठवडा">
 
