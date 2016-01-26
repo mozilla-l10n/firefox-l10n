@@ -14,15 +14,15 @@
 <!ENTITY firstrun_urlbar_subtext "Encontre coisas mais rapidamente com atalhos de sugestão de pesquisa úteis.">
 <!ENTITY firstrun_bookmarks_title "Histórico">
 <!ENTITY firstrun_bookmarks_message "Os seus favoritos, à frente e ao centro">
-
-
-
+<!ENTITY firstrun_bookmarks_subtext "Obtenha resultados a partir dos seus marcadores e histórico quando pesquisar.">
+<!ENTITY firstrun_data_title "Dados">
+<!ENTITY firstrun_data_message "Menos dados, mais poupança">
 
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
+<!ENTITY firstrun_sync_subtext "Sincronize os seus separadores, palavras-passe, e mais em qualquer sítio que usar.">
 
-
-
-
+<!ENTITY firstrun_signin_button "Iniciar sessão no Sync">
 <!ENTITY  onboard_start_button_browser "Começar a navegar">
 <!ENTITY firstrun_button_next "Seguinte">
 
@@ -255,6 +255,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Agora não">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Ir para Definições">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -534,7 +535,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Os seus separadores recentes.">
 <!ENTITY home_open_all "Abrir todos">
 <!ENTITY home_most_recent_empty "Os sites mais visitados são mostrados aqui.">
-
+<!ENTITY home_selected_empty "Websites que visitou na janela de tempo selecionada aparecem aqui.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: se utilizar um &formatS1;Novo separador privado&formatS2;, o seu histórico não será guardado.">
@@ -597,7 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ligação segura">
 <!ENTITY identity_connection_insecure "Ligação não-segura">
 <!ENTITY identity_login_insecure "Esta página não é segura e as suas credenciais podem estar vulneráveis.">
-
+<!ENTITY identity_connection_chromeui "Esta é uma página segura do &brandShortName;.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "O &brandShortName; bloqueou conteúdo não-seguro nesta página.">
@@ -621,6 +622,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Dados privados limpos">
 <!ENTITY private_data_fail "Alguns dados privados não puderam ser limpos">
 
+<!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "A importar marcadores e histórico 
 do Android">
 <!ENTITY bookmarkhistory_import_bookmarks "A importar marcadores 
@@ -661,7 +663,10 @@ do Android">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Para descarregar ficheiros e atualizações, dê permissão ao &brandShortName; para aceder ao armazenamento.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Permitir">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Nova sessão de convidado">
@@ -751,8 +756,8 @@ do Android">
 <!ENTITY restrictable_feature_advanced_settings_description "Isto inclui importação de marcadores, reposição de separadores e atualizações automáticas. Desative esta opção para definições simplificadas adequadas para qualquer membro da família.">
 <!ENTITY restrictable_feature_camera_microphone "Câmara e microfone">
 <!ENTITY restrictable_feature_camera_microphone_description "Permite que membros da família participem em comunicações em tempo real em websites.">
-
-
+<!ENTITY restrictable_feature_block_list "Lista de bloqueio">
+<!ENTITY restrictable_feature_block_list_description "Bloquear websites que incluem conteúdo sensível.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
