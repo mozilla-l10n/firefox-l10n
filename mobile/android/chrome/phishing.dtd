@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Keluarkan saya daripada sini!">
 <!ENTITY safeb.palm.decline.label "Abaikan amaran ini">
 <!ENTITY safeb.palm.notforgery.label2 "Ini bukan pemalsuan laman">
-<!ENTITY safeb.palm.reportPage.label "Mengapa halaman ini dihalang?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Laman Web Serangan Dilaporkan!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
