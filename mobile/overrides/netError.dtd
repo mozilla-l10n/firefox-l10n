@@ -180,4 +180,13 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "遠端 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>請聯絡網站管理員以通知他們這個問題。</li></ul></p>">
 
+<!ENTITY sslv3Used.title "無法安全地連線">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "進階資訊: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "您的連線並不安全">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "進階資訊: SSL_ERROR_NO_CYPHER_OVERLAP">
 

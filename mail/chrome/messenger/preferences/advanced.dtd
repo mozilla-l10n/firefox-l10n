@@ -103,8 +103,8 @@
 <!ENTITY enableOCSP.label                "向 OCSP 回應伺服器查詢，以確認憑證有效性">
 <!ENTITY enableOCSP.accesskey            "Q">
 
-<!ENTITY viewCertificates.label         "檢視憑證">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewSecurityDevices.label      "安全裝置">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY manageCertificates.label "管理憑證">
+<!ENTITY manageCertificates.accesskey "M">
+<!ENTITY viewSecurityDevices.label "安全裝置">
+<!ENTITY viewSecurityDevices.accesskey "S">
 

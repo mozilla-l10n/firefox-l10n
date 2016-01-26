@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "通知參與者">
+<!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "分別為參與者發出邀請函">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "此選項將會為每位參加者發送獨立的邀請郵件，每封邀請函當中只會有收件者自己，不會揭露其他收件者的身分。">
 
 <!-- Keyboard Shortcuts -->
@@ -138,9 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "編寫電子郵件給未確定的與會者…">
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
-<!ENTITY event.remove.attendees.label                     "移除所有參與者…">
-<!ENTITY event.remove.attendees.accesskey                 "q">
+<!ENTITY event.remove.attendees.label2                    "移除所有與會者">
+<!ENTITY event.remove.attendees.accesskey                 "r">
 <!ENTITY event.remove.attendee.label                      "移除參與者">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "儲存並關閉">
@@ -168,7 +171,7 @@
 <!ENTITY event.calendar.label                             "行事曆:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "與會者:" >
-<!ENTITY event.attendees.accesskey                        "I" >
+<!ENTITY event.attendees.accesskey                        "I">
 <!ENTITY event.alldayevent.label                          "全天事件" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "開始:" >

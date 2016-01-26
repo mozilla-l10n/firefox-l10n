@@ -21,4 +21,16 @@
 <!ENTITY            autoSelect.label         "預設使用此設定檔">
 <!ENTITY            autoSelect.accesskey     "S">
 
+<!ENTITY            start.label              "啟動 &brandShortName;">
+<!ENTITY            exit.label               "結束">
+
+<!ENTITY            newButton.label          "建立設定檔…">
+<!ENTITY            newButton.accesskey      "C">
+<!ENTITY            renameButton.label       "設定檔更名…">
+<!ENTITY            renameButton.accesskey   "R">
+<!ENTITY            deleteButton.label       "刪除設定檔…">
+<!ENTITY            deleteButton.accesskey   "D">
+
+<!ENTITY            offlineState.label       "離線模式">
+<!ENTITY            offlineState.accesskey   "o">
 
