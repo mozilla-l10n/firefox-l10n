@@ -25,6 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Pe onongo kiromo moko ada pa lamed mogo">
 <!ENTITY showAllExtensions.button.label       "Nyut lamed weng">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Kit maber ojuko woko med-ikome weng.">
@@ -105,8 +107,6 @@
 <!ENTITY cmd.installAddon.accesskey           "K">
 <!ENTITY cmd.uninstallAddon.label             "Kwany woko">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
-<!ENTITY cmd.debugAddon.label                 "Nong bal">
-<!ENTITY cmd.debugAddon.accesskey             "n">
 <!ENTITY cmd.showPreferencesWin.label         "Gin ayera">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Lok gin ayera me med-ikome man">
 <!ENTITY cmd.showPreferencesUnix.label        "Gin ma imito">

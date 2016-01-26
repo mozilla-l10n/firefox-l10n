@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Kwanya woko ki kany!">
 <!ENTITY safeb.palm.decline.label "Caa ciko man">
 <!ENTITY safeb.palm.notforgery.label2 "Man pe obedo kakube ateta…">
-<!ENTITY safeb.palm.reportPage.label "Pingo pot buk man kigengo woko?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Pot buk me mony ma kitito pire!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,5 +23,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Pot buk me kakube man ma nonge i <span id='phishing_sitename'/> kimiyo ripot ni obedo kakube ateta kadong kigengo woko malube ki miti ni me ber bedo.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Kakube ateta kiyubo me bwoli wek i yar lok komi onyo lok kom limmi kun kiporo kabedo me gen ma jamini a i iye.</p><p>Rwako ngec mo keken i pot buk me kakube man romo kelo kwo ikom gin ma nyuto nga ma in ibedo onyo yub mogo me kwo.</p>">
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

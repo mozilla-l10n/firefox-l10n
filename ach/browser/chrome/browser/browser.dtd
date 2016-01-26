@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Med-ikome">
 <!ENTITY addons.accesskey             "M">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Purugram">
-<!ENTITY webapps.accesskey            "u">
-<!ENTITY loopMenuItem.label           "Cak boko lok…">
-<!ENTITY loopMenuItem.accesskey       "C">
 
 <!ENTITY webDeveloperMenu.label       "Layub Kakube">
 <!ENTITY webDeveloperMenu.accesskey   "L">
@@ -752,7 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Kigwoko potbuk man i kompiuta mamegi.">
 <!ENTITY identity.connectionVerified1 "Itye ki kube maber ki kakube man, ma lakelo ne aye:">
 <!ENTITY identity.connectionInternal "Man potbuk me &brandShortName; matye ki ber bedo.">
-<!ENTITY identity.insecureLoginForms "Kiromo libo donyo iye mamegi.">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ogengo but potbuk man ma pe tye ki ber bedo.">
@@ -936,10 +932,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "P">
 <!ENTITY emeNotificationsDontAskAgain.label       "Pe i penya doki">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "P">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "Gwok potbuk i Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Gwok kakube iye Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "y">
-<!ENTITY pocketMenuitem.label      "Nen jami ma i Pocket">
