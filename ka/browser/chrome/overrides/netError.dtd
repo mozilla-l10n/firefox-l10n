@@ -7,10 +7,10 @@
 
 <!ENTITY loadError.label "გვერდის ჩატვირთვის შეცდომა">
 <!ENTITY retry.label "კვლავ სცადეთ">
-
+<!ENTITY returnToPreviousPage.label "უკან დაბრუნება">
+<!ENTITY advanced.label "დამატებითი">
 
 <!-- Specific error messages -->
-
 
 <!ENTITY connectionFailure.title "დაკავშირება ვერ მოხერხდა">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -48,24 +48,32 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "კავშირი გაწყდა">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-
-
+<!ENTITY notCached.title "დოკუმენტი ვადაგასულია">
+<!ENTITY notCached.longDesc "<p>მოთხოვნილი დოკუმენტი არაა ხელმისავდომი &brandShortName;-ის მეხსიერებაში.</p><ul><li>უსაფრთხოების დაცვის მიზნით, &brandShortName; მნიშვნელოვან დოკუმენტებს ხელმეორედ ავტომატურად არ ჩამოტვირთავს.</li><li>კიდევ სცადეთ დაწკაპება, საიტიდან დოკუმენტის ხელმეორედ ჩამოსატვირთად</li></ul>">
 
 <!ENTITY netOffline.title "ავტონომიური რეჟიმი">
+<!ENTITY netOffline.longDesc2 "<ul>
+  <li>დააწექით &quot;სცადეთ ხელახლა&quot; ღილაკს ინტერნეტში გასასვლელად და გადატვირთეთ გვერდი</li></ul>">
 
-
+<!ENTITY contentEncodingError.title "შეცდომა შიგთავსის კოდირებაში">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>გთხოვთ დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li> 
 </ul>">
 
-
+<!ENTITY unsafeContentType.title "ფაილის სახიფათი ტიპი">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "კავშირი გაწყდა">
-
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "კავშირის ვადა გავიდა">
-
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "უცნობი ოქმი">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -124,42 +132,60 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "საეჭვოდ მოიერიშე საიტი!">
+<!ENTITY malwareBlocked.longDesc "<p>მოიერიშე საიტი ცდილობს პროგრამის დაყენებას, რომელიც იპარავს პირად ინფორმაციას, ან თქვენს კომპიუტერს გამოიყენებს სხვებზე შეტევისთვის, ან დააზიანებს თქვენს სისტემას.</p>
+<p>საიტის მფლობელებს, რომლებიც თვლიან, რომ მათი საიტი შეცდომითაა დაბლოკილი, შეუძლიათ<a href='http://www.stopbadware.org/home/reviewinfo' >ხელმეორედ გადახედვის მოთხოვნა</a>.</p>">
 
-
-
+<!ENTITY unwantedBlocked.title "საეჭვო საიტი, შემჩნეული არასასურველი პროგრამების გავრცელებაში!">
+<!ENTITY unwantedBlocked.longDesc "<p>არასასურველი პროგრამების საიტი ცდილობს პროგრამის დაყენებას, რომელიც შეიძლება თაღლითური აღმოჩნდეს და სისტემას გაუთვალისწინებელი ზიანი მიაყენოს.">
 
 <!ENTITY phishingBlocked.title "ეჭვი ვებ ყალთაბანდობაზე!">
 <!ENTITY phishingBlocked.longDesc "<p>ამ გვერდზე პირადი ინფორმაციის მითითებით იდენტიფიკაციის მოპარვის ან ყალთაბანდობის მსხვერპლი შეიძლება გახდეთ.</p> 
 <p>ამ სახის ვებ ყალთაბანდობა ანკესობით ცნობილ მეთოდს იყენებს, როცა ყალთაბანდი გვერდები და ელფოსტა თქვენთვის სანდო წყაროების იმიტაციას ცდილობს.</p>">
 
+<!ENTITY forbiddenBlocked.title "აკრძალული საიტი">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName;-მა შეზღუდა გვერდის ჩატვირთვა, პარამეტრებში მითითებული აკრძალვის გამო.</p>">
 
+<!ENTITY cspBlocked.title "დაბლოკილია, შიგთავსის უსაფრთხოების დებულების შესაბამისად.">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName;-მა შეზღუდა გვერდის ჩატვირთვა, რადგან შეიცავს შიგთავსს, რომელიც მიუღებელია უსაფრთხოების დებულების შესაბამისად.</p>">
 
-
-
-
+<!ENTITY corruptedContentError.title "შეცდომა შიგთავსი დაზიანებულია">
+<!ENTITY corruptedContentError.longDesc "<p>გვერდის ჩვენება, რომლის ნახვაც გსურთ, ვერ მოხერხდება მონაცემთა გადაცემისას აღმოჩენილი შეცდომის გამო.</p><ul><li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და შეატყობინეთ ხარვეზის შესახებ.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "ან გამონაკლისის დამატება შეგიძლიათ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "მომაშორე აქაურობას!">
 <!ENTITY securityOverride.exceptionButtonLabel "გამონაკლისის დამატება…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
+<!ENTITY securityOverride.warningContent "
+<p>გამონაკლისის დამატება არაა რეკომენდებული, თუ ბოლომდე სანდო ინტერნეტ კავშირს არ იყენებთ ან თუ ამ სერვერზე პირველად ხედავთ გაფრთხილებას.</p>
 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
 
+<!ENTITY errorReporting.automatic2 "შეატყობინეთ მსგავსი შეცდომები რათა დაეხმაროთ Mozilla-ს მავნე საიტების დადგენაში და მათ დაბლოკვაში.">
+<!ENTITY errorReporting.learnMore "შეიტყვეთ მეტი…">
+<!ENTITY errorReporting.sending "მოხსენება იგზავნება">
+<!ENTITY errorReporting.sent "მოხსენება გაიგზავნა">
+<!ENTITY errorReporting.tryAgain "სცადეთ ხელახლა">
 
-
-
-
+<!ENTITY remoteXUL.title "დისტანციური XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ დაუკავშირდით ვებ-საიტის მფლობელებს და შეატყობინეთ ამ პრობლემის შესახებ.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "უსაფრთხო კავშირი ვერ ხერხდება">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "დამატებითი ინფორმაცია: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "კავშირი დაცული არაა">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
-
-
+<!ENTITY weakCryptoUsed.longDesc2 "დამატებითი ინფორმაცია: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "დამატებითი">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>გამოყენებული უსაფრთხოების ტექნოლოგია მოძველებული და დაუცველია შეტევებისგან. თავდამსხმელს ადვილად შეეძლება მნიშვნელოვანი ინფორმაციის ნახვა.">
+<!ENTITY weakCryptoAdvanced.override "(სახიფათოა) სცადეთ ჩატვირთვა <span class='hostname'></span> მოძველებული უსაფრთხოების გამოყენებით.">
