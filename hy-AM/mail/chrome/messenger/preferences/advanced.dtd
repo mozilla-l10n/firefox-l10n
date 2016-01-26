@@ -103,7 +103,6 @@
 <!ENTITY enableOCSP.label                "OCSP հարցման պատասխանիչ սպասարկիչը՝ հաստատելու ընթացիկ վավերության վկայագիրը">
 <!ENTITY enableOCSP.accesskey            "O">
 
-<!ENTITY viewCertificates.label         "Նայել հավաստագրերը">
-<!ENTITY viewCertificates.accesskey     "հ">
-<!ENTITY viewSecurityDevices.label      "Անվտանգության սարքեր">
-<!ENTITY viewSecurityDevices.accesskey  "ս">
+
+<!ENTITY viewSecurityDevices.label "Անվտանգության սարքեր">
+<!ENTITY viewSecurityDevices.accesskey "ս">
