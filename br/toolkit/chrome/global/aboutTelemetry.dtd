@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Roadennoù ping diellet">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "Diskouez ar roadennoù iz-estez">
 
 <!ENTITY aboutTelemetry.choosePing "Dibabit ar ping :">
@@ -28,7 +31,6 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping kozhoc'h &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Roadennoù ping diaoz...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Sizhun">
 

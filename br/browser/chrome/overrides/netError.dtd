@@ -166,7 +166,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Gouzout hiroc'h…">
 <!ENTITY errorReporting.sending "O kas an danevell">
 <!ENTITY errorReporting.sent "Kaset eo bet an danevell">
-<!ENTITY errorReporting.report "Danevell">
 <!ENTITY errorReporting.tryAgain "Klask en-dro">
 
 <!ENTITY remoteXUL.title "XUL a-bell">
