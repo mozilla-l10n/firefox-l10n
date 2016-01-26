@@ -2,19 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Slědowanje">
 
-<!ENTITY dntTrackingNotOkay4.label     "Pominaś, až sedła njamaju wam slědowaś">
-<!ENTITY dntTrackingNotOkay4.accesskey "n">
-<!ENTITY doNotTrackInfo.label          "Dalšne informacije">
-<!ENTITY trackingProtection5.label     "Slědowański šćit wužywaś">
-<!ENTITY trackingProtection5.accesskey "d">
-<!ENTITY trackingProtectionLearnMore.label "Dalšne informacije">
+
+
+
+
+<!ENTITY  trackingProtectionLearnMore.label    "Dalšne informacije">
+
+
+
+<!ENTITY tracking.label                 "Slědowanje">
 <!ENTITY trackingProtectionPBM5.label         "Slědowański šćit w priwatnych woknach wužywaś">
 <!ENTITY trackingProtectionPBM5.accesskey     "r">
 <!ENTITY trackingProtectionPBMLearnMore.label "Dalšne informacije">
 <!ENTITY changeBlockList.label          "Blokěrowańsku lisćinu změniś">
 <!ENTITY changeBlockList.accesskey      "z">
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+
+
 
 <!ENTITY  history.label                 "Historija">
 
