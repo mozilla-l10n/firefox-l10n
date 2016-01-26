@@ -252,8 +252,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "a">
 <!ENTITY webapps.label                "Aplikace">
 <!ENTITY webapps.accesskey            "p">
-<!ENTITY loopMenuItem.label           "Zahájit konverzaci…">
-<!ENTITY loopMenuItem.accesskey       "Z">
 
 <!ENTITY webDeveloperMenu.label       "Vývoj webu">
 <!ENTITY webDeveloperMenu.accesskey   "w">
