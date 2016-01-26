@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "Croeso">
 <!ENTITY  onboard_start_message3 "Pori gyda &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Gwnewch eich profiad pori ar y we yn un cartrefol.">
-<!ENTITY  onboard_start_button_account "Mewngofnodi i &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "Croeso i &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Canfod pethau\u0027n gynt gydag llwybrau byr awgrymiadau defnyddiol.">
+<!ENTITY firstrun_bookmarks_title "Hanes">
+<!ENTITY firstrun_bookmarks_message "Eich ffefrynnau, y hwylus a defnyddiol">
+<!ENTITY firstrun_bookmarks_subtext "Derbyn canlyniadau o\u0027ch nodau tudalen a hanes wrth i chi chwilio.">
+<!ENTITY firstrun_data_title "Data">
+<!ENTITY firstrun_data_message "Llai o ddata, mwy o arbedion">
+<!ENTITY firstrun_data_subtext "Rhwystrwch ddelweddau a gwario llai ar ddata pob gwefan fyddwch yn mynd iddyn nhw.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, bob tro o\u0027ch plaid chi.">
+<!ENTITY firstrun_sync_subtext "Cydweddu eich tabiau, cyfrineiriau a rhagor ym mhob man fyddwch yn ei ddefnyddio.">
+<!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
+<!ENTITY firstrun_signin_button "Mewngofnodwch i Sync">
 <!ENTITY  onboard_start_button_browser "Cychwyn Pori">
 <!ENTITY firstrun_button_next "Nesaf">
 
 <!ENTITY  onboard_start_restricted1 "Cadwch yn ddiogel ac mewn reolaeth gyda\u0027r fersiwn symlach yma o &brandShortName;.">
-
-<!ENTITY firstrun_import_title "Mewnforio">
-<!ENTITY firstrun_import_message "Croeso i &brandShortName;">
-<!ENTITY firstrun_import_subtext "Mewnforio eich nodau tudalen a hanes o borwr arall.">
-<!ENTITY firstrun_import_action "Trosglwyddo i &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Trosglwyddo">
-<!ENTITY firstrun_import_progress_title "Wrthi\u0027n trosglwyddo">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Dadfygio pell drwy\u0027r diwifr">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Mae dadfygio pell drwy\u0027r diwifr angen i\u0027ch dyfais gael ap darllenydd QR wedi ei osod.">
 <!ENTITY pref_remember_signons2 "Cofio mewngfnodion">
-<!ENTITY pref_open_external_urls_privately_title "Agor dolenni o fewn pori Preifat">
-<!ENTITY pref_open_external_urls_privately_summary "Ar gyfer pob dolen allanol agorwyd yn &brandShortName;">
 <!ENTITY pref_manage_logins "Rheoli mewngofnodion">
 
 <!ENTITY pref_category_home "Cartref">
@@ -245,8 +249,14 @@
 <!ENTITY tab_queue_prompt_title "Agor dolenni lluosog?">
 <!ENTITY tab_queue_prompt_text4 "Eu cadw nes y tro nesaf i chi agor &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Gallwch newid hyn yn y Gosodiadau">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Cychwyn Permit drawing over other apps">
 <!ENTITY tab_queue_prompt_positive_action_button "Galluogwyd">
 <!ENTITY tab_queue_prompt_negative_action_button "Nid nawr">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Mynd i Settings Android">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +266,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 tab yn aros">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Er mwyn \&quot;Agor dolenni niferus\&quot;, galluogwch ganiatâd \u0027Draw over other apps\u0027 ar gyfer &brandShortName;">
 
 <!ENTITY pref_char_encoding "Amgodiad nod">
 <!ENTITY pref_char_encoding_on "Dangos dewislen">
@@ -524,18 +538,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "Bydd eich tabiau diweddar i\u0027w gweld yma.">
 <!ENTITY home_open_all "Agor y cyfan">
 <!ENTITY home_most_recent_empty "Bydd gwefannau diweddar i\u0027w gweld yma.">
+<!ENTITY home_selected_empty "Mae gwefannau rydych wedi ymweld â nhw o fewn yr amser penodol yn ymddangos yma.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: bydd defnyddio &formatS1;Tab Preifat Newydd&formatS2; ddim yn cadw eich hanes.">
 <!ENTITY home_reading_list_empty "Bydd erthyglau rydych yn eu cadw i\u0027w gweld yma.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "Awgrym: Cadwch erthyglau i\u0027ch rhestr ddarllen drwy bwyso\u0027r eicon &formatI; yn hir pan fydd yn ymddangos yn y bar teitl.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "Awgrym: Cadwch erthyglau i\u0027ch rhestr ddarllen drwy bwyso\u0027r botwm modd darllen pan fydd yn ymddangos yn y bar teitl.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -594,6 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Cysylltiad Diogel">
 <!ENTITY identity_connection_insecure "Cysylltiad anniogel">
 <!ENTITY identity_login_insecure "Nid yw\u0027r dudalen yn ddiogel a gall eich mewngofnod fod yn fregus.">
+<!ENTITY identity_connection_chromeui "Mae hon yn dudalen &brandShortName; diogel.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "Mae &brandShortName; wedi rhwystro elfennau anniogel ar y dudalen hon.">
@@ -655,7 +663,14 @@ o Android">
 
 <!ENTITY updater_apply_title2 "Diweddariad ar gael ar gyfer &brandShortName;">
 <!ENTITY updater_apply_select2 "Cyffwrdd i ddiweddaru">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Er mwyn llwytho ffeiliau a diweddariadau i lawr, caniatewch i &brandShortName; gael mynediad at y storfa.">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Caniatáu">
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Sesiwn Gwestai Newydd">
 <!ENTITY exit_guest_session "Gorffen Sesiwn Gwestai">
@@ -744,8 +759,8 @@ o Android">
 <!ENTITY restrictable_feature_advanced_settings_description "Mae hyn yn cynnwys mewnforio nodau tudalen, adfer tagiau ac awtomeiddio diweddariadau. Diffoddwch ar gyfer gosodiadau syml, addas ar gyfer unrhyw aelod o\u0027r teulu.">
 <!ENTITY restrictable_feature_camera_microphone "Camera a Meicroffon">
 <!ENTITY restrictable_feature_camera_microphone_description "Caniatáu i aelodau\u0027r teulu i gysylltu\u0027n fyw pan ar wefannau.">
-<!ENTITY restrictable_feature_data_choices "Dewisiadau Data">
-<!ENTITY restrictable_feature_data_choices_description "Dewis p\u0027un ai i anfon manylon defnydd at Mozilla er mwyn gwella Firefox, neu beidio.">
+<!ENTITY restrictable_feature_block_list "Rhestr Rhwystro">
+<!ENTITY restrictable_feature_block_list_description "Rhwystro gwefannau sy\u0027n cynnwys cynnwys sensitif.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
