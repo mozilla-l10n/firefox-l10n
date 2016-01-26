@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "இணையத்தளங்கள் பக்கங்களை மீளேற்றும்போதோ அல்லது வேறு பக்கத்திற்குத் திருப்பும்போதோ எச்சரிக்க">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
+
+
 <!ENTITY browsing.label                  "உலாவுதல்">
 
 <!ENTITY useAutoScroll.label             "தானியக்க உருளலை பயன்படுத்துக">
