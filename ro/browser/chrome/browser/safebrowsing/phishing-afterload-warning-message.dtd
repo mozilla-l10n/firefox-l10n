@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Du-mă de aici!">
 <!ENTITY safeb.palm.decline.label "Ignoră acest avertisment">
 <!ENTITY safeb.palm.notforgery.label2 "Acesta nu este un fals web…">
-<!ENTITY safeb.palm.reportPage.label "De ce a fost blocată această pagină?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Pagină raportată ca fiind de atac!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,5 +23,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Această pagină web de la <span id='phishing_sitename'/> a fost raportată ca fiind un fals web și a fost blocată pe baza preferințelor de securitate.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Falsurile web sunt create pentru a vă determina să furnizați informații personale sau financiare imitând site-uri web în care aveți încredere.</p><p>Introducerea de informații pe această pagină web ar putea rezulta în furt de identitate sau altă fraudă.</p>">
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

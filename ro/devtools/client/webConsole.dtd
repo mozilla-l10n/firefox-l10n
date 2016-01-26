@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "Consolă web">
 <!ENTITY browserConsole.title "Consolă pentru browser">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "Înregistrează cererile și conținutul răspunsurilor">
-<!ENTITY saveBodies.accesskey "l">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
