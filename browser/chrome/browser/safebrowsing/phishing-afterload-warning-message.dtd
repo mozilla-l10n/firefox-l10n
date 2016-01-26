@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Joo! Ntšhe mo!">
 <!ENTITY safeb.palm.decline.label "Hlokomologa temošo ye">
 <!ENTITY safeb.palm.notforgery.label2 "Bjo ga se boradia bja wepeng…">
-<!ENTITY safeb.palm.reportPage.label "Ke ka baka la eng letlakala le le be le thibetšwe?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Letlakala leo le begilwego la go hlasela!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -20,5 +21,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Letlakala le la wepe <span id='phishing_sitename'/> le begilwe e le boradia bja wepeng gomme le thibetšwe go ithekgile ka dikganyogo tša gago tša tšhireletšego.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Bofora bja wepeng bo hlametšwe go go hlalefetša gore o utolle tshedimošo ya botho goba ya ditšhelete ka go ekiša methopo yeo o ka bago o e bota.</p><p>Go tsenya tshedimošo le ge e le efe letlakaleng le la wepe go ka feleletša ka go utswiwa ga boitsebišo goba boradia bjo bongwe.</p>">
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
