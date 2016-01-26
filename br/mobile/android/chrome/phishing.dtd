@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Lamit kuit ac'hanon deus amañ !">
 <!ENTITY safeb.palm.decline.label "Leuskel ar gouzav-mañ a-gostez">
 <!ENTITY safeb.palm.notforgery.label2 "N'eo ket ur c'hwiberezh dre internet…">
-<!ENTITY safeb.palm.reportPage.label "Perak eo bet harzet ar bajenn-mañ?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Pajenn dagus marilhet !">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,6 +22,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Marilhet eo bet ar bajenn-mañ e <span id='unwanted_sitename'/> evel ur bajenn gant meziantoù dic'hoantaet ha harzet eo bet gant ho kwellvezioù diogelroez.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Pajennoù meziantoù dic'hoantaet a glask staliañ meziantoù a c'hell bezañ touellus ha tagañ ho reizhad e doareoù dic'hortoz.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title "Lec'hienn difennet">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Stanket eo bet ar bajenn-mañ e <span id='forbidden_sitename'/> diazezet war kefluniadur ho merdeer.">
