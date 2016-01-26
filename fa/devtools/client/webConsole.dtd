@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "پایانه وب">
 <!ENTITY browserConsole.title "پایانه مرورگر">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "ثبت اطلاعات درخواست‌ها و پاسخ‌ها">
-<!ENTITY saveBodies.accesskey "ث">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 

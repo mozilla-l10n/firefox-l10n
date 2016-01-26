@@ -18,6 +18,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "بایگانی اطلاعات پینگ">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "نمایش اطلاعات زیرنشست‌ها">
 
 <!ENTITY aboutTelemetry.choosePing "انتخاب پینگ:">
@@ -26,7 +29,6 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "پینگ قدیمی‌تر &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "پینگ اطلاعات خام ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "هفته">
 
