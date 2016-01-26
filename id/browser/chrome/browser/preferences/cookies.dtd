@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Kirim Untuk:">
 <!ENTITY     props.expires.label            "Kedaluwarsa:">
 
+
 <!ENTITY     window.title                   "Kuki">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

@@ -158,7 +158,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Pelajari lebih lanjut…">
 <!ENTITY errorReporting.sending "Mengirim laporan">
 <!ENTITY errorReporting.sent "Laporan dikirim">
-<!ENTITY errorReporting.report "Laporkan">
 <!ENTITY errorReporting.tryAgain "Coba lagi">
 
 <!ENTITY remoteXUL.title "XUL Daring">

@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Model Kotak">
+<!ENTITY layoutViewTitle        "Model Kotak">
 <!ENTITY margin.tooltip         "margin">
 <!ENTITY border.tooltip         "border">
 <!ENTITY padding.tooltip        "padding">
