@@ -538,6 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Ваші недавні вкладки з’являються тут.">
 <!ENTITY home_open_all "Відкрити всі">
 <!ENTITY home_most_recent_empty "Ваші недавно відвідані сайти будуть тут.">
+<!ENTITY home_selected_empty "Відвідані вами веб-сайти за обраний проміжок часу з’являються тут.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Зверніть увагу: історія з &formatS1;Нової приватної вкладки&formatS2; не буде зберігатися.">
@@ -600,6 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Захищене з\’єднання">
 <!ENTITY identity_connection_insecure "Незахищене з\’єднання">
 <!ENTITY identity_login_insecure "Ця сторінка незахищена і ваш вхід може бути вразливим.">
+<!ENTITY identity_connection_chromeui "Це захищена сторінка &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; заблокував небезпечний вміст на цій сторінці.">
@@ -665,7 +667,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Для завантаження файлів та оновлень, дайте дозвіл &brandShortName; на доступ до вашого сховища.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Дозволити">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Новий гостьовий сеанс">
@@ -755,6 +759,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "Це включає імпорт закладок, відновлення вкладок та автоматичні оновлення. Вимкніть для спрощених налаштувань, які підходять для будь-кого з членів сім’ї.">
 <!ENTITY restrictable_feature_camera_microphone "Камера й мікрофон">
 <!ENTITY restrictable_feature_camera_microphone_description "Дозволяє членам сім’ї спілкуватись у режимі реального часу на веб-сайтах.">
+<!ENTITY restrictable_feature_block_list "Список блокування">
+<!ENTITY restrictable_feature_block_list_description "Блокувати веб-сайти, які включають вразливий вміст.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
