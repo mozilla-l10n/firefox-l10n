@@ -31,9 +31,5 @@
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Mapendeleo">
 <!ENTITY abouthome.addonsButton.label    "Vifaa vya nyongeza">
-<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
-     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
-     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
-<!ENTITY abouthome.appsButton2.label     "Programu tumizi">
 <!ENTITY abouthome.downloadsButton.label "Vipakuzi">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

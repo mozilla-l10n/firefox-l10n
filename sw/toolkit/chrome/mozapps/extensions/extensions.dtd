@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "Nenda mbele ukurasa mmoja">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Vifaa vyote vya nyongeza vimelemazwa na hali tumizi ya usalama.">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Ondoa">
 <!ENTITY cmd.uninstallAddon.accesskey         "O">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Chaguo">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Badilisha chaguo hili la vifaa vya nyongeza">
 <!ENTITY cmd.showPreferencesUnix.label        "Mapendeleo">

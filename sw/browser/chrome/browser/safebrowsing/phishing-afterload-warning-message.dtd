@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Niondoe hapa!">
 <!ENTITY safeb.palm.decline.label "Puuza onyo hili">
 <!ENTITY safeb.palm.notforgery.label2 "Huu sio ughushi wa wavuti…">
-<!ENTITY safeb.palm.reportPage.label "Kwa nini ukurasa huu umezuiliwa?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Ukurasa umeripotiwa kuwa Shambulizi!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -20,5 +21,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Kwenye ukurasa huu kwa <span id='phishing_sitename'/> imeripotiwa kuwa ughushi wa wavuti na umezuiliwa ikizingatia mapendeleo yako ya usalama.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Ughushi wa wavuti umeundwa kukudanganya kuonyesha wazi maelezo yako ya kibinafsi au ya kifedha kwa kuiga chanzo unachoamini.</p><p>Kuingiza maelezo yoyote kwenye ukurasa wavuti huu utapelekea wizi au udanganyifu wa aina nyingine.</p>">
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

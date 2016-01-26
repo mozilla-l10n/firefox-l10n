@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "Tuma Kwa:">
 <!ENTITY     props.expires.label            "Huisha:">
 
+
 <!ENTITY     window.title                   "Vidakuzi">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
