@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Boxmodell">
+<!ENTITY layoutViewTitle        "Boxmodell">
 <!ENTITY margin.tooltip         "marginal">
 <!ENTITY border.tooltip         "ram">
 <!ENTITY padding.tooltip        "utfyllnad">
