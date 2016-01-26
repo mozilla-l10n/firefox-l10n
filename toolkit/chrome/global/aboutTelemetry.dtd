@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Artxibatutako ping datuak">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "Erakutsi azpi-saioaren datuak">
 
 <!ENTITY aboutTelemetry.choosePing "Aukeratu ping-a:">
@@ -28,7 +31,6 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping zaharragoa &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Ping datu gordinak ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Astea">
 

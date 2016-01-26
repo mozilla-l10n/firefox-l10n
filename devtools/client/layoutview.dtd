@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Kutxa-modeloa">
+<!ENTITY layoutViewTitle        "Kutxa-modeloa">
 <!ENTITY margin.tooltip         "marjina">
 <!ENTITY border.tooltip         "ertza">
 <!ENTITY padding.tooltip        "betegarria">
