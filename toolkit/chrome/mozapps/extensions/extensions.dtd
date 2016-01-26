@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "એક પાનું આગળ જાઓ">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "બધા ઍડ-ઓન સલામત સ્થિતિ દ્દારા નિષ્ક્રિય કરી દેવામાં આવ્યા છે.">
@@ -104,8 +106,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "દૂર કરો">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "વિકલ્પો">
 <!ENTITY cmd.showPreferencesWin.tooltip       "આ ઍડ-ઓનનાં વિકલ્પોને બદલો">
 <!ENTITY cmd.showPreferencesUnix.label        "પસંદગીઓ">

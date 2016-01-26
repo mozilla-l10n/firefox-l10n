@@ -51,6 +51,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "મેમરી વપરાશ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "મલ્ટીપ્રોસેસ વિન્ડો">
 
 
