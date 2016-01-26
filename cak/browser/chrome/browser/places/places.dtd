@@ -88,6 +88,7 @@
 <!ENTITY search.label                              "Tikanöx:">
 <!ENTITY search.accesskey                          "T">
 
+<!ENTITY cmd.find.key  "j">
 
 
 

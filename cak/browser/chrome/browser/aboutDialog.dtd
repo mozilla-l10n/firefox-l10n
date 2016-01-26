@@ -46,6 +46,7 @@
 <!ENTITY helpus.getInvolvedLink     "¡Kato’on!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Achike natzijoj">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Na’oj richin ruya’ik q’ij">

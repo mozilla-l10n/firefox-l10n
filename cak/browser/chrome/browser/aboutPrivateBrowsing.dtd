@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Atokinäq pan ichinan k'amaya'l">
 
 <!ENTITY aboutPrivateBrowsing.info.history     "Natab’äl">
