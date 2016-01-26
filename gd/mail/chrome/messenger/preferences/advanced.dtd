@@ -103,7 +103,6 @@
 <!ENTITY enableOCSP.label                "Cuir ceist air OCSP Responder Servers airson dligheachd nan teisteanasan a dhearbhadh">
 <!ENTITY enableOCSP.accesskey            "C">
 
-<!ENTITY viewCertificates.label         "Seall na teisteanasan">
-<!ENTITY viewCertificates.accesskey     "S">
-<!ENTITY viewSecurityDevices.label      "Uidheaman tèarainteachd">
-<!ENTITY viewSecurityDevices.accesskey  "U">
+
+<!ENTITY viewSecurityDevices.label "Uidheaman tèarainteachd">
+<!ENTITY viewSecurityDevices.accesskey "U">
