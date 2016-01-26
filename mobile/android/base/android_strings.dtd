@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "Ongi etorri">
 <!ENTITY  onboard_start_message3 "Nabigatu &brandShortName; erabiliz">
 <!ENTITY  onboard_start_subtext3 "Atera zukua web mugikorreko zure nabigatze-esperientziari.">
-<!ENTITY  onboard_start_button_account "Hasi saioa &brandShortName;(e)n">
+
+<!ENTITY firstrun_urlbar_message "Ongi etorri &brandShortName;(e)ra">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "Sync">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
 <!ENTITY firstrun_button_next "Hurrengoa">
 
 <!ENTITY  onboard_start_restricted1 "Egon seguru eta kontrolpean &brandShortName;(r)en bertsio sinplifikatu honekin.">
-
-<!ENTITY firstrun_import_title "Inportatu">
-<!ENTITY firstrun_import_message "Ongi etorri &brandShortName;(e)ra">
-<!ENTITY firstrun_import_subtext "Inportatu laster-markak eta historia beste nabigatzaile batetik.">
-<!ENTITY firstrun_import_action "Transferitu &brandShortName;(e)ra">
-<!ENTITY firstrun_import_dialog_button "Transferitu">
-<!ENTITY firstrun_import_progress_title "Transferitzen">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi bidezko urruneko arazketa">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi bidezko arazketak zure gailuak QR kodeen irakugailua instalatuta izatea behar du.">
 <!ENTITY pref_remember_signons2 "Gogoratu saio-hasierak">
-<!ENTITY pref_open_external_urls_privately_title "Ireki loturak nabigatze pribatuan">
-<!ENTITY pref_open_external_urls_privately_summary "&brandShortName;(e)n irekitako kanpo-lotura guztientzat">
 <!ENTITY pref_manage_logins "Kudeatu saio-hasierak">
 
 <!ENTITY pref_category_home "Hasiera">
@@ -245,8 +249,12 @@
 <!ENTITY tab_queue_prompt_title "Hainbat lotura ireki nahi?">
 <!ENTITY tab_queue_prompt_text4 "Gorde itzazu &brandShortName; irekitzen duzun hurrengo aldirako.">
 <!ENTITY tab_queue_prompt_tip_text2 "Geroago ezarpenetan alda dezakezu hau">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "Gaitu">
 <!ENTITY tab_queue_prompt_negative_action_button "Orain ez">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +264,8 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "Fitxa bat zain">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "Erakutsi karaktere-kodeketa">
 <!ENTITY pref_char_encoding_on "Erakutsi menua">
@@ -524,18 +534,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "Zure azken fitxak hemen agertzen dira.">
 <!ENTITY home_open_all "Ireki guztiak">
 <!ENTITY home_most_recent_empty "Bisitatu dituzun azken webguneak hemen agertzen dira.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Adi: &formatS1;Fitxa pribatu berria&formatS2; erabiliz gero ez da historiarik gordeko.">
 <!ENTITY home_reading_list_empty "Gerorako gorde dituzun artikuluak hemen agertzen dira.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "Aholkua: Gorde artikuluak zure irakurketa-zerrendan denbora luzez &formatI; ikonoan sakatuz URL barran agertzen denean.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "Aholkua: Gorde artikuluak zure irakurketa-zerrendan denbora luzez irakurketa moduaren botoia sakatuz URL barran agertzen denean.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -594,6 +597,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Konexio segurua">
 <!ENTITY identity_connection_insecure "Konexio ez-segurua">
 <!ENTITY identity_login_insecure "Orri hau ez da segurua eta zure saio-hasiera arriskuan egon liteke.">
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;(e)k segurua ez den orri honetako edukia blokeatu du.">
@@ -617,7 +621,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Datu pribatuak garbituta">
 <!ENTITY private_data_fail "Datu pribatu batzuk ezin izan dira garbitu">
 
-<!ENTITY bookmarkhistory_button_import "Inportatu">
 <!ENTITY bookmarkhistory_import_both "Laster-markak eta historia inportatzen 
 Android-etik">
 <!ENTITY bookmarkhistory_import_bookmarks "Laster-markak inportatzen 
@@ -655,7 +658,11 @@ Android-etik">
 
 <!ENTITY updater_apply_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
 <!ENTITY updater_apply_select2 "Ukitu eguneratzeko">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Gonbidatu saio berria">
 <!ENTITY exit_guest_session "Irten gonbidatu saiotik">
@@ -744,8 +751,8 @@ Android-etik">
 <!ENTITY restrictable_feature_advanced_settings_description "Honen barruan daude laster-markak inportatzea, fitxak berreskuratzea eta eguneraketa automatikoak. Desgaitu faimiliakideentzat egokiak diren ezarpen sinplifikatuetarako.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera eta mikrofonoa">
 <!ENTITY restrictable_feature_camera_microphone_description "Familiakideek webguneetan denbora errealeko komunikazioak izatea baimentzen du.">
-<!ENTITY restrictable_feature_data_choices "Datu-aukerak">
-<!ENTITY restrictable_feature_data_choices_description "Aukeratu erabileraren informazioa Mozillara bidali ala ez Firefox hobetzen laguntzeko.">
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
