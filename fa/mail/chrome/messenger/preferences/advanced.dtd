@@ -93,7 +93,6 @@
 
 
 
-<!ENTITY viewCertificates.label         "نمایش گواهی‌ها">
-<!ENTITY viewCertificates.accesskey     "ن">
-<!ENTITY viewSecurityDevices.label      "دستگاه‌های امنیتی">
-<!ENTITY viewSecurityDevices.accesskey  "د">
+
+<!ENTITY viewSecurityDevices.label "دستگاه‌های امنیتی">
+<!ENTITY viewSecurityDevices.accesskey "د">
