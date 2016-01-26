@@ -159,3 +159,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Attālinātais XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu, paziņojiet par šo problēmu vietnes īpašniekiem.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Neizdevās droši pieslēgties">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Papildus informācija:  SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Savienojums nav drošs">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Papildus informācija:  SSL_ERROR_NO_CYPHER_OVERLAP">
