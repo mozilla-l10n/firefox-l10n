@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Pola wotmołwnych serwerow OCSP so naprašować, zo by so aktualna płaćiwosć certifikatow wobkrućiło">
 <!ENTITY enableOCSP.accesskey            "P">
 
-<!ENTITY viewCertificates.label         "Certifikaty zwobraznić">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewSecurityDevices.label      "Wěstotne graty">
-<!ENTITY viewSecurityDevices.accesskey  "s">
+<!ENTITY manageCertificates.label "Certifikaty rjadować">
+<!ENTITY manageCertificates.accesskey "C">
+<!ENTITY viewSecurityDevices.label "Wěstotne graty">
+<!ENTITY viewSecurityDevices.accesskey "s">
