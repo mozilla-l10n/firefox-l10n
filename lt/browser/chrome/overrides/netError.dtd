@@ -164,7 +164,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Sužinoti daugiau…">
 <!ENTITY errorReporting.sending "Siunčiamas pranešimas">
 <!ENTITY errorReporting.sent "Pranešimas išsiųstas">
-<!ENTITY errorReporting.report "Pranešti">
 <!ENTITY errorReporting.tryAgain "Bandyti dar kartą">
 
 <!ENTITY remoteXUL.title "XUL iš tinklo">
