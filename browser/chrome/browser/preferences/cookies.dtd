@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "Gutumaho:">
 <!ENTITY     props.expires.label            "Yarenze Igihe:">
 
+
 <!ENTITY     window.title                   "Dosiyenyibutsa">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
