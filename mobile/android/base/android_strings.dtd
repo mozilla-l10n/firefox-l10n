@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "स्वागत">
 <!ENTITY  onboard_start_message3 "&brandShortName; सोबत ब्राउझ करा">
 <!ENTITY  onboard_start_subtext3 "आपला मोबाईल वेब ब्राउझिंग अनुभव खऱ्या अर्थाने स्वतःचा बनवा.">
-<!ENTITY  onboard_start_button_account "&brandShortName; मध्ये साईन इन करा">
+
+<!ENTITY firstrun_urlbar_message "&brandShortName; मध्ये आपले स्वागत आहे">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "ताळमेळ">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
 <!ENTITY firstrun_button_next "पुढे">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; या सोप्या आवृत्तीसह सुरक्षित आणि नियंत्रित रहा.">
-
-<!ENTITY firstrun_import_title "आयात">
-<!ENTITY firstrun_import_message "&brandShortName; मध्ये आपले स्वागत आहे">
-<!ENTITY firstrun_import_subtext "आपल्या वाचनखुणा आणि इतिहास इतर ब्राउझर मधुन आयात करा.">
-<!ENTITY firstrun_import_action "&brandShortName; ला स्थानांतरण">
-<!ENTITY firstrun_import_dialog_button "स्थानांतरण">
-<!ENTITY firstrun_import_progress_title "स्थानांतरण सुरु">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -168,8 +174,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi द्वारे दूरस्थ डीबगिंग">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi डीबगिंगसाठी आपल्या उपकरणामधे QR कोड वाचक असणे आवश्यक आहे.">
 <!ENTITY pref_remember_signons2 "लॉगिन्स लक्षात ठेवा">
-<!ENTITY pref_open_external_urls_privately_title "दुवे खाजगी ब्राउझिंग मधे उघडा">
-<!ENTITY pref_open_external_urls_privately_summary "सर्व बाह्य दुवे &brandShortName; मधे उघडले">
 <!ENTITY pref_manage_logins "लॉगिन्स व्यवस्थापित करा">
 
 <!ENTITY pref_category_home "मुख्य पटल">
@@ -237,8 +241,12 @@
 <!ENTITY tab_queue_prompt_title "अनेक दुवे उघडत आहे?">
 <!ENTITY tab_queue_prompt_text4 " &brandShortName;पुढच्या वेळी उघडेपर्यंत साठवा.">
 <!ENTITY tab_queue_prompt_tip_text2 "सेटिंग्समधुन आपण हे नंतर बदलु शकता">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "कार्यान्वित">
 <!ENTITY tab_queue_prompt_negative_action_button "सध्या नाही">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -248,6 +256,8 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 टॅब वाट पाहत आहे">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "कॅरेक्टर एनकोडींग">
 <!ENTITY pref_char_encoding_on "मेनु दाखवा">
@@ -512,16 +522,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "तुमच्या अलिकडच्या टॅब्स येथे दिसतील.">
 <!ENTITY home_open_all "सगळे उघडा">
 <!ENTITY home_most_recent_empty "तुम्ही अगदी अलिकडे भेट दिलेली संकेतस्थळे येथे दिसतील.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "प्स्स: &formatS1; वापरून, नवीन खाजगी टॅब&formatS2; आपला इतिहास जतन करणार नाही.">
 <!ENTITY home_reading_list_empty "नंतरसाठी साठवलेले लेख येथे दिसतील.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -580,6 +585,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "सुरक्षित जोडणी">
 <!ENTITY identity_connection_insecure "असुरक्षित जोडणी">
 <!ENTITY identity_login_insecure "हे पान सुरक्षित नसून आपले लॉगिन धोक्यत असु शकते.">
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;ने या पानावर असुरक्षित आशय अडवले.">
@@ -603,7 +609,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "खाजगी माहिती पुसली गेली">
 <!ENTITY private_data_fail "काही खाजगी माहिती पुसली जाऊ शकली नाही">
 
-<!ENTITY bookmarkhistory_button_import "आयात">
 <!ENTITY bookmarkhistory_import_both "Androidमधून वाचनखूणा आणि इतिहास 
 आयात करत आहे">
 <!ENTITY bookmarkhistory_import_bookmarks "Androidमधून 
@@ -641,7 +646,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName;साठी अद्ययावत उपलब्ध">
 <!ENTITY updater_apply_select2 "अद्ययावतासाठी स्पर्श करा">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "नवीन अतिथी सत्र">
 <!ENTITY exit_guest_session "अतिथी सत्रातुन बाहेर पडा">
