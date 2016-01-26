@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "مرحبا">
 <!ENTITY  onboard_start_message3 "تصفّح الوِب باستخدام &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "اجعل تجربة تصفّح الوِبّ على الهاتف فريدة.">
-<!ENTITY  onboard_start_button_account "سجّل دخولك إلى &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "مرحبًا بك مع &brandShortName;">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "تزامُن">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "ابدأ التصفح">
 <!ENTITY firstrun_button_next "التالي">
 
 <!ENTITY  onboard_start_restricted1 "ابقَ في مأمن و أمسك بزمام الأمور بإصدارة &brandShortName; المبسّطة هذه.">
-
-<!ENTITY firstrun_import_title "استورد">
-<!ENTITY firstrun_import_message "مرحبًا بك مع &brandShortName;">
-<!ENTITY firstrun_import_subtext "استورد العلامات و تأريخ التصفح من متصفح آخر.">
-<!ENTITY firstrun_import_action "انقل إلى &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "انقل">
-<!ENTITY firstrun_import_progress_title "ينقل">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -168,8 +174,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "التنقيح عن بعد عبر واي-فاي">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "يتطلّب التنقيح عبر واي-فاي تثبيت برنامج لقراءة رموز QR على جهازك.">
 <!ENTITY pref_remember_signons2 "تذكّر جلسات الولوج">
-<!ENTITY pref_open_external_urls_privately_title "افتح الروابط في التصفح الخاص">
-<!ENTITY pref_open_external_urls_privately_summary "لكلّ الروابط الخارجيّة المفتوحة في &brandShortName;">
 <!ENTITY pref_manage_logins "أدِر جلسات الولوج">
 
 <!ENTITY pref_category_home "الرئيسية">
@@ -236,8 +240,12 @@
 <!ENTITY tab_queue_prompt_title "أأفتح الألسنة المتعدّدة هذه؟">
 <!ENTITY tab_queue_prompt_text4 "احفظها حتّى أفتح &brandShortName; ثانية.">
 <!ENTITY tab_queue_prompt_tip_text2 "يمكنك تغيير هذا من الإعدادات لاحقًا">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "فعّل">
 <!ENTITY tab_queue_prompt_negative_action_button "ليس الآن">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -247,6 +255,8 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "لسان واحد ينتظر">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
@@ -511,16 +521,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "تظهر ألسنتك الأخيرة هنا.">
 <!ENTITY home_open_all "افتح الكل">
 <!ENTITY home_most_recent_empty "آخر المواقع التي زُرتها تظهر هنا.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "تذكّر: استخدام &formatS1;لسان خاص جديد&formatS2; لن يحفظ تأريخ التصفح.">
 <!ENTITY home_reading_list_empty "المقالات التي تحفظها لقراءتها لاحقًا تظهر هنا.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -579,6 +584,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "اتصال آمن">
 <!ENTITY identity_connection_insecure "اتصال غير آمن">
 
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "منع &brandShortName; محتوى غير آمن في هذه الصفحة.">
@@ -602,7 +608,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "مُسحت البيانات الخاصة">
 <!ENTITY private_data_fail "تعذّر مسح بعض البيانات الخاصة">
 
-<!ENTITY bookmarkhistory_button_import "استورد">
 <!ENTITY bookmarkhistory_import_both "يستورد العلامات والتأريخ 
 من أندرويد">
 <!ENTITY bookmarkhistory_import_bookmarks "يستورد العلامات 
@@ -640,7 +645,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "يتوفر تحديث ل&brandShortName;">
 <!ENTITY updater_apply_select2 "المس للتحديث">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "جلسة ضيف جديدة">
 <!ENTITY exit_guest_session "اخرج من جلسة الضيف">
