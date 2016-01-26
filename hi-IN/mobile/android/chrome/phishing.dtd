@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Get me out of here!">
 <!ENTITY safeb.palm.decline.label "इस चेतावनी को अनदेखा करें">
 <!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
-<!ENTITY safeb.palm.reportPage.label "क्यों यह पृष्ठ रोका गया है?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
