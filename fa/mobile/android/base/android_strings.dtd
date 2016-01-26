@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 <!ENTITY  onboard_start_message3 "مرور با &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "تجربۀ مرور وب در موبایل را مختص خود کنید.">
-<!ENTITY  onboard_start_button_account "ورود به ‪&brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "به &brandShortName; خوش‌آمدید">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "هم‌گام‌سازی">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
 <!ENTITY firstrun_button_next "بعدی">
 
 <!ENTITY  onboard_start_restricted1 "با این نسخۀ ساده شده از &brandShortName; امن بمانید و زندگی آنلاین خود را در دستان خود بگیرید.">
-
-<!ENTITY firstrun_import_title "وارد کردن">
-<!ENTITY firstrun_import_message "به &brandShortName; خوش‌آمدید">
-<!ENTITY firstrun_import_subtext "تاریخچه و نشانک‌های خود را از یک مرورگر دیگر وارد کنید.">
-<!ENTITY firstrun_import_action "انتقال به ‪&brandShortName;">
-<!ENTITY firstrun_import_dialog_button "انتقال">
-<!ENTITY firstrun_import_progress_title "در حال انتقال">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "رفع اشکال از راه دور به وسیله Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "رفع اشکال زدایی توسط Wi-Fi نیازمند نصب برنامه ‌تشخیص کد QR بر روی دستگاه شما می باشد.">
 <!ENTITY pref_remember_signons2 "بخاطر سپردن ورودها">
-<!ENTITY pref_open_external_urls_privately_title "باز کردن پیوند در زبانه خصوصی">
-<!ENTITY pref_open_external_urls_privately_summary "برای تمامی پیوندهای خارجی که بازشده اند در &brandShortName;">
 <!ENTITY pref_manage_logins "مدیریت ورود">
 
 <!ENTITY pref_category_home "خانه">
@@ -245,8 +249,12 @@
 <!ENTITY tab_queue_prompt_title "هم‌زمان چند لینک باز می‌کنید؟">
 <!ENTITY tab_queue_prompt_text4 "تا زمان دیگری که &brandShortName; را باز کنید، ذخیره‌شان می‌کند.">
 <!ENTITY tab_queue_prompt_tip_text2 "می‌توانید بعدا در تنظیمات تغییرش دهید">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "فعال‌سازی">
 <!ENTITY tab_queue_prompt_negative_action_button "اکنون نه">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +264,8 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "۱ زبانه در انتظار است">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "کدگذاری نویسه‌ها">
 <!ENTITY pref_char_encoding_on "نمایش منو">
@@ -524,18 +534,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "زبانه‌های اخیر شما در اینجا نمایش داده می‌شوند.">
 <!ENTITY home_open_all "بازکردن همه">
 <!ENTITY home_most_recent_empty "وبسایت‌هایی را که اخیرا بیشتر بازدید کرده‌اید در اینجا نمایش داده می‌شوند.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "توجه: استفاده از &formatS1;زبانه خصوصی جدید&formatS2; تاریخچه مرور شما را ذخیره نخواهد کرد.">
 <!ENTITY home_reading_list_empty "مقاله‌هایی را که برای بعد ذخیره کرده‌اید، در اینجا نمایش داده می‌شوند.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "نکته: مقالات را با فشردن طولانی آیکن &formatI; در هنگامی که بر روی نوار عنوان ظاهر می‌شود به فهرست مطالعه خود اضافه کنید.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "نکته: مقالات را با فشردن طولانی مدت دکمه «حالت خواندن» هنگامی که در نوار عنوان ظاهر می‌شود در فهرست مطالعه خود اضافه کنید.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -594,6 +597,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "اتصال امن">
 <!ENTITY identity_connection_insecure "اتصال نا امن">
 <!ENTITY identity_login_insecure "این صفحه امن نیست و ورود شما ممکن است آسیپ پذیر باشد.">
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;محتوا غیر‌امن این صفحه را مسدود کرده است.">
@@ -617,7 +621,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "داده‌های شخصی پاک شده‌اند">
 <!ENTITY private_data_fail "بعضی از داده‌های شخصی نمی‌توانند پاک شوند">
 
-<!ENTITY bookmarkhistory_button_import "وارد کردن">
 <!ENTITY bookmarkhistory_import_both "وارد کردن نشانک‌ها و تاریخچه 
 از اندروید">
 <!ENTITY bookmarkhistory_import_bookmarks "وارد کردن نشانک‌ها 
@@ -655,7 +658,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "بروزرسانی برای &brandShortName; موجود است">
 <!ENTITY updater_apply_select2 "برای بروزرسانی لمس کنید">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "نشست جدید مهمان">
 <!ENTITY exit_guest_session "خروج از نشست مهمان">
@@ -744,8 +751,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "این شامل وارد کردن نشانک‌ها، بازآوری زبانه‌ها و بروزرسانی خودکار می‌شود. برای ساده کردن تنظیمات که برای همه اعضا خانواده مناسب است، خاموش کنید.">
 <!ENTITY restrictable_feature_camera_microphone "دوربین و میکروفن">
 <!ENTITY restrictable_feature_camera_microphone_description "به اعضا خانواده اجازه می‌دهد تا وارد ارتباط دوطرفه‌ی بهنگام با وب‌سایت‌ها شوند.">
-<!ENTITY restrictable_feature_data_choices "انتخاب داده‌ها">
-<!ENTITY restrictable_feature_data_choices_description "انتخاب کنید که آیا مایلید تا اطلاعات استفاده را به موزیلا، برای کمک به بهتر شدن فایرفاکس، ارسال کنید یا خیر.">
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
