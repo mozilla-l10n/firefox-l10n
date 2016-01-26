@@ -8,14 +8,21 @@
 
 
 
-<!ENTITY  onboard_start_button_account "&brandShortName; ত ছাইন ইন কৰক">
+
+<!ENTITY firstrun_urlbar_message "&brandShortName; লৈ স্বাগতম">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "চিঙ্ক কৰক">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "ব্ৰাউছিং আৰম্ভ কৰক">
-
-
-
-<!ENTITY firstrun_import_message "&brandShortName; লৈ স্বাগতম">
-
-
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -163,8 +170,6 @@
 
 
 
-
-
 <!ENTITY pref_manage_logins "লগিনসমূহ ব্যৱস্থাপনা কৰক">
 
 <!ENTITY pref_category_home "ঘৰ">
@@ -228,8 +233,12 @@
 
 
 
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 
 
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -237,6 +246,8 @@
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "আখৰ এনক\u0027ডিং">
 <!ENTITY pref_char_encoding_on "মেনু দেখাওক">
@@ -496,16 +507,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "আপোনাৰ শেহতীয়া টেবসমূহ ইয়াত দেখা যাব।">
 <!ENTITY home_open_all "সকলো খোলক">
 <!ENTITY home_most_recent_empty "আপুনি শেহতীয়াভাৱে ভ্ৰমণ কৰা ছাইটসমূহ ইয়াত দেখি পাব।">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "শু: এটা &formatS1; নতুন গোপন টেব ব্যৱহাৰ কৰা হৈছে&formatS2; আপোনাৰ ইতিহাস সংৰক্ষণ নকৰে।">
 <!ENTITY home_reading_list_empty "ভৱিষ্যত ব্যৱহাৰৰ বাবে সংৰক্ষণ কৰা অধ্যাসমূহ ইয়াত দেখি পাব।">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -561,6 +567,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+
 
 
 <!-- Mixed content notifications in site identity popup -->
@@ -619,7 +626,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; ৰ বাবে আপডেইট উপলব্ধ">
 <!ENTITY updater_apply_select2 "আপডেইট কৰিবলে স্পৰ্শ কৰক">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "নতুন অতিথি অধিবেশন">
 <!ENTITY exit_guest_session "অতিথি অধিবেশন প্ৰস্থান কৰক">
