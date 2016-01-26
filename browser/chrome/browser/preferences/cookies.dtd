@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Gönderme yolu:">
 <!ENTITY     props.expires.label            "Bitiş tarihi:">
 
+
 <!ENTITY     window.title                   "Çerezler">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

@@ -25,6 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Bazı uzantılar doğrulanamadı">
 <!ENTITY showAllExtensions.button.label       "Tüm uzantıları göster">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Tüm eklentiler güvenli kipte devre dışı bırakıldı.">
@@ -105,8 +107,6 @@
 <!ENTITY cmd.installAddon.accesskey           "u">
 <!ENTITY cmd.uninstallAddon.label             "Kaldır">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
-<!ENTITY cmd.debugAddon.label                 "Hata ayıkla">
-<!ENTITY cmd.debugAddon.accesskey             "H">
 <!ENTITY cmd.showPreferencesWin.label         "Seçenekler">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Bu eklentinin seçeneklerini değiştir">
 <!ENTITY cmd.showPreferencesUnix.label        "Tercihler">
