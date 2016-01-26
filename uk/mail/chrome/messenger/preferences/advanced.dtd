@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Запитувати у серверів OCSP підтвердження поточного стану сертифікатів">
 <!ENTITY enableOCSP.accesskey            "З">
 
-<!ENTITY viewCertificates.label         "Перегляд сертифікатів">
-<!ENTITY viewCertificates.accesskey     "г">
-<!ENTITY viewSecurityDevices.label      "Пристрої захисту">
-<!ENTITY viewSecurityDevices.accesskey  "з">
+<!ENTITY manageCertificates.label "Керування сертифікатами">
+<!ENTITY manageCertificates.accesskey "К">
+<!ENTITY viewSecurityDevices.label "Пристрої захисту">
+<!ENTITY viewSecurityDevices.accesskey "з">
