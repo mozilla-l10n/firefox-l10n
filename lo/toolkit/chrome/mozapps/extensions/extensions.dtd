@@ -20,6 +20,8 @@
 <!ENTITY cmd.forward.tooltip                  "ໄປໜ້າຖັດໄປ">
 
 
+
+
 <!-- global warnings -->
 
 
@@ -87,8 +89,6 @@
 
 <!ENTITY cmd.uninstallAddon.label             "ລຶບ">
 <!ENTITY cmd.uninstallAddon.accesskey         "ລ">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "ຕັ້ງຄ່າ">
 
 
