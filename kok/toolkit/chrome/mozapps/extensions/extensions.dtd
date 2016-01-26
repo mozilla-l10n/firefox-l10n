@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "एक पानार फुडें वचात">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "सुरक्षित शैलीन सगले अँड-ऑन असमर्थ केल्यात">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "काडात">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "पर्याय">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ह्या अॅड-ऑन्साचे पर्यायबदलात">
 <!ENTITY cmd.showPreferencesUnix.label        "प्राधान्य">

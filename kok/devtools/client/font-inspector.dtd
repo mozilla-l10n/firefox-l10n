@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "अक्षरसंच">
+<!ENTITY fontInspectorTitle "अक्षरसंच">
 <!ENTITY showAllFonts "ह्या पानान वापरिल्ले सगळे अक्षरसंच पळयात">
 <!ENTITY usedAs "म्हण वापल्ला: ">
 <!ENTITY system "व्यवस्था">

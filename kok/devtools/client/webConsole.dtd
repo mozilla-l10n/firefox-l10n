@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "वेब कन्सोल">
 <!ENTITY browserConsole.title "ब्रावजर कंसोल">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "लॉग विनंती आनी प्रतिसाद बॉडिज">
-<!ENTITY saveBodies.accesskey "ल">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 

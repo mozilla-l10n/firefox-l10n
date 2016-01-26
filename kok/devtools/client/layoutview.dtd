@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "बॉक्स मॉडेल">
+<!ENTITY layoutViewTitle        "बॉक्स मॉडेल">
 <!ENTITY margin.tooltip         "समास">
 <!ENTITY border.tooltip         "शीम">
 <!ENTITY padding.tooltip        "पॅडिंग">

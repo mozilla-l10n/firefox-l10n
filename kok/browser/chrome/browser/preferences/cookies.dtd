@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "खातीर धाडात: ">
 <!ENTITY     props.expires.label            "मुदत सोपता:">
 
+
 <!ENTITY     window.title                   "कुकीज">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

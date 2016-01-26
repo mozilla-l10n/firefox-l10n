@@ -166,7 +166,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "अदिक शिकात...">
 <!ENTITY errorReporting.sending "अहवाल धाडटा">
 <!ENTITY errorReporting.sent "अहवाल धाडला">
-<!ENTITY errorReporting.report "अहवाल">
 <!ENTITY errorReporting.tryAgain "परतून यत्न करात">
 
 <!ENTITY remoteXUL.title "रिमोट XUL">

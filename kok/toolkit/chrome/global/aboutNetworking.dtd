@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "हो प्रयोग आसा. व्हडल्यांच्या निरिक्षणाबगर वापरू नाकात.">
 <!ENTITY aboutNetworking.showNextTime          "ही चत्राय फुडले वेळा दाखय">
 <!ENTITY aboutNetworking.ok                    "बरें आसा">
-<!ENTITY aboutNetworking.http                  "Http">
+
 <!ENTITY aboutNetworking.sockets               "सॉकेट्स">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "वेबसॉकेट्स">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "संदेश मेळले">
 <!ENTITY aboutNetworking.bytesSent             "बायट्स धाडल्या">
 <!ENTITY aboutNetworking.bytesReceived         "बायट्स मेळिले">
+
+
+
+
