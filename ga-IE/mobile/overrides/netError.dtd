@@ -155,3 +155,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL Cianda">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Ní féidir ceangal slán a bhunú">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Ardeolas: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Níl do cheangal slán">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Ardeolas: SSL_ERROR_NO_CYPHER_OVERLAP">
