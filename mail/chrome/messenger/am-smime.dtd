@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Erabili ziurtagiri hau bidalitako mezuak digitalki sinatzeko:">
 
 <!ENTITY certificates.label "Ziurtagiriak">
-<!ENTITY manageCerts.label "Ikusi ziurtagiriak">
-<!ENTITY manageCerts.accesskey "I">
+
+
 <!ENTITY manageDevices.label "Segurtasun-gailuak">
 <!ENTITY manageDevices.accesskey "g">
