@@ -4,7 +4,7 @@
 
 <!ENTITY aboutProfiles.title "Om Profiler">
 <!ENTITY aboutProfiles.subtitle "Denna sida hjälper dig att hantera dina profiler. Varje profil är separata och innehåller separat historik, bokmärken, inställningar och tillägg.">
-
+<!ENTITY aboutProfiles.create "Skapa en ny profil">
 <!ENTITY aboutProfiles.restart.title "Starta om">
 <!ENTITY aboutProfiles.restart.inSafeMode "Starta om utan tillägg…">
 <!ENTITY aboutProfiles.restart.normal "Starta om normalt…">

@@ -20,7 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arkiverad ping-data">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Visa ping-data:">
 
+<!ENTITY aboutTelemetry.structured "Strukturerad">
 
 <!ENTITY aboutTelemetry.raw "Rå JSON">
 
