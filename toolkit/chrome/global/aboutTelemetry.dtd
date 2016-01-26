@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Archiwowane pingdaty">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "Daty podposedźenja pokazać">
 
 <!ENTITY aboutTelemetry.choosePing "Ping wubrać:">
@@ -28,7 +31,6 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Starši ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Hrube pingdaty ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Tydźeń">
 

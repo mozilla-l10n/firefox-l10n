@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Pósłać za:">
 <!ENTITY     props.expires.label            "Spadnje:">
 
+
 <!ENTITY     window.title                   "Placki">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
