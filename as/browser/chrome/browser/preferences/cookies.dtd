@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "চিহ্নিত বস্তুৰ বাবে পঠিয়াওক:">
 <!ENTITY     props.expires.label            "অন্ত হয়:">
 
+
 <!ENTITY     window.title                   "কুকিসমূহ">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

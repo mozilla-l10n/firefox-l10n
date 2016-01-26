@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "এটা পৃষ্ঠা আগলৈ যাওক">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "সকলো এড-অন সুৰক্ষিত অৱস্থা দ্বাৰা অসামৰ্থবান">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "আতৰাওক">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "বিকল্পসমূহ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "এই এড-অনৰ বিকল্পসমূহ পৰিৱৰ্তন কৰক">
 <!ENTITY cmd.showPreferencesUnix.label        "পছন্দসমূহ">

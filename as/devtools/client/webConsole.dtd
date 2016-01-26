@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "ৱেব কনচৌল">
 <!ENTITY browserConsole.title "ব্ৰাউছাৰ কনচৌল">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "লগ অনুৰোধ আৰু প্ৰতিক্ৰিয়া শৰীৰসমূহ">
-<!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
