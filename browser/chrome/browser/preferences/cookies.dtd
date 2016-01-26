@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Neldan:">
 <!ENTITY     props.expires.label            "Maa gaas:">
 
+
 <!ENTITY     window.title                   "Kukiije">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "Yah yeeso hello wooto">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Mbayka kisnal daaƴii ɓeyditte fof.">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "A">
 <!ENTITY cmd.uninstallAddon.label             "Ittu">
 <!ENTITY cmd.uninstallAddon.accesskey         "I">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Cuɓe">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Waylu cuɓe ngal ɓeydital">
 <!ENTITY cmd.showPreferencesUnix.label        "Cuɓoraaɗe">
