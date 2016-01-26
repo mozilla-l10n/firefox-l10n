@@ -11,9 +11,9 @@
 <!ENTITY  onboard_start_subtext3 "Torne a experiência de navegação na Web móvel verdadeiramente sua.">
 
 <!ENTITY firstrun_urlbar_message "Bem-vindo ao &brandShortName;">
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Encontre coisas mais rapidamente com atalhos de sugestão de pesquisa úteis.">
+<!ENTITY firstrun_bookmarks_title "Histórico">
+<!ENTITY firstrun_bookmarks_message "Os seus favoritos, à frente e ao centro">
 
 
 
