@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "ຍິນດີຕ້ອນຮັບ">
 <!ENTITY  onboard_start_message3 "ຄົ້ນຫາດ້ວຍ &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "ສ້າງປະສົບການໃນການທ່ອງເວັບເທິງມີຖືເປັນໄປຕາມເອກະລັກຂອງຕົວທ່ານເອງ.">
-<!ENTITY  onboard_start_button_account "ລົ່ງຊື່ເຂົ້າໃຊ້ &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "ຄົ້ນຫາສຶ່ງຕ່າງໆໄດ້ໄວຂື້ນດ້ວຍການໃຊ້ເຄື່ອງມືແນະນຳການຄົ້ນຫາ">
+<!ENTITY firstrun_bookmarks_title "ປະຫວັດການໃຊ້ງານ">
+
+<!ENTITY firstrun_bookmarks_subtext "ໄດ້ຜົນລັບຈາກບຸກມາກ ແລະ ປະຫວັດການໃຊ້ງານຂອງທ່ານເມື່ອທ່ານຄົ້ນຫາ.">
+<!ENTITY firstrun_data_title "ຂໍ້ມູນ">
+<!ENTITY firstrun_data_message "ຂໍ້ມູນນ້ອຍລົງ, ສາມາດບັນທຶກຂໍ້ມູນໄດ້ຫລາຍຂື້ນ">
+<!ENTITY firstrun_data_subtext "ບັອກຮູບພາບເພື່ອໃຫ້ຂະຫນາດຂໍ້ມູນຂອງເວັບໄຊຕ໌ທີ່ທ່ານເຂົ້າໄປເບິງມີຂະຫນາດນ້ອຍລົງ.">
+<!ENTITY firstrun_sync_title "Sync">
+
+<!ENTITY firstrun_sync_subtext "Sync ແທັບ, ລະຫັດຜ່ານຂອງທ່ານ ແລະ ໃນທຸກໆບ່ອນທີ່ທ່ານນຳໃຊ້ມັນ.">
+<!ENTITY firstrun_signin_message "ສ້າງການເຊື່ອມຕໍ່, ເລີມຕົ້ນເຮັດວຽກ">
+<!ENTITY firstrun_signin_button "ລົງຊື່ເຂົ້າໃຊ້ເພື່ອ Sync">
 <!ENTITY  onboard_start_button_browser "ເລີ່ມການຄົ້ນຫາ">
 <!ENTITY firstrun_button_next "ຕໍ່ໄປ">
 
 <!ENTITY  onboard_start_restricted1 "ທ່ອງເວັບຢ່າງປອດໄພ ແລະ ຢູ່ພາຍໃຕ້ການຄວບຄຸມຂອງທ່ານດ້ວຍລຸ້ນນີ້ຂອງ &brandShortName;.">
-
-<!ENTITY firstrun_import_title "ນຳເຂົ້າ">
-<!ENTITY firstrun_import_message "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
-<!ENTITY firstrun_import_subtext "ນຳເຂົ້າບຸກມາກ ແລະ ປະຫວັດການໃຊ້ງານຂອງທ່ານຈາກຕົວທ່ອງເວັບອື່ນ.">
-<!ENTITY firstrun_import_action "ຍ້າຍໄປ &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "ຍ້າຍ">
-<!ENTITY firstrun_import_progress_title "ກຳລັງຍ້າຍ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "ການດີບັກ (Debugging) ທາງໃກຜ່ານທາງ Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ການດີບັກ Wi-Fi ອຸປະກອນຂອງທ່ານຕ້ອງໄດ້ຮັບການຕິດຕັ້ງໂປແກມອ່ານລະຫັດ QR.">
 <!ENTITY pref_remember_signons2 "ຈືຂໍ້ມູນການເຂົ້າສູ່ລະບົບ">
-<!ENTITY pref_open_external_urls_privately_title "ເປີດລີ້ງໃນການຄົ້ນຫາແບບສ່ວນຕົວ">
-<!ENTITY pref_open_external_urls_privately_summary "ສຳລັບທຸກໆລີ້ງພາຍນອກໃຫ້ເປີດເປັນ &brandShortName;">
 <!ENTITY pref_manage_logins "ການເຂົ້າສູ່ລະບົບການຈັດການ">
 
 <!ENTITY pref_category_home "ໜ້າຫຼັກ">
@@ -245,8 +249,14 @@
 <!ENTITY tab_queue_prompt_title "ຕ້ອງການເປີດຫລາຍລີ້ງ?">
 <!ENTITY tab_queue_prompt_text4 "ບັນທຶກໄວ້ຈົນກະທັ້ງທ່ານເປີດໃນຄັ້ງຕໍ່ໄປ &brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text2 "ທ່ານສາມາດປ່ຽນຄ່ານີ້ຕາມຫລັງໃນການຕັ້ງຄ່າ">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "ເປີດອະນຸຍາດໃຫ້ສາມາດແຕ້ມໄດ້ໃນ apps ອື່ນໆ">
 <!ENTITY tab_queue_prompt_positive_action_button "ເປີດໃຊ້ງານ">
 <!ENTITY tab_queue_prompt_negative_action_button "ບໍ່ແມ່ນຕອນນີ້">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "ໄປທີ່ການຕັ້ງຄ່າ">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +266,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "ມີ 1 ແທັບຫລໍຖ້າຢູ່">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "ເພື່ອ \&quot;ເປີດຫຼາຍໆລີ້ງພ້ອມກັນ\&quot;, ກະລຸນາອະນຸຍາດສິດທິໃຫ້ແກ່ \u0027ແຕ້ມໄດ້ໃນ apps ອື່ນໆ\u0027 ສຳລັບ &brandShortName;">
 
 <!ENTITY pref_char_encoding "ການເຂົ້າລະຫັດຕົວອັກສອນ">
 <!ENTITY pref_char_encoding_on "ສະແດງລາຍການ">
@@ -520,18 +534,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "ແທັບຂອງທ່ານມື້ກີ້ນີ້ໄດ້ສະແດງຂື້ນຢູ່ນີ້.">
 <!ENTITY home_open_all "ເປີດທັງຫມົດ">
 <!ENTITY home_most_recent_empty "ເວັບໄຊຕ໌ທີ່ທ່ານຫາກໍ່ເຂົ້າໄປເບິງມື້ກີ້ນີ້ສະແດງຂື້ນຢູ່ທີ່ນີ້.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: ນຳໃຊ້ &formatS1; ແທັບສ່ວນຕົວໃຫມ່ &formatS2; ຈະບໍ່ບັນທຶກປະຫວັດການໃຊ້ງານຂອງທ່ານ.">
 <!ENTITY home_reading_list_empty "ຫົວຂໍ້ທີ່ທ່ານບັນທຶກໄວ້ສຳລັບອ່ານຕາມຫລັງສະແດງຂື້ນຢູ່ນີ້.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "ເຄັດລັບ: ບັນທຶກຫົວຂໍ້ນີ້ໄປໄວ້ໃນລາຍການອ່ານຂອງທ່ານໂດຍການກົດ &formatI; ຄ້າງໄວ້ຈົນໄອຄອນປະກົດຂື້ນຢູ່ໃນແຖບຫົວຂໍ້.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "ເຄັດລັບ: ບັນທຶກຫົວຂໍ້ນີ້ໄປໄວ້ໃນລາຍການອ່ານຂອງທ່ານໂດຍການກົດປູມໂມດຜູ້ອ່ານຄ້າງໄວ້ຈົນກະທັ້ງມັນຈະປະກົດຂື້ນໃນແຖບ URL.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -590,6 +597,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "ການເຊື່ອມຕໍ່ທີປອດໄພ">
 <!ENTITY identity_connection_insecure "ການເຊື່ອມຕໍ່ທີບໍ່ປອດໄພ">
 <!ENTITY identity_login_insecure "ຫນ້າເວັບນີ້ບໍ່ມີຄວາມປອດໄພ ແລະ ຂໍ້ມູນການລັອກອິນຂອງທ່ານອາດຈະຖືກແຮັກໄດ້.">
+<!ENTITY identity_connection_chromeui "ນີ້ເປັນຫນ້າເວັບທີ່ປອດໄພ &brandShortName;">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ໄດ້ບັອກເນື້ອຫາທີ່ບໍ່ປອດໄພຢູ່ໃນຫນ້າເວັບນີ້.">
@@ -651,7 +659,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "ມີການອັບເດດສຳລັບ &brandShortName;">
 <!ENTITY updater_apply_select2 "ແຕະເພື່ອອັບເດດ">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "ເພື່ອດາວໂຫລດຟາຍຂໍ້ມູນ ແລະ ອັບເດດ, ກະລຸນາອະນຸຍາດສຶດທິໃຫ້ແກ່ &brandShortName; ສາມາດເຂົ້າເຖິງພື້ນທີ່ຈັດເກັບຂໍ້ມູນໄດ້.">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "ອະນຸຍາດ">
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Session ໃຫມ່ສຳລັບແຂກ">
 <!ENTITY exit_guest_session "ອອກຈາກ Session ສຳລັບແຂກ">
@@ -740,7 +755,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "ນີ້ປະກອບໄປດ້ວຍການນຳເຂົ້າບຸກມາກ, ການກູ້ຄືນແທັບ ແລະ ການອັບເດດແບບອັດຕະໂນມັດ. ປິດເພື່ອເຮັດໃຫ້ການຕັ້ງຄ່າງ່າຍດາຍ ແລະ ເຫມາະສົມສຳລັບສະມາຊິກໃນຄອບຄົວທຸກຄົນ.">
 <!ENTITY restrictable_feature_camera_microphone "ກ້ອງຖ່າຍ ແລະ ໄມໂຄຣໂຟນ">
 
-<!ENTITY restrictable_feature_data_choices "ເລືອກຂໍ້ມູນ">
+<!ENTITY restrictable_feature_block_list "ລາຍການບັອກ">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
