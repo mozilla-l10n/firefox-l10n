@@ -16,7 +16,6 @@
 <!ENTITY allowWindowMoveResize.label     "Keisti atvertų langų dydį bei padėtį">
 <!ENTITY allowWindowFlip.label           "Keisti langų aktyvumą">
 <!ENTITY allowWindowStatusChange.label   "Keisti tekstą būsenos juostoje">
-<!ENTITY allowWindowImageSrcChange.label "Paveikslų kaitą">
 <!ENTITY allowContextmenuDisable.label   "Nerodyti ar keisti kontekstinį meniu">
 <!ENTITY allowHideStatusBar.label        "Nerodyti būsenos juostos">
 

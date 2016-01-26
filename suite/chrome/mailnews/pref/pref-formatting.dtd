@@ -6,13 +6,12 @@
 <!ENTITY sendMaildesc.label           "Išsiunčiant laiškus raiškiuoju (HTML) tekstu gali paaiškėti, kad esama adresatų, neįtrauktų į gavėjų, galinčių priimti tokį tekstą, sąrašą. Tuomet:">
 <!ENTITY askMe.label                  "įspėti, kad reikia pasirinkti kitą (grynojo) teksto tipą">
 <!ENTITY askMe.accesskey              "s">
-<!ENTITY convertPlain.label           "konvertuoti laišką į grynąjį tekstą (gali būti prarasta dalis formatavimo informacijos)">
-<!ENTITY convertPlain.accesskey       "k">
-<!ENTITY sendHTML.label               "laišką vis vien siųsti raiškiuoju tekstu">
-<!ENTITY sendHTML.accesskey           "v">
-<!ENTITY sendBoth.label               "išsiųsti laišką abiejų tipų tekstais – raiškiuoju ir grynuoju (laiškas bus didesnis)">
-<!ENTITY sendBoth.accesskey           "ų">
-<!ENTITY override.label               "Kiekvieno rašomo laiško teksto tipą galima parinkti atskirai. Tam pašto laiškų rašymo lange reikia atverti meniu „Parinktys“ ir pasirinkti „Siunčiamo teksto tipas“.">
+
+
+
+
+
+
 <!-- Html and Plain Text Domains  -->
 
 <!ENTITY domain.title                 "Raiškiojo (HTML) ir grynojo teksto laiškų sritys">
@@ -37,3 +36,5 @@
 <!ENTITY domainnameError.title        "Netinkamas srities vardas">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label      "Srities vardas „@string@“ yra netinkamas, todėl bus praleistas. Varde privalo būti bent vienas taškas, iš abiejų pusių apsuptas simboliais.">
+<!-- Global auto-detect switch -->
+
