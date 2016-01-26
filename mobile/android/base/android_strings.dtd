@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "Wamkelekile">
 <!ENTITY  onboard_start_message3 "Bhrawuza i-&brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Yenza amava okubhrawuza iWebhu yefowni yakho ephathwayo abe ngawakho ngokwenene.">
-<!ENTITY  onboard_start_button_account "Sayina ungene kwi-&brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "Wamkelekile kwi-&brandShortName;">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "Ungqamaniso">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "Qala ukubhrawuza">
 <!ENTITY firstrun_button_next "Okulandelayo">
 
 <!ENTITY  onboard_start_restricted1 "Hlala ukhuselekile yaye ukulawulo ngolu hlobo lwenziwe lula lwe-&brandShortName;.">
-
-<!ENTITY firstrun_import_title "Thumela ngaphakathi">
-<!ENTITY firstrun_import_message "Wamkelekile kwi-&brandShortName;">
-<!ENTITY firstrun_import_subtext "Thumela ngaphakathi iibhukmakhi nembali yakho ngokusuka kwenye ibrawuza">
-<!ENTITY firstrun_import_action "Sayina ungene kwi-&brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Dlulisela">
-<!ENTITY firstrun_import_progress_title "Iyathumela">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -168,8 +174,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Khupha ibhagi bucala nge Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ukukhupha ibhagi nge Wi-Fi kufuna ukuba isixhobo sakho sibe ne-aphu yesifundi sekhowudi yeQR efakiweyo.">
 <!ENTITY pref_remember_signons2 "Khumbulu izinto zokungena ekhompyutheni">
-<!ENTITY pref_open_external_urls_privately_title "Vula amakhonkco kwbhrawuza yangasese">
-<!ENTITY pref_open_external_urls_privately_summary "Ukulungiselela wonke amakhonkco angaphakathi avulwe yi-&brandShortName;">
 <!ENTITY pref_manage_logins "Lawula izinto zokungena ekhompyutheni">
 
 <!ENTITY pref_category_home "Ekhaya">
@@ -237,8 +241,12 @@
 <!ENTITY tab_queue_prompt_title "Vula izinxulumanisi ezininzi?">
 <!ENTITY tab_queue_prompt_text4 "Zigcine kude kube lixesha elizayo uvula i-&brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text2 "Ungakutshintsha oku ngelinye ixesha kwiiSetingi">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "Yenza isebenze">
 <!ENTITY tab_queue_prompt_negative_action_button "Hayi ngoku">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "I-&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -248,6 +256,8 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 i-tab ilindile">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "Ukufakwa kwekhowudi kwikharekhtha">
 <!ENTITY pref_char_encoding_on "Bonisa imenyu">
@@ -512,16 +522,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "Iithebhu zakho zakutshanje zibonakala apha.">
 <!ENTITY home_open_all "Vula zonke">
 <!ENTITY home_most_recent_empty "Iiwebhusayithi ozityelele kutshanje zibonakala apha.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: usebenzisa i &formatS1; Ithebu entsha yabucala &formatS2; ayinakho ukugcina imbali yakho.">
 <!ENTITY home_reading_list_empty "Amanqaku owagcinele ukuwasebenzisa kamva abonakala apha.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -580,6 +585,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Khusela Uqhagamshelo">
 <!ENTITY identity_connection_insecure "Uqhagamshelo olungakhuselekanga">
 <!ENTITY identity_login_insecure "Eli phepha alikhuselekanga yaye ukuloga kwakho ungene kusemngciphekweni.">
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "I-&brandShortName; ibhloke ii-elementi ezingakhuselekanga kweli phepha.">
@@ -603,7 +609,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Iingcombolo zangasese zisusiwe">
 <!ENTITY private_data_fail "Ezinye iingcombolo zangasese azisuseki">
 
-<!ENTITY bookmarkhistory_button_import "Thumela ngaphakathi">
 <!ENTITY bookmarkhistory_import_both "Ingenisa iibhukhmakhi nembali 
 esuka kwi-Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Ingenisa iibhukhmakhi 
@@ -641,7 +646,11 @@ esuka kwi-Android">
 
 <!ENTITY updater_apply_title2 "Uhlaziyo olufumanekayo ukulungiselela i-&brandShortName;">
 <!ENTITY updater_apply_select2 "Chukumisa ukuze uhlaziye">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Iseshoni Entsha Yondwendwe">
 <!ENTITY exit_guest_session "Phuma Kwiseshoni Yondwendwe">
