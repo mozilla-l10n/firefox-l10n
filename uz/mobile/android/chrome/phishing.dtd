@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Men bu yerdan ketaman!">
 <!ENTITY safeb.palm.decline.label "Ushbu ogohlantirishni rad qilish">
 <!ENTITY safeb.palm.notforgery.label2 "Bu qallob veb sayt emas…">
-<!ENTITY safeb.palm.reportPage.label "Nega ushbu sahifa bloklandi?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Hujum sahifasi sifatida xabar berilgan!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,6 +22,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> veb sahifasi  shubhali dasturiy ta’minot mavjud sayt sifatida xabar berilgan, shu sababli xavfsizlik sozlamalaringizga asoslanib, ushbu sahifa bloklandi.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Keraksiz dasturiy ta’minot sahifalari turli dasturlarni o‘rnatishga harakat qiladi. Ushbu dasturlar aldovchi bo‘lishi va tizimingizga kutilmagan yo‘llar bilan ta’sir qilishi mumkin. ">
 
-<!ENTITY safeb.blocked.forbiddenPage.title "Taqiqlangan sayt">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Brauzer sozlamalariga ko‘ra, <span id='forbidden_sitename'/> manzilidagi veb sahifa bloklangan.">
