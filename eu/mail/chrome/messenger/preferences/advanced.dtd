@@ -103,7 +103,6 @@
 <!ENTITY enableOCSP.label                "Galdetu OCSP erantzule-zerbitzariei ziurtagiriak baliozkoak diren egiaztatzeko">
 <!ENTITY enableOCSP.accesskey            "G">
 
-<!ENTITY viewCertificates.label         "Ikusi ziurtagiriak">
-<!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewSecurityDevices.label      "Segurtasun-gailuak">
-<!ENTITY viewSecurityDevices.accesskey  "u">
+
+<!ENTITY viewSecurityDevices.label "Segurtasun-gailuak">
+<!ENTITY viewSecurityDevices.accesskey "u">
