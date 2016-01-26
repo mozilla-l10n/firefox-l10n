@@ -14,6 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "გამაფრთხილეთ, როდესაც ვებ-საიტი შეეცდება გადამისამართებას ან გვერდის გადატვირთვას">
 <!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY useOnScreenKeyboard.label       "სენსორული კლავიატურის ჩვენება როდესაც საჭიროა">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "ჩვენება">
 
