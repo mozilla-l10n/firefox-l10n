@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "استخدم هذه الشهادة لتوقيع الرسائل التي ترسلها رقميًا:">
 
 <!ENTITY certificates.label "الشّهادات">
-<!ENTITY manageCerts.label "اعرض الشهادات">
-<!ENTITY manageCerts.accesskey "ع">
+
+
 <!ENTITY manageDevices.label "أجهزة الأمن">
 <!ENTITY manageDevices.accesskey "ج">
