@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 <!ENTITY  onboard_start_message3 "&brandShortName; کے ساتھ براؤز کریں">
 <!ENTITY  onboard_start_subtext3 "اپنے موبائل براؤزنگ تجربے کو واقعی اپنا بنائیں۔">
-<!ENTITY  onboard_start_button_account "&brandShortName; میں سائن ان کریں">
+
+<!ENTITY firstrun_urlbar_message "&brandShortName; میں خوش آمدید">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "ہمہ وار کریں">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
 <!ENTITY firstrun_button_next "اگلا">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; کی اس سادہ کردہ ورژن کے ساتھ محفوظ رہیں اور کنٹرول اپنے ہاتھ میں رکھیں۔">
-
-<!ENTITY firstrun_import_title "درآمد کریں">
-<!ENTITY firstrun_import_message "&brandShortName; میں خوش آمدید">
-<!ENTITY firstrun_import_subtext "دوسرے براؤزر سے اپنی نشانیاں اور تاریخیں درآمد کریں۔">
-<!ENTITY firstrun_import_action "&brandShortName; میں سائن ان کریں">
-<!ENTITY firstrun_import_dialog_button "منتقل کریں">
-<!ENTITY firstrun_import_progress_title "منتقل کر رہا ہے">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -168,8 +174,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "وائی فائی کے ذریعے بعید ٹھیک کاری ">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "وائی فائی ٹھیک کاری کے لیے آپ کے آلے پر QR ضابطہ ناظر ایپ تنصیب شدہ ہونی چاہیے۔">
 <!ENTITY pref_remember_signons2 "لاگ ان یاد رکھیں">
-<!ENTITY pref_open_external_urls_privately_title "ربط نجی براؤزنگ میں کھولیں">
-<!ENTITY pref_open_external_urls_privately_summary "&brandShortName; میں کھولے ہوئے تمام بیرونی روابط کے لیے">
 <!ENTITY pref_manage_logins "لاگ ان بندوبست کریں">
 
 <!ENTITY pref_category_home "گھر">
@@ -237,8 +241,12 @@
 <!ENTITY tab_queue_prompt_title "ایک سے زیادہ روابط کھولیں؟">
 <!ENTITY tab_queue_prompt_text4 "آپ کے اگلی بار &brandShortName; کھولنے تک انہیں محفوظ کریں۔">
 <!ENTITY tab_queue_prompt_tip_text2 "اس کو آپ بعد میں سیٹنگوں میں بدل سکتے ہیں">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "اہل بنائیں">
 <!ENTITY tab_queue_prompt_negative_action_button "ابھی نہیں">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -248,6 +256,8 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 ٹیب انتظار کر رہا ہے">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "کریکٹر ضابطہ بندی">
 <!ENTITY pref_char_encoding_on "مینیو دکھائیں">
@@ -512,16 +522,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "آپ کی حالیہ ٹیبیں ادھر دکھائی دیتی ہیں۔">
 <!ENTITY home_open_all "تمام کھولیں">
 <!ENTITY home_most_recent_empty "آپ کی حال ہی میں ملاحظہ کی گئی ویب سائٹیں یہاں نظر آتی ہیں۔">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "بات سنیں: &formatS1;نیا نجی ٹیب&formatS2; کا استعمال آپ کے سابقات محفوظ نہیں کرے گا۔">
 <!ENTITY home_reading_list_empty "جو عبارتیں آپ بعد کے لیے محفوظ کرتے ہیں یہاں نظر آتی ہیں۔">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -580,6 +585,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "قابل بھروسا کنکشن">
 <!ENTITY identity_connection_insecure "ناقابل بھروسا کنکشن">
 <!ENTITY identity_login_insecure "یہ صفحہ قابل بھروسا نہیں ہے اور آپ کے لاگ ان زد پزیر ہو سکتا ہیں۔">
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; نے اس صفحہ پر ناقابل بھروسا عناصر بلاک کر دیا ہیں۔">
@@ -603,7 +609,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "نجی کوائف ہٹا دیئے گئے">
 <!ENTITY private_data_fail "کچھ نجی کوائف ہٹائے نہیں جا سکے">
 
-<!ENTITY bookmarkhistory_button_import "درآمد کریں">
 <!ENTITY bookmarkhistory_import_both "اینڈروائڈ سے نشانیاں اور سابقات  
  درآمد کر رہا ہے">
 <!ENTITY bookmarkhistory_import_bookmarks "اینڈروائڈ سے نشانیاں 
@@ -641,7 +646,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; کے لیے تازہ کاری دستیاب">
 <!ENTITY updater_apply_select2 "تازہ کرنے کے لیے چھوئیں">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "نئی مہمان سیشن">
 <!ENTITY exit_guest_session "مہمان سیشن چھوڑیں">
