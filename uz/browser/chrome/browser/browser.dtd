@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Qo‘shimcha dasturlar">
 <!ENTITY addons.accesskey             "Q">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Ilova dasturlar">
-<!ENTITY webapps.accesskey            "a">
-<!ENTITY loopMenuItem.label           "Suhbatni boshlash…">
-<!ENTITY loopMenuItem.accesskey       "b">
 
 <!ENTITY webDeveloperMenu.label       "Veb dasturchi">
 <!ENTITY webDeveloperMenu.accesskey   "V">
@@ -753,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Bu sahifa kompyuteringizda saqlangan.">
 <!ENTITY identity.connectionVerified1 "Quyidagi yordamida ishlaydigan ushbu saytga xavfli ulandingiz:">
 <!ENTITY identity.connectionInternal "Bu xavfsiz &brandShortName; sahifasi.">
-<!ENTITY identity.insecureLoginForms "Login ma’lumotlaringiz xavf ostida bo‘lishi mumkin.">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.">
@@ -937,10 +933,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "m">
 <!ENTITY emeNotificationsDontAskAgain.label       "Yana so‘ralmasin">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "Y">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "Sahifani Pocket xizmatiga saqlash">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Havolani Pocket’ga saqlash">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "Pochket ro‘yxatini ko‘rish">

@@ -2,17 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Kuzatish">
 
-<!ENTITY dntTrackingNotOkay4.label     "Saytlar sizni kuzatmasligini talab qilish">
-<!ENTITY dntTrackingNotOkay4.accesskey "S">
-<!ENTITY doNotTrackInfo.label          "Ko‘proq o‘rganish">
-<!ENTITY trackingProtection5.label     "Kuzatuvdan himoya ishlatish">
-<!ENTITY trackingProtection5.accesskey "h">
-<!ENTITY trackingProtectionLearnMore.label "Batafsil ma’lumot">
+
+
+
+
+<!ENTITY  trackingProtectionLearnMore.label    "Batafsil ma’lumot">
+
+
+
+<!ENTITY tracking.label                 "Kuzatish">
 <!ENTITY trackingProtectionPBM5.label         "Maxfiy oynalarda kuzatuvdan himoya ishlatish">
 <!ENTITY trackingProtectionPBM5.accesskey     "M">
 
+
+
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 
 

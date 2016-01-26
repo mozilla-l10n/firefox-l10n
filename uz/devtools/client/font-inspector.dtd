@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "Shriftlar">
+<!ENTITY fontInspectorTitle "Shriftlar">
 <!ENTITY showAllFonts "Ushbu sahifada foydalanilgan barcha shriftlarni ko‘rish">
 <!ENTITY usedAs "Quyidagicha foydalanildi:">
 <!ENTITY system "tizim">

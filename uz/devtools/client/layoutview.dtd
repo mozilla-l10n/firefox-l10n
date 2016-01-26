@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Blok modeli">
+<!ENTITY layoutViewTitle        "Blok modeli">
 <!ENTITY margin.tooltip         "chetlari">
 <!ENTITY border.tooltip         "chegara">
 <!ENTITY padding.tooltip        "padding">

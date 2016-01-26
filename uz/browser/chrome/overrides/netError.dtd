@@ -169,7 +169,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Ko‘proq o‘rganish…">
 <!ENTITY errorReporting.sending "Ma’lumot jo‘natish">
 <!ENTITY errorReporting.sent "Ma’lumot jo‘natildi">
-<!ENTITY errorReporting.report "Ma’lumot berish">
 <!ENTITY errorReporting.tryAgain "Yana urinib ko‘rish">
 
 <!ENTITY remoteXUL.title "Masofadagi XUL">
