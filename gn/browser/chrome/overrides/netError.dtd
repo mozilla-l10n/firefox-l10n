@@ -174,7 +174,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Kuaave…">
 <!ENTITY errorReporting.sending "Marandu ñemondo">
 <!ENTITY errorReporting.sent "Marandu mondopyre">
-<!ENTITY errorReporting.report "Marandu">
 <!ENTITY errorReporting.tryAgain "Eha'ãjey">
 
 <!ENTITY remoteXUL.title "XUL okaygua">

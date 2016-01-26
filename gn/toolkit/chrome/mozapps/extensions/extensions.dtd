@@ -25,6 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Heta pukukue ndaikatúi kuri ojehechajey">
 <!ENTITY showAllExtensions.button.label       "Embogue">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Opaite umi moimbaha oñemboguepáma teko jerovia rupi.">
@@ -105,8 +107,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Mboguete">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "Ñemopotĩ">
-<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "Jeporavorã">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Emoambue poravopyrã ko moimbaha rehegua">
 <!ENTITY cmd.showPreferencesUnix.label        "Jerohoryvéva">

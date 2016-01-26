@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Mbojoajurã">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Tembipuru'i">
-<!ENTITY webapps.accesskey            "p">
-<!ENTITY loopMenuItem.label           "Ñomongeta moñepyrũ…">
-<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "Ñanduti mboguatahára">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -749,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ko kuatiarogue oñeñongatu mohendahápe.">
 <!ENTITY identity.connectionVerified1 "Eikekatu ko tendápe, poguýpe:">
 <!ENTITY identity.connectionInternal "Kóva &brandShortName; jeroviáva; kuatiarogue.">
-<!ENTITY identity.insecureLoginForms "Nderéra puruháramo ikatu hína noĩporãmbái.">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.">
@@ -931,10 +927,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ani reporandujey chéve">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "A">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "Eñongatu kuatiarogue Pocket-pe">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Eñongatu eoajuha Pocket-pe">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "Ehechauka Pocket Rysýi">

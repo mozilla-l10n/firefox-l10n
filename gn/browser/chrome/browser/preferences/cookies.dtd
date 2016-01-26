@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Eguerahauka">
 <!ENTITY     props.expires.label            "Ndoikovéima:">
 
+
 <!ENTITY     window.title                   "Kookie">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

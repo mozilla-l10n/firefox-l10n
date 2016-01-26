@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "Taity">
+<!ENTITY fontInspectorTitle "Taity">
 <!ENTITY showAllFonts "Opavave taity ojepurúva ko kuatiaroguépe jehechauka">
 <!ENTITY usedAs "Ojepuru pyahúva:">
 <!ENTITY system "apopyvusu">
