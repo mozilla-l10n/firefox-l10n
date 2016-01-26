@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "Consòla Web">
 <!ENTITY browserConsole.title "Consòla del navigador">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "Jornalizar lo contengut de las requèstas e de las responsas">
-<!ENTITY saveBodies.accesskey "l">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 

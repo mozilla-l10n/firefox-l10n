@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "Aquesta foncionalitat es fòrça experimentala. D'utilizar pas que jos la susvelhança d'un adulte.">
 <!ENTITY aboutNetworking.showNextTime          "Afichar aqueste avertiment lo còp que ven">
 <!ENTITY aboutNetworking.ok                    "D'acòrdi">
-<!ENTITY aboutNetworking.http                  "Http">
+
 <!ENTITY aboutNetworking.sockets               "Sockets">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "Messatges recebuts">
 <!ENTITY aboutNetworking.bytesSent             "Octets mandats">
 <!ENTITY aboutNetworking.bytesReceived         "Octets recebuts">
+
+
+
+

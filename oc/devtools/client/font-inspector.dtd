@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "Poliças">
+<!ENTITY fontInspectorTitle "Poliças">
 <!ENTITY showAllFonts "Afichar totas las poliças utilizadas sus la pagina">
 <!ENTITY usedAs "Utilizada jol nom : ">
 <!ENTITY system "sistèma">
