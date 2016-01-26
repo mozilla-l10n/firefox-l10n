@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "សូម​ស្វាគមន៍">
 <!ENTITY  onboard_start_message3 "រក​មើល​ជាមួយ &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "ធ្វើ​ឲ្យ​បទពិសោធន៍​រក​មើល​​តាម​បណ្ដាញ​ចល័ត​របស់​អ្នក​​ជា​ម្ចាស់​របស់​អ្នក​ពិតៗ។">
-<!ENTITY  onboard_start_button_account "ចូល​ &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "សូម​ស្វាគមន៍​មកកាន់ &brandShortName;!">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "ធ្វើ​សមកាលកម្ម">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
 <!ENTITY firstrun_button_next "បន្ទាប់">
 
 <!ENTITY  onboard_start_restricted1 "មាន​សុវត្ថិភាព និង​​ស្ថិត​ក្នុង​​ការ​ត្រួតពិនិត្យ​ជាមួយ​កំណែ​ &brandShortName; ដែល​បាន​ធ្វើ​ឲ្យ​សាមញ្ញ​នេះ។">
-
-<!ENTITY firstrun_import_title "នាំចូល">
-<!ENTITY firstrun_import_message "សូម​ស្វាគមន៍​មកកាន់ &brandShortName;!">
-<!ENTITY firstrun_import_subtext "នាំចូល​ចំណាំ​ និង​ប្រវត្តិ​របស់​អ្នក​ពី​កម្មវិធី​អ៊ីនធឺណិត​ផ្សេង។">
-<!ENTITY firstrun_import_action "ផ្ទេរ​ទៅ &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "ផ្ទេរ">
-<!ENTITY firstrun_import_progress_title "កំពុង​ផ្ទេរ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -168,8 +174,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "បញ្ជា​​​កែ​កំហុស​ពី​ចម្ងាយ​តាមរយៈ​វ៉ាយហ្វាយ">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ការ​​កែ​កំហុស​តាម​វ៉ាយហ្វាយ​ទាមទារ​ឧបករណ៍​របស់​អ្នក​​ដំឡើង​កម្មវិធី​អាន​កូដ QR ។">
 <!ENTITY pref_remember_signons2 "ចងចាំ​ការ​ចូល">
-<!ENTITY pref_open_external_urls_privately_title "បើក​តំណ​ក្នុង​ការ​រក​មើល​ឯកជន">
-<!ENTITY pref_open_external_urls_privately_summary "សម្រាប់​តំណ​ខាង​ក្រៅ​ទាំងអស់​ដែល​បាន​បើក​ក្នុង &brandShortName;">
 <!ENTITY pref_manage_logins "គ្រប់គ្រង​ការ​ចូល">
 
 <!ENTITY pref_category_home "ដើម">
@@ -236,8 +240,12 @@
 <!ENTITY tab_queue_prompt_title "បើក​តំណ​ច្រើន​មែនទេ?">
 <!ENTITY tab_queue_prompt_text4 "រក្សាទុក​វា​រហូតដល់​ពេល​ដែល​អ្នក​បើក​បន្ទាប់ &brandShortName;។">
 <!ENTITY tab_queue_prompt_tip_text2 "អ្នក​អាច​ផ្លាស់ប្ដូរ​វា​បាន​ពេល​ក្រោយ​នៅ​ក្នុង​ការ​កំណត់">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "បើក​ដំណើរការ">
 <!ENTITY tab_queue_prompt_negative_action_button "​មិនមែន​ឥឡូវ">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -247,6 +255,8 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "ផ្ទាំង 1 កំពុង​រង់ចាំ">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY pref_char_encoding_on "បង្ហាញ​ម៉ឺនុយ">
@@ -511,16 +521,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "ផ្ទាំង​បច្ចុប្បន្ន​របស់​អ្នក​បង្ហាញ​នៅ​ទីនេះ។">
 <!ENTITY home_open_all "បើក​ទាំងអស់">
 <!ENTITY home_most_recent_empty "តំបន់បណ្ដាញ​ដែល​អ្នក​បាន​ទស្សនា​ថ្មីៗ​បំផុត បង្ហាញ​នៅ​ទីនេះ។">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: ការ​ប្រើ &formatS1;ផ្ទាំង​ឯកជន​ថ្មី&formatS2; នឹង​មិន​រក្សាទុក​ប្រវត្តិ​របស់​អ្នក​ទេ។">
 <!ENTITY home_reading_list_empty "អត្ថបទ​ដែល​អ្នក​បាន​រក្សាទុក​នឹង​បង្ហាញ​នៅ​ទីនេះ។">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -579,6 +584,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "ការ​ភ្ជាប់​ដោយ​សុវត្ថិភាព">
 <!ENTITY identity_connection_insecure "ការ​ភ្ជាប់​ដោយ​សុវត្ថិភាព">
 
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; បាន​ទប់ស្កាត់​ធាតុ​ដែល​គ្មាន​សុវត្ថិភាព​នៅ​លើ​ទំព័រ​នេះ។">
@@ -602,7 +608,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "បាន​សម្អាត​ទិន្នន័យ​ឯកជន">
 <!ENTITY private_data_fail "ទិន្នន័យ​ឯកជន​មួយ​ចំនួន​មិន​អាច​សម្អាត​បាន​ទេ">
 
-<!ENTITY bookmarkhistory_button_import "នាំចូល">
 <!ENTITY bookmarkhistory_import_both "កំពុង​នាំចូល​ចំណាំ និង​ប្រវត្តិ 
 ពី Android">
 <!ENTITY bookmarkhistory_import_bookmarks "កំពុង​នាំចូល​ចំណាំ 
@@ -640,7 +645,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "មាន​បច្ចុប្បន្នភាព​សម្រាប់ &brandShortName;">
 <!ENTITY updater_apply_select2 "ប៉ះ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "សម័យ​ភ្ញៀវ​ថ្មី">
 <!ENTITY exit_guest_session "ចេញពី​សម័យ​ភ្ញៀវ">
