@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Processos de treball de servei registrats">
 
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Finestres multiprocés">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mode segur">

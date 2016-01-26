@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "Avisa'm quan els llocs web provin de redirigir o actualitzar la pàgina">
 <!ENTITY blockAutoRefresh.accesskey      "v">
 
+
+
 <!ENTITY browsing.label                  "Navegació">
 
 <!ENTITY useAutoScroll.label             "Utilitza el desplaçament automàtic">

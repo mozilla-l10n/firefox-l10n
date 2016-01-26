@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "Tipus de lletra">
+<!ENTITY fontInspectorTitle "Tipus de lletra">
 <!ENTITY showAllFonts "Mostra tots els tipus de lletra utilitzats en la pàgina">
 <!ENTITY usedAs "Utilitzat com: ">
 <!ENTITY system "sistema">
