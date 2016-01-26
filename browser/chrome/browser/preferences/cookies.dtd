@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "Hantar Untuk:">
 <!ENTITY     props.expires.label            "Luput:">
 
+
 <!ENTITY     window.title                   "Cookie">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

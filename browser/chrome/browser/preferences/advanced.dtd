@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "Ingatkan saya jika laman web cuba untuk mengalihkan atau mengulang muat laman">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
+
+
 <!ENTITY browsing.label                  "Melungsur">
 
 <!ENTITY useAutoScroll.label             "Guna autogulung">

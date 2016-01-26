@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "Pergi ke halaman seterusnya">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Semua add-ons telah dimatikan oleh safe mode.">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "P">
 <!ENTITY cmd.uninstallAddon.label             "Singkir">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Opsyen">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tukar pilihan add-on ini">
 <!ENTITY cmd.showPreferencesUnix.label        "Keutamaan">
