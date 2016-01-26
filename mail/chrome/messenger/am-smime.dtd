@@ -27,5 +27,6 @@
 
 <!ENTITY certificates.label "Certificados">
 <!ENTITY manageCerts2.label "Gerenciar certificados">
+<!ENTITY manageCerts2.accesskey "G">
 <!ENTITY manageDevices.label "Dispositivos de segurança">
 <!ENTITY manageDevices.accesskey "D">
