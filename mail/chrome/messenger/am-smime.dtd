@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Tutón certifikat wužić, zo byšće powěsće digitalnje podpisał, kotrež sćeleće:">
 
 <!ENTITY certificates.label "Certifikaty">
-<!ENTITY manageCerts.label "Certifikaty pokazać">
-<!ENTITY manageCerts.accesskey "C">
+<!ENTITY manageCerts2.label "Certifikaty rjadować">
+<!ENTITY manageCerts2.accesskey "C">
 <!ENTITY manageDevices.label "Wěstotne graty">
 <!ENTITY manageDevices.accesskey "W">
