@@ -168,3 +168,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL remot">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul></p>">
 
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
