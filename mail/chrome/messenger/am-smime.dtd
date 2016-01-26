@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Gunakan sertifikat ini untuk menandatangani pesan yang Anda kirim secara dijital:">
 
 <!ENTITY certificates.label "Sertifikat">
-<!ENTITY manageCerts.label "Tampilkan Sertifikat">
-<!ENTITY manageCerts.accesskey "S">
+
+
 <!ENTITY manageDevices.label "Perangkat Keamanan">
 <!ENTITY manageDevices.accesskey "P">
