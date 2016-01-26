@@ -2,19 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Ukulanda umkhondo">
 
-<!ENTITY dntTrackingNotOkay4.label     "Cela iisayithi zingakutreki">
-<!ENTITY dntTrackingNotOkay4.accesskey "z">
-<!ENTITY doNotTrackInfo.label          "Funda ngaphezulu">
-<!ENTITY trackingProtection5.label     "Sebenzisa Ukhuseleko Lokutreka">
-<!ENTITY trackingProtection5.accesskey "k">
-<!ENTITY trackingProtectionLearnMore.label "Funda ngakumbi">
+
+
+
+
+<!ENTITY  trackingProtectionLearnMore.label    "Funda ngakumbi">
+
+
+
+<!ENTITY tracking.label                 "Ukulanda umkhondo">
 <!ENTITY trackingProtectionPBM5.label         "Sebenzisa Ukhuseleko Lokutreka Kwiifestile Zabucala">
 <!ENTITY trackingProtectionPBM5.accesskey     "c">
 <!ENTITY trackingProtectionPBMLearnMore.label "Funda ngakumbi">
 <!ENTITY changeBlockList.label          "Tshintsha Uludwe Lokubloka">
 <!ENTITY changeBlockList.accesskey      "T">
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+
+
 
 <!ENTITY  history.label                 "Imbali">
 

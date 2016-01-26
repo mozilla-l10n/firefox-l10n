@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Inkcukacha ye-ping elondoloziweyo">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "Bonisa iseshini yenkcukacha">
 
 <!ENTITY aboutTelemetry.choosePing "Khetha i-ping:">
@@ -28,7 +31,6 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "I-ping endala &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Ingxelo ekrwada yeping ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Iveki">
 
