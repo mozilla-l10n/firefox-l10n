@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Matmenys">
+<!ENTITY layoutViewTitle        "Matmenys">
 <!ENTITY margin.tooltip         "ribos">
 <!ENTITY border.tooltip         "rėmelis">
 <!ENTITY padding.tooltip        "paraštės">

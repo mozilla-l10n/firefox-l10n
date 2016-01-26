@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "Įspėti, jei svetainė bando nukreipti kitur arba atsiųsti tinklalapį iš naujo">
 <!ENTITY blockAutoRefresh.accesskey      "n">
 
+
+
 <!ENTITY browsing.label                  "Naršymas">
 
 <!ENTITY useAutoScroll.label             "Automatiškai slinkti dokumentą">
