@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY  trackingProtectionHeader.label       "Úsáid Cosaint ó Rianú">
+<!ENTITY  trackingProtectionAlways.label       "I gCónaí">
+<!ENTITY  trackingProtectionAlways.accesskey   "I">
+<!ENTITY  trackingProtectionPrivate.label      "I bhfuinneog phríobháideach amháin">
+<!ENTITY  trackingProtectionPrivate.accesskey  "b">
+<!ENTITY  trackingProtectionNever.label        "Choíche">
+<!ENTITY  trackingProtectionNever.accesskey    "C">
 <!ENTITY  trackingProtectionLearnMore.label    "Tuilleadh eolais">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "Eisceachtaí…">
+<!ENTITY  trackingProtectionExceptions.accesskey "E">
 
 <!ENTITY tracking.label                 "Lorg">
 <!ENTITY trackingProtectionPBM5.label         "Úsáid Cosaint ar Lorg i bhFuinneoga Príobháideacha">
@@ -19,8 +21,10 @@
 <!ENTITY changeBlockList.accesskey      "A">
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.settings.label     "bainistigh do shocruithe Ná Lorgtar Mé">
 
+<!ENTITY  doNotTrack.pre.label          "Is féidir leatsa freisin">
+<!ENTITY  doNotTrack.settings.label     "bainistigh do shocruithe Ná Lorgtar Mé">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Stair">
 
