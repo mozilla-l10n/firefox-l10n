@@ -31,3 +31,7 @@ Strict Transport Security (HSTS) เพื่อระบุให้ &brandShor
 เว้นเสียแต่เว็บไซต์นี้จะมีเหตุผลที่อธิบายได้ว่าทำไมจึงไม่ใช้การแสดงตัวตนที่เชื่อถือได้">
 <!ENTITY certerror.addException.label "เพิ่มข้อยกเว้น…">
 <!ENTITY certerror.copyToClipboard.label "คัดลอกข้อความไปยังคลิปบอร์ด">
+
+
+
+

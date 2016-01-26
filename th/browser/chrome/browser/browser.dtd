@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ส่วนเสริม">
 <!ENTITY addons.accesskey             "ส">
 <!ENTITY addons.commandkey            "a">
-<!ENTITY webapps.label                "แอป">
-<!ENTITY webapps.accesskey            "อ">
-<!ENTITY loopMenuItem.label           "เริ่มการสนทนา…">
-<!ENTITY loopMenuItem.accesskey       "ร">
 
 <!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
 <!ENTITY webDeveloperMenu.accesskey   "พ">
@@ -751,7 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
 <!ENTITY identity.connectionVerified1 "คุณกำลังเชื่อมต่อไปยังเว็บไซต์นี้อย่างปลอดภัย ดำเนินงานโดย:">
 <!ENTITY identity.connectionInternal "นี้คือหน้า &brandShortName; ที่ปลอดภัย">
-<!ENTITY identity.insecureLoginForms "การเข้าระบบของคุณอาจตกอยู่ในอันตราย">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่เชื่อถือไม่ได้">
@@ -935,10 +931,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "ม">
 <!ENTITY emeNotificationsDontAskAgain.label       "ไม่ต้องถามฉันอีก">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "ม">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "บันทึกหน้าไปยัง Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "บันทึกลิงก์ไปยัง Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "ป">
-<!ENTITY pocketMenuitem.label      "ดูรายการ Pocket">
