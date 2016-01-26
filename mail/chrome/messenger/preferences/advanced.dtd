@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Pla wótegronowych serwerow OCSP se napšašowaś, aby se aktualna płaśiwosć certifikatow wobkšuśiło">
 <!ENTITY enableOCSP.accesskey            "Q">
 
-<!ENTITY viewCertificates.label         "Certifikaty zwobrazniś">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewSecurityDevices.label      "Wěstotne rědy">
-<!ENTITY viewSecurityDevices.accesskey  "s">
+<!ENTITY manageCertificates.label "Certifikaty zastojaś">
+<!ENTITY manageCertificates.accesskey "C">
+<!ENTITY viewSecurityDevices.label "Wěstotne rědy">
+<!ENTITY viewSecurityDevices.accesskey "s">
