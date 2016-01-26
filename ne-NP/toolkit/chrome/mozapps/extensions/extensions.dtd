@@ -25,6 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "केही एक्सटेन्सनहरू प्रमाणिकरण गर्न सकिएन">
 <!ENTITY showAllExtensions.button.label       "सबै एक्सटेन्सनहरू देखाउनुहोस्">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "सबै एड-अनहरू सुरक्षित मोडद्वारा असक्षम गरिएको छ।">
@@ -105,8 +107,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "हटाउनुहोस्">
 <!ENTITY cmd.uninstallAddon.accesskey         "ह">
-<!ENTITY cmd.debugAddon.label                 "डिबग गर्नुहोस्">
-<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "विकल्पहरू">
 <!ENTITY cmd.showPreferencesWin.tooltip       "यस एड-अनका विकल्पहरू बदल्नुहोस्">
 <!ENTITY cmd.showPreferencesUnix.label        "प्राथमिकताहरू">

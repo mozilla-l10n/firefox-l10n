@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "यसका लागि पठाउनुहोस्:">
 <!ENTITY     props.expires.label            "म्याद समाप्त:">
 
+
 <!ENTITY     window.title                   "कुकीहरू">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

@@ -169,7 +169,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "अझ जान्नुहोस्…">
 <!ENTITY errorReporting.sending "रिपोर्ट पठाउनुहोस्">
 <!ENTITY errorReporting.sent "प्रतिवेदन पठाइयो">
-<!ENTITY errorReporting.report "सुचित">
 <!ENTITY errorReporting.tryAgain "पुनः प्रयास गर्नुहोस्">
 
 <!ENTITY remoteXUL.title "दूर XUL">
