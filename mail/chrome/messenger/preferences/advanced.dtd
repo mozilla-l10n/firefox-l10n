@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label "Obecné">
+<!ENTITY itemGeneral.label       "Obecné">
 <!ENTITY dataChoicesTab.label    "Možnosti hlášení">
-<!ENTITY itemUpdate.label "Aktualizace">
-<!ENTITY itemNetworking.label "Síť a místo na disku">
-<!ENTITY itemCertificates.label "Certifikáty">
+<!ENTITY itemUpdate.label        "Aktualizace">
+<!ENTITY itemNetworking.label    "Síť a místo na disku">
+<!ENTITY itemCertificates.label  "Certifikáty">
 
 <!-- General Settings -->
-<!ENTITY enableGlodaSearch.label "Povolit globální hledání a indexaci">
-<!ENTITY enableGlodaSearch.accesskey "g">
+<!ENTITY enableGlodaSearch.label       "Povolit globální hledání a indexaci">
+<!ENTITY enableGlodaSearch.accesskey   "g">
 <!ENTITY allowHWAccel.label            "Použít hardwarovou akceleraci, je-li dostupná">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Typ úložiště zpráv pro nové účty:">
@@ -18,25 +18,25 @@
 <!ENTITY mboxStore2.label              "Soubor pro každou složku (mbox)">
 <!ENTITY maildirStore.label            "Soubor pro každou zprávu (maildir)">
 
-<!ENTITY scrolling.label "Posunování">
-<!ENTITY useAutoScroll.label "Použít automatické posunování">
-<!ENTITY useAutoScroll.accesskey "a">
-<!ENTITY useSmoothScrolling.label "Použít jemné posunování">
-<!ENTITY useSmoothScrolling.accesskey "e">
+<!ENTITY scrolling.label               "Posunování">
+<!ENTITY useAutoScroll.label           "Použít automatické posunování">
+<!ENTITY useAutoScroll.accesskey       "a">
+<!ENTITY useSmoothScrolling.label      "Použít jemné posunování">
+<!ENTITY useSmoothScrolling.accesskey  "e">
 
-<!ENTITY systemIntegration.label "Nastavení systému">
-<!ENTITY alwaysCheckDefault.label "Při startu aplikace &brandShortName; kontrolovat, zda je výchozím poštovním klientem">
-<!ENTITY alwaysCheckDefault.accesskey "s">
-<!ENTITY searchIntegration.label "Povolit službě &searchIntegration.engineName; prohledávat zprávy">
-<!ENTITY searchIntegration.accesskey "v">
-<!ENTITY checkDefaultsNow.label "Zkontrolovat…">
-<!ENTITY checkDefaultsNow.accesskey "Z">
-<!ENTITY configEditDesc.label "Rozšířená konfigurace">
-<!ENTITY configEdit.label "Editor předvoleb…">
-<!ENTITY configEdit.accesskey "i">
-<!ENTITY returnReceiptsInfo.label "Určuje, jak aplikace &brandShortName; zachází s potvrzením o přečtení">
-<!ENTITY showReturnReceipts.label "Potvrzení o přečtení…">
-<!ENTITY showReturnReceipts.accesskey "P">
+<!ENTITY systemIntegration.label       "Nastavení systému">
+<!ENTITY alwaysCheckDefault.label      "Při startu aplikace &brandShortName; kontrolovat, zda je výchozím poštovním klientem">
+<!ENTITY alwaysCheckDefault.accesskey  "s">
+<!ENTITY searchIntegration.label       "Povolit službě &searchIntegration.engineName; prohledávat zprávy">
+<!ENTITY searchIntegration.accesskey   "v">
+<!ENTITY checkDefaultsNow.label        "Zkontrolovat…">
+<!ENTITY checkDefaultsNow.accesskey    "Z">
+<!ENTITY configEditDesc.label          "Rozšířená konfigurace">
+<!ENTITY configEdit.label              "Editor předvoleb…">
+<!ENTITY configEdit.accesskey          "i">
+<!ENTITY returnReceiptsInfo.label      "Určuje, jak aplikace &brandShortName; zachází s potvrzením o přečtení">
+<!ENTITY showReturnReceipts.label      "Potvrzení o přečtení…">
+<!ENTITY showReturnReceipts.accesskey  "P">
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetrie">
@@ -64,23 +64,23 @@
 <!ENTITY updateHistory.label             "Zobrazit historii aktualizací">
 <!ENTITY updateHistory.accesskey         "b">
 
-<!ENTITY useService.label "K instalaci aktualizací použít službu na pozadí">
-<!ENTITY useService.accesskey "s">
+<!ENTITY useService.label                "K instalaci aktualizací použít službu na pozadí">
+<!ENTITY useService.accesskey            "s">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label "Nastavení">
-<!ENTITY showSettings.accesskey "N">
-<!ENTITY proxiesConfigure.label "Konfigurovat připojení aplikace &brandShortName; k Internetu">
-<!ENTITY connectionsInfo.caption "Připojení">
-<!ENTITY offlineInfo.caption "Režim offline">
-<!ENTITY offlineInfo.label "Konfigurovat režim offline">
-<!ENTITY showOffline.label "Režim offline…">
-<!ENTITY showOffline.accesskey "o">
+<!ENTITY showSettings.label            "Nastavení">
+<!ENTITY showSettings.accesskey        "N">
+<!ENTITY proxiesConfigure.label        "Konfigurovat připojení aplikace &brandShortName; k Internetu">
+<!ENTITY connectionsInfo.caption       "Připojení">
+<!ENTITY offlineInfo.caption           "Režim offline">
+<!ENTITY offlineInfo.label             "Konfigurovat režim offline">
+<!ENTITY showOffline.label             "Režim offline…">
+<!ENTITY showOffline.accesskey         "o">
 
-<!ENTITY Diskspace "Místo na disku">
-<!ENTITY offlineCompactFolders.label "Provést údržbu složek, ušetří-li se celkově přes">
+<!ENTITY Diskspace                       "Místo na disku">
+<!ENTITY offlineCompactFolders.label     "Provést údržbu složek, ušetří-li se celkově přes">
 <!ENTITY offlineCompactFolders.accesskey "k">
-<!ENTITY offlineCompactFoldersMB.label "MB">
+<!ENTITY offlineCompactFoldersMB.label   "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -88,22 +88,22 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label "Použít až">
-<!ENTITY useCacheBefore.accesskey "P">
-<!ENTITY useCacheAfter.label "MB diskové mezipaměti">
-<!ENTITY clearCacheNow.label "Vymazat">
-<!ENTITY clearCacheNow.accesskey "m">
+<!ENTITY useCacheBefore.label            "Použít až">
+<!ENTITY useCacheBefore.accesskey        "P">
+<!ENTITY useCacheAfter.label             "MB diskové mezipaměti">
+<!ENTITY clearCacheNow.label             "Vymazat">
+<!ENTITY clearCacheNow.accesskey         "m">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description "Pokud server vyžaduje osobní certifikát:">
-<!ENTITY certs.auto "Zvolit automaticky">
-<!ENTITY certs.auto.accesskey "a">
-<!ENTITY certs.ask "Vždy se zeptat">
-<!ENTITY certs.ask.accesskey "d">
+<!ENTITY certSelection.description       "Pokud server vyžaduje osobní certifikát:">
+<!ENTITY certs.auto                      "Zvolit automaticky">
+<!ENTITY certs.auto.accesskey            "a">
+<!ENTITY certs.ask                       "Vždy se zeptat">
+<!ENTITY certs.ask.accesskey             "d">
 <!ENTITY enableOCSP.label                "Aktuální platnost certifikátů ověřovat na serverech OCSP">
 <!ENTITY enableOCSP.accesskey            "p">
 
-<!ENTITY viewCertificates.label "Certifikáty…">
-<!ENTITY viewCertificates.accesskey "C">
+<!ENTITY manageCertificates.label "Spravovat certifikáty">
+<!ENTITY manageCertificates.accesskey "f">
 <!ENTITY viewSecurityDevices.label "Bezpečnostní zařízení…">
-<!ENTITY viewSecurityDevices.accesskey  "B">
+<!ENTITY viewSecurityDevices.accesskey "B">
