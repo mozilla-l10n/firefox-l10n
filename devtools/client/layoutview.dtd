@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "বাকচ আৰ্হি">
+<!ENTITY layoutViewTitle        "বাকচ আৰ্হি">
 <!ENTITY margin.tooltip         "সীমা">
 <!ENTITY border.tooltip         "প্ৰান্ত">
 <!ENTITY padding.tooltip        "পেডিং">

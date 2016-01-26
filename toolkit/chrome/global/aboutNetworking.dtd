@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "ই সম্পূৰ্ণ পৰিক্ষামূলক। পূৰ্ণাংগ পৰ্যবেক্ষনৰ অবিহনে ব্যৱহাৰ নকৰিব।">
 <!ENTITY aboutNetworking.showNextTime          "পিছৰ বাৰ এই সকিয়নি দেখুৱাব">
 <!ENTITY aboutNetworking.ok                    "ঠিক আছে">
-<!ENTITY aboutNetworking.http                  "Http">
+
 <!ENTITY aboutNetworking.sockets               "চকেটসমূহ">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "ৱেবচকেটসমূহ">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "প্ৰাপ্ত বাৰ্তাসমূহ">
 <!ENTITY aboutNetworking.bytesSent             "প্ৰেৰিত বাইট">
 <!ENTITY aboutNetworking.bytesReceived         "প্ৰাপ্ত বাইট">
+
+
+
+

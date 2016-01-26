@@ -166,7 +166,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "অধিক জানক…">
 <!ENTITY errorReporting.sending "সংবাদ পঠোৱা হৈছে">
 <!ENTITY errorReporting.sent "সংবাদ পঠোৱা হল">
-<!ENTITY errorReporting.report "সংবাদ">
 <!ENTITY errorReporting.tryAgain "পুনৰ চেষ্টা কৰক">
 
 <!ENTITY remoteXUL.title "দূৰৱৰ্তী XUL">

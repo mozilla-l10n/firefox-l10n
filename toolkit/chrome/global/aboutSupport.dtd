@@ -53,6 +53,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমৰিৰ ব্যৱহাৰ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "বহুপ্ৰক্ৰিয়া Windows">
 
 
