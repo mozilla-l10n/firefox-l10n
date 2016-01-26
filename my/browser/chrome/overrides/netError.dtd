@@ -167,7 +167,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "ပိုမို လေ့လာပါ…">
 <!ENTITY errorReporting.sending "အစီရင်ခံစာကို ပေးပို့နေသည်">
 <!ENTITY errorReporting.sent "အစီရင်ခံစာကို ပေးပို့ပြီးပြီ">
-<!ENTITY errorReporting.report "အစီရင်ခံစာ">
 <!ENTITY errorReporting.tryAgain "နောက်တစ်ကြိမ် ပြုလုပ်ကြည့်ပါ">
 
 <!ENTITY remoteXUL.title "အားဖယ်ပါ XUL">

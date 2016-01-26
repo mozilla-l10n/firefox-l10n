@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "စာရင်းပြုထားသည့် Service Workers">
 
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "တစ်ပြိုင်နက်လုပ်ဆောင်ချက် ဝင်းဒိုးများ">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "အန္တရာယ်ကင်း စနစ်">

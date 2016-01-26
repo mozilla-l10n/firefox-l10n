@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "ဖောင့်များ">
+<!ENTITY fontInspectorTitle "ဖောင့်များ">
 <!ENTITY showAllFonts "See all the fonts used in the page">
 <!ENTITY usedAs "Used as: ">
 <!ENTITY system "system">

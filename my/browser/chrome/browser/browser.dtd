@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Aအတ်အွန်များ">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "pအက်ပ်များ">
-<!ENTITY webapps.accesskey            "p">
-
-
 
 <!ENTITY webDeveloperMenu.label       "ဝတ်ဆိုက်များဖန်တီးသူ">
 <!ENTITY webDeveloperMenu.accesskey   "ဝ">
@@ -749,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "ဒီစာမျက်နှာကို သင့်ကွန်ပြူတာတွင် သိမ်းထားသည်။">
 <!ENTITY identity.connectionVerified1 "သင်သည် ဒီဆိုက်ကို လုံခြုံစွာ ချိတ်ဆက်နိုင်ခဲ့သည်။ ဆောင်ရွက်သူ။:">
 <!ENTITY identity.connectionInternal "ဒီ &brandShortName; စာမျက်နှာသည် လုံခြုံစိတ်ချရသည်။">
-<!ENTITY identity.insecureLoginForms "သင့် ဝင်ရောက်မှုအချက်အလက်သည် ခိုးယူခံရနိုင်ဖွယ် ရှိသည်။">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ၏ အစိတ်အပိုင်းတချို့သည် မလုံခြုံသောကြောင့် ၄င်းကို တားဆီးထားသည်။">
@@ -931,10 +927,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "Dနောက်တစ်ကြိမ်မမေးပါနှင့်">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "စာမျက်နှာကို ပေါ့kကတ်ထဲသို့ သိမ်းပါ">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "လင့်ခ်ကို ပေါ့ကတ်ထဲသို့o သိမ်းပါ">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "ပေါ့ကတ်စာရင်းကို ကြည့်ရန်">

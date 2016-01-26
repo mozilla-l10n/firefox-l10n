@@ -25,6 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "နောက်တွဲ ပရိုဂရမ်တချို့ကို အတည်မပြုနိုင်ပါ">
 <!ENTITY showAllExtensions.button.label       "နောက်တွဲ ပရိုဂရမ်အားလုံးကို ပြပါ">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "လုံခြုံရေးအပြင်အဆင်အရအတ်အွန်အားလုံးအားပိတ်သိမ်းထားသည်။">
@@ -105,8 +107,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ဖယ်ရှားပါ ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "အမှားစစ်ရန် b">
-<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "ရွေးစရာများ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ယခုအက်အွန်၏ ရွေးချယ်ပိုင်ခွင့်အား ပြုပြင်ပါ">
 <!ENTITY cmd.showPreferencesUnix.label        "ဦးစားပေး အချက်များ">

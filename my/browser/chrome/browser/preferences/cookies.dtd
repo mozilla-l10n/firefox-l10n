@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "ပို့ရမဲ့အရာ၊">
 <!ENTITY     props.expires.label            "သက်တမ်းကုန်တယ်၊">
 
+
 <!ENTITY     window.title                   "ကွတ်ကီးများ">
 <!ENTITY     windowClose.key                "w ">
 <!ENTITY     focusSearch1.key               "f ">

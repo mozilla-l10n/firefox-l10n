@@ -45,6 +45,7 @@
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "ပါဝင်ဆောင်ရွက်ပါ။">
 <!ENTITY helpus.end                 "အခုဗားရှင်း သည် အားလုံးဝိုင်းဝန်စုပေါင်း လုပ်ဆောင်ထားသော ရလဒ်ဖြစ်သည်">
+
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "လိုင်စင်အကြောင်းသိကောင်းစရာ">

@@ -2,19 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "ခြေရာခံခြင်း">
 
-<!ENTITY dntTrackingNotOkay4.label     "သင့်ကို ခြေရာမခံသည့် ဆိုက်များစာရင်းကို တောင်းခံပါ">
-<!ENTITY dntTrackingNotOkay4.accesskey "n">
-<!ENTITY doNotTrackInfo.label          "ဆက်လက်ဖတ်ရှူရန်">
-<!ENTITY trackingProtection5.label     "ခြေရာခံ ကာကွယ်မှုကို အသုံးပြုပါ i">
-<!ENTITY trackingProtection5.accesskey "i">
-<!ENTITY trackingProtectionLearnMore.label "ပိုမိုလေ့လာရန်">
+
+
+
+
+<!ENTITY  trackingProtectionLearnMore.label    "ပိုမိုလေ့လာရန်">
+
+
+
+<!ENTITY tracking.label                 "ခြေရာခံခြင်း">
 <!ENTITY trackingProtectionPBM5.label         "ခြေရာခံခြင်း ကာကွယ်မှုကို သီးသန့် ဝင်းဒိုးများတွင် အသုံးပြုပါ v">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "ပိုမိုလေ့လာရန်">
 <!ENTITY changeBlockList.label          "ပိတ်ပင်ထားသည့် စာရင်းကို ပြင်ရန် C">
 <!ENTITY changeBlockList.accesskey      "C">
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+
+
 
 <!ENTITY  history.label                 "မှတ်တမ်း">
 
