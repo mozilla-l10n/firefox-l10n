@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "ई बहुत प्रायोगिक अछि. बिनु व्यस्कक संग एकर उपयोग नहि करू.">
 <!ENTITY aboutNetworking.showNextTime          "Show this warning next time">
 <!ENTITY aboutNetworking.ok                    "बेस">
-<!ENTITY aboutNetworking.http                  "Http">
+
 <!ENTITY aboutNetworking.sockets               "साकेट">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "वेबसाकेट">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "संदेश प्राप्त">
 <!ENTITY aboutNetworking.bytesSent             "बाइट भेजल">
 <!ENTITY aboutNetworking.bytesReceived         "पाओल बाइट">
+
+
+
+

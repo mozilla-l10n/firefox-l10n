@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "पंजीकृत सर्विस वर्कर">
 
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "मल्टी प्रोसेस विंडोज़">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "सुरक्षित मोड">

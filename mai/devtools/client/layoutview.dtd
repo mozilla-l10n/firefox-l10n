@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "बॉक्स मॉडल">
+<!ENTITY layoutViewTitle        "बॉक्स मॉडल">
 <!ENTITY margin.tooltip         "हाशिया">
 <!ENTITY border.tooltip         "किनार">
 <!ENTITY padding.tooltip        "पैडिंग">

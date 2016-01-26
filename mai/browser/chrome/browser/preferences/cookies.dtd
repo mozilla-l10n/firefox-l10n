@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "एकरा लेल  प्रेषित:">
 <!ENTITY     props.expires.label            "मियाद समाप्ति:">
 
+
 <!ENTITY     window.title                   "कूकीज">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
