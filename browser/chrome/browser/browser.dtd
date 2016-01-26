@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ಆಡ್-ಆನ್‍ಗಳು">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Apps">
-<!ENTITY webapps.accesskey            "p">
-<!ENTITY loopMenuItem.label           "ಒಂದು ಸಂಭಾಷಣೆಯನ್ನು ಆರಂಭಿಸು…">
-<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "ಜಾಲ ವಿಕಸನೆಗಾರ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -749,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "ನಿಮ್ಮ ಗಣಕದಲ್ಲಿ ಈ ಪುಟವನ್ನು ಶೇಖರಿಸಿಡಲಾಗಿದೆ.">
 <!ENTITY identity.connectionVerified1 "ಇವರಿಂದ ಚಲಾಯಿತಗೊಳ್ಳುವ ಈ ತಾಣಕ್ಕೆ ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕಿತಗೊಂಡಿದ್ದೀರಿ:">
 <!ENTITY identity.connectionInternal "ಇದು ಸುರಕ್ಷಿತ &brandShortName; ಪುಟ">
-<!ENTITY identity.insecureLoginForms "ನಿಮ್ಮ ಲಾಗಿನ್ ಮಾಹಿತಿಯನ್ನು ಕದಿಯಲಾಗಿರಬಹುದು.">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "ಈ ಪುಟದ ಸುರಕ್ಷಿತವಲ್ಲದ ಕೆಲ ಭಾಗಗಳನ್ನು &brandShortName; ವು ನಿರ್ಬಂಧಿಸಿದೆ.">
@@ -929,10 +925,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "ಮತ್ತೊಮ್ಮೆ ನನ್ನನ್ನು ಕೇಳಬೇಡ (D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "Pocketಗೆ ಪುಟವನ್ನು ಉಳಿಸಿ">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "ಕೊಂಡಿಯನ್ನು ಪಾಕೆಟ್‌ಗೆ ಉಳಿಸಿ">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "ಪಾಕೆಟ್ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ">
