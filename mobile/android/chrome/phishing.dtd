@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "ఇక్కడినుండి నన్ను బయటపడవేయి!">
 <!ENTITY safeb.palm.decline.label "ఈ హెచ్చరికను పట్టించుకోకండి">
 <!ENTITY safeb.palm.notforgery.label2 "ఇది మోసపు వెబ్ సైటు కాదు…">
-<!ENTITY safeb.palm.reportPage.label "ఎందుకు ఈ సైటు నిరోధించబడింది?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "మోసపూరిత సైటుగా నివేదించబడింది!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
