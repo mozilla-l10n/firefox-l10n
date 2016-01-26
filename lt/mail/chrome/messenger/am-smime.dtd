@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Parašui naudoti šį asmeninį liudijimą:">
 
 <!ENTITY certificates.label "Liudijimai">
-<!ENTITY manageCerts.label "Liudijimų peržiūra">
-<!ENTITY manageCerts.accesskey "L">
+
+
 <!ENTITY manageDevices.label "Saugumo priemonės">
 <!ENTITY manageDevices.accesskey "a">
