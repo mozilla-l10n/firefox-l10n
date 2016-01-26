@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "ୱେବ କୋନସଲ">
 <!ENTITY browserConsole.title "ବ୍ରାଉଜର କୋନସୋଲ">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "ଲଗ ଅନୁରୋଧ ଏବଂ ଉତ୍ତର ଲିଖିତ ସ୍ଥାନଗୁଡ଼ିକ">
-<!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 

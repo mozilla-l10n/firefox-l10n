@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "ବାକ୍ସ ମଡେଲ">
+<!ENTITY layoutViewTitle        "ବାକ୍ସ ମଡେଲ">
 <!ENTITY margin.tooltip         "ସୀମା">
 <!ENTITY border.tooltip         "ଧାର">
 <!ENTITY padding.tooltip        "ଅନାବଶ୍ୟକ ବିସ୍ତାର">
