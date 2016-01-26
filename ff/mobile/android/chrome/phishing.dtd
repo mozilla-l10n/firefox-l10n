@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Yaltin-am ɗoo, a haalii bonnde!">
 <!ENTITY safeb.palm.decline.label "Faalkiso ngoo reentino">
 <!ENTITY safeb.palm.notforgery.label2 "Ɗum wonaa maawol geese…">
-<!ENTITY safeb.palm.reportPage.label "Hol ko waɗi ngoo hello daaƴeede?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Jaŋtaama ko Hello Njangu!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
