@@ -8,14 +8,20 @@
 
 
 
-<!ENTITY  onboard_start_button_account "&brandShortName; သို့ ဝင်ပါ">
+
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "စတင် ကြည့်ရှုရှာဖွေရန်">
-
-
-
-
-
-
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -163,8 +169,6 @@
 
 
 
-
-
 <!ENTITY pref_category_home "ပင်မ">
 <!ENTITY pref_category_home_summary "သင်၏ပင်မမျက်နှာစာကို ပြင်ပါ">
 <!ENTITY pref_category_home_panels "အကွက်များ">
@@ -226,8 +230,12 @@
 
 
 
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 
 
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -235,6 +243,8 @@
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 <!ENTITY pref_char_encoding_on "မီနူး စာရင်းပြပါ">
@@ -486,16 +496,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "သင်လတ်တစ်လောသုံးနေသော တပ်ဗ်များ">
 <!ENTITY home_open_all "အားလုံးဖွင့်">
 <!ENTITY home_most_recent_empty "သင်လတ်တလော လေ့လာခဲ့သော ဝတ်ဆိုဒ်များ">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1; အားသုံးပြီး တစ်ကိုယ်ရေသုံး တဗ်&formatS2; တစ်ခုဖွင့်ပါ">
 <!ENTITY home_reading_list_empty "သင်သိမ်းထားသော စာစောင်များ">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -550,6 +555,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+
 
 
 <!-- Mixed content notifications in site identity popup -->
@@ -607,7 +613,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_retry2 "ပြန်လည်ကြိုးစားရန် ထိပါ">
 
 <!ENTITY updater_apply_select2 "မွမ်းမံရန် ထိပါ">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "ဧည့်သည်သုံးရန် ဖွင့်">
 <!ENTITY exit_guest_session "ဧည့်သည်သုံးထားသည်ကို ပိတ်မည်">

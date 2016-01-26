@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "ဒီနေရာမှ ထွက်မည်!">
 <!ENTITY safeb.palm.decline.label "ဒီသတိပေးချက်ကို လျစ်လျုရှုပါ">
 <!ENTITY safeb.palm.notforgery.label2 "ဒါဟာ လိမ်လည်တဲ့ ကွန်ရက် တခု မဟုတ်ဘူး။">
-<!ENTITY safeb.palm.reportPage.label "ဤဝတ်ဆိုက်အားဘာကြောင့်ပိတ်ထားသနည်း။">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "တိုက်ခိုက်သတင်ပေးခြင်းခံထားရသောစာမျက်နှာ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
