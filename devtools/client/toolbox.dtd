@@ -26,6 +26,8 @@
 <!ENTITY options.context.inspector "Analisi pagina">
 <!ENTITY options.showUserAgentStyles.label "Visualizza stili del browser">
 <!ENTITY options.showUserAgentStyles.tooltip "Attivando questa opzione verranno visualizzati gli stili predefiniti caricati dal browser.">
+<!ENTITY options.collapseAttrs.label "Tronca attributi DOM">
+<!ENTITY options.collapseAttrs.tooltip "Tronca gli attributi troppo lunghi in Analisi pagina">
 <!ENTITY options.defaultColorUnit.label "Unità predefinita colori:">
 <!ENTITY options.defaultColorUnit.accesskey "U">
 <!ENTITY options.defaultColorUnit.authored "come l’originale">
