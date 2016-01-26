@@ -103,7 +103,6 @@
 <!ENTITY enableOCSP.label                "Sertifikaların geçerliliğini doğrulamak için OCSP yanıt sunucularını sorgula">
 <!ENTITY enableOCSP.accesskey            "S">
 
-<!ENTITY viewCertificates.label         "Sertifikaları göster">
-<!ENTITY viewCertificates.accesskey     "S">
-<!ENTITY viewSecurityDevices.label      "Güvenlik aygıtları">
-<!ENTITY viewSecurityDevices.accesskey  "G">
+
+<!ENTITY viewSecurityDevices.label "Güvenlik aygıtları">
+<!ENTITY viewSecurityDevices.accesskey "G">

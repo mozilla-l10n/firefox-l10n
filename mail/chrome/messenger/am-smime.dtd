@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Gönderdiğim iletileri sayısal olarak imzalamak için bu onay belgesini kullan:">
 
 <!ENTITY certificates.label "Sertifikalar">
-<!ENTITY manageCerts.label "Sertifikaları göster">
-<!ENTITY manageCerts.accesskey "ö">
+
+
 <!ENTITY manageDevices.label "Güvenlik aygıtları">
 <!ENTITY manageDevices.accesskey "y">
