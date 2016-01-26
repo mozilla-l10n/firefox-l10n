@@ -14,7 +14,7 @@
 
 <!ENTITY aboutTelemetry.extendedRecordingDisabled "  A gravação estendida de telemetria está <span>desativada</span>.">
 
-<!ENTITY aboutTelemetry.pingDataSource "Fonte dos dados ping:">
+<!ENTITY aboutTelemetry.pingDataSource "Fonte de dados ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Dados ping atuais">
 
