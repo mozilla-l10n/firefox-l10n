@@ -103,7 +103,6 @@
 <!ENTITY enableOCSP.label                "استعلم من خواديم مستجيبي OCSP عن الصلاحية الحالية للشهادات">
 <!ENTITY enableOCSP.accesskey            "س">
 
-<!ENTITY viewCertificates.label         "اعرض الشهادات">
-<!ENTITY viewCertificates.accesskey     "ش">
-<!ENTITY viewSecurityDevices.label      "أجهزة الأمن">
-<!ENTITY viewSecurityDevices.accesskey  "م">
+
+<!ENTITY viewSecurityDevices.label "أجهزة الأمن">
+<!ENTITY viewSecurityDevices.accesskey "م">
