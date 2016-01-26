@@ -103,7 +103,6 @@
 <!ENTITY enableOCSP.label                "ម៉ាស៊ីនមេ​​ឆ្លើយតប OCSP ដើម្បី​បញ្ជាក់​ភាព​ត្រឹមត្រូវ​របស់វិញ្ញាបនបត្រ​បច្ចុប្បន្ន">
 <!ENTITY enableOCSP.accesskey            "ម">
 
-<!ENTITY viewCertificates.label         "View Certificates">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewSecurityDevices.label      "ឧបករណ៍​សុវត្ថិភាព">
-<!ENTITY viewSecurityDevices.accesskey  "D">
+
+<!ENTITY viewSecurityDevices.label "ឧបករណ៍​សុវត្ថិភាព">
+<!ENTITY viewSecurityDevices.accesskey "D">
