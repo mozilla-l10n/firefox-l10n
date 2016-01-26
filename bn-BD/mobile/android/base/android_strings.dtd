@@ -11,12 +11,12 @@
 <!ENTITY  onboard_start_subtext3 "ওয়েব ব্রাউজিং করার অভিজ্ঞতা যথাযথ ভাবে আপনার নিজের মত করে করুন।">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; এ স্বাগতম">
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "উপরকারী অনুসন্ধান প্রস্তাবনা শর্টকার্টের মাধ্যমে আরও দ্রুত বিভিন্ন জিনিষ খুঁজে নিন।">
+<!ENTITY firstrun_bookmarks_title "ইতিহাস">
+<!ENTITY firstrun_bookmarks_message "আপনার পছন্দ, সামনে এবং মাঝখানে">
+<!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক ও ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছে।">
+<!ENTITY firstrun_data_title "ডাটা">
+<!ENTITY firstrun_data_message "কম ডাটা, বেশি সঞ্চয়">
 
 <!ENTITY firstrun_sync_title "সিঙ্ক">
 
