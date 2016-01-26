@@ -103,7 +103,6 @@
 <!ENTITY enableOCSP.label                "Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats">
 <!ENTITY enableOCSP.accesskey            "C">
 
-<!ENTITY viewCertificates.label         "Visualitza els certificats">
-<!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewSecurityDevices.label      "Dispositius de seguretat">
-<!ENTITY viewSecurityDevices.accesskey  "D">
+
+<!ENTITY viewSecurityDevices.label "Dispositius de seguretat">
+<!ENTITY viewSecurityDevices.accesskey "D">
