@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Hona bidalia:">
 <!ENTITY     props.expires.label            "Iraungitzea:">
 
+
 <!ENTITY     window.title                   "Cookieak">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
