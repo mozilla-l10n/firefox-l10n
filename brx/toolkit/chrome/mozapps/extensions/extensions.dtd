@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "मोनसे पेज बारहो">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "गासै add-ons खौ रैखाथि म'डजों लोरबां खालामबाय।">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "बोखार">
 <!ENTITY cmd.uninstallAddon.accesskey         "ब">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "उफ्राफोर">
 <!ENTITY cmd.showPreferencesWin.tooltip       "बे add-on नि उफ्राफोरखौ सोलाय">
 <!ENTITY cmd.showPreferencesUnix.label        "पसन्दफोर">

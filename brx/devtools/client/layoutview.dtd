@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "बाक्सु मडेल">
+<!ENTITY layoutViewTitle        "बाक्सु मडेल">
 <!ENTITY margin.tooltip         "रुगुं">
 <!ENTITY border.tooltip         "सिमना">
 <!ENTITY padding.tooltip        "पेडिं">

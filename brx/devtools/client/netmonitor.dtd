@@ -23,8 +23,6 @@
 <!ENTITY netmonitorUI.reloadNotice3       "नेटवार्क खामानिनि सोमोन्दै गुवारै फोरमायथिहोग्राखौ नायनो बिलाइ।">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
-
-<!ENTITY netmonitorUI.toolbar.status2     "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 

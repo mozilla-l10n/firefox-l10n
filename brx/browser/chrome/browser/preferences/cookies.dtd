@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "..नि थाखाय दैथाय हर: ">
 <!ENTITY     props.expires.label            "मेयाद बारलाङो:">
 
+
 <!ENTITY     window.title                   "कुकिफोर">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "बेयो जोबोद फोरमान लाग्रा। बैसोगोरा नायगिदिंनाय गैयाबालानो बाहायनो नाङा।">
 <!ENTITY aboutNetworking.showNextTime          "उननि समाव बे सांग्रांथिखौ दिनथि">
 <!ENTITY aboutNetworking.ok                    "OK">
-<!ENTITY aboutNetworking.http                  "Http">
+
 <!ENTITY aboutNetworking.sockets               "सकेट्स">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "वेबसकेट्स">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "खौरां मोनबाय">
 <!ENTITY aboutNetworking.bytesSent             "बाइट्स दैथाय हरबाय">
 <!ENTITY aboutNetworking.bytesReceived         "बाइट्स मोनबाय">
+
+
+
+
