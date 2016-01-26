@@ -19,7 +19,7 @@
 <!ENTITY changeBlockList.accesskey      "A">
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
+<!ENTITY  doNotTrack.settings.label     "bainistigh do shocruithe Ná Lorgtar Mé">
 
 
 <!ENTITY  history.label                 "Stair">
