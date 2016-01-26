@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "Маннык буоллаҕына ыытаар:">
 <!ENTITY     props.expires.label            "Болдьоҕо ааһан эрэр:">
 
+
 <!ENTITY     window.title                   "Куукалар">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

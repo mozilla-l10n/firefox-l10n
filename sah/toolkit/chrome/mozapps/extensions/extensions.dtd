@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "Бу кэннинээҕи сирэйгэ">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Куттала суох үлэлиир эрэсиимҥэ эбиискэлэр араарыллаллар.">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "Т">
 <!ENTITY cmd.uninstallAddon.label             "Сот">
 <!ENTITY cmd.uninstallAddon.accesskey         "о">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Опциялара">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Бу эбиискэ туруорууларын уларыт">
 <!ENTITY cmd.showPreferencesUnix.label        "Туруоруулар">
