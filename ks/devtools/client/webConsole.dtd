@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "ویب كنسول">
 <!ENTITY browserConsole.title "براوزر کنسول">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "لاگ درخواست تْہ جواب باڈی&amp;">
-<!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 

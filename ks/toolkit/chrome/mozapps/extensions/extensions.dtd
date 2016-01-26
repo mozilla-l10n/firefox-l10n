@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "اكھ صفحئ  گژھیوبرونٹھ">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "سٲری ایڈ آنس چھَ ناممكن بناونئ آمِت سیف موڈ كئ زریع">
@@ -104,8 +106,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "تئ ہٹئویو">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "آپشنس  ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "یئ ایڈ آن صورت بدلٲویو">
 <!ENTITY cmd.showPreferencesUnix.label        "ترجیح ">

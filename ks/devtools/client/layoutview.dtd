@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "بوکْس ماڈل">
+<!ENTITY layoutViewTitle        "بوکْس ماڈل">
 <!ENTITY margin.tooltip         "مارجن">
 <!ENTITY border.tooltip         "باڈر">
 <!ENTITY padding.tooltip        "پیڈینگ">

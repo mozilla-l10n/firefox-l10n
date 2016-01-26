@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "یہ چُھ واریاہ تجرُبأتی۔ یہ مْہ کْریو استعمال ایڈلٹْہ سوپرویجن بغیر۔">
 <!ENTITY aboutNetworking.showNextTime          "یئ آگہی ہاو برونٹھمئ لٹ۪ی">
 <!ENTITY aboutNetworking.ok                    " OK">
-<!ENTITY aboutNetworking.http                  "Http">
+
 <!ENTITY aboutNetworking.sockets               "ساکیٹ">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "ویب ساکیٹ">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "مسیج آیہ رٹنْہ">
 <!ENTITY aboutNetworking.bytesSent             "بایٹْہ آیہ سوزنْہ">
 <!ENTITY aboutNetworking.bytesReceived         "بایٹْہ آیہ رٹنْہ">
+
+
+
+

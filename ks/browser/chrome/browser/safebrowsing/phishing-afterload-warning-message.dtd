@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "م۪ی كڈیو یم۪ی منزئ ن۪یبر!">
 <!ENTITY safeb.palm.decline.label "یئ آگہی كریو نظر انداز">
 <!ENTITY safeb.palm.notforgery.label2 "یئ چھُ نئ ویب ژھل">
-<!ENTITY safeb.palm.reportPage.label "یئ صفحئ كیازئ چھُ بند">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "حملئ وَر صفحئ كریو بیان">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -20,5 +21,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc " پیٹھ یہ ویب پیج چُھ رپورٹ کرنْہ آمُت بطور اکھ  ویب فورجری تْہ چُھ بُلاک کرنْہ آمُت  یمیچ بُنیاد تُہنزن حفاظتی ترجیحاتن پیٹھ۔<span id='phishing_sitename'/>">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>ویب فورجری چھ ڈیزاین کرنْہ یوان توہیہ ٹرْک کرنْہ باپت یُتھ ذن توہیہ ہأیو ذأتی یا مألی انفارمیشن سورس نقل کْرتھ  یمن پیٹھ توہیہ بھروس چُھ۔</p><p> یتھ ویب پیجس پیٹھ کانہہ تِہ انفارمیشن اینٹر کرنْہ سْیت  ہیکِہ شناخت رأوِتھ یا بدل کانہہ فراڈ گْژیتھ۔</p>">
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
