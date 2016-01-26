@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "Ma kaa baani ga">
 <!ENTITY  onboard_start_message3 "Ceeci nda &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Wa taka tee kaŋ ra war teegoyoo bayraa interneti boŋ kanbehayey ga ma ti war boŋ wanoo. ">
-<!ENTITY  onboard_start_button_account "Huru &brandShortName; ra">
+
+<!ENTITY firstrun_urlbar_message "Kubayni &brandShortName; ga">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "Sync">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "Ceecikaw tunandi">
 <!ENTITY firstrun_button_next "Bisa">
 
 <!ENTITY  onboard_start_restricted1 "Saajaw nda dabari gaabu nda &brandShortName; dumi faalantaa woo.">
-
-<!ENTITY firstrun_import_title "Zaa">
-<!ENTITY firstrun_import_message "Kubayni &brandShortName; ga">
-<!ENTITY firstrun_import_subtext "War doo-šilbawey nda taarikoo zaa ceecikaw tana foo ga.">
-<!ENTITY firstrun_import_action "Bere &brandShortName; ga">
-<!ENTITY firstrun_import_dialog_button "Bere">
-<!ENTITY firstrun_import_progress_title "Bereyan">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -102,10 +108,12 @@
 <!ENTITY settings "Kayandiyaney">
 <!ENTITY settings_title "Kayandiyaney">
 <!ENTITY pref_category_general "Hankul">
-
+<!ENTITY pref_category_general_summary2 "Šintin moo, šenni, URL zuu ">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Šenni">
 <!ENTITY pref_category_language_summary "War ceecikaa šennoo barmay">
 <!ENTITY pref_browser_locale "Ceecikaw šenni">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -142,12 +150,12 @@
 
 <!ENTITY pref_category_search3 "Ceeci">
 <!ENTITY pref_category_search_summary "War ceeciyan nookey hanse war boŋ še">
-
-
+<!ENTITY pref_category_accessibility "Duwandiyan">
+<!ENTITY pref_category_accessibility_summary2 "Hantum azzaati, beeriyan, jinde damhaya">
 <!ENTITY pref_category_privacy_short "Sutura">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "Hangayan, aleewawey, bayhaya suubarey">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName;, hããyan fillantey, tuuruyan ga">
 <!ENTITY pref_category_datareporting "Bayhaya suubarey">
 <!ENTITY pref_learn_more "Bay ka tonton">
 <!ENTITY pref_category_installed_search_engines "Ceecijinay sinjantey">
@@ -161,15 +169,13 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "Yaamar: Ceeciyan faari naagu kayna nda &formatI; biyoo karkar ka interneti nungu foo tonton war ceeciyan nookey maašeedaa ga.">
-
-
+<!ENTITY pref_category_advanced "Jinekoyante">
+<!ENTITY pref_category_advanced_summary2 "Kanjey, sukarey, cinakaw goyjinawey yeeti">
 <!ENTITY pref_developer_remotedebugging "Mooray hasaraw kaakayan">
 <!ENTITY pref_developer_remotedebugging_usb "Mooray hanseyan nda USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Mooray hanseyan nda Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi hasaraw kaayan ka waazibandi kaŋ war jinaa ma bara nda zaabiyan ašariya cawkaw porogaram sinjante.">
 <!ENTITY pref_remember_signons2 "Honga huruyan tammaasawey">
-<!ENTITY pref_open_external_urls_privately_title "Dobey feeri sutura naaruyan ra">
-<!ENTITY pref_open_external_urls_privately_summary "Tarayhere dobey kul kaŋ feeri &brandShortName; se">
 <!ENTITY pref_manage_logins "Huruyan tammaasawey juwal">
 
 <!ENTITY pref_category_home "Šintin">
@@ -182,7 +188,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ka šintinmoɲoo ga">
 <!ENTITY pref_category_home_content_settings "Gundekuna kayandiyaney">
-
+<!ENTITY pref_home_updates "Boŋtaagandirey">
 <!ENTITY pref_home_updates_enabled "Ga dira">
 <!ENTITY pref_home_updates_wifi "Wi-Fi hinne bande">
 <!ENTITY pref_home_suggested_sites "Nungu honnandiyaney cebe">
@@ -192,31 +198,37 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; šintin moo">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Alaada">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Aderesu dam wala kalima ceeci">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "Hankul">
+<!ENTITY pref_header_search "Ceeci">
 <!ENTITY pref_header_privacy_short "Sutura">
-
-
+<!ENTITY pref_header_accessibility "Duwandiyan">
+<!ENTITY pref_header_advanced "Jinekoyante">
 <!ENTITY pref_header_help "Faaba">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Aleewawey">
 <!ENTITY pref_cookies_accept_all "Tunante">
 <!ENTITY pref_cookies_not_accept_foreign "Tunante, bila nda aleewa waani">
 <!ENTITY pref_cookies_disabled "Kayante">
 
-
-
-
+<!ENTITY pref_tap_to_load_images_title2 "Biyey cebe">
+<!ENTITY pref_tap_to_load_images_enabled "Waati kul">
+<!ENTITY pref_tap_to_load_images_data "Wi-Fi hinne bande">
+<!ENTITY pref_tap_to_load_images_disabled2 "Gagayante">
 
 <!ENTITY pref_tracking_protection_title "Ganayan jejebuyan">
 <!ENTITY pref_tracking_protection_summary3 "A tunandi sutura naaruyan ra">
@@ -237,8 +249,12 @@
 <!ENTITY tab_queue_prompt_title "Feeri dobu booboyaŋ ra?">
 <!ENTITY tab_queue_prompt_text4 "I gaabu hala hiino kaŋ war ga &brandShortName; feeri">
 <!ENTITY tab_queue_prompt_tip_text2 "War ga hin ka woo barmay hiino ibaayey ra.">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "Tunandi">
 <!ENTITY tab_queue_prompt_negative_action_button "Manti sohõ">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -248,15 +264,17 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "kanje 1 ga batu">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "Harfu hawyan">
 <!ENTITY pref_char_encoding_on "Šilbayboŋoo cebe">
 <!ENTITY pref_char_encoding_off "Šilbayboŋoo ma ši cebandi">
-
+<!ENTITY pref_clear_private_data "Sutura bayhayey tuusu">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Tuusu sohõda">
-
+<!ENTITY pref_clear_on_exit_title3 "Sutura bayhayey tuusu ka fatta">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ga war bayhayey tuusu nga boŋ se waati kul kaŋ war na \u0022Quit\u0022 suuba šilbayboŋoo ra">
 <!ENTITY pref_clear_on_exit_dialog_title "Bayhayey kaŋ ga tuusandi suuba">
 <!ENTITY pref_plugins "Sukarey">
@@ -264,7 +282,7 @@
 <!ENTITY pref_plugins_tap_to_play "Naagu ka hẽenandi">
 <!ENTITY pref_plugins_disabled "Kayante">
 <!ENTITY pref_text_size "Kalimaɲaa kuru kayyan">
-
+<!ENTITY pref_restore_tabs "Kanjey yeeti">
 <!ENTITY pref_restore_always "Yeeti waati kul">
 <!ENTITY pref_restore_quit "Ma ši yeeti nda war fatta &brandShortName; ra">
 <!ENTITY pref_font_size_tiny "Kaccu">
@@ -289,16 +307,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Azzaati barmayyan tunandi waati kul">
 <!ENTITY pref_zoom_force_enabled_summary "Gaabi ka hantum a boŋ hala war ma hin ka moo kul azzaatoo barmay">
 <!ENTITY pref_voice_input "Jinde damhaya">
-
+<!ENTITY pref_voice_input_summary2 "Jinde zaayan duɲe URL zuwoo ra">
 <!ENTITY pref_qrcode_enabled "QR ašariya cawkaw">
-
+<!ENTITY pref_qrcode_enabled_summary2 "Naŋ QR bii-bebekaw URL zuwoo ra">
 
 <!ENTITY pref_use_master_password "Takaddaɲaa šennikufal beeroo">
-
+<!ENTITY pref_sync2 "Huru">
 <!ENTITY pref_sync_summary2 "War kanjey, doo-šilbawey, šennikufaley, taarikoo hangandi cere">
 <!ENTITY pref_search_suggestions "Ceeci honnandiyaney cebe">
 <!ENTITY pref_history_search_suggestions "Ceeciyan taarikoo cebe">
-
+<!ENTITY pref_import_options "Damhaya suubarey">
 <!ENTITY pref_import_android_summary "Doo-šilbawey nda taariki zaa aššil ceecikaa ga">
 <!ENTITY pref_private_data_history2 "Ceeciyan taariki">
 <!ENTITY pref_private_data_searchHistory "Ceeciyan taariki">
@@ -355,16 +373,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Boŋtaagandirey">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi hinne bande">
 <!ENTITY pref_update_autodownload_never "Abada">
-
+<!ENTITY pref_update_autodownload_always "Waati kul">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Faaba">
 
 <!ENTITY quit "Fatta">
 
-
+<!ENTITY addons "Tontoney">
+<!ENTITY logins "Huruyan tammaasawey">
 <!ENTITY downloads "Zumandiyaney">
 <!ENTITY char_encoding "Harfu hawyan">
 
@@ -381,7 +401,7 @@ size. -->
 <!ENTITY new_private_tab "Sutura nor loku taaga">
 <!ENTITY close_all_tabs "Nor lokey daabu">
 <!ENTITY close_private_tabs "Sutura nor lokey daabu">
-
+<!ENTITY tabs_normal "Kanjey">
 <!ENTITY tabs_private "Sutura">
 <!ENTITY tabs_synced "Hangante">
 <!ENTITY set_image_fail "Ši hin ka bii kayandi">
@@ -443,7 +463,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Dijikul ceeciyan">
-
+<!ENTITY pref_scroll_title_bar_summary2 "&brandShortName; goyjinay zuu tugu nda moɲoo ga cenda ka zunbu">
 
 <!ENTITY pref_tab_queue_title2 "Dobu booboyaŋ feeri">
 <!ENTITY pref_tab_queue_summary3 "I gaabu hala hiino kaŋ war ga &brandShortName; feeri">
@@ -503,6 +523,8 @@ size. -->
 <!ENTITY home_top_sites_add "Nungu tonton">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "&brandShortName; šintin moo">
 <!ENTITY home_history_title "Taariki">
 <!ENTITY home_clear_history_button "Ceeciyan taariki tuusu">
 <!ENTITY home_clear_history_confirm "Alhakiika war ga boona ka taarikoo tuusu?">
@@ -512,16 +534,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "War doŋ nor lokey bangay ne.">
 <!ENTITY home_open_all "Ikul feeri">
 <!ENTITY home_most_recent_empty "Interneti nungey kaŋ kokor k\u0027i guna bangay ne.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: goy nda &formatS1;Sutura nor loku taaga&formatS2; ši war taarikoo gaabu.">
 <!ENTITY home_reading_list_empty "Hantumey kaŋ war g\u0027i gaabu hiino še bangay ne.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -580,6 +597,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ciyari saajante">
 <!ENTITY identity_connection_insecure "Manti ciyari saajante">
 <!ENTITY identity_login_insecure "Moɲoo manti saajante nda war huruyan tammaasaa ga yalaafu.">
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ga gundekuna kaŋ ši saajaw gagay moɲoo woo ga.">
@@ -603,7 +621,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Sutura bayhayey hun">
 <!ENTITY private_data_fail "Sutura bayhaya fooyaŋ mana hin ka hun">
 
-<!ENTITY bookmarkhistory_button_import "Zaa">
 <!ENTITY bookmarkhistory_import_both "Doo-šilbawey nda taariki zaa 
 Android ra">
 <!ENTITY bookmarkhistory_import_bookmarks "Doo-šilbawey zaa 
@@ -641,7 +658,11 @@ Android ra">
 
 <!ENTITY updater_apply_title2 "Taagandiri ga bara &brandShortName; se">
 <!ENTITY updater_apply_select2 "Daaru ka taagandi">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Yaw goywaati taaga">
 <!ENTITY exit_guest_session "Yaw goywaati naŋ">
@@ -720,9 +741,11 @@ Android ra">
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "Tontoney">
+
 <!ENTITY restrictable_feature_private_browsing "Sutura naarumi">
 
-
+<!ENTITY restrictable_feature_clear_history "Taarikoo tuusu">
 
 
 
