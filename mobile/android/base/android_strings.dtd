@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
 <!ENTITY  onboard_start_message3 "Navegar con &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Haz tu experiencia de navegación Web móvil verdaderamente tuya.">
-<!ENTITY  onboard_start_button_account "Iniciar sesión en &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "Bienvenido a &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Encuentra cosas más rápido con ayuda de los atajos de sugerencias de búsqueda.">
+<!ENTITY firstrun_bookmarks_title "Historial">
+<!ENTITY firstrun_bookmarks_message "Tus favoritos, al frente y centrados">
+<!ENTITY firstrun_bookmarks_subtext "Obtén resultados de tus marcadores e historial cuando realices búsquedas.">
+<!ENTITY firstrun_data_title "Datos">
+<!ENTITY firstrun_data_message "Menos datos, más resguardos">
+<!ENTITY firstrun_data_subtext "Bloquear imágenes para gastar menos datos cada vez que estés en algún sitio web.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, siempre de tu lado">
+<!ENTITY firstrun_sync_subtext "Sincroniza tus pestañas, contraseñas, y más cada vez que lo uses.">
+<!ENTITY firstrun_signin_message "Conéctate, inicia">
+<!ENTITY firstrun_signin_button "Ingresa a Sync">
 <!ENTITY  onboard_start_button_browser "Empezar navegación">
 <!ENTITY firstrun_button_next "Siguiente">
 
 <!ENTITY  onboard_start_restricted1 "Mantente seguro y en control con esta versión simplificada de &brandShortName;.">
-
-<!ENTITY firstrun_import_title "Importar">
-<!ENTITY firstrun_import_message "Bienvenido a &brandShortName;">
-<!ENTITY firstrun_import_subtext "Importar tus marcadores e historial de otro navegador.">
-<!ENTITY firstrun_import_action "Transferir a &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Transferir">
-<!ENTITY firstrun_import_progress_title "Transfiriendo">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota vía Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración por Wi-Fi require que tenga tu dispositivo un app de lector de códigos QR.">
 <!ENTITY pref_remember_signons2 "Recordar inicios de sesión">
-<!ENTITY pref_open_external_urls_privately_title "Abrir enlaces en Navegación Privada">
-<!ENTITY pref_open_external_urls_privately_summary "Para todos los enlaces externos abiertos en &brandShortName;">
 <!ENTITY pref_manage_logins "Administrar inicios de sesión">
 
 <!ENTITY pref_category_home "Inicio">
@@ -245,8 +249,14 @@
 <!ENTITY tab_queue_prompt_title "¿Abriendo múltiples enlaces?">
 <!ENTITY tab_queue_prompt_text4 "Guardalos antes de la siguiente vez que abras &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Puedes cambiar esto después en Configuraciones">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Habilitar Permitir dibujar sobre otras aplicaciones">
 <!ENTITY tab_queue_prompt_positive_action_button "Habilitar">
 <!ENTITY tab_queue_prompt_negative_action_button "Ahora no">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Ir a las configuraciones">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +266,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 pestaña esperando">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Para \&quot;Abrir múltiples enlaces\&quot;, por favor, habilita el permiso \&quot;Dibujar sobre otras aplicaciones\&quot; para &brandShortName;">
 
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
@@ -524,18 +538,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tus pestañas recientes se mostrarán aquí.">
 <!ENTITY home_open_all "Abrir todo">
 <!ENTITY home_most_recent_empty "Los sitios web que visites con frecuencia se mostrarán aquí.">
+<!ENTITY home_selected_empty "Los sitios web que visites en el seleccionado periodo de tiempo se muestran aquí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: usando una &formatS1;Nueva pestaña privada&formatS2; no se guardará tu historial.">
 <!ENTITY home_reading_list_empty "Artículos que guardes para después se mostrarán aquí.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "Consejo: Para guardar artículos en tu lista de lectura mantén presionado el icono &formatI; cuando aparezca en la barra de dirección.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "Consejo: Para guardar artículos en tu lista de lectura mantén presionado el botón de modo lector cuando aparezca en la barra de dirección.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -594,6 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexión segura">
 <!ENTITY identity_connection_insecure "Conexión insegura">
 <!ENTITY identity_login_insecure "Esta página no es segura y tu inicio de sesión podría ser vulnerable.">
+<!ENTITY identity_connection_chromeui "Esta es una página segura de &brandShortName;">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloqueado contenido inseguro en esta página.">
@@ -655,7 +663,14 @@ desde Android">
 
 <!ENTITY updater_apply_title2 "Actualización disponible para &brandShortName;">
 <!ENTITY updater_apply_select2 "Toca para actualizar">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Para descargar archivos y actualizaciones, acepta el permiso para acceder al almacenamiento de &brandShortName;.">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Permitir">
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Nueva sesión de invitado">
 <!ENTITY exit_guest_session "Salir de la sesión de invitado">
@@ -744,8 +759,8 @@ desde Android">
 <!ENTITY restrictable_feature_advanced_settings_description "Esto incluye importar marcadores, restaurar pestañas y actualizaciones automáticas. Desactívalo para configuraciones más simples para cualquier miembro de la familia.">
 <!ENTITY restrictable_feature_camera_microphone "Cámara y micrófono">
 <!ENTITY restrictable_feature_camera_microphone_description "Permite a los miembros de la familia participar en la comunicación en tiempo real en los sitios web.">
-<!ENTITY restrictable_feature_data_choices "Elección de datos">
-<!ENTITY restrictable_feature_data_choices_description "Elige si deseas o no enviar información de uso a Mozilla para ayudar a hacer Firefox mejor.">
+<!ENTITY restrictable_feature_block_list "Lista de bloqueos">
+<!ENTITY restrictable_feature_block_list_description "Bloquear sitios web que incluyan contenido sensible.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
