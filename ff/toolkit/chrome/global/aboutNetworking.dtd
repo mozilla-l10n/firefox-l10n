@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "Ɗum ko jarribuya tan, Woto huutoro tawa mawɗo tawaaka.">
 <!ENTITY aboutNetworking.showNextTime          "Hollu ngoo reentino laawol garowol">
 <!ENTITY aboutNetworking.ok                    "OK">
-<!ENTITY aboutNetworking.http                  "Http">
+
 <!ENTITY aboutNetworking.sockets               "Ceŋirɗe">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "GeeseSoket">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "Ɓatakuuji keɓaaɗi">
 <!ENTITY aboutNetworking.bytesSent             "Bayte nuldaaɗe">
 <!ENTITY aboutNetworking.bytesReceived         "Bayte Keɓaaɗe">
+
+
+
+

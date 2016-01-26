@@ -166,7 +166,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Ɓeydu humpito…">
 <!ENTITY errorReporting.sending "Nana nelda jaŋtol">
 <!ENTITY errorReporting.sent "Jaŋtol neldaama">
-<!ENTITY errorReporting.report "Jaŋto">
 <!ENTITY errorReporting.tryAgain "Eto goɗngol">
 
 <!ENTITY remoteXUL.title "XUL Poottiiɗo">

@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "Ginorde Geese">
 <!ENTITY browserConsole.title "Ginorde Wanngorde">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "Logo Ɗaɓɓannde e Loowdi e Jaabte">
-<!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
