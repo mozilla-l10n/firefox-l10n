@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Vodi me odavdje!">
 <!ENTITY safeb.palm.decline.label "Ignoriši ovo upozorenje">
 <!ENTITY safeb.palm.notforgery.label2 "Ovo nije web krivotvorina…">
-<!ENTITY safeb.palm.reportPage.label "Zašto je ova stranica blokirana?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Prijavljena napadačka stranica!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
