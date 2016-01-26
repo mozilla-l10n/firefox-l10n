@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Server təhlükəsizliyi:">
 <!ENTITY     props.expires.label            "Sona çatma tarixi:">
 
+
 <!ENTITY     window.title                   "Çərəzlər">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
