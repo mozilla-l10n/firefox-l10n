@@ -215,6 +215,6 @@
 <!ENTITY simulator_device "Dispositivo">
 <!ENTITY simulator_screenSize "Ecrã">
 <!ENTITY simulator_pixelRatio "Rácio do pixel">
-
-
-
+<!ENTITY simulator_tv_data "Simulação TV">
+<!ENTITY simulator_tv_data_open "Dados de configuração">
+<!ENTITY simulator_tv_data_open_button "Abrir diretório de configuração...">
