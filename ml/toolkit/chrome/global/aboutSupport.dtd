@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "രജിസ്റ്റര്‍ ചെയ്‌ത Service Workers">
 
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "അനവധി പ്രക്രിയയ്ക്കുള്ള ജാലകങ്ങള്‍">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "സുരക്ഷ മോഡ്">

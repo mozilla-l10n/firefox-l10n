@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ആഡ്‌-ഓണുകള്‍">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "പ്രയോഗങ്ങള്‍">
-<!ENTITY webapps.accesskey            "p">
-<!ENTITY loopMenuItem.label           "ഒരു സംഭാഷണം ആരംഭിക്കൂ…">
-<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "വെബ് ഡവലപ്പര്‍">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -749,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "ഈ താള്‍ താങ്കളുടെ കമ്പ്യൂട്ടറില്‍ ശേഖരിച്ചിട്ടുണ്ട്.">
 <!ENTITY identity.connectionVerified1 "താങ്കള്‍ സുരക്ഷിതമായി ഈ വെബ്‌ സൈറ്റിലേക്ക് കണക്റ്റ് ചെയ്തിട്ടുണ്ട്, പ്രവര്‍ത്തിപ്പിക്കുന്നത്:">
 <!ENTITY identity.connectionInternal "ഇതു് സുരക്ഷിതമായൊരു &brandShortName; താള്‍ ആകുന്നു.">
-<!ENTITY identity.insecureLoginForms "നിങ്ങളുടെ ലോഗിന്‍ സുരക്ഷിതമല്ലായിരിക്കാം.">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "ഈ താളിന്റെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ലാത്തതിനാല്‍ &brandShortName; അത് തടഞ്ഞിട്ടുണ്ട്.">
@@ -931,10 +927,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "ഇനി ചോദിക്കരുതു്">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "താള്‍ പോക്കറ്റില്‍ സൂക്ഷിക്കുക">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "കണ്ണി പോക്കറ്റില്‍ സൂക്ഷിക്കുക">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "പോക്കറ്റ് പട്ടിക കാണുക">
