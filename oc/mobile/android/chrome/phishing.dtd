@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Sortir d'aicí !">
 <!ENTITY safeb.palm.decline.label "Ignorar aqueste avertiment">
 <!ENTITY safeb.palm.notforgery.label2 "Aquò es pas una contrafaiçon de site Web…">
-<!ENTITY safeb.palm.reportPage.label "Perqué la pagina es blocada ?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Sit d'atac raportat !">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
