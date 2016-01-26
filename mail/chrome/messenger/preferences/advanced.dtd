@@ -103,7 +103,6 @@
 <!ENTITY enableOCSP.label                "Заявяване OCSP сървърите да потвърждават текущата валидност на сертификатите">
 <!ENTITY enableOCSP.accesskey            "З">
 
-<!ENTITY viewCertificates.label         "Преглед сертификати">
-<!ENTITY viewCertificates.accesskey     "П">
-<!ENTITY viewSecurityDevices.label      "Защитни устройства">
-<!ENTITY viewSecurityDevices.accesskey  "З">
+
+<!ENTITY viewSecurityDevices.label "Защитни устройства">
+<!ENTITY viewSecurityDevices.accesskey "З">
