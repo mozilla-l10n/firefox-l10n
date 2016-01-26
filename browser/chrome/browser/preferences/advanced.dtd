@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "هنگامی که پایگاه‌های وبی تلاش می‌کنند صفحه را بازآوری کنند یا تغییر مسیر دهند، هشدار داده شود">
 <!ENTITY blockAutoRefresh.accesskey      "ب">
 
+
+
 <!ENTITY browsing.label                  "مرور">
 
 <!ENTITY useAutoScroll.label             "استفاده از لغزش خودکار">

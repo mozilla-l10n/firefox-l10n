@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "فرستادن برای:">
 <!ENTITY     props.expires.label            "زمان انقضاء:">
 
+
 <!ENTITY     window.title                   "کوکی‌ها">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
