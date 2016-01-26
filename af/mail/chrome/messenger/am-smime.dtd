@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Gebruik hierdie sertifikaat om boodskappe wat u versend, digitaal te onderteken:">
 
 <!ENTITY certificates.label "Sertifikate">
-<!ENTITY manageCerts.label "Bekyk sertifikate">
-<!ENTITY manageCerts.accesskey "B">
+
+
 <!ENTITY manageDevices.label "Sekuriteitstoestelle">
 <!ENTITY manageDevices.accesskey "S">
