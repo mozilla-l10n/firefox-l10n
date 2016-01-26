@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Келесі жағдайларда жіберу:">
 <!ENTITY     props.expires.label            "Мерзімі аяқталады:">
 
+
 <!ENTITY     window.title                   "Cookies">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
