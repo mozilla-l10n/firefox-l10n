@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Úsáid an teastas seo le haghaidh síniú na dteachtaireachtaí a sheolann tú:">
 
 <!ENTITY certificates.label "Teastais">
-<!ENTITY manageCerts.label "Taispeáin Teastais">
-<!ENTITY manageCerts.accesskey "T">
+
+
 <!ENTITY manageDevices.label "Gléasanna Slándála">
 <!ENTITY manageDevices.accesskey "G">

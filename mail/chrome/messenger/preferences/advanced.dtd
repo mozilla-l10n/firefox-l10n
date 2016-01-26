@@ -103,7 +103,6 @@
 <!ENTITY enableOCSP.label                "Iarr ar fhreastalaí freagróra OCSP bailíocht teastais a dheimhniú">
 <!ENTITY enableOCSP.accesskey            "O">
 
-<!ENTITY viewCertificates.label         "Taispeáin Teastais">
-<!ENTITY viewCertificates.accesskey     "s">
-<!ENTITY viewSecurityDevices.label      "Gléasanna Slándála">
-<!ENTITY viewSecurityDevices.accesskey  "d">
+
+<!ENTITY viewSecurityDevices.label "Gléasanna Slándála">
+<!ENTITY viewSecurityDevices.accesskey "d">
