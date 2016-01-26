@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Cu how wen!">
 <!ENTITY safeb.palm.decline.label "Toś to warnowanje ignorěrowaś">
 <!ENTITY safeb.palm.notforgery.label2 "To njejo websfalšowanka…">
-<!ENTITY safeb.palm.reportPage.label "Cogodla jo se toś ten bok blokěrował?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Napadowy bok jo se k wěsći dał!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,6 +22,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Toś ten webbok na <span id='unwanted_sitename'/> jo se ako bok k wěsći dał, kótaryž wopśimujo njewitanu softwaru a na zakłaźe wašych wěstotnych nastajenjow blokěrował.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Njewitane softwarowe boki wopytuju softwaru instalěrowaś, kótaraž móžo wobšudna byś a waš system na njewótcakowane nałogi wobwliwowaś.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title "Zakazane sedło">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Toś ten webbok na <span id='forbidden_sitename'/> jo se na zakłaźe konfiguracije wašogo wobglědowaka zablokěrował.">
