@@ -20,6 +20,8 @@
 
 
 
+
+
 <!-- global warnings -->
 
 
@@ -88,8 +90,6 @@
 
 <!ENTITY cmd.uninstallAddon.label             "Tlosa">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Diitlhophelwa">
 
 <!ENTITY cmd.showPreferencesUnix.label        "Diratwabogolo">
