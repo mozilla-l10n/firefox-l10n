@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "వెబ్ కన్సోల్">
 <!ENTITY browserConsole.title "విహారిణి కన్సోల్">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "లాగ్ అబ్యర్దన మరియు స్పందన బాడీలు">
-<!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 

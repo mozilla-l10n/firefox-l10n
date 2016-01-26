@@ -167,7 +167,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "మరింత తెలుసుకోండి…">
 <!ENTITY errorReporting.sending "నివేదికను పంపిస్తున్నాం">
 <!ENTITY errorReporting.sent "నివేదిక పంపబడింది">
-<!ENTITY errorReporting.report "నివేదించు">
 <!ENTITY errorReporting.tryAgain "మళ్ళీ ప్రయత్నించు">
 
 <!ENTITY remoteXUL.title "రిమోట్ XUL">
