@@ -6,21 +6,22 @@
 <!ENTITY safeb.palm.decline.label "Ігнорувати це попередження">
 <!ENTITY safeb.palm.notforgery.label2 "Це не шахрайство…">
 <!ENTITY safeb.palm.reportPage.label "Чому цю сторінку заблоковано?">
+<!ENTITY safeb.palm.whyForbidden.label "Чому цю сторінку заблоковано?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Сторінка звітована як нападницька!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Цю веб-сторінку на <span id='malware_sitename'/> було відзвітовано як нападницьку, тому вона була заблокована згідно з вашими вподобаннями безпеки.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Ця веб-сторінка <span id='malware_sitename'/> відома як нападницька, тому вона була заблокована згідно з вашими вподобаннями безпеки.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Нападницькі сторінки намагаються встановити програми що крадуть конфіденційну інформацію, використовують ваш комп’ютер для подальших атак чи ушкоджують вашу систему.</p><p>Деякі нападницькі сторінки навмисно розповсюджують шкідливі програми, проте чимало використовуються втемну, без відома та дозволу їх хазяїв.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Підозрюється підробка!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Надання будь-якої інформації цій сторінці може призвести до крадіжки ваших особистих даних чи інших шахрайств.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Веб-підробки (фішінг) створюють для того, щоб видурити у вас інформацію імітуючи джерела, яким ви, можливо, довіряєте.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Веб-підробки (фішинг) створюють для того, щоб видурити у вас інформацію, імітуючи джерела, яким ви, можливо, довіряєте.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Відомий сайт з небажаним програмним забезпеченням!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Веб-сторінка <span id='unwanted_sitename'/> відома як така, що розповсюджує небажане програмне забезпечення, і тому була заблокована згідно з вашими вподобаннями безпеки.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Сторінки такого типу намагаються встановити програмне забезпечення, яке може вас ввести в оману та призвести до непередбачуваних змін у системі.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title "Заборонений сайт">
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Заблокований сайт">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Ця веб-сторінка <span id='forbidden_sitename'/> була заблокована згідно з вашою конфігурацією браузера.">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Веб-сторінку <span id='forbidden_sitename'/> було заблоковано вашим профілем адміністратора.">
