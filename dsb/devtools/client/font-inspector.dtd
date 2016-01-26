@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "Pisma">
+<!ENTITY fontInspectorTitle "Pisma">
 <!ENTITY showAllFonts "Wšykne pisma pokazaś, kótarež wužywaju se na boku">
 <!ENTITY usedAs "Wužywane ako: ">
 <!ENTITY system "systemowe">

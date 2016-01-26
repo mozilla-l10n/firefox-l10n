@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Pósłaś za:">
 <!ENTITY     props.expires.label            "Njepłaśiwy wót:">
 
+
 <!ENTITY     window.title                   "Cookieje">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
