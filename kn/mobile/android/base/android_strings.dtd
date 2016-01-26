@@ -9,17 +9,23 @@
 <!ENTITY firstrun_panel_title_welcome "ಸ್ವಾಗತ">
 <!ENTITY  onboard_start_message3 "&brandShortName; ನೊಂದಿಗೆ ವೀಕ್ಷಿಸಿ">
 <!ENTITY  onboard_start_subtext3 "ನಿಮ್ಮ ಮೊಬೈಲ್ ಜಾಲ ವೀಕ್ಷಣೆಯ ಅನುಭವವನ್ನು ನೈಜವಾಗಿ ನಿಮ್ಮ ಸ್ವಂತದ್ದಾಗಿಸಿಕೊಳ್ಳಿ.">
-<!ENTITY  onboard_start_button_account "&brandShortName; ಗೆ ಲಾಗಿನ್ ಮಾಡಿ">
+
+<!ENTITY firstrun_urlbar_message "&brandShortName; ಗೆ ಸ್ವಾಗತ">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "ಸಿಂಕ್">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
 <!ENTITY firstrun_button_next "ಮುಂದೆ">
 
-
-<!ENTITY firstrun_import_title "ಆಮದು">
-<!ENTITY firstrun_import_message "&brandShortName; ಗೆ ಸ್ವಾಗತ">
-<!ENTITY firstrun_import_subtext "ಮತ್ತೊಂದು ಬ್ರೌಸರ್‌ನಿಂದ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡು.">
-<!ENTITY firstrun_import_action "ವರ್ಗಾಯಿಸು ಇದಕ್ಕೆ &brandShortName; ">
-<!ENTITY firstrun_import_dialog_button "ವರ್ಗಾಯಿಸು">
-<!ENTITY firstrun_import_progress_title "ವರ್ಗಾಯಿಸಲಾಗುತ್ತಿದೆ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -168,8 +174,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್ Wi-Fi ಮೂಲಕ">
 
 <!ENTITY pref_remember_signons2 "ಲಾಗಿನ್‌ಗಳನ್ನು ನೆನಪಿಡಿ">
-<!ENTITY pref_open_external_urls_privately_title "ಕೊಂಡಿಗಳನ್ನು ಖಾಸಗಿ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
-<!ENTITY pref_open_external_urls_privately_summary "&brandShortName; ನಲ್ಲಿ ತೆರೆಯಲಾದ ಎಲ್ಲ ಬಾಹ್ಯ ಕೊಂಡಿಗಳು">
 <!ENTITY pref_manage_logins "ಲಾಗಿನ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ">
 
 <!ENTITY pref_category_home "ನೆಲೆ">
@@ -243,8 +247,12 @@
 <!ENTITY tab_queue_prompt_title "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆಯುತ್ತಿದ್ದೀರಾ?">
 <!ENTITY tab_queue_prompt_text4 "‍‍ಮುಂದಿನ ಬಾರಿ ‍‍&brandShortName; ತೆರೆಯುವವರೆಗೂ ಉಳಿಸು.">
 <!ENTITY tab_queue_prompt_tip_text2 "ನೀವು ಇದನ್ನು ನಂತರ ಸಿದ್ದತೆಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "ಸಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY tab_queue_prompt_negative_action_button "ಈಗ ಬೇಡ">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -254,6 +262,8 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 ಹಾಳೆ ಕಾಯುತ್ತಿದೆ">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "ಅಕ್ಷರದ ಎನ್ಕೋಡಿಂಗ್">
 <!ENTITY pref_char_encoding_on "ಪರಿವಿಡಿ ತೋರಿಸು">
@@ -514,16 +524,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "ನಿಮ್ಮ ಇತ್ತೀಚಿನ ಪುಟಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
 <!ENTITY home_open_all "ಎಲ್ಲವನ್ನೂ ತೆರೆ">
 <!ENTITY home_most_recent_empty "ನೀವು ತೀರ ಇತ್ತೀಚೆಗೆ ಭೇಟಿಕೊಟ್ಟ ಅಂತರ್ಜಾಲ ಪುಟಗಳನ್ನು ಇಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿ.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1; ಅನ್ನು ಬಳಸಲಾಗುತ್ತಿದೆ;ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್&formatS2; ನಿಮ್ಮ ಇತಿಹಾಸವನ್ನು ಉಳಿಸುವುದಿಲ್ಲ.">
 <!ENTITY home_reading_list_empty "ನಂತರ ಓದಲು ಉಳಿಸಿದ ಲೇಖನಗಳನ್ನು ಇಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -581,6 +586,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 
 
+
 <!-- Mixed content notifications in site identity popup -->
 
 
@@ -602,7 +608,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ಖಾಸಗಿ ದತ್ತಾಂಶವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ">
 <!ENTITY private_data_fail "ಕೆಲವು ಖಾಸಗಿ ದತ್ತಾಂಶಗಳನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
-<!ENTITY bookmarkhistory_button_import "ಆಮದು">
 <!ENTITY bookmarkhistory_import_both "ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ 
 ಆಮದು ಮಾಡಲಾಗುತ್ತಿದೆ">
 <!ENTITY bookmarkhistory_import_bookmarks "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಆಮದುಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ 
@@ -640,7 +645,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; ಗೆ ಉನ್ನತೀಕರಣ ಲಭ್ಯವಿದೆ;">
 <!ENTITY updater_apply_select2 "ಪರಿಷ್ಕರಿಸಲು ಸ್ಪರ್ಶಿಸಿ">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "ಹೊಸ ಅತಿಥಿ ಅಧಿವೇಶನ">
 <!ENTITY exit_guest_session "ಅತಿಥಿ ಅಧಿವೇಶನದಿಂದ ನಿರ್ಗಮಿಸು">
