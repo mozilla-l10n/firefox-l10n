@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "Веб-сайт парақты басқа жерге бағдарласа, немесе өздігінен жаңартса, мені ескерту">
 <!ENTITY blockAutoRefresh.accesskey      "п">
 
+
+
 <!ENTITY browsing.label                  "Сайттарды қарау">
 
 <!ENTITY useAutoScroll.label             "Автоматты айналдыруды қолдану">
