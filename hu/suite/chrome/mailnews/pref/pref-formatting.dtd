@@ -6,13 +6,12 @@
 <!ENTITY sendMaildesc.label           "Ha HTML-üzenetet küldése esetén egy vagy több címzettről nem ismert, hogy képes-e HTML-t fogadni:">
 <!ENTITY askMe.label                  "Kérdezzen rá, hogy mi a teendő (A levelező kéri majd a formátum kiválasztását)">
 <!ENTITY askMe.accesskey              "K">
-<!ENTITY convertPlain.label           "Konvertálás szöveges üzenetté (a formázások elvesznek)">
-<!ENTITY convertPlain.accesskey       "z">
-<!ENTITY sendHTML.label               "Üzenet küldése formázott szövegként (néhány levelezőprogram nem képes megjeleníteni)">
-<!ENTITY sendHTML.accesskey           "k">
-<!ENTITY sendBoth.label               "Üzenet küldése mind normál szövegként, mind formázott szövegként (nagyobb üzenetméretet eredményez)">
-<!ENTITY sendBoth.accesskey           "l">
-<!ENTITY override.label               "Felülbírálhatja ezeket a beállításokat minden egyes üzenet esetén az üzenet írása közben a Beállítások menüben.">
+
+
+
+
+
+
 <!-- Html and Plain Text Domains  -->
 
 <!ENTITY domain.title                 "Küldés normál szövegként és HTML-ben">
@@ -37,3 +36,5 @@
 <!ENTITY domainnameError.title        "Hibás tartománynév">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label      "@string@ tartománynév érvénytelen és figyelmen kívül lesz hagyva. Az érvényes tartománynevek legalább egy pontot (.) tartalmaznak amely karakterekkel vannak körülvéve.">
+<!-- Global auto-detect switch -->
+
