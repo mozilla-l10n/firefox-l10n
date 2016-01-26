@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Send fyrir:">
 <!ENTITY     props.expires.label            "Rennur út:">
 
+
 <!ENTITY     window.title                   "Smákökur">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
