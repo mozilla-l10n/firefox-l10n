@@ -9,14 +9,21 @@
 <!ENTITY firstrun_panel_title_welcome "స్వాగతం">
 
 
-<!ENTITY  onboard_start_button_account "&brandShortName; లోనికి ప్రవేశించండి">
+
+<!ENTITY firstrun_urlbar_message "&brandShortName;‌కి స్వాగతం">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "సింక్">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
-
-
-
-<!ENTITY firstrun_import_message "&brandShortName;‌కి స్వాగతం">
-
-
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -166,8 +173,6 @@
 
 
 
-
-
 <!ENTITY pref_manage_logins "ప్రవేశాలను నిర్వహించండి">
 
 <!ENTITY pref_category_home "ముంగిలి">
@@ -235,8 +240,12 @@
 
 
 
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 
 <!ENTITY tab_queue_prompt_negative_action_button "ఇప్పుడు కాదు">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -244,6 +253,8 @@
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "అక్షరాల ఎన్కోడింగు">
 <!ENTITY pref_char_encoding_on "మెను చూపించు">
@@ -505,16 +516,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "మీ ఇటీవలి ట్యాబులు ఇక్కడ కనిపిస్తాయి.">
 <!ENTITY home_open_all "అన్నిటినీ తెరువు">
 <!ENTITY home_most_recent_empty "మీరు ఇటీవల చూసిన వెబ్ సైట్లు ఇక్కడ కనిపిస్తాయి.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "ష్: &formatS1;కొత్త అంతరంగిక ట్యాబు&formatS2; వాడితే మీ చరిత్ర నమోదుకాదు.">
 <!ENTITY home_reading_list_empty "తర్వాత చూడడం కోసం భద్రపరిచిన వ్యాసాలు ఇక్కడ కనిపిస్తాయి.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -570,6 +576,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+
 
 
 <!-- Mixed content notifications in site identity popup -->
@@ -628,7 +635,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName;‌కి నవీకరణ అందుబాటులో ఉంది">
 <!ENTITY updater_apply_select2 "నవీకరించడానికి తాకండి">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "కొత్త అతిథి సెషన్">
 <!ENTITY exit_guest_session "అతథి సెషన్ నిష్క్రమించు">
@@ -708,7 +719,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY restrictable_feature_data_choices "డేటా ఎంపికలు">
+
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
