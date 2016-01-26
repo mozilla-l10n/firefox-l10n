@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Məni burdan xilas et!">
 <!ENTITY safeb.palm.decline.label "Bu xəbərdarlığı göz ardı et">
 <!ENTITY safeb.palm.notforgery.label2 "Bu bir saxtakarlıq deyil…">
-<!ENTITY safeb.palm.reportPage.label "Bu sayt niyə bloklandı?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Təhlükəli olaraq bildirilmiş sayt!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,6 +22,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> ünvanındakı saytın istənməyən proqram məzmunu daşıdığı bildirilib və təhlükəsizlik nizamlarınıza əsasən bloklanıb.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "İstənməyən proqram səhifələri aldadıcı və ya sisteminizə gözlənməyən yollarla zərər verici proqramlar qurmağa çalışırlar.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title "Qadağan Edilmiş Sayt">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "<span id='forbidden_sitename'/> ünvanındakı səhifə səyyah tənzimləmələrinizə əsasən bloklanıb.">
