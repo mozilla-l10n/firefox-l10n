@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "កុងសូល​បណ្ដាញ">
 <!ENTITY browserConsole.title "កុងសូល​កម្មវិធី​អ៊ីនធឺណិត">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "សំណើ​កំណត់ហេតុ និង​តួ​សេចក្ដី​ឆ្លើយតប">
-<!ENTITY saveBodies.accesskey "ស">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 

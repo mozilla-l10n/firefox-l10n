@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "គំរូ​ប្រអប់">
+<!ENTITY layoutViewTitle        "គំរូ​ប្រអប់">
 <!ENTITY margin.tooltip         "រឹម">
 <!ENTITY border.tooltip         "ស៊ុម">
 <!ENTITY padding.tooltip        "ចន្លោះ">

@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "ផ្ញើ​សម្រាប់ ៖">
 <!ENTITY     props.expires.label            "ផុត​កំណត់ ៖">
 
+
 <!ENTITY     window.title                   "​ខូគី">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
