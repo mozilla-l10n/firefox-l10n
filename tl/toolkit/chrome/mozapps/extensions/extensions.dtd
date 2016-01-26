@@ -22,6 +22,8 @@
 <!ENTITY cmd.forward.tooltip                  "Pumunta sa susunod na web page">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Naka-disable lahat ng add-ons ng safe mode.">
@@ -96,8 +98,6 @@
 
 <!ENTITY cmd.uninstallAddon.label             "Alisin">
 <!ENTITY cmd.uninstallAddon.accesskey         "A">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Options">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Palitan ang options ng add-on na ito">
 <!ENTITY cmd.showPreferencesUnix.label        "Mga Preferences">
