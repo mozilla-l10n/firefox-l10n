@@ -22,6 +22,9 @@
 
 
 
+
+
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Slow SQL Statements">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Browser Hangs">
