@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Model casetă">
+<!ENTITY layoutViewTitle        "Model casetă">
 <!ENTITY margin.tooltip         "margine">
 <!ENTITY border.tooltip         "bordură">
 <!ENTITY padding.tooltip        "umplutură">

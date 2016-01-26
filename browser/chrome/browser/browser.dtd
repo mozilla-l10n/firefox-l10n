@@ -245,10 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Suplimente">
 <!ENTITY addons.accesskey             "S">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Aplicații">
-<!ENTITY webapps.accesskey            "p">
-
-
 
 <!ENTITY webDeveloperMenu.label       "Dezvoltator web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -743,7 +739,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Această pagină este stocată pe calculator.">
 <!ENTITY identity.connectionVerified1 "Ești conectat în mod securizat la acest site aparținând:">
 <!ENTITY identity.connectionInternal "Aceasta este o pagină securizată a &brandShortName;.">
-<!ENTITY identity.insecureLoginForms "Autentificarea ta ar putea fi compromisă.">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
@@ -925,10 +921,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "Nu mă mai întreba din nou">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "d">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "Salvează pagina în Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Salvează linkul în Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "Vezi lista Pocket">

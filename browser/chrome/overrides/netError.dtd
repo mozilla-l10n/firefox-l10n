@@ -167,7 +167,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Aflați mai multe…">
 <!ENTITY errorReporting.sending "Se trimite raportul">
 <!ENTITY errorReporting.sent "Raport trimis">
-<!ENTITY errorReporting.report "Raportați">
 <!ENTITY errorReporting.tryAgain "Încercați din nou">
 
 <!ENTITY remoteXUL.title "XUL la distanță">

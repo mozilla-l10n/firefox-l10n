@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "Fonturi">
+<!ENTITY fontInspectorTitle "Fonturi">
 <!ENTITY showAllFonts "Afișează toate fonturile utilizate în pagină">
 <!ENTITY usedAs "Utilizat ca: ">
 <!ENTITY system "sistem">
