@@ -27,8 +27,8 @@
 
 <!ENTITY browserToolboxErrorMessage "Błąd otwierania narzędzi przeglądarki:">
 
-<!ENTITY options.toolNotSupported.label "* Nieobsługiwane dla aktualnego celu narzędzi">
-<!ENTITY options.context.triggersPageRefresh "* Tylko aktualna sesja, przeładowuje stronę">
+<!ENTITY options.toolNotSupported.label "* Nieobsługiwane dla bieżącego celu narzędzi">
+<!ENTITY options.context.triggersPageRefresh "* Tylko bieżąca sesja, przeładowuje stronę">
 
 <!ENTITY options.selectDefaultTools.label "Domyślne narzędzia dla programistów">
 <!ENTITY options.selectAdditionalTools.label "Narzędzia dla programistów zainstalowane przez dodatki">
@@ -91,7 +91,7 @@
 <!ENTITY options.enableWorkers.label "Debugowanie wątków (eksperymentalne)">
 <!ENTITY options.enableWorkers.tooltip "Włączenie tej opcji pozwoli narzędziom przeglądarki na debugowanie wątków">
 <!ENTITY options.disableJavaScript.label "Wyłącz JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip "Wyłącza JavaScript w aktualnej karcie. Jeśli karta lub narzędzia zostaną zamknięte, ustawienie zostanie zapomniane.">
+<!ENTITY options.disableJavaScript.tooltip "Wyłącza JavaScript w bieżącej karcie. Jeśli karta lub narzędzia zostaną zamknięte, ustawienie zostanie zapomniane.">
 <!ENTITY options.disableCache.label2 "Wyłącz pamięć podręczną (gdy otworzone są narzędzia)">
 <!ENTITY options.disableCache.tooltip2 "Wyłącza pamięć podręczną we wszystkich kartach, dla których narzędzia są otwarte.">
 
