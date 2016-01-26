@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "Илгээгдсэн газар:">
 <!ENTITY     props.expires.label            "Дуусах огноо:">
 
+
 <!ENTITY     window.title                   "Күүки">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

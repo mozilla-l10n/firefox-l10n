@@ -20,6 +20,8 @@
 
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Бүх нэмэгдлүүд хамгаалалтын горимд хоригдсон.">
@@ -75,8 +77,6 @@
 <!ENTITY cmd.enableAddon.accesskey            "З">
 <!ENTITY cmd.disableAddon.label               "Хорих">
 <!ENTITY cmd.disableAddon.accesskey           "Х">
-
-
 
 
 
