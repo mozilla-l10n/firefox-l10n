@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "ମୋତେ ଏଠାରୁ ବାହାର କରନ୍ତୁ!">
 <!ENTITY safeb.palm.decline.label "ଏହି ଚେତାବନୀକୁ ଉପେକ୍ଷା କରନ୍ତୁ">
 <!ENTITY safeb.palm.notforgery.label2 "ଏହା ଗୋଟିଏ ୱେବ କୂଟ ରଚନା ନୁହଁ…">
-<!ENTITY safeb.palm.reportPage.label "ଏହି ସାଇଟକୁ କଣ ପାଇଁ ବ୍ଲକ କରାଯାଇଥିଲା?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "ଖବର କରାଯାଇଥିବା ଆକ୍ରମଣ ପୃଷ୍ଠା!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
