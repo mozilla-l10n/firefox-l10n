@@ -9,11 +9,17 @@
 
 <!ENTITY  notificationsPolicy.label            "შეტყობინებები">
 <!ENTITY  notificationsPolicyLearnMore.label   "შეიტყვეთ მეტი">
+<!ENTITY  notificationsPolicyDesc3.label       "საიტების არჩევა, რომელთაგან შეტყობინების მიღებაც დაშვებულია">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "არჩევა…">
+<!ENTITY  notificationsDoNotDisturb.label      "არ შემაწუხოთ">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "შეტყობინებები არ გამოჩნდება სანამ ხელახლა არ ჩართავთ &brandShortName;-ს">
 
 <!ENTITY  popupExceptions.label       "გამონაკლისები…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
+<!ENTITY  fontsAndColors.label        "შრიფტები &amp; ფერები">
 
 <!ENTITY  defaultFont.label           "ნაგულისხმები შრიფტი:">
 <!ENTITY  defaultFont.accesskey       "D">
@@ -32,6 +38,8 @@
 <!ENTITY chooseButton.label           "შერჩევა…">
 <!ENTITY chooseButton.accesskey       "o">
 
+<!ENTITY translateWebPages.label      "ვებ-შიგთავსის გადათარგმნა">
+<!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "გამონაკლისები…">
 <!ENTITY translateExceptions.accesskey "x">
 
@@ -42,6 +50,11 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+<!ENTITY translation.options.attribution.beforeLogo "თარგმანი ეკუთვნის">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM მასალები">
 
+<!ENTITY  playDRMContent.label         "DRM შიგთავსის ჩვენება">
+<!ENTITY  playDRMContent.accesskey     "P">
+<!ENTITY  playDRMContent.learnMore.label "შეიტყვეთ მეტი">

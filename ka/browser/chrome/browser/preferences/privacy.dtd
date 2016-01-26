@@ -2,39 +2,58 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "თვალთვალისგან დაცვის გამოყენება">
+<!ENTITY  trackingProtectionAlways.label       "ყოველთვის">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionPrivate.label      "მხოლოდ პირად ფანჯრებში">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionNever.label        "არასდროს">
+<!ENTITY  trackingProtectionNever.accesskey    "n">
+<!ENTITY  trackingProtectionLearnMore.label    "შეიტყვეთ მეტი">
+<!ENTITY  trackingProtectionExceptions.label   "გამონაკლისები…">
+<!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!ENTITY doNotTrackInfo.label          "დაწვრილებით">
+<!ENTITY tracking.label                 "თვალთვალი">
+<!ENTITY trackingProtectionPBM5.label         "თვალთვალისგან დაცვა პირადი ფანჯრით სარგებლობისას">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "შეიტყვეთ მეტი">
+<!ENTITY changeBlockList.label          "დაბლოკილთა სიის შეცვლა">
+<!ENTITY changeBlockList.accesskey      "C">
 
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+<!ENTITY  doNotTrack.pre.label          "თქვენ ასევე შეგიძლიათ ">
+<!ENTITY  doNotTrack.settings.label     "გამართეთ თქვენი "არ მითვალთვალო" პარამეტრები">
+<!ENTITY  doNotTrack.post.label         ".">
 
+<!ENTITY  history.label                 "ისტორია">
 
+<!ENTITY  locationBar.label             "მისამართების ზოლი">
 
+<!ENTITY  locbar.suggest.label          "მისამართების ზოლის გამოყენებისას, შემოთავაზებები:">
+<!ENTITY  locbar.history.label          "ისტორია">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "სანიშნეები">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "გახსნილი ჩანართები">
+<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.label         "მსგავსი ძიებები ნაგულისხმევი საძიებო სისტემიდან">
+<!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings.label      "საძიებო სისტემის შემოთავაზებების პარამეტრები…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
+<!ENTITY  acceptCookies.label           "ფუნთუშების მიღება საიტებიდან">
+<!ENTITY  acceptCookies.accesskey       "A">
 
+<!ENTITY  acceptThirdParty.pre.label      "მესამე მხარის ფუნთუშების მიღება:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "ყოველთვის">
+<!ENTITY  acceptThirdParty.never.label    "არასდროს">
+<!ENTITY  acceptThirdParty.visited.label  "მხოლოდ მონახულებულიდან">
 
-
-
-<!ENTITY  locationBar.label             "მისამართების პანელი">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  keepUntil.label               "შენახვა:">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "ვადის გასვლამდე">
 <!ENTITY  close.label                   "&brandShortName; დახურვამდე">
@@ -52,10 +71,11 @@
 <!ENTITY  historyHeader.custom.label       "ისარგებლებს თქვენი მითითებებით ისტორიისთვის">
 <!ENTITY  historyHeader.post.label         "">
 
+<!ENTITY  rememberDescription.label      "&brandShortName; დაიმახსოვრებს დათვალიერებული გვერდების, ჩამოტვირთვების, ველების და ძიების ისტორიას, ასევე შეინახავს ნაჭდევებს მონახულებული საიტებიდან.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "შესაძლოა მოისურვოთ ">
 <!ENTITY  rememberActions.clearHistory.label  "თქვენი უახლესი ისტორიის გასუფთავება">
 <!ENTITY  rememberActions.middle.label        ", ან ">
@@ -63,16 +83,18 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ბრაუზერი ისარგებლებს იგივე პარამეტრებით, რაც პირადი სეანსებისთვის და არ შეინახვს თქვენი მონახულებული საიტების ისტორიას.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "შესაძლოა ასევე მოისურვოთ ">
 <!ENTITY  dontrememberActions.clearHistory.label "სრულად გაასუფთავოთ მიმდინარე ისტორია">
 <!ENTITY  dontrememberActions.post.label         ".">
 
+<!ENTITY  privateBrowsingPermanent2.label "ყოველთვის პირადი სეანსის გამოყენება">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-
-
+<!ENTITY  rememberHistory2.label      "დათვალიერებული გვერდების და ჩამოტვირთვების ისტორიის დამახსოვრება">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "ძიებისა და ფორმების ისტორიის დამახსოვრება">
 <!ENTITY  rememberSearchForm.accesskey   "f">

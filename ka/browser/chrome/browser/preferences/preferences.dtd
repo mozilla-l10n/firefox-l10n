@@ -1,6 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  prefWindow.titleWin     "პარამეტრები">
 <!ENTITY  prefWindow.title        "პარამეტრები">
 <!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; პარამეტრები">
@@ -18,7 +21,8 @@
 <!ENTITY  panePrivacy.title       "პრივატულობა">
 <!ENTITY  paneSecurity.title      "უსაფრთხოება">
 <!ENTITY  paneAdvanced.title      "დეტალურად">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "სინქრონიზაცია">
 
+<!ENTITY  helpButton.label        "დახმარება">

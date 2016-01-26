@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "32em">
 
 <!ENTITY languages.customize.Header                     "ენები">
-
+<!ENTITY languages.customize.description                "ზოგჯერ, ვებ-გვერდების მიერ შემოთავაზებულია ერთზე მეტი ენა. აირჩიეთ ამ გვერდებისთვის ის ენა, რომელსაც უპირატესობას ანიჭებთ:">
 <!ENTITY languages.customize.moveUp.label               "ატანა ზემოთ">
 <!ENTITY languages.customize.moveUp.accesskey           "U">
 <!ENTITY languages.customize.moveDown.label             "ჩატანა ქვემოთ">

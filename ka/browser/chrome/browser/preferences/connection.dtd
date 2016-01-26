@@ -46,3 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "s">
 <!ENTITY  autologinproxy.label          "არ მთხოვო ავთენტიფიკაცია თუ პაროლი შენახულია">
 <!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "ეს პარამეტრი ავტომატურად გატარებთ ავთენტიფიკაციას პროქსიში (როდესაც მათთვის მტკიცებულებები შენახული გაქვთ). თუ ავთენტიფიკაცია ჩაიშალა შეგატყობინებთ. ">
