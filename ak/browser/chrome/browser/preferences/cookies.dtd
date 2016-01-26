@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "Mane bra:">
 <!ENTITY     props.expires.label            "Ebetwam:">
 
+
 <!ENTITY     window.title                   "Akuki">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

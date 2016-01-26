@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "Kɔ enim krataafa baako">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Ahotew mu edum nkaho nyinara.">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Yi">
 <!ENTITY cmd.uninstallAddon.accesskey         "Y">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Nɔphyɛn">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Sesa kaho yi ne nɔphyɛn">
 <!ENTITY cmd.showPreferencesUnix.label        "Apɛde">
