@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "Hoş geldiniz">
 <!ENTITY  onboard_start_message3 "&brandShortName; ile gezin">
 <!ENTITY  onboard_start_subtext3 "Mobil web\u0027de gezinti deneyiminiz tamamen size ait olsun.">
-<!ENTITY  onboard_start_button_account "&brandShortName; oturumu aç">
+
+<!ENTITY firstrun_urlbar_message "&brandShortName; tarayıcısına hoş geldiniz">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "Sync">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "Gezinmeye başla">
 <!ENTITY firstrun_button_next "Sonraki">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName;\u0027un bu basitleştirilmiş sürümüyle güvende kalın ve kontrolü elinizde tutun.">
-
-<!ENTITY firstrun_import_title "İçe aktar">
-<!ENTITY firstrun_import_message "&brandShortName; tarayıcısına hoş geldiniz">
-<!ENTITY firstrun_import_subtext "Yer imlerinizi ve geçmişinizi başka bir tarayıcıdan içe aktarın.">
-<!ENTITY firstrun_import_action "&brandShortName; tarayıcısına aktar">
-<!ENTITY firstrun_import_dialog_button "Aktar">
-<!ENTITY firstrun_import_progress_title "Aktarılıyor">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ile uzaktan hata ayıklama">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi hata ayıklama için cihazınızda bir QR kod okuma uygulaması yüklü olmalı.">
 <!ENTITY pref_remember_signons2 "Giriş bilgilerini hatırla">
-<!ENTITY pref_open_external_urls_privately_title "Bağlantıları gizle taramada aç">
-<!ENTITY pref_open_external_urls_privately_summary "&brandShortName; ile açılan tüm harici bağlantılar için">
 <!ENTITY pref_manage_logins "Hesapları yönet">
 
 <!ENTITY pref_category_home "Başlangıç">
@@ -245,8 +249,12 @@
 <!ENTITY tab_queue_prompt_title "Çoklu bağlantı mı açıyorsunuz?">
 <!ENTITY tab_queue_prompt_text4 "Bir sonraki &brandShortName; açılışına kadar kaydet.">
 <!ENTITY tab_queue_prompt_tip_text2 "Bunu daha sonra Ayarlar\u0027dan değiştirebilisiniz">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "Etkinleştir">
 <!ENTITY tab_queue_prompt_negative_action_button "Şimdi değil">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +264,8 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 sekme bekliyor">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
 <!ENTITY pref_char_encoding_on "Menüyü göster">
@@ -524,18 +534,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "Son sekmeleriniz burada görünür.">
 <!ENTITY home_open_all "Hepsini aç">
 <!ENTITY home_most_recent_empty "Son ziyaret ettiğiniz siteler burada görünür.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Pşşt: &formatS1;Yeni gizli sekme&formatS2; açarsanız geçmişinizin saklanmayacağını biliyor musunuz?">
 <!ENTITY home_reading_list_empty "Daha sonra okumak üzere kaydettiğiniz yazılar burada görünür.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "İPUCU: Adres çubuğunda göründüğünde &formatI; simgesine uzun basarak yazıları okuma listenize kaydedebilirsiniz.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "İPUCU: Adres çubuğunda göründüğünde okuyucu modu düğmesine uzun basarak yazıları okuma listenize kaydedebilirsiniz.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -594,6 +597,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Güvenli bağlantı">
 <!ENTITY identity_connection_insecure "Güvenilmez bağlantı">
 <!ENTITY identity_login_insecure "Bu sayfa güvenli değil. Hesap bilgileriniz savunmasız olabilir.">
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; bu sayfadaki güvenli olmayan içeriği engelledi.">
@@ -617,7 +621,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Özel veriler temizlendi">
 <!ENTITY private_data_fail "Bazı özel veriler temizlenemedi">
 
-<!ENTITY bookmarkhistory_button_import "İçe aktar">
 <!ENTITY bookmarkhistory_import_both "Android\u0027den yer imleri ve geçmiş 
 alınıyor">
 <!ENTITY bookmarkhistory_import_bookmarks "Android\u0027den yer imleri 
@@ -655,7 +658,11 @@ alınıyor">
 
 <!ENTITY updater_apply_title2 "&brandShortName; için güncelleme mevcut">
 <!ENTITY updater_apply_select2 "Güncellemek için dokunun">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Yeni konuk oturumu">
 <!ENTITY exit_guest_session "Konuk oturumundan çık">
@@ -744,8 +751,8 @@ alınıyor">
 <!ENTITY restrictable_feature_advanced_settings_description "Bunlara yer imlerini içe aktarmak, sekmeleri geri yüklemek ve otomatik güncellemeler dahildir. Tüm aile bireylerine uygun basitleştirilmiş ayarlar için bunu kapatın.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera ve mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Aile bireylerinin web siteleri üzerinde gerçek zamanlı iletişim kurmalarına izin verir.">
-<!ENTITY restrictable_feature_data_choices "Veri tercihleri">
-<!ENTITY restrictable_feature_data_choices_description "Firefox\u0027u iyileştirmek için Mozilla\u0027ya kullanım bilgilerinizi gönderip göndermeyeceğinizi seçin.">
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
