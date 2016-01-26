@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "B">
 <!ENTITY blockAutoRefresh.label          "Advertir cuando un sitio web intente redireccionar o recargar la página">
 <!ENTITY blockAutoRefresh.accesskey      "A">
-
-
+<!ENTITY useOnScreenKeyboard.label       "Mostrar el teclado táctil cuando sea necesario">
+<!ENTITY useOnScreenKeyboard.accesskey   "t">
 
 <!ENTITY browsing.label                  "Navegación">
 
