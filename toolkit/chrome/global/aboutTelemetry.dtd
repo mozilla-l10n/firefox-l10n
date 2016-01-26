@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Data ping arsip">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "Tampilkan data subsesi">
 
 <!ENTITY aboutTelemetry.choosePing "Pilih ping:">

@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "Font">
+<!ENTITY fontInspectorTitle "Font">
 <!ENTITY showAllFonts "Tampilkan semua font yang digunakan pada laman">
 <!ENTITY usedAs "Digunakan sebagai: ">
 <!ENTITY system "sistem">

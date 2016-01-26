@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "Peringatkan jika situs web mencoba mengalihkan atau memuat ulang laman">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
+
+
 <!ENTITY browsing.label                  "Jelajah Web">
 
 <!ENTITY useAutoScroll.label             "Gunakan penggeseran otomatis">

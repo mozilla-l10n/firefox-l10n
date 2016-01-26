@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "Konsol Web">
 <!ENTITY browserConsole.title "Konsol Peramban">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "Catat Permintaan dan Isi Balasan">
-<!ENTITY saveBodies.accesskey "C">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
