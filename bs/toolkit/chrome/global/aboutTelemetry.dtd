@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arhivirani ping podaci">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "Prikaži podatke podsesije">
 
 <!ENTITY aboutTelemetry.choosePing "Izaberi ping:">
@@ -28,7 +31,6 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Stariji ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Sirovi ping podaci ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Sedmica">
 

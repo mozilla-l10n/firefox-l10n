@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Model kutije">
+<!ENTITY layoutViewTitle        "Model kutije">
 <!ENTITY margin.tooltip         "margina">
 <!ENTITY border.tooltip         "granica">
 <!ENTITY padding.tooltip        "padding">

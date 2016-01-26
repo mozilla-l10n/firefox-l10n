@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registrovani Service Workeri">
 
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesni prozori">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Sigurni režim">
