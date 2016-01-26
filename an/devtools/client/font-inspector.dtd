@@ -5,7 +5,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY title "Fuents">
+<!ENTITY fontInspectorTitle "Fuents">
 <!ENTITY showAllFonts "Amostrar todas as fuents emplegadas en ista pachina">
 <!ENTITY usedAs "Emplegadas como: ">
 <!ENTITY system "sistema">
