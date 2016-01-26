@@ -25,6 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Không thể xác thực một số tiện ích">
 <!ENTITY showAllExtensions.button.label       "Hiện tất cả các tiện ích">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Tất cả tiện ích đã bị vô hiệu hóa bởi chế độ an toàn.">
@@ -105,8 +107,6 @@
 <!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Xóa">
 <!ENTITY cmd.uninstallAddon.accesskey         "X">
-<!ENTITY cmd.debugAddon.label                 "Gỡ lỗi">
-<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "Tùy chọn">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Thay đổi tùy chọn của tiện ích này">
 <!ENTITY cmd.showPreferencesUnix.label        "Tùy chỉnh">

@@ -244,10 +244,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Tiện ích">
 <!ENTITY addons.accesskey             "T">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Ứng dụng">
-<!ENTITY webapps.accesskey            "p">
-
-
 
 <!ENTITY webDeveloperMenu.label       "Nhà phát triển Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -923,10 +919,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "K">
 <!ENTITY emeNotificationsDontAskAgain.label       "Đừng hỏi lại">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "h">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "Lưu trang này vào Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Lưu đường dẫn vào Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "Hiển thị danh sách của Pocket">

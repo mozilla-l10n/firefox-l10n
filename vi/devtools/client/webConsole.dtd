@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "Bảng kiểm soát Web">
 <!ENTITY browserConsole.title "Chế độ dòng lệnh của trình duyệt">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "Log lại các Request và Response Bodies">
-<!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
