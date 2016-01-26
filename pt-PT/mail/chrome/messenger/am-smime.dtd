@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Utilizar este certificado para assinar digitalmente as mensagens enviadas:">
 
 <!ENTITY certificates.label "Certificados">
-<!ENTITY manageCerts.label "Ver certificados">
-<!ENTITY manageCerts.accesskey "e">
+<!ENTITY manageCerts2.label "Gerir certificados">
+<!ENTITY manageCerts2.accesskey "G">
 <!ENTITY manageDevices.label "Dispositivos de segurança ">
 <!ENTITY manageDevices.accesskey "D">
