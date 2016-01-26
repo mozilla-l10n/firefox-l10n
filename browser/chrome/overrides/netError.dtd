@@ -168,7 +168,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "കൂടുതല്‍ അറിയുക...">
 <!ENTITY errorReporting.sending "റിപ്പോര്‍ട്ട് അയയ്ക്കുന്നു">
 <!ENTITY errorReporting.sent "റിപോര്‍ട്ട് അയച്ചു">
-<!ENTITY errorReporting.report "റിപോര്‍ട്ട്">
 <!ENTITY errorReporting.tryAgain "വീണ്ടും ശ്രമിക്കുക">
 
 <!ENTITY remoteXUL.title "റിമോട്ട് XUL">

@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "ബോസ്ക് മോഡല്‍">
+<!ENTITY layoutViewTitle        "ബോസ്ക് മോഡല്‍">
 <!ENTITY margin.tooltip         "അരിക്">
 <!ENTITY border.tooltip         "അതിര്">
 <!ENTITY padding.tooltip        "പാഡ്ഡിങ്">
