@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "Genda mu maaso omuko gumu">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Ebyongerebwako byonna binafuyiziddwa n'enkola ennungamu">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "T">
 <!ENTITY cmd.uninstallAddon.label             "Jjamu">
 <!ENTITY cmd.uninstallAddon.accesskey         "J">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Ebyokwerobozaako">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Kyusa ebyokulondako bye' ekyongerwako kino">
 <!ENTITY cmd.showPreferencesUnix.label        "Byololonzeko">

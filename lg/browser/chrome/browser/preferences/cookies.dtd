@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "Tuma Kulwo:">
 <!ENTITY     props.expires.label            "Kiggwaako:">
 
+
 <!ENTITY     window.title                   "Kkuki">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
