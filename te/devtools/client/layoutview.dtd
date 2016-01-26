@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "పెట్టె రకం">
+<!ENTITY layoutViewTitle        "పెట్టె రకం">
 <!ENTITY margin.tooltip         "మార్జిన్">
 <!ENTITY border.tooltip         "హద్దు">
 <!ENTITY padding.tooltip        "పాడింగ్">

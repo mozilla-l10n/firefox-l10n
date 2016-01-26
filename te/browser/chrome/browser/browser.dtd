@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "పొడిగింతలు">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "అనువర్తనాలు">
-<!ENTITY webapps.accesskey            "p">
-<!ENTITY loopMenuItem.label           "సంభాషణ ప్రారంభించు...">
-<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "వెబ్ అభివృద్దికారి">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -751,7 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్ నందు వుంచబడును.">
 <!ENTITY identity.connectionVerified1 " ఈ సైటుకు మీరు సురక్షితంగా అనుసంధానమయ్యారు, సైటుని నడుపుతోంది:">
 <!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
-<!ENTITY identity.insecureLoginForms "మీ లాగిన్ రాజీ అయ్యుండొచ్చు">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "సురక్షితంకాని భాగాలను &brandShortName; ఈ పేజీనందు నిరోధించినది.">
@@ -935,10 +931,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "మరలా నన్ను అడగవద్దు(D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "పేజీను పాకెట్‌కు దాయి">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "లంకెను పాకెట్‌కు దాయి">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "పాకెట్ జాబితా చూడు">
