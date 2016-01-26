@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Quita-me d'aquí!">
 <!ENTITY safeb.palm.decline.label "Ignorar ista alvertencia">
 <!ENTITY safeb.palm.notforgery.label2 "No ye garra falsificación web…">
-<!ENTITY safeb.palm.reportPage.label "Por qué s'ha bloquiau iste puesto?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "S'ha informau que iste puesto ye enrestindo!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,6 +22,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "S'ha reportau que o puesto web <span id='unwanted_sitename'/> sería enrestindo, y s'ha bloquiau d'alcuerdo con as suyas preferencias de seguranza.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Bellas pachinas de software no deseyadas pueden mirar d'instalar software enganyoso y afectar a o suyo sistema en formas no asperadas.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title "Puesto vedau">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Ista pachina web en <span id='forbidden_sitename'/> s'ha blocau seguntes la configuración d'o tuyo navegador.">
