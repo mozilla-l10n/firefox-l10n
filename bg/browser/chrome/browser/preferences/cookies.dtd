@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "Изпратена за:">
 <!ENTITY     props.expires.label            "Валидност до:">
 
+
 <!ENTITY     window.title                   "Бисквитки">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
