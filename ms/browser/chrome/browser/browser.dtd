@@ -244,10 +244,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Add-ons">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Aplikasi">
-<!ENTITY webapps.accesskey            "p">
-
-
 
 <!ENTITY webDeveloperMenu.label       "Pembangun Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -915,10 +911,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "n">
 <!ENTITY emeNotificationsDontAskAgain.label       "Jangan tanya saya lagi">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "J">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "Simpan Halaman ke Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Simpan Pautan ke Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "Lihat Senarai Poket">
