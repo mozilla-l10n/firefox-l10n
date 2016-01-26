@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "Romela bakeng sa:">
 <!ENTITY     props.expires.label            "Felelwa ke nako:">
 
+
 <!ENTITY     window.title                   "Dikhukhi">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

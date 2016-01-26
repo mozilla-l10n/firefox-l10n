@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "E-ya pele ka letlakala le tee">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Ditlaleletši tšohle di šitišitšwe ke mokgwa o bolokegilego.">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "o">
 <!ENTITY cmd.uninstallAddon.label             "Tloša">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Dikgetho">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Fetoša dikgetho tša setlaleletši se">
 <!ENTITY cmd.showPreferencesUnix.label        "Dikganyogo">
