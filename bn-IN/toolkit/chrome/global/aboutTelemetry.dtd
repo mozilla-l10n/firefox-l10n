@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "আর্কাইভ পিং ডেটা">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "subsession তথ্য প্রদর্শন করা হোক">
 
 <!ENTITY aboutTelemetry.choosePing "পিং বাছুন:">

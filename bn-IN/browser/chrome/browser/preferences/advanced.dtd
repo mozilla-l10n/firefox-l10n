@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "ওয়েব-সাইট দ্বারা কোনো পৃষ্ঠা পুনরায় লোড করার সময় অথবা অন্য কোনো পৃষ্ঠায় নির্দেশ করার প্রচেষ্টাকালে সতর্কবার্তা প্রদর্শন করা হবে">
 <!ENTITY blockAutoRefresh.accesskey      "ও">
 
+
+
 <!ENTITY browsing.label                  "ব্রাউজ করা">
 
 <!ENTITY useAutoScroll.label             "অটোস্ক্রোলিং ব্যবহার করা হবে">

@@ -163,7 +163,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "আরও জানুন ...">
 <!ENTITY errorReporting.sending "রিপোর্ট পাঠানো হচ্ছে">
 <!ENTITY errorReporting.sent "রিপোর্ট পাঠানো হয়ে গেছে">
-<!ENTITY errorReporting.report "রিপোর্ট">
 <!ENTITY errorReporting.tryAgain "পুনরায় চেষ্টা করুন">
 
 <!ENTITY remoteXUL.title "দূরবর্তী XUL">
