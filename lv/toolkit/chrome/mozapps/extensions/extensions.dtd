@@ -25,6 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Dažus papildinājumus nevar pārbaudīt">
 <!ENTITY showAllExtensions.button.label       "Rādīt visus papildinājumus">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Drošais režīms ir deaktivējis visus papildinājumu.">
@@ -105,8 +107,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Noņemt">
 <!ENTITY cmd.uninstallAddon.accesskey         "N">
-<!ENTITY cmd.debugAddon.label                 "Atkļūdot">
-<!ENTITY cmd.debugAddon.accesskey             "d">
 <!ENTITY cmd.showPreferencesWin.label         "Iestatījumi">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Izmainīt šī papildinājuma iestatījumus">
 <!ENTITY cmd.showPreferencesUnix.label        "Iestatījumi">

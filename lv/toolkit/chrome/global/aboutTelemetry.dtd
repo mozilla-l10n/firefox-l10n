@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arhivētie ping dati">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "Rādīt apakšsesiju datus">
 
 <!ENTITY aboutTelemetry.choosePing "Izvēlieties ping:">
@@ -28,7 +31,6 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Vecāki ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Neapstrādāti ping dati ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Nedēļa">
 
