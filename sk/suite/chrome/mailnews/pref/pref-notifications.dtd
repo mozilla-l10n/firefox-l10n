@@ -21,6 +21,10 @@
 <!ENTITY showAlertSubject.accesskey       "m">
 <!ENTITY showAlertSender.label            "Zobraziť odosielateľa">
 <!ENTITY showAlertSender.accesskey        "d">
+<!ENTITY useSystemAlert.label             "Používať systémové upozornenia na pracovnej ploche">
+<!ENTITY useSystemAlert.accesskey         "o">
+<!ENTITY useBuiltInAlert.label            "Používať upozornenia na pracovnej ploche aplikácie &brandShortName;">
+<!ENTITY useBuiltInAlert.accesskey        "v">
 
 <!ENTITY showTrayIcon.label               "Zobraziť ikonu v systémovom paneli (vedľa hodín)">
 <!ENTITY showTrayIcon.accesskey           "Z">
