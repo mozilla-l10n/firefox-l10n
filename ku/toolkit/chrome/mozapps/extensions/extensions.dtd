@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "Rûpelek pêşve">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Hemû add-on ji hêla moda ewle ve hatin neçalakirin.">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Rake">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Vebijêrk">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Vebijêrkên vê add-onê biguherîne">
 <!ENTITY cmd.showPreferencesUnix.label        "Vebijêrk">

@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Min ji vê derê derxe!">
 <!ENTITY safeb.palm.decline.label "Vê hişyariyê asteng bike">
 <!ENTITY safeb.palm.notforgery.label2 "Ev ne sextekariyeke webê ye…">
-<!ENTITY safeb.palm.reportPage.label "Çima ev pel hatiye astenkirin?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Rûpela Êrîşkar Rapor Bike!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -20,5 +21,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Ev malper <span id='phishing_sitename'/> wekî sextekar hate raporkirin û li gorî mîhengên ewlehiyê hate blokirin.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Bi sextekariyan agahiyên takekesî ên wekî şîfreyên malper an jî kartên bankeyan tên dizîn.</p>">
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
