@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "ব্যবহৃত সংযোগ:">
 <!ENTITY     props.expires.label            "মেয়াদ:">
 
+
 <!ENTITY     window.title                   "কুকি">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
