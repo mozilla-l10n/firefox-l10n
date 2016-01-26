@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY  trackingProtectionHeader.label       "Izmantot izsekošanas aizsardzību">
+<!ENTITY  trackingProtectionAlways.label       "Vienmēr">
+<!ENTITY  trackingProtectionAlways.accesskey   "m">
+<!ENTITY  trackingProtectionPrivate.label      "Tikai privātajos logos">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionNever.label        "Nekad">
+<!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Uzzināt vairāk">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "Izņēmumi…">
+<!ENTITY  trackingProtectionExceptions.accesskey "I">
 
 <!ENTITY tracking.label                 "Uzskaite internetā">
 <!ENTITY trackingProtectionPBM5.label         "Izmantot izsekošanas aizsardzību privātajos logos">
@@ -20,7 +22,9 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-
+<!ENTITY  doNotTrack.pre.label          "Jūs varat arī ">
+<!ENTITY  doNotTrack.settings.label     "pārvaldīt savus izsekošanas iestatījumus">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Vēsture">
 

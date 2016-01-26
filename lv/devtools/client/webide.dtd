@@ -215,6 +215,6 @@
 <!ENTITY simulator_device "Ierīce">
 <!ENTITY simulator_screenSize "Ekrāns">
 <!ENTITY simulator_pixelRatio "Pikseļu attiecība">
-
-
-
+<!ENTITY simulator_tv_data "TV simulācija">
+<!ENTITY simulator_tv_data_open "Konfigurācijas dati">
+<!ENTITY simulator_tv_data_open_button "Atvērt konfigurācijas mapi…">
