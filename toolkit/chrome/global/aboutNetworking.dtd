@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "Tato funkce je experimentální. Nepoužívejte ji bez dozoru dospělé osoby.">
 <!ENTITY aboutNetworking.showNextTime          "Zobrazit příště toto varování">
 <!ENTITY aboutNetworking.ok                    "OK">
-<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Sokety">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "Přijato zpráv">
 <!ENTITY aboutNetworking.bytesSent             "Odesláno bajtů">
 <!ENTITY aboutNetworking.bytesReceived         "Obdrženo bajtů">
+<!ENTITY aboutNetworking.dnsLookup             "Vyhledávání DNS">
+<!ENTITY aboutNetworking.dnsLookupButton       "Resolve">
+<!ENTITY aboutNetworking.dnsDomain             "Doména">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IP adresy">
