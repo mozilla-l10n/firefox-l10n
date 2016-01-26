@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Defnyddiwch y dystysgrif hon i lofnodi'r negeseuon rydych yn eu hanfon yn ddigidol:">
 
 <!ENTITY certificates.label "Tystysgrifau">
-<!ENTITY manageCerts.label "Darllen Tystysgrifau">
-<!ENTITY manageCerts.accesskey "D">
+<!ENTITY manageCerts2.label "Rheoli Tystysgrifau">
+<!ENTITY manageCerts2.accesskey "R">
 <!ENTITY manageDevices.label "Dyfeisiau Diogelwch">
 <!ENTITY manageDevices.accesskey "y">
