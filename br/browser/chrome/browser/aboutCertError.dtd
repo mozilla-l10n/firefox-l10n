@@ -29,11 +29,11 @@ an testeni-mañ eta.">
 lavarout da &brandShortName; fiziout e testeni al lec'hienn-mañ. 
 <b>Ha pa fizit el lec'hienn, e talvfe ar fazi-mañ e vefe un den bennak 
 o klask kemer pivelezh al lec'hienn.</b>">
-<!ENTITY certerror.expert.contentPara2 "N'ouzhpennit ket un nemedenn 
-nemet mar gouezit perak ne implij ket al lec'hienn-mañ un testeni fiziek.">
+<!ENTITY certerror.expert.contentPara2 "N'ouzhpennit un nemedenn 
+nemet mar gouzoc'h perak ne vez ket implijet un hennadiñ fiziadus gant al lec'hienn-mañ. ">
 <!ENTITY certerror.addException.label "Ouzhpennañ un nemedenn…">
 <!ENTITY certerror.copyToClipboard.label "Eilañ an destenn er golver">
 
-
-
-
+<!ENTITY errorReporting.sending "O kas an danevell">
+<!ENTITY errorReporting.sent "Danevell kaset">
+<!ENTITY errorReporting.tryAgain "Klask adarre">
