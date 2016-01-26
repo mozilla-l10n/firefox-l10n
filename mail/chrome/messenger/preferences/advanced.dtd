@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Упитај OCSP сервер за одговарање да би потврдио тренутну исправност сертификата">
 <!ENTITY enableOCSP.accesskey            "У">
 
-<!ENTITY viewCertificates.label         "Погледај сертификате">
-<!ENTITY viewCertificates.accesskey     "П">
-<!ENTITY viewSecurityDevices.label      "Безбедносни уређаји">
-<!ENTITY viewSecurityDevices.accesskey  "ј">
+<!ENTITY manageCertificates.label "Управљај сертификатима">
+<!ENTITY manageCertificates.accesskey "У">
+<!ENTITY viewSecurityDevices.label "Безбедносни уређаји">
+<!ENTITY viewSecurityDevices.accesskey "ј">
