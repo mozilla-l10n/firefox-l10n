@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Pedir aos servidores OCSP para confirmar a validade dos certificados">
 <!ENTITY enableOCSP.accesskey            "v">
 
-<!ENTITY viewCertificates.label         "Ver certificados">
-<!ENTITY viewCertificates.accesskey     "c">
-<!ENTITY viewSecurityDevices.label      "Dispositivos de segurança">
-<!ENTITY viewSecurityDevices.accesskey  "s">
+<!ENTITY manageCertificates.label "Gerir certificados">
+<!ENTITY manageCertificates.accesskey "G">
+<!ENTITY viewSecurityDevices.label "Dispositivos de segurança">
+<!ENTITY viewSecurityDevices.accesskey "s">
