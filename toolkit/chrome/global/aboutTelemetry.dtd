@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Datos de ping archivaus">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "Amostrar datos d'a subsession">
 
 <!ENTITY aboutTelemetry.choosePing "Trigar ping:">
@@ -28,7 +31,6 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping mas viello &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Datos crudos de ping ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
 

@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers rechistraus">
 
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Finestras multiproceso">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Modo seguro">
