@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "सहयुक्ति">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "ऐप्प्स">
-<!ENTITY webapps.accesskey            "p">
-<!ENTITY loopMenuItem.label           "बातचीत चालू करू...">
-<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "वेब डेवलेपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -749,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "इ पेज अहाँक कंप्यूटरमे सहेजल जाएत अछि.">
 <!ENTITY identity.connectionVerified1 "अहॉं एहि साइट स सुरक्षि‍त रूप स जुड़ल छी, एकर दिस स:">
 <!ENTITY identity.connectionInternal "ई एकटा सुरक्षित &brandShortName; पेज अछि.">
-<!ENTITY identity.insecureLoginForms "अहाँक लॉगिन संपीडित कएल जाए सकैत अछि.">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ,एहि पृष्ठ क कि‍छु हिस्सा कए अवरुद्ध कए देने छल जे सुरक्षित नहि‍ अछि.">
@@ -931,10 +927,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "हमरासँ फेर नहि पूछू.">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "पेज पॉकेट मे सहेजू (k)">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "लिंक पॉकेट मे सहेजू (o)">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "पॉकेट सूची देखू">

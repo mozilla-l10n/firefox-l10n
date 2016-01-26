@@ -25,6 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "किछु विस्तार जाँचल नहि जाए सकल">
 <!ENTITY showAllExtensions.button.label       "सभ विस्तार देखाबू">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "सभटा सहयुक्ति सुरक्षित विधि क द्वारा निष्क्रिय कएल गेल अछि.">
@@ -105,8 +107,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "हटाउ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "डिबग (b)">
-<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "विकल्प">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ई सहयुक्तिक विकल्पकेँ बदलू">
 <!ENTITY cmd.showPreferencesUnix.label        "वरीयता">
