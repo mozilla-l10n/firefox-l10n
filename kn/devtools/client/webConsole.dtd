@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "ಜಾಲ ಕನ್ಸೋಲ್">
 <!ENTITY browserConsole.title "ಜಾಲವೀಕ್ಷಕ ಕನ್ಸೋಲ್">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "ಲಾಗ್ ಮನವಿ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯಿಸುವ ಮುಖ್ಯಭಾಗಗಳು">
-<!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 

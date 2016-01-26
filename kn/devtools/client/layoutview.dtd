@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "ಬಾಕ್ಸ್ ಮಾದರಿ">
+<!ENTITY layoutViewTitle        "ಬಾಕ್ಸ್ ಮಾದರಿ">
 <!ENTITY margin.tooltip         "ಅಂಚು">
 <!ENTITY border.tooltip         "ಮೇರೆಗಳು">
 <!ENTITY padding.tooltip        "ಪ್ಯಾಡಿಂಗ್">

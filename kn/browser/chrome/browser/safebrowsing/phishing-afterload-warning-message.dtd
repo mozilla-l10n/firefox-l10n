@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "ನಾನು ಇಲ್ಲಿಂದ ಹೊರಗೆ ಹೋಗಲು ಬಯಸುತ್ತೇನೆ!">
 <!ENTITY safeb.palm.decline.label "ಈ ಎಚ್ಚರಿಕೆಯನ್ನು ನಿರ್ಲಕ್ಷಿಸು">
 <!ENTITY safeb.palm.notforgery.label2 "ಇದು ಜಾಲ ವಂಚನೆಯಲ್ಲ…">
-<!ENTITY safeb.palm.reportPage.label "ಈ ಪುಟವನ್ನು ಏಕೆ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "ಧಾಳಿಕಾರಕ ಪುಟ ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,5 +23,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> ನಲ್ಲಿನ ಈ ಜಾಲ ಪುಟವು ಒಂದು ಜಾಲ ವಂಚನಾ ಪುಟ ಎಂದು ಪರಿಗಣಿಸಿ ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ಅನುಸಾರವಾಗಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>ಜಾಲ ವಂಚನಾ ತಾಣಗಳು  ನೀವು ನಂಬುವಂತಹ ಮೂಲಗಳನ್ನು ಅನುಕರಿಸಿ ಆ ಮೂಲಕ ನಿಮ್ಮಿಂದ ನಿಮ್ಮ ಖಾಸಗಿ ಹಾಗು ಹಣಕಾಸು ಸಂಬಂಧಿತ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯುವ ಒಂದು ಉಪಾಯವಾಗಿದೆ.</p><p>ಈ ಪುಟದಲ್ಲಿ ಯಾವುದೆ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸುವುದು ಅಪಾಯಕಾರಿಯಾಗಬಹುದು.</p>">
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
