@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY safeb.palm.decline.label "Balewalain itong babala">
 <!ENTITY safeb.palm.notforgery.label2 "Ito ay hindi isang web forgery…">
-<!ENTITY safeb.palm.reportPage.label "Bakit ba naka-block ang page na 'to?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Naiulat na Pahinang Naatake!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
