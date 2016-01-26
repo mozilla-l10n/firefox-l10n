@@ -103,7 +103,6 @@
 <!ENTITY enableOCSP.label                "Upitajte OCSP poslužitelje da biste potvrdili validnost certifikata">
 <!ENTITY enableOCSP.accesskey            "U">
 
-<!ENTITY viewCertificates.label         "Prikaz certifikata">
-<!ENTITY viewCertificates.accesskey     "c">
-<!ENTITY viewSecurityDevices.label      "Sigurnosni uređaji">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+
+<!ENTITY viewSecurityDevices.label "Sigurnosni uređaji">
+<!ENTITY viewSecurityDevices.accesskey "S">
