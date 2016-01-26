@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "Välkommen">
 <!ENTITY  onboard_start_message3 "Surfa med &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Gör den mobila webbupplevelsen verkligen din egen.">
-<!ENTITY  onboard_start_button_account "Logga in till &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "Välkommen till &brandShortName;">
+
+<!ENTITY firstrun_bookmarks_title "Historik">
+
+
+<!ENTITY firstrun_data_title "Data">
+
+
+<!ENTITY firstrun_sync_title "Sync">
+
+
+
+<!ENTITY firstrun_signin_button "Logga in till Sync">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
 <!ENTITY firstrun_button_next "Nästa">
 
 <!ENTITY  onboard_start_restricted1 "Håll dig trygg och kontrollen med denna förenklade version av &brandShortName;.">
-
-<!ENTITY firstrun_import_title "Importera">
-<!ENTITY firstrun_import_message "Välkommen till &brandShortName;">
-<!ENTITY firstrun_import_subtext "Importera dina bokmärken och historik från en annan webbläsare">
-<!ENTITY firstrun_import_action "Flytta till &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Flytta">
-<!ENTITY firstrun_import_progress_title "Flyttar">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Fjärrfelsökning via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi-felsökning kräver att din enhet har en QR kodsläsar app installerad.">
 <!ENTITY pref_remember_signons2 "Kom ihåg inloggningar ">
-<!ENTITY pref_open_external_urls_privately_title "Öppna länkar i Privat surfläge">
-<!ENTITY pref_open_external_urls_privately_summary "För alla externa länkar öppnade i &brandShortName;">
 <!ENTITY pref_manage_logins "Hantera inloggningar ">
 
 <!ENTITY pref_category_home "Startsida">
@@ -245,8 +249,13 @@
 <!ENTITY tab_queue_prompt_title "Öppnar flera länkar?">
 <!ENTITY tab_queue_prompt_text4 "Spara dom tills nästa gång du öppnar &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Du kan ändra detta senare i inställningarna">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "Aktivera">
 <!ENTITY tab_queue_prompt_negative_action_button "Inte nu ">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Gå till Inställningar">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +265,8 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 flik väntar ">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
@@ -524,18 +535,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "Dina flikar från senast visas här.">
 <!ENTITY home_open_all "Öppna alla">
 <!ENTITY home_most_recent_empty "Webbplatser du senast besökt visas här.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst! Använder du en &formatS1;Ny Privat Flik&formatS2; kommer din historik inte sparas.">
 <!ENTITY home_reading_list_empty "Artiklar som du sparat till senare visas här.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "TIPS: Spara artiklar till läslistan genom att trycka länge på ikonen &formatI; när den visas i adressfältet.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "TIPS: Spara artiklar till läslistan genom att trycka länge på knappen för läsarläget när den visas i adressfältet.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -594,6 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Säker anslutning">
 <!ENTITY identity_connection_insecure "Osäker anslutning">
 <!ENTITY identity_login_insecure "Denna sida är inte säker din inloggning kan vara sårbar.">
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; har blockerat osäkra komponenter på sidan.">
@@ -655,7 +660,12 @@ från Android">
 
 <!ENTITY updater_apply_title2 "Uppdatering finns för &brandShortName;">
 <!ENTITY updater_apply_select2 "Tryck för att uppdatera">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Tillåt">
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Ny gästsession">
 <!ENTITY exit_guest_session "Stäng gästsession">
@@ -744,8 +754,8 @@ från Android">
 <!ENTITY restrictable_feature_advanced_settings_description "Detta inkluderar importera bokmärken, återställa flikar och automatiska uppdateringar. Stäng av förenklade inställningar som är lämpliga för alla familjemedlemar.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Tillåter familjemedlemmar att engagera sig i realtids kommunikation på hemsidor.">
-<!ENTITY restrictable_feature_data_choices "Dataval">
-<!ENTITY restrictable_feature_data_choices_description "Välj om du vill skicka användarinformation till Mozilla för att göra Firefox bättre.">
+
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
