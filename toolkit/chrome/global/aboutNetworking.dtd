@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "ଏହା ଅତ୍ୟଧିକ ପରୀକ୍ଷାମୂଳକ ଅଟେ। ବୟସ୍କ ବ୍ୟକ୍ତିଙ୍କ ନିରୀକ୍ଷଣ ବିନା ଏହାକୁ ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ।">
 <!ENTITY aboutNetworking.showNextTime          "ଏହି ଚେତାବନୀକୁ ପରବର୍ତ୍ତି ସମୟରେ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY aboutNetworking.ok                    "ଠିକ ଅଛି">
-<!ENTITY aboutNetworking.http                  "Http">
+
 <!ENTITY aboutNetworking.sockets               "ସକେଟଗୁଡ଼ିକ">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "ୱେବ ସକେଟଗୁଡ଼ିକ">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "ସନ୍ଦେଶଗୁଡ଼ିକୁ ପାଇଛି">
 <!ENTITY aboutNetworking.bytesSent             "ପଠାଯାଇଥିବା ବାଇଟ">
 <!ENTITY aboutNetworking.bytesReceived         "ପ୍ରାପ୍ତ ହୋଇଥିବା ବାଇଟ">
+
+
+
+

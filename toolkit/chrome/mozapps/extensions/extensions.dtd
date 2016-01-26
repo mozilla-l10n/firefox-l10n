@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "ଗୋଟିଏ ପୃଷ୍ଠା ଆଗକୁ ଯାଆନ୍ତୁ">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ ସୁରକ୍ଷିତ ଭାବରେ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "କାଢ଼ନ୍ତୁ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "ବିକଳ୍ପଗୁଡ଼ିକ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ଏହି ଏଡ-ଅନର ବିକଳ୍ପକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
 <!ENTITY cmd.showPreferencesUnix.label        "ପସନ୍ଦ">

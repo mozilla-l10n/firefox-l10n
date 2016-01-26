@@ -15,6 +15,8 @@
 <!ENTITY blockAutoRefresh.label          "ୱେବ ସାଇଟଗୁଡ଼ିକ ଏହି ପୃଷ୍ଠାକୁ ପୁନଃପ୍ରେରଣ କିମ୍ବା ପୁନର୍ଧାରଣ କଲାବେଳେ ମୋତେ ଚେତାବନୀ ଦିଅନ୍ତୁ">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
+
+
 <!ENTITY browsing.label                  "ବ୍ରାଉଜ କରୁଅଛି">
 
 <!ENTITY useAutoScroll.label             "ସ୍ୱୟଂଦୃଶ୍ୟବଦଳକୁ ବ୍ୟବହାର କରନ୍ତୁ">

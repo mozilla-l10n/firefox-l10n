@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "ପାଇଁ ପଠାନ୍ତୁ:">
 <!ENTITY     props.expires.label            "ସମାପ୍ତ ହୁଏ:">
 
+
 <!ENTITY     window.title                   "କୁକିଗୁଡ଼ିକ">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
