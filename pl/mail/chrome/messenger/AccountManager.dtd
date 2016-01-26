@@ -4,7 +4,7 @@
 
 <!ENTITY accountManagerTitle.label "Konfiguracja kont">
 
-<!ENTITY accountActionsButton.label "Operacje">
+<!ENTITY accountActionsButton.label "Czynności">
 <!ENTITY accountActionsButton.accesskey "O">
 <!ENTITY addMailAccountButton.label "Dodaj konfigurację konta pocztowego…">
 <!ENTITY addMailAccountButton.accesskey "D">

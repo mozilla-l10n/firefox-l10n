@@ -815,7 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY panicButton.view.deleteHistory "Usunięcie ostatniej <html:strong>historii</html:strong>">
 <!ENTITY panicButton.view.deleteTabsAndWindows "Zamknięcie wszystkich <html:strong>kart</html:strong> i <html:strong>okien</html:strong>">
 <!ENTITY panicButton.view.openNewWindow "Otworzenie nowego okna">
-<!ENTITY panicButton.view.undoWarning "Tej operacji nie można cofnąć.">
+<!ENTITY panicButton.view.undoWarning "Tej czynności nie można cofnąć.">
 <!ENTITY panicButton.view.forgetButton "Wyczyść!">
 <!ENTITY panicButton.thankyou.msg1 "Historia ostatniego przeglądania została wyczyszczona.">
 <!ENTITY panicButton.thankyou.msg2 "Bezpiecznego przeglądania!">

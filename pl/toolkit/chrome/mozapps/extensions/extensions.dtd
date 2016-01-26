@@ -199,7 +199,7 @@
      necessary -->
 <!ENTITY addon.update.postfix                 "(aktualizacja)">
 <!ENTITY addon.undoAction.label               "Cofnij">
-<!ENTITY addon.undoAction.tooltip             "Cofnij tę operację">
+<!ENTITY addon.undoAction.tooltip "Cofnij tę czynność">
 <!ENTITY addon.undoRemove.label               "Cofnij">
 <!ENTITY addon.undoRemove.tooltip             "Pozostaw ten dodatek">
 <!ENTITY addon.restartNow.label               "Uruchom ponownie">

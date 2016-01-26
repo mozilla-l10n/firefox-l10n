@@ -23,6 +23,6 @@
 <!ENTITY itemCache.label "Pamięć podręczna">
 <!ENTITY itemCache.accesskey "P">
 
-<!ENTITY sanitizeEverythingUndoWarning "Tej operacji nie można cofnąć.">
+<!ENTITY sanitizeEverythingUndoWarning "Tej czynności nie można cofnąć.">
 
 <!ENTITY dialog.width "32em">
