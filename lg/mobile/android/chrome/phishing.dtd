@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Nzijja wano!">
 <!ENTITY safeb.palm.decline.label "Tofa ku kulabula kuno">
 <!ENTITY safeb.palm.notforgery.label2 "Kuno si kucupula kumutimbagano…">
-<!ENTITY safeb.palm.reportPage.label "Lwaki ekibanja kino kyiziyiiziddwa?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Omukutu Ogukozesebwa Okulumba Guwabiddwa!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
