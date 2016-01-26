@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "ஒரு பக்கம் முன் செல்">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "பாதுகாப்பு முறைமையால் அனைத்து கூடுதல் இணைப்புகளும் செயல்நீக்கப்பட்டன.">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "நீக்கு">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "விருப்பங்கள்">
 <!ENTITY cmd.showPreferencesWin.tooltip       "இந்த கூடுதல் இணைப்பு விருப்பங்களை மாற்றவும்">
 <!ENTITY cmd.showPreferencesUnix.label        "விருப்பங்கள்">

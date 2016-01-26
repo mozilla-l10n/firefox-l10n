@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "பாக்ஸ் மாடல்">
+<!ENTITY layoutViewTitle        "பாக்ஸ் மாடல்">
 <!ENTITY margin.tooltip         "ஓரம்">
 <!ENTITY border.tooltip         "எல்லை">
 <!ENTITY padding.tooltip        "நிரப்பல்">

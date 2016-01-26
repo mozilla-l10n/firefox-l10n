@@ -133,7 +133,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "மேலும் அறிக...">
 <!ENTITY errorReporting.sending "அறிக்கையை அனுப்புகிறது">
 <!ENTITY errorReporting.sent "அறிக்கை அனுப்பப்பட்டது">
-<!ENTITY errorReporting.report "அறிக்கை">
 <!ENTITY errorReporting.tryAgain "மீண்டும் முயற்சிக்கவும்">
 
 <!ENTITY remoteXUL.title "தொலைநிலை XUL">
