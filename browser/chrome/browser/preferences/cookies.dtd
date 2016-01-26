@@ -22,6 +22,7 @@
 <!ENTITY     props.secure.label             "ส่งเพื่อ :">
 <!ENTITY     props.expires.label            "หมดอายุ :">
 
+
 <!ENTITY     window.title                   "คุกกี้">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

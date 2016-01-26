@@ -10,11 +10,6 @@
 
 <!ENTITY window.title "เว็บคอนโซล">
 <!ENTITY browserConsole.title "คอนโซลเบราว์เซอร์">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "บันทึกส่วนเนื้อหาที่ร้องขอและตอบกลับ">
-<!ENTITY saveBodies.accesskey "บ">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 

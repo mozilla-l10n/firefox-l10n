@@ -168,7 +168,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "เรียนรู้เพิ่ม…">
 <!ENTITY errorReporting.sending "กำลังส่งรายงาน">
 <!ENTITY errorReporting.sent "รายงานถูกส่งแล้ว">
-<!ENTITY errorReporting.report "รายงาน">
 <!ENTITY errorReporting.tryAgain "ลองอีกครั้ง">
 
 <!ENTITY remoteXUL.title "Remote XUL">

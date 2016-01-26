@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Box Model">
+<!ENTITY layoutViewTitle        "Box Model">
 <!ENTITY margin.tooltip         "ขอบนอก">
 <!ENTITY border.tooltip         "เส้นขอบ">
 <!ENTITY padding.tooltip        "ขอบใน">
