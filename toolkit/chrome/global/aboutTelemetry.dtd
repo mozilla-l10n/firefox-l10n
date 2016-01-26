@@ -20,8 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arhivētie ping dati">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Ping dati:">
 
+<!ENTITY aboutTelemetry.structured "Strukturēts">
 
+<!ENTITY aboutTelemetry.raw "Neapstrādāts JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Rādīt apakšsesiju datus">
 
@@ -31,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Vecāki ping &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Neapstrādāti ping dati ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Nedēļa">
 
