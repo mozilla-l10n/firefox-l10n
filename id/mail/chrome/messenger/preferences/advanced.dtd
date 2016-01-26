@@ -96,7 +96,6 @@
 
 
 
-<!ENTITY viewCertificates.label         "Daftar Sertifikat">
-<!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewSecurityDevices.label      "Perangkat Keamanan">
-<!ENTITY viewSecurityDevices.accesskey  "k">
+
+<!ENTITY viewSecurityDevices.label "Perangkat Keamanan">
+<!ENTITY viewSecurityDevices.accesskey "k">
