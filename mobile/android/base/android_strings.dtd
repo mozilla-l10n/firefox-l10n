@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "Fáilte">
 <!ENTITY  onboard_start_message3 "Brabhsáil le &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Cuir do bhrabhsálaí soghluaiste in oiriúint duit féin.">
-<!ENTITY  onboard_start_button_account "Logáil isteach in &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "Fáilte go &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Aimsigh rudaí níos sciobtha le moltaí cuardaigh úsáideacha.">
+<!ENTITY firstrun_bookmarks_title "Stair">
+<!ENTITY firstrun_bookmarks_message "Do roghasa; chun túis, chun láir">
+<!ENTITY firstrun_bookmarks_subtext "Gheobhaidh tú torthaí ó do leabharmharcanna agus stair agus tú ag cuardach.">
+<!ENTITY firstrun_data_title "Sonraí">
+<!ENTITY firstrun_data_message "Níos lú sonraí, níos mó sábháilte">
+<!ENTITY firstrun_data_subtext "Ná lódáil íomhánna sa chaoi nach gcaitear an oiread céanna sonraí agus tú ag tabhairt cuairte ar shuíomh.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, i gcónaí ar fáil dhuit.">
+<!ENTITY firstrun_sync_subtext "Sioncronaigh do chluaisíní, d\u0027fhocal faire, agus tuilleadh pé áit a n-úsáideann tú é.">
+<!ENTITY firstrun_signin_message "Ceangail agus tosaigh">
+<!ENTITY firstrun_signin_button "Sínigh isteach le sioncronú">
 <!ENTITY  onboard_start_button_browser "Bí ag brabhsáil leat">
 <!ENTITY firstrun_button_next "Ar Aghaidh">
 
 <!ENTITY  onboard_start_restricted1 "Bí slán sábháilte agus bí i gceannas leis an leagan simplithe de &brandShortName;.">
-
-<!ENTITY firstrun_import_title "Iompórtáil">
-<!ENTITY firstrun_import_message "Fáilte go &brandShortName;">
-<!ENTITY firstrun_import_subtext "Iompórtáil leabharmharcanna agus stair ó bhrabhsálaí eile.">
-<!ENTITY firstrun_import_action "Aistrigh go &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Aistrigh">
-<!ENTITY firstrun_import_progress_title "Á nAistriú">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Dífhabhtú i gcéin trí Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Le dífhabhtú a dhéanamh thar Wi-Fi, ní mór aip a léann cóid QR a bheith ar do ghléas.">
 <!ENTITY pref_remember_signons2 "Meabhraigh focail fhaire">
-<!ENTITY pref_open_external_urls_privately_title "Oscail nascanna i mBrabhsáil Phríobháideach">
-<!ENTITY pref_open_external_urls_privately_summary "Do gach nasc seachtrach a osclaítear i &brandShortName;">
 <!ENTITY pref_manage_logins "Bainistigh focail fhaire">
 
 <!ENTITY pref_category_home "Baile">
@@ -245,8 +249,14 @@
 <!ENTITY tab_queue_prompt_title "Níos mó ná nasc amháin á n-oscailt?">
 <!ENTITY tab_queue_prompt_text4 "Sábháil iad go dtí an chéad uair eile a osclóidh tú &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Is féidir leat an rogha seo a athrú ar ball sna Socruithe">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Las An cead teacht thar aipeanna eile">
 <!ENTITY tab_queue_prompt_positive_action_button "Cumasaigh">
 <!ENTITY tab_queue_prompt_negative_action_button "Níl anois">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Téigh go Roghanna">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +266,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "Cluaisín amháin ar feitheamh">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Chun \&quot;Nascanna iomadúla a oscailt\&quot;, tabhair cead \&quot;Teacht thar aipeanna eile\&quot; do &brandShortName;">
 
 <!ENTITY pref_char_encoding "Ionchódú carachtar">
 <!ENTITY pref_char_encoding_on "Taispeáin an roghchlár">
@@ -524,18 +538,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "Taispeántar do chuid cluaisíní is déanaí anseo.">
 <!ENTITY home_open_all "Oscail uile">
 <!ENTITY home_most_recent_empty "Taispeántar na suímh ar thug tú cuairt orthu le déanaí anseo.">
+<!ENTITY home_selected_empty "Léireofar na suíomhanna ar thug tú cuairt orthu san achar ama roghnaithe anseo.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Cogar: úsáid &formatS1;Cluaisín Nua Príobháideach&formatS2; chun brabhsáil gan do stair a shábháil.">
 <!ENTITY home_reading_list_empty "Taispeántar altanna a shábháil tú anseo">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "LEID: Chun altanna a shábháil i do Liosta Léitheoireachta, déan fadbhrú ar an deilbhín &formatI; nuair a fheicfidh tú sa bharra URL é.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "LEID: Chun altanna a shábháil i do Liosta Léitheoireachta, déan fadbhrú ar dheilbhín an mhóid léitheora nuair a fheicfidh tú sa bharra URL é.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -594,6 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ceangal Slán">
 <!ENTITY identity_connection_insecure "Ceangal neamhshlán">
 <!ENTITY identity_login_insecure "Níl an leathanach seo slán agus seans go mbeadh bradaí in ann teacht ar do chuid dintiúir logála isteach.">
+<!ENTITY identity_connection_chromeui "Is leathanach slán cuid &brandShortName; é seo">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "Chuir &brandShortName; cosc ar ábhar neamhshlán ar an leathanach seo.">
@@ -655,7 +663,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Nuashonrú ar fáil: &brandShortName;">
 <!ENTITY updater_apply_select2 "Tapáil chun nuashonrú">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Le comhaid agus nuashonruithe a íosluchtú, tabhair cead rochtana ar an stóras do &brandShortName;">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Ceadaigh">
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Seisiún Nua ar Iasacht">
 <!ENTITY exit_guest_session "Scoir ón Seisiún ar Iasacht">
@@ -744,8 +759,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "San áireamh leis seo tá iompórtáil leabharmharcanna, athchóiriú cluaisíní, agus nuashonruithe uathoibríocha. Múch seo leis na roghanna simplí a chur i bhfeidhm, roghanna atá oiriúnach don chlann ar fad.">
 <!ENTITY restrictable_feature_camera_microphone "Ceamara agus Micreafón">
 <!ENTITY restrictable_feature_camera_microphone_description "Ligeann seo do dhaoine muinteartha cumarsáid fhíor-ama a dhéanamh ar shuímh Ghréasáin.">
-<!ENTITY restrictable_feature_data_choices "Roghanna Sonraí">
-<!ENTITY restrictable_feature_data_choices_description "An mbeifeá sásta faisnéis úsáide a sheoladh chuig Mozilla chun cabhrú linn Firefox a fheabhsú?">
+<!ENTITY restrictable_feature_block_list "Liosta Nithe Coiscthe">
+<!ENTITY restrictable_feature_block_list_description "Cuir cosc ar shuíomhanna a bhfuil ábhar cigilteach nó rúnda iontu.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
