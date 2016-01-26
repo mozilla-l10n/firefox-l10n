@@ -6,13 +6,12 @@
 <!ENTITY sendMaildesc.label           "Ao enviar mensagens formatadas (HTML) e um ou mais destinatários não estão indicados como habilitados a receber HTML:">
 <!ENTITY askMe.label                  "Perguntar-me o que fazer (o correio pede para escolher o formato)">
 <!ENTITY askMe.accesskey              "g">
-<!ENTITY convertPlain.label           "Converter a mensagem para texto simples (poderá perder-se alguma formatação)">
-<!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Enviar mensagem como texto formatado (HTML) (alguns programas de correio não a conseguirão mostrar)">
-<!ENTITY sendHTML.accesskey           "v">
-<!ENTITY sendBoth.label               "Enviar a mensagem tanto em texto simples como em HTML (maior tamanho da mensagem)">
-<!ENTITY sendBoth.accesskey           "n">
-<!ENTITY override.label               "Pode ultrapassar estas definições para mensagens individuais, usando o menu Opções ao criar a mensagem.">
+
+
+
+
+
+
 <!-- Html and Plain Text Domains  -->
 
 <!ENTITY domain.title                 "Domínios HTML e texto">
@@ -37,3 +36,5 @@
 <!ENTITY domainnameError.title        "Erro no nome de domínio">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label      "O nome do domínio @string@ é inválido e será ignorado. Nomes de domínio válidos devem incluir pelo menos um '.' e caracteres de cada lado.">
+<!-- Global auto-detect switch -->
+
