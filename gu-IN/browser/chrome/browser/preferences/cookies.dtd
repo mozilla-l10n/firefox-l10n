@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "માટે મોકલો:">
 <!ENTITY     props.expires.label            "મર્યાદા સમાપ્ત:">
 
+
 <!ENTITY     window.title                   "કુકીઓ">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">

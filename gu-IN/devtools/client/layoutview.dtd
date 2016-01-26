@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "બોક્સ મોડલ">
+<!ENTITY layoutViewTitle        "બોક્સ મોડલ">
 <!ENTITY margin.tooltip         "હાંસિયો">
 <!ENTITY border.tooltip         "કિનારી">
 <!ENTITY padding.tooltip        "પેડીંગ">

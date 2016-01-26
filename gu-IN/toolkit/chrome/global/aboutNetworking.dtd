@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "આ ખૂબ પરીક્ષણીય છે. વયસ્કના નીરિક્ષણ વિના વાપરશો નહિ.">
 <!ENTITY aboutNetworking.showNextTime          "આગલા વખતે આ ચેતવણી બતાવો">
 <!ENTITY aboutNetworking.ok                    "બરાબર">
-<!ENTITY aboutNetworking.http                  "Http">
+
 <!ENTITY aboutNetworking.sockets               "સૉકેટ">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "સંદેશાઓ મેળવાયા">
 <!ENTITY aboutNetworking.bytesSent             "બાઇટ્સ મોકલાયા">
 <!ENTITY aboutNetworking.bytesReceived         "બાઇટ્સ મેળવાયા">
+
+
+
+
