@@ -17,12 +17,12 @@
 <!ENTITY firstrun_bookmarks_subtext "Duu hunyaney war doo-šilbawey nda taarikoo ra ceeciyan waate.">
 <!ENTITY firstrun_data_title "Bayhayey">
 <!ENTITY firstrun_data_message "Bayhaya žabu, lanbarey tonton">
-
+<!ENTITY firstrun_data_subtext "Biyey ganji ka bayhayey nakaši nungu kul kaŋ war dii ya ga.">
 <!ENTITY firstrun_sync_title "Sync">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName; goo war bande waati kul">
+<!ENTITY firstrun_sync_subtext "War kanjey, doo-šilbawey nda taney hangandi cere nungu kul kaŋ war g\u0027i ka goy.">
+<!ENTITY firstrun_signin_message "Wa ciya ka šintin">
+<!ENTITY firstrun_signin_button "Huru Sync ra">
 <!ENTITY  onboard_start_button_browser "Ceecikaw tunandi">
 <!ENTITY firstrun_button_next "Bisa">
 
@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "War ga hin ka woo barmay hiino ibaayey ra.">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Žeeriyan duɲe feeri porogaram taney ga">
 <!ENTITY tab_queue_prompt_positive_action_button "Tunandi">
 <!ENTITY tab_queue_prompt_negative_action_button "Manti sohõ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Koy kayandiyaney ga">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "kanje 1 ga batu">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Ka \&quot;Dobu boobey feeri\&quot;, taare \u0027Žeeri porogaram taney ga\u0027 duɲeyan tunandi &brandShortName; se">
 
 <!ENTITY pref_char_encoding "Harfu hawyan">
 <!ENTITY pref_char_encoding_on "Šilbayboŋoo cebe">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "War doŋ nor lokey bangay ne.">
 <!ENTITY home_open_all "Ikul feeri">
 <!ENTITY home_most_recent_empty "Interneti nungey kaŋ kokor k\u0027i guna bangay ne.">
-
+<!ENTITY home_selected_empty "Interneti nungey kaŋ war dii yey waatikunga suubantaa ra ga bangay ne.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: goy nda &formatS1;Sutura nor loku taaga&formatS2; ši war taarikoo gaabu.">
@@ -597,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ciyari saajante">
 <!ENTITY identity_connection_insecure "Manti ciyari saajante">
 <!ENTITY identity_login_insecure "Moɲoo manti saajante nda war huruyan tammaasaa ga yalaafu.">
-
+<!ENTITY identity_connection_chromeui "Woo ti &brandShortName; moo saajante">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ga gundekuna kaŋ ši saajaw gagay moɲoo woo ga.">
@@ -621,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Sutura bayhayey hun">
 <!ENTITY private_data_fail "Sutura bayhaya fooyaŋ mana hin ka hun">
 
+<!ENTITY bookmarkhistory_button_import "Zaa">
 <!ENTITY bookmarkhistory_import_both "Doo-šilbawey nda taariki zaa 
 Android ra">
 <!ENTITY bookmarkhistory_import_bookmarks "Doo-šilbawey zaa 
