@@ -5,7 +5,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Вставити Math">
 
-<!ENTITY sourceEditField.label "Enter LaTeX source code:">
+<!ENTITY sourceEditField.label "Введіть програмний код LaTeX:">
 
 <!ENTITY options.label "Налаштування">
 <!ENTITY optionInline.label "Вбудований режим">

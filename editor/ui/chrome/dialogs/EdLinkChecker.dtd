@@ -4,6 +4,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Перевірити знаходження зображення та посилання">
-<!ENTITY succeeded.label       "Успіх">
+<!ENTITY succeeded.label       "Успішно">
 <!ENTITY failed.label          "Невдача">
 <!ENTITY closeButton.label     "Закрити">
