@@ -166,7 +166,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Més informació…">
 <!ENTITY errorReporting.sending "S'està enviant l'informe">
 <!ENTITY errorReporting.sent "S'ha enviat l'informe">
-<!ENTITY errorReporting.report "Informe">
 <!ENTITY errorReporting.tryAgain "Torna-ho a provar">
 
 <!ENTITY remoteXUL.title "XUL remot">

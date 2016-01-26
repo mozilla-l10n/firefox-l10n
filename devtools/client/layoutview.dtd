@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Model de capsa">
+<!ENTITY layoutViewTitle        "Model de capsa">
 <!ENTITY margin.tooltip         "marge">
 <!ENTITY border.tooltip         "contorn">
 <!ENTITY padding.tooltip        "espaiat">

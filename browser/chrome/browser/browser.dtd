@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Complements">
 <!ENTITY addons.accesskey             "m">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Aplicacions">
-<!ENTITY webapps.accesskey            "p">
-<!ENTITY loopMenuItem.label           "Inicia una conversa…">
-<!ENTITY loopMenuItem.accesskey       "a">
 
 <!ENTITY webDeveloperMenu.label       "Desenvolupador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -749,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Aquesta pàgina està desada a l'ordinador.">
 <!ENTITY identity.connectionVerified1 "Esteu connectat de forma segura a aquest lloc, mantingut per:">
 <!ENTITY identity.connectionInternal "Aquesta és una pàgina del &brandShortName; segura.">
-<!ENTITY identity.insecureLoginForms "Les vostres dades d'inici de sessió podrien estar en risc.">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "El &brandShortName; ha blocat parts d'aquesta pàgina que no són segures.">
@@ -931,10 +927,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "n">
 <!ENTITY emeNotificationsDontAskAgain.label       "No m'ho tornis a demanar">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "d">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-<!ENTITY saveToPocketCmd.label     "Desa la &amp;pàgina al Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Desa l'enllaç al Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "Mostra la llista del Pocket">

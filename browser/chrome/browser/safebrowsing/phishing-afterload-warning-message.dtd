@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Treu-me d'aquí!">
 <!ENTITY safeb.palm.decline.label "Ignora aquest avís">
 <!ENTITY safeb.palm.notforgery.label2 "No és cap falsificació web…">
-<!ENTITY safeb.palm.reportPage.label "Per què s'ha blocat aquest lloc?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "S'ha informat que el lloc web és atacant!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,5 +23,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "S'ha informat que aquesta pàgina web de <span id='phishing_sitename'/> és una falsificació i s'ha blocat d'acord amb les vostres preferències de seguretat.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Les falsificacions web estan dissenyades per enganyar-vos i que així reveleu la vostra informació personal i financera imitant les fonts en què podeu confiar.</p><p>Introduir-hi cap tipus d'informació pot resultar en una suplantació d'identitat o altra mena de fraus.</p>">
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
