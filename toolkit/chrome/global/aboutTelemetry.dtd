@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Archivált ping adatok">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "Almunkamenet adatainak megjelenítése">
 
 <!ENTITY aboutTelemetry.choosePing "Válasszon pinget:">
@@ -28,7 +31,6 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Régebbi ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Nyers ping adatok…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Hét">
 

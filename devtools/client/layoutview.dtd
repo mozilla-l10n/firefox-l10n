@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Dobozmodell">
+<!ENTITY layoutViewTitle        "Dobozmodell">
 <!ENTITY margin.tooltip         "margó">
 <!ENTITY border.tooltip         "szegély">
 <!ENTITY padding.tooltip        "kitöltés">
