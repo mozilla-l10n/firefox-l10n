@@ -11,12 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Faça a sua experiência na web móvel verdadeiramente sua.">
 
 <!ENTITY firstrun_urlbar_message "Bem-vindo ao &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Encontre as coisas mais rapidamente com os atalhos das sugestões de pesquisa.">
 <!ENTITY firstrun_bookmarks_title "Histórico">
+<!ENTITY firstrun_bookmarks_message "Completamente seu">
+<!ENTITY firstrun_bookmarks_subtext "Obtenha resultados dos favoritos e histórico quando pesquisar.">
 <!ENTITY firstrun_data_title "Dados">
 <!ENTITY firstrun_data_message "Menos dados, mais economia">
 <!ENTITY firstrun_data_subtext "Bloquear imagens para gastar menos dados em todos os sites que visitar.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
+<!ENTITY firstrun_sync_subtext "Sincronize sua abas, senhas e muito mais em todos os lugares que usá-lo.">
 <!ENTITY  onboard_start_button_browser "Iniciar a navegação">
 <!ENTITY firstrun_button_next "Próximo">
 
