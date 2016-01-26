@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Cleachd an teisteanas seo gus ainm sgrìobhte digiteach a chur ri teachdaireachdan a chuireas tu:">
 
 <!ENTITY certificates.label "Teisteanasan">
-<!ENTITY manageCerts.label "Seall na teisteanasan">
-<!ENTITY manageCerts.accesskey "S">
+
+
 <!ENTITY manageDevices.label "Innealan tèarainteachd">
 <!ENTITY manageDevices.accesskey "I">
