@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Uporabi to potrdilo za digitalno podpisovanje sporočil, ki jih pošiljate:">
 
 <!ENTITY certificates.label "Digitalna potrdila">
-<!ENTITY manageCerts.label "Pokaži potrdila">
-<!ENTITY manageCerts.accesskey "k">
+<!ENTITY manageCerts2.label "Upravljaj z digitalnimi potrdili">
+<!ENTITY manageCerts2.accesskey "U">
 <!ENTITY manageDevices.label "Varnostne naprave">
 <!ENTITY manageDevices.accesskey "V">

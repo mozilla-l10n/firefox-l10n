@@ -7,7 +7,7 @@
 
 <!ENTITY acceptRemoteContent.label "Dovoli oddaljeno vsebino v sporočilih">
 <!ENTITY acceptRemoteContent.accesskey "a">
-<!ENTITY remoteContentExceptions.label "Izjeme ...">
+<!ENTITY remoteContentExceptions.label "Izjeme …">
 <!ENTITY remoteContentExceptions.accesskey "e">
 <!ENTITY acceptRemoteContentInfo.label "Več o vprašanjih zasebnosti oddaljene vsebine">
 
