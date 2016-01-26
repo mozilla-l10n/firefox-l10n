@@ -24,7 +24,7 @@
 
 <!ENTITY  doNotTrack.pre.label          "Gallwch hefyd ">
 <!ENTITY  doNotTrack.settings.label     "reoli eich gosodiadau Dim Tracio">
-
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Hanes">
 
