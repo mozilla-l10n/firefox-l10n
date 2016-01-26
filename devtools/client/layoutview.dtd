@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Modèl de bóstia">
+<!ENTITY layoutViewTitle        "Modèl de bóstia">
 <!ENTITY margin.tooltip         "marge">
 <!ENTITY border.tooltip         "bordadura">
 <!ENTITY padding.tooltip        "padding">

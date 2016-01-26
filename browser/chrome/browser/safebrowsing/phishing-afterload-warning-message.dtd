@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Sortissètz-me d'aicí !">
 <!ENTITY safeb.palm.decline.label "Ignorar aqueste avertiment">
 <!ENTITY safeb.palm.notforgery.label2 "Es pas un sit contrafach…">
-<!ENTITY safeb.palm.reportPage.label "Perqué la pagina es blocada ?">
+
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Sit d'atac raportat !">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,5 +22,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Lo sit web de <span id='phishing_sitename'/>es estat raportat coma un sit contrafaich e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Los sites contrafaches son faches per vos enganar e vos far revelar vòstras entresenhas personalas o financièras en imitant de fonts que vos podètz fisar.</p><p>Se picatz quina entresenha que siá sus aquesta pagina, qualqu'un vos poiriá panar vòstra identitat o fraudar d'un autre biais.</p>">
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

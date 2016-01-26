@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "Avançar d'una pagina">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Totes los moduls complementaris son estats desactivats pel mòde sens fracàs.">
@@ -104,8 +106,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Suprimir">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Modificar las opcions d'aqueste modul complementari">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferéncias">

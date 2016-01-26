@@ -166,7 +166,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
 <!ENTITY errorReporting.sending "Mandadís del rapòrt">
 
-
 <!ENTITY errorReporting.tryAgain "Ensajatz tornarmai">
 
 <!ENTITY remoteXUL.title "XUL distant">
