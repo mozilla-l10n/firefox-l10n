@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "सुस्वागतम">
 <!ENTITY  onboard_start_message3 "&brandShortName; के साथ ब्राउज करें">
 <!ENTITY  onboard_start_subtext3 "अपने मोबाइल वेब ब्राउज़िंग अनुभव वास्तव में अपना खुद का बनाएँ ।">
-<!ENTITY  onboard_start_button_account "&brandShortName; में साइन इन करें">
+
+<!ENTITY firstrun_urlbar_message "&brandShortName; में आपका स्वागत है">
+
+
+
+
+
+
+
+<!ENTITY firstrun_sync_title "सिंक">
+
+
+
+
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करें">
 <!ENTITY firstrun_button_next "अगला">
 
 <!ENTITY  onboard_start_restricted1 "सुरक्षित और &brandShortName; के इस सरल संस्करण के नियंत्रण में रहें.">
-
-<!ENTITY firstrun_import_title "आयात करें">
-<!ENTITY firstrun_import_message "&brandShortName; में आपका स्वागत है">
-
-
-<!ENTITY firstrun_import_dialog_button "स्थानांतरण">
-<!ENTITY firstrun_import_progress_title "स्थानांतरित कर रहें है">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -168,8 +174,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "वाई फाई से होकर दूरस्थ दोषसुधार">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "वाई फाई दोषसुधार को आपके डिवाइस में QR ऐप संस्थापित होने की जरुरत हैं.">
 <!ENTITY pref_remember_signons2 "लॉग इन याद रखें">
-<!ENTITY pref_open_external_urls_privately_title "लिंक को निजी ब्राउज़िंग में खोलिए">
-<!ENTITY pref_open_external_urls_privately_summary "सभी बाहरी लिंक जो कि &brandShortName; मैं खोले गए हैं">
 <!ENTITY pref_manage_logins "लॉगिन प्रबंधित करें…">
 
 <!ENTITY pref_category_home "घर">
@@ -237,8 +241,12 @@
 <!ENTITY tab_queue_prompt_title "एकाधिक लिंक खोलें?">
 <!ENTITY tab_queue_prompt_text4 "उन्हें सहेजें जबतक आप अगली बार &brandShortName; खोलते.">
 <!ENTITY tab_queue_prompt_tip_text2 "आप सेटिंग में इसे बाद में बदल सकते हैं">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "सक्षम करें">
 <!ENTITY tab_queue_prompt_negative_action_button "अभी नहीं">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -248,6 +256,8 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 टैब इंतज़ार कर रहा हैं">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "वर्ण एन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेन्यू दिखाएँ">
@@ -510,16 +520,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "हालिया टैब यहाँ दिखते हैं.">
 <!ENTITY home_open_all "सब खोलें |">
 <!ENTITY home_most_recent_empty "आपके देखे हुए सबसे हालिया वेबसाइट यहाँ दिखाए गए हैं.">
+
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "अरे: &formatS1; का उपयोग करते हुए नया निजी टैब &formatS2; आपका नक्शे कदम संचय नहि करेगा.">
 <!ENTITY home_reading_list_empty "बाद के लिए सहेजे गए आलेख यहाँ दिखते हैं.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -577,6 +582,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "सुरक्षित कनेक्शन">
 <!ENTITY identity_connection_insecure "असुरक्षित कनेक्शन">
+
 
 <!-- Mixed content notifications in site identity popup -->
 
@@ -636,7 +642,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; के लिए अद्यतन उपलब्ध">
 <!ENTITY updater_apply_select2 "अद्ययन के लिए छुएँ">
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!-- Guest mode -->    
 
 <!ENTITY new_guest_session "नया अतिथि सत्र">
 <!ENTITY exit_guest_session "अतिथि सत्र से बाहर">
