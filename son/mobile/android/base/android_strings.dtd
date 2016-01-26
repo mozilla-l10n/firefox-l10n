@@ -11,11 +11,11 @@
 <!ENTITY  onboard_start_subtext3 "Wa taka tee kaŋ ra war teegoyoo bayraa interneti boŋ kanbehayey ga ma ti war boŋ wanoo. ">
 
 <!ENTITY firstrun_urlbar_message "Kubayni &brandShortName; ga">
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Cahã ka dii hayey nda ceeciyan honnandiyan dunbandiyaney.">
+<!ENTITY firstrun_bookmarks_title "Taariki">
+<!ENTITY firstrun_bookmarks_message "War kaasey, jine nda gam">
+<!ENTITY firstrun_bookmarks_subtext "Duu hunyaney war doo-šilbawey nda taarikoo ra ceeciyan waate.">
+<!ENTITY firstrun_data_title "Bayhayey">
 
 
 <!ENTITY firstrun_sync_title "Sync">
