@@ -235,10 +235,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "N">
 <!ENTITY addons.commandkey            "A">
 
-
-
-
-
 <!ENTITY webDeveloperMenu.label       "Umthuthukisi wewebhu">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
@@ -871,8 +867,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeNotificationsDontAskAgain.label       "Ungaphinde ungibuze">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "h">
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-
-
-

@@ -24,6 +24,8 @@
 <!ENTITY cmd.forward.tooltip                  "Iya phambili ngekhasi elilodwa">
 
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Konke okwengezwayo kukhutshaziwe ngesimo sokuvikela.">
@@ -102,8 +104,6 @@
 <!ENTITY cmd.installAddon.accesskey           "F">
 <!ENTITY cmd.uninstallAddon.label             "Susa">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Izinketho">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Shintasha izinketho zokwengezwayo">
 <!ENTITY cmd.showPreferencesUnix.label        "Okuthandwayo">

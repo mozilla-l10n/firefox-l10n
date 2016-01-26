@@ -21,6 +21,7 @@
 <!ENTITY     props.secure.label             "Thumela lapha:">
 <!ENTITY     props.expires.label            "Kuphelelwa yisikhathi:">
 
+
 <!ENTITY     window.title                   "Amakhukhi">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
