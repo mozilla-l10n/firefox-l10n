@@ -108,7 +108,7 @@
 <!ENTITY settings "الإعدادات">
 <!ENTITY settings_title "الإعدادات">
 <!ENTITY pref_category_general "عام">
-
+<!ENTITY pref_category_general_summary2 "الصفحة الرّئيسيّة، و اللغة، و شريط العنوان">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -151,9 +151,9 @@
 <!ENTITY pref_category_accessibility "الإتاحة">
 <!ENTITY pref_category_accessibility_summary2 "حجم النص، التقريب، الإدخال بالصوت">
 <!ENTITY pref_category_privacy_short "الخصوصية">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "التّعقّب، و الكعكات، و اختيار البيانات">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "عن &brandShortName;، و الأسئلة الشّائعة، و الانطباعات">
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
 <!ENTITY pref_learn_more "اطّلع على المزيد">
 <!ENTITY pref_category_installed_search_engines "محركات البحث المُثبّتة">
@@ -168,7 +168,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "فائدة: أضف أي موقع على لائحة مزودي البحث الخاصة بك عن طريق الضغط المطول على مساحة البحث ثم النقر على أيقونة &formatI;.">
 <!ENTITY pref_category_advanced "متقدّم">
-
+<!ENTITY pref_category_advanced_summary2 "استعادة الألسنة، و الملحقات، و أدوات المطوّرين">
 <!ENTITY pref_developer_remotedebugging "تنقيح عن بعد">
 <!ENTITY pref_developer_remotedebugging_usb "التنقيح عن بعد عبر USB">
 <!ENTITY pref_developer_remotedebugging_wifi "التنقيح عن بعد عبر واي-فاي">
@@ -196,19 +196,22 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "صفحة &brandShortName; الرئيسية">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "مخصّصة">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "أدخل عنوانًا أو عبارة بحث">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_privacy_short "الخصوصية">
-
+<!ENTITY pref_header_accessibility "الإتاحة">
 
 <!ENTITY pref_header_help "مساعدة">
 
@@ -218,9 +221,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "مفعّلة، باستثناء الأطراف الخارجية">
 <!ENTITY pref_cookies_disabled "مُعطّلة">
 
+<!ENTITY pref_tap_to_load_images_title2 "أظهِر الصور">
 
 
-
+<!ENTITY pref_tap_to_load_images_disabled2 "امنعها">
 
 <!ENTITY pref_tracking_protection_title "الحماية من التعقّب">
 
@@ -265,7 +269,7 @@
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "امسح الان">
-
+<!ENTITY pref_clear_on_exit_title3 "امسح البيانات الخاصة عند الخروج">
 <!ENTITY pref_clear_on_exit_summary2 "سيمسح &brandShortName; بياناتك تلقائيًا عند اختيارك ”أغلق“ من القائمة الرئيسية">
 <!ENTITY pref_clear_on_exit_dialog_title "اختر البيانات التي ستُمسح">
 <!ENTITY pref_plugins "الملحقات">
@@ -303,11 +307,11 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
-
+<!ENTITY pref_sync2 "لِج">
 <!ENTITY pref_sync_summary2 "زامن الألسنة، و العلامات، و جلسات الولوج و التأريخ">
 <!ENTITY pref_search_suggestions "اعرض اقتراحات البحث">
 <!ENTITY pref_history_search_suggestions "أظهر تأريخ البحث">
-
+<!ENTITY pref_import_options "خيارات الاستيراد">
 <!ENTITY pref_import_android_summary "استورد العلامات و تأريخ التصفح من المتصفح المحلي">
 <!ENTITY pref_private_data_history2 "تأريخ التصفح">
 <!ENTITY pref_private_data_searchHistory "تأريخ البحث">
@@ -583,7 +587,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "اتصال آمن">
 <!ENTITY identity_connection_insecure "اتصال غير آمن">
-
+<!ENTITY identity_login_insecure "هذه الصفحة غير آمنة و ولوجك معرض للهجوم.">
 
 <!-- Mixed content notifications in site identity popup -->
 
@@ -727,15 +731,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
+<!ENTITY restrictable_feature_addons_installation_description "أضف مزايا أو خصائص إلى فيرفكس. ملاحظة: يمكن للإضافات تعطيل قيود معينة.">
 <!ENTITY restrictable_feature_private_browsing "التصفح الخاص">
+<!ENTITY restrictable_feature_private_browsing_description "يسمح لأفراد العائلة بالتصفح بدون حفظ معلومات المواقع و الصفحات التي يزورونها.">
 
-
-
-
-
-
-
+<!ENTITY restrictable_feature_clear_history_description "يسمح لأفراد العائلة بحذف معلومات المواقع و الصفحات التي يزورونها.">
+<!ENTITY restrictable_feature_advanced_settings "إعدادات متقدّمة">
+<!ENTITY restrictable_feature_advanced_settings_description "هذا يتضمن استيراد العلامات، و استعادة الألسنة، و التحديثات التلقائية. عطله لتبسيط الإعدادات فتكون مناسبة لأي فرد من أفراد العائلة.">
+<!ENTITY restrictable_feature_camera_microphone "الكمرة و المِكروفون">
+<!ENTITY restrictable_feature_camera_microphone_description "يسمح لأفراد العائلة بالتخاطب في نفس اللحظة عبر مواقع الوب.">
 
 
 <!-- Default Bookmarks titles-->
