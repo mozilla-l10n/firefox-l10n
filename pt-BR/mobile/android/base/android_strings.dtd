@@ -21,6 +21,7 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
 <!ENTITY firstrun_sync_subtext "Sincronize sua abas, senhas e muito mais em todos os lugares que usá-lo.">
+<!ENTITY firstrun_signin_button "Entrar no Sync">
 <!ENTITY  onboard_start_button_browser "Iniciar a navegação">
 <!ENTITY firstrun_button_next "Próximo">
 
@@ -253,6 +254,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Agora não">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Vá para configurações">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -533,6 +535,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Suas abas recentes serão mostradas aqui.">
 <!ENTITY home_open_all "Abrir tudo">
 <!ENTITY home_most_recent_empty "Sites visitados recentemente serão mostrados aqui.">
+<!ENTITY home_selected_empty "Sites visitados no período selecionado aparecem aqui.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: ao usar uma &formatS1;Nova aba privativa&formatS2; o seu histórico não será salvo.">
@@ -595,6 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexão segura">
 <!ENTITY identity_connection_insecure "Conexão insegura">
 <!ENTITY identity_login_insecure "Esta página não é segura e seu login pode estar vulnerável.">
+<!ENTITY identity_connection_chromeui "Essa é uma página segura do &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "O &brandShortName; bloqueou conteúdo inseguro nesta página.">
