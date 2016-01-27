@@ -74,7 +74,7 @@
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "m">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI                                 "true">
+<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd2.label                           "Vlastnosti">
 <!ENTITY propertiesCmd2.accesskey                       "l">
 <!ENTITY propertiesCmd.key                              "i">
@@ -139,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "N">
 <!ENTITY newIM.label                                    "Rýchla správa">
 <!ENTITY newIM.accesskey                                "R">
+<!ENTITY printButton.label                              "Tlačiť…">
+<!ENTITY printButton.accesskey                          "T">
 <!ENTITY deleteButton2.label                            "Odstrániť">
 <!ENTITY deleteButton2.accesskey                        "d">
 
@@ -158,7 +160,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "M">
 <!ENTITY advancedButton.tooltip                         "Pokročilé hľadanie adresy">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title                               "Rýchle vyhľadávanie">
+<!ENTITY searchItem.title "Rýchle vyhľadávanie">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Adresár">

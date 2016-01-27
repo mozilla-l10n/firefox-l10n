@@ -198,6 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Otázka, či chcete uložiť heslo">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Zobraziť správu o inštalácii aplikácie">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Spravovať používanie zásuvných modulov na tejto stránke">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Zmeniť, či chcete dostávať upozornenia z tejto stránky">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Spravovať zdieľanie kamery a mikrofónu so stránkou">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "So stránkou zdieľate kameru a mikrofón">
@@ -410,7 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Otvorí ponuku Pomocník">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizované karty">
-<!ENTITY appMenuRemoteTabs.fetching.label "Získavajú sa Synchronizované karty…">
+<!ENTITY appMenuRemoteTabs.fetching.label "Získavajú sa synchronizované karty…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Žiadne otvorené karty">

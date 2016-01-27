@@ -95,21 +95,21 @@
 <!ENTITY findReplaceCmd.accesskey "d">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Hľadať ďalej">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "d">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Hľadať predchádzajúce">
+<!ENTITY findPrevCmd.accesskey "r">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "r">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Zobraziť">
 <!ENTITY viewMenu.accesskey "Z">
-<!ENTITY menubarCmd.label "Hlavná ponuka">
-<!ENTITY menubarCmd.accesskey "H">
 <!ENTITY viewToolbarsMenuNew.label "Panely s nástrojmi">
 <!ENTITY viewToolbarsMenuNew.accesskey "P">
+<!ENTITY menubarCmd.label "Hlavná ponuka">
+<!ENTITY menubarCmd.accesskey "H">
 <!ENTITY showCompositionToolbarCmd.label "Panel Písanie správy">
 <!ENTITY showCompositionToolbarCmd.accesskey "a">
 <!ENTITY showFormattingBarCmd.label "Panel Formátovanie">
@@ -217,9 +217,9 @@
 <!ENTITY spellingButton.tooltip "Skontrolovať pravopis označeného textu alebo celej stránky">
 <!ENTITY statusLanguageText.tooltip "Jazyk pre kontrolu pravopisu">
 <!ENTITY saveButton.tooltip "Uložiť túto správu">
-<!ENTITY cutButton.tooltip "Vystrihnúť">
-<!ENTITY copyButton.tooltip "Kopírovať">
-<!ENTITY pasteButton.tooltip "Prilepiť">
+<!ENTITY cutButton.tooltip              "Vystrihnúť">
+<!ENTITY copyButton.tooltip             "Kopírovať">
+<!ENTITY pasteButton.tooltip            "Prilepiť">
 <!ENTITY printButton.tooltip "Vytlačiť túto správu">
 
 <!-- Headers -->
@@ -236,6 +236,8 @@
 <!ENTITY followupAddr.label "Pokračovať na:">
 <!ENTITY subject.label "Predmet:">
 <!ENTITY subject.accesskey "d">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "h">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -303,3 +305,7 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakty">
+
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Nastavenie adresy odosielateľa…">
+<!ENTITY customizeFromAddress.accesskey "a">
