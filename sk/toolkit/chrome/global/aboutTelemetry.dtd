@@ -16,9 +16,15 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Zdroj údajov pre ping:">
 
-<!ENTITY aboutTelemetry.showCurrentPingData "Aktuálne údaje pingu">
+<!ENTITY aboutTelemetry.showCurrentPingData "Aktuálne údaje príkazu ping">
 
-<!ENTITY aboutTelemetry.showArchivedPingData "Archivované údaje pingu">
+<!ENTITY aboutTelemetry.showArchivedPingData "Archivované údaje príkazu ping">
+
+<!ENTITY aboutTelemetry.pingDataDisplay "Zobrazenie údajov príkazu ping:">
+
+<!ENTITY aboutTelemetry.structured "Štrukturované">
+
+<!ENTITY aboutTelemetry.raw "Dáta JSON v nespracovanom tvare">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Zobraziť údaje sub-relácie">
 
@@ -28,7 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Starší ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Surové ping údaje...">
+<!ENTITY aboutTelemetry.rawPingData "Dáta príkazu ping v nespracovanom tvare...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Týždeň">
 
@@ -69,7 +75,8 @@
 
 <!ENTITY aboutTelemetry.fetchSymbols "Získať názvy funkcií pre zásobníky zlyhaní">
 
-<!ENTITY aboutTelemetry.hideSymbols "Zobraziť nespracované údaje zo zlyhaní">
+<!ENTITY aboutTelemetry.hideSymbols "Zobraziť údaje zo zlyhaní v nespracovanom tvare">
 
 <!ENTITY aboutTelemetry.filterText "Filter (reťazec alebo /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "Obsah">
