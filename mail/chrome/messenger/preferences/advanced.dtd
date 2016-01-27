@@ -104,5 +104,6 @@
 <!ENTITY enableOCSP.accesskey            "C">
 
 <!ENTITY manageCertificates.label "Gerenciar certificados">
+<!ENTITY manageCertificates.accesskey "G">
 <!ENTITY viewSecurityDevices.label "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey "D">
