@@ -17,7 +17,6 @@
 <!ENTITY allowWindowMoveResize.label     "Premiestnenie alebo zmena veľkosti existujúcich okien">
 <!ENTITY allowWindowFlip.label           "Premiestnenie okien do popredia alebo pozadia">
 <!ENTITY allowWindowStatusChange.label   "Zmeniť text v stavovom riadku">
-<!ENTITY allowWindowImageSrcChange.label "Zmeniť obrázky">
 <!ENTITY allowContextmenuDisable.label   "Zakázať alebo nahradiť kontextovú ponuku">
 <!ENTITY allowHideStatusBar.label        "Skryť stavový riadok">
 
