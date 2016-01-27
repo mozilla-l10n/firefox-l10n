@@ -43,6 +43,10 @@
 <!ENTITY options.context.inspector "Inspektor">
 <!ENTITY options.showUserAgentStyles.label "Wyświetlanie stylów przeglądarki">
 <!ENTITY options.showUserAgentStyles.tooltip "Włączenie tej opcji spowoduje wyświetlanie domyślnych stylów wczytywanych przez przeglądarkę">
+
+<!ENTITY options.collapseAttrs.label "Skracanie atrybutów DOM">
+<!ENTITY options.collapseAttrs.tooltip "Skracanie długich nazw atrybutów DOM w inspektorze">
+
 <!ENTITY options.defaultColorUnit.label "Domyślny model przestrzeni barw">
 <!ENTITY options.defaultColorUnit.accesskey "D">
 <!ENTITY options.defaultColorUnit.hex "Hex">
