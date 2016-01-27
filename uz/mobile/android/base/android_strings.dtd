@@ -11,17 +11,17 @@
 <!ENTITY  onboard_start_subtext3 "Mobil telefon brauzeri orqali tajriba orttiring.">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName;ga xush kelibsiz!">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Foydali qidiruv tavsiyalari yordamida izlaganlaringizni tezroq topishingiz mumkin.">
+<!ENTITY firstrun_bookmarks_title "Tarix">
+<!ENTITY firstrun_bookmarks_message "Sevimli o‘yinlaringiz oldinda va markazda">
+<!ENTITY firstrun_bookmarks_subtext "Qidirayotganingizda xatcho‘plar va tarixdan natijalarni olishingiz mumkin.">
+<!ENTITY firstrun_data_title "Ma’lumot">
+<!ENTITY firstrun_data_message "Kamroq ma’lumotlar, ko‘proq saqlash">
+<!ENTITY firstrun_data_subtext "Har bir saytga kirganda traffikni tejash uchun rasmlarni bloklashingiz mumkin.">
 <!ENTITY firstrun_sync_title "Sinxronlash">
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, doimo siz tomonda">
+<!ENTITY firstrun_sync_subtext "Ichki oyna, parol va boshqa kerakli xususiyatlarni hamma joyda foydalanish uchun sinxronlashingiz mumkin.">
+<!ENTITY firstrun_signin_message "Ulaning va boshlang">
 
 <!ENTITY  onboard_start_button_browser "Ko‘rishni boshlash">
 <!ENTITY firstrun_button_next "Keyingi">
