@@ -23,6 +23,8 @@
 <!ENTITY netmonitorUI.reloadNotice3       "an leathanach ar a bhfuil mionsonraí faoi ghníomhaíocht líonra.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status3     "Stádas">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
