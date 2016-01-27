@@ -16,9 +16,10 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Zdroj údajov pre ping:">
 
-<!ENTITY aboutTelemetry.showCurrentPingData "Aktuálne údaje pingu">
+<!ENTITY aboutTelemetry.showCurrentPingData "Aktuálne údaje príkazu ping">
 
-<!ENTITY aboutTelemetry.showArchivedPingData "Archivované údaje pingu">
+<!ENTITY aboutTelemetry.showArchivedPingData "Archivované údaje príkazu ping">
+
 
 <!ENTITY aboutTelemetry.showSubsessionData "Zobraziť údaje sub-relácie">
 
@@ -28,7 +29,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Starší ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Surové ping údaje...">
+<!ENTITY aboutTelemetry.rawPingData "Dáta príkazu ping v nespracovanom tvare...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Týždeň">
 

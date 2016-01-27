@@ -34,7 +34,7 @@
 <!ENTITY sync.input.key.label 'Obnovovací kľúč'>
 <!ENTITY sync.checkbox.server.label 'Použiť vlastný server'>
 <!ENTITY sync.input.server.label 'Adresa URL servera'>
-  
+
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Nebolo možné nastaviť účet &syncBrand.shortName.label;'>
 <!ENTITY sync.subtitle.fail.label 'Služba &syncBrand.fullName.label; sa nemohla pripojiť k serveru. Chcete to skúsiť znova?'>
@@ -43,13 +43,13 @@
 <!ENTITY sync.subtitle.nointernet.label 'Nie je dostupné pripojenie k sieti internet.'>
 <!ENTITY sync.subtitle.failaccount.label 'Vytvorenie účtu vo vašom zariadení zlyhalo.'>
 <!ENTITY sync.subtitle.failmultiple.label 'Máte Firefox nainštalovaný viackrát? &syncBrand.fullName.label; nateraz podporuje súčasne len jednu inštaláciu Firefoxu. Ak chcete používať &syncBrand.shortName.label; odinštalujte ostatné inštalácie Firefoxu.'>
-  
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Nastavenie dokončené'>
 <!ENTITY sync.subtitle.success.label1 'Vaše údaje sú teraz preberané na pozadí. Ak chcete, môžete si spravovať svoj účet v nastaveniach prehliadača alebo začnite s prehliadaním webu v prehliadači &brandShortName;.'>
 <!ENTITY sync.settings.label 'Nastavenia'>
 <!ENTITY sync.subtitle.manage.label1 'Váš účet služby &syncBrand.fullName.label; je už nastavený. Ak ho chcete spravovať, prejdite do nastavení prehliadača. Inak môžete rovno prehliadať web.'>
-  
+
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Skúsiť znova.'>
 <!ENTITY sync.pair.connectlocation.label 'Ak chcete aktivovať nové zariadenie, zvoľte položku “Nastaviť službu &syncBrand.shortName.label;” na tomto zariadení a následne zvoľte položku “Už mám účet”.'>
@@ -70,9 +70,10 @@
 <!ENTITY sync.button.cancel.label 'Zrušiť'>
 <!ENTITY sync.button.connect.label 'Pripojiť'>
 <!ENTITY sync.button.ok.label 'OK'>
-  
+
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (zastarané)'>
+
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -261,7 +262,7 @@
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Účet je uzamknutý. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 'Služba &syncBrand.shortName.label; nie je pripojená'>
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Ťuknutím sa pripojíte ako &formatS;'>
 
@@ -269,3 +270,8 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Ťuknutím sa prihlásite ako &formatS;'>
+
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
+<!ENTITY old_sync_deprecated_notification_title 'Ak chcete pokračovať v synchronizácii, prihláste sa'>
+<!ENTITY old_sync_deprecated_notification_content 'Tento účet už nie je podporovaný'>

@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Upozorniť účastníkov">
+<!ENTITY event.attendees.notify.accesskey           "U">
 <!ENTITY event.attendees.notifyundisclosed.label    "Poslať každému účastníkovi zvlášť">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "d">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Použitím tejto voľby odošlete každému z účastníkov samostatnú pozvánku. Každá pozvánka obsahuje len účastníka, ktorému je posielaná. Identita ostatných účastníkov ostáva utajená.">
 
 <!-- Keyboard Shortcuts -->
@@ -138,9 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Napísať e-mail pre nerozhodnutých účastníkov…">
 <!ENTITY event.email.tentative.attendees.accesskey        "N">
-<!ENTITY event.remove.attendees.label                     "Odstrániť všetkých účastníkov...">
+<!ENTITY event.remove.attendees.label2                    "Odstrániť všetkých účastníkov">
 <!ENTITY event.remove.attendees.accesskey                 "O">
 <!ENTITY event.remove.attendee.label                      "Odstrániť účastníka">
+<!ENTITY event.remove.attendee.accesskey                  "d">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Uložiť a zavrieť">
@@ -168,7 +171,7 @@
 <!ENTITY event.calendar.label                             "Kalendár:" >
 <!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Účastníci:" >
-<!ENTITY event.attendees.accesskey                        "a" >
+<!ENTITY event.attendees.accesskey                        "a">
 <!ENTITY event.alldayevent.label                          "Celodenná udalosť" >
 <!ENTITY event.alldayevent.accesskey                      "e">
 <!ENTITY event.from.label                                 "Začiatok:" >
