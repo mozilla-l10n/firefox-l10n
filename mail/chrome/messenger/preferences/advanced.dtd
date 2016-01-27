@@ -104,7 +104,7 @@
 <!ENTITY enableOCSP.label                "Send forespørgsel til OCSP responder-servere for at bekræfte certifikaters aktuelle gyldighed">
 <!ENTITY enableOCSP.accesskey            "e">
 
-<!ENTITY viewCertificates.label         "Vis certifikater">
-<!ENTITY viewCertificates.accesskey     "c">
+<!ENTITY manageCertificates.label "Håndter certifikater">
+<!ENTITY manageCertificates.accesskey "c">
 <!ENTITY viewSecurityDevices.label      "Sikkerhedsmoduler">
 <!ENTITY viewSecurityDevices.accesskey  "S">
