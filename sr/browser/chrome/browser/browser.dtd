@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Додаци">
 <!ENTITY addons.accesskey             "Д">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Апликације">
-<!ENTITY webapps.accesskey            "и">
-<!ENTITY loopMenuItem.label           "Започни разговор…">
-<!ENTITY loopMenuItem.accesskey       "З">
 
 <!ENTITY webDeveloperMenu.label       "Програмер">
 <!ENTITY webDeveloperMenu.accesskey   "г">
@@ -752,7 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ова страница се складишти на рачунару.">
 <!ENTITY identity.connectionVerified1 "Безбедно сте повезани на овај сајт, којим управља:">
 <!ENTITY identity.connectionInternal "Ово је безбедна &brandShortName; страница.">
-<!ENTITY identity.insecureLoginForms "Ваша пријава је можда угрожена.">
+<!ENTITY identity.insecureLoginForms2 "Пријаве које су унесене на овој страници су можда угрожене.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; је блокирао делове странице које нису безбедне.">
@@ -936,10 +932,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "Н">
 <!ENTITY emeNotificationsDontAskAgain.label       "Немој ме поново питати">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "е">
-
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-<!ENTITY saveToPocketCmd.label     "Сними страницу у Pocket">
-<!ENTITY saveToPocketCmd.accesskey "с">
-<!ENTITY saveLinkToPocketCmd.label     "Сними везу у Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "в">
-<!ENTITY pocketMenuitem.label      "Прикажи Pocket листу">
