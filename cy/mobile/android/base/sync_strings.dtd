@@ -154,7 +154,7 @@
 <!ENTITY fxaccount_create_account_month_of_birth "Mis">
 <!ENTITY fxaccount_create_account_year_of_birth "Blwyddyn geni">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Wrth barhau, Rwy\u0027n cytuno i &formatS1; a &formatS2; gwasanaethau ar-lein Firefox.">
+<!ENTITY fxaccount_create_account_policy_text2 "Wrth barhau, rwy\u0027n cytuno i &formatS1; a &formatS2; gwasanaethau ar-lein Firefox.">
 <!ENTITY fxaccount_create_account_button "Nesaf">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Dewis beth i\u0027w gydweddu">
 <!ENTITY fxaccount_create_account_sign_in_instead "Cyfrif yn barod? Mewngofnodi">
