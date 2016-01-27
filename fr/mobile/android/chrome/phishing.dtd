@@ -24,4 +24,4 @@
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Site bloqué">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "La page web à l'adresse <span id='forbidden_sitename'/> a été bloqué par votre profil administrateur.">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "La page web à l'adresse <span id='forbidden_sitename'/> a été bloquée par votre profil administrateur.">
