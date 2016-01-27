@@ -11,8 +11,8 @@
      -->
 <!ENTITY cmd.show.label                            "Oscail an Fillteán Coinneála">
 <!ENTITY cmd.show.accesskey                        "F">
-<!ENTITY cmd.showMac.label                         "Taispeáin Sa Finder">
-<!ENTITY cmd.showMac.accesskey                     "F">
+<!ENTITY cmd.showMac.label                         "Taispeáin San Aimsitheoir">
+<!ENTITY cmd.showMac.accesskey                     "A">
 <!ENTITY cmd.open.label                            "Oscail">
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "Bain ón Stair">
