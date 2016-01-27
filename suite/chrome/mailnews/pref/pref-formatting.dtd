@@ -6,13 +6,12 @@
 <!ENTITY sendMaildesc.label           "Ak odosielate správu vo formáte HTML a jeden alebo viacerí adresáti nie sú schopní prijímať správy v tomto formáte:">
 <!ENTITY askMe.label                  "Opýtať sa (program požiada o výber formátu)">
 <!ENTITY askMe.accesskey              "O">
-<!ENTITY convertPlain.label           "Konvertovať na textovú správu (strata formátovania)">
-<!ENTITY convertPlain.accesskey       "K">
-<!ENTITY sendHTML.label               "Odoslať vo formáte HTML (niektoré poštové programy nie sú schopné toto zobraziť)">
-<!ENTITY sendHTML.accesskey           "m">
-<!ENTITY sendBoth.label               "Odoslať ako HTML aj ako textovú správu (väčšia správa)">
-<!ENTITY sendBoth.accesskey           "L">
-<!ENTITY override.label               "Pri písaní jednotlivých správ môžete tieto nastavenia zmeniť pomocou ponuky Nástroje.">
+<!ENTITY convertPlain2.label          "Konvertovať na správu vo formáte čistý text (stratí sa formátovanie)">
+<!ENTITY convertPlain2.accesskey      "K">
+<!ENTITY sendHTML2.label              "Odoslať správu vo formáte HTML (môže spôsobiť problémy so zobrazením)">
+<!ENTITY sendHTML2.accesskey          "m">
+<!ENTITY sendBoth2.label              "Odoslať ako HTML aj ako textovú správu (väčšia veľkosť správy)">
+<!ENTITY sendBoth2.accesskey          "L">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "Textové domény a domény HTML">
@@ -37,3 +36,7 @@
 <!ENTITY domainnameError.title        "Chyba názvu domény">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label      "Názov domény @string@ nie je platný a bude ignorovaný. Platné názvy domén musia obsahovať aspoň jeden znak '.' a nejaké znaky vľavo aj vpravo od neho.">
+
+<!-- Global auto-detect switch -->
+<!ENTITY autoDowngrade.label          "Automaticky odoslať správu ako čistý text, ak nie je prítomné žiadne významné formátovanie (prepisuje iné možnosti)">
+<!ENTITY autoDowngrade.accesskey      "u">
