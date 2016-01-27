@@ -8,54 +8,56 @@
 
 <!ENTITY dialogCompose.title                 "Písanie správ">
 
-<!ENTITY forwardMsg.label                    "Správy odosielať ďalej:">
-<!ENTITY forwardMsg.accesskey                "S">
-<!ENTITY inline.label                        "V texte">
-<!ENTITY asAttachment.label                  "Ako príloha">
-<!ENTITY addExtension.label                  "Pridať príponu k názvu súboru">
-<!ENTITY addExtension.accesskey              "d">
+<!ENTITY forwardMsg.label                     "Správy odosielať ďalej:">
+<!ENTITY forwardMsg.accesskey                 "S">
+<!ENTITY inline.label                         "V texte">
+<!ENTITY asAttachment.label                   "Ako príloha">
+<!ENTITY addExtension.label                   "Pridať príponu k názvu súboru">
+<!ENTITY addExtension.accesskey               "d">
 
-<!ENTITY htmlComposeHeader.label             "Správy vo formáte HTML">
-<!ENTITY font.label                          "Písmo:">
-<!ENTITY font.accesskey                      "P">
-<!ENTITY size.label                          "Veľkosť:">
-<!ENTITY size.accesskey                      "e">
-<!ENTITY fontColor.label                     "Farba textu:">
-<!ENTITY fontColor.accesskey                 "F">
-<!ENTITY bgColor.label                       "Farba pozadia:">
-<!ENTITY bgColor.accesskey                   "z">
-<!ENTITY restoreHTMLDefaults.label           "Obnoviť predvolené">
-<!ENTITY restoreHTMLDefaults.accesskey       "O">
+<!ENTITY htmlComposeHeader.label              "Správy vo formáte HTML">
+<!ENTITY font.label                           "Písmo:">
+<!ENTITY font.accesskey                       "P">
+<!ENTITY size.label                           "Veľkosť:">
+<!ENTITY size.accesskey                       "e">
+<!ENTITY fontColor.label                      "Farba textu:">
+<!ENTITY fontColor.accesskey                  "F">
+<!ENTITY bgColor.label                        "Farba pozadia:">
+<!ENTITY bgColor.accesskey                    "z">
+<!ENTITY restoreHTMLDefaults.label            "Obnoviť predvolené">
+<!ENTITY restoreHTMLDefaults.accesskey        "O">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Pri použití formátu odsekov, klávesou Enter vytvoríte nový odsek">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "m">
 
-<!ENTITY spellCheck.label                    "Kontrolovať pravopis pred odoslaním">
-<!ENTITY spellCheck.accesskey                "K">
-<!ENTITY spellCheckInline.label              "Povoliť kontrolu pravopisu počas písania">
-<!ENTITY spellCheckInline1.accesskey         "o">
-<!ENTITY languagePopup.label                 "Jazyk:">
-<!ENTITY languagePopup.accessKey             "a">
-<!ENTITY downloadDictionaries.label          "Prevziať ďalšie slovníky">
+<!ENTITY spellCheck.label                     "Kontrolovať pravopis pred odoslaním">
+<!ENTITY spellCheck.accesskey                 "K">
+<!ENTITY spellCheckInline.label               "Povoliť kontrolu pravopisu počas písania">
+<!ENTITY spellCheckInline1.accesskey          "o">
+<!ENTITY languagePopup.label                  "Jazyk:">
+<!ENTITY languagePopup.accessKey              "a">
+<!ENTITY downloadDictionaries.label           "Prevziať ďalšie slovníky">
 
-<!ENTITY warnOnSendAccelKey.label            "Žiadať potvrdenie pri odosielaní správy pomocou klávesovej skratky">
-<!ENTITY warnOnSendAccelKey.accesskey        "v">
-<!ENTITY autoSave.label                      "Automaticky ukladať každých">
-<!ENTITY autoSave.accesskey                  "A">
-<!ENTITY autoSaveEnd.label                   "minút">
+<!ENTITY warnOnSendAccelKey.label             "Žiadať potvrdenie pri odosielaní správy pomocou klávesovej skratky">
+<!ENTITY warnOnSendAccelKey.accesskey         "v">
+<!ENTITY autoSave.label                       "Automaticky ukladať každých">
+<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSaveEnd.label                    "minút">
 
-<!ENTITY emailCollectionPicker.label         "Adresy odosielaných e-mailov automaticky pridať do:">
-<!ENTITY emailCollectionPicker.accesskey     "o">
-<!ENTITY addressingTitle.label               "Automatické dokončovanie adries">
-<!ENTITY autocompleteText.label              "Pri určovaní adries správ hľadať zodpovedajúce položky v:">
-<!ENTITY addressingEnable.label              "Lokálne adresáre">
-<!ENTITY addressingEnable.accesskey          "L">
-<!ENTITY directories.label                   "Adresárový server:">
-<!ENTITY directories.accesskey               "A">
-<!ENTITY directoriesNone.label               "žiadny">
-<!ENTITY editDirectories.label               "Upraviť adresáre…">
-<!ENTITY editDirectories.accesskey           "U">
+<!ENTITY emailCollectionPicker.label           "Adresy odosielaných e-mailov automaticky pridať do:">
+<!ENTITY emailCollectionPicker.accesskey       "o">
+<!ENTITY addressingTitle.label                 "Automatické dokončovanie adries">
+<!ENTITY autocompleteText.label                "Pri určovaní adries správ hľadať zodpovedajúce položky v:">
+<!ENTITY addressingEnable.label                "Lokálne adresáre">
+<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY directories.label                     "Adresárový server:">
+<!ENTITY directories.accesskey                 "A">
+<!ENTITY directoriesNone.label                 "žiadny">
+<!ENTITY editDirectories.label                 "Upraviť adresáre…">
+<!ENTITY editDirectories.accesskey             "U">
 
-<!ENTITY sendOptionsDescription.label        "Konfigurácia správania formátovania textov">
-<!ENTITY sendOptions.label                   "Nastavenie odosielania…">
-<!ENTITY sendOptions.accesskey               "N">
+<!ENTITY sendOptionsDescription.label          "Konfigurácia správania formátovania textov">
+<!ENTITY sendOptions.label                     "Nastavenie odosielania…">
+<!ENTITY sendOptions.accesskey                 "N">
 
 <!ENTITY attachmentReminder.label              "Kontrolovať, či v správe nechýba príloha">
 <!ENTITY attachmentReminder.accesskey          "c">
