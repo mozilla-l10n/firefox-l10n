@@ -43,7 +43,7 @@
 
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
-
+<!ENTITY addDevice.showMeHow.label          "Tak'utu' chi nuwäch achike rub'eyal.">
 
 
 
@@ -56,8 +56,8 @@
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY existingRecoveryKey.description "Yatikïr nak&apos;ül jun ruwachib&apos;al ri ewan atzij richin yakolon toaq yatok pa Taq rucha&apos;oj &syncBrand.shortName.label; pa awokisaxel, chuqa&apos; nacha&apos;  &quot;Ewan nutzij richin yikolon&quot; chupam ri &quot;Tisamajïx taqoya&apos;l&quot;.">
 
-
-
+<!ENTITY resetPassword.label          "Titzolïx ewan tzij">
+<!ENTITY resetSyncKey.label           "Xinsäch ri jun chik wokisaxel.">
 <!-- Sync Options -->
 
 

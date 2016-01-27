@@ -749,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Re ruxaq k'amaya'l re' yakon pan akematz'ib'.">
 <!ENTITY identity.connectionVerified1 "Ütz ri awokem pa re ruxaq k'amaya'l re', samajib'en ruma:">
 <!ENTITY identity.connectionInternal "Re re' ütz chi &brandShortName; ruxaq.">
-
+<!ENTITY identity.insecureLoginForms2 "Kitikirib'al taq molojri'ïl etz'ib'an pa re ruxaq k'amaya'l re' rik'in jub'a' ye'itzelan.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; xuq'ät ri  taq ruperaj man e ütz ta chi re re ruxaq re.">
