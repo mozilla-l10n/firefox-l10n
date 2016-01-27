@@ -749,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "यो पृष्ठ तपाईँको कम्प्युटरमा भण्डारण छ।">
 <!ENTITY identity.connectionVerified1 "यो साइटमा तपाईँको जडान सुरक्षित छ, संचालक:">
 <!ENTITY identity.connectionInternal "यो सुरक्षित &brandShortName; पाना हो।">
-
+<!ENTITY identity.insecureLoginForms2 "यस पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; यस पृष्ठका असुरक्षित भागहरू अवरुद्ध गरिएको छ।">
