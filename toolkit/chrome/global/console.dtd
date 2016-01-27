@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY errorConsole.title "კონსოლის შეცდომა">
+<!ENTITY errorConsole.title "შეცდომების კონსოლი">
 
-<!ENTITY errFile.label   "საწყისი ფაილი:">
+<!ENTITY errFile.label   "წყაროს ფაილი:">
 <!ENTITY errLine.label   "სტრიქონი:">
 <!ENTITY errColumn.label "სვეტი:">
 
@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "ანალიზი">
 <!ENTITY evaluate.accesskey "v">
-
-
+<!ENTITY filter2.label      "ფილტრი:">
+<!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "კოპირება">  
 <!ENTITY copyCmd.accesskey   "C"> 
