@@ -10,6 +10,8 @@
 <!ENTITY convertPlain2.accesskey      "C">
 <!ENTITY sendHTML2.label              "Envie a mensagem apenas como HTML (pode causar problemas de exibição)">
 <!ENTITY sendHTML2.accesskey          "E">
+<!ENTITY sendBoth2.label              "Envie a mensagem como texto sem formatação e HTML">
+<!ENTITY sendBoth2.accesskey          "n">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "Ao enviar emails para um dos domínios abaixo">
@@ -36,3 +38,5 @@
 <!ENTITY invalidEntryError.label      "O nome de domínio @string@ é inválido e será ignorado. Nomes de domínio válidos requerem ao menos um '.' e possuir caracteres em ambos os lados.">
 
 <!-- Global auto-detect switch -->
+<!ENTITY autoDowngrade.label          "Automaticamente, enviar a mensagem como texto sem formatação, se nenhuma formatação significativa estiver presente (substitui outras opções)">
+<!ENTITY autoDowngrade.accesskey      "o">
