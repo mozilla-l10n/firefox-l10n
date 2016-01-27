@@ -11,16 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Gör den mobila webbupplevelsen verkligen din egen.">
 
 <!ENTITY firstrun_urlbar_message "Välkommen till &brandShortName;">
-
+<!ENTITY firstrun_urlbar_subtext "Hitta saker snabbare med hjälpsamma sökförslag genvägar.">
 <!ENTITY firstrun_bookmarks_title "Historik">
 
-
+<!ENTITY firstrun_bookmarks_subtext "Få resultat från dina bokmärken och historik då du söker.">
 <!ENTITY firstrun_data_title "Data">
-
-
+<!ENTITY firstrun_data_message "Mindre data, mer sparat">
+<!ENTITY firstrun_data_subtext "Blockera bilder för att spendera mindre data på varje hemsida du besöker.">
 <!ENTITY firstrun_sync_title "Sync">
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, alltid vid din sida ">
+<!ENTITY firstrun_sync_subtext "Synka dina flikar, lösenord och mer överallt där du använder dom.">
 
 <!ENTITY firstrun_signin_button "Logga in till Sync">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
@@ -598,7 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Säker anslutning">
 <!ENTITY identity_connection_insecure "Osäker anslutning">
 <!ENTITY identity_login_insecure "Denna sida är inte säker din inloggning kan vara sårbar.">
-
+<!ENTITY identity_connection_chromeui "Detta är en säker &brandShortName; sida">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; har blockerat osäkra komponenter på sidan.">
@@ -754,7 +754,7 @@ från Android">
 <!ENTITY restrictable_feature_advanced_settings_description "Detta inkluderar importera bokmärken, återställa flikar och automatiska uppdateringar. Stäng av förenklade inställningar som är lämpliga för alla familjemedlemar.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Tillåter familjemedlemmar att engagera sig i realtids kommunikation på hemsidor.">
-
+<!ENTITY restrictable_feature_block_list "Blockeringslista">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
