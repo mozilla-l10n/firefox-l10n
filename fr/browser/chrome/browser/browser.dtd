@@ -746,7 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY identity.connectionFile "Cette page est stockée sur votre ordinateur.">
 <!ENTITY identity.connectionVerified1 "Vous êtes connecté de façon sécurisée à ce site, dont le détenteur est :">
 <!ENTITY identity.connectionInternal "Ceci est une page sécurisée de &brandShortName;.">
-<!ENTITY identity.insecureLoginForms2 "Les identifiants saisis sur cette pages pourraient être compromis.">
+<!ENTITY identity.insecureLoginForms2 "Les identifiants saisis sur cette page pourraient être compromis.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; a bloqué des éléments non sécurisés sur cette page.">
