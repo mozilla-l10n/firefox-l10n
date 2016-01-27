@@ -32,8 +32,10 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
+<!ENTITY event.attendees.notify.label               "أعلم الحضور">
+<!ENTITY event.attendees.notify.accesskey           "ح">
 <!ENTITY event.attendees.notifyundisclosed.label    "دعوة منفصلة لكل حاضر">
-
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "ع">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "هذا الخيار يرسل رسالة دعوة واحدة لكل حاضر. كل دعوة تحتوي فقط على الحاضر المتلقي للدعوة بحيث لا يُفصح عن هويات الحضور الأخرى.">
 <!-- Keyboard Shortcuts -->
 
@@ -103,8 +105,8 @@
 
 <!ENTITY  event.menu.options.label                            "خيارات">
 <!ENTITY  event.menu.options.accesskey                        "خ">
-
-
+<!ENTITY  event.menu.options.attendees.label                  "ادع الحضور…">
+<!ENTITY  event.menu.options.attendees.accesskey              "د">
 <!ENTITY  event.menu.options.timezone2.label                  "أظهر المناطق الزمنية">
 <!ENTITY  event.menu.options.timezone2.accesskey              "ط">
 <!ENTITY  event.menu.options.priority2.label                  "الأولويّة">
@@ -132,15 +134,16 @@
 <!ENTITY  event.menu.options.show.time.free.label             "متفرغ">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "ف">
 
-
+<!ENTITY event.invite.attendees.label                     "ادع الحضور…">
+<!ENTITY event.invite.attendees.accesskey                 "د">
 <!ENTITY event.email.attendees.label                      "اكتب بريدا إلكترونيا إلى كل الحضور…">
 <!ENTITY event.email.attendees.accesskey                  "ك">
 <!ENTITY event.email.tentative.attendees.label            "اكتب بريدا إلكترونيا إلى الحضور المترددين…">
 <!ENTITY event.email.tentative.attendees.accesskey        "د">
-
-
-
-
+<!ENTITY event.remove.attendees.label2                    "أزل كل الحضور">
+<!ENTITY event.remove.attendees.accesskey                 "ز">
+<!ENTITY event.remove.attendee.label                      "أزل الحاضر">
+<!ENTITY event.remove.attendee.accesskey                  "ل">
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "احفظ و أغلق">
@@ -167,24 +170,24 @@
 <!ENTITY event.categories.textbox.label                   "أضف فئة جديدة" >
 <!ENTITY event.calendar.label                             "التقويم:" >
 <!ENTITY event.calendar.accesskey                         "ت">
-
-
+<!ENTITY event.attendees.label                            "الحضور" >
+<!ENTITY event.attendees.accesskey                        "ض">
 <!ENTITY event.alldayevent.label                          "حدث طوال اليوم" >
 <!ENTITY event.alldayevent.accesskey                      "ط">
-
-
-
-
+<!ENTITY event.from.label                                 "البداية:" >
+<!ENTITY event.from.accesskey                             "د">
+<!ENTITY task.from.label                                  "البداية:" >
+<!ENTITY task.from.accesskey                              "د">
 <!ENTITY event.to.label                                   "النهاية:" >
-
+<!ENTITY event.to.accesskey                               "ت">
 <!ENTITY task.to.label                                    "تاريخ الاستحقاق:" >
 <!ENTITY task.to.accesskey                                "ق">
 <!ENTITY task.status.label                                "الحالة:" >
 <!ENTITY task.status.accesskey                            "ح">
 <!ENTITY event.repeat.label                               "كرر:" >
 <!ENTITY event.repeat.accesskey                           "ك">
-
-
+<!ENTITY event.until.label                                "حتى:">
+<!ENTITY event.until.accesskey                            "ت">
 <!ENTITY event.reminder.label                             "ذكرني به:" >
 <!ENTITY event.reminder.accesskey                         "ذ">
 <!ENTITY event.description.label                          "الوصف:" >
