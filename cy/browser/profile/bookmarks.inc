@@ -64,7 +64,7 @@
 # link title for https://www.mozilla.org/en-US/contribute/
 
 
-#define firefox_community Cyfrannu
+#define firefox_community Cyfranogi
 
 
 # LOCALIZATION NOTE (firefox_about):
