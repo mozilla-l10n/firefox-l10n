@@ -28,6 +28,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Starší ping &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Surové ping údaje...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Týždeň">
 
@@ -55,6 +56,8 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "Neskoré zápisy">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Informácia o relácii">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "Histogramy zozbierané doplnkami">
 

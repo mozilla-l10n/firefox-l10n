@@ -162,6 +162,9 @@
 <p>Tieto typy falošných stránok sa používajú na podvody, pri ktorých sa kombináciou webovej stránky a e-mailových správ napodobňujú dôveryhodné zdroje.</p>
 ">
 
+<!ENTITY forbiddenBlocked.title "Zakázaná stránka">
+<!ENTITY forbiddenBlocked.longDesc "<p>Aplikácia &brandShortName; zabránila v načítaní tejto stránky, pretože je nastavené jej blokovanie.</p>">
+
 <!ENTITY cspBlocked.title "Blokované kvôli zásadám ochrany obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 

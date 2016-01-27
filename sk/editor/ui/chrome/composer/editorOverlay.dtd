@@ -13,7 +13,6 @@
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Prilepiť ako">
 <!ENTITY pasteAs.accesskey "a">
-
 <!ENTITY pasteAsQuotationCmd.label "Prilepiť ako citáciu">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -83,20 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "Veľkosť">
 <!ENTITY fontSizeMenu.accesskey "k">
-<!ENTITY size-xx-smallCmd.label "Najmenšie">
-<!ENTITY size-xx-smallCmd.accesskey "N">
-<!ENTITY size-x-smallCmd.label "Menšie">
-<!ENTITY size-x-smallCmd.accesskey "M">
+<!ENTITY size-tinyCmd.label "Veľmi malé">
+<!ENTITY size-tinyCmd.accesskey "V">
 <!ENTITY size-smallCmd.label "Malé">
-<!ENTITY size-smallCmd.accesskey "l">
+<!ENTITY size-smallCmd.accesskey "a">
 <!ENTITY size-mediumCmd.label "Stredné">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "Veľké">
 <!ENTITY size-largeCmd.accesskey "k">
-<!ENTITY size-x-largeCmd.label "Väčšie">
-<!ENTITY size-x-largeCmd.accesskey "V">
-<!ENTITY size-xx-largeCmd.label "Najväčšie">
-<!ENTITY size-xx-largeCmd.accesskey "a">
+<!ENTITY size-extraLargeCmd.label "Veľmi veľké">
+<!ENTITY size-extraLargeCmd.accesskey "m">
+<!ENTITY size-hugeCmd.label "Obrovské">
+<!ENTITY size-hugeCmd.accesskey "O">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Štýl textu">
@@ -148,7 +145,7 @@
 
 <!ENTITY paragraphMenu.label "Odstavec">
 <!ENTITY paragraphMenu.accesskey "O">
-<!ENTITY paragraphParagraphCmd.label "Odstavec">
+<!ENTITY paragraphParagraphCmd.label "Odstavec">  
 <!ENTITY paragraphParagraphCmd.accesskey "O">
 <!ENTITY heading1Cmd.label "Nadpis 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -225,6 +222,7 @@
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabuľka">
 <!ENTITY tableMenu.accesskey "T">
+
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Označiť">
 <!ENTITY tableSelectMenu.accesskey "i">
@@ -270,7 +268,7 @@
 <!ENTITY tableDeleteMenu.label "Odstrániť">
 <!ENTITY tableDeleteMenu.accesskey "r">
 
-<!-- text for "Join Cells" is in editor.properties
+<!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Vyberte farbu pre označený text">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nastaviť veľkosť písma">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Zmenšiť písmo">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Zväčšiť písmo">
 <!ENTITY boldToolbarCmd.tooltip "Nastaviť označený alebo nový text ako tučný">
@@ -329,19 +328,19 @@
 <!ENTITY alignJustifyButton.tooltip "Zarovnať text podľa pravého a ľavého okraja">
 
 <!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label "Vybrať">
-<!ENTITY structSelect.accesskey "V">
-<!ENTITY structRemoveTag.label "Odstrániť značku">
-<!ENTITY structRemoveTag.accesskey "O">
-<!ENTITY structChangeTag.label "Zmeniť značku">
-<!ENTITY structChangeTag.accesskey "m">
+<!ENTITY structSelect.label         "Vybrať">
+<!ENTITY structSelect.accesskey     "V">
+<!ENTITY structRemoveTag.label      "Odstrániť značku">
+<!ENTITY structRemoveTag.accesskey  "O">
+<!ENTITY structChangeTag.label      "Zmeniť značku">
+<!ENTITY structChangeTag.accesskey  "m">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label "Vložiť">
-<!ENTITY insertTOC.accesskey "V">
-<!ENTITY updateTOC.label "Aktualizovať">
-<!ENTITY updateTOC.accesskey "A">
-<!ENTITY removeTOC.label "Odstrániť">
-<!ENTITY removeTOC.accesskey "O">
-<!ENTITY tocMenu.label "Obsah">
-<!ENTITY tocMenu.accesskey "s">
+<!ENTITY insertTOC.label          "Vložiť">
+<!ENTITY insertTOC.accesskey      "V">
+<!ENTITY updateTOC.label          "Aktualizovať">
+<!ENTITY updateTOC.accesskey      "A">
+<!ENTITY removeTOC.label          "Odstrániť">
+<!ENTITY removeTOC.accesskey      "O">
+<!ENTITY tocMenu.label            "Obsah">
+<!ENTITY tocMenu.accesskey        "s">
