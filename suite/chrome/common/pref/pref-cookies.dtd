@@ -32,11 +32,6 @@
 <!ENTITY acceptforNDays.accesskey       "c">
 <!ENTITY days.label                     "dní">
 
-<!ENTITY warnAboutCookies.label         "Opýtať sa pri každom cookie">
-<!ENTITY warnAboutCookies.accesskey     "O">
-<!ENTITY forCurrentSession.label        "Okrem cookies relácie">
-<!ENTITY forCurrentSession.accesskey    "r">
-
 <!ENTITY manageCookies.label            "Správa cookies a stránok">
 <!ENTITY manageCookiesDescription.label "Povoliť zobrazenie a správu uložených cookies na základe povolenia alebo odmietnutia pre konkrétny server. Nastavenie pre konkrétny server má vyššiu prioritu ako nastavenia uvedené vyššie.">
 
