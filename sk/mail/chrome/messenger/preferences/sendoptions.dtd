@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Nastavenia pre odosielanie">
 <!ENTITY sendMail.title               "Formát textu">
+<!ENTITY autoDowngrade.label          "Ak je to možné, odosielať správy vo formáte čistý text">
+<!ENTITY autoDowngrade.accesskey      "x">
 <!ENTITY sendMaildesc.label           "Ak odosielate správu vo formáte HTML a jeden alebo viacerí adresáti nie sú schopní prijímať správy v tomto formáte:">
 <!ENTITY askMe.label                  "Opýtať sa">
 <!ENTITY askMe.accesskey              "O">

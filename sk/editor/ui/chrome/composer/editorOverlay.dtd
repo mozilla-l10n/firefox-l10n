@@ -83,9 +83,9 @@
 <!ENTITY fontSizeMenu.label "Veľkosť">
 <!ENTITY fontSizeMenu.accesskey "k">
 <!ENTITY size-tinyCmd.label "Veľmi malé">
-<!ENTITY size-tinyCmd.accesskey "v">
+<!ENTITY size-tinyCmd.accesskey "V">
 <!ENTITY size-smallCmd.label "Malé">
-<!ENTITY size-smallCmd.accesskey "l">
+<!ENTITY size-smallCmd.accesskey "a">
 <!ENTITY size-mediumCmd.label "Stredné">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "Veľké">
@@ -93,7 +93,7 @@
 <!ENTITY size-extraLargeCmd.label "Veľmi veľké">
 <!ENTITY size-extraLargeCmd.accesskey "m">
 <!ENTITY size-hugeCmd.label "Obrovské">
-<!ENTITY size-hugeCmd.accesskey "o">
+<!ENTITY size-hugeCmd.accesskey "O">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Štýl textu">

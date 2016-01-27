@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
@@ -63,9 +63,9 @@
 <!ENTITY renameFolder.accesskey "r">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Vykonať údržbu priečinkov">
-<!ENTITY compactFolders.accesskey "V">
+<!ENTITY compactFolders.accesskey    "V">
 <!ENTITY emptyTrashCmd.label "Vyprázdniť kôš">
-<!ENTITY emptyTrashCmd.accesskey "i">
+<!ENTITY emptyTrashCmd.accesskey    "i">
 <!ENTITY offlineMenu.label "Režim offline">
 <!ENTITY offlineMenu.accesskey "f">
 <!ENTITY offlineGoOfflineCmd.label "Pracovať v režime offline">
@@ -338,20 +338,20 @@
 <!ENTITY cancelNewsMsgCmd.accesskey "r">
 <!ENTITY replyMsgCmd.label "Odpovedať">
 <!ENTITY replyMsgCmd.accesskey "d">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Odpovedať odosielateľovi">
 <!ENTITY replySenderCmd.accesskey "d">
 <!ENTITY replyNewsgroupCmd2.label "Reagovať do diskusnej skupiny">
 <!ENTITY replyNewsgroupCmd2.accesskey  "o">
 <!ENTITY replyToAllMsgCmd.label "Odpovedať všetkým">
-<!ENTITY replyToAllMsgCmd.accesskey "m">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "m">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Odpovedať zoznamu">
 <!ENTITY replyToListMsgCmd.accesskey  "v">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Odoslať ďalej">
 <!ENTITY forwardMsgCmd.accesskey "l">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Odoslať ďalej ako">
 <!ENTITY forwardAsMenu.accesskey "a">
 <!ENTITY forwardAsInline.label "Súčasť textu">
@@ -486,7 +486,7 @@
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Nastavenie účtov">
 <!ENTITY accountManagerCmd2.accesskey "N">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd.label,
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Povoliť vzdialené ladenie">
@@ -607,10 +607,6 @@
 <!ENTITY folderContextGetMessages.accesskey "a">
 <!ENTITY folderContextOpenInNewWindow.label "Otvoriť v novom okne">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
 <!ENTITY folderContextOpenNewTab.label "Otvoriť na novej karte">
 <!ENTITY folderContextOpenNewTab.accesskey "t">
 <!ENTITY folderContextNew.label "Nový podpriečinok…">
@@ -708,6 +704,10 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otvoriť správu v novom okne">
 <!ENTITY contextOpenNewWindow.accesskey "m">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Otvoriť správu na novej karte">
 <!ENTITY contextOpenNewTab.accesskey "k">
 <!ENTITY contextOpenConversation.label "Otvoriť správu ako konverzáciu">
@@ -816,7 +816,7 @@
      not changed
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (search.label.base):
+<!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box.  We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
@@ -825,7 +825,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Hľadať… #1">
+<!ENTITY search.label.base1 "Hľadať #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -854,6 +854,8 @@
 <!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Kopírovať e-mailovú adresu">
 <!ENTITY CopyEmailAddress.accesskey "K">
+<!ENTITY CopyNameAndEmailAddress.label "Kopírovať meno a e-mailovú adresu">
+<!ENTITY CopyNameAndEmailAddress.accesskey "m">
 <!ENTITY CopyNewsgroupName.label "Kopírovať názov diskusnej skupiny">
 <!ENTITY CopyNewsgroupName.accesskey "K">
 <!ENTITY CopyNewsgroupURL.label "Kopírovať adresu diskusnej skupiny">
@@ -897,7 +899,7 @@
 <!ENTITY zoomWindow.label "Lupa">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label        "Možnosti">
+<!ENTITY preferencesCmdMac2.label       "Možnosti">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Služby">
