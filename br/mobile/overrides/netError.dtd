@@ -168,8 +168,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL a-bell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "N'haller ket kennaskañ outi ent diarvar">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Titouroù kempleshoc'h : SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "N'eo ket diarvar ho kennask">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Titouroù kempleshoc'h : SSL_ERROR_NO_CYPHER_OVERLAP">
