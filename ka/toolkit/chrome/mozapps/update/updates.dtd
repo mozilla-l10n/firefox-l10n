@@ -74,6 +74,12 @@
 <!ENTITY  errorpatching.intro             "ნაწილობრივი განახლება შეუძლებელია. 
 &brandShortName; კვლავ შეეცდება სრული განახლების გადმოტვირთვის გზით.">
 
+<!ENTITY  genericBackgroundError.label    "&brandShortName;-მა ვერ შეძლო დაედგინა ხელმისაწვდომია თუ არა განახლება. გთხოვთ
+                                           დარწმუნდით, რომ &brandShortName;-ის ბოლო ვერსი გაქვთ, მდებარეობიდან:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "რაღაც &brandShortName;-ს უსაფრთხო განახლებაში ხელს უშლის.
+                                           გთხოვთ დარწმუნდით, რომ &brandShortName;-ის ბოლო ვერსი გაქვთ, მდებარეობიდან:">
+<!ENTITY  errorCertAttrHasUpdate.label    "რაღაც ცდილობს &brandShortName;-ს უსაფრთხო განახლება
+                                           დააყენებინოს. გთხოვთ დაუკავშირდით თქვენს ქსელის მომწოდებელს და მოითხოვეთ დახმარება.">
 
 <!ENTITY  finishedPage.title              "განახლება მზადაა ჩასადგმელად">
 <!ENTITY  finishedPage.text               "განახლება ჩაიდგმება &brandShortName; შემდეგ სეანსზე. შეგიძლიათ დახუროთ და ხელახლა 
