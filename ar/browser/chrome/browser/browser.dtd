@@ -749,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "هذه الصفحة مخزنة على حاسوبك.">
 <!ENTITY identity.connectionVerified1 "تتصل بأمان مع هذا الموقع، و الذي يديره:">
 <!ENTITY identity.connectionInternal "هذه صفحة &brandShortName; آمنة.">
-
+<!ENTITY identity.insecureLoginForms2 "معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "منع &brandShortName; الأجزاء غير الآمنة من هذه الصفحة.">
