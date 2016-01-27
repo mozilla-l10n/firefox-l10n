@@ -22,7 +22,7 @@
 <!ENTITY firstrun_sync_message "&brandShortName;, doimo siz tomonda">
 <!ENTITY firstrun_sync_subtext "Ichki oyna, parol va boshqa kerakli xususiyatlarni hamma joyda foydalanish uchun sinxronlashingiz mumkin.">
 <!ENTITY firstrun_signin_message "Ulaning va boshlang">
-
+<!ENTITY firstrun_signin_button "Sinxronlash uchun tizimga kiring">
 <!ENTITY  onboard_start_button_browser "Ko‘rishni boshlash">
 <!ENTITY firstrun_button_next "Keyingi">
 
@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Siz uni keyinroq Sozlamalar’dan o‘zgartirishingiz mumkin">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Boshqa ilova dasturlar bilan solishtirish imkoniyatini yoqing">
 <!ENTITY tab_queue_prompt_positive_action_button "Yoqib qo‘yilgan">
 <!ENTITY tab_queue_prompt_negative_action_button "Hozir emas">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Sozlamalarga o‘ting">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
