@@ -31,8 +31,8 @@
 <!ENTITY importBookmarksFromHTML.accesskey "K">
 
 
-
-
+<!ENTITY importOtherBrowser.label          "Kek'am pe ri tzij richin Another Browser">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Tiwachib'ëx…">
 <!ENTITY cmd.backup.accesskey           "T">
@@ -63,7 +63,7 @@
 <!ENTITY cmd.properties.accesskey  "a">
 
 
-
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 
 <!ENTITY cmd.new_folder.label              "K'ak'a' yakwuj…">

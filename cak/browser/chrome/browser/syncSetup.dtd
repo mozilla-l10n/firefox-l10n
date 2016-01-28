@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- First page of the wizard -->
 
-
+<!ENTITY button.haveAccount.label      "K'o chik jun nutaqoya'l">
 
 
 <!ENTITY setup.choicePage.existing2.label "Tajin chik ninwokisaj &syncBrand.shortName.label; pa jun chik okisaxel">
@@ -12,11 +12,13 @@
 
 
 
-
-
+<!ENTITY signIn.password.label      "Ewan tzij">
+<!ENTITY signIn.password.accesskey  "E">
 
 
 <!-- New Account Page 1: Basic Account Info -->
+
+<!ENTITY setup.newAccountDetailsPage.title.label "Retal ri taqoya'l">
 
 
 
