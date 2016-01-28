@@ -1,11 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "გვერდის პარამეტრები">
 
+<!ENTITY basic.tab           "ფორმატი და პარამეტრები">
 
 <!ENTITY formatGroup.label   "ფორმატი">
 
@@ -17,15 +18,17 @@
 
 <!ENTITY scale.label         "მასშტაბი:">
 <!ENTITY scale.accesskey     "S">
-
+<!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "შემჭიდროება გვერდის სიგანეზე">
 <!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label  "ოპციები">
 
+<!ENTITY printBG.label       "">
+<!ENTITY printBG.accesskey   "B">
 
-
+<!ENTITY advanced.tab        "მინდვრები და ზედა კოლონტიტული/Footer">
 
 <!ENTITY marginGroup.label   "საზღვრები (#1)">
 <!ENTITY marginUnits.inches  "დუიმი">
@@ -39,6 +42,7 @@
 <!ENTITY marginRight.label   "მარჯვენა:">
 <!ENTITY marginRight.accesskey "R">
 
+<!ENTITY headerFooter.label  "ზედა და ქვედა კოლონტიტულები">
 
 <!ENTITY hfLeft.label        "მარცხენა:">
 <!ENTITY hfCenter.label      "შუა:">

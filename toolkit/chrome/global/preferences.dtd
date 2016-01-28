@@ -4,6 +4,6 @@
 
 <!ENTITY  windowClose.key                         "w">
 <!ENTITY  preferencesDefaultTitleMac.title        "პარამეტრები">
-
+<!ENTITY  preferencesDefaultTitleWin.title        "პარამეტრები">
 <!ENTITY  preferencesCloseButton.label            "დახურვა">
 <!ENTITY  preferencesCloseButton.accesskey        "C">
