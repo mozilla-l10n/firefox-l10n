@@ -32,8 +32,8 @@ was trying to connect. -->
 <!ENTITY certerror.expert.contentPara2 "कोई अपवाद मत जोड़ें जब तक आप 
 नहीं जानते हैं कि क्यों यह साइट भरोसेमंद पहचान का प्रयोग नहीं करता है.">
 <!ENTITY certerror.addException.label "अपवाद जोड़ें…">
+<!ENTITY certerror.copyToClipboard.label "काटपट पाठ की नक़ल करें">
 
-
-
-
-
+<!ENTITY errorReporting.sending "रिपोर्ट भेजी जा रही है">
+<!ENTITY errorReporting.sent "रिपोर्ट भेजा गया">
+<!ENTITY errorReporting.tryAgain "फिर कोशिश करें">
