@@ -216,4 +216,5 @@
 <!ENTITY simulator_screenSize "Obrazovka">
 <!ENTITY simulator_pixelRatio "Pomer bodov">
 <!ENTITY simulator_tv_data "Simulácia TV">
+<!ENTITY simulator_tv_data_open "Údaje configu">
 <!ENTITY simulator_tv_data_open_button "Otvorí priečinok configu">

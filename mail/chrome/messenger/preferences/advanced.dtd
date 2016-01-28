@@ -2,14 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label              "Všeobecné">
-<!ENTITY dataChoicesTab.label           "Odosielanie údajov">
-<!ENTITY itemUpdate.label               "Aktualizácie">
-<!ENTITY itemNetworking.label           "Sieť a miesto na disku">
-<!ENTITY itemCertificates.label         "Certifikáty">
+<!ENTITY itemGeneral.label       "Všeobecné">
+<!ENTITY dataChoicesTab.label    "Odosielanie údajov">
+<!ENTITY itemUpdate.label        "Aktualizácie">
+<!ENTITY itemNetworking.label    "Sieť a miesto na disku">
+<!ENTITY itemCertificates.label  "Certifikáty">
 
 <!-- General Settings -->
-
 <!ENTITY enableGlodaSearch.label       "Povoliť globálne vyhľadávanie a indexovanie správ">
 <!ENTITY enableGlodaSearch.accesskey   "o">
 <!ENTITY allowHWAccel.label            "Použiť hardvérové urýchľovanie (ak je dostupné)">
@@ -25,19 +24,19 @@
 <!ENTITY useSmoothScrolling.label      "Použiť plynulý posun">
 <!ENTITY useSmoothScrolling.accesskey  "n">
 
-<!ENTITY systemIntegration.label        "Integrácia so systémom">
-<!ENTITY alwaysCheckDefault.label       "Pri štarte kontrolovať, či je &brandShortName; predvoleným poštovým klientom">
-<!ENTITY alwaysCheckDefault.accesskey   "k">
-<!ENTITY searchIntegration.label        "Umožniť službe &searchIntegration.engineName; prehľadávať správy">
-<!ENTITY searchIntegration.accesskey    "U">
+<!ENTITY systemIntegration.label       "Integrácia so systémom">
+<!ENTITY alwaysCheckDefault.label      "Pri štarte kontrolovať, či je &brandShortName; predvoleným poštovým klientom">
+<!ENTITY alwaysCheckDefault.accesskey  "k">
+<!ENTITY searchIntegration.label       "Umožniť službe &searchIntegration.engineName; prehľadávať správy">
+<!ENTITY searchIntegration.accesskey   "U">
 <!ENTITY checkDefaultsNow.label        "Skontrolovať…">
 <!ENTITY checkDefaultsNow.accesskey    "S">
-<!ENTITY configEditDesc.label           "Pokročilé nastavenia">
-<!ENTITY configEdit.label               "Editor nastavení…">
-<!ENTITY configEdit.accesskey           "E">
-<!ENTITY returnReceiptsInfo.label       "Zistiť ako &brandShortName; spracováva potvrdenia o prečítaní">
-<!ENTITY showReturnReceipts.label       "Potvrdenia o prečítaní…">
-<!ENTITY showReturnReceipts.accesskey   "P">
+<!ENTITY configEditDesc.label          "Pokročilé nastavenia">
+<!ENTITY configEdit.label              "Editor nastavení…">
+<!ENTITY configEdit.accesskey          "E">
+<!ENTITY returnReceiptsInfo.label      "Zistiť ako &brandShortName; spracováva potvrdenia o prečítaní">
+<!ENTITY showReturnReceipts.label      "Potvrdenia o prečítaní…">
+<!ENTITY showReturnReceipts.accesskey  "P">
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetria">
@@ -69,14 +68,14 @@
 <!ENTITY useService.accesskey            "k">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label             "Nastavenia…">
-<!ENTITY showSettings.accesskey         "N">
-<!ENTITY proxiesConfigure.label         "Nastaviť spôsob, akým sa &brandShortName; pripája k sieti Internet">
-<!ENTITY connectionsInfo.caption        "Pripojenie">
-<!ENTITY offlineInfo.caption            "Režim offline">
-<!ENTITY offlineInfo.label              "Konfigurácia nastavení režimu offline">
-<!ENTITY showOffline.label              "Nastavenia…">
-<!ENTITY showOffline.accesskey          "a">
+<!ENTITY showSettings.label            "Nastavenia…">
+<!ENTITY showSettings.accesskey        "N">
+<!ENTITY proxiesConfigure.label        "Nastaviť spôsob, akým sa &brandShortName; pripája k sieti Internet">
+<!ENTITY connectionsInfo.caption       "Pripojenie">
+<!ENTITY offlineInfo.caption           "Režim offline">
+<!ENTITY offlineInfo.label             "Konfigurácia nastavení režimu offline">
+<!ENTITY showOffline.label             "Nastavenia…">
+<!ENTITY showOffline.accesskey         "a">
 
 <!ENTITY Diskspace                       "Miesto na disku">
 <!ENTITY offlineCompactFolders.label     "Vykonať údržbu všetkých priečinkov, ak sa celkovo ušetrí aspoň">
@@ -104,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Aktuálnu platnosť certifikátov overovať na serveroch OCSP">
 <!ENTITY enableOCSP.accesskey            "A">
 
-<!ENTITY viewCertificates.label         "Certifikáty">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewSecurityDevices.label      "Zariadenia">
-<!ENTITY viewSecurityDevices.accesskey  "Z">
+<!ENTITY manageCertificates.label "Spravovať certifikáty">
+<!ENTITY manageCertificates.accesskey "S">
+<!ENTITY viewSecurityDevices.label "Zariadenia">
+<!ENTITY viewSecurityDevices.accesskey "Z">
