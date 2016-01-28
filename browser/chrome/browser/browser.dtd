@@ -1,4 +1,4 @@
-	<!-- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -167,7 +167,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Підписатися на цю сторінку">
 <!ENTITY subscribeToPageMenuitem.label "Підписатися на цю сторінку…">
 <!ENTITY addCurPagesCmd.label "Закласти всі вкладки…">
-<!ENTITY showAllBookmarks2.label "Показати всі закладки">
+<!ENTITY showAllBookmarks2.label "Показати всі вкладки">
 <!ENTITY unsortedBookmarksCmd.label "Несортовані закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показати інші закладки">
 
@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Додатки">
 <!ENTITY addons.accesskey             "Д">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Програми">
-<!ENTITY webapps.accesskey            "П">
-<!ENTITY loopMenuItem.label           "Почати розмову…">
-<!ENTITY loopMenuItem.accesskey       "П">
 
 <!ENTITY webDeveloperMenu.label       "Веб-розробка">
 <!ENTITY webDeveloperMenu.accesskey   "р">
@@ -752,7 +748,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ця сторінка збережена на вашому комп'ютері.">
 <!ENTITY identity.connectionVerified1 "Ви підключились через захищене з'єднання до цього сайту, яке керується:">
 <!ENTITY identity.connectionInternal "Це захищена сторінка &brandShortName;.">
-<!ENTITY identity.insecureLoginForms "Ваш вхід може бути скомпрометований.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблокував незахищечні частини цієї сторінки.">
@@ -936,10 +931,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "е">
 <!ENTITY emeNotificationsDontAskAgain.label       "Не питати знову">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "п">
-
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-<!ENTITY saveToPocketCmd.label     "Зберегти сторінку в Pocket">
-<!ENTITY saveToPocketCmd.accesskey "б">
-<!ENTITY saveLinkToPocketCmd.label     "Зберегти посилання в Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "о">
-<!ENTITY pocketMenuitem.label      "Перегляд списку Pocket">
