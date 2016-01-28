@@ -4,7 +4,7 @@
 
 <!ENTITY event.title.label                  "Embann an elfenn" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Mirout ar pad pa vez kemmet an deiziad dibenn">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Mirout ar pad pa vez kemmet an termen">
 <!ENTITY event.dialog.keepDurationButton.accesskey "M">
 
 <!ENTITY newevent.from.label                "A-berzh" >
@@ -117,7 +117,7 @@
 <!ENTITY  event.menu.options.priority.high.accesskey          "U">
 <!ENTITY  event.menu.options.privacy.label                    "Dangelez">
 <!ENTITY  event.menu.options.privacy.accesskey                "D">
-<!ENTITY  event.menu.options.privacy.public.label             "Darvoud Foran">
+<!ENTITY  event.menu.options.privacy.public.label             "Darvoud foran">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "D">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Diskouez an eur hag an deiziad hepken">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "i">
@@ -297,7 +297,7 @@
 <!ENTITY event.recurrence.yearly.every.label                 "Bep">
 <!ENTITY event.recurrence.yearly.first.label                 "Ar c'hentañ">
 <!ENTITY event.recurrence.yearly.second.label                "An eil">
-<!ENTITY event.recurrence.yearly.third.label                 "An drede">
+<!ENTITY event.recurrence.yearly.third.label                 "An trede">
 <!ENTITY event.recurrence.yearly.fourth.label                "Ar pevare">
 <!ENTITY event.recurrence.yearly.fifth.label                 "Ar pempvet">
 <!ENTITY event.recurrence.yearly.last.label                  "An diwezhañ">
@@ -310,69 +310,69 @@
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Sadorn" >
 <!ENTITY event.recurrence.pattern.yearly.day.label           "deiz" >
 <!ENTITY event.recurrence.of.label                           "eus" >
-<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Genver" >
-<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "C'hwevrer" >
-<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Meurzh" >
-<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Ebrel" >
-<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Mae" >
-<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Mezheven" >
-<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Gouere" >
-<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Eost" >
-<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Gwengolo" >
-<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Here" >
-<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Du" >
-<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Kerzu" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "miz Genver" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "miz C'hwevrer" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "miz Meurzh" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "miz Ebrel" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "miz Mae" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "miz Even" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "miz Gouhere" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "miz Eost" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "miz Gwengolo" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "miz Here" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "miz Du" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "miz Kerzu" >
 
-<!ENTITY event.recurrence.range.label                   "Ledad an adkrogadennoù">
-<!ENTITY event.recurrence.forever.label                 "Deiziad echuiñ ebet" >
+<!ENTITY event.recurrence.range.label                   "Betek pegoulz?">
+<!ENTITY event.recurrence.forever.label                 "Termen ebet" >
 <!ENTITY event.recurrence.repeat.for.label              "Krouiñ" >
-<!ENTITY event.recurrence.appointments.label            "Emgav(ioù)" >
-<!ENTITY event.repeat.until.label                       "Adkregiñ betek" >
-<!ENTITY event.recurrence.preview.label                 "Rakwelet">
+<!ENTITY event.recurrence.appointments.label            "emgav" >
+<!ENTITY event.repeat.until.label                       "Betek" >
+<!ENTITY event.recurrence.preview.label                 "Alberz">
 <!-- Attendees dialog -->
 
 <!ENTITY invite.title.label                     "Pediñ perzhidi">
 <!ENTITY event.organizer.label                  "Aozer">
-<!ENTITY event.freebusy.suggest.slot            "Kinnig ur gavael amzer :">
-<!ENTITY event.freebusy.button.next.slot        "Gavael goude">
-<!ENTITY event.freebusy.button.previous.slot    "Gavael a-raok">
-<!ENTITY event.freebusy.zoom                    "Zoum :">
+<!ENTITY event.freebusy.suggest.slot            "Kinnig ur pennad amzer:">
+<!ENTITY event.freebusy.button.next.slot        "Pennad goude">
+<!ENTITY event.freebusy.button.previous.slot    "Pennad kent">
+<!ENTITY event.freebusy.zoom                    "Zoum:">
 <!ENTITY event.freebusy.legend.free             "Dieub" >
 <!ENTITY event.freebusy.legend.busy             "Ac'hubet" >
 
-<!ENTITY event.freebusy.legend.busy_unavailable "Maez ar vurev" >
+<!ENTITY event.freebusy.legend.busy_unavailable "N'emañ ket eno" >
 <!ENTITY event.freebusy.legend.unknown          "Titour ebet" >
-<!ENTITY event.attendee.role.required           "Perzhiad azgoulennet">
-<!ENTITY event.attendee.role.optional           "Perzhiad diret">
-<!ENTITY event.attendee.role.chair              "Kador">
-<!ENTITY event.attendee.role.nonparticipant     "Nann perzhiad-ez">
-<!ENTITY event.attendee.usertype.individual     "Hiniennel">
-<!ENTITY event.attendee.usertype.group          "Strollad">
+<!ENTITY event.attendee.role.required           "Perzhiad rekis">
+<!ENTITY event.attendee.role.optional           "Perzhiad diuzadel">
+<!ENTITY event.attendee.role.chair              "Kadoriad">
+<!ENTITY event.attendee.role.nonparticipant     "anperzhiad">
+<!ENTITY event.attendee.usertype.individual     "Hinienn">
+<!ENTITY event.attendee.usertype.group          "Stroll">
 <!ENTITY event.attendee.usertype.resource       "Loaz">
 <!ENTITY event.attendee.usertype.room           "Sal">
 
 <!-- Timezone dialog -->
 
-<!ENTITY timezone.title.label            "Erspizait ar Maez Eureier Mar-plij">
-<!ENTITY event.timezone.custom.label     "Muioc'h a gwerzhidi-eur...">
+<!ENTITY timezone.title.label            "Erspizit ar gennad-eur, mar plij">
+<!ENTITY event.timezone.custom.label     "Muioc'h a c'hennadoù-eur...">
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label         "Hollek">
-<!ENTITY read.only.title.label           "Titl :">
-<!ENTITY read.only.event.start.label     "Deiziad Deraouiñ :">
-<!ENTITY read.only.task.start.label      "Deiziad Deraouiñ :">
-<!ENTITY read.only.event.end.label       "Deiziad ar fin :">
-<!ENTITY read.only.task.due.label        "Deiziad Dleet :">
-<!ENTITY read.only.repeat.label          "Adlenn :">
-<!ENTITY read.only.location.label        "Lec'hiadur :">
-<!ENTITY read.only.category.label        "Rummad :">
-<!ENTITY read.only.organizer.label       "Aozer :">
-<!ENTITY read.only.reply.label           "Respont :">
+<!ENTITY read.only.title.label           "Titl:">
+<!ENTITY read.only.event.start.label     "Eus:">
+<!ENTITY read.only.task.start.label      "Eus:">
+<!ENTITY read.only.event.end.label       "Betek:">
+<!ENTITY read.only.task.due.label        "Termen:">
+<!ENTITY read.only.repeat.label          "Arren:">
+<!ENTITY read.only.location.label        "Lec'hiadur:">
+<!ENTITY read.only.category.label        "Rummad:">
+<!ENTITY read.only.organizer.label       "Aozer:">
+<!ENTITY read.only.reply.label           "Respont:">
 <!ENTITY read.only.accept.label          "Kemer a rin perzh">
 <!ENTITY read.only.decline.label         "Ne gemerin ket perzh">
-<!ENTITY read.only.tentative.label       "Mont a rin marteze">
+<!ENTITY read.only.tentative.label       "E c'hellfen kemer perzh">
 <!ENTITY read.only.needs.action.label    "Kadarnaat a rin diwezhatoc'h">
-<!ENTITY read.only.reminder.label        "Adgalv :">
+<!ENTITY read.only.reminder.label        "Koun:">
 <!ENTITY read.only.attendees.label       "Perzhidi">
 <!ENTITY read.only.description.label     "Deskrivadur">
-<!ENTITY read.only.link.label            "Liamm kar">
+<!ENTITY read.only.link.label            "Ere kar">

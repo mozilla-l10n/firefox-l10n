@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Barenn ostilhoù an deiziataer">
-<!ENTITY lightning.toolbar.calendar.name.accesskey "d">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "D">
 <!ENTITY lightning.toolbar.task.name "Barenn ostilhoù an trevelloù">
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
