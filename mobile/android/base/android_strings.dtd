@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "Velkommen">
 <!ENTITY  onboard_start_message3 "På nettet med &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Gør dit mobile internet til dit eget.">
-<!ENTITY  onboard_start_button_account "Log ind på &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "Velkommen til &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Find tingene hurtigere ved hjælp af søgeforslag.">
+<!ENTITY firstrun_bookmarks_title "Historik">
+<!ENTITY firstrun_bookmarks_message "Nem adgang til dine favorit-websteder">
+<!ENTITY firstrun_bookmarks_subtext "Få resultater fra dine bogmærker og din historik, når du søger.">
+<!ENTITY firstrun_data_title "Data">
+<!ENTITY firstrun_data_message "Færre data, hurtigere internet">
+<!ENTITY firstrun_data_subtext "Blokér billeder, så der skal hnetes færre data fra de besøgte sider.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, altid på din side">
+<!ENTITY firstrun_sync_subtext "Synkroniser dine faneblade, adgangskoder mm. så du altid har dem hos dig.">
+<!ENTITY firstrun_signin_message "Bliv forbundet, start">
+<!ENTITY firstrun_signin_button "Log ind på Sync">
 <!ENTITY  onboard_start_button_browser "Start surfing">
 <!ENTITY firstrun_button_next "Næste">
 
 <!ENTITY  onboard_start_restricted1 "Beskyt dig selv og bevar kontrollen med denne mere simple version af &brandShortName;.">
-
-<!ENTITY firstrun_import_title "Importer">
-<!ENTITY firstrun_import_message "Velkommen til &brandShortName;">
-<!ENTITY firstrun_import_subtext "Importer dine bogmærker og historik fra en anden browser.">
-<!ENTITY firstrun_import_action "Overfør til &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Overfør">
-<!ENTITY firstrun_import_progress_title "Overfører">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via wi-fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugging via wi-fi kræver, at din enhed har en app til skanning af QR-koder installeret.">
 <!ENTITY pref_remember_signons2 "Husk logins">
-<!ENTITY pref_open_external_urls_privately_title "Åbn links i privat browsing">
-<!ENTITY pref_open_external_urls_privately_summary "For alle eksterne links som åbnes i &brandShortName;">
 <!ENTITY pref_manage_logins "Håndter logins">
 
 <!ENTITY pref_category_home "Hjem">
@@ -245,8 +249,14 @@
 <!ENTITY tab_queue_prompt_title "Åbn flere links?">
 <!ENTITY tab_queue_prompt_text4 "Gem dem til næste gang, du åbner &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Du kan senere ændre dette i indstillingerne">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Aktiver Visning over andre apps">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktiver">
 <!ENTITY tab_queue_prompt_negative_action_button "Ikke nu">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Åbn indstillingerne">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +266,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 faneblad venter">
+
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Du skal aktivere tilladelsen \'Visning over andre apps\' i &brandShortName; for at kunne åbne flere links ad gangen.">
 
 <!ENTITY pref_char_encoding "Tegnkodning">
 <!ENTITY pref_char_encoding_on "Vis menu">
@@ -524,6 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Dine seneste faneblade vises her.">
 <!ENTITY home_open_all "Åbn alle">
 <!ENTITY home_most_recent_empty "Dine senest besøgte websteder vises her.">
+<!ENTITY home_selected_empty "Dine senest besøgte websteder i det valgte tidsrum vises her.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: Bruger du &formatS1;Nyt privat faneblad&formatS2; bliver din historik ikke gemt.">
@@ -532,10 +547,6 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint3 "Tip: Du kan gemme artikler til din læseliste ved at trykke og holde på ikonet &formatI;, når det vises i adressefeltet.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "Tip: Du kan gemme artikler til din læseliste ved at trykke og holde på Læser-knappen, når den vises i adressefeltet.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -594,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Sikker forbindelse">
 <!ENTITY identity_connection_insecure "Usikker forbindelse">
 <!ENTITY identity_login_insecure "Denne webside er ikke sikker, og dit login kan være sårbart.">
+<!ENTITY identity_connection_chromeui "Dette er en sikker &brandShortName;-webside">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; har blokeret usikkert indhold på denne webside.">
@@ -655,6 +667,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Opdatering tilgængelig til &brandShortName;">
 <!ENTITY updater_apply_select2 "Tryk for at opdatere">
+
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Du skal give &brandShortName; tilladelse til at tilgå lageret for at kunne hente filer og opdateringer.">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Tillad">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Ny gæstesession">
@@ -744,8 +763,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "Gør det muligt at importere bogmærker, gendanne faneblade og automatiske opdateringer.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Gør det muligt at deltage i video- og lydsamtaler på websteder.">
-<!ENTITY restrictable_feature_data_choices "Datadeling">
-<!ENTITY restrictable_feature_data_choices_description "Vælg, om du vil sende informationer om din brug af Firefox til Mozilla, så vi kan gøre programmet bedre.">
+<!ENTITY restrictable_feature_block_list "Blokeringsliste">
+<!ENTITY restrictable_feature_block_list_description "Bloker websteder, som indeholder følsomme oplysninger.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
