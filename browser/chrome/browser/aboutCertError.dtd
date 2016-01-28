@@ -29,3 +29,4 @@ pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifiká
 <!ENTITY certerror.expert.contentPara2 "Nepřidávejte výjimku, pokud si nejste jisti, že tento server má dobrý důvod nepoužívat důvěryhodnou identifikaci.">
 <!ENTITY certerror.addException.label "Přidat výjimku…">
 <!ENTITY certerror.copyToClipboard.label "Zkopírovat text do schránky">
+
