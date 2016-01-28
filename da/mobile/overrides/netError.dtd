@@ -71,6 +71,8 @@
 <!ENTITY notCached.longDesc "<p>Den forespurgte webside er ikke tilgængelig i cacheen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-tilstand">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Prøv igen. &brandShortName; vil forsøge at genindlæse websiden.
@@ -116,6 +118,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Kunne ikke finde proxyserveren">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
@@ -160,6 +164,8 @@
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Websiden kan være midlertidigt utilgængelig eller travlt optaget. Prøv igen om et øjeblik.</li>
@@ -171,6 +177,7 @@
 
 <!ENTITY cspBlocked.title "Blokeret grundet indholdssikkerhedspolitik">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindrede denne webside i at blive indlæst på denne måde da den har en indholdssikkerhedspolitik, der forbyder dette.</p>">
+
 <!ENTITY corruptedContentError.title "Fejlbehæftet indhold">
 <!ENTITY corruptedContentError.longDesc "<p>Websiden kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul>">
 
@@ -193,3 +200,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Kan ikke oprette sikker forbindelse">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Avanceret info: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Din forbindelse er ikke sikker">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Avanceret info: SSL_ERROR_NO_CYPHER_OVERLAP">
