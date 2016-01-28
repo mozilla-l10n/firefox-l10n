@@ -749,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Moɲoo woo n' ka jisandii war ordinateroo ga.">
 <!ENTITY identity.connectionVerified1 "War dobu nda saajaw nungoo woo ga, kaŋ ga dira nda:">
 <!ENTITY identity.connectionInternal "Woo ti &brandShortName; moo saajante.">
-
+<!ENTITY identity.insecureLoginForms2 "Huruyan šilbawey kaŋ goo moɲoo woo ši hima saajante.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; na moɲoo woo doo fooyaŋ kaŋ ši saajaw gagay.">
@@ -784,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "Ceecikaw nor lokey">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "Kanji hangantey">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
