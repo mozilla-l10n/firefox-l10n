@@ -207,7 +207,6 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Zjistit více…">
 <!ENTITY errorReporting.sending "Odesílání hlášení">
 <!ENTITY errorReporting.sent "Hlášení odesláno">
-<!ENTITY errorReporting.report "Hlášení">
 <!ENTITY errorReporting.tryAgain "Zkusit znovu">
 
 <!ENTITY remoteXUL.title "Vzdálené XUL">
