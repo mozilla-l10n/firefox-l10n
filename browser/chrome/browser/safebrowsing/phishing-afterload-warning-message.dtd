@@ -22,7 +22,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> 사이트는 보안 설정에 기반하여 차단되어진 위조 의심 사이트 입니다.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>웹 위조는 당신이 의심을 하지 못하도록 하기 위하여 당신이 자주 이용하는 사이트의 개인 또는 금융 정보를 입력하는 것처럼 설계를 합니다.</p><p>이 웹 페이지에 어떤 정보를 입력하는 것은 아주 위험한 행동입니다.</p>">
 
-<!ENTITY safeb.blocked.forbiddenPage.title "차단된 사이트">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "이 <span id='forbidden_sitename'/> 웹 페이지는 브라우저 설정에 의해 차단되었습니다.">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
