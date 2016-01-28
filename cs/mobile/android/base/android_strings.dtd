@@ -11,7 +11,9 @@
 <!ENTITY  onboard_start_subtext3 "Přizpůsobte si své mobilní prohlížení k obrazu svému.">
 
 <!ENTITY firstrun_urlbar_message "Vítá vás &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Najděte věci rychleji s pomocí užitečných návrhů vyhledávání.">
 <!ENTITY firstrun_bookmarks_title "Historie">
+<!ENTITY firstrun_bookmarks_message "Vše, co máte rádi, přímo na očích">
 <!ENTITY firstrun_bookmarks_subtext "Při vyhledávání získáváte výsledky ze záložek a historie.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Méně přenesených dat, větší úspora">
@@ -249,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Toto můžete změnit kdykoliv později v Nastavení">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Zapnout povolení pro vykreslování nad ostatní aplikace">
 <!ENTITY tab_queue_prompt_positive_action_button "Povolit">
 <!ENTITY tab_queue_prompt_negative_action_button "Nyní ne">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Přejít do Nastavení">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -265,6 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Pro &quot;Otevření více odkazů&quot; prosím zapněte \&apos;Vykreslování nad ostatní aplikace\&apos; pro &brandShortName;">
 
 <!ENTITY pref_char_encoding "Znaková sada">
 <!ENTITY pref_char_encoding_on "Zobrazit nabídku">
@@ -533,6 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Vaše poslední panely se ukáží zde.">
 <!ENTITY home_open_all "Otevřít vše">
 <!ENTITY home_most_recent_empty "Webové stránky, které jste nedávno navštívili, se zobrazí zde.">
+<!ENTITY home_selected_empty "Zde se zobrazují stránky navšívené ve zvoleném období.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Mimochodem: při používání &formatS1;Nový anonymní panel&formatS2; nebude vaše historie ukládána.">
@@ -595,6 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Zabezpečené připojení">
 <!ENTITY identity_connection_insecure "Nezabezpečené připojení">
 <!ENTITY identity_login_insecure "Tato stránka není zabezpečena a vaše přihlášení může být vyzrazeno.">
+<!ENTITY identity_connection_chromeui "Toto je zabezpečená stránka &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "Aplikace &brandShortName; zablokovala nezabezpečený obsah na této stránce.">
@@ -657,6 +664,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Pro stahování souborů a aktualizací povolte prohlížeči &brandShortName; přístup k úložišti.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Povolit">
 
