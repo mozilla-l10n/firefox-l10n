@@ -46,7 +46,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goToLineCmd.accesskey "Ա">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label           "Տեսքը">
+<!ENTITY viewMenu.label           "Տեսք">
 <!ENTITY viewMenu.accesskey       "Տ">
 <!ENTITY reloadCmd.label "Կրկին բեռնել">
 <!ENTITY reloadCmd.accesskey "Կ">

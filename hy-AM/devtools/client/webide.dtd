@@ -45,7 +45,7 @@
 <!ENTITY runtimeMenu_showSettings_label "Սարքի կարգավորումներ">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
-<!ENTITY viewMenu_label "Տեսքը">
+<!ENTITY viewMenu_label "Տեսք">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Փոխանջատել խմբագրիչը">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
