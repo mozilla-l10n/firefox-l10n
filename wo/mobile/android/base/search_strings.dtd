@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Seet ak'>
+
+<!ENTITY search_empty_message 'Seet gu gaw ci lépp loo bëgg'>
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Yokk ci bànqaasu ceet gi'>
+
+<!ENTITY search_pref_title 'Jekkal-jekkal'>
+<!ENTITY search_pref_button_content_description 'Jekkal-jekkal'>
+
+<!ENTITY pref_clearHistory_confirmation 'Neenal nañu jaar-jaar gi'>
+<!ENTITY pref_clearHistory_dialogMessage 'Far gépp jaar-jaaru ceet ci bii jumtukaay?'>
+<!ENTITY pref_clearHistory_title 'Far jaar-jaaru ceet gi'>
+
+<!ENTITY pref_searchProvider_title 'Jumtukaayu seet'>
+
+
+<!ENTITY network_error_title 'Lonkuwoo ci internet'>
