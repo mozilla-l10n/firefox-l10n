@@ -269,7 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "За "Отворите више веза", укључите "Draw over other apps" дозволу за &brandShortName;">
+<!ENTITY tab_queue_notification_settings "За “Отворите више веза”, укључите “Draw over other apps” дозволу за &brandShortName;">
 
 <!ENTITY pref_char_encoding "Кодирање карактера">
 <!ENTITY pref_char_encoding_on "Прикажи мени">
