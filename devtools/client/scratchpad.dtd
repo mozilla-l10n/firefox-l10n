@@ -50,7 +50,7 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "Փ">
 
-<!ENTITY viewMenu.label               "Տեսքը">
+<!ENTITY viewMenu.label               "Տեսք">
 <!ENTITY viewMenu.accesskey           "Տ">
 
 <!ENTITY lineNumbers.label             "Ցուցադրել տողի համարները">

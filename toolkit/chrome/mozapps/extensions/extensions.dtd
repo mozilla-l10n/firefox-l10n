@@ -70,7 +70,7 @@
 <!ENTITY updates.updating.label               "Հավելումները թարմացվում են">
 <!ENTITY updates.installed.label              "Ձեր հավելումը թարմացվեց:">
 <!ENTITY updates.downloaded.label             "Ձեր հավելումների թարմացումները բեռնվել են:">
-<!ENTITY updates.restart.label                "Վերամեկնարկեք` տեղակայումը գործարկելու համար">
+<!ENTITY updates.restart.label                "Վերամեկնարկեք` տեղադրումը ավարտելու համար">
 <!ENTITY updates.noneFound.label              "Թարմացում չի գտնվել">
 <!ENTITY updates.manualUpdatesFound.label     "Տեսնել Առկա Թարմացումները">
 <!ENTITY updates.updateSelected.label         "Տեղադրել Թարմացումները">

@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Բացել &syncBrand.shortName.label;-ի կարգավորումները">
 <!ENTITY fxaSignInError.label "Վերակապակցվել &syncBrand.shortName.label;ին">
 <!ENTITY fxaUnverified.label "Ստուգել հաշիվը">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; միացրած է">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; միացված է">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName;-ը միանգամից կհամաժամեցնի:">
 
 
@@ -376,7 +376,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Տեսքը"> 
+<!ENTITY viewMenu.label         "Տեսք"> 
 <!ENTITY viewMenu.accesskey       "Տ"> 
 <!ENTITY viewToolbarsMenu.label       "Գործիքագոտիներ"> 
 <!ENTITY viewToolbarsMenu.accesskey     "Գ"> 
