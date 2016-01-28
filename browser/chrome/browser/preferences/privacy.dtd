@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  doNotTrack.pre.label          "Pode também ">
-<!ENTITY  doNotTrack.settings.label     "gerir as suas definições de não-monitorização">
+<!ENTITY  doNotTrack.settings.label     "gerir as suas definições Do Not Track">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Histórico">
