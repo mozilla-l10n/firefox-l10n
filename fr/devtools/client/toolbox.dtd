@@ -59,6 +59,12 @@ values from browser.dtd.  -->
 <!ENTITY options.showUserAgentStyles.label "Afficher les styles du navigateur">
 <!ENTITY options.showUserAgentStyles.tooltip "Activer cette option affichera les styles par défaut chargés par le navigateur">
 
+<!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
+  -  for the checkbox option to enable collapse attributes in the Inspector
+  -  panel. -->
+<!ENTITY options.collapseAttrs.label "Tronquer les attributs DOM">
+<!ENTITY options.collapseAttrs.tooltip "Tronquer les longs attributs dans l'inspecteur">
+
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
