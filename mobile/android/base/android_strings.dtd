@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "Добродошли">
 <!ENTITY  onboard_start_message3 "Прегледавајте са &brandShortName;!">
 <!ENTITY  onboard_start_subtext3 "Учините искуство мобилног прегледања вашим.">
-<!ENTITY  onboard_start_button_account "Пријавите се на &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "Добродошли на &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Пронађите ствари брже са овим корисним скраћеницама.">
+<!ENTITY firstrun_bookmarks_title "Историјат">
+<!ENTITY firstrun_bookmarks_message "Ваше омиљене">
+<!ENTITY firstrun_bookmarks_subtext "Приказује резултате из ваших забелекши и историјата када претражујете.">
+<!ENTITY firstrun_data_title "Подаци">
+<!ENTITY firstrun_data_message "Мање података, више штедње">
+<!ENTITY firstrun_data_subtext "Блокирајте слике да потрошите мање података на сваком сајту који посећујете.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, увек уз вас">
+<!ENTITY firstrun_sync_subtext "Синхронизујте језичке, лозинке и још много тога.">
+<!ENTITY firstrun_signin_message "Повежите се, започните">
+<!ENTITY firstrun_signin_button "Пријави се на Sync">
 <!ENTITY  onboard_start_button_browser "Започните прегледање">
 <!ENTITY firstrun_button_next "Следеће">
 
 <!ENTITY  onboard_start_restricted1 "Останите безбедни и у контроли са поједностављеном &brandShortName; верзијом.">
-
-<!ENTITY firstrun_import_title "Увези">
-<!ENTITY firstrun_import_message "Добродошли на &brandShortName;">
-<!ENTITY firstrun_import_subtext "Увезите забелешке и историјат са другог прегледача.">
-<!ENTITY firstrun_import_action "Пренеси на &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Пренеси">
-<!ENTITY firstrun_import_progress_title "Преносим">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Отклањање грешака преко Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi отклањање грешака захтева да уређај има инсталиран читач QR кода.">
 <!ENTITY pref_remember_signons2 "Запамти пријаве">
-<!ENTITY pref_open_external_urls_privately_title "Отвори везе у приватном прегледању">
-<!ENTITY pref_open_external_urls_privately_summary "За све спољашње везе отворене у &brandShortName;">
 <!ENTITY pref_manage_logins "Управљање пријавама">
 
 <!ENTITY pref_category_home "Почетна">
@@ -245,8 +249,14 @@
 <!ENTITY tab_queue_prompt_title "Отворити више веза?">
 <!ENTITY tab_queue_prompt_text4 "Снимите их док следећи пут не отворите &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Ово можете променити касније у Поставкама">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Укључи Permit drawing преко других апликација"> 
 <!ENTITY tab_queue_prompt_positive_action_button "Омогући">
 <!ENTITY tab_queue_prompt_negative_action_button "Не сада">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Отвори поставке">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +266,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 језичак на чекању">
+
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "За &quot;Отворите више веза&quot;, укључите \'Draw over other apps\' дозволу за &brandShortName;">
 
 <!ENTITY pref_char_encoding "Кодирање карактера">
 <!ENTITY pref_char_encoding_on "Прикажи мени">
@@ -523,19 +537,12 @@ size. -->
 <!ENTITY home_last_tabs_title "Језичци из последње сесије">
 <!ENTITY home_last_tabs_empty "Ваши недавни језичци су приказани овде.">
 <!ENTITY home_open_all "Отвори све">
-<!ENTITY home_most_recent_empty "Веб сајтови које сте посетили су приказани овде.">
+<!ENTITY home_most_recent_empty "Веб сајтови које сте недавно посетили су приказани овде.">
+<!ENTITY home_selected_empty "Веб сајтови које сте посетили у одређеном временском периоду су приказани овде.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Псст: коришћење &formatS1; Нови приватан језичак&formatS2; неће снимити историјат.">
 <!ENTITY home_reading_list_empty "Чланци које сте сачували за касније су приказани овде.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "САВЕТ: Сачувајте чланке на листу за читање тако што ћете дуго притиснути иконицу &formatI; када се појави у URL траци.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "САВЕТ: Cачувајте чланке на листу за читање тако што ћете дуго притиснути дугме за режим за читање када се појави у URL траци.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -594,6 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Сигурна веза">
 <!ENTITY identity_connection_insecure "Несигурна веза">
 <!ENTITY identity_login_insecure "Ова страница није сигурна и ваша пријава је угрожена.">
+<!ENTITY identity_connection_chromeui "Ово је безбедна &brandShortName; страница">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; је блокирао несигури садржај на овој страници.">
@@ -655,6 +663,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Надоградња је доступна за &brandShortName;">
 <!ENTITY updater_apply_select2 "Притисните да надоградите">
+
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Да преузмете датотеке и надоградње, дозволите &brandShortName; да приступи складишту.">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Дозволи">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Нова сесија за госте">
@@ -744,8 +759,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "Ово садржи увоз забелешки, обнављање језичака и аутоматска ажурирања. Искључите за једноставније поставке које одговарају члановима породице.">
 <!ENTITY restrictable_feature_camera_microphone "Камера и микрофон">
 <!ENTITY restrictable_feature_camera_microphone_description "Дозвољава члановима породице да комуницирају у реалном времену на веб сајту.">
-<!ENTITY restrictable_feature_data_choices "Избор података">
-<!ENTITY restrictable_feature_data_choices_description "Изаберите да ли да шаљете податке о употреби Mozilla-и да нам помогнете да учинимо Firefox бољим.">
+<!ENTITY restrictable_feature_block_list "Листе блокираних елемената">
+<!ENTITY restrictable_feature_block_list_description "Блокирајте веб сајтове које садрже осетљив садржај.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
