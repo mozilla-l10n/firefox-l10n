@@ -200,17 +200,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Sukari goyyan juwal moɲoo woo ga">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Barmay wala war ga hin ka duu bangandiyaney nungoo ga">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "War bii nda/wala jindezaahaya žemnayanoo nda nungoo juwal">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "War goo ma war bii nda jindezaahayaa žemna nda nungoo">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "War jindezaahayaa žemnayanoo nda nungoo juwal">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "War goo ma war jindezaahayaa žemna nda nungo">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "War zanfuney nda dijey žemnayanoo nda nungoo juwal">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "War goo ma zanfun wala diji foo žemna nda nungoo">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Barmay wala nungoo ga hin ka cebekaa tugu">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Sinjiyan goyoo alhabaroo guna">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Moɲoo woo berandi">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Moo berandiyano juwal">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM goyjinay juwal alhakey juwal">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Taariki cebe">
 
 <!ENTITY searchItem.title             "Ceeci">
 <!-- Toolbar items --> 
@@ -324,16 +327,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Tuku"> 
 <!ENTITY fileMenu.accesskey       "T">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Adaka kanji taaga">
+<!ENTITY newUserContext.accesskey         "k">
+<!ENTITY userContextPersonal.label        "Boro boŋ se">
+<!ENTITY userContextPersonal.accesskey    "B">
+<!ENTITY userContextWork.label            "Goy">
+<!ENTITY userContextWork.accesskey        "G">
+<!ENTITY userContextBanking.label         "Banku goy">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Daydayyan">
+<!ENTITY userContextShopping.accesskey    "D">
 <!ENTITY newNavigatorCmd.label        "Zanfun taaga">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Z">
@@ -403,9 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Taariki ceraw zuu cebe">
 <!ENTITY appMenuHelp.tooltip "Faaba šilbayboŋ feeri">
 
-
+<!ENTITY appMenuRemoteTabs.label "Kanji hangantey">
+<!ENTITY appMenuRemoteTabs.fetching.label "Kanji hangantey kurma…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Kanji feerante kul šii">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown

@@ -34,6 +34,7 @@ war ga bay kaŋ adalil hennoo goo no, kaŋ se dogoo woo ši nda taamanssa naanay
 <!ENTITY certerror.addException.label "Lanbari tonton…">
 <!ENTITY certerror.copyToClipboard.label "Hantumoo berandi deeji-walhaa ga">
 
-
-
-
+<!ENTITY errorReporting.automatic "Firka taney bangandi ka Mozilla gaa ka dii nungey kaŋ hanse nda laybu">
+<!ENTITY errorReporting.sending "Ga bayrandi sanba">
+<!ENTITY errorReporting.sent "Bayrandoo sanbandi">
+<!ENTITY errorReporting.tryAgain "Ceeci koyne">
