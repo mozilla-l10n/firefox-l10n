@@ -114,7 +114,7 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Preguntarme siempre">
 <!ENTITY certs.ask.accesskey             "A">
-<!ENTITY enableOCSP.label                "Respuesta de la consulta OCSP los servidores confirman el validez actual de los certificados">
+<!ENTITY enableOCSP.label                "Respuesta de la consulta OCSP los servidores confirman la validez actual de los certificados">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Ver certificados">
 <!ENTITY viewCerts.accesskey             "C">
