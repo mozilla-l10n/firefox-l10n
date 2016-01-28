@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY  trackingProtectionHeader.label       "ट्रैकिंग सुरक्षा का उपयोग करें">
+<!ENTITY  trackingProtectionAlways.label       "हमेशा">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionPrivate.label      "नई निजी विंडो में खोलें">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionNever.label        "कभी नहीं">
+<!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "अधिक जानें">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "अपवाद…">
+<!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "ट्रैकिंग">
 <!ENTITY trackingProtectionPBM5.label         "निजी विंडोज में ट्रैकिंग सुरक्षा का उपयोग करें">

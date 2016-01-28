@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "जाँचें अगर आप अपना कूटशब्द सहेजना चाहते हों">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "सेवा स्थापन संदेश देखें.">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "इस पृष्ठ पर प्लगइन उपयोग प्रबंधन करें.">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "परिवर्तन करें ताकी आप साइटों से सूचनाएं प्राप्त कर सकते हैं">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "साइट के साथ अपने कैमरे और / या माइक्रोफोन बांटने की व्यवस्था प्रबंधित करें.">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "आप साइट के साथ अपना कैमरा और / या माइक्रोफोन साझा कर रहें हैं">
@@ -407,17 +407,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "सहायता मेनू खोलें">
 
 <!ENTITY appMenuRemoteTabs.label "सिंक किये हुए टैब्स">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "सिंक किये हुए टैब्स ढूँढें जा रहें है…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "कोई खुला टैब नहीं">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.openprefs.label "प्राथमिकताएँ सिंक कीजिए">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें">
+<!ENTITY appMenuRemoteTabs.signin.label "सिंक करने के लिए साइन इन करें">
 
 <!ENTITY customizeMenu.addToToolbar.label "औज़ार पट्टी में जोड़ें">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -781,6 +782,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label " ब्राउजर टैब">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "सिंक किये हुए टैब्स">
 
 <!ENTITY syncBrand.shortName.label    "सिंक">
 

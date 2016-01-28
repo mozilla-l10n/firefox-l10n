@@ -5,8 +5,8 @@
 <!ENTITY safeb.palm.accept.label "यहां से मुझे निकालें!">
 <!ENTITY safeb.palm.decline.label "इस चेतावनी को अनदेखा करें">
 <!ENTITY safeb.palm.notforgery.label2 "यह वेब धोखाधड़ी नहीं है…">
-
-
+<!ENTITY safeb.palm.reportPage.label "क्यों यह पृष्ठ रोका गया है?">
+<!ENTITY safeb.palm.whyForbidden.label "क्यों यह पृष्ठ रोका गया है?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -23,5 +23,6 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
 
+<!ENTITY safeb.blocked.forbiddenPage.title2 "रोका गया अद्यतन">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
