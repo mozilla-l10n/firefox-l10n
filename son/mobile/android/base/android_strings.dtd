@@ -666,7 +666,10 @@ Android ra">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Ka tukey nda taagandirey zumandi, naŋ &brandShortName; ma hin ka duu jišidogoo.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Noo fondo">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Yaw goywaati taaga">
@@ -747,7 +750,7 @@ Android ra">
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "Tontoney">
-
+<!ENTITY restrictable_feature_addons_installation_description "Alhaaliyaŋ wala goy sahã tonton Firefox ga. Yaamar: Tontoney ga hin ka jejebu fooyaŋ kaa.">
 <!ENTITY restrictable_feature_private_browsing "Sutura naarumi">
 
 <!ENTITY restrictable_feature_clear_history "Taarikoo tuusu">
