@@ -4,7 +4,7 @@
 
 <!ENTITY itemGeneral.label "Generelt">
 <!ENTITY dataChoicesTab.label    "Datadeling">
-<!ENTITY itemUpdate.label "Opdater">
+<!ENTITY itemUpdate.label "Opdateringer">
 <!ENTITY itemNetworking.label    "Netværk &amp; diskplads">
 <!ENTITY itemCertificates.label  "Certifikater">
 
@@ -65,7 +65,7 @@
 <!ENTITY updateHistory.label             "Vis opdateringshistorik">
 <!ENTITY updateHistory.accesskey         "V">
 
-<!ENTITY useService.label                "Installér opdateringer i baggrunden">
+<!ENTITY useService.label                "Brug en baggrundsservice til at installere opdateringer">
 <!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
