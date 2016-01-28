@@ -269,7 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Ak chcete \\&quot;otvoriť viacero odkazov naraz\\&quot;, povoľte oprávnenie \&apos;Vykresľovať nad ostatné aplikácie\&apos; pre &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Ak chcete \u0022otvoriť viacero odkazov naraz\u0022, povoľte pre &brandShortName; oprávnenie \&apos;Vykresľovať nad ostatné aplikácie\&apos;">
 
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobrazovať ponuku">
