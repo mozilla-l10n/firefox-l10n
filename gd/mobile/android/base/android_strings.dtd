@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "Dèan brabhsadh mobile air an lìon gu tur a-rèir do thoil fhèin.">
 
 <!ENTITY firstrun_urlbar_message "Fàilte gu &brandShortName;">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Faigh greim air rudan nas luaithe slighe ath-ghoiridean nam molaidhean luirg.">
+<!ENTITY firstrun_bookmarks_title "Eachdraidh">
+<!ENTITY firstrun_bookmarks_message "Na h-annsachdan agad ann an làn-fhollais">
+<!ENTITY firstrun_bookmarks_subtext "Faic toraidhean o na comharran-lìn is on eachdraidh agad nuair a nì thu lorg.">
+<!ENTITY firstrun_data_title "Dàta">
+<!ENTITY firstrun_data_message "Nas lugha de dhàta, caomhnadh nas motha">
+<!ENTITY firstrun_data_subtext "Bac dealbhan is lughdaich na chaitheas tu de dhàta air na lìon.">
 <!ENTITY firstrun_sync_title "Sioncronachadh">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, ri do thaobh-sa an-còmhnaidh">
+<!ENTITY firstrun_sync_subtext "Sioncronaich na tabaichean, faclan-faire ’s mòran a bharrachd ann.">
+<!ENTITY firstrun_signin_message "Dèan ceangal, dèan toiseach-tòiseachaidh">
+<!ENTITY firstrun_signin_button "Clàraich a-steach gun t-sioncronachadh">
 <!ENTITY  onboard_start_button_browser "Tòisich air brabhsadh">
 <!ENTITY firstrun_button_next "Air adhart">
 
@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "’S urrainn dhut seo atharrachadh sna roghainnean às a dhèidh seo">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Cuir air “Permit drawing over other apps”">
 <!ENTITY tab_queue_prompt_positive_action_button "Cuir an comas">
 <!ENTITY tab_queue_prompt_negative_action_button "Chan ann an-dràsta">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Rach gu na roghainnean">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 taba a’ feitheamh">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Mus urrainn dhut iomadh ceangal fhosgladh aig an aon àm, cuir an comas “Draw over other apps” a thaobh &brandShortName;">
 
 <!ENTITY pref_char_encoding "Còdachadh charactaran">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Nochdaidh tabaichean a bha agad o chionn goirid an-seo.">
 <!ENTITY home_open_all "Fosgail a h-uile">
 <!ENTITY home_most_recent_empty "Nochdaidh làraichean-lìn air an do thadhail thu o chionn goirid an-seo.">
-
+<!ENTITY home_selected_empty "Nochdaidh làraichean-lìn air an do thadhail thu san ùine a shònraich thu an-seo.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Cagar: ma chleachdas tu &formatS1;taba prìobhaideach ùr&formatS2;, cha dèid an eachdraidh agad a shàbhaladh.">
@@ -597,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ceangal tèarainte">
 <!ENTITY identity_connection_insecure "Ceangal nach eil tèarainte">
 <!ENTITY identity_login_insecure "Chan eil an duilleag seo tèarainte agus dh’fhaoidte gum bris cuideigin air a’ chlàradh agad.">
-
+<!ENTITY identity_connection_chromeui "’S e duilleag thèarainte &brandShortName; a tha seo">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "Bhac &brandShortName; susbaint air an duilleag seo nach eil tèarainte.">
@@ -621,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Chaidh an dàta prìobhaideach fhalamhadh">
 <!ENTITY private_data_fail "Cha b\u0027 urrainn dhuinn cuid dhen dàta phrìobhaideach fhalamhadh">
 
+<!ENTITY bookmarkhistory_button_import "Ion-phortaich">
 <!ENTITY bookmarkhistory_import_both "Ag ion-phortadh nan comharra-lìn 
 is na h-eachdraidh o Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Ag ion-phortadh nan comharra-lìn 
@@ -661,7 +666,10 @@ o Android">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Thoir cothrom air an stòras dha &brandShortName; airson faidhlichean is ùrachaidhean a luchdadh a-nuas.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Ceadaich">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Seisean aoigheachd ùr">
@@ -751,8 +759,8 @@ o Android">
 <!ENTITY restrictable_feature_advanced_settings_description "Tha seo a’ gabhail a‑staigh ion‑phortadh chomharran‑lìn, aiseag thabaichean is ùrachaidhean fèin‑obrachail. Cuir dheth seo airson roghainnean simplidh a chur an sàs a bhios iomchaidh do bhall sam bith dhen teaghlach.">
 <!ENTITY restrictable_feature_camera_microphone "An camara ⁊ am micreofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Bheir seo comas do bhuill an teaghlaich pàirt a ghabhail ann an conaltradh beò air làraichean‑lìn.">
-
-
+<!ENTITY restrictable_feature_block_list "An liosta-bhacaidh">
+<!ENTITY restrictable_feature_block_list_description "Bac làraichean-lìn air a bheil susbaint inbheach.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
