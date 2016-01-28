@@ -3,21 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "Não há espaço disponível suficiente para iniciar o &brandShortName;.">
-<!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar os arquivos necessários para executar o &brandShortName;">
+<!ENTITY  no_space_to_start_error "Não há espaço disponível para iniciar o &brandShortName;.">
+<!ENTITY  error_loading_file "Ocorreu um erro ao carregar os arquivos necessários para abrir o &brandShortName;">
 
 <!ENTITY firstrun_panel_title_welcome "Bem-vindo">
 <!ENTITY  onboard_start_message3 "Navegue com o &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Faça a sua experiência na web móvel verdadeiramente sua.">
+<!ENTITY  onboard_start_subtext3 "Faça de sua experiência na web móvel verdadeiramente sua.">
 
 <!ENTITY firstrun_urlbar_message "Bem-vindo ao &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Encontre as coisas mais rapidamente com os atalhos das sugestões de pesquisa.">
 <!ENTITY firstrun_bookmarks_title "Histórico">
 <!ENTITY firstrun_bookmarks_message "Completamente seu">
-<!ENTITY firstrun_bookmarks_subtext "Obtenha resultados dos favoritos e histórico quando pesquisar.">
+<!ENTITY firstrun_bookmarks_subtext "Obter resultados dos favoritos e histórico quando pesquisar.">
 <!ENTITY firstrun_data_title "Dados">
 <!ENTITY firstrun_data_message "Menos dados, mais economia">
-<!ENTITY firstrun_data_subtext "Bloquear imagens para gastar menos dados em todos os sites que visitar.">
+<!ENTITY firstrun_data_subtext "Bloqueie imagens para economizar dados em todos os sites que visitar.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
 <!ENTITY firstrun_sync_subtext "Sincronize sua abas, senhas e muito mais em todos os lugares que usá-lo.">
@@ -40,8 +40,8 @@
 <!ENTITY  crash_message2 "O &brandShortName; teve um problema e travou. Suas abas serão listadas na página inicial do &brandShortName; quando reiniciar.">
 <!ENTITY  crash_send_report_message3 "Notificar a &vendorShortName; sobre este travamento para que eles possam corrigi-lo">
 <!ENTITY  crash_include_url2 "Incluir o endereço da página onde eu estava">
-<!ENTITY  crash_sorry "Nos desculpe">
-<!ENTITY  crash_comment "Adicione um comentário (os comentários são públicos)">
+<!ENTITY  crash_sorry "Lamentamos">
+<!ENTITY  crash_comment "Adicione um comentário (será visível ao publico)">
 <!ENTITY  crash_allow_contact2 "Permitir que a &vendorShortName; contate-me sobre este relatório">
 <!ENTITY  crash_email "Seu e-mail">
 <!ENTITY  crash_closing_alert "Sair sem enviar um relatório de travamento?">
@@ -63,7 +63,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "Já existe nos favoritos">
+<!ENTITY bookmark_already_added "Já está nos favoritos">
 <!ENTITY bookmark_removed "Favorito removido">
 <!ENTITY bookmark_updated "Favorito atualizado">
 <!ENTITY bookmark_options "Opções">
@@ -90,7 +90,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; abas">
 <!ENTITY new_tab_opened "Nova aba aberta">
-<!ENTITY new_private_tab_opened "Nova aba privativa aberta">
+<!ENTITY new_private_tab_opened "Nova aba privada aberta">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -107,13 +107,13 @@
 <!ENTITY settings "Configurações">
 <!ENTITY settings_title "Configurações">
 <!ENTITY pref_category_general "Geral">
-<!ENTITY pref_category_general_summary2 "Inicio, idioma, barra de URL">
+<!ENTITY pref_category_general_summary2 "Pagina inicial, idioma, barra de URL">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Idioma">
-<!ENTITY pref_category_language_summary "Alterar o idioma do seu navegador">
+<!ENTITY pref_category_language_summary "Alterar o idioma do navegador">
 <!ENTITY pref_browser_locale "Idioma do navegador">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -602,8 +602,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "O &brandShortName; bloqueou conteúdo inseguro nesta página.">
-<!ENTITY mixed_content_blocked_some1 "O &brandShortName; bloqueou parte do conteúdo inseguro nesta página.">
-<!ENTITY mixed_content_display_loaded1 "Partes desta página não são seguras (tal como imagens).">
+<!ENTITY mixed_content_blocked_some1 "O &brandShortName; bloqueou elementos inseguro nesta página.">
+<!ENTITY mixed_content_display_loaded1 "Elementos desta página não são seguros (tal como imagens).">
 <!ENTITY mixed_content_protection_disabled1 "Você desativou a proteção para conteúdo inseguro.">
 
 <!-- Tracking content notifications in site identity popup -->
@@ -620,7 +620,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY keep_blocking "Continuar bloqueando">
 
 <!ENTITY private_data_success "Dados de navegação limpos">
-<!ENTITY private_data_fail "Alguns dados privativos não puderam ser limpos">
+<!ENTITY private_data_fail "Alguns dados privados não puderam ser limpos">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importando favoritos e histórico 
@@ -651,10 +651,10 @@ do Android">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Atualização disponível para o &brandShortName;">
-<!ENTITY updater_start_select2 "Toque para receber">
+<!ENTITY updater_start_select2 "Toque para baixar">
 
 <!ENTITY updater_downloading_title2 "Recebendo o &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Falha no recebimento">
+<!ENTITY updater_downloading_title_failed2 "Download falhou">
 <!ENTITY updater_downloading_select2 "Toque para aplicar a atualização assim que for recebida">
 <!ENTITY updater_downloading_retry2 "Toque para tentar de novo">
 
