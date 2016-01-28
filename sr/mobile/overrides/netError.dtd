@@ -200,3 +200,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Удаљени XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Контактирајте власнике веб сајта о овом проблему.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Не могу се повезати безбедно">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Додатне информације: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Ваша конекција није безбедна">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Додатне информације: SSL_ERROR_NO_CYPHER_OVERLAP">
