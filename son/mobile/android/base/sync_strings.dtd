@@ -273,3 +273,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
+<!ENTITY old_sync_deprecated_notification_title "Huru ka gaabandi ka hangandi">
+<!ENTITY old_sync_deprecated_notification_content "War kontoo ši nda gaakašinay koyne">

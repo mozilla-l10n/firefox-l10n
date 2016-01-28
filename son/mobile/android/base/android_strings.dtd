@@ -752,15 +752,15 @@ Android ra">
 <!ENTITY restrictable_feature_addons_installation "Tontoney">
 <!ENTITY restrictable_feature_addons_installation_description "Alhaaliyaŋ wala goy sahã tonton Firefox ga. Yaamar: Tontoney ga hin ka jejebu fooyaŋ kaa.">
 <!ENTITY restrictable_feature_private_browsing "Sutura naarumi">
-
+<!ENTITY restrictable_feature_private_browsing_description "Naŋ alaayaney ma interneti naaru bila nd\u0027i m\u0027alhabar gaabu nungey nda moɲey kaŋ i n\u0027i guna se.">
 <!ENTITY restrictable_feature_clear_history "Taarikoo tuusu">
-
-
-
-
-
-
-
+<!ENTITY restrictable_feature_clear_history_description "Naŋ alaayaney m\u0027alhabar tuusu nungey nda moɲey kaŋ i n\u0027i guna se.">
+<!ENTITY restrictable_feature_advanced_settings "Kayandiyan koyjinantey">
+<!ENTITY restrictable_feature_advanced_settings_description "Wey ti doo-šilbay zaayan, kanji yeetiyan nda boŋtaagandiyan. A wii ka kayandiyan faalantey tabatandi alaayan boro foo kul se.">
+<!ENTITY restrictable_feature_camera_microphone "Bii nda jindezaahaya">
+<!ENTITY restrictable_feature_camera_microphone_description "Naŋ alaayaney ma hin ka faakaaray waati follokaa ra interneti nungey ra.">
+<!ENTITY restrictable_feature_block_list "Gagayyan maašeede">
+<!ENTITY restrictable_feature_block_list_description "Interneti nungey nda jeereyan gundekuna gagay.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -777,4 +777,7 @@ Android ra">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "Alhaa naŋ! &brandShortName; dumoo woo ši koy nda jinaa woo (&formatS1;, &formatS2;). Dumi boryaa zumandi taare.">
 
+<!ENTITY eol_notification_title "&brandShortName; ši koy nda Android 3 koyne">
+<!ENTITY eol_notification_summary "Karkar ka bay ka tonton">

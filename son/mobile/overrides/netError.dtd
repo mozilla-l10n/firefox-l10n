@@ -168,8 +168,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL moora">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Taare de wa šendaa woo bayrandi Interneti nungoo koyey se.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Ši hin ka ciya nda saajaw">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Alhabar koyjinante: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "War ciyaroo manti saajante">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Alhabar koyjinante: SSL_ERROR_NO_CYPHER_OVERLAP">
