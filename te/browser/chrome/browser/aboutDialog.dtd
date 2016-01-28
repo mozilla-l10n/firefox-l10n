@@ -46,6 +46,7 @@
 <!ENTITY helpus.getInvolvedLink     "పాలుపంచుకోండి!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "కొత్తవి ఏమిటి">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "లైసెన్సింగ్ సమాచారం">
