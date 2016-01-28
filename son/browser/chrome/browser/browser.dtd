@@ -413,12 +413,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Kanji feerante kul šii">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Kanji hangandiyan tunandi ka dii kanjey maašeede jinay taney ga.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Huru Firefox ra war jinay taney ga ka dii war kanjey ne.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Ibaayey hangandi">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Huru ka dii kanji maašeede foo war jinay taney ga.">
+<!ENTITY appMenuRemoteTabs.signin.label "Huru Sync ra">
 
 <!ENTITY customizeMenu.addToToolbar.label "Goyjinay zuu tonton">
 <!ENTITY customizeMenu.addToToolbar.accesskey "o">
