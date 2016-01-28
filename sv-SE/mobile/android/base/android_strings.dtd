@@ -13,7 +13,7 @@
 <!ENTITY firstrun_urlbar_message "Välkommen till &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Hitta saker snabbare med hjälpsamma sökförslag genvägar.">
 <!ENTITY firstrun_bookmarks_title "Historik">
-
+<!ENTITY firstrun_bookmarks_message "Dina favoriter, där dom är mest viktiga ">
 <!ENTITY firstrun_bookmarks_subtext "Få resultat från dina bokmärken och historik då du söker.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Mindre data, mer sparat">
@@ -21,7 +21,7 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, alltid vid din sida ">
 <!ENTITY firstrun_sync_subtext "Synka dina flikar, lösenord och mer överallt där du använder dom.">
-
+<!ENTITY firstrun_signin_message "Anslut och kom igång">
 <!ENTITY firstrun_signin_button "Logga in till Sync">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
 <!ENTITY firstrun_button_next "Nästa">
@@ -251,6 +251,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Du kan ändra detta senare i inställningarna">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Aktivera tillståndet för ritning över andra appar">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktivera">
 <!ENTITY tab_queue_prompt_negative_action_button "Inte nu ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -267,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 flik väntar ">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "För att \&quot;Öppna flera länkar\&quot;, aktivera \u0027Rita över andra appar\u0027 tillståndet för &brandShortName;">
 
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
@@ -535,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Dina flikar från senast visas här.">
 <!ENTITY home_open_all "Öppna alla">
 <!ENTITY home_most_recent_empty "Webbplatser du senast besökt visas här.">
-
+<!ENTITY home_selected_empty "Webbplatser du besöker inom den valda tidsperioden visas här.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst! Använder du en &formatS1;Ny Privat Flik&formatS2; kommer din historik inte sparas.">
@@ -757,7 +760,7 @@ från Android">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Tillåter familjemedlemmar att engagera sig i realtids kommunikation på hemsidor.">
 <!ENTITY restrictable_feature_block_list "Blockeringslista">
-
+<!ENTITY restrictable_feature_block_list_description "Blockera webbplatser som innehåller känsligt innehåll.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
