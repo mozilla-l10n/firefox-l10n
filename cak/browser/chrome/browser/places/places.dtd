@@ -59,17 +59,18 @@
 
 
 
+<!ENTITY cmd.properties.label      "Taq ch'akulal">
+<!ENTITY cmd.properties.accesskey  "a">
 
 
 
 
 
-
-
-
-
-
-
+<!ENTITY cmd.new_folder.label              "K'ak'a' yakwuj…">
+<!ENTITY cmd.new_folder.accesskey          "w">
+<!ENTITY cmd.context_new_folder.accesskey  "K">
+<!ENTITY cmd.new_separator.label           "K'ak'a'  jachöy">
+<!ENTITY cmd.new_separator.accesskey       "j">
 
 
 
@@ -91,13 +92,13 @@
 <!ENTITY cmd.find.key  "j">
 
 
+<!ENTITY maintenance.tooltip    "Tik'am pe chuqa' tik'wäx el ri taq ayaketal">
 
 
 
 
-
-
-
+<!ENTITY detailsPane.less.label "Jub'a'">
+<!ENTITY detailsPane.less.accesskey "b">
 
 
 

@@ -18,6 +18,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.title "¡Ruxaq K'amaya'l ya'on rutzijol chi q'olonel!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Re ruxaq k'amaya'l re' <span id='phishing_sitename'/> ya'on retal chi q'olonel chi k'amaya'l, ruma ri' toq xq'at ruma rucholajil ri nawajo' richin achajixik.">
 
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

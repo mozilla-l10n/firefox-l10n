@@ -26,6 +26,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Taq qasa’n">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Taq retal">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Tab'ana' utzil, tanatajchi ri asamajinel o ri aya'öl k'amaya'l, k'a nitikïr na nutzu' ri taq ruxaq k'amaya' ri rat xke'atzu'.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Tetamäx ch'aqa' chik.">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -40,8 +41,8 @@
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.disabled     "CHUPUNÄQ">
 
 
-
-
-
+<!ENTITY trackingProtection.enable             "Natzïj ruchajixik kanoxïk">
+<!ENTITY trackingProtection.startTour1         "Titzu' achike rub'eyal nisamäj re re'">
