@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "OCSP-responderservers vragen om de huidige geldigheid van certificaten te bevestigen">
 <!ENTITY enableOCSP.accesskey            "v">
 
-<!ENTITY viewCertificates.label         "Certificaten bekijken">
-<!ENTITY viewCertificates.accesskey     "C">
+<!ENTITY manageCertificates.label       "Certificaten beheren">
+<!ENTITY manageCertificates.accesskey   "C">
 <!ENTITY viewSecurityDevices.label      "Beveiligingsapparaten">
 <!ENTITY viewSecurityDevices.accesskey  "B">
