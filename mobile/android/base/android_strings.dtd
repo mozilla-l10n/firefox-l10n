@@ -17,11 +17,11 @@
 <!ENTITY firstrun_bookmarks_subtext "Obtenha resultados a partir dos seus marcadores e histórico quando pesquisar.">
 <!ENTITY firstrun_data_title "Dados">
 <!ENTITY firstrun_data_message "Menos dados, mais poupança">
-
+<!ENTITY firstrun_data_subtext "Bloquear imagens para gastar menos dados em cada site que visita.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
 <!ENTITY firstrun_sync_subtext "Sincronize os seus separadores, palavras-passe, e mais em qualquer sítio que usar.">
-
+<!ENTITY firstrun_signin_message "Ligue-se para começar">
 <!ENTITY firstrun_signin_button "Iniciar sessão no Sync">
 <!ENTITY  onboard_start_button_browser "Começar a navegar">
 <!ENTITY firstrun_button_next "Seguinte">
@@ -251,6 +251,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Pode alterar esta opção nas Definições mais tarde">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Ative Desenhar sob outras aplicações">
 <!ENTITY tab_queue_prompt_positive_action_button "Ativar">
 <!ENTITY tab_queue_prompt_negative_action_button "Agora não">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -267,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 separador em espera">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Para \&quot;Abrir múltiplas ligações\&quot;, por favor ative a permissão \u0027Desenhar sob outras aplicações\u0027 para o &brandShortName;">
 
 <!ENTITY pref_char_encoding "Codificação de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menu">
