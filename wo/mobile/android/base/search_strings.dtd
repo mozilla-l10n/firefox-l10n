@@ -2,10 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY search_app_name '&brandShortName; Seet'>
 
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
-<!ENTITY search_bar_hint 'Seet ak'>
+<!ENTITY search_bar_hint 'Seet ak &formatS;'>
 
 <!ENTITY search_empty_message 'Seet gu gaw ci lépp loo bëgg'>
 
@@ -24,3 +25,4 @@
 
 
 <!ENTITY network_error_title 'Lonkuwoo ci internet'>
+<!ENTITY network_error_message 'Bësal fii ngir xool sa jekk-jekkali mbaal'>
