@@ -422,7 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Préférences de synchronisation">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Connectez-vous pour afficher la liste des onglets de vos autres appareils.">
 <!ENTITY appMenuRemoteTabs.signin.label "Se connecter à Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Panneau latéral des onglets synchronisés">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ajouter à la barre d'outils">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -784,6 +784,24 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Onglets synchronisés">
 
+<!ENTITY syncedTabs.sidebar.label              "Onglets synchronisés">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Récupération des onglets synchronisés…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Connectez-vous via Firefox depuis vos autres appareils pour afficher leurs onglets ici.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Connectez-vous pour afficher la liste des onglets de vos autres appareils.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Aucun onglet ouvert">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Ouvrir les préférences de &syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activez la synchronisation des onglets pour afficher la liste des onglets de vos autres appareils.">
+
+<!ENTITY syncedTabs.context.openTab.label                   "Ouvrir cet onglet">
+<!ENTITY syncedTabs.context.openTab.accesskey               "O">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Marquer cet onglet…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "M">
+<!ENTITY syncedTabs.context.refreshList.label               "Actualiser la liste">
+<!ENTITY syncedTabs.context.refreshList.accesskey           "A">
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Se connecter à &syncBrand.shortName.label;…">
@@ -928,8 +946,3 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!ENTITY emeLearnMoreContextMenu.label            "En savoir plus sur les DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
-<!ENTITY emeNotificationsNotNow.label             "Plus tard">
-<!ENTITY emeNotificationsNotNow.accesskey         "P">
-<!ENTITY emeNotificationsDontAskAgain.label       "Ne plus demander à l'avenir">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "N">
