@@ -764,7 +764,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Gør det muligt at deltage i video- og lydsamtaler på websteder.">
 <!ENTITY restrictable_feature_block_list "Blokeringsliste">
-<!ENTITY restrictable_feature_block_list_description "Bloker websteder, som indeholder følsomme oplysninger.">
+<!ENTITY restrictable_feature_block_list_description "Bloker websteder med uønsket indhold.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
