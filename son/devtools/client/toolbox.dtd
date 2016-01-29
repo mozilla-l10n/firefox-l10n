@@ -92,7 +92,7 @@ values from browser.dtd.  -->
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label5    "Chrome ceecikaa nda hansari goyjinawey dirandi.">
+<!ENTITY options.enableChrome.label5    "Ceecikaw kungaa feeri nda hansari goyjinawey tunandi">
 <!ENTITY options.enableChrome.tooltip3  "Suubaaroo woo tunandiyanoo ga too war ma hin ka goy nda cinakaw goyjinay dumi booboyaŋ ceecikaa ra (nda Goyjinawey > Ceecikaw goyjinay bata) nda ka tontoney hanse tontoney juwalkaa ra">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled

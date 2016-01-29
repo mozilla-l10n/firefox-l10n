@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY aboutProfiles.title "Alhaaley ga">
+<!ENTITY aboutProfiles.subtitle "Moɲoo woo ga war gaa ka war alhaaley juwal. Alhaali foo kul ti ganda fayante kaŋ goo nda taariki fayante ga bara, doo-šilbay, kayandiyan nda tontoni fayanteyaŋ.">
+<!ENTITY aboutProfiles.create "Alhaali taaga tee">
 
 
 

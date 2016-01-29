@@ -7,13 +7,14 @@
 <!ENTITY  blockPopups.label           "Biiboŋ bata zanfuney daabu">
 <!ENTITY  blockPopups.accesskey       "B">
 
-
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "Bangandiyaney">
+<!ENTITY  notificationsPolicyLearnMore.label   "Bay ka tonton">
+<!ENTITY  notificationsPolicyDesc3.label       "Nungey suuba kaŋ war ga naŋ i ma bangandiyan sanba war se">
+<!ENTITY  notificationsPolicyButton.accesskey  "u">
+<!ENTITY  notificationsPolicyButton.label      "Suuba…">
+<!ENTITY  notificationsDoNotDisturb.label      "Ya mma dejje">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "m">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Bangandiyan kul ši cebandi hala &brandShortName; ma tun taaga">
 
 <!ENTITY  popupExceptions.label       "Hasarawey…">
 <!ENTITY  popupExceptions.accesskey   "H">
@@ -56,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM gundekuna hẽenandi">
 <!ENTITY  playDRMContent.accesskey     "h">
-
+<!ENTITY  playDRMContent.learnMore.label "Bay ka tonton">
