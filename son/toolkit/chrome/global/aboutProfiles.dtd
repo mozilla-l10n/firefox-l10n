@@ -5,6 +5,6 @@
 <!ENTITY aboutProfiles.title "Alhaaley ga">
 <!ENTITY aboutProfiles.subtitle "Moɲoo woo ga war gaa ka war alhaaley juwal. Alhaali foo kul ti ganda fayante kaŋ goo nda taariki fayante ga bara, doo-šilbay, kayandiyan nda tontoni fayanteyaŋ.">
 <!ENTITY aboutProfiles.create "Alhaali taaga tee">
-
-
-
+<!ENTITY aboutProfiles.restart.title "Tunandi taaga">
+<!ENTITY aboutProfiles.restart.inSafeMode "Tunandi taaga kaŋ tontoney kayandi…">
+<!ENTITY aboutProfiles.restart.normal "Tunandi taaga sanda waatikul">
