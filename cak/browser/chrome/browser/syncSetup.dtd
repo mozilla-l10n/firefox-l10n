@@ -1,11 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY accountSetupTitle.label    "Runuk'ik ri &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
 
 
 <!ENTITY setup.pickSetupType.description2 "¡Ütz apetik! we majub'ey awokisan &syncBrand.fullName.label; rajowaxik natz'ük jun k'ak'a' ataqoya'l.">
-
+<!ENTITY button.createNewAccount.label "Tanuk'u' jun k'ak'a' ataqoya'l">
 <!ENTITY button.haveAccount.label      "K'o chik jun nutaqoya'l">
 
 <!ENTITY setup.choicePage.title.label     "¿La awokisan chi &syncBrand.fullName.label;?">
@@ -13,7 +15,7 @@
 <!ENTITY setup.choicePage.existing2.label "Tajin chik ninwokisaj &syncBrand.shortName.label; pa jun chik okisaxel">
 <!-- New Account AND Existing Account -->
 <!ENTITY serverType.default.label      "Ruk'amon wi pe: Ruk'u'x rusamaj Mozilla &syncBrand.fullName.label;">
-
+<!ENTITY serverType.custom2.label   "Tawokisaj jun ichinan ruk'u'x samaj…">
 
 
 <!ENTITY signIn.password.label      "Ewan tzij">
@@ -43,7 +45,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Richin nikijib'äl chijun ri awichinaxik, konojel ri taq atzij k'o chi man e'etaman ta chuwäch yetaq el pa k'amab'ey. Ri ewan tzij chi naköl richin netamäx kiwäch ri taq tzij ri', man xtitaq ta.">
 
 
-
+<!ENTITY syncGenerateNewKey.label  "Titz'uk jun k'ak'a' ewan tzij">
 <!ENTITY recoveryKeyBackup.description "Rajowaxik ri kolonel ewan atzij richin yato pa &syncBrand.fullName.label; pa ch'aqa' chik taq samajib'äl. Tab'ana' utzil tab'ana' jun to'onel wachib'äl. We nasäch, man yojtikïr ta yatqato' richin naköl.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Tz'ajixïk…">
@@ -79,13 +81,14 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Natab’äl">
 <!ENTITY engine.history.accesskey   "b">
-
-
+<!ENTITY engine.passwords.label     "Ewan tzij">
+<!ENTITY engine.passwords.accesskey "E">
 <!ENTITY engine.prefs.label         "Taq ajowab'äl">
 <!ENTITY engine.prefs.accesskey     "b">
 <!ENTITY engine.addons.label        "Taq rutz’aqat">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "Kexol ri taq retamab'al re okisaxel re' rik'in ri wetamab'al richin &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Chilab'en">
 
 <!ENTITY choice2a.server.main.label      "Ke'ak'exa' ri taq kitzij ch'aqa' chik taq okisaxel rik'in ri taq rutzij re re'">
@@ -93,7 +96,7 @@
 
 <!ENTITY setup.optionsConfirmPage.title "Tajikib'a'">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; xkeruxöl konojel ri taq etamab'äl richin rokik'amaya'l re re okisaxel re' rik'in ri ataqoya'l richin Sync.">
-
+<!ENTITY confirm.client3.label         "K'ayewal: Re taq rutzij &brandShortName; pa re okisaxel re' xtiyuj el:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; xtuwachib'ej ri taq atzij e k'o pa &syncBrand.fullName.label; pa re okisaxel re'.">
 
 <!-- New & Existing Account: Setup Complete -->

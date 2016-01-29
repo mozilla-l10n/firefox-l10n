@@ -36,7 +36,7 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
-
+<!ENTITY trackingProtection.title              "Tajin nukanoj ri chajinem">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->

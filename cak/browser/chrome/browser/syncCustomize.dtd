@@ -12,8 +12,8 @@
   for the last two that are marked as being specific to Desktop browsers.
 -->
 
-
-
+<!ENTITY engine.history.label             "Natab’äl">
+<!ENTITY engine.history.accesskey         "b">
 <!ENTITY engine.tabs.label                "Taq ruwi'">
 <!ENTITY engine.tabs.accesskey            "r">
 <!ENTITY engine.passwords.label           "Ewan tzij">
