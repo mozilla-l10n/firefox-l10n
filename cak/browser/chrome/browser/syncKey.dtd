@@ -8,10 +8,10 @@
 
 
 <!ENTITY syncKey.keepItSafe1.description  "Ma ni nasäch re ewan tzij re'">
-
+<!ENTITY syncKey.keepItSafe2.description  " Man niqayäk ta jun ruwachib'al ri ewan atzij (¡ruma xa jun ewan tzij man tz'etel ta!) ruma ri' ">
 <!ENTITY syncKey.keepItSafe3.description  "man yojtikïr ta yatqato' richin nikol ruwäch">
 
-
+<!ENTITY syncKey.findOutMore1.label       "Richin nawetamaj ch'aqa' chik  pa ruwi' &syncBrand.fullName.label; chuqa' ri awichinaxik pa ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 
 

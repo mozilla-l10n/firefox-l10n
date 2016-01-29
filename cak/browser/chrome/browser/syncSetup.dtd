@@ -3,13 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- First page of the wizard -->
 
+
+<!ENTITY setup.pickSetupType.description2 "¡Ütz apetik! we majub'ey awokisan &syncBrand.fullName.label; rajowaxik natz'ük jun k'ak'a' ataqoya'l.">
+
 <!ENTITY button.haveAccount.label      "K'o chik jun nutaqoya'l">
 
 <!ENTITY setup.choicePage.title.label     "¿La awokisan chi &syncBrand.fullName.label;?">
 
 <!ENTITY setup.choicePage.existing2.label "Tajin chik ninwokisaj &syncBrand.shortName.label; pa jun chik okisaxel">
 <!-- New Account AND Existing Account -->
-
+<!ENTITY serverType.default.label      "Ruk'amon wi pe: Ruk'u'x rusamaj Mozilla &syncBrand.fullName.label;">
 
 
 
@@ -35,6 +38,8 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- My Recovery Key dialog -->
+
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; nuchajij ri awichin">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Richin nikijib'äl chijun ri awichinaxik, konojel ri taq atzij k'o chi man e'etaman ta chuwäch yetaq el pa k'amab'ey. Ri ewan tzij chi naköl richin netamäx kiwäch ri taq tzij ri', man xtitaq ta.">
 
 
@@ -67,6 +72,7 @@
 
 
 
+<!ENTITY syncMy.label               "Tixim">
 
 
 <!ENTITY engine.tabs.label          "Taq ruwi'">
@@ -75,8 +81,8 @@
 <!ENTITY engine.history.accesskey   "b">
 
 
-
-
+<!ENTITY engine.prefs.label         "Taq ajowab'äl">
+<!ENTITY engine.prefs.accesskey     "b">
 <!ENTITY engine.addons.label        "Taq rutz’aqat">
 <!ENTITY engine.addons.accesskey    "A">
 

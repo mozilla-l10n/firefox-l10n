@@ -72,7 +72,8 @@
 <!ENTITY cmd.new_separator.label           "K'ak'a'  jachöy">
 <!ENTITY cmd.new_separator.accesskey       "j">
 
-
+<!ENTITY cmd.reloadLivebookmark.label      "Kesamajib'ëx silonel taq etal">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "K">
 
 <!ENTITY cmd.moveBookmarks.label                  "Tijech'ëx…">
 <!ENTITY cmd.moveBookmarks.accesskey              "T">
@@ -97,7 +98,8 @@
 
 <!ENTITY forwardButton.tooltip  "Tib'e chuwäch">
 
-
+<!ENTITY detailsPane.more.label "Ch'aqa' chik">
+<!ENTITY detailsPane.more.accesskey "q">
 <!ENTITY detailsPane.less.label "Jub'a'">
 <!ENTITY detailsPane.less.accesskey "b">
 
