@@ -5,6 +5,7 @@
 
 <!ENTITY button.haveAccount.label      "K'o chik jun nutaqoya'l">
 
+<!ENTITY setup.choicePage.title.label     "¿La awokisan chi &syncBrand.fullName.label;?">
 
 <!ENTITY setup.choicePage.existing2.label "Tajin chik ninwokisaj &syncBrand.shortName.label; pa jun chik okisaxel">
 <!-- New Account AND Existing Account -->
@@ -23,8 +24,8 @@
 
 
 
-
-
+<!ENTITY setup.confirmPassword.label     "Tijikib'äx ewan tzij">
+<!ENTITY setup.confirmPassword.accesskey "j">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
@@ -52,7 +53,7 @@
 
 
 <!ENTITY addDevice.dialog.tryAgain.label    "Tab'ana' utzil, tatojtob'ej jub'ey chik.">
-
+<!ENTITY addDevice.dialog.successful.label  "Re okisaxel re' ütz xyake' kan. Re nab'ey ximïk re', rik'in jub'a' xtiyoke' ka'i' oxi' ch'utiramaj, k'a ri' xtik'is pa ruka'n b'ey.">
 
 
 <!-- Existing Account Page 2: Manual Login -->
@@ -68,8 +69,8 @@
 
 
 
-
-
+<!ENTITY engine.history.label       "Natab’äl">
+<!ENTITY engine.history.accesskey   "b">
 
 
 
@@ -79,14 +80,14 @@
 
 
 
-
+<!ENTITY choice2a.server.main.label      "Ke'ak'exa' ri taq kitzij ch'aqa' chik taq okisaxel rik'in ri taq rutzij re re'">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Tajikib'a'">
 
 
-
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; xtuwachib'ej ri taq atzij e k'o pa &syncBrand.fullName.label; pa re okisaxel re'.">
 
 <!-- New & Existing Account: Setup Complete -->
-
+<!ENTITY changeOptions.label "Yatikïr nak'ëx re ajowab'äl re' rik'in nacha' ri cha'oj richin ximojri'ïl pa xulan qa.">
 

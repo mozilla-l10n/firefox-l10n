@@ -7,7 +7,7 @@
 
 
 
-
+<!ENTITY syncKey.keepItSafe1.description  "Ma ni nasäch re ewan tzij re'">
 
 <!ENTITY syncKey.keepItSafe3.description  "man yojtikïr ta yatqato' richin nikol ruwäch">
 
@@ -15,4 +15,4 @@
 
 
 
-
+<!ENTITY syncKey.footer3.label            ".">
