@@ -63,12 +63,14 @@
 <!ENTITY resetSyncKey.label           "Xinsäch ri jun chik wokisaxel.">
 <!-- Sync Options -->
 
+<!ENTITY setup.optionsPage.title      "Taq rucha'oj ximojri'ïl">
 
 
 
 
 
-
+<!ENTITY engine.tabs.label          "Taq ruwi'">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Natab’äl">
 <!ENTITY engine.history.accesskey   "b">
 
@@ -78,7 +80,7 @@
 <!ENTITY engine.addons.label        "Taq rutz’aqat">
 <!ENTITY engine.addons.accesskey    "A">
 
-
+<!ENTITY choice2.merge.recommended.label "Chilab'en">
 
 <!ENTITY choice2a.server.main.label      "Ke'ak'exa' ri taq kitzij ch'aqa' chik taq okisaxel rik'in ri taq rutzij re re'">
 <!-- Confirm Merge Options -->

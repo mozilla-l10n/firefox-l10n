@@ -14,8 +14,8 @@
 
 <!ENTITY engine.tabs.label                "Taq ruwi'">
 <!ENTITY engine.tabs.accesskey            "r">
-
-
+<!ENTITY engine.passwords.label           "Ewan tzij">
+<!ENTITY engine.passwords.accesskey       "E">
 
 
 
