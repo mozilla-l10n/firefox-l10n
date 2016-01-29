@@ -5,8 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Beni buradan kurtar!">
 <!ENTITY safeb.palm.decline.label "Bu uyarıyı yok say">
 <!ENTITY safeb.palm.notforgery.label2 "Bu bir sahtecilik değil…">
-
-
+<!ENTITY safeb.palm.reportPage.label "Bu sayfa neden engellendi?">
+<!ENTITY safeb.palm.whyForbidden.label "Bu sayfa neden engellendi?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Saldırgan olarak bildirilmiş site!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
