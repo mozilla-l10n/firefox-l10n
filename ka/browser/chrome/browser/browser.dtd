@@ -515,7 +515,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.label     "ნაგულისხმევ საძიებო სისტემად დაყენება">
 <!ENTITY searchSetAsDefault.accesskey "გ">
 
-<!ENTITY openLinkCmdInTab.label       "ბმის ახალ დაფაზე გახსნა">
+<!ENTITY openLinkCmdInTab.label       "ბმულის გახსნა ახალ ჩანართში">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "ბმის ახალ ფანჯარაში გახსნა">
 <!ENTITY openLinkCmd.accesskey        "W">
