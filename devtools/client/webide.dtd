@@ -215,6 +215,6 @@
 <!ENTITY simulator_device "Grat">
 <!ENTITY simulator_screenSize "Wobrazowka">
 <!ENTITY simulator_pixelRatio "Pikselowy poměr">
-
-
-
+<!ENTITY simulator_tv_data "Telewizijna simulacija">
+<!ENTITY simulator_tv_data_open "Konfiguraciske daty">
+<!ENTITY simulator_tv_data_open_button "Konfiguraciski zapis wočinić…">
