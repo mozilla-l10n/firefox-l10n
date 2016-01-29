@@ -760,7 +760,7 @@ o Android">
 <!ENTITY restrictable_feature_camera_microphone "An camara ⁊ am micreofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Bheir seo comas do bhuill an teaghlaich pàirt a ghabhail ann an conaltradh beò air làraichean‑lìn.">
 <!ENTITY restrictable_feature_block_list "An liosta-bhacaidh">
-<!ENTITY restrictable_feature_block_list_description "Bac làraichean-lìn air a bheil susbaint inbheach.">
+<!ENTITY restrictable_feature_block_list_description "Bac làraichean-lìn air a bheil susbaint mhì-iomchaidh.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
