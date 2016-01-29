@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name '&brandShortName; ძიება'>
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint 'ძიება &formatS; სისტემით'>
+
+<!ENTITY search_empty_title2 'დაიწყეთ ძიება'>
+<!ENTITY search_empty_message 'სწრაფად მოძებნეთ ყველაფერი, რაც გჭირდებათ'>
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'საძიებო ზოლში დამატება'>
+
+<!ENTITY search_pref_title 'პარამეტრები'>
+<!ENTITY search_pref_button_content_description 'პარამეტრები'>
+
+<!ENTITY pref_clearHistory_confirmation 'ისტორია გასუფთავდა'>
+<!ENTITY pref_clearHistory_dialogMessage 'წაიშალოს მთელი საძიებო ისტორია ამ მოწყობილობიდან?'>
+<!ENTITY pref_clearHistory_title 'საძიებო ისტორიის წაშლა'>
+
+<!ENTITY pref_searchProvider_title 'საძიებო სისტემები'>
+
+<!ENTITY search_widget_button_label 'ძიება'>
+
+<!ENTITY network_error_title 'ინტერნეტთან კავშირი არაა'>
+<!ENTITY network_error_message 'შეეხეთ აქ თქვენი ქსელის პარამეტრების შესამოწმებლად'>

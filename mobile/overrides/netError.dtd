@@ -11,20 +11,14 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "დაკავშირება ვერ მოხერხდა">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "უსაფრთხოების მიზნით პორტი აკრძალულია">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "სერვერი ვერ მოიძებნა">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>შეამოწმეთ, ხომ არაა მისამართი მცდარი. მაგალითად,
-    <strong>ww</strong>.example.com ნაცვლად
-    <strong>www</strong>.example.com</li>
-  <li>თუ ვერც სხვა გვერდებს ხსნით, შეამოწმეთ თქვენი კომპიუტერის ქსელური კავშირი.</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "ფაილი ვერ მოიძებნა">
 <!ENTITY fileNotFound.longDesc "
@@ -41,27 +35,18 @@
 ">
 
 <!ENTITY malformedURI.title "მისამართი უმართებლოა">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>ვებ მისამართი ჩვეულებრივ ამგვარად მიეთითება
-    <strong>http://www.example.com/</strong></li>
-  <li>გადაამოწმეთ, რომ ჩვეულებრივ დახრილს იყენებთ (მაგ.,
-    <strong>/</strong>).</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "კავშირი გაწყდა">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "დოკუმენტი ვადაგასულია">
 <!ENTITY notCached.longDesc "<p>მოთხოვნილი დოკუმენტი მიუწვდომელია &brandShortName;-ის ბუფერში.</p><ul><li>უსაფრთხოების უზრუნველსაყოფად, &brandShortName; ხელმეორედ არ მოითხოვს მნიშვნელოვან დოკუმენტებს.</li><li>Click სცადეთ დოკუმენტის ხელახლა მოთხოვნა ვებსაიტიდან.</li></ul>">
 
 <!ENTITY netOffline.title "ავტონომიური რეჟიმი">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>ამორთეთ &quot;ავტონომიური რეჟიმი&quot; ფაილის მენიუდან და კვლავ სცადეთ.</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "შიგთავსის დაშიფვრის შეცდომა">
 <!ENTITY contentEncodingError.longDesc "
@@ -78,17 +63,11 @@
 ">
 
 <!ENTITY netReset.title "კავშირი გაწყდა">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "კავშირის ვადა გავიდა">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY protocolNotFound.title "უცნობი ოქმი">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>ამ მისამართის გასახსნელად შესაძლოა სხვა პროგრამის ჩადგმა მოგიწიოთ.</li>
-</ul>
-">
 
 <!ENTITY proxyConnectFailure.title "პროქსი სერვერმა კავშირი უარყო">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -100,12 +79,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "პროქსი სერვერის პოვნა ვერ ხერხდება">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>გადაამოწმეთ პროქსის პარამეტრები და დარწმუნდით მათ მართებულობაში.</li>
-  <li>შეამოწმეთ და დარწმუნდით, რომ თქვენი კომპიუტერის ქსელური კავშირი გამართულია.</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "ეს გვერდი მცდარად გადამისამართდა">
 <!ENTITY redirectLoop.longDesc "
@@ -125,12 +100,6 @@
 ">
 
 <!ENTITY nssFailure2.title "უსაფრთხო დაკავშირება ვერ მოხერხდა">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>გვერდი, რომლის ნახვაც გსურთ ვერ გამოჩნდება, რადგან საიტი უსაფრთხოების უმართებლო ან მიუღებელ ოქმს იყენებს.</li>
-  <li>გთხოვთ დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ. დამატებით ისარგებლეთ დახმარების მენიუს ბრძანებით ამ დაზიანებული საიტის საპატაკოდ.</li>
-</ul>
-">
 
 <!ENTITY nssBadCert.title "უსაფრთხო დაკავშირება ვერ ხერხდება">
 <!ENTITY nssBadCert.longDesc2 "
@@ -142,15 +111,9 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>საიტი დროებით მიუწვდომელი ან გადატვირთულია. კვლავ სცადეთ რამდენიმე წამში.</li>
-  <li>თუ სხვა გვერდების ჩატვირთვასაც ვერ ახერხებთ, შეამოწმეთ კომპიუტერის ქსელთან კავშირი.</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY cspFrameAncestorBlocked.title "დაბლოკილია შიგთავსის უსაფრთხოების პოლიტიკით">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; არ ჩატვირთავს ამ გვერდს ამ სახით უსაფრთხოების პოლიტიკის მითითების შესაბამისად.</p>">
 
 <!ENTITY corruptedContentError.title "დაზიანებული შიგთავსის შეცდომა">
 <!ENTITY corruptedContentError.longDesc "<p>გვერდი, რომლის ჩვენებაც გსურთ, არ აისახება შეცდომის გამო მონაცემთა გადატანისას.</p><ul><li>გთხოვთ მიმართოთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li></ul>">
@@ -174,3 +137,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "გარე XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ მიმართოთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li></ul></p>">
 
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
