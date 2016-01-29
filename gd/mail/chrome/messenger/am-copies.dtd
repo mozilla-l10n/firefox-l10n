@@ -8,7 +8,7 @@
 <!ENTITY sendingPrefix.label "Nuair a chuireas mi teachdaireachd, dèan na leanas a ghnàth: ">
 <!ENTITY fccMailFolder.label "Cuir lethbhreac ann an:">
 <!ENTITY fccMailFolder.accesskey "C">
-<!ENTITY fccReplyFollowsParent.label "Cuir an freagairt sa phasgan far a bheil an teachdaireachd a tha mi a' toirt freagairt dhi">
+<!ENTITY fccReplyFollowsParent.label "Cuir na freagairtean sa phasgan far a bheil an teachdaireachd a tha mi a' toirt freagairt dhi">
 <!ENTITY fccReplyFollowsParent.accesskey "C">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cuir Cc dha na seòlaidhean a leanas:">
