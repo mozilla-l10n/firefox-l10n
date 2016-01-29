@@ -257,6 +257,8 @@
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 zavihek na čakanju">
 
+<!ENTITY tab_queue_notification_settings "To &quot;Open multiple links&quot;, please enable the \'Draw over other apps\' permission for &brandShortName;">
+
 <!ENTITY pref_char_encoding "Pokaži nabor znakov">
 <!ENTITY pref_char_encoding_on "Pokaži meni">
 <!ENTITY pref_char_encoding_off "Ne pokaži menija">
