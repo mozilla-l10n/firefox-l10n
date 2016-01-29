@@ -531,7 +531,7 @@
 <!ENTITY identity.connectionFile "Esta página se guarda en su equipo.">
 <!ENTITY identity.connectionVerified1 "Está conectado de forma segura a este sitio, mantenido por:">
 <!ENTITY identity.connectionInternal "Esta es una página segura de &brandShortName;.">
-<!ENTITY identity.insecureLoginForms "Su inicio de sesión podría verse comprometido.">
+<!ENTITY identity.insecureLoginForms2 "Los inicios de sesión introducidos en esta página podrían verse comprometidos.">
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
 <!ENTITY identity.passiveLoaded "Partes de esta página no son seguras (como imágenes).">
 <!ENTITY identity.activeLoaded "Tiene la protección desactivada en esta página.">
