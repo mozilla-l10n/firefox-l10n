@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; үшін қайта байланысу">
 <!ENTITY fxaUnverified.label "Тіркелгіні растау">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; іске қосылған">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; синхрондауды лезде бастайды.">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; синхрондауды қазір бастайды.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Бүктеу">
