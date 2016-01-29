@@ -58,7 +58,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY existingRecoveryKey.description "Yatikïr nak&apos;ül jun ruwachib&apos;al ri ewan atzij richin yakolon toaq yatok pa Taq rucha&apos;oj &syncBrand.shortName.label; pa awokisaxel, chuqa&apos; nacha&apos;  &quot;Ewan nutzij richin yikolon&quot; chupam ri &quot;Tisamajïx taqoya&apos;l&quot;.">
-
+<!ENTITY verifying.label              "Tajin nijikib'äx…">
 <!ENTITY resetPassword.label          "Titzolïx ewan tzij">
 <!ENTITY resetSyncKey.label           "Xinsäch ri jun chik wokisaxel.">
 <!-- Sync Options -->
@@ -84,7 +84,7 @@
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Tajikib'a'">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; xkeruxöl konojel ri taq etamab'äl richin rokik'amaya'l re re okisaxel re' rik'in ri ataqoya'l richin Sync.">
 
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; xtuwachib'ej ri taq atzij e k'o pa &syncBrand.fullName.label; pa re okisaxel re'.">
 
