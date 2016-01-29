@@ -102,9 +102,11 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "უკრავს აუდიოს – &formatS;">
 
 <!ENTITY settings "პარამეტრები">
 <!ENTITY settings_title "პარამეტრები">
+<!ENTITY pref_category_general_summary2 "სახლი, ენა, URL ზოლი">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -116,6 +118,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!ENTITY locale_system_default "სისტემის ნაგულისხმევი">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -124,11 +127,17 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "ჩანიშვნა">
+<!ENTITY overlay_share_reading_list_btn_label "საკითხავ სიაში დამატება">
+<!ENTITY overlay_share_bookmark_btn_label_already "უკვე ჩანიშნულია">
+<!ENTITY overlay_share_reading_list_btn_label_already "უკვე საკითხავ სიაშია">
+<!ENTITY overlay_share_send_other "სხვა მოწყობილობებზე გაგზავნა">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "სხვა მოწყობილობაზე გაგზავნა">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
