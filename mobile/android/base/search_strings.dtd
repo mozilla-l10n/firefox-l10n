@@ -13,14 +13,14 @@
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
-<!ENTITY search_plus_content_description 'Додати у панель пошуку'>
+<!ENTITY search_plus_content_description 'Додати в панель пошуку'>
 
 <!ENTITY search_pref_title 'Налаштування'>
 <!ENTITY search_pref_button_content_description 'Налаштування'>
 
 <!ENTITY pref_clearHistory_confirmation 'Історію очищено'>
 <!ENTITY pref_clearHistory_dialogMessage 'Видалити всю історію пошуку з цього пристрою?'>
-<!ENTITY pref_clearHistory_title 'Очистити історію пошуку'>
+<!ENTITY pref_clearHistory_title 'Стерти історію пошуку'>
 
 <!ENTITY pref_searchProvider_title 'Засіб пошуку'>
 
