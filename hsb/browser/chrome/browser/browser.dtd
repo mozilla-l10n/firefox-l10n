@@ -453,7 +453,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ně">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Haj">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "m">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "h">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
