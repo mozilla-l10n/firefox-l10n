@@ -54,7 +54,7 @@ their language.
 <!ENTITY tabgroupsmigration.tabtitle            "ke'ak'waj ri juley chik Molaj taq ruwi'">
 <!ENTITY tabgroupsmigration.pagetitle2          "Xeqatorij el molaj taq ruwi', xeyak na kan ri taq ruwi' awichin">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Tawetamaj ch'aqa' chik pa kiwi' ri molaj taq ruwi' rik'in ye'ajalwachij taq tz'aqat.">
-
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; xuya' ketal konojel ri taq amolaj, ruma ri' toq majun xsach el.">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Kek'ut pe ri taq molaj ruwi' etz'aqatisan pa taq yaketal">
 <!ENTITY tabgroupsmigration.restoredescription  "Chuqa' yatikïr nacha' kitzolixik jujun o konojel ri taq molaj k'o chupam pa ri taq tzuwäch wakami:">
 

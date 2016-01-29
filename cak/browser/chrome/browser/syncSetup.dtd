@@ -15,8 +15,8 @@
 
 <!ENTITY signIn.password.label      "Ewan tzij">
 <!ENTITY signIn.password.accesskey  "E">
-
-
+<!ENTITY signIn.recoveryKey.label       "Kolonel ewan tzij">
+<!ENTITY signIn.recoveryKey.accesskey   "e">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Retal ri taqoya'l">
@@ -39,7 +39,7 @@
 
 
 
-
+<!ENTITY recoveryKeyBackup.description "Rajowaxik ri kolonel ewan atzij richin yato pa &syncBrand.fullName.label; pa ch'aqa' chik taq samajib'äl. Tab'ana' utzil tab'ana' jun to'onel wachib'äl. We nasäch, man yojtikïr ta yatqato' richin naköl.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Tz'ajixïk…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -89,5 +89,7 @@
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; xtuwachib'ej ri taq atzij e k'o pa &syncBrand.fullName.label; pa re okisaxel re'.">
 
 <!-- New & Existing Account: Setup Complete -->
+
+<!ENTITY setup.successPage.title "Xtzaqät runuk'ulem">
 <!ENTITY changeOptions.label "Yatikïr nak'ëx re ajowab'äl re' rik'in nacha' ri cha'oj richin ximojri'ïl pa xulan qa.">
 
