@@ -634,7 +634,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          з Android">
 <!ENTITY bookmarkhistory_import_wait "Зачекайте…">
 
-<!ENTITY suggestions_prompt3 "Хочете увімкнути пошукові підказки?">
+<!ENTITY suggestions_prompt3 "Бажаєте увімкнути пошукові пропозиції?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
