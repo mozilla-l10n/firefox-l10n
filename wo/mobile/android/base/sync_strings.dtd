@@ -84,21 +84,22 @@
 <!ENTITY bookmarks.folder.menu.label 'Njëlu màndarga-xët'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Làcc'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bànqaasu màndarga-xët yi'>
-<!ENTITY bookmarks.folder.unfiled.label 'Mandarga xët yu ñu ràññetlewul'>
-<!ENTITY bookmarks.folder.desktop.label 'Mandarga xëti orddinatëër'>
-<!ENTITY bookmarks.folder.mobile.label 'Mandarga xëti telefon'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bànqaasu màndarga-xët'>
+<!ENTITY bookmarks.folder.unfiled.label 'Màndarga-xët yuñ nosul'>
+<!ENTITY bookmarks.folder.desktop.label 'Màndarga-xëti bindwaay'>
+<!ENTITY bookmarks.folder.mobile.label 'Màndarga-xëti wootekaay'>
 <!ENTITY bookmarks.folder.readinglist.label 'Limu njàng'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Benn koont &syncBrand.fullName.label; rekk moon la ñu mëna saytu.'>
+<!ENTITY sync.notification.oneaccount.label 'Menn sàqu &syncBrand.fullName.label; rekk la man a jël.'>
+<!ENTITY sync.notification.configure.saved 'Denc nañ say faliit.'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Turu koont walla baatu jàll bu jaaduwul.'>
-<!ENTITY sync.invalidserver.label 'Dugalal URL serwëër bu jag'>
-<!ENTITY sync.verifying.label 'Wóorliku baa ngiy dox...'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Caabi jëli bi baaxul. Jéemaatal.'>
+<!ENTITY sync.invalidcreds.label 'Turu sàq walla baatu-jàll bu baaxul.'>
+<!ENTITY sync.invalidserver.label 'Duggalal URL joxekaay bu baax'>
+<!ENTITY sync.verifying.label 'Saytu…'>
+<!ENTITY sync.new.recoverykey.status.incorrect 'Caabi ngir delloo-na-woon bu baaxul. Jéemaatal.'>
 
 <!-- Send tab to device. -->
 <!ENTITY sync.title.send.tab.label 'Yónnee koñ bi ci aparey yi'>
