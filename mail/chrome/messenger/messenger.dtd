@@ -312,7 +312,7 @@
 <!ENTITY goBackCmd.label "Назад">
 <!ENTITY goBackCmd.accesskey "д">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.label "Чат">
 <!ENTITY goChatCmd.accesskey "c">
 <!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Лист з зіркою">
