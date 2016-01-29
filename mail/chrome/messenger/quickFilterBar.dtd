@@ -231,7 +231,7 @@
      arrow scroll box.)
      -->
 <!ENTITY quickFilterBar.textFilter.explanation.label
-         "Predmet filtra za sporočila:">
+         "Filtriraj sporočila po:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
