@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "تجربۀ مرور وب در موبایل را مختص خود کنید.">
 
 <!ENTITY firstrun_urlbar_message "به &brandShortName; خوش‌آمدید">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "با میانبرهای پیشنهادی جست‌و‌جو سریعتر پیدا کنید.">
+<!ENTITY firstrun_bookmarks_title "تاریخچه">
+<!ENTITY firstrun_bookmarks_message "همه‌ی علایق شما، روبرو و مرکز">
+<!ENTITY firstrun_bookmarks_subtext "دریافت نتایج از نشانک ها و تاریخچه وقتی که شما جست‌و‌جو می‌کنید.">
+<!ENTITY firstrun_data_title "داده">
+<!ENTITY firstrun_data_message "داده‌کم‌تر،صرفه‌جویی بشتر">
+<!ENTITY firstrun_data_subtext "مسدود کردن تصاویر برای دریافت داده کم تر بر روی هر پایگاه اینترنتی که بازدید می‌کنید.">
 <!ENTITY firstrun_sync_title "هم‌گام‌سازی">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, همیشه در سمت شماست">
+<!ENTITY firstrun_sync_subtext "همگام‌سازی زبانه‌ها‌،‌گذرواژه‌ها، و چیزهای دیگر هر کجا که مایل باشید از آن استفاده کنید.">
+<!ENTITY firstrun_signin_message "وصل شوید،‌شروع کنید">
+<!ENTITY firstrun_signin_button "برای همگام‌سازی وارد شوید">
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
 <!ENTITY firstrun_button_next "بعدی">
 
@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "می‌توانید بعدا در تنظیمات تغییرش دهید">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "روشن‌کردن مجوز برای رسم بر روی برنامه‌های دیگر">
 <!ENTITY tab_queue_prompt_positive_action_button "فعال‌سازی">
 <!ENTITY tab_queue_prompt_negative_action_button "اکنون نه">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "برو به تنظیمات">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "۱ زبانه در انتظار است">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "برای \&quot;باز‌کردن چند پیوندی‌\&quot; لطفا مجوز \&quot;رسم بر روی سایربرنامه‌ها \&quot; را برای &brandShortName; فعال کنید">
 
 <!ENTITY pref_char_encoding "کدگذاری نویسه‌ها">
 <!ENTITY pref_char_encoding_on "نمایش منو">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "زبانه‌های اخیر شما در اینجا نمایش داده می‌شوند.">
 <!ENTITY home_open_all "بازکردن همه">
 <!ENTITY home_most_recent_empty "وبسایت‌هایی را که اخیرا بیشتر بازدید کرده‌اید در اینجا نمایش داده می‌شوند.">
-
+<!ENTITY home_selected_empty "پایگاه‌های اینترنتی که شما بازدید و انتخاب کرده‌اید در قالب زمان در اینجا نمایش داده می‌شود.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "توجه: استفاده از &formatS1;زبانه خصوصی جدید&formatS2; تاریخچه مرور شما را ذخیره نخواهد کرد.">
@@ -597,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "اتصال امن">
 <!ENTITY identity_connection_insecure "اتصال نا امن">
 <!ENTITY identity_login_insecure "این صفحه امن نیست و ورود شما ممکن است آسیپ پذیر باشد.">
-
+<!ENTITY identity_connection_chromeui "این صفحه امن &brandShortName; است">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;محتوا غیر‌امن این صفحه را مسدود کرده است.">
@@ -621,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "داده‌های شخصی پاک شده‌اند">
 <!ENTITY private_data_fail "بعضی از داده‌های شخصی نمی‌توانند پاک شوند">
 
+<!ENTITY bookmarkhistory_button_import "وارد کردن">
 <!ENTITY bookmarkhistory_import_both "وارد کردن نشانک‌ها و تاریخچه 
 از اندروید">
 <!ENTITY bookmarkhistory_import_bookmarks "وارد کردن نشانک‌ها 
@@ -661,7 +666,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "برای دریافت فایل ها و بروز‌رسانی ها ،‌به &brandShortName; اجازه دسترسی به فضای ‌ذخیره‌سازی را بدهید.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "اجازه دادن">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "نشست جدید مهمان">
@@ -751,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "این شامل وارد کردن نشانک‌ها، بازآوری زبانه‌ها و بروزرسانی خودکار می‌شود. برای ساده کردن تنظیمات که برای همه اعضا خانواده مناسب است، خاموش کنید.">
 <!ENTITY restrictable_feature_camera_microphone "دوربین و میکروفن">
 <!ENTITY restrictable_feature_camera_microphone_description "به اعضا خانواده اجازه می‌دهد تا وارد ارتباط دوطرفه‌ی بهنگام با وب‌سایت‌ها شوند.">
-
+<!ENTITY restrictable_feature_block_list "فهرست‌ مسدود‌ شده‌ها">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
