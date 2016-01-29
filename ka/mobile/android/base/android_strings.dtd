@@ -123,6 +123,7 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "&brandShortName;-ში დამატება">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
@@ -138,12 +139,15 @@
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "სხვა მოწყობილობაზე გაგზავნა">
+<!ENTITY overlay_share_select_device "აირჩიეთ მოწყობილობა">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 
+<!ENTITY pref_category_search3 "ძიება">
 <!ENTITY pref_category_privacy_short "კონფიდენციალობა">
 <!ENTITY pref_category_datareporting "მონაცემთა არჩევნი">
+<!ENTITY pref_learn_more "შეიტყვეთ მეტი">
 <!ENTITY pref_category_installed_search_engines "ჩადგმული საძიებო სისტემები">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
@@ -153,9 +157,16 @@
 <!ENTITY pref_category_advanced "დეტალური">
 <!ENTITY pref_developer_remotedebugging "გარედან გამართვა">
 
+<!ENTITY pref_category_home "სახლი">
+<!ENTITY pref_category_home_panels "პანელები">
+<!ENTITY home_add_panel_title "ახალი პანელის დამატება">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
+<!ENTITY pref_category_home_content_settings "შიგთავსის პარამეტრები">
+<!ENTITY pref_home_updates "ავტომატური განახლებები">
+<!ENTITY pref_home_updates_enabled "ჩართული">
+<!ENTITY pref_home_updates_wifi "მხოლოდ Wi-Fi-ით">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->

@@ -2,6 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "ძიების პარამეტრები">
-<!ENTITY clear.altText          "გასუფთავება">
-<!ENTITY newpref.label2         "ახალი პარამეტრი">
+
+<!ENTITY toolbar.searchPlaceholder     "ძიება">
+
+<!ENTITY newPref.namePlaceholder       "სახელი">
+
+<!ENTITY newPref.valueBoolean          "ორობითი">
+<!ENTITY newPref.valueString           "სტრიქონი">
+<!ENTITY newPref.valueInteger          "მთელი რიცხვი">
+
+<!ENTITY newPref.stringPlaceholder     "შეიყვანეთ სტრიქონი">
+<!ENTITY newPref.numberPlaceholder     "შეიყვანეთ რიცხვი">
+
+<!ENTITY newPref.toggleButton          "ბერკეტი">
+<!ENTITY newPref.cancelButton          "გაუქმება">
+
+<!ENTITY contextMenu.copyPrefName      "სახელის კოპირება">
+<!ENTITY contextMenu.copyPrefValue     "მნიშვნელობის კოპირება">
