@@ -2,78 +2,97 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "შესაძლო პრობლემები">
+<!ENTITY aboutSupport.pageTitle "პრობლემის აღმოფხვრის ინფორმაცია">
+
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.crashes.title "ავარიული გათიშვის ანგარიშგება">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "პატაკი ID">
+<!ENTITY aboutSupport.crashes.id "ანგარიშგების ID">
+<!ENTITY aboutSupport.crashes.sendDate "გადაგზავნილი">
+<!ENTITY aboutSupport.crashes.allReports "ყველა ავარიული გათიშვის ანგარიშგება">
+<!ENTITY aboutSupport.crashes.noConfig "ეს პროგრამა ავარიული გათიშვის ანგარიშგების ჩვენებისთვის გამართული არაა.">
 
-
-
-
-<!ENTITY aboutSupport.extensionsTitle "პაკეტები">
+<!ENTITY aboutSupport.extensionsTitle "გაფართოებები">
 <!ENTITY aboutSupport.extensionName "სახელი">
 <!ENTITY aboutSupport.extensionEnabled "ჩართულია">
 <!ENTITY aboutSupport.extensionVersion "ვერსია">
+<!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.experimentsTitle "ექსპერიმენტალური ფუნქციები">
+<!ENTITY aboutSupport.experimentName "სახელი">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "აღწერილობა">
+<!ENTITY aboutSupport.experimentActive "აქტიური">
+<!ENTITY aboutSupport.experimentEndDate "დასრულების თარიღი">
+<!ENTITY aboutSupport.experimentHomepage "საწყისი გვერდი">
+<!ENTITY aboutSupport.experimentBranch "შტო">
 
 <!ENTITY aboutSupport.appBasicsTitle "პროგრამის ძირითადი მონაცემები">
 <!ENTITY aboutSupport.appBasicsName "სახელი">
 <!ENTITY aboutSupport.appBasicsVersion "ვერსია">
+<!ENTITY aboutSupport.appBasicsBuildID "აგების ID">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "განახლების არხი">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "განახლების ისტორია">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "განახლების ისტორიის ჩვენება">
 
-
-
-<!ENTITY aboutSupport.appBasicsProfileDir "პროფილის დასტა">
+<!ENTITY aboutSupport.appBasicsProfileDir "პროფილის დირექტორია">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "პროფილის საქაღალდე">
 
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "ჩართული მოდულები">
 <!ENTITY aboutSupport.appBasicsBuildConfig "აგების კონფიგურაცია">
-
+<!ENTITY aboutSupport.appBasicsUserAgent "მომხმარებლის აგენტი">
+<!ENTITY aboutSupport.appBasicsMemoryUse "მეხსიერების გამოყენება">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "რეგისტრირებული Service Workers">
 
+<!ENTITY aboutSupport.appBasicsProfiles "პროფილები">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "მრავალპროცესიანი ფანჯრები">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "უსაფრთხო რეჟიმი">
+
+<!ENTITY aboutSupport.showDir.label "დირექტორიის გახსნა">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "ჩვენება მაძიებელში">
+<!ENTITY aboutSupport.showMac.label "ჩვენება Finder-ში">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "ჩვენება საქაღალდესი">
 
 <!ENTITY aboutSupport.modifiedPrefsName "სახელი">
+<!ENTITY aboutSupport.modifiedPrefsValue "მნიშვნელობა">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "user.js პარამეტრები">
 
+<!ENTITY aboutSupport.lockedPrefsName "სახელი">
+<!ENTITY aboutSupport.lockedPrefsValue "მნიშვნელობა">
 
+<!ENTITY aboutSupport.graphicsTitle "გრაფიკები">
 
-
-
-
-
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "თანმიმდევრული GC">
 
 <!ENTITY aboutSupport.a11yTitle "დამხმარე საშუალებები">
+<!ENTITY aboutSupport.a11yActivated "აქტივირებული">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "ბიბლიოთეკის ვერსიები">
+
+<!ENTITY aboutSupport.installationHistoryTitle "ინსტალაციის ისტორია">
+<!ENTITY aboutSupport.updateHistoryTitle "განახლების ისტორია">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "ტექსტის ბუფერში კოპირება">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "ნედლი მონაცემების ბუფერში კოპირება">
 
 
-
-
-<!ENTITY aboutSupport.installationHistoryTitle "ჩადგმის ისტორია">
-
-
-
-
-
-
+<!ENTITY aboutSupport.restartInSafeMode.label "გადატვირთვა გამორთული დამატებებით...">
