@@ -46,26 +46,28 @@
 
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Samp gi àgg na'>
-<!ENTITY sync.subtitle.success.label1 'Say rootaan yi jappoo nañu ci ginnaaw. Mën nga dem ci njëlu parameetar yi ngir saytu sa koont walla nga tàmbali joow ak &brandShortName;.'>
-<!ENTITY sync.settings.label 'Parammeetar yi'>
-<!ENTITY sync.subtitle.manage.label1 'Sa koont &syncBrand.fullName.label;tabbu na ba pare. Mën nga dem ci njëlu parameetar ngir saytu sa koont, walla nga tàmbali &brandShortName;.'>
+<!ENTITY sync.subtitle.success.label1 'Ñoo ngi tàmbali yebbi say njoxe ci ginnaaw. Man nga dem ci Jekk-jekkal ngir saytu sa sàq, walla tàmbali joow ak &brandShortName;.'>
+<!ENTITY sync.settings.label 'Jekk-jekkal'>
+<!ENTITY sync.subtitle.manage.label1 'Sa sàqu &syncBrand.fullName.label; jekk-jekkal nañ ko ba noppi. Man ngaa dem ci Jekk-jekkal ngir saytu sa sàq, walla nga tàmbali &brandShortName;.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Jéemaatal.'>
-<!ENTITY sync.pair.connectlocation.label 'Boo bëggee sàjj aparey bu bees, falal, « Tabb &syncBrand.shortName.label; » ci aparey bi , te nga fal « Am naa koont.»'>
+<!ENTITY sync.pair.tryagain.label 'Dila ñaan nga jéemaatal.'>
+<!ENTITY sync.pair.connectlocation.label 'Soo bëggee doxal sa jumtukaay bu bees, falal “Jekk-jekkal &syncBrand.shortName.label;” ci jumtukaay bi , te nga fal “Am naa sàq.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Tànneef yi'>
-<!ENTITY sync.summary.pair.label 'Boole beneen aparey ci sa koont &syncBrand.shortName.label;'>
+<!ENTITY sync.settings.options.label 'Tànnéef'>
+<!ENTITY sync.summary.pair.label 'Lëkkale beneen jumtukaay ak sa sàqu &syncBrand.shortName.label;'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.bookmarks 'Mandarga xët yi'>
-<!ENTITY sync.configure.engines.title.history 'Jaar jaar'>
-<!ENTITY sync.configure.engines.title.tabs 'Etiket'>
+<!ENTITY sync.configure.engines.title.label 'Looy lonk'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Lonk sa…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Màndarga-xët'>
+<!ENTITY sync.configure.engines.title.history 'Jaar-jaar'>
+<!ENTITY sync.configure.engines.title.tabs 'Làcc'>
 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Neenal'>
-<!ENTITY sync.button.connect.label 'Jokkoo'>
+<!ENTITY sync.button.connect.label 'Lonk'>
 <!ENTITY sync.button.ok.label 'OK'>
 
 <!-- Account strings -->
@@ -76,12 +78,12 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-<!ENTITY sync.default.client.name '&formatS1; on &formatS2;'>
+<!ENTITY sync.default.client.name '&formatS1; ci &formatS2;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Njëlu mandarga xët yi'>
+<!ENTITY bookmarks.folder.menu.label 'Njëlu màndarga-xët'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Etiket'>
+<!ENTITY bookmarks.folder.tags.label 'Làcc'>
 <!ENTITY bookmarks.folder.toolbar.label 'Sa banqaasu bopp'>
 <!ENTITY bookmarks.folder.unfiled.label 'Mandarga xët yu ñu ràññetlewul'>
 <!ENTITY bookmarks.folder.desktop.label 'Mandarga xëti orddinatëër'>
