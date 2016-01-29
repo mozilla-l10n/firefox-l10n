@@ -11,7 +11,6 @@
 <!ENTITY allowWindowMoveResize.label "Mover o cambiar el tamaño de ventanas existentes">
 <!ENTITY allowWindowFlip.label "Cambiar el plano de profundidad de las ventanas">
 <!ENTITY allowWindowStatusChange.label "Cambiar el texto de la barra de estado">
-<!ENTITY allowWindowImageSrcChange.label "Cambiar imágenes">
 <!ENTITY allowContextmenuDisable.label "Desactivar o reemplazar menús contextuales">
 <!ENTITY allowHideStatusBar.label "Esconder la barra de estado">
 <!ENTITY enableDrmMedia.label "Activar administración digital de derechos de">

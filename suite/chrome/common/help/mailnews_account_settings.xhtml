@@ -277,6 +277,13 @@ la ventana de Correo y noticias:</p>
     luego cada cuántos minutos realizar la comprobación. Si no selecciona esta
     opción, puede comprobar si hay mensajes nuevos en cualquier momento
     pulsando el botón Obtener mensajes en la ventana de Correo y noticias.</li>
+  <li><strong>Permitir notificaciones inmediatas del servidor cuando lleguen
+    nuevos mensajes</strong>: elija esta opción si el servidor es compatible
+    con la capacidad <q>IDLE</q> de IMAP para que notifique inmediatamente
+    a &brandShortName; cuando lleguen mensajes nuevos. Esta opción no tiene
+    ningún efecto en los servidores que no implementan esta capacidad. Puede
+    usarse junto con, o en lugar de, cualquiera de las otras opciones para
+    comprobar si hay correo nuevo.</li>    
   <li id="when_i_delete_a_message"><strong>Cuando borre un mensaje</strong>:
     elija qué debe hacer &brandShortName; cuando borre un mensaje. <q>Moverlo a
     esta carpeta</q>, donde puede elegir la carpeta concreta a usar, es lo
@@ -309,18 +316,20 @@ consulte con su proveedor o con el administrador del sistema.</p>
 del servidor IMAP, vaya a la ventana de Correo y noticias.</p>
 
 <ol>
-  <li>Abra el menú Editar y elija Configuración de cuentas
-  de correo y noticias. Verá aparecer el cuadro de diálogo.</li>
-  <li>Seleccione el nombre de la cuenta y elija la categoría de
-  Configuración del servidor.</li>
-  <li>Si el tipo de servidor es IMAP, pulse el botón de Avanzadas
-  para opciones adicionales IMAP, como:
+  <li>Abra el menú Editar y elija Configuración de cuentas de correo y
+    noticias. Verá aparecer el cuadro de diálogo.</li>
+  <li>Seleccione el nombre de la cuenta y elija la categoría de Configuración
+    del servidor.</li>
+  <li>Si el tipo de servidor es IMAP, pulse el botón Avanzadas para acceder
+    a opciones adicionales IMAP, como:
     <ul>
       <li>la ruta del directorio del servidor IMAP</li>
       <li>mostrar sólo <q>carpetas suscritas</q></li>
-      <li>soporte para subcarpetas</li>
-      <li>cualquier espacio de nombres personal y público (carpeta
-      compartida) para este directorio</li>
+      <li>capacidad de subcarpetas</li>
+      <li>el número máximo de conexiones simultáneas que se mantienen abiertas
+        con el servidor en esta cuenta</li>
+      <li>cualquier espacio de nombres personal y público (carpeta compartida)
+        para este directorio</li>
     </ul>
   </li>
 </ol>
