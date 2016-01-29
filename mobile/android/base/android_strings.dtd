@@ -760,7 +760,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone "دوربین و میکروفن">
 <!ENTITY restrictable_feature_camera_microphone_description "به اعضا خانواده اجازه می‌دهد تا وارد ارتباط دوطرفه‌ی بهنگام با وب‌سایت‌ها شوند.">
 <!ENTITY restrictable_feature_block_list "فهرست‌ مسدود‌ شده‌ها">
-
+<!ENTITY restrictable_feature_block_list_description "مسدود‌کردن پایگاه‌های اینترنتی که شامل محتوا حساس است.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
