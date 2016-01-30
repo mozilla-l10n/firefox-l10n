@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "Követés elleni védelem használata">
+<!ENTITY  trackingProtectionAlways.label       "Mindig">
+<!ENTITY  trackingProtectionAlways.accesskey   "d">
 
 
-
-
-
+<!ENTITY  trackingProtectionNever.label        "Soha">
+<!ENTITY  trackingProtectionNever.accesskey    "o">
 <!ENTITY  trackingProtectionLearnMore.label    "További tudnivalók">
 
 
