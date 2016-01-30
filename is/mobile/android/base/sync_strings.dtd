@@ -4,8 +4,8 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 
-<!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.fullName.label "Firefox samstilling">
+<!ENTITY syncBrand.shortName.label "Samstiling">
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
@@ -59,8 +59,8 @@
 <!ENTITY sync.summary.pair.label "Tengja annað tæki við &syncBrand.shortName.label; reikning þinn">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Hvað á að setja í sync">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sync þín...">
+<!ENTITY sync.configure.engines.title.label "Hvað á að setja í samstillingu">
+<!ENTITY sync.configure.engines.sync.my.title.label "Samstillingar þínar...">
 <!ENTITY sync.configure.engines.title.bookmarks "Bókarmerki">
 <!ENTITY sync.configure.engines.title.passwords2 "Innskráningar">
 <!ENTITY sync.configure.engines.title.history "Ferill">
@@ -117,7 +117,7 @@
 <!ENTITY fxaccount_full_label "Firefox reikningar">
 
 <!ENTITY fxaccount_custom_server_account_title "Nota reikning á netþjóni">
-<!ENTITY fxaccount_custom_server_sync_title "Geyma Sync gögn á netþjóni">
+<!ENTITY fxaccount_custom_server_sync_title "Geyma samstillingar gögn á netþjóni">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -156,7 +156,7 @@
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ég samþykki &formatS1; og &formatS2; Firefox skýjaþjónustunnar með því að halda áfram.">
 <!ENTITY fxaccount_create_account_button "Næsta þrep">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Veldu hvað skal Sync-a">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Veldu hvað skal samstilla">
 <!ENTITY fxaccount_create_account_sign_in_instead "Nú þegar með reikning? Innskráning">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 eða fyrr">
 <!ENTITY fxaccount_create_account_unknown_error "Gat ekki stofnað reikning">
@@ -183,7 +183,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error "Innskráning tókst ekki">
 
 <!ENTITY fxaccount_account_verified_sub_header "Reikningur staðfestur">
-<!ENTITY fxaccount_account_verified_description2 "Sync á gögnum þínum hefst eftir andartak.">
+<!ENTITY fxaccount_account_verified_description2 "Samstilling á gögnum þínum hefst eftir andartak.">
 
 <!ENTITY fxaccount_migration_finished_header "Uppfærslu lokið">
 
@@ -199,16 +199,16 @@
 <!ENTITY fxaccount_status_signed_in_as "Innskrá sem ">
 <!ENTITY fxaccount_status_manage_account "Umsýsl reikninga">
 <!ENTITY fxaccount_status_auth_server "Netþjónn reiknings">
-<!ENTITY fxaccount_status_sync_now "Sync-a núna">
-<!ENTITY fxaccount_status_syncing2 "Er að sync-a...">
+<!ENTITY fxaccount_status_sync_now "Samstilla núna">
+<!ENTITY fxaccount_status_syncing2 "Er að samstilla...">
 <!ENTITY fxaccount_status_device_name "Heiti á tæki">
-<!ENTITY fxaccount_status_sync_server "Sync netþjónn">
+<!ENTITY fxaccount_status_sync_server "Samstillingar miðlari">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; virkjað">
 <!ENTITY fxaccount_status_needs_verification2 "Það verður að staðfesta reikninginn þinn. Snertu til að endursenda staðfestingar tölvupóst.">
 <!ENTITY fxaccount_status_needs_credentials "Tenging tókst ekki. Snertu til að innskrá.">
 <!ENTITY fxaccount_status_needs_upgrade "Þú þarft að uppfæra &brandShortName; til að skrá þig inn.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt Sync-a gögn\&quot; stillingunni í Android stillingar &gt; Gagna notkun.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt samstilla gögn\&quot; stillingunni í Android stillingar &gt; Gagna notkun.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt Sync-a gögnum\&quot; stillingunni í Android stillingar &gt; Reikningar.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Snertu skjáinn til að skrá þig inn með nýja Firefox reikningnum.">
 <!ENTITY fxaccount_status_bookmarks "Bókarmerki">
@@ -226,7 +226,7 @@
 <!ENTITY fxaccount_remove_account "Aftengja&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Fjarlægja Firefox reikning">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; mun hætta að synca reikning þinn en mun ekki eyða neinum vafragögnum af þessu tæki.">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; mun hætta að samstilla reikning þinn en mun ekki eyða neinum vafragögnum af þessu tæki.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox reikningur &formatS; fjarlægður.">
@@ -273,5 +273,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
-<!ENTITY old_sync_deprecated_notification_title "Skráðu þig inn til að halda áfram sync.">
+<!ENTITY old_sync_deprecated_notification_title "Skráðu þig inn til að halda áfram samstillingu.">
 <!ENTITY old_sync_deprecated_notification_content "Reikningurinn þinn er ekki lengur studdur">
