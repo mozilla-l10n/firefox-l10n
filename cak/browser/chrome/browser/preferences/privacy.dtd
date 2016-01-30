@@ -5,8 +5,8 @@
 
 
 
-
-
+<!ENTITY  trackingProtectionNever.label        "Majub'ey">
+<!ENTITY  trackingProtectionNever.accesskey    "M">
 
 
 
@@ -43,10 +43,11 @@
 
 
 
-
+<!ENTITY  acceptThirdParty.never.label    "Majub'ey">
 <!ENTITY  acceptThirdParty.visited.label  "Etz'eton">
 
-
+<!ENTITY  keepUntil.label               "Tik'oje' k'a:">
+<!ENTITY  keepUntil.accesskey           "T">
 
 
 
@@ -80,6 +81,7 @@
 
 
 
-
+<!ENTITY  clearOnClose.label             "Tijoxq'ïx ri k'ulwachinel toq nitz'apïx &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "k">
 
 

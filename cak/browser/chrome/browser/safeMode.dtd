@@ -9,4 +9,5 @@
 
 
 
+<!ENTITY refreshProfileInstead.label  "Chuqa' yatikïr choj yatik'o chuwäch ri rusolik k'ayewal chuqa' natojtob'ej nik'ex ruwäch &brandShortName;-">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->

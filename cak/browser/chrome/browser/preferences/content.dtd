@@ -6,6 +6,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Taq rutzijol">
 
+<!ENTITY  notificationsPolicyDesc3.label       "Ticha' achike taq ruxaq k'amaya'l ya'on q'ij chi ke richin niqatäq taq kitzijol chawe">
 
 
 
@@ -19,8 +20,8 @@
 
 
 
-
-
+<!ENTITY  advancedFonts.label         "Taq Q'axinäq…">
+<!ENTITY  advancedFonts.accesskey     "Q">
 
 
 
