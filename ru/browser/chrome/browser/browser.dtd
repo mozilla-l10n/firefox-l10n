@@ -304,6 +304,7 @@
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки синхронизации">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Войдите, чтобы увидеть список вкладок с других устройств.">
 <!ENTITY appMenuRemoteTabs.signin.label "Войти в Синхронизацию">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Показать боковую панель облачных вкладок">
 <!ENTITY customizeMenu.addToToolbar.label "Добавить на панель инструментов">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
 <!ENTITY customizeMenu.addToPanel.label "Добавить в меню">
@@ -556,6 +557,19 @@
 <!ENTITY identity.permissionsEmpty "Вы не давали этому сайту каких-либо специальных разрешений.">
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 <!ENTITY syncTabsMenu3.label "Облачные вкладки">
+<!ENTITY syncedTabs.sidebar.label "Облачные вкладки">
+<!ENTITY syncedTabs.sidebar.fetching.label "Получение облачных вкладок…">
+<!ENTITY syncedTabs.sidebar.noclients.label "Войдите в Firefox на других устройствах, чтобы увидеть здесь их вкладки.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label "Войдите, чтобы увидеть список вкладок с других устройств.">
+<!ENTITY syncedTabs.sidebar.notabs.label "Нет открытых вкладок">
+<!ENTITY syncedTabs.sidebar.openprefs.label "Открыть настройки Синхронизации">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Включите синхронизацию вкладок, чтобы увидеть список вкладок с других устройств.">
+<!ENTITY syncedTabs.context.openTab.label "Открыть эту вкладку">
+<!ENTITY syncedTabs.context.openTab.accesskey "ы">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label "Добавить эту вкладку в закладки…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "б">
+<!ENTITY syncedTabs.context.refreshList.label "Обновить список">
+<!ENTITY syncedTabs.context.refreshList.accesskey "н">
 <!ENTITY syncBrand.shortName.label "Синхронизация">
 <!ENTITY syncSignIn.label "Войти в Синхронизацию…">
 <!ENTITY syncSignIn.accesskey "о">
@@ -654,7 +668,3 @@
 <!ENTITY panicButton.thankyou.buttonlabel "Спасибо!">
 <!ENTITY emeLearnMoreContextMenu.label "Узнать больше о DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "а">
-<!ENTITY emeNotificationsNotNow.label "Не сейчас">
-<!ENTITY emeNotificationsNotNow.accesskey "е">
-<!ENTITY emeNotificationsDontAskAgain.label "Не спрашивать в следующий раз">
-<!ENTITY emeNotificationsDontAskAgain.accesskey "а">
