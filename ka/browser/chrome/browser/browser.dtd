@@ -517,7 +517,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openLinkCmdInTab.label       "ბმულის გახსნა ახალ ჩანართში">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "ბმის ახალ ფანჯარაში გახსნა">
+<!ENTITY openLinkCmd.label            "ბმულის გახსნა ახალ ფანჯარაში">
 <!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkInPrivateWindowCmd.label "ბმულის ახალ პირად ფანჯარაში გახსნა">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "პ">
@@ -560,7 +560,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "შპალერად მითითება…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "ამ გვერდის ჩანიშვნა">
-<!ENTITY bookmarkThisLinkCmd.label      "ბმის სანიშნეებში შეტანა…">
+<!ENTITY bookmarkThisLinkCmd.label      "ბმულის ჩანიშვნა">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ბლოკის სანიშნეებში შეტანა…">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
@@ -575,7 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "ბლოკის დაბეჭდვა…">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "ბმის შენახვა როგორც…">
+<!ENTITY saveLinkCmd.label            "ბმულის შენახვა როგორც…">
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "ნახატის შენახვა როგორც…">
 <!ENTITY saveImageCmd.accesskey       "v">
@@ -595,7 +595,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "ჩ">
 <!ENTITY hidePluginCmd.label          "მიმდინარე მოდულის დამალვა">
 <!ENTITY hidePluginCmd.accesskey      "დ">
-<!ENTITY copyLinkCmd.label            "ბმის კოპირება">
+<!ENTITY copyLinkCmd.label            "ბმულის მდებარეობის კოპირება">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "ნახატის მისამართის კოპირება">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -825,7 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.tabTitle "&brandShortName;-ს მორგება">
 <!ENTITY customizeMode.menuAndToolbars.header2 "დამატებითი ხელსაწყოები და ფუნქციები">
 <!ENTITY customizeMode.menuAndToolbars.empty "მეტი ხელსაწყო გსურთ?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ ათასობით მოდულიდან">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ ათასობით დამატებიდან">
 <!ENTITY customizeMode.restoreDefaults "ნაგულისხმების აღდგენა">
 <!ENTITY customizeMode.toolbars "ხელსაწყოთა ზოლების ჩვენება / დამალვა">
 <!ENTITY customizeMode.titlebar "სათაურის ზოლი">
