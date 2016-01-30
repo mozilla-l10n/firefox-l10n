@@ -29,8 +29,8 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Retal ri taqoya'l">
 <!ENTITY setup.emailAddress.label     "Rochochib'al taqoya'l">
 <!ENTITY setup.emailAddress.accesskey "R">
-
-
+<!ENTITY setup.choosePassword.label      "Tacha' jun ewan tzij">
+<!ENTITY setup.choosePassword.accesskey  "e">
 <!ENTITY setup.confirmPassword.label     "Tijikib'äx ewan tzij">
 <!ENTITY setup.confirmPassword.accesskey "j">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
@@ -62,7 +62,7 @@
 <!ENTITY addDevice.showMeHow.label          "Tak'utu' chi nuwäch achike rub'eyal.">
 <!ENTITY addDevice.dontHaveDevice.label     "Man k'o ta wik'in ri okisaxel">
 <!ENTITY pairDevice.setup.description.label  "Richin natzïj, tacha&apos; &quot;Tixim jun okisaxel&quot; pan jun chik okisaxel.">
-
+<!ENTITY addDevice.setup.enterCode.label    "K'a ri' tatz'ib'aj  re tzij re':">
 <!ENTITY pairDevice.dialog.description.label "Richin natzïj ri k&apos;ak&apos;a&apos; awokisaxel, tacha&apos; &quot;Tinuk&apos;samajïx Ximïl&quot; pa ri okisaxel.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tatz'ib'aj ri tzij xtuya' pe ri okisaxel:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Tab'ana' utzil, tatojtob'ej jub'ey chik.">
