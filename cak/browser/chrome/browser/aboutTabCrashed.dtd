@@ -9,7 +9,7 @@
 <!ENTITY tabCrashed.commentPlaceholder "Titz'aqatisäx jun rutzijol (ri taq tzijol konojel winaqi' yetz'eto)">
 <!ENTITY tabCrashed.emailPlaceholder "Tatz'ib'aj wawe' ri rochochib'al ataqoya'l">
 <!ENTITY tabCrashed.emailMe "Tataqa' pe jun taqoyal chwe toq k'o ch'aqa' chik rutzijol">
-
+<!ENTITY tabCrashed.crashReporter "Rutzijol taq rusachoj Mozilla">
 <!ENTITY tabCrashed.reportSent "Xtaq ri rutzijol sachoj. ¡Matyox chawe ruma yojato' chi niqaq'i' jun &brandShortName; janila ütz!">
 <!ENTITY tabCrashed.closeTab "Titz'apïx re ruwi' re'">
 <!ENTITY tabCrashed.restoreTab "Titzolïx ruwäch re ruwi' re'">

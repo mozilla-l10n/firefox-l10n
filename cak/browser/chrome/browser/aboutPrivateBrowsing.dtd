@@ -48,6 +48,7 @@
 <!ENTITY trackingProtection.state.enabled      "Tzijïk">
 <!ENTITY trackingProtection.state.disabled     "CHUPUNÄQ">
 
+<!ENTITY trackingProtection.description1       "Ri ichinan taq tzuwäch rukiq'ät jujun taq ruchak'ulal ruxaq k'amaya'l, ri yetikír nikïl ri nasamajij pa okik'amaya'l.">
 
 <!ENTITY trackingProtection.disable            "Tajin nichup ri ruchajixik kanoxïk">
 <!ENTITY trackingProtection.enable             "Natzïj ruchajixik kanoxïk">

@@ -29,8 +29,8 @@
 
 <!ENTITY importBookmarksFromHTML.label     "Kek'am pe taq etal pa…">
 <!ENTITY importBookmarksFromHTML.accesskey "K">
-
-
+<!ENTITY exportBookmarksToHTML.label       "Kek'wäx el taq etal pa HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "K">
 <!ENTITY importOtherBrowser.label          "Kek'am pe ri tzij richin Another Browser">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
@@ -56,16 +56,18 @@
 <!ENTITY cmd.open_private_window.accesskey "i">
 <!ENTITY cmd.open_tab.label              "Tijaq jun k'ak'a' mich'">
 <!ENTITY cmd.open_tab.accesskey          "w">
-
-
+<!ENTITY cmd.open_all_in_tabs.label      "Tiqaj ronojel rik'in ruwi'">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "T">
 
 <!ENTITY cmd.properties.label      "Taq ch'akulal">
 <!ENTITY cmd.properties.accesskey  "a">
 
-
+<!ENTITY cmd.sortby_name.label              "Tinuk' chi b'i'aj">
+<!ENTITY cmd.sortby_name.accesskey          "T">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-
+<!ENTITY cmd.new_bookmark.label            "K'ak'a' etal…">
+<!ENTITY cmd.new_bookmark.accesskey        "e">
 <!ENTITY cmd.new_folder.label              "K'ak'a' yakwuj…">
 <!ENTITY cmd.new_folder.accesskey          "w">
 <!ENTITY cmd.context_new_folder.accesskey  "K">
@@ -92,9 +94,11 @@
 
 <!ENTITY cmd.find.key  "j">
 
-
+<!ENTITY maintenance.label      "Tik'am pe chuqa' tito' rij">
+<!ENTITY maintenance.accesskey  "T">
 <!ENTITY maintenance.tooltip    "Tik'am pe chuqa' tik'wäx el ri taq ayaketal">
 
+<!ENTITY backButton.tooltip  "Titzolin">
 
 <!ENTITY forwardButton.tooltip  "Tib'e chuwäch">
 
@@ -104,7 +108,8 @@
 <!ENTITY detailsPane.less.accesskey "b">
 <!ENTITY detailsPane.selectAnItemText.description "Tacha' jun ch'akulal richin natz'ët chuqa' nanük' ri taq ruch'akulal">
 
-
+<!ENTITY find.label               "Tikanöx:">
+<!ENTITY find.accesskey           "T">
 <!ENTITY view.label               "Titz'et">
 <!ENTITY view.accesskey           "t">
 <!ENTITY byDate.label             "chi rajilab'al q'ij">

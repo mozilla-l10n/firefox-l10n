@@ -11,7 +11,7 @@
 <!ENTITY button.haveAccount.label      "K'o chik jun nutaqoya'l">
 
 <!ENTITY setup.choicePage.title.label     "¿La awokisan chi &syncBrand.fullName.label;?">
-
+<!ENTITY setup.choicePage.new.label       "Majub'ey wokisan &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing2.label "Tajin chik ninwokisaj &syncBrand.shortName.label; pa jun chik okisaxel">
 <!-- New Account AND Existing Account -->
 
@@ -27,8 +27,8 @@
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Retal ri taqoya'l">
-
-
+<!ENTITY setup.emailAddress.label     "Rochochib'al taqoya'l">
+<!ENTITY setup.emailAddress.accesskey "R">
 
 
 <!ENTITY setup.confirmPassword.label     "Tijikib'äx ewan tzij">
@@ -36,8 +36,10 @@
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
+<!ENTITY setup.tosAgree1.label      "Yenk'ül ri taq">
+<!ENTITY setup.tosAgree1.accesskey  "Y">
 <!ENTITY setup.tosLink.label        "Ketal Samaj">
-
+<!ENTITY setup.tosAgree2.label      "chuqa' ri">
 <!ENTITY setup.ppLink.label         "Runa’oj rajaw">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
@@ -45,19 +47,21 @@
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; nuchajij ri awichin">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Richin nikijib'äl chijun ri awichinaxik, konojel ri taq atzij k'o chi man e'etaman ta chuwäch yetaq el pa k'amab'ey. Ri ewan tzij chi naköl richin netamäx kiwäch ri taq tzij ri', man xtitaq ta.">
-
-
+<!ENTITY recoveryKeyEntry.label        "Ri kolonel ewan atzij">
+<!ENTITY recoveryKeyEntry.accesskey    "a">
 <!ENTITY syncGenerateNewKey.label  "Titz'uk jun k'ak'a' ewan tzij">
 <!ENTITY recoveryKeyBackup.description "Rajowaxik ri kolonel ewan atzij richin yato pa &syncBrand.fullName.label; pa ch'aqa' chik taq samajib'äl. Tab'ana' utzil tab'ana' jun to'onel wachib'äl. We nasäch, man yojtikïr ta yatqato' richin naköl.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Tz'ajixïk…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-
-
+<!ENTITY button.syncKeyBackup.save.label      "Tiyak…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "T">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+
+<!ENTITY pairDevice.title.label             "Tixim jun okisaxel">
 <!ENTITY addDevice.showMeHow.label          "Tak'utu' chi nuwäch achike rub'eyal.">
 <!ENTITY addDevice.dontHaveDevice.label     "Man k'o ta wik'in ri okisaxel">
-
+<!ENTITY pairDevice.setup.description.label  "Richin natzïj, tacha&apos; &quot;Tixim jun okisaxel&quot; pan jun chik okisaxel.">
 
 <!ENTITY pairDevice.dialog.description.label "Richin natzïj ri k&apos;ak&apos;a&apos; awokisaxel, tacha&apos; &quot;Tinuk&apos;samajïx Ximïl&quot; pa ri okisaxel.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tatz'ib'aj ri tzij xtuya' pe ri okisaxel:">
@@ -75,8 +79,8 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Taq rucha'oj ximojri'ïl">
-
-
+<!ENTITY syncDeviceName.label       "Rub'i' ri okisaxel:">
+<!ENTITY syncDeviceName.accesskey   "b">
 
 <!ENTITY syncMy.label               "Tixim">
 <!ENTITY engine.bookmarks.label     "Taq etal">
@@ -94,7 +98,7 @@
 
 <!ENTITY choice2a.merge.main.label       "Kexol ri taq retamab'al re okisaxel re' rik'in ri wetamab'al richin &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Chilab'en">
-
+<!ENTITY choice2a.client.main.label      "Kek'es konojel ri taq tzij pa re okisaxel re' rik'in ri taq rutzij &syncBrand.shortName.label;">
 <!ENTITY choice2a.server.main.label      "Ke'ak'exa' ri taq kitzij ch'aqa' chik taq okisaxel rik'in ri taq rutzij re re'">
 <!-- Confirm Merge Options -->
 
@@ -107,4 +111,4 @@
 
 <!ENTITY setup.successPage.title "Xtzaqät runuk'ulem">
 <!ENTITY changeOptions.label "Yatikïr nak'ëx re ajowab'äl re' rik'in nacha' ri cha'oj richin ximojri'ïl pa xulan qa.">
-
+<!ENTITY continueUsing.label "Yatikïr nachäp chik el rik'in nawokisaj &brandShortName;.">
