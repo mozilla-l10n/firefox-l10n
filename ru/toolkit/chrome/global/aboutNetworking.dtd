@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived "Сообщений получено">
 <!ENTITY aboutNetworking.bytesSent "Байт отправлено">
 <!ENTITY aboutNetworking.bytesReceived "Байт получено">
+<!ENTITY aboutNetworking.dnsLookup "Запрос DNS">
+<!ENTITY aboutNetworking.dnsLookupButton "Запросить">
+<!ENTITY aboutNetworking.dnsDomain "Домен">
+<!ENTITY aboutNetworking.dnsLookupTableColumn "IP">
