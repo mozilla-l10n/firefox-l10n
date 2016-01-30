@@ -2,11 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "Usar a proteção contra rastreamento">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Somente em janelas privadas">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Nunca">
+<!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "Saiba mais">
 <!ENTITY  trackingProtectionExceptions.label   "Exceções…">
+<!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "Antirrastreamento">
 <!ENTITY trackingProtectionPBM5.label         "Usar proteção contra rastreamento em janelas privadas">
@@ -18,7 +23,6 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 <!ENTITY  doNotTrack.pre.label          "Você também pode ">
-<!ENTITY  doNotTrack.settings.label     "gerenciar as configurações "Não me rastreie"">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Histórico">
