@@ -1,25 +1,30 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
   - The Remote Connection window can reached from the "connect…" menuitem
   - in the Web Developer menu.
   - -->
 
-<!ENTITY host       "სერვერი:">
+<!ENTITY title      "დაკავშირება">
+<!ENTITY header     "დისტანციურ მოწყობილობაზე დაკავშირება">
+<!ENTITY host       "ჰოსტი:">
 <!ENTITY port       "პორტი:">
-
+<!ENTITY connect    "დაკავშირება">
 <!ENTITY connecting "დაკავშირება…">
-
-
-
+<!ENTITY availableAddons "ხელმისაწვდომი დისტანციური დამატებები:">
+<!ENTITY availableTabs "ხელმისაწვდომი დისტანციური ჩანართები:">
+<!ENTITY availableProcesses "ხელმისაწვდომი დისტანციური პროცესები:">
 <!ENTITY connectionError "შეცდომა:">
-
-
+<!ENTITY errorTimeout "შეცდომა: კავშირის ვადა გავიდა.">
+<!ENTITY errorRefused "შეცდომა: კავშირი უარყოფილია.">
+<!ENTITY errorUnexpected "მოულოდნელი შეცდომა.">
 
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
-
+<!ENTITY remoteHelp "Firefox დეველოპერის ხელსაწყოებს შეუძლიათ გამართონ დისტანციური მოწყობილობები (მაგალითად Firefox Androidდა Firefox OS, ). დარწმუნდით, რომ დისტანციურ მოწყობილობაში ჩართული გაქვთ 'დისტანციური გამართვის' პარამეტრი. მეტის გასაგებად იხილეთ ">
+<!ENTITY remoteDocumentation "დოკუმენტაცია">
+<!ENTITY remoteHelpSuffix ".">
 
