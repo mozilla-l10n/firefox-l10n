@@ -664,7 +664,7 @@ do Android">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Para baixar arquivos e atualizações, permitir ao &brandShortName; permissão para acessar o armazenamento.">
+<!ENTITY updater_permission_text "Para baixar arquivos e atualizações, permitir ao &brandShortName; acessar o armazenamento.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Permitir">
 
