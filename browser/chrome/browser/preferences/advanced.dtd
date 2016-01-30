@@ -14,7 +14,7 @@
 <!ENTITY searchStartTyping.accesskey     "у">
 <!ENTITY blockAutoRefresh.label          "Попереджати при спробі сайтів переадресувати чи перезавантажити сторінку">
 <!ENTITY blockAutoRefresh.accesskey      "П">
-<!ENTITY useOnScreenKeyboard.label       "Показати сенсорну клавіатуру, коли це необхідно">
+<!ENTITY useOnScreenKeyboard.label       "Показувати сенсорну клавіатуру при необхідності">
 <!ENTITY useOnScreenKeyboard.accesskey   "о">
 
 <!ENTITY browsing.label                  "Перегляд сайтів">

@@ -4,14 +4,14 @@
 
 <!ENTITY  trackingProtectionHeader.label       "Використовувати захист від стеження">
 <!ENTITY  trackingProtectionAlways.label       "Завжди">
-<!ENTITY  trackingProtectionAlways.accesskey   "з">
+<!ENTITY  trackingProtectionAlways.accesskey   "З">
 <!ENTITY  trackingProtectionPrivate.label      "Лише у приватних вікнах">
-<!ENTITY  trackingProtectionPrivate.accesskey  "л">
+<!ENTITY  trackingProtectionPrivate.accesskey  "Л">
 <!ENTITY  trackingProtectionNever.label        "Ніколи">
-<!ENTITY  trackingProtectionNever.accesskey    "н">
+<!ENTITY  trackingProtectionNever.accesskey    "Н">
 <!ENTITY  trackingProtectionLearnMore.label    "Докладніше">
 <!ENTITY  trackingProtectionExceptions.label   "Винятки…">
-<!ENTITY  trackingProtectionExceptions.accesskey "в">
+<!ENTITY  trackingProtectionExceptions.accesskey "В">
 
 <!ENTITY tracking.label                 "Стеження">
 <!ENTITY trackingProtectionPBM5.label         "Використовувати захист від стеження в приватних вікнах">
@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 <!ENTITY  doNotTrack.pre.label          "Ви також можете ">
-<!ENTITY  doNotTrack.settings.label     "керувати вашими налаштуваннями відмови від стеження">
+<!ENTITY  doNotTrack.settings.label     "керувати своїми налаштуваннями відмови від стеження">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Історія відвідувань">
