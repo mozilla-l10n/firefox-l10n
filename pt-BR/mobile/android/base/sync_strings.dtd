@@ -85,7 +85,7 @@
 <!ENTITY bookmarks.folder.menu.label 'Menu Favoritos'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Etiquetas'>
-<!ENTITY bookmarks.folder.toolbar.label 'Barra dos favoritos'>
+<!ENTITY bookmarks.folder.toolbar.label 'Barra de favoritos'>
 <!ENTITY bookmarks.folder.unfiled.label 'Favoritos não organizados'>
 <!ENTITY bookmarks.folder.desktop.label 'Favoritos do desktop'>
 <!ENTITY bookmarks.folder.mobile.label 'Favoritos do dispositivo móvel'>
