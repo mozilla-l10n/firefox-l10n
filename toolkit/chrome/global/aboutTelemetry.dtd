@@ -36,11 +36,11 @@
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
-<!ENTITY aboutTelemetry.generalDataSection " Általános adatok">
+<!ENTITY aboutTelemetry.generalDataSection "  Általános adatok">
 
 <!ENTITY aboutTelemetry.environmentDataSection "  Környezeti adatok">
 
-<!ENTITY aboutTelemetry.telemetryLogSection " Telemetriai napló">
+<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetriai napló">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Lassú SQL utasítások">
 
