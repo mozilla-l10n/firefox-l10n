@@ -22,7 +22,7 @@
 <!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
 <!ENTITY firstrun_sync_subtext "Sincronize sua abas, senhas e muito mais em todos os lugares que usá-lo.">
 <!ENTITY firstrun_signin_button "Entrar no Sync">
-<!ENTITY  onboard_start_button_browser "Iniciar a navegação">
+<!ENTITY  onboard_start_button_browser "Iniciar navegação">
 <!ENTITY firstrun_button_next "Próximo">
 
 <!ENTITY  onboard_start_restricted1 "Fique seguro e no controle com esta versão simplificada do &brandShortName;.">
@@ -41,7 +41,7 @@
 <!ENTITY  crash_send_report_message3 "Notificar a &vendorShortName; sobre este travamento para que eles possam corrigi-lo">
 <!ENTITY  crash_include_url2 "Incluir o endereço da página onde eu estava">
 <!ENTITY  crash_sorry "Lamentamos">
-<!ENTITY  crash_comment "Adicione um comentário (será visível ao publico)">
+<!ENTITY  crash_comment "Adicione um comentário (visível ao público)">
 <!ENTITY  crash_allow_contact2 "Permitir que a &vendorShortName; contate-me sobre este relatório">
 <!ENTITY  crash_email "Seu e-mail">
 <!ENTITY  crash_closing_alert "Sair sem enviar um relatório de travamento?">
@@ -107,7 +107,7 @@
 <!ENTITY settings "Configurações">
 <!ENTITY settings_title "Configurações">
 <!ENTITY pref_category_general "Geral">
-<!ENTITY pref_category_general_summary2 "Pagina inicial, idioma, barra de URL">
+<!ENTITY pref_category_general_summary2 "Página inicial, idioma, barra de endereço">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -147,14 +147,14 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "Nenhum dispositivo conectado a conta Firefox">
 
-<!ENTITY pref_category_search3 "Pesquisar">
+<!ENTITY pref_category_search3 "Pesquisa">
 <!ENTITY pref_category_search_summary "Personalize seus mecanismos de pesquisa">
 <!ENTITY pref_category_accessibility "Acessibilidade">
 <!ENTITY pref_category_accessibility_summary2 "Tamanho do texto, zoom, entrada de voz">
 <!ENTITY pref_category_privacy_short "Privacidade">
-<!ENTITY pref_category_privacy_summary3 "Rastreamento, cookies, escolhas de dados">
+<!ENTITY pref_category_privacy_summary3 "Rastreamento, cookies, dados compartilhados">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Sobre o &brandShortName;, FAQs, opinião">
+<!ENTITY pref_category_vendor_summary2 "Sobre o &brandShortName;, dúvidas, opinião">
 <!ENTITY pref_category_datareporting "Escolha de dados">
 <!ENTITY pref_learn_more "Saiba mais">
 <!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
@@ -181,7 +181,7 @@
 <!ENTITY pref_category_home_summary "Personalize sua página inicial">
 <!ENTITY pref_category_home_panels "Painéis">
 <!ENTITY home_add_panel_title "Adicionar novo painel">
-<!ENTITY home_add_panel_empty "Desculpe, não encontramos nenhum painel para adicionar.">
+<!ENTITY home_add_panel_empty "Não encontramos nenhum painel para adicionar.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -220,9 +220,9 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Ativado">
-<!ENTITY pref_cookies_not_accept_foreign "Ativado, excluindo os de terceiros">
-<!ENTITY pref_cookies_disabled "Desativado">
+<!ENTITY pref_cookies_accept_all "Habilitado">
+<!ENTITY pref_cookies_not_accept_foreign "Hbilitado, excluindo os de terceiros">
+<!ENTITY pref_cookies_disabled "Desabilitado">
 
 <!ENTITY pref_tap_to_load_images_title2 "Mostrar imagens">
 <!ENTITY pref_tap_to_load_images_enabled "Sempre">
@@ -230,8 +230,8 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloqueado">
 
 <!ENTITY pref_tracking_protection_title "Proteção contra rastreamento">
-<!ENTITY pref_tracking_protection_summary3 "Ativo na navegação privativa">
-<!ENTITY pref_donottrack_title "Não rastrear">
+<!ENTITY pref_tracking_protection_summary3 "Habilitado na navegação privada">
+<!ENTITY pref_donottrack_title "Não me rastreie">
 <!ENTITY pref_donottrack_summary "O &brandShortName; informará aos sites que você não quer ser rastreado">
 
 <!ENTITY pref_tracking_protection_enabled "Habilitado">
@@ -250,7 +250,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Você pode alterar isso mais tarde nas configurações">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_positive_action_button "Ativar">
+<!ENTITY tab_queue_prompt_positive_action_button "Habilitar">
 <!ENTITY tab_queue_prompt_negative_action_button "Agora não">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
@@ -279,14 +279,14 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; irá limpar automaticamente os seus dados sempre que selecionar \u0022Sair\u0022 no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecione quais dados limpar">
 <!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Ativado">
+<!ENTITY pref_plugins_enabled "Habilitado">
 <!ENTITY pref_plugins_tap_to_play "Toque para reproduzir">
-<!ENTITY pref_plugins_disabled "Desativado">
+<!ENTITY pref_plugins_disabled "Desabilitado">
 <!ENTITY pref_text_size "Tamanho do texto">
 <!ENTITY pref_restore_tabs "Restaurar abas">
 <!ENTITY pref_restore_always "Restaurar sempre">
 <!ENTITY pref_restore_quit "Não restaurar após sair do &brandShortName;">
-<!ENTITY pref_font_size_tiny "Minúsculo">
+<!ENTITY pref_font_size_tiny "Mini">
 <!ENTITY pref_font_size_small "Pequeno">
 <!ENTITY pref_font_size_medium "Médio">
 <!ENTITY pref_font_size_large "Grande">
@@ -395,15 +395,15 @@ size. -->
 <!ENTITY save_as_pdf "Salvar como PDF">
 <!ENTITY print "Imprimir">
 <!ENTITY find_in_page "Localizar na página">
-<!ENTITY desktop_mode "Solicitar como desktop">
+<!ENTITY desktop_mode "Requisitar site para desktop">
 <!ENTITY page "Página">
 <!ENTITY tools "Ferramentas">
 <!ENTITY new_tab "Nova aba">
 <!ENTITY new_private_tab "Nova aba privativa">
 <!ENTITY close_all_tabs "Fechar todas as abas">
-<!ENTITY close_private_tabs "Fechar abas privativas">
+<!ENTITY close_private_tabs "Fechar abas privadas">
 <!ENTITY tabs_normal "Abas">
-<!ENTITY tabs_private "Privativas">
+<!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincronizadas">
 <!ENTITY set_image_fail "Não foi possível definir a imagem">
 <!ENTITY set_image_path_fail "Não foi possível salvar a imagem">
@@ -424,7 +424,7 @@ size. -->
 <!ENTITY media_stop "Parar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir em uma nova aba">
-<!ENTITY contextmenu_open_private_tab "Abrir em uma aba privativa">
+<!ENTITY contextmenu_open_private_tab "Abrir em uma aba privada">
 <!ENTITY contextmenu_remove "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar à tela inicial">
 <!ENTITY contextmenu_share "Compartilhar">
@@ -463,11 +463,11 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Navegação em tela inteira">
+<!ENTITY pref_scroll_title_bar2 "Navegação em tela cheia">
 <!ENTITY pref_scroll_title_bar_summary2 "Ocultar a barra de ferramentas do &brandShortName; ao rolar a tela para baixo">
 
-<!ENTITY pref_tab_queue_title2 "Abir múltiplos links">
-<!ENTITY pref_tab_queue_summary3 "Salvar para a próxima vez que iniciar o &brandShortName;">
+<!ENTITY pref_tab_queue_title2 "Abrir vários links">
+<!ENTITY pref_tab_queue_summary3 "Salvá-los até a próxima vez que abrir o &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -538,7 +538,7 @@ size. -->
 <!ENTITY home_selected_empty "Sites visitados no período selecionado aparecem aqui.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: ao usar uma &formatS1;Nova aba privativa&formatS2; o seu histórico não será salvo.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: ao usar uma &formatS1;Nova aba privada&formatS2;, seu histórico não será salvo.">
 <!ENTITY home_reading_list_empty "Artigos salvos para depois serão mostrados aqui.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
@@ -619,7 +619,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY disable_protection "Desativar proteção">
 <!ENTITY keep_blocking "Continuar bloqueando">
 
-<!ENTITY private_data_success "Dados de navegação limpos">
+<!ENTITY private_data_success "Dados privados limpos">
 <!ENTITY private_data_fail "Alguns dados privados não puderam ser limpos">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
@@ -674,7 +674,7 @@ do Android">
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "O &brandShortName; irá reiniciar agora">
-<!ENTITY new_guest_session_text2 "A pessoa que o estiver usando não poderá ver os seus dados de navegação (como senhas salvas, histórico ou Favoritos).\n\nQuando o seu convidado terminar, os dados de navegação serão excluídos e a sua sessão será restaurada.">
+<!ENTITY new_guest_session_text2 "A pessoa que estiver usando não poderá ver os seus dados pessoais (como senhas salvas, histórico ou Favoritos).\n\nQuando o seu convidado terminar, os dados de navegação serão excluídos e a sua sessão será restaurada.">
 <!ENTITY guest_browsing_notification_title "Navegação do convidado está ativa">
 <!ENTITY guest_browsing_notification_text "Toque para sair">
 
@@ -725,7 +725,7 @@ do Android">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "Este link vai abrir em &formatS;. Tem certeza que deseja sair da navegação privativa?">
+<!ENTITY intent_uri_private_browsing_prompt "Este link vai abrir em &formatS;. Tem certeza que deseja sair da navegação privada?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
