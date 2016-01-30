@@ -17,8 +17,9 @@
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Atokinäq pan ichinan k'amaya'l">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Man yakon ta">
 <!ENTITY aboutPrivateBrowsing.info.history     "Natab’äl">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Taq kanob'äl">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Ch'utiwäch">
 
@@ -36,15 +37,18 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
+
+<!ENTITY trackingProtection.width1             "22em">
 <!ENTITY trackingProtection.title              "Tajin nukanoj ri chajinem">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
 <!ENTITY trackingProtection.state.width        "6ch">
-
+<!ENTITY trackingProtection.state.enabled      "Tzijïk">
 <!ENTITY trackingProtection.state.disabled     "CHUPUNÄQ">
 
 
+<!ENTITY trackingProtection.disable            "Tajin nichup ri ruchajixik kanoxïk">
 <!ENTITY trackingProtection.enable             "Natzïj ruchajixik kanoxïk">
 <!ENTITY trackingProtection.startTour1         "Titzu' achike rub'eyal nisamäj re re'">

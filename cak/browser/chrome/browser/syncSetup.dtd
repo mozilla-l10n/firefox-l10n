@@ -54,16 +54,18 @@
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY addDevice.showMeHow.label          "Tak'utu' chi nuwäch achike rub'eyal.">
+<!ENTITY addDevice.dontHaveDevice.label     "Man k'o ta wik'in ri okisaxel">
 
 
-
-
+<!ENTITY pairDevice.dialog.description.label "Richin natzïj ri k&apos;ak&apos;a&apos; awokisaxel, tacha&apos; &quot;Tinuk&apos;samajïx Ximïl&quot; pa ri okisaxel.">
 
 <!ENTITY addDevice.dialog.tryAgain.label    "Tab'ana' utzil, tatojtob'ej jub'ey chik.">
 <!ENTITY addDevice.dialog.successful.label  "Re okisaxel re' ütz xyake' kan. Re nab'ey ximïk re', rik'in jub'a' xtiyoke' ka'i' oxi' ch'utiramaj, k'a ri' xtik'is pa ruka'n b'ey.">
-
-
+<!ENTITY addDevice.dialog.recoveryKey.label     "Richin natzïj ri awokisaxel, rajowaxik natz'ib'aj ri kolonel ewan atzij. Tab'ana' utzil tatz'ajb'a' o tayaka' re ewan tzij re' chuqa' tachajij.">
+<!ENTITY addDevice.dialog.connected.label   "Okisan chi okisaxel">
 <!-- Existing Account Page 2: Manual Login -->
+
+<!ENTITY setup.signInPage.title.label "Tatikirisaj molojri'ïl">
 <!ENTITY existingRecoveryKey.description "Yatikïr nak&apos;ül jun ruwachib&apos;al ri ewan atzij richin yakolon toaq yatok pa Taq rucha&apos;oj &syncBrand.shortName.label; pa awokisaxel, chuqa&apos; nacha&apos;  &quot;Ewan nutzij richin yikolon&quot; chupam ri &quot;Tisamajïx taqoya&apos;l&quot;.">
 <!ENTITY verifying.label              "Tajin nijikib'äx…">
 <!ENTITY resetPassword.label          "Titzolïx ewan tzij">
@@ -75,8 +77,8 @@
 
 
 <!ENTITY syncMy.label               "Tixim">
-
-
+<!ENTITY engine.bookmarks.label     "Taq etal">
+<!ENTITY engine.bookmarks.accesskey "e">
 <!ENTITY engine.tabs.label          "Taq ruwi'">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Natab’äl">
@@ -98,7 +100,7 @@
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; xkeruxöl konojel ri taq etamab'äl richin rokik'amaya'l re re okisaxel re' rik'in ri ataqoya'l richin Sync.">
 <!ENTITY confirm.client3.label         "K'ayewal: Re taq rutzij &brandShortName; pa re okisaxel re' xtiyuj el:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; xtuwachib'ej ri taq atzij e k'o pa &syncBrand.fullName.label; pa re okisaxel re'.">
-
+<!ENTITY confirm.server2.label         "Chilab'exïk tzij: Ri taq kina'oj re taq okisaxel re' xketz'ib'äx qa pa kiwi' ri taq ajwawe' chi tzij:">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Xtzaqät runuk'ulem">
