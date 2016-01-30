@@ -143,7 +143,7 @@
 <!ENTITY pref_cookies_accept_all "Включены">
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
 <!ENTITY pref_cookies_disabled "Отключены">
-<!ENTITY pref_tap_to_load_images_title2 "Показ изображений">
+<!ENTITY pref_tap_to_load_images_title2 "Показывать изображения">
 <!ENTITY pref_tap_to_load_images_enabled "Всегда">
 <!ENTITY pref_tap_to_load_images_data "Только через Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Заблокирован">
@@ -207,7 +207,7 @@
 <!ENTITY pref_sync2 "Войти">
 <!ENTITY pref_sync_summary2 "Синхронизация вкладок, закладок, логинов, истории">
 <!ENTITY pref_search_suggestions "Поисковые предложения">
-<!ENTITY pref_history_search_suggestions "Показать историю поиска">
+<!ENTITY pref_history_search_suggestions "Показывать историю поиска">
 <!ENTITY pref_import_options "Настройки импорта">
 <!ENTITY pref_import_android_summary "Импорт закладок и истории из системного браузера">
 <!ENTITY pref_private_data_history2 "Журнал посещений">
