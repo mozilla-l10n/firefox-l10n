@@ -15,11 +15,11 @@
 
 
 
-
-
+<!ENTITY firstrun_data_title "Gögn">
+<!ENTITY firstrun_data_message "Minni gögn, meiri sparnaður ">
 
 <!ENTITY firstrun_sync_title "Sync">
-
+<!ENTITY firstrun_sync_message "&brandShortName;, sífellt hjá þér">
 
 
 
