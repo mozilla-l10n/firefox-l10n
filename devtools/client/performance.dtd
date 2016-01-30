@@ -56,7 +56,6 @@
 <!ENTITY performanceUI.enableFramerate.tooltiptext "Запись частоты кадров при профилировании.">
 <!ENTITY performanceUI.enableJITOptimizations "Запись оптимизаций JIT">
 <!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Запись данных оптимизаций JIT замерянных в каждом фрейме JavaScript.">
-<!ENTITY performanceUI.JITOptimizationsTitle "Оптимизации JIT">
 <!ENTITY performanceUI.console.recordingNoticeStart "Сейчас идёт запись через">
 <!ENTITY performanceUI.console.recordingNoticeEnd "">
 <!ENTITY performanceUI.console.stopCommandStart "Остановите запись, введя">
