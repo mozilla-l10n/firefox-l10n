@@ -58,7 +58,7 @@
 
 
 <!ENTITY pairDevice.dialog.description.label "Richin natzïj ri k&apos;ak&apos;a&apos; awokisaxel, tacha&apos; &quot;Tinuk&apos;samajïx Ximïl&quot; pa ri okisaxel.">
-
+<!ENTITY addDevice.dialog.enterCode.label   "Tatz'ib'aj ri tzij xtuya' pe ri okisaxel:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Tab'ana' utzil, tatojtob'ej jub'ey chik.">
 <!ENTITY addDevice.dialog.successful.label  "Re okisaxel re' ütz xyake' kan. Re nab'ey ximïk re', rik'in jub'a' xtiyoke' ka'i' oxi' ch'utiramaj, k'a ri' xtik'is pa ruka'n b'ey.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Richin natzïj ri awokisaxel, rajowaxik natz'ib'aj ri kolonel ewan atzij. Tab'ana' utzil tatz'ajb'a' o tayaka' re ewan tzij re' chuqa' tachajij.">

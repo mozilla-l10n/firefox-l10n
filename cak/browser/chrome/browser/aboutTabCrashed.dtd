@@ -6,7 +6,7 @@
 <!ENTITY tabCrashed.message "Wakami ri utziläl taq rutzijol: Ütz xa xe natz'apij re ruwi' re', rutzolixik ruwäch o kitzolixik kiwäch konojel ri tz'ilan taq ruwi'.">
 <!ENTITY tabCrashed.sendReport "Titaq jun rutzijol taq tz'ilanem richin nito'on chi yechajïx ri tz'ilan taq rutzijol">
 <!ENTITY tabCrashed.includeURL "Titz'aqatisäx ri rochochib'al ruxaq k'amaya'l akuchi' in k'o wi kan">
-
+<!ENTITY tabCrashed.commentPlaceholder "Titz'aqatisäx jun rutzijol (ri taq tzijol konojel winaqi' yetz'eto)">
 <!ENTITY tabCrashed.emailPlaceholder "Tatz'ib'aj wawe' ri rochochib'al ataqoya'l">
 <!ENTITY tabCrashed.emailMe "Tataqa' pe jun taqoyal chwe toq k'o ch'aqa' chik rutzijol">
 
