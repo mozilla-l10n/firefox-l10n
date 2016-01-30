@@ -34,6 +34,7 @@ wěš dobru přičinu, čehodla tute sydło dowěry hódnu identifikaciju njewu�
 <!ENTITY certerror.addException.label "Wuwzaće přidać…">
 <!ENTITY certerror.copyToClipboard.label "Tekst do mjezyskłada kopěrować">
 
-
-
-
+<!ENTITY errorReporting.automatic "Zdźělće zmylki kaž tutón, zo byšće Mozilla pomhał, wopak konfigurowane sydła identifikował">
+<!ENTITY errorReporting.sending "Rozprawa so sćele">
+<!ENTITY errorReporting.sent "Rozprawa je so pósłała">
+<!ENTITY errorReporting.tryAgain "Hišće raz spytać">
