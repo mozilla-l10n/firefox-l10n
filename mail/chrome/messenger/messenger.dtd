@@ -32,9 +32,9 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "І">
 <!ENTITY newIMAccountCmd.label "Чатовий запис…">
 <!ENTITY newIMAccountCmd.accesskey "Ч">
-<!ENTITY newFeedAccountCmd.label "Feed Account…">
+<!ENTITY newFeedAccountCmd.label "Стрічка новин…">
 <!ENTITY newFeedAccountCmd.accesskey "d">
-<!ENTITY newIMContactCmd.label "Chat Contact…">
+<!ENTITY newIMContactCmd.label "Контакт чату…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Open Saved Message…">
 <!ENTITY openMessageFileCmd.accesskey "O">
@@ -145,7 +145,7 @@
 <!ENTITY messagePaneVertical.accesskey "В">
 <!ENTITY showFolderPaneCmd.label "Панель тек">
 <!ENTITY showFolderPaneCmd.accesskey "т">
-<!ENTITY showFolderPaneColsCmd.label "Folder Pane Columns">
+<!ENTITY showFolderPaneColsCmd.label "Колонки панелі тек">
 <!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Область перегляду листів">
 <!ENTITY showMessageCmd.accesskey "О">
@@ -158,11 +158,11 @@
 <!ENTITY allFolders.accesskey "В">
 <!ENTITY unreadFolders.label "Непрочитані">
 <!ENTITY unreadFolders.accesskey "Н">
-<!ENTITY favoriteFolders.label "Обрані">
+<!ENTITY favoriteFolders.label "Улюблені">
 <!ENTITY favoriteFolders.accesskey "О">
 <!ENTITY recentFolders.label "Недавні">
 <!ENTITY recentFolders.accesskey "д">
-<!ENTITY compactVersion.label "Compact View">
+<!ENTITY compactVersion.label "Компактний вигляд">
 <!ENTITY compactVersion.accesskey "C">
 
 <!-- Sort Menu -->
@@ -428,7 +428,7 @@
 <!ENTITY openConversationCmd.label "Відкрити у Бесіді">
 <!ENTITY openConversationCmd.accesskey "Б">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openAttachmentListCmd.label "Attachments">
+<!ENTITY openAttachmentListCmd.label "Вкладення">
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "When Opening Feed Messages">
 <!ENTITY openFeedMessage1.accesskey "O">
@@ -489,7 +489,7 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix2.accesskey "м">
-<!ENTITY allowRemoteDebugging.label "Allow Remote Debugging">
+<!ENTITY allowRemoteDebugging.label "Дозволити дистанційне налагодження">
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
@@ -699,7 +699,7 @@
 <!ENTITY starredColumn2.tooltip "Sort by star">
 <!ENTITY locationColumn2.tooltip "Sort by location">
 <!ENTITY idColumn2.tooltip "Sort by order received">
-<!ENTITY attachmentColumn2.tooltip "Sort by attachments">
+<!ENTITY attachmentColumn2.tooltip "Сортувати за вкладеннями">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Відкрити лист в новому вікні">
