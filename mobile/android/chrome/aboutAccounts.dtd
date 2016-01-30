@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.connected.title "Firefox reikningar">
 <!ENTITY aboutAccounts.connected.description "Þú ert tengd/ur sem">
-<!ENTITY aboutAccounts.syncPreferences.label "Snertið hér til að skoða Sync stillingar">
+<!ENTITY aboutAccounts.syncPreferences.label "Snertið hér til að skoða stillingar fyrir samstillingu">
 
 <!ENTITY aboutAccounts.noConnection.title "Engin internet tenging">
 <!ENTITY aboutAccounts.retry.label "Reyndu aftur">

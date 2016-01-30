@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "Gerðu vef upplifunina á handhæga tækinu virkilega þína eigin.">
 
 <!ENTITY firstrun_urlbar_message "Vertu velkomin í &brandShortName;!">
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Finnið efni hraðar með hjálplegum leitar uppástungum.">
+<!ENTITY firstrun_bookmarks_title "Ferill">
+<!ENTITY firstrun_bookmarks_message "Uppáhaldið þitt, fremst og fyrir miðju">
+<!ENTITY firstrun_bookmarks_subtext "Leita líka í bókamerkjunumog ferlinum þínum þegar þú framkvæmir leit.">
 <!ENTITY firstrun_data_title "Gögn">
-<!ENTITY firstrun_data_message "Minni gögn, meiri sparnaður ">
-
-<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_data_message "Minna um gögn, meiri niðurhals sparnaður ">
+<!ENTITY firstrun_data_subtext "Ekki hlaða myndir til að spara gagnamagn.">
+<!ENTITY firstrun_sync_title "Samstilla">
 <!ENTITY firstrun_sync_message "&brandShortName;, sífellt hjá þér">
-
-
-
+<!ENTITY firstrun_sync_subtext "Samstilltu flipana þína, lykilorð og annað alls staðar.">
+<!ENTITY firstrun_signin_message "Tengdu þig til að hefjast handa">
+<!ENTITY firstrun_signin_button "Skráðu þig inn til að samstilla">
 <!ENTITY  onboard_start_button_browser "Fara að vafra">
 <!ENTITY firstrun_button_next "Áfram">
 
@@ -313,7 +313,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Nota aðal lykilorð">
 <!ENTITY pref_sync2 "Innskráning">
-<!ENTITY pref_sync_summary2 "Synca flipana þína, bókarmerki, lykilorð, sögu">
+<!ENTITY pref_sync_summary2 "Samstilltu flipana þína, bókarmerki, lykilorð, feril">
 <!ENTITY pref_search_suggestions "Sýna leitar uppástungur">
 <!ENTITY pref_history_search_suggestions "Sýna í leitarsögu">
 <!ENTITY pref_import_options " Valmöguleikar fyrir innflutning">
@@ -327,7 +327,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Gögn um ótengt vefsvæði">
 <!ENTITY pref_private_data_siteSettings2 "Stillingar vefsvæðis">
 <!ENTITY pref_private_data_downloadFiles2 "Niðurhal">
-<!ENTITY pref_private_data_syncedTabs "Syncaðir flipar">
+<!ENTITY pref_private_data_syncedTabs "Samstilltir flipar">
 
 
 <!ENTITY pref_about_firefox "Um &brandShortName;">
@@ -403,7 +403,7 @@ size. -->
 <!ENTITY close_private_tabs "Loka einkaflipum">
 <!ENTITY tabs_normal "Flipar">
 <!ENTITY tabs_private "Einka">
-<!ENTITY tabs_synced "Synced">
+<!ENTITY tabs_synced "Samstillt">
 <!ENTITY set_image_fail "Gat ekki notað mynd">
 <!ENTITY set_image_path_fail "Gat ekki vistað mynd">
 <!ENTITY set_image_chooser_title "Nota mynd sem">
@@ -548,14 +548,14 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Færa upp að &formatS;">
 
-<!ENTITY home_remote_tabs_title "Syncaðir flipar">
+<!ENTITY home_remote_tabs_title "Samstilltir flipar">
 <!ENTITY home_remote_tabs_empty "Fliparnir þínir sem eru opnir á öðrum tækjum sjást hér.">
 <!ENTITY home_remote_tabs_unable_to_connect "Gat ekki tengst">
-<!ENTITY home_remote_tabs_need_to_sign_in "Vinsamlega skráðu þig inn til að endurtengjast við Firefox reikninginn þinn og halda áfram synci.">
+<!ENTITY home_remote_tabs_need_to_sign_in "Vinsamlega skráðu þig inn til að endurtengjast við Firefox reikninginn þinn og halda áfram samstillingu.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "Nýi Firefox reikningurinn þinn er tilbúinn!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Áttu í erfiðleikum með að staðfesta reikninginn þinn?">
-<!ENTITY home_remote_tabs_need_to_verify "Vinsamlega staðfesta Firefox reikninginn þinn til að hefja sync.">
+<!ENTITY home_remote_tabs_need_to_verify "Vinsamlega staðfesta Firefox reikninginn þinn til að hefja samstillingu.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 falið tæki ">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
@@ -706,9 +706,9 @@ frá Android">
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 
-<!ENTITY remote_tabs_last_synced "Síðasta sync: &formatS;">
+<!ENTITY remote_tabs_last_synced "Síðasta samstilling: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "Síðasta sync: aldrei">
+<!ENTITY remote_tabs_never_synced "Síðasta samstilling: aldrei">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
