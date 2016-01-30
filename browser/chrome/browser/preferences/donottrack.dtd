@@ -6,5 +6,7 @@
 <!ENTITY window.width                 "40em">
 <!ENTITY window.height                "8em">
 
+<!ENTITY doNotTrackCheckbox.label     "Usar o Não me rastreie">
+<!ENTITY doNotTrackCheckbox.accesskey "U">
 
 <!ENTITY doNotTrackLearnMore.label    "Saiba mais">
