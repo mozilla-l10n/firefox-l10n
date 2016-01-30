@@ -163,5 +163,7 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
+<!ENTITY options.sourceeditor.tabsize.label             "ჩანართის ზომა">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.default.label  "ნაგულისხმები">
 

@@ -7,28 +7,29 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "პ">
 
 <!ENTITY privateBrowsing.title                 "პირადი სეანსი">
+
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
      Width of the Private Browsing section. This should depend primarily on the
      length of the headers and text, but should be roughly 1.5 times the width
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
-
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
-<!ENTITY aboutPrivateBrowsing.title            "თქვენ პრივატულად ანცხორციელებთ ბრაუზინგს">
+<!ENTITY aboutPrivateBrowsing.title            "პირადი დათვალიერების რეჟიმი">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "შეუნახავი">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "არ შეინახება">
 <!ENTITY aboutPrivateBrowsing.info.history     "ისტორია">
 <!ENTITY aboutPrivateBrowsing.info.searches    "ძიებები">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "ნაჭდევები">
+<!ENTITY aboutPrivateBrowsing.info.cookies     "ფუნთუშები">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "დროებითი ფაილები">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "შენახული">
+<!ENTITY aboutPrivateBrowsing.info.saved       "შეინახება">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "ჩამოტვირთვები">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "სანიშნეები">
 
 <!ENTITY aboutPrivateBrowsing.note1            "გთხოვთ გაითვალისწინეთ, რომ თქვენს დამსაქმებელს ან ინტერნეტ მომსახურების მომწოდებელს მაინც შეუძლია იმ გვერდების ნახვა, რომლებსაც ეწვევით.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "მეტის გაგება.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
      disabled indicator or the words in the title to wrap to the next line, but
@@ -37,13 +38,12 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
-
 <!ENTITY trackingProtection.width1             "26em">
 <!ENTITY trackingProtection.title              "თვალყურისგან დაცვა">
+
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
-
 <!ENTITY trackingProtection.state.width        "6ch">
 <!ENTITY trackingProtection.state.enabled      "ჩარ.">
 <!ENTITY trackingProtection.state.disabled     "გამ.">

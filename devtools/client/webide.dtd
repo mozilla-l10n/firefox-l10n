@@ -5,52 +5,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY viewMenu_label "ჩვენება">
-
-
-
-
-
-
-
-
-
 
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -60,90 +15,38 @@
 <!-- show toolbox -->
 <!-- toggle sidebar -->
 <!-- zoom -->
-
-
-
 <!-- reload WebIDE and devtools from local checkout -->
 <!-- this binding is with accel+alt, whereas all others are just accel -->
 
-
 <!ENTITY projectPanel_tabs "დაფები">
 
-
-
-
-
-
-
-
 <!-- Lense -->
-
-
-
 <!ENTITY details_location "მისამართი">
-
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "დახურვა">
+
 <!-- Addons -->
 
 <!-- Prefs -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY prefs_options_tabsize "ჩანართის ზომა">
+<!ENTITY prefs_options_expandtab "ნაზი ჩანართები">
 <!ENTITY prefs_options_keybindings_default "ნაგულისხმები">
-
 
 <!-- Permissions Table -->
 
 <!-- Runtime Details -->
 
-
-
-
-
-
 <!-- Device Preferences and Settings -->
-
-
 <!ENTITY device_typeobject "ობიექტი">
 
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
-
-
-
 
 <!-- Monitor -->
 
@@ -159,15 +62,8 @@
      devices that can scan a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+
 <!-- Logs panel -->
+
 <!-- Simulator Options -->
-
-
-
-
 <!ENTITY simulator_version "ვერსია">
-
-
-
-
-

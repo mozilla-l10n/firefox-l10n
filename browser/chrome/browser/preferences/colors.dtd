@@ -23,7 +23,7 @@
 
 <!ENTITY  underlineLinks.label            "ბმების ხაზგასმა">
 <!ENTITY  underlineLinks.accesskey        "U">
-<!ENTITY  links                           "ბმის ფერები">
+<!ENTITY  links                           "ბმულის ფერები">
 <!ENTITY  linkColor.label                 "მოუნახულებელი ბმები:">
 <!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "ნანახი ბმები:">
