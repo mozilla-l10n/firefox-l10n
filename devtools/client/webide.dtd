@@ -215,3 +215,6 @@
 <!ENTITY simulator_device "Пристрій">
 <!ENTITY simulator_screenSize "Дисплей">
 <!ENTITY simulator_pixelRatio "Співвідношення пікселів">
+<!ENTITY simulator_tv_data "TV Моделювання">
+<!ENTITY simulator_tv_data_open "Налаштування даних">
+<!ENTITY simulator_tv_data_open_button "Відкрити каталог налаштувань…">
