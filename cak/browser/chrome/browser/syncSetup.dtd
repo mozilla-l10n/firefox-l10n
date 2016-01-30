@@ -14,10 +14,12 @@
 
 <!ENTITY setup.choicePage.existing2.label "Tajin chik ninwokisaj &syncBrand.shortName.label; pa jun chik okisaxel">
 <!-- New Account AND Existing Account -->
+
+<!ENTITY server.label               "Ruk'u'x samaj">
 <!ENTITY serverType.default.label      "Ruk'amon wi pe: Ruk'u'x rusamaj Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Tawokisaj jun ichinan ruk'u'x samaj…">
-
-
+<!ENTITY signIn.account2.label      "Retal taqoya'l">
+<!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Ewan tzij">
 <!ENTITY signIn.password.accesskey  "E">
 <!ENTITY signIn.recoveryKey.label       "Kolonel ewan tzij">
