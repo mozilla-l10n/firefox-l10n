@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Полный" >
 <!ENTITY pref.dateformat.short "Краткий"  >
 
+<!ENTITY pref.timezones.caption "Часовой пояс">
+<!ENTITY pref.timezones.label "Укажите ближайший город в вашем часовом поясе:">
+<!ENTITY pref.timezones.accesskey "к">
+
 <!ENTITY pref.defaults.label "Значения по умолчанию для новых">
 <!ENTITY pref.events.label "Событий">
 <!ENTITY pref.tasks.label "Задач">
@@ -28,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "Относительно текущего времени">
 <!ENTITY pref.default_task_offset_start.label "Относительно начала">
 <!ENTITY pref.default_task_offset_next_hour.label "Относительно следующего часа">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Мероприятия">
+<!ENTITY pref.soondays.label "В разделе предстоящих показано:">
+<!ENTITY pref.soondays.accesskey "е">
 
 <!ENTITY pref.accessibility.label "Общедоступность" >
 <!ENTITY pref.systemcolors.label "Оптимизировать цвета для людей с ограниченными возможностями" >
