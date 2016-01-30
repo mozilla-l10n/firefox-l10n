@@ -20,8 +20,11 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
+<!ENTITY  doNotTrack.pre.label          "Chuqa' yatikïr">
 
 
+
+<!ENTITY  history.label                 "K'ulwachinel">
 
 
 <!ENTITY  locbar.suggest.label          "Jampe' toq nokisäx ri rukajtz'ik k'ojlemal, tichilab'ëx:">
@@ -29,6 +32,8 @@
 
 
 
+<!ENTITY  locbar.openpage.label         "Kejaq taq ruwi'">
+<!ENTITY  locbar.openpage.accesskey     "K">
 
 
 
@@ -39,9 +44,7 @@
 
 
 
-
-
-
+<!ENTITY  acceptThirdParty.visited.label  "Etz'eton">
 
 
 
@@ -64,7 +67,7 @@
 
 
 
-
+<!ENTITY  rememberActions.post.label          ".">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->

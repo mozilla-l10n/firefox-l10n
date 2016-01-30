@@ -8,8 +8,8 @@
 
 
 
-
-
+<!ENTITY useCurrentPage.label      "Tokisäx ri ruxaq k'amaya'l k'o wakami">
+<!ENTITY useCurrentPage.accesskey  "C">
 
 
 
@@ -27,8 +27,8 @@
 
 
 
-
-
+<!ENTITY setAsMyDefaultBrowser2.label     "Tib'an kan richin wi chi re">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "k">
 
 
 

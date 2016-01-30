@@ -13,9 +13,9 @@
 <!ENTITY  paneSearch.title        "Rukanoxik">
 
 
-
+<!ENTITY  panePrivacy.title       "Ichinanem">
 <!ENTITY  paneSecurity.title      "Chajinïk">
-
+<!ENTITY  paneAdvanced.title      "Q'axinäq">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "Sync">
