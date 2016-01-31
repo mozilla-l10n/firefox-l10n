@@ -306,3 +306,6 @@
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label         "Kontaktid">
 
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label          "Kohanda saatja aadressi…">
+<!ENTITY customizeFromAddress.accesskey      "a">
