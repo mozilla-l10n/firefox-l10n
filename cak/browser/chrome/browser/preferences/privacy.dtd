@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "Nrokisaj ruchajinïk pa ruwi' ilonem">
+
 
 <!ENTITY  trackingProtectionPrivate.label      "Xa xe pa taq ichinan tzuwäch">
 <!ENTITY  trackingProtectionPrivate.accesskey  "x">
@@ -26,6 +28,7 @@
 
 <!ENTITY  history.label                 "K'ulwachinel">
 
+<!ENTITY  locationBar.label             "Kikajtz'ik taq k'ojlib'äl">
 
 <!ENTITY  locbar.suggest.label          "Jampe' toq nokisäx ri rukajtz'ik k'ojlemal, tichilab'ëx:">
 
@@ -62,9 +65,9 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; xtitikïr:">
 <!ENTITY  historyHeader.pre.accesskey      "x">
+<!ENTITY  historyHeader.remember.label     "Tinatäx k'ulwachinel">
 
-
-
+<!ENTITY  historyHeader.custom.label       "Tokisäx jun ichinan runuk'ulem re k'ulwachixel">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; xtunataj ri ruk'ulwachinel okik'amaya'l, taq qasanïk, taq nojwuj chuqa' taq kanob'äl, chuqa' xkeruyäk kan ri taq kikuki ri taq ruxaq k'amaya'l xe'atz'ët.">
@@ -72,13 +75,15 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.clearHistory.label  "Tijosq'ïx ri k'ak'a' k'ulwachinel">
-
+<!ENTITY  rememberActions.middle.label        ", chuqa' ">
 <!ENTITY  rememberActions.removeCookies.label "keyuj el ri taq kuki pa yonil">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
+<!ENTITY  dontrememberActions.pre.label          "Rik'in jub'a' chuqa' ütz natz'ët">
+<!ENTITY  dontrememberActions.clearHistory.label "tijosq'ïx ronojel ri k'ulwachinel">
 <!ENTITY  dontrememberActions.post.label         ".">
 
 
@@ -91,4 +96,5 @@
 <!ENTITY  clearOnClose.label             "Tijoxq'ïx ri k'ulwachinel toq nitz'apïx &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "k">
 
-
+<!ENTITY  clearOnCloseSettings.label     "Nuk’ulem…">
+<!ENTITY  clearOnCloseSettings.accesskey "N">

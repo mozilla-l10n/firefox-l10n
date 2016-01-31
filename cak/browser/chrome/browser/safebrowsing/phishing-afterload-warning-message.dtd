@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeb.palm.accept.label "¡Kinel el wawe!">
-
+<!ENTITY safeb.palm.decline.label "Tijerepüx re rutzijol k'ayewal re'">
 <!ENTITY safeb.palm.notforgery.label2 "Re jun ruxaq re' man q'olonel ta…">
-
+<!ENTITY safeb.palm.reportPage.label "¿Atux ruma toq q'aton re jun ruxaq k'amaya'l re'?">
 
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Re ruxaq k'amaya'l re' q'olonel!">

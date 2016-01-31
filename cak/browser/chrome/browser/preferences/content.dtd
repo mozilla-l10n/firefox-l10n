@@ -10,14 +10,15 @@
 <!ENTITY  notificationsPolicy.label            "Taq rutzijol">
 <!ENTITY  notificationsPolicyLearnMore.label   "Tetamäx ch'aqa' chik">
 <!ENTITY  notificationsPolicyDesc3.label       "Ticha' achike taq ruxaq k'amaya'l ya'on q'ij chi ke richin niqatäq taq kitzijol chawe">
-
-
+<!ENTITY  notificationsPolicyButton.accesskey  "c">
+<!ENTITY  notificationsPolicyButton.label      "Ticha'…">
 <!ENTITY  notificationsDoNotDisturb.label      "Man kinanäq">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "M">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Majun chi rutzijol xkek'ut pe, k'a xtatikirisaj na ri &brandShortName;">
 
 
 
-
+<!ENTITY  fontsAndColors.label        "Kiwäch taq tz'ib' chuqa' taq b'onil">
 
 <!ENTITY  defaultFont.label           "Ruwäch tzij kan k'o wi:">
 <!ENTITY  defaultFont.accesskey       "R">
@@ -35,7 +36,8 @@
 <!ENTITY chooseButton.label           "Ticha'…">
 <!ENTITY chooseButton.accesskey       "c">
 
-
+<!ENTITY translateWebPages.label      "Titzalq'omïx rupam ajk'amaya'l">
+<!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Taq man relik ta…">
 <!ENTITY translateExceptions.accesskey "e">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -52,4 +54,4 @@
 <!ENTITY  drmContent.label             "DRM rupam etamab'äl">
 
 
-
+<!ENTITY  playDRMContent.learnMore.label "Tetamäx ch'aqa' chik">

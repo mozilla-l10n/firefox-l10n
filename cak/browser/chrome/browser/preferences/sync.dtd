@@ -14,6 +14,8 @@
 <!ENTITY resetPass.label              "Titzolïx ruwäch">
 <!-- Manage Account -->
 
+<!ENTITY manageAccount.label          "Tinuk'samajïx rub'i' taqoya'l">
+<!ENTITY manageAccount.accesskey      "n">
 <!ENTITY changePassword2.label        "Tijal ewan tzij…">
 <!ENTITY myRecoveryKey.label          "Ri kolonel ewan nutzij">
 <!ENTITY resetSync2.label             "Titzolïx ruwäch Ximojri'ïl…">
@@ -26,14 +28,16 @@
 <!ENTITY engine.tabs.accesskey      "w">
 <!ENTITY engine.history.label       "K'ulwachinel">
 <!ENTITY engine.history.accesskey   "e">
-
-
+<!ENTITY engine.passwords.label     "Ewan taq tzij">
+<!ENTITY engine.passwords.accesskey "E">
 <!ENTITY engine.prefs.label         "Taq ajowab'äl">
 <!ENTITY engine.prefs.accesskey     "a">
 <!ENTITY engine.addons.label        "Taq rutz’aqat">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
+<!ENTITY syncDeviceName.label       "Rub'i' ri okisaxel:">
+<!ENTITY syncDeviceName.accesskey   "b">
 
 <!ENTITY changeSyncDeviceName.label "Tijal rub'i' ri okisaxel…">
 <!ENTITY cancelChangeSyncDeviceName.label "Tiq'at">
@@ -67,7 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY disconnect.label            "Tichup…">
 <!ENTITY verify.label                "Tinik'öx taqoya'l">
-
+<!ENTITY forget.label                "Tamestaj re taqoya'l re'">
 
 <!ENTITY welcome.description "Katok chupam ri taq awi', taq yaketal, ewan taq tzij chuqa' ch'aqa' chik we xtawokisaj &brandShortName;.">
 <!ENTITY welcome.signIn.label "Titikirisäx molojri'ïl">
@@ -77,9 +81,10 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.description        "Ke'axima' ri taq ayaketal, k'ulwachinel, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.">
 
-
+<!ENTITY signedOut.accountBox.create  "Titz'uk rub'i' taqoya'l">
 <!ENTITY signedOut.accountBox.signin  "Titikirisäx molojri'Il">
 
+<!ENTITY signedIn.engines.label       "Kexim konojel ri taq okisaxel">
 <!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Sync to your mobile device.
@@ -88,6 +93,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo2.start            "Kexim rik'in ri k'wa'oyonib'äl awokisaxel. Tiqasäx">
 <!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo2.androidLink      "Firefox richin Android">
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 

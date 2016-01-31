@@ -17,5 +17,6 @@
 <!ENTITY switchToNewTabs.label        "Toq nijaq jun ximonel pa jun k'ak'a' ruwi', tijalwachïx rik'in re' pan aninäq">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
-
-
+<!ENTITY showTabsInTaskbar.label          "Tik'ut pe taq ch'utin ruwi' pa ri rukajtz'ik rusamaj Tzuwäch">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY tabsGroup.label          "Taq ruwi'">
