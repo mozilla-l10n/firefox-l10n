@@ -6,6 +6,16 @@
 
 <!ENTITY  blockPopups.label           "Estä ponnahdusikkunat">
 <!ENTITY  blockPopups.accesskey       "E">
+
+<!ENTITY  notificationsPolicy.label            "Huomautukset">
+<!ENTITY  notificationsPolicyLearnMore.label   "Lue lisää">
+<!ENTITY  notificationsPolicyDesc3.label       "Valitse sivustot, joilta vastaanotetaan huomautuksia">
+<!ENTITY  notificationsPolicyButton.accesskey  "V">
+<!ENTITY  notificationsPolicyButton.label      "Valitse…">
+<!ENTITY  notificationsDoNotDisturb.label      "Älä häiritse minua">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "Ä">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Huomautuksia ei näytetä ennen kuin käynnistät &brandShortName;in uudestaan">
+
 <!ENTITY  popupExceptions.label       "Poikkeukset…">
 <!ENTITY  popupExceptions.accesskey   "P">
 

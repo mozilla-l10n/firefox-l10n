@@ -215,3 +215,12 @@ functionality specific to firefox. -->
      "ssl_error_unsupported_version". -->
 <!ENTITY sslv3Used.longDesc "Tarkemmat tiedot: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Lue lisää…">
+
+<!ENTITY weakCryptoUsed.title "Yhteys ei ole suojattu">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "ssl_error_no_cypher_overlap". -->
+<!ENTITY weakCryptoUsed.longDesc "Yksityiskohtaiset tiedot: ssl_error_no_cypher_overlap">
+<!ENTITY weakCryptoUsed.learnMore "Lue lisää…">
+<!ENTITY weakCryptoAdvanced.title "Yksityiskohdat">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> käyttää tietosuojateknologiaa, joka on vanhentunut ja hyökkäyksille haavoittuvainen. Hyökkääjä voisi helposti lukea tietoja, joiden luulit olevan suojattuja.">
+<!ENTITY weakCryptoAdvanced.override "(Ei suojattu) Yritä ladata <span class='hostname'></span> käyttäen vanhentunut tietosuojaa">

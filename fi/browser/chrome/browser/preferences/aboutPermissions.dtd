@@ -41,7 +41,7 @@
 
 <!ENTITY popup.label                     "Avaa ponnahdusikkunat">
 
-<!ENTITY push.label                      "Vastaanota ilmoitukset">
+<!ENTITY desktop-notification.label      "Näytä ilmoitukset">
 <!ENTITY camera.label                    "Käytä kameraa">
 <!ENTITY microphone.label                "Käytä mikrofonia">
 
