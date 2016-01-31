@@ -2,5 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  settingsChangePreferences.label  "Налаштування можна змінити у вкладці "Вкладення" в Налаштуваннях &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "Налаштування можна змінити у вкладці "Вкладення" в Налаштуваннях &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "Налаштування можуть бути змінені у вкладці Вкладення Налаштувань &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Налаштування можуть бути змінені у вкладці Вкладення Налаштувань &brandShortName;.">
