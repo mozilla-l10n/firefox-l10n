@@ -32,11 +32,6 @@
 <!ENTITY acceptforNDays.accesskey       "u">
 <!ENTITY days.label                     "dagar">
 
-<!ENTITY warnAboutCookies.label         "Varna mig innan en kaka lagras">
-<!ENTITY warnAboutCookies.accesskey     "r">
-<!ENTITY forCurrentSession.label        "förutom om tillfälliga kakor">
-<!ENTITY forCurrentSession.accesskey    "f">
-
 <!ENTITY manageCookies.label            "Hantera kakor och webbplatser">
 <!ENTITY manageCookiesDescription.label "Låter dig visa och hantera lagrade kakor och inställningar för accepterande och blockerande av kakor för olika platser. Inställningar för en plats kommer att åsidosätta ovanstående inställningar.">
 

@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Använd detta certifikat för att signera meddelanden du skickar:">
 
 <!ENTITY certificates.label "Certifikat">
-<!ENTITY manageCerts.label "Hantera certifikat…">
-<!ENTITY manageCerts.accesskey "H">
+<!ENTITY manageCerts2.label "Hantera certifikat…">
+<!ENTITY manageCerts2.accesskey "H">
 <!ENTITY manageDevices.label "Hantera säkerhetsenheter…">
 <!ENTITY manageDevices.accesskey "k">
