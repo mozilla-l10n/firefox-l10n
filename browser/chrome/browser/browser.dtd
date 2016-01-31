@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "附加组件">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "应用">
-<!ENTITY webapps.accesskey            "p">
-<!ENTITY loopMenuItem.label           "发起聊天">
-<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "Web 开发者">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -714,14 +710,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "基本页面样式">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "更改对此网站的弹窗阻止设置">
+<!ENTITY pageReportIcon.tooltip            "更改对此网站的弹窗拦截设置">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "编辑弹窗阻止首选项…">
-<!ENTITY editPopupSettings.label "编辑弹窗阻止选项…">
+<!ENTITY editPopupSettingsUnix.label "编辑弹窗拦截首选项…">
+<!ENTITY editPopupSettings.label "编辑弹窗拦截选项…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -752,10 +748,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "此页面存储在您的计算机上。">
 <!ENTITY identity.connectionVerified1 "您已安全地链接至此站点，此网站的所有者是：">
 <!ENTITY identity.connectionInternal "这是一个安全的 &brandShortName; 页面。">
-<!ENTITY identity.insecureLoginForms "您的登录信息可能被泄露。">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; 已阻止此页面上的不安全内容。">
+<!ENTITY identity.activeBlocked "&brandShortName; 已拦截此页面上的不安全内容。">
 <!ENTITY identity.passiveLoaded "此页面上的不安全内容（例如图像）">
 <!ENTITY identity.activeLoaded "您在此页面上已禁用保护。">
 <!ENTITY identity.weakEncryption "此页面使用较弱加密。">
@@ -765,10 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "在此页面输入您的登录信息并不安全，可能会泄露。">
 <!ENTITY identity.description.weakCipher "您至此网站的连接使用了一个较弱的加密并且非私密。">
 <!ENTITY identity.description.weakCipher2 "其他人可能查看您的信息和修改该网站的行为。">
-<!ENTITY identity.description.activeBlocked "&brandShortName; 已阻止此页面上的不安全内容。">
+<!ENTITY identity.description.activeBlocked "&brandShortName; 已拦截此页面上的不安全内容。">
 <!ENTITY identity.description.passiveLoaded "您的连接非私密，并且您与此网站分享的信息可能被其他人看到。">
 <!ENTITY identity.description.passiveLoaded2 "此网站包含不安全内容（例如图像）。">
-<!ENTITY identity.description.passiveLoaded3 "尽管 &brandShortName; 已阻止部分内容，但页面上仍有内容不安全（例如图像）。">
+<!ENTITY identity.description.passiveLoaded3 "尽管 &brandShortName; 已拦截部分内容，但页面上仍有内容不安全（例如图像）。">
 <!ENTITY identity.description.activeLoaded "此网站包含的内容不安全（例如脚本），并且您至它的连接非私密。">
 <!ENTITY identity.description.activeLoaded2 "您与此网站分享的信息可能被其他人看到（例如密码、邮件、信用卡等）。">
 
@@ -858,7 +853,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "您的屏幕上的所有可见窗口都将被共享。">
 
 <!ENTITY trackingProtection.title "跟踪保护">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已阻止该页面可能跟踪您的浏览行为的部分。">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已拦截该页面可能跟踪您的浏览行为的部分。">
 <!ENTITY trackingProtection.detectedNotBlocked3 "此网站包含的元素可能跟踪您的浏览行为。您已经禁用保护。">
 <!ENTITY trackingProtection.notDetected3 "此页面上未检测到跟踪元素。">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
@@ -875,7 +870,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "跟踪">
-<!ENTITY trackingContentBlocked.moreinfo "已阻止此页面中跟踪您的网上活动的部分。">
+<!ENTITY trackingContentBlocked.moreinfo "已拦截此页面中跟踪您的网上活动的部分。">
 <!ENTITY trackingContentBlocked.learnMore "详细了解">
 <!ENTITY trackingContentBlocked.options "选项">
 <!ENTITY trackingContentBlocked.unblock2.label "在此网站上禁用保护">
@@ -936,10 +931,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "不再询问">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-<!ENTITY saveToPocketCmd.label     "保存页面到 Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "保存链接到 Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "查看 Pocket 列表">

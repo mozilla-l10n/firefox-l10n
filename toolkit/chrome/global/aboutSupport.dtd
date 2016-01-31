@@ -55,6 +55,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "已注册的 Service Worker">
 
+<!ENTITY aboutSupport.appBasicsProfiles "配置文件">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "多进程窗口">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "安全模式">
