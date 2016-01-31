@@ -11,7 +11,7 @@
 <!ENTITY sync.disconnect            "Ciyari dunbu">
 <!ENTITY sync.syncNow               "Hangandi sohõ">
 
-<!ENTITY sync.setup.title           "Ciya Sync še">
+<!ENTITY sync.setup.title           "Ciya Sync do">
 <!ENTITY sync.setup.pair            "Ka dirandi, wa &quot;Jinay foo margandi&quot; suuba war jinay faa ga.">
 <!ENTITY sync.fallback              "Ay ši ay ordinateroo jeroo ga…">
 <!ENTITY sync.setup.manual          "War Sync kontu alhabaroo dam">

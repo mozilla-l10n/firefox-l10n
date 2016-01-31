@@ -39,7 +39,7 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; kaŋyan bayrandikaw">
 <!ENTITY  crash_message2 "&brandShortName; kaŋ šenday banda ga. War kanjey ga hima ka bangay &brandShortName; šintin moɲoo ga nda war ga tunandi taaga.">
-<!ENTITY  crash_send_report_message3 "Kaŋyanoo woo har &vendorShortName; še hal\u0027i m\u0027a hanse">
+<!ENTITY  crash_send_report_message3 "Kaŋyanoo woo har &vendorShortName; se hal\u0027i m\u0027a hanse">
 <!ENTITY  crash_include_url2 "Moɲoo kaŋ g\u0027ay cindi aderesoo dam da">
 <!ENTITY  crash_sorry "W\u0027alhaa naŋ">
 <!ENTITY  crash_comment "Daara tonton (boro kul ga hin ka dii daarawey)">
@@ -108,7 +108,7 @@
 <!ENTITY settings "Kayandiyaney">
 <!ENTITY settings_title "Kayandiyaney">
 <!ENTITY pref_category_general "Hankul">
-<!ENTITY pref_category_general_summary2 "Šintin moo, šenni, URL zuu ">
+<!ENTITY pref_category_general_summary2 "Šintin moo, šenni, URL zuu">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -149,7 +149,7 @@
 <!ENTITY overlay_no_synced_devices "Firefox kontu dobante kul mana duwandi">
 
 <!ENTITY pref_category_search3 "Ceeci">
-<!ENTITY pref_category_search_summary "War ceeciyan nookey hanse war boŋ še">
+<!ENTITY pref_category_search_summary "War ceeciyan nookey hanse war boŋ se">
 <!ENTITY pref_category_accessibility "Duwandiyan">
 <!ENTITY pref_category_accessibility_summary2 "Hantum azzaati, beeriyan, jinde damhaya">
 <!ENTITY pref_category_privacy_short "Sutura">
@@ -179,7 +179,7 @@
 <!ENTITY pref_manage_logins "Huruyan tammaasawey juwal">
 
 <!ENTITY pref_category_home "Šintin">
-<!ENTITY pref_category_home_summary "Šintinmoo hanse war boŋše">
+<!ENTITY pref_category_home_summary "Šintinmoo hanse war boŋse">
 <!ENTITY pref_category_home_panels "Fasaldogey">
 <!ENTITY home_add_panel_title "Fasaldoo taaga tonton">
 <!ENTITY home_add_panel_empty "Alhaa naŋ, ir mana hin ka duu fasaldoo kul ka tonton.">
@@ -304,7 +304,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Afozo cirya cahãntaa ga sar war anniyawey jine nda kargayan, nda doonay nda boŋ-naannay sifante. Kaŋ ir ši goy arriba še, kul ir goo d\u0027ir boŋ ka haya tejey šii war še bila nda alman wala hinni m\u0027a waažibandi. Maanaa ti goyyan bešere war še nda zama annuurante Interneti še.">
+<!ENTITY pref_font_size_preview_text "Afozo cirya cahãntaa ga sar war anniyawey jine nda kargayan, nda doonay nda boŋ-naannay sifante. Kaŋ ir ši goy arriba se, kul ir goo d\u0027ir boŋ ka haya tejey šii war se bila nda alman wala hinni m\u0027a waažibandi. Maanaa ti goyyan bešere war se nda zama annuurante Interneti se.">
 
 <!ENTITY pref_media_autoplay_enabled "Yadda boŋhẽenandiyan ga">
 <!ENTITY pref_media_autoplay_enabled_summary "Dabari wala nungey ga hin ka widewo nda hoorayjinay tana hẽenandi ngi boŋ se">
@@ -353,7 +353,7 @@ size. -->
 <!ENTITY datareporting_notification_title "&brandShortName; kabuyan nda bayhaya">
 <!ENTITY datareporting_notification_action_long "Suuba alhabaroo kaŋ ka žemnandi">
 <!ENTITY datareporting_notification_action "Soobay ka žemna">
-<!ENTITY datareporting_notification_summary "Ka war goy fondaa boryandi, &brandShortName; ga alhbaryaŋ sanba nda boŋ še &vendorShortName; do. ">
+<!ENTITY datareporting_notification_summary "Ka war goy fondaa boryandi, &brandShortName; ga alhbaryaŋ sanba nda boŋ se &vendorShortName; do. ">
 <!ENTITY datareporting_notification_summary_short "Ka war goymiɲoo boryandi ka tonton &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -367,7 +367,7 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "Bayhaya žemna nda &vendorShortName; war ceecikaa baanoo ga ka gaa ka ceecikaa goysãhaa faham">
 <!ENTITY datareporting_abouthr_title "Ay ceeci baani alhaaloo guna">
 <!ENTITY datareporting_telemetry_title "Mooruneešiyan">
-<!ENTITY datareporting_telemetry_summary "Teeyan sahã, goymee, jinay šenda nda boŋše-hanseyan bayhayey žemna war ceecikaa nda &vendorShortName; k\u0027a gaa ka &brandShortName; boryandi koyne">
+<!ENTITY datareporting_telemetry_summary "Teeyan sahã, goymee, jinay šenda nda boŋse-hanseyan bayhayey žemna war ceecikaa nda &vendorShortName; k\u0027a gaa ka &brandShortName; boryandi koyne">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ga kaŋyan bayrandiyaney sanba ka &vendorShortName; gaa ka war ceecikaa tee tabatante nda saajante ka tonton">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -542,7 +542,7 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: goy nda &formatS1;Sutura kanji taaga&formatS2; ši war taarikoo gaabu.">
-<!ENTITY home_reading_list_empty "Hantumey kaŋ war g\u0027i gaabu hiino še bangay ne.">
+<!ENTITY home_reading_list_empty "Hantumey kaŋ war g\u0027i gaabu hiino se bangay ne.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -646,14 +646,14 @@ Android ra">
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-<!ENTITY suggestion_for_engine "Ceeci &formatS1; &formatS2; še">
+<!ENTITY suggestion_for_engine "Ceeci &formatS1; &formatS2; se">
 
 <!ENTITY webapp_generic_name "Porogaramize">
 
 <!ENTITY searchable_description "Doo-šilbawey nda taariki">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "Taagandiri ga bara &brandShortName; še">
+<!ENTITY updater_start_title2 "Taagandiri ga bara &brandShortName; se">
 <!ENTITY updater_start_select2 "Daaru ka zumandi">
 
 <!ENTITY updater_downloading_title2 "Goo ma &brandShortName; zumandi">

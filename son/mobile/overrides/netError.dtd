@@ -60,7 +60,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Takaddaa waatoo ben">
-<!ENTITY notCached.longDesc "<p>Takadda wirantaa ši bara &brandShortName; lanbari lakkaloo ra.</p><ul><li>Saajaw laasaabu ra, &brandShortName; ši sutura takadda wiri nga bonše.</li><li>Ceeci koyne naagu ka takaddaa wiri Interneti nungoo ga.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Takadda wirantaa ši bara &brandShortName; lanbari lakkaloo ra.</p><ul><li>Saajaw laasaabu ra, &brandShortName; ši sutura takadda wiri nga bonse.</li><li>Ceeci koyne naagu ka takaddaa wiri Interneti nungoo ga.</li></ul>">
 
 <!ENTITY netOffline.title "Bila nda ciyari alhaali">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -73,12 +73,12 @@
 
 <!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Taare wa šendaa woo alhabar tee war nungoo maykey še.</li> 
+<li>Taare wa šendaa woo alhabar tee war nungoo maykey se.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Tuku dumi kaŋ ši nda naanay">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Taare wa šendaa woo bayrandi Interneti nungoo maykey še.</li> 
+<li>Taare wa šendaa woo bayrandi Interneti nungoo maykey se.</li> 
 </ul>">
 
 <!ENTITY netReset.title "Ciyaroo willi lasaloo ga">
@@ -149,7 +149,7 @@ waati-waati haya, adiši war ga ceeci taaga nd'a too kayna.</li>
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">
 
 <!ENTITY corruptedContentError.title "Gundekuna laybante firka">
-<!ENTITY corruptedContentError.longDesc "<p>Moɲoo kaŋ war ga wiri ka dii ya ši hin ka cebandi zama firka maatandi bayhayey toonandiyanoo waate.</p><ul><li>Taare wa šendaa woo alhabar tee war maykey koyey še.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Moɲoo kaŋ war ga wiri ka dii ya ši hin ka cebandi zama firka maatandi bayhayey toonandiyanoo waate.</p><ul><li>Taare wa šendaa woo alhabar tee war maykey koyey se.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Wala war ga hin ka hasaraw foo tonton…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ay kaataray ne!">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; ga">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ti šiyyan dumi kaŋ ši hima tabatante.">
-<!ENTITY aboutPage.telemetryStart               " A ga alhabar sanba nga boŋ še teeyan-gaabi, jinay šenda, goyyan nda boŋše-hanseyan">
+<!ENTITY aboutPage.telemetryStart               " A ga alhabar sanba nga boŋ se teeyan-gaabi, jinay šenda, goyyan nda boŋse-hanseyan">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName; do">
 <!ENTITY aboutPage.telemetryEnd                 " ka gaa ka &brandShortName; boryandi.">
 <!ENTITY aboutPage.checkForUpdates.link         "Taagandirey koroši »">

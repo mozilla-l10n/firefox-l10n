@@ -208,7 +208,7 @@
 <!ENTITY fxaccount_status_needs_verification2 "War kontoo ši hin ka tabatandi. Karkar ka tabatandiyan bataga sanba taaga.">
 <!ENTITY fxaccount_status_needs_credentials "Mana hin ka ciya. Karkar ka huru.">
 <!ENTITY fxaccount_status_needs_upgrade "War ga hima ka &brandShortName; taagandi ka huru.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋše. “Auto-sync data” kanji Android kayandiyaney ra &gt; Bayhaya goy fondo.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋse. “Auto-sync data” kanji Android kayandiyaney ra &gt; Bayhaya goy fondo.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋ se. “Auto-sync data” kanji Android kayandiyaney ra &gt; Kontey.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Karkar ka huru war Firefox kontu taagaa ra.">
 <!ENTITY fxaccount_status_bookmarks "Doo-šilbawey">

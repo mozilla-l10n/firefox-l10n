@@ -9,7 +9,7 @@
 <!ENTITY pageTitle                 "&brandShortName; laasaabu">
 
 <!ENTITY intro.header              "Goo nda waati kayna?">
-<!ENTITY intro.message             "Har ir še woo kaŋ war g'a tammahã Android še &brandShortName; ga hala sohõ.">
+<!ENTITY intro.message             "Har ir se woo kaŋ war g'a tammahã Android se &brandShortName; ga hala sohõ.">
 <!ENTITY intro.happyLink           "Ay ga bag'a">
 <!ENTITY intro.sadLink             "Ay dii šendayyaŋ">
 <!ENTITY intro.maybeLater          "Wala kala kayna">
@@ -36,7 +36,7 @@
 <!ENTITY happy.noThanks            "Kalaa naŋ">
 
 <!ENTITY sad.header                "Aywa kala!">
-<!ENTITY sad.message               "W'alhaa naŋ kaŋ war dii šenday fooyaŋ nda &brandShortName;. Har ir še woo kaŋ tee hal'ir ma hin k'a hanse.">
+<!ENTITY sad.message               "W'alhaa naŋ kaŋ war dii šenday fooyaŋ nda &brandShortName;. Har ir se woo kaŋ tee hal'ir ma hin k'a hanse.">
 <!ENTITY sad.placeholder           "War laasaaboo hantum ne">
 <!ENTITY sad.lastSite2             "Nungu gunante koraa tonton">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
