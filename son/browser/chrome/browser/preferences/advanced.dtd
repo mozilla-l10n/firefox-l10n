@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "l">
 <!ENTITY blockAutoRefresh.label          "Ay yaamar waati kaŋ Interneti nungey ga wiri ka moɲoo bisandi wala k'a zumandi taaga">
 <!ENTITY blockAutoRefresh.accesskey      "n">
-
-
+<!ENTITY useOnScreenKeyboard.label       "Maate walha cebe nd'a ga hima">
+<!ENTITY useOnScreenKeyboard.accesskey   "h">
 
 <!ENTITY browsing.label                  "Ceeciyan">
 
