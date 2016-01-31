@@ -8,8 +8,8 @@
 <!ENTITY  trackingProtectionNever.label        "Majub'ey">
 <!ENTITY  trackingProtectionNever.accesskey    "M">
 <!ENTITY  trackingProtectionLearnMore.label    "Tetamäx ch'aqa' chik">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "Taq man relik ta…">
+<!ENTITY  trackingProtectionExceptions.accesskey "e">
 
 <!ENTITY tracking.label                 "Kanoxïk">
 <!ENTITY trackingProtectionPBM5.label         "Tokisäx chajinïk richin ilonem pa taq ichinan tzuwäch">
@@ -52,6 +52,7 @@
 <!ENTITY  keepUntil.label               "Tik'oje' k'a:">
 <!ENTITY  keepUntil.accesskey           "T">
 
+<!ENTITY  expire.label                  "tik'o iq'ij">
 
 
 <!ENTITY  cookieExceptions.label        "Taq man relik ta…">

@@ -11,7 +11,8 @@
 <!ENTITY warnOpenManyTabs.label       "Taya' pe rutzijol chwe we &brandShortName; yalan eqal xtisamäj toq xkerujäq k'ïy taq ruwi'">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-
+<!ENTITY restoreTabsOnDemand.label        "Mani ke'ok pa taq ruwi' k'a jampe' na echa'on chik">
+<!ENTITY restoreTabsOnDemand.accesskey    "j">
 
 <!ENTITY switchToNewTabs.label        "Toq nijaq jun ximonel pa jun k'ak'a' ruwi', tijalwachïx rik'in re' pan aninäq">
 <!ENTITY switchToNewTabs.accesskey    "h">

@@ -18,17 +18,18 @@
 <!ENTITY myRecoveryKey.label          "Ri kolonel ewan nutzij">
 <!ENTITY resetSync2.label             "Titzolïx ruwäch Ximojri'ïl…">
 
+<!ENTITY pairDevice.label             "Tixim jun okisaxel">
 
-
-
+<!ENTITY engine.bookmarks.label     "Taq etal">
+<!ENTITY engine.bookmarks.accesskey "e">
 <!ENTITY engine.tabs.label          "Taq ruwi'">
 <!ENTITY engine.tabs.accesskey      "w">
 <!ENTITY engine.history.label       "K'ulwachinel">
 <!ENTITY engine.history.accesskey   "e">
 
 
-
-
+<!ENTITY engine.prefs.label         "Taq ajowab'äl">
+<!ENTITY engine.prefs.accesskey     "a">
 <!ENTITY engine.addons.label        "Taq rutz’aqat">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
@@ -37,7 +38,7 @@
 <!ENTITY changeSyncDeviceName.label "Tijal rub'i' ri okisaxel…">
 <!ENTITY cancelChangeSyncDeviceName.label "Tiq'at">
 <!ENTITY saveChangeSyncDeviceName.label "Tiyak">
-
+<!ENTITY unlinkDevice.label           "Man tixïm chik re okisaxel re'">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Ketal Samaj">
@@ -59,13 +60,13 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInLoginFailure.beforename.label "Tatikirisaj molojri'ïl richin yatok chik">
-<!ENTITY signedInLoginFailure.aftername.label "">
+<!ENTITY signedInLoginFailure.aftername.label "Tab'ana' utzil tatikirisaj chik ri molojri'ïl richin yatok chik">
 
 <!ENTITY signIn.label                "Tatikirisaj molojri'ïl">
 <!ENTITY profilePicture.tooltip      "Tijal ruwachib'äl ruwäch b'i'aj">
 
 <!ENTITY disconnect.label            "Tichup…">
-
+<!ENTITY verify.label                "Tinik'öx taqoya'l">
 
 
 <!ENTITY welcome.description "Katok chupam ri taq awi', taq yaketal, ewan taq tzij chuqa' ch'aqa' chik we xtawokisaj &brandShortName;.">
@@ -74,7 +75,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "¿Tajin nawokisaj jun ojer rub'eyal ri Sync?">
 
-
+<!ENTITY signedOut.description        "Ke'axima' ri taq ayaketal, k'ulwachinel, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.">
 
 
 <!ENTITY signedOut.accountBox.signin  "Titikirisäx molojri'Il">

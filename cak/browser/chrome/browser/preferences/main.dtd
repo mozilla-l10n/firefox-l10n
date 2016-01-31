@@ -12,8 +12,8 @@
 <!ENTITY useCurrentPage.label      "Tokisäx ri ruxaq k'amaya'l k'o wakami">
 <!ENTITY useCurrentPage.accesskey  "C">
 
-
-
+<!ENTITY chooseBookmark.label      "Tokisäx yaketal…">
+<!ENTITY chooseBookmark.accesskey  "y">
 
 
 
@@ -33,9 +33,10 @@
 <!ENTITY setAsMyDefaultBrowser2.label     "Tib'an kan richin wi chi re">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "k">
 <!ENTITY isDefault.label                  "&brandShortName; ja awokik'amaya'l kan k'o wi">
-
+<!ENTITY isNotDefault.label               "&brandShortName; man ja ta awokik'amaya'l kan k'o wi">
 
 <!ENTITY separateProfileMode.label        "Tiya' q'ij chi ri &brandShortName; chuqa' Firefox ketzije' junam">
 
 <!ENTITY getStarted.label                 "Tichap rokisaxik Ximojri'ïl…">
 
+<!ENTITY e10sEnabled.label                "Titzij ri k'ïy tajin richin &brandShortName;">
