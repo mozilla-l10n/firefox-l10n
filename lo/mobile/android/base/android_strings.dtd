@@ -19,7 +19,7 @@
 <!ENTITY firstrun_data_message "ຂໍ້ມູນນ້ອຍລົງ, ສາມາດບັນທຶກຂໍ້ມູນໄດ້ຫລາຍຂື້ນ">
 <!ENTITY firstrun_data_subtext "ບັອກຮູບພາບເພື່ອໃຫ້ຂະຫນາດຂໍ້ມູນຂອງເວັບໄຊຕ໌ທີ່ທ່ານເຂົ້າໄປເບິງມີຂະຫນາດນ້ອຍລົງ.">
 <!ENTITY firstrun_sync_title "Sync">
-
+<!ENTITY firstrun_sync_message "&brandShortName;, ຢູ່ຄຽງຂ້າງທ່ານສະເຫມີ">
 <!ENTITY firstrun_sync_subtext "Sync ແທັບ, ລະຫັດຜ່ານຂອງທ່ານ ແລະ ໃນທຸກໆບ່ອນທີ່ທ່ານນຳໃຊ້ມັນ.">
 <!ENTITY firstrun_signin_message "ສ້າງການເຊື່ອມຕໍ່, ເລີມຕົ້ນເຮັດວຽກ">
 <!ENTITY firstrun_signin_button "ລົງຊື່ເຂົ້າໃຊ້ເພື່ອ Sync">
@@ -304,6 +304,8 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_media_autoplay_enabled "ອະນຸຍາດໃຫ້ເປີດແບບອັດຕະໂນມັດ">
 <!ENTITY pref_media_autoplay_enabled_summary "ຄວບຄຸມດູແລເວັບທີ່ສາມາດເປີດວິດີໂອ ແລະ ສື່ເນື້ອຫາອື່ນໆແບບອັດຕະໂນມັດ">
 <!ENTITY pref_zoom_force_enabled "ເປີດໃຊ້ງານຊູມຕະລອດເວລາ">
@@ -458,6 +460,8 @@ size. -->
 <!ENTITY doorhanger_login_select_title "ສຳເນົາລະຫັດຜ່ານຈາກ">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+
+<!ENTITY pref_magnifying_glass_enabled "ຂະຫຍາຍພື້ນທີ່ຂະຫນາດນ້ອຍ">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
