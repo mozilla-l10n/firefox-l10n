@@ -22,7 +22,7 @@
 <!ENTITY unpinTab.accesskey "b">
 <!ENTITY moveToNewWindow.label "Mover a nueva ventana">
 <!ENTITY moveToNewWindow.accesskey "v">
-<!ENTITY bookmarkAllTabs.label "Marcar todas las pestañas…">
+<!ENTITY bookmarkAllTabs.label "Guardar todas las pestañas en marcadores…">
 <!ENTITY bookmarkAllTabs.accesskey "t">
 <!ENTITY undoCloseTab.label "Deshacer cerrar pestaña">
 <!ENTITY undoCloseTab.accesskey "h">
@@ -53,7 +53,7 @@
 <!ENTITY bookmarksToolbarItem.label "Ítems de la barra de marcadores">
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Recargar todas las pestañas">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Marcar todas las pestañas…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Guardar todas las pestañas en marcadores…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Deshacer cerrar pestaña">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -98,7 +98,7 @@
 <!ENTITY closeWindow.accesskey "C">
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "Marcar esta página">
+<!ENTITY bookmarkThisPageCmd.label "Guardar esta página en marcadores">
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -117,7 +117,7 @@
 <!ENTITY feedsMenu.label "Suscribirse">
 <!ENTITY subscribeToPageMenupopup.label "Suscribe a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribir a esta página…">
-<!ENTITY addCurPagesCmd.label "Marcar todas las pestañas…">
+<!ENTITY addCurPagesCmd.label "Guardar todas las pestañas en marcadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
 <!ENTITY unsortedBookmarksCmd.label "Marcadores sin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
@@ -394,10 +394,10 @@
 <!ENTITY viewBGImageCmd.accesskey "V">
 <!ENTITY setDesktopBackgroundCmd.label "Colocar como fondo de escritorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "s">
-<!ENTITY bookmarkPageCmd2.label "Marcar esta página">
-<!ENTITY bookmarkThisLinkCmd.label "Marcar este enlace">
+<!ENTITY bookmarkPageCmd2.label "Guardar esta página en marcadores">
+<!ENTITY bookmarkThisLinkCmd.label "Guardar este enlace en marcadores">
 <!ENTITY bookmarkThisLinkCmd.accesskey "l">
-<!ENTITY bookmarkThisFrameCmd.label "Marcar este marco">
+<!ENTITY bookmarkThisFrameCmd.label "Guardar este marco en marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey "M">
 <!ENTITY emailPageCmd.label "Enviar enlace por correo">
 <!ENTITY emailPageCmd.accesskey "E">
