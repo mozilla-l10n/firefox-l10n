@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Bəzi qoşmalar təsdiqlənə bilmirlər">
 <!ENTITY showAllExtensions.button.label       "Bütün qoşmaları göstər">
-
-
+<!ENTITY debugAddons.label                    "Əlavələri Sazla">
+<!ENTITY debugAddons.accesskey                "z">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.">
