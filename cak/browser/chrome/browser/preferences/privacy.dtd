@@ -30,14 +30,15 @@
 <!ENTITY  locbar.suggest.label          "Jampe' toq nokisäx ri rukajtz'ik k'ojlemal, tichilab'ëx:">
 
 
-
-
+<!ENTITY  locbar.bookmarks.label        "Taq etal">
+<!ENTITY  locbar.bookmarks.accesskey    "e">
 <!ENTITY  locbar.openpage.label         "Kejaq taq ruwi'">
 <!ENTITY  locbar.openpage.accesskey     "K">
 <!ENTITY  locbar.searches.label         "Taq kanoxïk kiximon ki' pa ri kanob'äl k'o wi">
 <!ENTITY  locbar.searches.accesskey     "ï">
 
-
+<!ENTITY  suggestionSettings.label      "Kek'ex ri taq ajowab'äl richin yechilab'ëx taq rusamajinel kanob'äl…">
+<!ENTITY  suggestionSettings.accesskey  "k">
 
 <!ENTITY  acceptCookies.label           "Kek'ulutäj taq kuki">
 <!ENTITY  acceptCookies.accesskey       "K">
