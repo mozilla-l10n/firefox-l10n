@@ -14,6 +14,8 @@
   "known").
 -->
 
+<!ENTITY  blockAttackSites.label     "Keq'at taq ruxaq k'amaya'l ya'on ketal chi ye'eläq'">
+<!ENTITY  blockAttackSites.accesskey "q">
 
 <!ENTITY  blockWebForgeries.label     "Keq'at ri taq ruxaq k'amaya'l ya'on ketal chi e q'olonel">
 <!ENTITY  blockWebForgeries.accesskey "K">

@@ -6,7 +6,7 @@
 <!ENTITY startupPage.accesskey     "x">
 
 <!ENTITY startupBlankPage.label    "Tik'ut pe jun kowöl ruxaq">
-
+<!ENTITY startupLastSession.label  "Kek'ut ri taq nutzuwäch chuqa' taq ruwi' ruk'isib'äl numolojri'ïl">
 
 
 <!ENTITY useCurrentPage.label      "Tokisäx ri ruxaq k'amaya'l k'o wakami">
