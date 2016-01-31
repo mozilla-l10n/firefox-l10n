@@ -35,11 +35,14 @@
 <!-- addon actions -->
 <!ENTITY cmd.findUpdates.label                "განახლებების პოვნა">
 <!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferencesWin.label             "პარამეტრები">
 
 <!ENTITY cmd.enableAddon.label                "ჩართვა">
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "ამორთვა">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.showPreferencesWin.label         "პარამეტრები">
+<!ENTITY cmd.showPreferencesWin.tooltip       "ამ დამატების პარამეტრების შეცვლა">
 
 
 <!-- discovery view -->
@@ -54,6 +57,8 @@
 <!ENTITY detail.updateDefault.label           "ნაგულისხმები">
 <!ENTITY detail.size                          "ზომა">
 
+<!ENTITY detail.showPreferencesWin.label      "პარამეტრები">
+<!ENTITY detail.showPreferencesWin.tooltip    "ამ დამატების პარამეტრების შეცვლა">
 
 
 <!-- ratings -->
