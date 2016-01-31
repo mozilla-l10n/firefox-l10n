@@ -34,6 +34,6 @@ Strict Transport Security (HSTS) प्रयोग गर्छ। केवल
 <!ENTITY certerror.addException.label "अपवाद थप्नुहोस्...">
 <!ENTITY certerror.copyToClipboard.label "क्लिपबोर्डमा पाठ प्रतिलिपि गर्नुहोस्">
 
+<!ENTITY errorReporting.sending "रिपोर्ट पठाउँदै">
 
-
-
+<!ENTITY errorReporting.tryAgain "पुन: प्रयास गर्नुहोस्">
