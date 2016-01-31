@@ -17,7 +17,6 @@
 <!ENTITY allowWindowMoveResize.label     "Flytta eller ändra storlek på fönster">
 <!ENTITY allowWindowFlip.label           "Höja eller sänka fönster">
 <!ENTITY allowWindowStatusChange.label   "Byta text i statusfältet">
-<!ENTITY allowWindowImageSrcChange.label "Byta ut bilder">
 <!ENTITY allowContextmenuDisable.label   "Blockera eller ersätta snabbvalsmenyer">
 <!ENTITY allowHideStatusBar.label        "Dölja statusfältet">
 
