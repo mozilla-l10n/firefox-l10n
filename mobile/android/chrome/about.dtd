@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName;-ի մասին">
 <!ENTITY aboutPage.warningVersion               "&brandShortName;-ն փորձնական է և կայուն չի աշխատի:">
-<!ENTITY aboutPage.telemetryStart               " Ծրագիրը ինքնաշխատ տեղեկություններ է ուղարկվում արտադրողականության, սարքակազմի, օգտագործման և կարգավորումների մասին՝ ">
+<!ENTITY aboutPage.telemetryStart               " Ծրագիրը ինքնաբար տեղեկություններ է ուղարկվում արտադրողականության, սարքակազմի, օգտագործման և կարգավորումների մասին՝ ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " &brandShortName;-ն էլ ավելի կատարելագործելու նպատակով:">
 <!ENTITY aboutPage.checkForUpdates.link         "Ստուգել թարմացումները  »">

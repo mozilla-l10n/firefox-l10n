@@ -60,7 +60,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Ավարտվել է">
-<!ENTITY notCached.longDesc "<p>Պահանջվող փաստաթուղթը հասանելի չէ &brandShortName;-ի պահոցում։</p><ul><li>Անվտանգության նկատառումներով &brandShortName;-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։ </li><li>Սեղմեք Կրկին փորձել՝ վերապահանջելու փաստաթուղթը վեբ կայքից։</li></ul>">
+<!ENTITY notCached.longDesc "<p>Պահանջվող փաստաթուղթը հասանելի չէ &brandShortName;-ի պահոցում։</p><ul><li>Անվտանգության նկատառումներով &brandShortName;-ը ինքնաբար չի վերապահանջում նմանատիպ փաստաթղթերը։ </li><li>Սեղմեք Կրկին փորձել՝ վերապահանջելու փաստաթուղթը վեբ կայքից։</li></ul>">
 
 <!ENTITY netOffline.title "Ցանցից դուրս">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.

@@ -188,7 +188,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ավելացվեց Գլխավոր էջում">
 <!ENTITY pref_category_home_content_settings "Բովանդակություն">
-<!ENTITY pref_home_updates "Ինքնաբար թարմացումներ">
+<!ENTITY pref_home_updates "Ինքնաշխատ թարմացումներ">
 <!ENTITY pref_home_updates_enabled "Միացնել">
 <!ENTITY pref_home_updates_wifi "Միայն Wi-Fi-ով">
 <!ENTITY pref_home_suggested_sites "Ցուցադրել կայքի առաջարկները">
@@ -275,7 +275,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Մաքրել">
 <!ENTITY pref_clear_on_exit_title3 "Փակելիս մաքրել անձնական տվյալները">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-ը ինքնավար կմաքրի բոլոր տվյալները, երբ հիմնական ցանկից ընտրեք   \u0022Փակել\u0022">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-ը ինքնաբար կմաքրի բոլոր տվյալները, երբ հիմնական ցանկից ընտրեք   \u0022Փակել\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Նշեք, թե որ տվյալներն են մաքրվելու">
 <!ENTITY pref_plugins "Բաղադիրներ">
 <!ENTITY pref_plugins_enabled "Միացնել">
@@ -290,7 +290,7 @@
 <!ENTITY pref_font_size_medium "Միջին">
 <!ENTITY pref_font_size_large "Մեծ">
 <!ENTITY pref_font_size_xlarge "Շատ մեծ">
-<!ENTITY pref_font_size_set "Նշել">
+<!ENTITY pref_font_size_set "Կայել">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -373,7 +373,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Ինքնաբար թարմացումներ">
+<!ENTITY pref_update_autodownload3 "Ինքնաշխատ թարմացումներ">
 <!ENTITY pref_update_autodownload_wifi "Միայն Wi-Fi-ով">
 <!ENTITY pref_update_autodownload_never "Երբեք">
 <!ENTITY pref_update_autodownload_always "Միշտ">
@@ -513,7 +513,7 @@ size. -->
 <!ENTITY button_yes "Այո">
 <!ENTITY button_no "Ոչ">
 <!ENTITY button_clear_data "Մաքրել տվյալները">
-<!ENTITY button_set "Նշել">
+<!ENTITY button_set "Կայել">
 <!ENTITY button_clear "Մաքրել">
 <!ENTITY button_copy "Պատճենել">
 
@@ -551,7 +551,7 @@ size. -->
 <!ENTITY home_remote_tabs_title "Սինք էջեր">
 <!ENTITY home_remote_tabs_empty "Ձեր ներդիրները այլ սարքերից:">
 <!ENTITY home_remote_tabs_unable_to_connect "Չհաջողվեց կապ հաստատել">
-<!ENTITY home_remote_tabs_need_to_sign_in "Մուտք գործեք՝ վերակապակցվելու Firefox-ի Հաշվի հետ և շարունակելու Սինքը:">
+<!ENTITY home_remote_tabs_need_to_sign_in "Մուտք գործեք՝ վերակապակցվելու Firefox-ի Հաշվին և շարունակելու Սինքը:">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "Firefox-ի ձեր հաշիվը պատրաստ է:">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Խնդիրնե՞ր հաշիվը հաստատելիս:">
@@ -748,7 +748,7 @@ Android-ից">
 <!ENTITY restrictable_feature_clear_history "Մաքրել պատմությունը">
 <!ENTITY restrictable_feature_clear_history_description "Թույլատրել ընտանիքի անդամներին ջնջել այցելած կայքերի և էջերի տեղեկությունները:">
 <!ENTITY restrictable_feature_advanced_settings "Ընդլայնված կարգավորումներ">
-<!ENTITY restrictable_feature_advanced_settings_description "Ներառում է ներմուծված էջանիշեր, վերականգնած ներդիրներ և ինքնաբար թարմացումներ: Անջատեք պարզեցված կարգավորումների համար՝ ընտանիքի յուրաքանչյուր անդամին համապատասխան:  ">
+<!ENTITY restrictable_feature_advanced_settings_description "Ներառում է ներմուծված էջանիշեր, վերականգնած ներդիրներ և ինքնաշխատ թարմացումներ: Անջատեք պարզեցված կարգավորումների համար՝ ընտանիքի յուրաքանչյուր անդամին համապատասխան:  ">
 <!ENTITY restrictable_feature_camera_microphone "Ֆոտոխցիկ և խոսափող">
 <!ENTITY restrictable_feature_camera_microphone_description "Թույլատրում է ընտանիքի անդամներին իրական ժամանակում զրուցել կայքերում:">
 
