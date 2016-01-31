@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
+<!ENTITY  trackingProtectionPrivate.label      "Xa xe pa taq ichinan tzuwäch">
+<!ENTITY  trackingProtectionPrivate.accesskey  "x">
 <!ENTITY  trackingProtectionNever.label        "Majub'ey">
 <!ENTITY  trackingProtectionNever.accesskey    "M">
 <!ENTITY  trackingProtectionLearnMore.label    "Tetamäx ch'aqa' chik">
@@ -12,8 +12,8 @@
 
 
 <!ENTITY tracking.label                 "Kanoxïk">
-
-
+<!ENTITY trackingProtectionPBM5.label         "Tokisäx chajinïk richin ilonem pa taq ichinan tzuwäch">
+<!ENTITY trackingProtectionPBM5.accesskey     "a">
 
 
 
@@ -69,7 +69,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
+<!ENTITY  rememberActions.clearHistory.label  "Tijosq'ïx ri k'ak'a' k'ulwachinel">
 
 <!ENTITY  rememberActions.removeCookies.label "keyuj el ri taq kuki pa yonil">
 <!ENTITY  rememberActions.post.label          ".">

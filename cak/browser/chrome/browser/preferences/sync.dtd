@@ -15,7 +15,7 @@
 <!-- Manage Account -->
 
 <!ENTITY changePassword2.label        "Tijal ewan tzij…">
-
+<!ENTITY myRecoveryKey.label          "Ri kolonel ewan nutzij">
 <!ENTITY resetSync2.label             "Titzolïx ruwäch Ximojri'ïl…">
 
 
@@ -69,7 +69,7 @@ both, to better adapt this sentence to their language.
 
 
 <!ENTITY welcome.description "Katok chupam ri taq awi', taq yaketal, ewan taq tzij chuqa' ch'aqa' chik we xtawokisaj &brandShortName;.">
-
+<!ENTITY welcome.signIn.label "Titikirisäx molojri'ïl">
 <!ENTITY welcome.createAccount.label "Tinuk' taqoya'l">
 
 <!ENTITY welcome.useOldSync.label "¿Tajin nawokisaj jun ojer rub'eyal ri Sync?">

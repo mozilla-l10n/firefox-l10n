@@ -19,7 +19,8 @@
 
 <!ENTITY downloads.label     "Taq qasa’n">
 
-
+<!ENTITY saveTo.label "Tiyak pa ruyonil">
+<!ENTITY saveTo.accesskey "y">
 <!ENTITY chooseFolderWin.label        "Tinik'öx…">
 <!ENTITY chooseFolderWin.accesskey    "n">
 <!ENTITY chooseFolderMac.label        "Ticha'…">
