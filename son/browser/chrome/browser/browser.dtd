@@ -240,7 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Goyjinawey">
 <!ENTITY toolsMenu.accesskey          "G"> 
 
-<!ENTITY keywordfield.label           "Kufalkalima foo tonton ceeciroo woo še…">
+<!ENTITY keywordfield.label           "Kufalkalima foo tonton ceeciroo woo se…">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Zumandiyaney">
@@ -382,7 +382,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "G"> 
 <!ENTITY viewSidebarMenu.label "Cerawžeeri">
 <!ENTITY viewSidebarMenu.accesskey "C">
-<!ENTITY viewCustomizeToolbar.label       "Hanse war boŋ še…"> 
+<!ENTITY viewCustomizeToolbar.label       "Hanse war boŋ se…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "H">
 
 <!ENTITY historyMenu.label "Taariki">
@@ -395,10 +395,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Taarikoo kul cebe">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Hanse war boŋ še">
-<!ENTITY appMenuCustomize.tooltip "Šilbayboŋ nda goyjinay zuu hanse war boŋše">
-<!ENTITY appMenuCustomizeExit.label "Hanse-boŋše naŋ">
-<!ENTITY appMenuCustomizeExit.tooltip "Hanse-boŋše benandi">
+<!ENTITY appMenuCustomize.label "Hanse war boŋ se">
+<!ENTITY appMenuCustomize.tooltip "Šilbayboŋ nda goyjinay zuu hanse war boŋse">
+<!ENTITY appMenuCustomizeExit.label "Hanse-boŋse naŋ">
+<!ENTITY appMenuCustomizeExit.tooltip "Hanse-boŋse benandi">
 <!ENTITY appMenuHistory.label "Taariki">
 <!ENTITY appMenuHistory.showAll.label "Taarikoo kul cebe">
 <!ENTITY appMenuHistory.clearRecent.label "Taariki kokorantaa tuusu…">
@@ -557,7 +557,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "W">
 <!ENTITY viewBGImageCmd.label         "Bandafaari bii guna">
 <!ENTITY viewBGImageCmd.accesskey     "B">
-<!ENTITY setDesktopBackgroundCmd.label      "Suuba goytaabal bandafaari še…">
+<!ENTITY setDesktopBackgroundCmd.label      "Suuba goytaabal bandafaari se…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Moɲoo woo šilbay">
 <!ENTITY bookmarkThisLinkCmd.label      "Doboo woo šilbay">
@@ -711,7 +711,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Moo fasal faala">
 <!ENTITY pageStylePersistentOnly.accesskey "f">
 
-<!ENTITY pageReportIcon.tooltip            "Biiboŋ bata kayandiyaney barmay Interneti nungoo woo še">
+<!ENTITY pageReportIcon.tooltip            "Biiboŋ bata kayandiyaney barmay Interneti nungoo woo se">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -810,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Ordinater bangandiyaney cebe">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Goyey kaŋ hun <label/> ga n' ka kayandi. War ga hin ka kayandiyaney barmay goyey še <label class='text-link'>Tontoni juwalkaa</label> ra.">
+<!ENTITY social.activated.description "Goyey kaŋ hun <label/> ga n' ka kayandi. War ga hin ka kayandiyaney barmay goyey se <label class='text-link'>Tontoni juwalkaa</label> ra.">
 <!ENTITY social.activated.undo.label "Aywa, woo ma hun!">
 <!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "Bay ka tonton…">
@@ -823,7 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Goymee naagu k'a tonton &brandShortName; ga.">
 <!ENTITY social.directory.viewmore.text "Guna ka tonton">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; hanse war boŋše">
+<!ENTITY customizeMode.tabTitle "&brandShortName; hanse war boŋse">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Goyjinay nda alhaaliyaŋ tonton">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ga jinay ka tonton?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Suuba tontoni ženberyaŋ ra">

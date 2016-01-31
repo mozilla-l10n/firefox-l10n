@@ -68,7 +68,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "g">
 <!ENTITY  historyHeader.remember.label     "Hongu taarikoo">
 <!ENTITY  historyHeader.dontremember.label "Ma ši honga taarikoo abada">
-<!ENTITY  historyHeader.custom.label       "Hanse bonše taariku se goyandi">
+<!ENTITY  historyHeader.custom.label       "Hanse bonse taariku se goyandi">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ga honga war naaru, zumandi, takari nda ceeciyan taariki, nd'a ga aleewawey kaŋ hun war Interneti nungey ra gaabu.">
