@@ -41,6 +41,12 @@ values from browser.dtd.  -->
   -  It allows you to switch the context of the whole toolbox. -->
 <!ENTITY toolboxFramesTooltip          "Sélectionner un iframe en tant que document cible">
 
+<!-- LOCALIZATION NOTE (toolboxNoAutoHideButton): This is the label for
+  -  the button to force the popups/panels to stay visible on blur.
+  -  This is only visible in the browser toolbox as it is meant for
+  -  addon developers and Firefox contributors. -->
+<!ENTITY toolboxNoAutoHideTooltip      "Désactiver le masquage automatique des popup">
+
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 <!ENTITY browserToolboxErrorMessage    "Une erreur s'est produite lors de l'ouverture de la boîte à outils du navigateur :">
