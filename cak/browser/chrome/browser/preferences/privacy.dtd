@@ -34,14 +34,16 @@
 
 <!ENTITY  locbar.openpage.label         "Kejaq taq ruwi'">
 <!ENTITY  locbar.openpage.accesskey     "K">
+<!ENTITY  locbar.searches.label         "Taq kanoxïk kiximon ki' pa ri kanob'äl k'o wi">
+<!ENTITY  locbar.searches.accesskey     "ï">
 
 
 
+<!ENTITY  acceptCookies.label           "Kek'ulutäj taq kuki">
+<!ENTITY  acceptCookies.accesskey       "K">
 
-
-
-
-
+<!ENTITY  acceptThirdParty.pre.label      "Kek'ul taq kuki kichin aj rox winaqi':">
+<!ENTITY  acceptThirdParty.pre.accesskey  "k">
 
 <!ENTITY  acceptThirdParty.never.label    "Majub'ey">
 <!ENTITY  acceptThirdParty.visited.label  "Etz'eton">
