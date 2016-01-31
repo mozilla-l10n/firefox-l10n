@@ -404,7 +404,7 @@ size. -->
 <!ENTITY new_tab "Kanji taaga">
 <!ENTITY new_private_tab "Sutura kanji taaga">
 <!ENTITY close_all_tabs "Kanjey kul daabu">
-<!ENTITY close_private_tabs "Sutura nor lokey daabu">
+<!ENTITY close_private_tabs "Sutura kanjey daabu">
 <!ENTITY tabs_normal "Kanjey">
 <!ENTITY tabs_private "Sutura">
 <!ENTITY tabs_synced "Hangante">
@@ -426,8 +426,8 @@ size. -->
 <!ENTITY media_pause "Hunanzamay">
 <!ENTITY media_stop "Kayandi">
 
-<!ENTITY contextmenu_open_new_tab "Feeri nor loku taaga ra">
-<!ENTITY contextmenu_open_private_tab "Feeri sutura nor loku ra">
+<!ENTITY contextmenu_open_new_tab "Feeri kanji taaga ra">
+<!ENTITY contextmenu_open_private_tab "Feeri sutura kanji ra">
 <!ENTITY contextmenu_remove "Kaa">
 <!ENTITY contextmenu_add_to_launcher "Tonto šintin moo dijoo ga">
 <!ENTITY contextmenu_share "Žemna">
@@ -533,15 +533,15 @@ size. -->
 <!ENTITY home_clear_history_button "Ceeciyan taariki tuusu">
 <!ENTITY home_clear_history_confirm "Alhakiika war ga boona ka taarikoo tuusu?">
 <!ENTITY home_bookmarks_empty "War doo-šilbay gaabuntey ga cebe ne.">
-<!ENTITY home_closed_tabs_title "Nor lokey kaŋ kokor ka daaba">
-<!ENTITY home_last_tabs_title "Cee koraa nor lokey">
-<!ENTITY home_last_tabs_empty "War doŋ nor lokey bangay ne.">
+<!ENTITY home_closed_tabs_title "Kanjey kaŋ kokor ka daaba">
+<!ENTITY home_last_tabs_title "Cee koraa kanjey">
+<!ENTITY home_last_tabs_empty "War doŋ kanjey bangay ne.">
 <!ENTITY home_open_all "Ikul feeri">
 <!ENTITY home_most_recent_empty "Interneti nungey kaŋ kokor k\u0027i guna bangay ne.">
 <!ENTITY home_selected_empty "Interneti nungey kaŋ war dii yey waatikunga suubantaa ra ga bangay ne.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: goy nda &formatS1;Sutura nor loku taaga&formatS2; ši war taarikoo gaabu.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: goy nda &formatS1;Sutura kanji taaga&formatS2; ši war taarikoo gaabu.">
 <!ENTITY home_reading_list_empty "Hantumey kaŋ war g\u0027i gaabu hiino še bangay ne.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -552,8 +552,8 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "Hala &formatS; do">
 
-<!ENTITY home_remote_tabs_title "Nor loku cere-hangantey">
-<!ENTITY home_remote_tabs_empty "Wa cebe ne war nor lokey kaŋ hun jinay taney ga.">
+<!ENTITY home_remote_tabs_title "Kanji cere-hangantey">
+<!ENTITY home_remote_tabs_empty "Wa cebe ne war kanjey kaŋ hun jinay taney ga.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ši hin ka ciya">
 <!ENTITY home_remote_tabs_need_to_sign_in "Huru taare ka war Firefox kontoo cee nda ka gaabandi ka hangandi.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "War Firefox kontu taagaa soolu!">
@@ -574,8 +574,8 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Jinay tugantey cebe koyne">
 
-<!ENTITY remote_tabs_panel_moved_title "Man n\u0027ay nor lokey koy?">
-<!ENTITY remote_tabs_panel_moved_desc "Ir na war nor lokey ganandi ka hun jinay tanayaŋ ga fasaldogoo ra war šintin moɲoo ga kaŋ ga hin ka cahã ka duwandi waati kul kaŋ war na nor loku feeri.">
+<!ENTITY remote_tabs_panel_moved_title "Man n\u0027ay kanjey koy?">
+<!ENTITY remote_tabs_panel_moved_desc "Ir na war kanjey ganandi ka hun jinay tanayaŋ ga fasaldogoo ra war šintin moɲoo ga kaŋ ga hin ka cahã ka duwandi waati kul kaŋ war na kanji taaga feeri.">
 <!ENTITY remote_tabs_panel_moved_link "Ay kanbe ay fasaldoo taagaa ra.">
 
 <!ENTITY pin_site_dialog_hint "Ceeci kufalkalima dam">
