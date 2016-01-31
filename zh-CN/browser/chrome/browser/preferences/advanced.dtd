@@ -14,6 +14,7 @@
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "当网站试图重定向或重新载入页面时发出警告">
 <!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY useOnScreenKeyboard.label       "在需要时显示触摸键盘">
 
 <!ENTITY browsing.label                  "浏览">
 

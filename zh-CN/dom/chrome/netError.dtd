@@ -92,7 +92,7 @@
 <p>如果你仍然想为此站点添加例外，可以在高级加密设置中这样做。</p>
 ">
 
-<!ENTITY cspBlocked.title "由于内容安全策略而被阻止">
+<!ENTITY cspBlocked.title "由于内容安全策略而被拦截">
 <!ENTITY cspBlocked.longDesc "<p>浏览器阻止了这个页面的载入，因为该页面含有安全政策不允许的内容。</p>">
 
 <!ENTITY corruptedContentError.title "内容损坏错误">
