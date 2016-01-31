@@ -601,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Təhlükəsiz Bağlantı">
 <!ENTITY identity_connection_insecure "Təhlükəli bağlantı">
 <!ENTITY identity_login_insecure "Bu səhifə qorunmur, sizin daxil olma təhlükəli ola bilər.">
-
+<!ENTITY identity_connection_chromeui "Bu təhlükəsiz &brandShortName; səhifəsidir">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; bu səhifədəki təhlükəli elementi blokladı.">
@@ -625,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Şəxsi məlumatlar silindi">
 <!ENTITY private_data_fail "Bəzi şəxsi məlumatlar təmizlənə bilmədi">
 
+<!ENTITY bookmarkhistory_button_import "İdxal et">
 <!ENTITY bookmarkhistory_import_both "Android-dən əlfəcinlər və tarixçə 
 daxil edilir">
 <!ENTITY bookmarkhistory_import_bookmarks "Android-dən əlfəcinlər 
@@ -665,7 +666,10 @@ idxal edilir">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Fayl və yeniləmələri endirmək üçün &brandShortName; səyyahına yadda icazəsi verin.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "İcazə ver">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Yeni Qonaq Sessiyası">
@@ -755,8 +759,8 @@ idxal edilir">
 <!ENTITY restrictable_feature_advanced_settings_description "Buna əlfəcinlərin idxalı, vərəqlərin bərpası və avtomatik yeniləmələr daxildir. Bütün ailə üzvlərinə uyğun asan tənzimləmələr üçün söndürün.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera və Mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Ailə üzvlərinə web saytlardakı real vaxt ünsiyyətlərlə məşğul olmağa icazə verir.">
-
-
+<!ENTITY restrictable_feature_block_list "Bloklama Siyahısı">
+<!ENTITY restrictable_feature_block_list_description "Həssas məzmunu olan saytları blokla.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
