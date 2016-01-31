@@ -9,7 +9,7 @@
 <!ENTITY addonAction.enable                     "Միացնել">
 <!ENTITY addonAction.disable                    "Անջատել">
 <!ENTITY addonAction.uninstall                  "Ջնջել">
-<!ENTITY addonAction.undo                       "Ետարկել">
+<!ENTITY addonAction.undo                       "Հետարկել">
 
 <!ENTITY addonUnsigned.message                  "Այս հավելումը չի կարող ստուգվել &brandShortName;-ի կողմից:">
 <!ENTITY addonUnsigned.learnMore                "Մանրամասններ">
