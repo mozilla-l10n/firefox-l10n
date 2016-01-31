@@ -263,7 +263,7 @@
 <!ENTITY tab_queue_notification_text_plural2 "&formatD; ներդիր կա հերթում">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular2 "1 ներդիր է առկա">
+<!ENTITY tab_queue_notification_text_singular2 "1 ներդիր սպասում է">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
