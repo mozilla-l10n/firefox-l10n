@@ -7,7 +7,7 @@
 
 <!ENTITY  trackingProtectionNever.label        "Majub'ey">
 <!ENTITY  trackingProtectionNever.accesskey    "M">
-
+<!ENTITY  trackingProtectionLearnMore.label    "Tetamäx ch'aqa' chik">
 
 
 
@@ -65,18 +65,19 @@
 
 <!ENTITY  historyHeader.post.label         "">
 
+<!ENTITY  rememberDescription.label      "&brandShortName; xtunataj ri ruk'ulwachinel okik'amaya'l, taq qasanïk, taq nojwuj chuqa' taq kanob'äl, chuqa' xkeruyäk kan ri taq kikuki ri taq ruxaq k'amaya'l xe'atz'ët.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
 
-
+<!ENTITY  rememberActions.removeCookies.label "keyuj el ri taq kuki pa yonil">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-
+<!ENTITY  dontrememberActions.post.label         ".">
 
 
 

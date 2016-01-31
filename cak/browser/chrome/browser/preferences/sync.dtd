@@ -16,7 +16,7 @@
 
 <!ENTITY changePassword2.label        "Tijal ewan tzij…">
 
-
+<!ENTITY resetSync2.label             "Titzolïx ruwäch Ximojri'ïl…">
 
 
 
@@ -43,7 +43,7 @@
 <!ENTITY prefs.tosLink.label        "Ketal Samaj">
 <!ENTITY prefs.ppLink.label         "Runa’oj rajaw">
 <!-- Firefox Accounts stuff -->
-
+<!ENTITY determiningAcctStatus.label     "Tajin niya' retal ri rub'anikil ataqoya'l…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -62,9 +62,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY signIn.label                "Tatikirisaj molojri'ïl">
+<!ENTITY profilePicture.tooltip      "Tijal ruwachib'äl ruwäch b'i'aj">
 
-
-
+<!ENTITY disconnect.label            "Tichup…">
 
 
 

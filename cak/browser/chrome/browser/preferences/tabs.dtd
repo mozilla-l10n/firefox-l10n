@@ -5,7 +5,8 @@
 <!ENTITY newWindowsAsTabs.label       "Kejaq k'ak'a' taq tzuwäch achi'el taq ruwi'">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
-
+<!ENTITY warnCloseMultipleTabs.label  "Taya' pe rutzijol chwe we xketz'apitäj k'ïy taq ruwi'">
+<!ENTITY warnCloseMultipleTabs.accesskey  "c">
 
 <!ENTITY warnOpenManyTabs.label       "Taya' pe rutzijol chwe we &brandShortName; yalan eqal xtisamäj toq xkerujäq k'ïy taq ruwi'">
 <!ENTITY warnOpenManyTabs.accesskey   "d">

@@ -2,7 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY startupPage.label         "Toq xtitikirisäx &brandShortName;:">
+<!ENTITY startupPage.accesskey     "x">
 
 
 
@@ -29,7 +30,7 @@
 
 <!ENTITY setAsMyDefaultBrowser2.label     "Tib'an kan richin wi chi re">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "k">
-
+<!ENTITY isDefault.label                  "&brandShortName; ja awokik'amaya'l kan k'o wi">
 
 
 <!ENTITY separateProfileMode.label        "Tiya' q'ij chi ri &brandShortName; chuqa' Firefox ketzije' junam">
