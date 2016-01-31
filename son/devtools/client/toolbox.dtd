@@ -117,13 +117,13 @@ values from browser.dtd.  -->
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
 <!ENTITY options.disableJavaScript.label     "JavaScript kayandi *">
-<!ENTITY options.disableJavaScript.tooltip   "Suubaroo tunandiroo ga JavaScript kayandi nor lokoo ra. Nda nor lokoo wala goyjinay bataa daaba kul kayandiyanoo mma dere.">
+<!ENTITY options.disableJavaScript.tooltip   "Suubaroo tunandiroo ga JavaScript kayandi kanjoo ra. Nda kanjoo wala goyjinay bataa daaba kul kayandiyanoo mma dere.">
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!ENTITY options.disableCache.label2     "Tugudoo kayandi (nda goyjinay bata ga feera)">
-<!ENTITY options.disableCache.tooltip2   "Suubaroo woo tunandiroo ka too tugudoo ma kay nor lokey kaŋ goyjinay bata ga feeri se.">
+<!ENTITY options.disableCache.tooltip2   "Suubaroo woo tunandiroo ka too tugudoo ma kay kanjey kaŋ goyjinay bata ga feeri se.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
@@ -216,8 +216,8 @@ Gecko goydaari jinay tammaasayaŋ">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Holgu daabuyan dam nga boŋ se">
 <!ENTITY options.sourceeditor.expandtab.label           "Hirri nor nda farrey">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Goy nda farrey, manti nor loku harfu ">
-<!ENTITY options.sourceeditor.tabsize.label             "Nor loku azzaati">
-<!ENTITY options.sourceeditor.tabsize.accesskey         "N">
+<!ENTITY options.sourceeditor.tabsize.label             "Kanji azzaati">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "K">
 <!ENTITY options.sourceeditor.keybinding.label          "Kufalhawarey">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Tilasu">

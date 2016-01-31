@@ -81,7 +81,7 @@
 
 <!ENTITY projectPanel_myProjects "Ay porožewey">
 <!ENTITY projectPanel_runtimeApps "Dirandi waati porogaram-izey">
-<!ENTITY projectPanel_tabs "Nor lokey">
+<!ENTITY projectPanel_tabs "Kanjey">
 <!ENTITY runtimePanel_usb "USB jinawey">
 <!ENTITY runtimePanel_wifi "Wi-Fi jinawey">
 <!ENTITY runtimePanel_simulator "Dendenkey">
@@ -130,9 +130,9 @@
 <!ENTITY prefs_options_templatesurl_tooltip "Leeti barantey maaboŋoo">
 <!ENTITY prefs_options_showeditor "Fasalkaa cebe">
 <!ENTITY prefs_options_showeditor_tooltip "Kunahere fasalkaa cebe">
-<!ENTITY prefs_options_tabsize "Nor loku azzaati">
-<!ENTITY prefs_options_expandtab "Nor loku baaney">
-<!ENTITY prefs_options_expandtab_tooltip "Goy nda farrey, manti nor loku harfu ">
+<!ENTITY prefs_options_tabsize "Kanji azzaati">
+<!ENTITY prefs_options_expandtab "Kanji baaney">
+<!ENTITY prefs_options_expandtab_tooltip "Goy nda farrey, manti kanji harfu ">
 <!ENTITY prefs_options_detectindentation "Boŋhirri">
 <!ENTITY prefs_options_detectindentation_tooltip "Hirri-noryan hiise aššil gundekuna bande">
 <!ENTITY prefs_options_autocomplete "Boŋtimmandi">

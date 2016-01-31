@@ -19,39 +19,39 @@
 <!ENTITY navbarOverflow.label                "Goyjinay tontoney…">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "Nor lokoo dam taaga">
+<!ENTITY  reloadTab.label                    "Kanjoo dam taaga">
 <!ENTITY  reloadTab.accesskey                "d">
-<!ENTITY  reloadAllTabs.label                "Nor lokey kul dam taaga">
+<!ENTITY  reloadAllTabs.label                "Kanjey kul dam taaga">
 <!ENTITY  reloadAllTabs.accesskey            "k">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Nor lokey igumey daabu">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "Nor loku taney daabu">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  closeTabsToTheEnd.label            "Kanji gumey daabu">
+<!ENTITY  closeTabsToTheEnd.accesskey        "g">
+<!ENTITY  closeOtherTabs.label               "Kanji taney daabu">
+<!ENTITY  closeOtherTabs.accesskey           "j">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Nor loku kanji">
+<!ENTITY  pinTab.label                       "Kanji koli">
 <!ENTITY  pinTab.accesskey                   "k">
 <!ENTITY  unpinTab.label                     "Nor loku bukandi">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToNewWindow.label              "Ganandi zanfun taagaa ra">
 <!ENTITY  moveToNewWindow.accesskey          "z">
-<!ENTITY  bookmarkAllTabs.label              "Nor lokey kul šilbay…">
-<!ENTITY  bookmarkAllTabs.accesskey          "l">
-<!ENTITY  undoCloseTab.label                 "Nor loku daabuyan taafeeri">
+<!ENTITY  bookmarkAllTabs.label              "Kanjey kul šilbay…">
+<!ENTITY  bookmarkAllTabs.accesskey          "j">
+<!ENTITY  undoCloseTab.label                 "Kanji daabuyan taafeeri">
 <!ENTITY  undoCloseTab.accesskey             "t">
-<!ENTITY  closeTab.label                     "Nor lokoo daabu">
+<!ENTITY  closeTab.label                     "Kanjoo daabu">
 <!ENTITY  closeTab.accesskey                 "d">
 
-<!ENTITY  listAllTabs.label      "Maaɲey kul šeedandi">
+<!ENTITY  listAllTabs.label      "Kanjey kul šeedandi">
 
-<!ENTITY tabCmd.label "Nor loku taaga">
+<!ENTITY tabCmd.label "Kanji taaga">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
@@ -79,11 +79,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "D">
 <!ENTITY bookmarksToolbarItem.label "Doo-šilbawey goyjinay žeeri hayiizey">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Nor lokey kul dam taaga">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Kanjey kul dam taaga">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "k">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Nor lokey kul šilbay…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "l">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Nor loku daabuyan taafeeri">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Kanjey kul šilbay…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "e">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Kanji daabuyan taafeeri">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "t">
 
 <!ENTITY pageSourceCmd.label "Moo aššil">
@@ -92,7 +92,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Moo alhabar">
 <!ENTITY pageInfoCmd.accesskey "a">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Diji nor loku">
+<!ENTITY mirrorTabCmd.label "Diji kanji">
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -103,8 +103,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "Dijikul">
 <!ENTITY fullScreenCmd.accesskey "D">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Nor lokey kul cebe">
-<!ENTITY showAllTabsCmd.accesskey "N">
+<!ENTITY showAllTabsCmd.label "Kanjey kul cebe">
+<!ENTITY showAllTabsCmd.accesskey "K">
 
 <!ENTITY fxaSignIn.label "Huru &syncBrand.shortName.label; ra">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ibaayey feeri">
@@ -166,7 +166,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu.label "Boŋ-maa hantum">
 <!ENTITY subscribeToPageMenupopup.label "Boŋ-maa hantum moɲoo woo ga">
 <!ENTITY subscribeToPageMenuitem.label "Boŋ-maa hantum moɲoo woo ga…">
-<!ENTITY addCurPagesCmd.label "Nor lokey kul doo-šilbay…">
+<!ENTITY addCurPagesCmd.label "Kanjey kul doo-šilbay…">
 <!ENTITY showAllBookmarks2.label "Doo-šilbawey kul cebe">
 <!ENTITY unsortedBookmarksCmd.label "Doo-šilbay kaŋyaŋ mana fayandi">
 <!ENTITY bookmarksToolbarChevron.tooltip "Doo-šilbay tontoney cebe">
@@ -327,7 +327,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Tuku"> 
 <!ENTITY fileMenu.accesskey       "T">
-<!ENTITY newUserContext.label             "Adaka kanji taaga">
+<!ENTITY newUserContext.label             "Diikaw kanji taaga">
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY userContextPersonal.label        "Boro boŋ se">
 <!ENTITY userContextPersonal.accesskey    "B">
@@ -387,7 +387,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Taariki">
 <!ENTITY historyMenu.accesskey "T">
-<!ENTITY historyUndoMenu.label "Nor loku kokor daabantey">
+<!ENTITY historyUndoMenu.label "Kanjey kaŋ kokor ka daaba">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Zanfun kokor daabantey">
 <!ENTITY historyRestoreLastSession.label "Goywaati bisantaa yeeti">
@@ -445,7 +445,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Ceeci wala aderesu dam">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Bere nor loku ga:">
+<!ENTITY urlbar.switchToTab.label     "Bere kanjoo ga:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "War ga boona ka war ceeciyan goyoo boryandi nda honnandiyaney?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Bay ka tonton…">
@@ -510,21 +510,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ceeciyan kayandiyaney barmay">
 
-<!ENTITY searchInNewTab.label         "Ceeci nor loku taaga ra">
+<!ENTITY searchInNewTab.label         "Ceeci kanji taaga ra">
 <!ENTITY searchInNewTab.accesskey     "t">
 <!ENTITY searchSetAsDefault.label     "Kayandi sanda tilasu ceecijinay">
 <!ENTITY searchSetAsDefault.accesskey "t">
 
-<!ENTITY openLinkCmdInTab.label       "Doboo feeri nor loku taaga ra">
-<!ENTITY openLinkCmdInTab.accesskey   "n">
+<!ENTITY openLinkCmdInTab.label       "Doboo feeri kanji taaga ra">
+<!ENTITY openLinkCmdInTab.accesskey   "k">
 <!ENTITY openLinkCmd.label            "Doboo feeri zanfun taaga ra">
 <!ENTITY openLinkCmd.accesskey        "z">
 <!ENTITY openLinkInPrivateWindowCmd.label "Doboo feeri zanfun taaga ra">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "z">
 <!ENTITY openLinkCmdInCurrent.label     "Dobu feeri">
 <!ENTITY openLinkCmdInCurrent.accesskey "f">
-<!ENTITY openFrameCmdInTab.label      "Feeri nor loku taaga ra">
-<!ENTITY openFrameCmdInTab.accesskey  "n">
+<!ENTITY openFrameCmdInTab.label      "Feeri kanji taaga ra">
+<!ENTITY openFrameCmdInTab.accesskey  "k">
 <!ENTITY openFrameCmd.label           "Kunga feeri zanfun taaga ra">
 <!ENTITY openFrameCmd.accesskey       "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Kungaa woo de cebe">
@@ -782,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
-<!ENTITY tabsToolbar.label "Ceecikaw nor lokey">
+<!ENTITY tabsToolbar.label "Ceecikaw kanjey">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 <!ENTITY syncTabsMenu3.label     "Kanji hangantey">
@@ -851,7 +851,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "z">
 <!ENTITY getUserMedia.selectMicrophone.label "Jindezaahaya kaŋ ka žemna:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
-<!ENTITY getUserMedia.audioCapture.label "Jinde kaŋ hun nor lokoo woo ga mma žemnandi.">
+<!ENTITY getUserMedia.audioCapture.label "Jinde kaŋ hun kanjoo woo ga mma žemnandi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.">
 
 <!ENTITY trackingProtection.title "Ganayan jejebuyan">
@@ -917,7 +917,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "Koyjineyan ga:">
 <!ENTITY panicButton.view.deleteCookies           "<html:strong>Aleewa</html:strong> korawey tuusu">
 <!ENTITY panicButton.view.deleteHistory           " <html:strong>Taariki</html:strong> koraa tuusu">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "<html:strong>Nor lokey</html:strong> nda <html:strong>Zanfuney</html:strong> kul tuusu">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "<html:strong>Kanjey</html:strong> nda <html:strong>Zanfuney</html:strong> kul tuusu">
 <!ENTITY panicButton.view.openNewWindow           "Zanfun henanante taaga feeri">
 
 <!ENTITY panicButton.view.undoWarning             "Teeraa woo ši hin ka taafeeri.">
