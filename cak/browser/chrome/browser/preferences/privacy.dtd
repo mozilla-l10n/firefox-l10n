@@ -48,7 +48,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Kek'ul taq kuki kichin aj rox winaqi':">
 <!ENTITY  acceptThirdParty.pre.accesskey  "k">
-
+<!ENTITY  acceptThirdParty.always.label   "Jantape'">
 <!ENTITY  acceptThirdParty.never.label    "Majub'ey">
 <!ENTITY  acceptThirdParty.visited.label  "Etz'eton">
 
@@ -56,7 +56,7 @@
 <!ENTITY  keepUntil.accesskey           "T">
 
 <!ENTITY  expire.label                  "tik'o iq'ij">
-
+<!ENTITY  close.label                   "Tatz'apij &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Taq man relik ta…">
 <!ENTITY  cookieExceptions.accesskey    "r">
