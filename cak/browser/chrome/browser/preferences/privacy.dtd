@@ -74,6 +74,8 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberActions.pre.label           "Rik'in jub'a' chuqa' nawajo' ">
 <!ENTITY  rememberActions.clearHistory.label  "Tijosq'ïx ri k'ak'a' k'ulwachinel">
 <!ENTITY  rememberActions.middle.label        ", chuqa' ">
 <!ENTITY  rememberActions.removeCookies.label "keyuj el ri taq kuki pa yonil">
