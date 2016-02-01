@@ -215,6 +215,6 @@
 <!ENTITY simulator_device "ডিভাইস">
 <!ENTITY simulator_screenSize "পর্দা">
 <!ENTITY simulator_pixelRatio "পিক্সেল অনুপাত">
-
-
-
+<!ENTITY simulator_tv_data "টিভি সিমুলেশন">
+<!ENTITY simulator_tv_data_open "উপাত্ত কনফিগ">
+<!ENTITY simulator_tv_data_open_button "কনফিগ ডিরেক্টরী খুলুন...">
