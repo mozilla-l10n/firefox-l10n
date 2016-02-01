@@ -23,7 +23,7 @@
 <!ENTITY account.edit.accesskey       "Հ">
 <!ENTITY account.moveup.label         "Վեր">
 <!ENTITY account.movedown.label       "Վար">
-<!ENTITY account.cancelReconnection.label         "Չեղարկել վերամիացումը">
+<!ENTITY account.cancelReconnection.label         "Չեղարկել վերակապակցումը">
 <!ENTITY account.cancelReconnection.accesskey     "Չ">
 <!ENTITY account.copyDebugLog.label     "Պատճենել Վրիպազերծման մատյանը">
 <!ENTITY account.copyDebugLog.accesskey "Պ">
