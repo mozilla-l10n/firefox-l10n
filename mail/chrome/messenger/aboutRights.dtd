@@ -52,7 +52,7 @@
 <!ENTITY rights.webservices-b "Ընդլայնված">
 <!ENTITY rights.webservices-c " հատված՝ ըստ">
 <!ENTITY rights.webservices-d "Թարմացնել">
-<!ENTITY rights.webservices-e " էջ և &quot;Ինքնաշխատ ստուգել թարմացումները&quot;՝ ընտրանքի ապանշում։">
+<!ENTITY rights.webservices-e " ներդիր և &quot;Ինքնաբար ստուգել թարմացումները&quot;՝ ընտրանքի ապանշում։">
 <!-- intro paragraph for unbranded builds -->
 
 <!ENTITY rights.webservices-unbranded "Այս ծրագրում ընդգրկված վեբ կայքի ծառայությունների ընդհանուն նկարագիրը, եթե առկա է, անջատելու կանոների հետ պետք է բերված լինի այստեղ:">
