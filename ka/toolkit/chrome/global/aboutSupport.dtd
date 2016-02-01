@@ -5,6 +5,10 @@
 <!ENTITY aboutSupport.pageTitle "პრობლემის აღმოფხვრის ინფორმაცია">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  ეს გვერდი შეიცავს ტექნიკურ ინფორმაციას, რომელის შესაძლოა გამოსადეგი იყო, როდესაც
+  პრობლემის გადაჭრას ცდილობთ.. თუ &brandShortName;-ის შესახებ ხშირად დასმულ კითხვებზე
+  ეძებთ პასუხს, შეამოწმეთ ჩვენი <a id='supportLink'>დახმარების ვებ-საიტი</a>.">
 
 <!ENTITY aboutSupport.crashes.title "ავარიული გათიშვის ანგარიშგება">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -69,12 +73,15 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin.label "ჩვენება საქაღალდესი">
 
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "მნიშვნელოვანი შეცვლილი მითითებები">
 <!ENTITY aboutSupport.modifiedPrefsName "სახელი">
 <!ENTITY aboutSupport.modifiedPrefsValue "მნიშვნელობა">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js პარამეტრები">
+<!ENTITY aboutSupport.userJSDescription "თქვენი პროფილის საქაღალდე შეიცავს <a id='prefs-user-js-link'>user.js ფაილს</a>, რომელიც ისეთ მითითებებს შეიცავს, რაც &brandShortName;-ს არ შეუქმნია.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "მნიშვნელოვანი ჩაკეტილი მითითებები">
 <!ENTITY aboutSupport.lockedPrefsName "სახელი">
 <!ENTITY aboutSupport.lockedPrefsValue "მნიშვნელობა">
 
@@ -85,6 +92,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.a11yTitle "დამხმარე საშუალებები">
 <!ENTITY aboutSupport.a11yActivated "აქტივირებული">
+<!ENTITY aboutSupport.a11yForceDisabled "დამხმარე საშუალებების აკრძალვა">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "ბიბლიოთეკის ვერსიები">
 
@@ -94,5 +102,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "ტექსტის ბუფერში კოპირება">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ნედლი მონაცემების ბუფერში კოპირება">
 
+<!ENTITY aboutSupport.sandboxTitle "ქვიშის ყუთი">
 
+<!ENTITY aboutSupport.safeModeTitle "უსაფრთხო რეჟიმის ცდა">
 <!ENTITY aboutSupport.restartInSafeMode.label "გადატვირთვა გამორთული დამატებებით...">
