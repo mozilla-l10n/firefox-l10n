@@ -215,6 +215,6 @@
 <!ENTITY simulator_device "Rěd">
 <!ENTITY simulator_screenSize "Wobrazowka">
 <!ENTITY simulator_pixelRatio "Pikselowy poměr">
-
-
-
+<!ENTITY simulator_tv_data "Telewizna simulacija">
+<!ENTITY simulator_tv_data_open "Konfiguraciske daty">
+<!ENTITY simulator_tv_data_open_button "Konfiguraciski zapis wócyniś…">
