@@ -7,13 +7,15 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.calendar.view.allview.caption "Splošno">
+<!ENTITY pref.calendar.view.allview.caption "Prikaži število tedna v pogledih in mini mesecu">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Dnevni in tedenski pogledi">
 <!ENTITY pref.calendar.view.multiweekview.caption "Večtedenski pogled">
 <!ENTITY pref.calendar.view.workweek.caption "Delovni teden">
 
 <!ENTITY pref.weekstarts.label "Prvi dan v tednu:">
 <!ENTITY pref.weekstarts.accesskey "r">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Prikaži število tedna v pogledih in mini mesecu">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "P">
 <!ENTITY pref.daysoff.label "V delovni teden vključi naslednje dni:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dan se začne ob:">

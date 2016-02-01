@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox Račun'>
 <!ENTITY fxaccount_status_signed_in_as 'Prijavljen kot'>
+<!ENTITY fxaccount_status_manage_account 'Upravljanje računa'>
 <!ENTITY fxaccount_status_auth_server 'Strežnik za račun'>
 <!ENTITY fxaccount_status_sync_now 'Sinhroniziraj zdaj'>
 <!ENTITY fxaccount_status_syncing2 'Sinhronizacija …'>
@@ -222,6 +223,7 @@
 <!ENTITY fxaccount_status_linktos 'Pogoji uporabe'>
 <!ENTITY fxaccount_status_linkprivacy 'Obvestilo o zasebnosti'>
 <!ENTITY fxaccount_status_more 'Več &ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Odklopi &ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Odstranim Firefox Račun?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; se bo prenehal sinhronizirati z vašim računom, vendar ne bo izbrisal podatkov o brskanju na tej napravi.'>
@@ -229,7 +231,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Firefox Račun &formatS; odstranjen.'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Odstrani račun'>
+<!ENTITY fxaccount_enable_debug_mode 'Omogoči način za razhroščevanje'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -268,3 +270,8 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tapnite za prijavo kot &formatS;'>
+
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
+<!ENTITY old_sync_deprecated_notification_title 'Prijavite se za nadaljevanje sinhronizacije'>
+<!ENTITY old_sync_deprecated_notification_content 'Vaš račun ni več podprt'>

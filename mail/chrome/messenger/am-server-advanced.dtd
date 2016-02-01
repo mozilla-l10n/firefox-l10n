@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "P">
 <!ENTITY dualUseFolders.label "Strežnik podpira mape, ki vsebujejo podmape in sporočila">
 <!ENTITY dualUseFolders.accesskey "S">
-<!ENTITY useIdle.label "Uporabi ukaz IDLE, če ga strežnik podpira">
-<!ENTITY useIdle.accesskey "U">
 <!ENTITY maximumConnectionsNumber.label "Največje število strežnikovih povezav v predpomnilniku">
 <!ENTITY maximumConnectionsNumber.accesskey "N">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "D">
 <!ENTITY overrideNamespaces.label "Omogoči strežniku, da razveljavi ta imenski prostor">
 <!ENTITY overrideNamespaces.accesskey "č">
-<!ENTITY pop3Desc.label "Pri prenosu pošte pop s tega strežnika za novo pošto uporabi naslednjo mapo:" >
-<!ENTITY accountDirectory.label "Prejeto za strežnikov račun">
-<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY pop3DeferringDesc.label "Ob prenašanju pošte iz strežnika tega računa uporabi naslednjo mapo za shranjevanje novih sporočil:" >
+<!ENTITY accountInbox.label "Prejeto za ta račun">
+<!ENTITY accountInbox.accesskey "a">
 <!ENTITY deferToServer.label "Prejeto za drug račun">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Vključi ta strežnik pri prejemanju novih sporočil">

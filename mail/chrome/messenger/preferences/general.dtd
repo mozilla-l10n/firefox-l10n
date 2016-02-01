@@ -8,22 +8,22 @@
 <!ENTITY location.label                   "Mesto:">
 <!ENTITY location1.accesskey               "M">
 <!ENTITY useDefault.label                 "Ponastavi privzeto">
-<!ENTITY useDefault.accesskey             "o">
+<!ENTITY useDefault.accesskey             "P">
 
 <!ENTITY changeDockIconOptions.label      "Spremeni možnosti ikone programa">
-<!ENTITY dockOptions.label                "Možnosti ikone programa ....">
+<!ENTITY dockOptions.label                "Možnosti ikone programa ...">
 <!ENTITY dockOptions.accesskey            "o">
 
 <!ENTITY newMessagesArrive.label          "Ko prispejo nova sporočila:">
-<!ENTITY playSound.label                  "Predvajaj zvok">
+<!ENTITY playSound.label                  "predvajaj zvok">
 <!ENTITY playSound1.accesskey              "e">
-<!ENTITY showAnimatedAlert.label          "Pokaži opozorilo">
-<!ENTITY showAnimatedAlert.accesskey      "P">
+<!ENTITY showAnimatedAlert.label          "prikaži opozorilo">
+<!ENTITY showAnimatedAlert.accesskey      "o">
 <!ENTITY customizeMailAlert.label         "Prilagodi …">
 <!ENTITY customizeMailAlert.accesskey     "a">
 
-<!ENTITY showTrayIcon.label               "Prikaži ikono sistemske vrstice">
-<!ENTITY showTrayIcon.accesskey           "r">
+<!ENTITY showTrayIcon.label               "prikaži ikono sistemske vrstice">
+<!ENTITY showTrayIcon.accesskey           "n">
 
 <!ENTITY play.label                       "Predvajaj">
 <!ENTITY play.accesskey                   "d">

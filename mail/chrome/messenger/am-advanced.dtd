@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Nastavi na privzeto">
 <!ENTITY smtpListSetDefault.accesskey "N">
 
+<!ENTITY serverDetails.label "Podrobnosti izbranega strežnika:">
 <!ENTITY serverDescription.label "Opis: ">
 <!ENTITY serverName.label "Ime strežnika: ">
 <!ENTITY serverPort.label "Vrata: ">
