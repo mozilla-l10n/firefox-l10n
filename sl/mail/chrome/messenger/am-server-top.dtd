@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Preveri za nova sporočila vsakih ">
 <!ENTITY biffStart.accesskey "P">
 <!ENTITY biffEnd.label "minut">
+<!ENTITY useIdleNotifications.label "Dovoli takojšnja obvestila strežnika, ko prispejo nova sporočila">
+<!ENTITY useIdleNotifications.accesskey "D">
 <!ENTITY connectionSecurity.label "Varnost povezave:">
 <!ENTITY connectionSecurity.accesskey "a">
 <!ENTITY connectionSecurityType-0.label "Brez">

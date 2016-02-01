@@ -7,8 +7,8 @@
 <!ENTITY lightning.toolbar.task.name "Orodna vrstica za opravila">
 <!ENTITY lightning.toolbar.task.name.accesskey "O">
 
-<!ENTITY lightning.toolbar.sync.label "Uskladi">
-<!ENTITY lightning.toolbar.sync.tooltip "Ponovno naloži koledarje in uskladi spremembe">
+<!ENTITY lightning.toolbar.sync.label "Sinhroniziraj">
+<!ENTITY lightning.toolbar.sync.tooltip "Ponovno naloži koledarje in sinhroniziraj spremembe">
 <!ENTITY lightning.toolbar.delete.label "Izbriši">
 <!ENTITY lightning.toolbar.delete.tooltip "Izbriši izbrane dogodke in opravila">
 <!ENTITY lightning.toolbar.edit.label "Uredi">

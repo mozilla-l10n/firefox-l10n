@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Upravljanje dodatnih komponent">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "Osveži zavihke">
 
 <!ENTITY runtimeMenu_label "Izvajalnik">
 <!ENTITY runtimeMenu_accesskey "I">
@@ -74,6 +75,9 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "Moji projekti">
 <!ENTITY projectPanel_runtimeApps "Aplikacije izvajalnika">
@@ -85,6 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "Namesti simulator">
 <!ENTITY runtimePanel_noadbhelper "Namesti ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Ne vidite vaše naprave?">
+<!ENTITY runtimePanel_refreshDevices_label "Osveži naprave">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "veljavno">
@@ -136,6 +141,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Samodejno vstavljaj zaklepaje">
 <!ENTITY prefs_options_keybindings "Bližnjice tipk">
 <!ENTITY prefs_options_keybindings_default "Privzeto">
+<!ENTITY prefs_options_autosavefiles "Samodejno shranjuj datoteke">
+<!ENTITY prefs_options_autosavefiles_tooltip "Samodejno shrani spremembe datotek pred zagonom projekta">
 
 <!-- Permissions Table -->
 <!ENTITY permissionstable_title "Tabela dovoljenj">

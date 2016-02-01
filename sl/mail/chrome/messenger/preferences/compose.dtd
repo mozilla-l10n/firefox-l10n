@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "z">
 <!ENTITY restoreHTMLDefaults.label            "Ponastavi privzeto">
 <!ENTITY restoreHTMLDefaults.accesskey        "n">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Ob uporabi odstavkovne oblike tipka Enter ustvari nov odstavek">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "u">
 
 <!ENTITY spellCheck.label                     "Pred pošiljanjem preveri črkovanje">
 <!ENTITY spellCheck.accesskey                 "P">

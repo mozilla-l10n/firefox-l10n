@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Poizvej po odzivnih strežnikih OCSP za potrditev trenutne veljavnosti potrdil">
 <!ENTITY enableOCSP.accesskey            "P">
 
-<!ENTITY viewCertificates.label         "Pokaži potrdila">
-<!ENTITY viewCertificates.accesskey     "o">
-<!ENTITY viewSecurityDevices.label      "Varnostne naprave">
-<!ENTITY viewSecurityDevices.accesskey  "V">
+<!ENTITY manageCertificates.label "Upravljaj z digitalnimi potrdili">
+<!ENTITY manageCertificates.accesskey "U">
+<!ENTITY viewSecurityDevices.label "Varnostne naprave">
+<!ENTITY viewSecurityDevices.accesskey "V">
