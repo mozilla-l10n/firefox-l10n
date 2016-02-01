@@ -32,7 +32,7 @@
 <!ENTITY  unsupportedLink.label           "გაიგოთ მეტი.">
 
 <!ENTITY  incompatibleCheck.title         "პაკეტის თავსებადობის შემოწმება">
-<!ENTITY  incompatibleCheck.label         "თქვენი პაკეტების ახალი ვერსიების მოძიება…">
+<!ENTITY  incompatibleCheck.label         "თქვენი დამატებების ახალი ვერსიების მოძიება…">
 
 <!ENTITY  clickHere.label                 "ამ განახლების შესახებ დამატებითი ინფორმაციის ნახვა">
 

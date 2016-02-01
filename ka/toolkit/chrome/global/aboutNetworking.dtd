@@ -2,28 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutNetworking.title                 "ქსელის შესახებ">
+<!ENTITY aboutNetworking.warning               "ეს ძალზედ ექსპერიმენტულია. უფროსების ნებართვის გარეშე არ გამოიყენო.">
 <!ENTITY aboutNetworking.showNextTime          "ამ გაფრთხილების ჩვენება შემდგომ">
 <!ENTITY aboutNetworking.ok                    "დიახ">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
+<!ENTITY aboutNetworking.sockets               "სოკეტები:">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "WebSockets">
+<!ENTITY aboutNetworking.refresh               "განახლება">
+<!ENTITY aboutNetworking.autoRefresh           "ავტო-განახლება ყოველ 3 წამში">
+<!ENTITY aboutNetworking.hostname              "ჰოტის სახელი">
+<!ENTITY aboutNetworking.port                  "პორტი">
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "მოქმედი">
+<!ENTITY aboutNetworking.idle                  "უქმი">
+<!ENTITY aboutNetworking.host                  "ჰოსტი">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "გაგზავნილია">
+<!ENTITY aboutNetworking.received              "მიღებულია">
+<!ENTITY aboutNetworking.family                "ოჯახი">
+<!ENTITY aboutNetworking.addresses             "მისამართები">
+<!ENTITY aboutNetworking.expires               "მოქმედების ვადა (წამებში)">
+<!ENTITY aboutNetworking.messagesSent          "გაგზავნილი შეტყობინებები">
+<!ENTITY aboutNetworking.messagesReceived      "მიღებული შეტყობინებები">
+<!ENTITY aboutNetworking.bytesSent             "გაგზავნილი ბაიტი">
+<!ENTITY aboutNetworking.bytesReceived         "მიღებული ბაიტი">
+<!ENTITY aboutNetworking.dnsLookup             "DNS მოძიება">
+<!ENTITY aboutNetworking.dnsLookupButton       "გადაჭრა">
+<!ENTITY aboutNetworking.dnsDomain             "დომეინი">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
