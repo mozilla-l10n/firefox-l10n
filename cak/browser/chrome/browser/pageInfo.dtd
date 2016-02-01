@@ -5,7 +5,7 @@
 
 <!ENTITY  copy.label            "Wachib'exïk">
 <!ENTITY  copy.accesskey        "c">
-
+<!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Rucha'ik ronojel">
 <!ENTITY  selectall.accesskey   "r">
 
@@ -71,7 +71,7 @@
 
 
 
-
+<!ENTITY  securityView.privacy.viewPasswords            "Ketz'et ri taq ewan tzij eyakon">
 
 
 <!ENTITY  securityView.technical.header                 "Retal ajsamajel">

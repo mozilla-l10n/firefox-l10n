@@ -36,7 +36,7 @@
 
 
 
-
+<!ENTITY crashReporterLearnMore.label    "Tetamäx ch'aqa' chik">
 
 <!ENTITY networkTab.label                "K'amab'ey">
 
@@ -52,7 +52,7 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-
+<!ENTITY limitCacheSizeAfter.label       "MB rupam">
 
 
 

@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "Tinuk'samajïx &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "T">
-
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; nuya' q'ij chawe richin yatok chi kipam ri taq ayaketal, k'ulwachinel, taq ewan tzij, taq ajowab'äl chuqa' taq ruwi' pa k'ïy taq okisaxel.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
@@ -49,6 +49,8 @@
 <!ENTITY prefs.tosLink.label        "Ketal Samaj">
 <!ENTITY prefs.ppLink.label         "Runa’oj rajaw">
 <!-- Firefox Accounts stuff -->
+
+<!ENTITY fxaPrivacyNotice.link.label "Ichinan rutzijol">
 <!ENTITY determiningAcctStatus.label     "Tajin niya' retal ri rub'anikil ataqoya'l…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -81,6 +83,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "¿Tajin nawokisaj jun ojer rub'eyal ri Sync?">
 
+<!ENTITY signedOut.caption            "Tak'waj awik'in ri Ajk'amaya'l">
 <!ENTITY signedOut.description        "Ke'axima' ri taq ayaketal, k'ulwachinel, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.">
 <!ENTITY signedOut.accountBox.title   "Tib'an okem rik'in jun &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Titz'uk rub'i' taqoya'l">

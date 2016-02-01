@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader.label       "Nrokisaj ruchajinïk pa ruwi' ilonem">
-
-
+<!ENTITY  trackingProtectionAlways.label       "Junelïk">
+<!ENTITY  trackingProtectionAlways.accesskey   "e">
 <!ENTITY  trackingProtectionPrivate.label      "Xa xe pa taq ichinan tzuwäch">
 <!ENTITY  trackingProtectionPrivate.accesskey  "x">
 <!ENTITY  trackingProtectionNever.label        "Majub'ey">
@@ -16,14 +16,14 @@
 <!ENTITY tracking.label                 "Kanoxïk">
 <!ENTITY trackingProtectionPBM5.label         "Tokisäx chajinïk richin ilonem pa taq ichinan tzuwäch">
 <!ENTITY trackingProtectionPBM5.accesskey     "a">
-
-
-
+<!ENTITY trackingProtectionPBMLearnMore.label "Tetamäx ch'aqa' chik">
+<!ENTITY changeBlockList.label          "Tijaq rucholajem taq q'atoj">
+<!ENTITY changeBlockList.accesskey      "T">
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  doNotTrack.pre.label          "Chuqa' yatikïr">
-
+<!ENTITY  doNotTrack.settings.label     "Tinuk'samajïx ri nuk'ulem richin Mani tilitäj">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "K'ulwachinel">
@@ -31,8 +31,8 @@
 <!ENTITY  locationBar.label             "Kikajtz'ik taq k'ojlib'äl">
 
 <!ENTITY  locbar.suggest.label          "Jampe' toq nokisäx ri rukajtz'ik k'ojlemal, tichilab'ëx:">
-
-
+<!ENTITY  locbar.history.label          "k'ulwachinel">
+<!ENTITY  locbar.history.accesskey      "k">
 <!ENTITY  locbar.bookmarks.label        "Taq etal">
 <!ENTITY  locbar.bookmarks.accesskey    "e">
 <!ENTITY  locbar.openpage.label         "Kejaq taq ruwi'">
@@ -61,7 +61,8 @@
 <!ENTITY  cookieExceptions.label        "Taq man relik ta…">
 <!ENTITY  cookieExceptions.accesskey    "r">
 
-
+<!ENTITY  showCookies.label             "Kek'ut taq kuki…">
+<!ENTITY  showCookies.accesskey         "K">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; xtitikïr:">
 <!ENTITY  historyHeader.pre.accesskey      "x">
@@ -81,6 +82,7 @@
 <!ENTITY  rememberActions.removeCookies.label "keyuj el ri taq kuki pa yonil">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  dontrememberDescription.label  "&brandShortName; xtrokisaj ri junam runuk'ulem achi'el pa ichinam okem pa k'amaya'l, chuqa' man xkerunataj ta ri taq rutzij k'ulwachinel toq tajin nok pa ajk'amaya'l.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
@@ -94,7 +96,8 @@
 <!ENTITY  rememberHistory2.label      "Tinatäx ri nuk'ulwachinel richin taq qasanïk chuqa' okik'amaya'l">
 <!ENTITY  rememberHistory2.accesskey  "T">
 
-
+<!ENTITY  rememberSearchForm.label       "Tinatäx ri ruk'ulwachinel richin kanoxï chuqa' taq nojwuj">
+<!ENTITY  rememberSearchForm.accesskey   "n">
 
 <!ENTITY  clearOnClose.label             "Tijoxq'ïx ri k'ulwachinel toq nitz'apïx &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "k">

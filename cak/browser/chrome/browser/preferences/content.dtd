@@ -16,7 +16,8 @@
 <!ENTITY  notificationsDoNotDisturb.accesskey  "M">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Majun chi rutzijol xkek'ut pe, k'a xtatikirisaj na ri &brandShortName;">
 
-
+<!ENTITY  popupExceptions.label       "Man relik ta…">
+<!ENTITY  popupExceptions.accesskey   "r">
 
 <!ENTITY  fontsAndColors.label        "Kiwäch taq tz'ib' chuqa' taq b'onil">
 
@@ -54,5 +55,6 @@
 
 <!ENTITY  drmContent.label             "DRM rupam etamab'äl">
 
-
+<!ENTITY  playDRMContent.label         "Titzij DRM rupam ">
+<!ENTITY  playDRMContent.accesskey     "T">
 <!ENTITY  playDRMContent.learnMore.label "Tetamäx ch'aqa' chik">
