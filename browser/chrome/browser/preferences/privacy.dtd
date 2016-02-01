@@ -7,11 +7,11 @@
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "শুধুমাত্র ব্যক্তিগত ব্রাউজিং উইন্ডোতে">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
-
-
+<!ENTITY  trackingProtectionNever.label        "কখনো নয় N">
+<!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "আরো জানতে">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "ব্যতিক্রম… E">
+<!ENTITY  trackingProtectionExceptions.accesskey "E">
 
 <!ENTITY tracking.label                 "অনুসরণ">
 <!ENTITY trackingProtectionPBM5.label         "ব্যক্তিগত উইন্ডোতে ট্রাকিং সুরক্ষা ব্যবহার করুন v">
@@ -24,7 +24,7 @@
 
 <!ENTITY  doNotTrack.pre.label          "এছাড়াও আপনি ">
 <!ENTITY  doNotTrack.settings.label     "আপনার Do Not Track পরিচালনা করুন">
-
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "ইতিহাস">
 
