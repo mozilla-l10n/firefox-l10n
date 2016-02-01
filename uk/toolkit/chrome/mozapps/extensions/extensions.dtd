@@ -25,7 +25,7 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Деякі розширення не можуть бути перевірені">
 <!ENTITY showAllExtensions.button.label       "Показати всі розширення">
-<!ENTITY debugAddons.label                    "Зневадити додатки">
+<!ENTITY debugAddons.label                    "Зневадження додатків">
 <!ENTITY debugAddons.accesskey                "З">
 
 <!-- global warnings -->
