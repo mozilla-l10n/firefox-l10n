@@ -66,7 +66,7 @@
 <!ENTITY  historyHeader.pre.label          "&brandShortName; xtitikïr:">
 <!ENTITY  historyHeader.pre.accesskey      "x">
 <!ENTITY  historyHeader.remember.label     "Tinatäx k'ulwachinel">
-
+<!ENTITY  historyHeader.dontremember.label "Mani ninatäx ri k'ulwachixel">
 <!ENTITY  historyHeader.custom.label       "Tokisäx jun ichinan runuk'ulem re k'ulwachixel">
 <!ENTITY  historyHeader.post.label         "">
 
@@ -88,7 +88,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "tijosq'ïx ronojel ri k'ulwachinel">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-
+<!ENTITY  privateBrowsingPermanent2.label "Junelïk tokisäx pa rub'eyal ichinan okem pa k'amaya'l">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Tinatäx ri nuk'ulwachinel richin taq qasanïk chuqa' okik'amaya'l">
 <!ENTITY  rememberHistory2.accesskey  "T">

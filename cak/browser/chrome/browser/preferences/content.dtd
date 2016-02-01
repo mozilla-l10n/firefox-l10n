@@ -28,7 +28,8 @@
 <!ENTITY  advancedFonts.label         "Taq Q'axinäq…">
 <!ENTITY  advancedFonts.accesskey     "Q">
 
-
+<!ENTITY  colors.label                "Taq b'onil…">
+<!ENTITY  colors.accesskey            "T">
 
 
 <!ENTITY languages.label              "Taq ch'ab'äl">

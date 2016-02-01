@@ -6,18 +6,19 @@
 
 <!ENTITY startupPage.label         "Toq xtitikirisäx &brandShortName;:">
 <!ENTITY startupPage.accesskey     "x">
-
+<!ENTITY startupHomePage.label     "Tik'ut pe ri tikirib'äl ruxaq nuk'amaya'l">
 <!ENTITY startupBlankPage.label    "Tik'ut pe jun kowöl ruxaq">
 <!ENTITY startupLastSession.label  "Kek'ut ri taq nutzuwäch chuqa' taq ruwi' ruk'isib'äl numolojri'ïl">
 
-
+<!ENTITY homepage.label            "Tikirib'äl ruxaq">
+<!ENTITY homepage.accesskey        "T">
 <!ENTITY useCurrentPage.label      "Tokisäx ri ruxaq k'amaya'l k'o wakami">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Tokisäx ri taq ruxaq k'amaya'l e k'o wakami">
 <!ENTITY chooseBookmark.label      "Tokisäx yaketal…">
 <!ENTITY chooseBookmark.accesskey  "y">
-
-
+<!ENTITY restoreDefault.label      "Titzolïx ruwäch ri rajil achi'el ruk'amon pe">
+<!ENTITY restoreDefault.accesskey  "T">
 
 <!ENTITY downloads.label     "Taq qasa’n">
 
@@ -38,7 +39,7 @@
 <!ENTITY isNotDefault.label               "&brandShortName; man ja ta awokik'amaya'l kan k'o wi">
 
 <!ENTITY separateProfileMode.label        "Tiya' q'ij chi ri &brandShortName; chuqa' Firefox ketzije' junam">
-
+<!ENTITY useFirefoxSync.label             "Pixa': Re re' nrokisaj jachon taq ruwäch b'i'aj. Tawokisaj Ximoj richin nakomonij na'oj chi kikojol.">
 <!ENTITY getStarted.label                 "Tichap rokisaxik Ximojri'ïl…">
 
 <!ENTITY e10sEnabled.label                "Titzij ri k'ïy tajin richin &brandShortName;">

@@ -4,10 +4,10 @@
 
 <!ENTITY position.label             "K'ojlib'äl:">
 
-
+<!ENTITY center.label               "Runik'ajal">
 <!ENTITY stretch.label              "Tiyuq">
 
-
+<!ENTITY fit.label                  "Runuk'ik">
 <!ENTITY preview.label              "Nab'ey tzub'al">
 
 

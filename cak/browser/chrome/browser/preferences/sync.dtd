@@ -39,7 +39,7 @@
 
 <!ENTITY syncDeviceName.label       "Rub'i' ri okisaxel:">
 <!ENTITY syncDeviceName.accesskey   "b">
-
+<!ENTITY fxaSyncDeviceName.label       "Rub'i' ri okisaxel:">
 <!ENTITY changeSyncDeviceName.label "Tijal rub'i' ri okisaxel…">
 <!ENTITY cancelChangeSyncDeviceName.label "Tiq'at">
 <!ENTITY saveChangeSyncDeviceName.label "Tiyak">
@@ -67,9 +67,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Tatikirisaj molojri'ïl richin yatok chik">
 <!ENTITY signedInLoginFailure.aftername.label "Tab'ana' utzil tatikirisaj chik ri molojri'ïl richin yatok chik">
 
+<!ENTITY notSignedIn.label           "Man atikirisan ta molojri'ïl.">
 <!ENTITY signIn.label                "Tatikirisaj molojri'ïl">
 <!ENTITY profilePicture.tooltip      "Tijal ruwachib'äl ruwäch b'i'aj">
-
+<!ENTITY verifiedManage.label        "Tinuk'samajïx rub'i' taqoya'l">
 <!ENTITY disconnect.label            "Tichup…">
 <!ENTITY verify.label                "Tinik'öx taqoya'l">
 <!ENTITY forget.label                "Tamestaj re taqoya'l re'">
@@ -81,7 +82,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "¿Tajin nawokisaj jun ojer rub'eyal ri Sync?">
 
 <!ENTITY signedOut.description        "Ke'axima' ri taq ayaketal, k'ulwachinel, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.">
-
+<!ENTITY signedOut.accountBox.title   "Tib'an okem rik'in jun &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Titz'uk rub'i' taqoya'l">
 <!ENTITY signedOut.accountBox.signin  "Titikirisäx molojri'Il">
 
@@ -96,6 +97,9 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo2.androidLink      "Firefox richin Android">
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
+
+<!ENTITY mobilePromo2.iOSBefore         " chuqa' ">
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo2.iOSLink          "Firefox richin iOS">
 
 <!ENTITY mobilePromo2.end              ".">
