@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutProfiles.title "Про профілі">
-<!ENTITY aboutProfiles.subtitle "Ця сторінка допомагає вам керувати вашими профілями. Кожен профіль є окремим світом, що містить окремі історії, закладки, налаштування та додатки.">
+<!ENTITY aboutProfiles.subtitle "Ця сторінка допомагає керувати вашими профілями. Кожен профіль є окремим світом, що містить окрему історію, закладки, налаштування й додатки.">
 <!ENTITY aboutProfiles.create "Створити новий профіль">
 <!ENTITY aboutProfiles.restart.title "Перезапустити">
-<!ENTITY aboutProfiles.restart.inSafeMode "Перезапуск з вимкненими додатками…">
-<!ENTITY aboutProfiles.restart.normal "Нормальний перезапуск…">
+<!ENTITY aboutProfiles.restart.inSafeMode "Перезапустити з вимкненими додатками…">
+<!ENTITY aboutProfiles.restart.normal "Перезапустити в звичайному режимі…">
