@@ -1,0 +1,6 @@
+dict-enlv
+google
+salidzinilv
+sslv
+wikipedia-lv
+yahoo
