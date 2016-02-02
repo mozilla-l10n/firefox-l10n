@@ -19,7 +19,7 @@
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
+<!ENTITY  font.langGroup.japanese                 "Japones">
 
 <!ENTITY  font.langGroup.simpl-chinese            "Ch'uti Chino">
 
