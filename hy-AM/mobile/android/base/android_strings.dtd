@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "Դարձրեք բջջայինով վեբ դիտարկումները իսկապես Ձերը:">
 
 <!ENTITY firstrun_urlbar_message "Բարի գալուստ &brandShortName;">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Կատարեք արագ որոնում՝ որոնման օգտակար առաջարկների դյուրանցումներով:">
+<!ENTITY firstrun_bookmarks_title "Պատմություն">
+<!ENTITY firstrun_bookmarks_message "Ձեր ընտրյալները, առջև և կենտրոնում">
+<!ENTITY firstrun_bookmarks_subtext "Որոնման ընթացքում ստացեք արդյունքներ ձեր էջանիշերից և պատմությունից:">
+<!ENTITY firstrun_data_title "Տվյալ">
+<!ENTITY firstrun_data_message "Քիչ տվյալ, շատ պահումներ">
+<!ENTITY firstrun_data_subtext "Արգելափակել պատկերները՝ կայքեր այցելելիս քիչ տվյալներ ծախսելու համար:">
 <!ENTITY firstrun_sync_title "Սինք">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, միշտ ձեր կողմից է">
+<!ENTITY firstrun_sync_subtext "Համաժամեցրեք ձեր ներդիրները, գաղտնաբառերը և ավելին՝ ցանկացած վայրում:">
+<!ENTITY firstrun_signin_message "Եղեք կապակցված, սկսեք">
+<!ENTITY firstrun_signin_button "Մուտք գործեք՝ Սինքը սկսելու համար">
 <!ENTITY  onboard_start_button_browser "Սկսել">
 <!ENTITY firstrun_button_next "Հաջորդ">
 
@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Կարող եք սա փոխել Կարգավորումներում">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Միացրեք Բաժանել այլ հավելվածների հետ թույլտվությունը">
 <!ENTITY tab_queue_prompt_positive_action_button "Միացնել">
 <!ENTITY tab_queue_prompt_negative_action_button "Ոչ հիմա">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Անցնել Կարգավորումներին">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 ներդիր սպասում է">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "\&quot;Բացել բազմակի հղումներ\&quot;-ի համար միացրեք \u0027Բաժանել այլ հավելվածների հետ\u0027 թույլտվությունը &brandShortName;-ում">
 
 <!ENTITY pref_char_encoding "Ցուցադրել գրանշանի կոդավորումը">
 <!ENTITY pref_char_encoding_on "Ցուցադրել">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Վերջին այցելությունները:">
 <!ENTITY home_open_all "Բացել բոլորը">
 <!ENTITY home_most_recent_empty "Ցուցադրված են Ձեր այցելած վերջին կայքերը:">
-
+<!ENTITY home_selected_empty "Նշված ժամանակամիջոցում ձեր այցելած կայքերը:">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "&formatS1;Նոր գաղտնի դիտարկումը&formatS2; չի պահպանի պատմությունը:">
@@ -597,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Անվտանգ կապակցում">
 <!ENTITY identity_connection_insecure "Ոչ անվտանգ կապակցում">
 <!ENTITY identity_login_insecure "Այս էջը անվտանգ չէ և ձեր մուտքգործումը կարող է խոցելի լինել:">
-
+<!ENTITY identity_connection_chromeui "Սա &brandShortName;-ի անվտանգ էջ է">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;-ը արգելափակել է ոչ անվտանգ բովանդակությունը այս էջում:">
@@ -621,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Անձնական տվյալները մաքրվեցին">
 <!ENTITY private_data_fail "Անձնական որոշ տվյալներ հնարավոր չէ ջնջել">
 
+<!ENTITY bookmarkhistory_button_import "Ներմուծել">
 <!ENTITY bookmarkhistory_import_both "Էջանիշերի և Պատմության ներմուծում 
 Android-ից">
 <!ENTITY bookmarkhistory_import_bookmarks "Էջանիշերի ներմուծում 
@@ -661,7 +666,10 @@ Android-ից">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Ֆայլեր և թարմացումներ ներբեռնելու համար թույլատրեք &brandShortName;-ին մատչում պահեստին:">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Թույլատրել">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Հյուրի աշխատաշրջան">
@@ -751,8 +759,8 @@ Android-ից">
 <!ENTITY restrictable_feature_advanced_settings_description "Ներառում է ներմուծված էջանիշեր, վերականգնած ներդիրներ և ինքնաշխատ թարմացումներ: Անջատեք պարզեցված կարգավորումների համար՝ ընտանիքի յուրաքանչյուր անդամին համապատասխան:  ">
 <!ENTITY restrictable_feature_camera_microphone "Ֆոտոխցիկ և խոսափող">
 <!ENTITY restrictable_feature_camera_microphone_description "Թույլատրում է ընտանիքի անդամներին իրական ժամանակում զրուցել կայքերում:">
-
-
+<!ENTITY restrictable_feature_block_list "Արգելափակումների ցուցակ">
+<!ENTITY restrictable_feature_block_list_description "Արգելափակել կայքերը, որոնք ներառում են տառաշարազգայուն բովանդակություն:">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
