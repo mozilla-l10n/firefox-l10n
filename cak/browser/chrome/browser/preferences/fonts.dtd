@@ -54,7 +54,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Seriw">
 
 
-
+<!ENTITY  allowPagesToUse.label                   "Tiya' q'ij chi ke ri taq ruxaq tikicha' ri ruwäch kitz'ib', pa ruk'exel ri jun nucha'oj kan">
+<!ENTITY  allowPagesToUse.accesskey               "T">
 
 
 
