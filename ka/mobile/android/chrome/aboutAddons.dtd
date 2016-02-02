@@ -10,4 +10,6 @@
 <!ENTITY addonAction.disable                    "ამორთვა">
 <!ENTITY addonAction.uninstall                  "ამოღება">
 <!ENTITY addonAction.undo                       "დაბრუნება">
-<!ENTITY addonAction.setDefault                 "მითითება ნაგულისხმებად">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName;-მა ეს დამატება ვერ გადაამოწმა.">
+<!ENTITY addonUnsigned.learnMore                "შეიტყვეთ მეტი">
