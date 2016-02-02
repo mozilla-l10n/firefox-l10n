@@ -4,6 +4,7 @@
 <!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
      Should be large enough to contain the item* strings on a single line.
      The column width should be set at half of the dialog width. -->
+<!ENTITY sanitizePrefs2.modal.width    "34em">
 
 <!-- LOCALIZATION NOTE (sanitizePrefs2.inContent.dialog.width): width of the
      Clear History on Shutdown subdialog in the in-content preferences.
@@ -14,6 +15,7 @@
 
 
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
+<!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "Taq xtatz'apij &brandShortName;, k'o ta chi ruyonil niyujtäj el:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
@@ -29,7 +31,7 @@
 
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.suffix         "Ronojel">
 <!ENTITY clearTimeDuration.dateColumn     "Ruq'ijul tz'etoj">
 <!ENTITY clearTimeDuration.nameColumn     "B'i'aj">
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys

@@ -11,15 +11,15 @@
 
 
 <!ENTITY  generalTab            "Chijun">
+<!ENTITY  generalTab.accesskey  "O">
 
 
-
-
+<!ENTITY  generalMode           "Pa'äl pa chuwäch rub'anikil:">
 
 <!ENTITY  generalReferrer       "Retal chi ochochib'äl:">
 
 
-
+<!ENTITY  generalEncoding2      "Rucholajil rucholajem tzij:">
 <!ENTITY  generalMetaName       "B'i'aj">
 
 
@@ -28,15 +28,15 @@
 
 
 <!ENTITY  mediaAltHeader        "Cha'el rucholajem tzij">
-
+<!ENTITY  mediaAddress          "Ochochib'äl">
 <!ENTITY  mediaType             "Ruwäch">
-
+<!ENTITY  mediaSize             "Nimilem">
 
 <!ENTITY  mediaDimension        "Runimilem:">
 
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Tiyak achi'el…">
-
+<!ENTITY  mediaSaveAs.accesskey "A">
 
 
 
@@ -66,6 +66,7 @@
 
 <!ENTITY  securityView.identity.verifier "Jikib'an ruma:">
 
+<!ENTITY  securityView.privacy.header                   "Ichinanem chuqa' k'ulwachinel">
 
 
 

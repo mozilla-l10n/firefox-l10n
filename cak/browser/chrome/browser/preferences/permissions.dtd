@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "Ruxaq k'amaya'l">
 <!ENTITY treehead.status.label        "B'anikil:">
@@ -11,8 +11,8 @@
 
 
 
-
-
+<!ENTITY block.label                  "Tiq'eleb'ëx">
+<!ENTITY block.accesskey              "T">
 <!ENTITY session.label                "Ruya'ik q'ij moloj">
 <!ENTITY session.accesskey            "m">
 
@@ -21,6 +21,6 @@
 
 <!ENTITY button.cancel.label          "Tiq'at">
 <!ENTITY button.cancel.accesskey      "T">
-
-
+<!ENTITY button.ok.label              "Keyak taq jaloj">
+<!ENTITY button.ok.accesskey          "K">
 

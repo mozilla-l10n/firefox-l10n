@@ -34,8 +34,9 @@
 <!ENTITY telemetryDesc.label             "Takomonij ri na'oj pa ruwi' rub'eyal nisamäj, ri rokisaxik, ch'akulakem chuqa' richinaxik okik'amaya'l rik'in &vendorShortName; richin chi ri &brandShortName; nel ütz">
 
 
+<!ENTITY telemetryLearnMore.label        "Tetamäx ch'aqa' chik">
 
-
+<!ENTITY crashReporterDesc.label         "&brandShortName; tataqa' taq rutzijol sachoj richin nato' &vendorShortName; richin chi jik chuqa' ütz nisamäj ri awokik'amaya'l">
 
 
 <!ENTITY crashReporterLearnMore.label    "Tetamäx ch'aqa' chik">
@@ -47,6 +48,7 @@
 
 
 
+<!ENTITY offlineStorage2.label           "Rupam chuqa' taq rutzij winäq majun kokem">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -55,8 +57,8 @@
 -->
 
 <!ENTITY limitCacheSizeAfter.label       "MB rupam">
-
-
+<!ENTITY clearCacheNow.label             "Tijosq'ïx wakami">
+<!ENTITY clearCacheNow.accesskey         "T">
 
 
 
@@ -68,10 +70,11 @@
 
 
 
+<!ENTITY updateManual.label              "Mani nikanöx taq k'exoj ruwäch (man chilab'en ta: ruk'ayewal chajinïk)">
+<!ENTITY updateManual.accesskey          "M">
 
-
-
-
+<!ENTITY updateAutoAddonWarn.label       "Taya' pe rutzijol chwe we re re' yeruchüp jun chi ke ri taq nuchokoy">
+<!ENTITY updateAutoAddonWarn.accesskey   "T">
 
 
 
@@ -87,7 +90,7 @@
 <!ENTITY offlineAppsList.height          "7em">
 
 
-
+<!ENTITY offlineAppRemove.confirm        "Tiyuj el na'oj pa rub'eyal majun okem pa k'amaya'l">
 
 
 

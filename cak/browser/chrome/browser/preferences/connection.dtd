@@ -18,8 +18,8 @@
 
 
 
-
-
+<!ENTITY  http.label                    "HTTP proxi:">
+<!ENTITY  http.accesskey                "x">
 
 
 
@@ -33,13 +33,13 @@
 <!ENTITY  port.label                    "B'ey:">
 
 
+<!ENTITY  FTPport.accesskey             "r">
 
+<!ENTITY  noproxy.label                 "Mani nokisäx proxi richin:">
+<!ENTITY  noproxy.accesskey             "M">
 
-
-
-
-
-
+<!ENTITY  shareproxy.label              "Tokisäx ri junam proxi chi ke konojel">
+<!ENTITY  shareproxy.accesskey          "o">
 <!ENTITY  autologinproxy.label          "Mani tik'utüx rutz'etik we yakon ri ewan tzij">
 <!ENTITY  autologinproxy.accesskey      "r">
 
