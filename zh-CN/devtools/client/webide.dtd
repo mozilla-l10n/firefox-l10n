@@ -215,3 +215,6 @@
 <!ENTITY simulator_device "设备">
 <!ENTITY simulator_screenSize "屏幕">
 <!ENTITY simulator_pixelRatio "像素比例">
+<!ENTITY simulator_tv_data "电视模拟器">
+<!ENTITY simulator_tv_data_open "配置数据">
+<!ENTITY simulator_tv_data_open_button "打开配置文件目录…">
