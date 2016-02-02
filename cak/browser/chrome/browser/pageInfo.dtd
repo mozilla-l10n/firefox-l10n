@@ -37,12 +37,12 @@
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Tiyak achi'el…">
 <!ENTITY  mediaSaveAs.accesskey "A">
-
+<!ENTITY  mediaSaveAs2.accesskey "e">
 
 
 
 <!ENTITY  feedSubscribe         "Tz'ib'anïk b'i'aj">
-
+<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "Taq ya'oj q'ij">
 
