@@ -6,7 +6,7 @@
      fun and playful. Please feel free to adjust the tone as works best in
      your language and/or locale. More detailed notes below. -->
 
-<!ENTITY pageTitle                 "&brandShortName; უკუკავშირ">
+<!ENTITY pageTitle                 "&brandShortName; უკუკავშირი">
 
 <!ENTITY intro.header              "დაგვითმობთ ორიოდ წუთს?">
 <!ENTITY intro.message             "გვითხარით რას ფიქრობთ &brandShortName; ვერსიაზე Android-ისთვის.">
@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2               "თუ დახმარება დაგჭირდათ ან პრობლემა შეგექმნათ &brandShortName;-თან, გთხოვთ ესტუმროთ ">
-<!ENTITY support.link              "&brandShortName; მხარდაჭერის საიტს">
-<!ENTITY support.post2              ".">
+<!ENTITY support.pre3              "ეწვიეთ ჩვენს">
+<!ENTITY support.link2             "მხარდაჭერის საიტს">
+<!ENTITY support.post3             " ხშირ პრობლემებზე პასუხების მისაღებად.">
 
 <!ENTITY happy.header              "მოხარული ვართ!">
 
@@ -35,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "მოგვიანებით ხომ არ...">
 <!ENTITY happy.noThanks            "არა, გმადლობთ">
 
-<!ENTITY sad.message               "ვწუხვართ, რომ პრობლემები შეგექმნათ &brandShortName; ბრაუზერტან. გთხოვთ გვაცნობოთ რა მოხდა და ჩვენ შევეცდებით გამოვასწოროთ იგი.">
+<!ENTITY sad.header                "ოჰ, არა!">
+<!ENTITY sad.message               "ვწუხვართ, რომ &brandShortName; ბრაუზერთან პრობლემები შეგექმნათ. გთხოვთ გვაცნობოთ რა მოხდა და ჩვენ ამის გამოსწორებას შევეცდებით.">
 <!ENTITY sad.placeholder           "შეიტანეთ თქვენი გზავნილი აქ">
-<!ENTITY sad.lastSite              "ბოლოს გახსნილი საიტი (არააუცილებელია)">
+<!ENTITY sad.lastSite2             "ბოლოს ნაწვევი საიტის შეცვა">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "გმადლობთ, რომ მოგვმართეთ.">
+<!ENTITY sad.thanksHeader2         "გმადლობთ.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "წინააღმდეგ შემთხვევაში ცუდი დღე დაადგებათ.">
 
-<!ENTITY feedback.privacy          "თქვენი კონფიდენციალობის უზრუნველსაყოფად, გთხოვთ ძალზე პირადულ ინფორმაციას თქვენს შესახებ ნუ შეიტანთ.">
+<!ENTITY feedback.privacy2         "თქვენივე კონფიდენციალურობისთვის, გთხოვთ უკუკავშირში არ ჩაწეროთ თქვენი პირადი ინფორმაცია.">
 <!ENTITY feedback.send             "გამოხმაურების გაგზავნა">
