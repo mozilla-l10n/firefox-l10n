@@ -32,12 +32,12 @@
 
 <!ENTITY  port.label                    "B'ey:">
 
-
+<!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 
 <!ENTITY  noproxy.label                 "Mani nokisäx proxi richin:">
 <!ENTITY  noproxy.accesskey             "M">
-
+<!ENTITY  noproxyExplain.label          "Tz'eteb'äl: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Tokisäx ri junam proxi chi ke konojel">
 <!ENTITY  shareproxy.accesskey          "o">
 <!ENTITY  autologinproxy.label          "Mani tik'utüx rutz'etik we yakon ri ewan tzij">

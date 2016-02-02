@@ -26,7 +26,7 @@
 <!ENTITY clearTimeDuration.accesskey      "q">
 
 <!ENTITY clearTimeDuration.last2Hours     "Ruk'isib'al ri ka'i' ramaj">
-
+<!ENTITY clearTimeDuration.last4Hours     "Ruk'isib'äl kaji' ramaj">
 
 
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
@@ -45,8 +45,8 @@ that require it.  -->
 
 
 
-
-
+<!ENTITY itemCookies.label                 "Taq kuki">
+<!ENTITY itemCookies.accesskey             "k">
 
 
 

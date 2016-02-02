@@ -5,8 +5,8 @@
 
 <!ENTITY treehead.sitename.label      "Ruxaq k'amaya'l">
 <!ENTITY treehead.status.label        "B'anikil:">
-
-
+<!ENTITY removepermission.label       "Tiyüj el ri ruxaq k'amaya'l">
+<!ENTITY removepermission.accesskey   "T">
 
 
 
@@ -15,8 +15,8 @@
 <!ENTITY block.accesskey              "T">
 <!ENTITY session.label                "Ruya'ik q'ij moloj">
 <!ENTITY session.accesskey            "m">
-
-
+<!ENTITY allow.label                  "Tiya' q'ij">
+<!ENTITY allow.accesskey              "T">
 
 
 <!ENTITY button.cancel.label          "Tiq'at">

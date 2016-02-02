@@ -17,8 +17,10 @@
 
 
 
+<!ENTITY browsing.label                  "Okik'amaya'l">
 
-
+<!ENTITY useAutoScroll.label             "Tokisäx ruyonil rusiloxik">
+<!ENTITY useAutoScroll.accesskey         "r">
 
 
 
@@ -26,6 +28,7 @@
 <!ENTITY checkSpelling.label             "Tinik'öx ri nutz'ib'anik toq yitz'ib'an">
 <!ENTITY checkSpelling.accesskey         "n">
 
+<!ENTITY dataChoicesTab.label            "Kicha'ik taq tzij">
 
 <!ENTITY healthReportDesc.label          "Xkaruto' richin niq'ax pan awi' rub'eyal nisamäj ri owokik'amaya'l chuqa' nukomonij taq tzij rik'in &vendorShortName; chi rij ri raxnaqil">
 <!ENTITY enableHealthReport.label        "Titzij ri rucholik Raxnaqil &brandShortName; ">
@@ -89,6 +92,7 @@
 
 
 
+<!ENTITY offlineAppsList2.label          "Re taq ruxaq k'amaya'l re' ya'on q'ij chi ke richin nikiyäk kan ri taq tzij richin nokisäx pa rub'eyal majun okem pa k'amaya'l: ">
 <!ENTITY offlineAppsList.height          "7em">
 
 

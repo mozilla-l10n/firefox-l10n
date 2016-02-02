@@ -33,15 +33,15 @@
 
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 
-
+<!ENTITY  font.langGroup.armenian                 "Armenyan">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.canadian                 "Rujachik tunun ruk'u'x tzij aj Canada ">
 
-
-
+<!ENTITY  font.langGroup.georgian                 "Georgian">
 
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 
-
+<!ENTITY  font.langGroup.malayalam                "Malayo">
 
 
 
@@ -66,6 +66,7 @@
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.arabic      "Arawe">
 
 
 
@@ -84,6 +85,7 @@
 <!ENTITY languages.customize.Fallback.japanese    "Japones">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "KORYANO">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.thai        "TAYLAN">
