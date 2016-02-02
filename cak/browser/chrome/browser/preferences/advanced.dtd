@@ -98,9 +98,10 @@
 
 <!ENTITY offlineAppRemove.confirm        "Tiyuj el na'oj pa rub'eyal majun okem pa k'amaya'l">
 
+<!ENTITY certificateTab.label            "Taq ruwujil b'i'aj:">
 
 
-
+<!ENTITY certs.auto                      "Pa ruyonil ticha' jun">
 
 
 
