@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "z">
 <!ENTITY blockAutoRefresh.label          "Siteler sayfaları yönlendirmek veya tazelemek istediğinde beni uyar">
 <!ENTITY blockAutoRefresh.accesskey      "r">
-
-
+<!ENTITY useOnScreenKeyboard.label       "Gerektiğinde dokunmatik klavyeyi göster">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "Tarama">
 
