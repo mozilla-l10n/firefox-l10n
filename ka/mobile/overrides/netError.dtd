@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "გვერდის ჩატვირთვის შეცდომა">
-<!ENTITY retry.label "კვლავ სცადეთ">
+<!ENTITY retry.label "ხელახლა ცდა">
 
 <!-- Specific error messages -->
 

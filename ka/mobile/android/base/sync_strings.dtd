@@ -34,16 +34,16 @@
 <!ENTITY sync.input.key.label 'აღდგენის კოდი'>
 <!ENTITY sync.checkbox.server.label 'საკუთარი სერვერის გამოყენება'>
 <!ENTITY sync.input.server.label 'სერვერის URL'>
-  
+
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'ვერ ხერხდება &syncBrand.shortName.label; გამართვა'>
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; სერვერს ვერ უკავშირდება. გბევაცთ ვცადოთ ხელახლა?'>
-<!ENTITY sync.button.tryagain.label 'ხელახლა'>
+<!ENTITY sync.button.tryagain.label 'ხელახლა ცდა'>
 <!ENTITY sync.button.manual.label 'გამართვა ხელით'>
 <!ENTITY sync.subtitle.nointernet.label 'ინტერნეტ კავშირი ვერ მოიძებნა.'>
 <!ENTITY sync.subtitle.failaccount.label 'ანგარიშის შექმნა თქვენს მოწყობილობაზე ვერ ხერხდება.'>
 <!ENTITY sync.subtitle.failmultiple.label 'სხვა Firefox ბრაუზერიც ხომ არ გაქვთ ჩადგმული? ამ დორისთვის შესაძლებელია მხოლოდ ერთი &syncBrand.fullName.label; ჩადგმით სარგებლობა. გთხოვთ ამოიღოთ &syncBrand.shortName.label; ჩადგმა (თუ ასეთი არსებობს).'>
-  
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'გამართვა დასრულდა'>
 <!ENTITY sync.subtitle.success.label1 'თქვენი მონაცემები ფონურად იტვირთება. თქვენი ანგარიშის სამართავად შეგიძლიათ გადახვიდეთ გვერდზე «პარამეტრები» ან დაიწყოთ ინტერნეტ მოგზაურობა &brandShortName; ბრაუზერით.'>
@@ -62,7 +62,6 @@
 <!ENTITY sync.configure.engines.title.label 'ეა დასინქრონიზდეს'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'დასინქრონიზდეს ჩემი…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'სანიშნეები'>
-<!ENTITY sync.configure.engines.title.passwords 'პაროლები'>
 <!ENTITY sync.configure.engines.title.history 'ისტორია'>
 <!ENTITY sync.configure.engines.title.tabs 'დაფები'>
 
@@ -70,10 +69,15 @@
 <!ENTITY sync.button.cancel.label 'გაუქმება'>
 <!ENTITY sync.button.connect.label 'დაკავშირება'>
 <!ENTITY sync.button.ok.label 'კეთილი'>
-  
+
 <!-- Account strings -->
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
-  
+
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'სანიშნეთა მენიუ'>
 <!ENTITY bookmarks.folder.places.label ''>
@@ -104,3 +108,70 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label '&syncBrand.fullName.label; თქვენს მოწყობილობაზე გამართვა დაფების გასაგზავნად სხვა მოწყობილობებზე.'>
 <!ENTITY sync.text.tab.sent.label 'თქვენი დაფა გაიგზავნა!'>
 <!ENTITY sync.text.tab.not.sent.label 'პრობლემა თქვენი დაფის გაგზავნისას.'>
+
+<!-- Firefox Account strings. -->
+
+
+
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+
+
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+
+
+
+
+
+
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'სერვერი დაკავებულია, სცადეთ ხელახლა მალე'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'სერვერი დაკავებულია, სცადეთ ხელახლა მალე'>
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
