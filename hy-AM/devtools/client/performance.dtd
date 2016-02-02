@@ -51,7 +51,7 @@
 
 
 
-
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Հատկացումների հրային աղյուսակ">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
