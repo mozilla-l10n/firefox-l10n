@@ -30,7 +30,7 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-
+<!ENTITY clearTimeDuration.dateColumn     "Ruq'ijul tz'etoj">
 <!ENTITY clearTimeDuration.nameColumn     "B'i'aj">
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
