@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Někotare rozšyrjenja njejsu dali se wobkšuśiś.">
 <!ENTITY showAllExtensions.button.label       "Wšykne rozšyrjenja pokazaś">
-
-
+<!ENTITY debugAddons.label                    "Dodanki za zmólkami pśepytowaś">
+<!ENTITY debugAddons.accesskey                "m">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Wšykne dodanki su se pśez wěsty modus znjemóžnili.">

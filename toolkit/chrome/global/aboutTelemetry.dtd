@@ -20,8 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Archiwěrowane pingdaty">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Pingdaty pokazaś:">
 
+<!ENTITY aboutTelemetry.structured "Strukturěrowany">
 
+<!ENTITY aboutTelemetry.raw "Gropny JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Daty pódpósejźenja pokazaś">
 
@@ -31,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Staršy ping &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Gropne pingdaty…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Tyźeń">
 
