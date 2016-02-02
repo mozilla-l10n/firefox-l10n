@@ -6,6 +6,7 @@
 
 
 
+<!ENTITY  size.label                              "Nimilem:">
 <!ENTITY  sizeProportional.accesskey              "T">
 
 
@@ -37,13 +38,13 @@
 
 
 
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 
 
 
 
 
-
-
+<!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 
 <!-- Minimum font size -->

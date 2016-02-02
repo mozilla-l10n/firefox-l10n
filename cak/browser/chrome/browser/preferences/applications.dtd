@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY  actionColumn2.label     "B'anoj">
+<!ENTITY  actionColumn2.accesskey "B">
 
-
-
+<!ENTITY  focusSearch2.key        "k">
 
 <!ENTITY  filter.emptytext        "Rukanoxik">

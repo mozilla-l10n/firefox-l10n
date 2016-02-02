@@ -20,8 +20,10 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 
+<!ENTITY clearTimeDuration.label          "Retal q'ijul richin niyuj:">
+<!ENTITY clearTimeDuration.accesskey      "q">
 
-
+<!ENTITY clearTimeDuration.last2Hours     "Ruk'isib'al ri ka'i' ramaj">
 
 
 
@@ -47,8 +49,8 @@ that require it.  -->
 
 
 
-
-
+<!ENTITY itemActiveLogins.label            "Tzijïl taq molojri'ïl">
+<!ENTITY itemActiveLogins.accesskey        "m">
 
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph

@@ -22,12 +22,13 @@
 
 
 
+<!ENTITY checkSpelling.label             "Tinik'öx ri nutz'ib'anik toq yitz'ib'an">
+<!ENTITY checkSpelling.accesskey         "n">
 
 
-
-
-
-
+<!ENTITY healthReportDesc.label          "Xkaruto' richin niq'ax pan awi' rub'eyal nisamäj ri owokik'amaya'l chuqa' nukomonij taq tzij rik'in &vendorShortName; chi rij ri raxnaqil">
+<!ENTITY enableHealthReport.label        "Titzij ri rucholik Raxnaqil &brandShortName; ">
+<!ENTITY enableHealthReport.accesskey    "r">
 <!ENTITY healthReportLearnMore.label     "Tetamäx ch'aqa' chik">
 
 
@@ -82,7 +83,7 @@
 
 
 
-
+<!ENTITY offlineAppsList.height          "7em">
 
 
 

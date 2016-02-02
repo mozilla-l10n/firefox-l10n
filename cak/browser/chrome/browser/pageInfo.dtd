@@ -16,7 +16,7 @@
 
 
 
-
+<!ENTITY  generalReferrer       "Retal chi ochochib'äl:">
 
 
 
@@ -34,7 +34,7 @@
 
 <!ENTITY  mediaDimension        "Runimilem:">
 
-
+<!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Tiyak achi'el…">
 
 
@@ -52,9 +52,9 @@
 
 <!ENTITY  permBlock             "Tiq'eleb'ëx">
 
+<!ENTITY  permPlugins           "Titzij ri pluyin">
 
-
-
+<!ENTITY  permClearStorage.accesskey "K">
 
 <!ENTITY  securityTab           "Chajinïk">
 
