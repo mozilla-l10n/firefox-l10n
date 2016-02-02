@@ -17,12 +17,12 @@
 <!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক ও ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছে।">
 <!ENTITY firstrun_data_title "ডাটা">
 <!ENTITY firstrun_data_message "কম ডাটা, বেশি সঞ্চয়">
-
+<!ENTITY firstrun_data_subtext "আপানার পরিদর্শন করা প্রতিটি সাইটে কম ডাটা ব্যবহার করতে ছবি প্রতিরোধ করুন।">
 <!ENTITY firstrun_sync_title "সিঙ্ক">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, সবসময় আপনার পাশে">
+<!ENTITY firstrun_sync_subtext "আপনি যেখানেই ব্যবহার করুন আপনার ট্যাব, পাসওয়ার্ড এবং আরো অনেক কিছু সিঙ্ক করুন।">
+<!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
+<!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!ENTITY firstrun_button_next "পরবর্তী">
 
