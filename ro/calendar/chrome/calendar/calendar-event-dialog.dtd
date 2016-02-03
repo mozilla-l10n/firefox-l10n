@@ -32,10 +32,14 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
+<!ENTITY event.attendees.notify.label               "Anunță participanții">
+<!ENTITY event.attendees.notify.accesskey           "u">
 <!ENTITY event.attendees.notifyundisclosed.label    "Invitație separată per participant">
-
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Această opțiune trimite o invitație pe e-mail per participant. Fiecare invitație conține doar participantul destinatar, astfel încât identitățile altor participanți nu sunt dezvăluite.">
 <!-- Keyboard Shortcuts -->
+
+<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -101,8 +105,8 @@
 
 <!ENTITY  event.menu.options.label                            "Opțiuni">
 <!ENTITY  event.menu.options.accesskey                        "O">
-
-
+<!ENTITY  event.menu.options.attendees.label                  "Invită participanți…">
+<!ENTITY  event.menu.options.attendees.accesskey              "I">
 <!ENTITY  event.menu.options.timezone2.label                  "Afișare fusuri orare">
 <!ENTITY  event.menu.options.timezone2.accesskey              "f">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritate">
@@ -130,13 +134,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Liber">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
-
+<!ENTITY event.invite.attendees.label                     "Invită participanți…">
+<!ENTITY event.invite.attendees.accesskey                 "I">
 <!ENTITY event.email.attendees.label                      "Compune un mesaj către toți participanții…">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Compune un mesaj către participanții indeciși…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
 
-
+<!ENTITY event.remove.attendees.accesskey                 "r">
 
 
 <!-- Toolbar -->
@@ -182,7 +187,7 @@
 <!ENTITY event.repeat.label                               "Repetare:" >
 <!ENTITY event.repeat.accesskey                           "R">
 
-
+<!ENTITY event.until.accesskey                            "B">
 <!ENTITY event.reminder.label                             "Memento:" >
 <!ENTITY event.reminder.accesskey                         "M">
 <!ENTITY event.description.label                          "Descriere:" >
@@ -349,7 +354,7 @@
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Resursă">
 <!ENTITY event.attendee.usertype.room           "Cameră">
-
+<!ENTITY event.attendee.usertype.unknown        "Necunoscut">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Vă rugăm să specificați fusul orar">
