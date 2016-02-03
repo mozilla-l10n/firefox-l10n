@@ -225,7 +225,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
 
-<!ENTITY netmonitorUI.security.hsts "HTTP Segurança de transporte estrito:">
+<!ENTITY netmonitorUI.security.hsts "HTTP Strict Transport Security:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
 
