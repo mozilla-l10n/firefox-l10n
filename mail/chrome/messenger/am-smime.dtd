@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Folosește acest certificat pentru a semna digital mesajele pe care le trimit:">
 
 <!ENTITY certificates.label "Certificate">
-
-
+<!ENTITY manageCerts2.label "Gestionare certificate">
+<!ENTITY manageCerts2.accesskey "G">
 <!ENTITY manageDevices.label "Dispozitive de securitate">
 <!ENTITY manageDevices.accesskey "D">

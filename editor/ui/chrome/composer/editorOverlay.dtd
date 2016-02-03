@@ -84,8 +84,8 @@
 
 <!ENTITY fontSizeMenu.label "Mărime">
 <!ENTITY fontSizeMenu.accesskey "M">
-
-
+<!ENTITY size-tinyCmd.label "Foarte mic">
+<!ENTITY size-tinyCmd.accesskey "m">
 <!ENTITY size-smallCmd.label "Mic">
 <!ENTITY size-smallCmd.accesskey "M">
 <!ENTITY size-mediumCmd.label "Mediu">

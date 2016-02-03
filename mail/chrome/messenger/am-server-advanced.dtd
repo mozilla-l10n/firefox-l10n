@@ -23,8 +23,8 @@
 <!ENTITY overrideNamespaces.label "Permite serverului să suprascrie aceste nume de spații">
 <!ENTITY overrideNamespaces.accesskey "a">
 
-
-
+<!ENTITY accountInbox.label "Căsuță poștală pentru acest cont">
+<!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Căsuța poștală pentru cont diferit">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Include acest server la recepționarea mesajelor noi">
