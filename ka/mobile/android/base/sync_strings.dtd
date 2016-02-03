@@ -62,6 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'ეა დასინქრონიზდეს'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'დასინქრონიზდეს ჩემი…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'სანიშნეები'>
+<!ENTITY sync.configure.engines.title.passwords2 'შესვლები'>
 <!ENTITY sync.configure.engines.title.history 'ისტორია'>
 <!ENTITY sync.configure.engines.title.tabs 'დაფები'>
 
@@ -71,12 +72,14 @@
 <!ENTITY sync.button.ok.label 'კეთილი'>
 
 <!-- Account strings -->
+<!ENTITY sync.account.label '&syncBrand.fullName.label; (მოძველებული)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; &formatS2; მოწყობილობაზე '>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'სანიშნეთა მენიუ'>
@@ -111,67 +114,164 @@
 
 <!-- Firefox Account strings. -->
 
+<!ENTITY fxaccount_full_label 'Firefox ანგარიშები'>
 
+<!ENTITY fxaccount_custom_server_account_title 'სერვერზე გამოყენებული ანგარიში'>
+<!ENTITY fxaccount_custom_server_sync_title 'სერვერზე შენახული სინქრონიზაციის მონაცემები'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
+<!ENTITY fxaccount_email_hint 'ელ–ფოსტა'>
+<!ENTITY fxaccount_password_hint 'პაროლი'>
+<!ENTITY fxaccount_password_hide 'დამალვა'>
+<!ENTITY fxaccount_password_show 'ჩვენება'>
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
+<!ENTITY fxaccount_back_to_browsing 'დათვალიერებაზე დაბრუნება'>
 
 <!-- Localization note: the following two strings are interpolated
      into fxaccount_create_account_policy_text2; see note for that
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_policy_linktos 'მომსახურების პირობებს'>
+<!ENTITY fxaccount_policy_linkprivacy 'კონფიდენციალურობის ცნობება'>
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'მოგესალმებათ &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'შედით სისტემაში თქვენი ჩანართების, სანიშნების, პაროლების და მეტის სინქრონიზაციისთვის.'>
+<!ENTITY fxaccount_getting_started_get_started 'დაიწყეთ'>
+<!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label;-ის ძველ ვერსიას იყენებთ?'>
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 'Firefox ანგარიშის შექმნა'>
+<!ENTITY fxaccount_create_account_password_length_restriction 'უნდა იყოს სულ მცირე 8 სიმბოლო'>
+<!ENTITY fxaccount_create_account_day_of_birth 'დღე'>
+<!ENTITY fxaccount_create_account_month_of_birth 'თვე'>
+<!ENTITY fxaccount_create_account_year_of_birth 'დაბადების წელი'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 'გაგრძელების შემთხვევაში, თქვენ ეთანხმებით Firefox ღრუბლის მომსახურებების &formatS1; და &formatS2;.'>
+<!ENTITY fxaccount_create_account_button 'შემდეგი'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync 'გასაზიარებელი მონაცემების შერჩევა'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'უკვე გაქვთ ანგარიში? შესვლა'>
+<!ENTITY fxaccount_create_account_1990_or_earlier '1990 ან უფრო ადრე'>
+<!ENTITY fxaccount_create_account_unknown_error 'ანგარიშის შექმნა ვერ მოხერხდა'>
 
+<!ENTITY fxaccount_account_create_not_allowed 'ანგარიშის შექმნა ვერ მოხერხდა'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'ანგარიშის შესაქმენლად უნდა აკმაყოფილებდეთ ასაკის გარკვეულ მოთხოვნილებებს.'>
+<!ENTITY fxaccount_account_create_not_allowed_learn_more 'შეიტყვეთ მეტი'>
 
+<!ENTITY fxaccount_confirm_account_header 'დაადასტურეთ თქვენი ანგარიში'>
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link 'დადასტურების კოდი გაიგზავნა &formatS;-ზე'>
+<!ENTITY fxaccount_confirm_account_resend_email 'ელფოსტის ხელახლა გაგზავნა'>
+<!ENTITY fxaccount_confirm_account_change_email 'დავივიწყოთ ამ ელ-ფოსტის მისამართი?'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'დადასტურების ელ-ფოსტა გაიგზავნა'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'დადასტურების ელ-ფოსტის გაგზავნა ვერ მოხერხდა'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'გახსნის ელ-ფოსტის ხელახლა გაგზავნა'>
+<!ENTITY fxaccount_unlock_code_sent 'ანგარიშის გასახსნელი ელ-ფოსტა გაიგზავნა'>
+<!ENTITY fxaccount_unlock_code_not_sent 'ანგარიშის გასახსნელი ელ-ფოსტის გაგზავნა ვერ მოხერხდა'>
 
+<!ENTITY fxaccount_sign_in_sub_header 'შესვლა'>
+<!ENTITY fxaccount_sign_in_button_label 'შესვლა'>
+<!ENTITY fxaccount_sign_in_forgot_password 'დაგავიწყდათ პაროლი?'>
+<!ENTITY fxaccount_sign_in_create_account_instead 'ანგარიშის შექმნა'>
+<!ENTITY fxaccount_sign_in_unknown_error 'შესვლა ვერ მოხერხდა'>
 
+<!ENTITY fxaccount_account_verified_sub_header 'ანგარიში გადამოწმდა'>
+<!ENTITY fxaccount_account_verified_description2 'თქვენი მონაცემები ახლავე დაიწყებს სინქრონიზაციას.'>
 
+<!ENTITY fxaccount_migration_finished_header 'განახლება დასრულდა'>
 
+<!ENTITY fxaccount_update_credentials_header 'შესვლა'>
+<!ENTITY fxaccount_update_credentials_button_label 'შესვლა'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'შესვლა ვერ მოხერხდა'>
 
+<!ENTITY fxaccount_finish_migrating_header 'შედით განახლების დასასრულებლად'>
+<!ENTITY fxaccount_finish_migrating_button_label 'განახლების დასრულება'>
+<!ENTITY fxaccount_finish_migrating_description 'განახლებამ შესაძლოა ბევრი მონაცემები გადმოიტანოს. უმჯობესია თუ Wi-Fi ქსელს გამოიყენებთ.'>
 
+<!ENTITY fxaccount_status_header2 'Firefox ანგარიში'>
+<!ENTITY fxaccount_status_signed_in_as 'შესული ხართ, როგორც'>
+<!ENTITY fxaccount_status_manage_account 'ანგარიშის მართვა'>
+<!ENTITY fxaccount_status_auth_server 'ანგარიშის სერვერი'>
+<!ENTITY fxaccount_status_sync_now 'სინქრონიზაცია ახლა'>
+<!ENTITY fxaccount_status_syncing2 'სინქრონირდება...'>
+<!ENTITY fxaccount_status_device_name 'მოწყობილობის სახელი'>
+<!ENTITY fxaccount_status_sync_server 'სინქრონიზციის სერვერი'>
+<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; ჩართულია'>
+<!ENTITY fxaccount_status_needs_verification2 'თქვენს ანგარიშს გადამოწმება სჭირდება. შეეხეთ გადამოწმების ელ-ფოსტის ხელახლა გამოსაგზავნად.'>
+<!ENTITY fxaccount_status_needs_credentials 'დაკავშირება ვერ მოხერხდა. შეეხეთ შესასვლელად.'>
+<!ENTITY fxaccount_status_needs_upgrade 'შესასვლელად უნდა განაახლოთ &brandShortName;.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; გამართულია, მაგრამ ავტომატურად არ სინქრონირდება. შეამოწმეთ \&quot;ავტომატური სინქრონიზაცია\&quot; მისამართზე Android-ის პარამეტრები &gt; მონაცემების გამოყენება.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; გამართულია, მაგრამ ავტომატურად არ სინქრონირდება. შეამოწმეთ \&quot;ავტომატური სინქრონიზაცია\&quot; მისამართზე Android-ის პარამეტრები &gt; ანგარიშები.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'შეეხეთ თქვენს Firefox ანგარიშში შესასვლელად.'>
+<!ENTITY fxaccount_status_bookmarks 'სანიშნეები'>
+<!ENTITY fxaccount_status_history 'ისტორია'>
+<!ENTITY fxaccount_status_passwords2 'შესვლები'>
+<!ENTITY fxaccount_status_tabs 'გახსნილი ჩანართები'>
+<!ENTITY fxaccount_status_legal 'იურიდიული ინფორმაცია' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'მომსახურების პირობები'>
+<!ENTITY fxaccount_status_linkprivacy 'კონფიდენციალურობის ცნობება'>
+<!ENTITY fxaccount_status_more 'მეტი&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'გამოთიშვა&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title 'წაიშალოს Firefox ანგარიში?'>
+<!ENTITY fxaccount_remove_account_dialog_message '%S შეწყვეტს ამ ანგარიშის სინრქრონიზაციას, მაგრამ ამ მოწყობილობიდან დათვალიერების მონაცემები არ წაიშლება.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast 'Firefox ანგარიში &formatS; წაიშალა.'>
 
+<!ENTITY fxaccount_enable_debug_mode 'გამართვის რეჟიმის ჩართვა'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; პარამეტრები'>
+<!ENTITY fxaccount_options_configure_title 'Configure &syncBrand.shortName.label; კონფიგურაცია'>
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'თქვენ გჭირდებად Firefox-ის განახლება'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'ანგარიში უკვე არსებობს. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'არასწორი ელ-ფოსტა ან პაროლი'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'არასწორი ელ-ფოსტა ან პაროლი'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'ანგარიში არაა გადამოწმებული'>
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'სერვერი დაკავებულია, სცადეთ ხელახლა მალე'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'სერვერი დაკავებულია, სცადეთ ხელახლა მალე'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'დაფიქსირდა შეცდომა'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'ქსელთან კავშირი ვერ მყარდება'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'ანგარიში ჩაკეტილია. &formatS1;'>
 
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; დაკავშირებული არაა'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'შეეხეთ, რათა შეხვიდეთ როგორც &formatS;'>
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'დასრულდეს &syncBrand.shortName.label; განახლება?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'შეეხეთ, რათა შეხვიდეთ როგორც &formatS;'>
 
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
+<!ENTITY old_sync_deprecated_notification_title 'შედით სინქრონიზაციის გასაგრძელებლად'>
+<!ENTITY old_sync_deprecated_notification_content 'თქვენი ანგარიში მხარდაჭერილი აღარაა'>

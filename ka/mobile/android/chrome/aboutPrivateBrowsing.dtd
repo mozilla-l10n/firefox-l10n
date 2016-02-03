@@ -2,12 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "პირადი სეანსი">
+<!ENTITY privatebrowsingpage.title "პირადი სეანსი">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "თქვენ გახსენით ახალი პირადი სეანსის დაფა.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "თქვენ არ ხართ პირადი სეანსის დაფაზე.">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "+ თვალთვალისგან დაცვა">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "პირადი დათვალიერების რეჟიმში არ იმყოფებით">
 
-<!ENTITY privatebrowsingpage.description            "პირადი სეანსის დაფაზე, &brandShortName; ბრაუზერი არ შეინახავს გვერდების, ძიების, გამოტვირთვებისა და ფორმების ისტორიას, ნაჭდევებს ან დროებით ინტერენტ ფაილებს. თუმცა, თქვენი ჩამოტვირთული ფაილები და სანიშნეები შეინახება.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ბლოკავს გვერდის ნაწილებს, რომლებიც შესაძლოა თქვენს ბრაუზინგს აღრიცხავდეს.">
+<!ENTITY privatebrowsingpage.description.privateDetails "ჩვენ არ დავიმახსოვრებთ ისტორიას, მაგრამ ჩამოტვირთული ფაილები და ახალი სანიშნეები მაინც შეინახება თქვენს მოწყობილობაში.">
 
-<!ENTITY privatebrowsingpage.moreInfo               "თუმც ეს მოწყობილობა ისტორიის ჩანაწერებს არ აკეთებს, მაგრამ თქვენი ინტერნეტ სერვისის პროვაიდერს მაინც შეუძლია თქვენი მონახულებული გვერდების ნახვა.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing is capitalized in English to be consistent with our existing uses
+     of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "პირადი დათვალიერების დროს ჩვენ არ შევინახავთ თქვენს დათვალიერების ისტორიას ან ფუნთუშებს. თუმცა თქვენ მიერ ჩანიშნული გვერდები და ჩამოტვირთული ფაილები მაინც შეინახება.">
+
+<!ENTITY privatebrowsingpage.link.private "გსურთ შეიტყოთ მეტი?">
+<!ENTITY privatebrowsingpage.link.normal "ახალი პირადი ჩანართის გახსნა">
