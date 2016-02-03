@@ -6,6 +6,7 @@
 <!ENTITY safeb.palm.decline.label "ამ გაფრთხილების იგნორირება">
 <!ENTITY safeb.palm.notforgery.label2 "ეს არაა ვებ ყალთაბანდობა…">
 <!ENTITY safeb.palm.reportPage.label "რატომაა ეს გვერდი დაბლოკილი?">
+<!ENTITY safeb.palm.whyForbidden.label "რატომ დაიბლოკა ეს საიტი?">
 
 <!ENTITY safeb.blocked.malwarePage.title "მოიერიშე გვერდის პატაკი!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -15,3 +16,12 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "ეჭვი ვებ ყალთაბანდობაზე">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "ამ გვერდზე პირადი მონაცემების შეტანას შესაძლოა თქვენი პირადი მონაცემების გაჟონვა და ბორუტად გამოყენება მოჰყვეს.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "ასეთი ტიპის ყალთაბანდური გვერდები თავსმოხვევის ტაქტიკას ირჩევენ, რომელიც ანკესობის სახელითაა ცნობილი.  ამ დროს იქმნება მავნე ვებ გვერდები და ელფოსტის წერილები თითქოსდა სანდო, საიმედო და და კანონიერი წყაროა განთავსებული.">
+
+<!ENTITY safeb.blocked.unwantedPage.title "შეტყობინებული არასასურველი პროგრამის საიტი!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> ეს ვებ-გვერდი შემჩნეულია, რომ შეიცავს არასასურველ პროგრამებს და დაბლოკილია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "არასასურველი საიტი ცდილობს დააყენოს პროგრამა, რომელიც შეიძლება იყოს თაღლითური და საზიანო თქვენი სისტემისთვის.">
+
+<!ENTITY safeb.blocked.forbiddenPage.title2 "დაბლოკილი საიტი">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> ვებ-გვერდი დაიბლოკა თქვენი ადმინისტრატორის პროფილის მიერ.">
