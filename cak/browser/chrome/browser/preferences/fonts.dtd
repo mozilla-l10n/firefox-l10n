@@ -29,7 +29,7 @@
 
 
 
-
+<!ENTITY  font.langGroup.hebrew                   "EBREYO">
 
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 
@@ -50,7 +50,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Aj Tibet">
 <!-- Minimum font size -->
 
-
+<!ENTITY minSize.none                             "Majun">
 <!-- default font type -->
 
 <!ENTITY  useDefaultFontSerif.label               "Seriw">

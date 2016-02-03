@@ -34,7 +34,7 @@
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-
+<!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Mani nokisäx proxi richin:">
 <!ENTITY  noproxy.accesskey             "M">
 <!ENTITY  noproxyExplain.label          "Tz'eteb'äl: .mozilla.org, .net.nz, 192.168.1.0/24">

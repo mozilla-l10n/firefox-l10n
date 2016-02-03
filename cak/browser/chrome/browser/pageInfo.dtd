@@ -21,7 +21,7 @@
 
 <!ENTITY  generalEncoding2      "Rucholajil rucholajem tzij:">
 <!ENTITY  generalMetaName       "B'i'aj">
-
+<!ENTITY  generalMetaContent    "rupam">
 
 <!ENTITY  mediaTab              "K'ïy k'oxom">
 <!ENTITY  mediaTab.accesskey    "K">
@@ -69,7 +69,7 @@
 <!ENTITY  securityView.identity.verifier "Jikib'an ruma:">
 
 <!ENTITY  securityView.privacy.header                   "Ichinanem chuqa' k'ulwachinel">
-
+<!ENTITY  securityView.privacy.history                  "¿Xintz'ët yan re jun ruxaq k'amaya'l re'?">
 
 
 
