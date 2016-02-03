@@ -7,3 +7,4 @@
 <!ENTITY aboutLogins.title                       "შესვლები">
 <!ENTITY aboutLogins.update                      "განახლება">
 <!ENTITY aboutLogins.emptyLoginText              "შეინახეთ თქვენი შესვლები უსაფრთხოდ">
+<!ENTITY aboutLogins.emptyLoginHint              "&brandShortName;-ის გამოყენებით შენახული შესვლები და მანდატები აქ გამოჩნდება.">
