@@ -24,8 +24,8 @@ pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifiká
 
 <!ENTITY certerror.getMeOutOfHere.label "To nezní dobře. Přejít raději na domovskou stránku">
 
-<!ENTITY certerror.expert.heading "Vím, o co se jedná">
-<!ENTITY certerror.expert.content "Pokud chápete rizika, můžete &brandShortName; požádat o výjimku a začít identifikaci tohoto serveru důvěřovat. <b>I když tomuto serveru důvěřujete, může tato chyba znamenat, že vám někdo odposlouchává připojení.</b>">
+<!ENTITY certerror.expert.heading "Uvědomuji si rizika">
+<!ENTITY certerror.expert.content "Pokud víte, co se děje, můžete &brandShortName; požádat o výjimku a začít identifikaci tohoto serveru důvěřovat. <b>I když tomuto serveru důvěřujete, může tato chyba znamenat, že někdo manipuluje s tímto připojením.</b>">
 
 
 
