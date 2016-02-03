@@ -41,16 +41,19 @@
 <!ENTITY telemetryLearnMore.label        "Tetamäx ch'aqa' chik">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; tataqa' taq rutzijol sachoj richin nato' &vendorShortName; richin chi jik chuqa' ütz nisamäj ri awokik'amaya'l">
-
-
+<!ENTITY enableCrashReporter.label       "Titzij ri rutzijol taq sachoj">
+<!ENTITY enableCrashReporter.accesskey   "s">
 <!ENTITY crashReporterLearnMore.label    "Tetamäx ch'aqa' chik">
 
 <!ENTITY networkTab.label                "K'amab'ey">
 
+<!ENTITY connection.label                "Okem pa k'amaya'l:">
+
+<!ENTITY connectionDesc.label            "Tanuk'samajij ri rub'eyal nok ri &brandShortName; pa k'amaya'l">
 
 
 
-
+<!ENTITY httpCache.label                 "Rupam k'amaya'l pa kache'">
 
 <!ENTITY offlineStorage2.label           "Rupam chuqa' taq rutzij winäq majun kokem">
 <!-- LOCALIZATION NOTE:

@@ -9,8 +9,8 @@
 <!ENTITY removepermission.accesskey   "T">
 <!ENTITY removeallpermissions.label   "Keyuj el konojel ri taq ruxaq k'amaya'l">
 <!ENTITY removeallpermissions.accesskey "y">
-
-
+<!ENTITY address.label                "Rochochib'al ri ruxaq k'amaya'l:">
+<!ENTITY address.accesskey            "o">
 <!ENTITY block.label                  "Tiq'eleb'ëx">
 <!ENTITY block.accesskey              "T">
 <!ENTITY session.label                "Ruya'ik q'ij moloj">

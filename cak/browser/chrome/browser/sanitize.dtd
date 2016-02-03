@@ -29,7 +29,7 @@
 <!ENTITY clearTimeDuration.last2Hours     "Ruk'isib'al ri ka'i' ramaj">
 <!ENTITY clearTimeDuration.last4Hours     "Ruk'isib'äl kaji' ramaj">
 
-
+<!ENTITY clearTimeDuration.everything     "Ronojel">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "Ronojel">
@@ -50,8 +50,8 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "k">
 
 
-
-
+<!ENTITY itemOfflineApps.label             "Taq rutzij ruxaq k'amaya'l majun nok pa k'amaya'l">
+<!ENTITY itemOfflineApps.accesskey         "r">
 <!ENTITY itemActiveLogins.label            "Tzijïl taq molojri'ïl">
 <!ENTITY itemActiveLogins.accesskey        "m">
 

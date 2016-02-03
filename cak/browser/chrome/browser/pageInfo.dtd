@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY  copy.key              "K">
 <!ENTITY  copy.label            "Wachib'exïk">
 <!ENTITY  copy.accesskey        "c">
 <!ENTITY  selectall.key         "A">
@@ -60,7 +61,7 @@
 <!ENTITY  securityTab           "Chajinïk">
 <!ENTITY  securityTab.accesskey "S">
 
-
+<!ENTITY  securityView.accesskey "W">
 <!ENTITY  securityView.unknown   "Man etaman ta ruwäch">
 
 
