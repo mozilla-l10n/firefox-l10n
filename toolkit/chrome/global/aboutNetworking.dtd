@@ -7,7 +7,7 @@
 <!ENTITY aboutNetworking.showNextTime          "Zobrazit příště toto varování">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
-<!ENTITY aboutNetworking.sockets               "Sokety">
+<!ENTITY aboutNetworking.sockets               "Sockety">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "Obnovit">
