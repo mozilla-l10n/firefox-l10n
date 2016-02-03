@@ -80,7 +80,8 @@
 <!ENTITY updateAutoAddonWarn.label       "Taya' pe rutzijol chwe we re re' yeruchüp jun chi ke ri taq nuchokoy">
 <!ENTITY updateAutoAddonWarn.accesskey   "T">
 
-
+<!ENTITY updateHistory.label             "Tik'ut pe ri ruk'ulwachinel taq k'exoj ruwäch">
+<!ENTITY updateHistory.accesskey         "k">
 
 
 

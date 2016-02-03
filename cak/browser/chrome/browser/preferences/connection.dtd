@@ -31,7 +31,7 @@
 
 
 <!ENTITY  port.label                    "B'ey:">
-
+<!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 
