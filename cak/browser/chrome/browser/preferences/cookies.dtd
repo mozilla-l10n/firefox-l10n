@@ -14,19 +14,21 @@
 <!ENTITY     button.removeAllCookies.label "Ke'elesäx el konojel">
 <!ENTITY     button.removeAllCookies.accesskey "k">
 
+<!ENTITY     props.name.label               "B'i'aj:">
 <!ENTITY     props.value.label              "Rupam:">
 <!ENTITY     props.domain.label             "Ruk'u'x Samaj:">
 <!ENTITY     props.path.label               "B'ey:">
 <!ENTITY     props.secure.label             "Titaq chi re:">
 <!ENTITY     props.expires.label            "Xtik'o ruq'ijul:">
-
+<!ENTITY     props.container.label          "K'ojlib'äl:">
 
 <!ENTITY     window.title                   "Cookies">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "p">
 <!ENTITY     focusSearch2.key               "k">
 
-
+<!ENTITY     filter.label                   "Rukanoxik">
+<!ENTITY     filter.accesskey               "R">
 
 <!ENTITY     button.close.label             "Elem">
 <!ENTITY     button.close.accesskey         "C">

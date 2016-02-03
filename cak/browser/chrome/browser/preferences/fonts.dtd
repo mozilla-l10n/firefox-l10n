@@ -40,7 +40,7 @@
 <!ENTITY  font.langGroup.georgian                 "Georgian">
 
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-
+<!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayo">
 <!ENTITY  font.langGroup.math                     "Ajilanem">
 
@@ -49,7 +49,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Aj Tibet">
 <!-- Minimum font size -->
-
+<!ENTITY minSize.label                            "Ko'ol runimilem tz'ib'">
+<!ENTITY minSize.accesskey                        "t">
 <!ENTITY minSize.none                             "Majun">
 <!-- default font type -->
 
@@ -75,11 +76,12 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "Kan Chino wi">
-
+<!ENTITY languages.customize.Fallback.cyrillic    "SIRILIKO">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "EB'REYO">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.japanese    "Japones">

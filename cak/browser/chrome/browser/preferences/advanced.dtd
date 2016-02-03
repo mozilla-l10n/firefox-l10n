@@ -23,8 +23,8 @@
 <!ENTITY useAutoScroll.accesskey         "r">
 
 
-
-
+<!ENTITY allowHWAccel.label              "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
+<!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkSpelling.label             "Tinik'öx ri nutz'ib'anik toq yitz'ib'an">
 <!ENTITY checkSpelling.accesskey         "n">
 
@@ -65,8 +65,8 @@
 <!ENTITY clearCacheNow.accesskey         "T">
 
 
-
-
+<!ENTITY overrideSmartCacheSize.label    "Ruyujik ruyonil runuk'ulem ri kache'">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Tik'ex">
 
@@ -103,12 +103,12 @@
 
 
 <!ENTITY certs.auto                      "Pa ruyonil ticha' jun">
+<!ENTITY certs.auto.accesskey            "S">
 
 
 
 
-
-
-
-
-
+<!ENTITY viewCerts.label                 "Rutz'etik taq ruwujil rub'i'">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewSecurityDevices.label       "Rokisaxel chajinïk">
+<!ENTITY viewSecurityDevices.accesskey   "D">

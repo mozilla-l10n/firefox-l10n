@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  noProxyTypeRadio.label        "Majun proxi">
 <!ENTITY  noProxyTypeRadio.accesskey    "p">
@@ -26,8 +26,8 @@
 
 
 
-
-
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
 
 
 <!ENTITY  port.label                    "B'ey:">

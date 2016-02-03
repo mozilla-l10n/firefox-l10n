@@ -8,17 +8,17 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Rucha'ik ronojel">
 <!ENTITY  selectall.accesskey   "r">
-
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Chijun">
 <!ENTITY  generalTab.accesskey  "O">
-
+<!ENTITY  generalURL            "Ochochib'äl:">
 <!ENTITY  generalType           "Ruwäch:">
 <!ENTITY  generalMode           "Pa'äl pa chuwäch rub'anikil:">
 
 <!ENTITY  generalReferrer       "Retal chi ochochib'äl:">
 
-
+<!ENTITY  generalModified       "K'exon:">
 <!ENTITY  generalEncoding2      "Rucholajil rucholajem tzij:">
 <!ENTITY  generalMetaName       "B'i'aj">
 <!ENTITY  generalMetaContent    "rupam">
@@ -38,7 +38,7 @@
 <!ENTITY  mediaSaveAs           "Tiyak achi'el…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-
+<!ENTITY  mediaPreview          "Nab'tz'etb'äl">
 
 
 <!ENTITY  feedSubscribe         "Tz'ib'anïk b'i'aj">
@@ -49,11 +49,12 @@
 
 
 <!ENTITY  permAllow             "Ruya'ik q'ij">
-
+<!ENTITY  permAllowSession      "Tiya' q'ij  chupam re moloj re'">
 <!ENTITY  permBlock             "Tiq'eleb'ëx">
 
 <!ENTITY  permPlugins           "Titzij ri pluyin">
 
+<!ENTITY  permClearStorage           "Tijosq'ïx ri yakonem">
 <!ENTITY  permClearStorage.accesskey "K">
 
 <!ENTITY  securityTab           "Chajinïk">
