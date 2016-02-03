@@ -18,7 +18,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Ri rajaw re <span class='hostname'/> man ütz ta xunuk'ub'ej ri ruxaq k'amaya'l. Richin natob'ej ri awetamab'al richin man teleq'äx, &brandShortName; man xatrokisaj ta pa re ruxaq k'amaya'l re'.">
 <!ENTITY certerror.returnToPreviousPage.label "Titzolin">
 <!ENTITY certerror.learnMore "Tetamäx ch'aqa' chik…">
-
+<!ENTITY certerror.advanced.label "Q'axinäq">
 
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Re ruxaq k'amaya'l re' kan nrokisaj Nïm Ruchajinïk Ruk'wayöl HTTP (HSTS)
 richin nuya' retal chi &brandShortName; xa xe tok
