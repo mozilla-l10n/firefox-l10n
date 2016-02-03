@@ -269,7 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Для &quot;відкриття багатьох посилань&quot;, дайте дозвіл на \&apos;Перетягування над іншими програмами\&apos; для &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Для \&quot;відкриття багатьох посилань\&quot;, дайте &brandShortName; дозвіл на \&apos;Показ вікон над іншими програмами\&apos;">
 
 <!ENTITY pref_char_encoding "Кодування символів">
 <!ENTITY pref_char_encoding_on "Показувати меню">
