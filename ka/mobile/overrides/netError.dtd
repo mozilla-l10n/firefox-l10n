@@ -145,6 +145,12 @@
 ">
 
 <!ENTITY nssFailure2.title "უსაფრთხო დაკავშირება ვერ მოხერხდა">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>თქვენ მიერ მოთხოვნილი გვერდის ნახვა შეუძლებელია, ვინაიდანაც მიღებული მონაცემების ნამდვილობა ვერ დასტურდება.</li>
+  <li>გთხოვთ დაუკავშირდით ვებ-საიტის მფლობელებს და შატყობინეთ ეს პრობლემა.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "უსაფრთხო დაკავშირება ვერ ხერხდება">
 <!ENTITY nssBadCert.longDesc2 "
@@ -158,6 +164,13 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>საიტი შეიძლება დროები მიუწვდომელი ან ძალიან გადატვირთული იყოს. ცადეთ ხელახლა ცოტა ხანში.</li>
+  <li>თუ ვერცერთი გვერდის ჩატვირთვას ვერ ახერხებთ, შეამოწმეტ თქვენი მობილური მოწყობილობის მონაცემებთან და Wi-Fi კავშირი.
+    <button id='wifi'>Wi-Fi-ს ჩართვა</button>
+  </li>
+</ul>">
 
 <!ENTITY cspBlocked.title "დაბლოკილია, შიგთავსის უსაფრთხოების დებულების შესაბამისად.">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-მა შეზღუდა გვერდის ჩატვირთვა, რადგან შეიცავს შიგთავსს, რომელიც მიუღებელია უსაფრთხოების დებულების შესაბამისად.</p>">
