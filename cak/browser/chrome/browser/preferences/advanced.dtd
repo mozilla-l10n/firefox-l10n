@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Tetamäx ch'aqa' chik">
 
 <!ENTITY telemetryDesc.label             "Takomonij ri na'oj pa ruwi' rub'eyal nisamäj, ri rokisaxik, ch'akulakem chuqa' richinaxik okik'amaya'l rik'in &vendorShortName; richin chi ri &brandShortName; nel ütz">
-
-
+<!ENTITY enableTelemetryData.label       "Tikomonïx rutz'aqat taq tzij (achi'el, Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Tetamäx ch'aqa' chik">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; tataqa' taq rutzijol sachoj richin nato' &vendorShortName; richin chi jik chuqa' ütz nisamäj ri awokik'amaya'l">
@@ -70,8 +70,8 @@
 
 <!ENTITY updateTab.label                 "Tik'ex">
 
-
-
+<!ENTITY updateAuto1.label               "Keyak ruyonil taq k'exoj ruwäch (chilab'en: nrutzilaj ri chajinïk)">
+<!ENTITY updateAuto1.accesskey           "r">
 
 
 <!ENTITY updateManual.label              "Mani nikanöx taq k'exoj ruwäch (man chilab'en ta: ruk'ayewal chajinïk)">

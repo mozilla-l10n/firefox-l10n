@@ -2,14 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+<!ENTITY  connectionsDialog.title       "Runuk'ulem okem pa k'amaya'l">
+
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  noProxyTypeRadio.label        "Majun proxi">
 <!ENTITY  noProxyTypeRadio.accesskey    "p">
 
 
-
-
+<!ENTITY  WPADTypeRadio.label           "Pa ruyonil trïl runuk'ulem ri proxi richin re b'ey re'">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
 
 
 <!ENTITY  autoTypeRadio.label           "URL richin runuk'ulem pa ruyonil ri proxi:">
