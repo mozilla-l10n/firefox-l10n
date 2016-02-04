@@ -9,7 +9,7 @@
 <!ENTITY fccMailFolder.label "Een kopie plaatsen in:">
 <!ENTITY fccMailFolder.accesskey "k">
 <!ENTITY fccReplyFollowsParent.label "Antwoorden plaatsen in de map van het bericht waarop wordt geantwoord">
-<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY fccReplyFollowsParent.accesskey "w">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc naar deze e-mailadressen:">
 <!ENTITY ccAddress.accesskey "C">
@@ -19,7 +19,7 @@
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Scheid adressen met komma’s">
 <!ENTITY saveMessageDlg.label "Bevestiging weergeven als berichten zijn opgeslagen">
-<!ENTITY saveMessageDlg.accesskey "w">
+<!ENTITY saveMessageDlg.accesskey "z">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Map ‘Verzonden’ in:">
 <!ENTITY sentFolderOn.accesskey "V">
@@ -34,17 +34,17 @@
 <!ENTITY archivesFolderOn.label "Map ‘Archieven’ in:">
 <!ENTITY archivesFolderOn.accesskey "r">
 <!ENTITY archiveInOtherFolder.label "Anders:">
-<!ENTITY archiveInOtherFolder.accesskey "e">
+<!ENTITY archiveInOtherFolder.accesskey "n">
 <!ENTITY specialFolders.label "Concepten en sjablonen">
 <!ENTITY keepDrafts.label "Berichtconcepten bewaren in:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Map ‘Concepten’ in:">
 <!ENTITY draftsFolderOn.accesskey "M">
 <!ENTITY draftInOtherFolder.label "Anders:">
-<!ENTITY draftInOtherFolder.accesskey "n">
+<!ENTITY draftInOtherFolder.accesskey "d">
 <!ENTITY keepTemplates.label "Berichtsjablonen bewaren in:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Map ‘Sjablonen’ in:">
 <!ENTITY templatesFolderOn.accesskey "S">
 <!ENTITY templateInOtherFolder.label "Anders:">
-<!ENTITY templateInOtherFolder.accesskey "d">
+<!ENTITY templateInOtherFolder.accesskey "e">
