@@ -58,7 +58,7 @@
 <!ENTITY emptyTrashOnExit.label "Prullenbak leegmaken bij afsluiten">
 <!ENTITY emptyTrashOnExit.accesskey "f">
 <!ENTITY loginAtStartup.label "Op nieuwe berichten controleren bij opstarten">
-<!ENTITY loginAtStartup.accesskey "r">
+<!ENTITY loginAtStartup.accesskey "n">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
