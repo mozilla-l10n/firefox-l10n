@@ -103,6 +103,7 @@
 <!ENTITY enableOCSP.label                "Tikrinti liudijimų galiojimą, užklausiant OCSP atsakiklių ">
 <!ENTITY enableOCSP.accesskey            "O">
 
-
+<!ENTITY manageCertificates.label "Tvarkyti liudijimus…">
+<!ENTITY manageCertificates.accesskey "T">
 <!ENTITY viewSecurityDevices.label "Saugumo priemonės">
 <!ENTITY viewSecurityDevices.accesskey "S">
