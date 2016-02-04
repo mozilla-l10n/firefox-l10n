@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "ส่วนขยายบางส่วนไม่สามารถยืนยันความถูกต้องได้">
 <!ENTITY showAllExtensions.button.label       "แสดงส่วนขยายทั้งหมด">
-
-
+<!ENTITY debugAddons.label                    "ดีบั๊กส่วนเสริม">
+<!ENTITY debugAddons.accesskey                "บ">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "ส่วนเสริมทั้งหมดถูกปิดใช้งานเมื่ออยู่ในโหมดปลอดภัย">
