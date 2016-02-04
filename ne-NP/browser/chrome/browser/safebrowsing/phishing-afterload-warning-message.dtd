@@ -5,8 +5,8 @@
 <!ENTITY safeb.palm.accept.label "मलाई यहाँबाट बाहिर निकाल्नुहोस्!">
 <!ENTITY safeb.palm.decline.label "यस चेतावनीलाई उपेक्षा गर्नुहोस्">
 <!ENTITY safeb.palm.notforgery.label2 "यो एउटा वेब जालसाजी होइन…">
-
-
+<!ENTITY safeb.palm.reportPage.label "यो पृष्ठ किन बन्द गरिएको थियो?">
+<!ENTITY safeb.palm.whyForbidden.label "यो पृष्ठ किन बन्द गरिएको थियो?">
 
 <!ENTITY safeb.blocked.malwarePage.title "उजुर गरिएको आक्रमण साइट!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -19,5 +19,6 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
+<!ENTITY safeb.blocked.forbiddenPage.title2 "निषेधित साइट">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
