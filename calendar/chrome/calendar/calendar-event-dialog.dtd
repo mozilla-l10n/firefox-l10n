@@ -214,8 +214,8 @@
 <!ENTITY event.reminder.5minutes.before.label             "5 minut prej" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minut prej" >
 <!ENTITY event.reminder.30minutes.before.label            "30 minut prej" >
-<!ENTITY event.reminder.1hour.before.label                "1 ur prej" >
-<!ENTITY event.reminder.2hours.before.label               "2 ur prej" >
+<!ENTITY event.reminder.1hour.before.label                "1 ura prej" >
+<!ENTITY event.reminder.2hours.before.label               "2 uri prej" >
 <!ENTITY event.reminder.12hours.before.label              "12 ur prej" >
 <!ENTITY event.reminder.1day.before.label                 "1 dan prej" >
 <!ENTITY event.reminder.2days.before.label                "2 dni prej" >
