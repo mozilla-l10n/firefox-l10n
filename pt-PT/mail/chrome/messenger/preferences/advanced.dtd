@@ -95,10 +95,10 @@
 <!ENTITY clearCacheNow.accesskey         "L">
 <!-- Certificates -->
 
-<!ENTITY certSelection.description       "Se um servidor pede o meu certificado pessoal:">
+<!ENTITY certSelection.description       "Se um servidor pedir o meu certificado pessoal:">
 <!ENTITY certs.auto                      "Selecionar automaticamente">
 <!ENTITY certs.auto.accesskey            "m">
-<!ENTITY certs.ask                       "Perguntar de cada vez">
+<!ENTITY certs.ask                       "Perguntar sempre">
 <!ENTITY certs.ask.accesskey             "P">
 <!ENTITY enableOCSP.label                "Pedir aos servidores OCSP para confirmar a validade dos certificados">
 <!ENTITY enableOCSP.accesskey            "v">
@@ -106,4 +106,4 @@
 <!ENTITY manageCertificates.label "Gerir certificados">
 <!ENTITY manageCertificates.accesskey "G">
 <!ENTITY viewSecurityDevices.label "Dispositivos de segurança">
-<!ENTITY viewSecurityDevices.accesskey "s">
+<!ENTITY viewSecurityDevices.accesskey "D">
