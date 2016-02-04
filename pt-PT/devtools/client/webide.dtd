@@ -153,8 +153,8 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB é root: ">
 <!ENTITY runtimedetails_summonADBRoot "root do dispositivo">
 <!ENTITY runtimedetails_ADBRootWarning "(requer um bootloader desbloqueado)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Previlégios não restritos DevTools: ">
-<!ENTITY runtimedetails_requestPrivileges "pedir elevação de previlégios">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Privilégios não restritos de DevTools: ">
+<!ENTITY runtimedetails_requestPrivileges "solicitar privilégios superiores">
 <!ENTITY runtimedetails_privilegesWarning "(Irá reiniciar o dispositivo. Necessita de acesso root.)">
 <!-- Device Preferences and Settings -->
 
@@ -179,7 +179,7 @@
 <!ENTITY devicesetting_addnew "Adicionar nova definição">
 <!-- Monitor -->
 
-<!ENTITY monitor_title "Monitor">
+<!ENTITY monitor_title "Monitorizar">
 <!ENTITY monitor_help "Ajuda">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
@@ -205,7 +205,7 @@
 <!-- Simulator Options -->
 
 <!ENTITY simulator_title "Opções do simulador">
-<!ENTITY simulator_remove "Apagar simulador">
+<!ENTITY simulator_remove "Eliminar simulador">
 <!ENTITY simulator_reset "Restaurar predefinições">
 <!ENTITY simulator_name "Nome">
 <!ENTITY simulator_software "Software">
@@ -215,6 +215,6 @@
 <!ENTITY simulator_device "Dispositivo">
 <!ENTITY simulator_screenSize "Ecrã">
 <!ENTITY simulator_pixelRatio "Rácio do pixel">
-<!ENTITY simulator_tv_data "Simulação TV">
+<!ENTITY simulator_tv_data "Simulação de TV">
 <!ENTITY simulator_tv_data_open "Dados de configuração">
 <!ENTITY simulator_tv_data_open_button "Abrir diretório de configuração...">
