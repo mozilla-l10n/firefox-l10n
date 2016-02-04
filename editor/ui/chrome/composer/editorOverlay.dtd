@@ -84,18 +84,18 @@
 
 <!ENTITY fontSizeMenu.label "Dydis">
 <!ENTITY fontSizeMenu.accesskey "D">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY size-tinyCmd.label "Mažytis">
+<!ENTITY size-tinyCmd.accesskey "M">
+<!ENTITY size-smallCmd.label "Mažas">
+<!ENTITY size-smallCmd.accesskey "M">
+<!ENTITY size-mediumCmd.label "Vidutinis">
+<!ENTITY size-mediumCmd.accesskey "V">
+<!ENTITY size-largeCmd.label "Didelis">
+<!ENTITY size-largeCmd.accesskey "D">
+<!ENTITY size-extraLargeCmd.label "Lbai didelis">
+<!ENTITY size-extraLargeCmd.accesskey "b">
+<!ENTITY size-hugeCmd.label "Milžiniškas">
+<!ENTITY size-hugeCmd.accesskey "M">
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Teksto stilius">
@@ -311,6 +311,8 @@
 <!ENTITY throbber.tooltip "Atverti „&vendorShortName;“ tinklalapį">
 <!ENTITY HighlightColorButton.tooltip "Parinkti teksto žymėjimo spalvą">
 <!-- Editor toolbar -->
+
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nustatyti šrifto dydį">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Sumažinti šriftą">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Padidinti šriftą">
 <!ENTITY boldToolbarCmd.tooltip "Pusjuodis">
