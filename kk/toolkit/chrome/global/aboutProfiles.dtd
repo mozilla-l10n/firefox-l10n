@@ -4,7 +4,7 @@
 
 <!ENTITY aboutProfiles.title "Профильдер туралы">
 
-
-
-
-
+<!ENTITY aboutProfiles.create "Жаңа профильді жасау">
+<!ENTITY aboutProfiles.restart.title "Қайта қосу">
+<!ENTITY aboutProfiles.restart.inSafeMode "Сөндірілген қосымшалармен қайта қосу…">
+<!ENTITY aboutProfiles.restart.normal "Қалыпты қайта қосу…">
