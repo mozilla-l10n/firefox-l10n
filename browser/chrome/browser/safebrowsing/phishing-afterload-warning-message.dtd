@@ -25,4 +25,5 @@
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "अवरोधित साइट">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "आपल्या अॅडमिन प्रोफाइलने <span id='forbidden_sitename'/> वरील पान रोखले आहे.">
 
