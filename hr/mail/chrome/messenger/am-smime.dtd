@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Koristi ovaj certifikat za digitalno potpisivanje poruka koje šaljete:">
 
 <!ENTITY certificates.label "Certifikati">
-
-
+<!ENTITY manageCerts2.label "Upravljanje certifikatima">
+<!ENTITY manageCerts2.accesskey "m">
 <!ENTITY manageDevices.label "Sigurnosni uređaji">
 <!ENTITY manageDevices.accesskey "g">
