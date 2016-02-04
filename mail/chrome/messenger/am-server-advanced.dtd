@@ -22,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "K">
 <!ENTITY overrideNamespaces.label "Leisti serveriui keisti šias vardų sritis">
 <!ENTITY overrideNamespaces.accesskey "L">
-
-
-
+<!ENTITY pop3DeferringDesc.label "Laiškus, parsiųstus iš šios paskyros serverio, saugokite aplanke:" >
+<!ENTITY accountInbox.label "Šios paskyros gautų laiškų aplankas">
+<!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "kitos paskyros gautų laiškų aplanke">
 <!ENTITY deferToServer.accesskey "k">
 <!ENTITY deferGetNewMail.label "Tikrinant paštą, įtraukti ir šį serverį">

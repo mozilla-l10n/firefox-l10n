@@ -139,8 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "L">
 <!ENTITY newIM.label                                    "Žinutė">
 <!ENTITY newIM.accesskey                                "Ž">
-
-
+<!ENTITY printButton.label                              "Spausdinti…">
+<!ENTITY printButton.accesskey                          "p">
 <!ENTITY deleteButton2.label                            "Pašalinti">
 <!ENTITY deleteButton2.accesskey                        "š">
 <!-- Address Book Toolbar Tooltips -->
