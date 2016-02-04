@@ -9,5 +9,6 @@
 
 # variable definition and use the format specified.
 
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mozilla Kaq&#233;chikel &#40;Responsable: Juan Sián&#41;</em:contributor>
 
 #unfilter emptyLines
