@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY  trackingProtectionHeader.label       "ใช้การป้องกันการติดตาม">
+<!ENTITY  trackingProtectionAlways.label       "เสมอ">
+<!ENTITY  trackingProtectionAlways.accesskey   "อ">
+<!ENTITY  trackingProtectionPrivate.label      "ในหน้าต่างท่องเว็บแบบส่วนตัวเท่านั้น">
+<!ENTITY  trackingProtectionPrivate.accesskey  "น">
+<!ENTITY  trackingProtectionNever.label        "ไม่ต้อง">
+<!ENTITY  trackingProtectionNever.accesskey    "ไ">
 <!ENTITY  trackingProtectionLearnMore.label    "เรียนรู้เพิ่มเติม">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "ยกเว้น…">
+<!ENTITY  trackingProtectionExceptions.accesskey "ย">
 
 <!ENTITY tracking.label                 "การติดตาม">
 <!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการติดตามในหน้าต่างท่องเว็บส่วนตัว">
@@ -20,6 +22,8 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
+<!ENTITY  doNotTrack.pre.label          "นอกจากนี้คุณยัง ">
+<!ENTITY  doNotTrack.settings.label     "จัดการการตั้งค่า อย่าตามรอย">
 
 
 <!ENTITY  history.label                 "ประวัติ">

@@ -180,6 +180,6 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.title "การเชื่อมต่อของคุณไม่นิรภัย">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
+<!ENTITY weakCryptoAdvanced.title "ขั้นสูง">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ใช้เทคโนโลยีความปลอดภัยที่ตกรุ่นและมีช่องโหว่ในการโจมตี ผู้บุกรุกสามารถล่วงรู้ข้อมูลได้อย่างง่ายดายโดยที่คุณคิดว่ามันปลอดภัย">
 <!ENTITY weakCryptoAdvanced.override "(ไม่ปลอดภัย) กำลังโหลด <span class='hostname'></span> ที่ใช้งานการรักษาความปลอดภัยที่ล้าสมัย">
