@@ -4,7 +4,7 @@
 
 <!ENTITY securityTitle.label "Beveiliging">
 <!ENTITY securityTab.label "Beveiliging">
-<!ENTITY securityHeading.label "Om ondertekende of versleutelde berichten te versturen dient u zowel een digitaal ondertekeningscertificaat als een versleutelingscertificaat te specificeren.">
+<!ENTITY securityHeading.label "Om ondertekende of versleutelde berichten te versturen, dient u zowel een digitaal ondertekeningscertificaat als een versleutelingscertificaat te specificeren.">
 <!ENTITY encryptionGroupTitle.label "Versleuteling">
 <!ENTITY encryptionChoiceLabel.label "Standaard versleutelingsinstelling bij verzenden van berichten:">
 <!ENTITY neverEncrypt.label "Nooit (geen versleuteling gebruiken)">
