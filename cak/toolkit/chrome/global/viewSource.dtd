@@ -34,7 +34,7 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY textEnlarge.commandkey3 "">
-
+<!ENTITY textReduce.commandkey "-">
 <!ENTITY textReduce.commandkey2 "">
 
 <!ENTITY textReset.commandkey2 "">
