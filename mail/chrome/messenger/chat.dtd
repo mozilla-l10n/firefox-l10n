@@ -7,8 +7,8 @@
 <!ENTITY conversationsHeader.label     "Conversaties">
 <!ENTITY searchResultConversation.label "Zoekresultaat">
 <!ENTITY chat.noConv.title             "Conversaties worden hier weergegeven.">
-<!ENTITY chat.noConv.description       "Gebruik de contactlijst in het linkerpaneel om een conversatie te starten.">
-<!ENTITY chat.noPreviousConv.description       "&brandShortName; heeft momenteel geen vorige conversaties opgeslagen voor dit contact.">
+<!ENTITY chat.noConv.description       "Gebruik de contactlijst in het linkerpaneel om een conversatie te beginnen.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName; heeft momenteel geen vorige conversaties voor dit contact opgeslagen.">
 <!ENTITY chat.noAccount.title             "U hebt nog geen chataccount ingesteld.">
 <!ENTITY chat.noAccount.description       "Laat &brandShortName; u door het instelproces van uw chataccount leiden.">
 <!ENTITY chat.accountWizard.button       "Beginnen">
