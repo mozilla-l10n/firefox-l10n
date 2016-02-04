@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "Мобильді интернетті қолдануды өздік қылыңыз.">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; өніміне қош келдіңіз">
+<!ENTITY firstrun_urlbar_subtext "Пайдалы іздеу ұсыныстарының жарлықтары көмегімен нәрселерді тезірек табыңыз.">
+<!ENTITY firstrun_bookmarks_title "Тарихы">
 
-
-
-
-
-
-
+<!ENTITY firstrun_bookmarks_subtext "Іздеу кезінде бетбелгілер және тарихтан нәтижелерді алыңыз.">
+<!ENTITY firstrun_data_title "Деректер">
+<!ENTITY firstrun_data_message "Азырақ деректер, көбірек үнемдеу">
+<!ENTITY firstrun_data_subtext "Әр қаралатын сайтта азырақ деректерді қолдану үшін суреттерді блоктаңыз.">
 <!ENTITY firstrun_sync_title "Синхрондау">
+<!ENTITY firstrun_sync_message "&brandShortName;, әрқашан сізді қолдайды">
 
 
-
-
+<!ENTITY firstrun_signin_button "Синхрондау ішіне кіру">
 <!ENTITY  onboard_start_button_browser "Шолуды бастау">
 <!ENTITY firstrun_button_next "Келесі">
 
@@ -255,6 +255,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Қазір емес">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Баптауларға өту">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -597,7 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Қауіпсіз байланыс">
 <!ENTITY identity_connection_insecure "Қауіпсіз емес байланыс">
 <!ENTITY identity_login_insecure "Бұл бет қауіпсіз емес және сіздің логин осал болуы мүмкін.">
-
+<!ENTITY identity_connection_chromeui "Бұл - қауіпсіз &brandShortName; беті">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; бұл парақтағы қауіпсіз емес құраманы блоктаған.">
@@ -621,6 +622,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Жеке деректер өшірілді">
 <!ENTITY private_data_fail "Кейбір жеке деректерді өшіру мүмкін емес">
 
+<!ENTITY bookmarkhistory_button_import "Импорттау">
 <!ENTITY bookmarkhistory_import_both "Бетбелгілер және тарихты 
 Android-тан импорттау">
 <!ENTITY bookmarkhistory_import_bookmarks "Бетбелгілерді Android-тан 
@@ -661,7 +663,10 @@ Android-тан импорттау">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Файлдар және жаңартуларды жүктеп алу мақсатында, &brandShortName; үшін қоймаға қатынауға рұқсат етіңіз.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Рұқсат ету">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Жаңа қоңақ сессиясы">
@@ -751,8 +756,8 @@ Android-тан импорттау">
 <!ENTITY restrictable_feature_advanced_settings_description "Бұның ішінде бетбелгілерді импорттау, беттерді қалпына келтіру және автожаңартулар бар. Отбасыңыздың әр мүшесіне жарайтын қарапайым баптауларды алу үшін осыны сөндіріңіз.">
 <!ENTITY restrictable_feature_camera_microphone "Камера және микрофон">
 <!ENTITY restrictable_feature_camera_microphone_description "Отбасыңыздың мүшелеріне веб сайттарда нақты уақыттағы сөйлесулерге қатысуды рұқсат ету.">
-
-
+<!ENTITY restrictable_feature_block_list "Блоктізім">
+<!ENTITY restrictable_feature_block_list_description "Сезімтал құрамасы бар вебсайттарды блоктау.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
