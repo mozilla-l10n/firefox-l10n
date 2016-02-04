@@ -560,19 +560,6 @@
 <!ENTITY identity.permissionsEmpty "No ha dado permisos especiales a este sitio.">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu3.label     "Pestañas sincronizadas">
-<!ENTITY syncedTabs.sidebar.label              "Pestañas sincronizadas">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Consiguiendo lista de pestañas sincronizadas…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Conéctese a Firefox desde sus otros dispositivos para ver sus pestañas aquí.">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Conéctese para ver una lista de las pestañas de sus otros dispositivos.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "No hay pestañas abiertas">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Abrir las preferencias de &syncBrand.shortName.label;">
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Active la sincronización de pestañas para ver una lista de las pestañas de sus otros dispositivos.">
-<!ENTITY syncedTabs.context.openTab.label                   "Abrir esta pestaña">
-<!ENTITY syncedTabs.context.openTab.accesskey               "O">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Guardar esta pestaña en marcadores…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
-<!ENTITY syncedTabs.context.refreshList.label               "Refrescar lista">
-<!ENTITY syncedTabs.context.refreshList.accesskey           "R">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label             "Conectarse a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
@@ -672,3 +659,7 @@
 
 <!ENTITY emeLearnMoreContextMenu.label            "Aprender más acerca de DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "Ahora no">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
+<!ENTITY emeNotificationsDontAskAgain.label       "No volver a preguntar">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
