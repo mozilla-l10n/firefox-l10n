@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY  trackingProtectionHeader.label       "استخدم الحماية من التعقّب">
+<!ENTITY  trackingProtectionAlways.label       "دائمًا">
+<!ENTITY  trackingProtectionAlways.accesskey   "د">
+<!ENTITY  trackingProtectionPrivate.label      "في النوافذ الخاصة فقط">
+<!ENTITY  trackingProtectionPrivate.accesskey  "ق">
+<!ENTITY  trackingProtectionNever.label        "أبدًا">
+<!ENTITY  trackingProtectionNever.accesskey    "ب">
 <!ENTITY  trackingProtectionLearnMore.label    "اطّلع على المزيد">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "الاستثناءات…">
+<!ENTITY  trackingProtectionExceptions.accesskey "س">
 
 <!ENTITY tracking.label                 "التعقب">
 <!ENTITY trackingProtectionPBM5.label         "استخدم الحماية من التعقّب في النوافذ الخاصة">
@@ -20,7 +22,9 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-
+<!ENTITY  doNotTrack.pre.label          "يمكنك أيضًا ">
+<!ENTITY  doNotTrack.settings.label     "إدارة تفضيلات خاصية عدم التعقب">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "التأريخ">
 
