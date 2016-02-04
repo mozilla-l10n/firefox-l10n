@@ -103,8 +103,8 @@
 <!ENTITY offlineAppRemove.confirm        "Tiyuj el na'oj pa rub'eyal majun okem pa k'amaya'l">
 
 <!ENTITY certificateTab.label            "Taq ruwujil b'i'aj:">
-
-
+<!ENTITY certSelection.label             "Taq taqowuj">
+<!ENTITY certSelection.description       "Toq ri ruk'u'x samaj xtrajo' pe ri nuwujil b'i'aj:">
 <!ENTITY certs.auto                      "Pa ruyonil ticha' jun">
 <!ENTITY certs.auto.accesskey            "S">
 

@@ -4,7 +4,8 @@
 
 <!ENTITY  fontsDialog.title                       "Ruwäch tz'ib'">
 
-
+<!ENTITY  language.label                          "Ruwäch tz'ib' richin:">
+<!ENTITY  language.accesskey                      "R">
 
 <!ENTITY  size.label                              "Nimilem:">
 <!ENTITY  sizeProportional.accesskey              "T">
@@ -73,6 +74,7 @@
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "Ch'uti Chino">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "Kan Chino wi">

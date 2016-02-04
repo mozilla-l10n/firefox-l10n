@@ -31,8 +31,8 @@
 
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-
-
+<!ENTITY  socksRemoteDNS.label          "Näj DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "B'ey:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
