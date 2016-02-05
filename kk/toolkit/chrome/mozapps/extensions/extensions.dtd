@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Кейбір кеңейтулерді растау мүмкін емес">
 <!ENTITY showAllExtensions.button.label       "Барлық кеңейтулерді көрсету">
-
-
+<!ENTITY debugAddons.label                    "Қосымшаларды жөндеу">
+<!ENTITY debugAddons.accesskey                "д">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Барлық кеңейтулер қауіпсіз режимімен сөндірілген.">
