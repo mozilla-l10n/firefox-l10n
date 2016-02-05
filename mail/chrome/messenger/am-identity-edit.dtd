@@ -5,7 +5,7 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 
-<!ENTITY identityDialog.style "min-plotis: 75ženklai;">
+<!ENTITY identityDialog.style "min-width: 75ch;">
 <!ENTITY identityTitle.label "Tapatumo nuostatos">
 <!ENTITY identityListDesc.label "Parinkite šios paskyros tapatumo nuostatas:">
 
