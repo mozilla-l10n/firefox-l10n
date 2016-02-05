@@ -90,8 +90,8 @@
 
 
 <!ENTITY updateOthers.label              "Tik'ex pa ruyonil:">
-
-
+<!ENTITY enableSearchUpdate.label        "Samajel chi kanob'äl">
+<!ENTITY enableSearchUpdate.accesskey    "k">
 
 
 <!ENTITY offlineNotifyExceptions.label   "Taq Man relik ta…">
@@ -109,7 +109,7 @@
 <!ENTITY certs.auto                      "Pa ruyonil ticha' jun">
 <!ENTITY certs.auto.accesskey            "S">
 
-
+<!ENTITY certs.ask.accesskey             "A">
 
 
 <!ENTITY viewCerts.label                 "Rutz'etik taq ruwujil rub'i'">

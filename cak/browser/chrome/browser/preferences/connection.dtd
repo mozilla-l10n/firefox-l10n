@@ -7,10 +7,11 @@
 
 <!ENTITY  window.macWidth               "39em">
 
+<!ENTITY  proxyTitle.label              "Tinuk'samajïx ri taq proxi richin yatok pa k'amaya'l">
 <!ENTITY  noProxyTypeRadio.label        "Majun proxi">
 <!ENTITY  noProxyTypeRadio.accesskey    "p">
-
-
+<!ENTITY  systemTypeRadio.label         "Tawokisaj ri runuk'ulem ruproxi q'inoj">
+<!ENTITY  systemTypeRadio.accesskey     "T">
 <!ENTITY  WPADTypeRadio.label           "Pa ruyonil trïl runuk'ulem ri proxi richin re b'ey re'">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 

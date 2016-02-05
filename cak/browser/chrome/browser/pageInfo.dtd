@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  pageInfoWindow.width  "600">
+
 
 <!ENTITY  copy.key              "K">
 <!ENTITY  copy.label            "Wachib'exïk">
@@ -47,7 +49,7 @@
 
 <!ENTITY  permTab               "Taq ya'oj q'ij">
 <!ENTITY  permTab.accesskey     "P">
-
+<!ENTITY  permUseDefault        "Tokisäx ri ruk'amon wi pe">
 <!ENTITY  permAskAlways         "Junelïk tik'utüx pe">
 <!ENTITY  permAllow             "Ruya'ik q'ij">
 <!ENTITY  permAllowSession      "Tiya' q'ij  chupam re moloj re'">

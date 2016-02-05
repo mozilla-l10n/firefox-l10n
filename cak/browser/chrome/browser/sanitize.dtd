@@ -41,6 +41,8 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 
+<!ENTITY detailsProgressiveDisclosure.label     "Taq rub'anikil">
+<!ENTITY detailsProgressiveDisclosure.accesskey "b">
 
 <!ENTITY historySection.label         "Natab’äl">
 <!ENTITY dataSection.label            "Taq tzij">
