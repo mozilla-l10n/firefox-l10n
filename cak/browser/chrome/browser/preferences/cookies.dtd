@@ -4,6 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
+<!ENTITY     cookiesonsystem.label          "Eyakon re taq kuki re' pan akematz'ib':">
 <!ENTITY     cookiename.label               "Rub'i' ri kuki">
 <!ENTITY     cookiedomain.label             "Ruxaq k'amaya'l"> 
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):

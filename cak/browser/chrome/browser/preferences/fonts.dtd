@@ -14,7 +14,8 @@
 <!ENTITY  proportional.label                      "Junamil:">
 <!ENTITY  proportional.accesskey                  "J">
 
-
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
 
 
 <!ENTITY  monospace.label                         "Rujukojol cholaj:">
@@ -25,7 +26,7 @@
 
 <!ENTITY  font.langGroup.simpl-chinese            "Ch'uti Chino">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Relik Chino (Hong Kong)">
-
+<!ENTITY  font.langGroup.korean                   "KORYANO">
 
 <!ENTITY  font.langGroup.el                       "RYEWO">
 
@@ -71,7 +72,7 @@
 <!ENTITY languages.customize.Fallback.arabic      "Arawe">
 
 
-
+<!ENTITY languages.customize.Fallback.cewindows   "Central European, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.simplified  "Ch'uti Chino">

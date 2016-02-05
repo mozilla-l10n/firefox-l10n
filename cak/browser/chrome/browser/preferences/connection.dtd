@@ -19,8 +19,8 @@
 <!ENTITY  autoTypeRadio.accesskey       "i">
 <!ENTITY  reload.label                  "Tisamajib'ëx chik">
 <!ENTITY  reload.accesskey              "s">
-
-
+<!ENTITY  ftp.label                     "FTP Proxy:">
+<!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP proxi:">
 <!ENTITY  http.accesskey                "x">
 

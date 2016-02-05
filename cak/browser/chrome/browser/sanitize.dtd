@@ -46,8 +46,8 @@ that require it.  -->
 <!ENTITY dataSection.label            "Taq tzij">
 
 
-
-
+<!ENTITY itemFormSearchHistory.label       "Taq nojwuj chuqa' taq kanoxïk kik'ulwachinel ">
+<!ENTITY itemFormSearchHistory.accesskey   "n">
 <!ENTITY itemCookies.label                 "Taq kuki">
 <!ENTITY itemCookies.accesskey             "k">
 
@@ -56,8 +56,8 @@ that require it.  -->
 <!ENTITY itemOfflineApps.accesskey         "r">
 <!ENTITY itemActiveLogins.label            "Tzijïl taq molojri'ïl">
 <!ENTITY itemActiveLogins.accesskey        "m">
-
-
+<!ENTITY itemSitePreferences.label         "Taq rajowaxïk ruxaq k'amaya'l">
+<!ENTITY itemSitePreferences.accesskey     "k">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->

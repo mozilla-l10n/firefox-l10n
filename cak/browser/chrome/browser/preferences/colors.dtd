@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41 em">
 
 <!ENTITY  overridePageColors.label        "Kewalwachïx ri taq b'onil ya'on rutzijol richin re ruxaq rik'in ri nucha'oj nib'anon chik:">
