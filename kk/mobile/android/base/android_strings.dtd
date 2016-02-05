@@ -251,7 +251,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Бұны сіз кейін де Баптаулар ішінде өзгерте аласыз">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Басқа қолданбалар алдында салуды рұқсат етіңіз">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Басқа қолданбалар үстінде салуды рұқсат етіңіз">
 <!ENTITY tab_queue_prompt_positive_action_button "Іске қосу">
 <!ENTITY tab_queue_prompt_negative_action_button "Қазір емес">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -268,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 бет күтуде">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "\&quot;Бірнеше сілтемені ашу\&quot; үшін, &brandShortName; үшін \u0027Басқа қолданбалар үстінен салу\u0027 рұқсатын іске қосыңыз">
 
 <!ENTITY pref_char_encoding "Кодталуы">
 <!ENTITY pref_char_encoding_on "Мәзірді көрсету">
@@ -536,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Сіздің соңғы ашық беттеріңіз осында болады.">
 <!ENTITY home_open_all "Барлығын ашу">
 <!ENTITY home_most_recent_empty "Сіздің соңғы ашылған веб сайттарыңыз осында болады.">
-
+<!ENTITY home_selected_empty "Сіз таңдалған уақыт аралығында қараған сайттар осында көрсетіледі.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Назарыңызға: &formatS1;Жаңа жекелік бет&formatS2; мүмкіндігін қолдану таризыңызды сақтамайды.">
