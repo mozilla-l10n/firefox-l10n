@@ -91,7 +91,7 @@
 <!ENTITY certs.ask.accesskey "a">
 <!ENTITY enableOCSP.label "Tala við OCSP svarþjóna til að staðfesta gildi núverandi skílríkja">
 <!ENTITY enableOCSP.accesskey "T">
-<!ENTITY viewCertificates.label "Skoða skilríki">
-<!ENTITY viewCertificates.accesskey "k">
+<!ENTITY manageCertificates.label "Umsýsla skilríkja">
+<!ENTITY manageCertificates.accesskey "m">
 <!ENTITY viewSecurityDevices.label "Öryggistæki">
 <!ENTITY viewSecurityDevices.accesskey "Ö">

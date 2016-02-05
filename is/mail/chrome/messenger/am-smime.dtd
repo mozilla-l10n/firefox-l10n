@@ -25,7 +25,7 @@
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Nota þetta skilríki fyrir rafræna undirskrift á pósti sem þú sendir:">
 <!ENTITY certificates.label "Skilríki">
-<!ENTITY manageCerts.label "Skoða skilríki">
-<!ENTITY manageCerts.accesskey "S">
+<!ENTITY manageCerts2.label "Umsýsla skilríkja">
+<!ENTITY manageCerts2.accesskey "m">
 <!ENTITY manageDevices.label "Öryggistæki">
 <!ENTITY manageDevices.accesskey "y">
