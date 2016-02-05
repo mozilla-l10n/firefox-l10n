@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutProfiles.title "प्रोफाइलहरूको बारेमा">
 
-
-
-
+<!ENTITY aboutProfiles.create "नयाँ प्रोफाइल सिर्जना गर्नुहोस्">
+<!ENTITY aboutProfiles.restart.title "पुनःसुरु गर्नुहोस्">
+<!ENTITY aboutProfiles.restart.inSafeMode "एड-अनहरू असक्षम पारेर पुनः सरु गर्नुहोस...">
+<!ENTITY aboutProfiles.restart.normal "सामान्यरूपमा पुनःसुरु गर्नुहोस्…">

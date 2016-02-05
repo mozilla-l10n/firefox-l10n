@@ -14,6 +14,7 @@
 
 
 
+<!ENTITY  manualUpdate.title              "अद्यावधिक गर्न सकिएन">
 
 
 
@@ -38,8 +39,8 @@
 
 <!ENTITY  incompatibleList.title          "असमर्थित एड-अन भेटियो">
 
-
-
+<!ENTITY  downloading.intro               "अद्यावधि डाउनलोड गर्दै…">
+<!ENTITY  connecting.label                "सर्भरसँग जडान गर्दै…">
 
 
 
@@ -58,9 +59,10 @@
 <!ENTITY  finishedBackground.name         "अद्यावधिकः">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
-
-
+<!ENTITY  installed.title                 "अद्यावधि स्थापना गरियो">
+<!ENTITY  installed.intro                 "अद्यावधि सफलतापूर्वक स्थापना गरियो।">
+<!ENTITY  whatsnew.label                  "नयाँ के के छन् भन्ने जान्नुहोस्…">
 
 <!ENTITY  update.details.label            "विवरण">
-
+<!ENTITY  update.installedOn.label        "स्थापना मिति:">
 <!ENTITY  update.status.label             "स्थिति:">

@@ -25,27 +25,28 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 
 
-
-
-<!ENTITY cmd.retry.label                  "पुनः प्रयास गर्नुहोस्">
+<!ENTITY cmd.openWith.label               "निम्न प्रयोग गरेर खोल्नुहोस्…">
+<!ENTITY cmd.openWith.accesskey           "h">
+<!ENTITY cmd.retry.label                  "पुन: प्रयास गर्नुहोस्">
 <!ENTITY cmd.retry.accesskey              "R">
-
-
-
-
-
-
+<!ENTITY cmd.goToDownloadPage.label       "डाउनलोड पेजमा जानुहोस्">
+<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.copyDownloadLink.label       "डाउनलोड लिङ्क कपि गर्नुहोस्">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.removeFromList.label         "सूचीबाट हटाउनुहोस्">
+<!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-
-
-
+<!ENTITY cmd.clearList.label              "सूची खाली गर्नुहोस्">
+<!ENTITY cmd.clearList.tooltip            "पूरा गरिएको, रद्द गरिएको, र विफल भएको डाउनलोडहरुलाई सूचीबाट हटाउँदछ">
+<!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-
+<!ENTITY closeWhenDone.label              "डाउनलोड पूरा भएपछि बन्द गर्नुहोस्">
+<!ENTITY closeWhenDone.tooltip            "सबै फाइलहरू डाउनलोड भएपछि डाउनलोड सञ्झ्याल बन्द गर्दछ">
 
 <!ENTITY showFolder.label                 "यो फोल्डर देखाउनुहोस्">
-
+<!ENTITY searchBox.label                  "खोजी गर्नुहोस्…">
