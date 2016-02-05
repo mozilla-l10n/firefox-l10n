@@ -13,15 +13,15 @@
 <!ENTITY firstrun_urlbar_message "&brandShortName; өніміне қош келдіңіз">
 <!ENTITY firstrun_urlbar_subtext "Пайдалы іздеу ұсыныстарының жарлықтары көмегімен нәрселерді тезірек табыңыз.">
 <!ENTITY firstrun_bookmarks_title "Тарихы">
-
+<!ENTITY firstrun_bookmarks_message "Таңдамалыларыңыз көз алдында">
 <!ENTITY firstrun_bookmarks_subtext "Іздеу кезінде бетбелгілер және тарихтан нәтижелерді алыңыз.">
 <!ENTITY firstrun_data_title "Деректер">
 <!ENTITY firstrun_data_message "Азырақ деректер, көбірек үнемдеу">
 <!ENTITY firstrun_data_subtext "Әр қаралатын сайтта азырақ деректерді қолдану үшін суреттерді блоктаңыз.">
 <!ENTITY firstrun_sync_title "Синхрондау">
 <!ENTITY firstrun_sync_message "&brandShortName;, әрқашан сізді қолдайды">
-
-
+<!ENTITY firstrun_sync_subtext "Әр жерде қолданылатын беттер, парольдер және т.б. синхрондаңыз.">
+<!ENTITY firstrun_signin_message "Байланысыңыз, бастаңыз">
 <!ENTITY firstrun_signin_button "Синхрондау ішіне кіру">
 <!ENTITY  onboard_start_button_browser "Шолуды бастау">
 <!ENTITY firstrun_button_next "Келесі">
@@ -251,6 +251,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Бұны сіз кейін де Баптаулар ішінде өзгерте аласыз">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Басқа қолданбалар алдында салуды рұқсат етіңіз">
 <!ENTITY tab_queue_prompt_positive_action_button "Іске қосу">
 <!ENTITY tab_queue_prompt_negative_action_button "Қазір емес">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
