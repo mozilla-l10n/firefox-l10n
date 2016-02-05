@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY  trackingProtectionHeader.label       "İzlənmə Qoruması istifadə et">
+<!ENTITY  trackingProtectionAlways.label       "Həmişə">
+<!ENTITY  trackingProtectionAlways.accesskey   "H">
+<!ENTITY  trackingProtectionPrivate.label      "Ancaq Məxfi Pəncərələrdə">
+<!ENTITY  trackingProtectionPrivate.accesskey  "n">
+<!ENTITY  trackingProtectionNever.label        "Heç vaxt">
+<!ENTITY  trackingProtectionNever.accesskey    "v">
 <!ENTITY  trackingProtectionLearnMore.label    "Ətraflı öyrən">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "İstisnalar…">
+<!ENTITY  trackingProtectionExceptions.accesskey "a">
 
 <!ENTITY tracking.label                 "İzleme">
 <!ENTITY trackingProtectionPBM5.label         "Məxfi Pəncərələrdə İzlənmə Qoruması istifadə et">
@@ -20,7 +22,9 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-
+<!ENTITY  doNotTrack.pre.label          "Həmçinin ">
+<!ENTITY  doNotTrack.settings.label     "Məni İzləmə tənzimləmələrinizi idarə edə bilərsiz">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Tarixçə">
 
