@@ -20,7 +20,7 @@
 <!ENTITY     props.path.label               "मार्ग:">
 <!ENTITY     props.secure.label             "यसका लागि पठाउनुहोस्:">
 <!ENTITY     props.expires.label            "म्याद समाप्त:">
-
+<!ENTITY     props.container.label          "कन्टेनर:">
 
 <!ENTITY     window.title                   "कुकीहरू">
 <!ENTITY     windowClose.key                "w">
@@ -30,4 +30,5 @@
 <!ENTITY     filter.label                   "खोजी गर्नुहोस्:">
 <!ENTITY     filter.accesskey               "S">
 
-
+<!ENTITY     button.close.label             "बन्द गर्नुहोस्">
+<!ENTITY     button.close.accesskey         "C">

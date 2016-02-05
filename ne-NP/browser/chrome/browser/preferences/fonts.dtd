@@ -24,13 +24,13 @@
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
 <!ENTITY  font.langGroup.latin                    "ल्याटिन">
-
+<!ENTITY  font.langGroup.japanese                 "जापानी">
 <!ENTITY  font.langGroup.trad-chinese             "पुरानो चिनियाँ  (ताइवान )">
 <!ENTITY  font.langGroup.simpl-chinese            "सरलीकृत चिनियाँ">
 <!ENTITY  font.langGroup.trad-chinese-hk          "परम्परागत चिनियाँ (हंगकंग )">
 <!ENTITY  font.langGroup.korean                   "कोरियाली">
 <!ENTITY  font.langGroup.cyrillic                 "सिरिलिक">
-
+<!ENTITY  font.langGroup.el                       "ग्रिक">
 
 
 
@@ -72,7 +72,7 @@
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "अरबी">
 <!ENTITY languages.customize.Fallback.baltic      "अन्य भाषाहरू">
-
+<!ENTITY languages.customize.Fallback.ceiso       "केन्द्रीय युरोपेली, ISO">
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
