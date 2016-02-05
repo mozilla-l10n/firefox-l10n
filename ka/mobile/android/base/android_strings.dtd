@@ -714,7 +714,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-<!ENTITY remote_tabs_last_synced "ბოლო სინქრონიზაცია: %S">
+<!ENTITY remote_tabs_last_synced "ბოლო სინქრონიზაცია: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "ბოლო სინქრონიზაცია: არასდროს">
 
