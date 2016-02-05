@@ -7,7 +7,7 @@
 
 <!ENTITY newPref.namePlaceholder       "Nome">
 
-<!ENTITY newPref.valueBoolean          "Booleano">
+<!ENTITY newPref.valueBoolean          "Booliano">
 <!ENTITY newPref.valueString           "Texto">
 <!ENTITY newPref.valueInteger          "Inteiro">
 
