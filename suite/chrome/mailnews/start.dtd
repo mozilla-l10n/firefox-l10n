@@ -19,9 +19,9 @@
 <!ENTITY dict.title "Dictionnaires">
 <!ENTITY dict_intro.label "Les dictionnaires sont utilisés pour vérifier l’orthographe de vos messages.">
 <!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label 'D&#x0027;autres dictionnaires peuvent être installés depuis la section
+<!ENTITY dict_info.label 'D&#x2019;autres dictionnaires peuvent être installés depuis la section
 <a id="dictURL" href="">Dictionnaires</a> sur <a href="http://addons.mozilla.org/">&brandShortName; Add-ons</a>.'>
 <!ENTITY info.title "Plus d’informations">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Nous</a> acceptons volontiers les rapports de bogues ainsi que les demandes
-d&#x0027;améliorations, mais veuillez d&#x0027;abord lire les <a id="releaseNotesURL" href="">notes de version</a> et faire une recherche dans <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
+d&#x2019;améliorations, mais veuillez d&#x2019;abord lire les <a id="releaseNotesURL" href="">notes de version</a> et faire une recherche dans <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
