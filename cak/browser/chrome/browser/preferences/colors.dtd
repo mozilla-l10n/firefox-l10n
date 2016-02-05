@@ -21,7 +21,7 @@
 <!ENTITY  underlineLinks.label            "Tijux kixe' ri ximonela'">
 <!ENTITY  underlineLinks.accesskey        "T">
 
-
-
+<!ENTITY  linkColor.label                 "Manjun tz'eton ri taq ximöy">
+<!ENTITY  linkColor.accesskey             "t">
 <!ENTITY  visitedLinkColor.label          "Taq ximonel etz'eton:">
 <!ENTITY  visitedLinkColor.accesskey      "e">

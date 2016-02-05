@@ -34,7 +34,7 @@
 <!ENTITY  font.langGroup.hebrew                   "EBREYO">
 
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
-
+<!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Armenyan">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
 <!ENTITY  font.langGroup.canadian                 "Rujachik tunun ruk'u'x tzij aj Canada ">
