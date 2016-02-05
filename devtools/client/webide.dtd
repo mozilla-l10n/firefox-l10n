@@ -50,7 +50,7 @@
 <!-- reload WebIDE and devtools from local checkout -->
 <!-- this binding is with accel+alt, whereas all others are just accel -->
 
-<!ENTITY projectPanel_tabs "დაფები">
+<!ENTITY projectPanel_tabs "ჩანართები">
 
 <!-- Lense -->
 <!ENTITY details_location "მისამართი">
@@ -66,6 +66,7 @@
 <!-- Addons -->
 
 <!-- Prefs -->
+<!ENTITY prefs_general_title "ძირითადი">
 <!ENTITY prefs_options_tabsize "ჩანართის ზომა">
 <!ENTITY prefs_options_expandtab "ნაზი ჩანართები">
 <!ENTITY prefs_options_keybindings_default "ნაგულისხმები">

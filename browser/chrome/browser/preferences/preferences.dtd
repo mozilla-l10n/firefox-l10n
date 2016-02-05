@@ -13,14 +13,14 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 70em; min-height: 50em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 64em; min-height: 48.5em;">
 
-<!ENTITY  paneGeneral.title       "ძირითადი">
-<!ENTITY  paneTabs.title          "დაფები">
+<!ENTITY  paneGeneral.title       "მთავარი ">
+<!ENTITY  paneTabs.title          "ჩანართები">
 <!ENTITY  paneSearch.title        "ძიება">
 <!ENTITY  paneContent.title       "შიგთავსი">
 <!ENTITY  paneApplications.title  "პროგრამები">
 <!ENTITY  panePrivacy.title       "პრივატულობა">
 <!ENTITY  paneSecurity.title      "უსაფრთხოება">
-<!ENTITY  paneAdvanced.title      "დეტალურად">
+<!ENTITY  paneAdvanced.title      "დამატებითი">
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "სინქრონიზაცია">

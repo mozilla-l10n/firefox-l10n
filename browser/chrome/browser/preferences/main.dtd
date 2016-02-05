@@ -22,7 +22,7 @@
 
 <!ENTITY downloads.label     "ჩამოტვირთვები">
 
-<!ENTITY saveTo.label "ფაილების შენახვა -">
+<!ENTITY saveTo.label "ფაილების შესანახი მდებარეობა">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "დათვალიერება…">
 <!ENTITY chooseFolderWin.accesskey    "o">
