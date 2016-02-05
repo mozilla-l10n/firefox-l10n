@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY selectAddressWindow.title "Sélection d'adresses">
+<!ENTITY selectAddressWindow.title "Sélection d’adresses">
 
 <!-- Buttons -->
 <!ENTITY toButton.label "Pour ->">

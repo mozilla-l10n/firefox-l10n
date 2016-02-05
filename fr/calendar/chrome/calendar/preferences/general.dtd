@@ -18,7 +18,7 @@
 <!ENTITY pref.timezones.accesskey "C">
 
 <!ENTITY pref.accessibility.label "Accessibilité" >
-<!ENTITY pref.systemcolors.label "Optimiser les couleurs pour l'accessibilité" >
+<!ENTITY pref.systemcolors.label "Optimiser les couleurs pour l’accessibilité" >
 <!ENTITY pref.systemcolors.accesskey "O">
 
 <!ENTITY pref.defaults.label "Valeurs par défaut pour les nouveaux éléments">
@@ -33,10 +33,10 @@
 <!ENTITY pref.default_task_end_of_day.label "Fin de journée">
 <!ENTITY pref.default_task_tomorrow.label "Demain">
 <!ENTITY pref.default_task_next_week.label "La semaine prochaine">
-<!ENTITY pref.default_task_offset_current.label "Par rapport à l'heure actuelle">
+<!ENTITY pref.default_task_offset_current.label "Par rapport à l’heure actuelle">
 <!ENTITY pref.default_task_offset_start.label "Par rapport au début">
-<!ENTITY pref.default_task_offset_next_hour.label "Par rapport à l'heure suivante">
+<!ENTITY pref.default_task_offset_next_hour.label "Par rapport à l’heure suivante">
 
-<!ENTITY pref.calendar.todaypane.agenda.caption "Panneau « Aujourd'hui »">
+<!ENTITY pref.calendar.todaypane.agenda.caption "Panneau « Aujourd’hui »">
 <!ENTITY pref.soondays.label "La section « Prochainement » doit afficher une période de :">
 <!ENTITY pref.soondays.accesskey "P">

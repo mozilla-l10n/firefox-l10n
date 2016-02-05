@@ -6,10 +6,10 @@
 <!ENTITY restorepage.pagetitle      "Voulez-vous restaurer votre session ?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Votre dernière session de &brandShortName; s'est terminée de manière inattendue. Nous sommes sincèrement désolés pour ce désagrément. Vous pouvez restaurer les onglets et fenêtres de votre session précédente, ou démarrer une nouvelle session si ceux-ci ne sont plus nécessaires.">
+<!ENTITY restorepage.issueDesc      "Votre dernière session de &brandShortName; s’est terminée de manière inattendue. Nous sommes sincèrement désolés pour ce désagrément. Vous pouvez restaurer les onglets et fenêtres de votre session précédente, ou démarrer une nouvelle session si ceux-ci ne sont plus nécessaires.">
 <!ENTITY restorepage.remedies       "Si &brandShortName; se ferme à maintes reprises :">
 <!ENTITY restorepage.dueToChrome    "Essayez de désactiver les éventuelles extensions ajoutées récemment depuis la fenêtre des modules complémentaires.">
-<!ENTITY restorepage.dueToContent   "Essayez de restaurer votre session sans la ou les pages que vous soupçonnez d'être à l'origine du problème :">
+<!ENTITY restorepage.dueToContent   "Essayez de restaurer votre session sans la ou les pages que vous soupçonnez d’être à l’origine du problème :">
 
 <!ENTITY restorepage.restoreButton  "Restaurer la session précédente">
 <!ENTITY restorepage.restore.access "R">

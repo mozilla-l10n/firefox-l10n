@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title  "Programme d'amélioration de l'expérience utilisateur de ChatZilla">
+<!ENTITY window.title  "Programme d’amélioration de l’expérience utilisateur de ChatZilla">
 <!ENTITY window.size   "width: 42em;">
 
-<!ENTITY intro.label "Le programme d'amélioration de l'expérience utilisateur de ChatZilla collecte des informations sur la façon dont vous utilisez ChatZilla, sans vous interrompre. Ceci aide les développeurs à identifier les fonctionnalités de ChatZilla à améliorer. Aucune information pour vous identifier ou vous contacter n'est utilisée.">
+<!ENTITY intro.label "Le programme d’amélioration de l’expérience utilisateur de ChatZilla collecte des informations sur la façon dont vous utilisez ChatZilla, sans vous interrompre. Ceci aide les développeurs à identifier les fonctionnalités de ChatZilla à améliorer. Aucune information pour vous identifier ou vous contacter n’est utilisée.">
 
 <!ENTITY groupSend.label       "Envoyer les données suivantes :">
 <!ENTITY sendClient.label      "Quand ChatZilla est ouvert ou fermé">

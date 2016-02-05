@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY doNotDownloadPop3Movemail.label "Pour économiser de l'espace disque, ne pas télécharger :">
-<!ENTITY doNotDownloadNntp.label "Pour économiser de l'espace disque, ne pas télécharger pour utilisation hors connexion :">
-<!ENTITY doNotDownloadImap.label "Pour économiser de l'espace disque, le téléchargement des messages depuis le serveur et la conservation des copies peuvent être restreints par âge et par taille.">
+<!ENTITY doNotDownloadPop3Movemail.label "Pour économiser de l’espace disque, ne pas télécharger :">
+<!ENTITY doNotDownloadNntp.label "Pour économiser de l’espace disque, ne pas télécharger pour utilisation hors connexion :">
+<!ENTITY doNotDownloadImap.label "Pour économiser de l’espace disque, le téléchargement des messages depuis le serveur et la conservation des copies peuvent être restreints par âge et par taille.">
 <!ENTITY allFoldersOffline.label "Conserver les messages de ce compte sur cet ordinateur">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Les messages dont la taille dépasse">
@@ -18,9 +18,9 @@
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Les messages ayant plus de">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement.">
-<!ENTITY retentionCleanupImap.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement. Les copies locales et les originaux sur le serveur distant seront supprimés.">
-<!ENTITY retentionCleanupPop.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, y compris sur le serveur distant.">
+<!ENTITY retentionCleanup.label "Afin de gagner de l’espace disque, les anciens messages peuvent être supprimés définitivement.">
+<!ENTITY retentionCleanupImap.label "Afin de gagner de l’espace disque, les anciens messages peuvent être supprimés définitivement. Les copies locales et les originaux sur le serveur distant seront supprimés.">
+<!ENTITY retentionCleanupPop.label "Afin de gagner de l’espace disque, les anciens messages peuvent être supprimés définitivement, y compris sur le serveur distant.">
 <!ENTITY retentionKeepMsg.label "Supprimer les messages ayant plus de">
 <!ENTITY retentionKeepMsg.accesskey "S">
 <!ENTITY retentionKeepAll.label "Ne supprimer aucun message">
@@ -28,7 +28,7 @@
 <!ENTITY retentionKeepRecent.label "Supprimer tous les messages sauf les">
 <!ENTITY retentionKeepRecent.accesskey "r">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Toujours supprimer les messages lus (outrepasse les paramètres d'âge)">
+<!ENTITY retentionKeepUnreadHidden.label "Toujours supprimer les messages lus (outrepasse les paramètres d’âge)">
 <!ENTITY retentionApplyToFlagged.label "Toujours conserver les messages suivis">
 <!ENTITY retentionApplyToFlagged.accesskey "T">
 <!ENTITY nntpRemoveMsgBody.label "Supprimer les corps des messages de plus de">
@@ -46,7 +46,7 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
  -->
-<!ENTITY allAutosync.label               "Synchroniser tous les messages localement sans critère d'âge">
+<!ENTITY allAutosync.label               "Synchroniser tous les messages localement sans critère d’âge">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Synchroniser les plus récents">
 <!ENTITY ageAutosync.accesskey           "l">

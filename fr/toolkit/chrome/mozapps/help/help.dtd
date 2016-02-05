@@ -10,10 +10,10 @@
 
 <!ENTITY backButton.label               "Précédente">
 <!ENTITY backButton.accesskey           "d">
-<!ENTITY backButton.tooltip             "Reculer d'une page">
+<!ENTITY backButton.tooltip             "Reculer d’une page">
 <!ENTITY forwardButton.label            "Suivante">
 <!ENTITY forwardButton.accesskey        "S">
-<!ENTITY forwardButton.tooltip          "Avancer d'une page">
+<!ENTITY forwardButton.tooltip          "Avancer d’une page">
 <!ENTITY copyCmd.label                  "Copier">
 <!ENTITY copyCmd.accesskey              "C">
 <!ENTITY selectAllCmd.label             "Tout sélectionner">
@@ -21,7 +21,7 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Accueil">
-<!ENTITY homeButton.tooltip             "Aller à la page d'accueil de l'aide">
+<!ENTITY homeButton.tooltip             "Aller à la page d’accueil de l’aide">
 <!ENTITY printButton.label              "Imprimer">
 <!ENTITY printButton.tooltip            "Imprimer cette page">
 <!ENTITY closeWindow.commandkey         "W">

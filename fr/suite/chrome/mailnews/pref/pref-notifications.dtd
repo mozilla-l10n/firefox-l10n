@@ -17,11 +17,11 @@
 
 <!ENTITY showAlertPreviewText.label       "Afficher un aperçu du texte du message">
 <!ENTITY showAlertPreviewText.accesskey   "x">
-<!ENTITY showAlertSubject.label           "Afficher l'objet">
+<!ENTITY showAlertSubject.label           "Afficher l’objet">
 <!ENTITY showAlertSubject.accesskey       "b">
-<!ENTITY showAlertSender.label            "Afficher l'expéditeur">
+<!ENTITY showAlertSender.label            "Afficher l’expéditeur">
 <!ENTITY showAlertSender.accesskey        "f">
-<!ENTITY useSystemAlert.label             "Utiliser les notifications du système d'exploitation">
+<!ENTITY useSystemAlert.label             "Utiliser les notifications du système d’exploitation">
 <!ENTITY useSystemAlert.accesskey         "d">
 <!ENTITY useBuiltInAlert.label            "Utiliser les notifications de &brandShortName;">
 <!ENTITY useBuiltInAlert.accesskey        "t">
@@ -30,7 +30,7 @@
 <!ENTITY showTrayIcon.accesskey           "e">
 <!ENTITY showBalloon.label                "Afficher une notification système">
 <!ENTITY showBalloon.accesskey            "h">
-<!ENTITY bounceSystemDockIcon.label       "Animer l'icône du Dock">
+<!ENTITY bounceSystemDockIcon.label       "Animer l’icône du Dock">
 <!ENTITY bounceSystemDockIcon.accesskey   "D">
 
 <!ENTITY playSound.label                  "Jouer un son">

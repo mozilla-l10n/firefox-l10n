@@ -4,11 +4,11 @@
 
 <!ENTITY pref.mailnews.title "Courrier et Groupes de discussion">
 <!ENTITY generalSettings.caption "Paramètres généraux">
-<!ENTITY confirmMove.label "Demander une confirmation lors du déplacement d'un dossier dans la corbeille.">
+<!ENTITY confirmMove.label "Demander une confirmation lors du déplacement d’un dossier dans la corbeille.">
 <!ENTITY confirmMove.accesskey "D">
 <!ENTITY preserveThreading.label "Préserver les discussions lors du tri des messages">
 <!ENTITY preserveThreading.accesskey "P">
-<!ENTITY mailBiffOnNewWindow.label "Ne vérifier que les nouveaux courriels lors de l'ouverture de Courrier et Groupes de discussion">
+<!ENTITY mailBiffOnNewWindow.label "Ne vérifier que les nouveaux courriels lors de l’ouverture de Courrier et Groupes de discussion">
 <!ENTITY mailBiffOnNewWindow.accesskey "N">
 
 <!ENTITY defaultMailSettings.description "Utiliser &brandShortName; Courrier et Groupes comme application par défaut pour :">

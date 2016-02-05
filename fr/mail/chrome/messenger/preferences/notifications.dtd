@@ -5,7 +5,7 @@
 <!ENTITY notificationsDialog2.title       "Personnaliser les alertes pour un nouveau message">
 <!ENTITY window.width                     "32em">
 
-<!ENTITY alertCustomization.intro         "Choisir les champs à afficher dans la notification d'alerte :">
+<!ENTITY alertCustomization.intro         "Choisir les champs à afficher dans la notification d’alerte :">
 <!ENTITY previewText.label                "Prévisualisation du message">
 <!ENTITY previewText.accesskey            "P">
 <!ENTITY subject.label                    "Sujet">
@@ -19,6 +19,6 @@ is displayed at the end of the line. The translations of the
 totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
 the exact same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  totalOpenTimeBefore.label       "Afficher l'alerte de nouveau message pendant">
+<!ENTITY  totalOpenTimeBefore.label       "Afficher l’alerte de nouveau message pendant">
 <!ENTITY  totalOpenTimeBefore.accesskey   "A">
 <!ENTITY  totalOpenTimeEnd.label          "secondes">

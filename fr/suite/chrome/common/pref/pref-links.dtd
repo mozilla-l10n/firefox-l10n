@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY linksHeader.label "Liens">
-<!ENTITY newWindow.label "Comportement d'ouverture des liens">
-<!ENTITY newWindowDescription.label "Forcer les liens ouvrant une nouvelle fenêtre à s'ouvrir dans :">
-<!ENTITY newWindowRestriction.label "Lorsqu'un script veut ouvrir une nouvelle fenêtre :">
-<!ENTITY external.label "Liens provenant d'autres applications">
-<!ENTITY externalDescription.label "Ouvrir les liens provenant d'autres applications dans :">
+<!ENTITY newWindow.label "Comportement d’ouverture des liens">
+<!ENTITY newWindowDescription.label "Forcer les liens ouvrant une nouvelle fenêtre à s’ouvrir dans :">
+<!ENTITY newWindowRestriction.label "Lorsqu’un script veut ouvrir une nouvelle fenêtre :">
+<!ENTITY external.label "Liens provenant d’autres applications">
+<!ENTITY externalDescription.label "Ouvrir les liens provenant d’autres applications dans :">
 
 <!ENTITY openCurrent.label "Le même onglet/la même fenêtre que le lien">
 <!ENTITY newWindowGroupCurrent.accesskey "L">
@@ -21,9 +21,9 @@
 <!ENTITY newWindowGroupWindow.accesskey "v">
 <!ENTITY externalGroupWindow.accesskey "f">
 
-<!ENTITY divertAll.label "Toujours forcer l'affichage des fenêtres dans des onglets">
+<!ENTITY divertAll.label "Toujours forcer l’affichage des fenêtres dans des onglets">
 <!ENTITY divertAll.accesskey "T">
-<!ENTITY divertNoFeatures.label "Ne pas forcer l'affichage des fenêtres dans des onglets">
+<!ENTITY divertNoFeatures.label "Ne pas forcer l’affichage des fenêtres dans des onglets">
 <!ENTITY divertNoFeatures.accesskey "p">
 <!ENTITY dontDivert.label "Toujours ouvrir de nouvelles fenêtres">
 <!ENTITY dontDivert.accesskey "o">

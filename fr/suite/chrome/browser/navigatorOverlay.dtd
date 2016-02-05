@@ -26,11 +26,11 @@
 <!ENTITY findOnCmd.label "Rechercher dans la page…">
 
 <!-- View Menu -->
-<!ENTITY toolbarsCmd.label "Barres d'outils">
+<!ENTITY toolbarsCmd.label "Barres d’outils">
 <!ENTITY toolbarsCmd.accesskey "t">
 <!ENTITY tabbarCmd.label "Barre des onglets">
 <!ENTITY tabbarCmd.accesskey "o">
-<!ENTITY taskbarCmd.label "Barre d'état">
+<!ENTITY taskbarCmd.label "Barre d’état">
 <!ENTITY taskbarCmd.accesskey "t">
 <!ENTITY componentbarCmd.label "Barre des composants">
 <!ENTITY componentbarCmd.accesskey "c">
@@ -69,7 +69,7 @@
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Restaurer la session précédente">
 <!ENTITY historyRestoreLastSession.accesskey "t">
-<!ENTITY syncTabsMenu.label "Onglets d'autres ordinateurs">
+<!ENTITY syncTabsMenu.label "Onglets d’autres ordinateurs">
 <!ENTITY syncTabsMenu.accesskey "O">
 
 <!-- Bookmarks Menu -->
@@ -80,7 +80,7 @@
 <!ENTITY addCurPageAsCmd.label "Classer cette page…">
 <!ENTITY addCurPageAsCmd.accesskey "C">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Marquer ce groupe d'onglets…">
+<!ENTITY addCurTabsAsCmd.label "Marquer ce groupe d’onglets…">
 <!ENTITY addCurTabsAsCmd.accesskey "g">
 <!ENTITY manBookmarksCmd.label "Organiser les marque-pages…">
 <!ENTITY manBookmarksCmd.accesskey "O">

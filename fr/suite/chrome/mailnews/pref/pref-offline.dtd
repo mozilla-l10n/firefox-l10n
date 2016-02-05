@@ -9,8 +9,8 @@
 <!ENTITY pref.offline.caption "Hors connexion">
 <!ENTITY textStartUp "Au lancement :">
 <!ENTITY textStartUp.accesskey "c">
-<!ENTITY menuitemRememberPrevState "Reprendre l'état de connexion précédent">
-<!ENTITY menuitemAskMe "Me demander l'état de connexion voulu au lancement">
+<!ENTITY menuitemRememberPrevState "Reprendre l’état de connexion précédent">
+<!ENTITY menuitemAskMe "Me demander l’état de connexion voulu au lancement">
 <!ENTITY menuitemAlwaysOnline "Toujours démarrer en mode en ligne">
 <!ENTITY menuitemAlwaysOffline "Toujours démarrer en mode hors connexion">
 <!ENTITY menuitemAutomatic "Détecter automatiquement (si disponible)">
@@ -29,7 +29,7 @@
 <!ENTITY radioAskDownload "Me demander">
 <!ENTITY radioAskDownload.accesskey "e">
 <!ENTITY mailConnections.caption "Connexions messagerie">
-<!ENTITY mailnewsTimeout.label "Délai d'attente de connexion :">
+<!ENTITY mailnewsTimeout.label "Délai d’attente de connexion :">
 <!ENTITY mailnewsTimeout.accesskey "D">
 <!ENTITY mailnewsTimeoutSeconds.label "secondes">
 <!ENTITY Diskspace "Espace disque">

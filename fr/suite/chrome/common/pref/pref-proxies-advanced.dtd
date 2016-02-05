@@ -21,7 +21,7 @@
 
 
 <!ENTITY  socks.caption "Proxy générique">
-<!ENTITY  socks.description  "Un proxy SOCKS est un proxy générique utilisé parfois dans les environnements d'entreprise ou similaires.">
+<!ENTITY  socks.description  "Un proxy SOCKS est un proxy générique utilisé parfois dans les environnements d’entreprise ou similaires.">
 <!ENTITY  socks.label "Hôte SOCKS :">
 <!ENTITY  socks.accesskey "C">
 <!ENTITY  socks4.label "SOCKS v4">

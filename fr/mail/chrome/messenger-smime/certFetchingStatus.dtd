@@ -5,5 +5,5 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
 <!ENTITY title.label "Téléchargement des certificats">
-<!ENTITY info.message "Recherche dans l'annuaire des certificats des destinataires. Cette opération peut prendre quelques minutes.">
+<!ENTITY info.message "Recherche dans l’annuaire des certificats des destinataires. Cette opération peut prendre quelques minutes.">
 <!ENTITY stop.label "Arrêter la recherche">

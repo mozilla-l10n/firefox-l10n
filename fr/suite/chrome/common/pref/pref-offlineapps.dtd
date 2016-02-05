@@ -15,7 +15,7 @@
 <!ENTITY offlineAlwaysAllow.accesskey       "A">
 <!ENTITY offlineExplicit.label              "Autoriser uniquement les sites grâce à des permissions explicites">
 <!ENTITY offlineExplicit.accesskey          "u">
-<!ENTITY offlineNotifyAsk.label             "M'avertir lorsqu'un site souhaite conserver des données pour une utilisation hors connexion">
+<!ENTITY offlineNotifyAsk.label             "M’avertir lorsqu’un site souhaite conserver des données pour une utilisation hors connexion">
 <!ENTITY offlineNotifyAsk.accesskey         "M">
 <!ENTITY offlineNotifyPermissions.label     "Gérer les permissions">
 <!ENTITY offlineNotifyPermissions.accesskey "G">

@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Assistant d'importation">
+<!ENTITY migrationWizard.title          "Assistant d’importation">
 
-<!ENTITY importFromWin.label            "Importer les options, paramètres des comptes, carnet d'adresses, filtres et les autres données depuis :">
-<!ENTITY importFromNonWin.label         "Importer les préférences, paramètres des comptes, carnet d'adresses, filtres et les autres données depuis :">
+<!ENTITY importFromWin.label            "Importer les options, paramètres des comptes, carnet d’adresses, filtres et les autres données depuis :">
+<!ENTITY importFromNonWin.label         "Importer les préférences, paramètres des comptes, carnet d’adresses, filtres et les autres données depuis :">
 
 <!ENTITY importFromNothing.label        "Ne rien importer">
 <!ENTITY importFromNothing.accesskey    "N">
@@ -24,10 +24,10 @@
 <!ENTITY importItems.label              "Sélectionnez les éléments à importer :">
 
 <!ENTITY migrating.title                "Importation…">
-<!ENTITY migrating.label                "Les éléments suivants sont en cours d'importation…">
+<!ENTITY migrating.label                "Les éléments suivants sont en cours d’importation…">
 
 <!ENTITY selectProfile.title            "Sélectionnez le profil">
-<!ENTITY selectProfile.label            "Les profils suivants sont disponibles à l'importation :">
+<!ENTITY selectProfile.label            "Les profils suivants sont disponibles à l’importation :">
 
 <!ENTITY done.title                     "Importation terminée">
 <!ENTITY done.label                     "Les éléments suivants ont été importés avec succès :">

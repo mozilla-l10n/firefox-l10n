@@ -89,7 +89,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Afficher seulement les messages des personnes présentes dans mon carnet d'adresses.">
+         "Afficher seulement les messages des personnes présentes dans mon carnet d’adresses.">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only

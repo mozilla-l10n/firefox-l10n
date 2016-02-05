@@ -30,5 +30,5 @@
 <!ENTITY appModeAutoAddonWarn.label           "Avertir si cela désactive des modules complémentaires">
 <!ENTITY appModeAutoAddonWarn.accesskey       "e">
 
-<!ENTITY updateHistoryButton.label            "Afficher l'historique des mises à jour…">
+<!ENTITY updateHistoryButton.label            "Afficher l’historique des mises à jour…">
 <!ENTITY updateHistoryButton.accesskey        "h">

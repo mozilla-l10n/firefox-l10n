@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizeDialog2.title         "Supprimer l'historique récent">
+<!ENTITY sanitizeDialog2.title         "Supprimer l’historique récent">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
@@ -12,7 +12,7 @@
 <!ENTITY clearTimeDuration.lastHour       "la dernière heure">
 <!ENTITY clearTimeDuration.last2Hours     "les deux dernières heures">
 <!ENTITY clearTimeDuration.last4Hours     "les quatre dernières heures">
-<!ENTITY clearTimeDuration.today          "aujourd'hui">
+<!ENTITY clearTimeDuration.today          "aujourd’hui">
 <!ENTITY clearTimeDuration.everything     "tout">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->

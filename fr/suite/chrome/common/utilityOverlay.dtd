@@ -63,7 +63,7 @@
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T">
-<!ENTITY clearHistoryCmd.label "Effacer l'historique de recherche">
+<!ENTITY clearHistoryCmd.label "Effacer l’historique de recherche">
 <!ENTITY clearHistoryCmd.accesskey "E">
 <!ENTITY showSuggestionsCmd.label "Afficher les suggestions">
 <!ENTITY showSuggestionsCmd.accesskey "h">
@@ -91,9 +91,9 @@
 
 <!ENTITY viewMenu.label "Affichage">
 <!ENTITY viewMenu.accesskey "A">
-<!ENTITY viewToolbarsMenu.label "Barres d'outils">
+<!ENTITY viewToolbarsMenu.label "Barres d’outils">
 <!ENTITY viewToolbarsMenu.accesskey "t">
-<!ENTITY showTaskbarCmd.label "Barre d'état">
+<!ENTITY showTaskbarCmd.label "Barre d’état">
 <!ENTITY showTaskbarCmd.accesskey "B">
 
 <!ENTITY helpMenu.label "Aide">
@@ -133,7 +133,7 @@
 <!ENTITY customizeToolbarContext.label "Personnaliser…">
 <!ENTITY customizeToolbarContext.accesskey "P">
 
-<!ENTITY customizeToolbar.toolbarmode.label       "Paramètres pour cette barre d'outils">
+<!ENTITY customizeToolbar.toolbarmode.label       "Paramètres pour cette barre d’outils">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "P">
 <!ENTITY customizeToolbar.iconsAndText.label      "Icônes et texte">
 <!ENTITY customizeToolbar.iconsAndText.accesskey  "I">

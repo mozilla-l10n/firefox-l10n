@@ -14,4 +14,4 @@
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Nouvelle page, pas encore enregistrée]">
 <!ENTITY EditHEADSource1.label "Utilisateurs avancés :">
-<!ENTITY EditHEADSource2.label "Pour modifier d'autres contenus de la section &lt;head&gt;, utilisez « Source HTML » dans le menu « Affichage » ou choisissez le mode « Source » dans la barre des modes d'édition.">
+<!ENTITY EditHEADSource2.label "Pour modifier d’autres contenus de la section &lt;head&gt;, utilisez « Source HTML » dans le menu « Affichage » ou choisissez le mode « Source » dans la barre des modes d’édition.">

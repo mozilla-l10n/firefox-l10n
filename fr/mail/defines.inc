@@ -1,6 +1,6 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR L'équipe FrenchMozilla
+#define MOZ_LANGPACK_CREATOR L’équipe FrenchMozilla
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.

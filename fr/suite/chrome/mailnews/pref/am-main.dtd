@@ -8,7 +8,7 @@
 <!ENTITY accountName.label "Nom du compte :">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Identité par défaut">
-<!ENTITY identityDesc.label "Chaque compte dispose d'informations sur l'expéditeur qui sont systématiquement transmises avec les messages. Elles vous identifient auprès de vos destinataires.">
+<!ENTITY identityDesc.label "Chaque compte dispose d’informations sur l’expéditeur qui sont systématiquement transmises avec les messages. Elles vous identifient auprès de vos destinataires.">
 <!ENTITY name.label "Votre nom :">
 <!ENTITY name.accesskey "V">
 <!ENTITY email.label "Adresse électronique :">
@@ -22,7 +22,7 @@
 <!ENTITY signatureText.accesskey "x">
 <!ENTITY signatureHtml.label "Utiliser HTML">
 <!ENTITY signatureHtml.accesskey "U">
-<!ENTITY signatureFile.label "Apposer la signature à partir d'un fichier :">
+<!ENTITY signatureFile.label "Apposer la signature à partir d’un fichier :">
 <!ENTITY signatureFile.accesskey "h">
 <!ENTITY choose.label "Choisir…">
 <!ENTITY choose.accesskey "C">

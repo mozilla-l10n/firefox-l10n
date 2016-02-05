@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY menuBar.tooltip       "Barre de menu">
-<!ENTITY modeToolbar.tooltip   "Barre d'outils des modes d'affichage">
-<!ENTITY entryToolbar.tooltip  "Barre d'outils d'entrée JavaScript">
-<!ENTITY toolbarsCmd.label     "Barres d'outils">
+<!ENTITY modeToolbar.tooltip   "Barre d’outils des modes d’affichage">
+<!ENTITY entryToolbar.tooltip  "Barre d’outils d’entrée JavaScript">
+<!ENTITY toolbarsCmd.label     "Barres d’outils">
 <!ENTITY toolbarsCmd.accesskey "t">
-<!ENTITY toolbarMode.label     "Modes d'affichage">
+<!ENTITY toolbarMode.label     "Modes d’affichage">
 <!ENTITY toolbarMode.accesskey "M">
 <!ENTITY toolbarEval.label     "Entrée JavaScript">
 <!ENTITY toolbarEval.accesskey "J">

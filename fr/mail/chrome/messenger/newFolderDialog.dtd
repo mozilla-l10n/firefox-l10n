@@ -9,7 +9,7 @@
 <!ENTITY name.accesskey             "n">
 <!ENTITY description.label          "Créer comme sous-dossier de :">
 <!ENTITY description.accesskey      "C">
-<!ENTITY folderRestriction1.label   "Ce serveur n'accepte que deux types spéciaux de dossier.">
+<!ENTITY folderRestriction1.label   "Ce serveur n’accepte que deux types spéciaux de dossier.">
 <!ENTITY folderRestriction2.label   "Permettre à votre nouveau dossier de contenir :">
 <!ENTITY foldersOnly.label          "des dossiers seulement">
 <!ENTITY messagesOnly.label         "des messages seulement">

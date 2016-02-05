@@ -16,5 +16,5 @@
 <!ENTITY browseWithCaretUse.accesskey "U">
 <!ENTITY browseWithCaretShortCut.label "Utilisez le raccourci F7 pour activer ou désactiver la navigation au curseur">
 <!ENTITY browseWithCaretShortCut.accesskey "F">
-<!ENTITY browseWithCaretWarn.label "Avertir avant d'activer la navigation au curseur">
+<!ENTITY browseWithCaretWarn.label "Avertir avant d’activer la navigation au curseur">
 <!ENTITY browseWithCaretWarn.accesskey "v">

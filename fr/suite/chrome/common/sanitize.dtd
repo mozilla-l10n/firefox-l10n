@@ -7,7 +7,7 @@
 
 <!ENTITY itemHistory.label               "Historique de navigation">
 <!ENTITY itemHistory.accesskey           "n">
-<!ENTITY itemUrlBar.label                "Historique de la barre d'adresse">
+<!ENTITY itemUrlBar.label                "Historique de la barre d’adresse">
 <!ENTITY itemUrlBar.accesskey            "a">
 <!ENTITY itemDownloads.label             "Historique de téléchargement">
 <!ENTITY itemDownloads.accesskey         "t">
@@ -21,7 +21,7 @@
 <!ENTITY itemOfflineApps.accesskey       "D">
 <!ENTITY itemPasswords.label             "Mots de passe enregistrés">
 <!ENTITY itemPasswords.accesskey         "M">
-<!ENTITY itemSessions.label              "Sessions d'identification">
+<!ENTITY itemSessions.label              "Sessions d’identification">
 <!ENTITY itemSessions.accesskey          "S">
 
 <!ENTITY sanitizeButton.label            "Effacer mes traces maintenant">

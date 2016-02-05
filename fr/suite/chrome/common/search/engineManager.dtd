@@ -19,7 +19,7 @@
 <!ENTITY  edit.label                "Modifier le mot-clé…">
 <!ENTITY  edit.accesskey            "o">
 
-<!ENTITY  addEngine.label           "Obtenir d'autres moteurs de recherche…">
+<!ENTITY  addEngine.label           "Obtenir d’autres moteurs de recherche…">
 <!ENTITY  addEngine.accesskey       "b">
 
 <!ENTITY  enableSuggest.label       "Afficher les suggestions de recherche">

@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Création d'un compte courrier">
+<!ENTITY autoconfigWizard.title          "Création d’un compte courrier">
 <!ENTITY name.label                      "Votre nom complet :">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Prénom Nom">
-<!ENTITY name.text                       "Votre nom, tel qu'il s'affichera">
+<!ENTITY name.text                       "Votre nom, tel qu’il s’affichera">
 <!ENTITY email.label                     "Adresse électronique :">
 <!ENTITY email.accesskey                 "A">
 <!ENTITY email.placeholder               "adresse@exemple.com">
 <!ENTITY password.label                  "Mot de passe :">
 <!ENTITY password.accesskey              "M">
 <!ENTITY password.placeholder            "Mot de passe">
-<!ENTITY password.text                   "Optionnel, ne sera utilisé que pour valider l'identifiant">
+<!ENTITY password.text                   "Optionnel, ne sera utilisé que pour valider l’identifiant">
 <!ENTITY rememberPassword.label          "Retenir le mot de passe">
 <!ENTITY rememberPassword.accesskey      "s">
 
@@ -23,7 +23,7 @@
 <!ENTITY incoming.label                  "Serveur entrant :">
 <!ENTITY outgoing.label                  "Serveur sortant :">
 <!ENTITY username.label                  "Identifiant :">
-<!ENTITY hostname.label                  "Nom d'hôte du serveur">
+<!ENTITY hostname.label                  "Nom d’hôte du serveur">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Authentification">
@@ -78,11 +78,11 @@
 <!ENTITY changeSettings.label            "Modifier les paramètres">
 <!ENTITY changeSettings.accesskey        "M">
 
-<!ENTITY contactYourProvider.description "&brandShortName; vous laissera accéder à vos courriels en utilisant les configurations fournies. Cependant, vous devriez vraiment contacter votre administrateur ou votre fournisseur de messagerie concernant ces connexions incorrectes. Consultez la FAQ de &brandShortName; pour plus d'informations.">
+<!ENTITY contactYourProvider.description "&brandShortName; vous laissera accéder à vos courriels en utilisant les configurations fournies. Cependant, vous devriez vraiment contacter votre administrateur ou votre fournisseur de messagerie concernant ces connexions incorrectes. Consultez la FAQ de &brandShortName; pour plus d’informations.">
 
-<!ENTITY insecureServer.tooltip.title    "Attention ! Ce serveur n'est pas sécurisé.">
+<!ENTITY insecureServer.tooltip.title    "Attention ! Ce serveur n’est pas sécurisé.">
 <!ENTITY insecureServer.tooltip.details  "Cliquez sur le cercle pour plus de détails.">
 
-<!ENTITY insecureUnencrypted.description   "Votre courriel et vos identifiants sont envoyés sans chiffrement. Par conséquent, votre mot de passe (et votre message) peuvent facilement être lus par d'autres personnes sur Internet. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
-<!ENTITY insecureSelfSigned.description  "Le serveur utilise un certificat que nous ne pouvons éprouver donc nous ne pouvons pas être sûrs que quelqu'un n'intercepte pas le trafic entre &brandShortName; et votre serveur. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec un certificat éprouvé.">
+<!ENTITY insecureUnencrypted.description   "Votre courriel et vos identifiants sont envoyés sans chiffrement. Par conséquent, votre mot de passe (et votre message) peuvent facilement être lus par d’autres personnes sur Internet. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
+<!ENTITY insecureSelfSigned.description  "Le serveur utilise un certificat que nous ne pouvons éprouver donc nous ne pouvons pas être sûrs que quelqu’un n’intercepte pas le trafic entre &brandShortName; et votre serveur. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec un certificat éprouvé.">
 <!ENTITY secureServer.description        "Bravo ! Ce serveur est sécurisé.">

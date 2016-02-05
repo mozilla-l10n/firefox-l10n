@@ -16,7 +16,7 @@
 
 <!ENTITY introStart.label "Pour accéder à votre profil personnel, qui contient vos messages stockés, vos réglages et autres informations personnalisées, veuillez choisir votre profil dans la liste et cliquez sur &start.label; pour commencer votre session.">
 <!ENTITY introSwitch.label "Pour basculer vers un autre profil, qui contient les messages stockés, les réglages et autres informations personnalisées, veuillez choisir ce profil dans la liste et cliquez sur &select.label; pour commencer à utiliser ce profil.">
-<!ENTITY profileManagerText.label "&brandShortName; stocke vos réglages, préférences, marque-pages, courriers et autres informations personnelles dans votre profil d'utilisateur.">
+<!ENTITY profileManagerText.label "&brandShortName; stocke vos réglages, préférences, marque-pages, courriers et autres informations personnelles dans votre profil d’utilisateur.">
 
 <!ENTITY autoSelect.label         "Utiliser par défaut le profil sélectionné">
 <!ENTITY autoSelect.accesskey     "U">

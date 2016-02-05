@@ -15,7 +15,7 @@
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "Enregistrer sous…">
 <!ENTITY saveAsCmd.accesskey "u">
-<!ENTITY saveAsChangeEncodingCmd2.label "Enregistrer en modifiant l'encodage du texte…">
+<!ENTITY saveAsChangeEncodingCmd2.label "Enregistrer en modifiant l’encodage du texte…">
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "r">
 <!ENTITY publishCmd.label "Publier">
 <!ENTITY publishCmd.accesskey "P">

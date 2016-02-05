@@ -18,8 +18,8 @@
 <!ENTITY search_pref_button_content_description 'Paramètres'>
 
 <!ENTITY pref_clearHistory_confirmation 'Historique effacé'>
-<!ENTITY pref_clearHistory_dialogMessage 'Supprimer l\u0027ensemble de l\u0027historique de recherche de cet appareil ?'>
-<!ENTITY pref_clearHistory_title 'Effacer l\u0027historique de recherche'>
+<!ENTITY pref_clearHistory_dialogMessage 'Supprimer l’ensemble de l’historique de recherche de cet appareil ?'>
+<!ENTITY pref_clearHistory_title 'Effacer l’historique de recherche'>
 
 <!ENTITY pref_searchProvider_title 'Moteur de recherche'>
 

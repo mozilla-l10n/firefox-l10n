@@ -7,12 +7,12 @@
 <!ENTITY generalInfo.label                       "Informations générales">
 <!ENTITY folderCharsetFallback2.label            "Encodage de texte de dernier recours :">
 <!ENTITY folderCharsetFallback2.accesskey        "E">
-<!ENTITY folderCharsetEnforce2.label             "Appliquer l'encodage à tous les messages du dossier (ignorer l'auto-détection ainsi que l'encodage spécifique par message)">
+<!ENTITY folderCharsetEnforce2.label             "Appliquer l’encodage à tous les messages du dossier (ignorer l’auto-détection ainsi que l’encodage spécifique par message)">
 <!ENTITY folderCharsetEnforce2.accesskey         "A">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruit l'index du dossier">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruit l’index du dossier">
 <!ENTITY folderRebuildSummaryFile2.label         "Réparer le dossier">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Parfois, le fichier d'index (.msf) du dossier est endommagé et les messages peuvent paraître manquants ou les fichiers supprimés toujours visibles ; réparer le dossier peut corriger ces problèmes.">
+<!ENTITY folderRebuildSummaryFile.explanation    "Parfois, le fichier d’index (.msf) du dossier est endommagé et les messages peuvent paraître manquants ou les fichiers supprimés toujours visibles ; réparer le dossier peut corriger ces problèmes.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Inclure les messages de ce dossier dans les résultats de recherche globale">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
 
@@ -21,9 +21,9 @@
 <!ENTITY retentionUseAccount.accesskey           "m">
 <!ENTITY daysOld.label "jours">
 <!ENTITY message.label "messages les plus récents">
-<!ENTITY retentionCleanup.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement.">
-<!ENTITY retentionCleanupImap.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement. Les copies locales et les originaux sur le serveur distant seront supprimés.">
-<!ENTITY retentionCleanupPop.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, y compris sur le serveur distant.">
+<!ENTITY retentionCleanup.label "Afin de gagner de l’espace disque, les anciens messages peuvent être supprimés définitivement.">
+<!ENTITY retentionCleanupImap.label "Afin de gagner de l’espace disque, les anciens messages peuvent être supprimés définitivement. Les copies locales et les originaux sur le serveur distant seront supprimés.">
+<!ENTITY retentionCleanupPop.label "Afin de gagner de l’espace disque, les anciens messages peuvent être supprimés définitivement, y compris sur le serveur distant.">
 <!ENTITY retentionDeleteMsg.label "Supprimer les messages ayant plus de">
 <!ENTITY retentionDeleteMsg.accesskey "u">
 <!ENTITY retentionKeepAll.label "Ne supprimer aucun message">
@@ -31,7 +31,7 @@
 <!ENTITY retentionKeepRecent.label "Supprimer tous les messages sauf les">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Toujours supprimer les messages lus (outrepasse les paramètres d'âge)">
+<!ENTITY retentionKeepUnreadHidden.label "Toujours supprimer les messages lus (outrepasse les paramètres d’âge)">
 <!ENTITY retentionApplyToFlagged.label "Toujours conserver les messages suivis">
 <!ENTITY retentionApplyToFlagged.accesskey "o">
 

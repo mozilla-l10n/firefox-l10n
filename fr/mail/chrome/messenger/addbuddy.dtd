@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addBuddyWindow.title "Ajouter un contact">
-<!ENTITY name.label "Nom d'utilisateur">
+<!ENTITY name.label "Nom d’utilisateur">
 <!ENTITY account.label "Compte">

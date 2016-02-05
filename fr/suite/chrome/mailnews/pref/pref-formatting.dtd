@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY pref.formatting.title "Options d'expédition">
-<!ENTITY sendMaildesc.label "Lors de l'expédition d'un courrier en HTML à un destinataire ne figurant pas dans la liste de ceux pouvant recevoir du HTML :">
+<!ENTITY pref.formatting.title "Options d’expédition">
+<!ENTITY sendMaildesc.label "Lors de l’expédition d’un courrier en HTML à un destinataire ne figurant pas dans la liste de ceux pouvant recevoir du HTML :">
 <!ENTITY askMe.label "Me demander de choisir">
 <!ENTITY askMe.accesskey "M">
 <!ENTITY convertPlain.label "Convertir au format texte simple">
@@ -11,11 +11,11 @@
 <!ENTITY sendHTML.accesskey "E">
 <!ENTITY sendBoth.label "Envoyer aux formats texte et HTML">
 <!ENTITY sendBoth.accesskey "n">
-<!ENTITY override.label "Vous pouvez forcer ces paramètres lors de l'envoi de chaque message dans le menu Préférences de la fenêtre de composition.">
+<!ENTITY override.label "Vous pouvez forcer ces paramètres lors de l’envoi de chaque message dans le menu Préférences de la fenêtre de composition.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title "Domaines HTML et texte simple">
-<!ENTITY domaindesc.label "Vous pouvez séparer les noms de domaines qui peuvent recevoir des messages en HTML de ceux qui n'en recevront qu'en texte simple. Quand vous enverrez un courrier vers un de ces domaines, il sera automatiquement converti au bon format (HTML ou texte simple).">
+<!ENTITY domaindesc.label "Vous pouvez séparer les noms de domaines qui peuvent recevoir des messages en HTML de ceux qui n’en recevront qu’en texte simple. Quand vous enverrez un courrier vers un de ces domaines, il sera automatiquement converti au bon format (HTML ou texte simple).">
 <!ENTITY HTMLdomaintitle.label "Domaines HTML">
 <!ENTITY HTMLdomaintitle.accesskey "H">
 <!ENTITY PlainTexttitle.label "Domaines texte simple">
@@ -35,4 +35,4 @@
 
 <!ENTITY domainnameError.title "Erreur de nom de domaine">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY invalidEntryError.label "Le nom de domaine @string@ est invalide et sera ignoré. Les noms de domaine valides doivent contenir au moins un « . » et des caractères de part et d'autre.">
+<!ENTITY invalidEntryError.label "Le nom de domaine @string@ est invalide et sera ignoré. Les noms de domaine valides doivent contenir au moins un « . » et des caractères de part et d’autre.">

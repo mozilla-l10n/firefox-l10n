@@ -5,7 +5,7 @@
     <meta http-equiv="content-type" content="text/html; charset=$report-charset">
     <link rel="stylesheet" href="$css" type="text/css" media="screen">
 
-    <title>Syst&egrave;me d'aide de Venkman</title>
+    <title>Syst&egrave;me d’aide de Venkman</title>
     <script>
       function onLoad ()
       {
@@ -97,24 +97,24 @@
     <div id="help-menu">
       <span class="newbie-help">
         <p>
-          Bienvenue dans le <b>Syst&egrave;me d'aide de Venkman</b>.  Vous trouverez ici 
-          de l'aide sur les diff&eacute;rentes commandes de Venkman.  Pour trouver une
+          Bienvenue dans le <b>Syst&egrave;me d’aide de Venkman</b>.  Vous trouverez ici 
+          de l’aide sur les diff&eacute;rentes commandes de Venkman.  Pour trouver une
           commande particuli&egrave;re, entrez votre requ&ecirc;te dans le champ ci-dessous et 
           cliquez sur <b>Go</b> ou appuyez sur <b>Entrer</b>.
         <p>
-          De l'aide suppl&eacute;mentaire est disponible sur la
-          <a href="http://www.mozilla.org/projects/venkman/">Page d'accueil de Venkman</a>
+          De l’aide suppl&eacute;mentaire est disponible sur la
+          <a href="http://www.mozilla.org/projects/venkman/">Page d’accueil de Venkman</a>
           ou la
           <a href="http://www.hacksrus.com/~ginda/venkman/faq/venkman-faq.html">FAQ de Venkman</a>.
       </span>
       <span class="newbie-help">
         Les cases &agrave; cocher permettent de cibler votre recherche&hellip;
         <ul>
-          <li><b>Noms des commandes</b> renvoit le nom de la commande, comme vous l'entrez
+          <li><b>Noms des commandes</b> renvoit le nom de la commande, comme vous l’entrez
             dans la <b>session interactive</b>.
-          <li><b>&Eacute;tiquette de l'interface utilisateur</b> correspond &agrave; l'&eacute;tiquette utilis&eacute;e quand la
-            commande appara&icirc;t dans le <b>menu</b> ou le <b>bouton de la barre d'outils</b>.
-          <li><b>Descriptions</b> correspond au corps du texte de l'aide.
+          <li><b>&Eacute;tiquette de l’interface utilisateur</b> correspond &agrave; l’&eacute;tiquette utilis&eacute;e quand la
+            commande appara&icirc;t dans le <b>menu</b> ou le <b>bouton de la barre d’outils</b>.
+          <li><b>Descriptions</b> correspond au corps du texte de l’aide.
         </ul>
       </span>
       <p class="search-input">
@@ -125,7 +125,7 @@
         <label for="command-names">Noms des commandes</label>
 
         <input type="checkbox" id="ui-labels" value="1">
-        <label for="ui-labels">&Eacute;tiquette de l'interface utilisateur</label>
+        <label for="ui-labels">&Eacute;tiquette de l’interface utilisateur</label>
 
         <input type="checkbox" id="help-text" value="1">
         <label for="help-text">Descriptions</label>
@@ -149,12 +149,12 @@
       <span class="command">
         <span class="label" item="command-name">Nom de la commande&nbsp;:</span>
         <span class="value" item="command-name"><a href="x-jsd:help?search=$command-name">$command-name</a></span><br>
-        <span class="label" item="ui-label">&Eacute;tiquette de l'interface utilisateur&nbsp;:</span>
+        <span class="label" item="ui-label">&Eacute;tiquette de l’interface utilisateur&nbsp;:</span>
         <span class="value" item="ui-label"><a href="x-jsd:help?search=$ui-label-safe&within=2">$ui-label</a></span><br>
         <br>
         <span class="label" item="usage">Usage&nbsp;:</span> <span class="value" item="usage">$command-name $params</span><br>
         <br>
-        <span class="label" item="accel-key">Touche d'acc&egrave;s rapide&nbsp;:</span> $key<br>
+        <span class="label" item="accel-key">Touche d’acc&egrave;s rapide&nbsp;:</span> $key<br>
         <br>
         <span class="label" item="description">Description&nbsp;:</span><br>
         <span class="value" item="description">$desc</span>

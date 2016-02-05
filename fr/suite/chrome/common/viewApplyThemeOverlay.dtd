@@ -6,5 +6,5 @@
 <!ENTITY applyTheme.accesskey        "A">
 <!ENTITY getMoreThemesCmd.label      "Obtenir des thèmes supplémentaires">
 <!ENTITY getMoreThemesCmd.accesskey  "O">
-<!ENTITY getBackgroundsCmd.label     "Obtenir des fonds d'écran">
+<!ENTITY getBackgroundsCmd.label     "Obtenir des fonds d’écran">
 <!ENTITY getBackgroundsCmd.accesskey "f">

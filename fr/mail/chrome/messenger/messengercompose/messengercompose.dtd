@@ -14,7 +14,7 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newContact.label "Contact du carnet d'adresses…">
+<!ENTITY newContact.label "Contact du carnet d’adresses…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Joindre">
 <!ENTITY attachMenu.accesskey "J">
@@ -25,7 +25,7 @@
 <!ENTITY attachCloudCmd.accesskey "E">
 <!ENTITY attachPageCmd.label "Page web…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard’ -->
 <!ENTITY attachVCardCmd.label "Carte de visite (vCard)">
 <!ENTITY attachVCardCmd.accesskey "C">
 <!ENTITY remindLater.label "Me le rappeler plus tard">
@@ -108,15 +108,15 @@
 <!-- View menu -->
 <!ENTITY viewMenu.label "Affichage">
 <!ENTITY viewMenu.accesskey "A">
-<!ENTITY viewToolbarsMenuNew.label "Barres d'outils">
+<!ENTITY viewToolbarsMenuNew.label "Barres d’outils">
 <!ENTITY viewToolbarsMenuNew.accesskey "t">
 <!ENTITY menubarCmd.label "Barre de menus">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY showCompositionToolbarCmd.label "Barre d'outils courrier">
+<!ENTITY showCompositionToolbarCmd.label "Barre d’outils courrier">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Barre de mise en forme">
 <!ENTITY showFormattingBarCmd.accesskey "f">
-<!ENTITY showTaskbarCmd.label "Barre d'état">
+<!ENTITY showTaskbarCmd.label "Barre d’état">
 <!ENTITY showTaskbarCmd.accesskey "e">
 <!ENTITY customizeToolbar.label "Personnaliser…">
 <!ENTITY customizeToolbar.accesskey "P">
@@ -131,22 +131,22 @@
 <!-- Options menu -->
 <!ENTITY optionsMenu.label "Options">
 <!ENTITY optionsMenu.accesskey "O">
-<!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe…">
+<!ENTITY checkSpellingCmd2.label "Vérifier l’orthographe…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "V">
-<!ENTITY enableInlineSpellChecker.label "Vérifier l'orthographe pendant la saisie">
+<!ENTITY enableInlineSpellChecker.label "Vérifier l’orthographe pendant la saisie">
 <!ENTITY enableInlineSpellChecker.accesskey "f">
 <!ENTITY quoteCmd.label "Citer le message">
 <!ENTITY quoteCmd.accesskey "m">
 
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard’ -->
 <!ENTITY attachVCard.label "Carte de visite (vCard)">
 <!ENTITY attachVCard.accesskey "C">
 
 <!ENTITY returnReceiptMenu.label "Demander un accusé de réception">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY dsnMenu.label "Notification de l'état de la distribution">
+<!ENTITY dsnMenu.label "Notification de l’état de la distribution">
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY deliveryFormatMenu.label "Format de distribution">
 <!ENTITY deliveryFormatMenu.accesskey "F">
@@ -183,7 +183,7 @@
 <!ENTITY messengerCmd.label "Courrier et groupes">
 <!ENTITY messengerCmd.accesskey "C">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "Carnet d'adresses">
+<!ENTITY addressBookCmd.label "Carnet d’adresses">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Paramètres des comptes">
@@ -197,7 +197,7 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Réduire">
-<!ENTITY bringAllToFront.label "Tout amener à l'avant-plan">
+<!ENTITY bringAllToFront.label "Tout amener à l’avant-plan">
 <!ENTITY zoomWindow.label "Zoom">
 <!ENTITY windowMenu.label "Fenêtre">
 
@@ -214,9 +214,9 @@
 <!ENTITY sendButton.tooltip "Envoyer le message maintenant">
 <!ENTITY sendlaterButton.tooltip "Envoyer ce message plus tard">
 <!ENTITY quoteButton.tooltip "Citer le précédent message">
-<!ENTITY addressButton.tooltip "Sélectionner un destinataire du carnet d'adresses">
+<!ENTITY addressButton.tooltip "Sélectionner un destinataire du carnet d’adresses">
 <!ENTITY attachButton.tooltip "Inclure une pièce jointe">
-<!ENTITY spellingButton.tooltip "Vérifier l'orthographe de la sélection ou du message complet">
+<!ENTITY spellingButton.tooltip "Vérifier l’orthographe de la sélection ou du message complet">
 <!ENTITY statusLanguageText.tooltip "Langue de la vérification orthographique">
 <!ENTITY saveButton.tooltip "Enregistrer ce message">
 <!ENTITY cutButton.tooltip              "Couper">
@@ -246,7 +246,7 @@
 <!ENTITY SmileButton.tooltip "Insérer une émoticône">
 <!ENTITY smiley1Cmd.label "Sourire">
 <!ENTITY smiley2Cmd.label "Mécontent">
-<!ENTITY smiley3Cmd.label "Clin d'oeil">
+<!ENTITY smiley3Cmd.label "Clin d’oeil">
 <!ENTITY smiley4Cmd.label "Moqueur">
 <!ENTITY smiley5Cmd.label "Mort de rire">
 <!ENTITY smiley6Cmd.label "Embarrassé">
@@ -307,5 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Contacts">
 
 <!-- Identity popup customize menuitem -->
-<!ENTITY customizeFromAddress.label "Personnaliser l'adresse d'expédition…">
+<!ENTITY customizeFromAddress.label "Personnaliser l’adresse d’expédition…">
 <!ENTITY customizeFromAddress.accesskey "x">

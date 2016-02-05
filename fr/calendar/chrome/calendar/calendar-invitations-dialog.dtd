@@ -6,7 +6,7 @@
 <!-- Calendar Invitations Dialog -->
 <!ENTITY calendar.invitations.dialog.invitations.text                   "Invitations">
 <!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Mise à jour de la liste des invitations.">
-<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Aucune invitation non confirmée n'a été trouvée.">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Aucune invitation non confirmée n’a été trouvée.">
 
 <!-- Calendar Invitations List -->
 <!ENTITY calendar.invitations.list.accept.button.label                  "Accepter">

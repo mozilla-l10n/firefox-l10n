@@ -38,9 +38,9 @@
 
 <!ENTITY viewMenu.label		"Affichage">
 <!ENTITY viewMenu.accesskey		"A">
-<!ENTITY viewToolbarsMenu.label	"Barres d'outils">
+<!ENTITY viewToolbarsMenu.label	"Barres d’outils">
 <!ENTITY viewToolbarsMenu.accesskey	"t">
-<!ENTITY showTaskbarCmd.label		"Barre d'état">
+<!ENTITY showTaskbarCmd.label		"Barre d’état">
 <!ENTITY showTaskbarCmd.accesskey	"B">
 
 <!ENTITY closeCmd.label		"Fermer">

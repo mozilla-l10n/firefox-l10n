@@ -22,10 +22,10 @@
 <!ENTITY accel.emacs_conflict "accel">
 
 <!-- Help viewer -->
-<!ENTITY openHelpCmd.label "Contenu de l'aide">
+<!ENTITY openHelpCmd.label "Contenu de l’aide">
 <!ENTITY openHelpCmd.accesskey "a">
 <!ENTITY openHelpCmd.key "VK_F1">
-<!ENTITY helpForIEUsers.label "Pour les utilisateurs d'Internet Explorer">
+<!ENTITY helpForIEUsers.label "Pour les utilisateurs d’Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!-- LOCALIZATION NOTE some localizations need to change the
                        "Help" menu label on Windows -->

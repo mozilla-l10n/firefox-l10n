@@ -4,15 +4,15 @@
 
 <!ENTITY tabHeader.label "Onglets">
 <!ENTITY tabDisplay.label "Affichage par onglets">
-<!ENTITY autoHide.label "Masquer la barre des onglets s'il n'y en a qu'un d'ouvert">
+<!ENTITY autoHide.label "Masquer la barre des onglets s’il n’y en a qu’un d’ouvert">
 <!ENTITY autoHide.accesskey "M">
 <!ENTITY background.label "Basculer vers les nouveaux onglets ouverts">
 <!ENTITY background.accesskey "B">
-<!ENTITY warnOnClose.label "Me prévenir lors de la fermeture d'une fenêtre contenant plusieurs onglets">
+<!ENTITY warnOnClose.label "Me prévenir lors de la fermeture d’une fenêtre contenant plusieurs onglets">
 <!ENTITY warnOnClose.accesskey "M">
-<!ENTITY relatedAfterCurrent.label "Ouvrir les onglets liés après l'onglet courant">
+<!ENTITY relatedAfterCurrent.label "Ouvrir les onglets liés après l’onglet courant">
 <!ENTITY relatedAfterCurrent.accesskey "O">
-<!ENTITY loadGroup.label "À l'ouverture d'un marque-page de groupe d'onglets">
+<!ENTITY loadGroup.label "À l’ouverture d’un marque-page de groupe d’onglets">
 <!ENTITY loadGroupAppend.label "Ajouter des onglets">
 <!ENTITY loadGroupAppend.accesskey "o">
 <!ENTITY loadGroupReplace.label "Remplacer les onglets déjà ouverts">

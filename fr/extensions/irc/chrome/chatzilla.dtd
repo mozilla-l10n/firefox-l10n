@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Menubar.tooltip "Menu principal">
-<!ENTITY Toolbar.tooltip "Barre d'outils principale">
+<!ENTITY Toolbar.tooltip "Barre d’outils principale">
 
 
 <!ENTITY multiline-expand.tooltip "Basculer en mode multiligne (Ctrl+Haut)">

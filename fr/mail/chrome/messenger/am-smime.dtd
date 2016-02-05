@@ -6,7 +6,7 @@
 <!ENTITY securityTab.label "Sécurité">
 <!ENTITY securityHeading.label "Pour envoyer et recevoir des messages signés ou chiffrés, il est nécessaire de spécifier à la fois un certificat de signature numérique et un certificat de chiffrement.">
 <!ENTITY encryptionGroupTitle.label "Chiffrement">
-<!ENTITY encryptionChoiceLabel.label "Utiliser le chiffrement pour l'envoi des messages :">
+<!ENTITY encryptionChoiceLabel.label "Utiliser le chiffrement pour l’envoi des messages :">
 <!ENTITY neverEncrypt.label "Jamais">
 <!ENTITY neverEncrypt.accesskey "J">
 <!ENTITY alwaysEncryptMessage.label "Toujours chiffrer les messages">

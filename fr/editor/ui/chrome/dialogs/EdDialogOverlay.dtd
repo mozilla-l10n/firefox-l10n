@@ -9,9 +9,9 @@
 <!ENTITY chooseFileButton.accessKey "C">
 <!ENTITY chooseFileLinkButton.label "Choisir un fichier…">
 <!ENTITY chooseFileLinkButton.accessKey "o">
-<!ENTITY makeUrlRelative.label "L'URL est relative à l'adresse de la page">
+<!ENTITY makeUrlRelative.label "L’URL est relative à l’adresse de la page">
 <!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "Passer d'une URL relative à une URL absolue. Vous devez d'abord enregistrer la page pour faire ce changement.">
+<!ENTITY makeUrlRelative.tooltip "Passer d’une URL relative à une URL absolue. Vous devez d’abord enregistrer la page pour faire ce changement.">
 
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Saisissez une adresse web ou un nom de fichier, ou sélectionnez une ancre ou un en-tête :">

@@ -19,9 +19,9 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Rechercher…">
 <!ENTITY findReplaceCmd.label "Rechercher et remplacer…">
-<!ENTITY enableInlineSpellChecker.label "Vérifier l'orthographe pendant la saisie">
+<!ENTITY enableInlineSpellChecker.label "Vérifier l’orthographe pendant la saisie">
 <!ENTITY enableInlineSpellChecker.accesskey "A">
-<!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe…">
+<!ENTITY checkSpellingCmd2.label "Vérifier l’orthographe…">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -45,7 +45,7 @@
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Caractères et symboles…">
 <!ENTITY insertCharsCmd.accesskey "C">
-<!ENTITY insertBreakAllCmd.label "Saut de ligne sous l'image/les images">
+<!ENTITY insertBreakAllCmd.label "Saut de ligne sous l’image/les images">
 <!ENTITY insertBreakAllCmd.accesskey "S">
 
 <!-- Used just in context popup. -->
@@ -71,7 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Choisir la taille d'une police">
+<!ENTITY FontSizeSelect.tooltip "Choisir la taille d’une police">
 <!ENTITY decreaseFontSize.label "Plus petite">
 <!ENTITY decreaseFontSize.accesskey "u">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -207,7 +207,7 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Niveaux">
-<!ENTITY layerSendToBack.tooltip "Mettre à l'arrière-plan">
+<!ENTITY layerSendToBack.tooltip "Mettre à l’arrière-plan">
 <!ENTITY layerBringToFront.tooltip "Mettre au premier plan">
 
 <!ENTITY increaseIndent.label "Augmenter le retrait">
@@ -284,7 +284,7 @@
 
 <!-- toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barre de menu">
-<!ENTITY formatToolbar.tooltip "Barre d'outils de mise en forme">
+<!ENTITY formatToolbar.tooltip "Barre d’outils de mise en forme">
 <!ENTITY cutToolbarCmd.tooltip "Couper">
 <!ENTITY copyToolbarCmd.tooltip "Copier">
 <!ENTITY pasteToolbarCmd.tooltip "Coller">
@@ -293,9 +293,9 @@
 <!ENTITY findToolbarCmd.label "Rechercher">
 <!ENTITY findToolbarCmd.tooltip "Rechercher du texte dans la page">
 <!ENTITY spellToolbarCmd.label "Orthographe">
-<!ENTITY spellToolbarCmd.tooltip "Vérifier l'orthographe sur la page entière ou la sélection">
+<!ENTITY spellToolbarCmd.tooltip "Vérifier l’orthographe sur la page entière ou la sélection">
 <!ENTITY imageToolbarCmd.label "Image">
-<!ENTITY imageToolbarCmd.tooltip "Insérer une nouvelle image ou modifier les propriétés de l'image sélectionnée">
+<!ENTITY imageToolbarCmd.tooltip "Insérer une nouvelle image ou modifier les propriétés de l’image sélectionnée">
 <!ENTITY hruleToolbarCmd.label "Ligne horizontale">
 <!ENTITY hruleToolbarCmd.tooltip "Insérer une ligne horizontale ou modifier les propriétés de la ligne sélectionnée">
 <!ENTITY tableToolbarCmd.label "Tableau">
@@ -303,7 +303,7 @@
 <!ENTITY linkToolbarCmd.label "Lien">
 <!ENTITY linkToolbarCmd.tooltip "Insérer un nouveau lien ou modifier les propriétés du lien sélectionné">
 <!ENTITY anchorToolbarCmd.label "Ancre">
-<!ENTITY anchorToolbarCmd.tooltip "Insérer une ancre nommée ou modifier les propriétés de l'ancre sélectionnée">
+<!ENTITY anchorToolbarCmd.tooltip "Insérer une ancre nommée ou modifier les propriétés de l’ancre sélectionnée">
 <!ENTITY TextColorButton.tooltip "Choisir la couleur du texte">
 <!ENTITY BackgroundColorButton.tooltip "Choisir une couleur pour le fond">
 <!ENTITY throbber.tooltip "Visiter le site web de &vendorShortName;">
@@ -320,7 +320,7 @@
 <!ENTITY numberListToolbarCmd.tooltip "Appliquer ou enlever une liste numérotée">
 <!ENTITY outdentToolbarCmd.tooltip "Diminuer le retrait (vers la gauche)">
 <!ENTITY indentToolbarCmd.tooltip "Augmenter le retrait (vers la droite)">
-<!ENTITY AlignPopupButton.tooltip "Choisir l'alignement du texte">
+<!ENTITY AlignPopupButton.tooltip "Choisir l’alignement du texte">
 <!ENTITY InsertPopupButton.tooltip "Insérer un lien, une ancre, une image, une ligne horizontale ou un tableau">
 <!ENTITY alignLeftButton.tooltip "Aligner le texte sur la marge de gauche">
 <!ENTITY alignCenterButton.tooltip "Centrer le texte">

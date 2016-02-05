@@ -12,7 +12,7 @@
 
 <!ENTITY  blankPageRadio.label "Une page blanche">
 <!ENTITY  blankPageRadio.accesskey "U">
-<!ENTITY  homePageRadio.label "Ma page d'accueil">
+<!ENTITY  homePageRadio.label "Ma page d’accueil">
 <!ENTITY  homePageRadio.accesskey "M">
 <!ENTITY  lastPageRadio.label "La dernière page visitée">
 <!ENTITY  lastPageRadio.accesskey "L">
@@ -28,7 +28,7 @@
 <!ENTITY restoreTabs.label "Restaurer">
 <!ENTITY restoreTabs.accesskey "s">
 <!ENTITY restoreTabsAtATime.label "onglet(s) à la fois">
-<!ENTITY restoreDeferred.label "Ne restaurer les onglets que lorsque j'en ai besoin">
+<!ENTITY restoreDeferred.label "Ne restaurer les onglets que lorsque j’en ai besoin">
 <!ENTITY restoreDeferred.accesskey "N">
 
 <!ENTITY  homePageIntro.label "Cliquer sur le bouton « Accueil » chargera cette page ou ce groupe de pages :">

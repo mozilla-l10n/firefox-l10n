@@ -17,7 +17,7 @@
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Nouveautés">
 <!ENTITY whatsNewCmd.accesskey "o">
-<!ENTITY openHelp.label "Rubriques d'aide">
+<!ENTITY openHelp.label "Rubriques d’aide">
 <!ENTITY openHelp.accesskey "a">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Aide de &brandShortName;">

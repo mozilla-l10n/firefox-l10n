@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Vérification de l'orthographe">
+<!ENTITY windowTitle.label "Vérification de l’orthographe">
 
 <!ENTITY misspelledWord.label "Mot mal orthographié :">
 <!ENTITY wordEditField.label "Remplacer par :">
@@ -23,7 +23,7 @@
 <!ENTITY stopButton.label "Arrêter">
 <!ENTITY stopButton.accessKey "A">
 <!ENTITY userDictionary.label "Dictionnaire personnel :">
-<!ENTITY moreDictionaries.label "Télécharger d'autres dictionnaires…">
+<!ENTITY moreDictionaries.label "Télécharger d’autres dictionnaires…">
 <!ENTITY addToUserDictionaryButton.label "Ajouter un mot">
 <!ENTITY addToUserDictionaryButton.accessKey "j">
 <!ENTITY editUserDictionaryButton.label "Modifier…">

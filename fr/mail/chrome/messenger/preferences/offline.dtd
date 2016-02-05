@@ -8,7 +8,7 @@
 <!ENTITY checkAutoDetect.accesskey "T">
 <!ENTITY titleStartUp "Au démarrage :">
 
-<!ENTITY radioRememberPrevState.label "Se souvenir de l'état précédent">
+<!ENTITY radioRememberPrevState.label "Se souvenir de l’état précédent">
 <!ENTITY radioRememberPrevState.accesskey "S">
 <!ENTITY radioAskState.label "Demander à passer en mode en ligne">
 <!ENTITY radioAskState.accesskey "D">

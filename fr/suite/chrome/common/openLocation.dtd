@@ -4,7 +4,7 @@
 
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Saisissez l'adresse web (URL) ou spécifiez un fichier local que vous voulez ouvrir :">
+<!ENTITY enter.label "Saisissez l’adresse web (URL) ou spécifiez un fichier local que vous voulez ouvrir :">
 <!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
      as defined above and attachEnterLabel as defined in
      openLocation.properties -->
@@ -17,6 +17,6 @@
 <!ENTITY currentTab.label "Onglet actuel du navigateur">
 <!ENTITY editNewWindow.label "Nouvelle fenêtre du composeur">
 <!ENTITY open.label "Ouvrir">
-<!ENTITY caption.label "Ouvrir l'adresse web">
+<!ENTITY caption.label "Ouvrir l’adresse web">
 <!ENTITY openWhere.label "Ouvrir dans :">
 <!ENTITY openWhere.accesskey "O">

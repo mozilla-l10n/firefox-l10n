@@ -16,7 +16,7 @@
 <!ENTITY SelectTabIndex.label "Index de tabulation :">
 <!ENTITY SelectTabIndex.accesskey "I">
 
-<!ENTITY OptGroup.label "Groupe d'options">
+<!ENTITY OptGroup.label "Groupe d’options">
 <!ENTITY OptGroupLabel.label "Étiquette :">
 <!ENTITY OptGroupLabel.accesskey "q">
 <!ENTITY OptGroupDisabled.label "Désactivé">

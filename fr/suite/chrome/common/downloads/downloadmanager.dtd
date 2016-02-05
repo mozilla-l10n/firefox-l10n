@@ -84,7 +84,7 @@
 <!ENTITY cmd.show.accesskey              "u">
 <!ENTITY cmd.goToDownloadPage.label      "Aller à la page de téléchargement">
 <!ENTITY cmd.goToDownloadPage.accesskey  "t">
-<!ENTITY cmd.copyDownloadLink.label      "Copier l'adresse d'origine du téléchargement">
+<!ENTITY cmd.copyDownloadLink.label      "Copier l’adresse d’origine du téléchargement">
 <!ENTITY cmd.copyDownloadLink.accesskey  "C">
 <!ENTITY cmd.properties.label            "Propriétés…">
 <!ENTITY cmd.properties.accesskey        "s">

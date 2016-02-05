@@ -9,9 +9,9 @@
 <!ENTITY itemCertificates.label  "Certificats">
 
 <!-- General Settings -->
-<!ENTITY enableGlodaSearch.label "Activer la recherche et l'indexation globales">
+<!ENTITY enableGlodaSearch.label "Activer la recherche et l’indexation globales">
 <!ENTITY enableGlodaSearch.accesskey "c">
-<!ENTITY allowHWAccel.label "Utiliser l'accélération graphique matérielle si disponible">
+<!ENTITY allowHWAccel.label "Utiliser l’accélération graphique matérielle si disponible">
 <!ENTITY allowHWAccel.accesskey "i">
 <!ENTITY storeType.label "Type de stockage des messages pour les nouveaux comptes :">
 <!ENTITY storeType.accesskey "k">
@@ -39,7 +39,7 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Télémétrie">
-<!ENTITY telemetryDesc.label             "Envoie des informations sur les performances, le matériel, l'utilisation et les personnalisations de votre client de messagerie à &vendorShortName; pour aider à améliorer &brandShortName;">
+<!ENTITY telemetryDesc.label             "Envoie des informations sur les performances, le matériel, l’utilisation et les personnalisations de votre client de messagerie à &vendorShortName; pour aider à améliorer &brandShortName;">
 <!ENTITY enableTelemetry.label           "Activer la télémétrie">
 <!ENTITY enableTelemetry.accesskey       "A">
 <!ENTITY telemetryLearnMore.label        "En savoir plus">
@@ -54,13 +54,13 @@
 <!ENTITY updateApp.label                 "Mises à jour de &brandShortName; :">
 <!ENTITY updateAuto.label                "Installer automatiquement les mises à jour (recommandé pour votre sécurité)">
 <!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Vérifier l'existence de mises à jour mais me laisser décider de leur installation">
+<!ENTITY updateCheck.label               "Vérifier l’existence de mises à jour mais me laisser décider de leur installation">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "Ne jamais vérifier les mises à jour (déconseillé, cela représente un risque de sécurité)">
 <!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateAutoAddonWarn.label       "Me prévenir si cela désactive certains de mes modules">
 <!ENTITY updateAutoAddonWarn.accesskey   "M">
-<!ENTITY updateHistory.label             "Afficher l'historique des mises à jour">
+<!ENTITY updateHistory.label             "Afficher l’historique des mises à jour">
 <!ENTITY updateHistory.accesskey         "h">
 
 <!ENTITY useService.label                "Utiliser un service en arrière-plan pour installer les mises à jour">
@@ -88,14 +88,14 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label            "Utiliser jusqu'à">
+<!ENTITY useCacheBefore.label            "Utiliser jusqu’à">
 <!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "Mo d'espace disque pour le cache">
+<!ENTITY useCacheAfter.label             "Mo d’espace disque pour le cache">
 <!ENTITY clearCacheNow.label             "Vider le cache maintenant">
 <!ENTITY clearCacheNow.accesskey         "V">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "Lorsqu'un serveur demande mon certificat personnel :">
+<!ENTITY certSelection.description       "Lorsqu’un serveur demande mon certificat personnel :">
 <!ENTITY certs.auto                      "en sélectionner un automatiquement">
 <!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "me demander à chaque fois">

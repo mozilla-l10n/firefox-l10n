@@ -23,16 +23,16 @@
 <!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "Filtrer avant la vérification des indésirables">
 <!ENTITY contextAfterCls.label "Filtrer après la vérification des indésirables">
-<!ENTITY contextOutgoing.label "Après l'envoi">
+<!ENTITY contextOutgoing.label "Après l’envoi">
 <!ENTITY contextOutgoing.accesskey "s">
-<!ENTITY contextArchive.label "Lors de l'archivage">
+<!ENTITY contextArchive.label "Lors de l’archivage">
 <!ENTITY contextArchive.accesskey "a">
 
 <!ENTITY filterActionDesc.label "Exécuter ces actions :">
 <!ENTITY filterActionDesc.accesskey "x">
 
 <!ENTITY filterActionOrderWarning.label "Note : les actions des filtres sont exécutées dans un ordre différent.">
-<!ENTITY filterActionOrder.label "Voir l'ordre d'exécution">
+<!ENTITY filterActionOrder.label "Voir l’ordre d’exécution">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Déplacer le message vers">
@@ -51,7 +51,7 @@
 <!ENTITY ignoreThread.label "Ignorer la discussion">
 <!ENTITY ignoreSubthread.label "Ignorer le sous-fil de discussion">
 <!ENTITY watchThread.label "Surveiller la discussion">
-<!ENTITY stopExecution.label "Arrêter l'exécution du filtre">
+<!ENTITY stopExecution.label "Arrêter l’exécution du filtre">
 
 <!ENTITY addAction.tooltip "Ajouter une nouvelle action">
 <!ENTITY removeAction.tooltip "Supprimer cette action">

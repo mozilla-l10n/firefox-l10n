@@ -3,4 +3,4 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceeds2GB.title "Hightail">
 <!ENTITY fileExceeds2GB.cancel "OK">
-<!ENTITY fileExceeds2GB.description "L'envoi de fichiers de plus de 2 Go n'est pas pris en charge.">
+<!ENTITY fileExceeds2GB.description "L’envoi de fichiers de plus de 2 Go n’est pas pris en charge.">

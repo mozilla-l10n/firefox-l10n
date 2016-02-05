@@ -24,12 +24,12 @@
 <!ENTITY visitedLinkColor.label "Liens visités :">
 <!ENTITY visitedLinkColor.accesskey "v">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
-<!ENTITY someProvColors "Quand une page web fournit ses propres couleurs et son propre fond d'écran :">
+<!ENTITY someProvColors "Quand une page web fournit ses propres couleurs et son propre fond d’écran :">
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
 <!ENTITY alwaysUseDocumentColors.label "Toujours utiliser les couleurs et le fond fournis par la page web">
 <!ENTITY alwaysUseDocumentColors.accesskey "j">
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label "Utiliser mes couleurs, en ignorant celles spécifiées">
 <!ENTITY useMyColors.accesskey "i">
-<!ENTITY automaticColors.label "Ignorer les couleurs de la page uniquement lors de l'utilisation d'un thème au contraste élevé">
+<!ENTITY automaticColors.label "Ignorer les couleurs de la page uniquement lors de l’utilisation d’un thème au contraste élevé">
 <!ENTITY automaticColors.accesskey "o">

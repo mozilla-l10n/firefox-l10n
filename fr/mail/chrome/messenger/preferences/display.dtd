@@ -20,7 +20,7 @@
 <!ENTITY quotedTextColor.label            "Couleur :">
 <!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Messages en texte simple">
-<!ENTITY displayText.label	              "Lors de l'affichage de citations en texte simple :">
+<!ENTITY displayText.label	              "Lors de l’affichage de citations en texte simple :">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "Afficher les émoticônes sous forme graphique">
@@ -49,12 +49,12 @@
 <!-- Advanced -->
 <!ENTITY reading.caption "Lecture">
 <!ENTITY display.caption "Affichage">
-<!ENTITY showCondensedAddresses.label "N'afficher que le nom pour les personnes se trouvant dans le carnet d'adresses">
+<!ENTITY showCondensedAddresses.label "N’afficher que le nom pour les personnes se trouvant dans le carnet d’adresses">
 <!ENTITY showCondensedAddresses.accesskey "N">
 
 <!ENTITY autoMarkAsRead.label          "Marquer automatiquement les messages comme lus">
 <!ENTITY autoMarkAsRead.accesskey      "M">
-<!ENTITY markAsReadNoDelay.label       "Dès l'affichage">
+<!ENTITY markAsReadNoDelay.label       "Dès l’affichage">
 <!ENTITY markAsReadNoDelay.accesskey   "D">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
@@ -69,5 +69,5 @@
 <!ENTITY reuseExpRadio0.accesskey      "U">
 <!ENTITY reuseExpRadio1.label          "une fenêtre existante">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label "Fermer la fenêtre ou l'onglet de message lors du déplacement ou de la suppression">
+<!ENTITY closeMsgOnMoveOrDelete.label "Fermer la fenêtre ou l’onglet de message lors du déplacement ou de la suppression">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "F">

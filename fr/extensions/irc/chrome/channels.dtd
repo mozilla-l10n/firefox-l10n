@@ -25,7 +25,7 @@
 <!ENTITY refresh.label "Actualiser">
 <!ENTITY refresh.accesskey "">
 
-<!ENTITY network.hint.label "Saisir n'importe quel nom de réseau ou de serveur (vous pouvez inclure un port) et un salon à rejoindre.">
+<!ENTITY network.hint.label "Saisir n’importe quel nom de réseau ou de serveur (vous pouvez inclure un port) et un salon à rejoindre.">
 
 <!ENTITY col.network "Réseau">
 <!ENTITY col.name "Nom">
