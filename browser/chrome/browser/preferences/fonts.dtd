@@ -28,8 +28,8 @@
 <!ENTITY  font.langGroup.trad-chinese             "पुरानो चिनियाँ  (ताइवान )">
 <!ENTITY  font.langGroup.simpl-chinese            "सरलीकृत चिनियाँ">
 <!ENTITY  font.langGroup.trad-chinese-hk          "परम्परागत चिनियाँ (हंगकंग )">
-
-
+<!ENTITY  font.langGroup.korean                   "कोरियाली">
+<!ENTITY  font.langGroup.cyrillic                 "सिरिलिक">
 
 
 
@@ -70,6 +70,7 @@
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.arabic      "अरबी">
 <!ENTITY languages.customize.Fallback.baltic      "अन्य भाषाहरू">
 
 
@@ -85,10 +86,13 @@
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "जापानी">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "कोरियाली">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "थाइ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):

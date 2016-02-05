@@ -24,6 +24,8 @@
 <!ENTITY showAllAppsCmdMac.label            "सबै देखाउनुहोस्">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "सम्पादन">
 <!ENTITY editMenu.accesskey                 "E">
 <!ENTITY undoCmd.label                      "पूर्वस्थिति">

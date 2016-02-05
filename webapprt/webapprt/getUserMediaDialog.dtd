@@ -6,8 +6,8 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "मिडिया साझेदारी">
-
-
+<!ENTITY getUserMediaDialog.button.accept.label     "सेयर गर्नुहोस्">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
 
 
 
