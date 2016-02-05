@@ -28,7 +28,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label "Tilkynna þátttakendum">
+<!ENTITY event.attendees.notify.accesskey "þ">
 <!ENTITY event.attendees.notifyundisclosed.label "Aðskilja fundarboð á hvern þátttakanda">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "þ">
 <!ENTITY event.attendees.notifyundisclosed.tooltip "Þessi stilling sendir eitt fundarboð á hvern þátttakanda. Hvert fundarboð inniheldur aðeins einn þátttakanda þannig að ekki er birt deili á öðrum þátttakendum.">
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2 "I">
@@ -127,9 +129,10 @@
 <!ENTITY event.email.attendees.accesskey "a">
 <!ENTITY event.email.tentative.attendees.label "Sníða póst til allra óákveðinna þátttakenda…">
 <!ENTITY event.email.tentative.attendees.accesskey "S">
-<!ENTITY event.remove.attendees.label "Fjarlægja alla þátttakendur...">
+<!ENTITY event.remove.attendees.label2 "Fjarlægja alla þátttakendur">
 <!ENTITY event.remove.attendees.accesskey "þ">
 <!ENTITY event.remove.attendee.label "Fjarlægja þátttakanda">
+<!ENTITY event.remove.attendee.accesskey "æ">
 <!-- Toolbar -->
 <!ENTITY event.toolbar.save.label "Vista og loka">
 <!ENTITY event.toolbar.delete.label "Eyða">
