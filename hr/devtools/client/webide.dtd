@@ -49,7 +49,7 @@
 <!ENTITY viewMenu_accesskey "l">
 <!ENTITY viewMenu_toggleEditor_label "Uključi/isključi uređivač">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_zoomin_label "Uvaćaj">
+<!ENTITY viewMenu_zoomin_label "Uvećaj">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Uvećaj">
 <!ENTITY viewMenu_zoomout_accesskey "O">
