@@ -158,7 +158,7 @@
 <!ENTITY runtimedetails_privilegesWarning "(Irá reiniciar o dispositivo. Necessita de acesso root.)">
 <!-- Device Preferences and Settings -->
 
-<!ENTITY device_typeboolean "Boleano">
+<!ENTITY device_typeboolean "Booliano">
 <!ENTITY device_typenumber "Inteiro">
 <!ENTITY device_typestring "String">
 <!ENTITY device_typeobject "Objeto">
