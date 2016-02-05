@@ -106,9 +106,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "ყველა ჩანართის ჩვენება">
 <!ENTITY showAllTabsCmd.accesskey "ყ">
 
-<!ENTITY fxaSignIn.label "&syncBrand.shortName.label;-ში შესვლა">
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; - შესვლა">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label;-ის პარამეტრების გახსნა">
-<!ENTITY fxaSignInError.label "&syncBrand.shortName.label;-თან ხელახლა დაკავშირება">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; - ხელახლა დაკავშირება">
 <!ENTITY fxaUnverified.label "თქვენი ანგარიშის დადასტურება">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ჩართულია">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; ახლავე დაიწყებს სინქრონირებას.">
@@ -788,11 +788,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "სინქრონიზება">
 
-<!ENTITY syncSignIn.label             "&syncBrand.shortName.label;-ში შესვლა…">
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; - შესვლა…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "სინქრონირება ახლა">
 <!ENTITY syncSyncNowItem.accesskey    "ს">
-<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;-თან ხელახლა დაკავშირება…">
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; - ხელახლა დაკავშირება…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "სინქრონიზება">
 
