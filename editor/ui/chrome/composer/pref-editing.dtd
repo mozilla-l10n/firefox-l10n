@@ -6,7 +6,7 @@
 
 <!ENTITY  authorName.label          "Auteur :">
 <!ENTITY  authorName.accesskey      "e">
-<!ENTITY  pageColorHeader           "Apparence par défaut d'une nouvelle page">
+<!ENTITY  pageColorHeader           "Apparence par défaut d’une nouvelle page">
 
 <!ENTITY defaultColors.label        "Couleurs par défaut du lecteur (ne pas fixer les couleurs de la page)">
 <!ENTITY defaultColors.accesskey    "C">
@@ -17,9 +17,9 @@
 <!ENTITY normalText.accesskey       "T">
 <!ENTITY linkText.label             "Texte avec un lien">
 <!ENTITY linkText.accesskey         "x">
-<!ENTITY activeLinkText.label       "Texte d'un lien actif">
+<!ENTITY activeLinkText.label       "Texte d’un lien actif">
 <!ENTITY activeLinkText.accesskey   "d">
-<!ENTITY visitedLinkText.label      "Texte d'un lien visité">
+<!ENTITY visitedLinkText.label      "Texte d’un lien visité">
 <!ENTITY visitedLinkText.accesskey  "v">
 <!ENTITY background.label           "Fond de la page :">
 <!ENTITY background.accesskey       "F">

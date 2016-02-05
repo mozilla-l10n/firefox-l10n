@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title                        "Carnet d'adresses">
+<!ENTITY addressbookWindow.title                        "Carnet d’adresses">
 
-<!ENTITY blankResultsPaneMessage.label                  "Ce carnet d'adresses affiche uniquement les contacts lorsque vous effectuez une recherche">
-<!ENTITY localResultsOnlyMessage.label                  "Les contacts des carnets d'adresses distants ne sont pas affichés tant que vous n'effectuez pas de recherche">
+<!ENTITY blankResultsPaneMessage.label                  "Ce carnet d’adresses affiche uniquement les contacts lorsque vous effectuez une recherche">
+<!ENTITY localResultsOnlyMessage.label                  "Les contacts des carnets d’adresses distants ne sont pas affichés tant que vous n’effectuez pas de recherche">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fichier">
@@ -18,7 +18,7 @@
 <!ENTITY newListCmd.label                               "Liste de diffusion…">
 
 <!ENTITY newListCmd.accesskey                           "l">
-<!ENTITY newAddressBookCmd.label                        "Carnet d'adresses…">
+<!ENTITY newAddressBookCmd.label                        "Carnet d’adresses…">
 <!ENTITY newAddressBookCmd.accesskey                    "c">
 <!ENTITY newLDAPDirectoryCmd.label                      "Annuaire LDAP…">
 
@@ -27,7 +27,7 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Utiliser le carnet d'adresses Mac OS X">
+<!ENTITY osxAddressBook.label                           "Utiliser le carnet d’adresses Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Fermer">
 <!ENTITY closeCmd.key                                   "W">
@@ -36,12 +36,12 @@
 <!ENTITY printSetupCmd.accesskey                        "M">
 <!ENTITY printPreviewContactCmd.label                   "Aperçu de la fiche avant impression">
 <!ENTITY printPreviewContactCmd.accesskey               "d">
-<!ENTITY printPreviewAddressBook.label                  "Aperçu du carnet d'adresses avant impression">
+<!ENTITY printPreviewAddressBook.label                  "Aperçu du carnet d’adresses avant impression">
 <!ENTITY printPreviewAddressBook.accesskey              "u">
 <!ENTITY printContactCmd.label                          "Imprimer la fiche…">
 <!ENTITY printContactCmd.accesskey                      "p">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Imprimer le carnet d'adresses…">
+<!ENTITY printAddressBook.label                         "Imprimer le carnet d’adresses…">
 <!ENTITY printAddressBook.accesskey                     "A">
 
 <!-- Edit Menu -->
@@ -64,7 +64,7 @@
 <!ENTITY pasteCmd.accesskey                             "o">
 <!ENTITY deleteCmd.label                                "Supprimer">
 <!ENTITY deleteCmd.accesskey                            "p">
-<!ENTITY deleteAbCmd.label                              "Supprimer le carnet d'adresses">
+<!ENTITY deleteAbCmd.label                              "Supprimer le carnet d’adresses">
 <!ENTITY deleteContactCmd.label                         "Supprimer le contact">
 <!ENTITY deleteContactsCmd.label                        "Supprimer les contacts">
 <!ENTITY deleteListCmd.label                            "Supprimer la liste">
@@ -87,13 +87,13 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Affichage">
 <!ENTITY viewMenu.accesskey                             "A">
-<!ENTITY viewToolbarsMenu.label                         "Barres d'outils">
+<!ENTITY viewToolbarsMenu.label                         "Barres d’outils">
 <!ENTITY viewToolbarsMenu.accesskey                     "B">
 <!ENTITY menubarCmd.label                               "Barre de menus">
 <!ENTITY menubarCmd.accesskey                           "m">
-<!ENTITY showAbToolbarCmd.label                         "Barre d'outils carnet d'adresses">
+<!ENTITY showAbToolbarCmd.label                         "Barre d’outils carnet d’adresses">
 <!ENTITY showAbToolbarCmd.accesskey                     "t">
-<!ENTITY showTaskbarCmd.label                           "Barre d'état">
+<!ENTITY showTaskbarCmd.label                           "Barre d’état">
 <!ENTITY showTaskbarCmd.accesskey                       "d">
 <!ENTITY customizeToolbar.label                         "Personnaliser…">
 <!ENTITY customizeToolbar.accesskey                     "P">
@@ -152,23 +152,23 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Créer un nouveau contact">
 <!ENTITY newlistButton.tooltip                          "Créer une nouvelle liste de diffusion">
-<!ENTITY editButton2.tooltip                            "Modifier l'élément sélectionné">
+<!ENTITY editButton2.tooltip                            "Modifier l’élément sélectionné">
 <!ENTITY newmsgButton.tooltip                           "Écrire un courrier à la sélection">
 <!ENTITY newIM.tooltip                                  "Envoyer un message instantané ou amorcer un chat">
-<!ENTITY deleteButton2.tooltip                          "Supprimer l'élément sélectionné">
+<!ENTITY deleteButton2.tooltip                          "Supprimer l’élément sélectionné">
 
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Carnet d'adresses">
+<!ENTITY dirTreeHeader.label                            "Carnet d’adresses">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Le nom ou l'adresse">
+<!ENTITY SearchNameOrEmail.label                        "Le nom ou l’adresse">
 <!ENTITY SearchNameOrEmail.accesskey                    "n">
-<!ENTITY advancedButton.tooltip                         "Recherche avancée d'adresses">
+<!ENTITY advancedButton.tooltip                         "Recherche avancée d’adresses">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title                               "Recherche rapide">
 
 <!-- Results pane -->
-<!ENTITY Addrbook.label                                 "Carnet d'adresses">
+<!ENTITY Addrbook.label                                 "Carnet d’adresses">
 <!ENTITY Addrbook.accesskey                             "a">
 <!ENTITY GeneratedName.label                            "Nom">
 <!ENTITY GeneratedName.accesskey                        "N">
@@ -215,7 +215,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY description.heading                            "Description">
 <!ENTITY addresses.heading                              "Adresses">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Plan d'accès">
+<!ENTITY mapItButton.label                              "Plan d’accès">
 <!ENTITY mapIt.tooltip                                  "Affiche un plan de cette adresse depuis le Web">
 
 <!-- Status Bar -->
@@ -225,5 +225,5 @@ because displayed names don't have the comma in between. -->
 <!ENTITY windowMenu.label "Fenêtre">
 <!ENTITY minimizeWindow.label                           "Réduire">
 <!ENTITY minimizeWindow.key                             "m">
-<!ENTITY bringAllToFront.label                          "Tout amener à l'avant-plan">
+<!ENTITY bringAllToFront.label                          "Tout amener à l’avant-plan">
 <!ENTITY zoomWindow.label "Zoom">

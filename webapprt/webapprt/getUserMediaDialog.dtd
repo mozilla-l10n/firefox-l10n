@@ -14,4 +14,4 @@
 <!ENTITY getUserMediaDialog.video.label             "Sélectionner une caméra">
 <!ENTITY getUserMediaDialog.video.noVideo           "Pas de vidéo">
 <!ENTITY getUserMediaDialog.audio.label             "Sélectionner un microphone">
-<!ENTITY getUserMediaDialog.audio.noAudio           "Pas d'audio">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Pas d’audio">

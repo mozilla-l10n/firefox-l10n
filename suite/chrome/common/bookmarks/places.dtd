@@ -84,7 +84,7 @@
 <!ENTITY col.visitcount.label    "Nombre de visites">
 <!ENTITY col.keyword.label       "Mot-clé">
 <!ENTITY col.description.label   "Description">
-<!ENTITY col.dateadded.label     "Date d'ajout">
+<!ENTITY col.dateadded.label     "Date d’ajout">
 <!ENTITY col.lastmodified.label  "Date de modification">
 
 <!ENTITY search.label                              "Rechercher :">
@@ -100,7 +100,7 @@
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY backButton.tooltip "Retour en arrière">
-<!ENTITY forwardButton.tooltip "Avancer d'une page">
+<!ENTITY forwardButton.tooltip "Avancer d’une page">
 
 <!ENTITY detailsPane.more.label "Plus">
 <!ENTITY detailsPane.more.accesskey "P">

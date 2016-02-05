@@ -9,9 +9,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "Pour recevoir des messages, vous devez d'abord créer et paramétrer un compte.">
+<!ENTITY accountSetupInfo2.label "Pour recevoir des messages, vous devez d’abord créer et paramétrer un compte.">
 <!ENTITY accountTypeTitle.label "Paramétrage du nouveau compte">
-<!ENTITY accountTypeDesc2.label "Cet assistant va collecter les informations nécessaires à la création d'un compte. Si vous ne disposez pas des informations demandées, veuillez contacter votre administrateur système ou votre fournisseur d'accès Internet.">
+<!ENTITY accountTypeDesc2.label "Cet assistant va collecter les informations nécessaires à la création d’un compte. Si vous ne disposez pas des informations demandées, veuillez contacter votre administrateur système ou votre fournisseur d’accès Internet.">
 <!ENTITY accountTypeDirections.label "Sélectionnez le type de compte que vous voulez créer :">
 <!ENTITY accountTypeMail.label "Courrier électronique">
 <!ENTITY accountTypeMail.accesskey "C">
@@ -63,8 +63,8 @@
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
 
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Saisissez le nom d'utilisateur pour le serveur de réception donné par votre fournisseur (par exemple, « jcesar »).">
-<!ENTITY incomingUsername.label "Nom d'utilisateur du serveur de réception :">
+<!ENTITY incomingUsername.description "Saisissez le nom d’utilisateur pour le serveur de réception donné par votre fournisseur (par exemple, « jcesar »).">
+<!ENTITY incomingUsername.label "Nom d’utilisateur du serveur de réception :">
 <!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Saisissez le nom de votre serveur de groupes (NNTP) (par exemple, « news.example.net »).">
@@ -73,13 +73,13 @@
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY outgoingTitle.label "Informations sur le serveur d'envoi">
+<!ENTITY outgoingTitle.label "Informations sur le serveur d’envoi">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Saisissez le nom de votre serveur d'envoi (SMTP) (par exemple, « smtp.example.net »).">
-<!ENTITY outgoingServer.label "Serveur d'envoi :">
+<!ENTITY outgoingServer.description "Saisissez le nom de votre serveur d’envoi (SMTP) (par exemple, « smtp.example.net »).">
+<!ENTITY outgoingServer.label "Serveur d’envoi :">
 <!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Saisissez le nom d'utilisateur pour le serveur d'envoi donné par votre fournisseur (c'est habituellement le même que pour le serveur de réception).">
-<!ENTITY outgoingUsername.label "Nom d'utilisateur du serveur d'envoi :">
+<!ENTITY outgoingUsername.description "Saisissez le nom d’utilisateur pour le serveur d’envoi donné par votre fournisseur (c’est habituellement le même que pour le serveur de réception).">
+<!ENTITY outgoingUsername.label "Nom d’utilisateur du serveur d’envoi :">
 <!ENTITY outgoingUsername.accesskey "u">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
@@ -97,14 +97,14 @@
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
  -->
-<!ENTITY haveSmtp2.prefix "Votre nom d'utilisateur sortant actuel (SMTP), « ">
+<!ENTITY haveSmtp2.prefix "Votre nom d’utilisateur sortant actuel (SMTP), « ">
 <!ENTITY haveSmtp2.suffix3 " », sera utilisé.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
  -->
-<!ENTITY haveSmtp3.prefix "Votre serveur d'envoi de messages (SMTP) « ">
-<!ENTITY haveSmtp3.suffix3 " », est identique à votre serveur entrant. Votre nom d'utilisateur entrant sera utilisé pour la connexion à ce serveur.">
+<!ENTITY haveSmtp3.prefix "Votre serveur d’envoi de messages (SMTP) « ">
+<!ENTITY haveSmtp3.suffix3 " », est identique à votre serveur entrant. Votre nom d’utilisateur entrant sera utilisé pour la connexion à ce serveur.">
 
 <!-- Entities for Account name page -->
 
@@ -120,7 +120,7 @@
 <!ENTITY completionText.label "Veuillez vérifier que les informations ci-dessous sont correctes.">
 <!ENTITY serverTypePrefix.label "Type du serveur de réception :">
 <!ENTITY serverNamePrefix.label "Nom du serveur de réception :">
-<!ENTITY smtpServerNamePrefix.label "Nom du serveur d'envoi (SMTP) :">
+<!ENTITY smtpServerNamePrefix.label "Nom du serveur d’envoi (SMTP) :">
 <!ENTITY newsServerNamePrefix.label "Nom du serveur de groupes (NNTP) :">
 <!ENTITY downloadOnLogin.label "Télécharger les messages maintenant">
 <!ENTITY downloadOnLogin.accesskey "T">
@@ -128,5 +128,5 @@
 <!ENTITY deferStorageDesc.label "Décochez cette case pour stocker les messages de ce compte dans les dossiers locaux globaux. Ce compte sera ainsi considéré comme un compte de niveau supérieur. Dans le cas contraire, il fera partie du compte boîte globale stocké dans les dossiers locaux.">
 <!ENTITY deferStorage.label "Utiliser le dossier des courriers entrants global (stocke les messages dans les dossiers locaux).">
 <!ENTITY deferStorage.accesskey "U">
-<!ENTITY clickFinish.label "Cliquez sur Terminer pour enregistrer ces paramètres et quitter l'assistant de création de compte.">
-<!ENTITY clickFinish.labelMac "Cliquez sur Terminer pour enregistrer ces paramètres et quitter l'assistant de création de compte.">
+<!ENTITY clickFinish.label "Cliquez sur Terminer pour enregistrer ces paramètres et quitter l’assistant de création de compte.">
+<!ENTITY clickFinish.labelMac "Cliquez sur Terminer pour enregistrer ces paramètres et quitter l’assistant de création de compte.">

@@ -15,7 +15,7 @@ same thing as in English; please try instead to translate the whole
 sentence. -->
 <!ENTITY  reportIdleAfter.label "Permettre à mes contacts de savoir que mon compte est inactif après">
 <!ENTITY  reportIdleAfter.accesskey "P">
-<!ENTITY  idleTime "minutes d'inactivité">
+<!ENTITY  idleTime "minutes d’inactivité">
 
 <!ENTITY  andSetStatusToAway.label "et indiquer mon absence avec le message suivant :">
 <!ENTITY  andSetStatusToAway.accesskey  "e">
@@ -23,17 +23,17 @@ sentence. -->
 <!ENTITY  sendTyping.label "Envoyer les notifications de saisie dans mes conversations">
 <!ENTITY  sendTyping.accesskey "v">
 
-<!ENTITY  chatNotifications.label             "À la réception d'un message qui vous est destiné :">
+<!ENTITY  chatNotifications.label             "À la réception d’un message qui vous est destiné :">
 <!ENTITY  desktopChatNotifications.label      "Afficher une notification :">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
-<!ENTITY  completeNotification.label          "avec le nom de l'expéditeur et un aperçu du message">
-<!ENTITY  buddyInfoOnly.label                 "avec le nom de l'expéditeur uniquement">
+<!ENTITY  completeNotification.label          "avec le nom de l’expéditeur et un aperçu du message">
+<!ENTITY  buddyInfoOnly.label                 "avec le nom de l’expéditeur uniquement">
 <!ENTITY  dummyNotification.label             "sans aucune information">
 <!ENTITY  chatSound.accesskey                 "n">
 <!ENTITY  chatSound.label                     "Jouer un son">
 <!ENTITY  play.label                          "Jouer">
 <!ENTITY  play.accesskey                      "J">
-<!ENTITY  systemSound.label                   "Son système par défaut pour la réception d'un nouveau message">
+<!ENTITY  systemSound.label                   "Son système par défaut pour la réception d’un nouveau message">
 <!ENTITY  systemSound.accesskey               "S">
 <!ENTITY  customsound.label                   "Utiliser le fichier son suivant">
 <!ENTITY  customsound.accesskey               "U">

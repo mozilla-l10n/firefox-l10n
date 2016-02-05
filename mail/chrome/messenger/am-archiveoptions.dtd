@@ -4,8 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
-<!ENTITY dialogTitle.label "Options d'archivage">
-<!ENTITY archiveGranularityPrefix.label "Lors de l'archivage des messages, les placer dans :">
+<!ENTITY dialogTitle.label "Options d’archivage">
+<!ENTITY archiveGranularityPrefix.label "Lors de l’archivage des messages, les placer dans :">
 <!ENTITY archiveFlat.label "Un simple dossier">
 <!ENTITY archiveFlat.accesskey "U">
 <!ENTITY archiveYearly.label "Les dossiers archivés annuellement">

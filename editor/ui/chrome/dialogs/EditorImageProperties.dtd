@@ -10,45 +10,45 @@
 <!ENTITY pixelsPopup.value "pixels">
 
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label "URL de l'image">
+<!ENTITY locationEditField.label "URL de l’image">
 <!ENTITY locationEditField.accessKey "U">
-<!ENTITY locationEditField.tooltip "Taper le nom de fichier et l'emplacement de l'image">
+<!ENTITY locationEditField.tooltip "Taper le nom de fichier et l’emplacement de l’image">
 <!ENTITY title.label "Infobulle :">
 <!ENTITY title.accessKey "I">
-<!ENTITY title.tooltip "L'attribut HTML 'title' qui apparaît dans une infobulle">
+<!ENTITY title.tooltip "L’attribut HTML 'title' qui apparaît dans une infobulle">
 
 <!ENTITY altText.label "Texte de remplacement :">
 <!ENTITY altText.accessKey "T">
-<!ENTITY altTextEditField.tooltip "Taper le texte à mettre à la place de l'image">
+<!ENTITY altTextEditField.tooltip "Taper le texte à mettre à la place de l’image">
 <!ENTITY noAltText.label "Pas de texte de remplacement">
 <!ENTITY noAltText.accessKey "P">
 
-<!ENTITY previewBox.label "Prévisualisation de l'image">
+<!ENTITY previewBox.label "Prévisualisation de l’image">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Taille réelle :">
 <!ENTITY actualSizeRadio.label "Taille réelle">
 <!ENTITY actualSizeRadio.accessKey "T">
-<!ENTITY actualSizeRadio.tooltip "Revenir à la taille réelle de l'image">
+<!ENTITY actualSizeRadio.tooltip "Revenir à la taille réelle de l’image">
 <!ENTITY customSizeRadio.label "Taille personnalisée">
 <!ENTITY customSizeRadio.accessKey "p">
-<!ENTITY customSizeRadio.tooltip "Changer la taille de l'image dans la page">
+<!ENTITY customSizeRadio.tooltip "Changer la taille de l’image dans la page">
 <!ENTITY heightEditField.label "Hauteur :">
 <!ENTITY heightEditField.accessKey "H">
 <!ENTITY widthEditField.label "Largeur :">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY constrainCheckbox.label "Contraindre">
 <!ENTITY constrainCheckbox.accessKey "C">
-<!ENTITY constrainCheckbox.tooltip "Maintenir les proportions de l'image">
+<!ENTITY constrainCheckbox.tooltip "Maintenir les proportions de l’image">
 
 <!-- These controls are in the Image Map box of the expanded area -->
-<!ENTITY imagemapBox.label "Carte de l'image">
-<!ENTITY removeImageMapButton.label "Supprimer de la liste d'images">
+<!ENTITY imagemapBox.label "Carte de l’image">
+<!ENTITY removeImageMapButton.label "Supprimer de la liste d’images">
 <!ENTITY removeImageMapButton.accessKey "S">
 
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label "Aligner le texte par rapport à l'image :">
+<!ENTITY alignment.label "Aligner le texte par rapport à l’image :">
 <!ENTITY bottomPopup.value "vers le bas">
 <!ENTITY topPopup.value "vers le haut">
 <!ENTITY centerPopup.value "au centre">
@@ -65,7 +65,7 @@
 <!ENTITY borderEditField.accessKey "B">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "Mettre un cadre autour de l'image (lien)">
+<!ENTITY showImageLinkBorder.label "Mettre un cadre autour de l’image (lien)">
 <!ENTITY showImageLinkBorder.accessKey "c">
 <!ENTITY LinkAdvancedEditButton.label "Propriétés avancées de lien…">
 <!ENTITY LinkAdvancedEditButton.accessKey "P">

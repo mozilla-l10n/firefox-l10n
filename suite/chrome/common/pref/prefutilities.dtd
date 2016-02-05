@@ -37,4 +37,4 @@
 <!-- LOCALIZATION NOTE (FallbackCharset.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY FallbackCharset.vietnamese   "Vietnamien">
-<!ENTITY FallbackCharset.other        "Autre (y compris Europe de l'ouest)">
+<!ENTITY FallbackCharset.other        "Autre (y compris Europe de l’ouest)">

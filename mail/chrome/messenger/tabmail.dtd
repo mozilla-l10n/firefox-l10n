@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  closeTab.label           "Fermer l'onglet">
+<!ENTITY  closeTab.label           "Fermer l’onglet">
 <!ENTITY  listAllTabs.label        "Lister tous les onglets">
 <!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
      title to show when the tab has no title. -->

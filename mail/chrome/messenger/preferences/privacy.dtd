@@ -23,7 +23,7 @@
 <!ENTITY acceptThirdParty.always.label "toujours">
 <!ENTITY acceptThirdParty.never.label "jamais">
 <!ENTITY acceptThirdParty.visited.label "depuis les sites visités">
-<!ENTITY keepUntil.label "Les conserver jusqu'à :">
+<!ENTITY keepUntil.label "Les conserver jusqu’à :">
 <!ENTITY keepUntil.accesskey "L">
 <!ENTITY expire.label "leur expiration">
 <!ENTITY close.label "la fermeture de &brandShortName;">

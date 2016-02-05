@@ -20,12 +20,12 @@
 <!ENTITY publicNamespace.accesskey "P">
 <!ENTITY otherUsersNamespace.label    "Autres utilisateurs :">
 <!ENTITY otherUsersNamespace.accesskey "u">
-<!ENTITY overrideNamespaces.label "Permettre au serveur d'outrepasser ces espaces de noms">
+<!ENTITY overrideNamespaces.label "Permettre au serveur d’outrepasser ces espaces de noms">
 <!ENTITY overrideNamespaces.accesskey "r">
 <!ENTITY pop3DeferringDesc.label "Lorsque vous téléchargez du courrier depuis le compte de ce serveur, utiliser les répertoires de Courrier entrant suivants pour stocker les messages :" >
 <!ENTITY accountInbox.label "Courrier entrant de ce compte">
 <!ENTITY accountInbox.accesskey "e">
-<!ENTITY deferToServer.label "Courrier entrant d'un autre compte">
+<!ENTITY deferToServer.label "Courrier entrant d’un autre compte">
 <!ENTITY deferToServer.accesskey "o">
 <!ENTITY deferGetNewMail.label "Inclure ce serveur lors de la récupération des messages">
 <!ENTITY deferGetNewMail.accesskey "I">

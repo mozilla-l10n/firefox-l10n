@@ -5,7 +5,7 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Copies et dossiers">
-<!ENTITY sendingPrefix.label "Lors de l'envoi de messages, automatiquement :">
+<!ENTITY sendingPrefix.label "Lors de l’envoi de messages, automatiquement :">
 <!ENTITY fccMailFolder.label "Placer une copie dans :">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Placer les réponses dans le dossier du message auquel il a été répondu">
@@ -29,7 +29,7 @@
 <!ENTITY archivesTitle.label "Archives des messages">
 <!ENTITY keepArchives.label "Conserver les archives dans :">
 <!ENTITY keepArchives.accesskey "h">
-<!ENTITY archiveHierarchyButton.label "Options d'archivage…">
+<!ENTITY archiveHierarchyButton.label "Options d’archivage…">
 <!ENTITY archiveHierarchyButton.accesskey "O">
 <!ENTITY archivesFolderOn.label "Dossier « Archives » dans :">
 <!ENTITY archivesFolderOn.accesskey "D">

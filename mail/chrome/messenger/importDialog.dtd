@@ -17,7 +17,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importMail.accesskey     "M">
 <!ENTITY importFeeds.label        "Abonnements à des flux">
 <!ENTITY importFeeds.accesskey    "d">
-<!ENTITY importAddressbook.label  "Carnets d'adresses">
+<!ENTITY importAddressbook.label  "Carnets d’adresses">
 <!ENTITY importAddressbook.accesskey "a">
 <!ENTITY importSettings.label     "Paramètres">
 <!ENTITY importSettings.accesskey "P">
@@ -27,10 +27,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "Assistant d'importation de &brandShortName;">
-<!ENTITY importShortDesc.label    "Importer le courrier, les paramètres, les carnets d'adresses et les filtres d'autres logiciels">
+<!ENTITY importTitle.label        "Assistant d’importation de &brandShortName;">
+<!ENTITY importShortDesc.label    "Importer le courrier, les paramètres, les carnets d’adresses et les filtres d’autres logiciels">
 
-<!ENTITY importDescription1.label "Cet assistant importera dans &brandShortName; les messages, carnets d'adresses, abonnements à des flux, préférences et/ou filtres d'autres logiciels de messagerie et ainsi que des carnets d'adresses de formats courants.">
+<!ENTITY importDescription1.label "Cet assistant importera dans &brandShortName; les messages, carnets d’adresses, abonnements à des flux, préférences et/ou filtres d’autres logiciels de messagerie et ainsi que des carnets d’adresses de formats courants.">
 <!ENTITY importDescription2.label "Une fois importées, ces données seront accessibles depuis &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Veuillez sélectionner le type de fichier à importer :">

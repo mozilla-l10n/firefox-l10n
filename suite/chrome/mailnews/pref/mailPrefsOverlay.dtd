@@ -9,7 +9,7 @@
 <!-- These are added to the Window menu -->
 <!ENTITY mail.label                       "Courrier et Groupes de discussion">
 <!ENTITY mail.accesskey                   "G">
-<!ENTITY addressbook.label                "Carnet d'adresses">
+<!ENTITY addressbook.label                "Carnet d’adresses">
 <!ENTITY addressbook.accesskey            "n">
 
 <!-- These are added to Preferences dialog -->
@@ -17,7 +17,7 @@
 <!ENTITY notifications.label              "Avertissements">
 <!ENTITY address.label                    "Adressage">
 <!ENTITY composingMessages.label          "Rédaction des messages">
-<!ENTITY format.label                     "Format d'expédition">
+<!ENTITY format.label                     "Format d’expédition">
 <!ENTITY return.label                     "Accusés de réception">
 <!ENTITY junk.label                       "Indésirables et suspects">
 <!ENTITY tags.label                       "Étiquettes">

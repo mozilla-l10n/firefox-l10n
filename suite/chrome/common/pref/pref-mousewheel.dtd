@@ -20,7 +20,7 @@
 <!ENTITY scrollDocument.label            "Faire défiler le document">
 <!ENTITY scrollDocument.accesskey        "F">
 <!ENTITY scrollDocumentHoriz.accesskey   "c">
-<!ENTITY history.label                   "Avancer ou reculer dans l'historique">
+<!ENTITY history.label                   "Avancer ou reculer dans l’historique">
 <!ENTITY history.accesskey               "A">
 <!ENTITY historyHoriz.accesskey          "h">
 <!ENTITY zoom.label                      "Zoomer">

@@ -4,8 +4,8 @@
 
 <!ENTITY no-properties.label   "Aucune propriété définie.">
 
-<!ENTITY caption.label         "Propriétés de l'élément">
-<!ENTITY image-sec.label       "Propriétés de l'image">
+<!ENTITY caption.label         "Propriétés de l’élément">
+<!ENTITY image-sec.label       "Propriétés de l’image">
 <!ENTITY image-url.label       "Adresse :">
 <!ENTITY image-desc.label      "Description :">
 <!ENTITY image-alt.label       "Texte alternatif :">
@@ -18,7 +18,7 @@
 <!ENTITY insdel-date.label     "Date :">
 <!ENTITY link-sec.label        "Propriétés du lien">
 <!ENTITY link-url.label        "Adresse :">
-<!ENTITY link-target.label     "S'ouvrira dans :">
+<!ENTITY link-target.label     "S’ouvrira dans :">
 <!ENTITY link-type.label       "Cible :">
 <!ENTITY link-lang.label       "Langue de la cible :">
 <!ENTITY link-rel.label        "Relation :">

@@ -21,14 +21,14 @@
 
 <!ENTITY sidebar.no-panels.state "La barre est actuellement vide.">
 <!ENTITY sidebar.no-panels.add "Vous pouvez ajouter des panneaux en cliquant sur le bouton « Panneaux » au-dessus.">
-<!ENTITY sidebar.no-panels.hide "Pour masquer complètement la barre, désélectionnez « Barre latérale » dans le menu « Affichage->Barres d'outils ».">
+<!ENTITY sidebar.no-panels.hide "Pour masquer complètement la barre, désélectionnez « Barre latérale » dans le menu « Affichage->Barres d’outils ».">
 <!ENTITY sidebar.sbDirectory.label "Répertoire de la barre…">
 
-<!ENTITY sidebar.pagenotfound.label "Ce panneau n'est pas disponible actuellement.">
+<!ENTITY sidebar.pagenotfound.label "Ce panneau n’est pas disponible actuellement.">
 <!ENTITY sidebar.close.tooltip "Fermer">
 <!ENTITY sidebar.open.tooltip "Ouvrir">
 
 <!ENTITY sidebar.search.label         "Rechercher">
 <!ENTITY sidebar.client-bookmarks.label     "Marque-pages">
 <!ENTITY sidebar.client-history.label       "Historique">
-<!ENTITY sidebar.client-addressbook.label   "Carnet d'adresses">
+<!ENTITY sidebar.client-addressbook.label   "Carnet d’adresses">

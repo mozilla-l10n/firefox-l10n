@@ -9,7 +9,7 @@
 <!ENTITY accountProtocolField.label "Réseau :">
 <!ENTITY accountProtocolGetMore.label "Obtenir plus de réseaux…">
 
-<!ENTITY accountUsernameTitle.label "Nom d'utilisateur">
+<!ENTITY accountUsernameTitle.label "Nom d’utilisateur">
 <!ENTITY accountUsernameDuplicate.label "Ce compte est déjà configuré !">
 
 <!ENTITY accountPasswordTitle.label "Mot de passe">

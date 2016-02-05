@@ -18,7 +18,7 @@
 
 <!ENTITY openInTab.label                  "Ouvrir de nouveaux onglets pour les résultats de recherche de la barre latérale">
 <!ENTITY openInTab.accesskey              "n">
-<!ENTITY openContextSearchTab.label       "Ouvrir un onglet plutôt qu'une fenêtre pour une recherche web depuis le menu contextuel">
+<!ENTITY openContextSearchTab.label       "Ouvrir un onglet plutôt qu’une fenêtre pour une recherche web depuis le menu contextuel">
 <!ENTITY openContextSearchTab.accesskey   "t">
-<!ENTITY openSidebarSearchPanel.label     "Ouvrir l'onglet Recherche de la barre latérale lors d'une nouvelle recherche">
+<!ENTITY openSidebarSearchPanel.label     "Ouvrir l’onglet Recherche de la barre latérale lors d’une nouvelle recherche">
 <!ENTITY openSidebarSearchPanel.accesskey "O">

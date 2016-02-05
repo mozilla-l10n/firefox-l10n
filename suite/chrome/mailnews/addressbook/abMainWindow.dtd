@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY addressbookWindow.title "Carnet d'adresses">
+<!ENTITY addressbookWindow.title "Carnet d’adresses">
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
@@ -14,7 +14,7 @@
 <!ENTITY newListCmd.label                   "Liste de diffusion…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey "l">
-<!ENTITY newAddressBookCmd.label            "Carnet d'adresses…">
+<!ENTITY newAddressBookCmd.label            "Carnet d’adresses…">
 <!ENTITY newAddressBookCmd.accesskey        "C">
 <!ENTITY newLDAPDirectoryCmd.label "Annuaire LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
@@ -25,13 +25,13 @@
 <!ENTITY printPreviewContactViewCmd.label "Aperçu de la fiche avant impression">
 <!ENTITY printPreviewContactViewCmd.accesskey "d">
 <!ENTITY printContactViewCmd.key "P">
-<!ENTITY printAddressBook.label "Imprimer le carnet d'adresses…">
+<!ENTITY printAddressBook.label "Imprimer le carnet d’adresses…">
 <!ENTITY printAddressBook.accesskey "a">
-<!ENTITY printPreviewAddressBook.label "Aperçu du carnet d'adresses avant impression">
+<!ENTITY printPreviewAddressBook.label "Aperçu du carnet d’adresses avant impression">
 <!ENTITY printPreviewAddressBook.accesskey "u">
 
 <!-- Edit Menu -->
-<!ENTITY deleteAbCmd.label "Supprimer le carnet d'adresses">
+<!ENTITY deleteAbCmd.label "Supprimer le carnet d’adresses">
 <!ENTITY deleteContactCmd.label "Supprimer le contact">
 <!ENTITY deleteContactsCmd.label            "Supprimer les contacts">
 <!ENTITY deleteListCmd.label "Supprimer la liste">
@@ -45,7 +45,7 @@
 <!ENTITY propertiesCmd.key "i">
 
 <!-- View Menu -->
-<!ENTITY showAbToolbarCmd.label "Barre d'outils du carnet">
+<!ENTITY showAbToolbarCmd.label "Barre d’outils du carnet">
 <!ENTITY showAbToolbarCmd.accesskey "t">
 <!ENTITY layoutMenu.label "Disposition">
 <!ENTITY layoutMenu.accesskey "D">
@@ -81,22 +81,22 @@
 <!ENTITY deleteItemButton.accesskey "r">
 <!ENTITY newimButton.label "Message instantané">
 <!ENTITY newimButton.accesskey "s">
-<!ENTITY searchNameAndEmail.placeholder "Rechercher dans le nom et l'adresse électronique">
+<!ENTITY searchNameAndEmail.placeholder "Rechercher dans le nom et l’adresse électronique">
 <!ENTITY searchBox.title "Rechercher">
 
 <!-- Tooltips -->
-<!ENTITY addressbookToolbar.tooltip "Barre d'outils du carnet d'adresses">
+<!ENTITY addressbookToolbar.tooltip "Barre d’outils du carnet d’adresses">
 <!ENTITY newContactButton.tooltip "Créer un nouveau contact">
 <!ENTITY newlistButton.tooltip "Créer une nouvelle liste de diffusion">
-<!ENTITY editItemButton.tooltip "Modifier l'élément sélectionné">
+<!ENTITY editItemButton.tooltip "Modifier l’élément sélectionné">
 <!ENTITY newmsgButton.tooltip          "Écrire un courrier à la sélection">
 <!ENTITY newIM.tooltip "Envoyer un message instantané ou initier un chat">
-<!ENTITY deleteItemButton.tooltip "Supprimer l'élément sélectionné">
+<!ENTITY deleteItemButton.tooltip "Supprimer l’élément sélectionné">
 <!ENTITY throbber.tooltip                   "Visiter le site web de &vendorShortName;">
-<!ENTITY advancedButton.tooltip "Recherche avancée d'adresses">
+<!ENTITY advancedButton.tooltip "Recherche avancée d’adresses">
 
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label "Carnets d'adresses">
+<!ENTITY dirTreeHeader.label "Carnets d’adresses">
 
 <!-- Box Headings -->
 <!ENTITY contact.heading "Contact">
@@ -108,7 +108,7 @@
 <!ENTITY description.heading "Description">
 <!ENTITY addresses.heading "Adresses">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label "Plan d'accès">
+<!ENTITY mapItButton.label "Plan d’accès">
 <!ENTITY mapIt.tooltip "Afficher un plan de cette adresse depuis le Web">
 
 <!-- Status Bar -->  

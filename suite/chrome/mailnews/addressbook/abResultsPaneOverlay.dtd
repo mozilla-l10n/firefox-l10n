@@ -38,7 +38,7 @@
 <!-- context menu -->
 <!ENTITY composeEmail.label "Écrire un message">
 <!ENTITY composeEmail.accesskey "r">
-<!ENTITY copyAddress.label "Copier l'adresse électronique">
+<!ENTITY copyAddress.label "Copier l’adresse électronique">
 <!ENTITY copyAddress.accesskey "C">
 <!ENTITY deleteAddrBookCard.label "Supprimer">
 <!ENTITY deleteAddrBookCard.accesskey "S">

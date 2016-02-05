@@ -50,16 +50,16 @@
 <!ENTITY siteName.tooltip     "Un nom qui identifie ce site de publication (exemple : « MonSite »)">
 <!ENTITY siteUrl.label        "Adresse de publication (exemple : ftp://ftp.monfai.com/monnom/) :">
 <!ENTITY siteUrl.accesskey "A">
-<!ENTITY siteUrl.tooltip      "Adresse FTP ou HTTP fournie par votre FAI ou votre service d'hébergement web">
+<!ENTITY siteUrl.tooltip      "Adresse FTP ou HTTP fournie par votre FAI ou votre service d’hébergement web">
 <!ENTITY browseUrl.label      "Adresse HTTP de la page initiale (exemple : http://www.monfai.com/monnom/) :">
 <!ENTITY browseUrl.accesskey "H">
-<!ENTITY browseUrl.tooltip    "Adresse HTTP de votre répertoire initial (n'incluez pas de nom de fichier)">
-<!ENTITY username.label       "Nom d'utilisateur :">
+<!ENTITY browseUrl.tooltip    "Adresse HTTP de votre répertoire initial (n’incluez pas de nom de fichier)">
+<!ENTITY username.label       "Nom d’utilisateur :">
 <!ENTITY username.accesskey "u">
-<!ENTITY username.tooltip     "Le nom d'utilisateur que vous utilisez pour vous connecter à votre FAI ou votre service d'hébergement web">
+<!ENTITY username.tooltip     "Le nom d’utilisateur que vous utilisez pour vous connecter à votre FAI ou votre service d’hébergement web">
 <!ENTITY password.label       "Mot de passe :">
 <!ENTITY password.accesskey "M">
-<!ENTITY password.tooltip     "Le mot de passe associé à votre nom d'utilisateur">
+<!ENTITY password.tooltip     "Le mot de passe associé à votre nom d’utilisateur">
 <!ENTITY savePassword.label   "Enregistrer le mot de passe">
 <!ENTITY savePassword.accesskey "E">
-<!ENTITY savePassword.tooltip "Cocher cette option pour enregistrer votre mot de passe de façon sécurisée à l'aide du gestionnaire de mots de passe">
+<!ENTITY savePassword.tooltip "Cocher cette option pour enregistrer votre mot de passe de façon sécurisée à l’aide du gestionnaire de mots de passe">

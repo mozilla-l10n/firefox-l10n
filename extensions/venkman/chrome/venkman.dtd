@@ -16,11 +16,11 @@
 <!ENTITY Help.about "À propos de Venkman">
 
 <!-- toolips -->
-<!ENTITY DebugBar.tooltip "Barre d'outils de débogage">
+<!ENTITY DebugBar.tooltip "Barre d’outils de débogage">
 <!ENTITY MenuBar.tooltip "Barre de menu">
 
 <!-- breakpoint view -->
-<!ENTITY Break.label "Points d'arrêt">
+<!ENTITY Break.label "Points d’arrêt">
 <!ENTITY BreakCol0.label "Nom">
 <!ENTITY BreakCol1.label "Ligne/PC">
 
@@ -44,12 +44,12 @@
 
 <!-- source view -->
 <!ENTITY Source.label "Code source">
-<!ENTITY SourceHeader.tip "Barre d'outils de la source">
+<!ENTITY SourceHeader.tip "Barre d’outils de la source">
 <!ENTITY SourceCol0.display "Marge">
 <!ENTITY SourceCol1.display "Numéro de ligne">
 
 <!-- stack view -->
-<!ENTITY Stack.label "Pile d'appel">
+<!ENTITY Stack.label "Pile d’appel">
 <!ENTITY StackCol0.header "Nom">
 <!ENTITY StackCol1.header "Emplacement">
 
@@ -70,14 +70,14 @@
 <!ENTITY BPProps.PC.label "PC">
 <!ENTITY BPProps.FunctionName.label "Fonction">
 <!ENTITY BPProps.TriggerCount.label "Compteur de passage">
-<!ENTITY BPProps.OneTime.label "Effacer le point d'arrêt après le premier passage">
+<!ENTITY BPProps.OneTime.label "Effacer le point d’arrêt après le premier passage">
 <!ENTITY BPProps.Then.label "Puis…">
 <!ENTITY BPProps.ConditionalCheck.label "Quand il est activé…">
 <!ENTITY BPProps.NeverStopRadio.label "Continuer sans faire attention au résultat">
-<!ENTITY BPProps.AlwaysStopRadio.label "S'arrêter sans faire attention au résultat">
-<!ENTITY BPProps.ConditionalBreakRadio.label "S'arrêter si le résultat est vrai">
-<!ENTITY BPProps.EarlyReturnRadio.label "Retour rapide à l'appelant avec un résultat">
-<!ENTITY BPProps.PassExceptionsCheck.label "Passer les exceptions à l'appelant">
+<!ENTITY BPProps.AlwaysStopRadio.label "S’arrêter sans faire attention au résultat">
+<!ENTITY BPProps.ConditionalBreakRadio.label "S’arrêter si le résultat est vrai">
+<!ENTITY BPProps.EarlyReturnRadio.label "Retour rapide à l’appelant avec un résultat">
+<!ENTITY BPProps.PassExceptionsCheck.label "Passer les exceptions à l’appelant">
 <!ENTITY BPProps.LogResultCheck.label "Enregistrer le résultat">
 <!ENTITY BPProps.Apply.label "Appliquer">
 <!ENTITY BPProps.Revert.label "Annuler">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Propriétés des champs du formulaire">
-<!ENTITY windowTitleImage.label "Propriétés de l'image du formulaire">
+<!ENTITY windowTitleImage.label "Propriétés de l’image du formulaire">
 
 <!ENTITY InputType.label "Type de champ">
 <!ENTITY InputType.accesskey "T">
@@ -11,7 +11,7 @@
 <!ENTITY password.value "Mot de passe">
 <!ENTITY checkbox.value "Case à cocher">
 <!ENTITY radio.value "Bouton radio">
-<!ENTITY submit.value "Bouton d'envoi">
+<!ENTITY submit.value "Bouton d’envoi">
 <!ENTITY reset.value "Bouton reset">
 <!ENTITY file.value "Fichier">
 <!ENTITY hidden.value "Caché">
@@ -41,10 +41,10 @@
 <!ENTITY TextSize.accesskey "a">
 <!ENTITY TextLength.label "Longueur max. :">
 <!ENTITY TextLength.accesskey "x">
-<!ENTITY AccessKey.label "Touche d'accès :">
+<!ENTITY AccessKey.label "Touche d’accès :">
 <!ENTITY AccessKey.accesskey "h">
 <!ENTITY Accept.label "Accepter les types :">
 <!ENTITY Accept.accesskey "y">
 
-<!ENTITY ImageProperties.label "Propriétés de l'image…">
+<!ENTITY ImageProperties.label "Propriétés de l’image…">
 <!ENTITY ImageProperties.accesskey "m">

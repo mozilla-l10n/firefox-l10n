@@ -10,8 +10,8 @@
 <!ENTITY useDefault.label                 "Réinitialiser">
 <!ENTITY useDefault.accesskey             "i">
 
-<!ENTITY changeDockIconOptions.label      "Modifier les préférences de l'icône de l'application">
-<!ENTITY dockOptions.label                "Options de l'icône de l'application…">
+<!ENTITY changeDockIconOptions.label      "Modifier les préférences de l’icône de l’application">
+<!ENTITY dockOptions.label                "Options de l’icône de l’application…">
 <!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Quand un nouveau message arrive :">
@@ -28,7 +28,7 @@
 <!ENTITY play.label                       "Jouer le son">
 <!ENTITY play.accesskey                   "o">
 <!ENTITY systemsound.label                "Son système pour « nouveau message »">
-<!ENTITY systemsoundMac.label             "Son d'alerte système">
+<!ENTITY systemsoundMac.label             "Son d’alerte système">
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Utiliser le fichier son suivant :">

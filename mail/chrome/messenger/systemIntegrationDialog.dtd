@@ -9,7 +9,7 @@
 <!ENTITY newsgroups.label "les groupes de discussion">
 <!ENTITY feeds.label "les flux">
 
-<!ENTITY unsetDefault.tooltip "Il n'est pas possible de faire en sorte que &brandShortName; ne soit plus le client par défaut au sein de &brandShortName;. Pour définir une autre application comme client par défaut vous devez utiliser son dialogue « Définir par défaut ».">
+<!ENTITY unsetDefault.tooltip "Il n’est pas possible de faire en sorte que &brandShortName; ne soit plus le client par défaut au sein de &brandShortName;. Pour définir une autre application comme client par défaut vous devez utiliser son dialogue « Définir par défaut ».">
 
 <!ENTITY checkOnStartup.label "Toujours effectuer cette vérification au démarrage de &brandShortName;.">
 <!ENTITY checkOnStartup.accesskey "T">
@@ -18,5 +18,5 @@
 <!ENTITY searchIntegration.accesskey "A">
 
 <!ENTITY acceptIntegration.label  "Définir par défaut">
-<!ENTITY cancelIntegration.label  "Ignorer l'intégration">
+<!ENTITY cancelIntegration.label  "Ignorer l’intégration">
 <!ENTITY cancelIntegration2.label  "Annuler">

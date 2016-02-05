@@ -25,7 +25,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "Archiver ce message">
 <!ENTITY hdrSmartReplyButton1.label "Répondre (contextuel)">
 <!ENTITY hdrReplyButton1.label "Répondre">
-<!ENTITY hdrReplyButton2.tooltip "Répondre à l'expéditeur du message">
+<!ENTITY hdrReplyButton2.tooltip "Répondre à l’expéditeur du message">
 <!ENTITY hdrReplyAllButton1.label "Répondre à tous">
 <!ENTITY hdrReplyAllButton1.tooltip "Répondre à tous les destinataires">
 <!ENTITY hdrReplyListButton1.label "Répondre à la liste">
@@ -46,7 +46,7 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "f">
 <!ENTITY hdrViewToolbarShowText.label "Afficher le texte uniquement">
 <!ENTITY hdrViewToolbarShowText.accesskey "h">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Toujours afficher Répondre à l'expéditeur">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Toujours afficher Répondre à l’expéditeur">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "x">
 
 <!ENTITY otherActionsButton2.label "Autres">
@@ -98,12 +98,12 @@
 <!ENTITY saveAllAttachmentsButton1.label "Tout enregistrer">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Enregistrer toutes les pièces jointes">
 
-<!ENTITY copyLinkCmd.label "Copier l'adresse du lien">
+<!ENTITY copyLinkCmd.label "Copier l’adresse du lien">
 <!ENTITY copyLinkCmd.accesskey "C">
 
-<!ENTITY CopyMessageId.label "Copier l'identifiant du message">
+<!ENTITY CopyMessageId.label "Copier l’identifiant du message">
 <!ENTITY CopyMessageId.accesskey "C">
-<!ENTITY OpenMessageForMsgId.label "Ouvrir le message pour l'identifiant">
+<!ENTITY OpenMessageForMsgId.label "Ouvrir le message pour l’identifiant">
 <!ENTITY OpenMessageForMsgId.accesskey "O">
-<!ENTITY OpenBrowserWithMsgId.label "Ouvrir le navigateur avec l'identifiant de message">
+<!ENTITY OpenBrowserWithMsgId.label "Ouvrir le navigateur avec l’identifiant de message">
 <!ENTITY OpenBrowserWithMsgId.accesskey "v">

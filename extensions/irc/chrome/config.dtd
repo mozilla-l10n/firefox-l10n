@@ -14,11 +14,11 @@
 <!ENTITY object.add.accesskey "A">
 
 <!ENTITY object.del.label "Supprimer">
-<!ENTITY object.del.hint "Supprime l'objet en cours et toutes ses préférences">
+<!ENTITY object.del.hint "Supprime l’objet en cours et toutes ses préférences">
 <!ENTITY object.del.accesskey "S">
 
 <!ENTITY object.reset.label "Réinitialiser">
-<!ENTITY object.reset.hint "Réinitialise toutes les préférences de l'objet">
+<!ENTITY object.reset.hint "Réinitialise toutes les préférences de l’objet">
 <!ENTITY object.reset.accesskey "R">
 
 <!ENTITY dialog.apply "Appliquer">
@@ -27,10 +27,10 @@
 <!ENTITY channel "Salon">
 <!ENTITY user "Utilisateur">
 
-<!ENTITY config.add.title "Ajouter les préférences de l'objet">
+<!ENTITY config.add.title "Ajouter les préférences de l’objet">
 
 <!ENTITY config.type.label "Type :">
-<!ENTITY config.type.hint "Type d'objet dont on doit ajouter les préférences">
+<!ENTITY config.type.hint "Type d’objet dont on doit ajouter les préférences">
 <!ENTITY config.type.accesskey "T">
 <!ENTITY config.network.label "Réseau :">
 <!ENTITY config.network.hint "Nom connu du réseau, ou du serveur">

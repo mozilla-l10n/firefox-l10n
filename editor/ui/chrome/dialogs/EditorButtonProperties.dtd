@@ -20,7 +20,7 @@
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY ButtonDisabled.label "Désactivé">
 <!ENTITY ButtonDisabled.accesskey "D">
-<!ENTITY AccessKey.label "Touche d'accès :">
+<!ENTITY AccessKey.label "Touche d’accès :">
 <!ENTITY AccessKey.accesskey "a">
 
 <!ENTITY RemoveButton.label "Supprimer le bouton">

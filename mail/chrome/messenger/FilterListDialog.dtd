@@ -13,15 +13,15 @@
 <!ENTITY deleteButton.accesskey "S">
 <!ENTITY reorderTopButton "Placer tout en haut">
 <!ENTITY reorderTopButton.accessKey "h">
-<!ENTITY reorderTopButton.toolTip "Réordonner le filtre afin qu'il s'exécute avant tous les autres">
+<!ENTITY reorderTopButton.toolTip "Réordonner le filtre afin qu’il s’exécute avant tous les autres">
 <!ENTITY reorderUpButton.label "Monter">
 <!ENTITY reorderUpButton.accesskey "M">
 <!ENTITY reorderDownButton.label "Descendre">
 <!ENTITY reorderDownButton.accesskey "D">
 <!ENTITY reorderBottomButton "Placer tout en bas">
 <!ENTITY reorderBottomButton.accessKey "b">
-<!ENTITY reorderBottomButton.toolTip "Réordonner le filtre afin qu'il s'exécute après tous les autres">
-<!ENTITY filterHeader.label "Les filtres actifs seront appliqués dans l'ordre suivant :">
+<!ENTITY reorderBottomButton.toolTip "Réordonner le filtre afin qu’il s’exécute après tous les autres">
+<!ENTITY filterHeader.label "Les filtres actifs seront appliqués dans l’ordre suivant :">
 <!ENTITY filtersForPrefix.label "Filtres pour :">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Journal de filtrage">

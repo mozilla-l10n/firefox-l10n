@@ -6,7 +6,7 @@
 <!ENTITY accountWindow.width "300">
 <!ENTITY account.general "Général">
 <!ENTITY account.advanced "Options avancées">
-<!ENTITY account.name "Nom d'utilisateur :">
+<!ENTITY account.name "Nom d’utilisateur :">
 <!ENTITY account.password "Mot de passe :">
 <!ENTITY account.alias "Alias :">
 <!ENTITY account.newMailNotification "Signaler les nouveaux courriels">

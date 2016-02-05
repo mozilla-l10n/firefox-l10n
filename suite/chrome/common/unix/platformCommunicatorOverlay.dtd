@@ -23,7 +23,7 @@
 <!ENTITY accel.emacs_conflict "accel,shift">
 
 <!-- Help viewer -->
-<!ENTITY openHelpCmd.label "Contenu de l'aide">
+<!ENTITY openHelpCmd.label "Contenu de l’aide">
 <!ENTITY openHelpCmd.accesskey "a">
 <!ENTITY openHelpCmd.key "VK_F1">
 

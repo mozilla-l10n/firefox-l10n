@@ -21,14 +21,14 @@
 <!ENTITY enableAdaptiveJunkLogging.accesskey "c">
 <!ENTITY openJunkLog.label "Afficher le journal">
 <!ENTITY openJunkLog.accesskey "A">
-<!ENTITY resetTrainingData.label "Réinitialiser les données d'apprentissage">
+<!ENTITY resetTrainingData.label "Réinitialiser les données d’apprentissage">
 <!ENTITY resetTrainingData.accesskey "R">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro "&brandShortName; peut analyser les messages pour trouver les courriers susceptibles d'être frauduleux en cherchant les techniques usuelles utilisées pour tromper les utilisateurs.">
-<!ENTITY enablePhishingDetector1.label    "Signaler si le message en cours de lecture est susceptible d'être frauduleux">
+<!ENTITY phishingDetector1.intro "&brandShortName; peut analyser les messages pour trouver les courriers susceptibles d’être frauduleux en cherchant les techniques usuelles utilisées pour tromper les utilisateurs.">
+<!ENTITY enablePhishingDetector1.label    "Signaler si le message en cours de lecture est susceptible d’être frauduleux">
 <!ENTITY enablePhishingDetector1.accesskey  "S">
-<!ENTITY useDownloadedList.label "Utiliser une liste téléchargée de courriers susceptibles d'être frauduleux">
+<!ENTITY useDownloadedList.label "Utiliser une liste téléchargée de courriers susceptibles d’être frauduleux">
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
@@ -42,6 +42,6 @@
 <!ENTITY savedPasswords.accesskey "o">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; peut permettre aux logiciels antivirus d'analyser les courriers entrants avant qu'ils ne soient stockés localement.">
+<!ENTITY antiVirus.intro      "&brandShortName; peut permettre aux logiciels antivirus d’analyser les courriers entrants avant qu’ils ne soient stockés localement.">
 <!ENTITY antiVirus.label      "Permettre aux logiciels antivirus de mettre individuellement en quarantaine les messages entrants">
 <!ENTITY antiVirus.accesskey  "P">

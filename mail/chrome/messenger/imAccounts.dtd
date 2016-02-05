@@ -13,7 +13,7 @@
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Aucun compte configuré">
 <!ENTITY accountManager.noAccount.description "Cliquer sur le bouton « &accountManager.newAccount.label; » pour laisser &brandShortName; vous guider dans le processus de configuration.">
-<!ENTITY account.autoSignOn.label     "S'identifier au démarrage">
+<!ENTITY account.autoSignOn.label     "S’identifier au démarrage">
 <!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "Connecter">
 <!ENTITY account.connect.accesskey    "o">

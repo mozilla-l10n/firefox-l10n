@@ -16,9 +16,9 @@
 <!ENTITY normalText.accessKey "n">
 <!ENTITY linkText.label "Texte avec un lien ">
 <!ENTITY linkText.accessKey "l">
-<!ENTITY activeLinkText.label "Texte d'un lien actif ">
+<!ENTITY activeLinkText.label "Texte d’un lien actif ">
 <!ENTITY activeLinkText.accessKey "a">
-<!ENTITY visitedLinkText.label "Texte d'un lien visité ">
+<!ENTITY visitedLinkText.label "Texte d’un lien visité ">
 <!ENTITY visitedLinkText.accessKey "v">
 <!ENTITY background.label "Fond de la page :">
 <!ENTITY background.accessKey "F">

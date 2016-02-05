@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY identityDialog.style "width: 67ch;">
-<!ENTITY identityTitle.label "Paramètres de l'identité">
+<!ENTITY identityTitle.label "Paramètres de l’identité">
 <!ENTITY identityListDesc.label "Configuration des paramètres pour cette identité :">
 
 <!ENTITY settingsTab.label       "Paramètres">

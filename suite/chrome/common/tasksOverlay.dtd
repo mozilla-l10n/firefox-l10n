@@ -12,7 +12,7 @@
 <!ENTITY editorCmd.accesskey "o">
 <!ENTITY editorCmd.commandkey "4">
 
-<!ENTITY errorConsoleCmd.label "Console d'erreurs">
+<!ENTITY errorConsoleCmd.label "Console d’erreurs">
 <!ENTITY errorConsoleCmd.accesskey "s">
 <!ENTITY errorConsoleCmd.commandkey "j">
 

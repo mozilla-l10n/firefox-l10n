@@ -7,7 +7,7 @@
 <!ENTITY chatzilla.label       "ChatZilla">
 <!ENTITY version.unknown.label "Version inconnue">
 <!ENTITY version.known.label   "Version &#37;S">
-<!ENTITY description.label     "Un client IRC (Internet Relay Chat) simple, facile d'utilisation et hautement personnalisable.">
+<!ENTITY description.label     "Un client IRC (Internet Relay Chat) simple, facile d’utilisation et hautement personnalisable.">
 
 <!ENTITY homepage.label    "Visitez le site Web de ChatZilla">
 <!ENTITY copyversion.label "Détails de la version">

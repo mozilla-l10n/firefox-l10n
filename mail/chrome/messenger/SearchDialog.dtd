@@ -34,7 +34,7 @@
 <!ENTITY composeButton.accesskey     "c">
 <!ENTITY deleteCardButton.label      "Supprimer">
 <!ENTITY deleteCardButton.accesskey  "S">
-<!ENTITY abSearchDialogTitle.label   "Recherche avancée dans le carnet d'adresses">
+<!ENTITY abSearchDialogTitle.label   "Recherche avancée dans le carnet d’adresses">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Discussion">

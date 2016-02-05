@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY event.title.label "Modifier l'élément" >
+<!ENTITY event.title.label "Modifier l’élément" >
 
 <!ENTITY event.dialog.keepDurationButton.tooltip   "Conserver la durée lors de la modification de la date de fin">
 <!ENTITY event.dialog.keepDurationButton.accesskey "C">
@@ -27,7 +27,7 @@
 <!ENTITY newevent.status.completed.label          "Achevé le" >
 
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label "&#37; d'achèvement">
+<!ENTITY newtodo.percentcomplete.label "&#37; d’achèvement">
 
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
@@ -36,7 +36,7 @@
 <!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Invitation séparée pour chaque participant">
 <!ENTITY event.attendees.notifyundisclosed.accesskey  "v">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Cette option envoie un courriel d'invitation à chaque participant. Chaque invitation est adressée à un seul participant afin que les autres participants restent inconnus.">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Cette option envoie un courriel d’invitation à chaque participant. Chaque invitation est adressée à un seul participant afin que les autres participants restent inconnus.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2 "I">
@@ -94,9 +94,9 @@
 
 <!ENTITY event.menu.view.label "Affichage">
 <!ENTITY event.menu.view.accesskey "A">
-<!ENTITY event.menu.view.toolbars.label "Barre d'outils">
+<!ENTITY event.menu.view.toolbars.label "Barre d’outils">
 <!ENTITY event.menu.view.toolbars.accesskey "t">
-<!ENTITY event.menu.view.toolbars.event.label "Barre d'outils des évènements">
+<!ENTITY event.menu.view.toolbars.event.label "Barre d’outils des évènements">
 <!ENTITY event.menu.view.toolbars.event.accesskey "B">
 <!ENTITY event.menu.view.toolbars.customize.label "Personnaliser">
 <!ENTITY event.menu.view.toolbars.customize.accesskey "P">
@@ -123,7 +123,7 @@
 <!ENTITY event.menu.options.privacy.accesskey "d">
 <!ENTITY event.menu.options.privacy.public.label "Évènement public">
 <!ENTITY event.menu.options.privacy.public.accesskey "m">
-<!ENTITY event.menu.options.privacy.confidential.label "N'afficher que la date et l'heure">
+<!ENTITY event.menu.options.privacy.confidential.label "N’afficher que la date et l’heure">
 <!ENTITY event.menu.options.privacy.confidential.accesskey "r">
 <!ENTITY event.menu.options.privacy.private.label "Évènement privé">
 <!ENTITY event.menu.options.privacy.private.accesskey "t">
@@ -186,7 +186,7 @@
 <!ENTITY task.status.accesskey "S">
 <!ENTITY event.repeat.label "Répétition :" >
 <!ENTITY event.repeat.accesskey "i">
-<!ENTITY event.until.label "Jusqu'à :">
+<!ENTITY event.until.label "Jusqu’à :">
 <!ENTITY event.until.accesskey "q">
 <!ENTITY event.reminder.label "Rappel :" >
 <!ENTITY event.reminder.accesskey "R">
@@ -331,7 +331,7 @@
 <!ENTITY event.recurrence.forever.label "Pas de date de fin" >
 <!ENTITY event.recurrence.repeat.for.label "Créer" >
 <!ENTITY event.recurrence.appointments.label "Rendez-vous" >
-<!ENTITY event.repeat.until.label "Répéter jusqu'à" >
+<!ENTITY event.repeat.until.label "Répéter jusqu’à" >
 <!ENTITY event.recurrence.preview.label "Aperçu">
 
 <!-- Attendees dialog -->
@@ -345,7 +345,7 @@
 <!ENTITY event.freebusy.legend.busy "Occupé" >
 <!ENTITY event.freebusy.legend.busy_tentative "Provisoire" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Absent" >
-<!ENTITY event.freebusy.legend.unknown "Pas d'information" >
+<!ENTITY event.freebusy.legend.unknown "Pas d’information" >
 <!ENTITY event.attendee.role.required "Participation obligatoire">
 <!ENTITY event.attendee.role.optional "Participation facultative">
 <!ENTITY event.attendee.role.chair "Organisateur">

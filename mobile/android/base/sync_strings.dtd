@@ -22,10 +22,10 @@
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Me montrer comment'>
 <!ENTITY sync.link.advancedsetup.label 'Configuration avancée…'>
-<!ENTITY sync.link.nodevice.label 'Je n\u0027ai pas l\u0027appareil avec moi…'>
+<!ENTITY sync.link.nodevice.label 'Je n’ai pas l’appareil avec moi…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'En attente de l\u0027autre appareil…'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'En attente de l’autre appareil…'>
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'Saisissez vos identifiants de compte pour &syncBrand.fullName.label;'>
@@ -37,12 +37,12 @@
 
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Impossible de configurer &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; n\u0027a pas pu se connecter au serveur. Voulez-vous réessayer ?'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; n’a pas pu se connecter au serveur. Voulez-vous réessayer ?'>
 <!ENTITY sync.button.tryagain.label 'Réessayer'>
 <!ENTITY sync.button.manual.label 'Configuration manuelle'>
 <!ENTITY sync.subtitle.nointernet.label 'Connexion à Internet non disponible.'>
 <!ENTITY sync.subtitle.failaccount.label 'La création du compte sur votre appareil a échoué.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Avez-vous plusieurs Firefox installés ? &syncBrand.fullName.label; ne prend actuellement en charge qu\u0027une seule installation de Firefox à la fois. Désinstallez les autres instances pour utiliser &syncBrand.shortName.label;.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Avez-vous plusieurs Firefox installés ? &syncBrand.fullName.label; ne prend actuellement en charge qu’une seule installation de Firefox à la fois. Désinstallez les autres instances pour utiliser &syncBrand.shortName.label;.'>
 
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configuration terminée'>
@@ -52,7 +52,7 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Veuillez réessayer.'>
-<!ENTITY sync.pair.connectlocation.label 'Pour activer votre nouvel appareil, sélectionnez « Configurer &syncBrand.shortName.label; » sur celui-ci, et ensuite « J\u0027ai un compte ».'>
+<!ENTITY sync.pair.connectlocation.label 'Pour activer votre nouvel appareil, sélectionnez « Configurer &syncBrand.shortName.label; » sur celui-ci, et ensuite « J’ai un compte ».'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Options'>
@@ -63,7 +63,7 @@
 <!ENTITY sync.configure.engines.sync.my.title.label 'Synchroniser…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Les marque-pages'>
 <!ENTITY sync.configure.engines.title.passwords2 'Les identifiants'>
-<!ENTITY sync.configure.engines.title.history 'L\u0027historique'>
+<!ENTITY sync.configure.engines.title.history 'L’historique'>
 <!ENTITY sync.configure.engines.title.tabs 'Les onglets'>
 
 <!-- Common text -->
@@ -104,13 +104,13 @@
 <!ENTITY sync.new.recoverykey.status.incorrect 'Clé de récupération incorrecte. Veuillez réessayer.'>
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Envoyer l\u0027onglet à d\u0027autres appareils'>
+<!ENTITY sync.title.send.tab.label 'Envoyer l’onglet à d’autres appareils'>
 <!ENTITY sync.button.send.label 'Envoyer'>
 <!ENTITY sync.button.set.up.sync.label 'Configurer &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurer &syncBrand.shortName.label; pour l\u0027envoi d\u0027onglets'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurez &syncBrand.fullName.label; sur votre appareil afin qu\u0027il puisse envoyer des onglets à d\u0027autres appareils.'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurer &syncBrand.shortName.label; pour l’envoi d’onglets'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurez &syncBrand.fullName.label; sur votre appareil afin qu’il puisse envoyer des onglets à d’autres appareils.'>
 <!ENTITY sync.text.tab.sent.label 'Votre onglet a été envoyé !'>
-<!ENTITY sync.text.tab.not.sent.label 'Un problème est survenu lors de l\u0027envoi de votre onglet.'>
+<!ENTITY sync.text.tab.not.sent.label 'Un problème est survenu lors de l’envoi de votre onglet.'>
 
 <!-- Firefox account strings. -->
 
@@ -137,7 +137,7 @@
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_policy_linktos 'conditions d\u0027utilisation'>
+<!ENTITY fxaccount_policy_linktos 'conditions d’utilisation'>
 <!ENTITY fxaccount_policy_linkprivacy 'politique de confidentialité'>
 <!ENTITY fxaccount_status_more 'Plus&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Déconnecter…'>
@@ -162,7 +162,7 @@
 <!ENTITY fxaccount_create_account_month_of_birth 'Mois'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Année de naissance'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'En continuant, j\u0027accepte les &formatS1; et la &formatS2; des services en ligne de Firefox.'>
+<!ENTITY fxaccount_create_account_policy_text2 'En continuant, j’accepte les &formatS1; et la &formatS2; des services en ligne de Firefox.'>
 <!ENTITY fxaccount_create_account_button 'Suivant'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Choisir que synchroniser'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Vous possédez déjà un compte ? Connectez-vous'>
@@ -170,7 +170,7 @@
 <!ENTITY fxaccount_create_account_unknown_error 'Création de compte impossible'>
 
 <!ENTITY fxaccount_account_create_not_allowed 'Création de compte impossible'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Vous devez avoir atteint l\u0027âge requis pour pouvoir créer un compte.'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Vous devez avoir atteint l’âge requis pour pouvoir créer un compte.'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'En savoir plus'>
 
 <!ENTITY fxaccount_confirm_account_header 'Confirmer votre compte'>
@@ -179,10 +179,10 @@
 <!ENTITY fxaccount_confirm_account_resend_email 'Renvoyer le courriel'>
 <!ENTITY fxaccount_confirm_account_change_email 'Oublier cette adresse électronique ?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Courriel de vérification envoyé'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Impossible d\u0027envoyer le courriel de vérification'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Impossible d’envoyer le courriel de vérification'>
 <!ENTITY fxaccount_resend_unlock_code_button_label 'Renvoyer le courriel de déverrouillage'>
 <!ENTITY fxaccount_unlock_code_sent 'Courriel de déverrouillage du compte envoyé'>
-<!ENTITY fxaccount_unlock_code_not_sent 'Impossible d\u0027envoyer le courriel de déverrouillage du compte'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Impossible d’envoyer le courriel de déverrouillage du compte'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Connexion'>
 <!ENTITY fxaccount_sign_in_button_label 'Se connecter'>
@@ -209,7 +209,7 @@
 <!ENTITY fxaccount_status_auth_server 'Serveur de comptes'>
 <!ENTITY fxaccount_status_sync_now 'Synchroniser maintenant'>
 <!ENTITY fxaccount_status_syncing2 'Synchronisation…'>
-<!ENTITY fxaccount_status_device_name 'Nom de l\u0027appareil'>
+<!ENTITY fxaccount_status_device_name 'Nom de l’appareil'>
 <!ENTITY fxaccount_status_sync_server 'Serveur Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; : activé'>
@@ -228,7 +228,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Conditions d\u0027utilisation'>
+<!ENTITY fxaccount_status_linktos 'Conditions d’utilisation'>
 <!ENTITY fxaccount_status_linkprivacy 'Politique de confidentialité'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Activer le mode débogage'>
@@ -254,14 +254,14 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Ce compte existe déjà. &formatS1;'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Courriel ou mot de passe invalide'>
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Courriel ou mot de passe invalide'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Le compte n\u0027est pas vérifié'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Le compte n’est pas vérifié'>
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Serveur occupé, veuillez réessayer ultérieurement'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serveur occupé, veuillez réessayer ultérieurement'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Un problème est survenu'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Connexion au réseau impossible'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Le compte est verrouillé. &formatS1;'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; n\u0027est pas connecté'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; n’est pas connecté'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Appuyez pour vous connecter en tant que &formatS;'>
@@ -273,4 +273,4 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 <!ENTITY old_sync_deprecated_notification_title 'Connectez-vous pour poursuivre la synchronisation'>
-<!ENTITY old_sync_deprecated_notification_content 'Votre compte n\u0027est plus pris en charge'>
+<!ENTITY old_sync_deprecated_notification_content 'Votre compte n’est plus pris en charge'>

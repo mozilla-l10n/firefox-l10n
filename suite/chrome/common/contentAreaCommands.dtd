@@ -47,17 +47,17 @@
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "Informations sur le cadre">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY fitImageCmd.label            "Ajuster l'image à la fenêtre">
+<!ENTITY fitImageCmd.label            "Ajuster l’image à la fenêtre">
 <!ENTITY fitImageCmd.accesskey        "f">
-<!ENTITY reloadImageCmd.label         "Actualiser l'image">
+<!ENTITY reloadImageCmd.label         "Actualiser l’image">
 <!ENTITY reloadImageCmd.accesskey     "e">
-<!ENTITY viewImageCmd.label           "Afficher l'image">
+<!ENTITY viewImageCmd.label           "Afficher l’image">
 <!ENTITY viewImageCmd.accesskey       "h">
 <!ENTITY viewVideoCmd.label           "Afficher la vidéo">
 <!ENTITY viewVideoCmd.accesskey       "v">
-<!ENTITY viewBGImageCmd.label         "Afficher l'image de fond">
+<!ENTITY viewBGImageCmd.label         "Afficher l’image de fond">
 <!ENTITY viewBGImageCmd.accesskey     "h">
-<!ENTITY setDesktopBackgroundCmd.label     "Choisir comme fond d'écran…">
+<!ENTITY setDesktopBackgroundCmd.label     "Choisir comme fond d’écran…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "f">
 <!ENTITY bookmarkPageCmd.label        "Marquer cette page…">
 <!ENTITY bookmarkPageCmd.accesskey    "p">
@@ -77,24 +77,24 @@
 <!ENTITY saveLinkAsCmd.label          "Enregistrer le lien sous…">
 <!ENTITY saveLinkCmd.label            "Enregistrer le lien">
 <!ENTITY saveLinkCmd.accesskey        "s">
-<!ENTITY saveImageAsCmd.label         "Enregistrer l'image sous…">
-<!ENTITY saveImageCmd.label           "Enregistrer l'image">
+<!ENTITY saveImageAsCmd.label         "Enregistrer l’image sous…">
+<!ENTITY saveImageCmd.label           "Enregistrer l’image">
 <!ENTITY saveImageCmd.accesskey       "s">
 <!ENTITY saveVideoCmd.label           "Enregistrer la vidéo sous…">
 <!ENTITY saveVideoCmd.accesskey       "s">
 <!ENTITY saveAudioCmd.label           "Enregistrer le fichier audio sous…">
 <!ENTITY saveAudioCmd.accesskey       "s">
-<!ENTITY copyLinkCmd.label            "Copier l'adresse du lien">
+<!ENTITY copyLinkCmd.label            "Copier l’adresse du lien">
 <!ENTITY copyLinkCmd.accesskey        "n">
-<!ENTITY copyImageCmd.label           "Copier l'image">
+<!ENTITY copyImageCmd.label           "Copier l’image">
 <!ENTITY copyImageCmd.accesskey       "m">
-<!ENTITY copyVideoURLCmd.label        "Copier l'URL de la vidéo">
+<!ENTITY copyVideoURLCmd.label        "Copier l’URL de la vidéo">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Copier l'URL du fichier audio">
+<!ENTITY copyAudioURLCmd.label        "Copier l’URL du fichier audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY metadataCmd.label            "Propriétés">
 <!ENTITY metadataCmd.accesskey        "r">
-<!ENTITY copyEmailCmd.label           "Copier l'adresse électronique">
+<!ENTITY copyEmailCmd.label           "Copier l’adresse électronique">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label          "Ce cadre">
 <!ENTITY thisFrameMenu.accesskey      "C">
@@ -138,11 +138,11 @@ items are mutually exclusive. -->
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
 <!ENTITY spellAddToDictionary.label     "Ajouter au dictionnaire">
 <!ENTITY spellAddToDictionary.accesskey "A">
-<!ENTITY spellUndoAddToDictionary.label      "Annuler l'ajout au dictionnaire">
+<!ENTITY spellUndoAddToDictionary.label      "Annuler l’ajout au dictionnaire">
 <!ENTITY spellUndoAddToDictionary.accesskey  "t">
 <!ENTITY spellIgnoreWord.label          "Ignorer le mot">
 <!ENTITY spellIgnoreWord.accesskey      "I">
-<!ENTITY spellCheckEnable.label         "Vérifier l'orthographe">
+<!ENTITY spellCheckEnable.label         "Vérifier l’orthographe">
 <!ENTITY spellCheckEnable.accesskey     "V">
 <!ENTITY spellNoSuggestions.label       "(Aucune suggestion)">
 <!ENTITY spellDictionaries.label        "Langues">

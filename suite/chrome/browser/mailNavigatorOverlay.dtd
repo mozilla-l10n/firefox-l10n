@@ -16,7 +16,7 @@
 <!ENTITY contextSendThisPage.accesskey    "v">
 <!ENTITY contextSendThisLink.label        "Envoyer ce lien…">
 <!ENTITY contextSendThisLink.accesskey    "i">
-<!ENTITY contextSendImage.label           "Envoyer l'image…">
+<!ENTITY contextSendImage.label           "Envoyer l’image…">
 <!ENTITY contextSendImage.accesskey       "n">
 <!ENTITY contextSendVideo.label           "Envoyer la vidéo…">
 <!ENTITY contextSendVideo.accesskey       "n">

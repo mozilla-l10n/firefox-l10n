@@ -12,9 +12,9 @@
 <!ENTITY smiley2Cmd.label "Mécontent">
 <!ENTITY smiley2Cmd.accesskey "M">
 <!ENTITY smiley2Cmd.tooltip "Insérer une émoticône Mécontent">
-<!ENTITY smiley3Cmd.label "Clin d'œil">
+<!ENTITY smiley3Cmd.label "Clin d’œil">
 <!ENTITY smiley3Cmd.accesskey "C">
-<!ENTITY smiley3Cmd.tooltip "Insérer une émoticône Clin d'œil">
+<!ENTITY smiley3Cmd.tooltip "Insérer une émoticône Clin d’œil">
 <!ENTITY smiley4Cmd.label "Moqueur">
 <!ENTITY smiley4Cmd.accesskey "q">
 <!ENTITY smiley4Cmd.tooltip "Insérer une émoticône Moqueur">

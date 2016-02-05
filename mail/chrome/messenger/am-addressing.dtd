@@ -6,7 +6,7 @@
 
 <!ENTITY addressing.label          "Rédaction et adressage">
 <!ENTITY addressingGroupTitle.label "Adressage">
-<!ENTITY addressingText.label      "Lors de la recherche d'adresses :">
+<!ENTITY addressingText.label      "Lors de la recherche d’adresses :">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Utiliser mes préférences globales de serveur LDAP pour ce compte">
 <!ENTITY useGlobal.accesskey       "U">
@@ -43,5 +43,5 @@
 <!ENTITY globalComposingPrefs.label           "Préférences globales de rédaction…">
 <!ENTITY globalComposingPrefs.accesskey       "g">
 
-<!ENTITY globalAddressingPrefs.label          "Préférences globales d'adressage…">
+<!ENTITY globalAddressingPrefs.label          "Préférences globales d’adressage…">
 <!ENTITY globalAddressingPrefs.accesskey      "P">

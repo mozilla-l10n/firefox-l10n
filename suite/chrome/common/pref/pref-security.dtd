@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Confidentialité et sécurité">
 
-<!ENTITY tracking.label                   "Pistage de l'utilisateur">
+<!ENTITY tracking.label                   "Pistage de l’utilisateur">
 <!ENTITY trackingIntro.label              "Les sites web peuvent pister la façon dont vous les utilisez, ce qui affecte votre vie privée.">
 
 <!ENTITY doNotTrack.label                 "Indiquer aux sites que je ne souhaite pas être pisté">

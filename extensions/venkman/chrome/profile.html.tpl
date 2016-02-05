@@ -112,6 +112,6 @@
     </span>
 @-section-end
     <hr>
-    <a href="http://www.mozilla.org/projects/venkman/">Aucun travail n'est trop grand, aucun frais n'est de trop.</a>
+    <a href="http://www.mozilla.org/projects/venkman/">Aucun travail n’est trop grand, aucun frais n’est de trop.</a>
   </body>
 </html>

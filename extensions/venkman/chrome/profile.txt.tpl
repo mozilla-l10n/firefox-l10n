@@ -27,5 +27,5 @@ $section-number <$full-url>
 @-section-end
 
 
-Merci d'utiliser Venkman, le Débogueur JavaScript de Mozilla.
+Merci d’utiliser Venkman, le Débogueur JavaScript de Mozilla.
 <http://www.mozilla.org/projects/venkman>

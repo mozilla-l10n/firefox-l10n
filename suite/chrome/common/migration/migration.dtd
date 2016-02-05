@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY migrationWizard.title           "Assistant d'importation">
+<!ENTITY migrationWizard.title           "Assistant d’importation">
 
 <!ENTITY importAllFrom.label             "Importer tous les éléments de :">
 <!ENTITY importBookmarksFrom.label       "Importer les marque-pages de :">
@@ -19,10 +19,10 @@
 <!ENTITY importItems.label               "Sélectionnez les éléments à importer :">
 
 <!ENTITY selectProfile.title             "Sélectionner un profil">
-<!ENTITY selectProfile.label             "Les profils suivants sont disponibles à l'importation :">
+<!ENTITY selectProfile.label             "Les profils suivants sont disponibles à l’importation :">
 
 <!ENTITY migrating.title                 "Importation…">
-<!ENTITY migrating.label                 "Les éléments suivants sont en cours d'importation…">
+<!ENTITY migrating.label                 "Les éléments suivants sont en cours d’importation…">
 
 <!ENTITY done.title                      "Importation terminée">
 <!ENTITY done.label                      "Les éléments suivants ont été importés avec succès :">

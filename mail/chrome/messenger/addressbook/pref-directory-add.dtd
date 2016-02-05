@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "Propriétés du serveur d'annuaire">
+<!ENTITY newDirectoryTitle.label           "Propriétés du serveur d’annuaire">
 <!ENTITY directoryName.label               "Nom :">
 <!ENTITY directoryName.accesskey           "n">
-<!ENTITY directoryHostname.label           "Nom d'hôte :">
+<!ENTITY directoryHostname.label           "Nom d’hôte :">
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "Nom distinct de base :">
 <!ENTITY directoryBaseDN.accesskey         "b">
@@ -13,7 +13,7 @@
 <!ENTITY findButton.accesskey              "h">
 <!ENTITY directorySecure.label             "Utiliser une connexion chiffrée (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "Connecter avec l'utilisateur :">
+<!ENTITY directoryLogin.label              "Connecter avec l’utilisateur :">
 <!ENTITY directoryLogin.accesskey          "C">
 <!ENTITY General.tab                       "Général">
 <!ENTITY Offline.tab                       "Hors connexion">
@@ -31,8 +31,8 @@
 <!ENTITY return.label                      "Ne pas retourner plus de">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "résultats">
-<!ENTITY offlineText.label                 "Vous pouvez créer une copie locale de cet annuaire pour pouvoir l'utiliser une fois hors connexion.">
-<!ENTITY saslMechanism.label               "Méthode d'identification : ">
+<!ENTITY offlineText.label                 "Vous pouvez créer une copie locale de cet annuaire pour pouvoir l’utiliser une fois hors connexion.">
+<!ENTITY saslMechanism.label               "Méthode d’identification : ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simple">
 <!ENTITY saslOff.accesskey                 "l">

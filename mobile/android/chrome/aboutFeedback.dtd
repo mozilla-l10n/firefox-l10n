@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pageTitle                 "Retours d'utilisation de &brandShortName;">
+<!ENTITY pageTitle                 "Retours d’utilisation de &brandShortName;">
 
 <!ENTITY intro.header              "Avez-vous une minute ?">
 <!ENTITY intro.message             "Dites-nous ce que vous pensez jusque-là de &brandShortName; pour Android.">
-<!ENTITY intro.happyLink           "Je l'adore">
+<!ENTITY intro.happyLink           "Je l’adore">
 <!ENTITY intro.sadLink             "Je rencontre quelques problèmes">
 <!ENTITY intro.maybeLater          "Plus tard, peut-être">
 
@@ -14,18 +14,18 @@
 <!-- LOCALIZATION NOTE (support.link2): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post3): Include a starting space as needed. -->
 <!ENTITY support.pre3              "Vous pouvez visiter notre ">
-<!ENTITY support.link2             "site d'assistance">
+<!ENTITY support.link2             "site d’assistance">
 <!ENTITY support.post3             " pour obtenir des réponses aux problèmes les plus fréquents.">
 
 <!ENTITY happy.header              "Merci de votre soutien !">
 <!ENTITY happy.message             "Voulez-vous nous aider encore plus en nous attribuant une note de 5 étoiles sur Google Play ?">
-<!ENTITY happy.finePrint           "C'est très rapide et vous ferez une bonne action.">
+<!ENTITY happy.finePrint           "C’est très rapide et vous ferez une bonne action.">
 <!ENTITY happy.ratingLink          "Oui, ouvrir Google Play">
 <!ENTITY happy.maybeLater2         "Plus tard, peut-être">
 <!ENTITY happy.noThanks            "Non merci">
 
 <!ENTITY sad.header                "Ah mince…">
-<!ENTITY sad.message               "Nous sommes désolés d'apprendre que vous rencontrez des problèmes avec &brandShortName;. Expliquez-nous ce qu'il s'est passé afin que nous puissions le corriger.">
+<!ENTITY sad.message               "Nous sommes désolés d’apprendre que vous rencontrez des problèmes avec &brandShortName;. Expliquez-nous ce qu’il s’est passé afin que nous puissions le corriger.">
 <!ENTITY sad.placeholder           "Saisissez votre retour ici">
 <!ENTITY sad.lastSite2             "Inclure le dernier site visité">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
@@ -37,5 +37,5 @@
 <!ENTITY sad.thanksMessageTop      "Nous travaillons sans relâche pour améliorer &brandShortName;. Soyez assurés que des êtres humains vont lire votre retour et faire leur maximum pour résoudre votre problème.">
 <!ENTITY sad.thanksMessageBottom   "Ou sinon…">
 
-<!ENTITY feedback.privacy2         "Afin de préserver votre vie privée, veuillez ne pas inclure d'informations personnelles dans votre retour.">
+<!ENTITY feedback.privacy2         "Afin de préserver votre vie privée, veuillez ne pas inclure d’informations personnelles dans votre retour.">
 <!ENTITY feedback.send             "Envoyer le retour">

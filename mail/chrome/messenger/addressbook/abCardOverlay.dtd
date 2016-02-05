@@ -31,7 +31,7 @@
 <!ENTITY PhoneticField2.label           "Phonétique :">
 <!ENTITY DisplayName.label              "Nom à afficher :">
 <!ENTITY DisplayName.accesskey          "o">
-<!ENTITY preferDisplayName.label        "Toujours préférer le nom à afficher plutôt que l'en-tête de message">
+<!ENTITY preferDisplayName.label        "Toujours préférer le nom à afficher plutôt que l’en-tête de message">
 <!ENTITY preferDisplayName.accesskey    "T">
 <!ENTITY NickName.label                 "Surnom :">
 <!ENTITY NickName.accesskey             "S">
@@ -151,6 +151,6 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Sur le Web">
 <!ENTITY PhotoURL.accesskey             "W">
-<!ENTITY PhotoURL.placeholder           "Coller ou saisir l'adresse web d'une photo">
+<!ENTITY PhotoURL.placeholder           "Coller ou saisir l’adresse web d’une photo">
 <!ENTITY UpdatePhoto.label              "Mettre à jour">
 <!ENTITY UpdatePhoto.accesskey          "M">

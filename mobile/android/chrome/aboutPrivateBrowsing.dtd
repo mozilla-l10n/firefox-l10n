@@ -7,7 +7,7 @@
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
 <!ENTITY privatebrowsingpage.title.private "+ protection contre le pistage">
-<!ENTITY privatebrowsingpage.title.normal1 "Vous n'êtes pas en mode de navigation privée">
+<!ENTITY privatebrowsingpage.title.normal1 "Vous n’êtes pas en mode de navigation privée">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloque certaines parties des pages qui peuvent pister votre activité en ligne.">
 <!ENTITY privatebrowsingpage.description.privateDetails "Nous ne conserverons aucun historique, cependant les fichiers téléchargés et les marque-pages ajoutés seront toujours enregistrés sur votre appareil.">

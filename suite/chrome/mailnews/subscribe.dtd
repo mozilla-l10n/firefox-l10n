@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY subscribeDialog.title        "Abonnement">
-<!ENTITY subscribeButton.label        "S'abonner">
+<!ENTITY subscribeButton.label        "S’abonner">
 <!ENTITY subscribeButton.accesskey    "a">
 <!ENTITY unsubscribeButton.label      "Se désabonner">
 <!ENTITY unsubscribeButton.accesskey  "d">

@@ -8,7 +8,7 @@
 <!ENTITY gdata.privacy.default.accesskey "D">
 
 <!ENTITY gdata.migration.title "Migrer les agendas en lecture seule">
-<!ENTITY gdata.migration.description "Le fournisseur pour Google Agenda a détecté que vous aviez des agendas existants qui ne sont capables d'accéder à Google Agenda qu'en lecture seule. Si vous voulez mettre à jour ces agendas, veuillez les sélectionner ci-dessous">
+<!ENTITY gdata.migration.description "Le fournisseur pour Google Agenda a détecté que vous aviez des agendas existants qui ne sont capables d’accéder à Google Agenda qu’en lecture seule. Si vous voulez mettre à jour ces agendas, veuillez les sélectionner ci-dessous">
 <!ENTITY gdata.migration.upgrade.label "Mettre à jour">
 <!ENTITY gdata.migration.upgrade.accesskey "M">
 <!ENTITY gdata.migration.showagain.label "Toujours vérifier ">
@@ -19,4 +19,4 @@
 <!ENTITY gdata.wizard.session.description "Veuillez choisir une session existante ou saisir votre adresse électronique afin de créer une nouvelle session. Une seule session par compte est nécessaire.">
 <!ENTITY gdata.wizard.calendars.description "Veuillez sélectionner les agendas et listes de tâches auxquels vous souhaitez vous abonner.">
 
-<!ENTITY gdata.wizard.nextstep.description "Veuillez passer à l'étape suivante pour configurer vos agendas.">
+<!ENTITY gdata.wizard.nextstep.description "Veuillez passer à l’étape suivante pour configurer vos agendas.">

@@ -7,12 +7,12 @@
 <!ENTITY messengerCmd.label           "Courrier et groupes">
 <!ENTITY messengerCmd.accesskey "C">
 <!ENTITY messengerCmd.commandkey "2">
-<!ENTITY addressBookCmd.label "Carnet d'adresses">
+<!ENTITY addressBookCmd.label "Carnet d’adresses">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.commandkey "5">
 
 <!ENTITY taskMessenger.tooltip        "Courrier et groupes">
-<!ENTITY taskAddressBook.tooltip "Carnet d'adresses">
+<!ENTITY taskAddressBook.tooltip "Carnet d’adresses">
 
 <!-- searchAddressesCmd is also used by addressbook -->
 <!ENTITY searchAddressesCmd.label "Rechercher dans les adresses…">

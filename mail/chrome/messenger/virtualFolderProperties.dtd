@@ -14,7 +14,7 @@
 <!ENTITY chooseFoldersButton.label "Choisir…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
-<!ENTITY searchOnline.label "Chercher en ligne (résultats plus à jour sur les dossiers IMAP et groupes mais temps d'ouverture du dossier plus grand)">
+<!ENTITY searchOnline.label "Chercher en ligne (résultats plus à jour sur les dossiers IMAP et groupes mais temps d’ouverture du dossier plus grand)">
 <!ENTITY searchOnline.accesskey "l">
 <!ENTITY newFolderButton.label "Créer">
 <!ENTITY newFolderButton.accesskey "r">

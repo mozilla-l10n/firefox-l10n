@@ -58,7 +58,7 @@
 <!ENTITY cookies.button.remove.label "Supprimer">
 <!ENTITY cookies.button.remove.accesskey "S">
 
-<!ENTITY cookies.blockOnRemove.label "À la suppression, bloquer les sites web listés pour les empêcher de définir des cookies à l'avenir">
+<!ENTITY cookies.blockOnRemove.label "À la suppression, bloquer les sites web listés pour les empêcher de définir des cookies à l’avenir">
 <!ENTITY cookies.blockOnRemove.accesskey "b">
 
 <!-- permissions -->
@@ -70,12 +70,12 @@
 <!ENTITY perm.AllowSession "Autoriser pour la session">
 <!ENTITY perm.Block "Bloquer">
 
-<!ENTITY perm.host.placeholder "Saisissez un nom d'hôte">
+<!ENTITY perm.host.placeholder "Saisissez un nom d’hôte">
 <!ENTITY perm.button.add.label "Ajouter">
 <!ENTITY perm.button.add.accesskey "A">
 
 <!-- preferences -->
-<!ENTITY prefs.description "Les préférences de contenu sont une manière pour &brandShortName; d'enregistrer ses paramètres tels que le niveau de zoom pour un site web en particulier.">
+<!ENTITY prefs.description "Les préférences de contenu sont une manière pour &brandShortName; d’enregistrer ses paramètres tels que le niveau de zoom pour un site web en particulier.">
 
 <!ENTITY prefs.tree.host.label "Site web">
 <!ENTITY prefs.tree.name.label "Nom de la préférence">
@@ -126,7 +126,7 @@
 
 <!ENTITY fdata.tree.fieldname.label "Nom de champ">
 <!ENTITY fdata.tree.value.label "Valeur saisie">
-<!ENTITY fdata.tree.usecount.label "Nombre d'utilisations">
+<!ENTITY fdata.tree.usecount.label "Nombre d’utilisations">
 <!ENTITY fdata.tree.firstused.label "Première utilisation">
 <!ENTITY fdata.tree.lastused.label "Dernière utilisation">
 

@@ -11,7 +11,7 @@
 <!ENTITY editContactEmail.label "Adresse électronique :">
 <!ENTITY editContactEmail.accesskey "d">
 
-<!ENTITY editContactAddressBook.label "Carnet d'adresses :">
+<!ENTITY editContactAddressBook.label "Carnet d’adresses :">
 <!ENTITY editContactAddressBook.accesskey "C">
 
 <!ENTITY editContactPanelCancel.label "Annuler">
@@ -20,4 +20,4 @@
 <!ENTITY editContactPanelDone.label "Terminé">
 <!ENTITY editContactPanelDone.accesskey "T">
 
-<!ENTITY contactMoveDisabledWarning.description "Vous ne pouvez modifier le carnet d'adresses car le contact est dans une liste de diffusion.">
+<!ENTITY contactMoveDisabledWarning.description "Vous ne pouvez modifier le carnet d’adresses car le contact est dans une liste de diffusion.">

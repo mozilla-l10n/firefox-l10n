@@ -4,7 +4,7 @@
 
 <!ENTITY  pref.policies.title "Politiques de sécurité">
 
-<!ENTITY  zoneIntro.label "&brandShortName; permet de créer des méthodes qui déterminent les droits qu'ont certains sites web pour accéder à diverses fonctionnalités, dont l'utilisation des scripts et de Java.">
+<!ENTITY  zoneIntro.label "&brandShortName; permet de créer des méthodes qui déterminent les droits qu’ont certains sites web pour accéder à diverses fonctionnalités, dont l’utilisation des scripts et de Java.">
 
 <!ENTITY  policies.label "Méthodes :">
 <!ENTITY  default.label "Méthode par défaut">

@@ -18,20 +18,20 @@
 <!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description2 "&brandShortName; peut vous avertir du statut de sécurité de la page web courante. Régler &brandShortName; pour afficher un avertissement lors de :">
-<!ENTITY warn.enteringsecure "l'ouverture d'un site qui prend en charge le chiffrement des données">
+<!ENTITY warn.enteringsecure "l’ouverture d’un site qui prend en charge le chiffrement des données">
 <!ENTITY warn.enteringsecure.accesskey "e">
-<!ENTITY warn.insecurepost "l'envoi de données d'une page non sécurisée à une page non sécurisée">
+<!ENTITY warn.insecurepost "l’envoi de données d’une page non sécurisée à une page non sécurisée">
 <!ENTITY warn.insecurepost.accesskey "v">
-<!ENTITY warn.leavingsecure "la fermeture d'une page qui prend en charge le chiffrement des données">
+<!ENTITY warn.leavingsecure "la fermeture d’une page qui prend en charge le chiffrement des données">
 <!ENTITY warn.leavingsecure.accesskey "u">
 
-<!ENTITY mixed.description                  "Les pages chiffrées peuvent contenir du contenu non chiffré vulnérable à l'espionnage et aux contrefaçons. &brandShortName; peut le détecter et le bloquer :">
+<!ENTITY mixed.description                  "Les pages chiffrées peuvent contenir du contenu non chiffré vulnérable à l’espionnage et aux contrefaçons. &brandShortName; peut le détecter et le bloquer :">
 
-<!ENTITY warn.mixedactivecontent            "M'avertir lorsque des pages chiffrées possèdent du contenu non sécurisé">
+<!ENTITY warn.mixedactivecontent            "M’avertir lorsque des pages chiffrées possèdent du contenu non sécurisé">
 <!ENTITY warn.mixedactivecontent.accesskey  "M">
 <!ENTITY block.activecontent                "Ne pas charger du contenu non sécurisé sur des pages chiffrées">
 <!ENTITY block.activecontent.accesskey      "p">
-<!ENTITY warn.mixeddisplaycontent           "M'avertir lorsque des pages possèdent d'autres types de contenu mixte">
+<!ENTITY warn.mixeddisplaycontent           "M’avertir lorsque des pages possèdent d’autres types de contenu mixte">
 <!ENTITY warn.mixeddisplaycontent.accesskey "a">
 <!ENTITY block.displaycontent               "Ne pas charger les autres types de contenu mixte sur des pages chiffrées">
 <!ENTITY block.displaycontent.accesskey     "c">

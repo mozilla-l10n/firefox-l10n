@@ -7,10 +7,10 @@
 <!ENTITY titleSeparator.label " - ">
 
 <!-- tabmail -->
-<!ENTITY tabmailClose.label "Fermer l'onglet">
-<!ENTITY tabmailClose.tooltip "Fermer l'onglet">
-<!ENTITY tabmailNewButton.tooltip "Dupliquer l'onglet courant">
-<!ENTITY tabmailCloseButton.tooltip "Fermer l'onglet courant">
+<!ENTITY tabmailClose.label "Fermer l’onglet">
+<!ENTITY tabmailClose.tooltip "Fermer l’onglet">
+<!ENTITY tabmailNewButton.tooltip "Dupliquer l’onglet courant">
+<!ENTITY tabmailCloseButton.tooltip "Fermer l’onglet courant">
 <!ENTITY tabmailAllTabs.tooltip "Lister tous les onglets">
 
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
@@ -22,10 +22,10 @@
 <!ENTITY newFolderCmd.accesskey "D">
 <!ENTITY newVirtualFolderCmd.label "Dossier virtuel…">
 <!ENTITY newVirtualFolderCmd.accesskey "v">
-<!ENTITY newTabCmd.label "Dupliquer l'onglet">
+<!ENTITY newTabCmd.label "Dupliquer l’onglet">
 <!ENTITY newTabCmd.accesskey "u">
 <!ENTITY newTabCmd.key "t">
-<!ENTITY closeTabCmd.label "Fermer l'onglet">
+<!ENTITY closeTabCmd.label "Fermer l’onglet">
 <!ENTITY closeTabCmd.accesskey "F">
 <!ENTITY newAccountCmd.label "Compte…">
 <!ENTITY newAccountCmd.accesskey "C">
@@ -53,7 +53,7 @@
 <!ENTITY getNextNMsgCmd.accesskey "h">
 <!ENTITY sendUnsentCmd.label "Envoyer les messages en attente">
 <!ENTITY sendUnsentCmd.accesskey "a">
-<!ENTITY subscribeCmd.label "S'abonner…">
+<!ENTITY subscribeCmd.label "S’abonner…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY renameFolder.label "Renommer le dossier…">
 <!ENTITY renameFolder.accesskey "R">
@@ -100,7 +100,7 @@
 <!ENTITY folderPropsCmd.accesskey "é">
 <!ENTITY accountManagerCmd.label     "Paramètres des comptes…">
 <!ENTITY accountManagerCmd.accesskey "m">
-<!ENTITY undoDeleteMsgCmd.label "Annuler l'effacement">
+<!ENTITY undoDeleteMsgCmd.label "Annuler l’effacement">
 <!ENTITY redoDeleteMsgCmd.label "Restaurer le message effacé">
 <!ENTITY undoMoveMsgCmd.label "Annuler le déplacement de message">
 <!ENTITY redoMoveMsgCmd.label "Rétablir le déplacement de message">
@@ -112,11 +112,11 @@
 <!ENTITY redoDefaultCmd.label "Rétablir">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "Barre d'outils courrier">
+<!ENTITY showMessengerToolbarCmd.label "Barre d’outils courrier">
 <!ENTITY showMessengerToolbarCmd.accesskey "t">
 <!ENTITY showSearchToolbarCmd.label "Barre de recherche">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
-<!ENTITY showTabsToolbarCmd.label "Barre d'outils des onglets">
+<!ENTITY showTabsToolbarCmd.label "Barre d’outils des onglets">
 <!ENTITY showTabsToolbarCmd.accesskey "a">
 
 <!ENTITY messagePaneLayoutStyle.label "Disposition">
@@ -288,12 +288,12 @@
 <!ENTITY replyListCmd.accesskey "l">
 <!ENTITY replyNewsgroupCmd.label "Répondre dans le groupe">
 <!ENTITY replyNewsgroupCmd.accesskey "g">
-<!ENTITY replySenderCmd.label "Répondre à l'exp. seulement">
+<!ENTITY replySenderCmd.label "Répondre à l’exp. seulement">
 <!ENTITY replySenderCmd.accesskey "x">
 <!ENTITY replyToAllMsgCmd.label "Répondre à tous">
 <!ENTITY replyToAllMsgCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToSenderAndNewsgroupCmd.label "Répondre à l'exp. et dans le groupe">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Répondre à l’exp. et dans le groupe">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
 <!ENTITY replyToAllRecipientsCmd.label "Répondre à tous les destinataires">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
@@ -316,7 +316,7 @@
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Déplacer le message vers">
 <!ENTITY moveMsgToMenu.accesskey "D">
-<!ENTITY copyMessageLocation.label "Copier l'adresse du message">
+<!ENTITY copyMessageLocation.label "Copier l’adresse du message">
 <!ENTITY copyMessageLocation.accesskey "m">
 <!ENTITY copyMsgToMenu.label "Copier le message vers">
 <!ENTITY copyMsgToMenu.accesskey "C">
@@ -361,7 +361,7 @@
 <!ENTITY markAsShowRemoteCmd.label "Afficher le contenu distant">
 <!ENTITY markAsShowRemoteCmd.accesskey "e">
 <!ENTITY markAsShowRemoteCmd.key "r">
-<!ENTITY markAsNotPhishCmd.label "N'est pas frauduleux">
+<!ENTITY markAsNotPhishCmd.label "N’est pas frauduleux">
 <!ENTITY markAsNotPhishCmd.accesskey "s">
 <!ENTITY markAsNotPhishCmd.key "p">
 <!ENTITY openFeedMessage.label "Ouvrir le message du flux">
@@ -424,14 +424,14 @@
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Barre de menu">
-<!ENTITY mailToolbar.tooltip "Barre d'outils du courrier">
+<!ENTITY mailToolbar.tooltip "Barre d’outils du courrier">
 <!ENTITY searchToolbar.tooltip "Barre de recherche">
 <!ENTITY advancedButton.tooltip "Rechercher dans les messages…">
 <!ENTITY getMsgButton.tooltip "Relever les nouveaux messages">
 <!ENTITY newMsgButton.tooltip "Créer un nouveau message">
 <!ENTITY replyButton.tooltip "Répondre au message">
-<!ENTITY replyAllButton.tooltip "Répondre à l'expéditeur et aux autres destinataires">
-<!ENTITY replyAllButtonNews.tooltip "Répondre à l'expéditeur et dans le groupe">
+<!ENTITY replyAllButton.tooltip "Répondre à l’expéditeur et aux autres destinataires">
+<!ENTITY replyAllButtonNews.tooltip "Répondre à l’expéditeur et dans le groupe">
 <!ENTITY forwardButton.tooltip "Transférer le message sélectionné">
 <!ENTITY fileButton.tooltip "Classer les messages sélectionnés">
 <!ENTITY nextButton.tooltip "Aller au prochain message non lu">
@@ -463,13 +463,13 @@
 <!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Archiver">
 <!ENTITY contextArchive.accesskey "A">
-<!ENTITY contextReplySender.label "Répondre à l'expéditeur">
+<!ENTITY contextReplySender.label "Répondre à l’expéditeur">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Répondre dans le groupe">
 <!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Répondre à tout le monde">
 <!ENTITY contextReplyAll.accesskey "t">
-<!ENTITY contextReplySenderAndNewsgroup.label "Répondre à l'exp. et dans le groupe">
+<!ENTITY contextReplySenderAndNewsgroup.label "Répondre à l’exp. et dans le groupe">
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
 <!ENTITY contextReplyList.label "Répondre à la liste">
 <!ENTITY contextReplyList.accesskey "l">
@@ -517,7 +517,7 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "d">
 <!ENTITY folderContextNew.label "Nouveau dossier…">
 <!ENTITY folderContextNew.accesskey "N">
-<!ENTITY folderContextSubscribe.label "S'abonner…">
+<!ENTITY folderContextSubscribe.label "S’abonner…">
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchMessages.label "Rechercher dans les messages…">
 <!ENTITY folderContextSearchMessages.accesskey "s">
