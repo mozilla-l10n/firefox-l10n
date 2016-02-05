@@ -85,7 +85,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.caption            "წაიყოლეთ თქვენი ინტერნეტი თან">
 <!ENTITY signedOut.description        "დაასინქრონირეთ თქვენი სანიშნეები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.">
-<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label;-თან დაკავშირება">
+<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; - დაკავშირება">
 <!ENTITY signedOut.accountBox.create  "ანგარიშის შექმნა">
 <!ENTITY signedOut.accountBox.signin  "შესვლა">
 
