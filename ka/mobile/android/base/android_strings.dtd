@@ -269,7 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "&quot;ბევრი ბმულის გასახსნელად&quot;, მიეცით &brandShortName;-ს \&apos;სხვა აპებზე გადავლების\&apos; უფლება">
+<!ENTITY tab_queue_notification_settings "\&quot;ბევრი ბმულის გასახსნელად\&quot;, მიეცით &brandShortName;-ს \&apos;სხვა აპებზე გადავლების\&apos; უფლება">
 
 <!ENTITY pref_char_encoding "სიმბოლოთა კოდირება">
 <!ENTITY pref_char_encoding_on "მენიუს ჩვენება">
