@@ -26,7 +26,7 @@
 
 <!ENTITY  mediaTab              "K'ïy k'oxom">
 <!ENTITY  mediaTab.accesskey    "K">
-
+<!ENTITY  mediaLocation         "Ochochib'al:">
 
 <!ENTITY  mediaAltHeader        "Cha'el rucholajem tzij">
 <!ENTITY  mediaAddress          "Ochochib'äl">
