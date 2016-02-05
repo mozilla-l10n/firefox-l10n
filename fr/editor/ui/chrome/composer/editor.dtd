@@ -53,9 +53,9 @@
 <!ENTITY AllTagsMode.tooltip "Afficher des icônes pour toutes les balises HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
-     you want the <html> image to left of the 'HTMLSourceModeTab.label’ text,
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
-     not need to include HTML in the label 'HTMLSourceModeTab.label’ -->
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Source">
 <!ENTITY HTMLSourceMode.label "Source HTML">
