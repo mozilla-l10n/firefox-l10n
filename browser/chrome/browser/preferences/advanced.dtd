@@ -110,9 +110,9 @@
 <!ENTITY certSelection.label             "अनुरोधहरू">
 <!ENTITY certSelection.description       "जब सर्वर ले मेरो ब्यक्तिगत सर्टिफिकेट को आग्रह गर्छ ">
 <!ENTITY certs.auto                      "स्वचालित रुपमा एउटा छानोस ">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "मलाई हरेक पटक सोध्नुहोस्">
-
+<!ENTITY certs.ask.accesskey             "A">
 
 
 <!ENTITY viewCerts.label                 "प्रमाणपत्रहरू हेर्नुहोस्">
