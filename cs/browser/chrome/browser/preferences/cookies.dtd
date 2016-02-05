@@ -21,6 +21,7 @@
 <!ENTITY     props.path.label               "Cesta:">
 <!ENTITY     props.secure.label             "Zasláno pro:">
 <!ENTITY     props.expires.label            "Platnost do:">
+<!ENTITY     props.container.label          "Kontejner:">
 
 <!ENTITY     window.title                   "Správce cookies">
 <!ENTITY     windowClose.key                "w">

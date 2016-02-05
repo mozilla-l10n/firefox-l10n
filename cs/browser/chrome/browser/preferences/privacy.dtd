@@ -4,10 +4,14 @@
 
 <!ENTITY  trackingProtectionHeader.label       "Používat Ochranu proti sledování">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
+<!ENTITY  trackingProtectionAlways.accesskey   "V">
 <!ENTITY  trackingProtectionPrivate.label      "Pouze v anonymních oknech">
+<!ENTITY  trackingProtectionPrivate.accesskey  "o">
 <!ENTITY  trackingProtectionNever.label        "Nikdy">
+<!ENTITY  trackingProtectionNever.accesskey    "d">
 <!ENTITY  trackingProtectionLearnMore.label    "Zjistit více">
 <!ENTITY  trackingProtectionExceptions.label   "Výjimky…">
+<!ENTITY  trackingProtectionExceptions.accesskey "j">
 
 <!ENTITY tracking.label                 "Sledování">
 <!ENTITY trackingProtectionPBM5.label         "Používat Ochranu proti sledování v Anonymním okně">

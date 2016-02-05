@@ -250,8 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Doplňky">
 <!ENTITY addons.accesskey             "D">
 <!ENTITY addons.commandkey            "a">
-<!ENTITY webapps.label                "Aplikace">
-<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Vývoj webu">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -750,7 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Tato stránka je uložena ve vašem počítači.">
 <!ENTITY identity.connectionVerified1 "Spojení s tímto serverem je zabezpečené. Jeho provozovatelem je:">
 <!ENTITY identity.connectionInternal "Toto je zabezpečená stránka aplikace &brandShortName;.">
-<!ENTITY identity.insecureLoginForms "Vaše přihlašovací údaje mohou být vyzrazeny.">
+<!ENTITY identity.insecureLoginForms2 "Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Aplikace &brandShortName; zablokovala nezabezpečené části této stránky.">
