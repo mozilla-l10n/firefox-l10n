@@ -168,8 +168,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Fjartenging XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vinsamlega hafðu samband við eigendur þessa vefsvæðis og látið þá vita af þessu vandamáli.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Get ekki tengst á öruggan hátt">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
+<!ENTITY weakCryptoUsed.title "Tengingin er ekki örugg">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Ítarlegar upplýsingar: SSL_ERROR_NO_CYPHER_OVERLAP">

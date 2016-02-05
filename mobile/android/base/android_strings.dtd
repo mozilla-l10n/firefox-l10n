@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "þú getur breytt þessu síðar í Stillingum">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Kveiktu á leyfi til að teikna yfir önnur forrit">
 <!ENTITY tab_queue_prompt_positive_action_button "Virkja">
 <!ENTITY tab_queue_prompt_negative_action_button "Ekki núna">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Farðu í stillingar ">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 flipi sem bíður">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Til að ,,Opna marga hlekki\&quot;, vinsamlegast virkjaðu ,Teikna yfir önnur forrit\u0027 aðgang fyrir &brandShortName; ">
 
 <!ENTITY pref_char_encoding "Dulkóðun">
 <!ENTITY pref_char_encoding_on "Sýna valmynd">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Nýlegu fliparnir þínir birtast hér.">
 <!ENTITY home_open_all "Opna allt">
 <!ENTITY home_most_recent_empty "Nýjustu svæðin sem þú hefur skoðað birtast hér.">
-
+<!ENTITY home_selected_empty "Vefsíður, sem þú hefur heimsótt í völdum tímaramma, birtast hér">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Hey, ferill þinn er ekki vistaður þegar þú notar &formatS1;ný einkaflipi&formatS2;.">
@@ -597,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Örugg tenging">
 <!ENTITY identity_connection_insecure "Óörugg tenging">
 <!ENTITY identity_login_insecure "Þessi síða er ekki örugg og innskráningin þín gæti verið í hættu.">
-
+<!ENTITY identity_connection_chromeui "Þetta er örugg &brandShortName; síða">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; hefur lokað á óöruggt efni á þessari síðu.">
@@ -621,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Einkagögn hreinsuð">
 <!ENTITY private_data_fail "Ekki var hægt að hreinsa öll einkagögn">
 
+<!ENTITY bookmarkhistory_button_import "Lesa inn ">
 <!ENTITY bookmarkhistory_import_both "Flytja inn bókarmerki og ferli  
 frá Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Flyt inn bókarmerki  
@@ -661,7 +666,10 @@ frá Android">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Til að hlaða niður skrám og uppfærslum, gefðu &brandShortName; aðgang að geymslu.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Leyfa">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Ný gesta lota">
@@ -751,8 +759,8 @@ frá Android">
 <!ENTITY restrictable_feature_advanced_settings_description "Þar með talið innflutning á bókarmerkjum, endurheimta flipa og sjálfvirkar uppfærslur. Slökkvið á til að einfalda stillingar sem henta öllum fjölskyldumeðlimum.">
 <!ENTITY restrictable_feature_camera_microphone "Myndavél &amp; hljóðnemi">
 <!ENTITY restrictable_feature_camera_microphone_description "Gerir fjölskyldumeðlimum kleift að taka þátt í rauntíma samskiptum á vefsvæðum.">
-
-
+<!ENTITY restrictable_feature_block_list "Lokunarlisti">
+<!ENTITY restrictable_feature_block_list_description "Loka fyrir vefsíður sem innihalda viðkvæmt efni.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
