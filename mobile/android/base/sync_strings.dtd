@@ -226,7 +226,7 @@
 <!ENTITY fxaccount_remove_account 'გამოთიშვა&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'წაიშალოს Firefox ანგარიში?'>
-<!ENTITY fxaccount_remove_account_dialog_message '%S შეწყვეტს ამ ანგარიშის სინრქრონიზაციას, მაგრამ ამ მოწყობილობიდან დათვალიერების მონაცემები არ წაიშლება.'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; შეწყვეტს ამ ანგარიშის სინრქრონიზაციას, მაგრამ ამ მოწყობილობიდან დათვალიერების მონაცემები არ წაიშლება.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Firefox ანგარიში &formatS; წაიშალა.'>
