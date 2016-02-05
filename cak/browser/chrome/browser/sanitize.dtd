@@ -47,7 +47,8 @@ that require it.  -->
 <!ENTITY historySection.label         "Natab’äl">
 <!ENTITY dataSection.label            "Taq tzij">
 
-
+<!ENTITY itemHistoryAndDownloads.label     "Kik'ulwachinel ri okem pa k'amaya'l chuqa' taq qasanïk">
+<!ENTITY itemHistoryAndDownloads.accesskey "o">
 <!ENTITY itemFormSearchHistory.label       "Taq nojwuj chuqa' taq kanoxïk kik'ulwachinel ">
 <!ENTITY itemFormSearchHistory.accesskey   "n">
 <!ENTITY itemCookies.label                 "Taq kuki">

@@ -66,8 +66,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB rupam">
 <!ENTITY clearCacheNow.label             "Tijosq'ïx wakami">
 <!ENTITY clearCacheNow.accesskey         "T">
-
-
+<!ENTITY clearOfflineAppCacheNow.label   "Wakami kajosq'in">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Ruyujik ruyonil runuk'ulem ri kache'">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -108,7 +108,7 @@
 <!ENTITY certSelection.description       "Toq ri ruk'u'x samaj xtrajo' pe ri nuwujil b'i'aj:">
 <!ENTITY certs.auto                      "Pa ruyonil ticha' jun">
 <!ENTITY certs.auto.accesskey            "S">
-
+<!ENTITY certs.ask                       "Junelïk tik'utüx pe">
 <!ENTITY certs.ask.accesskey             "A">
 
 

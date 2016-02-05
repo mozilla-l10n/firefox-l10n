@@ -29,7 +29,7 @@
 <!ENTITY  mediaTab              "K'ïy k'oxom">
 <!ENTITY  mediaTab.accesskey    "K">
 <!ENTITY  mediaLocation         "Ochochib'al:">
-
+<!ENTITY  mediaText             "Ximon chi rucholajem tzij:">
 <!ENTITY  mediaAltHeader        "Cha'el rucholajem tzij">
 <!ENTITY  mediaAddress          "Ochochib'äl">
 <!ENTITY  mediaType             "Ruwäch">

@@ -45,7 +45,7 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayo">
 <!ENTITY  font.langGroup.math                     "Ajilanem">
-
+<!ENTITY  font.langGroup.oriya                    "Ruchi'">
 
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
@@ -65,7 +65,7 @@
 <!ENTITY languages.customize.Fallback2.grouplabel "Rucholajil ruwäch tzij richin rupam sipan kan">
 
 
-
+<!ENTITY languages.customize.Fallback2.desc       "Re rucholajil rucholajem tz'ib' nokisäx richin ojer rupam, ri man nuya' ta rutzijol ri rucholajil.">
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
