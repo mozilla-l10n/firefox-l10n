@@ -28,8 +28,8 @@
 
 <!ENTITY  socks.label                   "SOCKS Ruk'u'x samaj:">
 <!ENTITY  socks.accesskey               "C">
-
-
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label          "Näj DNS">

@@ -30,7 +30,7 @@
 <!ENTITY clearTimeDuration.lastHour       "Ruk'isib'äl ramaj">
 <!ENTITY clearTimeDuration.last2Hours     "Ruk'isib'al ri ka'i' ramaj">
 <!ENTITY clearTimeDuration.last4Hours     "Ruk'isib'äl kaji' ramaj">
-
+<!ENTITY clearTimeDuration.today          "Wakami">
 <!ENTITY clearTimeDuration.everything     "Ronojel">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->

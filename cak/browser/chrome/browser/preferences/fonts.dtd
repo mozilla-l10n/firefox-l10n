@@ -27,9 +27,9 @@
 <!ENTITY  font.langGroup.simpl-chinese            "Ch'uti Chino">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Relik Chino (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "KORYANO">
-
+<!ENTITY  font.langGroup.cyrillic                 "Cirílico">
 <!ENTITY  font.langGroup.el                       "RYEWO">
-
+<!ENTITY  font.langGroup.other                    "Ch'aqa' chik taq rub'eyal ri tz'ib'axik">
 
 <!ENTITY  font.langGroup.hebrew                   "EBREYO">
 
@@ -71,7 +71,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arawe">
-
+<!ENTITY languages.customize.Fallback.baltic      "Báltic">
 
 <!ENTITY languages.customize.Fallback.cewindows   "Central European, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
