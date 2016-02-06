@@ -83,7 +83,7 @@
 <!ENTITY updateManual.label              "განახლებები არასდროს შემოწმდეს (რეკომენდებული არაა: უსაფრთხოების რისკი)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "გამართხილეთ, თუ ეს ჩემს რომელიმე დამატებას გამორთავს">
+<!ENTITY updateAutoAddonWarn.label       "გამაფრთხილეთ, თუ ეს ჩემს რომელიმე დამატებას გამორთავს">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
 <!ENTITY updateHistory.label             "განახლების ისტორიის ჩვენება">
