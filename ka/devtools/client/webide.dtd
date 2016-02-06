@@ -53,6 +53,7 @@
 <!ENTITY projectPanel_tabs "ჩანართები">
 
 <!-- Lense -->
+<!ENTITY details_warning_header "გაფრთხილებები">
 <!ENTITY details_location "მისამართი">
 <!ENTITY details_removeProject_button "პროექტის ამოღება">
 
