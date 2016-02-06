@@ -28,7 +28,7 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Carta da visita (vCard)">
 <!ENTITY attachVCardCmd.accesskey "C">
-<!ENTITY remindLater.label "Regurdar mai pli tard">
+<!ENTITY remindLater.label "Ma regurdar pli tard">
 <!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Serrar">
 <!ENTITY closeCmd.key "W">
