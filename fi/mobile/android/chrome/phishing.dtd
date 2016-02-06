@@ -6,6 +6,7 @@
 <!ENTITY safeb.palm.decline.label "Ohita tämä varoitus">
 <!ENTITY safeb.palm.notforgery.label2 "Tämä ei ole huijaussivu…">
 <!ENTITY safeb.palm.reportPage.label "Miksi tämä sivu on estetty?">
+<!ENTITY safeb.palm.whyForbidden.label "Miksi tämä sivu on estetty?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Ilmoitettu hyökkäyssivu!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -19,4 +20,8 @@
 <!ENTITY safeb.blocked.unwantedPage.title "Ilmoitettu ei-haluttuja sovelluksia jakeleva sivusto!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Tämän sivuston osoitteessa <span id='unwanted_sitename'/> on ilmoitettu yrittävän asentaa sovelluksia pyytämättä ja sen avaaminen on estetty turvallisuusasetuksiesi perusteella.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "Sivustot, jotka jakelevat ei haluttuja sovelluksia yrittävät asentaa tietokoneellesi sovelluksia, jotka ovat petollisia tai vaikuttavat järjestelmään odottamattomalla tavalla.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Sivustot, jotka jakelevat ei-toivottuja sovelluksia yrittävät asentaa tietokoneellesi sovelluksia, jotka ovat petollisia tai vaikuttavat järjestelmään odottamattomalla tavalla.">
+
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Estetty sivusto">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Verkkosivusto osoitteessa <span id='forbidden_sitename'/> on estetty ylläpitoprofiilisi perusteella.">
