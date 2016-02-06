@@ -223,6 +223,7 @@
 <!ENTITY fxaccount_status_linktos 'käyttöehdot'>
 <!ENTITY fxaccount_status_linkprivacy 'tietosuojakäytäntö'>
 <!ENTITY fxaccount_status_more 'Lue lisää&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Poista&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Poistetaanko Firefox-tili?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ei enää synkronoi tietoja tilille, mutta mitään tämän laitteen selaustietoja ei poisteta.'>
@@ -230,8 +231,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Firefox-tili &formatS; poistettiin.'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Poista tili'>
-<!ENTITY fxaccount_enable_debug_mode 'Enable Debug Mode'>
+<!ENTITY fxaccount_enable_debug_mode 'Ota debug-tila käyttöön'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -270,3 +270,8 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Kirjaudu sisään tilille &formatS;'>
+
+<!-- Localization note: the following strings are used in a
+275     notification and should be kept as short as possible. -->
+276<!ENTITY old_sync_deprecated_notification_title 'Kirjaudu sisään jatkaaksesi synkronointia'>
+277<!ENTITY old_sync_deprecated_notification_content 'Tilisi ei ole enää tuettu'>
