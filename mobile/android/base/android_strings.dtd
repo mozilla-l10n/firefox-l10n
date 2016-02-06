@@ -10,19 +10,19 @@
 <!ENTITY  onboard_start_message3 "Naršyti su „&brandShortName;“">
 <!ENTITY  onboard_start_subtext3 "Padarykite savo mobilųjį naršymą labiau asmenišku.">
 
-<!ENTITY firstrun_urlbar_message "Sveiki! Čia „&brandShortName;“">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_message "Sveiki, čia „&brandShortName;“">
+<!ENTITY firstrun_urlbar_subtext "Raskite rezultatus greičiau su naudingais paieškos siūlymų šaukiniais.">
+<!ENTITY firstrun_bookmarks_title "Žurnalas">
+<!ENTITY firstrun_bookmarks_message "Jūsų favoritai, priekyje ir centre">
+<!ENTITY firstrun_bookmarks_subtext "Gaukite paieškos rezultatus iš savo adresyno bei žurnalo.">
+<!ENTITY firstrun_data_title "Duomenys">
+<!ENTITY firstrun_data_message "Mažiau duomenų, daugiau taupymo">
+<!ENTITY firstrun_data_subtext "Blokuokite paveikslus, norėdami lankomose svetainėse sunaudoti mažiau duomenų.">
 <!ENTITY firstrun_sync_title "Sinchronizavimas">
-
-
-
-
+<!ENTITY firstrun_sync_message "„&brandShortName;“, visada šalia jūsų">
+<!ENTITY firstrun_sync_subtext "Sinchronizuokite savo korteles, slaptažodžius ir kitką visur, kur ją naudojate.">
+<!ENTITY firstrun_signin_message "Prisijunkite ir pradėkite">
+<!ENTITY firstrun_signin_button "Prisijungti prie „Sync“">
 <!ENTITY  onboard_start_button_browser "Pradėti naršymą">
 <!ENTITY firstrun_button_next "Toliau">
 
@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Vėliau tai galėsite pakeisti nuostatose">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Įjunkite leidimą piešti ant kitų programų">
 <!ENTITY tab_queue_prompt_positive_action_button "Įjungti">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne dabar">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Eiti į nuostatas">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 laukianti kortelė">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Norėdami atverti kelias nuorodas, suteikite „&brandShortName;“ leidimą piešti ant kitų programų.">
 
 <!ENTITY pref_char_encoding "Simbolių koduotė">
 <!ENTITY pref_char_encoding_on "Rodyti meniu">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Čia rodomos neseniai naudotos kortelės.">
 <!ENTITY home_open_all "Atverti visas">
 <!ENTITY home_most_recent_empty "Čia išvardijamos jūsų paskiausiai lankytos svetainės.">
-
+<!ENTITY home_selected_empty "Svetainės, kuriose lankėtės pasirinktame laikotarpyje, atsiras čia.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Ei! Atvėrus &formatS1;naują privačiąją kortelę&formatS2; niekas nebus įrašoma į naršymo žurnalą.">
@@ -597,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Saugus ryšys">
 <!ENTITY identity_connection_insecure "Nesaugus ryšys">
 <!ENTITY identity_login_insecure "Šis tinklalapis nėra saugus ir jūsų prisijungimo duomenys gali būti perimti.">
-
+<!ENTITY identity_connection_chromeui "Tai yra saugus „&brandShortName;“ tinklalapis">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "„&brandShortName;“ užblokavo nesaugius šio tinklalapio elementus.">
@@ -621,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Privatieji duomenys išvalyti">
 <!ENTITY private_data_fail "Kai kurių privačiųjų duomenų išvalyti nepavyko">
 
+<!ENTITY bookmarkhistory_button_import "Importuoti">
 <!ENTITY bookmarkhistory_import_both "Importuojamas adresynas ir žurnalas 
 iš „Android“">
 <!ENTITY bookmarkhistory_import_bookmarks "Importuojamas adresynas 
@@ -661,7 +666,10 @@ iš „Android“">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Norėdami gauti failus bei naujinimus, suteikite „&brandShortName;“ leidimą prieiti prie įrenginio atminties.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Leisti">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Naujas svečio seansas">
@@ -751,8 +759,8 @@ iš „Android“">
 <!ENTITY restrictable_feature_advanced_settings_description "Įeina adresyno importas, kortelių atkūrimas bei automatiniai naujinimai. Išjunkite, kad būtų naudojamos paprastesnės nuostatos, labiau tinkamos visiems šeimos nariams.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera ir mikrofonas">
 <!ENTITY restrictable_feature_camera_microphone_description "Leidžia šeimos nariams svetainėse bendrauti gyvai.">
-
-
+<!ENTITY restrictable_feature_block_list "Blokavimo sąrašas">
+<!ENTITY restrictable_feature_block_list_description "Blokuoti svetaines, kuriose yra neskelbtino turinio.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
