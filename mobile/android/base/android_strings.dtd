@@ -251,8 +251,8 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Ово можете променити касније у Поставкама">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Укључи Permit drawing преко других апликација"> 
-<!ENTITY tab_queue_prompt_positive_action_button "Омогући">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Дозвола за превлачење преко других апликација"> 
+<!ENTITY tab_queue_prompt_positive_action_button "Дозволи">
 <!ENTITY tab_queue_prompt_negative_action_button "Не сада">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
@@ -269,7 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "За “Отворите више веза”, укључите “Draw over other apps” дозволу за &brandShortName;">
+<!ENTITY tab_queue_notification_settings "За “Отвори више веза”, укључите дозволу “Превлачење преко други апликација” за &brandShortName;">
 
 <!ENTITY pref_char_encoding "Кодирање карактера">
 <!ENTITY pref_char_encoding_on "Прикажи мени">
