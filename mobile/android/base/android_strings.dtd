@@ -151,7 +151,7 @@
 <!ENTITY pref_category_search3 "Претрага">
 <!ENTITY pref_category_search_summary "Прилагодите провајдере претраге">
 <!ENTITY pref_category_accessibility "Приступачност">
-<!ENTITY pref_category_accessibility_summary2 "Величина текста, зумирање, говорни унос">
+<!ENTITY pref_category_accessibility_summary2 "Величина текста, увеличавања, говорни унос">
 <!ENTITY pref_category_privacy_short "Приватност">
 <!ENTITY pref_category_privacy_summary3 "Праћење, колачићи, избор података">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -308,7 +308,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Дозволи аутоматску репродукцију">
 <!ENTITY pref_media_autoplay_enabled_summary "Контролишите да ли веб сајтови могу да аутоматски репродукују видео или други медија садржај">
-<!ENTITY pref_zoom_force_enabled "Увек укључи зумирање">
+<!ENTITY pref_zoom_force_enabled "Увек укључи увеличавање">
 <!ENTITY pref_zoom_force_enabled_summary "Форсирај могућност увећавања било које странице">
 <!ENTITY pref_voice_input "Говорни унос">
 <!ENTITY pref_voice_input_summary2 "Дозволи гласовно диктирање у URL траци">
