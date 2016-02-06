@@ -353,7 +353,7 @@ size. -->
 <!ENTITY datareporting_notification_title "&brandShortName; статус и подаци">
 <!ENTITY datareporting_notification_action_long "Изаберите које информације да делите">
 <!ENTITY datareporting_notification_action "Изаберите шта делити">
-<!ENTITY datareporting_notification_summary "Да би смо побољшали искуство, &brandShortName; аутоматски шаље неке информације &vendorShortName;.">
+<!ENTITY datareporting_notification_summary "Да бисмо побољшали искуство, &brandShortName; аутоматски шаље неке информације &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Да бисмо побољшали искуство, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
