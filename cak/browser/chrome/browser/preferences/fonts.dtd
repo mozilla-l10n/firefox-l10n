@@ -67,6 +67,7 @@
 
 <!ENTITY languages.customize.Fallback2.desc       "Re rucholajil rucholajem tz'ib' nokisäx richin ojer rupam, ri man nuya' ta rutzijol ri rucholajil.">
 
+<!ENTITY languages.customize.Fallback.auto        "Ri jikib'an kan richin ri ch'ab'äl re re'">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arawe">

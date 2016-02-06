@@ -68,7 +68,7 @@
 
 
 <!ENTITY  securityView.identity.header   "Ruk'utwachib'al ruxaq k'amaya'l">
-
+<!ENTITY  securityView.identity.owner    "Rajaw">
 <!ENTITY  securityView.identity.domain   "Ruxaq k'amaya'l:">
 <!ENTITY  securityView.identity.verifier "Jikib'an ruma:">
 

@@ -27,7 +27,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Taq qasa’n">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Taq retal">
 
-<!ENTITY aboutPrivateBrowsing.note1            "Tab'ana' utzil, tanatajchi ri asamajinel o ri aya'öl k'amaya'l, k'a nitikïr na nutzu' ri taq ruxaq k'amaya' ri rat xke'atzu'.">
+<!ENTITY aboutPrivateBrowsing.note1            "Tab'ana' utzil, tanataj chi ri asamajinel o ri aya'öl k'amaya'l, k'a nitikïr na nutzu' ri taq ruxaq k'amaya' ri rat xke'atzu'.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Tetamäx ch'aqa' chik.">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or

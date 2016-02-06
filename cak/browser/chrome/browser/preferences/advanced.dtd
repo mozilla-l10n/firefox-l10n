@@ -21,8 +21,8 @@
 
 <!ENTITY useAutoScroll.label             "Tokisäx ruyonil rusiloxik">
 <!ENTITY useAutoScroll.accesskey         "r">
-
-
+<!ENTITY useSmoothScrolling.label        "Rukusaxik rie eqal yaq'ax">
+<!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
 <!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkSpelling.label             "Tinik'öx ri nutz'ib'anik toq yitz'ib'an">
