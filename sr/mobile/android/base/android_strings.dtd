@@ -11,7 +11,7 @@
 <!ENTITY  onboard_start_subtext3 "Учините искуство мобилног прегледања вашим.">
 
 <!ENTITY firstrun_urlbar_message "Добродошли на &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Пронађите ствари брже са овим корисним скраћеницама.">
+<!ENTITY firstrun_urlbar_subtext "Пронађите ствари брже са овим корисним пречицама.">
 <!ENTITY firstrun_bookmarks_title "Историјат">
 <!ENTITY firstrun_bookmarks_message "Ваше омиљене">
 <!ENTITY firstrun_bookmarks_subtext "Приказује резултате из ваших забелекши и историјата када претражујете.">
@@ -38,7 +38,7 @@
 <!ENTITY  switch_to_tab "Пребаци на језичак">
 
 <!ENTITY  crash_reporter_title "&brandShortName; извештач рушења">
-<!ENTITY  crash_message2 "&brandShortName; је имао проблем и срушио се. Ваши језичци ће бити излистани на &brandShortName; почетној страници при рестарту.">
+<!ENTITY  crash_message2 "&brandShortName; је имао проблем и срушио се. Ваши језичци ће бити излистани на &brandShortName; почетној страници при поновном покретању.">
 <!ENTITY  crash_send_report_message3 "Реците &vendorShortName; о овом рушењу да би га могли поправити">
 <!ENTITY  crash_include_url2 "Укључи адресу странице на којој сам био">
 <!ENTITY  crash_sorry "Жао нам је">
@@ -353,8 +353,8 @@ size. -->
 <!ENTITY datareporting_notification_title "&brandShortName; статус и подаци">
 <!ENTITY datareporting_notification_action_long "Изаберите које информације да делите">
 <!ENTITY datareporting_notification_action "Изаберите шта делити">
-<!ENTITY datareporting_notification_summary "Да бисмо побољшали искуство, &brandShortName; аутоматски шаље неке информације &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Да бисмо побољшали искуство, &brandShortName;…">
+<!ENTITY datareporting_notification_summary "Да бисмо вам побољшали искуство, &brandShortName; аутоматски шаље неке информације &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Да бисмо вам побољшали искуство, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
