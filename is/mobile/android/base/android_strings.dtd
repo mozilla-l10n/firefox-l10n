@@ -269,7 +269,7 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
-<!ENTITY tab_queue_notification_settings "Til að ,,Opna marga hlekki\&quot;, vinsamlegast virkjaðu ,Teikna yfir önnur forrit\u0027 aðgang fyrir &brandShortName; ">
+<!ENTITY tab_queue_notification_settings "Til að ,,Opna marga hlekki\&quot;, vinsamlega veita ,Teikna yfir önnur forrit\u0027 leyfi fyrir &brandShortName; ">
 
 <!ENTITY pref_char_encoding "Dulkóðun">
 <!ENTITY pref_char_encoding_on "Sýna valmynd">
@@ -667,7 +667,7 @@ frá Android">
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 
-<!ENTITY updater_permission_text "Til að hlaða niður skrám og uppfærslum, gefðu &brandShortName; aðgang að geymslu.">
+<!ENTITY updater_permission_text "Til að hlaða niður skrám og uppfærslum, veittu &brandShortName; aðgang að geymslusvæðinu.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Leyfa">
 <!-- Guest mode -->    
@@ -759,7 +759,7 @@ frá Android">
 <!ENTITY restrictable_feature_advanced_settings_description "Þar með talið innflutning á bókarmerkjum, endurheimta flipa og sjálfvirkar uppfærslur. Slökkvið á til að einfalda stillingar sem henta öllum fjölskyldumeðlimum.">
 <!ENTITY restrictable_feature_camera_microphone "Myndavél &amp; hljóðnemi">
 <!ENTITY restrictable_feature_camera_microphone_description "Gerir fjölskyldumeðlimum kleift að taka þátt í rauntíma samskiptum á vefsvæðum.">
-<!ENTITY restrictable_feature_block_list "Lokunarlisti">
+<!ENTITY restrictable_feature_block_list "Lokunarlisti ">
 <!ENTITY restrictable_feature_block_list_description "Loka fyrir vefsíður sem innihalda viðkvæmt efni.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
