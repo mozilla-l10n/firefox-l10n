@@ -216,5 +216,5 @@
 <!ENTITY simulator_screenSize "Ekran">
 <!ENTITY simulator_pixelRatio "Odnos piksela">
 
-
+<!ENTITY simulator_tv_data_open "Konfig podaci">
 
