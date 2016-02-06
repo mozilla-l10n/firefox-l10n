@@ -21,8 +21,8 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
-  <li>შეამოწმეთ მისამართი ბეჭდსვის შეცდომებზე, როგორიცაა
-    <strong>ww</strong>.example.com instead of
+  <li>შეამოწმეთ მისამართი აკრეფის შეცდომებზე, როგორიცაა
+    <strong>ww</strong>.example.com ნაცვლად სწორი ფორმისა
     <strong>www</strong>.example.com</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
