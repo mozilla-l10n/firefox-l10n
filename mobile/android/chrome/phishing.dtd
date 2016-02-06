@@ -6,6 +6,7 @@
 <!ENTITY safeb.palm.decline.label "Ignorar quest avertiment">
 <!ENTITY safeb.palm.notforgery.label2 "Quai n'è betg in'emprova d'engion…">
 <!ENTITY safeb.palm.reportPage.label "Pertge è questa pagina vegnida bloccada?">
+<!ENTITY safeb.palm.whyForbidden.label "Pertge è questa pagina vegnida bloccada?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Rapportà sco pagina attatganta!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,6 +22,6 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Questa pagina web sut <span id='unwanted_sitename'/> è vegnida annunziada sco pagina che cuntegna software nungiavischada e vegn bloccada sin basa da tias preferenzas da segirezza.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Paginas cun software nungiavischada emprovan dad installar software che po engianar ed influenzar tes sistem en moda nunspetgada.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title "Pagina scumandada">
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Pagina bloccada">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "La pagina <span id='forbidden_sitename'/> è vegnida bloccada sin basa da tia configuraziun dal navigatur.">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "La pagina-web <span id='forbidden_sitename'/> è vegnida bloccada dal profil d'administratur.">
