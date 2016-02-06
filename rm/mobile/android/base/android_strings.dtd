@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_message3 "Navigar cun &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Adattescha il navigar mobil a tes giavischs.">
 
+<!ENTITY firstrun_urlbar_message "Bainvegni a &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Cumenzar a navigar">
 <!ENTITY firstrun_button_next "Enavant">
 
