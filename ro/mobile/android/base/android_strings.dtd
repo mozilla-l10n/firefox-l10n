@@ -241,7 +241,7 @@
 <!ENTITY tracking_protection_prompt_title "Acum cu protecție de urmărire">
 <!ENTITY tracking_protection_prompt_text "Blochează în mod activ elementele care îți urmăresc navigarea astfel încât să nu-ți faci griji.">
 <!ENTITY tracking_protection_prompt_tip_text "Vizitează setările de confidențialitate pentru a afla mai multe">
-<!ENTITY tracking_protection_prompt_action_button "Am priceput!">
+<!ENTITY tracking_protection_prompt_action_button "Am înțeles!">
 
 <!ENTITY tab_queue_toast_message3 "Filă salvată în &brandShortName;">
 <!ENTITY tab_queue_toast_action "Deschide acum">
