@@ -114,7 +114,7 @@
 <!ENTITY shareSelect.accesskey "о">
 <!ENTITY shareVideo.label "Поделиться этим видео">
 <!ENTITY shareVideo.accesskey "о">
-<!ENTITY feedsMenu.label "Подписаться">
+<!ENTITY feedsMenu2.label "Подписаться на ленты новостей">
 <!ENTITY subscribeToPageMenupopup.label "Подписаться на ленты новостей">
 <!ENTITY subscribeToPageMenuitem.label "Подписаться на ленты новостей…">
 <!ENTITY addCurPagesCmd.label "Добавить все вкладки…">
