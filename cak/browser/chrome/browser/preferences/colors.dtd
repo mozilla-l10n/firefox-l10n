@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "Taq b'onil">
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41 em">
 
@@ -21,7 +23,7 @@
 
 <!ENTITY  underlineLinks.label            "Tijux kixe' ri ximonela'">
 <!ENTITY  underlineLinks.accesskey        "T">
-
+<!ENTITY  links                           "Rub'onil ri taq ximïk">
 <!ENTITY  linkColor.label                 "Manjun tz'eton ri taq ximöy">
 <!ENTITY  linkColor.accesskey             "t">
 <!ENTITY  visitedLinkColor.label          "Taq ximonel etz'eton:">
