@@ -123,7 +123,7 @@
 <!ENTITY event.email.attendees.accesskey "S">
 <!ENTITY event.email.tentative.attendees.label "Scrivi una e-mail ai partecipanti non certi…">
 <!ENTITY event.email.tentative.attendees.accesskey "u">
-<!ENTITY event.remove.attendees.label "Rimuovi tutti i partecipanti">
+<!ENTITY event.remove.attendees.label2 "Rimuovi tutti i partecipanti">
 <!ENTITY event.remove.attendees.accesskey "u">
 <!ENTITY event.remove.attendee.label "Rimuovi partecipante">
 <!ENTITY event.remove.attendee.accesskey "R">
