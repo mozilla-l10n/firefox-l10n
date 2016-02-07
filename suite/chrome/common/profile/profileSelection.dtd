@@ -15,3 +15,13 @@
 <!ENTITY profileManagerText.label "&brandShortName; archivia le informazioni riguardanti le tue impostazioni, preferenze, segnalibri, messaggi memorizzati ed altri elementi nel tuo profilo utente.">
 <!ENTITY autoSelect.label "Imposta questo profilo come predefinito">
 <!ENTITY autoSelect.accesskey "m">
+<!ENTITY start.label "Avvia &brandShortName;">
+<!ENTITY exit.label "Esci">
+<!ENTITY newButton.label "Crea profilo…">
+<!ENTITY newButton.accesskey "C">
+<!ENTITY renameButton.label "Rinomina profilo…">
+<!ENTITY renameButton.accesskey "R">
+<!ENTITY deleteButton.label "Elimina profilo…">
+<!ENTITY deleteButton.accesskey "E">
+<!ENTITY offlineState.label "Lavora fuori linea">
+<!ENTITY offlineState.accesskey "L">

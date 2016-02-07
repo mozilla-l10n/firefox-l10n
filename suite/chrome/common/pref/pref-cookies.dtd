@@ -20,10 +20,6 @@
 <!ENTITY acceptforNDays.label "Accetta i cookie per">
 <!ENTITY acceptforNDays.accesskey "e">
 <!ENTITY days.label "giorni">
-<!ENTITY warnAboutCookies.label "Chiedi per ogni cookie">
-<!ENTITY warnAboutCookies.accesskey "h">
-<!ENTITY forCurrentSession.label "eccetto per i cookie di sessione">
-<!ENTITY forCurrentSession.accesskey "c">
 <!ENTITY manageCookies.label "Gestione cookie e siti">
 <!ENTITY manageCookiesDescription.label "Permette di visualizzare e gestire i cookie memorizzati e le impostazioni per ogni singolo sito per l'accettazione o il blocco dei cookie. Le impostazioni per singolo sito avranno la precedenza sulle impostazioni in alto.">
 <!ENTITY viewCookies.label "Gestione cookie">
