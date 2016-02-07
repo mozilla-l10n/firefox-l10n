@@ -10,12 +10,20 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "იტვირთება…">
+<!ENTITY listEmpty.installed.label            "ამ ტიპის არცერთი დამატება არ გაქვთ დაყენებული.">
 <!ENTITY listEmpty.availableUpdates.label     "განახლებები ვერ მოიძებნა">
+<!ENTITY listEmpty.recentUpdates.label        "ბოლო დროს, არცერთი დამატება არ განგიახლებიათ.">
 <!ENTITY listEmpty.findUpdates.label          "განახლებების შემოწმება">
+<!ENTITY listEmpty.search.label               "შესაბამისი დაამტებები ვერ მოიძებნა">
+<!ENTITY listEmpty.button.label               "შეიტყვეთ მეტი დამატებების შესახებ">
+<!ENTITY installAddonFromFile.label           "დამატების დაყენება ფაილის მეშვეობით…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "ხელსაწყოები ყველა დამატებისთვის">
 
 <!ENTITY cmd.back.tooltip                     "უკან ერთი გვერდით">
 <!ENTITY cmd.forward.tooltip                  "წინ ერთი გვერდით">
 
+<!ENTITY showUnsignedExtensions.button.label  "ზოგიერთი გაფართოება ვერ გადამოწმდა">
 <!ENTITY showAllExtensions.button.label       "ყველა გაფართოების ჩვენება">
 <!ENTITY debugAddons.label                    "დამატებების გამართვა">
 <!ENTITY debugAddons.accesskey                "B">
@@ -24,10 +32,14 @@
 <!ENTITY warning.safemode.label                    "ყველა დამატება გამორთულია უსაფრთხო რეჟიმის მიერ.">
 <!ENTITY warning.checkcompatibility.label          "დამატებების თავსებადობის შემოწმება გამორთულია. შესაძლოა არათავსებადი დამატებები გქონდეთ.">
 <!ENTITY warning.checkcompatibility.enable.label   "ჩართვა">
+<!ENTITY warning.checkcompatibility.enable.tooltip "დამატებების თავსებადობის შემოწმების ჩართვა">
 <!ENTITY warning.updatesecurity.label              "მოდულის განახლების უსაფრთხოების შემოწმება ამორთულია. განახლებამ შესაძლებელია ზიანი მოგაყენოთ.">
 <!ENTITY warning.updatesecurity.enable.label       "ჩართვა">
+<!ENTITY warning.updatesecurity.enable.tooltip     "დამატებების განახლების უსაფრთხოების შემოწმების ჩართვა">
 
 <!-- global informations -->
+<!ENTITY info.plugincheck.label                 "შეამოწმეთ მოდულები განახლებულია თუ არა">
+<!ENTITY info.plugincheck.tooltip               "შეამოწმეთ მოდულები განახლებულია თუ არა">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "ძიება">
@@ -51,6 +63,18 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "ყველა დამატების ავტომატურ განახლებაზე ჩამოყრა">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "ყველა დამატების ხელით განახლებაზე ჩამოყრა">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "დამატებების განახლება">
+<!ENTITY updates.installed.label              "დამატებები განახლებულია.">
+<!ENTITY updates.downloaded.label             "დამატებების განახლებები ჩამოტვირთულია.">
+<!ENTITY updates.restart.label                "ხელახლა გაუშვით დაყენების დასასრულებლად">
+<!ENTITY updates.noneFound.label              "განახლებები ვერ მოიძებნა">
+<!ENTITY updates.manualUpdatesFound.label     "ხელმისაწვდომი განახლებების ნახვა">
+<!ENTITY updates.updateSelected.label         "განახლებების დაყენება">
+<!ENTITY updates.updateSelected.tooltip       "ხელმისაწვდომი განახლებების დაყენება ამ სიიდან">
 
 <!-- addon actions -->
 <!ENTITY cmd.findUpdates.label                "განახლებების პოვნა">
