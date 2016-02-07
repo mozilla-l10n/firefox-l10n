@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Junelïk ke'awokisaj ri taq rupitz'b'al retal ch'oy richin yatok pa taq ruxaq k'amaya'l ">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
-
-
+<!ENTITY searchStartTyping.label         "Tikanöx taq rucholajem tzij toq tajin yatz'ib'an">
+<!ENTITY searchStartTyping.accesskey     "t">
+<!ENTITY blockAutoRefresh.label          "Tiya' rutzijol toq jun ruxaq k'amayal nrajo' yiruk'waj juk'wan chik chuqa' toq nujïk' jub'ey chik re ruxaq k'amaya'l re'.">
+<!ENTITY blockAutoRefresh.accesskey      "T">
 
 
 
@@ -63,6 +63,8 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
+<!ENTITY limitCacheSizeBefore.label      "Q'aton ri kache' chi">
+<!ENTITY limitCacheSizeBefore.accesskey  "Q">
 <!ENTITY limitCacheSizeAfter.label       "MB rupam">
 <!ENTITY clearCacheNow.label             "Tijosq'ïx wakami">
 <!ENTITY clearCacheNow.accesskey         "T">
@@ -87,7 +89,8 @@
 <!ENTITY updateHistory.label             "Tik'ut pe ri ruk'ulwachinel taq k'exoj ruwäch">
 <!ENTITY updateHistory.accesskey         "k">
 
-
+<!ENTITY useService.label                "Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj ruwäch ">
+<!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Tik'ex pa ruyonil:">
 <!ENTITY enableSearchUpdate.label        "Samajel chi kanob'äl">
@@ -111,8 +114,8 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Junelïk tik'utüx pe">
 <!ENTITY certs.ask.accesskey             "A">
-
-
+<!ENTITY enableOCSP.label                "Rutzolixik rutzij ri OCSP peyon tzij, ri ruk'u'x taq samaj nikijikib'a' ri kutzil ri taq ruwujil rub'i' ">
+<!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Rutz'etik taq ruwujil rub'i'">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Rokisaxel chajinïk">

@@ -16,23 +16,25 @@
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
-
-
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Rujukojol cholaj:">
 <!ENTITY  monospace.accesskey                     "R">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.japanese                 "Japones">
 
+<!ENTITY  font.langGroup.latin                    "Latin">
+<!ENTITY  font.langGroup.japanese                 "Japones">
+<!ENTITY  font.langGroup.trad-chinese             "Ojer chino (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Ch'uti Chino">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Relik Chino (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "KORYANO">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
 <!ENTITY  font.langGroup.el                       "RYEWO">
 <!ENTITY  font.langGroup.other                    "Ch'aqa' chik taq rub'eyal ri tz'ib'axik">
-
+<!ENTITY  font.langGroup.thai                     "Tailandes">
 <!ENTITY  font.langGroup.hebrew                   "EBREYO">
-
+<!ENTITY  font.langGroup.arabic                   "Arawe">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Armenyan">
@@ -63,8 +65,8 @@
 <!ENTITY  allowPagesToUse.accesskey               "T">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Rucholajil ruwäch tzij richin rupam sipan kan">
-
-
+<!ENTITY languages.customize.Fallback2.label      "Rucholajil rucholajem tzij:">
+<!ENTITY languages.customize.Fallback2.accesskey  "r">
 <!ENTITY languages.customize.Fallback2.desc       "Re rucholajil rucholajem tz'ib' nokisäx richin ojer rupam, ri man nuya' ta rutzijol ri rucholajil.">
 
 <!ENTITY languages.customize.Fallback.auto        "Ri jikib'an kan richin ri ch'ab'äl re re'">
@@ -72,7 +74,7 @@
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arawe">
 <!ENTITY languages.customize.Fallback.baltic      "Báltic">
-
+<!ENTITY languages.customize.Fallback.ceiso       "SENTROEWROPEYO, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Central European, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
@@ -83,6 +85,7 @@
 <!ENTITY languages.customize.Fallback.cyrillic    "SIRILIKO">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "RYEWO">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.hebrew      "EB'REYO">
