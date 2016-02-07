@@ -32,6 +32,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Web Site Services">
 <!ENTITY rights.intro-point4c-unbranded " खण्ड।">
 
+<!ENTITY rights2.webservices-header "&brandFullName; वेबमा आधारित जानकारी सेवाहरु">
 <!-- point 5 -->
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -44,10 +45,10 @@
 
 <!ENTITY rights.safebrowsing-a "सुरक्षित ब्राउजिङ: ">
 
+<!ENTITY rights.safebrowsing-term1 "अनुप्रयोग प्राथमिकताहरु खोल्नुहोस्">
 
 
-
-
+<!ENTITY rights.safebrowsing-term4 "सुरक्षित ब्राउजिङ अहिले निष्कृय छ">
 <!-- location aware browsing points for branded builds -->
 
 

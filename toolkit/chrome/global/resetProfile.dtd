@@ -2,10 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
+<!ENTITY refreshProfile.dialog.title         "&brandShortName; ताजा पार्नुहोस्">
 
+<!ENTITY refreshProfile.dialog.description2  "यसले:">
+<!ENTITY refreshProfile.dialog.items.label1  "तपाईँको एड-अनहरू र अनुकूलनहरू हटाउनेछ">
+<!ENTITY refreshProfile.dialog.items.label2  "तपाईँको ब्राउजरको सेटिङहरू पुर्वनिर्धारित अवस्थामा पुनर्स्थापना गर्ने छ">
+<!ENTITY refreshProfile.dialog.button.label  "&brandShortName; ताजा पार्नुहोस">
 
+<!ENTITY refreshProfile.button.label         "&brandShortName; ताजा पार्नुहोस…">
 
-
-
-
-
+<!ENTITY refreshProfile.cleaning.description "लगभग भयो…">
