@@ -269,7 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Avataksesi useita linkkejä kerralla, anna &brandShortName;ille 'piirrä muihin sovelluksiin' -käyttöoikeus">
+<!ENTITY tab_queue_notification_settings "Avataksesi useita linkkejä kerralla, anna &brandShortName;ille \'piirrä muihin sovelluksiin\' -käyttöoikeus">
 
 <!ENTITY pref_char_encoding "Merkistökoodaus">
 <!ENTITY pref_char_encoding_on "Näytä valikko">
