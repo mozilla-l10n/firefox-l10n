@@ -24,7 +24,9 @@
 <!ENTITY newevent.status.completed.label "Completata il">
 <!ENTITY newtodo.percentcomplete.label "&#037; completata">
 <!ENTITY event.attendees.notify.label "Notifica partecipanti">
+<!ENTITY event.attendees.notify.accesskey "f">
 <!ENTITY event.attendees.notifyundisclosed.label "Separa inviti per partecipante">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "e">
 <!ENTITY event.attendees.notifyundisclosed.tooltip "Questa opzione invia una e-mail di invito per ogni partecipante. Ogni invito contiene solo il partecipante destinatario in modo che le identità degli altri partecipanti non siano rivelate.">
 <!ENTITY event.dialog.new.event.key2 "I">
 <!ENTITY event.dialog.new.task.key2 "D">
@@ -121,9 +123,10 @@
 <!ENTITY event.email.attendees.accesskey "S">
 <!ENTITY event.email.tentative.attendees.label "Scrivi una e-mail ai partecipanti non certi…">
 <!ENTITY event.email.tentative.attendees.accesskey "u">
-<!ENTITY event.remove.attendees.label "Rimuovi tutti i partecipanti…">
+<!ENTITY event.remove.attendees.label "Rimuovi tutti i partecipanti">
 <!ENTITY event.remove.attendees.accesskey "u">
 <!ENTITY event.remove.attendee.label "Rimuovi partecipante">
+<!ENTITY event.remove.attendee.accesskey "R">
 <!ENTITY event.toolbar.save.label "Salva ed esci">
 <!ENTITY event.toolbar.delete.label "Elimina">
 <!ENTITY event.toolbar.attendees.label "Invita partecipanti">
