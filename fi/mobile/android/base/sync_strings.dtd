@@ -272,6 +272,6 @@
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Kirjaudu sisään tilille &formatS;'>
 
 <!-- Localization note: the following strings are used in a
-275     notification and should be kept as short as possible. -->
-276<!ENTITY old_sync_deprecated_notification_title 'Kirjaudu sisään jatkaaksesi synkronointia'>
-277<!ENTITY old_sync_deprecated_notification_content 'Tilisi ei ole enää tuettu'>
+     notification and should be kept as short as possible. -->
+<!ENTITY old_sync_deprecated_notification_title 'Kirjaudu sisään jatkaaksesi synkronointia'>
+<!ENTITY old_sync_deprecated_notification_content 'Tilisi ei ole enää tuettu'>
