@@ -124,8 +124,11 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Mba'épa umi moĩmbaha.">
-<!ENTITY discover.description2                "Umi moimbaha ha'e tembipuru'i ombohapéva emomba'ete hag̃ua &brandShortName; tembiaporã oguerekóva térã moimbyréva. Eipuru ta'ãngarupa yke oikuave'ẽva aravo, ohechaukáva ára rehegua térã peteĩ téma ñemoha'ãngáva ejapo hag̃ua &brandShortName;-gui nemba'ete.">
-<!ENTITY discover.footer                      "Eikete vove ñandutípe, ko ta'ãngarupa ome'ẽta heta mba'e iporã ha ojehecharamovéva moimbaha eipuruséramo g̃uarã.">
+<!ENTITY discover.description2                "Umi moĩmbaha ha'e tembipuru'i ombohapéva emomba'ete hag̃ua &brandShortName; 
+tembiaporã oguerekóva térã moimbyréva. Eipuru ta'ãngarupa yke oikuave'ẽva aravo, ohechaukáva ára rehegua térã peteĩ téma ñemoha'ãngáva ejapo hag̃ua 
+&brandShortName;-gui nemba'ete.">
+<!ENTITY discover.footer                      "Eikete vove ñandutípe, ko ta'ãngarupa ome'ẽta heta mba'e iporã 
+ha ojehecharamovéva moimbaha eipuruséramo g̃uarã.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Peteïchagua">

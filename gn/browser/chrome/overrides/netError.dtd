@@ -21,13 +21,12 @@
 <!ENTITY dnsNotFound.title "Mohendahavusu ndojejuhúiva">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Ehechajey kundaharape ndoguerekóipa jejavy ijehaípe 
-oikotevẽháicha <strong>ww</strong>.ejemplo.com rendaguépe 
-<strong>www</strong>.ejemplo.com</li> 
+<strong>ww</strong>.techapyra.com 
+<strong>www</strong>.techapyra.com rendaguépe</li> 
 <li>Ndaikatúiramo emyanyhẽ kuatiarogue, ehechajey jeikekatu 
 nemohendaha ñanduti rehegua.</li> 
-<li>Nemohendaha térã ñanduti oguerekóramo ñemo'ã peteĩ tatakytĩha 
-térã proxy, ehecháke &brandShortName; oguerekópa ñemoneĩ 
-oikekuaa hag̃ua ñandutípe.</li> 
+<li>Nemohendaha térã ñanduti oguerekóramo ñemo'ã peteĩ tatakytĩha térã proxy, 
+ehecháke &brandShortName; oguerekópa ñemoneĩ oikekuaa hag̃ua ñandutípe.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Marandurenda ndojejuhúiva">
@@ -82,8 +81,7 @@ gotyo (p.e. <strong>/</strong>.</li>
 
 <!ENTITY proxyConnectFailure.title "Mohendahavusu proxy ombotove jeike">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Ehechajey proxy ñemboheko eikuaaite hag̃ua 
-oĩ porãpa.</li> 
+<li>Ehechajey proxy ñemboheko eikuaaite hag̃ua oĩ porãpa.</li> 
 <li>Eñe'ẽ ñanduti ñangarekohára ndive eikuaaite hag̃ua 
 mohendahavusu proxy oiko porãiteha.</li> 
 </ul>">
@@ -106,8 +104,7 @@ kookie ñeg̃uahẽ.</li>
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Ehechajey nde apopyvusu oguerekópa ñangarekoha imba'eteéva 
 tekorosãrã mohendapyréva.</li> 
-<li>Kóva ikatu ojehuhína peteĩ ñemboheko oiko porã'ỹva 
-mohendahavusúpe rupi.</li> 
+<li>Kóva ikatu ojehuhína peteĩ ñemboheko oiko porã'ỹva mohendahavusúpe rupi.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Jeikekatu jejavýva">
@@ -118,8 +115,10 @@ mohendahavusúpe rupi.</li>
 
 <!ENTITY nssBadCert.title "Jeikekatu ojavy">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Ikatuhína peteĩ apañuãi mohendahavusu ñemboheko reheguáva, térã oiméne oĩ omyengoviaséva pe mohendahavusúpe.</li> 
-<li>Eikuaaporãramo eikekatúma hague ko mohendahavusúpe, pe jejavy ikatu sapy'aite g̃uarãnte ha ikatukuaáta eha'ãjey tenondemieve.</li> 
+<li>Ikatuhína peteĩ apañuãi mohendahavusu ñemboheko reheguáva, 
+térã oiméne oĩ omyengoviaséva pe mohendahavusúpe.</li> 
+<li>Eikuaaporãramo eikekatúma hague ko mohendahavusúpe, 
+pe jejavy ikatu sapy'aite g̃uarãnte ha ikatukuaáta eha'ãjey tenondemieve.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
