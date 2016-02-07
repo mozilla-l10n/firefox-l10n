@@ -13,6 +13,6 @@
 <!ENTITY languages.customize.deleteButton.label         "Telesäx">
 <!ENTITY languages.customize.deleteButton.accesskey     "s">
 <!ENTITY languages.customize.selectLanguage.label       "Tacha' jun ch'ab'äl ri nitz'aqatisäx…">
-
-
+<!ENTITY languages.customize.addButton.label            "Titz'aqatisäx">
+<!ENTITY languages.customize.addButton.accesskey        "T">
 

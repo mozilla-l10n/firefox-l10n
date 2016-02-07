@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.malayalam                "Malayo">
 <!ENTITY  font.langGroup.math                     "Ajilanem">
 <!ENTITY  font.langGroup.oriya                    "Ruchi'">
-
+<!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Aj Tibet">
