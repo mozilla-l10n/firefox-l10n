@@ -32,10 +32,8 @@ oikekuaa hag̃ua ñandutípe.</li>
 
 <!ENTITY fileNotFound.title "Marandurenda ndojejuhúiva">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Ehechajey marandurenda réra ndoguerekoiha jejavy 
-ijehaípe, avei taiguasu ojepurukuévo.</li> 
-<li>Ehechajey pe marandurenda noñemongu'éipa, oñembohéra ambue térã 
-oñemboguepyréva.</li> 
+<li>Ehechajey marandurenda réra ndoguerekoiha jejavy ijehaípe, avei taiguasu ojepurukuévo.</li> 
+<li>Ehechajey pe marandurenda noñemongu'éipa, oñembohéra ambue térã ñemboguepyréva.</li> 
 </ul>">
 
 
@@ -92,13 +90,10 @@ mohendahavusu proxy oiko porãiteha.</li>
 
 <!ENTITY proxyResolveFailure.title "Ndaikatúi ojejuhu mohendahavusu proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Ehechajey proxy ñemboheko eikuaa porã hag̃ua 
-oikoitetaha.</li> 
-<li>Ehechajey nemohendaha oguerekópa ñandutípe jeikekatu 
-ojepurukuaáva.</li> 
-<li>Nemohendaha térã ñanduti omo'ã chupe peteĩ tatakytĩha 
-térã proxy, ehechajeýke &brandShortName; oguerekópa ñemoneĩ 
-oike hag̃ua ñandutípe.</li> 
+<li>Ehechajey proxy ñemboheko eikuaa porã hag̃ua oikoitetaha.</li> 
+<li>Ehechajey nemohendaha oguerekópa ñandutípe jeikekatu ojepurukuaáva.</li> 
+<li>Nemohendaha térã ñanduti omo'ã chupe peteĩ tatakytĩha térã proxy, 
+ ehechajeýke &brandShortName; oguerekópa ñemoneĩ oike hag̃ua ñandutípe.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Ko kuatiarogue ndoguerahái hekoitépe">
@@ -130,11 +125,10 @@ mohendahavusúpe rupi.</li>
 <!ENTITY sharedLongDesc "<ul> 
 <li>Pe tenda ikatu hína ndojepurukuaái sapy'aitemi térã 
 ojepuruetereihína. Eha'ãjey ãgamieve.</li> 
-<li>Ndaikatúiramo emyanyhẽ mba'evéichagua kuatiarogue, ehechajey ijeikekatu 
+<li>Ndaikatúiramo emyanyhẽ mba'eveichagua kuatiarogue, ehechajey ijeikekatu 
 nemohendaha ñanduti peguápe.</li> 
-<li>Nemohendaha térã ñanduti omo'ã chupe tatakytĩha 
-térã proxy, ehecháke &brandShortName; oguerekópa moneĩ 
-oike hãgua ñandutípe.</li> 
+<li>Nemohendaha térã ñanduti omo'ã chupe tatakytĩha térã proxy, ehecháke 
+&brandShortName; oguerekópa moneĩ oike hãgua ñandutípe.</li> 
 </ul>">
 
 <!ENTITY malwareBlocked.title "¡Tenda hekomarãkuaáva!">
