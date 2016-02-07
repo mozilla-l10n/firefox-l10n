@@ -9,7 +9,7 @@
 
 <!ENTITY  size.label                              "Nimilem:">
 <!ENTITY  sizeProportional.accesskey              "T">
-
+<!ENTITY  sizeMonospace.accesskey                 "a">
 
 <!ENTITY  proportional.label                      "Junamil:">
 <!ENTITY  proportional.accesskey                  "J">

@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Taq ch'ab'äl">
-
+<!ENTITY languages.customize.description                "Jujun taq ruxaq wuj etz'ib'an pa jalajöj taq ch'ab'äl. Tacha' ri ch'ab'äl ütz yetz'et re taq ruxaq k'amaya'l re', achike na ri narayib'ej.">
 <!ENTITY languages.customize.moveUp.label               "Tijotob'äx">
 <!ENTITY languages.customize.moveUp.accesskey           "j">
 <!ENTITY languages.customize.moveDown.label             "Tiqasäx">

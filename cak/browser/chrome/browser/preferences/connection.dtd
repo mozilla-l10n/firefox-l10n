@@ -4,7 +4,7 @@
 
 
 <!ENTITY  connectionsDialog.title       "Runuk'ulem okem pa k'amaya'l">
-
+<!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Tinuk'samajïx ri taq proxi richin yatok pa k'amaya'l">
@@ -14,8 +14,8 @@
 <!ENTITY  systemTypeRadio.accesskey     "T">
 <!ENTITY  WPADTypeRadio.label           "Pa ruyonil trïl runuk'ulem ri proxi richin re b'ey re'">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-
-
+<!ENTITY  manualTypeRadio.label         "Tanuk'samajij retamawuj proxi:">
+<!ENTITY  manualTypeRadio.accesskey     "r">
 <!ENTITY  autoTypeRadio.label           "URL richin runuk'ulem pa ruyonil ri proxi:">
 <!ENTITY  autoTypeRadio.accesskey       "i">
 <!ENTITY  reload.label                  "Tisamajib'ëx chik">
@@ -24,8 +24,8 @@
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP proxi:">
 <!ENTITY  http.accesskey                "x">
-
-
+<!ENTITY  ssl.label                     "SSL Proxy:">
+<!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "SOCKS Ruk'u'x samaj:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "o">
 <!ENTITY  autologinproxy.label          "Mani tik'utüx rutz'etik we yakon ri ewan tzij">
 <!ENTITY  autologinproxy.accesskey      "r">
-
+<!ENTITY  autologinproxy.tooltip        "Re jun cha'oj re' nuya' awetal eqal chi kiwäch ri taq proxi toq e'ayakon kan taq awujil kichin rije'. Xakasik'ïx we ri ruya'ik awetal nisach.">

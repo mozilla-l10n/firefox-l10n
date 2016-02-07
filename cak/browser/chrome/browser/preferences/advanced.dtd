@@ -93,7 +93,8 @@
 <!ENTITY enableSearchUpdate.label        "Samajel chi kanob'äl">
 <!ENTITY enableSearchUpdate.accesskey    "k">
 
-
+<!ENTITY offlineNotify.label             "Tiya' rutzijol chwe we k'o jun k'amaya'l nrajo' nuyäk taq tzij  richin nrokisaj toq majun okem pa k'amaya'l">
+<!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "Taq Man relik ta…">
 <!ENTITY offlineNotifyExceptions.accesskey "e">
 
