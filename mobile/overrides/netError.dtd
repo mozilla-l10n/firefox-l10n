@@ -197,7 +197,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Informations avancées : SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Votre connexion n’est pas sécurisée">
+<!ENTITY weakCryptoUsed.title "La connexion n’est pas sécurisée">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Informations avancées : SSL_ERROR_NO_CYPHER_OVERLAP">

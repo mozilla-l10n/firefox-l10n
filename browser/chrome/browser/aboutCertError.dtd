@@ -8,7 +8,7 @@
 
 <!-- These are going to be used for the updated design in Bug 1207107 -->
 <!ENTITY certerror.pagetitle1  "Connexion non sécurisée">
-<!ENTITY certerror.longpagetitle1 "Votre connexion n’est pas sécurisée">
+<!ENTITY certerror.longpagetitle1 "La connexion n’est pas sécurisée">
 
 <!-- These are going to be used for the udpated design in Bug 1207107 -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
