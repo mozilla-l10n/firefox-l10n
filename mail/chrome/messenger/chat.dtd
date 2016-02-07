@@ -9,7 +9,7 @@
 <!ENTITY chat.noConv.title             "Keskustelut näkyvät tässä.">
 <!ENTITY chat.noConv.description       "Aloita keskustelu vasemman paneelin tuttavalistasta.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName;ssä ei ole tallennettuna yhtään keskustelua tämän tuttavan kanssa.">
-<!ENTITY chat.noAccount.title             "Et ole vielä luonot pikaviestitiliä.">
+<!ENTITY chat.noAccount.title             "Et ole vielä luonut pikaviestitiliä.">
 <!ENTITY chat.noAccount.description       "&brandShortName; avustaa sinua luomaan pikaviestitilin.">
 <!ENTITY chat.accountWizard.button       "Aloita">
 <!ENTITY chat.noConnectedAccount.title             "Pikaviestitileihisi ei ole luotu yhteyttä.">
