@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY  trackingProtectionHeader.label       "ট্র্যাকিং সুরক্ষা ব্যবহার করুন">
+<!ENTITY  trackingProtectionAlways.label       "সর্বদা">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionPrivate.label      "নতুন প্রাইভেট উইন্ডোতে খোলা হোক">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionNever.label        "কখনই নয়">
+<!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "আরও জানুন">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "ব্যতিক্রম...">
+<!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "অনুসরণকরণ">
 <!ENTITY trackingProtectionPBM5.label         "ট্র্যাকিং সুরক্ষা ব্যবহার করুন ব্যক্তিগত উইন্ডোতে">
@@ -20,6 +22,8 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
+<!ENTITY  doNotTrack.pre.label          "আপি আর করতে পারেন ">
+<!ENTITY  doNotTrack.settings.label     "পরিচালনা করুন আপনার ডু নট ট্র্যাক বৈশিষ্ট্যাবলী">
 
 
 <!ENTITY  history.label                 "পূর্ববর্তী তথ্য">
