@@ -7,16 +7,22 @@
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
 <!ENTITY onboard_start_message3 "Navegar con &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Haga realmente suya su experiencia de navegación web móvil.">
-<!ENTITY onboard_start_button_account "Iniciar sesión en &brandShortName;">
+<!ENTITY firstrun_urlbar_message "Bienvenido a &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Encuentre todo más rápido con las útiles sugerencias de búsqueda.">
+<!ENTITY firstrun_bookmarks_title "Historial">
+<!ENTITY firstrun_bookmarks_message "Sus sitios preferidos, a la vista">
+<!ENTITY firstrun_bookmarks_subtext "Obtenga resultados de sus marcadores e historial cuando busque.">
+<!ENTITY firstrun_data_title "Datos">
+<!ENTITY firstrun_data_message "Menos datos, más ahorro">
+<!ENTITY firstrun_data_subtext "Bloquee imágenes para consumir menos datos en cada sitio que visita.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, siempre a su lado">
+<!ENTITY firstrun_sync_subtext "Sincronice sus pestañas, contraseñas y más donde quiera usarlo.">
+<!ENTITY firstrun_signin_message "Conéctese y en marcha">
+<!ENTITY firstrun_signin_button "Inicie sesión en Sync">
 <!ENTITY onboard_start_button_browser "Comenzar a navegar">
 <!ENTITY firstrun_button_next "Siguiente">
 <!ENTITY onboard_start_restricted1 "Permanezca seguro y mantenga el control con esta versión simplificada de &brandShortName;.">
-<!ENTITY firstrun_import_title "Importar">
-<!ENTITY firstrun_import_message "Bienvenido a &brandShortName;">
-<!ENTITY firstrun_import_subtext "Importar sus marcadores e historial desde otro navegador.">
-<!ENTITY firstrun_import_action "Transferir a &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Transferir">
-<!ENTITY firstrun_import_progress_title "Transfiriendo">
 <!ENTITY bookmarks_title "Marcadores">
 <!ENTITY history_title "Historial">
 <!ENTITY reading_list_title "Lista de lectura">
@@ -416,6 +422,8 @@
 <!ENTITY updater_downloading_retry2 "Pulse para reintentar">
 <!ENTITY updater_apply_title2 "Actualización disponible para &brandShortName;">
 <!ENTITY updater_apply_select2 "Pulse para actualizar">
+<!ENTITY updater_permission_text "Para descargar archivos y actualizaciones, permita a &brandShortName; acceder al almacenamiento.">
+<!ENTITY updater_permission_allow "Permitir">
 <!ENTITY new_guest_session "Abrir sesión invitado">
 <!ENTITY exit_guest_session "Cerrar sesión invitado">
 <!ENTITY guest_session_dialog_continue "Continuar">
