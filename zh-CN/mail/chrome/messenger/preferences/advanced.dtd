@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "更新">
 <!ENTITY itemNetworking.label    "网络 &amp; 磁盘空间">
 <!ENTITY itemCertificates.label  "证书">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "启用全局搜索以及索引">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY allowHWAccel.label            "自动启用硬件加速">
@@ -37,8 +37,8 @@
 <!ENTITY returnReceiptsInfo.label      "指定 &brandShortName; 如何处理回执">
 <!ENTITY showReturnReceipts.label      "回执…">
 <!ENTITY showReturnReceipts.accesskey  "R">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "遥测">
 <!ENTITY telemetryDesc.label             "与 &vendorShortName; 分享您使用 &vendorShortName; 邮件客户端的工作性能、使用方式、硬件设备和有关自定义的数据，帮助我们改进 &brandShortName;，让它变得更好。">
 <!ENTITY enableTelemetry.label           "启用遥测">
@@ -50,8 +50,8 @@
 <!ENTITY enableCrashReporter.label       "启用崩溃报告器">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "详细了解">
-<!-- Update -->
 
+<!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName; 更新：">
 <!ENTITY updateAuto.label                "自动安装更新（推荐：可提升安全性）">
 <!ENTITY updateAuto.accesskey            "A">
@@ -66,8 +66,8 @@
 
 <!ENTITY useService.label                "使用后台服务来安装更新">
 <!ENTITY useService.accesskey            "b">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "设置…">
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "配置 &brandShortName; 如何连接至国际互联网">
@@ -81,20 +81,20 @@
 <!ENTITY offlineCompactFolders.label     "需要节省空间时压缩全部文件夹">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB 合计">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "最多使用">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB 磁盘空间作为缓存">
 <!ENTITY clearCacheNow.label             "立即清空">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "当某个服务器索取我的个人证书时：">
 <!ENTITY certs.auto                      "自动选择">
 <!ENTITY certs.auto.accesskey            "S">
@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "查询 OCSP 响应服务器以确认证书的当前有效性">
 <!ENTITY enableOCSP.accesskey            "Q">
 
-<!ENTITY viewCertificates.label         "查看证书">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewSecurityDevices.label      "安全设备">
-<!ENTITY viewSecurityDevices.accesskey  "D">
+<!ENTITY manageCertificates.label "管理证书">
+<!ENTITY manageCertificates.accesskey "M">
+<!ENTITY viewSecurityDevices.label "安全设备">
+<!ENTITY viewSecurityDevices.accesskey "D">
