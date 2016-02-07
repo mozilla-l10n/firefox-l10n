@@ -25,7 +25,7 @@
 <!ENTITY signMessage.accesskey "f">
 <!ENTITY signingCert.message "Utilizza il seguente certificato per aggiungere la firma digitale ai messaggi inviati:">
 <!ENTITY certificates.label "Certificati">
-<!ENTITY manageCerts.label "Gestione certificati…">
-<!ENTITY manageCerts.accesskey "G">
+<!ENTITY manageCerts2.label "Gestione certificati…">
+<!ENTITY manageCerts2.accesskey "G">
 <!ENTITY manageDevices.label "Gestione dispositivi di sicurezza…">
 <!ENTITY manageDevices.accesskey "d">
