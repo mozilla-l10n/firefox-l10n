@@ -110,7 +110,7 @@ values from browser.dtd.  -->
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableWorkers.label    "فعال‌سازی کارگر اشکال زدایی ( در حال توسعه)">
+<!ENTITY options.enableWorkers.label    "فعال‌سازی اشکال‌زدایی کارگر (در حال توسعه)">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
