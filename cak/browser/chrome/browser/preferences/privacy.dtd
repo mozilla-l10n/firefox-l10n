@@ -69,7 +69,7 @@
 <!ENTITY  historyHeader.remember.label     "Tinatäx k'ulwachinel">
 <!ENTITY  historyHeader.dontremember.label "Mani ninatäx ri k'ulwachixel">
 <!ENTITY  historyHeader.custom.label       "Tokisäx jun ichinan runuk'ulem re k'ulwachixel">
-<!ENTITY  historyHeader.post.label         "">
+<!ENTITY  historyHeader.post.label         "Kaqchikel">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; xtunataj ri ruk'ulwachinel okik'amaya'l, taq qasanïk, taq nojwuj chuqa' taq kanob'äl, chuqa' xkeruyäk kan ri taq kikuki ri taq ruxaq k'amaya'l xe'atz'ët.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
