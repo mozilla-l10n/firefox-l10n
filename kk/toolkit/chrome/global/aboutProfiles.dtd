@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutProfiles.title "Профильдер туралы">
-
+<!ENTITY aboutProfiles.subtitle "Бұл бет сізге профильдерді басқаруға көмектеседі. Әр профильде басқалардан бөлек шолу тарихы, бетбелгілер, баптаулар және қосымшалар бар.">
 <!ENTITY aboutProfiles.create "Жаңа профильді жасау">
 <!ENTITY aboutProfiles.restart.title "Қайта қосу">
 <!ENTITY aboutProfiles.restart.inSafeMode "Сөндірілген қосымшалармен қайта қосу…">
