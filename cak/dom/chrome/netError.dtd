@@ -39,22 +39,24 @@
 
 
 
+<!ENTITY nssFailure2.longDesc2 "<p>Man tikirel ta ninik'öx chi e qitzij ri taq tzij xek'ul, man xtik'ut ta pe ri ruxaq k'amaya'l.</p><ul><li>Katzijon kik'in ri e pa'äl chuwäch ri ruxaq k'amaya'l richin naya' rutzijol chi ke pa ruwi' re k'ayewal re'.</li></ul>">
 
 
 
 
 
+<!ENTITY unwantedBlocked.title "¡Ruxaq k'amaya'l ya'on rutzijol chi k'o itzel kema' chupam!">
+
+
+
+
+<!ENTITY forbiddenBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xsamajib'ëx re ruxaq k'amaya'l re', ruma chi nuk'un richin niq'at.</p>">
 
 
 
 
 
+<!ENTITY corruptedContentError.title "Sachoj ruma itzel rupam">
 
 
-
-
-
-
-
-
-
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, tatz'ib'aj el chi ke ri rajaw ri ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li></ul></p>">

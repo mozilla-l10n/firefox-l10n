@@ -26,10 +26,11 @@
 
 <!ENTITY searchTextBox.clear.label "Tijosq'ïx">
 
+<!ENTITY fillLoginMenu.label          "Tinojisäx rutikirisab'al molojri'ïl">
+<!ENTITY fillLoginMenu.accesskey      "T">
+<!ENTITY fillPasswordMenu.label       "Tinojisäx ewan tzij">
+<!ENTITY fillPasswordMenu.accesskey   "T">
 
 
 
-
-
-
-
+<!ENTITY viewSavedLogins.label        "Ketz'et ri yakon &amp;kitikirib'al molojri'ïl">

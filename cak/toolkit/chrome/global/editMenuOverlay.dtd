@@ -14,7 +14,7 @@
 
 <!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Wachib'exïk">
-
+<!ENTITY copyCmd.key               "K">
 <!ENTITY copyCmd.accesskey         "c">
 <!ENTITY pasteCmd.label            "Tz'ajb'axïk">
 
@@ -24,12 +24,12 @@
 <!ENTITY selectAllCmd.label        "Rucha'ik ronojel">
 
 <!ENTITY selectAllCmd.accesskey    "r">
+<!ENTITY findCmd.label             "Tikanöx">
 
-
-
+<!ENTITY findCmd.accesskey         "T">
 <!ENTITY findAgainCmd.label        "Rukamuluxik ri rukanoxik">
 
-
+<!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "k">
 
 

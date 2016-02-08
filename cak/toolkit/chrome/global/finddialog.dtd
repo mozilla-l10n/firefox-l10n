@@ -4,16 +4,16 @@
 <!-- extracted from finddialog.xul -->
 
 
-
-
+<!ENTITY caseSensitiveCheckbox.label "Nuk'äm ri' kik'in nimatz'ib'">
+<!ENTITY caseSensitiveCheckbox.accesskey "t">
 
 
 
 
 <!ENTITY cancelButton.label "Q'atïk">
-
-
-
+<!ENTITY closeButton.label "Titz'apïx">
+<!ENTITY up.label "Ajsik">
+<!ENTITY up.accesskey "A">
 
 
 
