@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader.label       "Sebenzisa Ukhuseleko Lokutreka">
-
-
-
-
-
-
+<!ENTITY  trackingProtectionAlways.label       "Qho">
+<!ENTITY  trackingProtectionAlways.accesskey   "o">
+<!ENTITY  trackingProtectionPrivate.label      "Kuphela kwiiwindow zabucala">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionNever.label        "Ungaze">
+<!ENTITY  trackingProtectionNever.accesskey    "U">
 <!ENTITY  trackingProtectionLearnMore.label    "Funda ngakumbi">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "Ezikhethekileyo…">
+<!ENTITY  trackingProtectionExceptions.accesskey "z">
 
 <!ENTITY tracking.label                 "Ukulanda umkhondo">
 <!ENTITY trackingProtectionPBM5.label         "Sebenzisa Ukhuseleko Lokutreka Kwiifestile Zabucala">
@@ -22,7 +22,9 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-
+<!ENTITY  doNotTrack.pre.label          "Kanti unako">
+<!ENTITY  doNotTrack.settings.label     "lawula iisetingi zakho zethi Musa Ukutreka">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Imbali">
 
