@@ -29,7 +29,7 @@
 <!ENTITY clientAuthAsk.title "प्रयोगकर्ता परिचय आग्रह">
 <!ENTITY clientAuthAsk.message1 "साइटले तपाईँ आफूलाई एउटा प्रमाणपत्र सहित पहिचान दिन आग्रह गरेको छ:">
 <!ENTITY clientAuthAsk.message2 "पहिचानका रुपमा प्रस्तुत गर्न एउटा प्रमाणपत्र छनोट गर्नुहोस्:">
-
+<!ENTITY clientAuthAsk.message3 "चयन भएको प्रमाणपत्र को विवरण:">
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "प्रमाणपत्र चयन गर्नुहोस्">
@@ -48,7 +48,7 @@
 
 <!ENTITY createCertInfo.title "एउटा निजी कुञ्जी उत्पन्न गरिँदै">
 
-
+<!ENTITY createCertInfo.msg2 "कृपया प्रतिक्षा गर्नुहोस्…">
 <!-- Strings for protectedAuth dialog -->
 
 
