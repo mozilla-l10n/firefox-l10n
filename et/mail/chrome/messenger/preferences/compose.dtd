@@ -15,17 +15,19 @@
 <!ENTITY addExtension.label                  "failinimele lisatakse laiend">
 <!ENTITY addExtension.accesskey              "f">
 
-<!ENTITY htmlComposeHeader.label             "HTML">
-<!ENTITY font.label                          "Font:">
-<!ENTITY font.accesskey                      "n">
-<!ENTITY size.label                          "Suurus:">
-<!ENTITY size.accesskey                      "r">
-<!ENTITY fontColor.label                     "Teksti värv:">
-<!ENTITY fontColor.accesskey                 "k">
-<!ENTITY bgColor.label                       "Taustavärv:">
-<!ENTITY bgColor.accesskey                   "v">
-<!ENTITY restoreHTMLDefaults.label           "Lähtesta">
-<!ENTITY restoreHTMLDefaults.accesskey       "a">
+<!ENTITY htmlComposeHeader.label               "HTML">
+<!ENTITY font.label                            "Font:">
+<!ENTITY font.accesskey                        "n">
+<!ENTITY size.label                            "Suurus:">
+<!ENTITY size.accesskey                        "r">
+<!ENTITY fontColor.label                       "Teksti värv:">
+<!ENTITY fontColor.accesskey                   "k">
+<!ENTITY bgColor.label                         "Taustavärv:">
+<!ENTITY bgColor.accesskey                     "v">
+<!ENTITY restoreHTMLDefaults.label             "Lähtesta">
+<!ENTITY restoreHTMLDefaults.accesskey         "a">
+<!ENTITY enterKeyCreatesNewParagraph.label     "Lõiguvormingu kasutamisel loob Enter klahv uue lõigu">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "E">
 
 <!ENTITY spellCheck.label                    "Enne saatmist kontrollitakse õigekirja">
 <!ENTITY spellCheck.accesskey                "E">
