@@ -11,15 +11,15 @@
 <!ENTITY  onboard_start_subtext3 "Mobil web\u0027de gezinti deneyiminiz tamamen size ait olsun.">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; tarayıcısına hoş geldiniz">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Arama önerisi kısayollarıyla aradığınız şeyleri daha çabuk bulun.">
+<!ENTITY firstrun_bookmarks_title "Geçmiş">
+<!ENTITY firstrun_bookmarks_message "Sevdiğiniz her şey ortada">
+<!ENTITY firstrun_bookmarks_subtext "Arama yaparken yer imleriniz ve geçmişiniz de aransın.">
+<!ENTITY firstrun_data_title "Veri">
+<!ENTITY firstrun_data_message "Daha az veri, daha çok tasarruf">
+<!ENTITY firstrun_data_subtext "Ziyaret ettiğiniz her sitede daha az veri harcamak için resimleri engelleyin.">
 <!ENTITY firstrun_sync_title "Sync">
-
+<!ENTITY firstrun_sync_message "&brandShortName; he zaman yanınızda">
 
 
 
