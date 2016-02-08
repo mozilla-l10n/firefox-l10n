@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY defaultSearchEngine.label             "ნაგულისხმები საძიებო სისტემა">
+<!ENTITY defaultSearchEngine.label             "ნაგულისხმევი საძიებო სისტემა">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "აირჩიეთ თქვენი ნაგულისხმევი საძიებო სისტემა. &brandShortName; მას იყენებს მდებარეობის ველში, ძიების ველში და საწყის გვერდზე.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "აირჩიეთ თქვენი ნაგულისხმევი საძიებო სისტემა. &brandShortName; მას იყენებს მისამართების ზოლში, ძიების ზოლში და საწყის გვერდზე.">
 
 <!ENTITY provideSearchSuggestions.label        "ძიების შემოთავაზებები">
-<!ENTITY provideSearchSuggestions.accesskey    "s">
+<!ENTITY provideSearchSuggestions.accesskey    "შ">
 
-<!ENTITY showURLBarSuggestions.label           "ძიების შემოთავაზებები მდებარეობის ზოლის შედეგებში">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions.label           "ძიების შემოთავაზებები მისამართების ზოლის შედეგებში">
+<!ENTITY showURLBarSuggestions.accesskey       "მ">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "მდებარეობის ზოლში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან თქვენ მიუთითეთ, რომ &brandShortName;-მა ისტორია არასდროს დაიმახსოვროს.">
 
 <!ENTITY redirectWindowsSearch.label "Windows-იდან ძებნის დროს ამ საძიებო სისტემის გამოყენება">
@@ -18,13 +18,13 @@
 
 <!ENTITY oneClickSearchEngines.label           "ერთ-წკაპიანი საძიებო სისტემები">
 
-<!ENTITY chooseWhichOneToDisplay.label         "საძიებო ველი პირდაპირ სხვა სისტემებში ძიების საშუალებას გაძლევთ. აირჩიეთ, რომლები გამოჩნდენე.">
+<!ENTITY chooseWhichOneToDisplay.label         "საძიებო ზოლი პირდაპირ სხვა სისტემებში ძიების საშუალებას გაძლევთ. აირჩიეთ, რომლების გამოჩენა გსურთ.">
 
 <!ENTITY engineNameColumn.label                "საძიებო სისტემა">
 <!ENTITY engineKeywordColumn.label             "საკვანძო სიტყვა">
 
-<!ENTITY restoreDefaultSearchEngines.label     "ნაგულისხმები საძიებო სისტემების აღდგენა">
-<!ENTITY restoreDefaultSearchEngines.accesskey "d">
+<!ENTITY restoreDefaultSearchEngines.label     "ნაგულისხმევი საძიებო სისტემების აღდგენა">
+<!ENTITY restoreDefaultSearchEngines.accesskey "ნ">
 
 <!ENTITY removeEngine.label                    "ამოღება">
 <!ENTITY removeEngine.accesskey                "r">

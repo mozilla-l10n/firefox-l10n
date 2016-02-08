@@ -20,10 +20,10 @@
 <!ENTITY spellUndoAddToDictionary.label "ლექსიკონში დამატების გაუქმება">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "მართლწერის შემოწმება">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.accesskey "ბ">
 <!ENTITY spellNoSuggestions.label "(მართლწერის შემოთავაზებები არაა)">
 <!ENTITY spellDictionaries.label "ენები">
-<!ENTITY spellDictionaries.accesskey "L">
+<!ENTITY spellDictionaries.accesskey "ე">
 
 <!ENTITY searchTextBox.clear.label "გასუფთავება">
 

@@ -46,6 +46,8 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights2.webservices-a "&brandShortName; იყენებს ინტერნეტზე დაფუძნებულ საინფორმაციო მომსახურებებს (&quot;სერვისებს&quot;), &brandShortName;-ის ორობითი ვერსიით სარგებლობის უზრუნველსაყოფად, ქვემოთ მოცემული პირობების თანახმად.  თუ არ გსურთ რომელიმე სერვისით სარგებლობა ან მოცემული პირობები მიუიღებელია, თქვენ შეგიძლიათ გამორთოთ ეს კონკრეტული მომსახურება, რომლის ინსტრუქციებიც შეგიძლიათ მოიძიოთ ">
+<!ENTITY rights3.webservices-c ". დანარჩენი ფუნქციები და მომსახურებები შეგიძლიათ გამორთოთ პროგრამის პარამეტრებიდან.">
 
 <!-- safe browsing points for branded builds -->
 

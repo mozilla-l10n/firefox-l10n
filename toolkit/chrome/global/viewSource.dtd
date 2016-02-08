@@ -81,6 +81,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 
 <!ENTITY copyLinkCmd.label "ბმულის მდებარეობის კოპირება">
-<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyLinkCmd.accesskey "მ">
 <!ENTITY copyEmailCmd.label "ელფოსტის მისამართის კოპირება">
 <!ENTITY copyEmailCmd.accesskey "E">
