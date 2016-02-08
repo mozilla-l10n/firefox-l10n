@@ -85,7 +85,8 @@
 
 
 
-
+<!ENTITY securityOverride.warningContent "<p>Umele ungongezi ekhethekileyo ukuba usebenzisa uqhagamshelo lwe-intanenthi ongaluthembi ngokupheleleyo okanye ukuba akuqhelanga ukubona isilumkiso sale seva.</p> 
+<p>Ukuba usafuna ukongeza ekhethekileyo kule sayithi, unokukwenza oku kwiisetingi ze-enkripshini ezihambele phambili.</p>">
 
 <!ENTITY cspBlocked.title "Ithintelwe ngumGaqonkqubo woKhuseleko lomXholo">
 <!ENTITY cspBlocked.longDesc "<p>Ibhrawuza ilithintele eli khasi ekulayisheni ngale ndlela kuba ikhasi linomgaqo wokhuselo lomxholo elingakuvumeliyo.</p>">
