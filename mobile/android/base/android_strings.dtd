@@ -150,7 +150,7 @@
 
 <!ENTITY pref_category_search3 "Haku">
 <!ENTITY pref_category_search_summary "Muokkaa hakupalveluita">
-<!ENTITY pref_category_accessibility "Helppokäyttöisyys">
+<!ENTITY pref_category_accessibility "Esteettömyys">
 <!ENTITY pref_category_accessibility_summary2 "Tekstin koko, zoomaus, äänikomennot">
 <!ENTITY pref_category_privacy_short "Tietosuoja">
 <!ENTITY pref_category_privacy_summary3 "Seuranta, evästeet, tietojen lähettäminen">
@@ -170,7 +170,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Vinkki: Lisää minkä tahansa verkkosivun haku hakukonelistaasi painamalla pitkään sivun hakukenttää ja painamalla &formatI;-kuvaketta.">
 <!ENTITY pref_category_advanced "Lisäasetukset">
-<!ENTITY pref_category_advanced_summary2 "Välilehtien palauttaminen, lisäosat, kehittäjien työkalut">
+<!ENTITY pref_category_advanced_summary2 "Välilehtien palauttaminen, liitännäiset, kehittäjien työkalut">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via Wi-Fi">
@@ -213,9 +213,9 @@
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Yleiset">
-<!ENTITY pref_header_search "Haku">
+<!ENTITY pref_header_search "Hakeminen">
 <!ENTITY pref_header_privacy_short "Tietosuoja">
-<!ENTITY pref_header_accessibility "Helppokäyttöisyys">
+<!ENTITY pref_header_accessibility "Esteettömyys">
 <!ENTITY pref_header_advanced "Lisäasetukset">
 <!ENTITY pref_header_help "Ohje">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -227,7 +227,7 @@
 
 <!ENTITY pref_tap_to_load_images_title2 "Näytä kuvat">
 <!ENTITY pref_tap_to_load_images_enabled "Aina">
-<!ENTITY pref_tap_to_load_images_data "Vain Wi-Fi -yhteyttä käytettäessä">
+<!ENTITY pref_tap_to_load_images_data "Vain Wi-Fi -yhteydellä">
 <!ENTITY pref_tap_to_load_images_disabled2 "Estetty">
 
 <!ENTITY pref_tracking_protection_title "Seurannalta suojautuminen">
@@ -256,7 +256,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Ei nyt">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "Mene asetuksiin">
+<!ENTITY tab_queue_prompt_settings_button "Siirry asetuksiin">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -538,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Äskettäin avoimet välilehdet näkyvät tässä.">
 <!ENTITY home_open_all "Avaa kaikki">
 <!ENTITY home_most_recent_empty "Viimeisimmät vieraillut sivustot näkyvät tässä.">
-<!ENTITY home_selected_empty "Verkkosivustot, joilla vierailit määritellyllä aikavälillä, näkyvät tässä.">
+<!ENTITY home_selected_empty "Verkkosivustot, joilla vierailit valitulla aikavälillä, näkyvät tässä.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Huom.: Sivuhistoriaa ei tallenneta kun käytät &formatS1;yksityisen selauksen välilehteä&formatS2;.">
@@ -667,7 +667,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Salli &brandShortName;in käyttää tietovarantoa ladataksesi tiedostoja ja päivityksiä.">
+<!ENTITY updater_permission_text "Salli &brandShortName;in käyttää tallennustilaa ladataksesi tiedostoja ja päivityksiä.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Salli">
 
