@@ -90,8 +90,8 @@
 <!ENTITY securityOverride.warningContent "<p>Não deverá adicionar uma exceção se estiver a utilizar uma ligação à Internet em que não confia ou se não está habituado a ver um aviso para este servidor.</p> 
 <p>Se ainda desejar adicionar uma exceção para este site, pode efetuá-lo nas definições avançadas da encriptação.</p>">
 
-<!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
-<!ENTITY cspBlocked.longDesc "<p>O navegador impediu o carregamento desta página porque a página tem uma política de segurança de conteúdos que a desativa.</p>">
+<!ENTITY cspBlocked.title "Bloqueado pela Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>O navegador impediu o carregamento desta página desta forma porque a página tem uma política de segurança de conteúdo que não o permite.</p>">
 
 <!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
 <!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar ver não pode ser apresentada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte o proprietário do website para o informar sobre este problema.</li></ul>">
