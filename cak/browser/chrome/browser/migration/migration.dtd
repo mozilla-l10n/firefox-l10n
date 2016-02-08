@@ -11,22 +11,22 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-
-
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "Majun tik'am">
 <!ENTITY importFromNothing.accesskey    "k">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-
-
+<!ENTITY importFromCanary.label         "Chrome Canary">
+<!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
-
-
+<!ENTITY importFromChromium.label       "Chromium">
+<!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-
-
+<!ENTITY importFrom360se.label          "360 Ütz chi k'amaya'l">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "Man tikirel ta xe'ilitäj taq cholkema' ri k'o taq etal, b'anob'äl o taq ruwäch ewan taq tzij.">
 
@@ -43,3 +43,4 @@
 <!ENTITY done.title                     "Xtz'aqät ruk'amik">
 <!ENTITY done.label                     "Pa rub'eyal xek'am re jujun taq ruch'akulal re'">
 
+<!ENTITY closeSourceBrowser.label       "Tab'ana' utzil, tajikib'a' awi' chi ri okik'amaya'l xacha' k'o chi tz'apäl chuwäch xtachäp chik samaj.">
