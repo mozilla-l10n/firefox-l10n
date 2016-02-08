@@ -61,8 +61,6 @@
 <!ENTITY performanceUI.enableJITOptimizations "Rejestrowanie optymalizacji JIT">
 <!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Rejestrowanie danych optymalizacji JIT próbkowanych dla każdej ramki JavaScript">
 
-<!ENTITY performanceUI.JITOptimizationsTitle "Optymalizacje JIT">
-
 <!ENTITY performanceUI.console.recordingNoticeStart "Rejestrowanie poprzez">
 <!ENTITY performanceUI.console.recordingNoticeEnd "">
 
