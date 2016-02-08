@@ -94,6 +94,8 @@
   -  was called "Chrome".
   -->
 
+<!ENTITY browserContext.label         "Ibhrawuza">
+<!ENTITY browserContext.accesskey     "I">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
