@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title               "Saatmise valikud">
 <!ENTITY sendMail.title             "Teksti vorming">
+<!ENTITY autoDowngrade.label        "Kui võimalik, saada kirjad lihttekstina">
+<!ENTITY autoDowngrade.accesskey    "v">
 <!ENTITY sendMaildesc.label         "Kui saadetakse kiri HTML-ina ning üks või rohkem adressaatidest ei ole märgitud HTML-i lugejaks:">
 <!ENTITY askMe.label                "küsitakse, mida teha">
 <!ENTITY askMe.accesskey            "a">
