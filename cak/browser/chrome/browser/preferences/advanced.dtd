@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "t">
 <!ENTITY blockAutoRefresh.label          "Tiya' rutzijol toq jun ruxaq k'amayal nrajo' yiruk'waj juk'wan chik chuqa' toq nujïk' jub'ey chik re ruxaq k'amaya'l re'.">
 <!ENTITY blockAutoRefresh.accesskey      "T">
-
-
+<!ENTITY useOnScreenKeyboard.label       "Tik'ut pe ri na'onel pitzb'äl toq xtik'atzin">
+<!ENTITY useOnScreenKeyboard.accesskey   "p">
 
 <!ENTITY browsing.label                  "Okik'amaya'l">
 
@@ -50,8 +50,8 @@
 <!ENTITY connection.label                "Okem pa k'amaya'l:">
 
 <!ENTITY connectionDesc.label            "Tanuk'samajij ri rub'eyal nok ri &brandShortName; pa k'amaya'l">
-
-
+<!ENTITY connectionSettings.label        "Tinuk'…">
+<!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Rupam k'amaya'l pa kache'">
 
@@ -78,8 +78,8 @@
 <!ENTITY updateApp.label                 "Taq k'exoj ruwäch &brandShortName;:">
 <!ENTITY updateAuto1.label               "Keyak ruyonil taq k'exoj ruwäch (chilab'en: nrutzilaj ri chajinïk)">
 <!ENTITY updateAuto1.accesskey           "r">
-
-
+<!ENTITY updateCheck.label               "Kenik'öx ri taq k'exoj ruwäch, xa xe chi tiya' q'ij chwe we ninwajo' chi kenyäk">
+<!ENTITY updateCheck.accesskey           "K">
 <!ENTITY updateManual.label              "Mani nikanöx taq k'exoj ruwäch (man chilab'en ta: ruk'ayewal chajinïk)">
 <!ENTITY updateManual.accesskey          "M">
 

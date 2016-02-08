@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
-
+<!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "K">
 <!ENTITY  copy.label            "Wachib'exïk">
@@ -20,7 +20,7 @@
 <!ENTITY  generalMode           "Pa'äl pa chuwäch rub'anikil:">
 <!ENTITY  generalSize           "Nimilem:">
 <!ENTITY  generalReferrer       "Retal chi ochochib'äl:">
-
+<!ENTITY  generalSource         "Ruxe'el ri kache':">
 <!ENTITY  generalModified       "K'exon:">
 <!ENTITY  generalEncoding2      "Rucholajil rucholajem tzij:">
 <!ENTITY  generalMetaName       "B'i'aj">
@@ -80,7 +80,7 @@
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "¿La xeyak taq ewan rutzij re ruxaq k'amaya'l re'?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ketz'et ri taq ewan tzij eyakon">
-
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Retal ajsamajel">
 
