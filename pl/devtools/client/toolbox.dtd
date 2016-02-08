@@ -23,6 +23,8 @@
 
 <!ENTITY toolboxFramesTooltip "Wskaż element iframe jako cel narzędzi">
 
+<!ENTITY toolboxNoAutoHideTooltip "Wyłącz automatyczne ukrywanie wyskakujących okien">
+
 <!ENTITY browserToolboxErrorMessage "Błąd otwierania narzędzi przeglądarki:">
 
 <!ENTITY options.toolNotSupported.label "* Nieobsługiwane dla aktualnego celu narzędzi">
