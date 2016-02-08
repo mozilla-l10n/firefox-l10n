@@ -4,4 +4,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  settingsChangePreferences.label  "Yatikïr najalwachij ri runuk'ulem pa ri ruwi' Kichokoy taq rajowab'al &brandShortName;'s.">
-
+<!ENTITY  settingsChangeOptions.label      "Yatikïr najalwachij ri runuk'ulem pa ri ruwi' Taq Ruchokoy ruchokoy &brandShortName;'s.">
