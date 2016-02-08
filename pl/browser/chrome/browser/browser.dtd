@@ -376,6 +376,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ustawienia synchronizacji">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Zaloguj się, aby wyświetlić tutaj listę kart z innych urządzeń.">
 <!ENTITY appMenuRemoteTabs.signin.label "Zaloguj się do synchronizacji">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Wyświetl karty z innych urządzeń w panelu bocznym">
 
 <!ENTITY customizeMenu.addToToolbar.label "Dodaj do paska narzędzi">
 <!ENTITY customizeMenu.addToToolbar.accesskey "D">
@@ -687,6 +688,21 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY tabsToolbar.label "Karty przeglądarki">
 
 <!ENTITY syncTabsMenu3.label "Karty z innych urządzeń">
+
+<!ENTITY syncedTabs.sidebar.label "Karty z innych urządzeń">
+<!ENTITY syncedTabs.sidebar.fetching.label "Pobieranie listy kart z innych urządzeń…">
+<!ENTITY syncedTabs.sidebar.noclients.label "Zaloguj się w Firefoksie na innym urządzeniu, aby wyświetlić tutaj listę otwartych na nim kart.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label "Zaloguj się, aby wyświetlić listę kart z innych urządzeń.">
+<!ENTITY syncedTabs.sidebar.notabs.label "Brak otwartych kart">
+<!ENTITY syncedTabs.sidebar.openprefs.label "Otwórz ustawienia synchronizacji">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Włącz synchronizację kart, aby wyświetlać listę otwartych na innych urządzeniach.">
+
+<!ENTITY syncedTabs.context.openTab.label "Otwórz kartę">
+<!ENTITY syncedTabs.context.openTab.accesskey "O">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label "Dodaj zakładkę do karty…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "D">
+<!ENTITY syncedTabs.context.refreshList.label "Odśwież listę">
+<!ENTITY syncedTabs.context.refreshList.accesskey "l">
 
 <!ENTITY syncBrand.shortName.label "Firefox Sync">
 <!ENTITY syncSignIn.label "Zaloguj się do &syncBrand.shortName.label;…">
