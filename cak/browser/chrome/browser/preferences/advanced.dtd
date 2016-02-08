@@ -103,8 +103,8 @@
 
 <!ENTITY offlineAppsList2.label          "Re taq ruxaq k'amaya'l re' ya'on q'ij chi ke richin nikiyäk kan ri taq tzij richin nokisäx pa rub'eyal majun okem pa k'amaya'l: ">
 <!ENTITY offlineAppsList.height          "7em">
-
-
+<!ENTITY offlineAppsListRemove.label     "Telesäx…">
+<!ENTITY offlineAppsListRemove.accesskey "T">
 <!ENTITY offlineAppRemove.confirm        "Tiyuj el na'oj pa rub'eyal majun okem pa k'amaya'l">
 
 <!ENTITY certificateTab.label            "Taq ruwujil b'i'aj:">
