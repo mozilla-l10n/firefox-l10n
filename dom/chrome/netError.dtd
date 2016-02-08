@@ -83,8 +83,10 @@
 <!ENTITY phishingBlocked.longDesc "<p>Ukungenisa naziphi na iinkcukacha kweli khasi kungakhokelela ekubiweni kwazo okanye kobunye ubuqhetseba.</p> 
 <p>Ezi ndidi zenkohliso zewebhu zisetyenziswa kwiqhinga elaziwa njengeqhinga lokufumana iinkcukacha apho amakhasi ewebhu neeimeyile zisetyenziswa ngokufana nemithombo onokuyithemba.</p>">
 
+<!ENTITY forbiddenBlocked.title "ISayithi Eyalelweyo">
+<!ENTITY forbiddenBlocked.longDesc "<p>Ibrawza ilithintele eli phepha ekulayisheni ngenxa yokuba yenzelwe ukuba ilibhloke.</p>">
 
-
+<!ENTITY securityOverride.linkText "Okanye ungongeza ieksepshini…">
 <!ENTITY securityOverride.warningContent "<p>Umele ungongezi ekhethekileyo ukuba usebenzisa uqhagamshelo lwe-intanenthi ongaluthembi ngokupheleleyo okanye ukuba akuqhelanga ukubona isilumkiso sale seva.</p> 
 <p>Ukuba usafuna ukongeza ekhethekileyo kule sayithi, unokukwenza oku kwiisetingi ze-enkripshini ezihambele phambili.</p>">
 
