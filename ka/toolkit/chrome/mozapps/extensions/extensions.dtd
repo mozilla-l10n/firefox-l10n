@@ -99,6 +99,8 @@
 <!ENTITY cmd.uninstallAddon.label             "ამოღება">
 <!ENTITY cmd.showPreferencesWin.label         "პარამეტრები">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ამ დამატების პარამეტრების შეცვლა">
+<!ENTITY cmd.showPreferencesUnix.label        "პარამეტრები">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "ამ დამატების პარამეტრების შეცვლა">
 <!ENTITY cmd.contribute.label                 "მონაწილეობა">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "მიიღეთ მონაწილეობა ამ დამატების დეველოპემნტში.">
@@ -118,7 +120,8 @@
 
 
 <!ENTITY detail.updateType                    "ავტომატური განახლება">
-<!ENTITY detail.updateDefault.label           "ნაგულისხმები">
+<!ENTITY detail.updateDefault.label           "ნაგულისხმევი">
+<!ENTITY detail.home                          "საწყისი გვერდი">
 <!ENTITY detail.size                          "ზომა">
 
 <!ENTITY detail.checkForUpdates.label         "განახლებების შემოწმება">
@@ -154,6 +157,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
+<!ENTITY addon.undoRemove.label               "დაბრუნება">
 
 
 <!ENTITY eula.title                           "მომხმარებლის სალიცენზიო შეთანხმება">

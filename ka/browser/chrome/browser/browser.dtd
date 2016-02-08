@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(პირადი სეანსი)">
 
 <!ENTITY appmenu.tooltip                     "მენიუს გახსნა">
-<!ENTITY navbarOverflow.label                "მეტი ხელსაწყოები...">
+<!ENTITY navbarOverflow.label                "მეტი ხელსაწყო...">
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ჩანართის გადატვირთვა">
@@ -77,7 +77,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY navbarCmd.label "ნავიგაციის ხელსაწყოთა ზოლი">
 <!ENTITY personalbarCmd.label "სანიშნების ხელსაწყოთა ზოლი">
 <!ENTITY personalbarCmd.accesskey "ს">
-<!ENTITY bookmarksToolbarItem.label "სანიშნეების ზოლის ელემენტები">
+<!ENTITY bookmarksToolbarItem.label "სანიშნების ზოლის ელემენტები">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "ყველა ჩანართის გადატვირთვა">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ყ">
@@ -141,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "ფანჯრის დახურვა">
 <!ENTITY closeWindow.accesskey "ხ">
 
-<!ENTITY bookmarksMenu.label "სანიშნეები">
+<!ENTITY bookmarksMenu.label "სანიშნები">
 <!ENTITY bookmarksMenu.accesskey "ს">
 <!ENTITY bookmarkThisPageCmd.label "ამ გვერდის ჩანიშვნა">
 <!ENTITY editThisBookmarkCmd.label "ამ სანიშნის რედაქტირება">
@@ -168,7 +168,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ამ გვერდის გამოწერა...">
 <!ENTITY addCurPagesCmd.label "ყველა ჩანართის ჩანიშვნა...">
 <!ENTITY showAllBookmarks2.label "ყველა სანიშნის ჩვენება">
-<!ENTITY unsortedBookmarksCmd.label "დაუხარისხებელი სანიშნეები">
+<!ENTITY unsortedBookmarksCmd.label "დაუხარისხებელი სანიშნები">
 <!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნების ჩვენება">
 
 <!ENTITY backCmd.label                "უკან">
@@ -240,7 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "ხელსაწყოები">
 <!ENTITY toolsMenu.accesskey          "ხ"> 
 
-<!ENTITY keywordfield.label           "ამ ძებნაში საკვანძო სიტყვის დამატება…">
+<!ENTITY keywordfield.label           "ამ ძიებისთვის მალსახმობის შექმნა…">
 <!ENTITY keywordfield.accesskey       "ს">
 
 <!ENTITY downloads.label              "ჩამოტვირთვები">
@@ -270,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.accesskey  "ბ">
 
 <!ENTITY inspectContextMenu.label     "ელემენტზე დაკვირვება">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "ტ">
 
 <!ENTITY responsiveDesignTool.label   "მეპასუხე დიზაინის ხედი">
 <!ENTITY responsiveDesignTool.accesskey "მ">
@@ -516,9 +516,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "გ">
 
 <!ENTITY openLinkCmdInTab.label       "ბმულის გახსნა ახალ ჩანართში">
-<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmdInTab.accesskey   "ჩ">
 <!ENTITY openLinkCmd.label            "ბმულის გახსნა ახალ ფანჯარაში">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmd.accesskey        "ფ">
 <!ENTITY openLinkInPrivateWindowCmd.label "ბმულის ახალ პირად ფანჯარაში გახსნა">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "პ">
 <!ENTITY openLinkCmdInCurrent.label     "ბმულის გახსნა">
@@ -560,8 +560,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "შპალერად მითითება…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "ამ გვერდის ჩანიშვნა">
-<!ENTITY bookmarkThisLinkCmd.label      "ბმულის ჩანიშვნა">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisLinkCmd.label      "ამ ბმულის ჩანიშვნა">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "ბ">
 <!ENTITY bookmarkThisFrameCmd.label      "ბლოკის სანიშნეებში შეტანა…">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელ-ფოსტით…">
@@ -576,7 +576,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.label          "ბლოკის დაბეჭდვა…">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "ბმულის შენახვა როგორც…">
-<!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY saveLinkCmd.accesskey        "ს">
 <!ENTITY saveImageCmd.label           "ნახატის შენახვა როგორც…">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "ვიდეოს შენახვა როგორც...">
@@ -596,7 +596,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "მიმდინარე მოდულის დამალვა">
 <!ENTITY hidePluginCmd.accesskey      "დ">
 <!ENTITY copyLinkCmd.label            "ბმულის მდებარეობის კოპირება">
-<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyLinkCmd.accesskey        "ბ">
 <!ENTITY copyImageCmd.label           "ნახატის მისამართის კოპირება">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "ნახატის კოპირება">
@@ -826,7 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "დამატებითი ხელსაწყოები და ფუნქციები">
 <!ENTITY customizeMode.menuAndToolbars.empty "მეტი ხელსაწყო გსურთ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ ათასობით დამატებიდან">
-<!ENTITY customizeMode.restoreDefaults "ნაგულისხმების აღდგენა">
+<!ENTITY customizeMode.restoreDefaults "ნაგულისხმევების აღდგენა">
 <!ENTITY customizeMode.toolbars "ხელსაწყოთა ზოლების ჩვენება / დამალვა">
 <!ENTITY customizeMode.titlebar "სათაურის ზოლი">
 <!ENTITY customizeMode.lwthemes "თემები">

@@ -165,5 +165,5 @@ values from browser.dtd.  -->
 
 <!ENTITY options.sourceeditor.tabsize.label             "ჩანართის ზომა">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
-<!ENTITY options.sourceeditor.keybinding.default.label  "ნაგულისხმები">
+<!ENTITY options.sourceeditor.keybinding.default.label  "ნაგულისხმევი">
 

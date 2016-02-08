@@ -16,7 +16,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "სერვერი">
-<!ENTITY serverType.default.label      "ნაგულისხმები: Mozilla &syncBrand.fullName.label; სერვერი">
+<!ENTITY serverType.default.label      "ნაგულისხმევი: Mozilla &syncBrand.fullName.label; სერვერი">
 <!ENTITY serverType.custom2.label   "სასურველი სერვერის გამოყენება…">
 <!ENTITY signIn.account2.label      "ანგარიში">
 <!ENTITY signIn.account2.accesskey  "A">
@@ -83,7 +83,7 @@
 <!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "დაასინქრონე">
-<!ENTITY engine.bookmarks.label     "სანიშნეები">
+<!ENTITY engine.bookmarks.label     "სანიშნები">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "ჩანართები">
 <!ENTITY engine.tabs.accesskey      "T">

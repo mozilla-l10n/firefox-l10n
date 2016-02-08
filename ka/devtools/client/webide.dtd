@@ -29,6 +29,7 @@
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_takeScreenshot_label "ეკრანის ანაბეჭდი">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDevicePrefs_label "მოწყობილობის პარამეტრები">
 
 <!ENTITY viewMenu_label "ჩვენება">
 <!ENTITY viewMenu_zoomout_accesskey "O">
@@ -67,10 +68,11 @@
 <!-- Addons -->
 
 <!-- Prefs -->
+<!ENTITY prefs_title "პარამეტრები">
 <!ENTITY prefs_general_title "ძირითადი">
 <!ENTITY prefs_options_tabsize "ჩანართის ზომა">
 <!ENTITY prefs_options_expandtab "ნაზი ჩანართები">
-<!ENTITY prefs_options_keybindings_default "ნაგულისხმები">
+<!ENTITY prefs_options_keybindings_default "ნაგულისხმევი">
 
 <!-- Permissions Table -->
 

@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY selectBookmark.title "თავფურცლის მითითება">
-<!ENTITY selectBookmark.label "აირჩიეთ სანიშნე თქვენი თავფურცლისთვის. დასტის არჩევის შემთხვევაში ამ დასტის სანიშნეები დაფებზე გაიხსნება.">
+<!ENTITY selectBookmark.title
+  "თავფურცლის მითითება">
+<!ENTITY selectBookmark.label
+  "აირჩიეთ სანიშნე თქვენს საწყის გვერდად. საქაღალდის არჩევის შემთხვევაში ამ საქაღალდის სანიშნები ჩანართებზე გაიხსნება.">
 

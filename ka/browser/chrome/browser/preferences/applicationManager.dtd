@@ -5,4 +5,4 @@
 <!ENTITY appManager.title     "პროგრამის მონაცემები">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "ამოღება">
-<!ENTITY remove.accesskey     "R">
+<!ENTITY remove.accesskey     "ა">

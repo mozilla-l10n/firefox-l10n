@@ -25,7 +25,7 @@
 
 <!ENTITY aboutPrivateBrowsing.info.saved       "შეინახება">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "ჩამოტვირთვები">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "სანიშნეები">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "სანიშნები">
 
 <!ENTITY aboutPrivateBrowsing.note1            "გთხოვთ გაითვალისწინეთ, რომ თქვენს დამსაქმებელს ან ინტერნეტ მომსახურების მომწოდებელს მაინც შეუძლია იმ გვერდების ნახვა, რომლებსაც ეწვევით.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "მეტის გაგება.">

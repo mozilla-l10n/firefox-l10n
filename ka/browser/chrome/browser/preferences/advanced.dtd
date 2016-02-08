@@ -104,7 +104,7 @@
 <!ENTITY offlineAppsList2.label          "მოცემულ ვებ-საიტებს მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის უფლება აქვთ:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ამოღება…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppsListRemove.accesskey "ა">
 <!ENTITY offlineAppRemove.confirm        "გარე მონაცემთა ამოღება">
 
 <!ENTITY certificateTab.label            "სერთიფიკატები">

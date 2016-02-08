@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "ორგანიზება">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "მოაწესრიგეთ თქვენი სანიშნეები">
+<!ENTITY organize.tooltip      "მოაწესრიგეთ თქვენი სანიშნები">
 
 <!ENTITY file.close.label               "დახურვა">
 <!ENTITY file.close.accesskey           "C">
@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "ჰ > ა სორტირება">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "სანიშნეების შემოტანა HTML-დან…">
+<!ENTITY importBookmarksFromHTML.label     "სანიშნების შემოტანა HTML-დან…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "სანიშნეების გატანა HTML-ში…">
+<!ENTITY exportBookmarksToHTML.label       "სანიშნების გატანა HTML-ში…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "მონაცემების შემოტანა სხვა ბრაუზერიდან…">
 <!ENTITY importOtherBrowser.accesskey      "A">
@@ -96,7 +96,7 @@
 
 <!ENTITY maintenance.label      "იმპორტი და დამარქაფება">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "შემოიტანეთ და დაამარქაფეთ თქვენი სანიშნეები">
+<!ENTITY maintenance.tooltip    "შემოიტანეთ და დაამარქაფეთ თქვენი სანიშნები">
 
 <!ENTITY backButton.tooltip  "გადასვლა უკან">
 

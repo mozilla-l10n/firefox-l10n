@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; უფასო და ღია წყაროს პროგრამამაა არაკომერციული Mozilla ფონდისგან. <a>გაიგეთ თქვენს უფლებებზე…</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "სანიშნეები">
+<!ENTITY abouthome.bookmarksButton.label "სანიშნები">
 <!ENTITY abouthome.historyButton.label   "ისტორია">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
