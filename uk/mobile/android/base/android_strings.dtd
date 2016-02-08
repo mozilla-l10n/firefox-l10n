@@ -107,7 +107,7 @@
 
 <!ENTITY settings "Налаштування">
 <!ENTITY settings_title "Налаштування">
-<!ENTITY pref_category_general "Загальне">
+<!ENTITY pref_category_general "Загальні">
 <!ENTITY pref_category_general_summary2 "Початкова сторінка, мова, панель адреси">
 
 <!-- Localization note (pref_category_language) : This is the preferences
@@ -169,7 +169,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "Підказка: Додавайте будь-який сайт до списку засобів пошуку тривалим дотиком до його пошукового поля, а потім торкнувшись до піктограми &formatI;.">
-<!ENTITY pref_category_advanced "Додатково">
+<!ENTITY pref_category_advanced "Додаткові">
 <!ENTITY pref_category_advanced_summary2 "Відновлення вкладок, плагіни, інструменти розробника">
 <!ENTITY pref_developer_remotedebugging "Віддалене зневадження">
 <!ENTITY pref_developer_remotedebugging_usb "Віддалене зневадження через USB">
@@ -212,7 +212,7 @@
 <!ENTITY home_homepage_hint_user_address "Введіть адресу або пошуковий термін">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "Загальне">
+<!ENTITY pref_header_general "Загальні">
 <!ENTITY pref_header_search "Пошук">
 <!ENTITY pref_header_privacy_short "Приватність">
 <!ENTITY pref_header_accessibility "Доступність">
@@ -364,10 +364,10 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Звіт про справність &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Надсилає до &vendorShortName; дані про справність вашого браузера та допомогає вам дізнатись більше про його швидкодію">
+<!ENTITY datareporting_fhr_summary2 "Надсилає в &vendorShortName; дані про справність вашого браузера та допомагає вам дізнатись більше про його швидкодію">
 <!ENTITY datareporting_abouthr_title "Переглянути Звіт про справність">
 <!ENTITY datareporting_telemetry_title "Телеметрія">
-<!ENTITY datareporting_telemetry_summary "Надсилає у &vendorShortName; дані про використання, апаратне забезпечення та налаштування вашого браузера, щоб допомогти нам зробити &brandShortName; кращим">
+<!ENTITY datareporting_telemetry_summary "Надсилає в &vendorShortName; дані про використання, апаратне забезпечення та налаштування вашого браузера, щоб допомогти нам зробити &brandShortName; кращим">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; надсилає звіти про падіння в &vendorShortName;, щоб допомогти зробити ваш браузер більш стабільним та безпечним">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -467,7 +467,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Повноекранний перегляд">
-<!ENTITY pref_scroll_title_bar_summary2 "Приховати панель інструментів &brandShortName; при прокручуванні сторінки">
+<!ENTITY pref_scroll_title_bar_summary2 "Приховувати панель інструментів &brandShortName; при прокручуванні сторінки">
 
 <!ENTITY pref_tab_queue_title2 "Відкриття багатьох посилань">
 <!ENTITY pref_tab_queue_summary3 "Зберігати їх до наступного відкриття &brandShortName;">
