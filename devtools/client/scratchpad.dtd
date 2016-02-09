@@ -18,6 +18,10 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
+
+
+<!ENTITY window.title                 "Iskretshiphedi">
+
 <!ENTITY fileMenu.label               "Ifayile">
 <!ENTITY fileMenu.accesskey           "I">
 
