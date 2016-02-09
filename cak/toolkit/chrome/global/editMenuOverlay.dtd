@@ -11,7 +11,7 @@
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "m">
 <!ENTITY cutCmd.label              "Qupixik">
-
+<!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Wachib'exïk">
 <!ENTITY copyCmd.key               "K">
