@@ -11,6 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "Adattescha il navigar mobil a tes giavischs.">
 
 <!ENTITY firstrun_urlbar_message "Bainvegni a &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Chattar pli spert quai che ti tschertgas – grazia a las propostas da tschertgar.">
+<!ENTITY firstrun_bookmarks_title "Cronologia">
+<!ENTITY firstrun_bookmarks_message "Tes favurits, adina en il center">
+<!ENTITY firstrun_bookmarks_subtext "Retschaiver resultats ord ils segnapaginas e la cronologia cura che ti tschertgas.">
+<!ENTITY firstrun_data_title "Datas">
+<!ENTITY firstrun_data_message "Pli paucas datas, pli grond respargn">
+<!ENTITY firstrun_data_subtext "Bloccar maletgs per consumar main datas per mintga pagina che ti visitas.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, adina cun tai">
+<!ENTITY firstrun_sync_subtext "Sincronisescha tes tabs, tes pleds-clav e dapli – nua ch\&apos;i saja.">
+<!ENTITY firstrun_signin_message "Ta collia per cumenzar">
+<!ENTITY firstrun_signin_button "T\&apos;annunzia per sincronisar">
 <!ENTITY  onboard_start_button_browser "Cumenzar a navigar">
 <!ENTITY firstrun_button_next "Enavant">
 
@@ -239,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Ti pos midar questa decisiun en las preferenzas">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Activar \&apos;Permetter da surmalegiar autras apps\&apos;">
 <!ENTITY tab_queue_prompt_positive_action_button "Activar">
 <!ENTITY tab_queue_prompt_negative_action_button "Betg ussa">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Ir a la configuraziun">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -255,6 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Per activar la funcziun &quot;Avrir pliras colliaziuns&quot; stos ti permetter a &brandShortName; da surmalegiar autras apps">
 
 <!ENTITY pref_char_encoding "Codaziun da caracters">
 <!ENTITY pref_char_encoding_on "Mussar il menu">
@@ -523,6 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tabs averts dacurt cumparan qua.">
 <!ENTITY home_open_all "Avrir tuts">
 <!ENTITY home_most_recent_empty "Paginas visitadas dacurt cumparan qua.">
+<!ENTITY home_selected_empty "Paginas visitadas durant il spazi da temp tschernì cumparan qua.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: paginas avertas en in &formatS1;Nov tab privat&formatS2; na vegnan betg memorisadas en la cronologia.">
@@ -585,6 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Connexiun segirada">
 <!ENTITY identity_connection_insecure "Connexiun betg segirada">
 <!ENTITY identity_login_insecure "Questa pagina n\&apos;è betg segira e tias datas d\&apos;annunzia pudessan esser periclitadas.">
+<!ENTITY identity_connection_chromeui "Quai è ina pagina segira da &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloccà cuntegn malsegir sin questa pagina.">
@@ -650,7 +667,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Per telechargiar datotecas ed actualisaziuns stos ti permetter a &brandShortName; dad acceder a la memoria.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Permetter">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova sessiun da giast">
@@ -740,6 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "Quai includa l\&apos;import da segnapaginas, la restauraziun da tabs ed actualisaziuns automaticas. Deactivar per mo mussar ina configuraziun simpla e chapibla per tut ils commember da la famiglia.">
 <!ENTITY restrictable_feature_camera_microphone "Camera &amp; microfon">
 <!ENTITY restrictable_feature_camera_microphone_description "Permetta a commembers da la famiglia da communitgar live sin paginas d\&apos;internet.">
+<!ENTITY restrictable_feature_block_list "Glista da bloccar">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->

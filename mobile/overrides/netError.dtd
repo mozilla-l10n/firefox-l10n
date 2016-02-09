@@ -197,3 +197,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Remote-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possessur da la website davart quest problem.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Impussibel da connectar a moda segira">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Infurmaziuns avanzadas: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Tia connexiun n'è betg segirada">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Infurmaziuns avanzadas: SSL_ERROR_NO_CYPHER_OVERLAP">
