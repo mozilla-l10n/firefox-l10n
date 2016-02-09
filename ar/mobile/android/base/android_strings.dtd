@@ -19,10 +19,10 @@
 
 
 <!ENTITY firstrun_sync_title "تزامُن">
+<!ENTITY firstrun_sync_message "&brandShortName;، معك دائما">
+<!ENTITY firstrun_sync_subtext "زامن ألسنتك، و كلمات السر و غيرهم المزيد أينما استخدمتها.">
 
-
-
-
+<!ENTITY firstrun_signin_button "لِج إلى «المزامنة»">
 <!ENTITY  onboard_start_button_browser "ابدأ التصفح">
 <!ENTITY firstrun_button_next "التالي">
 
@@ -250,6 +250,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "ليس الآن">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "اذهب إلى الإعدادات">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -277,7 +278,7 @@
 <!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
 <!ENTITY pref_plugins_disabled "مُعطّلة">
 <!ENTITY pref_text_size "حجم النص">
-
+<!ENTITY pref_restore_tabs "استعد الألسنة">
 <!ENTITY pref_restore_always "استعد دائمًا">
 <!ENTITY pref_restore_quit "لا تستعد بعد إغلاق &brandShortName;">
 <!ENTITY pref_font_size_tiny "ضئيل">
@@ -588,7 +589,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "اتصال آمن">
 <!ENTITY identity_connection_insecure "اتصال غير آمن">
 <!ENTITY identity_login_insecure "هذه الصفحة غير آمنة و ولوجك معرض للهجوم.">
-
+<!ENTITY identity_connection_chromeui "هذه صفحة &brandShortName; آمنة">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "منع &brandShortName; محتوى غير آمن في هذه الصفحة.">
@@ -652,7 +653,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "لتنزيل الملفات و التحديثات، اسمح ل‍&brandShortName; بالوصول إلى مساحة التخزين.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "اسمح">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "جلسة ضيف جديدة">
