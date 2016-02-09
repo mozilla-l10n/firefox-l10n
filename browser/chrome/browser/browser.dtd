@@ -503,7 +503,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Sta pagina a l'é sarvâ in sciô dispoxitivo che t'adeuvi.">
 <!ENTITY identity.connectionVerified1 "A conescion con sto scito a l'é segua. O scito o l'é gestio da:">
 <!ENTITY identity.connectionInternal "Sta chi a l'é 'na pagina segua de &brandShortName;.">
-<!ENTITY identity.insecureLoginForms "Sto acesso o porieva esa conpromisso.">
+<!ENTITY identity.insecureLoginForms2 "I acessi a sta pagina porieivan ese vulnerabili.">
 <!ENTITY identity.activeBlocked "Quarche elemento no seguo de sta pagina o l'é stæto blocou da &brandShortName;.">
 <!ENTITY identity.passiveLoaded "Quarche elemento de sta pagina no en segui (prezempio inmagini).">
 <!ENTITY identity.activeLoaded "A proteçion a l'é dizativâ pe sta pagina.">
@@ -724,11 +724,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mirrorTabCmd.label "Radoggia feuggio">
 <!ENTITY mirrorTabCmd.accesskey "u">
 <!ENTITY newNonRemoteWindow.label "Neuvo barcon no e10s">
-<!ENTITY saveToPocketCmd.label "Sarva pagina in Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label "Sarva colegamento in Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "P">
-<!ENTITY pocketMenuitem.label "Veddi elenco Pocket">
+
 <!ENTITY social.directory.label "Portâ serviççi">
 <!ENTITY social.directory.text "L'é poscibile ativâ neuvi serviççi de condivixion da-o portâ dedicou.">
 <!ENTITY social.directory.button "Arvi o portâ">
@@ -762,8 +758,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "A proteçion anti-traciamento a l'é dizativâ">
 
-<!ENTITY webapps.label "App">
-<!ENTITY webapps.accesskey "A">
 <!ENTITY webide.label "WebIDE">
 <!ENTITY webide.accesskey "W">
 <!ENTITY webide.keycode "VK_F8">
@@ -805,8 +799,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 
 
-<!ENTITY loopMenuItem.label "Inandia 'na conversaçion…">
-<!ENTITY loopMenuItem.accesskey "v">
+
 <!ENTITY newUserContext.label "Neuvo feuggio contenitô">
 <!ENTITY newUserContext.accesskey "c">
 <!ENTITY urlbar.viewSiteInfo.label "Fanni vedde informaçioin in sciô scito">

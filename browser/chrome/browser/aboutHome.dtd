@@ -26,7 +26,6 @@
 <!ENTITY abouthome.bookmarksButton.label "Segnalibbri">
 <!ENTITY abouthome.historyButton.label   "Stöia">
 <!ENTITY abouthome.addonsButton.label    "Conponenti azonti">
-<!ENTITY abouthome.appsButton2.label 	 "App">
 <!ENTITY abouthome.downloadsButton.label "Descaregamenti">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 <!ENTITY abouthome.preferencesButtonWin.label "Inpostaçioin">
