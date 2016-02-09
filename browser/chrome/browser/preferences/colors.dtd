@@ -9,7 +9,7 @@
 
 
 <!ENTITY  overridePageColors.always.label "सधैँ">
-
+<!ENTITY  overridePageColors.auto.label   "उच्च कन्ट्र्यास्ट आवरणहरूसँग मात्र">
 <!ENTITY  overridePageColors.never.label  "कहिले पनि होइन">
 
 <!ENTITY  color                           "पाठ र पृष्ठभूमि">
