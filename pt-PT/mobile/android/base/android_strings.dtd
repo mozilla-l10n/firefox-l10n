@@ -3,24 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "Não existe espaço suficiente para iniciar o &brandShortName;.">
+<!ENTITY  no_space_to_start_error "Não existe espaço suficiente disponível para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar ficheiros necessários para executar o &brandShortName;">
 
 <!ENTITY firstrun_panel_title_welcome "Bem-vindo">
 <!ENTITY  onboard_start_message3 "Explorar com o &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Torne a experiência de navegação na Web móvel verdadeiramente sua.">
+<!ENTITY  onboard_start_subtext3 "Torne a sua experiência de navegação na Web móvel verdadeiramente sua.">
 
 <!ENTITY firstrun_urlbar_message "Bem-vindo ao &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Encontre coisas mais rapidamente com atalhos de sugestão de pesquisa úteis.">
+<!ENTITY firstrun_urlbar_subtext "Encontre coisas mais rapidamente com os atalhos de sugestão de pesquisa úteis.">
 <!ENTITY firstrun_bookmarks_title "Histórico">
 <!ENTITY firstrun_bookmarks_message "Os seus favoritos, à frente e ao centro">
-<!ENTITY firstrun_bookmarks_subtext "Obtenha resultados a partir dos seus marcadores e histórico quando pesquisar.">
+<!ENTITY firstrun_bookmarks_subtext "Obtenha resultados a partir dos seus marcadores e histórico quando pesquisa.">
 <!ENTITY firstrun_data_title "Dados">
 <!ENTITY firstrun_data_message "Menos dados, mais poupança">
 <!ENTITY firstrun_data_subtext "Bloquear imagens para gastar menos dados em cada site que visita.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
-<!ENTITY firstrun_sync_subtext "Sincronize os seus separadores, palavras-passe, e mais em qualquer sítio que usar.">
+<!ENTITY firstrun_sync_subtext "Sincronize os seus separadores, palavras-passe, e muito mais em qualquer sítio que os usar.">
 <!ENTITY firstrun_signin_message "Ligue-se para começar">
 <!ENTITY firstrun_signin_button "Iniciar sessão no Sync">
 <!ENTITY  onboard_start_button_browser "Começar a navegar">
