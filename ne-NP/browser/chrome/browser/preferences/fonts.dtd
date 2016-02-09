@@ -31,10 +31,10 @@
 <!ENTITY  font.langGroup.korean                   "कोरियाली">
 <!ENTITY  font.langGroup.cyrillic                 "सिरिलिक">
 <!ENTITY  font.langGroup.el                       "ग्रिक">
+<!ENTITY  font.langGroup.other                    "अन्य लेखन प्रणालीहरु">
 
 
-
-
+<!ENTITY  font.langGroup.arabic                   "अरबी">
 <!ENTITY  font.langGroup.devanagari               "देवनागरी ">
 <!ENTITY  font.langGroup.tamil                    "तामिल">
 <!ENTITY  font.langGroup.armenian                 "आर्मेनियन">
@@ -73,9 +73,10 @@
 <!ENTITY languages.customize.Fallback.arabic      "अरबी">
 <!ENTITY languages.customize.Fallback.baltic      "अन्य भाषाहरू">
 <!ENTITY languages.customize.Fallback.ceiso       "केन्द्रीय युरोपेली, ISO">
-
+<!ENTITY languages.customize.Fallback.cewindows   "मध्य यूरोपीय, माईक्रोसफ्ट">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "सरलीकृत चिनियाँ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "चिनीयाँ, परम्परागत">
@@ -98,4 +99,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "भियतनामिज">
-
+<!ENTITY languages.customize.Fallback.other       "अन्य (पश्चिमी युरोपेली सहित)">

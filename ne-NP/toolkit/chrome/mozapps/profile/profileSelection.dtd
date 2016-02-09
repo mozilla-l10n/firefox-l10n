@@ -13,11 +13,12 @@
 
 <!ENTITY            availprofiles.label    "उपलब्ध प्रोफाइलहरू">
 
-
+<!ENTITY            newButton.label        "प्रोफाइल सिर्जना गर्नुहोस्…">
+<!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "प्रोफाइलको पुनःनामाकरण गर्नुहोस् ">
 <!ENTITY            renameButton.accesskey "R">
-
-
+<!ENTITY            deleteButton.label     "प्रोफाइल मेट्नुहोस्…">
+<!ENTITY            deleteButton.accesskey "D">
 <!-- manager entities -->
 
 <!ENTITY            offlineState.label    "अफलाइन कार्य गर्नुहोस्">
