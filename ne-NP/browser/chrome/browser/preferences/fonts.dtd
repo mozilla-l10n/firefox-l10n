@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "गुरमुखी">
 <!ENTITY  font.langGroup.khmer                    "खमेर">
 <!ENTITY  font.langGroup.malayalam                "मलायलम">
-
+<!ENTITY  font.langGroup.math                     "गणित">
 <!ENTITY  font.langGroup.oriya                    "ओरिया">
 <!ENTITY  font.langGroup.telugu                   "तेल्गु">
 <!ENTITY  font.langGroup.kannada                  "कन्नाडा">
@@ -68,6 +68,7 @@
 
 
 
+<!ENTITY languages.customize.Fallback.auto        "वर्तमान स्थानीयका लागि पूर्वनिर्धारित">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "अरबी">
