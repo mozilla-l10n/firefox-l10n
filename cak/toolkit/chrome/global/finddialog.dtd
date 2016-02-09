@@ -8,8 +8,8 @@
 <!ENTITY caseSensitiveCheckbox.accesskey "t">
 
 
-
-
+<!ENTITY findButton.label "Tikanöx jun chik">
+<!ENTITY findButton.accesskey "T">
 <!ENTITY cancelButton.label "Q'atïk">
 <!ENTITY closeButton.label "Titz'apïx">
 <!ENTITY up.label "Ajsik">
