@@ -96,7 +96,17 @@
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "თემის მორგების შეჩერება">
 <!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.askToActivate.label              "ნებართვა გასაშვებად">
+<!ENTITY cmd.askToActivate.tooltip            "ნებართვა, დამატების ყოველი გაშვების წინ">
+<!ENTITY cmd.alwaysActivate.label             "ყოველთვის გაუშვი">
+<!ENTITY cmd.alwaysActivate.tooltip           "ყოველთვის გამოიყენე ეს დამატება">
+<!ENTITY cmd.neverActivate.label              "არასდროს გაუშვა">
+<!ENTITY cmd.neverActivate.tooltip            "არასდროს გამოიყენო ეს დამატება">
+<!ENTITY cmd.stateMenu.tooltip                "აირჩიეთ, როდის გაეშვას ეს დამატება">
+<!ENTITY cmd.installAddon.label               "ინსტალაცია">
+<!ENTITY cmd.installAddon.accesskey           "ი">
 <!ENTITY cmd.uninstallAddon.label             "ამოღება">
+<!ENTITY cmd.uninstallAddon.accesskey         "ა">
 <!ENTITY cmd.showPreferencesWin.label         "პარამეტრები">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ამ დამატების პარამეტრების შეცვლა">
 <!ENTITY cmd.showPreferencesUnix.label        "პარამეტრები">
@@ -106,10 +116,19 @@
 <!ENTITY cmd.contribute.tooltip               "მიიღეთ მონაწილეობა ამ დამატების დეველოპემნტში.">
 
 <!ENTITY cmd.showReleaseNotes.label           "გამოშვების შენიშვნების ჩვენება">
+<!ENTITY cmd.showReleaseNotes.tooltip         "ამ განახლების შესახებ შენიშვნების ჩვენება">
+<!ENTITY cmd.hideReleaseNotes.label           "გამოშვების შენიშვნების დამალვა">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "ამ განახლების გამოშვების შენიშვნების დამალვა">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "რა არის დამატებები?">
+<!ENTITY discover.description2                "დამატებები არის პროგრამები, რომლებიც საშუალებას გაძლევთ უკეთ მოირგოთ &brandShortName;
+  დამატებითი შესაძლებლობებით და სტილით. დროის დასაზოგად სცადეთ ფუნქციონალური გვერდითი ზოლი, ამინდის მომხსენებელი, ან თემების საშუალებით გახადეთ &brandShortName;
+  უფრო მეტად თქვენი.">
+<!ENTITY discover.footer                      "ინტერნეტთან კავშირის დროს, ამ არეში გამოჩნდება
+  საუკეთესო და პოპულარული დამატებები, რომელიც შეგიძლიათ გამოსცადოთ.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "ვერსია">
@@ -118,14 +137,20 @@
 <!ENTITY detail.homepage.label                "საწყისი გვერდი">
 <!ENTITY detail.numberOfDownloads.label       "ჩამოტვირთვები">
 
+<!ENTITY detail.contributions.description     "ამ დამატების შემქმნელი, პროგრამის მომავალი განვითარებისთვის, გთხოვთ მხარდაჭერას, მცირეოდენი შემოწირულობის სახით.">
 
 <!ENTITY detail.updateType                    "ავტომატური განახლება">
 <!ENTITY detail.updateDefault.label           "ნაგულისხმევი">
+<!ENTITY detail.updateDefault.tooltip         "განახლებების ავტომატურად დაყენება, თუ ნაგულისხმევადაა მითითებული.">
+<!ENTITY detail.updateAutomatic.label         "ჩართვა">
+<!ENTITY detail.updateAutomatic.tooltip       "განახლებების ავტომატურად დაყენება">
 <!ENTITY detail.home                          "საწყისი გვერდი">
+<!ENTITY detail.repository                    "დამატების პროფილი">
 <!ENTITY detail.size                          "ზომა">
 
 <!ENTITY detail.checkForUpdates.label         "განახლებების შემოწმება">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.tooltip       "ამ დამატების შემოწმება განახლებაზე">
 <!ENTITY detail.showPreferencesWin.label      "პარამეტრები">
 <!ENTITY detail.showPreferencesWin.tooltip    "ამ დამატების პარამეტრების შეცვლა">
 
@@ -146,10 +171,12 @@
 
 <!ENTITY search.filter2.label                 "ძიება:">
 <!ENTITY search.filter2.installed.label       "ჩემი დამატებები">
+<!ENTITY search.filter2.available.label       "ხელმისაწვდომი დამატებები">
 
 <!ENTITY addon.homepage                       "საწყისი გვერდი">
 <!ENTITY addon.details.label                  "დეტალურად">
 <!ENTITY addon.details.tooltip                "ვრცლად ამ დამატების შესახებ">
+<!ENTITY addon.unknownDate                    "უცნობი">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -157,6 +184,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
+<!ENTITY addon.update.postfix                 "განახლება">
 <!ENTITY addon.undoRemove.label               "დაბრუნება">
 
 
@@ -173,12 +201,22 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "დაწვრილებით">
+<!ENTITY experiment.info.changetelemetry "ტელემეტრიის პარამეტრები">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "შეიტყვეთ მეტი…">
 
+<!ENTITY disabledUnsigned.heading "ზოგიერთი დამატება გამორთულია">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "ეს დამატებები არაა დამოწმებული &brandShortName;-ში გამოსაყენებლად. თქვენ შეგიძლიათ ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "მონახოთ შემცვლელები">
+<!ENTITY disabledUnsigned.description.end " ან სთხოვოთ შემქმნელს მათი დამოწმება.">
+<!ENTITY disabledUnsigned.learnMore "შეიტყვეთ მეტი ჩვენი ძალისხმევის შესახებ, ინტერნეტში თქვენი უსაფრთხოების დაცვისთვის.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "შემქმნელები, რომლებიც დაინტერესებულნი არიან, რომ მათი დამატებები იყოს დამოწმებული, შეუძლიათ განაგძონ კითხვა ჩვენი ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "სახელმძღვანელოსი">
+<!ENTITY disabledUnsigned.devInfo.end ".">
