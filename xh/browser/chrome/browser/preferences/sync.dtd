@@ -58,7 +58,7 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 
-<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.beforename.label "u200b">
 <!ENTITY signedInUnverified.aftername.label "akuqinisekiswanga.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
@@ -67,7 +67,7 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInLoginFailure.beforename.label "Sicela ungene ukuze uphinde uqhagamshele">
-<!ENTITY signedInLoginFailure.aftername.label "">
+<!ENTITY signedInLoginFailure.aftername.label "u200b">
 
 <!ENTITY notSignedIn.label           "Akungenanga.">
 <!ENTITY signIn.label                "Ngena">
@@ -105,3 +105,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo2.iOSLink          "IiFirefox ye-iOS">
 
+<!ENTITY mobilePromo2.end              ".u200b">
