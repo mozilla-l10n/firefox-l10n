@@ -19,11 +19,11 @@
 <!ENTITY spellAddToDictionary.accesskey "a">
 <!ENTITY spellUndoAddToDictionary.label "Titzolïx chi rij Titz'aqatisäx pa soltzij">
 <!ENTITY spellUndoAddToDictionary.accesskey "t">
+<!ENTITY spellCheckToggle.label "Tinik'öx rutz'ib'axik">
+<!ENTITY spellCheckToggle.accesskey "t">
 
-
-
-
-
+<!ENTITY spellDictionaries.label "Taq ch'ab'äl">
+<!ENTITY spellDictionaries.accesskey "T">
 
 <!ENTITY searchTextBox.clear.label "Tijosq'ïx">
 

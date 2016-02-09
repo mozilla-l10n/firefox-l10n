@@ -25,7 +25,7 @@
 
 
 <!ENTITY notCached.title "Xk'is yan ruq'ijul ri wuj">
-
+<!ENTITY notCached.longDesc "<p>Ri wuj nik'utüx, man k'o ta pa ri rukache' okik'amaya'l.</p><ul><li>. Richin nichajin, ri okik'amaya'l; man nuk'utuj ta chik pa ruyonil chajin tan wuj, ri k'o taq awetamab'al chupam.</li><li>Tapitz'a' qa Titojtob'ëx chik richin nak'utuj chik el ri ruwujil ruxaq k'amaya'l.</li></ul>">
 
 
 
@@ -71,7 +71,7 @@
 
 
 
-
+<!ENTITY cspBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xjaqatäj ri ruxaq k'amaya'l, ruma ri ruxaq k'amaya'l k'o runa'oj pa ruwi' chajinïk, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentError.title "Sachoj ruma itzel rupam">
 <!ENTITY corruptedContentError.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq k'amaya'l nawajo' najäq ruma xtz'etetäj pe jun sachoj richin yeruk'utub'ej pe ri taq tzij.</p><ul><li>Tab'ana' utzil, ke'atz'ib'aj el ri e rajaw ruxaq k'amaya'l richin naya' rutzijol chi ke re k'ayewal re'</li></ul>">
