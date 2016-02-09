@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "참석자 알림">
+<!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "참석자 별로 초대 분리하기">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "이 옵션은 각 참석자에게 따로 이메일을 보내는 옵션입니다. 각 초대에는 받는 사람만 참석자로 나와 있어 다른 참석자를 볼 수 없습니다.">
 
 <!-- Keyboard Shortcuts -->
@@ -138,6 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "A">
 <!ENTITY event.email.tentative.attendees.label            "미결정 참석자에게 이메일 작성…">
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
+<!ENTITY event.remove.attendees.label2                    "모든 참석 삭제">
+<!ENTITY event.remove.attendees.accesskey                 "r">
+<!ENTITY event.remove.attendee.label                      "참석 삭제">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "저장 후 종료">
@@ -348,6 +354,7 @@
 <!ENTITY event.attendee.usertype.group          "모임">
 <!ENTITY event.attendee.usertype.resource       "상태">
 <!ENTITY event.attendee.usertype.room           "장소">
+<!ENTITY event.attendee.usertype.unknown        "알 수 없음">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "시간대 지정하기">

@@ -149,7 +149,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "선택한 태스크 완료 확인">
 <!ENTITY calendar.task.priority.button.tooltip  "중요도 변경">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base		"할일 추출... #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "필터 작업 #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac	"&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac	"&lt;&#x21E7;&#x2318;K&gt;">
 
