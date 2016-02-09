@@ -5,8 +5,8 @@
 <!ENTITY safeb.palm.accept.label "¡Kinawelesaj el wawe'!">
 <!ENTITY safeb.palm.decline.label "Tiq'olo' richin re jun ruchilab'exik tzij">
 <!ENTITY safeb.palm.notforgery.label2 "Man q'olonel ta chi  ruxaq k'amaya'l…">
-
-
+<!ENTITY safeb.palm.reportPage.label "¿Atux ruma toq xq'eleb'ëx re jun ruxaq k'amaya'l re'?">
+<!ENTITY safeb.palm.whyForbidden.label "¿Atux ruma toq xq'eleb'ëx re jun ruxaq k'amaya'l re'?">
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Eleq'om re jun ruxaq k'amaya'l re'!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,4 +22,6 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Pa ri ruxaq k'amaya'l <span id='unwanted_sitename'/> ya'on rutzijol chi k'o itzel taq kema' chupam ruma ri' toq xq'eleb'ëx rij richin rirajowaxik taq achajinik.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Itzel taq ruxaq kema', ri nrajo' nuyäk q'olonel taq kema' chuqa' chanin nritzelaj ri aq'inoj.">
 
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Q'aton ruxaq k'amaya'l">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Re ruxaq k'amaya'l re' <span id='forbidden_sitename'/> xq'at ruma ri anuk'ulem ajk'amaya'l.">

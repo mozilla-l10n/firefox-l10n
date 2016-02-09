@@ -20,9 +20,9 @@
 <!ENTITY firstrun_data_subtext "Keq\u0027at ri taq wachib\u0027äl richin man k\u0027ïy ta taq tzij yesach toq at k\u0027o chupam jun ruxaq k\u0027amaya\u0027l.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, junelïk chachi\u0027">
-
-
-
+<!ENTITY firstrun_sync_subtext "Ke\u0027axima\u0027 ri taq ruwi\u0027, taq ewan tzij chuqa\u0027 ch\u0027aqa\u0027 chik toq nawajo\u0027 nawokisaj.">
+<!ENTITY firstrun_signin_message "Katok, tatikirisaj">
+<!ENTITY firstrun_signin_button "Katok pa Sync">
 <!ENTITY  onboard_start_button_browser "Tichap okem pa k\u0027amaya\u0027l">
 <!ENTITY firstrun_button_next "Jun chik">
 
@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Yatikïr najalwachij rere\u0027 pa Runuk\u0027ulem pa jun chik ti ramaj">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Titzij, tiya\u0027 q\u0027ij richin yewachib\u0027ëx pa kiwi\u0027 ch\u0027aqa\u0027 chik taq chokoy">
 <!ENTITY tab_queue_prompt_positive_action_button "Tiya\u0027 q\u0027ij">
 <!ENTITY tab_queue_prompt_negative_action_button "Wakami manäq">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Tib\u0027e pa taq nuk\u0027ulem">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "Royob\u0027exik 1 ruwi\u0027">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Richin \&quot;Tijaq jalajöj taq ximonel\&quot;, tab\u0027ana\u0027 utzil, tatzija\u0027 chi niya\u0027 q\u0027ij \&quot;Tiwachib\u0027ëx pa kiwi\u0027 ch\u0027aqa\u0027 chik taq chokoy\&quot; richin &brandShortName;">
 
 <!ENTITY pref_char_encoding "Tik\u0027ut rucholajil tz\u0027ib\u0027">
 <!ENTITY pref_char_encoding_on "Tik\u0027ut pe ri k\u0027utüy samaj">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Ri k\u0027ak\u0027a\u0027 taq ruwi\u0027 awichin, xkeq\u0027alajin pe wawe\u0027.">
 <!ENTITY home_open_all "Kejaq konojel">
 <!ENTITY home_most_recent_empty "Ri taq ruxaq k\u0027amaya\u0027l k\u0027ak\u0027a\u0027 kitz\u0027etik, xekeq\u0027alajin pe wawe\u0027.">
-
+<!ENTITY home_selected_empty "Ri taq ruxaq k\u0027amaya\u0027l xke\u0027atz\u0027ët pa ruramaj jun q\u0027ij, xketz\u0027et wawe.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: tajin nokisäx jun &formatS1;jun k\u0027ak\u0027a\u0027 ruwi\u0027 richin ichinan okem pa k\u0027amaya\u0027l&formatS2; man xtikolotäj ta ri ak\u0027ulwachinel.">
@@ -597,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ütz chi  okem">
 <!ENTITY identity_connection_insecure "Man ütz ta chi okem">
 <!ENTITY identity_login_insecure "Man ütz ta re ruxaq wuj re\u0027 ruma ri\u0027 ri atikirisaxik pa moloj rik\u0027in jub\u0027a\u0027 xtuya\u0027 k\u0027ayewal.">
-
+<!ENTITY identity_connection_chromeui "Re re\u0027 jun ütz ruxaq k\u0027amaya\u0027l richin &brandShortName;">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ruq\u0027aton itzel taq rupam pa re ruxaq re\u0027.">
@@ -621,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Xejosq\u0027ïx ri ichinan taq tzij">
 <!ENTITY private_data_fail "Jujun taq ichinan tzij man tikirel ta yejosq\u0027ïx el">
 
+<!ENTITY bookmarkhistory_button_import "Tik\u0027am pe">
 <!ENTITY bookmarkhistory_import_both "Kek\u0027wäx el  ri taq yakäl etal chuqa\u0027 k\u0027ulwachinel 
 ">
 <!ENTITY bookmarkhistory_import_bookmarks "Kek\u0027wäx el ri taq yakäl etal 
@@ -661,7 +666,10 @@ chuwäch ri Android">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Richin yeqasäx taq yakb\u0027äl chuqa\u0027 taq k\u0027exoj ruwäch, ütz tab\u0027ana\u0027 chi re ri ruya\u0027ik q\u0027ij richin yatok pa ruyakb\u0027al &brandShortName;.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Tiya\u0027 q\u0027ij">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "K\u0027ak\u0027a\u0027 kimoloj peyonela\u0027">
@@ -751,8 +759,8 @@ chuwäch ri Android">
 <!ENTITY restrictable_feature_advanced_settings_description "Re nutzaqatisaj rutaqik taq yaketal, rutzolixi kiwäch taq ruwi\u0027 chuqa\u0027 ruyonil taq k\u0027exoj ruwäch. Tachupu\u0027 ruwäch richin ri choj taq nuk\u0027samaj richin xa b\u0027a\u0027 achike qach\u0027alal.">
 <!ENTITY restrictable_feature_camera_microphone "Elesäy wachib\u0027äl &amp; q\u0027asäy ch\u0027ab\u0027äl">
 <!ENTITY restrictable_feature_camera_microphone_description "Muya\u0027 q\u0027ij chi ke ri ach\u0027alal yetzijon chuqa\u0027 pa ri ramaj chupam ri ruxaq k\u0027amaya\u0027l.">
-
-
+<!ENTITY restrictable_feature_block_list "Kicholajem taq q\u0027atoj">
+<!ENTITY restrictable_feature_block_list_description "Keq\u0027at ri ruxaq k\u0027amaya\u0027l k\u0027o na\u0027onel taq rupam chupam.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 

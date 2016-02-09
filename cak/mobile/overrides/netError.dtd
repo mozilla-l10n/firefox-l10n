@@ -168,8 +168,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Näj XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, ke'atz'ib'aj el ri rajaw ri ruxaq k'amaya'l richin naya' rutzijol chi ke re k'ayewal re'.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Man tikirel ta nok pa rub'eyal pa k'amaya'l ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Q'axinäq chi etamab'äl: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "K'o pan itzelal ri awokem">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Nimaläj chi etamab'äl: SSL_ERRO_NO_CYPHER_OVERLAP">
