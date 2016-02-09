@@ -19,27 +19,35 @@
 <!ENTITY rights.intro-point1b "Mozilla საზოგადო ლიცენზიით">
 <!ENTITY rights.intro-point1c ". ეს ნიშნავს, რომ შეგიძლიათ &brandShortName; ბრაუზერის გამოყენება, კოპირება და გავრცელება.  ასევე, შეგიძლიათ შეცვალოთ &brandShortName; ბრაუზერის პირველწყარო კოდები თქვენი მოთხოვნების შესაბამისად. Mozilla საზოგადო ლიცენზია ასევე გაძლევთ უფლებას გაავრცელოთ თქვენი სახეცვლილი ვერსიები.">
 
+<!ENTITY rights.intro-point2-a "თქვენ არ გეძლევათ უფლება, რომელიმე სავაჭრო ნიშანზე, ასევე Mozilla Foundation-ის ან მისი რომელიმე მხარის სავაჭრო ნიშნების ლიცენზიაზე, მათ შორის Firefox-ის სახელის ან ლოგოს შეუზღუდავ გამოყენებაზე. დამატებითი ინფორმაცია სავაჭრო ნიშნების შესახებ შეგიძლია მოიძიოთ  ">
 <!ENTITY rights.intro-point2-b "აქ">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
+<!ENTITY rights.intro-point2.5 "&brandShortName;-ის შესაძლებლობა, როგორიცაა ავარიული გამორთვის მომხსენებელი, საშუალებას გაძლევთ გამოეხმაუროთ &vendorShortName;-ს. გამოხმაურების გაგზავნით, &vendorShortName;-ს აძლევთ უფლებას, თქვენ მიერ მიწოდებული ინფორმაცია გამოიყენოს პროდუქტის გასაუმჯობესებლად, გამოაქვეყნოს კუთვნილ საიტზე და გაავრცელოს.">
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights2.intro-point3a "თუ როგორ ვიყენებთ ჩვენ თქვენს პირად მონაცემებს და &brandShortName;-ის საშუალებით &vendorShortName;-ისთვის გამოგზავნილ გამოხმაურებებს , აღწერილია ">
+<!ENTITY rights2.intro-point3b "&brandShortName;-ის პირადი მონაცემების დაცვის დებულებაში">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "ნებისმიერი კონფიდენციალობის პირობები ამ პროდუქტისთვის აქ უნდა აისახოს.">
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights2.intro-point4a "&brandShortName;-ის ზოგიერთი ფუნქცია იყენებს ინტერნეტზე დაფუძნებულ საინფორმაციო მომსახურებებს, რომელთა სიზუსტესა და უშეცდომობას, ჩვენ ვერ უზრუნველვყოფთ. დამატებითი ინფორმაცია, მათ შორის ამ ფუნქციების გამორთვის თაობაზე, შეგიძლიათ იხილოთ">
 <!ENTITY rights.intro-point4b "მომსახურების პირობებში">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "თუ პროდუქტი უზრუნველყოფს ინტერნეტ მომსახურებას, ნებისმიერი მომსახურების პირობები შეგიძლიათ იხილოთ თუ მიჰყვებით ბმას ">
+<!ENTITY rights.intro-point4b-unbranded "საიტის მომსახურებები">
 <!ENTITY rights.intro-point4c-unbranded " სექციაზე.">
 
+<!ENTITY rights2.webservices-header "&brandFullName; ინტერნეტზე დაფუძნებული საინფორმაციო მომსახურებები">
 
 <!-- point 5 -->
+<!ENTITY rights.intro-point5 "გარკვეული ტიპის ვიდეოების გასაშვებად, &brandShortName; ჩამორტვირთავს შიგთავსის გასაშიფრ შესაბამისს მოდულებს, მესამე მხარისგან.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -47,12 +55,25 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandShortName; იყენებს ინტერნეტზე დაფუძნებულ საინფორმაციო მომსახურებებს (&quot;სერვისებს&quot;), &brandShortName;-ის ორობითი ვერსიით სარგებლობის უზრუნველსაყოფად, ქვემოთ მოცემული პირობების თანახმად.  თუ არ გსურთ რომელიმე სერვისით სარგებლობა ან მოცემული პირობები მიუიღებელია, თქვენ შეგიძლიათ გამორთოთ ეს კონკრეტული მომსახურება, რომლის ინსტრუქციებიც შეგიძლიათ მოიძიოთ ">
+<!ENTITY rights2.webservices-b "აქ">
 <!ENTITY rights3.webservices-c ". დანარჩენი ფუნქციები და მომსახურებები შეგიძლიათ გამორთოთ პროგრამის პარამეტრებიდან.">
 
 <!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "გვერდების უსაფრთხოდ დათვალიერების ფუნქციის გამორთვა არაა სასურველი, რადგან შედეგად შეიძლება ეწვიოთ სახიფათო საიტებს.  თუ მაინც გსურთ ფუნქციის სრულად გათიშვა, მიჰყევით შემდეგ მითითებებს:">
+<!ENTITY rights.safebrowsing-term1 "გახსენით პროგრამის პარამეტრები">
+<!ENTITY rights.safebrowsing-term2 "გადადით უსაფთხოებაზე">
+<!ENTITY rights.safebrowsing-term3 "მოხსენით მონიშვნა &quot;&blockAttackSites.label;&quot;-ს და &quot;&blockWebForgeries.label;&quot;-ს">
+<!ENTITY rights.safebrowsing-term4 "და უსაფრთხო რეჟიმი გამოირთვება">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "გეოლოკაცია ინტერნეტში მოგზაურობისას:">
+<!ENTITY rights.locationawarebrowsing-b "მხოლოდ თანხმობის შემთხვევაში.  მდებარეობის შესახებ ინფორმაცია, თქვენი ნებართვის გარეშე, არასდროს გაიგზავნება.  თუ გსურთ ფუნქციის სრულად გათიშვა, მიჰყევით შემდეგ მითითებებს:">
+<!ENTITY rights.locationawarebrowsing-term1a "URL ველში, აკრიფეთ ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "აკრიფეთ geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "ორჯერ დააწკაპუნეთ geo.enabled პარამეტრზე">
+<!ENTITY rights.locationawarebrowsing-term4 "და გეოლოკაცია გამოირთვება">
 
 <!-- intro paragraph for unbranded builds -->
 
@@ -60,6 +81,7 @@
 <!ENTITY rights.webservices-term1-unbranded "ყველა შესაძლო მომსახურების პირობები ამ პროდუქტისთვის აქ უნდა იყოს განთავსებული.">
 
 <!-- points 1-7 text for branded builds -->
+<!ENTITY rights2.webservices-term1 "&vendorShortName;, მისი შემომწირველები, თანამფლობელები და თანამშრომლები მუშაობენ, რათა მოგაწოდონ ხარისხიანი და თანამედროვე მომსახურება.  მიუხედავად ამისა, ჩვენ სრულად ვერ უზრუნველვყოფთ, რომ მოწოდებული ინფორმაცია იქნება სრულყოფილი და უშეცდომო.  მაგალითად, საიტების უსაფრთხო თვალიერების რეჟიმში, შეიძლება სწორად ვერ მოხდეს საშიში გვერდების აღმოჩენა და ზოგიერთი სანდო საიტი შეცდომით ჩაითვალოს სახიფათოდ. ასევე, მდებარეობის დადგენისას, მოწოდებული ინფორმაცია, მხოლოდ საორიენტაციო ხასიათისაა და ვერ იქნება ზედმიწევნით ზუსტი.">
 <!ENTITY rights.webservices-term2 "&vendorShortName;-ს შეუძლია საკუთარი შეხედულებისამებრ შეწყვიტოს ან შეცვალოს მომსახურები.">
 <!ENTITY rights.webservices-term5 "გარდა კანონის მოთხოვნების გამონაკლისებისა, &vendorShortName;, მისი შემქმნელები, ლიცენზორები და გამავრცელებლები პასუხს არ აგებენ ირიბი, განსაკუთრებული, შემთხვევითი, გამომდინარე, სადამსჯელო ან სანიმუშო დაზიანებებზე, რომლებიც &brandShortName; და მისი მომსახურებებით სარგებლობის შედეგად შეიძლება წარმოიქმნას.  კოლექტიური პასუხისმგებლობა ამ პირობების მიხედვით არ შეიძლება აჭარბებდეს $500 (ხუთას დოლარს). ზოგიერთი კანონმდებლობა არ იძლევა გარკვეული დაზიანებების გამორიცხვის ან შეზღუდვის უფლებას, ამგვარად ეს გამონაკლისი და შეზღუდვა თქვენ ვერ შეგეხებათ.">
 <!ENTITY rights.webservices-term6 "&vendorShortName;-ს დროდადრო საჭიროებისამებრ შეუძლია განაახლოს ეს პირობები. ეს პირობები ვერ შეიცვლება &vendorShortName;-ს წერილობითი თანხმობის გარეშე.">
