@@ -11,15 +11,15 @@
 <!ENTITY  onboard_start_subtext3 "Tab\u0027ana\u0027 chi ri awetamab\u0027al pa ruwi\u0027 okem pa k\u0027amaya\u0027l richin oyonib\u0027äl kan awichin wi.">
 
 <!ENTITY firstrun_urlbar_message "Ütz apetik pa &brandShortName;">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Anin ke\u0027awila\u0027 taq wachinäq rik\u0027in kito\u0027ik ri taq ruq\u0027a\u0027 okem ichilab\u0027en richin kanoxïk.">
+<!ENTITY firstrun_bookmarks_title "K\u0027ulwachinel">
+<!ENTITY firstrun_bookmarks_message "Ri taq awajowab\u0027äl, chuwäch chuqa\u0027 pa ya\u0027on pa nik\u0027aj">
+<!ENTITY firstrun_bookmarks_subtext "Tawila\u0027 taq retal ri taq ayaketal chuqa\u0027 kik\u0027ulwachinel toq yakanon.">
+<!ENTITY firstrun_data_title "Taq tzij">
+<!ENTITY firstrun_data_message "Jub\u0027a\u0027 taq tzij, janila echajin">
+<!ENTITY firstrun_data_subtext "Keq\u0027at ri taq wachib\u0027äl richin man k\u0027ïy ta taq tzij yesach toq at k\u0027o chupam jun ruxaq k\u0027amaya\u0027l.">
 <!ENTITY firstrun_sync_title "Sync">
-
+<!ENTITY firstrun_sync_message "&brandShortName;, junelïk chachi\u0027">
 
 
 
