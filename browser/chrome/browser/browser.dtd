@@ -240,7 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "工具">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
-<!ENTITY keywordfield.label           "为此搜索引擎添加关键字…">
+<!ENTITY keywordfield.label           "为此搜索引擎添加关键词…">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "下载">
@@ -497,14 +497,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "搜索 ">
-<!ENTITY searchAfter.label            "">
+<!ENTITY search.label                 "使用 ">
+<!ENTITY searchAfter.label            " 搜索">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "搜索：">
+<!ENTITY searchWithHeader.label       "搜索引擎：">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
