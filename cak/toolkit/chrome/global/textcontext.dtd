@@ -15,9 +15,10 @@
 <!ENTITY deleteCmd.label "Yujïk">
 <!ENTITY deleteCmd.accesskey "ï">
 
-
-
-
+<!ENTITY spellAddToDictionary.label "Titz'aqatisäx pa soltzij">
+<!ENTITY spellAddToDictionary.accesskey "a">
+<!ENTITY spellUndoAddToDictionary.label "Titzolïx chi rij Titz'aqatisäx pa soltzij">
+<!ENTITY spellUndoAddToDictionary.accesskey "t">
 
 
 
@@ -30,7 +31,7 @@
 <!ENTITY fillLoginMenu.accesskey      "T">
 <!ENTITY fillPasswordMenu.label       "Tinojisäx ewan tzij">
 <!ENTITY fillPasswordMenu.accesskey   "T">
-
-
+<!ENTITY fillUsernameMenu.label       "Tinojisäx rub'i' winäq">
+<!ENTITY fillUsernameMenu.accesskey   "T">
 
 <!ENTITY viewSavedLogins.label        "Ketz'et ri yakon &amp;kitikirib'al molojri'ïl">

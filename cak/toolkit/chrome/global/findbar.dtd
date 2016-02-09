@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. -->
-
-
-
-
+<!ENTITY previous.tooltip "Tib'an b'enam pa ri jun chik pajtzij xilitäj">
+<!ENTITY findCloseButton.tooltip "Titz'apïx ri rukajtz'ik kanob'äl">
+<!ENTITY highlightAll.label "Tiya' retal ronojel">
+<!ENTITY highlightAll.accesskey "r">
 
 
 

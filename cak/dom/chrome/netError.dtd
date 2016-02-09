@@ -1,10 +1,35 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY loadError.label "Man xtikïr ta xusamajib'ej ri ruxaq">
 <!ENTITY retry.label "Rutojtob'exik chik">
 <!-- Specific error messages -->
 
 
+<!ENTITY connectionFailure.title "Xsach toq tajin nok">
+
+
+
+
+<!ENTITY dnsNotFound.title "Man xilitäj ta ri ochochib'äl">
+
+
+<!ENTITY fileNotFound.title "Man xilitäj ta ri yakb'äl">
+
+
+<!ENTITY generic.longDesc "<p>Majun na'oj k'o chi rij re k'ayewal o sachoj re'.</p>">
+
+
+
+
+
+<!ENTITY notCached.title "Xk'is yan ruq'ijul ri wuj">
+
+
+
+
+<!ENTITY contentEncodingError.title "Sachoj pa ruwi' rucholajil rupam">
 
 
 
@@ -21,35 +46,27 @@
 
 
 
+<!ENTITY unknownSocketType.title "Itzel tzolin tzij">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY nssFailure2.title "Man xtikïr ta rik'in ri ütz okem">
 <!ENTITY nssFailure2.longDesc2 "<p>Man tikirel ta ninik'öx chi e qitzij ri taq tzij xek'ul, man xtik'ut ta pe ri ruxaq k'amaya'l.</p><ul><li>Katzijon kik'in ri e pa'äl chuwäch ri ruxaq k'amaya'l richin naya' rutzijol chi ke pa ruwi' re k'ayewal re'.</li></ul>">
 
+<!ENTITY nssBadCert.title "Man xtikïr ta rik'in ri ütz okem">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Rik'in jub'a' jun ruk'ayewal ri runuk'ulem ruk'u'x samaj, o chuqa' k'o ri tajin nik'exo ri ruk'u'x samaj.</li> 
+<li>We at jikïl chi atokinäq chik ütz pa re ruk'u'x samaj re', ri sachoj xa xe jun ti mej, ruma ri' tikirel natojtob'ej pa jun chik ch'uti ramaj.</li> 
+</ul>">
 
-
+<!ENTITY malwareBlocked.title "¡Re ruxaq k'amaya'l re' k'ayew rik'in!">
 
 
 <!ENTITY unwantedBlocked.title "¡Ruxaq k'amaya'l ya'on rutzijol chi k'o itzel kema' chupam!">
+<!ENTITY unwantedBlocked.longDesc "<p>Itzel taq ruxaq kema' nkajo' nikiyäk q'olonel taq kema' chuqa' wakami chanin nritzelaj ri aq'inoj.</p>">
 
 
 
-
+<!ENTITY forbiddenBlocked.title "Xajan taq ruxaq k'amaya'l">
 <!ENTITY forbiddenBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xsamajib'ëx re ruxaq k'amaya'l re', ruma chi nuk'un richin niq'at.</p>">
 
 
@@ -57,6 +74,7 @@
 
 
 <!ENTITY corruptedContentError.title "Sachoj ruma itzel rupam">
+<!ENTITY corruptedContentError.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq k'amaya'l nawajo' najäq ruma xtz'etetäj pe jun sachoj richin yeruk'utub'ej pe ri taq tzij.</p><ul><li>Tab'ana' utzil, ke'atz'ib'aj el ri e rajaw ruxaq k'amaya'l richin naya' rutzijol chi ke re k'ayewal re'</li></ul>">
 
-
+<!ENTITY remoteXUL.title "Näj XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, tatz'ib'aj el chi ke ri rajaw ri ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li></ul></p>">
