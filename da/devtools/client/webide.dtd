@@ -215,3 +215,6 @@
 <!ENTITY simulator_device "Enhed">
 <!ENTITY simulator_screenSize "Skærm">
 <!ENTITY simulator_pixelRatio "Pixel-ratio">
+<!ENTITY simulator_tv_data "Simulering af TV">
+<!ENTITY simulator_tv_data_open "Konfigurerings-data">
+<!ENTITY simulator_tv_data_open_button "Åbn konfigurerings-mappe…">
