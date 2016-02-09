@@ -131,7 +131,7 @@
 <!ENTITY prefs_options_showeditor "Mostrar editor">
 <!ENTITY prefs_options_showeditor_tooltip "Mostrar editor interno">
 <!ENTITY prefs_options_tabsize "Tamanho do separador">
-<!ENTITY prefs_options_expandtab "Separadores incondicionais">
+<!ENTITY prefs_options_expandtab "Separadores flexíveis">
 <!ENTITY prefs_options_expandtab_tooltip "Utilizar espaços em vez do caractere de tabulação">
 <!ENTITY prefs_options_detectindentation "Indentar automaticamente">
 <!ENTITY prefs_options_detectindentation_tooltip "Presumir indentação baseada no conteúdo fonte">
@@ -151,7 +151,7 @@
 
 <!ENTITY runtimedetails_title "Informação de Runtime">
 <!ENTITY runtimedetails_adbIsRoot "ADB é root: ">
-<!ENTITY runtimedetails_summonADBRoot "root do dispositivo">
+<!ENTITY runtimedetails_summonADBRoot "raiz do dispositivo">
 <!ENTITY runtimedetails_ADBRootWarning "(requer um bootloader desbloqueado)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "Privilégios não restritos de DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "solicitar privilégios superiores">
@@ -195,7 +195,7 @@
 <!ENTITY wifi_auth_no_scanner "Nenhum digitalizador de QR pronto?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Tem um digitalizador QR?">
+<!ENTITY wifi_auth_yes_scanner "Tem um digitalizador de QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Se o seu outro dispositivo pede por um token em vez da análise de um código QR, copie o valor abaixo para o outro dispositivo:">
