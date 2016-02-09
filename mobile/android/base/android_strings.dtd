@@ -170,7 +170,7 @@
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!ENTITY tab_queue_notification_text_plural2 "&formatD; pestañas en espera">
 <!ENTITY tab_queue_notification_text_singular2 "1 pestaña en espera">
-<!ENTITY tab_queue_notification_settings "Para &quot;Abrir múltiples enlaces&quot;, active el permiso \'Dibujar sobre otras aplicaciones\' para &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Para \&quot;Abrir múltiples enlaces\&quot;, active el permiso \'Dibujar sobre otras aplicaciones\' para &brandShortName;">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
