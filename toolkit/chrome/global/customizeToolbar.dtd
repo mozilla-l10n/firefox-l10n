@@ -10,7 +10,7 @@
 <!ENTITY icons.label              "प्रतिमाहरू">
 <!ENTITY text.label               "पाठ">
 <!ENTITY useSmallIcons.label      "साना प्रतिमा प्रयोग गर्नुहोस्">
-
+<!ENTITY restoreDefaultSet.label  "पूर्वानिर्धारण सेट ल्याउनुहोस्">
 <!ENTITY addNewToolbar.label      "नयाँ उपकरणपट्टी थप्नुहोस्">
 <!ENTITY saveChanges.label        "सम्पन्न भयो">
 <!ENTITY undoChanges.label        "परिवर्तनलाई पूर्वस्थितिमा फर्काउनुहोनुहोस्">

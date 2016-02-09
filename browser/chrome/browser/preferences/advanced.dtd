@@ -86,7 +86,8 @@
 <!ENTITY updateAutoAddonWarn.label       "यसले कुनै एड-अन हरूलाई काम नगर्ने बनाउछ भने मलाई चेतावनी दिनुहोस्">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
-
+<!ENTITY updateHistory.label             "अद्यावधिक इतिहास देखाउनुहोस्">
+<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "अपडेटहरू स्थापना गर्नका लागि पृष्ठभूमि सेवाको प्रयोग गर">
 <!ENTITY useService.accesskey            "b">
