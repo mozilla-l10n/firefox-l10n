@@ -27,7 +27,10 @@ was trying to connect. -->
 <!ENTITY certerror.longpagetitle1 "Sta conescion a no l'é segua">
 <!ENTITY certerror.returnToPreviousPage.label "Vanni inderê">
 <!ENTITY certerror.copyToClipboard.label "Còpia o testo inti aponti">
-
+<!ENTITY errorReporting.automatic "Segnala eroî de sto tipo pe agiutâ Mozilla a identificâ i sciti configuræ in mòddo sbaliòu">
+<!ENTITY errorReporting.sending "Mando segnalaçion">
+<!ENTITY errorReporting.sent "Segnalaçion mandâ">
+<!ENTITY errorReporting.tryAgain "Preuva torna">
 
 
 

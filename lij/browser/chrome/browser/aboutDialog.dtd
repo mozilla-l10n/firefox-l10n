@@ -13,7 +13,7 @@
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "comunitæ globale">
 <!ENTITY community.exp.end          " ch'a travaggia insemme pe mantegnî a Ræ averta, pubrica e acesibile a tutti.">
-
+<!ENTITY releaseNotes.link 			"Novitæ">
 <!ENTITY community.start2           "&brandShortName; o l'é fæto da ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
