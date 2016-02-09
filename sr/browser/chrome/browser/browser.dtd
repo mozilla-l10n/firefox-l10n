@@ -269,8 +269,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "B">
 
-<!ENTITY inspectContextMenu.label     "Inspect Element">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.label     "Испитај елеменат">
+<!ENTITY inspectContextMenu.accesskey "И">
 
 <!ENTITY responsiveDesignTool.label   "Responsive Design View">
 <!ENTITY responsiveDesignTool.accesskey "R">
@@ -425,7 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.label "Додај траци">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
 <!ENTITY customizeMenu.addToPanel.label "Додај менију">
-<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.addToPanel.accesskey "м">
 <!ENTITY customizeMenu.moveToToolbar.label "Помери на траку">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "т">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
@@ -793,7 +793,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.label        "Синхронизуј сада">
 <!ENTITY syncSyncNowItem.accesskey    "С">
 <!ENTITY syncReAuthItem.label         "Поново се повежи на &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "к">
+<!ENTITY syncReAuthItem.accesskey     "ж">
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Друштвена трака">
