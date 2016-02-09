@@ -15,7 +15,7 @@
 
 <!ENTITY tracking.label                 "Стеження">
 <!ENTITY trackingProtectionPBM5.label         "Використовувати захист від стеження в приватних вікнах">
-<!ENTITY trackingProtectionPBM5.accesskey     "п">
+<!ENTITY trackingProtectionPBM5.accesskey     "ж">
 <!ENTITY trackingProtectionPBMLearnMore.label "Докладніше">
 <!ENTITY changeBlockList.label          "Змінити список блокування">
 <!ENTITY changeBlockList.accesskey      "З">
@@ -36,7 +36,7 @@
 <!ENTITY  locbar.bookmarks.label        "Закладки">
 <!ENTITY  locbar.bookmarks.accesskey    "а">
 <!ENTITY  locbar.openpage.label         "Відкриті вкладки">
-<!ENTITY  locbar.openpage.accesskey     "В">
+<!ENTITY  locbar.openpage.accesskey     "в">
 <!ENTITY  locbar.searches.label         "Пов'язані пошуки з типового засобу пошуку">
 <!ENTITY  locbar.searches.accesskey     "П">
 
@@ -53,7 +53,7 @@
 <!ENTITY  acceptThirdParty.visited.label  "Від відвіданих">
 
 <!ENTITY  keepUntil.label               "Зберігати доки:">
-<!ENTITY  keepUntil.accesskey           "З">
+<!ENTITY  keepUntil.accesskey           "г">
 
 <!ENTITY  expire.label                  "не закінчиться термін їх дії">
 <!ENTITY  close.label                   "я не закрию &brandShortName;">
@@ -97,7 +97,7 @@
 <!ENTITY  rememberHistory2.accesskey  "і">
 
 <!ENTITY  rememberSearchForm.label       "Пам’ятати історію пошуків та форм">
-<!ENTITY  rememberSearchForm.accesskey   "к">
+<!ENTITY  rememberSearchForm.accesskey   "м">
 
 <!ENTITY  clearOnClose.label             "Стирати історію при закритті &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "С">
