@@ -41,7 +41,7 @@
 <p>Przed cyfrowym podpisaniem wiadomości lub jej zaszyfrowaniem, należy wykonać opisane poniżej czynności wstępne:</p>
 
 <ol>
-  <li>Uzyskać jeden lub więcej <a href="glossary.xhtml#certificate">certifikatów</a> (cyfrowe odpowiedniki dowodów tożsamości). Więcej informacji w&nbsp;rozdziale <a href="using_certs_help.xhtml#getting_your_own_certificate">Uzyskiwanie własnego certyfikatu</a>.</li>
+  <li>Uzyskać jeden lub więcej <a href="glossary.xhtml#certificate">certyfikatów</a> (cyfrowe odpowiedniki dowodów tożsamości). Więcej informacji w&nbsp;rozdziale <a href="using_certs_help.xhtml#getting_your_own_certificate">Uzyskiwanie własnego certyfikatu</a>.</li>
   <li>Skonfigurować ustawienia zabezpieczeń dla konta pocztowego. Więcej informacji w&nbsp;rozdziale <a href="mailnews_account_settings.xhtml#security">Ustawienia kont pocztowych i&nbsp;grup dyskusyjnych &mdash; Zabezpieczenia</a>.
   </li>
 </ol>
@@ -65,7 +65,7 @@
   </li>
   <li><a href="glossary.xhtml#private_key">Klucz prywatny</a>, który jest tworzony na dysku komputera użytkownika po uzyskaniu certyfikatu.
 
-    <p>Klucz prywatny do certyfikatu podpisującego jest zabezpieczony <a href="glossary.xhtml#master_password">głównym hasłem</a>, a&nbsp;&brandShortName; nie udostępnia go osobom trzecim. Kurier Poczty używa klucza prywatnego do tworzenia unikalnego i&nbsp;weryfikowalnego podpisu cyfrowego dla każdej wiadomości dopodpisania.</p>
+    <p>Klucz prywatny do certyfikatu podpisującego jest zabezpieczony <a href="glossary.xhtml#master_password">głównym hasłem</a>, a&nbsp;&brandShortName; nie udostępnia go osobom trzecim. Kurier Poczty używa klucza prywatnego do tworzenia unikalnego i&nbsp;weryfikowalnego podpisu cyfrowego dla każdej wiadomości do podpisania.</p>
   </li>
 </ul>
 
@@ -129,7 +129,7 @@
   <li>W&nbsp;polu Szyfrowanie wiadomości (wybrać jedną opcję):
     <ul>
       <li><strong>Nigdy (nie używaj szyfrowania)</strong>: Kiedy ta opcja jest wybrana, wiadomości wysyłane z&nbsp;tego konta nie będą szyfrowane, chyba że użytkownik zdecyduje inaczej przed wysłaniem wiadomości.</li>
-      <li><strong>Wymagaj (nie można wysłać wiadomości jeśli nie wszyscy adresaci mają certyfikat)</strong>: Kiedy ta opcja jest wybrana, wiadomości wysyłane z&nbsp;tego konta będą szyfrowane, ale tylko wtedy jeżeli użytkownik posiada ważny certyfikat dla każdego adresata wiadomości. Jeżli użytkownik nie posiada wszystkich wymaganych certyfikatów, to nie będzie można wysłać wiadomości, chyba że szyfrowanie zostanie dla tej wiadomości wyłączone.</li>
+      <li><strong>Wymagaj (nie można wysłać wiadomości jeśli nie wszyscy adresaci mają certyfikat)</strong>: Kiedy ta opcja jest wybrana, wiadomości wysyłane z&nbsp;tego konta będą szyfrowane, ale tylko wtedy jeżeli użytkownik posiada ważny certyfikat dla każdego adresata wiadomości. Jeżeli użytkownik nie posiada wszystkich wymaganych certyfikatów, to nie będzie można wysłać wiadomości, chyba że szyfrowanie zostanie dla tej wiadomości wyłączone.</li>
     </ul>
   </li>
 </ul>
@@ -140,7 +140,7 @@
 
 <h2 id="signing_and_encrypting_a_new_message">Podpisywanie i&nbsp;szyfrowanie nowej wiadomości</h2>
 
-<p>Zanim będzie możliwe podpisywanie cyfrowe lub szyfrowanie wiadomości, użytkownik musi uzyskać conajmniej jeden certyfikat wiadomości i&nbsp;poprawnie skonfigurować ustawienia zabezpieczeń wiadomości. Więcej informacji jak to zrobić w&nbsp;rozdziale <a href="#about_digital_signatures_and_encryption">O&nbsp;podpisach cyfrowych i&nbsp;szyfrowaniu</a>.</p>
+<p>Zanim będzie możliwe podpisywanie cyfrowe lub szyfrowanie wiadomości, użytkownik musi uzyskać co najmniej jeden certyfikat wiadomości i&nbsp;poprawnie skonfigurować ustawienia zabezpieczeń wiadomości. Więcej informacji jak to zrobić w&nbsp;rozdziale <a href="#about_digital_signatures_and_encryption">O&nbsp;podpisach cyfrowych i&nbsp;szyfrowaniu</a>.</p>
 
 <p>Ustawienia zdefiniowane w&nbsp;<a href="mailnews_account_settings.xhtml#security">Ustawieniach zabezpieczeń kont pocztowych i&nbsp;grup dyskusyjnych</a> określają domyślne ustawienia dla każdego okna tworzenia nowej wiadomości (Komponowanie) do wysłania.</p>
 
@@ -179,7 +179,7 @@
     <td><img src="chrome://messenger/skin/smime/icons/hdrSignOk.gif" alt="ikona podpisu cyfrowego"/></td><td>Wiadomość jest podpisana cyfrowo i&nbsp;została poprawnie zweryfikowana. Jeżeli wystąpił problem z&nbsp;weryfikacją podpisu, to pióro na ikonie jest uszkodzone.</td>
   </tr>
   <tr>
-    <td><img src="chrome://messenger/skin/smime/icons/hdrSignUnknown.gif" alt="ikona nieznanego podpisu"/></td><td>Wiadomość jest podpisana cyfrowo, ale dołączony jest do niej duży załącznik, który nie zostal jeszcze wczytany z&nbsp;serwera IMAP. Z&nbsp;tego powodu podpis nie został zweryfikowany. Po kliknięciu w&nbsp;ikonę załącznik zostanie wczytany i&nbsp;nastąpi weryfikacja podpisu cyfrowego.</td>
+    <td><img src="chrome://messenger/skin/smime/icons/hdrSignUnknown.gif" alt="ikona nieznanego podpisu"/></td><td>Wiadomość jest podpisana cyfrowo, ale dołączony jest do niej duży załącznik, który nie został jeszcze wczytany z&nbsp;serwera IMAP. Z&nbsp;tego powodu podpis nie został zweryfikowany. Po kliknięciu w&nbsp;ikonę załącznik zostanie wczytany i&nbsp;nastąpi weryfikacja podpisu cyfrowego.</td>
   </tr>
   <tr>
     <td><img src="chrome://messenger/skin/smime/icons/hdrCryptoOk.gif" alt="ikona szyfrowania"/></td><td>Wiadomość jest zaszyfrowana. Jeżeli wystąpił problem z&nbsp;szyfrowaniem, to klucz na ikonie jest uszkodzony.</td>
@@ -210,7 +210,7 @@
     <ul>
       <li><strong>Tak</strong>: Szyfrowanie zostało włączone dla tej wiadomości, ważne certyfikaty dla wszystkich adresatów są dostępne i&nbsp;wiadomość może zostać zaszyfrowana.</li>
       <li><strong>Nie</strong>: Szyfrowanie zostało wyłączone dla tej wiadomości.</li>
-      <li><strong>Nie jest to możliwe</strong>: Szyfrowanie zostało włączone dla tej wiadomości. Jednak ważny certyfikat dla conajmniej jednego adresata nie jest dostępny, adresaci nie zostali określeni lub występuje inny problem uniemożliwiający zaszyfrowanie wiadomości.</li>
+      <li><strong>Nie jest to możliwe</strong>: Szyfrowanie zostało włączone dla tej wiadomości. Jednak ważny certyfikat dla co najmniej jednego adresata nie jest dostępny, adresaci nie zostali określeni lub występuje inny problem uniemożliwiający zaszyfrowanie wiadomości.</li>
     </ul>
   </li>
 </ul>
