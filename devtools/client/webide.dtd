@@ -10,13 +10,13 @@
 
 
 
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
 
 
 
 
 
-
-
+<!ENTITY projectMenu_stop_accesskey "S">
 
 
 <!ENTITY projectMenu_remove_label "प्रोजेक्ट हटाउनुहोस्">
@@ -64,6 +64,7 @@
 <!ENTITY key_toggleToolbox "VK_F12 ">
 <!-- toggle sidebar -->
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
 
 
 
@@ -72,7 +73,7 @@
 
 
 <!ENTITY projectPanel_tabs "ट्याबहरू">
-
+<!ENTITY runtimePanel_usb "यूएसबी यन्त्रहरु">
 
 
 <!ENTITY runtimePanel_other "अन्य">
@@ -114,13 +115,13 @@
 
 
 
+<!ENTITY prefs_options_showeditor "सम्पादक देखाउनुहोस्">
+<!ENTITY prefs_options_showeditor_tooltip "आन्तरीक सम्पादक देखाउनुहोस्">
+<!ENTITY prefs_options_tabsize "ट्याब आकार">
 
 
 
-
-
-
-
+<!ENTITY prefs_options_detectindentation_tooltip "स्रोत सामग्रीको आधारमा इन्डेन्टेसनको अनुमान गर्नुहोस्">
 
 
 
@@ -153,6 +154,8 @@
 <!ENTITY devicepreference_newtext "प्राथमिकता मान">
 <!ENTITY devicepreference_addnew "नयाँ प्राथमिकताहरु थप्नुहोस्">
 <!-- Device Settings -->
+
+<!ENTITY devicesetting_title "यन्त्र सेटिङहरु">
 <!ENTITY devicesetting_search "खोज सेटिङ्हरू">
 
 
@@ -184,7 +187,7 @@
 
 <!ENTITY simulator_device "यन्त्र">
 
-
+<!ENTITY simulator_pixelRatio "पिक्सेल अनुपात">
 
 
 
