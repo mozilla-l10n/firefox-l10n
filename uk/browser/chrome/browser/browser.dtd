@@ -52,21 +52,21 @@ can reach it easily. -->
 <!ENTITY  listAllTabs.label      "Список усіх вкладок">
 
 <!ENTITY tabCmd.label "Нова вкладка">
-<!ENTITY tabCmd.accesskey "Н">
+<!ENTITY tabCmd.accesskey "л">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Відкрити розташування…">
 <!ENTITY openFileCmd.label "Відкрити файл…">
-<!ENTITY openFileCmd.accesskey "ф">
+<!ENTITY openFileCmd.accesskey "а">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Параметри сторінки…">
-<!ENTITY printSetupCmd.accesskey "с">
+<!ENTITY printSetupCmd.accesskey "П">
 <!ENTITY printPreviewCmd.label "Попередній перегляд">
-<!ENTITY printPreviewCmd.accesskey "р">
+<!ENTITY printPreviewCmd.accesskey "г">
 <!ENTITY printCmd.label "Друкувати…">
-<!ENTITY printCmd.accesskey "у">
+<!ENTITY printCmd.accesskey "к">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Працювати автономно">
@@ -339,9 +339,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY userContextShopping.accesskey    "П">
 <!ENTITY newNavigatorCmd.label        "Нове вікно">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "Н">
+<!ENTITY newNavigatorCmd.accesskey      "в">
 <!ENTITY newPrivateWindow.label     "Приватне вікно">
-<!ENTITY newPrivateWindow.accesskey "в">
+<!ENTITY newPrivateWindow.accesskey "т">
 <!ENTITY newNonRemoteWindow.label   "Нове однопроцесове вікно">
 
 <!ENTITY editMenu.label         "Редагувати"> 
@@ -567,7 +567,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Переслати посилання…">
 <!ENTITY emailPageCmd.accesskey       "с">
 <!ENTITY savePageCmd.label            "Зберегти як…">
-<!ENTITY savePageCmd.accesskey        "я">
+<!ENTITY savePageCmd.accesskey        "З">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "б">
 <!ENTITY savePageCmd.commandkey       "s">
