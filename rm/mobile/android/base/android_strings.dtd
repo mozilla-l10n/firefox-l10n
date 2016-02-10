@@ -269,7 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Per activar la funcziun &quot;Avrir pliras colliaziuns&quot; stos ti permetter a &brandShortName; da surmalegiar autras apps">
+<!ENTITY tab_queue_notification_settings "Per activar la funcziun \&quot;Avrir pliras colliaziuns\&quot; stos ti permetter a &brandShortName; da surmalegiar autras apps">
 
 <!ENTITY pref_char_encoding "Codaziun da caracters">
 <!ENTITY pref_char_encoding_on "Mussar il menu">
