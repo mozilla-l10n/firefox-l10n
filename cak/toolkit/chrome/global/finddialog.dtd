@@ -5,12 +5,12 @@
 
 
 <!ENTITY findDialog.title "Tikanöx pa re ruxaq k'amaya'l re'">
-
-
+<!ENTITY findField.label "Tikanöx rucholajem tzij:">
+<!ENTITY findField.accesskey "T">
 <!ENTITY caseSensitiveCheckbox.label "Nuk'äm ri' kik'in nimatz'ib'">
 <!ENTITY caseSensitiveCheckbox.accesskey "t">
-
-
+<!ENTITY wrapCheckbox.label "Tiya q'ij chi nunojisaj k'ïy taq cholaj">
+<!ENTITY wrapCheckbox.accesskey "T">
 <!ENTITY findButton.label "Tikanöx jun chik">
 <!ENTITY findButton.accesskey "T">
 <!ENTITY cancelButton.label "Q'atïk">

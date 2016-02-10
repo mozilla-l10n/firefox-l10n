@@ -21,7 +21,7 @@
 <!ENTITY spellUndoAddToDictionary.accesskey "t">
 <!ENTITY spellCheckToggle.label "Tinik'öx rutz'ib'axik">
 <!ENTITY spellCheckToggle.accesskey "t">
-
+<!ENTITY spellNoSuggestions.label "(Majun taq kichilab'exik tz'ib'anïk)">
 <!ENTITY spellDictionaries.label "Taq ch'ab'äl">
 <!ENTITY spellDictionaries.accesskey "T">
 
@@ -33,5 +33,5 @@
 <!ENTITY fillPasswordMenu.accesskey   "T">
 <!ENTITY fillUsernameMenu.label       "Tinojisäx rub'i' winäq">
 <!ENTITY fillUsernameMenu.accesskey   "T">
-
+<!ENTITY noLoginSuggestions.label     "(Majun taq kichilab'exik rutikirib'al molojri'ïl)">
 <!ENTITY viewSavedLogins.label        "Ketz'et ri yakon &amp;kitikirib'al molojri'ïl">
