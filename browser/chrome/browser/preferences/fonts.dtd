@@ -32,8 +32,8 @@
 <!ENTITY  font.langGroup.cyrillic                 "सिरिलिक">
 <!ENTITY  font.langGroup.el                       "ग्रिक">
 <!ENTITY  font.langGroup.other                    "अन्य लेखन प्रणालीहरू">
-
-
+<!ENTITY  font.langGroup.thai                     "थाइ">
+<!ENTITY  font.langGroup.hebrew                   "हिब्रु">
 <!ENTITY  font.langGroup.arabic                   "अरबी">
 <!ENTITY  font.langGroup.devanagari               "देवनागरी ">
 <!ENTITY  font.langGroup.tamil                    "तामिल">
@@ -82,11 +82,13 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "चिनीयाँ, परम्परागत">
-
+<!ENTITY languages.customize.Fallback.cyrillic    "सिरिल्लिक">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "ग्रीक">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "हिब्रु">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.japanese    "जापानी">
@@ -98,6 +100,7 @@
 <!ENTITY languages.customize.Fallback.thai        "थाइ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "टर्कीस">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "भियतनामिज">

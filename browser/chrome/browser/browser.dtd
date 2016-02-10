@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "यो साइटलाई तपाईँ क्यामेरा र/अथवा माइक्रोफोन प्रयोग गर्ने अनुमति दिँदै हुनुहुन्छ ">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "यो साइटले माइक्रोफोन कसरी प्रयोग गर्छ भन्ने ब्यस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "यो साइटले तपाईँको माइक्रोफोन प्रयोग गर्दै छ">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "आफ्नो साइटमा विन्डोज वा स्क्रीन साझेदारीको प्रबन्ध मिलाउनुहोस् ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "आफ्नो साइटमा सञ्झ्याल वा स्क्रिन साझेदारीको प्रबन्ध मिलाउनुहोस् ">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "यो साइटलाई तपाईँ क्यामेरा र/अथवा माइक्रोफोन प्रयोग गर्न दिँदै हुनुहुन्छ ">
 
 <!ENTITY urlbar.pointerLockNotificationAnchor.label     "यस साइटले पोइन्टर लुकाउन सक्छ कि परिवर्तन गर्नुहोस्">
@@ -342,7 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "नयाँ निजी सञ्झ्याल">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "नयाँ Non-e10s विन्डो">
+<!ENTITY newNonRemoteWindow.label   "नयाँ Non-e10s सञ्झ्याल">
 
 <!ENTITY editMenu.label         "परिमार्जित गर्नुहोस्"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -810,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "डेस्कटपका सूचनाहरू देखाउनुहोस्">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> बाट सेवाहरू सक्षम गरिएका छन्। तपाईँले <label class='text-link'> एड-अन प्रबन्धक </label> मा सेवाहरूका लागि आफ्ना सेटिङ्गहरू बदल्न सक्नुहुन्छ।">
+<!ENTITY social.activated.description "<label/> बाट सेवाहरू सक्षम गरिएका छन्। तपाईँले <label class='text-link'> एड-अन प्रबन्धक </label> मा सेवाहरूका लागि आफ्ना सेटिङ बदल्न सक्नुहुन्छ।">
 <!ENTITY social.activated.undo.label "ला , यसलाई पहिलेकै स्थितिमा लानुहोस्!">
 <!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "अझ जान्नुहोस्">
@@ -852,7 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "माइक्रोफोनलाई बाँड्ने:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "ट्याबको अडियो पहुँचयोग्य हुनेछ।">
-<!ENTITY getUserMedia.allWindowsShared.message "तपाईँको स्क्रीन मा सबै देखिने सञ्झ्यालहरू साझेदारी गरिनेछ।">
+<!ENTITY getUserMedia.allWindowsShared.message "तपाईँको स्क्रिन मा सबै देखिने सञ्झ्यालहरू साझेदारी गरिनेछ।">
 
 <!ENTITY trackingProtection.title "ट्रयाक विरुद्धको सुरक्षा ">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ले यो पेजको भागहरू रोकिरहेको छ जसले तपाईँको ब्राउजिङ गतिविधि ट्रयाक गर्न सक्छ।">
@@ -917,8 +917,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "अगाडि जानाले:">
 <!ENTITY panicButton.view.deleteCookies           "हालको <html:strong>कुकिज</html:strong> मेटाउनुहोस्">
 <!ENTITY panicButton.view.deleteHistory           "हालको <html:strong>इतिहास</html:strong> मेट्नुहोस्">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "सबै <html:strong>ट्याबहरू</html:strong> र <html:strong>विन्डोहरू</html:strong> बन्द गर्नुहोस">
-<!ENTITY panicButton.view.openNewWindow           "नयाँ सफा विन्डो खोल्नुहोस्">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "सबै <html:strong>ट्याबहरू</html:strong> र <html:strong>सञ्झ्याल</html:strong> बन्द गर्नुहोस">
+<!ENTITY panicButton.view.openNewWindow           "नयाँ सफा सञ्झ्याल खोल्नुहोस्">
 
 <!ENTITY panicButton.view.undoWarning             "यो क्रियाकलाप नहुन सक्दैन।">
 <!ENTITY panicButton.view.forgetButton            "बिर्सिनु!">

@@ -11,6 +11,7 @@
   The label associated with this accesskey can be found in 
   preferences.properties as removeSelectedCookies.
 -->
+<!ENTITY     button.removeSelectedCookies.accesskey "आर">
 <!ENTITY     button.removeAllCookies.label "सबै हटाउनुहोस्">
 <!ENTITY     button.removeAllCookies.accesskey "A">
 
