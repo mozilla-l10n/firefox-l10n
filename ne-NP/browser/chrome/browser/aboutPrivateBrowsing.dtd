@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "तपाईँ अहिले निजी विन्डोमा हुनुहुन्न ।">
+<!ENTITY aboutPrivateBrowsing.notPrivate       "तपाईँ अहिले निजी सञ्झ्याल हुनुहुन्न ।">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "निजि संझ्याल खोल्नुहोस्">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
@@ -48,7 +48,7 @@
 <!ENTITY trackingProtection.state.enabled      "चालु">
 <!ENTITY trackingProtection.state.disabled     "बन्द">
 
-<!ENTITY trackingProtection.description1       "अब निजी विन्डोहरूले वेब पेजहरूको ब्राउजिङ् क्रियाकलाप ट्र्याक गर्न सक्ने भागहरू पनि रोक्न सक्छ।">
+<!ENTITY trackingProtection.description1       "अब निजी सञ्झ्यालहरूले वेब पेजहरूको ब्राउजिङ् क्रियाकलाप ट्र्याक गर्न सक्ने भागहरू पनि रोक्न सक्छ।">
 
 <!ENTITY trackingProtection.disable            "अनुगमन सुरक्षा बन्द गरिँदै">
 <!ENTITY trackingProtection.enable             "ट्र्याकिङ सुरक्षा खोलिदैँ">

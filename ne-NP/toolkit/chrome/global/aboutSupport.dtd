@@ -84,7 +84,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.a11yTitle "पहुँचता">
 
-<!ENTITY aboutSupport.a11yForceDisabled "पहुँचता सुरक्षित पार्नुहोस्">
+<!ENTITY aboutSupport.a11yForceDisabled "पहुँच सेटिङ रोक्नुहोस">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "लाईब्रेरी संस्करणहरू">
 

@@ -13,8 +13,8 @@
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "वेबसाइटको ठेगाना:">
 <!ENTITY address.accesskey            "d">
-
-
+<!ENTITY block.label                  "छेक्नुहोस्">
+<!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "सत्रका लागि अनुमति दिनुहोस्">
 <!ENTITY session.accesskey            "S">
 <!ENTITY allow.label                  "अनुमति दिनुहोस्">
@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "रद्ध गर्नुहोस्">
 <!ENTITY button.cancel.accesskey      "C">
-
-
+<!ENTITY button.ok.label              "परिवर्तनहरू सङ्ग्रह गर्नुहोस्">
+<!ENTITY button.ok.accesskey          "S">
 

@@ -50,7 +50,7 @@
 <!ENTITY connection.label                "जडान">
 
 <!ENTITY connectionDesc.label            "&brandShortName; कसरी इन्टरनेटसँग जोडिएको छ कन्फिगर गर्नुहोस्">
-<!ENTITY connectionSettings.label        "सेटिङ्गहरू…">
+<!ENTITY connectionSettings.label        "सेटिङ्हरू…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "वेबबाट लिएका सामग्रीहरू">

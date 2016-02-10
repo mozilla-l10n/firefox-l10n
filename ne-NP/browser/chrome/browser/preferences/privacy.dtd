@@ -14,7 +14,7 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "ट्रयाक गरिँदै">
-<!ENTITY trackingProtectionPBM5.label         "निजी विन्डोहरूमा ट्रयाकिङ् सुरक्षाको प्रयोग गर्नुहोस्">
+<!ENTITY trackingProtectionPBM5.label         "निजी सञ्झ्यालहरूमा ट्रयाकिङ् सुरक्षाको प्रयोग गर्नुहोस्">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "अझ जान्नुहोस् ">
 <!ENTITY changeBlockList.label          "ब्लक सूची परिवर्तन गर्नुहोस्">

@@ -8,7 +8,7 @@
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "मेरो गृह पृष्ठ देखाउनुहोस्">
 <!ENTITY startupBlankPage.label    "खाली पृष्ठ देखाउनुहोस्">
-<!ENTITY startupLastSession.label  "पछिल्लो समयबाट मेरो विन्डोजहरू र ट्याबहरू देखाउनुहोस्">
+<!ENTITY startupLastSession.label  "पछिल्लो समयबाट मेरो सञ्झ्याल र ट्याबहरू देखाउनुहोस्">
 
 <!ENTITY homepage.label            "गृह पृष्ठः">
 <!ENTITY homepage.accesskey        "P">

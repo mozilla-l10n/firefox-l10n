@@ -51,6 +51,8 @@
 <!ENTITY rights.safebrowsing-term4 "सुरक्षित ब्राउजिङ अहिले निष्कृय छ">
 <!-- location aware browsing points for branded builds -->
 
+<!ENTITY rights.locationawarebrowsing-a "स्थान सचेत ब्राउजिङ: ">
+
 
 <!ENTITY rights.locationawarebrowsing-term1b "कनफिग:को बारेमा">
 <!ENTITY rights.locationawarebrowsing-term2 "geo.enabled टाइप गर्नुहोस्">

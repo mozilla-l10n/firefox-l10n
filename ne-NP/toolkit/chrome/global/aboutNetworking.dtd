@@ -11,7 +11,7 @@
 
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 
-
+<!ENTITY aboutNetworking.autoRefresh           "हरेक ३ सेकेन्डमा आँफै ताजा पार्नुहोस् ।">
 
 <!ENTITY aboutNetworking.port                  "पोर्ट">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
