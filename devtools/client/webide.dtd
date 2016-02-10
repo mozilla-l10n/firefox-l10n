@@ -154,7 +154,6 @@
 <!ENTITY runtimedetails_requestPrivileges "solicitar requisitos elevados">
 <!ENTITY runtimedetails_privilegesWarning "(Reiniciará el dispositivo. Requiere acceso de root.)">
 
-
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Lógico">
 <!ENTITY device_typenumber "Entero">
@@ -186,6 +185,7 @@
 <!ENTITY wifi_auth_no_scanner "¿No hay solicitud de escaneo de QR?">
 <!ENTITY wifi_auth_yes_scanner "¿Tiene una solicitud de escaneo de QR?">
 <!ENTITY wifi_auth_token_request "Si su dispositivo pide un token en lugar de escanear un código QR, por favor copie el valor a continuación en el otro dispositivo:">
+<!ENTITY wifi_auth_qr_size_note "Si el código QR es muy pequeño como para que la conexión se establezca exitosamente, intente hacer un acercamiento o agrandar la ventana.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Registros de comando pre-paquete">

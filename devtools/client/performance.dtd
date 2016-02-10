@@ -70,7 +70,6 @@
 <!ENTITY performanceUI.enableFramerate.tooltiptext "Grabar tasa de cuadros al perfilar.">
 <!ENTITY performanceUI.enableJITOptimizations             "Grabar JIT Optimizations">
 <!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Grabar datos de optimización JIT muestreados en cada cuadro JavaScript.">
-<!ENTITY performanceUI.JITOptimizationsTitle "Optimizaciones JIT">
 <!ENTITY performanceUI.console.recordingNoticeStart "Actualmente grabando a través de">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 <!ENTITY performanceUI.console.stopCommandStart "Detenga la grabación ingresando">
