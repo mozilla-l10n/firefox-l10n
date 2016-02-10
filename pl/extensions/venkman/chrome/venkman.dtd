@@ -12,7 +12,7 @@
 <!ENTITY ViewClose.tooltip "Naciśnij tutaj, aby zamknąć bieżący widok">
 
 <!-- help menu -->
-<!ENTITY Help.commands "Opis komend">
+<!ENTITY Help.commands "Opis poleceń">
 <!ENTITY Help.about "O debugerze Venkman">
 
 <!-- toolips -->
