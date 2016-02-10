@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Tswana
+#define MOZ_LANG_TITLE Sekgoa (US)
