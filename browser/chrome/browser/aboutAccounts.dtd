@@ -7,8 +7,8 @@
 
 <!ENTITY aboutAccountsConfig.description "आफ्नो ट्याबहरू, पुस्तकचिनो, पासवर्ड र थप सिङ्क गर्न साइन इन गर्नुहोस्।">
 <!ENTITY aboutAccountsConfig.startButton.label "सुरु गर्नुहोस्">
-<!ENTITY aboutAccountsConfig.useOldSync.label "के तपाईँ समक्रमणको पुरानो संस्करण प्रयोग गर्दै हुनुहुन्छ ?">
+<!ENTITY aboutAccountsConfig.useOldSync.label "के तपाईँ समक्रमणको पुरानो संस्करण प्रयोग गर्दै हुनुहुन्छ?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "प्राथमिकताहरू सिङ्क गर्नुहोस्">
-<!ENTITY aboutAccounts.noConnection.title "जडान हुन सकेन">
+<!ENTITY aboutAccounts.noConnection.title "जडान छैन">
 <!ENTITY aboutAccounts.noConnection.description "साईन-ईन गर्नको निमित्त तपाई इन्टरनेटसंग जडित हुनुपर्दछ ।">
 <!ENTITY aboutAccounts.noConnection.retry "पुनःप्रयास गर्नुहोस्">
