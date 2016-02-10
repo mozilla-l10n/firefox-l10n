@@ -27,6 +27,3 @@ conozca que hay una buena razón para que este sitio no use una identificación 
 <!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
 
 <!ENTITY errorReporting.automatic "Reporte errores como éste para ayudar a Mozilla a identificar sitios mal configurados">
-<!ENTITY errorReporting.sending "Enviando reporte">
-<!ENTITY errorReporting.sent "Reporte enviado">
-<!ENTITY errorReporting.tryAgain "Volver a intentarlo">
