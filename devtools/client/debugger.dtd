@@ -62,6 +62,8 @@
 <!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
+
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "समातिएका अपवादहरु उपेक्षा गर्नुहोस्">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
