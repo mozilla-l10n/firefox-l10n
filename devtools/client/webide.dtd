@@ -27,6 +27,7 @@
 
 
 
+<!ENTITY runtimeMenu_label "रनटाइम">
 
 <!ENTITY runtimeMenu_disconnect_label "विच्छेद">
 
@@ -39,7 +40,7 @@
 
 
 <!ENTITY runtimeMenu_showDevicePrefs_label "उपकरण प्राथमिकताहरू">
-
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 
 
@@ -150,13 +151,15 @@
 
 
 <!ENTITY devicepreference_newtext "प्राथमिकता मान">
-
+<!ENTITY devicepreference_addnew "नयाँ प्राथमिकताहरु थप्नुहोस्">
 <!-- Device Settings -->
 <!ENTITY devicesetting_search "खोज सेटिङ्हरू">
 
 
 
 <!-- Monitor -->
+
+<!ENTITY monitor_title "मोनिटर">
 <!ENTITY monitor_help "मद्दत">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog

@@ -62,7 +62,8 @@
      - add new attribute
      - edit attribute
      - remove attribute -->
-
+<!ENTITY inspectorAttributeSubmenu.label      "विशेषता">
+<!ENTITY inspectorAttributeSubmenu.accesskey  "A">
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
