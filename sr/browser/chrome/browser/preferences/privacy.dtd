@@ -65,7 +65,7 @@
 <!ENTITY  showCookies.accesskey         "л">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "">
+<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "ће бележити историјат">
 <!ENTITY  historyHeader.dontremember.label "никада неће бележити историјат">
 <!ENTITY  historyHeader.custom.label       "ће користити посебна подешавања за историјат">
