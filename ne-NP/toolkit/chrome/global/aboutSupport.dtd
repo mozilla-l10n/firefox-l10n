@@ -52,6 +52,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति प्रयोग">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "दर्ता भएका Service Workers">
+
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "बहुप्रक्रिया सञ्झ्यालहरू">
 
