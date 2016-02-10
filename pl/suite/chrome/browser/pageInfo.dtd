@@ -39,7 +39,7 @@
 
 <!ENTITY formsTab "Formularze">
 <!ENTITY formsTab.accesskey "F">
-<!ENTITY formAction "Akcja formularza">
+<!ENTITY formAction "Czynność formularza">
 <!ENTITY formMethod "Metoda">
 <!ENTITY formName "Nazwa">
 <!ENTITY formEncoding "Kodowanie:">

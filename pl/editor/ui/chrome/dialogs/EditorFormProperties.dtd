@@ -7,8 +7,8 @@
 <!ENTITY Settings.label        "Ustawienia">
 <!ENTITY FormName.label        "Nazwa formularza:">
 <!ENTITY FormName.accesskey    "N">
-<!ENTITY FormAction.label      "Akcja (URL):">
-<!ENTITY FormAction.accesskey  "c">
+<!ENTITY FormAction.label      "Czynność (URL):">
+<!ENTITY FormAction.accesskey  "C">
 <!ENTITY FormMethod.label      "Metoda:">
 <!ENTITY FormMethod.accesskey  "M">
 <!ENTITY FormEncType.label     "Kodowanie:">
