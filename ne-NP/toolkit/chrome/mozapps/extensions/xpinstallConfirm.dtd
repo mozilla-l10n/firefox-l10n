@@ -6,7 +6,7 @@
 
 <!ENTITY dialog.title            "सफ्टवेयर स्थापना">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "केवल तपाईंलाई भरोसा भएका लेखकहरुका एड-अनहरू मात्र स्थापना गर्नुहोस्।">
+<!ENTITY warningPrimary.label    "केवल तपाईंलाई भरोसा भएका लेखकहरूका एड-अनहरू मात्र स्थापना गर्नुहोस्।">
 <!ENTITY warningSecondary.label  "खराब सफ्टवेयरले तपाईचको कम्प्युटरमा बिगार्न वा तपाईँको गोपनीयता उल्लङ्घन गर्न सक्छन्।">
 
 <!ENTITY from.label "बाट:">

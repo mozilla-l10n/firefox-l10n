@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "कोरियाली">
 <!ENTITY  font.langGroup.cyrillic                 "सिरिलिक">
 <!ENTITY  font.langGroup.el                       "ग्रिक">
-<!ENTITY  font.langGroup.other                    "अन्य लेखन प्रणालीहरु">
+<!ENTITY  font.langGroup.other                    "अन्य लेखन प्रणालीहरू">
 
 
 <!ENTITY  font.langGroup.arabic                   "अरबी">
@@ -64,6 +64,7 @@
 <!ENTITY  allowPagesToUse.label                   "मेरा माथिका छनोटको ठाउँमा पेजको आफ्नै अक्षरहरू छान्न दिनुहोस् ">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
+<!ENTITY languages.customize.Fallback2.grouplabel "पुरानो सामग्रीको लागि वर्ण एन्कोडिंग">
 
 
 

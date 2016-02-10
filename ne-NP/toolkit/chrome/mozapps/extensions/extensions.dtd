@@ -25,12 +25,12 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "केही एक्सटेन्सनहरू प्रमाणिकरण गर्न सकिएन">
 <!ENTITY showAllExtensions.button.label       "सबै एक्सटेन्सनहरू देखाउनुहोस्">
-<!ENTITY debugAddons.label                    "एड-अनहरु डिबग गर्नुहोस्">
+<!ENTITY debugAddons.label                    "एड-अनहरू डिबग गर्नुहोस्">
 <!ENTITY debugAddons.accesskey                "b">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "सबै एड-अनहरू सुरक्षित मोडद्वारा असक्षम गरिएको छ।">
-<!ENTITY warning.checkcompatibility.label          "एड-अन अनुकूलता जाँच अक्षम पारिएको छ। तपाईं संग अमिल्दो एड-अनहरु हुन सक्छन्।">
+<!ENTITY warning.checkcompatibility.label          "एड-अन अनुकूलता जाँच अक्षम पारिएको छ। तपाईँसँग अमिल्दो एड-अनहरू हुन सक्छन्।">
 <!ENTITY warning.checkcompatibility.enable.label   "सक्षम पार्नुहोस्">
 <!ENTITY warning.checkcompatibility.enable.tooltip "एड-अन समर्थन जाँच सक्षम पार्नुहोस्">
 <!ENTITY warning.updatesecurity.label              "एड-अनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईं अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "एड-अनहरू के हो ?">
 <!ENTITY discover.description2                "एड-अनहरू तपाईंलाई अतिरिक्त कार्यक्षमता वा शैलीमा &brandShortName; 
- लाई व्यक्तिगत बनागने अनुप्रयोगहरू हुन्।  &brandShortName; लाई 
+ लाई व्यक्तिगत बनाउने अनुप्रयोगहरू हुन्।  &brandShortName; लाई 
  आफ्नै बनाउन समय-बचत ट्याब, मौसम नोटिफायर, वा आवरण हाल्न प्रयास गर्नुहोस्।">
 <!ENTITY discover.footer                      "तपाईं इन्टरनेटमा जोडिएको बेला, यस पेनले 
  तपाईंलाई प्रयास गर्नको लागि सर्वोत्तम र सबैभन्दा लोकप्रिय एड-अनहरू प्रदर्शन गर्नेछ।">
@@ -180,10 +180,10 @@
 <!ENTITY sort.price.tooltip                   "मूल्य अनुसार क्रमबद्ध गर्नुहोस्">
 
 <!ENTITY search.filter2.label                 "खोजी गर्नुहोस्:">
-<!ENTITY search.filter2.installed.label       "मेरो एड-अनहरु">
+<!ENTITY search.filter2.installed.label       "मेरो एड-अनहरू">
 <!ENTITY search.filter2.installed.tooltip     "स्थापना भइसकेका एड-अनहरू सूचीकृत गर्नुहोस्">
 <!ENTITY search.filter2.available.label       "उपलब्ध एड-अनहरू">
-<!ENTITY search.filter2.available.tooltip     "स्थापना गर्न उपलब्ध एड-अनहरु देखाउनुहोस्">
+<!ENTITY search.filter2.available.tooltip     "स्थापना गर्न उपलब्ध एड-अनहरू देखाउनुहोस्">
 
 <!ENTITY addon.homepage                       "गृहपृष्ठ">
 <!ENTITY addon.details.label                  "थप">

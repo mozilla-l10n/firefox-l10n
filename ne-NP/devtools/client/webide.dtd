@@ -74,10 +74,10 @@
 <!-- reload WebIDE and devtools from local checkout -->
 <!-- this binding is with accel+alt, whereas all others are just accel -->
 
-<!ENTITY projectPanel_myProjects "मेरो परियोजनाहरु">
+<!ENTITY projectPanel_myProjects "मेरो परियोजनाहरू">
 
 <!ENTITY projectPanel_tabs "ट्याबहरू">
-<!ENTITY runtimePanel_usb "यूएसबी यन्त्रहरु">
+<!ENTITY runtimePanel_usb "युएसबी यन्त्रहरू">
 
 
 <!ENTITY runtimePanel_other "अन्य">
@@ -156,10 +156,10 @@
 
 
 <!ENTITY devicepreference_newtext "प्राथमिकता मान">
-<!ENTITY devicepreference_addnew "नयाँ प्राथमिकताहरु थप्नुहोस्">
+<!ENTITY devicepreference_addnew "नयाँ प्राथमिकताहरू थप्नुहोस्">
 <!-- Device Settings -->
 
-<!ENTITY devicesetting_title "यन्त्र सेटिङहरु">
+<!ENTITY devicesetting_title "यन्त्र सेटिङहरू">
 <!ENTITY devicesetting_search "खोज सेटिङ्हरू">
 
 

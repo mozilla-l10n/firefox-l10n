@@ -4,7 +4,7 @@
 <!ENTITY  updateWizard.title              "सफ्टवेयर अपडेट">
 
 <!ENTITY  checking.title                  "अद्यावधिकहरू जाँच गर्दै…">
-
+<!ENTITY  updateCheck.label               "&brandShortName;को नयाँ संस्करण खोज्दै…">
 
 <!ENTITY  pluginupdatesfound.title        "प्लगिनको लागि अपडेटहरू भेटियो">
 
@@ -41,6 +41,7 @@
 
 <!ENTITY  incompatibleList.title          "असमर्थित एड-अन भेटियो">
 
+<!ENTITY  downloadPage.title              " &brandShortName; डाउनलोड गरिदै">
 <!ENTITY  downloading.intro               "अद्यावधि डाउनलोड गर्दै…">
 <!ENTITY  connecting.label                "सर्भरसँग जडान गर्दै…">
 
@@ -57,6 +58,7 @@
 
 
 
+<!ENTITY  finishedPage.title              "अद्यावधिक स्थापना गर्न तयार">
 
 
 <!ENTITY  finishedBackground.name         "अद्यावधिकः">

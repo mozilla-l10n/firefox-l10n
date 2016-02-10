@@ -37,7 +37,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ट्याबहरू खोल्नुहोस्">
 <!ENTITY  locbar.openpage.accesskey     "O">
-<!ENTITY  locbar.searches.label         "पूर्वनिर्धारित खोजी इन्जिनद्वारा भेटिएका सम्बन्धित खोजहरु">
+<!ENTITY  locbar.searches.label         "पूर्वनिर्धारित खोजी इन्जिनद्वारा भेटिएका सम्बन्धित खोजहरू">
 <!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  suggestionSettings.label      "खोज इन्जिन सुझावहरूका लागि प्राथमिकताहरू परिवर्तन गर्नुहोस्…">

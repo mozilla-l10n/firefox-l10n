@@ -195,7 +195,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.label          "एड-अन स्थापना सन्देश हेर्नुहोस्">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "अनुप्रयोग अफलाइन भन्डारण सन्देशहरू हेर्नुहोस्">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "तपाईको लग-इन जानकारीको व्यवस्थापन गर्नुहोस्">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "तपाईँ आफ्नो पासवर्ड संग्रह गर्न चाहनुहुन्छ भने ठिक लगाउनुहोस् ">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "तपाईँ आफ्नो पासवर्ड सङ्ग्रह गर्न चाहनुहुन्छ भने ठिक लगाउनुहोस् ">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "अनुप्रयोग स्थापना सन्देश हेर्नुहोस्">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "यो पृष्ठमा प्लगइन प्रयोगहरू व्यवस्थापन गर्नुहोस् ">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "तपाईं साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "सहयोग मेनु खोल्नुहोस्">
 
 <!ENTITY appMenuRemoteTabs.label "समन्वयन गरिएको ट्याबहरू">
-<!ENTITY appMenuRemoteTabs.fetching.label "समन्वय गरिएको ट्याबहरु ल्याइँदै…">
+<!ENTITY appMenuRemoteTabs.fetching.label "समन्वय गरिएको ट्याबहरू ल्याइँदै…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "खुला ट्याबहरू छैन">
@@ -418,7 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.label "यहाँ आफ्नो ट्याबहरू हेर्न तपाईचको अन्य उपकरणहरूबाट Firefox मा साइन इन गर्नुहोस्।">
-<!ENTITY appMenuRemoteTabs.openprefs.label "सिङ्क प्राथमिकताहरु">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Sync प्राथमिकताहरू">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न साइन इन गर्नुहोस्।">
 <!ENTITY appMenuRemoteTabs.signin.label "सिङ्क गर्न साइन इन गर्नुहोस्">
 

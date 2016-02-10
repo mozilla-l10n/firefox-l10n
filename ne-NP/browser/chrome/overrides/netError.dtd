@@ -165,7 +165,7 @@ functionality specific to firefox. -->
  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button> ">
 
-<!ENTITY errorReporting.automatic2 "यो जस्तै त्रुटिहरूको सुचना दिएर Mozilla लाई खराब साइटहरु चिन्न र ब्लक गर्न मदत गर्नुहोस्">
+<!ENTITY errorReporting.automatic2 "यो जस्तै त्रुटिहरूको सुचना दिएर Mozilla लाई खराब साइटहरू चिन्न र ब्लक गर्न मदत गर्नुहोस्">
 <!ENTITY errorReporting.learnMore "अझ जान्नुहोस्…">
 <!ENTITY errorReporting.sending "रिपोर्ट पठाउनुहोस्">
 <!ENTITY errorReporting.sent "प्रतिवेदन पठाइयो">

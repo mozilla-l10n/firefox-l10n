@@ -44,7 +44,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 
-<!ENTITY debuggerUI.sources.toggleBreakpoints "सबै विच्छेदन बिन्दुहरु सक्षम/अक्षम पार्नुहोस्">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "सबै विच्छेदन बिन्दुहरू सक्षम/अक्षम पार्नुहोस्">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
@@ -63,7 +63,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
-<!ENTITY debuggerUI.ignoreCaughtExceptions           "समातिएका अपवादहरु उपेक्षा गर्नुहोस्">
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "समातिएका अपवादहरू उपेक्षा गर्नुहोस्">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
