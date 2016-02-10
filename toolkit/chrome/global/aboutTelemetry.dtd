@@ -40,6 +40,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  ढिलो लेखन">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "सत्र जानकारी">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  एड-अनहरूद्वारा हिस्टोग्रामहरू संकलन गरियो">
 
