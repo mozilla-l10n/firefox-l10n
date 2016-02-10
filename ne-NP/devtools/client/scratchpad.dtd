@@ -68,7 +68,7 @@
 
 <!ENTITY normalSize.label             "साधारण आकार">
 <!ENTITY normalSize.accesskey         "N">
-
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "सम्पादन">
 <!ENTITY editMenu.accesskey           "E">

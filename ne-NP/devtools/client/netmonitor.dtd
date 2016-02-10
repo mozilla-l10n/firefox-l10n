@@ -259,6 +259,8 @@
   -  on the context menu that saves all as HAR format -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
   -  for the Save All As HAR menu item displayed in the context menu for a network panel -->
+
+<!ENTITY netmonitorUI.context.saveAllAsHar.accesskey "H">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
@@ -266,6 +268,8 @@
 <!ENTITY netmonitorUI.summary.editAndResend "सम्पादन गर्नुहोस् अनि फेरि पठाउनुहोस्">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.summary.editAndResend.accesskey "E">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders): This is the label displayed
   -  on the button in the headers tab that toggle view for raw request/response headers
      from the currently displayed request -->
@@ -285,6 +289,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->
+
+<!ENTITY netmonitorUI.context.newTab.accesskey "T">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key

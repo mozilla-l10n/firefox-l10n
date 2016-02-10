@@ -16,7 +16,8 @@
 
 <!ENTITY  manualUpdate.title              "अद्यावधिक गर्न सकिएन">
 
-
+<!ENTITY  manualUpdate.space.desc         "एउटा सिफारिस गरिएको सुरक्षा र स्थिरता अद्यावधिक उपलब्ध छ, तर तपाइँसँग 
+ यो स्थापना गर्न पर्याप्त ठाउँ छैन।">
 
 
 <!ENTITY  unsupported.title               "सिस्टम असमर्थित">
@@ -24,14 +25,15 @@
 <!ENTITY  unsupportedLink.label           "थप जान्नुहोस् ।">
 
 <!ENTITY  incompatibleCheck.title         "एड-अन अनुकुलता जाँचिदैछ">
+<!ENTITY  incompatibleCheck.label         "तपाईंको एडअनको नयाँ संस्करण खोज्दै…">
 
-
+<!ENTITY  clickHere.label                 "यो अपडेटको बारेमा थप जानकारी हेर्नुहोस्">
 
 
 
 <!ENTITY  license.titleText               "सफ्टवेयर लाइसेन्स सम्झौता">
 
-
+<!ENTITY  license.instructionText         "कृपया निम्न लाइसेन्स सम्झौता पढ्नुहोस्। यो सम्झौताको बाँकी हेर्न स्क्रोल बार प्रयोग गर्नुहोस्।">
 <!ENTITY  license.accept                  "म इजाजतपत्र सम्झौतामा भएकामा सर्तहरू स्वीकार गर्दछु">
 <!ENTITY  license.accept.accesskey        "c">
 <!ENTITY  license.decline                 "म इजाजतपत्र सम्झौतामा भएका सर्तहरू स्वीकार गर्दिन">
