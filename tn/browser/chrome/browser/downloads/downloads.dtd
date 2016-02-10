@@ -53,13 +53,13 @@
      -->
 <!ENTITY cmd.show.label                   "Bula e e Nang Setsholadifaele">
 <!ENTITY cmd.show.accesskey               "S">
-<!ENTITY cmd.showMac.label                "Sebatli sa Tshupegetso">
-<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showMac.label                "Bontsha mo Sebatling">
+<!ENTITY cmd.showMac.accesskey            "S">
 <!ENTITY cmd.retry.label                  "Leka">
 <!ENTITY cmd.goToDownloadPage.label       "Tsamaela kwa Tsebeng ya Kopololo">
 <!ENTITY cmd.goToDownloadPage.accesskey   "T">
-<!ENTITY cmd.copyDownloadLink.label       "Kgokagano ya Kopololo">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.copyDownloadLink.label       "Kopolola Kgokagano ya Kopololo">
+<!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Tlosa mo Motlhaleng wa tse di fitileng">
 <!ENTITY cmd.removeFromHistory.accesskey  "l">
 <!ENTITY cmd.clearList.label              "Phimola Lenaane">
