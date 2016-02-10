@@ -5,7 +5,7 @@
 <!ENTITY playButton.playLabel "Titzij">
 <!ENTITY playButton.pauseLabel "Titanab'äx">
 
-
+<!ENTITY muteButton.unmuteLabel "Tak'axäx">
 
 <!ENTITY fullscreenButton.exitfullscreenlabel "Tel pa tz'aqät ruwäch kematz'ib'">
 
@@ -18,18 +18,21 @@
 
 <!ENTITY stats.activitySeeking "(tajin nikanöx)">
 
-
+<!ENTITY stats.framesParsed "Samajin taq kajtz'ik">
 
 <!ENTITY stats.framesPresented "Taq kajtz'ik ek'utun pe">
 
 
+<!ENTITY error.aborted "Xpa'e' ri rutzijik silowachib'äl.">
 <!ENTITY error.network "Xq'at rutzijik silowachib'äl ruma jun sachoj pa ruk'u'x samaj.">
+<!ENTITY error.decode "Man tikirel ta nitz'et ri silowachib'äl ruma chi itzel ri yakb'äl.">
 
-
-
+<!ENTITY error.noSource2 "Majun silowachib'äl xelitäj, ri nikixïm ki' pa MIME rub'anikil chuqa' ruwäch.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
+
+<!ENTITY scrubberScale.nameFormat "#1 richin #2 k'ulwachitajinäq">
