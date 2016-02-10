@@ -10,5 +10,10 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-<!ENTITY gotoLineCmd.key           "J">
 
+
+
+
+<!ENTITY gotoLineCmd.label         "पङ्‌क्तिमा जानुहोस्...">
+<!ENTITY gotoLineCmd.key           "J">
+<!ENTITY gotoLineCmd.accesskey     "J">

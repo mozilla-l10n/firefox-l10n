@@ -20,7 +20,7 @@ fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey,
 fullZoomReduceCmd.commandkey2, fullZoomResetCmd.commandkey,
 and fullZoomResetCmd.commandkey2 should all match the corresponding
 values from browser.dtd.  -->
-
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -166,7 +166,7 @@ values from browser.dtd.  -->
 
 
 
-
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "स्वचालित रूपमा बन्द कोष्ठक सम्मिलित गर्नुहोस्">
 
 
 
