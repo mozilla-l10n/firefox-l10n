@@ -10,7 +10,7 @@
 <!ENTITY select.heading              "तपाईँका एड-अनहरू छान्नुहोस्">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "&brandShortName; लाई अझ छिटो बनाउन, तपाईंले प्रयोग नगर्नुभएको एड-अनहरुलाई असक्षम पार्नुहोस्। तपाईंले तल तिनीहरूलाई चयन नगरेसम्म तेस्रो पक्षद्वारा स्थापित एड-अनहरु स्वतः अक्षम गरिनेछ।">
+<!ENTITY select.description          "&brandShortName; लाई अझ छिटो बनाउन, तपाईँले प्रयोग नगर्नुभएको एड-अनहरूलाई असक्षम पार्नुहोस्। तपाईँले तल तिनीहरूलाई चयन नगरेसम्म तेस्रो पक्षद्वारा स्थापित एड-अनहरू स्वतः अक्षम गरिनेछ।">
 <!ENTITY select.keep                 "राख्नुहोस्">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
@@ -29,7 +29,7 @@
 <!ENTITY confirm.heading             "तपाईँका एड-अनहरू छान्नुहोस्">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "&brandShortName; लाई अझ छिटो बनाउन, तपाईंले प्रयोग नगर्नुभएको एड-अनहरुलाई असक्षम पार्नुहोस्। तपाईंले तल तिनीहरूलाई चयन नगरेसम्म तेस्रो पक्षद्वारा स्थापित एड-अनहरु स्वतः अक्षम गरिनेछ।">
+<!ENTITY confirm.description         "&brandShortName; लाई अझ छिटो बनाउन, तपाईँले प्रयोग नगर्नुभएको एड-अनहरूलाई असक्षम पार्नुहोस्। तपाईँले तल तिनीहरूलाई चयन नगरेसम्म तेस्रो पक्षद्वारा स्थापित एड-अनहरू स्वतः अक्षम गरिनेछ।">
 
 <!ENTITY action.disable.heading      "निम्न एड-अन अक्षम पारिनेछ:">
 <!ENTITY action.incompatible.heading "निम्न एड-अन अक्षम छन्, तर तिनीहरू संगत भएमा चाँडै सक्षम हुनेछन्ः">
@@ -39,7 +39,7 @@
 <!ENTITY update.heading              "तपाईँका एड-अनहरू अद्यावधि गर्दै">
 <!ENTITY update.progress.label       "तपाईँले चयन गर्नु भएका एड-अनहरूका लागि अद्यावधिक स्थापना गरिँदै।">
 
-<!ENTITY errors.heading              "&brandShortName; ले तपाईँको केही एड-अनहरुलाई अद्यावधिक गर्न सकेन।">
+<!ENTITY errors.heading              "&brandShortName; ले तपाईँको केही एड-अनहरूलाई अद्यावधिक गर्न सकेन।">
 <!ENTITY errors.description          "तपाईँको केही एड-अनहरूको लागि अद्यावधिक स्थापना असफल भयो। &brandShortName; ले स्वतः पछि फेरि तिनीहरूलाई अद्यावधिक गर्न प्रयास गर्नेछ।">
 
 <!ENTITY footer.label                "तपाईँले आफ्नो एड-अनहरू सँधै एड-अन प्रबन्धकबाट परिवर्तन गर्न सक्नुहुने छ।">

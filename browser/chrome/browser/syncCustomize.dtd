@@ -21,7 +21,7 @@
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "पासवर्डहरू">
 <!ENTITY engine.passwords.accesskey       "P">
-<!ENTITY engine.addons.label              "डेस्कटप एड-अनहरु">
+<!ENTITY engine.addons.label              "डेस्कटप एड-अनहरू">
 <!ENTITY engine.addons.accesskey          "A">
-<!ENTITY engine.prefs.label               "डेस्कटप प्राथमिकताहरु">
+<!ENTITY engine.prefs.label               "डेस्कटप प्राथमिकताहरू">
 <!ENTITY engine.prefs.accesskey           "s">

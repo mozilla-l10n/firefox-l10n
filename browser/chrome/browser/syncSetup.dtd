@@ -26,7 +26,7 @@
 <!ENTITY signIn.recoveryKey.accesskey   "K">
 <!-- New Account Page 1: Basic Account Info -->
 
-<!ENTITY setup.newAccountDetailsPage.title.label "खाता विवरणहरु">
+<!ENTITY setup.newAccountDetailsPage.title.label "खाता विवरणहरू">
 <!ENTITY setup.emailAddress.label     "इमेल ठेगाना">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!ENTITY setup.choosePassword.label      "पासवर्ड छान्नुहोस्">

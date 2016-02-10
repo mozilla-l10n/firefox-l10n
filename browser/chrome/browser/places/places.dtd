@@ -16,7 +16,7 @@
 <!ENTITY views.label                    "दृश्य">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "तपाईँको दृश्य परिवर्तन गर्नुहोस्">
-<!ENTITY view.columns.label             "कोलमहरु देखाउनुहोस्">
+<!ENTITY view.columns.label             "स्तम्भहरू देखाउनुहोस्">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "क्रमबद्ब गर्नुहोस्">
 <!ENTITY view.sort.accesskey            "S">

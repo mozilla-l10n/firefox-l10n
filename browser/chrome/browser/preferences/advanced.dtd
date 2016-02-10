@@ -118,5 +118,5 @@
 
 <!ENTITY viewCerts.label                 "प्रमाणपत्रहरू हेर्नुहोस्">
 <!ENTITY viewCerts.accesskey             "C">
-
-
+<!ENTITY viewSecurityDevices.label       "सुरक्षा यन्त्रहरु">
+<!ENTITY viewSecurityDevices.accesskey   "D">

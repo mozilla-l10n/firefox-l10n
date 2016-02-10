@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "उदाहरण: .mozilla.org, .net.nz, १९२.१६८.१.०/२४">
 <!ENTITY  shareproxy.label              "सबै प्रोक्सी सर्वर प्रोटोकलको लागि यो प्रयोग गर्नुहोस् ">
 <!ENTITY  shareproxy.accesskey          "s">
-<!ENTITY  autologinproxy.label          "येदि पासवोर्ड संग्रह गरिएको छ भने पासवोर्ड प्रमाणीकरणको लागि झक्झक्याउने नगर्नुहोस्">
+<!ENTITY  autologinproxy.label          "यदि पासवर्ड सङ्ग्रह गरिएको छ भने पासवर्ड प्रमाणीकरणको लागि झक्झक्याउने नगर्नुहोस्">
 <!ENTITY  autologinproxy.accesskey      "i">
 
