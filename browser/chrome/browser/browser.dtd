@@ -748,6 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Questa pagina è memorisada sin tes computer.">
 <!ENTITY identity.connectionVerified1 "Ti es collià a moda segira cun questa pagina, administrada da:">
 <!ENTITY identity.connectionInternal "Quai è ina pagina segira da &brandShortName;.">
+<!ENTITY identity.insecureLoginForms2 "Infurmaziuns d'annunzia endatadas sin questa pagina èn eventualmain periclitadas.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloccà parts da questa pagina che n'èn betg segiradas.">
