@@ -25,7 +25,7 @@
 <!ENTITY community.exp.start        "‍">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "एउटा">
+<!ENTITY community.exp.middle       " एउटा ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "विश्वव्यापी समुदाय">
 <!ENTITY community.exp.end          " वेबलाई खुल्ला, र सबै सम्म पहुँच पुर्‍याउन लागि सहकार्यमा काम गर्दै।">
