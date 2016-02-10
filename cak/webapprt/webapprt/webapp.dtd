@@ -23,6 +23,8 @@
 <!ENTITY showAllAppsCmdMac.label            "Ruk'utik ronojel">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "K'exonïk">
 <!ENTITY editMenu.accesskey                 "e">
 <!ENTITY undoCmd.label                      "Yujïk">

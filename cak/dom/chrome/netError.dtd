@@ -18,10 +18,12 @@
 <!ENTITY fileNotFound.title "Man xilitäj ta ri yakb'äl">
 
 
+<!ENTITY generic.title "Man xtikïr ta xutz'aqatisaj ri k'utunïk">
 <!ENTITY generic.longDesc "<p>Majun na'oj k'o chi rij re k'ayewal o sachoj re'.</p>">
 
 
 
+<!ENTITY netInterrupt.title "Xq'at ri kiq'axik taq tzij">
 
 
 <!ENTITY notCached.title "Xk'is yan ruq'ijul ri wuj">
@@ -33,7 +35,9 @@
 
 
 <!ENTITY unsafeContentType.title "Itzel ruwäch chi yakb'äl">
-
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Tab'ana' utzil, ke'atz'ib'aj el ri rajaw ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li> 
+</ul>">
 
 
 
@@ -65,7 +69,8 @@
 <!ENTITY unwantedBlocked.title "¡Ruxaq k'amaya'l ya'on rutzijol chi k'o itzel kema' chupam!">
 <!ENTITY unwantedBlocked.longDesc "<p>Itzel taq ruxaq kema' nkajo' nikiyäk q'olonel taq kema' chuqa' wakami chanin nritzelaj ri aq'inoj.</p>">
 
-
+<!ENTITY phishingBlocked.longDesc "<p>Natz'ib'aj xa b'a achike awetamab'al pa re ruxaq re' tikirel nupo' pa jun eläq' chi etamab'äl o chuqa' jun chik chi q'oloj.</p> 
+<p>Re ruwäch chi q'olonel chi ruxaq k'amaya'l ye'okisäx pa q'oloj achi'el toq yesamäj ri pixin, chupam re' ri taq q'olonel taq ruxaq k'amaya'l chuqa' taq taqoya'l ye'okisäx richin nikoxk'ob'ej taq ruxe' ri ütz yerutz'ët.</p>">
 
 <!ENTITY forbiddenBlocked.title "Xajan taq ruxaq k'amaya'l">
 <!ENTITY forbiddenBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xsamajib'ëx re ruxaq k'amaya'l re', ruma chi nuk'un richin niq'at.</p>">

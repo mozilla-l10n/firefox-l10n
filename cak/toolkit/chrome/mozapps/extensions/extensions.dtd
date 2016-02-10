@@ -14,7 +14,7 @@
 
 
 
-
+<!ENTITY toolsMenu.tooltip                    "Taq kisamajib'al konojel ri taq tz'aqat">
 
 <!ENTITY cmd.back.tooltip                     "Rutzolixik jun ruxaq">
 <!ENTITY cmd.forward.tooltip                  "Jun chik ruxaq">
@@ -140,7 +140,7 @@
 
 <!ENTITY sort.name.label                      "B'i'aj">
 
-
+<!ENTITY sort.dateUpdated.label               "Ruk'isib'äl k'exoj">
 
 
 
@@ -172,7 +172,7 @@
 
 
 
-
+<!ENTITY addon.includeUpdate.label            "Tiya' pa ri k'exoj">
 
 <!ENTITY addon.checkingForUpdates.label       "Kijunamaxik taq jaloj">
 
