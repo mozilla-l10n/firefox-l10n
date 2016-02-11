@@ -12,17 +12,17 @@
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; ಗೆ ಸ್ವಾಗತ">
 
+<!ENTITY firstrun_bookmarks_title "ಇತಿಹಾಸ">
 
 
-
-
+<!ENTITY firstrun_data_title "ಮಾಹಿತಿ">
 
 
 <!ENTITY firstrun_sync_title "ಸಿಂಕ್">
 
 
 
-
+<!ENTITY firstrun_signin_button "ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಆಗಿ">
 <!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
 <!ENTITY firstrun_button_next "ಮುಂದೆ">
 
