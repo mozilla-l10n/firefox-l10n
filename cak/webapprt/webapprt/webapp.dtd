@@ -43,7 +43,7 @@
 
 <!ENTITY pasteCmd.accesskey                 "P">
 <!ENTITY deleteCmd.label                    "Yujïk">
-
+<!ENTITY deleteCmd.key                      "N">
 <!ENTITY deleteCmd.accesskey                "ï">
 <!ENTITY selectAllCmd.label                 "Rucha'ik ronojel">
 
