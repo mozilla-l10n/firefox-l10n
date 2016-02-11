@@ -11,12 +11,12 @@
 <!ENTITY  onboard_start_subtext3 "Yenza amava okubhrawuza iWebhu yefowni yakho ephathwayo abe ngawakho ngokwenene.">
 
 <!ENTITY firstrun_urlbar_message "Wamkelekile kwi-&brandShortName;">
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Fumana izinto ngokukhawuleza ngezifutshaniso zokukhangela amacebiso eziluncedo.">
+<!ENTITY firstrun_bookmarks_title "Imbali">
+<!ENTITY firstrun_bookmarks_message "Ozithandayo, ngaphambili naphakathi">
+<!ENTITY firstrun_bookmarks_subtext "Fumana iziphumo kwiibhukmakhi zakho nembali xa ukhangela.">
+<!ENTITY firstrun_data_title "Idatha">
+<!ENTITY firstrun_data_message "Idatha encinci, wonga ngakumbi">
 
 <!ENTITY firstrun_sync_title "Ungqamaniso">
 
