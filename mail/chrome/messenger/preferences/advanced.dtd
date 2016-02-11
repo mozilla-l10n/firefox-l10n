@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Laschar confermar la validitad da certificats entras dumandar servers da OCSP">
 <!ENTITY enableOCSP.accesskey            "O">
 
-<!ENTITY viewCertificates.label         "Mussar ils certificats">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewSecurityDevices.label      "Moduls da criptadi">
-<!ENTITY viewSecurityDevices.accesskey  "c">
+<!ENTITY manageCertificates.label "Administrar ils certificats">
+<!ENTITY manageCertificates.accesskey "m">
+<!ENTITY viewSecurityDevices.label "Moduls da criptadi">
+<!ENTITY viewSecurityDevices.accesskey "c">
