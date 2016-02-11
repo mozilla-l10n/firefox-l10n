@@ -17,12 +17,12 @@
 <!ENTITY firstrun_bookmarks_subtext "Fumana iziphumo kwiibhukmakhi zakho nembali xa ukhangela.">
 <!ENTITY firstrun_data_title "Idatha">
 <!ENTITY firstrun_data_message "Idatha encinci, wonga ngakumbi">
-
+<!ENTITY firstrun_data_subtext "Bloka imifanekiso ukuze usebenzise idatha encinci kwisayithi nganye oyityelelayo.">
 <!ENTITY firstrun_sync_title "Ungqamaniso">
-
-
-
-
+<!ENTITY firstrun_sync_message "I-&brandShortName;, isoloko ingakuwe">
+<!ENTITY firstrun_sync_subtext "Dibanisa iithebhu zakho, iiphaswedi, nokungakumbi kuyo yonke indawo oyisebenzisa kuyo.">
+<!ENTITY firstrun_signin_message "Qhagamshela, uqalise">
+<!ENTITY firstrun_signin_button "Sayina ungene ukuze uDibanise">
 <!ENTITY  onboard_start_button_browser "Qala ukubhrawuza">
 <!ENTITY firstrun_button_next "Okulandelayo">
 
@@ -108,10 +108,12 @@
 <!ENTITY settings "Iisetingi">
 <!ENTITY settings_title "Iisetingi">
 <!ENTITY pref_category_general "Jikelele">
-
+<!ENTITY pref_category_general_summary2 "Ekhaya, ulwimi, ibha ye-URL">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Ulwimi">
 <!ENTITY pref_category_language_summary "Tshintsha ulwimi lwebhrawza yakho">
 <!ENTITY pref_browser_locale "Ulwimi lokubhrawuza">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -148,12 +150,12 @@
 
 <!ENTITY pref_category_search3 "Khangela">
 <!ENTITY pref_category_search_summary "Lungiselela izikhangeli zakho">
-
-
+<!ENTITY pref_category_accessibility "Ufikeleleko">
+<!ENTITY pref_category_accessibility_summary2 "Isayizi yeteksti, zuma, faka ilizwi">
 <!ENTITY pref_category_privacy_short "Okwabucala">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "Ukutreka, iikuki, ukhetho lwedata">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Malunga ne-&brandShortName;, Imibuzo Ebuzwa Qho, inkcazelo">
 <!ENTITY pref_category_datareporting "Ukhetho lweenkcukacha">
 <!ENTITY pref_learn_more "Funda okungakumbi">
 <!ENTITY pref_category_installed_search_engines "Izixhobo ezifakelweyo zokukhangela">
@@ -167,8 +169,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "ICEBISO: Yongeza nayiphi na iwebhusayithi kuludwe lwakho lwezikhangeli ngokucinezela ixesha elide kwifildi yokukhangela uze uchwethe uphawu lwe&formatI;.">
-
-
+<!ENTITY pref_category_advanced "Kwinqanaba eliphambili">
+<!ENTITY pref_category_advanced_summary2 "Buyisela iithebhu, iiplagini, izixhobo zomvelisi">
 <!ENTITY pref_developer_remotedebugging "Ukukhupha ibagi kude">
 <!ENTITY pref_developer_remotedebugging_usb "Khupha ibhagi bucala nge USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Khupha ibhagi bucala nge Wi-Fi">
@@ -186,7 +188,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 longeziwe kwikhasi lekhaya">
 <!ENTITY pref_category_home_content_settings "Iisetingi zesiqulatho">
-
+<!ENTITY pref_home_updates "Izihlaziyi ezizenzekelayo">
 <!ENTITY pref_home_updates_enabled "Ezivunyelweyo">
 <!ENTITY pref_home_updates_wifi "Phezu kwe-Wi-Fi kuphela">
 <!ENTITY pref_home_suggested_sites "Bonisa iingcamango zesayithi">
@@ -196,31 +198,37 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "I-&brandShortName; Ekhaya">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Khastom">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Faka iadresi okanye ukhangele ibinzana">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "Jikelele">
+<!ENTITY pref_header_search "Khangela">
 <!ENTITY pref_header_privacy_short "Okwabucala">
-
-
+<!ENTITY pref_header_accessibility "Ufikeleleko">
+<!ENTITY pref_header_advanced "Kwinqanaba eliphambili">
 <!ENTITY pref_header_help "Uncedo">
-
+<!ENTITY pref_header_vendor "I-&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Iikhukhi">
 <!ENTITY pref_cookies_accept_all "Ezenziwe zasebenza">
 <!ENTITY pref_cookies_not_accept_foreign "Zivunyelwe, ngaphandle kweqela lesi-3">
 <!ENTITY pref_cookies_disabled "Ivaliwe">
 
-
-
-
+<!ENTITY pref_tap_to_load_images_title2 "Bonisa imifanekiso">
+<!ENTITY pref_tap_to_load_images_enabled "Qho">
+<!ENTITY pref_tap_to_load_images_data "Phezu kwe-Wi-Fi kuphela">
+<!ENTITY pref_tap_to_load_images_disabled2 "Iblokiwe">
 
 <!ENTITY pref_tracking_protection_title "Ukhuseleko lokutreka">
 <!ENTITY pref_tracking_protection_summary3 "Ivulwe kuBhrawuzo Lwabucala">
@@ -243,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Ungakutshintsha oku ngelinye ixesha kwiiSetingi">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Layita umzobo weMvume phezu kwee-app">
 <!ENTITY tab_queue_prompt_positive_action_button "Yenza isebenze">
 <!ENTITY tab_queue_prompt_negative_action_button "Hayi ngoku">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Yiya kwiiSetingi">
 <!ENTITY tab_queue_notification_title "I-&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -259,14 +269,16 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY tab_queue_notification_settings "Ukuze \&quot;Uvule iilinki ezininzi\&quot;, nceda uvumele imvume yethi \&quot;Zoba phezu kwee-app ukwenzela i-&brandShortName;">
+
 <!ENTITY pref_char_encoding "Ukufakwa kwekhowudi kwikharekhtha">
 <!ENTITY pref_char_encoding_on "Bonisa imenyu">
 <!ENTITY pref_char_encoding_off "Musa ukubonisa imenyu">
-
+<!ENTITY pref_clear_private_data "Susa IDatha Yabucala">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Susa ngoku">
-
+<!ENTITY pref_clear_on_exit_title3 "Susa idatha yabucala xa uphuma">
 <!ENTITY pref_clear_on_exit_summary2 "I-&brandShortName; iya kuyisusa ngokwayo ingcombolo yakho xa ukhetha \u0022Quit\u0022 kwimenyu ephambili">
 <!ENTITY pref_clear_on_exit_dialog_title "Khetha ingcombolo emayisuswe">
 <!ENTITY pref_plugins "Izifakelo">
@@ -274,7 +286,7 @@
 <!ENTITY pref_plugins_tap_to_play "Cofa kancinci uze udlale">
 <!ENTITY pref_plugins_disabled "Yenziwe ukuba ingasebenzi">
 <!ENTITY pref_text_size "Ubukhulu bombhalo">
-
+<!ENTITY pref_restore_tabs "Buyisela iithebhu">
 <!ENTITY pref_restore_always "Soloko ubuyisela">
 <!ENTITY pref_restore_quit "Musa ukubuyisela izinto emva kuyeka i-&brandShortName;">
 <!ENTITY pref_font_size_tiny "Ncinane kakhulu">
@@ -299,16 +311,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Ngalo lonke ixesha vula i-zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Nyanzela ungananzi ukuze usiondeze naliphi na iphepha">
 <!ENTITY pref_voice_input "Igalelo lelizwi">
-
+<!ENTITY pref_voice_input_summary2 "Vumela ilizwi lokuyalelwa kwibha ye-URL">
 <!ENTITY pref_qrcode_enabled "Into yokufunda ikhowudi ye-QR">
-
+<!ENTITY pref_qrcode_enabled_summary2 "Vumela iskena se-QR kwibha ye-URL">
 
 <!ENTITY pref_use_master_password "Sebenzisa ipasiwedi eyimasta">
-
+<!ENTITY pref_sync2 "Sayina ungene">
 <!ENTITY pref_sync_summary2 "Ngqamanisa iithebhu zakho, iibhukmakhi, iipasiwedu, imbali">
 <!ENTITY pref_search_suggestions "Bonisa iingcamango zokukhangela">
 <!ENTITY pref_history_search_suggestions "Bonisa imbali yokhangelo">
-
+<!ENTITY pref_import_options "Thumela ukhetho">
 <!ENTITY pref_import_android_summary "Ngenisa iibhukmakhi nembali evela kwibhrawza yendalo">
 <!ENTITY pref_private_data_history2 "Imbali yokubhrawuza">
 <!ENTITY pref_private_data_searchHistory "Khangela imbali">
@@ -365,16 +377,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Izihlaziyi ezizenzekelayo">
 <!ENTITY pref_update_autodownload_wifi "Phezu kwe-Wi-Fi kuphela">
 <!ENTITY pref_update_autodownload_never "Ungaze">
-
+<!ENTITY pref_update_autodownload_always "Qho">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Uncedo">
 
 <!ENTITY quit "Yeka">
 
-
+<!ENTITY addons "Izongezelelo">
+<!ENTITY logins "Iilogini">
 <!ENTITY downloads "Okukhutshelweyo">
 <!ENTITY char_encoding "Ukufakwa kweekhowudi kwikharakhtha">
 
@@ -391,7 +405,7 @@ size. -->
 <!ENTITY new_private_tab "Iithebhu zangasese ezintsha">
 <!ENTITY close_all_tabs "Vala Zonke iiThebhu">
 <!ENTITY close_private_tabs "Vala iithebhu zangasese">
-
+<!ENTITY tabs_normal "Ithebhu">
 <!ENTITY tabs_private "Ngasese">
 <!ENTITY tabs_synced "Ngqamanisiweyo">
 <!ENTITY set_image_fail "Ayikwazi ukuseta umfanekiso">
@@ -453,7 +467,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Ukubhrawuza iskrini esipheleleyo">
-
+<!ENTITY pref_scroll_title_bar_summary2 "Fihla i-&brandShortName; ithulbha xa usihlisa iphepha">
 
 <!ENTITY pref_tab_queue_title2 "Vula izinxulumanisi ezininzi">
 <!ENTITY pref_tab_queue_summary3 "Zigcine kude kube lixesha elizayo uvula i-&brandShortName;">
@@ -513,6 +527,8 @@ size. -->
 <!ENTITY home_top_sites_add "Yongeza isayithi">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "I-&brandShortName; Ekhaya">
 <!ENTITY home_history_title "Imbali">
 <!ENTITY home_clear_history_button "Susa imbali yokubhrawuza">
 <!ENTITY home_clear_history_confirm "Uqinisekile ukuba ufuna ukususa imbali yakho?">
@@ -522,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Iithebhu zakho zakutshanje zibonakala apha.">
 <!ENTITY home_open_all "Vula zonke">
 <!ENTITY home_most_recent_empty "Iiwebhusayithi ozityelele kutshanje zibonakala apha.">
-
+<!ENTITY home_selected_empty "Iiwehsayithi ozityeleleyo ngexesha elikhethiweyo zibonakala apha.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: usebenzisa i &formatS1; Ithebu entsha yabucala &formatS2; ayinakho ukugcina imbali yakho.">
@@ -585,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Khusela Uqhagamshelo">
 <!ENTITY identity_connection_insecure "Uqhagamshelo olungakhuselekanga">
 <!ENTITY identity_login_insecure "Eli phepha alikhuselekanga yaye ukuloga kwakho ungene kusemngciphekweni.">
-
+<!ENTITY identity_connection_chromeui "Le yi-&amp;brandShortName ekhuselekileyo; iphepha">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "I-&brandShortName; ibhloke ii-elementi ezingakhuselekanga kweli phepha.">
@@ -609,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Iingcombolo zangasese zisusiwe">
 <!ENTITY private_data_fail "Ezinye iingcombolo zangasese azisuseki">
 
+<!ENTITY bookmarkhistory_button_import "Thumela ngaphakathi">
 <!ENTITY bookmarkhistory_import_both "Ingenisa iibhukhmakhi nembali 
 esuka kwi-Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Ingenisa iibhukhmakhi 
@@ -649,7 +666,10 @@ esuka kwi-Android">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Ukuze udawnlowude iifayile nohlaziyo, vumela i-&brandShortName; imvume yokufikelela ugcino.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Vumela">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Iseshoni Entsha Yondwendwe">
@@ -729,12 +749,14 @@ esuka kwi-Android">
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "Izongezelelo">
+<!ENTITY restrictable_feature_addons_installation_description "Yongeza iifitsha okanye ukusebenza kwi-Firefox. Izongezelelo zinokuvula izithintelo ezithile.">
 <!ENTITY restrictable_feature_private_browsing "Ukubhrawuza kwangasese">
-
-
-
-
-
+<!ENTITY restrictable_feature_private_browsing_description "Zivumela amalungu entsapho ukuba abhrawuze ngahandle kokonga inkcazelo ngeesayithi namaphepha aye awatyelela.">
+<!ENTITY restrictable_feature_clear_history "Cima Imbali">
+<!ENTITY restrictable_feature_clear_history_description "Zivumela amalungu entsapho ukuba acime inkcazelo ngeesayithi namaphepha awatyeleleyo.">
+<!ENTITY restrictable_feature_advanced_settings "Iisetingi Ezihambele phambili">
+<!ENTITY restrictable_feature_advanced_settings_description "Oku kuquka ukuthumela ngaphakathi iibhukmakhi ukubuyisela iithebhu nohlaziyo oluzenzekelayo. Cima ukwenzela iisetingi ezenziwe lula ezifanele naliphi ilungu lentsapho.">
 
 
 
