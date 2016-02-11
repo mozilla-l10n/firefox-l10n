@@ -847,8 +847,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.marklinkMenu.accesskey "l">
 <!ENTITY social.marklinkMenu.label "Guardar ligação em…">
 
-<!ENTITY getUserMedia.selectCamera.label "Equipamento a partilhar:">
-<!ENTITY getUserMedia.selectCamera.accesskey "h">
+<!ENTITY getUserMedia.selectCamera.label "Câmara a partilhar:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfone a partilhar:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "Áudio do separador será partilhado.">
