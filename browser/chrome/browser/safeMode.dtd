@@ -8,6 +8,6 @@
 <!ENTITY startSafeMode.label          "सुरक्षित मोडमा सुरु गर्नुहोस्">
 <!ENTITY refreshProfile.label         "&brandShortName; पुनः लोड गर्नुहोस्">
 
-
+<!ENTITY safeModeDescription4.label   "तपाईंको एडअन र अनुकुल सेटिङहरू अस्थायी रूपमा बन्द गरिनेछ।">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
