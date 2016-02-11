@@ -76,8 +76,8 @@
 
 
 
-
-
+<!ENTITY exceptionMgr.exceptionButton.label   "सुरक्षा अपवाद पुष्टि गर्नुहोस्">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 
 
 <!ENTITY exceptionMgr.certlocation.url        "स्थान:">

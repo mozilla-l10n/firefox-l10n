@@ -25,7 +25,8 @@
 
 <!ENTITY optionsGroup.label  "विकल्पहरू">
 
-
+<!ENTITY printBG.label       "पृष्ठभूमि मुद्रण गर्नुहोस् (रङ्ग र तस्विर)">
+<!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab        "सीमान्तहरू; हेडर/फुटर">
 

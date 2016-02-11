@@ -42,7 +42,7 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToNewWindow.label              "नयाँ सञ्झ्यालमा सार्नुहोस्">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "सबै ट्याबहरूलाई बुकमार्क गर्नुहोस…">
+<!ENTITY  bookmarkAllTabs.label              "सबै ट्याबहरूलाई पुस्तकचिनो गर्नुहोस्…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "बन्द गरिएको ट्याबलाई पुनः खोल्नुहोस्">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -81,7 +81,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "सबै ट्याबहरू पुनः लोड गर्नुहोस्">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "सब ट्याबहरूलाई बुकमार्क गर्नुहोस्...">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "सब ट्याबहरूलाई पुस्तकचिनो गर्नुहोस्...">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "बन्द गरिएको ट्याबलाई पुनः खोल्नुहोस्">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -225,7 +225,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "पुस्तकचिनोहरू">
 <!ENTITY bookmarksMenuButton.unsorted.label "क्रमवद्ध नगरिएको पुस्तकचिनोहरू">
-<!ENTITY viewBookmarksSidebar2.label        "बुकमार्क टुलबार देखाउनुहोस्">
+<!ENTITY viewBookmarksSidebar2.label        "पुस्तकचिनो टुलबार देखाउनुहोस्">
 <!ENTITY viewBookmarksToolbar.label         "पुस्तकचिनो टुलबार देखाउनुहोस्">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
