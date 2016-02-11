@@ -39,9 +39,9 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close.commandKey             "w">
 
 
-
+<!ENTITY cmd.clearList.label              "Tijosq'ïx rucholajem">
 <!ENTITY cmd.clearList.tooltip            "Yeruyüj el ri tz'aqät, q'aton chuqa' ri man xetikïr ta taq qasanïk chupam ri cholb'äl">
-
+<!ENTITY cmd.clearList.accesskey          "T">
 
 
 
