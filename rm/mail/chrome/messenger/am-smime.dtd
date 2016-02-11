@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Utilisar quest certificat per suttascriver digitalmain messadis che vegnan tramess:">
 
 <!ENTITY certificates.label "Certificats">
-<!ENTITY manageCerts.label "Mussar ils certificats">
-<!ENTITY manageCerts.accesskey "M">
+<!ENTITY manageCerts2.label "Administrar ils certificats">
+<!ENTITY manageCerts2.accesskey "m">
 <!ENTITY manageDevices.label "Moduls da criptadi">
 <!ENTITY manageDevices.accesskey "c">
