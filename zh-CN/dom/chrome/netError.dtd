@@ -79,7 +79,7 @@
 <!ENTITY unwantedBlocked.title "疑似不受欢迎软件的网站！">
 <!ENTITY unwantedBlocked.longDesc "<p>提供不安全的软件的网页可能会诱导您安装诈骗软件，或以其他难以预料的方式损害您的系统。</p>">
 
-<!ENTITY phishingBlocked.title "可疑的钓鱼网站！">
+<!ENTITY phishingBlocked.title "疑似钓鱼网站！">
 <!ENTITY phishingBlocked.longDesc " <p>在本页面输入个人信息可能会导致账号被盗或其他危险。</p><p>这类钓鱼网站常含有被称为“钓鱼攻击”的诈骗行为，这些伪装的网页或邮件地址可能用来假冒成您信任的源地址以实施诈骗。</p> ">
 
 <!ENTITY forbiddenBlocked.title "禁止的站点">
