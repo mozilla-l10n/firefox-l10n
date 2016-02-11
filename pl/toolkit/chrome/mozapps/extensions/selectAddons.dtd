@@ -33,14 +33,14 @@
 
 <!ENTITY action.disable.heading      "Następujące dodatki zostaną wyłączone:">
 <!ENTITY action.incompatible.heading "Następujące dodatki są wyłączone, ale zostaną włączone, gdy będą zgodne z tą wersją programu:">
-<!ENTITY action.update.heading       "Następujące dodatki zostaną zaktualizowane:">
+<!ENTITY action.update.heading "Następujące dodatki zostaną uaktualnione:">
 <!ENTITY action.enable.heading       "Następujące dodatki zostaną włączone:">
 
 <!ENTITY update.heading              "Aktualizacja dodatków">
 <!ENTITY update.progress.label       "Pobieranie i instalacja aktualizacji wybranych dodatków.">
 
-<!ENTITY errors.heading              "Program &brandShortName; nie mógł zaktualizować niektórych dodatków.">
-<!ENTITY errors.description          "Instalacja aktualizacji niektórych dodatków się nie powiodła. Program &brandShortName; spróbuje automatycznie je zaktualizować później.">
+<!ENTITY errors.heading "Program &brandShortName; nie mógł uaktualnić niektórych dodatków.">
+<!ENTITY errors.description "Instalacja aktualizacji niektórych dodatków się nie powiodła. Program &brandShortName; spróbuje automatycznie je uaktualnić później.">
 
 <!ENTITY footer.label                "Dodatki można zawsze zmienić, przechodząc do menedżera dodatków.">
 <!ENTITY cancel.label                "Anuluj">
