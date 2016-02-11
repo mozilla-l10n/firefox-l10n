@@ -215,6 +215,6 @@
 <!ENTITY simulator_device "Eszköz">
 <!ENTITY simulator_screenSize "Képernyő">
 <!ENTITY simulator_pixelRatio "Képpontarány:">
-
-
-
+<!ENTITY simulator_tv_data "TV szimuláció">
+<!ENTITY simulator_tv_data_open "Beállítási adatok">
+<!ENTITY simulator_tv_data_open_button "Beállításkönyvtár megnyitása…">
