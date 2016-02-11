@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Az alábbi tanúsítvány használata az Ön által küldött levelek aláírásához:">
 
 <!ENTITY certificates.label "Tanúsítványok">
-
-
+<!ENTITY manageCerts2.label "Tanúsítványok kezelése">
+<!ENTITY manageCerts2.accesskey "T">
 <!ENTITY manageDevices.label "Adatvédelmi eszközök">
 <!ENTITY manageDevices.accesskey "A">
