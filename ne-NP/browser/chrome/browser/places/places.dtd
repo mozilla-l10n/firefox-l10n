@@ -74,7 +74,7 @@
 <!ENTITY cmd.new_separator.label           "नयाँ विभाजक">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "रिलोड लाइव बुकमार्क">
+<!ENTITY cmd.reloadLivebookmark.label      "Live Bookmark पुन: लोड गर्नुहोस्">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "सार्नुहोस्...">
