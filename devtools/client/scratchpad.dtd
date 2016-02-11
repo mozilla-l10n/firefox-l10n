@@ -64,7 +64,7 @@
 <!-- + is above this key on many keyboards -->
 
 
-
+<!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "साधारण आकार">
 <!ENTITY normalSize.accesskey         "N">

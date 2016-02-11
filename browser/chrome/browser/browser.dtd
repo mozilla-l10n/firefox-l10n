@@ -547,7 +547,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "तस्विर पुनःलोड गर्नुहोस्">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "छवि हेर्नुहोस्">
+<!ENTITY viewImageCmd.label           "तस्विर हेर्नुहोस्">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "त्सविर सम्बन्धि जानकारी हेर्नुहोस् ">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
@@ -555,7 +555,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "भिडियो हेर्नुहोस्">
 <!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "पृष्ठभूमिको छवि हेर्नुहोस्">
+<!ENTITY viewBGImageCmd.label         "पृष्ठभूमिको तस्विर हेर्नुहोस्">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "डेस्कटप पृष्ठभूमिको रुपमा बसाउनुहोस्…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">

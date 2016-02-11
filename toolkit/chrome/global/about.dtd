@@ -7,13 +7,13 @@
 <!ENTITY about.credits.beforeLink     "सूची हेर्नुहोस्">
 <!ENTITY about.credits.linkTitle      "योगदानकर्ताहरू">
 <!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.credits.afterLink      " Mozilla Project को लागी ।">
+<!ENTITY about.credits.afterLink      " Mozilla Project को लागि ।">
 <!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no space between this phrase and the linked about.license.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
 <!ENTITY about.license.beforeTheLink  "पढ्नुहोस् ">
 <!ENTITY about.license.linkTitle      "इजाजतपत्रबारे सूचना">
 <!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.license.afterTheLink   " यो उत्पादनको लागी ।">
+<!ENTITY about.license.afterTheLink   " यो उत्पादनको लागि ।">
 <!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
 <!ENTITY about.relnotes.beforeTheLink "पढ्नुहोस् ">
