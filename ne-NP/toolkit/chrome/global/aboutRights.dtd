@@ -54,10 +54,10 @@
 <!ENTITY rights.locationawarebrowsing-a "स्थान सचेत ब्राउजिङ: ">
 
 
-<!ENTITY rights.locationawarebrowsing-term1b "कनफिग:को बारेमा">
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "geo.enabled टाइप गर्नुहोस्">
 
-
+<!ENTITY rights.locationawarebrowsing-term4 "स्थान-सचेत ब्राउजिङ अहिले अक्षम छ">
 <!-- intro paragraph for unbranded builds -->
 
 <!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
