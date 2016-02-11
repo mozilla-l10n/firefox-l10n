@@ -9,18 +9,11 @@
 <!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 <!ENTITY  onboard_start_message3 "Brskajte s &brandShortName;om">
 <!ENTITY  onboard_start_subtext3 "Naredite mobilno brskanje po spletu resnično vaše.">
-<!ENTITY  onboard_start_button_account "Prijava v &brandShortName;">
+
 <!ENTITY  onboard_start_button_browser "Začnite z brskanjem">
 <!ENTITY firstrun_button_next "Naprej">
 
 <!ENTITY  onboard_start_restricted1 "Ostanite varni in obdržite nadzor, z to poenostavljeno različico &brandShortName;.">
-
-<!ENTITY firstrun_import_title "Uvozi">
-<!ENTITY firstrun_import_message "Dobrodošli v &brandShortName;">
-<!ENTITY firstrun_import_subtext "Uvozite svoje zaznamke in zgodovino iz drugega brskalnika.">
-<!ENTITY firstrun_import_action "Prenesi v &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Prenesi">
-<!ENTITY firstrun_import_progress_title "Prenašanje">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -170,8 +163,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Oddaljeno razhroščevanje preko Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi razhroščevanje zahteva, da ima vaša naprava nameščeno aplikacijo za branje QR kod.">
 <!ENTITY pref_remember_signons2 "Shrani prijave">
-<!ENTITY pref_open_external_urls_privately_title "Odpiraj povezave v zasebnem brskanju">
-<!ENTITY pref_open_external_urls_privately_summary "Za vse zunanje povezave, ki jih odpre &brandShortName;">
 <!ENTITY pref_manage_logins "Upravljanje prijav">
 
 <!ENTITY pref_category_home "Domača stran">
@@ -182,7 +173,7 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "Plošča \'&formatS;\' dodana na domačo stran">
+<!ENTITY home_add_panel_installed "Plošča \&apos;&formatS;\&apos; dodana na domačo stran">
 <!ENTITY pref_category_home_content_settings "Nastavitve vsebine">
 <!ENTITY pref_home_updates "Samodejne posodobitve">
 <!ENTITY pref_home_updates_enabled "Omogočeno">
@@ -245,8 +236,12 @@
 <!ENTITY tab_queue_prompt_title "Želite odpreti več povezav?">
 <!ENTITY tab_queue_prompt_text4 "Shranite jih, dokler naslednjič ne odprete &brandShortName;a.">
 <!ENTITY tab_queue_prompt_tip_text2 "To lahko pozneje spremenite v nastavitvah">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "Omogoči">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne zdaj">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -257,7 +252,9 @@
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 zavihek na čakanju">
 
-<!ENTITY tab_queue_notification_settings "To &quot;Open multiple links&quot;, please enable the \'Draw over other apps\' permission for &brandShortName;">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "To &quot;Open multiple links&quot;, please enable the \&apos;Draw over other apps\&apos; permission for &brandShortName;">
 
 <!ENTITY pref_char_encoding "Pokaži nabor znakov">
 <!ENTITY pref_char_encoding_on "Pokaži meni">
@@ -458,7 +455,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary2 "Skrij &brandShortName; orodno vrstico, ko se premaknem po strani navzdol">
 
 <!ENTITY pref_tab_queue_title2 "Odpiranje več povezav">
-<!ENTITY pref_tab_queue_summary3 "Shranite jih, dokler naslednjič odprete &amp;brandShortName;">
+<!ENTITY pref_tab_queue_summary3 "Shranite jih, dokler naslednjič odprete &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -530,14 +527,6 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: uporaba &formatS1;Novega zasebnega zavihka&formatS2; ne shranjuje vaše zgodovine.">
 <!ENTITY home_reading_list_empty "Tukaj se prikažejo članki, ki ste jih shranili za kasneje.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "Namig: Shranite predmete na vaš bralni seznam z dolgim pritiskom na &formatI; ikono, ko se pojavi v URL vrstici.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "Namig: Shranite predmete na vaš bralni seznam z dolgim pritiskom na gumb za bralni način, ko se pojavi v URL vrstici.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -658,7 +647,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Na voljo je posodobitev za &brandShortName;">
 <!ENTITY updater_apply_select2 "Tapnite za posodobitev">
 
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova gostujoča seja">
 <!ENTITY exit_guest_session "Izhod iz gostujoče seje">
 <!ENTITY guest_session_dialog_continue "Nadaljuj">
@@ -746,8 +740,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "To vsebuje uvažanje zaznamkov, onavljanje zavihkov in avtomatske posodobitve. Izključite za poenostavljene nastavitve primerne za vse družinske člane.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera in mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Dovoli družinskim članom, da uporabljajo komunikacijo v realnem času na spletnih straneh.">
-<!ENTITY restrictable_feature_data_choices "Podatkovne možnosti">
-<!ENTITY restrictable_feature_data_choices_description "Izberite, ali želite pomagati izboljšati Firefox s pošiljanjem podatkov o uporabi Mozilli.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
