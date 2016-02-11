@@ -455,7 +455,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary2 "Skrij &brandShortName; orodno vrstico, ko se premaknem po strani navzdol">
 
 <!ENTITY pref_tab_queue_title2 "Odpiranje več povezav">
-<!ENTITY pref_tab_queue_summary3 "Shranite jih, dokler naslednjič odprete &brandShortName;">
+<!ENTITY pref_tab_queue_summary3 "Shranite jih, dokler naslednjič ne odprete &brandShortName;a">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
