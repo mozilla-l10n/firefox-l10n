@@ -757,10 +757,10 @@ esuka kwi-Android">
 <!ENTITY restrictable_feature_clear_history_description "Zivumela amalungu entsapho ukuba acime inkcazelo ngeesayithi namaphepha awatyeleleyo.">
 <!ENTITY restrictable_feature_advanced_settings "Iisetingi Ezihambele phambili">
 <!ENTITY restrictable_feature_advanced_settings_description "Oku kuquka ukuthumela ngaphakathi iibhukmakhi ukubuyisela iithebhu nohlaziyo oluzenzekelayo. Cima ukwenzela iisetingi ezenziwe lula ezifanele naliphi ilungu lentsapho.">
-
-
-
-
+<!ENTITY restrictable_feature_camera_microphone "Ikhamera Nemayikhrofoni">
+<!ENTITY restrictable_feature_camera_microphone_description "Ivumela amalungu entsapho ukuba abe nexesha lokwenene lokunxibelelana kwiiwebhsayithi.">
+<!ENTITY restrictable_feature_block_list "Bloka Uluhlu">
+<!ENTITY restrictable_feature_block_list_description "Bloka iiwebhsayithi eziquka izinto ezintununtunu.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -777,4 +777,7 @@ esuka kwi-Android">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "Uxolo! Le &brandShortName; ayinakusebenza kwesi sixhobo (&formatS1;, &formatS2;). Ndicela udawnlowude uhlobo oluchanileyo.">
 
+<!ENTITY eol_notification_title "I-&brandShortName; ayisayixhasi i-Android 3">
+<!ENTITY eol_notification_summary "Cofa ukuze ufunde ngakumbi?">
