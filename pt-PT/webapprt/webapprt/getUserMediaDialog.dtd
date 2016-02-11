@@ -11,7 +11,7 @@
 <!ENTITY getUserMediaDialog.button.cancel.label     "Cancelar">
 <!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
-<!ENTITY getUserMediaDialog.video.label             "Seleção de equipamento">
+<!ENTITY getUserMediaDialog.video.label             "Selecionar câmara">
 <!ENTITY getUserMediaDialog.video.noVideo           "Sem vídeo">
 <!ENTITY getUserMediaDialog.audio.label             "Seleção de microfone">
 <!ENTITY getUserMediaDialog.audio.noAudio           "Sem áudio">
