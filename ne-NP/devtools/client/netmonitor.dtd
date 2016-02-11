@@ -102,7 +102,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterImages): This is the label displayed
   -  in the network details footer for the "Images" filtering button. -->
 
-<!ENTITY netmonitorUI.footer.filterImages "छविहरू">
+<!ENTITY netmonitorUI.footer.filterImages "तस्विरहरू">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterMedia): This is the label displayed
   -  in the network details footer for the "Media" filtering button. -->
 
