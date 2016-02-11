@@ -760,12 +760,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone "ກ້ອງຖ່າຍ ແລະ ໄມໂຄຣໂຟນ">
 
 <!ENTITY restrictable_feature_block_list "ລາຍການບັອກ">
-
+<!ENTITY restrictable_feature_block_list_description "ບລັອກເວັບໄຊຕ໌ທີ່ປະກອບມີເນື້ອຫາທີ່ລະອຽດອ່ອນ.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
 <!ENTITY bookmarks_about_browser "ໄຟຟັອກ: ກ່ຽວກັບຕົວທ່ອງເວັບຂອງທ່ານ">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: ປັບແຕ່ງດ້ວຍ add-ons">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "ໄຟຟັອກ: ການສະໜັບສະໜູນ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
