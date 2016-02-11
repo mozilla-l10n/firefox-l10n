@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Regisztrált Service Workers">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Profilok">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Több folyamatú ablakok">
 
