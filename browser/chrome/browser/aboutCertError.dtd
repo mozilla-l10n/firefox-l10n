@@ -22,7 +22,7 @@ was trying to connect. -->
 <!ENTITY certerror.advanced.label "Rozšířené">
 
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tento server používá HTTP
-Strict Transport Security (HSTS) pro určení, zda se má &brandShortName; připojovat
+Strict Transport Security (HSTS), čímž určuje, že se má &brandShortName; připojovat
 pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifikát výjimku.">
 
 <!ENTITY certerror.expert.content "Pokud víte, co se děje, můžete &brandShortName; požádat o výjimku a začít identifikaci tohoto serveru důvěřovat. <b>I když tomuto serveru důvěřujete, může tato chyba znamenat, že někdo manipuluje s tímto připojením.</b>">
