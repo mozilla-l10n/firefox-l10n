@@ -21,8 +21,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.cancel.accesskey             "T">
 <!ENTITY cmd.show.label                   "Tijaq ri yaksamaj  k'o rupam ">
 <!ENTITY cmd.show.accesskey               "T">
-
-
+<!ENTITY cmd.showMac.label                "Tik'ut pe pa Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Tijaq">
 <!ENTITY cmd.open.accesskey               "T">
 <!ENTITY cmd.openWith.label               "Tijaq rik'in…">
@@ -36,6 +36,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 
 
+<!ENTITY cmd.close.commandKey             "w">
 
 
 
