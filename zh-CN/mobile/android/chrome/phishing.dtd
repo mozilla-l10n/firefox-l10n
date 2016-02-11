@@ -8,20 +8,20 @@
 <!ENTITY safeb.palm.reportPage.label "为什么拦截此页面？">
 <!ENTITY safeb.palm.whyForbidden.label "为什么拦截此页面？">
 
-<!ENTITY safeb.blocked.malwarePage.title "已报告的攻击页面！">
+<!ENTITY safeb.blocked.malwarePage.title "本页面被举报有攻击行为！">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "位于 <span id='malware_sitename'/> 的此网页曾被举报为恶意网页，已经被您所设置的安全策略阻挡。">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>攻击页面会尝试安装能盗取个人信息、攻击他人，或者损害您的系统的程序。</p><p>某些攻击页面是在故意散布有害软件，但更多则是在网站持有人不知情的情况下被恶意加入的。</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "根据举报，位于 <span id='unwanted_sitename'/> 的此网页具有攻击性为。现已根据您的安全选项予以拦截。">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>有攻击行为的网页会尝试安装能窃取个人信息、攻击他人，或者损害您的系统的程序。</p><p>某些攻击页面是在故意散布有害软件，但更多则是在网站所有者不知情的情况下被恶意加入的。</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "可能是欺诈网站！">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "在此页面上输入任何个人信息都可能导致身份盗窃或是其他欺诈行为。">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>这种类型的网页是伪造的，是被用于称为网络钓鱼攻击的欺诈，欺诈网页和电子邮件会仿冒您所信任的来源。</p>">
+<!ENTITY safeb.blocked.phishingPage.title2 "疑似钓鱼网站！">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "在此页面上输入任何个人信息都可能导致身份被冒用，或是遭受其他欺诈行为的威胁。">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>这类网页通过假冒成您所信任的网页或电子邮件对您进行诈骗。这种行为被称作“网络钓鱼”。</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "已报告的不受欢迎软件网站！">
+<!ENTITY safeb.blocked.unwantedPage.title "此网站被举报提供不安全的软件！">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "根据报告，位于 <span id='unwanted_sitename'/> 的此网页包含不受欢迎的软件。现已根据您的安全选项予以拦截。">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "不受欢迎软件的页面可能会尝试安装欺骗性或者以预期之外方式影响您的系统的软件。">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "根据报告，位于 <span id='unwanted_sitename'/> 的此网页提供不安全的软件。现已根据您的安全选项予以拦截。">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "提供不安全的软件的网页可能会诱导您安装诈骗软件，或以其他难以预料的方式损害您的系统。">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "已阻止的站点">
+<!ENTITY safeb.blocked.forbiddenPage.title2 "被拦截的站点">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> 上的网页已被您的管理员配置阻止。">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> 上的网页已被您的管理配置拦截。">
