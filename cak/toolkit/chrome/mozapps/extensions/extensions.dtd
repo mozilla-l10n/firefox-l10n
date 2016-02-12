@@ -54,7 +54,7 @@
 
 
 
-
+<!ENTITY updates.downloaded.label             "Xeq'at ri kik'exoj ri taq atz'aqat.">
 
 
 
@@ -111,7 +111,7 @@
 <!ENTITY detail.version.label                 "Ruwäch">
 
 <!ENTITY detail.creator.label                 "Nuk'unel">
-
+<!ENTITY detail.homepage.label                "Ruxaq tikirib'äl">
 <!ENTITY detail.numberOfDownloads.label       "Taq qasa’n">
 
 

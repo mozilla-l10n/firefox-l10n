@@ -21,7 +21,7 @@
 <!ENTITY stats.framesParsed "Samajin taq kajtz'ik">
 
 <!ENTITY stats.framesPresented "Taq kajtz'ik ek'utun pe">
-
+<!ENTITY stats.framesPainted "K'utun taq kajtz'ik">
 
 <!ENTITY error.aborted "Xpa'e' ri rutzijik silowachib'äl.">
 <!ENTITY error.network "Xq'at rutzijik silowachib'äl ruma jun sachoj pa ruk'u'x samaj.">
