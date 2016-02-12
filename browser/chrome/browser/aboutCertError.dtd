@@ -8,12 +8,17 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
+
+<!ENTITY certerror.pagetitle1  "Несигурна връзка">
+<!ENTITY certerror.longpagetitle1 "Вашата връзка не е защитена">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-
-
+<!ENTITY certerror.introPara "Собственикът на <span class='hostname'/> е настроил техния уебсайт неправилно.  За да ви защити от кражба на информация, &brandShortName; не се свърза с този уебсайт.">
+<!ENTITY certerror.returnToPreviousPage.label "Връщане назад">
+<!ENTITY certerror.learnMore "Научете повече…">
+<!ENTITY certerror.advanced.label "Допълнителни">
 
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Тази страница използва
 HTTP Strict Transport Security (HSTS), за да укаже на &brandShortName;
@@ -27,8 +32,9 @@ HTTP Strict Transport Security (HSTS), за да укаже на &brandShortName
 <!ENTITY certerror.expert.contentPara2 "Не добавяйте изключение, освен ако
 нямате основателна причина страницата да не използва доверена идентификация.">
 <!ENTITY certerror.addException.label "Добавяне на изключение…">
+<!ENTITY certerror.copyToClipboard.label "Копиране на текста в системния буфер">
 
-
-
-
-
+<!ENTITY errorReporting.automatic "Докладвайте такива грешки, за да помогнете на Mozilla да идентифицира неправилно настроени сайтове">
+<!ENTITY errorReporting.sending "Изпращане на доклад">
+<!ENTITY errorReporting.sent "Докладът е изпратен">
+<!ENTITY errorReporting.tryAgain "Нов опит">
