@@ -18,7 +18,7 @@
 <!ENTITY server.label               "Ruk'u'x samaj">
 <!ENTITY serverType.default.label      "Ruk'amon wi pe: Ruk'u'x rusamaj Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Tawokisaj jun ichinan ruk'u'x samaj…">
-<!ENTITY signIn.account2.label      "Retal taqoya'l">
+<!ENTITY signIn.account2.label      " taqoya'l">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Ewan tzij">
 <!ENTITY signIn.password.accesskey  "E">
@@ -62,7 +62,7 @@
 <!ENTITY addDevice.showMeHow.label          "Tak'utu' chi nuwäch achike rub'eyal.">
 <!ENTITY addDevice.dontHaveDevice.label     "Man k'o ta wik'in ri okisaxel">
 <!ENTITY pairDevice.setup.description.label  "Richin natzïj, tacha&apos; &quot;Tixim jun okisaxel&quot; pan jun chik okisaxel.">
-<!ENTITY addDevice.setup.enterCode.label    "K'a ri' tatz'ib'aj  re tzij re':">
+<!ENTITY addDevice.setup.enterCode.label    "K'a ri' tatz'ib'aj re tzij re'">
 <!ENTITY pairDevice.dialog.description.label "Richin natzïj ri k&apos;ak&apos;a&apos; awokisaxel, tacha&apos; &quot;Tinuk&apos;samajïx Ximïl&quot; pa ri okisaxel.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tatz'ib'aj ri tzij xtuya' pe ri okisaxel:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Tab'ana' utzil, tatojtob'ej jub'ey chik.">

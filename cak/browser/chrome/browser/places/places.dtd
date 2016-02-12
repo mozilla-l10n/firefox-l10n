@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_bookmark.accesskey        "e">
 <!ENTITY cmd.new_folder.label              "K'ak'a' yakwuj…">
 <!ENTITY cmd.new_folder.accesskey          "w">
-<!ENTITY cmd.context_new_folder.accesskey  "K">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "K'ak'a'  jachöy">
 <!ENTITY cmd.new_separator.accesskey       "j">
 

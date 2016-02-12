@@ -6,7 +6,8 @@
 
 
 
-
+<!ENTITY  mismatch.top.label              "Re taq tz'aqat re' man nikik'äm ta ki' rik'in re ruwäch re' 
+&brandShortName; ruma toq xechup:">
 
 
 
@@ -22,7 +23,7 @@
 <!ENTITY  noupdates.wizard.title          "Majun taq tz'aqat xe'ilitäj, ri nikik'äm ki'">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; majun taq k'exoj erilon richin ri taq 
 man nikik'äm ta  ki' tz'aqat.">
-
+<!ENTITY  noupdates.error.desc            "Xe'ilitäj jujun taq k'ayewal toq nutojtob'ej yerukanoj taq k'exoj.">
 
 
 
