@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "K">
 <!ENTITY  unpinTab.label                     "Irrota välilehti">
 <!ENTITY  unpinTab.accesskey                 "I">
-<!ENTITY  moveToGroup.label                  "Siirrä ryhmään">
-<!ENTITY  moveToGroup.accesskey              "S">
-<!ENTITY  moveToNewGroup.label               "Uusi ryhmä">
 <!ENTITY  moveToNewWindow.label              "Siirrä uuteen ikkunaan">
 <!ENTITY  moveToNewWindow.accesskey          "S">
 <!ENTITY  bookmarkAllTabs.label              "Lisää välilehdet kirjanmerkkeihin…">
@@ -223,8 +220,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label             "Aloitussivu">
 
-<!ENTITY tabGroupsButton.label        "Välilehtiryhmät">
-
 <!ENTITY bookmarksButton.label           "Kirjanmerkit">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -255,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Lisäosat">
 <!ENTITY addons.accesskey             "o">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Sovellukset">
-<!ENTITY webapps.accesskey            "S">
-<!ENTITY loopMenuItem.label           "Aloita keskustelu…">
-<!ENTITY loopMenuItem.accesskey       "k">
 
 <!ENTITY webDeveloperMenu.label       "Web-työkalut (englanninkielisiä)">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -387,8 +378,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label          "Näytä">
 <!ENTITY viewMenu.accesskey        "N">
-<!ENTITY viewTabGroups.label            "Välilehtiryhmät">
-<!ENTITY viewTabGroups.accesskey        "V">
 <!ENTITY viewToolbarsMenu.label        "Työkalupalkit">
 <!ENTITY viewToolbarsMenu.accesskey      "T">
 <!ENTITY viewSidebarMenu.label  "Sivupaneeli">
@@ -416,6 +405,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Palauta edellinen istunto">
 <!ENTITY appMenuHistory.viewSidebar.label "Näytä sivuhistoriapaneeli">
 <!ENTITY appMenuHelp.tooltip "Avaa ohjevalikko">
+
+<!ENTITY appMenuRemoteTabs.label "Synkronoidut välilehdet">
+<!ENTITY appMenuRemoteTabs.fetching.label "Noudetaan synkronoituja välilehtiä…">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Ei avoimia välilehtiä">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ota välilehtien synkronointi käyttöön, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
+<!ENTITY appMenuRemoteTabs.signin.label "Kirjaudu Sync-palveluun">
 
 <!ENTITY customizeMenu.addToToolbar.label "Lisää työkalupalkkiin">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
@@ -509,8 +508,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "E">
 <!ENTITY searchSetAsDefault.label     "Aseta oletushakukoneeksi">
 <!ENTITY searchSetAsDefault.accesskey "A">
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label        "Avaa uuteen välilehteen">
 <!ENTITY openLinkCmdInTab.accesskey    "v">
@@ -745,7 +742,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Sivu on tallennettu tietokoneellesi.">
 <!ENTITY identity.connectionVerified1 "Yhteys sivustoon on suojattu ja sivustoa hallinnoi:">
 <!ENTITY identity.connectionInternal "Tämä on suojattu &brandShortName;-sivu.">
-<!ENTITY identity.insecureLoginForms "Kirjautumisesi voidaan murtaa.">
+<!ENTITY identity.insecureLoginForms2 "Tällä sivulla kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
@@ -780,8 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Selaimen välilehdet">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu2.label     "Välilehdet muissa laitteissa">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!ENTITY syncTabsMenu3.label     "Synkronoidut välilehdet">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -923,25 +920,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Turvallista selaamista!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Kiitos!">
 
-<!ENTITY processHang.terminateScript.label        "Pysäytä komentosarja">
-<!ENTITY processHang.terminateScript.accessKey    "P">
-<!ENTITY processHang.debugScript.label            "Etsi vika komentosarjasta">
-<!ENTITY processHang.debugScript.accessKey        "E">
-<!ENTITY processHang.terminatePlugin.label        "Tapa liitännäinen">
-<!ENTITY processHang.terminatePlugin.accessKey    "l">
-<!ENTITY processHang.terminateProcess.label       "Tapa verkkosivuprosessi">
-<!ENTITY processHang.terminateProcess.accessKey   "v">
-
 <!ENTITY emeLearnMoreContextMenu.label            "Lue lisää DRM-suojauksesta…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 <!ENTITY emeNotificationsNotNow.label             "Ei nyt">
 <!ENTITY emeNotificationsNotNow.accesskey         "E">
 <!ENTITY emeNotificationsDontAskAgain.label       "Älä kysy uudestaan">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "Ä">
-
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-<!ENTITY saveToPocketCmd.label     "Tallenna sivu Pocket-palveluun">
-<!ENTITY saveToPocketCmd.accesskey "c">
-<!ENTITY saveLinkToPocketCmd.label     "Tallenna linkki Pocket-palveluun">
-<!ENTITY saveLinkToPocketCmd.accesskey "k">
-<!ENTITY pocketMenuitem.label      "Näytä Pocket-palvelun lista">
