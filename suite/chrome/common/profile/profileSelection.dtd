@@ -20,3 +20,16 @@
 
 <!ENTITY            autoSelect.label         "Standaard bij dit profiel">
 <!ENTITY            autoSelect.accesskey     "S">
+
+<!ENTITY            start.label              "&brandShortName; starten">
+<!ENTITY            exit.label               "Afsluiten">
+
+<!ENTITY            newButton.label          "Profiel aanmaken…">
+<!ENTITY            newButton.accesskey      "P">
+<!ENTITY            renameButton.label       "Profiel hernoemen…">
+<!ENTITY            renameButton.accesskey   "h">
+<!ENTITY            deleteButton.label       "Profiel verwijderen…">
+<!ENTITY            deleteButton.accesskey   "v">
+
+<!ENTITY            offlineState.label       "Offline werken">
+<!ENTITY            offlineState.accesskey   "O">

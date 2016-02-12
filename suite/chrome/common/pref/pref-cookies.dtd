@@ -32,11 +32,6 @@
 <!ENTITY acceptforNDays.accesskey       "a">
 <!ENTITY days.label                     "dagen">
 
-<!ENTITY warnAboutCookies.label         "Voor elk cookie vragen">
-<!ENTITY warnAboutCookies.accesskey     "v">
-<!ENTITY forCurrentSession.label        "behalve voor sessiecookies">
-<!ENTITY forCurrentSession.accesskey    "e">
-
 <!ENTITY manageCookies.label            "Cookies en webpagina’s beheren">
 <!ENTITY manageCookiesDescription.label "Laat u opgeslagen cookies bekijken en beheren, evenals instellingen per website voor het accepteren en weigeren van cookies. Instellingen per website hebben voorrang op de bovenstaande instellingen.">
 
