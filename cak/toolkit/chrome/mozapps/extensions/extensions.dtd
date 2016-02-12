@@ -23,14 +23,14 @@
 
 
 <!-- global warnings -->
-
+<!ENTITY warning.checkcompatibility.label          "Chupül ri runuk'oxik richin we nikik'äm ki' ri taq tz'aqat. Rik'in jub'a' k'o jujun taq tz'aqat, ri man nikik'äm ta ki'.">
 
 
 
 
 
 <!-- global informations -->
-
+<!ENTITY info.plugincheck.tooltip               "Tapitz'a' qa wawe' richin natz'ët we ek'exon ri taq apluyin">
 <!-- categories / views -->
 
 
@@ -92,7 +92,7 @@
 
 <!ENTITY cmd.showPreferencesWin.tooltip       "Kejal ri taq rucha'oj re tz'aqat re'">
 
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Kejal ri taq rucha'oj re tz'aqat re'">
 
 
 

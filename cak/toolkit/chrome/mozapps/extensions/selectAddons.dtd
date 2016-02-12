@@ -21,6 +21,7 @@
      selectAddons.properties. -->
 <!ENTITY select.name.style           "width: 33ch;">
 
+<!ENTITY confirm.heading             "Ke'acha' ri taq atz'aqat">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 
