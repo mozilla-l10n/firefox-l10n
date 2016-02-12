@@ -4,51 +4,14 @@
 
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Connessione &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Aggiungi un account &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Collega un dispositivo">
 <!ENTITY sync.subtitle.connect.label "Per attivare un nuovo dispositivo selezionare “Configurazione di &syncBrand.shortName.label;” sul dispositivo stesso.">
-<!ENTITY sync.subtitle.header2.label "Inserire questo codice sull’altro dispositivo">
-<!ENTITY sync.subtitle.connectlocation2.label "Selezionare “&sync.title.pair.label;” nella sezione &syncBrand.shortName.label; delle opzioni di Firefox sull’altro dispositivo.">
 <!ENTITY sync.subtitle.pair.label "Per attivare selezionare “Collega un dispositivo” sull’altro dispositivo.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "…">
-<!ENTITY sync.link.show.label "Mostra come fare.">
-<!ENTITY sync.link.advancedsetup.label "Configurazione avanzata…">
 <!ENTITY sync.link.nodevice.label "Il dispositivo non è disponibile…">
-<!ENTITY sync.jpake.subtitle.waiting.label "In attesa di altri dispositivi…">
-<!ENTITY sync.subtitle.account.label "Inserire le informazioni sull’account &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Nome account">
-<!ENTITY sync.input.password.label "Password">
-<!ENTITY sync.input.key.label "Chiave di ripristino">
-<!ENTITY sync.checkbox.server.label "Utilizza server personalizzato">
-<!ENTITY sync.input.server.label "Indirizzo del server">
-<!ENTITY sync.title.fail.label "Impossibile configurare &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "Errore nella connessione di &syncBrand.fullName.label; con il server. Riprovare?">
-<!ENTITY sync.button.tryagain.label "Riprova">
-<!ENTITY sync.button.manual.label "Configurazione manuale">
-<!ENTITY sync.subtitle.nointernet.label "Connessione a Internet non disponibile.">
-<!ENTITY sync.subtitle.failaccount.label "Creazione dell’account sul dispositivo non riuscita.">
-<!ENTITY sync.subtitle.failmultiple.label "Sono state installate più versioni di Firefox? &syncBrand.fullName.label; al momento è in grado di supportare una sola installazione di Firefox. Rimuovere le altre versioni per utilizzare &syncBrand.shortName.label;.">
-<!ENTITY sync.title.success.label "Configurazione completata">
-<!ENTITY sync.subtitle.success.label1 "Il download dei dati è in corso. È possibile gestire il proprio account in Impostazioni o iniziare a navigare con &brandShortName;.">
-<!ENTITY sync.settings.label "Impostazioni">
-<!ENTITY sync.subtitle.manage.label1 "L’account &syncBrand.fullName.label; è già configurato. Per gestire l’account andare in Impostazioni o avviare &brandShortName;.">
-<!ENTITY sync.pair.tryagain.label "Riprovare">
-<!ENTITY sync.pair.connectlocation.label "Per attivare un nuovo dispositivo selezionare “Configurazione di &syncBrand.shortName.label;” e poi “Utilizza un account esistente”.">
-<!ENTITY sync.settings.options.label "Opzioni">
-<!ENTITY sync.summary.pair.label "Collega un altro dispositivo all’account &syncBrand.shortName.label;">
-<!ENTITY sync.configure.engines.title.label "Che cosa sincronizzare">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sincronizza…">
-<!ENTITY sync.configure.engines.title.bookmarks "Segnalibri">
 <!ENTITY sync.configure.engines.title.passwords2 "Accessi">
 <!ENTITY sync.configure.engines.title.history "Cronologia">
 <!ENTITY sync.configure.engines.title.tabs "Schede">
-<!ENTITY sync.button.cancel.label "Annulla">
-<!ENTITY sync.button.connect.label "Connetti">
-<!ENTITY sync.button.ok.label "OK">
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (deprecato)">
 <!ENTITY sync.default.client.name "&formatS1; su &formatS2;">
 <!ENTITY bookmarks.folder.menu.label "Menu segnalibri">
 <!ENTITY bookmarks.folder.places.label "">
@@ -59,15 +22,6 @@
 <!ENTITY bookmarks.folder.mobile.label "Segnalibri mobile">
 <!ENTITY bookmarks.folder.readinglist.label "Elenco lettura">
 <!ENTITY bookmarks.folder.pinned.label "Bloccata">
-<!ENTITY sync.notification.oneaccount.label "È possibile utilizzare un solo account &syncBrand.fullName.label;.">
-<!ENTITY sync.notification.configure.saved "Le impostazioni sono state salvate.">
-<!ENTITY sync.invalidcreds.label "Nome utente o password errati">
-<!ENTITY sync.invalidserver.label "Inserire un indirizzo valido per il server">
-<!ENTITY sync.verifying.label "Verifica in corso…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Chiave di ripristino errata, riprovare.">
-<!ENTITY sync.title.send.tab.label "Invia scheda a dispositivi">
-<!ENTITY sync.button.send.label "Invia">
-<!ENTITY sync.button.set.up.sync.label "Configurazione di &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configurazione di &syncBrand.shortName.label; per l’invio di schede">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configura &syncBrand.fullName.label; per inviare le schede ad altri dispositivi.">
 <!ENTITY sync.text.tab.sent.label "La scheda è stata inviata.">
