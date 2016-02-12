@@ -1,7 +1,5 @@
-amazondotcom
 bing
-eBay
 google
 twitter
-wikipedia
+wikipedia-ne
 yahoo
