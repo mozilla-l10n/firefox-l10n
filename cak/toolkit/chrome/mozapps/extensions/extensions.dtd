@@ -74,8 +74,8 @@
 
 
 
-
-
+<!ENTITY cmd.enableTheme.label                "Tokisäx wachinel">
+<!ENTITY cmd.enableTheme.accesskey            "T">
 
 
 
@@ -90,13 +90,14 @@
 <!ENTITY cmd.uninstallAddon.label             "Telesäx">
 <!ENTITY cmd.uninstallAddon.accesskey         "s">
 
+<!ENTITY cmd.showPreferencesWin.tooltip       "Kejal ri taq rucha'oj re tz'aqat re'">
 
 
 
 
 
 
-
+<!ENTITY cmd.showReleaseNotes.label           "Kek'ut pe ri ch'utaq rutzijol re ruwäch">
 
 
 
@@ -121,13 +122,14 @@
 
 
 
+<!ENTITY detail.repository                    "Ruwäch rub'i' tz'aqat">
 
 
+<!ENTITY detail.checkForUpdates.label         "Kekanöx taq k'exoj">
+<!ENTITY detail.checkForUpdates.accesskey     "t">
 
-
-
-
-
+<!ENTITY detail.showPreferencesWin.label      "Taq cha'oj">
+<!ENTITY detail.showPreferencesWin.accesskey  "T">
 
 
 
@@ -150,7 +152,7 @@
 
 
 
-
+<!ENTITY search.filter2.available.tooltip     "Kek'ut pe ri taq tzaqat e k'o richin yeyak">
 
 
 
@@ -164,10 +166,10 @@
      necessary -->
 <!ENTITY addon.update.postfix                 "Tik'ex">
 
+<!ENTITY addon.undoAction.tooltip             "Titzolïx chi rij re jun samaj re'">
 
 
-
-
+<!ENTITY addon.restartNow.label               "Titzij chik wakami">
 <!ENTITY addon.install.label                  "Rujumik">
 
 
@@ -176,7 +178,7 @@
 
 <!ENTITY addon.checkingForUpdates.label       "Kijunamaxik taq jaloj">
 
-
+<!ENTITY addon.loadingReleaseNotes.label      "Tajin nok…">
 
 
 

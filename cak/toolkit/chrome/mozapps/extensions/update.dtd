@@ -19,6 +19,8 @@
 
 
 
+<!ENTITY  noupdates.intro.desc            "&brandShortName; majun taq k'exoj erilon richin ri taq 
+man nikik'äm ta  ki' tz'aqat.">
 
 
 
@@ -29,8 +31,7 @@
 
 
 
-
-
+<!ENTITY  versioninfo.waiting             "Re re' rik'in jub'a' xtiyoke' jujun ch'utiramaj…">
 
 
 <!-- general strings used by several of the finish pages -->
