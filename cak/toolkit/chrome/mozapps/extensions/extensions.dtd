@@ -58,7 +58,7 @@
 
 
 
-
+<!ENTITY updates.updateSelected.label         "Keyak taq k'exoj">
 
 <!-- addon actions -->
 
@@ -165,7 +165,7 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Tik'ex">
-
+<!ENTITY addon.undoAction.label               "Titzolïx chi rij">
 <!ENTITY addon.undoAction.tooltip             "Titzolïx chi rij re jun samaj re'">
 
 
