@@ -410,7 +410,7 @@
 <!ENTITY replyButton.label "Beantwoorden">
 <!ENTITY replyAllButton.label "Allen beantwoorden">
 <!ENTITY forwardButton.label "Doorsturen">
-<!ENTITY fileButton.label "Archiveren">
+<!ENTITY fileButton.label "Verplaatsen">
 <!ENTITY nextButton.label "Volgende">
 <!ENTITY goBackButton.label "Terug">
 <!ENTITY goForwardButton.label "Vooruit">
@@ -505,7 +505,7 @@
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Prullenbak leegmaken">
 <!ENTITY folderContextEmptyTrash.accesskey "P">
-<!ENTITY folderContextEmptyJunk.label "Ongewensteberichtenmap leegmaken">
+<!ENTITY folderContextEmptyJunk.label "Map Ongewenst leegmaken">
 <!ENTITY folderContextEmptyJunk.accesskey "t">
 <!ENTITY folderContextSendUnsentMessages.label "Niet-verzonden berichten verzenden">
 <!ENTITY folderContextSendUnsentMessages.accesskey "N">
