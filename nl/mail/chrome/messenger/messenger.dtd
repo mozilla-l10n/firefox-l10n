@@ -499,7 +499,7 @@
 <!ENTITY replyAllButton.label "Allen beantwoorden">
 <!ENTITY replyListButton.label "Lijst beantwoorden">
 <!ENTITY forwardButton.label "Doorsturen">
-<!ENTITY fileButton.label "Bewaren">
+<!ENTITY fileButton.label "Verplaatsen">
 <!ENTITY archiveButton.label "Archiveren">
 <!ENTITY nextButton.label "Volgende">
 <!ENTITY nextButtonToolbarItem.label "Volgende ongelezen">
@@ -541,7 +541,7 @@
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
 <!ENTITY forwardAsInline.tooltip "Geselecteerde bericht doorsturen in het bericht">
 <!ENTITY forwardAsAttachment.tooltip "Geselecteerde bericht doorsturen als bijlage">
-<!ENTITY fileButton.tooltip "Geselecteerde bericht bewaren">
+<!ENTITY fileButton.tooltip "Geselecteerde bericht verplaatsen">
 <!ENTITY archiveButton.tooltip "Geselecteerde berichten archiveren">
 <!ENTITY nextButton.tooltip "Naar het volgende ongelezen bericht gaan">
 <!ENTITY nextMsgButton.tooltip "Naar het volgende bericht gaan">
