@@ -327,16 +327,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "(F)ဖိုင်"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "စာမျက်နှာစုစည်းမှု အသစ်">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "()ကိုယ်ရေးကိုယ်တာ">
+<!ENTITY userContextPersonal.accesskey    ")">
+<!ENTITY userContextWork.label            "()အလုပ်အကိုင်">
+<!ENTITY userContextWork.accesskey        ")">
+<!ENTITY userContextBanking.label         "()ဘဏ်လုပ်ငန်းဆိုင်ရာ">
+<!ENTITY userContextBanking.accesskey     ")">
+<!ENTITY userContextShopping.label        "() စျေးဝယ်ခြင်း">
+<!ENTITY userContextShopping.accesskey    ")">
 <!ENTITY newNavigatorCmd.label        "(N)ဝင်းဒိုးအသစ်">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -406,6 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "အသုံးပြုမှတ်တမ်း ဘေးဘားအားသုံးမည်">
 <!ENTITY appMenuHelp.tooltip "အကူအညီမီနူးအားဖွင့်">
 
+<!ENTITY appMenuRemoteTabs.label "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
