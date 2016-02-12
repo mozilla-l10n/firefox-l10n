@@ -13,7 +13,7 @@
 <!ENTITY firstrun_urlbar_message "Bienvenue sur &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Trouvez plus rapidement ce que vous recherchez grâce aux suggestions de recherche.">
 <!ENTITY firstrun_bookmarks_title "Historique">
-<!ENTITY firstrun_bookmarks_message "Your faves, front and center">
+<!ENTITY firstrun_bookmarks_message "Vos sites préférés, directement">
 <!ENTITY firstrun_bookmarks_subtext "Obtenez des résultats parmi vos marque-pages et votre historique lorsque vous effectuez des recherches.">
 <!ENTITY firstrun_data_title "Données">
 <!ENTITY firstrun_data_message "Moins de données, plus d\u0027économies">
