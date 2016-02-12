@@ -18,8 +18,9 @@
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name
    - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY hideThisAppCmdMac.key              "K'">
 <!ENTITY hideOtherAppsCmdMac.label          "Kewaxik ch'aqa' chikKe">
-
+<!ENTITY hideOtherAppsCmdMac.key            "K'">
 <!ENTITY showAllAppsCmdMac.label            "Ruk'utik ronojel">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
@@ -28,23 +29,23 @@
 <!ENTITY editMenu.label                     "K'exonïk">
 <!ENTITY editMenu.accesskey                 "e">
 <!ENTITY undoCmd.label                      "Yujïk">
-
+<!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "U">
 <!ENTITY redoCmd.label                      "Rukamuluxik">
-
+<!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "m">
 <!ENTITY cutCmd.label                       "Qupixik">
-
+<!ENTITY cutCmd.key                         "X">
 <!ENTITY cutCmd.accesskey                   "t">
 <!ENTITY copyCmd.label                      "Wachib'exïk">
-
+<!ENTITY copyCmd.key                        "C">
 <!ENTITY copyCmd.accesskey                  "c">
 <!ENTITY pasteCmd.label                     "Tz'ajb'axïk">
-
+<!ENTITY pasteCmd.key                       "W">
 <!ENTITY pasteCmd.accesskey                 "P">
 <!ENTITY deleteCmd.label                    "Yujïk">
 <!ENTITY deleteCmd.key                      "N">
 <!ENTITY deleteCmd.accesskey                "ï">
 <!ENTITY selectAllCmd.label                 "Rucha'ik ronojel">
-
+<!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "r">

@@ -19,7 +19,7 @@
 <!ENTITY cmd.back.tooltip                     "Rutzolixik jun ruxaq">
 <!ENTITY cmd.forward.tooltip                  "Jun chik ruxaq">
 
-
+<!ENTITY showAllExtensions.button.label       "Kek'ut pe konojel ri taq ruk'amal">
 
 
 <!-- global warnings -->
@@ -182,7 +182,7 @@
 
 
 
-
+<!ENTITY eula.accept                          "Ütz chuqa' tiyak…">
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
@@ -190,11 +190,12 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "Retamaxik ch'aqa' chik">
+<!ENTITY experiment.info.learnmore.accesskey "K">
 
 
 
 
-
+<!ENTITY disabledUnsigned.heading "Jujun taq tz'aqat xechup">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
