@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Щракнете, ако искате паролата да се запомни">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Показване инсталационното съобщение на приложението">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Управление използването на приставката в тази страница">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Промяна на настройката дали да получавате уведомления от сайта">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Управление споделянето на вашата камера и/или микрофон със сайта">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Споделяте вашата камера и/или микрофон със сайта">
@@ -406,17 +406,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Показване на страничната лента с история">
 <!ENTITY appMenuHelp.tooltip "Отваряне на меню с помощ">
 
-
+<!ENTITY appMenuRemoteTabs.label "Синхронизирани подпрозорци">
+<!ENTITY appMenuRemoteTabs.fetching.label "Извличане на синхронизирани подпрозорци…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Няма отворени подпрозорци">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Активирайте синхронизирането на подпрозорци, за да видите списък с подпрозорците в други ваши устройства.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Впишете се във Firefox на друго устройство, за да видите тук техните подпрозорци.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Настройки на Sync">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите тук подпрозорците в други ваши устройства.">
+<!ENTITY appMenuRemoteTabs.signin.label "Впишете се в Sync">
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
@@ -745,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
 <!ENTITY identity.connectionVerified1 "Защитена връзка към този сайт, управляван от:">
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
-
+<!ENTITY identity.insecureLoginForms2 "Данните за вход на тази страница може да са компрометирани.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
@@ -780,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "Подпрозорци на браузъра">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "Синхронизирани подпрозорци">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 

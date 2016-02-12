@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Проблем при зареждане на страница">
 <!ENTITY retry.label "Нов опит">
-
-
+<!ENTITY returnToPreviousPage.label "Връщане назад">
+<!ENTITY advanced.label "Допълнителни">
 <!-- Specific error messages -->
 
 
@@ -136,7 +136,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>Въвеждането на лична информация в тази страница може да доведе до кражба на идентичността и други измами.</p> 
 <p>Този вид измами са известни като измамнически атаки, при които се имитират страници и е-адреси на сайтове на които вярвате.</p>">
 
-
+<!ENTITY forbiddenBlocked.title "Забранен сайт">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; предотврати зареждането на тази страница, защото е настроен да я блокира.</p>">
 
 <!ENTITY cspBlocked.title "Блокирано от политика за сигурност на страницата">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото страницата е с политика за сигурност, което го забранява.</p>">
@@ -159,6 +160,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "Докладвайте такива грешки, за да помогнете на Mozilla да идентифицира и блокира злонамерени сайтове">
 <!ENTITY errorReporting.learnMore "Научете повече…">
 <!ENTITY errorReporting.sending "Изпращане на доклад">
 <!ENTITY errorReporting.sent "Докладът изпратен">
@@ -170,10 +172,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Невъзможно създаване на защитена връзка">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Допълнителна информация: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "Вашата връзка не е защитена">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
+<!ENTITY weakCryptoUsed.longDesc2 "Допълнителна информация: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Допълнителни">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> използва технологии за защита, които са остарели и уязвими за атака. Атакуваща страна може да разкрие информация, която си мислите, че е в безопасност.">
 <!ENTITY weakCryptoAdvanced.override "(Не е защитено) Опит за зареждане на <span class='hostname'></span>, използвайки остарели нива на защита">
