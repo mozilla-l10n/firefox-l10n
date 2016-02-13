@@ -31,6 +31,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Daha eski ping &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Ham ping veri verisi…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Hafta">
 
