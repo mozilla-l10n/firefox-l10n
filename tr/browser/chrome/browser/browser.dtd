@@ -106,9 +106,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Tüm sekmeleri göster">
 <!ENTITY showAllTabsCmd.accesskey "s">
 
-<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; oturumu aç">
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label;’e giriş yap">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; tercihlerini aç">
-<!ENTITY fxaSignInError.label "&syncBrand.shortName.label;'e tekrar bağlan">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label;’e yeniden bağlan">
 <!ENTITY fxaUnverified.label "Hesabınızı doğrulayın">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; etkinleştirildi">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; az sonra eşitlenmeye başlayacak.">
@@ -417,7 +417,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Diğer cihazlardaki sekmelerinizi görmek için cihazlardan Firefox'a o giriş yapın.">
+<!ENTITY appMenuRemoteTabs.noclients.label "Diğer cihazlardaki sekmelerinizi görmek için o cihazlardan Firefox’a giriş yapın.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Eşitleme Tercihleri">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync’e giriş yapın">
@@ -789,11 +789,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; oturumu aç…">
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label;’e giriş yap…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Şimdi eşitle">
 <!ENTITY syncSyncNowItem.accesskey    "m">
-<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;'e tekrar bağlan…">
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;’e tekrar bağlan…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
@@ -810,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Masaüstü bildirimlerini göster">
 <!ENTITY social.toggleNotifications.accesskey "b">
 
-<!ENTITY social.activated.description "<label/> servisleri etkinleştirilmiştir. Servis ayarlarınızı <label class='text-link'>Eklenti Yöneticisi</label>'nde değiştirebilirsiniz.">
+<!ENTITY social.activated.description "<label/> servisleri etkinleştirilmiştir. Servis ayarlarınızı <label class='text-link'>Eklenti Yöneticisi</label>’nde değiştirebilirsiniz.">
 <!ENTITY social.activated.undo.label "Bunu geri al!">
 <!ENTITY social.activated.undo.accesskey "B">
 <!ENTITY social.learnMore.label "Daha fazla bilgi al…">

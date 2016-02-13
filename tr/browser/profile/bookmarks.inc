@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize Firefox'u Özelleştirin
+#define firefox_customize Firefox’u Özelleştirin
 
 
 # LOCALIZATION NOTE (firefox_community):

@@ -5,6 +5,6 @@
 <!ENTITY aboutDebugging.title                      "about:debugging">
 <!ENTITY aboutDebugging.addons                     "Eklentiler">
 <!ENTITY aboutDebugging.addonDebugging.label       "Eklentide hata ayıklamayı etkinleştir">
-<!ENTITY aboutDebugging.addonDebugging.tooltip     "Bunu açarsanız eklentilerde ve tarayıcı chrome'unun çeşitli diğer bölümlerinde hata ayıklayabilirsiniz">
+<!ENTITY aboutDebugging.addonDebugging.tooltip     "Bunu açarsanız eklentilerde ve tarayıcı chrome’unun çeşitli diğer bölümlerinde hata ayıklayabilirsiniz">
 <!ENTITY aboutDebugging.loadTemporaryAddon         "Geçici eklentiyi yükle">
-<!ENTITY aboutDebugging.workers                    "Worker'lar">
+<!ENTITY aboutDebugging.workers                    "Worker’lar">
