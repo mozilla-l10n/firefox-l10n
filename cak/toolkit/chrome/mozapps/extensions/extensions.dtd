@@ -19,6 +19,7 @@
 <!ENTITY cmd.back.tooltip                     "Rutzolixik jun ruxaq">
 <!ENTITY cmd.forward.tooltip                  "Jun chik ruxaq">
 
+<!ENTITY showUnsignedExtensions.button.label  "Jujun taq k'amal man tikirel ta yenik'öx">
 <!ENTITY showAllExtensions.button.label       "Kek'ut pe konojel ri taq ruk'amal">
 <!ENTITY debugAddons.label                    "Kechojmirisäx taq tz'aqat">
 <!ENTITY debugAddons.accesskey                "c">
@@ -28,7 +29,7 @@
 
 
 
-
+<!ENTITY warning.updatesecurity.enable.tooltip     "Titzij ri ya'öl retal chajinïk richin nik'ex ri tz'aqat">
 <!-- global informations -->
 <!ENTITY info.plugincheck.tooltip               "Tapitz'a' qa wawe' richin natz'ët we ek'exon ri taq apluyin">
 <!-- categories / views -->
@@ -57,11 +58,13 @@
 <!ENTITY updates.downloaded.label             "Xeq'at ri kik'exoj ri taq atz'aqat.">
 
 
-
+<!ENTITY updates.manualUpdatesFound.label     "Ketz'et ri taq k'exoj e k'o">
 <!ENTITY updates.updateSelected.label         "Keyak taq k'exoj">
 
 <!-- addon actions -->
 
+<!ENTITY cmd.showDetails.label                "Kek'ut pe ch'aqa' chik rutzijol">
+<!ENTITY cmd.showDetails.accesskey            "K">
 
 
 
@@ -104,6 +107,8 @@
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+<!ENTITY discover.title                       "¿Atux ri taq tz'aqat?">
 
 
 <!-- detail view -->
@@ -183,7 +188,7 @@
 
 
 <!ENTITY eula.title                           "Taq rutzij ya'öl q'ij kichin ri ruk'isib'äl winäq okisanel">
-
+<!ENTITY eula.width                           "560px">
 
 <!ENTITY eula.accept                          "Ütz chuqa' tiyak…">
 
