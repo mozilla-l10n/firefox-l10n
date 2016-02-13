@@ -10,19 +10,20 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> पर यह वेब पृष्ठ एक अटैक पृष्ठ के रूप में सूचित किया गया है और आपके सुरक्षा वरीयता के अधार पर अवरूद्ध किया गया.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "अवांछित सॉफ्टवेयर पेज रिपोर्ट किया गया!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/>पर यह वेब पेज अवांछित सॉफ्टवेयर रखने हेतु सूचित किया गया और आपकी सुरक्षा वरीयता के आधार पर अवरुद्ध कर दिया गया है!">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/>पर यह वेब पृष्ठ अवांछित सॉफ्टवेयर रखने हेतु सूचित किया गया और आपकी सुरक्षा वरीयता के आधार पर अवरुद्ध कर दिया गया है.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>अवांछित सॉफ्टवेयर पृष्ठ वह सॉफ्टवेयर स्थापित करने का प्रयास करता हैं जो भ्रामक हो सकता है और अप्रत्याशित तरीके में आपके तंत्र को प्रभावित कर सकता है.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "रिपोर्ट की गई वेब धोखाधड़ी!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> पर यह वेब पृष्ठ एक वेब जालसाज़ी के रूप में सूचित किया गया है और आपकी सुरक्षा वरीयता के अधार पर अवरूद्ध किया गया.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "रोका गया अद्यतन">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> पर वेब पृष्ठ आपके व्यवस्थापक प्रोफाइल द्वारा ब्लॉक किया गया हैं.">
 
