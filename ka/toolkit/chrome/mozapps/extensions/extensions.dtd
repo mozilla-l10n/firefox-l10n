@@ -144,6 +144,8 @@
 <!ENTITY detail.updateDefault.tooltip         "განახლებების ავტომატურად დაყენება, თუ ნაგულისხმევადაა მითითებული.">
 <!ENTITY detail.updateAutomatic.label         "ჩართვა">
 <!ENTITY detail.updateAutomatic.tooltip       "განახლებების ავტომატურად დაყენება">
+<!ENTITY detail.updateManual.label            "გამორთვა">
+<!ENTITY detail.updateManual.tooltip          "არ დაყენდეს განახლებები ავტომატურად">
 <!ENTITY detail.home                          "საწყისი გვერდი">
 <!ENTITY detail.repository                    "დამატების პროფილი">
 <!ENTITY detail.size                          "ზომა">
@@ -152,7 +154,11 @@
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "ამ დამატების შემოწმება განახლებაზე">
 <!ENTITY detail.showPreferencesWin.label      "პარამეტრები">
+<!ENTITY detail.showPreferencesWin.accesskey  "პ">
 <!ENTITY detail.showPreferencesWin.tooltip    "ამ დამატების პარამეტრების შეცვლა">
+<!ENTITY detail.showPreferencesUnix.label     "პარამეტრები">
+<!ENTITY detail.showPreferencesUnix.accesskey "რ">
+<!ENTITY detail.showPreferencesUnix.tooltip   "ამ დამატების პარამეტრების შეცვლა">
 
 
 <!-- ratings -->
@@ -165,13 +171,19 @@
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "სახელი">
+<!ENTITY sort.name.tooltip                    "ანბანურად დალაგება">
 <!ENTITY sort.dateUpdated.label               "ბოლო განახლება">
+<!ENTITY sort.dateUpdated.tooltip             "განახლების თარიღით დალაგება">
 <!ENTITY sort.relevance.label                 "საუკეთესო დამთხვევა">
+<!ENTITY sort.relevance.tooltip               "შესაბამისობით დალაგება">
 <!ENTITY sort.price.label                     "ფასი">
+<!ENTITY sort.price.tooltip                   "ფასით დალაგება">
 
 <!ENTITY search.filter2.label                 "ძიება:">
 <!ENTITY search.filter2.installed.label       "ჩემი დამატებები">
+<!ENTITY search.filter2.installed.tooltip     "დაყენებული დამატებების ჩვენება">
 <!ENTITY search.filter2.available.label       "ხელმისაწვდომი დამატებები">
+<!ENTITY search.filter2.available.tooltip     "დასაყენებლად ხელმისაწვდომი დამატებების ჩვენება">
 
 <!ENTITY addon.homepage                       "საწყისი გვერდი">
 <!ENTITY addon.details.label                  "დეტალურად">
@@ -180,13 +192,29 @@
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(გამორთული)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "განახლება">
+<!ENTITY addon.undoAction.label               "დაბრუნება">
+<!ENTITY addon.undoAction.tooltip             "ბოლო მოქმედების გაუქმება">
 <!ENTITY addon.undoRemove.label               "დაბრუნება">
+<!ENTITY addon.undoRemove.tooltip             "დაყენებული დამატების დატოვება">
+<!ENTITY addon.restartNow.label               "ხელახლა გაშვება">
+<!ENTITY addon.install.label                  "ინსტალაცია">
+<!ENTITY addon.install.tooltip                "ამ დამატების ინსტალაცია">
+<!ENTITY addon.updateNow.label                "განახლება">
+<!ENTITY addon.updateNow.tooltip              "ამ დამატების განახლების დაყენება">
+<!ENTITY addon.includeUpdate.label            "განახლებასთან ერთად">
+<!ENTITY addon.updateAvailable.label          "განახლება ხელმისაწვდომია">
+<!ENTITY addon.checkingForUpdates.label       "განახლებებზე შემოწმება…">
+<!ENTITY addon.releaseNotes.label             "გამოშვების შენიშვნები:">
+<!ENTITY addon.loadingReleaseNotes.label      "ჩატვირთვა…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "ვერსიის მონაცემების ჩვენებისას მოხდა შეცდომა.">
 
+<!ENTITY addon.createdBy.label                "ავტორი ">
 
 <!ENTITY eula.title                           "მომხმარებლის სალიცენზიო შეთანხმება">
 <!ENTITY eula.width                           "560px">
@@ -200,7 +228,9 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+<!ENTITY experiment.info.label "რა არის ეს? ტელემეტრიამ დროდადრო შეიძლება დააყენოს და გაუშვას საცდელი დამატებები.">
 <!ENTITY experiment.info.learnmore "დაწვრილებით">
+<!ENTITY experiment.info.learnmore.accesskey "ტ">
 <!ENTITY experiment.info.changetelemetry "ტელემეტრიის პარამეტრები">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
