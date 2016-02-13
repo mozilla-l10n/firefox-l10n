@@ -208,8 +208,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Налог мора бити потврђен. Притисните да поново пошаљете е-пошту.'>
 <!ENTITY fxaccount_status_needs_credentials 'Не могу се повезати. Притисните да се пријавите.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Морате да надоградите &brandShortName; да бисте се пријавили.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Auto-sync data” у Android поставкама &gt; Data Usage.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Auto-sync data” у Android поставкама &gt; Accounts.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Аутоматски синхронизуј податке” у Android поставкама &gt; Коришћење података.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Аутоматски синхронизуј податке” у Android поставкама &gt; Налози.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Притисните да се пријавите на Firefox налог.'>
 <!ENTITY fxaccount_status_bookmarks 'Забелешке'>
 <!ENTITY fxaccount_status_history 'Историја'>
