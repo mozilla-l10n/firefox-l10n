@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Valitse tallennetaanko salasanaa">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Näytä sovelluksen asennusviesti">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Muokkaa liitännäisten käyttöä sivulla">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "Muokkaa sivuston oikeutta näyttää huomautuksia">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label         "Muokkaa sivuston oikeutta näyttää huomautuksia">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Muokkaa kameran ja/tai mikrofonin jakamisasetuksia sivustolla">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Jaat kamerasi ja/tai mikrofonisi sivuston kanssa">
@@ -414,6 +414,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ota välilehtien synkronointi käyttöön, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Kirjaudu Firefoxiin muilla laitteillasi, jotta voit katsella niiden välilehtiä tästä.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Sync-palvelun asetukset">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Kirjaudu sisään, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
 <!ENTITY appMenuRemoteTabs.signin.label "Kirjaudu Sync-palveluun">
 
 <!ENTITY customizeMenu.addToToolbar.label "Lisää työkalupalkkiin">
