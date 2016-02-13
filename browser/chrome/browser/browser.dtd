@@ -443,7 +443,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "e">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Arama yapın veya adres girin">
+<!ENTITY urlbar.placeholder2          "Arama yapın veya adres yazın">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Geçilecek sekme:">
 

@@ -30,6 +30,6 @@
 <!ENTITY aboutNetworking.bytesSent             "Gönderilen bayt">
 <!ENTITY aboutNetworking.bytesReceived         "Alınan bayt">
 
-
+<!ENTITY aboutNetworking.dnsLookupButton       "Çözümle">
 
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP'ler">

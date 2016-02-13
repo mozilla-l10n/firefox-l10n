@@ -147,7 +147,7 @@ en çok tutulan eklentilerden bazıları öne çıkarılacak.">
 <!ENTITY detail.updateManual.label            "Kapalı">
 <!ENTITY detail.updateManual.tooltip          "Güncellemeleri kendiliğinden kurma">
 <!ENTITY detail.home                          "Ana sayfa">
-<!ENTITY detail.repository                    "Eklenti kimliği">
+<!ENTITY detail.repository                    "Eklenti profili">
 <!ENTITY detail.size                          "Boyut">
 
 <!ENTITY detail.checkForUpdates.label         "Güncellemeleri denetle">
