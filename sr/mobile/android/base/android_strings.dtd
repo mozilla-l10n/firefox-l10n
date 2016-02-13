@@ -172,8 +172,8 @@
 <!ENTITY pref_category_advanced "Напредно">
 <!ENTITY pref_category_advanced_summary2 "Обнова језичака, прикључци, алати за развој">
 <!ENTITY pref_developer_remotedebugging "Отклањање грешака">
-<!ENTITY pref_developer_remotedebugging_usb "Отклањање грешака преко USB">
-<!ENTITY pref_developer_remotedebugging_wifi "Отклањање грешака преко Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_usb "USB отклањање греш.">
+<!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi отклањање греш.">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi отклањање грешака захтева да уређај има инсталиран читач QR кода.">
 <!ENTITY pref_remember_signons2 "Запамти пријаве">
 <!ENTITY pref_manage_logins "Управљање пријавама">
@@ -191,7 +191,7 @@
 <!ENTITY pref_home_updates "Аутоматско ажурирање">
 <!ENTITY pref_home_updates_enabled "Омогућено">
 <!ENTITY pref_home_updates_wifi "Само преко Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Прикажи предлоге сајта">
+<!ENTITY pref_home_suggested_sites "Предлози сајта">
 <!ENTITY pref_home_suggested_sites_summary "На почетној страници приказује пречице оних сајтова за које мислимо да ће бити интересантни">
 <!ENTITY pref_category_home_homepage "Почетна страница">
 <!ENTITY home_homepage_title "Постави као почетну страницу">
@@ -274,11 +274,11 @@
 <!ENTITY pref_char_encoding "Кодирање карактера">
 <!ENTITY pref_char_encoding_on "Прикажи мени">
 <!ENTITY pref_char_encoding_off "Немој приказати мени">
-<!ENTITY pref_clear_private_data "Обриши приватне податке">
+<!ENTITY pref_clear_private_data "Обриши приватне под.">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Обриши сада">
-<!ENTITY pref_clear_on_exit_title3 "Обриши приватне податке при изласку">
+<!ENTITY pref_clear_on_exit_title3 "Брисање на изласку">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ће аутоматски обрисати податке сваки пут када изаберете Изађи из главног менија">
 <!ENTITY pref_clear_on_exit_dialog_title "Изаберите који подаци да се бришу">
 <!ENTITY pref_plugins "Прикључци">
@@ -306,7 +306,7 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Брза наранџаста лисица надмашује ваша очекивања са више брзине, више флексибилности и више сигурности. Као непрофитни, ми смо слободни да иновирамо у ваше име без икаквог притиска на компромис. Самим тим имате бољи доживљај и обезбеђујемо светлију будућност за веб.">
 
-<!ENTITY pref_media_autoplay_enabled "Дозволи аутоматску репродукцију">
+<!ENTITY pref_media_autoplay_enabled "Аутоматска репродукцију">
 <!ENTITY pref_media_autoplay_enabled_summary "Контролишите да ли веб сајтови могу да аутоматски репродукују видео или други медија садржај">
 <!ENTITY pref_zoom_force_enabled "Увек укључи увеличавање">
 <!ENTITY pref_zoom_force_enabled_summary "Форсирај могућност увећавања било које странице">
@@ -318,8 +318,8 @@ size. -->
 <!ENTITY pref_use_master_password "Користи главну лозинку">
 <!ENTITY pref_sync2 "Пријави се">
 <!ENTITY pref_sync_summary2 "Синхронизација језичака, забелешки, пријава, историјата">
-<!ENTITY pref_search_suggestions "Прикажи предлоге претраге">
-<!ENTITY pref_history_search_suggestions "Прикажи историју претраге">
+<!ENTITY pref_search_suggestions "Предлози претраге">
+<!ENTITY pref_history_search_suggestions "Историја претраге">
 <!ENTITY pref_import_options "Поставке увоза">
 <!ENTITY pref_import_android_summary "Увезите забелешке и историју са нативног прегледача">
 <!ENTITY pref_private_data_history2 "Историја прегледа">
@@ -372,7 +372,7 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Извештач о рушењу">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; Сервис за локацију">
+<!ENTITY datareporting_wifi_title2 "Сервис за локацију">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Помозите &vendorShortName; да мапира свет! Поделите приближну Wi-Fi и мобилну локацију вашег уређаја да би унапредили сервис геолокације.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -516,9 +516,9 @@ size. -->
 <!ENTITY button_cancel "Откажи">
 <!ENTITY button_yes "Да">
 <!ENTITY button_no "Не">
-<!ENTITY button_clear_data "Очисти податке">
+<!ENTITY button_clear_data "Обриши податке">
 <!ENTITY button_set "Постави">
-<!ENTITY button_clear "Очисти">
+<!ENTITY button_clear "Обриши">
 <!ENTITY button_copy "Копирај">
 
 <!ENTITY home_top_sites_title "Популарни сајтови">
