@@ -66,9 +66,9 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
-<!ENTITY  historyHeader.remember.label     "ће бележити историјат">
-<!ENTITY  historyHeader.dontremember.label "никада неће бележити историјат">
-<!ENTITY  historyHeader.custom.label       "ће користити посебна подешавања за историјат">
+<!ENTITY  historyHeader.remember.label     "бележи историјат">
+<!ENTITY  historyHeader.dontremember.label "никада не бележи историјат">
+<!ENTITY  historyHeader.custom.label       "користи посебна подешавања за историјат">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ће запамтити историјат прегледања, преузимања, формулара и претраге и чуваће колачиће са веб сајтова које посећујете.">

@@ -178,7 +178,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Десни клик или мени за приказ историјата">
 <!ENTITY backForwardButtonMenuMac.tooltip "Падајући мени показује историјат">
 <!ENTITY reloadCmd.label              "Опет учитај">
-<!ENTITY reloadButton.tooltip         "Обнови текућу страницу">
+<!ENTITY reloadButton.tooltip         "Обнови тренутну страницу">
 <!ENTITY stopCmd.label                "Стани">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Заустави учитавање странице">
@@ -580,7 +580,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.label           "Сачувај слику као…">
 <!ENTITY saveImageCmd.accesskey       "л">
 <!ENTITY saveVideoCmd.label           "Сачувај видео као…">
-<!ENTITY saveVideoCmd.accesskey       "в">
+<!ENTITY saveVideoCmd.accesskey       "ч">
 <!ENTITY saveAudioCmd.label           "Сачувај аудио као…">
 <!ENTITY saveAudioCmd.accesskey       "а">
 <!ENTITY emailImageCmd.label          "Шаљи слику…">
@@ -622,7 +622,7 @@ items are mutually exclusive. -->
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Пригуши">
-<!ENTITY mediaMute.accesskey         "П">
+<!ENTITY mediaMute.accesskey         "г">
 <!ENTITY mediaUnmute.label           "Пусти тон">
 <!ENTITY mediaUnmute.accesskey       "т">
 <!ENTITY mediaPlaybackRate.label     "Брзина пуштања">
@@ -642,13 +642,13 @@ fast. -->
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Прикажи контроле">
-<!ENTITY mediaShowControls.accesskey "к">
+<!ENTITY mediaShowControls.accesskey "л">
 <!ENTITY mediaHideControls.label     "Сакриј контроле">
 <!ENTITY mediaHideControls.accesskey "С">
 <!ENTITY videoFullScreen.label       "Користи цео екран">
 <!ENTITY videoFullScreen.accesskey   "ц">
 <!ENTITY videoSaveImage.label        "Сачувај слику као…">
-<!ENTITY videoSaveImage.accesskey    "и">
+<!ENTITY videoSaveImage.accesskey    "о">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
