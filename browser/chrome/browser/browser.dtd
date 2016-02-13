@@ -759,7 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Bu siteye bağlantınız size özel değil. Gönderdiğiniz bilgiler (parolalar, mesajlar, kredi kartı bilgileri vb.) başkaları tarafından görülebilir.">
-<!ENTITY identity.description.insecureLoginForms "Bu sayfaya yazdığınız giriş bilgileri güvende değildir ve saldırganlar tarafından ele geçirilebilir.">
+<!ENTITY identity.description.insecureLoginForms "Bu sayfaya yazdığınız hesap bilgileri güvende değildir ve saldırganlar tarafından ele geçirilebilir.">
 <!ENTITY identity.description.weakCipher "Bu siteye bağlatnınız zayıf bir şifreleme kullanıyor ve size özel değil.">
 <!ENTITY identity.description.weakCipher2 "Başkaları bilgilerinizi görebilir veya web sitesinin davranışını değiştirebilir.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
