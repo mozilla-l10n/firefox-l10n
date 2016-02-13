@@ -5,61 +5,16 @@
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Połącz z &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Dodaj konto &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Sparuj urządzenie">
 
 <!ENTITY sync.subtitle.connect.label "Aby aktywować nowe urządzenie, wybierz na nim opcję „Skonfiguruj &syncBrand.shortName.label;”.">
-<!ENTITY sync.subtitle.header2.label "Wpisz ten kod na innym urządzeniu">
-<!ENTITY sync.subtitle.connectlocation2.label "Wybierz “&sync.title.pair.label;” w sekcji &syncBrand.shortName.label; w ustawieniach Firefoksa na innym urządzeniu.">
 <!ENTITY sync.subtitle.pair.label "Aby aktywować, na innym urządzeniu wybierz „Sparuj urządzenie”.">
 <!ENTITY sync.pin.default.label "…\n…\n…\n">
-<!ENTITY sync.pin.oneline.label "…">
-<!ENTITY sync.link.show.label "Instrukcje">
-<!ENTITY sync.link.advancedsetup.label "Konfiguracja zaawansowana…">
 <!ENTITY sync.link.nodevice.label "Nie mam przy sobie tego urządzenia…">
 
-<!ENTITY sync.jpake.subtitle.waiting.label "Oczekiwanie na urządzenie…">
-
-<!ENTITY sync.subtitle.account.label "Wprowadź dane konta &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Nazwa konta">
-<!ENTITY sync.input.password.label "Hasło">
-<!ENTITY sync.input.key.label "Klucz odzyskiwania">
-<!ENTITY sync.checkbox.server.label "Użyj innego serwera">
-<!ENTITY sync.input.server.label "URL serwera">
-
-<!ENTITY sync.title.fail.label "Nie można skonfigurować usługi &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; nie mógł nawiązać połączenia z usługą Sync. Spróbować ponownie?">
-<!ENTITY sync.button.tryagain.label "Spróbuj ponownie">
-<!ENTITY sync.button.manual.label "Skonfiguruj ręcznie">
-<!ENTITY sync.subtitle.nointernet.label "Brak połączenia z Internetem.">
-<!ENTITY sync.subtitle.failaccount.label "Nie udało się utworzyć konta na tym urządzeniu.">
-<!ENTITY sync.subtitle.failmultiple.label "Czy zainstalowano więcej niż jednego Firefoksa? &syncBrand.fullName.label; obsługuje obecnie tylko jedną instalację naraz. Aby skorzystać z usługi &syncBrand.shortName.label;, odinstaluj pozostałe instancje.">
-
-<!ENTITY sync.title.success.label "Konfiguracja zakończona">
-<!ENTITY sync.subtitle.success.label1 "Twoje dane zostaną pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem, lub zacznij korzystać z przeglądarki &brandShortName;.">
-<!ENTITY sync.settings.label "Ustawienia">
-<!ENTITY sync.subtitle.manage.label1 "Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać, lub uruchom przeglądarkę &brandShortName;.">
-
-<!ENTITY sync.pair.tryagain.label "Spróbuj ponownie.">
-<!ENTITY sync.pair.connectlocation.label "Aby aktywować nowe urządzenie, wybierz na nim „Skonfiguruj &syncBrand.shortName.label;”, a następnie wybierz “Mam już konto”.">
-
-<!ENTITY sync.settings.options.label "Ustawienia">
-<!ENTITY sync.summary.pair.label "Dodaj inne urządzenie do twojego konta &syncBrand.shortName.label;">
-
-<!ENTITY sync.configure.engines.title.label "Co synchronizować">
-<!ENTITY sync.configure.engines.sync.my.title.label "Synchronizuj…">
-<!ENTITY sync.configure.engines.title.bookmarks "Zakładki">
 <!ENTITY sync.configure.engines.title.passwords2 "Dane logowania">
 <!ENTITY sync.configure.engines.title.history "Historia przeglądania">
 <!ENTITY sync.configure.engines.title.tabs "Karty">
-
-<!ENTITY sync.button.cancel.label "Anuluj">
-<!ENTITY sync.button.connect.label "Połącz">
-<!ENTITY sync.button.ok.label "OK">
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (przestarzałe)">
 
 <!ENTITY sync.default.client.name "&formatS1; w urządzeniu &formatS2;">
 
@@ -73,17 +28,6 @@
 <!ENTITY bookmarks.folder.readinglist.label "Do przeczytania">
 <!ENTITY bookmarks.folder.pinned.label "Przypięte">
 
-<!ENTITY sync.notification.oneaccount.label "Można używać tylko jednego konta &syncBrand.fullName.label; naraz.">
-<!ENTITY sync.notification.configure.saved "Ustawienia zapisano.">
-
-<!ENTITY sync.new.recoverykey.status.incorrect "Nieprawidłowy klucz odzyskiwania. Spróbuj ponownie.">
-<!ENTITY sync.invalidcreds.label "Niepoprawne hasło lub nazwa konta.">
-<!ENTITY sync.invalidserver.label "Wprowadź poprawny adres URL serwera.">
-<!ENTITY sync.verifying.label "Weryfikacja…">
-
-<!ENTITY sync.title.send.tab.label "Wyślij karty na urządzenia">
-<!ENTITY sync.button.send.label "Wyślij">
-<!ENTITY sync.button.set.up.sync.label "Skonfiguruj &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Aby wysłać kart, skonfiguruj &syncBrand.shortName.label;.">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Aby wysłać karty na inne urządzenia, skonfiguruj &syncBrand.fullName.label; na swoim urządzeniu.">
 <!ENTITY sync.text.tab.sent.label "Karta wysłana!">
