@@ -80,20 +80,18 @@
 
 <!ENTITY fontSizeMenu.label         "Rozmiar czcionki">
 <!ENTITY fontSizeMenu.accesskey     "R">
-<!ENTITY size-xx-smallCmd.label     "Malutki">
-<!ENTITY size-xx-smallCmd.accesskey "l">
-<!ENTITY size-x-smallCmd.label      "Bardzo mały">
-<!ENTITY size-x-smallCmd.accesskey  "a">
-<!ENTITY size-smallCmd.label        "Mały">
-<!ENTITY size-smallCmd.accesskey    "M">
-<!ENTITY size-mediumCmd.label       "Średni">
-<!ENTITY size-mediumCmd.accesskey   "r">
-<!ENTITY size-largeCmd.label        "Duży">
-<!ENTITY size-largeCmd.accesskey    "D">
-<!ENTITY size-x-largeCmd.label      "Bardzo duży">
-<!ENTITY size-x-largeCmd.accesskey  "B">
-<!ENTITY size-xx-largeCmd.label     "Wielki">
-<!ENTITY size-xx-largeCmd.accesskey "e">
+<!ENTITY size-tinyCmd.label "Bardzo mały">
+<!ENTITY size-tinyCmd.accesskey "a">
+<!ENTITY size-smallCmd.label "Mały">
+<!ENTITY size-smallCmd.accesskey "M">
+<!ENTITY size-mediumCmd.label "Średni">
+<!ENTITY size-mediumCmd.accesskey "r">
+<!ENTITY size-largeCmd.label "Duży">
+<!ENTITY size-largeCmd.accesskey "D">
+<!ENTITY size-extraLargeCmd.label "Bardzo duży">
+<!ENTITY size-extraLargeCmd.accesskey "B">
+<!ENTITY size-hugeCmd.label "Wielki">
+<!ENTITY size-hugeCmd.accesskey "e">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label           "Styl tekstu">
@@ -306,6 +304,7 @@
 <!ENTITY HighlightColorButton.tooltip  "Wybierz kolor podświetlenia dla tekstu">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ustaw rozmiar czcionki">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mniejszy rozmiar czcionki">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Większy rozmiar czcionki">
 <!ENTITY boldToolbarCmd.tooltip        "Pogrubienie">
