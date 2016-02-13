@@ -27,7 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "е">
 <!ENTITY retentionKeepRecent.label "Удалять все, кроме последних">
 <!ENTITY retentionKeepRecent.accesskey "я">
-<!ENTITY retentionKeepUnreadHidden.label "Всегда удалять прочитанные сообщения (игнорировать возраст сообщений)">
 <!ENTITY retentionApplyToFlagged.label "Всегда хранить сообщения, отмеченные звёздочкой">
 <!ENTITY retentionApplyToFlagged.accesskey "с">
 <!ENTITY nntpRemoveMsgBody.label "Удалять содержимое из сообщений, хранящихся дольше">

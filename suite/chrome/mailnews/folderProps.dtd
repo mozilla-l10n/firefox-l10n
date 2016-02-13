@@ -28,7 +28,6 @@
 <!ENTITY retentionKeepAll.accesskey "я">
 <!ENTITY retentionKeepRecent.label "Последние">
 <!ENTITY retentionKeepRecent.accesskey "л">
-<!ENTITY retentionKeepUnreadHidden.label "Всегда удалять прочитанные сообщения (игнорировать возраст сообщений)">
 <!ENTITY retentionApplyToFlagged.label "Всегда хранить сообщения, отмеченные флагом">
 <!ENTITY retentionApplyToFlagged.accesskey "х">
 <!ENTITY folderSynchronizationTab.label "Синхронизация">
