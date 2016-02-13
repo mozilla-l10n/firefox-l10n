@@ -407,17 +407,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "အကူအညီမီနူးအားဖွင့်">
 
 <!ENTITY appMenuRemoteTabs.label "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "သိမ်းထားသည့် တဗ်များကို ရယူနေသည်…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "ဖွင့်ထားသည့်တဗ်များ မရှိပါ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "သင့်အခြား ကိရိယာများမှ တဗ်စာရင်းကို ကြည့်ရန် တဗ်ထပ်တူပြုအသုံးပြုခြင်းကို ဖွင့်ပါ။">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "သင့်အခြားကိရိယာများရှိ တဗ်များကို ဒီမှာကြည့်ရန် ထိုကိရိယာများရှိ မီးမြေခွေးသို့ ဝင်ရောက်ပါ။">
+<!ENTITY appMenuRemoteTabs.openprefs.label "ထပ်တူပြုပြိုင်တူအသုံးပြုရန် ရွေးချယ်နိုင်သည်များ">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "သင့်အခြားကိရိယာများရှိ တဗ်စာရင်းကို ကြည့်ရန် ဝင်ရောက်ပါ။">
+<!ENTITY appMenuRemoteTabs.signin.label "တပြေးညီဖြစ်စေရန် ဝင်ရောက်ပါ">
 
 <!ENTITY customizeMenu.addToToolbar.label "Aတူးဘားသို့ပေါင်းထည့်">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -746,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "ဒီစာမျက်နှာကို သင့်ကွန်ပြူတာတွင် သိမ်းထားသည်။">
 <!ENTITY identity.connectionVerified1 "သင်သည် ဒီဆိုက်ကို လုံခြုံစွာ ချိတ်ဆက်နိုင်ခဲ့သည်။ ဆောင်ရွက်သူ။:">
 <!ENTITY identity.connectionInternal "ဒီ &brandShortName; စာမျက်နှာသည် လုံခြုံစိတ်ချရသည်။">
-
+<!ENTITY identity.insecureLoginForms2 "ဒီစာမျက်နှာကို ဝင်ရောက်ရာတွင် အသုံးပြုသည့် အချက်အလက်များသည် တိုက်ခိုက်ခိုးယူခံရနိုင်သည်။">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ၏ အစိတ်အပိုင်းတချို့သည် မလုံခြုံသောကြောင့် ၄င်းကို တားဆီးထားသည်။">
@@ -781,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "မီးမြေခွေးရှိဝတ်စာမျက်နှာများ">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
 
 <!ENTITY syncBrand.shortName.label    "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 
