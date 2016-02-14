@@ -55,7 +55,7 @@
 
 <!ENTITY httpCache.label                 "Önbelleğe alınmış web içeriği">
 
-<!ENTITY offlineStorage2.label           "Çevrim dışı web içeriği ve kullanıcı verileri">
+<!ENTITY offlineStorage2.label           "Çevrimdışı web içeriği ve kullanıcı verileri">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -101,11 +101,11 @@
 <!ENTITY offlineNotifyExceptions.label   "Ayrıcalıklar…">
 <!ENTITY offlineNotifyExceptions.accesskey "c">
 
-<!ENTITY offlineAppsList2.label          "Aşağıdaki web sitelerinin çevrim dışı kullanım için veri depolamasına izin verilmiştir:">
+<!ENTITY offlineAppsList2.label          "Aşağıdaki web sitelerinin çevrimdışı kullanım için veri depolamasına izin verilmiştir:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Kaldır…">
 <!ENTITY offlineAppsListRemove.accesskey "r">
-<!ENTITY offlineAppRemove.confirm        "Çevrim dışı verileri sil">
+<!ENTITY offlineAppRemove.confirm        "Çevrimdışı verileri sil">
 
 <!ENTITY certificateTab.label            "Sertifikalar">
 <!ENTITY certSelection.label             "İstekler">

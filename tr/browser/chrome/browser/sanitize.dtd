@@ -56,7 +56,7 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "z">
 <!ENTITY itemCache.label                   "Önbellek">
 <!ENTITY itemCache.accesskey               "n">
-<!ENTITY itemOfflineApps.label             "Çevrim dışı site verileri">
+<!ENTITY itemOfflineApps.label             "Çevrimdışı site verileri">
 <!ENTITY itemOfflineApps.accesskey         "s">
 <!ENTITY itemActiveLogins.label            "Etkin hesaplar">
 <!ENTITY itemActiveLogins.accesskey        "h">
