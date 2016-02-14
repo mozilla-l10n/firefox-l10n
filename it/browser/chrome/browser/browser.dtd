@@ -358,6 +358,8 @@
 <!ENTITY openFrameCmdInTab.accesskey "c">
 <!ENTITY openFrameCmd.label "Apri riquadro in nuova finestra">
 <!ENTITY openFrameCmd.accesskey "A">
+<!ENTITY openLinkCmdInContainerTab.label "Apri link in nuova scheda contenitore">
+<!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label "Visualizza solo questo riquadro">
 <!ENTITY showOnlyThisFrameCmd.accesskey "V">
 <!ENTITY reloadCmd.commandkey "r">
