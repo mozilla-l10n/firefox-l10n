@@ -35,7 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Rasti įvykius">
 <!ENTITY showUnifinderCmd.accesskey             "R">
-
+<!ENTITY showUnifinderCmd.tooltip               "Rodyti/slėpti įvykių paieškos polangį">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Rodyti darbus kalendoriuje">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "R">
