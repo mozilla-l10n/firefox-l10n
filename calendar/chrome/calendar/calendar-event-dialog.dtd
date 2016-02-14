@@ -147,7 +147,7 @@
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Įrašyti ir užverti">
-<!ENTITY  event.toolbar.delete.label                      "Pašalinti">
+<!ENTITY  event.toolbar.delete.label                      "Šalinti">
 <!ENTITY  event.toolbar.attendees.label                   "Pakviesti dalyvius">
 <!ENTITY  event.toolbar.privacy.label                     "Viešumas">
 
