@@ -6,6 +6,7 @@
 <!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
 <!ENTITY safeb.palm.notforgery.label2 "Este sitio no es falso…">
 <!ENTITY safeb.palm.reportPage.label "¿Por qué fue bloqueada esta página?">
+<!ENTITY safeb.palm.whyForbidden.label "¿Por qué fue bloqueada esta página?">
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Página informada como ataque!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,6 +22,6 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta página web en <span id='unwanted_sitename'/> ha sido infromada que contiene software no deseado y ha sido bloqueada basada en tus preferencias de seguridad.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Páginas de software no deseado tratan de instalar software que puede ser engañoso y afectar a tu sistema en formas inesperadas.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title "Sitio prohibido">
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Sitio bloqueado">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc "El sitio web en <span id='forbidden_sitename'/> ha sido bloqueado según la configuración del navegador.">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "El sitio web en <span id='forbidden_sitename'/> ha sido bloqueado por el administrador del perfil.">
