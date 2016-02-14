@@ -149,6 +149,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Parinktus darbus pažymėti kaip užbaigtus">
 <!ENTITY calendar.task.priority.button.tooltip  "Keisti prioritetą">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Filtruoti darbus #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Vald+Lyg2+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
