@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "Učinite iskustvo pregledavanja mobilnog interneta stvarno jedinstvenim.">
 
 <!ENTITY firstrun_urlbar_message "Dobro došli u &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Pronađite stvari brže uz korisne prečice na prijedloge pretraživanja.">
+<!ENTITY firstrun_bookmarks_title "Povijest">
 
-
-
-
-
-
-
+<!ENTITY firstrun_bookmarks_subtext "Dobijte rezultate iz vaših zabilješki i povijesti kada pretražujete.">
+<!ENTITY firstrun_data_title "Podaci">
+<!ENTITY firstrun_data_message "Manje podataka, više ušteda">
+<!ENTITY firstrun_data_subtext "Blokirajte slike kako biste potrošili manje prometa na svakoj stranici koju posjetite.">
 <!ENTITY firstrun_sync_title "Sync">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, uvijek na vašoj strani">
+<!ENTITY firstrun_sync_subtext "Sinkronizirajte vaše kartice, lozinke i više, bilo gdje ga koristite.">
+<!ENTITY firstrun_signin_message "Povežite se, započnite">
+<!ENTITY firstrun_signin_button "Prijavite se u Sync">
 <!ENTITY  onboard_start_button_browser "Započni pregledavanje">
 <!ENTITY firstrun_button_next "Sljedeći">
 
@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Možete promijeniti kasnije u Postavkama">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Uključite dozvolu za crtanje preko drugih aplikacija">
 <!ENTITY tab_queue_prompt_positive_action_button "Omogući">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne sada">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Idite na Postavke">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 kartica na čekanju">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Kako biste otvorili višestruke poveznice, omogućite \u0027Crtaj preko drugih aplikacija\u0027 dozvolu za &brandShortName;">
 
 <!ENTITY pref_char_encoding "Kodna stranica">
 <!ENTITY pref_char_encoding_on "Prikaži izbornik">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Nedavno korištene kartice se pojave ovdje.">
 <!ENTITY home_open_all "Otvori sve">
 <!ENTITY home_most_recent_empty "Ovdje se pojavljuju web stranice koje ste zadnje posjetili.">
-
+<!ENTITY home_selected_empty "Web stranice koje ste posjetili u odabranom vremenskom razdoblju se ovdje prikazuju.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Šššš: korištenjem &formatS1;Nove privatne kartice&formatS2; neće se spremati vaša povijest.">
@@ -597,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Sigurna veza">
 <!ENTITY identity_connection_insecure "Nesigurna veza">
 <!ENTITY identity_login_insecure "Ova stranica nije sigurna i vaša prijava može biti ranjiva.">
-
+<!ENTITY identity_connection_chromeui "Ovo je sigurna &brandShortName; stranica">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; je blokirao nesigurni sadržaj na ovoj stranici.">
@@ -621,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Privatni podaci očišćeni">
 <!ENTITY private_data_fail "Neki privatni podaci nisu mogli biti očišćeni">
 
+<!ENTITY bookmarkhistory_button_import "Uvoz">
 <!ENTITY bookmarkhistory_import_both "Uvoz zabilješki i povijesti 
 iz Androida">
 <!ENTITY bookmarkhistory_import_bookmarks "Uvoz zabilješki 
@@ -661,7 +666,10 @@ iz Androida">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Kako biste preuzeli datoteke i nadogradnje, dozvolite &brandShortName; dozvolu pristupa disku.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Dozvoli">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Nova gost sesija">
@@ -751,8 +759,8 @@ iz Androida">
 <!ENTITY restrictable_feature_advanced_settings_description "Ovo uključuje uvoz zabilješki, vraćanje kartica i automatska ažuriranja. Isključite za jednostavnije postavke podobne za bilo kojeg člana obitelji.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera i mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Dozvoljava članovima obitelji da se uključe u komunikaciju uživo na web stranicama.">
-
-
+<!ENTITY restrictable_feature_block_list "Popis blokiranja">
+<!ENTITY restrictable_feature_block_list_description "Blokirajte stranice koje uključuju osjetljiv sadržaj.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
