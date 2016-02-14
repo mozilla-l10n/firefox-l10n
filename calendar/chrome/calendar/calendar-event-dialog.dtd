@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Notificar a los asistentes">
+<!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Invitaciones separadas por asistente">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "I">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opción envía un correo de invitación por cada asistente. Cada invitación solamente contiene como destinatario al asistente como para que las identidades de los otros asistentes no se divulguen.">
 
 
@@ -138,7 +140,11 @@
 <!ENTITY event.email.attendees.label                      "Redactar correo electrónico a todos los participantes…">
 <!ENTITY event.email.attendees.accesskey                  "T">
 <!ENTITY event.email.tentative.attendees.label            "Redactar correo electrónico a los participantes indecisos…">
-<!ENTITY event.email.tentative.attendees.accesskey        "R">
+<!ENTITY event.email.tentative.attendees.accesskey        "c">
+<!ENTITY event.remove.attendees.label2                    "Eliminar todos los asistentes">
+<!ENTITY event.remove.attendees.accesskey                 "r">
+<!ENTITY event.remove.attendee.label                      "Eliminar asistente">
+<!ENTITY event.remove.attendee.accesskey                  "E">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Guardar y cerrar">
@@ -355,6 +361,7 @@
 <!ENTITY event.attendee.usertype.group          "Grupo">
 <!ENTITY event.attendee.usertype.resource       "Recurso">
 <!ENTITY event.attendee.usertype.room           "Salón">
+<!ENTITY event.attendee.usertype.unknown        "Desconocido">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Especifique el huso horario">
