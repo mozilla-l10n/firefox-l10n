@@ -8,15 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "D">
 
 <!ENTITY lightning.toolbar.sync.label "Sinchronizuoti">
-
+<!ENTITY lightning.toolbar.sync.tooltip "Atsiųsti kalendorius iš naujo ir sinchronizuoti pakeitimus">
 <!ENTITY lightning.toolbar.delete.label "Pašalinti">
-
+<!ENTITY lightning.toolbar.delete.tooltip "Šalinti pažymėtus įvykius ar darbus">
 <!ENTITY lightning.toolbar.edit.label "Taisyti">
-
-
-
+<!ENTITY lightning.toolbar.edit.tooltip "Keisti pažymėtą įvykį ir darbą">
+<!ENTITY lightning.toolbar.gototoday.label "Eiti į šiandieną">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Eiti į šios dienos kalendorių">
 <!ENTITY lightning.toolbar.print.label "Spausdinti">
-
+<!ENTITY lightning.toolbar.print.tooltip "Spausdinti įvykius arba darbus">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Kalendorius">
