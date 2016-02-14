@@ -148,7 +148,7 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "Ei löytynyt muita Firefox-tiliin liitettyjä laitteita">
 
-<!ENTITY pref_category_search3 "Haku">
+<!ENTITY pref_category_search3 "Hakeminen">
 <!ENTITY pref_category_search_summary "Muokkaa hakupalveluita">
 <!ENTITY pref_category_accessibility "Esteettömyys">
 <!ENTITY pref_category_accessibility_summary2 "Tekstin koko, zoomaus, puhesyöte">
