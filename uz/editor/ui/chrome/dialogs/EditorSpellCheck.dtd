@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "A">
 <!ENTITY replaceAllButton.label "Barchasini almashtirish">
 <!ENTITY replaceAllButton.accessKey "B">
-
-
+<!ENTITY stopButton.label "To‘xtatish">
+<!ENTITY stopButton.accessKey "o">
 <!ENTITY userDictionary.label "Shaxsiy lug‘at:">
 <!ENTITY moreDictionaries.label "Boshqa lug‘atlarni yuklab olish…">
 <!ENTITY addToUserDictionaryButton.label "So‘z qo‘shish">
 <!ENTITY addToUserDictionaryButton.accessKey "q">
 <!ENTITY editUserDictionaryButton.label "Tahrirlash…">
 <!ENTITY editUserDictionaryButton.accessKey "T">
-
-
+<!ENTITY recheckButton2.label "Matnni qayta tekshirish">
+<!ENTITY recheckButton2.accessKey "M">
 <!ENTITY closeButton.label "Yopish">
 <!ENTITY closeButton.accessKey "Y">
 <!ENTITY sendButton.label "Jo‘natish">
