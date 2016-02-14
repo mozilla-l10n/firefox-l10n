@@ -69,7 +69,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "z">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Çevrim dışı çalış">
+<!ENTITY goOfflineCmd.label "Çevrimdışı çalış">
 <!ENTITY goOfflineCmd.accesskey "d">
 
 <!ENTITY menubarCmd.label "Menü çubuğu">
