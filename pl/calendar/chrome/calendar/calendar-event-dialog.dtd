@@ -32,7 +32,9 @@
 <!ENTITY newtodo.percentcomplete.label      "&#37; wykonania">
 
 <!ENTITY event.attendees.notify.label "Powiadom uczestników">
+<!ENTITY event.attendees.notify.accesskey "P">
 <!ENTITY event.attendees.notifyundisclosed.label "Osobne zaproszenia dla uczestników">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "O">
 <!ENTITY event.attendees.notifyundisclosed.tooltip "Gdy włączone, uczestnicy dostaną zaproszenia w oddzielnych wiadomościach e-mail i nie dowiedzą się z nich o innych zaproszonych uczestnikach.">
 
 <!-- Keyboard Shortcuts -->
