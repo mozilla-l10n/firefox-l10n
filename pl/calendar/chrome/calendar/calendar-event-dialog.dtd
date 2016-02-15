@@ -139,7 +139,7 @@
 <!ENTITY event.email.attendees.accesskey                  "w">
 <!ENTITY event.email.tentative.attendees.label            "Napisz e-mail do niezdecydowanych uczestników…">
 <!ENTITY event.email.tentative.attendees.accesskey        "n">
-<!ENTITY event.remove.attendees.label "Usuń wszystkich uczestników…">
+<!ENTITY event.remove.attendees.label2 "Usuń wszystkich uczestników">
 <!ENTITY event.remove.attendees.accesskey "U">
 <!ENTITY event.remove.attendee.label "Usuń uczestnika">
 
