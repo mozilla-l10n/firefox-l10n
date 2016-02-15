@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Varsle deltakere">
+<!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Egen invitasjon for hver deltaker">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Denne innstillingen sender en invitasjon for hver deltaker. Hver invitasjon inneholder bare informasjon om om den enkelte deltaker, slik at andre deltakere ikke vises.">
 
 <!-- Keyboard Shortcuts -->
@@ -138,9 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Skriv e-post til uvisse deltakere …">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
-<!ENTITY event.remove.attendees.label                     "Fjern alle deltakere ...">
+<!ENTITY event.remove.attendees.label2                    "Fjern alle deltakere">
 <!ENTITY event.remove.attendees.accesskey                 "F">
 <!ENTITY event.remove.attendee.label                      "Fjern deltaker">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Lagre og lukk">
@@ -168,7 +171,7 @@
 <!ENTITY event.calendar.label                             "Kalender:" >
 <!ENTITY event.calendar.accesskey                         "e">
 <!ENTITY event.attendees.label                            "Deltakere:" >
-<!ENTITY event.attendees.accesskey                        "D" >
+<!ENTITY event.attendees.accesskey                        "D">
 <!ENTITY event.alldayevent.label                          "Heldags hendelse" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Start:" >
