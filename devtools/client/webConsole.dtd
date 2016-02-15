@@ -42,7 +42,7 @@
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Feilichheid">
 <!ENTITY btnPageSecurity.tooltip "Log feilichheidsflaters en warskôgings">
-<!ENTITY btnPageSecurity.accesskey "S">
+<!ENTITY btnPageSecurity.accesskey "F">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
@@ -82,7 +82,7 @@
 <!ENTITY filterOutput.placeholder "Filter output">
 <!ENTITY btnClear.label        "Wiskje">
 <!ENTITY btnClear.tooltip      "Webkonsole-útfier wiskje">
-<!ENTITY btnClear.accesskey    "r">
+<!ENTITY btnClear.accesskey    "W">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
