@@ -34,6 +34,7 @@ nemet mar gouzoc'h perak ne vez ket implijet un hennadiñ fiziadus gant al lec'h
 <!ENTITY certerror.addException.label "Ouzhpennañ un nemedenn…">
 <!ENTITY certerror.copyToClipboard.label "Eilañ an destenn er golver">
 
+<!ENTITY errorReporting.automatic "Danevelliñ hevelep fazioù da sikour Mozilla da zeznaouiñ al lec'hiennoù droukkefluniet.">
 <!ENTITY errorReporting.sending "O kas an danevell">
 <!ENTITY errorReporting.sent "Danevell kaset">
 <!ENTITY errorReporting.tryAgain "Klask adarre">
