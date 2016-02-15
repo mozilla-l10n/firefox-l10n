@@ -266,7 +266,7 @@
 <!ENTITY calendar.context.showall.label                "Mussar tut ils chalenders">
 <!ENTITY calendar.context.showall.accesskey            "t">
 
-<!ENTITY calendar.context.convertmenu.label              "Convertar a">
+<!ENTITY calendar.context.convertmenu.label              "Convertir a">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
 <!ENTITY calendar.context.convertmenu.event.label        "Eveniment…">
