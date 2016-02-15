@@ -137,6 +137,9 @@
 <!ENTITY event.email.attendees.accesskey                  "w">
 <!ENTITY event.email.tentative.attendees.label            "Napisz e-mail do niezdecydowanych uczestników…">
 <!ENTITY event.email.tentative.attendees.accesskey        "n">
+<!ENTITY event.remove.attendees.label "Usuń wszystkich uczestników…">
+<!ENTITY event.remove.attendees.accesskey "U">
+<!ENTITY event.remove.attendee.label "Usuń uczestnika">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Zapisz i zamknij">
@@ -350,6 +353,7 @@
 <!ENTITY event.attendee.usertype.group "Grupa">
 <!ENTITY event.attendee.usertype.resource "Zasób">
 <!ENTITY event.attendee.usertype.room "Pokój">
+<!ENTITY event.attendee.usertype.unknown "Nieznany">
 
 <!-- Timezone dialog -->
 
