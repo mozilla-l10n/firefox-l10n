@@ -92,8 +92,8 @@
 <!ENTITY size-largeCmd.accesskey "G">
 <!ENTITY size-extraLargeCmd.label "Extragroß">
 <!ENTITY size-extraLargeCmd.accesskey "x">
-<!ENTITY size-hugeCmd.label "S">
-<!ENTITY size-hugeCmd.accesskey "Sehr groß">
+<!ENTITY size-hugeCmd.label "Sehr groß">
+<!ENTITY size-hugeCmd.accesskey "S">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Schriftschnitt">
@@ -310,7 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Farbe für hervorgehobenen Text wählen">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Schiftgröße setzen">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Schriftgröße setzen">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Kleinere Schriftgröße">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Größere Schriftgröße">
 <!ENTITY boldToolbarCmd.tooltip "Fett">

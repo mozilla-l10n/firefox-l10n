@@ -6,4 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Add-ons">
 <!ENTITY aboutDebugging.addonDebugging.label       "Debugging von Add-ons aktivieren">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Das Aktivieren dieser Einstellung ermöglicht das Debuggen von Add-ons und anderer Komponenten der Browser-Oberfläche.">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Add-ons temporär laden">
 <!ENTITY aboutDebugging.workers                    "Worker">

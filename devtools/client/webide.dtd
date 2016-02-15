@@ -75,6 +75,9 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "Meine Projekte">
 <!ENTITY projectPanel_runtimeApps "Apps in Laufzeitumgebung">
@@ -86,6 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "Simulator installieren">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper installieren">
 <!ENTITY runtimePanel_nousbdevice "Wird Ihr Gerät nicht angezeigt?">
+<!ENTITY runtimePanel_refreshDevices_label "Geräte neu erkennen">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "gültig">
