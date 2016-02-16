@@ -273,3 +273,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
+<!ENTITY old_sync_deprecated_notification_title "ताळमेळ ठेवण्यासाठी साईन इन करा">
+<!ENTITY old_sync_deprecated_notification_content "आपले खाते आता समर्थीत नाही">

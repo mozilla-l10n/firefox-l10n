@@ -11,15 +11,15 @@
 <!ENTITY  onboard_start_subtext3 "आपला मोबाईल वेब ब्राउझिंग अनुभव खऱ्या अर्थाने स्वतःचा बनवा.">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; मध्ये आपले स्वागत आहे">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "उपयुक्त शोध सूचना शॉर्टकट्सने गोष्टी जलद शोधा. ">
+<!ENTITY firstrun_bookmarks_title "इतिहास">
+<!ENTITY firstrun_bookmarks_message "आपले आवडते, अग्रभाग आणि मध्य">
+<!ENTITY firstrun_bookmarks_subtext "शोधताना आपल्या वाचनखुणा आणि इतिहासातुन शोध निष्कर्ष मिळवा.">
+<!ENTITY firstrun_data_title "माहिती">
+<!ENTITY firstrun_data_message "कमी डाटा, अधिक बचत">
+<!ENTITY firstrun_data_subtext "प्रत्येक साईट भेटीवर कमी माहिती खर्च करण्यासाठी प्रतिमा अडवा.">
 <!ENTITY firstrun_sync_title "ताळमेळ">
-
+<!ENTITY firstrun_sync_message "&brandShortName;, सदा आपल्याकडून">
 
 
 
