@@ -10,7 +10,7 @@
 <!ENTITY convertPlain2.accesskey      "c">
 <!ENTITY sendHTML2.label              "Het bericht alleen als HTML verzenden (dit kan weergaveproblemen veroorzaken)">
 <!ENTITY sendHTML2.accesskey          "H">
-<!ENTITY sendBoth2.label              "Het bericht zowel als platte tekst als als HTML verzenden (grotere berichtgrootte)">
+<!ENTITY sendBoth2.label              "Het bericht als platte tekst en HTML verzenden (groter bericht)">
 <!ENTITY sendBoth2.accesskey          "z">
 
 <!-- Html and Plain Text Domains  -->
