@@ -5,15 +5,16 @@
 <!ENTITY search.buttonlabel                   "Tikanöx">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "p">
 
 
 
 
 
-
-
-
-
+<!ENTITY listEmpty.search.label               "Man xe'ilitäj ta taq qasan ri nikixïm ki'.">
+<!ENTITY listEmpty.button.label               "Tetamäx ch'aqa' chik chi kij ri taq tz'aqat">
+<!ENTITY installAddonFromFile.label           "Tiyak ri tz'aqat rik'in ri yakb'äl…">
+<!ENTITY installAddonFromFile.accesskey       "T">
 <!ENTITY toolsMenu.tooltip                    "Taq kisamajib'al konojel ri taq tz'aqat">
 
 <!ENTITY cmd.back.tooltip                     "Rutzolixik jun ruxaq">
@@ -43,7 +44,8 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-
+<!ENTITY updates.updateAddonsAutomatically.label     "kek'ex taq tz'aqat pa kiyonil">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "k">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -57,7 +59,7 @@
 <!ENTITY updates.installed.label              "Xek'extäj re taq ak'exoj re'.">
 <!ENTITY updates.downloaded.label             "Xeq'at ri kik'exoj ri taq atz'aqat.">
 
-
+<!ENTITY updates.noneFound.label              "Majun taq k'exoj ruwäch xe'ilitäj ">
 <!ENTITY updates.manualUpdatesFound.label     "Ketz'et ri taq k'exoj e k'o">
 <!ENTITY updates.updateSelected.label         "Keyak taq k'exoj">
 
@@ -81,11 +83,11 @@
 <!ENTITY cmd.enableTheme.accesskey            "T">
 <!ENTITY cmd.disableTheme.label               "Tiq'at rokisaxik wachinel">
 <!ENTITY cmd.disableTheme.accesskey           "r">
+<!ENTITY cmd.askToActivate.label              "Tik'utüx richin nitzij">
 
 
 
-
-
+<!ENTITY cmd.neverActivate.label              "Majub'ey titzij">
 <!ENTITY cmd.neverActivate.tooltip            "Majub'ey tokisäx re tz'aqat re'">
 
 
@@ -102,7 +104,7 @@
 
 <!ENTITY cmd.showReleaseNotes.label           "Kek'ut pe ri ch'utaq rutzijol re ruwäch">
 
-
+<!ENTITY cmd.hideReleaseNotes.label           "Ke'ewäx taq rutziol ri ruwäch">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ke'ewäx ri taq rutzijol re ruwäch chi k'exoj re'">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -128,7 +130,7 @@
 
 
 <!ENTITY detail.repository                    "Ruwäch rub'i' tz'aqat">
-
+<!ENTITY detail.size                          "Nimilem">
 
 <!ENTITY detail.checkForUpdates.label         "Kekanöx taq k'exoj">
 <!ENTITY detail.checkForUpdates.accesskey     "t">
@@ -181,7 +183,7 @@
 
 
 <!ENTITY addon.includeUpdate.label            "Tiya' pa ri k'exoj">
-
+<!ENTITY addon.updateAvailable.label          "K'o jun k'exoj">
 <!ENTITY addon.checkingForUpdates.label       "Kijunamaxik taq jaloj">
 
 <!ENTITY addon.loadingReleaseNotes.label      "Tajin nok…">
@@ -204,13 +206,14 @@
 <!ENTITY experiment.info.learnmore "Retamaxik ch'aqa' chik">
 <!ENTITY experiment.info.learnmore.accesskey "K">
 
-
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 
 <!ENTITY disabledUnsigned.heading "Jujun taq tz'aqat xechup">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "Re taq tz'aqat re' man xenik'öx ta richin ye'okisáx pa &brandShortName;. Tatikïr">
 
 
 <!ENTITY disabledUnsigned.learnMore "Tetamäx ch'aqa' chik pa ruwi' ri qarayib'al richin yatqato' chi k'o achajinik pa k'amab'ey.">

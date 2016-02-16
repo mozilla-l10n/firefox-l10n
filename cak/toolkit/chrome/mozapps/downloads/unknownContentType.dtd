@@ -4,10 +4,12 @@
 <!ENTITY  from.label                  "aj:">
 
 
-
+<!ENTITY  openWith.label              "Tijaq rik'in">
+<!ENTITY  openWith.accesskey          "T">
 <!ENTITY  other.label                 "Juley chik…">
 
-
+<!ENTITY  saveFile.label              "Tiyak yakb'äl">
+<!ENTITY  saveFile.accesskey          "T">
 
 
 

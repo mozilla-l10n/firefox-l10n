@@ -4,7 +4,7 @@
 
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
-
+<!ENTITY checking.progress.label     "Tajin ninik'öx ri kik'amonik taq atz'aqat rik'in re ruwäch chi &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
@@ -28,7 +28,7 @@
 <!ENTITY confirm.description         "Tab'ana' chi ri &brandShortName; anin tisamäj toq xke'achüp ri taq tz'aqat man ye'awokisaj ta chik. Ri taq kitz'aqat juley chik winaqi', ri eyakon chik, kiyonil xkichuputäj, chuqa' tikirel we ye'acha' qa wakami.">
 
 
-
+<!ENTITY action.update.heading       "Re taq tz'aqat re' xekek'ex:">
 <!ENTITY action.enable.heading       "Xketz'ijtäj re taq tz'aqat re':">
 
 <!ENTITY update.heading              "Tajin yek'ex ri taq atz'aqat">
@@ -36,6 +36,7 @@
 
 
 
+<!ENTITY footer.label                "Junelïk yatikïr ye'akëx ri taq atz'aqat pa kinuk'samajel taq tz'aqat.">
 <!ENTITY cancel.label                "Q'atïk">
 
 <!ENTITY next.label                  "Jun chik">

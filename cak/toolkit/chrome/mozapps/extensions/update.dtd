@@ -24,9 +24,11 @@
 <!ENTITY  noupdates.intro.desc            "&brandShortName; majun taq k'exoj erilon richin ri taq 
 man nikik'äm ta  ki' tz'aqat.">
 <!ENTITY  noupdates.error.desc            "Xe'ilitäj jujun taq k'ayewal toq nutojtob'ej yerukanoj taq k'exoj.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; junelïk xtikanon chuqa' xtuya' rutzijol chawe toq 
+xkerïl taq k'exoj nikik'äm ki' kik'in re taq tz'aqat re'.">
 
-
-
+<!ENTITY  finished.wizard.title           "Taq tz'aqat nikik'äm ki', ri eyakon">
+<!ENTITY  finished.top.label              "&brandShortName; xeruyäk ri taq kik'exoj taq atz'aqat.">
 
 
 
