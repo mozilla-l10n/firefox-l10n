@@ -21,7 +21,7 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul>  
 <li>पत्ता टाईप करताना होणाऱ्या चुका एकदा तपासा उदाहरणार्थ  
-<strong>www</strong>.example.com च्या ऐवजी 
+<strong>www</strong>.example.com ऐवजी 
 <strong>ww</strong>.example.com</li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input>  
@@ -52,7 +52,7 @@
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>शोधा</button> 
 </div> 
-<li>आपण अग्रेषित स्लॅश वापरत असल्याची खात्री करा ( जसे 
+<li>आपण अग्रेषित स्लॅश वापरत असल्याची खात्री करा (जसे 
  <strong>/ </strong>).</li> 
 </ul>">
 
@@ -66,7 +66,7 @@
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul>  
-<li>परत प्रयत्न करा.&brandShortName; जोडणी उघडण्याचा प्रयत्न करेल आणि पृष्ठ रीलोड होईल.  
+<li>पुनःप्रयत्न करा.&brandShortName; जोडणी उघडण्याचा प्रयत्न करेल आणि पृष्ठ रीलोड होईल.  
 <button id='wifi'>वाय-फाय सक्षम करा</button>  
 </li> 
 </ul>">
@@ -140,7 +140,7 @@
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>हे संकेतस्थळ तात्पुरते उपलब्ध नाही किंवा खुपच व्यस्त आहे. काही क्षणानंतर, पुनःप्रयत्न करा.</li> 
-<li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या भ्रमणध्वनीचे माहिती किंवा वाय-फाय जोडणी तपासा. 
+<li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या भ्रमणध्वनी जोडणी किंवा वाय-फाय जोडणी तपासा. 
  <button id='wifi'>वाय-फाय सक्रीय करा</button> 
 </li> 
 </ul>">
@@ -168,6 +168,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "सुरक्षितरित्या जोडणी करण्यात अक्षम">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
