@@ -238,7 +238,7 @@
      sender for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.sender.label
-         "Відправником">
+         "Адресантом">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message

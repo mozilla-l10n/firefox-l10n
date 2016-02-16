@@ -48,9 +48,9 @@
 <!ENTITY deleteMessage.label "Видалити повідомлення">
 <!ENTITY deleteFromPOP.label "Видалити з POP-сервера">
 <!ENTITY fetchFromPOP.label "Завантажити з POP-сервера">
-<!ENTITY ignoreThread.label "Ігнорувати гілку">
-<!ENTITY ignoreSubthread.label "Ігнорувати підгілку">
-<!ENTITY watchThread.label "Відстежувати гілку">
+<!ENTITY ignoreThread.label "Ігнорувати розмову">
+<!ENTITY ignoreSubthread.label "Ігнорувати підрозмову">
+<!ENTITY watchThread.label "Відстежувати розмову">
 <!ENTITY stopExecution.label "Припинити роботу фільтра">
 
 <!ENTITY addAction.tooltip "Додати нову дію">
