@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Pažymėkite, jei norite įrašyti savo slaptažodį">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Peržiūrėti programos diegimo pranešimą">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Tvarkyti papildinių naudojimą tinklalapyje">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Pasirinkite, ar norite gauti pranešimus iš šios svetainės">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Tvarkyti kameros ir mikrofono naudojimą svetainėje">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Svetainei leidžiate naudoti jūsų kamerą ir (arba) mikrofoną">
@@ -749,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Šis tinklalapis yra įrašytas jūsų kompiuteryje.">
 <!ENTITY identity.connectionVerified1 "Esate saugiai prisijungę prie šios svetainės, kurią valdo:">
 <!ENTITY identity.connectionInternal "Tai yra saugus „&brandShortName;“ tinklalapis.">
-
+<!ENTITY identity.insecureLoginForms2 "Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "„&brandShortName;“ užblokavo nesaugias šio tinklalapio dalis.">
