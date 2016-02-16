@@ -749,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "War hoc'h urzhiataer eo kadavet ar bajenn-mañ.">
 <!ENTITY identity.connectionVerified1 "Kennasket oc'h en un doare diogel ouzh al lec'hienn, lañset gant :">
 <!ENTITY identity.connectionInternal "Ur bajenn &brandShortName; diarvar eo.">
-
+<!ENTITY identity.insecureLoginForms2 "Treuzvarc'het e c'hall bezañ an titouroù kennaskañ enanket er bajenn-mañ.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "Stanket eo bet gant &brandShortName; lodennoù arvarus er bajennad.">
