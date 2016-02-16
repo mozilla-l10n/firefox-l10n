@@ -27,7 +27,7 @@
 <!-- global warnings -->
 <!ENTITY warning.checkcompatibility.label          "Chupül ri runuk'oxik richin we nikik'äm ki' ri taq tz'aqat. Rik'in jub'a' k'o jujun taq tz'aqat, ri man nikik'äm ta ki'.">
 
-
+<!ENTITY warning.checkcompatibility.enable.tooltip "Titzij ri runik'oxik richin chi nikik'äm ki' ri taq tz'aqat.">
 <!ENTITY warning.updatesecurity.label              "Chupül ri runik'oxik chajinïk richin kik'exoj taq tz'aqat. Rik'in jub'a' k'o pa k'ayewal ri awokik'amaya'l kuma ri taq k'exoj.">
 
 <!ENTITY warning.updatesecurity.enable.tooltip     "Titzij ri ya'öl retal chajinïk richin nik'ex ri tz'aqat">
@@ -67,8 +67,8 @@
 
 <!ENTITY cmd.showDetails.label                "Kek'ut pe ch'aqa' chik rutzijol">
 <!ENTITY cmd.showDetails.accesskey            "K">
-
-
+<!ENTITY cmd.findUpdates.label                "Kekanöx taq k'exoj">
+<!ENTITY cmd.findUpdates.accesskey            "K">
 
 
 <!ENTITY cmd.preferencesUnix.label            "Taq ajowab'äl">
@@ -156,7 +156,7 @@
 
 
 
-
+<!ENTITY search.filter2.installed.label       "Taq nutz'aqat">
 
 <!ENTITY search.filter2.available.label       "Taq tz'aqat ri e k'o">
 <!ENTITY search.filter2.available.tooltip     "Kek'ut pe ri taq tzaqat e k'o richin yeyak">
@@ -187,7 +187,7 @@
 <!ENTITY addon.checkingForUpdates.label       "Kijunamaxik taq jaloj">
 
 <!ENTITY addon.loadingReleaseNotes.label      "Tajin nok…">
-
+<!ENTITY addon.errorLoadingReleaseNotes.label "Takuyu' qamak, xa xk'ulwachitäj jun sachoj toq tajin nok pa ch'utaq rutzijol ri ko'öl wuj.">
 
 <!ENTITY addon.createdBy.label                "Ruma">
 
@@ -196,6 +196,7 @@
 
 <!ENTITY eula.accept                          "Ütz chuqa' tiyak…">
 
+<!ENTITY settings.path.button.label           "Tinik'öx…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
