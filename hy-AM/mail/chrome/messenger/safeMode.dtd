@@ -14,8 +14,8 @@
 <!ENTITY resetToolbars.label              "Վերակայել գործիքագոտիները և կառավարիչները">
 <!ENTITY resetToolbars.accesskey          "Վ">
 
-<!ENTITY changeAndRestartButton.label     "Փոփոխել և վերագործարկել">
-<!ENTITY changeAndRestartButton.accesskey "M">
+<!ENTITY changeAndRestartButton.label     "Փոփոխել և Վերամեկնարկել">
+<!ENTITY changeAndRestartButton.accesskey "Փ">
 
 <!ENTITY continueButton.label             "Շարունակել անվտանգ եղանակով">
 <!ENTITY continueButton.accesskey         "C">

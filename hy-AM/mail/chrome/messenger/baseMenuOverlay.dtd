@@ -11,8 +11,8 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label     "Անսարքության տեղեկություններ">
 <!ENTITY helpTroubleshootingInfo.accesskey "Ա">
-<!ENTITY helpSafeMode.label     "Վերագործարկել հավելումներն անջատված…">
-<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY helpSafeMode.label     "Վերամեկնարկել հավելումներն անջատված…">
+<!ENTITY helpSafeMode.accesskey "Վ">
 <!ENTITY releaseCmd2.label "Թողարկման Նշումներ">
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Ի՞նչն է նոր">
