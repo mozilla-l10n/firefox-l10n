@@ -162,6 +162,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "Pranešdami apie tokias klaidas kaip ši, padėsite „Mozillai“ nustatyti ir užblokuoti kenksmingas svetaines">
 <!ENTITY errorReporting.learnMore "Sužinoti daugiau…">
 <!ENTITY errorReporting.sending "Siunčiamas pranešimas">
 <!ENTITY errorReporting.sent "Pranešimas išsiųstas">
@@ -173,10 +174,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Nepavyko prisijungti saugiai">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Papildoma informacija: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "Jūsų ryšys nėra saugus">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
+<!ENTITY weakCryptoUsed.longDesc2 "Papildoma informacija: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Papildomai">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Piktavalis galėtų lengvai perimti informaciją, kuri jūsų manymu buvo saugi.">
 <!ENTITY weakCryptoAdvanced.override "(Nesaugu) Bandyti įkelti <span class='hostname'></span> su pasenusia apsauga">
