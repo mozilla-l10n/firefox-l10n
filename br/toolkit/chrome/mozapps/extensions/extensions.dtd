@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "N'haller ket gwiriekaat lod eus an askouezhioù">
 <!ENTITY showAllExtensions.button.label       "Diskouez an holl askouezhioù">
-
-
+<!ENTITY debugAddons.label                    "Diveugañ an askouezhioù">
+<!ENTITY debugAddons.accesskey                "v">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "An holl askouezhioù zo bet diweredekaet gant ar mod diogelroez.">
