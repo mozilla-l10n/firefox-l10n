@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Convertar ad ina tabella">
+<!ENTITY windowTitle.label "Convertir ad ina tabella">
 <!ENTITY instructions1.label   "Composer creascha ina nova colonna da tabella per mintga paragraph ch'è marcà.">
 <!ENTITY instructions2.label   "Tscherna in segn ch'è utilisà per seperar il text marcà en colonnas:">
 <!ENTITY commaRadio.label      "Comma">
