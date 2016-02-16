@@ -171,6 +171,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "सुरक्षितरित्या जोडणी करण्यात अक्षम">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "आत्याधुनिक माहिती: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "आपली जोडणी असुरक्षित आहे">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "आत्याधुनिक माहिती: SSL_ERROR_NO_CYPHER_OVERLAP">
