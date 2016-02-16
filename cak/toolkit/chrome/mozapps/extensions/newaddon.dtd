@@ -7,7 +7,8 @@
 &brandShortName; rik'in re tz'aqat re':">
 <!ENTITY warning         "Ke'ayaka' taq tz'aqät xa xe kichin b'anonela' ri awetan kiwäch.">
 
-
+<!ENTITY later           "Yatikïr najalwachij ri atzij pa xab'a'achike ramaj, yab'e 
+pa kinuk'samajel taq tz'aqat.">
 <!ENTITY continue        "Titikir chik el">
 
 <!ENTITY restartButton   "Titikirisäx chik &brandShortName;">

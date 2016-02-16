@@ -14,7 +14,7 @@
 
 <!ENTITY stats.activity "Samaj">
 <!ENTITY stats.activityPaused "Tanab'an">
-
+<!ENTITY stats.activityPlaying "Tajin nitzij">
 
 <!ENTITY stats.activitySeeking "(tajin nikanöx)">
 <!ENTITY stats.volume "Ruch'ab'äl">
@@ -28,7 +28,7 @@
 <!ENTITY error.decode "Man tikirel ta nitz'et ri silowachib'äl ruma chi itzel ri yakb'äl.">
 
 <!ENTITY error.noSource2 "Majun silowachib'äl xelitäj, ri nikixïm ki' pa MIME rub'anikil chuqa' ruwäch.">
-
+<!ENTITY error.generic "Xpa'e' ri rutzijik silowachib'äl ruma jun sachoj ri man etaman ta.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

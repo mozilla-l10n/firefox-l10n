@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY search.buttonlabel                   "Tikanöx">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 
@@ -27,7 +27,7 @@
 <!ENTITY warning.checkcompatibility.label          "Chupül ri runuk'oxik richin we nikik'äm ki' ri taq tz'aqat. Rik'in jub'a' k'o jujun taq tz'aqat, ri man nikik'äm ta ki'.">
 
 
-
+<!ENTITY warning.updatesecurity.label              "Chupül ri runik'oxik chajinïk richin kik'exoj taq tz'aqat. Rik'in jub'a' k'o pa k'ayewal ri awokik'amaya'l kuma ri taq k'exoj.">
 
 <!ENTITY warning.updatesecurity.enable.tooltip     "Titzij ri ya'öl retal chajinïk richin nik'ex ri tz'aqat">
 <!-- global informations -->
@@ -54,7 +54,7 @@
 
 
 
-
+<!ENTITY updates.installed.label              "Xek'extäj re taq ak'exoj re'.">
 <!ENTITY updates.downloaded.label             "Xeq'at ri kik'exoj ri taq atz'aqat.">
 
 
@@ -86,7 +86,7 @@
 
 
 
-
+<!ENTITY cmd.neverActivate.tooltip            "Majub'ey tokisäx re tz'aqat re'">
 
 
 
@@ -103,7 +103,7 @@
 <!ENTITY cmd.showReleaseNotes.label           "Kek'ut pe ri ch'utaq rutzijol re ruwäch">
 
 
-
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Ke'ewäx ri taq rutzijol re ruwäch chi k'exoj re'">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -114,7 +114,7 @@
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Ruwäch">
-
+<!ENTITY detail.lastupdated.label             "Ruk'isib'äl k'exoj">
 <!ENTITY detail.creator.label                 "Nuk'unel">
 <!ENTITY detail.homepage.label                "Ruxaq tikirib'äl">
 <!ENTITY detail.numberOfDownloads.label       "Taq qasa’n">
@@ -156,9 +156,10 @@
 
 
 
-
+<!ENTITY search.filter2.available.label       "Taq tz'aqat ri e k'o">
 <!ENTITY search.filter2.available.tooltip     "Kek'ut pe ri taq tzaqat e k'o richin yeyak">
 
+<!ENTITY addon.homepage                       "Ruxaq tikirisab'äl">
 
 
 <!ENTITY addon.unknownDate                    "Man etaman ta ruwäch">
@@ -172,7 +173,7 @@
 <!ENTITY addon.update.postfix                 "Tik'ex">
 <!ENTITY addon.undoAction.label               "Titzolïx chi rij">
 <!ENTITY addon.undoAction.tooltip             "Titzolïx chi rij re jun samaj re'">
-
+<!ENTITY addon.undoRemove.label               "Titzolïx">
 
 <!ENTITY addon.restartNow.label               "Titzij chik wakami">
 <!ENTITY addon.install.label                  "Rujumik">
@@ -186,6 +187,7 @@
 <!ENTITY addon.loadingReleaseNotes.label      "Tajin nok…">
 
 
+<!ENTITY addon.createdBy.label                "Ruma">
 
 <!ENTITY eula.title                           "Taq rutzij ya'öl q'ij kichin ri ruk'isib'äl winäq okisanel">
 <!ENTITY eula.width                           "560px">
@@ -211,9 +213,10 @@
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 
 
-
+<!ENTITY disabledUnsigned.learnMore "Tetamäx ch'aqa' chik pa ruwi' ri qarayib'al richin yatqato' chi k'o achajinik pa k'amab'ey.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Nuk'unela' nikajo' yekinik'oj ri taq kitz'aqat, tikirel tikisik'ij ri qichin">
 
 

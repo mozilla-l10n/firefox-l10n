@@ -10,7 +10,7 @@
 &brandShortName; ruma toq xechup:">
 
 
-
+<!ENTITY  checking.top.label              "Tajin yekanöx taq k'exoj kichin ri taq atz'aqat man nikik'äm ta ki'…">
 
 
 
@@ -31,7 +31,9 @@ man nikik'äm ta  ki' tz'aqat.">
 
 
 <!ENTITY  adminDisabled.wizard.title      "Man tikirel ta yekanöx taq k'exoj">
-
+<!ENTITY  adminDisabled.warning.label     "Man tikirel ta yekanöx taq kik'exoj ri taq tz'aqat man nikik'äm ta ki' 
+ruma ri ruyakik kema' pa &brandShortName; xchup. 
+Tab'ana' utzil, katzijon rik'in ri runuk'samajel q'inoj richin nawïl ato'ik.">
 
 
 <!ENTITY  versioninfo.waiting             "Re re' rik'in jub'a' xtiyoke' jujun ch'utiramaj…">

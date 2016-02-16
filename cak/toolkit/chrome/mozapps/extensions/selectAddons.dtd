@@ -8,6 +8,7 @@
 
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
+<!ENTITY select.description          "Tab'ana' chi ri &brandShortName; anin tisamäj toq xke'achüp ri taq tz'aqat man ye'awokisaj ta chik. Ri taq kitz'aqat juley chik winaqi', ri eyakon chik, kiyonil xkichuputäj, chuqa' tikirel we ye'acha' qa wakami.">
 
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
@@ -24,6 +25,7 @@
 <!ENTITY confirm.heading             "Ke'acha' ri taq atz'aqat">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
+<!ENTITY confirm.description         "Tab'ana' chi ri &brandShortName; anin tisamäj toq xke'achüp ri taq tz'aqat man ye'awokisaj ta chik. Ri taq kitz'aqat juley chik winaqi', ri eyakon chik, kiyonil xkichuputäj, chuqa' tikirel we ye'acha' qa wakami.">
 
 
 
