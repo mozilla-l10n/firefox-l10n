@@ -24,7 +24,7 @@
 <!ENTITY never.accesskey              "і">
 <!ENTITY notInToCc.label              "Якщо я відсутній у списках «Кому» чи «Копія»:">
 <!ENTITY notInToCc.accesskey          "Я">
-<!ENTITY outsideDomain.label          "Якщо відправник перебуває поза моїм доменом:">
+<!ENTITY outsideDomain.label          "Якщо адресант перебуває поза моїм доменом:">
 <!ENTITY outsideDomain.accesskey      "к">
 <!ENTITY otherCases.label             "В інших випадках:">
 <!ENTITY otherCases.accesskey         "ш">

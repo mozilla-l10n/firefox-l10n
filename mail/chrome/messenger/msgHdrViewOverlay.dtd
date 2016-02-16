@@ -4,7 +4,7 @@
 
 <!ENTITY toField4.label "Кому ">
 <!ENTITY fromField4.label "Від ">
-<!ENTITY senderField4.label "Відправник ">
+<!ENTITY senderField4.label "Адресант">
 <!ENTITY organizationField4.label "Організація ">
 <!ENTITY replyToField4.label "Відповідати-до ">
 
@@ -27,7 +27,7 @@
 <!ENTITY hdrReplyButton1.label "Відповісти">
 <!ENTITY hdrReplyButton2.tooltip "Відповісти автору цього листа">
 <!ENTITY hdrReplyAllButton1.label "Відповісти всім">
-<!ENTITY hdrReplyAllButton1.tooltip "Відповісти відправнику та всім отримувачам">
+<!ENTITY hdrReplyAllButton1.tooltip "Відповісти адресанту та всім отримувачам">
 <!ENTITY hdrReplyListButton1.label "Відповісти списку">
 <!ENTITY hdrReplyListButton1.tooltip "Відповісти списку розсилки">
 <!ENTITY hdrFollowupButton1.label "Followup">
@@ -46,7 +46,7 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "з">
 <!ENTITY hdrViewToolbarShowText.label "Показувати лише текст">
 <!ENTITY hdrViewToolbarShowText.accesskey "л">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Завжди показувати Відповісти Відправнику">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Завжди показувати Відповісти Адресанту">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "В">
 
 <!ENTITY otherActionsButton2.label "More">

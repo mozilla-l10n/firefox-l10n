@@ -17,7 +17,7 @@
 <!ENTITY purge1.accesskey "д">
 <!ENTITY purge2.label "днів">
 
-<!ENTITY whitelistHeader.label "Не позначати пошту як спам, якщо відправник перебуває у: ">
+<!ENTITY whitelistHeader.label "Не позначати пошту як спам, якщо адресант перебуває у: ">
 <!ENTITY whitelistHeader.accesskey "і">
 
 <!ENTITY ispHeadersWarning.label "Якщо увімкути, то &brandShortName; буде вважати позначені цим зовнішнім класифікатором листи спамом автоматично.">

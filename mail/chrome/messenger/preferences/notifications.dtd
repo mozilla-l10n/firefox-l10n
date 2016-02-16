@@ -10,7 +10,7 @@
 <!ENTITY previewText.accesskey            "П">
 <!ENTITY subject.label                    "Тема">
 <!ENTITY subject.accesskey                "Т">
-<!ENTITY sender.label                     "Відправник">
+<!ENTITY sender.label                     "Адресант">
 <!ENTITY sender.accesskey                 "В">
 
 <!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then

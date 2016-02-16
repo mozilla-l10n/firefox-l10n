@@ -26,8 +26,8 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "Коли прибувають направлені вам повідомлення:">
 <!ENTITY  desktopChatNotifications.label      "Показувати сповіщення:">
 <!ENTITY  desktopChatNotifications.accesskey  "о">
-<!ENTITY  completeNotification.label          "з ім'ям відправника і переглядом повідомлення">
-<!ENTITY  buddyInfoOnly.label                 "лише з ім'ям відправника">
+<!ENTITY  completeNotification.label          "з ім'ям адресанта і переглядом повідомлення">
+<!ENTITY  buddyInfoOnly.label                 "лише з ім'ям адресанта">
 <!ENTITY  dummyNotification.label             "без жодної інформації">
 <!ENTITY  chatSound.accesskey                 "з">
 <!ENTITY  chatSound.label                     "Відтворювати звук">

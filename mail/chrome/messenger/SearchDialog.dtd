@@ -37,8 +37,8 @@
 <!ENTITY abSearchDialogTitle.label   "Розширений режим пошуку в адресній книзі">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Гілка">
-<!ENTITY fromColumn.label "Відправник">
+<!ENTITY threadColumn.label "Розмова">
+<!ENTITY fromColumn.label "Адресант">
 <!ENTITY recipientColumn.label "Адресат">
 <!ENTITY correspondentColumn.label "Correspondents">
 <!ENTITY subjectColumn.label "Тема">
@@ -60,7 +60,7 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Оберіть розмови для відображення">
 <!ENTITY threadColumn2.tooltip "Показати повідомлення розмови">
-<!ENTITY fromColumn2.tooltip "Сортувати за відправником">
+<!ENTITY fromColumn2.tooltip "Сортувати за адресантом">
 <!ENTITY recipientColumn2.tooltip "Сортувати за отримувачем">
 <!ENTITY correspondentColumn2.tooltip "Сортувати за кореспондентами">
 <!ENTITY subjectColumn2.tooltip "Сотртувати за темою">
@@ -71,8 +71,8 @@
 <!ENTITY statusColumn2.tooltip "Сортувати за статусом">
 <!ENTITY sizeColumn2.tooltip "Сортувати за роміром">
 <!ENTITY junkStatusColumn2.tooltip "Сортувати за небажаністю">
-<!ENTITY unreadColumn2.tooltip "Кількість непрочитаних повідомлень в темі">
-<!ENTITY totalColumn2.tooltip "Загальна кількість повідомлень в темі">
+<!ENTITY unreadColumn2.tooltip "Кількість непрочитаних повідомлень в розмові">
+<!ENTITY totalColumn2.tooltip "Загальна кількість повідомлень в розмові">
 <!ENTITY readColumn2.tooltip "Сортувати за прочитанням">
 <!ENTITY receivedColumn2.tooltip "Сотрувати за датою отримання">
 <!ENTITY starredColumn2.tooltip "Сортувати за зірками">
