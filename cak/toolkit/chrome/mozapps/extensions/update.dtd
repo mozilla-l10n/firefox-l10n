@@ -31,7 +31,8 @@ xkerïl taq k'exoj nikik'äm ki' kik'in re taq tz'aqat re'.">
 <!ENTITY  finished.wizard.title           "Taq tz'aqat nikik'äm ki', ri eyakon">
 <!ENTITY  finished.top.label              "&brandShortName; xeruyäk ri taq kik'exoj taq atz'aqat.">
 
-
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; junelïk xtikanon chuqa' xtuya' rutzijol chawe 
+toq xkerïl taq kik'exoj ri taq tz'aqat.">
 
 <!ENTITY  adminDisabled.wizard.title      "Man tikirel ta yekanöx taq k'exoj">
 <!ENTITY  adminDisabled.warning.label     "Man tikirel ta yekanöx taq kik'exoj ri taq tz'aqat man nikik'äm ta ki' 
@@ -39,11 +40,14 @@ ruma ri ruyakik kema' pa &brandShortName; xchup.
 Tab'ana' utzil, katzijon rik'in ri runuk'samajel q'inoj richin nawïl ato'ik.">
 
 <!ENTITY  versioninfo.wizard.title        "Tajin ninik'öx ri nikik'äm ki' taq tz'aqat">
-
+<!ENTITY  versioninfo.top.label           "Tajin ninik'öx we nikik'äm ki' ri taq atz'aqat rik'in re 
+ruwäch re' &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Re re' rik'in jub'a' xtiyoke' jujun ch'utiramaj…">
 
 <!ENTITY  installerrors.wizard.title      "Taq k'ayewal, tajin yeyak taq k'exoj">
 
 <!-- general strings used by several of the finish pages -->
 
+<!ENTITY  clickFinish.label               "Tapitz'a' pa  Tikis richin nitikirisäx &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Tapitz'a' pa  K'ison richin nitikirisäx &brandShortName;.">
 <!ENTITY  enableChecking.label            "Tiya' q'ij chi re ri &brandShortName; chi kerukanoj taq kexoj.">
