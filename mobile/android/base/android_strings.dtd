@@ -40,10 +40,10 @@
 <!ENTITY  crash_reporter_title "Relator de erros do &brandShortName;">
 <!ENTITY  crash_message2 "O &brandShortName; teve um problema e crachou. Os seus separadores deverão estar listados na página Inicial do &brandShortName; quando reiniciar.">
 <!ENTITY  crash_send_report_message3 "Informar a &vendorShortName; sobre este erro para que o possam resolver">
-<!ENTITY  crash_include_url2 "Incluir o endereço da página onde estava">
+<!ENTITY  crash_include_url2 "Incluir o endereço da página onde eu estava">
 <!ENTITY  crash_sorry "Pedimos desculpa">
-<!ENTITY  crash_comment "Adicionar um comentário (os comentários são visíveis publicamente)">
-<!ENTITY  crash_allow_contact2 "Autorizar que a &vendorShortName; me contacte sobre este relatório">
+<!ENTITY  crash_comment "Adicione um comentário (os comentários estão visíveis publicamente)">
+<!ENTITY  crash_allow_contact2 "Permitir que o &vendorShortName; me contacte sobre este relatório">
 <!ENTITY  crash_email "O seu e-mail">
 <!ENTITY  crash_closing_alert "Sair sem enviar um relatório de erro?">
 <!ENTITY  sending_crash_report "A enviar relatório de erro\u2026">
@@ -52,11 +52,11 @@
 <!ENTITY  exit_label "Sair">
 
 <!ENTITY  launcher_shortcuts_title "Aplicações web do &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Nenhuma aplicação web encontrada">
+<!ENTITY  launcher_shortcuts_empty "Não foram encontradas aplicações web">
 
 <!ENTITY choose_file "Escolher Ficheiro">
 
-<!ENTITY url_bar_default_text2 "Pesquise ou digite um endereço">
+<!ENTITY url_bar_default_text2 "Pesquise ou insira o endereço">
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_remove "Remover marcador">
@@ -73,14 +73,14 @@
 <!ENTITY history_yesterday_section "Ontem">
 <!ENTITY history_week_section3 "Últimos 7 dias">
 <!ENTITY history_this_month_section "Este mês">
-<!ENTITY history_older_section3 "Há mais de 6 meses">
+<!ENTITY history_older_section3 "Com mais de 6 meses">
 
 <!ENTITY go "Ir">
 <!ENTITY search "Pesquisar">
 <!ENTITY reload "Recarregar">
 <!ENTITY forward "Avançar">
 <!ENTITY menu "Menu">
-<!ENTITY back "Retroceder">
+<!ENTITY back "Voltar">
 <!ENTITY stop "Parar">
 <!ENTITY site_security "Segurança do site">
 <!ENTITY edit_mode_cancel "Cancelar">
@@ -120,7 +120,7 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 
-<!ENTITY locale_system_default "Predefinições do sistema">
+<!ENTITY locale_system_default "Predefinição do sistema">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
@@ -142,16 +142,16 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Enviar para outro dispositivo">
 <!ENTITY overlay_share_no_url "Não foi encontrada nenhuma ligação nesta partilha">
-<!ENTITY overlay_share_select_device "Selecionar dispositivo">
+<!ENTITY overlay_share_select_device "Selecione o dispositivo">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Não foram encontrados dispositivos ligados na Conta Firefox">
+<!ENTITY overlay_no_synced_devices "Não foram encontrados dispositivos associados à Conta Firefox">
 
 <!ENTITY pref_category_search3 "Pesquisar">
-<!ENTITY pref_category_search_summary "Personalizar os seus fornecedores de pesquisa">
+<!ENTITY pref_category_search_summary "Personalize os seus fornecedores de pesquisa">
 <!ENTITY pref_category_accessibility "Acessibilidade">
-<!ENTITY pref_category_accessibility_summary2 "Tamanho do texto, zoom, introdução de voz">
+<!ENTITY pref_category_accessibility_summary2 "Tamanho do texto, zoom, introdução por voz">
 <!ENTITY pref_category_privacy_short "Privacidade">
 <!ENTITY pref_category_privacy_summary3 "Monitorização, cookies, escolhas de dados">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -178,7 +178,7 @@
 <!ENTITY pref_remember_signons2 "Memorizar credenciais">
 <!ENTITY pref_manage_logins "Gerir credenciais">
 
-<!ENTITY pref_category_home "Página Inicial">
+<!ENTITY pref_category_home "Início">
 <!ENTITY pref_category_home_summary "Personalize a sua página inicial">
 <!ENTITY pref_category_home_panels "Painéis">
 <!ENTITY home_add_panel_title "Adicionar novo painel">
