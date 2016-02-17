@@ -27,6 +27,3 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "Copier le texte dans le presse-papiers">
 
 <!ENTITY errorReporting.automatic "Signaler les erreurs similaires pour aider Mozilla à identifier les sites mal configurés">
-<!ENTITY errorReporting.sending "Signalement en cours">
-<!ENTITY errorReporting.sent "Signalé">
-<!ENTITY errorReporting.tryAgain "Réessayer">

@@ -199,9 +199,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Signaler les erreurs similaires pour aider Mozilla à identifier et bloquer les sites malveillants">
 <!ENTITY errorReporting.learnMore "En savoir plus…">
-<!ENTITY errorReporting.sending "Signalement en cours">
-<!ENTITY errorReporting.sent "Signalé">
-<!ENTITY errorReporting.tryAgain "Réessayer">
 
 <!ENTITY remoteXUL.title "XUL distant">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul></p>">
