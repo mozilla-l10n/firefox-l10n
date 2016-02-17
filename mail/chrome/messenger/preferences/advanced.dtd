@@ -45,9 +45,9 @@
 <!ENTITY enableTelemetry.accesskey       "t">
 <!ENTITY telemetryLearnMore.label        "Saber mais">
 
-<!ENTITY crashReporterSection.label      "Relatório de erros">
-<!ENTITY crashReporterDesc.label         "O &brandShortName; envia relatórios de erros para ajudar a &vendorShortName; a tornar o cliente de correio mais estável e seguro">
-<!ENTITY enableCrashReporter.label       "Ativar relatório de erros">
+<!ENTITY crashReporterSection.label      "Relator de falhas">
+<!ENTITY crashReporterDesc.label         "O &brandShortName; envia relatórios de falha para ajudar a &vendorShortName; a tornar o cliente de correio mais estável e seguro">
+<!ENTITY enableCrashReporter.label       "Ativar o relator de falhas">
 <!ENTITY enableCrashReporter.accesskey   "r">
 <!ENTITY crashReporterLearnMore.label    "Saber mais">
 <!-- Update -->
