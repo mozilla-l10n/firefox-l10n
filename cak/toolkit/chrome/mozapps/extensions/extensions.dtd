@@ -34,6 +34,8 @@
 
 <!ENTITY warning.updatesecurity.enable.tooltip     "Titzij ri ya'öl retal chajinïk richin nik'ex ri tz'aqat">
 <!-- global informations -->
+
+<!ENTITY info.plugincheck.label                 "Tapitz'a' qa wawe' richin natz'ët we ek'exon ri taq apluyin">
 <!ENTITY info.plugincheck.tooltip               "Tapitz'a' qa wawe' richin natz'ët we ek'exon ri taq apluyin">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Kek'ulutäj ri taq tz'aqat">
@@ -54,7 +56,8 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa kiyonil.">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "T">
 
 
 
@@ -86,14 +89,14 @@
 <!ENTITY cmd.disableTheme.label               "Tiq'at rokisaxik wachinel">
 <!ENTITY cmd.disableTheme.accesskey           "r">
 <!ENTITY cmd.askToActivate.label              "Tik'utüx richin nitzij">
-
+<!ENTITY cmd.askToActivate.tooltip            "Tik'utüx pe richin toq xtokisäx re tz'aqat re'">
 
 <!ENTITY cmd.alwaysActivate.tooltip           "Junelïk tokisäx re tz'aqat re'">
 <!ENTITY cmd.neverActivate.label              "Majub'ey titzij">
 <!ENTITY cmd.neverActivate.tooltip            "Majub'ey tokisäx re tz'aqat re'">
 
-
-
+<!ENTITY cmd.installAddon.label               "Tiyak">
+<!ENTITY cmd.installAddon.accesskey           "T">
 <!ENTITY cmd.uninstallAddon.label             "Telesäx">
 <!ENTITY cmd.uninstallAddon.accesskey         "s">
 
@@ -131,7 +134,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "Kiyonïl keyak ri taq k'exoj">
 
 
-
+<!ENTITY detail.home                          "Ruxaq tikirib'äl">
 <!ENTITY detail.repository                    "Ruwäch rub'i' tz'aqat">
 <!ENTITY detail.size                          "Nimilem">
 
@@ -141,8 +144,8 @@
 <!ENTITY detail.showPreferencesWin.label      "Taq cha'oj">
 <!ENTITY detail.showPreferencesWin.accesskey  "T">
 <!ENTITY detail.showPreferencesWin.tooltip    "Kejal ri taq rucha'oj re tz'aqat re'">
-
-
+<!ENTITY detail.showPreferencesUnix.label     "Taq ajowab'äl">
+<!ENTITY detail.showPreferencesUnix.accesskey "a">
 
 <!-- ratings -->
 
@@ -182,12 +185,12 @@
 <!ENTITY addon.undoAction.label               "Titzolïx chi rij">
 <!ENTITY addon.undoAction.tooltip             "Titzolïx chi rij re jun samaj re'">
 <!ENTITY addon.undoRemove.label               "Titzolïx">
-
+<!ENTITY addon.undoRemove.tooltip             "Tib'än chi tiyake' re rutz'aqat re'">
 <!ENTITY addon.restartNow.label               "Titzij chik wakami">
 <!ENTITY addon.install.label                  "Rujumik">
 
 
-
+<!ENTITY addon.updateNow.tooltip              "Tiyak ri ruk'exoj re tz'aqat re'">
 <!ENTITY addon.includeUpdate.label            "Tiya' pa ri k'exoj">
 <!ENTITY addon.updateAvailable.label          "K'o jun k'exoj">
 <!ENTITY addon.checkingForUpdates.label       "Kijunamaxik taq jaloj">
@@ -215,6 +218,7 @@
 <!ENTITY experiment.info.changetelemetry "Taq rajowab'äl Telemetry">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Tetamäx ch'aqa' chik…">
 
 <!ENTITY disabledUnsigned.heading "Jujun taq tz'aqat xechup">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
