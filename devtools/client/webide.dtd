@@ -199,6 +199,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Si l’autre appareil demande un jeton à la place d’un QR code, veuillez recopier la valeur ci-dessous sur l’autre appareil :">
+<!ENTITY wifi_auth_qr_size_note "Si le QR code semble trop petit pour que la connexion soit correctement établie, essayez de zoomer ou d’agrandir la fenêtre.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Journaux de la commande de pré-empaquetage">
