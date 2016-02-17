@@ -15,7 +15,7 @@
 <!ENTITY allowHWAccel.accesskey        "х">
 <!ENTITY storeType.label               "Вид на съхранение на писмата за нови регистрации:">
 <!ENTITY storeType.accesskey           "T">
-
+<!ENTITY mboxStore2.label              "Файл в папка (mbox)">
 <!ENTITY maildirStore.label            "Файл за всяко писмо (maildir)">
 
 <!ENTITY scrolling.label               "Плъзгане">
@@ -103,6 +103,7 @@
 <!ENTITY enableOCSP.label                "Заявяване OCSP сървърите да потвърждават текущата валидност на сертификатите">
 <!ENTITY enableOCSP.accesskey            "З">
 
-
+<!ENTITY manageCertificates.label "Управление на сертификати">
+<!ENTITY manageCertificates.accesskey "У">
 <!ENTITY viewSecurityDevices.label "Защитни устройства">
 <!ENTITY viewSecurityDevices.accesskey "З">

@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "Р">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Латиница">
 <!ENTITY  font.langGroup.japanese                 "Японски">
 <!ENTITY  font.langGroup.trad-chinese             "Традиционен китайски (Тайван)">
 <!ENTITY  font.langGroup.simpl-chinese            "Опростен китайски">
@@ -44,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Гурмуки">
 <!ENTITY  font.langGroup.khmer                    "Кхмерски">
 <!ENTITY  font.langGroup.malayalam                "Малаялам">
-
+<!ENTITY  font.langGroup.math                     "Математически">
 <!ENTITY  font.langGroup.oriya                    "Орийски">
 <!ENTITY  font.langGroup.telugu                   "Телугу">
 <!ENTITY  font.langGroup.kannada                  "Каннадски">
@@ -69,10 +71,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Изходяща поща:">
 <!ENTITY sendDefaultCharset.accesskey     "х">
-
-
+<!ENTITY languagesTitle2.label            "Кодиране на текста">
+<!ENTITY composingDescription2.label      "Установява стандартно кодиране на текста за изпращана и получавана поща">
 
 <!ENTITY viewDefaultCharsetList.label     "Входяща поща:">
 <!ENTITY viewDefaultCharsetList.accesskey  "щ">
-
-
+<!ENTITY replyInDefaultCharset3.label     "Когато е възможно в отговорите да се използва стандартното кодиране на текста">
+<!ENTITY replyInDefaultCharset3.accesskey "о">

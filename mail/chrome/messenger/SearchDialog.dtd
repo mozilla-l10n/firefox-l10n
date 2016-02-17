@@ -40,7 +40,7 @@
 <!ENTITY threadColumn.label "Дискусия">
 <!ENTITY fromColumn.label "Подател">
 <!ENTITY recipientColumn.label "Получател">
-
+<!ENTITY correspondentColumn.label "Кореспонденти">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Приоритет">
@@ -62,7 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Показване на нишките на съобщенията">
 <!ENTITY fromColumn2.tooltip "Сортиране по подател">
 <!ENTITY recipientColumn2.tooltip "Сортиране по получател">
-
+<!ENTITY correspondentColumn2.tooltip "Подреждане по кореспонденти">
 <!ENTITY subjectColumn2.tooltip "Сортиране по тема">
 <!ENTITY dateColumn2.tooltip "Сортиране по дата">
 <!ENTITY priorityColumn2.tooltip "Сортиране по приоритет">
