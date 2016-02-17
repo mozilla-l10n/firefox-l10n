@@ -11,11 +11,6 @@
 <!ENTITY window.title "Web Console">
 <!ENTITY browserConsole.title "Browser Console">
 
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
-<!ENTITY saveBodies.accesskey "L">
-
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY openURL.label     "Open URL in New Tab">
@@ -102,3 +97,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Open in Variables View">
 <!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.label "Store as global variable">
+<!ENTITY storeAsGlobalVar.accesskey "S">
