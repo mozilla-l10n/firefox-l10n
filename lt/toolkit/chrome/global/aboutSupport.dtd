@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registruoti aptarnavimo scenarijai">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Profiliai">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Daugiaprocesiai langai">
 
