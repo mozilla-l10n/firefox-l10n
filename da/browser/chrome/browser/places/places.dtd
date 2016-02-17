@@ -15,7 +15,7 @@
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Visning">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "Ændr din visning">
+<!ENTITY views.tooltip                  "Skift din visning">
 <!ENTITY view.columns.label             "Vis kolonner">
 <!ENTITY view.columns.accesskey         "k">
 <!ENTITY view.sort.label                "Sorter">
@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "Å">
 <!ENTITY cmd.open_window.label           "Åbn i et nyt vindue">
 <!ENTITY cmd.open_window.accesskey       "v">
+<!ENTITY cmd.open_private_window.label     "Åbn i et nyt privat vindue">
+<!ENTITY cmd.open_private_window.accesskey "n">
 <!ENTITY cmd.open_tab.label              "Åbn i et nyt faneblad">
 <!ENTITY cmd.open_tab.accesskey          "f">
 <!ENTITY cmd.open_all_in_tabs.label      "Åbn alle i faneblade">
@@ -83,7 +85,6 @@
 <!ENTITY col.url.label           "Adresse">
 <!ENTITY col.mostrecentvisit.label "Seneste besøg">
 <!ENTITY col.visitcount.label    "Besøg">
-<!ENTITY col.keyword.label       "Stikord">
 <!ENTITY col.description.label   "Beskrivelse">
 <!ENTITY col.dateadded.label     "Tilføjet">
 <!ENTITY col.lastmodified.label  "Sidst ændret">

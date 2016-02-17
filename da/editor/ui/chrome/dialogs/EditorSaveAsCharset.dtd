@@ -2,8 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Gem og ændr tegnkodning">
+<!-- These strings are generic to all or most of the editor's dialogs. -->
+
+<!-- This button is for the progressive disclosure of additional editing functionality -->
+
+<!-- These strings are for use specifically in the editor's link dialog. -->
+<!ENTITY windowTitle2.label "Gem og udskift tegnkodning">
 <!ENTITY documentTitleTitle.label "Sidetitel">
-<!ENTITY documentCharsetTitle.label "Tegnkodning">
-<!ENTITY documentCharsetDesc.label "Gem dokumentet med følgende tegnkodning:">
+<!ENTITY documentCharsetTitle2.label "Tegnkodning">
+<!ENTITY documentCharsetDesc2.label "Vælg den tegnkodning, som du vil gemme et dokument med:">
 <!ENTITY documentExportToText.label "Eksporter som tekst">

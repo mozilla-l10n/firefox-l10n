@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Fra">
 <!ENTITY recipientColumn.label "Modtager">
+<!ENTITY correspondentColumn.label "Korrespondenter">
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Vis meddelelser i tråde">
 <!ENTITY fromColumn2.tooltip "Sorter efter afsender">
 <!ENTITY recipientColumn2.tooltip "Sorter efter modtager">
+<!ENTITY correspondentColumn2.tooltip "Sorter efter korrespondenter">
 <!ENTITY subjectColumn2.tooltip "Sorter efter emne">
 <!ENTITY dateColumn2.tooltip "Sorter efter dato">
 <!ENTITY priorityColumn2.tooltip "Sorter efter prioritet">

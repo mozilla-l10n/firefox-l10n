@@ -3,18 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label "Generelt">
-<!ENTITY itemDisplay.label "Læsning &amp; visning">
-<!ENTITY itemUpdate.label "Opdater">
+<!ENTITY dataChoicesTab.label    "Datadeling">
+<!ENTITY itemUpdate.label "Opdateringer">
 <!ENTITY itemNetworking.label    "Netværk &amp; diskplads">
 <!ENTITY itemCertificates.label  "Certifikater">
 
 <!-- General Settings -->
 
-<!ENTITY submitTelemetry.label         "Send data om ydelse">
-<!ENTITY submitTelemetry.accesskey     "S">
-<!ENTITY telemetryInfoLink.label       "Mere information om Telemetry">
 <!ENTITY enableGlodaSearch.label       "Aktiver global søgning og indeksering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+<!ENTITY allowHWAccel.label            "Brug hardwareacceleration hvor muligt">
+<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Lagertype for meddelelser for nye konti:">
+<!ENTITY storeType.accesskey           "L">
+<!ENTITY mboxStore2.label              "En fil pr. mappe (mbox)">
+<!ENTITY maildirStore.label            "En fil pr. meddelelse (maildir)">
 
 <!ENTITY scrolling.label               "Scrolling">
 <!ENTITY useAutoScroll.label           "Brug autoscrolling">
@@ -36,31 +39,18 @@
 <!ENTITY showReturnReceipts.label      "Kvitteringer…">
 <!ENTITY showReturnReceipts.accesskey  "v">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Læsning">
-<!ENTITY display.caption               "Visning">
-<!ENTITY showCondensedAddresses.label "Vis kun &quot;Vis som&quot;-feltet for personer i min adressebog">
-<!ENTITY showCondensedAddresses.accesskey "p">
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Deler data om ydelse, brug, hardware og tilpasninger i mailprogrammet med &vendorShortName; for at hjælpe os med at gøre &brandShortName; bedre">
+<!ENTITY enableTelemetry.label           "Aktiver Telemetry">
+<!ENTITY enableTelemetry.accesskey       "A">
+<!ENTITY telemetryLearnMore.label        "Læs mere">
 
-<!ENTITY autoMarkAsRead.label          "Marker automatisk som læst">
-<!ENTITY autoMarkAsRead.accesskey      "M">
-<!ENTITY markAsReadNoDelay.label       "Marker omgående">
-<!ENTITY markAsReadNoDelay.accesskey   "a">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Efter visning i">
-<!ENTITY markAsReadDelay.accesskey     "v">
-<!ENTITY secondsLabel.label            "sekunder">
-<!ENTITY openMsgIn.label               "Åbn meddelelse i:">
-<!ENTITY openMsgInNewTab.label         "Et nyt faneblad">
-<!ENTITY openMsgInNewTab.accesskey     "f">
-<!ENTITY reuseExpRadio0.label "Et nyt meddelelsesvindue">
-<!ENTITY reuseExpRadio0.accesskey "n">
-<!ENTITY reuseExpRadio1.label "Et eksisterende meddelelsesvindue">
-<!ENTITY reuseExpRadio1.accesskey "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Luk meddelelsesvinduet/-fanen ved flytning eller sletning">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
+<!ENTITY crashReporterSection.label      "Fejlrapportering">
+<!ENTITY crashReporterDesc.label         "&brandShortName; sender fejlrapporter til &vendorShortName; for at gøre dit mailprogram mere stabilt og sikkert">
+<!ENTITY enableCrashReporter.label       "Aktiver fejlrapporter">
+<!ENTITY enableCrashReporter.accesskey   "k">
+<!ENTITY crashReporterLearnMore.label    "Læs mere">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "Opdateringer til &brandShortName;:">
@@ -75,7 +65,7 @@
 <!ENTITY updateHistory.label             "Vis opdateringshistorik">
 <!ENTITY updateHistory.accesskey         "V">
 
-<!ENTITY useService.label                "Installér opdateringer i baggrunden">
+<!ENTITY useService.label                "Brug en baggrundsservice til at installere opdateringer">
 <!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
@@ -114,7 +104,7 @@
 <!ENTITY enableOCSP.label                "Send forespørgsel til OCSP responder-servere for at bekræfte certifikaters aktuelle gyldighed">
 <!ENTITY enableOCSP.accesskey            "e">
 
-<!ENTITY viewCertificates.label         "Vis certifikater">
-<!ENTITY viewCertificates.accesskey     "c">
+<!ENTITY manageCertificates.label "Håndter certifikater">
+<!ENTITY manageCertificates.accesskey "c">
 <!ENTITY viewSecurityDevices.label      "Sikkerhedsmoduler">
 <!ENTITY viewSecurityDevices.accesskey  "S">

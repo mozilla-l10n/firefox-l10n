@@ -19,7 +19,6 @@
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label "Vis en pop op-meddelelse">
 <!ENTITY showAnimatedAlert.accesskey "p">
-
 <!ENTITY customizeMailAlert.label         "Tilpas…">
 <!ENTITY customizeMailAlert.accesskey     "T">
 
@@ -36,3 +35,5 @@
 <!ENTITY customsound.accesskey            "n">
 <!ENTITY browse.label                     "Gennemse…">
 <!ENTITY browse.accesskey                 "e">
+
+<!ENTITY defaultSearchEngine.label        "Standardsøgetjeneste">

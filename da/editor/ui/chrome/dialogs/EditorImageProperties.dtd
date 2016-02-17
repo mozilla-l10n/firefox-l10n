@@ -9,7 +9,7 @@
 <!ENTITY pixelsPopup.value "pixler">
 
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label "Billedets adresse:">
+<!ENTITY locationEditField.label "Billedets placering:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Skriv billedets navn eller adresse">
 <!ENTITY title.label "Titel">
@@ -31,7 +31,7 @@
 <!ENTITY actualSizeRadio.tooltip "Brug billedets egen størrelse">
 <!ENTITY customSizeRadio.label "Indstil størrelse">
 <!ENTITY customSizeRadio.accessKey "S">
-<!ENTITY customSizeRadio.tooltip "Ændr billedets størrelse når det vises på siden">
+<!ENTITY customSizeRadio.tooltip "Skift billedets størrelse når det vises på siden">
 <!ENTITY heightEditField.label "Højde:">
 <!ENTITY heightEditField.accessKey "H">
 <!ENTITY widthEditField.label "Bredde:">
@@ -72,7 +72,7 @@
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formular">
-<!ENTITY imageLocationTab.label "Sted">
+<!ENTITY imageLocationTab.label "Placering">
 <!ENTITY imageDimensionsTab.label "Dimensioner">
 <!ENTITY imageAppearanceTab.label "Udseende">
 <!ENTITY imageLinkTab.label "Link">

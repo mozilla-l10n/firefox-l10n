@@ -2,12 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile   "Filer på mere end 50 MB">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "understøttes kun i betalingsabonnementerne.">
-<!ENTITY fileExceedsLimit.accept "Opgrader">
-<!ENTITY fileExceedsLimit.cancel "Annuller">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "Filer på mere end 50 MB understøttes kun i betalingsabonnementerne.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Opgrader og send denne fil. Du får også:">
-<!ENTITY fileExceedsLimit.pros1 "Mulighed for afsendelse af filer på op til 2 GB">
-<!ENTITY fileExceedsLimit.pros2 "Mulighed for opbevaring af ubegrænset antal filer">
-<!ENTITY fileExceedsLimit.pros3 "Mulighed for at tilgå og dele filer fra alle steder">

@@ -19,7 +19,7 @@
 <!ENTITY alwaysAsk.accesskey          "S">
 <!ENTITY chooseFolderWin.label        "Gennemse…">
 <!ENTITY chooseFolderWin.accesskey    "G">
-<!ENTITY chooseFolderMac.label        "Gennemse…">
+<!ENTITY chooseFolderMac.label        "Vælg…">
 <!ENTITY chooseFolderMac.accesskey    "G">
 
 <!ENTITY attachments.incoming.label   "Indgående">

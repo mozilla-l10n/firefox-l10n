@@ -25,7 +25,7 @@
 <!ENTITY signMessage.accesskey "S">
 <!ENTITY signingCert.message "Brug dette certifikat til at signere meddelelser:">
 <!ENTITY certificates.label "Certifikater">
-<!ENTITY manageCerts.label "Certifikathåndtering">
-<!ENTITY manageCerts.accesskey "c">
+<!ENTITY manageCerts2.label "Håndter certifikater">
+<!ENTITY manageCerts2.accesskey "c">
 <!ENTITY manageDevices.label "Håndter sikkerhedsenheder">
 <!ENTITY manageDevices.accesskey "h">

@@ -3,16 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fontsAndEncodingsDialog.title            "Skrifttyper &amp; tegnkodning">
-<!ENTITY window.width                             "39em">
-<!ENTITY window.macWidth                          "43em">
-<!ENTITY window.unixWidth                         "41em">
 
 <!ENTITY language.label                           "Skrifttyper for:">
 <!ENTITY language.accesskey                       "f">
 
 <!ENTITY size.label                               "Størrelse:">
-<!ENTITY proportionalSize.accesskey               "ø">
-<!ENTITY sizeMono.accesskey                       "r">
+<!ENTITY  sizeProportional.accesskey              "ø">
+<!ENTITY  sizeMonospace.accesskey                 "r">
 
 <!ENTITY proportional.label                       "Proportional:">
 <!ENTITY proportional.accesskey                   "P">
@@ -24,19 +21,17 @@
 <!ENTITY monospace.label                          "Monospatieret:">
 <!ENTITY monospace.accesskey                      "M">
 
-<!ENTITY font.langGroup.latin1                    "Vestlig">
-<!ENTITY font.langGroup.latin2                    "Centraleuropæisk">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY font.langGroup.latin                     "Latinsk">
 <!ENTITY font.langGroup.japanese                  "Japansk">
 <!ENTITY font.langGroup.trad-chinese              "Kinesisk, traditionelt (Taiwan)">
 <!ENTITY font.langGroup.simpl-chinese             "Kinesisk, forenklet">
 <!ENTITY font.langGroup.trad-chinese-hk           "Kinesisk, traditionelt (Hong Kong)">
 <!ENTITY font.langGroup.korean                    "Koreansk">
 <!ENTITY font.langGroup.cyrillic                  "Kyrillisk">
-<!ENTITY font.langGroup.baltic                    "Baltisk">
 <!ENTITY font.langGroup.el                        "Græsk">
-<!ENTITY font.langGroup.turkish                "Tyrkisk">
-<!ENTITY  font.langGroup.unicode1           "Andre sprog">
-<!ENTITY font.langGroup.user-def                  "Brugerdefineret">
+<!ENTITY  font.langGroup.other                    "Andre skriftsystemer">
 <!ENTITY font.langGroup.thai                      "Thai">
 <!ENTITY font.langGroup.hebrew                    "Hebræisk">
 <!ENTITY font.langGroup.arabic                    "Arabisk">
@@ -51,7 +46,12 @@
 <!ENTITY font.langGroup.gurmukhi                  "Gurmukhi">
 <!ENTITY font.langGroup.khmer                     "Khmer">
 <!ENTITY font.langGroup.malayalam                 "Malayalam">
-
+<!ENTITY  font.langGroup.math                     "Matematisk">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetansk">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimum skriftstørrelse:">
 <!ENTITY minSize.accesskey                        "i">
@@ -71,10 +71,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label                 "Udgående meddelelser:">
 <!ENTITY sendDefaultCharset.accesskey             "u">
-<!ENTITY languagesTitle1.label                    "Tegnkodning">
-<!ENTITY composingDescription.label               "Sæt standardtegnkodning for udgående og indkommende meddelelser">
+<!ENTITY languagesTitle2.label            "Tegnkodning">
+<!ENTITY composingDescription2.label      "Sæt standardtegnkodning for udgående og indkommende meddelelser">
 
 <!ENTITY viewDefaultCharsetList.label             "Indkommende meddelelser:">
 <!ENTITY viewDefaultCharsetList.accesskey         "d">
-<!ENTITY replyInDefaultCharset2.label             "Anvend standardtegnkodning i svar, når det er muligt">
-<!ENTITY replyInDefaultCharset2.accesskey         "O">
+<!ENTITY replyInDefaultCharset3.label     "Anvend standardtegnkodning i svar, når det er muligt">
+<!ENTITY replyInDefaultCharset3.accesskey "o">
