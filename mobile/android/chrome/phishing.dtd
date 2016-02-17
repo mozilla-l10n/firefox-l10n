@@ -5,7 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Få mig væk herfra!">
 <!ENTITY safeb.palm.decline.label "Ignorer denne advarsel">
 <!ENTITY safeb.palm.notforgery.label2 "Dette er ikke netsvindel…">
-<!ENTITY safeb.palm.reportPage.label "Hvorfor blev dette websted blokeret?">
+<!ENTITY safeb.palm.reportPage.label "Hvorfor blev denne side blokeret?">
+<!ENTITY safeb.palm.whyForbidden.label "Hvorfor blev denne side blokeret?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Anmeldt angrebswebsted!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -15,3 +16,12 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Mistænkt forfalskning!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Indtastning af personlig information på denne side kan føre til identitetstyveri elle anden svindel.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Denne type forfalskninger bruges i svindelnumre kendt som phishing-angreb, hvor svindelsider og -mails udgiver sig for at være kilder du stoler på.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "Websted anmeldt for uønskede programmer!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Webstedet <span id='unwanted_sitename'/> er blevet anmeldt for at indeholde uønskede programmer og er blevet blokeret på grund af dine sikkerhedsindstillinger.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Websteder med uønskede programmer prøver at lokke dig til at installere programmer, der kan påvirke dit system på uventede måder.">
+
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Blokeret websted">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Websiden på <span id='forbidden_sitename'/> er blevet blokeret af din admin-profil.">

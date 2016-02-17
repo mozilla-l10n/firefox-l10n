@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Langt">
 <!ENTITY pref.dateformat.short "Kort">
 
+<!ENTITY pref.timezones.caption "Tidszone">
+<!ENTITY pref.timezones.label "Vælg den nærmeste by i din tidszone:">
+<!ENTITY pref.timezones.accesskey "æ">
+
 <!ENTITY pref.defaults.label "Forvalgte værdier for nye elementer">
 <!ENTITY pref.events.label "Begivenheder">
 <!ENTITY pref.tasks.label "Opgaver">
@@ -28,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "I forhold til nuværende tidspunkt">
 <!ENTITY pref.default_task_offset_start.label "I forhold til starttidspunkt">
 <!ENTITY pref.default_task_offset_next_hour.label "I forhold til næste time">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "I dag">
+<!ENTITY pref.soondays.label "Afsnittet Kommende viser:">
+<!ENTITY pref.soondays.accesskey "a">
 
 <!ENTITY pref.accessibility.label "Tilgængelighed" >
 <!ENTITY pref.systemcolors.label "Optimer farver for tilgængelighed" >

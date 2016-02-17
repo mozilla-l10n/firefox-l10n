@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Vis altid svar til afsender">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "a">
 
-<!ENTITY otherActionsButton1.label "Flere funktioner">
+<!ENTITY otherActionsButton2.label "Flere">
+<!ENTITY otherActionsButton.tooltip "Flere funktioner">
 <!ENTITY otherActionsOpenConversation1.label "Vis korrespondance i tråd">
 <!ENTITY otherActionsOpenConversation1.accesskey "t">
 <!ENTITY otherActionsOpenInNewWindow1.label "Åbn i nyt vindue">

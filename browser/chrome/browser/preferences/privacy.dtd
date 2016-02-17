@@ -2,31 +2,46 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Sporing">
+<!ENTITY  trackingProtectionHeader.label       "Brug beskyttelse mod sporing">
+<!ENTITY  trackingProtectionAlways.label       "Altid">
+<!ENTITY  trackingProtectionAlways.accesskey   "A">
+<!ENTITY  trackingProtectionPrivate.label      "Kun i private vinduer">
+<!ENTITY  trackingProtectionPrivate.accesskey  "p">
+<!ENTITY  trackingProtectionNever.label        "Aldrig">
+<!ENTITY  trackingProtectionNever.accesskey    "l">
+<!ENTITY  trackingProtectionLearnMore.label    "Læs mere">
+<!ENTITY  trackingProtectionExceptions.label   "Undtagelser…">
+<!ENTITY  trackingProtectionExceptions.accesskey "u">
 
-<!ENTITY dntTrackingNopref.label2        "Fortæl ikke websteder, om jeg vil spores eller ej">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label2       "Fortæl websteder, at jeg ikke vil spores">
-<!ENTITY dntTrackingNotOkay.accesskey   "i">
-<!ENTITY dntTrackingOkay.label2          "Fortæl websteder, at jeg gerne vil spores">
-<!ENTITY dntTrackingOkay.accesskey      "s">
-<!ENTITY trackingProtection.label       "Forhindr websteder i at spore mig.">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "Læs mere">
-<!ENTITY doNotTrackInfo.label           "Læs mere">
+<!ENTITY tracking.label                 "Sporing">
+<!ENTITY trackingProtectionPBM5.label         "Brug beskyttelse mod sporing i private vinduer">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "Læs mere">
+<!ENTITY changeBlockList.label          "Skift blokerings-liste">
+<!ENTITY changeBlockList.accesskey      "S">
+
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+<!ENTITY  doNotTrack.pre.label          "Du kan også ">
+<!ENTITY  doNotTrack.settings.label     "håndtere dine indstillinger for Spor mig ikke">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Historik">
 
 <!ENTITY  locationBar.label             "Adresselinje">
 
-<!ENTITY  locbar.pre.label              "Når jeg bruger adresselinjen ønsker jeg forslag fra:">
-<!ENTITY  locbar.pre.accessKey          "a">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Historik og bogmærker">
+<!ENTITY  locbar.suggest.label          "Når jeg bruger adresselinjen ønsker jeg forslag fra:">
 <!ENTITY  locbar.history.label          "Historik">
+<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bogmærker">
-<!ENTITY  locbar.nothing.label          "Ingenting">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "Åbne faneblade">
+<!ENTITY  locbar.openpage.accesskey     "f">
+<!ENTITY  locbar.searches.label         "Relaterede søgninger med standard-søgetjenesten">
+<!ENTITY  locbar.searches.accesskey     "R">
 
+<!ENTITY  suggestionSettings.label      "Skift indstillinger for søgeforslag…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Accepter cookies fra websteder">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -42,7 +57,6 @@
 
 <!ENTITY  expire.label                  "De udløber">
 <!ENTITY  close.label                   "Jeg lukker &brandShortName;">
-<!ENTITY  askEachTime.label             "Spørg mig hver gang">
 
 <!ENTITY  cookieExceptions.label        "Undtagelser…">
 <!ENTITY  cookieExceptions.accesskey    "U">

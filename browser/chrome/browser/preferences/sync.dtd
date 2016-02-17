@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Håndter konto">
 <!ENTITY manageAccount.accesskey      "H">
-<!ENTITY viewQuota.label              "Vis kvota">
 <!ENTITY changePassword2.label        "Ændr adgangskode…">
 <!ENTITY myRecoveryKey.label          "Min gendannelsesnøgle">
 <!ENTITY resetSync2.label             "Nulstil Sync…">
@@ -40,6 +39,10 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Enhedsnavn:">
 <!ENTITY syncDeviceName.accesskey   "E">
+<!ENTITY fxaSyncDeviceName.label       "Enhedens navn">
+<!ENTITY changeSyncDeviceName.label "Skift navn for enheden…">
+<!ENTITY cancelChangeSyncDeviceName.label "Annuller">
+<!ENTITY saveChangeSyncDeviceName.label "Gem">
 <!ENTITY unlinkDevice.label           "Afkobl denne enhed">
 
 <!-- Footer stuff -->
@@ -68,7 +71,8 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Du er ikke logget ind.">
 <!ENTITY signIn.label                "Log ind">
-<!ENTITY manage.label                "Håndter">
+<!ENTITY profilePicture.tooltip      "Skift profilbillede">
+<!ENTITY verifiedManage.label        "Håndter konto">
 <!ENTITY disconnect.label            "Afbryd…">
 <!ENTITY verify.label                "Bekræft mailadresse">
 <!ENTITY forget.label                "Glem denne mailadresse">
@@ -79,3 +83,26 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Bruger du en ældre version af Sync?">
 
+<!ENTITY signedOut.caption            "Tag dit net med dig">
+<!ENTITY signedOut.description        "Synkroniser dine bogmærker, historik, faneblade, adgangskoder, tilføjelser og indstillinger mellem alle dine enheder.">
+<!ENTITY signedOut.accountBox.title   "Opret forbindelse med en &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Opret en konto">
+<!ENTITY signedOut.accountBox.signin  "Log ind">
+
+<!ENTITY signedIn.engines.label       "Synkroniser mellem alle enheder">
+
+<!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Sync to your mobile device.
+     Download Firefox for Android or Firefox for iOS." -->
+
+<!ENTITY mobilePromo2.start            "Synkroniser med din mobil-enhed. Hent ">
+<!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo2.androidLink      "Firefox til Android">
+
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
+<!ENTITY mobilePromo2.iOSBefore         " eller ">
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo2.iOSLink          "Firefox til iOS">
+
+<!ENTITY mobilePromo2.end              ".">

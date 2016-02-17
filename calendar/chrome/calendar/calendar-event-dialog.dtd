@@ -5,7 +5,7 @@
 <!ENTITY event.title.label "Rediger element">
 
 <!ENTITY event.dialog.keepDurationButton.tooltip  "Behold varighed, når du ændrer slutdato">
-<!ENTITY event.dialog.keepDurationButton.accesskey "V">
+<!ENTITY event.dialog.keepDurationButton.accesskey "x">
 
 <!ENTITY newevent.from.label "Fra">
 <!ENTITY newevent.to.label "Til">
@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Send meddelelse til deltagerne">
+<!ENTITY event.attendees.notify.accesskey           "m">
 <!ENTITY event.attendees.notifyundisclosed.label    "Separat invitation til hver deltager">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "p">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Med dette valg vil der blive sendt en separat mail til hver deltager. Hver invitation vil kun indeholde modtageren selv, så andre deltagere ikke vises.">
 
 <!-- Keyboard Shortcuts -->
@@ -135,9 +137,13 @@
 <!ENTITY event.invite.attendees.label "Inviter deltagere…">
 <!ENTITY event.invite.attendees.accesskey "I">
 <!ENTITY event.email.attendees.label "Skriv en mail til alle deltagere…">
-<!ENTITY event.email.attendees.accesskey "E">
+<!ENTITY event.email.attendees.accesskey "e">
 <!ENTITY event.email.tentative.attendees.label "Skriv en mail til ubeslutsomme deltagere…">
 <!ENTITY event.email.tentative.attendees.accesskey "u">
+<!ENTITY event.remove.attendees.label2 "Fjern alle deltagere">
+<!ENTITY event.remove.attendees.accesskey "F">
+<!ENTITY event.remove.attendee.label "Fjern deltager">
+<!ENTITY event.remove.attendee.accesskey "j">
 
 <!-- Toolbar -->
 <!ENTITY event.toolbar.save.label "Gem og luk">
@@ -183,7 +189,7 @@
 <!ENTITY event.until.label                                "Indtil:">
 <!ENTITY event.until.accesskey                            "I">
 <!ENTITY event.reminder.label "Påmindelse:">
-<!ENTITY event.reminder.accesskey "P">
+<!ENTITY event.reminder.accesskey "å">
 <!ENTITY event.description.label "Beskrivelse:">
 <!ENTITY event.description.accesskey "e">
 <!ENTITY event.attachments.label "Vedhæftede filer:">
@@ -312,6 +318,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label "Torsdag">
 <!ENTITY event.recurrence.pattern.yearly.week.6.label "Fredag">
 <!ENTITY event.recurrence.pattern.yearly.week.7.label "Lørdag">
+<!ENTITY event.recurrence.pattern.yearly.day.label    "dag" >
 <!ENTITY event.recurrence.of.label "af">
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label "Januar">
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label "Februar">
@@ -353,6 +360,7 @@
 <!ENTITY event.attendee.usertype.group          "Gruppe">
 <!ENTITY event.attendee.usertype.resource       "Ressource">
 <!ENTITY event.attendee.usertype.room           "Lokale">
+<!ENTITY event.attendee.usertype.unknown        "Ukendt">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Angiv tidszone">

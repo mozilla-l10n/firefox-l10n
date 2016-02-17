@@ -40,9 +40,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Frigør faneblad">
 <!ENTITY  unpinTab.accesskey                 "F">
-<!ENTITY  moveToGroup.label                  "Flyt til gruppe">
-<!ENTITY  moveToGroup.accesskey              "g">
-<!ENTITY  moveToNewGroup.label               "Ny gruppe">
 <!ENTITY  moveToNewWindow.label              "Flyt til nyt vindue">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Bogmærk alle faneblade…">
@@ -95,6 +92,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Sideoplysninger">
 <!ENTITY pageInfoCmd.accesskey "o">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Afspejl faneblad">
+<!ENTITY mirrorTabCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Start fuldskærmstilstand">
@@ -108,13 +107,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Log ind på &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Åbn indstillinger for &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Genopret forbindelse til &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Bekræft din konto">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; er aktiveret">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; begynder straks at synkronisere.">
-<!ENTITY syncErrorPanel.heading "Kan ikke oprettelse forbindelse til &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "Log ind for at fortsætte synkronisering.">
-<!ENTITY syncErrorPanel.signInButton.label "Log ind">
-<!ENTITY syncErrorPanel.signInButton.accesskey "L">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
@@ -124,11 +121,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Afslut fuldskærmstilstand">
 <!ENTITY fullScreenExit.accesskey "A">
-<!ENTITY fullscreenAllowButton.label "Tillad">
-<!ENTITY fullscreenExitButton.label "Afvis">
 
-<!ENTITY fullscreenExitHint2.value "Tryk ESC for at afslutte visning i fuld skærm.">
-<!ENTITY leaveDOMFullScreen.label "Afslut fuldskærmstilstand">
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "vises nu i fuld skærm">
+<!ENTITY fullscreenWarning.generic.label "Dokumentet vises nu i fuld skærm">
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Afslut fuld skærm (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Afslut fuld skærm (esc)">
+<!ENTITY leaveDOMFullScreen.label "Afslut fuld skærm">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "Luk vindue">
@@ -179,20 +186,46 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Udskriv">
 <!ENTITY printButton.tooltip          "Udskriv denne side">
 
-<!ENTITY locationItem.title           "Adressefelt">
+<!ENTITY urlbar.viewSiteInfo.label                      "Vis information om websted">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Vis en besked">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Vis positions-forespørgslen">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Vis beskeden om installering af tilføjelse">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Vis beskeden om app-offline-lager">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Administrer din login-information">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Markér, hvis du vil gemme din adgangskode">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Vis beskeden om installering af app">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Administrer brug af plugins på denne side">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Vælg om du vil modtage beskeder fra webstedet">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administrer deling af dit kamera og/eller mikrofon med webstedet">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Du deler dit kamera og/eller din mikrofon med webstedet">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administrer deling af din mikrofon med webstedet">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Du deler din mikrofon med webstedet">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administrer deling af dine vinduer eller skærm med webstedet">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Du deler et vindue eller din skærm med webstedet">
+
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Vælg om webstedet kan skjule markøren">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Vis beskeden om installering af service">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Oversæt siden">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Administrer side-oversættelser">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Administrer brug af DRM-software">
+
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historik">
+
 <!ENTITY searchItem.title             "Søgefelt">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Hjem">
-
-<!ENTITY tabGroupsButton.label        "Fanebladsgrupper">
 
 <!ENTITY bookmarksButton.label          "Bogmærker">
 <!ENTITY bookmarksCmd.commandkey        "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bogmærker">
 <!ENTITY bookmarksMenuButton.unsorted.label "Usorterede bogmærker">
-<!ENTITY viewBookmarksSidebar2.label         "Vis bogmærker i sidepanelet">
+<!ENTITY viewBookmarksSidebar2.label         "Vis bogmærker i sidepanel">
 <!ENTITY viewBookmarksToolbar.label         "Vis bogmærkelinjen">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -217,8 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Tilføjelser">
 <!ENTITY addons.accesskey             "t">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Apps">
-<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Webudvikler">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -267,12 +298,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 <!ENTITY browserToolboxMenu.label     "Browserværktøjer">
 <!ENTITY browserToolboxMenu.accesskey "o">
+<!ENTITY browserToolboxCmd.commandkey "i">
+
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+<!ENTITY browserContentToolboxMenu.label     "Værktøjer til browser-indhold">
+<!ENTITY browserContentToolboxMenu.accesskey "æ">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Luk udviklerlinjen">
 <!ENTITY devToolbarMenu.label              "Udviklerlinje">
 <!ENTITY devToolbarMenu.accesskey          "U">
-<!ENTITY devAppMgrMenu.label               "App-manager">
-<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -291,11 +327,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Filer">
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "Nyt kontekst-faneblad">
+<!ENTITY newUserContext.accesskey         "k">
+<!ENTITY userContextPersonal.label        "Personlig">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Arbejde">
+<!ENTITY userContextWork.accesskey        "A">
+<!ENTITY userContextBanking.label         "Bank">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Shopping">
+<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "Nyt vindue">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "v">
 <!ENTITY newPrivateWindow.label     "Nyt privat vindue">
 <!ENTITY newPrivateWindow.accesskey "p">
+<!ENTITY newNonRemoteWindow.label   "Nyt ikke-Electrolysis-vindue">
 
 <!ENTITY editMenu.label         "Rediger">
 <!ENTITY editMenu.accesskey       "R">
@@ -331,11 +378,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Vis">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY viewTabGroups.label            "Fanebladsgrupper">
-<!ENTITY viewTabGroups.accesskey        "g">
 <!ENTITY viewToolbarsMenu.label       "Værktøjslinjer">
 <!ENTITY viewToolbarsMenu.accesskey     "V">
-<!ENTITY viewSidebarMenu.label "Sidepanel">
+<!ENTITY viewSidebarMenu.label "Sidepaneler">
 <!ENTITY viewSidebarMenu.accesskey "S">
 <!ENTITY viewCustomizeToolbar.label       "Tilpas…">
 <!ENTITY viewCustomizeToolbar.accesskey     "p">
@@ -358,8 +403,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Vis al historik">
 <!ENTITY appMenuHistory.clearRecent.label "Ryd seneste historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Gendan forrige session">
-<!ENTITY appMenuHistory.viewSidebar.label "Vis sidepanelet Historik">
+<!ENTITY appMenuHistory.viewSidebar.label "Vis historik i sidepanel">
 <!ENTITY appMenuHelp.tooltip "Åbn menuen Hjælp">
+
+<!ENTITY appMenuRemoteTabs.label "Synkroniserede faneblade">
+<!ENTITY appMenuRemoteTabs.fetching.label "Henter synkroniserede faneblade…">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Ingen åbne faneblade">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktivér synkronisering af faneblade for at få vist faneblade, som er åbne på dine andre enheder.">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Log ind på din Firefox-konto fra dine andre enheder for at kunne se deres åbne faneblade her.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Indstillinger for Sync">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Log ind for at få vist faneblade, som er åbne på dine andre enheder.">
+<!ENTITY appMenuRemoteTabs.signin.label "Log ind på Sync">
 
 <!ENTITY customizeMenu.addToToolbar.label "Føj til værktøjslinje">
 <!ENTITY customizeMenu.addToToolbar.accesskey "v">
@@ -386,6 +447,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Skift til faneblad:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Vil du have din søgning forbedret med søgeforslag?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Læs mere…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Nej">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "j">
+
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -410,7 +479,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY tabView.commandkey           "e">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Søgeforespørgsel">
+<!ENTITY contentSearchSubmit.label    "Søg">
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Søg efter ">
+<!ENTITY searchWith.label             " med:">
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "Søg med ">
+<!ENTITY searchAfter.label            "">
+
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "Søg med:">
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Skift søgeindstillinger">
+
+<!ENTITY searchInNewTab.label         "Søg i nyt faneblad">
+<!ENTITY searchInNewTab.accesskey     "f">
+<!ENTITY searchSetAsDefault.label     "Sæt som standard-søgemaskine">
+<!ENTITY searchSetAsDefault.accesskey "s">
 
 <!ENTITY openLinkCmdInTab.label       "Åbn link i nyt faneblad">
 <!ENTITY openLinkCmdInTab.accesskey   "f">
@@ -549,9 +652,9 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Vis statistikker">
+<!ENTITY videoShowStats.label        "Vis oplysninger">
 <!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Skjul statistikker">
+<!ENTITY videoHideStats.label        "Skjul oplysninger">
 <!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
@@ -583,20 +686,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Luk sidepanel">
 
-<!ENTITY quitApplicationCmdWin.label       "Afslut">
-<!ENTITY quitApplicationCmdWin.accesskey   "A">
-<!ENTITY quitApplicationCmdWin.tooltip     "Afslut &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.label       "Afslut">
+<!ENTITY quitApplicationCmdWin2.accesskey   "A">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Afslut &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Afslut">
 <!ENTITY quitApplicationCmd.accesskey   "A">
-<!ENTITY quitApplicationCmdMac.label    "Afslut &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label    "Afslut &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key      "Q">
 
 <!ENTITY closeCmd.label                 "Luk">
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "L">
+
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Sidestil">
 <!ENTITY pageStyleMenu.accesskey "i">
@@ -638,41 +743,53 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Annuller">
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
 
-<!ENTITY identity.unverifiedsite2 "Dette websted leverer ingen information om dets identitet.">
-<!ENTITY identity.connectedTo "Du er forbundet til">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectionSecure "Sikker forbindelse">
+<!ENTITY identity.connectionNotSecure "Forbindelsen er usikker">
+<!ENTITY identity.connectionFile "Denne side er gemt på din computer.">
+<!ENTITY identity.connectionVerified1 "Du er forbundet på en sikker måde til dette websted, der er ejet af:">
+<!ENTITY identity.connectionInternal "Dette er en sikker &brandShortName;-side.">
 
-example.com
-which is run by
-Example Enterprises, Inc.
+<!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; har blokeret usikre dele af denne side.">
+<!ENTITY identity.passiveLoaded "Dele af denne side (såsom billeder) er ikke sikre.">
+<!ENTITY identity.activeLoaded "Du har slået beskyttelse fra på denne side.">
+<!ENTITY identity.weakEncryption "Denne side bruger svag kryptering.">
+<!ENTITY identity.insecureLoginForms2 "Logins foretaget på denne side kan være kompromitterede.">
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "som ejes af">
+<!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "Din forbindelse til dette websted er ikke privat. Andre kan se de informationer, du indsender (fx adgangskoder, beskeder og oplysninger om betalingskort)">
+<!ENTITY identity.description.insecureLoginForms "Login-information, du indtaster på denne side, er ikke sikker og kan være kompromitteret.">
+<!ENTITY identity.description.weakCipher "Din forbindelse til dette websted anvender svag kryptering og er ikke privat.">
+<!ENTITY identity.description.weakCipher2 "Andre kan se dine informationer eller ændre webstedets opførsel.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; har blokeret usikre dele af denne side.">
+<!ENTITY identity.description.passiveLoaded "Din forbindelse er ikke privat og de informationer, du deler, kan ses af andre.">
+<!ENTITY identity.description.passiveLoaded2 "Noget af dette websteds indhold (fx billeder) er usikkert.">
+<!ENTITY identity.description.passiveLoaded3 "Selvom &brandShortName; har blokeret noget af indholdet, så findes der stadig usikkert indhold på siden (fx billeder).">
+<!ENTITY identity.description.activeLoaded "Dette websted indeholder usikkert indhold (fx scripts), og din forbindelse til det er ikke privat.">
+<!ENTITY identity.description.activeLoaded2 "Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort) kan ses af andre.">
 
-<!ENTITY identity.moreInfoLinkText "Flere informationer…">
+<!ENTITY identity.enableMixedContentBlocking.label "Slå beskyttelse til">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "t">
+<!ENTITY identity.disableMixedContentBlocking.label "Slå beskyttelse fra indtil videre">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "f">
+<!ENTITY identity.learnMore "Læs mere">
+
+<!ENTITY identity.moreInfoLinkText2 "Mere information">
 
 <!ENTITY identity.permissions "Tilladelser">
-
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip "Hvordan kan jeg se, om min forbindelse til et websted er sikker?">
+<!ENTITY identity.permissionsEmpty "Du har ikke tildelt dette websted nogle særlige tilladelser.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Faneblade">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu2.label     "Faneblade fra andre enheder">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!ENTITY syncTabsMenu3.label     "Synkroniserede faneblade">
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
-<!ENTITY syncSetup.label              "Indstil &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "y">
+<!ENTITY syncSignIn.label             "Log ind på &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Synkroniser nu">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Genopret forbindelse til &syncBrand.shortName.label;…">
@@ -699,9 +816,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "Ikke nu">
 
-<!ENTITY social.directory.label "Aktiverings-mapper">
-<!ENTITY social.directory.text "Du kan aktivere delings-tjenester fra mappen.">
-<!ENTITY social.directory.button "Gå til mappen">
+<!ENTITY social.directory.label "Delings-tjenester">
+<!ENTITY social.directory.text "Du har ingen aktive delings-tjenester">
+<!ENTITY social.directory.button "Find tjenester">
 <!ENTITY social.directory.introText "Klik på en tjeneste for at føje den til &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Se flere">
 
@@ -719,7 +836,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hent flere temaer">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
-<!ENTITY customizeMode.deveditionTheme.label "Brug &brandShortName;-tema">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Flyt fokus til chats">
@@ -734,30 +850,35 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon til deling:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "Lyd fra fanebladet vil blive delt.">
 <!ENTITY getUserMedia.allWindowsShared.message "Alle synlige vinduer på din skærm vil blive delt.">
 
-<!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "De fleste websteder vil virke, selvom indhold er blokeret.">
-
-<!ENTITY mixedContentBlocked2.message "Usikkert indhold">
-<!ENTITY mixedContentBlocked2.moreinfo "Ukrypteret indhold på dette websted er blevet blokeret.">
-<!ENTITY mixedContentBlocked2.learnMore "Læs mere">
-<!ENTITY mixedContentBlocked2.options "Indstillinger">
-<!ENTITY mixedContentBlocked2.unblock.label "Deaktiver beskyttelse for nu">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Aktiver beskyttelse">
-<!ENTITY mixedContentBlocked2.block.accesskey "A">
-<!ENTITY mixedContentBlocked2.disabled.message "Beskyttelse er deaktiveret">
+<!ENTITY trackingProtection.title "Beskyttelse mod sporing">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokerer de dele af siden, der kan spore dig på nettet.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Dette websted indeholder elementer, der kan spore dig på nettet. Du har slået beskyttelse fra.">
+<!ENTITY trackingProtection.notDetected3 "Ingen sporings-elementer fundet på denne side">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "Deaktiver beskyttelse for dette websted.">
+<!ENTITY trackingProtection.unblock.accesskey "D">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Deaktiver beskyttelse for denne session">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Aktiver beskyttelse">
+<!ENTITY trackingProtection.block2.accesskey "A">
 
 <!ENTITY trackingContentBlocked.message "Sporing">
-<!ENTITY trackingContentBlocked.moreinfo "Dele af siden, der sporer din aktivitet på nettet, er blevet blokeret.">
+<!ENTITY trackingContentBlocked.moreinfo "De dele af siden, der sporer din aktivitet på nettet, er blevet blokeret.">
 <!ENTITY trackingContentBlocked.learnMore "Læs mere">
 <!ENTITY trackingContentBlocked.options "Indstillinger">
 <!ENTITY trackingContentBlocked.unblock2.label "Deaktiver beskyttelse for dette websted">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Aktiver beskyttelse">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
-<!ENTITY trackingContentBlocked.disabled.message "Sporingsbeskyttelse er deaktiveret">
+<!ENTITY trackingContentBlocked.disabled.message "Beskyttelse mod sporing er deaktiveret">
 
 <!ENTITY pointerLock.notification.message "Tryk på ESC for at få den vist igen.">
 
@@ -776,16 +897,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "Fanebladet gik ned">
-<!ENTITY tabCrashed.message "Se, det her er pinligt. Vi forsøgte at vise denne webside, men den svarer ikke">
-<!ENTITY tabCrashed.checkSendReport "Fortæl &vendorShortName; om dette, så de kan ordne problemet.">
-<!ENTITY tabCrashed.tryAgain "Prøv igen">
-
 <!ENTITY uiTour.infoPanel.close "Luk">
 
 <!ENTITY appMenuSidebars.label "Sidepaneler">
-
-<!ENTITY switchToMetroCmd2.label       "Genindlæs i &brandShortName; til Windows 8 Touch">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
@@ -811,3 +925,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg1                "Din seneste historik er ryddet.">
 <!ENTITY panicButton.thankyou.msg2                "Sikker surfing!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Tak!">
+
+<!ENTITY emeLearnMoreContextMenu.label            "Læs mere om DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "æ">
+<!ENTITY emeNotificationsNotNow.label             "Ikke nu">
+<!ENTITY emeNotificationsNotNow.accesskey         "I">
+<!ENTITY emeNotificationsDontAskAgain.label       "Spørg mig ikke igen">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "S">

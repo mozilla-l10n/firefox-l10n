@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "47em">
 <!ENTITY  window.macWidth                 "47em">
 
-<!ENTITY  allowPagesToUse.label           "Tillad indhold at vælge deres egne farver i stedet for mine valg ovenover">
-<!ENTITY  allowPagesToUse.accesskey       "i">
+<!ENTITY  overridePageColors.label        "Tilsidesæt de angivne farver i indholdet og brug i stedet mine valg ovenfor:">
+<!ENTITY  overridePageColors.accesskey    "i">
+
+<!ENTITY  overridePageColors.always.label "Altid">
+<!ENTITY  overridePageColors.auto.label   "Kun ved temaer med høj kontrast">
+<!ENTITY  overridePageColors.never.label  "Aldrig">
 
 <!ENTITY  color                           "Tekst og baggrund">
 <!ENTITY  textColor.label                 "Tekst:">

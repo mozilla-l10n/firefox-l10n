@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Gem som…">
 <!ENTITY saveAsCmd.accesskey "m">
-<!ENTITY saveAsChangeEncodingCmd.label "Gem med tegnsættet">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd2.label "Gem og udskift tegnkodning">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "U">
 <!ENTITY publishCmd.label "Overfør">
 <!ENTITY publishCmd.accesskey "o">
 <!ENTITY publishCmd.key "S">

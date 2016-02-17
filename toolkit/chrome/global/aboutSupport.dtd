@@ -15,13 +15,11 @@
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Rapport-ID">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.sendDate "Sendt">
 <!ENTITY aboutSupport.crashes.allReports "Alle fejlrapporter">
 <!ENTITY aboutSupport.crashes.noConfig "Dette program er ikke konfigureret til at vise fejlrapporter.">
 
-<!ENTITY aboutSupport.extensionsTitle "Tilføjelser">
+<!ENTITY aboutSupport.extensionsTitle "Udvidelser">
 <!ENTITY aboutSupport.extensionName "Navn">
 <!ENTITY aboutSupport.extensionEnabled "Aktiveret">
 <!ENTITY aboutSupport.extensionVersion "Version">
@@ -34,13 +32,16 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "Aktiv">
 <!ENTITY aboutSupport.experimentEndDate "Slutdato">
 <!ENTITY aboutSupport.experimentHomepage "Websted">
+<!ENTITY aboutSupport.experimentBranch "Gren">
 
 <!ENTITY aboutSupport.appBasicsTitle "Programinfo">
 <!ENTITY aboutSupport.appBasicsName "Navn">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsBuildID "Build-ID">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Opdateringskanal">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Opdateringshistorik">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Vis opdateringshistorik">
 
@@ -55,7 +56,14 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Hukommelsesforbrug">
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Registrerede Service Workers">
+
+<!ENTITY aboutSupport.appBasicsProfiles "Profiler">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiproces-vinduer">
+
+<!ENTITY aboutSupport.appBasicsSafeMode "Fejlsikret tilstand">
 
 <!ENTITY aboutSupport.showDir.label "Åbn mappe">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -94,3 +102,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopier tekst til udklipsholderen">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopier rå data til udklipsholderen">
+
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+<!ENTITY aboutSupport.safeModeTitle "Prøv fejlsikret tilstand">
+<!ENTITY aboutSupport.restartInSafeMode.label "Genstart med tilføjelser deaktiveret…">

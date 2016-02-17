@@ -6,5 +6,5 @@
 <!ENTITY ccAddr.label "Kopi til (Cc):">
 <!ENTITY bccAddr.label "Skjult kopi til (Bcc):">
 <!ENTITY replyAddr.label "Svar til (Reply-To):">
-<!ENTITY newsgroupsAddr.label "Nyhedsgruppe (Newsgroup):">
-<!ENTITY followupAddr.label "Opfølgning til (Followup-To):">
+<!ENTITY newsgroupsAddr.label "Nyhedsgruppe:">
+<!ENTITY followupAddr.label "Opfølgning til:">

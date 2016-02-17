@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Forbindelsessikkerhed">
 <!ENTITY aboutSupport.accountsAuthMethod "Godkendelsesmetode">
 <!ENTITY aboutSupport.accountsDefault "Som standard?">
+<!ENTITY aboutSupport.identityName "Identitet">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Send som mail">

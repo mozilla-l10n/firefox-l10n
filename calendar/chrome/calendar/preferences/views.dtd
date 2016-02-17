@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Første ugedag:">
 <!ENTITY pref.weekstarts.accesskey "u">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Vis ugenummer i kalender og minikalender">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "i">
 <!ENTITY pref.daysoff.label "Arbejdsdage i hver uge:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dagen starter kl.:">
