@@ -360,7 +360,7 @@
 <!ENTITY pref_scroll_title_bar_summary2 "Ukrywanie paska przeglądarki &brandShortName; przy przewijaniu stron">
 
 <!ENTITY pref_tab_queue_title3 "Kolejka kart">
-<!ENTITY pref_tab_queue_summary3 "Zachowywanie odnośników do następnego otwarcia programu &brandShortName;">
+<!ENTITY pref_tab_queue_summary4 "Zachowywanie odnośników do następnego otwarcia programu &brandShortName;">
 
 <!ENTITY page_removed "Usunięto stronę">
 
