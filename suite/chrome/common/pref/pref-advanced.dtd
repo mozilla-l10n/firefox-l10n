@@ -14,8 +14,8 @@
 <!ENTITY prefCheckDefaultClient.label     "Verificar definições da aplicação ao iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "c">
 
-<!ENTITY crashReports.caption             "Relatórios de erro">
-<!ENTITY submitCrashes.label              "Enviar relatórios de erro">
+<!ENTITY crashReports.caption             "Relator de falhas">
+<!ENTITY submitCrashes.label              "Enviar relatórios de falha">
 <!ENTITY submitCrashes.accesskey          "s">
 
 <!ENTITY devTools.caption                 "Ferramentas de desenvolvimento">
