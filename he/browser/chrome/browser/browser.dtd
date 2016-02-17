@@ -200,6 +200,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "ניהול השימוש בתוספים חיצוניים בדף זה">
 
 
+<!ENTITY urlbar.servicesNotificationAnchor.label        "הצגת הודעת התקנת שירות">
+<!ENTITY urlbar.translateNotificationAnchor.label       "תרגום דף זה">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "ניהול תרגומי דפים">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
 
@@ -238,8 +241,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "תוספות">
 <!ENTITY addons.accesskey             "ת">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "יישומונים">
-<!ENTITY webapps.accesskey            "י">
 
 <!ENTITY webDeveloperMenu.label       "כלי פיתוח">
 <!ENTITY webDeveloperMenu.accesskey   "כ">
@@ -732,7 +733,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
 <!ENTITY identity.connectionVerified1 "כרגע על חיבור מאובטח לאתר זה, המופעל ע״י:">
 <!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
-<!ENTITY identity.insecureLoginForms "פרטי ההתחברות שלך עלולות להיות בסיכון.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; חסם חלקים שאינם בטוחים בדף זה.">
@@ -916,10 +916,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "ל">
 <!ENTITY emeNotificationsDontAskAgain.label       "אל תשאל אותי שוב">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-<!ENTITY saveToPocketCmd.label     "שמירת דף אל Pocket">
-<!ENTITY saveToPocketCmd.accesskey "ד">
-<!ENTITY saveLinkToPocketCmd.label     "שמירת קישור אל Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "ק">
-<!ENTITY pocketMenuitem.label      "צפייה ברשימה של Pocket">
