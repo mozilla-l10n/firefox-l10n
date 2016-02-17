@@ -270,3 +270,8 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Trykk for å logge inn som &formatS;'>
+
+<!-- Localization note: the following strings are used in a
+     notification and should be kept as short as possible. -->
+<!ENTITY old_sync_deprecated_notification_title 'Logg inn for å fortsette synkronisering'>
+<!ENTITY old_sync_deprecated_notification_content 'Kontoen din er ikke lenger støttet'>
