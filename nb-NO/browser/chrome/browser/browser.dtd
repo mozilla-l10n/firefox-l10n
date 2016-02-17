@@ -750,7 +750,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sikker tilkobling">
 <!ENTITY identity.connectionNotSecure "Tilkoblingen er ikke sikker">
 <!ENTITY identity.connectionFile "Denne siden lagres på datamaskinen din.">
-<!ENTITY identity.connectionVerified1 "Du en sikret tilkobling til dette nettstedet, drevet av:">
+<!ENTITY identity.connectionVerified1 "Sikker tilkobling til nettstedet, drevet av:">
 <!ENTITY identity.connectionInternal "Dette er en sikker &brandShortName;-side.">
 <!ENTITY identity.insecureLoginForms "Innloggingen din kan være kompromittert.">
 
