@@ -17,8 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "О">
 <!ENTITY cmd.removeFromHistory.label               "Премахване от историята">
 <!ENTITY cmd.removeFromHistory.accesskey           "х">
-
-
-
-
-
+<!ENTITY cmd.clearList.label                       "Изчистване на списък">
+<!ENTITY cmd.clearList.accesskey                   "ч">
+<!ENTITY cmd.clearList.tooltip                     "Премахва от списъка със записани файлове всички записи, без текущите сваляния.">
+<!ENTITY cmd.searchDownloads.label                 "Търсене...">
+<!ENTITY cmd.searchDownloads.key                   "F">
