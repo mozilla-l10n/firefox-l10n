@@ -37,16 +37,16 @@
 
 <!ENTITY  switch_to_tab "Mudar para o separador">
 
-<!ENTITY  crash_reporter_title "Relator de erros do &brandShortName;">
-<!ENTITY  crash_message2 "O &brandShortName; teve um problema e crachou. Os seus separadores deverão estar listados na página Inicial do &brandShortName; quando reiniciar.">
-<!ENTITY  crash_send_report_message3 "Informar a &vendorShortName; sobre este erro para que o possam resolver">
+<!ENTITY  crash_reporter_title "Relator de falhas do &brandShortName;">
+<!ENTITY  crash_message2 "O &brandShortName; teve um problema e falhou. Os seus separadores deverão estar listados na página Inicial do &brandShortName; quando reiniciar.">
+<!ENTITY  crash_send_report_message3 "Informar a &vendorShortName; sobre esta falha para que a possam resolver">
 <!ENTITY  crash_include_url2 "Incluir o endereço da página onde eu estava">
 <!ENTITY  crash_sorry "Pedimos desculpa">
 <!ENTITY  crash_comment "Adicione um comentário (os comentários estão visíveis publicamente)">
 <!ENTITY  crash_allow_contact2 "Permitir que o &vendorShortName; me contacte sobre este relatório">
 <!ENTITY  crash_email "O seu e-mail">
-<!ENTITY  crash_closing_alert "Sair sem enviar um relatório de erro?">
-<!ENTITY  sending_crash_report "A enviar relatório de erro\u2026">
+<!ENTITY  crash_closing_alert "Sair sem enviar um relatório de falha?">
+<!ENTITY  sending_crash_report "A enviar relatório de falha\u2026">
 <!ENTITY  crash_close_label "Fechar">
 <!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
 <!ENTITY  exit_label "Sair">
@@ -368,10 +368,10 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Ver o meu Relatório do Estado">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Partilha dados de desempenho, utilização, hardware e personalização do seu navegador com a &vendorShortName; para nos ajudar a melhorar o &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de erro para ajudar a &vendorShortName; a tornar o seu navegador mais estável e seguro">
+<!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de falha para ajudar a &vendorShortName; a tornar o seu navegador mais estável e seguro">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Relator de erro">
+<!ENTITY datareporting_crashreporter_title_short "Relator de falhas">
 <!ENTITY datareporting_wifi_title2 "Serviço de localização do &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Ajude o &vendorShortName; a mapear o mundo! Partilhe a localização aproximada da rede sem fios e da rede móvel do seu dispositivo para melhorar o nosso serviço de geolocalização.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
