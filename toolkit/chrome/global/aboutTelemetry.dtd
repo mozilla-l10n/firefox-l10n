@@ -20,8 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Archyve esantys ryšio tikrinimo duomenys">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Ryšio tikrinimo duomenų rodymas:">
 
+<!ENTITY aboutTelemetry.structured "Struktūrizuotas">
 
+<!ENTITY aboutTelemetry.raw "Pirminis JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Rodyti posesijinius duomenis">
 
@@ -31,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Senesnis ryšio patikrinimas &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Pirminiai ryšio tikrinimo duomenys…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Savaitė">
 
@@ -58,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Vėlavę įrašymai">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  Seanso informacija">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Priedų sukauptos histogramos">
 
@@ -73,3 +78,4 @@
 
 <!ENTITY aboutTelemetry.filterText "  Filtras (tekstas arba /reguliarusis reiškinys/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Apkrova">
