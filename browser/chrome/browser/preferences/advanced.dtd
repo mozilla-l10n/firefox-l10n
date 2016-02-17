@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "P">
 <!ENTITY blockAutoRefresh.label          "Įspėti, jei svetainė bando nukreipti kitur arba atsiųsti tinklalapį iš naujo">
 <!ENTITY blockAutoRefresh.accesskey      "n">
-
-
+<!ENTITY useOnScreenKeyboard.label       "Rodyti jutiklinę klaviatūrą kai reikia">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "Naršymas">
 
