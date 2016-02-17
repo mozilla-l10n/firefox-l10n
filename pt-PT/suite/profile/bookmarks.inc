@@ -89,7 +89,7 @@
 # link title for https://addons.mozilla.org/en-US/seamonkey/themes
 
 
-#define seamonkey_themes Temas SeaMonkey
+#define seamonkey_themes Temas do SeaMonkey
 
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
@@ -125,10 +125,10 @@
 # link title for http://www.mozdev.org/projects/applications/SeaMonkey.html
 
 
-#define mozdev_seamonkey Extensões para o SeaMonkey em mozdev.org
+#define mozdev_seamonkey Extensões para o SeaMonkey da mozdev.org
 
 
-#define community_support Comunidade e suporte
+#define community_support Comunidade e apoio
 
 
 # LOCALIZATION NOTE (seamonkey_community):
@@ -137,7 +137,7 @@
 # link title for http://www.seamonkey-project.org/community
 
 
-#define seamonkey_community Comunidade SeaMonkey
+#define seamonkey_community Comunidade do SeaMonkey
 
 
 # LOCALIZATION NOTE (mozillazine):
@@ -155,7 +155,7 @@
 # link title for the mozillaZine SeaMonkey Support forum
 
 
-#define seamonkey_support Fórum de suporte do SeaMonkey (mozillaZine)
+#define seamonkey_support Fórum de apoio do SeaMonkey (mozillaZine)
 
 
 # LOCALIZATION NOTE (seamonkey_l10n):
