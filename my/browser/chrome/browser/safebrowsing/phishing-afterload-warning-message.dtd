@@ -5,8 +5,8 @@
 <!ENTITY safeb.palm.accept.label "ဒီနေရာမှ ကျွန်ပ်ကကို ဆွဲထုတ်ပါ။">
 <!ENTITY safeb.palm.decline.label "ဒီသတိပေးချက်ကို လျစ်လျုရှုပါ">
 <!ENTITY safeb.palm.notforgery.label2 "ဒါဟာ လိမ်လည်တဲ့ ကွန်ရက် တခု မဟုတ်ဘူး။">
-
-
+<!ENTITY safeb.palm.reportPage.label "ဤဝဘ်ဆိုက်ကို ဘာကြောင့်ပိတ်ထားသနည်း။">
+<!ENTITY safeb.palm.whyForbidden.label "ဤဝဘ်ဆိုက်ကို ဘာကြောင့်ပိတ်ထားသနည်း။">
 
 <!ENTITY safeb.blocked.malwarePage.title "တိုက်ခိုက်သတင်ပေးခြင်းခံထားရသောစာမျက်နှာ!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -23,5 +23,6 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "ယခုဝတ်စာမျက်နှာ၏<span id='phishing_sitename'/>အားသတင်ပေးပို့ထားခြင်းအားတွေ့ရှိရပြီးသင်၏လုံခြုံရေးအပြင်အဆင်များအရပိတ်ပင်ထားခြင်းခံံသည်။">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>ဝတ်ဆိုက်နှောက်ယှက်သူများဟာသင့်အားယောင်ဝါးဝါးဖြစ်စေသောအချက်အလက်များဖြင့်သင့်ထဲမှာ ကိုယ်ရေးကိုယ်တာအချက်အလက်များနှင့်စီးပွားရေးဆိုင်ရာအချက်အလက်များခိုးယူရန်စီစဉ်ထားတတ်ပါသည်</p><p>ဝတ်စာမျက်နှာထဲသို့မည်သည့်အချက်အလက်များထည့်လိုက်စေကာမူအရာအားလုံးဆိုက်ဘာသူခိုးများလက်သို့ရောက်ရှိသွားမည်ဖြစ်သည်။</p>">
 
+<!ENTITY safeb.blocked.forbiddenPage.title2 "ပိတ်ထားသည့် ဝဘ်ဆိုက်">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

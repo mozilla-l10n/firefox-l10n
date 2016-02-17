@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "၀တ်ဆိုက်သည် ညွှန်းဆိုသို့ပြန်လည် ရယူပြသချင်လိုပါက ကျွန်ုပ်အားသတိပေးပါ။">
 <!ENTITY blockAutoRefresh.accesskey      "၀">
-
-
+<!ENTITY useOnScreenKeyboard.label       "လိုအပ်လျှင် တို့ထိ(k)ကီးဘုတ်ကို ပြပါ">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "လှော်လှန်ခြင်း">
 

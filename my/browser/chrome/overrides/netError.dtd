@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "စာမျက်နှာ ဖွင့်လှစ်မှု အမှား">
 <!ENTITY retry.label "ထပ်ကြိုးစားပါ">
-
-
+<!ENTITY returnToPreviousPage.label "နောက်သို့ သွားရန်">
+<!ENTITY advanced.label "အဆင့်မြင့်">
 <!-- Specific error messages -->
 
 
@@ -141,6 +141,7 @@ installed.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Entering any personal information on this page may result in identity theft or other fraud.</p> 
 <p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
 
+<!ENTITY forbiddenBlocked.title "တားမြစ်ထားသည့် ဝဘ်ဆိုက်">
 
 
 <!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
@@ -176,8 +177,9 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
+<!ENTITY weakCryptoUsed.title "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
+<!ENTITY weakCryptoAdvanced.title "အဆင့်မြင့်">
 
 

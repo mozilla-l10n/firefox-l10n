@@ -7,13 +7,14 @@
 <!ENTITY  blockPopups.label           "B ပွင့်ထွက်ဝင်းဒိုးများကိုပိတ်ဆို့ပါ">
 <!ENTITY  blockPopups.accesskey       "B">
 
-
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "အသိပေးချက်များ">
+<!ENTITY  notificationsPolicyLearnMore.label   "ပိုမိုလေ့လာရန်">
+<!ENTITY  notificationsPolicyDesc3.label       "သင့်ထံ အသိပေးချက်များ ပေးပို့မည့် ဝဘ်ဆိုက်များကို ရွေးချယ်ပါ">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "(h)ရွေးပါ…">
+<!ENTITY  notificationsDoNotDisturb.label      "(n)မနှောင့်ယှက်ရ">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "သင် &brandShortName; ကို ပြန်လည်စတင်ခြင်း မဆောင်ရွက်သည့်အချိန်ထိ မည်သည့် အသိပေးချက်မျှ ပြသမည်မဟုတ်ပါ">
 
 <!ENTITY  popupExceptions.label       "E ခြွင်းချက်များ...">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -56,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM အကြောင်းအရာများကို ဖွင့်ပါ P">
 <!ENTITY  playDRMContent.accesskey     "P">
-
+<!ENTITY  playDRMContent.learnMore.label "ပိုမိုလေ့လာရန်">

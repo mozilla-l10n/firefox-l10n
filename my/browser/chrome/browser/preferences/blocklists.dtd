@@ -8,6 +8,7 @@
 <!ENTITY treehead.list.label          "စာရင်း">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "(C)ရပ်ဆိုင်းပါ">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "ပြောင်းလဲမှုများကို (S)သိမ်းပါ">
+<!ENTITY button.ok.accesskey          "S">

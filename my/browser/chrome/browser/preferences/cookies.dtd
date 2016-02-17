@@ -21,7 +21,7 @@
 <!ENTITY     props.path.label               "လမ်းကြောင်း">
 <!ENTITY     props.secure.label             "ပို့ရမဲ့အရာ၊">
 <!ENTITY     props.expires.label            "သက်တမ်းကုန်တယ်၊">
-
+<!ENTITY     props.container.label          "ကွန်တိန်နာ။ ။">
 
 <!ENTITY     window.title                   "ကွတ်ကီးများ">
 <!ENTITY     windowClose.key                "w ">
