@@ -158,8 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "Приоритет">
 <!ENTITY priorityMenu.accesskey "т">
-
-
+<!ENTITY priorityButton.title "Приоритет">
+<!ENTITY priorityButton.tooltiptext "Промяна приоритета на писмото">
 <!ENTITY priorityButton.label "Приоритет:">
 <!ENTITY lowestPriorityCmd.label "По-нисък">
 <!ENTITY lowestPriorityCmd.accesskey "с">
@@ -215,7 +215,7 @@
 <!ENTITY addressButton.tooltip "Изберете получател от адресника">
 <!ENTITY attachButton.tooltip "Закачане на притурка">
 <!ENTITY spellingButton.tooltip "Правописна проверка на маркировката или цялото писмо">
-
+<!ENTITY statusLanguageText.tooltip "Език за проверка на правописа">
 <!ENTITY saveButton.tooltip "Запис на писмото">
 <!ENTITY cutButton.tooltip              "Изрязване">
 <!ENTITY copyButton.tooltip             "Копиране">
@@ -307,3 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Контакти">
 <!-- Identity popup customize menuitem -->
 
+<!ENTITY customizeFromAddress.label "Потребителски От адрес…">
+<!ENTITY customizeFromAddress.accesskey "а">
