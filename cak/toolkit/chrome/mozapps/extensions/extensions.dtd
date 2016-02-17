@@ -1,14 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY addons.windowTitle                   "Kinuk'samajel taq tz'aqat">
 
 <!ENTITY search.buttonlabel                   "Tikanöx">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "p">
 
-
-
+<!ENTITY listEmpty.installed.label            "Man k'o ta ruwäch re taq atz'aqat eyakon">
+<!ENTITY listEmpty.availableUpdates.label     "Majun taq k'exoj ruwäch xe'ilitäj ">
 
 
 <!ENTITY listEmpty.search.label               "Man xe'ilitäj ta taq qasan ri nikixïm ki'.">
@@ -34,9 +35,9 @@
 <!-- global informations -->
 <!ENTITY info.plugincheck.tooltip               "Tapitz'a' qa wawe' richin natz'ët we ek'exon ri taq apluyin">
 <!-- categories / views -->
-
+<!ENTITY view.discover.label                  "Kek'ulutäj ri taq tz'aqat">
 <!ENTITY view.recentUpdates.label             "K'ak'a' taq k'exoj">
-
+<!ENTITY view.availableUpdates.label          "Taq k'exoj e k'o">
 <!-- addon updates -->
 
 
@@ -62,23 +63,23 @@
 <!ENTITY updates.noneFound.label              "Majun taq k'exoj ruwäch xe'ilitäj ">
 <!ENTITY updates.manualUpdatesFound.label     "Ketz'et ri taq k'exoj e k'o">
 <!ENTITY updates.updateSelected.label         "Keyak taq k'exoj">
-
+<!ENTITY updates.updateSelected.tooltip       "Keyak ri taq k'exoj e k'o pa re rucholajem re'">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label                "Kek'ut pe ch'aqa' chik rutzijol">
 <!ENTITY cmd.showDetails.accesskey            "K">
 <!ENTITY cmd.findUpdates.label                "Kekanöx taq k'exoj">
 <!ENTITY cmd.findUpdates.accesskey            "K">
-
-
+<!ENTITY cmd.preferencesWin.label             "Taq cha'oj">
+<!ENTITY cmd.preferencesWin.accesskey         "c">
 <!ENTITY cmd.preferencesUnix.label            "Taq ajowab'äl">
 <!ENTITY cmd.preferencesUnix.accesskey        "T">
 
 
 
 
-
-
+<!ENTITY cmd.disableAddon.label               "Tichup">
+<!ENTITY cmd.disableAddon.accesskey           "T">
 <!ENTITY cmd.enableTheme.label                "Tokisäx wachinel">
 <!ENTITY cmd.enableTheme.accesskey            "T">
 <!ENTITY cmd.disableTheme.label               "Tiq'at rokisaxik wachinel">
@@ -86,7 +87,7 @@
 <!ENTITY cmd.askToActivate.label              "Tik'utüx richin nitzij">
 
 
-
+<!ENTITY cmd.alwaysActivate.tooltip           "Junelïk tokisäx re tz'aqat re'">
 <!ENTITY cmd.neverActivate.label              "Majub'ey titzij">
 <!ENTITY cmd.neverActivate.tooltip            "Majub'ey tokisäx re tz'aqat re'">
 
@@ -142,6 +143,9 @@
 
 
 <!-- ratings -->
+
+
+<!ENTITY rating2.label                        "Kijachik">
 <!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Q'atïk">
 <!-- list sorting -->
@@ -153,7 +157,7 @@
 
 
 
-
+<!ENTITY sort.price.label                     "Rajil">
 
 
 <!ENTITY search.filter2.installed.label       "Taq nutz'aqat">

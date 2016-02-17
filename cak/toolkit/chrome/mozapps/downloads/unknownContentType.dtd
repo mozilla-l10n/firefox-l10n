@@ -11,11 +11,12 @@
 <!ENTITY  saveFile.label              "Tiyak yakb'äl">
 <!ENTITY  saveFile.accesskey          "T">
 
-
+<!ENTITY  rememberChoice.label        "Tikamulüx re na'oj re' wakami junelïk chi ke re ruwäch taq yakb'äl re'.">
+<!ENTITY  rememberChoice.accesskey    "a">
 
 <!ENTITY  whichIs.label              "ri jun:">
 
 
-
-
+<!ENTITY  chooseHandler.label         "Tinik'öx…">
+<!ENTITY  chooseHandler.accesskey     "T">
 

@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY  offline.toggleOffline.label     "Tiq'ax wakami pa rub'anikil okem pa k'amaya'l.">
+<!ENTITY  offline.toggleOffline.accesskey "T">
 
-
-
+<!ENTITY  mismatch.win.title              "E k'o taq tz'aqat ri man nikik'äm ta ki'">
 <!ENTITY  mismatch.top.label              "Re taq tz'aqat re' man nikik'äm ta ki' rik'in re ruwäch re' 
 &brandShortName; ruma toq xechup:">
 
@@ -37,6 +38,7 @@ xkerïl taq k'exoj nikik'äm ki' kik'in re taq tz'aqat re'.">
 ruma ri ruyakik kema' pa &brandShortName; xchup. 
 Tab'ana' utzil, katzijon rik'in ri runuk'samajel q'inoj richin nawïl ato'ik.">
 
+<!ENTITY  versioninfo.wizard.title        "Tajin ninik'öx ri nikik'äm ki' taq tz'aqat">
 
 <!ENTITY  versioninfo.waiting             "Re re' rik'in jub'a' xtiyoke' jujun ch'utiramaj…">
 

@@ -4,7 +4,7 @@
 
 <!ENTITY playButton.playLabel "Titzij">
 <!ENTITY playButton.pauseLabel "Titanab'äx">
-
+<!ENTITY muteButton.muteLabel "Timemür">
 <!ENTITY muteButton.unmuteLabel "Tak'axäx">
 
 <!ENTITY fullscreenButton.exitfullscreenlabel "Tel pa tz'aqät ruwäch kematz'ib'">
@@ -15,7 +15,7 @@
 <!ENTITY stats.activity "Samaj">
 <!ENTITY stats.activityPaused "Tanab'an">
 <!ENTITY stats.activityPlaying "Tajin nitzij">
-
+<!ENTITY stats.activityEnded "Xk'is">
 <!ENTITY stats.activitySeeking "(tajin nikanöx)">
 <!ENTITY stats.volume "Ruch'ab'äl">
 <!ENTITY stats.framesParsed "Samajin taq kajtz'ik">
