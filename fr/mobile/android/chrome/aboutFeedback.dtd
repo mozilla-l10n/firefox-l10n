@@ -15,7 +15,7 @@
 <!-- LOCALIZATION NOTE (support.post3): Include a starting space as needed. -->
 <!ENTITY support.pre3              "Vous pouvez visiter notre ">
 <!ENTITY support.link2             "site d’assistance">
-<!ENTITY support.post3             " pour obtenir des réponses aux problèmes les plus fréquents.">
+<!ENTITY support.post3             " pour obtenir des réponses aux questions les plus fréquentes.">
 
 <!ENTITY happy.header              "Merci de votre soutien !">
 <!ENTITY happy.message             "Voulez-vous nous aider encore plus en nous attribuant une note de 5 étoiles sur Google Play ?">
