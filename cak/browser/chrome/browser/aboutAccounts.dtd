@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "Matyox xatuqa pa &syncBrand.shortName.label;…">
-<!ENTITY aboutAccounts.connected "Okisan ri taqoya'l">
+<!ENTITY aboutAccounts.welcome "Matyox xatuqa pa &syncBrand.shortName.label;… ">
+<!ENTITY aboutAccounts.connected "Okisan ri taqoya'l ">
 
-<!ENTITY aboutAccountsConfig.description "Katok chupam asamaj richin yeximitäj ri taq ruwi', yakäl taq etal, ewan tzij chuqa' juley chik.">
-<!ENTITY aboutAccountsConfig.startButton.label "Nab'ey ch'utaq rub'eyal">
-<!ENTITY aboutAccountsConfig.useOldSync.label "¿Tajin nawokisaj jun ojer rub'eyal ri Sync?">
-<!ENTITY aboutAccountsConfig.syncPreferences.label "Taq rajowaxik ximojri'ïl">
-<!ENTITY aboutAccounts.noConnection.title "Majun okib'äl">
-<!ENTITY aboutAccounts.noConnection.description "Rajowaxik chi at okinäq pa k'amaya'l richin natikirisaj molojri'ïl.">
-<!ENTITY aboutAccounts.noConnection.retry "Tatojtob'ej chik">
+<!ENTITY aboutAccountsConfig.description "Katok chupam asamaj richin yeximitäj ri taq ruwi', yakäl taq etal, ewan tzij chuqa' juley chik. ">
+<!ENTITY aboutAccountsConfig.startButton.label "Nab'ey ch'utaq rub'eyal ">
+<!ENTITY aboutAccountsConfig.useOldSync.label "¿Tajin nawokisaj jun ojer rub'eyal ri Sync? ">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Taq rajowaxik ximojri'ïl ">
+<!ENTITY aboutAccounts.noConnection.title "Majun okib'äl ">
+<!ENTITY aboutAccounts.noConnection.description "Rajowaxik chi at okinäq pa k'amaya'l richin natikirisaj molojri'ïl. ">
+<!ENTITY aboutAccounts.noConnection.retry "Tatojtob'ej chik ">

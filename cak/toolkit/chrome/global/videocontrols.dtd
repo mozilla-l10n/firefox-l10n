@@ -26,7 +26,7 @@
 <!ENTITY error.aborted "Xpa'e' ri rutzijik silowachib'äl.">
 <!ENTITY error.network "Xq'at rutzijik silowachib'äl ruma jun sachoj pa ruk'u'x samaj.">
 <!ENTITY error.decode "Man tikirel ta nitz'et ri silowachib'äl ruma chi itzel ri yakb'äl.">
-
+<!ENTITY error.srcNotSupported "Ri rub'anikil o ruwäch">
 <!ENTITY error.noSource2 "Majun silowachib'äl xelitäj, ri nikixïm ki' pa MIME rub'anikil chuqa' ruwäch.">
 <!ENTITY error.generic "Xpa'e' ri rutzijik silowachib'äl ruma jun sachoj ri man etaman ta.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current

@@ -138,7 +138,7 @@
 
 <!ENTITY detail.showPreferencesWin.label      "Taq cha'oj">
 <!ENTITY detail.showPreferencesWin.accesskey  "T">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Kejal ri taq rucha'oj re tz'aqat re'">
 
 
 
