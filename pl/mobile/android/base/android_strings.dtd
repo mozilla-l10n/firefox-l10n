@@ -359,7 +359,7 @@
 <!ENTITY pref_scroll_title_bar2 "Przeglądanie pełnoekranowe">
 <!ENTITY pref_scroll_title_bar_summary2 "Ukrywanie paska przeglądarki &brandShortName; przy przewijaniu stron">
 
-<!ENTITY pref_tab_queue_title2 "Otwieranie wielu odnośników">
+<!ENTITY pref_tab_queue_title3 "Kolejka kart">
 <!ENTITY pref_tab_queue_summary3 "Zachowywanie odnośników do następnego otwarcia programu &brandShortName;">
 
 <!ENTITY page_removed "Usunięto stronę">
