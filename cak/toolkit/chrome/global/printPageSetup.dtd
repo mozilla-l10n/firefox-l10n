@@ -3,6 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from printjoboptions.xul -->
 
+<!ENTITY basic.tab           "B'anikil chuqa' taq cha'oj">
+
+<!ENTITY formatGroup.label   "B'anikil">
+
+
+
+
+
+
+<!ENTITY scale.label         "Xakb'äl:">
+<!ENTITY scale.accesskey     "X">
 
 
 
@@ -23,6 +34,8 @@
 
 
 
+<!ENTITY hfLeft.label        "Xokon:">
+<!ENTITY hfCenter.label      "Runik'ajal">
 
 
 
@@ -31,15 +44,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY hfTitle             "B'i'aj">
 <!ENTITY hfURL               "K'AL">
 
 

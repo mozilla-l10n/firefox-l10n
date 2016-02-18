@@ -85,8 +85,8 @@
 <!ENTITY cmd.preferencesWin.accesskey         "c">
 <!ENTITY cmd.preferencesUnix.label            "Taq ajowab'äl">
 <!ENTITY cmd.preferencesUnix.accesskey        "T">
-
-
+<!ENTITY cmd.about.label                      "Chi rij">
+<!ENTITY cmd.about.accesskey                  "C">
 
 <!ENTITY cmd.enableAddon.label                "Titzij">
 <!ENTITY cmd.enableAddon.accesskey            "T">
