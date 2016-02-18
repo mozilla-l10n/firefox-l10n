@@ -89,7 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "Įdiegti simuliatorių">
 <!ENTITY runtimePanel_noadbhelper "Įdiegti ADB pagelbiklį">
 <!ENTITY runtimePanel_nousbdevice "Nematote savo įrenginio?">
-
+<!ENTITY runtimePanel_refreshDevices_label "Atnaujinti įrenginius">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "patikra sėkminga">
@@ -215,6 +215,6 @@
 <!ENTITY simulator_device "Įrenginys">
 <!ENTITY simulator_screenSize "Ekranas">
 <!ENTITY simulator_pixelRatio "Taškų santykis">
-
+<!ENTITY simulator_tv_data "TV simuliatorius">
 <!ENTITY simulator_tv_data_open "Konfigūracijos duomenys">
-
+<!ENTITY simulator_tv_data_open_button "Atverti konfigūracijos katalogą…">
