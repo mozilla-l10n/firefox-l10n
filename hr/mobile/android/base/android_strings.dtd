@@ -13,7 +13,7 @@
 <!ENTITY firstrun_urlbar_message "Dobro došli u &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Pronađite stvari brže uz korisne prečice na prijedloge pretraživanja.">
 <!ENTITY firstrun_bookmarks_title "Povijest">
-
+<!ENTITY firstrun_bookmarks_message "Vaši favoriti, sprijeda i u sredini">
 <!ENTITY firstrun_bookmarks_subtext "Dobijte rezultate iz vaših zabilješki i povijesti kada pretražujete.">
 <!ENTITY firstrun_data_title "Podaci">
 <!ENTITY firstrun_data_message "Manje podataka, više ušteda">
