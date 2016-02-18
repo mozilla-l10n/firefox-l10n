@@ -80,7 +80,7 @@
 <!ENTITY certs.ask.accesskey "C">
 <!ENTITY enableOCSP.label "Interrogare i risponditori OCSP per confermare l'attuale validità dei certificati">
 <!ENTITY enableOCSP.accesskey "e">
-<!ENTITY viewCertificates.label "Mostra certificati">
-<!ENTITY viewCertificates.accesskey "M">
+<!ENTITY manageCertificates.label "Gestisci certificati">
+<!ENTITY manageCertificates.accesskey "G">
 <!ENTITY viewSecurityDevices.label "Dispositivi di sicurezza">
 <!ENTITY viewSecurityDevices.accesskey "D">
