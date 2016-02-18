@@ -20,8 +20,8 @@
 <!ENTITY replaceButton.accessKey "З">
 <!ENTITY replaceAllButton.label "Замяна на всички">
 <!ENTITY replaceAllButton.accessKey "в">
-
-
+<!ENTITY stopButton.label "Спиране">
+<!ENTITY stopButton.accessKey "С">
 <!ENTITY userDictionary.label "Личен речник:">
 <!ENTITY moreDictionaries.label "Изтегляне на още речници…">
 <!ENTITY addToUserDictionaryButton.label "Добавяне">
