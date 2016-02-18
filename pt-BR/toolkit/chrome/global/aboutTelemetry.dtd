@@ -20,6 +20,7 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Dados de ping arquivados">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Exibição de dados de ping:">
 
 <!ENTITY aboutTelemetry.structured "
 Estruturado
