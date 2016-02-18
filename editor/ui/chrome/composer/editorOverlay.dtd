@@ -86,8 +86,8 @@
 <!ENTITY fontSizeMenu.accesskey "ج">
 <!ENTITY size-tinyCmd.label "ضئيل">
 <!ENTITY size-tinyCmd.accesskey "ض">
-
-
+<!ENTITY size-smallCmd.label "صغير">
+<!ENTITY size-smallCmd.accesskey "ص">
 <!ENTITY size-mediumCmd.label "متوسط">
 <!ENTITY size-mediumCmd.accesskey "م">
 <!ENTITY size-largeCmd.label "كبير">
