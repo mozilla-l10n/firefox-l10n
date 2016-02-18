@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Bha leudachain ann nach b’ urrainn dhuinn dearbhadh">
 <!ENTITY showAllExtensions.button.label       "Seall a h-uile leudachan">
-
-
+<!ENTITY debugAddons.label                    "Dì-bhugaich na tuilleadain">
+<!ENTITY debugAddons.accesskey                "b">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Chaidh a h-uile tuilleadan a chur à comas leis a' mhodh sàbhailte.">
