@@ -10,31 +10,31 @@ by NSS/PSM via netError.xhtml. -->
 
 
 <!ENTITY certerror.pagetitle1  "Itzel chi okem ">
-<!ENTITY certerror.longpagetitle1 "Itzel ri awokem ">
+<!ENTITY certerror.longpagetitle1 "Itzel ri awokem  ">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara "Ri rajaw re <span class='hostname'/> man ütz ta xunuk'ub'ej ri ruxaq k'amaya'l. Richin natob'ej ri awetamab'al richin man teleq'äx, &brandShortName; man xatrokisaj ta pa re ruxaq k'amaya'l re'. ">
-<!ENTITY certerror.returnToPreviousPage.label "Titzolin ">
-<!ENTITY certerror.learnMore "Tetamäx ch'aqa' chik… ">
-<!ENTITY certerror.advanced.label "Q'axinäq ">
+<!ENTITY certerror.introPara "Ri rajaw re <span class='hostname'/> man ütz ta xunuk'ub'ej ri ruxaq k'amaya'l. Richin natob'ej ri awetamab'al richin man teleq'äx, &brandShortName; man xatrokisaj ta pa re ruxaq k'amaya'l re'.  ">
+<!ENTITY certerror.returnToPreviousPage.label "Titzolin  ">
+<!ENTITY certerror.learnMore "Tetamäx ch'aqa' chik…  ">
+<!ENTITY certerror.advanced.label "Q'axinäq  ">
 
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Re ruxaq k'amaya'l re' kan nrokisaj Nïm Ruchajinïk Ruk'wayöl HTTP (HSTS)
 richin nuya' retal chi &brandShortName; xa xe tok
 rik'in rija' pa ütz rub'anikil. Rin nib'e'el chi man nitikïr ta nutz'aqtisaj jun man relik ta chi re re
- ruwujil b'i'aj re'.">
+ ruwujil b'i'aj re'. ">
 
 <!ENTITY certerror.expert.content "We niq'ax chawäch ri tajin nik'ulwachitäj 
  tikirel nab'ij chi re &brandShortName; kuqül k'u'x chi rij re jun rupam k'amaya'l re'. 
 <b> Ke ri' chuqa' we kuqül ak'u'x chi rij re rupam k'amaya'l re, re jun sachoj re' rik'in jub'a' chuqa' nuq'ajuj 
- chi k'o jun ri nuju' ri' chupam ri awokem.</b> ">
+ chi k'o jun ri nuju' ri' chupam ri awokem.</b>  ">
 <!ENTITY certerror.expert.contentPara2 "Man tatz'aqatisaj ta jun man relik ta 
-rajowaxik chi kan awetaman chi re jun ruxaq re' man trokisaj ri kuqül tz'etonem. ">
-<!ENTITY certerror.addException.label "Ruya'ik jun man okel ta… ">
-<!ENTITY certerror.copyToClipboard.label "Tiwachib'ëx ri rucholajem tzij pa molwuj ">
+rajowaxik chi kan awetaman chi re jun ruxaq re' man trokisaj ri kuqül tz'etonem.  ">
+<!ENTITY certerror.addException.label "Ruya'ik jun man okel ta…  ">
+<!ENTITY certerror.copyToClipboard.label "Tiwachib'ëx ri rucholajem tzij pa molwuj  ">
 
-<!ENTITY errorReporting.automatic "Taya' kitzijol k'ayewal achi'el re' richin nato' ri Mozilla chi nuya' ketal ri taq ruxaq k'amaya'l itzel rub'anon kinuk'ulem. ">
-<!ENTITY errorReporting.sending "Tajin nitaq ri rutzijol ">
-<!ENTITY errorReporting.sent "Taqon rutzijol ">
-<!ENTITY errorReporting.tryAgain "Titojtob'ëx chik ">
+<!ENTITY errorReporting.automatic "Taya' kitzijol k'ayewal achi'el re' richin nato' ri Mozilla chi nuya' ketal ri taq ruxaq k'amaya'l itzel rub'anon kinuk'ulem.  ">
+<!ENTITY errorReporting.sending "Tajin nitaq ri rutzijol  ">
+<!ENTITY errorReporting.sent "Taqon rutzijol  ">
+<!ENTITY errorReporting.tryAgain "Titojtob'ëx chik  ">

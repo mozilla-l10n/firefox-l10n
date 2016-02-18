@@ -4,6 +4,7 @@
 
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
+<!ENTITY checking.heading            "Kinik'oxik taq atz'aqat">
 <!ENTITY checking.progress.label     "Tajin ninik'öx ri kik'amonik taq atz'aqat rik'in re ruwäch chi &brandShortName;.">
 
 <!ENTITY select.heading              "Ke'acha' ri taq atz'aqat">

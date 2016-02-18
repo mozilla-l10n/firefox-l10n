@@ -13,7 +13,7 @@
 <!ENTITY listEmpty.installed.label            "Man k'o ta ruwäch re taq atz'aqat eyakon">
 <!ENTITY listEmpty.availableUpdates.label     "Majun taq k'exoj ruwäch xe'ilitäj ">
 <!ENTITY listEmpty.recentUpdates.label        "Majun k'ak'a' k'exoj ab'anon chi ke ri taq tz'aqat">
-
+<!ENTITY listEmpty.findUpdates.label          "Kekanöx taq jaloj">
 <!ENTITY listEmpty.search.label               "Man xe'ilitäj ta taq qasan ri nikixïm ki'.">
 <!ENTITY listEmpty.button.label               "Tetamäx ch'aqa' chik chi kij ri taq tz'aqat">
 <!ENTITY installAddonFromFile.label           "Tiyak ri tz'aqat rik'in ri yakb'äl…">
@@ -28,11 +28,13 @@
 <!ENTITY debugAddons.label                    "Kechojmirisäx taq tz'aqat">
 <!ENTITY debugAddons.accesskey                "c">
 <!-- global warnings -->
+
+<!ENTITY warning.safemode.label                    "Konojel ri taq tz'aqat xechup pa ri ütz rub'eyal.">
 <!ENTITY warning.checkcompatibility.label          "Chupül ri runuk'oxik richin we nikik'äm ki' ri taq tz'aqat. Rik'in jub'a' k'o jujun taq tz'aqat, ri man nikik'äm ta ki'.">
 <!ENTITY warning.checkcompatibility.enable.label   "Titzij">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Titzij ri runik'oxik richin chi nikik'äm ki' ri taq tz'aqat.">
 <!ENTITY warning.updatesecurity.label              "Chupül ri runik'oxik chajinïk richin kik'exoj taq tz'aqat. Rik'in jub'a' k'o pa k'ayewal ri awokik'amaya'l kuma ri taq k'exoj.">
-
+<!ENTITY warning.updatesecurity.enable.label       "Titzij">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Titzij ri ya'öl retal chajinïk richin nik'ex ri tz'aqat">
 <!-- global informations -->
 
@@ -96,7 +98,7 @@
 <!ENTITY cmd.disableTheme.accesskey           "r">
 <!ENTITY cmd.askToActivate.label              "Tik'utüx richin nitzij">
 <!ENTITY cmd.askToActivate.tooltip            "Tik'utüx pe richin toq xtokisäx re tz'aqat re'">
-
+<!ENTITY cmd.alwaysActivate.label             "Junelïk tzijïl">
 <!ENTITY cmd.alwaysActivate.tooltip           "Junelïk tokisäx re tz'aqat re'">
 <!ENTITY cmd.neverActivate.label              "Majub'ey titzij">
 <!ENTITY cmd.neverActivate.tooltip            "Majub'ey tokisäx re tz'aqat re'">
@@ -105,12 +107,12 @@
 <!ENTITY cmd.installAddon.accesskey           "T">
 <!ENTITY cmd.uninstallAddon.label             "Telesäx">
 <!ENTITY cmd.uninstallAddon.accesskey         "s">
-
+<!ENTITY cmd.showPreferencesWin.label         "Taq cha'oj">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Kejal ri taq rucha'oj re tz'aqat re'">
 <!ENTITY cmd.showPreferencesUnix.label        "Taq ajowab'äl">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Kejal ri taq rucha'oj re tz'aqat re'">
-
-
+<!ENTITY cmd.contribute.label                 "Kito'on">
+<!ENTITY cmd.contribute.accesskey             "K">
 <!ENTITY cmd.contribute.tooltip               "Kito'on chi rusamajixik re tz'aqat re'">
 
 <!ENTITY cmd.showReleaseNotes.label           "Kek'ut pe ri ch'utaq rutzijol re ruwäch">
@@ -122,7 +124,9 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "¿Atux ri taq tz'aqat?">
-
+<!ENTITY discover.description2                "Ri taq tz'aqat taq e chokoy, ri nikiya' q'ij chawe richin nawichinaj &brandShortName; rik'in 
+rutz'aqat rusamaj o rub'anikil. Tatojtob'ej rik'in rukajtz'ik ruchi' richin nayäk aramaj, jun rutzijonel rub'anikil ri q'ij o tatz'eta' konojel ri taq na'oj richin naya' kan &brandShortName; 
+achi'el arayib'al.">
 <!ENTITY discover.footer                      "Toq atokinäq pa k'amaya'l, re pas re' xtiwachin pe 
 jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'atojtob'ej.">
 <!-- detail view -->
@@ -148,7 +152,7 @@ jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'a
 
 <!ENTITY detail.checkForUpdates.label         "Kekanöx taq k'exoj">
 <!ENTITY detail.checkForUpdates.accesskey     "t">
-
+<!ENTITY detail.checkForUpdates.tooltip       "Kekanöx taq kik'exoj re taq tz'aqat re'">
 <!ENTITY detail.showPreferencesWin.label      "Taq cha'oj">
 <!ENTITY detail.showPreferencesWin.accesskey  "T">
 <!ENTITY detail.showPreferencesWin.tooltip    "Kejal ri taq rucha'oj re tz'aqat re'">
@@ -160,6 +164,8 @@ jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'a
 
 <!ENTITY rating2.label                        "Kijachik">
 <!-- download/install progress -->
+
+<!ENTITY progress.pause.tooltip               "Tuxlan">
 <!ENTITY progress.cancel.tooltip              "Q'atïk">
 <!-- list sorting -->
 
@@ -168,10 +174,10 @@ jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'a
 <!ENTITY sort.name.tooltip                    "Kenuk' chi b'i'aj">
 <!ENTITY sort.dateUpdated.label               "Ruk'isib'äl k'exoj">
 <!ENTITY sort.dateUpdated.tooltip             "Ticholajíx chi ruq'ijul xk'ex">
-
+<!ENTITY sort.relevance.label                 "Chuq'utz'ib'anem">
 <!ENTITY sort.relevance.tooltip               "Ticholajïx chi ruq'ij">
 <!ENTITY sort.price.label                     "Rajil">
-
+<!ENTITY sort.price.tooltip                   "Tinuk' chi rajil">
 
 <!ENTITY search.filter2.label                 "Tikanöx:">
 <!ENTITY search.filter2.installed.label       "Taq nutz'aqat">
@@ -180,12 +186,13 @@ jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'a
 <!ENTITY search.filter2.available.tooltip     "Kek'ut pe ri taq tzaqat e k'o richin yeyak">
 
 <!ENTITY addon.homepage                       "Ruxaq tikirisab'äl">
-
-
+<!ENTITY addon.details.label                  "Ch'aqa' chik">
+<!ENTITY addon.details.tooltip                "Titz'et ch'aqa' chik taq rub'anikil re tz'aqat re'">
 <!ENTITY addon.unknownDate                    "Man etaman ta ruwäch">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(chupül)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if

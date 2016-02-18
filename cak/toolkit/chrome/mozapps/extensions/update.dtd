@@ -4,6 +4,7 @@
 
 <!ENTITY  updateWizard.title              "Taq k'exoj ruwäch &brandShortName;">
 
+<!ENTITY  offline.title                   "&brandShortName; k'o pa rub'eyal majun okem pa k'amaya'l">
 <!ENTITY  offline.description             "&brandShortName; nrajo' chi tiq'ax pa rub'eyal okem pa k'amaya'l richin kekanöx 
 taq k'exoj ri e k'o, chi nib'an chi ke ri taq atz'aqat 
 chi tikik'äm ki' rik'in re k'ak'a' ruwäch re'.">
@@ -39,7 +40,8 @@ xkerïl taq k'exoj nikik'äm ki' kik'in re taq tz'aqat re'.">
 
 <!ENTITY  finished.wizard.title           "Taq tz'aqat nikik'äm ki', ri eyakon">
 <!ENTITY  finished.top.label              "&brandShortName; xeruyäk ri taq kik'exoj taq atz'aqat.">
-
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; junelïk xtukanoj chuqa' xtuya' rutzijol chawe 
+toq xkerïl taq kik'exoj ri taq tz'aqat.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; junelïk xtikanon chuqa' xtuya' rutzijol chawe 
 toq xkerïl taq kik'exoj ri taq tz'aqat.">
 

@@ -19,7 +19,7 @@
 <!ENTITY stats.activitySeeking "(tajin nikanöx)">
 <!ENTITY stats.volume "Ruch'ab'äl">
 <!ENTITY stats.framesParsed "Samajin taq kajtz'ik">
-
+<!ENTITY stats.framesDecoded "Taq kajtz'ik man echolajin ta">
 <!ENTITY stats.framesPresented "Taq kajtz'ik ek'utun pe">
 <!ENTITY stats.framesPainted "K'utun taq kajtz'ik">
 
