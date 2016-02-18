@@ -17,28 +17,28 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
-<!ENTITY warningDesc.version        "&brandShortName; choj ok nitojtob’ëx, rik’in jub’a’ man pa rub’eyal ta.">
+<!ENTITY warningDesc.version        "&brandShortName; choj ok nitojtob’ëx, rik’in jub’a’ man pa rub’eyal ta. ">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ruyonil nutäq rutzijol ri rusamaj, rumolik samajib'äl, rokisaxik chuqa' taq winaqirem pa &vendorShortName; richin nito'on pa ruwi' ri &brandShortName; richin nutzïr.">
+<!ENTITY warningDesc.telemetryDesc  "Ruyonil nutäq rutzijol ri rusamaj, rumolik samajib'äl, rokisaxik chuqa' taq winaqirem pa &vendorShortName; richin nito'on pa ruwi' ri &brandShortName; richin nutzïr. ">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "Titaq pa ruyonil ri rutzijol chi rij rusamaj, ruch'akulal kematz'ib', rokisaxik chuqa' ruchojmirisaxik pa &vendorShortName; richin rutzil ri &amp;vendorShortName.">
+<!ENTITY community.exp.start        "Titaq pa ruyonil ri rutzijol chi rij rusamaj, ruch'akulal kematz'ib', rokisaxik chuqa' ruchojmirisaxik pa &vendorShortName; richin rutzil ri &amp;vendorShortName. ">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " jun ">
+<!ENTITY community.exp.middle       " jun  ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "molaj winaqilal">
-<!ENTITY community.exp.end          " yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k’amaya’l.">
+<!ENTITY community.exp.creditsLink  "molaj winaqilal ">
+<!ENTITY community.exp.end          " yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k’amaya’l. ">
 
-<!ENTITY community.start2           "&brandShortName; wachib’en ruma ">
+<!ENTITY community.start2           "&brandShortName; wachib’en ruma  ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", jun ">
+<!ENTITY community.mozillaLink      "&vendorShortName; ">
+<!ENTITY community.middle2          ", jun  ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "molaj winaqilal">
-<!ENTITY community.end3             " junam yojsamäj richin jantape jaqäl, okel nisamajïx ri k’amaya’l.">
+<!ENTITY community.creditsLink      "molaj winaqilal ">
+<!ENTITY community.end3             " junam yojsamäj richin jantape jaqäl, okel nisamajïx ri k’amaya’l. ">
 
-<!ENTITY helpus.start               "¿La nawajo' yato'on? ">
+<!ENTITY helpus.start               "¿La nawajo' yato'on?  ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "Taya' jun sipanïk">
 <!ENTITY helpus.middle              " o ">

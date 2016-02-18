@@ -13,9 +13,11 @@
 <!ENTITY select.keep                 "Tik'oje' na">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
+<!ENTITY select.keep.style           "width: 6ch;">
 <!ENTITY select.action               "Samaj">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
+<!ENTITY select.action.style         "width: 35ch;">
 <!ENTITY select.source               "Yakon ruma">
 <!ENTITY select.name                 "B'i'aj">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
@@ -36,7 +38,7 @@
 <!ENTITY update.heading              "Tajin yek'ex ri taq atz'aqat">
 <!ENTITY update.progress.label       "Tajin yeqasäx chuqa' tajin yeyak taq k'exoj kichin ri taq tz'aqat echa'on.">
 
-
+<!ENTITY errors.description          "Xsach ri kiyakik taq kik'exoj jujun taq tz'aqat. &brandShortName; xtutojtob'ej xkeruk'ëx pa kiyonil jub'a' na chik.">
 
 <!ENTITY footer.label                "Junelïk yatikïr ye'akëx ri taq atz'aqat pa kinuk'samajel taq tz'aqat.">
 <!ENTITY cancel.label                "Q'atïk">

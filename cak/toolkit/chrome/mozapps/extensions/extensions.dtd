@@ -63,8 +63,8 @@
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa kiyonil.">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "T">
-
-
+<!ENTITY updates.resetUpdatesToManual.label          "Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa chi q'ab'aj.">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "T">
 <!ENTITY updates.updating.label               "Tajin yek'ex ri taq tz'aqat">
 <!ENTITY updates.installed.label              "Xek'extäj re taq ak'exoj re'.">
 <!ENTITY updates.downloaded.label             "Xeq'at ri kik'exoj ri taq atz'aqat.">
@@ -100,14 +100,14 @@
 <!ENTITY cmd.alwaysActivate.tooltip           "Junelïk tokisäx re tz'aqat re'">
 <!ENTITY cmd.neverActivate.label              "Majub'ey titzij">
 <!ENTITY cmd.neverActivate.tooltip            "Majub'ey tokisäx re tz'aqat re'">
-
+<!ENTITY cmd.stateMenu.tooltip                "Tijal toq re tz'aqat re' tzijïl">
 <!ENTITY cmd.installAddon.label               "Tiyak">
 <!ENTITY cmd.installAddon.accesskey           "T">
 <!ENTITY cmd.uninstallAddon.label             "Telesäx">
 <!ENTITY cmd.uninstallAddon.accesskey         "s">
 
 <!ENTITY cmd.showPreferencesWin.tooltip       "Kejal ri taq rucha'oj re tz'aqat re'">
-
+<!ENTITY cmd.showPreferencesUnix.label        "Taq ajowab'äl">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Kejal ri taq rucha'oj re tz'aqat re'">
 
 
@@ -123,7 +123,8 @@
 
 <!ENTITY discover.title                       "¿Atux ri taq tz'aqat?">
 
-
+<!ENTITY discover.footer                      "Toq atokinäq pa k'amaya'l, re pas re' xtiwachin pe 
+jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'atojtob'ej.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Ruwäch">
@@ -134,6 +135,7 @@
 
 <!ENTITY detail.contributions.description     "Ri runuk'unel re tz'aqat re', nuk'utüj chawe chi tato' rik'in rub'anik, rik'in naya' jun ko'öl ato'ik.">
 
+<!ENTITY detail.updateType                    "K'exoj pa kiyonil">
 <!ENTITY detail.updateDefault.label           "Jikib'an wi">
 <!ENTITY detail.updateDefault.tooltip         "Pa kiyonil keyak ri taq k'exoj, xa xe we kan e k'o wi">
 <!ENTITY detail.updateAutomatic.label         "Titzij">
@@ -233,7 +235,7 @@
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "Re taq tz'aqat re' man xenik'öx ta richin ye'okisáx pa &brandShortName;. Tatikïr">
 <!ENTITY disabledUnsigned.description.findAddonsLink "Ke'ilitäj taq jalwachinïk">
-
+<!ENTITY disabledUnsigned.description.end " tik'utüx chi re ri nuk'unel chi kerunik'oj.">
 <!ENTITY disabledUnsigned.learnMore "Tetamäx ch'aqa' chik pa ruwi' ri qarayib'al richin yatqato' chi k'o achajinik pa k'amab'ey.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
