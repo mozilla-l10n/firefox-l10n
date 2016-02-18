@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY matchAll.label     "Faigh seise do gach aon dhe na leanas">
+<!ENTITY matchAll.label     "Maidsich gach aon dhe na leanas">
 <!ENTITY matchAll.accesskey "a">
-<!ENTITY matchAny.label     "Faigh seise do ghin dhe na leanas">
-<!ENTITY matchAny.accesskey "o">
+<!ENTITY matchAny.label     "Maidsich gin de dhe na leanas">
+<!ENTITY matchAny.accesskey "n">
 <!ENTITY matchAllMsgs.label     "Maids a h-uile teachdaireachd">
 <!ENTITY matchAllMsgs.accesskey "M">
 <!-- LOCALIZATION NOTE

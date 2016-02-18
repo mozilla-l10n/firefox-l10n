@@ -16,16 +16,16 @@
 <!ENTITY highPriorityCmd.label "Àrd">
 <!ENTITY highestPriorityCmd.label "As àirde">
 
-<!ENTITY contextDesc.label "Cleachd a' chriathrag nuair:">
-<!ENTITY contextIncomingMail.label "A thathar a' faighinn post ùr:">
-<!ENTITY contextIncomingMail.accesskey "t">
-<!ENTITY contextManual.label "A thathar 'ga ruith a làimh">
+<!ENTITY contextDesc.label "Cleachd a’ chriathrag aig na h-amannan a leanas:">
+<!ENTITY contextIncomingMail.label "Nuair a gheibhear post ùr:">
+<!ENTITY contextIncomingMail.accesskey "g">
+<!ENTITY contextManual.label "Nuair a chuirear gu dol a làimh">
 <!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "Criathraich mus comharraichear truilleis">
 <!ENTITY contextAfterCls.label "Criathraich an dèidh comharrachadh na truilleis">
 <!ENTITY contextOutgoing.label "An dèidh a chuir">
 <!ENTITY contextOutgoing.accesskey "d">
-<!ENTITY contextArchive.label "Tasglannadh">
+<!ENTITY contextArchive.label "Aig àm tasglannaidh">
 <!ENTITY contextArchive.accesskey "a">
 
 <!ENTITY filterActionDesc.label "Dèan na leanas:">
