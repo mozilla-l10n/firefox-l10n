@@ -25,4 +25,5 @@
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "ပိတ်ထားသည့် ဝဘ်ဆိုက်">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/>တွင်ရှိသည့် ဝဘ်စာမျက်နှာကို သင့်စီမံဖိုင်က ပိတ်ပင်ထားပါသည်။">
 
