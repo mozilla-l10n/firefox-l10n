@@ -11,13 +11,13 @@
 <!ENTITY  onboard_start_subtext3 "اجعل تجربة تصفّح الوِبّ على الهاتف فريدة.">
 
 <!ENTITY firstrun_urlbar_message "مرحبًا بك مع &brandShortName;">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "ابحث عمَّ تريد بسرعة مستخدمًا اقتراحات البحث المفيدة.">
+<!ENTITY firstrun_bookmarks_title "التأريخ">
+<!ENTITY firstrun_bookmarks_message "مفضلاتك، في الأمام و الوسط">
+<!ENTITY firstrun_bookmarks_subtext "اجلب النتائج من العلامات و التّأريخ عندما تبحث.">
+<!ENTITY firstrun_data_title "البيانات">
+<!ENTITY firstrun_data_message "بيانات أقل، توفير أكثر">
+<!ENTITY firstrun_data_subtext "احجب الصور لتوفير البيانات في كل موقع تزوره">
 <!ENTITY firstrun_sync_title "تزامُن">
 <!ENTITY firstrun_sync_message "&brandShortName;، معك دائما">
 <!ENTITY firstrun_sync_subtext "زامن ألسنتك، و كلمات السر و غيرهم المزيد أينما استخدمتها.">
