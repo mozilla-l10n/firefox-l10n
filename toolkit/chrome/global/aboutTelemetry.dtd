@@ -20,8 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Dàta nam ping tasglannaichte">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Taisbeanadh dàta na ping:">
 
+<!ENTITY aboutTelemetry.structured "Structaraichte">
 
+<!ENTITY aboutTelemetry.raw "JSON amh">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Seall dàta nam fo-sheiseanan">
 
@@ -31,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping nas sine &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Dàta ping amh...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Seachdain">
 
