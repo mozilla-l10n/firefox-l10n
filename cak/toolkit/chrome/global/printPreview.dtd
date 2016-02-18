@@ -13,21 +13,21 @@
 <!ENTITY scale.accesskey      "X">
 
 
-
-
+<!ENTITY landscape.label      "Kotz'öl">
+<!ENTITY landscape.accesskey  "K">
 <!ENTITY close.label          "Elem">
 <!ENTITY close.accesskey      "C">
-
+<!ENTITY p30.label            "30&#037;">
 
 <!ENTITY p50.label            "50&#037;">
-
+<!ENTITY p60.label            "60&#037;">
 
 <!ENTITY p80.label            "80&#037;">
 
 <!ENTITY p100.label           "100&#037;">
+<!ENTITY p125.label           "125&#037;">
 
-
-
+<!ENTITY p175.label           "175&#037;">
 
 
 <!ENTITY ShrinkToFit.label    "Tinuk'ub'ëx rik'in ruxaq">

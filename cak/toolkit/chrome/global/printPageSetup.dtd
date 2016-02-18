@@ -19,17 +19,19 @@
 
 
 
+<!ENTITY printBG.label       "Kewachib'ëx rupam (taq b'onil chuqa' taq wachib'äl)">
+<!ENTITY printBG.accesskey   "r">
+
+
+<!ENTITY marginGroup.label   "Taq ruchi' (#1)">
 
 
 
 
 
 
-
-
-
-
-
+<!ENTITY marginLeft.label    "Xokon:">
+<!ENTITY marginLeft.accesskey "X">
 
 
 
@@ -41,15 +43,15 @@
 
 
 
-
-
+<!ENTITY footerCenter.tip    "Ruk'u'x retal">
+<!ENTITY footerRight.tip     "Ajkiq'a' aqanaj">
 
 <!ENTITY hfTitle             "B'i'aj">
 <!ENTITY hfURL               "K'AL">
 
 
 
+<!ENTITY hfBlank             "--majun--">
+<!ENTITY hfCustom            "Ichinan…">
 
-
-
-
+<!ENTITY customPrompt.prompt "Tatz'ib'aj ri ichinan rucholajem tzij richin ri rujub'i'aj/kamulun tzij">

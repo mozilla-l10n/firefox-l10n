@@ -4,6 +4,10 @@
 <!-- extracted from printjoboptions.xul -->
 
 
+<!ENTITY printJobOptions.title "Taq ruch'akulal tz'ajb'äl">
+
+<!ENTITY paperInput.label "Runimilem wuj:">
+<!ENTITY paperInput.accesskey "R">
 
 
 
@@ -16,7 +20,7 @@
 
 
 
-
-
-
-
+<!ENTITY leftInput.label "Xokon:">
+<!ENTITY leftInput.accesskey "X">
+<!ENTITY rightInput.label "Ajkiq'a':">
+<!ENTITY rightInput.accesskey "A">
