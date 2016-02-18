@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "Čińće swoje mobilne webpřehladowanske dožiwjenje woprawdźe k swojemu.">
 
 <!ENTITY firstrun_urlbar_message "Witajće do &brandShortName;">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Namakajće wěcy spěšnišo z wužitnymi tastowymi skrótšenki za pytanske namjety">
+<!ENTITY firstrun_bookmarks_title "Historija">
+<!ENTITY firstrun_bookmarks_message "Waše fawority, na prědnišim fronće">
+<!ENTITY firstrun_bookmarks_subtext "Wobstarajće sej wuslědki z wašich zapołožkow a historije, hdyž pytaće.">
+<!ENTITY firstrun_data_title "Daty">
+<!ENTITY firstrun_data_message "Mjenje datow, wjace zalutowanjow">
+<!ENTITY firstrun_data_subtext "Blokujće wobrazy, zo byšće mjenje datow na kóždym sydłem kotrež wopytujeće, přetrjebował">
 <!ENTITY firstrun_sync_title "Sync">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, přeco při was">
+<!ENTITY firstrun_sync_subtext "Synchronizujće swoje rajtarki, hesła a wjace wšudźe, hdźež jón wužiwaće.">
+<!ENTITY firstrun_signin_message "Zwjazajće so, započńće">
+<!ENTITY firstrun_signin_button "Pola Sync přizjewić">
 <!ENTITY  onboard_start_button_browser "Přehladowanje startować">
 <!ENTITY firstrun_button_next "Přichodny">
 
@@ -255,6 +255,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Nic nětko">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "K nastajenjam">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -746,7 +747,7 @@ z Androida">
 <!ENTITY restrictable_feature_private_browsing "Priwatny modus">
 <!ENTITY restrictable_feature_private_browsing_description "Zmóžnja swójbnym přehladować bjeztoho, zo bychu so informacije wo sydłach a stronach składowali, kotrež su wopytali.">
 <!ENTITY restrictable_feature_clear_history "Historiju zhašeć">
-<!ENTITY restrictable_feature_clear_history_description "Zmóžnja swójbnym, informacije wo sydłach a stronach zhašeć, kotrež su wopytali. ">
+<!ENTITY restrictable_feature_clear_history_description "Zmóžnja swójbnym, informacije wo sydłach a stronach zhašeć, kotrež su wopytali.">
 <!ENTITY restrictable_feature_advanced_settings "Rozšěrjene nastajenja">
 <!ENTITY restrictable_feature_advanced_settings_description "To zapřijima importowanje zapołožkow, wobnowjenje rajtarkow a awtomatiske aktualizacije. Wupińće to, zo byšće zjednorjene nastajenja zmóžnił, kotrež su za swójbneho přihódne.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera a mikrofon">
