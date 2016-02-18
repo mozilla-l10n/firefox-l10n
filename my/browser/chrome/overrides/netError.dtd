@@ -142,7 +142,7 @@ installed.</li>
 <p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
 
 <!ENTITY forbiddenBlocked.title "တားမြစ်ထားသည့် ဝဘ်ဆိုက်">
-
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; သည် ဒီစာမျက်နှာကို ခေါ်တင်ခြင်းမှ ကာကွယ်ထားသည်။ အဘယ့်ကြောင့်ဆိုသော် ထိုစာမျက်နှာကို ပိတ်ပင်ရန် စီမံထားသောကြောင့် ဖြစ်သည်။</p>">
 
 <!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
@@ -165,6 +165,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "မလိုတမာဝဘ်ဆိုက်များကို မော်ဇီလာက ခွဲခြားသတ်မှတ်ရာတွင်နှင့် ပိတ်ပင်တားဆီးရာတွင် ကူညီရန် ယခုကိစ္စကဲ့သို့သော အမှားများကို အကြောင်းကြားပေးပို့ပါ။">
 <!ENTITY errorReporting.learnMore "ပိုမို လေ့လာပါ…">
 <!ENTITY errorReporting.sending "အစီရင်ခံစာကို ပေးပို့နေသည်">
 <!ENTITY errorReporting.sent "အစီရင်ခံစာကို ပေးပို့ပြီးပြီ">
@@ -176,10 +177,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "လုံခြုံစိတ်ချစွာ မချိတ်ဆက်နိုင်ပါ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "Advanced info: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "အဆင့်မြင့်">
 
 
