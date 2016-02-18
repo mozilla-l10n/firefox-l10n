@@ -38,6 +38,7 @@
 <!ENTITY update.heading              "Tajin yek'ex ri taq atz'aqat">
 <!ENTITY update.progress.label       "Tajin yeqasäx chuqa' tajin yeyak taq k'exoj kichin ri taq tz'aqat echa'on.">
 
+<!ENTITY errors.heading              "&brandShortName; man nitikïr ta yeruk'ëx jujun taq atz'aqat">
 <!ENTITY errors.description          "Xsach ri kiyakik taq kik'exoj jujun taq tz'aqat. &brandShortName; xtutojtob'ej xkeruk'ëx pa kiyonil jub'a' na chik.">
 
 <!ENTITY footer.label                "Junelïk yatikïr ye'akëx ri taq atz'aqat pa kinuk'samajel taq tz'aqat.">

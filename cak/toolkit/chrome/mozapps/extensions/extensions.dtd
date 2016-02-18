@@ -29,7 +29,7 @@
 <!ENTITY debugAddons.accesskey                "c">
 <!-- global warnings -->
 <!ENTITY warning.checkcompatibility.label          "Chupül ri runuk'oxik richin we nikik'äm ki' ri taq tz'aqat. Rik'in jub'a' k'o jujun taq tz'aqat, ri man nikik'äm ta ki'.">
-
+<!ENTITY warning.checkcompatibility.enable.label   "Titzij">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Titzij ri runik'oxik richin chi nikik'äm ki' ri taq tz'aqat.">
 <!ENTITY warning.updatesecurity.label              "Chupül ri runik'oxik chajinïk richin kik'exoj taq tz'aqat. Rik'in jub'a' k'o pa k'ayewal ri awokik'amaya'l kuma ri taq k'exoj.">
 
@@ -114,7 +114,7 @@
 <!ENTITY cmd.contribute.tooltip               "Kito'on chi rusamajixik re tz'aqat re'">
 
 <!ENTITY cmd.showReleaseNotes.label           "Kek'ut pe ri ch'utaq rutzijol re ruwäch">
-
+<!ENTITY cmd.showReleaseNotes.tooltip         "Kek'ut ri taq rutzijol re ruwäch chi k'exoj re'">
 <!ENTITY cmd.hideReleaseNotes.label           "Ke'ewäx taq rutziol ri ruwäch">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ke'ewäx ri taq rutzijol re ruwäch chi k'exoj re'">
 <!-- discovery view -->
@@ -140,7 +140,7 @@ jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'a
 <!ENTITY detail.updateDefault.tooltip         "Pa kiyonil keyak ri taq k'exoj, xa xe we kan e k'o wi">
 <!ENTITY detail.updateAutomatic.label         "Titzij">
 <!ENTITY detail.updateAutomatic.tooltip       "Kiyonïl keyak ri taq k'exoj">
-
+<!ENTITY detail.updateManual.label            "Tichup">
 <!ENTITY detail.updateManual.tooltip          "Man keyak pa kiyonil ri taq k'exoj">
 <!ENTITY detail.home                          "Ruxaq tikirib'äl">
 <!ENTITY detail.repository                    "Ruwäch rub'i' tz'aqat">
@@ -197,13 +197,13 @@ jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'a
 <!ENTITY addon.undoRemove.tooltip             "Tib'än chi tiyake' re rutz'aqat re'">
 <!ENTITY addon.restartNow.label               "Titzij chik wakami">
 <!ENTITY addon.install.label                  "Rujumik">
-
+<!ENTITY addon.install.tooltip                "Tiyak re tz'aqat re'">
 <!ENTITY addon.updateNow.label                "Tik'ex wakami">
 <!ENTITY addon.updateNow.tooltip              "Tiyak ri ruk'exoj re tz'aqat re'">
 <!ENTITY addon.includeUpdate.label            "Tiya' pa ri k'exoj">
 <!ENTITY addon.updateAvailable.label          "K'o jun k'exoj">
 <!ENTITY addon.checkingForUpdates.label       "Kijunamaxik taq jaloj">
-
+<!ENTITY addon.releaseNotes.label             "Ruch'utitzijol re ruwäch re'">
 <!ENTITY addon.loadingReleaseNotes.label      "Tajin nok…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Takuyu' qamak, xa xk'ulwachitäj jun sachoj toq tajin nok pa ch'utaq rutzijol ri ko'öl wuj.">
 
@@ -211,7 +211,7 @@ jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'a
 
 <!ENTITY eula.title                           "Taq rutzij ya'öl q'ij kichin ri ruk'isib'äl winäq okisanel">
 <!ENTITY eula.width                           "560px">
-
+<!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Ütz chuqa' tiyak…">
 
 <!ENTITY settings.path.button.label           "Tinik'öx…">
