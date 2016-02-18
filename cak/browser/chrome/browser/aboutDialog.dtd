@@ -11,8 +11,8 @@
 <!ENTITY update.checkForUpdatesButton.label       "Kikanoxik taq jalonel ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
 <!ENTITY update.updateButton.label2                "Titikirisäx chik ri &brandShortName; richin nik'ex ruwäch ">
-<!ENTITY update.updateButton.accesskey            "T">
-<!ENTITY update.applyButtonBillboard.label        "Tib'an ri k'exoj…">
+<!ENTITY update.updateButton.accesskey            "T ">
+<!ENTITY update.applyButtonBillboard.label        "Tib'an ri k'exoj… ">
 <!ENTITY update.applyButtonBillboard.accesskey    "T">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 

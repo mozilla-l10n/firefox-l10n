@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY select.description          "Tab'ana' chi ri &brandShortName; anin tisamäj toq xke'achüp ri taq tz'aqat man ye'awokisaj ta chik. Ri taq kitz'aqat juley chik winaqi', ri eyakon chik, kiyonil xkichuputäj, chuqa' tikirel we ye'acha' qa wakami.">
-
+<!ENTITY select.keep                 "Tik'oje' na">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
 <!ENTITY select.action               "Samaj">
@@ -29,17 +29,17 @@
 <!ENTITY confirm.description         "Tab'ana' chi ri &brandShortName; anin tisamäj toq xke'achüp ri taq tz'aqat man ye'awokisaj ta chik. Ri taq kitz'aqat juley chik winaqi', ri eyakon chik, kiyonil xkichuputäj, chuqa' tikirel we ye'acha' qa wakami.">
 
 <!ENTITY action.disable.heading      "Re taq tz'aqat re' xkechup:">
-
+<!ENTITY action.incompatible.heading "E chupül re taq tz'aqat re', xketzijtäj yan toq xtikik'äm ki':">
 <!ENTITY action.update.heading       "Re taq tz'aqat re' xekek'ex:">
 <!ENTITY action.enable.heading       "Xketz'ijtäj re taq tz'aqat re':">
 
 <!ENTITY update.heading              "Tajin yek'ex ri taq atz'aqat">
-
+<!ENTITY update.progress.label       "Tajin yeqasäx chuqa' tajin yeyak taq k'exoj kichin ri taq tz'aqat echa'on.">
 
 
 
 <!ENTITY footer.label                "Junelïk yatikïr ye'akëx ri taq atz'aqat pa kinuk'samajel taq tz'aqat.">
 <!ENTITY cancel.label                "Q'atïk">
-
+<!ENTITY back.label                  "Chi rij">
 <!ENTITY next.label                  "Jun chik">
 <!ENTITY done.label                  "Ruk'isik">
