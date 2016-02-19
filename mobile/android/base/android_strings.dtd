@@ -251,6 +251,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Móžeće to pozdźišo w nastajenjach změnić">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Nastajenje „Přez druhe nałoženja ćahnyć dowolić“ zmóžnić">
 <!ENTITY tab_queue_prompt_positive_action_button "Zmóžnić">
 <!ENTITY tab_queue_prompt_negative_action_button "Nic nětko">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -267,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 rajtark čaka">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Zo byšće „wjacore wotkazy wočinił“, zmóžńće prošu nastajenje „Přez druhe nałoženja ćahnyć“ za &brandShortName;">
 
 <!ENTITY pref_char_encoding "Znamješkowe kodowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazać">
