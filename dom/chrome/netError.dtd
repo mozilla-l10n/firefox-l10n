@@ -92,6 +92,16 @@
 <p>Seda tüüpi veebivõltsinguid kasutatakse pettustes, mis on tuntud ka kui veebikelmused, kus pettust sisaldavad lehed või e-kirjad jäljendavad allikaid, mida sa võid usaldada.</p>
 ">
 
+<!ENTITY forbiddenBlocked.title "Keelatud sait">
+<!ENTITY forbiddenBlocked.longDesc "<p>Brauser keeldus seda lehte laadimast, sest leht on brauseri häälestuse poolt blokitud.</p>
+">
+
+<!ENTITY securityOverride.linkText "Või võid ka lisada erandi…">
+<!ENTITY securityOverride.warningContent "
+<p>Erandit ei tohiks lisada, kui kasutad internetiühendust, mida sa täielikult ei usalda, või kui sa pole harjunud nägema hoiatusi sellelt serverilt.</p>
+<p>Kui sa siiski soovid lisada erandi selle saidi jaoks, siis saad seda teha krüptimise täpsemate sätete all.</p>
+">
+
 <!ENTITY cspBlocked.title "Blokitud sisu kaitsva turvareegliga">
 <!ENTITY cspBlocked.longDesc "<p>Brauser keeldus lehe laadimisest sellisel moel, sest lehe sisu kaitsvate turvareeglite kohaselt on see keelatud.</p>">
 
@@ -100,10 +110,3 @@
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
-
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
