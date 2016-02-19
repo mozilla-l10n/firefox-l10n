@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "При изпращане на писма с цифров подпис се използва този сертификат:">
 
 <!ENTITY certificates.label "Сертификати">
-
-
+<!ENTITY manageCerts2.label "Управление на сертификати">
+<!ENTITY manageCerts2.accesskey "У">
 <!ENTITY manageDevices.label "Защитни устройства">
 <!ENTITY manageDevices.accesskey "щ">

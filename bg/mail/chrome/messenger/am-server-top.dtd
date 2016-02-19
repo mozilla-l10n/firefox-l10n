@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Проверка за нови писма на всеки ">
 <!ENTITY biffStart.accesskey "к">
 <!ENTITY biffEnd.label "минути">
-
-
+<!ENTITY useIdleNotifications.label "Позволява незабавно уведомление от сървъра, когато постъпят нови писма">
+<!ENTITY useIdleNotifications.accesskey "w">
 <!ENTITY connectionSecurity.label "Сигурност на връзката:">
 <!ENTITY connectionSecurity.accesskey "у">
 <!ENTITY connectionSecurityType-0.label "Без">
@@ -76,7 +76,7 @@
 <!ENTITY abbreviateOff.label "Съкратени имена (напр. 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Разширени…">
 <!ENTITY advancedButton.accesskey "ш">
-
+<!ENTITY serverDefaultCharset2.label "Стандартно кодиране:">
 <!ENTITY localPath.label "Местна директория:">
 <!ENTITY localFolderPicker.label "Изберете директория">
 <!ENTITY browseFolder.label "Избор…">
@@ -88,5 +88,5 @@
 <!ENTITY accountSettingsDesc.label "Това е специална регистрация. Няма идентичности, свързани с нея.">
 <!ENTITY storeType.label "Вид съхранение на писмата:">
 <!ENTITY storeType.accesskey "В">
-
+<!ENTITY mboxStore2.label "Файл в папка (mbox)">
 <!ENTITY maildirStore.label "Файл за всяко писмо (maildir)">
