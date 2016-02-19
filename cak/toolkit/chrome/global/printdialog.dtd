@@ -6,13 +6,15 @@
 
 <!ENTITY printButton.label "Tiwachib'äx">
 
+<!ENTITY printDialog.title "Tiwachib'ëx">
 
+<!ENTITY fpDialog.title "Tiyak yakb'äl">
 
 <!ENTITY fileCheck.label "&amp;Tiwachib'ëx jun yakb'äl">
 <!ENTITY fileCheck.accesskey "y">
 
 
-
+<!ENTITY descText.label "Rucholajil tz'ajb'äl:">
 <!ENTITY printer.label "Tz'ajb'äl">
 <!ENTITY printerInput.label "Rub'i' tz'ajb'äl:">
 <!ENTITY printerInput.accesskey "R">
@@ -20,14 +22,14 @@
 <!ENTITY printrangeGroup.label "Rajilab'al wachib'enïk">
 
 
+<!ENTITY rangeRadio.label  "Taq ruxaq">
+<!ENTITY rangeRadio.accesskey  "r">
 
 
 
 
-
-
-
-
+<!ENTITY selectionRadio.label "Cha'onïk">
+<!ENTITY selectionRadio.accesskey "C">
 
 <!ENTITY numCopies.label "Jaruper' chi taq wachib'äl:">
 <!ENTITY numCopies.accesskey "w">
