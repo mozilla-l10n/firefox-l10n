@@ -34,6 +34,7 @@ kodėl ši svetainė nenaudoja patikimo liudijimo savo tapatumui užtikrinti.">
 <!ENTITY certerror.addException.label "Sukurti išimtį…">
 <!ENTITY certerror.copyToClipboard.label "Kopijuoti tekstą į iškarpinę">
 
-
-
-
+<!ENTITY errorReporting.automatic "Pranešdami apie tokias klaidas kaip ši, padėsite „Mozillai“ nustatyti netinkamai sukonfigūruotas svetaines">
+<!ENTITY errorReporting.sending "Siunčiamas pranešimas">
+<!ENTITY errorReporting.sent "Pranešimas išsiųstas">
+<!ENTITY errorReporting.tryAgain "Bandyti dar kartą">
