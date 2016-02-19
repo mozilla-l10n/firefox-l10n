@@ -9,17 +9,18 @@
 <!ENTITY paperInput.label "Runimilem wuj:">
 <!ENTITY paperInput.accesskey "R">
 
+<!ENTITY jobTitleInput.label "Rub'i' samaj:">
+<!ENTITY jobTitleInput.accesskey "R">
+
+<!ENTITY grayRadio.label "Wachel chi chajchöj">
+<!ENTITY grayRadio.accesskey "c">
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY topInput.label "Ajsik:">
+<!ENTITY topInput.accesskey "A">
+<!ENTITY bottomInput.label "Chuxe':">
+<!ENTITY bottomInput.accesskey "C">
 <!ENTITY leftInput.label "Xokon:">
 <!ENTITY leftInput.accesskey "X">
 <!ENTITY rightInput.label "Ajkiq'a':">

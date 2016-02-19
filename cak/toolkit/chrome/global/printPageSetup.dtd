@@ -19,7 +19,8 @@
 <!ENTITY scale.accesskey     "X">
 
 
-
+<!ENTITY shrinkToFit.label   "Tich'utinirisäx k'a nunük' na qa ri' chuwäch ruwa ri ruxaq">
+<!ENTITY shrinkToFit.accesskey "T">
 
 
 <!ENTITY printBG.label       "Kewachib'ëx rupam (taq b'onil chuqa' taq wachib'äl)">
@@ -38,14 +39,15 @@
 
 
 
+<!ENTITY headerFooter.label  "Taq rujub'i'aj chuqa' taq kamulun tzij">
 
 <!ENTITY hfLeft.label        "Xokon:">
 <!ENTITY hfCenter.label      "Runik'ajal">
 
+<!ENTITY headerLeft.tip      "Xokon chi rujub'i'aj">
 
 
-
-
+<!ENTITY footerLeft.tip      "Ajxokon aqanaj">
 <!ENTITY footerCenter.tip    "Ruk'u'x retal">
 <!ENTITY footerRight.tip     "Ajkiq'a' aqanaj">
 

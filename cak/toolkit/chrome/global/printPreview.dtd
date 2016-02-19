@@ -29,11 +29,11 @@
 
 <!ENTITY p175.label           "175&#037;">
 
-
+<!ENTITY Custom.label         "Ichinan…">
 <!ENTITY ShrinkToFit.label    "Tinuk'ub'ëx rik'in ruxaq">
 <!ENTITY customPrompt.title   "Ichinan xakb'äl…">
 
 <!ENTITY homearrow.tooltip    "Nab'ey ruxaq">
-
-
+<!ENTITY endarrow.tooltip     "Ruk'isib'äl ruxaq">
+<!ENTITY nextarrow.tooltip    "Jun chik ruxaq">
 <!ENTITY previousarrow.tooltip "Jun kan ruxaq">

@@ -9,9 +9,9 @@
 <!ENTITY name.label             "B'i'aj">
 
 <!ENTITY lastModified.label     "Ruk'isib'äl k'exoj">
+<!ENTITY showHiddenFiles.label  "Kek'ut pe ri taq yakb'äl chuqa' taq yakwuj e'ewan">
+<!ENTITY showHiddenFiles.accesskey  "K">
 
 
-
-
-
+<!ENTITY folderHome.tooltiptext "Tib'e pa rutikirib'al">
 

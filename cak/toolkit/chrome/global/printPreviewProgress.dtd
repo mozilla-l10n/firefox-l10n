@@ -4,6 +4,6 @@
 <!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
 
 <!ENTITY printWindow.title "Nab'ey tz'etoj"> 
-
+<!ENTITY title   "B'i'aj:"> 
 <!ENTITY preparing "Tajin ninuk'…">
-
+<!ENTITY progress "Tajin:">
