@@ -12,8 +12,8 @@
 
 <!ENTITY fileCheck.label "&amp;Tiwachib'ëx jun yakb'äl">
 <!ENTITY fileCheck.accesskey "y">
-
-
+<!ENTITY propertiesButton.label "Taq ch'akulal…">
+<!ENTITY propertiesButton.accesskey "k">
 <!ENTITY descText.label "Rucholajil tz'ajb'äl:">
 <!ENTITY printer.label "Tz'ajb'äl">
 <!ENTITY printerInput.label "Rub'i' tz'ajb'äl:">
