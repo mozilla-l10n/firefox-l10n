@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from printjoboptions.xul -->
 
+
+<!ENTITY printSetup.title    "Runuk'ulem ruxaq">
+
 <!ENTITY basic.tab           "B'anikil chuqa' taq cha'oj">
 
 <!ENTITY formatGroup.label   "B'anikil">
