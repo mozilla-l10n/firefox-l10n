@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Свойства">
 
 <!ENTITY generalInfo.label                       "Основна информация">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "Резервно кодиране на текст:">
+<!ENTITY folderCharsetFallback2.accesskey        "т">
+<!ENTITY folderCharsetEnforce2.label             "Прилагане на стандартното кодиране на текста за всички писма в папката (индивидуалните настройки и автоматичното разпознаване ще се пренебрегват).">
+<!ENTITY folderCharsetEnforce2.accesskey         "П">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Възстановяване индекса на файла резюме">
 <!ENTITY folderRebuildSummaryFile2.label         "Поправка на папка">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "П">
