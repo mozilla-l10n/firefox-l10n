@@ -192,8 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "О">
 <!ENTITY sortByRecipientCmd.label "Получател">
 <!ENTITY sortByRecipientCmd.accesskey "л">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Кореспонденти">
+<!ENTITY sortByCorrespondentCmd.accesskey "е">
 <!ENTITY sortByUnreadCmd.label "Прочетени">
 <!ENTITY sortByUnreadCmd.accesskey "ч">
 <!ENTITY sortByOrderReceivedCmd.label "Ред на получаване">
@@ -660,7 +660,7 @@
 <!ENTITY threadColumn.label "Дискусия">
 <!ENTITY fromColumn.label "Подател">
 <!ENTITY recipientColumn.label "Получател">
-
+<!ENTITY correspondentColumn.label "Кореспонденти">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Приоритет">
@@ -683,7 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Показване на нишките на съобщенията">
 <!ENTITY fromColumn2.tooltip "Сортиране по подател">
 <!ENTITY recipientColumn2.tooltip "Сортиране по получател">
-
+<!ENTITY correspondentColumn2.tooltip "Подреждане по кореспонденти">
 <!ENTITY subjectColumn2.tooltip "Сортиране по тема">
 <!ENTITY dateColumn2.tooltip "Сортиране по дата">
 <!ENTITY priorityColumn2.tooltip "Сортиране по приоритет">
@@ -825,6 +825,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
+<!ENTITY search.label.base1 "Търсене #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -853,8 +854,8 @@
 <!ENTITY SendMessageTo.accesskey "с">
 <!ENTITY CopyEmailAddress.label "Копиране на пощенския адрес">
 <!ENTITY CopyEmailAddress.accesskey "К">
-
-
+<!ENTITY CopyNameAndEmailAddress.label "Копиране на Име и е-пощенски адрес">
+<!ENTITY CopyNameAndEmailAddress.accesskey "И">
 <!ENTITY CopyNewsgroupName.label "Копиране името на дискусионната група">
 <!ENTITY CopyNewsgroupName.accesskey "К">
 <!ENTITY CopyNewsgroupURL.label "Копиране адреса (URL) на дискусионната група">
