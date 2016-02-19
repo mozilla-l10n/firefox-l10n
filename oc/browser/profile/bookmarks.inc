@@ -16,7 +16,7 @@
 #define bookmarks_heading Marcapaginas
 
 
-#define bookmarks_toolbarfolder Elements de la barra personala
+#define bookmarks_toolbarfolder Barra personala
 
 
 #define bookmarks_toolbarfolder_description Apondètz de marcapaginas dins aqueste dorsièr per los veire aparéisser sus vòstra barra personala
@@ -46,7 +46,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 
 
-#define firefox_help Ajuda e didacticials
+#define firefox_help Ajuda e tutorials
 
 
 # LOCALIZATION NOTE (firefox_customize):
