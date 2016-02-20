@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Obtenez des résultats parmi vos marque-pages et votre historique lorsque vous effectuez des recherches.">
 <!ENTITY firstrun_data_title "Données">
 <!ENTITY firstrun_data_message "Moins de données, plus d’économies">
-<!ENTITY firstrun_data_subtext "Bloquez les images afin de consommer moins de données sur les sites que vous visitez.">
+<!ENTITY firstrun_data_subtext2 "Désactivez les images afin de consommer moins de données sur les sites que vous visitez.">
 <!ENTITY firstrun_sync_title "Synchronisation">
 <!ENTITY firstrun_sync_message "&brandShortName;, toujours à vos côtés">
 <!ENTITY firstrun_sync_subtext "Synchronisez vos onglets, mots de passe et d’autres données partout où vous l’utilisez.">
@@ -472,8 +472,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navigation plein écran">
 <!ENTITY pref_scroll_title_bar_summary2 "Masquer la barre d’outils de &brandShortName; lors du défilement de la page">
 
-<!ENTITY pref_tab_queue_title2 "Ouvrir plusieurs liens">
-<!ENTITY pref_tab_queue_summary3 "Enregistrer les liens jusqu’à la prochaine ouverture de &brandShortName;">
+<!ENTITY pref_tab_queue_title3 "File d’onglets">
+<!ENTITY pref_tab_queue_summary4 "Conserver des liens à ouvrir au prochain démarrage de &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
