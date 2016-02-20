@@ -11,7 +11,7 @@
 <!ENTITY offlineNotDownload.accesskey "n">
 <!ENTITY autosyncNotDownload.label "Nestahovat zprávy větší než">
 <!ENTITY autosyncNotDownload.accesskey "N">
-<!ENTITY kb.label "kB">
+<!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "dny(ů)">
 <!ENTITY message.label "zpráv">
 <!ENTITY nntpNotDownloadRead.label "Přečtené zprávy">
