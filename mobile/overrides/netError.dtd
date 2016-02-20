@@ -47,7 +47,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "<ul> 
 <li>Web-adrese pišu se zwětšego ako 
-<strong>http://www.pśikład.com/</strong></li> 
+<strong>http://www.pśikład.de/</strong></li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Pytaś</button> 
@@ -168,8 +168,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Daloki XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby jich wó problemje informěrował.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Wěsty zwisk njejo móžno">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Rozšyrjona info: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Waš zwisk njejo wěsty">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Rozšyrjona informacija: SSL_ERROR_NO_CYPHER_OVERLAP">
