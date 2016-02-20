@@ -21,6 +21,7 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
 <!ENTITY firstrun_sync_subtext "Sincronize sua abas, senhas e muito mais em todos os lugares que usá-lo.">
+<!ENTITY firstrun_signin_message "Conecte-se à Internet para usar o Sync">
 <!ENTITY firstrun_signin_button "Entrar no Sync">
 <!ENTITY  onboard_start_button_browser "Iniciar navegação">
 <!ENTITY firstrun_button_next "Próximo">
