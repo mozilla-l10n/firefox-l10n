@@ -8,7 +8,7 @@
 <!ENTITY profileCreationExplanation_2.text  "We nakomonij re ruwachib'äl &brandShortName; kik'in ch'aqa' chik taq winäq, yatikïr ye'awokisaj taq ruwäch b'i'aj richin chi ejachon ri ketamab'al jujun taq winäq. Ruma ri', chi kijujunal ri winaqi' nikinük' ruwäch kib'i'.">
 <!ENTITY profileCreationExplanation_3.text  "We rat ayonil nawokisaj re ruwachib'al &brandShortName;, k'o chi k'o jun ruwäch ab'i'. We nawajo', yatikïr ye'anük' jalajöj chi kiwäch taq b'i'aj richin ye'ayák kan jalajöj taq nuk'ulem chuqa' taq ajowab'äl. Achi'el, jun ruwäch b'i'aj xa xe awichin chuqa' jun chik richin pan asamaj.">
 <!ENTITY profileCreationExplanation_4.text  "Tapitz'a' pa Jun chik richin natikirisaj nanük' ruwäch ab'i'.">
-
+<!ENTITY profileCreationExplanation_4Mac.text  "Tapitz'a' pa Tichap chik el richin natikirisaj nanük' ruwäch ab'i'.">
 
 <!-- Second wizard page -->
 
