@@ -3,9 +3,9 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 
+<!ENTITY refreshProfile.dialog.items.label1  "Ke'elesäx el ri taq atz'aqat chuqa' taq awichinaxik">
 
 
 
-
-
+<!ENTITY refreshProfile.button.label         "Titzolïx &brandShortName;…">
 
