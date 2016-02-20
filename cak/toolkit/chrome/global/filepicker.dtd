@@ -12,7 +12,8 @@
 <!ENTITY showHiddenFiles.label  "Kek'ut pe ri taq yakb'äl chuqa' taq yakwuj e'ewan">
 <!ENTITY showHiddenFiles.accesskey  "K">
 
+<!ENTITY noPermissionError.label "Man ya'on ta q'ij chawe richin natz'ët re yakwuj re'.">
 
 <!ENTITY folderUp.tooltiptext   "Tijote' jun xak">
 <!ENTITY folderHome.tooltiptext "Tib'e pa rutikirib'al">
-
+<!ENTITY folderNew.tooltiptext  "Tinuk' k'ak'a' yakwuj">

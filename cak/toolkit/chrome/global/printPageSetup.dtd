@@ -11,8 +11,8 @@
 <!ENTITY formatGroup.label   "B'anikil">
 
 <!ENTITY orientation.label   "Ya'öl na'oj:">
-
-
+<!ENTITY portrait.label      "Palem">
+<!ENTITY portrait.accesskey  "P">
 <!ENTITY landscape.label     "Kotz'olem">
 <!ENTITY landscape.accesskey "K">
 
@@ -28,10 +28,11 @@
 <!ENTITY printBG.label       "Kewachib'ëx rupam (taq b'onil chuqa' taq wachib'äl)">
 <!ENTITY printBG.accesskey   "r">
 
+<!ENTITY advanced.tab        "Taq ruchi' chuqa' taq rujub'i'aj/kamulun tzij">
 
 <!ENTITY marginGroup.label   "Taq ruchi' (#1)">
 <!ENTITY marginUnits.inches  "ruwi' q'ab'aj">
-
+<!ENTITY marginUnits.metric  "Taq puyaj">
 <!ENTITY marginTop.label     "Ajsik:">
 <!ENTITY marginTop.accesskey "A">
 <!ENTITY marginBottom.label  "Chuxe':">
@@ -48,15 +49,15 @@
 <!ENTITY hfRight.label       "Ajkiq'a':">
 <!ENTITY headerLeft.tip      "Xokon chi rujub'i'aj">
 <!ENTITY headerCenter.tip    "Ruk'u'x rujub'i'aj">
-
+<!ENTITY headerRight.tip     "Ajkiq'a' rujub'i'aj">
 <!ENTITY footerLeft.tip      "Ajxokon aqanaj">
 <!ENTITY footerCenter.tip    "Ruk'u'x retal">
 <!ENTITY footerRight.tip     "Ajkiq'a' aqanaj">
 
 <!ENTITY hfTitle             "B'i'aj">
 <!ENTITY hfURL               "K'AL">
-
-
+<!ENTITY hfDateAndTime       "Q'ijul/ramaj">
+<!ENTITY hfPage              "Ruxaq #">
 <!ENTITY hfPageAndTotal      "Ruxaq # richin #">
 <!ENTITY hfBlank             "--majun--">
 <!ENTITY hfCustom            "Ichinan…">

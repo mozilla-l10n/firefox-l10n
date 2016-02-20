@@ -20,12 +20,12 @@
 <!ENTITY printerInput.accesskey "R">
 
 <!ENTITY printrangeGroup.label "Rajilab'al wachib'enïk">
-
-
+<!ENTITY allpagesRadio.label "Konojel ri taq ruxaq">
+<!ENTITY allpagesRadio.accesskey "K">
 <!ENTITY rangeRadio.label  "Taq ruxaq">
 <!ENTITY rangeRadio.accesskey  "r">
-
-
+<!ENTITY frompageInput.label  "aj">
+<!ENTITY frompageInput.accesskey  "j">
 
 
 <!ENTITY selectionRadio.label "Cha'onïk">
