@@ -20,8 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arşivlenmiş ping verisi">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Ping verisi görünümü:">
 
+<!ENTITY aboutTelemetry.structured "Yapılandırılmış">
 
+<!ENTITY aboutTelemetry.raw "Ham JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Alt oturum verilerini göster">
 
