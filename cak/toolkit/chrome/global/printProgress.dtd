@@ -4,10 +4,10 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 
 <!ENTITY printWindow.title "Tajin nitz'ajb'äx"> 
-
+<!ENTITY title    "B'i'aj:"> 
 <!ENTITY progress "Tajin:">
-
-
+<!ENTITY preparing "Tajin ninuk'…">
+<!ENTITY printComplete "Xtz'aqät ri rutz'ajik.">
 
 <!ENTITY dialogCancel.label "Q'atïk"> 
 <!ENTITY dialogClose.label "Titz'apïx">
