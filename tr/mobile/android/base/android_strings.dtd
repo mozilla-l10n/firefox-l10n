@@ -20,9 +20,9 @@
 <!ENTITY firstrun_data_subtext "Ziyaret ettiğiniz her sitede daha az veri harcamak için resimleri engelleyin.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName; he zaman yanınızda">
-
-
-
+<!ENTITY firstrun_sync_subtext "Sekmelerinizi, parolalarınızı ve daha fazlasını eşitleyerek her yere taşıyın.">
+<!ENTITY firstrun_signin_message "Bağlanın, kullanmaya başlayın">
+<!ENTITY firstrun_signin_button "Sync’e giriş yapın">
 <!ENTITY  onboard_start_button_browser "Gezinmeye başla">
 <!ENTITY firstrun_button_next "Sonraki">
 
@@ -597,7 +597,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Güvenli bağlantı">
 <!ENTITY identity_connection_insecure "Güvenilmez bağlantı">
 <!ENTITY identity_login_insecure "Bu sayfa güvenli değil. Hesap bilgileriniz savunmasız olabilir.">
-
+<!ENTITY identity_connection_chromeui "Burası güvenli bir &brandShortName; sayfasıdır">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; bu sayfadaki güvenli olmayan içeriği engelledi.">
@@ -621,6 +621,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Özel veriler temizlendi">
 <!ENTITY private_data_fail "Bazı özel veriler temizlenemedi">
 
+<!ENTITY bookmarkhistory_button_import "İçe aktar">
 <!ENTITY bookmarkhistory_import_both "Android\u0027den yer imleri ve geçmiş 
 alınıyor">
 <!ENTITY bookmarkhistory_import_bookmarks "Android\u0027den yer imleri 
@@ -661,7 +662,10 @@ alınıyor">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Dosyaları ve güncellemeleri indirmek için &brandShortName; tarayıcısının depolamaya erişmesine izin verin.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "İzin ver">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Yeni konuk oturumu">
@@ -751,8 +755,8 @@ alınıyor">
 <!ENTITY restrictable_feature_advanced_settings_description "Bunlara yer imlerini içe aktarmak, sekmeleri geri yüklemek ve otomatik güncellemeler dahildir. Tüm aile bireylerine uygun basitleştirilmiş ayarlar için bunu kapatın.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera ve mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Aile bireylerinin web siteleri üzerinde gerçek zamanlı iletişim kurmalarına izin verir.">
-
-
+<!ENTITY restrictable_feature_block_list "Engelleme listesi">
+<!ENTITY restrictable_feature_block_list_description "Uygunsuz içeriğe sahip web sitelerini engelle.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
