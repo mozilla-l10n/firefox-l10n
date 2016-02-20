@@ -13,15 +13,15 @@
 <!ENTITY firstrun_urlbar_message "Donemat e &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Kavit traoù buanoc\u0027h gant berradennoù alioù klask talvoudus.">
 <!ENTITY firstrun_bookmarks_title "Roll istor">
-
+<!ENTITY firstrun_bookmarks_message "Ho lec\u0027hiennoù karetañ, war-eeun">
 <!ENTITY firstrun_bookmarks_subtext "Tapit disoc\u0027hoù adalek ho sinedoù hag ho roll istor pa glaskit.">
 <!ENTITY firstrun_data_title "Roadennoù">
 <!ENTITY firstrun_data_message "Nebeutoc\u0027h a roadennoù, muioc\u0027h a espernoù.">
 <!ENTITY firstrun_data_subtext "Stankañ ar skeudennoù evit dispign nebeutoc\u0027h a roadennoù war kement lec\u0027hienn gweladennet ganeoc\u0027h.">
 <!ENTITY firstrun_sync_title "Goubred">
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, atav ganeoc\u0027h">
+<!ENTITY firstrun_sync_subtext "Goubredit hoc\u0027h ivinelloù, ho kerioù-tremen, ha muioc\u0027h c\u0027hoazh e kement lec\u0027h mar arverit anezhañ.">
+<!ENTITY firstrun_signin_message "Kennaskit, krogit ganti">
 <!ENTITY firstrun_signin_button "Kennaskañ ouzh Sync">
 <!ENTITY  onboard_start_button_browser "Krog da verdeiñ">
 <!ENTITY firstrun_button_next "War-lerc\u0027h">
@@ -251,6 +251,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Gellout a rit kemmañ se en Arventennoù diwezhatoc\u0027h">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Gweredekaat \&quot;Tresañ a-us d\u0027an arloadoù all\&quot;">
 <!ENTITY tab_queue_prompt_positive_action_button "Gweredekaat">
 <!ENTITY tab_queue_prompt_negative_action_button "Ket bremañ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
