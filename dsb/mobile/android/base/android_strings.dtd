@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "Cyńśo swójo mobilne webpśeglědowańske dožywjenje napšawdu k swójomu.">
 
 <!ENTITY firstrun_urlbar_message "Witajśo do &brandShortName;">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Namakajśo wěcy malsnjej z wužytnymi tastowymi skrotconkami za pytańske naraźenja.">
+<!ENTITY firstrun_bookmarks_title "Historija">
+<!ENTITY firstrun_bookmarks_message "Waše fawority, na prědnjejšom fronśe">
+<!ENTITY firstrun_bookmarks_subtext "Wobstarajśe se wuslědki z wašych cytańskich znamjenjow a historije, gaž pytaśo.">
+<!ENTITY firstrun_data_title "Daty">
+<!ENTITY firstrun_data_message "Mjenjej datow, wěcej zažaržanjow">
+<!ENTITY firstrun_data_subtext "Blokěrujśo wobraze, aby mjenjej datow na kóždom sedle, ku kótaremuž se woglědujośo, pśetrjebował.">
 <!ENTITY firstrun_sync_title "Snychronizěrowaś">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, pśecej pśi was">
+<!ENTITY firstrun_sync_subtext "Synchronizěrujśo swóje rejtarki, gronidła a wěcej wšuźi, źož jen wužywaśo.">
+<!ENTITY firstrun_signin_message "Zwězajśo se, zachopśo">
+<!ENTITY firstrun_signin_button "Pla Sync pśizjawiś">
 <!ENTITY  onboard_start_button_browser "Pśeglědowanje startowaś">
 <!ENTITY firstrun_button_next "Pśiducy">
 
@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Móžośo to pózdźej w nastajenjach změniś">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Nastajenje „Pśez druge nałoženja śěgnuś dowóliś“ zmóžniś">
 <!ENTITY tab_queue_prompt_positive_action_button "Zmóžniś">
 <!ENTITY tab_queue_prompt_negative_action_button "Nic něnto">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "K nastajenjam">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 rejtark caka">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Aby „někotare wótkaze wócynił“, zmóžniśo pšosym nastajenje „Pśez druge nałoženja śěgnuś“ za &brandShortName;">
 
 <!ENTITY pref_char_encoding "Znamuškowe koděrowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazaś">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Waše nejnowše rejtarki pokazuju se how.">
 <!ENTITY home_open_all "Wšykne wócyniś">
 <!ENTITY home_most_recent_empty "Websedła, kótarež sćo se njedawno woglědał, pokazuju se how.">
-
+<!ENTITY home_selected_empty "Websedła, ku kótarymž sćo se we wubranem casowym wobłuku woglědak, se how pokazuju.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Pst: wužywanje &formatS1;nowego priwatnego rejtarka&formatS2; njebuźo wašu historiju składowaś.">
@@ -597,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Wěsty zwisk">
 <!ENTITY identity_connection_insecure "Njewěsty zwisk">
 <!ENTITY identity_login_insecure "Toś ten bok njejo wěsty a wašo pśizjawjenje by mógło zranliwe byś.">
-
+<!ENTITY identity_connection_chromeui "To jo wěsty bok &brandShortName;">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; jo njewěste elementy na toś tom boku blokěrował.">
@@ -621,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Priwatne daty wulašowane">
 <!ENTITY private_data_fail "Někotare priwatne daty njedaju se snaź lašowaś">
 
+<!ENTITY bookmarkhistory_button_import "Importěrowaś">
 <!ENTITY bookmarkhistory_import_both "Importěrowanje cytańskich znamjenjow a historije 
 z Androida">
 <!ENTITY bookmarkhistory_import_bookmarks "Importěrowanje cytańskich znamjenjow 
@@ -661,7 +666,10 @@ z Androida">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Aby dataje a aktualizacije ześěgnuł, dajśo &brandShortName; pśistup na składowak.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Dowóliś">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Nowe góstne pósejźenje">
@@ -751,8 +759,8 @@ z Androida">
 <!ENTITY restrictable_feature_advanced_settings_description "To wopśimujo importěrowanje cytańskich znamjenjow, wótnowjanje rejtarkow a awtomatiske aktualizacije. Wušaltujśo to, aby zjadnorjone nastajenja zmóžnił, kótarež su za cłonka familije pśigódne.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera a mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Zmóžnja cłonkam familije, komunikaciju na websedłach w napšawdnem casu cyniś.">
-
-
+<!ENTITY restrictable_feature_block_list "Blokěrowańska lisćina">
+<!ENTITY restrictable_feature_block_list_description "Blokěrujśo websedła, kótarež sensibelne wopśimuju sensibelne wopśimjeśe.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
