@@ -46,6 +46,8 @@
 
 <!ENTITY rights2.webservices-header "Taq samaj retamab'äl ri &brandFullName; k'o kixe'el pa k'amaya'l">
 <!-- point 5 -->
+
+<!ENTITY rights.intro-point5 "Richin ye'atzïj jujun taq ruwäch chi rupam silowachib'äl, &brandShortName; ke'aqasaj jujun peraj taq ch'akul richin chi e'etaman kipam aj rox winäq.">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
