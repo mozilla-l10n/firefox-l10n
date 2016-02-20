@@ -26,14 +26,16 @@
 <!ENTITY rangeRadio.accesskey  "r">
 <!ENTITY frompageInput.label  "aj">
 <!ENTITY frompageInput.accesskey  "j">
-
-
+<!ENTITY topageInput.label  "richin">
+<!ENTITY topageInput.accesskey  "r">
 <!ENTITY selectionRadio.label "Cha'onïk">
 <!ENTITY selectionRadio.accesskey "C">
 
+<!ENTITY copies.label "Taq wachib'äl">
 <!ENTITY numCopies.label "Jaruper' chi taq wachib'äl:">
 <!ENTITY numCopies.accesskey "w">
 
+<!ENTITY printframeGroup.label "Ketz'ajb'äx taq ruchi' kajtz'ik">
 <!ENTITY aslaidoutRadio.label "Achi'el niwachin pa ri ruwäch">
 <!ENTITY aslaidoutRadio.accesskey "A">
 <!ENTITY selectedframeRadio.label  "Ri ruchi' kajtz'ik cha'on">

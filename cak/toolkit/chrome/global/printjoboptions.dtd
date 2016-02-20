@@ -15,9 +15,10 @@
 <!ENTITY colorGroup.label "B'onil:">
 <!ENTITY grayRadio.label "Wachel chi chajchöj">
 <!ENTITY grayRadio.accesskey "c">
+<!ENTITY colorRadio.label "B'onil">
+<!ENTITY colorRadio.accesskey "B">
 
-
-
+<!ENTITY edgeMarginInput.label "Rukojol chuchi' ri ruchi' ruxaq k'a chuchi' (ruwi' q'ab'aj)">
 <!ENTITY topInput.label "Ajsik:">
 <!ENTITY topInput.accesskey "A">
 <!ENTITY bottomInput.label "Chuxe':">

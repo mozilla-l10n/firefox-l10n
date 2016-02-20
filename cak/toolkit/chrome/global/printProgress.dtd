@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 
+<!ENTITY printWindow.title "Tajin nitz'ajb'äx"> 
+
 <!ENTITY progress "Tajin:">
 
 

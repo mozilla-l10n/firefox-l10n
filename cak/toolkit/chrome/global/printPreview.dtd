@@ -6,8 +6,8 @@
 <!ENTITY print.accesskey      "P">
 <!ENTITY pageSetup.label      "Runuk'ik ruxaq…">
 <!ENTITY pageSetup.accesskey  "u">
-
-
+<!ENTITY page.label           "Ruxaq:">
+<!ENTITY page.accesskey       "x">
 <!ENTITY of.label             "richin">
 <!ENTITY scale.label          "Xakb'äl:">
 <!ENTITY scale.accesskey      "X">
