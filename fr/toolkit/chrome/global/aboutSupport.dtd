@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activés">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuration de compilation">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent utilisateur">
+<!ENTITY aboutSupport.appBasicsOS "Système d’exploitation">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilisation mémoire">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
