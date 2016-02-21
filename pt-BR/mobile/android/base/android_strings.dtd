@@ -251,6 +251,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Você pode alterar isso mais tarde nas configurações">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Ative \&quot;Sobrepor outros apps\&quot;">
 <!ENTITY tab_queue_prompt_positive_action_button "Habilitar">
 <!ENTITY tab_queue_prompt_negative_action_button "Agora não">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -268,6 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Para \&quot;Abrir vários links\&quot;, por favor ative a permissão \&quot;Sobrepor outros apps\&quot; para o &brandShortName;">
 
 <!ENTITY pref_char_encoding "Codificação">
 <!ENTITY pref_char_encoding_on "Mostrar menu">
