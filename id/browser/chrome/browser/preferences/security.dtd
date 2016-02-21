@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "P">
 
 
+<!ENTITY  logins.label                  "Info masuk">
 
+<!ENTITY  rememberLogins.label          "Ingat info masuk situs">
+<!ENTITY  rememberLogins.accesskey      "I">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "c">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Ubah Sandi Utama…">
 <!ENTITY  changeMasterPassword.accesskey "U">
 
-
+<!ENTITY  savedLogins.label              "Info Masuk Tersimpan…">
+<!ENTITY  savedLogins.accesskey          "I">

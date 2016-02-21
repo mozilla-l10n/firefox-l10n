@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Memuat laman bermasalah">
 <!ENTITY retry.label "Coba Lagi">
-
-
+<!ENTITY returnToPreviousPage.label "Mundur">
+<!ENTITY advanced.label "Canggih">
 <!-- Specific error messages -->
 
 
@@ -132,7 +132,8 @@ bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Dengan memasukkan informasi pribadi pada laman ini, pencurian identitas atau kejahatan lainnya dapat terjadi.</p> 
 <p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai &quot;phishing attack&quot; yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>">
 
-
+<!ENTITY forbiddenBlocked.title "Situs Terlarang">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; mencegah laman ini untuk dimuat karena telah dikonfigurasikan untuk memblokirnya.</p>">
 
 <!ENTITY cspBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
@@ -155,6 +156,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "Laporkan kesalahan seperti ini untuk membantu Mozilla mengidentifikasi dan memblokir situs yang mencurigakan.">
 <!ENTITY errorReporting.learnMore "Pelajari lebih lanjut…">
 <!ENTITY errorReporting.sending "Mengirim laporan">
 <!ENTITY errorReporting.sent "Laporan dikirim">
@@ -166,9 +168,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Gagal Tersambung dengan Aman">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Info lebih lanjut: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
-
-
+<!ENTITY weakCryptoUsed.longDesc2 "Info lanjutan: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Canggih">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> menggunakan teknologi keamanan yang ketinggalan zaman dan rentan penyerangan. Penyerang bisa mengungkapkan informasi yang Anda sangka aman.">
+<!ENTITY weakCryptoAdvanced.override "(Tidak aman) Coba muat <span class='hostname'></span> menggunakan keamanan yang ketinggalan zaman">

@@ -5,8 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Kabur!">
 <!ENTITY safeb.palm.decline.label "Abaikan peringatan ini">
 <!ENTITY safeb.palm.notforgery.label2 "Laman berikut bukan tersangka pemalsuan web…">
-
-
+<!ENTITY safeb.palm.reportPage.label "Mengapa laman ini diblokir?">
+<!ENTITY safeb.palm.whyForbidden.label "Mengapa laman ini diblokir?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Telah Dilaporkan sebagai Situs Penyerang!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -24,5 +24,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Situs web di <span id='phishing_sitename'/> telah dilaporkan sebagai pemalsuan web dan telah diblokir berdasarkan pengaturan keamanan Anda.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Pemalsuan web didesain untuk menipu Anda untuk mendapatkan informasi pribadi atau keuangan dengan cara meniru situs yang mungkin telah Anda percayai.</p><p>Jika Anda memasukkan informasi apa pun pada situs web ini maka akan mungkin terjadi pencurian identitas atau kejahatan lainnya.</p>">
 
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Situs Diblokir">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Laman Web di <span id='forbidden_sitename'/> telah diblokir oleh profil admin Anda.">
 
