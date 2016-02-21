@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação privada)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação privativa)">
 
 <!ENTITY appmenu.tooltip                     "Abrir menu">
 <!ENTITY navbarOverflow.label                "Mais ferramentas…">
