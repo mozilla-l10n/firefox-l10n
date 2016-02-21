@@ -42,7 +42,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; poskytuje informační služby („Služby“), například službu návrhů a aktualizace doplňků, nebo funkci bezpečného prohlížení webu, které jsou dostupné v rámci této binární verze aplikace &brandShortName; za podmínek popsaných níže. Ve výchozím nastavení jsou tyto služby povoleny. Pokud si nepřejete Služby používat nebo jsou pro vás níže uvedené podmínky neakceptovatelné, postup jak jednotlivé funkce nebo služby zakázat můžete nalézt ">
+<!ENTITY rights2.webservices-a "&brandFullName; poskytuje informační služby („Služby“), například službu návrhů a aktualizace doplňků, nebo funkci bezpečného prohlížení webu, které jsou dostupné v rámci této binární verze aplikace &brandShortName;, za podmínek popsaných níže. Ve výchozím nastavení jsou tyto služby povoleny. Pokud si nepřejete Služby používat nebo jsou pro vás níže uvedené podmínky neakceptovatelné, postup jak jednotlivé funkce nebo služby zakázat můžete nalézt ">
 <!ENTITY rights2.webservices-b "zde">
 <!ENTITY rights2.webservices-c ". Ostatní funkce a Služby lze zakázat v předvolbách aplikace.">
 
