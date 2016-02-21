@@ -14,7 +14,7 @@
 <!ENTITY firstrun_bookmarks_subtext "При поиске получайте результаты из ваших закладок и истории.">
 <!ENTITY firstrun_data_title "Трафик">
 <!ENTITY firstrun_data_message "Меньше трафика, больше экономии">
-<!ENTITY firstrun_data_subtext "Блокируйте изображения, чтобы уменьшить расход трафика на каждом посещаемом сайте.">
+<!ENTITY firstrun_data_subtext2 "Отключайте изображения, чтобы уменьшить расход трафика на каждом посещаемом сайте.">
 <!ENTITY firstrun_sync_title "Синхронизация">
 <!ENTITY firstrun_sync_message "&brandShortName; всегда рядом с вами">
 <!ENTITY firstrun_sync_subtext "Синхронизируйте свои вкладки, пароли и многое другое, везде, где вы его используете.">
@@ -316,8 +316,8 @@
 <!ENTITY pref_magnifying_glass_enabled_summary "Увеличивать ссылки и поля форм при касании рядом с ними">
 <!ENTITY pref_scroll_title_bar2 "Полноэкранный веб-серфинг">
 <!ENTITY pref_scroll_title_bar_summary2 "Скрывать панель &brandShortName; при прокрутке страницы вниз">
-<!ENTITY pref_tab_queue_title2 "Открытие множества ссылок">
-<!ENTITY pref_tab_queue_summary3 "Сохранять их до следующего открытия &brandShortName;">
+<!ENTITY pref_tab_queue_title3 "Очередь вкладок">
+<!ENTITY pref_tab_queue_summary4 "Сохраните ссылки до следующего открытия &brandShortName;.">
 <!ENTITY page_removed "Страница удалена">
 <!ENTITY bookmark_edit_title "Изменение закладки">
 <!ENTITY bookmark_edit_name "Имя">

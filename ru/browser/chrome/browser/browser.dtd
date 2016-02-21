@@ -119,6 +119,7 @@
 <!ENTITY subscribeToPageMenuitem.label "Подписаться на ленты новостей…">
 <!ENTITY addCurPagesCmd.label "Добавить все вкладки…">
 <!ENTITY showAllBookmarks2.label "Показать все закладки">
+<!ENTITY recentBookmarks.label "Недавно добавленные закладки">
 <!ENTITY unsortedBookmarksCmd.label "Неподшитые закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
 <!ENTITY backCmd.label "Назад">
@@ -357,6 +358,8 @@
 <!ENTITY openFrameCmdInTab.accesskey "в">
 <!ENTITY openFrameCmd.label "Открыть фрейм в новом окне">
 <!ENTITY openFrameCmd.accesskey "н">
+<!ENTITY openLinkCmdInContainerTab.label "Открыть ссылку в новой вкладке контейнера">
+<!ENTITY openLinkCmdInContainerTab.accesskey "ы">
 <!ENTITY showOnlyThisFrameCmd.label "Показать только этот фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "П">
 <!ENTITY reloadCmd.commandkey "r">
@@ -597,7 +600,6 @@
 <!ENTITY social.directory.button "Перенести меня туда!">
 <!ENTITY social.directory.introText "Щёлкните по службе, чтобы добавить её в &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Показать ещё">
-<!ENTITY customizeMode.tabTitle "Настройка &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Дополнительные инструменты и функции">
 <!ENTITY customizeMode.menuAndToolbars.empty "Нужно больше инструментов?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выбирайте из тысяч дополнений">
