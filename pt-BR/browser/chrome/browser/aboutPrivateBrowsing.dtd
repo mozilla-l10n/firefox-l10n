@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "Não está em uma janela privada no momento.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Abrir uma janela privada">
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Você não está em uma janela privativa no momento.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Abrir uma janela privativa">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
-<!ENTITY privateBrowsing.title                 "Navegação privada">
+<!ENTITY privateBrowsing.title                 "Navegação privativa">
 
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
      Width of the Private Browsing section. This should depend primarily on the
@@ -15,7 +15,7 @@
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
-<!ENTITY aboutPrivateBrowsing.title            "Navegação privada">
+<!ENTITY aboutPrivateBrowsing.title            "Navegação privativa">
 
 <!ENTITY aboutPrivateBrowsing.info.notsaved    "Não salvo">
 <!ENTITY aboutPrivateBrowsing.info.history     "Histórico">
@@ -48,7 +48,7 @@
 <!ENTITY trackingProtection.state.enabled      "Ligado">
 <!ENTITY trackingProtection.state.disabled     "Delisgado">
 
-<!ENTITY trackingProtection.description1       "Agora as janelas privadas bloqueiam partes da página que podem rastrear sua atividade de navegação.">
+<!ENTITY trackingProtection.description1       "Agora as janelas privativas bloqueiam partes da página que podem rastrear sua atividade de navegação.">
 
 <!ENTITY trackingProtection.disable            "Desligar proteção contra rastreamento">
 <!ENTITY trackingProtection.enable             "Ligar proteção contra rastreamento">
