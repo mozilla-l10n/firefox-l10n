@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Mode Penjelajahan Pribadi)">
 
 <!ENTITY appmenu.tooltip                     "Buka menu">
-
+<!ENTITY navbarOverflow.label                "Alat lainnya…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Muat Ulang Tab">
@@ -107,9 +107,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "S">
 
 <!ENTITY fxaSignIn.label "Masuk ke &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Buka preferensi &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Sambungkan ulang ke &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "Verifikasikan Akun Anda">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; diaktifkan">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; akan memulai penyinkronan sesaat lagi.">
 
@@ -128,12 +128,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "sekarang dalam layar penuh">
+<!ENTITY fullscreenWarning.generic.label "Sekarang dokumen ini dalam layar penuh">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Keluar dari Layar Penuh (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Keluar dari Layar Penuh (es)">
 <!ENTITY leaveDOMFullScreen.label "Keluar dari Mode Layar Penuh">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -185,16 +186,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak laman ini">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Tampilkan informasi situs">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-
-
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Tampilkan notifikasi">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Tampilkan permintaan lokasi">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Tampilkan pesan instal pengaya">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Tampilkan pesan penyimpanan luring aplikasi">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Kelola info masuk Anda">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Centang jika ingin menyimpan sandi Anda">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Tampilkan pesan instal aplikasi">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Kelola penggunaan plugin di laman ini">
 
 
 
@@ -433,7 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "L">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Cari atau Buka Situs Web">
+<!ENTITY urlbar.placeholder2          "Cari atau masukkan alamat">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Pindah ke tab:">
 
@@ -833,7 +836,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY trackingProtection.notDetected3 "Tidak ada elemen pelacakan terdeteksi di laman ini.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->

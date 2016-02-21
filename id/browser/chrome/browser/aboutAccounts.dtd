@@ -9,6 +9,6 @@
 <!ENTITY aboutAccountsConfig.startButton.label "Siapkan">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Masih menggunakan versi lawas Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Pengaturan Sinkronisasi">
-
-
-
+<!ENTITY aboutAccounts.noConnection.title "Tak ada koneksi">
+<!ENTITY aboutAccounts.noConnection.description "Anda harus tersambung ke Internet untuk masuk.">
+<!ENTITY aboutAccounts.noConnection.retry "Coba lagi">
