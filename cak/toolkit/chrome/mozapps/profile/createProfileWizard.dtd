@@ -13,8 +13,8 @@
 <!-- Second wizard page -->
 
 <!ENTITY profileCreationIntro.text      "We ye'anük' k'ïy taq ruwäch b'i'aj, yatikïr naya' ketal ruma ri kib'i'. Yatikïr natz'ib'aj rub'i' achi'el re' chuqa' natz'ib'aj jun chik.">
-
-
+<!ENTITY profilePrompt.label            "Tatz'ib'aj rub'i' ri k'ak'a' ruwäch b'i'aj:">
+<!ENTITY profilePrompt.accesskey        "T">
 
 
 
