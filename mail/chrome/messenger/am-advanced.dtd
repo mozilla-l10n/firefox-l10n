@@ -18,6 +18,7 @@
 <!ENTITY smtpListSetDefault.label      "Määra vaikeväärtuseks">
 <!ENTITY smtpListSetDefault.accesskey  "t">
 
+<!ENTITY serverDetails.label           "Valitud serveri üksikasjad:">
 <!ENTITY serverDescription.label       "Kirjeldus: ">
 <!ENTITY serverName.label              "Server: ">
 <!ENTITY serverPort.label              "Port: ">
