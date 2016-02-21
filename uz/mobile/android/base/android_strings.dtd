@@ -269,6 +269,8 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY tab_queue_notification_settings "\&quot;Bir nechta havolani ochish\&quot; uchun &brandShortName; uchun \&quot;Boshqa ilovalar ustida chizish\&quot; ruxsatini yoqib qo‘ying.">
+
 <!ENTITY pref_char_encoding "Kodlash usuli">
 <!ENTITY pref_char_encoding_on "Menyuni ko‘rsatish">
 <!ENTITY pref_char_encoding_off "Menyu ko‘rsatilmasin">
@@ -536,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "So‘nggi ichki oynalaringiz bu yerda ko‘rsatiladi.">
 <!ENTITY home_open_all "Barchasini ochish">
 <!ENTITY home_most_recent_empty "So‘nggi tashrif buyurilgan saytlar bu yerda ko‘rinadi.">
-
+<!ENTITY home_selected_empty "Tanlangan vaqt kadrida siz kirgan sahifalar bu yerda ko‘rinadi.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1;Yangi maxfiy ichki oyna&formatS2;dan foydalanish tarixingizni saqlamaydi.">
@@ -599,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Xavfsiz ulanish">
 <!ENTITY identity_connection_insecure "Xavfli ulanish">
 <!ENTITY identity_login_insecure "Bu sahifa xavfsiz emas, shuning uchun kirish zararli.">
-
+<!ENTITY identity_connection_chromeui "Bu &brandShortName; xavfsizlik sahifasi">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "Ushbu sahifadagi xavfli elementlarni &brandShortName; blokladi.">
@@ -623,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Maxfiy ma’lumotlar tozalandi">
 <!ENTITY private_data_fail "Ba’zi maxfiy ma’lumotlar tozalanmadi">
 
+<!ENTITY bookmarkhistory_button_import "Import qilish">
 <!ENTITY bookmarkhistory_import_both "Androiddan xatcho‘plar va tarix 
 import qilinmoqda">
 <!ENTITY bookmarkhistory_import_bookmarks "Androiddan xatcho‘plar 
@@ -663,7 +666,10 @@ import qilinmoqda">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Yangilanish va fayllarni yuklab olish uchun &brandShortName; ilovasiga xotiradan foydalanish uchun ruxsat bering.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Ruxsat berish">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Yangi mehmon seansi">
@@ -753,8 +759,8 @@ import qilinmoqda">
 <!ENTITY restrictable_feature_advanced_settings_description "Unga xatcho‘plarni import qilish, ichki oynalarni tiklash va avtomatik yangilashlar ham kiradi. Soddalashtirilgan sozlamalarnni o‘chirib qo‘yish har qanday oila a’zosi uchun mos keladi.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera va mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Oila a’zolariga veb saytlarda real vaqtda bog‘lanish imkonini beradi.">
-
-
+<!ENTITY restrictable_feature_block_list "Bloklar ro‘yxati">
+<!ENTITY restrictable_feature_block_list_description "Zararli tarkibga ega saytlarni bloklaydi.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
