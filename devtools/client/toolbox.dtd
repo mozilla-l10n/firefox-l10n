@@ -21,10 +21,14 @@ fullZoomReduceCmd.commandkey2, fullZoomResetCmd.commandkey,
 and fullZoomResetCmd.commandkey2 should all match the corresponding
 values from browser.dtd.  -->
 
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY toolboxReload.key             "r">
@@ -66,6 +70,8 @@ values from browser.dtd.  -->
 <!ENTITY options.defaultColorUnit.accesskey "U">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.authored "Sesuai Penyusun">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 

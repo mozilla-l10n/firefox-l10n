@@ -758,7 +758,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Laman ini menggunakan enkripsi lemah.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "Koneksi Anda ke laman ini tidak pribadi. Informasi yang Anda kirim dapat dilihat oleh pihak lain (misalnya, sandi, pesan, kartu kredit, dll.).">
+<!ENTITY identity.description.insecure "Sambungan Anda ke laman ini tidak pribadi. Informasi yang Anda kirim dapat dilihat oleh pihak lain (misalnya, sandi, pesan, kartu kredit, dll.).">
 <!ENTITY identity.description.insecureLoginForms "Info masuk yang Anda masukkan di laman ini tidak aman dan bisa diketahui orang lain.">
 <!ENTITY identity.description.weakCipher "Sambungan Anda ke situs web ini menggunakan enkripsi lemah dan tidak pribadi.">
 <!ENTITY identity.description.weakCipher2 "Orang lain dapat melihat informasi Anda atau memodifikasi perilaku situs web ini.">
