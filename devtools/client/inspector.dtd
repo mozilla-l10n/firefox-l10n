@@ -85,19 +85,26 @@
      - add new attribute
      - edit attribute
      - remove attribute -->
-
+<!ENTITY inspectorAttributeSubmenu.label      "Atribut">
+<!ENTITY inspectorAttributeSubmenu.accesskey  "A">
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
 
+<!ENTITY inspectorAddAttribute.label        "Tambahkan Atribut">
+<!ENTITY inspectorAddAttribute.accesskey    "T">
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
      for current node -->
 
+<!ENTITY inspectorEditAttribute.label        "Edit Atribut">
+<!ENTITY inspectorEditAttribute.accesskey    "E">
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
 
+<!ENTITY inspectorRemoveAttribute.label        "Hapus Atribut">
+<!ENTITY inspectorRemoveAttribute.accesskey    "H">
 
 <!ENTITY inspector.selectButton.tooltip     "Pilih elemen dengan mouse">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
@@ -126,6 +133,8 @@
      shown in the inspector contextual-menu for the item that outputs a
      variable for the current node to the console. When triggered,
      this item opens the split Console. -->
+
+<!ENTITY inspectorUseInConsole.label       "Gunakan di Konsol">
 <!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
      shown in the inspector contextual-menu for recursively expanding
      mark-up elements -->
@@ -144,3 +153,5 @@
 <!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users
      duplicate the currently selected node. -->
+
+<!ENTITY inspectorDuplicateNode.label       "Gandakan Simpul">

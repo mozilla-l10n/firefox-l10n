@@ -88,7 +88,7 @@
 <!ENTITY runtimePanel_installsimulator "Instal Simulator">
 <!ENTITY runtimePanel_noadbhelper "Instal Pembantu ADB">
 <!ENTITY runtimePanel_nousbdevice "Tidak dapat melihat perangkat Anda?">
-
+<!ENTITY runtimePanel_refreshDevices_label "Segarkan Perangkat">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "valid">
