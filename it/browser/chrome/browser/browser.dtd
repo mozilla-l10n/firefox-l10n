@@ -600,7 +600,6 @@
 <!ENTITY social.directory.button "Apri il portale">
 <!ENTITY social.directory.introText "Fai clic su un servizio per aggiungerlo a &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Ulteriori informazioni">
-<!ENTITY customizeMode.tabTitle "Personalizza &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Strumenti e caratteristiche aggiuntive">
 <!ENTITY customizeMode.menuAndToolbars.empty "Hai bisogno di altri strumenti?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Scegli tra migliaia di componenti aggiuntivi">
