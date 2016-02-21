@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey        "N">
 <!ENTITY dualUseFolders.label               "Server toetab kaustu, mis sisaldavad sõnumeid ja alamkaustu">
 <!ENTITY dualUseFolders.accesskey           "S">
-<!ENTITY useIdle.label                      "Kasutatatakse IDLE käsku, kui server seda toetab">
-<!ENTITY useIdle.accesskey                  "I">
 <!ENTITY maximumConnectionsNumber.label     "Maksimaalne puhverdatavate serveriühenduste arv">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey      "M">
 <!ENTITY overrideNamespaces.label           "Serveril lubatakse neid nimeruume mitte kasutada">
 <!ENTITY overrideNamespaces.accesskey       "a">
-<!ENTITY pop3Desc.label                     "POP3 kirjade allalaadimisel kasutatakse uute kirjade jaoks järgnevat kausta:">
-<!ENTITY accountDirectory.label             "Selle konto saabuvate kirjade kaust">
-<!ENTITY accountDirectory.accesskey         "b">
+<!ENTITY pop3DeferringDesc.label            "Selle konto serverist kirjade allalaadimisel kasutatakse uute kirjade salvestamiseks järgnevat kausta:" >
+<!ENTITY accountInbox.label                 "Selle konto saabuvate kirjade kaust">
+<!ENTITY accountInbox.accesskey             "b">
 <!ENTITY deferToServer.label                "Mõne muu konto saabuvate kirjade kaust">
 <!ENTITY deferToServer.accesskey            "j">
 <!ENTITY deferGetNewMail.label              "See server kaasatakse uute kirjade hankimisel">
