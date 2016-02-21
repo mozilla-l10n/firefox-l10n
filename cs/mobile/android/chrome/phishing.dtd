@@ -14,7 +14,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Útočné stránky se pokouší nainstalovat programy, které kradou vaše důvěrná data, používají váš počítač k dalším útokům, nebo jakkoliv poničí váš systém.</p><p>Některé stránky poskytují škodlivý software záměrně, řada z nich byla ale sama napadena a činí tak bez vědomí jejich vlastníků.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Podezřelá podvodná stránka!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Vložení osobních informací na takovéto stránce může skočit krádeží identity nebo jiným podvodem.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Vložení osobních informací na takovéto stránce může skončit krádeží identity nebo jiným podvodem.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Tyto podvodné stránky nazývané též útoky typu phishing se snaží zpravidla napodobit webové stránky nebo e-maily ze zdrojů, kterým věříte.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Nahlášena nevyžádaná stránka se software!">
