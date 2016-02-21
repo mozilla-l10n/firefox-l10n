@@ -11,17 +11,17 @@
 <!ENTITY  onboard_start_subtext3 "独具风格的移动网络浏览体验。">
 
 <!ENTITY firstrun_urlbar_message "欢迎使用 &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "使用搜索建议中的捷径，得到更快的操作方式。">
+<!ENTITY firstrun_urlbar_subtext "搜索建议更加好用，找东西得心应手 。">
 <!ENTITY firstrun_bookmarks_title "历史记录">
-<!ENTITY firstrun_bookmarks_message "您的最爱、重点和中心">
-<!ENTITY firstrun_bookmarks_subtext "在您搜索时获得您的书签和历史记录。">
+<!ENTITY firstrun_bookmarks_message "您想要的，就在眼前">
+<!ENTITY firstrun_bookmarks_subtext "在您搜索时，也会得到书签和历史记录中的相关内容。">
 <!ENTITY firstrun_data_title "数据流量">
-<!ENTITY firstrun_data_message "更少的流量消耗，更加节省">
-<!ENTITY firstrun_data_subtext "阻止图像以节约您访问每个网站消耗的流量。">
+<!ENTITY firstrun_data_message "流量消耗更少，为您节省更多">
+<!ENTITY firstrun_data_subtext "拦截图像，让您不用花过多流量便能浏览各个网站。">
 <!ENTITY firstrun_sync_title "同步">
-<!ENTITY firstrun_sync_message "&brandShortName;，始终在您身边">
-<!ENTITY firstrun_sync_subtext "同步您的标签页、密码等一切您使用它的信息。">
-<!ENTITY firstrun_signin_message "取得连接，以便上手">
+<!ENTITY firstrun_sync_message "&brandShortName;，始终伴您左右">
+<!ENTITY firstrun_sync_subtext "随处同步您的标签页、密码等信息，便于您使用。">
+<!ENTITY firstrun_signin_message "互联设备，即刻畅游">
 <!ENTITY firstrun_signin_button "登录以同步">
 <!ENTITY  onboard_start_button_browser "开始浏览">
 <!ENTITY firstrun_button_next "下一步">
@@ -242,7 +242,7 @@
 <!ENTITY tracking_protection_prompt_title "立即使用跟踪保护">
 <!ENTITY tracking_protection_prompt_text "主动屏蔽跟踪元素，让您不再担心。">
 <!ENTITY tracking_protection_prompt_tip_text "访问“隐私”设置了解更多信息">
-<!ENTITY tracking_protection_prompt_action_button "前往">
+<!ENTITY tracking_protection_prompt_action_button "明白了！">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; 中已保存的标签页">
 <!ENTITY tab_queue_toast_action "立即打开">
