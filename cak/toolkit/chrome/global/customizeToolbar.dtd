@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title             "Tichinäx ri kikajtz'ik taq samajib'äl ">
-
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 
 
 

@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-
+<!ENTITY refreshProfile.dialog.description1  "Tatikirisaj rik'in majun richin nasöl kiwäch k'ayewal chuqa' nanük' rub'eyal nisamäj.">
 
 <!ENTITY refreshProfile.dialog.items.label1  "Ke'elesäx el ri taq atz'aqat chuqa' taq awichinaxik">
 <!ENTITY refreshProfile.dialog.items.label2  "Titikirisäx chik ri runuk'ulem awokik'amaya'l rik'in ri taq rub'anikil ruk'amon wi pe">
