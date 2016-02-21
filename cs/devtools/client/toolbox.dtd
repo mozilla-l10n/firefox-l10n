@@ -215,7 +215,7 @@ values from browser.dtd.  -->
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Automaticky uzavírat závorky">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Automaticky vkládá uzavírací závorky">
 <!ENTITY options.sourceeditor.expandtab.label           "Odsazení pomocí mezer">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "Použije mezery na místo tabulátorů">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Použije mezery namísto tabulátorů">
 <!ENTITY options.sourceeditor.tabsize.label             "Velikost odsazení">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Klávesové zkratky">

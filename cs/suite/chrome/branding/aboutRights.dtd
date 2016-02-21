@@ -56,7 +56,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Bezpečné prohlížení: ">
-<!ENTITY rights.safebrowsing-b "Zakázání funkce bezpečného prohlížení je nedoporučováno neboť vám umožní navštěvovat nebezpečné stránky. Pokud ale chcete tuto funkci zakázat, postupujte podle těchto kroků:">
+<!ENTITY rights.safebrowsing-b "Zakázání funkce bezpečného prohlížení není doporučováno, protože vám umožní navštěvovat nebezpečné stránky. Pokud ale chcete tuto funkci zakázat, postupujte podle těchto kroků:">
 <!ENTITY rights.safebrowsing-term1 "Otevřete předvolby aplikace">
 <!ENTITY rights.safebrowsing-term2 "Zvolte panel &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Odškrtněte předvolby &quot;&blockAttackSites.label;&quot; a &quot;&blockWebForgeries.label;&quot;">

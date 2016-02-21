@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY prefWindow.titleWin "Možnosti">
-<!ENTITY prefWindow.titleGNOME "Předvolby aplikace &brandShortName; ">
+<!ENTITY prefWindow.titleGNOME "Předvolby aplikace &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Předvolby">
 <!ENTITY prefWindow.styleWindows "width: 44em; min-height: 39em;">
 <!ENTITY prefWindow.styleMac "width: 47em;">
