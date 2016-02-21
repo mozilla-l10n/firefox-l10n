@@ -198,19 +198,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Centang jika ingin menyimpan sandi Anda">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Tampilkan pesan instal aplikasi">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Kelola penggunaan plugin di laman ini">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Ubah jika Anda ingin menerima notifikasi dari situs ini">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Kelola berbagi kamera dan/atau mikrofon dengan situs">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Anda berbagi kamera dan/atau mikrofon dengan situs">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Kelola berbagi mikrofon dengan situs">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Anda berbagi mikrofon dengan situs">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Kelola berbagi jendela atau layar dengan situs">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Anda berbagi jendela atau layar dengan situs">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Ubah jika Anda ingin situs menyembunyikan penunjuk">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Tampilkan pesan instal layanan">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Terjemahkan laman ini">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Kelola terjemahan laman ini">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Kelola penggunaan perangkat lunak DRM">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
 
 <!ENTITY searchItem.title             "Cari">
 <!-- Toolbar items --> 
@@ -243,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Unduhan">
 <!ENTITY downloads.accesskey          "U">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Pengaya">
 <!ENTITY addons.accesskey             "P">
 <!ENTITY addons.commandkey            "A">
@@ -324,16 +327,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Berkas"> 
 <!ENTITY fileMenu.accesskey       "B">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Tab Kontainer Baru">
+<!ENTITY newUserContext.accesskey         "K">
+<!ENTITY userContextPersonal.label        "Pribadi">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Pekerjaan">
+<!ENTITY userContextWork.accesskey        "k">
+<!ENTITY userContextBanking.label         "Bank">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Belanja">
+<!ENTITY userContextShopping.accesskey    "j">
 <!ENTITY newNavigatorCmd.label        "Jendela Baru">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "J">
@@ -403,17 +406,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Tampilkan Bilah Samping Riwayat">
 <!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
 
-
+<!ENTITY appMenuRemoteTabs.label "Tab yang Disinkronkan">
+<!ENTITY appMenuRemoteTabs.fetching.label "Mengambil Tab yag Disinkronkan…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Tidak ada tab terbuka">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat lainnya.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Masuk ke Firefox dari perangkat lainnya untuk melihat tab perangkat tersebut di sini.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Pengaturan Sync">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Masuk untuk melihat daftar tab dari perangkat lainnya.">
+<!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sync">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tambahkan ke Bilah Alat">
 <!ENTITY customizeMenu.addToToolbar.accesskey "T">
@@ -440,12 +447,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Pindah ke tab:">
 
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Ingin meningkatkan pengalaman pencarian Anda dengan saran?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Pelajari lebih lanjut…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Tidak">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -474,6 +482,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Kueri penelusuran">
+<!ENTITY contentSearchSubmit.label    "Kirim penelusuran">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -500,9 +510,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ubah Pengaturan Pencarian">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Cari di Tab Baru">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "Setel sebagai Mesin Pencari Baku">
+<!ENTITY searchSetAsDefault.accesskey "B">
 
 <!ENTITY openLinkCmdInTab.label       "Buka Tautan di Tab Baru">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -691,6 +702,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "u">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Gaya Laman">
 <!ENTITY pageStyleMenu.accesskey "G">
@@ -730,47 +742,55 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Selesai">
 <!ENTITY editBookmark.cancel.label                   "Batal">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "H">
 
 <!ENTITY identity.connectionSecure "Sambungan Aman">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Aman">
-
-
+<!ENTITY identity.connectionFile "Laman ini tersimpan di komputer Anda.">
+<!ENTITY identity.connectionVerified1 "Anda tersambung dengan aman ke situs ini, yang dijalankan oleh:">
 <!ENTITY identity.connectionInternal "Ini adalah laman &brandShortName; aman.">
-
+<!ENTITY identity.insecureLoginForms2 "Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
+<!ENTITY identity.passiveLoaded "Bagian dari laman ini tidak aman (misalnya, gambar).">
+<!ENTITY identity.activeLoaded "Anda telah menonaktifkan perlindungan di laman ini.">
+<!ENTITY identity.weakEncryption "Laman ini menggunakan enkripsi lemah.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Koneksi Anda ke laman ini tidak pribadi. Informasi yang Anda kirim dapat dilihat oleh pihak lain (misalnya, sandi, pesan, kartu kredit, dll.).">
+<!ENTITY identity.description.insecureLoginForms "Info masuk yang Anda masukkan di laman ini tidak aman dan bisa diketahui orang lain.">
+<!ENTITY identity.description.weakCipher "Sambungan Anda ke situs web ini menggunakan enkripsi lemah dan tidak pribadi.">
+<!ENTITY identity.description.weakCipher2 "Orang lain dapat melihat informasi Anda atau memodifikasi perilaku situs web ini.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
+<!ENTITY identity.description.passiveLoaded "Sambungan Anda tidak pribadi dan informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain.">
+<!ENTITY identity.description.passiveLoaded2 "Situs web ini mengandung konten yang tidak aman (misalnya, gambar).">
+<!ENTITY identity.description.passiveLoaded3 "Meskipun &brandShortName; telah memblokir sejumlah konten, tetapi masih ada konten di laman ini yang tidak aman (misalnya gambar).">
+<!ENTITY identity.description.activeLoaded "Situs web ini mengandung konten yang tidak aman (misalnya skrip) dan sambungan Anda tidak pribadi.">
+<!ENTITY identity.description.activeLoaded2 "Informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain (misalnya sandi, pesan, kartu kredit, dll.)">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Aktifkan perlindungan">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "A">
 <!ENTITY identity.disableMixedContentBlocking.label "Nonaktifkan perlindungan untuk saat ini">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "N">
-
+<!ENTITY identity.learnMore "Pelajari Lebih Lanjut">
 
 <!ENTITY identity.moreInfoLinkText2 "Informasi Lebih Lanjut">
 
 <!ENTITY identity.permissions "Hak Akses">
-
+<!ENTITY identity.permissionsEmpty "Anda belum memberikan izin khusus apa pun untuk situs ini. ">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Tab peramban">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
+<!ENTITY syncTabsMenu3.label     "Tab yang Disinkronkan">
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Masuk ke &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sinkronkan Sekarang">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Sambungkan ulang ke &syncBrand.shortName.label;â€¦">
@@ -831,29 +851,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon untuk dibagikan:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "Audio dari tab akan dibagikan.">
 <!ENTITY getUserMedia.allWindowsShared.message "Semua jendela yang terlihat pada layar Anda akan dibagikan.">
 
-
-
+<!ENTITY trackingProtection.title "Perlindungan Pelacakan">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; memblokir bagian dari laman yang mungkin melacak penjelajahan Anda.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Situs ini mengandung elemen yang mungkin melacak penjelajahan Anda. Anda telah menonaktifkan perlindungan.">
 <!ENTITY trackingProtection.notDetected3 "Tidak ada elemen pelacakan terdeteksi di laman ini.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Nonaktifkan perlindungan untuk situs web ini">
+<!ENTITY trackingProtection.unblock.accesskey "N">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Nonaktifkan perlindungan untuk situs web ini">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "N">
+<!ENTITY trackingProtection.block2.label "Aktifkan perlindungan">
+<!ENTITY trackingProtection.block2.accesskey "A">
 
 <!ENTITY trackingContentBlocked.message "Pelacakan">
 <!ENTITY trackingContentBlocked.moreinfo "Sebagian isi laman yang melacak aktivitas daring Anda telah diblokir.">
 <!ENTITY trackingContentBlocked.learnMore "Pelajari Lebih Lanjut">
-
-
-
+<!ENTITY trackingContentBlocked.options "Opsi">
+<!ENTITY trackingContentBlocked.unblock2.label "Nonaktifkan perlindungan untuk situs web ini">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "N">
 <!ENTITY trackingContentBlocked.block.label "Aktifkan perlindungan">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "Perlindungan pelacakan dinonaktifkan">

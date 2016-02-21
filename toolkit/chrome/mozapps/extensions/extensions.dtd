@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Beberapa ekstensi tidak dapat diverifikasi">
 <!ENTITY showAllExtensions.button.label       "Tampilkan semua ekstensi">
-
-
+<!ENTITY debugAddons.label                    "Debug Pengaya">
+<!ENTITY debugAddons.accesskey                "b">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Semua pengaya telah dimatikan dalam mode aman.">

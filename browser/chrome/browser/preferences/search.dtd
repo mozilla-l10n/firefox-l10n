@@ -9,8 +9,9 @@
 <!ENTITY provideSearchSuggestions.label        "Sertakan saran pencarian">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
-
+<!ENTITY showURLBarSuggestions.label           "Tampilkan saran pencarian di hasil bilah lokasi">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Saran pencarian tidak akan ditampilkan di hasil bilah lokasi karena Anda telah mengatur &brandShortName; agar tidak mengingat riwayat.">
 
 <!ENTITY redirectWindowsSearch.label "Gunakan mesin pencari ini untuk pencarian dari Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
