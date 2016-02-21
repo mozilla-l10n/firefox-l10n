@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "আপনি পরে সেটিং এ এটি পরিবর্তন করতে পারবেন">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "অন্য অ্যাপের উপরে চালানো অনুমোদন চালু করুন।">
 <!ENTITY tab_queue_prompt_positive_action_button "সক্রিয়">
 <!ENTITY tab_queue_prompt_negative_action_button "এখনি নয়">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "সেটিং এ যাও">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 প্রতীক্ষিত ট্যাব">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "\&quot;একাধিক লিঙ্ক খোলা\&quot;চালু করতে, অনুগ্রহ করে &brandShortName; এর জন্য \u0027অন্য অ্যাপের উপরে চালাও\u0027 অনুমতি সক্রিয় করুন">
 
 <!ENTITY pref_char_encoding "ক্যারেক্টার এনকোডিং">
 <!ENTITY pref_char_encoding_on "মেনু প্রদর্শিত হবে">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "আপনার সাম্প্রতিক ট্যাবগুলি এখানে দেখাবে।">
 <!ENTITY home_open_all "সবগুলি খুলুন">
 <!ENTITY home_most_recent_empty "আপনার সাম্প্রতিক কালে ভিজিট করা ওয়েবসাইট গুলি এখানে দেখতে পাবেন।">
-
+<!ENTITY home_selected_empty "নির্ধারিত সময়ের মধ্যে আপনার পরিদর্শিত ওয়েবসাইটগুলো এখানে দেখাবে।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1; ব্যবহার করলে নতুন প্রাইভেট ট্যাব&formatS2; আপনার ইতিহাস সংরক্ষণ করবে না।">
@@ -597,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "নিরাপদ সংযোগ">
 <!ENTITY identity_connection_insecure "নিরাপত্তাহীন সংযোগ">
 <!ENTITY identity_login_insecure "এই পাতাটি নিরাপদ নয় এবং আপনার লগ ইন তথ্য অরক্ষিত, চুরি হতে পারে">
-
+<!ENTITY identity_connection_chromeui "এটি একটি সুরক্ষিত &brandShortName; পাতা।">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; এই পাতায় নিরাপত্তাহীন উপাদান ব্লক করা হয়েছে।">
@@ -621,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ব্যক্তিগত তথ্য পরিষ্কার করা হয়েছে">
 <!ENTITY private_data_fail "কিছু ব্যক্তিগত তথ্য পরিষ্কার করা যায়নি">
 
+<!ENTITY bookmarkhistory_button_import "ইম্পোর্ট">
 <!ENTITY bookmarkhistory_import_both "এন্ড্রয়েড থেকে বুকমার্ক এবং ইতিহাস (r)
 ইম্পোর্ট করুন">
 <!ENTITY bookmarkhistory_import_bookmarks "এন্ড্রয়েড থেকে বুকমার্ক 
@@ -661,7 +666,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "ফাইল এবং হালনাগাদ ডাউনলোড করতে, &brandShortName; এর জন্য স্টোরেজ ব্যবহারের অনুমোদন দিন।">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "অনুমোদন">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "নতুন গেস্ট সেশন">
@@ -751,8 +759,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "এর মধ্যে রয়েছে বুকমার্ক ইম্পোর্ট, ট্যাব রিস্টোর এবং স্বয়ংক্রিয় হালনাগাদ। পরিবারের যেকোন সদস্যের জন্য প্রযোজ্য সরল সেটিং এর জন্য এদের বন্ধ করুন।">
 <!ENTITY restrictable_feature_camera_microphone "ক্যামেরা ও মাইক্রোফোন">
 <!ENTITY restrictable_feature_camera_microphone_description "পরিবারের সদস্যদের ওয়েবসাইটে তাৎক্ষণিক যোগাযোগে রত করুন।">
-
-
+<!ENTITY restrictable_feature_block_list "ব্লক তালিকা">
+<!ENTITY restrictable_feature_block_list_description "যেসকল ওয়েবসাইটে স্পর্শকাতর কন্টেন্ট রয়েছে তা ব্লক করো।">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
