@@ -11,7 +11,7 @@
 <!ENTITY  onboard_start_subtext3 "Faça de sua experiência na web móvel verdadeiramente sua.">
 
 <!ENTITY firstrun_urlbar_message "Bem-vindo ao &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Encontre as coisas mais rapidamente com os atalhos das sugestões de pesquisa.">
+<!ENTITY firstrun_urlbar_subtext "Encontre as coisas mais rapidamente com as sugestões de pesquisa.">
 <!ENTITY firstrun_bookmarks_title "Histórico">
 <!ENTITY firstrun_bookmarks_message "Completamente seu">
 <!ENTITY firstrun_bookmarks_subtext "Obter resultados dos favoritos e histórico quando pesquisar.">
@@ -170,7 +170,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Dica: adicione qualquer site à sua lista de mecanismos de pesquisa dando um toque longo em seu campo de pesquisa e um toque no ícone &formatI;.">
 <!ENTITY pref_category_advanced "Avançado">
-<!ENTITY pref_category_advanced_summary2 "Restaurar abas, plugins, ferramentas do desenvolvedor">
+<!ENTITY pref_category_advanced_summary2 "Restaure abas, plugins, ferramentas do desenvolvedor">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_developer_remotedebugging_usb "Depuração remota via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuração remota via Wi-Fi">
@@ -542,7 +542,7 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: ao usar uma &formatS1;Nova aba privada&formatS2;, seu histórico não será salvo.">
-<!ENTITY home_reading_list_empty "Artigos salvos para depois serão mostrados aqui.">
+<!ENTITY home_reading_list_empty "Artigos salvos para leitura posterior serão mostrados aqui.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -677,7 +677,7 @@ do Android">
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "O &brandShortName; irá reiniciar agora">
-<!ENTITY new_guest_session_text2 "A pessoa que estiver usando não poderá ver os seus dados pessoais (como senhas salvas, histórico ou Favoritos).\n\nQuando o seu convidado terminar, os dados de navegação serão excluídos e a sua sessão será restaurada.">
+<!ENTITY new_guest_session_text2 "A pessoa que estiver usando não poderá ver os seus dados pessoais (como senhas salvas, histórico ou favoritos).\n\nQuando o seu convidado terminar, os dados de navegação serão excluídos e a sua sessão será restaurada.">
 <!ENTITY guest_browsing_notification_title "Navegação do convidado está ativa">
 <!ENTITY guest_browsing_notification_text "Toque para sair">
 
