@@ -21,3 +21,15 @@
 <!ENTITY            autoSelect.label         "Predeterminado para este perfil">
 <!ENTITY            autoSelect.accesskey     "s">
 
+<!ENTITY            start.label              "Iniciar &brandShortName;">
+<!ENTITY            exit.label               "Salir">
+
+<!ENTITY            newButton.label          "Crear perfil…">
+<!ENTITY            newButton.accesskey      "C">
+<!ENTITY            renameButton.label       "Renombrar perfil…">
+<!ENTITY            renameButton.accesskey   "R">
+<!ENTITY            deleteButton.label       "Borrar perfil…">
+<!ENTITY            deleteButton.accesskey   "B">
+
+<!ENTITY            offlineState.label       "Trabajar sin conexión">
+<!ENTITY            offlineState.accesskey   "o">
