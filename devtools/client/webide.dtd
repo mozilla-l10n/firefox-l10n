@@ -132,7 +132,7 @@
 <!ENTITY prefs_options_showeditor_tooltip "Zobrazí interní editor">
 <!ENTITY prefs_options_tabsize "Velikost tabu">
 <!ENTITY prefs_options_expandtab "Měkké tabulátory">
-<!ENTITY prefs_options_expandtab_tooltip "Použije mezery na místo znaku tabulátor">
+<!ENTITY prefs_options_expandtab_tooltip "Použije mezery namísto znaku tabulátor">
 <!ENTITY prefs_options_detectindentation "Automatické odsazení">
 <!ENTITY prefs_options_detectindentation_tooltip "Hádá odsazení na základě obsahu zdrojového kódu">
 <!ENTITY prefs_options_autocomplete "Automatické doplňování">
