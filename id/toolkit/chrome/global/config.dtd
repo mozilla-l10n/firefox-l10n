@@ -14,7 +14,7 @@
 <!ENTITY searchPrefs.label "Cari:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
-
+<!ENTITY focusSearch2.key "f">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Nama Pengaturan">

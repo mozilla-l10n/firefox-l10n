@@ -77,7 +77,7 @@
 <!ENTITY updates.updateSelected.tooltip       "Pasang versi baru yang ada pada daftar ini">
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label                "Tampilkan informasi selengkapnya">
+<!ENTITY cmd.showDetails.label                "Tampilkan Informasi Lebih Lanjut">
 <!ENTITY cmd.showDetails.accesskey            "i">
 <!ENTITY cmd.findUpdates.label                "Temukan Versi Baru">
 <!ENTITY cmd.findUpdates.accesskey            "B">
@@ -185,7 +185,7 @@ untuk &brandShortName; Anda.">
 <!ENTITY search.filter2.available.tooltip     "Tampilkan pengaya yang tersedia untuk dipasang">
 
 <!ENTITY addon.homepage                       "Beranda">
-<!ENTITY addon.details.label                  "Selengkapnya">
+<!ENTITY addon.details.label                  "Lebih Lanjut">
 <!ENTITY addon.details.tooltip                "Tampilkan detail lainnya tentang pengaya ini">
 <!ENTITY addon.unknownDate                    "Tidak dikenali">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list

@@ -89,7 +89,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 
 <!ENTITY update.unsupported.start    "Anda tidak dapat melakukan pemutakhiran selanjutnya pada sistem ini. ">
-<!ENTITY update.unsupported.linkText "Pelajari selengkapnya">
+<!ENTITY update.unsupported.linkText "Pelajari lebih lanjut">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
