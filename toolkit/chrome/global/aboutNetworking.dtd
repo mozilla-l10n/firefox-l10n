@@ -32,4 +32,4 @@
 <!ENTITY aboutNetworking.dnsLookup             "DNS-zoekactie">
 <!ENTITY aboutNetworking.dnsLookupButton       "Omzetten">
 <!ENTITY aboutNetworking.dnsDomain             "Domein">
-<!ENTITY aboutNetworking.dnsLookupTableColumn  "IP’s">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-adressen">
