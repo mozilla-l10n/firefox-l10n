@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "Jelajahi Web dengan cara Anda sendiri.">
 
 <!ENTITY firstrun_urlbar_message "Selamat datang di &brandShortName;">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Temukan lebih cepat dengan pintasan saran pencarian.">
+<!ENTITY firstrun_bookmarks_title "Riwayat">
+<!ENTITY firstrun_bookmarks_message "Favorit Anda, langsung di depan Anda">
+<!ENTITY firstrun_bookmarks_subtext "Dapatkan hasil dari markah dan riwayat Anda saat mencari.">
+<!ENTITY firstrun_data_title "Data">
+<!ENTITY firstrun_data_message "Lebih sedikit data, lebih banyak hematnya">
+<!ENTITY firstrun_data_subtext "Blokir gambar untuk menghemat kuota data di setiap situs yang Anda buka.">
 <!ENTITY firstrun_sync_title "Sync">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, selalu hadir untuk Anda">
+<!ENTITY firstrun_sync_subtext "Sinkronkan tab, sandi, dan yang lain di mana saja Anda menggunakannya.">
+<!ENTITY firstrun_signin_message "Sambungkan, dan mulai">
+<!ENTITY firstrun_signin_button "Masuk ke Sync">
 <!ENTITY  onboard_start_button_browser "Mulai Menjelajah">
 <!ENTITY firstrun_button_next "Selanjutnya">
 
@@ -107,11 +107,13 @@
 
 <!ENTITY settings "Pengaturan">
 <!ENTITY settings_title "Pengaturan">
-
-
+<!ENTITY pref_category_general "Umum">
+<!ENTITY pref_category_general_summary2 "Beranda, bahasa, bilah URL">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Bahasa">
 <!ENTITY pref_category_language_summary "Ubah bahasa peramban Anda">
 <!ENTITY pref_browser_locale "Bahasa peramban">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -148,12 +150,12 @@
 
 <!ENTITY pref_category_search3 "Cari">
 <!ENTITY pref_category_search_summary "Ubahsuai penyedia pencarian">
-
-
+<!ENTITY pref_category_accessibility "Aksesibilitas">
+<!ENTITY pref_category_accessibility_summary2 "Ukuran teks, perbesaran, input suara">
 <!ENTITY pref_category_privacy_short "Privasi">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "Pelacakan, kuki, pilihan data">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Tentang &brandShortName;, tanya jawab, saran">
 <!ENTITY pref_category_datareporting "Pilihan data">
 <!ENTITY pref_learn_more "Pelajari lebih lanjut">
 <!ENTITY pref_category_installed_search_engines "Mesin pencari terpasang">
@@ -167,8 +169,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "KIAT: Tambahkan situs apa saja ke daftar mesin pencari dengan menekan lama pada bidang pencarian lalu mengetuk ikon &formatI;.">
-
-
+<!ENTITY pref_category_advanced "Tingkat Lanjut">
+<!ENTITY pref_category_advanced_summary2 "Pemulihan tab, plugin, alat pengembang">
 <!ENTITY pref_developer_remotedebugging "Pendebugan daring">
 <!ENTITY pref_developer_remotedebugging_usb "Pendebugan daring via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Pendebugan daring via Wi-Fi">
@@ -186,7 +188,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ditambahkan ke beranda">
 <!ENTITY pref_category_home_content_settings "Pengaturan isi">
-
+<!ENTITY pref_home_updates "Pemutakhiran otomatis">
 <!ENTITY pref_home_updates_enabled "Aktif">
 <!ENTITY pref_home_updates_wifi "Hanya lewat Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Tampilkan saran situs">
@@ -196,39 +198,46 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Beranda &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Ubahsuai">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Masukkan alamat atau kata yang ingin dicari">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "Umum">
+<!ENTITY pref_header_search "Cari">
 <!ENTITY pref_header_privacy_short "Privasi">
-
-
+<!ENTITY pref_header_accessibility "Aksesibilitas">
+<!ENTITY pref_header_advanced "Tingkat Lanjut">
 <!ENTITY pref_header_help "Bantuan">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Kuki">
 <!ENTITY pref_cookies_accept_all "Aktif">
 <!ENTITY pref_cookies_not_accept_foreign "Aktif, kecuali pihak ketiga">
 <!ENTITY pref_cookies_disabled "Matikan">
 
-
-
-
+<!ENTITY pref_tap_to_load_images_title2 "Tampilkan gambar">
+<!ENTITY pref_tap_to_load_images_enabled "Selalu">
+<!ENTITY pref_tap_to_load_images_data "Hanya lewat Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Terblokir">
 
 <!ENTITY pref_tracking_protection_title "Perlindungan pelacakan">
-
+<!ENTITY pref_tracking_protection_summary3 "Aktifkan di Penjelajahan Pribadi">
 <!ENTITY pref_donottrack_title "Jangan lacak">
 <!ENTITY pref_donottrack_summary "&brandShortName; akan memberi tahu situs bahwa Anda tidak ingin dilacak">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Aktif">
+<!ENTITY pref_tracking_protection_enabled_pb "Aktifkan di Penjelajahan Pribadi">
+<!ENTITY pref_tracking_protection_disabled "Matikan">
 
 <!ENTITY tracking_protection_prompt_title "Kini dengan Perlindungan Pelacakan">
 <!ENTITY tracking_protection_prompt_text "Secara aktif memblokir elemen pelacakan sehingga Anda tidak perlu khawatir.">
@@ -242,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Anda dapat mengubahnya nanti di Pengaturan">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Aktifkan Izin penggambaran di atas aplikasi lain">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktif">
 <!ENTITY tab_queue_prompt_negative_action_button "Jangan sekarang">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Buka Pengaturan">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -258,14 +269,16 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY tab_queue_notification_settings "Untuk \&quot;Membuka banyak tautan\&quot;, aktifkan izin \u0027Gambar di atas aplikasi lain\u0027 untuk &brandShortName;">
+
 <!ENTITY pref_char_encoding "Pengodean karakter">
 <!ENTITY pref_char_encoding_on "Tampilkan menu">
 <!ENTITY pref_char_encoding_off "Jangan tampilkan menu">
-
+<!ENTITY pref_clear_private_data "Hapus Data Pribadi">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Bersihkan sekarang">
-
+<!ENTITY pref_clear_on_exit_title3 "Hapus data pribadi saat keluar">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan membersihkan data Anda secara otomatis setiap Anda memilih \u0022Keluar\u0022 dari menu utama">
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang akan dibersihkan">
 <!ENTITY pref_plugins "Plugin">
@@ -273,7 +286,7 @@
 <!ENTITY pref_plugins_tap_to_play "Ketuk untuk memainkan">
 <!ENTITY pref_plugins_disabled "Matikan">
 <!ENTITY pref_text_size "Ukuran teks">
-
+<!ENTITY pref_restore_tabs "Pulihkan tab">
 <!ENTITY pref_restore_always "Selalu pulihkan">
 <!ENTITY pref_restore_quit "Jangan pulihkan setelah keluar dari &brandShortName;">
 <!ENTITY pref_font_size_tiny "Kecil sekali">
@@ -298,16 +311,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Selalu aktifkan perbesaran">
 <!ENTITY pref_zoom_force_enabled_summary "Paksa timpa agar Anda dapat memperbesar/memperkecil laman apa saja">
 <!ENTITY pref_voice_input "Input suara">
-
+<!ENTITY pref_voice_input_summary2 "Izinkan dikte suara di bilah judul">
 <!ENTITY pref_qrcode_enabled "Pembaca kode QR">
-
+<!ENTITY pref_qrcode_enabled_summary2 "Izinkan pemindai QR di bilah judul">
 
 <!ENTITY pref_use_master_password "Gunakan sandi utama">
-
+<!ENTITY pref_sync2 "Masuk">
 <!ENTITY pref_sync_summary2 "Sinkronkan tab, markah, info masuk, dan riwayat">
 <!ENTITY pref_search_suggestions "Tampilkan saran pencarian">
-
-
+<!ENTITY pref_history_search_suggestions "Tampilkan riwayat pencarian">
+<!ENTITY pref_import_options "Opsi input">
 <!ENTITY pref_import_android_summary "Impor markah dan riwayat dari peramban sistem">
 <!ENTITY pref_private_data_history2 "Riwayat penjelajahan">
 <!ENTITY pref_private_data_searchHistory "Riwayat pencarian">
@@ -364,16 +377,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Pemutakhiran otomatis">
 <!ENTITY pref_update_autodownload_wifi "Hanya lewat Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Tidak">
-
+<!ENTITY pref_update_autodownload_always "Selalu">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Bantuan">
 
 <!ENTITY quit "Keluar">
 
-
+<!ENTITY addons "Pengaya">
+<!ENTITY logins "Info masuk">
 <!ENTITY downloads "Unduhan">
 <!ENTITY char_encoding "Pengodean Karakter">
 
@@ -390,7 +405,7 @@ size. -->
 <!ENTITY new_private_tab "Tab Pribadi Baru">
 <!ENTITY close_all_tabs "Tutup Semua Tab">
 <!ENTITY close_private_tabs "Tutup Tab Pribadi">
-
+<!ENTITY tabs_normal "Tab">
 <!ENTITY tabs_private "Pribadi">
 <!ENTITY tabs_synced "Tersinkronisasi">
 <!ENTITY set_image_fail "Gagal menyetel gambar">
@@ -452,7 +467,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Penjelajahan layar penuh">
-
+<!ENTITY pref_scroll_title_bar_summary2 "Sembunyikan bilah judul &brandShortName; saat menggulir laman ke bawah">
 
 <!ENTITY pref_tab_queue_title2 "Buka beberapa tautan">
 <!ENTITY pref_tab_queue_summary3 "Simpan semua hingga nanti Anda membuka &brandShortName;">
@@ -512,6 +527,8 @@ size. -->
 <!ENTITY home_top_sites_add "Tambahkan situs">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "Beranda &brandShortName;">
 <!ENTITY home_history_title "Riwayat">
 <!ENTITY home_clear_history_button "Bersihkan riwayat penjelajahan">
 <!ENTITY home_clear_history_confirm "Yakin ingin membersihkan riwayat Anda?">
@@ -521,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tab terakhir yang dibuka akan tampil di sini.">
 <!ENTITY home_open_all "Buka semua">
 <!ENTITY home_most_recent_empty "Situs yang sering dikunjungi terakhir akan tampil di sini.">
-
+<!ENTITY home_selected_empty "Situs web yang Anda buka pada jangka waktu terpilih akan tampil di sini.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Ssst: coba gunakan &formatS1;Tab Pribadi Baru&formatS2; agar riwayat penjelajahan tidak disimpan.">
@@ -583,8 +600,8 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Sambungan Aman">
 <!ENTITY identity_connection_insecure "Sambungan tidak aman">
-
-
+<!ENTITY identity_login_insecure "Laman ini tidak aman dan info masuk Anda rentan.">
+<!ENTITY identity_connection_chromeui "Ini adalah laman aman &brandShortName;.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; telah memblokir konten tidak aman di laman ini.">
@@ -608,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Data pribadi dibersihkan">
 <!ENTITY private_data_fail "Beberapa data pribadi tidak dapat dibersihkan">
 
+<!ENTITY bookmarkhistory_button_import "Impor">
 <!ENTITY bookmarkhistory_import_both "Mengimpor markah dan riwayat  
 dari Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Mengimpor markah  
@@ -648,7 +666,10 @@ dari Android">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Untuk mengunduh berkas dan pembaruan, izinkan &brandShortName; untuk mengakses penyimpanan. ">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Izinkan">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Sesi Tamu Baru">
@@ -707,6 +728,7 @@ dari Android">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Tautan ini akan dibuka di &formatS;. Yakin ingin keluar dari Penjelajahan Pribadi?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -714,6 +736,7 @@ dari Android">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Keluar dari Penjelajahan Pribadi?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -726,16 +749,18 @@ dari Android">
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "Pengaya">
+<!ENTITY restrictable_feature_addons_installation_description "Tambah fitur atau fungsionalitas ke Firefox. Catatan: Pengaya bisa menonaktifkan batasan tertentu.">
 <!ENTITY restrictable_feature_private_browsing "Mode Penjelajahan Pribadi">
-
-
-
-
-
-
-
-
-
+<!ENTITY restrictable_feature_private_browsing_description "Izinkan anggota keluar untuk menjelajah tanpa menyimpan informasi tentang situs dan laman yang mereka kunjungi.">
+<!ENTITY restrictable_feature_clear_history "Bersihkan Riwayat">
+<!ENTITY restrictable_feature_clear_history_description "Izinkan anggota keluar untuk menghapus informasi tentang situs dan laman yang mereka kunjungi.">
+<!ENTITY restrictable_feature_advanced_settings "Pengaturan Tingkat Lanjut">
+<!ENTITY restrictable_feature_advanced_settings_description "Ini termasuk mengimpor markah, memulihkan tab dan pembaruan otomatis. Matikan untuk pengaturan sederhana yang cocok bagi seluruh anggota keluarga.">
+<!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
+<!ENTITY restrictable_feature_camera_microphone_description "Izinkan anggota keluarga untuk melakukan percakapan waktu-nyata dengan situs web.">
+<!ENTITY restrictable_feature_block_list "Daftar Blokir">
+<!ENTITY restrictable_feature_block_list_description "Blokir situs web yang menyertakan konten sensitif.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -752,4 +777,7 @@ dari Android">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "Maaf! &brandShortName; versi ini tidak akan berfungsi pada perangkat (&formatS1;, &formatS2;). Unduh versi yang benar.">
 
+<!ENTITY eol_notification_title "&brandShortName; tidak lagi mendukung Android 3">
+<!ENTITY eol_notification_summary "Ketuk untuk mempelajari lebih lanjut">
