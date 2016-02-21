@@ -163,8 +163,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL Daring">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Gagal Tersambung dengan Aman">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Info lanjut: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Info lanjutan: SSL_ERROR_NO_CYPHER_OVERLAP">

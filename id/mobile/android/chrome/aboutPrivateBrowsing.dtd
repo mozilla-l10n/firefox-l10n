@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Anda tidak sedang dalam Penjelajahan Privat">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; memblokir bagian dari laman yang mungkin melacak aktivitas penjelajahan Anda.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Kami tidak akan mengingat riwayat apa pun, tetapi berkas yang diunduh dan markah baru masih tetap disimpan di perangkat Anda.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
