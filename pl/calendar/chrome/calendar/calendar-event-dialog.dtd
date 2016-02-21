@@ -142,6 +142,7 @@
 <!ENTITY event.remove.attendees.label2 "Usuń wszystkich uczestników">
 <!ENTITY event.remove.attendees.accesskey "U">
 <!ENTITY event.remove.attendee.label "Usuń uczestnika">
+<!ENTITY event.remove.attendee.accesskey "s">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Zapisz i zamknij">
