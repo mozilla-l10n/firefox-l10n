@@ -154,7 +154,7 @@ za chvíli.</li>
 <!ENTITY malwareBlocked.title "Podezřelá útočná stránka!">
 <!ENTITY malwareBlocked.longDesc "
 <p>Útočné stránky se pokouší nainstalovat programy, které kradou vaše důvěrná data, používají váš počítač k dalším útokům, nebo jakkoliv poničí váš systém.</p>
-<p>Vlastníci webových stránek, kteří jsou přesvědčení, že jejich stránky byly nahlášeny omylem jako útočné, mohou <a href='http://www.stopbadware.org/home/reviewinfo' >požádat o kontrolu</a>.</p>
+<p>Vlastníci webových stránek, kteří jsou přesvědčeni, že jejich stránky byly nahlášeny omylem jako útočné, mohou <a href='http://www.stopbadware.org/home/reviewinfo' >požádat o kontrolu</a>.</p>
 ">
 
 <!ENTITY unwantedBlocked.title "Podezdřelá nevyžádaná stránka se software!">

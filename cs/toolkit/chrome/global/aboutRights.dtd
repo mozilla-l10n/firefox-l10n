@@ -70,10 +70,10 @@
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Prohlížení se znalostí polohy: ">
 <!ENTITY rights.locationawarebrowsing-b "Služby se znalostí polohy si vždy musí vyžádat váš souhlas, bez kterého nejsou odeslány žádné informace o poloze. Pokud ale chcete tuto funkci zakázat, postupujte podle těchto kroků:">
-<!ENTITY rights.locationawarebrowsing-term1a "Do pole adresy vepište ">
+<!ENTITY rights.locationawarebrowsing-term1a "Do pole adresy zadejte ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
-<!ENTITY rights.locationawarebrowsing-term2 "a potvrďte varování. Vložte filtr „geo.enabled“">
-<!ENTITY rights.locationawarebrowsing-term3 "Z místní nabídky přepněte předvolbu na hodnotu nepravda">
+<!ENTITY rights.locationawarebrowsing-term2 "a potvrďte varování. Zadejte hledat „geo.enabled“">
+<!ENTITY rights.locationawarebrowsing-term3 "Z místní nabídky přepněte předvolbu na hodnotu false">
 <!ENTITY rights.locationawarebrowsing-term4 "Prohlížení se znalostí polohy je nyní vypnuto">
 
 <!-- intro paragraph for unbranded builds -->
