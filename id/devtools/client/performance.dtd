@@ -58,13 +58,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Waterfall">
-
-
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Tampilkan macam-macam operasi pada peramban yang dilakukan saat direkam, digambarkan secara berurutan seperti air terjun.">
+<!ENTITY performanceUI.toolbar.js-calltree "Pohon Pemanggilan">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Sorot fungsi JavaScript saat peramban menghabiskan sebagian besar waktunya saat direkam.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Alokasi">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Menampilkan tempat memori dialokasikan saat perekaman.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Bagan Flame JS">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Menampilkan stack pemanggilan JavaScript selama perekaman.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Bagan Flame Alokasi">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->

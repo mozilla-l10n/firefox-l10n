@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Kelola Komponen Ekstra">
 <!ENTITY projectMenu_manageComponents_accesskey "K">
-
+<!ENTITY projectMenu_refreshTabs_label "Segarkan Tab">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -77,6 +77,7 @@
 <!ENTITY key_resetzoom "0">
 <!-- reload WebIDE and devtools from local checkout -->
 <!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "S">
 
 <!ENTITY projectPanel_myProjects "Proyek Saya">
 <!ENTITY projectPanel_runtimeApps "Runtime Aplikasi">
@@ -140,8 +141,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Otomatis sisipkan kurung penutup">
 <!ENTITY prefs_options_keybindings "Pintasan tombol">
 <!ENTITY prefs_options_keybindings_default "Bawaan">
-
-
+<!ENTITY prefs_options_autosavefiles "Simpan berkas otomatis">
+<!ENTITY prefs_options_autosavefiles_tooltip "Simpan berkas yang diedit secara otomatis sebelum proyek dijalankan">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabel Izin">
@@ -214,6 +215,6 @@
 <!ENTITY simulator_device "Perangkat">
 <!ENTITY simulator_screenSize "Layar">
 <!ENTITY simulator_pixelRatio "Rasio Piksel">
-
-
-
+<!ENTITY simulator_tv_data "Simulasi TV">
+<!ENTITY simulator_tv_data_open "Data Konfigurasi">
+<!ENTITY simulator_tv_data_open_button "Buka Direktori Konfigurasi…">
