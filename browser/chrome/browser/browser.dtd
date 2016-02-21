@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Pažymėkite, jei norite įrašyti savo slaptažodį">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Peržiūrėti programos diegimo pranešimą">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Tvarkyti papildinių naudojimą tinklalapyje">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Pasirinkite, ar norite gauti pranešimus iš šios svetainės">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Tvarkyti kameros ir mikrofono naudojimą svetainėje">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Svetainei leidžiate naudoti jūsų kamerą ir (arba) mikrofoną">
