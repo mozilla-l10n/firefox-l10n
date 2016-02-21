@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- This file exists to allow applications to override one or more messages
+     from netError.dtd; Applications which want to do this should override
+     this file with their own version of netErrorApp.dtd -->
+
+<!-- An example (from Firefox):
+
+<!ENTITY securityOverride.linkText "Или можете да добавите изключение…">
+<!ENTITY securityOverride.warningContent "
+<p>Не трябва да добавяте изключение, ако не се доверявате на сигурността на вашата свързаност с Интернет или не очаквате да виждате такова предупреждение от този сървър.</p> 
+<p>Ако все пак искате да добавите изключение, можете да го направите от разширените настройки на шифроването.</p>">
+
+-->
