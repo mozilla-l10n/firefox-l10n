@@ -6,5 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Priedai">
 <!ENTITY aboutDebugging.addonDebugging.label       "Įjungti priedų derinimą">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Įjungę galėsite derinti priedus ir įvairias kitas naršyklės sąsajos dalis">
-
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Įkelti laikiną priedą">
 <!ENTITY aboutDebugging.workers                    "Scenarijai">
