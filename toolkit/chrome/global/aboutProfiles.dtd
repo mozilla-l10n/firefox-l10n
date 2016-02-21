@@ -8,5 +8,4 @@
 <!ENTITY aboutProfiles.restart.title "Reiniciar">
 <!ENTITY aboutProfiles.restart.inSafeMode "Reiniciar con los complementos deshabilitados…">
 <!ENTITY aboutProfiles.restart.normal "Reiniciar normalmente…">
-<!ENTITY aboutProfiles.profileManager.workOffline "Trabajar sin conexión">
-<!ENTITY aboutProfiles.profileManager.autoSelect "Usar el perfil seleccionado sin preguntar al iniciar">
+

@@ -55,9 +55,6 @@
 <!ENTITY viewMenu_zoomout_accesskey "D">
 <!ENTITY viewMenu_resetzoom_label "Normal">
 <!ENTITY viewMenu_resetzoom_accesskey "r">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
-<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectButton_label "Abrir aplicaciones">
 <!ENTITY runtimeButton_label "Seleccionar Runtime">
@@ -78,6 +75,9 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
+<!-- reload WebIDE and devtools from local checkout -->
+<!-- this binding is with accel+alt, whereas all others are just accel -->
+<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "Mis proyectos">
 <!ENTITY projectPanel_runtimeApps "Runtime Apps">
