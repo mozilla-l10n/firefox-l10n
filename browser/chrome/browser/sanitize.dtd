@@ -32,7 +32,7 @@
 <!ENTITY clearTimeDuration.everything     "Everything">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.suffix         "​">
 <!ENTITY clearTimeDuration.dateColumn     "Visit Date">
 <!ENTITY clearTimeDuration.nameColumn     "Name">
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys

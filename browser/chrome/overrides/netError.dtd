@@ -16,7 +16,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "This address is restricted">
-<!ENTITY deniedPortAccess.longDesc "">
+<!ENTITY deniedPortAccess.longDesc "​">
 
 <!ENTITY dnsNotFound.title "Server not found">
 <!ENTITY dnsNotFound.longDesc "<ul> 
