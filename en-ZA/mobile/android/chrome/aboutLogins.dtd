@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
+<!ENTITY aboutLogins.title                       "Logins">
 <!ENTITY aboutLogins.update                      "Update">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Keep your logins safe">
+<!ENTITY aboutLogins.emptyLoginHint              "Logins and credentials you save using &brandShortName; will show up here.">
