@@ -82,20 +82,18 @@
 
 <!ENTITY fontSizeMenu.label                  "Suurus">
 <!ENTITY fontSizeMenu.accesskey              "u">
-<!ENTITY size-xx-smallCmd.label              "üliväike">
-<!ENTITY size-xx-smallCmd.accesskey          "v">
-<!ENTITY size-x-smallCmd.label               "väga väike">
-<!ENTITY size-x-smallCmd.accesskey           "g">
+<!ENTITY size-tinyCmd.label                  "väga väike">
+<!ENTITY size-tinyCmd.accesskey              "g">
 <!ENTITY size-smallCmd.label                 "väike">
 <!ENTITY size-smallCmd.accesskey             "i">
 <!ENTITY size-mediumCmd.label                "keskmine">
 <!ENTITY size-mediumCmd.accesskey            "e">
 <!ENTITY size-largeCmd.label                 "suur">
 <!ENTITY size-largeCmd.accesskey             "r">
-<!ENTITY size-x-largeCmd.label               "väga suur">
-<!ENTITY size-x-largeCmd.accesskey           "a">
-<!ENTITY size-xx-largeCmd.label              "ülisuur">
-<!ENTITY size-xx-largeCmd.accesskey          "i">
+<!ENTITY size-extraLargeCmd.label            "väga suur">
+<!ENTITY size-extraLargeCmd.accesskey        "a">
+<!ENTITY size-hugeCmd.label                  "ülisuur">
+<!ENTITY size-hugeCmd.accesskey              "i">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label                 "Teksti stiil">
@@ -312,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip        "Vali teksti esiletoov värv">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip  "Määra fondi suurus">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip  "Vähenda fondi suurust">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip  "Suurenda fondi suurust">
 <!ENTITY boldToolbarCmd.tooltip              "Paks">
