@@ -11,6 +11,7 @@
   The label associated with this accesskey can be found in 
   preferences.properties as removeSelectedCookies.
 -->
+<!ENTITY     button.removeSelectedCookies.accesskey "R">
 <!ENTITY     button.removeAllCookies.label "Remove All">
 <!ENTITY     button.removeAllCookies.accesskey "A">
 
@@ -20,7 +21,7 @@
 <!ENTITY     props.path.label               "Path:">
 <!ENTITY     props.secure.label             "Send For:">
 <!ENTITY     props.expires.label            "Expires:">
-
+<!ENTITY     props.container.label          "Container:">
 
 <!ENTITY     window.title                   "Cookies">
 <!ENTITY     windowClose.key                "w">

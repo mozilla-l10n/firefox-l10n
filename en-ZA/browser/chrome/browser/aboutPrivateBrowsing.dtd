@@ -13,16 +13,21 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "You're browsing privately">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Not Saved">
 <!ENTITY aboutPrivateBrowsing.info.history     "History">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Searches">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Temporary Files">
 
-
+<!ENTITY aboutPrivateBrowsing.info.saved       "Saved">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Downloads">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Please note that your employer or Internet service provider can still track the pages you visit.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Learn More.">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -33,12 +38,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width1             "22em">
+<!ENTITY trackingProtection.title              "Tracking Protection">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "ON">
+<!ENTITY trackingProtection.state.disabled     "OFF">
 
+<!ENTITY trackingProtection.description1       "Private windows now block parts of the page that may track your browsing activity.">
 
-
-
-
+<!ENTITY trackingProtection.disable            "Turn Tracking Protection Off">
+<!ENTITY trackingProtection.enable             "Turn Tracking Protection On">
+<!ENTITY trackingProtection.startTour1         "See how this works">
