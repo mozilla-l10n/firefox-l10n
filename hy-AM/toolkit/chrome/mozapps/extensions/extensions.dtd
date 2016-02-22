@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Որոշ հավելումներ չեն կարող ստուգվել:">
 <!ENTITY showAllExtensions.button.label       "Ցուցադրել բոլորը">
-
-
+<!ENTITY debugAddons.label                    "Վրիպազերծել հավելումները">
+<!ENTITY debugAddons.accesskey                "պ">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Ապահով կերպը պասիվացրել է բոլոր հավելումները:">
