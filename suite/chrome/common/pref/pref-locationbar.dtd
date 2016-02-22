@@ -33,7 +33,7 @@
 <!ENTITY domainFormatting.label                "Effectieve domein van websites en FTP-servers markeren">
 <!ENTITY domainFormatting.accesskey            "d">
 <!ENTITY highlightSecure.label                 "Webpagina's met een hoge verbindingsbeveiliging markeren">
-<!ENTITY highlightSecure.accesskey             "c">
+<!ENTITY highlightSecure.accesskey             "b">
 
 <!ENTITY unknownLocations.label                "Onbekende locaties">
 <!ENTITY domainGuessing.label                  "Automatisch “www.” en “.com” aan de locatie toevoegen als een webpagina niet wordt gevonden">
