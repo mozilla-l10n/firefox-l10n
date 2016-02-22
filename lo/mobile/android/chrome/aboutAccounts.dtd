@@ -9,4 +9,5 @@
 <!ENTITY aboutAccounts.noConnection.title "ບໍ່ມີການເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ">
 <!ENTITY aboutAccounts.retry.label "ລອງໃຫມ່ອີກຄັ້ງຫນຶ່ງ">
 
-
+<!ENTITY aboutAccounts.restrictedError.title "ຖືກຈໍາກັດ">
+<!ENTITY aboutAccounts.restrictedError.description "ທ່ານບໍ່ສາມາດຈັດການກັບບັນຊີ Firefox ຈາກໂປຟາຍນີ້.">

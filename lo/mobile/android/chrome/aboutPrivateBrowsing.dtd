@@ -13,7 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "ທ່ານບໍ່ໄດ້ຢູ່ໃນໂມດການຄົ້ນຫາແບບສ່ວນຕົວ">
 
-
+<!ENTITY privatebrowsingpage.description.privateDetails "ພວກເຮົາຈະບໍ່ບັນທຶກປະຫວັດການໃຊ້ງານຂອງທ່ານ, ແຕ່ວ່າຟາຍຂໍ້ມູນທີ່ໄດ້ຮັບການດາວໂຫລດແລ້ວ ແລະ ບຸກຫມາກໃຫມ່ຈະໄດ້ຮັບການບັນທຶກໄວ້ໃນອຸປະກອນຂອງທ່ານ.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
