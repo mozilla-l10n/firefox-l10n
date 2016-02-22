@@ -1,9 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
 
+
+<!ENTITY messageStorage.label "Message Storage">
 <!ENTITY securitySettings.label "Security Settings">
 <!ENTITY serverSettings.label "Server Settings">
 <!ENTITY serverType.label "Server Type:">
@@ -20,8 +21,10 @@
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Check for new messages every ">
-<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "minutes">
+<!ENTITY useIdleNotifications.label "Allow immediate server notifications when new messages arrive">
+<!ENTITY useIdleNotifications.accesskey "w">
 <!ENTITY connectionSecurity.label "Connection security:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "None">
@@ -33,7 +36,7 @@
 <!ENTITY leaveOnServer.label "Leave messages on server">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Fetch headers only">
-<!ENTITY headersOnly.accesskey "F">
+<!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "For at most">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "days">
@@ -43,9 +46,9 @@
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Your Login Name">
 <!ENTITY deleteMessagePrefix.label "When I delete a message:">
-<!ENTITY modelMoveToTrash.label "Move it to the Trash folder">
+<!ENTITY modelMoveToTrash.label "Move it to this folder:">
 <!ENTITY modelMoveToTrash.accesskey "o">
-<!ENTITY modelMarkDeleted.label "Mark it as deleted">
+<!ENTITY modelMarkDeleted.label "Just mark it as deleted">
 <!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelDeleteImmediately.label "Remove it immediately">
 <!ENTITY modelDeleteImmediately.accesskey "d">
@@ -67,16 +70,23 @@
 <!ENTITY alwaysAuthenticate.label "Always request authentication when connecting to this server">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY newsrcPicker.label "Select newsrc File">
 <!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
 <!ENTITY abbreviateOn.label "Full names (For example, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Advanced…">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "Default Character Encoding:">
+<!ENTITY serverDefaultCharset2.label "Default Text Encoding:">
+<!ENTITY localPath.label "Local directory:">
 <!ENTITY localFolderPicker.label "Select Local Directory">
 <!ENTITY browseFolder.label "Browse…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Select newsrc File">
 <!ENTITY browseNewsrc.label "Browse…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Account Settings">
+<!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">
+<!ENTITY storeType.label "Message Store Type:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "File per folder (mbox)">
+<!ENTITY maildirStore.label "File per message (maildir)">
