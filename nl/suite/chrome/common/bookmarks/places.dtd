@@ -92,7 +92,7 @@
 
 <!ENTITY search.in.label                           "Zoeken in:">
 <!ENTITY search.scopeFolder.label                  "Geselecteerde map">
-<!ENTITY search.scopeFolder.accesskey              "">
+<!ENTITY search.scopeFolder.accesskey              "G">
 <!ENTITY search.scopeBookmarks.label               "Bladwijzers">
 <!ENTITY search.scopeBookmarks.accesskey           "B">
 <!ENTITY saveSearch.label                          "Opslaan">

@@ -4,9 +4,9 @@
 
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Pop-upvensters van deze website weigeren">
-<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowRejectCmd.accesskey "u">
 <!ENTITY popupWindowAllowCmd.label      "Pop-upvensters van deze website toestaan">
-<!ENTITY popupWindowAllowCmd.accesskey  "">
+<!ENTITY popupWindowAllowCmd.accesskey  "u">
 <!ENTITY openLinkCmdInTab.label       "Koppeling openen in nieuw tabblad ">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label              "Koppeling openen in nieuw venster">
@@ -120,9 +120,9 @@
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label        "Bedieningsknoppen tonen">
-<!ENTITY mediaShowControls.accesskey    "C">
+<!ENTITY mediaShowControls.accesskey    "B">
 <!ENTITY mediaHideControls.label        "Bedieningsknoppen verbergen">
-<!ENTITY mediaHideControls.accesskey    "C">
+<!ENTITY mediaHideControls.accesskey    "B">
 <!ENTITY videoFullScreen.label        "Volledig scherm">
 <!ENTITY videoFullScreen.accesskey    "V">
 <!ENTITY videoSaveImage.label         "Snapshot opslaan als…">
