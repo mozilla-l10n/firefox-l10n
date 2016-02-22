@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "추적 보호 사용">
-<!ENTITY  trackingProtectionAlways.label       "항상">
+<!ENTITY  trackingProtectionHeader.label       "추적 방지 사용">
+<!ENTITY  trackingProtectionAlways.label       "항상 사용하기">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
-<!ENTITY  trackingProtectionPrivate.label      "사생화 보호 창 전용">
+<!ENTITY  trackingProtectionPrivate.label      "사생활 보호 창에서만 사용">
 <!ENTITY  trackingProtectionPrivate.accesskey  "y">
-<!ENTITY  trackingProtectionNever.label        "허용 안함">
+<!ENTITY  trackingProtectionNever.label        "항상 사용하지 않기">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "더 알아보기">
 <!ENTITY  trackingProtectionExceptions.label   "예외…">
