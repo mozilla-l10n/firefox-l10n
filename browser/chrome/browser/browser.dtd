@@ -168,6 +168,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "S’abonner à cette page…">
 <!ENTITY addCurPagesCmd.label "Marquer tous les onglets…">
 <!ENTITY showAllBookmarks2.label "Afficher tous les marque-pages">
+<!ENTITY recentBookmarks.label "Marqués récemment">
 <!ENTITY unsortedBookmarksCmd.label "Marque-pages non classés">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afficher plus de marque-pages">
 
@@ -838,7 +839,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY social.directory.introText "Cliquez sur un service pour l’ajouter à &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Afficher davantage">
 
-<!ENTITY customizeMode.tabTitle "Personnaliser &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Outils et fonctionnalités supplémentaires">
 <!ENTITY customizeMode.menuAndToolbars.empty "Besoin d’encore plus d’outils ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Faites votre choix parmi des milliers de modules complémentaires">
