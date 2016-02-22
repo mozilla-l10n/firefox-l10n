@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "Warn me when websites try to redirect or reload the page">
 <!ENTITY blockAutoRefresh.accesskey      "b">
-
-
+<!ENTITY useOnScreenKeyboard.label       "Show a touch keyboard when necessary">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "Browsing">
 
@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Learn More">
 
 <!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customisation data about your browser with &vendorShortName; to help us make &brandShortName; better">
-
-
+<!ENTITY enableTelemetryData.label       "Share additional data (i.e., Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Learn More">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
@@ -108,7 +108,7 @@
 <!ENTITY offlineAppRemove.confirm        "Remove offline data">
 
 <!ENTITY certificateTab.label            "Certificates">
-
+<!ENTITY certSelection.label             "Requests">
 <!ENTITY certSelection.description       "When a server requests my personal certificate:">
 <!ENTITY certs.auto                      "Select one automatically">
 <!ENTITY certs.auto.accesskey            "S">

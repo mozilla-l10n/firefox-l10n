@@ -10,7 +10,7 @@
 <!ENTITY  overridePageColors.accesskey    "O">
 
 <!ENTITY  overridePageColors.always.label "Always">
-
+<!ENTITY  overridePageColors.auto.label   "Only with High Contrast themes">
 <!ENTITY  overridePageColors.never.label  "Never">
 
 <!ENTITY  color                           "Text and Background">
