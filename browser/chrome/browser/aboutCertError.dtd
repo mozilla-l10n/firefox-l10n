@@ -36,5 +36,5 @@ Strict Transport Security (HSTS)՝ նշելու համար, որ &brandShortName
 
 <!ENTITY errorReporting.automatic "Հաղորդեք նման սխալների մասին Mozilla-ին՝ ոչ ճիշտ կազմաձևված կայքերը նույնացնելու համար">
 
-
-
+<!ENTITY errorReporting.sent "Զեկույցն ուղարկված է">
+<!ENTITY errorReporting.tryAgain "Կրկին փորձել">
