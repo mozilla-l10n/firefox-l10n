@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Apañuái oñemyenyhẽvo kuatiarogue">
 <!ENTITY retry.label "Eha'ãjey">
-
-
+<!ENTITY returnToPreviousPage.label "Eguevi">
+<!ENTITY advanced.label "Opanungáva">
 <!-- Specific error messages -->
 
 
@@ -141,6 +141,7 @@ nemohendaha ñanduti peguápe.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Oimeraẽva marandu avamba'éva ñemoinge ko kuatiaroguépe ikatu oipytyvõ téra ñemonda térã ambue mba'evairã.</p> 
 <p>Ko'ãichagua ñanduti vai ojepuru ojaho'i hag̃ua phishing (téra rekovia), kuatiarogue ha ñanduti veve ivaíva ojepuru oha'ãnga hag̃ua umi mba'e nde rejeroviaha.</p>">
 
+<!ENTITY forbiddenBlocked.title "Tenda Oñembotovepyre">
 
 
 <!ENTITY cspBlocked.title "Ojejoko hetepy rekorosãrã purureko rupi">

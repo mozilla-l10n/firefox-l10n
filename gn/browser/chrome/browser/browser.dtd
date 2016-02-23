@@ -416,8 +416,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.label "Eike Aguaratatápe ne mba'eokakuéra rupive ehecha hag̃ua hendaykekuéra ápe.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Jerohoryvéva Mbojuehe">
-
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Eike ehecha tendayke rysýi ambue mba'e'okapeguáva.">
+<!ENTITY appMenuRemoteTabs.signin.label "Eike Sync-pe">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tembipuru rendáre mbojoapy">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -781,6 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabsToolbar.label "Kundahára rendayke">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+
+<!ENTITY syncTabsMenu3.label     "Tendayke Oñembojuehepyre">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
