@@ -71,9 +71,6 @@
 <!ENTITY sync.button.connect.label 'Se connecter'>
 <!ENTITY sync.button.ok.label 'OK'>
 
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label;'>
-
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
