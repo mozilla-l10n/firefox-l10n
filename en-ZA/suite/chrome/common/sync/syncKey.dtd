@@ -12,7 +12,7 @@
 <!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
 <!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
-
+<!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
 <!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
-
+<!ENTITY syncKey.footer3.label            ".">
