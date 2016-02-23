@@ -65,10 +65,14 @@
 <!ENTITY btnServerLog                 "وقایع">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "Workerهای مشترک">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "‏Service Workerها">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "افزودنی یا Chrome Workerها">
 
 <!ENTITY filterOutput.placeholder "خروجی فیلتر">
 <!ENTITY btnClear.label        "پاک کردن">
