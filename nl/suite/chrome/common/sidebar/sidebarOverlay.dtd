@@ -20,8 +20,8 @@
 <!ENTITY sidebar.loading.stop.accesskey "S">
 
 <!ENTITY sidebar.no-panels.state     "De zijbalk is momenteel leeg.">
-<!ENTITY sidebar.no-panels.add       'U kunt tabbladen toevoegen door op de knop “Tabbladen” hierboven te klikken.'>
-<!ENTITY sidebar.no-panels.hide      'Klik op het menu “Beeld” hierboven en selecteer “Zijbalk” in het submenu “Tonen/Verbergen” als u de zijbalk volledig wilt verbergen.'>
+<!ENTITY sidebar.no-panels.add       "U kunt tabbladen toevoegen door op de knop ‘Tabbladen’ hierboven te klikken.">
+<!ENTITY sidebar.no-panels.hide      "Klik op het menu ‘Beeld’ hierboven en selecteer ‘Zijbalk’ in het submenu ‘Tonen/Verbergen’ als u de zijbalk volledig wilt verbergen.">
 <!ENTITY sidebar.sbDirectory.label   "Zijbalkmap…">
 
 <!ENTITY sidebar.pagenotfound.label  "Dit tabblad is momenteel niet beschikbaar.">

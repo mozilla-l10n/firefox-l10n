@@ -9,7 +9,7 @@
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label               "Wanneer ik berichten markeer als ongewenst:">
 <!ENTITY manualMark.accesskey           "W">
-<!ENTITY manualMarkModeMove.label       "ze verplaatsen naar de map “Ongewenst” van de account">
+<!ENTITY manualMarkModeMove.label       "ze verplaatsen naar de map ‘Ongewenst’ van de account">
 <!ENTITY manualMarkModeMove.accesskey   "z">
 <!ENTITY manualMarkModeDelete.label     "ze verwijderen">
 <!ENTITY manualMarkModeDelete.accesskey "v">
