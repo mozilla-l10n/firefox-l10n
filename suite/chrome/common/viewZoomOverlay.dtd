@@ -11,6 +11,6 @@
 
 <!ENTITY zoomReduceCmd.label        "Smaller">
 <!ENTITY zoomReduceCmd.accesskey    "S">
-
+<!ENTITY zoomReduceCmd.commandkey   "-">
 
 <!ENTITY zoomResetCmd.commandkey    "0">

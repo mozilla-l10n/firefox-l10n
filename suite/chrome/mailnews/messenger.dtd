@@ -4,7 +4,7 @@
 
 <!ENTITY messengerWindow.title "Mail &amp; Newsgroups">
 <!ENTITY titleModifier.label "&brandShortName;">
-
+<!ENTITY titleSeparator.label " - ">
 <!-- tabmail -->
 
 <!ENTITY tabmailClose.label "Close Tab">
@@ -184,10 +184,10 @@
 <!ENTITY allMsgsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.label "Expand All Threads">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
-
+<!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Collapse All Threads">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
-
+<!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Unread">
 <!ENTITY unreadMsgsCmd.accesskey "U">
 <!ENTITY threadsWithUnreadCmd.label "Threads with Unread">
@@ -266,10 +266,10 @@
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Back">
 <!ENTITY goBackCmd.accesskey "B">
-
+<!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "Forward">
 <!ENTITY goForwardCmd.accesskey "F">
-
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Flagged Message">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY startPageCmd.label "Mail Start Page">
