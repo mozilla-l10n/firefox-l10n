@@ -17,7 +17,7 @@
 <!ENTITY profilePrompt.accesskey        "T">
 
 
-
-
-
-
+<!ENTITY button.choosefolder.label      "Ticha' yakwuj…">
+<!ENTITY button.choosefolder.accesskey  "T">
+<!ENTITY button.usedefault.label        "Tokisäx ri yakwuj kan k'o wi">
+<!ENTITY button.usedefault.accesskey    "T">

@@ -5,13 +5,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY            windowtitle.label      "&brandShortName; - Tacha' jun ruwäch rub'i' winäq">
 
+<!ENTITY            profilename.label      "Rub'i' ruwäch b'i'aj:">
 
+<!ENTITY            start.label            "Titikirisäx &brandShortName;">
+<!ENTITY            exit.label             "Tel el">
 
+<!ENTITY            availprofiles.label    "Wachel taq kiwäch b'i'aj">
 
-
-
-
+<!ENTITY            newButton.label        "Tinuk' ruwäch b'i'aj…">
+<!ENTITY            newButton.accesskey    "T">
+<!ENTITY            renameButton.label     "Titz'ib'äx chi rub'i' ri ruwäch b'i'aj…">
+<!ENTITY            renameButton.accesskey "T">
 
 
 <!-- manager entities -->
