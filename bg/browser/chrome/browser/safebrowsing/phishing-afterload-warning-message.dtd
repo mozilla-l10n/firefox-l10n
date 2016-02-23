@@ -6,7 +6,6 @@
 <!ENTITY safeb.palm.decline.label "Пренебрегване на предупреждението">
 <!ENTITY safeb.palm.notforgery.label2 "Това не е измамнически сайт…">
 <!ENTITY safeb.palm.reportPage.label "Защо е блокирана тази страница?">
-<!ENTITY safeb.palm.whyForbidden.label "Защо е блокирана тази страница?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Страницата е докладвана като „атакуваща“!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
