@@ -4,11 +4,11 @@
 
 <!ENTITY onlineContactsHeader.label    "Onlinekontakten">
 <!ENTITY offlineContactsHeader.label   "Offlinekontakten">
-<!ENTITY conversationsHeader.label     "Konversaasjes">
+<!ENTITY conversationsHeader.label     "Petearen">
 <!ENTITY searchResultConversation.label "Sykresultaat">
-<!ENTITY chat.noConv.title             "Konversaasjes wurde hjir werjûn.">
-<!ENTITY chat.noConv.description       "Brûk de kontaktlist yn it linkerpaniel om in konversaasje te starten.">
-<!ENTITY chat.noPreviousConv.description       "&brandShortName; hat op dit stuit gjin foarige konversaasjes bewarre foar dit kontakt.">
+<!ENTITY chat.noConv.title             "Petearen wurde hjir werjûn.">
+<!ENTITY chat.noConv.description       "Brûk de kontaktlist yn it linkerpaniel om in petear te begjinnen.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName; hat op dit stuit gjin foarige petearen foar dit kontakt bewarre.">
 <!ENTITY chat.noAccount.title             "Jo hawwe noch gjin chataccount ynsteld.">
 <!ENTITY chat.noAccount.description       "Lit &brandShortName; jo troch it ynstelproses fan jo chataccount liede.">
 <!ENTITY chat.accountWizard.button       "Begjinne">
@@ -17,20 +17,20 @@
 <!ENTITY chat.showAccountManager.button       "Chatsteat toane">
 
 <!ENTITY chat.participants             "Dielnimmers:">
-<!ENTITY chat.previousConversations    "Foarige konversaasjes:">
-<!ENTITY chat.ongoingConversation      "Rinnende konversaasje">
+<!ENTITY chat.previousConversations    "Foarige petearen:">
+<!ENTITY chat.ongoingConversation      "Rinnend petear">
 
-<!ENTITY openConversationCmd.label     "In konversaasje begjinne">
+<!ENTITY openConversationCmd.label     "In petear begjinne">
 <!ENTITY openConversationCmd.accesskey "k">
-<!ENTITY closeConversationCmd.label    "Konversaasje slute">
+<!ENTITY closeConversationCmd.label    "Petear slute">
 <!ENTITY closeConversationCmd.accesskey "K">
 <!ENTITY aliasCmd.label                "Omneame">
 <!ENTITY aliasCmd.accesskey            "O">
 <!ENTITY deleteCmd.label               "Kontakt fuortsmite">
 <!ENTITY deleteCmd.accesskey           "f">
 
-<!ENTITY openConversationButton.tooltip  "In konversaasje begjinne">
-<!ENTITY closeConversationButton.tooltip "Konversaasje slute">
+<!ENTITY openConversationButton.tooltip  "In petear begjinne">
+<!ENTITY closeConversationButton.tooltip "Petear slute">
 
 <!ENTITY addBuddyButton.label          "Kontakt tafoegje">
 <!ENTITY joinChatButton.label          "Chat meidwaan">
