@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY refreshProfile.dialog.title         "Titikirisäx chik &brandShortName;">
 <!ENTITY refreshProfile.dialog.description1  "Tatikirisaj rik'in majun richin nasöl kiwäch k'ayewal chuqa' nanük' rub'eyal nisamäj.">
 <!ENTITY refreshProfile.dialog.description2  "Re re'">
 <!ENTITY refreshProfile.dialog.items.label1  "Ke'elesäx el ri taq atz'aqat chuqa' taq awichinaxik">
@@ -9,3 +11,4 @@
 
 <!ENTITY refreshProfile.button.label         "Titzolïx &brandShortName;…">
 
+<!ENTITY refreshProfile.cleaning.description "Jub'a' chik nrajo'…">

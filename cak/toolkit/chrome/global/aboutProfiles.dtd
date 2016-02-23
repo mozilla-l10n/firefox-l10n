@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
+<!ENTITY aboutProfiles.create "Tinuk' jun k'ak'a' ruwäch b'i'aj">
+<!ENTITY aboutProfiles.restart.title "Titikirisäx chik">
 <!ENTITY aboutProfiles.restart.inSafeMode "Titzij chik rik'in ri chupül taq rutz'aqat…">
 <!ENTITY aboutProfiles.restart.normal "Titikirisäx chik achi'el jantape'…">
