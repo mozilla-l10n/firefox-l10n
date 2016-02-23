@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY layoutViewTitle        "Кутиен модел">
+<!ENTITY title        "Кутиен модел">
 <!ENTITY margin.tooltip         "отстъп">
 <!ENTITY border.tooltip         "рамка">
 <!ENTITY padding.tooltip        "запълване">

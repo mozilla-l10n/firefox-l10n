@@ -34,7 +34,3 @@ HTTP Strict Transport Security (HSTS), за да укаже на &brandShortName
 <!ENTITY certerror.addException.label "Добавяне на изключение…">
 <!ENTITY certerror.copyToClipboard.label "Копиране на текста в системния буфер">
 
-<!ENTITY errorReporting.automatic "Докладвайте такива грешки, за да помогнете на Mozilla да идентифицира неправилно настроени сайтове">
-<!ENTITY errorReporting.sending "Изпращане на доклад">
-<!ENTITY errorReporting.sent "Докладът е изпратен">
-<!ENTITY errorReporting.tryAgain "Нов опит">

@@ -20,12 +20,6 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Архивирани данни на пинг">
 
-<!ENTITY aboutTelemetry.pingDataDisplay "Показване на данни от пинг:">
-
-<!ENTITY aboutTelemetry.structured "Структурирано">
-
-<!ENTITY aboutTelemetry.raw "Необработен JSON">
-
 <!ENTITY aboutTelemetry.showSubsessionData "Показване на подробни данни">
 
 <!ENTITY aboutTelemetry.choosePing "Избиране на пинг:">
