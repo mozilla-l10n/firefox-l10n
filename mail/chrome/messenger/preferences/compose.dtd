@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "ф">
 <!ENTITY restoreHTMLDefaults.label            "Възстановяване">
 <!ENTITY restoreHTMLDefaults.accesskey        "ъ">
-
-
+<!ENTITY enterKeyCreatesNewParagraph.label    "При използване на формат параграф, клавиша enter създава нов параграф">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "п">
 
 <!ENTITY spellCheck.label                     "Проверка на правописа преди изпращане">
 <!ENTITY spellCheck.accesskey                 "П">

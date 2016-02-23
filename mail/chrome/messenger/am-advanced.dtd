@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "По подразбиране">
 <!ENTITY smtpListSetDefault.accesskey "о">
 
+<!ENTITY serverDetails.label "Подробности за избрания сървър:">
 <!ENTITY serverDescription.label "Описание:">
 <!ENTITY serverName.label "Име на сървър:">
 <!ENTITY serverPort.label "Порт:">

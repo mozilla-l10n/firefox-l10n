@@ -11,6 +11,6 @@
 <!ENTITY newMessagesCountDock.accesskey        "Б">
 <!ENTITY showAllUnreadMessagesCount.label      "Брой на непрочетените съобщения">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "Б">
-<!ENTITY dockIconBadge.label                   "Бадж на иконката">
-<!ENTITY dockIconShow.label                    "Бадж на иконката с:">
-
+<!ENTITY dockIconBadge.label                   "Знак на иконката">
+<!ENTITY dockIconShow.label                    "Означете иконката с:">
+<!ENTITY directNotificationSettings.label      "Можете да изключите знакът от панела Уведомяване в Системни настройки.">

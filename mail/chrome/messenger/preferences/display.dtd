@@ -4,7 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Форматиране">
 <!ENTITY itemTags.label                   "Етикети">
-
+<!ENTITY itemAdvanced.label               "Допълнителни">
 
 <!ENTITY style.label                      "Стил:">
 <!ENTITY style.accesskey                  "С">
