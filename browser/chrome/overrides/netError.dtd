@@ -164,6 +164,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Научете повече…">
 <!ENTITY errorReporting.sending "Изпращане на доклад">
 <!ENTITY errorReporting.sent "Докладът изпратен">
+<!ENTITY errorReporting.report "Доклад">
 <!ENTITY errorReporting.tryAgain "Нов опит">
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">

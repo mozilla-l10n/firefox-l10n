@@ -23,7 +23,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Страницата <span id='phishing_sitename'/> е докладван като „измамническа“ и беше блокирана според настройките ви за безопасност.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Измамническите сайтовете са направени с цел да ви подлъжат да въведете лична или финансова информация като имитират сайтове на които вярвате.</p><p>Въвеждането на такава информация в тази страница може да доведе до кражба на самоличността ви или друга измама.</p>">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Блокиран сайт">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Уебстраницата <span id='forbidden_sitename'/> е блокирана от вашия административен профил.">
+<!ENTITY safeb.blocked.forbiddenPage.title "Блокиран сайт">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc "Сайтът <span id='forbidden_sitename'/> е блокиран от настройките на браузъра ви.">
 

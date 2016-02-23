@@ -13,6 +13,11 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
+<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
+   - Console context menu. -->
+<!ENTITY saveBodies.label     "Журнал на телата на заявките и отговорите">
+<!ENTITY saveBodies.accesskey "т">
+
 <!ENTITY openURL.label     "Отваряне на URL в нов подпрозорец">
 <!ENTITY openURL.accesskey "п">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
