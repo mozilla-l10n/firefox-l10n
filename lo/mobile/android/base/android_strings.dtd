@@ -13,7 +13,7 @@
 <!ENTITY firstrun_urlbar_message "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "ຄົ້ນຫາສຶ່ງຕ່າງໆໄດ້ໄວຂື້ນດ້ວຍການໃຊ້ເຄື່ອງມືແນະນຳການຄົ້ນຫາ">
 <!ENTITY firstrun_bookmarks_title "ປະຫວັດການໃຊ້ງານ">
-
+<!ENTITY firstrun_bookmarks_message "ສິງທີ່ທ່ານມັກ, ທາງຫນ້າ ແລະ ສູນກາງ">
 <!ENTITY firstrun_bookmarks_subtext "ໄດ້ຜົນລັບຈາກບຸກມາກ ແລະ ປະຫວັດການໃຊ້ງານຂອງທ່ານເມື່ອທ່ານຄົ້ນຫາ.">
 <!ENTITY firstrun_data_title "ຂໍ້ມູນ">
 <!ENTITY firstrun_data_message "ຂໍ້ມູນນ້ອຍລົງ, ສາມາດບັນທຶກຂໍ້ມູນໄດ້ຫລາຍຂື້ນ">
@@ -538,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "ແທັບຂອງທ່ານມື້ກີ້ນີ້ໄດ້ສະແດງຂື້ນຢູ່ນີ້.">
 <!ENTITY home_open_all "ເປີດທັງຫມົດ">
 <!ENTITY home_most_recent_empty "ເວັບໄຊຕ໌ທີ່ທ່ານຫາກໍ່ເຂົ້າໄປເບິງມື້ກີ້ນີ້ສະແດງຂື້ນຢູ່ທີ່ນີ້.">
-
+<!ENTITY home_selected_empty "ເວັບໄຊຕ໌ທີ່່ທານໄດ້ເຂົ້າໄປເບິງໃນຊ່ວງເວລາທີ່ທ່ານໄດ້ເລືອກໄວ້ໄດ້ສະແດງຂື້ນຢູ່ທີນີ້.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: ນຳໃຊ້ &formatS1; ແທັບສ່ວນຕົວໃຫມ່ &formatS2; ຈະບໍ່ບັນທຶກປະຫວັດການໃຊ້ງານຂອງທ່ານ.">
@@ -750,7 +750,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "Add-ons">
-
+<!ENTITY restrictable_feature_addons_installation_description "ເພີ່ມຄຸນສົມບັດ ຫຼື ຟັງຊັນການເຮັດວຽກໃຫ້ກັບ Firefox. ຫມາຍເຫດ: Add-ons ທີມີຢູ່ອາດຈະຖືກປິດໃຊ້ງານເນື່ອງຈາກມີຂໍ້ຈໍາກັດສະເພາະໃດຫນຶ່ງ.">
 <!ENTITY restrictable_feature_private_browsing "ການທ່ອງເວັບແບບສ່ວນຕົວ">
 <!ENTITY restrictable_feature_private_browsing_description "ອະນຸຍາດໃຫ້ສະມາຊິກພາຍໃນຄອບຄົວສາມາດເຂົ້າທ່ອງເວັບໄດ້ໂດຍປາສະຈາກການບັນທຶກຂໍ້ມູນກ່ຽວກັບເວັບໄຊຕ໌ ແລະ ຫນ້າເວັບທີ່ພວກເຂົາເຂົ້າໄປເບິງ.">
 <!ENTITY restrictable_feature_clear_history "ລຶບປະຫວັດການໃຊ້ງານ">
@@ -758,7 +758,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "ການຕັ້ງຄ່າຂັ້ນສູງ">
 <!ENTITY restrictable_feature_advanced_settings_description "ນີ້ປະກອບໄປດ້ວຍການນຳເຂົ້າບຸກມາກ, ການກູ້ຄືນແທັບ ແລະ ການອັບເດດແບບອັດຕະໂນມັດ. ປິດເພື່ອເຮັດໃຫ້ການຕັ້ງຄ່າງ່າຍດາຍ ແລະ ເຫມາະສົມສຳລັບສະມາຊິກໃນຄອບຄົວທຸກຄົນ.">
 <!ENTITY restrictable_feature_camera_microphone "ກ້ອງຖ່າຍ ແລະ ໄມໂຄຣໂຟນ">
-
+<!ENTITY restrictable_feature_camera_microphone_description "ອະນຸຍາດໃຫ້ສະມາຊິກໃນຄອບຄົວມີສ່ວນຮ່ວມໃນການສື່ສານແບບ real time ໃນເວັບໄຊຕ໌.">
 <!ENTITY restrictable_feature_block_list "ລາຍການບັອກ">
 <!ENTITY restrictable_feature_block_list_description "ບລັອກເວັບໄຊຕ໌ທີ່ປະກອບມີເນື້ອຫາທີ່ລະອຽດອ່ອນ.">
 <!-- Default Bookmarks titles-->
@@ -770,11 +770,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "ໄຟຟັອກ: ການສະໜັບສະໜູນ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "ການຊ່ວຍເຫຼືອ ແລະ ສະໜັບສະໜູນຂອງ Firefox ສຳລັບໂປຟາຍທີມີຂໍ້ຈຳກັດຢູ່ໃນ Android tablets">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "ຮຽນຮູ້ກ່ຽວກັບເວັບ: Mozilla Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+
+<!ENTITY unsupported_sdk_version "ຂໍອະໄພ! &brandShortName; ນີ້ຈະບໍ່ເຮັດວຽກຢູ່ໃນອຸປະກອນນີ້ (&formatS1;, &formatS2;). ກະລຸນາໂຫລດໃຫມ່.">
 
 <!ENTITY eol_notification_title "&brandShortName; ບໍ່ໄດ້ຮັບການສະຫນັບສະຫນູນໃນ Android 3 ອີກຕໍ່ໄປ">
 <!ENTITY eol_notification_summary "ແຕະເພື່ອຮຽນຮູ້ເພີ່ມເຕີມ">
