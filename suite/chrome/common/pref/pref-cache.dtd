@@ -18,7 +18,7 @@
 <!ENTITY clearDiskCache.accesskey        "B">
 <!ENTITY chooseDiskCacheFolder.label     "Map kiezen…">
 <!ENTITY chooseDiskCacheFolder.accesskey "M">
-<!ENTITY diskCacheFolderExplanation      "Bufferbestanden worden opgeslagen in een submap met de naam “Cache” in de map die u specificeert. Herstart &brandShortName; om wijzigingen van kracht te laten worden.">
+<!ENTITY diskCacheFolderExplanation      "Bufferbestanden worden opgeslagen in een submap met de naam ‘Cache’ in de map die u specificeert. Herstart &brandShortName; om wijzigingen van kracht te laten worden.">
 <!ENTITY docCache.label                  "De pagina in de buffer vergelijken met de pagina op het netwerk:">
 <!ENTITY docCache.accesskey              "v">
 <!ENTITY checkOncePerSession.label       "Eenmaal per sessie">
