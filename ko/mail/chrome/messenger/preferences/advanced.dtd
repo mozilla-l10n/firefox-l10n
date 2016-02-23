@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label "일반">
+<!ENTITY itemGeneral.label       "일반">
 <!ENTITY dataChoicesTab.label    "데이터 선택">
-<!ENTITY itemUpdate.label "업데이트">
-<!ENTITY itemNetworking.label "네트워크 및 디스크 용량">
-<!ENTITY itemCertificates.label "인증서">
+<!ENTITY itemUpdate.label        "업데이트">
+<!ENTITY itemNetworking.label    "네트워크 및 디스크 용량">
+<!ENTITY itemCertificates.label  "인증서">
 
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "전체 검색 및 색인 사용함">
@@ -15,7 +15,7 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "새 계정에 대한 메시지 저장 타입:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore2.label               "큰 파일 하나 (mbox)">
+<!ENTITY mboxStore2.label              "큰 파일 하나 (mbox)">
 <!ENTITY maildirStore.label            "메시지 당 파일 하나 (maildir)">
 
 <!ENTITY scrolling.label               "스크롤">
@@ -29,8 +29,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "검색 시 &searchIntegration.engineName; 엔진 사용 허가">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkDefaultsNow.label                "지금 확인">
-<!ENTITY checkDefaultsNow.accesskey            "N">
+<!ENTITY checkDefaultsNow.label        "지금 확인">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "고급 설정">
 <!ENTITY configEdit.label              "설정 편집…">
 <!ENTITY configEdit.accesskey          "C">
@@ -64,8 +64,8 @@
 <!ENTITY updateHistory.label             "업데이트 기록 보기">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label	"업데이트 설치를 위해 백그라운드 서비스를 이용">
-<!ENTITY useService.accesskey			"b">
+<!ENTITY useService.label                "업데이트 설치를 위해 백그라운드 서비스를 이용">
+<!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "연결 설정…">
@@ -77,7 +77,7 @@
 <!ENTITY showOffline.label             "오프라인…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "디스크 용량">
+<!ENTITY Diskspace                       "디스크 용량">
 <!ENTITY offlineCompactFolders.label     "지정된 용량 이상 저장할 때 폴더 압축">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB (총)">
@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "OCSP 응답 서버에 이 인증서의 유효성 확인하기">
 <!ENTITY enableOCSP.accesskey            "Q">
 
-<!ENTITY viewCertificates.label         "인증서 보기">
-<!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewSecurityDevices.label      "보안 장치">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY manageCertificates.label "인증서 관리">
+<!ENTITY manageCertificates.accesskey "M">
+<!ENTITY viewSecurityDevices.label "보안 장치">
+<!ENTITY viewSecurityDevices.accesskey "S">
