@@ -4,8 +4,8 @@
 
 <!ENTITY dialog.title                 "Настройки за изпращане">
 <!ENTITY sendMail.title               "Текстов формат">
-
-
+<!ENTITY autoDowngrade.label          "Ако е възможно, писмата да се изпращат като обикновен текст">
+<!ENTITY autoDowngrade.accesskey      "т">
 <!ENTITY sendMaildesc.label           "Когато изпращате писмо в HTML формат и един и повече получатели не могат да получават HTML:">
 <!ENTITY askMe.label                  "Запитване какво действие да се предприеме">
 <!ENTITY askMe.accesskey              "З">

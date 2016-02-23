@@ -22,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "Д">
 <!ENTITY overrideNamespaces.label "Сървърът може да променя тези именни пространства">
 <!ENTITY overrideNamespaces.accesskey "С">
-
-
-
+<!ENTITY pop3DeferringDesc.label "При изтегляне на поща от този сървър да се използва следната папка за съхранение на нови писма:" >
+<!ENTITY accountInbox.label "Пощенска кутия на тази поща">
+<!ENTITY accountInbox.accesskey "з">
 <!ENTITY deferToServer.label "Пощенска кутия на друга поща">
 <!ENTITY deferToServer.accesskey "у">
 <!ENTITY deferGetNewMail.label "Включително и този сървър при получаване на нова поща">
