@@ -149,6 +149,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Sempre">
 <!ENTITY pref_tap_to_load_images_data "Solo con Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blocca">
+<!ENTITY pref_show_web_fonts "Visualizza web font">
 <!ENTITY pref_tracking_protection_title "Protezione antitracciamento">
 <!ENTITY pref_tracking_protection_summary3 "Attiva in modalità Navigazione anonima">
 <!ENTITY pref_donottrack_title "Antitracciamento">
