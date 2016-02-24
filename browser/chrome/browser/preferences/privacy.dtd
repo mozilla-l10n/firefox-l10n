@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader.label       "मागोवा सुरक्षा वापरा">
-
-
+<!ENTITY  trackingProtectionAlways.label       "नेहमी">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "फक्त वैयक्तिक पटलामध्ये">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "कधीच नाही">
