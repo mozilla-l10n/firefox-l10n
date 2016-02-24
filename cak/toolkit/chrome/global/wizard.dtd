@@ -17,5 +17,5 @@
 
 <!ENTITY  button-next-win.label        "Jun chik &gt;">
 <!ENTITY  button-next-win.accesskey    "J">
-
-
+<!ENTITY  button-finish-win.label      "Tik'is">
+<!ENTITY  button-cancel-win.label      "Tiq'at">

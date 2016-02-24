@@ -6,6 +6,7 @@
 
 
 
+<!ENTITY aboutTelemetry.uploadDisabled "  Ri rutaqik rutzij ri FHR <span>chupun</span>.">
 
 
 
@@ -17,7 +18,9 @@
 
 
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; K'ak'a' chi ping">
 
+<!ENTITY aboutTelemetry.showOlderPing "Ojer chi ping &gt;&gt;">
 
 
 
