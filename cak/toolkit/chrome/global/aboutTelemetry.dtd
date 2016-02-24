@@ -10,9 +10,12 @@
 
 
 
+<!ENTITY aboutTelemetry.pingDataSource "Kixe'el ri taq rutzij ping:">
 
 
+<!ENTITY aboutTelemetry.showArchivedPingData "Yakon taq rutzij ri ping">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Tik'ut pe rutzij ping:">
 
 
 
@@ -23,10 +26,12 @@
 <!ENTITY aboutTelemetry.showOlderPing "Ojer chi ping &gt;&gt;">
 
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Wuqq'ij">
 
 
 <!ENTITY aboutTelemetry.generalDataSection "Chijun taq Tzij">
 
+<!ENTITY aboutTelemetry.environmentDataSection " Ruk'ojlib'al tzij">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Etataqonel tokisäx">
 
@@ -46,6 +51,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Yaloj taq tz'ib'anïk">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "Etamab'äl pa ruwi' molojri'ïl">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Molon taq tem k'ulwäch  ruma taq tz'aqat">
 
@@ -61,3 +67,4 @@
 
 <!ENTITY aboutTelemetry.filterText "  Tichayüx (taq cholaj o /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Rupam">

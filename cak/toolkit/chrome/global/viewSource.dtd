@@ -33,11 +33,14 @@ textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY textEnlarge.commandkey3 "">
-<!ENTITY textReduce.commandkey "-">
-<!ENTITY textReduce.commandkey2 "">
 
-<!ENTITY textReset.commandkey2 "">
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "Kaqchikel">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "Kaqchikel">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "kaqchikel">
 
 
 
@@ -65,17 +68,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.commandkey "p">
 <!ENTITY findAgainCmd.label  "Rukamuluxik ri rukanoxik">
 <!ENTITY findAgainCmd.accesskey "k">
-
-
-
+<!ENTITY findAgainCmd.commandkey "w">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "Chi rij">
 <!ENTITY backCmd.accesskey "C">
 <!ENTITY forwardCmd.label "Jun chik">
 <!ENTITY forwardCmd.accesskey "J">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
-
-
-
+<!ENTITY copyLinkCmd.label "Tiwachib'ëx rochochib'äl ximonel tzij">
+<!ENTITY copyLinkCmd.accesskey "x">
 <!ENTITY copyEmailCmd.label "Ruwachib'exik rub'ey taqoya'l">
 <!ENTITY copyEmailCmd.accesskey "b">

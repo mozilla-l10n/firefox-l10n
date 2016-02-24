@@ -60,6 +60,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Rutzuwach k'ïy tajin">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Ütz rub'anikil">
 
 <!ENTITY aboutSupport.showDir.label "Tijaq ri cholb'äl">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
