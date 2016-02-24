@@ -5,6 +5,6 @@
 <!ENTITY aboutDebugging.title                      "about:debugging">
 <!ENTITY aboutDebugging.addons                     "အတ်အွန်များ">
 <!ENTITY aboutDebugging.addonDebugging.label       "အတ်အွန် အမှားရှာခြင်းကို ဖွင့်ရန်">
-
-
+<!ENTITY aboutDebugging.addonDebugging.tooltip     "ဒီဟာကို ဖွင့်ခြင်းသည် အတ်အွန်များနှင့် ဘရောင်ဇာခရုမ်း၏ အခြားအစိတ်အပိုင်းများကို အမှားစစ်နိုင်သည်">
+<!ENTITY aboutDebugging.loadTemporaryAddon         "ယာယီအတ်အွန်ကို လုပ်ဆောင်စေပါ">
 <!ENTITY aboutDebugging.workers                    "Workers">

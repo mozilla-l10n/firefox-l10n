@@ -184,5 +184,5 @@ functionality specific to firefox. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Advanced info: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "အဆင့်မြင့်">
-
-
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>သည် အိုဟောင်းပြီး ခုခံမှုအားနည်းသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟု ထင်ရသည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်သည်။">
+<!ENTITY weakCryptoAdvanced.override "(မလုံခြုံပါ) အိုဟောင်းနေသည့် လုံခြုံရေးနည်းပညာအသုံးပြုထားသော <span class='hostname'></span>ကို ခေါ်ယူကြည့်ပါ">
