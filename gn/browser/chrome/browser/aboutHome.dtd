@@ -14,11 +14,11 @@
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Aguyje reiporavóre Aguaratata. Reipuruporãve hag̃ua kundahára, eikuaave <a>mba'epyahu hesegua</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Aguyje reiporavóre Firefox. Reipuruporãve hag̃ua kundahára, eikuaave <a>mba'epyahu hesegua</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Ndahasyiete reñemomba'e Aguaratatáre reipotaháichaite. <a>Eiporavo heta moĩmbaha apytégui</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Ndahasyiete reñemomba'e Firefox rehe reipotaháichaite. <a>Eiporavo heta moĩmbaha apytégui</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; niko software isãsóva ha ijayvujurujáva Fundación Mozilla mba'éva. <a>Eikuaáke ne mba'engatu…</a>">
 

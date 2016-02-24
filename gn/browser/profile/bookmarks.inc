@@ -28,7 +28,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/central/
 
 
-#define getting_started Eñepyrũ eipuru Aguaratata
+#define getting_started Eñepyrũ eipuru Firefox
 
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize Eñemomba'e Aguaratatáre
+#define firefox_customize Eñemomba'e Firefox
 
 
 # LOCALIZATION NOTE (firefox_community):

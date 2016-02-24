@@ -414,7 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Eike Aguaratatápe ne mba'eokakuéra rupive ehecha hag̃ua hendaykekuéra ápe.">
+<!ENTITY appMenuRemoteTabs.noclients.label "Eike Firefox- pe ne mba'eokakuéra rupive ehecha hag̃ua hendaykekuéra ápe.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Jerohoryvéva Mbojuehe">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Eike ehecha tendayke rysýi ambue mba'e'okapeguáva.">
 <!ENTITY appMenuRemoteTabs.signin.label "Eike Sync-pe">
