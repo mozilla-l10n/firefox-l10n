@@ -528,7 +528,6 @@
 <!ENTITY spellAddDictionaries.label "Aggiungi dizionari…">
 <!ENTITY spellAddDictionaries.accesskey "z">
 <!ENTITY editBookmark.done.label "Fatto">
-<!ENTITY editBookmark.cancel.label "Annulla">
 <!ENTITY editBookmark.removeBookmark.accessKey "s">
 <!ENTITY identity.connectionSecure "Connessione sicura">
 <!ENTITY identity.connectionNotSecure "Connessione non sicura">
