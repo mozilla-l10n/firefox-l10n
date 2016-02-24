@@ -9,7 +9,9 @@
 
 <!ENTITY aboutTelemetry.uploadDisabled "  Ri rutaqik rutzij ri FHR <span>chupun</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Ri rik'ïl rutz'ib'axik Telemetry wakami <span> tzijïl</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Ri rik'ïl rutz'ib'axik Telemetry wakami <span> chupül</span>.">
 
 <!ENTITY aboutTelemetry.pingDataSource "Kixe'el ri taq rutzij ping:">
 
@@ -25,6 +27,7 @@
 
 <!ENTITY aboutTelemetry.showSubsessionData "Kek'ut pe taq rutzij rachmolojri'ïl">
 
+<!ENTITY aboutTelemetry.choosePing "Ticha' ping:">
 
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; K'ak'a' chi ping">
 
@@ -34,6 +37,7 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Wuqq'ij">
 
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
 <!ENTITY aboutTelemetry.generalDataSection "Chijun taq Tzij">
 

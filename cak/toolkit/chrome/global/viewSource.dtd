@@ -42,7 +42,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "kaqchikel">
 
-
+<!ENTITY goToLineCmd.label "B'enam pa ri cholaj…">
+<!ENTITY goToLineCmd.accesskey "B">
 
 
 <!ENTITY viewMenu.label           "Tz'etoj">
