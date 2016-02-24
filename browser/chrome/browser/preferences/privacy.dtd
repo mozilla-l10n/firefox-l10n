@@ -13,7 +13,7 @@
 <!ENTITY  trackingProtectionExceptions.label   "Exceções…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!ENTITY tracking.label                 "Antirrastreamento">
+<!ENTITY tracking.label                 "Rastreamento">
 <!ENTITY trackingProtectionPBM5.label         "Usar proteção contra rastreamento em janelas privativas">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saiba mais">
