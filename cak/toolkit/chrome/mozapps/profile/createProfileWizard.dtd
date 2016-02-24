@@ -17,8 +17,8 @@
 <!ENTITY profileCreationIntro.text      "We ye'anük' k'ïy taq ruwäch b'i'aj, yatikïr naya' ketal ruma ri kib'i'. Yatikïr natz'ib'aj rub'i' achi'el re' chuqa' natz'ib'aj jun chik.">
 <!ENTITY profilePrompt.label            "Tatz'ib'aj rub'i' ri k'ak'a' ruwäch b'i'aj:">
 <!ENTITY profilePrompt.accesskey        "T">
-
-
+<!ENTITY profileDirectoryExplanation.text   "Ri anuk'ulem winäq, taq ajowab'äl chuqa' ch'aqa' chik taq tzij pa ruwi' ri winäq xkeyak pa:">
+<!ENTITY profileDefaultName             "Winäq ri kan k'o wi">
 <!ENTITY button.choosefolder.label      "Ticha' yakwuj…">
 <!ENTITY button.choosefolder.accesskey  "T">
 <!ENTITY button.usedefault.label        "Tokisäx ri yakwuj kan k'o wi">
