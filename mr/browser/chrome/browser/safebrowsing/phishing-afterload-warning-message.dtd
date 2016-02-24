@@ -5,7 +5,7 @@
 <!ENTITY safeb.palm.accept.label "मला येथुन बाहेर काढा!">
 <!ENTITY safeb.palm.decline.label "ह्या सावधानतेस दुर्लक्ष करा">
 <!ENTITY safeb.palm.notforgery.label2 "हे वेब बनावटीपण नाही…">
-
+<!ENTITY safeb.palm.reportPage.label "हे पृष्ठ का रोखले गेले?">
 <!ENTITY safeb.palm.whyForbidden.label "हे पान का अडवले गेले?">
 
 <!ENTITY safeb.blocked.malwarePage.title "प्रहार पृष्ठ कळवले गेले!">
