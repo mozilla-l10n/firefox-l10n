@@ -22,7 +22,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Ruyonil nutäq rutzijol ri rusamaj, rumolik samajib'äl, rokisaxik chuqa' taq winaqirem pa &vendorShortName; richin nito'on pa ruwi' ri &brandShortName; richin nutzïr. ">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "Titaq pa ruyonil ri rutzijol chi rij rusamaj, ruch'akulal kematz'ib', rokisaxik chuqa' ruchojmirisaxik pa &vendorShortName; richin rutzil ri &amp;vendorShortName.  ">
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName; ">
 <!ENTITY community.exp.middle       " jun  ">
