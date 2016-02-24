@@ -88,7 +88,7 @@
 <!ENTITY permAllowSession "Povolit pro relaci">
 <!ENTITY permBlock "Blokovat">
 <!ENTITY permissionsFor "Oprávnění pro server:">
-<!ENTITY permImage "Nahrávat obrázky">
+<!ENTITY permImage "Načítat obrázky">
 <!ENTITY permPopup "Otevírat vyskakovací okna">
 <!ENTITY permNotifications     "Zobrazovat upozornění">
 <!ENTITY permCookie "Ukládat cookies">
