@@ -83,9 +83,12 @@
 <!ENTITY phishingBlocked.longDesc "<p>Emoingéramo nemaranduete ko kuatiaroguépe ikatu ome'ẽ juruja ambuépe omyengoviávo nde reratee térã ambue mba'evai.</p> 
 <p>Ko'ãichagua mba'evai ñanduti pegua ojepuru ojejapo hag̃ua phishing (teratee myengovia) ojepuruhápe ñanduti kuatiarogue ha ñe'ẽmondo ñantutiveve imarãva rupi oha'ãnga hag̃ua teñoiha rejeroviaha.</p>">
 
+<!ENTITY forbiddenBlocked.title "Tenda Oñembotovepyre">
 
 
-
+<!ENTITY securityOverride.linkText "Térã ikatu embojoapy oĩ'ỹva…">
+<!ENTITY securityOverride.warningContent "<p>Ani embojoapy peteĩ oĩ'ỹva eipurúramo ñanduti ejeroviaguasu'ỹha térã ndereipokuaáiramo ehecha peteĩ jesarekorã ko mohendahavusu rehegua.</p> 
+<p>Embojoapyséramo gueteri pe oĩ'ỹva ko tendápe g̃uarã, ikatu ejapo iñemboheko opátamava ipapapývape.</p>">
 
 <!ENTITY cspBlocked.title "Ojejoko tetepy rekorosãrã purureko rupi">
 <!ENTITY cspBlocked.longDesc "<p>Pe kundaha ojoko ko kuatiaroguégui oñemyenyhẽvo kóicha kuatiarogue oguereko rupi peteĩ tapereko jeroviaha tetepy rehegua nomoneĩriva.</p>">

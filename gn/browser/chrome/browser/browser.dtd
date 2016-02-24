@@ -406,6 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Ta'ãngarupa yke rembiasakue jehecha">
 <!ENTITY appMenuHelp.tooltip "Poravorã ñepytyvõme jeike">
 
+<!ENTITY appMenuRemoteTabs.label "Tendayke Oñembojuehepyre">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
