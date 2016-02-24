@@ -11,11 +11,11 @@
 -->
 <!ENTITY imageDetails "Upřesněte, jak má &brandShortName; zacházet s obrázky na stránce.">
 
-<!ENTITY loadAllImagesRadio.label "Nahrávat všechny obrázky">
+<!ENTITY loadAllImagesRadio.label "Načítat všechny obrázky">
 <!ENTITY loadAllImagesRadio.accesskey "h">
-<!ENTITY loadOrgImagesRadio.label "Nahrávat pouze obrázky pocházející ze stejného serveru">
+<!ENTITY loadOrgImagesRadio.label "Načítat pouze obrázky pocházející ze stejného serveru">
 <!ENTITY loadOrgImagesRadio.accesskey "a">
-<!ENTITY loadNoImagesRadio.label "Nenahrávat žádné obrázky">
+<!ENTITY loadNoImagesRadio.label "Nenačítat žádné obrázky">
 <!ENTITY loadNoImagesRadio.accesskey "N">
 <!ENTITY viewPermissions.label "Spravovat oprávnění">
 <!ENTITY viewPermissions.accesskey "S">
