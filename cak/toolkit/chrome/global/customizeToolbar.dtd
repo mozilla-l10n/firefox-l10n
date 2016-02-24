@@ -13,4 +13,4 @@
 <!ENTITY restoreDefaultSet.label  "Ke'atzolij retal kib'eyal">
 <!ENTITY addNewToolbar.label      "K'ak'a' kajtz'ik">
 <!ENTITY saveChanges.label        "Ruk'isik">
-
+<!ENTITY undoChanges.label        "Ketzolïx ri taq jaloj">

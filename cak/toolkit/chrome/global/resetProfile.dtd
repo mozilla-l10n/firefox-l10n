@@ -9,6 +9,7 @@
 <!ENTITY refreshProfile.dialog.items.label2  "Titikirisäx chik ri runuk'ulem awokik'amaya'l rik'in ri taq rub'anikil ruk'amon wi pe">
 <!ENTITY refreshProfile.dialog.button.label  "Titzolïx &brandShortName;">
 
+<!ENTITY refreshProfile.title                "Tiya' jun rukamuluxik chi re &brandShortName;">
 <!ENTITY refreshProfile.button.label         "Titzolïx &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Jub'a' chik nrajo'…">
