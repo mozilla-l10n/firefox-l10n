@@ -10,7 +10,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-
+<!ENTITY mainWindow.preface "Ruxe'el ruk'u'x rutzij ri:">
 
 <!ENTITY fileMenu.label "Yakb'äl">
 <!ENTITY fileMenu.accesskey "Y">
@@ -56,8 +56,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY menu_textEnlarge.label "Tinimirisäx">
+<!ENTITY menu_textEnlarge.accesskey "T">
 <!ENTITY menu_textReduce.label "Tich'utinirisäx">
 <!ENTITY menu_textReduce.accesskey "T">
 <!ENTITY menu_textReset.label "Kan ke ri'">

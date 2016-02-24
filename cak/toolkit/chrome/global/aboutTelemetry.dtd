@@ -13,19 +13,24 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Kixe'el ri taq rutzij ping:">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "Taq rutzij wakami ri ping">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Yakon taq rutzij ri ping">
 
 <!ENTITY aboutTelemetry.pingDataDisplay "Tik'ut pe rutzij ping:">
 
+<!ENTITY aboutTelemetry.structured "Ch'akulan">
 
+<!ENTITY aboutTelemetry.raw "Man samajin ta JSON">
 
+<!ENTITY aboutTelemetry.showSubsessionData "Kek'ut pe taq rutzij rachmolojri'ïl">
 
 
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; K'ak'a' chi ping">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ojer chi ping &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Man esamajin ta taq rutzij ri ping…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Wuqq'ij">
 

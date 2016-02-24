@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "Rere' yalan soltojtob'enel. Man tokisäx we man tajin achib'ilan jun nimawinäq richin nitz'eton apo.">
 <!ENTITY aboutNetworking.showNextTime          "Junelïk tik'ut pe re jun retal k'ayewal re'.">
 <!ENTITY aboutNetworking.ok                    "Ütz">
-
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Pluyin">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
@@ -29,7 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "Taq rutzijol ek'ulun">
 <!ENTITY aboutNetworking.bytesSent             "Taq wayt etaqon">
 <!ENTITY aboutNetworking.bytesReceived         "Taq wayt ek'ulun">
-
-
-
-
+<!ENTITY aboutNetworking.dnsLookup             "Rukanoxik DNS">
+<!ENTITY aboutNetworking.dnsLookupButton       "Tisol">
+<!ENTITY aboutNetworking.dnsDomain             "Ruk'ojlem b'ey">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
