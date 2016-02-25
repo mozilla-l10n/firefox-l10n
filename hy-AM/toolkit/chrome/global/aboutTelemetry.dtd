@@ -21,7 +21,9 @@
 <!ENTITY aboutTelemetry.showArchivedPingData "Արխիվացված փինգի տվյալ">
 
 
+<!ENTITY aboutTelemetry.structured "Կառուցված">
 
+<!ENTITY aboutTelemetry.raw "JSON տող">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Ցուցադրել տվյալի ենթաշրջանը">
 
@@ -58,6 +60,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Հետագա գրումներ">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "      Տեղեկություն աշխատաշրջանի մասին">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Հավելումների կողմից հավաքած գծապատկերներ">
 
