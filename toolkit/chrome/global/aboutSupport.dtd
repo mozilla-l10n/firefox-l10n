@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Գրանցված Service Workers">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Պրոֆիլներ">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Բազմաընթացքային պատուհաններ">
 
