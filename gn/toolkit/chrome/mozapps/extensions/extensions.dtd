@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Heta pukukue ndaikatúi kuri ojehechajey">
 <!ENTITY showAllExtensions.button.label       "Embogue">
-
-
+<!ENTITY debugAddons.label                    "Emopotĩ Moĩmbahakuéra">
+<!ENTITY debugAddons.accesskey                "p">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Opaite umi moimbaha oñemboguepáma teko jerovia rupi.">

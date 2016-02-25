@@ -142,7 +142,7 @@ nemohendaha ñanduti peguápe.</li>
 <p>Ko'ãichagua ñanduti vai ojepuru ojaho'i hag̃ua phishing (téra rekovia), kuatiarogue ha ñanduti veve ivaíva ojepuru oha'ãnga hag̃ua umi mba'e nde rejeroviaha.</p>">
 
 <!ENTITY forbiddenBlocked.title "Tenda Oñembotovepyre">
-
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; ojoko ko Togue, ani hag̃ua oñemyenyhẽ, ojejerureháicha mboheko rendápe.</p>">
 
 <!ENTITY cspBlocked.title "Ojejoko hetepy rekorosãrã purureko rupi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ndohejái ko kuatiaroguépe oñemyañyhẽvo kóicha pe kuatiarogue oguereko rupi tetepy rekorosãrã purureko nomoneĩrĩva.</p>">
@@ -165,6 +165,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "Emomarandu koichagua jejavy eipytyvõ hag̃ua Mozilla-pe ojuhúvo ha ojokóvo tenda mba'evai aposéva">
 <!ENTITY errorReporting.learnMore "Kuaave…">
 <!ENTITY errorReporting.sending "Marandu ñemondo">
 <!ENTITY errorReporting.sent "Marandu mondopyre">
@@ -176,10 +177,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Ndaikatúi eikekatu">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Marandu opapotaitéva: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "Nde jeike ndahekokatúi">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "Marandu opapotaitéva: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Opanungáva">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> oipuru tembipuru pyahu tekorosãrã ituja ha ikangýmava mba'evai renondépe. Pe mba'evai ikatu ohechauka marandu nde eréva hekorosãha.">
 <!ENTITY weakCryptoAdvanced.override "(Jeroviaha'ỹva) Eñeha'ã emyenyhẽ <span class='hostname'></span> eipurukuévo tekorosãrã ndoikovéimava">

@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Ehechajey eñongatusépa neñe'ẽñemi">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Emohenda tembipuru'i marandu rehegua">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Eñangareko mboguejyrã'i jepuru ko kuatiaroguépe">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Nde eipuruhína neta'ãngamýi ha / térã neñe'ẽataha ko tenda ndive">
@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Poravorã ñepytyvõme jeike">
 
 <!ENTITY appMenuRemoteTabs.label "Tendayke Oñembojuehepyre">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Egueru Tendayke Oñembojuehepyre...">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ndaipóri tendayke jepe'áva">
@@ -749,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ko kuatiarogue oñeñongatu mohendahápe.">
 <!ENTITY identity.connectionVerified1 "Eikekatu ko tendápe, poguýpe:">
 <!ENTITY identity.connectionInternal "Kóva &brandShortName; jeroviáva; kuatiarogue.">
-
+<!ENTITY identity.insecureLoginForms2 "Ojehaiva'ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.">
