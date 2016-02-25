@@ -854,8 +854,8 @@
 <!ENTITY SendMessageTo.accesskey "ة">
 <!ENTITY CopyEmailAddress.label "انسخ عنوان البريد">
 <!ENTITY CopyEmailAddress.accesskey "ع">
-
-
+<!ENTITY CopyNameAndEmailAddress.label "انسخ الاسم و عنوان البريد الإلكتروني">
+<!ENTITY CopyNameAndEmailAddress.accesskey "س">
 <!ENTITY CopyNewsgroupName.label "انسخ اسم مجموعة الأخبار">
 <!ENTITY CopyNewsgroupName.accesskey "ن">
 <!ENTITY CopyNewsgroupURL.label "انسخ رابط مجموعة الأخبار">
