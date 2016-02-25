@@ -16,7 +16,7 @@
 <!ENTITY undoCmd.accesskey          "r">
 <!ENTITY redoCmd.label            "Təkrarla">
 <!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "k">
+<!ENTITY redoCmd.accesskey          "r">
 <!ENTITY cutCmd.label            "Kəs">
 <!ENTITY cutCmd.key              "X">
 <!ENTITY cutCmd.accesskey          "K">
