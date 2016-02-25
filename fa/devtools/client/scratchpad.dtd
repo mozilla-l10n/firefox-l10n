@@ -64,7 +64,8 @@
 <!ENTITY smallerFont.accesskey        "ک">
 <!ENTITY smallerFont.commandkey       "-">
 
-
+<!ENTITY normalSize.label             "اندازه عادی">
+<!ENTITY normalSize.accesskey         "ا">
 <!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "ویرایش">
