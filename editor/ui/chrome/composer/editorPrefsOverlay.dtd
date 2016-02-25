@@ -5,8 +5,8 @@
 
 
 <!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "c">
 
-
-
-
+<!ENTITY editing.label "Yeni Səhifə Tənzimləmələri">
+<!ENTITY toolbars.label "Alət Sətirləri">
 
