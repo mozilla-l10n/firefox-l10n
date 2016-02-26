@@ -21,6 +21,7 @@
 <!ENTITY generic.title "Man xtikïr ta xutz'aqatisaj ri k'utunïk">
 <!ENTITY generic.longDesc "<p>Majun na'oj k'o chi rij re k'ayewal o sachoj re'.</p>">
 
+<!ENTITY malformedURI.title "Man oke ta ri ochochib'äl">
 
 
 <!ENTITY netInterrupt.title "Xq'at ri kiq'axik taq tzij">
@@ -47,7 +48,8 @@
 
 
 
-
+<!ENTITY proxyResolveFailure.title "Man xilitäj ta ri proxi ruk'u'x samaj">
+<!ENTITY proxyResolveFailure.longDesc "<p>Nuk'un ri okik'amaya'l richin nrokisaj jun proxi ruk'u'x samaj, xa xe chi man xilitäj ta ri proxi ruk'u'x samaj.</p><ul><li>¿La ütz ri runuk'ulem ruproxi okik'amaya'l? Tanik'oj runuk'ulem k'a ri' tatojtob'ej chik.</li><li>¿La okinäq pa jun tzijïl k'amab'ey ri kematz'ib'?</li><li>¿La k'a e k'o ruk'ayewal? Tak'ulb'ej rik'in ri runuk'samajel k'amab'ey o ya'öl k'amaya'l richin samajel taq ato'ik.</li></ul>">
 
 
 

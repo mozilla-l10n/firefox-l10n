@@ -6,7 +6,7 @@
 
 <!ENTITY findOnCmd.commandkey           "F">
 <!ENTITY findAgainCmd.commandkey        "G">
-
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "Chi rij">
 <!ENTITY backButton.accesskey           "C">
@@ -18,24 +18,27 @@
 <!ENTITY copyCmd.accesskey              "c">
 <!ENTITY selectAllCmd.label             "Rucha'ik ronojel">
 <!ENTITY selectAllCmd.accesskey         "r">
-
-
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Tikirib'äl">
-
+<!ENTITY homeButton.tooltip             "Tib'e pa ri rutikirib'al ruxaq">
 <!ENTITY printButton.label              "Tz'ajixïk">
 <!ENTITY printButton.tooltip            "Rutz'ajb'axik re ruxaq re'">
-
+<!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Rukanoxik">
-
-
-
+<!ENTITY searchHeader.label             "Taq ruq'i'oj pa ri kanoxïk">
+<!ENTITY toctab.label                   "Rupam">
+<!ENTITY toctab.accesskey               "R">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "Kaqchikel">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
@@ -45,7 +48,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-
+<!ENTITY zLevel.label                   "Junelïk pa ruwi'">
+<!ENTITY zLevel.accesskey               "r">
 
 <!ENTITY fullZoomReduceBtn.label        "Ch'utirisaxïk">
 <!ENTITY fullZoomReduceBtn.accesskey    "C">
