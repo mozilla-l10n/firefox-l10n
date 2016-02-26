@@ -10,7 +10,7 @@
 <!ENTITY connectionFailure.title "Xsach toq tajin nok">
 
 
-
+<!ENTITY deniedPortAccess.longDesc "<p>Ri ochochib'äl nik'utüx xuya' retal jun b'ey (achi'el <q>mozilla.org:80</q> richin ri b'ey 80 richin mozilla.org) okisan ok kichin <em>jalajöj</em> okem pa k'amaya'l. Ri okik'amaya'l xuq'ät ri taqowuj ruma ri ato'ik chuqa' achajixïk.</p>">
 
 <!ENTITY dnsNotFound.title "Man xilitäj ta ri ochochib'äl">
 
