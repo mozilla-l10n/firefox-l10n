@@ -61,7 +61,8 @@
 
 <!-- + is above this key on many keyboards -->
 
-
+<!ENTITY smallerFont.label            "Ifonti Encinci">
+<!ENTITY smallerFont.accesskey        "n">
 
 
 
