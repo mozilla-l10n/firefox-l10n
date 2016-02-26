@@ -95,7 +95,7 @@
 <!ENTITY nssFailure2.title "Connessione sicura non riuscita">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>La pagina che si sta tentatando di visualizzare non può essere mostrata in quanto non è possibile verificare l'autenticità dei dati ricevuti.</li>
+  <li>La pagina che si sta tentando di visualizzare non può essere mostrata in quanto non è possibile verificare l'autenticità dei dati ricevuti.</li>
   <li>Contattare i proprietari del sito web per segnalare il problema.</li>
 </ul>
 ">
