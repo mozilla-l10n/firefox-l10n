@@ -1,6 +1,5 @@
 allegro-pl
 google
-merlin-pl
 pwn-pl
 wikipedia-pl
 wolnelektury-pl
