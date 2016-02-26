@@ -58,8 +58,8 @@
 <!ENTITY certmgr.export.accesskey             "p">
 
 
-
-
+<!ENTITY certmgr.delete_builtin.label         "Cima okanye Ungathembi…">
+<!ENTITY certmgr.delete_builtin.accesskey     "C">
 <!ENTITY certmgr.backup2.label                "Eyogcino…">
 <!ENTITY certmgr.backup2.accesskey            "E">
 <!ENTITY certmgr.backupall2.label             "Gcina Iikopi Zako Konke…">

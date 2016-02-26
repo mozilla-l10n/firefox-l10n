@@ -72,7 +72,8 @@
 
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-
+<!ENTITY copyURLCmd.label     "Kopa Indawo Yelinki">
+<!ENTITY copyURLCmd.accesskey "n">
 
 <!ENTITY findCmd.key          "F">
 
