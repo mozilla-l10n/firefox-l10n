@@ -21,6 +21,7 @@
 <!ENTITY toolboxToggleMinimize.key "U">
 <!ENTITY toolboxToggle.key "d">
 <!ENTITY toolboxFramesTooltip "Seleccione un iframe como documento de destino actual">
+<!ENTITY toolboxNoAutoHideTooltip "Desactivar ocultación automática del mensaje emergente">
 <!ENTITY browserToolboxErrorMessage "Error al abrir la caja de herramientas del navegador:">
 <!ENTITY options.context.advancedSettings "Ajustes avanzados">
 <!ENTITY options.context.inspector "Inspector">
