@@ -499,7 +499,7 @@
 <!ENTITY replyAllButton.label "Elk beantwurdzje">
 <!ENTITY replyListButton.label "List beantwurdzje">
 <!ENTITY forwardButton.label "Trochstjoere">
-<!ENTITY fileButton.label "Bewarje">
+<!ENTITY fileButton.label "Ferpleatse">
 <!ENTITY archiveButton.label "Argivearje">
 <!ENTITY nextButton.label "Folgjende">
 <!ENTITY nextButtonToolbarItem.label "Folgjende net lêzen">
@@ -540,9 +540,9 @@
 <!ENTITY replyAllButton.tooltip "Ofstjoerder en alle adressearden beantwurdzje">
 <!ENTITY replyListButton.tooltip "Mailinglist beantwurdzje">
 <!ENTITY forwardButton.tooltip "Selektearre berjocht trochstjoere">
-<!ENTITY forwardAsInline.tooltip "Selektearre berjocht trochstjoer yn berjochttekst">
-<!ENTITY forwardAsAttachment.tooltip "Selektearre berjocht trochstjoer as in bylage">
-<!ENTITY fileButton.tooltip "Selektearre berjocht bewarje">
+<!ENTITY forwardAsInline.tooltip "Selektearre berjocht trochstjoere yn berjochttekst">
+<!ENTITY forwardAsAttachment.tooltip "Selektearre berjocht trochstjoere as in bylage">
+<!ENTITY fileButton.tooltip "Selektearre berjocht ferpleatse">
 <!ENTITY archiveButton.tooltip "Selektearre berjocht argivearje">
 <!ENTITY nextButton.tooltip "Nei it folgjende net-lêzen berjocht gean">
 <!ENTITY nextMsgButton.tooltip "Nei it folgjende berjocht gean">
@@ -567,11 +567,11 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Trochstjoere as bylage">
 
 <!-- Remote Content Button Popup -->
-<!ENTITY remoteContentOptionsAllowForMsg.label "Net-ynbedde ynhâld yn dit berjocht toane">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Eksterne ynhâld yn dit berjocht toane">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "N">
-<!ENTITY editRemoteContentSettings.label "Opsjes om net-ynbedde ynhâld te bewurkjen…">
+<!ENTITY editRemoteContentSettings.label "Opsjes om ekstrne ynhâld te bewurkjen…">
 <!ENTITY editRemoteContentSettings.accesskey "O">
-<!ENTITY editRemoteContentSettingsUnix.label "Foarkarren om net-ynbedde ynhâld te bewurkjen…">
+<!ENTITY editRemoteContentSettingsUnix.label "Foarkarren om eksterne ynhâld te bewurkjen…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "F">
 
 <!-- Phishing Button Popup -->
@@ -619,7 +619,7 @@
 <!ENTITY folderContextCompact.accesskey "K">
 <!ENTITY folderContextEmptyTrash.label "Jiskefet leegje">
 <!ENTITY folderContextEmptyTrash.accesskey "J">
-<!ENTITY folderContextEmptyJunk.label "Net-winske berjochtemap leegje">
+<!ENTITY folderContextEmptyJunk.label "Map Net-winske leechmeitsje">
 <!ENTITY folderContextEmptyJunk.accesskey "t">
 <!ENTITY folderContextSendUnsentMessages.label "Net-ferstjoerde berjochten ferstjoere">
 <!ENTITY folderContextSendUnsentMessages.accesskey "N">

@@ -4,7 +4,7 @@
 
 <!ENTITY securityTitle.label "Befeiliging">
 <!ENTITY securityTab.label "Befeiliging">
-<!ENTITY securityHeading.label "Om ûndertekene of fersifere berjochten te ferstjoeren moatte jo in digitale ûndertekening en in fersiferingssertifikaat spesifisearje.">
+<!ENTITY securityHeading.label "Om ûndertekene of fersifere berjochten te ferstjoeren, moatte jo in digitale ûndertekening en in fersiferingssertifikaat spesifisearje.">
 <!ENTITY encryptionGroupTitle.label "Fersifering">
 <!ENTITY encryptionChoiceLabel.label "Standert fersiferingsynstelling by ferstjoeren fan berjochten:">
 <!ENTITY neverEncrypt.label "Noait (gjin fersifering brûke)">
@@ -25,8 +25,8 @@
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Dit sertifikaat brûke om berjochten dy't jo ferstjoere digitaal te ûndertekenjen:">
 
-<!ENTITY certificates.label     "Sertifikaten">
-<!ENTITY manageCerts.label      "Sertifikaten besjen">
-<!ENTITY manageCerts.accesskey  "S">
-<!ENTITY manageDevices.label    "Befeiligingsapparaten">
+<!ENTITY certificates.label      "Sertifikaten">
+<!ENTITY manageCerts2.label      "Sertifikaten beheare">
+<!ENTITY manageCerts2.accesskey  "S">
+<!ENTITY manageDevices.label     "Befeiligingsapparaten">
 <!ENTITY manageDevices.accesskey "B">
