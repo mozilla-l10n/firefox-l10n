@@ -18,7 +18,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> savininkas netinkamai sukonfigūravo savo svetainę.  Kad apsaugotų jūsų duomenis, „&brandShortName;“ prie šios svetainės nesijungė.">
 <!ENTITY certerror.returnToPreviousPage.label "Atgal">
 <!ENTITY certerror.learnMore "Sužinoti daugiau…">
-<!ENTITY certerror.advanced.label "Papildomai">
+<!ENTITY certerror.advanced.label "Išsamiau">
 
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ši svetainė „HTTP 
 Strict Transport Security“ (HSTS) pagalba nurodė, kad „&brandShortName;“ 
