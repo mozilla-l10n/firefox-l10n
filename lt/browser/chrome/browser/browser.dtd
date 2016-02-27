@@ -817,8 +817,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.accesskey "I">
 <!ENTITY social.closeNotificationItem.label "Ne dabar">
 
-<!ENTITY social.directory.label "Aktyvinimų katalogas">
-<!ENTITY social.directory.text "Dalinimosi tarnybas galite aktyvinti iš katalogo.">
+<!ENTITY social.directory.label "Aktyvinimų aplankas">
+<!ENTITY social.directory.text "Dalinimosi tarnybas galite aktyvinti iš aplanko.">
 <!ENTITY social.directory.button "Noriu ten!">
 <!ENTITY social.directory.introText "Spustelėkite ant tarnybos, norėdami ją pridėti į „&brandShortName;“.">
 <!ENTITY social.directory.viewmore.text "Žiūrėti daugiau">
