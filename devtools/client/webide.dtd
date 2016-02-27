@@ -38,7 +38,7 @@
 
 
 
-
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
 
 
@@ -136,7 +136,7 @@
 
 <!-- Device Preferences and Settings -->
 
-
+<!ENTITY device_typestring "Umtya">
 <!ENTITY device_typeobject "Into">
 
 <!-- Device Preferences -->
