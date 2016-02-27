@@ -78,9 +78,9 @@
 <!ENTITY showOffline.accesskey				"S">
 
 <!ENTITY Diskspace 							"Skiifromte">
-<!ENTITY offlineCompactFolders.label     "Mappen komprimearje as it mear besparret as">
-<!ENTITY offlineCompactFolders.accesskey "M">
-<!ENTITY offlineCompactFoldersMB.label   "MB yn totaal">
+<!ENTITY offlineCompactFolders.label        "Mappen komprimearje as it mear besparret as">
+<!ENTITY offlineCompactFolders.accesskey    "M">
+<!ENTITY offlineCompactFoldersMB.label      "MB yn totaal">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "OCSP-responderservers freegje om de aktuele faliditeit fan sertifikaten te befêstigjen">
 <!ENTITY enableOCSP.accesskey            "F">
 
-<!ENTITY viewCertificates.label         	"Sertifikaten besjen">
-<!ENTITY viewCertificates.accesskey     	"S">
+<!ENTITY manageCertificates.label         	"Sertifikaten beheare">
+<!ENTITY manageCertificates.accesskey     	"S">
 <!ENTITY viewSecurityDevices.label      	"Befeiligingsapparaten">
 <!ENTITY viewSecurityDevices.accesskey  	"B">

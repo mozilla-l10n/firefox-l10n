@@ -13,7 +13,7 @@
 <!ENTITY convertPlain.accesskey       "k">
 <!ENTITY sendHTML.label               "Berjocht dochs as HTML ferstjoere">
 <!ENTITY sendHTML.accesskey           "H">
-<!ENTITY sendBoth.label               "Berjocht as platte tekst en HTML ferstjoere">
+<!ENTITY sendBoth.label               "It berjocht as platte tekst en HTML ferstjoere">
 <!ENTITY sendBoth.accesskey           "e">
 <!ENTITY override.label               "Noat: brûk it adresboek om winske tekstopmaak foar ûntfangers te spesifisearjen.">
 
