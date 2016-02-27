@@ -36,6 +36,14 @@ Tämänhetkinen ping-data
 Arkistoitu ping-data
 ">
 
+<!ENTITY aboutTelemetry.structured "
+Strukturoitu
+">
+
+<!ENTITY aboutTelemetry.raw "
+Raaka-JSON
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Näytä ali-istuntodata
 ">
@@ -45,7 +53,7 @@ Valitse ping:
 ">
 
 <!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; uudenmpi ping
+&lt;&lt; uudempi ping
 ">
 
 <!ENTITY aboutTelemetry.showOlderPing "
@@ -104,8 +112,8 @@ Ping
   Myöhästyneet kirjoitukset
 ">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Järjestelmätiedot
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Istunnon tiedot
 ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
