@@ -17,7 +17,6 @@
 <!ENTITY allowWindowMoveResize.label		"ウィンドウの移動または大きさを変更する">
 <!ENTITY allowWindowFlip.label			"ウィンドウのフォーカス (前面か背面か) を切り換える">
 <!ENTITY allowWindowStatusChange.label		"ステータスバーのテキストを変更する">
-<!ENTITY allowWindowImageSrcChange.label	"画像を変更する">
 <!ENTITY allowContextmenuDisable.label		"コンテキストメニューを無効化または変更する">
 <!ENTITY allowHideStatusBar.label		"ステータスバーを隠す">
 
