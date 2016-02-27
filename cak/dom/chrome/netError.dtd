@@ -13,16 +13,16 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Ri ochochib'äl nik'utüx xuya' retal jun b'ey (achi'el <q>mozilla.org:80</q> richin ri b'ey 80 richin mozilla.org) okisan ok kichin <em>jalajöj</em> okem pa k'amaya'l. Ri okik'amaya'l xuq'ät ri taqowuj ruma ri ato'ik chuqa' achajixïk.</p>">
 
 <!ENTITY dnsNotFound.title "Man xilitäj ta ri ochochib'äl">
-
+<!ENTITY dnsNotFound.longDesc "<p>Man xtikïr ta xrïl ri ruk'u'x samaj ri okik'amaya'l richin ri ochochib'äl xya'.</p><ul><li>¿La xsach toq pa rutz'ib'axik ri ruk'ojlem b'ey? (achi'el <q><strong>ww</strong>.mozilla.org</q> pa ruk'exel ri <q><strong>www</strong>.mozilla.org</q>)</li><li>¿La at jikïl chi kan k'o ri ruk'ojlem b'ey ri'? Rik'in jub'a' ri rutz'ib'axik xik'o yan ruq'ijul.</li><li>¿La man tikirel ta nib'an okem pa ch'aqa' chik ruxaq k'amaya'l? Tanik'oj ri okem pa ri k'amab'ey chuqa' ri runuk'ulem ruk'u'x samaj DNS.</li><li>¿La chajin ri akematz'ib' ruma jun proxi o jun firewall? Jun itzel runuk'ulem nitikïr nuq'ät ri okem pa k'amaya'l.</li></ul>">
 
 <!ENTITY fileNotFound.title "Man xilitäj ta ri yakb'äl">
-
+<!ENTITY fileNotFound.longDesc "<ul><li>¿Rik'in jub'a' chi tajin nisik'ïx chik, xyujtäj o xk'ex rub'ey ri ch'akulal?</li><li>¿La k'o jun sachoj pa ruwi' rutz'ib'axik, nimatz'ib' o jun chik chi sachoj toq xtz'ib'äx ri ochochib'äl?</li><li>¿La kiya'on aq'ij richin yatok chupam ri ch'akulal xk'utüx?</li></ul>">
 
 <!ENTITY generic.title "Man xtikïr ta xutz'aqatisaj ri k'utunïk">
 <!ENTITY generic.longDesc "<p>Majun na'oj k'o chi rij re k'ayewal o sachoj re'.</p>">
 
 <!ENTITY malformedURI.title "Man oke ta ri ochochib'äl">
-
+<!ENTITY malformedURI.longDesc "<p>Man etaman ta ruwäch ri rub'anikil ri ochochib'äl xtz'ib'äx. Ke'anik'oj ri taq sachoj pa ri kikajtz'ik ochochib'äl, k'a ri' tatojtob'ej chik.</p>">
 
 <!ENTITY netInterrupt.title "Xq'at ri kiq'axik taq tzij">
 
@@ -51,10 +51,10 @@
 <!ENTITY proxyResolveFailure.title "Man xilitäj ta ri proxi ruk'u'x samaj">
 <!ENTITY proxyResolveFailure.longDesc "<p>Nuk'un ri okik'amaya'l richin nrokisaj jun proxi ruk'u'x samaj, xa xe chi man xilitäj ta ri proxi ruk'u'x samaj.</p><ul><li>¿La ütz ri runuk'ulem ruproxi okik'amaya'l? Tanik'oj runuk'ulem k'a ri' tatojtob'ej chik.</li><li>¿La okinäq pa jun tzijïl k'amab'ey ri kematz'ib'?</li><li>¿La k'a e k'o ruk'ayewal? Tak'ulb'ej rik'in ri runuk'samajel k'amab'ey o ya'öl k'amaya'l richin samajel taq ato'ik.</li></ul>">
 
-
+<!ENTITY redirectLoop.longDesc "<p>Ri okik'amaya'l xtane' tajin nutojtob'ej nuköl ri ch'akulal xk'utüx. Ri ruxaq k'amaya'l tajin nuq'axan chik ri taqowuj, rik'in jun rub'eyal ri man xtik'is ta rutz'aqatisaxik.</p><ul><li>¿La e chupül o eq'aton ri taq kuki yek'atzin chi re' re ruxaq k'amaya'l re'?</li><li><em>CH'UTITZIJOL</em>: Man nusöl ta ri k'ayewal we ye'awajo' ri taq kuki, rik'in jub'a' jun k'ayewal richin runuk'ulem ri ruk'u'x samaj, man k'a ruk'ayewal ta ri akematz'ib'.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Itzel tzolin tzij">
-
+<!ENTITY unknownSocketType.longDesc "<p>Ri okik'amaya'l man nitikïr ta chik nusamajib'ej ri tzolin rutzij ruxaq k'amaya'l.</p>">
 
 <!ENTITY nssFailure2.title "Man xtikïr ta rik'in ri ütz okem">
 <!ENTITY nssFailure2.longDesc2 "<p>Man tikirel ta ninik'öx chi e qitzij ri taq tzij xek'ul, man xtik'ut ta pe ri ruxaq k'amaya'l.</p><ul><li>Katzijon kik'in ri e pa'äl chuwäch ri ruxaq k'amaya'l richin naya' rutzijol chi ke pa ruwi' re k'ayewal re'.</li></ul>">
