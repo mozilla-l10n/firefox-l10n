@@ -32,6 +32,6 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "ಅಪವಾದವನ್ನು ಸೇರಿಸು…">
 <!ENTITY certerror.copyToClipboard.label "ಪಠ್ಯವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ ಪ್ರತಿಮಾಡು">
 
-
-
-
+<!ENTITY errorReporting.sending "ವರದಿಯನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ">
+<!ENTITY errorReporting.sent "ವರದಿ ಕಳಿಸಲಾಗಿದೆ">
+<!ENTITY errorReporting.tryAgain "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸು">
