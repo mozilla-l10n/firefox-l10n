@@ -25,11 +25,12 @@
 <!ENTITY malformedURI.longDesc "<p>Man etaman ta ruwäch ri rub'anikil ri ochochib'äl xtz'ib'äx. Ke'anik'oj ri taq sachoj pa ri kikajtz'ik ochochib'äl, k'a ri' tatojtob'ej chik.</p>">
 
 <!ENTITY netInterrupt.title "Xq'at ri kiq'axik taq tzij">
-
+<!ENTITY netInterrupt.longDesc "<p>Ütz xok pa k'amaya'l ri okik'amaya'l, xa xe chi xq'at ri okem toq tajin niq'axäx ri etamab'äl. Tatojtob'ej chik.</p><ul><li>¿La man yatikïr ta yatok pa ch'aqa' chik taq ruxaq k'amaya'l? Tanik'oj ri rokem ruk'amab'ey ri akematz'ib'.</li><li>¿La k'a nuya' k'ayewal? Tak'ulub'ej ri runuk'unel ak'amab'ey o ri ya'öl k'amaya'l richin nawïl ato'ik richin rusamajixik.</li></ul>">
 
 <!ENTITY notCached.title "Xk'is yan ruq'ijul ri wuj">
 <!ENTITY notCached.longDesc "<p>Ri wuj nik'utüx, man k'o ta pa ri rukache' okik'amaya'l.</p><ul><li>. Richin nichajin, ri okik'amaya'l; man nuk'utuj ta chik pa ruyonil chajin tan wuj, ri k'o taq awetamab'al chupam.</li><li>Tapitz'a' qa Titojtob'ëx chik richin nak'utuj chik el ri ruwujil ruxaq k'amaya'l.</li></ul>">
 
+<!ENTITY netOffline.title "Pa rub'eyal majun okem">
 
 
 <!ENTITY contentEncodingError.title "Sachoj pa ruwi' rucholajil rupam">
@@ -77,7 +78,9 @@
 <!ENTITY forbiddenBlocked.title "Xajan taq ruxaq k'amaya'l">
 <!ENTITY forbiddenBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xsamajib'ëx re ruxaq k'amaya'l re', ruma chi nuk'un richin niq'at.</p>">
 
-
+<!ENTITY securityOverride.linkText "Tikirel chuqa' natz'aqatisaj jun man relik ta…">
+<!ENTITY securityOverride.warningContent "<p>Manta natz'aqatisaj jun man relik ta, we tajin nawokisaj jun okem pa k'amaya'l, ri man kuqul ta ak'u'x rik'in o akuchi' man ruk'ulun ta chawe natz'ët rutzijol k'ayewal pa re ruk'u'x samaj re'.</p>
+<p>We k'a nawajo' natz'aqatisaj jun man relik ta richin re ruxaq k'amaya'l re', yatikïr nab'än pa runuk'ulem q'axinäq man etaman ta</p>">
 
 <!ENTITY cspBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xjaqatäj ri ruxaq k'amaya'l, ruma ri ruxaq k'amaya'l k'o runa'oj pa ruwi' chajinïk, ri man nuya' ta q'ij.</p>">
 
