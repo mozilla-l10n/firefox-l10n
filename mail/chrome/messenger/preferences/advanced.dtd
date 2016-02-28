@@ -65,7 +65,7 @@
 <!ENTITY showOffline.label "Non in linea…">
 <!ENTITY showOffline.accesskey "N">
 <!ENTITY Diskspace "Spazio su disco">
-<!ENTITY offlineCompactFolders.label "Compatta le cartelle se serve a risparmare spazio">
+<!ENTITY offlineCompactFolders.label "Compatta le cartelle se serve a risparmiare spazio">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label "Mb in totale">
 <!ENTITY useCacheBefore.label "Utilizza al massimo">
