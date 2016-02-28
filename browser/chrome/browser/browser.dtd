@@ -114,11 +114,12 @@
 <!ENTITY shareSelect.accesskey "m">
 <!ENTITY shareVideo.label "Compartir este vídeo">
 <!ENTITY shareVideo.accesskey "m">
-<!ENTITY feedsMenu.label "Suscribirse">
+<!ENTITY feedsMenu2.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Añadir pestañas a marcadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
+<!ENTITY recentBookmarks.label "Añadidos recientemente">
 <!ENTITY unsortedBookmarksCmd.label "Marcadores sin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 <!ENTITY backCmd.label "Anterior">
@@ -304,6 +305,7 @@
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicie sesión para ver una lista de pestañas de sus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicie sesión en Sync">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Ver panel lateral de pestañas sincronizadas">
 <!ENTITY customizeMenu.addToToolbar.label "Añadir a la barra de herramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "b">
 <!ENTITY customizeMenu.addToPanel.label "Añadir al menú">
@@ -356,6 +358,8 @@
 <!ENTITY openFrameCmdInTab.accesskey "T">
 <!ENTITY openFrameCmd.label "Abrir el marco en una ventana nueva">
 <!ENTITY openFrameCmd.accesskey "e">
+<!ENTITY openLinkCmdInContainerTab.label "Abrir enlace en pestaña de contenedor nueva.">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label "Mostrar sólo este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
 <!ENTITY reloadCmd.commandkey "r">
@@ -524,7 +528,6 @@
 <!ENTITY spellAddDictionaries.label "Añadir diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY editBookmark.done.label "Terminar">
-<!ENTITY editBookmark.cancel.label "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey "r">
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "La conexión no es segura">
@@ -556,6 +559,19 @@
 <!ENTITY identity.permissionsEmpty "No ha concedido ningún permiso especial a este sitio.">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu3.label "Pestañas sincronizadas">
+<!ENTITY syncedTabs.sidebar.label "Pestañas sincronizadas">
+<!ENTITY syncedTabs.sidebar.fetching.label "Recuperando pestañas sincronizadas…">
+<!ENTITY syncedTabs.sidebar.noclients.label "Inicie sesión en Firefox desde sus otros dispositivos para ver sus pestañas aquí.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label "Inicie sesión para ver una lista de pestañas de sus otros dispositivos.">
+<!ENTITY syncedTabs.sidebar.notabs.label "No hay pestañas abiertas">
+<!ENTITY syncedTabs.sidebar.openprefs.label "Abrir preferencias de &syncBrand.shortName.label;">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Active la sincronización de pestañas para ver una lista de las mismas de sus otros dispositivos.">
+<!ENTITY syncedTabs.context.openTab.label "Abrir esta pestaña">
+<!ENTITY syncedTabs.context.openTab.accesskey "A">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label "Añadir a marcadores esta pestaña…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "m">
+<!ENTITY syncedTabs.context.refreshList.label "Recargar lista">
+<!ENTITY syncedTabs.context.refreshList.accesskey "R">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label "Conectarse a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey "Y">
@@ -583,7 +599,6 @@
 <!ENTITY social.directory.button "¡Llévame allí!">
 <!ENTITY social.directory.introText "Pulse en un servicio para añadirlo a &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Ver más">
-<!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Herramientas y características adicionales">
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Quiere más herramientas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Elija de entre miles de complementos">
@@ -654,7 +669,3 @@
 <!ENTITY panicButton.thankyou.buttonlabel "¡Gracias!">
 <!ENTITY emeLearnMoreContextMenu.label "Más información sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
-<!ENTITY emeNotificationsNotNow.label "Ahora no">
-<!ENTITY emeNotificationsNotNow.accesskey "A">
-<!ENTITY emeNotificationsDontAskAgain.label "No preguntarme de nuevo">
-<!ENTITY emeNotificationsDontAskAgain.accesskey "N">
