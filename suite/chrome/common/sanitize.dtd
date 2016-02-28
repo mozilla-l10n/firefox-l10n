@@ -7,7 +7,7 @@
 
 <!ENTITY itemHistory.label               "Histórico de navegação">
 <!ENTITY itemHistory.accesskey           "n">
-<!ENTITY itemUrlBar.label                "Histórico da barra de endereços">
+<!ENTITY itemUrlBar.label                "Histórico da barra de localização">
 <!ENTITY itemUrlBar.accesskey            "r">
 <!ENTITY itemDownloads.label             "Histórico dos downloads">
 <!ENTITY itemDownloads.accesskey         "d">
