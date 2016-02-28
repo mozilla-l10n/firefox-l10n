@@ -205,9 +205,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Informar errores como este para ayudar a Mozilla a identificarlo y bloquear sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Conocer más…">
-<!ENTITY errorReporting.sending "Enviando informe">
-<!ENTITY errorReporting.sent "Informe enviado">
-<!ENTITY errorReporting.tryAgain "Intentar nuevamente">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte a los dueños de sitio web para informarles de este problema.</li></ul></p>">

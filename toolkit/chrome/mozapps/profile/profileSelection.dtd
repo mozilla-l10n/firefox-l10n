@@ -7,6 +7,25 @@
 
 <!ENTITY            windowtitle.label      "&brandShortName; - Seleccione perfil de usuario">
 
+<!ENTITY            profilename.label      "Nombre de perfil:">
+
 <!ENTITY            start.label            "Iniciar &brandShortName;">
 <!ENTITY            exit.label             "Salir">
 
+<!ENTITY            availprofiles.label    "Perfiles disponibles">
+
+<!ENTITY            newButton.label        "Crear perfil…">
+<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            renameButton.label     "Renombrar perfil…">
+<!ENTITY            renameButton.accesskey "R">
+<!ENTITY            deleteButton.label     "Borrar perfil…">
+<!ENTITY            deleteButton.accesskey "D">
+
+<!-- manager entities -->
+<!ENTITY            pmDescription.label    "&brandShortName; guarda información acerca de sus opciones, preferencias y otros ítems del usuario en su perfil.">
+
+<!ENTITY            offlineState.label    "Trabajar sin conexión">
+<!ENTITY            offlineState.accesskey "o">
+
+<!ENTITY            useSelected.label       "Usar el perfil seleccionado sin preguntar la iniciar">
+<!ENTITY            useSelected.accesskey   "s">
