@@ -564,7 +564,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Adicionar este frame aos favoritos">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
-<!ENTITY emailPageCmd.label           "Enviar link por email…">
+<!ENTITY emailPageCmd.label           "Enviar link por e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Salvar página como…">
 <!ENTITY savePageCmd.accesskey        "v">
@@ -583,13 +583,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Salvar áudio como…">
 <!ENTITY saveAudioCmd.accesskey       "S">
-<!ENTITY emailImageCmd.label          "Enviar imagem por email…">
+<!ENTITY emailImageCmd.label          "Enviar imagem por e-mail…">
 <!ENTITY emailImageCmd.accesskey      "v">
-<!ENTITY emailVideoCmd.label          "Enviar vídeo por email…">
+<!ENTITY emailVideoCmd.label          "Enviar vídeo por e-mail…">
 <!ENTITY emailVideoCmd.accesskey      "r">
 <!ENTITY castVideoCmd.label           "Enviar vídeo para o dispositivo">
 <!ENTITY castVideoCmd.accesskey       "E">
-<!ENTITY emailAudioCmd.label          "Enviar áudio por email…">
+<!ENTITY emailAudioCmd.label          "Enviar áudio por e-mail…">
 <!ENTITY emailAudioCmd.accesskey      "r">
 <!ENTITY playPluginCmd.label          "Ativar este plugin">
 <!ENTITY playPluginCmd.accesskey      "t">
@@ -605,7 +605,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar endereço do áudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Copiar email">
+<!ENTITY copyEmailCmd.label           "Copiar e-mail">
 <!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Este frame">
 <!ENTITY thisFrameMenu.accesskey          "t">

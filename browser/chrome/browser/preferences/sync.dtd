@@ -74,8 +74,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Alterar imagem do perfil">
 <!ENTITY verifiedManage.label        "Gerenciar conta">
 <!ENTITY disconnect.label            "Desconectar…">
-<!ENTITY verify.label                "Confirmar email">
-<!ENTITY forget.label                "Esquecer este email">
+<!ENTITY verify.label                "Confirmar e-mail">
+<!ENTITY forget.label                "Esquecer este e-mail">
 
 <!ENTITY welcome.description "Acesse suas abas, favoritos, senhas e muito mais, sempre que usar o &brandShortName;.">
 <!ENTITY welcome.signIn.label "Entrar">
