@@ -173,6 +173,8 @@
 <!ENTITY pref_tap_to_load_images_data "Tylko przez Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokowanie">
 
+<!ENTITY pref_show_web_fonts "Wyświetlanie czcionek sieciowych">
+
 <!ENTITY pref_tracking_protection_title "Ochrona przed śledzeniem">
 <!ENTITY pref_tracking_protection_summary3 "Włączona w trybie prywatnym">
 <!ENTITY pref_donottrack_title "Ograniczanie śledzenia">
