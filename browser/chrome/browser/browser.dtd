@@ -190,7 +190,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Näytä huomautus">
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Näytä ilmoitus">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "Näytä paikannuspyyntö">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Näytä lisäosan asennusviesti">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Näytä lisäosan viesti yhteydettömän tilan tiedoista">
@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Valitse tallennetaanko salasanaa">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Näytä sovelluksen asennusviesti">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Muokkaa liitännäisten käyttöä sivulla">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label         "Muokkaa sivuston oikeutta näyttää huomautuksia">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label         "Muokkaa sivuston oikeutta näyttää ilmoituksia">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Muokkaa kameran ja/tai mikrofonin jakamisasetuksia sivustolla">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Jaat kamerasi ja/tai mikrofonisi sivuston kanssa">

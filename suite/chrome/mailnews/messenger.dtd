@@ -185,7 +185,7 @@
 <!ENTITY expandAllThreadsCmd.label "Laajenna kaikki viestiketjut">
 <!ENTITY expandAllThreadsCmd.accesskey "a">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Supista kaikki viestiketjut">
+<!ENTITY collapseAllThreadsCmd.label "Kutista kaikki viestiketjut">
 <!ENTITY collapseAllThreadsCmd.accesskey "u">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Lukemattomat">
