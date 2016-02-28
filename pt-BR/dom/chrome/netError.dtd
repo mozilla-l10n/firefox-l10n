@@ -80,8 +80,8 @@
 <!ENTITY unwantedBlocked.longDesc "<p>As páginas de software indesejado tentam instalar software que pode ser enganoso e afetar o seu sistema de formas inesperadas. </p>">
 
 <!ENTITY phishingBlocked.title "Site suspeito de ser uma fraude!">
-<!ENTITY phishingBlocked.longDesc "<p>O fornecimento de dados pessoais nesta página pode resultar em roubo de identidade ou outros golpes.</p> 
-<p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e emails se fazem passar por fontes que você confiaria.</p>">
+<!ENTITY phishingBlocked.longDesc "
+<p>O fornecimento de dados pessoais nesta página pode resultar em roubo de identidade ou outros golpes.</p><p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e e-mails se fazem passar por fontes que você confiaria.</p>">
 
 <!ENTITY forbiddenBlocked.title "Site proibido">
 <!ENTITY forbiddenBlocked.longDesc "<p>O navegador impediu nesta página de ser carregada porque está configurado para bloqueá-la.</p>
