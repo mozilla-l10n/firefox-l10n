@@ -777,7 +777,7 @@ do Android">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "Desculpe! Este &brandShortName; não funciona neste dispositivo (&formatS1;, &formatS2;). Por favor baixe a versão correta.">
+<!ENTITY unsupported_sdk_version "Desculpe! Este &brandShortName; não funciona neste dispositivo (&formatS1;, &formatS2;). Por favor, baixe a versão correta.">
 
 <!ENTITY eol_notification_title "O &brandShortName; não oferece mais suporte ao Android 3">
 <!ENTITY eol_notification_summary "Toque para saber mais">
