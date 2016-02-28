@@ -42,10 +42,12 @@
 </ul>">
 
 <!ENTITY netReset.title "Xq'at ri okem pa k'amaya'l">
+<!ENTITY netReset.longDesc "<p>Xq'at ri ximonel toq nitzijöx rij ri okem pa k'amaya'l. Tatojtob'ej jumul chik.</p>">
 
+<!ENTITY netTimeout.title "Xik'o ri ramaj richin noyob'ëx">
+<!ENTITY netTimeout.longDesc "<p>Ri ruxaq k'amaya'l xk'utüx, man xunimaj ta tzij richin nok chuqa' ri okik'amaya'l xtane' chi royob'exik jun  tzolin tzij.</p><ul><li>¿La tajin nik'ulwachitäj chi e k'ïy yekanon richin o xqupïx jun ch'utiramaj ri ruk'u'x samaj? Tatojtob'ej pa jun chik ch'utiramaj.</li><li>¿La man nitikïr ta nok pa juley chik ruxaq k'amaya'l? Tanik'oj ri rokem pa k'amab'ey akematz'ib'.</li><li>¿La tajin nichajïx ri akematz'ib' rik'in jun proxi o jun firewall? Jun itzel runuk'ulem nitikïr nuq'ät ri okem pa k'amaya'l.</li><li>¿La k'a k'o na ak'ayewal? Tak'ulb'ej ri runuk'unel ak'amab'ey o ri ya'öl ak'amaya'l richin yato' chi rusamajixik.</li></ul>">
 
-
-
+<!ENTITY unknownProtocolFound.title "Man etaman ta ruwäch ri rub'eyal samaj">
 
 
 
