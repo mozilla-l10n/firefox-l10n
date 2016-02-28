@@ -9,7 +9,7 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 <!-- Toolbar-only items -->
 <!ENTITY previewToolbarCmd.label "Pārlūkot">
-
+<!ENTITY previewToolbarCmd.tooltip "Ielādēt šo lapu pārlūkā">
 <!-- File menu items -->
 
 
@@ -18,12 +18,14 @@
 
 <!-- View menu items -->
 
-
-
-
-
+<!ENTITY formattingToolbarCmd.label "Formatēšanas rīkjosla">
+<!ENTITY formattingToolbarCmd.accesskey "F">
+<!ENTITY editmodeToolbarCmd.label "Rediģēšanas režīma rīkjosla">
+<!ENTITY editmodeToolbarCmd.accesskey "e">
 <!-- Format menu items -->
 
+<!ENTITY formatMenu.label "Formatēt">
+<!ENTITY formatMenu.accesskey "o">
 
 
 
@@ -37,7 +39,7 @@
 <!ENTITY AllTagsModeTab.label "HTML birkas">
 <!ENTITY AllTagsMode.label "HTML birkas">
 <!ENTITY AllTagsMode.accesskey "a">
-
+<!ENTITY AllTagsMode.tooltip "Attēlot ikonas visām HTML birkām">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
