@@ -28,7 +28,6 @@
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepRecent.label "Eliminar todos excepto los">
 <!ENTITY retentionKeepRecent.accesskey "x">
-<!ENTITY retentionKeepUnreadHidden.label "Eliminar siempre mensajes leídos (prevalece sobre la configuración de antigüedad)">
 <!ENTITY retentionApplyToFlagged.label "Conservar siempre los mensajes con estrella">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY folderSynchronizationTab.label "Sincronización">
