@@ -9,11 +9,11 @@
 ">
 
 <!ENTITY aboutTelemetry.uploadEnabled "
-  FHR datat <span>siirretään</span>.
+  FHR-data <span>siirretään</span>.
 ">
 
 <!ENTITY aboutTelemetry.uploadDisabled "
-  FHR datoja <span>ei siirretä</span>.
+  FHR-dataa <span>ei siirretä</span>.
 ">
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "
@@ -25,7 +25,7 @@
 ">
 
 <!ENTITY aboutTelemetry.pingDataSource "
-Ping data lähteeseen:
+Ping-datan lähde:
 ">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
@@ -36,12 +36,16 @@ Tämänhetkinen ping-data
 Arkistoitu ping-data
 ">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "
+Ping-datan näyttämistapa:
+">
+
 <!ENTITY aboutTelemetry.structured "
-Strukturoitu
+Rakenteinen
 ">
 
 <!ENTITY aboutTelemetry.raw "
-Raaka-JSON
+Muotoilematon JSON
 ">
 
 <!ENTITY aboutTelemetry.showSubsessionData "
@@ -60,6 +64,10 @@ Valitse ping:
 Vanhempi ping &gt;&gt;
 ">
 
+<!ENTITY aboutTelemetry.rawPingData "
+Raaka ping-data…
+">
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Viikko
 ">
@@ -73,7 +81,7 @@ Ping
 ">
 
 <!ENTITY aboutTelemetry.environmentDataSection "
-  Ympäristötiedot
+  Ympäristön tiedot
 ">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
@@ -121,7 +129,7 @@ Ping
 ">
 
 <!ENTITY aboutTelemetry.toggle "
-  Laajenna tai supista osio
+  Avaa tai sulje osio napsauttamalla
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
@@ -142,4 +150,8 @@ Ping
 
 <!ENTITY aboutTelemetry.filterText "
   Suodata (merkkijono tai /säännöllinen lause/)
+">
+
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Tiedot
 ">
