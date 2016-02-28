@@ -99,7 +99,7 @@
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Nome da conta ou senha incorreta.'>
-<!ENTITY sync.invalidserver.label 'Por favor insira um URL de servidor válido'>
+<!ENTITY sync.invalidserver.label 'Por favor, insira um URL de servidor válido'>
 <!ENTITY sync.verifying.label 'Verificando…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Chave de recuperação incorreta. Por favor, tente de novo.'>
 
@@ -168,10 +168,10 @@
 <!ENTITY fxaccount_confirm_account_header 'Confirme sua conta'>
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Um link de confirmação foi enviado para &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Reenviar email'>
-<!ENTITY fxaccount_confirm_account_change_email 'Esquecer este endereço de email?'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Email de confirmação enviado'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Não foi possível enviar o email de confirmação'>
+<!ENTITY fxaccount_confirm_account_resend_email 'Reenviar e-mail'>
+<!ENTITY fxaccount_confirm_account_change_email 'Esquecer este endereço de e-mail?'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'E-mail de confirmação enviado'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Não foi possível enviar o e-mail de confirmação'>
 <!ENTITY fxaccount_resend_unlock_code_button_label 'Reenviar e-mail de desbloqueio'>
 <!ENTITY fxaccount_unlock_code_sent 'E-mail para desbloqueio da conta enviado'>
 <!ENTITY fxaccount_unlock_code_not_sent 'Não foi possível enviar o e-mail para o desbloqueio da conta'>
@@ -205,7 +205,7 @@
 <!ENTITY fxaccount_status_sync_server 'Servidor Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; ativo'>
-<!ENTITY fxaccount_status_needs_verification2 'Sua conta precisa ser confirmada. Toque para reenviar o email de confirmação.'>
+<!ENTITY fxaccount_status_needs_verification2 'Sua conta precisa ser confirmada. Toque para reenviar o e-mail de confirmação.'>
 <!ENTITY fxaccount_status_needs_credentials 'Não foi possível conectar. Toque para identificar-se.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Você precisa atualizar o &brandShortName; para identificar-se.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'O &syncBrand.shortName.label; está configurado, mas não está sincronizando automaticamente. Ative a opção “Sincronizar dados automaticamente” em Configurações do Android &gt; Uso de dados.'>
@@ -252,8 +252,8 @@
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Conta já existe. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Email ou senha inválida'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Email ou senha inválida'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'E-mail ou senha inválida'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'E-mail ou senha inválida'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Conta não verificada'>
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Servidor ocupado, tente novamente mais tarde'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Servidor ocupado, tente novamente mais tarde'>
