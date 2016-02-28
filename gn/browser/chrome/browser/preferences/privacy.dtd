@@ -2,9 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
+<!ENTITY  trackingProtectionHeader.label       "Eipuru Ñemo'ã Tapykuehógui">
+<!ENTITY  trackingProtectionAlways.label       "Akóinte">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionPrivate.label      "Ovetã ñemiguáva añónte">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
 
 
 <!ENTITY  trackingProtectionLearnMore.label    "Kuaave">
