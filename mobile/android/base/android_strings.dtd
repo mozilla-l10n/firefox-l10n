@@ -14,7 +14,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Obtenga resultados de sus marcadores e historial cuando busque.">
 <!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Menos datos, más ahorro">
-<!ENTITY firstrun_data_subtext "Bloquee imágenes para consumir menos datos en cada sitio que visita.">
+<!ENTITY firstrun_data_subtext2 "Desactive imágenes para usar menos datos en cada sitio que visite.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, siempre a su lado">
 <!ENTITY firstrun_sync_subtext "Sincronice sus pestañas, contraseñas y más donde quiera usarlo.">
@@ -147,6 +147,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Siempre">
 <!ENTITY pref_tap_to_load_images_data "Sólo bajo Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloqueadas">
+<!ENTITY pref_show_web_fonts "Mostrar tipografías web">
 <!ENTITY pref_tracking_protection_title "Protección contra rastreo">
 <!ENTITY pref_tracking_protection_summary3 "Activado en navegación privada">
 <!ENTITY pref_donottrack_title "No rastrear">
@@ -316,8 +317,8 @@
 <!ENTITY pref_magnifying_glass_enabled_summary "Aumentar enlaces y campos de formularios al tocar cerca de ellos">
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary2 "Ocultar la barra de herramientas de &brandShortName; al bajar por una página">
-<!ENTITY pref_tab_queue_title2 "Abrir múltiples enlaces">
-<!ENTITY pref_tab_queue_summary3 "Guardarlos hasta que vuelva a abrir &brandShortName;">
+<!ENTITY pref_tab_queue_title3 "Pestañas en cola">
+<!ENTITY pref_tab_queue_summary4 "Guardarlos hasta que vuelva a abrir &brandShortName;">
 <!ENTITY page_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
@@ -442,7 +443,6 @@
 <!ENTITY voicesearch_prompt "Hable ahora">
 <!ENTITY remote_tabs_last_synced "Última sincr.: &formatS;">
 <!ENTITY remote_tabs_never_synced "Última sincronización: nunca">
-<!ENTITY find_matchcase "Aa">
 <!ENTITY intent_uri_cannot_open "No se puede abrir el enlace">
 <!ENTITY intent_uri_private_browsing_prompt "Este enlace se abrirá en &formatS;. ¿Seguro que desea salir de la navegación privada?">
 <!ENTITY intent_uri_private_browsing_multiple_match_title "¿Salir de navegación privada?">
