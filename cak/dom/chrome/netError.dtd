@@ -31,16 +31,17 @@
 <!ENTITY notCached.longDesc "<p>Ri wuj nik'utüx, man k'o ta pa ri rukache' okik'amaya'l.</p><ul><li>. Richin nichajin, ri okik'amaya'l; man nuk'utuj ta chik pa ruyonil chajin tan wuj, ri k'o taq awetamab'al chupam.</li><li>Tapitz'a' qa Titojtob'ëx chik richin nak'utuj chik el ri ruwujil ruxaq k'amaya'l.</li></ul>">
 
 <!ENTITY netOffline.title "Pa rub'eyal majun okem">
-
+<!ENTITY netOffline.longDesc2 "<p>Ri okik&apos;amaya&apos;l tajin nisamäj pa rub&apos;eyal majun okem pa k&apos;amaya&apos;l, ruma ri&apos; toq man tikirel ta nok pa ri ch&apos;akulal nik&apos;utüx chi re.</p><ul><li>¿La okinäq ri kematz&apos;ib&apos; pa jun tzijïl k&apos;amab&apos;ey?</li><li>Tapitz&apos;a&apos; &quot;Titojtob&apos;ëx chik&quot; richin tiq&apos;ax pa rub&apos;eyal okem pa k&apos;amaya&apos;l chuqa&apos; tisamajib&apos;ëx chik ri ruxaq k&apos;amaya&apos;l.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Sachoj pa ruwi' rucholajil rupam">
-
+<!ENTITY contentEncodingError.longDesc "<p>Ri ruxaq k'amaya'l k'utun man tikirel ta nisamajib'ëx ruma jun ruwäch chi ch'utinisanïk, ri man koch'el ta o man okel ta.</p><ul><li>Katzijon kik'in ri rajwaw ruxaq k'amaya'al richin natzijoj chi ke pa ruwi' re k'ayewal re'.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Itzel ruwäch chi yakb'äl">
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li>Tab'ana' utzil, ke'atz'ib'aj el ri rajaw ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li> 
 </ul>">
 
+<!ENTITY netReset.title "Xq'at ri okem pa k'amaya'l">
 
 
 
