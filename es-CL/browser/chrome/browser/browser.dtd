@@ -119,6 +119,7 @@
 <!ENTITY subscribeToPageMenuitem.label "Suscribir a esta página…">
 <!ENTITY addCurPagesCmd.label "Guardar todas las pestañas en marcadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
+<!ENTITY recentBookmarks.label "Marcadores recientes">
 <!ENTITY unsortedBookmarksCmd.label "Marcadores sin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 <!ENTITY backCmd.label "Atrás">
@@ -361,6 +362,8 @@
 <!ENTITY openFrameCmdInTab.accesskey "t">
 <!ENTITY openFrameCmd.label "Abrir marco en nueva ventana">
 <!ENTITY openFrameCmd.accesskey "A">
+<!ENTITY openLinkCmdInContainerTab.label "Abrir enlace en nueva pestaña contenedora">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label "Mostrar solo este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey "r">
@@ -529,7 +532,6 @@
 <!ENTITY spellAddDictionaries.label "Agregar diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY editBookmark.done.label "Listo">
-<!ENTITY editBookmark.cancel.label "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "Conexión no segura">
@@ -601,7 +603,6 @@
 <!ENTITY social.directory.button "¡Llevarme allí!">
 <!ENTITY social.directory.introText "Apriete en un servicio para añadirlo a &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Ver más">
-<!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Herramientas y funciones adicionales">
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Quiere más herramientas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escoja entre miles de complementos">
