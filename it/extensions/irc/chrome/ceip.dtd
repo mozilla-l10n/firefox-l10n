@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Programma di miglioramento dell'esperienza con ChatZilla">
 <!ENTITY window.size "width: 42em;">
-<!ENTITY intro.label "Il Progamma di miglioramento dell'esperienza ChatZilla raccoglie informazioni sul tuo utilizzo di ChatZilla, senza darti fastidio. Ciò aiuta gli sviluppatori ad identificare quali funzioni di ChatZilla devono essere migliorate. Nessuna informazione viene utilizzata per identificarti o contattarti.">
+<!ENTITY intro.label "Il Programma di miglioramento dell'esperienza ChatZilla raccoglie informazioni sul tuo utilizzo di ChatZilla, senza darti fastidio. Ciò aiuta gli sviluppatori ad identificare quali funzioni di ChatZilla devono essere migliorate. Nessuna informazione viene utilizzata per identificarti o contattarti.">
 <!ENTITY groupSend.label "Invia i dati seguenti:">
 <!ENTITY sendClient.label "Quando ChatZilla viene aperto e chiuso">
 <!ENTITY sendClient.accesskey "Q">
