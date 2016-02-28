@@ -11,10 +11,10 @@
 <!ENTITY  clearHistory.label                "Limpar">
 <!ENTITY  clearHistory.accesskey            "L">
 
-<!ENTITY  locationBarHistory.caption        "Histórico da barra de endereços">
-<!ENTITY  urlBarHistoryEnabled.caption      "Ativar o histórico da barra de endereço">
+<!ENTITY  locationBarHistory.caption        "Histórico da barra de localização">
+<!ENTITY  urlBarHistoryEnabled.caption      "Ativar o histórico da barra de localização">
 <!ENTITY  urlBarHistoryEnabled.accesskey    "e">
-<!ENTITY  clearLocationBar.label            "Limpar a lista de sites armazenada na barra de endereços.">
+<!ENTITY  clearLocationBar.label            "Limpar a lista de sites armazenada na barra de localização.">
 <!ENTITY  clearLocationBarButton.label      "Limpar">
 <!ENTITY  clearLocationBarButton.accesskey  "r">
 <!ENTITY  formfillHistory.caption           "Dados de formulários e histórico de buscas">

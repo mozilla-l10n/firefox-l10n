@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 
+<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Preferências">
 <!ENTITY categoryHeader "Categoria">
 <!ENTITY appear.label "Aparência">
@@ -13,7 +13,7 @@
 <!ENTITY history.label "Histórico">
 <!ENTITY languages.label "Idiomas">
 <!ENTITY applications.label "Programas">
-<!ENTITY locationBar.label "Barra de endereços">
+<!ENTITY locationBar.label "Barra de localização">
 <!ENTITY tabWindows.label "Abas">
 <!ENTITY links.label "Comportamento do link">
 <!ENTITY offline.label "Modo desconectado">
