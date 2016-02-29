@@ -20,8 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Ping mba'ekuaarã ñongatupyre">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Ping mba'ekuaarã jechauka:">
 
+<!ENTITY aboutTelemetry.structured "Oñembohetepyre">
 
+<!ENTITY aboutTelemetry.raw "Raw JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Tembiapo'ive mba'ekuaarã jehchauka">
 
