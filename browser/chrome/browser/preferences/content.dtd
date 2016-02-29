@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "ป">
 
 <!ENTITY  notificationsPolicy.label            "การแจ้งเตือน">
-<!ENTITY  notificationsPolicyLearnMore.label   "เรียนรู้เพิ่ม">
+<!ENTITY  notificationsPolicyLearnMore.label   "เรียนรู้เพิ่มเติม">
 <!ENTITY  notificationsPolicyDesc3.label       "เลือกเว็บไซต์ที่อนุญาตให้ส่งการแจ้งเตือน">
 <!ENTITY  notificationsPolicyButton.accesskey  "ล">
 <!ENTITY  notificationsPolicyButton.label      "เลือก…">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "เล่นเนื้อหา DRM">
 <!ENTITY  playDRMContent.accesskey     "ล">
-<!ENTITY  playDRMContent.learnMore.label "เรียนรู้เพิ่ม">
+<!ENTITY  playDRMContent.learnMore.label "เรียนรู้เพิ่มเติม">
