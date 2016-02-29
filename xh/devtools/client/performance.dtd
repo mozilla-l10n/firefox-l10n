@@ -96,7 +96,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
-
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Yekisa ukubuyela xa kusebenza uhlolo.">
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
