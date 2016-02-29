@@ -45,7 +45,7 @@
 <!ENTITY netmonitorUI.footer.filterJS     "JS">
 <!ENTITY netmonitorUI.footer.filterXHR    "XHR">
 <!ENTITY netmonitorUI.footer.filterFonts  "Czcionki">
-<!ENTITY netmonitorUI.footer.filterImages "Obrazki">
+<!ENTITY netmonitorUI.footer.filterImages "Obrazy">
 <!ENTITY netmonitorUI.footer.filterMedia  "Media">
 <!ENTITY netmonitorUI.footer.filterFlash  "Flash">
 <!ENTITY netmonitorUI.footer.filterOther "Inne">
@@ -97,7 +97,7 @@
 <!ENTITY netmonitorUI.context.copyResponseHeaders.accesskey "w">
 <!ENTITY netmonitorUI.context.copyResponse "Kopiuj odpowiedź">
 <!ENTITY netmonitorUI.context.copyResponse.accesskey "u">
-<!ENTITY netmonitorUI.context.copyImageAsDataUri "Kopiuj obrazek jako Data URI">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Kopiuj obraz jako Data URI">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey "D">
 <!ENTITY netmonitorUI.context.copyAllAsHar "Kopiuj wszystko jako HTTP Archive">
 <!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "T">

@@ -12,7 +12,7 @@
 <!ENTITY preserveExisting.label "Zachowaj oryginalne formatowanie źródła">
 <!ENTITY preserveExisting.accesskey "o">
 <!ENTITY preserveExisting.tooltip      "Zachowuj łamanie wierszy oraz oryginalne formatowanie strony">
-<!ENTITY saveAssociatedFiles.label "Zachowaj obrazki oraz inne powiązane pliki podczas zapisywania strony">
+<!ENTITY saveAssociatedFiles.label "Zachowaj obrazy oraz inne powiązane pliki podczas zapisywania strony">
 <!ENTITY saveAssociatedFiles.accesskey "Z">
 <!ENTITY showPublishDialog.label "Zawsze pokazuj dialog publikowania podczas publikowania stron" >
 <!ENTITY showPublishDialog.accesskey   "a">

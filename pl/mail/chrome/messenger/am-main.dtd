@@ -20,7 +20,7 @@
 <!ENTITY signatureText.accesskey "k">
 <!ENTITY signatureHtml.label "Używaj HTML (np. &lt;b&gt;pogrubiony tekst&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
-<!ENTITY signatureFile.label "Używaj treści z pliku (tekstowego, HTML lub obrazka):">
+<!ENTITY signatureFile.label "Używaj treści z pliku (tekstowego, HTML lub obrazu):">
 <!ENTITY signatureFile.accesskey "U">
 <!ENTITY edit.label "Edytuj…">
 <!ENTITY choose.label "Wybierz…">

@@ -25,7 +25,7 @@
 <!ENTITY background.accesskey      "T">
 <!ENTITY colon.character           ":">
 
-<!ENTITY backgroundImage.label     "Obrazek tła:">
+<!ENTITY backgroundImage.label "Obraz tła:">
 <!ENTITY backgroundImage.accesskey "O">
 <!ENTITY chooseFile.label          "Wybierz plik…">
 <!ENTITY chooseFile.accesskey      "W">

@@ -30,7 +30,7 @@
 <!ENTITY insertLinkCmd.key        "L">
 <!ENTITY insertAnchorCmd.label    "Kotwicę…">
 <!ENTITY insertAnchorCmd.accesskey "K">
-<!ENTITY insertImageCmd.label     "Obrazek…">
+<!ENTITY insertImageCmd.label "Obraz…">
 <!ENTITY insertImageCmd.accesskey "b">
 <!ENTITY insertHLineCmd.label     "Linię poziomą">
 <!ENTITY insertHLineCmd.accesskey "L">
@@ -42,7 +42,7 @@
 <!ENTITY insertMathCmd.accesskey "W">
 <!ENTITY insertCharsCmd.label     "Znaki i symbole…">
 <!ENTITY insertCharsCmd.accesskey "Z">
-<!ENTITY insertBreakAllCmd.label     "Linię podziału poniżej obrazka">
+<!ENTITY insertBreakAllCmd.label "Linię podziału poniżej obrazu">
 <!ENTITY insertBreakAllCmd.accesskey "u">
 
 <!-- Used just in context popup. -->
@@ -288,8 +288,8 @@
 <!ENTITY findToolbarCmd.tooltip        "Znajdź tekst na stronie">
 <!ENTITY spellToolbarCmd.label         "Pisownia">
 <!ENTITY spellToolbarCmd.tooltip       "Sprawdź pisownię zaznaczenia lub całej strony">
-<!ENTITY imageToolbarCmd.label         "Obrazek">
-<!ENTITY imageToolbarCmd.tooltip       "Wstaw nowy obrazek lub edytuj właściwości wybranego obrazka">
+<!ENTITY imageToolbarCmd.label "Obraz">
+<!ENTITY imageToolbarCmd.tooltip "Wstaw nowy obraz lub edytuj właściwości wybranego obrazu">
 <!ENTITY hruleToolbarCmd.label         "Linia pozioma">
 <!ENTITY hruleToolbarCmd.tooltip       "Wstaw linię poziomą lub edytuj właściwości wybranej linii">
 <!ENTITY tableToolbarCmd.label         "Tabela">
@@ -315,7 +315,7 @@
 <!ENTITY outdentToolbarCmd.tooltip     "Wcięcie tekstu (przesuń w lewo)">
 <!ENTITY indentToolbarCmd.tooltip      "Wcięcie tekstu (przesuń w prawo)">
 <!ENTITY AlignPopupButton.tooltip      "Wybierz wyrównanie tekstu">
-<!ENTITY InsertPopupButton.tooltip     "Wstaw odnośnik, kotwicę, obrazek, linię poziomą lub tabelę">
+<!ENTITY InsertPopupButton.tooltip "Wstaw odnośnik, kotwicę, obraz, linię poziomą lub tabelę">
 <!ENTITY alignLeftButton.tooltip       "Wyrównaj tekst do lewego marginesu">
 <!ENTITY alignCenterButton.tooltip     "Wyrównaj tekst do środka">
 <!ENTITY alignRightButton.tooltip      "Wyrównaj tekst do prawego marginesu">

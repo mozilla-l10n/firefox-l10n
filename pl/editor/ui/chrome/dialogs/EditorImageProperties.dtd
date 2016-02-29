@@ -3,22 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Właściwości obrazka">
+<!ENTITY windowTitle.label "Właściwości obrazu">
 <!ENTITY pixelsPopup.value "pikseli">
 
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label     "Adres obrazka:">
+<!ENTITY locationEditField.label "Adres obrazu:">
 <!ENTITY locationEditField.accessKey "A">
-<!ENTITY locationEditField.tooltip   "Wprowadź nazwę pliku obrazka, ścieżkę dostępu lub adres URL">
+<!ENTITY locationEditField.tooltip "Wprowadź nazwę pliku obrazu, ścieżkę dostępu lub adres URL">
 <!ENTITY title.label                 "Etykieta:">
 <!ENTITY title.accessKey             "k">
 <!ENTITY title.tooltip               "Atrybut „title” wyświetlany jako etykieta">
 <!ENTITY altText.label               "Tekst alternatywny:">
 <!ENTITY altText.accessKey           "T">
-<!ENTITY altTextEditField.tooltip    "Wprowadź tekst, który będzie wyświetlany w miejscu obrazka">
+<!ENTITY altTextEditField.tooltip "Wprowadź tekst, który będzie wyświetlany w miejscu obrazu">
 <!ENTITY noAltText.label             "Nie wyświetlaj tekstu alternatywnego">
 <!ENTITY noAltText.accessKey         "N">
-<!ENTITY previewBox.label            "Podgląd obrazka">
+<!ENTITY previewBox.label "Podgląd obrazu">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -28,22 +28,22 @@
 <!ENTITY actualSizeRadio.tooltip     "Przywróć rozmiar oryginalny">
 <!ENTITY customSizeRadio.label       "Rozmiar niestandardowy">
 <!ENTITY customSizeRadio.accessKey   "R">
-<!ENTITY customSizeRadio.tooltip     "Zmień rozmiar obrazka wyświetlanego na stronie">
+<!ENTITY customSizeRadio.tooltip "Zmień rozmiar obrazu wyświetlanego na stronie">
 <!ENTITY heightEditField.label       "Wysokość:">
 <!ENTITY heightEditField.accessKey   "y">
 <!ENTITY widthEditField.label        "Szerokość:">
 <!ENTITY widthEditField.accessKey    "S">
 <!ENTITY constrainCheckbox.label     "Zachowaj skalę">
 <!ENTITY constrainCheckbox.accessKey "Z">
-<!ENTITY constrainCheckbox.tooltip   "Zachowaj współczynnik kształtu obrazka">
+<!ENTITY constrainCheckbox.tooltip "Zachowaj współczynnik kształtu obrazu">
 
 <!-- These controls are in the Image Map box of the expanded area -->
-<!ENTITY imagemapBox.label              "Mapa obrazka">
+<!ENTITY imagemapBox.label "Mapa obrazu">
 <!ENTITY removeImageMapButton.label     "Usuń">
 <!ENTITY removeImageMapButton.accessKey "U">
 
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label      "Wyrównaj tekst względem obrazka">
+<!ENTITY alignment.label "Wyrównaj tekst względem obrazu">
 <!ENTITY bottomPopup.value    "Na dole">
 <!ENTITY topPopup.value       "U góry">
 <!ENTITY centerPopup.value    "Na środku">
@@ -60,7 +60,7 @@
 <!ENTITY borderEditField.accessKey    "b">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label     "Pokaż ramkę wokół obrazka z odnośnikiem">
+<!ENTITY showImageLinkBorder.label "Pokaż ramkę wokół obrazu z odnośnikiem">
 <!ENTITY showImageLinkBorder.accessKey "m">
 <!ENTITY LinkAdvancedEditButton.label     "Zaawansowana edycja odnośnika…">
 <!ENTITY LinkAdvancedEditButton.accessKey "Z">

@@ -16,7 +16,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Wyświetlaj wyniki z zakładek i historii podczas wyszukiwania.">
 <!ENTITY firstrun_data_title "Dane">
 <!ENTITY firstrun_data_message "Mniej danych, więcej oszczędności">
-<!ENTITY firstrun_data_subtext2 "Wyłącz obrazki, aby zmniejszyć zużycie danych.">
+<!ENTITY firstrun_data_subtext2 "Wyłącz obrazy, aby zmniejszyć zużycie danych.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, zawsze blisko">
 <!ENTITY firstrun_sync_subtext "Synchronizuj karty, hasła i wiele więcej między wszystkimi urządzeniami.">
@@ -168,7 +168,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Akceptowanie, z wyjątkiem ciasteczek zewnętrznych podmiotów">
 <!ENTITY pref_cookies_disabled "Wyłączone">
 
-<!ENTITY pref_tap_to_load_images_title2 "Wyświetlanie obrazków">
+<!ENTITY pref_tap_to_load_images_title2 "Wyświetlanie obrazów">
 <!ENTITY pref_tap_to_load_images_enabled "Zawsze">
 <!ENTITY pref_tap_to_load_images_data "Tylko przez Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokowanie">
@@ -304,7 +304,7 @@
 
 <!ENTITY share "Udostępnij">
 <!ENTITY share_title "Udostępnij przez">
-<!ENTITY share_image_failed "Tego obrazka nie można udostępnić">
+<!ENTITY share_image_failed "Tego obrazu nie można udostępnić">
 <!ENTITY save_as_pdf "Zapisz jako PDF">
 <!ENTITY print "Drukuj">
 <!ENTITY desktop_mode "Tryb stacjonarny">
@@ -463,7 +463,7 @@
 
 <!ENTITY mixed_content_blocked_all1 "Program &brandShortName; zablokował niezabezpieczoną treść na tej stronie.">
 <!ENTITY mixed_content_blocked_some1 "Program &brandShortName; zablokował część niezabezpieczonej treści na tej stronie.">
-<!ENTITY mixed_content_display_loaded1 "Części tej strony (np. obrazki) nie są niezabezpieczone.">
+<!ENTITY mixed_content_display_loaded1 "Części tej strony (np. obrazy) nie są niezabezpieczone.">
 <!ENTITY mixed_content_protection_disabled1 "Ochrona przed niezabezpieczoną treścią jest wyłączona.">
 
 <!ENTITY doorhanger_tracking_title "Ochrona przed śledzeniem">

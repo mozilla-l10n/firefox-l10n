@@ -798,11 +798,11 @@
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Zapisz element docelowy jako…">
 <!ENTITY saveLinkAsCmd.accesskey "d">
-<!ENTITY saveImageAsCmd.label "Zapisz obrazek jako…">
+<!ENTITY saveImageAsCmd.label "Zapisz obraz jako…">
 <!ENTITY saveImageAsCmd.accesskey "Z">
 <!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika">
 <!ENTITY copyLinkCmd.accesskey "s">
-<!ENTITY copyImageAllCmd.label "Kopiuj obrazek">
+<!ENTITY copyImageAllCmd.label "Kopiuj obraz">
 <!ENTITY copyImageAllCmd.accesskey "K">
 <!ENTITY copyEmailCmd.label "Kopiuj adres e-mail">
 <!ENTITY copyEmailCmd.accesskey "e">

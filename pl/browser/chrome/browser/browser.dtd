@@ -133,7 +133,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.accesskey "U">
 <!ENTITY shareLink.label "Udostępnij ten odnośnik">
 <!ENTITY shareLink.accesskey "U">
-<!ENTITY shareImage.label "Udostępnij ten obrazek">
+<!ENTITY shareImage.label "Udostępnij ten obraz">
 <!ENTITY shareImage.accesskey "s">
 <!ENTITY shareSelect.label "Udostępnij zaznaczenie">
 <!ENTITY shareSelect.accesskey "s">
@@ -458,17 +458,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey "I" >
 <!ENTITY viewFrameInfoCmd.label "Pokaż informacje o ramce" >
 <!ENTITY viewFrameInfoCmd.accesskey "i" >
-<!ENTITY reloadImageCmd.label         "Odśwież obrazek">
+<!ENTITY reloadImageCmd.label "Odśwież obraz">
 <!ENTITY reloadImageCmd.accesskey     "O">
-<!ENTITY viewImageCmd.label           "Pokaż obrazek" >
+<!ENTITY viewImageCmd.label "Pokaż obraz">
 <!ENTITY viewImageCmd.accesskey       "P" >
-<!ENTITY viewImageInfoCmd.label       "Pokaż informacje o obrazku">
+<!ENTITY viewImageInfoCmd.label "Pokaż informacje o obrazie">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Pokaż opis">
 <!ENTITY viewImageDescCmd.accesskey   "s">
 <!ENTITY viewVideoCmd.label           "Pokaż wideo">
 <!ENTITY viewVideoCmd.accesskey       "k">
-<!ENTITY viewBGImageCmd.label "Pokaż obrazek tła" >
+<!ENTITY viewBGImageCmd.label "Pokaż obraz tła">
 <!ENTITY viewBGImageCmd.accesskey "t" >
 <!ENTITY setDesktopBackgroundCmd.label "Ustaw jako tapetę…" >
 <!ENTITY setDesktopBackgroundCmd.accesskey "t" >
@@ -490,13 +490,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "u">
 <!ENTITY saveLinkCmd.label "Zapisz element docelowy jako…" >
 <!ENTITY saveLinkCmd.accesskey "s" >
-<!ENTITY saveImageCmd.label "Zapisz obrazek jako…" >
+<!ENTITY saveImageCmd.label "Zapisz obraz jako…">
 <!ENTITY saveImageCmd.accesskey "Z" >
 <!ENTITY saveVideoCmd.label           "Zapisz wideo jako…">
 <!ENTITY saveVideoCmd.accesskey       "s">
 <!ENTITY saveAudioCmd.label           "Zapisz dźwięk jako…">
 <!ENTITY saveAudioCmd.accesskey       "s">
-<!ENTITY emailImageCmd.label "Wyślij obrazek…">
+<!ENTITY emailImageCmd.label "Wyślij obraz…">
 <!ENTITY emailImageCmd.accesskey "o">
 <!ENTITY emailVideoCmd.label "Wyślij wideo…">
 <!ENTITY emailVideoCmd.accesskey "o">
@@ -510,9 +510,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.accesskey      "U">
 <!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika" >
 <!ENTITY copyLinkCmd.accesskey "K" >
-<!ENTITY copyImageCmd.label "Kopiuj adres obrazka" >
+<!ENTITY copyImageCmd.label "Kopiuj adres obrazu">
 <!ENTITY copyImageCmd.accesskey "b" >
-<!ENTITY copyImageContentsCmd.label	"Kopiuj obrazek">
+<!ENTITY copyImageContentsCmd.label "Kopiuj obraz">
 <!ENTITY copyImageContentsCmd.accesskey	"r">
 <!ENTITY copyVideoURLCmd.label        "Kopiuj adres wideo">
 <!ENTITY copyVideoURLCmd.accesskey    "u">
@@ -660,7 +660,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY identity.insecureLoginForms2 "Dane logowania wprowadzone na tej stronie nie są chronione">
 
 <!ENTITY identity.activeBlocked "&brandShortName; zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
-<!ENTITY identity.passiveLoaded "Niektóre elementy tej strony (np. obrazki) nie były przesłane w sposób bezpieczny.">
+<!ENTITY identity.passiveLoaded "Niektóre elementy tej strony (np. obrazy) nie były przesłane w sposób bezpieczny.">
 <!ENTITY identity.activeLoaded "Ochrona na tej stronie została wyłączona przez użytkownika.">
 <!ENTITY identity.weakEncryption "Strona używa słabego szyfrowania.">
 
@@ -670,8 +670,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY identity.description.weakCipher2 "Informacje na stronie mogą być dostępne dla innych a jej działanie modyfikowane.">
 <!ENTITY identity.description.activeBlocked "Firefox zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
 <!ENTITY identity.description.passiveLoaded "Połączenie z tą stroną nie zapewnia prywatności a przesyłane informacje mogą być dostępne dla innych.">
-<!ENTITY identity.description.passiveLoaded2 "Niektóre elementy tej strony (np. obrazki) nie były przesłane w sposób bezpieczny.">
-<!ENTITY identity.description.passiveLoaded3 "&brandShortName; zablokował niektóre elementy strony, mimo to nie wszystkie pozostałe elementy były przesłane w sposób bezpieczny (np. obrazki).">
+<!ENTITY identity.description.passiveLoaded2 "Niektóre elementy tej strony (np. obrazy) nie były przesłane w sposób bezpieczny.">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; zablokował niektóre elementy strony, mimo to nie wszystkie pozostałe elementy były przesłane w sposób bezpieczny (np. obrazy).">
 <!ENTITY identity.description.activeLoaded "Strona zawiera elementy, które nie były przesłane w sposób bezpieczny (np. skrypty) i połączenie z nią nie zapewnia prywatności.">
 <!ENTITY identity.description.activeLoaded2 "Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.">
 

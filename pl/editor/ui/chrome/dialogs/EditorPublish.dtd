@@ -18,8 +18,8 @@
 <!ENTITY docDirList.label             "Podkatalog witryny dla tej strony:">
 <!ENTITY docDirList.accesskey         "P">
 <!ENTITY docDirList.tooltip           "Wskaż lub wprowadź nazwę zdalnego podkatalogu dla tej strony">
-<!ENTITY publishImgCheckbox.label     "Dołącz obrazki oraz inne pliki">
-<!ENTITY publishImgCheckbox.tooltip   "Wraz ze stroną WWW opublikuj obrazki i inne powiązane pliki">
+<!ENTITY publishImgCheckbox.label "Dołącz obrazy oraz inne pliki">
+<!ENTITY publishImgCheckbox.tooltip "Wraz ze stroną WWW opublikuj obrazy i inne powiązane pliki">
 <!ENTITY publishImgCheckbox.accesskey "c">
 <!ENTITY sameLocationRadio.label      "Użyj tej samej lokalizacji, co strona">
 <!ENTITY sameLocationRadio.tooltip    "Zachowaj pliki w tym samym katalogu co plik strony WWW">

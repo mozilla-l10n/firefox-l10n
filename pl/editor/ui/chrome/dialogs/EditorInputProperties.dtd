@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Właściwości pola formularza">
-<!ENTITY windowTitleImage.label "Właściwości obrazka formularza">
+<!ENTITY windowTitleImage.label "Właściwości obrazu formularza">
 <!ENTITY InputType.label "Typ pola">
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Tekst">
@@ -14,7 +14,7 @@
 <!ENTITY reset.value  "Przycisk „Zresetuj”">
 <!ENTITY file.value "Plik">
 <!ENTITY hidden.value "Ukryte">
-<!ENTITY image.value "Obrazek">
+<!ENTITY image.value "Obraz">
 <!ENTITY button.value "Przycisk">
 <!ENTITY InputSettings.label "Ustawienia pola">
 <!ENTITY InputName.label "Nazwa pola:">
@@ -43,5 +43,5 @@
 <!ENTITY AccessKey.accesskey "K">
 <!ENTITY Accept.label "Akceptuj typy:">
 <!ENTITY Accept.accesskey "c">
-<!ENTITY ImageProperties.label "Właściwości obrazka…">
+<!ENTITY ImageProperties.label "Właściwości obrazu…">
 <!ENTITY ImageProperties.accesskey "z">

@@ -14,7 +14,7 @@
 <!ENTITY paste.label "Wklej" >
 <!ENTITY print.label "Drukuj" >
 <!ENTITY find.label "Znajdź" >
-<!ENTITY image.label "Obrazek" >
+<!ENTITY image.label "Obraz">
 <!ENTITY hline.label "Linia pozioma" >
 <!ENTITY table.label "Tabela" >
 <!ENTITY link.label "Odnośnik" >

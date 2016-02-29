@@ -51,7 +51,7 @@
 
 <!ENTITY notSignedIn.label "Nie zalogowano">
 <!ENTITY signIn.label "Zaloguj">
-<!ENTITY profilePicture.tooltip "Zmień obrazek przypisany do konta">
+<!ENTITY profilePicture.tooltip "Zmień obraz przypisany do konta">
 <!ENTITY verifiedManage.label "Zarządzaj kontem">
 <!ENTITY disconnect.label "Rozłącz…">
 <!ENTITY verify.label "Zweryfikuj adres e-mail">
