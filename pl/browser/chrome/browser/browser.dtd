@@ -742,7 +742,6 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY social.directory.introText "Wybierz serwis, by dodać go do programu &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Więcej">
 
-<!ENTITY customizeMode.tabTitle "Dostosowywanie programu &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Dodatkowe funkcje i opcje">
 <!ENTITY customizeMode.menuAndToolbars.empty "Jeszcze więcej narzędzi?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Możesz wybierać spośród tysięcy dodatków">
