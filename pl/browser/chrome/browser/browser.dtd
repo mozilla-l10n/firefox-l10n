@@ -144,6 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Subskrybuj tę stronę…">
 <!ENTITY addCurPagesCmd.label "Dodaj zakładki do wszystkich kart…">
 <!ENTITY showAllBookmarks2.label "Wyświetl wszystkie zakładki">
+<!ENTITY recentBookmarks.label "Ostatnio dodane">
 <!ENTITY unsortedBookmarksCmd.label "Zakładki nieposortowane">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
 
