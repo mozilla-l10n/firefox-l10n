@@ -48,8 +48,9 @@
 <!ENTITY netTimeout.longDesc "<p>Ri ruxaq k'amaya'l xk'utüx, man xunimaj ta tzij richin nok chuqa' ri okik'amaya'l xtane' chi royob'exik jun  tzolin tzij.</p><ul><li>¿La tajin nik'ulwachitäj chi e k'ïy yekanon richin o xqupïx jun ch'utiramaj ri ruk'u'x samaj? Tatojtob'ej pa jun chik ch'utiramaj.</li><li>¿La man nitikïr ta nok pa juley chik ruxaq k'amaya'l? Tanik'oj ri rokem pa k'amab'ey akematz'ib'.</li><li>¿La tajin nichajïx ri akematz'ib' rik'in jun proxi o jun firewall? Jun itzel runuk'ulem nitikïr nuq'ät ri okem pa k'amaya'l.</li><li>¿La k'a k'o na ak'ayewal? Tak'ulb'ej ri runuk'unel ak'amab'ey o ri ya'öl ak'amaya'l richin yato' chi rusamajixik.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Man etaman ta ruwäch ri rub'eyal samaj">
+<!ENTITY unknownProtocolFound.longDesc "<p>Ri ochochib'äl nuya' retal jun rub'eyal samaj (achi'el <q>wxyz://</q>) man netamäx ta ruwäch ruma ri okik'amaya'l, ruma ri man nitikïr ta nok pa rub'eyal pa ri ruxaq k'amaya'l.</p><ul><li>¿La tajin natojtob'ej yatok chupam jun k'ïy k'oxom o jun chik chi samajib'äl? Tanik'oj we k'o chi k'o taq rutz'aqat rajowaxik k'o chi k'o chupam.</li><li>Jujun taq rub'eyal samaj rik'in jub'a' yekajo' taq kema' o taq tz'aqat kichin aj rox winaqi' richin ütz yesamäj.</li></ul>">
 
-
+<!ENTITY proxyConnectFailure.title "Xtzolïx pe ri okem pa k'amaya'l ruma ri proxi ruk'u's samaj">
 
 
 <!ENTITY proxyResolveFailure.title "Man xilitäj ta ri proxi ruk'u'x samaj">
