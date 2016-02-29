@@ -4,7 +4,8 @@
 
 <!ENTITY window.title                 "Anive Ehapykueho">
 <!ENTITY window.width                 "40em">
+<!ENTITY window.height                "8em">
 
-
-
+<!ENTITY doNotTrackCheckbox.label     "Ani Cherapykueho Jeporu">
+<!ENTITY doNotTrackCheckbox.accesskey "J">
 
