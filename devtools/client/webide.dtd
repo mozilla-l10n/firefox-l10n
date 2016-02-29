@@ -64,7 +64,7 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!-- zoom -->
-
+<!ENTITY key_zoomin2 "=">
 
 
 <!-- reload WebIDE and devtools from local checkout -->
@@ -168,7 +168,7 @@
 
 <!ENTITY simulator_reset "Buyisela Iidifolthi">
 
-
+<!ENTITY simulator_software "Isoftwe">
 <!ENTITY simulator_version "Uguqulelo">
 
 
