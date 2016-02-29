@@ -8,7 +8,7 @@
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
 
-
+<!ENTITY toolboxNextTool.key           "]">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey, fullZoomEnlargeCmd.commandkey2,
