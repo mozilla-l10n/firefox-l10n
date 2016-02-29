@@ -20,8 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arhivirani ping podaci">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Pingaj podatkovni zaslon:">
 
+<!ENTITY aboutTelemetry.structured "Strukturirano">
 
+<!ENTITY aboutTelemetry.raw "Neobrađeni JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Prikaži podatke podsesije">
 
@@ -31,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Stariji ping &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Neobrađeni ping podaci ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Tjedan">
 
