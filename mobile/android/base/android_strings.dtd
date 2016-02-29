@@ -736,4 +736,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_summary "แตะเพื่อเรียนรู้เพิ่มเติม">
