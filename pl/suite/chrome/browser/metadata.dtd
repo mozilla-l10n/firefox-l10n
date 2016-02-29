@@ -5,7 +5,7 @@
 <!ENTITY no-properties.label "Brak ustawionych właściwości.">
 
 <!ENTITY caption.label "Właściwości elementu">
-<!ENTITY image-sec.label "Właściwości obrazka">
+<!ENTITY image-sec.label "Właściwości obrazu">
 <!ENTITY image-url.label "Adres:">
 <!ENTITY image-desc.label "Opis:">
 <!ENTITY image-alt.label "Tekst alternatywny:">

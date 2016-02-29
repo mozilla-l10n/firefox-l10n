@@ -39,7 +39,7 @@
 <!ENTITY newWindowRadio.accesskey "N">
 <!ENTITY existingWindowRadio.label "Istniejącym oknie">
 <!ENTITY existingWindowRadio.accesskey "e">
-<!ENTITY disableContent.label "Blokuj obrazki i inną treść ze zdalnych serwerów">
+<!ENTITY disableContent.label "Blokuj obrazy i inną treść ze zdalnych serwerów">
 <!ENTITY disableContent.accesskey "B">
 <!ENTITY showCondensedAddresses.label "Pokazuj tylko nazwy kontaktów dla nadawców z mojej książki adresowej">
 <!ENTITY showCondensedAddresses.accesskey "o">

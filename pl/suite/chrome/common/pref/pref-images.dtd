@@ -2,22 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.images.title "Obrazki">
+<!ENTITY pref.images.title "Obrazy">
 
-<!ENTITY imageBlocking.label "Zasady akceptowania obrazków">
+<!ENTITY imageBlocking.label "Zasady akceptowania obrazów">
 
-<!ENTITY imageDetails "Ustawienia pobierania obrazków ze stron WWW.">
+<!ENTITY imageDetails "Ustawienia pobierania obrazów ze stron WWW.">
 
-<!ENTITY loadAllImagesRadio.label "Pobieraj wszystkie obrazki">
+<!ENTITY loadAllImagesRadio.label "Pobieraj wszystkie obrazy">
 <!ENTITY loadAllImagesRadio.accesskey "b">
-<!ENTITY loadOrgImagesRadio.label "Pobieraj obrazki pochodzące wyłącznie z serwera, z którym pierwotnie nawiązano połączenie">
+<!ENTITY loadOrgImagesRadio.label "Pobieraj obrazy pochodzące wyłącznie z serwera, z którym pierwotnie nawiązano połączenie">
 <!ENTITY loadOrgImagesRadio.accesskey "n">
-<!ENTITY loadNoImagesRadio.label "Nie pobieraj żadnych obrazków">
+<!ENTITY loadNoImagesRadio.label "Nie pobieraj żadnych obrazów">
 <!ENTITY loadNoImagesRadio.accesskey "a">
 <!ENTITY viewPermissions.label "Zarządzaj uprawnieniami">
 <!ENTITY viewPermissions.accesskey "Z">
-<!ENTITY animLoopingTitle.label "Animowane obrazki powinny być odtworzone">
-<!ENTITY animLoopAsSpecified.label "Tyle razy, ile jest to określone we właściwościach obrazka">
+<!ENTITY animLoopingTitle.label "Animowane obrazy powinny być odtworzone">
+<!ENTITY animLoopAsSpecified.label "Tyle razy, ile jest to określone we właściwościach obrazu">
 <!ENTITY animLoopAsSpecified.accesskey "T">
 <!ENTITY animLoopOnce.label "Raz">
 <!ENTITY animLoopOnce.accesskey "R">

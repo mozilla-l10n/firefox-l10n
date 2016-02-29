@@ -9,7 +9,7 @@
 <!ENTITY useSiteIcons.accesskey "k">
 <!ENTITY useFavIcons.label "Wymuszaj wyszukiwanie ikon dla witryn, które ich nie definiują">
 <!ENTITY useFavIcons.accesskey "W">
-<!ENTITY enableAutomaticImageResizing.label "Dostosuj rozmiar dużych obrazków do okna przeglądarki">
+<!ENTITY enableAutomaticImageResizing.label "Dostosuj rozmiar dużych obrazów do okna przeglądarki">
 <!ENTITY enableAutomaticImageResizing.accesskey "d">
 <!ENTITY useSmoothScroll.label "Używaj płynnego przewijania">
 <!ENTITY useSmoothScroll.accesskey "U">

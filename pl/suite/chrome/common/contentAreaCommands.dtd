@@ -47,15 +47,15 @@
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "Pokaż informacje o ramce">
 <!ENTITY viewFrameInfoCmd.accesskey "i">
-<!ENTITY fitImageCmd.label "Dopasuj obrazek do okna">
+<!ENTITY fitImageCmd.label "Dopasuj obraz do okna">
 <!ENTITY fitImageCmd.accesskey "D">
-<!ENTITY reloadImageCmd.label "Odśwież obrazek">
+<!ENTITY reloadImageCmd.label "Odśwież obraz">
 <!ENTITY reloadImageCmd.accesskey "e">
-<!ENTITY viewImageCmd.label "Pokaż obrazek">
+<!ENTITY viewImageCmd.label "Pokaż obraz">
 <!ENTITY viewImageCmd.accesskey "P">
 <!ENTITY viewVideoCmd.label "Pokaż wideo">
 <!ENTITY viewVideoCmd.accesskey "i">
-<!ENTITY viewBGImageCmd.label "Pokaż obrazek tła">
+<!ENTITY viewBGImageCmd.label "Pokaż obraz tła">
 <!ENTITY viewBGImageCmd.accesskey "t">
 <!ENTITY setDesktopBackgroundCmd.label "Ustaw tapetę…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "t">
@@ -77,8 +77,8 @@
 <!ENTITY saveLinkAsCmd.label "Zapisz element docelowy jako…">
 <!ENTITY saveLinkCmd.label "Zapisz element docelowy">
 <!ENTITY saveLinkCmd.accesskey "s">
-<!ENTITY saveImageAsCmd.label "Zapisz obrazek jako…">
-<!ENTITY saveImageCmd.label "Zapisz obrazek">
+<!ENTITY saveImageAsCmd.label "Zapisz obraz jako…">
+<!ENTITY saveImageCmd.label "Zapisz obraz">
 <!ENTITY saveImageCmd.accesskey "b">
 <!ENTITY saveVideoCmd.label "Zapisz wideo jako…">
 <!ENTITY saveVideoCmd.accesskey "w">
@@ -86,7 +86,7 @@
 <!ENTITY saveAudioCmd.accesskey "d">
 <!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika">
 <!ENTITY copyLinkCmd.accesskey "K">
-<!ENTITY copyImageCmd.label "Kopiuj obrazek">
+<!ENTITY copyImageCmd.label "Kopiuj obraz">
 <!ENTITY copyImageCmd.accesskey "b">
 <!ENTITY copyVideoURLCmd.label "Kopiuj adres wideo">
 <!ENTITY copyVideoURLCmd.accesskey "o">
