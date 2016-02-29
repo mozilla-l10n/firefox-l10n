@@ -650,7 +650,6 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY spellAddDictionaries.accesskey "o">
 
 <!ENTITY editBookmark.done.label                     "Gotowe">
-<!ENTITY editBookmark.cancel.label                   "Anuluj">
 <!ENTITY editBookmark.removeBookmark.accessKey       "U">
 
 <!ENTITY identity.connectionSecure "Zabezpieczone połączenie">
