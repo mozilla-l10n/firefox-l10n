@@ -215,6 +215,6 @@
 <!ENTITY simulator_device "Uređaj">
 <!ENTITY simulator_screenSize "Zaslon">
 <!ENTITY simulator_pixelRatio "Odnos piksela">
-
-
-
+<!ENTITY simulator_tv_data "TV simulacija">
+<!ENTITY simulator_tv_data_open "Konfiguracijski podaci">
+<!ENTITY simulator_tv_data_open_button "Otvori konfiguracijski direktorij…">
