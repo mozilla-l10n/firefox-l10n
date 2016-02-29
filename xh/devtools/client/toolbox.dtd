@@ -82,6 +82,8 @@ values from browser.dtd.  -->
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
+<!ENTITY options.disableCache.label2     "Yekisa iKhetshi (xa ithulbhoksi ivuliwe)">
+
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
