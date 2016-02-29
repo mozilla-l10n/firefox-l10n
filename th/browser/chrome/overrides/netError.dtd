@@ -165,7 +165,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY errorReporting.learnMore "เรียนรู้เพิ่ม…">
+<!ENTITY errorReporting.learnMore "เรียนรู้เพิ่มเติม…">
 <!ENTITY errorReporting.sending "กำลังส่งรายงาน">
 <!ENTITY errorReporting.sent "รายงานถูกส่งแล้ว">
 <!ENTITY errorReporting.tryAgain "ลองอีกครั้ง">

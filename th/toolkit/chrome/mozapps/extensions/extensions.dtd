@@ -229,7 +229,7 @@
      to cause this tab to appear. -->
 
 <!ENTITY experiment.info.label "นี้คืออะไร? การวัดและส่งข้อมูลทางไกลจะถูกทดลองติดตั้งและทำงานเป็นครั้งคราว">
-<!ENTITY experiment.info.learnmore "เรียนรู้เพิ่ม">
+<!ENTITY experiment.info.learnmore "เรียนรู้เพิ่มเติม">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "ตั้งค่าการวัดและส่งข้อมูลทางไกล">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">

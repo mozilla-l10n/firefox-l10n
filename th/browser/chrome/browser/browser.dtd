@@ -871,7 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingContentBlocked.message "การติดตาม">
 <!ENTITY trackingContentBlocked.moreinfo "บางส่วนของหน้าที่ติดตามกิจกรรมออนไลน์ของคุณถูกปิดกั้น">
-<!ENTITY trackingContentBlocked.learnMore "เรียนรู้เพิ่ม">
+<!ENTITY trackingContentBlocked.learnMore "เรียนรู้เพิ่มเติม">
 <!ENTITY trackingContentBlocked.options "ตัวเลือก">
 <!ENTITY trackingContentBlocked.unblock2.label "ปิดใช้งานการปกป้องสำหรับไซต์นี้">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "ป">
