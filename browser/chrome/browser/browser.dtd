@@ -746,7 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "安全连接">
 <!ENTITY identity.connectionNotSecure "连接不安全">
 <!ENTITY identity.connectionFile "此页面存储在您的计算机上。">
-<!ENTITY identity.connectionVerified1 "您已安全地链接至此站点，此网站的所有者是：">
+<!ENTITY identity.connectionVerified1 "您已安全地连接此网站，此网站运营者：">
 <!ENTITY identity.connectionInternal "这是一个安全的 &brandShortName; 页面。">
 <!ENTITY identity.insecureLoginForms2 "在此页上输入登录信息可能存在风险。">
 
