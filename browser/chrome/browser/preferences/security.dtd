@@ -24,6 +24,8 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  logins.label                  "ಲಾಗಿನ್‌ಗಳು">
+
 
 <!ENTITY  passwordExceptions.label      "ವಿನಾಯಿತಿಗಳು...">
 <!ENTITY  passwordExceptions.accesskey  "x">

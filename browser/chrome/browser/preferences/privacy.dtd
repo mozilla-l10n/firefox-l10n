@@ -2,19 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "ಜಾಡು ಇರಿಸದಂತೆ ರಕ್ಷಣೆಯನ್ನು ಬಳಸು">
+<!ENTITY  trackingProtectionAlways.label       "ಯಾವಾಗಲೂ">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 
 
-
-
-
-
-
-
+<!ENTITY  trackingProtectionNever.label        "ಎಂದಿಗೂ ಬೇಡ">
+<!ENTITY  trackingProtectionNever.accesskey    "N">
+<!ENTITY  trackingProtectionLearnMore.label    "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+<!ENTITY  trackingProtectionExceptions.label   "ವಿನಾಯಿತಿಗಳು...">
+<!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "ಜಾಡು ಇರಿಸುವಿಕೆ">
 
 
-
+<!ENTITY trackingProtectionPBMLearnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
