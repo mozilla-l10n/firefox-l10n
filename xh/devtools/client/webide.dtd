@@ -41,7 +41,7 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
 
-
+<!ENTITY runtimeMenu_showSettings_label "Iisetingi Zesixhobo">
 
 
 <!ENTITY viewMenu_label "Jonga">
@@ -142,7 +142,7 @@
 <!-- Device Preferences -->
 
 
-
+<!ENTITY devicepreference_newtext "Ixabiso lesikhethwa">
 
 <!-- Device Settings -->
 
