@@ -26,7 +26,8 @@
 
 <!ENTITY  logins.label                  "ಲಾಗಿನ್‌ಗಳು">
 
-
+<!ENTITY  rememberLogins.label          "ತಾಣಗಳಿಗಾಗಿ ಲಾಗಿನ್‌ಗಳನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊ">
+<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "ವಿನಾಯಿತಿಗಳು...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -35,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸು...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-
+<!ENTITY  savedLogins.label              "ಉಳಿಸಿದ ಲಾಗಿನ್‌ಗಳು...">
+<!ENTITY  savedLogins.accesskey          "L">

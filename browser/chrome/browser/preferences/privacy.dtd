@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "ಇತಿಹಾಸ">
 
@@ -66,7 +66,7 @@
 <!ENTITY  historyHeader.remember.label     "ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ">
 <!ENTITY  historyHeader.dontremember.label "ಎಂದಿಗೂ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಡ">
 <!ENTITY  historyHeader.custom.label       "ಇತಿಹಾಸಕ್ಕಾಗಿ ನಿಮ್ಮ ಇಚ್ಛೆಯ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸಿ">
-<!ENTITY  historyHeader.post.label         "">
+<!ENTITY  historyHeader.post.label         "‌">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ನಿಮ್ಮ ವೀಕ್ಷಣೆ, ಇಳಿಕೆ, ಫಾರ್ಮ್ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ ಹಾಗು ನೀವು ಭೇಟಿ ನೀಡುವ ತಾಣಗಳ ಕುಕಿಗಳನ್ನು ಇರಿಸಿಕೊಳ್ಳುತ್ತದೆ.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
