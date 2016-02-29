@@ -463,7 +463,7 @@
 
 <!ENTITY mixed_content_blocked_all1 "Program &brandShortName; zablokował niezabezpieczoną treść na tej stronie.">
 <!ENTITY mixed_content_blocked_some1 "Program &brandShortName; zablokował część niezabezpieczonej treści na tej stronie.">
-<!ENTITY mixed_content_display_loaded1 "Części tej strony (np. obrazy) nie są niezabezpieczone.">
+<!ENTITY mixed_content_display_loaded1 "Części tej strony (np. obrazy) są niezabezpieczone.">
 <!ENTITY mixed_content_protection_disabled1 "Ochrona przed niezabezpieczoną treścią jest wyłączona.">
 
 <!ENTITY doorhanger_tracking_title "Ochrona przed śledzeniem">
