@@ -78,7 +78,7 @@
 
 <!ENTITY runtimePanel_installsimulator "Fakela isixhobo esakhelwe ukulinganisa">
 
-
+<!ENTITY runtimePanel_nousbdevice "Akusiboni isixhobo sakho?">
 
 <!-- Lense -->
 <!ENTITY details_warning_header "Izilumkiso">
