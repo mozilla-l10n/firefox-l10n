@@ -26,6 +26,8 @@
   -  for the automation tab view. -->
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
+
+<!ENTITY webAudioEditorUI.inspectorTitle  "Umhloli weAudioNode">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
