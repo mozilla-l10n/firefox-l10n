@@ -109,6 +109,8 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
+<!ENTITY options.usedeveditiontheme.label   "Sebenzisa umxholo webhrawza woHlelo Lomphuhlisi">
+
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
