@@ -112,6 +112,8 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "اللغة">
 <!ENTITY pref_category_language_summary "غيّر لغة المتصفح">
 <!ENTITY pref_browser_locale "لغة المتصفّح">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -186,7 +188,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "أضيفت \u0027&formatS;\u0027 إلى صفحة البداية">
 <!ENTITY pref_category_home_content_settings "إعدادات المحتوى">
-
+<!ENTITY pref_home_updates "التحديثات التلقائية">
 <!ENTITY pref_home_updates_enabled "مفعّلة">
 <!ENTITY pref_home_updates_wifi "عبر واي فاي فقط">
 <!ENTITY pref_home_suggested_sites "اعرض اقتراحات الموقع">
@@ -210,11 +212,13 @@
 <!ENTITY home_homepage_hint_user_address "أدخل عنوانًا أو عبارة بحث">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "عام">
+<!ENTITY pref_header_search "البحث">
 <!ENTITY pref_header_privacy_short "الخصوصية">
 <!ENTITY pref_header_accessibility "الإتاحة">
-
+<!ENTITY pref_header_advanced "متقدّم">
 <!ENTITY pref_header_help "مساعدة">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "الكعكات">
 <!ENTITY pref_cookies_accept_all "مفعّلة">
@@ -222,12 +226,12 @@
 <!ENTITY pref_cookies_disabled "مُعطّلة">
 
 <!ENTITY pref_tap_to_load_images_title2 "أظهِر الصور">
-
-
+<!ENTITY pref_tap_to_load_images_enabled "دائمًا">
+<!ENTITY pref_tap_to_load_images_data "عبر واي فاي فقط">
 <!ENTITY pref_tap_to_load_images_disabled2 "امنعها">
 
 <!ENTITY pref_tracking_protection_title "الحماية من التعقّب">
-
+<!ENTITY pref_tracking_protection_summary3 "مفعّل في التصفح الخاص">
 <!ENTITY pref_donottrack_title "لا تتعقبني">
 <!ENTITY pref_donottrack_summary "سيُخبر &brandShortName; المواقع أنك لا تريدها أن تتعقبك">
 
