@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "환영합니다">
 <!ENTITY  onboard_start_message3 "&brandShortName;와 함께 하는 브라우징">
 <!ENTITY  onboard_start_subtext3 "나만의 모바일 웹 브라우징 경험을 만들어보세요.">
-<!ENTITY  onboard_start_button_account "&brandShortName; 가입">
+
+<!ENTITY firstrun_urlbar_message "환영합니다 &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "쉽고 유용한 검색 추천으로 더 빠르게 찾으세요.">
+<!ENTITY firstrun_bookmarks_title "방문목록">
+<!ENTITY firstrun_bookmarks_message "좋아하는 내용을, 맨 앞에 두세요">
+<!ENTITY firstrun_bookmarks_subtext "북마크와 방문기록에서 검색하여 결과를 가져옵니다.">
+<!ENTITY firstrun_data_title "데이터">
+<!ENTITY firstrun_data_message "더 적은 데이터, 더 많은 절약">
+<!ENTITY firstrun_data_subtext "데이터 사용량을 줄이기 위해 방문하는 모든 사이트의 이미지를 차단합니다.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, 항상 당신 곁에">
+<!ENTITY firstrun_sync_subtext "탭, 암호, 그리고 여러분이 사용하는 모든 것을 동기화합니다.">
+<!ENTITY firstrun_signin_message "연결 및 시작하기">
+<!ENTITY firstrun_signin_button "Sync 로그인">
 <!ENTITY  onboard_start_button_browser "브라우징 시작">
 <!ENTITY firstrun_button_next "다음">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; 간소화 버전으로 더 쉽고 안전하고 사용하세요.">
-
-<!ENTITY firstrun_import_title "가져오기">
-<!ENTITY firstrun_import_message "&brandShortName;에 오신 것을 환영합니다">
-<!ENTITY firstrun_import_subtext "다른 브라우저에서 북마크와 방문 기록을 가져옵니다.">
-<!ENTITY firstrun_import_action "&brandShortName;로 전송하기">
-<!ENTITY firstrun_import_dialog_button "전송">
-<!ENTITY firstrun_import_progress_title "전송 중">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi 원격 디버깅">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi 디버깅을 하려면 QR 코드 리더 앱을 설치해야 합니다.">
 <!ENTITY pref_remember_signons2 "로그인 저장">
-<!ENTITY pref_open_external_urls_privately_title "사생활 보호 모드로 링크 열기">
-<!ENTITY pref_open_external_urls_privately_summary "&brandShortName;에서 열린 모든 외부 링크">
 <!ENTITY pref_manage_logins "로그인 관리">
 
 <!ENTITY pref_category_home "홈">
@@ -182,7 +186,7 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "홈페이지에 \'&formatS;\' 추가됨">
+<!ENTITY home_add_panel_installed "홈페이지에 \&apos;&formatS;\&apos; 추가됨">
 <!ENTITY pref_category_home_content_settings "콘텐츠 설정">
 <!ENTITY pref_home_updates "자동 업데이트">
 <!ENTITY pref_home_updates_enabled "사용함">
@@ -245,8 +249,14 @@
 <!ENTITY tab_queue_prompt_title "여러 개의 링크를 열까요?">
 <!ENTITY tab_queue_prompt_text4 "다음번 &brandShortName;를 열 때까지 저장합니다.">
 <!ENTITY tab_queue_prompt_tip_text2 "나중에 설정에서 변경할 수 있습니다">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "다른 앱 위에 나타내기 허용 켜기">
 <!ENTITY tab_queue_prompt_positive_action_button "활성화">
 <!ENTITY tab_queue_prompt_negative_action_button "나중에 하기">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "설정으로 이동">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +266,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1개 탭 대기 중">
+
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "\&quot;여러개의 링크 열기\&quot;를 하시려면, &brandShortName; 에 대한 \&apos;다른 앱 위에 나타내기\&apos; 권한을 활성화해주세요">
 
 <!ENTITY pref_char_encoding "문자 인코딩 표시">
 <!ENTITY pref_char_encoding_on "메뉴 보기">
@@ -524,18 +538,11 @@ size. -->
 <!ENTITY home_last_tabs_empty "이전 종료 시 방문한 탭이 여기에 표시됩니다.">
 <!ENTITY home_open_all "모두 열기">
 <!ENTITY home_most_recent_empty "가장 최근에 방문한 웹사이트가 여기에 표시됩니다.">
+<!ENTITY home_selected_empty "선택한 기간에 방문한 웹사이트가 여기 표시됩니다.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "잠깐! &formatS1;새 사생활 보호 탭&formatS2;을 사용하면 방문 내역이 저장되지 않습니다.">
 <!ENTITY home_reading_list_empty "저장한 글이 여기에 표시됩니다.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "팁: 주소창에 &formatI; 아이콘이 나타나면, 길게 눌러 읽기 목록에 글을 저장하세요.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "팁: 주소창에 읽기 모드 버튼이 나타나면, 길게 눌러 읽기 목록에 글을 저장하세요.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -594,6 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "보안 연결">
 <!ENTITY identity_connection_insecure "비보안 연결">
 <!ENTITY identity_login_insecure "이 페이지는 안전하지 않습니다. 로그인 정보가 취약할 수 있습니다.">
+<!ENTITY identity_connection_chromeui "안전한 &brandShortName; 페이지입니다">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;가 이 페이지의 비보안 요소들을 차단했습니다.">
@@ -653,7 +661,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "&brandShortName;의 업데이트 있음">
 <!ENTITY updater_apply_select2 "업데이트">
 
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "파일을 다운로드 받고 업데이트하기 위해, &brandShortName; 가 저장소에 접근하는 것을 허가합니다.">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "허용">
+
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "새 손님 세션">
 <!ENTITY exit_guest_session "손님 세션 나가기">
 <!ENTITY guest_session_dialog_continue "계속">
@@ -741,8 +756,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "이는 북마크 가져오기, 탭 복구, 자동 업데이트를 포함합니다. 가족 구성원들이 사용하기에 알맞은 간편 설정은 비활성화됩니다.">
 <!ENTITY restrictable_feature_camera_microphone "카메라와 마이크">
 <!ENTITY restrictable_feature_camera_microphone_description "가족 구성원이 웹 사이트 상에서 실시간으로 대화하도록 허용합니다.">
-<!ENTITY restrictable_feature_data_choices "데이터 선택">
-<!ENTITY restrictable_feature_data_choices_description "Firefox 성능 향상을 위해 Mozilla에 사용 정보를 보낼지 여부를 선택합니다.">
+<!ENTITY restrictable_feature_block_list "차단 목록">
+<!ENTITY restrictable_feature_block_list_description "민감한 콘텐츠를 포함하는 웹사이트를 차단합니다.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
