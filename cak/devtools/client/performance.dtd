@@ -51,7 +51,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
-
+<!ENTITY performanceUI.toolbar.js-calltree "Rucholajem ri taq oyonïk">
 
 <!ENTITY performanceUI.toolbar.memory-calltree "Taq jachoj">
 
