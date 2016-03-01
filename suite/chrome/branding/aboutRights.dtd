@@ -1,17 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE This file is very similar to the one in Firefox from browser/locales/en-US/chrome/browser/aboutRights.dtd so you can use that file as a starting point -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle "O vašich právech">
-<!ENTITY rights.intro-header "O vašich právech">
+<!ENTITY rights.pagetitle       "O vašich právech">
+<!ENTITY rights.intro-header    "O vašich právech">
 <!ENTITY rights.intro "&brandFullName; je svobodný software s otevřeným zdrojovým kódem, který je vytvářen tisíci dobrovolníky z celého světa. Je zde ale několik věcí, které byste měli vědět:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
-     split into chunks for text before the link, the link test, and the text
+     split into chunks for text before the link, the link text, and the text
      after the link. If a localized grammar doesn't need the before or after
      chunk, it can be left blank.
 
@@ -48,19 +47,21 @@
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Služby doplňků: ">
-<!ENTITY rights.addons-term1 "Otevřít předvolby aplikace">
 <!ENTITY rights.addons-b "Ve výchozím nastavení &brandShortName; navrhuje doplňky na stránce &view.discover.label; a v pravidelných intervalech kontroluje jejich aktualizace. Pokud si přejete tyto funkce zakázat a zamezit tak přenosu informací o nainstalovaných doplňcích na server, postupujte podle těchto kroků:">
+<!ENTITY rights.addons-term1 "Otevřít předvolby aplikace">
 <!ENTITY rights.addons-term2 "Klepněte na kartu &smart.label; v kategorii &advance.label;">
-<!ENTITY rights.addons-term3 "Odškrtněte předvolby &quot;&autoAddOnsUpdates.label;&quot; a &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term3 "Zrušte zaškrtnutí předvolby &quot;&autoAddOnsUpdates.label;&quot; a &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Služby doplňků jsou nyní vypnuty">
+
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Bezpečné prohlížení: ">
 <!ENTITY rights.safebrowsing-b "Zakázání funkce bezpečného prohlížení není doporučováno, protože vám umožní navštěvovat nebezpečné stránky. Pokud ale chcete tuto funkci zakázat, postupujte podle těchto kroků:">
 <!ENTITY rights.safebrowsing-term1 "Otevřete předvolby aplikace">
 <!ENTITY rights.safebrowsing-term2 "Zvolte panel &security.label;">
-<!ENTITY rights.safebrowsing-term3 "Odškrtněte předvolby &quot;&blockAttackSites.label;&quot; a &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term3 "Zrušte zaškrtnutí předvolby &quot;&blockAttackSites.label;&quot; a &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Bezpečné prohlížení je nyní vypnuto">
+
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; může libovolně ukončit nebo změnit užívání Služeb.">
@@ -69,3 +70,4 @@
 <!ENTITY rights.webservices-term4 "&vendorShortName;, její přispěvatelé, držitelé licencí a distributoři nejsou mimo výjimky daných zákonem zodpovědni za žádné nepřímé, mimořádné, nahodilé škody (a ani za sankční náhradu škody) vyplývající ze způsobu použití nebo ze způsobu souvisejícího s použitím aplikace &brandShortName; a Služeb. Souhrnná odpovědnost za těchto podmínek nepřesáhne $500 (pět set dolarů). Některé právní systémy nepovolují vyloučení odpovědnosti za určité škody, v takovém případě tato vyloučení a omezení pro vás neplatí.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; může dle nutnosti tyto podmínky libovolně aktualizovat. Tyto podmínky nelze měnit či zrušit bez písemného souhlasu organizace &vendorShortName;.">
 <!ENTITY rights.webservices-term6 "Tyto podmínky se řídí zákony státu Kalifornie, U.S.A., vyjma neshod se zákonnými ustanoveními. Pokud se ukáže, že některá část těchto podmínek je neplatná či nevynutitelná, zůstávají zbylé podmínky v plné platnosti. V případě rozporu mezi touto přeloženou verzí podmínek a anglickou verzí podmínek je autoritativní anglická verze.">
+
