@@ -1,12 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title "O vašich právech">
-<!ENTITY rights.intro-header "O vašich právech">
+<!ENTITY rights.title            "O vašich právech">
+<!ENTITY rights.intro-header     "O vašich právech">
 <!ENTITY rights.intro "&brandFullName; je svobodný software s otevřeným zdrojovým kódem, který je vytvářen tisíci dobrovolníky z celého světa. Je zde ale několik věcí, které byste měli vědět:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
-     split into chunks for text before the link, the link test, and the text
+     split into chunks for text before the link, the link text, and the text
      after the link. If a localized grammar doesn't need the before or after
      chunk, it can be left blank.
 
@@ -49,7 +52,7 @@
 <!ENTITY rights.webservices-b "Rozšířené,">
 <!ENTITY rights.webservices-c " s následnou volbou karty ">
 <!ENTITY rights.webservices-d "Aktualizace">
-<!ENTITY rights.webservices-e " a odškrtnutím položek v části „Automaticky kontrolovat aktualizace“.">
+<!ENTITY rights.webservices-e " a zrušením zaškrtnutí položek v části „Automaticky kontrolovat aktualizace“.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Zde by měl být k dispozici krátký popis začleněných služeb webových serverů spolu s instrukcemi, jak je zakázat.">
