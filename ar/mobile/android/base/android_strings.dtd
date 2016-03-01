@@ -16,7 +16,7 @@
 <!ENTITY firstrun_bookmarks_message "مفضلاتك، في الأمام و الوسط">
 <!ENTITY firstrun_bookmarks_subtext "اجلب النتائج من العلامات و التّأريخ عندما تبحث.">
 <!ENTITY firstrun_data_title "البيانات">
-<!ENTITY firstrun_data_message "بيانات أقل، توفير أكثر">
+<!ENTITY firstrun_data_message "بيانات أقل، توفير أكبر">
 <!ENTITY firstrun_data_subtext "احجب الصور لتوفير البيانات في كل موقع تزوره">
 <!ENTITY firstrun_sync_title "تزامُن">
 <!ENTITY firstrun_sync_message "&brandShortName;، معك دائما">
@@ -235,8 +235,9 @@
 <!ENTITY pref_donottrack_title "لا تتعقبني">
 <!ENTITY pref_donottrack_summary "سيُخبر &brandShortName; المواقع أنك لا تريدها أن تتعقبك">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "مفعّل">
+<!ENTITY pref_tracking_protection_enabled_pb "مفعّل في التصفح الخاص">
+<!ENTITY pref_tracking_protection_disabled "مُعطّل">
 
 <!ENTITY tracking_protection_prompt_title "الآن مع حماية من التعقّب">
 <!ENTITY tracking_protection_prompt_text "يمنع عناصر التعقب لئلا تقلق بشأنها.">
@@ -270,7 +271,7 @@
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
 <!ENTITY pref_char_encoding_off "لا تُظهر القائمة">
-
+<!ENTITY pref_clear_private_data "امسح البيانات الخاصة">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "امسح الان">
@@ -307,9 +308,9 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "فعّل التقريب دائمًا">
 <!ENTITY pref_zoom_force_enabled_summary "تخطى الإعدادات لتتمكن من تقريب أي صفحة">
 <!ENTITY pref_voice_input "إدخال الصوت">
-
+<!ENTITY pref_voice_input_summary2 "اسمح بالأوامر الصّوتيّة في شريط المسار">
 <!ENTITY pref_qrcode_enabled "قارئ كود QR">
-
+<!ENTITY pref_qrcode_enabled_summary2 "اسمح بماسح QR في شريط المسار">
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
 <!ENTITY pref_sync2 "لِج">
@@ -373,16 +374,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "التحديثات التلقائية">
 <!ENTITY pref_update_autodownload_wifi "عبر واي فاي فقط">
 <!ENTITY pref_update_autodownload_never "أبدًا">
-
+<!ENTITY pref_update_autodownload_always "دائمًا">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "مساعدة">
 
 <!ENTITY quit "أغلق">
 
-
+<!ENTITY addons "الإضافات">
+<!ENTITY logins "جلسات الولوج">
 <!ENTITY downloads "التنزيلات">
 <!ENTITY char_encoding "ترميز المحارف">
 
@@ -399,7 +402,7 @@ size. -->
 <!ENTITY new_private_tab "لسان خاص جديد">
 <!ENTITY close_all_tabs "أغلق كل الألسنة">
 <!ENTITY close_private_tabs "أغلق الألسنة الخاصة">
-
+<!ENTITY tabs_normal "الألسنة">
 <!ENTITY tabs_private "خاص">
 <!ENTITY tabs_synced "مُزامَن">
 <!ENTITY set_image_fail "تعذر استخدام الصورة">
@@ -461,7 +464,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "التصفح في كل الشاشة">
-
+<!ENTITY pref_scroll_title_bar_summary2 "أخفِ شريط أدوات &brandShortName; عند تمرير الصفحة لأسفل">
 
 <!ENTITY pref_tab_queue_title2 "افتح روابط متعددة">
 <!ENTITY pref_tab_queue_summary3 "احفظها حتّى أفتح &brandShortName; ثانية">
@@ -521,6 +524,8 @@ size. -->
 <!ENTITY home_top_sites_add "أضف موقعًا">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "صفحة &brandShortName; الرئيسية">
 <!ENTITY home_history_title "التأريخ">
 <!ENTITY home_clear_history_button "امسح تأريخ التصفح">
 <!ENTITY home_clear_history_confirm "أمتأكد من أنك تريد مسح التأريخ؟">
@@ -617,6 +622,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "مُسحت البيانات الخاصة">
 <!ENTITY private_data_fail "تعذّر مسح بعض البيانات الخاصة">
 
+<!ENTITY bookmarkhistory_button_import "استورد">
 <!ENTITY bookmarkhistory_import_both "يستورد العلامات والتأريخ 
 من أندرويد">
 <!ENTITY bookmarkhistory_import_bookmarks "يستورد العلامات 
@@ -739,17 +745,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restrictable_feature_addons_installation "الإضافات">
 <!ENTITY restrictable_feature_addons_installation_description "أضف مزايا أو خصائص إلى فيرفكس. ملاحظة: يمكن للإضافات تعطيل قيود معينة.">
 <!ENTITY restrictable_feature_private_browsing "التصفح الخاص">
 <!ENTITY restrictable_feature_private_browsing_description "يسمح لأفراد العائلة بالتصفح بدون حفظ معلومات المواقع و الصفحات التي يزورونها.">
-
+<!ENTITY restrictable_feature_clear_history "امسح التأريخ">
 <!ENTITY restrictable_feature_clear_history_description "يسمح لأفراد العائلة بحذف معلومات المواقع و الصفحات التي يزورونها.">
 <!ENTITY restrictable_feature_advanced_settings "إعدادات متقدّمة">
 <!ENTITY restrictable_feature_advanced_settings_description "هذا يتضمن استيراد العلامات، و استعادة الألسنة، و التحديثات التلقائية. عطله لتبسيط الإعدادات فتكون مناسبة لأي فرد من أفراد العائلة.">
 <!ENTITY restrictable_feature_camera_microphone "الكمرة و المِكروفون">
 <!ENTITY restrictable_feature_camera_microphone_description "يسمح لأفراد العائلة بالتخاطب في نفس اللحظة عبر مواقع الوب.">
-
-
+<!ENTITY restrictable_feature_block_list "قائمة الحجب">
+<!ENTITY restrictable_feature_block_list_description "احجب المواقع التي تتضمن محتويات حساسة">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -764,4 +772,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_title "لم يعد &brandShortName; يدعم أندرويد 3">
+<!ENTITY eol_notification_summary "انقر لتطلع على المزيد">

@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "بنود الخدمة">
 <!ENTITY fxaccount_status_linkprivacy "تنبيه الخصوصية">
 <!ENTITY fxaccount_status_more "المزيد&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "اقطع الاتصال&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "أتريد إزالة حساب فَيَرفُكس؟">
 <!ENTITY fxaccount_remove_account_dialog_message "سيتوقف &brandShortName; عن مزامنة حسابك، لكن لن يحذف أيًا من بيانات تصفحك على هذا الجهاز.">
@@ -273,3 +273,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
+<!ENTITY old_sync_deprecated_notification_title "لِج لمتابعة المزامنة">
+<!ENTITY old_sync_deprecated_notification_content "لم يعد حسابك مدعوما">
