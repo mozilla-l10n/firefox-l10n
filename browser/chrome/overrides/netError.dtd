@@ -74,9 +74,11 @@
 ">
 
 <!ENTITY unsafeContentType.title "Unsafe File Type">
-<!ENTITY unsafeContentType.longDesc "<ul> 
+<!ENTITY unsafeContentType.longDesc "
+<ul> 
 <li>Please contact the web site owners to inform them of this problem.</li> 
-</ul>">
+</ul>
+">
 
 <!ENTITY netReset.title "The connection was reset">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -210,6 +212,15 @@ functionality specific to firefox. -->
 
 <!ENTITY sslv3Used.title "Unable to Connect Securely">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
-          "ssl_error_unsupported_version". -->
+     "ssl_error_unsupported_version". -->
 <!ENTITY sslv3Used.longDesc "Advanced info: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Learn More…">
+
+<!ENTITY weakCryptoUsed.title "Your connection is not secure">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "ssl_error_no_cypher_overlap". -->
+<!ENTITY weakCryptoUsed.longDesc "Advanced info: ssl_error_no_cypher_overlap">
+<!ENTITY weakCryptoUsed.learnMore "Learn More…">
+<!ENTITY weakCryptoAdvanced.title "Advanced">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe.">
+<!ENTITY weakCryptoAdvanced.override "(Not secure) Try loading <span class='hostname'></span> using outdated security">
