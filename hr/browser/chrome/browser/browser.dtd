@@ -749,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ova stranica je spremljena na vaše računalo.">
 <!ENTITY identity.connectionVerified1 "Sigurno ste povezani na ovu stranicu, koju pokreće:">
 <!ENTITY identity.connectionInternal "Ovo je sigurna &brandShortName; stranica.">
-
+<!ENTITY identity.insecureLoginForms2 "Prijave na ovoj stranici mogu biti kompromitirane.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; je blokirao dijelove ove stranice koji nisu sigurni.">
