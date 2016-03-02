@@ -214,6 +214,6 @@
 <!ENTITY simulator_device "Mba'eporurã">
 <!ENTITY simulator_screenSize "Mba'erechaha">
 <!ENTITY simulator_pixelRatio "Pixel tuichakue">
-
+<!ENTITY simulator_tv_data "TV Ra'ãngaha">
 <!ENTITY simulator_tv_data_open "Emboheko Mba'ekuaarã">
 <!ENTITY simulator_tv_data_open_button "Marandurenda'aty Ñembohekorã Jeike...">
