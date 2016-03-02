@@ -12,17 +12,17 @@
 
 <!ENTITY firstrun_urlbar_message "Ongi etorri &brandShortName;(e)ra">
 
+<!ENTITY firstrun_bookmarks_title "Historia">
 
 
-
-
+<!ENTITY firstrun_data_title "Datuak">
 
 
 <!ENTITY firstrun_sync_title "Sync">
 
 
 
-
+<!ENTITY firstrun_signin_button "Hasi saioa Sync-en">
 <!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
 <!ENTITY firstrun_button_next "Hurrengoa">
 
@@ -255,6 +255,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Orain ez">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Joan ezarpenetara">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -621,6 +622,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Datu pribatuak garbituta">
 <!ENTITY private_data_fail "Datu pribatu batzuk ezin izan dira garbitu">
 
+<!ENTITY bookmarkhistory_button_import "Inportatu">
 <!ENTITY bookmarkhistory_import_both "Laster-markak eta historia inportatzen 
 Android-etik">
 <!ENTITY bookmarkhistory_import_bookmarks "Laster-markak inportatzen 
@@ -662,6 +664,7 @@ Android-etik">
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Baimendu">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Gonbidatu saio berria">
@@ -751,7 +754,7 @@ Android-etik">
 <!ENTITY restrictable_feature_advanced_settings_description "Honen barruan daude laster-markak inportatzea, fitxak berreskuratzea eta eguneraketa automatikoak. Desgaitu faimiliakideentzat egokiak diren ezarpen sinplifikatuetarako.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera eta mikrofonoa">
 <!ENTITY restrictable_feature_camera_microphone_description "Familiakideek webguneetan denbora errealeko komunikazioak izatea baimentzen du.">
-
+<!ENTITY restrictable_feature_block_list "Blokeo-zerrenda">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
