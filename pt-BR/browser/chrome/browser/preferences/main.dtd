@@ -42,4 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Dica: São usados perfis separados. Use o Sync para compartilhar dados entre eles.">
 <!ENTITY getStarted.label                 "Começar a usar o Sync…">
 
-<!ENTITY e10sEnabled.label                "Ativar o multi-processo do &brandShortName;">
+<!ENTITY e10sEnabled.label                "Ativar o multiprocesso do &brandShortName;">
