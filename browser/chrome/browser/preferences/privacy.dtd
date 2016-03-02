@@ -80,7 +80,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "limpar todo o histórico">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Sempre usar o modo de navegação privada">
+<!ENTITY  privateBrowsingPermanent2.label "Sempre usar o modo de navegação privativa">
 <!ENTITY  privateBrowsingPermanent2.accesskey "v">
 
 <!ENTITY  rememberHistory2.label      "Memorizar histórico e downloads efetuados">
