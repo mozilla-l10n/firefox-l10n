@@ -141,6 +141,8 @@
 
 <!-- Device Preferences -->
 
+<!ENTITY devicepreference_title "Iipriferensi Zesixhobo">
+
 
 <!ENTITY devicepreference_newtext "Ixabiso lesikhethwa">
 
@@ -171,7 +173,7 @@
 <!ENTITY simulator_software "Isoftwe">
 <!ENTITY simulator_version "Uguqulelo">
 
-
+<!ENTITY simulator_hardware "Ihadwe">
 <!ENTITY simulator_device "Isixhobo">
 
 
