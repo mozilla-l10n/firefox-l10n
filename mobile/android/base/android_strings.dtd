@@ -95,7 +95,7 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "DEĞİŞTİR">
+<!ENTITY switch_button_message "GİT">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Bunu daha sonra Ayarlar\u0027dan değiştirebilisiniz">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Diğer uygulamaların üzerinde görüntülemeyi açın">
 <!ENTITY tab_queue_prompt_positive_action_button "Etkinleştir">
 <!ENTITY tab_queue_prompt_negative_action_button "Şimdi değil">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Ayarlar\u0027a gidin">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 sekme bekliyor">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "\&quot;Birden fazla bağlantıyı açmak\&quot; için lütfen &brandShortName; uygulamasının \&quot;diğer uygulamaların üzerinde görüntüleme\&quot; iznini etkinleştirin">
 
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
 <!ENTITY pref_char_encoding_on "Menüyü göster">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Son sekmeleriniz burada görünür.">
 <!ENTITY home_open_all "Hepsini aç">
 <!ENTITY home_most_recent_empty "Son ziyaret ettiğiniz siteler burada görünür.">
-
+<!ENTITY home_selected_empty "Seçtiğiniz zaman aralığında ziyaret ettiğiniz siteler burada görünür.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Pşşt: &formatS1;Yeni gizli sekme&formatS2; açarsanız geçmişinizin saklanmayacağını biliyor musunuz?">
