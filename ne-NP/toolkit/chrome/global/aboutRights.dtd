@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "बारेमा:अधिकारहरू">
 <!ENTITY rights.intro-header    "तपाईँको अधिकारहरूका बारेमा">
-
+<!ENTITY rights.intro "&brandFullName; एक खुल्ला तथा स्वतन्त्र स्रोत सफ्टवेयर हो, जुन दुनियाँ भरका हजारौं समुदाय द्वारा निर्मित छ। यहाँ तपाईँले थाहा हुनुपर्छ केही कुराहरू छन्:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -14,6 +14,8 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "&brandShortName; यी शर्तहरू अन्तर्गत उपलब्ध छ ">
 <!ENTITY rights.intro-point1b "मोजिल्ला सार्वजनिक इजाजतपत्र">
 
 
@@ -25,6 +27,8 @@
 <!ENTITY rights2.intro-point3b "&brandShortName; गोपनीयता निति">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "यो उत्पादन लागि कुनै पनि गोपनीयता नीति यहाँ सूचीबद्ध गर्नुपर्छ।">
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4b "सेवाका सर्तहरू">
 <!ENTITY rights.intro-point4c ".">
