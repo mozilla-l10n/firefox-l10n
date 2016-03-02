@@ -215,3 +215,6 @@
 <!ENTITY simulator_device "Apparaat">
 <!ENTITY simulator_screenSize "Skerm">
 <!ENTITY simulator_pixelRatio "Pikselferhâlding">
+<!ENTITY simulator_tv_data "Tf-simulaasje">
+<!ENTITY simulator_tv_data_open "Konfiguraasjegegevens">
+<!ENTITY simulator_tv_data_open_button "Konfiguraasjemap iepenje…">
