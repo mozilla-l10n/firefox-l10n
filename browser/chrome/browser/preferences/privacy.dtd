@@ -69,7 +69,7 @@
 <!ENTITY  historyHeader.remember.label     "Khumbula imbali">
 <!ENTITY  historyHeader.dontremember.label "Ungaze ukhumbule imbali">
 <!ENTITY  historyHeader.custom.label       "Sebenzisa iisethingi zesiqhelo kwimbali">
-<!ENTITY  historyHeader.post.label         "u200b">
+<!ENTITY  historyHeader.post.label         "​">
 
 <!ENTITY  rememberDescription.label      "I-&brandShortName; iya kukhumbula imbali yokubhrawuza, yokukhutshelwayo, yefom neyokukhangela ize igcine iikhukhi kwiwebhusayithi oyityelelayo.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
