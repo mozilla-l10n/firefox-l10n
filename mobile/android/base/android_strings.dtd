@@ -9,18 +9,24 @@
 <!ENTITY firstrun_panel_title_welcome "Wolkom">
 <!ENTITY onboard_start_message3 "Surf mei &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Meitsje jo mobile webbrowserûnderfining echt fan josels.">
-<!ENTITY onboard_start_button_account "Meld jo oan by &brandShortName;">
+
+<!ENTITY firstrun_urlbar_message "Wolkom by &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Fynd saken flugger mei handige keppelingen foar syksuggestjes.">
+<!ENTITY firstrun_bookmarks_title "Skiednis">
+<!ENTITY firstrun_bookmarks_message "Jo favoriten, sintraal">
+<!ENTITY firstrun_bookmarks_subtext "Sjoch resultaten út jo blêdwizers en skiednis wylst it sykjen.">
+<!ENTITY firstrun_data_title "Gegevens">
+<!ENTITY firstrun_data_message "Minder gegevens, mear besparje">
+<!ENTITY firstrun_data_subtext "Blokkear ôfbyldingen foar minder gegevensferkear by eltse besochte website.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, altyd oan jo side">
+<!ENTITY firstrun_sync_subtext "Syngronisearje jo ljepblêden, wachtwurden en mear, oeral wêr't jo it brûke.">
+<!ENTITY firstrun_signin_message "Meitsje ferbining en begjin">
+<!ENTITY firstrun_signin_button "Oanmelde by Sync">
 <!ENTITY onboard_start_button_browser "Start mei browsen">
 <!ENTITY firstrun_button_next "Folgjende">
 
 <!ENTITY  onboard_start_restricted1 "Bliuw feilich en yn kontrôle mei dizze ferienfâldige ferzje fan &brandShortName;.">
-
-<!ENTITY firstrun_import_title "Ymportearje">
-<!ENTITY firstrun_import_message "Wolkom by &brandShortName;">
-<!ENTITY firstrun_import_subtext "Ymportearje jo blêdwizers en skiednis fan in oare browser.">
-<!ENTITY firstrun_import_action "Oerbringe nei &brandShortName;">
-<!ENTITY firstrun_import_dialog_button "Oerbringe">
-<!ENTITY firstrun_import_progress_title "Oerbringe">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -170,8 +176,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging fia wifi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wifi-debugging vereist dat een QR-codelezer-app op uw apparaat is geïnstalleerd.">
 <!ENTITY pref_remember_signons2 "Oanmeldingen ûnthâlde">
-<!ENTITY pref_open_external_urls_privately_title "Keppelingen iepenje yn Priveenavigaasje">
-<!ENTITY pref_open_external_urls_privately_summary "Foar alle yn &brandShortName; iepene eksterne keppelingen">
 <!ENTITY pref_manage_logins "Oanmeldingen beheare">
 
 <!ENTITY pref_category_home "Startside">
@@ -245,8 +249,14 @@
 <!ENTITY tab_queue_prompt_title "Mear keppelingen iepenje?">
 <!ENTITY tab_queue_prompt_text4 "Bewarje se foar de folgjende kear dat jo &brandShortName; iepenje.">
 <!ENTITY tab_queue_prompt_tip_text2 "Jo kinne dit letter wizigje yn Ynstellingen">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Set Oer oare apps tekenje oan">
 <!ENTITY tab_queue_prompt_positive_action_button "Ynskeakelje">
 <!ENTITY tab_queue_prompt_negative_action_button "No net">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Nei Ynstellingen">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -256,6 +266,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 ljepblêd wacht">
+
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Skeakel de machtiging ‘Oer oare apps tekenje’ yn foar &brandShortName; om ‘Mear keppelingen te iepenjen’">
 
 <!ENTITY pref_char_encoding "Tekenset">
 <!ENTITY pref_char_encoding_on "Menu toane">
@@ -339,8 +353,8 @@ size. -->
 <!ENTITY datareporting_notification_title "&brandShortName;-statistiken &amp; -gegevens">
 <!ENTITY datareporting_notification_action_long "Kies hokker gegevens jo diele wolle">
 <!ENTITY datareporting_notification_action "Kies wat jo diele wolle">
-<!ENTITY datareporting_notification_summary "Om jo ûnderfining te ferbetterjen ferstjoerdt &brandShortName; automatysk in oantal gegevens nei &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Om jo ûnderfining te ferbetterjen ferstjoerdt &brandShortName;…">
+<!ENTITY datareporting_notification_summary "Om jo ûnderfining te ferbetterjen, ferstjoert &brandShortName; automatysk in oantal gegevens nei &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Om jo ûnderfining te ferbetterjen, ferstjoert &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -524,6 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Jo resinte ljepblêden komme hjir.">
 <!ENTITY home_open_all "Iepenje alle">
 <!ENTITY home_most_recent_empty "Meast resint besochte websites komme hjir.">
+<!ENTITY home_selected_empty "Hjir ferskine jo besochte websites yn it selektearre tiidsrek.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
        The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: in &formatS1;Nij priveeljepblêd&formatS2; iepenje sil gjin skiednis fan jo bewarje.">
@@ -594,6 +609,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Befeilige ferbining">
 <!ENTITY identity_connection_insecure "Net-befeilige ferbining">
 <!ENTITY identity_login_insecure "Dizze side is net befeilige, en jo oanmelding soe kwetsber wêze kinne .">
+<!ENTITY identity_connection_chromeui "Dit is in befeilige &brandShortName;-side">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; hat ûnfeilige ynhâld op dizze side blokkearre.">
@@ -656,7 +672,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Fernijing foar &brandShortName; beskikber">
 <!ENTITY updater_apply_select2 "Reitsje oan om by te wurkjen">
 
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Ferlien &brandShortName; de machtiging foar tagong ta ûnthâld om bestannen en fernijingen te downloaden.">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Ferliene">
+
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Nije gastsesje">
 <!ENTITY exit_guest_session "Gastsesje ferlitte">
 <!ENTITY guest_session_dialog_continue "Trochgean">
@@ -744,8 +767,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "Omfetsje it ymportearjen fan blêdwizers, werstellen fan ljepblêden en automatyske fernijingen. Set dit út foar ferienfâldige ynstellingen dy’t foar elts gezinslid passend binne.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; mikrofoan">
 <!ENTITY restrictable_feature_camera_microphone_description "Lit gezinsleden dielnimme oan realtime-kommunikaasje op websites.">
-<!ENTITY restrictable_feature_data_choices "Gegevenskarren">
-<!ENTITY restrictable_feature_data_choices_description "Kieze oft gebrûksgegevens nei Mozilla ferstjoerd wurde om Firefox te helpen te ferbetterjen.">
+<!ENTITY restrictable_feature_block_list "Blokkearlist">
+<!ENTITY restrictable_feature_block_list_description "Blokkearje websites dy't gefoelige ynhâld befetsje.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
