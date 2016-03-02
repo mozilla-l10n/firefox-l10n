@@ -215,6 +215,6 @@
 <!ENTITY simulator_device "Gailua">
 <!ENTITY simulator_screenSize "Pantaila">
 <!ENTITY simulator_pixelRatio "Pixelen aspektu-erlazioa">
-
-
-
+<!ENTITY simulator_tv_data "TB simulazioa">
+<!ENTITY simulator_tv_data_open "Konfigurazio-datuak">
+<!ENTITY simulator_tv_data_open_button "Ireki konfigurazio-direktorioa…">
