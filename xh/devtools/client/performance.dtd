@@ -124,3 +124,5 @@
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
 
+<!ENTITY performanceUI.console.stopCommandStart "Yekisa ukurekhoda ngokufaka">
+

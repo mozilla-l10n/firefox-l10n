@@ -77,7 +77,7 @@ values from browser.dtd.  -->
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
 <!ENTITY options.disableJavaScript.label     "Yenza ingasebenzi i-JavaScript*">
-
+<!ENTITY options.disableJavaScript.tooltip   "Ukulayita olu khetho kuya kucima iJavaScript yale thebhu ikhoyo. Ukuba ithebhu okanye ithulbhoksi ivaliwe ngoko le setingi iya kulityalwa.">
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
