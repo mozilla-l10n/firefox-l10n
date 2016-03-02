@@ -89,7 +89,7 @@
 <!ENTITY runtimePanel_installsimulator "Ta'ãngahára ñemboguejy">
 <!ENTITY runtimePanel_noadbhelper "Emohenda ADB Pytyvõhára">
 <!ENTITY runtimePanel_nousbdevice "Ndaikatúi ehecha ne mba'e'oka">
-
+<!ENTITY runtimePanel_refreshDevices_label "Embohekopyahu mba'e'oka">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "oikóva">
