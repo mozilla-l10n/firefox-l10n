@@ -6,5 +6,5 @@
 <!ENTITY aboutDebugging.addons                     "Moimbaha">
 <!ENTITY aboutDebugging.addonDebugging.label       "Embojuruja moimbaha mopotĩha">
 <!ENTITY aboutDebugging.addonDebugging.tooltip     "Emyandývo kóva omoneĩta moimbaha ñemopotĩ ha heta ambuéva chrome kundaha">
-
+<!ENTITY aboutDebugging.loadTemporaryAddon         "Emyenyhẽ moĩmbaha sapy'aitegua">
 <!ENTITY aboutDebugging.workers                    "Mba'apoharakuéra">
