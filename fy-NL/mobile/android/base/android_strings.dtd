@@ -20,7 +20,7 @@
 <!ENTITY firstrun_data_subtext "Blokkear ôfbyldingen foar minder gegevensferkear by eltse besochte website.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, altyd oan jo side">
-<!ENTITY firstrun_sync_subtext "Syngronisearje jo ljepblêden, wachtwurden en mear, oeral wêr't jo it brûke.">
+<!ENTITY firstrun_sync_subtext "Syngronisearje jo ljepblêden, wachtwurden en mear, oeral wêr\'t jo it brûke.">
 <!ENTITY firstrun_signin_message "Meitsje ferbining en begjin">
 <!ENTITY firstrun_signin_button "Oanmelde by Sync">
 <!ENTITY onboard_start_button_browser "Start mei browsen">
@@ -543,14 +543,6 @@ size. -->
        The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: in &formatS1;Nij priveeljepblêd&formatS2; iepenje sil gjin skiednis fan jo bewarje.">
 <!ENTITY home_reading_list_empty "Artikelen dy’t jo foar letter bewarje ferskine hjir.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "TIP: bewarje artikelen nei jo lêslist troch jo finger op it piktogram &formatI; te hâlden sa gau dit yn de URL-balke ferskynt.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "TIP: bewarje artikelen nei jo lêslist troch jo finger op de lêzermoadusknop te hâlden sa gau dizze yn de URL-balke ferskynt.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -768,7 +760,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; mikrofoan">
 <!ENTITY restrictable_feature_camera_microphone_description "Lit gezinsleden dielnimme oan realtime-kommunikaasje op websites.">
 <!ENTITY restrictable_feature_block_list "Blokkearlist">
-<!ENTITY restrictable_feature_block_list_description "Blokkearje websites dy't gefoelige ynhâld befetsje.">
+<!ENTITY restrictable_feature_block_list_description "Blokkearje websites dy\'t gefoelige ynhâld befetsje.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
