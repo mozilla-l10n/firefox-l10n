@@ -20,9 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Artxibatutako ping datuak">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Ping datuen bistaratzea:">
 
 <!ENTITY aboutTelemetry.structured "Egituratua">
 
+<!ENTITY aboutTelemetry.raw "JSON gordina">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Erakutsi azpi-saioaren datuak">
 
@@ -32,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping zaharragoa &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Ping datu gordinak ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Astea">
 

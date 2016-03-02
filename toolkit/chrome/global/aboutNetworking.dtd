@@ -32,4 +32,4 @@
 <!ENTITY aboutNetworking.dnsLookup             "DNS bilaketa">
 <!ENTITY aboutNetworking.dnsLookupButton       "Ebatzi">
 <!ENTITY aboutNetworking.dnsDomain             "Domeinua">
-
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPak">
