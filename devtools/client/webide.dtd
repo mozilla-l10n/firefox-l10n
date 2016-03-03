@@ -28,7 +28,7 @@
 
 
 <!ENTITY runtimeMenu_label "Ixesha lokuhambisa">
-
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Khupha kunxibelelo">
 
 
@@ -111,7 +111,7 @@
 
 
 
-
+<!ENTITY prefs_options_templatesurl_tooltip "I-indeksi yeetemplethi ezikhoyo">
 
 
 
@@ -136,7 +136,7 @@
 
 
 
-
+<!ENTITY runtimedetails_requestPrivileges "cela amalungelo angaphezulu">
 
 <!-- Device Preferences and Settings -->
 
@@ -151,7 +151,7 @@
 <!ENTITY devicepreference_newtext "Ixabiso lesikhethwa">
 
 <!-- Device Settings -->
-
+<!ENTITY devicesetting_search "Khangela iisetingi">
 <!ENTITY devicesetting_newname "Igama lesetingi entsha">
 
 
