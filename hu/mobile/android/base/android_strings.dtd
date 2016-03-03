@@ -14,13 +14,13 @@
 <!ENTITY firstrun_urlbar_subtext "Keressen gyorsabban a praktikus keresési javaslatokkal.">
 <!ENTITY firstrun_bookmarks_title "Előzmény">
 <!ENTITY firstrun_bookmarks_message "Kedvencei a középpontban">
-
-
-
-
+<!ENTITY firstrun_bookmarks_subtext "A keresés könyvjelzői és előzményei közt is szétnéz.">
+<!ENTITY firstrun_data_title "Adatok">
+<!ENTITY firstrun_data_message "Kevesebb adat, több spórolás">
+<!ENTITY firstrun_data_subtext "Blokkolja a képeket az adatforgalommal való spóroláshoz.">
 <!ENTITY firstrun_sync_title "Sync">
-
-
+<!ENTITY firstrun_sync_message "A &brandShortName;, mindig Ön mellett">
+<!ENTITY firstrun_sync_subtext "Szinkronizálja lapjait, jelszavait és egyebeket mindenütt, ahol csak használja.">
 
 
 <!ENTITY  onboard_start_button_browser "Böngészés megkezdése">
