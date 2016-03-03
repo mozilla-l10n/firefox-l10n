@@ -536,30 +536,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarregar frame">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Ver código-fonte selecionado">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Ver código-fonte MathML">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Exibir código-fonte selecionado">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Exibir código-fonte MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Ver código-fonte da página">
+<!ENTITY viewPageSourceCmd.label      "Exibir código-fonte da página">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "Ver código-fonte do frame">
+<!ENTITY viewFrameSourceCmd.label     "Exibir código-fonte do frame">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "Ver informações da página">
+<!ENTITY viewPageInfoCmd.label        "Exibir informações da página">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Ver informações do frame">
+<!ENTITY viewFrameInfoCmd.label       "Exibir informações do frame">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY reloadImageCmd.label         "Recarregar imagem">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Ver imagem">
+<!ENTITY viewImageCmd.label           "Exibir imagem">
 <!ENTITY viewImageCmd.accesskey       "i">
-<!ENTITY viewImageInfoCmd.label       "Ver informações da imagem">
+<!ENTITY viewImageInfoCmd.label       "Exibir informações da imagem">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Ver descrição">
+<!ENTITY viewImageDescCmd.label       "Exibir descrição">
 <!ENTITY viewImageDescCmd.accesskey   "d">
-<!ENTITY viewVideoCmd.label           "Ver vídeo">
+<!ENTITY viewVideoCmd.label           "Exibir vídeo">
 <!ENTITY viewVideoCmd.accesskey       "e">
-<!ENTITY viewBGImageCmd.label         "Ver imagem de fundo">
+<!ENTITY viewBGImageCmd.label         "Exibir imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "m">
 <!ENTITY setDesktopBackgroundCmd.label      "Definir como papel de parede…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "n">
@@ -942,4 +942,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveToPocketCmd.accesskey "k">
 <!ENTITY saveLinkToPocketCmd.label     "Salvar link no Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "Ver lista do Pocket">
+<!ENTITY pocketMenuitem.label      "Exibir lista do Pocket">
