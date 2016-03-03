@@ -412,7 +412,6 @@
 <!ENTITY search_bar_item_desc "Cerca con &formatS;">
 <!ENTITY suggestions_prompt3 "Attivare i suggerimenti di ricerca?">
 <!ENTITY suggestion_for_engine "Cerca &formatS2; in &formatS1;">
-<!ENTITY webapp_generic_name "App">
 <!ENTITY searchable_description "Segnalibri e cronologia">
 <!ENTITY updater_start_title2 "Aggiornamento disponibile per &brandShortName;">
 <!ENTITY updater_start_select2 "Tocca per scaricare">
