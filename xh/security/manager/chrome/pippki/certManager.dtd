@@ -12,7 +12,7 @@
 
 <!ENTITY certmgr.mine                         "Unezatifikethi ezivela kule mibutho ekuchongileyo:">
 <!ENTITY certmgr.others                       "Unezatifikethi efayilini echonga aba bantu:">
-
+<!ENTITY certmgr.websites2                    "Unezatifikethi efayilini echonga ezi seva:">
 <!ENTITY certmgr.cas                          "Unezatifikethi efayilini echonga aba gunyaziwe bezatifikethi:">
 
 

@@ -87,7 +87,7 @@
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
 <!ENTITY performanceUI.invertTree             "Buyisa Umthi Womnxeba">
-
+<!ENTITY performanceUI.invertTree.tooltiptext "Ibuyisa imiboniso yomnxeba womthi ipathi zeprofayile yomnxeba ukususela kweyona freyimu incinci ukunyuka ukuya kweyona freyimu inkulu.">
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
