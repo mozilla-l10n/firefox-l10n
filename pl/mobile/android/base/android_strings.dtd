@@ -562,3 +562,6 @@
 
 <!ENTITY eol_notification_title2 "Program &brandShortName; nie będzie już aktualizowany">
 <!ENTITY eol_notification_summary "Stuknij, aby dowiedzieć się więcej">
+
+<!ENTITY whatsnew_notification_title "Program &brandShortName; jest aktualny">
+<!ENTITY whatsnew_notification_summary "Nowości w tej wersji">
