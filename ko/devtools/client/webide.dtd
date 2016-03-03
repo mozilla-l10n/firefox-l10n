@@ -215,3 +215,6 @@
 <!ENTITY simulator_device "기기">
 <!ENTITY simulator_screenSize "스크린">
 <!ENTITY simulator_pixelRatio "픽셀 비율">
+<!ENTITY simulator_tv_data "TV 시뮬레이션">
+<!ENTITY simulator_tv_data_open "설정 데이타">
+<!ENTITY simulator_tv_data_open_button "설정 디렉토리 열기…">
