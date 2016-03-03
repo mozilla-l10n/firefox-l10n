@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "Wakami man at k'o ta chupam jun ichina tzuwäch.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Rujaqik jun ruwäch ichin">
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Wakami man at k'o ta chupam jun ichina tzuwäch. ">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Rujaqik jun ruwäch ichin ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "i">
 
-<!ENTITY privateBrowsing.title                 "Palaqinem Wichin">
+<!ENTITY privateBrowsing.title                 "Palaqinem Wichin ">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
      Width of the Private Browsing section. This should depend primarily on the
      length of the headers and text, but should be roughly 1.5 times the width
@@ -14,21 +14,21 @@
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
 
-<!ENTITY aboutPrivateBrowsing.width1           "30em">
-<!ENTITY aboutPrivateBrowsing.title            "Atokinäq pan ichinan k'amaya'l">
+<!ENTITY aboutPrivateBrowsing.width1           "30em ">
+<!ENTITY aboutPrivateBrowsing.title            "Atokinäq pan ichinan k'amaya'l ">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "Man yakon ta">
-<!ENTITY aboutPrivateBrowsing.info.history     "Natab’äl">
-<!ENTITY aboutPrivateBrowsing.info.searches    "Taq kanob'äl">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Ch'utiwäch">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Man yakon ta ">
+<!ENTITY aboutPrivateBrowsing.info.history     "Natab’äl ">
+<!ENTITY aboutPrivateBrowsing.info.searches    "Taq kanob'äl ">
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies ">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Ch'utiwäch ">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "Yakon">
-<!ENTITY aboutPrivateBrowsing.info.downloads   "Taq qasa’n">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Taq retal">
+<!ENTITY aboutPrivateBrowsing.info.saved       "Yakon ">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Taq qasa’n ">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Taq retal ">
 
-<!ENTITY aboutPrivateBrowsing.note1            "Tab'ana' utzil, tanataj chi ri asamajinel o ri aya'öl k'amaya'l, k'a nitikïr na nutzu' ri taq ruxaq k'amaya' ri rat xke'atzu'.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Tetamäx ch'aqa' chik.">
+<!ENTITY aboutPrivateBrowsing.note1            "Tab'ana' utzil, tanataj chi ri asamajinel o ri aya'öl k'amaya'l, k'a nitikïr na nutzu' ri taq ruxaq k'amaya' ri rat xke'atzu'. ">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Tetamäx ch'aqa' chik. ">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
      disabled indicator or the words in the title to wrap to the next line, but
@@ -38,18 +38,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
-<!ENTITY trackingProtection.width1             "22em">
-<!ENTITY trackingProtection.title              "Tajin nukanoj ri chajinem">
+<!ENTITY trackingProtection.width1             "22em ">
+<!ENTITY trackingProtection.title              "Tajin nukanoj ri chajinem ">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
-<!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "Tzijïk">
-<!ENTITY trackingProtection.state.disabled     "CHUPUNÄQ">
+<!ENTITY trackingProtection.state.width        "6ch ">
+<!ENTITY trackingProtection.state.enabled      "Tzijïk ">
+<!ENTITY trackingProtection.state.disabled     "CHUPUNÄQ ">
 
-<!ENTITY trackingProtection.description1       "Ri ichinan taq tzuwäch rukiq'ät jujun taq ruchak'ulal ruxaq k'amaya'l, ri yetikír nikïl ri nasamajij pa okik'amaya'l.">
+<!ENTITY trackingProtection.description1       "Ri ichinan taq tzuwäch rukiq'ät jujun taq ruchak'ulal ruxaq k'amaya'l, ri yetikír nikïl ri nasamajij pa okik'amaya'l. ">
 
-<!ENTITY trackingProtection.disable            "Tajin nichup ri ruchajixik kanoxïk">
-<!ENTITY trackingProtection.enable             "Natzïj ruchajixik kanoxïk">
-<!ENTITY trackingProtection.startTour1         "Titzu' achike rub'eyal nisamäj re re'">
+<!ENTITY trackingProtection.disable            "Tajin nichup ri ruchajixik kanoxïk ">
+<!ENTITY trackingProtection.enable             "Natzïj ruchajixik kanoxïk ">
+<!ENTITY trackingProtection.startTour1         "Titzu' achike rub'eyal nisamäj re re' ">

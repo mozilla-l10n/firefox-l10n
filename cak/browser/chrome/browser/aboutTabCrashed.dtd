@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "Jun k'ayew rutzijol: Xutz'ilaj ri' re ruwi' re'">
-<!ENTITY tabCrashed.message "Wakami ri utziläl taq rutzijol: Ütz xa xe natz'apij re ruwi' re', rutzolixik ruwäch o kitzolixik kiwäch konojel ri tz'ilan taq ruwi'.">
-<!ENTITY tabCrashed.sendReport "Titaq jun rutzijol taq tz'ilanem richin nito'on chi yechajïx ri tz'ilan taq rutzijol">
-<!ENTITY tabCrashed.includeURL "Titz'aqatisäx ri rochochib'al ruxaq k'amaya'l akuchi' in k'o wi kan">
-<!ENTITY tabCrashed.commentPlaceholder "Titz'aqatisäx jun rutzijol (ri taq tzijol konojel winaqi' yetz'eto)">
-<!ENTITY tabCrashed.emailPlaceholder "Tatz'ib'aj wawe' ri rochochib'al ataqoya'l">
-<!ENTITY tabCrashed.emailMe "Tataqa' pe jun taqoyal chwe toq k'o ch'aqa' chik rutzijol">
+<!ENTITY tabCrashed.header "Jun k'ayew rutzijol: Xutz'ilaj ri' re ruwi' re' ">
+<!ENTITY tabCrashed.message "Wakami ri utziläl taq rutzijol: Ütz xa xe natz'apij re ruwi' re', rutzolixik ruwäch o kitzolixik kiwäch konojel ri tz'ilan taq ruwi'. ">
+<!ENTITY tabCrashed.sendReport "Titaq jun rutzijol taq tz'ilanem richin nito'on chi yechajïx ri tz'ilan taq rutzijol ">
+<!ENTITY tabCrashed.includeURL "Titz'aqatisäx ri rochochib'al ruxaq k'amaya'l akuchi' in k'o wi kan ">
+<!ENTITY tabCrashed.commentPlaceholder "Titz'aqatisäx jun rutzijol (ri taq tzijol konojel winaqi' yetz'eto) ">
+<!ENTITY tabCrashed.emailPlaceholder "Tatz'ib'aj wawe' ri rochochib'al ataqoya'l ">
+<!ENTITY tabCrashed.emailMe "Tataqa' pe jun taqoyal chwe toq k'o ch'aqa' chik rutzijol ">
 <!ENTITY tabCrashed.crashReporter "Rutzijol taq rusachoj Mozilla">
 <!ENTITY tabCrashed.reportSent "Xtaq ri rutzijol sachoj. ¡Matyox chawe ruma yojato' chi niqaq'i' jun &brandShortName; janila ütz!">
 <!ENTITY tabCrashed.closeTab "Titz'apïx re ruwi' re'">

@@ -1,86 +1,86 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "Rutzijol &brandFullName;  ">
+<!ENTITY aboutDialog.title          "Rutzijol &brandFullName;   ">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "Kikanoxik taq jalonel  ">
+<!ENTITY update.checkForUpdatesButton.label       "Kikanoxik taq jalonel   ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
-<!ENTITY update.updateButton.label2                "Titikirisäx chik ri &brandShortName; richin nik'ex ruwäch ">
-<!ENTITY update.updateButton.accesskey            "T ">
-<!ENTITY update.applyButtonBillboard.label        "Tib'an ri k'exoj…  ">
+<!ENTITY update.updateButton.label2                "Titikirisäx chik ri &brandShortName; richin nik'ex ruwäch  ">
+<!ENTITY update.updateButton.accesskey            "T  ">
+<!ENTITY update.applyButtonBillboard.label        "Tib'an ri k'exoj…   ">
 <!ENTITY update.applyButtonBillboard.accesskey    "T">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
-<!ENTITY warningDesc.version        "&brandShortName; choj ok nitojtob’ëx, rik’in jub’a’ man pa rub’eyal ta.  ">
+<!ENTITY warningDesc.version        "&brandShortName; choj ok nitojtob’ëx, rik’in jub’a’ man pa rub’eyal ta.   ">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ruyonil nutäq rutzijol ri rusamaj, rumolik samajib'äl, rokisaxik chuqa' taq winaqirem pa &vendorShortName; richin nito'on pa ruwi' ri &brandShortName; richin nutzïr. ">
+<!ENTITY warningDesc.telemetryDesc  "Ruyonil nutäq rutzijol ri rusamaj, rumolik samajib'äl, rokisaxik chuqa' taq winaqirem pa &vendorShortName; richin nito'on pa ruwi' ri &brandShortName; richin nutzïr.  ">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.exp.mozillaLink  "&vendorShortName; ">
-<!ENTITY community.exp.middle       " jun  ">
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;  ">
+<!ENTITY community.exp.middle       " jun   ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "molaj winaqilal  ">
-<!ENTITY community.exp.end          " yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k’amaya’l. ">
+<!ENTITY community.exp.creditsLink  "molaj winaqilal   ">
+<!ENTITY community.exp.end          " yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k’amaya’l.  ">
 
-<!ENTITY community.start2           "&brandShortName; wachib’en ruma  ">
+<!ENTITY community.start2           "&brandShortName; wachib’en ruma   ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName; ">
-<!ENTITY community.middle2          ", jun  ">
+<!ENTITY community.mozillaLink      "&vendorShortName;  ">
+<!ENTITY community.middle2          ", jun   ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "molaj winaqilal ">
-<!ENTITY community.end3             " junam yojsamäj richin jantape jaqäl, okel nisamajïx ri k’amaya’l. ">
+<!ENTITY community.creditsLink      "molaj winaqilal  ">
+<!ENTITY community.end3             " junam yojsamäj richin jantape jaqäl, okel nisamajïx ri k’amaya’l.  ">
 
-<!ENTITY helpus.start               "¿La nawajo' yato'on?  ">
+<!ENTITY helpus.start               "¿La nawajo' yato'on?   ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-<!ENTITY helpus.donateLink          "Taya' jun sipanïk">
-<!ENTITY helpus.middle              " o ">
+<!ENTITY helpus.donateLink          "Taya' jun sipanïk ">
+<!ENTITY helpus.middle              " o  ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "¡Kato’on!">
+<!ENTITY helpus.getInvolvedLink     "¡Kato’on! ">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "Achike natzijoj">
+<!ENTITY releaseNotes.link          "Achike natzijoj ">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Na’oj richin ruya’ik q’ij">
+<!ENTITY bottomLinks.license        "Na’oj richin ruya’ik q’ij ">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "Ruch’ojib’al nokisan">
+<!ENTITY bottomLinks.rights         "Ruch’ojib’al nokisan ">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "Runa’oj rajaw">
+<!ENTITY bottomLinks.privacy        "Runa’oj rajaw ">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Kijunamaxik taq jaloj…">
+<!ENTITY update.checkingForUpdates  "Kijunamaxik taq jaloj… ">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; jalon chik">
+<!ENTITY update.noUpdatesFound      "&brandShortName; jalon chik ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Man etzijon ta ri taq jaloj pa tz'etöy asamaj">
+<!ENTITY update.adminDisabled       "Man etzijon ta ri taq jaloj pa tz'etöy asamaj ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; tajin nik'ex ruma jun chik molaj.">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; tajin nik'ex ruma jun chik molaj. ">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Man xuchäp ta ri jaloj. ">
-<!ENTITY update.failed.linkText     "Ruqasaxik ri ruk'isib'äl jalwäch">
-<!ENTITY update.failed.end          "Taqasaj ri k'ak'a' ruwäch">
+<!ENTITY update.failed.start        "Man xuchäp ta ri jaloj.  ">
+<!ENTITY update.failed.linkText     "Ruqasaxik ri ruk'isib'äl jalwäch ">
+<!ENTITY update.failed.end          "Taqasaj ri k'ak'a' ruwäch ">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Ri jaloj nawïl pa ">
-<!ENTITY update.manual.end          "K'ak'a' taq k'exoj">
+<!ENTITY update.manual.start        "Ri jaloj nawïl pa  ">
+<!ENTITY update.manual.end          "K'ak'a' taq k'exoj ">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
      update.unsupported.end all go into one line with linkText being wrapped in
@@ -88,22 +88,22 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Man tikirel ta chik nib'an taq k'exoj pa re runuk'ulem re'. ">
-<!ENTITY update.unsupported.linkText "Retamaxik ch'aqa' chik">
-<!ENTITY update.unsupported.end      "Retamaxik ch'aqa' chik">
+<!ENTITY update.unsupported.start    "Man tikirel ta chik nib'an taq k'exoj pa re runuk'ulem re'.  ">
+<!ENTITY update.unsupported.linkText "Retamaxik ch'aqa' chik ">
+<!ENTITY update.unsupported.end      "Retamaxik ch'aqa' chik ">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Tajin ruqasaxik jaloj —">
-<!ENTITY update.downloading.end     "Q'anchi'">
+<!ENTITY update.downloading.start   "Tajin ruqasaxik jaloj — ">
+<!ENTITY update.downloading.end     "Q'anchi' ">
 
-<!ENTITY update.applying            "Rokisaxik jaloj…">
+<!ENTITY update.applying            "Rokisaxik jaloj… ">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Tajin nawokisaj ri q'axab'äl">
-<!ENTITY channel.description.end    "   richin jalwachinïk.   ">
+<!ENTITY channel.description.start  "Tajin nawokisaj ri q'axab'äl ">
+<!ENTITY channel.description.end    "   richin jalwachinïk.    ">
