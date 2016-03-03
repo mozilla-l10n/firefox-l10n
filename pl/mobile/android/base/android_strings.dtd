@@ -491,8 +491,6 @@
 
 <!ENTITY suggestion_for_engine "Szukaj „&formatS2;” za pomocą &formatS1;">
 
-<!ENTITY webapp_generic_name "Aplikacja">
-
 <!ENTITY searchable_description "Zakładki i historia">
 
 <!ENTITY updater_start_title2 "&brandShortName;: dostępne są nowe aktualizacje">
