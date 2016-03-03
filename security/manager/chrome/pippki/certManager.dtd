@@ -68,8 +68,8 @@
 <!ENTITY certmgr.restore2.accesskey           "t">
 <!ENTITY certmgr.details.label                "IsatifikethiImimandla">
 <!ENTITY certmgr.details.accesskey            "I">
-
-
+<!ENTITY certmgr.fields.label                 "IfildiIxabiso">
+<!ENTITY certmgr.fields.accesskey             "I">
 <!ENTITY certmgr.hierarchy.label              "Amabakala Ezatifikethi">
 
 <!ENTITY certmgr.addException.label           "Yongeza ieksepshini…">

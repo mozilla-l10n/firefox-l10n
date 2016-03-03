@@ -73,9 +73,10 @@
 
 <!ENTITY run.label                    "Qhuba">
 <!ENTITY run.accesskey                "Q">
+<!ENTITY run.key                      "r">
 
-
-
+<!ENTITY inspect.label                "Hlola">
+<!ENTITY inspect.accesskey            "H">
 
 
 

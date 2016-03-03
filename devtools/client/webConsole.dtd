@@ -38,7 +38,7 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-
+<!ENTITY btnPageLogging.accesskey3 "L">
 
 
 
@@ -49,7 +49,9 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
+<!ENTITY btnServerLogging.label       "Seva">
 
+<!ENTITY btnServerLogging.accesskey   "S">
 
 
 
@@ -80,5 +82,5 @@
 
 
 
-
-
+<!ENTITY storeAsGlobalVar.label "Gcina njengeyahlukeneyo yehlabathi">
+<!ENTITY storeAsGlobalVar.accesskey "G">
