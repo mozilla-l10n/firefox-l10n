@@ -73,7 +73,7 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "Site suspeito de ser um foco de ataques!">
-<!ENTITY malwareBlocked.longDesc "<p>Sites de ataque tentam instalar programas que roubam informações privadas, usam o seu computador para atacar outros ou danificam o seu sistema.</p>
+<!ENTITY malwareBlocked.longDesc "<p>Sites de ataque tentam instalar programas que roubam informações privativas, usam o seu computador para atacar outros ou danificam o seu sistema.</p>
 <p>Proprietários de sites que acreditem estar sendo injustamente classificados como focos de ataques podem <a href='http://www.stopbadware.org/home/reviewinfo'>solicitar uma reavaliação</a>.</p>">
 
 <!ENTITY unwantedBlocked.title "Site suspeito de software indesejado!">
