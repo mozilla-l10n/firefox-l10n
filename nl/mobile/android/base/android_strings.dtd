@@ -23,7 +23,7 @@
 <!ENTITY firstrun_sync_subtext "Synchroniseer uw tabbladen, wachtwoorden en meer, overal waar u het gebruikt.">
 <!ENTITY firstrun_signin_message "Maak verbinding en begin">
 <!ENTITY firstrun_signin_button "Aanmelden bij Sync">
-<!ENTITY  onboard_start_button_browser "Navigeren starten">
+<!ENTITY  onboard_start_button_browser "Beginnen met browsen">
 <!ENTITY firstrun_button_next "Volgende">
 
 <!ENTITY  onboard_start_restricted1 "Blijf veilig en in controle met deze vereenvoudigde versie van &brandShortName;.">
@@ -251,7 +251,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "U kunt dit later wijzigen in Instellingen">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Zet Over andere apps tekenen aan">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Zet Weergeven over andere apps aan">
 <!ENTITY tab_queue_prompt_positive_action_button "Inschakelen">
 <!ENTITY tab_queue_prompt_negative_action_button "Niet nu">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -269,7 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Schakel de machtiging ‘Over andere apps tekenen’ in voor &brandShortName; om ‘Meerdere koppelingen te openen’">
+<!ENTITY tab_queue_notification_settings "Schakel de machtiging ‘Weergeven over andere apps’ in voor &brandShortName; om meerdere koppelingen te openen">
 
 <!ENTITY pref_char_encoding "Tekenset">
 <!ENTITY pref_char_encoding_on "Menu tonen">
