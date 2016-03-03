@@ -11,9 +11,9 @@
 <!ENTITY  onboard_start_subtext3 "Tegye a mobil webböngészési élményét igazán egyedivé.">
 
 <!ENTITY firstrun_urlbar_message "Üdvözli a &brandShortName;!">
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Keressen gyorsabban a praktikus keresési javaslatokkal.">
+<!ENTITY firstrun_bookmarks_title "Előzmény">
+<!ENTITY firstrun_bookmarks_message "Kedvencei a középpontban">
 
 
 
