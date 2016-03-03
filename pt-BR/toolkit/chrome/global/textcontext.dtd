@@ -34,4 +34,4 @@
 <!ENTITY fillUsernameMenu.label       "Preencher nome de usuário">
 <!ENTITY fillUsernameMenu.accesskey   "P">
 <!ENTITY noLoginSuggestions.label     "(Nenhuma sugestão)">
-<!ENTITY viewSavedLogins.label        "Ver logins salvos">
+<!ENTITY viewSavedLogins.label        "Exibir logins salvos">

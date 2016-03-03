@@ -186,17 +186,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir a página">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Visualizar informação do site">
+<!ENTITY urlbar.viewSiteInfo.label                      "Exibir informações do site">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Ver uma notificação">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Ver o pedido de localização">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Ver a mensagem de instalação do complemento">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ver a mensagem de armazenamento offline do aplicativo">
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Exibir uma notificação">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Exibir o pedido de localização">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Exibir a mensagem de instalação do complemento">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Exibir a mensagem de armazenamento offline do aplicativo">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Gerenciar suas informações de login">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Verificar se você deseja salvar sua senha">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Ver a mensagem de instalação do aplicativo">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Exibir a mensagem de instalação do aplicativo">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Gerenciar o uso do plugin nesta página">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Alterar o recebimento de notificações do site">
 
@@ -208,7 +208,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Você esta compartilhando uma janela ou tela com o site">
 
 <!ENTITY urlbar.pointerLockNotificationAnchor.label     "Alterar a opção do site ocultar o ponteiro">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Ver a mensagem da instalação do serviço">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Exibir a mensagem da instalação do serviço">
 <!ENTITY urlbar.translateNotificationAnchor.label       "Traduzir esta página">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Gerenciar tradução da página">
 <!ENTITY urlbar.emeNotificationAnchor.label             "Gerenciar o uso do software DRM">
@@ -225,8 +225,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Favoritos">
 <!ENTITY bookmarksMenuButton.unsorted.label "Favoritos não organizados">
-<!ENTITY viewBookmarksSidebar2.label        "Ver painel de favoritos">
-<!ENTITY viewBookmarksToolbar.label         "Ver barra de favoritos">
+<!ENTITY viewBookmarksSidebar2.label        "Exibir painel de favoritos">
+<!ENTITY viewBookmarksToolbar.label         "Exibir barra de favoritos">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Exibir todo o histórico">
 <!ENTITY appMenuHistory.clearRecent.label "Limpar dados de navegação…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
-<!ENTITY appMenuHistory.viewSidebar.label "Ver painel do histórico">
+<!ENTITY appMenuHistory.viewSidebar.label "Exibir painel do histórico">
 <!ENTITY appMenuHelp.tooltip "Abrir menu Ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Abas sincronizadas">
@@ -761,9 +761,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Esta página usa criptografia fraca.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "A conexão com este site não é privada. As informações que enviar (tais como senhas, mensagens, cartões de créditos, etc.) podem ser vistas por outros.">
+<!ENTITY identity.description.insecure "A conexão com este site não é privativa. As informações que enviar (tais como senhas, mensagens, cartões de créditos, etc.) podem ser vistas por outros.">
 <!ENTITY identity.description.insecureLoginForms "As informações de login que você publicar nesta página não é segura e pode ser comprometida.">
-<!ENTITY identity.description.weakCipher "A conexão com este website usa criptografia fraca e não é privada.">
+<!ENTITY identity.description.weakCipher "A conexão com este website usa criptografia fraca e não é privativa.">
 <!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do site web.">
 <!ENTITY identity.description.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
 <!ENTITY identity.description.passiveLoaded "A sua coneção não é privativa e a informação que compartilha com o site pode ser vista por outros.">
