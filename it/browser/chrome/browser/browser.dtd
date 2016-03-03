@@ -554,6 +554,8 @@
 <!ENTITY identity.disableMixedContentBlocking.label "Disattiva temporaneamente protezione">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Ulteriori informazioni">
+<!ENTITY identity.removeCertException.label "Elimina eccezione">
+<!ENTITY identity.removeCertException.accesskey "E">
 <!ENTITY identity.moreInfoLinkText2 "Ulteriori informazioni">
 <!ENTITY identity.permissions "Permessi">
 <!ENTITY identity.permissionsEmpty "Nessun permesso speciale associato a questo sito.">
