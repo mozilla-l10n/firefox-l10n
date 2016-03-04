@@ -11,7 +11,7 @@
 <!ENTITY setPassword.meter.label "Medidor de qualidade da senha">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Restaurar o estado inicial">
+<!ENTITY resetPasswordButtonLabel "Redefinir">
 <!ENTITY resetPassword.title  "Excluir a senha mestra">
 <!ENTITY resetPassword.text  "Se remover a senha mestra, todas as suas senhas de sites e e-mails, dados de formulários, certificados pessoais e chaves privativas serão perdidas. Tem certeza que deseja remover a senha mestra?">
 
