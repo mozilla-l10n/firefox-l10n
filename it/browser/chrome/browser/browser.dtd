@@ -574,8 +574,6 @@
 <!ENTITY syncedTabs.context.openTab.accesskey "A">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label "Aggiungi ai segnalibri…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "s">
-<!ENTITY syncedTabs.context.refreshList.label "Aggiorna elenco">
-<!ENTITY syncedTabs.context.refreshList.accesskey "e">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label "Accedi a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey "y">
