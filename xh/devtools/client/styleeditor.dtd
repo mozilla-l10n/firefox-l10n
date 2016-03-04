@@ -20,7 +20,7 @@
 
 
 <!ENTITY saveButton.label           "Gcina">
-
+<!ENTITY saveButton.tooltip         "Gcina olu hlobo lweshiti kwifayile">
 <!ENTITY saveButton.accesskey       "G">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context

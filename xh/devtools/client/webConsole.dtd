@@ -16,7 +16,7 @@
   -  filters. -->
 
 <!ENTITY btnPageNet.label   "Inethi">
-
+<!ENTITY btnPageNet.tooltip "Loga ufikelelo lwenethwekhi">
 <!ENTITY btnPageNet.accesskey "I">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
