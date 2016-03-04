@@ -9,7 +9,7 @@
 
 
 <!ENTITY toolboxNextTool.key           "]">
-
+<!ENTITY toolboxPreviousTool.key       "[">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey, fullZoomEnlargeCmd.commandkey2,
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey,
@@ -69,6 +69,8 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
+
+<!ENTITY options.enableRemote.label3    "Vumela ukususa ibhagi kwerimoti">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
