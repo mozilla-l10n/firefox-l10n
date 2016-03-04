@@ -185,6 +185,8 @@
 <!ENTITY webDeveloperMenu.accesskey "v">
 <!ENTITY devToolsCmd.keycode "VK_F12">
 <!ENTITY devToolsCmd.keytext "F12">
+<!ENTITY devtoolsServiceWorkers.label "Service worker">
+<!ENTITY devtoolsServiceWorkers.accesskey "k">
 <!ENTITY devtoolsConnect.label "Connetti…">
 <!ENTITY devtoolsConnect.accesskey "o">
 <!ENTITY errorConsoleCmd.label "Console degli errori">
