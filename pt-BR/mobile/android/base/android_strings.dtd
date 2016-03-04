@@ -363,9 +363,9 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
+<!ENTITY datareporting_fhr_title "Relatório de integridade do &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Compartilha dados com a &vendorShortName; sobre o estado do seu navegador e ajuda a entender o desempenho dele">
-<!ENTITY datareporting_abouthr_title "Ver relatório do estado">
+<!ENTITY datareporting_abouthr_title "Ver relatório de integridade">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Compartilha dados de desempenho, uso, hardware e personalizações com a &vendorShortName; para nos ajudar a melhorar o &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de travamento para ajudar a &vendorShortName; a tornar o navegador mais estável e seguro">
