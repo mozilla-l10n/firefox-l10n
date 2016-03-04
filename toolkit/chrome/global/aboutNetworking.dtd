@@ -29,7 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "Umyalezo Ufunyenwe">
 <!ENTITY aboutNetworking.bytesSent             "IiByte Zithunyelwe">
 <!ENTITY aboutNetworking.bytesReceived         "IiByte Zifunyenwe">
-
+<!ENTITY aboutNetworking.dnsLookup             "Ukhangelo LweDNS">
 
 
 

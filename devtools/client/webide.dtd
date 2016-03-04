@@ -137,7 +137,7 @@
 
 
 <!ENTITY runtimedetails_requestPrivileges "cela amalungelo angaphezulu">
-
+<!ENTITY runtimedetails_privilegesWarning "(Iza kubhutha isixhobo kwakhona. Ifuna ufikelelo lweruthi.)">
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typestring "Umtya">
