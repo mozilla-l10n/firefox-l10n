@@ -118,7 +118,8 @@
 <!ENTITY resetContext2.label          "Seta Kwakhona Ezahlukeneyo">
 <!ENTITY resetContext2.accesskey      "a">
 
-
+<!ENTITY reloadAndRun.label           "Phinda ulowude Uze Uqhube">
+<!ENTITY reloadAndRun.accesskey       "n">
 
 
 
@@ -130,4 +131,4 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.key "e">

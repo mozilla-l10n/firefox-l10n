@@ -53,7 +53,7 @@
 <!ENTITY viewMenu_zoomout_label "Bhekelisela Kudana">
 
 
-
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -120,7 +120,7 @@
 
 
 
-
+<!ENTITY prefs_options_autocomplete_tooltip "Vumela ukugqitywa ngokuzenzekelayo kwekhowudi">
 
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Ngokuzenzekelayo faka izibiyeli ezivalayo">
 
@@ -132,8 +132,8 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Inkcazelo YeRuntime">
-
-
+<!ENTITY runtimedetails_adbIsRoot "U-ADB yiruthi: ">
+<!ENTITY runtimedetails_summonADBRoot "isixhobo seruti">
 
 
 <!ENTITY runtimedetails_requestPrivileges "cela amalungelo angaphezulu">
@@ -179,7 +179,7 @@
 
 <!ENTITY simulator_hardware "Ihadwe">
 <!ENTITY simulator_device "Isixhobo">
-
+<!ENTITY simulator_screenSize "Isikrini">
 
 
 
