@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Oscail an Roghchlár Cabhrach">
 
 <!ENTITY appMenuRemoteTabs.label "Cluaisíní Sioncrónaithe">
-<!ENTITY appMenuRemoteTabs.fetching.label "Ag gabháil Cluaisíní Sioncrónaithe">
+<!ENTITY appMenuRemoteTabs.fetching.label "Cluaisíní Sioncrónaithe á nGabháil…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Níl aon chluaisín ar oscailt">
