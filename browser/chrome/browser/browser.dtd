@@ -749,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ista pachina s'alza en o suyo ordinadora">
 <!ENTITY identity.connectionVerified1 "Ye connectau de traza segura a iste puesto, manteniu por:">
 <!ENTITY identity.connectionInternal "Ista ye una pachina segura de &brandShortName;.">
-
+<!ENTITY identity.insecureLoginForms2 "Los datos de dentrada escritos en ista pachina pueden estar compromesos.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ha blocau partes d'ista pachina que no son seguras.">
