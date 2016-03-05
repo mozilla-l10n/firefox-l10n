@@ -34,6 +34,7 @@
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
 
+<!ENTITY editorTextbox.placeholder  "Tayipa iCSS apha.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-start.label): This is the start of a

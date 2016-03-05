@@ -34,7 +34,7 @@
 
 
 <!ENTITY runtimeMenu_takeScreenshot_label "Iskrinshot">
-
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Inkcazelo YeRuntime">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 
@@ -128,6 +128,8 @@
 
 
 <!-- Permissions Table -->
+
+<!ENTITY permissionstable_title "Itheyibhuli Yemvume">
 
 <!-- Runtime Details -->
 
