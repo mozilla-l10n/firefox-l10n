@@ -63,7 +63,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!ENTITY key_reload_devtools "R">
 <!ENTITY projectPanel_myProjects "Мои проекты">
 <!ENTITY projectPanel_runtimeApps "Runtime приложения">
 <!ENTITY projectPanel_tabs "Вкладки">

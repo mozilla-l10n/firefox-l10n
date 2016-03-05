@@ -185,6 +185,8 @@
 <!ENTITY webDeveloperMenu.accesskey "б">
 <!ENTITY devToolsCmd.keycode "VK_F12">
 <!ENTITY devToolsCmd.keytext "F12">
+<!ENTITY devtoolsServiceWorkers.label "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey "k">
 <!ENTITY devtoolsConnect.label "Соединиться…">
 <!ENTITY devtoolsConnect.accesskey "е">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
@@ -221,7 +223,7 @@
 <!ENTITY devToolboxMenuItem.label "Инструменты разработки">
 <!ENTITY devToolboxMenuItem.accesskey "м">
 <!ENTITY devToolboxMenuItem.keytext "I">
-<!ENTITY devToolbarToolsButton.tooltip "Показать/скрыть инструменты разработки">
+<!ENTITY devToolbarToolsButton.tooltip "Показать/скрыть инструменты разработчика">
 <!ENTITY devToolbarOtherToolsButton.label "Другие инструменты">
 <!ENTITY getMoreDevtoolsCmd.label "Другие инструменты">
 <!ENTITY getMoreDevtoolsCmd.accesskey "у">
@@ -528,7 +530,6 @@
 <!ENTITY spellAddDictionaries.label "Добавить словари…">
 <!ENTITY spellAddDictionaries.accesskey "Д">
 <!ENTITY editBookmark.done.label "Готово">
-<!ENTITY editBookmark.cancel.label "Отмена">
 <!ENTITY editBookmark.removeBookmark.accessKey "д">
 <!ENTITY identity.connectionSecure "Защищённое соединение">
 <!ENTITY identity.connectionNotSecure "Незащищённое соединение">
@@ -555,6 +556,8 @@
 <!ENTITY identity.disableMixedContentBlocking.label "Пока отключить защиту">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "а">
 <!ENTITY identity.learnMore "Подробнее">
+<!ENTITY identity.removeCertException.label "Удалить исключение">
+<!ENTITY identity.removeCertException.accesskey "л">
 <!ENTITY identity.moreInfoLinkText2 "Подробнее">
 <!ENTITY identity.permissions "Разрешения">
 <!ENTITY identity.permissionsEmpty "Вы не давали этому сайту каких-либо специальных разрешений.">
@@ -571,8 +574,6 @@
 <!ENTITY syncedTabs.context.openTab.accesskey "ы">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label "Добавить эту вкладку в закладки…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "б">
-<!ENTITY syncedTabs.context.refreshList.label "Обновить список">
-<!ENTITY syncedTabs.context.refreshList.accesskey "н">
 <!ENTITY syncBrand.shortName.label "Синхронизация">
 <!ENTITY syncSignIn.label "Войти в Синхронизацию…">
 <!ENTITY syncSignIn.accesskey "о">

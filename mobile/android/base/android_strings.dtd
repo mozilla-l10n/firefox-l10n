@@ -108,7 +108,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Восстановить по умолчанию">
 <!ENTITY pref_search_hint "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем нажав на значок &formatI;.">
 <!ENTITY pref_category_advanced "Дополнительно">
-<!ENTITY pref_category_advanced_summary2 "Восстановление вкладок, плагины, инструменты разработки">
+<!ENTITY pref_category_advanced_summary2 "Восстановление вкладок, плагины, инструменты разработчика">
 <!ENTITY pref_developer_remotedebugging "Удалённая отладка">
 <!ENTITY pref_developer_remotedebugging_usb "Удалённая отладка через USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Удалённая отладка через Wi-Fi">
@@ -147,6 +147,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Всегда">
 <!ENTITY pref_tap_to_load_images_data "Только через Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Заблокирован">
+<!ENTITY pref_show_web_fonts "Отображать веб-шрифты">
 <!ENTITY pref_tracking_protection_title "Защита от отслеживания">
 <!ENTITY pref_tracking_protection_summary3 "Включена в Приватном просмотре">
 <!ENTITY pref_donottrack_title "Не отслеживать">
@@ -409,7 +410,6 @@
 <!ENTITY suggestions_prompt3 "Вы хотите включить поисковые предложения?">
 <!ENTITY search_bar_item_desc "Поиск через &formatS;">
 <!ENTITY suggestion_for_engine "Искать &formatS2; в &formatS1;">
-<!ENTITY webapp_generic_name "Приложение">
 <!ENTITY searchable_description "Закладки и история">
 <!ENTITY updater_start_title2 "Доступно обновление &brandShortName;">
 <!ENTITY updater_start_select2 "Нажмите для загрузки">
@@ -461,5 +461,7 @@
 <!ENTITY bookmarks_restricted_support2 "Справка и поддержка Firefox для ограниченных профилей на планшетах Android">
 <!ENTITY bookmarks_restricted_webmaker "Научитесь создавать Интернет: Mozilla Вебмейкер">
 <!ENTITY unsupported_sdk_version "Извините! Эта сборка &brandShortName; не может работать на этом устройстве (&formatS1;, &formatS2;). Пожалуйста, загрузите корректную версию.">
-<!ENTITY eol_notification_title "&brandShortName; больше не поддерживает Android 3">
+<!ENTITY eol_notification_title2 "&brandShortName; больше не будет обновляться">
 <!ENTITY eol_notification_summary "Нажмите, чтобы узнать больше">
+<!ENTITY whatsnew_notification_title "Установлена последняя версия &brandShortName;">
+<!ENTITY whatsnew_notification_summary "Узнать, что нового в этой версии">
