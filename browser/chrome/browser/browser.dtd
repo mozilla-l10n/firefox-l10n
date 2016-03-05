@@ -413,11 +413,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "没有打开的标签页">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "打开标签同步查看来自您的其他设备的选项卡列表。">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "打开标签页同步功能，查看来自您其他设备的标签页列表。">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "从您的其他设备登录到 Firefox 以查看其选项卡。">
+<!ENTITY appMenuRemoteTabs.noclients.label "在您的其他设备登录 Firefox 即可查看其标签页。">
 <!ENTITY appMenuRemoteTabs.openprefs.label "同步首选项">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "登录以查看来自您的其他设备的标签页列表。">
 <!ENTITY appMenuRemoteTabs.signin.label "登录至 同步">
