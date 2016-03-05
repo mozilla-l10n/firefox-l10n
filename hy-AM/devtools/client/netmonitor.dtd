@@ -316,7 +316,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
   -  on the context menu that saves all as HAR format -->
 
-<!ENTITY netmonitorUI.context.saveAllAsHar "Պահել բոլորը որպես HAR">
+<!ENTITY netmonitorUI.context.saveAllAsHar "Պահպանել բոլորը որպես HAR">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
   -  for the Save All As HAR menu item displayed in the context menu for a network panel -->
 
