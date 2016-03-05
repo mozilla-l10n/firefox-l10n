@@ -4,7 +4,7 @@
 
 <!ENTITY window.title                 "Na heuliañ ma roudoù">
 <!ENTITY window.width                 "50em">
-
+<!ENTITY window.height                "8em">
 
 <!ENTITY doNotTrackCheckbox.label     "Arverañ Na heuliañ ma roudoù">
 <!ENTITY doNotTrackCheckbox.accesskey "A">
