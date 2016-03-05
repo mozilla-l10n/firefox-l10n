@@ -6,8 +6,11 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Ιδιωτική περιήγηση)">
@@ -17,12 +20,16 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Ανανέωση καρτέλας">
+<!ENTITY  reloadTab.accesskey                "Α">
 <!ENTITY  reloadAllTabs.label                "Ανανέωση όλων των καρτελών">
+<!ENTITY  reloadAllTabs.accesskey            "λ">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Κλείσιμο καρτελών στα δεξιά">
+<!ENTITY  closeTabsToTheEnd.accesskey        "ξ">
 <!ENTITY  closeOtherTabs.label               "Κλείσιμο των άλλων καρτελών">
+<!ENTITY  closeOtherTabs.accesskey           "ω">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -30,31 +37,43 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Καρφίτσωμα καρτέλας">
+<!ENTITY  pinTab.accesskey                   "ρ">
 <!ENTITY  unpinTab.label                     "Ξεκαρφίτσωμα καρτέλας">
-<!ENTITY  moveToGroup.label                  "Μετακίνηση στην ομάδα">
-<!ENTITY  moveToNewGroup.label               "Νέα ομάδα">
+<!ENTITY  unpinTab.accesskey                 "κ">
 <!ENTITY  moveToNewWindow.label              "Μετακίνηση σε νέο παράθυρο">
+<!ENTITY  moveToNewWindow.accesskey          "π">
 <!ENTITY  bookmarkAllTabs.label              "Όλες οι καρτέλες σε σελιδοδείκτη…">
+<!ENTITY  bookmarkAllTabs.accesskey          "τ">
 <!ENTITY  undoCloseTab.label                 "Αναίρεση κλεισίματος καρτέλας">
+<!ENTITY  undoCloseTab.accesskey             "ν">
 <!ENTITY  closeTab.label                     "Κλείσιμο καρτέλας">
+<!ENTITY  closeTab.accesskey                 "Κ">
 
 <!ENTITY  listAllTabs.label      "Όλες οι καρτέλες σε λίστα">
 
 <!ENTITY tabCmd.label "Νέα καρτέλα">
+<!ENTITY tabCmd.accesskey "τ">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Άνοιγμα τοποθεσίας…">
 <!ENTITY openFileCmd.label "Άνοιγμα αρχείου…">
+<!ENTITY openFileCmd.accesskey "ν">
 <!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας…">
+<!ENTITY printSetupCmd.accesskey "μ">
 <!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
+<!ENTITY printPreviewCmd.accesskey "ρ">
 <!ENTITY printCmd.label "Εκτύπωση…">
+<!ENTITY printCmd.accesskey "κ">
 
 <!ENTITY goOfflineCmd.label "Εργασία χωρίς σύνδεση">
+<!ENTITY goOfflineCmd.accesskey "χ">
 
 <!ENTITY menubarCmd.label "Εργαλειοθήκη μενού">
+<!ENTITY menubarCmd.accesskey "θ">
 <!ENTITY navbarCmd.label "Εργαλειοθήκη πλοήγησης">
 <!ENTITY personalbarCmd.label "Εργαλειοθήκη σελιδοδεικτών">
+<!ENTITY personalbarCmd.accesskey "γ">
 <!ENTITY bookmarksToolbarItem.label "Αντικείμενα εργαλειοθήκης σελιδοδεικτών">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Ανανέωση όλων των καρτελών">
@@ -62,7 +81,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Αναίρεση κλεισίματος καρτέλας">
 
 <!ENTITY pageSourceCmd.label "Κώδικας σελίδας">
+<!ENTITY pageSourceCmd.accesskey "δ">
 <!ENTITY pageInfoCmd.label "Πληροφορίες σελίδας">
+<!ENTITY pageInfoCmd.accesskey "λ">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Μετάβαση σε πλήρη οθόνη">
@@ -162,8 +183,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label             "Αρχική σελίδα">
 
-<!ENTITY tabGroupsButton.label        "Ομάδες καρτελών">
-
 <!ENTITY bookmarksButton.label          "Σελιδοδείκτες">
 
 <!ENTITY bookmarksMenuButton.label          "Σελιδοδείκτες">
@@ -184,8 +203,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Λήψεις">
 <!ENTITY addons.label                 "Πρόσθετα">
-<!ENTITY webapps.label                "Εφαρμογές">
-<!ENTITY loopMenuItem.label           "Ξεκινήστε μια συνομιλία…">
 
 <!ENTITY webDeveloperMenu.label       "Εργαλεία Προγραμματιστή">
 
@@ -263,7 +280,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Προβολή"> 
  
-<!ENTITY viewTabGroups.label            "Ομάδες καρτελών">
 <!ENTITY viewToolbarsMenu.label       "Εργαλειοθήκες"> 
  
 <!ENTITY viewSidebarMenu.label "Πλευρική στήλη">
@@ -287,6 +303,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Επαναφορά προηγούμενης συνεδρίας">
 <!ENTITY appMenuHistory.viewSidebar.label "Προβολή πλευρικής στήλης ιστορικού">
 <!ENTITY appMenuHelp.tooltip "Άνοιγμα βοήθειας">
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
 
 <!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στην εργαλειοθήκη">
 <!ENTITY customizeMenu.addToPanel.label "Προσθήκη στο μενού">
@@ -362,7 +386,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "Αναζήτηση σε νέα καρτέλα">
 <!ENTITY searchSetAsDefault.label     "Ορισμός ως προκαθορισμένη μηχανή αναζήτησης">
-
 
 <!ENTITY openLinkCmdInTab.label       "Άνοιγμα δεσμού σε νέα καρτέλα">
 <!ENTITY openLinkCmd.label            "Άνοιγμα δεσμού σε νέο παράθυρο">
@@ -495,7 +518,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.">
 <!ENTITY identity.connectionVerified1 "Είστε συνδεδεμένοι με ασφάλεια σε αυτό τη σελίδα, η οποία διευθύνεται από:">
 <!ENTITY identity.connectionInternal "Αυτή είναι μια ασφαλής σελίδα του &brandShortName;.">
-<!ENTITY identity.insecureLoginForms "Η σύνδεση σας μπορεί να τίθεται σε κίνδυνο.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Ο &brandShortName; έχει εμποδίσει τμήματα αυτής της σελίδας που δεν είναι ασφαλή.">
@@ -528,8 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Καρτέλες περιηγητή">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu2.label     "Καρτέλες άλλων συσκευών">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 
 
 <!ENTITY syncSignIn.label             "Είσοδος στο &syncBrand.shortName.label; …">
@@ -637,15 +658,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Καλή και ασφαλή περιήγηση!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ευχαριστώ!">
 
-<!ENTITY processHang.terminateScript.label        "Διακοπή σεναρίου ενεργειών">
-<!ENTITY processHang.debugScript.label            "Αποσφαλμάτωση σεναρίου ενεργειών">
-<!ENTITY processHang.terminatePlugin.label        "Διακοπή πρόσθετης λειτουργίας">
-
 <!ENTITY emeLearnMoreContextMenu.label            "Μάθετε περισσότερα για το DRM…">
 <!ENTITY emeNotificationsNotNow.label             "Όχι τώρα">
 <!ENTITY emeNotificationsDontAskAgain.label       "Να μην ερωτηθώ ξανά">
-
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-<!ENTITY saveToPocketCmd.label     "Αποθήκευση σελίδας στο Pocket">
-<!ENTITY saveLinkToPocketCmd.label     "Αποθήκευση δεσμού στο Pocket">
-<!ENTITY pocketMenuitem.label      "Προβολή λίστας του Pocket">

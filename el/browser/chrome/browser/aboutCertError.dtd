@@ -10,23 +10,9 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Μη έμπιστη σύνδεση">
-<!ENTITY certerror.longpagetitle "Η τρέχουσα σύνδεση στην σελίδα δεν είναι έμπιστη">
-
-<!-- These are going to be used for the updated design in Bug 1207107 -->
 <!ENTITY certerror.pagetitle1  "Μη ασφαλής σύνδεση">
 <!ENTITY certerror.longpagetitle1 "Η σύνδεση δεν είναι ασφαλής">
 
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara1 "Έχετε ζητήσει από τον &brandShortName; μια ασφαλή σύνδεση
-στο <b>#1</b>, αλλά δεν είναι δυνατή η πιστοποίηση της ασφάλειας της σύνδεσης.">
-<!ENTITY certerror.introPara2 "Κανονικά, όταν προσπαθείτε να κάνετε μια ασφαλή σύνδεση,
-οι σελίδες παρουσιάζουν έμπιστα αρχεία πιστοποίησης που αποδεικνύουν την ταυτότητα τους. 
-Η ταυτότητα αυτής της σελίδας δεν μπορεί να πιστοποιηθεί.">
-
-<!-- These are going to be used for the udpated design in Bug 1207107 -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -35,14 +21,8 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "Μάθετε περισσότερα…">
 <!ENTITY certerror.advanced.label "Για προχωρημένους">
 
-<!ENTITY certerror.whatShouldIDo.heading "Τι θέλετε να γίνει;">
-<!ENTITY certerror.whatShouldIDo.content "Αν συνήθως συνδέεστε σε αυτή την σελίδα
-χωρίς προβλήματα, αυτό το σφάλμα σημάινει ότι κάποιος προσπαθεί να πλαστογραφήσει 
-την ταυτότητα της σελίδας και δεν πρέπει να συνεχίσετε.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Αυτή η σελίδα χρησιμοποιεί το πρωτόκολλο  HTTP Strict Transport Security (HSTS) για να καθορίσει ότι η σύνδεση του &brandShortName; είναι ασφαλής. Αυτό έχει ως αποτέλεσμα να είναι αδύνατη η προσθήκη εξαίρεσης για αυτό το πιστοποιητικό.">
-<!ENTITY certerror.getMeOutOfHere.label "Να φύγω από εδώ!">
 
-<!ENTITY certerror.expert.heading "Καταλαβαίνω τους κινδύνους">
 <!ENTITY certerror.expert.content "Αν καταλαβαίνετε τι συμβαίνει, μπορείτε να
 πείτε στον &brandShortName; να εμπιστεύεται από εδώ και πέρα την ταυτότητα της σελίδας.
 <b>Ακόμα και αν εμπιστεύεστε αυτή την σελίδα, αυτό το σφάλμα μπορεί αν σημαίνει ότι κάποιος 
@@ -50,5 +30,9 @@ was trying to connect. -->
 <!ENTITY certerror.expert.contentPara2 "Μην προσθέτετε εξαιρέσεις εκτός και αν γνωρίζετε πολύ καλά 
 το λόγο για τον οποίο αυτή η σελίδα δεν χρησιμοποιεί έμπιστη πιστοποίηση.">
 <!ENTITY certerror.addException.label "Προσθήκη εξαίρεσης…">
+<!ENTITY certerror.copyToClipboard.label "Αντιγραφή κειμένου στο πρόχειρο">
 
-<!ENTITY certerror.technical.heading "Τεχνικές λεπτομέρειες">
+<!ENTITY errorReporting.automatic "Αναφέρετε σφάλματα όπως αυτό για να βοηθήσετε το Mozilla στον εντοπισμό ιστοσελίδων με εσφαλμένες ρυθμίσεις">
+<!ENTITY errorReporting.sending "Αποστολή αναφοράς">
+<!ENTITY errorReporting.sent "Η αναφορά εστάλη">
+<!ENTITY errorReporting.tryAgain "Προσπαθήστε ξανά">

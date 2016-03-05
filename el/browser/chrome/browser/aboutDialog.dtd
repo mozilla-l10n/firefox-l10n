@@ -31,6 +31,7 @@
 
 <!ENTITY community.start2           "Ο &brandShortName; δημιουργήθηκε από το ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", μια ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "παγκόσμια κοινότητα">
@@ -42,6 +43,8 @@
 <!ENTITY helpus.middle              "ή">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "συμμετέχετε εθελοντικά!">
+
+<!ENTITY releaseNotes.link          "Τι νέο υπάρχει">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Πληροφορίες άδειας">

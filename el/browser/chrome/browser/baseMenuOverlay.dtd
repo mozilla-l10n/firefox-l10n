@@ -8,25 +8,35 @@
 <!ENTITY windowMenu.label         "Παράθυρο">
 
 <!ENTITY helpMenu.label           "Βοηθεια"> 
- 
+<!ENTITY helpMenu.accesskey       "Β"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Βοήθεια"> 
+<!ENTITY helpMenuWin.accesskey    "Β">
 <!ENTITY aboutProduct2.label      "Περί &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "ρ">
 <!ENTITY productHelp2.label       "Βοήθεια &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "Β">
+<!ENTITY helpMac.commandkey       ";">
 
 <!ENTITY helpKeyboardShortcuts.label     "Συντομεύσεις πληκτρολογίου">
+<!ENTITY helpKeyboardShortcuts.accesskey "υ">
 
 <!ENTITY helpSafeMode.label       "Επανεκκίνηση χωρίς πρόσθετες λειτουργίες…">
+<!ENTITY helpSafeMode.accesskey   "χ">
 <!ENTITY helpSafeMode.stop.label       "Επανεκκίνηση με πρόσθετες λειτουργίες">
 
 <!ENTITY healthReport2.label      "Αναφορά υγείας &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "γ">
 
 <!ENTITY helpTroubleshootingInfo.label      "Πληροφορίες αντιμετώπισης προβλημάτων">
+<!ENTITY helpTroubleshootingInfo.accesskey  "μ">
 
 <!ENTITY helpFeedbackPage.label      "Υποβολή σχολίων…">
+<!ENTITY helpFeedbackPage.accesskey  "λ">
 
 <!ENTITY helpShowTour2.label            "Ξενάγηση στον &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "Ξ">
 
 <!ENTITY preferencesCmdMac.label        "Προτιμήσεις…">
 

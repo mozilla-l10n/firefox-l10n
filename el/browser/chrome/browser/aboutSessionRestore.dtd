@@ -13,7 +13,9 @@
 <!ENTITY restorepage.startNew       "Ξεκινήστε μια νέα συνεδρία">
 
 <!ENTITY restorepage.tryagainButton "Επαναφορά">
+<!ENTITY restorepage.restore.access "ρ">
 <!ENTITY restorepage.closeButton    "Κλείσιμο">
+<!ENTITY restorepage.close.access   "Κ">
 
 <!ENTITY restorepage.restoreHeader  "Επαναφορά">
 <!ENTITY restorepage.listHeader     "Παραθύρων και καρτελών">
@@ -44,3 +46,7 @@ their language.
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Οι πρόσθετες λειτουργίες σας και οι προσαρμογές σας έχουν αφαιρεθεί και έχει γίνει επαναφορά των ρυθμίσεων του περιηγητή σας. Εάν αυτό δεν διόρθωσε το πρόβλημα, ">
 
 <!ENTITY welcomeback2.link.pageInfo2        "μάθετε περισσότερα για το τι μπορείτε να κάνετε.">
+
+<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
+     the tab groups (panorama) migration page, not about:sessionrestore -->
+
