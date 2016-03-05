@@ -33,10 +33,10 @@
 <!ENTITY closeCmd.label "Փակել">
 <!ENTITY closeCmd.key "Փ">
 <!ENTITY closeCmd.accesskey "C">
-<!ENTITY saveCmd.label "Պահել">
+<!ENTITY saveCmd.label "Պահպանել">
 <!ENTITY saveCmd.key "Պ">
 <!ENTITY saveCmd.accesskey "Պ">
-<!ENTITY saveAsCmd.label "Պահել Որպես">
+<!ENTITY saveAsCmd.label "Պահպանել Որպես">
 <!ENTITY saveAsCmd.accesskey "Ո">
 <!ENTITY saveAsFileCmd.label "Ֆայլ...">
 <!ENTITY saveAsFileCmd.accesskey "F">
@@ -205,7 +205,7 @@
 <!ENTITY addressButton.label "Կոնտակտներ">
 <!ENTITY attachButton.label "Կցել">
 <!ENTITY spellingButton.label "Ուղղագրությունը">
-<!ENTITY saveButton.label "Պահել">
+<!ENTITY saveButton.label "Պահպանել">
 <!ENTITY printButton.label "Տպել">
 <!-- Mail Toolbar Tooltips -->
 
@@ -216,7 +216,7 @@
 <!ENTITY attachButton.tooltip "Ներառել կցորդ">
 <!ENTITY spellingButton.tooltip "Ստուգել ընտրվածի ուղղագրությունը">
 <!ENTITY statusLanguageText.tooltip "Ուղղագրությունը ստուգելու լեզուն">
-<!ENTITY saveButton.tooltip "Պահել նամակը">
+<!ENTITY saveButton.tooltip "Պահպանել նամակը">
 <!ENTITY cutButton.tooltip              "Կտրել">
 <!ENTITY copyButton.tooltip             "Պատճենել">
 <!ENTITY pasteButton.tooltip            "Տեղադրել">

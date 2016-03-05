@@ -11,11 +11,11 @@
 <!ENTITY openRemoteCmd.key "Բ">
 <!ENTITY fileRecentMenu.label "Վերջին էջերը">
 <!ENTITY fileRecentMenu.accesskey "Վ">
-<!ENTITY saveCmd.label "Պահել">
+<!ENTITY saveCmd.label "Պահպանել">
 <!ENTITY saveCmd.accesskey "Պ">
-<!ENTITY saveAsCmd.label "Պահել որպես…">
+<!ENTITY saveAsCmd.label "Պահպանել որպես…">
 <!ENTITY saveAsCmd.accesskey "ո">
-<!ENTITY saveAsChangeEncodingCmd2.label "Պահել և փոխել գրանշանի կոդավորումը">
+<!ENTITY saveAsChangeEncodingCmd2.label "Պահպանել և փոխել գրանշանի կոդավորումը">
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "կ">
 <!ENTITY publishCmd.label "Հրապարակել">
 <!ENTITY publishCmd.accesskey "Հ">
