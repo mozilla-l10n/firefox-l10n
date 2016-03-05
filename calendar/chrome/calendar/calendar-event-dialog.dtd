@@ -98,7 +98,7 @@
 <!ENTITY  event.menu.view.toolbars.accesskey              "T">
 <!ENTITY  event.menu.view.toolbars.event.label            "Event Toolbar">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
-<!ENTITY  event.menu.view.toolbars.customize.label        "Customize…">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Customise…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "C">
 <!ENTITY  event.menu.view.showlink.label                  "Show Related Link">
 <!ENTITY  event.menu.view.showlink.accesskey              "R">
