@@ -13,7 +13,7 @@
 <!ENTITY crashReports.caption "Сообщения о падениях">
 <!ENTITY submitCrashes.label "Отправлять сообщения о падениях">
 <!ENTITY submitCrashes.accesskey "п">
-<!ENTITY devTools.caption "Инструменты разработки">
+<!ENTITY devTools.caption "Инструменты разработчика">
 <!ENTITY allowDebugger.label "Разрешить отладчику соединяться с &brandShortName;">
 <!ENTITY allowDebugger.accesskey "и">
 <!ENTITY allowRemoteConnections.label "Разрешать соединения с других компьютеров">
