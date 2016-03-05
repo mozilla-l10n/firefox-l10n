@@ -40,7 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "अझ जान्नुहोस्">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; ले  &vendorShortName; लाई तपाईँको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि सहयोगार्थ क्र्यास प्रतिवेदनहरू पेश गर्छ">
+<!ENTITY crashReporterDesc.label         "&brandShortName; ले &vendorShortName; लाई तपाईँको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि सहयोगार्थ क्र्यास प्रतिवेदनहरू पेश गर्छ">
 <!ENTITY enableCrashReporter.label       "क्र्यास विवरण सक्षम पार्नुहोस्">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "अझ जान्नुहोस्">

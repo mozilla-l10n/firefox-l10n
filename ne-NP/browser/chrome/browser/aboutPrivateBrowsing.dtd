@@ -27,7 +27,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोडहरू">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "पुस्तकचिनोहरू">
 
-<!ENTITY aboutPrivateBrowsing.note1            "निजी ब्राउजिङ् भएतापनि तपाईँको कम्पनी अथवा इन्टरनेटदाताले तपाईँले हेर्नुभएको साइटहरू ट्र्याक गर्न सक्छ।">
+<!ENTITY aboutPrivateBrowsing.note1            "निजी ब्राउजिङ् भएता पनि तपाईँको कम्पनी अथवा इन्टरनेट सेवा प्रदायक तपाईँले हेर्नुभएको साइटहरू ट्र्याक गर्न सक्छ।">
 <!ENTITY aboutPrivateBrowsing.learnMore        "अझ जान्नुहोस्।">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
