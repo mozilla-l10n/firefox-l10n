@@ -140,7 +140,7 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Ինքնավար ներմուծել փակող փակագիծ">
 <!ENTITY prefs_options_keybindings "Ստեղնաշարի համադրումներ">
 <!ENTITY prefs_options_keybindings_default "Լռելյայն">
-<!ENTITY prefs_options_autosavefiles "Ինքնապահել ֆայլերը">
+<!ENTITY prefs_options_autosavefiles "Ինքնապահպանել ֆայլերը">
 
 <!-- Permissions Table -->
 

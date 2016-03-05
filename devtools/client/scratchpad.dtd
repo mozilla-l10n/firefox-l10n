@@ -39,12 +39,12 @@
 <!ENTITY revertCmd.label              "Վերադարձնել…">
 <!ENTITY revertCmd.accesskey          "ա">
 
-<!ENTITY saveFileCmd.label            "Պահել">
+<!ENTITY saveFileCmd.label            "Պահպանել">
 <!ENTITY saveFileCmd.accesskey        "Պ">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Պահել որպես…">
-<!ENTITY saveFileAsCmd.accesskey      "Պ">
+<!ENTITY saveFileAsCmd.label          "Պահպանել որպես…">
+<!ENTITY saveFileAsCmd.accesskey      "ո">
 
 <!ENTITY closeCmd.label               "Փակել">
 <!ENTITY closeCmd.key                 "W">
