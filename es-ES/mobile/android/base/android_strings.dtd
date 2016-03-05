@@ -413,7 +413,6 @@
 <!ENTITY suggestions_prompt3 "¿Le gustaría activar las sugerencias de búsqueda?">
 <!ENTITY search_bar_item_desc "Buscar con &formatS;">
 <!ENTITY suggestion_for_engine "Buscar &formatS2; en &formatS1;">
-<!ENTITY webapp_generic_name "Aplicaciones">
 <!ENTITY searchable_description "Marcadores e historial">
 <!ENTITY updater_start_title2 "Actualización disponible para &brandShortName;">
 <!ENTITY updater_start_select2 "Pulse para descargar">
@@ -465,5 +464,7 @@
 <!ENTITY bookmarks_restricted_support2 "Ayuda y asistencia de Firefox para perfiles limitados en tabletas Android">
 <!ENTITY bookmarks_restricted_webmaker "Aprenda la web: Mozilla Webmaker">
 <!ENTITY unsupported_sdk_version "¡Lo sentimos! Este &brandShortName; no funcionará en este dispositivo (&formatS1;, &formatS2;). Descargue la versión correcta.">
-<!ENTITY eol_notification_title "&brandShortName; ya no es compatible con Android 3">
+<!ENTITY eol_notification_title2 "&brandShortName; ya no se actualizará">
 <!ENTITY eol_notification_summary "Toque para más información">
+<!ENTITY whatsnew_notification_title "&brandShortName; está actualizado">
+<!ENTITY whatsnew_notification_summary "Descubra las novedades de esta versión">
