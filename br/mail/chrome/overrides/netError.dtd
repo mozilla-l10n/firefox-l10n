@@ -34,7 +34,7 @@ gwiriekait eo aotreet &brandShortName; da dizhout ar web.</li>
 </ul>">
 
 <!ENTITY generic.title "N'haller ket echuiñ an azgoulenn-mañ.">
-<!ENTITY generic.longDesc " <p>Titouroù ouzhpenn diwar-benn ar gudenn-mañ pe ar fazi-mañ n'int ket hegerz evit poent.</p>">
+<!ENTITY generic.longDesc " <p>N'hall ket &brandShortName; kargañ ar bajennad-mañ.</p>">
 
 <!ENTITY malformedURI.title "N'eo ket talvoudek ar chomlec'h">
 <!ENTITY malformedURI.longDesc "<ul> 
