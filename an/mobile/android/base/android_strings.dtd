@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "Fe que a tuya experiencia de navegación web mobil siga tuya nomás.">
 
 <!ENTITY firstrun_urlbar_message "Bienveniu ta &brandShortName;!">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Troba las cosas mas rapidas con utils alcorces de sucherencias de busca">
+<!ENTITY firstrun_bookmarks_title "Historial">
+<!ENTITY firstrun_bookmarks_message "Los tuyos favorites, debant y en o centro">
+<!ENTITY firstrun_bookmarks_subtext "Obtiene los resultaus d\u0027os tuyos marcapachinas y historial quan miras.">
+<!ENTITY firstrun_data_title "Datos">
+<!ENTITY firstrun_data_message "Menos datos, cabidar mas">
+<!ENTITY firstrun_data_subtext "Blocar imachens pa gastar menos datos en cada puesto que vesites.">
 <!ENTITY firstrun_sync_title "Sincronizar">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, siempre a lo tuyo costau">
+<!ENTITY firstrun_sync_subtext "Sincroniza las tuyas pestanyas, claus y mas, siempre que l\u0027uses.">
+<!ENTITY firstrun_signin_message "Connecta-te, empecia">
+<!ENTITY firstrun_signin_button "Dentra en Sync">
 <!ENTITY  onboard_start_button_browser "Encetar navego">
 <!ENTITY firstrun_button_next "Siguient">
 
@@ -251,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Puet cambiar-lo dimpués en Achustes">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Enchega-lo pa permitir dibuixar sobre atras aplicacions">
 <!ENTITY tab_queue_prompt_positive_action_button "Activar">
 <!ENTITY tab_queue_prompt_negative_action_button "No pas agora">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Ir ta los achustes">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -266,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 pestanya ye aguardando">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Pa \&quot;Ubrir vinclos multiples\&quot;, activa lo permiso \u0027Dibuixar sobre atras aplicacions\u0027 pa &brandShortName;">
 
 <!ENTITY pref_char_encoding "Amostrar a codificación">
 <!ENTITY pref_char_encoding_on "Amostrar o menú">
@@ -534,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "As suyas pestanyas recients s\u0027amostrarán aquí.">
 <!ENTITY home_open_all "Ubrir tot">
 <!ENTITY home_most_recent_empty "Os puestos web que ha visitau en zagueras s\u0027amostrarán aquí.">
-
+<!ENTITY home_selected_empty "Las webs que has vesitau en lo intervalo trigau s\u0027amuestran aquí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: fer servir una &formatS1;Nueva Pestanya Privada&formatS2; no alzará a suya historia.">
@@ -597,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Connexión segura">
 <!ENTITY identity_connection_insecure "Connexión insegura">
 <!ENTITY identity_login_insecure "Ista pachina no ye segura y la suya información d\u0027acceso podría estar vulnerable.">
-
+<!ENTITY identity_connection_chromeui "Isto ye una pachina &brandShortName; segura">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ha blocau o conteniu inseguro d\u0027ista pachina.">
@@ -621,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "S\u0027ha borrau os datos privaus">
 <!ENTITY private_data_fail "Bells datos privaus no s\u0027han puesto borrar">
 
+<!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Se son importando os marcapachinas y 
 l\u0027historial dende Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Se son importando os 
@@ -661,7 +666,10 @@ dende Android">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Ta descargar los fichers y actualizacions, ha de dar permiso a &brandShortName; pa acceder ta l\u0027almagazenamiento.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Permitir">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Nueva sesión de convidau">
@@ -751,8 +759,8 @@ dende Android">
 <!ENTITY restrictable_feature_advanced_settings_description "Isto incluye la importación de marcapachinas, a restauración de pestanyas y as actualizacions automaticas. Desactivar pa tener achustes simplificaus adequaus pa qualsequier miembro d\u0027a familia.">
 <!ENTITY restrictable_feature_camera_microphone "Camera &amp; Microfono">
 <!ENTITY restrictable_feature_camera_microphone_description "Permite que os miembros d\u0027a familia puedan fer comunicación en tiempo real en pachinas web.">
-
-
+<!ENTITY restrictable_feature_block_list "Lista de bloqueyo">
+<!ENTITY restrictable_feature_block_list_description "Blocar webs que incluigan conteniu sensible.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
