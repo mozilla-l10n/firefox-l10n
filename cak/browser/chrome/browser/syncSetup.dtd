@@ -110,5 +110,5 @@
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Xtzaqät runuk'ulem">
-<!ENTITY changeOptions.label "Yatikïr nak'ëx re ajowab'äl re' rik'in nacha' ri cha'oj richin ximojri'ïl pa xulan qa.">
+<!ENTITY changeOptions.label "Yatikïr nak'ëx re cha'oj re' rik'in nacha' ri Cha'oj richin Sync pa xulan qa.">
 <!ENTITY continueUsing.label "Yatikïr nachäp chik el rik'in nawokisaj &brandShortName;.">
