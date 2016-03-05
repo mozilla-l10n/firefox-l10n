@@ -20,8 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Datos de ping archivaus">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Amostrar datos de ping:">
 
+<!ENTITY aboutTelemetry.structured "Estructurau">
 
+<!ENTITY aboutTelemetry.raw "JSON crudo">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Amostrar datos d'a subsession">
 
@@ -31,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping mas viello &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Datos crudos de ping ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
 
