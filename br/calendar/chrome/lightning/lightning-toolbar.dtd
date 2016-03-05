@@ -10,13 +10,13 @@
 <!ENTITY lightning.toolbar.sync.label "Goubredañ">
 <!ENTITY lightning.toolbar.sync.tooltip "Adkargañ an deiziataerioù ha goubredañ ar c'hemmadennoù">
 <!ENTITY lightning.toolbar.delete.label "Dilemel">
-<!ENTITY lightning.toolbar.delete.tooltip "Dilemel an degouezhioù hag an trevelloù diuzet">
+<!ENTITY lightning.toolbar.delete.tooltip "Dilemel an darvoudoù hag an trevelloù diuzet">
 <!ENTITY lightning.toolbar.edit.label "Embann">
-<!ENTITY lightning.toolbar.edit.tooltip "Embann an degouezh pe an trevell diuzet">
+<!ENTITY lightning.toolbar.edit.tooltip "Embann an darvoud pe an trevell diuzet">
 
 
 <!ENTITY lightning.toolbar.print.label "Moullañ">
-<!ENTITY lightning.toolbar.print.tooltip "Moullañ an degouezhioù pe an trevelloù">
+<!ENTITY lightning.toolbar.print.tooltip "Moullañ an darvoudoù pe an trevelloù">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Deiziataer">
@@ -27,8 +27,8 @@
 
 <!-- Toolbar write button -->
 
-<!ENTITY lightning.toolbar.newevent.label     "Degouezh">
-<!ENTITY lightning.toolbar.newevent.tooltip   "Krouiñ un degouezh nevez">
+<!ENTITY lightning.toolbar.newevent.label     "Darvoud">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Krouiñ un darvoud nevez">
 <!ENTITY lightning.toolbar.newtask.label      "Trevell">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Krouiñ un drevell nevez">
 <!-- Calendar and Task Mode Toolbar -->

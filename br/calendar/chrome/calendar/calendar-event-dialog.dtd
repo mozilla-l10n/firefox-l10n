@@ -32,6 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
+<!ENTITY event.attendees.notify.label               "Rebuziñ ar berzhidi">
+<!ENTITY event.attendees.notify.accesskey           "b">
 <!ENTITY event.attendees.notifyundisclosed.label    "Pep a bedadenn diforc'h d'ar berzhidi">
 
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Pep a bedadenn a vez kaset d'ar berzhidi gant an dibarzh-mañ. N'eus nemet ar perzhiad kasadour e pep pedadenn evit ma ne vefe ket diskuliet pivelezh ar berzhidi all.">
@@ -339,7 +341,7 @@
 <!ENTITY event.freebusy.zoom                    "Zoum:">
 <!ENTITY event.freebusy.legend.free             "Dieub" >
 <!ENTITY event.freebusy.legend.busy             "Ac'hubet" >
-
+<!ENTITY event.freebusy.legend.busy_tentative   "Argeziad" >
 <!ENTITY event.freebusy.legend.busy_unavailable "N'emañ ket eno" >
 <!ENTITY event.freebusy.legend.unknown          "Titour ebet" >
 <!ENTITY event.attendee.role.required           "Perzhiad rekis">
@@ -350,7 +352,7 @@
 <!ENTITY event.attendee.usertype.group          "Stroll">
 <!ENTITY event.attendee.usertype.resource       "Loaz">
 <!ENTITY event.attendee.usertype.room           "Sal">
-
+<!ENTITY event.attendee.usertype.unknown        "Dianav">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Erspizit ar gennad-eur, mar plij">
