@@ -10,7 +10,20 @@
 <!ENTITY  onboard_start_message3 "Brskajte s &brandShortName;om">
 <!ENTITY  onboard_start_subtext3 "Naredite mobilno brskanje po spletu resnično vaše.">
 
-<!ENTITY  onboard_start_button_browser "Začnite z brskanjem">
+<!ENTITY firstrun_urlbar_message "Dobrodošli v &brandShortName;u">
+<!ENTITY firstrun_urlbar_subtext "Iščite hitreje s pomočjo uporabnih iskalnih predlogov.">
+<!ENTITY firstrun_bookmarks_title "Zgodovina">
+<!ENTITY firstrun_bookmarks_message "Vse priljubljeno na dosegu roke">
+<!ENTITY firstrun_bookmarks_subtext "Med iskanjem se vam prikažejo rezultati iz zgodovine iskanja in zaznamkov.">
+<!ENTITY firstrun_data_title "Podatki">
+<!ENTITY firstrun_data_message "Manj kot je podatkov, več je prihrankov">
+<!ENTITY firstrun_data_subtext "Blokirajte prikazovanje slik in zmanjšajte prenos podatkov vsake obiskane strani.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName; - vedno na vaši strani">
+<!ENTITY firstrun_sync_subtext "Sinhrinizirajte zavihke, gesla in drugo na vseh mestih.">
+<!ENTITY firstrun_signin_message "Povežite se in začnite">
+<!ENTITY firstrun_signin_button "Prijava v Sync">
+<!ENTITY  onboard_start_button_browser "Začnite brskanti">
 <!ENTITY firstrun_button_next "Naprej">
 
 <!ENTITY  onboard_start_restricted1 "Ostanite varni in obdržite nadzor, z to poenostavljeno različico &brandShortName;.">
@@ -238,10 +251,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "To lahko pozneje spremenite v nastavitvah">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Vključi risanje čez druge aplikacije">
 <!ENTITY tab_queue_prompt_positive_action_button "Omogoči">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne zdaj">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Odpri nastavitve">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -523,6 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tukaj se prikažejo vaši nedavni zavihki.">
 <!ENTITY home_open_all "Odpri vse">
 <!ENTITY home_most_recent_empty "Tukaj se prikažejo nedavno obiskane spletne strani.">
+<!ENTITY home_selected_empty "Tu so prikazane strani, ki ste jih obiskali v izbranem času.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: uporaba &formatS1;Novega zasebnega zavihka&formatS2; ne shranjuje vaše zgodovine.">
@@ -585,6 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Varna povezava">
 <!ENTITY identity_connection_insecure "Nevarna povezava">
 <!ENTITY identity_login_insecure "Ta stran ni varna, zato lahko vašo prijavo prestrežejo.">
+<!ENTITY identity_connection_chromeui "To je varna &brandShortName; stran">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; je zavrnil nevarno vsebino na tej stran.">
@@ -650,7 +667,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Za prenos datotek in posodobitev omogočite &brandShortName; dovoljenje za dostop do shrambe.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Dovoli">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova gostujoča seja">
@@ -740,6 +759,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "To vsebuje uvažanje zaznamkov, onavljanje zavihkov in avtomatske posodobitve. Izključite za poenostavljene nastavitve primerne za vse družinske člane.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera in mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Dovoli družinskim članom, da uporabljajo komunikacijo v realnem času na spletnih straneh.">
+<!ENTITY restrictable_feature_block_list "Seznam blokiranih">
+<!ENTITY restrictable_feature_block_list_description "Blokirajte strani z občutljivo vsebino.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
