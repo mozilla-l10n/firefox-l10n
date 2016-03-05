@@ -35,7 +35,7 @@
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label          "Synchronization">
+<!ENTITY folderSynchronizationTab.label          "Synchronisation">
 <!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 

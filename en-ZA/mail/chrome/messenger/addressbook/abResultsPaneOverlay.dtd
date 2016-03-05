@@ -20,8 +20,8 @@
 <!ENTITY Department.accesskey                  "r">
 <!ENTITY JobTitle.label                        "Title">
 <!ENTITY JobTitle.accesskey                    "T">
-<!ENTITY CellularNumber.label                  "Mobile">
-<!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY CellularNumber.label                  "Cell">
+<!ENTITY CellularNumber.accesskey              "C">
 <!ENTITY PagerNumber.label                     "Pager">
 <!ENTITY PagerNumber.accesskey                 "P">
 <!ENTITY FaxNumber.label                       "Fax">
