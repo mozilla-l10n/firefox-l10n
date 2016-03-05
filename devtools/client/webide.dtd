@@ -7,7 +7,7 @@
 <!ENTITY projectMenu_accesskey "P">
 
 
-
+<!ENTITY projectMenu_importPackagedApp_label "Vula I-app Ekwipakeji…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
 
 
@@ -51,7 +51,7 @@
 <!ENTITY viewMenu_zoomin_label "Sondeza Kufuphi">
 
 <!ENTITY viewMenu_zoomout_label "Bhekelisela Kudana">
-
+<!ENTITY viewMenu_zoomout_accesskey "O">
 
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
@@ -59,6 +59,7 @@
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
