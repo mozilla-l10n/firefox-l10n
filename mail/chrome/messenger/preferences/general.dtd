@@ -19,7 +19,7 @@
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label          "Show an alert">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY customizeMailAlert.label         "Customize…">
+<!ENTITY customizeMailAlert.label         "Customise…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
 <!ENTITY showTrayIcon.label               "Show a tray icon">

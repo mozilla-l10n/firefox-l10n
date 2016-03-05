@@ -20,9 +20,9 @@
 <!ENTITY font.accesskey                       "n">
 <!ENTITY size.label                           "Size:">
 <!ENTITY size.accesskey                       "z">
-<!ENTITY fontColor.label                      "Text Color:">
+<!ENTITY fontColor.label                      "Text Colour:">
 <!ENTITY fontColor.accesskey                  "T">
-<!ENTITY bgColor.label                        "Background Color:">
+<!ENTITY bgColor.label                        "Background Colour:">
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">

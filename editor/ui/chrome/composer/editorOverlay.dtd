@@ -134,7 +134,7 @@
 <!ENTITY styleVar.label "Variable">
 <!ENTITY styleVar.accesskey "V">
 
-<!ENTITY formatFontColor.label "Text Color…">
+<!ENTITY formatFontColor.label "Text Colour…">
 <!ENTITY formatFontColor.accesskey "C">
 <!ENTITY tableOrCellColor.label "Table or Cell Background Colour…">
 <!ENTITY tableOrCellColor.accesskey "B">
@@ -196,9 +196,9 @@
 <!ENTITY alignLeft.label "Left">
 <!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "Align Left">
-<!ENTITY alignCenter.label "Center">
+<!ENTITY alignCenter.label "Centre">
 <!ENTITY alignCenter.accesskey "C">
-<!ENTITY alignCenter.tooltip "Align Center">
+<!ENTITY alignCenter.tooltip "Align Centre">
 <!ENTITY alignRight.label "Right">
 <!ENTITY alignRight.accesskey "R">
 <!ENTITY alignRight.tooltip "Align Right">

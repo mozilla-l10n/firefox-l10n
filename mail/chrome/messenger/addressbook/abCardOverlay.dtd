@@ -68,8 +68,8 @@
 <!ENTITY HomeCity.accesskey             "y">
 <!ENTITY HomeState.label                "State/Province:">
 <!ENTITY HomeState.accesskey            "S">
-<!ENTITY HomeZipCode.label              "ZIP/Postal Code:">
-<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY HomeZipCode.label              "Post Code:">
+<!ENTITY HomeZipCode.accesskey          "P">
 <!ENTITY HomeCountry.label              "Country:">
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "Web Page:">
@@ -98,8 +98,8 @@
 <!ENTITY WorkCity.accesskey             "y">
 <!ENTITY WorkState.label                "State/Province:">
 <!ENTITY WorkState.accesskey            "S">
-<!ENTITY WorkZipCode.label              "ZIP/Postal Code:">
-<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkZipCode.label              "Post Code:">
+<!ENTITY WorkZipCode.accesskey          "P">
 <!ENTITY WorkCountry.label              "Country:">
 <!ENTITY WorkCountry.accesskey          "u">
 <!ENTITY WorkWebPage.label              "Web Page:">
