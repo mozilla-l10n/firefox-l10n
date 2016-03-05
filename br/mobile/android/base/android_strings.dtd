@@ -18,7 +18,7 @@
 <!ENTITY firstrun_data_title "Roadennoù">
 <!ENTITY firstrun_data_message "Nebeutoc\u0027h a roadennoù, muioc\u0027h a espernoù.">
 <!ENTITY firstrun_data_subtext "Stankañ ar skeudennoù evit dispign nebeutoc\u0027h a roadennoù war kement lec\u0027hienn gweladennet ganeoc\u0027h.">
-<!ENTITY firstrun_sync_title "Goubred">
+<!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, atav ganeoc\u0027h">
 <!ENTITY firstrun_sync_subtext "Goubredit hoc\u0027h ivinelloù, ho kerioù-tremen, ha muioc\u0027h c\u0027hoazh e kement lec\u0027h mar arverit anezhañ.">
 <!ENTITY firstrun_signin_message "Kennaskit, krogit ganti">
@@ -278,7 +278,7 @@
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Skarzhañ bremañ">
-<!ENTITY pref_clear_on_exit_title3 "Skarzhañ ar roadennoù prevez pa vez kuitaet">
+<!ENTITY pref_clear_on_exit_title3 "Skarzhañ roadennoù pa vez kuitaet">
 <!ENTITY pref_clear_on_exit_summary2 "Skarzhet e vo ho roadennoù ent-emgefreek gant &brandShortName; pa vo diuzet \u0022Quit\u0022 ganeoc\u0027h diwar al lañser pennañ">
 <!ENTITY pref_clear_on_exit_dialog_title "Diuzañ ar roadennoù da skarzhañ">
 <!ENTITY pref_plugins "Enlugelladoù">
@@ -398,7 +398,7 @@ size. -->
 <!ENTITY save_as_pdf "Enrollañ evel PDF">
 <!ENTITY print "Moullañ">
 <!ENTITY find_in_page "Kavout er bajennad">
-<!ENTITY desktop_mode "Goulenn neuz al lec\u0027hienn evit an urzhiataerioù">
+<!ENTITY desktop_mode "Goulenn lec\u0027hienn an urzhiataerioù">
 <!ENTITY page "Pajenn">
 <!ENTITY tools "Ostilhoù">
 <!ENTITY new_tab "Ivinell nevez">
@@ -541,7 +541,7 @@ size. -->
 <!ENTITY home_selected_empty "Amañ vo diskouezet al lec\u0027hiennoù bet gweladennet ganeoc\u0027h er framm amzer diuzet.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "C\u0027hep : mar bez graet gant un &formatS1;Ivinell brevez nevez&formatS2; ne vo ket enrollet ho roll istor.">
+<!ENTITY home_most_recent_emptyhint2 "C\u0027hep, mar bez graet gant un &formatS1;Ivinell brevez nevez&formatS2; ne vo ket enrollet ho roll istor.">
 <!ENTITY home_reading_list_empty "Skrammet e vez ar pennadoù enrollet ganeoc\u0027h amañ.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
