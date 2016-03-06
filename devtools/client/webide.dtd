@@ -215,3 +215,6 @@
 <!ENTITY simulator_device "Naprava">
 <!ENTITY simulator_screenSize "Zaslon">
 <!ENTITY simulator_pixelRatio "Razmerje slikovnih točk">
+<!ENTITY simulator_tv_data "Simulacija TV">
+<!ENTITY simulator_tv_data_open "Nastavi podatke">
+<!ENTITY simulator_tv_data_open_button "Odpri mapo z nastavitvami …">
