@@ -8,7 +8,8 @@
 
 
 
-
+<!ENTITY manageSubscriptions.label "Pārvaldīt abonementus..."> 
+<!ENTITY manageSubscriptions.accesskey "P">
 
 <!ENTITY feedWindowTitle.label "Barotnes konta vednis">
 <!-- entities from rss.rdf -->
