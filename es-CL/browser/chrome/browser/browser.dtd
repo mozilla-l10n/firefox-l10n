@@ -185,6 +185,8 @@
 <!ENTITY webDeveloperMenu.accesskey			"w">
 <!ENTITY devToolsCmd.keycode				"VK_F12">
 <!ENTITY devToolsCmd.keytext				"F12">
+<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 <!ENTITY devtoolsConnect.label				"Conectar…">
 <!ENTITY devtoolsConnect.accesskey			"e">
 <!ENTITY errorConsoleCmd.label				"Consola de errores">
@@ -558,6 +560,8 @@
 <!ENTITY identity.disableMixedContentBlocking.label "Desactivar protección por ahora">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Aprender más">
+<!ENTITY identity.removeCertException.label "Remover excepción">
+<!ENTITY identity.removeCertException.accesskey "R">
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No ha dado permisos especiales a este sitio.">
@@ -574,8 +578,6 @@
 <!ENTITY syncedTabs.context.openTab.accesskey               "O">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Guardar esta pestaña en marcadores…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
-<!ENTITY syncedTabs.context.refreshList.label               "Refrescar lista">
-<!ENTITY syncedTabs.context.refreshList.accesskey           "R">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label             "Conectarse a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
