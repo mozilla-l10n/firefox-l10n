@@ -257,6 +257,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
+<!ENTITY devtoolsServiceWorkers.label      "Services workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
+
 <!ENTITY devtoolsConnect.label        "Se connecter…">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
@@ -527,6 +530,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "u">
 <!ENTITY showOnlyThisFrameCmd.label     "Afficher ce cadre uniquement">
 <!ENTITY showOnlyThisFrameCmd.accesskey "A">
+<!ENTITY openLinkCmdInContainerTab.label "Ouvrir le lien dans un nouvel onglet conteneur">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Actualiser le cadre">
 <!ENTITY reloadFrameCmd.accesskey     "c">
@@ -739,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Terminer">
-<!ENTITY editBookmark.cancel.label                   "Annuler">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Connexion sécurisée">
@@ -773,6 +777,9 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "En savoir plus">
 
+<!ENTITY identity.removeCertException.label "Supprimer l’exception">
+<!ENTITY identity.removeCertException.accesskey "S">
+
 <!ENTITY identity.moreInfoLinkText2 "Plus d’informations">
 
 <!ENTITY identity.permissions "Permissions">
@@ -799,9 +806,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY syncedTabs.context.openTab.accesskey               "O">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Marquer cet onglet…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "M">
-<!ENTITY syncedTabs.context.refreshList.label               "Actualiser la liste">
-<!ENTITY syncedTabs.context.refreshList.accesskey           "A">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 

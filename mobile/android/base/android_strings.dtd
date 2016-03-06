@@ -231,6 +231,8 @@
 <!ENTITY pref_tap_to_load_images_data "Seulement par Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloquer">
 
+<!ENTITY pref_show_web_fonts "Afficher les polices web">
+
 <!ENTITY pref_tracking_protection_title "Protection contre le pistage">
 <!ENTITY pref_tracking_protection_summary3 "Activée pour la navigation privée">
 <!ENTITY pref_donottrack_title "Ne pas me pister">
@@ -553,15 +555,15 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Pas de contenu disponible pour ce panneau.">
 
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "Revenir à &formatS;">
+
 <!ENTITY remote_tabs_panel_moved_title "Où mes onglets sont-ils passés ?">
 <!ENTITY remote_tabs_panel_moved_desc "Nous avons déplacé les onglets de vos autres appareils au sein d’un panneau de votre écran d’accueil pour que vous puissiez y accéder facilement à chaque ouverture d’un nouvel onglet.">
 <!ENTITY remote_tabs_panel_moved_link "Ouvrir le nouveau panneau.">
 
 <!ENTITY pin_site_dialog_hint "Saisir un mot-clé pour la recherche">
-
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
-     previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_up_to_filter "Revenir à &formatS;">
 
 <!ENTITY home_remote_tabs_title "Onglets synchronisés">
 <!ENTITY home_remote_tabs_empty "Vos onglets provenant d’autres appareils s’affichent ici.">
@@ -649,8 +651,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "Rechercher « &formatS2; » avec &formatS1;">
-
-<!ENTITY webapp_generic_name "Application">
 
 <!ENTITY searchable_description "Marque-pages et historique">
 
@@ -779,6 +779,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Désolé, cette version de &brandShortName; ne fonctionnera pas sur cet appareil (&formatS1;, &formatS2;). Veuillez télécharger la version appropriée.">
 
-<!-- https://support.mozilla.org/1/mobile/%VERSION%/%OS%/%LOCALE%/honeycombs -->
-<!ENTITY eol_notification_title "&brandShortName; ne prend plus en charge Android 3">
+<!ENTITY eol_notification_title2 "&brandShortName; ne se mettra plus à jour">
 <!ENTITY eol_notification_summary "Appuyez pour en savoir plus">
+
+<!-- https://support.mozilla.org/1/mobile/%VERSION%/%OS%/%LOCALE%/honeycombs -->
+<!ENTITY eol_notification_summary "Appuyez pour en savoir plus">
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; est à jour">
+<!ENTITY whatsnew_notification_summary "Découvrez les nouveautés de cette version">
