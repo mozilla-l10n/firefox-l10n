@@ -658,8 +658,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "下载完成后触摸以应用更新">
 <!ENTITY updater_downloading_retry2 "触摸重试">
 
-<!ENTITY updater_apply_title2 "&brandShortName; 有可用更新">
-<!ENTITY updater_apply_select2 "触摸更新">
+<!ENTITY updater_apply_title2 "&brandShortName; 更新已可安装">
+<!ENTITY updater_apply_select2 "触摸此处，立即更新">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
