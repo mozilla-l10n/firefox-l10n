@@ -364,7 +364,7 @@
 <!ENTITY home_most_recent_emptyhint2 "Psst: utilizzando una &formatS1;Nuova scheda anonima&formatS2; non verrà salvata alcuna cronologia.">
 <!ENTITY home_reading_list_empty "In questa sezione verranno visualizzati gli articoli da leggere.">
 <!ENTITY home_default_empty "Nessun contenuto disponibile per questo pannello.">
-<!ENTITY home_move_up_to_filter "Vai a &formatS;">
+<!ENTITY home_move_back_to_filter "Ritorna a &formatS;">
 <!ENTITY home_remote_tabs_title "Schede sincronizzate">
 <!ENTITY home_remote_tabs_empty "In questa sezione verranno visualizzate le schede provenienti da altri dispositivi.">
 <!ENTITY home_remote_tabs_unable_to_connect "Impossibile connettersi">
