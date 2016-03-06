@@ -8,68 +8,19 @@
 <!ENTITY syncBrand.shortName.label 'Sync'>
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Se connecter à &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Ajouter un compte &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'Associer un appareil'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Pour activer votre nouvel appareil, sélectionner « Configurer la synchronisation » sur celui-ci.'>
-<!ENTITY sync.subtitle.header2.label 'Saisissez ce code sur votre appareil'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Sélectionnez « &sync.title.pair.label; » dans la section &syncBrand.shortName.label; des options de Firefox sur votre appareil.'>
 <!ENTITY sync.subtitle.pair.label 'Pour activer, sélectionnez « Associer un appareil » sur votre appareil.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Me montrer comment'>
-<!ENTITY sync.link.advancedsetup.label 'Configuration avancée…'>
 <!ENTITY sync.link.nodevice.label 'Je n’ai pas l’appareil avec moi…'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'En attente de l’autre appareil…'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Saisissez vos identifiants de compte pour &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Nom du compte'>
-<!ENTITY sync.input.password.label 'Mot de passe'>
-<!ENTITY sync.input.key.label 'Clé de récupération'>
-<!ENTITY sync.checkbox.server.label 'Utiliser un serveur personnalisé'>
-<!ENTITY sync.input.server.label 'URL du serveur'>
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Impossible de configurer &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; n’a pas pu se connecter au serveur. Voulez-vous réessayer ?'>
-<!ENTITY sync.button.tryagain.label 'Réessayer'>
-<!ENTITY sync.button.manual.label 'Configuration manuelle'>
-<!ENTITY sync.subtitle.nointernet.label 'Connexion à Internet non disponible.'>
-<!ENTITY sync.subtitle.failaccount.label 'La création du compte sur votre appareil a échoué.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Avez-vous plusieurs Firefox installés ? &syncBrand.fullName.label; ne prend actuellement en charge qu’une seule installation de Firefox à la fois. Désinstallez les autres instances pour utiliser &syncBrand.shortName.label;.'>
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Configuration terminée'>
-<!ENTITY sync.subtitle.success.label1 'Vos données sont à présent synchronisées en arrière-plan. Vous pouvez vous rendre dans le menu Paramètres pour gérer votre compte, ou commencer à naviguer avec &brandShortName;.'>
-<!ENTITY sync.settings.label 'Paramètres'>
-<!ENTITY sync.subtitle.manage.label1 'Votre compte &syncBrand.fullName.label; est déjà configuré. Vous pouvez vous rendre dans le menu Paramètres pour gérer votre compte, ou lancer &brandShortName;.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Veuillez réessayer.'>
-<!ENTITY sync.pair.connectlocation.label 'Pour activer votre nouvel appareil, sélectionnez « Configurer &syncBrand.shortName.label; » sur celui-ci, et ensuite « J’ai un compte ».'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Options'>
-<!ENTITY sync.summary.pair.label 'Associer un autre appareil à votre compte &syncBrand.shortName.label;'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Que synchroniser'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Synchroniser…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Les marque-pages'>
 <!ENTITY sync.configure.engines.title.passwords2 'Les identifiants'>
 <!ENTITY sync.configure.engines.title.history 'L’historique'>
 <!ENTITY sync.configure.engines.title.tabs 'Les onglets'>
 
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Annuler'>
-<!ENTITY sync.button.connect.label 'Se connecter'>
-<!ENTITY sync.button.ok.label 'OK'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -90,20 +41,7 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Épinglés'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Un seul compte &syncBrand.fullName.label; peut être géré.'>
-<!ENTITY sync.notification.configure.saved 'Vos choix ont été enregistrés.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Le nom du compte ou le mot de passe est incorrect.'>
-<!ENTITY sync.invalidserver.label 'Veuillez saisir une URL de serveur valide'>
-<!ENTITY sync.verifying.label 'Vérification…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Clé de récupération incorrecte. Veuillez réessayer.'>
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Envoyer l’onglet à d’autres appareils'>
-<!ENTITY sync.button.send.label 'Envoyer'>
-<!ENTITY sync.button.set.up.sync.label 'Configurer &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurer &syncBrand.shortName.label; pour l’envoi d’onglets'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurez &syncBrand.fullName.label; sur votre appareil afin qu’il puisse envoyer des onglets à d’autres appareils.'>
 <!ENTITY sync.text.tab.sent.label 'Votre onglet a été envoyé !'>

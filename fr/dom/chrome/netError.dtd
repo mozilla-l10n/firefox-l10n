@@ -185,34 +185,6 @@ refusé la connexion.</p>
   peut-être temporaire et vous pouvez essayer à nouveau plus tard.</li>
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspicion de site malveillant !">
-<!ENTITY malwareBlocked.longDesc "
-<p>Les sites malveillants tentent d’installer des programmes qui volent les
-informations personnelles, qui utilisent votre ordinateur pour en attaquer
-d’autres ou qui endommagent votre système.</p>
-<p>Les propriétaires de sites web qui pensent que leur site a été rapporté à
-tort comme malveillant peuvent <a href='http://www.stopbadware.org/home/reviewinfo'>demander
-une révision</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "Suspicion de site comportant des logiciels indésirables !">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Les pages comportant des logiciels indésirables tentent d’installer des logiciels qui peuvent être trompeurs et nuire à votre système de manière inattendue.</p>
-">
-
-<!ENTITY phishingBlocked.title "Suspicion de site contrefait !">
-<!ENTITY phishingBlocked.longDesc "
-<p>Saisir des informations personnelles sur cette page peut aboutir à un vol
-d’identité ou à une autre fraude.</p>
-<p>Ces types de contrefaçon de sites sont utilisés dans des courriels frauduleux
-conçus pour des attaques par hameçonnage (ou phishing), dans lesquelles les pages
-web et les courriels frauduleux sont utilisés pour imiter des sources en
-lesquelles vous avez confiance.</p>">
-
-<!ENTITY forbiddenBlocked.title "Site interdit">
-<!ENTITY forbiddenBlocked.longDesc "<p>Le navigateur a empêché le chargement de cette page car il est configuré pour la bloquer.</p>
-">
-
 <!ENTITY securityOverride.linkText "Ou vous pouvez ajouter une exception…">
 <!ENTITY securityOverride.warningContent "
 <p>Vous ne devez pas ajouter d’exception si vous utilisez une connexion à Internet en laquelle vous n’avez pas totalement confiance ou si vous n’avez pas l’habitude de recevoir un avertissement pour ce serveur.</p>

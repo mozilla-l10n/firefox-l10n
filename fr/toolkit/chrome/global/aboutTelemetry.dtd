@@ -155,3 +155,7 @@ Ping
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Charge
 ">
+
+<!ENTITY aboutTelemetry.rawPayload "
+  Charge brute
+">
