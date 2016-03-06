@@ -5,10 +5,10 @@
 
 <!ENTITY openFileCmd.label "Open lêer…">
 <!ENTITY openFileCmd.accesskey "O">
-
+<!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Open webligging…">
 <!ENTITY openRemoteCmd.accesskey "w">
-
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Onlangse bladsye">
 <!ENTITY fileRecentMenu.accesskey "O">
 <!ENTITY saveCmd.label "Stoor">
@@ -19,7 +19,7 @@
 
 <!ENTITY publishCmd.label "Publiseer">
 <!ENTITY publishCmd.accesskey "P">
-
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publiseer as…">
 <!ENTITY publishAsCmd.accesskey "P">
 
