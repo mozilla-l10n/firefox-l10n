@@ -68,12 +68,13 @@
 <!ENTITY FontSizeSelect.tooltip "Kies lettertipegrootte">
 <!ENTITY decreaseFontSize.label "Kleiner">
 <!ENTITY decreaseFontSize.accesskey "K">
-
+<!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Groter">
 <!ENTITY increaseFontSize.accesskey "G">
-
+<!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Grootte">
 <!ENTITY fontSizeMenu.accesskey "G">
@@ -136,7 +137,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Verwyder genoemde ankers">
 <!ENTITY formatRemoveNamedAnchors.accesskey "V">
-
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraaf">
 <!ENTITY paragraphMenu.accesskey "P">
