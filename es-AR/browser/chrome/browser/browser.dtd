@@ -257,6 +257,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
+<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
+
 <!ENTITY devtoolsConnect.label        "Conectar…">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
@@ -780,6 +783,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Conocer más">
 
+<!ENTITY identity.removeCertException.label "Eliminar excepción">
+<!ENTITY identity.removeCertException.accesskey "r">
+
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 
 <!ENTITY identity.permissions "Permisos">
@@ -806,9 +812,6 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY syncedTabs.context.openTab.accesskey               "A">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Marcar esta pestaña…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "M">
-<!ENTITY syncedTabs.context.refreshList.label               "Refrescar lista">
-<!ENTITY syncedTabs.context.refreshList.accesskey           "R">
-
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
