@@ -651,12 +651,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName; 有可用更新">
-<!ENTITY updater_start_select2 "触摸下载">
+<!ENTITY updater_start_select2 "触摸此处，立即下载">
 
 <!ENTITY updater_downloading_title2 "正在下载 &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "下载失败">
-<!ENTITY updater_downloading_select2 "下载完成后触摸以应用更新">
-<!ENTITY updater_downloading_retry2 "触摸重试">
+<!ENTITY updater_downloading_select2 "下载完毕后请触摸以应用更新">
+<!ENTITY updater_downloading_retry2 "触摸此处，立即重试">
 
 <!ENTITY updater_apply_title2 "&brandShortName; 更新已可安装">
 <!ENTITY updater_apply_select2 "触摸此处，立即更新">
