@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "რ">
 <!ENTITY shareVideo.label "ამ ვიდეოს გაზიარება">
 <!ENTITY shareVideo.accesskey "რ">
-<!ENTITY feedsMenu.label "გამოწერა">
+<!ENTITY feedsMenu2.label "ამ გვერდის გამოწერა">
 <!ENTITY subscribeToPageMenupopup.label "ამ გვერდის გამოწერა">
 <!ENTITY subscribeToPageMenuitem.label "ამ გვერდის გამოწერა...">
 <!ENTITY addCurPagesCmd.label "ყველა ჩანართის ჩანიშვნა...">
 <!ENTITY showAllBookmarks2.label "ყველა სანიშნის ჩვენება">
+<!ENTITY recentBookmarks.label "ბოლოს ჩანიშნულები">
 <!ENTITY unsortedBookmarksCmd.label "დაუხარისხებელი სანიშნები">
 <!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნების ჩვენება">
 
@@ -256,6 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
 
 <!ENTITY devtoolsConnect.label        "დაკავშირება…">
 <!ENTITY devtoolsConnect.accesskey    "კ">
@@ -421,6 +423,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "სინქრონიზაციის პარამეტრები">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ში შესვლა">
+<!ENTITY appMenuRemoteTabs.sidebar.label "სინქრონირებული ჩანართების გვერდითი ზოლის ნახვა">
 
 <!ENTITY customizeMenu.addToToolbar.label "ხელსაწყოთა ზოლში დამატება">
 <!ENTITY customizeMenu.addToToolbar.accesskey "დ">
@@ -740,7 +743,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "მზადაა">
-<!ENTITY editBookmark.cancel.label                   "გაუქმება">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "დაცული კავშირი">
@@ -774,6 +776,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "დ">
 <!ENTITY identity.learnMore "გაიგეთ მეტი">
 
+<!ENTITY identity.removeCertException.label "გამონაკლისის წაშლა">
+<!ENTITY identity.removeCertException.accesskey "წ">
+
 <!ENTITY identity.moreInfoLinkText2 "მეტი ინფორმაცია">
 
 <!ENTITY identity.permissions "უფლებები">
@@ -783,8 +788,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ბრაუზერის ჩანართები">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "სინქრონირებული ჩანართები">
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
 
 <!ENTITY syncBrand.shortName.label    "სინქრონიზება">
 
@@ -822,7 +832,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "დააწკაპეთ მომსახურებს &brandShortName;-ს დასამატებლად.">
 <!ENTITY social.directory.viewmore.text "მეტის ნახვა">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName;-ს მორგება">
 <!ENTITY customizeMode.menuAndToolbars.header2 "დამატებითი ხელსაწყოები და ფუნქციები">
 <!ENTITY customizeMode.menuAndToolbars.empty "მეტი ხელსაწყო გსურთ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ ათასობით დამატებიდან">
@@ -928,7 +937,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "გაიგეთ მეტი DRM-ის შესახებ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "ახლა არა">
-<!ENTITY emeNotificationsNotNow.accesskey         "ა">
-<!ENTITY emeNotificationsDontAskAgain.label       "აღარ შემეკითხო">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
