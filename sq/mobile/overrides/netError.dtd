@@ -187,3 +187,13 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "XUL i Largët">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;i njoftoni për këtë problem.</li></ul></p>">
+
+<!ENTITY sslv3Used.title "S&apos;arrin të Lidhet Në Mënyrë të Sigurt">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Të dhëna të mëtejshme: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Lidhja juaj s&apos;është e sigurt">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Të dhëna të mëtejshme: SSL_ERROR_NO_CYPHER_OVERLAP">

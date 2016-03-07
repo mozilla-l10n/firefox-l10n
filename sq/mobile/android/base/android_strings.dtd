@@ -149,8 +149,6 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Diagnostikim së largëti përmes Wi-Fi-i">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Diagnostikimi përmes Wi-Fi-i lyp që pajisja juaj të ketë të instaluar një aplikacion leximi kodesh QR.">
 <!ENTITY pref_remember_signons2 "Mba mend kredenciale hyrjesh">
-<!ENTITY pref_open_external_urls_privately_title "Hapi lidhjet në shfletim Privat">
-<!ENTITY pref_open_external_urls_privately_summary "Për krejt lidhjet e hapura në &brandShortName;">
 <!ENTITY pref_manage_logins "Administroni kredenciale hyrjesh">
 
 
@@ -205,8 +203,14 @@
 <!ENTITY tab_queue_prompt_title "Të hapen lidhje të shumëfishta?">
 <!ENTITY tab_queue_prompt_text4 "Ruajini deri herës pasuese që hapni &brandShortName;-un.">
 <!ENTITY tab_queue_prompt_tip_text2 "Këtë mund ta ndryshoni më vonë te Rregullimet">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Aktivizoni lejen për vizatim përmbi aplikacione të tjera">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktivizoje">
 <!ENTITY tab_queue_prompt_negative_action_button "Jo tani">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Shkoni te Rregullimet">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -217,6 +221,9 @@
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 skedë në pritje">
 
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Që të \&quot;hapni lidhje të shumëfishta\&quot;, ju lutemi, aktivizoni për &brandShortName;-in lejen \'Vizato mbi aplikacione të tjera\'">
 
 <!ENTITY pref_char_encoding "Kodim shkronjash">
 <!ENTITY pref_char_encoding_on "Shfaqe menunë">
@@ -475,22 +482,26 @@ size. -->
 <!ENTITY firstrun_panel_title_welcome "Mirë se vini">
 <!ENTITY  onboard_start_message3 "Shfletoni me &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Bëjeni shfletimin tuaj në Web me celular ashtu si e doni.">
-<!ENTITY  onboard_start_button_account "Hyni në &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Filloni të Shfletoni">
 <!ENTITY firstrun_button_next "Pasuesi">
 
 <!ENTITY  onboard_start_restricted1 "Jini i parrezikuar dhe në kontroll me këtë version të thjeshtëzuar të &brandShortName;-ut.">
 
-<!ENTITY firstrun_import_title "Importim">
-<!ENTITY firstrun_import_message "Mirë se vini te &brandShortName;">
-<!ENTITY firstrun_import_subtext "Importoni faqerojtësit dhe historikun tuaj prej një shfletuesi tjetër.">
-<!ENTITY firstrun_import_action "Mbartini te &brandShortName;-u">
-<!ENTITY firstrun_import_dialog_button "Mbarti">
-<!ENTITY firstrun_import_progress_title "Po mbarten">
-<!ENTITY home_top_sites_title "Sajtet Kryesues">
-<!-- Localization note (home_top_sites_add): This string is used as placeholder
-     text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "Shtoni një sajt">
+<!ENTITY firstrun_urlbar_message "Mirë se vini te &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Gjeni gjëra më shpejt, me këshilla të dobishme kërkimi.">
+<!ENTITY firstrun_bookmarks_title "Historik">
+<!ENTITY firstrun_bookmarks_message "Të parapëlqyerit tuaj, në ballë">
+<!ENTITY firstrun_bookmarks_subtext "Merrni përfundime kërkimi nga faqerojtësit dhe historiku juaj, kur kërkoni.">
+<!ENTITY firstrun_data_title "Të dhëna">
+<!ENTITY firstrun_data_message "Më pak të dhëna, më shumë kursim">
+<!ENTITY firstrun_data_subtext "Bllokojini figurat, që të harxhoni më pak të dhëna, në çdo sajt që vizitoni.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, përherë krah">
+<!ENTITY firstrun_sync_subtext "Njëkohësoni skedat tuaja, fjalëkalimet, etj, kudo që i përdorni.">
+<!ENTITY firstrun_signin_message "Lidhuni, fillojani">
+<!ENTITY firstrun_signin_button "Bëni hyrjen, që të Njëkohësohet">
+<!ENTITY  onboard_start_button_browser "Nisni Shfletimin">
+<!ENTITY firstrun_button_next "Pasuesi">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
@@ -503,19 +514,12 @@ size. -->
 <!ENTITY home_last_tabs_title "Skeda nga hera e fundit">
 <!ENTITY home_last_tabs_empty "Skedat tuaja të herës së fundit, shfaqen këtu.">
 <!ENTITY home_open_all "Hapi krejt">
-<!ENTITY home_most_recent_empty "Sajtet që keni vizituar së fundi, shfaqen këtu.">
+<!ENTITY home_most_recent_empty "Këtu shfaqen sajtet që keni vizituar së fundi.">
+<!ENTITY home_selected_empty "Këtu shfaqen sajtet që keni vizituar gjatë intervalit kohor të përzgjedhur.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: përdorimi i një &formatS1;Skede të Re Private&formatS2; nuk do të shkaktojë ruajtjen e historikut tuaj.">
-<!ENTITY home_reading_list_empty "Artikujt që keni ruajtur për më vonë, shfaqen këtu.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint3 "NDIHMËZ: Ruani artikuj te lista juaj e leximeve duke e mbajtur të shtypur për disa sekonda ikonën &formatI;, kur shfaqet te shtylla e URL-ve.">
-<!-- Localization note (home_reading_list_hint_accessible2): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible2 "NDIHMËZ: Ruani artikuj te lista juaj e leximeve duke e mbajtur të shtypur për disa sekonda butonin e mënyrës lexim, kur shfaqet te shtylla e URL-ve.">
+<!ENTITY home_reading_list_empty "Këtu shfaqen artikujt që keni ruajtur për më vonë.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -574,6 +578,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Lidhje e Sigurt">
 <!ENTITY identity_connection_insecure "Lidhje Jo e Sigurt">
 <!ENTITY identity_login_insecure "Kjo faqe është jo e sigurt dhe të dhënat tuaja për hyrjen mund të jenë të cenueshme.">
+<!ENTITY identity_connection_chromeui "Kjo është një faqe &brandShortName; e sigurt">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;-u ka bllokuar në këtë faqe lëndë jo të sigurt.">
@@ -635,6 +640,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Ka përditësim gati për &brandShortName;-un">
 <!ENTITY updater_apply_select2 "Prekeni që të përditësohet">
+
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Që të shkarkohen kartela dhe përditësime, jepini leje &brandShortName;-i të hyjë në depozitë.">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Lejoje">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Sesion i Ri Mysafiri">
@@ -724,8 +736,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "Këtu përfshihen importim faqerojtësish, rikthim skedash dhe përditësime të vetvetishme. Për rregullime të thjeshtuara, të përshtatshme për këdo në familje, çaktivizojeni.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "U lejon anëtarëve të familjes të hyjnë në komunikim të atëçastshëm në sajte.">
-<!ENTITY restrictable_feature_data_choices "Zgjedhje Mbi të Dhëna">
-<!ENTITY restrictable_feature_data_choices_description "Zgjidhni të dërgohen ose jo te Mozilla të dhëna përdorimi, për të ndihmuar në përmirësimin e Firefox-i.">
+<!ENTITY restrictable_feature_block_list "Listë Bllokimesh">
+<!ENTITY restrictable_feature_block_list_description "Bllokoni sajte që përmbajnë lëndë me spec.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
