@@ -4,27 +4,33 @@
 
 <!ENTITY lightning.toolbar.calendar.name "Panel Kalendari">
 <!ENTITY lightning.toolbar.calendar.name.accesskey "K">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.name "Panel Punësh">
 <!ENTITY lightning.toolbar.task.name.accesskey "P">
 
-<!ENTITY lightning.toolbar.task.accesskey "P">
-
 <!ENTITY lightning.toolbar.sync.label "Njëkohësoje">
+<!ENTITY lightning.toolbar.sync.tooltip "Ringarkoni kalendarë dhe njëkohësoni ndryshimet">
 <!ENTITY lightning.toolbar.delete.label "Fshije">
+<!ENTITY lightning.toolbar.delete.tooltip "Fshini veprimtari ose punë të përzgjedhura">
 <!ENTITY lightning.toolbar.edit.label "Përpunojeni">
-<!ENTITY lightning.toolbar.gototoday.label "Shko te i Sotshmi">
+<!ENTITY lightning.toolbar.edit.tooltip "Përpunoni veprimtari ose punë të përzgjedhura">
+<!ENTITY lightning.toolbar.gototoday.label "Shko te Sot">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Shko te Sot">
 <!ENTITY lightning.toolbar.print.label "Shtype">
+<!ENTITY lightning.toolbar.print.tooltip "Shtypni veprimtari ose punë">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Kalendar">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Kaloni te skeda e kalendarit">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Punë">
 <!ENTITY lightning.toolbar.task.tooltip       "Kaloni te skeda e punëve">
+<!ENTITY lightning.toolbar.task.accesskey     "P">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Veprimtari">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Krijoni një veprimtari të re">
 <!ENTITY lightning.toolbar.newtask.label      "Punë">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Krijoni një punë të re">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Ditë">
