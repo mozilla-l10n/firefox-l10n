@@ -31,8 +31,10 @@
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "Njotoni pjesëmarrësit">
+<!ENTITY event.attendees.notify.label               "Njoftoni pjesëmarrësit">
+<!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Ndaji ftesat sipas pjesëmarrësve">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Kjo mundësi bën të dërgohet një email ftesë për pjesëmarrës. Çdo ftesë përmban vetëm pjesëmarrësin të cilit i dërgohet, kështu që identitetet e pjesëmarrësve të tjerë nuk zbulohen.">
 
 <!-- Keyboard Shortcuts -->
@@ -130,13 +132,17 @@
 <!ENTITY  event.menu.options.show.time.free.label             "I lirë">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "i">
 
-
 <!ENTITY event.invite.attendees.label                     "Ftoni Pjesëmarrës…">
 <!ENTITY event.invite.attendees.accesskey                 "F">
 <!ENTITY event.email.attendees.label                      "Hartoni Email për Tërë Pjesëmarrësit…">
 <!ENTITY event.email.attendees.accesskey                  "T">
 <!ENTITY event.email.tentative.attendees.label            "Hartoni Email për Pjesëmarrësit e Pavendosur…">
-<!ENTITY event.email.tentative.attendees.accesskey        "v">
+<!ENTITY event.email.tentative.attendees.accesskey        "V">
+<!ENTITY event.remove.attendees.label2                    "Hiqi tërë pjesëmarrësit">
+<!ENTITY event.remove.attendees.accesskey                 "r">
+<!ENTITY event.remove.attendee.label                      "Hiqe pjesëmarrësin">
+<!ENTITY event.remove.attendee.accesskey                  "e">
+
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Ruaje dhe Mbylle">
@@ -307,6 +313,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Të enjten" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Të premten" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Të shtunën" >
+<!ENTITY event.recurrence.pattern.yearly.day.label              "ditën" >
 <!ENTITY event.recurrence.of.label                           "e" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "të Janarit" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "të Shkurtit" >
@@ -348,6 +355,7 @@
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Burim">
 <!ENTITY event.attendee.usertype.room           "Sallë">
+<!ENTITY event.attendee.usertype.unknown        "I panjohur">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Ju lutemi, Përcaktoni Zonën Kohore">
