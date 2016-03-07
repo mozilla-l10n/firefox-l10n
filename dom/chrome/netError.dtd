@@ -93,7 +93,7 @@
 ">
 
 <!ENTITY forbiddenBlocked.title "Keelatud sait">
-<!ENTITY forbiddenBlocked.longDesc "<p>Brauser keeldus seda lehte laadimast, sest leht on brauseri häälestuse poolt blokitud.</p>
+<!ENTITY forbiddenBlocked.longDesc "<p>Brauser keeldus seda lehte laadimast, sest brauseri häälestuse tõttu on leht blokitud.</p>
 ">
 
 <!ENTITY securityOverride.linkText "Või võid ka lisada erandi…">
