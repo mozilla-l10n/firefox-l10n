@@ -107,7 +107,7 @@
 <!ENTITY enableOCSP.label                "Pyet shërbyesit OCSP përgjigjës, për t&apos;u ripohuar vlefshmëria për tani e dëshmive">
 <!ENTITY enableOCSP.accesskey            "Q">
 
-<!ENTITY viewCertificates.label         "Shihni Dëshmi">
-<!ENTITY viewCertificates.accesskey     "S">
+<!ENTITY manageCertificates.label "Administroni Dëshmi">
+<!ENTITY manageCertificates.accesskey "A">
 <!ENTITY viewSecurityDevices.label      "Pajisje Sigurie">
 <!ENTITY viewSecurityDevices.accesskey  "a">
