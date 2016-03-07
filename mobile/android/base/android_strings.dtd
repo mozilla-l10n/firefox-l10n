@@ -21,8 +21,8 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "A &brandShortName;, mindig Ön mellett">
 <!ENTITY firstrun_sync_subtext "Szinkronizálja lapjait, jelszavait és egyebeket mindenütt, ahol csak használja.">
-
-
+<!ENTITY firstrun_signin_message "Kapcsolódjon, vágjon bele">
+<!ENTITY firstrun_signin_button "Jelentkezzen be a Syncbe">
 <!ENTITY  onboard_start_button_browser "Böngészés megkezdése">
 <!ENTITY firstrun_button_next "Következő">
 
@@ -255,6 +255,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Most nem">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Ugrás a beállításokhoz">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
