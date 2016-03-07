@@ -251,7 +251,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "To lahko pozneje spremenite v nastavitvah">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Vključi risanje čez druge aplikacije">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Vključi Risanje čez druge aplikacije">
 <!ENTITY tab_queue_prompt_positive_action_button "Omogoči">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne zdaj">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -269,7 +269,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "To &quot;Open multiple links&quot;, please enable the \&apos;Draw over other apps\&apos; permission for &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Za \&quot;Odpiranje več povezav\&quot; omogočite \&apos;Risanje čez druge aplikacije\&apos; za &brandShortName;">
 
 <!ENTITY pref_char_encoding "Pokaži nabor znakov">
 <!ENTITY pref_char_encoding_on "Pokaži meni">
