@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "离开这里！">
 <!ENTITY safeb.palm.decline.label "忽略此警告">
-<!ENTITY safeb.palm.notforgery.label2 "这不是钓鱼网站…">
 <!ENTITY safeb.palm.reportPage.label "为什么拦截此页面？">
 <!ENTITY safeb.palm.whyForbidden.label "为什么拦截此页面？">
 
@@ -13,9 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "根据举报，位于 <span id='unwanted_sitename'/> 的此网页具有攻击性为。现已根据您的安全选项予以拦截。">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>有攻击行为的网页会尝试安装能窃取个人信息、攻击他人，或者损害您的系统的程序。</p><p>某些攻击页面是在故意散布有害软件，但更多则是在网站所有者不知情的情况下被恶意加入的。</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "疑似钓鱼网站！">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "在此页面上输入任何个人信息都可能导致身份被冒用，或是遭受其他欺诈行为的威胁。">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>这类网页通过假冒成您所信任的网页或电子邮件对您进行诈骗。这种行为被称作“网络钓鱼”。</p>">
+<!ENTITY safeb.blocked.phishingPage.title3 "欺诈网站！">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "位于 <span id='phishing_sitename'/> 的此网页被报告为欺诈网站，已根据您的首选项拦截。">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>欺诈网站的目的是诱骗您执行一些危险的举动，例如安装软件或泄露您的个人信息，例如密码、电话号码、信用卡信息等。</p><p>在此网页上输入任何信息均可能导致身份盗用或其他欺骗行为。</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "此网站被举报提供不安全的软件！">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "在您搜索时，也会得到书签和历史记录中的相关内容。">
 <!ENTITY firstrun_data_title "数据流量">
 <!ENTITY firstrun_data_message "流量消耗更少，为您节省更多">
-<!ENTITY firstrun_data_subtext "拦截图像，让您不用花过多流量便能浏览各个网站。">
+<!ENTITY firstrun_data_subtext2 "关闭所有网站图片以节省您访问时消耗的数据流量。">
 <!ENTITY firstrun_sync_title "同步">
 <!ENTITY firstrun_sync_message "&brandShortName;，始终伴您左右">
 <!ENTITY firstrun_sync_subtext "随处同步您的标签页、密码等信息，便于您使用。">
@@ -229,6 +229,8 @@
 <!ENTITY pref_tap_to_load_images_enabled "总是">
 <!ENTITY pref_tap_to_load_images_data "仅通过 Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "已阻止">
+
+<!ENTITY pref_show_web_fonts "显示网络字体">
 
 <!ENTITY pref_tracking_protection_title "跟踪保护">
 <!ENTITY pref_tracking_protection_summary3 "在隐私浏览模式中启用">
@@ -469,8 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "全屏浏览">
 <!ENTITY pref_scroll_title_bar_summary2 "网页向下滚动时隐藏 &brandShortName; 工具栏">
 
-<!ENTITY pref_tab_queue_title2 "一并打开多个链接">
-<!ENTITY pref_tab_queue_summary3 "先保存起来，下次您打开 &brandShortName; 时一并打开">
+<!ENTITY pref_tab_queue_title3 "标签页队列">
+<!ENTITY pref_tab_queue_summary4 "保存链接，供您下次打开 &brandShortName; 时开启">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -548,9 +550,9 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "此面板没有内容。">
 
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_up_to_filter "返回到 &formatS;">
+<!ENTITY home_move_back_to_filter "返回 &formatS;">
 
 <!ENTITY home_remote_tabs_title "已同步的标签页">
 <!ENTITY home_remote_tabs_empty "来自您的其他设备的标签页将出现在这里。">
@@ -645,8 +647,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "使用 &formatS1; 搜索 &formatS2;">
 
-<!ENTITY webapp_generic_name "应用">
-
 <!ENTITY searchable_description "书签及历史">
 
  <!-- Updater notifications -->
@@ -715,11 +715,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "最后同步：从未">
 
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-<!ENTITY find_matchcase "Aa">
-
 <!ENTITY intent_uri_cannot_open "无法打开链接">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -776,5 +771,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "非常抱歉！此版本的 &brandShortName; 无法在这个设备（&formatS1;，&formatS2;）上使用。请下载正确的版本。">
 
-<!ENTITY eol_notification_title "&brandShortName; 不再支持 Android 3">
+<!ENTITY eol_notification_title2 "&brandShortName; 将不再更新">
 <!ENTITY eol_notification_summary "点按以详细了解">
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; 已是最新版本">
+<!ENTITY whatsnew_notification_summary "了解这个版本的新变化">
