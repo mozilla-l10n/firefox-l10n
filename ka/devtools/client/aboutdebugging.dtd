@@ -2,9 +2,4 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDebugging.title                      "about:debugging">
-<!ENTITY aboutDebugging.addons                     "დამატებები">
-<!ENTITY aboutDebugging.addonDebugging.label       "დამატებების გამართვის ჩართვა">
-<!ENTITY aboutDebugging.addonDebugging.tooltip     "ჩართვის შემთხვევაში შეგეძლებათ დამატებების და ბრაუზერის ქრომის სხვა მრავალი ნაწილის გამართვა">
-<!ENTITY aboutDebugging.loadTemporaryAddon         "დროებითი დამატების ჩატვირთვა">
-<!ENTITY aboutDebugging.workers                    "მომუშავეები">
+<!ENTITY aboutDebugging.fullTitle    "Debugging with Firefox Developer Tools">
