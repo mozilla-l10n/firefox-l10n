@@ -11,17 +11,17 @@
 <!ENTITY  onboard_start_subtext3 "Atera zukua web mugikorreko zure nabigatze-esperientziari.">
 
 <!ENTITY firstrun_urlbar_message "Ongi etorri &brandShortName;(e)ra">
-
+<!ENTITY firstrun_urlbar_subtext "Bilatu gauzak azkarrago bilaketa-iradokizunen lasterbideekin.">
 <!ENTITY firstrun_bookmarks_title "Historia">
-
-
+<!ENTITY firstrun_bookmarks_message "Zure gogokoenak, ikusgai">
+<!ENTITY firstrun_bookmarks_subtext "Bilaketak egitean, eskuratu emaitzak zure laster-marketatik eta historiatik.">
 <!ENTITY firstrun_data_title "Datuak">
-
-
+<!ENTITY firstrun_data_message "Datu gutxiago, aurrezpen handiagoa">
+<!ENTITY firstrun_data_subtext "Blokeatu irudiak datu gutxiago gastatzeko bisitatzen duzun gune bakoitzean.">
 <!ENTITY firstrun_sync_title "Sync">
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, beti zure aldean">
+<!ENTITY firstrun_sync_subtext "Sinkronizatu zure fitxak, pasahitzak eta gehiago erabiltzen duzun toki orotan.">
+<!ENTITY firstrun_signin_message "Konektatu eta abiatu">
 <!ENTITY firstrun_signin_button "Hasi saioa Sync-en">
 <!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
 <!ENTITY firstrun_button_next "Hurrengoa">
@@ -251,6 +251,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Geroago ezarpenetan alda dezakezu hau">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Aktibatu beste aplikazioen gainetik marrazten baimentzea">
 <!ENTITY tab_queue_prompt_positive_action_button "Gaitu">
 <!ENTITY tab_queue_prompt_negative_action_button "Orain ez">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -267,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "Fitxa bat zain">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "\&quot;Ireki hainbat lotura\&quot; erabiltzeko, gaitu &brandShortName;(e)k beste aplikazioen gainetik marrazteko baimena.">
 
 <!ENTITY pref_char_encoding "Erakutsi karaktere-kodeketa">
 <!ENTITY pref_char_encoding_on "Erakutsi menua">
@@ -535,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Zure azken fitxak hemen agertzen dira.">
 <!ENTITY home_open_all "Ireki guztiak">
 <!ENTITY home_most_recent_empty "Bisitatu dituzun azken webguneak hemen agertzen dira.">
-
+<!ENTITY home_selected_empty "Hautatutako denbora-tartean bisitatutako webguneak hemen agertzen dira.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Adi: &formatS1;Fitxa pribatu berria&formatS2; erabiliz gero ez da historiarik gordeko.">
@@ -598,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Konexio segurua">
 <!ENTITY identity_connection_insecure "Konexio ez-segurua">
 <!ENTITY identity_login_insecure "Orri hau ez da segurua eta zure saio-hasiera arriskuan egon liteke.">
-
+<!ENTITY identity_connection_chromeui "&brandShortName; orri segurua da hau">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;(e)k segurua ez den orri honetako edukia blokeatu du.">
@@ -663,6 +666,8 @@ Android-etik">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Fitxategiak eta eguneraketak deskargatzeko, eman &brandShortName;(r)i biltegiratzea atzitzeko baimena.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Baimendu">
 <!-- Guest mode -->    
@@ -755,7 +760,7 @@ Android-etik">
 <!ENTITY restrictable_feature_camera_microphone "Kamera eta mikrofonoa">
 <!ENTITY restrictable_feature_camera_microphone_description "Familiakideek webguneetan denbora errealeko komunikazioak izatea baimentzen du.">
 <!ENTITY restrictable_feature_block_list "Blokeo-zerrenda">
-
+<!ENTITY restrictable_feature_block_list_description "Blokeatu eduki sentibera duten webguneak.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
