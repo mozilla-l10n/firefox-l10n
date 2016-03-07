@@ -22,9 +22,9 @@
 <!ENTITY lookIn.accesskey "R">
 <!ENTITY for.label "pour :">
 <!ENTITY for.accesskey "o">
-<!ENTITY for.placeholder                     "Non ou adresse électronique">
+<!ENTITY for.placeholder "Nom ou adresse électronique">
 <!ENTITY addressMessageTo.label "Adresser le message à :">
 
-<!-- Tooltips items -->  
+<!-- Tooltips items -->
 <!ENTITY addressPickerNewButton.tooltip "Créer une nouvelle fiche de carnet">
 <!ENTITY addressPickerEditButton.tooltip "Éditer la fiche sélectionnée">
