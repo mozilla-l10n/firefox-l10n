@@ -2,24 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog. -->
+<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
-<!ENTITY pref.content.title "Obsah">
-<!ENTITY pref.content.description "Tato nastavení určují, jak budou stránky a zprávy v aplikaci &brandShortName; vypadat.">
-<!ENTITY siteIcons.label "Ikony webového serveru">
-<!ENTITY useSiteIcons.label "Zobrazovat ikony webového serveru">
-<!ENTITY useSiteIcons.accesskey "Z">
-<!ENTITY useFavIcons.label "Automaticky hledat ikonu webového serveru, pokud není ve stránce uvedena">
-<!ENTITY useFavIcons.accesskey "A">
-<!ENTITY enableAutomaticImageResizing.label "Zmenšovat velké obrázky na rozměr okna prohlížeče">
+<!ENTITY pref.content.title                     "Obsah">
+<!ENTITY pref.content.description               "Tato nastavení určují, jak budou stránky a zprávy v aplikaci &brandShortName; vypadat.">
+<!ENTITY siteIcons.label                        "Ikony webového serveru">
+<!ENTITY useSiteIcons.label                     "Zobrazovat ikony webového serveru">
+<!ENTITY useSiteIcons.accesskey                 "Z">
+<!ENTITY useFavIcons.label                      "Automaticky hledat ikonu webového serveru, pokud není ve stránce uvedena">
+<!ENTITY useFavIcons.accesskey                  "A">
+<!ENTITY enableAutomaticImageResizing.label     "Zmenšovat velké obrázky na rozměr okna prohlížeče">
 <!ENTITY enableAutomaticImageResizing.accesskey "e">
-<!ENTITY useSmoothScroll.label "Použít jemné posunování">
-<!ENTITY useSmoothScroll.accesskey "P">
-<!ENTITY allowHWAccel.label "Použít hardwarovou akceleraci, je-li dostupná">
-<!ENTITY allowHWAccel.accesskey "h">
-<!ENTITY textZoomOnly.label "Měnit velikost pouze textu místo celé stránky">
-<!ENTITY textZoomOnly.accesskey "n">
-<!ENTITY blockAutoRefresh.label "Upozornit, pokud se stránka pokusí přesměrovat nebo obnovit">
-<!ENTITY blockAutoRefresh.accesskey "U">
-<!ENTITY siteSpecific.label "Pamatovat si velikost stránky pro jednotlivé weby">
-<!ENTITY siteSpecific.accesskey "P">
+<!ENTITY scrolling.label                        "Posunování">
+<!ENTITY useAutoScroll.label                    "Použít automatické posunování">
+<!ENTITY useAutoScroll.accesskey                "a">
+<!ENTITY useSmoothScroll.label                  "Použít jemné posunování">
+<!ENTITY useSmoothScroll.accesskey              "P">
+<!ENTITY allowHWAccel.label                     "Použít hardwarovou akceleraci, je-li dostupná">
+<!ENTITY allowHWAccel.accesskey                 "h">
+<!ENTITY textZoomOnly.label                     "Měnit velikost pouze textu místo celé stránky">
+<!ENTITY textZoomOnly.accesskey                 "n">
+<!ENTITY blockAutoRefresh.label                 "Upozornit, pokud se stránka pokusí přesměrovat nebo obnovit">
+<!ENTITY blockAutoRefresh.accesskey             "U">
+<!ENTITY siteSpecific.label                     "Pamatovat si velikost stránky pro jednotlivé weby">
+<!ENTITY siteSpecific.accesskey                 "P">
