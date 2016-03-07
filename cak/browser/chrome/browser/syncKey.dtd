@@ -11,7 +11,7 @@
 <!ENTITY syncKey.keepItSafe2.description  " Man niqayäk ta jun ruwachib'al ri ewan atzij (¡ruma xa jun ewan tzij man tz'etel ta!) ruma ri' ">
 <!ENTITY syncKey.keepItSafe3.description  "man yojtikïr ta yatqato' richin nikol ruwäch">
 <!ENTITY syncKey.keepItSafe4a.description " we nisach. K'o chi nawokisaj re ewan tzij re' jantape' toq xtawokisaj ri k'ak'a' awokisaxel pa &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Richin nawetamaj ch'aqa' chik  pa ruwi' &syncBrand.fullName.label; chuqa' ri awichinaxik pa ">
+<!ENTITY syncKey.findOutMore1.label       "Richin nawetamaj jub'a' chik  pa ruwi' &syncBrand.fullName.label; chuqa' ri awichinaxik pa ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "Ri taq rojqanem samaj richin &syncBrand.fullName.label; ewachel pa">
 <!ENTITY syncKey.footer2.label            "Ri runa'ojil ichinanem wachel pa ">
