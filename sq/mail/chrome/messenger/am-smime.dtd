@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Përdor këtë dëshmi për të nënshkruar në mënyrë shifrore mesazhet që dërgoni:">
 
 <!ENTITY certificates.label     "Dëshmi">
-<!ENTITY manageCerts.label "Shihni Dëshmitë">
-<!ENTITY manageCerts.accesskey "D">
+<!ENTITY manageCerts2.label "Administroni Dëshmi">
+<!ENTITY manageCerts2.accesskey "A">
 <!ENTITY manageDevices.label "Pajisje Sigurie">
 <!ENTITY manageDevices.accesskey "S">
