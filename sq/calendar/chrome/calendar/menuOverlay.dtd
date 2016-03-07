@@ -19,12 +19,15 @@
 
 <!ENTITY calendar.deletecalendar.label          "Fshini Kalendarin e Përzgjedhur…">
 <!ENTITY calendar.deletecalendar.accesskey      "F">
+<!ENTITY calendar.unsubscribecalendar.label     "Shpajtohuni Prej Kalendarit të Përzgjedhur…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "U">
 
 <!ENTITY calendar.menu.customize.label          "Përshtateni…">
 <!ENTITY calendar.menu.customize.accesskey      "a">
 
 <!ENTITY showUnifinderCmd.label                 "Gjeni Veprimtari">
 <!ENTITY showUnifinderCmd.accesskey             "G">
+<!ENTITY showUnifinderCmd.tooltip               "Hapni/mbyllni kuadratin e gjetjes së veprimtarive">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Shfaqi Punët në Kalendar">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "S">
@@ -37,3 +40,9 @@
 
 <!ENTITY calendar.properties.label              "Veti Kalendari…">
 <!ENTITY calendar.properties.accesskey          "V">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Hiqeni Kalendarin e Përzgjedhur…">
+<!ENTITY calendar.removecalendar.accesskey      "H">

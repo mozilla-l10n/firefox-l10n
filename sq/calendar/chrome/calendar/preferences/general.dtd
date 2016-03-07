@@ -32,3 +32,11 @@
 <!ENTITY pref.accessibility.label "Përdorshmëri" >
 <!ENTITY pref.systemcolors.label "Optimizo ngjyrat për përdorshmëri" >
 <!ENTITY pref.systemcolors.accesskey "O">
+
+<!ENTITY pref.timezones.caption "Zonë kohore">
+<!ENTITY pref.timezones.label "Përzgjidhni qytetin më të afërt në zonën tuaj kohore:">
+<!ENTITY pref.timezones.accesskey "P">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Kuadrati Për Sot">
+<!ENTITY pref.soondays.label "Ndarja për së afërmi shfaq:">
+<!ENTITY pref.soondays.accesskey "a">
