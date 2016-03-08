@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "ನಾನು ಇಲ್ಲಿಂದ ಹೊರಗೆ ಹೋಗಲು ಬಯಸುತ್ತೇನೆ!">
 <!ENTITY safeb.palm.decline.label "ಈ ಎಚ್ಚರಿಕೆಯನ್ನು ನಿರ್ಲಕ್ಷಿಸು">
-<!ENTITY safeb.palm.notforgery.label2 "ಇದು ಜಾಲ ವಂಚನೆಯಲ್ಲ…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.reportPage.label "ಈ ಪುಟವನ್ನು ಏಕೆ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ?">
 <!ENTITY safeb.palm.whyForbidden.label "ಈ ಪುಟವನ್ನು ಏಕೆ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ?">
 
@@ -18,10 +18,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc " ಈ ಜಾಲ ಪುಟ <span id='unwanted_sitename'/>  ಅವಶ್ಯವಲ್ಲದ ತಂತ್ರಾಂಶ ಹೊಂದಿದೆ ಎಂದು ವರದಿ ಮಾಡಿರುವುದರಿಂದ ಮತ್ತು ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ಅನುಸಾರವಾಗಿ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>ಅನವಶ್ಯ ತಂತ್ರಾಂಶ ಪುಟಗಳು ನಿಮ್ಮ ಗಣಕವನ್ನು ವಂಚಿಸುವ ಅಥವಾ ಅನಿರೀಕ್ಷಿತ ಮಾರ್ಗಗಳಿಂದ ಹಾಳುಗೆಡವಂತಹ ತಂತ್ರಾಂಶಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಬಹುದು.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "ಜಾಲ ವಂಚನೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> ನಲ್ಲಿನ ಈ ಜಾಲ ಪುಟವು ಒಂದು ಜಾಲ ವಂಚನಾ ಪುಟ ಎಂದು ಪರಿಗಣಿಸಿ ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ಅನುಸಾರವಾಗಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>ಜಾಲ ವಂಚನಾ ತಾಣಗಳು  ನೀವು ನಂಬುವಂತಹ ಮೂಲಗಳನ್ನು ಅನುಕರಿಸಿ ಆ ಮೂಲಕ ನಿಮ್ಮಿಂದ ನಿಮ್ಮ ಖಾಸಗಿ ಹಾಗು ಹಣಕಾಸು ಸಂಬಂಧಿತ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯುವ ಒಂದು ಉಪಾಯವಾಗಿದೆ.</p><p>ಈ ಪುಟದಲ್ಲಿ ಯಾವುದೆ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸುವುದು ಅಪಾಯಕಾರಿಯಾಗಬಹುದು.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
