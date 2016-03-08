@@ -8,71 +8,16 @@
 <!ENTITY syncBrand.shortName.label "సింక్">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; కు అనుసంధానమవ్వు">
-<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; ఖాతాను చేర్చండి">
-<!ENTITY sync.title.pair.label "ఒక పరికరంను జోడీచేయి">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "మీ కొత్త పరికరంను క్రియాశీలపరచుటకు, “&syncBrand.shortName.label; అమర్చు” ను పరికరంపై ఎంపికచేయి.">
-<!ENTITY sync.subtitle.header2.label "ఈ సంకేతాన్ని మీ వేరొక పరికరంలో ఇవ్వండి">
-<!ENTITY sync.subtitle.connectlocation2.label "మీ ఇతర పరికర ఫైర్‌ఫాక్స్ ఐచ్చికాల &syncBrand.shortName.label; విభాగము నందు  “&sync.title.pair.label;” ఎంపికచేయి.">
 <!ENTITY sync.subtitle.pair.label "క్రియాశీలపరచుటకు, మీ యితర పరికరం పైన  “ఒక పరికరంతో జతకట్టు” ఎంపికచేయి.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "ఎలానో నాకు చూపు.">
-<!ENTITY sync.link.advancedsetup.label "ఉన్నత అమరిక…">
 <!ENTITY sync.link.nodevice.label "ఆ పరికరం నా దగ్గర లేదు…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "వేరే పరికరం కోసం వేచిచూస్తున్నాం…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "మీ &syncBrand.fullName.label; ఖాతా సమాచారాన్ని ఇవ్వండి">
-<!ENTITY sync.input.username.label "ఖాతా పేరు">
-<!ENTITY sync.input.password.label "సంకేతపదం">
-<!ENTITY sync.input.key.label "రికవరీ కీ">
-<!ENTITY sync.checkbox.server.label "మలచిన సేవిక ఉపయోగించు…">
-<!ENTITY sync.input.server.label "సేవిక URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; అమర్చలేదు">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; సేవకికి అనుసంధానం అవలేకపోయింది. మళ్ళీ పయత్నిస్తారా?">
-<!ENTITY sync.button.tryagain.label "మరలా ప్రయత్నించు">
-<!ENTITY sync.button.manual.label "మానవీయ అమర్పు">
-<!ENTITY sync.subtitle.nointernet.label "అంతర్జాల అనుసంధానం అందుబాటులోలేదు.">
-<!ENTITY sync.subtitle.failaccount.label "మీ పరికరంలో ఖాతా సృష్టింపు విఫలమైంది.">
-<!ENTITY sync.subtitle.failmultiple.label "మీరు ఒకటి కన్నా ఎక్కువ ఫైర్‌ఫాక్స్ సంస్థాపించారా? ప్రస్తుతం, &syncBrand.fullName.label; ఒకే సారి ఒక ఫైర్‌ఫాక్స్ సంస్థాపనకు మాత్రమే తోడ్పాటునిస్తోంది. &syncBrand.shortName.label; ఉపయోగించుటకు దయచేసి ఇతర సంభవాలను నిర్మూలించండి.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "అమర్పు పూర్తైనది">
-<!ENTITY sync.subtitle.success.label1 "మీ దత్తాంశం ప్రస్తుతం బ్యాక్‌గ్రౌండ్ నందు దింపుకోలు అవుతోంది. మీ ఖాతాను నిర్వహించుటకు మీరు అమరికలకు వెళ్ళవచ్చు, లేదా &brandShortName; తో విహరణ ప్రారంభించవచ్చు.">
-<!ENTITY sync.settings.label "అమరికలు">
-<!ENTITY sync.subtitle.manage.label1 "మీ &syncBrand.fullName.label; ఖాతా ఇప్పటికే అమర్చబడెను. మీ ఖాతాను నిర్వహించుటకు మీరు అమరికలకు వెళ్ళవచ్చు, లేదా &brandShortName; ఆరంభించవచ్చు.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "దయచేసి మరలా ప్రయత్నించు.">
-<!ENTITY sync.pair.connectlocation.label "మీ కొత్త పరికరం క్రియాశీలపరచుటకు, పరికరంపైన  “&syncBrand.shortName.label; అమర్చు” ను ఎంపికచేయి, మరియు “నేను ఖాతా కలిగివున్నాను” ఎంపికచేయి.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "ఐచ్ఛికములు">
-<!ENTITY sync.summary.pair.label "మీ &syncBrand.shortName.label; ఖాతాకు మరో పరికరాన్ని జోడించండి">
 <!-- Configure Engines -->
-
-<!ENTITY sync.configure.engines.title.label "ఏమి సింక్రనించాలి">
-<!ENTITY sync.configure.engines.sync.my.title.label "మీవి ఇవి సింక్‌చేయి...">
-<!ENTITY sync.configure.engines.title.bookmarks "ఇష్టాంశాలు">
-
 <!ENTITY sync.configure.engines.title.history "చరిత్ర">
 <!ENTITY sync.configure.engines.title.tabs "ట్యాబులు">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "రద్దుచేయి">
-<!ENTITY sync.button.connect.label "అనుసంధానించు">
-<!ENTITY sync.button.ok.label "సరే">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (ఆపివేయబడెను)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +37,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "చదివే జాబితా">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "పిన్‌చేసినవి">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "ఒక్క &syncBrand.fullName.label; ఖాతాకు మాత్రమే తోడ్పాటు ఉంది.">
-<!ENTITY sync.notification.configure.saved "మీ ఎంపికలు భద్రమయ్యాయి.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "ఖాతా పేరు లేదా సంకేతపదం తప్పు.">
-<!ENTITY sync.invalidserver.label "దయచేసి చెల్లునటువంటి సర్వర్ URL ప్రవేశపెట్టుము">
-<!ENTITY sync.verifying.label "పరిశీలించుచున్నది…">
-<!ENTITY sync.new.recoverykey.status.incorrect "రికవరీ కీ సరికానిది. దయచేసి మరలా ప్రయత్నించు.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "టాబ్ ను పరికరాలకు పంపు">
-<!ENTITY sync.button.send.label "పంపించు">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; అమర్పు">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "పంపు టాబ్‌లకు &syncBrand.shortName.label; అమర్చు">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "టాబ్‌లను ఇతర పరికరాలకు పంపుటకు మీ పరికరం పైన &syncBrand.fullName.label; అమర్చు.">
 <!ENTITY sync.text.tab.sent.label "మీ టాబ్ పంపబడెను!">
@@ -123,7 +55,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ఈమెయిలు">
-<!ENTITY fxaccount_password_hint "సంకేతపదం">
+
 <!ENTITY fxaccount_password_hide "దాచు">
 <!ENTITY fxaccount_password_show "చూపించు">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +143,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. ఆండ్రాయిడ్ అమరికలు &gt; డేటా వాడుక వద్ద “ఆటో-సింక్ డేటా”ను ఎంచుకోండి.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. ఆండ్రాయిడ్ అమరికలు &gt; ఖాతాలు వద్ద “ఆటో-సింక్ డేటా” ఎంచుకోండి.">
 <!ENTITY fxaccount_status_needs_finish_migrating "మీ కొత్త ఫైర్‌ఫాక్స్ ఖాతా లోనికి ప్రవేశించడానికి తాకండి.">
-<!ENTITY fxaccount_status_bookmarks "ఇష్టాంశాలు">
+
 <!ENTITY fxaccount_status_history "చరిత్ర">
 
 <!ENTITY fxaccount_status_tabs "తెరిచివున్న ట్యాబులు">
