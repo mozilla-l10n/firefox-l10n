@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; ilə bağlan">
-<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; Hesabı əlavə et">
-<!ENTITY sync.title.pair.label "Cihazları sinxronizasiya et">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Yeni cihazınızı aktiv etmək üçün cihazda “&syncBrand.shortName.label; Qur” seçin.">
-<!ENTITY sync.subtitle.header2.label "Bu kodu digər cihazınızda daxil edin">
-<!ENTITY sync.subtitle.connectlocation2.label "Digər cihazınızın Firefox seçimlərindən &syncBrand.shortName.label; bölümündə olan “&sync.title.pair.label;” seçin.">
 <!ENTITY sync.subtitle.pair.label "Aktivləşdirmək üçün digər cihazda “Sinxronlaşdırma” seçin.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Necə ediləcəyini göstər.">
-<!ENTITY sync.link.advancedsetup.label "Təkmilləşmiş quraşdırma…">
 <!ENTITY sync.link.nodevice.label "Cihaz yanımda deyil…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Digər cihaz üçün gözlənilir…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "&syncBrand.fullName.label; hesab məlumatlarınızı daxil edin">
-<!ENTITY sync.input.username.label "Hesab adı">
-<!ENTITY sync.input.password.label "Şifrə">
-<!ENTITY sync.input.key.label "Bərpa etmə açarı">
-<!ENTITY sync.checkbox.server.label "Şəxsi server istifadə et">
-<!ENTITY sync.input.server.label "Server URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; quraşdırıla bilmədi">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; serverə qoşula bilmir. Təkrar yoxlamaq istəyirsiniz?">
-<!ENTITY sync.button.tryagain.label "Yeniden dene">
-<!ENTITY sync.button.manual.label "Əllə qurma">
-<!ENTITY sync.subtitle.nointernet.label "İnternet bağlantısı yoxdur.">
-<!ENTITY sync.subtitle.failaccount.label "Cihazınızda hesab yaratma uğursuz oldu.">
-<!ENTITY sync.subtitle.failmultiple.label "Birdən çox qurulmuş Firefox-unuz var? Hazırda &syncBrand.fullName.label; eyni anda ancaq bir dənə Firefox quruluşunu dəstəkləyir. Lütfən &syncBrand.shortName.label; işlətmək üçün digər nüsxələri silin.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Quraşdırma tamamlandı">
-<!ENTITY sync.subtitle.success.label1 "Məlumatlarınız hazırda arxada endirilir. Hesabınızı idarə etmək üçün Tənzimləmələrə gedə və ya &brandShortName; ilə səyahətə başlaya bilərsiniz.">
-<!ENTITY sync.settings.label "Seçimlər">
-<!ENTITY sync.subtitle.manage.label1 "&syncBrand.fullName.label; hesabınız artıq quruludur. Hesabınızı idarə etmək Tənzimləmələrə gedə və ya &brandShortName; başlada bilərsiz.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Lütfən tekrar yoxlayın.">
-<!ENTITY sync.pair.connectlocation.label "Yeni cihazınızı aktiv etmək üçün cihazda “&syncBrand.shortName.label; Qur” seçin və daha sonra “Hesabım var” seçin.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Nizamlar">
-<!ENTITY sync.summary.pair.label "Digər cihazınızı &syncBrand.shortName.label; hesabınıza bağlayın">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Sinxronlaşdırılacaq hissələr">
-<!ENTITY sync.configure.engines.sync.my.title.label "Aşağıdakıları sinxronlaşdır:">
-<!ENTITY sync.configure.engines.title.bookmarks "Əlfəcinlər">
 <!ENTITY sync.configure.engines.title.passwords2 "Daxil olmalar">
 <!ENTITY sync.configure.engines.title.history "Tarixçə">
 <!ENTITY sync.configure.engines.title.tabs "Vərəqlər">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Ləğv et">
-<!ENTITY sync.button.connect.label "Qoşul">
-<!ENTITY sync.button.ok.label "Tamam">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (köhnə)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Oxuma Siyahısı">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Sabitlənmiş">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Ancaq bir &syncBrand.fullName.label; hesabı dəstəklənir.">
-<!ENTITY sync.notification.configure.saved "Seçimləriniz yadda saxlandı.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Yanlış hesab adı və ya şifrə.">
-<!ENTITY sync.invalidserver.label "Lütfən etibarlı bir server ünvanı daxil edin">
-<!ENTITY sync.verifying.label "Təsdiqlənir…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Bərpa Açarı səhvdir. Lütfən təkrar yoxlayın.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Vərəqi cihaza göndər">
-<!ENTITY sync.button.send.label "Göndər">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label;-i qur">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Vərəqləri göndərmək üçün &syncBrand.shortName.label;-i qurun">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Vərəqlərinizi digər cihazlara göndərmək üçün cihazınızda &syncBrand.fullName.label; qurun.">
 <!ENTITY sync.text.tab.sent.label "Vərəqiniz göndərildi!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-poçt">
-<!ENTITY fxaccount_password_hint "Şifrə">
+
 <!ENTITY fxaccount_password_hide "Gizlə">
 <!ENTITY fxaccount_password_show "Göstər">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; quruludur, amma avtomatik olaraq sinxronlaşdırmır. Android Tənzimləmələri &gt; Vərilənlərin İstifadəsi bölümündən “Məlumatların Avto-Sinxronlaşdırılması”-nı aktiv edin.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; quruludur, amma avtomatik olaraq sinxronlaşdırmır. Android Tənzimləmələri &gt; Hesablar bölümündən “Məlumatların Avto-Sinxronlaşdırılması”-nı aktiv edin.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Yeni Firefox Hesabınıza daxil olmaq üçün toxunun.">
-<!ENTITY fxaccount_status_bookmarks "Əlfəcinlər">
+
 <!ENTITY fxaccount_status_history "Tarixçə">
 <!ENTITY fxaccount_status_passwords2 "Daxil olmalar">
 <!ENTITY fxaccount_status_tabs "Açıq vərəqlər">
