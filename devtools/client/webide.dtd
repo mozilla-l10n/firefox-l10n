@@ -75,9 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
-<!ENTITY key_reload_devtools "ًُR">
 
 <!ENTITY projectPanel_myProjects "پروژه های من">
 <!ENTITY projectPanel_runtimeApps "برنامه‌های زمان اجرا">
@@ -198,6 +195,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "اگر دستگاه های دیگر شما به جای QR کد از شما توکن خواست، لطفا مقدار زیر را در دستگاه های دیگر کپی کنید:">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "گزارش‌های دستورات قبل از بسته بندی">
