@@ -75,8 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "हमर परियोजना">
 <!ENTITY projectPanel_runtimeApps "रनटाइम एप्प">
@@ -198,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "जँ अहाँ युक्ति टोकनक माँग करैत छी QR कोड स्कैन करबाक बदला मे, आन युक्ति क नीच्चाँ मान कए नकल करू:">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "प्री-पैकेजिंग कमांड लॉग">

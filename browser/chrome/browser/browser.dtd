@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ई वीडियो साझा करू (r)">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "सदस्यता लिअ' ">
-<!ENTITY subscribeToPageMenupopup.label "ई पृष्ठ क सदस्यता लिअ'">
+
+
 <!ENTITY subscribeToPageMenuitem.label "ई पृष्ठ क सदस्यता लिअ'…">
 <!ENTITY addCurPagesCmd.label "सभटा टैब पुस्तकचिह्नित करू…">
 <!ENTITY showAllBookmarks2.label "सभटा पुस्तकचिह्न केँ देखाउ">
+
 <!ENTITY unsortedBookmarksCmd.label "बिनु छाँटल पुस्तकचिह्न">
 <!ENTITY bookmarksToolbarChevron.tooltip "बेसी पुस्तकचिह्न देखाउ">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "कनेक्ट करू (e)…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -418,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "अओज़ार पट्टी मे जोड़ू (A)">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "मेनू मे जोड़ू (M)">
@@ -523,6 +527,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "नव विंडो मे फ्रेम खोलू">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "सिर्फ ई फ्रेम देखाउ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -737,7 +743,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "संपन्न">
-<!ENTITY editBookmark.cancel.label                   "रद्द करू">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "रिमोट कनेक्शन">
@@ -771,6 +776,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "आओर जानू">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "बेसी सूचना">
 
 <!ENTITY identity.permissions "अनुमति">
@@ -779,7 +786,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ब्राउजर टैब">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -817,7 +837,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "&brandShortName; केँ जोड़बाक लेल सेवा पर ​​क्लिक करू.">
 <!ENTITY social.directory.viewmore.text "बेसी देखू">
 
-<!ENTITY customizeMode.tabTitle "अनुकूलित करू &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "अतिरिक्त अओज़ार आओर विशेषता">
 <!ENTITY customizeMode.menuAndToolbars.empty "बेसी अओज़ार चाहैत छी?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजार add-ons मे सँ चुनू">
@@ -923,7 +942,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM केर संबंध मे बेसी जानू…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "अखन नहि">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "हमरासँ फेर नहि पूछू.">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
