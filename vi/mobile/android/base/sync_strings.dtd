@@ -7,58 +7,13 @@
 <!ENTITY syncBrand.fullName.label "Đồng bộ Firefox">
 <!ENTITY syncBrand.shortName.label "Đồng bộ">
 <!-- Main titles. -->
-
-
-<!ENTITY sync.title.pair.label "Ghép đối thiết bị">
 <!-- J-PAKE Key Screen -->
-
-
 <!ENTITY sync.subtitle.pair.label "Để kích hoạt, chọn “Ghép đôi thiết bị” trên thiết bị khác của bạn.">
 
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Chỉ tôi cách làm.">
-
-
-<!-- J-PAKE Waiting Screen -->
-<!-- Account Login Screen -->
-<!ENTITY sync.input.username.label "Tên Tài Khoản">
-
-<!ENTITY sync.input.key.label "Từ khóa khôi phục">
-<!ENTITY sync.checkbox.server.label "Dùng máy chủ tùy biến">
-<!ENTITY sync.input.server.label "URL máy chủ">
-<!-- Setup Fail -->
-
-<!ENTITY sync.button.tryagain.label "Thử lại">
-
-
-
-
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Cài đặt Hoàn tất">
-
-<!ENTITY sync.settings.label "Thiết lập">
-
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Vui lòng thử lại.">
-
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Tùy chọn">
 
 <!-- Configure Engines -->
 
-
-
-
 <!ENTITY sync.configure.engines.title.tabs "Thẻ">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Hủy bỏ">
-<!ENTITY sync.button.connect.label "Kết nối">
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -75,16 +30,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Trang đánh dấu Di động">
 
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!-- Notification strings -->
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidserver.label "Vui lòng điền một URL máy chủ hợp lệ">
-<!ENTITY sync.verifying.label "Đang xác thực…">
-
 <!-- Send tab to device. -->
-
-
-
 
 
 
