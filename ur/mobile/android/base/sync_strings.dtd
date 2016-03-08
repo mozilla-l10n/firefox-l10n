@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "ہمہ وار کریں">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; سے جڑیں">
-<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; اکاؤنٹ ڈالیں">
-<!ENTITY sync.title.pair.label "آلے کا جوڑا بنائیں">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "اپنا نیا آلہ متحرک کرنے کے لیے، آلے پر “Set up &syncBrand.shortName.label;” منتخب کریں۔">
-<!ENTITY sync.subtitle.header2.label "اپنے دوسرے آلے پر یہ ضابطہ داخل کریں">
-<!ENTITY sync.subtitle.connectlocation2.label "اپنے دوسرے آلے کی فائر فاکس اختیارات میں &syncBrand.shortName.label; سیکشن میں &sync.title.pair.label; منتخب کریں۔">
 <!ENTITY sync.subtitle.pair.label "عمل میں لانے کے لیے، اپنے دوسرے آلے پر “Pair a device” منتخب کریں۔">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "مجھے دکھائیں کیسے۔">
-<!ENTITY sync.link.advancedsetup.label "اعلٰی سیٹ اپ…">
 <!ENTITY sync.link.nodevice.label "میرے پاس اس وقت آلہ نہیں ہے…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "دوسرے آلے کا انتظار کر رہا ہے…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "اپنی &syncBrand.fullName.label; اکاؤنٹ معلومات داخل کریں">
-<!ENTITY sync.input.username.label "اکاؤنٹ نام">
-<!ENTITY sync.input.password.label "پاس ورڈ">
-<!ENTITY sync.input.key.label "بازیافت کلید">
-<!ENTITY sync.checkbox.server.label "مخصوص پیش کار استعمال کریں">
-<!ENTITY sync.input.server.label "پیش کار URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; سیٹ اپ نہیں کر سکتا">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; پیش کار سے نہیں جڑ سکا۔ کیا آپ پھر کوشش کرنا چاہیں گے؟">
-<!ENTITY sync.button.tryagain.label "دوبارہ کوشش کریں">
-<!ENTITY sync.button.manual.label "دستی سیٹ اپ">
-<!ENTITY sync.subtitle.nointernet.label "کوئی انٹرنیٹ کنکشن دستیاب نہیں۔">
-<!ENTITY sync.subtitle.failaccount.label "آپ کے آلے پر اکاؤنٹ تخلیق ناکام ہو گئی۔">
-<!ENTITY sync.subtitle.failmultiple.label "کیا آپ کے پاس ایک سے زیادہ فائر فاکس تنصیب شدہ ہیں؟ فی الحال، &syncBrand.fullName.label; ایک وقت پر صرف ایک فائر فاکس تنصیب کی معاونت کرتا ہے۔ &syncBrand.shortName.label; استعمال کرنے کے لیے باقی سب ناتنصیب کر دیں۔">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "سیٹ اپ مکمل">
-<!ENTITY sync.subtitle.success.label1 "آپ کے کوائف اب پس منظر میں ڈاؤن لوڈ ہو رہے ہیں۔ اپنے اکاؤنٹ کو بندوبست کرنے، یا &brandShortName; کے ساتھ براؤزنگ شروع کرنے کے لیے آپ سیٹنگوں میں جا سکتے ہیں۔">
-<!ENTITY sync.settings.label "سیٹنگیں">
-<!ENTITY sync.subtitle.manage.label1 "آپ کا &syncBrand.fullName.label; اکاؤنٹ پہلے سے سیٹ اپ ہے۔ آپ اپنا اکاؤنٹ بندوبست کرنے کے لئے سیٹنگیں پر جا سکتے ہے، یا &brandShortName; کو شروع کرے۔">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "پھر کوشش کریں۔">
-<!ENTITY sync.pair.connectlocation.label "اپنا نیا آلہ عمل میں لانے کے لیے، آلہ پر \&quot;سیٹ اپ &syncBrand.shortName.label;\&quot; منتخب کریں، اور پھر منتخب کریں \&quot;میرا ایک اکاؤنٹ ہے۔\&quot;">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "اختیارات">
-<!ENTITY sync.summary.pair.label "اپنے &syncBrand.shortName.label; اکاؤنٹ کے ساتھ ایک اور آلہ جوڑیں">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "کیا ہمہ وقت ساز کریں">
-<!ENTITY sync.configure.engines.sync.my.title.label "ہمہ وقت ساز کریں…">
-<!ENTITY sync.configure.engines.title.bookmarks "نشانیاں">
 <!ENTITY sync.configure.engines.title.passwords2 "لاگ ان">
 <!ENTITY sync.configure.engines.title.history "سابقات">
 <!ENTITY sync.configure.engines.title.tabs "ٹیب">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "منسوخ کریں">
-<!ENTITY sync.button.connect.label "جڑیں">
-<!ENTITY sync.button.ok.label "ٹھیک ہے">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (فرسودہ)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "پڑھنے کی فہرست">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "پن شدہ">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "صرف ایک &syncBrand.fullName.label; اکاؤنٹ معاونت شدہ ہے۔">
-<!ENTITY sync.notification.configure.saved "آپ کے انتخابات محفوظ کر دیئے گئے ہیں۔">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "غیر صحیح اکاؤنٹ نام یا پاس ورڈ۔">
-<!ENTITY sync.invalidserver.label "جائز بتدریج یو ار ایل داخل کریں">
-<!ENTITY sync.verifying.label "توثیق کر رہا ہے…">
-<!ENTITY sync.new.recoverykey.status.incorrect "بازیافت کلید غیر صحیح۔ پھر کوشش کریں۔">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "ٹیب کو آلات پر بھیجیں">
-<!ENTITY sync.button.send.label "بھیجیں">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; سیٹ اپ کریں">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "ییب بھیجنے کے لیے &syncBrand.shortName.label; سیٹ اپ کریں">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "دیگر آلات پر اپنے ٹیب بھیجنے کے لیے اپنے آلے پر &syncBrand.fullName.label; سیٹ اپ کریں۔">
 <!ENTITY sync.text.tab.sent.label "آپ کا ٹیب بھیج دیا گیا!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ای میل">
-<!ENTITY fxaccount_password_hint "پاس ورڈ">
+
 <!ENTITY fxaccount_password_hide "چھپائیں">
 <!ENTITY fxaccount_password_show "دکھائیں">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; سیٹ کردیا گیا ہے، لیکن خود بخود ہمہ وار نہیں کر رہا ہے۔ “خود-ہمہ وار کوائف” کو انڈروایڈ &gt; کوائف استعمال کی سیٹنگیں میں ٹوگل کریں۔">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; سیٹ کردیا گیا ہے، لیکن خود بخود ہمہ وار نہیں کر رہا ہے۔ “خود-ہمہ وار کوائف” کو مینیو کے انڈروایڈ &gt; اکاؤنٹس کی سیٹنگیں میں ٹوگل کریں۔">
 <!ENTITY fxaccount_status_needs_finish_migrating "اپنے نئے فائر فاکس اکاؤنٹ میں سائن ان کرنے کے لیے کلک کریں۔">
-<!ENTITY fxaccount_status_bookmarks "نشانیاں">
+
 <!ENTITY fxaccount_status_history "سابقات">
 <!ENTITY fxaccount_status_passwords2 "لاگ ان">
 <!ENTITY fxaccount_status_tabs "ٹیب کھولیے">

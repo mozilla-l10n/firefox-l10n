@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "مجھے یہاں سے نکالیں!">
 <!ENTITY safeb.palm.decline.label "اس تنبیہ کو نظر انداز کریں">
-<!ENTITY safeb.palm.notforgery.label2 "یہ ویب نقل نہیں ہے…">
 
 
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> پر ویب پیج اٹیک پیج کے طور پر رپعرٹ ہو چکا ہے اور آپ کی سلامتی ترجیحات کی بناہ پر بلاک کر دیا گیا ہے۔">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>اٹیک پیج ایسے پروگرام تنصیب کرنے کی کوشش کرتے ہیں جو نجی معلومات چوری کرتی ہے، آپ کا کمپیوٹر دوسروں پر حملہ کرنے کے لیے استعمال کرتے ہیں، یا آپ کا نظام خراب کرتے ہیں۔</p><p>کچھ اٹیک پیج جان کر مضر سافٹ ویئر بانٹتے ہیں، لیکن کافی سے یہ اپنے مالکین کی اجازت کے بغیر کرتے ہیں۔</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "ویب نقل کا شبہ!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "اس صفحہ پر داخل کی گئی کوئی بھی ذاتی معلومات کا نتیجہ تشخص چوری یا دیگر فراڈ ہو سکتا ہے۔">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>اس قسم کی ویب نقال ایسے دھوکوں میں استعمال کی جاتی ہیں جن کو فشنگ اٹیک کے نام سے جانا جاتا ہے، ان میں جعلی ویب پیج اور ای میل ایسی چیزوں کی نقل کرنے لے لیے استعمال کیے جاتے ہیں جن پر آپ بھروسا کرتے ہیں۔</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.unwantedPage.title "ناپسندیدہ سافٹ ویئر ویب سائٹ رپورٹ کرے!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
