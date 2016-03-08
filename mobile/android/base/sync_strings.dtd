@@ -7,52 +7,13 @@
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
-
-
-
 <!-- J-PAKE Key Screen -->
 
 
 
-
-
-
-
-
-<!-- J-PAKE Waiting Screen -->
-<!-- Account Login Screen -->
-
-
-
-
-
-<!-- Setup Fail -->
-
-
-
-
-
-
-<!-- Setup Success -->
-
-<!ENTITY sync.settings.label "Eyar">
-
-<!-- Pair Device -->
-
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Vebijark">
-
 <!-- Configure Engines -->
 
-
-
-
 <!ENTITY sync.configure.engines.title.tabs "Hilpekîn">
-<!-- Common text -->
-
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -67,16 +28,7 @@
 
 <!ENTITY bookmarks.folder.readinglist.label "Lîsteya Xwendinê">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!-- Notification strings -->
-
-<!-- Incorrect settings and changing credentials. -->
-
-
-
 <!-- Send tab to device. -->
-
-
-
 
 
 
