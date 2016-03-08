@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Axtarış zamanı əlfəcin və tarixçənizdən nəticələr əldə edin.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Az data, çox qənaət">
-<!ENTITY firstrun_data_subtext "Şəkilləri bloklayaraq ziyarət etdiyiniz hər saytda daha az data xərcləyin.">
+
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, hər zaman sizin tərəfinizdə">
 <!ENTITY firstrun_sync_subtext "İşlətdiyiniz hər yerdə vərəq, parol və daha məlumatınızı sinxronlaşdırın.">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Həmişə">
 <!ENTITY pref_tap_to_load_images_data "Yalnız Wi-Fi ilə">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloklanmış">
+
 
 <!ENTITY pref_tracking_protection_title "İzlənmə qoruması">
 <!ENTITY pref_tracking_protection_summary3 "Məxfi Səyahətdə aktivdir">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Tam ekran səyahət">
 <!ENTITY pref_scroll_title_bar_summary2 "Səhifəni aşağı sürüşdürərkən &brandShortName; başlıq sətrini gizlət">
 
-<!ENTITY pref_tab_queue_title2 "Çoxlu keçid aç">
-<!ENTITY pref_tab_queue_summary3 "Onları &brandShortName; səyyahını daha sonra açana qədər saxla">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Bu panel üçün heç bir məzmun tapılmadı.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Yuxarı &formatS;">
 
 <!ENTITY home_remote_tabs_title "Sinxronlaşdırılmış vərəqlər">
 <!ENTITY home_remote_tabs_empty "Digər cihazlarınızdaki vərəqlər burada görünür.">
@@ -648,8 +646,6 @@ idxal edilir">
 
 <!ENTITY suggestion_for_engine "&formatS1; ilə &formatS2; axtar">
 
-<!ENTITY webapp_generic_name "Tətbiq">
-
 <!ENTITY searchable_description "Əlfəcinlər və tarixçə">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ idxal edilir">
 <!ENTITY remote_tabs_last_synced "Son sinxronlaşdırma: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Son sinxronlaşma: heç vaxt">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Keçid açıla bilmir">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ idxal edilir">
 
 <!ENTITY unsupported_sdk_version "Bağışlayın! Bu &brandShortName; bu cihazda işləmir (&formatS1;, &formatS2;). Lütfən doğru versiyanı endirin.">
 
-<!ENTITY eol_notification_title "&brandShortName; artıq Android 3 dəstəkləmir">
 <!ENTITY eol_notification_summary "Ətraflı öyrənmək üçün toxunun">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
