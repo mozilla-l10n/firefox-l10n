@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Scrios gach ceann ach an ceann is déanaí">
 <!ENTITY retentionKeepRecent.accesskey "g">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Scrios teachtaireachtaí léite i gcónaí (ná bac le socruithe aoise)">
 <!ENTITY retentionApplyToFlagged.label "Coimeád teachtaireachtaí marcáilte i gcónaí">
 <!ENTITY retentionApplyToFlagged.accesskey "C">
 <!ENTITY nntpRemoveMsgBody.label "Bain na coirp de theachtaireachtaí atá níos mó ná">
