@@ -196,7 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Om din andra enhet ber om en symbol istället för att läsa en QR-kod, kopiera då värdet nedan till den andra enheten:">
-
+<!ENTITY wifi_auth_qr_size_note "Om QR-kod förfaller för liten för att kunna ansluta, försök zooma eller förstora fönstret.">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Logg med kommandon före paketering">
