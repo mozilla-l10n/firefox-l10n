@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
+<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
 <!ENTITY pref.content.title                     "Conteúdo">
 <!ENTITY pref.content.description               "Essas opções influenciam como conteúdo de sites e mensagens devem aparecer no &brandShortName;.">
@@ -13,6 +13,9 @@
 <!ENTITY useFavIcons.accesskey                  "P">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens para caber na janela">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
+<!ENTITY scrolling.label                        "Rolagem">
+<!ENTITY useAutoScroll.label                    "Usar autorrolagem">
+<!ENTITY useAutoScroll.accesskey                "t">
 <!ENTITY useSmoothScroll.label                  "Usar rolagem suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
 <!ENTITY allowHWAccel.label                     "Usar aceleração de hardware quando disponível">
