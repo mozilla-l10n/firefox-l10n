@@ -5,56 +5,13 @@
      a better place to live. -->
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
-
-
-<!ENTITY sync.title.pair.label "I-pares sa isa pang Aparato">
 <!-- J-PAKE Key Screen -->
 
 
 
-
-
-<!ENTITY sync.link.show.label "Ipakita sa akin kung papaano.">
-
-
-<!-- J-PAKE Waiting Screen -->
-<!-- Account Login Screen -->
-
-
-
-
-
-<!-- Setup Fail -->
-
-<!ENTITY sync.button.tryagain.label "Subukan muli">
-
-
-
-
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Tapos na ang Setup">
-
-
-
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Paki subukan muli.">
-
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Options">
-
 <!-- Configure Engines -->
 
 
-
-
-
-<!-- Common text -->
-
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -69,16 +26,7 @@
 
 <!ENTITY bookmarks.folder.readinglist.label "Talaan ng mga Babasahin">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!-- Notification strings -->
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidserver.label "Pakilagay ang isang tamang server URL">
-
-
 <!-- Send tab to device. -->
-
-
-
 
 
 
