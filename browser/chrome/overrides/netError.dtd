@@ -125,20 +125,6 @@
 дали на &brandShortName; е разрешен достъпът до Интернет.</li>
 </ul>">
 
-<!ENTITY malwareBlocked.title "Подозрение за атакуващ сайт!">
-<!ENTITY malwareBlocked.longDesc "<p>Атакуващите сайтове опитват да инсталират програми, които крадат лична информация, повреждат компютъра ви или го използват за атака на други компютри.</p> 
-<p>Собствениците на сайтове, които смятат че сайтовете им несправедливо са докладвани като атакуващи, могат да <a href='http://www.stopbadware.org/home/reviewinfo' >поискат проверка</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Предполагаема страница с нежелан софтуер!">
-<!ENTITY unwantedBlocked.longDesc "<p>Страниците с нежелан софтуер се опитват да инсталират софтуер, който подвежда и влияе по неочакван начин на вашия компютър.</p>">
-
-<!ENTITY phishingBlocked.title "Подозрение за измамнически сайт!">
-<!ENTITY phishingBlocked.longDesc "<p>Въвеждането на лична информация в тази страница може да доведе до кражба на идентичността и други измами.</p> 
-<p>Този вид измами са известни като измамнически атаки, при които се имитират страници и е-адреси на сайтове на които вярвате.</p>">
-
-<!ENTITY forbiddenBlocked.title "Забранен сайт">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; предотврати зареждането на тази страница, защото е настроен да я блокира.</p>">
-
 <!ENTITY cspBlocked.title "Блокирано от политика за сигурност на страницата">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото страницата е с политика за сигурност, което го забранява.</p>">
 
@@ -162,9 +148,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Докладвайте такива грешки, за да помогнете на Mozilla да идентифицира и блокира злонамерени сайтове">
 <!ENTITY errorReporting.learnMore "Научете повече…">
-<!ENTITY errorReporting.sending "Изпращане на доклад">
-<!ENTITY errorReporting.sent "Докладът изпратен">
-<!ENTITY errorReporting.tryAgain "Нов опит">
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li></ul></p>">

@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Включени приставки">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Настройки на компилацията">
 <!ENTITY aboutSupport.appBasicsUserAgent "Потребителски агент">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Използване на паметта">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 

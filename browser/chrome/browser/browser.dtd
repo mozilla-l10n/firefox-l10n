@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "С">
 <!ENTITY shareVideo.label "Споделяне на видеозапис">
 <!ENTITY shareVideo.accesskey "С">
-<!ENTITY feedsMenu.label "Абониране">
-<!ENTITY subscribeToPageMenupopup.label "Абониране за тази страница">
+
+
 <!ENTITY subscribeToPageMenuitem.label "Абониране за тази страница…">
 <!ENTITY addCurPagesCmd.label "Отмятане всички подпрозорци…">
 <!ENTITY showAllBookmarks2.label "Показване на всички отметки">
+
 <!ENTITY unsortedBookmarksCmd.label "Негрупирани отметки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показване на повече отметки">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Свързване…">
 <!ENTITY devtoolsConnect.accesskey    "з">
@@ -407,20 +410,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Отваряне на меню с помощ">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизирани подпрозорци">
-<!ENTITY appMenuRemoteTabs.fetching.label "Извличане на синхронизирани подпрозорци…">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Няма отворени подпрозорци">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Активирайте синхронизирането на подпрозорци, за да видите списък с подпрозорците в други ваши устройства.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Впишете се във Firefox на друго устройство, за да видите тук техните подпрозорци.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки на Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите тук подпрозорците в други ваши устройства.">
+
 <!ENTITY appMenuRemoteTabs.signin.label "Впишете се в Sync">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
@@ -527,6 +528,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "д">
 <!ENTITY openFrameCmd.label           "Отваряне в нов прозорец">
 <!ENTITY openFrameCmd.accesskey       "п">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Показване само на тази рамка">
 <!ENTITY showOnlyThisFrameCmd.accesskey "р">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -741,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "р">
 
 <!ENTITY editBookmark.done.label                     "Готово">
-<!ENTITY editBookmark.cancel.label                   "Отказ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "П">
 
 <!ENTITY identity.connectionSecure "Защитена връзка">
@@ -775,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "И">
 <!ENTITY identity.learnMore "Научете повече">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "Повече информация">
 
 <!ENTITY identity.permissions "Права">
@@ -783,9 +787,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Подпрозорци на браузъра">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu3.label     "Синхронизирани подпрозорци">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -823,7 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Щракнете на услуга, за да я добавите към &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Други услуги">
 
-<!ENTITY customizeMode.tabTitle "Персонализиране на &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Допълнителни инструменти и възможности">
 <!ENTITY customizeMode.menuAndToolbars.empty "Искате още инструменти?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете измежду хиляди добавки">
@@ -929,7 +945,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Научете повече за DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Не сега">
-<!ENTITY emeNotificationsNotNow.accesskey         "Н">
-<!ENTITY emeNotificationsDontAskAgain.label       "Изключване на въпроса">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "И">
