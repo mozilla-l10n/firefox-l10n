@@ -8,71 +8,16 @@
 <!ENTITY syncBrand.shortName.label "സിന്‍ക്">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label;ലേക്ക് ബന്ധിപ്പിക്കുക">
-<!ENTITY sync.title.adddevice.label "ഒരു അക്കൗണ്ട് &syncBrand.fullName.label; നിർമ്മിക്കുക">
-<!ENTITY sync.title.pair.label "ഒരു ഡിവൈസുമായി പെയര്‍ ചെയ്യുക">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "നിങ്ങളുടെ ഉപകരണം പ്രവർത്തിപ്പിക്കാൻ, “&syncBrand.shortName.label; സജ്ജീകരണം” എടുക്കുക.">
-<!ENTITY sync.subtitle.header2.label "ഈ കോഡ് നിങ്ങളുടെ ഉപകരണത്തിൽ അടിക്കുക">
-<!ENTITY sync.subtitle.connectlocation2.label "നിങ്ങളുടെ മറ്റു് ഉപകരണത്തിന്റെ ഫയർഫോക്സ് ഐച്ഛികങ്ങളിൽ &syncBrand.shortName.label;-ലുള്ള “&sync.title.pair.label;” എന്നത് തിരഞ്ഞെടുക്കുക.">
 <!ENTITY sync.subtitle.pair.label "സജീവമാക്കുന്നതിനു്, നിങ്ങളുടെ മറ്റുപകരണത്തില്‍ \&quot;Pair a Device\&quot; തെരഞ്ഞെടുക്കുക.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "എങ്ങനെയെന്നു് കാണിയ്ക്കുക.">
-<!ENTITY sync.link.advancedsetup.label "വിശദമായ സജ്ജീകരണങ്ങള്‍">
 <!ENTITY sync.link.nodevice.label "ഡിവൈസ് ലഭ്യമല്ല...">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "മറ്റു ഉപകരണത്തിനായി കാത്തിരിക്കുന്നു...">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "നിങ്ങളുടെ &syncBrand.fullName.label; അകൗണ്ട് വിവരങ്ങൾ അടിക്കൂ">
-<!ENTITY sync.input.username.label "അക്കൌണ്ടിന്റ് പേരു്">
-<!ENTITY sync.input.password.label "രഹസ്യവാക്ക്">
-<!ENTITY sync.input.key.label "വീണ്ടെടുക്കല്‍ കീ">
-<!ENTITY sync.checkbox.server.label "ഇഷ്ടമുള്ള സര്‍വര്‍ ഉപയോഗിയ്ക്കുക">
-<!ENTITY sync.input.server.label "സര്‍വര്‍ URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; സജ്ജമാക്കുവാന്‍ സാധ്യമല്ല">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label;സർവറുമായി ബന്ധം സ്ഥാപിക്കാൻ സാധിച്ചില്ല. വീണ്ടും ശ്രമിക്കണോ?">
-<!ENTITY sync.button.tryagain.label "വീണ്ടും ശ്രമിയ്ക്കുക">
-<!ENTITY sync.button.manual.label "സ്വമേധയുള്ള സജ്ജീകരണം">
-<!ENTITY sync.subtitle.nointernet.label "ഇൻറ്റർനെറ്റ് കണക്ഷന്‍ ലഭ്യമല്ല">
-<!ENTITY sync.subtitle.failaccount.label "അക്കൌണ്ട് സജ്ജീകരണം പരാജയപ്പെട്ടു.">
-<!ENTITY sync.subtitle.failmultiple.label "ഒന്നില്‍ കൂടുതല്‍ ഫയര്‍ഫോക്സ് ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടുണ്ടോ? നിലവില്‍, ഒരു സമയത്തു് ഒരു ഫയര്‍ഫോക്സ് മാത്രമേ &syncBrand.fullName.label; പിന്തുണയ്ക്കുന്നുള്ളൂ. &syncBrand.shortName.label; ഉപയോഗിയ്ക്കുന്നതിനു് ദയവായി മറ്റുള്ള ഫയര്‍ഫോക്സ് ഇന്‍സ്റ്റന്‍സ് ഉപേക്ഷിയ്ക്കുക.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "സജ്ജമാക്കല്‍ പൂര്‍ണ്ണമാക്കിയിരിയ്ക്കുന്നു">
-<!ENTITY sync.subtitle.success.label1 "പശ്ചാത്തലത്തില്‍, നിങ്ങളുടെ ഡേറ്റാ ഡൌണ്‍ലോഡ് ആകുന്നു. അക്കൌണ്ട് കൈകാര്യം ചെയ്യുന്നതിനു് സജ്ജീകരണത്തിലേക്കു് പോകുക, അല്ലെങ്കില്‍ &brandShortName; ഉപയോഗിയ്ക്കുക.">
-<!ENTITY sync.settings.label "സജ്ജീകരണങ്ങള്‍">
-<!ENTITY sync.subtitle.manage.label1 "&syncBrand.fullName.label; അക്കൌണ്ട് സജ്ജമാണു്. ഇതു് കൈകാര്യം ചെയ്യുന്നതിനു് സജ്ജീകരണങ്ങളിലേക്കു് പോകാം അല്ലെങ്കില്‍ &brandShortName; ലഭ്യമാക്കുക.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "ദയവായി വീണ്ടും ശ്രമിയ്ക്കുക.">
-<!ENTITY sync.pair.connectlocation.label "പുതിയ ഉപകരണം സജീവമാക്കുന്നതിനു്, “&syncBrand.shortName.label; സജ്ജമാക്കുക” ഐച്ഛികത്തില്‍ “സ്വന്തമായി അക്കൌണ്ടുണ്ടു്” തെരഞ്ഞെടുക്കുക.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "ഐച്ഛികങ്ങള്‍">
-<!ENTITY sync.summary.pair.label "&syncBrand.shortName.label; അക്കൌണ്ടിലേക്കു് മറ്റൊരു ഉപകരണം ബന്ധപ്പെടുത്തക">
 <!-- Configure Engines -->
-
-<!ENTITY sync.configure.engines.title.label "എന്തു് സിന്‍ക് ചെയ്യണം">
-<!ENTITY sync.configure.engines.sync.my.title.label "സിന്‍ക് ചെയ്യേണ്ടതു്...">
-<!ENTITY sync.configure.engines.title.bookmarks "അടയാളക്കുറിപ്പുകള്‍">
-
 <!ENTITY sync.configure.engines.title.history "നാള്‍വഴി">
 <!ENTITY sync.configure.engines.title.tabs "ടാബുകള്‍">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "റദ്ദാക്കുക">
-<!ENTITY sync.button.connect.label "ബന്ധിപ്പിയ്ക്കുക">
-<!ENTITY sync.button.ok.label "ശരി">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label;(ഒഴിവാക്കി)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -90,21 +35,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "പട്ടിക വായിക്കുന്നു">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "ചേര്‍ത്ത സൈറ്റുകള്‍">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "ഒരു &syncBrand.fullName.label; അക്കൌണ്ട് മാത്രമേ പിന്തുണയ്ക്കുന്നുള്ളൂ.">
-<!ENTITY sync.notification.configure.saved "നിങ്ങള്‍ തെരഞ്ഞെടുത്തതു് സൂക്ഷിച്ചിരിയ്ക്കുന്നു.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "അക്കൗണ്ട് നാമം അല്ലെങ്കില്‍ രഹസ്യവാക്ക് തെറ്റാണ്.">
-<!ENTITY sync.invalidserver.label "ശരിയായൊരു സര്‍വര്‍ യുആര്‍എല്‍ നല്‍കുക">
-<!ENTITY sync.verifying.label "ഉറപ്പാക്കുന്നു…">
-<!ENTITY sync.new.recoverykey.status.incorrect "വീണ്ടെടുക്കുന്നതിനുള്ള കീ തെറ്റ്. ദയവായി വീണ്ടും ശ്രമിയ്ക്കുക.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "ഉപകരണങ്ങള്‍ക്കു് റ്റാബ് അയയ്ക്കുക">
-<!ENTITY sync.button.send.label "അയയ്ക്കുക">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; സജ്ജമാക്കുക">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "റ്റാബുകള്‍ അയയ്ക്കുന്നതിനു് &syncBrand.shortName.label; സജ്ജമാക്കുക">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "മറ്റു് ഉപകരണങ്ങള്‍ക്കു് റ്റാബുകള്‍ അയയ്ക്കുന്നതിനു്, &syncBrand.fullName.label; സജ്ജമാക്കുക.">
 <!ENTITY sync.text.tab.sent.label "നിങ്ങളുടെ ടാബ് അയച്ചു!">
@@ -121,7 +53,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ഈമെയില്‍">
-<!ENTITY fxaccount_password_hint "രഹസ്യവാക്ക്">
+
 <!ENTITY fxaccount_password_hide "ഒളിപ്പിക്കുക">
 <!ENTITY fxaccount_password_show "പ്രദര്‍ശിപ്പിക്കുക">
 <!-- Localization note: these are shown in screens after the user has
@@ -207,7 +139,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; സജ്ജമാണു്, പക്ഷേ ഓട്ടോമാറ്റിയ്ക്കായി സിന്‍ക് ചെയ്യുന്നില്ല. ആന്‍ഡ്രോയിഡ് സജ്ജീകരണങ്ങള്‍ &gt; ഡേറ്റാ ഉപയോഗത്തിലുള്ള “Auto-sync data”മാറ്റുക.">
 
 <!ENTITY fxaccount_status_needs_finish_migrating "താങ്കളുടെ പുതിയ ഫയര്‍ഫോക്സ് അക്കൌണ്ടില്‍ പ്രവേശിക്കാന്‍ സ്ക്രീനില്‍ തൊടുക.">
-<!ENTITY fxaccount_status_bookmarks "അടയാളക്കുറിപ്പുകള്‍">
+
 <!ENTITY fxaccount_status_history "നാള്‍വഴി">
 
 <!ENTITY fxaccount_status_tabs "ടാബുകള്‍ തുറക്കുക">
