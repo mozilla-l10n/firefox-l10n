@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "Eraman hemendik at!">
 <!ENTITY safeb.palm.decline.label "Ezikusi abisu hau">
-<!ENTITY safeb.palm.notforgery.label2 "Hau ez da web iruzurra…">
 <!ENTITY safeb.palm.reportPage.label "Zergatik blokeatu da orri hau?">
 <!ENTITY safeb.palm.whyForbidden.label "Zergatik blokeatu da orri hau?">
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Web orri hau (<span id='malware_sitename'/>) orri erasotzaile bezala salatua dago eta blokeatu egin da zure segurtasun-ezarpenetan oinarrituta.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Zure informazio pertsonala ostu, zure ordenagailua besteei erasotzeko erabili edo zure sistema kaltetzeko programak instalatzen saiatzen dira orri erasotzaileak.</p><p>Zenbait orri erasotzailek nahita banatzen dute software kaltegarria baina, beste askok, jabeak jakinaren gainean egon gabe banatzen dute.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Ustezko web iruzurra!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Orri honetan informazio pertsonala idatziz gero nortasun-lapurreta edo bestelako iruzurren bat gerta liteke.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Mota honetako web iruzurrak 'phishing eraso' izenez ezagutzen dira eta konfiantzazko webgune eta helbide elektronikoak imitatzeko erabiltzen dira.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.unwantedPage.title "Salatutako nahi ez den softwarearen gunea!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

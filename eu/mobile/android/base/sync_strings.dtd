@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Konektatu &syncBrand.shortName.label;(e)ra">
-<!ENTITY sync.title.adddevice.label "Gehitu &syncBrand.fullName.label; kontua">
-<!ENTITY sync.title.pair.label "Parekatu gailua">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Zure gailu berria aktibatzeko, hautatu “Konfiguratu &syncBrand.shortName.label;” gailuan.">
-<!ENTITY sync.subtitle.header2.label "Idatzi kode hau zure beste gailuan">
-<!ENTITY sync.subtitle.connectlocation2.label "Hautatu “&sync.title.pair.label;” zure beste gailuko Firefoxen aukeren &syncBrand.shortName.label; atalean.">
 <!ENTITY sync.subtitle.pair.label "Aktibatzeko, hautatu “Parekatu gailua” zure beste gailuan.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Erakutsi nola.">
-<!ENTITY sync.link.advancedsetup.label "Konfigurazio aurreratua…">
 <!ENTITY sync.link.nodevice.label "Gailua ez daukat nirekin…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Beste gailuari itxoiten…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Sartu zure &syncBrand.fullName.label; kontuaren informazioa">
-<!ENTITY sync.input.username.label "Kontuaren izena">
-<!ENTITY sync.input.password.label "Pasahitza">
-<!ENTITY sync.input.key.label "Berreskuratze-gakoa">
-<!ENTITY sync.checkbox.server.label "Erabili zerbitzari pertsonalizatua">
-<!ENTITY sync.input.server.label "Zerbitzariaren URLa">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Ezin da &syncBrand.shortName.label; konfiguratu">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label;(e)k ezin izan du zerbitzarira konektatu. Berriro saiatu nahi duzu?">
-<!ENTITY sync.button.tryagain.label "Saiatu berriro">
-<!ENTITY sync.button.manual.label "Eskuzko konfigurazioa">
-<!ENTITY sync.subtitle.nointernet.label "Ez dago Internet konexiorik erabilgarri.">
-<!ENTITY sync.subtitle.failaccount.label "Zure gailuan kontua sortzeak huts egin du.">
-<!ENTITY sync.subtitle.failmultiple.label "Firefox bat baino gehiago dauzkazu instalatuta? Une honetan &syncBrand.fullName.label;(e)k Firefoxen instalazio bakarra onartzen du. &syncBrand.shortName.label; erabiltzeko, desinstalatu beste instantziak mesedez.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Konfigurazioa osatuta">
-<!ENTITY sync.subtitle.success.label1 "Zure datuak atzeko planoan ari dira deskargatzen orain. Ezarpenetara joan zaitezke zure kontua kudeatzeko edo bestela &brandShortName;(e)kin nabigatzen has zaitezke.">
-<!ENTITY sync.settings.label "Ezarpenak">
-<!ENTITY sync.subtitle.manage.label1 "Zure &syncBrand.fullName.label; kontua konfiguratuta dago. Ezarpenetara joan zaitezke zure kontua kudeatzeko edo abiarazi &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Saiatu berriro mesedez.">
-<!ENTITY sync.pair.connectlocation.label "Zure gailu berria aktibatzeko, hautatu “Konfiguratu &syncBrand.shortName.label;” gailuan eta gero hautatu “Badaukat kontua”.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Aukerak">
-<!ENTITY sync.summary.pair.label "Lotu beste gailu bat zure &syncBrand.shortName.label; kontura">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Zer sinkronizatu">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sinkronizatu zure…">
-<!ENTITY sync.configure.engines.title.bookmarks "Laster-markak">
 <!ENTITY sync.configure.engines.title.passwords2 "Saio-hasierak">
 <!ENTITY sync.configure.engines.title.history "Historia">
 <!ENTITY sync.configure.engines.title.tabs "Etiketak">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Utzi">
-<!ENTITY sync.button.connect.label "Konektatu">
-<!ENTITY sync.button.ok.label "Ados">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (zaharkituta)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Irakurketa-zerrenda">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Ainguratuak">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; kontu bakarra onartzen da.">
-<!ENTITY sync.notification.configure.saved "Zure hautapenak gorde egin dira.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Kontu-izen edo pasahitz okerra.">
-<!ENTITY sync.invalidserver.label "Sartu baliozko zerbitzariaren URLa">
-<!ENTITY sync.verifying.label "Egiaztatzen…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Berreskuratze-gako okerra. Saiatu berriro.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Bidali fitxa gailuetara">
-<!ENTITY sync.button.send.label "Bidali">
-<!ENTITY sync.button.set.up.sync.label "Konfiguratu &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Konfiguratu &syncBrand.shortName.label; fitxak bidaltzeko">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Konfiguratu &syncBrand.fullName.label; zure gailuan beste gailuetara fitxak bidaltzeko.">
 <!ENTITY sync.text.tab.sent.label "Zure fitxa bidali da!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Helbide elektronikoa">
-<!ENTITY fxaccount_password_hint "Pasahitza">
+
 <!ENTITY fxaccount_password_hide "Ezkutatu">
 <!ENTITY fxaccount_password_show "Erakutsi">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \u0027Auto-sinkronizatu datuak\u0027 aukera Androideko Ezarpenak &gt; Datuen erabilpena atalean.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \u0027Auto-sinkronizatu datuak\u0027 aukera Androideko Ezarpenak &gt; Kontuak atalean.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Sakatu zure Firefoxeko kontu berrian saioa hasteko.">
-<!ENTITY fxaccount_status_bookmarks "Laster-markak">
+
 <!ENTITY fxaccount_status_history "Historia">
 <!ENTITY fxaccount_status_passwords2 "Saio-hasierak">
 <!ENTITY fxaccount_status_tabs "Irekitako fitxak">
