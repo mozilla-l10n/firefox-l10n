@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "Makni me odavdje!">
 <!ENTITY safeb.palm.decline.label "Zanemari ovo upozorenje">
-<!ENTITY safeb.palm.notforgery.label2 "Ovo nije web krivotvorina…">
 <!ENTITY safeb.palm.reportPage.label "Zašto je ova stranica blokirana?">
 <!ENTITY safeb.palm.whyForbidden.label "Zašto je ova stranica blokirana?">
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Web stranica <span id='malware_sitename'/> je prijavljena kao zloćudna stranica i blokirana je na temelju vaših sigurnosnih postavki.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Zloćudne stranice pokušavaju instalirati programe koji kradu privatne informacije, koriste vaše računalo za napade na druga računala ili oštećuju vaš sustav.</p><p>Neke zloćudne stranice namjerno distribuiraju zloćudne programe, ali isto tako postoji mnogo stranica koje su izmijenjene bez znanja i dozvole njihovih vlasnika.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Potencijalna web krivotvorina!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Upisivanje bilo kakvih osobnih informacija na ovoj stranici može rezultirati krađom indentiteta ili drugom prijevarom.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ovakve vrste web krivotvorina se koriste u prijevarama poznatijima kao napad lažnim predstavljanjem, u kojima se koriste varljive web stranice ili e-pošta koje imitiraju izvore kojima možda vjerujete.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.unwantedPage.title "Prijavljena nesigurna stranica!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
