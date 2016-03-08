@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "გამიყვანეთ აქედან!">
 <!ENTITY safeb.palm.decline.label "გაფრთხილების იგნორირება">
-<!ENTITY safeb.palm.notforgery.label2 "ეს არაა ვებ ყალთაბანდობა…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.reportPage.label "რატომაა ეს გვერდი დაბლოკილი?">
 <!ENTITY safeb.palm.whyForbidden.label "რატომ დაიბლოკა ეს გვერდი?">
 
@@ -18,10 +18,7 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> ეს ვებ-გვერდი შემჩნეულია, რომ შეიცავს არასასურველ პროგრამებს და დაბლოკილია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>არასასურველი საიტი ცდილობს დააყენოს პროგრამა, რომელიც შეიძლება იყოს თაღლითური და საზიანო თქვენი სისტემისთვის.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "ვებ ყალთაბანდობის პატაკი!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "ეს ვებ გვერდი <span id='phishing_sitename'/> ცნობილია როგორც ვებ ყალთაბანდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების თანახმად.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>ვებ ყალთაბანდი გვერდი შექმნილია რათა თაღლითურად გამოგტყუონ თქვენი პირადი და ფინანსური ინფორმაცია თქვენთვის სანდო წყაროების იმიტაციით.</p><p>რაიმე ინფორმაციის შეტანა ასეთ ვებ გვერდზე შესაძლებელია თქვენი იდენტურობის მოპარვის ან სხვა თაღლითობის მიზეზი გახდეს.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "დაბლოკილი საიტები">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

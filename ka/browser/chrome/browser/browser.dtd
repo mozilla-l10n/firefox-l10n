@@ -258,6 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
+<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "დაკავშირება…">
 <!ENTITY devtoolsConnect.accesskey    "კ">
@@ -530,6 +532,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ბლოკის ახალ ფანჯარაში გახსნა">
 <!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmdInContainerTab.label "ბმულის გახსნა ახალ სათავს ჩანართში">
+<!ENTITY openLinkCmdInContainerTab.accesskey "ს">
 <!ENTITY showOnlyThisFrameCmd.label     "მხოლოდ ამ ბლოკის ჩვენება">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -791,9 +795,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "სინქრონირებული ჩანართები">
 
+<!ENTITY syncedTabs.sidebar.label              "სინქრონირებული ჩანართები">
+<!ENTITY syncedTabs.sidebar.fetching.label     "სინქრონირებული ჩანართების მიღება…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "შედით Firefox-ში თქვენი სხვა მოწყობილობებიდან მათი ჩანართების აქ სანახავად.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "გახსნილი ჩანართები არაა">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; მითითებების გახსნა">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ჩართეთ ჩანართების სინქრონიზაცია თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 
+<!ENTITY syncedTabs.context.openTab.label                   "ამ ჩანართის გახსნა">
+<!ENTITY syncedTabs.context.openTab.accesskey               "გ">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "ამ ჩანართის ჩანიშვნა…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "ჩ">
 
 
 <!ENTITY syncBrand.shortName.label    "სინქრონიზება">
