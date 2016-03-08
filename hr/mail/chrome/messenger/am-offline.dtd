@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Obriši sve osim">
 <!ENTITY retentionKeepRecent.accesskey "b">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Uvijek obriši pročitane poruke (nadjačava postavke starosti)">
 <!ENTITY retentionApplyToFlagged.label "Uvijek zadrži poruke sa zvjezdicom">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "Ukloni tijela poruka starija od">
