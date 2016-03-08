@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "ମୋତେ ଏଠାରୁ ବାହାର କରନ୍ତୁ!">
 <!ENTITY safeb.palm.decline.label "ଏହି ଚେତାବନୀକୁ ଉପେକ୍ଷା କରନ୍ତୁ">
-<!ENTITY safeb.palm.notforgery.label2 "ଏହା ଗୋଟିଏ ୱେବ କୂଟ ରଚନା ନୁହଁ…">
 
 
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> ରେ ଥିବା ଏହି ୱେବ ପୃଷ୍ଠାକୁ  ଆକ୍ରମଣ ପୃଷ୍ଠା ଭାବରେ ଖବର କରାଯାଇଛି ଏବଂ  ଆପଣଙ୍କର ସୁରକ୍ଷା ପସନ୍ଦ ଉପରେ ଆଧାରକରି ଅଟକାଇ ଦିଆଯାଇଛି।">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>ଆକ୍ରମଣ ପୃଷ୍ଠାଗୁଡ଼ିକ ବ୍ୟକ୍ତିଗତ ସୂଚନା ଚୋରୀ କରୁଥିବା ପ୍ରଗ୍ରାମଗୁଡ଼ିକୁ ସ୍ଥାପନ କରିବା ପାଇଁ ଚେଷ୍ଟାକରିଥାଏ, ଅନ୍ୟ କମ୍ପୁଟରକୁ ଆକ୍ରମଣ କରିବା ପାଇଁ ଆପଣଙ୍କ କମ୍ପୁଟରକୁ ବ୍ୟବହାର କରିଥାଏ, କିମ୍ବା ଆପଣଙ୍କ ତନ୍ତ୍ରକୁ ନଷ୍ଟ କରିଥାଏ।</p><p>କିଛି ଆକ୍ରମଣ ପୃଷ୍ଠାଗୁଡ଼ିକ ଜାଣିଶୁଣି କ୍ଷତିକାରକ ସଫ୍ଟୱେର ବଣ୍ଟନ କରିଥାଏ, କିନ୍ତୁ  ଅଧିକାଂଶ ନିଜର ମାଲିକର ଅଜ୍ଞାତରେ ବିନା ଅନୁମତିରେ ହାରମାନିଥାନ୍ତି।</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "ସନ୍ଦିଗ୍ଧ ୱେବ କୂଟରଚନା!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ଏହି ପୃଷ୍ଠାରେ କୌଣସି ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ଦେବା ଫଳରେ ତାହା ପରିଚୟ ଚୋରି କିମ୍ବା ଅନ୍ୟାନ୍ୟ ଠକାମିର ଶିକାର ହୋଇପାରେ।">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ଏହି ପ୍ରକାରର ୱେବ କୂଟରଚନାକୁ ଘୋଟାଲାରେ ବ୍ୟବହାର କରାଯାଇଥାଏ ଯାହାକୁ ଫିସିଙ୍ଗ ଆକ୍ରମଣ କୁହାଯାଏ, ଯେଉଁଥିରେ କୂଟଚକ୍ରାନ୍ତ ୱେବ ପୃଷ୍ଠା ଏବଂ ଇମେଲଗୁଡ଼ିକୁ ଆପଣ ବିଶ୍ୱାସ କରୁଥିବା ଉତ୍ସକୁ ନକଲ କରିବା ପାଇଁ ବ୍ୟବହାର କରାଯାଇଥାଏ। ଆପଣ ଏହା ବିଷୟରେ ଅଧିକ ତଥ୍ୟ ପାଇପାରିବେ। </p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/>ରେ ଥିବା ଏହି ୱେବ ପୃଷ୍ଠାରେ ଅଦରକାରୀ ସଫ୍ଟଓଏର ଅଛି ବୋଲି ଚିହ୍ନଟ ହୋଇଥିବାରୁ ଆପଣଙ୍କ ନିରାପତ୍ତା ପସନ୍ଦ ଆଧାରରେ ଏହା ଅଟକାଯାଇଛି ।">
