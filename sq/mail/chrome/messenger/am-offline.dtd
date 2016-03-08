@@ -26,8 +26,6 @@
 <!ENTITY retentionKeepAll.accesskey "o">
 <!ENTITY retentionKeepRecent.label "Fshiji të tërë, përveç ">
 <!ENTITY retentionKeepRecent.accesskey "t">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Fshi përherë mesazhet e lexuar (anashkalon rregullimet kohore)">
 <!ENTITY nntpRemoveMsgBody.label "Hiqe lëndën prej mesazhesh më të vjetër se">
 <!ENTITY nntpRemoveMsgBody.accesskey "H">
 <!ENTITY offlineSelectNntp.label "Përzgjidhni grupe lajmesh për përdorim jashtë linje…">
