@@ -109,6 +109,10 @@
 
 <!ENTITY performanceUI.showPlatformData             "दिखाएँ गेक्को मंच डेटा">
 <!ENTITY performanceUI.showPlatformData.tooltiptext "प्लेटफॉर्म डेटा को दिखाना जावा स्क्रिप्ट प्रोफाइल  गेको प्लेटफॉर्म संकेत शामिल करने के लिए सक्रिय करना है.">
+<!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
+  -  is displayed next to a checkbox determining whether or not JIT optimization data
+  -  should be displayed. -->
+
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
@@ -133,16 +137,6 @@
 
 <!ENTITY performanceUI.enableFramerate             "फ्रेमरेट रिकार्ड करें">
 <!ENTITY performanceUI.enableFramerate.tooltiptext "प्रोफाइलिंग के दौरान फ्रेमरेट रिकार्ड करें.">
-<!-- LOCALIZATION NOTE (performanceUI.enableJITOptimizations): This string
-  -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be recorded. -->
-
-<!ENTITY performanceUI.enableJITOptimizations             "JITअनुकूलन को रिकॉर्ड करें">
-<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "प्रत्येक जावास्क्रिप्ट फ्रेम में जांचा गया JIT अनुकूलन डेटा रिकॉर्ड करें ।">
-<!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
-  -  is displayed as the title of the JIT Optimizations panel. -->
-
-<!ENTITY performanceUI.JITOptimizationsTitle "JITअनुकूलन">
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->

@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "यहां से मुझे निकालें!">
 <!ENTITY safeb.palm.decline.label "इस चेतावनी को अनदेखा करें">
-<!ENTITY safeb.palm.notforgery.label2 "यह वेब धोखाधड़ी नहीं है…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.reportPage.label "क्यों यह पृष्ठ रोका गया है?">
 <!ENTITY safeb.palm.whyForbidden.label "क्यों यह पृष्ठ रोका गया है?">
 
@@ -18,10 +18,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/>पर यह वेब पृष्ठ अवांछित सॉफ्टवेयर रखने हेतु सूचित किया गया और आपकी सुरक्षा वरीयता के आधार पर अवरुद्ध कर दिया गया है.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>अवांछित सॉफ्टवेयर पृष्ठ वह सॉफ्टवेयर स्थापित करने का प्रयास करता हैं जो भ्रामक हो सकता है और अप्रत्याशित तरीके में आपके तंत्र को प्रभावित कर सकता है.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "रिपोर्ट की गई वेब धोखाधड़ी!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> पर यह वेब पृष्ठ एक वेब जालसाज़ी के रूप में सूचित किया गया है और आपकी सुरक्षा वरीयता के अधार पर अवरूद्ध किया गया.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "रोका गया अद्यतन">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

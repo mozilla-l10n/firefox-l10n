@@ -90,19 +90,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "साइन इन">
 
 <!ENTITY signedIn.engines.label       "सभी डिवाइस को सिंक करें">
-<!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
+<!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
-     The resulting sentence in English is: "Sync to your mobile device.
-     Download Firefox for Android or Firefox for iOS." -->
+     The resulting sentence in English is: "Download Firefox for
+     Android or iOS to sync with your mobile device." -->
 
 
-<!ENTITY mobilePromo2.start            "अपने मोबाइल डिवाइस के साथ सिंक करे.डाउनलोड">
-<!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-<!ENTITY mobilePromo2.androidLink      "Android के लिए Firefox">
-<!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
+<!ENTITY mobilePromo3.start            "के लिए फ़ायरफ़ॉक्स डाउनलोड करें">
+<!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 
-<!ENTITY mobilePromo2.iOSBefore         " ओआर ">
-<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
-<!ENTITY mobilePromo2.iOSLink          "iOS के लिए Firefox">
+<!ENTITY mobilePromo3.iOSBefore         " ओआर ">
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 
-<!ENTITY mobilePromo2.end              ".">
+<!ENTITY mobilePromo3.end              "अपने मोबाइल डिवाइस के साथ सिंक करने के लिए">
