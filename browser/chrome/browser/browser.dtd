@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ចែករំលែក​វីដេអូ​នេះ">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "ជាវ">
-<!ENTITY subscribeToPageMenupopup.label "ជាវ​ទំព័រ​នេះ">
+
+
 <!ENTITY subscribeToPageMenuitem.label "ជាវ​ទំព័រ​នេះ…">
 <!ENTITY addCurPagesCmd.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
 <!ENTITY showAllBookmarks2.label "បង្ហាញ​ចំណាំ​ទាំងអស់">
+
 <!ENTITY unsortedBookmarksCmd.label "មិន​តម្រៀប​ចំណាំ">
 <!ENTITY bookmarksToolbarChevron.tooltip "បង្ហាញ​ចំណាំ​​ច្រើន​ទៀត">
 
@@ -251,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "តភ្ជាប់…">
 <!ENTITY devtoolsConnect.accesskey    "ត">
@@ -413,6 +416,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "បន្ថែម​ទៅ​របារ​ឧបករណ៍">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ប">
 <!ENTITY customizeMenu.addToPanel.label "បន្ថែម​ទៅម៉ឺនុយ">
@@ -518,6 +522,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ផ">
 <!ENTITY openFrameCmd.label           "បើក​ស៊ុម​ក្នុងបង្អួច​ថ្មី">
 <!ENTITY openFrameCmd.accesskey       "ប">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "បង្ហាញ​តែ​ស៊ុម​នេះ​ប៉ុណ្ណោះ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ប">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -732,7 +738,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "ប">
 
 <!ENTITY editBookmark.done.label                     "ធ្វើ​រួច">
-<!ENTITY editBookmark.cancel.label                   "បោះបង់">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "ការ​តភ្ជាប់​ដែលមាន​សុវត្ថិភាព">
@@ -766,6 +771,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "ស្វែងយល់​បន្ថែម">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "ព័ត៌មាន​បន្ថែម">
 
 <!ENTITY identity.permissions "សិទ្ធិ">
@@ -774,7 +781,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ផ្ទាំង​កម្មវិធី​អ៊ីនធឺណិត">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "ធ្វើ​សមកាលកម្ម">
 
@@ -812,7 +832,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "ចុច​លើ​សេវាកម្ម​ដើម្បី​បន្ថែម​វា​ទៅកាន់ &brandShortName; ។">
 <!ENTITY social.directory.viewmore.text "មើល​ជា​ច្រើន">
 
-<!ENTITY customizeMode.tabTitle "ប្ដូរ​​តាម​តម្រូវ​ការ &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "លក្ខណៈ និង​ឧបករណ៍​បន្ថែម">
 <!ENTITY customizeMode.menuAndToolbars.empty "ចង់​បាន​ឧបករណ៍​បន្ថែម​ឬ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ជ្រើស​ពី​កម្មវិធី​បន្ថែម​រាប់​ពាន់">
@@ -918,7 +937,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "ស្វែងយល់​បន្ថែម​អំពី DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "មិនមែន​ឥឡូវ">
-<!ENTITY emeNotificationsNotNow.accesskey         "ម">
-<!ENTITY emeNotificationsDontAskAgain.label       "កុំ​សួរ​ខ្ញុំ​ម្ដងទៀត">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "ក">
