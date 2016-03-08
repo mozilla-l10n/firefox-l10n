@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক ও ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছে।">
 <!ENTITY firstrun_data_title "ডাটা">
 <!ENTITY firstrun_data_message "কম ডাটা, বেশি সঞ্চয়">
-<!ENTITY firstrun_data_subtext "আপানার পরিদর্শন করা প্রতিটি সাইটে কম ডাটা ব্যবহার করতে ছবি প্রতিরোধ করুন।">
+
 <!ENTITY firstrun_sync_title "সিঙ্ক">
 <!ENTITY firstrun_sync_message "&brandShortName;, সবসময় আপনার পাশে">
 <!ENTITY firstrun_sync_subtext "আপনি যেখানেই ব্যবহার করুন আপনার ট্যাব, পাসওয়ার্ড এবং আরো অনেক কিছু সিঙ্ক করুন।">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "সর্বদা">
 <!ENTITY pref_tap_to_load_images_data "শুধুমাত্র ওয়াইফাই নির্ভর">
 <!ENTITY pref_tap_to_load_images_disabled2 "ব্লক করা হয়েছে">
+
 
 <!ENTITY pref_tracking_protection_title "ট্র্যাকিং সুরক্ষা">
 <!ENTITY pref_tracking_protection_summary3 "প্রাইভেট ব্রাউজিং এ সক্রিয় থাকুন">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "সম্পূর্ণ স্ক্রিন জুড়ে ব্রাউজিং">
 <!ENTITY pref_scroll_title_bar_summary2 "যখন একটি পাতায় স্ক্রল করছেন তখন &brandShortName; টুলবারকে আড়াল কর">
 
-<!ENTITY pref_tab_queue_title2 "একাধিক লিঙ্ক খুলুন">
-<!ENTITY pref_tab_queue_summary3 "পরবর্তীতে যখন &brandShortName; খুলবেন ততক্ষণ পর্যন্ত তাদের সংরক্ষণ করুন">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "কোন কন্টেন্ট এই প্যানেলের জন্য পাওয়া যায়নি।">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "&formatS; পর্যন্ত">
 
 <!ENTITY home_remote_tabs_title "সিঙ্ককৃত ট্যাব">
 <!ENTITY home_remote_tabs_empty "অন্যান্য ডিভাইস থেকে আপনার ট্যাব এখানে দেখানো হবে।">
@@ -648,8 +646,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "&formatS1; এ &formatS2; এর জন্য খোঁজ করুন">
 
-<!ENTITY webapp_generic_name "অ্যাপ">
-
 <!ENTITY searchable_description "বুকমার্ক এবং ইতিহাস">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "সর্বশেষ সিঙ্ক হয়েছে: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "শেষ বার সিঙ্ক হয়েছে:কখনও না">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "লিঙ্ক ওপেন করা যাচ্ছে না">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version "দুঃখিত! &brandShortName; (&formatS1;, &formatS2;) এই ডিভাইসে কাজ করছে না। অনুগ্রহ করে সাম্প্রতিকতম সংস্করণ ডাউনলোড করুন।">
 
-<!ENTITY eol_notification_title "&brandShortName; অ্যান্ড্রয়েড 3 সমর্থন করে না।">
 <!ENTITY eol_notification_summary "আরও জানতে ট্যাপ করুন">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
