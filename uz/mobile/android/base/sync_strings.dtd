@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-pochta">
-
+<!ENTITY fxaccount_password_hint "Parol">
 <!ENTITY fxaccount_password_hide "Yashirish">
 <!ENTITY fxaccount_password_show "Ko‘rsatish">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Android sozlamalari &gt; Foydalanilgan ma’lumotlardan  “Ma’lumotlarni avtosinxronlash”ni yoqing.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Android sozlamalari &gt; Foydalanilgan ma’lumotlardan  “Ma’lumotlarni avtosinxronlash”ni yoqing.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Yangi \&quot;Firefox hisobi\&quot;ga kirish uchun bosing.">
-
+<!ENTITY fxaccount_status_bookmarks "Xatcho‘plar">
 <!ENTITY fxaccount_status_history "Tarix">
 <!ENTITY fxaccount_status_passwords2 "Loginlar">
 <!ENTITY fxaccount_status_tabs "Ichki oynalarni ochish">
