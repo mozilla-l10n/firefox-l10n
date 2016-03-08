@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "m">
 <!ENTITY shareVideo.label "Videó megosztása">
 <!ENTITY shareVideo.accesskey "m">
-<!ENTITY feedsMenu.label "Feliratkozás">
-<!ENTITY subscribeToPageMenupopup.label "Feliratkozás erre az oldalra">
+
+
 <!ENTITY subscribeToPageMenuitem.label "Feliratkozás erre az oldalra…">
 <!ENTITY addCurPagesCmd.label "Minden lap egy könyvjelzőbe…">
 <!ENTITY showAllBookmarks2.label "Minden könyvjelző megjelenítése">
+
 <!ENTITY unsortedBookmarksCmd.label "Nem rendezett könyvjelzők">
 <!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Kapcsolódás…">
 <!ENTITY devtoolsConnect.accesskey    "c">
@@ -407,20 +410,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Súgó menü megnyitása">
 
 <!ENTITY appMenuRemoteTabs.label "Szinkronizált lapok">
-<!ENTITY appMenuRemoteTabs.fetching.label "Szinkronizált lapok lekérése…">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Nincsenek nyitott lapok">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Kapcsolja be a lapszinkronizálást a más készülékeiről származó lapok listájának megjelenítéséhez.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Jelentkezzen be a Firefoxba más készülékeiről azok lapjainak itteni megjelenítéséhez. ">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Szinkronizálás beállításai">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Jelentkezzen be a más készülékeiről származó lapok listájának megjelenítéséhez.">
+
 <!ENTITY appMenuRemoteTabs.signin.label "Bejelentkezés a Syncbe">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Hozzáadás az eszköztárhoz">
 <!ENTITY customizeMenu.addToToolbar.accesskey "H">
@@ -527,6 +528,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "l">
 <!ENTITY openFrameCmd.label           "Keret megnyitása új ablakban">
 <!ENTITY openFrameCmd.accesskey       "a">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Csak az aktuális keret megjelenítése">
 <!ENTITY showOnlyThisFrameCmd.accesskey "C">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -741,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!ENTITY editBookmark.done.label                     "Kész">
-<!ENTITY editBookmark.cancel.label                   "Mégse">
 <!ENTITY editBookmark.removeBookmark.accessKey       "E">
 
 <!ENTITY identity.connectionSecure "Biztonságos kapcsolat">
@@ -775,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "k">
 <!ENTITY identity.learnMore "További tudnivalók">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "További tudnivalók">
 
 <!ENTITY identity.permissions "Engedélyek">
@@ -783,9 +787,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Böngészőlapok">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu3.label     "Szinkronizált lapok">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -823,7 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Kattintson egy szolgáltatásra a &brandShortName;hoz adáshoz.">
 <!ENTITY social.directory.viewmore.text "Több">
 
-<!ENTITY customizeMode.tabTitle "A &brandShortName; testreszabása">
 <!ENTITY customizeMode.menuAndToolbars.header2 "További eszközök és funkciók">
 <!ENTITY customizeMode.menuAndToolbars.empty "További eszközöket szeretne?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Válasszon több ezer kiegészítő közül">
@@ -929,7 +945,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Tudjon meg többet a DRM-ről…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Most nem">
-<!ENTITY emeNotificationsNotNow.accesskey         "M">
-<!ENTITY emeNotificationsDontAskAgain.label       "Ne kérdezze meg többet">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "N">

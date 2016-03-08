@@ -130,20 +130,6 @@ kapcsolatát.</li>
 &brandShortName; számára engedélyezett-e a webhozzáférés.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Valószínűleg támadó webhely!">
-<!ENTITY malwareBlocked.longDesc "<p>A támadó webhelyek megpróbálnak olyan programokat telepíteni, amelyek személyes adatokat lopnak el, a számítógépet mások megtámadására használják, vagy károsítják a rendszert.</p> 
-<p>Azok a webhelytulajdonosok, akik szerint a webhelyüket tévedésből azonosították támadó webhelyként, <a href='http://www.stopbadware.org/home/reviewinfo' >felülvizsgálatot kérhetnek</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Valószínűleg nem kívánatos szoftvereket terjesztő oldal!">
-<!ENTITY unwantedBlocked.longDesc "<p>A nem kívánatos szoftvereket terjesztő oldalak olyan szoftvereket terjesztenek, amelyek megtévesztőek és váratlan módokon befolyásolhatják rendszerét.</p>">
-
-<!ENTITY phishingBlocked.title "Valószínűleg hamisított webhely!">
-<!ENTITY phishingBlocked.longDesc "<p>Ha személyes adatot ad meg ezen az oldalon, az a személyazonosságának ellopásához vagy más csaláshoz vezethet.</p> 
-<p>Az ilyen típusú hamisított weboldalakat az adathalászat nevű csaláshoz szokták felhasználni, amely során megbízhatónak tűnő weboldalakkal vagy e-mailekkel próbálják a felhasználó becsapni.</p>">
-
-<!ENTITY forbiddenBlocked.title "Tiltott oldal">
-<!ENTITY forbiddenBlocked.longDesc "<p>A &brandShortName; nem engedte meg az oldal betöltését, mert a blokkolására van beállítva.</p>">
-
 <!ENTITY cspBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
 <!ENTITY cspBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Az ilyen hibák jelentése segít a Mozillának a rosszindulatú oldalak azonosításában és blokkolásában">
 <!ENTITY errorReporting.learnMore "További tudnivalók…">
-<!ENTITY errorReporting.sending "Jelentés küldése">
-<!ENTITY errorReporting.sent "Jelentés elküldve">
-<!ENTITY errorReporting.tryAgain "Próbálja újra">
 
 <!ENTITY remoteXUL.title "Távoli XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Értesítse a webhely tulajdonosait erről a problémáról.</li></ul></p>">
