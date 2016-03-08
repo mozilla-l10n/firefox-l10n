@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Hjálpaðu mér héðan út!">
 <!ENTITY safeb.palm.decline.label "Hunsa aðvörun">
-<!ENTITY safeb.palm.notforgery.label2 "Þetta er ekki vefsíðu fölsun…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.reportPage.label "Af hverju var lokað á þessa síðu?">
 <!ENTITY safeb.palm.whyForbidden.label "Af hverju var lokað á þessa síðu?">
 
@@ -18,10 +18,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Tilkynnt hefur verið að vefsíðan á <span id='unwanted_sitename'/> hefur innihaldi óæskilegan hugbúnað og lokað var á síðuna vegna öryggisstillinga.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Síður sem innihalda óæskilegan hugbúnað reyna að setja inn hugbúnað sem getur verið villandi og haft áhrif á tölvuna þína á ýmsa vegu.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Þetta er tilkynnt falsað vefsvæði!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Tilkynnt hefur verið að síðan <span id='phishing_sitename'/> sé fölsun og lokað var á síðuna vegna öryggisstillinga.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Fölsuð vefsvæði eru hönnuð til að plata þig í að gefa upp persónuupplýsingar eða fjármálaupplýsingar með því að líkja eftir aðilum sem þú treystir.</p><p>Ef þú slærð inn upplýsingar á þessa vefsíðu gætirðu lent í kennisstuldi eða öðrum svikum.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Lokað svæði">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
