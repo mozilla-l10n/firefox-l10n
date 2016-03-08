@@ -162,11 +162,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "இந்த நிகழ்படத்தை பகிரவும்">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "சந்தாப்படுத்து">
-<!ENTITY subscribeToPageMenupopup.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து">
+
+
 <!ENTITY subscribeToPageMenuitem.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து…">
 <!ENTITY addCurPagesCmd.label "அனைத்து கீற்றுகளையும் புத்தகக்குறியீடு…">
 <!ENTITY showAllBookmarks2.label "அனைத்து புத்தகக்குறிகளையும் காட்டு">
+
 <!ENTITY unsortedBookmarksCmd.label "வரிசையாக்கம் செய்யப்படாத புத்தகக்குறிகள்">
 <!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளை காட்டு">
 
@@ -250,6 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "இணை...">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,6 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "கருவிப்பட்டியில் சேர்க்க">
 <!ENTITY customizeMenu.addToToolbar.accesskey "க">
 <!ENTITY customizeMenu.addToPanel.label "பட்டியில் சேர்">
@@ -509,6 +513,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "புதிய சாளரத்தில் சட்டத்தைத் திற">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "இந்த சட்டத்தை மட்டும் காட்டு">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -722,7 +728,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "சரி">
-<!ENTITY editBookmark.cancel.label                   "ரத்து">
 
 
 
@@ -751,13 +756,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY identity.permissions "அனுமதிகள்">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "உலாவி கீற்றுகள்">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">
 
@@ -794,7 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "&brandShortName; என்பதற்கு சேர்க்க சேவை மீது சொடுக்கவும்.">
 <!ENTITY social.directory.viewmore.text "மேலும் பார்">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; ஐ தனிபயனாக்கு">
 <!ENTITY customizeMode.menuAndToolbars.header2 "கூடுதலான கருவிகளும் வசதிகளும்">
 <!ENTITY customizeMode.menuAndToolbars.empty "கூடுதலாக கருவிகள் வேண்டுமா?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ஆயிரக்கணக்கான இணைப்பு நீட்சிகளிலருந்து தேர்ந்தெடு">
@@ -894,9 +913,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "உங்கள் சமீபத்திய வரலாறு துடைக்கப்பட்டது.">
 <!ENTITY panicButton.thankyou.msg2                "பாதுகாப்பான உலவல்!">
 <!ENTITY panicButton.thankyou.buttonlabel         "நன்றி!">
-
-
-
-
 
 
