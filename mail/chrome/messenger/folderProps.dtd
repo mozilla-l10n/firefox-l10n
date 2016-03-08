@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "Н">
 <!ENTITY retentionKeepRecent.label "Изтриване на всички без най-новите">
 <!ENTITY retentionKeepRecent.accesskey "з">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Винаги се изтриват прочетените съобщения (въпреки другите настройки)">
 <!ENTITY retentionApplyToFlagged.label "Писмата със звезда винаги се запазват">
 <!ENTITY retentionApplyToFlagged.accesskey "е">
 
