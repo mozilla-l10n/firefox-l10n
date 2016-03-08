@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "M">
 <!ENTITY retentionKeepRecent.label "Minden üzenet törlése, kivéve az utolsó">
 <!ENTITY retentionKeepRecent.accesskey "u">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Olvasott üzenetek törlése mindig (kor nem számít)">
 <!ENTITY retentionApplyToFlagged.label "Csillagozott üzenetek megtartása">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 <!ENTITY nntpRemoveMsgBody.label "Üzenettörzsek törlése, ha régebbiek, mint">
