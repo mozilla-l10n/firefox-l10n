@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Manage Extra Components">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-
+<!ENTITY projectMenu_refreshTabs_label "Reîmprospătează filele">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -86,7 +86,7 @@
 <!ENTITY runtimePanel_installsimulator "Instalează simulatorul">
 <!ENTITY runtimePanel_noadbhelper "Instalează ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nu îți poți vedea dispozitivul?">
-
+<!ENTITY runtimePanel_refreshDevices_label "Actualizează dispozitivele">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "valid">
@@ -213,6 +213,6 @@
 <!ENTITY simulator_device "Dispozitiv">
 <!ENTITY simulator_screenSize "Ecran">
 <!ENTITY simulator_pixelRatio "Rată de pixeli">
-
+<!ENTITY simulator_tv_data "Simulare TV">
 
 
