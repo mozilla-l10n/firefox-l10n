@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "చేతనపరచిన చొప్పింతలు">
 <!ENTITY aboutSupport.appBasicsBuildConfig "నిర్మామ ఆకృతీకరణ">
 <!ENTITY aboutSupport.appBasicsUserAgent "వాడుకరి ప్రతినిధి">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "మెమొరీ వినియోగం">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 

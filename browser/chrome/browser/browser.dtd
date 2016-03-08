@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ఈ వీడియోను పంచుకోండి">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "చందాచేరు">
-<!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి చందాదారు కండి">
+
+
 <!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాదారు కండి...">
 <!ENTITY addCurPagesCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
 <!ENTITY showAllBookmarks2.label "అన్ని యిష్టాంశములను చూపుము">
+
 <!ENTITY unsortedBookmarksCmd.label "క్రమబద్దీకరించని యిష్టాంశములు">
 <!ENTITY bookmarksToolbarChevron.tooltip "మరికొన్ని ఇష్టాంశములను చూపు">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "అనుసంధానించు...">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,12 +413,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "తెరిచిన ట్యాబులు లేవు">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -525,6 +528,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ఫ్రేమ్ ని కొత్త విండోనందు తెరువుము">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "ఈ ఫ్రేమ్ ను మాత్రమే చూపుము">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -739,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "అయినది">
-<!ENTITY editBookmark.cancel.label                   "రద్దుచేయి">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "సురక్షిత అనుసంధానం">
@@ -773,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "మరింత తెలుసుకోండి">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "మరింత సమాచారం">
 
 <!ENTITY identity.permissions "అనుమతులు">
@@ -781,9 +787,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "విహారిణి టాబ్‌లు">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu3.label     "సింకైన ట్యాబులు">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "సింక్">
 
@@ -821,7 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "సేవను &brandShortName; కు జతచేయుటకు దానిపై నొక్కుము.">
 <!ENTITY social.directory.viewmore.text "మరిన్ని దర్శించు">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; మలచుకో">
 <!ENTITY customizeMode.menuAndToolbars.header2 "అదనపు పనిముట్లు మరియు సౌలభ్యాలు">
 <!ENTITY customizeMode.menuAndToolbars.empty "మరిన్ని పనిముట్లు కావాలా?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "వేలాది పొడగింతల నుండి ఎంచుకోండి">
@@ -927,7 +945,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM గురించి మరింత తెలుసుకో...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "ఇప్పుడు కాదు">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "మరలా నన్ను అడగవద్దు(D)">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
