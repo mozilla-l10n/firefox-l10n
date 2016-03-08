@@ -130,20 +130,6 @@
  അനുവാദം ഉണ്ടെന്നുറപ്പാക്കുക.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "തകരാറുള്ള സൈറ്റ്!">
-<!ENTITY malwareBlocked.longDesc "<p>സ്വകാര്യ വിവരങ്ങള്‍ മോഷ്ടിച്ചു്, മറ്റുള്ള വ്യക്തികളെ ആക്രമിയ്ക്കുന്നതിനായി തകരാറുള്ള സൈറ്റുകള്‍ നിങ്ങളുടെ കമ്പ്യൂട്ടറില്‍ ഇത്തരത്തിലുള്ള പ്രോഗ്രാമുകള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു.</p> 
-<p>ഇത്തരത്തിലുള്ള സൈറ്റുകളായി രേഖപ്പെടുത്തിയിരിയ്ക്കുന്ന വെബ് സൈറ്റിന്റെ ഉടമസ്ഥര്‍ <a href='http://www.stopbadware.org/home/reviewinfo' >പരിശോധനയ്ക്കായി ആവശ്യപ്പെടാം</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "അനാവശ്യമായ സോഫ്റ്റ്‌വെയര്‍ സൈറ്റ് എന്ന് സംശയിക്കുപ്പെടുന്നു">
-<!ENTITY unwantedBlocked.longDesc "<p>അനാവശ്യമായ സോഫ്റ്റ്‌വെയര്‍ പേജുകള്‍ താങ്കളുടെ സിസ്റ്റത്തിനെ തെറ്റിദ്ധരിപ്പിക്കുകയോ നിങ്ങള്‍ ഉദ്ദേശിക്കാത്ത രീതിയില്‍ ബാധിക്കുകയോ ചെയ്യുന്ന സോഫ്റ്റ്‌ബെയറുകളെ ഇന്‍സ്റ്റാള്‍ ചെയ്യാന്‍ ശ്രമിക്കും</p>">
-
-<!ENTITY phishingBlocked.title "സംശയകരമായ വെബ് ആക്രമണം!">
-<!ENTITY phishingBlocked.longDesc "<p>ഈ താളില്‍ നിങ്ങളുടെ സ്വകാര്യ വിവരങ്ങള്‍ നല്‍കുന്നതു് അപകടമാകുന്നു.</p> 
-<p>തെറ്റായ വെബ് താളുകളും ഈമെയിലുകളും ഉപയോഗിച്ചു് ഇത്തരം അപകടകാരികളായി വെബ് സൈറ്റുകള്‍ നിങ്ങളുടെ വിശ്വസ്ത വിവരങ്ങള്‍  ചോര്‍ത്തുന്നു.</p>">
-
-<!ENTITY forbiddenBlocked.title "വിലക്കപ്പെട്ട സൈറ്റ്">
-
-
 <!ENTITY cspBlocked.title "ഉള്ളടക്കത്തിലുള്ള സുരക്ഷാ പോളിസി കാരണം തടഞ്ഞിരിയ്ക്കുന്നു">
 <!ENTITY cspBlocked.longDesc "<p>ഈ താളിന്റെ ഉള്ളടക്ക സുരക്ഷാ പോളിസി ഈ തരത്തില്‍ താള്‍ ലഭ്യമാക്കുന്നതു് അനുവദിയ്ക്കുന്നതല്ല, അതിനാല്‍ &brandShortName; ഇതു് തടയുന്നു.</p>">
 
@@ -166,9 +152,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "കൂടുതല്‍ അറിയുക...">
-<!ENTITY errorReporting.sending "റിപ്പോര്‍ട്ട് അയയ്ക്കുന്നു">
-<!ENTITY errorReporting.sent "റിപോര്‍ട്ട് അയച്ചു">
-<!ENTITY errorReporting.tryAgain "വീണ്ടും ശ്രമിക്കുക">
 
 <!ENTITY remoteXUL.title "റിമോട്ട് XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ദയവായി വെബ് സൈറ്റ് ഉടമസ്ഥാക്കളെ ഈ പ്രശ്നത്തെപ്പറ്റി അറിയിയ്ക്കുക.</li></ul></p>">
