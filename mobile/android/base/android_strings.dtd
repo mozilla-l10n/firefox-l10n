@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "اجلب النتائج من العلامات و التّأريخ عندما تبحث.">
 <!ENTITY firstrun_data_title "البيانات">
 <!ENTITY firstrun_data_message "بيانات أقل، توفير أكبر">
-<!ENTITY firstrun_data_subtext "احجب الصور لتوفير البيانات في كل موقع تزوره">
+
 <!ENTITY firstrun_sync_title "تزامُن">
 <!ENTITY firstrun_sync_message "&brandShortName;، معك دائما">
 <!ENTITY firstrun_sync_subtext "زامن ألسنتك، و كلمات السر و غيرهم المزيد أينما استخدمتها.">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "دائمًا">
 <!ENTITY pref_tap_to_load_images_data "عبر واي فاي فقط">
 <!ENTITY pref_tap_to_load_images_disabled2 "امنعها">
+
 
 <!ENTITY pref_tracking_protection_title "الحماية من التعقّب">
 <!ENTITY pref_tracking_protection_summary3 "مفعّل في التصفح الخاص">
@@ -466,8 +467,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "التصفح في كل الشاشة">
 <!ENTITY pref_scroll_title_bar_summary2 "أخفِ شريط أدوات &brandShortName; عند تمرير الصفحة لأسفل">
 
-<!ENTITY pref_tab_queue_title2 "افتح روابط متعددة">
-<!ENTITY pref_tab_queue_summary3 "احفظها حتّى أفتح &brandShortName; ثانية">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -544,10 +544,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "لم يُعثر على أي محتوى لهذه اللوحة.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "انتقل أعلى إلى &formatS;">
 
 <!ENTITY home_remote_tabs_title "الألسنة المُزامنة">
 <!ENTITY home_remote_tabs_empty "تظهر ألسنتك من الأجهزة الأخرى هنا.">
@@ -645,8 +643,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "ابحث في &formatS1; عن &formatS2;">
 
-<!ENTITY webapp_generic_name "تطبيق">
-
 <!ENTITY searchable_description "العلامات والتأريخ">
 <!-- Updater notifications --> 
 
@@ -714,11 +710,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "آخر مزامنة: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "تاريخ آخر مزامنة: أبدًا">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "أب">
 
 <!ENTITY intent_uri_cannot_open "تعذّر فتح الرابط">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -772,5 +763,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-<!ENTITY eol_notification_title "لم يعد &brandShortName; يدعم أندرويد 3">
 <!ENTITY eol_notification_summary "انقر لتطلع على المزيد">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
