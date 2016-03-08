@@ -220,6 +220,7 @@
 
 
 
+
 <!ENTITY pref_donottrack_title "No vull ser seguit">
 <!ENTITY pref_donottrack_summary "El &brandShortName; farà saber als llocs web que no voleu que us segueixin">
 
@@ -446,7 +447,6 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navegació a pantalla completa">
 
 
-<!ENTITY pref_tab_queue_title2 "Obre diversos enllaços">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -520,10 +520,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "No s\u0027ha trobat contingut per a aquesta subfinestra.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Torna a &formatS;">
 
 <!ENTITY home_remote_tabs_title "Pestanyes sincronitzades">
 <!ENTITY home_remote_tabs_empty "Aquí es mostren les pestanyes d\u0027altres dispositius.">
@@ -615,8 +613,6 @@ de l\u0027Android">
 
 <!ENTITY suggestion_for_engine "Cerca «&formatS2;» a &formatS1;">
 
-<!ENTITY webapp_generic_name "Aplicació">
-
 <!ENTITY searchable_description "Adreces d\u0027interès i historial">
 <!-- Updater notifications --> 
 
@@ -681,11 +677,6 @@ de l\u0027Android">
 <!ENTITY remote_tabs_last_synced "Última sinc.: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Última sinc.: mai">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Àà·Çç">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -728,4 +719,7 @@ de l\u0027Android">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
 
