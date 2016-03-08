@@ -8,71 +8,16 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; ସହିତ ସଂଯୁକ୍ତ">
-<!ENTITY sync.title.adddevice.label "ଗୋଟିଏ &syncBrand.fullName.label; ଖାତା ଯୋଗ କରନ୍ତୁ">
-<!ENTITY sync.title.pair.label "ଏକ ଉପକରଣକୁ ଯୁଗଳ କରନ୍ତୁ">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "ଆପଣଙ୍କର ନୂତନ ଉପକରଣକୁ ସକ୍ରିୟ କରିବା ପାଇଁ, ଉପକରଣ ଉପରେ “&syncBrand.shortName.label; ବ୍ୟିନ୍ୟାସ” କୁ ବାଛନ୍ତୁ।">
-<!ENTITY sync.subtitle.header2.label "ଆପଣଙ୍କର ଅନ୍ୟ ଉପକରଣରେ ଏହି ସଂକେତକୁ ଲେଖନ୍ତୁ">
-<!ENTITY sync.subtitle.connectlocation2.label "“&sync.title.pair.label;” କୁ ଆପଣଙ୍କର ଅନ୍ୟ ଉପକରଣର Firefox ବିକଳ୍ପଗୁଡ଼ିକର &syncBrand.shortName.label; ବିଭାଗରେ ବାଛନ୍ତୁ।">
 <!ENTITY sync.subtitle.pair.label "ସକ୍ରିୟ କରିବା ପାଇଁ, ଆପଣଙ୍କର ଅନ୍ୟ ଉପକରଣରେ \&quot;ଉପକରଣ ଯୁଗଳ କରନ୍ତୁ\&quot; ବାଛନ୍ତୁ।">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "ଏହା କିପରି ହେଉଛି ମୋତେ ଦେଖନ୍ତୁ।">
-<!ENTITY sync.link.advancedsetup.label "ଉନ୍ନତ ବିନ୍ୟାସ…">
 <!ENTITY sync.link.nodevice.label "ମୋ ପାଖରେ ସେହି ଉପକରଣଟି ନାହିଁ…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "ଅନ୍ୟ ଉପକରଣକୁ ଅପେକ୍ଷା କରୁଛି…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "ଆପଣଙ୍କର &syncBrand.fullName.label; ଖାତା ସୂଚନା ଲେଖନ୍ତୁ">
-<!ENTITY sync.input.username.label "ଖାତା ନାମ">
-<!ENTITY sync.input.password.label "ପ୍ରବେଶ ସଙ୍କେତ">
-<!ENTITY sync.input.key.label "ପୁନରୁଦ୍ଧାର କି">
-<!ENTITY sync.checkbox.server.label "ଇଚ୍ଛାମୁତାବକ ସର୍ଭର ବ୍ୟବହାର କରନ୍ତୁ">
-<!ENTITY sync.input.server.label "ସର୍ଭର URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରିପାରିବେ ନାହିଁ">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; ସର୍ଭର ସହିତ ସଂଯୁକ୍ତ ହୋଇପାରିଲା ନାହିଁ। ଆପଣ ପୁଣିଥରେ ଚେଷ୍ଟା କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?">
-<!ENTITY sync.button.tryagain.label "ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ">
-<!ENTITY sync.button.manual.label "ହସ୍ତକୃତ ବ୍ୟବସ୍ଥା">
-<!ENTITY sync.subtitle.nointernet.label "କୌଣସି ଇଣ୍ଟରନେଟ୍ ସଂଯୋଗ ଉପଲବ୍ଧ ନାହିଁ।">
-<!ENTITY sync.subtitle.failaccount.label "ଆପଣଙ୍କ ଉପକରଣରେ ଖାତା ସୃଷ୍ଟିକରିବା ବିଫଳ ହୋଇଛି।">
-<!ENTITY sync.subtitle.failmultiple.label "ଆପଣଙ୍କ ପାଖରେ ଏକାଧିକ Firefox ସ୍ଥାପିତ ଅଛି କି? ବର୍ତ୍ତମାନ, &syncBrand.fullName.label; ଏକକାଳୀନ କେବଳ ଗୋଟିଏ Firefox ସ୍ଥାପନକୁ ଅନୁମତି ଦେଇଥାଏ । &syncBrand.shortName.label; ବ୍ୟବହାର କରିବା ପାଇଁ ଦୟାକରି ଅନ୍ୟଟିକୁ ବିସ୍ଥାପିତ କରନ୍ତୁ । ">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "ସଂରଚନା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି">
-<!ENTITY sync.subtitle.success.label1 "ଆପଣଙ୍କ ତଥ୍ୟ ବର୍ତ୍ତମାନ ପ୍ରଚ୍ଛଦରେ ଆହରିତ ହେଉଛି । ଖାତା ପରିଚାଳନା ପାଇଁ ସେଟିଙ୍ଗକୁ ଯାଇପାରିବେ, କିମ୍ବା &brandShortName; ସହି ବ୍ରାଉଜ କରିପାରିବେ ।">
-<!ENTITY sync.settings.label "ସଂରଚନା">
-<!ENTITY sync.subtitle.manage.label1 "ଆପଣଙ୍କର &syncBrand.fullName.label; ଖାତା ତିଆରି ହୋଇସାରିଛି । ନିଜର ଖାତା ପରିଚାଳନା ପାଇଁ ସେଟିଙ୍ଗକୁ ଯାଇପାରିବେ, କିମ୍ବା &brandShortName; ସହ ବ୍ରାଉଜ କରିପାରିବେ ।">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "ଦୟାକରି ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ।">
-<!ENTITY sync.pair.connectlocation.label "ନୂତନ ଉପକରଣକୁ ସକ୍ରିୟ କରିବା ପାଇଁ ଉପକରଣରେ “&syncBrand.shortName.label; ବ୍ୟବସ୍ଥା” ବାଛନ୍ତୁ, ଏବଂ ତାପରେ “ମୋର ଖାତାଟିଏ ଅଛି” ବାଛନ୍ତୁ ।">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "ବିକଳ୍ପଗୁଡ଼ିକ">
-<!ENTITY sync.summary.pair.label "ଆପଣଙ୍କର &syncBrand.shortName.label; ଖାତା ସହିତ ଅନ୍ୟ ଉପକରଣକୁ ସଂଯୋଗ କରନ୍ତୁ">
 <!-- Configure Engines -->
-
-<!ENTITY sync.configure.engines.title.label "କଣ sync କରିବେ">
-<!ENTITY sync.configure.engines.sync.my.title.label "ଆପଣଙ୍କର ଉଲ୍ଲିଖିତ ତଥ୍ୟକୁ ସନ୍ତୁଳନ କରନ୍ତୁ…">
-<!ENTITY sync.configure.engines.title.bookmarks "ପୃଷ୍ଠାସଂକେତଗୁଡିକ">
-
 <!ENTITY sync.configure.engines.title.history "ପୁରୁଣା ତଥ୍ଯ">
 <!ENTITY sync.configure.engines.title.tabs "ଟ୍ଯାବଗୁଡିକ">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "ବାତିଲ କରନ୍ତୁ">
-<!ENTITY sync.button.connect.label "ସଂଯୋଗ କରନ୍ତୁ">
-<!ENTITY sync.button.ok.label "ଠିକ ଅଛି">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (ପୁରୁଣା ହୋଇଛି)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +37,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "ତାଲିକାକୁ ପଢ଼ୁଅଛି">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "ଜଡ଼ିତ">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "କେବଳ ଗୋଟିଏ &syncBrand.fullName.label; ଖାତା ସହାୟତା ପ୍ରାପ୍ତ।">
-<!ENTITY sync.notification.configure.saved "ଆପଣଙ୍କର ଚୟନକୁ ସଂରକ୍ଷଣ କରାଯାଇଛି।">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "ଭୁଲ ଖାତା ନାମ ଅଥବା ପ୍ରବେଶ ସଂକେତ।">
-<!ENTITY sync.invalidserver.label "ଦୟାକରି ଗୋଟିଏ ବୈଧ ସର୍ଭର URL ଭରଣ କରନ୍ତୁ">
-<!ENTITY sync.verifying.label "ଯାଞ୍ଚ କରୁଅଛି…">
-<!ENTITY sync.new.recoverykey.status.incorrect "ପୁନଃରୁଦ୍ଧାର କି ଟି ଭୁଲ ଅଛି। ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ।">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "ଉପକରଣଗୁଡ଼ିକ ମଧ୍ଯକୁ ଟ୍ୟାବ ପଠାନ୍ତୁ">
-<!ENTITY sync.button.send.label "ପଠାନ୍ତୁ">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରନ୍ତୁ">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "ଟ୍ୟାବଗୁଡ଼ିକୁ ପଠାଇବା ପାଇଁ &syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରନ୍ତୁ">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "ଟ୍ୟାବଗୁଡ଼ିକୁ ଅନ୍ୟ ଉପକରଣମାନଙ୍କୁ ପଠାଇବା ପାଇଁ ଆପଣଙ୍କ ଉପକରଣରେ &syncBrand.fullName.label;କୁ ବ୍ୟବସ୍ଥିତ କରନ୍ତୁ ।">
 <!ENTITY sync.text.tab.sent.label "ଆପଣଙ୍କର ଟ୍ୟାବକୁ ପଠା ସରିଛି!">
@@ -123,7 +55,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ଇମେଲ">
-<!ENTITY fxaccount_password_hint "ପ୍ରବେଶ ସଙ୍କେତ">
+
 <!ENTITY fxaccount_password_hide "ଲୁଚାନ୍ତୁ">
 <!ENTITY fxaccount_password_show "ଦେଖାନ୍ତୁ">
 <!-- Localization note: these are shown in screens after the user has
@@ -209,7 +141,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ବ୍ୟବସ୍ଥିତ ହୋଇଛି, କିନ୍ତୁ ଏହା ଆପେ ଆପେ ଭାବେ ସନ୍ତୁଳିତ ହୋଇନଥାଏ । “Auto-sync ତଥ୍ୟ”କୁ ଆଣ୍ଡ୍ରଏଡ଼ ସଂରଚନା &gt; ତଥ୍ୟ ଉପଯୋଗୀତାରେ ଏପଟ ସେପଟ କରନ୍ତୁ ।">
 
 
-<!ENTITY fxaccount_status_bookmarks "ପୃଷ୍ଠାସଂକେତ">
+
 <!ENTITY fxaccount_status_history "ପୁରୁଣା ତଥ୍ଯ">
 
 <!ENTITY fxaccount_status_tabs "ଟ୍ୟାବଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ">
