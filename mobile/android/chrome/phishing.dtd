@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "Заберіть мене звідси!">
 <!ENTITY safeb.palm.decline.label "Ігнорувати це попередження">
-<!ENTITY safeb.palm.notforgery.label2 "Це не шахрайство…">
 <!ENTITY safeb.palm.reportPage.label "Чому цю сторінку заблоковано?">
 <!ENTITY safeb.palm.whyForbidden.label "Чому цю сторінку заблоковано?">
 
@@ -13,9 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Ця веб-сторінка <span id='malware_sitename'/> відома як нападницька, тому вона була заблокована згідно з вашими вподобаннями безпеки.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Нападницькі сторінки намагаються встановити програми що крадуть конфіденційну інформацію, використовують ваш комп’ютер для подальших атак чи ушкоджують вашу систему.</p><p>Деякі нападницькі сторінки навмисно розповсюджують шкідливі програми, проте чимало використовуються втемну, без відома та дозволу їх хазяїв.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Підозрюється підробка!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Надання будь-якої інформації цій сторінці може призвести до крадіжки ваших особистих даних чи інших шахрайств.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Веб-підробки (фішинг) створюють для того, щоб видурити у вас інформацію, імітуючи джерела, яким ви, можливо, довіряєте.</p>">
+<!ENTITY safeb.blocked.phishingPage.title3 "Шахрайський сайт!">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Веб-сторінка <span id='phishing_sitename'/> відома, як шахрайська, і була заблокована згідно з вашими вподобаннями безпеки.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Шахрайські сайти створені, щоб схилити вас до виконання небезпечних дій, наприклад, встановлення програмного забезпечення, або розкриття вашої особистої інформації, такої як паролі, номери телефонів або кредитних карток.</p><p>Введення будь-якої інформації на цій веб-сторінці може призвести до викрадення даних чи інших видів шахрайства.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Відомий сайт з небажаним програмним забезпеченням!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
