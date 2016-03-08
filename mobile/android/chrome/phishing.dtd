@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "Quita-me d'aquí!">
 <!ENTITY safeb.palm.decline.label "Ignorar ista alvertencia">
-<!ENTITY safeb.palm.notforgery.label2 "No ye garra falsificación web…">
 <!ENTITY safeb.palm.reportPage.label "Por qué s'ha blocau ista pachina?">
 <!ENTITY safeb.palm.whyForbidden.label "Por qué s'ha blocau ista pachina?">
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "S'ha reportau que o puesto web en <span id='malware_sitename'/> sería enrestindo, y ye estau bloquiau d'alcuerdo con as suyas preferencias de seguranza.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Os puestos enrestidors miran d'instalar programas que rapan información privada, fan servir o suyo ordinador ta enrestir atros u fer mal a o suyo sistema.</p><p>Qualques puestos enrestidors distribuyen intencionalment software maligno, pero muitos son compromesos sin a conoixencia u permiso d'os suyos propietarios.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Sospeita de falsificación web!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Os datos que escriba en iste puesto web podrían ferse servir ta cometer un rapo d'identidat u unatro tipo de fraude.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Istos tipos de falsificacions web s'emplegan en fraudes conoixius como enrestidas de phishing, que i fan servir pachinas web y mensaches de correu fraudulentos ta imitar as fuents que i confía.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.unwantedPage.title "S'ha reportau como puesto de Software no demandau.">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
