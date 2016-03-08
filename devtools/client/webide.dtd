@@ -75,8 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "আমার প্রোজেক্টসমূহ">
 <!ENTITY projectPanel_runtimeApps "রানটাইম অ্যাপসমূহ">
@@ -198,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "যদি আপনার অন্য ডিভাইস QR কোড স্ক্যান করার বদলে টোকেনের ব্যাপারে জিজ্ঞাসা করে, অনুগ্রহ করে নীচের মানটি কপি করুন অন্য ডিভাইসে:">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "পুনঃ-প্যাকেজ কম্যান্ড লগসমূহ">
