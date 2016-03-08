@@ -46,6 +46,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "چالو پلگ ان">
 <!ENTITY aboutSupport.appBasicsBuildConfig "بلڈ تشکیل">
 <!ENTITY aboutSupport.appBasicsUserAgent "صارف ایجنٹ">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse " میموری استعمال کریں">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 

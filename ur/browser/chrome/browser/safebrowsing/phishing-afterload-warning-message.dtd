@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "مجھے یہاں سے نکالیں!">
 <!ENTITY safeb.palm.decline.label "اس تنبیہ کو نظر انداز کریں">
-<!ENTITY safeb.palm.notforgery.label2 "یہ ویب نقل نہیں ہے...">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -18,10 +18,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "میں اس ویب صفحہ <span id='unwanted_sitename'/> ناپسندیدہ سافٹ ویئر پر مشتمل کی رپورٹ کیا گیا ہے اور آپ کی سلامتی کی ترجیحات کی بنیاد پر بلاک کر دیا گیا ہے۔">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>ناپسندیدہ سافٹ ویئر کے صفحات برامک ہو سکتا ہے کہ یہ سافٹ ویئر انسٹال کرنے کی اور غیر متوقع طور پر آپ کے نظام کو متاثر کرنے کی کوشش کرسکتے ہے۔</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "ویب نقل رپورٹ کی گئی!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> پر ویب پیج نقلی پیج کے طور پر رپورٹ ہو چکا ہے اور آپ کی سلامتی ترجیحات کی بناہ پر بلاک کر دیا گیا ہے۔">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>ویب نقال ایسے بنی ہوتی ہیں کہ آپ کے بھروسے والی اشیاہ کی نقل کر کے آپ کو اپنی نجی یا مالی معلومات افشا کرنے کا دھوکا دیں۔</p><p> اس ویب صفحہ پر کوئی بھی معلومات داخل کرنے کا نتیجہ تشخص کی چوری یا کسی اور قسم کا فراڈ ہو سکتا ہے۔</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

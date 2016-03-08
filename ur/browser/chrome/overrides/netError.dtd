@@ -130,20 +130,6 @@
 ویب تک رسائی کر سکتا ہے۔&brandShortName;</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "اٹیک سائٹ کا شبہ!">
-<!ENTITY malwareBlocked.longDesc "<p>اٹیک سائٹیں ایسے پروگرام تنصیب کرنے کی کوشش کرتی ہیں جو نجی معلومات چراتے ہیں، آپ کا کپمیوٹر دوسروں پر ہملہ کرنے کے لیے استعمال کرتے ہیں، یا آپ کا نظام خراب کرتے ہیں۔</p> 
-<p>ویب سائٹ مالکین جن کو لگتا ہے کہ ان کی سائٹ غلطی سے اٹیک سائٹ کے طور پر رپورٹ کر دی گَی ہے، ایک <a href='http://www.stopbadware.org/home/reviewinfo' >ریویو کی درخواست</a> کر سکتے ہیں۔</p>">
-
-<!ENTITY unwantedBlocked.title "مشتبہ ناپسندیدہ سافٹ ویئر ویب سائٹ!">
-<!ENTITY unwantedBlocked.longDesc "<p>ناپسندیدہ سافٹ ویئر کے صفحات برامک ہو سکتا ہے کہ یہ سافٹ ویئر انسٹال کرنے کی اور غیر متوقع طور پر آپ کے نظام کو متاثر کرنے کی کوشش کرسکتے ہے۔</p>">
-
-<!ENTITY phishingBlocked.title "ویب نقل کا شبہ!">
-<!ENTITY phishingBlocked.longDesc "<p>اس صفحے پر کوئی بھی نجی معلومات داخل کرنے سے شناخت کی چوری یا کسی اور قسم کا فراڈ ہو سکتا ہے۔</p> 
-<p>اس قسم کی ویب نقلیں فراڈ کے لیے استعمال کی جاتی ہیں اور انہیں فشنگ اٹیک کے نام سے جانا جاتا ہے۔ آس کے اندر نقلی ویب صفحے اور ای میل آپ کی جانی ہوئی چیزوں کی نقل کرنے کے لیے استعمال کیے جاتے ہیں۔</p>">
-
-<!ENTITY forbiddenBlocked.title "ممنوع سائٹ">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; نے اس صفحہ کو لوڈ ہونے سے روک دیا کیونکہ اس  نے اسے بلاک پر تشکیل کیا ہے۔ </p> ">
-
 <!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
 <!ENTITY cspBlocked.longDesc "<p> نے اس صفحے کو اس طریقے سے لوڈ نہیں ہونے دیا کیونکہ اس صفحے کی مواد سکیورٹی پالیسی ہے جو اس کی اجازت نہیں دیتی۔ &brandShortName;</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Mozilla کی مدد کرے نقصان کردہ سائٹ کی شناخت اور بلاک کرنیں کے لئے اس طرح کی نقص رپورٹ کرے">
 <!ENTITY errorReporting.learnMore "مزید سیکھیں…">
-<!ENTITY errorReporting.sending "رپورٹ بھیج رہا ہے">
-<!ENTITY errorReporting.sent "رپورٹ بھیج دی گئی">
-<!ENTITY errorReporting.tryAgain "دوبارہ کوشش کریں">
 
 <!ENTITY remoteXUL.title "بعید XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>اس مسلے کا بتانے کے لیے ویب سائٹ کے مالکین سے رابطہ کیجیے۔</li></ul></p>">
