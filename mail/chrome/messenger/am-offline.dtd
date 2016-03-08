@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Sguab às a h-uile ach an fheadhainn as ùire">
 <!ENTITY retentionKeepRecent.accesskey "b">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Sguab às teachdaireachdan a chaidh a leughadh an-còmhnaidh (leig seachad na roghainnean aoise)">
 <!ENTITY retentionApplyToFlagged.label "Cum teachdaireachdan ris a bheil rionnag an-còmhnaidh">
 <!ENTITY retentionApplyToFlagged.accesskey "C">
 <!ENTITY nntpRemoveMsgBody.label "Thoir air falbh bodhaig nan teachdaireachdan a tha nas sine na">

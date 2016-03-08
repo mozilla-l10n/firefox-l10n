@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Sguab às a h-uile ach an fheadhainn as ùire">
 <!ENTITY retentionKeepRecent.accesskey "l">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Sguab às teachdaireachdan a chaidh a leughadh an-còmhnaidh (leig seachad na roghainnean aoise)">
 <!ENTITY retentionApplyToFlagged.label "Cum teachdaireachdan ris a bheil rionnag an-còmhnaidh">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
