@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Meklējot saņemiet rezultātus no grāmatzīmēm un vēstures.">
 <!ENTITY firstrun_data_title "Dati">
 <!ENTITY firstrun_data_message "Mazāk datu, lielāki ietaupījumi">
-<!ENTITY firstrun_data_subtext "Bloķējiet attēlus, lai apmeklējot lapas ietaupītu datus.">
+
 <!ENTITY firstrun_sync_title "Sinhronizēšana">
 <!ENTITY firstrun_sync_message "&brandShortName;, vienmēr jūsu pusē">
 <!ENTITY firstrun_sync_subtext "Sinhronizējiet cilnes, paroles un citas lietas, visur kur esat">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Vienmēr">
 <!ENTITY pref_tap_to_load_images_data "Tikai pa Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloķēts">
+
 
 <!ENTITY pref_tracking_protection_title "Izsekošanas aizsardzība">
 <!ENTITY pref_tracking_protection_summary3 "Aktivēta privātajā pārlūkošanā">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Pārlūkot pilnekrānā">
 <!ENTITY pref_scroll_title_bar_summary2 "Paslēpt &brandShortName; rīkjoslu ritinot lapas">
 
-<!ENTITY pref_tab_queue_title2 "Atvērt vairākas saites">
-<!ENTITY pref_tab_queue_summary3 "Saglabāt tās nākamai reizei, kad atvērsiet &brandShortName;">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Šim panelim neizdevās atrast saturu.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Atpakaļ uz &formatS;">
 
 <!ENTITY home_remote_tabs_title "Sinhronizētās cilnes">
 <!ENTITY home_remote_tabs_empty "Šeit parādīsies cilnes no citām ierīcēm.">
@@ -648,8 +646,6 @@ no Android">
 
 <!ENTITY suggestion_for_engine "Meklē &formatS1; frāzi &formatS2;">
 
-<!ENTITY webapp_generic_name "Lietotne">
-
 <!ENTITY searchable_description "Grāmatzīmes un vēsture">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ no Android">
 <!ENTITY remote_tabs_last_synced "Pēdējā sinhronizācija: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Sinhronizēšana nekad nav veikta">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Nevar atvērt saiti">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ no Android">
 
 <!ENTITY unsupported_sdk_version "Atvainojiet! Šī &brandShortName; nestrādās šajā ierīcē (&formatS1;, &formatS2;). Lūdzu lejupielādējiet pareizo versiju.">
 
-<!ENTITY eol_notification_title "&brandShortName; vairs neatbalsta Android 3">
 <!ENTITY eol_notification_summary "Gribat zināt vairāk">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+

@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Savienoties ar &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Pievienot &syncBrand.fullName.label; kontu">
-<!ENTITY sync.title.pair.label "Sapārot ierīci">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Lai aktivizētu jauno ierīci, izvēlieties “Iestatīt &syncBrand.shortName.label;” otrā ierīcē.">
-<!ENTITY sync.subtitle.header2.label "Ievadiet šo kodu otrā ierīcē">
-<!ENTITY sync.subtitle.connectlocation2.label "Izvēlieties “&sync.title.pair.label;” otras ierīces Firefox iestatījumu sadaļā &syncBrand.shortName.label;.">
 <!ENTITY sync.subtitle.pair.label "Lai aktivētu, izvēlieties “Sapārot ierīci” otrā ierīcē.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Atvērt pamācību.">
-<!ENTITY sync.link.advancedsetup.label "Papildu iestatījumi…">
 <!ENTITY sync.link.nodevice.label "Ierīce man šobrīd nav līdz…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Gaida otru ierīci…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Ievadiet &syncBrand.fullName.label; konta informāciju">
-<!ENTITY sync.input.username.label "Konta nosaukums">
-<!ENTITY sync.input.password.label "Parole">
-<!ENTITY sync.input.key.label "Atgūšanas atslēga">
-<!ENTITY sync.checkbox.server.label "Izmanot citu serveri">
-<!ENTITY sync.input.server.label "Servera adrese">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Nevar iestatīt &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; nevar savienoties ar serveri. Vai vēlaties mēģināt vēlreiz?">
-<!ENTITY sync.button.tryagain.label "Mēģināt vēlreiz">
-<!ENTITY sync.button.manual.label "Manuālā iestatīšana">
-<!ENTITY sync.subtitle.nointernet.label "Nav interneta savienojuma.">
-<!ENTITY sync.subtitle.failaccount.label "Neizdevās izveidot kontu jūsu ierīcē.">
-<!ENTITY sync.subtitle.failmultiple.label "Vai jums ir uzinstalēta vairāk kā viena Firefox versija? Šobrīd &syncBrand.fullName.label; atbalsta tikai vienu Firefox versiju. Lūdzu, atinstalējiet citas versijas, lai varētu izmantot &syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Iestatīšana pabeigta">
-<!ENTITY sync.subtitle.success.label1 "Jūsu dati šobrīd tiek ielādēti. Varat atvērt iestatījumus, lai pārvaldītu savus kontus, vai vienkārši turpiniet lietot &brandShortName;.">
-<!ENTITY sync.settings.label "Iestatījumi">
-<!ENTITY sync.subtitle.manage.label1 "Jūsu &syncBrand.fullName.label; konts jau ir iestatīts. Lai to pārvaldītu, atveriet iestatījumus, vai vienkārši palaidiet &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Lūdzu, mēģiniet vēlreiz.">
-<!ENTITY sync.pair.connectlocation.label "Lai aktivētu jauno ierīci, izvēlieties “Iestatīt &syncBrand.shortName.label;” ierīcē un izvēlieties  “Man jau ir konts.”">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Iestatījumi">
-<!ENTITY sync.summary.pair.label "Piesaistīt vēl vienu ierīci &syncBrand.shortName.label; kontam">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Ko sinhronizēt">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sinhronizēt manas…">
-<!ENTITY sync.configure.engines.title.bookmarks "Grāmatzīmes">
 <!ENTITY sync.configure.engines.title.passwords2 "Lietotājvārdi">
 <!ENTITY sync.configure.engines.title.history "Vēsturi">
 <!ENTITY sync.configure.engines.title.tabs "Cilnes">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Atcelt">
-<!ENTITY sync.button.connect.label "Savienoties">
-<!ENTITY sync.button.ok.label "Labi">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (novecojis)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Lasīšanas saraksts">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Piespraustās">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Tikai viens &syncBrand.fullName.label; konts ir atbalstīts.">
-<!ENTITY sync.notification.configure.saved "Jūsu izvēle ir saglabāta.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Nepareizs konta nosaukums vai parole.">
-<!ENTITY sync.invalidserver.label "Lūdzu, pārbaudiet servera adresi">
-<!ENTITY sync.verifying.label "Notiek pārbaude…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Atgūšanas atslēga nav derīga. Lūdzu, mēģiniet vēlreiz.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Nosūtīt cilni ierīcēm">
-<!ENTITY sync.button.send.label "Nosūtīt">
-<!ENTITY sync.button.set.up.sync.label "Iestatīt &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Iestatīt &syncBrand.shortName.label;, lai nosūtītu cilnes">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Iestatīt &syncBrand.fullName.label; ierīcē, lai nosūtītu cilnes citām ierīcēm.">
 <!ENTITY sync.text.tab.sent.label "Cilne sekmīgi nosūtīta!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-pasts">
-<!ENTITY fxaccount_password_hint "Parole">
+
 <!ENTITY fxaccount_password_hide "Slēpt">
 <!ENTITY fxaccount_password_show "Rādīt">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ir gatavs darbam, bet nesāksies automātiski. Ieslēdziet “Automātisko datu sinhronizāciju” sadaļā Android iestatījumi &gt; Datu lietojums.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ir gatava darbam, bet nesāksies automātiski. Ieslēdziet “Automātiskā datu sinhronizācija” Sadaļā Android iestatījumi &gt; Konti.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Pieskarieties, lai pieslēgtos Firefox kontam.">
-<!ENTITY fxaccount_status_bookmarks "Grāmatzīmes">
+
 <!ENTITY fxaccount_status_history "Vēsture">
 <!ENTITY fxaccount_status_passwords2 "Lietotājvārdi">
 <!ENTITY fxaccount_status_tabs "Atvērtās cilnes">
