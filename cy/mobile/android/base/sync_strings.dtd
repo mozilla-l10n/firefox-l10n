@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Cysylltu â &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Ychwanegu cyfrif &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Paru Dyfais">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "I weithredu eich dyfais newydd, dewiswch “Gosod &syncBrand.shortName.label;” ar y ddyfais.">
-<!ENTITY sync.subtitle.header2.label "Rhowch y cod yma ar eich dyfais arall">
-<!ENTITY sync.subtitle.connectlocation2.label "Dewiswch “&sync.title.pair.label;” yn adran &syncBrand.shortName.label; dewisiadau Firefox eich dyfais arall.">
 <!ENTITY sync.subtitle.pair.label "I weithredu, dewiswch “Paru dyfais” yn eich dyfais arall.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Dangos i mi sut.">
-<!ENTITY sync.link.advancedsetup.label "Gosodiad uwch…">
 <!ENTITY sync.link.nodevice.label "Nid yw’r ddyfais gennyf…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Aros am y ddyfais arall…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Rhowch wybodaeth am eich cyfrif &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Enw Cyfrif">
-<!ENTITY sync.input.password.label "Cyfrinair">
-<!ENTITY sync.input.key.label "Allwedd Adfer">
-<!ENTITY sync.checkbox.server.label "Defnyddiwch weinydd cyfaddas">
-<!ENTITY sync.input.server.label "URL Gweinydd">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Methu Gosod &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "Methodd &syncBrand.fullName.label; â chysylltu â’r gweinydd. Hoffech chi geisio eto?">
-<!ENTITY sync.button.tryagain.label "Ceisio eto">
-<!ENTITY sync.button.manual.label "Gosod gyda Llaw">
-<!ENTITY sync.subtitle.nointernet.label "Dim cysylltiad gwe ar gael.">
-<!ENTITY sync.subtitle.failaccount.label "Methodd creu cyfrif ar eich dyfais.">
-<!ENTITY sync.subtitle.failmultiple.label "A oes gennych fwy nag un Firefox wedi ei osod? Ar hyn o bryd mae &syncBrand.fullName.label; yn cynnal dim ond un Firefox ar y tro. Dadosodwch unrhyw enghraifft arall er mwyn defnyddio&syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Wedi Cwblhau’r Gosod">
-<!ENTITY sync.subtitle.success.label1 "Mae eich data\u0027n cael ei lwytho i lawr yn y cefndir. Gallwch fynd i Gosodiadau i reoli eich cyfrif neu i gychwyn pori gyda &brandShortName;.">
-<!ENTITY sync.settings.label "Gosodiadau">
-<!ENTITY sync.subtitle.manage.label1 "Mae eich cyfrif &syncBrand.fullName.label; wedi ei greu yn barod. Gallwch fynd i Gosodiadau i reoli eich cyfrif neu i gychwyn pori gyda &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Ceisiwch eto.">
-<!ENTITY sync.pair.connectlocation.label "Er mwyn cychwyn eich dyfais newydd, dewiswch “Gosod &syncBrand.shortName.label;” ar y ddyfais ac yna dewis “Mae Gennyf Gyfrif”">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Dewisiadau">
-<!ENTITY sync.summary.pair.label "Cysylltu dyfais arall i’ch cyfrif &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Beth i\u0027w gydweddu">
-<!ENTITY sync.configure.engines.sync.my.title.label "Cydweddu eich…">
-<!ENTITY sync.configure.engines.title.bookmarks "Nodau Tudalen">
 <!ENTITY sync.configure.engines.title.passwords2 "Mewngofnodion">
 <!ENTITY sync.configure.engines.title.history "Hanes">
 <!ENTITY sync.configure.engines.title.tabs "Tabiau">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Diddymu">
-<!ENTITY sync.button.connect.label "Cysylltu">
-<!ENTITY sync.button.ok.label "Iawn">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (anghymeradwy)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Rhestr Ddarllen">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Piniwyd">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Dim ond un cyfrif &syncBrand.fullName.label; sy’n cael ei gynnal.">
-<!ENTITY sync.notification.configure.saved "Mae eich dewis wedi eu cadw.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Enw cyfrif neu gyfrinair anghywir.">
-<!ENTITY sync.invalidserver.label "Rhowch URL gweinydd dilys">
-<!ENTITY sync.verifying.label "Dilysu…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Allwedd Adfer anghywir. Ceisiwch eto.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Anfon Tab i Ddyfeisiadau">
-<!ENTITY sync.button.send.label "Anfon">
-<!ENTITY sync.button.set.up.sync.label "Gosod &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Gosod &syncBrand.shortName.label; i anfon tabiau">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Gosod &syncBrand.fullName.label; ar eich dyfais i anfon tabiau i ddyfeisiadau eraill.">
 <!ENTITY sync.text.tab.sent.label "Anfonwyd eich tab!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-bost">
-<!ENTITY fxaccount_password_hint "Cyfrinair">
+
 <!ENTITY fxaccount_password_hide "Cuddio">
 <!ENTITY fxaccount_password_show "Dangos">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Gosodiadau Android “Awto-gydweddu data” &gt; Defnydd Data.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Toglwch “Awto-gydweddu data” yn newislen Android Settings &gt; Accounts.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapiwch i fewngofnodi i\u0027ch Cyfrif Firefox newydd.">
-<!ENTITY fxaccount_status_bookmarks "Nodau Tudalen">
+
 <!ENTITY fxaccount_status_history "Hanes">
 <!ENTITY fxaccount_status_passwords2 "Mewngofnodion">
 <!ENTITY fxaccount_status_tabs "Agor tabiau">
