@@ -75,9 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
-<!ENTITY key_reload_devtools "Р">
 
 <!ENTITY projectPanel_myProjects "Моите проекти">
 <!ENTITY projectPanel_runtimeApps "Пуснати приложения">
@@ -199,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ако вашето друго устройство иска токена вместо сканиране на QR код, моля въведете токената от по-долу на другото устройство.">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Журнал на командите преди пакетирането">
