@@ -162,11 +162,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "i">
 <!ENTITY shareVideo.label "Kongsi Video Ini">
 <!ENTITY shareVideo.accesskey "i">
-<!ENTITY feedsMenu.label "Langgan">
-<!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
+
+
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Tandabuku Semua Tab…">
 <!ENTITY showAllBookmarks2.label "Pamer Semua Penandabuku">
+
 <!ENTITY unsortedBookmarksCmd.label "Penandabuku Tidak Terisih">
 <!ENTITY bookmarksToolbarChevron.tooltip "Pamer lebih penandabuku">
 
@@ -250,6 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Sambung…">
 <!ENTITY devtoolsConnect.accesskey    "b">
@@ -410,6 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "Tambah ke Bar Alatan">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Tambah ke Menu">
@@ -512,6 +516,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Buka Bingkai dalam Tetingkap Baru">
 <!ENTITY openFrameCmd.accesskey       "n">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Pamer Hanya Bingkai Ini">
 <!ENTITY showOnlyThisFrameCmd.accesskey "H">
 <!ENTITY reloadCmd.commandkey         "m">
@@ -726,7 +732,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "a">
 
 <!ENTITY editBookmark.done.label                     "Selesai">
-<!ENTITY editBookmark.cancel.label                   "Batal">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Sambungan Selamat">
@@ -760,6 +765,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "L">
 <!ENTITY identity.learnMore "Ketahui Lebih Lanjut">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "Lebih Banyak Maklumat">
 
 <!ENTITY identity.permissions "Kebenaran">
@@ -768,7 +775,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Tab-tab pelayar">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -805,7 +825,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Klik pada perkhidmatan untuk menambahkannya ke &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Lihat Lagi">
 
-<!ENTITY customizeMode.tabTitle "Menyesuai &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Alatan dan Ciri Tambahan ">
 <!ENTITY customizeMode.menuAndToolbars.empty "Inginkan lebih alatan?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih daripada beribu add-on">
@@ -907,7 +926,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ketahui lebih lanjut mengenai DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Bukan sekarang">
-<!ENTITY emeNotificationsNotNow.accesskey         "n">
-<!ENTITY emeNotificationsDontAskAgain.label       "Jangan tanya saya lagi">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "J">
