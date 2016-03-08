@@ -163,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "S">
 <!ENTITY shareVideo.label "Sdílet video">
 <!ENTITY shareVideo.accesskey "S">
-<!ENTITY feedsMenu.label "Odebírat">
 <!ENTITY subscribeToPageMenupopup.label "Odebírat kanál této stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odebírat kanál této stránky…">
 <!ENTITY addCurPagesCmd.label "Přidat všechny panely do záložek…">
@@ -256,6 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
 
 <!ENTITY devtoolsConnect.label        "Připojit…">
 <!ENTITY devtoolsConnect.accesskey    "P">
@@ -740,7 +740,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "s">
 
 <!ENTITY editBookmark.done.label                     "Dokončit">
-<!ENTITY editBookmark.cancel.label                   "Zrušit">
 <!ENTITY editBookmark.removeBookmark.accessKey       "S">
 
 <!ENTITY identity.connectionSecure "Zabezpečené připojení">
@@ -774,6 +773,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "V">
 <!ENTITY identity.learnMore "Zjistit více">
 
+
 <!ENTITY identity.moreInfoLinkText2 "Další informace">
 
 <!ENTITY identity.permissions "Oprávnění">
@@ -783,8 +783,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Ouška panelů">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Synchronizované panely">
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -822,7 +827,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Pro přidání služby do aplikace &brandShortName; na ni klepněte.">
 <!ENTITY social.directory.viewmore.text "Zobrazit další služby">
 
-<!ENTITY customizeMode.tabTitle "Přizpůsobení aplikace &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Další nástroje a funkce">
 <!ENTITY customizeMode.menuAndToolbars.empty "Chcete více nástrojů?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Zvolte si některý z tisíce doplňků">
@@ -928,7 +932,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Zjistit více o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Nyní ne">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "Příště se již neptat">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "P">
