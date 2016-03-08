@@ -30,7 +30,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "Activ">
 <!ENTITY aboutSupport.experimentEndDate "Data finală">
 <!ENTITY aboutSupport.experimentHomepage "Pagina de start">
-
+<!ENTITY aboutSupport.experimentBranch "Ramură">
 
 <!ENTITY aboutSupport.appBasicsTitle "Informații de bază despre aplicație">
 <!ENTITY aboutSupport.appBasicsName "Nume">
