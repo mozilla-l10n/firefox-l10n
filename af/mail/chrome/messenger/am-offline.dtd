@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "M">
 <!ENTITY retentionKeepRecent.label "Skrap alles behalwe die mees onlangse">
 <!ENTITY retentionKeepRecent.accesskey "b">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Skrap altyd geleesde boodskappe (oorheers ouderdominstellings)">
 <!ENTITY retentionApplyToFlagged.label "Hou altyd gevlagde boodskappe">
 <!ENTITY retentionApplyToFlagged.accesskey "H">
 <!ENTITY nntpRemoveMsgBody.label "Verwyder lyf van boodskappe van meer as">
