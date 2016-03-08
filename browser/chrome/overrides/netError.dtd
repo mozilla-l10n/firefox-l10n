@@ -130,20 +130,6 @@ connection.</li>
 &brandShortName; কে ওয়েবে সংযোগ করার অনুমতি প্রদান করা হয়েছে কিনা তা পরীক্ষা করুন।</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "সম্ভাব্য আক্রমণকারী সাইট!">
-<!ENTITY malwareBlocked.longDesc "<p>আক্রমণকারী সাইটগুলো আপনার সিস্টেমে এমন প্রোগ্রাম ইনস্টল করার চেষ্টা করে যা ব্যক্তিগত তথ্য চুরি করে, বা এই কম্পিউটার থেকে অন্যদের উপর আক্রমণ চালায় বা সিস্টেমের অন্যান্য ক্ষতি সাধন করে।</p> 
-<p>কোনো ওয়েবসাইট যদি ভুলবশত আক্রমণকারী সাইট হিসাবে চিহ্নিত হয়ে থাকে, তাহলে সংশ্লিষ্ট সাইটের কতৃপক্ষগণ <a href='http://www.stopbadware.org/home/reviewinfo' > এ গিয়ে তা পুনরায় যাচাইয়ের অনুরোধ জানাতে পারেন</a>।</p>">
-
-<!ENTITY unwantedBlocked.title "সন্দেহভাজন অবাঞ্ছিত সফটওয়্যার সাইট!">
-<!ENTITY unwantedBlocked.longDesc "<p>অবাঞ্ছিত সফটওয়্যার পেজটি সফটওয়্যার ইন্সটল করার চেষ্টা করছে যা আপনার সিস্টেমকে খারাপ করে দিতে পারে অনিচ্ছাকৃত ভাবেই।</p>">
-
-<!ENTITY phishingBlocked.title "সম্ভাব্য ওয়েব জালিয়াতি!">
-<!ENTITY phishingBlocked.longDesc "<p>এই পৃষ্ঠায় ব্যক্তিগত তথ্য দিয়ে থাকলে আপনি পরিচয় প্রতারণা বা অন্যান্য প্রতারণার শিকার হতে পারেন।</p> 
-<p>এসব ওয়েব জালিয়াতি ফিশিং নামে পরিচিত। জাল ওয়েবসাইটগুলো, পরিচিত ও বিশ্বাসযোগ্য সাইট ও ইমেইল নকল করে আপনার কাছ থেকে  ব্যক্তিগত ও অর্থ সংক্রান্ত তথ্য বের করে নেয়।</p>">
-
-<!ENTITY forbiddenBlocked.title "নিষিদ্ধ সাইট">
-<!ENTITY forbiddenBlocked.longDesc "<p>এই পৃষ্ঠাটি লোড করতে &brandShortName; বাধা দেয় কারণ আপনার নির্ধারিত কনফিগারেশনে এটিকে ব্লক করতে বলা হয়েছে।</p>">
-
 <!ENTITY cspBlocked.title "বিষয়বস্তুর নিরাপত্তা নীতিমালা দ্বারা ব্লক">
 <!ENTITY cspBlocked.longDesc "<p>এভাবে পৃষ্ঠা লোড করতে &brandShortName; বাধা দেয় কারণ এ পৃষ্ঠার বিষয়বস্তুর নিরাপত্তা নীতিমালা এটা করতে অনুমোদন দেয় না।</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "মজিলাকে এই ধরনের প্রতিবেদন দিয়ে ক্ষরিকারক সাইট চিহ্নিত এবং অবরুদ্ধ করতে সাহায্য করুন।">
 <!ENTITY errorReporting.learnMore "আরও জানুন…">
-<!ENTITY errorReporting.sending "রিপোর্ট পাঠানো হচ্ছে">
-<!ENTITY errorReporting.sent "রিপোর্ট পাঠানো হয়েছে">
-<!ENTITY errorReporting.tryAgain "পুনরায় চেষ্টা করুন">
 
 <!ENTITY remoteXUL.title "রিমোট XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাটি সম্পর্কে অনুগ্রহ করে ওয়েবসাইটের মালিককে জানান।</li></ul></p>">
