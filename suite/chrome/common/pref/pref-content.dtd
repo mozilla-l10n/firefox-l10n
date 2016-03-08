@@ -11,6 +11,9 @@
 <!ENTITY useFavIcons.accesskey "B">
 <!ENTITY enableAutomaticImageResizing.label "Reajustar imágenes grandes a la ventana del navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
+<!ENTITY scrolling.label "Desplazamiento">
+<!ENTITY useAutoScroll.label "Usar desplazamiento automático">
+<!ENTITY useAutoScroll.accesskey "e">
 <!ENTITY useSmoothScroll.label "Usar desplazamiento suave">
 <!ENTITY useSmoothScroll.accesskey "U">
 <!ENTITY allowHWAccel.label "Usar aceleración hardware cuando esté disponible">
