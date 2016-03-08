@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "हमरा एतएसँ बाहर लए जाउ!">
 <!ENTITY safeb.palm.decline.label "ई चेतावनी केँ अनदेखा  करू ">
-<!ENTITY safeb.palm.notforgery.label2 "ई एकटा वेब धोखेबाजी नहि…">
 
 
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>हमला पृष्ठ प्रोग्राम केँ संस्थापित करबाक लेल कोशिश करैत अछि  जे निज सूचना केँ चोराबैछ, अहाँक कंप्यूटर केँ दोसरक हमला अथवा अपन सिस्टमकेँ क्षतिसँ बचाबैक लेल प्रयोग करू .</p><p>किछु हमला साइट जान बूझकए नुकसान दिअबला साफ्टवेयरकेँ वितरित करैत अछि,  मुदा बहुत लोकनिसभकेँ हुनकर मालिक कए अनुमति अथवा ज्ञान कए क्षति पहुँचाएल जाइछ.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "संदेहास्पद वेब धोखाधड़ी!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ई पृष्ठ पर कोनो निज सूचना केँ डालनाइ पहचान चोरी या आन धोखाक रूपेँ परिणाम आन सकैत अछि.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ई प्रकारक वेब धोखाधड़ी फिशिंग हमलाक रूपेँ जाएबला घोटाला मे प्रयोग कएल जाइछ, जकरामे छद्म वेब पेज आ इमेल केँ प्रयोग कएल जाइत अछि जकरा पर अहाँ भरोसा करैत छी. </p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.unwantedPage.title "आवांछित सॉफ्टवेयर साइट केर रिपोट कएलक!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
