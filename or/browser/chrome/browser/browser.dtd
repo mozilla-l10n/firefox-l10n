@@ -162,11 +162,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ଏହି ଭିଡ଼ିଓକୁ ସହଭାଗ କରନ୍ତୁ">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "ସଦସ୍ୟତା ଗ୍ରହଣ କରନ୍ତୁ">
-<!ENTITY subscribeToPageMenupopup.label "ଏହି ପୃଷ୍ଠାକୁ କିଣନ୍ତୁ">
+
+
 <!ENTITY subscribeToPageMenuitem.label "ଏହି ପୃଷ୍ଠାକୁ କିଣନ୍ତୁ…">
 <!ENTITY addCurPagesCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
 <!ENTITY showAllBookmarks2.label "ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
+
 <!ENTITY unsortedBookmarksCmd.label "ଅସଜଡ଼ା ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
 <!ENTITY bookmarksToolbarChevron.tooltip "ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ">
 
@@ -250,6 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "ସଂଯୋଗ କରନ୍ତୁ…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,6 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "ସାଧନପଟିରେ ଯୋଗ କରନ୍ତୁ">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "ତାଲିକାରେ ଯୋଗ କରନ୍ତୁ">
@@ -506,6 +510,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ଫ୍ରେମକୁ ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "କେବଳ ଏହି ଫ୍ରେମକୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -719,7 +725,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "ସମାପ୍ତ">
-<!ENTITY editBookmark.cancel.label                   "ବାତିଲ କରନ୍ତୁ">
 
 
 
@@ -748,13 +753,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY identity.permissions "ଅନୁମତି">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ବ୍ରାଉଜର ଟ୍ୟାବଗୁଡ଼ିକ">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "ସନ୍ତୁଳନ କରନ୍ତୁ">
 
@@ -791,7 +811,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "&brandShortName; ରେ ଯୋଡ଼ିବା ପାଇଁ ଏକ ସର୍ଭିସ ଉପରେ କ୍ଲିକ କରନ୍ତୁ।">
 <!ENTITY social.directory.viewmore.text "ଅଧିକ ଦେଖନ୍ତୁ">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; କୁ ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ">
 <!ENTITY customizeMode.menuAndToolbars.header2 "ଅତିରିକ୍ତ ସାଧନ ଏବଂ ବିଶେଷତାଗୁଡ଼ିକ">
 <!ENTITY customizeMode.menuAndToolbars.empty "ଅଧିକ ସାଧନ ଆଶାକରୁଛନ୍ତି କି?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ହଜାର ହଜାର ଏଡ଼ ଅନଗୁଡ଼ିକରୁ ବାଛନ୍ତୁ">
@@ -893,7 +912,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.buttonlabel         "ଧନ୍ୟବାଦ!">
 
 
-
-
-<!ENTITY emeNotificationsDontAskAgain.label       "ମୋତେ ପୁଣିଥରେ ପଚାରନ୍ତୁ ନାହିଁ (D)">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">

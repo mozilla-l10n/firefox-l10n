@@ -50,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ସକ୍ରିୟ ପ୍ଲଗଇନଗୁଡ଼ିକ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "ନିର୍ମିତ ସଂରଚନା">
 <!ENTITY aboutSupport.appBasicsUserAgent "ଚାଳକ ଯନ୍ତ୍ର">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "ସ୍ମୃତିସ୍ଥାନ ବ୍ୟବହାର">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
