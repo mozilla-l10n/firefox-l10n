@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "t">
 <!ENTITY shareVideo.label "Compartir iste vidio">
 <!ENTITY shareVideo.accesskey "t">
-<!ENTITY feedsMenu.label "Conducir-me-ie">
-<!ENTITY subscribeToPageMenupopup.label "Conducir-se a ista pachina">
+
+
 <!ENTITY subscribeToPageMenuitem.label "Conducir-se a ista pachina…">
 <!ENTITY addCurPagesCmd.label "Adhibir pestanyas ta marcapachinas…">
 <!ENTITY showAllBookmarks2.label "Amostrar totz os marcapachinas">
+
 <!ENTITY unsortedBookmarksCmd.label "Marcadors sin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amostrar mas marcapachinas">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Connectar…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -407,20 +410,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Ubrir o menú d'aduya">
 
 <!ENTITY appMenuRemoteTabs.label "Pestanyas sincronizadas">
-<!ENTITY appMenuRemoteTabs.fetching.label "Trayendo as Pestanyas Sincronizadas…">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "No i hai pestanyas ubiertas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activa la sincronización de pestanyas pa veyer una lista de pestanyas dende os atros dispositivos.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Dentrar en Firefox dende os atros dispositivos pa veyer as suyas pestanyas aquí.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Dentrar pa veyer una lista de pestanyas d'os atros dispositivos.">
+
 <!ENTITY appMenuRemoteTabs.signin.label "Dentrar en Sync">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Adhibir en a barra de ferramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -527,6 +528,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Ubrir a bastida en una finestra nueva">
 <!ENTITY openFrameCmd.accesskey       "a">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Amostrar nomás ista bastida">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -741,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Rematar">
-<!ENTITY editBookmark.cancel.label                   "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Connexión segura">
@@ -775,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Saber-ne mas">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "Mas información">
 
 <!ENTITY identity.permissions "Permisos">
@@ -783,9 +787,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Pestanyas d'o navegador">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu3.label     "Pestanyas sincronizadas">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -823,7 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Fe clic en un servicio ta anyader-lo to &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Veyer-ne mas">
 
-<!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Ferramientas y funcions adicionals">
 <!ENTITY customizeMode.menuAndToolbars.empty "En quiere mas, de ferramientas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Trigue-las d'entre os milars de complementos">
@@ -929,7 +945,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Amortar o proceso web">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "A">
-<!ENTITY emeNotificationsNotNow.label             "No pas agora">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "No tornar a preguntar-me">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "N">

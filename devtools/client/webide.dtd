@@ -75,9 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
-<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "Os míos prochectos">
 <!ENTITY projectPanel_runtimeApps "Aplicacions de tiempo d'execución">
@@ -199,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "I l'atro dispositivo demanda un teste en cuenta d'escaniar un codigo QR, por favor, copie a valura d'abaixo en l'atro dispositivo:">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Pre-empaquetar os rechistros de comando">

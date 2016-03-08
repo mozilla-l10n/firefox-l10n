@@ -130,20 +130,6 @@ de ret d'o suyo equipo.</li>
 asegure-se que o &brandShortName; tiene permiso ta accedir ta la web.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Posible puesto atacant!">
-<!ENTITY malwareBlocked.longDesc "<p>Os puestos atacants miran d'instalar programas que puedan rapar información privada, fer servir o suyo ordinador ta atacar atros u danyar o suyo sistema.</p> 
-<p>Os propietarios de puestos web que creyan que han estau reportaus como un puesto atacant pueden <a href='http://www.stopbadware.org/home/reviewinfo' >demandar una revisión</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Puesto sospeitoso de software no deseyau.">
-<!ENTITY unwantedBlocked.longDesc "<p>As pachinas de software no deseyau mira d'instalar software que puede estar enganyoso y afectar a o suyo sistema de trazas no asperadas.</p>">
-
-<!ENTITY phishingBlocked.title "Posible falsificación de web!">
-<!ENTITY phishingBlocked.longDesc "<p>Escribir qualsiquier información personal en ista pachina podría resultar en una suplantación d'identidat u en belatro fraude.</p> 
-<p>Istas menas de webs fraudulentas las fan servir en ataques de phishing, en os quals pachinas y correus electronicos fraudulentos s'utilizan ta imitar fuents en as quals gosa confiar.</p>">
-
-<!ENTITY forbiddenBlocked.title "Puesto vedau">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; ha privau que ista pachina se cargue porque ye configurau pa blocar-la.</p>">
-
 <!ENTITY cspBlocked.title "S'ha blocau por a politica de seguranza de conteniu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha privau que a pachina se cargue d'ista traza porque tiene una politica de seguranza de conteniu que no lo permite.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Informa d'errors como iste pa aduyar a Mozilla a identificar y blocar puestos dolents.">
 <!ENTITY errorReporting.learnMore "Saber-ne mas…">
-<!ENTITY errorReporting.sending "Se ye ninviando un reporte…">
-<!ENTITY errorReporting.sent "Ninviau o reporte">
-<!ENTITY errorReporting.tryAgain "Torna-lo a prebar">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema.</li></ul></p>">
