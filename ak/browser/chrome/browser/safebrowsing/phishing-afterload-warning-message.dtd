@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Yi me firi ha!">
 <!ENTITY safeb.palm.decline.label "Yi wo eni firi kɔkɔbɔ yi so">
-<!ENTITY safeb.palm.notforgery.label2 "Yi nnyɛ wɛb ndaadaa…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -16,10 +16,8 @@
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
-<!ENTITY safeb.blocked.phishingPage.title "Wɛb Sakawa a Wɔaka!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Wɔabɔ amande afa wɛb krataafa wɔ <span id='phishing_sitename'/> sɛ ɔyɛ saet a ɔhaw adwen nti wɔnam wo bambɔ nhyehyɛe so esiw no kwan.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Wɔnam intanɛt sakawa so yɛ wɔn ho te sɛ wɔn a wo gye wɔn di na wɔde gye wo ho nsɛm anaaso wo sika mu nsɛm.</p><p>Infɔmehyɛn biara a wo bɛkyerɛw wɔ krataafa yi so betumi ama obi ewia wo ho nsɛm de ayɛ ne ho te sɛ wo anaaso wobetumi de abɔ wo epow.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

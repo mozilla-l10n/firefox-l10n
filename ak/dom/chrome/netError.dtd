@@ -72,18 +72,6 @@
 <li>Sɛ wo akɔnɛkt akɔ sɛɛva yi so da a, etumi ba no sɛ mfomso yi bɛkɔ a ɛrennkyɛr, nti wo betumi asan asɔ ahwɛ.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Saet yi betumi ahaw adwen papaapa!">
-<!ENTITY malwareBlocked.longDesc "<p>Saet a wɔhaw adwen bɔ mbɔden sɛ wɔ bɛinstɔl mprogram de ewia wo infɔmehyɛn, anaaso wɔde wo kɔmputa no bɛhaw afoforo wɔn adwen, anaaso wɔbɛhaw wo kɔmputa.</p> 
-<p>Sɛ wɛbsaet bi yɛ wo de na wo gye di sɛ obi afom sɛ wɔaka sɛ wo wɛbsaet no haw adwen a, <a href='http://www.stopbadware.org/home/reviewinfo' >bisa sɛ wɔnhwɛ wo asɛm nka mma wo</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Ayɛ sɛ wɛb ndaadaa!">
-<!ENTITY phishingBlocked.longDesc "<p>Wo rekyerɛw wo ho nsɛm wɔ krataafa yi so betumi ama obi ewia wo su, anaaso ewia wo sika anaaso biribi foforo.</p> 
-<p>Yɛfrɛ wɛb ndaadaa te sɛ yinom sɛ Intanɛt sakawa, a binom nam emel ne wɛb nkrataafa so de yɛ wɔn ho sɛ obia a wobetumi de wo were ahyɛ wɔn mu.</p>">
-
-
-
 <!ENTITY securityOverride.linkText "Anaaso wobetumi eyi wɛbsaet yi efiri mu…">
 
 
