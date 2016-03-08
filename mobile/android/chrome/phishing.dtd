@@ -14,6 +14,8 @@
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Site enganoso!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "A página no site <span id='phishing_sitename'/> foi reportada como sendo enganosa e foi bloqueada de acordo com as suas preferências de segurança.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Sites enganosos são projetados para induzi-lo a fazer algo nocivo, como instalar software ou revelar suas informações pessoais, como senhas, números de telefone ou cartões de crédito.</p><p>Introduzir qualquer informação nesta página pode resultar em roubo de identidade ou outras fraudes.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Relatando site de software indesejado!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
