@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "هم‌گام‌سازی">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "وصل شدن به &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "اضافه کردن یک حساب &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "وصل کردن دستگاه">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "برای فعال کردن دستگاه جدید خود “Set up &syncBrand.shortName.label;” را در دستگاه خود انتخاب کنید.">
-<!ENTITY sync.subtitle.header2.label "این کد را در دستگاه دیگر خود وارد کنید">
-<!ENTITY sync.subtitle.connectlocation2.label "در قسمت &syncBrand.shortName.label; از ترجیحات فایرفاکس دستگاه دیگر خود مورد «&sync.title.pair.label;» انتخاب کنید.">
 <!ENTITY sync.subtitle.pair.label "برای فعال‌سازی، «همگام‌سازی یک دستگاه» در دستگاه دیگر را انتخاب کنید.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "نمایش روش کار">
-<!ENTITY sync.link.advancedsetup.label "راه‌اندازی پیشرفته…">
 <!ENTITY sync.link.nodevice.label "هم‌اکنون دستگاه همراهم نیست...">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "در انتظار دستگاه‌های دیگر…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "اطلاعات حساب &syncBrand.fullName.label; خود را وارد کنید">
-<!ENTITY sync.input.username.label "نام حساب">
-<!ENTITY sync.input.password.label "گذرواژه">
-<!ENTITY sync.input.key.label "کلید بازیابی">
-<!ENTITY sync.checkbox.server.label "استفاده از یک کارگزار خاص">
-<!ENTITY sync.input.server.label "کارگزار نشانی وب">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "نمی‌توان &syncBrand.shortName.label; را تنظیم کرد">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; نمی‌تواند به کارگزار متصل شود. آیا می‌خواهید دوباره تلاش کنید؟">
-<!ENTITY sync.button.tryagain.label "تلاش مجدد">
-<!ENTITY sync.button.manual.label "تنظیم دستی">
-<!ENTITY sync.subtitle.nointernet.label "اتصال اینترنت در دسترس نیست.">
-<!ENTITY sync.subtitle.failaccount.label "ایجاد حساب بر روی دستگاه شما شکست خورد.">
-<!ENTITY sync.subtitle.failmultiple.label "آیا شما بیش از یک فایرفاکس نصب شده دارید؟ در حال حاضر، &syncBrand.fullName.label; فقط از یک فایرفاکس نصب شده در یک زمان پشتیبانی میکند. لطفاً برای استفاده از &syncBrand.shortName.label; موارد دیگر را حذف کنید.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "خاتمه‌ی برپاسازی">
-<!ENTITY sync.subtitle.success.label1 "داده شما در پس‌زمینه درحال بارگیری است. شما می‌توانید برای مدیریت حساب خود به تنظیمات بروید، یا با &brandShortName; شروع به مرور کنید.">
-<!ENTITY sync.settings.label "تنظیمات">
-<!ENTITY sync.subtitle.manage.label1 "حساب &syncBrand.fullName.label; شما از قبل تنظیم شده است. شما می‌توانید برای مدیریت حساب خود به تنظیمات بروید، یا &brandShortName; را راه‌اندازی کنید.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "لطفاً دوباره تلاش کنید.">
-<!ENTITY sync.pair.connectlocation.label "برای فعال‌سازی دستگاه جدید خود، بر روی دستگاه “Set up &syncBrand.shortName.label;” را انتخاب کنید، و سپس “I Have an Account.” را انتخاب کنید.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "گزینه‌ها">
-<!ENTITY sync.summary.pair.label "پیوند دستگاهی دیگر به حساب &syncBrand.shortName.label; شما">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "چه‌چیزی هم‌گام‌سازی شود">
-<!ENTITY sync.configure.engines.sync.my.title.label "هم‌گام‌سازی...">
-<!ENTITY sync.configure.engines.title.bookmarks "نشانک‌ها">
 <!ENTITY sync.configure.engines.title.passwords2 "ورود">
 <!ENTITY sync.configure.engines.title.history "تاریخچه">
 <!ENTITY sync.configure.engines.title.tabs "زبانه‌ها">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "انصراف">
-<!ENTITY sync.button.connect.label "اتصال">
-<!ENTITY sync.button.ok.label "تأیید">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label;(منقضی‌شده است)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "لیست خواندن">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "میخ شد">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "فقط یک حساب &syncBrand.fullName.label; پشتیبانی می‌شود.">
-<!ENTITY sync.notification.configure.saved "موارد انتخاب شده شما ذخیره شده‌اند.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "نام حساب یا گذرواژه اشتباه است">
-<!ENTITY sync.invalidserver.label "لطفاً یک نشانی پایگاه صحیح وارد کنید">
-<!ENTITY sync.verifying.label "در حال وارسی…">
-<!ENTITY sync.new.recoverykey.status.incorrect "کلید بازیابی نادرست است. لطفاً دوباره تلاش کنید.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "ارسال زبانه به دستگاه‌ها">
-<!ENTITY sync.button.send.label "ارسال">
-<!ENTITY sync.button.set.up.sync.label "تنظیم &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "تنظیم &syncBrand.shortName.label; برای ارسال زبانه‌ها">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "تنظیم &syncBrand.fullName.label; بر روی دستگاه شما برای ارسال زبانه‌ها به دستگاه‌های دیگر.">
 <!ENTITY sync.text.tab.sent.label "زبانه شما ارسال شد!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "پست الکترونیکی">
-<!ENTITY fxaccount_password_hint "گذرواژه">
+
 <!ENTITY fxaccount_password_hide "مخفی کردن">
 <!ENTITY fxaccount_password_show "نمایش">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; تنظیم شده است، اما هم‌گام‌سازی به صورت خودکار انجام نمی شود. ضامن “هم‌گام‌سازی خودکار اطلاعات” را در تنظیمات اندروید &gt; مصرف داده تنظیم کنید.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; تنظیم شده است، اما هم‌گام‌سازی به صورت خودکار انجام نمی شود. ضامن “هم‌گام‌سازی خودکار اطلاعات” را در فهرست تنظیمات اندروید &gt; حساب‌های کاربری تنظیم کنید.">
 <!ENTITY fxaccount_status_needs_finish_migrating "برای ورود به حساب فایرفاکس جدید خود تپ کنید.">
-<!ENTITY fxaccount_status_bookmarks "نشانک‌ها">
+
 <!ENTITY fxaccount_status_history "تاریخچه">
 <!ENTITY fxaccount_status_passwords2 "ورود">
 <!ENTITY fxaccount_status_tabs "زبانه‌های باز">
