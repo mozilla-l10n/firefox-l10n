@@ -479,6 +479,11 @@ size. -->
 <!ENTITY button_clear "Pastroje">
 <!ENTITY button_copy "Kopjoje">
 
+<!ENTITY home_top_sites_title "Sajte Kryesues">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Shtoni një sajt">
+
 <!ENTITY firstrun_panel_title_welcome "Mirë se vini">
 <!ENTITY  onboard_start_message3 "Shfletoni me &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Bëjeni shfletimin tuaj në Web me celular ashtu si e doni.">
