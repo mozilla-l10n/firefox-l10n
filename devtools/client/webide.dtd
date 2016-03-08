@@ -69,8 +69,6 @@
 
 <!ENTITY key_zoomout "-">
 
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "مشاريعي">
 <!ENTITY projectPanel_runtimeApps "تطبيقات بيئة التشغيل">
@@ -188,6 +186,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "إن سأل الجهاز الآخر عن رمز بدل مسح رمز QR ضوئيا، فمن فضلك انسخ القيمة أدناه إلى الجهاز الآخر:">
+
 <!-- Logs panel -->
 <!-- Simulator Options -->
 

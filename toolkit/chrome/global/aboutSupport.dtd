@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "الملحقات المفعّلة">
 <!ENTITY aboutSupport.appBasicsBuildConfig "إعدادات البناء">
 <!ENTITY aboutSupport.appBasicsUserAgent "عميل المستخدم">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "استخدام الذاكرة">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
