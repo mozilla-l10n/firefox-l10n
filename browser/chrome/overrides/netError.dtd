@@ -130,19 +130,6 @@ kết nối mạng.</li>
 rằng &brandShortName; được phép truy cập Web.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Nghi ngờ trang web có ác ý!">
-<!ENTITY malwareBlocked.longDesc "<p>Trang ác ý là các trang cố gắng cài đặt các chương trình ăn cắp thông tin cá nhân, dùng máy của bạn để tấn công máy khác, hoặc làm hư hệ thống của bạn.</p> 
-<p>Các chủ trang web tin rằng trang của mình bị cảnh báo nhầm có thể <a href='http://www.stopbadware.org/home/reviewinfo' >đề nghị đánh giá lại</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Nghi ngờ trang cài đặt phần mềm không mong muốn!">
-<!ENTITY unwantedBlocked.longDesc "<p>Các trang này cố cài đặt các phần mềm lừa đảo và có thể ảnh hưởng đến hệ thống của bạn theo nhiều cách khó lường.</p>">
-
-<!ENTITY phishingBlocked.title "Nghi ngờ trang web giả mạo!">
-<!ENTITY phishingBlocked.longDesc "<p>Nếu bạn nhập bất kì thông tin nào vào trang này thì có thể dẫn đến việc bị trộm danh tính hoặc gặp các hình thức lừa đảo khác.</p>
-<p>Những kiểu trang web giả mạo này được dùng trong các âm mưu lừa đảo - còn gọi là 'tấn công thả mồi giả' (phishing attack), trong đó chúng thường giả mạo thành các trang web và email mà bạn tin tưởng.</p>">
-
-
-
 <!ENTITY cspBlocked.title "Bị chặn bởi Chính sách bảo mật nội dung">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; không tải trang này vì nó có một chính sách bảo vệ nội dung không cho phép việc tải theo cách này.</p>">
 
@@ -165,9 +152,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "Tìm hiểu thêm…">
-<!ENTITY errorReporting.sending "Đang gửi báo cáo">
-<!ENTITY errorReporting.sent "Đã gửi báo cáo">
-<!ENTITY errorReporting.tryAgain "Thử lại">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vui lòng liên hệ với chủ trang web để báo với họ vấn đề này.</li></ul></p>">

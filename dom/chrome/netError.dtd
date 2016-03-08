@@ -72,19 +72,6 @@
 <li>Nếu bạn đã từng kết nối tới máy chủ này thành công trong quá khứ, lỗi này có thể chỉ là tạm thời, và bạn có thể thử lại sau.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Nghi ngờ trang web có ác ý!">
-<!ENTITY malwareBlocked.longDesc "<p>Trang ác ý là các trang cố gắng cài đặt các chương trình ăn cắp thông tin cá nhân, dùng máy của bạn để tấn công máy khác, hoặc làm hư hệ thống của bạn.</p> 
-<p>Các chủ trang web tin rằng trang của mình bị cảnh báo nhầm có thể <a href='http://www.stopbadware.org/home/reviewinfo' >đề nghị đánh giá lại</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Nghi ngờ trang có cài đặt phần mềm không mong muốn!">
-<!ENTITY unwantedBlocked.longDesc "<p>Các trang này cố gắng cài những phần mềm lừa đảo và ảnh hưởng đến hệ thống của bạn theo nhiều cách không thể ngờ được.</p>">
-
-<!ENTITY phishingBlocked.title "Nghi ngờ trang web giả mạo!">
-<!ENTITY phishingBlocked.longDesc "<p>Nếu bạn nhập bất kì thông tin nào vào trang này thì có thể dẫn đến việc bị trộm danh tính hoặc gặp các hình thức lừa đảo khác.</p>
-<p>Những kiểu trang web giả mạo này được dùng trong các âm mưu lừa đảo - còn gọi là 'tấn công thả mồi giả' (phishing attack), trong đó chúng thường giả mạo thành các trang web và email mà bạn tin tưởng.</p>">
-
-
-
 
 
 <!ENTITY cspBlocked.title "Bị chặn bởi Chính sách bảo mật nội dung">

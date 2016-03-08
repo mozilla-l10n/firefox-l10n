@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Phần bổ trợ Đã kích hoạt">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cấu hình Bản xây dựng">
 <!ENTITY aboutSupport.appBasicsUserAgent "Chuỗi đại diện Người dùng">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Sử dụng Bộ nhớ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
