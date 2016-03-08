@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "ل">
 <!ENTITY retentionKeepRecent.label "احذف الكل ما عدا الأحدث">
 <!ENTITY retentionKeepRecent.accesskey "ث">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "احذف الرسائل المقروءة دائمًا (يلغي إعدادات الزمن)">
 <!ENTITY retentionApplyToFlagged.label "احتفظ دائمًا بالرسائل ذات النجمة">
 <!ENTITY retentionApplyToFlagged.accesskey "ج">
 <!ENTITY nntpRemoveMsgBody.label "أزِل المتون من الرسائل التي تزيد عن">
