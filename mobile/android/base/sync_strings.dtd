@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Սինք">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Միանալ &syncBrand.shortName.label;ին">
-<!ENTITY sync.title.adddevice.label "Ավելացնել &syncBrand.fullName.label; հաշիվ">
-<!ENTITY sync.title.pair.label "Կցված սարք">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Նոր սարքը ակտիվացնելու համար ընտրեք “Կարգավորել &syncBrand.shortName.label;ը” ձեր սարքում։">
-<!ENTITY sync.subtitle.header2.label "Մուտքագրեք այս կոդը ձեր այլ սարքում">
-<!ENTITY sync.subtitle.connectlocation2.label "Ընտրեք “&sync.title.pair.label;” ձեր այլ սարքի Firefox-ի կարգավորումների &syncBrand.shortName.label; մասում:">
 <!ENTITY sync.subtitle.pair.label "Ակտիվացնելու համար ընտրեք “Կցված սարք” Ձեր այլ սարքում:">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Ցույց տվեք, թե ինչպես:">
-<!ENTITY sync.link.advancedsetup.label "Լրացուցիչ...">
 <!ENTITY sync.link.nodevice.label "Ես ինձ մոտ չունեմ սարք...">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Սպասում է այլ սարքի...">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Նշեք Ձեր &syncBrand.fullName.label; հաշվեկշռի տեղեկությունը">
-<!ENTITY sync.input.username.label "Փոստարկղի անունը">
-<!ENTITY sync.input.password.label "Գաղտնաբառ">
-<!ENTITY sync.input.key.label "Վերականգնող բանալին">
-<!ENTITY sync.checkbox.server.label "Օգտ. ընտրված սպասարկիչ">
-<!ENTITY sync.input.server.label "Սպասարկիչի URL-ն">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Հնարավոր չէ կարգավորել &syncBrand.shortName.label;ը">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label;-ը չի կարողանում միանալ սպասարկիչին: Կրկի՞ն փորձել:">
-<!ENTITY sync.button.tryagain.label "Կրկին փորձել">
-<!ENTITY sync.button.manual.label "Ձեռադիր կարգավորում">
-<!ENTITY sync.subtitle.nointernet.label "Մուտքը համացանց հասանելի չէ:">
-<!ENTITY sync.subtitle.failaccount.label "Հնարավոր չեղավ հաշիվ ստեղծել ձեր սարքում:">
-<!ENTITY sync.subtitle.failmultiple.label "Տեղադրե՞լ եք Firefox-ի մի քանի օրինակ: Այժմ &syncBrand.fullName.label;ը աշխատում է Firefox-ի միայն մեկ օրինակի հետ: &syncBrand.shortName.label;ը օգտագործելու համար հեռացրեք մյուսները:">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Տեղադրումը ավարտված է">
-<!ENTITY sync.subtitle.success.label1 "Ձեր տվյալները ներբեռնվում են խորապատկերում: Ձեր հաշիվը կարող եք կառավարել Կարգավորումներում կամ շարունակել աշխատանքը &brandShortName;-ով:">
-<!ENTITY sync.settings.label "Կարգավորումներ">
-<!ENTITY sync.subtitle.manage.label1 "Ձեր &syncBrand.fullName.label; հաշիվը արդեն կարգավորված է: Ձեր հաշիվը կարող եք կառավարել Կարգավորումներում կամ բացեք &brandShortName;-ը:">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Խնդրում ենք կրկին փորձել:">
-<!ENTITY sync.pair.connectlocation.label "Նոր սարքը ակտիվացնելու համար ընտրեք “Կարգավորել &syncBrand.shortName.label;ը” և ապա՝ “Ես ունեմ Հաշիվ”:">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Ընտրանքներ">
-<!ENTITY sync.summary.pair.label "Կցել այլ սարք &syncBrand.shortName.label;ի ձեր հաշվին">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Սինքը՝">
-<!ENTITY sync.configure.engines.sync.my.title.label "Կատարել Սինք՝">
-<!ENTITY sync.configure.engines.title.bookmarks "Էջանիշեր">
 <!ENTITY sync.configure.engines.title.passwords2 "Մուտքագրումներ">
 <!ENTITY sync.configure.engines.title.history "Պատմություն">
 <!ENTITY sync.configure.engines.title.tabs "Ներդիրներ">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Չեղարկել">
-<!ENTITY sync.button.connect.label "Միանալ">
-<!ENTITY sync.button.ok.label "ԼԱՎ">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (արժեզրկված)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Ընթերցացուցակ">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Ամրացված է">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Հնարավոր է միայն մեկ &syncBrand.fullName.label; հաշիվ:">
-<!ENTITY sync.notification.configure.saved "Ընտրանքները պահպանվեցին:">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Հաշվի անունը կամ գաղտնաբառը սխալ են:">
-<!ENTITY sync.invalidserver.label "Խնդրում ենք, ներմուծեք ստույգ սպասարկիչի URL">
-<!ENTITY sync.verifying.label "Ստուգում…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Վերականգնող բանալին սխալ է: Կրկին փորձեք:">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Էջանիշը ուղարկել այլ սարքի">
-<!ENTITY sync.button.send.label "Ուղարկել">
-<!ENTITY sync.button.set.up.sync.label "Կարգավորել &syncBrand.shortName.label;ը">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Կարգավորել &syncBrand.shortName.label;ը՝ ներդիր ուղարկելու համար">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Կարգավորել &syncBrand.fullName.label;-ը ձեր սարքում՝ ներդիր ուղարկելու համար:">
 <!ENTITY sync.text.tab.sent.label "Ներդիրը ուղարկվել է:">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Էլ. փոստ">
-<!ENTITY fxaccount_password_hint "Գաղտնաբառ">
+
 <!ENTITY fxaccount_password_hide "Թաքցնել">
 <!ENTITY fxaccount_password_show "Ցուցադրել">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Փոփոխեք \&quot;Auto-sync data\&quot; ցուցիչը Անդրոիդ սարքի կարգավորումենրի &gt; Data Usage-ում:">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Փոփոխեք \&quot;Auto-sync data\&quot; ցուցիչը Անդրոիդ սարքի կարգավորումների &gt; Հաշիվներում:">
 <!ENTITY fxaccount_status_needs_finish_migrating "Հպվեք՝ Firefox-ի ձեր նոր հաշիվ մուտք գործելու համար:">
-<!ENTITY fxaccount_status_bookmarks "Էջանիշեր">
+
 <!ENTITY fxaccount_status_history "Պատմություն">
 <!ENTITY fxaccount_status_passwords2 "Մուտքագրումներ">
 <!ENTITY fxaccount_status_tabs "Բացած ներդիրներ">
