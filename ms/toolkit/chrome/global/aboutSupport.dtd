@@ -50,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Mengaktifkan Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "membina Konfigurasi">
 <!ENTITY aboutSupport.appBasicsUserAgent "Ejen pengguna">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Kegunaan Memori">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 

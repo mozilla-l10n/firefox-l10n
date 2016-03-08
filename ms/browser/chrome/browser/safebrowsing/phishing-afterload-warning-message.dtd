@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Keluarkan saya daripada sini!">
 <!ENTITY safeb.palm.decline.label "Abaikan amaran ini">
-<!ENTITY safeb.palm.notforgery.label2 "Ini bukan pemalsuan laman">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -17,10 +17,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Laman web di <span id='unwanted_sitename'/> telah dilaporkan sebagai laman web serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
 
 
-<!ENTITY safeb.blocked.phishingPage.title "Pemalsuan laman dilaporkan!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Laman web di <span id='phishing_sitename'/> telah dilaporkan sebagai laman web palsu dan telah dihalang berdasarkan tetapan sekuriti anda.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Pemalsuan web adalah direka untuk menjerat anda bagi mendedahkan maklumat peribadi atau maklumat kewangan dengan meniru sumber yang anda percaya.</p><p>Segala maklumat yang dimasukkan ke dalam halaman ini boleh menyebabkan kecurian identiti atau lain-lain masalah.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
