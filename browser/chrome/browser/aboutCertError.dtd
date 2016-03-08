@@ -34,6 +34,3 @@ da postoji dobar razlog zašto ova stranica ne koristi vjerodostojnu identifikac
 <!ENTITY certerror.copyToClipboard.label "Kopiraj tekst u međuspremnik">
 
 <!ENTITY errorReporting.automatic "Prijavite greške poput ove da biste pomogli Mozilli identificirati neispravno podešene stranice">
-<!ENTITY errorReporting.sending "Slanje izvješća">
-<!ENTITY errorReporting.sent "Izvještaj poslan">
-<!ENTITY errorReporting.tryAgain "Pokušajte ponovno">
