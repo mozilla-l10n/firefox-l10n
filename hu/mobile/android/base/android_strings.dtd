@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "A keresés könyvjelzői és előzményei közt is szétnéz.">
 <!ENTITY firstrun_data_title "Adatok">
 <!ENTITY firstrun_data_message "Kevesebb adat, több spórolás">
-
+<!ENTITY firstrun_data_subtext2 "Kapcsolja ki a képeket az adatforgalommal való spóroláshoz.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "A &brandShortName;, mindig Ön mellett">
 <!ENTITY firstrun_sync_subtext "Szinkronizálja lapjait, jelszavait és egyebeket mindenütt, ahol csak használja.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Csak Wi-Fi használatakor">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokkolt">
 
+<!ENTITY pref_show_web_fonts "Webes betűk megjelenítése">
 
 <!ENTITY pref_tracking_protection_title "Védelem követés ellen">
 <!ENTITY pref_tracking_protection_summary3 "Engedélyezve privát böngészésben">
@@ -252,6 +253,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Ezt később a Beállításokban módosíthatja">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Kapcsolja be a Rajzolás engedélyezését más appok fölött">
 <!ENTITY tab_queue_prompt_positive_action_button "Engedélyezés">
 <!ENTITY tab_queue_prompt_negative_action_button "Most nem">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
