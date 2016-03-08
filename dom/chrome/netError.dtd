@@ -72,18 +72,6 @@
 <li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspicion de site malvolent !">
-<!ENTITY malwareBlocked.longDesc "<p>Los sites malvolents ensajan d'installar de programas que panan las entresenhas personalas, qu'utilizan vòstre ordenador per n'atacar d'autres o que damatjan vòstre sistèma.</p> 
-<p>Los proprietaris de sites Web que pensan que lor sit es estat raportat a tòrt coma malvolent pòdon <a href='http://www.stopbadware.org/home/reviewinfo'>demandar una revision</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Suspicion de site contrefach !">
-<!ENTITY phishingBlocked.longDesc "<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p> 
-<p>Aquestes tipes de contrefaiçon de sites son utilizats dins de corrièrs electronics frauduloses concebuts per d'atacs per anquetatage (o phishing), dins las qualas las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts dins las qualas avètz fisança.</p>">
-
-
-
 <!ENTITY securityOverride.linkText "O podètz apondre una excepcion…">
 
 
