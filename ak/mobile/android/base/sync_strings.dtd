@@ -7,66 +7,17 @@
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Synk">
 <!-- Main titles. -->
+
 <!ENTITY sync.title.connect.label "Kɔnɛkte ma &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Fa &syncBrand.fullName.label; Akawnt ka ho">
-<!ENTITY sync.title.pair.label "Fa Efidie yi bɔ ho">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Wopɛ sɛ wo sɔ woefidie foforo no a, paw “Hyehyɛ &syncBrand.shortName.label;” wɔ efidie no so.">
-
-
 <!ENTITY sync.subtitle.pair.label "Wo pɛ sɛ wo kenyan a, paw “Fa efidie bi bɔ ho” wɔ wo efidie foforo no so.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Kyerɛ me sɛnea wɔ yɛ no.">
-<!ENTITY sync.link.advancedsetup.label "Nhyehyɛe a ɛkɔ anim...">
 
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Ɛretwɛn efidie foforo no...">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Bɔ wo &syncBrand.fullName.label; akawnt ho nsɛm">
-<!ENTITY sync.input.username.label "Akawnt Din">
-
-<!ENTITY sync.input.key.label "Esiesie Safoa">
-<!ENTITY sync.checkbox.server.label "Fa sɛɛva kɔstɔm di dwuma">
-<!ENTITY sync.input.server.label "Somfo URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Entumi nyehyɛ &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; entumi ankɔnɛkte sɛɛva no. Wopɛ sɛ wosan yɛ bio anaa?">
-<!ENTITY sync.button.tryagain.label "San sɔ hwɛ">
-<!ENTITY sync.button.manual.label "Nhyehyɛe Nsa-ano">
-<!ENTITY sync.subtitle.nointernet.label "Intanɛt nsawɔsoɔ nni hɔ.">
-
-
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Nhyehyɛe Ewie">
-
-<!ENTITY sync.settings.label "Nhyehyɛe">
-
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "San sɔ hwɛ.">
-
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Nɔphyɛn">
-<!ENTITY sync.summary.pair.label "Linke efidie foforo biara ɛma wo &syncBrand.shortName.label; akawnt no">
 <!-- Configure Engines -->
 
 
-
-
-
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Twa-mu">
-<!ENTITY sync.button.connect.label "Kɔnɛkte">
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -83,18 +34,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Mobael Mbukmak">
 
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; akawnt baako pɛ na ɛwɔ kwan.">
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidserver.label "Yɛsrɛ wo kyerɛw sɛɛva URL a edi mu">
-<!ENTITY sync.verifying.label "Regye-ato-mu…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Esiesie-bio safoa nndi mu. Yɛsrɛ wo san sɔ hwɛ.">
 <!-- Send tab to device. -->
-
-
-
 
 
 
