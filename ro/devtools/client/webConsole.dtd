@@ -46,7 +46,7 @@
 <!ENTITY btnPageLogging.label   "Înregistrare în jurnal">
 <!ENTITY btnPageLogging.tooltip "Jurnal mesaje trimise la obiectul window.console">
 <!ENTITY btnPageLogging.accesskey3 "L">
-
+<!ENTITY btnConsoleErrors       "Erori">
 <!ENTITY btnConsoleInfo         "Informații">
 <!ENTITY btnConsoleWarnings     "Avertismente">
 <!ENTITY btnConsoleLog          "Jurnal">
@@ -56,11 +56,13 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
+<!ENTITY btnServerLogging.label       "Server">
 
-
-
-
-
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "Erori">
+<!ENTITY btnServerInfo                "Informații">
+<!ENTITY btnServerWarnings            "Avertismente">
+<!ENTITY btnServerLog                 "Jurnal">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
@@ -96,5 +98,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Deschide în vizualizarea variabilelor">
 <!ENTITY openInVarViewCmd.accesskey "v">
-
-
+<!ENTITY storeAsGlobalVar.label "Stochează ca variabilă globală">
+<!ENTITY storeAsGlobalVar.accesskey "S">
