@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "सिंक">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; से जुड़ें">
-<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; खाता जोड़ें">
-<!ENTITY sync.title.pair.label "युक्ति युग्मित करें">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "अपनी नई युक्ति को सक्रिय करने के लिए, “Set up &syncBrand.shortName.label;” को इस युक्ति पर चुनें.">
-<!ENTITY sync.subtitle.header2.label "अपने अन्य डिवाइस पर इस कोड को दर्ज करें">
-<!ENTITY sync.subtitle.connectlocation2.label "अपने डेस्कटॉप फ़ायरफ़ॉक्स विकल्पों में से अनुभाग &syncBrand.shortName.label; में “&sync.title.pair.label;” पर चुनें.">
 <!ENTITY sync.subtitle.pair.label "सक्रिय करने के लिए, अपने अन्य डिवाइस पर \&quot;एक युक्ति जोड़ी\&quot; को चुनें.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "मुझे दिखाएँ कि कैसे.">
-<!ENTITY sync.link.advancedsetup.label "उन्नत सेटअप ...">
 <!ENTITY sync.link.nodevice.label "मेरे पास युक्ति नहीं है...">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "अन्य उपकरण के लिए प्रतीक्षा कर रहा है ...">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "अपने  &syncBrand.fullName.label; खाते की जानकारी दर्ज करें">
-<!ENTITY sync.input.username.label "खाता नाम">
-<!ENTITY sync.input.password.label "कूटशब्द">
-<!ENTITY sync.input.key.label "पुनर्पाप्ति कुँजी">
-<!ENTITY sync.checkbox.server.label "मनपसंद सर्वर का उपयोग करें">
-<!ENTITY sync.input.server.label "सर्वर यूआरएल">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label " &syncBrand.shortName.label; सेट अप नहीं कर सकते">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; सर्वर से कनेक्ट नहीं कर सकता. आप फिर से प्रयास करना चाहेंगे?">
-<!ENTITY sync.button.tryagain.label "फिर कोशिश करें">
-<!ENTITY sync.button.manual.label "मैनुअल सेटअप">
-<!ENTITY sync.subtitle.nointernet.label "कोई इंटरनेट कनेक्शन उपलब्ध नहीं है.">
-<!ENTITY sync.subtitle.failaccount.label "आपके डिवायस पर खाता निर्माण विफल रहा.">
-<!ENTITY sync.subtitle.failmultiple.label "क्या आपके पास एक से अधिक फ़ायरफ़ॉक्स संस्थापित है? अभी, &syncBrand.fullName.label; केवल एक फ़ायरफ़ॉक्स का संस्थापन का समर्थन करता है. कृपया &syncBrand.shortName.label; के उपयोग के लिए दूसरे का उपयोग करें.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "सेटअप पूर्ण">
-<!ENTITY sync.subtitle.success.label1 "आपका आँकड़ा पृष्ठभूमि में डाउनलोड किया जा रहा है. आप अपने खाता को प्रबंधित करने के लिए सेटिंग्स में जा सकते हैं, &brandShortName; के साथ ब्राउजिंग आरंभ कर सकते हैं.">
-<!ENTITY sync.settings.label "सेटिंग्स">
-<!ENTITY sync.subtitle.manage.label1 "आपका &syncBrand.fullName.label; खाता पहले से सेटअप है. आप अपने खाता को प्रबंधित करने के लिए सेटिंग में जा सकते हैं, या &brandShortName; को लॉन्च कर सकते हैं.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "कृपया फिर कोशिश करें.">
-<!ENTITY sync.pair.connectlocation.label "अपनी नई युक्ति को सक्रिय करने के लिए, “Set up &syncBrand.shortName.label;” को इस युक्ति पर चुनें और “मेरे पास एक खाता है.” को चुनें.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "विकल्प">
-<!ENTITY sync.summary.pair.label "अपने &syncBrand.shortName.label; खाते में एक और युक्ति लिंक करें">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "तुल्यकालित करने के लिए क्या">
-<!ENTITY sync.configure.engines.sync.my.title.label "अपना समन्वयन करें...">
-<!ENTITY sync.configure.engines.title.bookmarks "पुस्तचिह्न">
 <!ENTITY sync.configure.engines.title.passwords2 "लॉगिन">
 <!ENTITY sync.configure.engines.title.history "इतिहास">
 <!ENTITY sync.configure.engines.title.tabs "टैब">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "रद्द करें">
-<!ENTITY sync.button.connect.label "Connect">
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (deprecated)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "पठन सूची">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "टांगा हुआ">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Only one &syncBrand.fullName.label; account is supported.">
-<!ENTITY sync.notification.configure.saved "आपके चयन को सहेजा गया है.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "गलत खाता नाम या कूटशब्द.">
-<!ENTITY sync.invalidserver.label "कृपया एक वैध सर्वर URL दाखिल करें">
-<!ENTITY sync.verifying.label "जाँच रहा है…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Recovery Key incorrect. Please try again.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "टैब युक्तियों में भेजें">
-<!ENTITY sync.button.send.label "भेजें">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; सेटअप करें">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "टैब भेजने के लिए &syncBrand.shortName.label; सेटअप करें">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "&syncBrand.fullName.label; को अपने डिवायस पर सेटअप करें ताकि दूसरे डिवायस में टैब भेजे जा सकें.">
 <!ENTITY sync.text.tab.sent.label "आपका टैब भेजा गया!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ई-मेल">
-<!ENTITY fxaccount_password_hint "कूटशब्द">
+
 <!ENTITY fxaccount_password_hide "छिपाएँ">
 <!ENTITY fxaccount_password_show "Show">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप किया गया है, लेकिन स्वतः सिंक नहीं होता है. “डाटा स्वतःतुल्यकालन” एंड्रायड सेटिंग में टॉगल करें &gt; डाटा प्रयोग.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; स्थापित हैं, लेकिन स्वचालित रूप से सिंक नहीं कर रहा है. एंड्रॉयड &gt; खाता सेटिंग्स में \&quot;ऑटो सिंक डेटा\&quot; टॉगल करें.">
 <!ENTITY fxaccount_status_needs_finish_migrating "अपने नए फ़ायरफ़ॉक्स खाता में साइन इन करने के लिए टैप करें.">
-<!ENTITY fxaccount_status_bookmarks "पुस्तचिह्न">
+
 <!ENTITY fxaccount_status_history "इतिहास">
 <!ENTITY fxaccount_status_passwords2 "लॉगिन">
 <!ENTITY fxaccount_status_tabs "टैब खोलें">

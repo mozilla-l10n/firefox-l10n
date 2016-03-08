@@ -222,6 +222,7 @@
 
 
 
+
 <!ENTITY pref_tracking_protection_title "ट्रैकिंग संरक्षण">
 <!ENTITY pref_tracking_protection_summary3 "निजी ब्राउज़िंग में सक्षम करें">
 <!ENTITY pref_donottrack_title "पीछा न करें">
@@ -453,8 +454,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "पूर्ण स्क्रीन ब्राउज़िंग">
 
 
-<!ENTITY pref_tab_queue_title2 "अनेक लिंक खोलें">
-<!ENTITY pref_tab_queue_summary3 "उन्हें सहेजें जबतक आप अगली बार &brandShortName; खोलते">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -529,10 +529,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "इस पटल के लिए कोई अंतर्वस्तु नहीं मिली.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "&formatS; तक">
 
 <!ENTITY home_remote_tabs_title "सिंक किया टैब">
 <!ENTITY home_remote_tabs_empty "अन्य उपकरणों से आपके टैब यहाँ दिखाई देंगी.">
@@ -627,8 +625,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "&formatS1; को &formatS2; के लिए खोजें">
 
-<!ENTITY webapp_generic_name "ऐप्प">
-
 <!ENTITY searchable_description "पुस्तचिह्न और इतिहास">
 <!-- Updater notifications --> 
 
@@ -693,11 +689,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "अाखरी सिंक: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "अंतिम बार समन्वयित: कभी नहीं">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "आ">
 
 <!ENTITY intent_uri_cannot_open "लिंक नहीं खोल सकते">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -743,4 +734,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
 
