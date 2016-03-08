@@ -130,18 +130,6 @@
 ৱেব অভিগম কৰিব পৰাৰ আজ্ঞা থকাটো নিশ্চিত কৰক।</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "আক্ৰমণৰ সংদেহযুক্ত ছাইট!">
-<!ENTITY malwareBlocked.longDesc "<p>আক্ৰমণৰ ছাইটে কাৰ্য্যক্ৰম ইনস্টল কৰে যি ব্যক্তিগত তথ্য চুৰ কৰে, আপোনাৰ কমপিউটাৰ অন্যক আক্ৰমণ কৰিবলৈ ব্যৱহাৰ কৰে, বা আপোনাৰ চিস্টেম ধ্বংস কৰে।</p> 
-<p>যিসকল গৰাকীয়ে নিজৰ ছাইট ত্ৰুটি ভাবে আক্ৰমণৰ ছাইট হিচাপে প্ৰতিবেদন কৰা হৈছে বুলি ভাবে <a href='http://www.stopbadware.org/home/reviewinfo' > ত পৰীক্ষাৰ বাবে অনুৰোধ কৰিব পাৰে</a>।</p>">
-
-
-
-<!ENTITY phishingBlocked.title "সন্দেহযুক্ত ৱেব জালিয়াতি!">
-<!ENTITY phishingBlocked.longDesc "<p>এই পৃষ্ঠাত কোনো ব্যক্তিগত তথ্য দিলে চিনাকিৰ চুৰি বা অন্য জালিয়াতি হ'ব পাৰে।</p> 
-<p>এই ধৰণৰ ৱেব জালিয়াতি ফিশ্বিং এটেক নামৰ কেলেংকাৰিত ব্যৱহাৰ হয়, য'ত জালী ৱেব পৃষ্ঠা আৰু ঈ-মেইল ব্যৱহাৰ কৰা হয় আপোনাৰ বিশ্বাসী উৎসক কপি কৰিবলৈ।</p>">
-
-
-
 <!ENTITY cspBlocked.title "সমল সুৰক্ষা নীতিৰ দবাৰা প্ৰতিৰোধিত">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; পৃষ্ঠাটোক এই ধৰনে লোড হোৱাৰ পৰা প্ৰতিৰোধ কৰিলে কাৰণ পৃষ্ঠাটোৰ এটা সমল সুৰক্ষা নীতি আছে যিটোৱে ইয়াৰ অনুমতি নিদিয়ে</p>">
 
@@ -164,9 +152,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "অধিক জানক…">
-<!ENTITY errorReporting.sending "সংবাদ পঠোৱা হৈছে">
-<!ENTITY errorReporting.sent "সংবাদ পঠোৱা হল">
-<!ENTITY errorReporting.tryAgain "পুনৰ চেষ্টা কৰক">
 
 <!ENTITY remoteXUL.title "দূৰৱৰ্তী XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীক যোগাযোগ কৰক।</li></ul></p>">

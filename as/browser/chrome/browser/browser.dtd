@@ -162,11 +162,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "এই ভিডিঅ' অংশীদাৰী কৰক">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "স্বাক্ষৰ কৰক">
-<!ENTITY subscribeToPageMenupopup.label "এই পৃষ্ঠা লৈ স্বাক্ষৰ কৰক">
+
+
 <!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠা লৈ স্বাক্ষৰ কৰক…">
 <!ENTITY addCurPagesCmd.label "সকলো টেব পত্ৰচিহ্নিত কৰক…">
 <!ENTITY showAllBookmarks2.label "সকলো পত্ৰচিহ্ন দেখুৱাওক">
+
 <!ENTITY unsortedBookmarksCmd.label "অসজোৱা পত্ৰচিহ্নসমূহ">
 <!ENTITY bookmarksToolbarChevron.tooltip "অধিক পত্ৰচিহ্ন দেখুৱাওক">
 
@@ -250,6 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "সংযোগ কৰক…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,6 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "সঁজুলিবাৰলৈ যোগ কৰক">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "মেনুলৈ যোগ কৰক">
@@ -507,6 +511,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "এটা নতুন উইন্ডোত লিঙ্ক খোলক">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "কেৱল এই ফ্ৰেইম দেখুৱাওক">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -720,7 +726,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "কৰা হল">
-<!ENTITY editBookmark.cancel.label                   "বাতিল কৰক">
 
 
 
@@ -749,13 +754,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY identity.permissions "অনুমতিসমূহ">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ব্ৰাউছাৰ টেবসমূহ">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "সংমিহলি">
 
@@ -792,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "এটা সেৱাক &brandShortName; লৈ যোগ কৰিবলে তাত ক্লিক কৰক।">
 <!ENTITY social.directory.viewmore.text "অধিক দৰ্শন কৰক">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; স্বনিৰ্বাচন কৰক">
 <!ENTITY customizeMode.menuAndToolbars.header2 "অতিৰিক্ত সঁজুলি আৰু বৈশিষ্ট্যসমূহ">
 <!ENTITY customizeMode.menuAndToolbars.empty "অধিক সঁজুলিৰ প্ৰয়োজন?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "হেজাৰ এড-অনৰ পৰা বাছক">
@@ -894,7 +913,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.buttonlabel         "ধন্যবাদ!">
 
 
-
-
-<!ENTITY emeNotificationsDontAskAgain.label       "মোক আকৌ নোসোধিব (D)">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
