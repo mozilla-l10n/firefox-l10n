@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Fumana iziphumo kwiibhukmakhi zakho nembali xa ukhangela.">
 <!ENTITY firstrun_data_title "Idatha">
 <!ENTITY firstrun_data_message "Idatha encinci, wonga ngakumbi">
-<!ENTITY firstrun_data_subtext "Bloka imifanekiso ukuze usebenzise idatha encinci kwisayithi nganye oyityelelayo.">
+
 <!ENTITY firstrun_sync_title "Ungqamaniso">
 <!ENTITY firstrun_sync_message "I-&brandShortName;, isoloko ingakuwe">
 <!ENTITY firstrun_sync_subtext "Dibanisa iithebhu zakho, iiphaswedi, nokungakumbi kuyo yonke indawo oyisebenzisa kuyo.">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Qho">
 <!ENTITY pref_tap_to_load_images_data "Phezu kwe-Wi-Fi kuphela">
 <!ENTITY pref_tap_to_load_images_disabled2 "Iblokiwe">
+
 
 <!ENTITY pref_tracking_protection_title "Ukhuseleko lokutreka">
 <!ENTITY pref_tracking_protection_summary3 "Ivulwe kuBhrawuzo Lwabucala">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Ukubhrawuza iskrini esipheleleyo">
 <!ENTITY pref_scroll_title_bar_summary2 "Fihla i-&brandShortName; ithulbha xa usihlisa iphepha">
 
-<!ENTITY pref_tab_queue_title2 "Vula izinxulumanisi ezininzi">
-<!ENTITY pref_tab_queue_summary3 "Zigcine kude kube lixesha elizayo uvula i-&brandShortName;">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Akukho mxholo ufumanekayo kule phaneli.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Ukuya kwi&formatS;">
 
 <!ENTITY home_remote_tabs_title "Iithebhu ezingqamanisiweyo">
 <!ENTITY home_remote_tabs_empty "Iithebhu zakho ezivela kwezinye izixhobo zivela apha.">
@@ -648,8 +646,6 @@ esuka kwi-Android">
 
 <!ENTITY suggestion_for_engine "Khangela ii&formatS1; eye nee&formatS2;">
 
-<!ENTITY webapp_generic_name "I-app">
-
 <!ENTITY searchable_description "Iibhukhmakhi nembali">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ esuka kwi-Android">
 <!ENTITY remote_tabs_last_synced "Ingqamaniswe okokugqibela: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Ungamaniso lokugqibela: zange">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Ayikwazi ukuvula ikhonkco">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ esuka kwi-Android">
 
 <!ENTITY unsupported_sdk_version "Uxolo! Le &brandShortName; ayinakusebenza kwesi sixhobo (&formatS1;, &formatS2;). Ndicela udawnlowude uhlobo oluchanileyo.">
 
-<!ENTITY eol_notification_title "I-&brandShortName; ayisayixhasi i-Android 3">
 <!ENTITY eol_notification_summary "Cofa ukuze ufunde ngakumbi?">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
