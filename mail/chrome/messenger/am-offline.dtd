@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "E">
 <!ENTITY retentionKeepRecent.label "Ezabatu guztiak azkenak izan ezik">
 <!ENTITY retentionKeepRecent.accesskey "z">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Ezabatu beti irakurritako mezuak (adin-ezarpenak gainidazten ditu)">
 <!ENTITY retentionApplyToFlagged.label "Mantendu beti mezu izardunak">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Kendu gorputzak hau baino mezu zaharragoetatik">
