@@ -50,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Geaktiveerde inproppe">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Boukonfigurasie">
 <!ENTITY aboutSupport.appBasicsUserAgent "Gebruikeragent">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Geheuegebruik">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
