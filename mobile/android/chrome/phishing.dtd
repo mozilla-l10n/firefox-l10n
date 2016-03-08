@@ -15,7 +15,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "سایت گمراه‌کننده!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "صفحهٔ به نشانی <span id='phishing_sitename'/> به عنوان یک صفحهٔ گمراه‌کننده گزارش شده است و دسترسی به آن بر اساس ترجیحات امنیتی شما مسدود شده است.">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>سایت‌های گمراه‌کننده طراحی شده‌اند تا شما را برای انجام کارهای خطرناک، مانند نصب نرم‌افزار، یا فاش کردن اطلاعات شخصی مثل گذرواژه‌ها، شماره‌های تلفن و اطلاعات کارت‌های اعتباری فریب دهند.</p><p>وارد کردن هر گونه اطلاعات در این صفحه ممکن است باعث دزدی هویت یا سایر اعمال کلاه‌بردارانه شود.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "سایت نرم افزاری ناخواسته گزارش شده!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
