@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Sambungkan ke &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Tambahkan Akun &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Pasangkan Perangkat">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Untuk mengaktifkan perangkat baru Anda, pilih “Siapkan &syncBrand.shortName.label;” pada perangkat Anda.">
-<!ENTITY sync.subtitle.header2.label "Masukkan kode berikut ke perangkat Anda lainnya">
-<!ENTITY sync.subtitle.connectlocation2.label "Pilih “&sync.title.pair.label;” pada bagian &syncBrand.shortName.label; di opsi Firefox pada perangkat lain.">
 <!ENTITY sync.subtitle.pair.label "Untuk mengaktifkan. pilih ”Pasangkan perangkat” pada perangkat Anda lainnya.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Tunjukkan caranya.">
-<!ENTITY sync.link.advancedsetup.label "Penyiapan lanjutan…">
 <!ENTITY sync.link.nodevice.label "Perangkat saya sedang tidak bersama saya…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Menunggu perangkat lainnya…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Masukkan informasi akun &syncBrand.fullName.label; Anda">
-<!ENTITY sync.input.username.label "Nama Akun">
-<!ENTITY sync.input.password.label "Sandi">
-<!ENTITY sync.input.key.label "Kunci Pemulihan">
-<!ENTITY sync.checkbox.server.label "Gunakan server ubahsuai">
-<!ENTITY sync.input.server.label "URL Server">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Tidak Dapat Menyiapkan &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; tidak dapat tersambung ke server. Ingin mencoba lagi?">
-<!ENTITY sync.button.tryagain.label "Coba lagi">
-<!ENTITY sync.button.manual.label "Penyiapan Manual">
-<!ENTITY sync.subtitle.nointernet.label "Tidak ada sambungan internet yang tersedia.">
-<!ENTITY sync.subtitle.failaccount.label "Pembuatan akun pada perangkat Anda gagal.">
-<!ENTITY sync.subtitle.failmultiple.label "Apakah Anda memiliki lebih dari satu instalasi Firefox? Saat ini &syncBrand.fullName.label; hanya mendukung satu pemasangan pada saat yang bersamaan. Hapus instalasi Firefox yang lain untuk menggunakan &syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Persiapan Selesai">
-<!ENTITY sync.subtitle.success.label1 "Data Anda sedang diunduh di latar belakang. Anda dapat membuka Setelan untuk mengelola akun Anda, atau mulai menjelajah dengan &brandShortName;.">
-<!ENTITY sync.settings.label "Setelan">
-<!ENTITY sync.subtitle.manage.label1 "Akun &syncBrand.fullName.label; sudah disiapkan sebelumnya. Anda dapat membuka Setelan untuk mengelola akun Anda, atau menjalankan &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Coba lagi.">
-<!ENTITY sync.pair.connectlocation.label "Untuk mengaktifkan perangkat baru Anda, pilih “Siapkan &syncBrand.shortName.label;” pada perangkat dan pilih “Saya Sudah Punya Akun.”">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Opsi">
-<!ENTITY sync.summary.pair.label "Tautkan perangkat lain ke akun &syncBrand.shortName.label; Anda">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Yang akan disinkronkan">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sinkronkan…">
-<!ENTITY sync.configure.engines.title.bookmarks "Markah">
 <!ENTITY sync.configure.engines.title.passwords2 "Info masuk">
 <!ENTITY sync.configure.engines.title.history "Riwayat">
 <!ENTITY sync.configure.engines.title.tabs "Tab">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Batalkan">
-<!ENTITY sync.button.connect.label "Sambungkan">
-<!ENTITY sync.button.ok.label "Oke">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (akan tidak digunakan lagi)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Daftar Bacaan">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Permanen">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Hanya satu akun &syncBrand.fullName.label; yang didukung.">
-<!ENTITY sync.notification.configure.saved "Pilihan Anda telah disimpan.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Nama akun atau sandi salah.">
-<!ENTITY sync.invalidserver.label "Masukkan URL server yang valid">
-<!ENTITY sync.verifying.label "Memverifikasi…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Kunci Pemulihan salah. Coba lagi.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Kirimkan Tab ke Perangkat">
-<!ENTITY sync.button.send.label "Kirim">
-<!ENTITY sync.button.set.up.sync.label "Siapkan &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Siapkan &syncBrand.shortName.label; untuk mengirimkan tab">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Siapkan &syncBrand.fullName.label; di perangkat Anda untuk mengirimkan tab ke perangkat lainnya.">
 <!ENTITY sync.text.tab.sent.label "Tab Anda telah dikirim!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Email">
-<!ENTITY fxaccount_password_hint "Sandi">
+
 <!ENTITY fxaccount_password_hide "Sembunyikan">
 <!ENTITY fxaccount_password_show "Tampilkan">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Aktifkan “Sinkronisasi data otomatis” pada Setelan Android &gt; Penggunaan Data.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Aktifkan “Sinkronisasi data otomatis” pada Setelan Android &gt; Akun.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Ketuk untuk masuk ke Firefox Account baru Anda.">
-<!ENTITY fxaccount_status_bookmarks "Markah">
+
 <!ENTITY fxaccount_status_history "Riwayat">
 <!ENTITY fxaccount_status_passwords2 "Info masuk">
 <!ENTITY fxaccount_status_tabs "Tab terbuka">
