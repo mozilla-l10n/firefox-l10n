@@ -35,6 +35,3 @@ HSTSကို အသုံးပြုသည်။  ရလဒ်အားဖြ�
 <!ENTITY certerror.copyToClipboard.label "စာကို ကလစ်ဘုတ်သို့ ကူးပါ">
 
 <!ENTITY errorReporting.automatic "မှားယွင်းချိန်ညှိထားသည့် ဝဘ်ဆိုက်များကို မော်ဇီလာက ခွဲခြားသတ်မှတ်ရာတွင် ကူညီရန် ယခုကိစ္စကဲ့သို့သော အမှားများကို အကြောင်းကြားပေးပို့ပါ။">
-<!ENTITY errorReporting.sending "အစီရင်ခံစာကို ပေးပို့နေသည်">
-<!ENTITY errorReporting.sent "အစီရင်ခံစာကို ပေးပို့ပြီးပြီ">
-<!ENTITY errorReporting.tryAgain "ထပ်ကြိုးစားကြည့်ပါ">

@@ -130,20 +130,6 @@ installed.</li>
 အားအင်တာနက်သို့ဆက်သွယ်မှူ ပါမစ်ခွင့်ပြုပေးထားလားစစ်ပါ။</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "သံသယ ဖြစ်ဖွယ် တိုက်ခိုက်တဲ့ ကွန်ရက်။">
-<!ENTITY malwareBlocked.longDesc "<p>တိုက်ခိုက်ခံထားရသော၀တ်ဆိုက်များသည်သင့်ကွန်ပျူတာအားအသုံးပြုပြီးအခြားသူများအားတိုက်ခိုက်တတ်သောပရိုဂရမ်များကိုထည့်သွင်းတတ်သည်။</p> 
-<p>တိုက်ခိုက်ခံဆိုက်များမှာပိုင်ရှင်များအနေဖြင့်၄င်းတို့၀တ်ဆိုက်အားကြည့်ရှူပေးရန် <a href='http://www.stopbadware.org/home/reviewinfo' >ဤတွင်တောင်းဆိုနိုင်သည်။</a></p>">
-
-<!ENTITY unwantedBlocked.title "သံသယရှိသည့် မလိုအပ်သည့်ဆော့ဖ်ဝဲများ ဆိုက်။!">
-<!ENTITY unwantedBlocked.longDesc "<p>မလိုအပ်သည့် ဆော့ဖ်ဝဲ စာမျက်နှာများသည် သင့်စနစ်ကို ပုံမှန်မလည်ပတ်စေရန် ဆောင်ရွက်စေသည့် ဆော့ဖ်ဝဲများ တပ်ဆင်ရန် ကြိုးစားကြသည်။</p>">
-
-<!ENTITY phishingBlocked.title "သံသယဖြစ်ဖွယ် ကွန်ရက်တု။">
-<!ENTITY phishingBlocked.longDesc "<p>Entering any personal information on this page may result in identity theft or other fraud.</p> 
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
-
-<!ENTITY forbiddenBlocked.title "တားမြစ်ထားသည့် ဝဘ်ဆိုက်">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; သည် ဒီစာမျက်နှာကို ခေါ်တင်ခြင်းမှ ကာကွယ်ထားသည်။ အဘယ့်ကြောင့်ဆိုသော် ထိုစာမျက်နှာကို ပိတ်ပင်ရန် စီမံထားသောကြောင့် ဖြစ်သည်။</p>">
-
 <!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "မလိုတမာဝဘ်ဆိုက်များကို မော်ဇီလာက ခွဲခြားသတ်မှတ်ရာတွင်နှင့် ပိတ်ပင်တားဆီးရာတွင် ကူညီရန် ယခုကိစ္စကဲ့သို့သော အမှားများကို အကြောင်းကြားပေးပို့ပါ။">
 <!ENTITY errorReporting.learnMore "ပိုမို လေ့လာပါ…">
-<!ENTITY errorReporting.sending "အစီရင်ခံစာကို ပေးပို့နေသည်">
-<!ENTITY errorReporting.sent "အစီရင်ခံစာကို ပေးပို့ပြီးပြီ">
-<!ENTITY errorReporting.tryAgain "နောက်တစ်ကြိမ် ပြုလုပ်ကြည့်ပါ">
 
 <!ENTITY remoteXUL.title "အားဖယ်ပါ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">

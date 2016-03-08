@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "S">
 <!ENTITY shareVideo.label "s ဤဗီဒီယိုကို မျှဝေမည်">
 <!ENTITY shareVideo.accesskey "s">
-<!ENTITY feedsMenu.label "စာရင်းသွင်း">
-<!ENTITY subscribeToPageMenupopup.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
+
+
 <!ENTITY subscribeToPageMenuitem.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ...">
 <!ENTITY addCurPagesCmd.label "စာအမှတ် အားလုံးကို မှတ်သားပါ...">
 <!ENTITY showAllBookmarks2.label "မှတ်သားချက်များအားလုံးကို ပြသပါ">
+
 <!ENTITY unsortedBookmarksCmd.label "မျိုးတူမစုထားတဲ့ မှတ်သားချက်များ">
 <!ENTITY bookmarksToolbarChevron.tooltip "မှတ်သားချက်များကို ပိုမို ဖေါ်ပြသပါ">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "eချိတ်ဆက်ပါ...">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -407,20 +410,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "အကူအညီမီနူးအားဖွင့်">
 
 <!ENTITY appMenuRemoteTabs.label "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
-<!ENTITY appMenuRemoteTabs.fetching.label "သိမ်းထားသည့် တဗ်များကို ရယူနေသည်…">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "ဖွင့်ထားသည့်တဗ်များ မရှိပါ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "သင့်အခြား ကိရိယာများမှ တဗ်စာရင်းကို ကြည့်ရန် တဗ်ထပ်တူပြုအသုံးပြုခြင်းကို ဖွင့်ပါ။">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "သင့်အခြားကိရိယာများရှိ တဗ်များကို ဒီမှာကြည့်ရန် ထိုကိရိယာများရှိ မီးမြေခွေးသို့ ဝင်ရောက်ပါ။">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ထပ်တူပြုပြိုင်တူအသုံးပြုရန် ရွေးချယ်နိုင်သည်များ">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "သင့်အခြားကိရိယာများရှိ တဗ်စာရင်းကို ကြည့်ရန် ဝင်ရောက်ပါ။">
+
 <!ENTITY appMenuRemoteTabs.signin.label "တပြေးညီဖြစ်စေရန် ဝင်ရောက်ပါ">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Aတူးဘားသို့ပေါင်းထည့်">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -527,6 +528,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Wဝင်းဒိုးအသစ်တွင်ဖွင့်ပါ">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Sဒီဘောင်ကိုပဲ ပြပါ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -741,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "ပြီးသွားပြီ">
-<!ENTITY editBookmark.cancel.label                   "ပယ်​ဖျက်ပါ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "လုံခြုံသော ချိတ်ဆက်မှု">
@@ -775,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "ပိုမို လေ့လာပါ">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "အချက်အလက် ပိုမိုကြည့်ရန်">
 
 <!ENTITY identity.permissions "ပါမစ်ရှင်များ">
@@ -783,9 +787,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "မီးမြေခွေးရှိဝတ်စာမျက်နှာများ">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu3.label     "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 
@@ -823,7 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "&brandShortName; သို့ ထည့်ရန် ဆားဗစ်တစ်ခုပေါ်မှာ ကလစ်နှိပ်ပါ။">
 <!ENTITY social.directory.viewmore.text "ပို၍ ကြည့်ရန်">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; အားပြုပြင်မည်">
 <!ENTITY customizeMode.menuAndToolbars.header2 "ထပ်ပေါင်းထည့်ထားသော တူးလ်များနှင့် လုပ်ဆောင်ချက်များ">
 <!ENTITY customizeMode.menuAndToolbars.empty "နောက်ထပ် တူးလ်များလိုသေးလား ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "မြောက်မြားစွာသော အတ်အွန်များထဲမှ ရွေးပါ">
@@ -929,7 +945,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM အကြောင်း ပိုမိုလေ့လာပါ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "ယခု Nမဟုတ်သေးဘူး">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "Dနောက်တစ်ကြိမ်မမေးပါနှင့်">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
