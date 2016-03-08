@@ -162,11 +162,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "Aba Bidio e">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "Ikwadise">
-<!ENTITY subscribeToPageMenupopup.label "Ikwadise mo Tsebeng e">
+
+
 <!ENTITY subscribeToPageMenuitem.label "Ikwadise mo Tsebeng e...">
 <!ENTITY addCurPagesCmd.label "Ikwadise mo Tsebeng e...">
 <!ENTITY showAllBookmarks2.label "Supa Matshwaotsebe Otlhe">
+
 <!ENTITY unsortedBookmarksCmd.label "Matshwaotsebe a sa Tlhaolwang">
 <!ENTITY bookmarksToolbarChevron.tooltip "Supa matshwaotsebe a le mantsi">
 
@@ -250,6 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Gokaganya">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -412,6 +415,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "Tsenya ko Bara ya didiriswa">
 <!ENTITY customizeMenu.addToToolbar.accesskey "T">
 <!ENTITY customizeMenu.addToPanel.label "Tsenya ko Menu">
@@ -516,6 +520,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Bula Foreime mo Window e Ntšha">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Bula Foreime mo Fensetereng e Ntšha">
 <!ENTITY showOnlyThisFrameCmd.accesskey "F">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -730,7 +736,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "T">
 
 <!ENTITY editBookmark.done.label                     "Feditse">
-<!ENTITY editBookmark.cancel.label                   "Khansela">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Kgolagano e Sireletsegileng">
@@ -764,6 +769,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "T">
 <!ENTITY identity.learnMore "Ithute mo go Tseneletseng">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "Tshedimosetso e Tletseng">
 
 <!ENTITY identity.permissions "Ditetla">
@@ -772,7 +779,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Dithebe tsa Sebatli">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Rulaganya ka tsamaisano">
 
@@ -809,7 +829,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Tobetsa mo tirelong go e tsenya mo &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Leba go le Gontsi">
 
-<!ENTITY customizeMode.tabTitle "tshwanedisa &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Tlaleletso Didiriswa le Dikokoanyo tsa dirweboleta">
 <!ENTITY customizeMode.menuAndToolbars.empty "O batla didirisiwa tse dintsi?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Tlhopha go tswa mo Diketeng tsa Dioketswa">
@@ -915,7 +934,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ithute thata ka DRM...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Eseng gone jaana">
-<!ENTITY emeNotificationsNotNow.accesskey         "E">
-<!ENTITY emeNotificationsDontAskAgain.label       "O seka wa mpotsa gape">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "O">

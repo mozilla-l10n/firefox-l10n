@@ -69,19 +69,6 @@
 <li>Fa okile wa atlega mo go ikgolaganyeng le sefara e, phoso ekatswa ele ya nakwana,kajalo o ka leka gape moragonyana.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Saete ya Tlhaselo e Belaesegang!">
-<!ENTITY malwareBlocked.longDesc "<p>Disaete tsa Tlhaselo di leka go tsenya porokeramo e utswang tshedimosetso e porokeramo, go dirisa khomputara ya gago go tlhasela ba bangwe, kgotsa go senya thulaganyo ya gago.</p> 
-<p>Beng ba di webosaete ba ba dumelang fa saete ya bone e begilwe e le saete ya tlhaselo mo phosong baka <a href='http://www.stopbadware.org/home/reviewinfo' >kopa tshekatsheko</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Pelaelo ya Serweboleta se sa Batliweng mo setsheng!">
-<!ENTITY unwantedBlocked.longDesc "<p>Tsebe ya serweboleta e sa batliweng e leka go tsenya serweboleta se seka nna le tsietso le go ama thulaganyo ka tsela e sa solofelwang.</p>">
-
-<!ENTITY phishingBlocked.title "Togo Maaka ya Webo e Belaesegang!">
-<!ENTITY phishingBlocked.longDesc "<p>Go tsenya tshedimosetso ka gagago mo tsebeng e go ka gwetlha bogodu jwa jwa tshedimosetso ya sephiri kgotsa metlhale e mengwe ya tsietso.</p> 
-<p>Mefuta e ya bogodu jwa webo e dirisiwa mo burukuthing jo bo itseweng ele tlhaselo ya ngokelothaelong,mo go dirisiwang ditsebe tsa webo tse eseng tsa boammaaruri le diImeile di dirisiwa go itira metswedi e o e tshephang.</p>">
-
-
-
 
 
 <!ENTITY cspBlocked.title "Go thibetswe ke molao wa tshireletso ya diteng">
