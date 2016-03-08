@@ -130,20 +130,6 @@
 ตรวจสอบให้แน่ใจว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บได้</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "เว็บนี้ต้องสงสัยว่าจะเป็นเว็บไซต์ที่จ้องโจมตี!">
-<!ENTITY malwareBlocked.longDesc "<p>เว็บไซต์ที่จ้องโจมตีจะพยายามติดตั้งโปรแกรมที่จะขโมยข้อมูลส่วนตัวของคุณ ใช้คอมพิวเตอร์ของคุณในการโจมตีผู้อื่น รวมไปถึงทำลายระบบของคุณ</p> 
-<p>เจ้าของเว็บไซต์ที่มั่นใจว่าเว็บไซต์ของตนถูกรายงานว่าเป็นเว็บไซต์ที่จ้องโจมตีด้วยความผิดพลาด สามารถ<a href='http://www.stopbadware.org/home/reviewinfo' >ร้องขอ</a>ให้มีการตรวจสอบใหม่ได้</p>">
-
-<!ENTITY unwantedBlocked.title "เว็บไซต์ต้องสงสัยว่ามีซอฟต์แวร์ที่ไม่พึงประสงค์!">
-<!ENTITY unwantedBlocked.longDesc "<p>หน้าที่มีซอฟต์แวร์ที่ไม่ต้องการพยายามจะติดตั้งซอฟต์แวร์ที่สามารถหลอกลวงและส่งผลกระทบกับระบบของคุณในทางที่ไม่คาดหวัง</p>">
-
-<!ENTITY phishingBlocked.title "เว็บนี้ต้องสงสัยว่าเป็นเว็บลอกเลียน!">
-<!ENTITY phishingBlocked.longDesc "<p>การกรอกข้อมูลส่วนตัวใด ๆ ในหน้าเว็บไซต์นี้อาจจะทำให้อัตลักษณ์ของคุณถูกขโมยหรือนำไปใช้ในทางที่ผิดได้โดยง่าย</p> 
-<p>เว็บลอกเลียนลักษณะนี้จะเป็นการใช้เล่ห์อุบายล่อหลอกคุณด้วยหน้าเว็บไซต์หรืออีเมลที่คุณอาจจะเชื่อถือ</p>">
-
-<!ENTITY forbiddenBlocked.title "เว็บไซต์ที่ไม่อนุญาต">
-
-
 <!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ป้องกันการโหลดหน้านี้เพราะว่ามีเนื้อหาที่ขัดกับนโยบายความปลอดภัยของเนื้อหา</p>">
 
@@ -166,9 +152,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "เรียนรู้เพิ่มเติม…">
-<!ENTITY errorReporting.sending "กำลังส่งรายงาน">
-<!ENTITY errorReporting.sent "รายงานถูกส่งแล้ว">
-<!ENTITY errorReporting.tryAgain "ลองอีกครั้ง">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>กรุณาติดต่อเจ้าของเว็บไซต์เพื่อแจ้งปัญหานี้</li></ul></p>">
