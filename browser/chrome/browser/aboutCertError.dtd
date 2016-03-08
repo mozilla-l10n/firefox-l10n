@@ -35,6 +35,3 @@ vet att det finns en bra anledning till varför webbplatsen inte använder en be
 <!ENTITY certerror.copyToClipboard.label "Kopiera text till urklipp">
 
 <!ENTITY errorReporting.automatic "Rapportera fel som detta för att hjälpa Mozilla identifiera felkonfigurerade webbplatser">
-<!ENTITY errorReporting.sending "Skickar rapport">
-<!ENTITY errorReporting.sent "Rapport skickad">
-<!ENTITY errorReporting.tryAgain "Försök igen">

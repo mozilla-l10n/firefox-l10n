@@ -130,20 +130,6 @@ nätverksanslutning.</li>
 att &brandShortName; har tillstånd att ansluta till webben.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Misstänkt skadlig webbplats!">
-<!ENTITY malwareBlocked.longDesc "<p>Skadliga webbplatser försöker installera program för att stjäla privata uppgifter, använda din dator för att angripa andras, eller för att skada ditt system.</p> 
-<p>Ägare till webbplatser som anser att deras webbplats felaktigt har rapporterats som skadlig kan <a href='http://www.stopbadware.org/home/reviewinfo'>begära en omprövning</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Misstänkt webbplats för oönskad programvara!">
-<!ENTITY unwantedBlocked.longDesc "<p>Oönskade programsidor försöker installera programvara som kan vara vilseledande och påverka ditt system på oväntade sätt.</p>">
-
-<!ENTITY phishingBlocked.title "Misstänkt webbförfalskning!">
-<!ENTITY phishingBlocked.longDesc "<p>Personliga uppgifter som lämnas på den där sidan kan resultera i identitetsstöld eller annat bedrägeri.</p> 
-<p>Den här typen av webbförfalskningar används i något som kallas nätfiske där falska webbsidor och e-postmeddelanden används för att imitera källor du kanske litar på.</p>">
-
-<!ENTITY forbiddenBlocked.title "Förbjuden webbplats">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; förhindrade den här sidan från att laddas eftersom den är konfigurerad att blockera den.</p>">
-
 <!ENTITY cspBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; förhindrade sidan från att öppnas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Rapportera fel som detta för att hjälpa Mozilla identifiera och blockera skadliga webbplatser">
 <!ENTITY errorReporting.learnMore "Läs mer…">
-<!ENTITY errorReporting.sending "Skickar rapporten…">
-<!ENTITY errorReporting.sent "Rapport skickad">
-<!ENTITY errorReporting.tryAgain "Försök igen">
 
 <!ENTITY remoteXUL.title "Extern XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakta ägaren av webbplatsen för att informera dem om detta problem.</li></ul></p>">
