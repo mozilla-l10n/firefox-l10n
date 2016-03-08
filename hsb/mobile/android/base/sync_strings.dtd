@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Ze &syncBrand.shortName.label; zwjazać">
-<!ENTITY sync.title.adddevice.label "Konto &syncBrand.fullName.label; přidać">
-<!ENTITY sync.title.pair.label "Grat zwjazać">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Zo byšće swój nowy grat aktiwizował, wubjerće “&syncBrand.shortName.label; konfigurować” na graće.">
-<!ENTITY sync.subtitle.header2.label "Zapodajće tutón kod na swojim druhim graće">
-<!ENTITY sync.subtitle.connectlocation2.label "Wubjerće “&sync.title.pair.label;” we wotrězku &syncBrand.shortName.label; w nastajenjach Firefox swojeho druheho grata.">
 <!ENTITY sync.subtitle.pair.label "Za aktiwizowanje wubjerće “Grat zwjazać” na wašim druhim graće.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Pokazać kak.">
-<!ENTITY sync.link.advancedsetup.label "Rozšěrjena konfiguracija…">
 <!ENTITY sync.link.nodevice.label "Nimam grat ze mnu…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Čaka so na druhi grat…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Zapodajće swoje kontowe informacije &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Kontowe mjeno">
-<!ENTITY sync.input.password.label "Hesło">
-<!ENTITY sync.input.key.label "Wobnowjenski kluč">
-<!ENTITY sync.checkbox.server.label "Swójski serwer wužiwać">
-<!ENTITY sync.input.server.label "Serwerowy URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; njeda so konfigurować">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; njeda so ze serwerom zwjazać. Chceće hišće raz spytać?">
-<!ENTITY sync.button.tryagain.label "Hišće raz spytać">
-<!ENTITY sync.button.manual.label "Manuelna konfiguracija">
-<!ENTITY sync.subtitle.nointernet.label "Internetny zwisk k dispoziciji njesteji.">
-<!ENTITY sync.subtitle.failaccount.label "Załoženje konta na wašim graće njeje so poradźiło.">
-<!ENTITY sync.subtitle.failmultiple.label "Sće wjace hač jedyn Firefox instalował? Tuchwilu podpěruje &syncBrand.fullName.label; jednu instalaciju Firefox naraz. Prošu wotinstalujće druhe instancy, zo byšće &syncBrand.shortName.label; wužiwał.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Konfiguracija zakónčena">
-<!ENTITY sync.subtitle.success.label1 "Waše daty so nětko w pozadku sćahuja. Móžeće do nastajenjow hić, zo byšće swoje konto zrjadował, abo započeć z &brandShortName; přehladować.">
-<!ENTITY sync.settings.label "Nastajenja">
-<!ENTITY sync.subtitle.manage.label1 "Waše konto &syncBrand.fullName.label; je hižo připrawjene. Móžeće do nastajenjow hić, zo byšće swoje konto zrjadował abo &brandShortName; startować.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Prošu spytajće hišće raz.">
-<!ENTITY sync.pair.connectlocation.label "Zo byšće swój nowy grat aktiwizował, wubjerće “&syncBrand.shortName.label; konfigurować” na graće a wubjerće potom “Mam konto.”">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Nastajenja">
-<!ENTITY sync.summary.pair.label "Druhi grat z wašim kontom &syncBrand.shortName.label; zwjazać">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Štož ma so synchronizować">
-<!ENTITY sync.configure.engines.sync.my.title.label "Synchronizujće swoje…">
-<!ENTITY sync.configure.engines.title.bookmarks "Zapołožki">
 <!ENTITY sync.configure.engines.title.passwords2 "Přizjewjenja">
 <!ENTITY sync.configure.engines.title.history "Historija">
 <!ENTITY sync.configure.engines.title.tabs "Rajtarki">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Přetorhnyć">
-<!ENTITY sync.button.connect.label "Zwjazać">
-<!ENTITY sync.button.ok.label "W porjadku">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (zestarjeny)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Čitansku lisćinu">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Připjaty">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Jenož jedne konto &syncBrand.fullName.label; so podpěruje.">
-<!ENTITY sync.notification.configure.saved "Waše wuběry su so składowali.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Wopačne kontowe mjeno abo hesło.">
-<!ENTITY sync.invalidserver.label "Prošu zapodajće płaćiwy serwerowy URL">
-<!ENTITY sync.verifying.label "Přepruwuje so…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Wobnowjenski kluč je wopak. Prošu spytajće hišće raz.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Rajtark na graty pósłać">
-<!ENTITY sync.button.send.label "Pósłać">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; konfigurować">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; za słanje rajtarkow konfigurować">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Konfigurujće &syncBrand.fullName.label; na swojim graće, zo byšće rajtarki na druhe graty pósłał.">
 <!ENTITY sync.text.tab.sent.label "Waš rajtark je so pósłał!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-mejl">
-<!ENTITY fxaccount_password_hint "Hesło">
+
 <!ENTITY fxaccount_password_hide "Schować">
 <!ENTITY fxaccount_password_show "Pokazać">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće “Daty awtomatisce synchronizować” w Androidowych nastajenjach &gt; Wužiwanje datow.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće „Daty awtomatisce synchronizować“ w meniju Androidowe nastajenja a konta.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Podótkńće so, zo byšće so pola swojeho noweho konta Firefox přizjewił.">
-<!ENTITY fxaccount_status_bookmarks "Zapołožki">
+
 <!ENTITY fxaccount_status_history "Historija">
 <!ENTITY fxaccount_status_passwords2 "Přizjewjenja">
 <!ENTITY fxaccount_status_tabs "Wočinjene rajtarki">
