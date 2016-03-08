@@ -130,20 +130,6 @@
 प्रवेश मिळेल याची खात्री घ्या.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "संशयास्पद प्रहार स्थळ!">
-<!ENTITY malwareBlocked.longDesc "<p>धोकादायी स्थळ व्यक्तिगत माहिती चोरून प्राप्त करण्याकरीता, आपल्या संगणकाचा वापर इतर संगणकावर दाखलन करीता, किंवा प्रणाली नष्ट करण्याकरीता कार्यक्रम प्रतिष्ठापीत करतात.</p> 
-<p>ज्या संकेत स्थळ मालकांना स्थळ धोकादायी वाटत असल्यास <a href='http://www.stopbadware.org/home/reviewinfo' > पुनरावलोकन करीता विनंती</a> करून त्रुटी दर्शवू शकतात.</p>">
-
-<!ENTITY unwantedBlocked.title "नको असलेली संशयित सॉफ्टवेअर साईट!">
-<!ENTITY unwantedBlocked.longDesc "<p>नको असलेले सॉफ्टवेअर पाने सॉफ्टवेअर प्रस्थापित करण्याचा प्रयत्न करतात जे फसवे असु शकतात आणि आपल्या सिस्टमला विचित्र प्रकारे हानी पोहोचवु शकतात.</p>">
-
-<!ENTITY phishingBlocked.title "संशयास्पद वेब बनावटीकरण!">
-<!ENTITY phishingBlocked.longDesc "<p>अशा पानावर कुठलिही माहिती प्रविष्ट केल्यास आपली ओळख सदोषीत किंवा बनावटी ठरू शकते.</p> 
-<p>या प्रकारच्या वेब बनावटीपण फिशींग प्रहार सारखे घोटळ्यां मध्ये पाहिला जातो, जेथे सदोषीत वेब पान व इमेलचा वापर मुळ व अधिकृत स्त्रोत म्हणून दर्शविला जातो.</p>">
-
-<!ENTITY forbiddenBlocked.title "प्रतिबंधित साइट">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; ने या पानाला लोड होण्यापासून रोखले, कारण तसीच संरचना केली आहे .</p>">
-
 <!ENTITY cspBlocked.title "अंतर्भुत माहिती सुरक्षा धोरणद्वारे रोखले गेले">
 <!ENTITY cspBlocked.longDesc "<p>पानामध्ये अंतर्भुत माहिती सुरक्षा धोरण आढळल्यामुळे &brandShortName;ने पानाला याप्रकारे लोड होण्यापासून रोखले.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Mozilla ला दुर्भावनायुक्त साईट्स ओळखता यावे साठी व त्यांना अवरोधीत करता यावे यासाठी अश्या प्रकारच्या त्रुटी सादर करा">
 <!ENTITY errorReporting.learnMore "आणखी शिका…">
-<!ENTITY errorReporting.sending "अहवाल पाठवत आहे">
-<!ENTITY errorReporting.sent "अहवाल पाठवला">
-<!ENTITY errorReporting.tryAgain "पुन्हा प्रयत्न करा">
 
 <!ENTITY remoteXUL.title "रिमोट XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
