@@ -127,20 +127,6 @@ palaukite ir bandykite prisijungti iš naujo.</li>
 tai įsitikinkite, kad naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Svetainė įtariama kenkėjiškumu!">
-<!ENTITY malwareBlocked.longDesc "<p>Kenkėjiškos svetainės siekia įdiegti programas, vagiančias asmeninius duomenis, naudojančias kompiuterį kitų atakoms ir kenkiančias pačiai sistemai.</p> 
-<p>Svetainių, klaidingai palaikytų kenkėjiškomis, savininkai gali <a href='http://www.stopbadware.org/home/reviewinfo' >paprašyti peržiūros</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Įtariama kenkėjiška svetainė!">
-<!ENTITY unwantedBlocked.longDesc "<p>Kenkėjiškos programinės įrangos tinklalapiai siekia įdiegti apgaulingas programas, kurios gali pakenkti jūsų kompiuteriui.</p>">
-
-<!ENTITY phishingBlocked.title "Svetainė įtariama apgaule!">
-<!ENTITY phishingBlocked.longDesc "<p>Bet kokių asmeninių duomenų įvedimas šiame tinklalapyje gali tapti tapatybės duomenų vagystės ar kitos apgaulės priežastimi.</p> 
-<p>Tokio tipo apgavystės dažniausiai pasitaiko atakose, kuriose, siekiant sudaryti patikimo šaltinio įvaizdį, pasitelkiami apgaulingi tinklalapiai ir elektroniniai laiškai.</p>">
-
-<!ENTITY forbiddenBlocked.title "Uždrausta svetainė">
-<!ENTITY forbiddenBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio, nes nuostatose yra nurodyta jį blokuoti.</p>">
-
 <!ENTITY cspBlocked.title "Užblokuota dėl saugumo politikos">
 <!ENTITY cspBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
 
@@ -164,9 +150,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Pranešdami apie tokias klaidas kaip ši, padėsite „Mozillai“ nustatyti ir užblokuoti kenksmingas svetaines">
 <!ENTITY errorReporting.learnMore "Sužinoti daugiau…">
-<!ENTITY errorReporting.sending "Siunčiamas pranešimas">
-<!ENTITY errorReporting.sent "Pranešimas išsiųstas">
-<!ENTITY errorReporting.tryAgain "Bandyti dar kartą">
 
 <!ENTITY remoteXUL.title "XUL iš tinklo">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul></p>">

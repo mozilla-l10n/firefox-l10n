@@ -72,20 +72,6 @@
 <li>Jei prie šio serverio sėkmingai jungtėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Svetainė įtariama kenkėjiškumu!">
-<!ENTITY malwareBlocked.longDesc "<p>Kenkėjiškos svetainės siekia įdiegti programas, vagiančias asmeninius duomenis, naudojančias kompiuterį kitų atakoms ir kenkiančias pačiai sistemai.</p> 
-<p>Svetainių, klaidingai palaikytų kenkėjiškomis, savininkai gali <a href='http://www.stopbadware.org/home/reviewinfo' >paprašyti peržiūros</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Įtariama kenkėjiška svetainė!">
-<!ENTITY unwantedBlocked.longDesc "<p>Kenkėjiškos programinės įrangos tinklalapiai siekia įdiegti apgaulingas programas, kurios gali pakenkti jūsų kompiuteriui.</p>">
-
-<!ENTITY phishingBlocked.title "Svetainė įtariama apgaule!">
-<!ENTITY phishingBlocked.longDesc "<p>Bet kokių asmeninių duomenų įvedimas šiame tinklalapyje gali tapti tapatybės duomenų vagystės ar kitos apgaulės priežastimi.</p> 
-<p>Tokio tipo apgavystės dažniausiai pasitaiko atakose, kuriose apgaulingi tinklalapiai ir el. laiškai pasitelkiami, siekiant sudaryti patikimo šaltinio įvaizdį.</p>">
-
-<!ENTITY forbiddenBlocked.title "Uždrausta svetainė">
-<!ENTITY forbiddenBlocked.longDesc "<p>Naršyklė neleido įkelti šio tinklalapio, nes nuostatose yra nurodyta jį blokuoti.</p>">
-
 <!ENTITY securityOverride.linkText "Arba galite sukurti išimtį…">
 <!ENTITY securityOverride.warningContent "<p>Išimties kurti neturėtumėte, jei naudojatės interneto ryšiu, kuriuo nepasitikite pilnai, arba jei anksčiau nematėte įspėjimo apie šį serverį.</p> 
  <p>Jei vis tiek norite sukurti išimtį šiai svetainei, tai galite padaryti papildomose šifravimo nuostatose.</p>">
