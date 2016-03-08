@@ -5,50 +5,13 @@
      a better place to live. -->
 
 <!-- Main titles. -->
-
-
-
 <!-- J-PAKE Key Screen -->
 
 
 
-
-
-
-
-
-<!-- J-PAKE Waiting Screen -->
-<!-- Account Login Screen -->
-
-
-
-
-
-<!-- Setup Fail -->
-
-
-
-
-
-
-<!-- Setup Success -->
-
-
-
-<!-- Pair Device -->
-
-<!-- Firefox SyncAdapter Settings Screen -->
-
 <!-- Configure Engines -->
 
 
-
-
-
-<!-- Common text -->
-
-
-<!-- Account strings -->
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -63,16 +26,7 @@
 
 
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!-- Notification strings -->
-
-<!-- Incorrect settings and changing credentials. -->
-
-
-
 <!-- Send tab to device. -->
-
-
-
 
 
 

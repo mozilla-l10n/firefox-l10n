@@ -201,6 +201,7 @@
 
 
 
+
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 
@@ -438,7 +439,7 @@ size. -->
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
 
@@ -510,7 +511,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-
 <!-- Updater notifications -->
 
 
@@ -555,9 +555,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -600,4 +597,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
 
