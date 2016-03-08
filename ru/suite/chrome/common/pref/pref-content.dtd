@@ -11,6 +11,9 @@
 <!ENTITY useFavIcons.accesskey "и">
 <!ENTITY enableAutomaticImageResizing.label "Использовать автоматическое изменение размера изображений">
 <!ENTITY enableAutomaticImageResizing.accesskey "з">
+<!ENTITY scrolling.label "Прокрутка">
+<!ENTITY useAutoScroll.label "Использовать автоматическую прокрутку">
+<!ENTITY useAutoScroll.accesskey "а">
 <!ENTITY useSmoothScroll.label "Использовать плавную прокрутку">
 <!ENTITY useSmoothScroll.accesskey "л">
 <!ENTITY allowHWAccel.label "По возможности использовать аппаратное ускорение">
