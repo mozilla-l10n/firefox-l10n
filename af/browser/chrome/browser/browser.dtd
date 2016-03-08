@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "D">
 <!ENTITY shareVideo.label "Deel dié video">
 <!ENTITY shareVideo.accesskey "D">
-<!ENTITY feedsMenu.label "Teken in">
-<!ENTITY subscribeToPageMenupopup.label "Teken in op hierdie bladsy">
+
+
 <!ENTITY subscribeToPageMenuitem.label "Teken in op hierdie bladsy…">
 <!ENTITY addCurPagesCmd.label "Boekmerk alle oortjies…">
 <!ENTITY showAllBookmarks2.label "Wys alle boekmerke">
+
 <!ENTITY unsortedBookmarksCmd.label "Ongeliasseerde boekmerke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wys meer boekmerke">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Koppel…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -405,20 +408,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Open Hulpkieslys">
 
 <!ENTITY appMenuRemoteTabs.label "Gesinkroniseerde oortjies">
-<!ENTITY appMenuRemoteTabs.fetching.label "Verkry tans gesinkroniseerde oortjies…">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Geen oop oortjies nie">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Skakel oortjiesinkronisering aan om 'n lys oortjies op ander toestelle te sien.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Meld aan by Firefox vanaf ander toestelle om hulle oortjies hier te sien.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-voorkeure">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Meld aan om 'n lys oortjies op ander toestelle te sien.">
+
 <!ENTITY appMenuRemoteTabs.signin.label "Meld aan by Sync">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Voeg by nutsbalk">
 <!ENTITY customizeMenu.addToToolbar.accesskey "V">
@@ -525,6 +526,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "o">
 <!ENTITY openFrameCmd.label           "Open raam in nuwe venster">
 <!ENTITY openFrameCmd.accesskey       "v">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Vertoon net hierdie raam">
 <!ENTITY showOnlyThisFrameCmd.accesskey "r">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -739,7 +742,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "V">
 
 <!ENTITY editBookmark.done.label                     "Klaar">
-<!ENTITY editBookmark.cancel.label                   "Kanselleer">
 
 
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
@@ -773,6 +775,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Meer inligting">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "Meer inligting">
 
 <!ENTITY identity.permissions "Toestemming">
@@ -781,9 +785,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Blaaieroortjies">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu3.label     "Gesinkroniseerde oortjies">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -821,7 +838,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Klik op 'n diens om dit by &brandShortName; te voeg.">
 <!ENTITY social.directory.viewmore.text "Sien meer">
 
-<!ENTITY customizeMode.tabTitle "Pasmaak &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Addisionele gereedskap en funksies">
 <!ENTITY customizeMode.menuAndToolbars.empty "Lus vir meer gereedskap?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies uit duisende byvoegings">
@@ -927,7 +943,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Meer inligting oor DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Nie nou nie">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "Moenie my weer vra nie">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "M">
