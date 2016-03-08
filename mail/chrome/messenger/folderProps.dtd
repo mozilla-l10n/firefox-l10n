@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "P">
 <!ENTITY retentionKeepRecent.label "Dileu pob un heblaw'r mwyaf diweddar">
 <!ENTITY retentionKeepRecent.accesskey "l">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Dileu pob neges wedi'i ddarllen (gwrthwneud gosodiadau oed)">
 <!ENTITY retentionApplyToFlagged.label "Cadw negeseuon serennog pob tro">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 
