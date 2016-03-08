@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>As páginas de ataque tentam instalar programas que roubam a sua informação privada, usam o seu computador para atacar outros, ou danificam o seu sistema.</p><p>Algumas páginas de ataque distribuem de forma intencional software malicioso, mas muitas são comprometidas sem o conhecimento ou autorização aos seus proprietários.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Esta página web <span id='phishing_sitename'/> foi reportada como um site enganoso e foi bloqueada com base nas suas preferências de segurança.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "Reportado como site de software indesejado!">
