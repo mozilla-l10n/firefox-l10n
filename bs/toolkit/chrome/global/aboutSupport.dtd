@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Omogućeni plugini">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfiguracija verzije">
 <!ENTITY aboutSupport.appBasicsUserAgent "Korisnički agent">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Upotreba memorije">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 

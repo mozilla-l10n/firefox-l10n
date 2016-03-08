@@ -72,20 +72,6 @@
 <li>Ako ste se u prošlosti uspješno povezivali sa serverom, ova greška može biti privremena, te stoga pokušajte ponovo kasnije.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Sumnja se na napadačku stranicu!">
-<!ENTITY malwareBlocked.longDesc "<p>Napadačke stranice pokušavaju instalirati programe koji kradu privatne informacije, koriste vaš računar da napadnu druge ili štete vašem sistemu.</p> 
-<p>Vlasnici web stranica koji vjeruju da je njihova stranica greškom prijavljena kao napadačka mogu <a href='http://www.stopbadware.org/home/reviewinfo' >zahtijevati pregled</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Stranica s potencijalno neželjenim softverom!">
-<!ENTITY unwantedBlocked.longDesc "<p>Stranice s neželjenim softverom pokušavaju instalirati softver koji može prevariti korisnike i uticati na vaš sistem na nepredvidiv način.</p>">
-
-<!ENTITY phishingBlocked.title "Sumnja se na Web krivotvorinu!">
-<!ENTITY phishingBlocked.longDesc "<p>Unošenje bilo kakvih ličnih podataka na ovu stranicu može dovesti do krađe identiteta ili neke druge prevare.</p> 
-<p>Ovi tipovi web krađa se koriste u prevarama poznatim kao phishing napadi, kod kojih se lažne web stranice i emailovi koriste da oponašaju izvore kojima vjerujete.</p>">
-
-<!ENTITY forbiddenBlocked.title "Zabranjena stranica">
-<!ENTITY forbiddenBlocked.longDesc "<p>Browser je spriječio učitavanje ove stranice jer je konfigurisan da je blokira.</p>">
-
 <!ENTITY securityOverride.linkText "Ili možete dodati izuzetak…">
 <!ENTITY securityOverride.warningContent "<p>Ne biste trebali dodati izuzetak ukoliko koristite internet konekciju u koju nemate puno povjerenje ili ako nije uobičajeno da vidite upozorenja za ovaj server.</p> 
 <p>Ukoliko ipak želite dodati izuzetak za ovu stranicu to možete učiniti u vašim naprednim postavkama za enkripciju.</p>">

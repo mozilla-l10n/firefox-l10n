@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Vodi me odavde!">
 <!ENTITY safeb.palm.decline.label "Ignoriši ovo upozorenje">
-<!ENTITY safeb.palm.notforgery.label2 "Ovo nije Web krivotvorina…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.reportPage.label "Zašto je ova stranica blokirana?">
 <!ENTITY safeb.palm.whyForbidden.label "Zašto je ova stranica blokirana?">
 
@@ -18,10 +18,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Ova web stranica na <span id='unwanted_sitename'/> je prijavljena da sadrži neželjeni softver i blokirana je na osnovu vaših sigurnosnih postavki.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Stranica sa neželjenim softverom je pokušala instalirati softver koji može biti obmanjujući i uticati na vaš sistem na neočekivane načine.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Prijavljena Web krivotvorina!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Ova web stranica na <span id='phishing_sitename'/> je prijavljena kao web krivotvorina i blokirana je na osnovu vaših sigurnosnih postavki.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web krivotvorine su napravljene kako bi vas navele da otkrijete lične ili finansijske podatke tako što oponašaju stranice kojima vjerujete.</p><p>Unos podataka na ovoj stranici može za posljedicu imati krađu identiteta ili neku drugu prevaru.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Blokirane stranice">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

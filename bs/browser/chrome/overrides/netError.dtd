@@ -130,20 +130,6 @@ računara.</li>
 &brandShortName; ima dozvoljen pristup Webu.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Sumnja se na napadačku stranicu!">
-<!ENTITY malwareBlocked.longDesc "<p>Napadačke stranice pokušavaju instalirati programe koji kradu privatne informacije, koriste vaš računar da napadnu druge ili štete vašem sistemu.</p> 
-<p>Vlasnici web stranica koji vjeruju da je njihova stranica greškom prijavljena kao napadačka mogu <a href='http://www.stopbadware.org/home/reviewinfo' >zahtijevati pregled</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Sumnjamo na stranicu sa neželjenim softverom!">
-<!ENTITY unwantedBlocked.longDesc "<p>Stranice sa neželjenim softverom pokušavaju instalirati softver koji može biti obmanjujući te uticati na vaš sistem na neočekivane načine.</p>">
-
-<!ENTITY phishingBlocked.title "Sumnja se na Web krivotvorinu!">
-<!ENTITY phishingBlocked.longDesc "<p>Unošenje bilo kakvih ličnih podataka na ovu stranicu može dovesti do krađe identiteta ili neke druge prevare.</p> 
-<p>Ovi tipovi web krađa se koriste u prevarama poznatim kao phishing napadi, kod kojih se lažne web stranice i emailovi koriste da oponašaju izvore kojima vjerujete.</p>">
-
-<!ENTITY forbiddenBlocked.title "Zabranjena stranica">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; je spriječio učitavanje ove stranice jer je konfigurisan da je blokira.</p>">
-
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je spriječio učitavanje stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Prijavite greške poput ove da biste pomogli Mozilli da identifikuje i blokira opasne stranice">
 <!ENTITY errorReporting.learnMore "Saznajte više…">
-<!ENTITY errorReporting.sending "Šaljem izvještaj">
-<!ENTITY errorReporting.sent "Izvještaj poslat">
-<!ENTITY errorReporting.tryAgain "Pokušaj ponovo">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Molimo da obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">
