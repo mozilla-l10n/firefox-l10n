@@ -220,6 +220,7 @@
 
 
 
+
 <!ENTITY pref_donottrack_title "தடமறிய வேண்டாம்">
 <!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என தெரிவிக்கும்">
 
@@ -444,7 +445,6 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "முழுத்திரை உலாவல்">
 
 
-<!ENTITY pref_tab_queue_title2 "பல இணைப்புகளைத் திற">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -518,10 +518,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "இந்த பலகத்தில் எந்த உள்ளடக்கமும் காணப்படவில்லை.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "&formatS; க்கு மேல்">
 
 <!ENTITY home_remote_tabs_title "ஒத்திசைக்கப்பட்ட தத்தல்கள்">
 <!ENTITY home_remote_tabs_empty "மற்ற சாதனங்களின் கீற்றுகள் இங்கே தோன்றும்.">
@@ -613,8 +611,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "&formatS2; க்காக &formatS1; ஐ தேடு">
 
-<!ENTITY webapp_generic_name "பயன்பாடு">
-
 <!ENTITY searchable_description "புத்தகக்குறிகள் மற்றும் வரலாறு">
 <!-- Updater notifications --> 
 
@@ -679,11 +675,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "கடைசி ஒத்தசைவு: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "கடைசி ஒத்திசைவு: இல்லை">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "அஆ">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -726,4 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
 

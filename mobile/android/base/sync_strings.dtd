@@ -8,71 +8,16 @@
 <!ENTITY syncBrand.shortName.label "ஒத்திசை">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label;-ஐ இணை">
-<!ENTITY sync.title.adddevice.label "ஒரு கணக்கை &syncBrand.fullName.label; சேர்">
-<!ENTITY sync.title.pair.label "ஒரு சாதனத்தை இணைசேர்">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "உங்களுடைய புதிய சாதனத்தை செயற்ப்படுத்த, சாதனத்தினுள் “&syncBrand.shortName.label;ஐ அமை” ஐ தேர்ந்தெடுக்கவும்.">
-<!ENTITY sync.subtitle.header2.label "இந்த குறியீட்டை உங்களின் மற்றொரு சாதனத்தில் தட்டவும்">
-<!ENTITY sync.subtitle.connectlocation2.label "உங்களுடைய இன்னொரு பயர்பாக்ஸ் கருவியின் &syncBrand.shortName.label; இல் உள்ள “&sync.title.pair.label;” இ தேர்வுசெய்யவும்.">
 <!ENTITY sync.subtitle.pair.label "செயல்படுத்த, உங்கள் மற்ற சாதனத்தில் “ஒரு சாதனத்தை இணைசேர்” என்பதைத் தேர்ந்தெடுக்கவும்.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "எவ்வாறு என எனக்கு காட்டு.">
-<!ENTITY sync.link.advancedsetup.label "மேம்பட்ட அமைப்புகள்...">
 <!ENTITY sync.link.nodevice.label "என்னிடம் சாதனம் இல்லை...">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "மற்றொரு சாதனத்துக்காக காத்திருக்கவும்...">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "உங்கள் கணக்கின் விவரங்களை &syncBrand.fullName.label; உள்ளீடவும்">
-<!ENTITY sync.input.username.label "கணக்கு பெயர்">
-<!ENTITY sync.input.password.label "கடவுச்சொல்">
-<!ENTITY sync.input.key.label "மீட்பு விசை">
-<!ENTITY sync.checkbox.server.label "ஒரு தனிபயன் சேவையகத்தை பயன்படுத்து">
-<!ENTITY sync.input.server.label "சேவையகத்தின் URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "&syncBrand.shortName.label;-ஐ அமைக்கமுடியவில்லை">
-<!ENTITY sync.subtitle.fail.label "சேவையகத்தை இணைக்கு முடியவில்லை &syncBrand.fullName.label;. மறுபடியும் முயற்ச்சிக்க விருப்பமா?">
-<!ENTITY sync.button.tryagain.label "மீண்டும் முயற்சிக்கவும்">
-<!ENTITY sync.button.manual.label "கைமுறை அமைப்பு">
-<!ENTITY sync.subtitle.nointernet.label "இணைய இணைப்பு இல்லை.">
-<!ENTITY sync.subtitle.failaccount.label "உங்களுடைய சாதனத்தில் கணக்கை தோற்றுவிக்க முடியவில்லை.">
-<!ENTITY sync.subtitle.failmultiple.label "உங்களிடம் ஒன்றுக்கும் மேற்பட்ட பயர்பாக்ஸ் உள்ளதா? தற்சமயம், &syncBrand.fullName.label; ஒரேயொரு நிறுவலை மட்டுமே ஆதரிக்கும். &syncBrand.shortName.label; ஐ பயன்படுத்த தயவுசெய்து மற்ற நிறுவல்களை நீக்குக.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "அமைவு முடிந்தது">
-<!ENTITY sync.subtitle.success.label1 "உங்கள் தரவு பின்னணியில் பதிவிறக்கப்படுகிறது. நீங்கள் அமைப்புக்கு சென்று உங்கள் கணக்கை நிர்வகிக்கலாம் அல்லது &brandShortName; உடன் உங்கள் உலாவலை தொடங்கலாம்.">
-<!ENTITY sync.settings.label "அமைப்புகள்">
-<!ENTITY sync.subtitle.manage.label1 "உங்களுடைய கணக்கு &syncBrand.fullName.label; அமைக்கப்பட்டது. நீங்கள் அமைப்புகளுக்கு சென்று கணக்கை நிர்வகி அல்லது &brandShortName; துவக்கு.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "மீண்டும் முயற்சிக்கவும்.">
-<!ENTITY sync.pair.connectlocation.label "உங்களுடைய புதிய சாதனத்தை செயற்படுத்த, பின்வருவனவற்றை “&syncBrand.shortName.label;ஐ அமை” சாதனத்தினுள் தேர்ந்தெடுக்கவும் “என்னிடம் எற்கனவே கணக்கு இருக்கு.“">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "தேர்வுகள்">
-<!ENTITY sync.summary.pair.label "மற்றொரு சாதனத்தை உங்களின் &syncBrand.shortName.label; கணக்கில் இணைக்கவும்">
 <!-- Configure Engines -->
-
-<!ENTITY sync.configure.engines.title.label "எதை ஒத்திசைக்க">
-<!ENTITY sync.configure.engines.sync.my.title.label "உங்களுடைய ஒத்திசைவு...">
-<!ENTITY sync.configure.engines.title.bookmarks "புத்தகக்குறிகள்">
-
 <!ENTITY sync.configure.engines.title.history "வரலாறு">
 <!ENTITY sync.configure.engines.title.tabs "கீற்றுகள்">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "ரத்து">
-<!ENTITY sync.button.connect.label "இணை">
-<!ENTITY sync.button.ok.label "சரி">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (நடப்பில் இல்லை)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +37,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "படிக்கும் பட்டியல்">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "நிலைநிறுத்தப்பட்டது">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "ஒரே ஒரு கணக்கு தான் &syncBrand.fullName.label; ஆதரிக்கப்பட்டது.">
-<!ENTITY sync.notification.configure.saved "தங்களின் தெறிவுகள் சேமிக்கப்பட்டது.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "தவறான கணக்கு பெயர் அல்லது கடவுச்சொல்.">
-<!ENTITY sync.invalidserver.label "சரியான சேவையக URL-ஐ உள்ளிடவும்">
-<!ENTITY sync.verifying.label "சரிபார்க்கிறது...">
-<!ENTITY sync.new.recoverykey.status.incorrect "மீட்பு சாவி தவறானது. மீண்டும் முயற்ச்சிக்கவும்.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "கீற்றை சாதனங்களுக்கு அனுப்பவும்">
-<!ENTITY sync.button.send.label "அனுப்பு">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label;-ஐ அமை">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; அமைவை தாவல்களுக்கு அனுப்பவும்">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "உங்கள் சாதனத்தின் &syncBrand.fullName.label; அமைவு கீற்றுகளை மற்ற சாதனங்களுக்கு அனுப்பவும்.">
 <!ENTITY sync.text.tab.sent.label "உங்களுடைய கீற்று அனுப்பப்பட்டது!">
@@ -123,7 +55,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "மின்னஞ்சல்">
-<!ENTITY fxaccount_password_hint "கடவுச்சொல்">
+
 <!ENTITY fxaccount_password_hide "மறை">
 <!ENTITY fxaccount_password_show "காண்பி">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +143,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஆண்ட்ராய்டு அமைவுகளில் “தானியக்க-ஒத்திசைவு தரவு” &gt; தரவு பயன்பாடுகளுக்கிடையே இடமாறவும்.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஆண்ட்ராய்டு அமைவுகள் &gt; கணக்கு என்பதில் “தானியக்க-ஒத்திசைவு தரவு” மாற்றவும்.">
 <!ENTITY fxaccount_status_needs_finish_migrating "உங்கள் புதிய பயர்பாக்ஸ் கணக்கில் உள்நுழைய தட்டவும்.">
-<!ENTITY fxaccount_status_bookmarks "புத்தகக்குறிகள்">
+
 <!ENTITY fxaccount_status_history "வரலாறு">
 
 <!ENTITY fxaccount_status_tabs "திறந்த கீற்றுகள்">
