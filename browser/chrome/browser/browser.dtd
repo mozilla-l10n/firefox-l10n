@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "श">
 <!ENTITY shareVideo.label "हा व्हिडीओ शेअर करा">
 <!ENTITY shareVideo.accesskey "श">
-<!ENTITY feedsMenu.label "सभासद व्हा">
-<!ENTITY subscribeToPageMenupopup.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या">
+
+
 <!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या...">
 <!ENTITY addCurPagesCmd.label "सर्व टॅब्सला ओळखचिन्ह लावा...">
 <!ENTITY showAllBookmarks2.label "सर्व वाचणखुणा दाखवा">
+
 <!ENTITY unsortedBookmarksCmd.label "विनाक्रम वाचनखुणा">
 <!ENTITY bookmarksToolbarChevron.tooltip "आणखी ओळचिन्ह दर्शवा">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "जोडणी करा…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -407,20 +410,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "मदत मेन्यु उघडा">
 
 <!ENTITY appMenuRemoteTabs.label "ताळमेळीत टॅब्स">
-<!ENTITY appMenuRemoteTabs.fetching.label "ताळमेळ झालेले टॅब्स मिळवित आहे…">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "उघडे टॅब्स नाहीत">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "तुमच्या इतर उपकरणावरुन या उपकरणावर टॅब्स पाहण्यासाठी टॅब सींकींग सक्रीय करा.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "तुमच्या इतर उपकरणावरुन येथे टॅब्स पाहण्यासाठी Firefox मध्ये साइन इन करा.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ताळमेळ प्राधान्यता">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "तुमच्या इतर उपकरणावरुन टॅब्स पाहण्यासाठी साइन इन करा.">
+
 <!ENTITY appMenuRemoteTabs.signin.label "सींक करणयासाठी साइन इन करा">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "साधनपट्टीमध्ये समाविष्ट करा">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -527,6 +528,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "चौकटाला नवीन पटलात उघडा">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "फक्त ही चौकट दाखवा">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -741,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "झाले">
-<!ENTITY editBookmark.cancel.label                   "रद्द करा">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "सुरक्षित जोडणी">
@@ -775,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "आणखी शिका">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "अधिक माहिती">
 
 <!ENTITY identity.permissions "परवानगी">
@@ -783,9 +787,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ब्राउजर टॅब्स्">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu3.label     "ताळमेळीत टॅब्स">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "ताळमेळ">
 
@@ -823,7 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "&brandShortName; मध्ये जोडण्यासाठी एका सेवे वर क्लिक करा.">
 <!ENTITY social.directory.viewmore.text "अधिक पहा">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; पसंतीचे करा">
 <!ENTITY customizeMode.menuAndToolbars.header2 "अगाऊ साधने आणि गुणविशेष">
 <!ENTITY customizeMode.menuAndToolbars.empty "आणखी साधने पाहिजेत?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारो ॲड-ऑन्स् पासून पसंत करा">
@@ -929,7 +945,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM बद्दल अधिक जाणून घ्या…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "आता नको">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "मला पुन्हा विचारू नका (D)">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">

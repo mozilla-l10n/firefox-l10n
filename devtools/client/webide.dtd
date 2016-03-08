@@ -75,9 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
-<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "माझे प्रकल्प">
 <!ENTITY projectPanel_runtimeApps "चालू कालावधी ॲप्स">
@@ -199,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "तुमचे अन्य साधन जर क्यूआर कोड स्कॅन करण्याऐवजी ओळखीची खुण मागत असेल, तर अन्य साधनावर खालील मूल्य कॉपी करा:">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "पॅकेजिंग-पूर्व कमांड लॉग्स">
