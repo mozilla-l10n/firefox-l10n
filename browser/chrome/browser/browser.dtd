@@ -163,12 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "v">
 <!ENTITY shareVideo.label "Deila þessu myndbandi">
 <!ENTITY shareVideo.accesskey "s">
-
-
+<!ENTITY feedsMenu2.label "Gerast áskrifandi að þessari síðu">
+<!ENTITY subscribeToPageMenupopup.label "Gerast áskrifandi að þessari síðu">
 <!ENTITY subscribeToPageMenuitem.label "Gerast áskrifandi að þessari síðu…">
 <!ENTITY addCurPagesCmd.label "Setja flipa í bókamerki…">
 <!ENTITY showAllBookmarks2.label "Sýna öll bókamerki">
-
+<!ENTITY recentBookmarks.label "Nýlega sett í bókamerki">
 <!ENTITY unsortedBookmarksCmd.label "Óröðuð bókamerki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
 
@@ -258,7 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Tengjast…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,18 +411,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Opna hjálparvalmynd">
 
 <!ENTITY appMenuRemoteTabs.label "Samstilltir flipar">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Næ í samstillta flipa…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Engir opnir flipar">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Skráðu þig inn í Firefox frá öðrum tækjum til að skoða þeirra flipa hér.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Samstilla stillingar">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
 <!ENTITY appMenuRemoteTabs.signin.label "Skráðu þig inn í Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Skoða samstillta flipavalmynd">
 
 <!ENTITY customizeMenu.addToToolbar.label "Bæta við í tækjaslá">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -528,8 +532,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "f">
 <!ENTITY openFrameCmd.label           "Opna ramma í nýjum glugga">
 <!ENTITY openFrameCmd.accesskey       "g">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Opna tengil í nýjum innihaldsflipa">
+<!ENTITY openLinkCmdInContainerTab.accesskey "i">
 <!ENTITY showOnlyThisFrameCmd.label     "Sýna einungis þennan ramma">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -777,7 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "H">
 <!ENTITY identity.learnMore "Fræðast meira">
 
-
+<!ENTITY identity.removeCertException.label "Fjarlægja undantekningu">
+<!ENTITY identity.removeCertException.accesskey "r">
 
 <!ENTITY identity.moreInfoLinkText2 "Nánari upplýsingar">
 
@@ -791,17 +796,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Samstilltir flipar">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Samstilltir flipar">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Næ í samstillta flipa…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Skráðu þig inn í Firefox frá öðrum tækjum til að skoða þeirra flipa hér.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Engir opnir flipar">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Opna &syncBrand.shortName.label; stillingar">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Opna þennan flipa">
+<!ENTITY syncedTabs.context.openTab.accesskey               "O">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Setja flipa í bókamerki…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
