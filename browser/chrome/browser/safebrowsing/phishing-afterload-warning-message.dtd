@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "मलाई यहाँबाट बाहिर निकाल्नुहोस्!">
 <!ENTITY safeb.palm.decline.label "यस चेतावनीलाई उपेक्षा गर्नुहोस्">
-<!ENTITY safeb.palm.notforgery.label2 "यो एउटा वेब जालसाजी होइन…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.reportPage.label "यो पृष्ठ किन बन्द गरिएको थियो?">
 <!ENTITY safeb.palm.whyForbidden.label "यो पृष्ठ किन बन्द गरिएको थियो?">
 
@@ -16,8 +16,7 @@
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>नचाहिँदो सफ्टवेयर पृष्ठहरूले जाली र तपाईँको प्रणालीलाई हानी गर्ने सफ्टवेयरहरू स्थापना गर्न सक्छन्।</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "संजाल जालसाजीको सूचना दिइएको!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "निषेधित साइट">

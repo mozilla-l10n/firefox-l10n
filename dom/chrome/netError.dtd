@@ -72,20 +72,6 @@
 <li>यदि तपाईँले पहिला सफलतापूर्वक यो सर्भरसँग जडान गरिसक्नुभएको छ भने यो समस्या अस्थायी हुनसक्छ र तपाईँले केहि समयपछि पुनः प्रयास गर्न सक्नुहुन्छ।</li>
 </ul>">
 
-<!ENTITY malwareBlocked.title "संकास्पद आक्रमण साइट!">
-<!ENTITY malwareBlocked.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p> 
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "शङ्कास्पद नचाहिने सफ्टवेयर साइट!">
-<!ENTITY unwantedBlocked.longDesc "<p>नचाहिँदो सफ्टवेयर पृष्ठहरूले जाली र तपाईँको प्रणालीलाई हानी गर्ने सफ्टवेयरहरू स्थापना गर्न सक्छ।</p>">
-
-<!ENTITY phishingBlocked.title "संकास्पद संजाल जालसाजी!">
-<!ENTITY phishingBlocked.longDesc "<p>व्यक्तिगत जानकारी यो पृष्ठमा राख्नुको नतिजा पहिचानको चोरी वा अन्य छल-कपट हुन सक्छ।</p> 
-<p>यस प्रकारको वेब धोखेबाजी फिसिङ् जस्ता घोटालामा प्रयोग हुन्छ जुनमा नक्कली वेब पृष्ठ र इमेलहरू तपाईँले विश्वास गर्नसक्ने स्रोतहरूको नक्कल गर्नमा प्रयोग गरिन्छ।</p>">
-
-<!ENTITY forbiddenBlocked.title "निषेधित साइट">
-<!ENTITY forbiddenBlocked.longDesc "<p>यो पृष्ठलाई अवरुद्ध गर्न कन्फिगर गरिएकोले ब्राउजरद्वारा यो पृष्ठ लोड हुनबाट रोकिएको छ।</p>">
-
 <!ENTITY securityOverride.linkText "वा तपाईले एउटा अपवाद थप्न सक्नुहुन्छ…">
 <!ENTITY securityOverride.warningContent "<p>यदी यो इन्टरनेट जडानमा तपाईँलाई पुर्ण भरोसा छैन वा यदि तपाईँले पहिले यस किसिमको चेतावनी देख्नुभएको थिएन भने, तपाईँले अपवादमा थप्नु हुँदैन।</p>
 <p>तपाईं अझै पनि यो साइट लागि एक अपवाद थप्न चाहनुहुन्छ भने, तपाईंले आफ्नो उन्नत इन्क्रिप्सन सेटिङमा त्यसो गर्न सक्नुहुन्छ।</p>">

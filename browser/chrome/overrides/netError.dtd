@@ -130,20 +130,6 @@
 &brandShortName; लाई वेब पहुँचको अनुमति छ भन्ने निश्चय गर्नुहोस्।</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "संकास्पद आक्रमण साइट!">
-<!ENTITY malwareBlocked.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p> 
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "शङ्कास्पद तथा अन्वान्छित सफ्टवेयर साइट!">
-<!ENTITY unwantedBlocked.longDesc "<p>नचाहिँदो सफ्टवेयर पृष्ठहरूले जाली र तपाईँको प्रणालीलाई हानी गर्ने सफ्टवेयरहरू स्थापना गर्न सक्छ।</p>">
-
-<!ENTITY phishingBlocked.title "संकास्पद संजाल जालसाजी!">
-<!ENTITY phishingBlocked.longDesc "<p>व्यक्तिगत जानकारी यो पृष्ठमा राख्नुको नतिजा पहिचानको चोरी वा अन्य छल-कपट हुन सक्छ।</p> 
-<p>यस प्रकारको वेब धोखेबाजी फिसिङ् जस्ता घोटालामा प्रयोग हुन्छ जुनमा नक्कली वेब पृष्ठ र इमेलहरू तपाईँले विश्वास गर्नसक्ने स्रोतहरूको नक्कल गर्नमा प्रयोग गरिन्छ।</p>">
-
-<!ENTITY forbiddenBlocked.title "निषेधित साइट">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; ले यो पृष्ठ लोड हुनबाट रोक्यो किनभने यो बन्देज गर्नको लागि कन्फिगर गरिएको थियो। </p>">
-
 <!ENTITY cspBlocked.title "सामग्री सुरक्षा नीति द्वारा अवरुद्ध">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ले यो पृष्ठ लोड हुनबाट यसप्रकारले रोक्यो किनभने यो पृष्ठमा सामग्री सुरक्षा नीति छ जसले यसलाई अस्विकार गर्यो।</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "यो जस्तै त्रुटिहरूको सुचना दिएर Mozilla लाई खराब साइटहरू चिन्न र ब्लक गर्न मदत गर्नुहोस्">
 <!ENTITY errorReporting.learnMore "अझ जान्नुहोस्…">
-<!ENTITY errorReporting.sending "रिपोर्ट पठाउनुहोस्">
-<!ENTITY errorReporting.sent "प्रतिवेदन पठाइयो">
-<!ENTITY errorReporting.tryAgain "पुनः प्रयास गर्नुहोस्">
 
 <!ENTITY remoteXUL.title "दूर XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया यस समस्याको जानकारी गर्न वेबसाइट धनी लाइ सम्पर्क गर्नुहोस ।</li></ul></p>">
