@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "ເຊື່ອມຕໍ່ກັບ &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "ເພີ່ມ &syncBrand.fullName.label; ບັນຊີ">
-<!ENTITY sync.title.pair.label "ຈັບຄູ່ອຸປະກອນ">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "ເພື່ອເປີດໃຊ້ງານອຸປະກອນໃຫມ່ຂອງທ່ານ, ເລືອກ “ຕິດຕັ້ງ &syncBrand.shortName.label;” ໃນອຸປະກອນ.">
-<!ENTITY sync.subtitle.header2.label "ກະລຸນາໃສ່ລະຫັດນີ້ໃນອຸປະກອນອື່ນໆຂອງທ່ານ">
-<!ENTITY sync.subtitle.connectlocation2.label "ເລືອກ “&sync.title.pair.label;” ໃນ &syncBrand.shortName.label; ໃນການເລືອກການຕັ້ງຄ່າໃນອຸປະກອນອື່ນໆຂອງທ່ານ">
 <!ENTITY sync.subtitle.pair.label "ເພື່ອເປີດໃຊ້ງານ, ເລືອກ “ຈັບຄູ່ອຸປະກອນ” ໃນອຸປະກອນອື່ນໆຂອງທ່ານ.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "ສະແດງວິທີ.">
-<!ENTITY sync.link.advancedsetup.label "ການຕັ້ງຄ່າຂັ້ນສູງ...">
 <!ENTITY sync.link.nodevice.label "ຂ້ອຍບໍ່ມີອຸປະກອນຕິດຕົວ…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "ກຳລັງລໍຖ້າອຸປະກອນອື່ນໆ…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "ໃສ່ &syncBrand.fullName.label; ຂໍ້ມູນກ່ຽວກັບບັນຊີຂອງທ່ານ.">
-<!ENTITY sync.input.username.label "ຊື່ບັນຊີ">
-<!ENTITY sync.input.password.label "ລະຫັດຜ່ານ">
-<!ENTITY sync.input.key.label "ຄີສຳລັບການກູ້ຄືນ">
-<!ENTITY sync.checkbox.server.label "ໃຊ້ເຄື່ອງແມ່ຂ່າຍທີ່ກຳນົດເອງ">
-<!ENTITY sync.input.server.label "URL ຂອງເຄື່ອງແມ່ຂ່າຍ">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "ບໍ່ສາມາດຕິດຕັ້ງ &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຄື່ອງແມ່ຂ່າຍໄດ້. ທ່ານຢາກຈະລອງເຊື່ອມຕໍ່ເບິງອີກເທື່ອຫນຶ່ງບໍ່?">
-<!ENTITY sync.button.tryagain.label "ຫລອງໃຫມ່ອີກຄັ້ງ">
-<!ENTITY sync.button.manual.label "ຄູ່ມືການຕິດຕັ້ງ">
-<!ENTITY sync.subtitle.nointernet.label "ບໍ່ມີການເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ.">
-<!ENTITY sync.subtitle.failaccount.label "ການສ້າງບັນຊີໃນອຸປະກອນຂອງທ່ານບໍ່ປະສົບຜົນສໍາເລັດ.">
-<!ENTITY sync.subtitle.failmultiple.label "ທ່ານໄດ້ຕິດຕັ້ງໄຟຟັອກຫລາຍກ່ວາຫນື່ງຫລູ້ນບໍ່? ໃນປະຈຸບັນນີ້, &syncBrand.fullName.label; ສະຫນັບສະນູນການຕິດຕັ້ງໄຟຟັອກພຽງອັນດຽວເທົ່ານັ້ນ. ກະລຸນາຖອນການຕິດຕັ້ງລູ້ນອື່ນເພື່ອໃຊ້ &syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "ການຕິດຕັ້ງເສັດສົມບູນ">
-<!ENTITY sync.subtitle.success.label1 "ຂະນະນີ້ຂໍ້ມູນຂອງທ່ານໄດ້ຖືກກຳລັງດາວໂຫຼດຢູ່ໃນພື້ນຫລັງ. ທ່ານສາມາດໄປຕັ້ງຄ່າເພື່ອຈັດການບັນຊີຂອງທ່ານ, ຫຼື ເລີ່ມຕົ້ນການຄົ້ນຫາດ້ວຍ &brandShortName;.">
-<!ENTITY sync.settings.label "ການຕັ້ງຄ່າ">
-<!ENTITY sync.subtitle.manage.label1 "&syncBrand.fullName.label; ບັນຊີຂອງທ່ານໄດ້ສຳເລັດການສ້າງຕັ້ງແລ້ວ. ທ່ານສາມາດໄປຕັ້ງຄ່າເພື່ອຈັດການບັນຊີຂອງທ່ານ, ຫຼື ເປີດ &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "ກະລຸນາລອງໃຫມ່ອີກຄັ້ງຫນຶ່ງ.">
-<!ENTITY sync.pair.connectlocation.label "ເພື່ອເປີດໃຊ້ງານອຸປະກອນໃຫມ່ຂອງທ່ານ, ເລືອກ “ຕິດຕັ້ງ &syncBrand.shortName.label;” ໃນອຸປະກອນ, ແລະ ຫລັງຈາກນັ້ນໃຫ້ເລືອກ “ຂ້ອຍມີບັນຊີແລ້ວ.”">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "ຕັ້ງຄ່າ">
-<!ENTITY sync.summary.pair.label "ເຊື່ອມຕໍ່ອຸປະກອນອື່ນເຂົ້າໄປຫາບັນຊີຂອງທ່ານ &syncBrand.shortName.label; ">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "ສຶ່ງທີ່ຈະ Sync">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sync ຂອງທ່ານ…">
-<!ENTITY sync.configure.engines.title.bookmarks "ບຸກມາກສ໌">
 <!ENTITY sync.configure.engines.title.passwords2 "ລັອກອິນ">
 <!ENTITY sync.configure.engines.title.history "ປະຫວັດການໃຊ້ງານ">
 <!ENTITY sync.configure.engines.title.tabs "ແທັບ">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "ຍົກເລີກ">
-<!ENTITY sync.button.connect.label "ເຊື່ອມຕໍ່">
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (ຖືກຄັດຄ້ານ)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "ລາຍການການອ່ານ">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "ປັກ">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "ມັນຈະສະຫນັບສະນູນພຽງແຕ່ຫນຶ່ງ &syncBrand.fullName.label; ບັນຊີເທົ່ານັ້ນ.">
-<!ENTITY sync.notification.configure.saved "ການຄັດເລືອກຂອງທ່ານໄດ້ຮັບການບັນທືກແລ້ວ.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "ຊື່ບັນຊີ ຫລື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ.">
-<!ENTITY sync.invalidserver.label "ກະລຸນາໃສ່ URL ຂອງເຄື່ອງແມ່ຂ່າຍທີ່ຖືກຕ້ອງ">
-<!ENTITY sync.verifying.label "ກຳລັງກວດສອບ…">
-<!ENTITY sync.new.recoverykey.status.incorrect "ຄີສຳລັບການກູ້ຄືນບໍ່ຖືກຕ້ອງ. ກະລຸນາລອງໃຫມ່ອີກຄັ້ງຫນຶ່ງ.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "ສົ່ງແທັບໄປຫາອຸປະກອນ">
-<!ENTITY sync.button.send.label "ສົ່ງ">
-<!ENTITY sync.button.set.up.sync.label "ຕິດຕັ້ງ &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "ຕິດຕັ້ງ &syncBrand.shortName.label; ເພື່ອສົ່ງແທັບ">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "ຕິດຕັ້ງ &syncBrand.fullName.label; ໃນອຸປະກອນຂອງທ່ານເພື່ອສົ່ງແທັບໄປຫາອຸປະກອນອື່ນໆ.">
 <!ENTITY sync.text.tab.sent.label "ແທັບຂອງທ່ານໄດ້ຖືກສົ່ງໄປແລ້ວ.">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ອີເມວລ໌">
-<!ENTITY fxaccount_password_hint "ລະຫັດຜ່ານ:">
+
 <!ENTITY fxaccount_password_hide "ເຊື່ອງ">
 <!ENTITY fxaccount_password_show "ສະແດງ">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ໄດ້ຮັບການຕິດຕັ້ງ, ແຕ່ວ່າຍັງບໍ່ສາມາດ Syncing ໄດ້ແບບອັດຕະໂນມັດ. ໃຫ້ເລືອກເປີດທີ່ “Auto-sync data” ໃນການຕັ້ງຄ່າ &gt; Android Data Usage">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ໄດ້ຮັບການຕິດຕັ້ງ, ແຕ່ວ່າຍັງບໍ່ສາມາດ Syncing ໄດ້ແບບອັດຕະໂນມັດ. ໃຫ້ເລືອກເປີດທີ່ “Auto-sync data” ໃນການຕັ້ງຄ່າ &gt; Android Accounts.">
 <!ENTITY fxaccount_status_needs_finish_migrating "ແຕະເພື່ອເຂົ້າສູ່ບັນຊີໄຟຟັອກໃຫມ່ຂອງທ່ານ.">
-<!ENTITY fxaccount_status_bookmarks "ບຸກມາກສ໌">
+
 <!ENTITY fxaccount_status_history "ປະຫວັດການໃຊ້ງານ">
 <!ENTITY fxaccount_status_passwords2 "ລັອກອິນ">
 <!ENTITY fxaccount_status_tabs "ເປີດແທັບ">
