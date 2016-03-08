@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "مجازكرمت  پلگ-انس">
 <!ENTITY aboutSupport.appBasicsBuildConfig "كنفیوگریشن بنٲویو">
 <!ENTITY aboutSupport.appBasicsUserAgent "استیمال كرن وۄل ایجینٹ">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "میمری ہیوند  استیمال">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 

@@ -130,18 +130,6 @@
 ذِ &amp;برانڈ شاٹ ناوس چُھ اجازت ویب ایسیس کرنس۔ /li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "شكاور ہملاور سایٹ">
-<!ENTITY malwareBlocked.longDesc "<p>حملْہ سایٹْہ چھ کوشش کران انسٹال کرنُک پروگرام یِم ژورِ نیوان چھ  پرایوٹ جانکأری، استعمال کران تُہند کمپیوٹر باقین حملہ کرنْہ باپت، یا  نُقصان کران تُہندس سِسٹمس۔</p> 
-<p>د ویب سایٹ مألک یمن  باسان چُھ ذِ تہنز سایٹْ چھ رپورٹ کرنْہ آمژ بطور اکھ حملْہ سایٹ ایررس منز ہیکن  <a href='http://www.stopbadware.org/home/reviewinfo' >درخواست کْرتھ اکھ ریویو</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "شكاوئر ویب ژۄر!">
-<!ENTITY phishingBlocked.longDesc "<p>کانہہ تِہ ذأتی انفارمیشن اینٹر کرنْہ سْیت یتھ پیجس پیٹھ ہیکِہ نتیجہ نیرِتھ شناخت شور یا بدل فراڈ۔</p> 
-<p>امہ ٹایپْچ ویب فورجری چھ استعمال گژھان سیکیمن منز یمن ذن فیشینگ حملہ ونان چھ، یمن منز فراڈ ویب پیج تْہ ایمیل چھ استعمال کرنْہ یوان تِمن سورسن نقل کرنْہ باپت یمن پیٹھ توہیہ بھروس کْریو۔</p>">
-
-
-
 <!ENTITY cspBlocked.title "مشمولات حفٲظتی پالسی كرمُت بند">
 <!ENTITY cspBlocked.longDesc "<p>برانڈ شاٹ ناو؛ ان رُکوو یہ پیج لوڈینگ نِش یتھ طریقس منز کیازِ کہ پیجس چھ اکھ کنٹینٹ حفاظتی پالیسی یوس نْہ اتھ اجازت دِوان چِھ۔&amp;</p>">
 
@@ -164,9 +152,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "مزید  زٲنیو۔ ۔ ۔">
-<!ENTITY errorReporting.sending "بیان  سوزان">
-<!ENTITY errorReporting.sent "رپورٹ آو سوزنْہ">
-<!ENTITY errorReporting.tryAgain "دوبارئ كریو كوشش">
 
 <!ENTITY remoteXUL.title "ریموٹ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>مہربأنی کْرتھ کْریو کنٹیکٹْہ ویب سایِٹ مألک تِمن انفارم کرنْہ باپت یہ پرابلیم۔</li></ul></p>">

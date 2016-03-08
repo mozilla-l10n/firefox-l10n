@@ -162,11 +162,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "کْریو شییر یہ ویڈیو  &amp;">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "منظور كریو">
-<!ENTITY subscribeToPageMenupopup.label "یئ صفحئ كریو منظور">
+
+
 <!ENTITY subscribeToPageMenuitem.label "یئ صفحئ كریو منظور">
 <!ENTITY addCurPagesCmd.label "سارنی ٹیبن تھٲویو نشان">
 <!ENTITY showAllBookmarks2.label "سٲری نشانزد ہٲویو">
+
 <!ENTITY unsortedBookmarksCmd.label "چھانٹنئی نشان زد">
 <!ENTITY bookmarksToolbarChevron.tooltip "مزید نشان زد ہٲویو">
 
@@ -250,6 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "رأبطہ کْریو۔ ۔ ۔&amp;">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,6 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "ٹول بارس کْریو جمع&amp;">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "مینیوہس کْریو جمع&amp;">
@@ -509,6 +513,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "نئو۪ی وِنڈو  منز كھولیو فریم">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "صرف ہٲویو یئ فریم">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -722,7 +728,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "سبدیے">
-<!ENTITY editBookmark.cancel.label                   "منسوخ">
 
 
 
@@ -751,13 +756,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY identity.permissions "اجازت">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "براوزر ٹیبس">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "سینك">
 
@@ -794,7 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "سْروس پیٹھ کْریو کْلک یہ جمع کرنْہ باپت &amp;برانڈ شاٹ ناوس؛">
 <!ENTITY social.directory.viewmore.text "مزید کْریو ویو">
 
-<!ENTITY customizeMode.tabTitle "کسٹامایِز کْریو  &amp;برانڈ شاٹ ناو؛">
 <!ENTITY customizeMode.menuAndToolbars.header2 "اِضأفی ٹول تْہ فیچر">
 <!ENTITY customizeMode.menuAndToolbars.empty "مزید ٹول چھاہ ضرورت؟">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ژأریو ساس بدیو ایڈ۔آنو منز">
@@ -897,7 +916,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "مزید ہیچھیوDRM…مُتلق ">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "&amp;  وئنك۪ین نئ">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "می۪ی مئ پریژھیو دوبارئ">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">

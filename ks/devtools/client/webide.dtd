@@ -75,8 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "میانئ پروجیکٹْہ">
 <!ENTITY projectPanel_runtimeApps "رن ٹایم ایپْہ">
@@ -198,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "اگر ذن تُہند بدل ڈیوایس پرژھِ أکس ٹوکنس باپت اکھ کیو آر کوڈ سیکین کرنْہ بجاے، مہربأنی کْرتھ کْریو کاپی بْنیم ویلیو بْیس ڈیوایسس کُن:">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "پریأپیکیجینگ کمانڈ لاگ">
