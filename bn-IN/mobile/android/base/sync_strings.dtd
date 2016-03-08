@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "সুসংগতি">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; এর সাথে সংযোগ করুন">
-<!ENTITY sync.title.adddevice.label "একটি &syncBrand.fullName.label; অ্যাকাউন্ট যুক্ত করুন">
-<!ENTITY sync.title.pair.label "ডিভাইস যুক্ত করুন">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "আপনার নতুন ডিভাইস সক্রিয় করতে চাইলে আপনার ডিভাইসে “&syncBrand.shortName.label; স্থাপন করুন” টি নির্বাচন করুন।">
-<!ENTITY sync.subtitle.header2.label "আপনার ডিভাইসে এই কোডটি এন্টার করুন">
-<!ENTITY sync.subtitle.connectlocation2.label "আপনার অন্য ডিভাইসের &syncBrand.shortName.label; বিভাগে ফায়ারফক্স বিকল্পসমূহের ভিতরে “&sync.title.pair.label;” টি নির্বাচন করুন।">
 <!ENTITY sync.subtitle.pair.label "সক্রিয় করার জন্য, অন্য ডিভাইসের মধ্যে \&quot;Pair a Device\&quot; নির্বাচন করুন।">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "প্রণালী জেনে নিন।">
-<!ENTITY sync.link.advancedsetup.label "উন্নত বৈশিষ্ট্য...">
 <!ENTITY sync.link.nodevice.label "ডিভাইসটি আমার সঙ্গে নেই...">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "অন্য ডিভাইসের জন্য অপেক্ষা করা হচ্ছে...">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "আপনার &syncBrand.fullName.label; অ্যাকাউন্ট তথ্য এন্টার করুন">
-<!ENTITY sync.input.username.label "অ্যাকাউন্টের নাম">
-<!ENTITY sync.input.password.label "পাসওয়ার্ড">
-<!ENTITY sync.input.key.label "পুনরুদ্ধারের কি">
-<!ENTITY sync.checkbox.server.label "স্বনির্ধারিত সার্ভার ব্যবহার করুন">
-<!ENTITY sync.input.server.label "সার্ভার URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Cannot Set Up &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; সার্ভারের সাথে সংযোগ স্থাপন করতে পারেনি। আপনি কি আবার চেষ্টা করতে চান?">
-<!ENTITY sync.button.tryagain.label "পুনরায় চেষ্টা করুন।">
-<!ENTITY sync.button.manual.label "স্বনির্ধারিত স্থাপনা">
-<!ENTITY sync.subtitle.nointernet.label "কোনো ইন্টারনেট সংযোগ উপস্থিত নেই।">
-<!ENTITY sync.subtitle.failaccount.label "আপনার ডিভাইসে অ্যাকাউন্ট তৈরি করতে ব্যর্থ।">
-<!ENTITY sync.subtitle.failmultiple.label "আপনার কি একাধিক ফায়ারফক্স ইন্সটল করা আছে? বর্তমানে, &syncBrand.fullName.label; কেবলমাত্র একটি ফায়ারফক্স ইন্সটলেশান সমর্থন করে। &syncBrand.shortName.label; ব্যবহার করতে চাইলে অন্যগুলি আনইন্সটল করে ফেলুন।">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "প্রস্তুতি সমাপ্ত হয়েছে">
-<!ENTITY sync.subtitle.success.label1 "আপনার তথ্য নেপথ্যে ডাউনলোড হচ্ছে। আপনি আপনার সেটিংস এ গিয়ে আপনার অ্যাকাউন্ট পরিচালনা করতে পারেন, অথবা &brandShortName; দিয়ে ব্রাউসিং শুরু করতে পারেন।">
-<!ENTITY sync.settings.label "বিবিধ বৈশিষ্ট্য">
-<!ENTITY sync.subtitle.manage.label1 "আপনার &syncBrand.fullName.label; অ্যাকাউন্ট আগে থেকেই স্থাপন করা আছে। আপনি আপনার সেটিংস এ গিয়ে আপনার অ্যাকাউন্ট পরিচালনা করতে পারেন, অথবা &brandShortName; চালু করতে পারেন।">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "অনুগ্রহ করে পুনরায় প্রচেষ্টা করুন।">
-<!ENTITY sync.pair.connectlocation.label "আপনার নতুন ডিভাইস শুরু করতে হলে, নতুন ডিভাইসে “Set up &syncBrand.shortName.label;” নির্বাচন করুন, তারপর “আমার একটি অ্যাকাউন্ট আছে” নির্বাচন করুন |">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "বিবিধ বিকল্প">
-<!ENTITY sync.summary.pair.label "আপনার এই &syncBrand.shortName.label; অ্যাকাউন্ট এর সাথে অন্য ডিভাইস যুক্ত করুন">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "কি সিঙ্ক করতে হবে">
-<!ENTITY sync.configure.engines.sync.my.title.label "সিঙ্ক করুন আপনার...">
-<!ENTITY sync.configure.engines.title.bookmarks "বুকমার্কগুলি">
 <!ENTITY sync.configure.engines.title.passwords2 "লগ ইন গুলি">
 <!ENTITY sync.configure.engines.title.history "পূর্ববর্তী তথ্য">
 <!ENTITY sync.configure.engines.title.tabs "ট্যাবসমূহ">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "বাতিল">
-<!ENTITY sync.button.connect.label "সংযোগ স্থাপন করুন">
-<!ENTITY sync.button.ok.label "ঠিক আছে">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (অবচিত)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "পঠন তালিকা">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "পিন করা">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "কেবলমাত্র একটি &syncBrand.fullName.label; অ্যাকাউন্ট সমর্থন করা হয়।">
-<!ENTITY sync.notification.configure.saved "আপনার নির্বাচনসমূহ সংরক্ষণ করা হল।">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "অ্যাকাউন্টের নাম অথবা পাসওয়ার্ড সঠিক নয়।">
-<!ENTITY sync.invalidserver.label "অনুগ্রহ করে বৈধ সার্ভার URL লিখুন">
-<!ENTITY sync.verifying.label "যাচাই করা হচ্ছে…">
-<!ENTITY sync.new.recoverykey.status.incorrect "পুনরুদ্ধারের কি ঠিক নেই। অনুগ্রহ করে আবার চেষ্টা করুন।">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "ডিভাইসসমূহে ট্যাব প্রেরণ করুন">
-<!ENTITY sync.button.send.label "পাঠিয়ে দিন">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; স্থাপন করুন">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "ট্যাবসমূহ প্রেরণ করার জন্য &syncBrand.shortName.label; এর স্থাপনা করুন">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "আপনার অন্য ডিভাইসে ট্যাব প্রেরণ করার জন্য &syncBrand.fullName.label; এর স্থাপনা করুন।">
 <!ENTITY sync.text.tab.sent.label "আপনার ট্যাব পাঠানো হয়েছে!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ই-মেইল">
-<!ENTITY fxaccount_password_hint "পাসওয়ার্ড">
+
 <!ENTITY fxaccount_password_hide "আড়াল করুন">
 <!ENTITY fxaccount_password_show "দেখান">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; সেট আপ করা হয়েছে, কিন্তু স্বয়ংক্রিয়ভাবে সিঙ্ক হয় না। অ্যান্ড্রয়েড সেটিংসে “Auto-sync data” টগল করুন &gt; ডেটা ব্যবহার প্রণালী।">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; সেট আপ করা হয়েছে, কিন্তু স্বয়ংক্রিয়ভাবে সিঙ্ক হয় না। অ্যান্ড্রয়েড সেটিংসে “Auto-sync data” টগল করুন &gt; ডেটা ব্যবহার প্রণালী।">
 <!ENTITY fxaccount_status_needs_finish_migrating "আপনার নতুন Firefox অ্যাকাউন্টে সাইন ইন করবার জন্য ট্যাপ করুন।">
-<!ENTITY fxaccount_status_bookmarks "বুকমার্কসমূহ">
+
 <!ENTITY fxaccount_status_history "পূর্ববর্তী তথ্য">
 <!ENTITY fxaccount_status_passwords2 "লগ ইন গুলি">
 <!ENTITY fxaccount_status_tabs "উন্মুক্ত ট্যাবগুলি">
