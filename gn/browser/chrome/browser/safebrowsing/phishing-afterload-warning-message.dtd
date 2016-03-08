@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Cheguenohẽ ko'águi!">
 <!ENTITY safeb.palm.decline.label "Eñembotavy marandúgui">
-<!ENTITY safeb.palm.notforgery.label2 "Ndaha'éi tenda ivaíva...">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.reportPage.label "Mba'érepa ojejoko ko tenda?">
 <!ENTITY safeb.palm.whyForbidden.label "Mba'érepa ojejoko ko tenda?">
 
@@ -18,10 +18,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Ko ñanduti kuatiarogue <span id='unwanted_sitename'/> oje'e hese oguerekoha software ivaíva ha ojejokóma hembiapoite hekotee'ỹgui.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Software kuatiarogue imarãva omohendase software ikatúva nembotavy ha ombyaikuaa nemohendaha eha'ãrõ'ỹetére.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "¡Ko tenda ha'e ambue web ra'anga!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Ko ñanduti kuatiarogue <span id='phishing_sitename'/> ojehecha peteĩ ñanduti ra'angareíramo ha ojejokóma hembiapoite hekotee'ỹgui.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Ñanduti ra'ãngarei ojejapo oñembotavy hag̃ua puruhárape ikatu hag̃uáicha ohechauka marandu imba'etéva térã viru rehegua oha'ãngávo tenda ojeroviaha.</p><p>Oimeraẽva marandu ñemoinge ko ñanduti kuatiaroguépe ikatu ojapo teratee ñemonda térã ambue mba'e ivaíva.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Tenda Ojejokopyre">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

@@ -72,20 +72,6 @@
 <li>Eikéramo ko nemohendahavusúpe apañuãi'ỹre ymave, pe jejavy ikatu sapy'aguánteva, ha eikatúta eñeha'ã eikejey ag̃amieve.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "¡Ko tenda ikatu ombetise!">
-<!ENTITY malwareBlocked.longDesc "<p>Tendakuéra oporojaho'íva oñeha'ã omohenda tembiaporape omondakuaáva marandu ñemigua, oipuru nemohendaha ojaho'i hag̃ua ambuépe, térã ombyai ijapopyvusúpe.</p> 
-<p>Ñanduti renda jarakuéra ohechakuaáva pe henda ojeporavo hague jejavy rupi peteĩ tenda jaho'iháraramo ikatu <a href='http://www.stopbadware.org/home/reviewinfo' >ojerure peteĩ jehechajey.</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "¡Ndojehechaporãmbái ko tenda!">
-<!ENTITY unwantedBlocked.longDesc "<p>Software kuatiarogue ojehayhu'ỹva omohendase software ivai ha ombyaikuaáva nemohendaha eha'ãrõ'ỹre.</p>">
-
-<!ENTITY phishingBlocked.title "¡Ikatuhína omohendaguese ñandutípe!">
-<!ENTITY phishingBlocked.longDesc "<p>Emoingéramo nemaranduete ko kuatiaroguépe ikatu ome'ẽ juruja ambuépe omyengoviávo nde reratee térã ambue mba'evai.</p> 
-<p>Ko'ãichagua mba'evai ñanduti pegua ojepuru ojejapo hag̃ua phishing (teratee myengovia) ojepuruhápe ñanduti kuatiarogue ha ñe'ẽmondo ñantutiveve imarãva rupi oha'ãnga hag̃ua teñoiha rejeroviaha.</p>">
-
-<!ENTITY forbiddenBlocked.title "Tenda Oñembotovepyre">
-<!ENTITY forbiddenBlocked.longDesc "<p>Kundahára ojoko ko Togue, ani hag̃ua oñemyenyhẽ, ojejerureháicha mboheko rendápe.</p>">
-
 <!ENTITY securityOverride.linkText "Térã ikatu embojoapy oĩ'ỹva…">
 <!ENTITY securityOverride.warningContent "<p>Ani embojoapy peteĩ oĩ'ỹva eipurúramo ñanduti ejeroviaguasu'ỹha térã ndereipokuaáiramo ehecha peteĩ jesarekorã ko mohendahavusu rehegua.</p> 
 <p>Embojoapyséramo gueteri pe oĩ'ỹva ko tendápe g̃uarã, ikatu ejapo iñemboheko opátamava ipapapývape.</p>">
