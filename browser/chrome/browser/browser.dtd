@@ -163,12 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "P">
 <!ENTITY shareVideo.label "Partekatu bideo hau">
 <!ENTITY shareVideo.accesskey "P">
-
-
+<!ENTITY feedsMenu2.label "Harpidetu orri honetara">
+<!ENTITY subscribeToPageMenupopup.label "Harpidetu orri honetara">
 <!ENTITY subscribeToPageMenuitem.label "Harpidetu orri honetara…">
 <!ENTITY addCurPagesCmd.label "Egin fitxa guztien laster-marka…">
 <!ENTITY showAllBookmarks2.label "Erakutsi laster-marka guztiak">
-
+<!ENTITY recentBookmarks.label "Azken laster-markak">
 <!ENTITY unsortedBookmarksCmd.label "Ordenatu gabeko laster-markak">
 <!ENTITY bookmarksToolbarChevron.tooltip "Erakutsi laster-marka gehiago">
 
@@ -258,7 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Zerbitzu-langileak">
+<!ENTITY devtoolsServiceWorkers.accesskey  "n">
 
 <!ENTITY devtoolsConnect.label        "Konektatu…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,18 +411,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Ireki laguntza-menua">
 
 <!ENTITY appMenuRemoteTabs.label "Sinkronizatutako fitxak">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Sinkronizatutako fitxak eskuratzen…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Irekitako fitxarik ez">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktibatu fitxak sinkronizatzea zure beste gailuetako fitxen zerrenda ikusteko.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Hasi saioa Firefoxen zure beste gailuetatik horien fitxak hemen ikusteko.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync hobespenak">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Hasi saioa zure beste gailuetako fitxak ikusteko.">
 <!ENTITY appMenuRemoteTabs.signin.label "Hasi saioa Sync-en">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Ikusi sinkronizatutako fitxen alboko barra">
 
 <!ENTITY customizeMenu.addToToolbar.label "Gehitu tresna-barran">
 <!ENTITY customizeMenu.addToToolbar.accesskey "G">
@@ -528,8 +532,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Ireki markoa leiho berrian">
 <!ENTITY openFrameCmd.accesskey       "m">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Ireki lotura edukiontzi-fitxa berrian">
+<!ENTITY openLinkCmdInContainerTab.accesskey "e">
 <!ENTITY showOnlyThisFrameCmd.label     "Erakutsi marko hau bakarrik">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -777,7 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Argibide gehiago">
 
-
+<!ENTITY identity.removeCertException.label "Kendu salbuespena">
+<!ENTITY identity.removeCertException.accesskey "K">
 
 <!ENTITY identity.moreInfoLinkText2 "Informazio gehiago">
 
@@ -791,17 +796,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Sinkronizatutako fitxak">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Sinkronizatutako fitxak">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Sinkronizatutako fitxak eskuratzen…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Hasi saioa Firefoxen zure beste gailuetatik horien fitxak hemen ikusteko.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Hasi saioa zure beste gailuetako fitxak ikusteko.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Irekitako fitxarik ez">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Ireki &syncBrand.shortName.label; hobespenak">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Ireki fitxa hau">
+<!ENTITY syncedTabs.context.openTab.accesskey               "I">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Egin fitxa honen laster-marka…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "E">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
