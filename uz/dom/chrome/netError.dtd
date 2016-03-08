@@ -72,18 +72,6 @@
 <li>Agar siz soʻnggi marta serverga muvaffaqiyatli ulangan boʻlsangiz, bu muammo vaqtinchalik boʻlishi mumkin. Sal keyinroq qayta urinib koʻrishingiz mumkin.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Hujumkor sayt aniqlandi!">
-<!ENTITY malwareBlocked.longDesc "<p>Hujumkor saytlar shaxsiy ma`lumotlaringizni oʻgʻirlaydigan dasturlarni oʻrnatishga urinadi, kompyuteringizdan boshqalarga hujum qilish uchun foydalanishga yoki tizimingizni buzishga harakat qiladi.</p> 
-<p>Saytlarini xato tufayli hujumkor sayt deb xabar berilgan deb hisoblovchi sayt egalari <a href='http://www.stopbadware.org/home/reviewinfo' >qayta koʻrib chiqish</a>ni soʻrashlari mumkin.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Veb qalloblik aniqlandi!">
-<!ENTITY phishingBlocked.longDesc "<p>Ushbu sahifaga shaxsiy ma`lumotlarni kiritish, ularni oʻgʻirlanishiga yoki boshqa tovlamachiliklarga sabab boʻlishi mumkin.</p> 
-<p>Ushbu turdagi veb qalloblikdan, odatda, fishing hujumida foydalaniladi, yolgʻon veb sayt va e-pochtalar ishonchingizga kirish uchun ishlatiladi.</p>">
-
-
-
 
 
 <!ENTITY cspBlocked.title "Sayt xavfsizlik nazorati tomonidan bloklandi">

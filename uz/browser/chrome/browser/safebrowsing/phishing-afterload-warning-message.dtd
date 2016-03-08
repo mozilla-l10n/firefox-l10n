@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Bu yerdan chiqaman!">
 <!ENTITY safeb.palm.decline.label "Ogohlantirishni rad qilish">
-<!ENTITY safeb.palm.notforgery.label2 "Bu - veb qalloblik emas...">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -17,10 +17,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> veb sahifasi hujum sayti sifatida xabar berilgan va shu sababli xavfsizlik moslamalaringizga asoslanib, bloklangan.">
 
 
-<!ENTITY safeb.blocked.phishingPage.title "Veb qalloblik haqida xabar berildi!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> veb sahifasi qallob veb sayt sifatida ma`lumot berilgan. Xavfsizlik moslamalaringizga asoslanib bloklangan.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Qalbaki veb saytlar siz ishonishingiz mumkin boʻlgan manbalarni koʻrsatib, shaxsiy yoki iqtisodiy ma`lumotlaringizni oʻgʻirlash uchun yasalgan boʻladi.</p><p>Bunday veb sahifalarga ma`lumot kiritsangiz, shaxsiy ma`lumotlaringiz oʻgʻirlanishi mumkin.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
