@@ -75,8 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "Proiectele mele">
 <!ENTITY projectPanel_runtimeApps "Aplicații runtime">
@@ -198,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Dacă dispozitivul solicită un token în loc de scanarea unui cod QR, te rugăm să copiezi valoarea de mai jos pe celălalt dispozitiv:">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Pre-packaging Command Logs">
