@@ -72,18 +72,6 @@
 <li>Uma uxhumeke kule seva ngempumelelo ngokwedlule, iphutha lingaba ngelesikhashana, futhi ungabuye uzame kamuva.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Isayithi elisolwa ngokuhlasela!">
-<!ENTITY malwareBlocked.longDesc "<p>Amasayithi wokuhlasela azama ukufaka izinhlelo ezintshontsha ulwazi oluyimfihlo, sebenzisa ikhompyutha yakho ukuhlasela abanye, noma ukumosha uhlelo lwakho.</p> 
-<p>Abanikazi bewebhusayithi abakholelwa ukuthi isayithi labo libikwe njengesayithi lokuhlasela ngephutha okungaholela i-<a href='http://www.stopbadware.org/home/reviewinfo' > cela isibuyekezo</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Ukusolwa kokubhumbuluzwa kwe-webhu!">
-<!ENTITY phishingBlocked.longDesc "<p>Ukufaka noma iyiphi imininingwane yakho kuleli khasi kungaholela ekuntshontweni kobunikazi noma obunye ubukhonyovu.</p> 
-<p>Lezi zinhlobo zokubhumbuluzwa kwewebhu sisetshenziswa ekuqolweni okwaziwa njengokuhlaselwa kwe-phishing, lapho khona amakhasi wewebhu anenkohliso nama-imeyili asetshenziselwa ukufaniswa nemithombo oyithembayo.</p>">
-
-
-
 
 
 <!ENTITY cspBlocked.title "Kuvinjelwe inqubomgomo yokuqukethwe yezokuphepha">
