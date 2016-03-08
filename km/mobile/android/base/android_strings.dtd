@@ -222,6 +222,7 @@
 
 
 
+
 <!ENTITY pref_tracking_protection_title "ការ​ទប់ស្កាត់​ការ​តាមដាន">
 
 <!ENTITY pref_donottrack_title "កុំ​តាមដាន">
@@ -454,8 +455,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "ការ​រុករក​ពេញ​អេក្រង់">
 
 
-<!ENTITY pref_tab_queue_title2 "បើក​តំណ​ច្រើន">
-<!ENTITY pref_tab_queue_summary3 "រក្សាទុក​វា​រហូតដល់​ពេល​ដែល​អ្នក​បើក​បន្ទាប់ &brandShortName;">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -530,10 +530,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "គ្មាន​មាតិកា​អាច​ត្រូវ​បាន​រក​ឃើញ​សម្រាប់​បន្ទះ​នេះ។">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "ឡើង​ដល់ &formatS;">
 
 <!ENTITY home_remote_tabs_title "ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម">
 <!ENTITY home_remote_tabs_empty "ផ្ទាំង​របស់​អ្នក​ពី​ឧបករណ៍​ផ្សេង​គឺ​បង្ហាញ​នៅ​ទីនេះ។">
@@ -630,8 +628,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "ស្វែងរក &formatS1; សម្រាប់ &formatS2;">
 
-<!ENTITY webapp_generic_name "កម្មវិធី">
-
 <!ENTITY searchable_description "ចំណាំ និង​ប្រវត្តិ">
 <!-- Updater notifications --> 
 
@@ -696,11 +692,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "បាន​ធ្វើ​សមកាលកម្ម​ចុង​ក្រោយ៖ &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "បាន​ធ្វើ​សមកាលកម្ម​ចុងក្រោយ៖ កុំ">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "មិន​អាច​បើក​តំណ">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -752,4 +743,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
 
