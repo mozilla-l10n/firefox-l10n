@@ -163,12 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "D">
 <!ENTITY shareVideo.label "Bagikan Video Ini">
 <!ENTITY shareVideo.accesskey "V">
-
-
+<!ENTITY feedsMenu2.label "Berlangganan Laman Ini">
+<!ENTITY subscribeToPageMenupopup.label "Berlangganan Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Berlangganan Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Markahi Semua Tab…">
 <!ENTITY showAllBookmarks2.label "Tampilkan Semua Markah…">
-
+<!ENTITY recentBookmarks.label "Baru Saja Dibuat Markah">
 <!ENTITY unsortedBookmarksCmd.label "Markah Belum Diurut">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan markah lainnya">
 
@@ -258,7 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Service Worker">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Sambungkan…">
 <!ENTITY devtoolsConnect.accesskey    "S">
@@ -410,16 +411,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
 
 <!ENTITY appMenuRemoteTabs.label "Tab yang Disinkronkan">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Mengambil Tab yag Disinkronkan…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Tidak ada tab terbuka">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat lainnya.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Masuk ke Firefox dari perangkat lainnya untuk melihat tab perangkat tersebut di sini.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Pengaturan Sync">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Masuk untuk melihat daftar tab dari perangkat lainnya.">
 <!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sync">
 
 
