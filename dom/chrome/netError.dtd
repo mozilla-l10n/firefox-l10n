@@ -72,20 +72,6 @@
 <li>Jeli sće w zańdźenosći ze serwerom wuspěšnje zwjazany był, móže zmylk nachwilny być a móžeće pozdźišo hišće raz spytać.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Na nadpadowace sydło so tuka!">
-<!ENTITY malwareBlocked.longDesc "<p>Nadpadowace sydła pospytuja programy instalować, kotrež priwatne informacije kradnu, waš ličak wužiwać, zo bychu druhe nadpadowali abo waš system wobškodźeja.</p> 
-<p>Wobsedźerjo websydła, kotřiž wěrja, zo je so jich sydło zmylnje jako nadpadowace sydło zdźěliło, móža wo <a href='http://www.stopbadware.org/home/reviewinfo' >přepruwowanje prosyć</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Podhladne sydło z njewitanej softwaru!">
-<!ENTITY unwantedBlocked.longDesc "<p>Strony z njewitanej softwaru pospytuja softwaru instalować, kotraž móže wobšudna być a kotraž móže waš system na njewočakowane wašnja wobwliwować.</p>">
-
-<!ENTITY phishingBlocked.title "Na webfalšowanje so tuka!">
-<!ENTITY phishingBlocked.longDesc "<p>Zapodawanje wosobinskich informacijow na tutej stronje móže ke kradnjenju identity abo druhemu wobsudstwu wjesć.</p> 
-<p>Tute typy webwobsudstwow wužiwaja so w jebanstwach jako čušlace nadpady, w kotrychž wobšudne webstrony a e-mejle so wužiwaja, zo bychu žórła imitowali, kotrymž dowěrjeće.</p>">
-
-<!ENTITY forbiddenBlocked.title "Zakazane sydło">
-<!ENTITY forbiddenBlocked.longDesc "<p>Wobhladowak je tutu stronu při začitowanju haćił, dokelž je so konfigurował, zo by ju blokował.</p>">
-
 <!ENTITY securityOverride.linkText "Abo móžeće wuwzaće přidać…">
 <!ENTITY securityOverride.warningContent "<p>Wy njeměl wuwzaće přidać, jeli internetny zwisk wužiwaće, kotremuž dospołnje njedowěrjeće abo jeli zwjetša warnowanje za tutón serwer njewidźiće.</p>
  <p>Jeli chceće hišće wuwzaće za tute sydło přidać, móžeće to w swojich rozšěrjenych zaklučowanskich nastajenjach činić.</p>">
