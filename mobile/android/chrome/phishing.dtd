@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "Amach as seo liom!">
 <!ENTITY safeb.palm.decline.label "Ná bac leis an rabhadh seo">
-<!ENTITY safeb.palm.notforgery.label2 "Ní falsaíocht Ghréasáin é seo…">
 <!ENTITY safeb.palm.reportPage.label "Cén fáth ar cuireadh cosc ar an leathanach seo?">
 <!ENTITY safeb.palm.whyForbidden.label "Cén fáth ar cuireadh cosc ar an leathanach seo?">
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Tuairiscíodh gur leathanach ionsaithe é an leathanach Gréasáin <span id='malware_sitename'/> agus tá cosc curtha air de bharr do roghanna slándála.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Déanann leathanaigh ionsaithe iarracht ríomhchláir a shuiteáil a ghoideann faisnéis phríobháideach nó a dhéanann dochar do do ríomhaire.</p><p>Scaipeann leathanaigh ionsaithe áirithe bogearraí dochracha d'aonturas, ach is minic suímh a bheith contúirteach i nganfhios dá n-úinéirí agus gan a gcead.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Falsaíocht Ghréasáin!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Má chuireann tú aon fhaisnéis phearsanta isteach ar an leathanach seo, d'fhéadfadh a bheith goid aitheantas nó calaois eile mar thoradh air.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Úsáidtear suímh den chineál seo i gcamscéimeanna ar a dtugtar &quot;bréagbhrandáil&quot;, ina gcruthaíonn coirpigh leathanaigh agus ríomhphoist chalaoiseacha chun aithris a dhéanamh ar fhoinsí dlisteanacha a bhfuil muinín agat astu.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.unwantedPage.title "Déan gearán faoi shuíomh ar a bhfuil bogearraí gan iarraidh!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

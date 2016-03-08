@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Gheobhaidh tú torthaí ó do leabharmharcanna agus stair agus tú ag cuardach.">
 <!ENTITY firstrun_data_title "Sonraí">
 <!ENTITY firstrun_data_message "Níos lú sonraí, níos mó sábháilte">
-<!ENTITY firstrun_data_subtext "Ná lódáil íomhánna sa chaoi nach gcaitear an oiread céanna sonraí agus tú ag tabhairt cuairte ar shuíomh.">
+
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, i gcónaí ar fáil dhuit.">
 <!ENTITY firstrun_sync_subtext "Sioncronaigh do chluaisíní, d\u0027fhocal faire, agus tuilleadh pé áit a n-úsáideann tú é.">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "I gCónaí">
 <!ENTITY pref_tap_to_load_images_data "Thar Wi-Fi amháin">
 <!ENTITY pref_tap_to_load_images_disabled2 "Coiscthe">
+
 
 <!ENTITY pref_tracking_protection_title "Cosaint ar lorg">
 <!ENTITY pref_tracking_protection_summary3 "Cumasaithe i mBrabhsáil Phríobháideach">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Brabhsáil lánscáileáin">
 <!ENTITY pref_scroll_title_bar_summary2 "Folaigh barra uirlisí &brandShortName; le linn scrollaithe síos ar leathanach">
 
-<!ENTITY pref_tab_queue_title2 "Oscail níos mó ná nasc amháin">
-<!ENTITY pref_tab_queue_summary3 "Sábháil iad go dtí an chéad uair eile a osclóidh tú &brandShortName;">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Níor aimsíodh aon ábhar don phainéal seo.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Fill ar &formatS;">
 
 <!ENTITY home_remote_tabs_title "Cluaisíní Sioncrónaithe">
 <!ENTITY home_remote_tabs_empty "Taispeánfar do chuid cluaisíní ó ghléasanna eile anseo.">
@@ -648,8 +646,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "Déan cuardach ar &formatS2; le &formatS1;">
 
-<!ENTITY webapp_generic_name "Aip">
-
 <!ENTITY searchable_description "Leabharmharcanna agus stair">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "Sioncrónaithe: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Sioncrónú is déanaí: gan sioncrónú">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "AaÁa">
 
 <!ENTITY intent_uri_cannot_open "Ní féidir an nasc a oscailt">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version "Ár leithscéal! Ní fheidhmíonn an leagan seo de &brandShortName; ar an ngléas seo (&formatS1;, &formatS2;). Ní mór duit an leagan ceart a íosluchtú.">
 
-<!ENTITY eol_notification_title "Ní thacaíonn &brandShortName; le hAndroid 3 a thuilleadh">
 <!ENTITY eol_notification_summary "Tapáil anseo chun tuilleadh eolais a fháil">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+

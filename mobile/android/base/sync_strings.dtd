@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Ceangail le &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Cuir Cuntas &syncBrand.fullName.label; Leis">
-<!ENTITY sync.title.pair.label "Ceangail Gléas">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Chun do ghléas nua a ghníomhachtú, roghnaigh “Socraigh &syncBrand.shortName.label;” ar an ngléas.">
-<!ENTITY sync.subtitle.header2.label "Cuir an cód seo isteach i do ghléas eile">
-<!ENTITY sync.subtitle.connectlocation2.label "Roghnaigh “&sync.title.pair.label;” sa rannán &syncBrand.shortName.label; sna roghanna Firefox ar do ghléas eile.">
 <!ENTITY sync.subtitle.pair.label "Chun gníomhachtú, roghnaigh “Ceangail gléas” ar do ghléas eile.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Taispeáin dom.">
-<!ENTITY sync.link.advancedsetup.label "Ardroghanna…">
 <!ENTITY sync.link.nodevice.label "Níl an gléas liom faoi láthair...">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Ag fanacht leis an ngléas eile…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Cuir faisnéis do chuntais &syncBrand.fullName.label; isteach">
-<!ENTITY sync.input.username.label "Ainm an Chuntais">
-<!ENTITY sync.input.password.label "Focal faire">
-<!ENTITY sync.input.key.label "Eochair Athshlánaithe">
-<!ENTITY sync.checkbox.server.label "Úsáid freastalaí saincheaptha">
-<!ENTITY sync.input.server.label "URL an fhreastalaí">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Ní féidir &syncBrand.shortName.label; a shocrú">
-<!ENTITY sync.subtitle.fail.label "Níorbh fhéidir le &syncBrand.fullName.label; ceangal leis an bhfreastalaí. An bhfuil fonn ort triail eile a bhaint as?">
-<!ENTITY sync.button.tryagain.label "Bain triail eile as">
-<!ENTITY sync.button.manual.label "Socrú De Láimh">
-<!ENTITY sync.subtitle.nointernet.label "Níl ceangal leis an Idirlíon ar fáil.">
-<!ENTITY sync.subtitle.failaccount.label "Níorbh fhéidir cuntas a chruthú ar do ghléas.">
-<!ENTITY sync.subtitle.failmultiple.label "An bhfuil níos mó ná Firefox amháin suiteáilte agat? Ní thacaíonn &syncBrand.fullName.label; le níos mó ná leagan amháin de Firefox faoi láthair. Caithfidh tú leaganacha eile a dhíshuiteáil chun &syncBrand.shortName.label; a úsáid.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Críochnaithe">
-<!ENTITY sync.subtitle.success.label1 "Tá do chuid sonraí á n-íosluchtú sa chúlra. Féach ar na Socruithe chun do chuntas a bhainistiú, nó tosaigh ag brabhsáil le &brandShortName;..">
-<!ENTITY sync.settings.label "Socruithe">
-<!ENTITY sync.subtitle.manage.label1 "Tá cuntas &syncBrand.fullName.label; socraithe agat cheana. Féach ar na Socruithe chun do chuntas a bhainistiú, nó tosaigh &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Bain triail as arís.">
-<!ENTITY sync.pair.connectlocation.label "Chun do ghléas nua a chur i ngníomh, roghnaigh “Socraigh &syncBrand.shortName.label;” ar an ngléas, ansin roghnaigh “Tá Cuntas Agam”.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Roghanna">
-<!ENTITY sync.summary.pair.label "Nasc gléas eile le do chuntas &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Rudaí le sioncrónú">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sioncrónaigh do…">
-<!ENTITY sync.configure.engines.title.bookmarks "Leabharmharcanna">
 <!ENTITY sync.configure.engines.title.passwords2 "Focail Fhaire">
 <!ENTITY sync.configure.engines.title.history "Stair">
 <!ENTITY sync.configure.engines.title.tabs "Cluaisíní">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Cealaigh">
-<!ENTITY sync.button.connect.label "Ceangail">
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (ligthe i léig)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Liosta Léitheoireachta">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Feistithe">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Ní thacaítear ach aon chuntas &syncBrand.fullName.label; amháin.">
-<!ENTITY sync.notification.configure.saved "Sábháladh do chuid roghnúchán.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Ainm cuntais nó focal faire mícheart.">
-<!ENTITY sync.invalidserver.label "Cuir isteach URL bailí don bhfreastalaí">
-<!ENTITY sync.verifying.label "Á Dheimhniú…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Eochair Athshlánaithe mhícheart. Triail arís é, le do thoil.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Seol an Cluaisín Chuig Ghléasanna">
-<!ENTITY sync.button.send.label "Seol">
-<!ENTITY sync.button.set.up.sync.label "Socraigh &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Socraigh &syncBrand.shortName.label; chun cluaisíní a sheoladh">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Socraigh &syncBrand.fullName.label; ar do ghléas chun cluaisíní a sheoladh chuig ghléasanna eile.">
 <!ENTITY sync.text.tab.sent.label "Seoladh do chluaisín!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Ríomhphost">
-<!ENTITY fxaccount_password_hint "Focal faire">
+
 <!ENTITY fxaccount_password_hide "Folaigh">
 <!ENTITY fxaccount_password_show "Taispeáin">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncrónú go huathoibríoch. Scoránaigh “Auto-sync data” sna Android Settings &gt; Data Usage.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncrónú go huathoibríoch. Scoránaigh “Auto-sync data” sna Android Settings &gt; Accounts.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapáil le logáil isteach i do chuntas nua Firefox.">
-<!ENTITY fxaccount_status_bookmarks "Leabharmharcanna">
+
 <!ENTITY fxaccount_status_history "Stair">
 <!ENTITY fxaccount_status_passwords2 "Focail Fhaire">
 <!ENTITY fxaccount_status_tabs "Oscail cluaisíní">
