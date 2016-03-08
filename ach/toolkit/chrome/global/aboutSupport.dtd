@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Keto ite ma kimino">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Yub Cano">
 <!ENTITY aboutSupport.appBasicsUserAgent "Lukony Lutic kwede">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Tic pa Lapo wic">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 

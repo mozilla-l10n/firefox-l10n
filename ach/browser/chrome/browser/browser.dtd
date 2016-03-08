@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "w">
 <!ENTITY shareVideo.label "Nwyak video man">
 <!ENTITY shareVideo.accesskey "y">
-<!ENTITY feedsMenu.label "Cone">
-<!ENTITY subscribeToPageMenupopup.label "Cone i pot buk man">
+
+
 <!ENTITY subscribeToPageMenuitem.label "Cone i pot buk man…">
 <!ENTITY addCurPagesCmd.label "Ket alama buk i dirica matino weng…">
 <!ENTITY showAllBookmarks2.label "Nyut alama buk weng">
+
 <!ENTITY unsortedBookmarksCmd.label "Alama buk ma pe ki yeko">
 <!ENTITY bookmarksToolbarChevron.tooltip "Nyut alama buk mukene">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Kube…">
 <!ENTITY devtoolsConnect.accesskey    "b">
@@ -407,19 +410,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Yab lakony me nying gin ayera">
 
 <!ENTITY appMenuRemoteTabs.label "Dirica matino ma kitimo marom">
-<!ENTITY appMenuRemoteTabs.fetching.label "Gamo dirica matino ma kitimo marom…">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Dirica matino pe ayaba">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Dony iyie Firefox ki i nyonyo ni mukene me neno dirica matino gi kany.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ter me timo marom">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
+
 <!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me timo marom">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Med bot gintic">
 <!ENTITY customizeMenu.addToToolbar.accesskey "M">
@@ -526,6 +528,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "d">
 <!ENTITY openFrameCmd.label           "Yab pem i dirica manyen">
 <!ENTITY openFrameCmd.accesskey       "d">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Nyut pem man keken">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -740,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "M">
 
 <!ENTITY editBookmark.done.label                     "Otum">
-<!ENTITY editBookmark.cancel.label                   "Ngol">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Kube maber">
@@ -774,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "J">
 <!ENTITY identity.learnMore "Nong ngec mapol">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "Ngec mapol">
 
 <!ENTITY identity.permissions "Rukuca">
@@ -782,9 +787,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Dirica matino me layeny">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu3.label     "Dirica matino ma kitimo marom">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Tim marom">
 
@@ -822,7 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Dii ikom tic mo me medo ne i &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Nen mapol">
 
-<!ENTITY customizeMode.tabTitle "Yik &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Gintic ki lapok kin jami me ameda">
 <!ENTITY customizeMode.menuAndToolbars.empty "I mito gin tic mukene?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Yer ki ikin med-ikome alip ki alip">
@@ -928,7 +945,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Nong ngec mapol ikom DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Pe kombedi">
-<!ENTITY emeNotificationsNotNow.accesskey         "P">
-<!ENTITY emeNotificationsDontAskAgain.label       "Pe i penya doki">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "P">
