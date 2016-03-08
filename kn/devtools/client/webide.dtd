@@ -75,8 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "ನನ್ನ ಯೋಜನೆಗಳು">
 <!ENTITY projectPanel_runtimeApps "ಚಾಲನಾಸಮಯದ ಆಪ್‌ಗಳು">
@@ -198,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "ನಿಮ್ಮ ಮತ್ತೊಂದು ಸಾಧನ QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡದೆ ಟೋಕನ್ ಕೇಳಿದ ಪಕ್ಷದಲ್ಲಿ, ದಯವಿಟ್ಟು ಈ ಕೆಳಗಿನ ಮೌಲ್ಯವನ್ನು ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ನಕಲಿಸಿ:">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "ಪ್ರಿ-ಪ್ಯಾಕೇಜಿಂಗ್ ಆದೇಶ ದಿನಚರಿಗಳು">
