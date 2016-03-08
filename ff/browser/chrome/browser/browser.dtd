@@ -162,11 +162,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "b">
 <!ENTITY shareVideo.label "Lollin Oo widewoo">
 <!ENTITY shareVideo.accesskey "w">
-<!ENTITY feedsMenu.label "Lulno">
-<!ENTITY subscribeToPageMenupopup.label "Lulno e ngoo Hello">
+
+
 <!ENTITY subscribeToPageMenuitem.label "Lulno e ngoo Hello…">
 <!ENTITY addCurPagesCmd.label "Maantoro Tabbe Fof…">
 <!ENTITY showAllBookmarks2.label "Hollu Maantore Fof">
+
 <!ENTITY unsortedBookmarksCmd.label "Maantore ɗe Leemtaaka">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hollu maantore goɗɗe">
 
@@ -250,6 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Seŋondir…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,6 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "Ɓeydu e palal kuutorɗe">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Ɓ">
 <!ENTITY customizeMenu.addToPanel.label "Ɓeeydu to Loowdi">
@@ -509,6 +513,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Uddit Kaarewol e Henorde Hesere">
 <!ENTITY openFrameCmd.accesskey       "H">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Hollu Ngol Kaarewol Tan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "H">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -722,7 +728,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "Ɓ">
 
 <!ENTITY editBookmark.done.label                     "Gasii">
-<!ENTITY editBookmark.cancel.label                   "Haaytu">
 
 
 <!ENTITY identity.connectionNotSecure "Ceŋagol hisaani">
@@ -751,13 +756,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY identity.permissions "Jamirooje">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Tabbe wanngorde">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sanngoɗin">
 
@@ -794,7 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Dobo e carwol ngam ɓeydude ɗem to &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Yiy Goɗɗe">
 
-<!ENTITY customizeMode.tabTitle "Heerto &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Kaɓirɗe ɓeeyditorɗe e seedtino">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ina sokli kaɓirɗe goɗɗe">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Suɓo e nder ujunnaaje ɓeyditte">
@@ -896,7 +915,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.buttonlabel         "Jaaraama!">
 
 
-
-
-<!ENTITY emeNotificationsDontAskAgain.label       "Hoto naamnito-mi goɗngol">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "H">
