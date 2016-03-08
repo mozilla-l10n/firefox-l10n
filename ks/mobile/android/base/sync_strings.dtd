@@ -8,71 +8,16 @@
 <!ENTITY syncBrand.shortName.label "سِنک">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "جوڈِو &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; اکاونٹ مِلایو">
-<!ENTITY sync.title.pair.label "جوڈِو ڈوایس">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "نوّ ڈِوایس چالو کرن کھیتر، چنِو “سیٹ اپ &syncBrand.shortName.label;” ڈِوایسس پٹھ۔">
-<!ENTITY sync.subtitle.header2.label "یِ کوڈ لیکھِو سا پنِّس بیکِس ڈِوایسس منز">
-<!ENTITY sync.subtitle.connectlocation2.label "چنِو پنِّس بیکس فایرفوکس کس آپشنن منز “&sync.title.pair.label;” &syncBrand.shortName.label;کس حصّس منز۔">
 <!ENTITY sync.subtitle.pair.label "چالو کرنِ کھیتر، چنِو \&quot;جوڈِو ڈوایس\&quot; پنِّس بیکس ڈوایِسس پٹھ">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "ھایو میا کتھ پیٹھ۔">
-<!ENTITY sync.link.advancedsetup.label "اڈوانس سیٹ اپ…">
 <!ENTITY sync.link.nodevice.label "میا چھُنء ڈوایس پآنس اتھ…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "پیاران بیکس ڈوایسس…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "لیکھیو سا پنَء &syncBrand.fullName.label; اکاونٹچ جانکاری">
-<!ENTITY sync.input.username.label "اکاونٹ ناو">
-<!ENTITY sync.input.password.label "پاسوءڈ">
-<!ENTITY sync.input.key.label "رکوری کی">
-<!ENTITY sync.checkbox.server.label "استمال کرِو کسٹم سرور">
-<!ENTITY sync.input.server.label "سرور URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; چھنء گسان سیٹ اپ">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; جُڈیو نء سرورس ستھ۔ بیِی جڈوِ؟">
-<!ENTITY sync.button.tryagain.label "بیِی کریو کوشِش">
-<!ENTITY sync.button.manual.label "مینول سیٹ اپ">
-<!ENTITY sync.subtitle.nointernet.label "انٹرنٹ کنکشن چھنء دستیاب۔">
-<!ENTITY sync.subtitle.failaccount.label "تہندِس ڈوایسس پٹھ بنیونء اکاونٹ۔">
-
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "سیٹ اپ سپدیو">
-<!ENTITY sync.subtitle.success.label1 "تُہند ڈاٹا چُھ پۃکن ڈاونلوڈ گسان۔ توہ ھکیو سیٹنگ منز پنُن اکاونٹ سمبھیلتھ، نۃ ھکیو براوزنگ شروع کرتھ &brandShortName; ستھ۔">
-<!ENTITY sync.settings.label "سیتنگس">
-<!ENTITY sync.subtitle.manage.label1 "تُھند &syncBrand.fullName.label; اکاونٹ چُھ گُڈاے سیٹ اپ کرنء آمت۔ توہ ھکیو سیٹنگ منز پنُن اکاونٹ سمبھیلتھ، نتء کریو شروع &brandShortName;۔">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "مہربانی کرتھ کریو بیِی کوشش۔">
-<!ENTITY sync.pair.connectlocation.label "پنُن نو ڈوایس چالو کرنء کھیترء، چنیو \&quot;سیٹ اپ &syncBrand.shortName.label;\&quot; ڈوایسس پٹھ، پتء چنیو \&quot;میا چھء اکھ اکاونٹ۔\&quot;">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "آپشنز">
-<!ENTITY sync.summary.pair.label "رلایو بیاکھ ڈوایس پنّںس &syncBrand.shortName.label; اکاونٹس ستھ۔">
 <!-- Configure Engines -->
-
-<!ENTITY sync.configure.engines.title.label "کیا چُھ سینک کرُن">
-<!ENTITY sync.configure.engines.sync.my.title.label "سینک کریو پنُن…">
-<!ENTITY sync.configure.engines.title.bookmarks "بوکمارکس">
-
 <!ENTITY sync.configure.engines.title.history "ماضی">
 <!ENTITY sync.configure.engines.title.tabs "ٹیبس">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "منسوخ کریو">
-<!ENTITY sync.button.connect.label "جڈیو">
-<!ENTITY sync.button.ok.label "ٹھیکھ">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (پرانیومُت)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +37,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "پرنُک پرچء">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "پن کرتھ">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "صرف اکء &syncBrand.fullName.label; اکاونٹچ چھء گنجایش۔">
-<!ENTITY sync.notification.configure.saved "تہند چناو آو محفوض کرنء۔">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "غلط اکاونٹ ناو یا پاسوءڈ۔">
-<!ENTITY sync.invalidserver.label "مہربانی کرتھ لیکھیو صحیح سرور URL">
-<!ENTITY sync.verifying.label "سرخرء کران…">
-<!ENTITY sync.new.recoverykey.status.incorrect "رِکوری کی چھء غلط۔ مہربانی کرتھ کریو  بیِی کوشش۔">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "ٹیب سوزیو ڈوایسن">
-<!ENTITY sync.button.send.label "سوزیو">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; سیٹ اپ">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "سیٹ اپ کریو &syncBrand.shortName.label; ٹیبس سوزنء کھیترء">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "پنّس ڈوایسس پٹھ کریو سیٹ اپ &syncBrand.fullName.label;  ٹیبس بیکس ڈوایسس سوزنء کھیترء۔">
 <!ENTITY sync.text.tab.sent.label "تہنز ٹیب آیء سوزنء!">
@@ -123,7 +55,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ایمیل">
-<!ENTITY fxaccount_password_hint "پاسوءڈ">
+
 <!ENTITY fxaccount_password_hide "چھپایو">
 <!ENTITY fxaccount_password_show "ھایو">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +143,7 @@
 
 
 
-<!ENTITY fxaccount_status_bookmarks "بوکمارکس">
+
 <!ENTITY fxaccount_status_history "ماضی">
 
 <!ENTITY fxaccount_status_tabs "کُھلائیو ٹیبس">

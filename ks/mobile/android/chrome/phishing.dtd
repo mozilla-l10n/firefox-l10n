@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY safeb.palm.decline.label "یِھ تنبیا کریو نزرانداز!">
-<!ENTITY safeb.palm.notforgery.label2 "یھ چنًھ ویب جال سازی…">
 
 
 
@@ -11,9 +10,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "یِھ ویب پیج  <span id='malware_sitename'/> چھ رپورٹ کرنھ آمت بیہ چھ یھ رکاونھ آمت تھنز سکوزٹی ترجیات متابکب.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p> اٹیک پیجس چھ پروگرام انسٹال کرنج کوشش کران یم زن نیجی زانکاری چھ ژوریح نیوان, تھند کمپیوٹر استمال کران باکین حملھ, یا تھندس سسٹمس نکسان واتناونھ خیترح .</p><p> کینھ اٹیک پیج چھ  زانتھ مانتھ نقساندہ سوفٹ ویر تقسیم کران, مگر واریح چھ تِھنزِ علم یا اجازت روستی کمپروماعز گژان.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "مشتبہ ویب جال سازی!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "یتھ پیجس پیٹھ کنھ تی نیجی زانکاری درج کرنہ سیتھ حیکوح تھنزِ تفسیلات ژورح نیتھ  یا بدل کنھ فراڈ گشتھ ">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p> یم ویب جالسازی چھ گوٹال یتھ پھشنگ اٹیک چھ ونان, یتھ منز زن ویب پیج تیھ عی میلز چھ یوان استمال کرنھ یم زن پیٹھ ایس بروسہ کرو.</p> ">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.unwantedPage.title "رپورٹ کریو غیر متلبہ سوفٹ ویر سائٹ!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
