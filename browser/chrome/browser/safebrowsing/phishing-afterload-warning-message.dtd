@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "இங்கிருந்து என்ன வெளியேற்று!">
 
-<!ENTITY safeb.palm.notforgery.label2 "இது ஒரு இணைய மோசடி இல்லை…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -14,8 +14,7 @@
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
-<!ENTITY safeb.blocked.phishingPage.title "இணைய மோசடி என அறிக்கையிடப்பட்டுள்ளது!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

@@ -53,23 +53,12 @@
 
 
 
-
-
-
-
-
-
-
-
 <!ENTITY securityOverride.getMeOutOfHereButton "இங்கிருந்து என்ன வெளியேற்று!">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
-
-
-
 
 
 

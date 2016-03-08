@@ -155,10 +155,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY subscribeToPageMenupopup.label "இப்பக்கத்தில் சந்தாபெறுக">
+
 <!ENTITY subscribeToPageMenuitem.label "இப்பக்கத்தில் சந்தாபெறுக">
 <!ENTITY addCurPagesCmd.label "அனைத்துத் தத்தல்களையும் புத்தகக்குறியிடுக…">
 <!ENTITY showAllBookmarks2.label "அனைத்துப் புத்தகக்குறிகளையும் காட்டுக">
+
 <!ENTITY unsortedBookmarksCmd.label "வரிசையாக்கப்படாத புத்தகக்குறிகள்">
 <!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளைக் காட்டுக">
 
@@ -234,6 +235,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "இணையத்தள அபிவிருத்தியாளர்">
 <!ENTITY webDeveloperMenu.accesskey   "W">
+
+
 
 
 
@@ -395,6 +398,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
@@ -482,6 +486,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "புதிய தத்தலில் சட்டகத்தைத் திறக்க">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "இந்தச் சட்டகத்தை மட்டும் காட்டுக">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -691,7 +697,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "முடிந்தது">
-<!ENTITY editBookmark.cancel.label                   "ரத்து">
 
 
 
@@ -720,13 +725,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY identity.permissions "அனுமதிகள்">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "உலாவித் தத்தல்கள்">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">
 
@@ -754,7 +774,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY social.closeNotificationItem.label "இப்போது இல்லை">
-
 
 
 
@@ -837,10 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-
-
-
 
 
 
