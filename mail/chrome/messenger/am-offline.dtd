@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "d">
 <!ENTITY retentionKeepRecent.label "Wšykne mimo nejnowšych">
 <!ENTITY retentionKeepRecent.accesskey "m">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Pśecytane powěsći pśecej lašowaś (pśepisujo starstwowe nastajenja)">
 <!ENTITY retentionApplyToFlagged.label "Powěsći z gwězdku pśecej wobchowaś">
 <!ENTITY retentionApplyToFlagged.accesskey "c">
 <!ENTITY nntpRemoveMsgBody.label "Wopśimjeśa z powěsćow wótwónoźeś, kótarež su wěcej ako">
