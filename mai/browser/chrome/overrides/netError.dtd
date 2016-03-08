@@ -128,19 +128,6 @@
 जे &brandShortName; वेबक पहुँचबाक लेल अनुमति प्राप्त अछि.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "संदेहास्पद हमला साइट!">
-<!ENTITY malwareBlocked.longDesc "<p>हमला साइट उन प्रोग्रामकेँ संस्थापित करबाक कोशिश करैत अछि जे निज जानकारी चुराबै अछि, अहाँक कंप्यूटरक प्रयोग दोसर पर हमलाक लेल करैत अछि, अथवा अहाँक सिस्टम केँ क्षति पहुंचाबैत अछि.</p> 
-<p>वेब साइटक मालिक जे विश्वास करैत छी जे हुनका साइट ककरो गलतीक वजह सँ हमला साइटक रूपेँ रिपोर्ट कएल गेल अछि ओ <a href='http://www.stopbadware.org/home/reviewinfo' >समीक्षाक लेल आग्रह</a> कए सकैत अछि.</p>">
-
-<!ENTITY unwantedBlocked.title "संदिग्ध अवांछित सॉफ्टवेयर साइट!">
-<!ENTITY unwantedBlocked.longDesc "<p>अवांछित सॉफ्टवेयर पृष्ठ ओ सॉफ्टवेयर स्थापित करए केर प्रयास करैत अछि जेभ्रामक भ सकैछ आओर अप्रत्याशित तरीका मे अहाँक तंत्र केँ प्रभावित कए सकैत अछि.</p>">
-
-<!ENTITY phishingBlocked.title "संदेहास्पद वेब धोखाधड़ी!">
-<!ENTITY phishingBlocked.longDesc "<p>ककरो निज सूचना केँ एहि पृष्ठ पर दाखिल कएनाइ पहचान चोरी अथवा दोसर धोखाक कारण भए सकैत अछि.</p> 
-<p>ई प्रकारक वेब धोखाधड़ी केँ फिशिंग हमलामे प्रयुक्त होइछ, जकरामे धोखा दिअबला वेब पृष्ठ आओर इमेल केँ ओ स्रोतक नकलक लेल प्रयोग कएल जाइत  अछि जकरा पर अहाँ भरोसा करैत अछि.</p>">
-
-
-
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
@@ -163,9 +150,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "आओर जानू…">
-<!ENTITY errorReporting.sending "रिपोट पठाए रहल अछि">
-<!ENTITY errorReporting.sent "रिपोर्ट पठाएल गेल">
-<!ENTITY errorReporting.tryAgain "फेर कोशिश करू">
 
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">

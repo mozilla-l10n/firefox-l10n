@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "एतयसँ हमरा निकालू!">
 <!ENTITY safeb.palm.decline.label "ई चेतावनी केँ अनदेखा  करू ">
-<!ENTITY safeb.palm.notforgery.label2 "ई वेब धोखाधड़ी नहि अछि …">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -18,10 +18,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "एहि वेब पेज <span id='unwanted_sitename'/> अवांछित सॉफ्टवेयर रखबा लेल सूचित कैल गेल अछि आओर अहाँक सुरक्षा वरीयता क आधार पर अवरोध कए देल गेल अछि.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>अवांछित सॉफ्टवेयर पृष्ठ ओ सॉफ्टवेयर स्थापित करए केर प्रयास करैत अछि जेभ्रामक भ सकैछ आओर अप्रत्याशित तरीका मे अहाँक तंत्र केँ प्रभावित कए सकैत अछि.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "रिपोर्ट कएल वेब धोखा!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/>  पर क वेबसाइट केँ एकटा वेब धोखाधड़ीक रूपेँ रिपोर्ट कएल गेल अछि आओर अहाँक सुरक्षा वरीयताक आधार पर रोकल गेल अछि .">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>वेब धोखाधड़ी ओ स्रोतक नकल कएक जकरा अहाँ भरोसा करैत छी अहाँकेँ फँसाबैक तरीका अछि जकरासँ अहाँ निज अथवा वित्तीय सूचना खोलि दैछी.</p><p>ई वेब पृष्ठ पर ककरो सूचना केँ दाखिल  कएनाइ पहचानक चोरी अथवा धोखाक परिणाम देत अछि .</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
