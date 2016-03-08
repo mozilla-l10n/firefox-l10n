@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "J">
 <!ENTITY retentionKeepRecent.label "Hapus selain yang paling akhir">
 <!ENTITY retentionKeepRecent.accesskey "a">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Selalu hapus pesan yang telah dibaca (menggantikan pengaturan umur pesan)">
 <!ENTITY retentionApplyToFlagged.label "Selalu simpan pesan berbintang">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Hapus isi dari pesan jika lebih dari">
