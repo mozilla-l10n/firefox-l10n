@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Duu hunyaney war doo-šilbawey nda taarikoo ra ceeciyan waate.">
 <!ENTITY firstrun_data_title "Bayhayey">
 <!ENTITY firstrun_data_message "Bayhaya žabu, lanbarey tonton">
-<!ENTITY firstrun_data_subtext "Biyey ganji ka bayhayey nakaši nungu kul kaŋ war dii ya ga.">
+
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName; goo war bande waati kul">
 <!ENTITY firstrun_sync_subtext "War kanjey, doo-šilbawey nda taney hangandi cere nungu kul kaŋ war g\u0027i ka goy.">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Waati kul">
 <!ENTITY pref_tap_to_load_images_data "Wi-Fi hinne bande">
 <!ENTITY pref_tap_to_load_images_disabled2 "Gagayante">
+
 
 <!ENTITY pref_tracking_protection_title "Ganayan jejebuyan">
 <!ENTITY pref_tracking_protection_summary3 "A tunandi sutura naaruyan ra">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Dijikul ceeciyan">
 <!ENTITY pref_scroll_title_bar_summary2 "&brandShortName; goyjinay zuu tugu nda moɲoo ga cenda ka zunbu">
 
-<!ENTITY pref_tab_queue_title2 "Dobu booboyaŋ feeri">
-<!ENTITY pref_tab_queue_summary3 "I gaabu hala hiino kaŋ war ga &brandShortName; feeri">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Gundekuna kul mana duwandi fasaldogoo woo se.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Hala &formatS; do">
 
 <!ENTITY home_remote_tabs_title "Kanji cere-hangantey">
 <!ENTITY home_remote_tabs_empty "Wa cebe ne war kanjey kaŋ hun jinay taney ga.">
@@ -648,8 +646,6 @@ Android ra">
 
 <!ENTITY suggestion_for_engine "Ceeci &formatS1; &formatS2; se">
 
-<!ENTITY webapp_generic_name "Porogaramize">
-
 <!ENTITY searchable_description "Doo-šilbawey nda taariki">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ Android ra">
 <!ENTITY remote_tabs_last_synced "Hangande koraa: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Hangandiyan kokorante: abada">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Ši hin ka doboo feeri">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ Android ra">
 
 <!ENTITY unsupported_sdk_version "Alhaa naŋ! &brandShortName; dumoo woo ši koy nda jinaa woo (&formatS1;, &formatS2;). Dumi boryaa zumandi taare.">
 
-<!ENTITY eol_notification_title "&brandShortName; ši koy nda Android 3 koyne">
 <!ENTITY eol_notification_summary "Karkar ka bay ka tonton">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+

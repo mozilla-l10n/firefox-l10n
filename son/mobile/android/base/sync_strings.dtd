@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; cee">
-<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; kontu tonton">
-<!ENTITY sync.title.pair.label "Jinay foo margandi">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Ka war jinay taagaa dirandi, “&syncBrand.shortName.label; kayandiyan” suuba jinaa ga.">
-<!ENTITY sync.subtitle.header2.label "Ašariyaa woo dam war jinay faa ga">
-<!ENTITY sync.subtitle.connectlocation2.label "Zaa “&sync.title.pair.label;” &syncBrand.shortName.label; dunboo ra war jinay faa se Firefox suubarey game.">
 <!ENTITY sync.subtitle.pair.label "Ka dirandi, wa “Jinay foo margandi” suuba war jinay faa ga.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Takaa cebe yane.">
-<!ENTITY sync.link.advancedsetup.label "Kayandiyan koyjinante…">
 <!ENTITY sync.link.nodevice.label "Jinaa ši ay kone sohõda…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Goo ma jinay faa batu…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "War &syncBrand.fullName.label; kontu alhabaroo dam">
-<!ENTITY sync.input.username.label "Kontu maa">
-<!ENTITY sync.input.password.label "Šennikufal">
-<!ENTITY sync.input.key.label "Yeetiyan kufal">
-<!ENTITY sync.checkbox.server.label "Goy nda alaada feršikaw">
-<!ENTITY sync.input.server.label "Feršikaa URL aderesoo">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Ši hin ka &syncBrand.shortName.label; kayandi">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; mana hin ka feršikaa cee. War boona a ma ceeci ka ciya koyne?">
-<!ENTITY sync.button.tryagain.label "Ceeci koyne">
-<!ENTITY sync.button.manual.label "Kanbe-kayandiyan">
-<!ENTITY sync.subtitle.nointernet.label "Interneti ciyari kul ši bara.">
-<!ENTITY sync.subtitle.failaccount.label "Kontu mana hin ka tee war jinaa ga.">
-<!ENTITY sync.subtitle.failmultiple.label "War Firefox sinjantey ka bisa affoo? Sohõda &syncBrand.fullName.label; ga hin ka goy nda Firefox sinjari foo de cee foo kul. Taare jerey hetti kaa ka goy nda &syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Kayandiyan timme">
-<!ENTITY sync.subtitle.success.label1 "War bayhaya goo ma zunbu bandafaaroo ra. War ga hin ka koy Kayandiyaney do ka war kontoo juwal wala ka šintin ka naaru nda &brandShortName;.">
-<!ENTITY sync.settings.label "Kayandiyaney">
-<!ENTITY sync.subtitle.manage.label1 "War &syncBrand.fullName.label; kayandi ka ben. War ga hin ka koy Kayandiyaney do ka war kontoo juwal wala ka &brandShortName; tunandi.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Wa ceeci koyne taare.">
-<!ENTITY sync.pair.connectlocation.label "Ka war jinaa dirandi, “&syncBrand.shortName.label;” suuba a ga nda “Ay goo nda kontu”.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Suubarey">
-<!ENTITY sync.summary.pair.label "Jinay tana foo dobu war &syncBrand.shortName.label; kontoo ga">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Hayey kaŋ ga hangandi">
-<!ENTITY sync.configure.engines.sync.my.title.label "Hangandi…">
-<!ENTITY sync.configure.engines.title.bookmarks "Doo-šilbawey">
 <!ENTITY sync.configure.engines.title.passwords2 "Huruyan tammaasawey">
 <!ENTITY sync.configure.engines.title.history "Taariki">
 <!ENTITY sync.configure.engines.title.tabs "Kanjey">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Naŋ">
-<!ENTITY sync.button.connect.label "Ciya">
-<!ENTITY sync.button.ok.label "Ayyo">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (nakaši)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Caw maašeede">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Kanjante">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; kontu foo hinne ma kanbandi.">
-<!ENTITY sync.notification.configure.saved "War suubarey mana gaabundi.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Kontu maa wala šennikufal laala.">
-<!ENTITY sync.invalidserver.label "Taare feršikaw URL aderesu boryo dam">
-<!ENTITY sync.verifying.label "Goo ma koroši…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Yeetiyan kufal laala. Ceeci koyne taare.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Kanjoo sanba jinawey do">
-<!ENTITY sync.button.send.label "Sanba">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; kayandi">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; kayandi ka kanjey sanba">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Wa &syncBrand.fullName.label; kayandi war jinaa ga ka kanjey sanba jinay taney do.">
 <!ENTITY sync.text.tab.sent.label "War kanjoo sanbandi!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Bataga">
-<!ENTITY fxaccount_password_hint "Šennikufal">
+
 <!ENTITY fxaccount_password_hide "Tugu">
 <!ENTITY fxaccount_password_show "Cebe">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋse. “Auto-sync data” kanji Android kayandiyaney ra &gt; Bayhaya goy fondo.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋ se. “Auto-sync data” kanji Android kayandiyaney ra &gt; Kontey.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Karkar ka huru war Firefox kontu taagaa ra.">
-<!ENTITY fxaccount_status_bookmarks "Doo-šilbawey">
+
 <!ENTITY fxaccount_status_history "Taariki">
 <!ENTITY fxaccount_status_passwords2 "Huruyan tammaasawey">
 <!ENTITY fxaccount_status_tabs "Nor lokey feeri">
