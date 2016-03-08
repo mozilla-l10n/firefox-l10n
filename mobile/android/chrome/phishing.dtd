@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "ఇక్కడినుండి నన్ను బయటపడవేయి!">
 <!ENTITY safeb.palm.decline.label "ఈ హెచ్చరికను పట్టించుకోకండి">
-<!ENTITY safeb.palm.notforgery.label2 "ఇది మోసపు వెబ్ సైటు కాదు…">
 
 
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> వద్ద ఉన్న వెబ్‌సైటు మోసపూరితమైనదిగా నివేదించబడింది అందువల్ల మీ బధ్రత అభీష్టాల ఆధారంగా నిరోధించబడింది.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>దాడి సైటులు మీవ్యక్తిగత సమాచారాన్ని దొంగిలించు ప్రోగ్రామ్‌లను సంస్థాపించుటకు ప్రయత్నిస్తాయి, మీకంప్యూటర్ ఇతరులను దాడిచేయుటకు వుపయోగిస్తాయి, లేదా మీసిస్టమ్‌ను పాడుచేస్తాయి.</p><p>కొన్ని దాడిసైటులు కావాలని హానికారక సాఫ్ట్‌వేరును పంపిణిచేస్తాయి,కాని చాలావరకు వాటియజమానుల అనుమతిగాని లేదా సంబంధంగాని లేకుండానే రాజీకి వస్తాయి.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "అనుమానించిన వెబ్ మోసము!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ఈ పేజీ పైన ఏదేని వ్యక్తిగత సమాచారం ప్రవేశపెట్టిన అది దొంగిలించబడవచ్చు లేదా దగా చేయబడుదురు.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ఈ రకమైన వెబ్‌మోసాలు స్కాములలో వుపయోగిస్తారు ఇవి ఫిష్షింగ్ దాడులనికూడా చెప్పవచ్చు, మీరు నమ్మేటటువంటి వెబ్ పేజీలు మరియు ఈమెయిలులను అనుకరిస్తూ మోసపూరితమైనవి చేసి వుపయోగిస్తారు.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> వద్ద ఉన్న వెబ్‌సైటు మోసపూరితమైనదిగా నివేదించబడింది అందువల్ల మీ బధ్రత అభీష్టాల మేరకు నిరోధించబడింది.">
