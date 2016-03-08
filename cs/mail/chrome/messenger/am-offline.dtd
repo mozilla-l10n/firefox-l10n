@@ -28,7 +28,6 @@
 <!ENTITY retentionKeepRecent.label "Smazat vše mimo posledních">
 <!ENTITY retentionKeepRecent.accesskey "S">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Vždy smazat přečtené zprávy (nezávisle na jejich stáří)">
 <!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
 <!ENTITY retentionApplyToFlagged.accesskey "u">
 <!ENTITY nntpRemoveMsgBody.label "Odstranit těla zpráv starších než">
