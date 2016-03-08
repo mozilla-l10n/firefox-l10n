@@ -72,18 +72,6 @@
 <li>Ge e ba nakong e fetilego o ikgokagantše go seabi se ka katlego, phošo e ka ba e le ya nakwana, gomme o ka leka gape ka moragonyana.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Saete yeo e belaelwago ya go hlasela!">
-<!ENTITY malwareBlocked.longDesc "<p>Disaete tša go hlasela di leka go lokela mananeo ao a utswago tshedimošo ya praebete, go diriša khomphutha ya gago go hlasela tše dingwe, goba go senya tshepedišo ya gago.</p> 
-<p>Beng ba diwepesaete bao ba dumelago gore saete ya bona e begilwe e le saete ya go hlasela ka phošo ba ka <a href='http://www.stopbadware.org/home/reviewinfo' >kgopela tlhahlobo</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Bofora bjo bo belaelwago bja wepe!">
-<!ENTITY phishingBlocked.longDesc "<p>Go tsenya tshedimošo ya botho letlakaleng le go ka baka go utswiwa ga boitsebišo goba boradia bjo bongwe.</p> 
-<p>Mehuta ye ya boradia bja wepe e dirišwa bohwirihwiring bjo bo tsebjwago e le ditlhaselo tša boradia, moo matlakala a boradia a wepe le diimeile di dirišwago go ekiša methopo yeo o ka bago o e botile.</p>">
-
-
-
 
 
 <!ENTITY cspBlocked.title "E thibetšwe ke pholisi ya tšhireletšego ya dikagare">
