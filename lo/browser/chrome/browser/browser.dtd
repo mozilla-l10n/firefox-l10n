@@ -156,10 +156,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY subscribeToPageMenupopup.label "ເປັນສະມາຊິກຫນ້ານີ້">
+
 <!ENTITY subscribeToPageMenuitem.label "ເປັນສະມາຊິກຫນ້ານີ້...">
 <!ENTITY addCurPagesCmd.label "ບຸກມາກຂອງທຸກແຖບ...">
 <!ENTITY showAllBookmarks2.label "ສະແດງທຸກບຸກມາກ">
+
 <!ENTITY unsortedBookmarksCmd.label "ຈັດລຳດັບບຸກມາກຄືນໃຫມ່">
 <!ENTITY bookmarksToolbarChevron.tooltip "ສະແດງບຸກມາກເພີມເຕີມ">
 
@@ -238,6 +239,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 
 
@@ -395,6 +398,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
@@ -480,6 +484,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ເປີດເຟຣມໃນຫນ້າຕ່າງໃຫມ່">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "ສະແດງພຽງເຟຣມນີ້ເທົ່ານັ້ນ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -690,7 +696,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "ສຳເລັດ">
-<!ENTITY editBookmark.cancel.label                   "ຍົກເລີກ">
 
 
 
@@ -720,11 +725,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ແຖບບຣາວເສີ">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -745,7 +765,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.toggleNotifications.label "ສະແດງໜ້າຈໍຫຼັກ ແລະ ການແຈ້ງເຕືອນ">
 <!ENTITY social.toggleNotifications.accesskey "n">
-
 
 
 
@@ -832,10 +851,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-
-
-
 
 
 

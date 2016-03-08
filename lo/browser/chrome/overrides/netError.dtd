@@ -49,15 +49,6 @@
 
 
 
-<!ENTITY malwareBlocked.longDesc "<p>ເວັບໃຊ້ໂຈມຕີພະຍາຍາມຕິດຕັ້ງໂປຼແກຣມທີ່ໃຊ້ຂໍ້ມູນສ່ວນໂຕ, ໃຊ້ຄອມພິວເຕີເຮົາໃນການໂຈມຕີເວັບໃຊ້ອື່ນ ຫລື ທຳລາຍລະບົບຂອງທ່ານ</p>
-<p>ເຈົ້າຂອງເວັບໃຊ້ຜູ້ທີ່ເຊື່ອວ່າເວັບຂອງພວກເຂົາໄດ້ຖືກລາຍງານວ່າເປັນເວັບໃຊ້ໂຈມຕີໃນທາງທີ່ຜິດ<a href='http://www.stopbadware.org/home/reviewinfo' >ທ່ານອາດຈະຂໍກວດເບິງຄືນໄດ້</a>.</p>">
-
-
-
-
-
-
-
 
 
 
@@ -68,9 +59,6 @@
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
-
-
-
 
 
 
