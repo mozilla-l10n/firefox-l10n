@@ -72,20 +72,6 @@
 <li>Si ya ha connectau con iste servidor con exito en o pasau, a error podría estar temporal, y podrá tornar a intentar-lo mas tarde.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Iste puesto web podría estar atacant!">
-<!ENTITY malwareBlocked.longDesc "<p>Os puestos web atacants Miran d'instalar programas que rapan a información privada, usan o suyo ordinador ta atacar a atros, u danyan o suyo sistema.</p> 
-<p>Os propietarios de puestos web que creigan que o suyo puesto ha estau identificau erroniament como puesto atacant pueden <a href='http://www.stopbadware.org/home/reviewinfo' >solicitar una revisión</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Puesto sospeitoso de Software no deseyau!">
-<!ENTITY unwantedBlocked.longDesc "<p>As pachinas de software no desesyau mirar d'instalar softare que puede estar enganyosos y afectar a o suyo sistema de trazas no asperadas.</p>">
-
-<!ENTITY phishingBlocked.title "Posible suplantación de web!">
-<!ENTITY phishingBlocked.longDesc "<p>Si escribe información personal en ista pachina podría resultar en una suplantación d'identidat u belatro fraude.</p> 
-<p>Istos tipos de falsificacions de webs s'usan en timos conoixius como ataques de phishing, en os quals s'usan pachinas web y mensaches de correu electronico fraudulentos ta imitar fuents en as quals se confía.</p>">
-
-<!ENTITY forbiddenBlocked.title "Puesto vedau">
-<!ENTITY forbiddenBlocked.longDesc "<p>Lo navegador ha privau que ista pachina se cargue porque ye configurau pa blocar-la.</p>">
-
 <!ENTITY securityOverride.linkText "U puede anyader-ie una excepción…">
 <!ENTITY securityOverride.warningContent "<p>No habría d'adhibir una excepción si ye usando una connexión d'Internet en a qual no confíe de tot u si no ye feito a veyer garra alvertencia sobre iste servidor.</p> 
 <p>Si encara deseya adhibir una excepción ta iste puesto, puede fer-lo en a suya configuración abanzada de cifrau.</p>">
