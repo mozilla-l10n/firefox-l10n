@@ -72,20 +72,6 @@
 <li>Aurretik zerbitzari honetara behar bezala konektatu bazara, errorea behin-behinekoa izan daiteke eta geroago saia zaitezke.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Ustezko web erasoa!">
-<!ENTITY malwareBlocked.longDesc "<p>Zure informazio pertsonala ostu, zure ordenagailua besteei erasotzeko erabili edo zure sistema kaltetzeko programak instalatzen saiatzen dira gune erasotzaileak.</p> 
-<p>Beren gunea erasogune oker bezala agertzen dela uste duten webguneen jabeek <a href='http://www.stopbadware.org/home/reviewinfo'>berrikuspen bat</a> eska dezakete.</p>">
-
-<!ENTITY unwantedBlocked.title "Nahi ez den softwarearen gune susmagarria!">
-<!ENTITY unwantedBlocked.longDesc "<p>Nahi ez den softwarearen orriak iruzurtiak izan daitezke eta zure sistema espero gabeko moduetan eragiteko softwarea instalatzen saiatzen dira.</p>">
-
-<!ENTITY phishingBlocked.title "Ustezko web iruzurra!">
-<!ENTITY phishingBlocked.longDesc "<p>Orri honetan informazio pertsonala sartzeak nortasun lapurreta edo beste iruzurren batean erortzea ekar lezake.</p> 
-<p>Webeko iruzur mota hau phishing eraso bezala ezagutzen da eta orri nahiz helbide elektroniko faltsuak erabiltzen dira konfiantzazko gune baten aurrean zaudela sinestarazteko.</p>">
-
-<!ENTITY forbiddenBlocked.title "Gune debekatua">
-<!ENTITY forbiddenBlocked.longDesc "<p>Nabigatzaileak orri hau kargatzea eragotzi du konfigurazioak blokeatu duelako.</p>">
-
 <!ENTITY securityOverride.linkText "Edo salbuespen bat gehi dezakezu…">
 <!ENTITY securityOverride.warningContent "<p>Ez zenuke salbuespenik gehitu behar erabat fidatzekoa ez den Internet konexio bat erabiltzen ari bazara edo ez bazaude ohituta zerbitzari honetarako abisuak ikustera.</p> 
 <p>Hala ere salbuespen bat gehitu nahi baduzu, zifratze-ezarpen aurreratuetan ezar dezakezu.</p>">

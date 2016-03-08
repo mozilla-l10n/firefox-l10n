@@ -130,20 +130,6 @@ sareko konexioa.</li>
 egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Ustezko eraso gunea!">
-<!ENTITY malwareBlocked.longDesc "<p>Gune erasotzaileek zure informazio pertsonala ostu, zure ordenagailua besteei erasotzeko erabili edo zure sistema kaltetzeko programak instalatzen saiatzen da.</p> 
-<p>Beren gunea erasogune bezala oker berri emanda dagoela uste duten webguneen jabeek <a href='http://www.stopbadware.org/home/reviewinfo'>berrikuspen bat</a> eska dezakete.</p>">
-
-<!ENTITY unwantedBlocked.title "Nahi ez den softwarearen gune susmagarria!">
-<!ENTITY unwantedBlocked.longDesc "<p>Nahi ez den softwarearen orriak iruzurtiak izan daitezke eta zure sistema espero gabeko moduetan eragiteko softwarea instalatzen saiatzen dira.</p>">
-
-<!ENTITY phishingBlocked.title "Ustezko web iruzurra!">
-<!ENTITY phishingBlocked.longDesc "<p>Orri honetan informazio pertsonala idaztean nortasun iruzur bat egiteko aukera dago.</p> 
-<p>Mota honetako web iruzurrak phishing eraso gisa ezagutzen dira, eta zure konfiantzazko webgune eta helbide elektronikoak imitatzen dira.</p>">
-
-<!ENTITY forbiddenBlocked.title "Gune debekatua">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName;(e)k orri hau kargatzea eragotzi du konfigurazioak blokeatu duelako.</p>">
-
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du edukien segurtasun-politikak baimentzen ez duelako.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Eman honen gisako erroreen berri Mozillari asmo txarreko guneak identifikatzen eta blokeatzen laguntzeko">
 <!ENTITY errorReporting.learnMore "Argibide gehiago…">
-<!ENTITY errorReporting.sending "Txostena bidaltzen">
-<!ENTITY errorReporting.sent "Txostena bidalita">
-<!ENTITY errorReporting.tryAgain "Saiatu berriro">
 
 <!ENTITY remoteXUL.title "Urruneko XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jar zaitez webgunearen jabeekin harremanetan arazo honen berri emateko.</li></ul></p>">
