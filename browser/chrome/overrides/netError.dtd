@@ -130,20 +130,6 @@
 कि &brandShortName; वेब अभिगमन के लिए अनुमति प्राप्त है.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title " संदेहास्पद हमला साइट!">
-<!ENTITY malwareBlocked.longDesc " <p>हमला साइट उन प्रोग्रामों को संस्थापित करने की कोशिश करता है जो निजी सूचना चुराते हैं, आपके कंप्यूटर का प्रयोग दूसरों पर हमले के लिए करते हैं, या आपके सिस्टम को क्षति पहुंचाते हैं.</p> 
-<p>वेब साइट के मालिक जो विश्वास करते हैं कि उनका साइट किसी गलती की वजह से हमला साइट के रूप में रिपोर्ट किया गया है वे <a href='http://www.stopbadware.org/home/reviewinfo' >समीक्षा के लिए आग्रह</a> कर सकते हैं.</p>">
-
-<!ENTITY unwantedBlocked.title "संदिग्ध अवांछित सॉफ्टवेयर साइट!">
-<!ENTITY unwantedBlocked.longDesc "<p>अवांछित सॉफ्टवेयर पृष्ठ वह सॉफ्टवेयर स्थापित करने का प्रयास करता हैं जो भ्रामक हो सकता है और अप्रत्याशित तरीके में आपके तंत्र को प्रभावित कर सकता है.</p>">
-
-<!ENTITY phishingBlocked.title " संदेहास्पद वेब धोखाधड़ी!">
-<!ENTITY phishingBlocked.longDesc " <p>किसी निजी सूचना को इस पृष्ठ पर दाखिल करना पहचान चोरी या दूसरे धोखे का कारण हो सकता है.</p> 
-<p>इस प्रकार के वेब धोखाधड़ी को फिशिंग हमले में प्रयुक्त होता है, जिसमें धोखा देने वाले वेब पृष्ठ और ईमेल को उन स्रोतों की नकल के लिए प्रयोग किया जाता है जिसपर आप भरोसा करते हैं.</p>">
-
-<!ENTITY forbiddenBlocked.title "निषेधित साइट">
-
-
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
@@ -166,9 +152,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "अधिक जानें…">
-<!ENTITY errorReporting.sending "रिपोर्ट भेजी जा रही है">
-<!ENTITY errorReporting.sent "रिपोर्ट भेजें">
-<!ENTITY errorReporting.tryAgain "फिर कोशिश करें">
 
 <!ENTITY remoteXUL.title " दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc " <p><ul><li>कृपया वेबसाइट स्वामी को इस समस्या के बारे में सूचित करने के संपर्क करें.</li></ul></p>">

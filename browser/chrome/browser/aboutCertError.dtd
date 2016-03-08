@@ -34,6 +34,3 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "अपवाद जोड़ें…">
 <!ENTITY certerror.copyToClipboard.label "काटपट पाठ की नक़ल करें">
 
-<!ENTITY errorReporting.sending "रिपोर्ट भेजी जा रही है">
-<!ENTITY errorReporting.sent "रिपोर्ट भेजा गया">
-<!ENTITY errorReporting.tryAgain "फिर कोशिश करें">
