@@ -117,18 +117,6 @@
 <li>જો તમારું કમ્પ્યૂટર અથવા નેટવર્ક એ ફાયરવોલ અથવા પ્રોક્સીથી સુરક્ષિત કરાયેલ હોય, તો ખાતરી કરો કે  &brandShortName; ને વેબ વપરાશની પરવાનગી છે.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "શંકાસ્પદ હુમલા સાઈટ!">
-<!ENTITY malwareBlocked.longDesc "<p>હુમલા સાઈટો કાર્યક્રમો સ્થાપિત કરવાનો પ્રયાસ કરશે કે જે ખાનગી જાણકારી ચોરે છે, બીજા પર હુમલો કરવા માટે, અથવા તમારા કમ્પ્યૂટરમાં બગાડ કરવા માટે તમારું કમ્પ્યૂટર વાપરે છે.</p> 
-<p>વેબ સાઈટ માલિકો કે જેઓ માને છે કે તેમની સાઈટ હુમલા સાઈટ તરીકે અહેવાલ આપવામાં આવેલ છે તેઓ <a href='http://www.stopbadware.org/home/reviewinfo' >રીવ્યુની અરજી કરી શકશે</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "શંકાસ્પદ વેબ ગુનો!">
-<!ENTITY phishingBlocked.longDesc "<p>આ પાનાં પર અંગત જાણકારી દાખલ કરરવાનું ઓળખ ચોરી કે અન્ય ગુનામાં પરિણમશે.</p> 
-<p>આ પ્રકારના વેબ ગુનાઓ ફીશીંગ હુમલાઓ તરીકે ઓળખાતા સ્કેમમાં વપરાય છે, કે જેમાં ગુનાવાળા વેબ પાનાંઓ અને ઈમેલો સ્રોત બગાડવા માટે વપરાય છે કે જેનો વિશ્વાસ મૂકી શકો.</p>">
-
-
-
 
 
 <!ENTITY corruptedContentError.title "બગડેલું વસ્તુ સંપાદક">
@@ -148,9 +136,6 @@ functionality specific to firefox. -->
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
-
-
-
 
 
 

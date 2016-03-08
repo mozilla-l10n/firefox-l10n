@@ -48,6 +48,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "સક્રિય થયેલ પ્લગઇનો">
 <!ENTITY aboutSupport.appBasicsBuildConfig "બિલ્ડ રૂપરેખાંકન">
 <!ENTITY aboutSupport.appBasicsUserAgent "વપરાશકર્તા એજન્ટ">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "મેમરી વપરાશ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
