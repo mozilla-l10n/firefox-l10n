@@ -12,7 +12,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "صفحهٔ به نشانی <span id='malware_sitename'/> به عنوان یک صفحهٔ تهاجمی گزارش شده است و دسترسی به آن بر اساس ترجیحات امنیتی شما مسدود شده است.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>صفحه‌های تهاجمی تلاش می‌کنند برنامه‌هایی نصب کنند که اطلاعات خصوصی را سرقت می‌کنند، از رایانهٔ شما برای حمله به دیگران استفاده می‌کنند، یا به آن آسیب می‌زنند.</p><p>برخی صفحه‌های تهاجمی عمداً به پخش نرم‌افزارهای زیان‌بار می‌پردازند، ولی بسیاری از آن‌ها بدون اطلاع و مجوز صاحبانشان تصاحب گردیده‌اند.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "سایت گمراه‌کننده!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "صفحهٔ به نشانی <span id='phishing_sitename'/> به عنوان یک صفحهٔ گمراه‌کننده گزارش شده است و دسترسی به آن بر اساس ترجیحات امنیتی شما مسدود شده است.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "سایت نرم افزاری ناخواسته گزارش شده!">
