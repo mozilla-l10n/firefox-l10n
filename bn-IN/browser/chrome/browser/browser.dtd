@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "য়">
 <!ENTITY shareVideo.label "এই ভিডিওটি শেয়ার করুন">
 <!ENTITY shareVideo.accesskey "ভ">
-<!ENTITY feedsMenu.label "সাবস্ক্রাইব করুন">
-<!ENTITY subscribeToPageMenupopup.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন">
+
+
 <!ENTITY subscribeToPageMenuitem.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন...">
 <!ENTITY addCurPagesCmd.label "সমস্ত ট্যাব বুকমার্ক করুন...">
 <!ENTITY showAllBookmarks2.label "সকল বুকমার্ক প্রদর্শন">
+
 <!ENTITY unsortedBookmarksCmd.label "অবিন্যস্ত বুকমার্ক">
 <!ENTITY bookmarksToolbarChevron.tooltip "অতিরিক্ত বুকমার্ক প্রদর্শন করা হবে">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F2">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "সংযোগ করুন...">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -418,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "টুল-বারে যোগ করুন">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "মেনুতে যুক্ত করুন">
@@ -523,6 +527,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "নতুন উইন্ডোর মধ্যে ফ্রেম খোলা হবে">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "শুধুমাত্র বর্তমান ফ্রেম প্রদর্শন করা হবে">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -737,7 +743,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "সমাপ্ত">
-<!ENTITY editBookmark.cancel.label                   "বাতিল">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "সুরক্ষিত সংযোগ">
@@ -771,6 +776,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "আরও জানুন">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "অধিক বিবরণ">
 
 <!ENTITY identity.permissions "অনুমতি">
@@ -779,7 +786,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ব্রাইজারের ট্যাব">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "সুসংগতি">
 
@@ -817,7 +837,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "কোন পরিষেবা তে ক্লিক করে তাকে &brandShortName; এর সাথে যুক্ত করতে পারবেন।">
 <!ENTITY social.directory.viewmore.text "আরো দেখুন">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; স্বনির্ধারণ">
 <!ENTITY customizeMode.menuAndToolbars.header2 "অতিরিক্ত বৈশিষ্ট্য এবং টুল">
 <!ENTITY customizeMode.menuAndToolbars.empty "আরও টুল দরকার?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "হাজার হাজার অ্যাড-অন এর মধ্যে থেকে বাছুন">
@@ -923,7 +942,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM সম্পর্কে আরও জানুন...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "এই মুহূর্তে নয়">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "পুনরায় জিজ্ঞাসা করবেন না">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
