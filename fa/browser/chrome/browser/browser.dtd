@@ -163,12 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "ب">
 <!ENTITY shareVideo.label "به‌اشتراک‌گذاری این ویدئو">
 <!ENTITY shareVideo.accesskey "ب">
-
-
+<!ENTITY feedsMenu2.label "آبونه شدن در این صفحه">
+<!ENTITY subscribeToPageMenupopup.label "آبونه شدن در این صفحه">
 <!ENTITY subscribeToPageMenuitem.label "آبونه شدن در این صفحه…">
 <!ENTITY addCurPagesCmd.label "نشانک‌گذاری تمامی زبانه‌ها…">
 <!ENTITY showAllBookmarks2.label "نمایش همهٔ نشانک‌ها">
-
+<!ENTITY recentBookmarks.label "به تازگی نشانک‌گذاری شده">
 <!ENTITY unsortedBookmarksCmd.label "نشانک‌های مرتب نشده">
 <!ENTITY bookmarksToolbarChevron.tooltip "نشانک‌های بیشتری نمایش داده شود">
 
@@ -258,7 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "اتصال…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,18 +411,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "باز کردن منوراهنما">
 
 <!ENTITY appMenuRemoteTabs.label "زبانه‌های همگام‌سازی شده">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "در حال دریافت زبانه‌های همگام‌سازی شده…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "بدون زبانهٔ باز">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "همگام‌سازی زبانه‌ها را برای نمایش فهرست زبانه‌ها در دستگاه‌های دیگر خود روشن کنید.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "در دستگاه‌های دیگر خود وارد حساب فایرفاکس شوید تا زبانه‌های باز آنها را اینجا ببینید.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ترجیحات همگام‌سازی">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "وارد شوید تا فهرست زبانه‌ها را از دستگاه‌های دیگر خود ببینید.">
 <!ENTITY appMenuRemoteTabs.signin.label "برای همگام‌سازی وارد شوید">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "نمایش نوار زبانه‌های همگام شده">
 
 <!ENTITY customizeMenu.addToToolbar.label "افزودن به نوار ابزار">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ا">
@@ -791,17 +795,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "زبانه‌های همگام‌سازی شده">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "زبانه‌های همگام شده">
+<!ENTITY syncedTabs.sidebar.fetching.label     "در حال دریافت زبانه‌های همگام شده…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "در دستگاه‌های دیگر خود، وارد حساب فایرفاکس شوید تا زبانه‌های باز آنها را اینجا ببینید.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "برای نمایش فهرست زبانه‌ها از دستگاه‌های دیگر وارد شوید.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "بدون زبانهٔ باز">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "باز کردن ترجیحات &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "همگام‌سازی زبانه‌ها را برای نمایش فهرست زبانه‌ها در دستگاه‌های دیگر خود روشن کنید.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "باز کردن این زبانه">
+<!ENTITY syncedTabs.context.openTab.accesskey               "ب">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "نشانک‌گذاری این زبانه…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "ن">
 
 
 <!ENTITY syncBrand.shortName.label    "هم‌گام‌سازی">
