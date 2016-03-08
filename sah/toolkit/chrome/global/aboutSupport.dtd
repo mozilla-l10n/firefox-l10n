@@ -45,6 +45,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Холбоммут плагииннар">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Торум (build) конфигурацията">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Долоҕойу туттуу">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 

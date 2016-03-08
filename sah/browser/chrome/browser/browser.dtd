@@ -159,10 +159,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY subscribeToPageMenupopup.label "Бу сирэйгэ суруттар">
+
 <!ENTITY subscribeToPageMenuitem.label "Бу сирэйгэ суруттар...">
 <!ENTITY addCurPagesCmd.label "Кыбытыктары барыларын бэлиэтээ...">
 <!ENTITY showAllBookmarks2.label "Бэлиэтэммити барытын көрдөр">
+
 <!ENTITY unsortedBookmarksCmd.label "Суортамматах бэлиэлэр">
 <!ENTITY bookmarksToolbarChevron.tooltip "Өссө бэлиэлэр">
 
@@ -244,6 +245,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F2">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Холбонуу…">
 <!ENTITY devtoolsConnect.accesskey    "н">
@@ -404,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
@@ -491,6 +495,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "с">
 <!ENTITY openFrameCmd.label           "Фреймы саҥа түннүккэ арый">
 <!ENTITY openFrameCmd.accesskey       "с">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Бу эрэ фреймы көрдөр">
 <!ENTITY showOnlyThisFrameCmd.accesskey "Б">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -704,7 +710,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "Т">
 
 <!ENTITY editBookmark.done.label                     "Оҥоһулунна">
-<!ENTITY editBookmark.cancel.label                   "Салҕаама">
 
 
 
@@ -733,13 +738,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY identity.permissions "Көҥүллээһин">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Браузер кыбытыктара">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -768,7 +788,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.label "Сиһилии…">
 <!ENTITY social.learnMore.accesskey "С">
 <!ENTITY social.closeNotificationItem.label "Кэнники">
-
 
 
 
@@ -868,7 +887,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY emeNotificationsDontAskAgain.label       "Аныгыскыга ыйытыма">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "ы">
