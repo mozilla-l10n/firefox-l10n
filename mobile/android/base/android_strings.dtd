@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "शोधताना आपल्या वाचनखुणा आणि इतिहासातुन शोध निष्कर्ष मिळवा.">
 <!ENTITY firstrun_data_title "माहिती">
 <!ENTITY firstrun_data_message "कमी डाटा, अधिक बचत">
-<!ENTITY firstrun_data_subtext "प्रत्येक साईट भेटीवर कमी माहिती खर्च करण्यासाठी प्रतिमा अडवा.">
+
 <!ENTITY firstrun_sync_title "ताळमेळ">
 <!ENTITY firstrun_sync_message "&brandShortName;, सदा आपल्याकडून">
 
@@ -217,6 +217,7 @@
 <!ENTITY pref_cookies_accept_all "कार्यान्वीत">
 <!ENTITY pref_cookies_not_accept_foreign "तिसरा पक्ष सोडुन, सक्षम">
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
+
 
 
 
@@ -455,8 +456,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "पूर्ण स्क्रीन ब्राउझिंग">
 
 
-<!ENTITY pref_tab_queue_title2 "अनेक दुवे उघडा">
-<!ENTITY pref_tab_queue_summary3 "पुढच्यावेळी &brandShortName; उघडे पर्यंत साठवुन ठेवा">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -531,10 +531,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "या पटलासाठी कुठलाही मजकूर सापडला नाही.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "&formatS; पर्यंत">
 
 <!ENTITY home_remote_tabs_title "ताळमेळीत टॅब्स">
 <!ENTITY home_remote_tabs_empty "आपल्या इतर उपकरणांवरील टॅब्स येथे दिसतील.">
@@ -631,8 +629,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "&formatS2;साठी &formatS1; शोधा">
 
-<!ENTITY webapp_generic_name "ॲप">
-
 <!ENTITY searchable_description "वाचनखूणा आणि इतिहास">
 <!-- Updater notifications --> 
 
@@ -697,11 +693,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "शेवटचा ताळमेळ:&formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "शेवटचा ताळमेळ: कधीच नाही">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "दुवा उघडत नाही">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -755,4 +746,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
 
