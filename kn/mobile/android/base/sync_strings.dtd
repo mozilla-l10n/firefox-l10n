@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "ಸಿಂಕ್">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; ನೊಂದಿಗೆ ಸಂಪರ್ಕಜೋಡಿಸಿ">
-<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label;ನ ಒಂದು ಖಾತೆ ಸೇರಿಸಿ">
-<!ENTITY sync.title.pair.label "ಒಂದು ಸಾಧನವನ್ನು ಜೋಡಿಸಿ">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ಸಾಧನದಲ್ಲಿನ “&syncBrand.shortName.label; ಅನ್ನು ಅಣಿಗೊಳಿಸಿ” ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ.">
-<!ENTITY sync.subtitle.header2.label "ನಿಮ್ಮ ಇನ್ನೊಂದು ಸಾಧನದಲ್ಲಿ ಈ ಸಂಕೇತವನ್ನು ನಮೂದಿಸಿ">
-<!ENTITY sync.subtitle.connectlocation2.label "ನಿಮ್ಮ ಇತರೆ ಸಾಧನದ ಫೈರ್ ಫಾಕ್ಸ್ ಸಂಯೋಜನೆಗಳ &syncBrand.shortName.label; ವಿಭಾಗದಲ್ಲಿ “&sync.title.pair.label;” ಅನ್ನು ಆರಿಸಿ.">
 <!ENTITY sync.subtitle.pair.label "ಸಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿರುವ “ಇತರ ಸಾಧನದೊಂದಿಗೆ ಜೋಡಿಯಾಗಿ” ಯನ್ನು ಆರಿಸಿ.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "ಹೇಗೆಂದು ನನಗೆ ತೋರಿಸು.">
-<!ENTITY sync.link.advancedsetup.label "ಸುಧಾರಿತ ಸಂಯೋಜನೆಗಳು…">
 <!ENTITY sync.link.nodevice.label "ನನ್ನಲ್ಲಿ ಈಗ ಸಾಧನವು ಇಲ್ಲ…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "ಇನ್ನೊಂದು ಸಾಧನಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದೆ…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "ನಿಮ್ಮ &syncBrand.fullName.label; ಖಾತೆಯ ವಿವರವನ್ನು ನಮೂದಿಸಿ">
-<!ENTITY sync.input.username.label "ಖಾತೆಯ ಹೆಸರು">
-<!ENTITY sync.input.password.label "ಗುಪ್ತಪದ">
-<!ENTITY sync.input.key.label "ರಿಕವರಿ ಕೀಲಿ">
-<!ENTITY sync.checkbox.server.label "ಇಚ್ಛೆಯ ಪೂರೈಕೆದಾರನನ್ನು ಬಳಸಿ">
-<!ENTITY sync.input.server.label "ಪರಿಚಾರಕದ URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸಲಾಗಲಿಲ್ಲ">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; ಸರ್ವರ್ ಗೆ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ನೀವು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಲು ಬಯಸುವಿರಾ?">
-<!ENTITY sync.button.tryagain.label "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
-<!ENTITY sync.button.manual.label "ಮ್ಯಾನುಅಲ್ ಅನುಸ್ಥಾಪನೆ">
-<!ENTITY sync.subtitle.nointernet.label "ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕ ಲಭ್ಯವಿಲ್ಲ.">
-<!ENTITY sync.subtitle.failaccount.label "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಖಾತೆ ರಚನೆ ವಿಫಲವಾಗಿದೆ.">
-<!ENTITY sync.subtitle.failmultiple.label "ನೀವು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಫೈರ್ಫಾಕ್ಸ್ ಅನ್ನು ಸ್ಥಾಪಿಸಿರುವಿರಾ? ಸಧ್ಯಕ್ಕೆ , &syncBrand.fullName.label; ಕೇವಲ ಒಮ್ಮೆಗೆ ಒಂದು ಫೈರ್ಫಾಕ್ಸ್ ಸ್ಥಾಪನೆಯನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತದೆ. ದಯವಿಟ್ಟು &syncBrand.shortName.label; ಅನ್ನು ಬಳಸಲು ಇತರೆ ಸ್ಥಾಪನೆಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "ಸಿದ್ಧತೆ ಪೂರ್ಣಗೊಂಡಿದೆ">
-<!ENTITY sync.subtitle.success.label1 "ಈಗ ನಿಮ್ಮ ದತ್ತಾಂಶವನ್ನು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ನಕಲಿಳಿಸಲಾಗುತ್ತಿದೆ. ನೀವು ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಸಿದ್ಧತೆಗಳಿಗೆ ಭೇಟಿ ನೀಡಿ ನಿರ್ವಹಿಸಬಹುದು, ಅಥವಾ &brandShortName; ನೊಂದಿಗೆ ಜಾಲಾಟ ಆರಂಭಿಸಬಹುದು.">
-<!ENTITY sync.settings.label "ಸಿದ್ಧತೆಗಳು">
-<!ENTITY sync.subtitle.manage.label1 "ನಿಮ್ಮ &syncBrand.fullName.label; ಖಾತೆ ಈಗಾಗಲೇ ಸಿದ್ಧವಾಗಿದೆ. ನೀವು ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಸಿದ್ಧತೆಗಳಿಗೆ ಭೇಟಿ ನೀಡಿ ನಿರ್ವಹಿಸಬಹುದು, ಅಥವಾ &brandShortName; ಅನ್ನು ಚಾಲನೆಗೊಳಿಸಬಹುದು.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.">
-<!ENTITY sync.pair.connectlocation.label "ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ “&syncBrand.shortName.label; ಸಿದ್ಧಗೊಳಿಸಿ” ಅನ್ನು ಆರಿಸಿ, ಹಾಗೂ ನಂತರ “ನಾನು ಖಾತೆಯೊಂದನ್ನು ಹೊಂದಿರುವೆ.” ಅನ್ನು ಆರಿಸಿ">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "ಆಯ್ಕೆಗಳು">
-<!ENTITY sync.summary.pair.label "ನಿಮ್ಮ &syncBrand.shortName.label; ಖಾತೆಗೆ ಮತ್ತೊಂದು ಸಾಧನವನ್ನು ಜೋಡಿಸಿ">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "ಏನನ್ನು ಸಿಂಕ್ ಮಾಡಬೇಕು">
-<!ENTITY sync.configure.engines.sync.my.title.label "ಸಿಂಕ್ ಮಾಡಿ…">
-<!ENTITY sync.configure.engines.title.bookmarks "ಪುಟಗುರುತುಗಳು">
 <!ENTITY sync.configure.engines.title.passwords2 "ಲಾಗಿನ್‌ಗಳು">
 <!ENTITY sync.configure.engines.title.history "ಇತಿಹಾಸ">
 <!ENTITY sync.configure.engines.title.tabs "ಹಾಳೆಗಳು">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "ರದ್ದು ಮಾಡು">
-<!ENTITY sync.button.connect.label "ಸಂಪರ್ಕಿಸು">
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (ಹಳತಾದ)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "ಓದಬೇಕಿರುವ ಪಟ್ಟಿ">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "ಪಿನ್ ಮಾಡಲಾದ">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "ಕೇವಲ ಒಂದು &syncBrand.fullName.label; ಖಾತೆ ಮಾತ್ರ ಬೆಂಬಲಿತವಾಗಿದೆ.">
-<!ENTITY sync.notification.configure.saved "ನಿಮ್ಮ ಆಯ್ಕೆಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "ಸರಿಯಲ್ಲದ ಖಾತೆಯ ಹೆಸರು ಅಥವ ಗುಪ್ತಪದ.">
-<!ENTITY sync.invalidserver.label "ಒಂದು ಮಾನ್ಯವಾದ ಪರಿಚಾರಕ URL ಅನ್ನು ನಮೂದಿಸಿ">
-<!ENTITY sync.verifying.label "ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…">
-<!ENTITY sync.new.recoverykey.status.incorrect "ಮರುಗಳಿಕೆ ಕೀಲಿಪದ ತಪ್ಪಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "ಪುಟವನ್ನು ಇತರೆ ಸಾಧನಗಳಿಗೆ ಕಳುಹಿಸು">
-<!ENTITY sync.button.send.label "ಕಳುಹಿಸು">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸಿ">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; ಅನ್ನು ಪುಟಗಳನ್ನು ಕಳಿಸಲು ಸಿದ್ಧಗೊಳಿಸು">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "&syncBrand.fullName.label; ಅನ್ನು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಅನುಸ್ಥಾಪಿಸಿಕೊಂಡು ಇತರೆ ಸಾಧನಗಳಿಗೆ ಹಾಳೆಗಳನ್ನು ತಲುಪಿಸಲು ಆಗುವಂತೆ ಅನುಸ್ಥಾಪಿಸಿಕೊಳ್ಳಿ.">
 <!ENTITY sync.text.tab.sent.label "ನಿಮ್ಮ ಪುಟವನ್ನು ಕಳಿಸಲಾಯಿತು!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ಇಮೇಲ್">
-<!ENTITY fxaccount_password_hint "ಗುಪ್ತಪದ">
+
 <!ENTITY fxaccount_password_hide "ಅಡಗಿಸು">
 <!ENTITY fxaccount_password_show "ತೋರಿಸು">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಆಂಡ್ರಾಯ್ಡ್ ಸಿದ್ದತೆಗಳಲ್ಲಿ &gt; ದತ್ತಾಂಶ ಬಳಕೆ ಯಲ್ಲಿ “ಸ್ವ-ಸಿಂಕ್ ದತ್ತಾಂಶ” ಅಂತರಣ ಮಾಡಿ.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಆಂಡ್ರಾಯ್ಡ್ ಸಿದ್ದತೆಗಳಲ್ಲಿ &gt; ದತ್ತಾಂಶ ಬಳಕೆ ಯಲ್ಲಿ “ಸ್ವ-ಸಿಂಕ್ ದತ್ತಾಂಶ” ಅಂತರಣ ಮಾಡಿ.">
 <!ENTITY fxaccount_status_needs_finish_migrating "ನಿಮ್ಮ ಹೊಸ Firefox ಖಾತೆಗೆ ಸೈನ್‌ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ.">
-<!ENTITY fxaccount_status_bookmarks "ಪುಟಗುರುತುಗಳು">
+
 <!ENTITY fxaccount_status_history "ಇತಿಹಾಸ">
 <!ENTITY fxaccount_status_passwords2 "ಲಾಗಿನ್‌ಗಳು">
 <!ENTITY fxaccount_status_tabs "ತೆರೆದ ಹಾಳೆಗಳು">
