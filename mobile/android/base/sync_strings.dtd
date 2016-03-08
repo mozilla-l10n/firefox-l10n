@@ -8,71 +8,16 @@
 <!ENTITY syncBrand.shortName.label "Sanngoɗin">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Seŋo e &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Ɓeydu Konte &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Jokkondir Kaɓirɗi">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Ngam hurminde kaɓirgol maa kesol ngol, labo “Set up &syncBrand.shortName.label;” e kaɓirgol ngol.">
-<!ENTITY sync.subtitle.header2.label "Naatnu ngol dokkol e kaɓirgol maa ngola">
-<!ENTITY sync.subtitle.connectlocation2.label "Labo “&sync.title.pair.label;” e rogere &syncBrand.shortName.label; e nder cuɓe maa Firefox e kaɓirgol maa ngola.">
 <!ENTITY sync.subtitle.pair.label "Ngam hurminde, labo “Jokkondir Kaɓirɗi” e kaɓirgol maa ngola.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Hollu no waɗirtee.">
-<!ENTITY sync.link.advancedsetup.label "Teelte ceeɓtore…">
 <!ENTITY sync.link.nodevice.label "Mi jogaaki kaɓirgol ngol jooni…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Nana sabbii kabirgol goɗngol ngol…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Naatnu humpito konte maa &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Innde Konte">
-<!ENTITY sync.input.password.label "Finnde">
-<!ENTITY sync.input.key.label "Kelal jiytirgal">
-<!ENTITY sync.checkbox.server.label "Huutoro sarworde feŋtorde">
-<!ENTITY sync.input.server.label "URL Sarworde">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Horiima teeltaade set-up &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; horiima seŋaade e sarworde ndee. Aɗa yiɗi etaade goɗngol?">
-<!ENTITY sync.button.tryagain.label "Eto goɗngol">
-<!ENTITY sync.button.manual.label "Teelte junngol">
-<!ENTITY sync.subtitle.nointernet.label "Alaa ceŋol enternet woodi.">
-<!ENTITY sync.subtitle.failaccount.label "Cosgol konte e kaɓirgol maa woorii.">
-<!ENTITY sync.subtitle.failmultiple.label "Aɗa jogii ko ɓuri aafannde wootere Firefox? Oo sahaa, &syncBrand.fullName.label; jaɓata tan ko aafannde Firefox wootere laawol gootol. Tiiɗno aaftu cili goɗɗi ɗii ngam huutoraade &syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Teeltagol Gasii">
-<!ENTITY sync.subtitle.success.label1 "Keɓe maa ngoni jooni ko e aawteede e cakkitol. Aɗa waawi yahde to Teelte ngam toppitaade konte maa, walla fuɗɗo wanngoraade &brandShortName;.">
-<!ENTITY sync.settings.label "Teelte">
-<!ENTITY sync.subtitle.manage.label1 "Konte maa &syncBrand.fullName.label; teeltanooma kisa. Yah to Teelte ngam toppitaade konte maa walla hurmin &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Tiiɗno fuɗɗito.">
-<!ENTITY sync.pair.connectlocation.label "Ngam hurminde kaɓirgol maa kesol ngol, labo “Set up &syncBrand.shortName.label;” e kaɓirgol ngol, kisa labo-ɗaa “Miɗo Jogii Konte.”">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Cuɓe">
-<!ENTITY sync.summary.pair.label "Seŋ kaɓirgol goɗngol e konte maa &syncBrand.shortName.label;">
 <!-- Configure Engines -->
-
-<!ENTITY sync.configure.engines.title.label "Ko Syncetee">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sync…">
-<!ENTITY sync.configure.engines.title.bookmarks "Maantore">
-
 <!ENTITY sync.configure.engines.title.history "Aslol">
 <!ENTITY sync.configure.engines.title.tabs "Tabbe">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Haaytu">
-<!ENTITY sync.button.connect.label "Seŋondir">
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (woppaama)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +37,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Nana Tara Doggol">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Ñippaaɗe">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Ko konte &syncBrand.fullName.label; goote tan tammbitaa.">
-<!ENTITY sync.notification.configure.saved "Labanɗe maa ndanndaama.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Innde konte walla finnde peewaani.">
-<!ENTITY sync.invalidserver.label "Tiiɗno naatnu URL sarworde moƴƴo">
-<!ENTITY sync.verifying.label "Nana ƴeewtoo…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Kelal Sync moƴƴaani. Tiiɗno fuɗɗito.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Neldu Tabbere To Kaɓirɗi">
-<!ENTITY sync.button.send.label "Neldu">
-<!ENTITY sync.button.set.up.sync.label "Teelto &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Teelto &syncBrand.shortName.label; ngam neldude tabbe">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Teelto &syncBrand.fullName.label; e kaɓirgol maa ngam neldude tabbe to kaɓirɗi goeei.">
 <!ENTITY sync.text.tab.sent.label "Tabbere maa neldaama!">
@@ -123,7 +55,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Iimeel">
-<!ENTITY fxaccount_password_hint "Finnde">
+
 <!ENTITY fxaccount_password_hide "Suuɗ">
 <!ENTITY fxaccount_password_show "Hollu">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +143,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; teeltaama, kono wonaa e syncude e jaajol. Toggilo “Auto-sync data” e Teelte Android &gt; Data Usage.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; teeltaama, kono wonaani e syncude e jaajol. Toggilo “Auto-sync data” e dosol Teelte Android &gt; Konte.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tappu ngam seŋaade e Konte Firefox maa kese">
-<!ENTITY fxaccount_status_bookmarks "Maantore">
+
 <!ENTITY fxaccount_status_history "Aslol">
 
 <!ENTITY fxaccount_status_tabs "Uddit tabbe">

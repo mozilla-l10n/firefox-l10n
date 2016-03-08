@@ -214,6 +214,7 @@
 
 
 
+
 <!ENTITY pref_donottrack_title "Hoto rewindo">
 <!ENTITY pref_donottrack_summary "&brandShortName; maa wiy lowe wonde a yiɗaa rewindeede">
 
@@ -503,10 +504,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Alaa loowdi yiyta e ndal ɗoon palal.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Haa t &formatS;">
 
 <!ENTITY home_remote_tabs_title "Tabbe synckaaɗe">
 <!ENTITY home_remote_tabs_empty "Tabbe maa iwɗe e kaɓirɗi goɗɗi njaltata ɗoo.">
@@ -597,8 +596,6 @@ iwde e Android">
 
 <!ENTITY suggestion_for_engine "Yiylo &formatS1; e &formatS2;">
 
-<!ENTITY webapp_generic_name "Jaaɓngal">
-
 <!ENTITY searchable_description "Maantore e aslol">
 <!-- Updater notifications --> 
 
@@ -651,11 +648,6 @@ iwde e Android">
 
 <!ENTITY remote_tabs_last_synced "Syncaa wattan: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -698,4 +690,7 @@ iwde e Android">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
 
