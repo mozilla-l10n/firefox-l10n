@@ -121,20 +121,6 @@ bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
 <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Tersangka Situs Penyerang!">
-<!ENTITY malwareBlocked.longDesc "<p>Situs penyerang mencoba memasang program yang dapat mencuri data pribadi, menggunakan komputer Anda untuk menyerang komputer lain, atau merusak sistem Anda.</p> 
-<p>Pemilik situs web yang merasa situs yang bersangkutan bukan merupakan situs web penyerang dapat meminta <a href='http://www.stopbadware.org/home/reviewinfo' >peninjauan kembali</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Tersangka Situs Perangkat Lunak yang Tidak Diinginkan!">
-<!ENTITY unwantedBlocked.longDesc "<p>Laman perangkat lunak yang tidak diinginkan mencoba menginstal perangkat lunak yang mungkin menipu dan mempengaruhi sistem Anda dalam cara yang tidak diinginkan.</p>">
-
-<!ENTITY phishingBlocked.title "Tersangka Pemalsuan Web!">
-<!ENTITY phishingBlocked.longDesc "<p>Dengan memasukkan informasi pribadi pada laman ini, pencurian identitas atau kejahatan lainnya dapat terjadi.</p> 
-<p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai &quot;phishing attack&quot; yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>">
-
-<!ENTITY forbiddenBlocked.title "Situs Terlarang">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; mencegah laman ini untuk dimuat karena telah dikonfigurasikan untuk memblokirnya.</p>">
-
 <!ENTITY cspBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
 
@@ -158,9 +144,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Laporkan kesalahan seperti ini untuk membantu Mozilla mengidentifikasi dan memblokir situs yang mencurigakan.">
 <!ENTITY errorReporting.learnMore "Pelajari lebih lanjut…">
-<!ENTITY errorReporting.sending "Mengirim laporan">
-<!ENTITY errorReporting.sent "Laporan dikirim">
-<!ENTITY errorReporting.tryAgain "Coba lagi">
 
 <!ENTITY remoteXUL.title "XUL Daring">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
