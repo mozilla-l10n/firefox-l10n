@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Іздеу кезінде бетбелгілер және тарихтан нәтижелерді алыңыз.">
 <!ENTITY firstrun_data_title "Деректер">
 <!ENTITY firstrun_data_message "Азырақ деректер, көбірек үнемдеу">
-<!ENTITY firstrun_data_subtext "Әр қаралатын сайтта азырақ деректерді қолдану үшін суреттерді блоктаңыз.">
+
 <!ENTITY firstrun_sync_title "Синхрондау">
 <!ENTITY firstrun_sync_message "&brandShortName;, әрқашан сізді қолдайды">
 <!ENTITY firstrun_sync_subtext "Әр жерде қолданылатын беттер, парольдер және т.б. синхрондаңыз.">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Әрқашан">
 <!ENTITY pref_tap_to_load_images_data "Тек Wi-Fi арқылы">
 <!ENTITY pref_tap_to_load_images_disabled2 "Блокталған">
+
 
 <!ENTITY pref_tracking_protection_title "Бақылаудан қорғаныс">
 <!ENTITY pref_tracking_protection_summary3 "Жекелік шолу режимінде іске қосылған">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Толық экранды шолу">
 <!ENTITY pref_scroll_title_bar_summary2 "Парақ астына айналдыру кезінде &brandShortName; саймандар панелін жасыру">
 
-<!ENTITY pref_tab_queue_title2 "Бірнеше сілтемені ашу">
-<!ENTITY pref_tab_queue_summary3 "Оларды &brandShortName; келесі рет ашқаныңызға дейін сақтаңыз">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Бұл панель үшін құрама табылмады.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "&formatS; дейін жоғары">
 
 <!ENTITY home_remote_tabs_title "Синхрондалған беттер">
 <!ENTITY home_remote_tabs_empty "Басқа құрылғыларыңыздан беттер осында көрсетіледі.">
@@ -648,8 +646,6 @@ Android-тан импорттау">
 
 <!ENTITY suggestion_for_engine "&formatS1; ішінен &formatS2; іздеу">
 
-<!ENTITY webapp_generic_name "Қолданба">
-
 <!ENTITY searchable_description "Тарих және бетбелгілер">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ Android-тан импорттау">
 <!ENTITY remote_tabs_last_synced "Соңғы синхрондау: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Соңғы синхрондау: ешқашан">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Аа">
 
 <!ENTITY intent_uri_cannot_open "Сілтемені ашу мүмкін емес">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ Android-тан импорттау">
 
 <!ENTITY unsupported_sdk_version "Кешіріңіз! Бұл &brandShortName; осы құрылғыда жасамайды (&formatS1;, &formatS2;). Жарамды нұсқасын жүктеп алыңыз.">
 
-<!ENTITY eol_notification_title "&brandShortName; Android 3 нұсқасын қолдамайды">
 <!ENTITY eol_notification_summary "Көбірек білу үшін шертіңіз">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
