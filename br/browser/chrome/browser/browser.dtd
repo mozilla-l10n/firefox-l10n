@@ -163,12 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "R">
 <!ENTITY shareVideo.label "Rannañ ar video-mañ">
 <!ENTITY shareVideo.accesskey "R">
-
-
+<!ENTITY feedsMenu2.label "Koumanantiñ d'ar bajenn-mañ">
+<!ENTITY subscribeToPageMenupopup.label "Koumanantiñ d'ar bajenn-mañ">
 <!ENTITY subscribeToPageMenuitem.label "Koumanantiñ d'ar bajenn-mañ…">
 <!ENTITY addCurPagesCmd.label "Ouzhpennañ an holl ivinelloù d'ar sinedoù">
 <!ENTITY showAllBookmarks2.label "Diskouez an holl sinedoù">
-
+<!ENTITY recentBookmarks.label "Lakaet war ur sined nevez zo">
 <!ENTITY unsortedBookmarksCmd.label "Sinedoù dirummet">
 <!ENTITY bookmarksToolbarChevron.tooltip "Diskouez meur a sined">
 
@@ -258,7 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Kennaskañ…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,18 +411,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Digeriñ al lañser skoazell">
 
 <!ENTITY appMenuRemoteTabs.label "Ivinelloù goubredet">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "O kerc'hat an ivinelloù goubredet...">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Ivinell digor ebet">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Gweredekait goubredañ an ivinelloù evit gwelout ur roll ivinelloù eus ho trevnadoù all.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Kennaskit da Firefox adalek ho trevnadoù all evit gwelout o ivinelloù aze.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Gwellvezvioù goubredañ">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Kennaskit da welet ur roll ivinelloù eus ho trevnadoù all">
 <!ENTITY appMenuRemoteTabs.signin.label "Kennaskañ da Synx">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Gwelout barrenn-gostez an ivinelloù goubredet ">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ouzhpennañ d'ar varrenn ostilhoù">
 <!ENTITY customizeMenu.addToToolbar.accesskey "O">
@@ -528,8 +532,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "i">
 <!ENTITY openFrameCmd.label           "Digeriñ ar frammad e-barzh ur prenestr nevez">
 <!ENTITY openFrameCmd.accesskey       "p">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Digeriñ an ere en un ivinell endalc'her nevez">
+<!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Gwelout ar frammad-mañ hepken">
 <!ENTITY showOnlyThisFrameCmd.accesskey "f">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -777,7 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Gouzout hiroc'h">
 
-
+<!ENTITY identity.removeCertException.label "Lemel an nemedenn kuit">
+<!ENTITY identity.removeCertException.accesskey "L">
 
 <!ENTITY identity.moreInfoLinkText2 "Muioc'h a stlennoù">
 
@@ -791,11 +796,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Ivinelloù goubredet">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Ivinelloù goubredet">
+<!ENTITY syncedTabs.sidebar.fetching.label     "O kerc'hat an ivinelloù goubredet...">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Kennaskit da Firefox adalek ho trevnadoù all evit gwelout o ivinelloù aze.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Kennaskit da welet ur roll ivinelloù eus ho trevnadoù all">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Ivinell digor ebet">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Digeriñ gwellvezioù &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
