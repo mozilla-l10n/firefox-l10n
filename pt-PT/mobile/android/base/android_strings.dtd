@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Obtenha resultados a partir dos seus marcadores e histórico quando pesquisa.">
 <!ENTITY firstrun_data_title "Dados">
 <!ENTITY firstrun_data_message "Menos dados, mais poupança">
-<!ENTITY firstrun_data_subtext "Bloquear imagens para gastar menos dados em cada site que visita.">
+
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
 <!ENTITY firstrun_sync_subtext "Sincronize os seus separadores, palavras-passe, e muito mais em qualquer sítio que os usar.">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Sempre">
 <!ENTITY pref_tap_to_load_images_data "Apenas em Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloqueado">
+
 
 <!ENTITY pref_tracking_protection_title "Proteção contra monitorização">
 <!ENTITY pref_tracking_protection_summary3 "Ativado na navegação privada">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navegação em ecrã completo">
 <!ENTITY pref_scroll_title_bar_summary2 "Ocultar barra de ferramentas do &brandShortName; ao deslocar a página para baixo">
 
-<!ENTITY pref_tab_queue_title2 "Abrir múltiplas ligações">
-<!ENTITY pref_tab_queue_summary3 "Guardá-los até à próxima vez que abrir o &brandShortName;">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Não foi encontrado conteúdo para este painel.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Subir para &formatS;">
 
 <!ENTITY home_remote_tabs_title "Separadores sincronizados">
 <!ENTITY home_remote_tabs_empty "Os separadores de outros dispositivos são mostrados aqui.">
@@ -648,8 +646,6 @@ do Android">
 
 <!ENTITY suggestion_for_engine "Pesquisar por &formatS2; em &formatS1;">
 
-<!ENTITY webapp_generic_name "Aplicação">
-
 <!ENTITY searchable_description "Marcadores e histórico">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ do Android">
 <!ENTITY remote_tabs_last_synced "Última sincronização: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Última sincronização: nunca">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Ligação não aberta">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ do Android">
 
 <!ENTITY unsupported_sdk_version "Desculpe! Este &brandShortName; não funciona neste dispositivo (&formatS1;, &formatS2;). Por favor descarregue a versão correta.">
 
-<!ENTITY eol_notification_title "O &brandShortName; não suporta o Android 3">
 <!ENTITY eol_notification_summary "Toque para saber mais">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
