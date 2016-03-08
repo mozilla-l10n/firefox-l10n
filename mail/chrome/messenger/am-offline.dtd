@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "H">
 <!ENTITY retentionKeepRecent.label "Son">
 <!ENTITY retentionKeepRecent.accesskey "S">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri her zaman sil (yaş ayarlarını göz ardı et)">
 <!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri hiçbir zaman silme">
 <!ENTITY retentionApplyToFlagged.accesskey "Y">
 <!ENTITY nntpRemoveMsgBody.label "İleti gövdesi">
