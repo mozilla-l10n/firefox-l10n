@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Որոնման ընթացքում ստացեք արդյունքներ ձեր էջանիշերից և պատմությունից:">
 <!ENTITY firstrun_data_title "Տվյալ">
 <!ENTITY firstrun_data_message "Քիչ տվյալ, շատ պահումներ">
-<!ENTITY firstrun_data_subtext "Արգելափակել պատկերները՝ կայքեր այցելելիս քիչ տվյալներ ծախսելու համար:">
+
 <!ENTITY firstrun_sync_title "Սինք">
 <!ENTITY firstrun_sync_message "&brandShortName;, միշտ ձեր կողմից է">
 <!ENTITY firstrun_sync_subtext "Համաժամեցրեք ձեր ներդիրները, գաղտնաբառերը և ավելին՝ ցանկացած վայրում:">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Միշտ">
 <!ENTITY pref_tap_to_load_images_data "Միայն Wi-Fi-ով">
 <!ENTITY pref_tap_to_load_images_disabled2 "Արգելափակված">
+
 
 <!ENTITY pref_tracking_protection_title "Հետագծման պաշտպանություն">
 <!ENTITY pref_tracking_protection_summary3 "Միացված Գաղտնի դիտարկման ժամանակ">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Լիաէկրան դիտարկում">
 <!ENTITY pref_scroll_title_bar_summary2 "Էջը ներքև սահեցնելիս թաքցնել &brandShortName;-ի գործիքագոտին">
 
-<!ENTITY pref_tab_queue_title2 "Բացել բազմակի հղումները">
-<!ENTITY pref_tab_queue_summary3 "Պահել դրանք՝ մինչև հաջորդ անգամ կբացեք &brandShortName;-ը">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Ոչինչ չկա այս վահանակում:">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Տեղափոխել &formatS;">
 
 <!ENTITY home_remote_tabs_title "Սինք էջեր">
 <!ENTITY home_remote_tabs_empty "Ձեր ներդիրները այլ սարքերից:">
@@ -648,8 +646,6 @@ Android-ից">
 
 <!ENTITY suggestion_for_engine "Որոնել &formatS2;-ը &formatS1;-ում">
 
-<!ENTITY webapp_generic_name "Ծրագիր">
-
 <!ENTITY searchable_description "Էջանիշներ և Պատմություն">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ Android-ից">
 <!ENTITY remote_tabs_last_synced "Վերջին Սինքը. &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Վերջին սինքը. երբեք">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Հնարավոր չէ բացել հղումը">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ Android-ից">
 
 <!ENTITY unsupported_sdk_version "Ներողություն, բայց &brandShortName;-ը չի աշխատի ձեր սարքում (&formatS1;, &formatS2;): Խնդրում ենք ներբեռնել ճիշտ տարբերակ:">
 
-<!ENTITY eol_notification_title "&brandShortName;-ը այլևս չի աջակցում Android 3">
 <!ENTITY eol_notification_summary "Հպվեք՝ ավելին իմանալու համար">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
