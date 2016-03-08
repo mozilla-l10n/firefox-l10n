@@ -126,18 +126,6 @@ kwesikhashana.</li>
 &brandShortName; ivunyelwe ukungena kuwebhu.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Isayithi lokuhlasela elisolwayo!">
-<!ENTITY malwareBlocked.longDesc "<p>Amasayithi wokuhlasela angazama ukufaka izinhlelo zokuntshontsha imininingwane eyimfihlo, asebenzise ikhompyutha yakho ukuhlasela amanye, noma amoshe uhlelo lwakho.</p> 
-<p>Abanikazi bama webhusayithi abakholelwa ukuthi isayithi labo libikwe ngokuthi lingumhlaseli ngephutha <a href='http://www.stopbadware.org/home/reviewinfo' > bangacela isibuyekezo</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Ukusolwa kokubhumbuluwa kwe webhu!">
-<!ENTITY phishingBlocked.longDesc "<p>Ukufaka noma iyiphi imininingwane yakho kule khasi kungaholela ekuntshontshweni kobunikazi noma kokuye ukukhohlisa.</p> 
-<p>Lezi zinhlobo zokubhumbuluzwa kwe webhu kusetshenziswa ekuqolweni okwaziwa ngokuhlaselwa kwe-phishing, lapho amakhasi wewebhu anenkohliso nama imeyili asetshenziselwa ukufaniswa nemithombo ongayethemba.</p>">
-
-
-
 <!ENTITY cspBlocked.title "Kuvinjelwe yinqubomgomo yokuphepha okuqukethwe">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ivimbele le khasi ekulayisheni ngale ndlela ngoba ikhasi linenqubomgomo yokuphepha kokuqukethwe okuyinqabelayo.</p>">
 
@@ -158,9 +146,6 @@ functionality specific to firefox. -->
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
-
-
-
 
 
 
