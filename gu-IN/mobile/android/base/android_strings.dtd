@@ -221,6 +221,7 @@
 
 
 
+
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 
@@ -488,10 +489,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "આ પેનલ માટે કોઇ વસ્તુ શોધી શક્યા નહિ.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "&formatS; સુધી">
 
 
 
@@ -575,8 +574,6 @@ Android માંથી">
 
 <!ENTITY suggestion_for_engine "&formatS1; ને &formatS2; માટે શોધો">
 
-<!ENTITY webapp_generic_name "કાર્યક્રમ">
-
 <!ENTITY searchable_description "બુકમાર્કો અને ઇતિહાસ">
 <!-- Updater notifications --> 
 
@@ -633,9 +630,6 @@ Android માંથી">
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -678,4 +672,7 @@ Android માંથી">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
 
