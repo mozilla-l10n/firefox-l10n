@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Wšykne lašowaś, mimo nejnowše">
 <!ENTITY retentionKeepRecent.accesskey "m">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Pśecytane powěsći pśecej lašowaś (pśepišo starstwowe nastajenja)">
 <!ENTITY retentionApplyToFlagged.label "Powěsći z gwězdku pśecej wobchowaś">
 <!ENTITY retentionApplyToFlagged.accesskey "z">
 
