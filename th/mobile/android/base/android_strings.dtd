@@ -225,6 +225,7 @@
 
 
 
+
 <!ENTITY pref_donottrack_title "ไม่ต้องติดตามการเชื่อมต่อ">
 <!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ที่คุณไม่ต้องการถูกติดตาม">
 
@@ -451,7 +452,6 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "การท่องเว็บแบบเต็มจอ">
 
 
-<!ENTITY pref_tab_queue_title2 "เปิดหลายลิงก์">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -527,10 +527,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "ไม่พบเนื้อหาสำหรับแผงนี้">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "ขึ้นไปที่ &formatS;">
 
 <!ENTITY home_remote_tabs_title "แท็บจากการผสานข้อมูล">
 <!ENTITY home_remote_tabs_empty "แท็บของคุณจากอุปกรณ์อื่นๆ จะถูกแสดงขึ้นที่นี่">
@@ -622,8 +620,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "ค้นหา &formatS2; ด้วย &formatS1;">
 
-<!ENTITY webapp_generic_name "แอป">
-
 <!ENTITY searchable_description "ที่คั่นหน้าและประวัติการท่องเว็บ">
 <!-- Updater notifications --> 
 
@@ -688,11 +684,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "ครั้งล่าสุดที่ซิงค์: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "ผสานข้อมูลครั้งสุดท้าย: ไม่เคย">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "ไม่สามารถเปิดลิงก์">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -737,3 +728,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 
 <!ENTITY eol_notification_summary "แตะเพื่อเรียนรู้เพิ่มเติม">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
