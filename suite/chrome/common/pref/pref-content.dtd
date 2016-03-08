@@ -13,6 +13,9 @@
 <!ENTITY useFavIcons.accesskey                  "A">
 <!ENTITY enableAutomaticImageResizing.label     "Nagy képek átméretezése, hogy elférjen a böngésző ablakban">
 <!ENTITY enableAutomaticImageResizing.accesskey "N">
+
+
+
 <!ENTITY useSmoothScroll.label                  "Finom görgetés">
 <!ENTITY useSmoothScroll.accesskey              "F">
 <!ENTITY allowHWAccel.label                     "Hardveres gyorsítás használata, ha lehetséges">
