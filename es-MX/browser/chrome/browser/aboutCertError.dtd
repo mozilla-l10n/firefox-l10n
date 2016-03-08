@@ -35,6 +35,3 @@ a menos que sepas que hay una buena razón para que este sitio no utilice la ide
 <!ENTITY certerror.copyToClipboard.label "Copiar el texto al portapapeles">
 
 <!ENTITY errorReporting.automatic "Reporta errores como este para ayudar a Mozilla a identificar sitios mal configurados">
-<!ENTITY errorReporting.sending "Enviando reporte">
-<!ENTITY errorReporting.sent "Reporte enviado">
-<!ENTITY errorReporting.tryAgain "Intentar de nuevo">
