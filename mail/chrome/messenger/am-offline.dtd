@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Wšě zhašeć, nimo najnowšich">
 <!ENTITY retentionKeepRecent.accesskey "W">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Přečitane powěsće přeco zhašeć (přepisuje starobne nastajenja)">
 <!ENTITY retentionApplyToFlagged.label "Z hwěžku markěrowane powěsće přeco wobchować">
 <!ENTITY retentionApplyToFlagged.accesskey "h">
 <!ENTITY nntpRemoveMsgBody.label "Wobsah powěsćow wotstronić, kotrež su wjace hač">

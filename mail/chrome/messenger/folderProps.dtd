@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "h">
 <!ENTITY retentionKeepRecent.label "Wšě zhašeć, nimo najnowšich">
 <!ENTITY retentionKeepRecent.accesskey "z">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Přečitane powěsće přeco zhašeć (přepisuje starobne nastajenja)">
 <!ENTITY retentionApplyToFlagged.label "Powěsće z hwěžku přeco wobchować">
 <!ENTITY retentionApplyToFlagged.accesskey "c">
 
