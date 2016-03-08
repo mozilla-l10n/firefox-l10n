@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "C">
 <!ENTITY retentionKeepRecent.label "Lemel kuit an holl anezho nemet ar re nevesañ">
 <!ENTITY retentionKeepRecent.accesskey "o">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Atav lemel kuit ar c'hemennadennoù bet lennet (mont dreist d'an arventennoù oad)">
 <!ENTITY retentionApplyToFlagged.label "Atav mirout ar c'hemennadennoù steredek">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "Lemel ar c'horfoù eus ar c'hemennadennoù gant brasoc'h eget">

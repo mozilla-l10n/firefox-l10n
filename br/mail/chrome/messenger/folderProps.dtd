@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Dilemel an holl anezho nemet an nevesañ">
 <!ENTITY retentionKeepRecent.accesskey "l">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Atav dilemel ar c'hemennadennoù bet lennet (mont dreist d'an arventennoù oad)">
 <!ENTITY retentionApplyToFlagged.label "Atav mirout ar c'hemennadennoù steredek">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
