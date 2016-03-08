@@ -163,12 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "D">
 <!ENTITY shareVideo.label "Dela den här videon">
 <!ENTITY shareVideo.accesskey "D">
-
-
+<!ENTITY feedsMenu2.label "Prenumerera på denna sida">
+<!ENTITY subscribeToPageMenupopup.label "Prenumerera på denna sida">
 <!ENTITY subscribeToPageMenuitem.label "Prenumerera på denna sida…">
 <!ENTITY addCurPagesCmd.label "Bokmärke för alla flikar…">
 <!ENTITY showAllBookmarks2.label "Visa alla bokmärken">
-
+<!ENTITY recentBookmarks.label "Nyligen bokmärkt">
 <!ENTITY unsortedBookmarksCmd.label "Osorterade bokmärken">
 <!ENTITY bookmarksToolbarChevron.tooltip "Visa fler bokmärken">
 
@@ -258,7 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Anslut…">
 <!ENTITY devtoolsConnect.accesskey    "u">
@@ -410,9 +411,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Öppna Hjälp-menyn">
 
 <!ENTITY appMenuRemoteTabs.label "Synkade flikar">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Hämtar synkade flikar…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Inga öppna flikar">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
