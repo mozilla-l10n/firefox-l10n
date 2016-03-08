@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "y">
 <!ENTITY retentionKeepRecent.label "Son">
 <!ENTITY retentionKeepRecent.accesskey "S">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını göz ardı et)">
 <!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri hiçbir zaman silme">
 <!ENTITY retentionApplyToFlagged.accesskey "Y">
 
