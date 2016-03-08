@@ -111,16 +111,6 @@
 &brandShortName;-г вэб хуудсанд зорчих эрхтэй эсэхийг шалгана уу.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Сэжигтэй довтлогч хуудас!">
-
-
-
-
-<!ENTITY phishingBlocked.title "Вэб хууралт хийгч сэжигтэй хуудас!">
-
-
-
-
 <!ENTITY cspBlocked.title "Агуулгын хамгаалалтын улмаас хаагдсан">
 
 
@@ -134,9 +124,6 @@
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
-
-
-
 
 
 
