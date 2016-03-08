@@ -112,18 +112,6 @@ bi alîkariya şîfrekirina ewle.</li>
 
 <!ENTITY sharedLongDesc "<ul> <li>Dibe ku mapler ji bo demekê hatibe rawestandin an jî zêde mijûl be. Di demeke kin de dîsa biceribîne.</li> <li>Heke nikaribî tu malperan vekî, girêdana torê ya komputera xwe kontrol bike.</li> <li>Heke komputer an jî tora te ji hêla Firewall an jî proxyekê ve tê parastin, binêre ka destûra &brandShortName; 'ê ya têketina webê heye an na.</li> </ul>">
 
-<!ENTITY malwareBlocked.title "Malpera Êrîşkar a Gumanbar!">
-<!ENTITY malwareBlocked.longDesc "<p>Malperên êrîşkar dikin ku li ser komputera te bnernameyan saz bikin û li ser komputera te êrîşî komputerên din bikin.</p> 
-<p>Xwediyên malperên ku malperên wan wekî malperên êrîşkar hatine raporkirin dikarin serî li <a href='http://www.stopbadware.org/home/reviewinfo' >bidin</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Malpera Sextekariyê ya Gumanbar!">
-<!ENTITY phishingBlocked.longDesc "<p>Dibe ku agahiyên bikevî vê malperê bibin sedema dizîna agahiyên te yên takekesî.</p> 
-<p>Ev cure malperên sextekar xwe wekî ewle nîşan didin lê êrîşên nepen dikin.</p>">
-
-
-
 <!ENTITY cspBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
 <!ENTITY cspBlocked.longDesc "<p>Ji ber ku di vê rûpelê de naverokeke dijberî peymana ewlekariyê heye, &brandShortName;ê ew asteng kir.</p>">
 
@@ -146,9 +134,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "Bêtir bizane…">
-
-
-
 
 <!ENTITY remoteXUL.title "XULa dûr">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tika ye ji bo çareserkirina vê pirsgirêkê bi xwediyê malperê re bikeve têkiliyê.</li></ul></p>">
