@@ -127,18 +127,6 @@ khomphutha ya gago.</li>
 gore &brandShortName; e dumeletšwe go tsena wepeng.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Saete yeo e belaelwago ya go hlasela!">
-<!ENTITY malwareBlocked.longDesc "<p>Disaete tša go hlasela di leka go lokela mananeo ao a utswago tshedimošo ya praebete, go diriša khomphutha ya gago go hlasela tše dingwe, goba go senya tshepedišo ya gago.</p> 
-<p>Beng ba diwepesaete bao ba dumelago gore saete ya bona e begilwe e le saete ya go hlasela ka phošo ba ka <a href='http://www.stopbadware.org/home/reviewinfo' >kgopela poeletšo</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Bofora bjo belaelwago bja wepeng!">
-<!ENTITY phishingBlocked.longDesc "<p>Go tsenya tshedimošo le ge e le efe ya botho letlakaleng le go ka feleletša ka bohodu bja boitsebišo goba boradia bjo bongwe.</p> 
-<p>Mehuta ye ya boradia bja wepeng e dirišetšwa go bohwirihwiri bjo bo tsebjwago e le dihlaselo tša boradia, moo go dirišwago matlakala a wepe a boradia le diimeile go ekiša methopo yeo o e tshepago.</p>">
-
-
-
 <!ENTITY cspBlocked.title "Thibetšwe ke pholisi ya tšhireletšego ya dikagare">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; e thibetše letlakala le go hlahlela ka tsela ye ka gobane letlakala le le nale pholisi ya tšhireletšego ya dikagare yeo e sa go dumelelego.</p>">
 
@@ -161,9 +149,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 
-
-
-<!ENTITY errorReporting.tryAgain "Leka gape">
 
 <!ENTITY remoteXUL.title "XUL ya kgole">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul></p>">

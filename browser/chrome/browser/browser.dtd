@@ -156,10 +156,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY subscribeToPageMenupopup.label "Ingwadiše letlakaleng le">
+
 <!ENTITY subscribeToPageMenuitem.label "Ingwadiše letlakaleng le...">
 <!ENTITY addCurPagesCmd.label "Pukuswaya dithepo tšohle…">
 <!ENTITY showAllBookmarks2.label "Laetša dipukutshwayo tšohle">
+
 <!ENTITY unsortedBookmarksCmd.label "Dipukutshwayo tše sa latelantšhwago">
 <!ENTITY bookmarksToolbarChevron.tooltip "Bontšha dipukutshwayo tše oketšegilego">
 
@@ -238,6 +239,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Kgokaganya...">
 <!ENTITY devtoolsConnect.accesskey    "a">
@@ -397,6 +400,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
@@ -484,6 +488,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Bula foreime go lefasetere le leswa">
 <!ENTITY openFrameCmd.accesskey       "l">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Laetša foreime ye feela">
 <!ENTITY showOnlyThisFrameCmd.accesskey "L">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -697,7 +703,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "O">
 
 <!ENTITY editBookmark.done.label                     "Dirile">
-<!ENTITY editBookmark.cancel.label                   "Khansela">
 
 
 
@@ -726,13 +731,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY identity.permissions "Ditumelelo">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Dithepo tša praosara">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Nyalantšha">
 
@@ -761,7 +781,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.label "Ithute ka mo go oketšegilego...">
 <!ENTITY social.learnMore.accesskey "I">
 <!ENTITY social.closeNotificationItem.label "E sego bjale">
-
 
 
 
@@ -858,7 +877,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY emeNotificationsDontAskAgain.label       "Se mpotšiše gape">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "S">
