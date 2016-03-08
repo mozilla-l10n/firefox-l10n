@@ -57,16 +57,6 @@
 <!ENTITY nssBadCert.title "Nagbigo ang Panatag na Koneksiyon">
 
 
-<!ENTITY malwareBlocked.title "Kahina-hinalang site!">
-<!ENTITY malwareBlocked.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p> 
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>">
-
-
-
-
-
-
-
 
 
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY safeb.palm.decline.label "Balewalain itong babala">
-<!ENTITY safeb.palm.notforgery.label2 "Ito ay hindi isang web forgery…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -15,9 +15,7 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Naiulat ang atake sa pahinang ito <span id='unwanted_sitename'/>; may laman na hindi kilalang software at naka-block ito ayon sa inyong security preferences. ">
 
 
-<!ENTITY safeb.blocked.phishingPage.title "Naiulat na Web Forgery!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Naiulat na isang huwad ang web page na ito <span id='phishing_sitename'/> at naka-block ito ayon sa inyong security preferences.">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

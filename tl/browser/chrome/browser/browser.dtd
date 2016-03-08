@@ -150,10 +150,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY subscribeToPageMenupopup.label "Mag-subscribe sa web page na ito">
+
 <!ENTITY subscribeToPageMenuitem.label "Mag-subscribe sa web page na ito…">
 <!ENTITY addCurPagesCmd.label "I-bookmark ang lahat ng mga tab…">
 <!ENTITY showAllBookmarks2.label "Ipakita and Lahat na mga Bookmark">
+
 <!ENTITY unsortedBookmarksCmd.label "Bookmark na Hindi Magkasunod">
 <!ENTITY bookmarksToolbarChevron.tooltip "Magpakita ng karagdagang mga bookmark">
 
@@ -229,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 
 
@@ -376,6 +379,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
@@ -461,6 +465,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Buksan ang Frame sa Bagong Window">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Ipakita lang ang Frame na ito">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -667,12 +673,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
 <!-- Strings for connection state warnings. -->
 
 
 
 <!-- Strings for connection state warnings in the subview. -->
+
+
 
 
 
@@ -695,7 +702,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Mga tab ng browser">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
 
 
 
@@ -722,7 +741,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY social.directory.introText "E click ang serbisyo para maidagdag sa &brandShortName;.">
-
 
 
 
@@ -809,7 +827,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY emeNotificationsDontAskAgain.label       "Huwag na akong tanungin muli">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
