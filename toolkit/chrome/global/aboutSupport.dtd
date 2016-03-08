@@ -53,6 +53,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ჩართული მოდულები">
 <!ENTITY aboutSupport.appBasicsBuildConfig "აგების კონფიგურაცია">
 <!ENTITY aboutSupport.appBasicsUserAgent "მომხმარებლის აგენტი">
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "მეხსიერების გამოყენება">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->

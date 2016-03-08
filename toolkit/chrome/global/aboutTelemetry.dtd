@@ -147,3 +147,6 @@
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   მარგი დატვირთვა">
 
+<!ENTITY aboutTelemetry.rawPayload "
+  ნედლი დატვირთვა
+">
