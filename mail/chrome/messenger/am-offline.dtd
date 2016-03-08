@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Șterge tot cu excepția celor mai recente">
 <!ENTITY retentionKeepRecent.accesskey "t">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Șterge mereu mesajele citite (suprascrie setările de vechime)">
 <!ENTITY retentionApplyToFlagged.label "Păstrează întotdeauna mesajele cu steluță">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Elimină corpul mesajelor mai mari de">
