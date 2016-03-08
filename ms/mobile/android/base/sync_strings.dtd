@@ -8,71 +8,16 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Sambung ke &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Tambah sebuah &syncBrand.fullName.label; Akaun">
-<!ENTITY sync.title.pair.label "Memasangkan Peranti">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Untuk aktifkan peranti baru anda, pilih “Set up &syncBrand.shortName.label;” pada peranti anda.">
-<!ENTITY sync.subtitle.header2.label "Masukkan kod ini pada peranti yang lain">
-<!ENTITY sync.subtitle.connectlocation2.label "Pilih \&quot;&sync.title.pair.label;\&quot; dalam seksyen &syncBrand.shortName.label; pilihan peranti Firefox anda yang lain.">
 <!ENTITY sync.subtitle.pair.label "Untuk mengaktifkan, pilih “Gandingkan peranti” pada peranti anda yang lain.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "tunjukan saya bagaimana.">
-<!ENTITY sync.link.advancedsetup.label "Tetapan lanjutan…">
 <!ENTITY sync.link.nodevice.label "Peranti tersebut tidak berada dengan saya…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Sedang menunggu peranti yang lain…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Masukkan &syncBrand.fullName.label; maklumat akaun anda">
-<!ENTITY sync.input.username.label "Nama Akaun">
-<!ENTITY sync.input.password.label "Kata laluan">
-<!ENTITY sync.input.key.label "Kekunci Pemulihan">
-<!ENTITY sync.checkbox.server.label "Gunakan pelayan langganan">
-<!ENTITY sync.input.server.label "Pelayan URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Tidak Dapat Menetapkan &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; tidak dapat dihubungkan ke pelayan. Adakah anda ingin mencuba lagi?">
-<!ENTITY sync.button.tryagain.label "Cuba lagi">
-<!ENTITY sync.button.manual.label "Penyediaan Manual">
-<!ENTITY sync.subtitle.nointernet.label "Tiada sambungan internet yang didapati.">
-<!ENTITY sync.subtitle.failaccount.label "Ciptaan akaun pada peranti anda gagal.">
-<!ENTITY sync.subtitle.failmultiple.label "Adakah anda memasang lebih daripada satu Firefox? Ketika ini, &syncBrand.fullName.label; hanya menyokong satu pemasangan Firefox pada satu masa. Sila nyahpasang tika lain untuk menggunakan &syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Setup Selesai">
-<!ENTITY sync.subtitle.success.label1 "Data anda sedang dimuat turun pada latar belakang. Anda boleh pergi ke Tetapan untuk menguruskan akaun anda, atau mula melayari web dengan &brandShortName;.">
-<!ENTITY sync.settings.label "Tetapan">
-<!ENTITY sync.subtitle.manage.label1 "Akaun &syncBrand.fullName.label; anda sudah disediakan. Anda boleh pergi ke Tetapan untuk menguruskan akaun anda, atau melancarkan &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Sila cuba sekali lagi.">
-<!ENTITY sync.pair.connectlocation.label "Untuk mengaktifkan peranti baru anda, pilih \&quot;Sediakan &syncBrand.shortName.label;\&quot; pada peranti, kemudian pilih \&quot;Saya Mempunyai Akaun.\&quot;">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Pilihan">
-<!ENTITY sync.summary.pair.label "Paut peranti lain ke akaun &syncBrand.shortName.label; anda">
 <!-- Configure Engines -->
-
-<!ENTITY sync.configure.engines.title.label "Apa yang hendak diselaraskan">
-<!ENTITY sync.configure.engines.sync.my.title.label "Selaraskan anda punya …">
-<!ENTITY sync.configure.engines.title.bookmarks "Penandabuku">
-
 <!ENTITY sync.configure.engines.title.history "Sejarah">
 <!ENTITY sync.configure.engines.title.tabs "Tab-tab">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Batal">
-<!ENTITY sync.button.connect.label "Sambung">
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (dikecam)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +37,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Senarai Bacaan">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Disematkan">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Hanya satu akaun &syncBrand.fullName.label; yang disokong.">
-<!ENTITY sync.notification.configure.saved "Pilhan anda telah disimpan.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Nama akaun atau kata laluan yang salah.">
-<!ENTITY sync.invalidserver.label "Sila masukkan URL pelayan yang sah">
-<!ENTITY sync.verifying.label "Sedang Mengesahkan...">
-<!ENTITY sync.new.recoverykey.status.incorrect "Kekunci Pemulihan salah. Sila cuba lagi.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Hantar Tab Ke Peranti">
-<!ENTITY sync.button.send.label "Hantar">
-<!ENTITY sync.button.set.up.sync.label "Tetapkan &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Sediakan &syncBrand.shortName.label; untuk menghantar tab">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Sediakan &syncBrand.fullName.label; pada peranti anda untuk menghantar tab ke peranti lain.">
 <!ENTITY sync.text.tab.sent.label "Tab anda telah dihantar!">
@@ -123,7 +55,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Emel">
-<!ENTITY fxaccount_password_hint "Kata laluan">
+
 <!ENTITY fxaccount_password_hide "Sorok">
 <!ENTITY fxaccount_password_show "Tunjuk">
 <!-- Localization note: these are shown in screens after the user has
@@ -209,7 +141,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; telah ditetapkan, tetapi tidak automatik disync. Togol “data Auto-sync” dalam Android Tetapan &gt; Penggunaan Data.">
 
 
-<!ENTITY fxaccount_status_bookmarks "Penandabuku">
+
 <!ENTITY fxaccount_status_history "Sejarah">
 
 <!ENTITY fxaccount_status_tabs "Buka tab">
