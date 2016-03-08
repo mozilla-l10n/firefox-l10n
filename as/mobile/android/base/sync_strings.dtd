@@ -8,71 +8,16 @@
 <!ENTITY syncBrand.shortName.label "চিঙ্ক কৰক">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; লৈ সংযোগ কৰক">
-<!ENTITY sync.title.adddevice.label "এটা &syncBrand.fullName.label; একাউণ্ট যোগ কৰক">
-<!ENTITY sync.title.pair.label "এটা ডিভাইচ সংযুক্ত কৰক">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "আপোনাৰ নতুন ডিভাইচ সক্ৰিয় কৰিবলে, ডিভাইচত “&syncBrand.shortName.label; সংস্থাপন কৰক” বাছক।">
-<!ENTITY sync.subtitle.header2.label "আপোনাৰ ডিভাইচত এই ক\u0027ড সুমুৱাওক">
-<!ENTITY sync.subtitle.connectlocation2.label "আপোনাৰ অন্য ডিভাইচৰ Firefox বিকল্পসমূহৰ &syncBrand.shortName.label; বিভাগত “&sync.title.pair.label;” বাছক।">
 <!ENTITY sync.subtitle.pair.label "সক্ৰিয় কৰিবলে, আপোনাৰ অন্য ডিভাইচত \&quot;এটা ডিভাইচ যোৰ কৰক\&quot; বাছক।">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "মোক দেখুৱাওক কেনেকৈ।">
-<!ENTITY sync.link.advancedsetup.label "উন্নত সংস্থাপন…">
 <!ENTITY sync.link.nodevice.label "মোৰ ওচৰত ডিভাইচটো নাই…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "অন্য ডিভাইচৰ বাবে অপেক্ষা কৰা হৈছে…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "আপোনাৰ &syncBrand.fullName.label; একাউণ্ট তথ্য সুমুৱাওক">
-<!ENTITY sync.input.username.label "একাউণ্ট নাম">
-<!ENTITY sync.input.password.label "পাছৱৰ্ড">
-<!ENTITY sync.input.key.label "উদ্ধাৰ কি\u0027">
-<!ENTITY sync.checkbox.server.label "স্বনিৰ্বাচিত চাৰ্ভাৰ ব্যৱহাৰ কৰক">
-<!ENTITY sync.input.server.label "চাৰ্ভাৰ URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; সংস্থাপন কৰিব নোৱাৰি">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; এ চাৰ্ভাৰৰ সৈতে সংযোগ কৰিব নোৱাৰিলে। পুনৰ চেষ্টা কৰিব বিচাৰেনে?">
-<!ENTITY sync.button.tryagain.label "পুনৰ চেষ্টা কৰক">
-<!ENTITY sync.button.manual.label "হস্তচালিত সংস্থাপন">
-<!ENTITY sync.subtitle.nointernet.label "কোনো ইণ্টাৰনে\u0027ট সংযোগ উপলব্ধ নাই।">
-<!ENTITY sync.subtitle.failaccount.label "আপোনাৰ ডিভাইচত একাউণ্ট নিৰ্মাণ বিফল হ\u0027ল।">
-<!ENTITY sync.subtitle.failmultiple.label "আপোনাৰ একাধিক Firefox ইনস্টল আছে নেকি? বৰ্তমান, &syncBrand.fullName.label; এ এটা সময়ত কেৱল এটা Firefox ইনস্টলেশ্বন সমৰ্থন কৰিব পাৰে। &syncBrand.shortName.label; ব্যৱহাৰ কৰিবলৈ অনুগ্ৰহ কৰি আন Firefox সমূহ আনইনস্টল কৰক।">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "সংস্থাপন সম্পূৰ্ণ">
-<!ENTITY sync.subtitle.success.label1 "আপোনাৰ তথ্যবোৰ পটভূমিত ডাউনল\u0027ড কৰা হৈছে। আপুনি ছেটিংছ্লৈ গৈ আপোনাৰ একাউণ্ট যতনাব পাৰে, অথবা &brandShortName; ৰ সৈতে ব্ৰাউছ কৰা আৰম্ভ কৰিব পাৰে।">
-<!ENTITY sync.settings.label "ছেটিংছ্">
-<!ENTITY sync.subtitle.manage.label1 "আপোনাৰ &syncBrand.fullName.label; একাউণ্ট ইতিমধ্যে সংস্থাপিত আছে। আপুনি ছেটিংছ্লৈ গৈ আপোনাৰ একাউণ্ট যতনাব পাৰে, অথবা &brandShortName; আৰম্ভ কৰিব পাৰে।">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।">
-<!ENTITY sync.pair.connectlocation.label "আপোনাৰ নতুন ডিভাইচ সক্ৰিয় কৰিবলৈ, ডিভাইচত \&quot;&syncBrand.shortName.label; সংস্থাপন কৰক\&quot; বাছক, আৰু তাৰ পিছত \&quot;মোৰ এটা একাউণ্ট আছে\&quot; বাছক।">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "বিকল্পসমূহ">
-<!ENTITY sync.summary.pair.label "আপোনাৰ &syncBrand.shortName.label; একাউণ্টৰ লগত আন এটা ডিভাইচ সংযোগ কৰক">
 <!-- Configure Engines -->
-
-<!ENTITY sync.configure.engines.title.label "কি চিঙ্ক কৰা হব">
-<!ENTITY sync.configure.engines.sync.my.title.label "চিঙ্ক কৰক আপোনাৰ…">
-<!ENTITY sync.configure.engines.title.bookmarks "পত্ৰচিহ্নসমূহ">
-
 <!ENTITY sync.configure.engines.title.history "ইতিহাস">
 <!ENTITY sync.configure.engines.title.tabs "টেবসমূহ">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "বাতিল কৰক">
-<!ENTITY sync.button.connect.label "সংযোগ কৰক">
-<!ENTITY sync.button.ok.label "ঠিক আছে">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (স্খলিত)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +37,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "পঢ়াৰ তালিকা">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "চিহ্নিত">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "কেৱল এটা &syncBrand.fullName.label; একাউণ্ট সমৰ্থন কৰা হয়।">
-<!ENTITY sync.notification.configure.saved "আপোনাৰ নিৰ্বাচনসমূহ সংৰক্ষণ কৰা হ\u0027ল।">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "ভুল একাউণ্ট নাম অথবা পাছৱৰ্ড">
-<!ENTITY sync.invalidserver.label "অনুগ্ৰহ কৰি এটা বৈধ চাৰ্ভাৰ URL সুমুৱাওক">
-<!ENTITY sync.verifying.label "সত্যাপন কৰা হৈছে…">
-<!ENTITY sync.new.recoverykey.status.incorrect "উদ্ধাৰ কি\u0027 ভুল হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "টেবক ডিভাইচলৈ পঠাওক">
-<!ENTITY sync.button.send.label "পঠাওক">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; সংস্থাপন কৰক">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "টেবসমূহ প্ৰেৰণ কৰিবলে &syncBrand.shortName.label; সংস্থাপন কৰক">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "টেবসমূহ অন্য ডিভাইচত প্ৰেৰণ কৰিবলে আপোনাৰ ডিভাইচত &syncBrand.fullName.label; সংস্থাপন কৰক।">
 <!ENTITY sync.text.tab.sent.label "আপোনাৰ টেব পঠোৱা হল!">
@@ -123,7 +55,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ইমেইল">
-<!ENTITY fxaccount_password_hint "পাছৱৰ্ড">
+
 <!ENTITY fxaccount_password_hide "লুকুৱাওক">
 <!ENTITY fxaccount_password_show "দেখুৱাওক">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +143,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে চিঙ্ক কৰা নাই। Android ছেটিংছ্ &gt; তথ্য ব্যৱহাৰত “তথ্য স্ব-চিঙ্ক কৰক” টগল কৰক।">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে চিঙ্ক কৰা নাই। Android ছেটিংছ্ &gt; একাওণ্টসমূহত “তথ্য স্ব-চিঙ্ক কৰক” টগল কৰক।">
 <!ENTITY fxaccount_status_needs_finish_migrating "আপোনাৰ নতুন Firefox একাওণ্টত ছাইন ইন কৰিবলে টেপ কৰক।">
-<!ENTITY fxaccount_status_bookmarks "পত্ৰচিহ্নসমূহ">
+
 <!ENTITY fxaccount_status_history "ইতিহাস">
 
 <!ENTITY fxaccount_status_tabs "খোলা টেবসমূহ">
