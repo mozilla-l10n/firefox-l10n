@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "دریافت نتایج از نشانک ها و تاریخچه وقتی که شما جست‌و‌جو می‌کنید.">
 <!ENTITY firstrun_data_title "داده">
 <!ENTITY firstrun_data_message "داده‌کم‌تر،صرفه‌جویی بشتر">
-
+<!ENTITY firstrun_data_subtext2 "برای دریافت داده کمتر در هنگام مشاهده سایت‌هایی که بازدید می‌کنید، تصاویر را خاموش کنید.">
 <!ENTITY firstrun_sync_title "هم‌گام‌سازی">
 <!ENTITY firstrun_sync_message "&brandShortName;, همیشه در سمت شماست">
 <!ENTITY firstrun_sync_subtext "همگام‌سازی زبانه‌ها‌،‌گذرواژه‌ها، و چیزهای دیگر هر کجا که مایل باشید از آن استفاده کنید.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "فقط با Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "مسدود شد">
 
+<!ENTITY pref_show_web_fonts "نمایش قلم‌های تحت وب">
 
 <!ENTITY pref_tracking_protection_title "محافظت در برابر ردگیری">
 <!ENTITY pref_tracking_protection_summary3 "فعال شده در حالت مرور خصوصی">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "مرور تمام صفحه">
 <!ENTITY pref_scroll_title_bar_summary2 "پنهان کردن نوار ابزار &brandShortName; هنگام حرکت به سمت پایین صفحه">
 
-
+<!ENTITY pref_tab_queue_title3 "صف زبانه‌ها">
+<!ENTITY pref_tab_queue_summary4 "پیوندها را تا نوبت بعدی‌ای که &brandShortName; را باز می‌کنید، ذخیره کنید">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "هیچ محتوایی برای این پنل پیدا نشد.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "برگشتن به &formatS;">
 
 <!ENTITY home_remote_tabs_title "زبانه‌های همگام‌سازی شده">
 <!ENTITY home_remote_tabs_empty "زبانه‌های شما از دستگاه‌های دیگر در اینجا نمایش داده می‌شوند.">
@@ -770,7 +774,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version "متأسفیم! این &brandShortName; بر روی این دستگاه کار نخواهد کرد (&formatS1;، &formatS2;). لطفاً نسخه صحیح را دریافت کنید.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; دیگر بروزرسانی نمی‌شود">
 <!ENTITY eol_notification_summary "برای اطلاعات بیشتر ضربه بزنید">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; به‌روز است">
+<!ENTITY whatsnew_notification_summary "تغییرات این نسخه را ببینید">

@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "پست الکترونیکی">
-
+<!ENTITY fxaccount_password_hint "گذرواژه">
 <!ENTITY fxaccount_password_hide "مخفی کردن">
 <!ENTITY fxaccount_password_show "نمایش">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; تنظیم شده است، اما هم‌گام‌سازی به صورت خودکار انجام نمی شود. ضامن “هم‌گام‌سازی خودکار اطلاعات” را در تنظیمات اندروید &gt; مصرف داده تنظیم کنید.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; تنظیم شده است، اما هم‌گام‌سازی به صورت خودکار انجام نمی شود. ضامن “هم‌گام‌سازی خودکار اطلاعات” را در فهرست تنظیمات اندروید &gt; حساب‌های کاربری تنظیم کنید.">
 <!ENTITY fxaccount_status_needs_finish_migrating "برای ورود به حساب فایرفاکس جدید خود تپ کنید.">
-
+<!ENTITY fxaccount_status_bookmarks "نشانک‌ها">
 <!ENTITY fxaccount_status_history "تاریخچه">
 <!ENTITY fxaccount_status_passwords2 "ورود">
 <!ENTITY fxaccount_status_tabs "زبانه‌های باز">
