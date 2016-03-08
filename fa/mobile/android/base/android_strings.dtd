@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "دریافت نتایج از نشانک ها و تاریخچه وقتی که شما جست‌و‌جو می‌کنید.">
 <!ENTITY firstrun_data_title "داده">
 <!ENTITY firstrun_data_message "داده‌کم‌تر،صرفه‌جویی بشتر">
-<!ENTITY firstrun_data_subtext "مسدود کردن تصاویر برای دریافت داده کم تر بر روی هر پایگاه اینترنتی که بازدید می‌کنید.">
+
 <!ENTITY firstrun_sync_title "هم‌گام‌سازی">
 <!ENTITY firstrun_sync_message "&brandShortName;, همیشه در سمت شماست">
 <!ENTITY firstrun_sync_subtext "همگام‌سازی زبانه‌ها‌،‌گذرواژه‌ها، و چیزهای دیگر هر کجا که مایل باشید از آن استفاده کنید.">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "همیشه">
 <!ENTITY pref_tap_to_load_images_data "فقط با Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "مسدود شد">
+
 
 <!ENTITY pref_tracking_protection_title "محافظت در برابر ردگیری">
 <!ENTITY pref_tracking_protection_summary3 "فعال شده در حالت مرور خصوصی">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "مرور تمام صفحه">
 <!ENTITY pref_scroll_title_bar_summary2 "پنهان کردن نوار ابزار &brandShortName; هنگام حرکت به سمت پایین صفحه">
 
-<!ENTITY pref_tab_queue_title2 "باز‌کردن چندین پیوند">
-<!ENTITY pref_tab_queue_summary3 "ذخیره اطلاعات تا نوبت بعدی که &brandShortName; را باز می‌کنید">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "هیچ محتوایی برای این پنل پیدا نشد.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "حداکثر تا &formatS;">
 
 <!ENTITY home_remote_tabs_title "زبانه‌های همگام‌سازی شده">
 <!ENTITY home_remote_tabs_empty "زبانه‌های شما از دستگاه‌های دیگر در اینجا نمایش داده می‌شوند.">
@@ -648,8 +646,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "جست‌وجو &formatS1; برای &formatS2;">
 
-<!ENTITY webapp_generic_name "برنامه">
-
 <!ENTITY searchable_description "نشانک‌ها و تاریخچه">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "آخرین همگام سازی: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "آخرین همگام سازی: هیچ وقت">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "آپ">
 
 <!ENTITY intent_uri_cannot_open "پیوند باز نمی‌شود">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version "متأسفیم! این &brandShortName; بر روی این دستگاه کار نخواهد کرد (&formatS1;، &formatS2;). لطفاً نسخه صحیح را دریافت کنید.">
 
-<!ENTITY eol_notification_title "&brandShortName; دیگر از نسخه ۳ اندروید پشتیبانی نمی‌کند">
 <!ENTITY eol_notification_summary "برای اطلاعات بیشتر ضربه بزنید">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
