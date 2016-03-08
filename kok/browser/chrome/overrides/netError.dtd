@@ -130,18 +130,6 @@
 &brandShortName; क वेबान प्रवेश करपाची परवानगी आसा हाजी खात्री करात.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "घुरीचें थळ दुबाव">
-<!ENTITY malwareBlocked.longDesc "<p>हल्लो करपी सायट्स खाजगी माहिती चोरपी, तमच्या संगणकाचो हेरांचेर हल्लो करपाक वापरपी, वो तुमची व्यवस्था मोडपी कार्यावळी प्रतिष्ठापित करपाचो यत्न करतात.</p> 
-<p>वेबसायट मालक जांका दिसात की तांची सायट एररान हल्लो करपी सायट म्हण कळयल्या ते <a href='http://www.stopbadware.org/home/reviewinfo' >आढाव्याची विनंती करपाक शकतात</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "वॅब बनवेगीरीचो दुबाव">
-<!ENTITY phishingBlocked.longDesc "<p>ह्या पानार कसलीय वैयक्तिक माहिती दिल्यार वळख चोरी वो हेर फटिंगपणां जाव येता.</p> 
-<p>ह्या तरेची वेब चोरी फिशिंग हल्ले म्हण वळखुपी फटिंगपणांनी वापल्ली वता, जंय तुमी विश्र्वास दवरता त्या स्त्रोतांचे अनुकरण करपाक बोगस वेबपानां आणि ईमेल वापरल्ल्यो वतात.</p>">
-
-
-
 <!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणान प्रतिबंधित केलां">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; न ह्या पानाक अशेतरेन लोड जावपापासून आडयला कारण पानाक आशय सुरक्षा धोरण आसा जे अशे करपाक दिना.</p>">
 
@@ -164,9 +152,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "अदिक शिकात...">
-<!ENTITY errorReporting.sending "अहवाल धाडटा">
-<!ENTITY errorReporting.sent "अहवाल धाडला">
-<!ENTITY errorReporting.tryAgain "परतून यत्न करात">
 
 <!ENTITY remoteXUL.title "रिमोट XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ह्या आडमेळा विशीं कळोवपाक मात्शे वेबसायट मालकांक संपर्क करात.</li></ul></p>">
