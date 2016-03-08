@@ -35,6 +35,3 @@ jums nav patiešām laba iemesla uzticēties lapas identifikācijai.">
 <!ENTITY certerror.copyToClipboard.label "Kopēt tekstu atmiņā">
 
 <!ENTITY errorReporting.automatic "Ziņojiet par šādām kļūdām Mozilla, lai varētu identificēt nepareizi nokonfigurētas lapas">
-<!ENTITY errorReporting.sending "Nosūta ziņojumu">
-<!ENTITY errorReporting.sent "Ziņojums nosūtīts">
-<!ENTITY errorReporting.tryAgain "Mēģināt vēlreiz">

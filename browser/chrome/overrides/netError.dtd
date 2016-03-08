@@ -129,20 +129,6 @@ savienojumu.</li>
 ka &brandShortName; ir atļauts piekļūt tīmeklim.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Iespējama kaitnieku lapa!">
-<!ENTITY malwareBlocked.longDesc "<p>Kaitnieku lapas mēģina uzinstalēt programmas, lai nozagtu jūsu privāto informāciju vai neatļauti izmantotu jūsu datoru uzbrukumu veikšanai pret citiem lietotājiem, vai kā savādāk kaitētu jūsu datoram.</p> 
-<p>Ja uzskatāt, ka jūsu lapas kļūdaini identificētas ka kaitnieku lapas, varat <a href='http://www.stopbadware.org/home/reviewinfo' >lūgt atkārtotu izvērtējumu</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Iespējama bīstamās programmatūras lapa!">
-<!ENTITY unwantedBlocked.longDesc "<p>Bīstamās programmatūras lapas mēģina instalēt maldīgu programmatūru, kas var negatīvi ietekmēt jūsu datoru.</p>">
-
-<!ENTITY phishingBlocked.title "Iespējama krāpnieku lapa!">
-<!ENTITY phishingBlocked.longDesc "<p>Personiskās informācijas ievadīšana šajā lapā var novest pie tās zādzības un ļaunprātīgas izmantošanas vai krāpšanas.</p> 
-<p>Šāda tipa lapas tiek izmantotas uzbrukumos, kas pazīstami kā fišinga uzbrukumi, kuros ar neīstu mājas lapu vai e-pastu palīdzību krāpnieki mēģina izlikties par uzticamiem interneta avotiem.</p>">
-
-<!ENTITY forbiddenBlocked.title "Aizliegta lapa">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi, jo tās drošības politika to neļauj.</p>">
-
 <!ENTITY cspBlocked.title "Bloķē satura drošības politika">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi, jo tās drošības politika to neļauj.</p>">
 
@@ -166,9 +152,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Ziņojiet par šādām kļūdām Mozilla, lai varētu identificēt un bloķēt kaitnieciskas lapas">
 <!ENTITY errorReporting.learnMore "Uzzināt vairāk…">
-<!ENTITY errorReporting.sending "Nosūta ziņojumu">
-<!ENTITY errorReporting.sent "Ziņojums nosūtīts">
-<!ENTITY errorReporting.tryAgain "Mēķināt vēlreiz">
 
 <!ENTITY remoteXUL.title "Attālināts XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu sazinieties ar mājas lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
