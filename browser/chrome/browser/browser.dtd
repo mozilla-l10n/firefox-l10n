@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "บ">
 <!ENTITY shareVideo.label "แบ่งปันวิดีโอนี้">
 <!ENTITY shareVideo.accesskey "บ">
-<!ENTITY feedsMenu.label "บอกรับ">
-<!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
+
+
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
+
 <!ENTITY unsortedBookmarksCmd.label "ที่คั่นหน้าที่ยังไม่ได้เรียง">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าอื่น ๆ ด้วย">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "เชื่อมต่อ…">
 <!ENTITY devtoolsConnect.accesskey    "ต">
@@ -407,10 +410,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "เปิดเมนูช่วยเหลือ">
 
 <!ENTITY appMenuRemoteTabs.label "แท็บที่ผสาน">
-<!ENTITY appMenuRemoteTabs.fetching.label "กำลังนำแท็บที่ผสาน…">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "ไม่มีแท็บที่เปิดอยู่">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
@@ -419,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY appMenuRemoteTabs.signin.label "เข้าสู่ระบบ Sync">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "เพิ่มไปยังแถบเครื่องมือ">
 <!ENTITY customizeMenu.addToToolbar.accesskey "พ">
@@ -525,6 +528,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ท">
 <!ENTITY openFrameCmd.label           "เปิดกรอบในหน้าต่างใหม่">
 <!ENTITY openFrameCmd.accesskey       "น">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ส">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -739,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "พ">
 
 <!ENTITY editBookmark.done.label                     "เสร็จ">
-<!ENTITY editBookmark.cancel.label                   "ยกเลิก">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "การเชื่อมต่อนิรภัย">
@@ -773,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "ป">
 <!ENTITY identity.learnMore "เรียนรู้เพิ่มเติม">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "ข้อมูลเพิ่มเติม">
 
 <!ENTITY identity.permissions "การอนุญาต">
@@ -781,9 +787,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "แท็บเบราว์เซอร์">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu3.label     "แท็บที่ผสาน">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -821,7 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "คลิกบนบริการเพื่อเพิ่มเข้าไปใน &brandShortName;">
 <!ENTITY social.directory.viewmore.text "ดูเพิ่ม">
 
-<!ENTITY customizeMode.tabTitle "ปรับแต่ง &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "เพิ่มเครื่องมือและคุณสมบัติ">
 <!ENTITY customizeMode.menuAndToolbars.empty "อยากได้เครื่องมือเพิ่ม?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมที่มีนับพัน">
@@ -927,7 +945,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "ข้อมูลเพิ่มเติมเกี่ยวกับ DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "ไม่ใช่ตอนนี้">
-<!ENTITY emeNotificationsNotNow.accesskey         "ม">
-<!ENTITY emeNotificationsDontAskAgain.label       "ไม่ต้องถามฉันอีก">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "ม">

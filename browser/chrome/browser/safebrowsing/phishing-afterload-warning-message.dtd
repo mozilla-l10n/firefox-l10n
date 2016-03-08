@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "นำฉันออกไปจากที่นี่">
 <!ENTITY safeb.palm.decline.label "ไม่สนใจคำเตือนนี้">
-<!ENTITY safeb.palm.notforgery.label2 "เว็บไซต์นี้ไม่ใช่เว็บลอกเลียน…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -18,10 +18,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "เว็บไซต์ <span id='unwanted_sitename'/> ถูกรายงานว่ามีซอฟต์แวร์ที่ไม่เป็นที่ต้องการอยู่และถูกปิดกั้นตามค่าปรับแต่งด้านความปลอดภัยของคุณ">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>หน้าที่มีซอฟต์แวร์ที่ไม่ต้องการพยายามจะติดตั้งซอฟต์แวร์ที่สามารถหลอกลวงและส่งผลกระทบกับระบบของคุณในทางที่ไม่คาดหวัง</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "รายงานเว็บปลอมแปลง!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "เว็บไซต์ <span id='phishing_sitename'/> ถูกรายงานว่าเป็นเว็บลอกเลียนและถูกปิดกั้นตามค่าปรับแต่งด้านความปลอดภัยของคุณ">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>เว็บลอกเลียน ถูกออกแบบให้มีหน้าตาเหมือนกับเว็บไซต์จริงที่น่าเชื่อถือเพื่อหลอกให้คุณเปิดเผยข้อมูลส่วนตัวหรือข้อมูลทางการเงิน</p><p>การให้ข้อมูลกับเว็บไซต์เหล่านี้อาจทำให้คุณถูกขโมยข้อมูลระบุตัวตน หรือถูกหลอกลวงอย่างอื่นได้</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
