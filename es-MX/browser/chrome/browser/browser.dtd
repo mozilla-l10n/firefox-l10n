@@ -163,12 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "Compartir este video">
 <!ENTITY shareVideo.accesskey "r">
-
-
+<!ENTITY feedsMenu2.label "Suscribirse a esta página">
+<!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
-
+<!ENTITY recentBookmarks.label "Añadidos recientemente a marcadores">
 <!ENTITY unsortedBookmarksCmd.label "Marcadores sin clasificar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
@@ -258,7 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Conectar…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,18 +411,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Abrir el menú de ayuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Obteniendo pestañas sincronizadas...">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "No hay pestañas abiertas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activa la sincronización de pestañas para ver una lista de pestañas desde tus otros dispositivos.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Inicia sesión en Firefox desde otros dispositivos para ver tus pestañas aquí.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sincronizar preferencias">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Inicia sesión para ver una lista de pestañas de tus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia sesión en Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Ver pestañas sincronizadas en la barra lateral">
 
 <!ENTITY customizeMenu.addToToolbar.label "Agregar a la barra de herramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -528,8 +532,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Abrir el marco en una ventana nueva">
 <!ENTITY openFrameCmd.accesskey       "e">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Abrir enlace en nueva pestaña contenedora">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar sólo este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "e">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -777,7 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Saber más">
 
-
+<!ENTITY identity.removeCertException.label "Eliminar excepción">
+<!ENTITY identity.removeCertException.accesskey "E">
 
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 
@@ -791,17 +796,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Pestañas sincronizadas">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Pestañas sincronizadas">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Obteniendo pestañas sincronizadas...">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Inicia sesión en Firefox desde otros dispositivos para ver tus pestañas aquí.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicia sesión para ver una lista de pestañas de tus otros dispositivos.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "No hay pestañas abiertas">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Abriendo preferencias de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activa la sincronización de pestañas para ver una lista de pestañas desde tus otros dispositivos.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Abrir esta pestaña">
+<!ENTITY syncedTabs.context.openTab.accesskey               "A">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Agregar esta pestaña a marcadores…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "A">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
