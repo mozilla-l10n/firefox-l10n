@@ -130,19 +130,6 @@
 ఖచ్చితంగా  &brandShortName; వెబ్ వాడుకొనే అనుమతి  ఉండునట్లు చూసుకోండి.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "దాడిచేయునదని అనుమానించిన సైటు!">
-<!ENTITY malwareBlocked.longDesc "<p>దాడిచేయు సైటులు మీవ్యక్తిగత సమాచారాన్ని దొంగిలించు ప్రోగ్రామ్సును  సంస్థాపించుటకు ప్రయత్నిస్తాయి, ఇతరులపై దాడిచేయుటకు మీకంప్యూటర్‌ను వుపయోగిస్తాయి, లేదా మీసిస్టమ్‌ను నాశనంచేస్తాయి.</p> 
-<p>తమసైటు దాడిచేయు  సైటు అని నివేదించుట తప్పని యజమానులు భావిస్తే  <a href='http://www.stopbadware.org/home/reviewinfo' >పునఃపరిశీల అభ్యర్దన</a> చేయవచ్చు.</p>">
-
-<!ENTITY unwantedBlocked.title "అనవసరపు సాఫ్టువేర్ జాలస్థలిగా అనుమానించబడినది!">
-<!ENTITY unwantedBlocked.longDesc "<p>అనవసర సాఫ్టువేరు పేజీలు మీ కంప్యూటర్ నిర్వహణ వ్యవస్థలో తెలీని ప్రతికూల మార్పులు తెచ్చి పాడు చేసే సాఫ్టువేర్లను స్థాపిస్తాయి.</p>">
-
-<!ENTITY phishingBlocked.title "అనుమానించిన వెబ్ మోసము!">
-<!ENTITY phishingBlocked.longDesc "<p>ఈ సైటునందు వ్యక్తిగతసమాచారం ప్రవేశపెట్టుటవలన  అపహరణకు లేదా ఇతర మోసాలకు గురికావచ్చు.</p> 
-<p>ఈ రకమైన వెబ్ మోసాలు పిష్షింగ్ దాడులవంటి స్కామ్‌లలో వుపయోగించబడతాయి,వీటిలో మోసపూరిత వెబ్‌పుటలు మరియు ఈమెయిల్సు ‌  మీరునమ్మే మూలాలను అనుకరిస్తాయి.</p>">
-
-
-
 <!ENTITY cspBlocked.title "కాంటెంట్ రక్షణ విధానము చేత నిలిపివేయబడెను">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; యీ పేజీను యీ మార్గములో లోడగుటనుండి నిరోధిస్తోంది యెంచేతంటే యీ పేజీ కాంటెంట్ రక్షణ విధానమును కలిగివుంది అది దీనిని అనుమతించుటలేదు.</p>">
 
@@ -165,9 +152,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "మరింత తెలుసుకోండి…">
-<!ENTITY errorReporting.sending "నివేదికను పంపిస్తున్నాం">
-<!ENTITY errorReporting.sent "నివేదిక పంపబడింది">
-<!ENTITY errorReporting.tryAgain "మళ్ళీ ప్రయత్నించు">
 
 <!ENTITY remoteXUL.title "రిమోట్ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ఈ సమస్య గురించి వారికి తెలుపుటకు దయచేసి వెబ్‌సైట్ స్వంతదారులను సంప్రదించండి.</li></ul></p>">
