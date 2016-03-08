@@ -27,7 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 
 
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
