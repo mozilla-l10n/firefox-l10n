@@ -216,6 +216,7 @@
 
 
 
+
 <!ENTITY pref_donottrack_title "ခြေရာမခံပါနှင့်">
 <!ENTITY pref_donottrack_summary "&brandShortName; သှ် ဝတ်ဆိုဒ်များအား သင့်ကို ခြေရာမခံရန် ပြောပေးထားမည်ဖြစ်သှ်">
 
@@ -505,10 +506,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "ယခု ရင်ပြင်တွင် မည်သည့် အရာမျှတွေ့ရမည်မဟုတ်ပါ">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "&formatS; ထိ">
 
 <!ENTITY home_remote_tabs_title "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
 <!ENTITY home_remote_tabs_empty "အခြားဖုန်းများမှ သင်ဖွင့်ထားသော တပ်ဗ်များ ဒီတွင်ပေါ်နေမည်">
@@ -599,8 +598,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "&formatS1; တွင် &formatS2; အတွက်ရှာ">
 
-<!ENTITY webapp_generic_name "အက်ပ်">
-
 <!ENTITY searchable_description "စာအမှတ်များ နှင့် မှတ်တမ်း">
 <!-- Updater notifications --> 
 
@@ -653,11 +650,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "နောက်ဆုံးချိတ်ခဲ့ချိန်- &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -700,4 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
 

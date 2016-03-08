@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "ဒီနေရာမှ ထွက်မည်!">
 <!ENTITY safeb.palm.decline.label "ဒီသတိပေးချက်ကို လျစ်လျုရှုပါ">
-<!ENTITY safeb.palm.notforgery.label2 "ဒါဟာ လိမ်လည်တဲ့ ကွန်ရက် တခု မဟုတ်ဘူး။">
 
 
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "ဤဝတ်ဆိုက်၏<span id='malware_sitename'/>သည်တိုက်ခိုက်နိုင်ဖွယ်ရှိသောစာမျက်နှာဟုသတင်းပေးခြင်းခံရပြီးသင်၏လုံခြုံရေးအပြင်အဆင်များအရပိတ်ပင်ထားခြင်းခံရသည်။">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>တိုက်ခိုက်သောဝတ်စာမျက်နှာများသည်ကွန်ပျူတာအတွင်းအချို့ပရိုဂရမ်များထည့်သွင်းပြီးသင့်အားအခြားတစ်နေရာမှတိုက်ခိုက်ရန်ကြိုးပမ်းနေသည်</p><p>အချို့တိုက်ခိုက်ဝတ်စာမျက်နှာများသည်နိုင်ငံတကာ အဆင့်အန္တရာယ်ရှိသောဆော့ဝဲများအားဖြန်ချီလျှက်ရှိသည်။</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "သံသယဖြစ်ဖွယ် ကွန်ရက်တု။">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ယခုစာမျက်နှာသို့ သင့် ပုဂ္ဂိုလ်ရေးရာ အချက်အလက်များ ထည့်သွင်းခြင်းဖြင့် အချက်အလက်များ ခိုးခံရနိုင်သှ်။ ">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ဒီပုံစံ ကွန်ရက် လိမ်လည်မှုများဟာ ခိုးယူ တိုက်ခိုက်မှုများ လို့ခေါ်တဲ့ ရိုက်စားချက်များ ဖြစ်ပြီး၊ ၄င်းအထဲမှာ သင် စိတ်ချမဲ့ အရင်းအမြစ်များကို တုပပြီး လိမ်လည်တဲ့ ကွန်ရက် စာမျက်နှာများနဲ့ အီးမေးလ်များကို သုံးစွဲကြတယ်။ ဒီအကြောင်းကို ပိုမို၍ သင် တွေ့နိုင်တယ်</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "ဤဝဘ်ဆိုက်၏ <span id='unwanted_sitename'/> သည် တိုက်ခိုက်နိုင်ဖွယ်ရှိသော စာမျက်နှာဟု သတင်းပေးခြင်းခံရပြီး သင်၏လုံခြုံရေးအပြင်အဆင်များအရ ပိတ်ပင်ထားခြင်းခံရသည်။">
