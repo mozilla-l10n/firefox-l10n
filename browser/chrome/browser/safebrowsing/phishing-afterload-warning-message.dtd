@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Эндээс намайг гарга!">
 <!ENTITY safeb.palm.decline.label "Энэ анхааруулгыг үл тоо">
-<!ENTITY safeb.palm.notforgery.label2 "Энэ вэб хууралт биш…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -15,10 +15,8 @@
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
-<!ENTITY safeb.blocked.phishingPage.title "Мэдээлэгдсэн вэб хууралт!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> дээрх энэ вэб хуудас нь вэб хууралт хийдэг хэмээн мэдээлэгдсэн бөгөөд таны нууцлалын тохируулгын дагуу хоригдсон болно.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Вэб хууралт хийгчид нь таны итгэлийг буруугаар ашиглаж хувийн мэдээлийг тань цуглуулж байдаг. </p><p>Иймэрхүү хуудсанд хувийн мэдээллээ оруулснаар та чухал мэдээллээ алдах юмуу цаашид буруугаар ашиглагдах боломжтой.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

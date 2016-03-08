@@ -31,3 +31,6 @@
 <!ENTITY abouthome.addonsButton.label    "Нэмэгдлүүд">
 <!ENTITY abouthome.downloadsButton.label "Татацууд">
 <!ENTITY abouthome.syncButton.label      "Тэнцвэржүүлэлт">
+<!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
+     the mozilla wordmark in the top-right corner that links to Mozilla's main
+     about page. -->
