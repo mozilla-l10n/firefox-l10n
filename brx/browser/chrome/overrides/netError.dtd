@@ -130,18 +130,6 @@
 &brandShortName; खौ वेब हाबहोनो गनायथि होनाय जायो नामा रोखा खालाम।</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "थाद'नाय गाग्लोबनाय साइट!">
-<!ENTITY malwareBlocked.longDesc "<p>गाग्लोबनाय साइटआ ओरैबादि प्रग्रामखौ इनष्टल खालामनो नाजायो जाय प्राइभेट फोरमायथिहोग्राखौ खावयो, गुबुनखौ गाग्लोबनो नोंथांनि कम्पुटारखौ बाहायो एबा नोंथांनि सिस्टेमखौ खहा खालामो।</p> 
-<p>वेबसाइट बिगोमा जाय बिसोरनि साइटखौ गाग्लोबनाय साइट होननानै रिपर्ट खालामबाय बिसोरो<a href='http://www.stopbadware.org/home/reviewinfo' >मोनसे नायफिननायखौ खावलायनो हागौ</a>।</p>">
-
-
-
-<!ENTITY phishingBlocked.title "थाद'नाय वेब फरजारि!">
-<!ENTITY phishingBlocked.longDesc "<p>बे बिलाइआव जायखि जाया निजि फोरमायथिहोग्राखौ हाबहोयोब्ला सिखाव एबा गुबुन थगायनायखौ सिनायनो हागौ जानांगौ।</p> 
-<p>फिशिं गाग्लोबनाय महरै बेफोर रोखोमनि वेब नंखायखौ स्केम्सआव बाहायनाय जायो, जेराव थगायनाय वेब बिलाइ आरो इ-मेइलखौ नोंथाङा फोथायनाय फुंखाखौ नखल खालामनो बाहायनाय जायो।</p>">
-
-
-
 <!ENTITY cspBlocked.title "गोजोननाय रैखाथि पलिसिजों हेंथा होजाबाय">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; आ बे बिलाइखौ बेबाइदि ल'ड खालामनाय निफ्राय हेंथा होबाय मानोना बिलाइहा मोनसे थानाय-आयदा रैखाथि पलिसि दं जाय बेखौ गनायथिगैयै खालामो।</p>">
 
@@ -164,9 +152,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "गोबां सोलों">
-<!ENTITY errorReporting.sending "रिपर्टखौ दैथाय हरगासिनो दं">
-<!ENTITY errorReporting.sent "रिपर्टखौ दैथाय हरबाय">
-<!ENTITY errorReporting.tryAgain "फिन नाजा">
 
 <!ENTITY remoteXUL.title "गोजाननि XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।</li></ul></p>">

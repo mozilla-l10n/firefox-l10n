@@ -50,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "हाहोनाय प्लागिनफोर">
 <!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड बाइजोमहर">
 <!ENTITY aboutSupport.appBasicsUserAgent "बाहायग्रा थान्दै">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "मेमरि बाहायनाय">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 

@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "बेनिफ्राय गोजानाव थां!">
 <!ENTITY safeb.palm.decline.label "बे वार्निंखौ नेवसि">
-<!ENTITY safeb.palm.notforgery.label2 "बेयो वेब फर्जारि नंखाय नङा!">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -16,10 +16,8 @@
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
-<!ENTITY safeb.blocked.phishingPage.title "रिपर्ट खालामखानाय वेब नंखाय!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> आव थानाय बे वेब बिलाइखौ मोनसे वेब नंखाय महरै रिपर्ट खालामबाय आरो नोंथांनि रैखाथि पसन्दआव सोनारनानै ब्लक खालामबाय।">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>नोंथाङा फोथायनाय फुंखाखौ नखल खालामनानै निजि एबा राङारि फोरमायथिहोग्रा दिन्थिनानै वेब नंखायखौ नोंथांखौ थगायनो डिजाइन खालामनाय जायो।</p><p>जायखि जाया फोरमायथिहोग्राखौ बे बिलाइआव हाबहोयोब्ला सिखाव एबा गुबुन थगायनायखौ सिनायनो हागौ जानांगौ।</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
