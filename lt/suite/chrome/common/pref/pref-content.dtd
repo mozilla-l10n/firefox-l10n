@@ -13,6 +13,9 @@
 <!ENTITY useFavIcons.accesskey                  "B">
 <!ENTITY enableAutomaticImageResizing.label     "Sumažinti didelių paveikslų dydį, kad tilptų naršyklės lange">
 <!ENTITY enableAutomaticImageResizing.accesskey "m">
+
+
+
 <!ENTITY useSmoothScroll.label                  "Slinkti tolygiai">
 <!ENTITY useSmoothScroll.accesskey              "S">
 <!ENTITY allowHWAccel.label                     "Kai įmanoma, naudoti aparatinį spartinimą">
