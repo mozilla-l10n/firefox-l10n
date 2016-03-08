@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "মোক ইয়াৰ বাহিৰ উলিৱাওক!">
 <!ENTITY safeb.palm.decline.label "এই সকিয়নি আওকাণ কৰক">
-<!ENTITY safeb.palm.notforgery.label2 "এইটো এটা ৱেব জালিয়াতি নহয়…">
 
 
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> ত থকা ৱেব ছাইট এটা আক্ৰমণৰ ছাইট হিচাপে প্ৰতিবেদন কৰা হৈছে আৰু আপোনাৰ সুৰক্ষাৰ পছন্দৰ মতে ৰোধ কৰা হৈছে।">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>আক্ৰমণৰ পৃষ্ঠায় কাৰ্য্যক্ৰম ইনস্টল কৰে যি গোপনীয় তথ্য চোৰ কৰে, অন্যক আক্ৰমণ কৰিবলৈ আপোনাৰ কমপিউটাৰ ব্যৱহাৰ কৰে, বা আপোনাৰ চিস্টেমৰ ক্ষতি কৰে।</p><p>কিছুমান আক্ৰমণৰ পৃষ্ঠায় পৰিকল্পিতভাবে ক্ষতি কৰা চফ্টৱেৰ বিতৰণ কৰে, কিন্তু বেছিৰভাগ পৃষ্ঠা, সিহঁতৰ গৰাকীৰ জ্ঞান বা আজ্ঞা নথকাকে আপোচ কৰা হ'ব পাৰে।</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "সন্দেহযুক্ত ৱেব জালিয়াতি!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "এই পৃষ্ঠাত কোনো ব্যক্তিগত তথ্য সুমুৱালে পৰিচয় চুৰ অথবা অন্য জালিয়াতি হ'ব পাৰে।">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>এই ধৰণৰ ৱেব জালিয়াতি স্কেমত ব্যৱহাৰ হয় যাক ফিছিং এটেক বোলে, য'ত জালি ৱেব পৃষ্ঠা আৰু ইমেইল ব্যৱহাৰ কৰা হয় আপোনাৰ বিশ্বাস থকা উৎসক কপি কৰিবলৈ।</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> ত অপ্ৰয়োজনীয় ছফ্টৱেৰ থকাৰ কথা প্ৰতিবেদন কৰা হৈছে আৰু আপোনাৰ সুৰক্ষাৰ পছন্দৰ ভিত্তিত প্ৰতিৰোধ কৰা হৈছে।">
