@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "अपने मोबाइल वेब ब्राउज़िंग अनुभव वास्तव में अपना खुद का बनाएँ ।">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; में आपका स्वागत है">
+<!ENTITY firstrun_urlbar_subtext "सहायक ख़ोज सुझाव संक्षिप्त-विधि द्वारा चीजो को तेजी से खोजें.">
+<!ENTITY firstrun_bookmarks_title "इतिहास">
+<!ENTITY firstrun_bookmarks_message "आपके मनपसंद, सम्मुख एवं केन्द्रित">
 
-
-
-
-
-
+<!ENTITY firstrun_data_title "डाटा">
+<!ENTITY firstrun_data_message "कम डेटा , अधिक बचत">
 
 <!ENTITY firstrun_sync_title "सिंक">
+<!ENTITY firstrun_sync_message "&brandShortName;, हमेशा आप के साथ">
+<!ENTITY firstrun_sync_subtext "अपने टैब, कूट शब्द, और अधिक को हर जगह संकलित करें.">
 
-
-
-
+<!ENTITY firstrun_signin_button "संकलित करने के लिए साइन इन करें">
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करें">
 <!ENTITY firstrun_button_next "अगला">
 
@@ -71,9 +71,9 @@
 
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "कल">
-
+<!ENTITY history_week_section3 "पिछले 7 दिन">
 <!ENTITY history_this_month_section "इस माह">
-
+<!ENTITY history_older_section3 "6 माह से अधिक पुराना">
 
 <!ENTITY go "जाएँ">
 <!ENTITY search "खोजें">
@@ -107,11 +107,13 @@
 
 <!ENTITY settings "सेटिंग">
 <!ENTITY settings_title "सेटिंग">
-
-
+<!ENTITY pref_category_general "सामान्य">
+<!ENTITY pref_category_general_summary2 "गृह, भाषा, यूआरएल बार">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "भाषा">
 <!ENTITY pref_category_language_summary "अपने ब्राउज़र की भाषा बदलें">
 <!ENTITY pref_browser_locale "ब्राउज़र की भाषा  ">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -148,8 +150,8 @@
 
 <!ENTITY pref_category_search3 "खोजें">
 <!ENTITY pref_category_search_summary "खोज प्रदाता को मनपसंद बनाएँ">
-
-
+<!ENTITY pref_category_accessibility "उपागम्यता">
+<!ENTITY pref_category_accessibility_summary2 "मूलशब्द आकार, ज़ूम, आवाज़ सहयोग">
 <!ENTITY pref_category_privacy_short "गोपनीयता">
 
 
