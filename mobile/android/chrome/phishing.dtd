@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "นำฉันออกไปจากที่นี่!">
 <!ENTITY safeb.palm.decline.label "ไม่สนใจการเตือนนี้">
-<!ENTITY safeb.palm.notforgery.label2 "นี่ไม่ใช่เว็บหลอกลวง…">
 
 
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "หน้าเว็บ <span id='malware_sitename'/> นี้ ถูกรายงานว่าเป็นหน้าเว็บรุกราน และถูกปิดกั้นตามที่ถูกกำหนดในการตั้งค่าความปลอดภัยของคุณ">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>เว็บรุกรานจะพยายามติดตั้งโปรแกรมเพื่อขโมยข้อมูลของคุณ ใช้คอมพิวเตอร์ของคุณเพื่อโจมตีคอมพิวเตอร์ของผู้อื่น หรือทำความเสียหายให้กับระบบของคุณ</p><p>เว็บรุกรานบางที่จงใจแพร่กระจายโปรแกรมอันตราย แต่หลายที่ก็เป็นไปโดยไม่ตั้งใจหรือไม่ได้รับอนุญาตจากเจ้าของเว็บ</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "พบข้อสงสัยว่าจะเป็นเว็บปลอมแปลง!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "การป้อนข้อมูลส่วนตัวให้กับเว็บไซต์นี้ อาจทำให้ถูกขโมยอัตลักษณ์หรือหลอกลวงอื่นได้">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>เว็บปลอมแปลงประเภทนี้จัดเป็นประเภท phishing ซึ่งจะลอกเลียนหน้าตาของเว็บไซต์หรืออีเมลที่คุณอาจหลงเชื่อ</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.unwantedPage.title "รายงานเว็บซอฟต์แวร์ไม่พึงประสงค์แล้ว!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

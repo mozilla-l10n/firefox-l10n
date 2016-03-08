@@ -8,71 +8,16 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "เชื่อมต่อกับ &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "เพิ่มบัญชี &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "เชื่อมโยงอุปกรณ์">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "เปิดใช้งานอุปกรณ์ใหม่ของคุณโดยเลือก “ตั้งค่า &syncBrand.shortName.label;” จากอุปกรณ์นั้น">
-<!ENTITY sync.subtitle.header2.label "กรอกรหัสนี้ในอุปกรณ์อื่นของคุณ">
-<!ENTITY sync.subtitle.connectlocation2.label "เลือก “&sync.title.pair.label;” ในส่วน &syncBrand.shortName.label; ของตัวเลือกใน Firefox บนอุปกรณ์อื่นของคุณ">
 <!ENTITY sync.subtitle.pair.label "เปิดใช้งาน โดยเลือก “เชื่อมโยงอุปกรณ์” จากอุปกรณ์อื่นของคุณ">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "บอกฉันว่าทำอย่างไร">
-<!ENTITY sync.link.advancedsetup.label "ตั้งค่าขั้นสูง...">
 <!ENTITY sync.link.nodevice.label "ฉันไม่มีอุปกรณ์อยู่กับตัว…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "รออุปกรณ์…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "กรอกรายละเอียดบัญชี &syncBrand.fullName.label; ของคุณ">
-<!ENTITY sync.input.username.label "ชื่อบัญชี">
-<!ENTITY sync.input.password.label "รหัสผ่าน">
-<!ENTITY sync.input.key.label "กุญแจกู้ข้อมูล">
-<!ENTITY sync.checkbox.server.label "ใช้เซิร์ฟเวอร์ที่กำหนดเอง">
-<!ENTITY sync.input.server.label "URL ของเซิร์ฟเวอร์">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "ตั้งค่า &syncBrand.shortName.label; ไม่สำเร็จ">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้ คุณต้องการจะลองใหม่หรือไม่?">
-<!ENTITY sync.button.tryagain.label "ลองใหม่">
-<!ENTITY sync.button.manual.label "กำหนดค่าเอง">
-<!ENTITY sync.subtitle.nointernet.label "ไม่พบการเชื่อมต่ออินเทอร์เน็ต">
-<!ENTITY sync.subtitle.failaccount.label "ไม่สามารถสร้างบัญชีผู้ใช้บนอุปกรณ์ของคุณได้">
-<!ENTITY sync.subtitle.failmultiple.label "คุณติดตั้ง Firefox ไว้มากกว่าหนึ่งตัวหรือไม่? ในตอนนี้ &syncBrand.fullName.label; สามารถใช้งานกับ Firefox ได้ทีละตัวเท่านั้น โปรดถอนการติดตั้ง Firefox ตัวอื่นออกเพื่อใช้งาน &syncBrand.shortName.label;">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "ตั้งค่าเสร็จเรียบร้อย">
-<!ENTITY sync.subtitle.success.label1 "ข้อมูลของคุณกำลังถูกดาวน์โหลดอยู่ในเบื้องหลัง คุณสามารถไปที่ การตั้งค่า เพื่อจัดการบัญชีผู้ใช้ของคุณ หรือเริ่มใช้งาน &brandShortName; ได้เลย">
-<!ENTITY sync.settings.label "ตั้งค่า">
-<!ENTITY sync.subtitle.manage.label1 "ตั้งค่าบัญชี &syncBrand.fullName.label; ของคุณเรียบร้อยแล้ว คุณสามารถไปที่เมนูการตั้งค่า เพื่อจัดการบัญชีผู้ใช้ของคุณ หรือเรียกใช้ &brandShortName; ได้เลย">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "โปรดลองอีกครั้ง">
-<!ENTITY sync.pair.connectlocation.label "เปิดใช้งานอุปกรณ์ใหม่ของคุณได้โดยเลือก “ตั้งค่า &syncBrand.shortName.label;” บนอุปกรณ์ แล้วเลือก “ฉันมีบัญชีผู้ใช้อยู่แล้ว”">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "ตัวเลือก">
-<!ENTITY sync.summary.pair.label "เชื่อมโยงอุปกรณ์อื่นกับบัญชี &syncBrand.shortName.label; ของคุณ">
 <!-- Configure Engines -->
-
-<!ENTITY sync.configure.engines.title.label "ข้อมูลที่จะผสาน">
-<!ENTITY sync.configure.engines.sync.my.title.label "ผสานข้อมูล…">
-<!ENTITY sync.configure.engines.title.bookmarks "ที่คั่นหน้า">
-
 <!ENTITY sync.configure.engines.title.history "ประวัติ">
 <!ENTITY sync.configure.engines.title.tabs "ป้าย">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "ยกเลิก">
-<!ENTITY sync.button.connect.label "เชื่อมต่อ">
-<!ENTITY sync.button.ok.label "ตกลง">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (เลิกใช้แล้ว)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +37,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "รายการอ่าน">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "ตรึง">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "สนับสนุนบัญชี &syncBrand.fullName.label; เพียงบัญชีเดียว">
-<!ENTITY sync.notification.configure.saved "บันทึกการเลือกของคุณแล้ว">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "ชื่อบัญชีผู้ใช้หรือรหัสผ่านไม่ถูกต้อง">
-<!ENTITY sync.invalidserver.label "โปรดกรอก URL ตามรูปแบบที่ถูกต้อง">
-<!ENTITY sync.verifying.label "กำลังตรวจสอบ…">
-<!ENTITY sync.new.recoverykey.status.incorrect "กุญแจกู้ข้อมูลไม่ถูกต้อง โปรดลองใหม่">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "ส่งแท็บไปหาอุปกรณ์">
-<!ENTITY sync.button.send.label "ส่ง">
-<!ENTITY sync.button.set.up.sync.label "เชื่อมต่อกับ &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "ตั้งค่าให้ &syncBrand.shortName.label; ส่งแท็บ">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "ตั้งค่าให้ &syncBrand.fullName.label; บนอุปกรณ์ของคุณส่งแท็บไปยังอุปกรณ์อื่น">
 <!ENTITY sync.text.tab.sent.label "ส่งแท็บของคุณแล้ว!">
@@ -123,7 +55,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "อีเมล">
-<!ENTITY fxaccount_password_hint "รหัสผ่าน">
+
 <!ENTITY fxaccount_password_hide "ซ่อน">
 <!ENTITY fxaccount_password_show "แสดง">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +143,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานข้อมูลโดยอัติโนมัติ ให้เลือกเปิดที่ “Auto-sync data” ใน Android Settings &gt; Data Usage">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานข้อมูลอัตโนมัติ ให้เลือกเปิดที่ “Auto-sync data” ในเมนูของ Android Settings &gt; Accounts">
 <!ENTITY fxaccount_status_needs_finish_migrating "แตะเพื่อลงชื่อเข้าใช้บัญชี Firefox ใหม่ของคุณ">
-<!ENTITY fxaccount_status_bookmarks "ที่คั่นหน้า">
+
 <!ENTITY fxaccount_status_history "ประวัติการท่องเว็บ">
 
 <!ENTITY fxaccount_status_tabs "แท็บที่เปิด">
