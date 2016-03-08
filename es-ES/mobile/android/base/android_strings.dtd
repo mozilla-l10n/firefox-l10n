@@ -362,7 +362,7 @@
 <!ENTITY home_most_recent_emptyhint2 "Psst: usar una &formatS1;pestaña privada nueva&formatS2; no guardará su historial.">
 <!ENTITY home_reading_list_empty "Los artículos que guarde para verlos más tarde aparecerán aquí.">
 <!ENTITY home_default_empty "No se ha podido encontrar contenido para este panel.">
-<!ENTITY home_move_up_to_filter "Volver a &formatS;">
+<!ENTITY home_move_back_to_filter "Volver a &formatS;">
 <!ENTITY home_remote_tabs_title "Pestañas sincronizadas">
 <!ENTITY home_remote_tabs_empty "Sus pestañas de otros dispositivos se muestran aquí.">
 <!ENTITY home_remote_tabs_unable_to_connect "No se puede conectar">
