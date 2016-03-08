@@ -130,20 +130,6 @@ ga ciya.</li>
 goo &brandShortName; nda fondo ka huru tataaroo ra.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Zanba nungu šikkari!">
-<!ENTITY malwareBlocked.longDesc "<p>Zanba nungey ka porogaramyaŋ sinji kaŋ ga sutura alhabar zay, i ga war ordinateroo ka boro waaniyaŋ tooɲe, wal'i ma war dabariɲaŋoo hasara.</p> 
-<p>Interneti nungu koyey ga tammahã kaŋ ngey nungoo bayrandi ka tee zanba nungoo dereyan ra <a href='http://www.stopbadware.org/home/reviewinfo' >koroši alhabar hãa</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Goyjinay laala nungu honnandi!">
-<!ENTITY unwantedBlocked.longDesc "<p>Goyjinay laala mooyaŋ ga ceeci ka goyjinay sinji kaŋ ga hin ka tee zanbahaya nd'a ga hin ka war dabariɲaŋoo laybu nda taka kaŋ mana naatandi.</p>">
-
-<!ENTITY phishingBlocked.title "Zanba tataaru šikkari!">
-<!ENTITY phishingBlocked.longDesc "<p>War alhabar suturante damyan moɲoo woo ra ga hin ka too war boŋtaamansaa ma zaytarandi, wal&apos;a ma darga faaba.</p> 
-<p>Darga interneti dumey wey ga bangay zanbarey ra kaŋ š&apos;i ga ne haamari (&quot;phishing&quot;), kaŋ ra interneti moɲey nda batagawey ga war ašsil moo naanayantey ženti.</p>">
-
-<!ENTITY forbiddenBlocked.title "Nungu ganjante">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zumandi zama a n' ka hanse ga woo cine gagay.</p>">
-
 <!ENTITY cspBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Firkawey bangandi ka Mozilla faaba ka dii nungu laaley nda k'i gagay">
 <!ENTITY errorReporting.learnMore "Bay ka tonton…">
-<!ENTITY errorReporting.sending "Goo ma bayrandi sanba">
-<!ENTITY errorReporting.sent "Bayrandi sanbante">
-<!ENTITY errorReporting.tryAgain "Ceeci koyne">
 
 <!ENTITY remoteXUL.title "XUL moora">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungoo koyey se.</li></ul></p>">

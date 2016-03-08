@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "e">
 <!ENTITY shareVideo.label "Widewo woo žemna">
 <!ENTITY shareVideo.accesskey "e">
-<!ENTITY feedsMenu.label "Boŋ-maa hantum">
-<!ENTITY subscribeToPageMenupopup.label "Boŋ-maa hantum moɲoo woo ga">
+
+
 <!ENTITY subscribeToPageMenuitem.label "Boŋ-maa hantum moɲoo woo ga…">
 <!ENTITY addCurPagesCmd.label "Kanjey kul doo-šilbay…">
 <!ENTITY showAllBookmarks2.label "Doo-šilbawey kul cebe">
+
 <!ENTITY unsortedBookmarksCmd.label "Doo-šilbay kaŋyaŋ mana fayandi">
 <!ENTITY bookmarksToolbarChevron.tooltip "Doo-šilbay tontoney cebe">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Ciya…">
 <!ENTITY devtoolsConnect.accesskey    "a">
@@ -407,20 +410,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Faaba šilbayboŋ feeri">
 
 <!ENTITY appMenuRemoteTabs.label "Kanji hangantey">
-<!ENTITY appMenuRemoteTabs.fetching.label "Kanji hangantey kurma…">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Kanji feerante kul šii">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Kanji hangandiyan tunandi ka dii kanjey maašeede jinay taney ga.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Huru Firefox ra war jinay taney ga ka dii war kanjey ne.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ibaayey hangandi">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Huru ka dii kanji maašeede foo war jinay taney ga.">
+
 <!ENTITY appMenuRemoteTabs.signin.label "Huru Sync ra">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Goyjinay zuu tonton">
 <!ENTITY customizeMenu.addToToolbar.accesskey "o">
@@ -527,6 +528,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "k">
 <!ENTITY openFrameCmd.label           "Kunga feeri zanfun taaga ra">
 <!ENTITY openFrameCmd.accesskey       "z">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Kungaa woo de cebe">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -741,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "t">
 
 <!ENTITY editBookmark.done.label                     "Ben">
-<!ENTITY editBookmark.cancel.label                   "Naŋ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ciyari moora">
@@ -775,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Bay ka tonton">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "Alhabar tontoni">
 
 <!ENTITY identity.permissions "Duɲeyaney">
@@ -783,9 +787,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Ceecikaw kanjey">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu3.label     "Kanji hangantey">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -823,7 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Goymee naagu k'a tonton &brandShortName; ga.">
 <!ENTITY social.directory.viewmore.text "Guna ka tonton">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; hanse war boŋse">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Goyjinay nda alhaaliyaŋ tonton">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ga jinay ka tonton?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Suuba tontoni ženberyaŋ ra">
@@ -929,7 +945,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Bay ka tonton DRM ga…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Manti sohõda">
-<!ENTITY emeNotificationsNotNow.accesskey         "n">
-<!ENTITY emeNotificationsDontAskAgain.label       "Ma ši ay hãa koyne">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "M">

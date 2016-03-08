@@ -72,20 +72,6 @@
 <li>Nda war na feršikaa woo cee ka boori, firka ga hin ka tee waati foo wane, nda war ga hin ka ceeci koyne nd'a too kayna.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Zanba nungu šikkari!">
-<!ENTITY malwareBlocked.longDesc "<p>Zanba nungey ka porogaramyaŋ sinji kaŋ ga sutura alhabar zay, i ga war ordinateroo ka boro waaniyaŋ tooɲe, wal'i ma war dabariɲaŋoo hasara.</p> 
-<p>Interneti nungu koyey ga tammahã kaŋ ngey nungoo bayrandi ka tee zanba nungoo dereyan ra <a href='http://www.stopbadware.org/home/reviewinfo' >koroši alhabar hãa</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Goyjinay laala nungu honnandi!">
-<!ENTITY unwantedBlocked.longDesc "<p>Goyjinay laala mooyaŋ ga ceeci ka goyjinay sinji kaŋ ga hin ka tee zanbahaya nd'a ga hin ka war dabariɲaŋoo laybu nda taka kaŋ mana naatandi.</p>">
-
-<!ENTITY phishingBlocked.title "Zanba Interneti doo šikkari!">
-<!ENTITY phishingBlocked.longDesc "<p>War alhabar suturante damyan moɲoo woo ra ga hin ka too war boŋtammaasaa ma zaytarandi, wal&apos;a ma zanbantey faaba.</p> 
-<p>Zanba tataaru dumey wey ga bangay zanbarey ra kaŋ š&apos;i ga ne haamari (&quot;phishing&quot;), kaŋ ra tataaru moɲey nda batagawey ga war ašsil moo naanayantey ženti.</p>">
-
-<!ENTITY forbiddenBlocked.title "Nungu ganjante">
-<!ENTITY forbiddenBlocked.longDesc "<p> Ceecikaa ganji moɲoo woo ma zunbu zama a n' ka hanse ka woo cine gagay.</p>">
-
 <!ENTITY securityOverride.linkText "Wala war ga hin ka hasaraw foo tonton...">
 <!ENTITY securityOverride.warningContent "<p>War ši hima ha hasaraw tonton nda war ga ciya Interneti ra kaŋ war ši naanay y'a ka timme wala war mana doona ka dii yaamar feršikaa woo se.</p> 
 <p>Nda war ga baa ka hasaraw tonton nungoo woo se hala sohõ, war ga hin k'a tee tuguyan koyjineyante kayandiyaney ra.</p>">

@@ -75,9 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
-<!ENTITY key_reload_devtools "R">
 
 <!ENTITY projectPanel_myProjects "Ay porožewey">
 <!ENTITY projectPanel_runtimeApps "Dirandi waati porogaram-izey">
@@ -199,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Nda jinay tana na war hãa nda tammaasa QR ašariya biibereyan doo ra, wa hinnaa kaŋ goo jinay faa din cire berandi:">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Soolu-waate juwal zaaritiirawey">
