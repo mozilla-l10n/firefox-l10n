@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Tapit disoc\u0027hoù adalek ho sinedoù hag ho roll istor pa glaskit.">
 <!ENTITY firstrun_data_title "Roadennoù">
 <!ENTITY firstrun_data_message "Nebeutoc\u0027h a roadennoù, muioc\u0027h a espernoù.">
-<!ENTITY firstrun_data_subtext "Stankañ ar skeudennoù evit dispign nebeutoc\u0027h a roadennoù war kement lec\u0027hienn gweladennet ganeoc\u0027h.">
+
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, atav ganeoc\u0027h">
 <!ENTITY firstrun_sync_subtext "Goubredit hoc\u0027h ivinelloù, ho kerioù-tremen, ha muioc\u0027h c\u0027hoazh e kement lec\u0027h mar arverit anezhañ.">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Atav">
 <!ENTITY pref_tap_to_load_images_data "Dre Wi-Fi nemetken">
 <!ENTITY pref_tap_to_load_images_disabled2 "Stanket">
+
 
 <!ENTITY pref_tracking_protection_title "Gwarez heuliañ">
 <!ENTITY pref_tracking_protection_summary3 "Gweredekaet er merdeiñ prevez">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Merdeiñ gant ar skramm a-bezh">
 <!ENTITY pref_scroll_title_bar_summary2 "Kuzhat barrenn ostilhoù &brandShortName; pa zibuner a-hed ur bajennad">
 
-<!ENTITY pref_tab_queue_title2 "Digeriñ meur a ereoù">
-<!ENTITY pref_tab_queue_summary3 "Enrollit anezho betek ar wech a zeu ma vo digoret &brandShortName; ganeoc\u0027h">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "N\u0027eus ket bet kavet endalc\u0027had evit ar penel-mañ.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Distreiñ betek &formatS;">
 
 <!ENTITY home_remote_tabs_title "Ivinelloù goubredet">
 <!ENTITY home_remote_tabs_empty "Skrammet e vez ar sinedoù eus trevnadoù all amañ.">
@@ -648,8 +646,6 @@ diouzh Android">
 
 <!ENTITY suggestion_for_engine "Klask &formatS1; evit &formatS2;">
 
-<!ENTITY webapp_generic_name "Arload">
-
 <!ENTITY searchable_description "Sinedoù ha roll istor">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ diouzh Android">
 <!ENTITY remote_tabs_last_synced "Goubredañ diwezhañ : &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Goubredañ diwezhañ : morse">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "N\u0027haller ket digeriñ an ere">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ diouzh Android">
 
 <!ENTITY unsupported_sdk_version "Digarezit ! N\u0027aio ket &brandShortName; en-dro war an trevnad-mañ (&formatS1;, &formatS2;). Pellgargit an handelv a-zere mar plij.">
 
-<!ENTITY eol_notification_title "N\u0027eo ket skoret Android 3 gant &brandShortName; ken">
 <!ENTITY eol_notification_summary "Stokit da c\u0027houzout hiroc\u0027h">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+

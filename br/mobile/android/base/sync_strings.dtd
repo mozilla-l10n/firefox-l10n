@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Kennaskañ ouzh &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Ouzhpennañ ur c\u0027hont &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Koublañ un trevnad">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Evit gweredekaat ho trevnad nevez, diuzit ”&syncBrand.shortName.label;” war an trevnad.">
-<!ENTITY sync.subtitle.header2.label "Enankit ar rineg-mañ war ho trevnad all">
-<!ENTITY sync.subtitle.connectlocation2.label "Diuzañ “&sync.title.pair.label;” e kevrenn &syncBrand.shortName.label; eus dibarzhioù ho trevnad Firefox all.">
 <!ENTITY sync.subtitle.pair.label "Da weredekaat, diuzit “Koublañ un trevnad” war ho trevnad all.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Diskouez din penaos ober.">
-<!ENTITY sync.link.advancedsetup.label "Kefluniañ kempleshoc\u0027h…">
 <!ENTITY sync.link.nodevice.label "N\u0027emañ ket an trevnad ganin…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "O c\u0027hortoz an trevnad all…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Enankit titouroù ho kont  &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Anv kont">
-<!ENTITY sync.input.password.label "Ger-tremen">
-<!ENTITY sync.input.key.label "Alc\u0027hwez atoriñ">
-<!ENTITY sync.checkbox.server.label "Arverañ un dafariad personelaet">
-<!ENTITY sync.input.server.label "URL an dafariad">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "N\u0027haller ket kefluniañ  &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "N\u0027eo ket bet gouest &syncBrand.fullName.label; da gennaskañ ouzh an dafariad. Ha klask en-dro a fellfe deoc\u0027h ?">
-<!ENTITY sync.button.tryagain.label "Klask en-dro">
-<!ENTITY sync.button.manual.label "Kefluniañ dre zorn">
-<!ENTITY sync.subtitle.nointernet.label "N\u0027eus kennask hegerz ebet ouzh internet.">
-<!ENTITY sync.subtitle.failaccount.label "C\u0027hwitadenn war grouiñ ho kont war ho trevnad.">
-<!ENTITY sync.subtitle.failmultiple.label "Meur a Firefox hoc\u0027h eus staliet ? Evit poent e vez skoret ur staliadenn eus Firefox hepken gant &syncBrand.fullName.label; Mar plij, distailhit an erioloù all da arverañ  &syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Echu eo ar c\u0027hefluniadur">
-<!ENTITY sync.subtitle.success.label1 "Ho roadennoù zo o vezañ pellgarget. Betek Arventennoù e c\u0027hallit mont da ardeiñ ho kont pe gregiñ gant ar merdeiñ gant &brandShortName;.">
-<!ENTITY sync.settings.label "Arventennoù">
-<!ENTITY sync.subtitle.manage.label1 "Kefluniet eo bet ho kont evit  &syncBrand.fullName.label;. Betek Arventennoù e c\u0027hallit mont da ardeiñ ho kont pe lañsañ &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Mar plij, klaskit en-dro.">
-<!ENTITY sync.pair.connectlocation.label "Da weredekaat ho trevnad nevez, diuzit ”Kefluniañ &syncBrand.shortName.label;” war an trevnad ha neuze diuzit ”Ur gont am eus.”">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Dibarzhioù">
-<!ENTITY sync.summary.pair.label "Eren un trevnad nevez ouzh ho kont evit &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Petra goubredañ ?">
-<!ENTITY sync.configure.engines.sync.my.title.label "Goubredañ ho…">
-<!ENTITY sync.configure.engines.title.bookmarks "Sinedoù">
 <!ENTITY sync.configure.engines.title.passwords2 "Titouroù kennaskañ">
 <!ENTITY sync.configure.engines.title.history "Roll istor">
 <!ENTITY sync.configure.engines.title.tabs "Ivinelloù">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Nullañ">
-<!ENTITY sync.button.connect.label "Kennaskañ">
-<!ENTITY sync.button.ok.label "Mat eo">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (diamzeret)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Roll al lennadurioù">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Spilhennet">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Skoret e vez ur gont hepken evit  &syncBrand.fullName.label;.">
-<!ENTITY sync.notification.configure.saved "Enrollet eo bet ho tiuzad.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Anv kont pe ger-tremen dizereat.">
-<!ENTITY sync.invalidserver.label "Roit un URL dafariad talvoudek, mar plij">
-<!ENTITY sync.verifying.label "O wiriañ…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Direizh eo an alc\u0027hwez atoriñ. Klaskit en-dro, mar plij.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Kas un ivinell da drevnadoù all">
-<!ENTITY sync.button.send.label "Kas">
-<!ENTITY sync.button.set.up.sync.label "Kefluniañ &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Kefluniañ &syncBrand.shortName.label; da gas ivinelloù">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Kefluniañ &syncBrand.fullName.label; war ho trevnad da gas ivinelloù da drevnadoù all.">
 <!ENTITY sync.text.tab.sent.label "Kaset eo bet hoc\u0027h ivinell !">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Postel">
-<!ENTITY fxaccount_password_hint "Ger-tremen">
+
 <!ENTITY fxaccount_password_hide "Kuzhat">
 <!ENTITY fxaccount_password_show "Diskouez">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Kefluniet eo &syncBrand.shortName.label;, ne c\u0027houbred ket ent emgefreek avat. Trec\u0027haolit an arventenn ”Goubredañ ar roadennoù emgefreek” e Arventennoù Android &gt; Arver ar roadennoù.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Kefluniet eo &syncBrand.shortName.label;, ne c\u0027houbred ket ent emgefreek avat. Trec\u0027haolit an arventenn ”Goubredañ ar roadennoù emgefreek” e Arventennoù Android &gt; Arver ar roadennoù.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Stokit evit kennaskañ d\u0027ho Kont Firefox nevez.">
-<!ENTITY fxaccount_status_bookmarks "Sinedoù">
+
 <!ENTITY fxaccount_status_history "Roll istor">
 <!ENTITY fxaccount_status_passwords2 "Titouroù kennaskañ">
 <!ENTITY fxaccount_status_tabs "Digeriñ ivinelloù">
