@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Kub i &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Med Akaunti me &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Ket Jami tic aryo ayo">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Me miyo Jami tic megi manyen, “Yer &syncBrand.shortName.label;” ikum jami tic.">
-<!ENTITY sync.subtitle.header2.label "Ket nyig coc man ikom jami me tic mukene">
-<!ENTITY sync.subtitle.connectlocation2.label "Yer “&sync.title.pair.label;” ki i but &syncBrand.shortName.label; pa gin ayera me Firefox pa nyonyo ni mukene ni.">
 <!ENTITY sync.subtitle.pair.label "Me miyo tic, yer “Ket jami tic aryo aryo” ikom jami tic megi mapat.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Nyuta yore mene.">
-<!ENTITY sync.link.advancedsetup.label "Ter me rwom ma lamal…">
 <!ENTITY sync.link.nodevice.label "Pe atye ki nyonyo ne bota…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Tye ka kuro jami tic mukene…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Ket ngec pa akaunti megi i &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Nying akaunti">
-<!ENTITY sync.input.password.label "Mung me donyo">
-<!ENTITY sync.input.key.label "Lagony mega me Nongo">
-<!ENTITY sync.checkbox.server.label "Tii ki cik pa lapok tic">
-<!ENTITY sync.input.server.label "Lapok tic me URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Ter &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; pe onongo romo kube ki lapok tic. I mito temo ne doki?">
-<!ENTITY sync.button.tryagain.label "Tem doki">
-<!ENTITY sync.button.manual.label "Tera me cing">
-<!ENTITY sync.subtitle.nointernet.label "Intanet pe okube.">
-<!ENTITY sync.subtitle.failaccount.label "Keto Akaunti ni ikom jami tic mamegi pe olare.">
-<!ENTITY sync.subtitle.failmultiple.label "Onyo iketo Firefox makato acel oko? Ikom kare ni, &syncBrand.fullName.label; cwako ka keto Firefox acel keken icawa mo ni. Tim ber ikwany woko gin mukene w ek ti ki &syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Tero Otyeko">
-<!ENTITY sync.subtitle.success.label1 "Kombedi gutye ka kwanyo woko tic mamegi I cal maneno mabor. I romo wot i tero wek iloo teko pa akaunti mamegi, onyo cak yenyo kwede &brandShortName;.">
-<!ENTITY sync.settings.label "Tero">
-<!ENTITY sync.subtitle.manage.label1 "Kityeko dong tero woko akaunti mamegi me &syncBrand.fullName.label; I twero wot itero wek I loo teko pa akaunti mamegi, onyo cak &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Tim ber item doki.">
-<!ENTITY sync.pair.connectlocation.label "Pi miyo jami tic mamegi manyen, yer,\u0027\u0027Tero &syncBrand.shortName.label;” I kom jami tic, ci dong I yer “Atye ki Akaunti”">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Me ayera">
-<!ENTITY sync.summary.pair.label "Kub jami tic mukene i akaunti me &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Ngo me atima marom">
-<!ENTITY sync.configure.engines.sync.my.title.label "Tim marom…">
-<!ENTITY sync.configure.engines.title.bookmarks "Alama buk">
 <!ENTITY sync.configure.engines.title.passwords2 "Dony iyie">
 <!ENTITY sync.configure.engines.title.history "Gin mukato">
 <!ENTITY sync.configure.engines.title.tabs "Dirica matino">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Jwik">
-<!ENTITY sync.button.connect.label "Kub">
-<!ENTITY sync.button.ok.label "Kakare">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (konye odugu nok woko)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Nying jami me kwan">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Kimwono">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Kicwako ka akaunti pa &syncBrand.fullName.label; acel keken.">
-<!ENTITY sync.notification.configure.saved "Kigwoko yer mamegi.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Nying akaunt ki mung mape tye kakare.">
-<!ENTITY sync.invalidserver.label "Tim ber iket lapok tic me URL matiyo">
-<!ENTITY sync.verifying.label "Moko…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Lagony me Sync pe tye kakare. Tim ber item doki.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Cwal Dirica matidi Bot Jami tic">
-<!ENTITY sync.button.send.label "Cwali">
-<!ENTITY sync.button.set.up.sync.label "Ter &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Kub &syncBrand.shortName.label; pi cwalo dirica matidi">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Kub &syncBrand.fullName.label; ikom jami tic mamegi w ek icwal dirica matidi ikom jamitic mukene">
 <!ENTITY sync.text.tab.sent.label "Otyeko dong cwalo dirica ni matidi!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Email">
-<!ENTITY fxaccount_password_hint "Mung me donyo">
+
 <!ENTITY fxaccount_password_hide "Kan">
 <!ENTITY fxaccount_password_show "Nyuti">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; dong kitero, ento pe timo marom pire kene. Lok “Auto-sync data” i Ter me Android &gt; Tic ki data.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; dong kitero, ento pe timo marom pire kene. Lok “Auto-sync data” i jami ayera me Ter me Android &gt; Akaunt.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Gudi me donyo iyie akaunt ni manyen me Firefox.">
-<!ENTITY fxaccount_status_bookmarks "Alamabuk">
+
 <!ENTITY fxaccount_status_history "Gin mukato">
 <!ENTITY fxaccount_status_passwords2 "Dony iyie">
 <!ENTITY fxaccount_status_tabs "Yab dirica matino">

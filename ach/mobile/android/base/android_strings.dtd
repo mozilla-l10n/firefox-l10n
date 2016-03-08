@@ -224,6 +224,7 @@
 
 
 
+
 <!ENTITY pref_tracking_protection_title "Gwokke ikom lubo kor">
 <!ENTITY pref_tracking_protection_summary3 "Kicako i yeny me mung">
 <!ENTITY pref_donottrack_title "Pe i lub kor">
@@ -457,8 +458,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Yeny me wang kio ma opong">
 
 
-<!ENTITY pref_tab_queue_title2 "Yab kakube mapol">
-<!ENTITY pref_tab_queue_summary3 "Gwok gi naka wa inino ma lacen ma iyabo &brandShortName;">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -533,10 +533,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Pe tye gin mo ma kinongo pi dirica man.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Paka wa i &formatS;">
 
 <!ENTITY home_remote_tabs_title "Ditija matidi me Synced">
 <!ENTITY home_remote_tabs_empty "Dirica matino ni ki i nyonyo mukene nyute kany.">
@@ -633,8 +631,6 @@ ki Android">
 
 <!ENTITY suggestion_for_engine "Yeny &formatS1; pi &formatS2;">
 
-<!ENTITY webapp_generic_name "Purugram">
-
 <!ENTITY searchable_description "Alama buk ki lok mukato angec">
 <!-- Updater notifications --> 
 
@@ -699,11 +695,6 @@ ki Android">
 <!ENTITY remote_tabs_last_synced "Kitimo marom me agiki i: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Kitimo marom me agiki i: pe matwal">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Pe twero yabo kakube">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -757,4 +748,7 @@ ki Android">
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
 
