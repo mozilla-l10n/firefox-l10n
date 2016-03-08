@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Paginile de atac încearcă să instaleze programe care fură informații private, îți folosesc calculatorul pentru a ataca altele sau pentru a-i produce pagube.</p><p>Unele pagini de atac distribuie intenționat programe rău intenționate, dar unele sunt compromise fără știrea sau permisiunea proprietarului lor.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Această pagină de la <span id='phishing_sitename'/> a fost raportată ca fiind un site înșelător și a fost blocată pe baza preferințelor de securitate.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "Site cu programe nedorite raportat!">
