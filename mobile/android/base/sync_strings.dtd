@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Conectar a &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Agregar una cuenta de &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Sincronizar un dispositivo">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Para activar tu nuevo dispositivo, selecciona \&quot;Configurar &syncBrand.shortName.label;\&quot; en el dispositivo.">
-<!ENTITY sync.subtitle.header2.label "Ingresa este código en tu otro dispositivo">
-<!ENTITY sync.subtitle.connectlocation2.label "Selecciona “&sync.title.pair.label;” en la sección &syncBrand.shortName.label; de tu otro dispositivo en las opciones de Firefox.">
 <!ENTITY sync.subtitle.pair.label "Para activarlo, selecciona “Emparejar un dispositivo” en tu otro dispositivo.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Muéstrame cómo.">
-<!ENTITY sync.link.advancedsetup.label "Configuración avanzada…">
 <!ENTITY sync.link.nodevice.label "No tengo el dispositivo conmigo…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Esperando al otro dispositivo…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Ingresa la información de tu cuenta de &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Nombre de la cuenta">
-<!ENTITY sync.input.password.label "Contraseña">
-<!ENTITY sync.input.key.label "Clave de recuperación">
-<!ENTITY sync.checkbox.server.label "Usar un servidor personalizado">
-<!ENTITY sync.input.server.label "URL del servidor">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "No se puede configurar &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; no puede conectarse al servidor. ¿Te gustaría intentarlo de nuevo?">
-<!ENTITY sync.button.tryagain.label "Intentar de nuevo">
-<!ENTITY sync.button.manual.label "Configuración manual">
-<!ENTITY sync.subtitle.nointernet.label "No hay disponible una conexión a internet.">
-<!ENTITY sync.subtitle.failaccount.label "La creación de cuenta en tu dispositivo ha fallado.">
-<!ENTITY sync.subtitle.failmultiple.label "¿Tienes más de un Firefox instalado? Actualmente &syncBrand.fullName.label; sólo admite una instalación de Firefox a la vez. Por favor, desinstala las otras instancias para usar &syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Configuración completa">
-<!ENTITY sync.subtitle.success.label1 "Tus datos están ahora siendo descargados en segundo plano. Puedes ir a la configuración para administrar tu cuenta o empezar a navegar con &brandShortName;.">
-<!ENTITY sync.settings.label "Ajustes">
-<!ENTITY sync.subtitle.manage.label1 "Tu cuenta de &syncBrand.fullName.label; ya está configurada. Puedes ir a los Ajustes para administrar tu cuenta o abrir &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Por favor, intenta de nuevo.">
-<!ENTITY sync.pair.connectlocation.label "Para activar tu nuevo dispositivo, selecciona “Configurar &syncBrand.shortName.label;“ en el dispositivo, y selecciona “Tengo una cuenta“.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Opciones">
-<!ENTITY sync.summary.pair.label "Enlace otro dispositivo a tu cuenta de &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Qué sincronizar">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar tus…">
-<!ENTITY sync.configure.engines.title.bookmarks "Marcadores">
 <!ENTITY sync.configure.engines.title.passwords2 "Inicios de sesión">
 <!ENTITY sync.configure.engines.title.history "Historial">
 <!ENTITY sync.configure.engines.title.tabs "Pestañas">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Cancelar">
-<!ENTITY sync.button.connect.label "Conectar">
-<!ENTITY sync.button.ok.label "Aceptar">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (desaprobado)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Lista de lectura">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Fijado">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Sólo una cuenta de &syncBrand.fullName.label; es soportada.">
-<!ENTITY sync.notification.configure.saved "Tus selecciones se han guardado.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Nombre de usuario o contraseña incorrecta.">
-<!ENTITY sync.invalidserver.label "Por favor, ingresa una dirección válida para el servidor">
-<!ENTITY sync.verifying.label "Verificando…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Clave de recuperación incorrecta. Por favor, intenta nuevamente.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Enviar pestañas a los dispositivos">
-<!ENTITY sync.button.send.label "Enviar">
-<!ENTITY sync.button.set.up.sync.label "Configurar &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar &syncBrand.shortName.label; para enviar pestañas">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; en tu dispositivo para enviar pestañas a otros dispositivos.">
 <!ENTITY sync.text.tab.sent.label "¡Tu pestaña ha sido enviada!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Correo electrónico">
-<!ENTITY fxaccount_password_hint "Contraseña">
+
 <!ENTITY fxaccount_password_hide "Ocultar">
 <!ENTITY fxaccount_password_show "Mostrar">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; está configurado, pero no está sincronizado automáticamente. Marca \&quot;sincronizar datos automáticamente\&quot; en la configuración de Android &gt; Uso de datos.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; está configurado, pero no está sincronizado automáticamente. Marca “Sincronizar datos automáticamente” en la configuración de Android &gt; Uso de datos.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Presiona para ingresar a tu nueva cuenta de Firefox.">
-<!ENTITY fxaccount_status_bookmarks "Marcadores">
+
 <!ENTITY fxaccount_status_history "Historial">
 <!ENTITY fxaccount_status_passwords2 "Inicios de sesión">
 <!ENTITY fxaccount_status_tabs "Pestañas abiertas">
