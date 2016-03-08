@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "v">
 <!ENTITY retentionKeepRecent.label "paskiausius">
 <!ENTITY retentionKeepRecent.accesskey "p">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "visada šalinti skaitytus laiškus (nepaisant jų amžiaus)">
 <!ENTITY retentionApplyToFlagged.label "visada palikti žvaigždute pažymėtus laiškus">
 <!ENTITY retentionApplyToFlagged.accesskey "ž">
 
