@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey;
      tabs.context.bookmarkSingleTab.accesskey, tabs.context.bookmarkMultipleTabs.accesskey):
      Only one of each of these pairs will show at a time (based on selection), so reusing accesskey is ok. -->
-<!ENTITY tabs.context.openTab.label                   "開啟這個分頁">
+<!ENTITY tabs.context.openTab.label                   "開啟此分頁">
 <!ENTITY tabs.context.openTab.accesskey               "O">
 <!ENTITY tabs.context.openMultipleTabs.label          "開啟選擇的分頁">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "O">
@@ -18,6 +18,6 @@
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "將選擇的分頁加入書籤…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
-<!ENTITY tabs.context.refreshList.label               "重新整理列表">
+<!ENTITY tabs.context.refreshList.label               "重新整理清單">
 <!ENTITY tabs.context.refreshList.accesskey           "R">
 

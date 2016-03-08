@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepRecent.label "最新的">
 <!ENTITY retentionKeepRecent.accesskey "n">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "總是刪除已讀郵件(無視信件時間設定)">
 <!ENTITY retentionApplyToFlagged.label "永遠保留被標示的訊息">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
