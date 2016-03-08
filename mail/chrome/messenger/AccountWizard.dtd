@@ -11,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Za prejemanje sporočil morate najprej odpreti račun za pošto ali novičarsko skupino">
 <!ENTITY accountTypeTitle.label "Nastavitev novega računa">
-<!ENTITY accountTypeDesc2.label "Ta čarovnik bo zbiral podatke, ki jih potrebuje za odprtje računa za pošto ali novičarsko skupino Če zahtevanih podatkov ne veste, se obrnite na skrbnika sistema ali ponudnika internetnih storitev.">
+<!ENTITY accountTypeDesc2.label "Ta čarovnik bo zbiral podatke, ki jih potrebuje za odprtje računa za pošto ali novičarsko skupino. Če zahtevanih podatkov ne veste, se obrnite na skrbnika sistema ali ponudnika internetnih storitev.">
 <!ENTITY accountTypeDirections.label "Izberite vrsto računa, ki ga želite odpreti:">
 <!ENTITY accountTypeMail.label "Račun za e-pošto">
 <!ENTITY accountTypeMail.accesskey "e">
