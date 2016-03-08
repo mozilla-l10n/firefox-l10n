@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Yaltin am ɗoo!">
 <!ENTITY safeb.palm.decline.label "Faalkiso ngoo reentino">
-<!ENTITY safeb.palm.notforgery.label2 "Ɗum wonaa maawol geese…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -17,10 +17,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Ngoo hello geese to <span id='unwanted_sitename'/> jaŋtaama ko hello njangu etee daaƴaama tugnaade e cuɓoraaɗe kisal maa.">
 
 
-<!ENTITY safeb.blocked.phishingPage.title "Jaŋtaama ko Maawol Geese!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Ngoo hello geese to <span id='phishing_sitename'/> jaŋtaama ko maawol geese etee daaƴaama tugnaade e cuɓoraaɗe kisal maa.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Maawe geese mbaɗiraa ko tuufaade-ma ngam njaynaa humpito maa heeriingo walla koppore huutoraade ƴembagol cewle ɗe kooli-ɗaa.</p><p>Naatnude humpito maa keeriiɗo e ngoo hello ena waawi wuftude e nguyka innitol walla jamfe goɗɗe.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
