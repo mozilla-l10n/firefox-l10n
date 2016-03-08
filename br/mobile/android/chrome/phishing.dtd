@@ -12,8 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Marilhet eo bet ar bajenn-mañ e <span id='malware_sitename'/> evel ur bajenn dagus ha harzet eo bet gant ho kwellvezioù diogelroez.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Ar pajennoù tagus a glask staliañ goulevioù da laerezh titouroù personel, da arverañ hoc'h urzhiataer evit tagañ urzhiataerioù all pe da vekaat ho reizhiad.</p> <p> Ul lod eus ar pajennoù-tagus-mañ a zasparzh meziantoù pistrius koulskoude ez eo diefedus un darn vras anezho hep gouiziegezh pe aotre o ferc'hennerion.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Lec'hienn dagus!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Marilhet eo bet ar bajenn-mañ e <span id='phishing_sitename'/> evel ur bajenn dagus ha harzet eo bet gant ho kwellvezioù diogelroez.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Savet eo al lec'hiennoù tagus evit touellañ ac'hanoc'h hag ober traoù dañjerus, staliañ meziantoù pe lenn ho roadennoù personel (gerioù-tremen, niverennoù pellgomz, kartennoù kred, hag all)</p><p>Gallout a rafec'h bezañ tizhet gant ul laeroñsi pivelezh pe kudennoù all ma roit titouroù d'ar bajenn-mañ.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Danevelliñ al lec'hienn meziantoù dic'hoantaet !">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

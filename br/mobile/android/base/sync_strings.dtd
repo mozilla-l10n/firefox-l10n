@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Postel">
-
+<!ENTITY fxaccount_password_hint "Ger-tremen">
 <!ENTITY fxaccount_password_hide "Kuzhat">
 <!ENTITY fxaccount_password_show "Diskouez">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Kefluniet eo &syncBrand.shortName.label;, ne c\u0027houbred ket ent emgefreek avat. Trec\u0027haolit an arventenn ”Goubredañ ar roadennoù emgefreek” e Arventennoù Android &gt; Arver ar roadennoù.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Kefluniet eo &syncBrand.shortName.label;, ne c\u0027houbred ket ent emgefreek avat. Trec\u0027haolit an arventenn ”Goubredañ ar roadennoù emgefreek” e Arventennoù Android &gt; Arver ar roadennoù.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Stokit evit kennaskañ d\u0027ho Kont Firefox nevez.">
-
+<!ENTITY fxaccount_status_bookmarks "Sinedoù">
 <!ENTITY fxaccount_status_history "Roll istor">
 <!ENTITY fxaccount_status_passwords2 "Titouroù kennaskañ">
 <!ENTITY fxaccount_status_tabs "Digeriñ ivinelloù">
