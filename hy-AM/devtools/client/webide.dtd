@@ -75,8 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "Իմ նախագծերը">
 <!ENTITY projectPanel_runtimeApps "Աշխատաժամանակի հավելվածներ">
@@ -198,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Եթե ձեր մյուս սարքը հարցնում է նշան՝ QR կոդը սկանավորելու փոխարեն, ապա պարզապես պատճենեք հետևյալ արժեքը այլ սարքում.">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Հրամանի մատյանների նախափաթեթավորում">
