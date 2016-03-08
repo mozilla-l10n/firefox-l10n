@@ -72,18 +72,6 @@
 <li>Kama umefanikiwa kuungana kwa sava hapo awali, kosa laweza kuwa la muda tu, na unaweza jaribu tena baadaye.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Tovuti inayoshukiwa kuwa Shambulizi!">
-<!ENTITY malwareBlocked.longDesc "<p>Tovuti shambulizi hujaribu kusakinsha programu ambazo zinaiba maelezo ya kibinafsi, tumia kompyuta yako kushambulia zingine, au kudhuru mfumo wako.</p> 
-<p>Wamiliki wa wavuti wanaoamini tovuti zao zimeripotiwa kama wavuti shambulizi kimakosa wanaweza <a href='http://www.stopbadware.org/home/reviewinfo' >omba ukaguzi</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Ughushi wa Wavuti unashukiwa!">
-<!ENTITY phishingBlocked.longDesc "<p>Kuingiza maelezo yoyote ya kibinafsi kwenye ukurasa huu waweza kusababisha wizi au udanganyifu wa aina nyingine.</p> 
-<p>Aina hizi za ughushi hutumiwa katika taka zinazojulikana kama utapeli data shambulizi, ambapo kurasa za udanganyifu za wavuti na barua pepe hutumiwa kuiga chanzo ambacho waweza kuamini.</p>">
-
-
-
 
 
 <!ENTITY cspBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">

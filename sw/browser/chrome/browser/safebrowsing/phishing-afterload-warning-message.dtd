@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Niondoe hapa!">
 <!ENTITY safeb.palm.decline.label "Puuza onyo hili">
-<!ENTITY safeb.palm.notforgery.label2 "Huu sio ughushi wa wavuti…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -16,10 +16,8 @@
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
-<!ENTITY safeb.blocked.phishingPage.title "Imeripotiwa kuwa Ughushi wa wavuti!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Kwenye ukurasa huu kwa <span id='phishing_sitename'/> imeripotiwa kuwa ughushi wa wavuti na umezuiliwa ikizingatia mapendeleo yako ya usalama.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Ughushi wa wavuti umeundwa kukudanganya kuonyesha wazi maelezo yako ya kibinafsi au ya kifedha kwa kuiga chanzo unachoamini.</p><p>Kuingiza maelezo yoyote kwenye ukurasa wavuti huu utapelekea wizi au udanganyifu wa aina nyingine.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

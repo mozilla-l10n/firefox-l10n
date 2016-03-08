@@ -127,18 +127,6 @@ yako.</li>
 kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Inashukiwa kuwa Wavuti Shambulizi!">
-<!ENTITY malwareBlocked.longDesc "<p>Vamia wavuti ili kujaribu kusakinisha programu ambazo zinaiba maelezo ya ufaragha, tumia kompyuta yako kuvamia nyingine, au kuharibu mfumo wako.</p> 
-<p>Wamiliki wa wavuti ambao wanaamini wavuti wao umeripotiwa kama wavuti vamizi katika kosa wanaweza <a href='http://www.stopbadware.org/home/reviewinfo' >omba ukaguzi</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Inashukiwa kuwa Wavuti Ughushi!">
-<!ENTITY phishingBlocked.longDesc "<p>Kuinigiza maelezo yoyote ya kibinafsi kwenye ukurasa huu kwaweza kusababisha wizi wa utambulishi au aina nyingine za udanganyifu.</p> 
-<p>Aina hizi za ughushi wa wavuti zinatumiwa katika uvamizi wa utapeli data, amabapo kurasa za wavuti danganyifu na barua pepe zinatumiwa kuiga chanzo unachoweza kuamimi.</p>">
-
-
-
 <!ENTITY cspBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; imzuia ukurasa huu kupakiwa kwa njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo haiiruhusu.</p>">
 
@@ -159,9 +147,6 @@ functionality specific to firefox. -->
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
-
-
-
 
 
 

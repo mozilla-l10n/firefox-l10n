@@ -157,10 +157,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY subscribeToPageMenupopup.label "Jiunge na Ukurasa Huu">
+
 <!ENTITY subscribeToPageMenuitem.label "Jisajili katika Ukurasa Huu…">
 <!ENTITY addCurPagesCmd.label "Alamisha Vichupo Vyote…">
 <!ENTITY showAllBookmarks2.label "Onyesha Alamisho Zote">
+
 <!ENTITY unsortedBookmarksCmd.label "Alamisho Zisizopangwa">
 <!ENTITY bookmarksToolbarChevron.tooltip "Onyesha alamisho zaidi">
 
@@ -242,6 +243,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Unganisha...">
 <!ENTITY devtoolsConnect.accesskey    "n">
@@ -404,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
@@ -491,6 +495,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "K">
 <!ENTITY openFrameCmd.label           "Fungua Fremu kwa Dirisha Mpya">
 <!ENTITY openFrameCmd.accesskey       "M">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Onyesha Fremu Hii Pekee">
 <!ENTITY showOnlyThisFrameCmd.accesskey "O">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -704,7 +710,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "O">
 
 <!ENTITY editBookmark.done.label                     "Imekamilika">
-<!ENTITY editBookmark.cancel.label                   "Katiza">
 
 
 
@@ -733,13 +738,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY identity.permissions "Ruhusa">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Kivinjari vichupo">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Ulandanishi">
 
@@ -768,7 +788,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.label "Jifunze zaidi…">
 <!ENTITY social.learnMore.accesskey "J">
 <!ENTITY social.closeNotificationItem.label "Sio Sasa">
-
 
 
 
@@ -869,7 +888,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY emeNotificationsDontAskAgain.label       "Usiniulize tena">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "U">
