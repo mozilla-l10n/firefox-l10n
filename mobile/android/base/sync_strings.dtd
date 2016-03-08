@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Prisijungimas prie „&syncBrand.shortName.label;“">
-<!ENTITY sync.title.adddevice.label "„&syncBrand.fullName.label;“ paskyros pridėjimas">
-<!ENTITY sync.title.pair.label "Įrenginio suporavimas">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Norėdami įjungti sinchronizavimą kitame įrenginyje, jame pasirinkite „Konfigūruoti sinchronizavimą“.">
-<!ENTITY sync.subtitle.header2.label "Įveskite kitame įrenginyje šį kodą">
-<!ENTITY sync.subtitle.connectlocation2.label "Kitame įrenginyje veikiančios „Firefox“ nuostatų skyrelyje „Sinchronizavimas“ pasirinkite punktą „&sync.title.pair.label;“.">
 <!ENTITY sync.subtitle.pair.label "Norėdami įjungti sinchronizavimą, kitame įrenginyje pasirinkite „Suporuoti įrenginį“.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Parodyti instrukciją.">
-<!ENTITY sync.link.advancedsetup.label "Papildomos nuostatos…">
 <!ENTITY sync.link.nodevice.label "Įrenginio su savimi neturiu…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Laukiama kito įrenginio…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Įveskite savo „&syncBrand.fullName.label;“ paskyros duomenis">
-<!ENTITY sync.input.username.label "Abonento vardas">
-<!ENTITY sync.input.password.label "Slaptažodis">
-<!ENTITY sync.input.key.label "Atkūrimo raktas">
-<!ENTITY sync.checkbox.server.label "Naudoti kitą serverį">
-<!ENTITY sync.input.server.label "Serverio universalusis adresas">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Sinchronizavimo sukonfigūruoti nepavyko">
-<!ENTITY sync.subtitle.fail.label "Nepavyko susisiekti su „&syncBrand.fullName.label;“ serveriu. Ar pabandyti dar kartą?">
-<!ENTITY sync.button.tryagain.label "Bandyti vėl">
-<!ENTITY sync.button.manual.label "Rankinis konfigūravimas">
-<!ENTITY sync.subtitle.nointernet.label "Nėra ryšio su internetu.">
-<!ENTITY sync.subtitle.failaccount.label "Paskyros sukurti jūsų įrenginyje nepavyko.">
-<!ENTITY sync.subtitle.failmultiple.label "Ar turite daugiau įdiegtų „Firefox“ kopijų? Kol kas „&syncBrand.fullName.label;“ palaiko tik vieną „Firefox“ kopiją įrenginyje. Norėdami naudotis „&syncBrand.shortName.label;“, turite pašalinti kitas kopijas.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Konfigūravimas baigtas">
-<!ENTITY sync.subtitle.success.label1 "Jūsų duomenys parsiunčiami fonine veiksena. Galite tvarkyti šią paskyrą nuostatose arba pradėti naršymą su „&brandShortName;“.">
-<!ENTITY sync.settings.label "Nuostatos">
-<!ENTITY sync.subtitle.manage.label1 "Jūsų „&syncBrand.fullName.label;“ paskyra jau sukonfigūruota. Galite tvarkyti šią paskyrą nuostatose arba paleisti „&brandShortName;“.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Pabandyti dar kartą.">
-<!ENTITY sync.pair.connectlocation.label "Norėdami įjungti sinchronizavimą kitame įrenginyje, jame pasirinkite „Konfigūruoti „&syncBrand.shortName.label;““, o tada „Jau turiu paskyrą“.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Parinktys">
-<!ENTITY sync.summary.pair.label "Su „&syncBrand.shortName.label;“ paskyra susieti kitą įrenginį">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Ką sinchronizuoti">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sinchronizuoti jūsų…">
-<!ENTITY sync.configure.engines.title.bookmarks "Adresyną">
 <!ENTITY sync.configure.engines.title.passwords2 "Prisijungimai">
 <!ENTITY sync.configure.engines.title.history "Žurnalą">
 <!ENTITY sync.configure.engines.title.tabs "Korteles">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Atsisakyti">
-<!ENTITY sync.button.connect.label "Jungtis">
-<!ENTITY sync.button.ok.label "Gerai">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "„&syncBrand.fullName.label;“ (pasenusi)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Skaitinių sąrašas">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Įsegtos svetainės">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Galima naudotis tik viena &syncBrand.fullName.label;“ paskyra.">
-<!ENTITY sync.notification.configure.saved "Jūsų parinktys įrašytos.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Netinkamas paskyros vardas arba slaptažodis.">
-<!ENTITY sync.invalidserver.label "Įveskite tinkamą serverio URL">
-<!ENTITY sync.verifying.label "Tikrinama…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Atkūrimo raktas neteisingas. Bandykite dar kartą.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Nusiųsti kortelę į įrenginį">
-<!ENTITY sync.button.send.label "Nusiųsti">
-<!ENTITY sync.button.set.up.sync.label "Konfigūruoti „&syncBrand.shortName.label;“">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Sukonfigūruokite „&syncBrand.shortName.label;“, kad galėtumėte siųsti korteles">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Kad galėtumete į kitus įrenginius siųsti korteles, turite šiame įrenginyje sukonfigūruoti „&syncBrand.fullName.label;“.">
 <!ENTITY sync.text.tab.sent.label "Kortelė nusiųsta!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "El. pašto adresas">
-<!ENTITY fxaccount_password_hint "Slaptažodis">
+
 <!ENTITY fxaccount_password_hide "Nerodyti">
 <!ENTITY fxaccount_password_show "Rodyti">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Duomenų naudojimas“ („Data Usage“).">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Paskyros“ („Accounts“).">
 <!ENTITY fxaccount_status_needs_finish_migrating "Bakstelėkite, norėdami prisijungti prie savo naujosios „Firefox“ paskyros.">
-<!ENTITY fxaccount_status_bookmarks "Adresynas">
+
 <!ENTITY fxaccount_status_history "Žurnalas">
 <!ENTITY fxaccount_status_passwords2 "Prisijungimai">
 <!ENTITY fxaccount_status_tabs "Atvertos kortelės">
