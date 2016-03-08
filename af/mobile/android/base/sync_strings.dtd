@@ -7,58 +7,13 @@
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
-
-
-<!ENTITY sync.title.pair.label "Assosieer ’n toestel">
 <!-- J-PAKE Key Screen -->
 
 
 
-
-
-<!ENTITY sync.link.show.label "Wys my hoe.">
-
-
-<!-- J-PAKE Waiting Screen -->
-<!-- Account Login Screen -->
-<!ENTITY sync.input.username.label "Rekeningnaam">
-
-
-
-
-<!-- Setup Fail -->
-
-<!ENTITY sync.button.tryagain.label "Probeer weer">
-
-
-
-
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Opstelling afgehandel">
-
-<!ENTITY sync.settings.label "Instellings">
-
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Probeer gerus weer.">
-
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Opsies">
-
 <!-- Configure Engines -->
 
 
-
-
-
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Kanselleer">
-<!ENTITY sync.button.connect.label "Koppel">
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -75,16 +30,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Mobiele boekmerke">
 
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!-- Notification strings -->
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidserver.label "Tik \u0027n geldige bediener-URL in">
-<!ENTITY sync.verifying.label "Verifieer tans…">
-
 <!-- Send tab to device. -->
-<!ENTITY sync.button.send.label "Stuur">
-
-
 
 
 
