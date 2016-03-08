@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Beni buradan kurtar!">
 <!ENTITY safeb.palm.decline.label "Bu uyarıyı yok say">
-<!ENTITY safeb.palm.notforgery.label2 "Bu bir sahtecilik değil…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.reportPage.label "Bu sayfa neden engellendi?">
 <!ENTITY safeb.palm.whyForbidden.label "Bu sayfa neden engellendi?">
 
@@ -18,10 +18,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> konumundaki web sayfasının istenmeyen yazılım içerdiği bildirildi ve güvenlik tercihlerinize dayanılarak sayfa engellendi.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>İstenmeyen yazılım sayfaları, yanıltıcı olabilecek ve sisteminizi beklenmedik şekilde etkileyebilecek yazılımlar yüklemeye çalışır.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Sahtekâr olarak bildirilmiş site!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> konumundaki sayfanın sahtecilik amaçlı olduğu ihbar edilmiştir. Sayfa, güvenlik tercihlerinize dayanılarak engellendi.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web sahtecilikleri, güvenebileceğiniz kaynakları taklit ederek sizden kişisel veya mali bilgilerinizi çalmak amacıyla tasarlanır.</p><p>Bu sayfaya herhangi bir bilgi girmeniz, kimlik hırsızlığı veya başka bir dolandırıcılıkla sonuçlanabilir.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Engellenmiş site">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
