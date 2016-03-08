@@ -130,20 +130,6 @@ pa ruk'amab'ey ri asamajib'al.</li>
 chi ri &brandShortName; ya'on q'ij chi re chi nok pa k'amaya'l.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "¡Re ruxaq k'amaya'l re' k'ayew rik'in!">
-<!ENTITY malwareBlocked.longDesc "<p>Ri eleq'oma' taq ruxaq k'amaya'l nikitojtob'ej nikiyäk jun kema', ri nitikïr nreleq'aj awetamab'al, nrokisaj re asamajib'al richin nritzelaj ch'aqa' chi winaqi' chuqa' ri aq'inoj. </p> 
-<p>Ri kajaw taq ruxaq k'amaya'l, ri nikina'ojij chi xya' ketal chi e itzel taq ruxaq k'amaya'l tikirel <a href='http://www.stopbadware.org/home/reviewinfo'>nikik'utuj chi kenik'öx</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "¡Ruxaq k'amaya'l ya'on rutzijol chi k'o itzel kema' chupam!">
-<!ENTITY unwantedBlocked.longDesc "<p>Itzel taq ruxaq kema', ri nrajo' nuyäk q'olonel taq kema' chuqa' chanin nritzelaj ri aq'inoj.</p>">
-
-<!ENTITY phishingBlocked.title "¡Ruxaq K'amaya'l ya'on rutzijol chi rik'in jub'a' q'olonel!">
-<!ENTITY phishingBlocked.longDesc "<p>Natz'ib'aj xa b'a achike awetamab'al pa re ruxaq re' tikirel nupo' pa jun eläq' chi etamab'äl o chuqa' jun chik chi q'oloj.</p> 
-<p>Re ruwäch chi q'olonel chi ruxaq k'amaya'l ye'okisäx pa q'oloj achi'el toq yesamäj ri pixin, chupam re' ri taq q'olonel taq ruxaq k'amaya'l chuqa' taq taqoya'l ye'okisäx richin  nikoxk'ob'ej taq ruxe' ri ütz yerutz'ët.</p>">
-
-<!ENTITY forbiddenBlocked.title "Xajan taq ruxaq k'amaya'l">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; man xuya' taq q'ij chi xok re ruxaq k'amaya'l re', ruma xnuk'ub'ëx richin nuq'ät.</p>">
-
 <!ENTITY cspBlocked.title "Q'aton ruma ri runa'ojil ruchajixik rupam">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xok pa re rub'eyal re' ruma chi ri ruxaq k'amaya'l ruchajin jun runa'ojil ruchajinik rupam, ri man nuya' ta q'ij.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Taya' kitzijol k'ayewal achi'el re ruwäch re' richin nato' ri Mozilla chi nuya' ketal chuqa' yeruq'ät itzel taq ruxaq k'amaya'l.">
 <!ENTITY errorReporting.learnMore "Tetamäx ch'aqa' chik…">
-<!ENTITY errorReporting.sending "Tajin nitaq ri rutzijol">
-<!ENTITY errorReporting.sent "Taqon rutzijol">
-<!ENTITY errorReporting.tryAgain "Titojtob'ëx jumul chik">
 
 <!ENTITY remoteXUL.title "Näj XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, ke'atz'ib'aj el chi ke ri rajaw ri ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li></ul></p>">

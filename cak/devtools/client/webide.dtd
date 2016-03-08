@@ -75,8 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "Taq nunimasamaj">
 <!ENTITY projectPanel_runtimeApps "Ruq'ijul b'anatajnïk kichin taq chokoy">
@@ -198,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "We ri awokisaxel nuk'utuj jun token pa ruk'exel nuch'öb' jun QR b'itz'ib', tawachib'ej ri retal pa xulan pa ri jun chik awokisaxel:">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Taq kitz'ib'axik taq k'utuxïk chuwäch yepis">

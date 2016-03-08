@@ -79,3 +79,5 @@
 <!ENTITY aboutTelemetry.filterText "  Tichayüx (taq cholaj o /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Rupam">
+
+<!ENTITY aboutTelemetry.rawPayload "Kutam taq tzij ütz rutzijik">

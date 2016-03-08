@@ -101,6 +101,10 @@
 
 <!ENTITY performanceUI.showPlatformData             "Tik'ut pe ri Gecko Runuk'uche'el taq Tzij">
 <!ENTITY performanceUI.showPlatformData.tooltiptext "Toq nik'ut ri taq rutzij ri nuk'uche'el nuya' q'ij chi ri JavaScript Profiler tuya' rutzijol toq nutz'aqatisaj qa Gecko runuk'che'l tz'ib'.">
+<!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
+  -  is displayed next to a checkbox determining whether or not JIT optimization data
+  -  should be displayed. -->
+
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
@@ -125,14 +129,6 @@
 
 <!ENTITY performanceUI.enableFramerate             "Ranin rusilowachib'alil yakoj">
 <!ENTITY performanceUI.enableFramerate.tooltiptext "Ranin ri rusilowachib'alil yakoj toq ninik'öx.">
-<!-- LOCALIZATION NOTE (performanceUI.enableJITOptimizations): This string
-  -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be recorded. -->
-
-<!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
-  -  is displayed as the title of the JIT Optimizations panel. -->
-
-<!ENTITY performanceUI.JITOptimizationsTitle "JIT taq utzilanïk">
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->

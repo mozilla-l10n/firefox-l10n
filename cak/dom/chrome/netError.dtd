@@ -72,20 +72,6 @@
 <li>We at jikïl chi atokinäq chik ütz pa re ruk'u'x samaj re', ri sachoj xa xe jun ti mej, ruma ri' tikirel natojtob'ej pa jun chik ch'uti ramaj.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "¡Re ruxaq k'amaya'l re' k'ayew rik'in!">
-<!ENTITY malwareBlocked.longDesc "<p>Ri eleq'oma' taq ruxaq k'amaya'l nikitojtob'ej nikiyäk jun kema', ri nitikïr nreleq'aj awetamab'al, nrokisaj re asamajib'al richin nritzelaj ch'aqa' chi winaqi' chuqa' ri aq'inoj. </p> 
-<p>Ri kajaw taq ruxaq k'amaya'l, ri nikina'ojij chi xya' ketal chi e itzel taq ruxaq k'amaya'l tikirel <a href='http://www.stopbadware.org/home/reviewinfo'>nikik'utuj chi kenik'öx</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "¡Ruxaq k'amaya'l ya'on rutzijol chi k'o itzel kema' chupam!">
-<!ENTITY unwantedBlocked.longDesc "<p>Itzel taq ruxaq kema' nkajo' nikiyäk q'olonel taq kema' chuqa' wakami chanin nritzelaj ri aq'inoj.</p>">
-
-<!ENTITY phishingBlocked.title "¡Ruxaq K'amaya'l ya'on rutzijol chi q'olonel!">
-<!ENTITY phishingBlocked.longDesc "<p>Natz'ib'aj xa b'a achike awetamab'al pa re ruxaq re' tikirel nupo' pa jun eläq' chi etamab'äl o chuqa' jun chik chi q'oloj.</p> 
-<p>Re ruwäch chi q'olonel chi ruxaq k'amaya'l ye'okisäx pa q'oloj achi'el toq yesamäj ri pixin, chupam re' ri taq q'olonel taq ruxaq k'amaya'l chuqa' taq taqoya'l ye'okisäx richin nikoxk'ob'ej taq ruxe' ri ütz yerutz'ët.</p>">
-
-<!ENTITY forbiddenBlocked.title "Xajan taq ruxaq k'amaya'l">
-<!ENTITY forbiddenBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xsamajib'ëx re ruxaq k'amaya'l re', ruma chi nuk'un richin niq'at.</p>">
-
 <!ENTITY securityOverride.linkText "Tikirel chuqa' natz'aqatisaj jun man relik ta…">
 <!ENTITY securityOverride.warningContent "<p>Manta natz'aqatisaj jun man relik ta, we tajin nawokisaj jun okem pa k'amaya'l, ri man kuqul ta ak'u'x rik'in o akuchi' man ruk'ulun ta chawe natz'ët rutzijol k'ayewal pa re ruk'u'x samaj re'.</p>
 <p>We k'a nawajo' natz'aqatisaj jun man relik ta richin re ruxaq k'amaya'l re', yatikïr nab'än pa runuk'ulem q'axinäq man etaman ta</p>">

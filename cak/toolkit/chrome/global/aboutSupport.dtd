@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Tzijon taq pluyin">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Runuk'ulem Molïk">
 <!ENTITY aboutSupport.appBasicsUserAgent "Rub'anel ri winäq">
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Rokisaxik rupam rujolom">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
