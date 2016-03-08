@@ -130,20 +130,6 @@ ris an lìonra.</li>
 dèan cinnteach gu bheil cead aig &brandShortName; ceangal ris an lìon.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Amharas gur e làrach ionnsaighe a tha seo!">
-<!ENTITY malwareBlocked.longDesc "<p>Feuchaidh làraichean ionnsaighe ri prògraman a stàladh a ghoideas fiosrachadh prìobhaideach ort, a chleachdas an coimpiutair agad gus ionnsaigh a thoirt air feadhainn eile no gus cron a chur air an inneal agad.</p> 
-<p>Ma tha cuideigin sa bheachd gun deach aithris a dhèanamh air an làrach aca mar làrach ionnsaighe air mhearachd, 's urrainn dhaibh <a href='http://www.stopbadware.org/home/reviewinfo' >ath-bhreitheanas iarraidh</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Làrach a sgaoileas bathar-bog gun iarrtas!">
-<!ENTITY unwantedBlocked.longDesc "<p>Feuchaidh duilleagan mar seo bathar-bog a stàladh air am bi coltas foilleil agus a mì-ghnàthaicheas an siostam agam air dòighean nach iarradh tu.</p>">
-
-<!ENTITY phishingBlocked.title "Amharas gur e fallsaicheachd-lìn a tha seo!">
-<!ENTITY phishingBlocked.longDesc "<p>Dh&apos;fhaodadh goid do dhearbh-aithne no foill eile èirigh dhut ma bheir thu seachad fiosrachadh pearsanta sam bith air an duilleag seo</p> 
-<p>Thèid an seòrsa seo de dh&apos;fhallsaidheachd-lìn a chleachdadh ann an cam-ghnothach air a bheil&quot;fiasgach&quot; far a bheil duilleagan-lìn is puist-dhealain a&apos; gabhail orra gu bheil iad nan tùsan earbsach.</p>">
-
-<!ENTITY forbiddenBlocked.title "Làrach thoirmisgte">
-<!ENTITY forbiddenBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo a-rèir mar a chaidh a rèiteachadh.</p>">
-
 <!ENTITY cspBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
 <!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn 's gu bheil poileasaidh tèarainteachd susbainte ann nach eil 'ga cheadachadh.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Nach cuir thu aithisg mu mhearachdan d’ a leithid dha Mozilla ach an urrainn dhuinn làraichean droch-rùnach mar seo a bhacadh?">
 <!ENTITY errorReporting.learnMore "Barrachd fiosrachaidh…">
-<!ENTITY errorReporting.sending "A' cur na h-aithisge">
-<!ENTITY errorReporting.sent "Chaidh an aithisg a chur">
-<!ENTITY errorReporting.tryAgain "Feuch ris a-rithist">
 
 <!ENTITY remoteXUL.title "XUL cèin">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Cuir fios gu seilbheadairean na làraich mun duilgheadas seo.</li></ul></p>">
