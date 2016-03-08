@@ -13,6 +13,9 @@
 <!ENTITY useFavIcons.accesskey                  "A">
 <!ENTITY enableAutomaticImageResizing.label     "自動縮放圖片以符合瀏覽器視窗大小">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
+<!ENTITY scrolling.label                        "捲動">
+<!ENTITY useAutoScroll.label                    "使用自動捲動">
+<!ENTITY useAutoScroll.accesskey                "t">
 <!ENTITY useSmoothScroll.label                  "使用平滑捲動">
 <!ENTITY useSmoothScroll.accesskey              "U">
 <!ENTITY allowHWAccel.label                     "可用時開啟硬體加速">
