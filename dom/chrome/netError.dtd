@@ -119,18 +119,6 @@ nikare bidomîne.</p>">
 <li>Bi mîhengên pêşkeftî ên nasnavkirinê tu dikarî lîsteya rast a pêşkêşkaran bibînî û biguherînî.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Malpera Êrîşkar a Gumanbar!">
-<!ENTITY malwareBlocked.longDesc "<p>Malperên êrîşkar dikin ku li ser komputera te bnernameyan saz bikin û li ser komputera te êrîşî komputerên din bikin.</p> 
-<p>Xwediyên malperên ku malperên wan wekî malperên êrîşkar hatine raporkirin dikarin serî li <a href='http://www.stopbadware.org/home/reviewinfo' >bidin</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Malpera Sextekariyê ya Gumanbar!">
-<!ENTITY phishingBlocked.longDesc "<p>Dibe ku agahiyên bikevî vê malperê bibin sedema dizîna agahiyên te yên takekesî.</p> 
-<p>Ev cure malperên sextekar xwe wekî ewle nîşan didin lê êrîşên nepen dikin.</p>">
-
-
-
 
 
 <!ENTITY cspBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
