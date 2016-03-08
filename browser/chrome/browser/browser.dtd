@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "s">
 <!ENTITY shareVideo.label "Partilhar este vídeo">
 <!ENTITY shareVideo.accesskey "s">
-<!ENTITY feedsMenu.label "Subscrever">
-<!ENTITY subscribeToPageMenupopup.label "Subscrever esta página">
+
+
 <!ENTITY subscribeToPageMenuitem.label "Subscrever esta página…">
 <!ENTITY addCurPagesCmd.label "Criar marcadores para todos os separadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos os marcadores">
+
 <!ENTITY unsortedBookmarksCmd.label "Marcadores desorganizados">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Ligar…">
 <!ENTITY devtoolsConnect.accesskey    "g">
@@ -407,20 +410,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Abrir menu de ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Separadores sincronizados">
-<!ENTITY appMenuRemoteTabs.fetching.label "A obter os separadores sincronizados…">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Nenhum separador aberto">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ative a sincronização de separadores para ver uma lista de separadores a partir de outros dispositivos.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Inicie a sessão no Firefox a partir de outros dispositivos para ver aqui os seus separadores.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferências do Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Inicie sessão para ver a lista de separadores em outros dispositivos.">
+
 <!ENTITY appMenuRemoteTabs.signin.label "Iniciar sessão no Sync">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Adicionar à barra de ferramentas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -527,6 +528,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY openFrameCmd.label           "Abrir frame em nova janela">
 <!ENTITY openFrameCmd.accesskey       "j">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -741,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "OK">
-<!ENTITY editBookmark.cancel.label                   "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ligação segura">
@@ -775,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Saber mais">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "Mais informação">
 
 <!ENTITY identity.permissions "Permissões">
@@ -783,9 +787,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Separadores do navegador">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu3.label     "Separadores sincronizados">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -823,7 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Clique num serviço para o adicionar ao &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Ver mais">
 
-<!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Ferramentas e funcionalidades adicionais">
 <!ENTITY customizeMode.menuAndToolbars.empty "Quer mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha-as nos extras">
@@ -929,7 +945,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Saber mais sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Agora não">
-<!ENTITY emeNotificationsNotNow.accesskey         "n">
-<!ENTITY emeNotificationsDontAskAgain.label       "Não voltar a perguntar">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "l">

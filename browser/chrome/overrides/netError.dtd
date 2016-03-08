@@ -130,20 +130,6 @@ computador está ligado à Internet.</li>
 proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspeita de site de ataque!">
-<!ENTITY malwareBlocked.longDesc "<p>Os sites de ataque tentam instalar programas que roubam informações pessoais, usam o seu computador para atacar outros ou causar danos ao seu sistema.</p> 
-<p>Os detentores de websites que acreditam que os seus sites foram reportados erradamente podem <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Suspeita de site de software indesejado!">
-<!ENTITY unwantedBlocked.longDesc "<p>As páginas de software não solicitado tentam instalar software que pode ser decetivo e afetar o seu sistema de formas inesperadas.</p>">
-
-<!ENTITY phishingBlocked.title "Suspeita de wngodo!">
-<!ENTITY phishingBlocked.longDesc "<p>A introdução de qualquer informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo de fraude.</p> 
-<p>Este tipo de fraudes web são utilizadas em esquemas conhecidos como ataques phising, em que as páginas web e mensagens fraudulentas são utilizadas para replicar fontes fiáveis.</p>">
-
-<!ENTITY forbiddenBlocked.title "Site proibido">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; impediu o carregamento desta página porque está configurado para a bloquear.</p>">
-
 <!ENTITY cspBlocked.title "Bloqueada pela Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu o carregamento desta página desta forma porque a página tem uma política de segurança de conteúdo que não o permite.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Comunique erros como este para ajudar a Mozilla a identificar e bloquear sites maliciosos">
 <!ENTITY errorReporting.learnMore "Saber mais…">
-<!ENTITY errorReporting.sending "A enviar relatório">
-<!ENTITY errorReporting.sent "Relatório enviado">
-<!ENTITY errorReporting.tryAgain "Voltar a tentar">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os responsáveis do website para os informar sobre este problema.</li></ul></p>">
