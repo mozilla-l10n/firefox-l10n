@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Leita líka í bókamerkjunumog ferlinum þínum þegar þú framkvæmir leit.">
 <!ENTITY firstrun_data_title "Gögn">
 <!ENTITY firstrun_data_message "Minna um gögn, meiri niðurhals sparnaður ">
-<!ENTITY firstrun_data_subtext "Ekki hlaða myndir til að spara gagnamagn.">
+
 <!ENTITY firstrun_sync_title "Samstilla">
 <!ENTITY firstrun_sync_message "&brandShortName;, sífellt hjá þér">
 <!ENTITY firstrun_sync_subtext "Samstilltu flipana þína, lykilorð og annað alls staðar.">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Alltaf">
 <!ENTITY pref_tap_to_load_images_data "Eingöngu á Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Lokað">
+
 
 <!ENTITY pref_tracking_protection_title "Vörn gegn því að fylgst sé með þér">
 <!ENTITY pref_tracking_protection_summary3 "Virkt í huliðsvöfrun">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Vafra í fullum skjá">
 <!ENTITY pref_scroll_title_bar_summary2 "Fela &brandShortName; titilstöng þegar skrunað er niður síðu">
 
-<!ENTITY pref_tab_queue_title2 "Opna marga hlekki">
-<!ENTITY pref_tab_queue_summary3 "Vista þar til þú opnar aftur &brandShortName;">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Ekki fannst neitt efni fyrir þetta spjald.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Færa upp að &formatS;">
 
 <!ENTITY home_remote_tabs_title "Samstilltir flipar">
 <!ENTITY home_remote_tabs_empty "Fliparnir þínir sem eru opnir á öðrum tækjum sjást hér.">
@@ -648,8 +646,6 @@ frá Android">
 
 <!ENTITY suggestion_for_engine "Leita á &formatS1; að &formatS2;">
 
-<!ENTITY webapp_generic_name "Smáforrit">
-
 <!ENTITY searchable_description "Bókarmerki og ferill">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ frá Android">
 <!ENTITY remote_tabs_last_synced "Síðasta samstilling: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Síðasta samstilling: aldrei">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Get ekki opnað vísun">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ frá Android">
 
 <!ENTITY unsupported_sdk_version "Því miður þá virkar &brandShortName; ekki á þessu tæki (&formatS1;, &formatS2;). Vinsamlega hala niður réttri útgáfu.">
 
-<!ENTITY eol_notification_title "&brandShortName; styður ekki lengur Android 3">
 <!ENTITY eol_notification_summary "Snertu til að fræðast nánar">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
