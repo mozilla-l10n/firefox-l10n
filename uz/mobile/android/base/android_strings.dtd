@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Qidirayotganingizda xatcho‘plar va tarixdan natijalarni olishingiz mumkin.">
 <!ENTITY firstrun_data_title "Ma’lumot">
 <!ENTITY firstrun_data_message "Kamroq ma’lumotlar, ko‘proq saqlash">
-<!ENTITY firstrun_data_subtext "Har bir saytga kirganda traffikni tejash uchun rasmlarni bloklashingiz mumkin.">
+
 <!ENTITY firstrun_sync_title "Sinxronlash">
 <!ENTITY firstrun_sync_message "&brandShortName;, doimo siz tomonda">
 <!ENTITY firstrun_sync_subtext "Ichki oyna, parol va boshqa kerakli xususiyatlarni hamma joyda foydalanish uchun sinxronlashingiz mumkin.">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_enabled "Doimo">
 <!ENTITY pref_tap_to_load_images_data "Faqat Wi-Fi orqali">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloklandi">
+
 
 <!ENTITY pref_tracking_protection_title "Kuzatishdan himoyalanish">
 <!ENTITY pref_tracking_protection_summary3 "Maxfiy ko‘rish rejimi yoqib qo‘yildi">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Butun ekranda ko‘rish">
 <!ENTITY pref_scroll_title_bar_summary2 "Sahifa pastga o‘tayotganda &brandShortName;ning sarlavha paneli yashirilsin">
 
-<!ENTITY pref_tab_queue_title2 "Bir nechta havolalarni ochish">
-<!ENTITY pref_tab_queue_summary3 "Keyingi safar &brandShortName; ochilgunga qadar ular saqlansin">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +547,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Ushbu panel uchun birorta ham kontent topilmadi.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Tepaga &formatS;">
 
 <!ENTITY home_remote_tabs_title "Sinxronlangan ichki oynalar">
 <!ENTITY home_remote_tabs_empty "Boshqa qurilmalaringizdagi ichki oynalar bu yerda ko‘rinadi.">
@@ -648,8 +646,6 @@ import qilinmoqda">
 
 <!ENTITY suggestion_for_engine "Izlash &formatS1; (&formatS2; uchun)">
 
-<!ENTITY webapp_generic_name "Ilova dastur">
-
 <!ENTITY searchable_description "Xatcho‘plar va tarix">
 <!-- Updater notifications --> 
 
@@ -717,11 +713,6 @@ import qilinmoqda">
 <!ENTITY remote_tabs_last_synced "So‘nggi sinxronlash: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "So‘nggi marta sinxornlangan: hech qachon">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Havola ochilmadi">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +770,7 @@ import qilinmoqda">
 
 <!ENTITY unsupported_sdk_version "Kechirasiz! &brandShortName; brauzerining ayni shu versiyasi ushbu qurilmada (&formatS1;, &formatS2;) ishlamaydi. Boshqa versiyasini yuklab oling.">
 
-<!ENTITY eol_notification_title "&brandShortName; endi Android 3 tizimida ishlamaydi">
 <!ENTITY eol_notification_summary "Batafsil ma’lumot olish uchun bosing">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+

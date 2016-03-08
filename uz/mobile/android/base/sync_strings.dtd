@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sinxronlash">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label;ga ulanish">
-<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; hisobini qo‘shish">
-<!ENTITY sync.title.pair.label "Qurilmani ulash">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Yangi qurilmangizni faollashtirish uchun boshqa qurilmangizdagi “&syncBrand.shortName.label;ni moslash”ni tanlang.">
-<!ENTITY sync.subtitle.header2.label "Ushbu maxfiy raqamlarni boshqa qurilmangizga kiriting">
-<!ENTITY sync.subtitle.connectlocation2.label "“&sync.title.pair.label;”ni boshqa qurilmangizdagi Firefox sozlamalaridagi &syncBrand.shortName.label; qismidan tanlang.">
 <!ENTITY sync.subtitle.pair.label "Faollashtirish uchun boshqa qurilmangizdagi \&quot;Qurilmani ulash\&quot;ni tanlang.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Qanday qilishi menga ko‘rsatilsin.">
-<!ENTITY sync.link.advancedsetup.label "Qo‘shimcha moslash...">
 <!ENTITY sync.link.nodevice.label "O‘zim bilan birga qurilma yo‘q...">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Boshqa qurilma kutilmoqda...">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "&syncBrand.fullName.label; hisobingiz ma’lumotlarini kiriting">
-<!ENTITY sync.input.username.label "Hisob nomi">
-<!ENTITY sync.input.password.label "Parol">
-<!ENTITY sync.input.key.label "Tiklash kaliti">
-<!ENTITY sync.checkbox.server.label "Boshqa serverdan foydalaning">
-<!ENTITY sync.input.server.label "Server URL manzili">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "&syncBrand.shortName.label;ni moslab bo‘lmadi">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; serverga ulana olmadi. Yana urinib ko‘rishni xohlaysizmi?">
-<!ENTITY sync.button.tryagain.label "Yana urinib ko‘ring">
-<!ENTITY sync.button.manual.label "Qo‘lbola moslash">
-<!ENTITY sync.subtitle.nointernet.label "Internetga ulanishlar mavjud emas.">
-<!ENTITY sync.subtitle.failaccount.label "Qurilmangiz uchun hisob yaratib bo‘lmadi.">
-<!ENTITY sync.subtitle.failmultiple.label "Bir nechta Firefox o‘rnatilganmi? Hozircha, &syncBrand.fullName.label; bir vaqtda bir Firefoxni o‘rnatishga ruxsat beradi. &syncBrand.shortName.label;dan foydalanish uchun boshqalarini o‘chiring.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Moslash tugadi">
-<!ENTITY sync.subtitle.success.label1 "Ma’lumotlaringiz orqa fonda yuklab olinadi. Hisobingizni boshqarish yoki &brandShortName;ni bilan internetni ko‘rishni boshlash uchun \&quot;Sozlamalar\&quot;ga kirishingiz mumkin.">
-<!ENTITY sync.settings.label "Sozlamalar">
-<!ENTITY sync.subtitle.manage.label1 "&syncBrand.fullName.label; hisobingiz allaqachon moslangan. Hisobingizni boshqarish yoki &brandShortName;ni ishga tushirish uchun \&quot;Sozlamalar\&quot;ga kirishingiz mumkin.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Yana urinib ko‘ring">
-<!ENTITY sync.pair.connectlocation.label "Yangi qurilmangizni faollashtirish uchun avval qurilmangizdan “&syncBrand.shortName.label;ni moslash”ni, so‘ngra “Mening hisobim bor.”ni tanlang.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Parametrlar">
-<!ENTITY sync.summary.pair.label "Boshqa qurilmani &syncBrand.shortName.label; hisobingizga bog‘lang">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Sinxronlanadiganlar:">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sinxronlash...">
-<!ENTITY sync.configure.engines.title.bookmarks "Xatcho‘plar">
 <!ENTITY sync.configure.engines.title.passwords2 "Kirishlar">
 <!ENTITY sync.configure.engines.title.history "Tarix">
 <!ENTITY sync.configure.engines.title.tabs "Ichki oynalar">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Bekor qilish">
-<!ENTITY sync.button.connect.label "Ulanish">
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (tavsiya qilinmaydi)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "O‘qilganlar ro‘yxati">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Qistirildi">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Faqat bitta &syncBrand.fullName.label; hisobi qo‘llab-quvvatlanadi.">
-<!ENTITY sync.notification.configure.saved "Tanlaganlaringiz saqlandi.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Hisob nomi yoki parol noto‘g‘ri.">
-<!ENTITY sync.invalidserver.label "Ishlaydigan server URL manzilini kiriting">
-<!ENTITY sync.verifying.label "Tekshirilmoqda...">
-<!ENTITY sync.new.recoverykey.status.incorrect "Noto‘g‘ri tiklash kaliti. Keyinroq urinib ko‘ring.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Qurilmalarga ichki oynalarni jo‘natish">
-<!ENTITY sync.button.send.label "Jo‘natish">
-<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label;ni moslash">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Ichki oynalarni jo‘natish uchun &syncBrand.shortName.label;ni moslang">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Qurilmangizdagi ma’lumotlarni boshqa qurilmalarga jo‘natish uchun &syncBrand.fullName.label;ni moslang.">
 <!ENTITY sync.text.tab.sent.label "Ichki oynalaringiz jo‘natilgan!">
@@ -123,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-pochta">
-<!ENTITY fxaccount_password_hint "Parol">
+
 <!ENTITY fxaccount_password_hide "Yashirish">
 <!ENTITY fxaccount_password_show "Ko‘rsatish">
 <!-- Localization note: these are shown in screens after the user has
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Android sozlamalari &gt; Foydalanilgan ma’lumotlardan  “Ma’lumotlarni avtosinxronlash”ni yoqing.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Android sozlamalari &gt; Foydalanilgan ma’lumotlardan  “Ma’lumotlarni avtosinxronlash”ni yoqing.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Yangi \&quot;Firefox hisobi\&quot;ga kirish uchun bosing.">
-<!ENTITY fxaccount_status_bookmarks "Xatcho‘plar">
+
 <!ENTITY fxaccount_status_history "Tarix">
 <!ENTITY fxaccount_status_passwords2 "Loginlar">
 <!ENTITY fxaccount_status_tabs "Ichki oynalarni ochish">
