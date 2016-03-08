@@ -130,18 +130,6 @@ a la ret de vòstre ordenador ;</li>
 que &brandShortName; a l'autorizacion d'accedir al Web.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspicion de site malvolent !">
-<!ENTITY malwareBlocked.longDesc "<p>Los sites malvolents ensajan d'installar de programas que panan las entresenhas personalas, qu'utilizan vòstre ordenador per n'atacar d'autres o que damatjan vòstre sistèma.</p> 
-<p>Los proprietaris de sites Web que pensan que lor sit es estat raportat a tòrt coma malvolent pòdon <a href='http://www.stopbadware.org/home/reviewinfo' >demandar una revision</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Suspicion de site contrefach !">
-<!ENTITY phishingBlocked.longDesc "<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p> 
-<p>Aquestes tipes de contrafaiçon de sites son utilizats dins de corrièrs electronics frauduloses concebuts per d'atacs per anquetatage (o phishing), dins las qualas las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts dins las qualas avètz fisança.</p>">
-
-
-
 <!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacha lo cargament d'aquesta pagina d 'aqueste biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
 
@@ -164,9 +152,6 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
-<!ENTITY errorReporting.sending "Mandadís del rapòrt">
-
-<!ENTITY errorReporting.tryAgain "Ensajatz tornarmai">
 
 <!ENTITY remoteXUL.title "XUL distant">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li></ul></p>">

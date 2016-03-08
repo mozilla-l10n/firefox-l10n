@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "P">
 <!ENTITY shareVideo.label "Partejar aquesta vidèo">
 <!ENTITY shareVideo.accesskey "a">
-<!ENTITY feedsMenu.label "S'inscriure">
-<!ENTITY subscribeToPageMenupopup.label "S'abonar a aquesta pagina">
+
+
 <!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina...">
 <!ENTITY addCurPagesCmd.label "Marcar totes los onglets…">
 <!ENTITY showAllBookmarks2.label "Afichar totes los marcapaginas">
+
 <!ENTITY unsortedBookmarksCmd.label "Marcapaginas pas triats">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afichar mai de marcapaginas">
 
@@ -254,6 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "Se connectar…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -416,6 +419,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "Apondre a la barra d'aisinas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Apondre al Menú">
@@ -517,6 +521,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "o">
 <!ENTITY openFrameCmd.label           "Dobrir lo quadre dins una fenèstra novèla">
 <!ENTITY openFrameCmd.accesskey       "f">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Dobrir lo quadre dins un onglet novèl">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -731,7 +737,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Acabar">
-<!ENTITY editBookmark.cancel.label                   "Anullar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Connexion securizada">
@@ -761,13 +766,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.learnMore "Ne saber mai">
 
 
+
+
 <!ENTITY identity.permissions "Permissions">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Onglets del navigador">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "Onglets d'autres aparelhs">
 
@@ -805,7 +825,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY customizeMode.tabTitle "Personalizar &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Aisinas e foncionalitats suplementàrias">
 <!ENTITY customizeMode.menuAndToolbars.empty "Besonh d'encara mai d'aisinas ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Fasètz vòstra causida demest de milierats de moduls complementaris">
@@ -903,7 +922,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.buttonlabel         "Mercé !">
 
 
-<!ENTITY emeNotificationsNotNow.label             "Mai tard">
-<!ENTITY emeNotificationsNotNow.accesskey         "M">
-<!ENTITY emeNotificationsDontAskAgain.label       "Demandar pas mai">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "p">
