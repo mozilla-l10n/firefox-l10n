@@ -75,8 +75,6 @@
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 <!ENTITY projectPanel_myProjects "Els meus projectes">
 <!ENTITY projectPanel_runtimeApps "Aplicacions de l'entorn d'execució">
@@ -198,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Si l'altre dispositiu us sol·licita un testimoni en lloc d'un codi QR, copieu el valor següent en l'altre dispositiu:">
+
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Registres d'ordres de preempaquetatge">
