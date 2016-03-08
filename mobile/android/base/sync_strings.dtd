@@ -8,69 +8,16 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Se connectar a &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Apondre un compte &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Associar un aparelh">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Per activar vòstre novèl aparelh, seleccionar « Configurar &syncBrand.shortName.label; » sus aqueste.">
-<!ENTITY sync.subtitle.header2.label "Picatz aqueste còde sus vòstre aparelh">
-<!ENTITY sync.subtitle.connectlocation2.label "Seleccionatz « &sync.title.pair.label; » dins la seccion &syncBrand.shortName.label; de las opcions de Firefox sus vòstre aparelh.">
 <!ENTITY sync.subtitle.pair.label "Per activar, seleccionatz « Associar un aparelh » sus vòstre aparelh.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Me far veire cossí">
-<!ENTITY sync.link.advancedsetup.label "Configuracion avançada…">
 <!ENTITY sync.link.nodevice.label "Ai pas l\&quot;aparelh amb ieu…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "En espèra de l\u0027autre aparelh…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Picatz vòstres identificants de compte per &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Nom del compte">
-<!ENTITY sync.input.password.label "Senhal">
-<!ENTITY sync.input.key.label "Clau de recuperacion">
-<!ENTITY sync.checkbox.server.label "Utilizar un servidor personalizat">
-<!ENTITY sync.input.server.label "URL del servidor">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Impossible de configurar &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; a pas pogut se connectar al servidor. Volètz tornar ensajar ?">
-<!ENTITY sync.button.tryagain.label "Ensajar tornarmai">
-<!ENTITY sync.button.manual.label "Configuracion manuala">
-<!ENTITY sync.subtitle.nointernet.label "Connexion a Internet indisponibla.">
-<!ENTITY sync.subtitle.failaccount.label "La creacion d\u0027un compte sus vòstre aparelh a fracassat.">
-<!ENTITY sync.subtitle.failmultiple.label "Avètz mai d\u0027un Firefox installat ? Actualament, &syncBrand.fullName.label; pren pas en carga qu\u0027una sola installacion de Firefox a l\u0027encòp. Desinstallatz las autras instàncias per poder utilizar &syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Configuracion acabada">
-<!ENTITY sync.subtitle.success.label1 "Ara, vòstras donadaes son sincronizadas en rèire plan. Podètz anar dins lo menú Paramètres per gerir vòstre compte, o començar de navigar amb &brandShortName;.">
-<!ENTITY sync.settings.label "Paramètres">
-<!ENTITY sync.subtitle.manage.label1 "Vòstre compte &syncBrand.fullName.label; es ja configurat. Podètz anar dins lo menú Paramètres per gerir vòstre compte, o aviar &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Ensajatz tornarmai.">
-<!ENTITY sync.pair.connectlocation.label "Per activar vòstre novèl aparelh, seleccionatz « Configurar &syncBrand.shortName.label; » sus aqueste, e puèi « Ai un compte ».">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Opcions">
-<!ENTITY sync.summary.pair.label "Associar un autre aparelh a vòstre compte &syncBrand.shortName.label;">
 <!-- Configure Engines -->
-
-<!ENTITY sync.configure.engines.title.label "De qué sincronizar">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar vòstre...">
-<!ENTITY sync.configure.engines.title.bookmarks "Marcapaginas">
-
 <!ENTITY sync.configure.engines.title.history "Istoric">
 <!ENTITY sync.configure.engines.title.tabs "Onglets">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Anullar">
-<!ENTITY sync.button.connect.label "Se connectar">
-<!ENTITY sync.button.ok.label "D\u0027acòrdi">
-<!-- Account strings -->
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -88,21 +35,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Lista de lectura">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Espingolat">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Un sol compte &syncBrand.fullName.label; pòt èsser gerit.">
-<!ENTITY sync.notification.configure.saved "Vòstras seleccions son estadas enregistradas.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Nom de compte o senhal incorrècte.">
-<!ENTITY sync.invalidserver.label "Picatz una URL de servidor valida">
-<!ENTITY sync.verifying.label "Verificacion...">
-<!ENTITY sync.new.recoverykey.status.incorrect "Clau de recuperacion incorrècta. Ensajatz tornarmai.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Mandar un onglet als aparelhs">
-<!ENTITY sync.button.send.label "Mandar">
-<!ENTITY sync.button.set.up.sync.label "Installar &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Installar &syncBrand.shortName.label; per mandar d\u0027onglets">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Installar &syncBrand.fullName.label; sus vòstre aparelh per mandar d\u0027onglets a d\u0027autres aparelhs.">
 <!ENTITY sync.text.tab.sent.label "Vòstre onglet es estat mandat !">
@@ -113,7 +47,7 @@
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-<!ENTITY fxaccount_password_hint "Senhal">
+
 <!ENTITY fxaccount_password_hide "Amagar">
 <!ENTITY fxaccount_password_show "Afichar">
 <!-- Localization note: these are shown in screens after the user has
@@ -185,7 +119,7 @@
 
 
 
-<!ENTITY fxaccount_status_bookmarks "Marcapaginas">
+
 <!ENTITY fxaccount_status_history "Istoric">
 
 

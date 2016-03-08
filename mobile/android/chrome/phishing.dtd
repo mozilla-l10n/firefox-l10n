@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "Sortir d'aicí !">
 <!ENTITY safeb.palm.decline.label "Ignorar aqueste avertiment">
-<!ENTITY safeb.palm.notforgery.label2 "Aquò es pas una contrafaiçon de site Web…">
 
 
 
@@ -13,9 +12,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Lo sit de <span id='malware_sitename'/> es estat raportat coma un sit d'atac e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Los sites d'atac ensajan d'installar de programas que vos raubar d'entresenhas personalas, utilizan vòstre ordenador per n'atacar d'autres o damatjan vòstre sistèma.</p><p>D'unes sites d'atac distribuisson amb intencion de programas dangieroses mas fòrça son implicats sens o que sos proprietaris lo sàpian o l'ajan permes.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Suspicion de site Web contrafach">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "En picant d'informacions sus aquesta pagina Web, vos poiriatz expausar a una usurpacion d'identitat o a d'autras fraudariás.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Aquestes tipes de sites Web son utilizats dins de fraudariás conegudas jol tèrme d'atacs per phishing (o anquetatge), dins las qualas de paginas Web o de corrièrs frauduloses son utilizats per imitar de fonts dins lasqualas podètz aver fisança.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "La pagina web de <span id='unwanted_sitename'/> es estat raportat coma un site d'atac e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
