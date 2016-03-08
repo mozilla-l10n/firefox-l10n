@@ -35,6 +35,3 @@ eich bod yn gwybod fod rheswm da pam nad yw'r wefan yn defnyddio dynodiadau mae 
 <!ENTITY certerror.copyToClipboard.label "Copïo testun i'r clipfwrdd">
 
 <!ENTITY errorReporting.automatic "Mae adroddiadau gwall fel hyn yn cynorthwyo Mozilla i adnabod gwefannau sydd wedi eu cam-ffurfweddu.">
-<!ENTITY errorReporting.sending "Anfon adroddiad">
-<!ENTITY errorReporting.sent "Adroddiad wedi ei anfon">
-<!ENTITY errorReporting.tryAgain "Ceisiwch eto">
