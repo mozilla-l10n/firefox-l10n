@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "e">
 <!ENTITY retentionKeepRecent.label "Skrap alles behalwe die mees onlangse">
 <!ENTITY retentionKeepRecent.accesskey "S">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Skrap altyd geleesde boodskappe (oorheers ouderdominstellings)">
 <!ENTITY retentionApplyToFlagged.label "Hou altyd gevlagde boodskappe">
 <!ENTITY retentionApplyToFlagged.accesskey "H">
 
