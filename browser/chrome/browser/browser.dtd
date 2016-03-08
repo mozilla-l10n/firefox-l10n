@@ -258,7 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Ligar…">
 <!ENTITY devtoolsConnect.accesskey    "g">
@@ -777,7 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Saber mais">
 
-
+<!ENTITY identity.removeCertException.label "Remover exceção">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "Mais informação">
 
@@ -800,8 +802,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 
 
-
-
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Criar marcador para este separador…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

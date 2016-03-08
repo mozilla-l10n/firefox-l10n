@@ -5,6 +5,7 @@
 <!ENTITY safeb.palm.accept.label "Tirem-me daqui!">
 <!ENTITY safeb.palm.decline.label "Ignorar este aviso">
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
+<!ENTITY safeb.palm.notdeceptive.label "Este não é um site enganoso...">
 <!ENTITY safeb.palm.reportPage.label "Porque é que esta página foi bloqueada?">
 <!ENTITY safeb.palm.whyForbidden.label "Porque é que esta página foi bloqueada?">
 
@@ -18,7 +19,9 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta página web <span id='unwanted_sitename'/> foi indicada como uma página de software não-solicitado e foi bloqueada com base nas suas preferências de segurança.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>As páginas de software não solicitado tentam instalar software que pode ser decetivo e afetar o seu sistema de formas inesperadas.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title2 "Site enganoso!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "A página web em <span id='phishing_sitename'/> foi denunciada como um site enganoso e bloqueada de acordo com as suas preferências de segurança.">
 
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Site bloqueado">
