@@ -123,20 +123,6 @@
 <li>إذا كان حاسوبك محميًا بجدار ناري أو وسيط، تأكد من السماح ل‍&brandShortName; بالنفاذ إلى الوِب.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "موقع هجمات مُشتبَه بِه!">
-<!ENTITY malwareBlocked.longDesc "<p>مواقع الهجمات تحاول تثبيت برامج لسرقة المعلومات الخاصة، استخدام حاسوبك للهجوم على الآخرين، أو تدمير نظامك </p> 
-<p>أصحاب المواقع الذين يرون أن موقعهم قد بُلّغ عنه أنه موقع هجمات بالخطأ يمكنهم <a href='http://www.stopbadware.org/home/reviewinfo' >طلب إعادة النظر</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "موقع برمجيات غير مرغوب فيها مشتبه به!">
-<!ENTITY unwantedBlocked.longDesc "<p>صفحات البرمجيات غير المرغوب فيها تحاول تثبيت برمجيات خدّاعة قد تؤثر على نظامك بصور غير متوقعة.</p>">
-
-<!ENTITY phishingBlocked.title "موقع مزوّر مُشتبه به!">
-<!ENTITY phishingBlocked.longDesc "<p>قد ينتج عن إدخال بيانات في هذه الصفحة سرقة الهوية أو أي احتيال آخر.</p> 
-<p>تستخدم طرق التزوير هذه في خدع تعرف بهجمات التزوير، و فيها تستخدم صفحات و رسائل مزوّرة لتقليد مصادر تثق بها.</p>">
-
-<!ENTITY forbiddenBlocked.title "موقع ممنوع">
-<!ENTITY forbiddenBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل لأن إعداداته تقتضي حظرها.</p>">
-
 <!ENTITY cspBlocked.title "حجبتها سياسة أمن المحتوى">
 <!ENTITY cspBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن للصفحة سياسة أمن محتوى تمنع ذلك.</p>">
 
@@ -160,9 +146,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "أبلغ عن مثا هذه الأعطال لمساعدة موزيلا في التعرف على المواقع الخبيثة و حظرها.">
 <!ENTITY errorReporting.learnMore "اطّلع على المزيد…">
-<!ENTITY errorReporting.sending "يرسل البلاغ">
-<!ENTITY errorReporting.sent "أٌرسِل البلاغ">
-<!ENTITY errorReporting.tryAgain "حاول مرة أخرى">
 
 <!ENTITY remoteXUL.title "XUL بعيد">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul></p>">

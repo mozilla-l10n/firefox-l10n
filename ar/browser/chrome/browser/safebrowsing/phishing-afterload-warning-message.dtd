@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "أخرجني من هنا!">
 <!ENTITY safeb.palm.decline.label "تجاهل هذا التحذير">
-<!ENTITY safeb.palm.notforgery.label2 "هذا ليس موقعًا مزوّرًا…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.reportPage.label "لماذا حُظرت هذه الصفحة؟">
 <!ENTITY safeb.palm.whyForbidden.label "لماذا حُظرت هذه الصفحة؟">
 
@@ -18,10 +18,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "أُبلِغ عن أن الموقع <span id='unwanted_sitename'/> يحتوي برمجيات غير مرغوب فيها و مُنع بناء على تفضيلات الأمن.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>صفحات البرمجيات غير المرغوب فيها تحاول تثبيت برمجيات خدّاعة قد تؤثر على نظامك بصور غير متوقعة.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "موقع مزوّر مُبلغ عنه!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "أُبلِغ عن أن الموقع <span id='phishing_sitename'/> موقع مزوّر و مُنع بناء على تفضيلات الأمن.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>تصمم مواقع التزوير لخداعك حتى تعطيها معلومات شخصية أو مالية عن طريق تقليد مصادر تثق بها.</p><p>قد يؤدي إعطاء أي معلومات على هذه الصفحة إلى سرقة الهوية أو أضرار أخرى.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "موقع محظور">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
