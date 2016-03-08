@@ -130,20 +130,6 @@ unxibelelwano lwenethiwekhi yekhompyutha yakho.</li>
 ukuba i-&brandShortName; ivunyelwe ukufikelela kwiWebhu.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Isayithi yohlaselo ekrokrelekayo!">
-<!ENTITY malwareBlocked.longDesc "<p>Iisayithi zohlaselo zizama ukufakela iiprogram eziba inkcazelo yangasese, zisebenzise ikhompyutha yakho ukuhlazela ezinye okanye zonakalise ikhompyutha yakho.</p> 
-<p>Abanini bewebhusayithi abakholelwa ukuba isayithi yabo ichazwe njengesayithi yohlaselo ngempazamo <a href='http://www.stopbadware.org/home/reviewinfo' >bangacela ukuba ijongwe kwakhona</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Isayithi ye-Software Ekukrokrelwa ukuba Ayifuneki!">
-<!ENTITY unwantedBlocked.longDesc "<p>Amaphepha e-software engafuneki azama ukufakela i-software enganokuqhatha yaye ichaphazele isistim yakho ngeendlela ezikrokrelekayo.</p>">
-
-<!ENTITY phishingBlocked.title "Inkohliso yewebhu ekrokrelekayo!">
-<!ENTITY phishingBlocked.longDesc "<p>Ukungenisa naziphi na iinkcukacha kweli khasi kungakhokelela ekubiweni kwazo okanye kobunye ubuqhetseba.</p> 
-<p>Ezi ndidi zenkohliso zewebhu zisetyenziswa kwiqhinga elaziwa njengeqhinga lokufumana iinkcukacha apho amakhasi ewebhu neeimeyile zisetyenziswa ngokufana nemithombo onokuyithemba.</p>">
-
-<!ENTITY forbiddenBlocked.title "ISayithi Eyalelweyo">
-<!ENTITY forbiddenBlocked.longDesc "<p>i-&brandShortName; ithintele eli phepha ukuba lilayishe ngenxa yokuba yenzelwe ukulibhloka.</p>">
-
 <!ENTITY cspBlocked.title "Ithintelwe ngumGaqonkqubo woKhuseleko lomXholo">
 <!ENTITY cspBlocked.longDesc "<p>i-&brandShortName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
 
@@ -167,9 +153,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Xela iimpazamo ezifana nale ukunceda uMozilla afumanise aze abhloke iisayithi eziyingozi">
 <!ENTITY errorReporting.learnMore "Funda okungakumbi…">
-<!ENTITY errorReporting.sending "Ithumela ingxelo">
-<!ENTITY errorReporting.sent "Ingxelo ithunyelwe">
-<!ENTITY errorReporting.tryAgain "Zama kwakhona">
 
 <!ENTITY remoteXUL.title "Susa i-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul></p>">

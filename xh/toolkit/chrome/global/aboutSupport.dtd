@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Isoftwe encedisayo evunyelweyo">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Yakha uLungiselelo">
 <!ENTITY aboutSupport.appBasicsUserAgent "IArhente yomsebenzisi">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ukusetyenziswa kwememori">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
