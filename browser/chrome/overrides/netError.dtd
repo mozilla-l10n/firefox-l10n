@@ -74,17 +74,6 @@ gore &brandShortName; e na le tetlelesego ya Webo.</li>
 
 
 
-<!ENTITY malwareBlocked.title "Saete ya Tlhaselo e belaelwang!">
-<!ENTITY malwareBlocked.longDesc "<p>Disaete tsa tlhaselo di leka go tsenya porokeramo tse di utswang tshedimosetso ya poraefete, go dirisa khomputara ya gago go tlhasela ba bangwe, kgotsa go senya thulaganyo ya gago.</p> 
-<p>Beng ba Webosaete ba ba dumelang fa saete ya bone e begilwe e le Saete ya Tlhaselo mo phosong ba ka <a href='http://www.stopbadware.org/home/reviewinfo' >kopa tshekatsheko</a>.</p>">
-
-<!ENTITY unwantedBlocked.longDesc "<p>Ditsebe tsa serweboleta tse di sa batliweng di leka go tsenya serweboleta se se ka nnang maretshwa le go ama thulaganyo ya gago ka tsela tsedi sa solofelwang.</p>">
-
-<!ENTITY phishingBlocked.title "Pelaelo ya Webo Togo Maaka!">
-
-
-
-
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;thibetse tsebe e go tsenya ka tsela e ntseng jaana ka gore tsebe e na le pholisi ya diteng pabalesego e sa e letleleleng.</p>">
 
 <!ENTITY corruptedContentError.title "Phoso ya Diteng e Senyegileng">
@@ -98,9 +87,6 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 <!ENTITY errorReporting.learnMore "Ithute thata...">
-
-
-<!ENTITY errorReporting.tryAgain "Leka gape">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
 

@@ -64,8 +64,6 @@
 
 
 
-<!-- reload WebIDE and devtools from local checkout -->
-<!-- this binding is with accel+alt, whereas all others are just accel -->
 
 
 <!ENTITY projectPanel_tabs "Ditab">
@@ -160,6 +158,7 @@
      devices that can scan a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
