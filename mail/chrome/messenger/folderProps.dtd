@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Obriši sve osim">
 <!ENTITY retentionKeepRecent.accesskey "i">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Uvijek obriši pročitane poruke (ima prednost nad postavkama starosti)">
 <!ENTITY retentionApplyToFlagged.label "Uvijek zadrži poruke označene zvjezdicom">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
