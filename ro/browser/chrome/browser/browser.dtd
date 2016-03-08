@@ -162,12 +162,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "Împărtășește acest videoclip">
 <!ENTITY shareVideo.accesskey "r">
-
-
+<!ENTITY feedsMenu2.label "Abonează-te la această pagină">
+<!ENTITY subscribeToPageMenupopup.label "Abonează-te la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonează-te la această pagină…">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele…">
 <!ENTITY showAllBookmarks2.label "Arată toate semnele de carte">
-
+<!ENTITY recentBookmarks.label "Recent însemnate">
 <!ENTITY unsortedBookmarksCmd.label "Semne de carte nesortate">
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 
@@ -186,13 +186,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Tipărește">
 <!ENTITY printButton.tooltip          "Tipărește această pagină">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Vezi informații despre site">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Vezi o notificare">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Vezi cererea de locație">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Vezi mesajul de instalare al suplimentului">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Vezi mesajul de stocare offline al aplicației">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Gestionează informațiile de autentificare">
 
 
 
@@ -407,6 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Nicio filă deschisă">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
@@ -785,8 +788,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY syncedTabs.sidebar.notabs.label       "Nicio filă deschisă">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Deschide preferințele &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
