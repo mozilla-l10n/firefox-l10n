@@ -124,18 +124,6 @@ eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osob
  nti &brandShortName; ekkirizibwa okweyambisa omutimbagano.</li> 
  </ul>">
 
-<!ENTITY malwareBlocked.title "Ekibanja Ekiteberezebwa Okulumbaganya!">
-<!ENTITY malwareBlocked.longDesc "<p>Ebibanja ebilumba bigezako okuteka mu kompyuta yo pulogulamu ezibba winno owobwananyini, oba ezikozesebwa okwonona kompyuta yo.</p> 
-<p>Bananyini bibanja abalowooza nti ebanja byabwe bilopedwa nga ebibanja ebilumba naye mubu kyamu, bayinza <a href='http://www.stopbadware.org/home/reviewinfo' >okusaba okuddamu okutunula munsonga zabbwe</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Kiteeberezebwa waliwo okujingirira kulutimbe!">
-<!ENTITY phishingBlocked.longDesc "<p>Okuyingiza amawulire gonna ago'bwanannyini ku muko guno kiyinza okuvirako okubbibwa kwekiraga oba okukumpanya okwengeri endala.</p> 
-<p>bino ebika byobukumpanya mu'ntiimbe bikozesebwa mu butali bwesimbu nga obukumpanya obugenderedwamu okubba amawlire agomugaso, mukukozsa entimbagano ezo'bukumpanya ne meyilo okwefanaanyiriza ensibukko zo'yinza okwesiga.</p>">
-
-
-
 <!ENTITY cspBlocked.title "Kiziyiziddwa Eteka Elifuga  Ebyokwerinda Ebyomunda">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; eziyiza omuko guno okutika mungeri eno kubanga omuko guno gulina amateka agafuga ebyokwerinda byomunda elitagikiriza.</p>">
 
@@ -156,9 +144,6 @@ functionality specific to firefox. -->
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
-
-
-
 
 
 

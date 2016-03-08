@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Nzijja wano!">
 <!ENTITY safeb.palm.decline.label "Tofa ku kulabula kuno">
-<!ENTITY safeb.palm.notforgery.label2 "Luno olutimbe sirujingirire…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -16,10 +16,8 @@
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
-<!ENTITY safeb.blocked.phishingPage.title "Omutimbo Guwabiddwa Okucupula!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Luno olutimbe <span id='phishing_sitename'/> ku mukutu gwensiyona gulopeddwa nga omutimbo omucupule era kati guziyiziiddwa okusinzira ku bukumi bwewalonzemu.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Okucupula omutimbo kukolebwa okubuzabuza okuwayo ebyama byo nga befananyisa ensibukko gy'ewesiga.</p><p>Okuyingiza obubaka byona kumutimbo guno kiyinza okiletera okubibwako ebyekyama ebikukwatako.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

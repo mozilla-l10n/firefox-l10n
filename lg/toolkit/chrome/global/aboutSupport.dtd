@@ -48,6 +48,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ebyongerwamu ebitandikidwa">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Zzimba Entekateka">
 <!ENTITY aboutSupport.appBasicsUserAgent "Akayamba Omukozesa">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Enkozesa Memory">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 

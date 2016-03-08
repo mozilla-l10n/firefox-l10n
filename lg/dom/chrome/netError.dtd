@@ -72,18 +72,6 @@
 <li>Bwoba oyungiddwa bulungi ku kompyuta eno enkulu gyebuvudeko, ensobi eyinza okuba nga ssi yalubeelera, era oyinza okudamu noogezako oluvannyuma.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Ekibanja Ekiteberezebwa Okulumbaganya!">
-<!ENTITY malwareBlocked.longDesc "<p>Ebibanja ebilumba, bigezako okuteka mu kompyuta yo entekateka ezibba amawulire, okukozesa kompyuta yo okulumba kompyuta endala, oba okwonona kompyuta yo.</p> 
-<p>Bananyini bibanja bino kutimbagano abalowooza nti ebibanja byabwe biropedwa munsobi bayinza <a href='http://www.stopbadware.org/home/reviewinfo' >okusaba okuddamu okutunula mu nsonga zabbwe</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Waliwo okutebereza kwo'Mutimbangano nga Gucupula!">
-<!ENTITY phishingBlocked.longDesc "<p>Okuyingiza amawulire gonna ago'bwanannyini ku muko guno kiyinza okuvirako okubbibwa kwekiraga oba okukumpanya okwengeri endala.</p> 
-<p>bino ebika byobukumpanya mu'ntiimbe bikozesebwa mu butali bwesimbu nga obukumpanya obugenderedwamu okubba amawlire agomugaso, mukukozsa entimbagano ezo'bukumpanya ne meyilo okwefanaanyiriza ensibukko zo'yinza okwesiga.</p>">
-
-
-
 <!ENTITY securityOverride.linkText "Oba oyinza okugattako ekyensuso…">
 
 
