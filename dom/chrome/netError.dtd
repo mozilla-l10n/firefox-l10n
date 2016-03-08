@@ -72,20 +72,6 @@
 <li>Əvvəllər bu serverə uğurla bağlandınızsa problem müvəqqəti ola bilər və daha sonra yenidən açmağı yoxlaya bilərsiniz.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Şübhəli hücum saytı!">
-<!ENTITY malwareBlocked.longDesc "<p>SHücum saytları; şəxsi məlumatlarınızı oğurlayan, komputerinizi başqalarına hücum məqsədi ilə istifadə edən ya da sisteminizə zərər verən proqramlar quraşdırmağa çalışan saytlardır.</p> 
-<p>Öz saytlarının səhv olaraq hücum saytı kimi göstərildiyini düşünən sayt sahibləri <a href='http://www.stopbadware.org/home/reviewinfo' >yenidən yoxlama istəyi</a> göndərə bilərlər.</p>">
-
-<!ENTITY unwantedBlocked.title "İstənməyən Proqram Saytı Təhlükəsi!">
-<!ENTITY unwantedBlocked.longDesc "<p>İstənməyən proqram səhifələri aldadıcı ola biləcək və ya sisteminizi gözlənilməz şəkildə dəyişdirəcək proqramlar qurmağa çalışırlar.</p>">
-
-<!ENTITY phishingBlocked.title "Saxtakarlıq şübhəsi!">
-<!ENTITY phishingBlocked.longDesc "<p>Bu səhifədə daxil edilən şəxsi məlumatlar, şəxsiyyət oğurluğuna ya da başqa növ fırıldaqçılıq məsədi ilə istifadə oluna bilər.</p> 
-<p>Bu cür saxtakarlıqlarda inandığınız Web səhifələrini təqlid edən saxta web səhifələri və e-poçtlardan istifadə edilərək fırıldaqçılıq edilir.</p>">
-
-<!ENTITY forbiddenBlocked.title "Qadağan Edilmiş Sayt">
-<!ENTITY forbiddenBlocked.longDesc "<p>Səyyah bu səhifənin yüklənməsinin qarşısını aldı, çünki, onu bloklamaq üçün tənzimlənib.</p>">
-
 <!ENTITY securityOverride.linkText "Və ya istisnalıq verə bilərsiz…">
 <!ENTITY securityOverride.warningContent "<p>Etibar etmədiyiniz bir bağlantı istifadə edirsinizsə ya da bu serverlə bağlı xəbərdarlıqları almağa öyrəşməmisinizsə istisnalıq verməməlisiniz.</p>
 <p>Yenə də istisnalıq vermək istəyirsinizsə bunu təkmilləşmiş şifrləmə tənzimləmələriniz ilə edə biləsiniz.</p>">
