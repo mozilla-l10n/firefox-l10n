@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_data "Doar prin Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blocat">
 
+
 <!ENTITY pref_tracking_protection_title "Protecție față de urmărire">
 <!ENTITY pref_tracking_protection_summary3 "Activată în navigarea privată">
 <!ENTITY pref_donottrack_title "Nu mă urmări">
@@ -464,8 +465,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navigare pe ecran complet">
 
 
-<!ENTITY pref_tab_queue_title2 "Deschide multiple linkuri">
-<!ENTITY pref_tab_queue_summary3 "Salvează-le până la următoarea deschidere a &brandShortName;.">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -542,10 +542,8 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Niciun conținut nu a putut fi găsit pentru acest panou.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_move_up_to_filter "Până la &formatS;">
 
 <!ENTITY home_remote_tabs_title "File sincronizate">
 <!ENTITY home_remote_tabs_empty "Filele tale de pe alte dispozitive apar aici.">
@@ -642,8 +640,6 @@ din Android">
 
 <!ENTITY suggestion_for_engine "Caută &formatS1; pentru &formatS2;">
 
-<!ENTITY webapp_generic_name "Aplicație">
-
 <!ENTITY searchable_description "Semne de carte și istoric">
 <!-- Updater notifications --> 
 
@@ -708,11 +704,6 @@ din Android">
 <!ENTITY remote_tabs_last_synced "Ultima sincronizare: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Ultima sincronizare: niciodată">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Nu se poate deschide linkul">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -769,3 +760,6 @@ din Android">
      replaced by the Android OS version (e.g., 14)-->
 
 <!ENTITY eol_notification_summary "Atinge pentru a afla mai multe">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
