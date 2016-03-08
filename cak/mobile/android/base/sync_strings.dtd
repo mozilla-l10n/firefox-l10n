@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Ximïl">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Tokisäx pa &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Titz\u0027aqatisäx jun retal rutaqoya\u0027l &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Tixim jun okisaxel">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Richin natzïj ri k\u0027ak\u0027a\u0027 awokisaxel, tacha\u0027 \&quot;Rub\u0027anik runuk\u0027ulem &syncBrand.shortName.label;\&quot; pa ri okisaxel.">
-<!ENTITY sync.subtitle.header2.label "Tatz\u0027ib\u0027aj re jun cholajil re\u0027 pa ri awokisaxel">
-<!ENTITY sync.subtitle.connectlocation2.label "Tacha\u0027 \&quot;&sync.title.pair.label;\&quot; pa ri peraj &syncBrand.shortName.label; k\u0027o chupam ri jun chik awokisaxel pa ri cha\u0027öy richin Firefox.">
 <!ENTITY sync.subtitle.pair.label "Richin natzïj. tacha\u0027 \&quot;Tixim jun okisaxel\&quot; pan ri jun chik awokisaxel.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Kinak\u0027utu\u0027 achi\u0027el.">
-<!ENTITY sync.link.advancedsetup.label "Q\u0027axinäq runuk\u0027ulem…">
 <!ENTITY sync.link.nodevice.label "Man k\u0027o ta ri woyonib\u0027äl wik\u0027in…">
-<!-- J-PAKE Waiting Screen -->
-
-<!ENTITY sync.jpake.subtitle.waiting.label "Royob\u0027exik ri jun chik okisaxel…">
-<!-- Account Login Screen -->
-
-<!ENTITY sync.subtitle.account.label "Tatz\u0027ib\u0027aj ri taq etamab\u0027äl chi rij ri retal ataqoya\u0027l richin &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Rub\u0027i\u0027 retal ataqoya\u0027l">
-<!ENTITY sync.input.password.label "Ewan tzij">
-<!ENTITY sync.input.key.label "Kolonel ruxe\u0027el tzij ">
-<!ENTITY sync.checkbox.server.label "Tokisäx jun ichinan ruk\u0027u\u0027x samaj ">
-<!ENTITY sync.input.server.label "Ruk\u0027u\u0027x samaj URL">
-<!-- Setup Fail -->
-
-<!ENTITY sync.title.fail.label "Man tikirel ta nib\u0027an runuk\u0027ulem &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; man nitikïr nok pa ri ruk\u0027u\u0027x samaj. ¿La nawajo\u0027 natojtob\u0027ej jub\u0027ey chik?">
-<!ENTITY sync.button.tryagain.label "Titojtob\u0027ëx chik">
-<!ENTITY sync.button.manual.label "Runuk\u0027ulem chi q\u0027ab\u0027aj">
-<!ENTITY sync.subtitle.nointernet.label "Man niwachin ta jun okem pa k\u0027amaya\u0027l">
-<!ENTITY sync.subtitle.failaccount.label "Ri rujaqik ri retal ataqoya\u0027l pa ri awokisaxel man ütz ta xub\u0027än.">
-<!ENTITY sync.subtitle.failmultiple.label "¿Ayakon mas ka\u0027i\u0027 chi Firefox? Wakami &syncBrand.fullName.label; tikirel nuk\u0027ül nuyäk xa xe jun Firefox pa jub\u0027ey. Tab\u0027ana\u0027 utzil, ke\u0027awelesaj el ri ch\u0027aqa\u0027 chik richin yatikïr nayäk &syncBrand.shortName.label;.">
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Xb\u0027an runuk\u0027ulem chijun">
-<!ENTITY sync.subtitle.success.label1 "Tajin yeqasäx ri taq atzij pa ruka\u0027n b\u0027ey. Tikirel yab\u0027e pa Tz\u0027ajonïk richin nanuk\u0027samajij ri retal ataqoya\u0027l o richin natikirisaj ri okik\u0027amaya\u0027l rik\u0027in ri &brandShortName;.">
-<!ENTITY sync.settings.label "Runuk\u0027ulem">
-<!ENTITY sync.subtitle.manage.label1 "Ri retal ataqoya\u0027l richin &syncBrand.fullName.label; xb\u0027an yan runuk\u0027ulem. Ütz yab\u0027e pa Tz\u0027ajonïk richin nanuk\u0027samajij ri retal ataqoya\u0027l o najäq ri &brandShortName;.">
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Tab\u0027ana\u0027 utzil, tatojtob\u0027ej jub\u0027ey chik.">
-<!ENTITY sync.pair.connectlocation.label "Richin natzïj ri k\u0027ak\u0027a\u0027 awokisaxel, tacha\u0027 “Runuk\u0027ulem &syncBrand.shortName.label;“ pa ri okisaxel, k\u0027a ri\u0027 tacha\u0027 “K\u0027o jun retal nutaqoya\u0027l“.">
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Taq cha\u0027oj">
-<!ENTITY sync.summary.pair.label "Taxima\u0027 jun chik okisaxel rik\u0027in ri retal ataqoya\u0027l richin &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Atux nixim">
-<!ENTITY sync.configure.engines.sync.my.title.label "Tixim ri taq a…">
-<!ENTITY sync.configure.engines.title.bookmarks "Yakäl taq etal">
 <!ENTITY sync.configure.engines.title.passwords2 "Kitikirisaxik taq moloj">
 <!ENTITY sync.configure.engines.title.history "K\u0027ulwachinel">
 <!ENTITY sync.configure.engines.title.tabs "Taq ruwi\u0027">
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Jumul tiq\u0027at">
-<!ENTITY sync.button.connect.label "Tokisäx">
-<!ENTITY sync.button.ok.label "Ütz">
-<!-- Account strings -->
-
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (man ütz ta nitz\u0027et)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -92,21 +39,8 @@
 <!ENTITY bookmarks.folder.readinglist.label "Rucholajem sik\u0027inem">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Jikïl">
-<!-- Notification strings -->
-
-<!ENTITY sync.notification.oneaccount.label "Xa xe niya\u0027 q\u0027ij richin jun retal rutaqoya\u0027l &syncBrand.fullName.label;.">
-<!ENTITY sync.notification.configure.saved "Ri taq acha\u0027oj xeyak yan qa.">
-<!-- Incorrect settings and changing credentials. -->
-
-<!ENTITY sync.invalidcreds.label "Man eruk\u0027amon ta ri retal ataqoya\u0027l o ri ewan tzij.">
-<!ENTITY sync.invalidserver.label "Tab\u0027ana\u0027 utzil tatz\u0027ib\u0027aj jun ruk\u0027amon K\u0027AL.">
-<!ENTITY sync.verifying.label "Tajin nijikib\u0027äx…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Man ruk\u0027amon ta re rukolik ruxe\u0027el tzij. Tatojtob\u0027ej jub\u0027ey chik. ">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Ketaq ri taq ruwi\u0027 pa ri okisaxela\u0027">
-<!ENTITY sync.button.send.label "Titaq">
-<!ENTITY sync.button.set.up.sync.label "Tib\u0027an runuk\u0027ulem ri &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Tib\u0027an runuk\u0027ulem ri &syncBrand.shortName.label; richin yetaq taq ruwi\u0027">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Tib\u0027an runuk\u0027ulem ri &syncBrand.fullName.label; pa ri awokisaxel richin nitaq taq ruwi\u0027 pa ch\u0027aqa\u0027 chik taq samajib\u0027äl.">
 <!ENTITY sync.text.tab.sent.label "¡Xtaq ri awi\u0027 !">

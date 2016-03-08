@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Tawila\u0027 taq retal ri taq ayaketal chuqa\u0027 kik\u0027ulwachinel toq yakanon.">
 <!ENTITY firstrun_data_title "Taq tzij">
 <!ENTITY firstrun_data_message "Jub\u0027a\u0027 taq tzij, janila echajin">
-<!ENTITY firstrun_data_subtext "Keq\u0027at ri taq wachib\u0027äl richin man k\u0027ïy ta taq tzij yesach toq at k\u0027o chupam jun ruxaq k\u0027amaya\u0027l.">
+<!ENTITY firstrun_data_subtext2 "Keq\u0027at ri taq wachib\u0027äl richin man k\u0027ïy ta taq tzij yesach toq at k\u0027o chupam jun ruxaq k\u0027amaya\u0027l.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, junelïk chachi\u0027">
 <!ENTITY firstrun_sync_subtext "Ke\u0027axima\u0027 ri taq ruwi\u0027, taq ewan tzij chuqa\u0027 ch\u0027aqa\u0027 chik toq nawajo\u0027 nawokisaj.">
@@ -229,6 +229,8 @@
 <!ENTITY pref_tap_to_load_images_enabled "Junelïk">
 <!ENTITY pref_tap_to_load_images_data "Xa xe rik\u0027in Way-pay">
 <!ENTITY pref_tap_to_load_images_disabled2 "Q\u0027aton">
+
+<!ENTITY pref_show_web_fonts "Kek\u0027ut aj k\u0027amaya\u0027l ruwäch taq tz\u0027ib\u0027">
 
 <!ENTITY pref_tracking_protection_title "Chajinem chuwäch ri kanoxïk">
 <!ENTITY pref_tracking_protection_summary3 "Jaqal pa Ichinam Okem pa K\u0027amaya\u0027l">
@@ -469,8 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Okem pa k\u0027amaya\u0027l pa chijun ruwäch">
 <!ENTITY pref_scroll_title_bar_summary2 "Tewäx &brandShortName; ri rukajtz\u0027ik b\u0027i\u0027aj toq xtiqasäx pa jun ruxaq">
 
-<!ENTITY pref_tab_queue_title2 "Ke\u0027ajaqa\u0027 ri k\u0027ïy taq ximonel">
-<!ENTITY pref_tab_queue_summary3 "Ke\u0027ayaka\u0027 kan, k\u0027a richin toq xtajäq chik ri &brandShortName;">
+<!ENTITY pref_tab_queue_title3 "Rucholajem ruwi\u0027">
+<!ENTITY pref_tab_queue_summary4 "Ke\u0027ayaka\u0027 kan taq ximonel, k\u0027a richin toq xtajäq chik ri &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -547,10 +549,10 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "Majun rupam xilitäj pa re jun pas re\u0027.">
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
-<!ENTITY home_move_up_to_filter "Tokik\u0027amayalij rik\u0027in &formatS;">
+<!ENTITY home_move_back_to_filter "Ri jun kan &formatS;">
 
 <!ENTITY home_remote_tabs_title "Wawe\u0027 eximon">
 <!ENTITY home_remote_tabs_empty "Ri taq ruwi\u0027 kichin ch\u0027aqa\u0027 chik taq okisaxel yewachin wawe\u0027.">
@@ -648,8 +650,6 @@ chuwäch ri Android">
 
 <!ENTITY suggestion_for_engine "Tikanöx &formatS1; richin &formatS2;">
 
-<!ENTITY webapp_generic_name "Chokoyi\u0027">
-
 <!ENTITY searchable_description "Yak\u0027äl etal chuqa\u0027 k\u0027ulwachinel">
 <!-- Updater notifications --> 
 
@@ -717,11 +717,6 @@ chuwäch ri Android">
 <!ENTITY remote_tabs_last_synced "Ruk\u0027isib\u0027al ximojri\u0027ïl: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Ruk\u0027isib\u0027al ximojri\u0027ïl: majub\u0027ey">
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Man tikirel ta nijaq ri ximonel">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +774,10 @@ chuwäch ri Android">
 
 <!ENTITY unsupported_sdk_version "¡Takuyu\u0027! &brandShortName;man xtisamäj ta pa re okisaxel re\u0027 (&formatS1;, &formatS2;). Tab\u0027ana\u0027 utzil taqasaj ri ütz ruwäch.">
 
-<!ENTITY eol_notification_title "&brandShortName; man nuk\u0027äm ta chik ri\u0027 rik\u0027in Android 3">
+<!ENTITY eol_notification_title2 "&brandShortName; mani chik nik\u0027ex ruwäch">
 <!ENTITY eol_notification_summary "¿La nawajo\u0027 nawetamaj juley chik?">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
+<!ENTITY whatsnew_notification_title "&brandShortName; jalon chik">
+<!ENTITY whatsnew_notification_summary "Tikanöx achike ri k\u0027ak\u0027a\u0027 k\u0027o chupam re ruwäch re\u0027">
