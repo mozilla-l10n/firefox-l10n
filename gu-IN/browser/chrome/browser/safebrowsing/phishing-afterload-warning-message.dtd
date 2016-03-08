@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "મને અહીંથી બહાર લઈ જાવ!">
 <!ENTITY safeb.palm.decline.label "આ ચેતવણી અવગણો">
-<!ENTITY safeb.palm.notforgery.label2 "આ વેબ ગુનાખોરી નથી">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 
 
 
@@ -16,10 +16,8 @@
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
-<!ENTITY safeb.blocked.phishingPage.title "બનાવટી વેબનો અહેવાલ થયેલ છે!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> પર આ વેબ પાનું બનાવટી વેબ તરીકે અહેવાલ કરી દેવામાં આવ્યુ છે અને તમારી સુરક્ષા પસંદગીઓ પર બ્લોક કરી દેવામાં આવ્યુ છે.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>સ્ત્રોતોને અનુકરણ કરવા વડે વ્યક્તિગત અથવા નાણાકીય જાણકારીમાં બનાવટી વેબો તમને છેતરવા માટે રચેલ છે કે જે તમે તેનો વિશ્ર્વાસ કરી શકો છો .</p><p> આ વેબ પાનાં પર કોઇપણ જાણકારીને દાખલ કરવા દ્દારા ચોરીની ઓળખાણ અથવા બીજી છેતરપિંડીમાં પરિણામ આવી શકે છે.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
