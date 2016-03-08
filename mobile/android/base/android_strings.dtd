@@ -362,7 +362,7 @@
 <!ENTITY home_most_recent_emptyhint2 "Псс: при использовании &formatS1;Новой приватной вкладки&formatS2; ваша история сохраняться не будет.">
 <!ENTITY home_reading_list_empty "Статьи, сохранённые вами для последующего чтения, появятся здесь.">
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
-<!ENTITY home_move_up_to_filter "Назад в &formatS;">
+<!ENTITY home_move_back_to_filter "Вернуться в &formatS;">
 <!ENTITY home_remote_tabs_title "Облачные вкладки">
 <!ENTITY home_remote_tabs_empty "Ваши вкладки с других устройств появятся здесь.">
 <!ENTITY home_remote_tabs_unable_to_connect "Попытка соединения не удалась">
