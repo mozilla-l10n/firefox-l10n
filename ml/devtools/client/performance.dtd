@@ -109,6 +109,10 @@
 
 <!ENTITY performanceUI.showPlatformData             "ജക്കോ പ്ലാറ്റ്ഫോം ഡേറ്റാ കാണിയ്ക്കുക">
 <!ENTITY performanceUI.showPlatformData.tooltiptext "പ്ലാറ്റ്ഫോം ഡാറ്റ കാണിക്കുന്നത് ജാവസ്ക്രിപ്റ്റ് പ്രൊഫൈലര്‍ അറിയിപ്പുകളില്‍ ഗെക്കോ പ്ലാറ്റ്ഫോം ചിഹ്നങ്ങള്‍ ഉള്‍പ്പെടുത്തുന്നു.">
+<!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
+  -  is displayed next to a checkbox determining whether or not JIT optimization data
+  -  should be displayed. -->
+
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
@@ -133,16 +137,6 @@
 
 <!ENTITY performanceUI.enableFramerate             "ഫ്രെയിം റേറ്റ് റിക്കോര്‍ഡ് ചെയ്യുക">
 <!ENTITY performanceUI.enableFramerate.tooltiptext "പ്രൊഫൈല്‍ ചെയ്യുമ്പോള്‍ ഫ്രെയിം റേറ്റ് റിക്കോര്‍ഡ് ചെയ്യുക.">
-<!-- LOCALIZATION NOTE (performanceUI.enableJITOptimizations): This string
-  -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be recorded. -->
-
-<!ENTITY performanceUI.enableJITOptimizations             "ജെ ഐ ടി ഒപ്റ്റിമൈസേഷന്‍ റെക്കോര്‍ഡ്‌ ചെയ്യുക">
-<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "ഓരോ ജാവാസ്ക്രിപ്റ്റ് ഫ്രെയിമിലും സാമ്പിള്‍ ചെയ്യപ്പെട്ട JIT ഒപ്റ്റിമൈസേഷന്‍ ഡാറ്റ സൂക്ഷിക്കുക">
-<!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
-  -  is displayed as the title of the JIT Optimizations panel. -->
-
-<!ENTITY performanceUI.JITOptimizationsTitle "ജെ ഐ ടി ഒപ്റ്റിമൈസേഷനുകള്‍">
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->

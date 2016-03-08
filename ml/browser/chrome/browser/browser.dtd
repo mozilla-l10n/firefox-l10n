@@ -163,11 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ഈ വീഡിയോ പങ്കിടുക">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "അംഗമാകുക">
-<!ENTITY subscribeToPageMenupopup.label "ഈ താളില്‍ അംഗമാകുക">
+
+
 <!ENTITY subscribeToPageMenuitem.label "ഈ താളില്‍ അംഗമാകുക...">
 <!ENTITY addCurPagesCmd.label "എല്ലാ റ്റാബുകളും അടയാളപ്പെടുത്തുക...">
 <!ENTITY showAllBookmarks2.label "എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക">
+
 <!ENTITY unsortedBookmarksCmd.label "ക്രമത്തിലല്ലാത്ത അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarksToolbarChevron.tooltip "കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക">
 
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY devtoolsConnect.label        "കണക്ട് ചെയ്യുക...">
 <!ENTITY devtoolsConnect.accesskey    "ക">
@@ -418,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY customizeMenu.addToToolbar.label "ടൂള്‍ബാറിലേക്ക് ചേര്‍ക്കുക">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ക">
 <!ENTITY customizeMenu.addToPanel.label "മെനുവിലേക്ക് ചേര്‍ക്കുക">
@@ -523,6 +527,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ഫ്രെയിം പുതിയ ജാലകത്തില്‍ തുറക്കുക">
 <!ENTITY openFrameCmd.accesskey       "W">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "ഈ ഫ്രെയിം മാത്രം കാണിക്കുക ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -737,7 +743,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "പൂര്‍ത്തിയായി">
-<!ENTITY editBookmark.cancel.label                   "റദ്ദാക്കുക">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "സുരക്ഷിത കണക്ഷന്‍">
@@ -771,6 +776,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "കൂടുതല്‍ അറിയുക">
 
+
+
 <!ENTITY identity.moreInfoLinkText2 "കൂടുതല്‍ വിവരങ്ങള്‍">
 
 <!ENTITY identity.permissions "ആനുകൂല്യങ്ങള്‍">
@@ -779,7 +786,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "ബ്രൌസര്‍ റ്റാബുകള്‍">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
 
 <!ENTITY syncBrand.shortName.label    "സിന്‍ക്">
 
@@ -817,7 +837,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "&brandShortName; ലേക്ക് ഒരു സേവനം ഉൾപെടുത്താൻ ക്ലിക്ക് ചെയ്യുക">
 <!ENTITY social.directory.viewmore.text "കൂടുതൽ കാണുക">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; യഥേഷ്ടമാക്കുക">
 <!ENTITY customizeMode.menuAndToolbars.header2 "കൂടുതല്‍ വിശേഷതകളും പ്രയോഗങ്ങളും">
 <!ENTITY customizeMode.menuAndToolbars.empty "കൂടുതല്‍ പ്രയോഗങ്ങള്‍ ആവശ്യമുണ്ടോ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "അനേകം ആഡ്-ഓണുകളില്‍ നിന്നും തെരഞ്ഞെടുക്കുക">
@@ -923,7 +942,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "ഡിആര്‍എമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "ഇപ്പോള്‍ വേണ്ട">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "ഇനി ചോദിക്കരുതു്">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
