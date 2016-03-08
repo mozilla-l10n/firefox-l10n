@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Suprimeix-ho tot excepte els últims">
 <!ENTITY retentionKeepRecent.accesskey "x">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Suprimeix sempre els missatges llegits (sobreescriu els paràmetres d'antiguitat)">
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre els missatges destacats">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
