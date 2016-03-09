@@ -74,7 +74,7 @@
 <!ENTITY  securityView.identity.verifier "Jikib'an ruma:">
 
 <!ENTITY  securityView.privacy.header                   "Ichinanem chuqa' k'ulwachinel">
-<!ENTITY  securityView.privacy.history                  "¿Xintz'ët yan re jun ruxaq k'amaya'l re'?">
+<!ENTITY  securityView.privacy.history                  "¿La nintz'ët chik re jun ruxaq k'amaya'l re'?">
 <!ENTITY  securityView.privacy.cookies                  "&amp;FTP Proxy:">
 <!ENTITY  securityView.privacy.viewCookies              "Ketz'et taq kuki">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
