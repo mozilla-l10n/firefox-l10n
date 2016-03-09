@@ -32,8 +32,8 @@
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_label "Tabella permessi">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
-<!ENTITY runtimeMenu_takeScreenshot_label "Screenshot">
-<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_takeScreenshot_label "Cattura schermata">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "s">
 <!ENTITY runtimeMenu_showDetails_label "Informazioni runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "n">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
