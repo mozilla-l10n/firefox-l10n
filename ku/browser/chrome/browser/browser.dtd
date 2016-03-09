@@ -296,8 +296,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Darikê Amûran yê pêşvebirê bigire">
-<!ENTITY devToolbarMenu.label              "Darikê Amûran yê pêşvebirê">
-<!ENTITY devToolbarMenu.accesskey          "ê">
+<!ENTITY devToolbarMenu.label              "Darikê Amûran yê pêşvebiran">
+<!ENTITY devToolbarMenu.accesskey          "r">
 
 
 
@@ -671,7 +671,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Derkeve"> 
 <!ENTITY quitApplicationCmd.accesskey   "k">
-
+<!ENTITY quitApplicationCmdMac2.label   "Ji &brandShorterName;ê derkeve">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
