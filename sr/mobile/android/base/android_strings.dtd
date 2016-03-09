@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Приказује резултате из ваших забелекши и историјата када претражујете.">
 <!ENTITY firstrun_data_title "Подаци">
 <!ENTITY firstrun_data_message "Мање података, више штедње">
-<!ENTITY firstrun_data_subtext "Блокирајте слике да потрошите мање података на сваком сајту који посећујете.">
+<!ENTITY firstrun_data_subtext2 "Искључите приказивање слика да потрошите мање података на сваком сајту који посећујете.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, увек уз вас">
 <!ENTITY firstrun_sync_subtext "Синхронизујте језичке, лозинке и још много тога.">
@@ -229,6 +229,8 @@
 <!ENTITY pref_tap_to_load_images_enabled "Увек">
 <!ENTITY pref_tap_to_load_images_data "Само преко Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Блокирано">
+
+<!ENTITY pref_show_web_fonts "Прикажи веб фонтове">
 
 <!ENTITY pref_tracking_protection_title "Заштита од праћења">
 <!ENTITY pref_tracking_protection_summary3 "Омогућена у приватном прегледању">
@@ -469,8 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Режим целог екрана">
 <!ENTITY pref_scroll_title_bar_summary2 "Сакриј &brandShortName; алатну траку док се крећем низ страницу">
 
-<!ENTITY pref_tab_queue_title2 "Отвори више веза">
-<!ENTITY pref_tab_queue_summary3 "Снимите их док следећи пут не отворите &brandShortName;">
+<!ENTITY pref_tab_queue_title3 "Ред језичака">
+<!ENTITY pref_tab_queue_summary4 "Снимите везе док следећи пут не отворите &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -548,9 +550,9 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Садржај за овај панел није пронађен.">
 
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_up_to_filter "Назад до &formatS;">
+<!ENTITY home_move_back_to_filter "Назад до &formatS;">
 
 <!ENTITY home_remote_tabs_title "Синхронизовани језичци">
 <!ENTITY home_remote_tabs_empty "Ваши језичци са других уређаја су приказани овде.">
@@ -648,8 +650,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "&formatS1; претрага за &formatS2;">
 
-<!ENTITY webapp_generic_name "Апликација">
-
 <!ENTITY searchable_description "Забелешке и историја">
 
  <!-- Updater notifications -->
@@ -718,11 +718,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Последња синхронизација: никада">
 
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-<!ENTITY find_matchcase "Aa">
-
 <!ENTITY intent_uri_cannot_open "Не могу отворити везу">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -779,5 +774,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Жао нам је! &brandShortName; неће радити на овом уређају (&formatS1;, &formatS2;). Инстралирајте исправну верзију.">
 
-<!ENTITY eol_notification_title "&brandShortName; више не подржава Android 3">
+<!ENTITY eol_notification_title2 "&brandShortName; се више неће ажурирати">
 <!ENTITY eol_notification_summary "Притисните да сазнате више">
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; је актуелан">
+<!ENTITY whatsnew_notification_summary "Сазнајте шта је ново у овој верзији">
