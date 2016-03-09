@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "Напусти ову страницу!">
 <!ENTITY safeb.palm.decline.label "Занемари ово упозорење">
-<!ENTITY safeb.palm.notforgery.label2 "Ово није веб фалсификат…">
 <!ENTITY safeb.palm.reportPage.label "Зашто је ова страница блокирана?">
 <!ENTITY safeb.palm.whyForbidden.label "Зашто је ова страница блокирана?">
 
@@ -13,9 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Страница <span id='malware_sitename'/> је пријављена као злонамерна, па је блокирана на основу безбедносних подешавања.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Злонамерне странице обично инсталирају програме који краду приватне информације, користе ваш рачунар да за нападе на друге или оштећују систем.</p><p>Неки напади намерно шире штетан софтвер, али многи су угрожени без знања или дозволе њихових власника.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Могућ веб фалсификат!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Уношење Ваших личних информација на овој страници може довести до крађе индентитета и других превара.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ово су типови веб фалсификата који се користе за преваре као што су phishing напади, где лажне веб странице и е-поште имитирају изворе којима верујете.</p>">
+<!ENTITY safeb.blocked.phishingPage.title3 "Обманљив сајт!">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Сајт на адреси <span id='phishing_sitename'/> је пријављен као обманљив сајт и блокиран је на основу сигурносних подешавања.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Обманљиви сајтови су направљени да вас преваре да урадите нешто опасно, као инсталирање софтвера, откривање ваших личних информација као што су лозинке, број телефона или број кредитне картице.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Пријављени нежељени сајт софтвера!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

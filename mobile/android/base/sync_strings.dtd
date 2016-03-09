@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Повежи се на &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Додај &syncBrand.fullName.label; налог'>
-<!ENTITY sync.title.pair.label 'Упари уређај'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Да активирате нови уређај, изаберите “Подеси &syncBrand.shortName.label;” на уређају.'>
-<!ENTITY sync.subtitle.header2.label 'Унесите код на другом уређају'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Изаберите “&sync.title.pair.label;” у &syncBrand.shortName.label; секцији Firefox поставки другог уређаја.'>
 <!ENTITY sync.subtitle.pair.label 'Да активирате, изаберите “Упари уређај” на другом уређају.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Покажи ми како.'>
-<!ENTITY sync.link.advancedsetup.label 'Напредна подешавања…'>
 <!ENTITY sync.link.nodevice.label 'Немам уређај са мном…'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Чекам на други уређај…'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Унесите информације &syncBrand.fullName.label; налога'>
-<!ENTITY sync.input.username.label 'Име налога'>
-<!ENTITY sync.input.password.label 'Лозинка'>
-<!ENTITY sync.input.key.label 'Кључ за опоравак'>
-<!ENTITY sync.checkbox.server.label 'Користи произвољан сервер'>
-<!ENTITY sync.input.server.label 'URL сервера'>
-  
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Не могу подесити &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; не може да се повеже са сервером. Желите ли да покушате поново?'>
-<!ENTITY sync.button.tryagain.label 'Покушај поново'>
-<!ENTITY sync.button.manual.label 'Ручно подешавање'>
-<!ENTITY sync.subtitle.nointernet.label 'Интернет веза није доступна.'>
-<!ENTITY sync.subtitle.failaccount.label 'Прављење рачуна на уређају није успело.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Да ли имате више од једног Firefox-а инсталирано? Тренутно, &syncBrand.fullName.label; подржава само једну Firefox инсталацију. Деинсталирајте други &syncBrand.shortName.label;.'>
-  
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Подешавање завршено'>
-<!ENTITY sync.subtitle.success.label1 'Подаци се сада преузимају у позадини. Можете да одете на Поставке да управљате налогом или да почнете да прегледавате са &brandShortName;.'>
-<!ENTITY sync.settings.label 'Поставке'>
-<!ENTITY sync.subtitle.manage.label1 'Ваш &syncBrand.fullName.label; налог је већ подешен. Можете да одете на Поставке да управљате налогом или да покренете &brandShortName;.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Покушајте поново.'>
-<!ENTITY sync.pair.connectlocation.label 'Да активирате нови уређај, изаберите “Подеси &syncBrand.shortName.label;” на уређају, и затим изаберите “Имам налог.”'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Опције'>
-<!ENTITY sync.summary.pair.label 'Повежите други уређај на &syncBrand.shortName.label; налог'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Шта да синхронизујем'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Синхронизуј моје…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Забелешке'>
 <!ENTITY sync.configure.engines.title.passwords2 'Пријаве'>
 <!ENTITY sync.configure.engines.title.history 'Историју'>
 <!ENTITY sync.configure.engines.title.tabs 'Језичке'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Откажи'>
-<!ENTITY sync.button.connect.label 'Повежи'>
-<!ENTITY sync.button.ok.label 'У реду'>
-
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (застарело)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -93,20 +40,7 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Закачен'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Само је један &syncBrand.fullName.label; налог подржан.'>
-<!ENTITY sync.notification.configure.saved 'Ваши одабири су снимљени.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Нетачно име налога или лозинка.'>
-<!ENTITY sync.invalidserver.label 'Унесите валидан URL сервера'>
-<!ENTITY sync.verifying.label 'Потврђујем…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Кључ за опоравак је неисправан. Покушајте поново касније.'>
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Пошаљи језичак на уређаје'>
-<!ENTITY sync.button.send.label 'Пошаљи'>
-<!ENTITY sync.button.set.up.sync.label 'Подеси &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Подесите &syncBrand.shortName.label; да бисте слали језичке'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Подесите &syncBrand.fullName.label; на Вашем уређају да бисте слали језичке на друге уређаје.'>
 <!ENTITY sync.text.tab.sent.label 'Ваш језичак је послат!'>
