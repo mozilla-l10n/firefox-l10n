@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Derbyn canlyniadau o\u0027ch nodau tudalen a hanes wrth i chi chwilio.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Llai o ddata, mwy o arbedion">
-
+<!ENTITY firstrun_data_subtext2 "Diffoddwch ddelweddau a gwario llai ar ddata pob gwefan fyddwch yn mynd iddyn nhw.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, bob tro o\u0027ch plaid chi.">
 <!ENTITY firstrun_sync_subtext "Cydweddu eich tabiau, cyfrineiriau a rhagor ym mhob man fyddwch yn ei ddefnyddio.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Dim ond dros diwifr">
 <!ENTITY pref_tap_to_load_images_disabled2 "Wedi Rhwystro">
 
+<!ENTITY pref_show_web_fonts "Dangos ffontiau gwe">
 
 <!ENTITY pref_tracking_protection_title "Diogelwch rhag tracio">
 <!ENTITY pref_tracking_protection_summary3 "Wedi ei Alluogi yn Pori Preifat">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Pori sgrin lawn">
 <!ENTITY pref_scroll_title_bar_summary2 "Cuddio bar teitl &brandShortName; wrth sgrolio lawr tudalen">
 
-
+<!ENTITY pref_tab_queue_title3 "Ciw Tabiau">
+<!ENTITY pref_tab_queue_summary4 "Cadw dolenni tan y tro nesaf i chi agor &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "Methu canfod cynnwys ar gyfer y panel hwn.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Nôl i &formatS;">
 
 <!ENTITY home_remote_tabs_title "Tabiau wedi eu Cydweddu">
 <!ENTITY home_remote_tabs_empty "Mae eich tabiau o ddyfeisiau eraill yn ymddangos yma.">
@@ -770,7 +774,10 @@ o Android">
 
 <!ENTITY unsupported_sdk_version "Ymddiheuriadau! Fydd &brandShortName; ddim yn gweithio ar y ddyfais hon (&formatS1;, &formatS2;). Llwythwch y fersiwn cywir i lawr.">
 
+<!ENTITY eol_notification_title2 "Ni fydd &brandShortName; bellach yn diweddaru">
 <!ENTITY eol_notification_summary "Tapiwch i ddysgu rhagor">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "Mae &brandShortName; yn gyfredol">
+<!ENTITY whatsnew_notification_summary "Beth sy\u0027n newydd yn y fersiwn yma">

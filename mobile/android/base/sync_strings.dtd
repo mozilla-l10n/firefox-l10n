@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-bost">
-
+<!ENTITY fxaccount_password_hint "Cyfrinair">
 <!ENTITY fxaccount_password_hide "Cuddio">
 <!ENTITY fxaccount_password_show "Dangos">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Gosodiadau Android “Awto-gydweddu data” &gt; Defnydd Data.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Toglwch “Awto-gydweddu data” yn newislen Android Settings &gt; Accounts.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapiwch i fewngofnodi i\u0027ch Cyfrif Firefox newydd.">
-
+<!ENTITY fxaccount_status_bookmarks "Nodau Tudalen">
 <!ENTITY fxaccount_status_history "Hanes">
 <!ENTITY fxaccount_status_passwords2 "Mewngofnodion">
 <!ENTITY fxaccount_status_tabs "Agor tabiau">
