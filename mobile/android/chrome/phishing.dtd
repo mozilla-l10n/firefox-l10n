@@ -12,8 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Situs web di <span id='malware_sitename'/> telah dilaporkan sebagai situs penyerang dan telah diblokir berdasarkan pengaturan keamanan Anda.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Situs penyerang mencoba memasang program yang dapat mencuri informasi pribadi, menggunakan komputer untuk menyerang komputer lain, atau merusak sistem.</p> <p>Beberapa situs penyerang secara sengaja mendistribusikan perangkat lunak perusak dan banyak komputer telah terserang tanpa diketahui atau diizinkan pemiliknya.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Situs Tipuan!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Laman web di <span id='phishing_sitename'/> telah dilaporkan sebagai situs tipuan dan telah diblokir berdasarkan pengaturan keamanan Anda.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Situs tipuan dirancang untuk mengelabui Anda agar melakukan hal berbahaya seperti memasang program, atau mengungkapkan informasi pribadi seperti kata sandi, nomor telepon, atau kartu kredit.</p><p>Memasukan informasi di laman web tersebut mungkin bisa menyebabkan pencurian identitas atau penipuan lainnya.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Telah Dilaporkan Sebagai Situs Perangkat Lunak yang Tidak Diinginkan!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
