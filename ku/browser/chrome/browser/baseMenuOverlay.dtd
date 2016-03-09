@@ -16,8 +16,8 @@
 <!ENTITY helpMenuWin.accesskey    "A">
 
 
-
-
+<!ENTITY productHelp2.label       "Alîkariya &brandShorterName;ê">
+<!ENTITY productHelp2.accesskey   "A">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Kurteriyên klavyeyê">
@@ -36,13 +36,15 @@
 <!ENTITY helpFeedbackPage.label      "Ramanan Bişîne…">
 <!ENTITY helpFeedbackPage.accesskey  "R">
 
-
+<!ENTITY helpShowTour2.label            "Tura &brandShorterName;ê">
+<!ENTITY helpShowTour2.accesskey        "T">
 
 <!ENTITY preferencesCmdMac.label        "Vebijêrk">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servîs">
 
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; 'ê veşêre">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Yên Din Veşêre">
