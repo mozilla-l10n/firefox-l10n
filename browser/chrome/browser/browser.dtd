@@ -417,11 +417,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Inga öppna flikar">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Slå på fliksynkronisering för att visa en lista med flikar från dina andra enheter.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Logga in på Firefox från dina andra enheter för att visa deras flikar här.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinställningar">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Logga in för att se en lista med flikar från dina andra enheter.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logga in till Sync">
 
 
@@ -779,7 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "I">
 <!ENTITY identity.learnMore "Lär dig mer">
 
-
+<!ENTITY identity.removeCertException.label "Ta bort Undantag">
+<!ENTITY identity.removeCertException.accesskey "T">
 
 <!ENTITY identity.moreInfoLinkText2 "Mer information">
 
@@ -793,17 +796,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Synkade flikar">
 
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Synkade Flikar">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Hämta synkade Flikar…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Logga in på Firefox från dina andra enheter för att visa deras flikar här.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Logga in för att se en lista med flikar från dina andra enheter.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Inga öppna flikar">
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Slå på fliksynkronisering för att visa en lista med flikar från dina andra enheter.">
 
 
-
-
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Bokmärk denna flik…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
