@@ -425,7 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinställningar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logga in för att se en lista med flikar från dina andra enheter.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logga in till Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Visa sidofält Synkade flikar">
 
 <!ENTITY customizeMenu.addToToolbar.label "Lägg till i verktygsfält">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
@@ -532,8 +532,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "n">
 <!ENTITY openFrameCmd.label           "Öppna ram i nytt fönster">
 <!ENTITY openFrameCmd.accesskey       "Ö">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Öppna länk i Ny innehållsflik">
+<!ENTITY openLinkCmdInContainerTab.accesskey "n">
 <!ENTITY showOnlyThisFrameCmd.label     "Visa endast denna ram">
 <!ENTITY showOnlyThisFrameCmd.accesskey "e">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -801,12 +801,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.label    "Logga in på Firefox från dina andra enheter för att visa deras flikar här.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logga in för att se en lista med flikar från dina andra enheter.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Inga öppna flikar">
-
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Öppna inställningar för &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Slå på fliksynkronisering för att visa en lista med flikar från dina andra enheter.">
 
-
+<!ENTITY syncedTabs.context.openTab.label                   "Öppna den här fliken">
+<!ENTITY syncedTabs.context.openTab.accesskey               "d">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Bokmärk denna flik…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
 
