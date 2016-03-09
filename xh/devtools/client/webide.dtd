@@ -155,7 +155,7 @@
 <!ENTITY devicesetting_search "Khangela iisetingi">
 <!ENTITY devicesetting_newname "Igama lesetingi entsha">
 
-
+<!ENTITY devicesetting_addnew "Yongeza isetingi entsha">
 <!-- Monitor -->
 <!ENTITY monitor_help "Uncedo">
 <!-- WiFi Authentication -->
