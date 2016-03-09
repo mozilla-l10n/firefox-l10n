@@ -80,12 +80,7 @@ di dema şandina agahiyan de qut bû. Ji kerema xwe re dîsa biceribîne.</p>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Pêşkêşkara Proxyê Nayê Dîtin">
-<!ENTITY proxyResolveFailure.longDesc "<p>Gerok wekî ku proxyekê bi kar bîne hatiye mîhenkirin, lê proxyê nehat dîtin.</p> 
-<ul> 
-<li>Mîhengên proxya gerokê rast in? Mîhengan kontrol bike û dîsa biceribîne.</li> 
-<li>Gelo komputer bi toreke çalak ve girêdayî ye?</li> 
-<li>Hê jî pirsgirêk heye? Ji bo alîkariyê serî li rêvebira xwe ya torê an jî peydekara xwe ya Internetê bide.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Gerok wekî ku proxyekê bi kar bîne hatiye mîhenkirin, lê proxyê nehat dîtin.</p><ul><li>Mîhengên proxya gerokê rast in? Mîhengan kontrol bike û dîsa biceribîne.</li><li>Gelo komputer bi toreke çalak ve girêdayî ye?</li><li>Hê jî pirsgirêk heye? Ji bo alîkariyê serî li rêvebira xwe ya torê an jî peydekara xwe ya Internetê bide.</li></ul>">
 
 <!ENTITY redirectLoop.title "Girêdana Nerasterast">
 <!ENTITY redirectLoop.longDesc "<p>Gerokê ceribandina şûnde anîna parçeyê sekinand. Girêdana malperê 
