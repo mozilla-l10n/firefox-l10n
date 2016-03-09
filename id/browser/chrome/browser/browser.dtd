@@ -425,7 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Pengaturan Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Masuk untuk melihat daftar tab dari perangkat lainnya.">
 <!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Tampilkan Bilah Samping Tab yang Disinkronkan ">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tambahkan ke Bilah Alat">
 <!ENTITY customizeMenu.addToToolbar.accesskey "T">
@@ -532,8 +532,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "g">
 <!ENTITY openFrameCmd.label           "Buka Bingkai di Jendela Baru">
 <!ENTITY openFrameCmd.accesskey       "i">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Buka Tab dalam Tab Kontainer Baru">
+<!ENTITY openLinkCmdInContainerTab.accesskey "K">
 <!ENTITY showOnlyThisFrameCmd.label     "Hanya Tampilkan Bingkai yang Ini">
 <!ENTITY showOnlyThisFrameCmd.accesskey "n">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -781,7 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "N">
 <!ENTITY identity.learnMore "Pelajari Lebih Lanjut">
 
-
+<!ENTITY identity.removeCertException.label "Buang Pengecualian">
+<!ENTITY identity.removeCertException.accesskey "B">
 
 <!ENTITY identity.moreInfoLinkText2 "Informasi Lebih Lanjut">
 
