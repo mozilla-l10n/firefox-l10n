@@ -143,7 +143,6 @@
 <!ENTITY urlbar.indexedDBNotificationAnchor.label "Visualizza il messaggio relativo all’archiviazione non in linea per le app">
 <!ENTITY urlbar.loginFillNotificationAnchor.label "Gestisci le informazioni di accesso">
 <!ENTITY urlbar.passwordNotificationAnchor.label "Decidi se salvare la password">
-<!ENTITY urlbar.webappsNotificationAnchor.label "Visualizza il messaggio di installazione app">
 <!ENTITY urlbar.pluginsNotificationAnchor.label "Gestisci l’utilizzo dei plugin in questa pagina">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label "Decidi se ricevere notifiche da questo sito">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Gestisci la condivisione di fotocamera e/o microfono con il sito">
