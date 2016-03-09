@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ategion Galluogwyd">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Ffurfweddiad Adeiladu">
 <!ENTITY aboutSupport.appBasicsUserAgent "Asiant Defnyddiwr">
-
+<!ENTITY aboutSupport.appBasicsOS "SW">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Defnydd o'r cof">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
