@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Dapatkan hasil dari markah dan riwayat Anda saat mencari.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Lebih sedikit data, lebih banyak hematnya">
-
+<!ENTITY firstrun_data_subtext2 "Nonaktifkan gambar untuk menghemat kuota data di setiap situs yang Anda buka.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, selalu hadir untuk Anda">
 <!ENTITY firstrun_sync_subtext "Sinkronkan tab, sandi, dan yang lain di mana saja Anda menggunakannya.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Hanya lewat Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Terblokir">
 
+<!ENTITY pref_show_web_fonts "Tampilkan font web">
 
 <!ENTITY pref_tracking_protection_title "Perlindungan pelacakan">
 <!ENTITY pref_tracking_protection_summary3 "Aktifkan di Penjelajahan Pribadi">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Penjelajahan layar penuh">
 <!ENTITY pref_scroll_title_bar_summary2 "Sembunyikan bilah judul &brandShortName; saat menggulir laman ke bawah">
 
-
+<!ENTITY pref_tab_queue_title3 "Tab antrian">
+<!ENTITY pref_tab_queue_summary4 "Simpan tautan hingga nanti Anda membuka &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "Tidak ada konten yang ditemukan untuk panel ini.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Kembali ke &formatS;">
 
 <!ENTITY home_remote_tabs_title "Tab yang Disinkronkan">
 <!ENTITY home_remote_tabs_empty "Tab dari perangkat Anda lainnya akan tampil di sini.">
@@ -770,7 +774,10 @@ dari Android">
 
 <!ENTITY unsupported_sdk_version "Maaf! &brandShortName; versi ini tidak akan berfungsi pada perangkat (&formatS1;, &formatS2;). Unduh versi yang benar.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; tidak lagi akan diperbarui">
 <!ENTITY eol_notification_summary "Ketuk untuk mempelajari lebih lanjut">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; sudah dalam versi terbaru">
+<!ENTITY whatsnew_notification_summary "Lihat apa yang baru pada versi ini">

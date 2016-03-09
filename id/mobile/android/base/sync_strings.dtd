@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Email">
-
+<!ENTITY fxaccount_password_hint "Sandi">
 <!ENTITY fxaccount_password_hide "Sembunyikan">
 <!ENTITY fxaccount_password_show "Tampilkan">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Aktifkan “Sinkronisasi data otomatis” pada Setelan Android &gt; Penggunaan Data.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Aktifkan “Sinkronisasi data otomatis” pada Setelan Android &gt; Akun.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Ketuk untuk masuk ke Firefox Account baru Anda.">
-
+<!ENTITY fxaccount_status_bookmarks "Markah">
 <!ENTITY fxaccount_status_history "Riwayat">
 <!ENTITY fxaccount_status_passwords2 "Info masuk">
 <!ENTITY fxaccount_status_tabs "Tab terbuka">
