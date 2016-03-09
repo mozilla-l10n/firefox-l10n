@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Endast via Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blockerad">
 
+<!ENTITY pref_show_web_fonts "Visa webbfonter">
 
 <!ENTITY pref_tracking_protection_title "Spårnings skydd">
 <!ENTITY pref_tracking_protection_summary3 "Påslaget i privat surfning">
