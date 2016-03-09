@@ -23,7 +23,7 @@
 
 <!ENTITY certmgr.certdetail.title             "Rub'anikil ruwujil b'i'aj">
 
-
+<!ENTITY certmgr.certdetail.o                 "Moloj (MO)">
 
 
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 Retal ruwi' q'ab'aj">
