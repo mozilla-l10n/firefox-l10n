@@ -170,8 +170,8 @@
 <!ENTITY event.categories.textbox.label                   "Adaugă o categorie nouă" >
 <!ENTITY event.calendar.label                             "Calendar:" >
 <!ENTITY event.calendar.accesskey                         "C">
-
-
+<!ENTITY event.attendees.label                            "Participanți:" >
+<!ENTITY event.attendees.accesskey                        "n">
 <!ENTITY event.alldayevent.label                          "Evenimentul durează toată ziua" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 
@@ -179,14 +179,14 @@
 
 
 
-
+<!ENTITY event.to.accesskey                               "u">
 <!ENTITY task.to.label                                    "Dată de sfârșit:" >
 <!ENTITY task.to.accesskey                                "D">
 <!ENTITY task.status.label                                "Stare:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Repetare:" >
 <!ENTITY event.repeat.accesskey                           "R">
-
+<!ENTITY event.until.label                                "Până la:">
 <!ENTITY event.until.accesskey                            "B">
 <!ENTITY event.reminder.label                             "Memento:" >
 <!ENTITY event.reminder.accesskey                         "M">
@@ -204,8 +204,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "D" >
 <!ENTITY event.attachments.popup.removeAll.label          "Elimină-le pe toate" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-
-
+<!ENTITY event.attachments.popup.attachPage.label         "Atașează o pagină web…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "p" >
 <!ENTITY event.url.label                                  "Linkul către asocieri:" >
 <!ENTITY event.priority2.label                            "Prioritate:">
 
