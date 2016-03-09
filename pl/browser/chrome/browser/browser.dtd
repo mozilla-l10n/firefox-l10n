@@ -709,8 +709,6 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY syncedTabs.context.openTab.accesskey "O">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label "Dodaj zakładkę do karty…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "D">
-<!ENTITY syncedTabs.context.refreshList.label "Odśwież listę">
-<!ENTITY syncedTabs.context.refreshList.accesskey "l">
 
 <!ENTITY syncBrand.shortName.label "Firefox Sync">
 <!ENTITY syncSignIn.label "Zaloguj się do &syncBrand.shortName.label;…">
