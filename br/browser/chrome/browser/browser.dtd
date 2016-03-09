@@ -804,10 +804,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Digeriñ gwellvezioù &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Gweredekait goubredañ an ivinelloù evit gwelout ur roll ivinelloù eus ho trevnadoù all.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Digeriñ an ivinell-mañ">
+<!ENTITY syncedTabs.context.openTab.accesskey               "D">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Lakaat ur sined war an ivinell-mañ…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "L">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
