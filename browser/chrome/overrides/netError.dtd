@@ -160,27 +160,6 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Могући злонамеран сајт!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Злонамерни сајтови покушавају да украду личне податке, искористе рачунар за нападе на други, или нанесу штету рачунару.</p>
-<p>Власници веб сајтова који сматрају да су њихови сајтови грешком пријављени као злонамерни могу <a href='http://www.stopbadware.org/home/reviewinfo' >да траже преиспитивање</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "Осумњичени нежељени сајт софтвера!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Нежељене странице софтвера покушавају да инсталирају софтвер који може да вас превари и да утиче на систем на неочекиване начине.</p>
-">
-
-<!ENTITY phishingBlocked.title "Могући веб фалсификат!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Уношење ма каквих личних података на овој страници може да буде узрок крађе идентитета или друге врсте преваре.</p> 
-<p>Ова врста веб фалсификата користи се у преварама познатим под именом „фишинг‟, при којима се злонамерне веб странице или е-поште користе да имитирају изворе којима верујете.</p>
-">
-
-<!ENTITY forbiddenBlocked.title "Забрањен сајт">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице јер је конфигурисан да је блокира.</p>
-">
-
 <!ENTITY cspBlocked.title "Блокирано због полисе о безбедности садржаја">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин јер садржи полису о безбедности садржаја која то онемогућава.</p>">
 
@@ -206,9 +185,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Аутоматски пријавите грешке да бисте помогли Mozilla-и да идентификује и блокира злонамере сајтове">
 <!ENTITY errorReporting.learnMore "Сазнајте више…">
-<!ENTITY errorReporting.sending "Шаљем пријаву">
-<!ENTITY errorReporting.sent "Пријава је послата">
-<!ENTITY errorReporting.tryAgain "Покушај поново">
 
 <!ENTITY remoteXUL.title "Удаљени XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Обавестите власнике веб сајта о овом проблему.</li></ul></p>">
