@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncKey.page.title               "A sua chave &syncBrand.fullName.label;">
-<!ENTITY syncKey.page.description         "Esta chave é usada para decifrar a sua informação na conta &syncBrand.fullName.label;. Irá precisar de inserir a chave sempre que configurar o &syncBrand.fullName.label; num novo computador ou dispositivo.">
+<!ENTITY syncKey.page.description         "Esta chave é usada para descodificar a sua informação na conta &syncBrand.fullName.label;. Irá precisar de inserir a chave sempre que configurar o &syncBrand.fullName.label; num novo computador ou dispositivo.">
 <!ENTITY syncKey.keepItSecret.heading     "Mantenha-a em segredo">
-<!ENTITY syncKey.keepItSecret.description "A sua conta &syncBrand.fullName.label; está cifrada para proteger a sua privacidade. Sem esta chave, demoraria anos até alguém ser capaz de ler a sua informação pessoal. Você é a única pessoa que tem esta chave. Isso quer dizer que é a única pessoa que pode aceder à sua informação no &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSecret.description "A sua conta &syncBrand.fullName.label; está encriptada para proteger a sua privacidade. Sem esta chave, demoraria anos até alguém ser capaz de ler a sua informação pessoal. Você é a única pessoa que tem esta chave. Isso quer dizer que é a única pessoa que pode aceder à sua informação no &syncBrand.fullName.label;.">
 <!ENTITY syncKey.keepItSafe.heading       "Mantenha-a segura">
 <!ENTITY syncKey.keepItSafe1.description  "Não perca esta chave.">
 <!ENTITY syncKey.keepItSafe2.description  " Nós não mantemos uma cópia da sua chave (isso não seria mantê-la secreta!) portanto ">
