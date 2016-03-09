@@ -8,12 +8,7 @@
 
 
 <!ENTITY connectionFailure.title "Girêdan Bi Ser Neket">
-<!ENTITY connectionFailure.longDesc "<p>Her çiqas malper çalak xuya dibe jî gerok nikare girêdanekê çêke.</p> 
-<ul> 
-<li>Gelo weşana malperê ji bo demekê hatiye rawestandin? Dû re dîsa biceribîne.</li> 
-<li>Dikarî wan malperên din vekî? Girêdana torê ya komputera xwe kontrol bike.</li> 
-<li>Komputer an jî nivîsbariya te ji hêla Firewall an jî proxyekê ve tê parastin? Mîhengên çewt dikarin pirsgirêkan derxin pêşberî gerokê.</li> 
-</ul>">
+<!ENTITY connectionFailure.longDesc "<p>Her çiqas malper çalak xuya dibe jî gerok nikare girêdanekê çêke.</p><ul><li>Gelo weşana malperê ji bo demekê hatiye rawestandin? Dû re dîsa biceribîne.</li><li>Dikarî wan malperên din vekî? Girêdana torê ya komputera xwe kontrol bike.</li><li>Komputer an jî nivîsbariya te ji hêla Firewall an jî proxyekê ve tê parastin? Mîhengên çewt dikarin pirsgirêkan derxin pêşberî gerokê.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Portê Ji Ber Sedemên Ewlekariyê Asteng Kir">
 <!ENTITY deniedPortAccess.longDesc "<p>Navnîşana ku dixwazî vekî portekê destnîşan kir (e.g. <q>mozilla.org:80</q> port 80 li ser mozilla.org) ji 
@@ -30,11 +25,7 @@ armancên <em>din</em> pirtir ji bo gerîna di webê de hatiye bikaranîn. Ji bo
 </ul>">
 
 <!ENTITY fileNotFound.title "Pel Nehat Dîtin">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Dibe ku navê wê hatine guherandin, an jî hatibe jêbirin an jî cihê wê hatibe guherandin?</li> 
-<li>Dibe ku di navnîşanê de çewtiya rastnivîsê an jî çewtiyên bi vî rengî hebin?</li> 
-<li>Peywira te têra vekirina wê dike?</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Dibe ku navê wê hatine guherandin, an jî hatibe jêbirin an jî cihê wê hatibe guherandin?</li><li>Dibe ku di navnîşanê de çewtiya rastnivîsê an jî çewtiyên bi vî rengî hebin?</li><li>Peywira te têra vekirina wê dike?</li></ul>">
 
 <!ENTITY generic.title "Daxwaz Nayê Qedandin">
 <!ENTITY generic.longDesc "<p>Agahiyên din ên derbarê vê pirsgirêkê de hê tunin.</p>">
@@ -116,7 +107,6 @@ nikare bidomîne.</p>">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Dibe ku ev çewtî ji ber mîhengên pêşkêşkar be an jî hin kes dikin ku pêşkêşkarê taklît bikin.</li> 
 <li>Heke  di demên borî de te bi awayekî serkeftî bi vê pêşkêşkarê re girêdan çêkiribe, dibe ku ev çewtî demdemî bin û tu dikarî dû re dîsa biceribînî.</li> 
-<li>Bi mîhengên pêşkeftî ên nasnavkirinê tu dikarî lîsteya rast a pêşkêşkaran bibînî û biguherînî.</li> 
 </ul>">
 
 

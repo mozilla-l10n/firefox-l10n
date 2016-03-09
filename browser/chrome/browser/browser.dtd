@@ -605,7 +605,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate.label     "Leza lêdanê">
 <!ENTITY mediaPlaybackRate.accesskey "d">
 <!ENTITY mediaPlaybackRate050x.label "Tevgeriyana hêdî (0,5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
+<!ENTITY mediaPlaybackRate050x.accesskey "T">
 <!ENTITY mediaPlaybackRate100x.label "Leza asayî">
 <!ENTITY mediaPlaybackRate100x.accesskey "a">
 <!ENTITY mediaPlaybackRate150x.label "Leza bilind (1.5×)">
@@ -632,7 +632,7 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Îstatîstîkan nîşan bide">
 <!ENTITY videoShowStats.accesskey    "s">
 <!ENTITY videoHideStats.label        "Îstatîstîkan veşêre">
-<!ENTITY videoHideStats.accesskey    "ş">
+<!ENTITY videoHideStats.accesskey    "a">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -666,7 +666,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Derkeve">
 <!ENTITY quitApplicationCmdWin2.accesskey   "k">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "Ji &brandShorterName;ê derkeve">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Derkeve"> 
