@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Eyða öllu nema nýjustu">
 <!ENTITY retentionKeepRecent.accesskey "E">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Alltaf eyða lesnum bréfum (hunsa aldursstillingar)">
 <!ENTITY retentionApplyToFlagged.label "Alltaf geyma stjörnumerktan póst">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "Fjarlægja meginmál úr bréfum eldri en">
