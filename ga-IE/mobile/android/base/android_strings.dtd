@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Gheobhaidh tú torthaí ó do leabharmharcanna agus stair agus tú ag cuardach.">
 <!ENTITY firstrun_data_title "Sonraí">
 <!ENTITY firstrun_data_message "Níos lú sonraí, níos mó sábháilte">
-
+<!ENTITY firstrun_data_subtext2 "Ná lódáil íomhánna sa chaoi nach gcaitear an oiread céanna sonraí agus tú ag tabhairt cuairte ar shuíomh.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, i gcónaí ar fáil dhuit.">
 <!ENTITY firstrun_sync_subtext "Sioncronaigh do chluaisíní, d\u0027fhocal faire, agus tuilleadh pé áit a n-úsáideann tú é.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Thar Wi-Fi amháin">
 <!ENTITY pref_tap_to_load_images_disabled2 "Coiscthe">
 
+<!ENTITY pref_show_web_fonts "Taispeáin clófhoirne Gréasáin">
 
 <!ENTITY pref_tracking_protection_title "Cosaint ar lorg">
 <!ENTITY pref_tracking_protection_summary3 "Cumasaithe i mBrabhsáil Phríobháideach">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Brabhsáil lánscáileáin">
 <!ENTITY pref_scroll_title_bar_summary2 "Folaigh barra uirlisí &brandShortName; le linn scrollaithe síos ar leathanach">
 
-
+<!ENTITY pref_tab_queue_title3 "Ciú cluaisíní">
+<!ENTITY pref_tab_queue_summary4 "Sábháil nascanna go dtí an chéad uair eile a osclóidh tú &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "Níor aimsíodh aon ábhar don phainéal seo.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Fill ar &formatS;">
 
 <!ENTITY home_remote_tabs_title "Cluaisíní Sioncrónaithe">
 <!ENTITY home_remote_tabs_empty "Taispeánfar do chuid cluaisíní ó ghléasanna eile anseo.">
@@ -770,7 +774,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version "Ár leithscéal! Ní fheidhmíonn an leagan seo de &brandShortName; ar an ngléas seo (&formatS1;, &formatS2;). Ní mór duit an leagan ceart a íosluchtú.">
 
+<!ENTITY eol_notification_title2 "Ní nuashonróidh &brandShortName; a thuilleadh">
 <!ENTITY eol_notification_summary "Tapáil anseo chun tuilleadh eolais a fháil">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "Tá &brandShortName; cothrom le dáta">
+<!ENTITY whatsnew_notification_summary "Rudaí nua sa leagan seo">

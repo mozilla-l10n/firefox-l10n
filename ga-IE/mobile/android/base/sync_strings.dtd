@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Ríomhphost">
-
+<!ENTITY fxaccount_password_hint "Focal faire">
 <!ENTITY fxaccount_password_hide "Folaigh">
 <!ENTITY fxaccount_password_show "Taispeáin">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncrónú go huathoibríoch. Scoránaigh “Auto-sync data” sna Android Settings &gt; Data Usage.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncrónú go huathoibríoch. Scoránaigh “Auto-sync data” sna Android Settings &gt; Accounts.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapáil le logáil isteach i do chuntas nua Firefox.">
-
+<!ENTITY fxaccount_status_bookmarks "Leabharmharcanna">
 <!ENTITY fxaccount_status_history "Stair">
 <!ENTITY fxaccount_status_passwords2 "Focail Fhaire">
 <!ENTITY fxaccount_status_tabs "Oscail cluaisíní">
