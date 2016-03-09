@@ -228,7 +228,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "显示图像">
 <!ENTITY pref_tap_to_load_images_enabled "总是">
 <!ENTITY pref_tap_to_load_images_data "仅通过 Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "已阻止">
+<!ENTITY pref_tap_to_load_images_disabled2 "阻止">
 
 <!ENTITY pref_show_web_fonts "显示网络字体">
 
