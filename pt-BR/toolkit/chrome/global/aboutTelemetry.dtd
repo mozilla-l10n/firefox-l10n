@@ -86,3 +86,5 @@ Raw JSON
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Carga útil">
 
+<!ENTITY aboutTelemetry.rawPayload "
+  Carga útil bruta">
