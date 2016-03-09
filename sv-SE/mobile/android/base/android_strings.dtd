@@ -11,13 +11,13 @@
 <!ENTITY  onboard_start_subtext3 "Gör den mobila webbupplevelsen verkligen din egen.">
 
 <!ENTITY firstrun_urlbar_message "Välkommen till &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Hitta saker snabbare med hjälpsamma sökförslag genvägar.">
+<!ENTITY firstrun_urlbar_subtext "Hitta saker snabbare med hjälpsamma sökförslags genvägar.">
 <!ENTITY firstrun_bookmarks_title "Historik">
 <!ENTITY firstrun_bookmarks_message "Dina favoriter, där dom är mest viktiga ">
 <!ENTITY firstrun_bookmarks_subtext "Få resultat från dina bokmärken och historik då du söker.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Mindre data, mer sparat">
-
+<!ENTITY firstrun_data_subtext2 "Stäng av bilder för att spendera mindre data på varje hemsida du besöker.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, alltid vid din sida ">
 <!ENTITY firstrun_sync_subtext "Synka dina flikar, lösenord och mer överallt där du använder dom.">
@@ -470,7 +470,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Fullskärms surfning">
 <!ENTITY pref_scroll_title_bar_summary2 "Dölj &brandShortName; verktygsfältet när du bläddrar ner en sida">
 
-
+<!ENTITY pref_tab_queue_title3 "Flik köad ">
+<!ENTITY pref_tab_queue_summary4 "Spara länkar tills nästa gång du öppnar &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +550,8 @@ size. -->
 <!ENTITY home_default_empty "Hittade inget innehåll för panelen.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Gå upp till &formatS;">
 
 <!ENTITY home_remote_tabs_title "Synkade flikar ">
 <!ENTITY home_remote_tabs_empty "Dina flikar från andra enheter visas här. ">
@@ -770,7 +773,10 @@ från Android">
 
 <!ENTITY unsupported_sdk_version "Förlåt! Denna &brandShortName; kommer inte att fungera på denna enheten (&formatS1;, &formatS2;). Snälla ladda ner korrekt version.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; kommer inte längre att uppdateras">
 <!ENTITY eol_notification_summary "Tryck för att lära dig mer">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; är redan uppdaterad">
+<!ENTITY whatsnew_notification_summary "Se vad som är nytt i den här versionen">
