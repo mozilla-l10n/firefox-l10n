@@ -795,17 +795,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Tab yang Disinkronkan">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Tab yang Disinkronkan">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Mengambil Tab yang Disinkronkan…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Masuk ke Firefox dari perangkat lainnya untuk melihat tab perangkat tersebut di sini.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Masuk untuk melihat daftar tab dari perangkat lainnya.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Tidak ada tab terbuka">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Buka preferensi &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat lainnya.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Buka Tab Ini">
+<!ENTITY syncedTabs.context.openTab.accesskey               "T">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Markahi Tab Ini…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "M">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
