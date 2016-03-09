@@ -48,8 +48,8 @@
 <!ENTITY sending_crash_report "Przesyłanie zgłoszenia\u2026">
 <!ENTITY exit_label "Zakończ">
 
-<!ENTITY launcher_shortcuts_title "&brandShortName; – Aplikacje sieciowe">
-<!ENTITY launcher_shortcuts_empty "Nie znaleziono aplikacji sieciowych">
+<!ENTITY launcher_shortcuts_title "&brandShortName; – Aplikacje internetowe">
+<!ENTITY launcher_shortcuts_empty "Nie znaleziono aplikacji internetowych">
 
 <!ENTITY choose_file "Wybierz plik">
 
