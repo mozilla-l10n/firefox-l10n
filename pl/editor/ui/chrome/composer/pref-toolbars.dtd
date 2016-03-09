@@ -29,6 +29,6 @@
 <!ENTITY outdent.label "Zmniejsz wcięcie" >
 <!ENTITY indent.label "Zwiększ wcięcie" >
 <!ENTITY underline.label "Podkreślenie" >
-<!ENTITY absolutePosition.label "Pozycjonowanie absolutne" >
+<!ENTITY absolutePosition.label "Pozycjonowanie bezwzględne">
 <!ENTITY decreaseZIndex.label "Przenieś pod spód" >
 <!ENTITY increaseZIndex.label "Przenieś na wierzch" >
