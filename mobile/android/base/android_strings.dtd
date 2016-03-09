@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Obtenha resultados a partir dos seus marcadores e histórico quando pesquisa.">
 <!ENTITY firstrun_data_title "Dados">
 <!ENTITY firstrun_data_message "Menos dados, mais poupança">
-
+<!ENTITY firstrun_data_subtext2 "Desligar imagens para gastar menos dados em cada site que visita.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
 <!ENTITY firstrun_sync_subtext "Sincronize os seus separadores, palavras-passe, e muito mais em qualquer sítio que os usar.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Apenas em Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloqueado">
 
+<!ENTITY pref_show_web_fonts "Mostrar tipos de letra web">
 
 <!ENTITY pref_tracking_protection_title "Proteção contra monitorização">
 <!ENTITY pref_tracking_protection_summary3 "Ativado na navegação privada">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navegação em ecrã completo">
 <!ENTITY pref_scroll_title_bar_summary2 "Ocultar barra de ferramentas do &brandShortName; ao deslocar a página para baixo">
 
-
+<!ENTITY pref_tab_queue_title3 "Fila de separadores">
+<!ENTITY pref_tab_queue_summary4 "Guardar ligações até à próxima vez que abrir o &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "Não foi encontrado conteúdo para este painel.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Voltar para &formatS;">
 
 <!ENTITY home_remote_tabs_title "Separadores sincronizados">
 <!ENTITY home_remote_tabs_empty "Os separadores de outros dispositivos são mostrados aqui.">
@@ -770,7 +774,10 @@ do Android">
 
 <!ENTITY unsupported_sdk_version "Desculpe! Este &brandShortName; não funciona neste dispositivo (&formatS1;, &formatS2;). Por favor descarregue a versão correta.">
 
+<!ENTITY eol_notification_title2 "O &brandShortName; não será mais atualizado">
 <!ENTITY eol_notification_summary "Toque para saber mais">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "O &brandShortName; está atualizado">
+<!ENTITY whatsnew_notification_summary "Descobrir o que há de novo nesta versão">

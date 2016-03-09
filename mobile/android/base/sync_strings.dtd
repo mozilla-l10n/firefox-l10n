@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-mail">
-
+<!ENTITY fxaccount_password_hint "Palavra-passe">
 <!ENTITY fxaccount_password_hide "Ocultar">
 <!ENTITY fxaccount_password_show "Mostrar">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "O &syncBrand.shortName.label; está configurado mas não está a sincronizar automaticamente. Ative a opção “Sincronizar dados automaticamente” nas Definições do Android &gt; Utilização de dados.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "O &syncBrand.shortName.label; está configurado mas não está a sincronizar automaticamente. Ative a opção “Sincronização automática” no menu Definições do Android &gt; Contas.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Toque para iniciar sessão na sua nova conta Firefox.">
-
+<!ENTITY fxaccount_status_bookmarks "Marcadores">
 <!ENTITY fxaccount_status_history "Histórico">
 <!ENTITY fxaccount_status_passwords2 "Credenciais">
 <!ENTITY fxaccount_status_tabs "Separadores abertos">
