@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-post">
-
+<!ENTITY fxaccount_password_hint "Lösenord">
 <!ENTITY fxaccount_password_hide "Dölj">
 <!ENTITY fxaccount_password_show "Visa">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt. Sätt igång “Automatisk synkronisering av data” i Android-inställningarna &gt; Dataanvändning.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt. Sätt igång “Automatisk synkronisering av data” i Android-inställningarna &gt; Dataanvändning.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tryck för att logga in till ditt nya Firefox Konto.">
-
+<!ENTITY fxaccount_status_bookmarks "Bokmärken">
 <!ENTITY fxaccount_status_history "Historik">
 <!ENTITY fxaccount_status_passwords2 "Inloggningar ">
 <!ENTITY fxaccount_status_tabs "Öppna flikar">
