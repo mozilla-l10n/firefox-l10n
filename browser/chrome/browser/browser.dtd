@@ -259,6 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Conectar…">
 <!ENTITY devtoolsConnect.accesskey    "C">
@@ -424,6 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferências do Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Entre para ver uma lista de abas de outros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Entrar no Sync">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Visualizar abas sincronizadas na barra lateral">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adicionar à barra de ferramentas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "d">
@@ -530,6 +532,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "b">
 <!ENTITY openFrameCmd.label           "Abrir frame em uma nova janela">
 <!ENTITY openFrameCmd.accesskey       "A">
+<!ENTITY openLinkCmdInContainerTab.label "Abrir link em uma nova aba">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Exibir somente este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "x">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -777,6 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.learnMore "Saiba mais">
 
 <!ENTITY identity.removeCertException.label "Remover exceção">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "Mais informações">
 
@@ -801,7 +806,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ligar a sincronização para exibir uma lista de abas de outros dispositivos.">
 
 <!ENTITY syncedTabs.context.openTab.label                   "Abrir esta aba">
+<!ENTITY syncedTabs.context.openTab.accesskey               "A">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Adicionar esta aba aos favoritos…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "F">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
