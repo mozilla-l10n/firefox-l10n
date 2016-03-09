@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>တိုက်ခိုက်သောဝတ်စာမျက်နှာများသည်ကွန်ပျူတာအတွင်းအချို့ပရိုဂရမ်များထည့်သွင်းပြီးသင့်အားအခြားတစ်နေရာမှတိုက်ခိုက်ရန်ကြိုးပမ်းနေသည်</p><p>အချို့တိုက်ခိုက်ဝတ်စာမျက်နှာများသည်နိုင်ငံတကာ အဆင့်အန္တရာယ်ရှိသောဆော့ဝဲများအားဖြန်ချီလျှက်ရှိသည်။</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "ဤဝဘ်ဆိုက်၏<span id='phishing_sitename'/>သည် တိုက်ခိုက်နိုင်ဖွယ်ရှိသောစာမျက်နှာဟု သတင်းပေးခြင်းခံရပြီး သင်၏လုံခြုံရေးအပြင်အဆင်များအရ ပိတ်ပင်ထားသည်။">
 
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
