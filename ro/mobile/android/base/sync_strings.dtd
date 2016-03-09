@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-mail">
-
+<!ENTITY fxaccount_password_hint "Parolă">
 <!ENTITY fxaccount_password_hide "Ascunde">
 <!ENTITY fxaccount_password_show "Afișează">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; este configurat, însă sincronizarea automată e dezactivată. Comută „Sincronizați automat datele” în setările Android &gt; Utilizare date.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; este configurat, însă sincronizarea automată e dezactivată. Comută „Sincronizați automat datele” în setările Android &gt; Conturi.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Atinge pentru a te autentifica în contul nou Firefox.">
-
+<!ENTITY fxaccount_status_bookmarks "Semne de carte">
 <!ENTITY fxaccount_status_history "Istoric">
 <!ENTITY fxaccount_status_passwords2 "Autentificări">
 <!ENTITY fxaccount_status_tabs "File deschise">

@@ -12,7 +12,7 @@
 
 <!ENTITY firstrun_urlbar_message "Bun venit la &brandShortName;">
 
-
+<!ENTITY firstrun_bookmarks_title "Istoric">
 
 
 
@@ -282,7 +282,7 @@
 <!ENTITY pref_plugins_tap_to_play "Atinge pentru redare">
 <!ENTITY pref_plugins_disabled "Dezactivate">
 <!ENTITY pref_text_size "Mărimea textului">
-
+<!ENTITY pref_restore_tabs "Restaurare file">
 <!ENTITY pref_restore_always "Restaurează mereu">
 <!ENTITY pref_restore_quit "Nu restaura după ieșirea din &brandShortName;">
 <!ENTITY pref_font_size_tiny "Foarte mică">
@@ -657,6 +657,7 @@ din Android">
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Permite">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Sesiune vizitator nouă">
@@ -735,7 +736,7 @@ din Android">
 
 <!ENTITY restrictable_feature_private_browsing "Navigare fără urme">
 
-
+<!ENTITY restrictable_feature_clear_history "Curăță istoricul">
 
 <!ENTITY restrictable_feature_advanced_settings "Setări avansate">
 
@@ -762,4 +763,6 @@ din Android">
 <!ENTITY eol_notification_summary "Atinge pentru a afla mai multe">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+<!ENTITY whatsnew_notification_title "&brandShortName; este actualizat">
 
