@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து…">
 <!ENTITY addCurPagesCmd.label "அனைத்து கீற்றுகளையும் புத்தகக்குறியீடு…">
 <!ENTITY showAllBookmarks2.label "அனைத்து புத்தகக்குறிகளையும் காட்டு">
-
 <!ENTITY unsortedBookmarksCmd.label "வரிசையாக்கம் செய்யப்படாத புத்தகக்குறிகள்">
 <!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளை காட்டு">
 
