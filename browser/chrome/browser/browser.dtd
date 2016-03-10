@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label " इस पृष्ठ की सदस्यता लें…">
 <!ENTITY addCurPagesCmd.label " सभी टैब पुस्तचिह्नित करें…">
 <!ENTITY showAllBookmarks2.label " सभी पुस्तचिह्नों को दिखाएँ">
-
 <!ENTITY unsortedBookmarksCmd.label " बिनछाँटा पुस्तचिह्न">
 <!ENTITY bookmarksToolbarChevron.tooltip " अधिक पुस्तचिह्न दिखाएँ">
 
