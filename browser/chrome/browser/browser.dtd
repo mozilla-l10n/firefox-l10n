@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Tanysgrifio i'r Dudalen Hon…">
 <!ENTITY addCurPagesCmd.label "Nod Tudalen i Bob Tab…">
 <!ENTITY showAllBookmarks2.label "Dangos Pob Nod Tudalen">
-<!ENTITY recentBookmarks.label "Wedi gosod Nod Tudalen yn Ddiweddar">
 <!ENTITY unsortedBookmarksCmd.label "Nodau Tudalen heb eu Trefnu">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dangos pob ffolder nod tudalen">
 
