@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Feliratkozás erre az oldalra…">
 <!ENTITY addCurPagesCmd.label "Minden lap egy könyvjelzőbe…">
 <!ENTITY showAllBookmarks2.label "Minden könyvjelző megjelenítése">
-
 <!ENTITY unsortedBookmarksCmd.label "Nem rendezett könyvjelzők">
 <!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
 
