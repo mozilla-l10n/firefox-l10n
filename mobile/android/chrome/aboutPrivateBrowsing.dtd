@@ -11,7 +11,7 @@
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
-<!ENTITY privatebrowsingpage.title.normal1 "Anda tidak sedang dalam Penjelajahan Privat">
+<!ENTITY privatebrowsingpage.title.normal1 "Anda tidak sedang dalam Penjelajahan Pribadi">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; memblokir bagian dari laman yang mungkin melacak aktivitas penjelajahan Anda.">
 <!ENTITY privatebrowsingpage.description.privateDetails "Kami tidak akan mengingat riwayat apa pun, tetapi berkas yang diunduh dan markah baru masih tetap disimpan di perangkat Anda.">
@@ -19,7 +19,7 @@
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
-<!ENTITY privatebrowsingpage.description.normal2 "Dalam Penjelajahan Privat, semua riwayat penjelajahan atau kuki Anda tidak akan tersimpan. Markah yang Anda tambahkan dan berkas yang Anda unduh tetap akan tersimpan di peranti Anda.">
+<!ENTITY privatebrowsingpage.description.normal2 "Dalam Penjelajahan Pribadi, semua riwayat penjelajahan atau kuki Anda tidak akan tersimpan. Markah yang ditambahkan dan berkas yang diunduh tetap akan tersimpan di perangkat Anda.">
 
 <!ENTITY privatebrowsingpage.link.private "Ingin mempelajari lebih lanjut?">
 <!ENTITY privatebrowsingpage.link.normal "Buka tab pribadi baru">
