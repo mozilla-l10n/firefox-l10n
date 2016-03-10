@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Abonează-te la această pagină…">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele…">
 <!ENTITY showAllBookmarks2.label "Arată toate semnele de carte">
-<!ENTITY recentBookmarks.label "Recent însemnate">
 <!ENTITY unsortedBookmarksCmd.label "Semne de carte nesortate">
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 
