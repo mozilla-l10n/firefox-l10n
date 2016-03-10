@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Tutu stronu abonować…">
 <!ENTITY addCurPagesCmd.label "Wšě rajtarki jako zapołožki…">
 <!ENTITY showAllBookmarks2.label "Wšě zapołožki pokazać">
-
 <!ENTITY unsortedBookmarksCmd.label "Njesortěrowane zapołožki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dalše zapołožki pokazać">
 
