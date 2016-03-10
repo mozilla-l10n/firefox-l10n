@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Gerast áskrifandi að þessari síðu…">
 <!ENTITY addCurPagesCmd.label "Setja flipa í bókamerki…">
 <!ENTITY showAllBookmarks2.label "Sýna öll bókamerki">
-<!ENTITY recentBookmarks.label "Nýlega sett í bókamerki">
 <!ENTITY unsortedBookmarksCmd.label "Óröðuð bókamerki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
 
