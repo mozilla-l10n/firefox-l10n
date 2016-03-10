@@ -109,7 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Tsena tirong mo &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Bula &syncBrand.shortName.label; dikgethwa">
 <!ENTITY fxaSignInError.label "Golaganya-gape le &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "Netefatsa Akhaonto ya gago">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; kgontshitswe">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; go tla simolodisiwa thulaganyo ka tsamaisano mo motsotsong.">
 
@@ -128,12 +128,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "ga jaana e mo sekerini se se tletseng">
+<!ENTITY fullscreenWarning.generic.label "Tokumente e, e mo sekerini se se tletseng">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Tswaya mo sekerini se se tletseng (Tswaya)">
+<!ENTITY exitDOMFullscreenMac.button "Tswaya mo sekerini se se tletseng (tswaya)">
 <!ENTITY leaveDOMFullScreen.label "Tswaya mo Sekerini se se tletseng">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -162,12 +163,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "Aba Bidio e">
 <!ENTITY shareVideo.accesskey "r">
-
-
+<!ENTITY feedsMenu2.label "Ikwadise mo Tsebeng e">
+<!ENTITY subscribeToPageMenupopup.label "Ikwadise mo Tsebeng e">
 <!ENTITY subscribeToPageMenuitem.label "Ikwadise mo Tsebeng e...">
 <!ENTITY addCurPagesCmd.label "Ikwadise mo Tsebeng e...">
 <!ENTITY showAllBookmarks2.label "Supa Matshwaotsebe Otlhe">
-
 <!ENTITY unsortedBookmarksCmd.label "Matshwaotsebe a sa Tlhaolwang">
 <!ENTITY bookmarksToolbarChevron.tooltip "Supa matshwaotsebe a le mantsi">
 
@@ -186,29 +186,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Gatisa">
 <!ENTITY printButton.tooltip          "Gatisa tsebe eno">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Leba tshedimosetso ya saete">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Leba kitsiso">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Leba lefelo la kopo">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Leba molaetsa - tsenyo wa seoketswa">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Leba molaetsa - polokelo o sa golaganang wa tiriso">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Laola tshedimosetso ya gago ya go tsena">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Netefatsa fa o batla go boloka khunololamoraba ya gago">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Leba molaetsa - tsenyo wa tiriso">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Laola tiriso ya segokaganyi mo tsebeng e">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Fetola gore a o kgona go amogela dikitsiso gotsweng mo saeteng">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Laola kabelano ya sekapa-ditshwantsho le/kgotsa sekapa-mantswe le saete">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "O abelana sekapa-ditshwantsho le/kgotsa sekapa-mantswe le saete">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Laola kabelano ya sekapa-mantswe sa gago le saete">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "O abelana sekapa-mantswe sa gago le saete">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Laola kabelano ya windows kgotsa sekerini sa gago le saete">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "O abelana window kgotsa sekerini sa gago le saete">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Fetola gore a saete e kgona go fitlha tshupi">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Leba molaetsa-tirelo wa tsenyo">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Ranola tsebe e">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Laola thanodi ya tsebe">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Laola tiriso ya serweboleta sa DRM">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Bontsha motlhala wa tsedifitileng">
 
 <!ENTITY searchItem.title             "Batla">
 <!-- Toolbar items --> 
@@ -241,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Dikopololo">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Dioketswa">
 <!ENTITY addons.accesskey             "D">
 <!ENTITY addons.commandkey            "A">
@@ -252,7 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Tlamela Badiri">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Gokaganya">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -324,16 +330,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Faele"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Thebe ya Seduti e Ntšha">
+<!ENTITY newUserContext.accesskey         "T">
+<!ENTITY userContextPersonal.label        "Ka namana">
+<!ENTITY userContextPersonal.accesskey    "K">
+<!ENTITY userContextWork.label            "Tiro">
+<!ENTITY userContextWork.accesskey        "T">
+<!ENTITY userContextBanking.label         "Polokelo ya tsa madi">
+<!ENTITY userContextBanking.accesskey     "P">
+<!ENTITY userContextShopping.label        "Theko">
+<!ENTITY userContextShopping.accesskey    "T">
 <!ENTITY newNavigatorCmd.label        "Window e Ntšha">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "W">
@@ -403,15 +409,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Barathoko ya Tebo ya Ditiragalo tse di difetileng">
 <!ENTITY appMenuHelp.tooltip "Bula Menu wa Thuso">
 
-
+<!ENTITY appMenuRemoteTabs.label "Rulaganya ka tsamaisano Dithebe">
+<!ENTITY appMenuRemoteTabs.fetching.label "Tseyo Dithebe tse di Rulagantsweng ka tsamaiso...">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Ga gona dithebe tse di butsweng">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Tobetsa go dirisa thulaganyo ka tsamaisano ya thebe go leba lenaane la dithebe go tsweng mo didirisweng tse dingwe tsa gago.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.label "Tsena tirong mo Firefox o dirisa didiriswa tse dingwe tsa gago go leba dithebe tsa tsone fa.">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Thulaganya ka tsamaisano ya Dikgethwa">
 
 
 
