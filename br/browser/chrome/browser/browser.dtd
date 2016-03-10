@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Koumanantiñ d'ar bajenn-mañ…">
 <!ENTITY addCurPagesCmd.label "Ouzhpennañ an holl ivinelloù d'ar sinedoù">
 <!ENTITY showAllBookmarks2.label "Diskouez an holl sinedoù">
-<!ENTITY recentBookmarks.label "Lakaet war ur sined nevez zo">
 <!ENTITY unsortedBookmarksCmd.label "Sinedoù dirummet">
 <!ENTITY bookmarksToolbarChevron.tooltip "Diskouez meur a sined">
 
