@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Абониране за тази страница…">
 <!ENTITY addCurPagesCmd.label "Отмятане всички подпрозорци…">
 <!ENTITY showAllBookmarks2.label "Показване на всички отметки">
-
 <!ENTITY unsortedBookmarksCmd.label "Негрупирани отметки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показване на повече отметки">
 
