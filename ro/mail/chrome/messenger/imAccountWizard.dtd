@@ -28,5 +28,5 @@
 <!ENTITY accountProxySettings.change.accessKey "S">
 
 <!ENTITY accountSummaryTitle.label   "Rezumatul">
-<!ENTITY accountSummaryInfo.label    "Mai jos puteți vedea un rezumat al informației introduse. Vă rugăm să o verificați înainte de a crea contul.">
+<!ENTITY accountSummaryInfo.label    "Mai jos puteți vedea un rezumat al informațiilor introduse. Vă rugăm să o verificați înainte de a crea contul.">
 <!ENTITY accountSummary.connectNow.label "Conectează acest cont acum.">
