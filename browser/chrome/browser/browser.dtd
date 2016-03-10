@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Harpidetu orri honetara…">
 <!ENTITY addCurPagesCmd.label "Egin fitxa guztien laster-marka…">
 <!ENTITY showAllBookmarks2.label "Erakutsi laster-marka guztiak">
-<!ENTITY recentBookmarks.label "Azken laster-markak">
 <!ENTITY unsortedBookmarksCmd.label "Ordenatu gabeko laster-markak">
 <!ENTITY bookmarksToolbarChevron.tooltip "Erakutsi laster-marka gehiago">
 
