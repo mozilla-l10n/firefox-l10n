@@ -165,7 +165,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "આ પાનાંમાં ઉમેદવારી નોંધાવો...">
 <!ENTITY addCurPagesCmd.label "બધી ટૅબ બુકમાર્ક કરો...">
 <!ENTITY showAllBookmarks2.label "બધી બુકમાર્કોને બતાવો">
-
 <!ENTITY unsortedBookmarksCmd.label "ક્રમાંકિત ન થયેલ બુકમાર્કો">
 <!ENTITY bookmarksToolbarChevron.tooltip "વધુ બુકમાર્કો બતાવો">
 
