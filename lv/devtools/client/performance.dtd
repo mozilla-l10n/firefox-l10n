@@ -113,6 +113,8 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
 
+<!ENTITY performanceUI.showJITOptimizations             "Rādīt JIT optimizācijas">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Rādīt JIT optimizāciju datus katrā no apskatītajiem JavaScript ietvariem.">
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
