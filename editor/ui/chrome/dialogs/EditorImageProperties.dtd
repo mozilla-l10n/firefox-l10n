@@ -51,8 +51,8 @@
 <!ENTITY bottomPopup.value "No fundo">
 <!ENTITY topPopup.value "No topo">
 <!ENTITY centerPopup.value "No centro">
-<!ENTITY wrapRightPopup.value "Moldar à direita">
-<!ENTITY wrapLeftPopup.value "Moldar à esquerda">
+<!ENTITY wrapRightPopup.value "Encapsular à direita">
+<!ENTITY wrapLeftPopup.value "Escapsular à esquerda">
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Espaçamento">

@@ -54,10 +54,10 @@
 <!ENTITY cellStyle.accessKey              "c">
 <!ENTITY cellNormal.label                 "Normal">
 <!ENTITY cellHeader.label                 "Cabeçalho">
-<!ENTITY cellTextWrap.label               "Translineação:">
-<!ENTITY cellTextWrap.accessKey           "T">
-<!ENTITY cellWrap.label                   "Translinear">
-<!ENTITY cellNoWrap.label                 "Não translinear">
+<!ENTITY cellTextWrap.label               "Encapsulamento de texto:">
+<!ENTITY cellTextWrap.accessKey           "E">
+<!ENTITY cellWrap.label                   "Encapsular">
+<!ENTITY cellNoWrap.label                 "Não encapsular">
 <!ENTITY cellAlignTop.label               "Topo">
 <!ENTITY cellAlignMiddle.label            "Meio">
 <!ENTITY cellAlignBottom.label            "Fundo">
