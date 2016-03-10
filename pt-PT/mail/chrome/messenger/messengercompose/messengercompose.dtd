@@ -78,10 +78,10 @@
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY editRewrapCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Apagar">
 <!ENTITY deleteCmd.accesskey "A">
-<!ENTITY editRewrapCmd.label "w">
+<!ENTITY editRewrapCmd.label "Encapsular novamente">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Mudar nome do anexo...">
 <!ENTITY renameAttachmentCmd.accesskey "e">

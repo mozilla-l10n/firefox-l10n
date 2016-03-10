@@ -23,8 +23,8 @@
 <!ENTITY InitialText.label "Texto inicial:">
 <!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "Translineação:">
-<!ENTITY TextAreaWrap.accessKey "s">
+<!ENTITY TextAreaWrap.label "Modo de encapsulamento:">
+<!ENTITY TextAreaWrap.accessKey "p">
 <!ENTITY WrapDefault.value "Pré-definido">
 <!ENTITY WrapOff.value "Desligado">
 <!ENTITY WrapHard.value "Intensa">
