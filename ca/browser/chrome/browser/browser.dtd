@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Subscriu-me a la pàgina…">
 <!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
 <!ENTITY showAllBookmarks2.label "Mostra totes les adreces d'interès">
-
 <!ENTITY unsortedBookmarksCmd.label "Adreces d'interès desordenades">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
 
