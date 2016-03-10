@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాదారు కండి...">
 <!ENTITY addCurPagesCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
 <!ENTITY showAllBookmarks2.label "అన్ని యిష్టాంశములను చూపుము">
-
 <!ENTITY unsortedBookmarksCmd.label "క్రమబద్దీకరించని యిష్టాంశములు">
 <!ENTITY bookmarksToolbarChevron.tooltip "మరికొన్ని ఇష్టాంశములను చూపు">
 
