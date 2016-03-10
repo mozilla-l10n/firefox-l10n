@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Жаңалықтар таспаларына жазылу…">
 <!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY showAllBookmarks2.label "Барлық бетбелгілерді көрсету">
-
 <!ENTITY unsortedBookmarksCmd.label "Сұрыпталмаған бетбелгілер">
 <!ENTITY bookmarksToolbarChevron.tooltip "Көбірек бетбелгілерді көрсету">
 
