@@ -154,7 +154,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Mag-subscribe sa web page na ito…">
 <!ENTITY addCurPagesCmd.label "I-bookmark ang lahat ng mga tab…">
 <!ENTITY showAllBookmarks2.label "Ipakita and Lahat na mga Bookmark">
-
 <!ENTITY unsortedBookmarksCmd.label "Bookmark na Hindi Magkasunod">
 <!ENTITY bookmarksToolbarChevron.tooltip "Magpakita ng karagdagang mga bookmark">
 
