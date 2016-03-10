@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Árásasíður reyna að setja inn forrit sem stela persónu upplýsingum, nota tækið þitt til að ráðast á aðra eða skemma kerfið þitt.</p><p>Sumar árásasíður dreifa meðvitað forritum sem eyðileggja en oft eru þetta vefsvæði sem búið er að ráðast á og breyta án vitundar eða leyfis eigenda.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Tilkynnt hefur verið að þessi vefsíða hér <span id='phishing_sitename'/> sé árásar síða og hefur verið lokað á hana byggt á öryggisstillingum þínum.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "Láta vita af óæskilegu hugbúnaðarsvæði!">
