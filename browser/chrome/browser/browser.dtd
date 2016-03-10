@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina...">
 <!ENTITY addCurPagesCmd.label "Marcar totes los onglets…">
 <!ENTITY showAllBookmarks2.label "Afichar totes los marcapaginas">
-
 <!ENTITY unsortedBookmarksCmd.label "Marcapaginas pas triats">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afichar mai de marcapaginas">
 
