@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ह्या पानांक वर्गणीदार करात...">
 <!ENTITY addCurPagesCmd.label "सगळे टॅब्स पुस्तकखूणों करात...">
 <!ENTITY showAllBookmarks2.label "सगळे बूकमार्क दाखोवचे">
-
 <!ENTITY unsortedBookmarksCmd.label "वर्गिकरण करूनाशिल्यो पुस्तकखुणो ">
 <!ENTITY bookmarksToolbarChevron.tooltip "अदीक बूकमार्क दाखोवचे">
 
