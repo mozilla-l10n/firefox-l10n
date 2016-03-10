@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Prenumeruoti šio tinklalapio naujienas…">
 <!ENTITY addCurPagesCmd.label "Įrašyti į adresyną visas korteles…">
 <!ENTITY showAllBookmarks2.label "Rodyti visą adresyną">
-
 <!ENTITY unsortedBookmarksCmd.label "Nerūšiuoti adresai">
 <!ENTITY bookmarksToolbarChevron.tooltip "Kiti adresai">
 
