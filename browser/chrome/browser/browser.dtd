@@ -163,12 +163,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "s">
 <!ENTITY shareVideo.label "Dalīties ar video">
 <!ENTITY shareVideo.accesskey "s">
-
-
+<!ENTITY feedsMenu2.label "Pierakstīties uz šo lapu">
+<!ENTITY subscribeToPageMenupopup.label "Pierakstīties uz šo lapu">
 <!ENTITY subscribeToPageMenuitem.label "Pierakstīties uz šo lapu…">
 <!ENTITY addCurPagesCmd.label "Saglabāt visas cilnes grāmatzīmēs…">
 <!ENTITY showAllBookmarks2.label "Rādīt visas grāmatzīmes">
-
+<!ENTITY recentBookmarks.label "Nesen saglabātās">
 <!ENTITY unsortedBookmarksCmd.label "Nešķirotās grāmatzīmes">
 <!ENTITY bookmarksToolbarChevron.tooltip "Rādīt vairāk grāmatzīmju">
 
@@ -258,7 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Pakalpojumu darbinieki">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Pieslēgties…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -410,18 +411,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Atvērt palīdzības izvēlni">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizētās cilnes">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Iegūst sinhronizētās cilnes…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Nav atvērto cilņu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Pierakstieties Firefox citās ierīcēs, lai redzētu šeit cilnes no šīm ierīcēm.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinhronizācijas iestatījumi">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Pierakstieties, lai redzētu šeit cilnes no šīm ierīcēm.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pieslēgties Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Rādīt sinhronizēto cilņu sānu joslu">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pievienot rīkjoslai">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -528,8 +532,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "c">
 <!ENTITY openFrameCmd.label           "Atvērt ietvaru jaunā logā">
 <!ENTITY openFrameCmd.accesskey       "l">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Atvētt saiti jaunā konteinera cilnē">
+<!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Rādīt tikai šo ietvaru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "t">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -777,7 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "d">
 <!ENTITY identity.learnMore "Uzzināt vairāk">
 
-
+<!ENTITY identity.removeCertException.label "Attālinātā izpilde">
+<!ENTITY identity.removeCertException.accesskey "A">
 
 <!ENTITY identity.moreInfoLinkText2 "Sīkāka informācija">
 
@@ -791,17 +796,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Sinhronizētās cilnes">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Sinhronizētās cilnes">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Iegūst sinhronizētās cilnes…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Pierakstieties Firefox citās ierīcēs, lai redzētu šeit cilnes no šīm ierīcēm.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Pierakstieties, lai redzētu šeit cilnes no šīm ierīcēm.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Nav atvērto cilņu">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Atvērt &syncBrand.shortName.label; iestatījumus">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Atvērt šo cilni">
+<!ENTITY syncedTabs.context.openTab.accesskey               "A">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Saglabāt šo lapu grāmatzīmēs…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "b">
 
 
 <!ENTITY syncBrand.shortName.label    "Sinhronizēt">
