@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Liostáil leis an Leathanach Seo…">
 <!ENTITY addCurPagesCmd.label "Leabharmharcáil Gach Cluaisín…">
 <!ENTITY showAllBookmarks2.label "Taispeáin Gach Leabharmharc">
-<!ENTITY recentBookmarks.label "Leabharmharc leo le déanaí">
 <!ENTITY unsortedBookmarksCmd.label "Leabharmharcanna Gan Sórtáil">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh leabharmharcanna">
 
