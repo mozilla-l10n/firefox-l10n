@@ -12,8 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Par šo lapu <span id='malware_sitename'/> ir saņemti ziņojumi, ka no tās tiek veikti uzbrukumi tās apmeklētājiem. Atbilstoši jūsu drošības iestatījumiem, lapa ir bloķēta.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Bīstamās lapas mēģina instalēt lietotāju datoros programmas, kas zog privāto informāciju, izmanto jūsu datoru uzbrukumos citiem vai citādi kaitē jums.</p><p>Dažas lapas apzināti izplata kaitniecisku programmatūru, bet lielākā daļa pašas ir kļuvušas par kaitnieku upuriem.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Maldinoša lapa!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Par lapu <span id='phishing_sitename'/> ir saņemti ziņojumi, ka tā maldina lietotājus. Atbilstoši jūsu drošības iestatījumiem, lapa ir bloķēta.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Maldinošas lapas mēģina apmānīt jūs, lai izdarītu kādu bīstamu lietu, piemēram, mēģina uzinstalēt jaunu programmatūru vai izkrāpt privāto informāciju, paroles, telefona numurus vai kredītkartes datus.</p><p>Jebkādas informācijas ievadīšana šādā lapā var novest pie identitātes zādzības vai krāpšanas.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Iespējama nevēlamas programmatūras lapa!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
