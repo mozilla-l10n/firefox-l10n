@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Pierakstīties uz šo lapu…">
 <!ENTITY addCurPagesCmd.label "Saglabāt visas cilnes grāmatzīmēs…">
 <!ENTITY showAllBookmarks2.label "Rādīt visas grāmatzīmes">
-<!ENTITY recentBookmarks.label "Nesen saglabātās">
 <!ENTITY unsortedBookmarksCmd.label "Nešķirotās grāmatzīmes">
 <!ENTITY bookmarksToolbarChevron.tooltip "Rādīt vairāk grāmatzīmju">
 

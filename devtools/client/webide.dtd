@@ -196,7 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ja jūsu otra ierīce prasa drošības kodu nevis piedāvā izmantot QR koda lasītāju, iekopējiet šo:">
-
+<!ENTITY wifi_auth_qr_size_note "Ja QR kods ir pārāk mazs, lai veiksmīgi izveidotu savienojumu, pamēģiniet pietuvināt vai palielināt loga izmēru.">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Pakošanas komandu žurnāls">
