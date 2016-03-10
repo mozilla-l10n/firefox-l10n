@@ -163,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Бу сирэйгэ суруттар...">
 <!ENTITY addCurPagesCmd.label "Кыбытыктары барыларын бэлиэтээ...">
 <!ENTITY showAllBookmarks2.label "Бэлиэтэммити барытын көрдөр">
-
 <!ENTITY unsortedBookmarksCmd.label "Суортамматах бэлиэлэр">
 <!ENTITY bookmarksToolbarChevron.tooltip "Өссө бэлиэлэр">
 
