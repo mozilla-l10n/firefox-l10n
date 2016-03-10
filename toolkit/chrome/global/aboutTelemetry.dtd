@@ -81,3 +81,5 @@
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "Obsah">
 
+<!ENTITY aboutTelemetry.rawPayload "
+  Nespracovaný obsah">
