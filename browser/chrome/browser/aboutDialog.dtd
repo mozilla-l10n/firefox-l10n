@@ -22,7 +22,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Ka itiriso, e romela ditshedimosetso ka tiragatso, serwethata, tiriso le ditshwanediso go boela ko &vendorShortName; go thusa go dira &brandShortName; botoka.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "community.exp.start">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ke">
@@ -46,6 +46,7 @@
 <!ENTITY helpus.getInvolvedLink     "Tsaya karolo!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Ke eng se sešha">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Tshedimosetso ya Teseletso">

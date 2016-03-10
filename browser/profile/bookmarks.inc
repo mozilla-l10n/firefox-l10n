@@ -10,10 +10,10 @@
 # live.
 
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title Matshwaotsebe
 
 
-#define bookmarks_heading Bookmarks
+#define bookmarks_heading Matshwaotsebe
 
 
 #define bookmarks_toolbarfolder Setsholadifaele sa Bara ya didiriswa ya Matshwaotsebe
@@ -28,7 +28,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/central/
 
 
-#define getting_started Getting Started
+#define getting_started Tshimologo
 
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize Customize Firefox
+#define firefox_customize Tshwanedisa Firefox
 
 
 # LOCALIZATION NOTE (firefox_community):
@@ -64,7 +64,7 @@
 # link title for https://www.mozilla.org/en-US/contribute/
 
 
-#define firefox_community Get Involved
+#define firefox_community Tsaya Karolo
 
 
 # LOCALIZATION NOTE (firefox_about):
