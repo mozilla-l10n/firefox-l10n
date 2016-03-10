@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Conducir-se a ista pachina…">
 <!ENTITY addCurPagesCmd.label "Adhibir pestanyas ta marcapachinas…">
 <!ENTITY showAllBookmarks2.label "Amostrar totz os marcapachinas">
-
 <!ENTITY unsortedBookmarksCmd.label "Marcadors sin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amostrar mas marcapachinas">
 
