@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Meklējot saņemiet rezultātus no grāmatzīmēm un vēstures.">
 <!ENTITY firstrun_data_title "Dati">
 <!ENTITY firstrun_data_message "Mazāk datu, lielāki ietaupījumi">
-
+<!ENTITY firstrun_data_subtext2 "Bloķējiet attēlus, lai apmeklējot lapas ietaupītu datus.">
 <!ENTITY firstrun_sync_title "Sinhronizēšana">
 <!ENTITY firstrun_sync_message "&brandShortName;, vienmēr jūsu pusē">
 <!ENTITY firstrun_sync_subtext "Sinhronizējiet cilnes, paroles un citas lietas, visur kur esat">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Tikai pa Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloķēts">
 
+<!ENTITY pref_show_web_fonts "Rādīt tīmekļa fontus">
 
 <!ENTITY pref_tracking_protection_title "Izsekošanas aizsardzība">
 <!ENTITY pref_tracking_protection_summary3 "Aktivēta privātajā pārlūkošanā">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Pārlūkot pilnekrānā">
 <!ENTITY pref_scroll_title_bar_summary2 "Paslēpt &brandShortName; rīkjoslu ritinot lapas">
 
-
+<!ENTITY pref_tab_queue_title3 "Cilņu rinda">
+<!ENTITY pref_tab_queue_summary4 "Saglabāt saites līdz nākamai reizei, kad atvērsiet &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "Šim panelim neizdevās atrast saturu.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Atpakaļ uz &formatS;">
 
 <!ENTITY home_remote_tabs_title "Sinhronizētās cilnes">
 <!ENTITY home_remote_tabs_empty "Šeit parādīsies cilnes no citām ierīcēm.">
@@ -770,7 +774,10 @@ no Android">
 
 <!ENTITY unsupported_sdk_version "Atvainojiet! Šī &brandShortName; nestrādās šajā ierīcē (&formatS1;, &formatS2;). Lūdzu lejupielādējiet pareizo versiju.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; vairs neatjaunināsies">
 <!ENTITY eol_notification_summary "Gribat zināt vairāk">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; ir jaunākā versija">
+<!ENTITY whatsnew_notification_summary "Uzziniet, kas šajā versijā ir jauns">

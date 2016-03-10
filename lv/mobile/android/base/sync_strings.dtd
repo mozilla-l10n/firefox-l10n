@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-pasts">
-
+<!ENTITY fxaccount_password_hint "Parole">
 <!ENTITY fxaccount_password_hide "Slēpt">
 <!ENTITY fxaccount_password_show "Rādīt">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ir gatavs darbam, bet nesāksies automātiski. Ieslēdziet “Automātisko datu sinhronizāciju” sadaļā Android iestatījumi &gt; Datu lietojums.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ir gatava darbam, bet nesāksies automātiski. Ieslēdziet “Automātiskā datu sinhronizācija” Sadaļā Android iestatījumi &gt; Konti.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Pieskarieties, lai pieslēgtos Firefox kontam.">
-
+<!ENTITY fxaccount_status_bookmarks "Grāmatzīmes">
 <!ENTITY fxaccount_status_history "Vēsture">
 <!ENTITY fxaccount_status_passwords2 "Lietotājvārdi">
 <!ENTITY fxaccount_status_tabs "Atvērtās cilnes">
