@@ -158,7 +158,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Wewandiise ku Mukko Guno…">
 <!ENTITY addCurPagesCmd.label "Lamba Awaddirira Wona…">
 <!ENTITY showAllBookmarks2.label "Laga Obulambe Bwonna">
-
 <!ENTITY unsortedBookmarksCmd.label "Obulambe Obutannasunsulwa">
 <!ENTITY bookmarksToolbarChevron.tooltip "Laga obulambe obulala">
 
