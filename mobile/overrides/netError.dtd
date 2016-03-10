@@ -10,7 +10,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Повезивање немогуће">
+<!ENTITY connectionFailure.title "Повезивање није успело">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Ова адреса је забрањена">
@@ -37,7 +37,7 @@
 <!ENTITY fileNotFound.title "Датотека није пронађена">
 <!ENTITY fileNotFound.longDesc "
 <ul> 
-  <li>Проверите име датотеке због могућих грешака при куцању.</li> 
+  <li>Проверите подударање малих и великих слова и друге могуће грешке у куцању.</li> 
   <li>Проверите да ли је датотека премештена, преименована или избрисана.</li>
 </ul>
 ">
@@ -45,7 +45,7 @@
 
 <!ENTITY generic.title "Упс.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; из неког разлога не може да учита страницу.</p>
+<p>&brandShortName; из неког разлога не може да учита ову страницу.</p>
 ">
 
 <!ENTITY malformedURI.title "Адреса је неважећа">
@@ -64,7 +64,7 @@
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "Веза са сервером је прекинута">
+<!ENTITY netInterrupt.title "Веза је прекинута">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Документ је истекао">
@@ -95,13 +95,13 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Веза је обновљена">
+<!ENTITY netReset.title "Веза је ресетована">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY netTimeout.title "Веза са сервером је истекла">
+<!ENTITY netTimeout.title "Веза је истекла">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "Адреса није разумљива">
+<!ENTITY unknownProtocolFound.title "Нејасна адреса">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Можда ћете морати да инсталирате додатни софтвер да бисте отворили ову страницу.</li>
@@ -111,9 +111,9 @@
 <!ENTITY proxyConnectFailure.title "Прокси сервер одбија везе">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul> 
-  <li>Проверите исправност подешавања прокси сервера.</li> 
-  <li>Питајте администратора Ваше мреже да ли је ради прокси 
-    сервер.</li> 
+  <li>Проверите подешавања проксија.</li> 
+  <li>Обратите се администратору мреже како бисте били сигурни да прокси
+    ради.</li> 
 </ul>
 ">
 
@@ -129,7 +129,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Страница није правилно преусмерена">
+<!ENTITY redirectLoop.title "Страница се не преусмерава исправно">
 <!ENTITY redirectLoop.longDesc "
 <ul> 
   <li>Овај проблем понекад настаје ако искључите или одбијете прихватање
@@ -137,30 +137,30 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Неочекиван одговор сервера">
+<!ENTITY unknownSocketType.title "Неочекиван одговор од сервера">
 <!ENTITY unknownSocketType.longDesc "
 <ul> 
-  <li>Проверите да ли на рачунару ради лични управник
-    безбедности</li>
-  <li>Узрок може да буде нестандардно подешавање сервера.</li> 
+  <li>Проверите да ли рачунар има инсталиран
+    менаџер безбедности.</li>
+  <li>Узрок овој грешци може да буде нестандардно подешавање сервера.</li> 
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Безбедна веза није успела">
+<!ENTITY nssFailure2.title "Безбедна веза није успостављена">
 <!ENTITY nssFailure2.longDesc2 "
 <ul> 
-  <li>Страница коју покушавате да погледате није могла да буде приказана јер аутентичност примљених података није могла бити потврђена.</li> 
+  <li>Страница коју желите да прикажете не може бити приказана јер није могуће проверити аутентичност примљених података.</li> 
   <li>Обратите се власницима веб сајта и обавестите их о овом проблему.</li> 
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Безбедна веза није успела">
+<!ENTITY nssBadCert.title "Безбедна веза није успостављена">
 <!ENTITY nssBadCert.longDesc2 "
 <ul> 
   <li>Ово може да буде проблем са подешавањима сервера, или може бити неко ко 
-покушава да се представи као сервер.</li> 
-  <li>Ако сте се претходно већ успешно повезивали на овај сервер, онда је грешка 
-можда привремена, па има смисла да покушате поново касније.</li> 
+покушава да се лажно представи као сервер.</li> 
+  <li>Ако сте се раније успешно повезивали на овај сервер, грешка је онда можда
+привремена и можете покушати касније.</li> 
 </ul>
 ">
 
@@ -181,7 +181,7 @@
 <!ENTITY corruptedContentError.title "Грешка услед оштећеног садржаја">
 <!ENTITY corruptedContentError.longDesc "<p>Страница коју желите да погледате не може бити приказана услед грешке у преносу података.</p><ul><li>Обратите се власницима веб странице и обавестите их о проблему.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Или додајте изузетак…">
+<!ENTITY securityOverride.linkText "Или можете додати изузетак…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Води ме одавде!">
 <!ENTITY securityOverride.exceptionButtonLabel "Додај изузетак…">
 
@@ -198,7 +198,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "Удаљени XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Контактирајте власнике веб сајта о овом проблему.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Обавестите власнике веб сајта о овом проблему.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Не могу се повезати безбедно">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
