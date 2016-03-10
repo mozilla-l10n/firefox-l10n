@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ជាវ​ទំព័រ​នេះ…">
 <!ENTITY addCurPagesCmd.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
 <!ENTITY showAllBookmarks2.label "បង្ហាញ​ចំណាំ​ទាំងអស់">
-
 <!ENTITY unsortedBookmarksCmd.label "មិន​តម្រៀប​ចំណាំ">
 <!ENTITY bookmarksToolbarChevron.tooltip "បង្ហាញ​ចំណាំ​​ច្រើន​ទៀត">
 
