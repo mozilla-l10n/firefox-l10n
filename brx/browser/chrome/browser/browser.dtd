@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "बे बिलाइखौ चाबस्क्राइब खालाम...">
 <!ENTITY addCurPagesCmd.label "गासै टेबखौ बुकमार्क हो...">
 <!ENTITY showAllBookmarks2.label "गासै बुकमार्कखौ दिन्थि">
-
 <!ENTITY unsortedBookmarksCmd.label "थाखो खालामै बुकमार्कफोर">
 <!ENTITY bookmarksToolbarChevron.tooltip "गोबां बुकमार्कखौ दिन्थि">
 
