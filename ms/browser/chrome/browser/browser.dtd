@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Tandabuku Semua Tab…">
 <!ENTITY showAllBookmarks2.label "Pamer Semua Penandabuku">
-
 <!ENTITY unsortedBookmarksCmd.label "Penandabuku Tidak Terisih">
 <!ENTITY bookmarksToolbarChevron.tooltip "Pamer lebih penandabuku">
 
