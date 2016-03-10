@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "اشترك في هذه الصفحة…">
 <!ENTITY addCurPagesCmd.label "علّم كل الألسنة…">
 <!ENTITY showAllBookmarks2.label "أظهِر كل العلامات">
-
 <!ENTITY unsortedBookmarksCmd.label "العلامات غير المرتّبة">
 <!ENTITY bookmarksToolbarChevron.tooltip "أظهِر المزيد من العلامات">
 
