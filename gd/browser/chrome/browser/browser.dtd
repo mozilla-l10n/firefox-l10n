@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Fo-sgrìobh gun duilleag seo…">
 <!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY showAllBookmarks2.label "Seall a h-uile comharra-lìn">
-
 <!ENTITY unsortedBookmarksCmd.label "Comharran-lìn gun seòrsachadh">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
 
