@@ -9,7 +9,7 @@
 <!ENTITY certerror.pagetitle "Niezaufane połączenie">
 <!ENTITY certerror.longpagetitle "To połączenie jest niezaufane">
 
-<!ENTITY certerror.introPara1 "Program &brandShortName; został poproszony o nawiązanie bezpiecznego
+<!ENTITY certerror.introPara1 "&brandShortName; został poproszony o nawiązanie bezpiecznego
 połączenia z serwerem <b>#1</b>, ale nie można potwierdzić bezpieczeństwa tego połączenia.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Co teraz zrobić?">
