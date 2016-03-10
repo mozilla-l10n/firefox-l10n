@@ -6,7 +6,7 @@
 
 <!ENTITY aboutSupport.accountsTitle "Conturi de corespondență și discuții">
 <!ENTITY aboutSupport.showPrivateData.mainText "Include numele conturilor">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(probabil informație de identificare)">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(posibil informații de identificare)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Nume">
 <!ENTITY aboutSupport.accountsIncomingServer "Server de primire a mesajelor">
