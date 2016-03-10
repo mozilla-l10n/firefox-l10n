@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "यस पृष्ठलाई सब्स्क्राइब गर्नुहोस्...">
 <!ENTITY addCurPagesCmd.label "सब ट्याबहरूलाई पुस्तकचिनो बनाउनुहोस्...">
 <!ENTITY showAllBookmarks2.label "सबै पुस्तकचिनोहरू देखाउनुहोस्">
-<!ENTITY recentBookmarks.label "हालसालै थपिएको पुस्तकचिनो">
 <!ENTITY unsortedBookmarksCmd.label "नमिलाइएका पुस्तकचिनोहरू">
 <!ENTITY bookmarksToolbarChevron.tooltip "अरु पुस्तकचिनोहरू देखाउनुहोस्">
 
