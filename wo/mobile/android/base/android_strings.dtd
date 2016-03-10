@@ -17,6 +17,8 @@
 <!ENTITY firstrun_data_title "Njoxe">
 <!ENTITY firstrun_data_message "Njoxe yu néew, denciit yu gën a bari">
 <!ENTITY firstrun_data_subtext2 "Nëbbal nataal yi ngir jëfandikoo njoxe yu gën a néew ci dal boy nemmeeku.">
+<!ENTITY firstrun_sync_title "Lonk">
+<!ENTITY firstrun_sync_message "&brandShortName;, ci sa wet saa su ne">
 <!ENTITY  onboard_start_button_browser "Start Browsing">
 
 
