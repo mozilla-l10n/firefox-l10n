@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠা লৈ স্বাক্ষৰ কৰক…">
 <!ENTITY addCurPagesCmd.label "সকলো টেব পত্ৰচিহ্নিত কৰক…">
 <!ENTITY showAllBookmarks2.label "সকলো পত্ৰচিহ্ন দেখুৱাওক">
-
 <!ENTITY unsortedBookmarksCmd.label "অসজোৱা পত্ৰচিহ্নসমূহ">
 <!ENTITY bookmarksToolbarChevron.tooltip "অধিক পত্ৰচিহ্ন দেখুৱাওক">
 
