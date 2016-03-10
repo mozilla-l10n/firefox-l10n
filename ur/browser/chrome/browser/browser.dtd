@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "اس صفحہ کے ساتھ رکنیت سازی کریں…">
 <!ENTITY addCurPagesCmd.label "تمام ٹیب نشان زد کریں…">
 <!ENTITY showAllBookmarks2.label "تمام نشانیاں دکھائیں">
-
 <!ENTITY unsortedBookmarksCmd.label "غیر چھانٹی شدہ نشانیاں">
 <!ENTITY bookmarksToolbarChevron.tooltip "اور نشانیاں دکھائیں">
 
