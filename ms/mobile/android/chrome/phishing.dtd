@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Halaman serangan cuba untuk memasang perisian yang mencuri maklumat peribadi, mengguna komputer anda untuk menyerang yang lain, atau merosakkan sistem anda.</p><p>Sebahagian halaman serangan secara sengaja menyebarkan perisian merbahaya, tetapi banyak berlaku tanpa pengetahuan dan keizinan pemiliknya.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Laman web di <span id='phishing_sitename'/> telah dilaporkan sebagai laman web serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
 
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
