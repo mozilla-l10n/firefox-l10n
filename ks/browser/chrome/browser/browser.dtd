@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "یئ صفحئ كریو منظور">
 <!ENTITY addCurPagesCmd.label "سارنی ٹیبن تھٲویو نشان">
 <!ENTITY showAllBookmarks2.label "سٲری نشانزد ہٲویو">
-
 <!ENTITY unsortedBookmarksCmd.label "چھانٹنئی نشان زد">
 <!ENTITY bookmarksToolbarChevron.tooltip "مزید نشان زد ہٲویو">
 
