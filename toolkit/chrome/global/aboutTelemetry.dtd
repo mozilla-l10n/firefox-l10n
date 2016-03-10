@@ -78,5 +78,6 @@
 
 <!ENTITY aboutTelemetry.filterText "  Filtro (strings ou /regexp/)">
 
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  'Payload'">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
 
+<!ENTITY aboutTelemetry.rawPayload "  Payload em bruto">
