@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Berlangganan Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Markahi Semua Tab…">
 <!ENTITY showAllBookmarks2.label "Tampilkan Semua Markah…">
-<!ENTITY recentBookmarks.label "Baru Saja Dibuat Markah">
 <!ENTITY unsortedBookmarksCmd.label "Markah Belum Diurut">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan markah lainnya">
 
