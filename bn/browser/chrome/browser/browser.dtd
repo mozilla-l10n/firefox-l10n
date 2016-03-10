@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে…">
 <!ENTITY addCurPagesCmd.label "সব ট্যাব বুকমার্ক করা হবে…">
 <!ENTITY showAllBookmarks2.label "সব বুকমার্ক প্রদর্শন">
-
 <!ENTITY unsortedBookmarksCmd.label "অবিন্যস্ত বুকমার্ক">
 <!ENTITY bookmarksToolbarChevron.tooltip "আরও বুকমার্ক প্রদর্শন">
 
