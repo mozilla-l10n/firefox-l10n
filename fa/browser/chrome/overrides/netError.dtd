@@ -130,7 +130,7 @@
  مطمئن شوید که &brandShortName; اجازهٔ دسترسی به وب را دارد.</li> 
 </ul>">
 
-<!ENTITY cspBlocked.title "بازداشته شده بنا بر سیاست امنیتی محتوا">
+<!ENTITY cspBlocked.title "مسدود شده بنا بر سیاست امنیتی محتوا">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
 
 <!ENTITY corruptedContentError.title "خطای خرابی محتوا">
