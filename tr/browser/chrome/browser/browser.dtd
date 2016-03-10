@@ -163,12 +163,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "m">
 <!ENTITY shareVideo.label "Bu videoyu paylaş">
 <!ENTITY shareVideo.accesskey "v">
-
-
+<!ENTITY feedsMenu2.label "Bu sayfaya abone ol">
+<!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
 <!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle…">
 <!ENTITY showAllBookmarks2.label "Tüm yer imlerini göster">
-
 <!ENTITY unsortedBookmarksCmd.label "Sıralanmamış yer imleri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
 
@@ -258,7 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Service Worker'lar">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Bağlan…">
 <!ENTITY devtoolsConnect.accesskey    "B">
@@ -410,18 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Yardım menüsünü aç">
 
 <!ENTITY appMenuRemoteTabs.label "Eşitlenmiş sekmeler">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Eşitlenmiş sekmeler alınıyor…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Açık sekme yok">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Diğer cihazlardaki sekmeleri görmek için sekme eşitlemeyi açın.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Diğer cihazlarınızdaki sekmeleri görmek için o cihazlardan Firefox’a giriş yapın.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Eşitleme Tercihleri">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync’e giriş yapın">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Eşitlenmiş sekmeler kenar çubuğunu göster">
 
 <!ENTITY customizeMenu.addToToolbar.label "Araç çubuğuna ekle">
 <!ENTITY customizeMenu.addToToolbar.accesskey "e">
@@ -791,7 +794,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Eşitlenmiş sekmeler">
 
-
+<!ENTITY syncedTabs.sidebar.label              "Eşitlenmiş sekmeler">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Eşitlenmiş sekmeler alınıyor…">
 
 
 
