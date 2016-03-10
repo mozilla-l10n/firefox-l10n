@@ -160,7 +160,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Ingwadiše letlakaleng le...">
 <!ENTITY addCurPagesCmd.label "Pukuswaya dithepo tšohle…">
 <!ENTITY showAllBookmarks2.label "Laetša dipukutshwayo tšohle">
-
 <!ENTITY unsortedBookmarksCmd.label "Dipukutshwayo tše sa latelantšhwago">
 <!ENTITY bookmarksToolbarChevron.tooltip "Bontšha dipukutshwayo tše oketšegilego">
 
