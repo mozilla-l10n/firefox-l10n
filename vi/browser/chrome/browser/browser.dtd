@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Đăng kí theo dõi trang này…">
 <!ENTITY addCurPagesCmd.label "Đánh dấu tất cả các tab…">
 <!ENTITY showAllBookmarks2.label "Các trang đã đánh dấu">
-
 <!ENTITY unsortedBookmarksCmd.label "Các đánh dấu chưa phân loại">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 
