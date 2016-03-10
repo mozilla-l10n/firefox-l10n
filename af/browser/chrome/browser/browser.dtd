@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Teken in op hierdie bladsy…">
 <!ENTITY addCurPagesCmd.label "Boekmerk alle oortjies…">
 <!ENTITY showAllBookmarks2.label "Wys alle boekmerke">
-
 <!ENTITY unsortedBookmarksCmd.label "Ongeliasseerde boekmerke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wys meer boekmerke">
 
