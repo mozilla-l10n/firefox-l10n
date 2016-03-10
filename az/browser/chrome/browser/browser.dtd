@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Bu səhifəyə abunə ol…">
 <!ENTITY addCurPagesCmd.label "Bütün Vərəqləri Əlfəcinlə…">
 <!ENTITY showAllBookmarks2.label "Bütün Əlfəcinləri Göstər">
-<!ENTITY recentBookmarks.label "Yeni Əlfəcinlənmiş">
 <!ENTITY unsortedBookmarksCmd.label "Sıralanmamış Əlfəcinlər">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha çox əlfəcin göstər">
 
