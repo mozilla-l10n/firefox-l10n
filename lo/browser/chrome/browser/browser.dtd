@@ -160,7 +160,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ເປັນສະມາຊິກຫນ້ານີ້...">
 <!ENTITY addCurPagesCmd.label "ບຸກມາກຂອງທຸກແຖບ...">
 <!ENTITY showAllBookmarks2.label "ສະແດງທຸກບຸກມາກ">
-
 <!ENTITY unsortedBookmarksCmd.label "ຈັດລຳດັບບຸກມາກຄືນໃຫມ່">
 <!ENTITY bookmarksToolbarChevron.tooltip "ສະແດງບຸກມາກເພີມເຕີມ">
 
