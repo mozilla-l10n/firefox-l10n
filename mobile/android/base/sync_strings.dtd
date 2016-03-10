@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Email">
-
+<!ENTITY fxaccount_password_hint "Password">
 <!ENTITY fxaccount_password_hide "Hide">
 <!ENTITY fxaccount_password_show "Show">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in Android Settings &gt; Data Usage.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in the menu of Android Settings &gt; Accounts.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tap to sign in to your new Firefox Account.">
-
+<!ENTITY fxaccount_status_bookmarks "Bookmarks">
 <!ENTITY fxaccount_status_history "History">
 <!ENTITY fxaccount_status_passwords2 "Logins">
 <!ENTITY fxaccount_status_tabs "Open tabs">
