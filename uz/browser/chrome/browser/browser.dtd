@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Ushbu sahifaga obuna bo‘lish…">
 <!ENTITY addCurPagesCmd.label "Barcha ichki oynalarni xatcho‘plash">
 <!ENTITY showAllBookmarks2.label "Barcha xatcho‘plarni ko‘rsatish">
-
 <!ENTITY unsortedBookmarksCmd.label "Saralanmagan xatcho‘plar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ko‘proq xatcho‘plarni ko‘rsatish">
 
