@@ -275,7 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Дослідити елемент">
 <!ENTITY inspectContextMenu.accesskey "Д">
 
-<!ENTITY responsiveDesignTool.label   "Адаптивний дизайн">
+<!ENTITY responsiveDesignTool.label   "Вигляд адаптивного дизайну">
 <!ENTITY responsiveDesignTool.accesskey "А">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
