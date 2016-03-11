@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Leita líka í bókamerkjunumog ferlinum þínum þegar þú framkvæmir leit.">
 <!ENTITY firstrun_data_title "Gögn">
 <!ENTITY firstrun_data_message "Minna um gögn, meiri niðurhals sparnaður ">
-
+<!ENTITY firstrun_data_subtext2 "Ekki hlaða myndir til að spara gagnamagn.">
 <!ENTITY firstrun_sync_title "Samstilla">
 <!ENTITY firstrun_sync_message "&brandShortName;, sífellt hjá þér">
 <!ENTITY firstrun_sync_subtext "Samstilltu flipana þína, lykilorð og annað alls staðar.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Eingöngu á Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Lokað">
 
+<!ENTITY pref_show_web_fonts "Sýna vef leturgerðirnar">
 
 <!ENTITY pref_tracking_protection_title "Vörn gegn því að fylgst sé með þér">
 <!ENTITY pref_tracking_protection_summary3 "Virkt í huliðsvöfrun">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Vafra í fullum skjá">
 <!ENTITY pref_scroll_title_bar_summary2 "Fela &brandShortName; titilstöng þegar skrunað er niður síðu">
 
-
+<!ENTITY pref_tab_queue_title3 "Fliparöð">
+<!ENTITY pref_tab_queue_summary4 "Vista vísanir þar til þú opnar aftur &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "Ekki fannst neitt efni fyrir þetta spjald.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Aftur á &formatS;">
 
 <!ENTITY home_remote_tabs_title "Samstilltir flipar">
 <!ENTITY home_remote_tabs_empty "Fliparnir þínir sem eru opnir á öðrum tækjum sjást hér.">
@@ -770,7 +774,10 @@ frá Android">
 
 <!ENTITY unsupported_sdk_version "Því miður þá virkar &brandShortName; ekki á þessu tæki (&formatS1;, &formatS2;). Vinsamlega hala niður réttri útgáfu.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; uppfærir ekki lengur">
 <!ENTITY eol_notification_summary "Snertu til að fræðast nánar">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; er þegar með nýjustu útgáfu">
+<!ENTITY whatsnew_notification_summary "Skoðaðu það sem er nýtt í þessari útgáfu">
