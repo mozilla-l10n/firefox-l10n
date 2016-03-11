@@ -51,8 +51,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Recarregar">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Encapsular linhas longas"> 
-<!ENTITY menu_wrapLongLines.accesskey "E">
+<!ENTITY menu_wrapLongLines.title "Moldar linhas longas"> 
+<!ENTITY menu_wrapLongLines.accesskey "M">
 <!ENTITY menu_highlightSyntax.label "Destacar sintaxe">
 <!ENTITY menu_highlightSyntax.accesskey "x">
 <!ENTITY menu_textSize.label "Tamanho do texto">
