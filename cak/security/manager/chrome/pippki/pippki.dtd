@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Values for changepassword.xul -->
-
+<!ENTITY setPassword.tokenName.label "Rokisab'al chajinïk">
 
 
 <!ENTITY setPassword.reenterPassword.label "K'ak'a' ewan tzij (Tijikib'äx):">
@@ -23,7 +23,7 @@
 
 
 <!-- Strings for the SSL client auth ask dialog -->
-
+<!ENTITY clientAuthAsk.message1 "Re jun ruxaq k'amaya'l re' xuk'utuj pe chi taya' ab'i' rik'in jun ruwujil b'i'aj:">
 
 
 <!-- Strings for the cert picker dialog -->
