@@ -151,7 +151,7 @@
 <!ENTITY pref_category_search3 "Որոնում">
 <!ENTITY pref_category_search_summary "Կարգավորել որոնիչները">
 <!ENTITY pref_category_accessibility "Մատչելիություն">
-<!ENTITY pref_category_accessibility_summary2 "Տեքստիգույն, չափափոխում, ձայնային ներածում">
+<!ENTITY pref_category_accessibility_summary2 "Տեքստի գույն, չափափոխում, ձայնային ներածում">
 <!ENTITY pref_category_privacy_short "Գաղտնիություն">
 <!ENTITY pref_category_privacy_summary3 "Հետագծում, cookie-ներ, տվյալի ընտրություն">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
