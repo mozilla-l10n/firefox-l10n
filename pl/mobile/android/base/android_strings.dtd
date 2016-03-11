@@ -62,6 +62,7 @@
 <!ENTITY bookmark_removed "Usunięto zakładkę">
 <!ENTITY bookmark_updated "Zaktualizowano zakładkę">
 <!ENTITY bookmark_options "Opcje">
+<!ENTITY screenshot_added_to_bookmarks "Dodano zakładkę do zrzutu ekranu">
 
 <!ENTITY history_today_section "Dzisiaj">
 <!ENTITY history_yesterday_section "Wczoraj">
