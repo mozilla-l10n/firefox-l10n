@@ -15,8 +15,8 @@
 
 
 
-
-
+<!ENTITY devmgr.button.unload.label             "Tiqasäx">
+<!ENTITY devmgr.button.unload.accesskey         "T">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 

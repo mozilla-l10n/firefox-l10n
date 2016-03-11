@@ -61,6 +61,10 @@
 
 
 
+<!ENTITY certmgr.details.label                "Taq ruk'ojlib'al ruwujil b'i'aj">
+<!ENTITY certmgr.details.accesskey            "r">
+<!ENTITY certmgr.fields.label                 "Rejqalem k'ojlib'äl">
+<!ENTITY certmgr.fields.accesskey             "R">
 
 
 
@@ -74,11 +78,7 @@
 
 
 
-
-
-
-
-
+<!ENTITY exceptionMgr.certstatus.viewCert     "Tiz'et…">
 
 
 
