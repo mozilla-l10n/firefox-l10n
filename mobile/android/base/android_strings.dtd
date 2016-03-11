@@ -127,7 +127,8 @@
 <!ENTITY home_add_panel_empty "Non è stato trovato alcun pannello da aggiungere.">
 <!ENTITY home_add_panel_installed "“&formatS;” aggiunto alla pagina iniziale">
 <!ENTITY pref_category_home_content_settings "Impostazioni contenuti">
-<!ENTITY pref_home_updates "Aggiornamento automatico">
+<!ENTITY pref_category_home_add_ons "Componenti aggiuntivi">
+<!ENTITY pref_home_updates2 "Aggiorna contenuti">
 <!ENTITY pref_home_updates_enabled "Attivo">
 <!ENTITY pref_home_updates_wifi "Solo con Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Visualizza siti consigliati">
