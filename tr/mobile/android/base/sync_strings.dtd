@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-posta">
-
+<!ENTITY fxaccount_password_hint "Parola">
 <!ENTITY fxaccount_password_hide "Gizle">
 <!ENTITY fxaccount_password_show "Göster">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; kuruldu ama otomatik olarak eşitleme yapmıyor. Android Ayarları &gt; Veri Kullanımı menüsünden “Verileri otomatik eşitle”yi açın.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; kuruldu ama otomatik olarak eşitleme yapmıyor. Android Ayarları &gt; Hesaplar menüsünden “Verileri otomatik eşitle”yi açın.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Yeni Firefox Hesabınıza giriş yapmak için dokunun.">
-
+<!ENTITY fxaccount_status_bookmarks "Yer imleri">
 <!ENTITY fxaccount_status_history "Geçmiş">
 <!ENTITY fxaccount_status_passwords2 "Hesaplar">
 <!ENTITY fxaccount_status_tabs "Açık sekmeler">
