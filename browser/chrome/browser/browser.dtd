@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ចែករំលែក​វីដេអូ​នេះ">
 <!ENTITY shareVideo.accesskey "r">
-
-
+<!ENTITY feedsMenu2.label "ជាវ​ទំព័រ​នេះ">
+<!ENTITY subscribeToPageMenupopup.label "ជាវ​ទំព័រ​នេះ">
 <!ENTITY subscribeToPageMenuitem.label "ជាវ​ទំព័រ​នេះ…">
 <!ENTITY addCurPagesCmd.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
 <!ENTITY showAllBookmarks2.label "បង្ហាញ​ចំណាំ​ទាំងអស់">
@@ -186,11 +186,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "បោះពុម្ព">
 <!ENTITY printButton.tooltip          "បោះពុម្ព​ទំព័រ​នេះ">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "មើល​ព័ត៌មាន​តំបន់បណ្ដាញ">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.label         "មើល​ការ​ជូនដំណឹង">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "មើល​សំណើ​ទីតាំង">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "មើល​សារ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម">
 
 
 
