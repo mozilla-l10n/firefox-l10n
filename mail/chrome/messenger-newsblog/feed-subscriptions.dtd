@@ -9,6 +9,7 @@
 
 
 
+<!ENTITY locationValidate.label      "Validēt">
 
 
 
@@ -20,16 +21,17 @@
 
 
 
+<!ENTITY button.addFeed.label        "Pievienot">
+<!ENTITY button.addFeed.accesskey    "P">
+<!ENTITY button.editFeed.label       "Atjaunināt">
+<!ENTITY button.editFeed.accesskey   "u">
+<!ENTITY button.removeFeed.label     "Noņemt">
+<!ENTITY button.removeFeed.accesskey "N">
+<!ENTITY button.importOPML.label     "Importēt">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Eksportēt">
+<!ENTITY button.exportOPML.accesskey "s">
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Aizvērt">

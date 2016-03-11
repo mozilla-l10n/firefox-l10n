@@ -13,6 +13,27 @@
 
 
 
+<!ENTITY referencesField4.label "Atsauces">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY hdrTrashButton1.label "Dzēst">
 
 
 
@@ -34,29 +55,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY saveAsMenuItem1.label "Saglabāt kā…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
 
 
 
@@ -65,16 +65,18 @@
 
 <!-- Attachment context menu items -->
 
+<!ENTITY openAttachmentCmd.label    "Atvērt">
+<!ENTITY openAttachmentCmd.accesskey    "A">
+<!ENTITY saveAsAttachmentCmd.label    "Saglabāt kā…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "S">
 
 
+<!ENTITY deleteAttachmentCmd.label    "Dzēst">
+<!ENTITY deleteAttachmentCmd.accesskey    "D">
 
 
-
-
-
-
-
-
+<!ENTITY saveAllAttachmentsCmd.label    "Saglabāt kā…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 
 
 
@@ -82,7 +84,9 @@
 
 <!-- Attachment toolbar items -->
 
+<!ENTITY saveAttachmentButton1.label       "Saglabāt">
 
+<!ENTITY saveAllAttachmentsButton1.label   "Saglabāt visu">
 
 
 

@@ -86,14 +86,14 @@
 
 <!-- Font Style SubMenu -->
 
-
-
+<!ENTITY styleBoldCmd.label "Treknraksts">
+<!ENTITY styleBoldCmd.accesskey "T">
 <!ENTITY styleBoldCmd.key "B">
-
-
+<!ENTITY styleItalicCmd.label "Kursīvs">
+<!ENTITY styleItalicCmd.accesskey "K">
 <!ENTITY styleItalicCmd.key "I">
-
-
+<!ENTITY styleUnderlineCmd.label "Pasvītrot">
+<!ENTITY styleUnderlineCmd.accesskey "P">
 <!ENTITY styleUnderlineCmd.key "U">
 
 
@@ -197,6 +197,8 @@
 
 <!-- Table Menu -->
 
+<!ENTITY tableMenu.label "Tabula">
+<!ENTITY tableMenu.accesskey "b">
 <!-- Select Submenu -->
 
 

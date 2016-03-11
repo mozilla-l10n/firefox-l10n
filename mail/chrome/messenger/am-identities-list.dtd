@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
+<!ENTITY identitiesListEdit.label "Rediģēt...">
+<!ENTITY identitiesListEdit.accesskey "e">
 
 
 <!ENTITY identitiesListDelete.label "Dzēst">

@@ -15,4 +15,4 @@
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.wizardShortName "Barotnes">
 
-
+<!ENTITY feeds.wizardLongName.accesskey "F">
