@@ -51,8 +51,10 @@ their language.
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
-
-
-
-
+<!ENTITY tabgroupsmigration.tabtitle            "ផ្លាស់ទីបណ្តុំផ្ទាំងផ្សេងៗទៀតរបស់អ្នក">
+<!ENTITY tabgroupsmigration.pagetitle2          "យើងបានដកបណ្តុំផ្ទាំងចេញ តែបានរក្សាទុកនូវផ្ទាំងរបស់អ្នក">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "ស្វែងយល់​អំពី​​កម្មវិធី​ផ្នែក​បន្ថែម​ការ​ជំនួស​ក្រុម​ផ្ទាំង។">
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; ​បាន​ចំណាំ​ក្រុម​របស់​អ្នក​ទាំងអស់​ ដូច្នេះ​អ្នក​មិន​​បាត់បង់​អ្វី​ឡើយ។">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "បង្ហាញ​ក្រុម​ផ្ទាំង​ចំណាំ">
+<!ENTITY tabgroupsmigration.restoredescription  "អ្នក​ក៏​អាច​ជ្រើស​ស្ដារ​ក្រុម​ផ្ទៃខាងក្រោយ​ខ្លះ ឬ​ទាំងអស់​ទៅ​ក្នុង​បង្អួច​ឥឡូវ​នេះ៖">
 
