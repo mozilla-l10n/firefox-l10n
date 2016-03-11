@@ -44,13 +44,13 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-b "यहाँ">
-
+<!ENTITY rights3.webservices-c "अन्य सेवा र सुविधा अनुप्रयोगको प्राथमिकताहरूबाट अक्षम गर्न सकिन्छ।">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "सुरक्षित ब्राउजिङ: ">
 
 <!ENTITY rights.safebrowsing-term1 "अनुप्रयोग प्राथमिकताहरू खोल्नुहोस्">
-
+<!ENTITY rights.safebrowsing-term2 "सुरक्षा छान्नुहोस्">
 
 <!ENTITY rights.safebrowsing-term4 "सुरक्षित ब्राउजिङ अहिले निष्कृय छ">
 <!-- location aware browsing points for branded builds -->
