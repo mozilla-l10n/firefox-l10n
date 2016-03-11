@@ -18,7 +18,7 @@
 <!ENTITY downloadCert.message1 "Nik'utüx chawe chi ütz tatz'eta' ri k'ak'a' Taq'onel Ya'öl Wujil B'i'aj (TYWB').">
 
 
-
+<!ENTITY downloadCert.trustObjSign "Takuqub'a' ak'u'x rik'in ri CA richin ye'atz'ët taq ajb'anöy kema'.">
 
 
 <!ENTITY downloadCert.viewCert.text "Tinik'öx ruwujil rub'i' CA">
@@ -41,4 +41,4 @@
 <!ENTITY createCertInfo.msg2 "Tawoyob'ej…">
 <!-- Strings for protectedAuth dialog -->
 
-
+<!ENTITY protectedAuth.tokenName.label "Token:">

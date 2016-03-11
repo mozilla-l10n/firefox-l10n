@@ -45,8 +45,8 @@
 
 <!ENTITY certmgr.close.label                  "Elem">
 <!ENTITY certmgr.close.accesskey              "C">
-
-
+<!ENTITY certmgr.view2.label                  "Titz'et…">
+<!ENTITY certmgr.view2.accesskey              "T">
 
 
 
@@ -72,7 +72,7 @@
 
 
 
-
+<!ENTITY exceptionMgr.supplementalWarning     "Ri qitzij taq pwaqb'äl, taq k'ayij chuqa' juley chik aj winäq ruxaq k'amaya'l, man xtikik'utuj ta chawe chi xtab'än re'.">
 
 
 
