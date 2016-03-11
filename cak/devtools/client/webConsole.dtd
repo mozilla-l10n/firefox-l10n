@@ -61,7 +61,7 @@
 <!ENTITY btnServerLogging.accesskey   "R">
 
 
-
+<!ENTITY btnServerWarnings            "Kitzijol taq k'ayewal">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
