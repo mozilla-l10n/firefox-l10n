@@ -17,9 +17,10 @@
 <!ENTITY firstrun_bookmarks_subtext "Med iskanjem se vam prikažejo rezultati iz zgodovine iskanja in zaznamkov.">
 <!ENTITY firstrun_data_title "Podatki">
 <!ENTITY firstrun_data_message "Manj kot je podatkov, več je prihrankov">
+<!ENTITY firstrun_data_subtext2 "Izključite slike in porabite manj podatkov med obiskovanjem strani.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName; - vedno na vaši strani">
-<!ENTITY firstrun_sync_subtext "Sinhrinizirajte zavihke, gesla in drugo na vseh mestih.">
+<!ENTITY firstrun_sync_subtext "Sinhronizirajte zavihke, gesla in drugo na vseh mestih.">
 <!ENTITY firstrun_signin_message "Povežite se in začnite">
 <!ENTITY firstrun_signin_button "Prijava v Sync">
 <!ENTITY  onboard_start_button_browser "Začnite brskanti">
