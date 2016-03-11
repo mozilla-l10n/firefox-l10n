@@ -21,6 +21,8 @@
   -  separated by a styled <link> tag and 2 and 3 separated by a styled
   -  <style> tag -->
 
+<!ENTITY csscoverage.optimize.body1 "K'o re yatikïr nawutzij ri rusamajixik rik'in ye'asiloj ri taq etal">
+
 
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->

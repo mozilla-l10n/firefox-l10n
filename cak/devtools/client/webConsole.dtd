@@ -57,7 +57,7 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
 <!ENTITY btnServerLogging.label       "Ruk'u'x samaj">
-
+<!ENTITY btnServerLogging.tooltip     "Kitz'ib'axik taq rutzijol taqoj ek'ulun pa jun okik'amaya'l ruk'u'x samaj">
 <!ENTITY btnServerLogging.accesskey   "R">
 
 
