@@ -63,6 +63,7 @@
 <!ENTITY bookmark_updated "Zaktualizowano zakładkę">
 <!ENTITY bookmark_options "Opcje">
 <!ENTITY screenshot_added_to_bookmarks "Dodano zakładkę do zrzutu ekranu">
+<!ENTITY screenshot_folder_label_in_bookmarks "Zrzuty ekranu">
 
 <!ENTITY history_today_section "Dzisiaj">
 <!ENTITY history_yesterday_section "Wczoraj">
