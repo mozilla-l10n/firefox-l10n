@@ -58,8 +58,8 @@
 <!ENTITY pasteCmd.label                                 "Ielīmēt">
 
 <!ENTITY pasteCmd.accesskey                             "I">
-
-
+<!ENTITY deleteCmd.label                                "Dzēst">
+<!ENTITY deleteCmd.accesskey                            "D">
 
 
 
@@ -88,8 +88,8 @@
 
 
 
-
-
+<!ENTITY showTaskbarCmd.label                           "Statusa josla">
+<!ENTITY showTaskbarCmd.accesskey                       "S">
 
 
 
@@ -137,8 +137,8 @@ because displayed names don't have the comma in between. -->
 
 
 
-
-
+<!ENTITY deleteButton2.label                            "Dzēst">
+<!ENTITY deleteButton2.accesskey                        "D">
 <!-- Address Book Toolbar Tooltips -->
 
 <!ENTITY newContactButton.tooltip                       "Izveidot jaunu kontaktu adrešu grāmatā">
@@ -148,6 +148,8 @@ because displayed names don't have the comma in between. -->
 
 
 <!-- Dir Tree header -->
+
+<!ENTITY dirTreeHeader.label                            "Adrešu grāmatas">
 <!-- Search Bar -->
 
 
@@ -191,6 +193,8 @@ because displayed names don't have the comma in between. -->
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+
+<!ENTITY contact.heading                                "Kontakts">
 
 
 

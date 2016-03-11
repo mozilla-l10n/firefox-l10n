@@ -23,10 +23,10 @@
 
 
 
-
-
-
-
+<!ENTITY DeleteHtmlDomain.label       "Dzēst">
+<!ENTITY DeleteHtmlDomain.accesskey   "D">
+<!ENTITY DeletePlainText.label        "Dzēst">
+<!ENTITY DeletePlainText.accesskey    "D">
 
 
 

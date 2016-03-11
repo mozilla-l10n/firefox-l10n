@@ -33,10 +33,10 @@
 <!ENTITY saveCmd.label "Saglabāt">
 
 <!ENTITY saveCmd.accesskey "S">
-
-
-
-
+<!ENTITY saveAsCmd.label "Saglabāt kā">
+<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsFileCmd.label "Datne...">
+<!ENTITY saveAsFileCmd.accesskey "D">
 
 
 
@@ -58,33 +58,33 @@
 
 <!ENTITY editMenu.label "Rediģēt">
 <!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Atsaukt">
 
-
-
+<!ENTITY undoCmd.accesskey "u">
 <!ENTITY redoCmd.label "Atcelt atsaukšanu">
 
 <!ENTITY redoCmd.accesskey "t">
+<!ENTITY cutCmd.label "Izgriezt">
+
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Kopēt">
+
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Ielīmēt">
+
+<!ENTITY pasteCmd.accesskey "I">
+
+
+
+<!ENTITY deleteCmd.label "Dzēst">
+<!ENTITY deleteCmd.accesskey "D">
 
 
 
 
+<!ENTITY selectAllCmd.label "Atlasīt visus">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY selectAllCmd.accesskey "v">
 
 
 
@@ -111,8 +111,8 @@
 
 
 
-
-
+<!ENTITY showTaskbarCmd.label "Statusa josla">
+<!ENTITY showTaskbarCmd.accesskey "S">
 
 
 
@@ -121,6 +121,8 @@
 
 <!-- Options Menu -->
 
+<!ENTITY optionsMenu.label "Iestatījumi">
+<!ENTITY optionsMenu.accesskey "I">
 
 
 
@@ -168,8 +170,8 @@
 
 
 
-
-
+<!ENTITY addressBookCmd.label "Adrešu grāmata">
+<!ENTITY addressBookCmd.accesskey "A">
 
 
 
@@ -185,10 +187,10 @@
 
 <!-- Mail Toolbar -->
 
+<!ENTITY addressButton.label "Kontakti">
 
 
-
-
+<!ENTITY saveButton.label "Saglabāt">
 
 <!-- Mail Toolbar Tooltips -->
 
@@ -198,9 +200,9 @@
 
 
 
-
-
-
+<!ENTITY cutButton.tooltip              "Izgriezt">
+<!ENTITY copyButton.tooltip             "Kopēt">
+<!ENTITY pasteButton.tooltip            "Ielīmēt">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
@@ -239,26 +241,27 @@
 
 
 
+<!ENTITY undo.label "Atsaukt">
+<!ENTITY undo.accesskey "u">
+<!ENTITY cut.label "Izgriezt">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copy.label "Kopēt">
+<!ENTITY copy.accesskey "K">
+<!ENTITY paste.label "Ielīmēt">
+<!ENTITY paste.accesskey "I">
+
+
+
+<!ENTITY openAttachment.label "Atvērt">
+<!ENTITY openAttachment.accesskey "A">
+<!ENTITY delete.label "Dzēst">
+<!ENTITY delete.accesskey "D">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY selectAll.label "Atlasīt visus">
+<!ENTITY selectAll.accesskey "v">
 
 
 
@@ -274,5 +277,7 @@
 <!-- Spell checker context menu items -->
 
 <!-- Title for the address picker panel -->
+
+<!ENTITY addressesSidebarTitle.label "Kontakti">
 <!-- Identity popup customize menuitem -->
 

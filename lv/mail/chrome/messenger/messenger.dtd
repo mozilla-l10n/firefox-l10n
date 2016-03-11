@@ -475,12 +475,12 @@
 
 <!ENTITY fileButton.label "Datne">
 
+<!ENTITY nextButton.label "Nākošais">
 
+<!ENTITY nextMsgButton.label "Nākošais">
+<!ENTITY previousButton.label "Iepriekšējais">
 
-
-
-
-
+<!ENTITY previousMsgButton.label "Iepriekšējais">
 
 
 <!ENTITY deleteItem.title "Dzēst">
@@ -549,6 +549,8 @@
 
 <!-- AppMenu Popup -->
 
+<!ENTITY appmenuNewMsgCmd.label "Jauns ziņojums">
+<!ENTITY appmenuNewContactCmd.label "Adrešu grāmatas kontakts...">
 <!ENTITY appmenuEditMenu.label "Rediģēt">
 
 

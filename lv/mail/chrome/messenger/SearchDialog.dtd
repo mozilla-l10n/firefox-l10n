@@ -11,8 +11,8 @@
 
 
 
-
-
+<!ENTITY deleteButton.label          "Dzēst">
+<!ENTITY deleteButton.accesskey      "D">
 
 
 
@@ -28,8 +28,8 @@
 
 
 
-
-
+<!ENTITY deleteCardButton.label      "Dzēst">
+<!ENTITY deleteCardButton.accesskey  "D">
 
 <!-- Thread Pane -->
 

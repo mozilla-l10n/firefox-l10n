@@ -60,8 +60,8 @@
 
 <!ENTITY offlineInfo.caption           "Nesaistē">
 
-
-
+<!ENTITY showOffline.label             "Bezsaistē...">
+<!ENTITY showOffline.accesskey         "B">
 
 
 

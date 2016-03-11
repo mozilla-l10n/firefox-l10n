@@ -6,8 +6,8 @@
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
 
-
-
+<!ENTITY smtpListEdit.label "Rediģēt...">
+<!ENTITY smtpListEdit.accesskey "e">
 
 
 

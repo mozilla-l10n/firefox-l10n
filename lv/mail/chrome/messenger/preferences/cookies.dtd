@@ -19,7 +19,8 @@
 
 
 
-
+<!ENTITY filter.label                      "Meklēt:">
+<!ENTITY filter.accesskey                  "M">
 
 <!ENTITY button.close.label                "Aizvērt">
 <!ENTITY button.close.accesskey            "A">
