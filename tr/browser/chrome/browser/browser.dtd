@@ -796,12 +796,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Eşitlenmiş sekmeler">
 <!ENTITY syncedTabs.sidebar.fetching.label     "Eşitlenmiş sekmeler alınıyor…">
-
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Diğer cihazlardaki sekmelerinizi görmek için o cihazlardan Firefox’a giriş yapın.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Diğer cihazlarınızdaki sekmelerin listesini görmek için giriş yapın.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Açık sekme yok">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; tercihlerini aç">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Diğer cihazlarınızdaki sekmelerin listesini görmek için sekme eşitlemeyi açın.">
 
 
 
