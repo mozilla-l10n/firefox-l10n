@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY no_space_to_start_error "Spazio libero insufficiente per avviare &brandShortName;.">
-<!ENTITY error_loading_file "Si è verificato un errore durante il caricamento di un file necessario per l’esecuzione di &brandShortName;">
 <!ENTITY firstrun_panel_title_welcome "Benvenuto">
 <!ENTITY onboard_start_message3 "Naviga con &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Un’esperienza di navigazione che si adatta alle tue esigenze.">
@@ -42,10 +40,6 @@
 <!ENTITY sending_crash_report "Invio segnalazione\u2026">
 <!ENTITY crash_close_label "Chiudi">
 <!ENTITY crash_restart_label "Riavvia &brandShortName;">
-<!ENTITY exit_label "Esci">
-<!ENTITY launcher_shortcuts_title "&brandShortName; web app">
-<!ENTITY launcher_shortcuts_empty "Nessuna web app trovata">
-<!ENTITY choose_file "Scelta file">
 <!ENTITY url_bar_default_text2 "Cerca o inserisci un indirizzo">
 <!ENTITY bookmark "Segnalibro">
 <!ENTITY bookmark_remove "Elimina segnalibro">
@@ -59,9 +53,7 @@
 <!ENTITY history_today_section "Oggi">
 <!ENTITY history_yesterday_section "Ieri">
 <!ENTITY history_week_section3 "Ultimi 7 giorni">
-<!ENTITY history_this_month_section "Questo mese">
 <!ENTITY history_older_section3 "Più vecchi di 6 mesi">
-<!ENTITY go "Vai">
 <!ENTITY search "Cerca">
 <!ENTITY reload "Ricarica">
 <!ENTITY forward "Avanti">
@@ -114,7 +106,6 @@
 <!ENTITY pref_search_hint "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca e poi toccando l’icona &formatI;.">
 <!ENTITY pref_category_advanced "Avanzate">
 <!ENTITY pref_category_advanced_summary2 "Ripristino schede, plugin, strumenti di sviluppo">
-<!ENTITY pref_developer_remotedebugging "Debug remoto">
 <!ENTITY pref_developer_remotedebugging_usb "Debug remoto tramite USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debug remoto tramite Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Il debug tramite Wi-Fi richiede la presenza sul dispositivo di un’app per la scansione di codici QR.">
@@ -123,9 +114,6 @@
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Personalizza la pagina iniziale">
 <!ENTITY pref_category_home_panels "Pannelli">
-<!ENTITY home_add_panel_title "Nuovo pannello">
-<!ENTITY home_add_panel_empty "Non è stato trovato alcun pannello da aggiungere.">
-<!ENTITY home_add_panel_installed "“&formatS;” aggiunto alla pagina iniziale">
 <!ENTITY pref_category_home_content_settings "Impostazioni contenuti">
 <!ENTITY pref_category_home_add_ons "Componenti aggiuntivi">
 <!ENTITY pref_home_updates2 "Aggiorna contenuti">
@@ -242,7 +230,6 @@
 <!ENTITY datareporting_notification_action_long "Scegli quali dati condividere">
 <!ENTITY datareporting_notification_action "Scegli cosa condividere">
 <!ENTITY datareporting_notification_summary "Per migliorare l’esperienza utente, vengono inviate automaticamente alcune informazioni a &vendorShortName;. ">
-<!ENTITY datareporting_notification_summary_short "Per migliorare l’esperienza utente…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!ENTITY datareporting_fhr_title "Analisi integrità di &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Condividi informazioni con &vendorShortName; sullo stato di integrità del browser per comprenderne al meglio le prestazioni">
@@ -278,7 +265,6 @@
 <!ENTITY close_private_tabs "Chiudi schede anonime">
 <!ENTITY tabs_normal "Schede">
 <!ENTITY tabs_private "Anonime">
-<!ENTITY tabs_synced "Sincronizzate">
 <!ENTITY set_image_fail "Impossibile impostare immagine">
 <!ENTITY set_image_path_fail "Impossibile salvare l’immagine">
 <!ENTITY set_image_chooser_title "Imposta immagine come">
@@ -336,8 +322,6 @@
 <!ENTITY reading_list_removed "Pagina rimossa da Elenco lettura">
 <!ENTITY reading_list_remove "Rimuovi da Elenco lettura">
 <!ENTITY reading_list_duplicate "Pagina già presente in Elenco lettura">
-<!ENTITY reading_list_time_minutes2 "&formatD; min">
-<!ENTITY reading_list_time_over_an_hour "Più di un’ora">
 <!ENTITY page_action_dropmarker_description "Azioni disponibili">
 <!ENTITY masterpassword_create_title "Imposta password principale">
 <!ENTITY masterpassword_remove_title "Rimuovi password principale">
@@ -404,7 +388,6 @@
 <!ENTITY learn_more "Ulteriori informazioni">
 <!ENTITY enable_protection "Attiva protezione">
 <!ENTITY disable_protection "Disattiva protezione">
-<!ENTITY keep_blocking "Continua a bloccare">
 <!ENTITY private_data_success "Dati personali eliminati">
 <!ENTITY private_data_fail "Impossibile eliminare alcuni dati personali">
 <!ENTITY bookmarkhistory_button_import "Importa">
@@ -446,7 +429,6 @@
 <!ENTITY remote_tabs_never_synced "Ultima sinc.: mai">
 <!ENTITY intent_uri_private_browsing_prompt "Questo link verrà aperto in &formatS;. Uscire dalla modalità Navigazione anonima?">
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Uscire dalla modalità Navigazione anonima?">
-<!ENTITY intent_uri_cannot_open "Impossibile aprire il link">
 <!ENTITY devtools_auth_scan_header "Scansione del codice QR visualizzato sull’altro dispositivo">
 <!ENTITY restrictable_feature_addons_installation "Componenti aggiuntivi">
 <!ENTITY restrictable_feature_addons_installation_description "Aggiungi nuove caratteristiche a Firefox. Attenzione: i componenti aggiuntivi possono rimuovere alcune limitazioni.">
