@@ -12,8 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> konumundaki sitenin saldırı sitesi olduğu bildirildi ve açılması güvenlik tercihlerinize dayanılarak engellendi.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Saldırı sitesi olarak tanımlanan siteler özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırı amacıyla kullanan ya da sisteminize zarar veren programları kurmaya çalışan sitelerdir.</p><p>Bazı saldırı siteleri zararlı yazılımları bilerek dağıtırken, çoğu site, sahibinin bilgisi ve izni dışında bu amaçla kullanılır.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Aldatıcı site!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "<span id='phishing_sitename'/> adresli sayfanın aldatıcı bir site olduğu bildirildi ve güvenlik tercihlerinize dayanılarak bu sayfa engellendi.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Aldatıcı siteler, tehlikeli bir şey yapmanız için sizi kandırmak üzere tasarlanmıştır. Örneğin yazılım yüklemenizi veya parola, telefon numarası, kredi kartı gibi kişisel bilgilerinizi paylaşmanızı isteyebilirler.</p><p>Bu sayfaya herhangi bir bilgi verirseniz bu bilgileriniz çalınabilir veya sahtekârlık amacıyla kullanılabilir.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "İstenmeyen yazılım sitesi şüphesi!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
