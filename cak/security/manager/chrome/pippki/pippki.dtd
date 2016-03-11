@@ -15,13 +15,13 @@
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Tajin niqasäx ri ruwujil rub'i'">
+<!ENTITY downloadCert.message1 "Nik'utüx chawe chi ütz tatz'eta' ri k'ak'a' Taq'onel Ya'öl Wujil B'i'aj (TYWB').">
 
 
 
 
 
-
-
+<!ENTITY downloadCert.viewCert.text "Tinik'öx ruwujil rub'i' CA">
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.message1 "Re jun ruxaq k'amaya'l re' xuk'utuj pe chi taya' ab'i' rik'in jun ruwujil b'i'aj:">
 

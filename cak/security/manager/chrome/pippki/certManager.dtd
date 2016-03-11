@@ -22,7 +22,7 @@
 
 
 <!ENTITY certmgr.certdetail.title             "Rub'anikil ruwujil b'i'aj">
-
+<!ENTITY certmgr.certdetail.cn                "Relik b'i'aj (RB')">
 <!ENTITY certmgr.certdetail.o                 "Moloj (MO)">
 
 
