@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "S">
 <!ENTITY shareVideo.label "এই ভিডিওটি শেয়ার করুন s">
 <!ENTITY shareVideo.accesskey "s">
-
-
+<!ENTITY feedsMenu2.label "এই পাতায় সাবস্ক্রাইব করুন">
+<!ENTITY subscribeToPageMenupopup.label "এই পাতায় সাবস্ক্রাইব করুন">
 <!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে…">
 <!ENTITY addCurPagesCmd.label "সব ট্যাব বুকমার্ক করা হবে…">
 <!ENTITY showAllBookmarks2.label "সব বুকমার্ক প্রদর্শন">
@@ -257,7 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "সেবা কর্মী">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "সংযুক্ত করুন">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -409,18 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "সহায়তা মেনু খুলুন">
 
 <!ENTITY appMenuRemoteTabs.label "সিঙ্ককৃত ট্যাব">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "সিঙ্ককৃত ট্যাব নিয়ে আসা হচ্ছে…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "কোন ট্যাব খোলা নেই">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "আপনার অন্যান্য ডিভাইসের ট্যাবসমূহের তালিকা দেখতে, ট্যাব সিঙ্ক চালু করুন।">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "আপনার অন্য ডিভাইসের ট্যাবগুলো দেখতে তাদের ফায়ারফক্সে সাইন ইন করুন।">
 <!ENTITY appMenuRemoteTabs.openprefs.label "সিঙ্ক পছন্দসমূহ">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখতে সাইন ইন করুন।">
 <!ENTITY appMenuRemoteTabs.signin.label "সিঙ্ক করতে সাইন ইন করুন">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "সিঙ্ককৃত ট্যাবগুলো সাইডবারে দেখুন">
 
 <!ENTITY customizeMenu.addToToolbar.label "টুলবারে যোগ করুন A">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
