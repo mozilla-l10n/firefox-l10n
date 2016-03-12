@@ -47,7 +47,7 @@
 <!ENTITY btnPageLogging.tooltip "Keq'alajisäx rutzijol taq taqoj etaqon pa ri window.console wachinäq">
 <!ENTITY btnPageLogging.accesskey3 "K">
 
-
+<!ENTITY btnConsoleInfo         "Etamab'äl">
 <!ENTITY btnConsoleWarnings     "Kitzijol taq k'ayewal">
 
 <!ENTITY btnConsoleXhr          "XHR">
