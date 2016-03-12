@@ -17,7 +17,7 @@
 <!ENTITY  blockAttackSites.label     "Bildirilmiş saldırı sitelerini engelle">
 <!ENTITY  blockAttackSites.accesskey "s">
 
-<!ENTITY  blockWebForgeries.label     "Bildirilmiş sahtekârlık sitelerini engelle">
+<!ENTITY  blockWebForgeries.label     "Bildirilmiş sahtecilik sitelerini engelle">
 <!ENTITY  blockWebForgeries.accesskey "h">
 
 <!ENTITY  addonExceptions.label         "Ayrıcalıklar…">
