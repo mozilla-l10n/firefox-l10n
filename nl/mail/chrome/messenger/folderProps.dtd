@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Alle berichten verwijderen, behalve de meest recente">
 <!ENTITY retentionKeepRecent.accesskey "a">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Gelezen berichten altijd verwijderen (leeftijdsinstellingen negeren)">
 <!ENTITY retentionApplyToFlagged.label "Berichten met ster altijd bewaren">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
