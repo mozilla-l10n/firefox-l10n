@@ -119,6 +119,7 @@
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Añadir pestañas a marcadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
+<!ENTITY recentBookmarks.label "Añadidos recientemente">
 <!ENTITY unsortedBookmarksCmd.label "Marcadores sin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 <!ENTITY backCmd.label "Anterior">
@@ -142,7 +143,6 @@
 <!ENTITY urlbar.indexedDBNotificationAnchor.label "Ver el mensaje de almacenamiento de aplicaciones sin conexión">
 <!ENTITY urlbar.loginFillNotificationAnchor.label "Administrar su información de inicio de sesión">
 <!ENTITY urlbar.passwordNotificationAnchor.label "Marque si quiere guardar su contraseña">
-<!ENTITY urlbar.webappsNotificationAnchor.label "Ver el mensaje de instalación de aplicaciones">
 <!ENTITY urlbar.pluginsNotificationAnchor.label "Administrar uso de plugins en esta página">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label "Cambiar si puede recibir notificaciones del sitio">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Administrar compartición de su cámara o micrófono con el sitio">
