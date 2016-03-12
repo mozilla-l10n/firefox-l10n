@@ -13,6 +13,9 @@
 <!ENTITY useFavIcons.accesskey                  "L">
 <!ENTITY enableAutomaticImageResizing.label     "Förminska stora bilder så att de ryms i webbfönstret">
 <!ENTITY enableAutomaticImageResizing.accesskey "F">
+<!ENTITY scrolling.label                        "Rullning">
+<!ENTITY useAutoScroll.label                    "Använd automatisk rullning">
+<!ENTITY useAutoScroll.accesskey                "t">
 <!ENTITY useSmoothScroll.label                  "Använd mjuk rullning">
 <!ENTITY useSmoothScroll.accesskey              "n">
 <!ENTITY allowHWAccel.label                     "Använd hårdvaruacceleration när det är tillgängligt">
