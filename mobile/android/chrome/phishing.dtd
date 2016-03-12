@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>เว็บรุกรานจะพยายามติดตั้งโปรแกรมเพื่อขโมยข้อมูลของคุณ ใช้คอมพิวเตอร์ของคุณเพื่อโจมตีคอมพิวเตอร์ของผู้อื่น หรือทำความเสียหายให้กับระบบของคุณ</p><p>เว็บรุกรานบางที่จงใจแพร่กระจายโปรแกรมอันตราย แต่หลายที่ก็เป็นไปโดยไม่ตั้งใจหรือไม่ได้รับอนุญาตจากเจ้าของเว็บ</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "หน้าเว็บนี้ <span id='phishing_sitename'/> ถูกรายงานว่าเป็นไซต์หลอกลวง และถูกปิดกั้นตามการกำหนดค่าความปลอดภัยของคุณ">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "รายงานเว็บซอฟต์แวร์ไม่พึงประสงค์แล้ว!">

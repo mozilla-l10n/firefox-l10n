@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "สัมผัสประสบการณ์การท่องเว็บที่คุณเป็นเจ้าของอย่างแท้จริง">
 
 <!ENTITY firstrun_urlbar_message "ยินดีต้อนรับสู่ &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "ค้นหาสิ่งต่าง ๆ ได้เร็วขึ้นด้วยทางลัดคำแนะนำการค้นหาที่เป็นประโยชน์">
+<!ENTITY firstrun_bookmarks_title "ประวัติ">
 
-
-
-
-
+<!ENTITY firstrun_bookmarks_subtext "รับผลลัพธ์จากที่คั่นหน้าและประวัติของคุณเมื่อคุณค้นหา">
+<!ENTITY firstrun_data_title "ข้อมูล">
 
 
 <!ENTITY firstrun_sync_title "Sync">
 
 
 
-
+<!ENTITY firstrun_signin_button "เข้าสู่ระบบ Sync">
 <!ENTITY  onboard_start_button_browser "เริ่มต้นเข้าเว็บกันเลย">
 <!ENTITY firstrun_button_next "ถัดไป">
 
@@ -63,15 +63,16 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "คั่นหน้าอยู่ก่อนแล้ว">
 <!ENTITY bookmark_removed "ลบที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_updated "ปรับปรุงที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_options "ตัวเลือก">
 
 <!ENTITY history_today_section "วันนี้">
 <!ENTITY history_yesterday_section "เมื่อวาน">
-
-
-
+<!ENTITY history_week_section3 "7 วันที่ผ่านมา">
+<!ENTITY history_this_month_section "เดือนนี้">
+<!ENTITY history_older_section3 "เก่ากว่า 6 เดือน">
 
 <!ENTITY go "ไป">
 <!ENTITY search "ค้นหา">
@@ -101,11 +102,12 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "กำลังเล่นเสียง – &formatS;">
 
 <!ENTITY settings "การตั้งค่า">
 <!ENTITY settings_title "การตั้งค่า">
 <!ENTITY pref_category_general "ทั่วไป">
-
+<!ENTITY pref_category_general_summary2 "หน้าแรก ภาษา แถบ URL">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -129,7 +131,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "ที่คั่นหน้า">
 <!ENTITY overlay_share_reading_list_btn_label "เพิ่มเข้ารายการอ่าน">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่ก่อนแล้ว">
 <!ENTITY overlay_share_reading_list_btn_label_already "อยู่ใน Reading List แล้ว">
 <!ENTITY overlay_share_send_other "ส่งไปยังอุปกรณ์อื่น">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -147,7 +149,7 @@
 
 <!ENTITY pref_category_search3 "ค้นหา">
 <!ENTITY pref_category_search_summary "ปรับแต่งผู้จัดการค้นหาของคุณ">
-
+<!ENTITY pref_category_accessibility "การช่วยเข้าถึง">
 
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
 
@@ -166,13 +168,13 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "เคล็ดลับ: เพิ่มเว็บไซต์ใดๆ เข้าในรายการผู้ให้บริการค้นหาของคุณ โดยการแตะค้างบนช่องค้นหาเว็บไซต์ จากนั้นแตะที่ไอคอน &formatI;">
-
-
+<!ENTITY pref_category_advanced "ขั้นสูง">
+<!ENTITY pref_category_advanced_summary2 "เรียกคืนแท็บ โปรแกรมเสริม เครื่องมือนักพัฒนา">
 <!ENTITY pref_developer_remotedebugging "การดีบักผ่านเครือข่าย">
 
 
 
-
+<!ENTITY pref_remember_signons2 "จดจำการเข้าสู่ระบบ">
 <!ENTITY pref_manage_logins "จัดการการเข้าระบบ">
 
 <!ENTITY pref_category_home "หน้าหลัก">
@@ -185,16 +187,17 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ถูกเพิ่มไปยังหน้าแรก">
 <!ENTITY pref_category_home_content_settings "ตั้งค่าเนื้อหา">
-
+<!ENTITY pref_home_updates "การปรับรุ่นอัตโนมัติ">
 <!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_home_updates_wifi "เฉพาะบน Wi-Fi">
 <!ENTITY pref_home_suggested_sites "แสดงคำแนะนำเว็บไซต์">
 <!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนโฮมเพจของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
-
-
+<!ENTITY pref_category_home_homepage "หน้าแรก">
+<!ENTITY home_homepage_title "ตั้งหน้าแรก">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "หน้าแรก &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -205,15 +208,16 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "ป้อนที่อยู่หรือคำค้นหา">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_general "ทั่วไป">
 <!ENTITY pref_header_search "ค้นหา">
 <!ENTITY pref_header_privacy_short "ความเป็นส่วนตัว">
 <!ENTITY pref_header_accessibility "การช่วยเข้าถึง">
-
+<!ENTITY pref_header_advanced "ขั้นสูง">
 <!ENTITY pref_header_help "ช่วยเหลือ">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "คุกกี้">
 <!ENTITY pref_cookies_accept_all "ถูกเปิดใช้งาน">
@@ -221,10 +225,11 @@
 <!ENTITY pref_cookies_disabled "ปิดใช้งาน">
 
 <!ENTITY pref_tap_to_load_images_title2 "แสดงภาพ">
+<!ENTITY pref_tap_to_load_images_enabled "เสมอ">
+<!ENTITY pref_tap_to_load_images_data "เฉพาะผ่าน Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "ถูกปิดกั้น">
 
-
-
-
+<!ENTITY pref_show_web_fonts "แสดงแบบอักษรเว็บ">
 
 
 <!ENTITY pref_donottrack_title "ไม่ต้องติดตามการเชื่อมต่อ">
@@ -247,6 +252,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "ไม่ใช่ตอนนี้">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "ไปยังการตั้งค่า">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -294,14 +300,14 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "หมาป่าว่องไวสีส้มกระโดดข้ามความคาดหมายของคุณ ด้วยความเร็วที่มากกว่า ยืดหยุ่นกว่า และปลอดภัยกว่า เพราะเราเป็นองค์กรไม่แสวงหาผลกำไร เราจึงมีอิสระในการพัฒนาตามเพื่อคุณ โดยไม่มีแรงกดดันใด ๆ ซึ่งนั่นหมายความว่าคุณจะได้รับประสบการณ์ที่ดีกว่า และสร้างอนาคตที่สดใสกว่าให้กับเว็บ">
 
-<!ENTITY pref_media_autoplay_enabled "อนุญาติการเล่นอัตโนมัติ">
+<!ENTITY pref_media_autoplay_enabled "อนุญาตการเล่นอัตโนมัติ">
 <!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและสื่ออื่น ๆ ของเว็บไซต์โดยอัตโนมัติ">
 <!ENTITY pref_zoom_force_enabled "เปิดใช้งานการย่อ-ขยายตลอดเวลา">
 <!ENTITY pref_zoom_force_enabled_summary "บังคับใช้เพื่อให้สามารถย่อขยายดูได้ทุกหน้า">
 
 
 
-
+<!ENTITY pref_qrcode_enabled_summary2 "อนุญาตตัวสแกน QR ในแถบ URL">
 
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
 <!ENTITY pref_sync2 "เข้าสู่ระบบ">
@@ -703,6 +709,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "ออกจากการท่องเว็บแบบส่วนตัว?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR

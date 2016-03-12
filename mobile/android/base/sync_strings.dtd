@@ -75,7 +75,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "ประกาศความเป็นส่วนตัว">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "ยินดีต้อนรับสู่ &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description2 "เข้าสู่ระบบเพื่อผสานแท็บ ที่คั่นหน้า การเข้าสู่ระบบ และอื่น ๆ ของคุณ">
 <!ENTITY fxaccount_getting_started_get_started "เริ่มต้น">
 <!ENTITY fxaccount_getting_started_old_firefox "ใช้งาน &syncBrand.shortName.label; รุ่นเก่าอยู่?">
 <!-- Localization note: the Firefox below should not change with the
@@ -131,7 +131,7 @@
 
 <!ENTITY fxaccount_status_header2 "บัญชี Firefox">
 <!ENTITY fxaccount_status_signed_in_as "ลงชื่อเข้าใช้เป็น">
-
+<!ENTITY fxaccount_status_manage_account "จัดการบัญชี">
 <!ENTITY fxaccount_status_auth_server "เซิร์ฟเวอร์บัญชี">
 <!ENTITY fxaccount_status_sync_now "ผสานข้อมูลทันที">
 <!ENTITY fxaccount_status_syncing2 "กำลังผสานข้อมูล…">
@@ -145,9 +145,9 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานข้อมูลโดยอัติโนมัติ ให้เลือกเปิดที่ “Auto-sync data” ใน Android Settings &gt; Data Usage">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานข้อมูลอัตโนมัติ ให้เลือกเปิดที่ “Auto-sync data” ในเมนูของ Android Settings &gt; Accounts">
 <!ENTITY fxaccount_status_needs_finish_migrating "แตะเพื่อลงชื่อเข้าใช้บัญชี Firefox ใหม่ของคุณ">
-
+<!ENTITY fxaccount_status_bookmarks "ที่คั่นหน้า">
 <!ENTITY fxaccount_status_history "ประวัติการท่องเว็บ">
-
+<!ENTITY fxaccount_status_passwords2 "การเข้าสู่ระบบ">
 <!ENTITY fxaccount_status_tabs "แท็บที่เปิด">
 <!ENTITY fxaccount_status_legal "ข้อกฎหมาย" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -157,7 +157,7 @@
 <!ENTITY fxaccount_status_linktos "เงื่อนไขการให้บริการ">
 <!ENTITY fxaccount_status_linkprivacy "ประกาศความเป็นส่วนตัว">
 <!ENTITY fxaccount_status_more "เพิ่มเติม&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "ตัดการเชื่อมต่อ&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "ลบบัญชี Firefox?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; จะหยุดการซิงค์กับบัญชีของคุณ แต่จะไม่ลบข้อมูลการเข้าเว็บบนอุปกรณ์นี้">
@@ -165,6 +165,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "บัญชี Firefox &formatS; ถูกลบแล้ว">
 
+<!ENTITY fxaccount_enable_debug_mode "เปิดใช้งานโหมดดีบั๊ก">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
