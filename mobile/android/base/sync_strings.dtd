@@ -19,7 +19,7 @@
 
 <!ENTITY sync.configure.engines.title.passwords2 "การเข้าสู่ระบบ">
 <!ENTITY sync.configure.engines.title.history "ประวัติ">
-<!ENTITY sync.configure.engines.title.tabs "ป้าย">
+<!ENTITY sync.configure.engines.title.tabs "แท็บ">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -33,12 +33,12 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "ป้ายกำกับ">
 <!ENTITY bookmarks.folder.toolbar.label "แถบเครื่องมือที่คั่นหน้า">
-<!ENTITY bookmarks.folder.unfiled.label "ที่คั่นหน้าไม่แยกประเภท">
+<!ENTITY bookmarks.folder.unfiled.label "ที่คั่นหน้าที่ไม่เรียงลำดับ">
 <!ENTITY bookmarks.folder.desktop.label "ที่คั่นหน้าบนเดสก์ท็อป">
 <!ENTITY bookmarks.folder.mobile.label "ที่คั่นหน้าบนมือถือ">
 <!ENTITY bookmarks.folder.readinglist.label "รายการอ่าน">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label "ตรึง">
+<!ENTITY bookmarks.folder.pinned.label "ถูกปักหมุด">
 <!-- Send tab to device. -->
 
 <!ENTITY sync.title.redirect.to.set.up.sync.label "ตั้งค่าให้ &syncBrand.shortName.label; ส่งแท็บ">
@@ -64,7 +64,7 @@
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "กลับสู่การท่องเว็บ">
+<!ENTITY fxaccount_back_to_browsing "ย้อนกลับไปยังการท่องเว็บ">
 <!-- Localization note: the following two strings are interpolated
      into fxaccount_create_account_policy_text2; see note for that
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
@@ -84,7 +84,7 @@
 
 <!ENTITY fxaccount_create_account_header2 "สร้างบัญชี Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "ต้องมีความยาวอย่างน้อย 8 ตัวอักษร">
-<!ENTITY fxaccount_create_account_day_of_birth "วันที่">
+<!ENTITY fxaccount_create_account_day_of_birth "วัน">
 <!ENTITY fxaccount_create_account_month_of_birth "เดือน">
 <!ENTITY fxaccount_create_account_year_of_birth "ปีเกิด">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
@@ -93,9 +93,9 @@
 <!ENTITY fxaccount_create_account_choose_what_to_sync "เลือกข้อมูลที่จะผสาน">
 <!ENTITY fxaccount_create_account_sign_in_instead "มีบัญชีอยู่แล้ว? เข้าสู่ระบบ">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 หรือก่อนหน้า">
-<!ENTITY fxaccount_create_account_unknown_error "ไม่สามารถสร้างบัญชีผู้ใช้">
+<!ENTITY fxaccount_create_account_unknown_error "ไม่สามารถสร้างบัญชี">
 
-<!ENTITY fxaccount_account_create_not_allowed "ไม่สามารถสร้างบัญชีผู้ใช้">
+<!ENTITY fxaccount_account_create_not_allowed "ไม่สามารถสร้างบัญชี">
 <!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "คุณต้องมีอายุตามที่กำหนดไว้ จึงจะสามารถสร้างบัญชีผู้ใช้ได้">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "เรียนรู้เพิ่มเติม">
 
@@ -113,13 +113,13 @@
 <!ENTITY fxaccount_sign_in_sub_header "เข้าสู่ระบบ">
 <!ENTITY fxaccount_sign_in_button_label "เข้าสู่ระบบ">
 <!ENTITY fxaccount_sign_in_forgot_password "ลืมรหัสผ่าน?">
-<!ENTITY fxaccount_sign_in_create_account_instead "สร้างบัญชีผู้ใช้">
-<!ENTITY fxaccount_sign_in_unknown_error "เข้าสู่ระบบไม่สำเร็จ">
+<!ENTITY fxaccount_sign_in_create_account_instead "สร้างบัญชี">
+<!ENTITY fxaccount_sign_in_unknown_error "ไม่สามารถเข้าสู่ระบบ">
 
 <!ENTITY fxaccount_account_verified_sub_header "ยืนยันบัญชีแล้ว">
 <!ENTITY fxaccount_account_verified_description2 "ข้อมูลของคุณจะเริ่มการผสานในอีกสักครู่">
 
-<!ENTITY fxaccount_migration_finished_header "การอัพเกรดเสร็จสิ้น">
+<!ENTITY fxaccount_migration_finished_header "การปรับรุ่นเสร็จสิ้น">
 
 <!ENTITY fxaccount_update_credentials_header "เข้าสู่ระบบ">
 <!ENTITY fxaccount_update_credentials_button_label "เข้าสู่ระบบ">
@@ -130,13 +130,13 @@
 <!ENTITY fxaccount_finish_migrating_description "การปรับรุ่นจะมีการถ่ายโอนข้อมูลจำนวนมาก จะเป็นการดีที่สุดถ้าทำบนเครือข่าย WiFi">
 
 <!ENTITY fxaccount_status_header2 "บัญชี Firefox">
-<!ENTITY fxaccount_status_signed_in_as "ลงชื่อเข้าใช้เป็น">
+<!ENTITY fxaccount_status_signed_in_as "เข้าสู่ระบบเป็น">
 <!ENTITY fxaccount_status_manage_account "จัดการบัญชี">
 <!ENTITY fxaccount_status_auth_server "เซิร์ฟเวอร์บัญชี">
-<!ENTITY fxaccount_status_sync_now "ผสานข้อมูลทันที">
-<!ENTITY fxaccount_status_syncing2 "กำลังผสานข้อมูล…">
+<!ENTITY fxaccount_status_sync_now "ผสานตอนนี้">
+<!ENTITY fxaccount_status_syncing2 "กำลังผสาน…">
 <!ENTITY fxaccount_status_device_name "ชื่ออุปกรณ์">
-<!ENTITY fxaccount_status_sync_server "เซิร์ฟเวอร์การผสานข้อมูล">
+<!ENTITY fxaccount_status_sync_server "เซิร์ฟเวอร์การผสาน">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; : เปิดใช้อยู่">
 <!ENTITY fxaccount_status_needs_verification2 "จำเป็นต้องยืนยันบัญชีของคุณ แตะเพื่อส่งอีเมลยืนยันอีกครั้ง">
@@ -159,7 +159,7 @@
 <!ENTITY fxaccount_status_more "เพิ่มเติม&ellipsis;">
 <!ENTITY fxaccount_remove_account "ตัดการเชื่อมต่อ&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "ลบบัญชี Firefox?">
+<!ENTITY fxaccount_remove_account_dialog_title "เอาบัญชี Firefox ออก?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; จะหยุดการซิงค์กับบัญชีของคุณ แต่จะไม่ลบข้อมูลการเข้าเว็บบนอุปกรณ์นี้">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
@@ -177,7 +177,7 @@
      Account. -->
 
 <!ENTITY fxaccount_options_title "ตัวเลือก &syncBrand.shortName.label;">
-<!ENTITY fxaccount_options_configure_title "ตั้งค่า &syncBrand.shortName.label;">
+<!ENTITY fxaccount_options_configure_title "กำหนดค่า &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
@@ -186,7 +186,7 @@
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "มีบัญชีอยู่แล้ว &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "อีเมลหรือรหัสผ่านใช้ไม่ได้">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "อีเมลหรือรหัสผ่านไม่ถูกต้อง">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "อีเมลหรือรหัสผ่านไม่ถูกต้อง">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "บัญชีไม่ได้รับการยืนยัน">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "เซิร์ฟเวอร์กำลังทำงานหนัก รอสักพักแล้วลองใหม่">
@@ -206,4 +206,6 @@
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "แตะเพื่อเข้าสู่ระบบเป็น &formatS;">
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
+
+<!ENTITY old_sync_deprecated_notification_title "เข้าสู่ระบบเพื่อดำเนินการผสานต่อ">
 
