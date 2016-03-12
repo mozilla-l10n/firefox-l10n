@@ -20,64 +20,17 @@
 <!ENTITY bookmarks.folder.unfiled.label "Неподшитые закладки">
 <!ENTITY bookmarks.folder.desktop.label "Закладки десктопа">
 <!ENTITY bookmarks.folder.mobile.label "Мобильные закладки">
-<!ENTITY bookmarks.folder.readinglist.label "Список для чтения">
 <!ENTITY bookmarks.folder.pinned.label "Закреплённые">
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Настройка Синхронизации для отправки вкладок">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Настройка &syncBrand.fullName.label; на вашем устройстве для отправки вкладок на другие устройства.">
-<!ENTITY sync.text.tab.sent.label "Ваша вкладка была отправлена!">
-<!ENTITY sync.text.tab.not.sent.label "При отправке вашей вкладки возникла проблема.">
-<!ENTITY fxaccount_full_label "Учётные записи Firefox">
-<!ENTITY fxaccount_custom_server_account_title "Используется учётная запись на сервере">
-<!ENTITY fxaccount_custom_server_sync_title "Данные синхронизации хранятся на сервере">
-<!ENTITY fxaccount_email_hint "Эл. почта">
-<!ENTITY fxaccount_password_hint "Пароль">
-<!ENTITY fxaccount_password_hide "Скрыть">
-<!ENTITY fxaccount_password_show "Показать">
 <!ENTITY fxaccount_back_to_browsing "Вернуться к веб-сёрфингу">
-<!ENTITY fxaccount_policy_linktos "Условия службы">
-<!ENTITY fxaccount_policy_linkprivacy "Уведомление о приватности">
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Добро пожаловать в Синхронизацию">
 <!ENTITY fxaccount_getting_started_description2 "Войдите для синхронизации ваших вкладок, закладок, логинов и многого другого.">
 <!ENTITY fxaccount_getting_started_get_started "Начать">
 <!ENTITY fxaccount_getting_started_old_firefox "Используете старую версию Синхронизации?">
-<!ENTITY fxaccount_create_account_header2 "Создать Учётную запись Firefox">
-<!ENTITY fxaccount_create_account_password_length_restriction "Должен быть не короче 8 символов">
-<!ENTITY fxaccount_create_account_day_of_birth "День">
-<!ENTITY fxaccount_create_account_month_of_birth "Месяц">
-<!ENTITY fxaccount_create_account_year_of_birth "Год рождения">
-<!ENTITY fxaccount_create_account_policy_text2 "Продолжив, я принимаю &formatS1; и &formatS2; облачных служб Firefox.">
-<!ENTITY fxaccount_create_account_button "Далее">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Выбрать, что синхронизировать">
-<!ENTITY fxaccount_create_account_sign_in_instead "Уже есть учетная запись? Войдите">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 или ранее">
-<!ENTITY fxaccount_create_account_unknown_error "Не удалось создать учётную запись">
-<!ENTITY fxaccount_account_create_not_allowed "Не могу создать учётную запись">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Для создания учётной записи ваш возраст должен соответствовать определенным требованиям.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Подробнее">
 <!ENTITY fxaccount_confirm_account_header "Подтвердите свою учётную запись">
-<!ENTITY fxaccount_confirm_account_verification_link "Ссылка для подтверждения была отправлена на &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Повторить отправку письма">
-<!ENTITY fxaccount_confirm_account_change_email "Забыть об этом адресе электронной почты?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Письмо для подтверждения отправлено">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Не удалось послать письмо для подтверждения">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Повторить отправку письма для разблокировки">
-<!ENTITY fxaccount_unlock_code_sent "Письмо для разблокировки учётной записи отправлено">
-<!ENTITY fxaccount_unlock_code_not_sent "Не удалось послать письмо для разблокировки учётной записи">
-<!ENTITY fxaccount_sign_in_sub_header "Войти">
 <!ENTITY fxaccount_sign_in_button_label "Войти">
-<!ENTITY fxaccount_sign_in_forgot_password "Забыли пароль?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Создать учётную запись">
-<!ENTITY fxaccount_sign_in_unknown_error "Не удалось войти">
-<!ENTITY fxaccount_account_verified_sub_header "Учётная запись подтверждена">
-<!ENTITY fxaccount_account_verified_description2 "Ваши данные сейчас начнут синхронизироваться.">
-<!ENTITY fxaccount_migration_finished_header "Обновление завершено">
-<!ENTITY fxaccount_update_credentials_header "Войти">
-<!ENTITY fxaccount_update_credentials_button_label "Войти">
-<!ENTITY fxaccount_update_credentials_unknown_error "Не удалось войти">
 <!ENTITY fxaccount_finish_migrating_header "Войти, чтобы завершить обновление">
 <!ENTITY fxaccount_finish_migrating_button_label "Завершить обновление">
-<!ENTITY fxaccount_finish_migrating_description "При обновлении может передаваться большое количество данных. Лучше всего подключиться к сети Wi-Fi.">
-<!ENTITY fxaccount_status_header2 "Учётная запись Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Вошёл как">
 <!ENTITY fxaccount_status_manage_account "Управление аккаунтом">
 <!ENTITY fxaccount_status_auth_server "Сервер учётной записи">
@@ -117,11 +70,8 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Сервер занят, подождите и попробуйте ещё раз">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Сервер занят, подождите и попробуйте ещё раз">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Возникла проблема">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Не удается соединиться с сетью">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Учётная запись заблокирована. &formatS1;">
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Нет соединения с сервером Синхронизации">
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Нажмите, чтобы войти как &formatS;">
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "Завершить обновление &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Нажмите, чтобы войти как &formatS;">
-<!ENTITY old_sync_deprecated_notification_title "Войдите, чтобы продолжить синхронизацию">
-<!ENTITY old_sync_deprecated_notification_content "Ваш аккаунт более не поддерживается">

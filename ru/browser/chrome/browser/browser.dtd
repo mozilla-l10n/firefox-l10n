@@ -143,7 +143,6 @@
 <!ENTITY urlbar.indexedDBNotificationAnchor.label "Просмотреть сообщение об автономном хранении приложения">
 <!ENTITY urlbar.loginFillNotificationAnchor.label "Управление данными вашего логина">
 <!ENTITY urlbar.passwordNotificationAnchor.label "Запрос на сохранение вашего пароля">
-<!ENTITY urlbar.webappsNotificationAnchor.label "Просмотреть сообщение об установке приложения">
 <!ENTITY urlbar.pluginsNotificationAnchor.label "Управление запуском плагина на этой странице">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label "Изменение того, можете ли вы получать уведомления с сайта">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Управление доступом сайта к вашей камере и/или микрофону">
