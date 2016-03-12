@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
-<!ENTITY aboutLogins.title                       "เข้าระบบ">
+<!ENTITY aboutLogins.title                       "การเข้าสู่ระบบ">
 <!ENTITY aboutLogins.update                      "ปรับปรุง">
 
 

@@ -23,7 +23,7 @@
 
 
 <!ENTITY firstrun_signin_button "เข้าสู่ระบบ Sync">
-<!ENTITY  onboard_start_button_browser "เริ่มต้นเข้าเว็บกันเลย">
+<!ENTITY  onboard_start_button_browser "เริ่มการท่องเว็บ">
 <!ENTITY firstrun_button_next "ถัดไป">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -175,7 +175,7 @@
 
 
 <!ENTITY pref_remember_signons2 "จดจำการเข้าสู่ระบบ">
-<!ENTITY pref_manage_logins "จัดการการเข้าระบบ">
+<!ENTITY pref_manage_logins "จัดการการเข้าสู่ระบบ">
 
 <!ENTITY pref_category_home "หน้าหลัก">
 <!ENTITY pref_category_home_summary "ปรับแต่งโฮมเพจของคุณ">
@@ -442,11 +442,11 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_no_username "[ไม่มีชื่อผู้ใช้]">
-<!ENTITY doorhanger_login_edit_title "แก้ไขการเข้าระบบ">
+<!ENTITY doorhanger_login_edit_title "แก้ไขการเข้าสู่ระบบ">
 <!ENTITY doorhanger_login_edit_username_hint "ชื่อผู้ใช้">
 <!ENTITY doorhanger_login_edit_password_hint "รหัสผ่าน">
 <!ENTITY doorhanger_login_edit_toggle "แสดงรหัสผ่าน">
-<!ENTITY doorhanger_login_edit_toast_error "บันทึกการเข้าระบบไม่ได้">
+<!ENTITY doorhanger_login_edit_toast_error "การบันทึกการเข้าสู่ระบบล้มเหลว">
 <!ENTITY doorhanger_login_select_message "คัดลอกรหัสผ่านจาก &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "คัดลอกรหัสผ่านไปยังคลิปบอร์ดแล้ว">
 <!ENTITY doorhanger_login_select_toast_copy_error "ไม่สามารถคัดลอกรหัสผ่าน">
@@ -731,9 +731,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY restrictable_feature_clear_history "ล้างประวัติ">
 
+<!ENTITY restrictable_feature_advanced_settings "การตั้งค่าขั้นสูง">
 
-
-
+<!ENTITY restrictable_feature_camera_microphone "กล้องและไมโครโฟน">
 
 
 
