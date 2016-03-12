@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "S’abonner à cette page…">
 <!ENTITY addCurPagesCmd.label "Marquer tous les onglets…">
 <!ENTITY showAllBookmarks2.label "Afficher tous les marque-pages">
-<!ENTITY recentBookmarks.label "Marqués récemment">
 <!ENTITY unsortedBookmarksCmd.label "Marque-pages non classés">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afficher plus de marque-pages">
 
@@ -197,6 +196,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Afficher le message concernant le stockage de l’application hors connexion">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Gérer vos informations d’identification">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Cocher la case si vous souhaitez que votre mot de passe soit enregistré">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Afficher le message d’installation de l’application">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Gérer l’utilisation du plugin sur cette page">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Gérer l’envoi de notifications par le site">
 
