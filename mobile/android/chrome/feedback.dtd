@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY feedbackHeader2.label          "เครื่องมือ Feedback">
+<!ENTITY feedbackHeader2.label          "เครื่องมือข้อคิดเห็น">
 
 <!ENTITY feedback.communicate.title     "สื่อสารกับเรา!">
-<!ENTITY feedback.feedback.title        "ส่งข้อเสนอแนะ">
+<!ENTITY feedback.feedback.title        "ส่งข้อคิดเห็น">
 <!ENTITY feedback.feedback.good         "ดี">
 <!ENTITY feedback.feedback.bad          "แย่">
 

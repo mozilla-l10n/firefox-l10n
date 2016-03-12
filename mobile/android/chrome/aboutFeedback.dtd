@@ -6,7 +6,7 @@
      your language and/or locale. More detailed notes below. -->
 
 
-<!ENTITY pageTitle                 "ปรับรุ่น &brandShortName;">
+<!ENTITY pageTitle                 "ข้อคิดเห็น &brandShortName;">
 
 <!ENTITY intro.header              "มีเวลาสักหน่อยไหม?">
 <!ENTITY intro.message             "บอกเราว่าคุณคิดยังไงกับ &brandShortName; สำหรับ Android บ้าง">
@@ -37,7 +37,7 @@
 
 <!ENTITY sad.header                "โอ้ ไม่!">
 <!ENTITY sad.message               "เราเสียใจที่คุณพบปัญหากับ &brandShortName; ช่วยบอกเราว่าเกิดอะไรขึ้นเพื่อที่เราจะได้แก้ไข">
-<!ENTITY sad.placeholder           "กรอกคำติชมของคุณที่นี่">
+<!ENTITY sad.placeholder           "ป้อนข้อคิดเห็นของคุณที่นี่">
 <!ENTITY sad.lastSite2             "รวมเว็บไซต์ที่เข้าชมล่าสุด">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
@@ -53,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "ไม่ว่าจะอย่างไรก็ตาม">
 
-<!ENTITY feedback.privacy2         "เพื่อความเป็นส่วนตัว โปรดอย่าใส่ข้อมูลส่วนบุคคลใดๆ ลงในข้อความติชมของคุณ">
-<!ENTITY feedback.send             "ส่งข้อความติชม">
+<!ENTITY feedback.privacy2         "เพื่อความเป็นส่วนตัว โปรดอย่าใส่ข้อมูลส่วนบุคคลใด ๆ ลงในข้อคิดเห็นของคุณ">
+<!ENTITY feedback.send             "ส่งข้อคิดเห็น">
