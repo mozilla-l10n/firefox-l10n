@@ -220,6 +220,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากเว็บที่ไม่ได้กำลังเปิด">
 <!ENTITY pref_cookies_disabled "ปิดใช้งาน">
 
+<!ENTITY pref_tap_to_load_images_title2 "แสดงภาพ">
 
 
 
@@ -303,22 +304,22 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
-
-
+<!ENTITY pref_sync2 "เข้าสู่ระบบ">
+<!ENTITY pref_sync_summary2 "ผสานแท็บ ที่คั่นหน้า การเข้าสู่ระบบ ประวัติของคุณ">
 <!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
 <!ENTITY pref_history_search_suggestions "แสดงประวัติการค้นหา">
-
+<!ENTITY pref_import_options "ตัวเลือกการนำเข้า">
 <!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเว็บเบราว์เซอร์ในเครื่อง">
 <!ENTITY pref_private_data_history2 "ประวัติการท่องเว็บ">
 <!ENTITY pref_private_data_searchHistory "ประวัติการค้นหา">
 <!ENTITY pref_private_data_formdata2 "ประวัติการกรอกฟอร์ม">
 <!ENTITY pref_private_data_cookies2 "คุกกี้และล็อกอินที่เข้าใช้อยู่">
-
+<!ENTITY pref_private_data_passwords2 "การเข้าสู่ระบบที่บันทึกไว้">
 <!ENTITY pref_private_data_cache "แคช">
 <!ENTITY pref_private_data_offlineApps "ข้อมูลเว็บไซต์ออฟไลน์">
 <!ENTITY pref_private_data_siteSettings2 "การตั้งค่ารายเว็บ">
 <!ENTITY pref_private_data_downloadFiles2 "ดาวน์โหลด">
-
+<!ENTITY pref_private_data_syncedTabs "แท็บที่ผสาน">
 
 
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
@@ -364,6 +365,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "การปรับรุ่นอัตโนมัติ">
 <!ENTITY pref_update_autodownload_wifi "เฉพาะบน Wi-Fi">
 <!ENTITY pref_update_autodownload_never "ไม่ต้อง">
 
@@ -373,7 +375,8 @@ size. -->
 
 <!ENTITY quit "ออก">
 
-
+<!ENTITY addons "ส่วนเสริม">
+<!ENTITY logins "การเข้าสู่ระบบ">
 <!ENTITY downloads "ดาวน์โหลด">
 <!ENTITY char_encoding "รหัสอักขระ">
 
@@ -439,9 +442,9 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "แสดงรหัสผ่าน">
 <!ENTITY doorhanger_login_edit_toast_error "บันทึกการเข้าระบบไม่ได้">
 <!ENTITY doorhanger_login_select_message "คัดลอกรหัสผ่านจาก &formatS;?">
-
-
-
+<!ENTITY doorhanger_login_select_toast_copy "คัดลอกรหัสผ่านไปยังคลิปบอร์ดแล้ว">
+<!ENTITY doorhanger_login_select_toast_copy_error "ไม่สามารถคัดลอกรหัสผ่าน">
+<!ENTITY doorhanger_login_select_action_text "เลือกการเข้าสู่ระบบอื่น">
 <!ENTITY doorhanger_login_select_title "คัดลอกรหัสผ่านจาก">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
@@ -576,7 +579,8 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "การเชื่อมต่อแบบปลอดภัย">
+<!ENTITY identity_connection_insecure "การเชื่อมต่อแบบไม่ปลอดภัย">
 
 
 <!-- Mixed content notifications in site identity popup -->
@@ -598,6 +602,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ข้อมูลส่วนตัวถูกล้างแล้ว">
 <!ENTITY private_data_fail "ไม่สามารถล้างข้อมูลส่วนตัวบางอย่างได้">
 
+<!ENTITY bookmarkhistory_button_import "นำเข้า">
 <!ENTITY bookmarkhistory_import_both "นำเข้าที่คั่นหน้าและประวัติการท่องเว็บ 
 จาก Android">
 <!ENTITY bookmarkhistory_import_bookmarks "นำเข้าที่คั่นหน้า 
@@ -637,6 +642,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "อนุญาต">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "วาระใหม่สำหรับผู้มาเยือน">
@@ -707,9 +713,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "ส่วนเสริม">
+
 <!ENTITY restrictable_feature_private_browsing "การดูเว็บแบบส่วนตัว">
 
-
+<!ENTITY restrictable_feature_clear_history "ล้างประวัติ">
 
 
 
