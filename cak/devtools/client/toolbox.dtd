@@ -21,7 +21,7 @@ fullZoomReduceCmd.commandkey2, fullZoomResetCmd.commandkey,
 and fullZoomResetCmd.commandkey2 should all match the corresponding
 values from browser.dtd.  -->
 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "Kaqchikel">
 
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
