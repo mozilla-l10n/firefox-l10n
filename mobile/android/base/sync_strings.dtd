@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "El. pašto adresas">
-
+<!ENTITY fxaccount_password_hint "Slaptažodis">
 <!ENTITY fxaccount_password_hide "Nerodyti">
 <!ENTITY fxaccount_password_show "Rodyti">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Duomenų naudojimas“ („Data Usage“).">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Paskyros“ („Accounts“).">
 <!ENTITY fxaccount_status_needs_finish_migrating "Bakstelėkite, norėdami prisijungti prie savo naujosios „Firefox“ paskyros.">
-
+<!ENTITY fxaccount_status_bookmarks "Adresynas">
 <!ENTITY fxaccount_status_history "Žurnalas">
 <!ENTITY fxaccount_status_passwords2 "Prisijungimai">
 <!ENTITY fxaccount_status_tabs "Atvertos kortelės">
