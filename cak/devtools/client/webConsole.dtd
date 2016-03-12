@@ -59,8 +59,8 @@
 <!ENTITY btnServerLogging.label       "Ruk'u'x samaj">
 <!ENTITY btnServerLogging.tooltip     "Kitz'ib'axik taq rutzijol taqoj ek'ulun pa jun okik'amaya'l ruk'u'x samaj">
 <!ENTITY btnServerLogging.accesskey   "R">
-
-
+<!ENTITY btnServerErrors              "Taq sachoj">
+<!ENTITY btnServerInfo                "Etamab'äl">
 <!ENTITY btnServerWarnings            "Kitzijol taq k'ayewal">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"

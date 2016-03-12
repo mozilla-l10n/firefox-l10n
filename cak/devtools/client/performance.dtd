@@ -56,7 +56,7 @@
 <!ENTITY performanceUI.toolbar.memory-calltree "Taq jachoj">
 
 <!ENTITY performanceUI.toolbar.js-flamegraph "Ruwachib'al JS ruxaq q'aq'">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Nuk'üt ri kitzub'aj taq oyonïk richin JavaScript chijun ri yakoj.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Taq rujachoj ri k'ïy kajtz'ik">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
