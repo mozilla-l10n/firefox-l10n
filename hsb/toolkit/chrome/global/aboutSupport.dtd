@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Zmóžnjene tykače">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfiguracija programoweje wersije">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
-
+<!ENTITY aboutSupport.appBasicsOS "Dźěłowy system">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Wužity składowak">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
