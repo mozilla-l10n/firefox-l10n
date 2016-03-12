@@ -45,6 +45,7 @@ values from browser.dtd.  -->
   -  the button to force the popups/panels to stay visible on blur.
   -  This is only visible in the browser toolbox as it is meant for
   -  addon developers and Firefox contributors. -->
+<!ENTITY toolboxNoAutoHideTooltip      "Vypnúť automatické skrývanie vyskakovacích okien">
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
@@ -67,6 +68,8 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
+<!ENTITY options.collapseAttrs.label "Skrátené DOM atribúty">
+<!ENTITY options.collapseAttrs.tooltip "Skrátené dlhé atribúty v inšpektorovi">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
