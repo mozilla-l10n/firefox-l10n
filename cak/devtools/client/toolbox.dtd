@@ -24,7 +24,7 @@ values from browser.dtd.  -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "Kaqchikel">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "Kaqchikel">
 
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
