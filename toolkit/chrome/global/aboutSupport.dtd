@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "متصل‌شونده‌های فعال">
 <!ENTITY aboutSupport.appBasicsBuildConfig "تنظیمات هنگام ساخت">
 <!ENTITY aboutSupport.appBasicsUserAgent "نام نمایندهٔ کاربر">
-
+<!ENTITY aboutSupport.appBasicsOS "سیستم عامل">
 <!ENTITY aboutSupport.appBasicsMemoryUse "استفاده حافظه">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 

@@ -10,7 +10,7 @@
 
 <!ENTITY aboutTelemetry.uploadDisabled "  باگذاری اطلاعات FHR <span>غیرفعال</span> است.">
 
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  ثبت داده های مکان‌سنجی اضافه <span>فعال شد</span>.">
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "ثبت داده های مکان‌سنجی اضافه <span>فعال شد</span>.">
 
 
 <!ENTITY aboutTelemetry.pingDataSource "منبع اطلاعات پینگ:">
