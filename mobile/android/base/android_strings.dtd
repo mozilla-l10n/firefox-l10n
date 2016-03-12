@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
-<!ENTITY error_loading_file "При попытке загрузки файлов, требуемых для запуска &brandShortName;, произошла ошибка.">
 <!ENTITY firstrun_panel_title_welcome "Добро пожаловать">
 <!ENTITY onboard_start_message3 "Браузер &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Делает ваш мобильный веб-сёрфинг по-настоящему уникальным.">
@@ -40,10 +38,6 @@
 <!ENTITY sending_crash_report "Отправка сообщения о падении\u2026">
 <!ENTITY crash_close_label "Закрыть">
 <!ENTITY crash_restart_label "Перезапустить &brandShortName;">
-<!ENTITY exit_label "Выход">
-<!ENTITY launcher_shortcuts_title "Веб-приложения &brandShortName;">
-<!ENTITY launcher_shortcuts_empty "Веб-приложения не найдены">
-<!ENTITY choose_file "Выбор файла">
 <!ENTITY url_bar_default_text2 "Введите запрос или адрес">
 <!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_remove "Удалить закладку">
@@ -52,12 +46,12 @@
 <!ENTITY bookmark_removed "Закладка удалена">
 <!ENTITY bookmark_updated "Закладка обновлена">
 <!ENTITY bookmark_options "Настройки">
+<!ENTITY screenshot_added_to_bookmarks "Скриншот добавлен в закладки">
+<!ENTITY screenshot_folder_label_in_bookmarks "Скриншоты">
 <!ENTITY history_today_section "Сегодня">
 <!ENTITY history_yesterday_section "Вчера">
 <!ENTITY history_week_section3 "Последние 7 дней">
-<!ENTITY history_this_month_section "Этот месяц">
 <!ENTITY history_older_section3 "Старше 6 месяцев">
-<!ENTITY go "Перейти">
 <!ENTITY search "Поиск">
 <!ENTITY reload "Обновить">
 <!ENTITY forward "Вперёд">
@@ -109,7 +103,6 @@
 <!ENTITY pref_search_hint "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем нажав на значок &formatI;.">
 <!ENTITY pref_category_advanced "Дополнительно">
 <!ENTITY pref_category_advanced_summary2 "Восстановление вкладок, плагины, инструменты разработчика">
-<!ENTITY pref_developer_remotedebugging "Удалённая отладка">
 <!ENTITY pref_developer_remotedebugging_usb "Удалённая отладка через USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Удалённая отладка через Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Для удалённой отладки через Wi-Fi необходимо, чтобы на вашем устройстве было установлено приложение для чтения QR-кодов.">
@@ -118,15 +111,10 @@
 <!ENTITY pref_category_home "Дом">
 <!ENTITY pref_category_home_summary "Настройка домашней страницы">
 <!ENTITY pref_category_home_panels "Панели">
-<!ENTITY home_add_panel_title "Добавить новую панель">
-<!ENTITY home_add_panel_empty "К сожалению, мы не смогли найти ни одной панели для добавления.">
-<!ENTITY home_add_panel_installed "\'&formatS;\' добавлено на домашнюю страницу">
-<!ENTITY pref_category_home_content_settings "Параметры содержимого">
-<!ENTITY pref_home_updates "Автоматическое обновление">
+<!ENTITY pref_category_home_add_ons "Дополнения">
+<!ENTITY pref_home_updates2 "Обновление содержимого">
 <!ENTITY pref_home_updates_enabled "Включено">
 <!ENTITY pref_home_updates_wifi "Только через Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Показывать предложения сайтов">
-<!ENTITY pref_home_suggested_sites_summary "Отображать ярлыки на сайты на вашей домашней странице, которые, как мы думаем, вы можете найти интересными">
 <!ENTITY pref_category_home_homepage "Домашняя страница">
 <!ENTITY home_homepage_title "Установка домашней страницы">
 <!ENTITY home_homepage_radio_default "Дом &brandShortName;">
@@ -234,10 +222,9 @@
 <!ENTITY pref_panels_move_up "Вверх">
 <!ENTITY pref_panels_move_down "Вниз">
 <!ENTITY datareporting_notification_title "Статистика и данные &brandShortName;">
-<!ENTITY datareporting_notification_action_long "Выбрать, какой информацией поделиться">
 <!ENTITY datareporting_notification_action "Выбрать, чем поделиться">
+<!ENTITY datareporting_notification_action_long "Выбрать, какой информацией поделиться">
 <!ENTITY datareporting_notification_summary "Чтобы улучшить вашу работу, &brandShortName; автоматически отправляет некоторые данные в &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Чтобы улучшить вашу работу, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!ENTITY datareporting_fhr_title "Отчёт о здоровье &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Делится данными о здоровье вашего браузера с &vendorShortName; и помогает вам больше узнать о скорости его работы">
@@ -273,7 +260,6 @@
 <!ENTITY close_private_tabs "Закрыть приватные вкладки">
 <!ENTITY tabs_normal "Вкладки">
 <!ENTITY tabs_private "Приватные">
-<!ENTITY tabs_synced "Облачные">
 <!ENTITY set_image_fail "Не удалось установить изображение">
 <!ENTITY set_image_path_fail "Не удалось сохранить изображение">
 <!ENTITY set_image_chooser_title "Установить изображение как">
@@ -331,8 +317,6 @@
 <!ENTITY reading_list_removed "Страница удалена из вашего Списка для чтения">
 <!ENTITY reading_list_remove "Удалить из Списка для чтения">
 <!ENTITY reading_list_duplicate "Страница уже находится в вашем Списке для чтения">
-<!ENTITY reading_list_time_minutes2 "&formatD; мин">
-<!ENTITY reading_list_time_over_an_hour "Более часа">
 <!ENTITY page_action_dropmarker_description "Дополнительные действия">
 <!ENTITY masterpassword_create_title "Создать мастер-пароль">
 <!ENTITY masterpassword_remove_title "Удалить мастер-пароль">
@@ -399,7 +383,6 @@
 <!ENTITY learn_more "Подробнее">
 <!ENTITY enable_protection "Включить защиту">
 <!ENTITY disable_protection "Отключить защиту">
-<!ENTITY keep_blocking "Продолжать блокировать">
 <!ENTITY private_data_success "Личные данные удалены">
 <!ENTITY private_data_fail "Не удалось удалить некоторые личные данные">
 <!ENTITY bookmarkhistory_button_import "Импорт">
@@ -439,7 +422,6 @@
 <!ENTITY voicesearch_prompt "Говорите">
 <!ENTITY remote_tabs_last_synced "Последняя синхронизация: &formatS;">
 <!ENTITY remote_tabs_never_synced "Последняя синхронизация: никогда">
-<!ENTITY intent_uri_cannot_open "Не могу открыть ссылку">
 <!ENTITY intent_uri_private_browsing_prompt "Эта ссылка будет открыта в &formatS;. Вы уверены, что хотите выйти из Приватного просмотра?">
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Выйти из Приватного просмотра?">
 <!ENTITY devtools_auth_scan_header "Сканирование QR-кода, отображенного на другом вашем устройстве">
