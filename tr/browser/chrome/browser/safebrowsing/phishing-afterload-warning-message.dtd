@@ -9,7 +9,7 @@
 <!ENTITY safeb.palm.reportPage.label "Bu sayfa neden engellendi?">
 <!ENTITY safeb.palm.whyForbidden.label "Bu sayfa neden engellendi?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Saldırgan olarak bildirilmiş site!">
+<!ENTITY safeb.blocked.malwarePage.title "Saldırı sayfası olarak bildirilmiş sayfa!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> konumundaki sitenin saldırı sitesi olduğu bildirildi ve açılması güvenlik tercihlerinize dayanılarak engellendi.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Saldırı sitesi olarak tanımlanan siteler özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırı amacıyla kullanan ya da sisteminize zarar veren programları kurmaya çalışan sitelerdir.</p><p>Bazı saldırı siteleri zararlı yazılımları bilerek dağıtırken, çoğu site, sahibinin bilgisi ve izni dışında bu amaçla kullanılır.</p>">
