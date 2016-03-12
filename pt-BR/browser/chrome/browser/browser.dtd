@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Inscrever RSS…">
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
 <!ENTITY showAllBookmarks2.label "Exibir todos os favoritos">
-<!ENTITY recentBookmarks.label "Favoritos recentes">
 <!ENTITY unsortedBookmarksCmd.label "Favoritos não organizados">
 <!ENTITY bookmarksToolbarChevron.tooltip "Exibir mais favoritos">
 
@@ -754,7 +753,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Esta página está armazenada no seu computador.">
 <!ENTITY identity.connectionVerified1 "Você está conectado seguramente a este site, administrado por:">
 <!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
-<!ENTITY identity.insecureLoginForms2 "Logins registrados nesta página podem ter sido comprometidos.">
+<!ENTITY identity.insecureLoginForms2 "Informações de login registradas nesta página podem ser comprometidas.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
