@@ -119,7 +119,6 @@
 <!ENTITY subscribeToPageMenuitem.label "Подписаться на ленты новостей…">
 <!ENTITY addCurPagesCmd.label "Добавить все вкладки…">
 <!ENTITY showAllBookmarks2.label "Показать все закладки">
-<!ENTITY recentBookmarks.label "Недавно добавленные закладки">
 <!ENTITY unsortedBookmarksCmd.label "Неподшитые закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
 <!ENTITY backCmd.label "Назад">
