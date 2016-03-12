@@ -330,7 +330,7 @@ size. -->
 
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
 <!ENTITY pref_vendor_faqs "คำถามที่พบบ่อย">
-<!ENTITY pref_vendor_feedback "ส่งข้อเสนอแนะ">
+<!ENTITY pref_vendor_feedback "ส่งข้อคิดเห็น">
 
 <!ENTITY pref_dialog_set_default "ตั้งเป็นค่าปริยาย">
 <!ENTITY pref_dialog_default "ค่าปริยาย">
@@ -374,7 +374,7 @@ size. -->
 <!ENTITY pref_update_autodownload3 "การปรับรุ่นอัตโนมัติ">
 <!ENTITY pref_update_autodownload_wifi "เฉพาะบน Wi-Fi">
 <!ENTITY pref_update_autodownload_never "ไม่ต้อง">
-
+<!ENTITY pref_update_autodownload_always "เสมอ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "วิธีใช้">
@@ -461,6 +461,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "การท่องเว็บแบบเต็มจอ">
 
 
+<!ENTITY pref_tab_queue_title3 "คิวแท็บ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -518,6 +519,8 @@ size. -->
 <!ENTITY home_top_sites_add "เพิ่มเว็บไซต์">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "หน้าแรก &brandShortName;">
 <!ENTITY home_history_title "ประวัติ">
 <!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าคุณต้องการล้างประวัติการเข้าชม?">
@@ -538,6 +541,8 @@ size. -->
 <!ENTITY home_default_empty "ไม่พบเนื้อหาสำหรับแผงนี้">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "ย้อนกลับไปยัง &formatS;">
 
 <!ENTITY home_remote_tabs_title "แท็บจากการผสานข้อมูล">
 <!ENTITY home_remote_tabs_empty "แท็บของคุณจากอุปกรณ์อื่นๆ จะถูกแสดงขึ้นที่นี่">
