@@ -9,17 +9,17 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Tinklalapis laikomas kenkėjišku!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Yra pranešta, jog šis tinklalapis (<span id='malware_sitename'/>) yra kenkėjiškas, tad jis užblokuotas, remiantis naršyklės saugumo nuostatomis.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Yra pranešta, jog tinklalapis adresu <span id='malware_sitename'/> yra kenkėjiškas, tad jis užblokuotas remiantis jūsų saugumo nuostatomis.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Kenkėjiškais tinklalapiais siekiama įdiegti programas, vagiančias asmeninius duomenis, naudojančias kompiuterį kitų atakoms ir kenkiančias pačiai sistemai.</p><p>Kai kuriuose tinklalapiuose tai daroma tyčia, tačiau dažniausiai tai – nesankcionuoto įsikišimo į tinklalapį be jo savininkų žinios pasėkmė.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Apgaulinga svetainė!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Yra pranešta, jog tinklalapis adresu <span id='phishing_sitename'/> yra klaidinantis, tad jis užblokuotas remiantis naršyklės saugumo nuostatomis.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Yra pranešta, jog tinklalapis adresu <span id='phishing_sitename'/> yra klaidinantis, tad jis užblokuotas remiantis jūsų saugumo nuostatomis.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Apgaulingos svetainės yra sukurtos siekiant priversti jus atlikti kažką pavojingo, pvz., įsidiegti programinę įrangą ar atskleisti asmeninius duomenis (slaptažodžius, telefono numerius, banko kortelių duomenis).</p><p>Šiame tinklalapyje įvesdami bet kokią informaciją rizikuojate tapti tapatybės vagystės ar kitos apgaulės auka.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Apie nepageidaujamos programinės įrangos svetainę pranešta!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Yra pranešta, jog tinklalapis <span id='unwanted_sitename'/> yra kenkėjiškas, tad jis buvo užblokuotas remiantis naršyklės saugumo nuostatomis.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Yra pranešta, jog tinklalapis adresu <span id='unwanted_sitename'/> yra kenkėjiškas, tad jis užblokuotas remiantis jūsų saugumo nuostatomis.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Kenkėjiški tinklalapiai siekia įdiegti programinę įrangą, kuri gali būti apgaulinga ir pakenkti jūsų kompiuteriui.">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Užblokuota svetainė">
