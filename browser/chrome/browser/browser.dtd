@@ -531,8 +531,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ز">
 <!ENTITY openFrameCmd.label           "باز کردن چارچوب در پنجرهٔ جدید">
 <!ENTITY openFrameCmd.accesskey       "پ">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "بازکردن پیوند در زبانه‌ای جدید">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "فقط نمایش همین چارچوب">
 <!ENTITY showOnlyThisFrameCmd.accesskey "چ">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -780,7 +780,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "غ">
 <!ENTITY identity.learnMore "بیشتر بدانید">
 
-
+<!ENTITY identity.removeCertException.label "حذف استثنا">
+<!ENTITY identity.removeCertException.accesskey "ح">
 
 <!ENTITY identity.moreInfoLinkText2 "اطلاعات بیشتر">
 
