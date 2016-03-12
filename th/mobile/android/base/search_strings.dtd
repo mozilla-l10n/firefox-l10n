@@ -8,7 +8,7 @@
 
 <!ENTITY search_bar_hint "ค้นหาด้วย &formatS;">
 
-<!ENTITY search_empty_title2 "เริ่มค้นหา">
+<!ENTITY search_empty_title2 "เริ่มการค้นหา">
 <!ENTITY search_empty_message "ค้นหาอย่างรวดเร็วสำหรับสิ่งที่คุณต้องการ">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
@@ -18,7 +18,7 @@
 <!ENTITY search_pref_title "การตั้งค่า">
 <!ENTITY search_pref_button_content_description "การตั้งค่า">
 
-<!ENTITY pref_clearHistory_confirmation "ล้างประวัติการเข้าชมแล้ว">
+<!ENTITY pref_clearHistory_confirmation "ล้างประวัติแล้ว">
 <!ENTITY pref_clearHistory_dialogMessage "ลบประวัติการค้นหาทั้งหมดจากอุปกรณ์นี้?">
 <!ENTITY pref_clearHistory_title "ล้างประวัติการค้นหา">
 
@@ -27,4 +27,4 @@
 <!ENTITY search_widget_button_label "ค้นหา">
 
 <!ENTITY network_error_title "ไม่มีการเชื่อมต่ออินเทอร์เน็ต">
-<!ENTITY network_error_message "แตะตรงนี้เพื่อตรวจสอบการตั้งค่าเครือข่าย">
+<!ENTITY network_error_message "แตะที่นี่เพื่อตรวจสอบการตั้งค่าเครือข่ายของคุณ">

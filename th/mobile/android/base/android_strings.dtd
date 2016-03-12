@@ -148,17 +148,17 @@
 <!ENTITY overlay_no_synced_devices "ไม่พบอุปกรณ์ที่เชื่อมต่อกับบัญชี Firefox">
 
 <!ENTITY pref_category_search3 "ค้นหา">
-<!ENTITY pref_category_search_summary "ปรับแต่งผู้จัดการค้นหาของคุณ">
+<!ENTITY pref_category_search_summary "ปรับแต่งผู้ให้บริการค้นหาของคุณ">
 <!ENTITY pref_category_accessibility "การช่วยเข้าถึง">
 
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
 
 
-
+<!ENTITY pref_category_vendor_summary2 "เกี่ยวกับ &brandShortName; คำถามที่พบบ่อย ข้อคิดเห็น">
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
 <!ENTITY pref_learn_more "เรียนรู้เพิ่มเติม">
 <!ENTITY pref_category_installed_search_engines "เครื่องมือค้นหาที่ติดตั้งไว้">
-<!ENTITY pref_category_add_search_providers "เพิ่มเครื่องมือค้นหา">
+<!ENTITY pref_category_add_search_providers "เพิ่มผู้ให้บริการค้นหาเพิ่มเติม">
 <!ENTITY pref_category_search_restore_defaults "เรียกคืนเครื่องมือค้นหา">
 <!ENTITY pref_search_restore_defaults "เรียกคืนค่าปริยาย">
 <!ENTITY pref_search_restore_defaults_summary "เรียกคืนค่าปริยาย">
@@ -170,15 +170,15 @@
 <!ENTITY pref_search_hint "เคล็ดลับ: เพิ่มเว็บไซต์ใดๆ เข้าในรายการผู้ให้บริการค้นหาของคุณ โดยการแตะค้างบนช่องค้นหาเว็บไซต์ จากนั้นแตะที่ไอคอน &formatI;">
 <!ENTITY pref_category_advanced "ขั้นสูง">
 <!ENTITY pref_category_advanced_summary2 "เรียกคืนแท็บ โปรแกรมเสริม เครื่องมือนักพัฒนา">
-<!ENTITY pref_developer_remotedebugging "การดีบักผ่านเครือข่าย">
-
-
+<!ENTITY pref_developer_remotedebugging "การดีบั๊กระยะไกล">
+<!ENTITY pref_developer_remotedebugging_usb "การดีบั๊กระยะไกลผ่าน USB">
+<!ENTITY pref_developer_remotedebugging_wifi "การดีบั๊กระยะไกลผ่าน Wi-Fi">
 
 <!ENTITY pref_remember_signons2 "จดจำการเข้าสู่ระบบ">
 <!ENTITY pref_manage_logins "จัดการการเข้าสู่ระบบ">
 
-<!ENTITY pref_category_home "หน้าหลัก">
-<!ENTITY pref_category_home_summary "ปรับแต่งโฮมเพจของคุณ">
+<!ENTITY pref_category_home "หน้าแรก">
+<!ENTITY pref_category_home_summary "ปรับแต่งหน้าแรกของคุณ">
 <!ENTITY pref_category_home_panels "แผง">
 <!ENTITY home_add_panel_title "เพิ่งแผงใหม่">
 <!ENTITY home_add_panel_empty "ขออภัย เราไม่พบแผงใด ๆ สำหรับคุณที่จะเพิ่ม">
@@ -189,9 +189,9 @@
 <!ENTITY pref_category_home_content_settings "ตั้งค่าเนื้อหา">
 <!ENTITY pref_home_updates "การปรับรุ่นอัตโนมัติ">
 <!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
-<!ENTITY pref_home_updates_wifi "เฉพาะบน Wi-Fi">
+<!ENTITY pref_home_updates_wifi "เฉพาะผ่าน Wi-Fi">
 <!ENTITY pref_home_suggested_sites "แสดงคำแนะนำเว็บไซต์">
-<!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนโฮมเพจของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
+<!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนหน้าแรกของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
 <!ENTITY pref_category_home_homepage "หน้าแรก">
 <!ENTITY home_homepage_title "ตั้งหน้าแรก">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -221,8 +221,8 @@
 
 <!ENTITY pref_cookies_menu "คุกกี้">
 <!ENTITY pref_cookies_accept_all "ถูกเปิดใช้งาน">
-<!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากเว็บที่ไม่ได้กำลังเปิด">
-<!ENTITY pref_cookies_disabled "ปิดใช้งาน">
+<!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากบุคคลที่สาม">
+<!ENTITY pref_cookies_disabled "ถูกปิดใช้งาน">
 
 <!ENTITY pref_tap_to_load_images_title2 "แสดงภาพ">
 <!ENTITY pref_tap_to_load_images_enabled "เสมอ">
@@ -231,17 +231,20 @@
 
 <!ENTITY pref_show_web_fonts "แสดงแบบอักษรเว็บ">
 
-
-<!ENTITY pref_donottrack_title "ไม่ต้องติดตามการเชื่อมต่อ">
+<!ENTITY pref_tracking_protection_title "การป้องกันการตามรอย">
+<!ENTITY pref_tracking_protection_summary3 "ถูกเปิดใช้งานในการท่องเว็บแบบส่วนตัว">
+<!ENTITY pref_donottrack_title "อย่าตามรอย">
 <!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ที่คุณไม่ต้องการถูกติดตาม">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "ถูกเปิดใช้งาน">
+<!ENTITY pref_tracking_protection_enabled_pb "ถูกเปิดใช้งานในการท่องเว็บแบบส่วนตัว">
+<!ENTITY pref_tracking_protection_disabled "ถูกปิดใช้งาน">
 
 
 
 <!ENTITY tracking_protection_prompt_action_button "เข้าใจแล้ว!">
 
+<!ENTITY tab_queue_toast_message3 "แท็บถูกบันทึกใน &brandShortName;">
 <!ENTITY tab_queue_toast_action "เปิดทันที">
 <!ENTITY tab_queue_prompt_title "เปิดหลายลิงก์?">
 
@@ -261,7 +264,7 @@
 <!ENTITY tab_queue_notification_text_plural2 "&formatD; แท็บอยู่ในคิว">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular2 "1 แท็บอยู่ในคิว">
+<!ENTITY tab_queue_notification_text_singular2 "1 แท็บกำลังรอ">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
@@ -285,10 +288,10 @@
 <!ENTITY pref_restore_quit "ไม่เรียกคืนหลังออกจาก &brandShortName;">
 <!ENTITY pref_font_size_tiny "เล็กมาก">
 <!ENTITY pref_font_size_small "เล็ก">
-<!ENTITY pref_font_size_medium "ปกติ">
+<!ENTITY pref_font_size_medium "ปานกลาง">
 <!ENTITY pref_font_size_large "ใหญ่">
 <!ENTITY pref_font_size_xlarge "ใหญ่มาก">
-<!ENTITY pref_font_size_set "ตั้งค่า">
+<!ENTITY pref_font_size_set "ตั้ง">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -319,11 +322,11 @@ size. -->
 <!ENTITY pref_private_data_history2 "ประวัติการท่องเว็บ">
 <!ENTITY pref_private_data_searchHistory "ประวัติการค้นหา">
 <!ENTITY pref_private_data_formdata2 "ประวัติการกรอกฟอร์ม">
-<!ENTITY pref_private_data_cookies2 "คุกกี้และล็อกอินที่เข้าใช้อยู่">
+<!ENTITY pref_private_data_cookies2 "คุกกี้และการเข้าสู่ระบบที่ใช้งานอยู่">
 <!ENTITY pref_private_data_passwords2 "การเข้าสู่ระบบที่บันทึกไว้">
 <!ENTITY pref_private_data_cache "แคช">
 <!ENTITY pref_private_data_offlineApps "ข้อมูลเว็บไซต์ออฟไลน์">
-<!ENTITY pref_private_data_siteSettings2 "การตั้งค่ารายเว็บ">
+<!ENTITY pref_private_data_siteSettings2 "ตั้งค่าไซต์">
 <!ENTITY pref_private_data_downloadFiles2 "ดาวน์โหลด">
 <!ENTITY pref_private_data_syncedTabs "แท็บที่ผสาน">
 
@@ -344,7 +347,7 @@ size. -->
 <!ENTITY pref_panels_move_up "ย้ายขึ้น">
 <!ENTITY pref_panels_move_down "ย้ายลง">
 
-<!ENTITY datareporting_notification_title "สถิติและข้อมูลของ &brandShortName;">
+<!ENTITY datareporting_notification_title "สถิติและข้อมูล &brandShortName;">
 <!ENTITY datareporting_notification_action_long "เลือกข้อมูลใดบ้างที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_action "เลือกสิ่งที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_summary "เพื่อปรับปรุงประสบการณ์การใช้งานให้ดีขึ้น &brandShortName; จะส่งข้อมูลบางส่วนไปยัง &vendorShortName;.">
@@ -372,12 +375,12 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "การปรับรุ่นอัตโนมัติ">
-<!ENTITY pref_update_autodownload_wifi "เฉพาะบน Wi-Fi">
-<!ENTITY pref_update_autodownload_never "ไม่ต้อง">
+<!ENTITY pref_update_autodownload_wifi "เฉพาะผ่าน Wi-Fi">
+<!ENTITY pref_update_autodownload_never "ไม่เลย">
 <!ENTITY pref_update_autodownload_always "เสมอ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
-<!ENTITY help_menu "วิธีใช้">
+<!ENTITY help_menu "ช่วยเหลือ">
 
 <!ENTITY quit "ออก">
 
@@ -387,24 +390,24 @@ size. -->
 <!ENTITY char_encoding "รหัสอักขระ">
 
 <!ENTITY share "แบ่งปัน">
-<!ENTITY share_title "แบ่งปันโดย">
+<!ENTITY share_title "แบ่งปันผ่าน">
 <!ENTITY share_image_failed "ไม่สามารถแบ่งปันรูปภาพนี้ได้">
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
 <!ENTITY print "พิมพ์">
 <!ENTITY find_in_page "ค้นหาในหน้านี้">
-<!ENTITY desktop_mode "เรียกเว็บสำหรับเดสก์ท็อป">
+<!ENTITY desktop_mode "ขอไซต์สำหรับเดสก์ท็อป">
 <!ENTITY page "หน้า">
 <!ENTITY tools "เครื่องมือ">
 <!ENTITY new_tab "แท็บใหม่">
-<!ENTITY new_private_tab "แท็บแบบส่วนตัวใหม่">
-<!ENTITY close_all_tabs "ปิดทุกแท็บ">
-<!ENTITY close_private_tabs "ปิดแท็บแบบส่วนตัว">
+<!ENTITY new_private_tab "แท็บส่วนตัวใหม่">
+<!ENTITY close_all_tabs "ปิดแท็บทั้งหมด">
+<!ENTITY close_private_tabs "ปิดแท็บส่วนตัว">
 <!ENTITY tabs_normal "แท็บ">
 <!ENTITY tabs_private "ส่วนตัว">
-<!ENTITY tabs_synced "ผสานข้อมูลแล้ว">
-<!ENTITY set_image_fail "ไม่สามารถตั้งค่ารูป">
-<!ENTITY set_image_path_fail "ไม่สามารถบันทึกภาพได้">
-<!ENTITY set_image_chooser_title "บันทึกรูปเป็น">
+<!ENTITY tabs_synced "ผสานแล้ว">
+<!ENTITY set_image_fail "ไม่สามารถตั้งภาพ">
+<!ENTITY set_image_path_fail "ไม่สามารถบันทึกภาพ">
+<!ENTITY set_image_chooser_title "บันทึกภาพเป็น">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -417,23 +420,23 @@ size. -->
 
 <!ENTITY media_sending_to "กำลังส่งไปยังอุปกรณ์">
 <!ENTITY media_play "เล่น">
-<!ENTITY media_pause "หยุดพัก">
+<!ENTITY media_pause "หยุดชั่วคราว">
 <!ENTITY media_stop "หยุด">
 
 <!ENTITY contextmenu_open_new_tab "เปิดในแท็บใหม่">
 <!ENTITY contextmenu_open_private_tab "เปิดในแท็บส่วนตัว">
 <!ENTITY contextmenu_remove "เอาออก">
-<!ENTITY contextmenu_add_to_launcher "เพิ่มลงหน้าจอแรก">
+<!ENTITY contextmenu_add_to_launcher "เพิ่มไปยังหน้าจอแรก">
 <!ENTITY contextmenu_share "แบ่งปัน">
-<!ENTITY contextmenu_pasteandgo "วางแล้วเข้าเว็บ">
+<!ENTITY contextmenu_pasteandgo "วางแล้วไป">
 <!ENTITY contextmenu_paste "วาง">
 <!ENTITY contextmenu_copyurl "คัดลอกที่อยู่">
 <!ENTITY contextmenu_edit_bookmark "แก้ไข">
 <!ENTITY contextmenu_subscribe "บอกรับหน้านี้">
-<!ENTITY contextmenu_site_settings "แก้ไขการตั้งค่ารายเว็บ">
+<!ENTITY contextmenu_site_settings "แก้ไขการตั้งค่าไซต์">
 <!ENTITY contextmenu_top_sites_edit "แก้ไข">
-<!ENTITY contextmenu_top_sites_pin "ตรึงเว็บ">
-<!ENTITY contextmenu_top_sites_unpin "เลิกตรึงเว็บ">
+<!ENTITY contextmenu_top_sites_pin "ปักหมุดไซต์">
+<!ENTITY contextmenu_top_sites_unpin "ถอดหมุดไซต์">
 <!ENTITY contextmenu_add_search_engine "เพิ่มเครื่องมือค้นหา">
 <!ENTITY contextmenu_mark_read "ทำเครื่องหมายเป็นอ่านแล้ว">
 <!ENTITY contextmenu_mark_unread "ทำเครื่องหมายเป็นยังไม่ได้อ่าน">
@@ -472,18 +475,18 @@ size. -->
 <!ENTITY bookmark_edit_title "แก้ไขที่คั่นหน้า">
 <!ENTITY bookmark_edit_name "ชื่อ">
 <!ENTITY bookmark_edit_location "ตำแหน่ง">
-<!ENTITY bookmark_edit_keyword "คำค้น">
+<!ENTITY bookmark_edit_keyword "คำสำคัญ">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title3       "การตั้งค่ารายเว็บ">
+<!ENTITY site_settings_title3       "ตั้งค่าไซต์">
 <!ENTITY site_settings_cancel       "ยกเลิก">
 <!ENTITY site_settings_clear        "ล้าง">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
 <!ENTITY reading_list_added3 "เพิ่มไปยังรายการอ่านแล้ว">
-<!ENTITY reading_list_removed "ลบหน้าเว็บออกจากรายการอ่านของคุณแล้ว">
+<!ENTITY reading_list_removed "เอาหน้าออกจากรายการอ่านของคุณแล้ว">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_remove "เอาออกจากรายการอ่าน">
@@ -497,7 +500,7 @@ size. -->
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
-<!ENTITY page_action_dropmarker_description "การดำเนินการเพิ่มเติม">
+<!ENTITY page_action_dropmarker_description "การกระทำเพิ่มเติม">
 
 <!ENTITY masterpassword_create_title "สร้างรหัสผ่านหลัก">
 <!ENTITY masterpassword_remove_title "ลบรหัสผ่านหลัก">
@@ -507,24 +510,24 @@ size. -->
 <!ENTITY button_ok "ตกลง">
 <!ENTITY button_cancel "ยกเลิก">
 <!ENTITY button_yes "ใช่">
-<!ENTITY button_no "ไม่ยินยอม">
+<!ENTITY button_no "ไม่">
 <!ENTITY button_clear_data "ล้างข้อมูล">
 <!ENTITY button_set "ตั้ง">
 <!ENTITY button_clear "ล้าง">
 <!ENTITY button_copy "คัดลอก">
 
-<!ENTITY home_top_sites_title "เว็บเด่น">
+<!ENTITY home_top_sites_title "ไซต์ยอดนิยม">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "เพิ่มเว็บไซต์">
+<!ENTITY home_top_sites_add "เพิ่มไซต์">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "หน้าแรก &brandShortName;">
 <!ENTITY home_history_title "ประวัติ">
 <!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
-<!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าคุณต้องการล้างประวัติการเข้าชม?">
-<!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่บันทึกไว้จะแสดงที่นี่">
+<!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติของคุณ?">
+<!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่คุณบันทึกไว้จะแสดงที่นี่">
 <!ENTITY home_closed_tabs_title "แท็บที่เพิ่งปิด">
 <!ENTITY home_last_tabs_title "แท็บจากคราวที่แล้ว">
 <!ENTITY home_last_tabs_empty "แท็บที่เคยเปิดล่าสุดจะแสดงอยู่ตรงนี้">
@@ -544,8 +547,8 @@ size. -->
 
 <!ENTITY home_move_back_to_filter "ย้อนกลับไปยัง &formatS;">
 
-<!ENTITY home_remote_tabs_title "แท็บจากการผสานข้อมูล">
-<!ENTITY home_remote_tabs_empty "แท็บของคุณจากอุปกรณ์อื่นๆ จะถูกแสดงขึ้นที่นี่">
+<!ENTITY home_remote_tabs_title "แท็บที่ผสาน">
+<!ENTITY home_remote_tabs_empty "แท็บจากอุปกรณ์อื่น ๆ ของคุณจะแสดงที่นี่">
 <!ENTITY home_remote_tabs_unable_to_connect "ไม่สามารถเชื่อมต่อได้">
 <!ENTITY home_remote_tabs_need_to_sign_in "กรุณาลงชื่อเข้าใช้เพื่อเชื่อมต่อบัญชี Firefox อีกครั้งและทำการซิงค์ต่อไป">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "บัญชี Firefox ใหม่ของคุณพร้อมใช้งานแล้ว!">
@@ -600,14 +603,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 
-
+<!ENTITY doorhanger_tracking_title "การป้องกันการตามรอย">
+<!ENTITY doorhanger_tracking_state_enabled "ถูกเปิดใช้งาน">
+<!ENTITY doorhanger_tracking_state_disabled "ถูกปิดใช้งาน">
 
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "เรียนรู้เพิ่มเติม">
-<!ENTITY enable_protection "เปิดการปกป้อง">
-<!ENTITY disable_protection "ปิดการป้องกัน">
+<!ENTITY enable_protection "เปิดใช้งานการป้องกัน">
+<!ENTITY disable_protection "ปิดใช้งานการป้องกัน">
 <!ENTITY keep_blocking "ปิดกั้นต่อไป">
 
 <!ENTITY private_data_success "ข้อมูลส่วนตัวถูกล้างแล้ว">
@@ -658,7 +663,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY new_guest_session "วาระใหม่สำหรับผู้มาเยือน">
 <!ENTITY exit_guest_session "จบวาระของผู้มาเยือน">
-<!ENTITY guest_session_dialog_continue "ทำต่อ">
+<!ENTITY guest_session_dialog_continue "ดำเนินการต่อ">
 <!ENTITY guest_session_dialog_cancel "ยกเลิก">
 <!ENTITY new_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
 
@@ -687,7 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "เมนู">
-<!ENTITY actionbar_done "เสร็จ">
+<!ENTITY actionbar_done "เสร็จสิ้น">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "พูดตอนนี้">
@@ -698,9 +703,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 
-<!ENTITY remote_tabs_last_synced "ครั้งล่าสุดที่ซิงค์: &formatS;">
+<!ENTITY remote_tabs_last_synced "ผสานล่าสุด: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "ผสานข้อมูลครั้งสุดท้าย: ไม่เคย">
+<!ENTITY remote_tabs_never_synced "ผสานล่าสุด: ไม่เคย">
 
 <!ENTITY intent_uri_cannot_open "ไม่สามารถเปิดลิงก์">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -727,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY restrictable_feature_addons_installation "ส่วนเสริม">
 
-<!ENTITY restrictable_feature_private_browsing "การดูเว็บแบบส่วนตัว">
+<!ENTITY restrictable_feature_private_browsing "การท่องเว็บแบบส่วนตัว">
 
 <!ENTITY restrictable_feature_clear_history "ล้างประวัติ">
 
