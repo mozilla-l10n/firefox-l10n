@@ -29,7 +29,6 @@
 <!ENTITY retentionKeepRecent.accesskey "y">
 
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Slet altid læste meddelelser (overtrumfer aldersvalg)">
 <!ENTITY retentionApplyToFlagged.label "Behold altid stjernemarkerede meddelelser">
 <!ENTITY retentionApplyToFlagged.accesskey "o">
 
