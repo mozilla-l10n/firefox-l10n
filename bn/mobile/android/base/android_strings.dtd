@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "শুধুমাত্র ওয়াইফাই নির্ভর">
 <!ENTITY pref_tap_to_load_images_disabled2 "ব্লক করা হয়েছে">
 
+<!ENTITY pref_show_web_fonts "ওয়েব ফন্টগুলো দেখাও">
 
 <!ENTITY pref_tracking_protection_title "ট্র্যাকিং সুরক্ষা">
 <!ENTITY pref_tracking_protection_summary3 "প্রাইভেট ব্রাউজিং এ সক্রিয় থাকুন">
@@ -470,6 +471,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "সম্পূর্ণ স্ক্রিন জুড়ে ব্রাউজিং">
 <!ENTITY pref_scroll_title_bar_summary2 "যখন একটি পাতায় স্ক্রল করছেন তখন &brandShortName; টুলবারকে আড়াল কর">
 
+<!ENTITY pref_tab_queue_title3 "ট্যাব কিউ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -770,7 +772,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version "দুঃখিত! &brandShortName; (&formatS1;, &formatS2;) এই ডিভাইসে কাজ করছে না। অনুগ্রহ করে সাম্প্রতিকতম সংস্করণ ডাউনলোড করুন।">
 
+<!ENTITY eol_notification_title2 "&brandShortName; আর হাল নাগাদ করা হবে না">
 <!ENTITY eol_notification_summary "আরও জানতে ট্যাপ করুন">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
+<!ENTITY whatsnew_notification_summary "এই সংস্করণে নতুন কি আছে খুঁজে বের করুন">
