@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
-<!ENTITY error_loading_file "Ha ocurrido un error mientras se intentaba cargar los archivos para usar &brandShortName;">
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
 <!ENTITY onboard_start_message3 "Navegar con &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Haga realmente suya su experiencia de navegación web móvil.">
@@ -40,10 +38,6 @@
 <!ENTITY sending_crash_report "Enviando informe de fallo\u2026">
 <!ENTITY crash_close_label "Cerrar">
 <!ENTITY crash_restart_label "Reiniciar &brandShortName;">
-<!ENTITY exit_label "Salir">
-<!ENTITY launcher_shortcuts_title "Aplicaciones web de &brandShortName;">
-<!ENTITY launcher_shortcuts_empty "No se encontraron aplicaciones web">
-<!ENTITY choose_file "Elegir archivo">
 <!ENTITY url_bar_default_text2 "Término de búsqueda o dirección">
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_remove "Elminar marcador">
@@ -52,12 +46,12 @@
 <!ENTITY bookmark_removed "Marcador eliminado">
 <!ENTITY bookmark_updated "Marcador añadido">
 <!ENTITY bookmark_options "Opciones">
+<!ENTITY screenshot_added_to_bookmarks "Captura añadida a marcadores">
+<!ENTITY screenshot_folder_label_in_bookmarks "Capturas">
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
 <!ENTITY history_week_section3 "En los últimos 7 días">
-<!ENTITY history_this_month_section "Este mes">
 <!ENTITY history_older_section3 "Hace más de 6 meses">
-<!ENTITY go "Ir">
 <!ENTITY search "Buscar">
 <!ENTITY reload "Recargar">
 <!ENTITY forward "Siguiente">
@@ -109,7 +103,6 @@
 <!ENTITY pref_search_hint "TRUCO: añada cualquier sitio web a su lista de buscadores con una pulsación larga en su campo de búsqueda y luego pulsando el icono &formatI;.">
 <!ENTITY pref_category_advanced "Avanzado">
 <!ENTITY pref_category_advanced_summary2 "Restaurar pestañas, plugins, herr. desarrollo">
-<!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota mediante USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota mediante wifi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración wifi requiere que su dispositivo tenga una aplicación lectora de códigos QR instalada.">
@@ -118,15 +111,10 @@
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personalizar su página de inicio">
 <!ENTITY pref_category_home_panels "Paneles">
-<!ENTITY home_add_panel_title "Añadir panel nuevo">
-<!ENTITY home_add_panel_empty "Lo siento, no hemos podido encontrar ningún panel para que lo añada.">
-<!ENTITY home_add_panel_installed "\'&formatS;\' añadido a la página de inicio">
-<!ENTITY pref_category_home_content_settings "Ajustes de contenido">
-<!ENTITY pref_home_updates "Actualizaciones automáticas">
+<!ENTITY pref_category_home_add_ons "Complementos">
+<!ENTITY pref_home_updates2 "Actualizaciones de contenido">
 <!ENTITY pref_home_updates_enabled "Activadas">
 <!ENTITY pref_home_updates_wifi "Sólo bajo Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Mostrar sugerencias de sitios">
-<!ENTITY pref_home_suggested_sites_summary "Mostrar en su página de inicio accesos directos a sitios que pensamos que puede encontrar interesantes">
 <!ENTITY pref_category_home_homepage "Página de inicio">
 <!ENTITY home_homepage_title "Establecer una página de inicio">
 <!ENTITY home_homepage_radio_default "Página de inicio de &brandShortName;">
@@ -234,10 +222,9 @@
 <!ENTITY pref_panels_move_up "Subir">
 <!ENTITY pref_panels_move_down "Bajar">
 <!ENTITY datareporting_notification_title "Estadísticas y datos de &brandShortName;">
-<!ENTITY datareporting_notification_action_long "Elegir qué información compartir">
 <!ENTITY datareporting_notification_action "Elija qué compartir">
+<!ENTITY datareporting_notification_action_long "Elegir qué información compartir">
 <!ENTITY datareporting_notification_summary "Para mejorar su experiencia, &brandShortName; manda automáticamente alguna información a &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Para mejorar su experiencia, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!ENTITY datareporting_fhr_title "Informe de salud de &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Comparte datos con &vendorShortName; sobre la salud de su navegador y le ayuda a entender el rendimiento de éste">
@@ -273,7 +260,6 @@
 <!ENTITY close_private_tabs "Cerrar pestañas privadas">
 <!ENTITY tabs_normal "Pestañas">
 <!ENTITY tabs_private "Privadas">
-<!ENTITY tabs_synced "Sincr.">
 <!ENTITY set_image_fail "No se puede establecer la imagen">
 <!ENTITY set_image_path_fail "No se puede guardar la imagen">
 <!ENTITY set_image_chooser_title "Usar imagen como">
@@ -331,8 +317,6 @@
 <!ENTITY reading_list_removed "Página eliminada de su lista de lectura">
 <!ENTITY reading_list_remove "Eliminar de la lista de lectura">
 <!ENTITY reading_list_duplicate "Página ya está en su lista de lectura">
-<!ENTITY reading_list_time_minutes2 "&formatD; min">
-<!ENTITY reading_list_time_over_an_hour "Más de una hora">
 <!ENTITY page_action_dropmarker_description "Acciones adicionales">
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
 <!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">
@@ -399,7 +383,6 @@
 <!ENTITY learn_more "Saber más">
 <!ENTITY enable_protection "Activar protección">
 <!ENTITY disable_protection "Desactivar protección">
-<!ENTITY keep_blocking "Continuar bloqueando">
 <!ENTITY private_data_success "Datos privados limpiados">
 <!ENTITY private_data_fail "Algunos datos privados no pueden ser limpiados">
 <!ENTITY bookmarkhistory_button_import "Importar">
@@ -442,7 +425,6 @@
 <!ENTITY voicesearch_prompt "Hable ahora">
 <!ENTITY remote_tabs_last_synced "Última sincr.: &formatS;">
 <!ENTITY remote_tabs_never_synced "Última sincronización: nunca">
-<!ENTITY intent_uri_cannot_open "No se puede abrir el enlace">
 <!ENTITY intent_uri_private_browsing_prompt "Este enlace se abrirá en &formatS;. ¿Seguro que desea salir de la navegación privada?">
 <!ENTITY intent_uri_private_browsing_multiple_match_title "¿Salir de navegación privada?">
 <!ENTITY devtools_auth_scan_header "Escaneando el código QR mostrado en su otro dispositivo">
