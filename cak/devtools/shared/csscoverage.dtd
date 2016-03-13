@@ -30,7 +30,7 @@
   -  <style> tag -->
 
 <!ENTITY csscoverage.optimize.body1 "K'o re yatikïr nawutzij ri rusamajixik rik'in ye'asiloj ri taq etal">
-
+<!ENTITY csscoverage.optimize.body2 "chuxe' qa ri ruxaq chuqa' tajin nitz'uk jun k'ak'a' ch'akulal">
 <!ENTITY csscoverage.optimize.body3 "ch'akulal kik'in ri k'atzinel taq b'anikil chuwäch ri 'load' samaj pa jotöl. Ja taq perajil taq b'anikil re' ri yek'atzin chawe:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
