@@ -268,5 +268,5 @@
 
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
-<!ENTITY old_sync_deprecated_notification_title 'Ingresar para continuar la sincronización'>
-<!ENTITY old_sync_deprecated_notification_content 'La cuenta ya no es más soportada'>
+<!ENTITY old_sync_deprecated_notification_title 'Ingresar para continuar sincronizando'>
+<!ENTITY old_sync_deprecated_notification_content 'Esa cuenta ya no es más soportada'>
