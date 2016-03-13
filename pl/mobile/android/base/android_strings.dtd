@@ -2,9 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY no_space_to_start_error "Na dysku jest za mało wolnego miejsca, aby uruchomić program &brandShortName;">
-<!ENTITY error_loading_file "Podczas wczytywania plików wymaganych do uruchomienia programu &brandShortName; wystąpił błąd.">
-
 <!ENTITY firstrun_panel_title_welcome "Witamy">
 <!ENTITY onboard_start_message3 "Przeglądaj z programem &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Spraw, aby przeglądanie mobilne stało się prawdziwie Twoim.">
@@ -46,12 +43,6 @@
 <!ENTITY crash_close_label "Zamknij">
 <!ENTITY crash_restart_label "Uruchom ponownie program &brandShortName;">
 <!ENTITY sending_crash_report "Przesyłanie zgłoszenia\u2026">
-<!ENTITY exit_label "Zakończ">
-
-<!ENTITY launcher_shortcuts_title "&brandShortName; – Aplikacje internetowe">
-<!ENTITY launcher_shortcuts_empty "Nie znaleziono aplikacji internetowych">
-
-<!ENTITY choose_file "Wybierz plik">
 
 <!ENTITY url_bar_default_text2 "Wpisz zapytanie lub adres">
 
@@ -68,10 +59,8 @@
 <!ENTITY history_today_section "Dzisiaj">
 <!ENTITY history_yesterday_section "Wczoraj">
 <!ENTITY history_week_section3 "Ostatnie 7 dni">
-<!ENTITY history_this_month_section "Ten miesiąc">
 <!ENTITY history_older_section3 "Starsze niż 6 miesięcy">
 
-<!ENTITY go "Przejdź">
 <!ENTITY search "Szukaj">
 <!ENTITY reload "Odśwież">
 <!ENTITY forward "Do przodu">
@@ -131,7 +120,6 @@
 <!ENTITY pref_search_hint "Rada: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
 <!ENTITY pref_category_advanced "Zaawansowane">
 <!ENTITY pref_category_advanced_summary2 "Przywracanie kart, wtyczki, narzędzia dla programistów">
-<!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
 <!ENTITY pref_developer_remotedebugging_usb "Zdalne debugowanie przez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Zdalne debugowanie przez Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugowanie przez Wi-Fi wymaga zainstalowania czytnika kodów QR na urządzeniu.">
@@ -141,9 +129,6 @@
 <!ENTITY pref_category_home "Strona domowa">
 <!ENTITY pref_category_home_summary "Dostosowanie strony domowej">
 <!ENTITY pref_category_home_panels "Panele">
-<!ENTITY home_add_panel_title "Dodanie nowego panelu">
-<!ENTITY home_add_panel_empty "Nie znaleziono żadnych paneli do dodania.">
-<!ENTITY home_add_panel_installed "Dodano „&formatS;” do strony domowej">
 <!ENTITY pref_category_home_content_settings "Ustawienia treści">
 <!ENTITY pref_category_home_add_ons "Dodatki">
 <!ENTITY pref_home_updates2 "Aktualizacje treści">
@@ -278,7 +263,6 @@
 <!ENTITY datareporting_notification_action "Wybierz, co chcesz udostępniać">
 <!ENTITY datareporting_notification_action_long "Wybierz informacje, które chcesz udostępniać">
 <!ENTITY datareporting_notification_summary "Aby ulepszyć przeglądarkę &brandShortName;, &vendorShortName; automatycznie pobiera pewne informacje.">
-<!ENTITY datareporting_notification_summary_short "Aby ulepszyć przeglądarkę &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;. &datareporting_notification_action_long;">
 
 <!ENTITY datareporting_fhr_title "Raport o zdrowiu programu &brandShortName;">
@@ -382,8 +366,6 @@
 <!ENTITY reading_list_removed "Usunięto stronę z czytelni">
 <!ENTITY reading_list_remove "Usuń z czytelni">
 <!ENTITY reading_list_duplicate "Strona została już dodana do czytelni">
-<!ENTITY reading_list_time_minutes2 "&formatD; min">
-<!ENTITY reading_list_time_over_an_hour "Ponad godzinę">
 
 <!ENTITY page_action_dropmarker_description "Dodatkowe czynności">
 
@@ -448,7 +430,6 @@
 
 <!ENTITY tabs_normal "Karty">
 <!ENTITY tabs_private "Prywatne">
-<!ENTITY tabs_synced "Z Sync">
 <!ENTITY set_image_fail "Nie można ustawić obrazu">
 <!ENTITY set_image_path_fail "Nie można zapisać obrazu">
 <!ENTITY set_image_chooser_title "Ustaw obraz jako">
@@ -478,7 +459,6 @@
 <!ENTITY learn_more "Więcej informacji">
 <!ENTITY enable_protection "Włącz ochronę">
 <!ENTITY disable_protection "Wyłącz ochronę">
-<!ENTITY keep_blocking "Blokuj nadal">
 
 <!ENTITY private_data_success "Usunięto prywatne dane">
 <!ENTITY private_data_fail "Nie udało się usunąć wszystkich prywatnych danych">
@@ -534,7 +514,6 @@
 <!ENTITY remote_tabs_last_synced "Ostatnia synchronizacja: &formatS;">
 <!ENTITY remote_tabs_never_synced "Ostatnia synchronizacja: nigdy">
 
-<!ENTITY intent_uri_cannot_open "Nie można otworzyć odnośnika">
 <!ENTITY intent_uri_private_browsing_prompt "Ten odnośnik zostanie otwarty w aplikacji &formatS;. Na pewno wyjść z trybu prywatnego?">
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Wyjść z trybu prywatnego?">
 
