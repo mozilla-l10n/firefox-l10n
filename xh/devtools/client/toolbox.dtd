@@ -60,6 +60,8 @@ values from browser.dtd.  -->
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.hex "I-Hex">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
