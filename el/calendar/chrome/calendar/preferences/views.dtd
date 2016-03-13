@@ -7,6 +7,24 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+<!ENTITY pref.calendar.view.allview.caption "Γενικά">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Προβολές ημέρας και εβδομάδας">
+<!ENTITY pref.calendar.view.multiweekview.caption "Προβολή πολλαπλών εβδομάδων">
 
+<!ENTITY pref.weekstarts.label "Αρχή της εβδομάδας την:">
+<!ENTITY pref.daysoff.label "Να συμπεριληφθούν αυτές οι ημέρες στις εργάσιμες:">
 
+<!ENTITY pref.calendar.view.daystart.label "Η ημέρα ξεκινάει στις:">
+<!ENTITY pref.calendar.view.dayend.label "Η ημέρα τελειώνει στις:">
+<!ENTITY pref.calendar.view.visiblehours.label "Εμφάνιση:">
 
+<!ENTITY pref.numberofweeks.label "Αριθμός εβδομάδων προς εμφάνιση (συμπεριλαμβανομένων των προηγούμενων εβδομάδων):">
+<!ENTITY pref.numberofpreviousweeks.label "Προηγούμενες εβδομάδες προς εμφάνιση:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "Π">
+<!ENTITY pref.numberofweeks.0 "καμία">
+<!ENTITY pref.numberofweeks.1 "1 εβδομάδα">
+<!ENTITY pref.numberofweeks.2 "2 εβδομάδες">
+<!ENTITY pref.numberofweeks.3 "3 εβδομάδες">
+<!ENTITY pref.numberofweeks.4 "4 εβδομάδες">
+<!ENTITY pref.numberofweeks.5 "5 εβδομάδες">
+<!ENTITY pref.numberofweeks.6 "6 εβδομάδες">
