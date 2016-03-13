@@ -531,8 +531,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "নতুন উইন্ডোতে ফ্রেম খোলা হবে (W)">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "নতুন কন্টেইনার ট্যাবে লিঙ্ক খুলুন">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "শুধুমাত্র এই ফ্রেমটি প্রদর্শন করা হবে (S)">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -780,7 +780,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "এ">
 <!ENTITY identity.learnMore "আরও জানুন">
 
-
+<!ENTITY identity.removeCertException.label "ব্যাতিক্রম সরিয়ে ফেলুন">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "আরও তথ্য">
 
@@ -794,7 +795,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "সিঙ্ককৃত ট্যাব">
 
-
+<!ENTITY syncedTabs.sidebar.label              "সিঙ্ককৃত ট্যাব">
+<!ENTITY syncedTabs.sidebar.fetching.label     "সিঙ্ককৃত ট্যাব নিয়ে আসা হচ্ছে…">
 
 
 
