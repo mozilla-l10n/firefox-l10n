@@ -145,7 +145,8 @@
 <!ENTITY home_add_panel_empty "Nie znaleziono żadnych paneli do dodania.">
 <!ENTITY home_add_panel_installed "Dodano „&formatS;” do strony domowej">
 <!ENTITY pref_category_home_content_settings "Ustawienia treści">
-<!ENTITY pref_home_updates "Automatyczne aktualizacje">
+<!ENTITY pref_category_home_add_ons "Dodatki">
+<!ENTITY pref_home_updates2 "Aktualizacje treści">
 <!ENTITY pref_home_updates_enabled "Włączone">
 <!ENTITY pref_home_updates_wifi "Tylko przez Wi-Fi">
 
