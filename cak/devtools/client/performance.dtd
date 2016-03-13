@@ -34,6 +34,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+
+<!ENTITY performanceUI.unavailableNoticePB "Man wachel ta ri ruyakik jun ruwäch b'i'aj. Tab'ana' utzil, ke'atz'apij konojel ritaq rutzuwach ichinan okem pa k'amaya'l chuqa' tatojtob'ej chik.">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
 

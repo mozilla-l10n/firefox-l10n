@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Kenuk'samajïx kitz'aqat taq ch'akul">
 <!ENTITY projectMenu_manageComponents_accesskey "K">
-
+<!ENTITY projectMenu_refreshTabs_label "Kek'ex taq ruwi'">
 
 <!ENTITY runtimeMenu_label "Ruq'ijul b'anatajnïk">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -213,6 +213,6 @@
 <!ENTITY simulator_device "Samajib'äl">
 <!ENTITY simulator_screenSize "Ruwäch">
 <!ENTITY simulator_pixelRatio "Ximoj pisel">
-
+<!ENTITY simulator_tv_data "Rojqanem TV">
 <!ENTITY simulator_tv_data_open "Tib'an kinuk'ulem taq tzij">
-
+<!ENTITY simulator_tv_data_open_button "Tijaq rucholb'al nuk'ulem…">
