@@ -21,8 +21,6 @@
 <!ENTITY pref_clearHistory_dialogMessage 'Supprimer l’ensemble de l’historique de recherche de cet appareil ?'>
 <!ENTITY pref_clearHistory_title 'Effacer l’historique de recherche'>
 
-<!ENTITY pref_searchProvider_title 'Moteur de recherche'>
-
 <!ENTITY search_widget_button_label 'Rechercher'>
 
 <!ENTITY network_error_title 'Aucune connexion Internet'>
