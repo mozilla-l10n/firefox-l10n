@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "同步">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label '连接到 &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label '添加 &syncBrand.fullName.label; 账户'>
-<!ENTITY sync.title.pair.label '设备配对'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label '要想激活您的新设备，请在设备上选择“设置 &syncBrand.shortName.label;”。'>
-<!ENTITY sync.subtitle.header2.label '在您其他设备中输入此代码'>
-<!ENTITY sync.subtitle.connectlocation2.label '请在您其他设备的 Firefox 选项 &syncBrand.shortName.label; 部分选择 “&sync.title.pair.label;”。'>
 <!ENTITY sync.subtitle.pair.label '要想激活，请在您的其他设备上选择“设备配对”。'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label '告诉我怎么办。'>
-<!ENTITY sync.link.advancedsetup.label '高级设置...'>
 <!ENTITY sync.link.nodevice.label '该设备不在我身边…'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label '正在等待其他设备…'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label '请输入您的 &syncBrand.fullName.label; 账户信息'>
-<!ENTITY sync.input.username.label '账户名称'>
-<!ENTITY sync.input.password.label '密码'>
-<!ENTITY sync.input.key.label '恢复密钥'>
-<!ENTITY sync.checkbox.server.label '使用自定义服务器'>
-<!ENTITY sync.input.server.label '服务器网址'>
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label '无法设置 &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; 无法连接到服务器。您想再试一次吗？'>
-<!ENTITY sync.button.tryagain.label '重试'>
-<!ENTITY sync.button.manual.label '手动设置'>
-<!ENTITY sync.subtitle.nointernet.label '没有互联网连接可用。'>
-<!ENTITY sync.subtitle.failaccount.label '在您的设备上创建账户失败。'>
-<!ENTITY sync.subtitle.failmultiple.label '您安装了超过一个以上的 Firefox？目前 &syncBrand.fullName.label; 只支持在同一时间使用一个 Firefox 安装副本。请卸载其他的副本再使用 &syncBrand.shortName.label;。'>
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label '初始设置完成'>
-<!ENTITY sync.subtitle.success.label1 '正在后台下载你的数据。您可以到“设置”中管理您的账户，或者立即开始用 &brandShortName; 上网冲浪。'>
-<!ENTITY sync.settings.label '设置'>
-<!ENTITY sync.subtitle.manage.label1 '您的 &syncBrand.fullName.label; 账户已建立。您可以到“设置”中管理您的账户，或者启动 &brandShortName;。'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label '请重试。'>
-<!ENTITY sync.pair.connectlocation.label '要激活你的新设备，在设备上选择 “设置 &syncBrand.shortName.label; ”，然后选择“已有账户”。'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label '选项'>
-<!ENTITY sync.summary.pair.label '链接其他设备到您的 &syncBrand.shortName.label; 账户'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label '同步范围'>
-<!ENTITY sync.configure.engines.sync.my.title.label '同步你的…'>
-<!ENTITY sync.configure.engines.title.bookmarks '书签'>
 <!ENTITY sync.configure.engines.title.passwords2 '登录信息'>
 <!ENTITY sync.configure.engines.title.history '历史记录'>
 <!ENTITY sync.configure.engines.title.tabs '标签页'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label '取消'>
-<!ENTITY sync.button.connect.label '连接'>
-<!ENTITY sync.button.ok.label '确定'>
-
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label;（旧版）'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -82,31 +29,18 @@
 <!ENTITY sync.default.client.name '运行于 &formatS2; 的 &formatS1;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label '书签菜单'>
+<!ENTITY bookmarks.folder.menu.label '书签库菜单'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label '标签'>
-<!ENTITY bookmarks.folder.toolbar.label '书签工具栏'>
-<!ENTITY bookmarks.folder.unfiled.label '未分类书签'>
-<!ENTITY bookmarks.folder.desktop.label '桌面版书签'>
-<!ENTITY bookmarks.folder.mobile.label '移动版书签'>
+<!ENTITY bookmarks.folder.toolbar.label '书签库工具栏'>
+<!ENTITY bookmarks.folder.unfiled.label '未分类的书签'>
+<!ENTITY bookmarks.folder.desktop.label '桌面设备上的书签'>
+<!ENTITY bookmarks.folder.mobile.label '移动设备上的书签'>
 <!ENTITY bookmarks.folder.readinglist.label '阅读列表'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label '已固定'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label '仅支持一个 &syncBrand.fullName.label; 账户。'>
-<!ENTITY sync.notification.configure.saved '你的选择已保存。'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label '不正确的账户名或密码。'>
-<!ENTITY sync.invalidserver.label '请输入有效的服务器 URL'>
-<!ENTITY sync.verifying.label '正在校验…'>
-<!ENTITY sync.new.recoverykey.status.incorrect '恢复密钥不正确。请重试。'>
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label '发送标签页到设备'>
-<!ENTITY sync.button.send.label '发送'>
-<!ENTITY sync.button.set.up.sync.label '设置 &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label '设置 &syncBrand.shortName.label; 以发送标签页'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label '在您的设备上设置 &syncBrand.fullName.label; 以发送标签页到其他设备。'>
 <!ENTITY sync.text.tab.sent.label '您的标签页已发送！'>
@@ -211,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。'>
 <!ENTITY fxaccount_status_needs_finish_migrating '点按以登录到您全新的 Firefox 账户。'>
-<!ENTITY fxaccount_status_bookmarks '书签'>
+<!ENTITY fxaccount_status_bookmarks '书签库'>
 <!ENTITY fxaccount_status_history '历史记录'>
 <!ENTITY fxaccount_status_passwords2 '登录信息'>
 <!ENTITY fxaccount_status_tabs '打开的标签页'>

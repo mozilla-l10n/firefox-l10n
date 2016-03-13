@@ -30,7 +30,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "书签">
+<!ENTITY  bookmarks_title "书签库">
 <!ENTITY  history_title "历史">
 <!ENTITY  reading_list_title "阅读列表">
 <!ENTITY  recent_tabs_title "最近的标签页">
@@ -60,11 +60,11 @@
 
 <!ENTITY bookmark "书签">
 <!ENTITY bookmark_remove "移除书签">
-<!ENTITY bookmark_added "书签已添加">
+<!ENTITY bookmark_added "已加入书签库">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "已有书签">
+<!ENTITY bookmark_already_added "已有此书签">
 <!ENTITY bookmark_removed "书签已移除">
 <!ENTITY bookmark_updated "书签已更新">
 <!ENTITY bookmark_options "选项">
@@ -130,9 +130,9 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "添加书签">
+<!ENTITY overlay_share_bookmark_btn_label "加入书签库">
 <!ENTITY overlay_share_reading_list_btn_label "添加到阅读列表">
-<!ENTITY overlay_share_bookmark_btn_label_already "已经加入书签">
+<!ENTITY overlay_share_bookmark_btn_label_already "已有此书签">
 <!ENTITY overlay_share_reading_list_btn_label_already "已在阅读列表中">
 <!ENTITY overlay_share_send_other "发送到其他设备">
 
@@ -534,7 +534,7 @@ size. -->
 <!ENTITY home_history_title "历史">
 <!ENTITY home_clear_history_button "清除浏览历史记录">
 <!ENTITY home_clear_history_confirm "您确定要清除您的历史记录吗？">
-<!ENTITY home_bookmarks_empty "这里显示了您保存的书签。">
+<!ENTITY home_bookmarks_empty "这里显示了您添加的书签。">
 <!ENTITY home_closed_tabs_title "最近关闭的标签页">
 <!ENTITY home_last_tabs_title "上次的标签页">
 <!ENTITY home_last_tabs_empty "您最近的标签页将出现在这里。">
