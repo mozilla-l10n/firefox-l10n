@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "Il n’y a pas assez d’espace disponible pour permettre à &brandShortName; de démarrer.">
-<!ENTITY  error_loading_file "Une erreur est survenue en essayant de charger des fichiers nécessaires pour lancer &brandShortName;">
-
 <!ENTITY firstrun_panel_title_welcome "Bienvenue">
 <!ENTITY  onboard_start_message3 "Naviguez avec &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Personnalisez facilement votre navigation web mobile.">
@@ -50,12 +46,6 @@
 <!ENTITY  sending_crash_report "Envoi du rapport de plantage\u2026">
 <!ENTITY  crash_close_label "Fermer">
 <!ENTITY  crash_restart_label "Redémarrer &brandShortName;">
-<!ENTITY  exit_label "Quitter">
-
-<!ENTITY  launcher_shortcuts_title "Applications web pour &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Aucune application web trouvée">
-
-<!ENTITY choose_file "Choisir un fichier">
 
 <!ENTITY url_bar_default_text2 "Recherche ou adresse">
 
@@ -68,14 +58,17 @@
 <!ENTITY bookmark_removed "Marque-page supprimé">
 <!ENTITY bookmark_updated "Marque-page mis à jour">
 <!ENTITY bookmark_options "Options">
+<!ENTITY screenshot_added_to_bookmarks "Capture d’écran ajoutée aux marque-pages">
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Captures d’écran">
 
 <!ENTITY history_today_section "Aujourd’hui">
 <!ENTITY history_yesterday_section "Hier">
 <!ENTITY history_week_section3 "Les 7 derniers jours">
-<!ENTITY history_this_month_section "Ce mois-ci">
 <!ENTITY history_older_section3 "Il y a plus de 6 mois">
 
-<!ENTITY go "Aller">
 <!ENTITY search "Rechercher">
 <!ENTITY reload "Actualiser">
 <!ENTITY forward "Page suivante">
@@ -172,7 +165,6 @@
 <!ENTITY pref_search_hint "ASTUCE : Ajoutez n’importe quel site à votre liste de moteurs de recherche en effectuant un appui long sur leur champ de recherche puis en appuyant sur l’icône &formatI;.">
 <!ENTITY pref_category_advanced "Avancé">
 <!ENTITY pref_category_advanced_summary2 "Restaurer les onglets, plugins, outils de développement">
-<!ENTITY pref_developer_remotedebugging "Débogage distant">
 <!ENTITY pref_developer_remotedebugging_usb "Débogage distant par USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Débogage distant par Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Le débogage par Wi-Fi nécessite que votre appareil dispose d’une application permettant de lire les QR codes.">
@@ -182,18 +174,10 @@
 <!ENTITY pref_category_home "Écran d’accueil">
 <!ENTITY pref_category_home_summary "Personnaliser l’écran d’accueil">
 <!ENTITY pref_category_home_panels "Panneaux">
-<!ENTITY home_add_panel_title "Nouveau panneau">
-<!ENTITY home_add_panel_empty "Désolé, aucun panneau à ajouter n’a été trouvé.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "« &formatS; » ajouté à l’écran d’accueil">
-<!ENTITY pref_category_home_content_settings "Paramètres du contenu">
-<!ENTITY pref_home_updates "Mises à jour automatiques">
+<!ENTITY pref_category_home_add_ons "Modules">
+<!ENTITY pref_home_updates2 "Mises à jour du contenu">
 <!ENTITY pref_home_updates_enabled "Activées">
 <!ENTITY pref_home_updates_wifi "Seulement par Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Suggestions de sites">
-<!ENTITY pref_home_suggested_sites_summary "Afficher sur votre écran d’accueil des raccourcis vers des sites que nous pensons que vous trouverez intéressants">
 <!ENTITY pref_category_home_homepage "Page d’accueil">
 <!ENTITY home_homepage_title "Définir une page d’accueil">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -358,7 +342,6 @@ size. -->
 <!ENTITY datareporting_notification_action_long "choisir ce que j’envoie">
 <!ENTITY datareporting_notification_action "Choisir ce que j’envoie">
 <!ENTITY datareporting_notification_summary "Afin d’améliorer votre navigation, &brandShortName; envoie automatiquement certaines informations à &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Afin d’améliorer votre navigation…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title; : &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
@@ -412,7 +395,6 @@ size. -->
 <!ENTITY close_private_tabs "Fermer les onglets privés">
 <!ENTITY tabs_normal "Onglets">
 <!ENTITY tabs_private "Privés">
-<!ENTITY tabs_synced "Synchronisés">
 <!ENTITY set_image_fail "Impossible de choisir cette image">
 <!ENTITY set_image_path_fail "Impossible d’enregistrer l’image">
 <!ENTITY set_image_chooser_title "Définir l’image comme">
@@ -501,12 +483,6 @@ size. -->
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_remove "Retirer de la liste de lecture">
 <!ENTITY reading_list_duplicate "La page se trouve déjà dans votre liste de lecture">
-
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-<!ENTITY reading_list_time_minutes2 "&formatD; min">
-<!ENTITY reading_list_time_over_an_hour "Plus d’une heure">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -627,7 +603,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "En savoir plus">
 <!ENTITY enable_protection "Activer la protection">
 <!ENTITY disable_protection "Désactiver la protection">
-<!ENTITY keep_blocking "Poursuivre le blocage">
 
 <!ENTITY private_data_success "Données personnelles effacées">
 <!ENTITY private_data_fail "Certaines données personnelles ne peuvent pas être effacées">
@@ -720,7 +695,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Dernière synchronisation : jamais">
 
-<!ENTITY intent_uri_cannot_open "Impossible d’ouvrir le lien">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
