@@ -25,27 +25,10 @@
 <!ENTITY bookmarks.folder.unfiled.label "Zakładki nieposortowane">
 <!ENTITY bookmarks.folder.desktop.label "Zakładki z komputera">
 <!ENTITY bookmarks.folder.mobile.label "Zakładki z telefonu">
-<!ENTITY bookmarks.folder.readinglist.label "Do przeczytania">
 <!ENTITY bookmarks.folder.pinned.label "Przypięte">
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Aby wysłać kart, skonfiguruj &syncBrand.shortName.label;.">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Aby wysłać karty na inne urządzenia, skonfiguruj &syncBrand.fullName.label; na swoim urządzeniu.">
-<!ENTITY sync.text.tab.sent.label "Karta wysłana!">
-<!ENTITY sync.text.tab.not.sent.label "Wystąpił błąd przy wysyłaniu karty.">
-
-<!ENTITY fxaccount_full_label "Konta Firefoksa">
-<!ENTITY fxaccount_custom_server_account_title "Korzystanie z konta na serwerze">
-<!ENTITY fxaccount_custom_server_sync_title "Zachowywanie danych synchronizacji na serwerze">
-
-<!ENTITY fxaccount_email_hint "Adres e-mail">
-<!ENTITY fxaccount_password_hint "Hasło">
-<!ENTITY fxaccount_password_hide "Ukryj">
-<!ENTITY fxaccount_password_show "Pokaż">
 
 <!ENTITY fxaccount_back_to_browsing "Wróć do przeglądarki">
 
-<!ENTITY fxaccount_policy_linktos "Warunki użytkowania">
-<!ENTITY fxaccount_policy_linkprivacy "Polityka prywatności">
 <!ENTITY fxaccount_status_more "Więcej…">
 <!ENTITY fxaccount_remove_account "Rozłącz…">
 
@@ -60,52 +43,14 @@
 <!ENTITY fxaccount_getting_started_get_started "Pierwsze kroki">
 <!ENTITY fxaccount_getting_started_old_firefox "Korzystasz ze starej wersji usługi &syncBrand.shortName.label;?">
 
-<!ENTITY fxaccount_create_account_header2 "Utwórz konto Firefoksa">
-<!ENTITY fxaccount_create_account_password_length_restriction "Hasło musi mieć przynajmniej 8 znaków">
-<!ENTITY fxaccount_create_account_day_of_birth "Dzień">
-<!ENTITY fxaccount_create_account_month_of_birth "Miesiąc">
-<!ENTITY fxaccount_create_account_year_of_birth "Rok urodzenia">
-<!ENTITY fxaccount_create_account_policy_text2 "Przechodząc dalej, wyrażasz zgodę na warunki, które opisują &formatS1; oraz &formatS2; usług przechowywania danych Firefoksa.">
-<!ENTITY fxaccount_create_account_button "Dalej">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Wybierz, co chcesz synchronizować">
-<!ENTITY fxaccount_create_account_sign_in_instead "Masz już konto? Zaloguj się">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 lub wcześniej">
-<!ENTITY fxaccount_create_account_unknown_error "Nie udało się utworzyć konta">
-
-<!ENTITY fxaccount_account_create_not_allowed "Nie można utworzyć konta">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Musisz osiągnąć pewien wiek, aby móc utworzyć konto.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Więcej informacji">
-
 <!ENTITY fxaccount_confirm_account_header "Zweryfikuj swoje konto">
-<!ENTITY fxaccount_confirm_account_verification_link "Odnośnik weryfikujący wysłano na &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Wyślij ponownie">
-<!ENTITY fxaccount_confirm_account_change_email "Usunąć konfigurację konta przypisanego do tego adresu?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Wysłano odnośnik weryfikujący">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Nie udało się wysłać odnośnika weryfikującego">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Wyślij ponownie odnośnik weryfikacyjny">
-<!ENTITY fxaccount_unlock_code_sent "Wiadomość z odnośnikiem weryfikacyjnym została wysłana">
-<!ENTITY fxaccount_unlock_code_not_sent "Nie można było wysłać wiadomości z odnośnikiem weryfikacyjnym">
 
-<!ENTITY fxaccount_sign_in_sub_header "Zaloguj się">
 <!ENTITY fxaccount_sign_in_button_label "Zaloguj się">
-<!ENTITY fxaccount_sign_in_forgot_password "Nie pamiętasz hasła?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Utwórz konto">
-<!ENTITY fxaccount_sign_in_unknown_error "Logowanie się nie powiodło">
-
-<!ENTITY fxaccount_account_verified_sub_header "Konto zweryfikowano">
-<!ENTITY fxaccount_account_verified_description2 "Za chwilę rozpocznie się synchronizacja twoich danych">
-
-<!ENTITY fxaccount_migration_finished_header "Aktualizacja zakończona">
-
-<!ENTITY fxaccount_update_credentials_header "Zaloguj się">
-<!ENTITY fxaccount_update_credentials_button_label "Zaloguj się">
-<!ENTITY fxaccount_update_credentials_unknown_error "Logowanie się nie powiodło">
 
 <!ENTITY fxaccount_finish_migrating_header "Zaloguj się, aby dokończyć aktualizację">
 <!ENTITY fxaccount_finish_migrating_button_label "Dokończ aktualizację">
-<!ENTITY fxaccount_finish_migrating_description "Aktualizacja może spowodować przesłanie dużej ilości danych. Najlepiej zrobić to poprzez sieć Wi-Fi.">
 
-<!ENTITY fxaccount_status_header2 "Konto Firefoksa">
 <!ENTITY fxaccount_status_signed_in_as "Zalogowano jako">
 <!ENTITY fxaccount_status_manage_account "Zarządzaj kontem">
 <!ENTITY fxaccount_status_auth_server "Serwer konta">
@@ -142,7 +87,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Serwer jest zajęty, spróbuj ponownie później">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Serwer jest zajęty, spróbuj ponownie później">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Wystąpił problem">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Brak połączenia z siecią">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Niezweryfikowane konto. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; nie może nawiązać połączenia">
@@ -150,6 +94,3 @@
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "Dokończ aktualizację &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Stuknij, aby zalogować się jako &formatS;">
-
-<!ENTITY old_sync_deprecated_notification_title "Zaloguj się, aby synchronizować">
-<!ENTITY old_sync_deprecated_notification_content "Ten rodzaj konta nie jest już obsługiwany">
