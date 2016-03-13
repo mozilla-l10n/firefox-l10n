@@ -11,6 +11,8 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Εργασίες" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Εμφάνιση ολοκληρωμένων εργασιών">
 
+<!ENTITY calendar.today.button.label          "Σήμερα">
+<!ENTITY calendar.tomorrow.button.label       "Αύριο">
 
 <!ENTITY calendar.events.filter.all.label "Όλα τα συμβάντα">
 <!ENTITY calendar.events.filter.today.label "Σημερινά συμβάντα">
@@ -73,7 +75,13 @@
 
 <!--=percent sign-->
 
+<!ENTITY calendar.context.markcompleted.label     "Σημείωση ως ολοκληρωμένη">
 
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.low                 "Χαμηλή">
 <!ENTITY priority.level.low.accesskey       "Χ">
@@ -121,6 +129,10 @@
      This is the access key used for the showOnlyCalendar string -->
 <!ENTITY calendar.context.showall.label                "Εμφάνιση όλων των ημερολογίων">
 
+<!ENTITY calendar.context.convertmenu.label              "Μετατροπή σε">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "Σ">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "Μ">
+<!ENTITY calendar.context.convertmenu.task.label         "Εργασία…">
 
 
 
