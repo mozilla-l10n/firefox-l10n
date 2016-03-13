@@ -18,8 +18,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Usunąć całą historię wyszukiwania z urządzenia?">
 <!ENTITY pref_clearHistory_title "Wyczyść historię wyszukiwania">
 
-<!ENTITY pref_searchProvider_title "Wyszukiwarka">
-
 <!ENTITY search_widget_button_label "Wyszukaj">
 
 <!ENTITY network_error_title "Brak połączenia z Internetem">
