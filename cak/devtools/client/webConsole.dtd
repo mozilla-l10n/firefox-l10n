@@ -49,7 +49,7 @@
 <!ENTITY btnConsoleErrors       "Taq sachoj">
 <!ENTITY btnConsoleInfo         "Etamab'äl">
 <!ENTITY btnConsoleWarnings     "Kitzijol taq k'ayewal">
-
+<!ENTITY btnConsoleLog          "Tz'ib'axïk">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Taq qajnäq">
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
@@ -62,7 +62,7 @@
 <!ENTITY btnServerErrors              "Taq sachoj">
 <!ENTITY btnServerInfo                "Etamab'äl">
 <!ENTITY btnServerWarnings            "Kitzijol taq k'ayewal">
-
+<!ENTITY btnServerLog                 "Tz'ib'axïk">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
@@ -96,7 +96,7 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
+<!ENTITY openInVarViewCmd.label "Tijaq pa taq jalwachil tzub'al">
+<!ENTITY openInVarViewCmd.accesskey "j">
 <!ENTITY storeAsGlobalVar.label "K'ayb'äl achi'el chijun jalwachil">
 <!ENTITY storeAsGlobalVar.accesskey "K">

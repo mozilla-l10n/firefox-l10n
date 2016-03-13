@@ -56,7 +56,7 @@
 <!ENTITY performanceUI.toolbar.waterfall "Tik'o">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Yeruk'üt pe ri jalajöj taq samaj yerub'än ri okik'amaya'l toq tajin niyakon, yeb'an pa rucholajem achi'el tik'o.">
 <!ENTITY performanceUI.toolbar.js-calltree "Rucholajem ri taq oyonïk">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Taq rusamaj yalan ya'on ketal JavaScript, akuchi' ri okik'amaya'l janila' niyoke' toq niyakon.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Taq jachoj">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Nuk'üt akuchi' jachon ri rupam rujolom toq niyak.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Ruwachib'al JS ruxaq q'aq'">
