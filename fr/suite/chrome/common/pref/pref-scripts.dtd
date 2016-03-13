@@ -17,7 +17,6 @@
 <!ENTITY allowWindowMoveResize.label "Déplacer ou redimensionner des fenêtres existantes">
 <!ENTITY allowWindowFlip.label "Faire passer une fenêtre devant ou derrière les autres fenêtres">
 <!ENTITY allowWindowStatusChange.label "Changer le texte de la barre d'état">
-<!ENTITY allowWindowImageSrcChange.label "Changer les images (défilement des images)">
 <!ENTITY allowContextmenuDisable.label "Désactiver ou remplacer le menu contextuel d'une page">
 <!ENTITY allowHideStatusBar.label "Masquer la barre d'état">
 

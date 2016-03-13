@@ -5,12 +5,14 @@
 <!ENTITY sendMaildesc.label "Lors de l'expédition d'un courrier en HTML à un destinataire ne figurant pas dans la liste de ceux pouvant recevoir du HTML :">
 <!ENTITY askMe.label "Me demander de choisir">
 <!ENTITY askMe.accesskey "M">
-<!ENTITY convertPlain.label "Convertir au format texte simple">
-<!ENTITY convertPlain.accesskey "C">
-<!ENTITY sendHTML.label "Envoyer au format HTML tout de même">
-<!ENTITY sendHTML.accesskey "E">
-<!ENTITY sendBoth.label "Envoyer aux formats texte et HTML">
-<!ENTITY sendBoth.accesskey "n">
+
+
+<!ENTITY convertPlain2.label "Convertir au format texte simple (la mise en forme peut être perdue)">
+<!ENTITY convertPlain2.accesskey "C">
+<!ENTITY sendHTML2.label "Envoyer au format HTML uniquement (peut causer des problèmes d’affichage)">
+<!ENTITY sendHTML2.accesskey "E">
+<!ENTITY sendBoth2.label "Envoyer aux formats texte et HTML (taille plus importante)">
+<!ENTITY sendBoth2.accesskey "n">
 <!ENTITY override.label "Vous pouvez forcer ces paramètres lors de l'envoi de chaque message dans le menu Préférences de la fenêtre de composition.">
 
 <!-- Html and Plain Text Domains  -->
@@ -36,3 +38,7 @@
 <!ENTITY domainnameError.title "Erreur de nom de domaine">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label "Le nom de domaine @string@ est invalide et sera ignoré. Les noms de domaine valides doivent contenir au moins un « . » et des caractères de part et d'autre.">
+
+<!-- Global auto-detect switch -->
+<!ENTITY autoDowngrade.label          "Envoyer automatiquement le message au format texte simple si aucune mise en forme notable n’est présent (ne tient pas compte des autres options)">
+<!ENTITY autoDowngrade.accesskey      "o">
