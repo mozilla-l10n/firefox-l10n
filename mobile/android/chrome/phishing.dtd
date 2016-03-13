@@ -12,9 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Տեղեկություն կա այն մասին, որ  <span id='malware_sitename'/> կայքը կիրառվում է համակարգիչների վրա գրոհելու համար: Համաձայն ձեր անվտանգության կարգավորումների՝ այն արգելափակված է:">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Հարձակվող էջերը փորձում են տեղադրել ծրագրեր, որոնք գողանում են անձնական տվյալներ, օգտագործում են ձեր համակարգիչը այլ համակարգիչների վրա հարձակման համար:</p><p>Որոշ հարձակվող էջեր դիտմամբ են տարածում վնասակար ծրագրեր, բայց շատերը դա անում են առանց սեփականատերերի գիտության կամ համաձայնության:</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Խաբուսիկ կայք">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Տեղեկություն կա այն մասին, որ  <span id='phishing_sitename'/> կայքը կիրառվում է համակարգիչների վրա գրոհելու համար: Համաձայն ձեր անվտանգության կարգավորումների՝ այն արգելափակված է:">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Խաբուսիկ կայքերը նախագծված են դրդելու ձեզ կատարել վտանգավոր գործողություններ, ինչպես օրինակ տեղադրել ծրագրեր կամ ցուցադրել ձեր անձնական տեղեկությունները՝ գաղտնաբառեր, հեռախոսահամարներ կամ բանկային քարտեր:</p><p>Այս էջում ցանկացած տեղեկության մուտքագրումը կարող է հանգեցնել անձնական տվյալների կորստի կամ այլ վնասների:</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Անցանկալի ծրագրերի կայք">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
