@@ -2,10 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY time.midnight "Μεσάνυχτα" >
+<!ENTITY time.noon "Μεσημέρι" >
 
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
+<!ENTITY day.1.Ddd "Κυρ" >
+<!ENTITY day.1.Ddd.accesskey "Κ">
+<!ENTITY day.2.Ddd "Δευ" >
+<!ENTITY day.2.Ddd.accesskey "Δ">
+<!ENTITY day.3.Ddd "Τρί" >
+<!ENTITY day.4.Ddd "Τετ" >
+<!ENTITY day.5.Ddd "Πέμ" >
+<!ENTITY day.6.Ddd "Παρ" >
+<!ENTITY day.7.Ddd "Σάβ" >
+<!ENTITY day.7.Ddd.accesskey "Σ">
+
+<!ENTITY day.1.name "Κυριακή" >
+<!ENTITY day.2.name "Δευτέρα" >
+<!ENTITY day.3.name "Τρίτη" >
 
 
-
+<!ENTITY showselectedday.tooltip "Εμφάνιση συμβάντων για την επιλεγμένη ημέρα">
