@@ -114,7 +114,6 @@
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Personalizza la pagina iniziale">
 <!ENTITY pref_category_home_panels "Pannelli">
-<!ENTITY pref_category_home_content_settings "Impostazioni contenuti">
 <!ENTITY pref_category_home_add_ons "Componenti aggiuntivi">
 <!ENTITY pref_home_updates2 "Aggiorna contenuti">
 <!ENTITY pref_home_updates_enabled "Attivo">
