@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Marcar todas las pestañas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
-<!ENTITY recentBookmarks.label "Marcadores recientes">
 <!ENTITY unsortedBookmarksCmd.label "Marcadores sin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
