@@ -33,7 +33,8 @@
 <!ENTITY openFileCmd.accesskey        "V">
 
 
-
+<!ENTITY openRecentMenu.label         "Vula Okusandukubakho">
+<!ENTITY openRecentMenu.accesskey     "O">
 
 
 
