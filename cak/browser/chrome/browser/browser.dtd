@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "k">
 <!ENTITY shareVideo.label "Tikomonïx re jun silowachib'äl re'">
 <!ENTITY shareVideo.accesskey "k">
-
-
+<!ENTITY feedsMenu2.label "Tatz'ib'aj ab'i' pa re ruxaq re'">
+<!ENTITY subscribeToPageMenupopup.label "Tatz'ib'aj ab'i' pa re jun ruxaq re'">
 <!ENTITY subscribeToPageMenuitem.label "Tatz'ib'aj ab'i' pa re ruxaq wuj…">
 <!ENTITY addCurPagesCmd.label "Taya' ronojel ri taq ruwi'…">
 <!ENTITY showAllBookmarks2.label "Ruk'utik konojel ri taq samajib'äl">
@@ -257,7 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F2">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Rutzijik…">
 <!ENTITY devtoolsConnect.accesskey    "i">
@@ -409,18 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Tijaq ri to'onel MENU">
 
 <!ENTITY appMenuRemoteTabs.label "Ximon taq ruwi'">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Tajin yek'ulutäj ri ximon taq ruwi'…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Majun ruwi' ejaqon">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Tatzija' ri kiximoj taq ruwi' richin natz'ët kicholajem taq ruwi' pa ch'aqa' chik taq okisaxel.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Tatikirisaj molojri'ïl pa Firefox pa juley chik taq okisaxel richin ye'atz'ët taq ruwi' awichin wawe.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Kexim ri taq ajowanik">
 
 <!ENTITY appMenuRemoteTabs.signin.label "Tatikirisaj molojri'ïl pa Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Ketz'et ximïl taq ruwi' pa ajxikin kajtz'ik">
 
 <!ENTITY customizeMenu.addToToolbar.label "Titz'aqatisäx pa Molsamajib'äl">
 <!ENTITY customizeMenu.addToToolbar.accesskey "T">
@@ -527,8 +531,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "w">
 <!ENTITY openFrameCmd.label           "Rujaqik ri ruchi' pa jun k'ak'a' kajtz'ïk">
 <!ENTITY openFrameCmd.accesskey       "r">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Tijaq ximonel pa k'ak'a' ruwi' ajk'wayöl">
+<!ENTITY openLinkCmdInContainerTab.accesskey "a">
 <!ENTITY showOnlyThisFrameCmd.label     "Ruk'utik xa xe re ruchi' re'">
 <!ENTITY showOnlyThisFrameCmd.accesskey "r">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -776,7 +780,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Tetamäx ch'aqa' chik">
 
-
+<!ENTITY identity.removeCertException.label "Tiyuj el ri man ja ta jun">
+<!ENTITY identity.removeCertException.accesskey "T">
 
 <!ENTITY identity.moreInfoLinkText2 "Ch'aqa' chik etamab'äl">
 
@@ -790,17 +795,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Ximon taq ruwi'">
 
-
-
-
+<!ENTITY syncedTabs.sidebar.fetching.label     "Tajin yek'ulutäj ri ximon taq ruwi'…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Tatikirisaj molojri'ïl pa Firefox pa juley chik taq okisaxel richin ye'atz'ët taq ruwi' awichin wawe.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
 
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Tatzija' ri kiximoj taq ruwi' richin natz'ët kicholajem taq ruwi' pa ch'aqa' chik taq okisaxel.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Tijaq re ruwi' re'">
+<!ENTITY syncedTabs.context.openTab.accesskey               "T">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Titz'aqatisäx re ruxaq re' pa taq etal…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "T">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
