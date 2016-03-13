@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Էլ. փոստ">
-
+<!ENTITY fxaccount_password_hint "Գաղտնաբառ">
 <!ENTITY fxaccount_password_hide "Թաքցնել">
 <!ENTITY fxaccount_password_show "Ցուցադրել">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Փոփոխեք \&quot;Auto-sync data\&quot; ցուցիչը Անդրոիդ սարքի կարգավորումենրի &gt; Data Usage-ում:">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Փոփոխեք \&quot;Auto-sync data\&quot; ցուցիչը Անդրոիդ սարքի կարգավորումների &gt; Հաշիվներում:">
 <!ENTITY fxaccount_status_needs_finish_migrating "Հպվեք՝ Firefox-ի ձեր նոր հաշիվ մուտք գործելու համար:">
-
+<!ENTITY fxaccount_status_bookmarks "Էջանիշեր">
 <!ENTITY fxaccount_status_history "Պատմություն">
 <!ENTITY fxaccount_status_passwords2 "Մուտքագրումներ">
 <!ENTITY fxaccount_status_tabs "Բացած ներդիրներ">
