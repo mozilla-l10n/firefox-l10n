@@ -11,6 +11,9 @@
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ταξινόμηση κατά &#37; ολοκλήρωσης">
+<!ENTITY calendar.unifinder.tree.categories.label          "Κατηγορία">
+<!ENTITY calendar.unifinder.tree.location.label            "Τοποθεσία">
 
 
 
