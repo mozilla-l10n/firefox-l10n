@@ -21,6 +21,8 @@ fullZoomReduceCmd.commandkey2, fullZoomResetCmd.commandkey,
 and fullZoomResetCmd.commandkey2 should all match the corresponding
 values from browser.dtd.  -->
 
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "Kaqchikel">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
@@ -30,6 +32,7 @@ values from browser.dtd.  -->
 
 <!ENTITY toolboxReload.key             "r">
 <!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
+<!ENTITY toolboxToggleMinimize.key     "U">
 
 <!ENTITY toolboxToggle.key             "d">
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
