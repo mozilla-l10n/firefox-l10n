@@ -8,7 +8,7 @@
 <!ENTITY subject.plaintextWarning "Հիշեք. Նամակի բովանդակության տողերը չեն կոդավորվել:">
 <!ENTITY status.heading "Նամակի բովանդակությունը կուղարկվի որպես`">
 <!ENTITY status.signed "Թվային ստորագրմամբ.">
-<!ENTITY status.encrypted "Կոդավորված.">
+<!ENTITY status.encrypted "Գաղտնագրված.">
 <!ENTITY status.certificates "Հավաստագրերը.">
 <!ENTITY view.label "Տեսք">
 <!ENTITY view.accesskey "Տ">
