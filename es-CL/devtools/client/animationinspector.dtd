@@ -6,6 +6,5 @@
   - The Animations panel is part of the Inspector sidebar -->
 
 <!ENTITY animationInspectorTitle "Animaciones">
-<!ENTITY invalidElement        "No se encontraron animaciones para el elemento actual.">
 <!ENTITY selectElement         "Tome otro elemento de la página.">
 <!ENTITY allAnimations "Todas las animaciones">

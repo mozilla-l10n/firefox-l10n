@@ -143,7 +143,6 @@
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ver el mensaje de almacenamiento sin conexión de la app">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Administrar su información de conexión">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Revisar si desea guardar su contraseña">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Ver el mensaje de instalación de la app">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Administrar uso de complementos en esta página">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Modificar si puede recibir notificaciones del sitio o no">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administrar el compartir la cámara y/o micrófono con el sitio">
