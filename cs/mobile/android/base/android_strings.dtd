@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Při vyhledávání získáváte výsledky ze záložek a historie.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Méně přenesených dat, větší úspora">
-<!ENTITY firstrun_data_subtext "Blokováním obrázků přenesete méně dat na každé stránce, kterou navštívíte.">
+<!ENTITY firstrun_data_subtext2 "Vypnutím obrázků přenesete méně dat na každé stránce, kterou navštívíte.">
 <!ENTITY firstrun_sync_title "Synchronizace">
 <!ENTITY firstrun_sync_message "&brandShortName;, vždy na vaší straně">
 <!ENTITY firstrun_sync_subtext "Synchronizujte svoje záložky, hesla a další, všude, kde ho používáte.">
@@ -229,6 +229,8 @@
 <!ENTITY pref_tap_to_load_images_enabled "Vždy">
 <!ENTITY pref_tap_to_load_images_data "Pouze přes Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokováno">
+
+<!ENTITY pref_show_web_fonts "Zobrazit webové fonty">
 
 <!ENTITY pref_tracking_protection_title "Ochrana proti sledování">
 <!ENTITY pref_tracking_protection_summary3 "Povolena v režimu anonymního prohlížení">
@@ -469,8 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Prohlížení přes celou obrazovku">
 <!ENTITY pref_scroll_title_bar_summary2 "Při skrolování dolů skrýt lištu prohlížeče &brandShortName;">
 
-<!ENTITY pref_tab_queue_title2 "Otevření více odkazů">
-<!ENTITY pref_tab_queue_summary3 "Uložte je do příštího otevření aplikace &brandShortName;">
+<!ENTITY pref_tab_queue_title3 "Fronta karty">
+<!ENTITY pref_tab_queue_summary4 "Uložte si odkazy do příštího otevření aplikace &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -548,9 +550,9 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Pro tento panel nebyl nalezen žádný obsah.">
 
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_up_to_filter "Zpět na &formatS;">
+<!ENTITY home_move_back_to_filter "Zpět na &formatS;">
 
 <!ENTITY home_remote_tabs_title "Synchronizované panely">
 <!ENTITY home_remote_tabs_empty "Zde se zobrazují vaše panely z jiných zařízení.">
@@ -645,8 +647,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "Vyhledat &formatS2; na &formatS1;">
 
-<!ENTITY webapp_generic_name "Aplikace">
-
 <!ENTITY searchable_description "Záložky a historie">
 
  <!-- Updater notifications -->
@@ -715,11 +715,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Poslední synchronizace: nikdy">
 
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-<!ENTITY find_matchcase "Aa">
-
 <!ENTITY intent_uri_cannot_open "Odkaz nelze otevřít">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -776,5 +771,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Tato verze aplikace &brandShortName; nebude na tomto zařízení (&formatS1;, &formatS2;) fungovat. Stáhněte si prosím správnou verzi.">
 
-<!ENTITY eol_notification_title "&brandShortName; již nepodporuje Android 3">
+<!ENTITY eol_notification_title2 "&brandShortName; již nebude aktualizovaný">
 <!ENTITY eol_notification_summary "Pro další informace klepněte zde">
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; je aktuální">
+<!ENTITY whatsnew_notification_summary "Zjistěte, co je nového v této verzi">
