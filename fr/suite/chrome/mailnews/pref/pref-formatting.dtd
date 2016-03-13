@@ -13,7 +13,6 @@
 <!ENTITY sendHTML2.accesskey "E">
 <!ENTITY sendBoth2.label "Envoyer aux formats texte et HTML (taille plus importante)">
 <!ENTITY sendBoth2.accesskey "n">
-<!ENTITY override.label "Vous pouvez forcer ces paramètres lors de l’envoi de chaque message dans le menu Préférences de la fenêtre de composition.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title "Domaines HTML et texte simple">
