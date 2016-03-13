@@ -55,6 +55,6 @@ their language.
 <!ENTITY tabgroupsmigration.pagetitle2          "我们已经移除标签页组，但保留您的标签页">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "了解标签页组替换附加组件。">
 <!ENTITY tabgroupsmigration.description2        "&brandShortName; 已经将您的全部组加为书签，所以你不会丢失任何东西。">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "显示已加为书签的标签页组">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "显示已加入书签库的标签页组">
 <!ENTITY tabgroupsmigration.restoredescription  "你也可以现在选择将部分或全部背景组还原到窗口：">
 
