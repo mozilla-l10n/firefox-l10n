@@ -134,8 +134,6 @@
 <!ENTITY pref_home_updates_enabled "Włączone">
 <!ENTITY pref_home_updates_wifi "Tylko przez Wi-Fi">
 
-<!ENTITY pref_home_suggested_sites "Sugerowane witryny">
-<!ENTITY pref_home_suggested_sites_summary "Wyświetlanie na stronie domowej skrótów do interesujących witryn">
 <!ENTITY pref_category_home_homepage "Strona domowa">
 <!ENTITY home_homepage_title "Ustaw stronę domową">
 <!ENTITY home_homepage_radio_default "&brandShortName;: Strona domowa">
