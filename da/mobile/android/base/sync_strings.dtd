@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Forbind til &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Tilføj en &syncBrand.fullName.label;-konto'>
-<!ENTITY sync.title.pair.label 'Tilføj enhed'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'For at aktivere din nye enhed, vælg “Opsæt &syncBrand.shortName.label;” på enheden.'>
-<!ENTITY sync.subtitle.header2.label 'Indtast denne kode på din anden enhed'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Vælg “&sync.title.pair.label;” under &syncBrand.shortName.label; under din anden enheds Firefox-indstillinger.'>
 <!ENTITY sync.subtitle.pair.label 'For at aktivere, vælg “Tilføj enhed” på din anden enhed.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Vis mig hvordan.'>
-<!ENTITY sync.link.advancedsetup.label 'Avanceret opsætning…'>
 <!ENTITY sync.link.nodevice.label 'Jeg har ikke enheden med mig…'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Venter på den anden enhed…'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Indtast dine &syncBrand.fullName.label;-kontodetaljer'>
-<!ENTITY sync.input.username.label 'Kontonavn'>
-<!ENTITY sync.input.password.label 'Adgangskode'>
-<!ENTITY sync.input.key.label 'Gendannelsesnøgle'>
-<!ENTITY sync.checkbox.server.label 'Brug en anden server'>
-<!ENTITY sync.input.server.label 'Server URL'>
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Kan ikke sætte &syncBrand.shortName.label; op'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; kunne ikke forbinde til serveren. Vil du prøve igen?'>
-<!ENTITY sync.button.tryagain.label 'Prøv igen'>
-<!ENTITY sync.button.manual.label 'Manuel opsætning'>
-<!ENTITY sync.subtitle.nointernet.label 'Ingen internetforbindelse tilgængelig.'>
-<!ENTITY sync.subtitle.failaccount.label 'Oprettelse af konto på din enhed mislykkedes.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Har du mere end en Firefox installeret? I øjeblikket understøtter, &syncBrand.fullName.label; kun en Firefox-installation ad gangen. Afinstaller andre forekomster for at benytte &syncBrand.shortName.label;.'>
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Opsætning fuldført'>
-<!ENTITY sync.subtitle.success.label1 'Dine data hentes i baggrunden. Du kan gå til Indstillinger for at administrere din konto eller begynde at surfe med &brandShortName;.'>
-<!ENTITY sync.settings.label 'Indstillinger'>
-<!ENTITY sync.subtitle.manage.label1 'Din &syncBrand.fullName.label;-konto er allerede sat op. Gå til Indstillinger for at administrere din konto eller starte &brandShortName;.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Prøv igen.'>
-<!ENTITY sync.pair.connectlocation.label 'For at aktivere din nye enhed, vælg “Indstil &syncBrand.shortName.label;” på enheden, og vælg så “Jeg har allerede en konto.”'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Indstillinger'>
-<!ENTITY sync.summary.pair.label 'Kobl en anden enhed til din &syncBrand.shortName.label;-konto'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Skal synkroniseres'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Synkroniser dine…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Bogmærker'>
 <!ENTITY sync.configure.engines.title.passwords2 'Logins'>
 <!ENTITY sync.configure.engines.title.history 'Historik'>
 <!ENTITY sync.configure.engines.title.tabs 'Faneblade'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Annuller'>
-<!ENTITY sync.button.connect.label 'Forbind'>
-<!ENTITY sync.button.ok.label 'OK'>
-
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (forældet)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -93,20 +40,7 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Fastgjort'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Kun én &syncBrand.fullName.label;-konto er understøttet.'>
-<!ENTITY sync.notification.configure.saved 'Dine valg er blevet gemt.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Forkert kontonavn eller adgangskode.'>
-<!ENTITY sync.invalidserver.label 'Indtast venligst en gyldig server URL'>
-<!ENTITY sync.verifying.label 'Bekræfter…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Forkert gendannelsesnøgle. Prøv igen.'>
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Send faneblad til enheder'>
-<!ENTITY sync.button.send.label 'Send'>
-<!ENTITY sync.button.set.up.sync.label 'Indstil &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Indstil &syncBrand.shortName.label; til at sende faneblade'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Indstil &syncBrand.fullName.label; på din enhed til at sende faneblade til andre enheder.'>
 <!ENTITY sync.text.tab.sent.label 'Dit faneblad blev sendt!'>
