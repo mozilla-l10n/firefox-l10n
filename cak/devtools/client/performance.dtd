@@ -27,6 +27,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Yerutzïj ri taq k'ïy ruxenab'al Firefox pa taq ajowab'äl richin yeruk'üt pe ri taq tzij xetz'ib'äx pa ri ramaj.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 
@@ -111,6 +113,8 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
 
+<!ENTITY performanceUI.showJITOptimizations             "Kek'ut pe ri JIT taq utzilanïk">
+
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
@@ -128,7 +132,7 @@
   -  measurements are enabled. -->
 
 <!ENTITY performanceUI.enableAllocations             "Tz'ib'axïk taq Jachoj">
-
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Keyak taq ruk'ojlib'al wachinäq toq nib'an ruwäch b'i'aj.">
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
