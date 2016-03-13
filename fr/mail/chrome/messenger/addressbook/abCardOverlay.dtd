@@ -98,7 +98,7 @@
 <!ENTITY WorkCity.accesskey             "L">
 <!ENTITY WorkState.label                "État/Prov. :">
 <!ENTITY WorkState.accesskey            "v">
-<!ENTITY WorkZipCode.label              "Code Postal :">
+<!ENTITY WorkZipCode.label              "Code postal :">
 <!ENTITY WorkZipCode.accesskey          "t">
 <!ENTITY WorkCountry.label              "Pays :">
 <!ENTITY WorkCountry.accesskey          "s">
