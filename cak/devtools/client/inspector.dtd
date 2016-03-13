@@ -103,6 +103,8 @@
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
 
+<!ENTITY inspectorRemoveAttribute.label        "Tiyuj el ri b'anikil">
+<!ENTITY inspectorRemoveAttribute.accesskey    "T">
 
 <!ENTITY inspector.selectButton.tooltip     "Ticha' ch'akulal rik'in ri ch'oy">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
