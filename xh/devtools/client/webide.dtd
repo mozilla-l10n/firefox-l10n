@@ -11,7 +11,7 @@
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
 
 
-
+<!ENTITY projectMenu_selectApp_label "Vula I-App…">
 
 
 
@@ -183,6 +183,6 @@
 <!ENTITY simulator_device "Isixhobo">
 <!ENTITY simulator_screenSize "Isikrini">
 
-
+<!ENTITY simulator_tv_data "Isivuseleli Sethivi">
 
 
