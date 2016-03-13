@@ -129,6 +129,8 @@
      shown in the inspector contextual-menu for the item that outputs a
      variable for the current node to the console. When triggered,
      this item opens the split Console. -->
+
+<!ENTITY inspectorUseInConsole.label       "Tokisäx pa temeb'äl">
 <!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
      shown in the inspector contextual-menu for recursively expanding
      mark-up elements -->
@@ -147,3 +149,5 @@
 <!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users
      duplicate the currently selected node. -->
+
+<!ENTITY inspectorDuplicateNode.label       "Tikamulüx wiqoj">
