@@ -11,6 +11,10 @@
    - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (csscoverage.backButton):
   -  Text on the button to go back to the main style editor -->
+
+
+
+<!ENTITY csscoverage.backButton "Chi rij">
 <!-- LOCALIZATION NOTE (csscoverage.unused, csscoverage.noMatches):
   -  This is the heading and body text for the CSS usage part of the report -->
 
@@ -34,6 +38,8 @@
   -  csscoverage.footer3, csscoverage.footer4): The text displayed at the
   -  bottom of the page, with 2a being the URL opened when the link text in 3
   -  is clicked -->
+
+<!ENTITY csscoverage.footer1 "Titz'et">
 <!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
 
 <!ENTITY csscoverage.footer4 "richin nawetamaj kiwäch ri rutzijol taq k'ayewal chi rub'anik re rutzijol samaj re'.">
