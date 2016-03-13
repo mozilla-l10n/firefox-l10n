@@ -119,7 +119,7 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableWorkers.label    "Titzij ri ruchojmirisaxik samajel (chub'anik)">
-
+<!ENTITY options.enableWorkers.tooltip  "Toq xtitzij re cha'oj re', xtuya' q'ij chi ri taq kisamajib'al b'anïk kichin kisamajela' chojmirisanïk">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
