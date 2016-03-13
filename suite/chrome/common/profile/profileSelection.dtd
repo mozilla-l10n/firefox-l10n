@@ -20,3 +20,16 @@
 
 <!ENTITY autoSelect.label         "Utiliser par défaut le profil sélectionné">
 <!ENTITY autoSelect.accesskey     "U">
+
+<!ENTITY            start.label              "Lancer &brandShortName;">
+<!ENTITY            exit.label               "Quitter">
+
+<!ENTITY            newButton.label          "Créer un profil…">
+<!ENTITY            newButton.accesskey      "C">
+<!ENTITY            renameButton.label       "Renommer un profil…">
+<!ENTITY            renameButton.accesskey   "R">
+<!ENTITY            deleteButton.label       "Supprimer un profil…">
+<!ENTITY            deleteButton.accesskey   "S">
+
+<!ENTITY            offlineState.label       "Travailler hors connexion">
+<!ENTITY            offlineState.accesskey   "T">

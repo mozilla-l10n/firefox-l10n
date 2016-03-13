@@ -32,11 +32,6 @@
 <!ENTITY acceptforNDays.accesskey "r">
 <!ENTITY days.label "jours">
 
-<!ENTITY warnAboutCookies.label "Demander pour chaque cookie">
-<!ENTITY warnAboutCookies.accesskey "D">
-<!ENTITY forCurrentSession.label "à l'exception des cookies de session">
-<!ENTITY forCurrentSession.accesskey "x">
-
 <!ENTITY manageCookies.label "Gestion des cookies et des sites">
 <!ENTITY manageCookiesDescription.label "Vous permet de visualiser et gérer les cookies enregistrés et les paramètres site par site d'acceptation et de rejet des cookies. Les paramètres de site supplanteront les paramètres ci-dessus.">
 
