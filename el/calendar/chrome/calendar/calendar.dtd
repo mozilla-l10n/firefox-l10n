@@ -5,15 +5,30 @@
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Ημερολόγιο">
 
+<!ENTITY calendar.newevent.button.tooltip         "Δημιουργία νέου συμβάντος" >
+<!ENTITY calendar.newtask.button.tooltip          "Δημιουργία νέας εργασίας" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Εργασίες" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Εμφάνιση ολοκληρωμένων εργασιών">
 
 
+<!ENTITY calendar.events.filter.all.label "Όλα τα συμβάντα">
+<!ENTITY calendar.events.filter.today.label "Σημερινά συμβάντα">
+<!ENTITY calendar.events.filter.future.label "Όλα τα μελλοντικά συμβάντα">
+<!ENTITY calendar.events.filter.currentview.label "Συμβάντα στην τρέχουσα προβολή">
+<!ENTITY calendar.events.filter.next7Days.label "Συμβάντα στις επόμενες 7 ημέρες">
+<!ENTITY calendar.events.filter.next14Days.label "Συμβάντα στις επόμενες 14 ημέρες">
+<!ENTITY calendar.events.filter.next31Days.label "Συμβάντα στις επόμενες 31 ημέρες">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Συμβάντα σε αυτόν τον ημερολογιακό μήνα">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
+<!ENTITY calendar.unifinder.tree.done.label                "Έγινε">
+<!ENTITY calendar.unifinder.tree.priority.label            "Προτεραιότητα">
+<!ENTITY calendar.unifinder.tree.title.label               "Τίτλος">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ταξινόμηση κατά &#37; ολοκλήρωσης">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ταξινόμηση κατά ημερομηνία έναρξης">
 <!ENTITY calendar.unifinder.tree.categories.label          "Κατηγορία">
 <!ENTITY calendar.unifinder.tree.location.label            "Τοποθεσία">
 
@@ -24,6 +39,7 @@
 
 
 
+<!ENTITY calendar.search.options.searchfor " που περιέχουν">
 
 
 
@@ -37,14 +53,38 @@
 
 
 <!-- Context Menu -->
+<!ENTITY calendar.context.modifyorviewitem.label      "Άνοιγμα">
+<!ENTITY calendar.context.modifyorviewtask.label      "Άνοιγμα εργασίας…">
+<!ENTITY calendar.context.newevent.label              "Νέο συμβάν…">
+<!ENTITY calendar.context.newtodo.label               "Νέα εργασία…">
+<!ENTITY calendar.context.deletetask.label            "Διαγραφή εργασίας">
+<!ENTITY calendar.context.deleteevent.label           "Διαγραφή συμβάντος">
+<!ENTITY calendar.context.cutevent.label              "Αποκοπή">
+<!ENTITY calendar.context.cutevent.accesskey          "κ">
+<!ENTITY calendar.context.copyevent.label             "Αντιγραφή">
+<!ENTITY calendar.context.copyevent.accesskey         "γ">
+<!ENTITY calendar.context.pasteevent.label            "Επικόλληση">
+<!ENTITY calendar.context.pasteevent.accesskey        "λ">
 
 <!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "Πρόοδος">
+<!ENTITY calendar.context.priority.label              "Προτεραιότητα">
+<!ENTITY calendar.context.postpone.label              "Αναβολή εργασίας">
 
 <!--=percent sign-->
 
 
 
+<!ENTITY priority.level.low                 "Χαμηλή">
+<!ENTITY priority.level.low.accesskey       "Χ">
+<!ENTITY priority.level.normal              "Κανονική">
+<!ENTITY priority.level.normal.accesskey    "Κ">
+<!ENTITY priority.level.high                "Υψηλή">
+<!ENTITY priority.level.high.accesskey      "Υ">
 
+<!ENTITY calendar.context.postpone.1day.label       "1 ημέρα">
+<!ENTITY calendar.context.postpone.1day.accesskey   "η">
+<!ENTITY calendar.context.postpone.1week.label      "1 εβδομάδα">
 
 <!ENTITY calendar.copylink.label       "Αντιγραφή τοποθεσίας συνδέσμου">
 
@@ -54,13 +94,22 @@
 <!ENTITY calendar.taskview.delete.label     "Διαγραφή">
 
 <!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "Νέο ημερολόγιο…">
+<!ENTITY calendar.context.newserver.accesskey          "Ν">
+<!ENTITY calendar.context.findcalendar.label           "Εύρεση ημερολογίου…" >
+<!ENTITY calendar.context.deleteserver2.label          "Διαγραφή ημερολογίου…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "Δ">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
+<!ENTITY calendar.context.synccalendars.label          "Συγχρονισμός ημερολογίων">
+<!ENTITY calendar.context.synccalendars.accesskey      "Σ">
+<!ENTITY calendar.context.publish.accesskey            "η">
 <!ENTITY calendar.context.export.label                 "Εξαγωγή ημερολογίου…">
 <!ENTITY calendar.context.properties.label             "Ιδιότητες">
+<!ENTITY calendar.context.properties.accesskey         "Ι">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
@@ -103,9 +152,18 @@
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.title.label "Τίτλος:">
 <!ENTITY calendar.print.tasks.label "Εργασίες">
+<!ENTITY calendar.print.settingsGroup.label "Ρυθμίσεις εκτύπωσης">
+<!ENTITY calendar.print.optionsGroup.label "Επιλογές">
+<!ENTITY calendar.print.completedtasks.label "Ολοκληρωμένες εργασίες">
 
 <!-- Error reporting -->
+<!ENTITY calendar.error.detail "Λεπτομέρειες…">
+<!ENTITY calendar.error.code "Κωδικός σφάλματος:">
+<!ENTITY calendar.error.description "Περιγραφή:">
+<!ENTITY calendar.error.title "Παρουσιάστηκε σφάλμα">
 
 <!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Προσθήκη ως συμβάν">
+<!ENTITY calendar.extract.task.button          "Προσθήκη ως εργασία">
 <!ENTITY calendar.extract.event.button.tooltip "Εξαγωγή ημερολογιακών πληροφοριών από το μήνυμα και προσθήκη τους στο ημερολόγιό σας ως συμβάν">
 <!ENTITY calendar.extract.task.button.tooltip  "Εξαγωγή ημερολογιακών πληροφοριών από το μήνυμα και προσθήκη τους στο ημερολόγιό σας ως εργασία">
