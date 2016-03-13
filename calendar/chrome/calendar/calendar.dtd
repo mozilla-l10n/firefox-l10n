@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- General -->
+<!ENTITY calendar.calendar.label     "Ημερολόγιο">
 
 
+<!ENTITY calendar.unifinder.todoitems.label       "Εργασίες" >
 
 
 
@@ -44,10 +46,12 @@
 
 
 
+<!ENTITY calendar.copylink.label       "Αντιγραφή τοποθεσίας συνδέσμου">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Διαγραφή">
 
 <!-- Server Context Menu -->
 
@@ -55,6 +59,8 @@
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
+<!ENTITY calendar.context.export.label                 "Εξαγωγή ημερολογίου…">
+<!ENTITY calendar.context.properties.label             "Ιδιότητες">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
@@ -64,6 +70,7 @@
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showall.label                "Εμφάνιση όλων των ημερολογίων">
 
 
 
@@ -82,14 +89,23 @@
 <!-- Calendar Server Dialog -->
 
 <!-- Calendar Properties -->
+<!ENTITY calendarproperties.location.label                 "Τοποθεσία:">
+<!ENTITY calendarproperties.name.label                     "Όνομα:">
+<!ENTITY calendarproperties.readonly.label                 "Μόνο για ανάγνωση">
+<!ENTITY calendarproperties.forceDisabled.label            "Ο πάροχος για αυτό το ημερολόγιο δεν ήταν δυνατόν να βρεθεί. Αυτό συχνά συμβαίνει αν έχετε απενεργοποιήσει ή απεγκαταστήσει κάποια πρόσθετα.">
 
 <!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.close.button      "Κλείσιμο">
 
 
 <!-- Select Calendar Dialog -->
 
 <!-- Calendar Printing -->
+<!ENTITY calendar.print.title.label "Τίτλος:">
+<!ENTITY calendar.print.tasks.label "Εργασίες">
 
 <!-- Error reporting -->
 
 <!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button.tooltip "Εξαγωγή ημερολογιακών πληροφοριών από το μήνυμα και προσθήκη τους στο ημερολόγιό σας ως συμβάν">
+<!ENTITY calendar.extract.task.button.tooltip  "Εξαγωγή ημερολογιακών πληροφοριών από το μήνυμα και προσθήκη τους στο ημερολόγιό σας ως εργασία">
