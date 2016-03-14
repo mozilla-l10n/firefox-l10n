@@ -17,11 +17,11 @@
 <!ENTITY firstrun_bookmarks_subtext "اجلب النتائج من العلامات و التّأريخ عندما تبحث.">
 <!ENTITY firstrun_data_title "البيانات">
 <!ENTITY firstrun_data_message "بيانات أقل، توفير أكبر">
-
+<!ENTITY firstrun_data_subtext2 "عطّل الصور لتوفير البيانات في كل موقع تزوره.">
 <!ENTITY firstrun_sync_title "تزامُن">
 <!ENTITY firstrun_sync_message "&brandShortName;، معك دائما">
 <!ENTITY firstrun_sync_subtext "زامن ألسنتك، و كلمات السر و غيرهم المزيد أينما استخدمتها.">
-
+<!ENTITY firstrun_signin_message "اتصل لتبدأ">
 <!ENTITY firstrun_signin_button "لِج إلى «المزامنة»">
 <!ENTITY  onboard_start_button_browser "ابدأ التصفح">
 <!ENTITY firstrun_button_next "التالي">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "عبر واي فاي فقط">
 <!ENTITY pref_tap_to_load_images_disabled2 "امنعها">
 
+<!ENTITY pref_show_web_fonts "أظهر خطوط الوب">
 
 <!ENTITY pref_tracking_protection_title "الحماية من التعقّب">
 <!ENTITY pref_tracking_protection_summary3 "مفعّل في التصفح الخاص">
@@ -252,6 +253,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "يمكنك تغيير هذا من الإعدادات لاحقًا">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "اسمح بالرسم على التطبيقات الأخرى">
 <!ENTITY tab_queue_prompt_positive_action_button "فعّل">
 <!ENTITY tab_queue_prompt_negative_action_button "ليس الآن">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -467,7 +469,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "التصفح في كل الشاشة">
 <!ENTITY pref_scroll_title_bar_summary2 "أخفِ شريط أدوات &brandShortName; عند تمرير الصفحة لأسفل">
 
-
+<!ENTITY pref_tab_queue_summary4 "احفظ الروابط حتّى أفتح &brandShortName; ثانية">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->

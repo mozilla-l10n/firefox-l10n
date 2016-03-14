@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>تحاول صفحات الهجوم تثبيت برامج على جهازك تسرق المعلومات الحساسة، أو تستخدم جهازك لمهاجمة الآخرين، أو تخرب نظامك.</p><p>بعض صفحات الهجوم تقدم البرامج الخبيثة عمدًا، ولكن معظمها يفعل ذلك دون علم أو إذن من أصحابها الأصليين لأنها تكون مخترقة.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "أُبلغ عن صفحة الوب في <span id='phishing_sitename'/> أنها موقع مخادع، و قد حُظرت بناءً على تفضيلات متصفحك الأمنية.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "موقع غير مرغوب فيه مبلّغ عنه!">
