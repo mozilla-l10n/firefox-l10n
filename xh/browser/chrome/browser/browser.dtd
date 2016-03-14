@@ -163,7 +163,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "b">
 <!ENTITY shareVideo.label "Yabelana Ngale Vidiyo">
 <!ENTITY shareVideo.accesskey "b">
-
+<!ENTITY feedsMenu2.label "Rhumela Kweli Phepha">
 
 <!ENTITY subscribeToPageMenuitem.label "Rhuma Kweli Phepha…">
 <!ENTITY addCurPagesCmd.label "Faka ibhukhmakhi kuzo zonke iithebhu…">
@@ -422,7 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.label "Sayina ungene kwi-Firefox ngokusuka kwezinye izixhobo zakho ukuze uonge iithebhu zazo apha.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ngqamanisa iiPreferensi">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sayina ungene ukuze uNgqamanise">
 
 
@@ -794,18 +794,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Iithebhu Ezingqamanisiweyo">
 
+<!ENTITY syncedTabs.sidebar.label              "Iithebhu Ezingqamanisiweyo">
 <!ENTITY syncedTabs.sidebar.fetching.label     "Ilanda Iithebhu Ezingqamanisiweyo…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Sayina ungene kwi-Firefox ngokusuka kwezinye izixhobo zakho ukuze uonge iithebhu zazo apha.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
-
-
+<!ENTITY syncedTabs.sidebar.notabs.label       "Azikho iithebhu ezivuliweyo">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Vula i-&syncBrand.shortName.label; iiPriferensi">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Layita ungqamaniso lwethebhu ukuze ujonge uludwe lweethebhu kwezinye izixhobo zakho.">
 
 
-
-
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Faka Ibhukhmakhi Kweli Khasi…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "F">
 
 
 <!ENTITY syncBrand.shortName.label    "Ungqamaniso">
