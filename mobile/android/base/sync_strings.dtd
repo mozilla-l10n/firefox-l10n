@@ -48,7 +48,7 @@
 <!-- Firefox Account strings. -->
 
 
-<!ENTITY fxaccount_full_label "Akun Firefox">
+<!ENTITY fxaccount_full_label "Firefox Account">
 
 <!ENTITY fxaccount_custom_server_account_title "Menggunakan akun pada server">
 <!ENTITY fxaccount_custom_server_sync_title "Menyimpan data Sync pada server">
