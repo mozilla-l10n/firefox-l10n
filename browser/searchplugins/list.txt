@@ -1,9 +1,8 @@
-google
-azet-sk
 atlas-sk
+azet-sk
 dunaj-sk
 eBay
+google
 slovnik-sk
-zoznam-sk
 wikipedia-sk
-
+zoznam-sk
