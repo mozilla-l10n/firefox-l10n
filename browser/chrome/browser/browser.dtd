@@ -414,6 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Layita ungqamaniso lwethebhu ukuze ujonge uludwe lweethebhu kwezinye izixhobo zakho.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
@@ -791,7 +792,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Iithebhu Ezingqamanisiweyo">
 
 
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Sayina ungene kwi-Firefox ngokusuka kwezinye izixhobo zakho ukuze uonge iithebhu zazo apha.">
 
 
 
