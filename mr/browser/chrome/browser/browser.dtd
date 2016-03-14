@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "श">
 <!ENTITY shareVideo.label "हा व्हिडीओ शेअर करा">
 <!ENTITY shareVideo.accesskey "श">
-
-
+<!ENTITY feedsMenu2.label "ह्या पानाचे सभासद व्हा">
+<!ENTITY subscribeToPageMenupopup.label "ह्या पानाचे सभासद व्हा">
 <!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या...">
 <!ENTITY addCurPagesCmd.label "सर्व टॅब्सला ओळखचिन्ह लावा...">
 <!ENTITY showAllBookmarks2.label "सर्व वाचणखुणा दाखवा">
