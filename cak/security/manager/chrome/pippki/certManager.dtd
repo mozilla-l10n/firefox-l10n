@@ -29,7 +29,7 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 Retal ruwi' q'ab'aj">
 
 
-
+<!ENTITY certmgr.editcert.edittrust           "Kenuk' taq kuqub'äl taq nuk'ulem:">
 
 
 <!ENTITY certmgr.editcert.trustobjsign        "Re ruwujil b'i'aj re' nitikïr yerutz'ët taq ajb'anöy kema'.">
@@ -79,6 +79,6 @@
 
 
 <!ENTITY exceptionMgr.certstatus.viewCert     "Tiz'et…">
-
+<!ENTITY exceptionMgr.certstatus.accesskey    "W">
 
 

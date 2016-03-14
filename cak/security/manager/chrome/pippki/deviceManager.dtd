@@ -20,7 +20,7 @@
 <!ENTITY devmgr.button.unload.accesskey         "T">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-
+<!ENTITY loaddevice.modname                     "Rub'i' juperaj:">
 
 <!ENTITY loaddevice.modname.default             "K'ak'a' PKCS#11 Juperaj">
 

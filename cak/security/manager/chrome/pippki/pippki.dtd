@@ -19,7 +19,7 @@
 
 
 <!ENTITY downloadCert.trustObjSign "Takuqub'a' ak'u'x rik'in ri CA richin ye'atz'ët taq ajb'anöy kema'.">
-
+<!ENTITY downloadCert.message3 "Chuwäch nakuqub'a' ak'u'x chi rij re CA re' richin xab'achike na rayb'äl, k'o chin tinik'öx ri ruwujil rub'i', runa'ojil chuqa' taq rub'eyal CA (we e wachel).">
 
 <!ENTITY downloadCert.viewCert.text "Tinik'öx ruwujil rub'i' CA">
 <!-- Strings for the SSL client auth ask dialog -->
