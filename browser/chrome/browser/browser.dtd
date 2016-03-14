@@ -164,7 +164,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideo.label "Yabelana Ngale Vidiyo">
 <!ENTITY shareVideo.accesskey "b">
 <!ENTITY feedsMenu2.label "Rhumela Kweli Phepha">
-
+<!ENTITY subscribeToPageMenupopup.label "Rhuma Kweli Phepha">
 <!ENTITY subscribeToPageMenuitem.label "Rhuma Kweli Phepha…">
 <!ENTITY addCurPagesCmd.label "Faka ibhukhmakhi kuzo zonke iithebhu…">
 <!ENTITY showAllBookmarks2.label "Bonisa zonke iibhukhmakhi">
@@ -410,7 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Vula iMenyu yoNcedo">
 
 <!ENTITY appMenuRemoteTabs.label "Iithebhu Ezingqamanisiweyo">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Ilanda Iithebhu Ezingqamanisiweyo…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Azikho iithebhu ezivuliweyo">
@@ -424,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ngqamanisa iiPreferensi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sayina ungene ukuze uNgqamanise">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Jonga Iithebhu Ezingqamanisiweyo Zebha Esecaleni">
 
 <!ENTITY customizeMenu.addToToolbar.label "Yongeza kwiThulbha">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Y">
@@ -780,7 +780,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "K">
 <!ENTITY identity.learnMore "Funda Ngakumbi">
 
-
+<!ENTITY identity.removeCertException.label "Susa Ezikhethekileyo">
+<!ENTITY identity.removeCertException.accesskey "S">
 
 <!ENTITY identity.moreInfoLinkText2 "Inkcazelo engaphezulu">
 
@@ -804,7 +805,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Layita ungqamaniso lwethebhu ukuze ujonge uludwe lweethebhu kwezinye izixhobo zakho.">
 
-
+<!ENTITY syncedTabs.context.openTab.label                   "Vula Le Thebhu">
+<!ENTITY syncedTabs.context.openTab.accesskey               "V">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Faka Ibhukhmakhi Kweli Khasi…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "F">
 
