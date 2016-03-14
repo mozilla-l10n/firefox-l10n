@@ -785,7 +785,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Mais informações">
 
 <!ENTITY identity.permissions "Permissões">
-<!ENTITY identity.permissionsEmpty "Você não tem quaisquer permissões especiais neste site.">
+<!ENTITY identity.permissionsEmpty "Você não concedeu permissões especiais a este site.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
