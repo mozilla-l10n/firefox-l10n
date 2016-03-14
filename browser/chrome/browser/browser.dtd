@@ -531,8 +531,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "v">
 <!ENTITY openFrameCmd.label           "Çerçeveyi yeni pencerede aç">
 <!ENTITY openFrameCmd.accesskey       "e">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Bağlantıyı yeni kapsayıcı sekmede aç">
+<!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Sadece bu çerçeveyi göster">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -804,9 +804,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Diğer cihazlarınızdaki sekmelerin listesini görmek için sekme eşitlemeyi açın.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Bu sekmeyi aç">
+<!ENTITY syncedTabs.context.openTab.accesskey               "B">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Sekmeyi yer imlerine ekle…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "S">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
