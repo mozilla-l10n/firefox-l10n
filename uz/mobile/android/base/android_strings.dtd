@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "&brandShortName;’ni ishga tushirish uchun bo‘sh joy yetarli emas.">
+<!ENTITY  no_space_to_start_error "&brandShortName;ni ishga tushirish uchun bo‘sh joy yetarli emas.">
 <!ENTITY  error_loading_file "&brandShortName;ni ishga tushirish uchun kerakli fayllar yuklanayotganda xato yuz berdi.">
 
-<!ENTITY firstrun_panel_title_welcome "Marhamat">
-<!ENTITY  onboard_start_message3 "&brandShortName; bilan ko‘rish">
+<!ENTITY firstrun_panel_title_welcome "Xush kelibsiz">
+<!ENTITY  onboard_start_message3 "&brandShortName; orqali ko‘rish">
 <!ENTITY  onboard_start_subtext3 "Mobil telefon brauzeri orqali tajriba orttiring.">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName;ga xush kelibsiz!">
@@ -16,7 +16,7 @@
 <!ENTITY firstrun_bookmarks_message "Sevimli o‘yinlaringiz oldinda va markazda">
 <!ENTITY firstrun_bookmarks_subtext "Qidirayotganingizda xatcho‘plar va tarixdan natijalarni olishingiz mumkin.">
 <!ENTITY firstrun_data_title "Ma’lumot">
-<!ENTITY firstrun_data_message "Kamroq ma’lumotlar, ko‘proq saqlash">
+<!ENTITY firstrun_data_message "Kam traffik sarflab, ko‘proq saqlash">
 <!ENTITY firstrun_data_subtext2 "Saytlarga kirganda trafikni tejash uchun rasmlarni bloklashingiz mumkin.">
 <!ENTITY firstrun_sync_title "Sinxronlash">
 <!ENTITY firstrun_sync_message "&brandShortName;, doimo siz tomonda">
