@@ -37,7 +37,7 @@
 
 
 <!-- Strings for the CreateCertInfo dialog  -->
-
+<!ENTITY createCertInfo.msg1 "Rutz'ukik ewan tzij nitajin… Re re' xtuk'waj ka'i' oxi ch'utiramaj….">
 <!ENTITY createCertInfo.msg2 "Tawoyob'ej…">
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.msg "Taya' atzijol chuwa ri token. Ri rub'eyal naya' atzijol xtroqaj ri ruwäch.">
