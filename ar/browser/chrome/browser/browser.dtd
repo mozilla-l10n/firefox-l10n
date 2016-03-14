@@ -420,7 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "تفضيلات المزامنة">
 
 <!ENTITY appMenuRemoteTabs.signin.label "لِج إلى «المزامنة»">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "اظهر شريط الألسنة المزامَنة الجانبي">
 
 <!ENTITY customizeMenu.addToToolbar.label "أضف إلى شريط الأدوات">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ض">
