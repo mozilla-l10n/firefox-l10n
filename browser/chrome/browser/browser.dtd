@@ -420,7 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "تفضيلات المزامنة">
 
 <!ENTITY appMenuRemoteTabs.signin.label "لِج إلى «المزامنة»">
-<!ENTITY appMenuRemoteTabs.sidebar.label "اظهر شريط الألسنة المزامَنة الجانبي">
+<!ENTITY appMenuRemoteTabs.sidebar.label "أظهر شريط الألسنة المزامَنة الجانبي">
 
 <!ENTITY customizeMenu.addToToolbar.label "أضف إلى شريط الأدوات">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ض">
@@ -527,8 +527,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ل">
 <!ENTITY openFrameCmd.label           "افتح الإطار في نافذةٍ جديدة">
 <!ENTITY openFrameCmd.accesskey       "ف">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "افتح الرابط في لسان حاوِ جديد">
+<!ENTITY openLinkCmdInContainerTab.accesskey "ح">
 <!ENTITY showOnlyThisFrameCmd.label     "أظهر هذا الإطار فقط">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ظ">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -776,7 +776,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "ع">
 <!ENTITY identity.learnMore "اطّلع على المزيد">
 
-
+<!ENTITY identity.removeCertException.label "أزِل الاستثناء">
+<!ENTITY identity.removeCertException.accesskey "س">
 
 <!ENTITY identity.moreInfoLinkText2 "المزيد من المعلومات">
 
@@ -798,7 +799,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-
+<!ENTITY syncedTabs.context.openTab.label                   "افتح هذا اللسان">
+<!ENTITY syncedTabs.context.openTab.accesskey               "ف">
 
 
 
