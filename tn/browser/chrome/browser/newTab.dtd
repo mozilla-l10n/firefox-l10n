@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Tab e Ntšhwa">
-
+<!ENTITY newtab.customize.classic "Bontsha di saete tsa gago tse dikgolo. ">
 <!ENTITY newtab.customize.cog.enhanced "Tsenya gare disaete tse tshitshintsweng">
 <!ENTITY newtab.customize.cog.title2 "THEBE E NTŠHA YA DITAOLO">
 
