@@ -791,7 +791,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Dithebe tsa Sebatli">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
-
+<!ENTITY syncedTabs.sidebar.fetching.label     "Tseyo ya Dithebe tse di Rulagantsweng ka tsamaiso...">
 
 
 

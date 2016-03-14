@@ -32,6 +32,7 @@
 
 <!ENTITY netOffline.longDesc2 "<p> Sebatli se dira ka mokgwa o sa golaganang mme ga se kake sa golagana le selwana se se kopilweng.</p><ul><li>A khomputara e golaganye le mafaratlhatlha a dirisiwang?</li><li>Tobetsa &quot;Leka Gape&quot; go fetolela mo mokgwa kgolaganong ka mafaratlhatlha a bo o tsenya sešwa tsebe.</li></ul>">
 
+<!ENTITY contentEncodingError.title "Phoso ya Khoutufatso Diteng">
 <!ENTITY contentEncodingError.longDesc "<p>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</p><ul><li>Tswêê-tswêê itshwaraganye le beng ba setsha se sa webo go ba itsise ka bothata jo.</li></ul> ">
 
 <!ENTITY unsafeContentType.title "Mofuta wa Faele o sa Babalesegang">
