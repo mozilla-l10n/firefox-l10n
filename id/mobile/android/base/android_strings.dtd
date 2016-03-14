@@ -42,7 +42,7 @@
 <!ENTITY  crash_send_report_message3 "Laporkan kepada &vendorShortName; tentang kerusakan ini supaya dapat diperbaiki">
 <!ENTITY  crash_include_url2 "Sertakan alamat laman web yang terakhir ditampilkan">
 <!ENTITY  crash_sorry "Kami Mohon Maaf">
-<!ENTITY  crash_comment "Tambahkan komentar. Catatan: Komentar dapat dilihat publik">
+<!ENTITY  crash_comment "Tambahkan komentar (ditampilkan secara publik)">
 <!ENTITY  crash_allow_contact2 "Izinkan &vendorShortName; untuk menghubungi saya tentang laporan ini">
 <!ENTITY  crash_email "Surel Anda">
 <!ENTITY  crash_closing_alert "Keluar tanpa mengirim laporan kerusakan?">
