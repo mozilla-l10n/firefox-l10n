@@ -5,8 +5,6 @@
 <!ENTITY loadError.label "Błąd wczytywania strony" >
 <!ENTITY retry.label "Spróbuj ponownie" >
 
-<!-- Specific error messages -->
-
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
 <!ENTITY connectionFailure.longDesc "<p>Pomimo że adres witryny wydaje się prawidłowy, przeglądarka nie była w stanie nawiązać połączenia.</p><ul><li>Witryna jest tymczasowo niedostępna? Jeśli tak, należy spróbować ponownie później.</li><li>Nie można przeglądać również innych witryn? Jeśli tak, należy sprawdzić, czy połączenie z siecią funkcjonuje prawidłowo.</li><li>Czy ten komputer lub sieć są chronione przez serwer proxy albo zaporę sieciową? Ich nieprawidłowa konfiguracja może powodować problemy z przeglądaniem witryn internetowych.</li></ul>">
 
@@ -34,10 +32,10 @@
 <!ENTITY netOffline.longDesc2 "<p>Przeglądarka pracuje w trybie offline i nie może pobrać żądanego elementu.</p><ul><li>Czy komputer podłączony jest do działającej sieci?</li><li>Naciśnij „Spróbuj ponownie”, by przejść do trybu online i odświeżyć stronę.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Błąd kodowania zawartości">
-<!ENTITY contentEncodingError.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ używa nieprawidłowych lub nieobsługiwanych metod kompresji.</p><ul><li>Należy poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ używa nieprawidłowych lub nieobsługiwanych metod kompresji.</p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Niebezpieczny typ pliku">
-<!ENTITY unsafeContentType.longDesc "<ul><li>Należy poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY unsafeContentType.longDesc "<ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY netReset.title "Przerwane połączenie">
 <!ENTITY netReset.longDesc "<p>Połączenie sieciowe zostało przerwane podczas negocjacji. Spróbuj ponownie.</p>">
