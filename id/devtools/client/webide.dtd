@@ -135,7 +135,7 @@
 <!ENTITY prefs_options_autocomplete "Lengkapi-otomatis">
 <!ENTITY prefs_options_autocomplete_tooltip "Aktifkan lengkapi-otomatis untuk kode">
 <!ENTITY prefs_options_autoclosebrackets "Tutup kurung otomatis">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Otomatis sisipkan kurung penutup">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Sisipkan kurung penutup secara otomatis">
 <!ENTITY prefs_options_keybindings "Pintasan tombol">
 <!ENTITY prefs_options_keybindings_default "Bawaan">
 <!ENTITY prefs_options_autosavefiles "Simpan berkas otomatis">

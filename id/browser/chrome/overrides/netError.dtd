@@ -156,7 +156,7 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Info lanjutan: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoUsed.longDesc2 "Info lebih lanjut: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Canggih">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> menggunakan teknologi keamanan yang ketinggalan zaman dan rentan penyerangan. Penyerang bisa mengungkapkan informasi yang Anda sangka aman.">
 <!ENTITY weakCryptoAdvanced.override "(Tidak aman) Coba muat <span class='hostname'></span> menggunakan keamanan yang ketinggalan zaman">
