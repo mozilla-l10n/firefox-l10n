@@ -6,7 +6,7 @@
 <!ENTITY setPassword.title  "Tijal ajtij ewan tzij">
 <!ENTITY setPassword.tokenName.label "Rokisab'al chajinïk">
 
-
+<!ENTITY setPassword.newPassword.label "K'ak'a' ewan tzij:">
 <!ENTITY setPassword.reenterPassword.label "K'ak'a' ewan tzij (Tijikib'äx):">
 <!ENTITY setPassword.meter.label "Retanel rutzil ri ewan tzij">
 <!-- Values for resetpassword.xul -->
@@ -27,7 +27,7 @@
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.message1 "Re jun ruxaq k'amaya'l re' xuk'utuj pe chi taya' ab'i' rik'in jun ruwujil b'i'aj:">
 
-
+<!ENTITY clientAuthAsk.message3 "Cha'on taq rub'anikil ruwujil b'i'aj:">
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.info  "Ruwujil rub'i':">
 <!ENTITY certPicker.detailsLabel "Cha'on taq rub'anikil ruwujil b'i'aj:">
@@ -37,7 +37,7 @@
 <!ENTITY pkcs12.setpassword.label2 "To'öy ewan rutzij ri ruwujil b'i'aj (tijikib'äx):">
 <!ENTITY pkcs12.setpassword.reminder "K'atzinel: We namestaj ri ewan rutzij ruto'öy ruwujil ab'i', man xkatikïr ta xtachojmirisaj pa jun chi ti mej.  Taya' pa jun utziläj k'ojlib'äl.">
 
-
+<!ENTITY chooseToken.message1 "Tacha' jun wachinäq.">
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.msg1 "Rutz'ukik ewan tzij nitajin… Re re' xtuk'waj ka'i' oxi ch'utiramaj….">
 <!ENTITY createCertInfo.msg2 "Tawoyob'ej…">

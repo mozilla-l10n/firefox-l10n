@@ -5,7 +5,7 @@
 <!ENTITY certmgr.tab.mine                     "Ri taq ruwujil ab'i'">
 
 <!ENTITY certmgr.tab.websites3                "Taq ruk'u'x samaj">
-
+<!ENTITY certmgr.tab.ca                       "K'amöl taq b'ey">
 
 
 
@@ -24,11 +24,12 @@
 <!ENTITY certmgr.certdetail.title             "Rub'anikil ruwujil b'i'aj">
 <!ENTITY certmgr.certdetail.cn                "Relik b'i'aj (RB')">
 <!ENTITY certmgr.certdetail.o                 "Moloj (MO)">
-
+<!ENTITY certmgr.certdetail.ou                "Ruq'a' moloj (Q'AMO)">
 
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 Retal ruwi' q'ab'aj">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 Retal ruwi' q'ab'aj">
 
-
+<!ENTITY certmgr.editcacert.title             "Tinuk' runuk'ulem qukub'äl k'u'x richin CA">
 <!ENTITY certmgr.editcert.edittrust           "Kenuk' taq kuqub'äl taq nuk'ulem:">
 
 
