@@ -81,5 +81,5 @@
 
 <!ENTITY exceptionMgr.certstatus.viewCert     "Tiz'et…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "W">
-
-
+<!ENTITY exceptionMgr.permanent.label         "Jumul tiyak kan re me'elik re'">
+<!ENTITY exceptionMgr.permanent.accesskey     "J">
