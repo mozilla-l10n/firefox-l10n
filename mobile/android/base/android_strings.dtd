@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Іздеу кезінде бетбелгілер және тарихтан нәтижелерді алыңыз.">
 <!ENTITY firstrun_data_title "Деректер">
 <!ENTITY firstrun_data_message "Азырақ деректер, көбірек үнемдеу">
-
+<!ENTITY firstrun_data_subtext2 "Әр қаралатын сайтта азырақ деректерді қолдану үшін суреттерді сөндіріңіз.">
 <!ENTITY firstrun_sync_title "Синхрондау">
 <!ENTITY firstrun_sync_message "&brandShortName;, әрқашан сізді қолдайды">
 <!ENTITY firstrun_sync_subtext "Әр жерде қолданылатын беттер, парольдер және т.б. синхрондаңыз.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Тек Wi-Fi арқылы">
 <!ENTITY pref_tap_to_load_images_disabled2 "Блокталған">
 
+<!ENTITY pref_show_web_fonts "Веб қаріптерін көрсету">
 
 <!ENTITY pref_tracking_protection_title "Бақылаудан қорғаныс">
 <!ENTITY pref_tracking_protection_summary3 "Жекелік шолу режимінде іске қосылған">
