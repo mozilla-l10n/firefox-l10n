@@ -11,7 +11,7 @@
 
 
 
-
+<!ENTITY certmgr.orphans                      "K'o taq ruwujil ab'i' pa ri yakb'äl, ri man nikik'äm ta ki' pa nijun chi ke ri ch'aqa' chik taq ruwäch:">
 
 
 
@@ -40,7 +40,7 @@
 
 
 <!ENTITY certmgr.expires                      "Nik'is ruq'ijul pa">
-
+<!ENTITY certmgr.email                        "Rochochib'al taqoya'l">
 
 
 <!ENTITY certmgr.close.label                  "Elem">
