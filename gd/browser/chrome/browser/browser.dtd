@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "C">
 <!ENTITY shareVideo.label "Co-roinn a' video seo">
 <!ENTITY shareVideo.accesskey "C">
-
-
+<!ENTITY feedsMenu2.label "Fo-sgrìobh gun duilleag seo">
+<!ENTITY subscribeToPageMenupopup.label "Fo-sgrìobh gun duilleag seo">
 <!ENTITY subscribeToPageMenuitem.label "Fo-sgrìobh gun duilleag seo…">
 <!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY showAllBookmarks2.label "Seall a h-uile comharra-lìn">
@@ -409,18 +409,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Fosgail clàr-taice na cobharach">
 
 <!ENTITY appMenuRemoteTabs.label "Tabaichean sioncronaichte">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "A’ faighinn nan tabaichean sioncronaichte…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Chan eil taba fosgailte">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Cuir air sioncronachadh nan tabaichean airson cothrom fhaighinn air na tabaichean agad o uidheaman eile.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Clàraich a-steach gu Firefox o na h-uidheaman eile agad gus na tabaichean uapa fhaicinn an-seo.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Roghainnean sioncronachaidh">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Clàraich a-steach airson liosta de thabaichean a tha agad air uidheaman eile.">
 <!ENTITY appMenuRemoteTabs.signin.label "Clàraich a-steach gun t-sioncronachadh">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Seall bàr-taoibh nan tabaichean sioncronaichte">
 
 <!ENTITY customizeMenu.addToToolbar.label "Cuir ris a' bhàr-inneal">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -527,8 +530,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Fosgail am frèam ann an uinneag ùr">
 <!ENTITY openFrameCmd.accesskey       "F">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Fosgail an ceangal ann an taba soithich ùr">
+<!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Na seall ach am frèam seo">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -776,7 +779,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "d">
 <!ENTITY identity.learnMore "Barrachd fiosrachaidh">
 
-
+<!ENTITY identity.removeCertException.label "Thoir an eisgeachd  air falbh">
+<!ENTITY identity.removeCertException.accesskey "r">
 
 <!ENTITY identity.moreInfoLinkText2 "Barrachd fiosrachaidh">
 
@@ -790,17 +794,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Tabaichean sioncronaichte">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Tabaichean sioncronaichte">
+<!ENTITY syncedTabs.sidebar.fetching.label     "A’ faighinn nan tabaichean sioncronaichte…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Clàraich a-steach gu Firefox o na h-uidheaman eile agad gus na tabaichean uapa fhaicinn an-seo.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Clàraich a-steach airson liosta de thabaichean a tha agad air uidheaman eile.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Chan eil taba fosgailte">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Fosgail roghainnean &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cuir air sioncronachadh nan tabaichean airson cothrom fhaighinn air na tabaichean agad o uidheaman eile.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Fosgail an taba seo">
+<!ENTITY syncedTabs.context.openTab.accesskey               "o">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Cuir an taba seo ris na comharran-lìn…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "b">
 
 
 <!ENTITY syncBrand.shortName.label    "Sioncronachadh">
