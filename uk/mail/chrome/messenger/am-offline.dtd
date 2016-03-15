@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY doNotDownloadPop3Movemail.label "Щоб зекономити місце на диску, не завантажувати:">
-<!ENTITY doNotDownloadNntp.label "Щоб зекономити місце на диску, не завантажувати для роботи в автономному режимі:">
-<!ENTITY doNotDownloadImap.label "Щоб зекономити місце на диску, на завантаження листів з сервера та зберігання локальних копій може бути накладене обмеження за віком та розміром.">
+<!ENTITY doNotDownloadPop3Movemail.label "Щоб заощадити місце на диску, не завантажувати:">
+<!ENTITY doNotDownloadNntp.label "Щоб заощадити місце на диску, не завантажувати для роботи в автономному режимі:">
+<!ENTITY doNotDownloadImap.label "Щоб заощадити місце на диску, на завантаження листів з сервера та зберігання локальних копій може бути накладене обмеження за віком та розміром.">
 <!ENTITY allFoldersOffline.label "Залишати листи облікового запису на цьому комп'ютері">
 <!ENTITY allFoldersOffline.accesskey "а">
 <!ENTITY offlineNotDownload.label "Листи, більші за">
@@ -21,14 +21,12 @@
 <!ENTITY retentionCleanup.label "Для звільнення місця на диску старі листи можуть бути вилучені">
 <!ENTITY retentionCleanupImap.label "Щоб вивільнити місце на диску, старі листи можна стерти назавжди, як локальні копії, так і оригінали на віддаленому сервері.">
 <!ENTITY retentionCleanupPop.label "Щоб вивільнити місце на диску, старі листи можна стерти назавжди, включно з оригіналами на віддаленому сервері.">
-<!ENTITY retentionKeepMsg.label "Вилучати листи давніші за">
+<!ENTITY retentionKeepMsg.label "Видаляти листи давніші за">
 <!ENTITY retentionKeepMsg.accesskey "д">
-<!ENTITY retentionKeepAll.label "Не вилучати листи">
+<!ENTITY retentionKeepAll.label "Не видаляти листи">
 <!ENTITY retentionKeepAll.accesskey "Н">
-<!ENTITY retentionKeepRecent.label "Вилучати всі, крім останніх">
+<!ENTITY retentionKeepRecent.label "Видаляти всі, крім останніх">
 <!ENTITY retentionKeepRecent.accesskey "к">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Завжди вилучати прочитані листи (перекриває настройку давньості)">
 <!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
 <!ENTITY retentionApplyToFlagged.accesskey "з">
 <!ENTITY nntpRemoveMsgBody.label "Вилучати тіла листів більші за">
