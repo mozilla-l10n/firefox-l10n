@@ -773,7 +773,10 @@ desde Android">
 
 <!ENTITY unsupported_sdk_version "¡Lo siento! &brandShortName; no trabajará en este dispositivo (&formatS1;, &formatS2;). Por favor, descarga la versión correcta.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; ya no se actualizará">
 <!ENTITY eol_notification_summary "Toca para obtener más información">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; está actualizado">
+<!ENTITY whatsnew_notification_summary "Descubre las novedades de esta versión">
