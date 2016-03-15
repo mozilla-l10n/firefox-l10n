@@ -8,6 +8,7 @@
 <!ENTITY startSafeMode.label          "Simolola o le mo Mokgwapabalesego">
 <!ENTITY refreshProfile.label         "Ntšhwafatsa &brandShortName;">
 
+<!ENTITY safeModeDescription3.label   "Mokgwapabalesego ke mokgwa o kgethegileng wa &brandShortName; o ka dirisediwang go dira tshekatshekotshiamiso mathata.">
 <!ENTITY safeModeDescription4.label   "Dioketswa le dithulaganyo-tshwanediso tsa gago di tla thibelwa go dira ga nakwana.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
