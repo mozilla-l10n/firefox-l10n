@@ -762,7 +762,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Esta página usa criptografia fraca.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "A conexão com este site não é privada. As informações que enviar (tais como senhas, mensagens, cartões de créditos, etc.) podem ser vistas por outros.">
+<!ENTITY identity.description.insecure "A conexão com este site não é privada. As informações que você enviar (tais como senhas, mensagens, cartões de créditos, etc) podem ser vistas por outros.">
 <!ENTITY identity.description.insecureLoginForms "As informações de login que você inserir nesta página não estão seguras e podem ser comprometidas.">
 <!ENTITY identity.description.weakCipher "A conexão com este website usa criptografia fraca e não é privada.">
 <!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do site web.">
