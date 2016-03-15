@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Tölvupóstfang">
-
+<!ENTITY fxaccount_password_hint "Lykilorð">
 <!ENTITY fxaccount_password_hide "Fela">
 <!ENTITY fxaccount_password_show "Sýna">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt samstilla gögn\&quot; stillingunni í Android stillingar &gt; Gagna notkun.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt Sync-a gögnum\&quot; stillingunni í Android stillingar &gt; Reikningar.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Snertu skjáinn til að skrá þig inn með nýja Firefox reikningnum.">
-
+<!ENTITY fxaccount_status_bookmarks "Bókarmerki">
 <!ENTITY fxaccount_status_history "Ferill">
 <!ENTITY fxaccount_status_passwords2 "Innskráningar">
 <!ENTITY fxaccount_status_tabs "Opna flipa">
