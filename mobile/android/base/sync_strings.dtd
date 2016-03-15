@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Post-d">
-
+<!ENTITY fxaccount_password_hint "Facal-faire">
 <!ENTITY fxaccount_password_hide "Falaich">
 <!ENTITY fxaccount_password_show "Seall">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Toglaich “Auto-sync data” ann an Android Settings &gt; Data Usage.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Toglaich “Auto-sync data” ann an Android Settings &gt; Accounts.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Thoir gnogag airson clàradh a-steach dhan chunntas Firefox ùr agad.">
-
+<!ENTITY fxaccount_status_bookmarks "Comharran-lìn">
 <!ENTITY fxaccount_status_history "Eachdraidh">
 <!ENTITY fxaccount_status_passwords2 "Clàraidhean a-steach">
 <!ENTITY fxaccount_status_tabs "Tabaichean fosgailte">

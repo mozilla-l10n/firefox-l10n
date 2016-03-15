@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Faic toraidhean o na comharran-lìn is on eachdraidh agad nuair a nì thu lorg.">
 <!ENTITY firstrun_data_title "Dàta">
 <!ENTITY firstrun_data_message "Nas lugha de dhàta, caomhnadh nas motha">
-
+<!ENTITY firstrun_data_subtext2 "Cuir na dealbhan dheth is lughdaich na chaitheas tu de dhàta air na lìon.">
 <!ENTITY firstrun_sync_title "Sioncronachadh">
 <!ENTITY firstrun_sync_message "&brandShortName;, ri do thaobh-sa an-còmhnaidh">
 <!ENTITY firstrun_sync_subtext "Sioncronaich na tabaichean, faclan-faire ’s mòran a bharrachd ann.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Air WiFi a-mhàin">
 <!ENTITY pref_tap_to_load_images_disabled2 "Air a chasg">
 
+<!ENTITY pref_show_web_fonts "Seall cruthan-clò-lìn">
 
 <!ENTITY pref_tracking_protection_title "Dìon o thracadh">
 <!ENTITY pref_tracking_protection_summary3 "An comas sa bhrabhsadh phrìobhaideach">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Brabhsadh làn-sgrìn">
 <!ENTITY pref_scroll_title_bar_summary2 "Falaich bàr-inneal &brandShortName; nuair a sgrolaichear sìos air duilleag">
 
-
+<!ENTITY pref_tab_queue_title3 "Ciutha nan taba">
+<!ENTITY pref_tab_queue_summary4 "Sàbhail na ceanglaichean gus an ath-thuras a dh’fhosglas tu &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "Cha deach susbaint sam bith a lorg airson na panail seo.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Air ais gu &formatS;">
 
 <!ENTITY home_remote_tabs_title "Tabaichean sioncronaichte">
 <!ENTITY home_remote_tabs_empty "Nochdaidh na tabaichean a tha agad air uidheaman eile an-seo.">
@@ -770,7 +774,10 @@ o Android">
 
 <!ENTITY unsupported_sdk_version "Tha sinn duilich! Chan obraich seo, &brandShortName;, air an uidheam seo (&formatS1;, &formatS2;). Feuch is luchdaich a‑nuas an tionndadh ceart.">
 
+<!ENTITY eol_notification_title2 "Cha dèid &brandShortName; ùrachadh tuilleadh">
 <!ENTITY eol_notification_summary "Thoir gnogag airson barrachd fiosrachaidh">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "Tha &brandShortName; cho ùr \u0027s a ghabhas">
+<!ENTITY whatsnew_notification_summary "Faigh a-mach dè tha ùr san tionndadh seo">
