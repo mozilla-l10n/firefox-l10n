@@ -24,7 +24,7 @@
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Demander">
 <!ENTITY radioAskUnsent.accesskey "e">
-<!ENTITY textGoingOffline "Télécharger les messages pour une utilisation hors connexion lors du passage en mode hors connexion ?">
+<!ENTITY textGoingOffline "À la déconnexion, télécharger les messages pour une utilisation hors connexion ?">
 <!ENTITY radioAutoDownload.label "Oui">
 <!ENTITY radioAutoDownload.accesskey "i">
 <!ENTITY radioNotDownload.label "Non">

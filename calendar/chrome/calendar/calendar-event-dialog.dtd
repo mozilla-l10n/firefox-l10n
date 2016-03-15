@@ -148,7 +148,7 @@
 <!-- Toolbar -->
 <!ENTITY event.toolbar.save.label "Enregistrer et fermer">
 <!ENTITY event.toolbar.delete.label "Supprimer">
-<!ENTITY event.toolbar.attendees.label "Participants">
+<!ENTITY event.toolbar.attendees.label "Inviter des participants">
 <!ENTITY event.toolbar.privacy.label "Confidentialité">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Enregistrer et fermer">
