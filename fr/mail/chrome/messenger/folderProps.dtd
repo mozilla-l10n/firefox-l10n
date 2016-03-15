@@ -12,7 +12,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruit l’index du dossier">
 <!ENTITY folderRebuildSummaryFile2.label         "Réparer le dossier">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Parfois, le fichier d’index (.msf) du dossier est endommagé et les messages peuvent paraître manquants ou les fichiers supprimés toujours visibles ; réparer le dossier peut corriger ces problèmes.">
+<!ENTITY folderRebuildSummaryFile.explanation    "Il arrive que le fichier d’index du dossier (.msf) soit endommagé et que des messages semblent manquants alors que d’autres messages supprimés sont visibles ; la réparation du dossier peut résoudre ces problèmes.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Inclure les messages de ce dossier dans les résultats de recherche globale">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
 

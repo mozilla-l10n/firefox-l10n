@@ -9,7 +9,7 @@
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label               "Quand je marque des messages comme indésirables :">
 <!ENTITY manualMark.accesskey           "m">
-<!ENTITY manualMarkModeMove.label       "les déplacer vers le dossier « Indésirables »">
+<!ENTITY manualMarkModeMove.label       "les déplacer dans le dossier « Indésirables »">
 <!ENTITY manualMarkModeMove.accesskey   "e">
 <!ENTITY manualMarkModeDelete.label     "les supprimer">
 <!ENTITY manualMarkModeDelete.accesskey "s">
