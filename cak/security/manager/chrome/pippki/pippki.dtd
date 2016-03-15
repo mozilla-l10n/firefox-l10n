@@ -6,7 +6,7 @@
 
 
 <!ENTITY setPassword.reenterPassword.label "K'ak'a' ewan tzij (Tijikib'äx):">
-
+<!ENTITY setPassword.meter.label "Retanel rutzil ri ewan tzij">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Titikirisäx chik">
