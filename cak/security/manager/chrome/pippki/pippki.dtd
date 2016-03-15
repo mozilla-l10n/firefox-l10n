@@ -32,7 +32,7 @@
 <!ENTITY certPicker.info  "Ruwujil rub'i':">
 <!ENTITY certPicker.detailsLabel "Cha'on taq rub'anikil ruwujil b'i'aj:">
 
-<!ENTITY pkcs12.setpassword.message  "Ri ewan rutzij ri to'öy ruwujil b'i'aj, ri xtatz'ib'aj qa wawe', xtuchajij ri to'öy yakb'äl, ri natz'ük yan qa. K'o chi natz'ib'aj re ewan tzij re' richin nab'än qa ri to'öy wachib'enïk.">
+<!ENTITY pkcs12.setpassword.message  "Ri ewan rutzij ri to'öy ruwujil b'i'aj, ri xtatz'ib'aj qa wawe', xtuchajij ri to'öy yakb'äl, ri natz'ük yan qa.  K'o chi natz'ib'aj re ewan tzij re' richin nab'än qa ri to'öy wachib'enïk.">
 
 <!ENTITY pkcs12.setpassword.label2 "To'öy ewan rutzij ri ruwujil b'i'aj (tijikib'äx):">
 <!ENTITY pkcs12.setpassword.reminder "K'atzinel: We namestaj ri ewan rutzij ruto'öy ruwujil ab'i', man xkatikïr ta xtachojmirisaj pa jun chi ti mej.  Taya' pa jun utziläj k'ojlib'äl.">

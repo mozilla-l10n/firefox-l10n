@@ -9,7 +9,8 @@
 
 <!ENTITY devmgr.details.title2                  "Retal">
 
-
+<!ENTITY devmgr.button.login.label              "Titikirisäx molojri'ïl">
+<!ENTITY devmgr.button.login.accesskey          "t">
 
 
 

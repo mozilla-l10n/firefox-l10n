@@ -35,6 +35,7 @@
 
 <!ENTITY certmgr.editcert.trustobjsign        "Re ruwujil b'i'aj re' nitikïr yerutz'ët taq ajb'anöy kema'.">
 
+<!ENTITY certmgr.deletecert.title             "Tiyuj ruwujil b'i'aj">
 
 <!ENTITY certmgr.certserver                   "Ruk'u'x samaj">
 
