@@ -53,8 +53,8 @@
 <!ENTITY certmgr.export.accesskey             "k">
 
 
-
-
+<!ENTITY certmgr.delete_builtin.label         "Tiyuj o man takuqub'a' ta chik ak'u'x chi rij…">
+<!ENTITY certmgr.delete_builtin.accesskey     "T">
 <!ENTITY certmgr.backup2.label                "Tiwachib'ëx…">
 <!ENTITY certmgr.backup2.accesskey            "T">
 <!ENTITY certmgr.backupall2.label             "Ti/wachib'ëx ronojel…">
@@ -70,8 +70,8 @@
 <!ENTITY certmgr.addException.label           "Titz'aqtisäx man relik ta…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
-
-
+<!ENTITY exceptionMgr.exceptionButton.label   "Tijikib'äl man relik ta richin jikomal">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "T">
 <!ENTITY exceptionMgr.supplementalWarning     "Ri qitzij taq pwaqb'äl, taq k'ayij chuqa' juley chik aj winäq ruxaq k'amaya'l, man xtikik'utuj ta chawe chi xtab'än re'.">
 
 
