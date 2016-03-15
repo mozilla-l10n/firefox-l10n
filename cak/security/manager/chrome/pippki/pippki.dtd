@@ -16,7 +16,7 @@
 
 <!ENTITY downloadCert.title "Tajin niqasäx ri ruwujil rub'i'">
 <!ENTITY downloadCert.message1 "Nik'utüx chawe chi ütz tatz'eta' ri k'ak'a' Taq'onel Ya'öl Wujil B'i'aj (TYWB').">
-
+<!ENTITY downloadCert.trustSSL "Takuqub'a' ak'u'x rik'in re CA richin ye'atz'ët ajk'amaya'l taq ruxaq k'amaya'l.">
 
 <!ENTITY downloadCert.trustObjSign "Takuqub'a' ak'u'x rik'in ri CA richin ye'atz'ët taq ajb'anöy kema'.">
 <!ENTITY downloadCert.message3 "Chuwäch nakuqub'a' ak'u'x chi rij re CA re' richin xab'achike na rayb'äl, k'o chin tinik'öx ri ruwujil rub'i', runa'ojil chuqa' taq rub'eyal CA (we e wachel).">

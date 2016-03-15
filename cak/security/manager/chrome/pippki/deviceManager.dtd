@@ -26,6 +26,6 @@
 
 
 <!ENTITY loaddevice.browse                      "Tinik'öx…">
-
+<!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title                       "Tok PKCS#11 okisaxel">

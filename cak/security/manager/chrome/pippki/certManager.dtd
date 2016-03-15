@@ -67,8 +67,8 @@
 <!ENTITY certmgr.fields.accesskey             "R">
 <!ENTITY certmgr.hierarchy.label              "Ruwujil b'i'aj ach'alanïk">
 
-
-
+<!ENTITY certmgr.addException.label           "Titz'aqtisäx man relik ta…">
+<!ENTITY certmgr.addException.accesskey       "x">
 
 
 
