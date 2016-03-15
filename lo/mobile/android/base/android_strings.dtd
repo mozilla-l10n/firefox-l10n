@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "ໄດ້ຜົນລັບຈາກບຸກມາກ ແລະ ປະຫວັດການໃຊ້ງານຂອງທ່ານເມື່ອທ່ານຄົ້ນຫາ.">
 <!ENTITY firstrun_data_title "ຂໍ້ມູນ">
 <!ENTITY firstrun_data_message "ຂໍ້ມູນນ້ອຍລົງ, ສາມາດບັນທຶກຂໍ້ມູນໄດ້ຫລາຍຂື້ນ">
-
+<!ENTITY firstrun_data_subtext2 "ປິດຮູບພາບເພື່ອໃຫ້ຂະຫນາດຂໍ້ມູນຂອງເວັບໄຊຕ໌ທີ່ທ່ານເຂົ້າໄປເບິງມີຂະຫນາດນ້ອຍລົງ.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, ຢູ່ຄຽງຂ້າງທ່ານສະເຫມີ">
 <!ENTITY firstrun_sync_subtext "Sync ແທັບ, ລະຫັດຜ່ານຂອງທ່ານ ແລະ ໃນທຸກໆບ່ອນທີ່ທ່ານນຳໃຊ້ມັນ.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "ຜ່ານທາງ Wi-Fi ເທົ່ານັ້ນ">
 <!ENTITY pref_tap_to_load_images_disabled2 "ບັອກ">
 
+<!ENTITY pref_show_web_fonts "ສະແດງຕົວອັກສອນເວັບ">
 
 <!ENTITY pref_tracking_protection_title "ການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY pref_tracking_protection_summary3 "ເປີດໃຫ້ໃຊ້ງານໃນການຄົ້ນຫາແບບສ່ວນຕົວ">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "ການຄົ້ນຫາແບບເຕັມຈໍ">
 <!ENTITY pref_scroll_title_bar_summary2 "ເຊື່ອງ &brandShortName; ແຖບຫົວຂໍ້ເມື່ອເລື່ອນຫນ້າເວັບໄຊຕ໌ລົງ.">
 
-
+<!ENTITY pref_tab_queue_title3 "ຄິວແທັບ">
+<!ENTITY pref_tab_queue_summary4 "ບັນທຶກໄວ້ຈົນກະທັ້ງທ່ານເປີດໃນຄັ້ງຕໍ່ໄປ &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "ບໍ່ພົບເຫັນເນື້ອໃນສໍາລັບກະດານນີ້.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "ຍ້ອນກັບໄປທີ່ &formatS;">
 
 <!ENTITY home_remote_tabs_title "Synced ແທັບ">
 <!ENTITY home_remote_tabs_empty "ແທັບຂອງທ່ານຈາກອຸປະກອນອື່ນໄດ້ສະແດງຂື້ນຢູ່ນີ້.">
@@ -770,7 +774,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version "ຂໍອະໄພ! &brandShortName; ນີ້ຈະບໍ່ເຮັດວຽກຢູ່ໃນອຸປະກອນນີ້ (&formatS1;, &formatS2;). ກະລຸນາໂຫລດໃຫມ່.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; ຈະບໍ່ມີການອັບເດດອີກຕໍ່ໄປ">
 <!ENTITY eol_notification_summary "ແຕະເພື່ອຮຽນຮູ້ເພີ່ມເຕີມ">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; ແມ່ນລຸ້ນລ່າສຸດແລ້ວ">
+<!ENTITY whatsnew_notification_summary "ຊອກເບິງວ່າມີຫຍັງໃຫມ່ໃນລຸ້ນນີ້">

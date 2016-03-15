@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ອີເມວລ໌">
-
+<!ENTITY fxaccount_password_hint "ລະຫັດຜ່ານ">
 <!ENTITY fxaccount_password_hide "ເຊື່ອງ">
 <!ENTITY fxaccount_password_show "ສະແດງ">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ໄດ້ຮັບການຕິດຕັ້ງ, ແຕ່ວ່າຍັງບໍ່ສາມາດ Syncing ໄດ້ແບບອັດຕະໂນມັດ. ໃຫ້ເລືອກເປີດທີ່ “Auto-sync data” ໃນການຕັ້ງຄ່າ &gt; Android Data Usage">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ໄດ້ຮັບການຕິດຕັ້ງ, ແຕ່ວ່າຍັງບໍ່ສາມາດ Syncing ໄດ້ແບບອັດຕະໂນມັດ. ໃຫ້ເລືອກເປີດທີ່ “Auto-sync data” ໃນການຕັ້ງຄ່າ &gt; Android Accounts.">
 <!ENTITY fxaccount_status_needs_finish_migrating "ແຕະເພື່ອເຂົ້າສູ່ບັນຊີໄຟຟັອກໃຫມ່ຂອງທ່ານ.">
-
+<!ENTITY fxaccount_status_bookmarks "ບຸກມາກສ໌">
 <!ENTITY fxaccount_status_history "ປະຫວັດການໃຊ້ງານ">
 <!ENTITY fxaccount_status_passwords2 "ລັອກອິນ">
 <!ENTITY fxaccount_status_tabs "ເປີດແທັບ">
