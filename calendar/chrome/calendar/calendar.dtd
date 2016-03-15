@@ -60,10 +60,10 @@
 <!ENTITY calendar.today.button.tooltip          "Naar Vandaag gaan" >
 <!ENTITY calendar.todaypane.button.tooltip      "Venster Vandaag tonen" >
 
-<!ENTITY calendar.day.button.tooltip            "Naar dagoverzicht overschakelen" >
-<!ENTITY calendar.week.button.tooltip           "Naar weekoverzicht overschakelen" >
-<!ENTITY calendar.month.button.tooltip          "Naar maandoverzicht overschakelen" >
-<!ENTITY calendar.multiweek.button.tooltip      "Naar overzicht van meerdere weken overschakelen" >
+<!ENTITY calendar.day.button.tooltip            "Wisselen naar dagoverzicht" >
+<!ENTITY calendar.week.button.tooltip           "Wisselen naar weekoverzicht" >
+<!ENTITY calendar.month.button.tooltip          "Wisselen naar maandoverzicht" >
+<!ENTITY calendar.multiweek.button.tooltip      "Wisselen naar overzicht van meerdere weken" >
 
 <!ENTITY calendar.nextday.label                 "Volgende dag" >
 <!ENTITY calendar.prevday.label                 "Vorige dag" >
@@ -290,8 +290,8 @@
 <!ENTITY calendar.alarm.location.label              "Locatie:" >
 <!ENTITY calendar.alarm.details.label               "Details…" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "Sluimeren gedurende" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Alle sluimeren gedurende" >
+<!ENTITY calendar.alarm.snoozefor.label             "Sluimeren voor" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Alle sluimeren voor" >
 <!ENTITY calendar.alarm.title.label                 "Agendaherinneringen" >
 <!ENTITY calendar.alarm.dismiss.label               "Verwijderen" >
 <!ENTITY calendar.alarm.dismissall.label            "Alle verwijderen" >
