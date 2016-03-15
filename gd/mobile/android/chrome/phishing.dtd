@@ -12,9 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Chaidh aithris gur e duilleag ionnsaighe a tha ann an <span id='malware_sitename'/> agus chaidh bacadh a chur air a-rèir do roghainnean tèarainteachd.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Feuchaidh duilleagan ionnsaighe ri prògraman a stàladh a ghoideas fiosrachadh prìobhaideach ort, a chleachdas an coimpiutair agad gus ionnsaigh a thoirt air feadhainn eile no gus cron a chur air an inneal agad.</p><p>Tha cuid dhe na duilleagan ionnsaighe a’ sgaoileadh bathar-bog cronail a dh’aona-ghnothach ach tha torr dhiubh gan cur gu mì-fheum gun fhios is gun chead nan sealbhadairean aca.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Làrach ionnsaighe!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Chaidh aithris gur e duilleag ionnsaighe a tha ann an <span id='phishing_sitename'/> agus chaidh bacadh a chur air a-rèir do roghainnean tèarainteachd.">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Chaidh làraichean ionnsaighe a dhealbhachadh gus an car a thoirt asad ach an dèan thu rud cunnartach, can gun stàlaicheadh tu bathar-bog no gun innseadh tu fiosrachadh pearsanta mu fhaclan-faire, àireamhan fòn no cairtean-creideis.</p><p>Ma chuireas tu fiosrachadh sam bith a-steach air an duilleag-lìn seo, dh'fhaoidte gun dèid d' aithne a ghoid no foill eile a dhèanamh leis.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Làrach a sgaoileas bathar-bog gun iarrtas!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
