@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Obtén resultados de tus marcadores e historial cuando realices búsquedas.">
 <!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Menos datos, más resguardos">
-
+<!ENTITY firstrun_data_subtext2 "Apagar imágenes para gastar menos datos cada vez que estés en algún sitio web.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, siempre de tu lado">
 <!ENTITY firstrun_sync_subtext "Sincroniza tus pestañas, contraseñas, y más cada vez que lo uses.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Solo por Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloqueado">
 
+<!ENTITY pref_show_web_fonts "Mostrar las fuentes web">
 
 <!ENTITY pref_tracking_protection_title "Protección de rastreo">
 <!ENTITY pref_tracking_protection_summary3 "Habilitado en Navegación Privada">
@@ -470,7 +471,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary2 "Ocultar la barra de herramientas de &brandShortName; cuando estés bajando por la página">
 
-
+<!ENTITY pref_tab_queue_summary4 "Guardar enlaces hasta que vuelvas a abrir &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +550,8 @@ size. -->
 <!ENTITY home_default_empty "No se encontró contenido para este panel.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Volver a &formatS;">
 
 <!ENTITY home_remote_tabs_title "Pestañas sincronizadas">
 <!ENTITY home_remote_tabs_empty "Tus pestañas de otros dispositivos se mostrarán aquí.">
