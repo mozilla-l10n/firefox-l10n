@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "Н">
 <!ENTITY retentionKeepRecent.label "Видаляти все крім останніх">
 <!ENTITY retentionKeepRecent.accesskey "о">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Завжди видаляти прочитані листи (ігнорувати вік листів)">
 <!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
 <!ENTITY retentionApplyToFlagged.accesskey "з">
 
@@ -70,4 +68,4 @@
 <!ENTITY numberUnknown.label                     "невідома">
 <!ENTITY sizeOnDisk.label                        "Розмір на диску:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
-<!ENTITY sizeUnknown.label                       "невідомий">
+<!ENTITY sizeUnknown.label                       "невідомо">
