@@ -196,7 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Jeli waš druhi grat so za znamješkowym slědom praša, město zo QR-kod skenuje, kopěrujće prošu slědowacu hódnotu do druheho grata:">
-
+<!ENTITY wifi_auth_qr_size_note "Je-li QR-kod přemały, zo by so zwisk wuspěšnje wutworił, pospytujće jón skalować ab wokno powjetšeć.">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Přikazowe protokole za předpakowanje">
