@@ -18,7 +18,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "Najnowszą wersję programu &brandShortName; zawsze można pobrać ze strony:">
 
 <!ENTITY  unsupported.title               "System nieobsługiwany">
-<!ENTITY unsupported.label "Twój program &brandShortName; jest nieaktualny, ale najnowsza wersja nie jest obsługiwana na Twoim systemie. Proszę uaktualnić system i spróbować ponownie. To powiadomienie nie zostanie ponownie wyświetlone, ale możesz ">
+<!ENTITY unsupported.label "Twój program &brandShortName; jest nieaktualny, ale najnowsza wersja nie jest obsługiwana na Twoim systemie. Proszę uaktualnić system i spróbować ponownie. To powiadomienie nie zostanie ponownie wyświetlone, ale możesz ">
 <!ENTITY  unsupportedLink.label           "dowiedzieć się więcej.">
 
 <!ENTITY incompatibleCheck.title "Sprawdzanie zgodności dodatków">
