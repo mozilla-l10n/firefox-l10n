@@ -424,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Szinkronizálás beállításai">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Jelentkezzen be a más készülékeiről származó lapok listájának megjelenítéséhez.">
 <!ENTITY appMenuRemoteTabs.signin.label "Bejelentkezés a Syncbe">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Szinkronizált lapok oldalsáv">
 
 <!ENTITY customizeMenu.addToToolbar.label "Hozzáadás az eszköztárhoz">
 <!ENTITY customizeMenu.addToToolbar.accesskey "H">
@@ -531,8 +531,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "l">
 <!ENTITY openFrameCmd.label           "Keret megnyitása új ablakban">
 <!ENTITY openFrameCmd.accesskey       "a">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Hivatkozás megnyitása új konténerlapon">
+<!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Csak az aktuális keret megjelenítése">
 <!ENTITY showOnlyThisFrameCmd.accesskey "C">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -780,7 +780,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "k">
 <!ENTITY identity.learnMore "További tudnivalók">
 
-
+<!ENTITY identity.removeCertException.label "Kivétel eltávolítása">
+<!ENTITY identity.removeCertException.accesskey "v">
 
 <!ENTITY identity.moreInfoLinkText2 "További tudnivalók">
 
@@ -794,17 +795,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Szinkronizált lapok">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Szinkronizált lapok">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Szinkronizált lapok lekérése…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Jelentkezzen be a Firefoxba más készülékeiről azok lapjainak itteni megjelenítéséhez.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Jelentkezzen be a más készülékeiről származó lapok listájának megjelenítéséhez.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Nincsenek nyitott lapok">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "A &syncBrand.shortName.label; beállításainak megnyitása">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Kapcsolja be a lapszinkronizálást a más készülékeiről származó lapok listájának megjelenítéséhez.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Aktuális lap megnyitása">
+<!ENTITY syncedTabs.context.openTab.accesskey               "A">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Aktuális lap könyvjelzőbe…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "t">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
