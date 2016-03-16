@@ -79,7 +79,8 @@
 <!ENTITY proxyConnectFailure.title "Connessione rifiutata dal server proxy">
 <!ENTITY proxyConnectFailure.longDesc "<ul>
    <li>Verificare la correttezza delle impostazioni del proxy.</li>
-   <li>Contattare l’amministratore di rete per verificare se il server proxy è funzionante.</li></ul>">
+   <li>Contattare l’amministratore di rete per verificare se il server proxy è funzionante.</li>
+</ul>">
 <!ENTITY proxyResolveFailure.title "Impossibile stabilire una connessione con il server proxy">
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>

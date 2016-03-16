@@ -448,13 +448,13 @@
 <!ENTITY restrictable_feature_addons_installation "Componenti aggiuntivi">
 <!ENTITY restrictable_feature_addons_installation_description "Aggiungi nuove caratteristiche a Firefox. Attenzione: i componenti aggiuntivi possono rimuovere alcune limitazioni.">
 <!ENTITY restrictable_feature_private_browsing "Navigazione anonima">
-<!ENTITY restrictable_feature_private_browsing_description "Permetti ai membri della famiglia di navigare senza salvare alcuna informazione relativa alle pagine visitate.">
+<!ENTITY restrictable_feature_private_browsing_description "Consenti ai membri della famiglia di navigare senza salvare alcuna informazione relativa alle pagine visitate.">
 <!ENTITY restrictable_feature_clear_history "Eliminazione cronologia">
-<!ENTITY restrictable_feature_clear_history_description "Permetti ai membri della famiglia di eliminare le informazioni relative alle pagine visitate.">
+<!ENTITY restrictable_feature_clear_history_description "Consenti ai membri della famiglia di eliminare le informazioni relative alle pagine visitate.">
 <!ENTITY restrictable_feature_advanced_settings "Impostazioni avanzate">
 <!ENTITY restrictable_feature_advanced_settings_description "Include importazione di segnalibri, ripristino delle schede e aggiornamenti automatici. Disattivarlo per ottenere delle impostazioni più semplici e adatte a tutta la famiglia.">
 <!ENTITY restrictable_feature_camera_microphone "Fotocamera e microfono">
-<!ENTITY restrictable_feature_camera_microphone_description "Permetti ai membri della famiglia di utilizzare strumenti di comunicazione in tempo reale sui siti web.">
+<!ENTITY restrictable_feature_camera_microphone_description "Consenti ai membri della famiglia di utilizzare strumenti di comunicazione in tempo reale sui siti web.">
 <!ENTITY restrictable_feature_block_list "Blocco contenuti">
 <!ENTITY restrictable_feature_block_list_description "Blocca siti web che includono contenuti sensibili.">
 <!ENTITY bookmarks_about_browser "Firefox: informazioni sul browser">
