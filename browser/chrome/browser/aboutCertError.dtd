@@ -32,3 +32,4 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "ಅಪವಾದವನ್ನು ಸೇರಿಸು…">
 <!ENTITY certerror.copyToClipboard.label "ಪಠ್ಯವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ ಪ್ರತಿಮಾಡು">
 
+<!ENTITY errorReporting.automatic "ತಪ್ಪಾಗಿ ಮಾಡಿರುವ ತಾಣಗಳನ್ನು ಗುರುತಿಸಲು ಈ ತರಹದ ದೋಷಗಳ ವರದಿಯಿಂದ Mozillaಗೆ ಸಹಾಯ ಮಾಡಿ ">
