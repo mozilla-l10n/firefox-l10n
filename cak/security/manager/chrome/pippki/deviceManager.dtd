@@ -13,8 +13,8 @@
 <!ENTITY devmgr.button.login.accesskey          "t">
 
 
-
-
+<!ENTITY devmgr.button.changepw.label           "Tijal ewan tzij">
+<!ENTITY devmgr.button.changepw.accesskey       "e">
 
 
 <!ENTITY devmgr.button.unload.label             "Tiqasäx">
