@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Fumana iziphumo kwiibhukmakhi zakho nembali xa ukhangela.">
 <!ENTITY firstrun_data_title "Idatha">
 <!ENTITY firstrun_data_message "Idatha encinci, wonga ngakumbi">
-
+<!ENTITY firstrun_data_subtext2 "Cima imifanekiso ukuze usebenzise idatha encinci kwisayithi nganye oyityelelayo.">
 <!ENTITY firstrun_sync_title "Ungqamaniso">
 <!ENTITY firstrun_sync_message "I-&brandShortName;, isoloko ingakuwe">
 <!ENTITY firstrun_sync_subtext "Dibanisa iithebhu zakho, iiphaswedi, nokungakumbi kuyo yonke indawo oyisebenzisa kuyo.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Phezu kwe-Wi-Fi kuphela">
 <!ENTITY pref_tap_to_load_images_disabled2 "Iblokiwe">
 
+<!ENTITY pref_show_web_fonts "Bonisa iifonti zewebhu">
 
 <!ENTITY pref_tracking_protection_title "Ukhuseleko lokutreka">
 <!ENTITY pref_tracking_protection_summary3 "Ivulwe kuBhrawuzo Lwabucala">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Ukubhrawuza iskrini esipheleleyo">
 <!ENTITY pref_scroll_title_bar_summary2 "Fihla i-&brandShortName; ithulbha xa usihlisa iphepha">
 
-
+<!ENTITY pref_tab_queue_title3 "Ithebhu ekrozisiweyo ">
+<!ENTITY pref_tab_queue_summary4 "Zigcine iilinki  kude kube lixesha elizayo iilinkiuvula i-&brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "Akukho mxholo ufumanekayo kule phaneli.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Ibuyela kwi&formatS;">
 
 <!ENTITY home_remote_tabs_title "Iithebhu ezingqamanisiweyo">
 <!ENTITY home_remote_tabs_empty "Iithebhu zakho ezivela kwezinye izixhobo zivela apha.">
