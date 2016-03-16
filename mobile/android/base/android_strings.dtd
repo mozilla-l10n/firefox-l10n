@@ -774,7 +774,10 @@ esuka kwi-Android">
 
 <!ENTITY unsupported_sdk_version "Uxolo! Le &brandShortName; ayinakusebenza kwesi sixhobo (&formatS1;, &formatS2;). Ndicela udawnlowude uhlobo oluchanileyo.">
 
+<!ENTITY eol_notification_title2 "i-&brandShortName; ayinakuphinda ihlaziye">
 <!ENTITY eol_notification_summary "Cofa ukuze ufunde ngakumbi?">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "I-&brandShortName; igqibelele">
+<!ENTITY whatsnew_notification_summary "Fumanisa ukuba yintoni entsha kolu hlobo">

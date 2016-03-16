@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "I-imeyili">
-
+<!ENTITY fxaccount_password_hint "Ipaswedi">
 <!ENTITY fxaccount_password_hide "Fihla">
 <!ENTITY fxaccount_password_show "Bonisa">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "I-&syncBrand.shortName.label; ifakelwe kodwa ayingqamani ngokuzenzekelayo. Sebenzisa njengeqhosha i-“Auto-sync data” kwi-Android Settings &gt; Usetyenziso lweengcombolo.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "I-&syncBrand.shortName.label; ifakelwe kodwa ayingqamani ngokuzenzekelayo. Sebenzisa njengeqhosha i-“Auto-sync data” kwi-Android Settings &gt; Usetyenziso lweengcombolo.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Cofa ukusayina ungene kwi-akhawunti yakho entsha ka-Firefox.">
-
+<!ENTITY fxaccount_status_bookmarks "Iibhukhmakhi">
 <!ENTITY fxaccount_status_history "Imbali">
 <!ENTITY fxaccount_status_passwords2 "IiLogini">
 <!ENTITY fxaccount_status_tabs "Vula iithebhu">
