@@ -17,7 +17,6 @@
 <!ENTITY firstrun_bookmarks_subtext "북마크와 방문기록에서 검색하여 결과를 가져옵니다.">
 <!ENTITY firstrun_data_title "데이터">
 <!ENTITY firstrun_data_message "더 적은 데이터, 더 많은 절약">
-<!ENTITY firstrun_data_subtext "데이터 사용량을 줄이기 위해 방문하는 모든 사이트의 이미지를 차단합니다.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, 항상 당신 곁에">
 <!ENTITY firstrun_sync_subtext "탭, 암호, 그리고 여러분이 사용하는 모든 것을 동기화합니다.">
@@ -229,6 +228,8 @@
 <!ENTITY pref_tap_to_load_images_enabled "항상">
 <!ENTITY pref_tap_to_load_images_data "Wi-Fi에서만 사용함">
 <!ENTITY pref_tap_to_load_images_disabled2 "차단됨">
+
+<!ENTITY pref_show_web_fonts "웹폰트 보기">
 
 <!ENTITY pref_tracking_protection_title "추적 방지">
 <!ENTITY pref_tracking_protection_summary3 "사생활 보호모드 활성화됨">
@@ -469,8 +470,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "전체 화면 브라우징">
 <!ENTITY pref_scroll_title_bar_summary2 "페이지를 스크롤 할 때 &brandShortName; 제목창을 숨깁니다">
 
-<!ENTITY pref_tab_queue_title2 "여러 개의 링크 열기">
-<!ENTITY pref_tab_queue_summary3 "다음번 &brandShortName;를 열 때까지 저장하기">
+<!ENTITY pref_tab_queue_summary4 "다음에 &brandShortName;를 열 때까지 링크 저장">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -548,9 +548,9 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "패널에 콘텐츠가 없습니다.">
 
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_up_to_filter "&formatS;(으)로 이동">
+<!ENTITY home_move_back_to_filter "&formatS;으로 돌아가기">
 
 <!ENTITY home_remote_tabs_title "동기화 탭">
 <!ENTITY home_remote_tabs_empty "여기에 다른 기기의 탭들이 나타납니다.">
@@ -645,8 +645,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "&formatS1;에서 &formatS2; 검색">
 
-<!ENTITY webapp_generic_name "앱">
-
 <!ENTITY searchable_description "북마크 및 방문 기록">
 
  <!-- Updater notifications -->
@@ -715,11 +713,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "마지막 동기화: 없음">
 
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-<!ENTITY find_matchcase "Aa">
-
 <!ENTITY intent_uri_cannot_open "링크를 열 수 없음">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -776,5 +769,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "죄송합니다! 이 &brandShortName; 는 이 기기 (&formatS1;, &formatS2;)에서 동작하지 않습니다. 알맞은 버전을 다운로드 해주세요.">
 
-<!ENTITY eol_notification_title "&brandShortName;는 더이상 Android 3을 지원하지 않습니다">
+<!ENTITY eol_notification_title2 "&brandShortName;를 더이상 업데이트 하지 않음">
 <!ENTITY eol_notification_summary "탭해서 자세히 보기">
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName;가 최신버전입니다">
+<!ENTITY whatsnew_notification_summary "새로운 기능을 확인하세요">
