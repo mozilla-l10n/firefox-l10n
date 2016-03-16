@@ -98,7 +98,7 @@
 <!ENTITY closeWindow.accesskey "d">
 <!ENTITY bookmarksMenu.label "Segnalibri">
 <!ENTITY bookmarksMenu.accesskey "e">
-<!ENTITY bookmarkThisPageCmd.label "Aggiungi pagina ai segnalibri…">
+<!ENTITY bookmarkThisPageCmd.label "Aggiungi pagina ai segnalibri">
 <!ENTITY editThisBookmarkCmd.label "Modifica segnalibro">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -391,10 +391,10 @@
 <!ENTITY viewBGImageCmd.accesskey "V">
 <!ENTITY setDesktopBackgroundCmd.label "Imposta come sfondo del desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "p">
-<!ENTITY bookmarkPageCmd2.label "Aggiungi pagina ai segnalibri…">
-<!ENTITY bookmarkThisLinkCmd.label "Aggiungi link nei segnalibri…">
+<!ENTITY bookmarkPageCmd2.label "Aggiungi pagina ai segnalibri">
+<!ENTITY bookmarkThisLinkCmd.label "Aggiungi link ai segnalibri…">
 <!ENTITY bookmarkThisLinkCmd.accesskey "A">
-<!ENTITY bookmarkThisFrameCmd.label "Aggiungi riquadro nei segnalibri…">
+<!ENTITY bookmarkThisFrameCmd.label "Aggiungi riquadro ai segnalibri…">
 <!ENTITY bookmarkThisFrameCmd.accesskey "e">
 <!ENTITY emailPageCmd.label "Invia link per email…">
 <!ENTITY emailPageCmd.accesskey "I">
@@ -563,7 +563,7 @@
 <!ENTITY tabsToolbar.label "Schede del browser">
 <!ENTITY syncTabsMenu3.label "Schede sincronizzate">
 <!ENTITY syncedTabs.sidebar.label "Schede sincronizzate">
-<!ENTITY syncedTabs.sidebar.fetching.label "Recupero schede sincronizzate…">
+<!ENTITY syncedTabs.sidebar.fetching.label "Caricamento schede sincronizzate…">
 <!ENTITY syncedTabs.sidebar.noclients.label "Accedi a Firefox in un altro dispositivo per visualizzarne le schede in questa sezione.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label "Accedi per visualizzare un elenco di tutte le schede aperte in altri dispositivi.">
 <!ENTITY syncedTabs.sidebar.notabs.label "Nessuna scheda aperta">

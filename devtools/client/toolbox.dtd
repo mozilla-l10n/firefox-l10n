@@ -72,7 +72,7 @@
 <!ENTITY options.sourceeditor.label "Preferenze editor">
 <!ENTITY options.sourceeditor.detectindentation.label "Rileva tipo di rientro">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Cerca di identificare il rientro del testo in base al codice sorgente">
-<!ENTITY options.sourceeditor.autoclosebrackets.label "Chiudi parentesi automaticamente">
+<!ENTITY options.sourceeditor.autoclosebrackets.label "Chiusura automatica delle parentesi">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserisci automaticamente le parentesi di chiusura">
 <!ENTITY options.sourceeditor.expandtab.label "Utilizza spazio per rientri">
 <!ENTITY options.sourceeditor.expandtab.tooltip "Utilizza spazi vuoti al posto del carattere di tabulazione">

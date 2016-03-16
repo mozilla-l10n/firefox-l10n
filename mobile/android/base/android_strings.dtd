@@ -50,7 +50,7 @@
 <!ENTITY bookmark "Segnalibro">
 <!ENTITY bookmark_remove "Elimina segnalibro">
 <!ENTITY bookmark_added "Aggiunto segnalibro">
-<!ENTITY bookmark_already_added "Già nei segnalibri">
+<!ENTITY bookmark_already_added "Già presente nei segnalibri">
 <!ENTITY bookmark_removed "Segnalibro eliminato">
 <!ENTITY bookmark_updated "Segnalibro aggiornato">
 <!ENTITY bookmark_options "Opzioni">
