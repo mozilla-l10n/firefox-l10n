@@ -37,8 +37,9 @@
 
 <!ENTITY certmgr.deletecert.title             "Tiyuj ruwujil b'i'aj">
 
+<!ENTITY certmgr.certname                     "Rub'i' ruwujil b'i'aj">
 <!ENTITY certmgr.certserver                   "Ruk'u'x samaj">
-
+<!ENTITY certmgr.override_lifetime            "Rutzil k'aslem">
 
 
 <!ENTITY certmgr.expires                      "Nik'is ruq'ijul pa">
@@ -72,6 +73,7 @@
 <!ENTITY certmgr.addException.label           "Titz'aqtisäx man relik ta…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
+<!ENTITY exceptionMgr.title                   "Tz'aqatisäx me'elik ta jikomal">
 <!ENTITY exceptionMgr.exceptionButton.label   "Tijikib'äl man relik ta richin jikomal">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "T">
 <!ENTITY exceptionMgr.supplementalWarning     "Ri qitzij taq pwaqb'äl, taq k'ayij chuqa' juley chik aj winäq ruxaq k'amaya'l, man xtikik'utuj ta chawe chi xtab'än re'.">
@@ -79,7 +81,7 @@
 
 <!ENTITY exceptionMgr.certlocation.download   "Tik'ul ruwujil b'i'aj">
 
-
+<!ENTITY exceptionMgr.certstatus.caption      "Rub'anikil ruwujil b'i'aj">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Tiz'et…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "W">
 <!ENTITY exceptionMgr.permanent.label         "Jumul tiyak kan re me'elik re'">

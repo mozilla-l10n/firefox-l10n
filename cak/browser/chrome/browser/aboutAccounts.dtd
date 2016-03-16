@@ -10,5 +10,5 @@
 <!ENTITY aboutAccountsConfig.useOldSync.label "¿Tajin nawokisaj jun ojer rub'eyal ri Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Taq rajowaxik ximojri'ïl">
 <!ENTITY aboutAccounts.noConnection.title "Majun okib'äl">
-<!ENTITY aboutAccounts.noConnection.description "Rajowaxik chi at okinäq pa k'amaya'l richin natikirisaj molojri'ïl.">
+<!ENTITY aboutAccounts.noConnection.description "Rajowaxik chi atokinäq pa k'amaya'l richin natikirisaj molojri'ïl.">
 <!ENTITY aboutAccounts.noConnection.retry "Tatojtob'ej chik">

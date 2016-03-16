@@ -29,6 +29,8 @@
 
 <!ENTITY clientAuthAsk.message3 "Cha'on taq rub'anikil ruwujil b'i'aj:">
 <!-- Strings for the cert picker dialog -->
+
+<!ENTITY certPicker.title "Ticha' ruwujil b'i'aj">
 <!ENTITY certPicker.info  "Ruwujil rub'i':">
 <!ENTITY certPicker.detailsLabel "Cha'on taq rub'anikil ruwujil b'i'aj:">
 
@@ -37,6 +39,7 @@
 <!ENTITY pkcs12.setpassword.label2 "To'öy ewan rutzij ri ruwujil b'i'aj (tijikib'äx):">
 <!ENTITY pkcs12.setpassword.reminder "K'atzinel: We namestaj ri ewan rutzij ruto'öy ruwujil ab'i', man xkatikïr ta xtachojmirisaj pa jun chi ti mej.  Taya' pa jun utziläj k'ojlib'äl.">
 
+<!ENTITY chooseToken.title  "Rutzijonem rucha'oj wachinäq">
 <!ENTITY chooseToken.message1 "Tacha' jun wachinäq.">
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.msg1 "Rutz'ukik ewan tzij nitajin… Re re' xtuk'waj ka'i' oxi ch'utiramaj….">
