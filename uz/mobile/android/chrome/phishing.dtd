@@ -15,7 +15,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Yolg‘on sayt!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Ushbu <span id='phishing_sitename'/> sahifasi yolg‘on sayt sifatida xabar berilgan, shuning uchun xavfsizligingizni o‘ylab, ushbu sahifa bloklandi.">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Qalbaki saytlar zararli dasturlarni o‘rnatish kabi xavfli amallarni bajarish uchun va parol, telefon raqamlari yoki kredit karta ma’lumotlari kabi shaxsiy ma’lumotlaringizni o‘g‘irlash uchun yaratiladi.</p><p>Bunday sahifalarga ma’lumotlar kiritsangiz, ularni o‘g‘rilanishi yoki o‘zlashtirilishiga sabab bo‘lishi mumkin.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Keraksiz deb hisoblangan dasturiy ta’minot sayti haqida xabar berildi!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
