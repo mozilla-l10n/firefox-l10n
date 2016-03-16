@@ -12,7 +12,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Tuairiscíodh gur leathanach ionsaithe é an leathanach Gréasáin <span id='malware_sitename'/> agus tá cosc curtha air de bharr do roghanna slándála.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Déanann leathanaigh ionsaithe iarracht ríomhchláir a shuiteáil a ghoideann faisnéis phríobháideach nó a dhéanann dochar do do ríomhaire.</p><p>Scaipeann leathanaigh ionsaithe áirithe bogearraí dochracha d'aonturas, ach is minic suímh a bheith contúirteach i nganfhios dá n-úinéirí agus gan a gcead.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Suíomh cealgach!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Tuairiscíodh gur leathanach cealgach an leathanach Gréasáin <span id='phishing_sitename'/> agus cuireadh bac air de bharr do roghanna slándála.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "Déan gearán faoi shuíomh ar a bhfuil bogearraí gan iarraidh!">
