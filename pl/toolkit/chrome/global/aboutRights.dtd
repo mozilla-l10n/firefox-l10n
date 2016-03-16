@@ -9,7 +9,7 @@
 
 <!ENTITY rights.intro-point1a "Program &brandShortName; został udostępniony użytkownikowi na warunkach licencji ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Oznacza to, że możesz go używać, kopiować i rozpowszechniać. Możesz także modyfikować kod źródłowy programu &brandShortName;, by dostosować go do swoich potrzeb. Licencja MPL (Mozilla Public License) daje także prawo do rozpowszechniania zmodyfikowanych wersji.">
+<!ENTITY rights.intro-point1c ". Oznacza to, że użytkownik ma prawo używać, kopiować i rozpowszechniać program &brandShortName;. Może on też modyfikować kod źródłowy programu &brandShortName;, by dostosować go do swoich potrzeb. Licencja MPL (Mozilla Public License) daje użytkownikowi także prawo do rozpowszechniania zmodyfikowanych wersji.">
 
 <!ENTITY rights.intro-point2-a "Nie otrzymujesz żadnych licencji ani praw do znaków towarowych Mozilla Foundation i innych podmiotów, w tym w szczególności do nazwy i logotypu Firefox. Więcej informacji na ten temat znajdziesz ">
 <!ENTITY rights.intro-point2-b "tutaj">
@@ -25,8 +25,7 @@
 <!ENTITY rights.intro-point4b "warunkach korzystania z tych usług">
 <!ENTITY rights.intro-point4c ".">
 
-<!ENTITY rights.intro-point4a-unbranded "Jeśli ten produkt zawiera usługi WWW,
-odnośniki do wszelkich warunków korzystania z nich powinny znajdować się w sekcji ">
+<!ENTITY rights.intro-point4a-unbranded "Jeśli ten produkt zawiera usługi WWW, odnośniki do wszelkich warunków korzystania z nich powinny znajdować się w sekcji ">
 <!ENTITY rights.intro-point4b-unbranded "Usługi WWW">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
