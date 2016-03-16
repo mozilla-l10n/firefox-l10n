@@ -564,8 +564,8 @@
 <!ENTITY syncTabsMenu3.label "Schede sincronizzate">
 <!ENTITY syncedTabs.sidebar.label "Schede sincronizzate">
 <!ENTITY syncedTabs.sidebar.fetching.label "Caricamento schede sincronizzate…">
-<!ENTITY syncedTabs.sidebar.noclients.label "Accedi a Firefox in un altro dispositivo per visualizzarne le schede in questa sezione.">
-<!ENTITY syncedTabs.sidebar.notsignedin.label "Accedi per visualizzare un elenco di tutte le schede aperte in altri dispositivi.">
+<!ENTITY syncedTabs.sidebar.noclients.label "Accedi a Firefox con altri dispositivi per visualizzarne le schede aperte.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label "Accedi per visualizzare un elenco delle schede aperte in altri dispositivi.">
 <!ENTITY syncedTabs.sidebar.notabs.label "Nessuna scheda aperta">
 <!ENTITY syncedTabs.sidebar.openprefs.label "Apri le impostazioni di &syncBrand.shortName.label;">
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Attiva la sincronizzazione delle schede per visualizzare un elenco di tutte le schede disponibili negli altri dispositivi.">

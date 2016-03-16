@@ -44,6 +44,6 @@
 <!ENTITY inspectorShowDOMProperties.label "Visualizza proprietà DOM">
 <!ENTITY inspectorUseInConsole.label "Utilizza in Console">
 <!ENTITY inspectorExpandNode.label "Espandi tutto">
-<!ENTITY inspectorCollapseNode.label "Comprimi">
+<!ENTITY inspectorCollapseNode.label "Contrai">
 <!ENTITY inspectorScreenshotNode.label "Salva una schermata del nodo">
 <!ENTITY inspectorDuplicateNode.label "Duplica nodo">

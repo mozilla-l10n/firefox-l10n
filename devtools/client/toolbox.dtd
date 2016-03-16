@@ -78,6 +78,6 @@
 <!ENTITY options.sourceeditor.expandtab.tooltip "Utilizza spazi vuoti al posto del carattere di tabulazione">
 <!ENTITY options.sourceeditor.tabsize.label "Dimensione tabulazione">
 <!ENTITY options.sourceeditor.tabsize.accesskey "D">
-<!ENTITY options.sourceeditor.keybinding.label "Tasti di scelta rapida">
-<!ENTITY options.sourceeditor.keybinding.accesskey "T">
+<!ENTITY options.sourceeditor.keybinding.label "Scorciatoie da tastiera">
+<!ENTITY options.sourceeditor.keybinding.accesskey "t">
 <!ENTITY options.sourceeditor.keybinding.default.label "Predefinito">
