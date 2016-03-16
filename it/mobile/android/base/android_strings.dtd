@@ -415,8 +415,8 @@
 <!ENTITY searchable_description "Segnalibri e cronologia">
 <!ENTITY updater_start_title2 "Aggiornamento disponibile per &brandShortName;">
 <!ENTITY updater_start_select2 "Tocca per scaricare">
-<!ENTITY updater_permission_text "Per scaricare file e aggiornamenti &brandShortName; ha bisogno dell’autorizzazione per accedere allo spazio di archiviazione.">
-<!ENTITY updater_permission_allow "Autorizza">
+<!ENTITY updater_permission_text "Per scaricare file e aggiornamenti &brandShortName; ha bisogno dei permessi per accedere allo spazio di archiviazione.">
+<!ENTITY updater_permission_allow "Consenti">
 <!ENTITY updater_downloading_title2 "Download di &brandShortName; in corso">
 <!ENTITY updater_downloading_title_failed2 "Download non riuscito">
 <!ENTITY updater_downloading_select2 "Tocca per installare a download completato.">
