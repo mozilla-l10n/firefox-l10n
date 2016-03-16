@@ -20,7 +20,7 @@
 <!ENTITY sync.customServer "Utilizza server personalizzato">
 <!ENTITY sync.serverURL "Indirizzo del server">
 <!ENTITY sync.setup.connect "Connetti">
-<!ENTITY sync.setup.cancel "Annulla ">
+<!ENTITY sync.setup.cancel "Annulla">
 <!ENTITY sync.setup.tutorial "Mostra come">
 <!ENTITY sync.setup.waiting2 "In attesa di altri dispositivi…">
 <!ENTITY sync.pair.title "Collega dispositivo">
