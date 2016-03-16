@@ -129,12 +129,12 @@
 <!ENTITY device_typestring "stringa">
 <!ENTITY device_typeobject "oggetto">
 <!ENTITY device_typenone "Seleziona un tipo">
-<!ENTITY devicepreference_title "Preferenze del dispositivo">
+<!ENTITY devicepreference_title "Preferenze dispositivo">
 <!ENTITY devicepreference_search "Cerca preferenza">
 <!ENTITY devicepreference_newname "Nome nuova preferenza">
 <!ENTITY devicepreference_newtext "Valore preferenza">
 <!ENTITY devicepreference_addnew "Aggiungi nuova preferenza">
-<!ENTITY devicesetting_title "Impostazioni del dispositivo">
+<!ENTITY devicesetting_title "Impostazioni dispositivo">
 <!ENTITY devicesetting_search "Cerca impostazione">
 <!ENTITY devicesetting_newname "Nome nuova impostazione">
 <!ENTITY devicesetting_newtext "Valore impostazione">
