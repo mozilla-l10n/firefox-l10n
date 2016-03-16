@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "с">
 <!ENTITY shareVideo.label "Бұл видеомен бөлісу">
 <!ENTITY shareVideo.accesskey "с">
-
-
+<!ENTITY feedsMenu2.label "Бұл параққа жазылу">
+<!ENTITY subscribeToPageMenupopup.label "Бұл параққа жазылу">
 <!ENTITY subscribeToPageMenuitem.label "Жаңалықтар таспаларына жазылу…">
 <!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY showAllBookmarks2.label "Барлық бетбелгілерді көрсету">
@@ -409,18 +409,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Көмек мәзірін ашу">
 
 <!ENTITY appMenuRemoteTabs.label "Синхрондалған беттер">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Синхрондалған беттерді алу…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Ашық беттер жоқ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Басқа құрылғыларыңыздан беттер тізімдерін көру үшін беттерді синхрондауды іске қосыңыз.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Firefox-қа басқа құрылғыларда кіріңіз, одан кейін олардың беттерін осында көре аласыз.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Синхрондау баптаулары">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.">
 <!ENTITY appMenuRemoteTabs.signin.label "Синхрондау ішіне кіру">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Синхрондалған беттер бүйір панелін қарау">
 
 <!ENTITY customizeMenu.addToToolbar.label "Саймандар панеліне қосу">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
@@ -790,17 +793,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Синхрондалған беттер">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Синхрондалған беттер">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Синхрондалған беттерді алу…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Firefox-қа басқа құрылғыларда кіріңіз, одан кейін олардың беттерін осында көре аласыз.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Ашық беттер жоқ">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; баптауларын ашу">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Басқа құрылғыларыңыздан беттер тізімдерін көру үшін беттерді синхрондауды іске қосыңыз.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Бұл бетті ашу">
+<!ENTITY syncedTabs.context.openTab.accesskey               "а">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Бұл бетті бетбелгілерге қосу…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "с">
 
 
 <!ENTITY syncBrand.shortName.label    "Синхрондау">
