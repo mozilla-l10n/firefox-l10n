@@ -126,7 +126,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha bloccato il caricamento della pagina con questa modalità in quanto include dei criteri sulla sicurezza dei contenuti che lo impediscono.</p>">
 <!ENTITY corruptedContentError.title "Errore: contenuto corrotto">
 <!ENTITY corruptedContentError.longDesc "<p>Il contenuto che si sta cercando di visualizzare non può essere mostrato a causa di un errore di trasmissione dati.</p><ul><li>Contattare i proprietari per informarli del problema.</li></ul>">
-<!ENTITY securityOverride.linkText "Oppure è possibile aggiungere un'eccezione">
+<!ENTITY securityOverride.linkText "Oppure è possibile aggiungere un'eccezione…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Allontanarsi da questo sito">
 <!ENTITY securityOverride.exceptionButtonLabel "Aggiungi eccezione…">
 <!ENTITY securityOverride.warningContent "
