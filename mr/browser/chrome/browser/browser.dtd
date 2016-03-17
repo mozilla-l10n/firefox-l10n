@@ -421,7 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.label "तुमच्या इतर उपकरणांवरील टॅब्स येथे पाहण्यासाठी Firefox मध्ये साइन इन करा.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ताळमेळ प्राधान्यता">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "तुमच्या इतर उपकरणांवरील टॅब्सची यादी पाहण्यासाठी साइन इन करा.">
 <!ENTITY appMenuRemoteTabs.signin.label "सींक करणयासाठी साइन इन करा">
 
 
