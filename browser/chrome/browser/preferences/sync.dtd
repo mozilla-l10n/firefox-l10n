@@ -6,7 +6,7 @@
 <!ENTITY setupButton.accesskey "C">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; consente l’accesso alla cronologia, ai segnalibri, alle password e alle schede aperte da tutti i propri dispositivi.">
 <!ENTITY updatePass.label "Aggiorna">
-<!ENTITY resetPass.label "Azzera">
+<!ENTITY resetPass.label "Reimposta">
 <!ENTITY manageAccount.label "Gestione account">
 <!ENTITY manageAccount.accesskey "a">
 <!ENTITY changePassword2.label "Cambia la password…">
