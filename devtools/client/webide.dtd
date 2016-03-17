@@ -78,7 +78,7 @@
 <!ENTITY details_warning_header "avvisi">
 <!ENTITY details_error_header "errori">
 <!ENTITY details_description "Descrizione">
-<!ENTITY details_location "Posizione">
+<!ENTITY details_location "Indirizzo">
 <!ENTITY details_manifestURL "ID app">
 <!ENTITY details_removeProject_button "Rimuovi progetto">
 <!ENTITY details_showPrepackageLog_button "Visualizza registro pre-packaging">
