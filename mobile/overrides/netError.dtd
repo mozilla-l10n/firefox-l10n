@@ -33,9 +33,9 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Arquivo não encontrado">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Verifique se o nome do arquivo possui erros de digitação, como uma letra maiúscula em vez de minúscula.</li> 
-<li>Verifique se o arquivo foi movido, renomeado ou excluído.</li> 
+<!ENTITY fileNotFound.longDesc "<ul>
+  <li>Verifique se o nome do arquivo possui letras maiúsculas ou erros de digitação.</li>
+  <li>Verifique se o arquivo foi movido, renomeado ou excluído.</li>
 </ul>">
 
 
