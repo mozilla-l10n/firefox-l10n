@@ -12,7 +12,7 @@
 <!ENTITY changePassword2.label "Cambia la password…">
 <!ENTITY myRecoveryKey.label "Chiave di ripristino">
 <!ENTITY resetSync2.label "Ripristina Sync…">
-<!ENTITY pairDevice.label "Collega un dispositivo">
+<!ENTITY pairDevice.label "Collega dispositivo">
 <!ENTITY syncMy.label "Sincronizza">
 <!ENTITY engine.bookmarks.label "Segnalibri">
 <!ENTITY engine.bookmarks.accesskey "e">
