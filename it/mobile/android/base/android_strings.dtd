@@ -289,7 +289,7 @@
 <!ENTITY media_stop "Interrompi">
 <!ENTITY contextmenu_open_new_tab "Apri in nuova scheda">
 <!ENTITY contextmenu_open_private_tab "Apri in scheda anonima">
-<!ENTITY contextmenu_remove "Elimina">
+<!ENTITY contextmenu_remove "Rimuovi">
 <!ENTITY contextmenu_add_to_launcher "Agg. a schermata principale">
 <!ENTITY contextmenu_share "Condividi">
 <!ENTITY contextmenu_pasteandgo "Incolla e vai">
