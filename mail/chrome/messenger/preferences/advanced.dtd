@@ -52,19 +52,19 @@
 <!ENTITY crashReporterLearnMore.label    "Več o tem">
 
 <!-- Update -->
-<!ENTITY updateApp.label                 "Posodobitve za &brandShortName;:">
-<!ENTITY updateAuto.label                "Samodejno namesti posodobitve (priporočeno: izboljšana varnost)">
+<!ENTITY updateApp.label                 "Posodobitve &brandShortName;a:">
+<!ENTITY updateAuto.label                "Samodejno nameščaj posodobitve (priporočeno za večjo varnost)">
 <!ENTITY updateAuto.accesskey            "S">
-<!ENTITY updateCheck.label               "Preveri za posodobitve, toda naj sam izberem ali naj se namestijo">
+<!ENTITY updateCheck.label               "Preverjaj posodobitve, vendar mi prepusti odločitev o nameščanju">
 <!ENTITY updateCheck.accesskey           "P">
-<!ENTITY updateManual.label              "Nikoli ne preveri za posodobitve (ni priporočljivo: varnostno tveganje)">
+<!ENTITY updateManual.label              "Nikoli ne preverjaj posodobitev (ni priporočeno zaradi varnosti)">
 <!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateAutoAddonWarn.label       "Opozori me, če bo to onemogočilo razširitve in teme">
 <!ENTITY updateAutoAddonWarn.accesskey   "O">
 <!ENTITY updateHistory.label             "Pokaži zgodovino posodobitev">
 <!ENTITY updateHistory.accesskey         "o">
 
-<!ENTITY useService.label                "Za nameščanje posodobitev uporabljaj storitev v ozadju">
+<!ENTITY useService.label                "Uporabi storitev za nameščanje posodobitev v ozadju">
 <!ENTITY useService.accesskey            "Z">
 
 <!-- Networking and Disk Space -->

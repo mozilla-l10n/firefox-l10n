@@ -88,7 +88,7 @@
 <!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "v">
-<!ENTITY findBarCmd.label "Najdi ...">
+<!ENTITY findBarCmd.label "Najdi …">
 <!ENTITY findBarCmd.accesskey "N">
 <!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Najdi in zamenjaj …">
@@ -307,5 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Stiki">
 
 <!-- Identity popup customize menuitem -->
-<!ENTITY customizeFromAddress.label "Prilagodi naslov pošiljatelja ...">
+<!ENTITY customizeFromAddress.label "Prilagodi naslov pošiljatelja …">
 <!ENTITY customizeFromAddress.accesskey "P">
