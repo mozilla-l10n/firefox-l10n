@@ -237,7 +237,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "Dvotedensko">
 <!ENTITY event.repeat.monthly.label                     "Mesečno">
 <!ENTITY event.repeat.yearly.label                      "Letno">
-<!ENTITY event.repeat.custom.label                      "Po meri ...">
+<!ENTITY event.repeat.custom.label                      "Po meri …">
 
 <!ENTITY event.recurrence.pattern.label                 "Vzorec ponavljanja">
 <!ENTITY event.recurrence.occurs.label                  "Ponovi" >

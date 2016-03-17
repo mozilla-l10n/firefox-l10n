@@ -269,7 +269,7 @@
 <!ENTITY calendar.context.convertmenu.label              "Pretvori v">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "r">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "r">
-<!ENTITY calendar.context.convertmenu.event.label        "Dogodek ...">
+<!ENTITY calendar.context.convertmenu.event.label        "Dogodek …">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "D">
 <!ENTITY calendar.context.convertmenu.message.label      "Sporočilo">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "S">
