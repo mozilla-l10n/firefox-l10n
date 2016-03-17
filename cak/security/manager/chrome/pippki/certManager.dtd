@@ -50,8 +50,8 @@
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Titz'et…">
 <!ENTITY certmgr.view2.accesskey              "T">
-
-
+<!ENTITY certmgr.edit3.label                  "Tinuk' kuqub'äl k'u'x…">
+<!ENTITY certmgr.edit3.accesskey              "T">
 <!ENTITY certmgr.export.label                 "Tik'wäx el…">
 <!ENTITY certmgr.export.accesskey             "k">
 
@@ -62,8 +62,8 @@
 <!ENTITY certmgr.backup2.accesskey            "T">
 <!ENTITY certmgr.backupall2.label             "Ti/wachib'ëx ronojel…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
-
-
+<!ENTITY certmgr.restore2.label               "Tijik' pe…">
+<!ENTITY certmgr.restore2.accesskey           "i">
 <!ENTITY certmgr.details.label                "Taq ruk'ojlib'al ruwujil b'i'aj">
 <!ENTITY certmgr.details.accesskey            "r">
 <!ENTITY certmgr.fields.label                 "Rejqalem k'ojlib'äl">
