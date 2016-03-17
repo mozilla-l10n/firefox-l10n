@@ -150,7 +150,7 @@
 <!ENTITY logs_title "Registro comandi pre-packaging">
 <!ENTITY simulator_title "Opzioni simulatore">
 <!ENTITY simulator_remove "Elimina simulatore">
-<!ENTITY simulator_reset "Ripristina simulatore">
+<!ENTITY simulator_reset "Ripristina predefiniti">
 <!ENTITY simulator_name "Nome">
 <!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "Versione">
