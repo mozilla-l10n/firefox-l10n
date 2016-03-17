@@ -9,5 +9,5 @@
 <!ENTITY bccAddr.label  "Skp:"> 
 <!ENTITY replyAddr.label   "Odgovori za:"> 
 <!ENTITY newsgroupsAddr.label   "Novičarska skupina:"> 
-<!ENTITY followupAddr.label   "Nadalje odgovori za:"> 
+<!ENTITY followupAddr.label   "Nadaljuj za:"> 
 

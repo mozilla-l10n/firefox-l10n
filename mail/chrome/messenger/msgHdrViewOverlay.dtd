@@ -12,7 +12,7 @@
 <!ENTITY ccField4.label "Kp">
 <!ENTITY bccField4.label "Skp">
 <!ENTITY newsgroupsField4.label "Novičarske skupine">
-<!ENTITY followupToField4.label "Nadalje odgovori za">
+<!ENTITY followupToField4.label "Nadaljuj za">
 <!ENTITY tagsHdr4.label "Oznake">
 <!ENTITY dateField4.label "Datum">
 <!ENTITY userAgentField4.label "Uporabniški posrednik">
@@ -30,8 +30,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Odgovori pošiljatelju in vsem prejemnikom">
 <!ENTITY hdrReplyListButton1.label "Odgovori seznamu">
 <!ENTITY hdrReplyListButton1.tooltip "Odgovori dopisnemu seznamu">
-<!ENTITY hdrFollowupButton1.label "Nadalje odgovori">
-<!ENTITY hdrFollowupButton1.tooltip "Objavi nadaljnji odgovor za to novičarsko skupino">
+<!ENTITY hdrFollowupButton1.label "Nadaljuj">
+<!ENTITY hdrFollowupButton1.tooltip "Objavi nadaljevanje za to novičarsko skupino">
 <!ENTITY hdrMenuForwardButton.label "Posreduj kot">
 <!ENTITY hdrForwardButton1.label "Posreduj">
 <!ENTITY hdrForwardButton1.tooltip "Posreduj to sporočilo">
