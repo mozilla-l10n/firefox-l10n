@@ -18,7 +18,7 @@
 <!ENTITY dnsNotFound.longDesc4 "<ul><li>Upewnij się, że wprowadzony adres nie zawiera takich literówek, jak <strong>ww</strong>.mozilla.org zamiast <strong>www</strong>.mozilla.org</li><div id='searchbox'><input id='searchtext' type='search'></input> <button id='searchbutton'>Wyszukaj</button></div><li>Jeśli nie możesz otworzyć żadnej strony, sprawdź połączenie sieciowe. <button id='wifi'>Włącz Wi-Fi</button></li></ul>">
 
 <!ENTITY fileNotFound.title "Nie odnaleziono pliku">
-<!ENTITY fileNotFound.longDesc "<ul><li>Sprawdź wielkość liter oraz upewnić się, że nazwa pliku nie zawiera literówek lub innych błędów w pisowni.</li><li>Sprawdź, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Sprawdź wielkość liter oraz upewnij się, że nazwa pliku nie zawiera literówek lub innych błędów w pisowni.</li><li>Sprawdź, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li></ul>">
 
 <!ENTITY generic.title "Wystąpił błąd">
 <!ENTITY generic.longDesc "<p>&brandShortName; nie jest w stanie otworzyć tej strony.</p>">
