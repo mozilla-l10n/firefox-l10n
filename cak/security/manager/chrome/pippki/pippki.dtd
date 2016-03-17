@@ -42,6 +42,8 @@
 <!ENTITY chooseToken.title  "Rutzijonem rucha'oj wachinäq">
 <!ENTITY chooseToken.message1 "Tacha' jun wachinäq.">
 <!-- Strings for the CreateCertInfo dialog  -->
+
+<!ENTITY createCertInfo.title "Tajin nitz'uk jun ichinan ewan tzij">
 <!ENTITY createCertInfo.msg1 "Rutz'ukik ewan tzij nitajin… Re re' xtuk'waj ka'i' oxi ch'utiramaj….">
 <!ENTITY createCertInfo.msg2 "Tawoyob'ej…">
 <!-- Strings for protectedAuth dialog -->
