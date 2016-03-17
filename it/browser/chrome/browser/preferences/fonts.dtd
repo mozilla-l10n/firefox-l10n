@@ -16,7 +16,7 @@
 <!ENTITY sans-serif.accesskey "S">
 <!ENTITY monospace.label "Larghezza fissa:">
 <!ENTITY monospace.accesskey "L">
-<!ENTITY font.langGroup.latin "Latino (occidentale)">
+<!ENTITY font.langGroup.latin "Latino">
 <!ENTITY font.langGroup.japanese "Giapponese">
 <!ENTITY font.langGroup.trad-chinese "Cinese tradizionale (Taiwan)">
 <!ENTITY font.langGroup.simpl-chinese "Cinese semplificato">
