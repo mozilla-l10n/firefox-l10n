@@ -218,7 +218,7 @@
 <!ENTITY pref_dialog_default "Predefinito">
 <!ENTITY pref_dialog_remove "Rimuovi">
 <!ENTITY pref_search_last_toast "Non è possibile rimuovere o disattivare l’ultimo motore di ricerca.">
-<!ENTITY pref_panels_show "Visualizza">
+<!ENTITY pref_panels_show "Mostra">
 <!ENTITY pref_panels_hide "Nascondi">
 <!ENTITY pref_panels_reorder "Modifica ordine">
 <!ENTITY pref_panels_move_up "Sposta in alto">
