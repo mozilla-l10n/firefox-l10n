@@ -516,7 +516,7 @@ size. -->
 <!ENTITY button_clear "ล้าง">
 <!ENTITY button_copy "คัดลอก">
 
-<!ENTITY home_top_sites_title "ไซต์ยอดนิยม">
+<!ENTITY home_top_sites_title "ไซต์เด่น">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "เพิ่มไซต์">
