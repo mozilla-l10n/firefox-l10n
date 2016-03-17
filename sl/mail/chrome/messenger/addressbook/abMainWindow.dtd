@@ -139,7 +139,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Neposredno sporočilo">
 <!ENTITY newIM.accesskey                                "N">
-<!ENTITY printButton.label                              "Natisni ...">
+<!ENTITY printButton.label                              "Natisni …">
 <!ENTITY printButton.accesskey                          "a">
 <!ENTITY deleteButton2.label                            "Izbriši">
 <!ENTITY deleteButton2.accesskey                        "b">

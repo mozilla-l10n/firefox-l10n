@@ -20,5 +20,5 @@
 <!ENTITY cmd.clearList.label                       "Počisti seznam">
 <!ENTITY cmd.clearList.accesskey                   "P">
 <!ENTITY cmd.clearList.tooltip                     "Odstrani vse vnose s seznama shranjenih datotek razen prenosov v teku.">
-<!ENTITY cmd.searchDownloads.label                 "Išči ...">
+<!ENTITY cmd.searchDownloads.label                 "Išči …">
 <!ENTITY cmd.searchDownloads.key                   "š">

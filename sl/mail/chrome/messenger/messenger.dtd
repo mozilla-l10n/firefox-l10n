@@ -569,17 +569,17 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Prikaži oddaljeno vsebino tega sporočila">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "P">
-<!ENTITY editRemoteContentSettings.label "Uredi možnosti oddaljene vsebine ...">
+<!ENTITY editRemoteContentSettings.label "Uredi možnosti oddaljene vsebine …">
 <!ENTITY editRemoteContentSettings.accesskey "U">
-<!ENTITY editRemoteContentSettingsUnix.label "Uredi nastavitve oddaljene vsebine ...">
+<!ENTITY editRemoteContentSettingsUnix.label "Uredi nastavitve oddaljene vsebine …">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "U">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Prezri opozorilo za to sporočilo">
 <!ENTITY phishingOptionIgnore.accesskey "P">
-<!ENTITY phishingOptionSettings.label "Uredi možnosti odkrivanja prevar ...">
+<!ENTITY phishingOptionSettings.label "Uredi možnosti odkrivanja prevar …">
 <!ENTITY phishingOptionSettings.accesskey "U">
-<!ENTITY phishingOptionSettingsUnix.label "Uredi nastavitve odkrivanja prevar ...">
+<!ENTITY phishingOptionSettingsUnix.label "Uredi nastavitve odkrivanja prevar …">
 <!ENTITY phishingOptionSettingsUnix.accesskey "U">
 
 <!-- AppMenu Popup -->
@@ -912,4 +912,4 @@
 <!ENTITY showAllAppsCmdMac.label        "Pokaži vse">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "Možnosti ikone programa ...">
+<!ENTITY dockOptions.label              "Možnosti ikone programa …">
