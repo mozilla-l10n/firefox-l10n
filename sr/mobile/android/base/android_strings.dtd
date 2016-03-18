@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "Дошло је до грешке приликом покушаја учитавања датотеке потребне за покретање &brandShortName;">
 
 <!ENTITY firstrun_panel_title_welcome "Добродошли">
-<!ENTITY  onboard_start_message3 "Прегледавајте са &brandShortName;!">
+<!ENTITY  onboard_start_message3 "Сурфујте са &brandShortName;!">
 <!ENTITY  onboard_start_subtext3 "Учините искуство мобилног прегледања вашим.">
 
 <!ENTITY firstrun_urlbar_message "Добродошли на &brandShortName;">
@@ -31,7 +31,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Забелешке">
-<!ENTITY  history_title "Историја">
+<!ENTITY  history_title "Историјат">
 <!ENTITY  reading_list_title "Листа за читање">
 <!ENTITY  recent_tabs_title "Недавни језичци">
 
@@ -159,7 +159,7 @@
 <!ENTITY pref_category_datareporting "Избори података">
 <!ENTITY pref_learn_more "Сазнајте више">
 <!ENTITY pref_category_installed_search_engines "Инсталирани претраживачи">
-<!ENTITY pref_category_add_search_providers "Додај још претраживача">
+<!ENTITY pref_category_add_search_providers "Додај претраживач">
 <!ENTITY pref_category_search_restore_defaults "Обнови претраживаче">
 <!ENTITY pref_search_restore_defaults "Врати на подразумевано">
 <!ENTITY pref_search_restore_defaults_summary "Врати на подразумевано">
@@ -192,7 +192,7 @@
 <!ENTITY pref_home_updates_enabled "Омогућено">
 <!ENTITY pref_home_updates_wifi "Само преко Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Предлози сајта">
-<!ENTITY pref_home_suggested_sites_summary "На почетној страници приказује пречице оних сајтова за које мислимо да ће бити интересантни">
+<!ENTITY pref_home_suggested_sites_summary "На почетној страници приказују се пречице сајтова за које сматрамо да ће вам бити занимљиви">
 <!ENTITY pref_category_home_homepage "Почетна страница">
 <!ENTITY home_homepage_title "Постави као почетну страницу">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -308,9 +308,9 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Брза наранџаста лисица надмашује ваша очекивања са више брзине, више флексибилности и више сигурности. Као непрофитни, ми смо слободни да иновирамо у ваше име без икаквог притиска на компромис. Самим тим имате бољи доживљај и обезбеђујемо светлију будућност за веб.">
 
-<!ENTITY pref_media_autoplay_enabled "Аутоматска репродукцију">
-<!ENTITY pref_media_autoplay_enabled_summary "Контролишите да ли веб сајтови могу да аутоматски репродукују видео или други медија садржај">
-<!ENTITY pref_zoom_force_enabled "Увек укључи увеличавање">
+<!ENTITY pref_media_autoplay_enabled "Аутоматска репродукција">
+<!ENTITY pref_media_autoplay_enabled_summary "Контролишите да ли веб сајтови могу да аутоматски репродукују видео или други медијски садржај">
+<!ENTITY pref_zoom_force_enabled "Увек увеличај">
 <!ENTITY pref_zoom_force_enabled_summary "Форсирај могућност увећавања било које странице">
 <!ENTITY pref_voice_input "Говорни унос">
 <!ENTITY pref_voice_input_summary2 "Дозволи гласовно диктирање у URL траци">
@@ -431,7 +431,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Отвори у новом језичку">
 <!ENTITY contextmenu_open_private_tab "Отвори у новом приватном језичку">
 <!ENTITY contextmenu_remove "Уклони">
-<!ENTITY contextmenu_add_to_launcher "Додај на почетни екран">
+<!ENTITY contextmenu_add_to_launcher "Додај на екран телефона">
 <!ENTITY contextmenu_share "Подели">
 <!ENTITY contextmenu_pasteandgo "Налепи и посети">
 <!ENTITY contextmenu_paste "Налепи">
@@ -531,7 +531,7 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; почетна страница">
-<!ENTITY home_history_title "Историја">
+<!ENTITY home_history_title "Историјат">
 <!ENTITY home_clear_history_button "Избриши податке прегледавања">
 <!ENTITY home_clear_history_confirm "Да ли сте сигурни да желите да обришете историјат?">
 <!ENTITY home_bookmarks_empty "Забелешке које сте снимили су приказане овде.">
@@ -667,7 +667,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Да преузмете датотеке и надоградње, дозволите &brandShortName; да приступи складишту.">
+<!ENTITY updater_permission_text "Да преузмете надоградње, дозволите приступ складишту">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Дозволи">
 
@@ -775,7 +775,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY unsupported_sdk_version "Жао нам је! &brandShortName; неће радити на овом уређају (&formatS1;, &formatS2;). Инстралирајте исправну верзију.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; се више неће ажурирати">
-<!ENTITY eol_notification_summary "Притисните да сазнате више">
+<!ENTITY eol_notification_summary "Сазнајте више">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->

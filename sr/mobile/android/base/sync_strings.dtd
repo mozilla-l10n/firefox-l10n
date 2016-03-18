@@ -146,9 +146,9 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Аутоматски синхронизуј податке” у Android поставкама &gt; Налози.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Притисните да се пријавите на Firefox налог.'>
 <!ENTITY fxaccount_status_bookmarks 'Забелешке'>
-<!ENTITY fxaccount_status_history 'Историја'>
+<!ENTITY fxaccount_status_history 'Историјат'>
 <!ENTITY fxaccount_status_passwords2 'Пријаве'>
-<!ENTITY fxaccount_status_tabs 'Отвори језичке'>
+<!ENTITY fxaccount_status_tabs 'Отворене језичке'>
 <!ENTITY fxaccount_status_legal 'Права' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
