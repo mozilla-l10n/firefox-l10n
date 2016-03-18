@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Sjoch resultaten út jo blêdwizers en skiednis wylst it sykjen.">
 <!ENTITY firstrun_data_title "Gegevens">
 <!ENTITY firstrun_data_message "Minder gegevens, mear besparje">
-<!ENTITY firstrun_data_subtext "Blokkear ôfbyldingen foar minder gegevensferkear by eltse besochte website.">
+<!ENTITY firstrun_data_subtext2 "Set ôfbyldingen út foar minder gegevensferkear by elke besochte website.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, altyd oan jo side">
 <!ENTITY firstrun_sync_subtext "Syngronisearje jo ljepblêden, wachtwurden en mear, oeral wêr\'t jo it brûke.">
@@ -229,6 +229,8 @@
 <!ENTITY pref_tap_to_load_images_enabled "Altyd">
 <!ENTITY pref_tap_to_load_images_data "Allinnich fia wifi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokkearre">
+
+<!ENTITY pref_show_web_fonts "Weblettertypen toane">
 
 <!ENTITY pref_tracking_protection_title "Beskerming tsjin folgjen">
 <!ENTITY pref_tracking_protection_summary3 "Ynskeakele yn Priveenavigaasje">
@@ -467,10 +469,10 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Folsleinskerm browse">
-<!ENTITY pref_scroll_title_bar_summary2 "De &brandShortName;-arkbalke ferstopje wylst it omleech skowen op in side">
+<!ENTITY pref_scroll_title_bar_summary2 "De &brandShortName;-arkbalke ferstopje by it omleech skowen op in side">
 
-<!ENTITY pref_tab_queue_title2 "Mear keppelingen iepenje">
-<!ENTITY pref_tab_queue_summary3 "Bewarje se foar de folgjende kear as jo &brandShortName; iepenje">
+<!ENTITY pref_tab_queue_title3 "Ljepblêdwachtrige">
+<!ENTITY pref_tab_queue_summary4 "Keppelingen bewarje foar de folgjende kear dat jo &brandShortName; iepenje">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -548,9 +550,9 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Gjin ynhâld foar dit paniel fûn.">
 
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_move_back_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_up_to_filter "Omheech nei &formatS;">
+<!ENTITY home_move_back_to_filter "Tebek nei &formatS;">
 
 <!ENTITY home_remote_tabs_title "Syngronisearre ljepblêden">
 <!ENTITY home_remote_tabs_empty "Jo ljepblêden fan oare apparaten komme hjir.">
@@ -648,8 +650,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "Sykje by &formatS1; nei &formatS2;">
 
-<!ENTITY webapp_generic_name "App">
-
 <!ENTITY searchable_description "Blêdwizers en skiednis">
 
 <!-- Updater notifications -->
@@ -677,7 +677,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Trochgean">
 <!ENTITY guest_session_dialog_cancel "Annulearje">
 <!ENTITY new_guest_session_title "&brandShortName; sil no opnij starte">
-<!ENTITY new_guest_session_text2 "De persoan dy’t dit brûkt sil jo persoanlike navigaasjegegevens (lykas bewarre oanmeldingen, skiednis of blêdwizers) net sjen kinne.\n\nSa gau jo gast klear is, wurden syn of har navigaasjegegevens fuortsmiten en wurdt jo sesje wersteld.">
+<!ENTITY new_guest_session_text2 "De persoan dy’t dit brûkt, sil jo persoanlike navigaasjegegevens (lykas bewarre oanmeldingen, skiednis of blêdwizers) net sjen kinne.\n\nSa gau jo gast klear is, wurden syn of har navigaasjegegevens fuortsmiten en wurdt jo sesje wersteld.">
 <!ENTITY guest_browsing_notification_title "Gastbrowsen is ynskeakele">
 <!ENTITY guest_browsing_notification_text "Tik om ôf te sluten">
 
@@ -717,11 +717,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "Lêst syngronisearre: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Lêst syngronisearre: noait">
-
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-<!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Kin keppeling net iepenje">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -779,5 +774,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Sorry! Dizze &brandShortName; wurket net op dit apparaat (&formatS1;, &formatS2;). Download de krekte ferzje.">
 
-<!ENTITY eol_notification_title "&brandShortName; stipet gjin Android 3 mear">
+<!ENTITY eol_notification_title2 "&brandShortName; wurdt net mear bywurke">
 <!ENTITY eol_notification_summary "Tik foar mear ynfo">
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; is by-de-tiid">
+<!ENTITY whatsnew_notification_summary "Untdek wat nij is yn dizze ferzje">
