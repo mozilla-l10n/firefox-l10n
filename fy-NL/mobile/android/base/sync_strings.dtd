@@ -10,6 +10,12 @@
 <!-- Main titles. -->
 <!ENTITY sync.title.connect.label 'Ferbine mei &syncBrand.shortName.label;'>
 
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Selektearje ‘&syncBrand.shortName.label; ynstelle’ op jo nije apparaat om it te aktivearjen.'>
+<!ENTITY sync.subtitle.pair.label 'Selektearje ‘In apparaat keppelje’ op jo oare apparaat om it te aktivearjen.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.link.nodevice.label 'Ik haw it apparaat net by my…'>
+
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'Oanmeldingen'>
 <!ENTITY sync.configure.engines.title.history 'Skiednis'>
