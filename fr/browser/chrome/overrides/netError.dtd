@@ -70,7 +70,7 @@
 <!ENTITY contentEncodingError.title "Erreur d’encodage de contenu">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Veuillez contacter les propriétaires du site pour les informer de ce problème.</li>
+  <li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li>
 </ul>
 ">
 

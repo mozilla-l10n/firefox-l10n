@@ -108,9 +108,9 @@
 <!ENTITY proxyResolveFailure.title "Le serveur proxy est introuvable">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Assurez-vous que les paramètres pour le proxy sont corrects.</li>
-  <li>Assurez-vous que l’ordinateur a une connexion au réseau qui fonctionne.</li>
-  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que &brandShortName; est autorisé à accéder au Web.</li>
+  <li>Vérifiez que les paramètres du proxy sont corrects&#x00A0;;</li>
+  <li>Vérifiez que la connexion réseau de votre ordinateur fonctionne&#x00A0;;</li>
+  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que &brandShortName; a l’autorisation d’accéder au Web.</li>
 </ul>
 ">
 
@@ -182,7 +182,7 @@ Vous pouvez également utiliser la commande dans le menu d’aide pour signaler 
 ">
 
 <!ENTITY cspBlocked.title "Bloqué par une stratégie de sécurité de contenu">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car la page a une stratégie de sécurité de contenu qui ne le permet pas.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car sa stratégie de sécurité de contenu ne le permet pas.</p>">
 
 <!ENTITY corruptedContentError.title "Erreur due à un contenu corrompu">
 <!ENTITY corruptedContentError.longDesc "<p>La page que vous essayez de voir ne peut pas être affichée car une erreur dans la transmission de données a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">

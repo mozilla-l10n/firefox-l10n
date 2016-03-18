@@ -98,7 +98,7 @@
 <!ENTITY event.menu.view.toolbars.accesskey "t">
 <!ENTITY event.menu.view.toolbars.event.label "Barre d’outils des évènements">
 <!ENTITY event.menu.view.toolbars.event.accesskey "B">
-<!ENTITY event.menu.view.toolbars.customize.label "Personnaliser">
+<!ENTITY event.menu.view.toolbars.customize.label "Personnaliser…">
 <!ENTITY event.menu.view.toolbars.customize.accesskey "P">
 <!ENTITY event.menu.view.showlink.label "Afficher le lien">
 <!ENTITY event.menu.view.showlink.accesskey "c">

@@ -10,5 +10,5 @@
 <!ENTITY identityListDesc.label "Configurer les paramètres pour cette identité :">
 
 <!ENTITY settingsTab.label      "Paramètres">
-<!ENTITY copiesFoldersTab.label "Copies &amp; Dossiers">
-<!ENTITY addressingTab.label    "Rédaction &amp; adressage">
+<!ENTITY copiesFoldersTab.label "Copies et dossiers">
+<!ENTITY addressingTab.label    "Rédaction et adressage">

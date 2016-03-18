@@ -10,7 +10,7 @@
 
 <!ENTITY searchTermCaption.label "Configurer les critères de recherche utilisés pour ce dossier virtuel : ">
 
-<!ENTITY folderSelectionCaption.label "Choisir les dossiers dans lesquels chercher :">
+<!ENTITY folderSelectionCaption.label "Choisir les dossiers dans lesquels rechercher :">
 <!ENTITY chooseFoldersButton.label "Choisir…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
