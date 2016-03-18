@@ -99,7 +99,7 @@ values from browser.dtd.  -->
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!ENTITY options.disableCache.label2     "Yekisa iKhetshi (xa ithulbhoksi ivuliwe)">
-
+<!ENTITY options.disableCache.tooltip2   "Ukujija olu khetho  kuya kuyenza ingasebenzi ikhetshi kuzo zonke iithebhu ezinethulbhoksi evuliweyo">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
@@ -130,7 +130,7 @@ values from browser.dtd.  -->
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
 <!ENTITY options.usedeveditiontheme.label   "Sebenzisa umxholo webhrawza woHlelo Lomphuhlisi">
-
+<!ENTITY options.usedeveditiontheme.tooltip "Sebenzisa umxholo webhrawza woHlelo Lomphuhlisi.">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
