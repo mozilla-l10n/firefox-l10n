@@ -8,14 +8,15 @@
 <!ENTITY certmgr.tab.ca                       "K'amöl taq b'ey">
 
 
+<!ENTITY certmgr.mine                         "E k'o taq ruwujil kib'i' re taq moloj re', ri nikiya' awetal:">
 
 
 <!ENTITY certmgr.cas                          "K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re taqanel taq ya'öl ruwujil b'i'aj:">
 <!ENTITY certmgr.orphans                      "K'o taq ruwujil ab'i' pa ri yakb'äl, ri man nikik'äm ta ki' pa nijun chi ke ri ch'aqa' chik taq ruwäch:">
 
 
-
-
+<!ENTITY certmgr.detail.prettyprint_tab.title "Taq kib'anikil">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "T">
 
 
 
@@ -31,7 +32,7 @@
 
 <!ENTITY certmgr.editcacert.title             "Tinuk' runuk'ulem qukub'äl k'u'x richin CA">
 <!ENTITY certmgr.editcert.edittrust           "Kenuk' taq kuqub'äl taq nuk'ulem:">
-
+<!ENTITY certmgr.editcert.trustssl            "Re ruwujil b'i'aj re' nitikïr yerutz'ët ruxaq k'amaya'l.">
 
 <!ENTITY certmgr.editcert.trustobjsign        "Re ruwujil b'i'aj re' nitikïr yerutz'ët taq ajb'anöy kema'.">
 
@@ -44,7 +45,7 @@
 
 <!ENTITY certmgr.expires                      "Nik'is ruq'ijul pa">
 <!ENTITY certmgr.email                        "Rochochib'al taqoya'l">
-
+<!ENTITY certmgr.serial                       "Rucholajem rajilab'al">
 
 <!ENTITY certmgr.close.label                  "Elem">
 <!ENTITY certmgr.close.accesskey              "C">

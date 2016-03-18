@@ -13,16 +13,16 @@
 
 <!ENTITY resetPasswordButtonLabel "Titikirisäx chik">
 
-
+<!ENTITY resetPassword.text  "We natzolij ri ajtzij ewan atzij, xkeyujtäj el ri ewan taq tzij richin ajk'amaya'l chuqa' taqoya'l, ri taq kitzij nojwuj, ichinan ruwujil taq b'i'aj chuqa' ichinan ewan taq tzij. ¿La kan nawajo' natzolij ri ajtij ewan atzij?">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Tajin niqasäx ri ruwujil rub'i'">
 <!ENTITY downloadCert.message1 "Nik'utüx chawe chi ütz tatz'eta' ri k'ak'a' Taq'onel Ya'öl Wujil B'i'aj (TYWB').">
 <!ENTITY downloadCert.trustSSL "Takuqub'a' ak'u'x rik'in re CA richin ye'atz'ët ajk'amaya'l taq ruxaq k'amaya'l.">
-
+<!ENTITY downloadCert.trustEmail "Tijikib'äx pa re jun CA richin niya' ketal taq ruwinaq taqoya'l.">
 <!ENTITY downloadCert.trustObjSign "Takuqub'a' ak'u'x rik'in ri CA richin ye'atz'ët taq ajb'anöy kema'.">
 <!ENTITY downloadCert.message3 "Chuwäch nakuqub'a' ak'u'x chi rij re CA re' richin xab'achike na rayb'äl, k'o chin tinik'öx ri ruwujil rub'i', runa'ojil chuqa' taq rub'eyal CA (we e wachel).">
-
+<!ENTITY downloadCert.viewCert.label "Titz'et">
 <!ENTITY downloadCert.viewCert.text "Tinik'öx ruwujil rub'i' CA">
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.message1 "Re jun ruxaq k'amaya'l re' xuk'utuj pe chi taya' ab'i' rik'in jun ruwujil b'i'aj:">

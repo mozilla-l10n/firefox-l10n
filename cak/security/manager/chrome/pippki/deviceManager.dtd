@@ -11,8 +11,8 @@
 
 <!ENTITY devmgr.button.login.label              "Titikirisäx molojri'ïl">
 <!ENTITY devmgr.button.login.accesskey          "t">
-
-
+<!ENTITY devmgr.button.logout.label             "Tik'isb'ëx molojri'ïl">
+<!ENTITY devmgr.button.logout.accesskey         "T">
 <!ENTITY devmgr.button.changepw.label           "Tijal ewan tzij">
 <!ENTITY devmgr.button.changepw.accesskey       "e">
 <!ENTITY devmgr.button.load.label               "Tisamajib'ëx">
@@ -21,6 +21,7 @@
 <!ENTITY devmgr.button.unload.accesskey         "T">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
+<!ENTITY loaddevice.info                        "Tatz'ib'aj ri etamab'äl richin ri juperaj nawajo' natz'aqatisaj.">
 <!ENTITY loaddevice.modname                     "Rub'i' juperaj:">
 
 <!ENTITY loaddevice.modname.default             "K'ak'a' PKCS#11 Juperaj">
