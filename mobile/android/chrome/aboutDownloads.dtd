@@ -9,7 +9,7 @@
 <!ENTITY aboutDownloads.open                       "เปิด">
 <!ENTITY aboutDownloads.remove                     "ลบ">
 <!ENTITY aboutDownloads.removeAll                  "ลบทั้งหมด">
-<!ENTITY aboutDownloads.pause                      "หยุด">
+<!ENTITY aboutDownloads.pause                      "หยุดชั่วคราว">
 <!ENTITY aboutDownloads.resume                     "ทำต่อ">
 <!ENTITY aboutDownloads.cancel                     "ยกเลิก">
 <!ENTITY aboutDownloads.retry                      "ลองใหม่">

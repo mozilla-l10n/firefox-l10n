@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.connected.title "บัญชี Firefox">
 
-
+<!ENTITY aboutAccounts.syncPreferences.label "แตะที่นี่เพื่อตรวจสอบการตั้งค่า Sync">
 
 <!ENTITY aboutAccounts.noConnection.title "ไม่มีการเชื่อมต่ออินเทอร์เน็ต">
 <!ENTITY aboutAccounts.retry.label "ลองอีกครั้ง">

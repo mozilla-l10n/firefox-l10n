@@ -7,12 +7,12 @@
 
 <!ENTITY newPref.namePlaceholder       "ชื่อ">
 
-<!ENTITY newPref.valueBoolean          "บูลีน">
-<!ENTITY newPref.valueString           "สตริง">
+<!ENTITY newPref.valueBoolean          "ค่าตรรกะ">
+<!ENTITY newPref.valueString           "ข้อความ">
 <!ENTITY newPref.valueInteger          "จำนวนเต็ม">
 
-<!ENTITY newPref.stringPlaceholder     "กรอกสตริง">
-<!ENTITY newPref.numberPlaceholder     "กรอกตัวเลข">
+<!ENTITY newPref.stringPlaceholder     "ป้อนข้อความ">
+<!ENTITY newPref.numberPlaceholder     "ป้อนตัวเลข">
 
 <!ENTITY newPref.toggleButton          "สลับค่า">
 <!ENTITY newPref.cancelButton          "ยกเลิก">
