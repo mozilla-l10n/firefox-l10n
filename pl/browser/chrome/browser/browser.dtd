@@ -707,7 +707,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!ENTITY syncedTabs.context.openTab.label "Otwórz kartę">
 <!ENTITY syncedTabs.context.openTab.accesskey "O">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label "Dodaj zakładkę do karty…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label "Dodaj zakładkę do tej karty…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "D">
 
 <!ENTITY syncBrand.shortName.label "Firefox Sync">
