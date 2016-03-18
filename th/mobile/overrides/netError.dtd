@@ -120,10 +120,10 @@
 <li>อาจเกิดจากการตั้งค่าบนเซิร์ฟเวอร์ที่ไม่ตรงตามมาตรฐาน</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "การเชื่อมต่อนิรภัยล้มเหลว">
+<!ENTITY nssFailure2.title "การเชื่อมต่อแบบปลอดภัยล้มเหลว">
 
 
-<!ENTITY nssBadCert.title "การเชื่อมต่อนิรภัยล้มเหลว">
+<!ENTITY nssBadCert.title "การเชื่อมต่อแบบปลอดภัยล้มเหลว">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>ปัญหาอาจเกิดจากการตั้งค่าของเซิร์ฟเวอร์ หรืออาจมีผู้พยายามปลอมแปลงตัวเป็น
 เซิร์ฟเวอร์</li> 
@@ -163,8 +163,10 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "รีโมท XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งถึงปัญหานี้</li></ul></p>">
 
+<!ENTITY sslv3Used.title "ไม่สามารถเชื่อมต่ออย่างปลอดภัย">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
+<!ENTITY weakCryptoUsed.title "การเชื่อมต่อของคุณไม่ปลอดภัย">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->

@@ -21,4 +21,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "หน้าเว็บ <span id='unwanted_sitename'/> นี้ ถูกรายงานว่ามีซอฟต์แวร์ไม่พึงประสงค์ และถูกปิดกั้นตามที่ถูกกำหนดในการตั้งค่าความปลอดภัยของคุณ">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "หน้าเว็บซอฟต์แวร์ไม่พึงประสงค์จะพยายามติดตั้งโปรแกรมที่ล่อลวงคุณ และมีผลให้ระบบของคุณผิดปกติ">
 
+<!ENTITY safeb.blocked.forbiddenPage.title2 "ไซต์ที่ปิดกั้น">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
