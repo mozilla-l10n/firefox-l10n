@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "เนื้อที่ว่างไม่พอสำหรับให้ &brandShortName; เริ่มทำงาน">
+<!ENTITY  no_space_to_start_error "มีพื้นที่ไม่เพียงพอสำหรับให้ &brandShortName; เริ่มทำงาน">
 <!ENTITY  error_loading_file "เกิดข้อผิดพลาดขณะกำลังพยายามโหลดไฟล์ที่จำเป็นในการทำงาน &brandShortName;">
 
 <!ENTITY firstrun_panel_title_welcome "ยินดีต้อนรับ">
 <!ENTITY  onboard_start_message3 "ท่องเว็บด้วย &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "สัมผัสประสบการณ์การท่องเว็บที่คุณเป็นเจ้าของอย่างแท้จริง">
+<!ENTITY  onboard_start_subtext3 "ทำให้ประสบการณ์การท่องเว็บบนมือถือของคุณเป็นของคุณอย่างแท้จริง">
 
 <!ENTITY firstrun_urlbar_message "ยินดีต้อนรับสู่ &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "ค้นหาสิ่งต่าง ๆ ได้เร็วขึ้นด้วยทางลัดคำแนะนำการค้นหาที่เป็นประโยชน์">
 <!ENTITY firstrun_bookmarks_title "ประวัติ">
-
+<!ENTITY firstrun_bookmarks_message "รายการโปรดของคุณ เด่นชัดในทุกที่">
 <!ENTITY firstrun_bookmarks_subtext "รับผลลัพธ์จากที่คั่นหน้าและประวัติของคุณเมื่อคุณค้นหา">
 <!ENTITY firstrun_data_title "ข้อมูล">
 
@@ -32,19 +32,19 @@
 <!ENTITY  bookmarks_title "ที่คั่นหน้า">
 <!ENTITY  history_title "ประวัติ">
 <!ENTITY  reading_list_title "รายการอ่าน">
-<!ENTITY  recent_tabs_title "แท็บที่เคยใช้">
+<!ENTITY  recent_tabs_title "แท็บเมื่อเร็ว ๆ นี้">
 
-<!ENTITY  switch_to_tab "สลับแท็บ">
+<!ENTITY  switch_to_tab "สลับไปยังแท็บ">
 
-<!ENTITY  crash_reporter_title "&brandShortName; ตัวรายงานข้อบกพร่อง">
-<!ENTITY  crash_message2 "&brandShortName; เกิดการขัดข้อง แท็บที่เปิดไว้จะแสดงเป็นรายการในหน้าแรกของ &brandShortName; เมื่อคุณเริ่มการทำงานใหม่">
-<!ENTITY  crash_send_report_message3 "แจ้งการขัดข้องนี้ให้ &vendorShortName; ทราบและดำเนินการแก้ไข ">
-<!ENTITY  crash_include_url2 "รวมที่อยู่เว็บที่ฉันเข้าด้วย">
+<!ENTITY  crash_reporter_title "ตัวรายงานข้อขัดข้อง &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; เกิดปัญหาและขัดข้อง แท็บของคุณจะถูกแสดงรายการบนหน้าเริ่มต้นของ &brandShortName; เมื่อคุณเริ่มการทำงานใหม่">
+<!ENTITY  crash_send_report_message3 "แจ้ง &vendorShortName; เกี่ยวกับข้อขัดข้องนี้เพื่อให้สามารถแก้ไขได้">
+<!ENTITY  crash_include_url2 "รวมที่อยู่ของหน้าที่ฉันเข้าชมอยู่">
 <!ENTITY  crash_sorry "เราต้องขออภัย">
-<!ENTITY  crash_comment "เพิ่มความคิดเห็น (ความคิดจะถูกแสดงให้ทุกคนเห็น)">
+<!ENTITY  crash_comment "เพิ่มความคิดเห็น (ความคิดเห็นจะปรากฏต่อสาธารณะ)">
 <!ENTITY  crash_allow_contact2 "อนุญาตให้ &vendorShortName; ติดต่อฉันเกี่ยวกับรายงานนี้">
 <!ENTITY  crash_email "อีเมลของคุณ">
-<!ENTITY  crash_closing_alert "ออกโดยที่ไม่ส่งรายงานข้อขัดข้อง?">
+<!ENTITY  crash_closing_alert "ออกโดยไม่ส่งรายงานข้อขัดข้อง?">
 <!ENTITY  sending_crash_report "กำลังส่งรายงานข้อขัดข้อง\u2026">
 <!ENTITY  crash_close_label "ปิด">
 <!ENTITY  crash_restart_label "เริ่ม &brandShortName; ใหม่">
@@ -53,7 +53,7 @@
 <!ENTITY  launcher_shortcuts_title "เว็บแอป &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "ไม่พบเว็บแอป">
 
-<!ENTITY choose_file "เลือกแฟ้ม">
+<!ENTITY choose_file "เลือกไฟล์">
 
 <!ENTITY url_bar_default_text2 "ค้นหาหรือป้อนที่อยู่">
 
@@ -63,8 +63,8 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "คั่นหน้าอยู่ก่อนแล้ว">
-<!ENTITY bookmark_removed "ลบที่คั่นหน้าแล้ว">
+<!ENTITY bookmark_already_added "คั่นหน้าอยู่แล้ว">
+<!ENTITY bookmark_removed "เอาที่คั่นหน้าออกแล้ว">
 <!ENTITY bookmark_updated "ปรับปรุงที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_options "ตัวเลือก">
 
@@ -90,7 +90,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; แท็บ">
 <!ENTITY new_tab_opened "เปิดแท็บใหม่แล้ว">
-<!ENTITY new_private_tab_opened "เปิดแท็บแบบส่วนตัวแล้ว">
+<!ENTITY new_private_tab_opened "เปิดแท็บแบบส่วนตัวใหม่แล้ว">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -113,8 +113,8 @@
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "ภาษา">
-<!ENTITY pref_category_language_summary "เปลี่ยนภาษาของเบราว์เซอร์คุณ">
-<!ENTITY pref_browser_locale "ภาษาของเบราว์เซอร์">
+<!ENTITY pref_category_language_summary "เปลี่ยนภาษาเบราว์เซอร์ของคุณ">
+<!ENTITY pref_browser_locale "ภาษาเบราว์เซอร์">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
@@ -131,7 +131,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "ที่คั่นหน้า">
 <!ENTITY overlay_share_reading_list_btn_label "เพิ่มไปยังรายการอ่าน">
-<!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่ก่อนแล้ว">
+<!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่แล้ว">
 <!ENTITY overlay_share_reading_list_btn_label_already "อยู่ในรายการอ่านอยู่แล้ว">
 <!ENTITY overlay_share_send_other "ส่งไปยังอุปกรณ์อื่น ๆ">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -575,7 +575,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "ระบุคำค้น">
 
-<!ENTITY filepicker_title "เลือกแฟ้ม">
+<!ENTITY filepicker_title "เลือกไฟล์">
 <!ENTITY filepicker_audio_title "เลือกหรืออัดเสียง">
 <!ENTITY filepicker_image_title "เลือกหรือถ่ายรูป">
 <!ENTITY filepicker_video_title "เลือกหรือถ่ายวิดีโอ">
