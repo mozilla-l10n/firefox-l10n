@@ -31,7 +31,7 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Khupha kunxibelelo">
 
-
+<!ENTITY runtimeMenu_showPermissionTable_label "Itheyibhuli Yemvume">
 
 <!ENTITY runtimeMenu_takeScreenshot_label "Iskrinshot">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
@@ -152,6 +152,8 @@
 <!ENTITY devicepreference_newtext "Ixabiso lesikhethwa">
 
 <!-- Device Settings -->
+
+<!ENTITY devicesetting_title "Iisetingi Zesixhobo">
 <!ENTITY devicesetting_search "Khangela iisetingi">
 <!ENTITY devicesetting_newname "Igama lesetingi entsha">
 
