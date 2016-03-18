@@ -35,7 +35,7 @@
 <!ENTITY fileNotFound.title "Fichier introuvable">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Vérifiez le nom du fichier, en particulier les minuscules/majuscules&#x00A0;;</li>
+  <li>Vérifiez la syntaxe du nom de fichier (dont le respect des minuscules/majuscules)&#x00A0;;</li>
   <li>Vérifiez si le fichier n’a pas été déplacé, renommé ou supprimé.</li>
 </ul>
 ">
@@ -79,7 +79,7 @@
 <!ENTITY contentEncodingError.title "Erreur d’encodage de contenu">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Veuillez contacter le webmestre du site pour l’informer de ce problème.</li>
+  <li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li>
 </ul>
 ">
 
@@ -145,14 +145,14 @@
 <ul>
   <li>La page que vous essayez de consulter ne peut pas être affichée car l’authenticité des données reçues
 ne peut être vérifiée.</li>
-  <li>Veuillez contacter les propriétaires du site web pour les en informer.</li>
+  <li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li>
 </ul>
 ">
 
 <!ENTITY nssBadCert.title "Échec de la connexion sécurisée">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Ceci peut-être dû à un problème de configuration du serveur ou à une personne essayant d’usurper l’identité du serveur.</li>
+  <li>Ceci peut être dû à un problème de configuration du serveur ou à une personne essayant d’usurper l’identité du serveur.</li>
   <li>Si vous avez déjà pu vous connecter à ce serveur, l’erreur est peut-être temporaire et vous pouvez essayer à nouveau plus tard.</li>
 </ul>
 ">
@@ -168,7 +168,7 @@ ne peut être vérifiée.</li>
 ">
 
 <!ENTITY cspBlocked.title "Bloqué par une stratégie de sécurité de contenu">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car la page a une stratégie de sécurité de contenu qui ne le permet pas.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car sa stratégie de sécurité de contenu ne le permet pas.</p>">
 
 <!ENTITY securityOverride.linkText "Ou vous pouvez ajouter une exception…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Quitter cette page">
