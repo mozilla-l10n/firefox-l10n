@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ကို စတင်ရန်အတွက် နေရာလွတ်လုံလောက်ခြင်း မရှိပါ။">
 <!ENTITY  error_loading_file "&brandShortName; မောင်းနှင်နိုင်ရန်  လိုအပ်သောဖိုင်များ ပြင်ဆင်ချိန်တွင် ပြဿနာတစ်ခုတက်ခဲ့သည်။">
 
-
+<!ENTITY firstrun_panel_title_welcome "ကြိုဆိုပါသည်">
+<!ENTITY  onboard_start_message3 "&brandShortName; နှင့်အတူ ရှာဖွေကြည့်ရှုပါ">
 
 
 
