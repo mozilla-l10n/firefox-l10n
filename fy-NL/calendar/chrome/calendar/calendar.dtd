@@ -60,10 +60,10 @@
 <!ENTITY calendar.today.button.tooltip            "Nei hjoed gean" >
 <!ENTITY calendar.todaypane.button.tooltip        "Finster Hjoed toane" >
 
-<!ENTITY calendar.day.button.tooltip            "Nei dei-oersjoch oerskeakelje" >
-<!ENTITY calendar.week.button.tooltip           "Nei wykoersjoch oerskeakelje" >
-<!ENTITY calendar.month.button.tooltip          "Nei moanne-oersjoch oerskeakelje" >
-<!ENTITY calendar.multiweek.button.tooltip      "Nei oersjoch foar mear wiken skeakelje" >
+<!ENTITY calendar.day.button.tooltip            "Wikselje nei dei-oersjoch" >
+<!ENTITY calendar.week.button.tooltip           "Wikselje nei wykoersjoch" >
+<!ENTITY calendar.month.button.tooltip          "Wikselje nei moanne-oersjoch" >
+<!ENTITY calendar.multiweek.button.tooltip      "Wikselje nei oersjoch foar mear wiken" >
 
 <!ENTITY calendar.nextday.label        			"Folgjende dei" >
 <!ENTITY calendar.prevday.label        			"Foarige dei" >
