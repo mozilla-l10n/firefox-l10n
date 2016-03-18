@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Nijsgroepen">
 <!ENTITY feeds.label "Feeds">
 
-<!ENTITY unsetDefault.tooltip "It is net mooglik om &brandShortName; as de standertclient yn te stellen binnen &brandShortName;. Om in oare tapassing as standert yn te stellen moatte jo it 'Ynstelle as standert' dialoochfinster brûke.">
+<!ENTITY unsetDefault.tooltip "It is net mooglik om it ynstellen fan &brandShortName; as de standerrclient yn &brandShortName; ûngedien te meitsjen. Om in oare tapassing de standertclient te meitsjen, moatte jo it dialoochfinster ‘As standert ynstellen’ dêrfan brûke.">
 
 <!ENTITY checkOnStartup.label "Dizze kontrole altyd útfiere by it starten fan &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "D">
