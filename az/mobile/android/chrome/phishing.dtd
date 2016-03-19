@@ -12,9 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> ünvanındakı saytın hücum sayt olduğu bildirildi və təhlükəsizlik nizamlarınız əsas tutularaq bloklandı.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Hücum saytı olaraq göstərilən saytlar şəxsi məlumatlarınızı oğurlayan, komputerinizi başqalarına hücum etməkçün istifadə etmək məqsədi ilə istifadə edən ya da sisteminizə zərər verəcək proqramları quraşdırmağa çalışan saytlardır.</p><p>Bəzi hücum saytları zərərli proqramları bilərək yayarkən, əksər saytlar, sahibinin məlumatı və icazəsi olmadan bu məqsədlə istifadə edilir.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Aldadıcı Sayt!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "<span id='phishing_sitename'/> ünvanındakı səhifənin aldadıcı sayt olduğu bildirilmişdir və təhlükəsizlik seçimləriniz əsas tutularaq bloklandı.">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Aldadıcı saytlar sizi aldadıb bir şeylər etməyiniz üçün dizayn ediliblər, məsələn, proqram qurma və ya parol, telefon nömrəsi və ya kredit kartı kimi şəxsi məlumatlarınızı alma.</p><p>Bu səhifədə məlumat daxil etmə şəxsiyyət oğurluğu və ya başqa fırıldaq ilə nəticələbə bilər.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "İstənməyən Proqram Saytı Bildirilib!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
