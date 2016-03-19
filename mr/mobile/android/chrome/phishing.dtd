@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>आक्रमण पाने आपली खाजगी माहिती चोरणारे प्रोग्राम प्रतिष्ठापित करण्याचा, आपले संगणक दुसऱ्यावर आक्रमण करण्याचा, किंवा आपल्या प्रणालीला हानी करण्याचा प्रयत्न करतात.</p><p>काही आक्रमण पाने मुद्दाम हानिकारक सॉफ्टवेअर वितरीत करतात, पण त्यांतील बरेच तर त्यांच्या मालकांच्या परवानगीशिवाय तडजोड केली जाते.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "<span id='phishing_sitename'/> वरील हे वेब पान आक्रमण पान म्हणून कळवलेले आहे आणि ते आपल्या सुरक्षा पसंतींनुसार अडवले आहे.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "नको असलेली सॉफ्टवेअर साईट कळवली!">
