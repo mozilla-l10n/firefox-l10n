@@ -107,37 +107,37 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Habilita les caixes d'eines de depuració del chrome del navegador i complements">
-<!ENTITY options.enableChrome.tooltip3  "En activar aquesta opció, es permetrà l'ús de diverses eines per a desenvolupadors en el context del navegador (mitjançant Eines > Desenvolupador web > Caixa d'eines) i depurar complements des del Gestor de complements">
+<!ENTITY options.enableChrome.tooltip3  "Activeu aquesta opció per permetre l'ús de diverses eines per a desenvolupadors en el context del navegador (mitjançant Eines > Desenvolupador web > Caixa d'eines) i depurar complements des del Gestor de complements">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Habilita la depuració remota">
-<!ENTITY options.enableRemote.tooltip   "Activar aquesta opció permetrà a les eines per a desenvolupadors depurar instàncies remotes del Firefox, com el Firefox OS">
+<!ENTITY options.enableRemote.tooltip   "Activeu aquesta opció per permetre a les eines per a desenvolupadors depurar instàncies remotes del Firefox, com el Firefox OS">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableWorkers.label    "Habilita la depuració de processos de treball (en desenvolupament)">
-<!ENTITY options.enableWorkers.tooltip  "En activar aquesta opció, les eines de desenvolupament podran depurar processos de treball">
+<!ENTITY options.enableWorkers.tooltip  "Activeu aquesta opció per permetre a les eines per a desenvolupadors depurar processos de treball">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
 <!ENTITY options.disableJavaScript.label     "Inhabilita el JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip   "En activar aquesta opció, s'inhabilitarà el JavaScript en la pestanya actual. Si es tanca la pestanya o la caixa d'eines, s'oblidarà aquest paràmetre.">
+<!ENTITY options.disableJavaScript.tooltip   "Activeu aquesta opció per inhabilitar el JavaScript en la pestanya actual. Aquest paràmetre s'oblidarà quan tanqueu la pestanya o la caixa d'eines.">
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!ENTITY options.disableCache.label2     "Inhabilita la memòria cau (quan la caixa d'eines està oberta)">
-<!ENTITY options.disableCache.tooltip2   "En activar aquesta opció, es desactivarà la memòria cau de totes les pestanyes que tenen oberta la caixa d'eines.">
+<!ENTITY options.disableCache.tooltip2   "Activeu aquesta opció per desactivar la memòria cau de totes les pestanyes que tinguin la caixa d'eines oberta.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "Habilita els processos de treball de servei a través de HTTP (quan la caixa d'eines és oberta)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "En activar aquesta opció, s'habilitaran els processos de treball de servei a través de HTTP en totes les pestanyes que tinguin la caixa d'eines oberta.">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Activeu aquesta opció per permetre els processos de treball de servei a través de HTTP en totes les pestanyes que tinguin la caixa d'eines oberta.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->

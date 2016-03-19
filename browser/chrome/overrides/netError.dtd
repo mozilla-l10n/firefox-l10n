@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "S'ha produït un problema en carregar la pàgina">
 <!ENTITY retry.label "Torna-ho a provar">
-
-
+<!ENTITY returnToPreviousPage.label "Vés enrere">
+<!ENTITY advanced.label "Avançat">
 <!-- Specific error messages -->
 
 
@@ -136,7 +136,7 @@ que el &brandShortName; tingui permís per accedir al web.</li>
 <!ENTITY corruptedContentError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "O podeu afegir-hi una excepció…">
+<!ENTITY securityOverride.linkText "O bé, podeu afegir una excepció…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Treu-me d'aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Afegeix una excepció…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -150,6 +150,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "Informa dels errors com aquest per ajudar a Mozilla a identificar i a blocar els llocs maliciosos">
 <!ENTITY errorReporting.learnMore "Més informació…">
 
 <!ENTITY remoteXUL.title "XUL remot">
@@ -158,10 +159,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "No s'ha pogut connectar de forma segura">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Informació avançada: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "La connexió no és segura">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
+<!ENTITY weakCryptoUsed.longDesc2 "Informació avançada: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Avançat">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilitza una tecnologia de seguretat obsoleta i vulnerable a atacs. Un atacant podria veure fàcilment la informació que altrament pensaríeu que és segura.">
 <!ENTITY weakCryptoAdvanced.override "(Insegur) Intenta carregar <span class='hostname'></span> amb la seguretat obsoleta">
