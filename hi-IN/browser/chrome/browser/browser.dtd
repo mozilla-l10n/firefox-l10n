@@ -799,14 +799,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.fetching.label     "सिंक हुए टैब्स ढूँढें जा रहें है…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "अपने दूसरे उपकरणों से Firefox साइन इन कर उनके टैब देखें.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें.">
-
-
+<!ENTITY syncedTabs.sidebar.notabs.label       "कोई खुला टैब नहीं">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "खोलें &syncBrand.shortName.label; वरीयताएँ">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "टैब्स की सूची देखने हेतु अपने दुसरे उपकरणों से साइन इन करें.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "इस टैब को खोलें">
+<!ENTITY syncedTabs.context.openTab.accesskey               "O">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "यह टैब पुस्तचिह्नित करें...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
 
 
 <!ENTITY syncBrand.shortName.label    "सिंक">
