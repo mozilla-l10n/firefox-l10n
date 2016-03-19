@@ -424,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync Nizamlamaları">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ə Daxil ol">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Sinxronlaşdırılmış vərəqlər yan panelini göstər">
 
 <!ENTITY customizeMenu.addToToolbar.label "Alət Sətrinə Əlavə et">
 <!ENTITY customizeMenu.addToToolbar.accesskey "l">
@@ -531,8 +531,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "V">
 <!ENTITY openFrameCmd.label           "Çərçivəni Yeni Pəncərədə Aç">
 <!ENTITY openFrameCmd.accesskey       "P">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Keçidi yeni konteyner vərəqində aç">
+<!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Sadəcə bu çərçivəni göstər">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -780,7 +780,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "s">
 <!ENTITY identity.learnMore "Ətraflı Öyrən">
 
-
+<!ENTITY identity.removeCertException.label "İstisnanı sil">
+<!ENTITY identity.removeCertException.accesskey "s">
 
 <!ENTITY identity.moreInfoLinkText2 "Daha çox məlumat">
 
@@ -794,17 +795,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Sinxronlaşdırılmış Vərəqlər">
 
+<!ENTITY syncedTabs.sidebar.label              "Sinxronlaşdırılmış Vərəqlər">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Sinxronlaşdırılmış vərəqlər alınır…">
 
 
-
-
+<!ENTITY syncedTabs.sidebar.notabs.label       "Açıq vərəq yoxdur">
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Bu Vərəqi Aç">
+<!ENTITY syncedTabs.context.openTab.accesskey               "A">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Bu Vərəqi Əlfəcinlə…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "l">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
