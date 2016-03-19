@@ -14,14 +14,14 @@
 <!ENTITY firstrun_urlbar_subtext "सहायक ख़ोज सुझाव संक्षिप्त-विधि द्वारा चीजो को तेजी से खोजें.">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "आपके मनपसंद, सम्मुख एवं केन्द्रित">
-
+<!ENTITY firstrun_bookmarks_subtext "अपने पुस्तचिह्न एवं पूर्व खोज के इतिहास से परिणाम प्राप्त करें.">
 <!ENTITY firstrun_data_title "डाटा">
 <!ENTITY firstrun_data_message "कम डेटा , अधिक बचत">
-
+<!ENTITY firstrun_data_subtext2 "आपके द्वारा देखे गए हर साइट के लिए छवि बंद करें ताकि डेटा कम खर्च हो.">
 <!ENTITY firstrun_sync_title "सिंक">
 <!ENTITY firstrun_sync_message "&brandShortName;, हमेशा आप के साथ">
 <!ENTITY firstrun_sync_subtext "अपने टैब, कूट शब्द, और अधिक को हर जगह संकलित करें.">
-
+<!ENTITY firstrun_signin_message "कनेक्टेड हैं, आरंभ करें">
 <!ENTITY firstrun_signin_button "संकलित करने के लिए साइन इन करें">
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करें">
 <!ENTITY firstrun_button_next "अगला">
@@ -153,9 +153,9 @@
 <!ENTITY pref_category_accessibility "उपागम्यता">
 <!ENTITY pref_category_accessibility_summary2 "मूलशब्द आकार, ज़ूम, आवाज़ सहयोग">
 <!ENTITY pref_category_privacy_short "गोपनीयता">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "ट्रैकिंग, कुकीज़, डेटा विकल्प">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "परिचय &brandShortName;, FAQs, फ़ीडबैक">
 <!ENTITY pref_category_datareporting "आँकड़ा विकल्प">
 <!ENTITY pref_learn_more "अधिक जानें">
 <!ENTITY pref_category_installed_search_engines "संस्थापित खोज इंजन">
@@ -169,8 +169,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "सुझाव : खोज प्रदाता की सूची में किसी भी वेबसाइट को जोड़ने के लिए खोज क्षेत्र को देर तक दबाएँ और &formatI; प्रतीक को टिपटिपाएँ.">
-
-
+<!ENTITY pref_category_advanced "उन्नत">
+<!ENTITY pref_category_advanced_summary2 "टैब, प्लगइन्स, डेवलपर औज़ार पुनर्बहाल करें">
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डिबगिंग">
 <!ENTITY pref_developer_remotedebugging_usb "USB से होकर दूरस्थ दोषसुधार">
 <!ENTITY pref_developer_remotedebugging_wifi "वाई फाई से होकर दूरस्थ दोषसुधार">
@@ -188,42 +188,49 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 मुखपृष्ठ पर जोड़ा गया">
 <!ENTITY pref_category_home_content_settings "अंतर्वस्तु सेटिंग">
-
+<!ENTITY pref_home_updates "स्वतः अद्यतन">
 <!ENTITY pref_home_updates_enabled "सक्षम">
 <!ENTITY pref_home_updates_wifi "केवल वाय-फ़ाय पर">
 <!ENTITY pref_home_suggested_sites "साइट सुझाव दिखाएँ">
 <!ENTITY pref_home_suggested_sites_summary "अपने शुरुआती पृष्ठ पर साइटों के शॉर्टकट दिखायें, जो हमें लगता है कि आपको दिलचस्प लगेेंगे |">
-
+<!ENTITY pref_category_home_homepage "होमपेज">
 <!ENTITY home_homepage_title "होमपेज व्यवस्थित करें">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; घर">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "मनपसंद बनाएँ">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "खोज शब्द या पता दर्ज करें।">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "सामान्य">
+<!ENTITY pref_header_search "खोजें">
 <!ENTITY pref_header_privacy_short "गोपनीयता">
-
-
+<!ENTITY pref_header_accessibility "पहुँच">
+<!ENTITY pref_header_advanced "उन्नत">
 <!ENTITY pref_header_help "मदद">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "कुकीज़">
 <!ENTITY pref_cookies_accept_all "सक्षम">
 <!ENTITY pref_cookies_not_accept_foreign "सक्षम, तीसरा पक्ष छोड़कर">
 <!ENTITY pref_cookies_disabled "अक्षम">
 
+<!ENTITY pref_tap_to_load_images_title2 "छवियाँ दिखाएँ">
+<!ENTITY pref_tap_to_load_images_enabled "हमेशा">
+<!ENTITY pref_tap_to_load_images_data "केवल वाय-फ़ाय पर">
+<!ENTITY pref_tap_to_load_images_disabled2 "रोका हुआ">
 
-
-
-
+<!ENTITY pref_show_web_fonts "वेब फ़ॉन्ट दिखाएँ">
 
 <!ENTITY pref_tracking_protection_title "ट्रैकिंग संरक्षण">
 <!ENTITY pref_tracking_protection_summary3 "निजी ब्राउज़िंग में सक्षम करें">
