@@ -23,6 +23,8 @@
 <!ENTITY netmonitorUI.reloadNotice3       "नेटवर्क क्रिया विषयी तपशील माहिती पाहण्यासाठीचे पृष्ठ">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+
+<!ENTITY netmonitorUI.toolbar.status3     "स्थिती">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 

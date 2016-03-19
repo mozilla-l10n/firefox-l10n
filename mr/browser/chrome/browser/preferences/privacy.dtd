@@ -24,7 +24,7 @@
 
 <!ENTITY  doNotTrack.pre.label          "तुम्हीसुद्धा ">
 <!ENTITY  doNotTrack.settings.label     "आपल्या मागोवा नका घेउ सेटिंग्स व्यवस्थापन करा">
-
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "इतिहास">
 

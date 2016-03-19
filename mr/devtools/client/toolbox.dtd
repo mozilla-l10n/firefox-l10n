@@ -44,6 +44,8 @@ values from browser.dtd.  -->
   -  the button to force the popups/panels to stay visible on blur.
   -  This is only visible in the browser toolbox as it is meant for
   -  addon developers and Firefox contributors. -->
+
+<!ENTITY toolboxNoAutoHideTooltip      "पॉपअप स्वंय पद्धतीने लपवीणे निष्क्रीय करा">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
