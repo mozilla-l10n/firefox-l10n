@@ -400,7 +400,7 @@ size. -->
 <!ENTITY save_as_pdf "Sábháil mar PDF">
 <!ENTITY print "Priontáil">
 <!ENTITY find_in_page "Aimsigh sa Leathanach">
-<!ENTITY desktop_mode "Iarr Suíomh don Ríomhaire">
+<!ENTITY desktop_mode "Iarr Suíomh an Ríomhaire">
 <!ENTITY page "Leathanach">
 <!ENTITY tools "Uirlisí">
 <!ENTITY new_tab "Cluaisín Nua">
@@ -433,7 +433,7 @@ size. -->
 <!ENTITY contextmenu_remove "Bain">
 <!ENTITY contextmenu_add_to_launcher "Cuir leis an Scáileán Baile">
 <!ENTITY contextmenu_share "Roinn">
-<!ENTITY contextmenu_pasteandgo "Greamaigh agus Téigh">
+<!ENTITY contextmenu_pasteandgo "Greamaigh agus Lean Ort">
 <!ENTITY contextmenu_paste "Greamaigh">
 <!ENTITY contextmenu_copyurl "Cóipeáil Seoladh">
 <!ENTITY contextmenu_edit_bookmark "Eagar">
