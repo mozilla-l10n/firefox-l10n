@@ -8,7 +8,7 @@
 <!ENTITY  offline.description             "Tem que ativar o modo online para que o &brandShortName;
 se ligue à rede e procure atualizações dos seus extras para
 os tornar compatíveis com esta versão.">
-<!ENTITY  offline.toggleOffline.label     "Ativar agora.">
+<!ENTITY  offline.toggleOffline.label     "Ativar modo online agora">
 <!ENTITY  offline.toggleOffline.accesskey "g">
 
 <!ENTITY  mismatch.win.title              "Extras incompatíveis">

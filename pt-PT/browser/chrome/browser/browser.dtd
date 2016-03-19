@@ -895,7 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "v">
 
 <!ENTITY trackingContentBlocked.message "Monitorização">
-<!ENTITY trackingContentBlocked.moreinfo "Partes da página que monitorizam a sua atividade foram bloqueadas.">
+<!ENTITY trackingContentBlocked.moreinfo "Partes da página que monitorizam a sua atividade online foram bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber mais">
 <!ENTITY trackingContentBlocked.options "Opções">
 <!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este site">
