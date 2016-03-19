@@ -20,8 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "पिंग डेटा का अभिलेख किया गया">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "डाटा प्रदर्शन याद दिलाएँ:">
 
+<!ENTITY aboutTelemetry.structured "बनावटी">
 
+<!ENTITY aboutTelemetry.raw "कच्चा JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "उपसत्र डेटा दिखाएँ">
 
@@ -58,6 +61,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection " कुछ देर से लिखें">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "तंत्र जानकारी">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection " आयत छवि एड-ओन द्वारा एकत्रित ">
 
@@ -73,4 +77,5 @@
 
 <!ENTITY aboutTelemetry.filterText "फ़िल्टर (स्ट्रिंग या /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "भार">
 
