@@ -30,6 +30,6 @@
 <!ENTITY aboutNetworking.bytesSent             "बाइट्स भेजा">
 <!ENTITY aboutNetworking.bytesReceived         "बाइट्स हस्तगत">
 
-
+<!ENTITY aboutNetworking.dnsLookupButton       "समाधान करें">
 
 

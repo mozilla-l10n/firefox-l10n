@@ -58,6 +58,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "सर्विस वर्कर्स पंजीकृत किया गया">
 
+<!ENTITY aboutSupport.appBasicsProfiles "प्रोफ़ाइल">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "बहुप्रक्रिया विंडोज़">
 
