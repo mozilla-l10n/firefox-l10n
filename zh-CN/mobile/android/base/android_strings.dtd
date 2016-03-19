@@ -20,7 +20,7 @@
 <!ENTITY firstrun_data_subtext2 "关闭所有网站图片以节省您访问时消耗的数据流量。">
 <!ENTITY firstrun_sync_title "同步">
 <!ENTITY firstrun_sync_message "&brandShortName;，始终伴您左右">
-<!ENTITY firstrun_sync_subtext "随处同步您的标签页、密码等信息，便于您使用。">
+<!ENTITY firstrun_sync_subtext "随处同步您的标签页、密码等信息，个性体验如影随形。">
 <!ENTITY firstrun_signin_message "互联设备，即刻畅游">
 <!ENTITY firstrun_signin_button "登录以同步">
 <!ENTITY  onboard_start_button_browser "开始浏览">
@@ -333,7 +333,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "离线站点数据">
 <!ENTITY pref_private_data_siteSettings2 "站点设置">
 <!ENTITY pref_private_data_downloadFiles2 "下载历史">
-<!ENTITY pref_private_data_syncedTabs "已同步的标签页">
+<!ENTITY pref_private_data_syncedTabs "受同步的标签页">
 
 
 <!ENTITY pref_about_firefox "关于 &brandShortName;">
@@ -554,10 +554,10 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_back_to_filter "返回 &formatS;">
 
-<!ENTITY home_remote_tabs_title "已同步的标签页">
+<!ENTITY home_remote_tabs_title "受同步的标签页">
 <!ENTITY home_remote_tabs_empty "来自您的其他设备的标签页将出现在这里。">
 <!ENTITY home_remote_tabs_unable_to_connect "无法连接">
-<!ENTITY home_remote_tabs_need_to_sign_in "请登录以重新连接您的 Firefox 账户以继续同步。">
+<!ENTITY home_remote_tabs_need_to_sign_in "请登录以重新与您的 Firefox 账户建立连接，以便继续同步。">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "您的全新的 Firefox 账户已经准备就绪！">
 
 <!ENTITY home_remote_tabs_trouble_verifying "验证您的账户时遇到困难？">

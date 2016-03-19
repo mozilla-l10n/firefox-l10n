@@ -117,7 +117,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error '无法登录'>
 
 <!ENTITY fxaccount_account_verified_sub_header '账户已验证'>
-<!ENTITY fxaccount_account_verified_description2 '您的数据将很快开始同步。'>
+<!ENTITY fxaccount_account_verified_description2 '您的数据很快将开始同步。'>
 
 <!ENTITY fxaccount_migration_finished_header '升级完成'>
 

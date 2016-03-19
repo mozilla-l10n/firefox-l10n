@@ -11,7 +11,7 @@
 <!ENTITY sync.disconnect            "断开连接">
 <!ENTITY sync.syncNow               "立即同步">
 
-<!ENTITY sync.setup.title           "连接到同步">
+<!ENTITY sync.setup.title           "连接到同步服务">
 <!ENTITY sync.setup.pair            "请在您的其他设备上选择 &quot;设备配对&quot; 来激活。">
 <!ENTITY sync.fallback              "我不在电脑旁…">
 <!ENTITY sync.setup.manual          "输入您的同步账户信息">
