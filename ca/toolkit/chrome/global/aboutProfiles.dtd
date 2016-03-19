@@ -5,6 +5,6 @@
 <!ENTITY aboutProfiles.title "Quant als perfils">
 
 
-
-
-
+<!ENTITY aboutProfiles.restart.title "Reinicia">
+<!ENTITY aboutProfiles.restart.inSafeMode "Reinicia amb els complements inhabilitats…">
+<!ENTITY aboutProfiles.restart.normal "Reinicia normalment…">
