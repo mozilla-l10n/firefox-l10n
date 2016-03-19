@@ -20,8 +20,8 @@ de forma segura a <b>#1</b>, però no podem confirmar que la vostra connexió ho
 
 <!ENTITY certerror.whatShouldIDo.heading "Què caldria que fes?">
 <!ENTITY certerror.whatShouldIDo.content "Si normalment us connecteu a 
-aquest lloc sense problemes, podria voler dir que algú altre 
-vol fer-se'n amb la identitat i, per tant, no hauríeu de continuar.">
+aquest lloc sense problemes, aquest error podria voler dir que algú 
+està intentant suplantar la identitat del lloc i, per tant, no hauríeu de continuar.">
 <!ENTITY certerror.getMeOutOfHere.label "Treu-me d'aquí!">
 
 <!ENTITY certerror.expert.heading "Entenc els riscos">
