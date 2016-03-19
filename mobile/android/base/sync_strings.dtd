@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-poçt">
-
+<!ENTITY fxaccount_password_hint "Parol">
 <!ENTITY fxaccount_password_hide "Gizlə">
 <!ENTITY fxaccount_password_show "Göstər">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; quruludur, amma avtomatik olaraq sinxronlaşdırmır. Android Tənzimləmələri &gt; Vərilənlərin İstifadəsi bölümündən “Məlumatların Avto-Sinxronlaşdırılması”-nı aktiv edin.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; quruludur, amma avtomatik olaraq sinxronlaşdırmır. Android Tənzimləmələri &gt; Hesablar bölümündən “Məlumatların Avto-Sinxronlaşdırılması”-nı aktiv edin.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Yeni Firefox Hesabınıza daxil olmaq üçün toxunun.">
-
+<!ENTITY fxaccount_status_bookmarks "Əlfəcinlər">
 <!ENTITY fxaccount_status_history "Tarixçə">
 <!ENTITY fxaccount_status_passwords2 "Daxil olmalar">
 <!ENTITY fxaccount_status_tabs "Açıq vərəqlər">

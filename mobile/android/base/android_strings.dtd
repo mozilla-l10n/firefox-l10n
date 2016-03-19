@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Axtarış zamanı əlfəcin və tarixçənizdən nəticələr əldə edin.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Az data, çox qənaət">
-
+<!ENTITY firstrun_data_subtext2 "Şəkilləri söndürərək ziyarət etdiyiniz hər saytda daha az data xərcləyin.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, hər zaman sizin tərəfinizdə">
 <!ENTITY firstrun_sync_subtext "İşlətdiyiniz hər yerdə vərəq, parol və daha məlumatınızı sinxronlaşdırın.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Yalnız Wi-Fi ilə">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloklanmış">
 
+<!ENTITY pref_show_web_fonts "Web şriftlərini göstər">
 
 <!ENTITY pref_tracking_protection_title "İzlənmə qoruması">
 <!ENTITY pref_tracking_protection_summary3 "Məxfi Səyahətdə aktivdir">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Tam ekran səyahət">
 <!ENTITY pref_scroll_title_bar_summary2 "Səhifəni aşağı sürüşdürərkən &brandShortName; başlıq sətrini gizlət">
 
-
+<!ENTITY pref_tab_queue_title3 "Vərəq sırası">
+<!ENTITY pref_tab_queue_summary4 "Keçidləri bir sonrakı dəfə &brandShortName; açana qədər saxla">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "Bu panel üçün heç bir məzmun tapılmadı.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "&formatS; üçün geri dön">
 
 <!ENTITY home_remote_tabs_title "Sinxronlaşdırılmış vərəqlər">
 <!ENTITY home_remote_tabs_empty "Digər cihazlarınızdaki vərəqlər burada görünür.">
@@ -770,7 +774,10 @@ idxal edilir">
 
 <!ENTITY unsupported_sdk_version "Bağışlayın! Bu &brandShortName; bu cihazda işləmir (&formatS1;, &formatS2;). Lütfən doğru versiyanı endirin.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; artıq yenilənməyəcək">
 <!ENTITY eol_notification_summary "Ətraflı öyrənmək üçün toxunun">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; güncəldir">
+<!ENTITY whatsnew_notification_summary "Bu versiyada olan yenilikləri öyrənin">
