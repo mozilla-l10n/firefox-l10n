@@ -163,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "이 동영상 공유">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "구독">
 <!ENTITY subscribeToPageMenupopup.label "현재 페이지 구독하기">
 <!ENTITY subscribeToPageMenuitem.label "현재 페이지 구독하기…">
 <!ENTITY addCurPagesCmd.label "모든 탭 북마크 추가…">
@@ -256,6 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
 
 <!ENTITY devtoolsConnect.label        "연결…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -740,7 +740,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "완료">
-<!ENTITY editBookmark.cancel.label                   "취소">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "안전한 연결">
@@ -774,6 +773,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "자세히 보기">
 
+
 <!ENTITY identity.moreInfoLinkText2 "더 보기">
 
 <!ENTITY identity.permissions "권한">
@@ -783,8 +783,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "브라우저 탭">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "동기화된 탭">
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
 
 <!ENTITY syncBrand.shortName.label    "동기화">
 
@@ -822,7 +827,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "&brandShortName;에 더할 서비스를 누르세요.">
 <!ENTITY social.directory.viewmore.text "더 보기">
 
-<!ENTITY customizeMode.tabTitle "&brandShortName; 사용자 설정">
 <!ENTITY customizeMode.menuAndToolbars.header2 "부가적인 도구와 기능">
 <!ENTITY customizeMode.menuAndToolbars.empty "다른 도구를 찾으십니까?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "수천 개의 부가기능에서 고르기">
@@ -928,7 +932,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM에 대해 더 알아보기…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "나중에">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "다시 묻지 않음">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
