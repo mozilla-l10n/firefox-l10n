@@ -55,7 +55,7 @@ ligação do seu computador à rede.</li>
 
 <!ENTITY netOffline.title "Modo offline">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Prima &quot;Voltar a tentar&quot; para ficar online e recarregar a página.</li> 
+<li>Prima &quot;Voltar a tentar&quot; para trocar para o modo online e recarregar a página.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Erro de codificação de conteúdo">
