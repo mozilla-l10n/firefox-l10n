@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "इस वीडियो को साझा करें">
 <!ENTITY shareVideo.accesskey "r">
-
-
+<!ENTITY feedsMenu2.label "इस पृष्ठ की सदस्यता लें">
+<!ENTITY subscribeToPageMenupopup.label "इस पृष्ठ की सदस्यता लें">
 <!ENTITY subscribeToPageMenuitem.label " इस पृष्ठ की सदस्यता लें…">
 <!ENTITY addCurPagesCmd.label " सभी टैब पुस्तचिह्नित करें…">
 <!ENTITY showAllBookmarks2.label " सभी पुस्तचिह्नों को दिखाएँ">
@@ -257,7 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          " VK_F12">
 <!ENTITY devToolsCmd.keytext          " F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "सेवा कर्त्ता">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        " कनेक्ट करें…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -409,18 +410,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "सहायता मेनू खोलें">
 
 <!ENTITY appMenuRemoteTabs.label "सिंक किये हुए टैब्स">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "सिंक हुए टैब्स ढूँढें जा रहें है…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "कोई टैब खुला नहीं">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से टैब संकलन खोले. ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "अपने दूसरे उपकरणों से Firefox साइन इन कर उनके टैब देखें.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "प्राथमिकताएँ सिंक कीजिए">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें">
 <!ENTITY appMenuRemoteTabs.signin.label "सिंक करने के लिए साइन इन करें">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "संकलित टैब्स बाज़ू पट्टी पर देखें">
 
 <!ENTITY customizeMenu.addToToolbar.label "औज़ार पट्टी में जोड़ें">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -527,8 +531,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           " नए विंडो में फ्रेम खोलें">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "कडी खोलें नए आधान टैब में">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     " सिर्फ यह फ्रेम दिखाएँ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "आर">
@@ -750,7 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "यह पेज आपके कंप्यूटर में सहेजा जाता हैं.">
 <!ENTITY identity.connectionVerified1 "आप इस साईट से सुरक्षित रूप से जुड़े है, चलाएँ जैसे :">
 <!ENTITY identity.connectionInternal "यह एक सुरक्षित &brandShortName; पेज हैं.">
-
+<!ENTITY identity.insecureLoginForms2 "इस पृष्ठ पर अंतरित लॉग-इन्स से समझौता किया जा सकता है.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; इस पृष्ठ के कुछ हिस्सों को अवरुद्ध कर दिया है जो सुरक्षित नहीं हैं।">
@@ -776,7 +780,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "अधिक सीखे">
 
-
+<!ENTITY identity.removeCertException.label "अपवाद मिटाएँ">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "अधिक सूचना">
 
@@ -790,9 +795,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "सिंक किये हुए टैब्स">
 
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "सिंक हुए टैब्स">
+<!ENTITY syncedTabs.sidebar.fetching.label     "सिंक हुए टैब्स ढूँढें जा रहें है…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "अपने दूसरे उपकरणों से Firefox साइन इन कर उनके टैब देखें.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें.">
 
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown

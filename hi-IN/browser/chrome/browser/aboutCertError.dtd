@@ -34,3 +34,4 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "अपवाद जोड़ें…">
 <!ENTITY certerror.copyToClipboard.label "काटपट पाठ की नक़ल करें">
 
+<!ENTITY errorReporting.automatic "इस तरह की त्रुटिओ का विवरण Mozilla को दें जिससे कि वो कुविन्यस्त साइट्स को पहचान पाये.">
