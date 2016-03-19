@@ -96,7 +96,7 @@
 <!ENTITY performanceUI.invertTree.tooltiptext "Ibuyisa imiboniso yomnxeba womthi ipathi zeprofayile yomnxeba ukususela kweyona freyimu incinci ukunyuka ukuya kweyona freyimu inkulu.">
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
-
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Ibuyisela imiboniso yetshati yefreyimu ipathi zeprofayile yomnxeba ukususela kweyona freyimu incinci ukunyuka ukuya kweyona freyimu indala.">
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
