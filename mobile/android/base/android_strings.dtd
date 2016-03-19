@@ -603,7 +603,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "सुरक्षित कनेक्शन">
 <!ENTITY identity_connection_insecure "असुरक्षित कनेक्शन">
 <!ENTITY identity_login_insecure "यह पृष्ठ सुरक्षित नहीं है, आपका प्रवेश खतरे में पड सकता है.">
-
+<!ENTITY identity_connection_chromeui "यह एक सुरक्षित &brandShortName; पृष्ठ">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; इस पेज पर असुरक्षित तत्वों को बाधित कर दिया हैं.">
@@ -744,27 +744,37 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "सहयुक्ति">
+<!ENTITY restrictable_feature_addons_installation_description "फ़ायरफ़ॉक्स में विशेषताएँ और कार्यात्मकता जोड़ें. टिप्पणी: Add-ons विशेष प्रतिबंधों को अक्षम कर सकता है.">
 <!ENTITY restrictable_feature_private_browsing "निजी ब्राउज़िंग">
 
+<!ENTITY restrictable_feature_clear_history "इतिहास साफ़ करें">
 
 
 
 
 
-
-
-
+<!ENTITY restrictable_feature_block_list "सूची बाधित करें ">
+<!ENTITY restrictable_feature_block_list_description "वैसे वेबसाइट बाधित करें जिनमें संवेदनशील तत्व सम्मिलित हैं.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "फ़ायरफ़ॉक्स: आपके ब्राउज़र के बारे में">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "फ़ायरफ़ॉक्स: सहयुक्तियाँ मनपसंद बनाएँ">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "फ़ायरफ़ॉक्स: समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "एंड्रॉयड टैबलेट्स पर प्रतिबंधित प्रोफाइल के लिए Firefox मदद और समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "वेब के बारे में सीखें: मोज़िल्ला वेबमेकर">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_summary "अधिक जानने के लिए टैप करें">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+<!ENTITY whatsnew_notification_title " &brandShortName; अद्यतन है">
 
