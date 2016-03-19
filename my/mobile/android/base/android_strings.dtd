@@ -8,20 +8,21 @@
 
 <!ENTITY firstrun_panel_title_welcome "ကြိုဆိုပါသည်">
 <!ENTITY  onboard_start_message3 "&brandShortName; နှင့်အတူ ရှာဖွေကြည့်ရှုပါ">
+<!ENTITY  onboard_start_subtext3 "သင့်မိုဘိုင်းဝဘ်ရှာဖွေမှုအတွေ့အကြုံကို ကိုယ်တိုင်ခံစားကြည့်ပါ။">
 
-
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_message "&brandShortName; မှ ကြိုဆိုပါသည်။">
+<!ENTITY firstrun_urlbar_subtext "အကူအညီရသောရှာဖွေမှုအကြံပြုချက်ဆိုင်ရာ အလွယ်ခလုတ်များကို အသုံးပြုပြီး ပိုမိုလျင်မြန်စွာ ရှာဖွေပါ။">
+<!ENTITY firstrun_bookmarks_title "မှတ်တမ်း">
+<!ENTITY firstrun_bookmarks_message "Your faves, front and center">
+<!ENTITY firstrun_bookmarks_subtext "သင်ရှာဖွေသည့်အခါ စာမှတ်များနှင့် မှတ်တမ်းများမှ ရလဒ်များကို ရယူပါ။">
+<!ENTITY firstrun_data_title "အချက်အလက်">
+<!ENTITY firstrun_data_message "Less data, more savings">
+<!ENTITY firstrun_data_subtext2 "သင်ကြည့်ရှုသည့် ဝဘ်ဆိုက်များ မိုဘိုင်းဒေတာ သုံးစွဲမှုနည်းစေရန် ရုပ်ပုံများကို ပိတ်ပါ။">
 <!ENTITY firstrun_sync_title "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName; သည် သင့်ဘေးတွင် အမြဲရှိသည်">
+<!ENTITY firstrun_sync_subtext "သင့်တပ်ဗ်များ၊ စကားဝှက်များနှင့် အသုံးပြုသည့်အရာတိုင်းကို Sync လုပ်ဆောင်ပါ။">
+<!ENTITY firstrun_signin_message "ချိတ်ဆက်ပါ။ စတင်အသုံးပြုပါ။">
+<!ENTITY firstrun_signin_button "Sync လုပ်ဆောင်ရန် ဝင်ရောက်ပါ">
 <!ENTITY  onboard_start_button_browser "စတင် ကြည့်ရှုရှာဖွေရန်">
 
 
