@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-mejl">
-
+<!ENTITY fxaccount_password_hint "Hesło">
 <!ENTITY fxaccount_password_hide "Schować">
 <!ENTITY fxaccount_password_show "Pokazać">
 <!-- Localization note: these are shown in screens after the user has
@@ -143,9 +143,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Zwisk njemóžno. Podótkńće so, zo byšće so přizjewił.">
 <!ENTITY fxaccount_status_needs_upgrade "Dyrbiće &brandShortName; aktualizować, zo byšće so přizjewił.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće “Daty awtomatisce synchronizować” w Androidowych nastajenjach &gt; Wužiwanje datow.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće „Daty awtomatisce synchronizować“ w meniju Androidowe nastajenja a konta.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće „Daty awtomatisce synchronizować“ w meniju Androidowych nastajenjow a kontow.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Podótkńće so, zo byšće so pola swojeho noweho konta Firefox přizjewił.">
-
+<!ENTITY fxaccount_status_bookmarks "Zapołožki">
 <!ENTITY fxaccount_status_history "Historija">
 <!ENTITY fxaccount_status_passwords2 "Přizjewjenja">
 <!ENTITY fxaccount_status_tabs "Wočinjene rajtarki">
