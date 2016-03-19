@@ -20,8 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "संग्रहित पिंग डाटा">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "पिंग डाटा दृश्य:">
 
+<!ENTITY aboutTelemetry.structured "संरचित">
 
+<!ENTITY aboutTelemetry.raw "मूळ JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "सबसेशन डाटा दाखवा">
 
@@ -31,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "जुना पिंग &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "मूळ पिंग डाटा...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "आठवडा">
 
@@ -76,3 +80,4 @@
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  पेलोड">
 
+<!ENTITY aboutTelemetry.rawPayload "  मूळ पेलोड">
