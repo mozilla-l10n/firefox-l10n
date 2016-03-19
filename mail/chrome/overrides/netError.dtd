@@ -145,7 +145,7 @@ que el &brandShortName; tingui permís per accedir al web.</li>
 <!ENTITY corruptedContentError.title "Error de contingut malmès">
 <!ENTITY corruptedContentError.longDesc "<p>El contingut que intenteu visualitzar no es pot mostrar perquè s'ha detectat un error en la transmissió de dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
-<!ENTITY securityOverride.linkText "O podeu afegir-hi una excepció…">
+<!ENTITY securityOverride.linkText "O bé, podeu afegir una excepció…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Treu-me d'aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Afegeix una excepció…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
