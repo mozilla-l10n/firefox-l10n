@@ -163,6 +163,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "이 동영상 공유">
 <!ENTITY shareVideo.accesskey "r">
+<!ENTITY feedsMenu2.label "현재 페이지 구독하기">
 <!ENTITY subscribeToPageMenupopup.label "현재 페이지 구독하기">
 <!ENTITY subscribeToPageMenuitem.label "현재 페이지 구독하기…">
 <!ENTITY addCurPagesCmd.label "모든 탭 북마크 추가…">
@@ -256,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
+<!ENTITY devtoolsServiceWorkers.label      "서비스 워커">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "연결…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -421,6 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync 설정">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "다른 기기의 탭 목록을 보기 위해서 로그인 하세요.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync에 로그인">
+<!ENTITY appMenuRemoteTabs.sidebar.label "동기화한 탭 탐색창 보이기">
 
 <!ENTITY customizeMenu.addToToolbar.label "도구 상자에 추가">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -773,6 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "자세히 보기">
 
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "더 보기">
 
@@ -784,11 +789,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "브라우저 탭">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "동기화된 탭">
+<!ENTITY syncTabsMenu3.label     "동기화한 탭">
 
+<!ENTITY syncedTabs.sidebar.label              "동기화한 탭">
+<!ENTITY syncedTabs.sidebar.fetching.label     "동기화한 탭 불러오기…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "다른 기기의 탭을 이곳에서도 보려면 그 기기의 Firefox에 로그인하십시오.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "다른 기기의 탭 목록을 보기 위해서 로그인 하세요.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "열린 탭이 없음">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; 설정 열기">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "다른 기기의 탭 목록을 보려면 탭 동기화를 켜십시오.">
 
+<!ENTITY syncedTabs.context.openTab.label                   "이 탭 열기">
+<!ENTITY syncedTabs.context.openTab.accesskey               "O">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "이 탭 북마크…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
 
 
 <!ENTITY syncBrand.shortName.label    "동기화">
