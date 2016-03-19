@@ -12,6 +12,7 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "धोखादायक साईट!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "इस वेब पृष्ठ पे <span id='phishing_sitename'/> को धोखादायक सूचित किया गया है और आपकी प्राथमिकताओं के अनुसार अवरोधित कर दिया गया है.">
 
