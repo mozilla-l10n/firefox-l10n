@@ -38,7 +38,7 @@
 <!ENTITY  switch_to_tab "切换到标签页">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
-<!ENTITY  crash_message2 "&brandShortName; 因一个问题而崩溃。您的标签页将在下次启动的 &brandShortName; 开始页中列出。">
+<!ENTITY  crash_message2 "&brandShortName; 因某个问题而崩溃。您的标签页将在下次启动的 &brandShortName; 开始页中列出。">
 <!ENTITY  crash_send_report_message3 "告知 &vendorShortName; 有关此次崩溃的情况，以便修复此问题">
 <!ENTITY  crash_include_url2 "包含当时访问页面的地址">
 <!ENTITY  crash_sorry "我们很抱歉">
@@ -429,7 +429,7 @@ size. -->
 <!ENTITY media_stop "停止">
 
 <!ENTITY contextmenu_open_new_tab "在新标签页中打开">
-<!ENTITY contextmenu_open_private_tab "在隐私浏览标签页打开">
+<!ENTITY contextmenu_open_private_tab "在隐私浏览标签页中打开">
 <!ENTITY contextmenu_remove "移除">
 <!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
 <!ENTITY contextmenu_share "共享">
@@ -703,7 +703,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_done "完成">
 
 <!-- Voice search in the awesome bar -->
-<!ENTITY voicesearch_prompt "现在请说">
+<!ENTITY voicesearch_prompt "现在请讲">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -750,7 +750,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "高级设置">
 <!ENTITY restrictable_feature_advanced_settings_description "这包含导入书签、恢复标签页和自动更新。关闭此选项可简化家庭成员使用时所须设定的内容。">
 <!ENTITY restrictable_feature_camera_microphone "相机和麦克风">
-<!ENTITY restrictable_feature_camera_microphone_description "允许家庭成员在网站上的即时通讯。">
+<!ENTITY restrictable_feature_camera_microphone_description "允许家庭成员在网站上即时通讯。">
 <!ENTITY restrictable_feature_block_list "阻止列表">
 <!ENTITY restrictable_feature_block_list_description "阻止包含敏感内容的网站。">
 

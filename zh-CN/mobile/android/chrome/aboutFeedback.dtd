@@ -36,7 +36,7 @@
 <!ENTITY happy.noThanks            "不了，谢谢">
 
 <!ENTITY sad.header                "噢不！">
-<!ENTITY sad.message               "很抱歉您在使用 &brandShortName; 时遇到了问题。请告诉我们发生了什么事情以便我们能够修复。">
+<!ENTITY sad.message               "很抱歉您在使用 &brandShortName; 时遇到了问题。请告诉我们发生了什么事情，以便我们修复。">
 <!ENTITY sad.placeholder           "请在此输入您的反馈">
 <!ENTITY sad.lastSite2             "包括最后访问的网站">
 
