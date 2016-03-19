@@ -150,9 +150,9 @@
 <!ENTITY pref_category_search3 "ค้นหา">
 <!ENTITY pref_category_search_summary "ปรับแต่งผู้ให้บริการค้นหาของคุณ">
 <!ENTITY pref_category_accessibility "การช่วยเข้าถึง">
-
+<!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร การย่อ-ขยาย การป้อนค่าด้วยเสียง">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
-
+<!ENTITY pref_category_privacy_summary3 "การตามรอย คุกกี้ ตัวเลือกข้อมูล">
 
 <!ENTITY pref_category_vendor_summary2 "เกี่ยวกับ &brandShortName; คำถามที่พบบ่อย ข้อคิดเห็น">
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
@@ -167,9 +167,9 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "เคล็ดลับ: เพิ่มเว็บไซต์ใดๆ เข้าในรายการผู้ให้บริการค้นหาของคุณ โดยการแตะค้างบนช่องค้นหาเว็บไซต์ จากนั้นแตะที่ไอคอน &formatI;">
+<!ENTITY pref_search_hint "เคล็ดลับ: เพิ่มเว็บไซต์ใด ๆ ไปยังรายการผู้ให้บริการค้นหาของคุณโดยการแตะค้างบนช่องค้นหาของเว็บไซต์นั้น จากนั้นแตะที่ไอคอน &formatI;">
 <!ENTITY pref_category_advanced "ขั้นสูง">
-<!ENTITY pref_category_advanced_summary2 "เรียกคืนแท็บ โปรแกรมเสริม เครื่องมือนักพัฒนา">
+<!ENTITY pref_category_advanced_summary2 "การเรียกคืนแท็บ โปรแกรมเสริม เครื่องมือนักพัฒนา">
 <!ENTITY pref_developer_remotedebugging "การดีบั๊กระยะไกล">
 <!ENTITY pref_developer_remotedebugging_usb "การดีบั๊กระยะไกลผ่าน USB">
 <!ENTITY pref_developer_remotedebugging_wifi "การดีบั๊กระยะไกลผ่าน Wi-Fi">
@@ -187,7 +187,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ถูกเพิ่มไปยังหน้าแรก">
 <!ENTITY pref_category_home_content_settings "ตั้งค่าเนื้อหา">
-<!ENTITY pref_home_updates "การปรับรุ่นอัตโนมัติ">
+<!ENTITY pref_home_updates "การปรับปรุงอัตโนมัติ">
 <!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_home_updates_wifi "เฉพาะผ่าน Wi-Fi">
 <!ENTITY pref_home_suggested_sites "แสดงคำแนะนำเว็บไซต์">
@@ -221,7 +221,7 @@
 
 <!ENTITY pref_cookies_menu "คุกกี้">
 <!ENTITY pref_cookies_accept_all "ถูกเปิดใช้งาน">
-<!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากบุคคลที่สาม">
+<!ENTITY pref_cookies_not_accept_foreign "ถูกเปิดใช้งาน ยกเว้นจากบุคคลที่สาม">
 <!ENTITY pref_cookies_disabled "ถูกปิดใช้งาน">
 
 <!ENTITY pref_tap_to_load_images_title2 "แสดงภาพ">
@@ -245,7 +245,7 @@
 <!ENTITY tracking_protection_prompt_action_button "เข้าใจแล้ว!">
 
 <!ENTITY tab_queue_toast_message3 "แท็บถูกบันทึกใน &brandShortName;">
-<!ENTITY tab_queue_toast_action "เปิดทันที">
+<!ENTITY tab_queue_toast_action "เปิดตอนนี้">
 <!ENTITY tab_queue_prompt_title "เปิดหลายลิงก์?">
 
 
@@ -285,7 +285,7 @@
 <!ENTITY pref_text_size "ขนาดตัวอักษร">
 <!ENTITY pref_restore_tabs "เรียกคืนแท็บ">
 <!ENTITY pref_restore_always "เรียกคืนเสมอ">
-<!ENTITY pref_restore_quit "ไม่เรียกคืนหลังออกจาก &brandShortName;">
+<!ENTITY pref_restore_quit "อย่าเรียกคืนหลังออกจาก &brandShortName;">
 <!ENTITY pref_font_size_tiny "เล็กมาก">
 <!ENTITY pref_font_size_small "เล็ก">
 <!ENTITY pref_font_size_medium "ปานกลาง">
@@ -307,7 +307,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและสื่ออื่น ๆ ของเว็บไซต์โดยอัตโนมัติ">
 <!ENTITY pref_zoom_force_enabled "เปิดใช้งานการย่อ-ขยายตลอดเวลา">
 <!ENTITY pref_zoom_force_enabled_summary "บังคับใช้เพื่อให้สามารถย่อขยายดูได้ทุกหน้า">
-
+<!ENTITY pref_voice_input "การป้อนค่าด้วยเสียง">
 
 
 <!ENTITY pref_qrcode_enabled_summary2 "อนุญาตตัวสแกน QR ในแถบ URL">
@@ -318,7 +318,7 @@ size. -->
 <!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
 <!ENTITY pref_history_search_suggestions "แสดงประวัติการค้นหา">
 <!ENTITY pref_import_options "ตัวเลือกการนำเข้า">
-<!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเว็บเบราว์เซอร์ในเครื่อง">
+<!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเบราว์เซอร์ในเครื่อง">
 <!ENTITY pref_private_data_history2 "ประวัติการท่องเว็บ">
 <!ENTITY pref_private_data_searchHistory "ประวัติการค้นหา">
 <!ENTITY pref_private_data_formdata2 "ประวัติการกรอกฟอร์ม">
@@ -326,7 +326,7 @@ size. -->
 <!ENTITY pref_private_data_passwords2 "การเข้าสู่ระบบที่บันทึกไว้">
 <!ENTITY pref_private_data_cache "แคช">
 <!ENTITY pref_private_data_offlineApps "ข้อมูลเว็บไซต์ออฟไลน์">
-<!ENTITY pref_private_data_siteSettings2 "ตั้งค่าไซต์">
+<!ENTITY pref_private_data_siteSettings2 "การตั้งค่าไซต์">
 <!ENTITY pref_private_data_downloadFiles2 "ดาวน์โหลด">
 <!ENTITY pref_private_data_syncedTabs "แท็บที่ผสาน">
 
@@ -339,7 +339,7 @@ size. -->
 <!ENTITY pref_dialog_default "ค่าปริยาย">
 <!ENTITY pref_dialog_remove "เอาออก">
 
-<!ENTITY pref_search_last_toast "คุณไม่สามารถลบหรือปิดการทำงานของเครื่องมือค้นหาอันสุดท้ายได้">
+<!ENTITY pref_search_last_toast "คุณไม่สามารถเอาออกหรือปิดใช้งานเครื่องมือค้นหาตัวสุดท้าย">
 
 <!ENTITY pref_panels_show "แสดง">
 <!ENTITY pref_panels_hide "ซ่อน">
@@ -350,8 +350,8 @@ size. -->
 <!ENTITY datareporting_notification_title "สถิติและข้อมูล &brandShortName;">
 <!ENTITY datareporting_notification_action_long "เลือกข้อมูลใดบ้างที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_action "เลือกสิ่งที่จะแบ่งปัน">
-<!ENTITY datareporting_notification_summary "เพื่อปรับปรุงประสบการณ์การใช้งานให้ดีขึ้น &brandShortName; จะส่งข้อมูลบางส่วนไปยัง &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "เพื่อปรับปรุงประสบการณ์การใช้งานให้ดีขึ้น &brandShortName;…">
+<!ENTITY datareporting_notification_summary "เพื่อปรับปรุงประสบการณ์ของคุณ &brandShortName; จะส่งข้อมูลบางส่วนไปยัง &vendorShortName; โดยอัตโนมัติ">
+<!ENTITY datareporting_notification_summary_short "เพื่อปรับปรุงประสบการณ์ของคุณ &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -374,7 +374,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "การปรับรุ่นอัตโนมัติ">
+<!ENTITY pref_update_autodownload3 "การปรับปรุงอัตโนมัติ">
 <!ENTITY pref_update_autodownload_wifi "เฉพาะผ่าน Wi-Fi">
 <!ENTITY pref_update_autodownload_never "ไม่เลย">
 <!ENTITY pref_update_autodownload_always "เสมอ">
@@ -391,7 +391,7 @@ size. -->
 
 <!ENTITY share "แบ่งปัน">
 <!ENTITY share_title "แบ่งปันผ่าน">
-<!ENTITY share_image_failed "ไม่สามารถแบ่งปันรูปภาพนี้ได้">
+<!ENTITY share_image_failed "ไม่สามารถแบ่งปันภาพนี้">
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
 <!ENTITY print "พิมพ์">
 <!ENTITY find_in_page "ค้นหาในหน้านี้">
@@ -407,7 +407,7 @@ size. -->
 <!ENTITY tabs_synced "ผสานแล้ว">
 <!ENTITY set_image_fail "ไม่สามารถตั้งภาพ">
 <!ENTITY set_image_path_fail "ไม่สามารถบันทึกภาพ">
-<!ENTITY set_image_chooser_title "บันทึกภาพเป็น">
+<!ENTITY set_image_chooser_title "ตั้งภาพเป็น">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -479,7 +479,7 @@ size. -->
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title3       "ตั้งค่าไซต์">
+<!ENTITY site_settings_title3       "การตั้งค่าไซต์">
 <!ENTITY site_settings_cancel       "ยกเลิก">
 <!ENTITY site_settings_clear        "ล้าง">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
