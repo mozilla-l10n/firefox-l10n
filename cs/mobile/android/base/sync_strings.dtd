@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Připojit k &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Přidat účet &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'Připojit zařízení'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Pro aktivaci nového zařízení na něm zvolte „Nastavit &syncBrand.shortName.label;“.'>
-<!ENTITY sync.subtitle.header2.label 'Tento kód vložte na svém dalším zařízení'>
-<!ENTITY sync.subtitle.connectlocation2.label 'V nastavení vašeho dalšího zařízení klepněte v části &syncBrand.shortName.label; na „&sync.title.pair.label;“.'>
 <!ENTITY sync.subtitle.pair.label 'Pro aktivaci na druhém zařízení zvolte „Připojit nové zařízení“.'>
 <!ENTITY sync.pin.default.label '…\n…\n…\n'>
-<!ENTITY sync.pin.oneline.label '…'>
-<!ENTITY sync.link.show.label 'Zobrazit návod'>
-<!ENTITY sync.link.advancedsetup.label 'Rozšířené nastavení…'>
 <!ENTITY sync.link.nodevice.label 'Nemám zařízení sebou…'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Čeká se na druhé zařízení…'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Vložit nastavení účtu &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Název účtu'>
-<!ENTITY sync.input.password.label 'Heslo'>
-<!ENTITY sync.input.key.label 'Obnovovací klíč'>
-<!ENTITY sync.checkbox.server.label 'Použít vlastní server'>
-<!ENTITY sync.input.server.label 'Adresa serveru'>
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Nepodařilo se nastavit &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; se nemohl připojit k serveru. Chcete to zkusit znovu?'>
-<!ENTITY sync.button.tryagain.label 'Zkusit znovu'>
-<!ENTITY sync.button.manual.label 'Ruční nastavení'>
-<!ENTITY sync.subtitle.nointernet.label 'Připojení k Internetu není dostupné.'>
-<!ENTITY sync.subtitle.failaccount.label 'Vytvoření účtu skončilo chybou.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Máte nainstalováno více než jednu aplikaci Firefox? &syncBrand.fullName.label; podporuje v současnosti pouze jednu instalaci aplikace Firefox. Pro použití &syncBrand.shortName.label; musíte ostatní instalace aplikace Firefox odinstalovat.'>
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Nastavení dokončeno'>
-<!ENTITY sync.subtitle.success.label1 'Vaše data jsou nyní stahována na pozadí. Můžete přejít zpět do Nastavení nebo si spustit &brandShortName;.'>
-<!ENTITY sync.settings.label 'Nastavení'>
-<!ENTITY sync.subtitle.manage.label1 'Účet &syncBrand.fullName.label; je nyní nastaven. Můžete přejít zpět do Nastavení nebo si spustit &brandShortName;.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Prosím opakujte znovu.'>
-<!ENTITY sync.pair.connectlocation.label 'K aktivaci nového zařízení zvolte „Nastavit &syncBrand.shortName.label;“ a pak vyberte „Již mám účet“.'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Možnosti'>
-<!ENTITY sync.summary.pair.label 'K účtu &syncBrand.shortName.label; připojit další zařízení'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Nastavení synchronizace'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Synchronizovat…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Záložky'>
 <!ENTITY sync.configure.engines.title.passwords2 'Přihlášení'>
 <!ENTITY sync.configure.engines.title.history 'Historie'>
 <!ENTITY sync.configure.engines.title.tabs 'Panely'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Zrušit'>
-<!ENTITY sync.button.connect.label 'Připojit'>
-<!ENTITY sync.button.ok.label 'OK'>
-
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (zastaralé)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -93,20 +40,7 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Připnuto'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Pouze jeden účet &syncBrand.fullName.label; je podporován.'>
-<!ENTITY sync.notification.configure.saved 'Nastavení synchronizace bylo uloženo.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Neplatný název účtu nebo heslo.'>
-<!ENTITY sync.invalidserver.label 'Vložte prosím platnou adresu serveru'>
-<!ENTITY sync.verifying.label 'Ověřování…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Obnovovací klíč je neplatný. Zkuste to prosím znovu.'>
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Odeslat panel na zařízení'>
-<!ENTITY sync.button.send.label 'Odeslat'>
-<!ENTITY sync.button.set.up.sync.label 'Nastavení &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Nastavení &syncBrand.shortName.label; odesílání panelů'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Nastavit &syncBrand.fullName.label; na tomto zařízení k odesílání panelů na jiné zařízení.'>
 <!ENTITY sync.text.tab.sent.label 'Panel byl odeslán'>
