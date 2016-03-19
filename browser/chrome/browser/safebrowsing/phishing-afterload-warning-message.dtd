@@ -5,6 +5,7 @@
 <!ENTITY safeb.palm.accept.label "मला येथुन बाहेर काढा!">
 <!ENTITY safeb.palm.decline.label "ह्या सावधानतेस दुर्लक्ष करा">
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
+<!ENTITY safeb.palm.notdeceptive.label "ही साईट फसवी नाही…">
 <!ENTITY safeb.palm.reportPage.label "हे पृष्ठ का रोखले गेले?">
 <!ENTITY safeb.palm.whyForbidden.label "हे पान का अडवले गेले?">
 
@@ -18,8 +19,10 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> वरील हे वेब पान अनिष्ट सॉफ्टवेअर म्हणून कळले आहे आणि ते आपल्या सुरक्षा पसंतींनुसार अडवले आहे.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>नको असलेली सॉफ्टवेअर पाने फसवी सॉफ्टवेअर प्रस्थापित करण्याचा प्रयत्न करतात आणि आपल्या सिस्टमला अनपेक्षितपणे हानी पोहोचवु शकतात.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title2 "फसवी साईट!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "<span id='phishing_sitename'/> येथील या वेब पानाला फसवे पान म्हणून घोषीत केले व आपल्या सुरक्षा पसंतीनुरूप रोखले गेले आहे.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>फसव्या साईटस् ह्या आपल्याला चकवा देउन आपल्याकडुन काहीतरी धोकादायक करवुन घेते, जसे सॉफ्टवेअर प्रतिष्ठापन, किंवा आपली खाजगी माहिती जसे, पासवर्ड, फोन नंबर, किंवा क्रेडिट कार्ड माहिती उघड होऊ शकते.</p><p>या वेब पानावर माहिती टाकल्या मुळे ओळख चोरी किंवा इतर फसवेगिरी होऊ शकते.</p>">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "अवरोधित साइट">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
