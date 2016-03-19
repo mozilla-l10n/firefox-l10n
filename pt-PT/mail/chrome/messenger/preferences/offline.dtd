@@ -4,12 +4,12 @@
 
 <!ENTITY offlineDialog.title "Definições do modo offline">
 
-<!ENTITY checkAutoDetect.label "Seguir automaticamente o estado detetado">
+<!ENTITY checkAutoDetect.label "Seguir automaticamente o estado online detetado">
 <!ENTITY checkAutoDetect.accesskey "d">
 <!ENTITY titleStartUp "Estado ao iniciar:">
-<!ENTITY radioRememberPrevState.label "Memorizar o último estado">
+<!ENTITY radioRememberPrevState.label "Memorizar o último estado online">
 <!ENTITY radioRememberPrevState.accesskey "r">
-<!ENTITY radioAskState.label "Perguntar estado">
+<!ENTITY radioAskState.label "Pergunte-me pelo estado online">
 <!ENTITY radioAskState.accesskey "u">
 <!ENTITY radioAlwaysOnlineState.label "Online">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
