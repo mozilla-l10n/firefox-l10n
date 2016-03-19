@@ -96,9 +96,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label " पूर्ण स्क्रीन में जाएँ">
+<!ENTITY enterFullScreenCmd.label "पूर्ण स्क्रीन में जाएँ">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label " पूर्ण स्क्रीन से निकलें">
+<!ENTITY exitFullScreenCmd.label "पूर्ण स्क्रीन से निकलें">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "पूर्ण स्क्रीन">
 <!ENTITY fullScreenCmd.accesskey "F">

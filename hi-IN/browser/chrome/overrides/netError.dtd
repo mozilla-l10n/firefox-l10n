@@ -151,6 +151,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "इस तरह की त्रुटियों की सूचना देकर Mozilla का सहयोग करें ताकि Mozilla दुर्भावनापूर्ण साइटों की पहचान कर बंद कर सके">
 <!ENTITY errorReporting.learnMore "अधिक जानें…">
 
 <!ENTITY remoteXUL.title " दूरस्थ XUL">
@@ -159,10 +160,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "सुरक्षित रूप से कनेक्ट करने में असमर्थ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "उन्नत जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "आपका कनेक्शन सुरक्षित नही हैं">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "विस्तृत जानकारी: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "विस्तृत">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> फ़ायरफ़ॉक्स अब आपके ऑपरेटिंग सिस्टम के संस्करण के लिए समर्थन नहीं करता है और अब ऑनलाइन हमले के लिए भेद्य हो जाएगा.">
 <!ENTITY weakCryptoAdvanced.override "(Not secure) लोड करने की कोशिश करें <span class='hostname'></span> पुरानी सुरक्षा का उपयोग कर ">
