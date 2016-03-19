@@ -751,7 +751,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "इतिहास साफ़ करें">
 <!ENTITY restrictable_feature_clear_history_description "परिवार वालों को निरिक्षण किये हग गए साईटस और पेजेज की जानकारी हटाने की इजाज़त देता है">
 <!ENTITY restrictable_feature_advanced_settings "विस्तृत विन्यास">
-
+<!ENTITY restrictable_feature_advanced_settings_description "इसमें पुस्तचिह्न, पुनः प्रचलन टैब और स्वचालित अद्यतन का आयात भी शामिल है. परिवार के सदस्यों के लिए उपयुक्त सेटिंग बंद करें.">
 <!ENTITY restrictable_feature_camera_microphone "कैमरा और माइक्रोफ़ोन">
 
 <!ENTITY restrictable_feature_block_list "सूची बाधित करें ">
@@ -772,9 +772,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "क्षमा करें! यह &brandShortName; इस उपकरण पर काम नहीं करेगा (&formatS1;, &formatS2;). कृपया सही संस्करण डाउनलोड करें.">
+
+<!ENTITY eol_notification_title2 "&brandShortName; अब उद्यतन नहीं होगा">
 <!ENTITY eol_notification_summary "अधिक जानने के लिए टैप करें">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
 <!ENTITY whatsnew_notification_title " &brandShortName; अद्यतन है">
-
+<!ENTITY whatsnew_notification_summary "इस संस्करण में क्या नया है यह ढूंढें">
