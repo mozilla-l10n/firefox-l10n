@@ -206,4 +206,6 @@
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; के रूप में साइन-इन करने के लिए टैप करें">
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
+
+<!ENTITY old_sync_deprecated_notification_title "संकलन जारी रखने के लिए साइन इन करें">
 <!ENTITY old_sync_deprecated_notification_content "आपका विवरण लम्बे समय तक समर्थित नहीं है">
