@@ -12,8 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "S'ha informat que aquesta pàgina web de <span id='malware_sitename'/> és atacant i s'ha blocat d'acord amb les vostres preferències de seguretat.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Els llocs atacants proven d'instal·lar programari que roba informació privada, utilitzen el vostre ordinador per atacar-ne d'altres, o fan malbé el vostre sistema.</p><p>Alguns llocs atacants distribueixen de forma intencionada programari maligne, tot i que molts estan compromesos sense el coneixement o permís dels propietaris.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Aquest lloc pot ser maliciós!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "S'ha informat que aquesta pàgina web de <span id='phishing_sitename'/> és maliciosa i s'ha blocat d'acord amb les vostres preferències de seguretat.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Els llocs web maliciosos estan dissenyats per enganyar-vos i que feu alguna acció perillosa, com instal·lar programari o revelar la vostra informació personal, ja siguin contrasenyes, números de telèfon o targetes de crèdit.</p><p>Introduir-hi cap tipus d'informació pot resultar en una suplantació d'identitat o altra mena de fraus.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Aquest lloc pot contenir programari indesitjable!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
