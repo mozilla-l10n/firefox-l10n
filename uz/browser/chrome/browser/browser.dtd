@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "b">
 <!ENTITY shareVideo.label "Ushbu videoni bo‘lishish">
 <!ENTITY shareVideo.accesskey "s">
-
-
+<!ENTITY feedsMenu2.label "Ushbu sahifaga obuna bo‘lish">
+<!ENTITY subscribeToPageMenupopup.label "Ushbu sahifaga obuna bo‘lish">
 <!ENTITY subscribeToPageMenuitem.label "Ushbu sahifaga obuna bo‘lish…">
 <!ENTITY addCurPagesCmd.label "Barcha ichki oynalarni xatcho‘plash">
 <!ENTITY showAllBookmarks2.label "Barcha xatcho‘plarni ko‘rsatish">
@@ -257,7 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Xizmat ishchilari">
+<!ENTITY devtoolsServiceWorkers.accesskey  "i">
 
 <!ENTITY devtoolsConnect.label        "Ulanish…">
 <!ENTITY devtoolsConnect.accesskey    "U">
@@ -409,11 +410,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Yordam menyusini ochish">
 
 <!ENTITY appMenuRemoteTabs.label "Sinxronlangan ichki oynalar">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Sinxronlangan ichki oynalar yuklanmoqda…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Ochiq ichki oynalar yo‘q">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ichki oynalar ro‘yxatini boshqa qurilmada ko‘rish uchun sinxronlashni yoqing.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
