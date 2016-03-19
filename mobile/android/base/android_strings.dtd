@@ -747,9 +747,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "सहयुक्ति">
 <!ENTITY restrictable_feature_addons_installation_description "फ़ायरफ़ॉक्स में विशेषताएँ और कार्यात्मकता जोड़ें. टिप्पणी: Add-ons विशेष प्रतिबंधों को अक्षम कर सकता है.">
 <!ENTITY restrictable_feature_private_browsing "निजी ब्राउज़िंग">
-
+<!ENTITY restrictable_feature_private_browsing_description "साइट्स और पेजेज़ की जानकारी बचाये बिना परिवार वालों को ब्राउज करने की इजाज़त देता है">
 <!ENTITY restrictable_feature_clear_history "इतिहास साफ़ करें">
-
+<!ENTITY restrictable_feature_clear_history_description "परिवार वालों को निरिक्षण किये हग गए साईटस और पेजेज की जानकारी हटाने की इजाज़त देता है">
 <!ENTITY restrictable_feature_advanced_settings "विस्तृत विन्यास">
 
 <!ENTITY restrictable_feature_camera_microphone "कैमरा और माइक्रोफ़ोन">

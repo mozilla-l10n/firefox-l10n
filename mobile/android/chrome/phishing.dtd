@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "इस वेब पृष्ठ पे <span id='phishing_sitename'/> को धोखादायक सूचित किया गया है और आपकी प्राथमिकताओं के अनुसार अवरोधित कर दिया गया है.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "अवांछित सॉफ्टवेयर साइट रिपोर्टेड किया गया!">
