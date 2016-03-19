@@ -157,7 +157,7 @@
 <!ENTITY fxaccount_status_linktos "सेवा की शर्तें">
 <!ENTITY fxaccount_status_linkprivacy "गोपनीयता नीति">
 <!ENTITY fxaccount_status_more "अधिक&ellipsis;">
-<!ENTITY fxaccount_remove_account "&amp;ellipsis निसंबंध करें">
+<!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox Account मिटाएँ?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; आपके खाते के साथ सिंक करना बंद करेगा, लेकिन इस साधन पर स्थित आपका कोई भी ब्राउजिंग डाटा नहीं मिटाएगा.">
