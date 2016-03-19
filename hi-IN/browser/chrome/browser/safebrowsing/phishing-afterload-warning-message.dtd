@@ -19,6 +19,7 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>अवांछित सॉफ्टवेयर पृष्ठ वह सॉफ्टवेयर स्थापित करने का प्रयास करता हैं जो भ्रामक हो सकता है और अप्रत्याशित तरीके में आपके तंत्र को प्रभावित कर सकता है.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "यह वेब पेज <span id='phishing_sitename'/> को धोकादायक सूचित किआ गया है और आपके प्राथमिकता के अनुसार बंद कर दिया गया है">
 
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "रोका गया अद्यतन">
