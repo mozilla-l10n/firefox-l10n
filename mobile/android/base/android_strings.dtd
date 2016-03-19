@@ -750,9 +750,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY restrictable_feature_clear_history "इतिहास साफ़ करें">
 
+<!ENTITY restrictable_feature_advanced_settings "विस्तृत विन्यास">
 
-
-
+<!ENTITY restrictable_feature_camera_microphone "कैमरा और माइक्रोफ़ोन">
 
 <!ENTITY restrictable_feature_block_list "सूची बाधित करें ">
 <!ENTITY restrictable_feature_block_list_description "वैसे वेबसाइट बाधित करें जिनमें संवेदनशील तत्व सम्मिलित हैं.">
