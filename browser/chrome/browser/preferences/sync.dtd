@@ -5,7 +5,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "设置 &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; 可以在您的多台设备间同步您的书签、历史记录、密码以及打开的标签页。">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; 可以在您的多台设备间同步您的书签库、历史记录、密码以及打开的标签页。">
 
 <!-- The page shown when logged in... -->
 
@@ -81,7 +81,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "登录">
 <!ENTITY welcome.createAccount.label "创建账户">
 
-<!ENTITY welcome.useOldSync.label "在使用旧版本的同步？">
+<!ENTITY welcome.useOldSync.label "还在使用旧版本的同步？">
 
 <!ENTITY signedOut.caption            "让您个性化的网络体验随身相伴">
 <!ENTITY signedOut.description        "跨越您的所有设备，同步您的书签、历史记录、标签页、密码、附加组件、首选项。">
