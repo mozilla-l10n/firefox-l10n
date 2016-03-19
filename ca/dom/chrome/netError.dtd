@@ -72,7 +72,9 @@
 <li>Si us hi heu connectat sense cap problema alguna altra vegada, l'error podria ser temporal, i podeu tornar-ho a provar més tard.</li> 
 </ul>">
 
-
+<!ENTITY securityOverride.linkText "O bé, podeu afegir una excepció…">
+<!ENTITY securityOverride.warningContent "<p>No hauríeu d'afegir una excepció si esteu utilitzant una connexió d'Internet de la qual no en confieu completament, o si no esteu acostumat a veure un avís d'aquest servidor.</p> 
+<p>Si tot i això voleu afegir una excepció per a aquest lloc web, podeu fer-ho des dels paràmetres avançats de xifratge.</p>">
 
 <!ENTITY cspBlocked.title "Blocat per la política de seguretat del contingut">
 <!ENTITY cspBlocked.longDesc "<p>El navegador ha impedit que la pàgina es carregui d'aquesta manera perquè la pàgina té una política de seguretat del contingut que no ho permet.</p>">
