@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY certmgr.title                       "Kinuk'samajel kiwujil taq b'i'aj">
+
 <!ENTITY certmgr.tab.mine                     "Ri taq ruwujil ab'i'">
 
 <!ENTITY certmgr.tab.websites3                "Taq ruk'u'x samaj">

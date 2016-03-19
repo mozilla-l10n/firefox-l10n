@@ -25,6 +25,8 @@
 <!ENTITY downloadCert.viewCert.label "Titz'et">
 <!ENTITY downloadCert.viewCert.text "Tinik'öx ruwujil rub'i' CA">
 <!-- Strings for the SSL client auth ask dialog -->
+
+<!ENTITY clientAuthAsk.title "Ruk'utuxik ri rutz'etob'al winäq">
 <!ENTITY clientAuthAsk.message1 "Re jun ruxaq k'amaya'l re' xuk'utuj pe chi taya' ab'i' rik'in jun ruwujil b'i'aj:">
 
 <!ENTITY clientAuthAsk.message3 "Cha'on taq rub'anikil ruwujil b'i'aj:">
