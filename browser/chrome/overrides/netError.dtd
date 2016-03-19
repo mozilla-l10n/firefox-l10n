@@ -16,7 +16,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "العنوان ممنوع">
-<!ENTITY deniedPortAccess.longDesc "">
+<!ENTITY deniedPortAccess.longDesc "​">
 
 <!ENTITY dnsNotFound.title "الخادوم غير موجود">
 <!ENTITY dnsNotFound.longDesc "<ul> 

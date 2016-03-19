@@ -127,7 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.beforeDomain.label "​">
 <!ENTITY fullscreenWarning.afterDomain.label "يملأ الشاشة الآن">
 <!ENTITY fullscreenWarning.generic.label "يملأ هذا المستند الشاشة الآن">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "ش">
 <!ENTITY shareVideo.label "شارك هذا الڤديو">
 <!ENTITY shareVideo.accesskey "ش">
-
-
+<!ENTITY feedsMenu2.label "اشترك بهذه الصفحة">
+<!ENTITY subscribeToPageMenupopup.label "اشترك بهذه الصفحة">
 <!ENTITY subscribeToPageMenuitem.label "اشترك في هذه الصفحة…">
 <!ENTITY addCurPagesCmd.label "علّم كل الألسنة…">
 <!ENTITY showAllBookmarks2.label "أظهِر كل العلامات">
@@ -409,16 +409,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "افتح قائمة المساعدة">
 
 <!ENTITY appMenuRemoteTabs.label "الألسنة المُزامنة">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "يجلب الألسنة المُزامنة…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "لا ألسنة مفتوحة">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "فعّل مزامنة الألسنة لعرض قائمة بالألسنة من أجهزتك الأخرى.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "لِج إلى فيَرفُكس من أجهزتك الأخرى لعرض ألسنتهم هنا.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "تفضيلات المزامنة">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "لِج لعرض قائمة بالألسنة من أجهزتك الأخرى.">
 <!ENTITY appMenuRemoteTabs.signin.label "لِج إلى «المزامنة»">
 <!ENTITY appMenuRemoteTabs.sidebar.label "أظهر شريط الألسنة المزامَنة الجانبي">
 
@@ -498,7 +501,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      as:  "Search <selected engine name><searchAfter.label text>" -->
 
 <!ENTITY search.label                 "ابحث ">
-<!ENTITY searchAfter.label            "">
+<!ENTITY searchAfter.label            "​">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -670,7 +673,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "​">
 
 <!ENTITY fullZoomReduceCmd.label        "بعّد">
 <!ENTITY fullZoomReduceCmd.accesskey    "ب">
@@ -680,7 +683,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.label         "صفّر">
 <!ENTITY fullZoomResetCmd.accesskey     "ص">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "​">
 
 <!ENTITY fullZoomToggleCmd.label        "قرّب النص فقط">
 <!ENTITY fullZoomToggleCmd.accesskey    "ن">
@@ -791,18 +794,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "الألسنة المُزامنة">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "الألسنة المُزامنة">
+<!ENTITY syncedTabs.sidebar.fetching.label     "يجلب الألسنة المُزامنة…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "لِج إلى فيَرفُكس من أجهزتك الأخرى لعرض ألسنتهم هنا.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "لِج لعرض قائمة بالألسنة من أجهزتك الأخرى.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "لا ألسنة مفتوحة">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "افتح تفضيلات &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "فعّل مزامنة الألسنة لعرض قائمة بالألسنة من أجهزتك الأخرى.">
 
 <!ENTITY syncedTabs.context.openTab.label                   "افتح هذا اللسان">
 <!ENTITY syncedTabs.context.openTab.accesskey               "ف">
-
-
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "علّم هذا اللسان…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "ع">
 
 
 <!ENTITY syncBrand.shortName.label    "تزامُن">

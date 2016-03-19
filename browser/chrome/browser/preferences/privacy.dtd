@@ -69,7 +69,7 @@
 <!ENTITY  historyHeader.remember.label     "يتذكر التأريخ">
 <!ENTITY  historyHeader.dontremember.label "لن يتذكر التأريخ أبدًا">
 <!ENTITY  historyHeader.custom.label       "يستخدم إعدادات مخصصة للتأريخ">
-<!ENTITY  historyHeader.post.label         "">
+<!ENTITY  historyHeader.post.label         "​">
 
 <!ENTITY  rememberDescription.label      "سيتذكر &brandShortName; تصفحك وتنزيلاتك والنماذج التي ملأتها وتأريخ البحث، كما سيحتفظ بكعكات مواقع الوب التي زرتها.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
