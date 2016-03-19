@@ -98,9 +98,11 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo3.start            "Baixeu el Firefox per a l'">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.androidLink      "Android">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 
-<!ENTITY mobilePromo3.iOSBefore         " o bé el ">
+<!ENTITY mobilePromo3.iOSBefore         " o per a l'">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " per sincronitzar amb el vostre dispositiu mòbil.">

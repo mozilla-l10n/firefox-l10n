@@ -23,8 +23,8 @@
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  doNotTrack.pre.label          "També podeu ">
-
-
+<!ENTITY  doNotTrack.settings.label     "gestionar els paràmetres de «No vull ser seguit»">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Historial">
 
