@@ -531,8 +531,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "चौकटाला नवीन पटलात उघडा">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "दुवा नवीन  Container टॅब मधे उघडा">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "फक्त ही चौकट दाखवा">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -780,7 +780,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "आणखी शिका">
 
-
+<!ENTITY identity.removeCertException.label "अपवाद काढा">
+<!ENTITY identity.removeCertException.accesskey "क">
 
 <!ENTITY identity.moreInfoLinkText2 "अधिक माहिती">
 
@@ -794,17 +795,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "ताळमेळीत टॅब्स">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "ताळमेळीत टॅब्स">
+<!ENTITY syncedTabs.sidebar.fetching.label     "ताळमेळीत टॅब्स मिळवत आहे…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "आपल्या इतर उपकरणावरुन येथे टॅब्स पाहण्यासाठी Firefox मध्ये साइन इन करा.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "आपल्या इतर उपकरणावरुन टॅब्स पाहण्यासाठी साइन इन करा.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "उघडे टॅब्स नाही">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; प्राधान्यता उघडा">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "आपल्या इतर उपकरणावरुन या उपकरणावर टॅब्स पाहण्यासाठी टॅब ताळमेळ सक्रीय करा.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "ही टॅब उघडा">
+<!ENTITY syncedTabs.context.openTab.accesskey               "उ">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "या पानास वाचनखूण लावा…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "व">
 
 
 <!ENTITY syncBrand.shortName.label    "ताळमेळ">
