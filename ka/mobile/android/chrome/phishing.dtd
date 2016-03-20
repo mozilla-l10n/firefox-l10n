@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "გამიყვანეთ აქედან!">
 <!ENTITY safeb.palm.decline.label "ამ გაფრთხილების იგნორირება">
-<!ENTITY safeb.palm.notforgery.label2 "ეს არაა ვებ ყალთაბანდობა…">
 <!ENTITY safeb.palm.reportPage.label "რატომაა ეს გვერდი დაბლოკილი?">
 <!ENTITY safeb.palm.whyForbidden.label "რატომ დაიბლოკა ეს საიტი?">
 
@@ -13,9 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "ეს ვებ გვერდი <span id='malware_sitename'/> ცნობილია როგორც მოიერიშე გვერდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების თანახმად.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>მოიერიშე გვერდები ცდილობენ ჩადგან პროგრამები, რომლითაც იპარავენ კერძო ინფორმაციას, იყენებენ თქვენს კომპიუტერს სხვების შესატევად ან აზიანებენ თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე გვერდი განზრახ ავრცელებს მავნე ინფორმაციას, თუმცა ბევრი სხვა ამას საიტის მფლობელის ნებართვის გარეშე ისე აკეთებს, რომ მფლობელი საქმის კურსში არაა.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "ეჭვი ვებ ყალთაბანდობაზე">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ამ გვერდზე პირადი მონაცემების შეტანას შესაძლოა თქვენი პირადი მონაცემების გაჟონვა და ბორუტად გამოყენება მოჰყვეს.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "ასეთი ტიპის ყალთაბანდური გვერდები თავსმოხვევის ტაქტიკას ირჩევენ, რომელიც ანკესობის სახელითაა ცნობილი.  ამ დროს იქმნება მავნე ვებ გვერდები და ელფოსტის წერილები თითქოსდა სანდო, საიმედო და და კანონიერი წყაროა განთავსებული.">
+<!ENTITY safeb.blocked.phishingPage.title3 "მატყუარა საიტი!">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "ეს ვებ გვერდი <span id='phishing_sitename'/> ცნობილია როგორც ვებ ყალთაბანდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების თანახმად.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>მატყუარა საიტები შექმნილია თქვენი გაცურების , მაგალითად არასასურველი პროგრამის დაყენების, ან თქვენი პირადი ინფორმაციის, როგორიცაა პაროლები, ტელეფონის ნომრები და საკრედიტო ბარათების გამოჩენის მიზნით .</p><p>ამ ვებ-გვერდზე ნებისმიერი სახის ინფორმაციის შეყვანამ შესაძლოა იდენტურობის ქურდობა ან სხვა თაღლითობა გამოიწვიოს .</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "შეტყობინებული არასასურველი პროგრამის საიტი!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
