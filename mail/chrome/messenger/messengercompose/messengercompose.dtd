@@ -307,3 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Contactes">
 <!-- Identity popup customize menuitem -->
 
+<!ENTITY customizeFromAddress.label "Personalitza l'adreça «De»…">
+<!ENTITY customizeFromAddress.accesskey "P">

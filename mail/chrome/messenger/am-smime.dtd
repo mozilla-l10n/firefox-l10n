@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Utilitzeu aquest certificat per signar digitalment els missatges que envieu:">
 
 <!ENTITY certificates.label "Certificats">
-
-
+<!ENTITY manageCerts2.label "Gestiona els certificats">
+<!ENTITY manageCerts2.accesskey "G">
 <!ENTITY manageDevices.label "Dispositius de seguretat">
 <!ENTITY manageDevices.accesskey "s">
