@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY tabCmd.label "Aba do navegador">
 <!ENTITY tabCmd.accesskey "A">
 <!ENTITY tabCmd.commandkey "t">
@@ -21,11 +21,11 @@
 
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
+
 <!-- Edit Menu -->
-
 <!ENTITY findOnCmd.label "Localizar nesta página…">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Exibir/Ocultar">
 <!ENTITY toolbarsCmd.accesskey "x">
 <!ENTITY tabbarCmd.label "Barra de abas">
@@ -35,7 +35,7 @@
 <!ENTITY componentbarCmd.label "Barra de componentes">
 <!ENTITY componentbarCmd.accesskey "c">
 
-<!ENTITY fullScreenCmd.label "Tela cheia">
+<!ENTITY fullScreenCmd.label "Tela inteira">
 <!ENTITY fullScreenCmd.accesskey "T">
 
 <!ENTITY useStyleSheetMenu.label "Usar estilo">
@@ -52,8 +52,8 @@
 <!ENTITY pageInfoCmd.label "Informações da página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Ir">
 <!ENTITY goMenu.accesskey "I">
 <!ENTITY goHomeCmd.label "Página inicial">
@@ -71,8 +71,8 @@
 <!ENTITY historyRestoreLastSession.accesskey "R">
 <!ENTITY syncTabsMenu.label "Abas de outros computadores">
 <!ENTITY syncTabsMenu.accesskey "o">
-<!-- Bookmarks Menu -->
 
+<!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Favoritos">
 <!ENTITY bookmarksMenu.accesskey "F">
 <!ENTITY addCurPageCmd.label "Adicionar aos favoritos">
@@ -85,8 +85,8 @@
 <!ENTITY manBookmarksCmd.label "Gerenciar favoritos">
 <!ENTITY manBookmarksCmd.accesskey "G">
 <!ENTITY manBookmarksCmd.commandkey "b">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY searchInternetCmd.label "Pesquisar na Web">
 <!ENTITY searchInternetCmd.accesskey "P">
 <!ENTITY searchInternet.commandKey "s">

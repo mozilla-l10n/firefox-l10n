@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Bloquear popups deste site">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Desbloquear popups deste site">
@@ -123,7 +123,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Ocultar controles de mídia">
 <!ENTITY mediaHideControls.accesskey  "a">
-<!ENTITY videoFullScreen.label        "Tela cheia">
+<!ENTITY videoFullScreen.label        "Tela inteira">
 <!ENTITY videoFullScreen.accesskey    "c">
 <!ENTITY videoSaveImage.label         "Salvar a captura como…">
 <!ENTITY videoSaveImage.accesskey     "S">
