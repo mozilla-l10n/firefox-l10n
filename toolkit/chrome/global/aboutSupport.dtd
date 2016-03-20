@@ -58,6 +58,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workerهای ثبت شده">
 
+<!ENTITY aboutSupport.appBasicsProfiles "نمایه">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "پنجره‌های چندپردازشی">
 
