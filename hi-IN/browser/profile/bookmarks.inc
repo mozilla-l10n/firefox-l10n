@@ -10,13 +10,13 @@
 # live.
 
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title बुकमार्क
 
 
-#define bookmarks_heading Bookmarks
+#define bookmarks_heading बुकमार्क
 
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
+#define bookmarks_toolbarfolder बुकमार्क्स टूलबार फ़ोल्डर
 
 
 #define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
@@ -28,7 +28,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/central/
 
 
-#define getting_started Getting Started
+#define getting_started शुरू करना
 
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -46,7 +46,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 
 
-#define firefox_help Help and Tutorials
+#define firefox_help मदद और ट्यूटोरियल
 
 
 # LOCALIZATION NOTE (firefox_customize):
@@ -64,7 +64,7 @@
 # link title for https://www.mozilla.org/en-US/contribute/
 
 
-#define firefox_community Get Involved
+#define firefox_community शामिल हों
 
 
 # LOCALIZATION NOTE (firefox_about):
@@ -73,7 +73,7 @@
 # link title for https://www.mozilla.org/en-US/about/
 
 
-#define firefox_about About Us
+#define firefox_about हमारा परिचय
 
 
 #unfilter emptyLines
