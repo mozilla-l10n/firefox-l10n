@@ -251,6 +251,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Ezt később a Beállításokban módosíthatja">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Kapcsolja be a Rajzolás engedélyezését más appok fölött">
 <!ENTITY tab_queue_prompt_positive_action_button "Engedélyezés">
 <!ENTITY tab_queue_prompt_negative_action_button "Most nem">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -267,6 +268,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 lap várakozik">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Több hivatkozás megnyitásához engedélyezze a „Rajzolás más appok fölött” jogosultságot a &brandShortName;hoz">
 
 <!ENTITY pref_char_encoding "Karakterkódolás">
 <!ENTITY pref_char_encoding_on "Menü megjelenítése">
@@ -535,7 +538,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "Itt jelennek meg a legutóbbi lapok.">
 <!ENTITY home_open_all "Összes megnyitása">
 <!ENTITY home_most_recent_empty "A legutóbb meglátogatott weboldalak itt jelennek meg.">
-
+<!ENTITY home_selected_empty "Itt jelennek meg a kijelölt időszakban meglátogatott weboldalak.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Pszt: &formatS1;Új privát lap&formatS2; használata nem őrzi meg az előzményeket.">
@@ -598,7 +601,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Biztonságos kapcsolat">
 <!ENTITY identity_connection_insecure "Nem biztonságos kapcsolat">
 <!ENTITY identity_login_insecure "Ez az oldal nem biztonságos, és bejelentkezése sebezhető lehet.">
-
+<!ENTITY identity_connection_chromeui "Ez egy biztonságos &brandShortName; oldal.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "A &brandShortName; nem biztonságos tartalmat blokkolt ezen az oldalon.">
@@ -622,6 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "A privát adatok törölve">
 <!ENTITY private_data_fail "Egyes privát adatok nem törölhetők">
 
+<!ENTITY bookmarkhistory_button_import "Importálás">
 <!ENTITY bookmarkhistory_import_both "Könyvjelzők és előzmények importálása 
 Androidról">
 <!ENTITY bookmarkhistory_import_bookmarks "Könyvjelzők importálása 
@@ -662,7 +666,10 @@ Androidról">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Fájlok és frissítések letöltéséhez engedélyezze a tároló elérését a &brandShortName;nak.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Engedélyezés">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Új vendég munkamenet">
@@ -752,8 +759,8 @@ Androidról">
 <!ENTITY restrictable_feature_advanced_settings_description "Ide a könyvjelzők importálása, lapok visszaállítása és az automatikus frissítések tartoznak. Kapcsolja ki egyszerűsített, bármely családtagnak megfelelő beállításokért.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera és mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Lehetővé teszi családtagoknak a valós idejű kommunikációt a weboldalakon.">
-
-
+<!ENTITY restrictable_feature_block_list "Blokkolási lista">
+<!ENTITY restrictable_feature_block_list_description "Érzékeny tartalmú weboldalak blokkolása.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
