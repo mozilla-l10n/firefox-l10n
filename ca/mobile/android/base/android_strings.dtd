@@ -193,6 +193,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Inici del &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -203,33 +204,37 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-
+<!ENTITY pref_header_search "Cerca">
 <!ENTITY pref_header_privacy_short "Privadesa">
-
+<!ENTITY pref_header_accessibility "Accessibilitat">
 
 <!ENTITY pref_header_help "Ajuda">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Galetes">
 <!ENTITY pref_cookies_accept_all "Habilitades">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
 <!ENTITY pref_cookies_disabled "Inhabilitades">
 
+<!ENTITY pref_tap_to_load_images_title2 "Mostra les imatges">
+<!ENTITY pref_tap_to_load_images_enabled "Sempre">
+<!ENTITY pref_tap_to_load_images_data "Només per Wi-Fi">
 
 
 
-
-
-
+<!ENTITY pref_tracking_protection_title "Protecció contra el seguiment">
+<!ENTITY pref_tracking_protection_summary3 "Activada en la navegació privada">
 <!ENTITY pref_donottrack_title "No vull ser seguit">
 <!ENTITY pref_donottrack_summary "El &brandShortName; farà saber als llocs web que no voleu que us segueixin">
 
+<!ENTITY pref_tracking_protection_enabled "Activada">
+<!ENTITY pref_tracking_protection_enabled_pb "Activada en la navegació privada">
+<!ENTITY pref_tracking_protection_disabled "Desactivada">
+
+<!ENTITY tracking_protection_prompt_title "Ara amb protecció contra el seguiment">
 
 
-
-
-
-
+<!ENTITY tracking_protection_prompt_action_button "Entesos">
 
 <!ENTITY tab_queue_toast_action "Obre ara">
 <!ENTITY tab_queue_prompt_title "Esteu obrint diversos enllaços?">
