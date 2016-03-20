@@ -32,5 +32,6 @@ estigués interferint en la vostra connexió.</b>">
 <!ENTITY certerror.expert.contentPara2 "No afegiu una excepció a menys 
 que sapigueu del cert perquè aquest lloc web no utilitza una identificació pertinent.">
 <!ENTITY certerror.addException.label "Afegeix una excepció…">
+<!ENTITY certerror.copyToClipboard.label "Copia el text al porta-retalls">
 
-
+<!ENTITY errorReporting.automatic "Informa dels errors com aquest per ajudar a Mozilla a identificar els llocs mal configurats">
