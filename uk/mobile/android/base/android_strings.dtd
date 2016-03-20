@@ -234,7 +234,7 @@
 
 <!ENTITY pref_tracking_protection_title "Захист від стеження">
 <!ENTITY pref_tracking_protection_summary3 "Увімкнено в приватному перегляді">
-<!ENTITY pref_donottrack_title "Не стежити">
+<!ENTITY pref_donottrack_title "Відмова від стеження">
 <!ENTITY pref_donottrack_summary "&brandShortName; буде повідомляти сайти, що ви не хочете, щоб за вами стежили">
 
 <!ENTITY pref_tracking_protection_enabled "Увімкнено">
