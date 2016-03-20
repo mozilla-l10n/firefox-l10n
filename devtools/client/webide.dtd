@@ -196,7 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "यदि आपका युक्ति टोकन की माँग करता है QR कोड स्कैन करने के बदले, अन्य युक्ति के नीचे मान की नकल करें:">
-
+<!ENTITY wifi_auth_qr_size_note "यदि कनेक्शन स्थापित करने के लिए QR कोड बहुत न्यून प्रतीत होता है तो, विंडो को जूम या विस्तारित करें">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "प्री-पैकेजिंग कमांड लॉग">
@@ -214,5 +214,5 @@
 <!ENTITY simulator_screenSize "स्क्रीन">
 <!ENTITY simulator_pixelRatio "पिक्सल अनुपात">
 <!ENTITY simulator_tv_data "टीवी अनुकरण">
-
+<!ENTITY simulator_tv_data_open "डेटा का विन्यास करें">
 <!ENTITY simulator_tv_data_open_button "समाकृति निर्देशिका खोलें...">
