@@ -59,18 +59,19 @@
 <!ENTITY url_bar_default_text2 "ရှာဖွေ (သို့) လိပ်စာ ထည့်သွင်းပါ">
 
 <!ENTITY bookmark "စာညှပ်">
-
+<!ENTITY bookmark_remove "စာမှတ်ကို ဖျက်ရန်">
 <!ENTITY bookmark_added "စာညှပ် ထည့်ပြီး">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "စာမှတ်လုပ်ထားပြီး">
 <!ENTITY bookmark_removed "စာညှပ်အား ပယ်ဖျက်ပြီး။">
 <!ENTITY bookmark_updated "စာညှပ်အား ပြင်ဆင်သတ်မှတ်ပြီး">
 <!ENTITY bookmark_options "ရွေးစရာများ">
 
 <!ENTITY history_today_section "ဒီနေ့">
 <!ENTITY history_yesterday_section "မနေ့">
-
+<!ENTITY history_week_section3 "လွန်ခဲ့သော ၇ ရက်က">
 
 
 
@@ -102,14 +103,17 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "အော်ဒီယို ဖွင့်နေသည်။ –&formatS;">
 
 <!ENTITY settings "အပြင်အဆင်">
 <!ENTITY settings_title "အပြင်အဆင်များ">
-
-
+<!ENTITY pref_category_general "အထွေထွေ">
+<!ENTITY pref_category_general_summary2 "အဖွင့်စာမျက်နှာ၊ ဘာသာစကား၊ URL ဘားတန်း">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "ဘာသာစကား">
 <!ENTITY pref_category_language_summary "သင့်ဘယောက်ဆာ၏ ဘာသာစကား အားပြောင်းပါ">
 <!ENTITY pref_browser_locale "ဘယောက်ဆာ ဘာသာစကား">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -128,7 +132,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "မှတ်သားချက်">
 <!ENTITY overlay_share_reading_list_btn_label "စာအမှတ်သို့ ထည့်ပါ">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "စာမှတ်လုပ်ထားပြီး">
 <!ENTITY overlay_share_reading_list_btn_label_already "စာအမှတ် စာရင်းထဲတွင်ရှိပြီး">
 <!ENTITY overlay_share_send_other "အခြားဖုန်းများသို့ ပို့ပါ">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -142,13 +146,15 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "မီးမြေခွေးအကောင့်နှင့် ချိတ်ဆက်ထားသည့် ကိရိယာများကို မတွေ့ပါ">
 
+<!ENTITY pref_category_search3 "ရှာဖွေပါ">
 <!ENTITY pref_category_search_summary "သင်၏ ရှာဖွေမှု ဝန်ဆောင်သူများအား ပြုပြင်မည်">
-
-
+<!ENTITY pref_category_accessibility "သုံးစွဲနိုင်စွမ်း">
+<!ENTITY pref_category_accessibility_summary2 "စာသားအရွယ်အစား၊ မြင်ကွင်းအချုံအချဲ့၊ အသံဖြင့်အမိန့်ပေးခြင်း">
 <!ENTITY pref_category_privacy_short "လုံခြုံရေး">
-
-
+<!ENTITY pref_category_privacy_summary3 "မှတ်သားခြင်း၊ ကွတ်ကီးများ၊ ဒေတာအသုံးပြုမှု ရွေးချယ်ခြင်း">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 
 <!ENTITY pref_category_datareporting "ဒေတာ အမျိုးအစား">
 <!ENTITY pref_learn_more "ဆက်လေ့လာပါ">
@@ -163,14 +169,14 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: မည်သည့် ဝတ်ဆိုဒ်ကို မဆိုသင်၏ ရှာဖွေမှုဝန်ဆောင်သူအဖြစ် သုံးရန် ရှာဖွေဖောင်အား လက်ဖြင့်ကြာကြာဖိကာ &formatI; အိုင်ကွန်ကို နှိပ်ပါ။">
-
+<!ENTITY pref_category_advanced "အဆင့်မြင့်">
 
 <!ENTITY pref_developer_remotedebugging "အဝေးထိန်း စစ်ဆေးခြင်း">
 
 
 
-
-
+<!ENTITY pref_remember_signons2 "ဝင်ရောက်မှုများကို မှတ်ထားပါ">
+<!ENTITY pref_manage_logins "ဝင်ရောက်မှုများကို စီမံရန်">
 
 <!ENTITY pref_category_home "ပင်မ">
 <!ENTITY pref_category_home_summary "သင်၏ပင်မမျက်နှာစာကို ပြင်ပါ">
@@ -182,53 +188,62 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 အားပင်မစာမျက်နှာသို့ထည့်ပြီး">
 <!ENTITY pref_category_home_content_settings "အပြင်အဆင်">
-
+<!ENTITY pref_home_updates "အလိုအလျောက် အဆင့်မြှင့်တင်မှုများ">
 <!ENTITY pref_home_updates_enabled "ဖွင့်ထားတယ်">
 <!ENTITY pref_home_updates_wifi "Wi-Fi ဖြင့်သာ">
 <!ENTITY pref_home_suggested_sites "ရည်ညွှန်းထားသော ဝတ်ဆိုဒ်များအားပြပါ">
 <!ENTITY pref_home_suggested_sites_summary "သင်စိတ်ဝင်စားနိုင်ခြေ ရှိသော ဝတ်ဆိုဒ်များသို့ အမြန်သွားလင်ခ့်များ ပင်မစာမျက်နှာတွင် ပြထားမည်။">
-
-
+<!ENTITY pref_category_home_homepage "အဖွင့်စာမျက်နှာ">
+<!ENTITY home_homepage_title "အဖွင့်စာမျက်နှာ သတ်မှတ်ရန်">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; အဖွင့်စာမျက်နှာ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "စိတ်ကြိုက်">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "လိပ်စာ သို့မဟုတ် ရှာဖွေရန် ရိုက်ပါ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
-
+<!ENTITY pref_header_general "အထွေထွေ">
+<!ENTITY pref_header_search "ရှာဖွေပါ">
+<!ENTITY pref_header_privacy_short "ကိုယ်ရေးလုံခြုံမှု">
+<!ENTITY pref_header_accessibility "သုံးစွဲနိုင်စွမ်း">
+<!ENTITY pref_header_advanced "အဆင့်မြင့်">
 <!ENTITY pref_header_help "အကူအညီ">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "ကွတ်ကီးများ">
-
+<!ENTITY pref_cookies_accept_all "ဖွင့်ထားသည်">
 <!ENTITY pref_cookies_not_accept_foreign "3rd ပါတီ ဆော့ဝဲများပါ ဖွင့်ထားပြီး">
 <!ENTITY pref_cookies_disabled "ပိတ်ထားတယ်">
 
+<!ENTITY pref_tap_to_load_images_title2 "ရုပ်ပုံများကို ပြပါ">
+<!ENTITY pref_tap_to_load_images_enabled "အမြဲတမ်း">
+<!ENTITY pref_tap_to_load_images_data "Wi-Fi ဖြင့်သာ">
+<!ENTITY pref_tap_to_load_images_disabled2 "ပိတ်ဆို့ထားသည်">
 
+<!ENTITY pref_show_web_fonts "ဝဘ်ဖောင့်များကို ပြပါ">
 
-
-
-
+<!ENTITY pref_tracking_protection_title "ခြေရာခံခြင်း ကာကွယ်မှု">
 
 <!ENTITY pref_donottrack_title "ခြေရာမခံပါနှင့်">
 <!ENTITY pref_donottrack_summary "&brandShortName; သှ် ဝတ်ဆိုဒ်များအား သင့်ကို ခြေရာမခံရန် ပြောပေးထားမည်ဖြစ်သှ်">
 
+<!ENTITY pref_tracking_protection_enabled "ဖွင့်ထားသည်">
+
+<!ENTITY pref_tracking_protection_disabled "ပိတ်ထားသည်">
 
 
 
-
-
-
+<!ENTITY tracking_protection_prompt_action_button "ရပြီ!">
 
 
 
