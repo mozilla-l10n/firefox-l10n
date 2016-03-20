@@ -73,7 +73,8 @@
 </ul>">
 
 <!ENTITY securityOverride.linkText "या आप अपवाद जोड़ सकते हैं…">
-
+<!ENTITY securityOverride.warningContent "<p>यदि आप किसी इंटरनेट कनेक्शन का प्रयोग कर रहे हैं जिसे आप पूरी तरह से भरोसा नहीं करते हैं या आप इस सर्वर के लिए किसी चेतावनी को देखने के अभ्यस्त नहीं है तो आपको किसी अपवाद को नहीं जोड़ना चाहिए.</p>
+<p>यदि आप अभी भी इस साइट के लिए अपवाद देखने की इच्छा रखते हैं, आप इसे अपने उन्नत गोपन सेटिंग में कर सकते हैं.</p>">
 
 <!ENTITY cspBlocked.title "अंतर्वस्तु सुरक्षा नीति के द्वारा अवरोधित">
 <!ENTITY cspBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
