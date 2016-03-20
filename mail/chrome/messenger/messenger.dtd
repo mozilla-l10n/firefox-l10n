@@ -199,8 +199,8 @@
 
 <!ENTITY msgsMenu.label "Ziņojumi">
 <!ENTITY msgsMenu.accesskey "m">
-
-
+<!ENTITY threads.label "Pavedieni">
+<!ENTITY threads.accesskey "e">
 
 
 
@@ -424,8 +424,8 @@
 
 
 
-
-
+<!ENTITY addressBookCmd.label "Adrešu grāmata">
+<!ENTITY addressBookCmd.accesskey "g">
 <!ENTITY addressBookCmd.key "B">
 
 
@@ -610,6 +610,8 @@
 
 
 <!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Pavediens">
 
 
 
