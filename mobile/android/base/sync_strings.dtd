@@ -16,6 +16,8 @@
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "No tinc el dispositiu aquí...">
 <!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.passwords2 "Inicis de sessió">
 <!ENTITY sync.configure.engines.title.history "Historial">
 <!ENTITY sync.configure.engines.title.tabs "Pestanyes">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -55,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Adreça electrònica">
-
+<!ENTITY fxaccount_password_hint "Contrasenya">
 <!ENTITY fxaccount_password_hide "Amaga">
 <!ENTITY fxaccount_password_show "Mostra">
 <!-- Localization note: these are shown in screens after the user has
@@ -73,7 +75,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Avís de privadesa">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Us donem la benvinguda al &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description2 "Inicieu la sessió per sincronitzar les pestanyes, adreces d\u0027interès, dades d\u0027inici de sessió i més.">
 <!ENTITY fxaccount_getting_started_get_started "Inici">
 <!ENTITY fxaccount_getting_started_old_firefox "Utilitzeu una versió antiga del &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -129,7 +131,7 @@
 
 <!ENTITY fxaccount_status_header2 "Compte del Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Sessió iniciada com a">
-
+<!ENTITY fxaccount_status_manage_account "Gestiona el compte">
 <!ENTITY fxaccount_status_auth_server "Servidor de comptes">
 <!ENTITY fxaccount_status_sync_now "Sincronitza ara">
 <!ENTITY fxaccount_status_syncing2 "S\u0027està sincronitzant…">
@@ -143,9 +145,9 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "El &syncBrand.shortName.label; està configurat, però la sincronització automàtica està desactivada. Aneu al menú «Ús de dades» de la configuració de l\u0027Android i marqueu «Sincronitza dades automàticament».">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "El &syncBrand.shortName.label; està configurat, però la sincronització automàtica està desactivada. Aneu al menú «Comptes» de la configuració de l\u0027Android i marqueu «Sincronitza dades automàticament».">
 <!ENTITY fxaccount_status_needs_finish_migrating "Toqueu per iniciar la sessió al vostre nou compte del Firefox.">
-
+<!ENTITY fxaccount_status_bookmarks "Adreces d\u0027interès">
 <!ENTITY fxaccount_status_history "Historial">
-
+<!ENTITY fxaccount_status_passwords2 "Inicis de sessió">
 <!ENTITY fxaccount_status_tabs "Pestanyes obertes">
 <!ENTITY fxaccount_status_legal "Avisos legals" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -155,7 +157,7 @@
 <!ENTITY fxaccount_status_linktos "Condicions del servei">
 <!ENTITY fxaccount_status_linkprivacy "Avís de privadesa">
 <!ENTITY fxaccount_status_more "Més&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Desconnecta&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Voleu eliminar el compte del Firefox?">
 <!ENTITY fxaccount_remove_account_dialog_message "El &brandShortName; deixarà de sincronitzar-se amb el vostre compte, però les vostres dades de navegació d\u0027aquest dispositiu no s\u0027eliminaran.">
@@ -163,6 +165,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "S\u0027ha eliminat el compte del Firefox &formatS;.">
 
+<!ENTITY fxaccount_enable_debug_mode "Activa el mode de depuració">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
@@ -204,3 +207,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
+<!ENTITY old_sync_deprecated_notification_title "Inicieu la sessió per continuar la sincronització">
+<!ENTITY old_sync_deprecated_notification_content "El vostre compte ja no és compatible">

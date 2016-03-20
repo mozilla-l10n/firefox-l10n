@@ -2,8 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAccounts.connected.title "Comptes del Firefox">
+<!ENTITY aboutAccounts.connected.description "Esteu connectat com a">
 
 
+<!ENTITY aboutAccounts.noConnection.title "No hi ha connexió a Internet">
+<!ENTITY aboutAccounts.retry.label "Torna-ho a provar">
 
-
+<!ENTITY aboutAccounts.restrictedError.title "Restringit">
 

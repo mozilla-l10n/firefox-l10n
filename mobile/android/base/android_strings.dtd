@@ -12,19 +12,19 @@
 
 <!ENTITY firstrun_urlbar_message "Benvingut al &brandShortName;">
 
+<!ENTITY firstrun_bookmarks_title "Historial">
+<!ENTITY firstrun_bookmarks_message "Els vostres favorits, al davant i al centre">
 
-
-
-
+<!ENTITY firstrun_data_title "Dades">
 
 
 <!ENTITY firstrun_sync_title "Sync">
 
 
 
-
+<!ENTITY firstrun_signin_button "Inicia la sessió al Sync">
 <!ENTITY  onboard_start_button_browser "Comença a navegar">
-
+<!ENTITY firstrun_button_next "Següent">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -63,6 +63,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Ja és a les adreces d\u0027interès">
 <!ENTITY bookmark_removed "S\u0027ha eliminat l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_updated "S\u0027ha actualitzat l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_options "Opcions">
@@ -104,11 +105,13 @@
 
 <!ENTITY settings "Paràmetres">
 <!ENTITY settings_title "Paràmetres">
-
+<!ENTITY pref_category_general "General">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Llengua">
 <!ENTITY pref_category_language_summary "Canvia la llengua del navegador">
 <!ENTITY pref_browser_locale "Llengua del navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -127,7 +130,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Afegeix a les adreces d\u0027interès">
 <!ENTITY overlay_share_reading_list_btn_label "Afegeix a la llista de lectura">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Ja és a les adreces d\u0027interès">
 <!ENTITY overlay_share_reading_list_btn_label_already "Ja és a la llista de lectura">
 <!ENTITY overlay_share_send_other "Envia a altres dispositius">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -145,12 +148,12 @@
 
 <!ENTITY pref_category_search3 "Cerca">
 <!ENTITY pref_category_search_summary "Personalitzeu els proveïdors de cerca">
-
+<!ENTITY pref_category_accessibility "Accessibilitat">
 
 <!ENTITY pref_category_privacy_short "Privadesa">
 
-
-
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Quant al &brandShortName;, PMF, comentaris">
 <!ENTITY pref_category_datareporting "Elecció de dades">
 <!ENTITY pref_learn_more "Més informació">
 <!ENTITY pref_category_installed_search_engines "Motors de cerca instal·lats">
@@ -164,7 +167,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSELL: Per afegir qualsevol lloc web a la llista de proveïdors de cerca, manteniu premut el camp de cerca i toqueu la icona &formatI;.">
-
+<!ENTITY pref_category_advanced "Avançat">
 
 <!ENTITY pref_developer_remotedebugging "Depuració remota">
 
@@ -183,13 +186,13 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "«&formatS;» s\u0027ha afegit a la pàgina d\u0027inici">
 <!ENTITY pref_category_home_content_settings "Paràmetres del contingut">
-
+<!ENTITY pref_home_updates "Actualitzacions automàtiques">
 <!ENTITY pref_home_updates_enabled "Activades">
 <!ENTITY pref_home_updates_wifi "Només per Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Mostra suggeriments de llocs">
 <!ENTITY pref_home_suggested_sites_summary "Mostra a la pàgina d\u0027inici dreceres de llocs que creiem que us poden interessar">
-
-
+<!ENTITY pref_category_home_homepage "Pàgina d\u0027inici">
+<!ENTITY home_homepage_title "Defineix una pàgina d\u0027inici">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -198,16 +201,19 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Personalitzada">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_general "General">
 <!ENTITY pref_header_search "Cerca">
 <!ENTITY pref_header_privacy_short "Privadesa">
 <!ENTITY pref_header_accessibility "Accessibilitat">
-
+<!ENTITY pref_header_advanced "Avançat">
 <!ENTITY pref_header_help "Ajuda">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
