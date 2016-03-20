@@ -21,12 +21,12 @@
 <!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
-
-
+<!ENTITY importFromChromium.label       "Chromium">
+<!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-
-
+<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "Xatchoʻplar, tarix yoki parollar ma`lumotlari bor birorda dastur topilmadi.">
 
@@ -43,3 +43,4 @@
 <!ENTITY done.title                     "Butunlay import qilish">
 <!ENTITY done.label                     "Quyidagilar muvaffaqiyatli import qilindi:">
 
+<!ENTITY closeSourceBrowser.label       "Davom etishdan oldin tanlangan brauzer yopilganligiga ishonch hosil qiling.">
