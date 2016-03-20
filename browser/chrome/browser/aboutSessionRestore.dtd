@@ -27,6 +27,7 @@
      not for about:sessionstore -->
 
 <!ENTITY welcomeback2.restoreButton  "Φύγαμε!">
+<!ENTITY welcomeback2.restoreButton.access "Φ">
 
 <!ENTITY welcomeback2.tabtitle      "Επιτυχία!">
 
@@ -44,9 +45,16 @@ Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Οι πρόσθετες λειτουργίες σας και οι προσαρμογές σας έχουν αφαιρεθεί και έχει γίνει επαναφορά των ρυθμίσεων του περιηγητή σας. Εάν αυτό δεν διόρθωσε το πρόβλημα, ">
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "μάθετε περισσότερα για το τι μπορείτε να κάνετε.">
 
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
+<!ENTITY tabgroupsmigration.tabtitle            "Μετακίνηση των άλλων σας ομάδων καρτελών">
+<!ENTITY tabgroupsmigration.pagetitle2          "Έχουμε αφαιρέσει τις ομάδες καρτελών, αλλά έχουμε αποθηκεύσει τις καρτέλες σας">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "Μάθετε σχετικά με επεκτάσεις που αντικαθιστούν την λειτουργία των ομάδων καρτελών.">
+<!ENTITY tabgroupsmigration.description2        "Ο &brandShortName; έχει δημιουργήσει σελιδοδείκτες για όλες σας τις ομάδες καρτελών και έτσι δεν έχετε χάσει τίποτα.">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "Εμφάνιση σελιδοδεικτών ομάδων καρτελών">
+<!ENTITY tabgroupsmigration.restoredescription  "Μπορείτε επίσης να επιλέξετε την επαναφορά ορισμένων ή όλων των ομάδων παρασκηνίου σε παράθυρα, τώρα:">
 
