@@ -151,7 +151,7 @@ Vous pouvez également utiliser la commande dans le menu d’aide pour signaler 
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Le site est peut-être temporairement indisponible ou surchargé. Réessayez plus
-    tard&#x00A0;;</li>
+    tard ;</li>
   <li>Si vous n’arrivez à naviguer sur aucun site, vérifiez la connexion
     au réseau de votre ordinateur&#x00A0;;</li>
   <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy,
