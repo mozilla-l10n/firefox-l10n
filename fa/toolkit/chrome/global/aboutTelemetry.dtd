@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "ثبت داده های مکان‌سنجی اضافه <span>فعال شد</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  ثبت داده های مکان‌سنجی اضافه <span>غیر فعال شد</span>.">
 
 <!ENTITY aboutTelemetry.pingDataSource "منبع اطلاعات پینگ:">
 
@@ -75,4 +76,6 @@
 
 <!ENTITY aboutTelemetry.filterText "  فیلتر (رشته یا /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  گنجایش">
 
+<!ENTITY aboutTelemetry.rawPayload "  گنجایش خام">
