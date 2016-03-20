@@ -10,13 +10,13 @@
 <!ENTITY lightning.toolbar.sync.label "Sincronitza">
 <!ENTITY lightning.toolbar.sync.tooltip "Torna a carregar els calendaris i sincronitza els canvis">
 <!ENTITY lightning.toolbar.delete.label "Suprimeix">
-
+<!ENTITY lightning.toolbar.delete.tooltip "Suprimeix les cites o les tasques seleccionades">
 <!ENTITY lightning.toolbar.edit.label "Edita">
-
+<!ENTITY lightning.toolbar.edit.tooltip "Edita la cita o la tasca seleccionada">
 <!ENTITY lightning.toolbar.gototoday.label "Vés a avui">
 <!ENTITY lightning.toolbar.gototoday.tooltip "Vés a avui">
 <!ENTITY lightning.toolbar.print.label "Imprimeix">
-
+<!ENTITY lightning.toolbar.print.tooltip "Imprimeix cites o tasques">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Calendari">
