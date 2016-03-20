@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY minimizeWindow.key       "Ε">
 <!ENTITY minimizeWindow.label     "Ελαχιστοποίηση">
 <!ENTITY bringAllToFront.label    "Μεταφορά όλων μπροστά">
 <!ENTITY zoomWindow.label         "Μεγέθυνση">
@@ -25,6 +26,7 @@
 <!ENTITY helpSafeMode.label       "Επανεκκίνηση χωρίς πρόσθετες λειτουργίες…">
 <!ENTITY helpSafeMode.accesskey   "χ">
 <!ENTITY helpSafeMode.stop.label       "Επανεκκίνηση με πρόσθετες λειτουργίες">
+<!ENTITY helpSafeMode.stop.accesskey   "π">
 
 <!ENTITY healthReport2.label      "Αναφορά υγείας &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "γ">
@@ -39,11 +41,14 @@
 <!ENTITY helpShowTour2.accesskey        "Ξ">
 
 <!ENTITY preferencesCmdMac.label        "Προτιμήσεις…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Υπηρεσίες">
 
 <!ENTITY hideThisAppCmdMac2.label       "Απόκρυψη &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "κ">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
+<!ENTITY hideOtherAppsCmdMac.commandkey "ψ">
 
 <!ENTITY showAllAppsCmdMac.label        "Εμφάνιση όλων">
