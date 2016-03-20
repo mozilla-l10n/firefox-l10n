@@ -15,7 +15,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Zanba nungu!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Interneti moɲoo woo <span id='phishing_sitename'/> ga bayrandi ka tee darga moo nda a gagayndi war saajaw kayandiyaney bande.">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Zanba nungey n' ga tee ka war darga ka mise laala tee, sanda ka porogaram sinji wala ka war boŋ gundu alhabar bangandi, sanda šennikufal, talfon lanba wala garaw katta.</p><p>Nda war n'alhabar tana dam interneti moɲoo woo ga boro tana ga hin ka war tammaasawey zay wal'a ma war zanba.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Goyjinay laalayaŋ ka bangay nungoo woo bande!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
