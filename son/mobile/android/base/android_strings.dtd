@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Duu hunyaney war doo-šilbawey nda taarikoo ra ceeciyan waate.">
 <!ENTITY firstrun_data_title "Bayhayey">
 <!ENTITY firstrun_data_message "Bayhaya žabu, lanbarey tonton">
-
+<!ENTITY firstrun_data_subtext2 "Biyey wii ka bayhayey nakaši nungu kul kaŋ war dii y\u0027a ga.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName; goo war bande waati kul">
 <!ENTITY firstrun_sync_subtext "War kanjey, doo-šilbawey nda taney hangandi cere nungu kul kaŋ war g\u0027i ka goy.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Wi-Fi hinne bande">
 <!ENTITY pref_tap_to_load_images_disabled2 "Gagayante">
 
+<!ENTITY pref_show_web_fonts "Interneti šigirawey cebe">
 
 <!ENTITY pref_tracking_protection_title "Ganayan jejebuyan">
 <!ENTITY pref_tracking_protection_summary3 "A tunandi sutura naaruyan ra">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Dijikul ceeciyan">
 <!ENTITY pref_scroll_title_bar_summary2 "&brandShortName; goyjinay zuu tugu nda moɲoo ga cenda ka zunbu">
 
-
+<!ENTITY pref_tab_queue_title3 "Kanji šettante">
+<!ENTITY pref_tab_queue_summary4 "Dobey gaabu hala hiino kaŋ war ga &brandShortName; feeri">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "Gundekuna kul mana duwandi fasaldogoo woo se.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Yeeti &formatS; ga">
 
 <!ENTITY home_remote_tabs_title "Kanji cere-hangantey">
 <!ENTITY home_remote_tabs_empty "Wa cebe ne war kanjey kaŋ hun jinay taney ga.">
@@ -770,7 +774,10 @@ Android ra">
 
 <!ENTITY unsupported_sdk_version "Alhaa naŋ! &brandShortName; dumoo woo ši koy nda jinaa woo (&formatS1;, &formatS2;). Dumi boryaa zumandi taare.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; ši yee ka taagandi">
 <!ENTITY eol_notification_summary "Karkar ka bay ka tonton">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; n\u0027 ka taagandi">
+<!ENTITY whatsnew_notification_summary "Guna haya taagey dumoo woo ra">

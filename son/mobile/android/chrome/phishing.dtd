@@ -12,6 +12,7 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Interneti moɲoo woo <span id='malware_sitename'/> ga bayrandi ka tee darga moo nda a gagayndi war saajaw ibaayey bande.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p> darga moɲey ga wiri ka porogaramey sinji kaŋ ga sutura alhabar zay, i ga war ordinateroo ka boro waaney ordineratey tooɲe, wala ka war dabariɲaŋoo hasara.</p><p>Darga moɲey jerey ga tee hawandi ka goyjinay laalayaŋ žemna, amma iboobo ga hasaraw nda koyey mana bay wala i ma yadda.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Zanba nungu!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Interneti moɲoo woo <span id='phishing_sitename'/> ga bayrandi ka tee darga moo nda a gagayndi war saajaw kayandiyaney bande.">
 

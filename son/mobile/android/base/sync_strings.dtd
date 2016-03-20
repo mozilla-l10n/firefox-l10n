@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Bataga">
-
+<!ENTITY fxaccount_password_hint "Šennikufal">
 <!ENTITY fxaccount_password_hide "Tugu">
 <!ENTITY fxaccount_password_show "Cebe">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋse. “Auto-sync data” kanji Android kayandiyaney ra &gt; Bayhaya goy fondo.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋ se. “Auto-sync data” kanji Android kayandiyaney ra &gt; Kontey.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Karkar ka huru war Firefox kontu taagaa ra.">
-
+<!ENTITY fxaccount_status_bookmarks "Doo-šilbawey">
 <!ENTITY fxaccount_status_history "Taariki">
 <!ENTITY fxaccount_status_passwords2 "Huruyan tammaasawey">
 <!ENTITY fxaccount_status_tabs "Nor lokey feeri">
