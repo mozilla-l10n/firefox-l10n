@@ -9,8 +9,8 @@
 
 
 
-
-
+<!ENTITY openButton.label            "Atvērt">
+<!ENTITY openButton.accesskey        "A">
 <!ENTITY deleteButton.label          "Dzēst">
 <!ENTITY deleteButton.accesskey      "D">
 
