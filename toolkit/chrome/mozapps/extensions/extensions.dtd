@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "कुछ विस्तार सत्यापित नही किया जा सका">
 <!ENTITY showAllExtensions.button.label       "सभी विस्तार दिखाएँ">
-
-
+<!ENTITY debugAddons.label                    "सहयुक्ति दोषसुधार">
+<!ENTITY debugAddons.accesskey                "b">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "सभी सहयुक्तियाँ सुरक्षित विधि के द्वारा निष्क्रिय की गई हैं.">

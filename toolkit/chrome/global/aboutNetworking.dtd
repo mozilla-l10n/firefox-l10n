@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "यह काफी प्रायोगिक है. बिना व्यस्क पुनरीक्षण के इसे उपयोग मत करें.">
 <!ENTITY aboutNetworking.showNextTime          "इस चेतावनी को अगली बार दिखाएँ">
 <!ENTITY aboutNetworking.ok                    "ठीक">
-
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "सॉकेट">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "वेबसॉकेट">
@@ -29,7 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "संदेश प्राप्त">
 <!ENTITY aboutNetworking.bytesSent             "बाइट्स भेजा">
 <!ENTITY aboutNetworking.bytesReceived         "बाइट्स हस्तगत">
-
+<!ENTITY aboutNetworking.dnsLookup             "डीएनएस अवलोकन">
 <!ENTITY aboutNetworking.dnsLookupButton       "समाधान करें">
-
-
+<!ENTITY aboutNetworking.dnsDomain             "डोमेन">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
