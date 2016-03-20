@@ -11,18 +11,18 @@
 
 
 
+<!ENTITY account.connect.label        "Savienoties">
+<!ENTITY account.connect.accesskey    "o">
+
+
+<!ENTITY account.edit.label           "Īpašības">
+<!ENTITY account.edit.accesskey       "p">
+<!ENTITY account.moveup.label         "Pārvietot augšup">
+<!ENTITY account.movedown.label       "Pārvietot lejup">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY account.connecting           "Savienojas…">
+<!ENTITY account.disconnecting        "Atvienojas…">
+<!ENTITY account.disconnected         "Nav savienots">
