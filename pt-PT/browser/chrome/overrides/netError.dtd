@@ -155,7 +155,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Saber mais…">
 
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os responsáveis do website para os informar sobre este problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os proprietários do website para os informar sobre este problema.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Não é possível ligar com segurança">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate

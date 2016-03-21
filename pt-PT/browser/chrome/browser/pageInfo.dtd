@@ -69,7 +69,7 @@
 
 
 <!ENTITY  securityView.identity.header   "Identidade do website">
-<!ENTITY  securityView.identity.owner    "Dono:">
+<!ENTITY  securityView.identity.owner    "Proprietário:">
 <!ENTITY  securityView.identity.domain   "Website:">
 <!ENTITY  securityView.identity.verifier "Verificado por:">
 
