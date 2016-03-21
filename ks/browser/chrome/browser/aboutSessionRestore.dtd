@@ -7,8 +7,8 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "آہ، یئ چھُ شرم ناكھ">
-<!ENTITY restorepage.problemDesc    ";brandShortName&amp; اس چھ مُشکل یوان ریکور کرنس منز تُہند وینڈو تْہ ٹیب۔ یہ چُھ اکثر گژھان اکِہ تازْ اوپْن کرنْہ آمتِہ ویب پیج سْیت.">
-<!ENTITY restorepage.tryThis        "تُہ۪ی ہیكیو كوشش كرِتھ">
+<!ENTITY restorepage.problemDesc    "&brandShortName; اس چھ مُشکل یوان ریکور کرنس منز تُہند وینڈو تْہ ٹیب۔ یہ چُھ اکثر گژھان اکِہ تازْ اوپْن کرنْہ آمتِہ ویب پیج سْیت.">
+<!ENTITY restorepage.tryThis        "تُہ۪ی ہیكیو كوشش كرِتھ:">
 <!ENTITY restorepage.restoreSome    "اَكھ یا زیادئ ٹیب ہٹاوْن آس۪ی كران دِقَت پٲدئ">
 <!ENTITY restorepage.startNew       "نئو۪ی كھولیو براوزینگ سیشن">
 
