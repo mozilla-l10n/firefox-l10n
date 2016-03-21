@@ -22,7 +22,7 @@
 
 <!ENTITY certmgr.subjectinfo.label            "Zinikelwa Ku">
 <!ENTITY certmgr.issuerinfo.label             "Zinikelwa Ngu">
-
+<!ENTITY certmgr.periodofvalidity.label       "Ithuba Lokusebenza" >
 <!ENTITY certmgr.fingerprints.label           "Izishicilelo zeminwe">
 <!ENTITY certmgr.certdetail.title             "Iinkcukacha Ngesatifikethi">
 <!ENTITY certmgr.certdetail.cn                "Igama Eliqhelekileyo (CN)">
@@ -44,7 +44,7 @@
 
 
 <!ENTITY certmgr.tokenname                    "Isixhobo Sokhuseleko">
-
+<!ENTITY certmgr.begins                       "Iqala Ngo">
 <!ENTITY certmgr.expires                      "Iphelelwa Ngeli Xesha">
 <!ENTITY certmgr.email                        "Idilesi Yemeyile">
 <!ENTITY certmgr.serial                       "Inombolo Yolandelelwano">
