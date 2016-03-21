@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "ծ">
 <!ENTITY shareVideo.label "Տարածել տեսանյութը">
 <!ENTITY shareVideo.accesskey "ծ">
-
-
+<!ENTITY feedsMenu2.label "Բաժանորդագրվել այս էջին">
+<!ENTITY subscribeToPageMenupopup.label "Բաժանորդագրվել այս էջին">
 <!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
 <!ENTITY showAllBookmarks2.label "Ցուցադրել բոլոր էջանիշերը">
@@ -257,7 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Workers ծառայություն">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Միանալ…">
 <!ENTITY devtoolsConnect.accesskey    "ն">
@@ -420,7 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Սինքի նախընտրանքներ">
 
 <!ENTITY appMenuRemoteTabs.signin.label "Մուտք գործել Սինք">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Դիտել համաժամեցված ներդիրների Կողագոտին">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ավելացնել  գործիքավահանակում">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Ա">
@@ -527,8 +528,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "Շ">
 <!ENTITY openFrameCmd.label           "Շրջանակը բացել նոր պատուհանում">
 <!ENTITY openFrameCmd.accesskey       "Շ">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Բացել հղումը Նոր պարունակ ներդիրում">
+<!ENTITY openLinkCmdInContainerTab.accesskey "պ">
 <!ENTITY showOnlyThisFrameCmd.label     "Ցուցադրել միայն այս շրջանակը">
 <!ENTITY showOnlyThisFrameCmd.accesskey "Ց">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -750,7 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Այս էջը գտնվում է համակարգչում:">
 <!ENTITY identity.connectionVerified1 "Դուք անվտանգ կապակցված եք այս կայքին, որը աշխատեցնում է՝">
 <!ENTITY identity.connectionInternal "Սա անվտանգ &brandShortName; էջ է:">
-
+<!ENTITY identity.insecureLoginForms2 "Այս էջից մուտքագրումները վտանգված են:">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն:">
@@ -776,7 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "Ա">
 <!ENTITY identity.learnMore "Իմանալ ավելին">
 
-
+<!ENTITY identity.removeCertException.label "Հեռացնել բացառությունը">
+<!ENTITY identity.removeCertException.accesskey "Հ">
 
 <!ENTITY identity.moreInfoLinkText2 "Մանրամասն">
 
@@ -798,9 +800,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Բացել այս ներդիրը">
+<!ENTITY syncedTabs.context.openTab.accesskey               "Բ">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Էջանշել Այս Էջը...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "Է">
 
 
 <!ENTITY syncBrand.shortName.label    "Սինք">
@@ -883,8 +886,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Անջ. պաշտպանությունը ա/շրջանի համար">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "Ա">
-
-
+<!ENTITY trackingProtection.block2.label "Միացնել պաշտպանությունը">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "Հետագծում">
 <!ENTITY trackingContentBlocked.moreinfo "Էջի հատվածները, որոնք հետևում են ձեր առցանց ակտիվությանը, արգելափակված են:">
