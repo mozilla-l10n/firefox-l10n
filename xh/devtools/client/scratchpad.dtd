@@ -66,7 +66,8 @@
 <!ENTITY smallerFont.accesskey        "n">
 
 
-
+<!ENTITY normalSize.label             "Isayizi Eqhelekileyo">
+<!ENTITY normalSize.accesskey         "I">
 
 
 <!ENTITY editMenu.label               "Hlela">
@@ -80,11 +81,13 @@
 <!ENTITY inspect.accesskey            "H">
 
 
+<!ENTITY display.label                "Bonisa">
+<!ENTITY display.accesskey            "B">
 
 
+<!ENTITY pprint.label                 "Ukuprinta i-Pretty">
 
-
-
+<!ENTITY pprint.accesskey             "U">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -94,6 +97,8 @@
 
 
 
+<!ENTITY contentContext.label         "Isiqulatho">
+<!ENTITY contentContext.accesskey     "I">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
@@ -107,8 +112,10 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-
-
+<!ENTITY helpMenu.label               "Uncedo">
+<!ENTITY helpMenu.accesskey           "U">
+<!ENTITY helpMenuWin.label            "Uncedo">
+<!ENTITY helpMenuWin.accesskey        "U">
 
 <!ENTITY documentationLink.label      "Uncedo lweSkretshphedi kwi-MDN">
 <!ENTITY documentationLink.accesskey  "D">
