@@ -29,7 +29,7 @@
 <!ENTITY certmgr.certdetail.o                 "Umbutho (O)">
 <!ENTITY certmgr.certdetail.ou                "Icandelo Lombutho (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Inombolo Yolandelelwano">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "Ushicilelo lweminwe lwe-SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Ushicileleo lweminwe lwe-SHA1">
 
 <!ENTITY certmgr.editcacert.title             "Hlela Imimiselo yentembeko yesatifikethi se-CA">
@@ -50,8 +50,8 @@
 <!ENTITY certmgr.serial                       "Inombolo Yolandelelwano">
 
 
-
-
+<!ENTITY certmgr.view2.label                  "Jonga…">
+<!ENTITY certmgr.view2.accesskey              "J">
 
 
 <!ENTITY certmgr.export.label                 "Thumela ngaphandle…">
@@ -71,7 +71,7 @@
 <!ENTITY certmgr.fields.label                 "IfildiIxabiso">
 <!ENTITY certmgr.fields.accesskey             "I">
 <!ENTITY certmgr.hierarchy.label              "Amabakala Ezatifikethi">
-
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Yongeza ieksepshini…">
 <!ENTITY certmgr.addException.accesskey       "e">
 
