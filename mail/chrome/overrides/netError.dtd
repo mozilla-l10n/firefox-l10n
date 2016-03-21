@@ -107,7 +107,7 @@ instalado.</li>
 <!ENTITY nssFailure2.title "A ligação segura falhou">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>A página que está a tentar visualizar não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.</li> 
-<li>Por favor informe os proprietários do site sobre o problema.</li> 
+<li>Por favor informe os proprietários do website sobre o problema.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "A ligação segura falhou">
