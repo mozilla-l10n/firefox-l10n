@@ -424,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-palvelun asetukset">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Kirjaudu sisään, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
 <!ENTITY appMenuRemoteTabs.signin.label "Kirjaudu Sync-palveluun">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Näytä synkronoitujen välilehtien sivupaneeli">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Näytä synkronoit. välilehtien sivupaneeli">
 
 <!ENTITY customizeMenu.addToToolbar.label "Lisää työkalupalkkiin">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
@@ -841,7 +841,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Lisää palvelu &brandShortName;iin napsauttamalla.">
 <!ENTITY social.directory.viewmore.text "Näytä lisää">
 
-<!ENTITY customizeMode.tabTitle "Muokkaa &brandShortName;ia">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Lisää työkaluja ja ominaisuuksia">
 <!ENTITY customizeMode.menuAndToolbars.empty "Haluatko muita työkaluja?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Valitse tuhansista lisäosista">
