@@ -80,3 +80,4 @@
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Contenido">
 
+<!ENTITY aboutTelemetry.rawPayload "  Contenido sin procesar">
