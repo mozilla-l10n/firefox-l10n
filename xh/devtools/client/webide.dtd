@@ -21,7 +21,7 @@
 <!ENTITY projectMenu_debug_accesskey "D">
 
 
-
+<!ENTITY projectMenu_showPrefs_label "Iipreferensi">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 
 
@@ -39,7 +39,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Iipriferensi Zesayithi">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Iisetingi Zesixhobo">
 
@@ -74,15 +74,17 @@
 
 
 
-
+<!ENTITY runtimePanel_other "Okunye">
 <!ENTITY runtimePanel_installsimulator "Fakela isixhobo esakhelwe ukulinganisa">
 
 <!ENTITY runtimePanel_nousbdevice "Akusiboni isixhobo sakho?">
 
 <!-- Lense -->
+
+<!ENTITY details_valid_header "iyasebenza">
 <!ENTITY details_warning_header "Izilumkiso">
-
-
+<!ENTITY details_error_header "Iimpazamo">
+<!ENTITY details_description "Inkcazelo:">
 <!ENTITY details_location "Indawo">
 <!ENTITY details_manifestURL "I-ID ye-App">
 
@@ -103,7 +105,7 @@
 <!ENTITY prefs_title "Iiprefrensi">
 
 <!ENTITY prefs_general_title "Jikelele">
-
+<!ENTITY prefs_restore "Buyisela Iidifolti">
 
 
 
@@ -123,13 +125,13 @@
 
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Ngokuzenzekelayo faka izibiyeli ezivalayo">
 
-
+<!ENTITY prefs_options_keybindings_default "Idifolti">
 
 
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Itheyibhuli Yemvume">
-
+<!ENTITY permissionstable_name_header "Igama">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Inkcazelo YeRuntime">
@@ -141,6 +143,8 @@
 <!ENTITY runtimedetails_privilegesWarning "(Iza kubhutha isixhobo kwakhona. Ifuna ufikelelo lweruthi.)">
 <!-- Device Preferences and Settings -->
 
+<!ENTITY device_typeboolean "Boolean">
+<!ENTITY device_typenumber "Inani elipheleleyo">
 <!ENTITY device_typestring "Umtya">
 <!ENTITY device_typeobject "Into">
 
@@ -177,7 +181,7 @@
 <!-- Simulator Options -->
 
 <!ENTITY simulator_reset "Buyisela Iidifolthi">
-
+<!ENTITY simulator_name "Igama">
 <!ENTITY simulator_software "Isoftwe">
 <!ENTITY simulator_version "Uguqulelo">
 

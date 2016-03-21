@@ -10,6 +10,8 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
+<!ENTITY openURL.label     "Vula i-URL kwiThebhu Entsha">
+<!ENTITY openURL.accesskey "E">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -24,9 +26,9 @@
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
+<!ENTITY btnPageCSS.label   "CSS">
 
-
-
+<!ENTITY btnPageCSS.accesskey "C">
 
 
 
@@ -38,11 +40,13 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
+<!ENTITY btnPageLogging.label   "Iyaloga">
+
 <!ENTITY btnPageLogging.accesskey3 "L">
-
-
-
-
+<!ENTITY btnConsoleErrors       "Iimpazamo">
+<!ENTITY btnConsoleInfo         "Ulwazi">
+<!ENTITY btnConsoleWarnings     "Izilumkiso">
+<!ENTITY btnConsoleLog          "I-log">
 <!ENTITY btnConsoleXhr          "XHR">
 
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
@@ -52,10 +56,10 @@
 <!ENTITY btnServerLogging.label       "Seva">
 <!ENTITY btnServerLogging.tooltip     "Umyalezo welogi ofunyenwe kwiseva yewebhu">
 <!ENTITY btnServerLogging.accesskey   "S">
-
-
-
-
+<!ENTITY btnServerErrors              "Iimpazamo">
+<!ENTITY btnServerInfo                "Ulwazi">
+<!ENTITY btnServerWarnings            "Izilumkiso">
+<!ENTITY btnServerLog                 "I-log">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
