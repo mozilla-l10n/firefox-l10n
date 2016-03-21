@@ -5,8 +5,9 @@
 <!ENTITY safeb.palm.accept.label "Bu yerdan chiqaman!">
 <!ENTITY safeb.palm.decline.label "Ogohlantirishni rad qilish">
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
+<!ENTITY safeb.palm.notdeceptive.label "Bu sayt qalbaki emas…">
 
-
+<!ENTITY safeb.palm.whyForbidden.label "Bu sahifa nega bloklangan?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Hujumkor sahifa sifatida ma`lumot berilgan!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
