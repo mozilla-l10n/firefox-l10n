@@ -90,6 +90,8 @@
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
 
+<!ENTITY inspectorAddAttribute.label        "Yongeza Uphawu">
+<!ENTITY inspectorAddAttribute.accesskey    "Y">
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
      for current node -->

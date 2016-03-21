@@ -19,6 +19,7 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Amaphepha e-software angafunekiyo zama ukufakela i-software enganako ukuqhatha kwaye ichaphazele isistim yakho ngeendlela ezingalindelekanga.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Eli khasi lewebhu kwi-<span id='phishing_sitename'/> lichazwe njengekhasi lenkohliso kwaye lithintelwe ngokweepriferensi zakho zokhuseleko.">
 
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Isayithi Ebhlokiweyo">
