@@ -38,6 +38,7 @@
 <!ENTITY netmonitorUI.footer.filterImages "Immagini">
 <!ENTITY netmonitorUI.footer.filterMedia "Media">
 <!ENTITY netmonitorUI.footer.filterFlash "Flash">
+<!ENTITY netmonitorUI.footer.filterWS "WS">
 <!ENTITY netmonitorUI.footer.filterOther "Altro">
 <!ENTITY netmonitorUI.footer.filterFreetext.label "Filtra URL">
 <!ENTITY netmonitorUI.footer.filterFreetext.key "F">
