@@ -28,7 +28,6 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Elimina tutti eccetto i">
 <!ENTITY retentionKeepRecent.accesskey "E">
-<!ENTITY retentionKeepUnreadHidden.label "Elimina sempre i messaggi già letti (senza considerare le impostazioni di età)">
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre i messaggi speciali">
 <!ENTITY retentionApplyToFlagged.accesskey "C">
 <!ENTITY folderSynchronizationTab.label "Sincronizzazione">
