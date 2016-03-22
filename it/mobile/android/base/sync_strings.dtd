@@ -51,8 +51,8 @@
 <!ENTITY fxaccount_status_passwords2 "Accessi">
 <!ENTITY fxaccount_status_tabs "Schede aperte">
 <!ENTITY fxaccount_status_legal "Note legali">
-<!ENTITY fxaccount_status_linktos "Condizioni di utilizzo del servizio">
-<!ENTITY fxaccount_status_linkprivacy "Informativa sulla privacy">
+<!ENTITY fxaccount_status_linktos2 "Condizioni di utilizzo del servizio">
+<!ENTITY fxaccount_status_linkprivacy2 "Informativa sulla privacy">
 <!ENTITY fxaccount_status_more "Altro&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnessione…">
 <!ENTITY fxaccount_remove_account_dialog_title "Rimuovere questo account?">
