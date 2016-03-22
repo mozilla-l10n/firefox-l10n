@@ -37,7 +37,7 @@ Ní fheicfidh tú an fógra arís, ach is féidir leat">
 
 <!ENTITY  license.titleText               "Comhaontú um an gCeadúnas Bogearra">
 <!ENTITY  license.introText               "Téarmaí agus coinníollacha úsáide an bhogearra seo.">
-<!ENTITY  license.instructionText         "Léigh an comhaontú um cheadúnas earra bhoig seo a leanas, le do thoil. Úsáid an scrollbharra chun an chuid eile den chomhaontú seo a léamh.">
+<!ENTITY  license.instructionText         "Léigh an comhaontú um cheadúnas seo a leanas, le do thoil. Úsáid an scrollbharra chun an chuid eile den chomhaontú seo a léamh.">
 <!ENTITY  license.accept                  "Glacaim leis an Chomhaontú um Cheadúnas">
 <!ENTITY  license.accept.accesskey        "c">
 <!ENTITY  license.decline                 "Nílim toilteanach glacadh le coinníollacha an Chomhaontú um Cheadúnas">
