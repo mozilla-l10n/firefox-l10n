@@ -653,9 +653,9 @@ items are mutually exclusive. -->
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Vis oplysninger">
-<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoShowStats.accesskey    "p">
 <!ENTITY videoHideStats.label        "Skjul oplysninger">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoHideStats.accesskey    "p">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
