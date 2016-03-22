@@ -27,7 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "c">
 <!ENTITY retentionKeepRecent.label "Elimina tutti eccetto i">
 <!ENTITY retentionKeepRecent.accesskey "n">
-<!ENTITY retentionKeepUnreadHidden.label "Elimina sempre i messaggi già letti (senza considerare le impostazioni di età)">
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre i messaggi speciali">
 <!ENTITY retentionApplyToFlagged.accesskey "r">
 <!ENTITY nntpRemoveMsgBody.label "Elimina il corpo del messaggio per messaggi più grandi di">
