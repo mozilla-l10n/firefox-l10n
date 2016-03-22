@@ -13,6 +13,9 @@
 <!ENTITY useFavIcons.accesskey                  "A">
 <!ENTITY enableAutomaticImageResizing.label     "Meniť veľkosť veľkých obrázkov na veľkosť okna">
 <!ENTITY enableAutomaticImageResizing.accesskey "M">
+<!ENTITY scrolling.label                        "Posúvanie obsahu">
+<!ENTITY useAutoScroll.label                    "Použiť automatický posun">
+<!ENTITY useAutoScroll.accesskey                "t">
 <!ENTITY useSmoothScroll.label                  "Použiť plynulé posúvanie">
 <!ENTITY useSmoothScroll.accesskey              "o">
 <!ENTITY allowHWAccel.label                     "Použiť hardvérové urýchľovanie (ak je dostupné)">

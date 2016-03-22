@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "Rýchlo odtiaľto preč!">
 <!ENTITY safeb.palm.decline.label "Ignorovať toto upozornenie">
-<!ENTITY safeb.palm.notforgery.label2 "Toto nie je podozrivá webová stránka…">
 <!ENTITY safeb.palm.reportPage.label "Prečo bola táto stránka zablokovaná?">
 <!ENTITY safeb.palm.whyForbidden.label "Prečo bola táto stránka zablokovaná?">
 
@@ -13,9 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Webová stránka <span id='malware_sitename'/> bola označená ako podvodná a na základe nastavení zabezpečenia bola zablokovaná.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Škodlivé stránky sa pokúšajú nainštalovať programy, ktoré kradnú súkromné údaje, používajú počítač na útoky na iné počítače alebo poškodzujú systém.</p><p>Niektoré škodlivé stránky rozširujú nebezpečný softvér úmyselne, ale mnoho z nich bolo napadnutých a rozširuje tento softvér bez vedomosti ich majiteľa.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Podozrivá webová stránka!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Ak na tejto stránke zadáte nejaké údaje, tieto môžu byť použité na ukradnutie identity alebo inak zneužité.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Tieto typy stránok sú využívané pri podvodných útokoch, ktoré sa snažia napodobňovať webové stránky a e-mailové správy, ktorým bežne veríte.</p>">
+<!ENTITY safeb.blocked.phishingPage.title3 "Podvodná stránka!">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Webová stránka <span id='phishing_sitename'/> bola označená ako podvodná a na základe nastavení zabezpečenia bola zablokovaná.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Podvodné stránky majú za úlohu vás ohroziť. Môžu nainštalovať do vášho počítača nebezpečný softvér, alebo ukradnúť vaše osobné údaje, ako sú heslá, telefónne čísla alebo kreditné karty.</p><p>Zadanie akýchkoľvek informácií na takejto webovej stránke môže pre vás znamenať krádež vašej totožnosti alebo vaše ohrozenie inými podvodmi.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Nahlásená ako stránka s nevyžiadaným softvérom!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
