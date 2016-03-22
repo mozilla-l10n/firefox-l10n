@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>ಧಾಳಿಕಾರಕ ಪುಟಗಳು ನಿಮ್ಮ ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಕದಿಯುವಂತಹ, ಇತರರತ್ತ ಧಾಳಿ ಮಾಡುವ ಸಲುವಾಗಿ ನಿಮ್ಮ ಗಣಕವನ್ನು ಬಳಸಬಹುದಾದಂತಹ, ಅಥವ ನಿಮ್ಮ ಗಣಕವನ್ನು ಹಾಳುಗೆಡವಬಲ್ಲಂತಹ ಪ್ರೊಗ್ರಾಂಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತವೆ.</p><p>ಕೆಲವು ಧಾಳಿಕಾರಕ ಪುಟಗಳು ಉದ್ಧೇಶಪೂರ್ವಕವಾಗಿ ಅಪಾಯಕಾರಿ ತಂತ್ರಾಂಶವನ್ನು ವಿತರಿಸುತ್ತವೆ, ಆದರೆ ಹೆಚ್ಚಿನವು ಅವುಗಳ ಮಾಲಿಕರಿಗೆ ತಿಳಿದಿರುವುದಿಲ್ಲ ಅಥವ ಅವರ ಅನುಮತಿ ಪಡೆದಿರುವುದಿಲ್ಲ.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "ಈ ಜಾಲ ಪುಟವನ್ನು <span id='phishing_sitename'/> ನಲ್ಲಿನ ಒಂದು ಧಾಳಿಕಾರಕ ಪುಟ ಎಂದು ಪರಿಗಣಿಸಿ ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ಅನುಸಾರವಾಗಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "ಅವಶ್ಯವಿಲ್ಲದ ತಂತ್ರಾಂಶ ತಾಣವನ್ನು ವರದಿಮಾಡಿ!">
