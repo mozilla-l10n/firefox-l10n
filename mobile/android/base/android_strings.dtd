@@ -138,7 +138,7 @@
 <!ENTITY pref_tap_to_load_images_data "Solo con Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blocca">
 <!ENTITY pref_show_web_fonts "Visualizza web font">
-<!ENTITY pref_tracking_protection_title "Protezione antitracciamento">
+<!ENTITY pref_tracking_protection_title2 "Protezione antitracciamento">
 <!ENTITY pref_tracking_protection_summary3 "Attiva in modalità Navigazione anonima">
 <!ENTITY pref_donottrack_title "Antitracciamento">
 <!ENTITY pref_donottrack_summary "Richiedi ai siti di non effettuare alcun tracciamento">
@@ -165,7 +165,7 @@
 <!ENTITY pref_char_encoding "Codifica caratteri">
 <!ENTITY pref_char_encoding_on "Visualizza menu">
 <!ENTITY pref_char_encoding_off "Non visualizzare menu">
-<!ENTITY pref_clear_private_data "Elimina dati personali">
+<!ENTITY pref_clear_private_data2 "Elimina dati personali">
 <!ENTITY pref_clear_private_data_now_tablet "Cancella adesso">
 <!ENTITY pref_clear_on_exit_title3 "Elimina dati personali alla chiusura">
 <!ENTITY pref_clear_on_exit_summary2 "I dati personali in &brandShortName; verranno eliminati automaticamente quando si seleziona “Esci” nel menu principale">
@@ -376,7 +376,7 @@
 <!ENTITY mixed_content_blocked_some1 "Alcuni contenuti non sicuri in questa pagina sono stati bloccati da &brandShortName;.">
 <!ENTITY mixed_content_display_loaded1 "Alcuni elementi di questa pagina non sono sicuri (ad esempio immagini).">
 <!ENTITY mixed_content_protection_disabled1 "La protezione da contenuti non sicuri è stata bloccata.">
-<!ENTITY doorhanger_tracking_title "Protezione antitracciamento">
+<!ENTITY doorhanger_tracking_title2 "Protezione antitracciamento">
 <!ENTITY doorhanger_tracking_state_enabled "Attiva">
 <!ENTITY doorhanger_tracking_state_disabled "Disattivata">
 <!ENTITY doorhanger_tracking_message_enabled1 "I tentativi di tracciamento dell’attività online vengono bloccati.">
