@@ -754,7 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.passiveLoaded "Dele af denne side (såsom billeder) er ikke sikre.">
 <!ENTITY identity.activeLoaded "Du har slået beskyttelse fra på denne side.">
 <!ENTITY identity.weakEncryption "Denne side bruger svag kryptering.">
-<!ENTITY identity.insecureLoginForms2 "Logins foretaget på denne side kan være kompromitterede.">
+<!ENTITY identity.insecureLoginForms2 "Logins foretaget på denne side kan blive kompromitteret.">
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Din forbindelse til dette websted er ikke privat. Andre kan se de informationer, du indsender (fx adgangskoder, beskeder og oplysninger om betalingskort)">
