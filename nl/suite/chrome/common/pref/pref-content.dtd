@@ -13,6 +13,9 @@
 <!ENTITY useFavIcons.accesskey                  "A">
 <!ENTITY enableAutomaticImageResizing.label     "Formaat van grote afbeeldingen aanpassen aan browservenster">
 <!ENTITY enableAutomaticImageResizing.accesskey "F">
+<!ENTITY scrolling.label                        "Scrollen">
+<!ENTITY useAutoScroll.label                    "Automatisch scrollen gebruiken">
+<!ENTITY useAutoScroll.accesskey                "m">
 <!ENTITY useSmoothScroll.label                  "Vloeiend scrollen gebruiken">
 <!ENTITY useSmoothScroll.accesskey              "e">
 <!ENTITY allowHWAccel.label                     "Hardwareversnelling gebruiken wanneer beschikbaar">
@@ -20,6 +23,6 @@
 <!ENTITY textZoomOnly.label                     "Alleen tekst zoomen in plaats van hele pagina’s">
 <!ENTITY textZoomOnly.accesskey                 "z">
 <!ENTITY blockAutoRefresh.label                 "Mij waarschuwen wanneer websites proberen de pagina door te sturen of te herladen">
-<!ENTITY blockAutoRefresh.accesskey             "M">
+<!ENTITY blockAutoRefresh.accesskey             "r">
 <!ENTITY siteSpecific.label                     "Zoomniveau op paginabasis onthouden">
 <!ENTITY siteSpecific.accesskey                 "o">
