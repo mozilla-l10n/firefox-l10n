@@ -16,7 +16,7 @@
 <!ENTITY offlineExplicit.label              "Alleen websites met expliciete machtigingen toestaan">
 <!ENTITY offlineExplicit.accesskey          "e">
 <!ENTITY offlineNotifyAsk.label             "Mij waarschuwen wanneer websites gegevens willen opslaan voor offlinegebruik.">
-<!ENTITY offlineNotifyAsk.accesskey         "N">
+<!ENTITY offlineNotifyAsk.accesskey         "n">
 <!ENTITY offlineNotifyPermissions.label     "Toestemmingen beheren">
 <!ENTITY offlineNotifyPermissions.accesskey "T">
 

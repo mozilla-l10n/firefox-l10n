@@ -379,7 +379,7 @@
 <!ENTITY searchMailCmd.accesskey "z">
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Adressen zoeken…">
-<!ENTITY searchAddressesCmd.accesskey "e">
+<!ENTITY searchAddressesCmd.accesskey "r">
 <!ENTITY filtersCmd.label "Berichtenfilters…">
 <!ENTITY filtersCmd.accesskey "B">
 <!ENTITY filtersApply.label "Filters toepassen op map">

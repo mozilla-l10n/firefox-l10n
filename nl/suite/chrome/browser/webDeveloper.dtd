@@ -5,4 +5,4 @@
 <!ENTITY validatePage.label            "Deze pagina valideren">
 <!ENTITY validatePage.accesskey        "v">
 <!ENTITY allowRemoteDebugging.label     "Externe debugverbinding toestaan">
-<!ENTITY allowRemoteDebugging.accesskey "r">
+<!ENTITY allowRemoteDebugging.accesskey "x">

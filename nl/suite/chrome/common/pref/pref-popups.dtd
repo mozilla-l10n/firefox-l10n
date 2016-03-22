@@ -17,7 +17,7 @@
 <!ENTITY playSound.accesskey            "u">
 <!ENTITY systemSound.label              "Systeemgeluid">
 <!ENTITY systemSound.accesskey          "S">
-<!ENTITY customSound.label              "Persoonlijk geluidsbestand">
+<!ENTITY customSound.label              "Het volgende geluidsbestand gebruiken">
 <!ENTITY customSound.accesskey          "e">
 
 <!ENTITY selectSound.label              "Bladeren…">

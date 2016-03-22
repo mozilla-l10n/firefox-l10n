@@ -8,7 +8,7 @@
      to replace the Toolkit default closeNotificationItem.label ("Not Now")
      which is ambiguous in some cases. Thus, make sure to select a phrase
      that clearly relates to closing the current doorhanger. -->
-<!ENTITY closeNotificationItem.label "Nofificatie verwijderen">
+<!ENTITY closeNotificationItem.label "Notificatie verwijderen">
 
 <!ENTITY checkForUpdates "Controleren op updates…">
 

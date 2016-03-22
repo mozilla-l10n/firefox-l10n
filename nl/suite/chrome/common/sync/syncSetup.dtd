@@ -6,14 +6,14 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welkom. Als u &syncBrand.fullName.label; nog nooit eerder hebt gebruikt, dient u een nieuwe account aan te maken.">
+<!ENTITY setup.pickSetupType.description "Welkom! Als u &syncBrand.fullName.label; nog nooit eerder hebt gebruikt, dient u een nieuwe account aan te maken.">
 <!ENTITY button.createNewAccount.label "Een nieuwe account aanmaken">
 <!ENTITY setup.haveAccount.label "Ik heb al een &syncBrand.fullName.label;-account.">
 <!ENTITY button.connect.label    "Verbinden">
 
 <!ENTITY setup.choicePage.title.label     "Hebt u &syncBrand.fullName.label; eerder gebruikt?">
 <!ENTITY setup.choicePage.new.label       "Ik heb &syncBrand.shortName.label; nooit eerder gebruikt">
-<!ENTITY setup.choicePage.existing.label  "Ik gebruik &syncBrand.shortName.label; al op een andere computer">
+<!ENTITY setup.choicePage.existing.label  "Ik gebruik &syncBrand.shortName.label; al op een ander apparaat">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
@@ -44,12 +44,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Recovery Key -->
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; geeft om uw privacy">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Om uw volledige privacy te waarborgen worden al uw gegevens versleuteld voordat ze worden geüpload. De herstelsleutel voor het ontcijferen van uw gegevens wordt niet geüpload.">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; denkt aan uw privacy">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Om uw totale privacy te waarborgen worden al uw gegevens voor het uploaden versleuteld. De herstelsleutel, die nodig is om uw gegevens te ontcijferen, wordt niet geüpload.">
 <!ENTITY recoveryKeyEntry.label        "Uw herstelsleutel">
-<!ENTITY recoveryKeyEntry.accesskey    "s">
+<!ENTITY recoveryKeyEntry.accesskey    "h">
 <!ENTITY recoveryGenerateNewKey.label  "Nieuwe sleutel genereren">
-<!ENTITY recoveryKeyBackup.description "Uw herstelsleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw herstelsleutel niet herstellen.">
+<!ENTITY recoveryKeyBackup.description "Uw herstelsleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen u niet helpen bij het terugvinden van uw herstelsleutel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Afdrukken…">
 <!ENTITY button.syncKeyBackup.print.accesskey "A">
@@ -63,18 +63,18 @@
 <!ENTITY addDevice.title.label              "Een apparaat toevoegen">
 <!ENTITY addDevice.showMeHow.label          "Toon me hoe.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ik heb het apparaat niet bij me">
-<!ENTITY addDevice.setup.description.label  "Ga om te activeren naar Opties van &syncBrand.shortName.label; op uw andere apparaat en selecteer ‘Een apparaat toevoegen’.">
-<!ENTITY addDevice.setup.enterCode.label    "Voer vervolgens deze code in:">
-<!ENTITY addDevice.dialog.description.label "Ga om uw nieuwe apparaat te activeren naar Opties van &syncBrand.shortName.label; op het apparaat en selecteer ‘Verbinden’.">
+<!ENTITY addDevice.setup.description.label  "Selecteer ‘Een apparaat toevoegen’ onder Opties van &syncBrand.shortName.label; op uw andere apparaat om het te activeren.">
+<!ENTITY addDevice.setup.enterCode.label    "Voer daarna deze code in:">
+<!ENTITY addDevice.dialog.description.label "Selecteer ‘Verbinden’ onder Opties van &syncBrand.shortName.label; op het nieuwe apparaat om het te activeren.">
 <!ENTITY addDevice.dialog.enterCode.label   "Voer de code in die het apparaat geeft:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probeer het opnieuw.">
 <!ENTITY addDevice.dialog.successful.label  "Het apparaat is met succes toegevoegd. De eerste synchronisatie kan meerdere minuten duren en zal op de achtergrond worden voltooid.">
-<!ENTITY addDevice.dialog.recoveryKey.label "Om uw apparaat te activeren dient u uw herstelsleutel in te voeren. Druk deze sleutel af of sla hem op, en neem hem met u mee.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Om uw apparaat te activeren, dient u uw herstelsleutel in te voeren. Druk deze sleutel af of sla hem op, en neem hem met u mee.">
 <!ENTITY addDevice.dialog.connected.label   "Apparaat verbonden">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Aanmelden">
-<!ENTITY existingRecoveryKey.description "U kunt een kopie van uw herstelsleutel verkrijgen door naar Voorkeuren/Opties van &syncBrand.shortName.label; op uw andere apparaat te gaan en ‘Mijn herstelsleutel’ onder ‘Account beheren’ te selecteren.">
+<!ENTITY existingRecoveryKey.description "U kunt een kopie van uw herstelsleutel verkrijgen door naar Opties van &syncBrand.shortName.label; op uw andere apparaat te gaan en ‘Mijn herstelsleutel’ onder ‘Account beheren’ te selecteren.">
 <!ENTITY verifying.label              "Verifiëren…">
 <!ENTITY resetPassword.label          "Wachtwoord herinitialiseren">
 <!ENTITY resetSyncKey.label           "Ik ben mijn andere apparaat kwijt.">
@@ -105,12 +105,12 @@
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Bevestigen">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; zal deze computergegevens laten samengaan met de gegevens in uw Sync-account.">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; zal deze computergegevens laten samengaan met de gegevens van uw Sync-account.">
 <!ENTITY confirm.client2.label         "Waarschuwing: de volgende &brandShortName;-gegevens op deze computer zullen worden verwijderd:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; zal vervolgens uw &syncBrand.fullName.label;-gegevens naar deze computer kopiëren.">
 <!ENTITY confirm.server2.label         "Waarschuwing: gegevens van de volgende apparaten zullen worden overschreven door uw lokale gegevens:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Set-up voltooid">
-<!ENTITY changeOptions.label "U kunt deze voorkeuren wijzigen via onderstaande Sync-opties.">
+<!ENTITY changeOptions.label "U kunt deze voorkeursinstelling wijzigen via onderstaande Sync-opties.">
 <!ENTITY continueUsing.label "U kunt &brandShortName; nu verder gaan gebruiken.">

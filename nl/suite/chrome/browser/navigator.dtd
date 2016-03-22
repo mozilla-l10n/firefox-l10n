@@ -26,7 +26,7 @@
 <!ENTITY bookmarksToolbarCmd.accesskey "B">
 
 <!ENTITY closeWindow.label "Venster sluiten">
-<!ENTITY closeWindow.accesskey "n">
+<!ENTITY closeWindow.accesskey "e">
 
 <!ENTITY minimizeButton.tooltip       "Minimaliseren">
 <!ENTITY restoreButton.tooltip        "Herstellen">
@@ -66,12 +66,12 @@
 
 <!ENTITY bookmarksButton.label        "Bladwijzers">
 <!ENTITY bookmarksButton.tooltip      "Bladwijzerlijst">
-<!ENTITY homeButton.label             "Beginpagina">
+<!ENTITY homeButton.label             "Startpagina">
 <!ENTITY bookmarksToolbarItem.label   "Bladwijzerwerkbalkitems">
 <!ENTITY  bookmarksToolbarChevron.tooltip "Meer bladwijzers tonen">
 
 <!-- Statusbar -->
-<!ENTITY  statusText.label            "Klaar">
+<!ENTITY  statusText.label            "Gereed">
 
 <!ENTITY popupIcon.tooltiptext      "Pop-ups van deze website deblokkeren">
 

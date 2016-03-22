@@ -13,17 +13,17 @@
 <!ENTITY sendPage.accesskey              "z">
 
 <!ENTITY contextSendThisPage.label       "Deze pagina verzenden…">
-<!ENTITY contextSendThisPage.accesskey   "d">
+<!ENTITY contextSendThisPage.accesskey   "D">
 <!ENTITY contextSendThisLink.label       "Deze koppeling verzenden…">
 <!ENTITY contextSendThisLink.accesskey   "k">
 <!ENTITY contextSendImage.label          "Afbeelding verzenden…">
-<!ENTITY contextSendImage.accesskey      "n">
-<!ENTITY contextSendVideo.label          "Video verzenden…">
-<!ENTITY contextSendVideo.accesskey      "n">
-<!ENTITY contextSendAudio.label          "Audio verzenden…">
-<!ENTITY contextSendAudio.accesskey      "n">
+<!ENTITY contextSendImage.accesskey      "v">
+<!ENTITY contextSendVideo.label          "Video e-mailen…">
+<!ENTITY contextSendVideo.accesskey      "l">
+<!ENTITY contextSendAudio.label          "Audio e-mailen…">
+<!ENTITY contextSendAudio.accesskey      "l">
 <!ENTITY contextSendFrame.label          "Deelvenster verzenden…">
-<!ENTITY contextSendFrame.accesskey      "d">
+<!ENTITY contextSendFrame.accesskey      "z">
 
 <!ENTITY sendLinkCmd.label               "Koppeling verzenden…"> 
 <!ENTITY sendLinkCmd.accesskey           "K">

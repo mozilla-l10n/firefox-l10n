@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pref.masterpass.title                  "Hoofdwachtwoorden">
-<!ENTITY  managepassword.caption                 "Hoofdwachtwoord-wachttijd">
+<!ENTITY  pref.masterpass.title                  "Hoofdwachtwoord">
+<!ENTITY  managepassword.caption                 "Hoofdwachtwoordtime-out">
 <!ENTITY  managepassword.text                    "&brandShortName; zal om uw hoofdwachtwoord vragen:">
 <!ENTITY  managepassword.askfirsttime            "De eerste keer dat het nodig is">
 <!ENTITY  managepassword.askfirsttime.accesskey  "D">

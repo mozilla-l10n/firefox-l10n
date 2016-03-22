@@ -18,8 +18,8 @@
 <!ENTITY taskNavigator.tooltip "Browser">
 <!ENTITY taskComposer.tooltip "Composer">
 
-<!ENTITY webDevelopment.label "Internetontwikkeling">
-<!ENTITY webDevelopment.accesskey "I">
+<!ENTITY webDevelopment.label "Webontwikkeling">
+<!ENTITY webDevelopment.accesskey "e">
 
 <!ENTITY windowMenu.label "Venster">
 <!ENTITY windowMenu.accesskey "s">
@@ -55,6 +55,6 @@
      Only one of these will show at a time (based on setup state),
      so reusing accesskey is ok. -->
 <!ENTITY syncSetup.label           "Sync instellen…">
-<!ENTITY syncSetup.accesskey       "S">
+<!ENTITY syncSetup.accesskey       "c">
 <!ENTITY syncSyncNowItem.label     "Nu synchroniseren">
-<!ENTITY syncSyncNowItem.accesskey "s">
+<!ENTITY syncSyncNowItem.accesskey "c">

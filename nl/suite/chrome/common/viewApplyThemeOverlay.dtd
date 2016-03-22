@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY applyTheme.label            "Thema toepassen">
-<!ENTITY applyTheme.accesskey        "T">
+<!ENTITY applyTheme.accesskey        "h">
 <!ENTITY getMoreThemesCmd.label      "Meer  thema’s verkrijgen">
 <!ENTITY getMoreThemesCmd.accesskey  "M">
 <!ENTITY getBackgroundsCmd.label     "Achtergronden verkrijgen">

@@ -11,15 +11,15 @@
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label              "Koppeling openen in nieuw venster">
 <!ENTITY openLinkCmd.accesskey          "v">
-<!ENTITY openLinkCmdInPrivateWindow.label     "Koppeling openen in privévenster ">
-<!ENTITY openLinkCmdInPrivateWindow.accesskey "p">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Koppeling openen in nieuw privévenster">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "r">
 <!ENTITY openLinkInWindowCmd.label      "Openen">
 <!ENTITY openLinkInWindowCmd.accesskey  "O">
 <!ENTITY openFrameCmd.label             "Deelvenster openen in nieuw venster">
 <!ENTITY openFrameCmd.accesskey         "v">
 <!ENTITY openFrameCmdInTab.label        "Deelvenster openen in nieuw tabblad">
 <!ENTITY openFrameCmdInTab.accesskey    "t">
-<!ENTITY keywordfield.label             "Sleutelwoord voor deze zoektocht toevoegen…">
+<!ENTITY keywordfield.label             "Sleutelwoord voor deze zoekopdracht toevoegen…">
 <!ENTITY keywordfield.accesskey         "S">
 <!ENTITY showOnlyThisFrameCmd.label     "Alleen dit deelvenster tonen">
 <!ENTITY showOnlyThisFrameCmd.accesskey "d">
@@ -49,16 +49,16 @@
 <!ENTITY viewFrameInfoCmd.accesskey     "i">
 <!ENTITY fitImageCmd.label              "Afbeelding aanpassen aan venster">
 <!ENTITY fitImageCmd.accesskey          "a">
-<!ENTITY reloadImageCmd.label           "Afbeelding opnieuw laden">
-<!ENTITY reloadImageCmd.accesskey       "e">
+<!ENTITY reloadImageCmd.label           "Afbeelding vernieuwen">
+<!ENTITY reloadImageCmd.accesskey       "r">
 <!ENTITY viewImageCmd.label             "Afbeelding bekijken">
-<!ENTITY viewImageCmd.accesskey         "b">
+<!ENTITY viewImageCmd.accesskey         "f">
 <!ENTITY viewVideoCmd.label             "Video bekijken">
 <!ENTITY viewVideoCmd.accesskey         "i">
 <!ENTITY viewBGImageCmd.label           "Achtergrondafbeelding bekijken">
-<!ENTITY viewBGImageCmd.accesskey       "c">
-<!ENTITY setDesktopBackgroundCmd.label     "Bureaubladachtergrond instellen…">
-<!ENTITY setDesktopBackgroundCmd.accesskey "a">
+<!ENTITY viewBGImageCmd.accesskey       "h">
+<!ENTITY setDesktopBackgroundCmd.label     "Als bureaubladachtergrond instellen…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "c">
 <!ENTITY bookmarkPageCmd.label          "Bladwijzer voor deze pagina maken…">
 <!ENTITY bookmarkPageCmd.accesskey      "a">
 <!ENTITY bookmarkLinkCmd.label          "Bladwijzer voor deze koppeling maken…">
@@ -67,16 +67,16 @@
 <!ENTITY bookmarkFrameCmd.accesskey     "m">
 <!ENTITY savePageAsCmd.label            "Pagina opslaan als…">
 <!ENTITY savePageCmd.label              "Pagina opslaan">
-<!ENTITY savePageCmd.accesskey          "p">
+<!ENTITY savePageCmd.accesskey          "P">
 <!ENTITY savePageCmd.commandkey         "s">
 <!ENTITY saveFrameAsCmd.label           "Deelvenster opslaan als…">
 <!ENTITY saveFrameCmd.label             "Deelvenster opslaan">
-<!ENTITY saveFrameCmd.accesskey         "o">
+<!ENTITY saveFrameCmd.accesskey         "r">
 <!ENTITY printFrameCmd.label            "Deelvenster afdrukken…">
 <!ENTITY printFrameCmd.accesskey        "a">
-<!ENTITY saveLinkAsCmd.label            "Koppelingsdoel opslaan als…">
-<!ENTITY saveLinkCmd.label              "Koppelingsdoel opslaan">
-<!ENTITY saveLinkCmd.accesskey          "d">
+<!ENTITY saveLinkAsCmd.label            "Koppeling opslaan als…">
+<!ENTITY saveLinkCmd.label              "Koppeling opslaan">
+<!ENTITY saveLinkCmd.accesskey          "l">
 <!ENTITY saveImageAsCmd.label           "Afbeelding opslaan als…">
 <!ENTITY saveImageCmd.label             "Afbeelding opslaan">
 <!ENTITY saveImageCmd.accesskey         "n">
@@ -85,29 +85,29 @@
 <!ENTITY saveAudioCmd.label             "Audio opslaan als…">
 <!ENTITY saveAudioCmd.accesskey         "n">
 <!ENTITY copyLinkCmd.label              "Koppelingslocatie kopiëren">
-<!ENTITY copyLinkCmd.accesskey          "k">
+<!ENTITY copyLinkCmd.accesskey          "p">
 <!ENTITY copyImageCmd.label             "Afbeeldingslocatie kopiëren">
 <!ENTITY copyImageCmd.accesskey         "o">
 <!ENTITY copyVideoURLCmd.label          "Videolocatie kopiëren">
-<!ENTITY copyVideoURLCmd.accesskey      "k">
+<!ENTITY copyVideoURLCmd.accesskey      "o">
 <!ENTITY copyAudioURLCmd.label          "Audiolocatie kopiëren">
-<!ENTITY copyAudioURLCmd.accesskey      "k">
+<!ENTITY copyAudioURLCmd.accesskey      "o">
 <!ENTITY metadataCmd.label              "Eigenschappen">
 <!ENTITY metadataCmd.accesskey          "E">
 <!ENTITY copyEmailCmd.label             "E-mailadres kopiëren">
 <!ENTITY copyEmailCmd.accesskey         "m">
 <!ENTITY thisFrameMenu.label            "Dit deelvenster">
-<!ENTITY thisFrameMenu.accesskey        "d">
+<!ENTITY thisFrameMenu.accesskey        "D">
 <!ENTITY mediaPlay.label                "Afspelen">
 <!ENTITY mediaPlay.accesskey            "A">
 <!ENTITY mediaPause.label               "Pauzeren">
-<!ENTITY mediaPause.accesskey           "P">
+<!ENTITY mediaPause.accesskey           "a">
 <!ENTITY mediaMute.label                "Dempen">
 <!ENTITY mediaMute.accesskey            "D">
 <!ENTITY mediaUnmute.label              "Dempen uitschakelen">
 <!ENTITY mediaUnmute.accesskey          "D">
 <!ENTITY mediaPlaybackRate.label        "Afspeelsnelheid">
-<!ENTITY mediaPlaybackRate.accesskey    "l">
+<!ENTITY mediaPlaybackRate.accesskey    "s">
 <!ENTITY mediaPlaybackRate050.label     "Slow Motion (½×)">
 <!ENTITY mediaPlaybackRate050.accesskey "S">
 <!ENTITY mediaPlaybackRate100.label     "Normale snelheid">
@@ -125,8 +125,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey    "B">
 <!ENTITY videoFullScreen.label        "Volledig scherm">
 <!ENTITY videoFullScreen.accesskey    "V">
-<!ENTITY videoSaveImage.label         "Snapshot opslaan als…">
-<!ENTITY videoSaveImage.accesskey     "S">
+<!ENTITY videoSaveImage.label         "Momentopname opslaan als…">
+<!ENTITY videoSaveImage.accesskey     "M">
 <!ENTITY videoShowStats.label         "Statistieken tonen">
 <!ENTITY videoShowStats.accesskey     "t">
 <!ENTITY videoHideStats.label         "Statistieken verbergen">
@@ -135,7 +135,7 @@ items are mutually exclusive. -->
 <!ENTITY bidiSwitchPageDirectionItem.label "Paginarichting omkeren">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "a">
 <!ENTITY bidiSwitchTextDirectionItem.label "Tekstrichting omkeren">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "s">
 <!ENTITY spellAddToDictionary.label     "Toevoegen aan woordenboek">
 <!ENTITY spellAddToDictionary.accesskey "T">
 <!ENTITY spellUndoAddToDictionary.label      "Toevoegen aan woordenboek ongedaan maken">
@@ -144,7 +144,7 @@ items are mutually exclusive. -->
 <!ENTITY spellIgnoreWord.accesskey      "W">
 <!ENTITY spellCheckEnable.label         "Spelling controleren">
 <!ENTITY spellCheckEnable.accesskey     "S">
-<!ENTITY spellNoSuggestions.label       "(geen spellingsuggesties)">
+<!ENTITY spellNoSuggestions.label       "(Geen spellingsuggesties)">
 <!ENTITY spellDictionaries.label        "Talen">
 <!ENTITY spellDictionaries.accesskey    "l">
 <!ENTITY spellAddDictionaries.label     "Meer woordenboeken downloaden">

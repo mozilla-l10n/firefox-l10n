@@ -5,7 +5,7 @@
 <!ENTITY prefSpelling.title                   "Spelling">
 <!ENTITY generalSpelling.label                "Algemeen">
 <!ENTITY checkSpellingWhenTyping.label        "Mijn spelling controleren tijdens het typen:">
-<!ENTITY checkSpellingWhenTyping.accesskey    "t">
+<!ENTITY checkSpellingWhenTyping.accesskey    "s">
 <!ENTITY dontCheckSpelling.label              "Nooit">
 <!ENTITY multilineCheckSpelling.label         "In meerregelige velden">
 <!ENTITY alwaysCheckSpelling.label            "Alle velden">

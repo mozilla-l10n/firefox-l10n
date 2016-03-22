@@ -14,9 +14,9 @@
 <!ENTITY enableAutomaticImageResizing.label     "Formaat van grote afbeeldingen aanpassen aan browservenster">
 <!ENTITY enableAutomaticImageResizing.accesskey "F">
 <!ENTITY useSmoothScroll.label                  "Vloeiend scrollen gebruiken">
-<!ENTITY useSmoothScroll.accesskey              "V">
-<!ENTITY allowHWAccel.label                     "Hardwareversnelling gebruiken indien beschikbaar">
-<!ENTITY allowHWAccel.accesskey                 "r">
+<!ENTITY useSmoothScroll.accesskey              "e">
+<!ENTITY allowHWAccel.label                     "Hardwareversnelling gebruiken wanneer beschikbaar">
+<!ENTITY allowHWAccel.accesskey                 "v">
 <!ENTITY textZoomOnly.label                     "Alleen tekst zoomen in plaats van hele pagina’s">
 <!ENTITY textZoomOnly.accesskey                 "z">
 <!ENTITY blockAutoRefresh.label                 "Mij waarschuwen wanneer websites proberen de pagina door te sturen of te herladen">

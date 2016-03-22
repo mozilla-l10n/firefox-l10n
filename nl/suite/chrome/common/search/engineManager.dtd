@@ -19,7 +19,7 @@
 <!ENTITY  edit.label                "Sleutelwoord bewerken…">
 <!ENTITY  edit.accesskey            "b">
 
-<!ENTITY  addEngine.label           "Meer zoekmachines verkrijgen…">
+<!ENTITY  addEngine.label           "Meer zoekmachines toevoegen…">
 <!ENTITY  addEngine.accesskey       "M">
 
 <!ENTITY  enableSuggest.label       "Zoeksuggesties tonen">

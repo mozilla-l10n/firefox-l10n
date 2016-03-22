@@ -21,8 +21,8 @@
 <!ENTITY selectProfile.title             "Profiel selecteren">
 <!ENTITY selectProfile.label             "De volgende profielen zijn beschikbaar om uit te importeren:">
 
-<!ENTITY migrating.title                 "Bezig met importeren…">
+<!ENTITY migrating.title                 "Importeren…">
 <!ENTITY migrating.label                 "De volgende items worden momenteel geïmporteerd…">
 
 <!ENTITY done.title                      "Importeren voltooid">
-<!ENTITY done.label                      "De volgende items zijn succesvol geïmporteerd:">
+<!ENTITY done.label                      "De volgende items zijn met succes geïmporteerd:">
