@@ -23,9 +23,10 @@
 <!ENTITY cmd.back.tooltip                     "Bir sahifa orqaga qaytish">
 <!ENTITY cmd.forward.tooltip                  "Bir sahifa oldinga oʻtish">
 
-
-
-
+<!ENTITY showUnsignedExtensions.button.label  "Ba’zi kengaytmalar tasdiqlanmadi">
+<!ENTITY showAllExtensions.button.label       "Barcha kengaytmalarni ko‘rsatish">
+<!ENTITY debugAddons.label                    "Qo‘shimcha dasturlarni tuzatish">
+<!ENTITY debugAddons.accesskey                "t">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "&quot;Xavfsiz usuli&quot; tomonidan  barcha qoʻshimcha dasturlar oʻchirilgan">
@@ -235,14 +236,17 @@ mashhur va eng zoʻz qoʻshimcha dasturlarni sinab koʻrishni takli qiladi.">
 
 <!ENTITY setting.learnmore "Koʻproq oʻrganish...">
 
+<!ENTITY disabledUnsigned.heading "Ba’zi qo‘shimcha dasturlar o‘chirib qo‘yildi">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "Quyidagi qo‘shimcha dasturlar &brandShortName; brauzerida foydalanish uchun tasdiqdan o‘tmagan. Siz ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "almashtiriladiganlarini topishingiz">
+<!ENTITY disabledUnsigned.description.end " yoki dasturchidan ularni tasdiqlashini so‘rashingiz mumkin.">
+<!ENTITY disabledUnsigned.learnMore "Onlayn xavfsizligingizni ta’minlash uchun qilayotgan harakatlarimiz haqida batafsil ma’lumot oling.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.devInfo.start "Dasturchilar qo‘shimcha dasturlarini bizning qo‘llanmamizni o‘qib, tasdiqdan o‘tkazishga ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "qiziqishadi">
+<!ENTITY disabledUnsigned.devInfo.end ".">
