@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Alle berichten verwijderen, behalve de meest recente">
 <!ENTITY retentionKeepRecent.accesskey "a">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Gelezen berichten altijd verwijderen (leeftijdsinstellingen negeren)">
 <!ENTITY retentionApplyToFlagged.label "Gemarkeerde berichten altijd bewaren">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Berichtkernen verwijderen die ouder zijn dan">

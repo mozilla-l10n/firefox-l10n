@@ -20,24 +20,22 @@
 <!ENTITY retentionUseAccount.label  "Mijn accountinstellingen gebruiken">
 <!ENTITY retentionUseAccount.accesskey "M">
 <!ENTITY daysOld.label "dagen">
-<!ENTITY message.label "">
-<!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd.">
-<!ENTITY retentionCleanupImap.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd, zowel de lokale als de originele versies op de server.">
-<!ENTITY retentionCleanupPop.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd, inclusief de originele op de server.">
+<!ENTITY message.label "berichten">
+<!ENTITY retentionCleanup.label "Berichten bewaren:">
+<!ENTITY retentionCleanupImap.label "Lokale kopieën en de originele berichten op de server bewaren:">
+<!ENTITY retentionCleanupPop.label "Berichten bewaren, inclusief de kopieën op de server:">
 <!ENTITY retentionDeleteMsg.label "Berichten verwijderen die ouder zijn dan">
 <!ENTITY retentionDeleteMsg.accesskey "o">
-<!ENTITY retentionKeepAll.label "Geen berichten verwijderen">
-<!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepRecent.label "Alle berichten verwijderen, behalve de meest recente">
-<!ENTITY retentionKeepRecent.accesskey "a">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Gelezen berichten altijd verwijderen (leeftijdsinstellingen negeren)">
+<!ENTITY retentionKeepAll.label "Alle berichten">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepRecent.label "De meest recente">
+<!ENTITY retentionKeepRecent.accesskey "r">
 <!ENTITY retentionApplyToFlagged.label "Berichten met ster altijd bewaren">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY retentionApplyToFlagged.accesskey "s">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronisatie">
-<!ENTITY folderCheckForNewMessages2.label         "Bij het ophalen van nieuwe berichten voor deze account, altijd deze map controleren">
-<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+<!ENTITY folderCheckForNewMessages2.label        "Bij het ophalen van nieuwe berichten voor deze account, altijd deze map controleren">
+<!ENTITY folderCheckForNewMessages2.accesskey    "c">
 
 <!ENTITY offlineFolder.check.label               "Deze map voor offlinegebruik selecteren">
 <!ENTITY offlineFolder.check.accesskey           "s">
