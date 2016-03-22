@@ -84,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "Sinx-yaning eskiroq versiyalaridan foydalanilsinmi?">
 
 <!ENTITY signedOut.caption            "Internetni o‘zingiz bilan olib yuring">
-<!ENTITY signedOut.description        "Xatcho‘plar, tarix, ichi oyna, parollaringiz va boshqa parametrlarni barcha qurilmalaringizaro sinxronlang.">
+<!ENTITY signedOut.description        "Xatcho‘plar, tarix, tablar, parollar, qo‘shimcha dasturlar va boshqa parametrlarni barcha qurilmalar aro sinxronlang.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; bilan ulanish">
 <!ENTITY signedOut.accountBox.create  "Hisob yaratish">
 <!ENTITY signedOut.accountBox.signin  "Kirish">

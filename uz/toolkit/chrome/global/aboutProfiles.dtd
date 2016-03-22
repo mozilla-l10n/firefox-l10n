@@ -7,4 +7,4 @@
 <!ENTITY aboutProfiles.create "Yangi profil yaratish">
 <!ENTITY aboutProfiles.restart.title "Qayta ishga tushirish">
 <!ENTITY aboutProfiles.restart.inSafeMode "Qo‘sh. dasturlarsiz qayta ishga tushirish…">
-
+<!ENTITY aboutProfiles.restart.normal "Odatdagidek qayta ishga tushirish…">

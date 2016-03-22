@@ -46,6 +46,8 @@
 
 <!ENTITY rights2.webservices-header "&brandFullName; internetga asoslangan ma`lumot berish xizmatlari">
 <!-- point 5 -->
+
+<!ENTITY rights.intro-point5 "Aniq bir turdagi video fayllarni ijro etish uchun &brandShortName; uchinchi tomondan kerakli kontent ta’rifi modullarini yuklab oladi.">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
