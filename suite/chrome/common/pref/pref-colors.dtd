@@ -32,4 +32,4 @@
 <!ENTITY useMyColors.label                 "Mijn gekozen kleuren gebruiken, de opgegeven kleuren en achtergrondafbeelding negeren">
 <!ENTITY useMyColors.accesskey             "M">
 <!ENTITY automaticColors.label             "Alleen bij gebruik van een hoog contrast thema de paginakleuren negeren">
-<!ENTITY automaticColors.accesskey         "g">
+<!ENTITY automaticColors.accesskey         "r">

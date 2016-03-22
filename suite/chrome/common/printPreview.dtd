@@ -5,7 +5,7 @@
 <!ENTITY print.label          "Afdrukken…">
 <!ENTITY print.accesskey      "A">
 <!ENTITY pageSetup.label      "Pagina-instellingen…">
-<!ENTITY pageSetup.accesskey  "i">
+<!ENTITY pageSetup.accesskey  "n">
 <!ENTITY page.label           "Pagina:">
 <!ENTITY page.accesskey       "P">
 <!ENTITY of.label             "van">

@@ -12,10 +12,10 @@
 <!ENTITY navCheck.label                         "Browser">
 <!ENTITY navCheck.accesskey                     "B">
 <!ENTITY showToolsLegend.label                  "Werkbalken tonen als">
-<!ENTITY picsNtextRadio.label                   "Afbeeldingen en tekst">
+<!ENTITY picsNtextRadio.label                   "Pictogrammen en tekst">
 <!ENTITY picsNtextRadio.accesskey               "e">
-<!ENTITY picsOnlyRadio.label                    "Alleen afbeeldingen">
-<!ENTITY picsOnlyRadio.accesskey                "f">
+<!ENTITY picsOnlyRadio.label                    "Alleen pictogrammen">
+<!ENTITY picsOnlyRadio.accesskey                "p">
 <!ENTITY textonlyRadio.label                    "Alleen tekst">
 <!ENTITY textonlyRadio.accesskey                "k">
 <!ENTITY showHideTooltips.label                 "Tooltips tonen">

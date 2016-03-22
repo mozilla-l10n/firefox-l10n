@@ -5,13 +5,13 @@
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Privacy &amp; beveiliging">
 
-<!ENTITY tracking.label                   "Gebruikersanalyse">
+<!ENTITY tracking.label                   "Volgen van gebruiker">
 <!ENTITY trackingIntro.label              "Websites kunnen volgen hoe u ze gebruikt en dat heeft effect op uw privacy.">
 
 <!ENTITY doNotTrack.label                 "Vertel websites dat ik niet gevolgd wil worden">
-<!ENTITY doNotTrack.accesskey             "V">
+<!ENTITY doNotTrack.accesskey             "n">
 <!ENTITY trackProtect.label               "Voorkom volgactiviteiten van bekende websites">
-<!ENTITY trackProtect.accesskey           "n">
+<!ENTITY trackProtect.accesskey           "V">
 <!ENTITY warnTrackContent.label           "Waarschuw me als bekende volgactiviteiten worden gedetecteerd">
 <!ENTITY warnTrackContent.accesskey       "W">
 
@@ -36,5 +36,5 @@
 <!ENTITY blockAttackSites.accesskey       "b">
 
 <!ENTITY blockWebForgeries.label          "Gerapporteerde webvervalsingen blokkeren (phishing)">
-<!ENTITY blockWebForgeries.accesskey      "p">
+<!ENTITY blockWebForgeries.accesskey      "G">
 

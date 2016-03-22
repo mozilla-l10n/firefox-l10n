@@ -6,7 +6,7 @@
 <!ENTITY messageDisplay.caption          "Berichtenweergave">
 <!ENTITY viewFallbackCharset2.label      "Terugvaltekstcodering:">
 <!ENTITY viewFallbackCharset2.accesskey  "T">
-<!ENTITY viewFallbackCharset.desc        "(Deze tekstcodering wordt gebruikt voor legacy-inhoud die geen eigen tekstcodering kan declareren.)">
+<!ENTITY viewFallbackCharset.desc        "(Deze tekstcodering wordt gebruikt voor legacy-inhoud die geen eigen codering kan aangeven.)">
 
 <!ENTITY composingMessages.caption       "Berichten opstellen">
 <!ENTITY useMIME.label                   "‘Quoted printable’ MIME-codering gebruiken voor berichten die 8-bits tekens bevatten">

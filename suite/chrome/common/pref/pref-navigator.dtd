@@ -11,9 +11,9 @@
 <!ENTITY newTabPageMenu.label           "Nieuw tabblad">
 
 <!ENTITY blankPageRadio.label           "Blanco pagina">
-<!ENTITY blankPageRadio.accesskey       "c">
-<!ENTITY homePageRadio.label            "Beginpagina">
-<!ENTITY homePageRadio.accesskey        "B">
+<!ENTITY blankPageRadio.accesskey       "B">
+<!ENTITY homePageRadio.label            "Startpagina">
+<!ENTITY homePageRadio.accesskey        "S">
 <!ENTITY lastPageRadio.label            "Laatst bezochte pagina">
 <!ENTITY lastPageRadio.accesskey        "L">
 <!ENTITY restoreSessionRadio.label      "Vorige sessie herstellen">
@@ -26,20 +26,20 @@
      "Restore [___] tab(s) at a time",
      using (restoreTabs.label) and a number (restoreTabsAtATime.label). -->
 <!ENTITY restoreTabs.label              "Herstel">
-<!ENTITY restoreTabs.accesskey          "s">
+<!ENTITY restoreTabs.accesskey          "r">
 <!ENTITY restoreTabsAtATime.label       "tabblad(en) tegelijk">
 <!ENTITY restoreDeferred.label          "Alleen tabbladen herstellen wanneer ik ze nodig heb">
 <!ENTITY restoreDeferred.accesskey      "A">
 
-<!ENTITY homePageIntro.label            "Op de knop Beginpagina klikken brengt u naar deze pagina of groep pagina’s.">
+<!ENTITY homePageIntro.label            "Op de knop Startpagina klikken brengt u naar deze pagina of groep pagina’s.">
 <!ENTITY useCurrent.label               "Huidige pagina gebruiken">
 <!ENTITY useCurrent.accesskey           "u">
 <!ENTITY useCurrentGroup.label          "Huidige groep gebruiken">
-<!ENTITY useCurrentGroup.accesskey      "r">
+<!ENTITY useCurrentGroup.accesskey      "o">
 <!ENTITY browseFile.label               "Bestand kiezen…">
 <!ENTITY browseFile.accesskey           "k">
 <!ENTITY useDefault.label               "Standaard herstellen">
-<!ENTITY useDefault.accesskey           "S">
+<!ENTITY useDefault.accesskey           "n">
 
 <!ENTITY defaultBrowserGroup.label      "Standaardbrowser">
 <!ENTITY defaultBrowserButton.label     "Standaardbrowser instellen">

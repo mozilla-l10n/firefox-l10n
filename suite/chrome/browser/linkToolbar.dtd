@@ -28,7 +28,7 @@
 <!ENTITY tocButton.label "Inhoudsopgave">
 <!ENTITY chapterButton.label "Hoofdstukken">
 <!ENTITY sectionButton.label "Delen">
-<!ENTITY subSectionButton.label "Subdelen">
+<!ENTITY subSectionButton.label "Subsecties">
 <!ENTITY appendixButton.label "Appendices">
 <!ENTITY glossaryButton.label "Verklarende woordenlijst">
 <!ENTITY indexButton.label "Index">

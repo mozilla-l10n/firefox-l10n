@@ -4,7 +4,7 @@
 
 <!ENTITY     tab.cookiesonsystem.label      "Opgeslagen cookies">
 <!ENTITY     tab.bannedservers.label        "Cookiewebsites">
-<!ENTITY     div.bannedservers.label        "Websites beheren die geen cookies kunnen opslaan op uw computer.">
+<!ENTITY     div.bannedservers.label        "Websites beheren die wel en niet cookies kunnen opslaan op uw computer.">
 <!ENTITY     div.cookiesonsystem.label      "Op uw computer opgeslagen cookies bekijken en verwijderen.">
 <!ENTITY     treehead.cookiename.label      "Cookienaam">
 <!ENTITY     treehead.cookiedomain.label    "Website">

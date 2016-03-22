@@ -5,9 +5,9 @@
 
 <!ENTITY pref.policies.title "Beveiligingsbeleid">
 
-<!ENTITY zoneIntro.label     "&brandShortName; stelt u in staat beleiden te creëren die voor bepaalde websites toegang tot diverse functionaliteiten bepalen, inclusief script- en Java-aspecten.">
+<!ENTITY zoneIntro.label     "&brandShortName; stelt u in staat beleidsregels te creëren die voor bepaalde websites toegang tot diverse functionaliteiten bepalen, inclusief script- en Java-aspecten.">
 
-<!ENTITY policies.label      "Beleiden:">
+<!ENTITY policies.label      "Beleidsregels:">
 <!ENTITY default.label       "Standaardbeleid">
 <!ENTITY allWebsites.label   "Alle websites">
 <!ENTITY trusted.label       "Vertrouwde websites">

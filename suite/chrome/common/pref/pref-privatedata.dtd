@@ -12,7 +12,7 @@
 <!ENTITY  alwaysClear.label               "Altijd mijn privégegevens wissen als ik &brandShortName; afsluit">
 <!ENTITY  alwaysClear.accesskey           "A">
 
-<!ENTITY  askBeforeClear.label            "Mij vragen alvorens privégegevens te wissen">
+<!ENTITY  askBeforeClear.label            "Mij vragen voordat privégegevens worden gewist">
 <!ENTITY  askBeforeClear.accesskey        "M">
 
 <!ENTITY clearDataSettings.label          "Als ik &brandShortName; vraag mijn privégegevens te wissen, moet het volgende worden verwijderd:">

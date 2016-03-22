@@ -23,7 +23,7 @@
 <!ENTITY images.label "Afbeeldingen">
 <!ENTITY popups.label "Pop-upvensters">
 <!ENTITY passwords.label "Wachtwoorden">
-<!ENTITY masterpass.label "Hoofdwachtwoorden">
+<!ENTITY masterpass.label "Hoofdwachtwoord">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certificaten">
 <!ENTITY sync.label "Sync">

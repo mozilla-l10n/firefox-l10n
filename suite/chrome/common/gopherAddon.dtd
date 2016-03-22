@@ -5,5 +5,5 @@
 <!ENTITY loadError.label        "Fout bij het laden van de pagina">
 <!ENTITY gopherAddon.title      "Gopherprotocol">
 <!ENTITY gopherAddon.shortDesc  "gopher is geen geregistreerd protocol.">
-<!ENTITY gopherAddon.longDesc   "Het adres specificeert het gopherprotocol welke niet meer wordt ondersteund dus kan de browser niet meer met de website verbinden. U kunt een compatibele add-on om toegang tot deze server verkrijgen via Mozilla Add-ons.">
+<!ENTITY gopherAddon.longDesc   "Het adres specificeert het gopherprotocol welke niet meer wordt ondersteund, daarom kan de browser niet meer met de website verbinden. U kunt een compatibele add-on verkijgen om deze server te benaderen via Mozilla Add-ons.">
 <!ENTITY goToAddOn.label        "Ga naar de Add-on-pagina">

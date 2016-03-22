@@ -4,7 +4,7 @@
 
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; instellen">
-<!ENTITY setupButton.accesskey      "s">
+<!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "Met &syncBrand.fullName.label; kunt u uw geschiedenis, bladwijzers, wachtwoorden en open tabbladen vanaf al uw apparaten benaderen.">
 
 <!-- The page shown when logged in... -->
@@ -35,7 +35,7 @@
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Computernaam:">
-<!ENTITY syncComputerName.accesskey   "N">
+<!ENTITY syncComputerName.accesskey   "C">
 
 <!ENTITY syncMy2.label              "Synchroniseren:">
 <!ENTITY engine.addons.label        "Add-ons">

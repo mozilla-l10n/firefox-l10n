@@ -5,7 +5,7 @@
 <!-- File Menu -->
 <!ENTITY tabCmd.label "Browsertabblad">
 <!ENTITY tabCmd.accesskey "t">
-<!ENTITY tabCmd.commandkey "T">
+<!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "Weblocatie openen…">
 <!ENTITY openCmd.accesskey "l">
 <!ENTITY openCmd.commandkey "l">
@@ -14,7 +14,7 @@
 <!ENTITY openFileCmd.commandkey "o">
 
 <!ENTITY closeOtherTabs.label "Overige tabbladen sluiten">
-<!ENTITY closeOtherTabs.accesskey "e">
+<!ENTITY closeOtherTabs.accesskey "b">
 
 <!ENTITY uploadFile.label "Bestand publiceren…">
 <!ENTITY uploadFile.accesskey "u">
@@ -27,7 +27,7 @@
 
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Tonen/verbergen">
-<!ENTITY toolbarsCmd.accesskey "T">
+<!ENTITY toolbarsCmd.accesskey "o">
 <!ENTITY tabbarCmd.label "Tabbladenbalk">
 <!ENTITY tabbarCmd.accesskey "T">
 <!ENTITY taskbarCmd.label "Statusbalk">
@@ -39,11 +39,11 @@
 <!ENTITY fullScreenCmd.accesskey "V">
 
 <!ENTITY useStyleSheetMenu.label "Stijl gebruiken">
-<!ENTITY useStyleSheetMenu.accesskey "S">
+<!ENTITY useStyleSheetMenu.accesskey "e">
 <!ENTITY useStyleSheetNone.label "Geen">
 <!ENTITY useStyleSheetNone.accesskey "G">
 <!ENTITY useStyleSheetPersistentOnly.label "Standaard paginastijl">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "t">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "S">
 <!ENTITY bidiSwitchPageDirectionItem.label "Paginarichting omkeren">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "P">
 <!ENTITY pageSourceCmd.label "Paginabron">
@@ -56,8 +56,8 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Ga">
 <!ENTITY goMenu.accesskey "G">
-<!ENTITY goHomeCmd.label "Beginpagina">
-<!ENTITY goHomeCmd.accesskey "B">
+<!ENTITY goHomeCmd.label "Startpagina">
+<!ENTITY goHomeCmd.accesskey "S">
 <!ENTITY historyCmd.label           "Geschiedenis">
 <!ENTITY historyCmd.accesskey       "G">
 <!ENTITY history.commandKey         "h">
@@ -65,7 +65,7 @@
 <!ENTITY recentTabs.accesskey "t">
 <!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "Onlangs gesloten vensters">
-<!ENTITY recentWindows.accesskey "s">
+<!ENTITY recentWindows.accesskey "e">
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Vorige sessie herstellen">
 <!ENTITY historyRestoreLastSession.accesskey "s">
@@ -83,24 +83,24 @@
 <!ENTITY addCurTabsAsCmd.label "Deze tabbladgroep toevoegen aan bladwijzers…">
 <!ENTITY addCurTabsAsCmd.accesskey "r">
 <!ENTITY manBookmarksCmd.label "Bladwijzers beheren…">
-<!ENTITY manBookmarksCmd.accesskey "b">
+<!ENTITY manBookmarksCmd.accesskey "B">
 <!ENTITY manBookmarksCmd.commandkey "b">
 
 <!-- Tools Menu -->
-<!ENTITY searchInternetCmd.label "Search the Web">
-<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternetCmd.label "Zoeken op het web">
+<!ENTITY searchInternetCmd.accesskey "Z">
 <!ENTITY searchInternet.commandKey "s">
-<!ENTITY translateMenu.label "Translate Page">
-<!ENTITY translateMenu.accesskey "T">
+<!ENTITY translateMenu.label "Pagina vertalen">
+<!ENTITY translateMenu.accesskey "v">
 
 <!ENTITY cookieMessageTitle.label "Cookietoestemmingen gewijzigd">
 <!ENTITY cookieDisplayCookiesCmd.label "Opgeslagen cookies beheren">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "b">
 <!ENTITY cookieAllowCookiesCmd.label "Cookies van deze website toestaan">
-<!ENTITY cookieAllowCookiesCmd.accesskey "t">
+<!ENTITY cookieAllowCookiesCmd.accesskey "C">
 <!ENTITY cookieAllowCookiesMsg.label "Cookies van deze website zullen altijd worden toegestaan.">
-<!ENTITY cookieAllowSessionCookiesCmd.label "Sessiecookies van deze website toestaan">
-<!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Cookies van deze website toestaan voor sessie">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "w">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Deze website kan alleen cookies instellen voor de huidige sessie.">
 <!ENTITY cookieCookiesDefaultCmd.label "Standaard cookietoestemmingen gebruiken">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "d">
@@ -130,7 +130,7 @@
 <!ENTITY cookieCookieManager.label "Cookiebeheerder">
 <!ENTITY cookieCookieManager.accesskey "C">
 <!ENTITY cookieImageManager.label "Afbeeldingenbeheerder">
-<!ENTITY cookieImageManager.accesskey "A">
+<!ENTITY cookieImageManager.accesskey "f">
 <!ENTITY cookiePopupManager.label "Pop-upbeheerder">
 <!ENTITY cookiePopupManager.accesskey "o">
 

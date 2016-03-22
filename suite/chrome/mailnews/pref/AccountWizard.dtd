@@ -9,7 +9,7 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "Om berichten te kunnen ontvangen dient u eerst een account aan te maken.">
+<!ENTITY accountSetupInfo2.label "Om berichten te kunnen ontvangen, dient u eerst een account aan te maken.">
 <!ENTITY accountTypeTitle.label "Nieuwe account aanmaken">
 <!ENTITY accountTypeDesc2.label "Deze wizard verzamelt de informatie die nodig is om een account aan te maken. Als u niet over de gevraagde informatie beschikt, neem dan contact op met uw systeembeheerder of internetprovider.">
 <!ENTITY accountTypeDirections.label "Selecteer het type account dat u wilt aanmaken:">

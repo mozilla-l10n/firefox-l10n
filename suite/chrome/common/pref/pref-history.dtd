@@ -16,7 +16,7 @@
 <!ENTITY  urlBarHistoryEnabled.accesskey    "L">
 <!ENTITY  clearLocationBar.label            "De lijst met in het locatiebalkmenu opgeslagen websites wissen.">
 <!ENTITY  clearLocationBarButton.label      "Locatiebalk wissen">
-<!ENTITY  clearLocationBarButton.accesskey  "L">
+<!ENTITY  clearLocationBarButton.accesskey  "w">
 <!ENTITY  formfillHistory.caption           "Formulier- en zoekgeschiedenis">
 <!ENTITY  enableFormfill.label              "Formulier- en zoekgeschiedenis inschakelen">
 <!ENTITY  enableFormfill.accesskey          "F">

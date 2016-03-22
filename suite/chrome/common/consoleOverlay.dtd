@@ -16,6 +16,6 @@
 <!ENTITY errors.accesskey      "F">
 <!ENTITY warnings.accesskey    "r">
 <!ENTITY messages.accesskey    "e">
-<!ENTITY clear.accesskey       "s">
+<!ENTITY clear.accesskey       "n">
 <!ENTITY evaluate.accesskey    "u">
-<!ENTITY filter2.accesskey     "i">
+<!ENTITY filter2.accesskey     "t">

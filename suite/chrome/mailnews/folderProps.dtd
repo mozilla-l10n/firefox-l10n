@@ -21,9 +21,9 @@
 <!ENTITY retentionUseAccount.accesskey "M">
 <!ENTITY daysOld.label "dagen">
 <!ENTITY message.label "">
-<!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken kunnen oude berichten permanent worden verwijderd.">
-<!ENTITY retentionCleanupImap.label "Om schijfruimte vrij te maken kunnen oude berichten permanent worden verwijderd, zowel de lokale als de orginele versies op de server.">
-<!ENTITY retentionCleanupPop.label "Om schijfruimte vrij te maken kunnen oude berichten permanent worden verwijderd, inclusief de orginele op de server.">
+<!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd.">
+<!ENTITY retentionCleanupImap.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd, zowel de lokale als de originele versies op de server.">
+<!ENTITY retentionCleanupPop.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd, inclusief de originele op de server.">
 <!ENTITY retentionDeleteMsg.label "Berichten verwijderen die ouder zijn dan">
 <!ENTITY retentionDeleteMsg.accesskey "o">
 <!ENTITY retentionKeepAll.label "Geen berichten verwijderen">
