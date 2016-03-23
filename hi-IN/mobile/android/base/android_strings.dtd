@@ -753,7 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "विस्तृत विन्यास">
 <!ENTITY restrictable_feature_advanced_settings_description "इसमें पुस्तचिह्न, पुनः प्रचलन टैब और स्वचालित अद्यतन का आयात भी शामिल है. परिवार के सदस्यों के लिए उपयुक्त सेटिंग बंद करें.">
 <!ENTITY restrictable_feature_camera_microphone "कैमरा और माइक्रोफ़ोन">
-
+<!ENTITY restrictable_feature_camera_microphone_description "वेबसाइट पर परिवार के सदस्यों को रियल टाइम संचार में सम्मिलित होने की अनुमति देता है.">
 <!ENTITY restrictable_feature_block_list "सूची बाधित करें ">
 <!ENTITY restrictable_feature_block_list_description "वैसे वेबसाइट बाधित करें जिनमें संवेदनशील तत्व सम्मिलित हैं.">
 <!-- Default Bookmarks titles-->
