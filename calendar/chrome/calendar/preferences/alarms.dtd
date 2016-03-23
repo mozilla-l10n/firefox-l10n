@@ -1,35 +1,32 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.alarmgoesoff.label "Þegar áminning fer í gang:">
-<!ENTITY pref.playasound "Spila hljóð">
-<!ENTITY pref.calendar.alarms.playsound.accessKey "h">
-<!ENTITY pref.calendar.alarms.sound.useDefault.label "Nota sjálfgefið hljóð">
-<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "s">
-<!ENTITY pref.calendar.alarms.sound.browse.label "Velja…">
-<!ENTITY pref.calendar.alarms.sound.browse.accessKey "V">
-<!ENTITY pref.calendar.alarms.sound.play.label "Spila">
-<!ENTITY pref.calendar.alarms.sound.play.accessKey "p">
-<!ENTITY pref.showalarmbox "Sýna áminninga glugga">
-<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "g">
-<!ENTITY pref.missedalarms "Sýna liðnar áminningar">
-<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "l">
-<!ENTITY pref.calendar.alarms.defaults.label "Sjálfgildi áminninga">
-<!ENTITY pref.defalarm4events.label "Sjálfgildi áminninga fyrir atburði:">
-<!ENTITY pref.defalarm4events.accesskey "a">
-<!ENTITY pref.defalarm4todos.label "Sjálfgildi áminninga fyrir verkefni:">
-<!ENTITY pref.defalarm4todos.accesskey "v">
-<!ENTITY pref.alarm.on "Virkt">
-<!ENTITY pref.alarm.off "Óvirkt">
-<!ENTITY pref.defalarmlen4events.label "Sjálfgefinn tími fyrir atburð áður en áminning fer í gang:">
-<!ENTITY pref.defalarmlen4events.accesskey "t">
-<!ENTITY pref.defalarmlen4todos.label "Sjálfgefinn tími fyrir verkefni áður en áminning fer í gang:">
-<!ENTITY pref.defalarmlen4todos.accesskey "f">
-<!ENTITY pref.defaultsnoozelength.label "Sjálfgefin lengd blunds:">
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
