@@ -19,8 +19,8 @@
 <!ENTITY openFrameCmd.accesskey       "j">
 <!ENTITY openFrameCmdInTab.label      "Abrir frame num novo separador">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
-<!ENTITY keywordfield.label           "Adicionar palavra-chave a esta pesquisa…">
-<!ENTITY keywordfield.accesskey       "q">
+<!ENTITY keywordfield.label           "Adicionar uma palavra-chave para esta pesquisa…">
+<!ENTITY keywordfield.accesskey       "A">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas esta moldura">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
 <!ENTITY goBackCmd.label              "Recuar">
