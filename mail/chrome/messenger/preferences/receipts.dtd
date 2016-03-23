@@ -2,23 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY dialog.title "Staðfesting á lestri">
+<!ENTITY requestReceipt.label "Þegar póstur er sendur, alltaf krefjast staðfestingar á lestri">
+<!ENTITY requestReceipt.accesskey "Þ">
+<!ENTITY receiptArrive.label "Ef kvittun er móttekin:">
+<!ENTITY leaveIt.label "Skilja hana eftir í innhólfi">
+<!ENTITY leaveIt.accesskey "i">
+<!ENTITY moveToSent.label "Færa yfir í &quot;Sent&quot;-möppuna mína">
+<!ENTITY moveToSent.accesskey "m">
+<!ENTITY requestMDN.label "Þegar ég móttek beiðni um staðfestingu á lestri:">
+<!ENTITY never.label "Aldrei senda staðfestingu á lestri">
+<!ENTITY never.accesskey "n">
+<!ENTITY returnSome.label "Leyfa staðfestinu á lestri fyrir suman póst">
+<!ENTITY returnSome.accesskey "r">
+<!ENTITY notInToCc.label "Ef ég er ekki í 'Til' eða 'Afrit'-reitum póstsins:">
+<!ENTITY notInToCc.accesskey "f">
+<!ENTITY outsideDomain.label "Ef sendandi er fyrir utan mitt lén:">
+<!ENTITY outsideDomain.accesskey "t">
+<!ENTITY otherCases.label "Í öllum öðrum tilfellum:">
+<!ENTITY otherCases.accesskey "ö">
+<!ENTITY askMe.label "Spyrja mig">
+<!ENTITY alwaysSend.label "Senda alltaf">
+<!ENTITY neverSend.label "Aldrei senda">
