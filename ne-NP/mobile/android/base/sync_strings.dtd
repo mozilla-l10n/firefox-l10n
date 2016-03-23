@@ -6,7 +6,7 @@
 <!ENTITY syncBrand.shortName.label "समक्रमण">
 <!-- Main titles. -->
 <!-- J-PAKE Key Screen -->
-
+<!ENTITY sync.subtitle.pair.label "सक्रिय गर्नलाई, \&quot;उपकरणसँग जोडि बनाउनुहोस् \&quot; छान्नुहोस्।">
 
 
 <!-- Configure Engines -->
