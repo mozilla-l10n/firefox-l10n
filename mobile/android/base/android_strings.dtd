@@ -241,6 +241,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "ถูกเปิดใช้งานในการท่องเว็บแบบส่วนตัว">
 <!ENTITY pref_tracking_protection_disabled "ถูกปิดใช้งาน">
 
+<!ENTITY tracking_protection_prompt_title "ขณะนี้มาพร้อมการป้องกันการตามรอย">
 
 <!ENTITY tracking_protection_prompt_tip_text "เยี่ยมชมการตั้งค่าความเป็นส่วนตัวเพื่อเรียนรู้เพิ่มเติม">
 <!ENTITY tracking_protection_prompt_action_button "เข้าใจแล้ว!">
@@ -536,7 +537,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "แท็บที่เคยเปิดล่าสุดจะแสดงอยู่ตรงนี้">
 <!ENTITY home_open_all "เปิดทั้งหมด">
 <!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเพิ่งเข้าล่าสุดจะแสดงอยู่ตรงนี้">
-
+<!ENTITY home_selected_empty "เว็บไซต์ที่คุณได้เยี่ยมชมตามกรอบเวลาที่คุณเลือกจะแสดงที่นี่">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "หมายเหตุ: การใช้&formatS1;แท็บส่วนตัวใหม่&formatS2;จะไม่บันทึกประวัติของคุณ">
@@ -662,6 +663,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "เพื่อดาวน์โหลดไฟล์และการปรับปรุง อนุญาตให้ &brandShortName; เข้าถึงพื้นที่จัดเก็บ">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "อนุญาต">
 <!-- Guest mode -->    
@@ -717,6 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "ลิงก์นี้จะเปิดใน &formatS; คุณแน่ใจหรือไม่ว่าต้องการออกจากการท่องเว็บแบบส่วนตัว?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -770,4 +774,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; เป็นรุ่นล่าสุดแล้ว">
-
+<!ENTITY whatsnew_notification_summary "ค้นพบว่ามีอะไรใหม่ในรุ่นนี้">
