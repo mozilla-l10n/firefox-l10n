@@ -2,21 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Leita að nýjum greinum á hverjum ">
-<!ENTITY biffStart.accesskey "L">
-<!ENTITY biffEnd.label "mínútur">
-<!ENTITY loginAtStartup.label "Leita að nýjum greinum í ræsingu">
- 
-<!ENTITY loginAtStartup.accesskey "e">
-<!ENTITY useQuickMode.label "Sjálfgefið sýna bara yfirlit greinar í staðinn fyrir að hlaða inn vefsíðunni">
- 
-<!ENTITY useQuickMode.accesskey "S">
-<!ENTITY manageSubscriptions.label "Stilla áskriftir…">
- 
-<!ENTITY manageSubscriptions.accesskey "S">
-<!ENTITY feedWindowTitle.label "Leiðarvísir fyrir straum reikning">
+
+
+
+
+
+
+
+
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Blogg og fréttastraumar">
-<!ENTITY feeds.wizardShortName "Straumar">
-<!ENTITY feeds.wizardLongName "Blogg og fréttastraumar">
-<!ENTITY feeds.wizardLongName.accesskey "F">
+
+
+

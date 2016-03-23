@@ -2,29 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title "Stillingar fyrir ónettengdur">
-<!ENTITY checkAutoDetect.label "Fylgja sjálfvirkt eftir netstöðu">
-<!ENTITY checkAutoDetect.accesskey "ð">
-<!ENTITY titleStartUp "Handvirk staða þegar ræst er upp:">
-<!ENTITY radioRememberPrevState.label "Muna síðustu nettengistöðu">
-<!ENTITY radioRememberPrevState.accesskey "M">
-<!ENTITY radioAskState.label "Spyrja mig um stöðu">
-<!ENTITY radioAskState.accesskey "S">
-<!ENTITY radioAlwaysOnlineState.label "Nettengdur">
-<!ENTITY radioAlwaysOnlineState.accesskey "N">
-<!ENTITY radioAlwaysOffline.label "Ónettengdur">
-<!ENTITY radioAlwaysOffline.accesskey "n">
-<!ENTITY textGoingOnline "Senda ósendan póst þegar verið er að tengjast?">
-<!ENTITY radioAutoSend.label "Já">
-<!ENTITY radioAutoSend.accesskey "J">
-<!ENTITY radioNotSend.label "Nei">
-<!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "Spyrja mig">
-<!ENTITY radioAskUnsent.accesskey "S">
-<!ENTITY textGoingOffline "Hlaða niður póstum þegar verið er að aftengjast?">
-<!ENTITY radioAutoDownload.label "Já">
-<!ENTITY radioAutoDownload.accesskey "J">
-<!ENTITY radioNotDownload.label "Nei">
-<!ENTITY radioNotDownload.accesskey "N">
-<!ENTITY radioAskDownload.label "Spyrja mig">
-<!ENTITY radioAskDownload.accesskey "a">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

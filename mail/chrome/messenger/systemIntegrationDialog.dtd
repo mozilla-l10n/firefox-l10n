@@ -2,16 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY systemIntegration.title "Samþætting kerfis">
-<!ENTITY acceptIntegration.label "Setja sem sjálfgefinn">
-<!ENTITY cancelIntegration.label "Sleppa samþættingu">
-<!ENTITY cancelIntegration2.label "Hætta við">
-<!ENTITY defaultClient.intro "Nota &brandShortName; sem sjálfgefið forrit fyrir:">
-<!ENTITY email.label "Tölvupóst">
-<!ENTITY newsgroups.label "Fréttahópa">
-<!ENTITY feeds.label "Strauma">
-<!ENTITY unsetDefault.tooltip "Ekki er hægt taka af &brandShortName; sem sjálfgefin vafra í &brandShortName; sjálfum. Til að breyta þessu verðurðu að fara í hinn vafrann og nota stillingar þar til að gera þann vafra að sjálfgefnum.">
-<!ENTITY checkOnStartup.label "Alltaf athuga þegar &brandShortName; er ræstur">
-<!ENTITY checkOnStartup.accesskey "A">
-<!ENTITY searchIntegration.label "Leyfa &searchIntegration.engineName; að leita í pósti">
-<!ENTITY searchIntegration.accesskey "s">
+
+
+
+
+
+
+
+
+
+
+
