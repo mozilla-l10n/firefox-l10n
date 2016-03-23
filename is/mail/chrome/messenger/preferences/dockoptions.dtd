@@ -2,12 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
+<!ENTITY dockOptionsDialog.title "App icon valkostir">
+<!ENTITY window.macWidth "35em">
+<!ENTITY bounceSystemDockIcon.label "Hreyfa táknmynd forrits þegar nýr póstur kemur">
+<!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY newMessagesCountDock.label "Fjöldi nýrra pósta">
+<!ENTITY newMessagesCountDock.accesskey "n">
+<!ENTITY showAllUnreadMessagesCount.label "Fjöldi ólesinna pósta">
+<!ENTITY showAllUnreadMessagesCount.accesskey "l">
+<!ENTITY dockIconBadge.label "App icon badge">
+<!ENTITY dockIconShow.label "Badge app icon með:">
+<!ENTITY directNotificationSettings.label "Þú getur gert badge óvirkt á tilkynningarflipa í kerfisstillingum.">

@@ -1,21 +1,24 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.categories.add.title "Bæta við flokki">
+<!ENTITY pref.categories.addButton.label "Bæta við…">
+<!ENTITY pref.categories.addButton.accesskey "B">
+<!ENTITY pref.categories.edit.title "Breyta flokki">
+<!ENTITY pref.categories.editButton.label "Breyta…">
+<!ENTITY pref.categories.editButton.accesskey "r">
+<!ENTITY pref.categories.removeButton.label "Fjarlægja">
+<!ENTITY pref.categories.removeButton.accesskey "F">
+<!ENTITY pref.categories.name.label "Nafn">
+<!ENTITY pref.categories.color.label "Litur">
+<!ENTITY pref.categories.usecolor.label "Nota lit">
+<!ENTITY pref.categories.none.label "(enginn)">
+<!ENTITY pref.categories.overwrite "Þegar er til flokkur með þetta nafn. \n Viltu yfirskrifa yfir hann?">
+<!ENTITY pref.categories.overwrite.title "Aðvörun: Nafn þegar til">
+<!ENTITY pref.categories.noBlankCategories "Þú verður að slá inn nafn flokks.">

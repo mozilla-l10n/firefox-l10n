@@ -2,36 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY connectionsDialog.title "Net stillingar">
+<!ENTITY proxyTitle.label "Stilla milliþjóna (Proxy) til að tengjast netinu">
+<!ENTITY noProxyTypeRadio.label "Enginn milliþjónn">
+<!ENTITY noProxyTypeRadio.accesskey "E">
+<!ENTITY systemTypeRadio.label "Nota milliþjóna stillingar">
+<!ENTITY systemTypeRadio.accesskey "N">
+<!ENTITY WPADTypeRadio.label "Sjálfvirk uppgötvun á milliþjónum á þessu neti">
+<!ENTITY WPADTypeRadio.accesskey "S">
+<!ENTITY manualTypeRadio.label "Handvirk stilling á milliþjónum:">
+<!ENTITY manualTypeRadio.accesskey "m">
+<!ENTITY autoTypeRadio.label "Sjálfvirkt URL fyrir stillingar á milliþjónum:">
+<!ENTITY autoTypeRadio.accesskey "a">
+<!ENTITY reload.label "Endurnýja">
+<!ENTITY reload.accesskey "d">
+<!ENTITY http.label "HTTP milliþjónn:">
+<!ENTITY http.accesskey "H">
+<!ENTITY ssl.label "SSL milliþjónn:">
+<!ENTITY ssl.accesskey "S">
+<!ENTITY socks.label "SOCKS hýsitölva:">
+<!ENTITY socks.accesskey "C">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "K">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY HTTPport.label "Gátt:">
+<!ENTITY HTTPport.accesskey "G">
+<!ENTITY SSLport.label "Gátt:">
+<!ENTITY SSLport.accesskey "t">
+<!ENTITY SOCKSport.label "Gátt:">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "Engir milliþjónar fyrir:">
+<!ENTITY noproxy.accesskey "n">
+<!ENTITY noproxyExplain.label "T.d.: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Nota þennan milliþjón fyrir allar samskiptareglur">
+<!ENTITY shareproxy.accesskey "o">

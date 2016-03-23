@@ -2,35 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY Addrbook.label "Nafnaskrá">
+<!ENTITY Addrbook.accesskey "N">
+<!ENTITY GeneratedName.label "Nafn">
+<!ENTITY GeneratedName.accesskey "N">
+<!ENTITY PrimaryEmail.label "Tölvupóstur">
+<!ENTITY PrimaryEmail.accesskey "T">
+<!ENTITY Company.label "Fyrirtæki/Stofnun">
+<!ENTITY Company.accesskey "F">
+<!ENTITY _PhoneticName.label "Hljóðrétt nafn">
+<!ENTITY _PhoneticName.accesskey "H">
+<!ENTITY NickName.label "Gælunafn">
+<!ENTITY NickName.accesskey "æ">
+<!ENTITY SecondEmail.label "Auka tölvupóstfang">
+<!ENTITY SecondEmail.accesskey "u">
+<!ENTITY Department.label "Deild">
+<!ENTITY Department.accesskey "D">
+<!ENTITY JobTitle.label "Titill">
+<!ENTITY JobTitle.accesskey "T">
+<!ENTITY CellularNumber.label "Farsími">
+<!ENTITY CellularNumber.accesskey "m">
+<!ENTITY PagerNumber.label "Símboði">
+<!ENTITY PagerNumber.accesskey "ð">
+<!ENTITY FaxNumber.label "Fax">
+<!ENTITY FaxNumber.accesskey "F">
+<!ENTITY HomePhone.label "Heimasími">
+<!ENTITY HomePhone.accesskey "H">
+<!ENTITY WorkPhone.label "Vinnusími">
+<!ENTITY WorkPhone.accesskey "V">
+<!ENTITY ChatName.label "Nafn spjalls">
+<!ENTITY ChatName.accesskey "s">
+<!ENTITY sortAscending.label "Hækkandi">
+<!ENTITY sortAscending.accesskey "H">
+<!ENTITY sortDescending.label "Lækkandi">
+<!ENTITY sortDescending.accesskey "L">

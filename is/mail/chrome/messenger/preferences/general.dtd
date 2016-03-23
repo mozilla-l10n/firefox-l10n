@@ -2,31 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY messengerStartPage.label "&brandShortName; ræsisíða">
+<!ENTITY enableStartPage.label "Þegar &brandShortName; ræsir, sýna ræsisíðu í póstsvæði">
+<!ENTITY enableStartPage.accesskey "Þ">
+<!ENTITY location.label "Staðsetning:">
+<!ENTITY location1.accesskey "S">
+<!ENTITY useDefault.label "Endurheimta sjálfgildi">
+<!ENTITY useDefault.accesskey "E">
+<!ENTITY changeDockIconOptions.label "Breyta stillingum fyrir app icon">
+<!ENTITY dockOptions.label "App Icon valkostir…">
+<!ENTITY dockOptions.accesskey "n">
+<!ENTITY newMessagesArrive.label "Þegar nýr póstur er móttekin:">
+<!ENTITY playSound.label "Spila hljóð">
+<!ENTITY playSound1.accesskey "h">
+<!ENTITY showAnimatedAlert.label "Sýna glugga">
+<!ENTITY showAnimatedAlert.accesskey "g">
+<!ENTITY customizeMailAlert.label "Sérsníða…">
+<!ENTITY customizeMailAlert.accesskey "S">
+<!ENTITY showTrayIcon.label "Sýna sem táknmynd í bakka">
+<!ENTITY showTrayIcon.accesskey "t">
+<!ENTITY play.label "Spila">
+<!ENTITY play.accesskey "S">
+<!ENTITY systemsound.label "Sjálfgefið hljóð fyrir nýjan póst">
+<!ENTITY systemsoundMac.label "Kerfisviðvörunarhljóð">
+<!ENTITY systemsoundMac.accesskey "K">
+<!ENTITY systemsound.accesskey "y">
+<!ENTITY customsound.label "Nota hljóðskrá">
+<!ENTITY customsound.accesskey "N">
+<!ENTITY browse.label "Velja…">
+<!ENTITY browse.accesskey "V">
+<!ENTITY defaultSearchEngine.label "Sjálfgefin leitarvél">
