@@ -240,7 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Ferramentas">
 <!ENTITY toolsMenu.accesskey          "t"> 
 
-<!ENTITY keywordfield.label           "Adicionar palavra-chave para esta pesquisa…">
+<!ENTITY keywordfield.label           "Adicionar uma palavra-chave para esta pesquisa…">
 <!ENTITY keywordfield.accesskey       "A">
 
 <!ENTITY downloads.label              "Descargas">
