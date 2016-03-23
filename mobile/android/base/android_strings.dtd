@@ -150,7 +150,7 @@
 <!ENTITY pref_category_search3 "ค้นหา">
 <!ENTITY pref_category_search_summary "ปรับแต่งผู้ให้บริการค้นหาของคุณ">
 <!ENTITY pref_category_accessibility "การช่วยเข้าถึง">
-<!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร การย่อ-ขยาย การป้อนค่าด้วยเสียง">
+<!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร ย่อ-ขยาย การป้อนค่าด้วยเสียง">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
 <!ENTITY pref_category_privacy_summary3 "การตามรอย คุกกี้ ตัวเลือกข้อมูล">
 

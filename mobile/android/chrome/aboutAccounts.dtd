@@ -9,4 +9,4 @@
 <!ENTITY aboutAccounts.noConnection.title "ไม่มีการเชื่อมต่ออินเทอร์เน็ต">
 <!ENTITY aboutAccounts.retry.label "ลองอีกครั้ง">
 
-
+<!ENTITY aboutAccounts.restrictedError.description "คุณไม่สามารถรวมบัญชี Firefox จากข้อมูลส่วนตัวนี้">
