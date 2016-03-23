@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY  no_space_to_start_error "&brandShortName; सुरु गर्नको लागि पर्याप्त ठाउँ उपलब्ध छैन।">
+<!ENTITY  error_loading_file "&brandShortName; चलाउ आवश्यक पर्ने फाइलहरू लोड गर्ने प्रयास गर्दा एउटा त्रुटी देखापर्यो">
+
+<!ENTITY firstrun_panel_title_welcome "स्वागत">
 
 
 
