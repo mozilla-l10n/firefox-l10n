@@ -48,6 +48,7 @@
 <!ENTITY netmonitorUI.footer.filterImages "Obrazy">
 <!ENTITY netmonitorUI.footer.filterMedia  "Media">
 <!ENTITY netmonitorUI.footer.filterFlash  "Flash">
+<!ENTITY netmonitorUI.footer.filterWS "WebSocket">
 <!ENTITY netmonitorUI.footer.filterOther "Inne">
 <!ENTITY netmonitorUI.footer.filterFreetext.label "Filtrowanie adresów">
 <!ENTITY netmonitorUI.footer.filterFreetext.key "F">
