@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "รับผลลัพธ์จากที่คั่นหน้าและประวัติของคุณเมื่อคุณค้นหา">
 <!ENTITY firstrun_data_title "ข้อมูล">
 <!ENTITY firstrun_data_message "ใช้ข้อมูลน้อยลง ประหยัดมากขึ้น">
-
+<!ENTITY firstrun_data_subtext2 "ปิดภาพเพื่อลดการใช้ข้อมูลในทุกไซต์ที่คุณเยี่ยมชม">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName; อยู่เคียงข้างคุณเสมอ">
 <!ENTITY firstrun_sync_subtext "ผสานแท็บ รหัสผ่าน และอื่น ๆ ของคุณในทุกที่ที่คุณใช้งาน">
@@ -26,6 +26,7 @@
 <!ENTITY  onboard_start_button_browser "เริ่มการท่องเว็บ">
 <!ENTITY firstrun_button_next "ถัดไป">
 
+<!ENTITY  onboard_start_restricted1 "ปลอดภัยและอยู่ในการควบคุมด้วยรุ่นย่อของ &brandShortName;">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
