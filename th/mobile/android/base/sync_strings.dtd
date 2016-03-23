@@ -208,4 +208,4 @@
      notification and should be kept as short as possible. -->
 
 <!ENTITY old_sync_deprecated_notification_title "เข้าสู่ระบบเพื่อดำเนินการผสานต่อ">
-
+<!ENTITY old_sync_deprecated_notification_content "บัญชีของคุณไม่ได้รับการสนับสนุนอีกต่อไป">
