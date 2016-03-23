@@ -47,15 +47,6 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Poursuivre la navigation'>
 
-<!ENTITY fxaccount_status_more 'Plus&ellipsis;'>
-<!ENTITY fxaccount_remove_account 'Déconnecter…'>
-
-<!ENTITY fxaccount_remove_account_dialog_title 'Supprimer le compte Firefox ?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ne se synchronisera plus avec votre compte, mais ne supprimera aucune donnée de navigation sur cet appareil.'>
-<!-- Localization note: format string below will be replaced
-     with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'Compte Firefox &formatS; supprimé.'>
-
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Bienvenue dans &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Connectez-vous pour synchroniser vos onglets, marque-pages, identifiants et bien plus.'>
 <!ENTITY fxaccount_getting_started_get_started 'Démarrer'>
@@ -93,8 +84,16 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Conditions d’utilisation'>
-<!ENTITY fxaccount_status_linkprivacy 'Politique de confidentialité'>
+<!ENTITY fxaccount_status_linktos2 'Conditions d’utilisation'>
+<!ENTITY fxaccount_status_linkprivacy2 'Politique de confidentialité'>
+<!ENTITY fxaccount_status_more 'Plus&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Déconnecter…'>
+
+<!ENTITY fxaccount_remove_account_dialog_title 'Supprimer le compte Firefox ?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ne se synchronisera plus avec votre compte, mais ne supprimera aucune donnée de navigation sur cet appareil.'>
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast 'Compte Firefox &formatS; supprimé.'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Activer le mode débogage'>
 
