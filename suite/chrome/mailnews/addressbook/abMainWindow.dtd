@@ -1,0 +1,99 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Title -->
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+<!-- File Menu -->
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey                           "C">
+
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newListCmd.accesskey                           "L">  
+
+
+
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+
+
+
+
+
+
+
+
+
+
+<!-- Edit Menu -->
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY propertiesCmd.accesskey                        "i">  
+
+<!-- View Menu -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Tasks Menu -->
+
+
+
+<!-- Toolbar and Popup items -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Tooltips -->
+
+
+
+
+
+
+
+
+<!-- Dir Tree header -->
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+
+
+
+
+<!-- Special Box Headings, for mailing lists -->
+
+<!-- For Map It! -->
+
+<!-- Status Bar -->  
+
+<!ENTITY statusText.label                               "">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+
+<!ENTITY  hideSwapFnLnUI                                "true">
