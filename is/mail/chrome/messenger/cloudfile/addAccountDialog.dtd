@@ -1,13 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY addAccountDialog.title "Setja upp þjónustu fyrir skráartengil">
-<!ENTITY addAccountDialog.menuTitle "Veldu nettengda geymsluþjónustu">
-<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
-<!ENTITY addAccountDialog.accountName.label "Heiti reiknings:">
-<!ENTITY addAccountDialog.noAccountText "Því miður, en núverandi útgáfa af &brandShortName; leyfir aðeins einn reikning.">
-<!ENTITY addAccountDialog.createAccountText2 "Þú getur sent stór viðhengi með því að nota eina af mörgum geymslusþjónustum á netinu. Settu annaðhvort upp reikning sem er þegar til, eða nýskráðu þig fyrir nýjum reikning.">
-<!ENTITY addAccountDialog.authorizing "Athuga aðgang...">
-<!ENTITY addAccountDialog.error "Upp kom villa þegar verið var að setja upp reikning!">
-<!ENTITY addAccountDialog.acceptButton.label "Setja upp reikning">
-<!ENTITY addAccountDialog.learnMore "Fræðast meira…">
+
+
+
+
+
+
+
+
+

@@ -2,36 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startupAction.label "Þegar &brandShortName; ræsir:">
-<!ENTITY startupAction.accesskey "s">
-<!ENTITY startupOffline.label "Aftengja spjallreikninga">
-<!ENTITY startupConnectAuto.label "Tengja spjallreikninga sjálfvirkt">
+
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY reportIdleAfter.label "Tilkynna tengiliðum ef ég er aðgerðalaus í">
-<!ENTITY reportIdleAfter.accesskey "i">
-<!ENTITY idleTime "mínútur óvirkur">
-<!ENTITY andSetStatusToAway.label "og setja stöðu sem fjarverandi með skilaboðum:">
-<!ENTITY andSetStatusToAway.accesskey "a">
-<!ENTITY sendTyping.label "Senda tilkynningu um innslátt í spjalli">
-<!ENTITY sendTyping.accesskey "t">
-<!ENTITY chatNotifications.label "Þegar póstur sem er sendur beint á þig kemur:">
-<!ENTITY desktopChatNotifications.label "Sýna tilkynningu:">
-<!ENTITY desktopChatNotifications.accesskey "t">
-<!ENTITY completeNotification.label "aðeins með nafni sendanda og forskoðun á skilaboðum">
-<!ENTITY buddyInfoOnly.label "aðeins með nafni sendanda">
-<!ENTITY dummyNotification.label "án upplýsinga">
-<!ENTITY chatSound.accesskey "ð">
-<!ENTITY chatSound.label "Spila hljóð">
-<!ENTITY play.label "Spila">
-<!ENTITY play.accesskey "p">
-<!ENTITY systemSound.label "Sjálfgefið hljóð fyrir nýjan póst">
-<!ENTITY systemSound.accesskey "ð">
-<!ENTITY customsound.label "Nota hljóðskrá">
-<!ENTITY customsound.accesskey "N">
-<!ENTITY browse.label "Velja…">
-<!ENTITY browse.accesskey "V">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

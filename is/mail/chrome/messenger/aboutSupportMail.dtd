@@ -2,17 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.appBasicsAppBuildID "Smíðanúmer forrits">
-<!ENTITY aboutSupport.accountsTitle "Póst og fréttareikningar">
-<!ENTITY aboutSupport.showPrivateData.mainText "Bæta við nafn reikninga">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(hugsanlega auðkennanlegar upplýsingar)">
-<!ENTITY aboutSupport.accountsID "Auðkenni">
-<!ENTITY aboutSupport.accountsName "Nafn">
-<!ENTITY aboutSupport.accountsIncomingServer "Netþjónn inn">
-<!ENTITY aboutSupport.accountsOutgoingServers "Netþjónar út">
-<!ENTITY aboutSupport.accountsServerName "Nafn">
-<!ENTITY aboutSupport.accountsConnSecurity "Öryggi tengingar">
-<!ENTITY aboutSupport.accountsAuthMethod "Auðkennisaðferð">
-<!ENTITY aboutSupport.accountsDefault "Sjálfgildi?">
-<!ENTITY aboutSupport.identityName "Auðkenni">
-<!ENTITY aboutSupport.sendViaEmail.label "Senda með tölvupósti">
+
+
+
+
+
+
+
+
+
+
+
+
