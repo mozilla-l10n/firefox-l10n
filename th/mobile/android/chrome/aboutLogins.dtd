@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "การเข้าสู่ระบบ">
 <!ENTITY aboutLogins.update                      "ปรับปรุง">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "รักษาการเข้าสู่ระบบของคุณให้ปลอดภัย">
+<!ENTITY aboutLogins.emptyLoginHint              "การเข้าสู่ระบบและหนังสือรับรองที่คุณบันทึกโดยใช้ &brandShortName; จะแสดงที่นี่">
