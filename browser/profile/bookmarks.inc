@@ -28,7 +28,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/central/
 
 
-#define getting_started เริ่มใช้งาน
+#define getting_started เริ่มต้นใช้งาน
 
 
 # LOCALIZATION NOTE (firefox_heading):
