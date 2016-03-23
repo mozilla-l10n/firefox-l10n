@@ -533,7 +533,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Отвори оквир у новом прозору">
 <!ENTITY openFrameCmd.accesskey       "п">
 <!ENTITY openLinkCmdInContainerTab.label "Отвори у новом језичку">
-<!ENTITY openLinkCmdInContainerTab.accesskey "C">
+<!ENTITY openLinkCmdInContainerTab.accesskey "т">
 <!ENTITY showOnlyThisFrameCmd.label     "Прикажи само овај оквир">
 <!ENTITY showOnlyThisFrameCmd.accesskey "о">
 <!ENTITY reloadCmd.commandkey         "r">
