@@ -21,7 +21,7 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName; อยู่เคียงข้างคุณเสมอ">
 <!ENTITY firstrun_sync_subtext "ผสานแท็บ รหัสผ่าน และอื่น ๆ ของคุณในทุกที่ที่คุณใช้งาน">
-
+<!ENTITY firstrun_signin_message "รับการเชื่อมต่อ เริ่มต้นใช้งาน">
 <!ENTITY firstrun_signin_button "เข้าสู่ระบบ Sync">
 <!ENTITY  onboard_start_button_browser "เริ่มการท่องเว็บ">
 <!ENTITY firstrun_button_next "ถัดไป">
@@ -241,14 +241,14 @@
 <!ENTITY pref_tracking_protection_disabled "ถูกปิดใช้งาน">
 
 
-
+<!ENTITY tracking_protection_prompt_tip_text "เยี่ยมชมการตั้งค่าความเป็นส่วนตัวเพื่อเรียนรู้เพิ่มเติม">
 <!ENTITY tracking_protection_prompt_action_button "เข้าใจแล้ว!">
 
 <!ENTITY tab_queue_toast_message3 "แท็บถูกบันทึกใน &brandShortName;">
 <!ENTITY tab_queue_toast_action "เปิดตอนนี้">
 <!ENTITY tab_queue_prompt_title "เปิดหลายลิงก์?">
 
-
+<!ENTITY tab_queue_prompt_tip_text2 "คุณสามารถเปลี่ยนสิ่งนี้ได้ในภายหลังในการตั้งค่า">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "เปิดใช้งาน">
@@ -309,7 +309,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled_summary "บังคับใช้เพื่อให้สามารถย่อขยายดูได้ทุกหน้า">
 <!ENTITY pref_voice_input "การป้อนค่าด้วยเสียง">
 
-
+<!ENTITY pref_qrcode_enabled "ตัวอ่านรหัส QR">
 <!ENTITY pref_qrcode_enabled_summary2 "อนุญาตตัวสแกน QR ในแถบ URL">
 
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
@@ -462,10 +462,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "การท่องเว็บแบบเต็มจอ">
-
+<!ENTITY pref_scroll_title_bar_summary2 "ซ่อนแถบเครื่องมือ &brandShortName; เมื่อเลื่อนหน้าลงมา">
 
 <!ENTITY pref_tab_queue_title3 "คิวแท็บ">
-
+<!ENTITY pref_tab_queue_summary4 "บันทึกลิงก์จนกว่าครั้งถัดไปที่คุณเปิด &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -596,17 +596,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "การเชื่อมต่อแบบปลอดภัย">
 <!ENTITY identity_connection_insecure "การเชื่อมต่อแบบไม่ปลอดภัย">
 
-
+<!ENTITY identity_connection_chromeui "นี่คือหน้า &brandShortName; ที่ปลอดภัย">
 <!-- Mixed content notifications in site identity popup -->
 
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ได้ปิดกั้นเนื้อหาที่ไม่ปลอดภัยในหน้านี้">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ได้ปิดกั้นเนื้อหาบางส่วนที่ไม่ปลอดภัยในหน้านี้">
 
-
+<!ENTITY mixed_content_protection_disabled1 "คุณได้ปิดใช้งานการป้องกันจากเนื้อหาที่ไม่ปลอดภัย">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "การป้องกันการตามรอย">
 <!ENTITY doorhanger_tracking_state_enabled "ถูกเปิดใช้งาน">
 <!ENTITY doorhanger_tracking_state_disabled "ถูกปิดใช้งาน">
-
+<!ENTITY doorhanger_tracking_message_enabled1 "ความพยายามตามรอยพฤติกรรมออนไลน์ของคุณถูกปิดกั้น">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
@@ -726,6 +728,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "กำลังสแกนรหัส QR ที่แสดงบนอุปกรณ์อื่น ๆ ของคุณ">
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
@@ -740,8 +744,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY restrictable_feature_camera_microphone "กล้องและไมโครโฟน">
 
-
-
+<!ENTITY restrictable_feature_block_list "รายการการปิดกั้น">
+<!ENTITY restrictable_feature_block_list_description "ปิดกั้นเว็บไซต์ที่มีเนื้อหาล่อแหลม">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -752,11 +756,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_support "Firefox: การสนับสนุน">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "เรียนรู้เว็บ: Mozilla Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_title2 "&brandShortName; จะไม่ได้รับการปรับปรุงอีก">
 <!ENTITY eol_notification_summary "แตะเพื่อเรียนรู้เพิ่มเติม">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+<!ENTITY whatsnew_notification_title "&brandShortName; เป็นรุ่นล่าสุดแล้ว">
 
