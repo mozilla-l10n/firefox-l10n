@@ -205,7 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Gerir a partilha do seu microfone com o site">
 <!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Está a partilhar o seu microfone com este site">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Gerir a partilha das suas janelas ou ecrã com o site">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Está a partilhar uma janela ou o ecrã com este site">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Está a partilhar uma janela ou o seu ecrã com este site">
 
 <!ENTITY urlbar.pointerLockNotificationAnchor.label     "Alterar se o site pode ocultar o ponteiro do rato">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "Ver a mensagem de instalação de serviços">
