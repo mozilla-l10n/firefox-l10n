@@ -3,15 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Entities for AccountWizard -->
 
+
+<!ENTITY windowTitle.label "Hisob ustasi">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
 <!-- Entities for Account Type page -->
 
 
-
-
-
-
-
+<!ENTITY accountSetupInfo2.label "Xabarlar qabul qilish uchun avvalo hisobingizni sozlashingiz kerak.">
+<!ENTITY accountTypeTitle.label "Yangi hisobni sozlash">
+<!ENTITY accountTypeDesc2.label "Usta hisobni sozlash uchun kerakli bo‘lgan ma’lumotlarni to‘playdi. Agar siz kerakli ma’lumotlarni bilmasangiz, tizim administratori yoki internet xizmati provayderi bilan bog‘laning.">
+<!ENTITY accountTypeDirections.label "O‘zingiz xohlagandek hisob turini tanlang:">
+<!ENTITY accountTypeMail.label "E-pochta hisobi">
+<!ENTITY accountTypeMail.accesskey "E">
+<!ENTITY accountTypeNews.label "Yangiliklar hisobi">
+<!ENTITY accountTypeNews.accesskey "Y">
 <!-- Entities for Identity page -->
+
+
+<!ENTITY identityTitle.label "Tasdiqdan o‘tkazish">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
