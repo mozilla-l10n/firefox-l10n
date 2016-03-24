@@ -91,7 +91,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; แท็บ">
 <!ENTITY new_tab_opened "เปิดแท็บใหม่แล้ว">
-<!ENTITY new_private_tab_opened "เปิดแท็บแบบส่วนตัวใหม่แล้ว">
+<!ENTITY new_private_tab_opened "เปิดแท็บส่วนตัวใหม่แล้ว">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -182,7 +182,7 @@
 <!ENTITY pref_category_home_summary "ปรับแต่งหน้าแรกของคุณ">
 <!ENTITY pref_category_home_panels "แผง">
 <!ENTITY home_add_panel_title "เพิ่งแผงใหม่">
-<!ENTITY home_add_panel_empty "ขออภัย เราไม่พบแผงใด ๆ สำหรับคุณที่จะเพิ่ม">
+<!ENTITY home_add_panel_empty "ขออภัย เราไม่พบแผงใด ๆ สำหรับให้คุณเพิ่ม">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -461,7 +461,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "ขยายพื้นที่ขนาดเล็ก">
-
+<!ENTITY pref_magnifying_glass_enabled_summary "ขยายขนาดลิงก์และช่องกรอกฟอร์มเมื่อแตะใกล้ ๆ">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -474,11 +474,11 @@ size. -->
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
-<!ENTITY page_removed "หน้าเว็บถูกลบ">
+<!ENTITY page_removed "เอาหน้าออกแล้ว">
 
 <!ENTITY bookmark_edit_title "แก้ไขที่คั่นหน้า">
 <!ENTITY bookmark_edit_name "ชื่อ">
-<!ENTITY bookmark_edit_location "ตำแหน่ง">
+<!ENTITY bookmark_edit_location "ตำแหน่งที่ตั้ง">
 <!ENTITY bookmark_edit_keyword "คำสำคัญ">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -494,7 +494,7 @@ size. -->
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_remove "เอาออกจากรายการอ่าน">
-<!ENTITY reading_list_duplicate "หน้าเว็บนี้มีอยู่ในรายการอ่านแล้ว">
+<!ENTITY reading_list_duplicate "หน้านี้มีอยู่ในรายการอ่านอยู่แล้ว">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
@@ -532,16 +532,16 @@ size. -->
 <!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติของคุณ?">
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่คุณบันทึกไว้จะแสดงที่นี่">
-<!ENTITY home_closed_tabs_title "แท็บที่เพิ่งปิด">
+<!ENTITY home_closed_tabs_title "แท็บที่เพิ่งปิดเมื่อเร็ว ๆ นี้">
 <!ENTITY home_last_tabs_title "แท็บจากคราวที่แล้ว">
-<!ENTITY home_last_tabs_empty "แท็บที่เคยเปิดล่าสุดจะแสดงอยู่ตรงนี้">
+<!ENTITY home_last_tabs_empty "แท็บเมื่อเร็ว ๆ นี้ของคุณจะแสดงที่นี่">
 <!ENTITY home_open_all "เปิดทั้งหมด">
-<!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเพิ่งเข้าล่าสุดจะแสดงอยู่ตรงนี้">
+<!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเพิ่งเยี่ยมชมล่าสุดจะแสดงที่นี่">
 <!ENTITY home_selected_empty "เว็บไซต์ที่คุณได้เยี่ยมชมตามกรอบเวลาที่คุณเลือกจะแสดงที่นี่">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "หมายเหตุ: การใช้&formatS1;แท็บส่วนตัวใหม่&formatS2;จะไม่บันทึกประวัติของคุณ">
-<!ENTITY home_reading_list_empty "บทความที่คุณบันทึกไว้อ่านทีหลังจะแสดงอยู่ตรงนี้">
+<!ENTITY home_reading_list_empty "บทความที่คุณบันทึกไว้อ่านในภายหลังจะแสดงที่นี่">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -552,20 +552,20 @@ size. -->
 <!ENTITY home_move_back_to_filter "ย้อนกลับไปยัง &formatS;">
 
 <!ENTITY home_remote_tabs_title "แท็บที่ผสาน">
-<!ENTITY home_remote_tabs_empty "แท็บจากอุปกรณ์อื่น ๆ ของคุณจะแสดงที่นี่">
-<!ENTITY home_remote_tabs_unable_to_connect "ไม่สามารถเชื่อมต่อได้">
-<!ENTITY home_remote_tabs_need_to_sign_in "กรุณาลงชื่อเข้าใช้เพื่อเชื่อมต่อบัญชี Firefox อีกครั้งและทำการซิงค์ต่อไป">
+<!ENTITY home_remote_tabs_empty "แท็บของคุณจากอุปกรณ์อื่น ๆ จะแสดงที่นี่">
+<!ENTITY home_remote_tabs_unable_to_connect "ไม่สามารถเชื่อมต่อ">
+<!ENTITY home_remote_tabs_need_to_sign_in "โปรดเข้าสู่ระบบเพื่อเชื่อมต่อบัญชี Firefox ของคุณใหม่และดำเนินการผสานต่อ">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "บัญชี Firefox ใหม่ของคุณพร้อมใช้งานแล้ว!">
 
-<!ENTITY home_remote_tabs_trouble_verifying "มีปัญหาเกี่ยวกับการยืนยันบัญชีของคุณ?">
-<!ENTITY home_remote_tabs_need_to_verify "โปรดยืนยันบัญชี Firefox ก่อนเริ่มต้นการซิงค์">
+<!ENTITY home_remote_tabs_trouble_verifying "มีปัญหาในการยืนยันบัญชีของคุณ?">
+<!ENTITY home_remote_tabs_need_to_verify "โปรดยืนยันบัญชี Firefox ของคุณเพื่อเริ่มการผสาน">
 
-<!ENTITY home_remote_tabs_one_hidden_device "ซ่อน 1 อุปกรณ์">
+<!ENTITY home_remote_tabs_one_hidden_device "1 อุปกรณ์ถูกซ่อน">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY home_remote_tabs_many_hidden_devices "ซ่อน &formatD; อุปกรณ์">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; อุปกรณ์ถูกซ่อน">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "อุปกรณ์ที่ถูกซ่อน">
@@ -574,10 +574,10 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "เลิกซ่อนอุปกรณ์ที่เลือก">
 
 <!ENTITY remote_tabs_panel_moved_title "แท็บของฉันไปอยู่ที่ไหน?">
-<!ENTITY remote_tabs_panel_moved_desc "เราได้ย้ายแท็บของคุณจากอุปกรณ์อื่นไปไว้ที่แผงบนหน้าแรกของคุณ ซึ่งสามารถเข้าถึงได้อย่างง่ายดายในทุกครั้งที่คุณเปิดแท็บใหม่">
+<!ENTITY remote_tabs_panel_moved_desc "เราได้ย้ายแท็บของคุณจากอุปกรณ์อื่น ๆ ไปไว้ที่แผงบนหน้าแรกของคุณ ซึ่งสามารถเข้าถึงได้อย่างง่ายดายในทุกครั้งที่คุณเปิดแท็บใหม่">
 <!ENTITY remote_tabs_panel_moved_link "นำฉันไปที่แผงใหม่ของฉัน">
 
-<!ENTITY pin_site_dialog_hint "ระบุคำค้น">
+<!ENTITY pin_site_dialog_hint "ป้อนคำค้นหา">
 
 <!ENTITY filepicker_title "เลือกไฟล์">
 <!ENTITY filepicker_audio_title "เลือกหรืออัดเสียง">
@@ -585,7 +585,7 @@ size. -->
 <!ENTITY filepicker_video_title "เลือกหรือถ่ายวิดีโอ">
 <!-- Site identity popup -->
 
-<!ENTITY identity_connected_to "กำลังเชื่อมต่อไปยัง">
+<!ENTITY identity_connected_to "คุณได้เชื่อมต่อกับ">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -599,21 +599,21 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "การเชื่อมต่อแบบปลอดภัย">
 <!ENTITY identity_connection_insecure "การเชื่อมต่อแบบไม่ปลอดภัย">
-
+<!ENTITY identity_login_insecure "หน้านี้ไม่ปลอดภัยและการเข้าสู่ระบบของคุณอาจมีช่องโหว่">
 <!ENTITY identity_connection_chromeui "นี่คือหน้า &brandShortName; ที่ปลอดภัย">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ได้ปิดกั้นเนื้อหาที่ไม่ปลอดภัยในหน้านี้">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ได้ปิดกั้นเนื้อหาบางส่วนที่ไม่ปลอดภัยในหน้านี้">
-
+<!ENTITY mixed_content_display_loaded1 "บางส่วนของหน้านี้ไม่ปลอดภัย (อย่างเช่นภาพ)">
 <!ENTITY mixed_content_protection_disabled1 "คุณได้ปิดใช้งานการป้องกันจากเนื้อหาที่ไม่ปลอดภัย">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "การป้องกันการตามรอย">
 <!ENTITY doorhanger_tracking_state_enabled "ถูกเปิดใช้งาน">
 <!ENTITY doorhanger_tracking_state_disabled "ถูกปิดใช้งาน">
-<!ENTITY doorhanger_tracking_message_enabled1 "ความพยายามตามรอยพฤติกรรมออนไลน์ของคุณถูกปิดกั้น">
-
+<!ENTITY doorhanger_tracking_message_enabled1 "ความพยายามในการตามรอยพฤติกรรมออนไลน์ของคุณถูกปิดกั้น">
+<!ENTITY doorhanger_tracking_message_disabled2 "หน้านี้มีองค์ประกอบที่อาจตามรอยการท่องเว็บของคุณ">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "เรียนรู้เพิ่มเติม">
@@ -621,19 +621,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY disable_protection "ปิดใช้งานการป้องกัน">
 <!ENTITY keep_blocking "ปิดกั้นต่อไป">
 
-<!ENTITY private_data_success "ข้อมูลส่วนตัวถูกล้างแล้ว">
+<!ENTITY private_data_success "ล้างข้อมูลส่วนตัวแล้ว">
 <!ENTITY private_data_fail "ไม่สามารถล้างข้อมูลส่วนตัวบางอย่างได้">
 
 <!ENTITY bookmarkhistory_button_import "นำเข้า">
-<!ENTITY bookmarkhistory_import_both "นำเข้าที่คั่นหน้าและประวัติการท่องเว็บ 
+<!ENTITY bookmarkhistory_import_both "กำลังนำเข้าที่คั่นหน้าและประวัติ 
 จาก Android">
-<!ENTITY bookmarkhistory_import_bookmarks "นำเข้าที่คั่นหน้า 
+<!ENTITY bookmarkhistory_import_bookmarks "กำลังนำเข้าที่คั่นหน้า 
 จาก Android">
-<!ENTITY bookmarkhistory_import_history "นำเข้าประวัติการท่องเว็บ 
+<!ENTITY bookmarkhistory_import_history "กำลังนำเข้าประวัติ 
 จาก Android">
 <!ENTITY bookmarkhistory_import_wait "โปรดรอ…">
 
-<!ENTITY suggestions_prompt3 "คุณต้องการเปิดใช้งานการแนะนำคำค้นหาหรือไม่?">
+<!ENTITY suggestions_prompt3 "คุณต้องการเปิดคำแนะนำการค้นหาหรือไม่?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -647,10 +647,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "ค้นหา &formatS2; ด้วย &formatS1;">
 
-<!ENTITY searchable_description "ที่คั่นหน้าและประวัติการท่องเว็บ">
+<!ENTITY searchable_description "ที่คั่นหน้าและประวัติ">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "มีการปรับปรุงสำหรับ &brandShortName;">
+<!ENTITY updater_start_title2 "มีการปรับปรุงที่ใช้งานได้สำหรับ &brandShortName;">
 <!ENTITY updater_start_select2 "แตะเพื่อดาวน์โหลด">
 
 <!ENTITY updater_downloading_title2 "กำลังดาวน์โหลด &brandShortName;">
@@ -669,16 +669,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_permission_allow "อนุญาต">
 <!-- Guest mode -->    
 
-<!ENTITY new_guest_session "วาระใหม่สำหรับผู้มาเยือน">
-<!ENTITY exit_guest_session "จบวาระของผู้มาเยือน">
+<!ENTITY new_guest_session "วาระผู้มาเยือนใหม่">
+<!ENTITY exit_guest_session "ออกจากวาระผู้มาเยือน">
 <!ENTITY guest_session_dialog_continue "ดำเนินการต่อ">
 <!ENTITY guest_session_dialog_cancel "ยกเลิก">
-<!ENTITY new_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
-
-<!ENTITY guest_browsing_notification_title "เปิดการเข้าเว็บโหมดแขก">
+<!ENTITY new_guest_session_title "&brandShortName; จะเริ่มการทำงานใหม่">
+<!ENTITY new_guest_session_text2 "บุคคลที่ใช้งานจะไม่สามารถเห็นข้อมูลการท่องเว็บส่วนบุคคลใด ๆ ของคุณ (อย่างการเข้าสู่ระบบที่บันทึกไว้ ประวัติ หรือที่คั่นหน้า)\n\nเมื่อผู้มาเยือนของคุณใช้งานเสร็จ ข้อมูลการท่องเว็บของเขาจะถูกลบและวาระของคุณจะถูกเรียกคืน">
+<!ENTITY guest_browsing_notification_title "การท่องเว็บสำหรับผู้มาเยือนถูกเปิดใช้งาน">
 <!ENTITY guest_browsing_notification_text "แตะเพื่อออก">
 
-<!ENTITY exit_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
+<!ENTITY exit_guest_session_title "&brandShortName; จะเริ่มการทำงานใหม่">
 <!ENTITY exit_guest_session_text "ข้อมูลการท่องเว็บจากวาระนี้จะถูกลบ">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -742,7 +742,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "ส่วนเสริม">
-
+<!ENTITY restrictable_feature_addons_installation_description "เพิ่มคุณลักษณะหรือฟังก์ชันการทำงานให้กับ Firefox หมายเหตุ: ส่วนเสริมสามารถปิดใช้งานข้อจำกัดบางอย่าง">
 <!ENTITY restrictable_feature_private_browsing "การท่องเว็บแบบส่วนตัว">
 
 <!ENTITY restrictable_feature_clear_history "ล้างประวัติ">
