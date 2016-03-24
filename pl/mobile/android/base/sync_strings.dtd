@@ -71,8 +71,8 @@
 <!ENTITY fxaccount_status_passwords2 "Dane logowania">
 <!ENTITY fxaccount_status_tabs "Otwarte karty">
 <!ENTITY fxaccount_status_legal "Podstawa prawna">
-<!ENTITY fxaccount_status_linktos "Warunki użytkowania">
-<!ENTITY fxaccount_status_linkprivacy "Polityka prywatności">
+<!ENTITY fxaccount_status_linktos2 "Warunki użytkowania">
+<!ENTITY fxaccount_status_linkprivacy2 "Polityka prywatności">
  
 <!ENTITY fxaccount_account_type_label "Firefox">
 

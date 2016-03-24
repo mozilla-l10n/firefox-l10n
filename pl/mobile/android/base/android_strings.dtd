@@ -160,7 +160,7 @@
 
 <!ENTITY pref_show_web_fonts "Wyświetlanie czcionek sieciowych">
 
-<!ENTITY pref_tracking_protection_title "Ochrona przed śledzeniem">
+<!ENTITY pref_tracking_protection_title2 "Ochrona przed śledzeniem">
 <!ENTITY pref_tracking_protection_summary3 "Włączona w trybie prywatnym">
 <!ENTITY pref_donottrack_title "Ograniczanie śledzenia">
 <!ENTITY pref_donottrack_summary "Informowanie witryn, że użytkownik nie chce być śledzony">
@@ -192,7 +192,7 @@
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazywanie">
 <!ENTITY pref_char_encoding_off "Bez pokazywania">
-<!ENTITY pref_clear_private_data "Wyczyść prywatne dane">
+<!ENTITY pref_clear_private_data2 "Wyczyść prywatne dane">
 <!ENTITY pref_clear_private_data_now_tablet "Wyczyść">
 <!ENTITY pref_clear_on_exit_title3 "Czyszczenie przy wyłączaniu">
 <!ENTITY pref_clear_on_exit_summary2 "Przeglądarka &brandShortName; zawsze będzie czyściła prywatne dane po wybraniu opcji \u201eZakończ\u201d z głównego menu">
@@ -447,7 +447,7 @@
 <!ENTITY mixed_content_display_loaded1 "Części tej strony (np. obrazy) są niezabezpieczone.">
 <!ENTITY mixed_content_protection_disabled1 "Ochrona przed niezabezpieczoną treścią jest wyłączona.">
 
-<!ENTITY doorhanger_tracking_title "Ochrona przed śledzeniem">
+<!ENTITY doorhanger_tracking_title2 "Ochrona przed śledzeniem">
 <!ENTITY doorhanger_tracking_state_enabled "Włączone">
 <!ENTITY doorhanger_tracking_state_disabled "Wyłączone">
 <!ENTITY doorhanger_tracking_message_enabled1 "Zablokowano próby śledzenia aktywności użytkownika.">
