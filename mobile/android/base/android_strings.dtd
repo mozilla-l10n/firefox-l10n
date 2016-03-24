@@ -336,7 +336,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "زبانه‌های همگام‌سازی شده">
 
 
-<!ENTITY pref_about_firefox "دربارهٴ &brandShortName;">
+<!ENTITY pref_about_firefox "درباره &brandShortName;">
 <!ENTITY pref_vendor_faqs "پرسش‌های متداول">
 <!ENTITY pref_vendor_feedback "دادن بازخورد">
 

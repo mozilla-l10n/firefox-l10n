@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY aboutPage.title                        "دربارهٴ &brandShortName;">
+<!ENTITY aboutPage.title                        "درباره &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; آزمایشی است و ممکن است ناپایدار باشد.">
 <!ENTITY aboutPage.telemetryStart               " به‌طور خودکار اطاعاتی در مورد کارایی، سخت‌افزار، کاربری و سفارشی‌سازی ارسال می‌کند به ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
