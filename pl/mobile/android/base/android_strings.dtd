@@ -399,7 +399,7 @@
 
 <!ENTITY home_default_empty "Nie znaleziono treści do wyświetlenia na tym panelu.">
 
-<!ENTITY home_move_back_to_filter "Wróć do &formatS;">
+<!ENTITY home_move_back_to_filter "Wróć do „&formatS;”">
 
 <!ENTITY home_remote_tabs_one_hidden_device "Liczba ukrytych urządzeń: 1">
 <!ENTITY home_remote_tabs_many_hidden_devices "Liczba ukrytych urządzeń: &formatD;">
