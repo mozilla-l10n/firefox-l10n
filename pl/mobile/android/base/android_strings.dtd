@@ -120,6 +120,9 @@
 <!ENTITY pref_search_hint "Rada: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
 <!ENTITY pref_category_advanced "Zaawansowane">
 <!ENTITY pref_category_advanced_summary2 "Przywracanie kart, wtyczki, narzędzia dla programistów">
+<!ENTITY pref_category_notifications "Powiadomienia">
+<!ENTITY pref_content_notifications "Powiadomienia ze stron">
+<!ENTITY pref_content_notifications_summary "Umożliwia obsługiwanym stronom wyświetlanie powiadomień">
 <!ENTITY pref_developer_remotedebugging_usb "Zdalne debugowanie przez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Zdalne debugowanie przez Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugowanie przez Wi-Fi wymaga zainstalowania czytnika kodów QR na urządzeniu.">
@@ -144,6 +147,7 @@
 <!ENTITY pref_header_search "Wyszukiwanie">
 <!ENTITY pref_header_privacy_short "Prywatność">
 <!ENTITY pref_header_accessibility "Dostępność">
+<!ENTITY pref_header_notifications "Powiadomienia">
 <!ENTITY pref_header_advanced "Zaawansowane">
 <!ENTITY pref_header_help "Pomoc">
 <!ENTITY pref_header_vendor "&vendorShortName;">
