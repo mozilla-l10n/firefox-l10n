@@ -189,6 +189,11 @@
 
 <!ENTITY tab_queue_notification_settings "Proszę włączyć uprawnienie „Wyświetlanie nad innymi aplikacjami” dla aplikacji &brandShortName;, aby móc używać funkcji „Otwieranie wielu odnośników”">
 
+<!ENTITY content_notification_summary "&brandShortName;">
+<!ENTITY content_notification_title_plural "Zaktualizowane strony: &formatD;">
+<!ENTITY content_notification_action_settings "Ustawienia powiadomień">
+<!ENTITY content_notification_updated_on "Zaktualizowano: &formatS;">
+
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazywanie">
 <!ENTITY pref_char_encoding_off "Bez pokazywania">
