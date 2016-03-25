@@ -2,4 +2,4 @@ amazondotcom
 duckduckgo
 google
 wikipedia-es
-yahoo-es
+yahoo-espanol
