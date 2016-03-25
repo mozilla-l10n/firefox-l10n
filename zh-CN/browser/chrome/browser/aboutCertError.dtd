@@ -28,7 +28,4 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "添加例外…">
 <!ENTITY certerror.copyToClipboard.label "复制文本到剪贴板">
 
-<!ENTITY errorReporting.automatic "报告类似错误以帮助 Mozilla 识别错误设置了的网站">
-<!ENTITY errorReporting.sending "正在发送报告">
-<!ENTITY errorReporting.sent "报告已发送">
-<!ENTITY errorReporting.tryAgain "再试一次">
+<!ENTITY errorReporting.automatic "报告此类错误以帮助 Mozilla 识别不当配置的网站">
