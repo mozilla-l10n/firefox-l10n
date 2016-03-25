@@ -1,0 +1,5 @@
+amazondotcom
+bing
+google
+wikipedia-es
+yahoo-espanol
