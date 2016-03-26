@@ -117,7 +117,7 @@
 <!ENTITY pref_category_search_restore_defaults "Przywróć wyszukiwarki">
 <!ENTITY pref_search_restore_defaults "Przywróć domyślne">
 <!ENTITY pref_search_restore_defaults_summary "Przywróć domyślne">
-<!ENTITY pref_search_hint "Rada: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
+<!ENTITY pref_search_hint2 "Rada: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie dotykając ikony &formatI;.">
 <!ENTITY pref_category_advanced "Zaawansowane">
 <!ENTITY pref_category_advanced_summary2 "Przywracanie kart, wtyczki, narzędzia dla programistów">
 <!ENTITY pref_category_notifications "Powiadomienia">
@@ -208,7 +208,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Wybierz dane, które chcesz czyścić">
 <!ENTITY pref_plugins "Wtyczki">
 <!ENTITY pref_plugins_enabled "Włączone">
-<!ENTITY pref_plugins_tap_to_play "Stuknięcie, aby odtworzyć">
+<!ENTITY pref_plugins_tap_to_play2 "Dotknięcie, aby odtworzyć">
 <!ENTITY pref_plugins_disabled "Wyłączone">
 <!ENTITY pref_text_size "Rozmiar tekstu">
 <!ENTITY pref_restore_tabs "Przywracanie kart">
@@ -349,7 +349,7 @@
 <!ENTITY doorhanger_login_select_title "Kopiuj hasło dla">
 
 <!ENTITY pref_magnifying_glass_enabled "Powiększanie małych obszarów">
-<!ENTITY pref_magnifying_glass_enabled_summary "Zwiększanie odnośników i pól formularzy po stuknięciu obok nich">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Zwiększanie odnośników i pól formularzy po dotknięciu obok nich">
 
 <!ENTITY pref_scroll_title_bar2 "Przeglądanie pełnoekranowe">
 <!ENTITY pref_scroll_title_bar_summary2 "Ukrywanie paska przeglądarki &brandShortName; przy przewijaniu stron">
