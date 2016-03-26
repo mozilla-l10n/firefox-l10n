@@ -100,9 +100,12 @@
 <!ENTITY pref_category_search_restore_defaults "Восстановить поисковые системы">
 <!ENTITY pref_search_restore_defaults "Восстановить по умолчанию">
 <!ENTITY pref_search_restore_defaults_summary "Восстановить по умолчанию">
-<!ENTITY pref_search_hint "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем нажав на значок &formatI;.">
+<!ENTITY pref_search_hint2 "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем коснувшись значка &formatI;.">
 <!ENTITY pref_category_advanced "Дополнительно">
 <!ENTITY pref_category_advanced_summary2 "Восстановление вкладок, плагины, инструменты разработчика">
+<!ENTITY pref_category_notifications "Уведомления">
+<!ENTITY pref_content_notifications "Обновление веб-сайтов">
+<!ENTITY pref_content_notifications_summary "Разрешить уведомления для поддерживаемых сайтов">
 <!ENTITY pref_developer_remotedebugging_usb "Удалённая отладка через USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Удалённая отладка через Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Для удалённой отладки через Wi-Fi необходимо, чтобы на вашем устройстве было установлено приложение для чтения QR-кодов.">
@@ -124,6 +127,7 @@
 <!ENTITY pref_header_search "Поиск">
 <!ENTITY pref_header_privacy_short "Приватность">
 <!ENTITY pref_header_accessibility "Специальные возможности">
+<!ENTITY pref_header_notifications "Уведомления">
 <!ENTITY pref_header_advanced "Дополнительные">
 <!ENTITY pref_header_help "Справка">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -136,7 +140,7 @@
 <!ENTITY pref_tap_to_load_images_data "Только через Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Блокировать">
 <!ENTITY pref_show_web_fonts "Использовать веб-шрифты">
-<!ENTITY pref_tracking_protection_title "Защита от отслеживания">
+<!ENTITY pref_tracking_protection_title2 "Защита от отслеживания">
 <!ENTITY pref_tracking_protection_summary3 "Включена в Приватном просмотре">
 <!ENTITY pref_donottrack_title "Не отслеживать">
 <!ENTITY pref_donottrack_summary "&brandShortName; будет сообщать сайтам, что вы не хотите, чтобы вас отслеживали">
@@ -160,17 +164,21 @@
 <!ENTITY tab_queue_notification_text_plural2 "В очереди &formatD; вкладки(ок)">
 <!ENTITY tab_queue_notification_text_singular2 "В очереди 1 вкладка">
 <!ENTITY tab_queue_notification_settings "Для \&quot;Открытия множества ссылок\&quot;, пожалуйста, предоставьте &brandShortName; разрешение \'Показ окон поверх других приложений\'">
+<!ENTITY content_notification_summary "&brandShortName;">
+<!ENTITY content_notification_title_plural "обновлено &formatD; веб-сайтов">
+<!ENTITY content_notification_action_settings "Параметры уведомлений">
+<!ENTITY content_notification_updated_on "Обновлено в &formatS;">
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
-<!ENTITY pref_clear_private_data "Удалить мои данные">
+<!ENTITY pref_clear_private_data2 "Удалить мои данные">
 <!ENTITY pref_clear_private_data_now_tablet "Удалить сейчас">
 <!ENTITY pref_clear_on_exit_title3 "Удаление моих данных при выходе">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будет автоматически удалять ваши данные при нажатии вами \u0022Выход\u0022 в главном меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Выберите данные для удаления">
 <!ENTITY pref_plugins "Плагины">
 <!ENTITY pref_plugins_enabled "Включены">
-<!ENTITY pref_plugins_tap_to_play "По нажатию">
+<!ENTITY pref_plugins_tap_to_play2 "По касанию">
 <!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_text_size "Размер текста">
 <!ENTITY pref_restore_tabs "Восстановление вкладок">
@@ -300,7 +308,7 @@
 <!ENTITY doorhanger_login_select_action_text "Выбрать другой логин">
 <!ENTITY doorhanger_login_select_title "Копирование пароля из">
 <!ENTITY pref_magnifying_glass_enabled "Увеличивать небольшие области">
-<!ENTITY pref_magnifying_glass_enabled_summary "Увеличивать ссылки и поля форм при касании рядом с ними">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Увеличивать ссылки и поля форм при касании рядом с ними">
 <!ENTITY pref_scroll_title_bar2 "Полноэкранный веб-серфинг">
 <!ENTITY pref_scroll_title_bar_summary2 "Скрывать панель &brandShortName; при прокрутке страницы вниз">
 <!ENTITY pref_tab_queue_title3 "Очередь вкладок">
@@ -375,7 +383,7 @@
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; заблокировал некоторое небезопасное содержимое на этой странице.">
 <!ENTITY mixed_content_display_loaded1 "Части этой страницы (такие как изображения) не защищены.">
 <!ENTITY mixed_content_protection_disabled1 "Вы отключили защиту от небезопасного содержимого.">
-<!ENTITY doorhanger_tracking_title "Защита от отслеживания">
+<!ENTITY doorhanger_tracking_title2 "Защита от отслеживания">
 <!ENTITY doorhanger_tracking_state_enabled "Включена">
 <!ENTITY doorhanger_tracking_state_disabled "Отключена">
 <!ENTITY doorhanger_tracking_message_enabled1 "Попытки отследить ваше поведение в Интернете были заблокированы.">
