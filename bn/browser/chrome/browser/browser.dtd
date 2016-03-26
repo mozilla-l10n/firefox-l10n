@@ -797,16 +797,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "সিঙ্ককৃত ট্যাব">
 <!ENTITY syncedTabs.sidebar.fetching.label     "সিঙ্ককৃত ট্যাব নিয়ে আসা হচ্ছে…">
-
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "আপনার অন্যান্য ডিভাইসের ফায়ারফক্সে সাইন ইন করে সেই ডিভাইসের ট্যাব এখানে দেখুন।">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখতে সাইন ইন করুন।">
+<!ENTITY syncedTabs.sidebar.notabs.label       "কোন ট্যাব খোলা নেই">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "পছন্দসমূহ &syncBrand.shortName.label; খুলুন">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখতে, ট্যাব সিংক বৈশিষ্ট্যটি চালু করে দিন।">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "এই ট্যাব খুলুন O">
+<!ENTITY syncedTabs.context.openTab.accesskey               "O">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "এই পৃষ্ঠা বুকমার্ক করা হবে…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "এ">
 
 
 <!ENTITY syncBrand.shortName.label    "সিঙ্ক">
