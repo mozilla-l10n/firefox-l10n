@@ -129,6 +129,7 @@
 <!ENTITY pref_header_general "Generale">
 <!ENTITY pref_header_privacy_short "Privacy">
 <!ENTITY pref_header_accessibility "Accessibilità">
+<!ENTITY pref_header_notifications "Notifiche">
 <!ENTITY pref_header_advanced "Avanzate">
 <!ENTITY pref_header_help "Aiuto">
 <!ENTITY pref_header_vendor "&vendorShortName;">
