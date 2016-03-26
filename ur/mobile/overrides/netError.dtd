@@ -168,8 +168,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "بعید XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>برائے مہربانی ویب سائٹ کے مالکان سے رابطہ کریں انہیں اس مسئلے سے آگاہ کرنے کے لیے ۔</li></ul></p>">
 
+<!ENTITY sslv3Used.title "حفاظتی طور پر جڑنے میں ناکام">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "اعلی معلومات: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "آپکا کنکشن ناقابل بھروسا ہے">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "اعلی معلومات: SSL_ERROR_NO_CYPHER_OVERLAP">

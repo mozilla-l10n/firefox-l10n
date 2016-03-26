@@ -11,18 +11,18 @@
 <!ENTITY  onboard_start_subtext3 "اپنے موبائل براؤزنگ تجربے کو واقعی اپنا بنائیں۔">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; میں خوش آمدید">
+<!ENTITY firstrun_urlbar_subtext "چیزوں کو جلدی ڈھونڈیں مددگار تلاش کردہ تجاویز اورتیز راہیں کے ساتھ">
+<!ENTITY firstrun_bookmarks_title "سابقات">
 
-
-
-
-
-
-
+<!ENTITY firstrun_bookmarks_subtext "نتائج حاصل کریں اپنی نشانیاں اور سابقات سے جب آپ تلاش کریں۔">
+<!ENTITY firstrun_data_title "کوائف">
+<!ENTITY firstrun_data_message "کمتر کوائف، مزیدبچت">
+<!ENTITY firstrun_data_subtext2 "ہر سائٹ دیکھتیں وقت نقوش کو آف کردیں تاکہ کمتر کوائف خرچ ہوں۔">
 <!ENTITY firstrun_sync_title "ہمہ وار کریں">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;، ہمیشہ آپ کے ساتھ">
+<!ENTITY firstrun_sync_subtext "اپنے ٹیب، پاسورڈ، اور بھی بہت کچھ ہم ساز کرے جھا بھی آپ استعمال کریں۔">
+<!ENTITY firstrun_signin_message "جڑیں، شروع کریں">
+<!ENTITY firstrun_signin_button "ہم سازی کے لئے سائن ان کریں">
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
 <!ENTITY firstrun_button_next "اگلا">
 
@@ -107,11 +107,13 @@
 
 <!ENTITY settings "سیٹنگیں">
 <!ENTITY settings_title "سیٹنگیں">
-
-
+<!ENTITY pref_category_general "عمومی">
+<!ENTITY pref_category_general_summary2 "گھر، زبان، URL بار">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "زبان">
 <!ENTITY pref_category_language_summary "اپنے براؤزر کی زبان تبدیل کریں">
 <!ENTITY pref_browser_locale "براؤزر زبان">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -148,12 +150,12 @@
 
 <!ENTITY pref_category_search3 "تلاش کریں">
 <!ENTITY pref_category_search_summary "اپنے تلاش مہیا کنندہ تخصیص کریں">
-
-
+<!ENTITY pref_category_accessibility "رسائی پذیری">
+<!ENTITY pref_category_accessibility_summary2 "متن سائز، زوم، آواز ان پٹ">
 <!ENTITY pref_category_privacy_short "رازداری">
-
-
-
+<!ENTITY pref_category_privacy_summary3 "ٹریکنگ، کوکس، کوائف اختیارات">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "کے بارے میں &brandShortName;، عمومی سوالات، رائے">
 <!ENTITY pref_category_datareporting "کوائف پسندیں">
 <!ENTITY pref_learn_more "مزید سیکھیں">
 <!ENTITY pref_category_installed_search_engines "تلاش انجن تنصیب شدہ">
@@ -167,8 +169,8 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "ٹوٹکا: کسی بھی ویب سائٹ کو اپنے تلاش مہیا کنندہ کے فہرست میں ڈالنے کے لیے اس کی تلاش قطعہ پر لمبا دبائیں اور پھر &formatI; آئکن پر کلک کریں۔">
-
-
+<!ENTITY pref_category_advanced "اعلٰی">
+<!ENTITY pref_category_advanced_summary2 "ٹیبیں، پلگ ان، تخلیق کار کے ٹول کو بحال کریں">
 <!ENTITY pref_developer_remotedebugging "بعید ٹھیک کاری">
 <!ENTITY pref_developer_remotedebugging_usb "USB کے ذریعے بعید ٹھیک کاری">
 <!ENTITY pref_developer_remotedebugging_wifi "وائی فائی کے ذریعے بعید ٹھیک کاری ">
@@ -186,7 +188,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ابتدائی صفحہ میں ڈل گیا">
 <!ENTITY pref_category_home_content_settings "مواد سیٹکگیں">
-
+<!ENTITY pref_home_updates "خودکار تازہ کاریاں">
 <!ENTITY pref_home_updates_enabled "اہل">
 <!ENTITY pref_home_updates_wifi "صرف بعظریہ وائی فائی">
 <!ENTITY pref_home_suggested_sites "سائٹ تجاویز دکھائیں">
@@ -196,32 +198,39 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; گھر">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "مخصوص">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "پتہ یا تلاش کی اصطلاح داخل کریں کریں">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "عمومی">
+<!ENTITY pref_header_search "تلاش کریں">
 <!ENTITY pref_header_privacy_short "رازداری">
-
-
+<!ENTITY pref_header_accessibility "رسائی پذیری">
+<!ENTITY pref_header_advanced "اعلٰی">
 <!ENTITY pref_header_help "مدد">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "کوکیاں">
 <!ENTITY pref_cookies_accept_all "اہل">
 <!ENTITY pref_cookies_not_accept_foreign "اہل، ماسوائے تیسرے فریق">
 <!ENTITY pref_cookies_disabled "نااہل">
 
+<!ENTITY pref_tap_to_load_images_title2 "نقوش دکھائیں">
+<!ENTITY pref_tap_to_load_images_enabled "ہمیشہ">
+<!ENTITY pref_tap_to_load_images_data "صرف بعظریہ وائی فائی">
+<!ENTITY pref_tap_to_load_images_disabled2 "بلاک کیا گیا">
 
-
-
-
+<!ENTITY pref_show_web_fonts "ویب فانٹ نمائش کریں">
 
 <!ENTITY pref_tracking_protection_title "سراغ کاری حفاظت">
 <!ENTITY pref_tracking_protection_summary3 "نجی براؤزنگ میں اہل کردہ">
@@ -244,10 +253,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "اس کو آپ بعد میں سیٹنگوں میں بدل سکتے ہیں">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "اجازت ڈرائنگ کو دیگر ایپس پرآن کر دیں">
 <!ENTITY tab_queue_prompt_positive_action_button "اہل بنائیں">
 <!ENTITY tab_queue_prompt_negative_action_button "ابھی نہیں">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "سیٹکگیں بطرف جائیں">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -263,11 +274,11 @@
 <!ENTITY pref_char_encoding "کریکٹر ضابطہ بندی">
 <!ENTITY pref_char_encoding_on "مینیو دکھائیں">
 <!ENTITY pref_char_encoding_off "مینیو مت دکھائیں">
-
+<!ENTITY pref_clear_private_data "نجی کوائف خالی کریں">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ابھی خالی کریں">
-
+<!ENTITY pref_clear_on_exit_title3 "نجی کوائف صاف کریں خروج پر">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; خود بخود آپ کے کوائف صاف کردے گا جب بھی آپ مرکزی مینیو سے \u0022Quit\u0022  منتخب کریں گے">
 <!ENTITY pref_clear_on_exit_dialog_title "منتخب کریں کون سے کوائف خالی کرنے ہیں">
 <!ENTITY pref_plugins "پلگ ان">
@@ -275,7 +286,7 @@
 <!ENTITY pref_plugins_tap_to_play "چلانے کے لیے کلک کریں">
 <!ENTITY pref_plugins_disabled "نا اہل">
 <!ENTITY pref_text_size "متن سائز">
-
+<!ENTITY pref_restore_tabs "ٹیبیں بحال کریں">
 <!ENTITY pref_restore_always "ہمیشہ بحال کریں">
 <!ENTITY pref_restore_quit "&brandShortName; کو بند کرنے کے بعد بحال نا کریں">
 <!ENTITY pref_font_size_tiny "بہت چھوٹا">
@@ -300,16 +311,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "زوم ہمیشہ اہل بنائیں">
 <!ENTITY pref_zoom_force_enabled_summary "زیر لازمی کریں تاکہ آپ کسی بھی صفحے پر زوم کر سکیں">
 <!ENTITY pref_voice_input "آواز ان پٹ">
-
+<!ENTITY pref_voice_input_summary2 "URL بار میں آواز ڈکٹیشن کی اجازت دیں">
 <!ENTITY pref_qrcode_enabled "QR ضابطہ ناظر">
-
+<!ENTITY pref_qrcode_enabled_summary2 "URL بار میں QR سکینر کی اجازت دیں">
 
 <!ENTITY pref_use_master_password "ماسٹر پاس ورڈ استعمال کریں">
-
+<!ENTITY pref_sync2 "سائن ان">
 <!ENTITY pref_sync_summary2 "اپنے ٹیب، نشانیاں، پاس ورڈ، سابقات ہمہ وقت ساز کریں">
 <!ENTITY pref_search_suggestions "تلاش تجاویز دکھائیں">
 <!ENTITY pref_history_search_suggestions "تلاش تاریخ دکھائیں">
-
+<!ENTITY pref_import_options "درآمد اختیارات">
 <!ENTITY pref_import_android_summary "مقامی براؤزر سے نشانیاں اور تاریخ درآمد کریں">
 <!ENTITY pref_private_data_history2 "براؤزنگ سابقات">
 <!ENTITY pref_private_data_searchHistory "سابقات تلاش کریں">
@@ -366,16 +377,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "خودکار تازہ کاریاں">
 <!ENTITY pref_update_autodownload_wifi "صرف بعظریہ وائی فائی">
 <!ENTITY pref_update_autodownload_never "کبھی نہیں">
-
+<!ENTITY pref_update_autodownload_always "ہمیشہ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "مدد">
 
 <!ENTITY quit "کنارہ کریں">
 
-
+<!ENTITY addons "ایڈ اون">
+<!ENTITY logins "لاگ ان">
 <!ENTITY downloads "ڈاؤن لوڈ">
 <!ENTITY char_encoding "کریکٹر ضابطہ بندی">
 
@@ -392,7 +405,7 @@ size. -->
 <!ENTITY new_private_tab "نیا نجی ٹیب">
 <!ENTITY close_all_tabs "تمام ٹیب بند کریں">
 <!ENTITY close_private_tabs "نجی ٹیب بند کریں">
-
+<!ENTITY tabs_normal "ٹیب">
 <!ENTITY tabs_private "نجی">
 <!ENTITY tabs_synced "ہمہ وقت ساز">
 <!ENTITY set_image_fail "نقش سیٹ کرنے میں ناکام">
@@ -454,9 +467,10 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "پوری سکرین براؤزنگ">
+<!ENTITY pref_scroll_title_bar_summary2 "صفحے پر نیچے جاتے وقت &brandShortName; کا ٹول بار چھپائیں">
 
-
-
+<!ENTITY pref_tab_queue_title3 "قطار بند ٹیب">
+<!ENTITY pref_tab_queue_summary4 "آپ کے اگلی بار &brandShortName; کھولنے تک لنک محفوظ کریں">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -513,6 +527,8 @@ size. -->
 <!ENTITY home_top_sites_add "سائٹ ڈالیں">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "&brandShortName; گھر">
 <!ENTITY home_history_title "سابقات">
 <!ENTITY home_clear_history_button "براؤزنگ سابقات خالی کریں">
 <!ENTITY home_clear_history_confirm "کیا آپ کو یقین ہے کہ آپ اپنے سابقات صاف کرنا چاہتے ہیں؟">
