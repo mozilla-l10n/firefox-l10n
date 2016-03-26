@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক ও ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছে।">
 <!ENTITY firstrun_data_title "ডাটা">
 <!ENTITY firstrun_data_message "কম ডাটা, বেশি সঞ্চয়">
-
+<!ENTITY firstrun_data_subtext2 "আপানার পরিদর্শন করা প্রতিটি সাইটে কম ডাটা ব্যবহার করতে ছবি প্রতিরোধ করুন।">
 <!ENTITY firstrun_sync_title "সিঙ্ক">
 <!ENTITY firstrun_sync_message "&brandShortName;, সবসময় আপনার পাশে">
 <!ENTITY firstrun_sync_subtext "আপনি যেখানেই ব্যবহার করুন আপনার ট্যাব, পাসওয়ার্ড এবং আরো অনেক কিছু সিঙ্ক করুন।">
@@ -472,7 +472,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary2 "যখন একটি পাতায় স্ক্রল করছেন তখন &brandShortName; টুলবারকে আড়াল কর">
 
 <!ENTITY pref_tab_queue_title3 "ট্যাব কিউ">
-
+<!ENTITY pref_tab_queue_summary4 "পরবর্তীতে যখন &brandShortName; খুলবেন ততক্ষণ পর্যন্ত লিঙ্ক সংরক্ষণ করুন">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -551,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "কোন কন্টেন্ট এই প্যানেলের জন্য পাওয়া যায়নি।">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "&formatS; এ ফিরে যাও">
 
 <!ENTITY home_remote_tabs_title "সিঙ্ককৃত ট্যাব">
 <!ENTITY home_remote_tabs_empty "অন্যান্য ডিভাইস থেকে আপনার ট্যাব এখানে দেখানো হবে।">
