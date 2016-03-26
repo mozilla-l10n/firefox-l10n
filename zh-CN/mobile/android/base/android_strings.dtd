@@ -8,16 +8,16 @@
 
 <!ENTITY firstrun_panel_title_welcome "欢迎使用">
 <!ENTITY  onboard_start_message3 "使用 &brandShortName; 浏览">
-<!ENTITY  onboard_start_subtext3 "独具风格的移动网络浏览体验。">
+<!ENTITY  onboard_start_subtext3 "让移动互联网浏览体验有你的风格。">
 
 <!ENTITY firstrun_urlbar_message "欢迎使用 &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "搜索建议更加好用，找东西得心应手 。">
 <!ENTITY firstrun_bookmarks_title "历史记录">
 <!ENTITY firstrun_bookmarks_message "您想要的，就在眼前">
-<!ENTITY firstrun_bookmarks_subtext "在您搜索时，也会得到书签和历史记录中的相关内容。">
+<!ENTITY firstrun_bookmarks_subtext "在您搜索时，也会得到书签库和历史记录中的相关内容。">
 <!ENTITY firstrun_data_title "数据流量">
-<!ENTITY firstrun_data_message "流量消耗更少，为您节省更多">
-<!ENTITY firstrun_data_subtext2 "关闭所有网站图片以节省您访问时消耗的数据流量。">
+<!ENTITY firstrun_data_message "流量消耗更少，节省更多">
+<!ENTITY firstrun_data_subtext2 "关闭所有网站图片，以节省您访问时消耗的数据流量。">
 <!ENTITY firstrun_sync_title "同步">
 <!ENTITY firstrun_sync_message "&brandShortName;，始终伴您左右">
 <!ENTITY firstrun_sync_subtext "随处同步您的标签页、密码等信息，个性体验如影随形。">
@@ -228,7 +228,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "显示图像">
 <!ENTITY pref_tap_to_load_images_enabled "总是">
 <!ENTITY pref_tap_to_load_images_data "仅通过 Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "阻止">
+<!ENTITY pref_tap_to_load_images_disabled2 "拦截">
 
 <!ENTITY pref_show_web_fonts "显示网络字体">
 
@@ -242,8 +242,8 @@
 <!ENTITY pref_tracking_protection_disabled "禁用">
 
 <!ENTITY tracking_protection_prompt_title "立即使用跟踪保护">
-<!ENTITY tracking_protection_prompt_text "主动屏蔽跟踪元素，让您不再担心。">
-<!ENTITY tracking_protection_prompt_tip_text "访问“隐私”设置了解更多信息">
+<!ENTITY tracking_protection_prompt_text "主动拦截跟踪您的元素，让您不再担心。">
+<!ENTITY tracking_protection_prompt_tip_text "在“隐私”设置中详细了解">
 <!ENTITY tracking_protection_prompt_action_button "明白了！">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; 中已保存的标签页">
@@ -403,9 +403,9 @@ size. -->
 <!ENTITY desktop_mode "要求桌面版网站">
 <!ENTITY page "页面">
 <!ENTITY tools "工具">
-<!ENTITY new_tab "新标签页">
+<!ENTITY new_tab "新建标签页">
 <!ENTITY new_private_tab "新建隐私浏览标签页">
-<!ENTITY close_all_tabs "关闭所有标签">
+<!ENTITY close_all_tabs "关闭所有标签页">
 <!ENTITY close_private_tabs "关闭隐私浏览标签页">
 <!ENTITY tabs_normal "标签页">
 <!ENTITY tabs_private "隐私">
@@ -472,7 +472,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary2 "网页向下滚动时隐藏 &brandShortName; 工具栏">
 
 <!ENTITY pref_tab_queue_title3 "标签页队列">
-<!ENTITY pref_tab_queue_summary4 "保存链接，供您下次打开 &brandShortName; 时开启">
+<!ENTITY pref_tab_queue_summary4 "保存链接，下次打开 &brandShortName; 时一并开启">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -543,7 +543,7 @@ size. -->
 <!ENTITY home_selected_empty "您在选定时间内访问过的网站将显示在这里。">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "嘘！&formatS1;打开新隐私浏览标签页&formatS2; 后将不会保存您的浏览记录。">
+<!ENTITY home_most_recent_emptyhint2 "嘘！&formatS1;在新的隐私浏览标签页&formatS2; 中不会保存您的浏览记录。">
 <!ENTITY home_reading_list_empty "您保存以供稍后阅读的文章将出现在这里。">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
@@ -578,7 +578,7 @@ size. -->
 
 <!ENTITY remote_tabs_panel_moved_title "我的标签页去哪了？">
 <!ENTITY remote_tabs_panel_moved_desc "我们已经从其他设备转移了您的标签页到您的首页上的一个面板，这让您可以轻松地在每次打开新标签页时访问它们。">
-<!ENTITY remote_tabs_panel_moved_link "带我去我的新面板。">
+<!ENTITY remote_tabs_panel_moved_link "带我去我的新面板吧。">
 
 <!ENTITY pin_site_dialog_hint "输入搜索关键字">
 
@@ -600,29 +600,29 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_connection_secure "安全连接">
-<!ENTITY identity_connection_insecure "不安全的连接">
+<!ENTITY identity_connection_secure "连接安全">
+<!ENTITY identity_connection_insecure "连接不安全">
 <!ENTITY identity_login_insecure "此页面不安全，您的登录信息可能会因此泄露。">
 <!ENTITY identity_connection_chromeui "这是一个安全的 &brandShortName; 页面">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; 已阻止此页面上的不安全内容。">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; 已阻止此页面上的部分不安全内容。">
-<!ENTITY mixed_content_display_loaded1 "此页面的部分内容不安全（例如图像）。">
-<!ENTITY mixed_content_protection_disabled1 "您已禁用对不安全内容的保护。">
+<!ENTITY mixed_content_display_loaded1 "此页面的部分不安全的内容（例如图像）。">
+<!ENTITY mixed_content_protection_disabled1 "您已禁用对不安全内容的拦截。">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "跟踪保护">
 <!ENTITY doorhanger_tracking_state_enabled "启用">
 <!ENTITY doorhanger_tracking_state_disabled "已停用">
-<!ENTITY doorhanger_tracking_message_enabled1 "跟踪您的在线行为的尝试已被阻止。">
+<!ENTITY doorhanger_tracking_message_enabled1 "跟踪您的在线行为的企图已被阻止。">
 <!ENTITY doorhanger_tracking_message_disabled2 "此页面包含可能跟踪您的浏览行为的元素。">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "详细了解">
 <!ENTITY enable_protection "启用保护">
 <!ENTITY disable_protection "禁用保护">
-<!ENTITY keep_blocking "保持屏蔽">
+<!ENTITY keep_blocking "保持拦截">
 
 <!ENTITY private_data_success "隐私数据已清除">
 <!ENTITY private_data_fail "某些隐私数据无法清除">
@@ -651,15 +651,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName; 有可用更新">
-<!ENTITY updater_start_select2 "触摸此处，立即下载">
+<!ENTITY updater_start_select2 "点此立即下载">
 
 <!ENTITY updater_downloading_title2 "正在下载 &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "下载失败">
 <!ENTITY updater_downloading_select2 "下载完毕后请触摸以应用更新">
-<!ENTITY updater_downloading_retry2 "触摸此处，立即重试">
+<!ENTITY updater_downloading_retry2 "点此立即重试">
 
 <!ENTITY updater_apply_title2 "&brandShortName; 更新已可安装">
-<!ENTITY updater_apply_select2 "触摸此处，立即更新">
+<!ENTITY updater_apply_select2 "点此立即更新">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -674,7 +674,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "继续">
 <!ENTITY guest_session_dialog_cancel "取消">
 <!ENTITY new_guest_session_title "&brandShortName; 将重新启动">
-<!ENTITY new_guest_session_text2 "使用此模式的人将不会看到您的任何个人数据（如已保存的登录信息、历史记录和书签）。\n\n当您的访客退出后，他们的浏览数据也将被删除，您的会话也将被恢复。">
+<!ENTITY new_guest_session_text2 "使用此模式的人不会看到您的任何个人数据（如已保存的登录信息、历史记录和书签）。\n\n当您的访客退出后，他们的浏览数据也将被删除，您的会话也将被恢复。">
 <!ENTITY guest_browsing_notification_title "访客浏览已启用">
 <!ENTITY guest_browsing_notification_text "点按以退出">
 
@@ -751,8 +751,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "这包含导入书签、恢复标签页和自动更新。关闭此选项可简化家庭成员使用时所须设定的内容。">
 <!ENTITY restrictable_feature_camera_microphone "相机和麦克风">
 <!ENTITY restrictable_feature_camera_microphone_description "允许家庭成员在网站上即时通讯。">
-<!ENTITY restrictable_feature_block_list "阻止列表">
-<!ENTITY restrictable_feature_block_list_description "阻止包含敏感内容的网站。">
+<!ENTITY restrictable_feature_block_list "拦截列表">
+<!ENTITY restrictable_feature_block_list_description "拦截包含敏感内容的网站。">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -764,7 +764,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Firefox 帮助和支持 - 在 Android 平板电脑上受限制的配置文件">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "知悉 Web：Mozilla Webmaker">
+<!ENTITY bookmarks_restricted_webmaker "了解 Web：Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
