@@ -121,7 +121,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY errorReporting.automatic2 "报告此类错误以帮助 Mozilla 识别和屏蔽恶意网站">
+<!ENTITY errorReporting.automatic2 "报告类似错误以帮助 Mozilla 识别和拦截恶意站点">
 <!ENTITY errorReporting.learnMore "详细了解…">
 
 <!ENTITY remoteXUL.title "远程 XUL">
