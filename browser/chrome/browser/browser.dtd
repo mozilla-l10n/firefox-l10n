@@ -257,7 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Қызметтік жұмыс үрдістері">
+<!ENTITY devtoolsServiceWorkers.accesskey  "д">
 
 <!ENTITY devtoolsConnect.label        "Байланысу…">
 <!ENTITY devtoolsConnect.accesskey    "й">
@@ -530,8 +531,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "б">
 <!ENTITY openFrameCmd.label           "Фреймді жаңа терезеде ашу">
 <!ENTITY openFrameCmd.accesskey       "Ф">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Сілтемені жаңа контейнер бетінде ашу">
+<!ENTITY openLinkCmdInContainerTab.accesskey "к">
 <!ENTITY showOnlyThisFrameCmd.label     "Тек осы фреймді көрсету">
 <!ENTITY showOnlyThisFrameCmd.accesskey "о">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -779,7 +780,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "н">
 <!ENTITY identity.learnMore "Көбірек білу">
 
-
+<!ENTITY identity.removeCertException.label "Ережеден тыс жағдайды өшіру">
+<!ENTITY identity.removeCertException.accesskey "ш">
 
 <!ENTITY identity.moreInfoLinkText2 "Көбірек білу">
 
