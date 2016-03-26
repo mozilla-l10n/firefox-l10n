@@ -8,8 +8,6 @@
 <!ENTITY warnCloseMultipleTabs.accesskey "д">
 <!ENTITY warnOpenManyTabs.label "Предупреждать, когда открытие нескольких вкладок может замедлить &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey "р">
-<!ENTITY restoreTabsOnDemand.label "Не загружать вкладки без запроса">
-<!ENTITY restoreTabsOnDemand.accesskey "ж">
 <!ENTITY switchToNewTabs.label "Переключаться на открываемую вкладку">
 <!ENTITY switchToNewTabs.accesskey "к">
 <!ENTITY showTabsInTaskbar.label "Отображать эскизы вкладок на панели задач Windows">

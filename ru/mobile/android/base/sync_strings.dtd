@@ -51,8 +51,8 @@
 <!ENTITY fxaccount_status_passwords2 "Логины">
 <!ENTITY fxaccount_status_tabs "Открытые вкладки">
 <!ENTITY fxaccount_status_legal "Юридическая информация">
-<!ENTITY fxaccount_status_linktos "Условия службы">
-<!ENTITY fxaccount_status_linkprivacy "Уведомление о приватности">
+<!ENTITY fxaccount_status_linktos2 "Условия службы">
+<!ENTITY fxaccount_status_linkprivacy2 "Уведомление о приватности">
 <!ENTITY fxaccount_status_more "Подробнее&ellipsis;">
 <!ENTITY fxaccount_remove_account "Отсоединить&ellipsis;">
 <!ENTITY fxaccount_remove_account_dialog_title "Удалить Учётную запись Firefox?">
