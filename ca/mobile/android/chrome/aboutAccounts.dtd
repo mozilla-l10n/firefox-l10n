@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.connected.title "Comptes del Firefox">
 <!ENTITY aboutAccounts.connected.description "Esteu connectat com a">
-
+<!ENTITY aboutAccounts.syncPreferences.label "Toqueu aquí per comprovar els paràmetres de sincronització">
 
 <!ENTITY aboutAccounts.noConnection.title "No hi ha connexió a Internet">
 <!ENTITY aboutAccounts.retry.label "Torna-ho a provar">
