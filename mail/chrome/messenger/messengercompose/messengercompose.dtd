@@ -306,3 +306,6 @@
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontaktar">
 
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Tilpass frå adressa …">
+<!ENTITY customizeFromAddress.accesskey "T">

@@ -28,12 +28,12 @@
 </ul>
 ">
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "Ojsann.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; klarte ikkje å lasta denne sida av ukjent årsak.</p>
 ">
 
-<!ENTITY malformedURI.title "Ugyldig adresse">
+<!ENTITY malformedURI.title "Adressa er ugyldig">
 <!ENTITY malformedURI.longDesc "
 <ul> 
 <li>Nettsideadresser skal vanlegvis skrivast som 
@@ -158,7 +158,10 @@ mellombels, og du kan prøva på nytt seinare.</li>
 <p>Desse typane av nettsvindel er brukte i såkalte «phishing-åtak», der forfalska nettsider og e-post imiterer kjelder du stolar på.</p>
 ">
 
-<!ENTITY cspBlocked.title "Blokkert av tryggingspraksis for innhald">
+<!ENTITY forbiddenBlocked.title "Blokkert nettstad">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; hindra denne sida frå å lastast inn fordi han er konfigurert til å blokkere sida.</p>">
+
+<!ENTITY cspBlocked.title "Blokkert av tryggingspraksisen">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; hindra nettsiden frå å lastast inn på denne måten fordi nettsida har ein tryggingspraksis for innhald som hindrar det.</p>">
 
 <!ENTITY corruptedContentError.title "Øydelagd innhald">

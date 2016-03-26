@@ -20,9 +20,11 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Sjå etter nye meldingar kvart">
+<!ENTITY biffStart.label "Sjå etter nye meldingar kvart ">
 <!ENTITY biffStart.accesskey "r">
 <!ENTITY biffEnd.label "minutt">
+<!ENTITY useIdleNotifications.label "Tillat umiddelbare tenarvarsel når nye meldingar vert mottekne">
+<!ENTITY useIdleNotifications.accesskey "T">
 <!ENTITY connectionSecurity.label "Tilkoplingstryggleik:">
 <!ENTITY connectionSecurity.accesskey "T">
 <!ENTITY connectionSecurityType-0.label "Ingen">

@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Varsle deltakarar">
+<!ENTITY event.attendees.notify.accesskey           "V">
 <!ENTITY event.attendees.notifyundisclosed.label    "Eigen invitasjon for kvar deltakar">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "E">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Denne innstillinga sender ein e-postinvitasjon pr. deltakar. Kvar invitasjon inneheld berre informasjon om om den enkelte deltakaren, slik at andre deltakaridentitetar ikkje vert viste.   	">
 
 <!-- Keyboard Shortcuts -->
@@ -138,6 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Skriv e-post til uvisse deltakarar …">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
+<!ENTITY event.remove.attendees.label2                    "Remove all attendees">
+<!ENTITY event.remove.attendees.accesskey                 "r">
+<!ENTITY event.remove.attendee.label                      "Remove attendee">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Lagra og lukk">
@@ -165,7 +171,7 @@
 <!ENTITY event.calendar.label                             "Kalender:" >
 <!ENTITY event.calendar.accesskey                         "e">
 <!ENTITY event.attendees.label                            "Deltakarar:" >
-<!ENTITY event.attendees.accesskey                        "D" >
+<!ENTITY event.attendees.accesskey                        "D">
 <!ENTITY event.alldayevent.label                          "Heildagshending" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Start:" >
@@ -179,7 +185,7 @@
 <!ENTITY task.status.label                                "Status:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Gjenta:" >
-<!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.repeat.accesskey                           "G">
 <!ENTITY event.until.label                                "Til:">
 <!ENTITY event.until.accesskey                            "T">
 <!ENTITY event.reminder.label                             "Påminning:" >
@@ -348,6 +354,7 @@
 <!ENTITY event.attendee.usertype.group          "Gruppe">
 <!ENTITY event.attendee.usertype.resource       "Ressurs">
 <!ENTITY event.attendee.usertype.room           "Rom">
+<!ENTITY event.attendee.usertype.unknown        "Unknown">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Spesifiser tidssone">
