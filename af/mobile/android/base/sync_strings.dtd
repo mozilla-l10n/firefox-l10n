@@ -8,7 +8,7 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 <!-- J-PAKE Key Screen -->
-
+<!ENTITY sync.subtitle.pair.label "Om te aktiveer, kies “Assosieer \u0027n toestel” op die ander toestel.">
 
 
 <!-- Configure Engines -->
