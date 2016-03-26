@@ -83,5 +83,6 @@
 <!ENTITY insecureServer.tooltip.title    "Diqqat! Bu xavfli server.">
 <!ENTITY insecureServer.tooltip.details  "Batafsil ma’lumot uchun halqaga bosing.">
 
-
-
+<!ENTITY insecureUnencrypted.description "Xatingiz va haqiqiyligini tasdiqlsh shifrlanmasdan jo‘natildi, bunday holda boshqalar osongina parolingizni (xabaringizni ham) ko‘rishi mumkin. &brandShortName; xatni olishingizni ta’minlaydi, lekin siz e-pochta ta’miotchisi bilan serverda xavfsiz ulanishni sozlashi uchun bog‘lanishingiz kerak.">
+<!ENTITY insecureSelfSigned.description  "Bu server ishonchsiz sertifikatdan foydalanadi, shuning uchun &brandShortName; va serveringiz o‘rtasidagi traffikdan foydalanishi mumkin. &brandShortName; xatni olishingizni ta’minlaydi, ammo siz e-pochta ta’minotchisi bilan serverni ishonchli sertifikat bilan sozlashi haqida gaplashib ko‘rishingiz kerak.">
+<!ENTITY secureServer.description        "Tabriklaymiz! Bu xavfsiz server.">

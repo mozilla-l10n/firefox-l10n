@@ -4,3 +4,6 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 
+<!ENTITY mailViewListTitle.label "Xabar ko‘rinishini moslash">
+<!ENTITY viewName.label "Nom ko‘rinishi">
+

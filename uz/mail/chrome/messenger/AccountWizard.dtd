@@ -99,19 +99,25 @@
 <!ENTITY haveSmtp3.prefix "Chiquvchi xabarlar (SMTP) serveri, &quot;">
 
 <!-- Entities for Account name page -->
+
+
+<!ENTITY accnameTitle.label "Hisob nomi">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-
-
+<!ENTITY accnameLabel.label "Hisob nomi:">
+<!ENTITY accnameLabel.accesskey "n">
 <!-- Entities for Done (Congratulations) page -->
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY completionTitle.label "Tabriklaymiz!">
+<!ENTITY completionText.label "Quyida keltirilgan ma’lumotning to‘g‘ri ekanligiga ishonch hosil qiling.">
+<!ENTITY serverTypePrefix.label "Kiruvchi xabarlar serveri turi:">
+<!ENTITY serverNamePrefix.label "Kiruvchi xabarlar serveri nomi:">
+<!ENTITY smtpServerNamePrefix.label "Chiquvchi xabarlar serveri nomi (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Yangiliklar serveri nomi (NNTP):">
+<!ENTITY downloadOnLogin.label "Xabarlarni hozir yuklab olish">
+<!ENTITY downloadOnLogin.accesskey "y">
+<!ENTITY deferStorageDesc.label "Bu hisob uchun xatni o‘zining direktoriyasiga saqlash uchun bu belgilash katakchasidan belgilashni olib tashlang.Buning natijasida bu hisob yuqori darajadagi hisob sifatida ko‘rinadi. Bunday qilmasangiz, u mahalliy jildlardagi kiruvchi xabarlar hisobining qismi bo‘lib qoladi.">
+<!ENTITY deferStorage.label "Global kiruvchi xabarlardan usulidan foydalanish (xatlarni kompyuterga saqlash)">
+<!ENTITY deferStorage.accesskey "G">
+<!ENTITY clickFinish.label "Bu sozlamalarni saqlash  va Hisob ustasiga chiqish uchun &quot;Tugatish&quot; tugmasini bosing.">
+<!ENTITY clickFinish.labelMac "Sozlamalarni saqlash va Hisob ustasiga chiqish uchun &quot;Tayyor&quot; tugmasini bosing.">

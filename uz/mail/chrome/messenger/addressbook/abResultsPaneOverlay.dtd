@@ -14,23 +14,23 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY Department.label                      "Idora">
+<!ENTITY Department.accesskey                  "I">
+<!ENTITY JobTitle.label                        "Nomi">
+<!ENTITY JobTitle.accesskey                    "N">
+<!ENTITY CellularNumber.label                  "Mobil">
+<!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY PagerNumber.label                     "Peyjer">
+<!ENTITY PagerNumber.accesskey                 "P">
+<!ENTITY FaxNumber.label                       "Faks">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Uy telefoni">
+<!ENTITY HomePhone.accesskey                   "U">
+<!ENTITY WorkPhone.label                       "Ish telefoni">
+<!ENTITY WorkPhone.accesskey                   "I">
+<!ENTITY ChatName.label                        "Chat nomi">
+<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY sortAscending.label                   "Ortib borish tartibida">
+<!ENTITY sortAscending.accesskey               "O">
+<!ENTITY sortDescending.label                  "Kamayib borish tartibida">
+<!ENTITY sortDescending.accesskey              "K">

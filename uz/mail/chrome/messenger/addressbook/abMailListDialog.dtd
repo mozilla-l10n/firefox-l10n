@@ -2,15 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Title -->
+
+<!ENTITY mailListWindow.title           "Xabar almashish ro‘yxati">
 <!-- Labels -->
+<!ENTITY addToAddressBook.label         "Qo‘shish:">
 
-
-
+<!ENTITY ListName.label                 "Ro‘yxat nomi: ">
+<!ENTITY ListNickName.label             "Taxallus ro‘yxati: ">
+<!ENTITY ListDescription.label          "Ta’rifi: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-
-
+<!ENTITY AddressTitle.label             "Xabar almashish ro‘yxatiga qo‘shish uchun e-pochta mazillari turi:">
+<!ENTITY UpButton.label                 "Tepaga ko‘tarish">
+<!ENTITY DownButton.label               "Pastga tushirish">
 <!-- Access Keys -->
 
-
-
+<!ENTITY addToAddressBook.accesskey     "Q">
+<!ENTITY ListName.accesskey             "n">
+<!ENTITY ListNickName.accesskey         "T">
+<!ENTITY ListDescription.accesskey      "T">
 
