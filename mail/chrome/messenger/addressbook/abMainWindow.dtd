@@ -10,7 +10,7 @@
 <!ENTITY fileMenu.accesskey                             "C">
 <!ENTITY newMenu.label                                  "Nua">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Teagmháil Leabhair Seoltaí…">
+<!ENTITY newContact.label                               "Teagmhálaí sa Leabhar Seoltaí…">
 <!ENTITY newContact.accesskey                           "T">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Liosta Postála…">
@@ -30,11 +30,11 @@
 <!ENTITY closeCmd.accesskey                             "D">
 <!ENTITY printSetupCmd.label                            "Socrú Leathanaigh…">
 <!ENTITY printSetupCmd.accesskey                        "L">
-<!ENTITY printPreviewContactCmd.label                   "Réamhamharc Priontála an Teagmhála">
+<!ENTITY printPreviewContactCmd.label                   "Réamhamharc Priontála an Teagmhálaí">
 <!ENTITY printPreviewContactCmd.accesskey               "T">
 <!ENTITY printPreviewAddressBook.label                  "Réamhamharc Priontála an Leabhair Sheoltaí">
 <!ENTITY printPreviewAddressBook.accesskey              "b">
-<!ENTITY printContactCmd.label                          "Priontáil an Teagmháil…">
+<!ENTITY printContactCmd.label                          "Priontáil an Teagmhálaí…">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "R">
 <!ENTITY printAddressBook.label                         "Priontáil Leabhar Seoltaí…">
@@ -61,8 +61,8 @@
 <!ENTITY deleteCmd.label                                "Scrios">
 <!ENTITY deleteCmd.accesskey                            "S">
 <!ENTITY deleteAbCmd.label                              "Scrios Leabhar Seoltaí">
-<!ENTITY deleteContactCmd.label                         "Scrios an Teagmháil">
-<!ENTITY deleteContactsCmd.label                        "Scrios Teagmhálacha">
+<!ENTITY deleteContactCmd.label                         "Scrios an Teagmhálaí">
+<!ENTITY deleteContactsCmd.label                        "Scrios na Teagmhálaithe">
 <!ENTITY deleteListCmd.label                            "Scrios Liosta">
 <!ENTITY deleteListsCmd.label                           "Scrios Liostaí">
 <!ENTITY deleteItemsCmd.label                           "Scrios Míreanna">
@@ -96,8 +96,8 @@
 <!ENTITY layoutMenu.accesskey                           "L">
 <!ENTITY showDirectoryPane.label                        "Pána Eolaire">
 <!ENTITY showDirectoryPane.accesskey                    "E">
-<!ENTITY showContactPane2.label                         "Pána Teagmhálacha">
-<!ENTITY showContactPane2.accesskey                     "C">
+<!ENTITY showContactPane2.label                         "Pána Teagmhálaithe">
+<!ENTITY showContactPane2.accesskey                     "n">
 <!ENTITY menu_ShowNameAs.label                          "Taispeáin Ainm Mar">
 <!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
@@ -129,7 +129,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 <!-- Address Book Toolbar and Context Menus -->
 
-<!ENTITY newContactButton.label                         "Teagmháil Nua">
+<!ENTITY newContactButton.label                         "Teagmhálaí Nua">
 <!ENTITY newContactButton.accesskey                     "T">
 <!ENTITY newlistButton.label                            "Liosta Nua">
 <!ENTITY newlistButton.accesskey                        "t">
@@ -145,7 +145,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "S">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newContactButton.tooltip                       "Cruthaigh teagmháil nua sa leabhar seoltaí">
+<!ENTITY newContactButton.tooltip                       "Cruthaigh teagmhálaí nua sa leabhar seoltaí">
 <!ENTITY newlistButton.tooltip                          "Cruthaigh liosta nua">
 <!ENTITY editButton2.tooltip                            "Cuir an mhír roghnaithe in eagar">
 <!ENTITY newmsgButton.tooltip                           "Seol teachtaireacht ríomhphoist">
@@ -200,7 +200,7 @@ because displayed names don't have the comma in between. -->
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
-<!ENTITY contact.heading                                "Teagmháil">
+<!ENTITY contact.heading                                "Teagmhálaí">
 <!ENTITY home.heading                                   "Baile">
 <!ENTITY other.heading                                  "Eile">
 <!ENTITY chat.heading                                   "Comhrá">

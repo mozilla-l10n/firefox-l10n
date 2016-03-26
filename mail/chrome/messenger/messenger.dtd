@@ -34,8 +34,8 @@
 <!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY newFeedAccountCmd.label "Cuntas Fotha…">
 <!ENTITY newFeedAccountCmd.accesskey "t">
-<!ENTITY newIMContactCmd.label "Teagmháil Chomhrá…">
-<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY newIMContactCmd.label "Teagmhálaí Comhrá…">
+<!ENTITY newIMContactCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Oscail Teachtaireacht Shábháilte…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Sábháil Mar">
@@ -584,7 +584,7 @@
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Teachtaireacht Nua">
-<!ENTITY appmenuNewContactCmd.label "Teagmháil sa Leabhar Seoltaí…">
+<!ENTITY appmenuNewContactCmd.label "Teagmhálaí sa Leabhar Seoltaí…">
 <!ENTITY appmenuEditMenu.label "Eagar">
 <!ENTITY appmenuToolbarLayout.label "Leagan Amach an Bharra Uirlisí…">
 <!ENTITY appmenuSelectThread.label "Roghnaigh Snáithe">
@@ -844,9 +844,9 @@
 <!ENTITY AddToAddressBook.accesskey "b">
 <!ENTITY AddDirectlyToAddressBook.label "Cuir sa Leabhar Seoltaí">
 <!ENTITY AddDirectlyToAddressBook.accesskey "b">
-<!ENTITY EditContact1.label "Cuir Teagmháil in Eagar">
+<!ENTITY EditContact1.label "Cuir Teagmhálaí in Eagar">
 <!ENTITY EditContact1.accesskey "E">
-<!ENTITY ViewContact.label "Amharc ar an Teagmháil">
+<!ENTITY ViewContact.label "Amharc ar an Teagmhálaí">
 <!ENTITY ViewContact.accesskey "m">
 <!ENTITY SubscribeToNewsgroup.label "Liostáil le Grúpa Nuachta">
 <!ENTITY SubscribeToNewsgroup.accesskey "N">
