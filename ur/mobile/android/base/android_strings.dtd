@@ -13,7 +13,7 @@
 <!ENTITY firstrun_urlbar_message "&brandShortName; میں خوش آمدید">
 <!ENTITY firstrun_urlbar_subtext "چیزوں کو جلدی ڈھونڈیں مددگار تلاش کردہ تجاویز اورتیز راہیں کے ساتھ">
 <!ENTITY firstrun_bookmarks_title "سابقات">
-
+<!ENTITY firstrun_bookmarks_message "آپکے پسندیدہ، سامنہ اور مرکز">
 <!ENTITY firstrun_bookmarks_subtext "نتائج حاصل کریں اپنی نشانیاں اور سابقات سے جب آپ تلاش کریں۔">
 <!ENTITY firstrun_data_title "کوائف">
 <!ENTITY firstrun_data_message "کمتر کوائف، مزیدبچت">
@@ -209,7 +209,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "پتہ یا تلاش کی اصطلاح داخل کریں کریں">
+<!ENTITY home_homepage_hint_user_address "پتہ یا تلاش کی اصطلاح داخل کریں">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_general "عمومی">
@@ -270,6 +270,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 ٹیب انتظار کر رہا ہے">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "\&quot;ایک سے زیادہ لنک کھولنے\&quot; کے لئے، براہ مہربانی \u0027Draw over other apps\u0027 &brandShortName; کے لئے اجازت کو اہل بنائے">
 
 <!ENTITY pref_char_encoding "کریکٹر ضابطہ بندی">
 <!ENTITY pref_char_encoding_on "مینیو دکھائیں">
@@ -538,7 +540,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "آپ کی حالیہ ٹیبیں ادھر دکھائی دیتی ہیں۔">
 <!ENTITY home_open_all "تمام کھولیں">
 <!ENTITY home_most_recent_empty "آپ کی حال ہی میں ملاحظہ کی گئی ویب سائٹیں یہاں نظر آتی ہیں۔">
-
+<!ENTITY home_selected_empty "آپ کے منتخب کردہ وقت کے فریم میں دورہ کی ہوئی ویب سائٹس یہاں نظر آئیں گی۔">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "بات سنیں: &formatS1;نیا نجی ٹیب&formatS2; کا استعمال آپ کے سابقات محفوظ نہیں کرے گا۔">
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "اس پینل کے لیے کوئی مواد نہیں ملا۔">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "&formatS; تک">
 
 <!ENTITY home_remote_tabs_title "ہمہ وقت ساز ٹیب">
 <!ENTITY home_remote_tabs_empty "دیگر آلات سے آپ کے ٹیب یہاں نظر آتے ہیں۔">
@@ -599,7 +603,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "قابل بھروسا کنکشن">
 <!ENTITY identity_connection_insecure "ناقابل بھروسا کنکشن">
 <!ENTITY identity_login_insecure "یہ صفحہ قابل بھروسا نہیں ہے اور آپ کے لاگ ان زد پزیر ہو سکتا ہیں۔">
-
+<!ENTITY identity_connection_chromeui "یہ ایک قابل بھروسا &brandShortName; صفحہ ہے">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; نے اس صفحہ پر ناقابل بھروسا عناصر بلاک کر دیا ہیں۔">
@@ -623,6 +627,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "نجی کوائف ہٹا دیئے گئے">
 <!ENTITY private_data_fail "کچھ نجی کوائف ہٹائے نہیں جا سکے">
 
+<!ENTITY bookmarkhistory_button_import "درآمد کریں">
 <!ENTITY bookmarkhistory_import_both "اینڈروائڈ سے نشانیاں اور سابقات  
  درآمد کر رہا ہے">
 <!ENTITY bookmarkhistory_import_bookmarks "اینڈروائڈ سے نشانیاں 
@@ -661,7 +666,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "مسلیں اور تازہکاری کو ڈاؤن لوڈ کرنے کے لئے &brandShortName; کو اجازت دیں کے ذخیرہ کو رسائی حاصل کر سکے۔">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "اجازت دے">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "نئی مہمان سیشن">
@@ -736,16 +744,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "ایڈ اون">
+<!ENTITY restrictable_feature_addons_installation_description "فیچر یا فعلیت کا Firefox میں اضافہ کریں۔ نوٹ: ایڈ اون کچھ پابندیوں کو نا اہل بنا سکتا ہے۔">
 <!ENTITY restrictable_feature_private_browsing "نجی براوزنگ">
-
-
-
-
-
-
-
-
-
+<!ENTITY restrictable_feature_private_browsing_description "خاندان کے ارکان کو اجازت دیں براؤز کرنے کی معلومات محفوظ کییے بغیر ان صفحات کی جو انھوں نے ملاحظہ کیے۔">
+<!ENTITY restrictable_feature_clear_history "سابقات صاف کریں">
+<!ENTITY restrictable_feature_clear_history_description "خاندان کے ارکان کو اجازت دیں کہ معلومات حذف کریں ان سائٹس اور صفحات کی جو ملاحظہ کیے گۓ۔">
+<!ENTITY restrictable_feature_advanced_settings "اعلٰی سیٹنگیں">
+<!ENTITY restrictable_feature_advanced_settings_description "اس میں نشانیاں کو درآمد کرنا شامل ہے ، ٹیبیں کو بحال کرنا اور خودکار کردہ تازہ کاری کرنا۔ آف کردیں آسان کردہ سیٹنگیں کو ناکۃ کسی بھی خاندان کے رکن کے لئے موزوں۔">
+<!ENTITY restrictable_feature_camera_microphone "کیمرہ اور مائیکروفون">
+<!ENTITY restrictable_feature_camera_microphone_description "خاندان کے ارکان ویب سائٹس پر اصل وقت مواصلات میں مشغول کرنے کی اجازت دیتا ہے۔">
+<!ENTITY restrictable_feature_block_list "بلاک کرنے کی فہرست">
+<!ENTITY restrictable_feature_block_list_description "ویب سائٹس کو بلاک کریں جس پر حساس مواد شامل ہو">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -762,7 +772,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "معذرت! یہ &brandShortName; اس آلہ پر کام نہیں کریگا (&formatS1;, &formatS2;)۔ براہ مہربانی صحیح ورزن ڈاونلوڈ لرے۔">
 
+<!ENTITY eol_notification_title2 "&brandShortName; اب تازہ کاری نہیں کرے گا">
+<!ENTITY eol_notification_summary "مزید سیکھنے کے لیے یہاں کلک کریں">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; تازہ ترین ہے">
+<!ENTITY whatsnew_notification_summary "ڈھونڈیں اس ورژن میں کیا نیا ہے">

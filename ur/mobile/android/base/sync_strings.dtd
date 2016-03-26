@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ای میل">
-
+<!ENTITY fxaccount_password_hint "پاس ورڈ">
 <!ENTITY fxaccount_password_hide "چھپائیں">
 <!ENTITY fxaccount_password_show "دکھائیں">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; سیٹ کردیا گیا ہے، لیکن خود بخود ہمہ وار نہیں کر رہا ہے۔ “خود-ہمہ وار کوائف” کو انڈروایڈ &gt; کوائف استعمال کی سیٹنگیں میں ٹوگل کریں۔">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; سیٹ کردیا گیا ہے، لیکن خود بخود ہمہ وار نہیں کر رہا ہے۔ “خود-ہمہ وار کوائف” کو مینیو کے انڈروایڈ &gt; اکاؤنٹس کی سیٹنگیں میں ٹوگل کریں۔">
 <!ENTITY fxaccount_status_needs_finish_migrating "اپنے نئے فائر فاکس اکاؤنٹ میں سائن ان کرنے کے لیے کلک کریں۔">
-
+<!ENTITY fxaccount_status_bookmarks "نشانیاں">
 <!ENTITY fxaccount_status_history "سابقات">
 <!ENTITY fxaccount_status_passwords2 "لاگ ان">
 <!ENTITY fxaccount_status_tabs "ٹیب کھولیے">
@@ -207,3 +207,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
+<!ENTITY old_sync_deprecated_notification_title "ہمہ سازی جاری رکھنے کے لیئے سائن ان کریں">
+<!ENTITY old_sync_deprecated_notification_content "آپکا اکاؤنٹ اب مزید معاونت شدہ نہی ہے">
