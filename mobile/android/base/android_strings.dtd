@@ -776,4 +776,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY eol_notification_summary "আরও জানতে ট্যাপ করুন">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+<!ENTITY whatsnew_notification_title "&brandShortName; হালনাগাদ করা হয়েছে">
 <!ENTITY whatsnew_notification_summary "এই সংস্করণে নতুন কি আছে খুঁজে বের করুন">
