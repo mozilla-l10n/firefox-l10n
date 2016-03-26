@@ -113,8 +113,8 @@
 <!ENTITY certs.auto.accesskey            "e">
 <!ENTITY certs.ask                       "Spør meg kvar gong">
 <!ENTITY certs.ask.accesskey             "S">
-<!ENTITY enableOCSP.label                "Spør OCSP-servere om å stadfesta gyldigheita til sertifikat">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.label                "Spør OCSP-tenarar om å stadfesta gyldigheita til sertifikat">
+<!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "Vis sertifikat">
 <!ENTITY viewCerts.accesskey             "V">
 <!ENTITY viewSecurityDevices.label       "Tryggingseiningar">

@@ -19,7 +19,7 @@
 <!ENTITY TextAreaTabIndex.label "Tabulatorindeks:">
 <!ENTITY TextAreaTabIndex.accessKey "i">
 <!ENTITY TextAreaAccessKey.label "Snøggtast:">
-<!ENTITY TextAreaAccessKey.accessKey "H">
+<!ENTITY TextAreaAccessKey.accessKey "S">
 <!ENTITY InitialText.label "Opphavleg tekst:">
 <!ENTITY InitialText.accessKey "O">
 

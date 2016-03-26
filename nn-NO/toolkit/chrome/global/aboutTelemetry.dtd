@@ -52,6 +52,9 @@ Vel ping:
 Eldre ping &gt;&gt;
 ">
 
+<!ENTITY aboutTelemetry.rawPingData "
+Rå ping-data …">
+
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Veke">
 
@@ -98,8 +101,9 @@ Ping
 <!ENTITY aboutTelemetry.lateWritesSection "
   Sein skriving">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Systeminfo">
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Øktinformasjon
+">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   Histogram samla av utvidingar
@@ -124,4 +128,8 @@ Ping
 
 <!ENTITY aboutTelemetry.filterText "
   Filtrer (strengar eller /regexp/)
+">
+
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Nyttelast
 ">

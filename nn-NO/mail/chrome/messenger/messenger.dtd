@@ -8,11 +8,11 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappe …">
 <!ENTITY newFolderCmd.accesskey "e">
-<!ENTITY closeTabCmd2.label "Lukk fane">
+<!ENTITY closeTabCmd2.label "Lat att">
 <!ENTITY closeTabCmd2.accesskey "L">
-<!ENTITY closeOtherTabsCmd2.label "Lukk andre faner">
+<!ENTITY closeOtherTabsCmd2.label "Lat att andre faner">
 <!ENTITY closeOtherTabsCmd2.accesskey "a">
-<!ENTITY recentlyClosedTabsCmd.label "Nyleg lukka faner">
+<!ENTITY recentlyClosedTabsCmd.label "Nyleg attlatne faner">
 <!ENTITY recentlyClosedTabsCmd.accesskey "N">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
@@ -171,7 +171,7 @@
 <!ENTITY sortByDateCmd.label "Dato">
 <!ENTITY sortByDateCmd.accesskey "o">
 <!ENTITY sortByReceivedCmd.label "Motteke">
-<!ENTITY sortByReceivedCmd.accesskey "a">
+<!ENTITY sortByReceivedCmd.accesskey "e">
 <!ENTITY sortByStarCmd.label "Stjerne">
 <!ENTITY sortByStarCmd.accesskey "n">
 <!ENTITY sortByAttachmentsCmd.label "Vedlegg">
@@ -319,7 +319,7 @@
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Mappe">
 <!ENTITY folderMenu.accesskey "M">
-<!ENTITY goRecentlyClosedTabs.label "Nyleg lukka faner">
+<!ENTITY goRecentlyClosedTabs.label "Nyleg attlatne faner">
 <!ENTITY goRecentlyClosedTabs.accesskey "N">
 <!ENTITY startPageCmd.label "Startside">
 <!ENTITY startPageCmd.accesskey "S">
@@ -813,10 +813,10 @@
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
+     not changed
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (search.label.base):
+<!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box.  We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
@@ -825,7 +825,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Søk … #1">
+<!ENTITY search.label.base1 "Søk #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -854,6 +854,8 @@
 <!ENTITY SendMessageTo.accesskey "k">
 <!ENTITY CopyEmailAddress.label "Kopier e-postadresse">
 <!ENTITY CopyEmailAddress.accesskey "K">
+<!ENTITY CopyNameAndEmailAddress.label "Kopier namn og e-postadresse">
+<!ENTITY CopyNameAndEmailAddress.accesskey "o">
 <!ENTITY CopyNewsgroupName.label "Kopier nyhendegruppenamn">
 <!ENTITY CopyNewsgroupName.accesskey "o">
 <!ENTITY CopyNewsgroupURL.label "Kopier adresse til nyhendegruppe">
