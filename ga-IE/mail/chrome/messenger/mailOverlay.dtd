@@ -7,5 +7,5 @@
 <!ENTITY  newMessageCmd.label             "Teachtaireacht">
 <!ENTITY  newMessageCmd.accesskey         "T">
  
-<!ENTITY  newContactCmd.label             "Teagmháil Leabhair Seoltaí…">
+<!ENTITY  newContactCmd.label             "Teagmhálaí sa Leabhair Seoltaí…">
 <!ENTITY  newContactCmd.accesskey         "T">

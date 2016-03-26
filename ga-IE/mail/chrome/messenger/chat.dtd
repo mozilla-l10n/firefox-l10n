@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY onlineContactsHeader.label    "Teagmhálacha ar líne">
-<!ENTITY offlineContactsHeader.label   "Teagmhálacha as líne">
+<!ENTITY onlineContactsHeader.label    "Teagmhálaithe ar líne">
+<!ENTITY offlineContactsHeader.label   "Teagmhálaithe as líne">
 <!ENTITY conversationsHeader.label     "Comhráite">
 <!ENTITY searchResultConversation.label "Toradh cuardaigh">
 <!ENTITY chat.noConv.title             "Taispeánfar comhráite anseo.">
-<!ENTITY chat.noConv.description       "Úsáid an liosta sa phainéal ar chlé chun comhrá a thosú.">
-<!ENTITY chat.noPreviousConv.description       "Níl aon chomhrá leis an duine seo sábháilte ag &brandShortName; faoi láthair">
+<!ENTITY chat.noConv.description       "Úsáid an liosta teagmhálaithe sa phainéal ar chlé chun comhrá a thosú.">
+<!ENTITY chat.noPreviousConv.description       "Níl aon chomhrá leis an duine seo sábháilte ag &brandShortName; faoi láthair.">
 <!ENTITY chat.noAccount.title             "Níl cuntas comhrá socraithe agat fós.">
 <!ENTITY chat.noAccount.description       "Lig do &brandShortName; a bheith do do threorú agus do chuntas comhrá á shocrú.">
 <!ENTITY chat.accountWizard.button       "Tús maith">
@@ -26,7 +26,7 @@
 <!ENTITY closeConversationCmd.accesskey "D">
 <!ENTITY aliasCmd.label                "Athainmnigh">
 <!ENTITY aliasCmd.accesskey            "A">
-<!ENTITY deleteCmd.label               "Bain Teagmháil">
+<!ENTITY deleteCmd.label               "Bain an Teagmhálaí">
 <!ENTITY deleteCmd.accesskey           "B">
 
 <!ENTITY openConversationButton.tooltip  "Tosaigh comhrá">

@@ -22,7 +22,7 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Abair liom faoi theachtaireachtaí nua">
 <!ENTITY accountAliasGroupbox.caption "Ailias Logánta">
 <!ENTITY accountAliasField.label      "Ailias:">
-<!ENTITY accountAliasInfo.label       "Ní thaispeánfar é seo ach nuair a bheidh comhrá agat; ní fheicfidh teagmhálacha i gcein é.">
+<!ENTITY accountAliasInfo.label       "Ní thaispeánfar é seo ach nuair a bheidh comhrá agat; ní fheicfidh teagmhálaithe i gcein é.">
 <!ENTITY accountProxySettings.caption "Socruithe an tSeachfhreastalaí">
 <!ENTITY accountProxySettings.change.label     "Athraigh…">
 <!ENTITY accountProxySettings.change.accessKey "A">
