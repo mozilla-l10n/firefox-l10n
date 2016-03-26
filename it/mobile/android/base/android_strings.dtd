@@ -106,6 +106,9 @@
 <!ENTITY pref_search_hint "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca e poi toccando l’icona &formatI;.">
 <!ENTITY pref_category_advanced "Avanzate">
 <!ENTITY pref_category_advanced_summary2 "Ripristino schede, plugin, strumenti di sviluppo">
+<!ENTITY pref_category_notifications "Notifiche">
+<!ENTITY pref_content_notifications "Aggiornamenti siti web">
+<!ENTITY pref_content_notifications_summary "Consenti notifiche dai siti web supportati">
 <!ENTITY pref_developer_remotedebugging_usb "Debug remoto tramite USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debug remoto tramite Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Il debug tramite Wi-Fi richiede la presenza sul dispositivo di un’app per la scansione di codici QR.">
