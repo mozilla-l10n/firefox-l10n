@@ -103,7 +103,7 @@
 <!ENTITY pref_category_search_restore_defaults "Ripristina motori di ricerca">
 <!ENTITY pref_search_restore_defaults "Ripristina predefiniti">
 <!ENTITY pref_search_restore_defaults_summary "Ripristina predefiniti">
-<!ENTITY pref_search_hint "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca e poi toccando l’icona &formatI;.">
+<!ENTITY pref_search_hint2 "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca e poi toccando l’icona &formatI;.">
 <!ENTITY pref_category_advanced "Avanzate">
 <!ENTITY pref_category_advanced_summary2 "Ripristino schede, plugin, strumenti di sviluppo">
 <!ENTITY pref_category_notifications "Notifiche">
@@ -179,7 +179,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Selezionare i dati da eliminare">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Attivati">
-<!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
+<!ENTITY pref_plugins_tap_to_play2 "Tocca per avviare">
 <!ENTITY pref_plugins_disabled "Disattivati">
 <!ENTITY pref_text_size "Dimensioni testo">
 <!ENTITY pref_restore_tabs "Ripristina schede">
@@ -309,7 +309,7 @@
 <!ENTITY doorhanger_login_select_action_text "Seleziona un altro accesso">
 <!ENTITY doorhanger_login_select_title "Copia password da">
 <!ENTITY pref_magnifying_glass_enabled "Ingrandisci aree piccole">
-<!ENTITY pref_magnifying_glass_enabled_summary "Ingrandisci link e campi dei moduli quando si tocca l’area circostante.">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Ingrandisci link e campi dei moduli quando si tocca l’area circostante.">
 <!ENTITY pref_scroll_title_bar2 "Navigazione a schermo intero">
 <!ENTITY pref_scroll_title_bar_summary2 "Nascondi la barra degli strumenti di &brandShortName; quando si scorre una pagina verso il basso">
 <!ENTITY pref_tab_queue_title3 "Accoda schede">
