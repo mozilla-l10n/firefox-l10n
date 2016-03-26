@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "Ruto'onel k'amoj">
 
-<!ENTITY importFrom.label               "Ruk'amik cha'oj, taq etal, b'anob'äl, ewan taq tzij chuqa' juley chik taq rutzij:">
-<!ENTITY importFromUnix.label           "Kek'am taq  cha'oj, taq etal, b'anob'äl, ewan taq tzij chuqa' juley chik taq rutzij:">
+<!ENTITY importFrom.label               "Ruk'amik cha'oj, taq etal, natab'äl, ewan taq tzij chuqa' juley chik taq rutzij:">
+<!ENTITY importFromUnix.label           "Kek'am taq cha'oj, taq etal, natab'äl, ewan taq tzij chuqa' juley chik taq rutzij:">
 <!ENTITY importFromBookmarks.label      "Kek'am taq ch'aoj pa:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -28,7 +28,7 @@
 <!ENTITY importFrom360se.label          "360 Ütz chi k'amaya'l">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Man tikirel ta xe'ilitäj taq cholkema' ri k'o taq etal, b'anob'äl o taq ruwäch ewan taq tzij.">
+<!ENTITY noMigrationSources.label       "Man tikirel ta xe'ilitäj taq cholkema' ri k'o taq etal, natab'äl o taq ruwäch ewan taq tzij.">
 
 <!ENTITY importSource.title             "Kek'am runuk'ulem chuqa' taq tzij">
 <!ENTITY importItems.title              "Taq ruch'akulal xkek'am">

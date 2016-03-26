@@ -196,7 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "We ri awokisaxel nuk'utuj jun token pa ruk'exel nuch'öb' jun QR b'itz'ib', tawachib'ej ri retal pa xulan pa ri jun chik awokisaxel:">
-
+<!ENTITY wifi_auth_qr_size_note "We ri QR b'itz'ib' nitz'et chi yalan ko'öl richin nichojmirisatäj ri ütz okem pa k'amaya'l, tatojtob'ej nanimirisaj ri runimilem tzuwäch o ri rupam.">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Taq kitz'ib'axik taq k'utuxïk chuwäch yepis">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title          "Taq ajowab'äl richin rujosq'ixik ri k'ulwachinel">
+<!ENTITY sanitizePrefs2.title          "Taq ajowab'äl richin nijosq'ïx ri natab'äl">
 <!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
      Should be large enough to contain the item* strings on a single line.
      The column width should be set at half of the dialog width. -->
@@ -17,7 +17,7 @@
 <!ENTITY sanitizePrefs2.inContent.dialog.width "34em">
 <!ENTITY sanitizePrefs2.inContent.column.width "24em">
 
-<!ENTITY sanitizeDialog2.title         "Tiyuj ri k'ak'a' k'ulwachinel">
+<!ENTITY sanitizeDialog2.title         "Tiyuj ri k'ak'a' natab'äl">
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
@@ -48,9 +48,9 @@ that require it.  -->
 <!ENTITY historySection.label         "Natab’äl">
 <!ENTITY dataSection.label            "Taq tzij">
 
-<!ENTITY itemHistoryAndDownloads.label     "Kik'ulwachinel ri okem pa k'amaya'l chuqa' taq qasanïk">
+<!ENTITY itemHistoryAndDownloads.label     "Kinatab'al ri okem pa k'amaya'l chuqa' taq qasanïk">
 <!ENTITY itemHistoryAndDownloads.accesskey "o">
-<!ENTITY itemFormSearchHistory.label       "Taq nojwuj chuqa' taq kanoxïk kik'ulwachinel ">
+<!ENTITY itemFormSearchHistory.label       "Kinatab'al Taq nojwuj chuqa' taq kanob'äl">
 <!ENTITY itemFormSearchHistory.accesskey   "n">
 <!ENTITY itemCookies.label                 "Taq kuki">
 <!ENTITY itemCookies.accesskey             "k">

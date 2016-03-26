@@ -1,12 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY devmgr.title                           "Kinuk'samajel taq okisaxel">
 <!-- LOCALIZATION NOTE (devmgr.style): This is CSS style for Device Manager
      window size. Don't translate "width" nor "height". Adjust the numbers
      to make window contents fit. -->
 <!ENTITY devmgr.style                           "width: 52em; height: 32em;">
 
-
+<!ENTITY devmgr.devlist.label                   "Taq rujuperaj jikomal chuqa' taq okisaxel">
+<!ENTITY devmgr.details.title                   "Taq b'anikil">
 <!ENTITY devmgr.details.title2                  "Retal">
 
 <!ENTITY devmgr.button.login.label              "Titikirisäx molojri'ïl">
@@ -23,10 +26,10 @@
 
 <!ENTITY loaddevice.info                        "Tatz'ib'aj ri etamab'äl richin ri juperaj nawajo' natz'aqatisaj.">
 <!ENTITY loaddevice.modname                     "Rub'i' juperaj:">
-
+<!ENTITY loaddevice.modname.accesskey           "K">
 <!ENTITY loaddevice.modname.default             "K'ak'a' PKCS#11 Juperaj">
 <!ENTITY loaddevice.filename                    "Ruyakb'al juperaj:">
-
+<!ENTITY loaddevice.filename.accesskey          "a">
 <!ENTITY loaddevice.browse                      "Tinik'öx…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

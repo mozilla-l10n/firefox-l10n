@@ -175,8 +175,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Rutzolixik jun ruxaq">
 <!ENTITY forwardCmd.label             "Jun chik">
 <!ENTITY forwardButton.tooltip        "Jun chik ruxaq">
-<!ENTITY backForwardButtonMenu.tooltip "Tapitz'a' ruka'n ruwi' ri ch'oy, taqirirej pa xulan richin natz'ët ri retal samajin">
-<!ENTITY backForwardButtonMenuMac.tooltip "Taqirirej richin niq'alajin pe ri retal samajin">
+<!ENTITY backForwardButtonMenu.tooltip "Tapitz'a' ruka'n ruwi' ri ch'oy, taqirirej pa xulan richin natz'ët ri natab'äl">
+<!ENTITY backForwardButtonMenuMac.tooltip "Taqirirej richin niq'alajin pe ri natab'äl">
 <!ENTITY reloadCmd.label              "Tisamajib'ëx chik">
 <!ENTITY reloadButton.tooltip         "Rukamulokem re jun ruxaq re'">
 <!ENTITY stopCmd.label                "Tiq'at">
@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Tinuk'samajïx rutzalq'omaxik re ruxaq k'amaya'l">
 <!ENTITY urlbar.emeNotificationAnchor.label             "Tinuk'samajïx rokisaxik DRM kema'">
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Tik'ut pe ri k'ulwachixel">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Tik'ut pe ri natab'äl">
 
 <!ENTITY searchItem.title             "Rukanoxik">
 <!-- Toolbar items --> 
@@ -939,14 +939,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY panicButton.view.mainActionDesc          "Toq nib'an:">
 <!ENTITY panicButton.view.deleteCookies           "Xeyuj el ri k'ak'a' taq <html:strong>Kokis</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "Yeyuj el ri k'ak'a' <html:strong>k'ulwachinel</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Yeyuj el ri k'ak'a' <html:strong>natab'äl</html:strong>">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Yetz'apïx ri taq <html:strong>Taq wi'</html:strong> chuqa' <html:strong>Taq tzuwäch</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Tijaq jun k'ak'a' tzuwäch">
 
 <!ENTITY panicButton.view.undoWarning             "Man tikirel ta xtitzolïx chi rij re samaj re'.">
 <!ENTITY panicButton.view.forgetButton            "¡Tamestaj!">
 
-<!ENTITY panicButton.thankyou.msg1                "Xyujtäj el ri k'ak'a' k'ulwachinel.">
+<!ENTITY panicButton.thankyou.msg1                "Xyujtäj el ri k'ak'a' natab'äl.">
 <!ENTITY panicButton.thankyou.msg2                "¡Tachajij awi' richin yatok pa k'amaya'l!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Matyox!">
 

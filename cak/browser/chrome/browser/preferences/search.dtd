@@ -11,7 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "Kek'ut pe taq ruchilab'enik kanoxïk chi kikojol ri kikajtz'ik taq ochochib'äl">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri &brandShortName; richin majub'ey tunataj ri ak'ulwachixel.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri &brandShortName; richin majub'ey tunataj ri anatab'al.">
 
 <!ENTITY redirectWindowsSearch.label "Tokisäx re rusamajinel kanoxik richin nikanöx pa Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">

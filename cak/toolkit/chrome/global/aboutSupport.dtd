@@ -40,8 +40,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 "Update" is a noun here, not a verb. -->
 
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Rub'ey taq k'exoj ruwäch">
-<!ENTITY aboutSupport.appBasicsUpdateHistory "Ruk'ulwachinel taq k'exoj ruwäch">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Tik'ut pe ri ruk'ulwachinel taq k'exoj ruwäch">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Kinatab'al taq k'exoj ruwäch">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Tik'ut pe ri runatab'all taq k'exoj ruwäch">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Rucholb'äl Ruwäch B'i'aj">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -96,8 +96,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Taq ruwäch richin wujb'äl">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Ruk'ulwachinem ya'ïk rupam">
-<!ENTITY aboutSupport.updateHistoryTitle "Ruk'ulwachinem taq k'exoj ruwäch">
+<!ENTITY aboutSupport.installationHistoryTitle "Runatab'al yakïk chupam">
+<!ENTITY aboutSupport.updateHistoryTitle "Runatab'al taq k'exoj ruwäch">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Tiwachib'ëx ri rucholajem tzij pa molwuj">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Tiwachib'ëx taq nimaläj taq tzij pa molwuj">
