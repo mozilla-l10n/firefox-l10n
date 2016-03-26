@@ -744,9 +744,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "ส่วนเสริม">
 <!ENTITY restrictable_feature_addons_installation_description "เพิ่มคุณลักษณะหรือฟังก์ชันการทำงานให้กับ Firefox หมายเหตุ: ส่วนเสริมสามารถปิดใช้งานข้อจำกัดบางอย่าง">
 <!ENTITY restrictable_feature_private_browsing "การท่องเว็บแบบส่วนตัว">
-
+<!ENTITY restrictable_feature_private_browsing_description "อนุญาตให้สมาชิกในครอบครัวท่องเว็บโดยไม่บันทึกข้อมูลเกี่ยวกับไซต์และหน้าที่พวกเขาเยี่ยมชม">
 <!ENTITY restrictable_feature_clear_history "ล้างประวัติ">
-
+<!ENTITY restrictable_feature_clear_history_description "อนุญาตให้สมาชิกในครอบครัวลบข้อมูลเกี่ยวกับไซต์และหน้าที่พวกเขาเยี่ยมชม">
 <!ENTITY restrictable_feature_advanced_settings "การตั้งค่าขั้นสูง">
 
 <!ENTITY restrictable_feature_camera_microphone "กล้องและไมโครโฟน">
