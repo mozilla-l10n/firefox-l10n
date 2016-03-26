@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ই-মেইল">
-
+<!ENTITY fxaccount_password_hint "পাসওয়ার্ড">
 <!ENTITY fxaccount_password_hide "আড়াল">
 <!ENTITY fxaccount_password_show "প্রদর্শন করুন">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; সেট আপ করা হয়েছে, কিন্তু স্বয়ংক্রিয়ভাবে সিঙ্ক হয়নি। অ্যান্ড্রয়েড সেটিংসে “Auto-sync data” টগল করুন &gt; একাউন্ট।">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; সেট আপ করা হয়েছে, কিন্তু স্বয়ংক্রিয়ভাবে সিঙ্ক হয়নি। অ্যান্ড্রয়েড সেটিংসে “Auto-sync data” টগল করুন &gt; একাউন্ট।">
 <!ENTITY fxaccount_status_needs_finish_migrating "আপনার নতুন Firefox অ্যাকাউন্টে সাইন ইন করবার জন্য ট্যাপ করুন।">
-
+<!ENTITY fxaccount_status_bookmarks "বুকমার্কসমূহ">
 <!ENTITY fxaccount_status_history "ইতিহাস">
 <!ENTITY fxaccount_status_passwords2 "লগইন">
 <!ENTITY fxaccount_status_tabs "উন্মুক্ত ট্যাবগুলি">
