@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "ถอนการติดตั้ง">
 <!ENTITY addonAction.undo                       "เลิกทำ">
 
+<!ENTITY addonUnsigned.message                  "ส่วนเสริมนี้ไม่สามารถยืนยันโดย &brandShortName;">
 <!ENTITY addonUnsigned.learnMore                "เรียนรู้เพิ่มเติม">
