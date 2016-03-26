@@ -38,7 +38,7 @@
 
 
 
-
+<!ENTITY  crash_restart_label "Herbegin &brandShortName;">
 <!ENTITY  exit_label "Afsluit">
 
 
@@ -260,6 +260,7 @@ size. -->
 
 
 
+<!ENTITY pref_use_master_password "Gebruik \u0027n meesterwagwoord">
 
 
 
@@ -272,11 +273,13 @@ size. -->
 
 
 <!ENTITY pref_private_data_cache "Kas">
+<!ENTITY pref_private_data_offlineApps "Vanlyn webwerfdata">
 
 
 
 
 
+<!ENTITY pref_about_firefox "Aangaande &brandShorterName;">
 
 
 
@@ -330,7 +333,7 @@ size. -->
 
 
 
-
+<!ENTITY tools "Nutsgoed">
 <!ENTITY new_tab "Nuwe oortjie">
 
 
@@ -352,6 +355,7 @@ size. -->
 <!ENTITY media_pause "Laat wag">
 
 
+<!ENTITY contextmenu_open_new_tab "Open in nuwe oortjie">
 
 
 
@@ -415,7 +419,7 @@ size. -->
 
 <!ENTITY masterpassword_remove_title "Verwyder meesterwagwoord">
 
-
+<!ENTITY masterpassword_confirm "Bevestig wagwoord">
 
 <!ENTITY button_ok "OK">
 
