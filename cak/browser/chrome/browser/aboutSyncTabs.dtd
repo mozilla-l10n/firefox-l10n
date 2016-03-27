@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabs.otherDevices.label               "Tar ruwi' juley chik taq samajib'äl ">
+<!ENTITY tabs.otherDevices.label               "Taq kiwi' juley chik taq okisaxel">
 
-<!ENTITY tabs.searchText.label                   "Katz'ib'an wawe richin nakanoj ri ruwi'… ">
+<!ENTITY tabs.searchText.label                   "Katz'ib'an wawe richin ye'akanoj taq ruwi'…">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 
-<!ENTITY tabs.context.openTab.label                   "Qitzij, re k'ayewal jub'a'. ">
-<!ENTITY tabs.context.openTab.accesskey               "O">
-<!ENTITY tabs.context.openMultipleTabs.label          "Rujaqij taq ruwi' echa'on ">
-<!ENTITY tabs.context.openMultipleTabs.accesskey      "O">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "Rutaqik re ruwi' re pa samajib'äl… ">
-<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Taq ruwi' samajib'äl echa'on… ">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
-<!ENTITY tabs.context.refreshList.label               "Ruchojmirisaxik rucholajem ">
-<!ENTITY tabs.context.refreshList.accesskey           "R">
+<!ENTITY tabs.context.openTab.label                   "Tijaq re ruwi' re'">
+<!ENTITY tabs.context.openTab.accesskey               "T">
+<!ENTITY tabs.context.openMultipleTabs.label          "Kejaq ri cha'on taq ruwi'">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "K">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Titaq re ruwi' re' pa taq etal…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "e">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Ketz'aqatisäx pa taq etal ri cha'on taq ruwi'…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "t">
+<!ENTITY tabs.context.refreshList.label               "Tik'ex ruwäch ri rucholajem">
+<!ENTITY tabs.context.refreshList.accesskey           "T">

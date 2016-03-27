@@ -2,37 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Ruchojmirisaxik ri ch'utisamaj ">
+<!ENTITY restorepage.tabtitle       "Tichojmirisäx molojri'ïl">
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "K'ayew jub'a' rere'. ">
-<!ENTITY restorepage.problemDesc    "&brandShortName; k'ayew nub'än chuwäch nok chi jub'ey chupam ri taq ruwi' chuqa' taq ruwäch. Rere' nib'anatäj toq nab'ey xatok chupam jun ruxaq k'amaya'l. ">
-<!ENTITY restorepage.tryThis        "Tikirel natojtob'ej: ">
-<!ENTITY restorepage.restoreSome    "kelesaxik jun o junjun taq ruwi', ri nikiya' k'ayewal. ">
-<!ENTITY restorepage.startNew       "Rutikirixaxik jun chik k'ak'a' rusamajixik okem ">
+<!ENTITY restorepage.errorTitle     "K'ayew jub'a' rere'.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; k'ayew nub'än chuwäch nok chi jub'ey chupam ri taq ruwi' chuqa' taq ruwäch. Rere' nib'anatäj toq nab'ey xatok chupam jun ruxaq k'amaya'l.">
+<!ENTITY restorepage.tryThis        "Tikirel natojtob'ej:">
+<!ENTITY restorepage.restoreSome    "Kelesäx el ri ketal jun o junjun taq ruwi', ri nikiya' k'ayewal.">
+<!ENTITY restorepage.startNew       "Titikirisäx jun chik k'ak'a' chi molojri'ïl">
 
-<!ENTITY restorepage.tryagainButton "Ruchojmirisaxik ">
-<!ENTITY restorepage.restore.access "R ">
-<!ENTITY restorepage.closeButton    "Rutz’apixik ">
-<!ENTITY restorepage.close.access   "C ">
+<!ENTITY restorepage.tryagainButton "Tichojmirisäx">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.closeButton    "Titz'apïx">
+<!ENTITY restorepage.close.access   "C">
 
-<!ENTITY restorepage.restoreHeader  "Rutzolixik ">
-<!ENTITY restorepage.listHeader     "Taq ruwäch chuqa' taq ruwi' ">
+<!ENTITY restorepage.restoreHeader  "Titzolïx">
+<!ENTITY restorepage.listHeader     "Taq tzuwäch chuqa' taq ruwi'">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#037;S ">
+<!ENTITY restorepage.windowLabel    "Window &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
 
 
-<!ENTITY welcomeback2.restoreButton  "¡Katok! ">
-<!ENTITY welcomeback2.restoreButton.access "K ">
+<!ENTITY welcomeback2.restoreButton  "¡Katok!">
+<!ENTITY welcomeback2.restoreButton.access "L">
 
-<!ENTITY welcomeback2.tabtitle      "¡Xojtikïr! ">
+<!ENTITY welcomeback2.tabtitle      "¡Xojtikïr!">
 
-<!ENTITY welcomeback2.pageTitle     "¡Xojtikïr! ">
-<!ENTITY welcomeback2.pageInfo1     "&brandShortName; ütz chik richin tichap chik el. ">
+<!ENTITY welcomeback2.pageTitle     "¡Xojtikïr!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; ütz chik richin tichap chik el.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Ketzolïx chik kiwäch ri taq tzuwäch chuqa' taq ruwi' ">
 <!ENTITY welcomeback2.label.restoreSome "Xa xe jujun titzolïx kiwäch ">
