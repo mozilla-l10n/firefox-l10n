@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-mail">
-
+<!ENTITY fxaccount_password_hint "Gronidło">
 <!ENTITY fxaccount_password_hide "Schowaś">
 <!ENTITY fxaccount_password_show "Pokazaś">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; jo konfigurěrowany, ale njesynchronizěrujo awtomatiski. Zmóžniśo “Daty awtomatiski synchronizěrowaś” w Androidowych nastajenjach &gt; Wužywanje datow.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; jo konfigurěrowany, ale njesynchronizěrujo awtomatiski. Zmóžniśo “Daty awtomatiski synchronizěrowaś” w meniju Androidowe nastajenja a konta.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Pótusniśo, aby se pla swójogo nowego konta Firefox pśizjawił.">
-
+<!ENTITY fxaccount_status_bookmarks "Cytańske znamjenja">
 <!ENTITY fxaccount_status_history "Historija">
 <!ENTITY fxaccount_status_passwords2 "Pśizjawjenja">
 <!ENTITY fxaccount_status_tabs "Wócynjone rejtarki">

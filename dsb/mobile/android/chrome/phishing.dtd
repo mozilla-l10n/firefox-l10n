@@ -12,8 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Toś ten webbok na <span id='malware_sitename'/> jo se ako napadowy bok k wěsći dał a na zakłaźe wašych wěstotnych nastajenjow blokěrował.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Napadowe boki wopytuju programy instalěrowaś, kótarež kšadnu priwatne informacije, wužywaju wašo licadło, aby druge napadnuli abo waš system wobškóźeli.</p><p>Někotare napadowe boki rozdźěluju z wótglědom škódnu softwaru, ale wjele wobgrozujo se bźez wěźenja abo dowólnosći jich wobsejźarjow.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Wobšudnikojske sedło!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Toś ten webbok na <span id='phishing_sitename'/> jo se ako wobšudnikojske sedło k wěsći dał a na zakłaźe wašych wěstotnych nastajenjow blokěrował.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Wobšudnkojske sedła su za to myslone, was zawjedowaś, něco tšašnego cyniś, ako na pś. instalěrowanje softwary abo pśeraźowanje wašych wósobinskich datow, na pś. gronidłow, telefonowych numerow abo numerow kreditnych kórtow.</p><p>Gaž daty na toś tom webboku zapódajośo, móžo to ku kšadnjenjeju identity abo drugej wobšuźe wjasć.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Njewitane softwarowe sedło k wěsći dane!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
