@@ -15,7 +15,7 @@
 <!ENTITY daysOld.label "days old">
 <!ENTITY message.label "messages">
 <!ENTITY nntpNotDownloadRead.label "Read messages">
-<!ENTITY nntpNotDownloadRead.accesskey "d">
+<!ENTITY nntpNotDownloadRead.accesskey "R">
 <!ENTITY nntpDownloadMsg.label "Messages more than">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "To recover disc space, old messages can be permanently deleted.">
@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Delete all but the most recent">
 <!ENTITY retentionKeepRecent.accesskey "b">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
