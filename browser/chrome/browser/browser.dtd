@@ -416,13 +416,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Žedne wócynjone rejtarki">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Synchronizěrowanje rejtarkow zašaltowaś, aby se lisćina rejtarkow z drugich rědow pokazała.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Pśizjawśo se pla Firefox z drugich rědow, aby se jich rejtarki how woglědał.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastajenja synchronizěrowaś">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pla Sync pśizjawiś">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Bocnicu synchronizěrowanych rejtarkow pokazaś">
 
 <!ENTITY customizeMenu.addToToolbar.label "Symbolowej rědce pśidaś">
 <!ENTITY customizeMenu.addToToolbar.accesskey "S">
@@ -529,8 +531,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "b">
 <!ENTITY openFrameCmd.label           "Wobłuk w nowem woknje wócyniś">
 <!ENTITY openFrameCmd.accesskey       "c">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Wótkaz w nowem kontejnerowem rejtarku wócyniś">
+<!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Jano w toś tom wobłuku pokazaś">
 <!ENTITY showOnlyThisFrameCmd.accesskey "J">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -778,7 +780,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "z">
 <!ENTITY identity.learnMore "Dalšne informacije">
 
-
+<!ENTITY identity.removeCertException.label "Wuwześe wótpóraś">
+<!ENTITY identity.removeCertException.accesskey "W">
 
 <!ENTITY identity.moreInfoLinkText2 "Dalšne informacije">
 
@@ -792,17 +795,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Synchronizěrowane rejtarki">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Synchronizěrowane rejtarki">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Synchronizěrowane rejtarki se wobstaruju…">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Pśizjawśo se pla Firefox z drugich rědow, aby se jich rejtarki how woglědał.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Žedne wócynjone rejtarki">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Nastajenja &syncBrand.shortName.label; wócyniś">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Synchronizěrowanje rejtarkow zašaltowaś, aby se lisćina rejtarkow z drugich rědow pokazała.">
 
-
-
-
+<!ENTITY syncedTabs.context.openTab.label                   "Toś ten rejtark wócyniś">
+<!ENTITY syncedTabs.context.openTab.accesskey               "T">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Toś ten bok ako cytańske znamje składowaś…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "c">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
