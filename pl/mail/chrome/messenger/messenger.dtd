@@ -364,6 +364,8 @@
 <!ENTITY editAsNewMsgCmd.label "Edytuj jako nową wiadomość">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Edytuj szkic">
+<!ENTITY editDraftMsgCmd.accesskey "s">
 <!ENTITY createFilter.label "Utwórz filtr na podstawie wiadomości…">
 <!ENTITY createFilter.accesskey "U">
 <!ENTITY moveMsgToMenu.label "Przenieś do">
@@ -705,6 +707,7 @@
 <!ENTITY contextOpenNewTab.accesskey "r">
 <!ENTITY contextEditMsgAsNew.label "Edytuj jako nową wiadomość">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Edytuj szkic">
 <!ENTITY contextArchive.label "Archiwizuj">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Odpowiedz tylko nadawcy">
