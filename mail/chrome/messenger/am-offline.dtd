@@ -22,21 +22,19 @@
 <!ENTITY retentionCleanupImap.label "To recover disc space, old messages can be permanently deleted, both local copies and originals on the remote server.">
 <!ENTITY retentionCleanupPop.label "To recover disc space, old messages can be permanently deleted, including originals on the remote server.">
 <!ENTITY retentionKeepMsg.label "Delete messages more than">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Delete all but the most recent">
 <!ENTITY retentionKeepRecent.accesskey "b">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Advanced…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Message Synchronising">
 <!ENTITY diskspaceGroupTitle.label "Disc Space">
 
@@ -49,7 +47,7 @@
 <!ENTITY allAutosync.label               "Synchronise all messages locally regardless of age">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Synchronise the most recent">
-<!ENTITY ageAutosync.accesskey           "y">
+<!ENTITY ageAutosync.accesskey           "S">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Days">
 <!ENTITY weekAgeInterval.label           "Weeks">
