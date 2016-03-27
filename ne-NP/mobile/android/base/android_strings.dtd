@@ -485,14 +485,14 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_history_title "इतिहास">
+<!ENTITY home_clear_history_button "ब्राउजिङ इतिहास खाली गर्नुहोस्">
 
 
+<!ENTITY home_closed_tabs_title "हालसालै बन्द गरिएका ट्याबहरु">
 
 
-
-
-
-
+<!ENTITY home_open_all "सबै खोल्नुहोस्">
 
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
@@ -503,8 +503,9 @@ size. -->
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+<!ENTITY home_remote_tabs_title "Sync गरिएका ट्याबहरू">
 
-
+<!ENTITY home_remote_tabs_unable_to_connect "जडान गर्न असमर्थ">
 
 
 
@@ -523,6 +524,7 @@ size. -->
 
 
 
+<!ENTITY filepicker_title "फाइल रोज्नुहोस्">
 
 
 
