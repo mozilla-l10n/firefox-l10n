@@ -159,17 +159,17 @@
 <!ENTITY fxaccount_status_more "अधिक&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Firefox Account मिटाएँ?">
+<!ENTITY fxaccount_remove_account_dialog_title "Firefox खाता मिटाएँ?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; आपके खाते के साथ सिंक करना बंद करेगा, लेकिन इस साधन पर स्थित आपका कोई भी ब्राउजिंग डाटा नहीं मिटाएगा.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Firefox Account &formatS; मिटाया.">
+<!ENTITY fxaccount_remove_account_toast "Firefox खाता &formatS; मिटाया.">
 
 <!ENTITY fxaccount_enable_debug_mode "दोषसुधार स्थिति सक्रिय करें">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
-<!ENTITY fxaccount_account_type_label "फ़ायरफ़ॉक्स">
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
@@ -182,7 +182,7 @@
      has been made to the remote server, and an error of some type has
      been returned. -->
 
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "आपको फायरफ़ॉक्स अद्यतन करने की जरूरत है">
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "आपको Firefox अद्यतन करने की जरूरत है">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "&formatS1; खाता पहले से मौजूद है">
