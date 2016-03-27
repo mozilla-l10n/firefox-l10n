@@ -141,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "关闭窗口">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "书签">
+<!ENTITY bookmarksMenu.label "书签库">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "将此页加入书签库">
 <!ENTITY editThisBookmarkCmd.label "编辑此书签">
