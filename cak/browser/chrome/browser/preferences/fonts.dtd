@@ -28,13 +28,13 @@
 <!ENTITY  font.langGroup.trad-chinese             "Ojer chino (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Ch'uti Chino">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Relik Chino (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "KORYANO">
+<!ENTITY  font.langGroup.korean                   "aj Corea">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
 <!ENTITY  font.langGroup.el                       "RYEWO">
 <!ENTITY  font.langGroup.other                    "Ch'aqa' chik taq rub'eyal ri tz'ib'axik">
-<!ENTITY  font.langGroup.thai                     "Tailandes">
-<!ENTITY  font.langGroup.hebrew                   "EBREYO">
-<!ENTITY  font.langGroup.arabic                   "Arawe">
+<!ENTITY  font.langGroup.thai                     "aj Tailanda">
+<!ENTITY  font.langGroup.hebrew                   "Hebreo">
+<!ENTITY  font.langGroup.arabic                   "aj Arabia">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Armenyan">
@@ -65,7 +65,7 @@
 <!ENTITY  allowPagesToUse.accesskey               "T">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Rucholajil ruwäch tzij richin rupam sipan kan">
-<!ENTITY languages.customize.Fallback2.label      "Rucholajil rucholajem tzij:">
+<!ENTITY languages.customize.Fallback2.label      "Rucholajil rucholajem tzij, ri kan k'o wi:">
 <!ENTITY languages.customize.Fallback2.accesskey  "r">
 <!ENTITY languages.customize.Fallback2.desc       "Re rucholajil rucholajem tz'ib' nokisäx richin ojer rupam, ri man nuya' ta rutzijol ri rucholajil.">
 
@@ -74,7 +74,7 @@
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arawe">
 <!ENTITY languages.customize.Fallback.baltic      "Báltic">
-<!ENTITY languages.customize.Fallback.ceiso       "SENTROEWROPEYO, ISO">
+<!ENTITY languages.customize.Fallback.ceiso       "Centroeuropeo, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Central European, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
@@ -85,7 +85,7 @@
 <!ENTITY languages.customize.Fallback.cyrillic    "SIRILIKO">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "RYEWO">
+<!ENTITY languages.customize.Fallback.greek       "aj Grecia">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.hebrew      "EB'REYO">
@@ -100,8 +100,8 @@
 <!ENTITY languages.customize.Fallback.thai        "TAYLAN">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "aj TURKIYA">
+<!ENTITY languages.customize.Fallback.turkish     "aj Turquía">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "aj BYETNAM">
-<!ENTITY languages.customize.Fallback.other       "Ch'aqa' chik (incl. ewropeyo oksidental)">
+<!ENTITY languages.customize.Fallback.other       "Ch'aqa' chik (incl. aj Europa occidental)">

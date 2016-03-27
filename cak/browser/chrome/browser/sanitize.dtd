@@ -29,7 +29,7 @@
 <!ENTITY clearTimeDuration.label          "Retal q'ijul richin niyuj:">
 <!ENTITY clearTimeDuration.accesskey      "q">
 <!ENTITY clearTimeDuration.lastHour       "Ruk'isib'äl ramaj">
-<!ENTITY clearTimeDuration.last2Hours     "Ruk'isib'al ri ka'i' ramaj">
+<!ENTITY clearTimeDuration.last2Hours     "Ruk'isib'al ka'i' ramaj">
 <!ENTITY clearTimeDuration.last4Hours     "Ruk'isib'äl kaji' ramaj">
 <!ENTITY clearTimeDuration.today          "Wakami">
 <!ENTITY clearTimeDuration.everything     "Ronojel">
@@ -52,7 +52,7 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "o">
 <!ENTITY itemFormSearchHistory.label       "Kinatab'al Taq nojwuj chuqa' taq kanob'äl">
 <!ENTITY itemFormSearchHistory.accesskey   "n">
-<!ENTITY itemCookies.label                 "Taq kuki">
+<!ENTITY itemCookies.label                 "Taq kaxlanwey">
 <!ENTITY itemCookies.accesskey             "k">
 <!ENTITY itemCache.label                   "Kache'">
 <!ENTITY itemCache.accesskey               "a">

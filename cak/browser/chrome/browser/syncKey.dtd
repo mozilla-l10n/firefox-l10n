@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncKey.page.title               "Ri a kolonel ruxe'el tzij richin &syncBrand.fullName.label;">
+<!ENTITY syncKey.page.title               "Ri ewan atzij richin &syncBrand.fullName.label;">
 <!ENTITY syncKey.page.description2        "Re ewan tzij re' nokisäx richin netamäx kiwäch ri taq rutzij ataqoya'l richin &syncBrand.fullName.label; K'o chi xtatz'ib'ala' re ewan tzij toq xtanuk'samajij &syncBrand.fullName.label; pa jun k'ak'a' samajib'äl. ">
 <!ENTITY syncKey.keepItSecret.heading     "Kan tawewaj">
 <!ENTITY syncKey.keepItSecret.description "Ri ataqoya'l richin &syncBrand.fullName.label; man etaman ta ruwäch richin nichajïx ri awichin. We majun re ewan tzij re', nuk'wal k'ïy juna' richin netamäx ri awetamab'al. Xa xe rat awetaman ri ewan tzij. Re re' nub'ij chi xa xe rat ri yatikïr yatok pa ri taq atzij richin &syncBrand.fullName.label;.">

@@ -51,7 +51,7 @@
 
 <!ENTITY connectionDesc.label            "Tanuk'samajij ri rub'eyal nok ri &brandShortName; pa k'amaya'l">
 <!ENTITY connectionSettings.label        "Tinuk'…">
-<!ENTITY connectionSettings.accesskey    "e">
+<!ENTITY connectionSettings.accesskey    "n">
 
 <!ENTITY httpCache.label                 "Rupam k'amaya'l pa kache'">
 
@@ -98,7 +98,7 @@
 
 <!ENTITY offlineNotify.label             "Tiya' rutzijol chwe we k'o jun k'amaya'l nrajo' nuyäk taq tzij  richin nrokisaj toq majun okem pa k'amaya'l">
 <!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "Taq Man relik ta…">
+<!ENTITY offlineNotifyExceptions.label   "Taq man relik ta…">
 <!ENTITY offlineNotifyExceptions.accesskey "e">
 
 <!ENTITY offlineAppsList2.label          "Re taq ruxaq k'amaya'l re' ya'on q'ij chi ke richin nikiyäk kan ri taq tzij richin nokisäx pa rub'eyal majun okem pa k'amaya'l: ">
@@ -108,7 +108,7 @@
 <!ENTITY offlineAppRemove.confirm        "Tiyuj el na'oj pa rub'eyal majun okem pa k'amaya'l">
 
 <!ENTITY certificateTab.label            "Taq ruwujil b'i'aj:">
-<!ENTITY certSelection.label             "Taq taqowuj">
+<!ENTITY certSelection.label             "Taq k'utuj">
 <!ENTITY certSelection.description       "Toq ri ruk'u'x samaj xtrajo' pe ri nuwujil b'i'aj:">
 <!ENTITY certs.auto                      "Pa ruyonil ticha' jun">
 <!ENTITY certs.auto.accesskey            "S">
@@ -116,7 +116,7 @@
 <!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "Rutzolixik rutzij ri OCSP peyon tzij, ri ruk'u'x taq samaj nikijikib'a' ri kutzil ri taq ruwujil rub'i' ">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "Rutz'etik taq ruwujil rub'i'">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "Rokisaxel chajinïk">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+<!ENTITY viewCerts.label                 "Titz'et taq ruwujil b'i'aj">
+<!ENTITY viewCerts.accesskey             "r">
+<!ENTITY viewSecurityDevices.label       "Kokisaxel taq jikomal">
+<!ENTITY viewSecurityDevices.accesskey   "K">
