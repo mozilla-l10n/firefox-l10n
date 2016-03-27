@@ -23,16 +23,16 @@
 <!ENTITY abouthome.rightsSnippet "&brandFullName; jun jamäl chuqa' okel chi cholkema' richin ri Mozilla Moloj, ri majun ch'akoj rojqan. <a>Tawetamaj kiwäch ri taq ach'ojib'al…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Taq retal">
-<!ENTITY abouthome.historyButton.label   "Natab’äl ">
+<!ENTITY abouthome.historyButton.label   "Natab’äl">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
-<!ENTITY abouthome.preferencesButtonWin.label  "Taq &amp;cha'oj ">
+<!ENTITY abouthome.preferencesButtonWin.label  "Taq cha'oj">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "Taq ajowab'äl… ">
-<!ENTITY abouthome.addonsButton.label    "Taq rutz’aqat ">
-<!ENTITY abouthome.downloadsButton.label "Taq qasa’n ">
-<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label; ">
+<!ENTITY abouthome.preferencesButtonUnix.label  "Taq ajowab'äl…">
+<!ENTITY abouthome.addonsButton.label    "Taq rutz’aqat">
+<!ENTITY abouthome.downloadsButton.label "Taq qasa’n">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
      about page. -->
