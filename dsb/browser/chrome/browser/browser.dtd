@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "u">
 <!ENTITY shareVideo.label "Toś to wideo źěliś">
 <!ENTITY shareVideo.accesskey "i">
-
-
+<!ENTITY feedsMenu2.label "Toś ten bok aboněrowaś">
+<!ENTITY subscribeToPageMenupopup.label "Toś ten bok aboněrowaś">
 <!ENTITY subscribeToPageMenuitem.label "Toś ten bok aboněrowaś…">
 <!ENTITY addCurPagesCmd.label "Wšykne rejtarki ako cytańske znamjenja…">
 <!ENTITY showAllBookmarks2.label "Wšykne cytańske znamjenja pokazaś">
@@ -257,7 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
+<!ENTITY devtoolsServiceWorkers.accesskey  "k">
 
 <!ENTITY devtoolsConnect.label        "Zwězaś…">
 <!ENTITY devtoolsConnect.accesskey    "a">
@@ -409,9 +410,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Meni Pomoc wócyniś">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizěrowane rejtarki">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Synchronizěrowane rejtarki se wobstaruju…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Žedne wócynjone rejtarki">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
