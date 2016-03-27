@@ -174,7 +174,7 @@
 <!ENTITY pref_developer_remotedebugging "การดีบั๊กระยะไกล">
 <!ENTITY pref_developer_remotedebugging_usb "การดีบั๊กระยะไกลผ่าน USB">
 <!ENTITY pref_developer_remotedebugging_wifi "การดีบั๊กระยะไกลผ่าน Wi-Fi">
-
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "การดีบั๊กบน Wi-Fi จำเป็นต้องให้อุปกรณ์ของคุณมีแอปตัวอ่านรหัส QR ติดตั้งอยู่">
 <!ENTITY pref_remember_signons2 "จดจำการเข้าสู่ระบบ">
 <!ENTITY pref_manage_logins "จัดการการเข้าสู่ระบบ">
 
@@ -762,6 +762,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: การสนับสนุน">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "การช่วยเหลือและสนับสนุนของ Firefox สำหรับโพรไฟล์ที่ถูกจำกัดบนแท็บเล็ต Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "เรียนรู้เว็บ: Mozilla Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
