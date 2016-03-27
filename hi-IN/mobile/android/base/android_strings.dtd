@@ -146,7 +146,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "फ़ायरफ़ॉक्स खाते से जुड़े कोई भी उपकरण पाएँ नहीं गए">
+<!ENTITY overlay_no_synced_devices "Firefox खाते से जुड़े कोई भी उपकरण पाएँ नहीं गए">
 
 <!ENTITY pref_category_search3 "खोजें">
 <!ENTITY pref_category_search_summary "खोज प्रदाता को मनपसंद बनाएँ">
@@ -558,7 +558,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "अन्य उपकरणों से आपके टैब यहाँ दिखाई देंगी.">
 <!ENTITY home_remote_tabs_unable_to_connect "कनेक्ट करने में असमर्थ">
 <!ENTITY home_remote_tabs_need_to_sign_in "अपने Firefox खाता जोड़ने और समन्वयन जारी रखने के लिए साइन इन करें.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "आपका नया फ़ायरफ़ॉक्स खाता तैयार है!">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "आपका नया Firefox खाता तैयार है!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "खाते की पुष्टि करने में मुसीबत?">
 <!ENTITY home_remote_tabs_need_to_verify "समन्वयन शुरू करने के लिए अपने Firefox खाता सत्यापित करें.">
@@ -745,7 +745,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "सहयुक्ति">
-<!ENTITY restrictable_feature_addons_installation_description "फ़ायरफ़ॉक्स में विशेषताएँ और कार्यात्मकता जोड़ें. टिप्पणी: Add-ons विशेष प्रतिबंधों को अक्षम कर सकता है.">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox में विशेषताएँ और कार्यात्मकता जोड़ें. टिप्पणी: Add-ons विशेष प्रतिबंधों को अक्षम कर सकता है.">
 <!ENTITY restrictable_feature_private_browsing "निजी ब्राउज़िंग">
 <!ENTITY restrictable_feature_private_browsing_description "साइट्स और पेजेज़ की जानकारी बचाये बिना परिवार वालों को ब्राउज करने की इजाज़त देता है">
 <!ENTITY restrictable_feature_clear_history "इतिहास साफ़ करें">
@@ -759,11 +759,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
-<!ENTITY bookmarks_about_browser "फ़ायरफ़ॉक्स: आपके ब्राउज़र के बारे में">
+<!ENTITY bookmarks_about_browser "Firefox: आपके ब्राउज़र के बारे में">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "फ़ायरफ़ॉक्स: सहयुक्तियाँ मनपसंद बनाएँ">
+<!ENTITY bookmarks_addons "Firefox: सहयुक्तियाँ मनपसंद बनाएँ">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
-<!ENTITY bookmarks_support "फ़ायरफ़ॉक्स: समर्थन">
+<!ENTITY bookmarks_support "Firefox: समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "एंड्रॉयड टैबलेट्स पर प्रतिबंधित प्रोफाइल के लिए Firefox मदद और समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->

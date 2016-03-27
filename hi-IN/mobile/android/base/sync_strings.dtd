@@ -4,7 +4,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 
-<!ENTITY syncBrand.fullName.label "फ़ायरफ़ॉक्स सिंक">
+<!ENTITY syncBrand.fullName.label "Firefox सिंक">
 <!ENTITY syncBrand.shortName.label "सिंक">
 <!-- Main titles. -->
 
@@ -48,7 +48,7 @@
 <!-- Firefox Account strings. -->
 
 
-<!ENTITY fxaccount_full_label "Firefox Accounts">
+<!ENTITY fxaccount_full_label "Firefox खाता">
 
 <!ENTITY fxaccount_custom_server_account_title "सर्वर पर खाते का प्रयोग |">
 <!ENTITY fxaccount_custom_server_sync_title "सिंक डाटा सर्वर पर संग्रहण |">
@@ -82,13 +82,13 @@
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "एक फ़ायरफ़ॉक्स खाता बनाएँ">
+<!ENTITY fxaccount_create_account_header2 "एक Firefox खाता बनाएँ">
 <!ENTITY fxaccount_create_account_password_length_restriction "कम से कम 8 वर्ण की होनी चाहिए">
 <!ENTITY fxaccount_create_account_day_of_birth "दिन">
 <!ENTITY fxaccount_create_account_month_of_birth "महिना">
 <!ENTITY fxaccount_create_account_year_of_birth "जन्म का साल">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "जारी रखते हुए, मैं फ़ायरफ़ॉक्स क्लाउड सेवा के &formatS1; और &formatS2;से सहमत हूँ. ">
+<!ENTITY fxaccount_create_account_policy_text2 "जारी रखते हुए, मैं Firefox क्लाउड सेवा के &formatS1; और &formatS2;से सहमत हूँ. ">
 <!ENTITY fxaccount_create_account_button "आगे">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "चुनें कि क्या साझा की जानी है">
 <!ENTITY fxaccount_create_account_sign_in_instead "पहले से खाता है? साइन इन करें">
@@ -129,7 +129,7 @@
 <!ENTITY fxaccount_finish_migrating_button_label "समाप्त करें उन्नयन">
 <!ENTITY fxaccount_finish_migrating_description "उन्नयन से बहुत ज्यादा डेटा स्थानांतरित हो सकता है. किसी वाईफाई नेटवर्क में रहना सबसे बेहतर होगा.">
 
-<!ENTITY fxaccount_status_header2 "फ़ायरफ़ॉक्स खाता">
+<!ENTITY fxaccount_status_header2 "Firefox खाता">
 <!ENTITY fxaccount_status_signed_in_as "ऐसे साइन इन करें">
 <!ENTITY fxaccount_status_manage_account "खाता प्रबंधित करें">
 <!ENTITY fxaccount_status_auth_server "खाता सर्वर |">
@@ -144,7 +144,7 @@
 <!ENTITY fxaccount_status_needs_upgrade "साइन-इन करने के लिए आपको &brandShortName; अद्यतन करने की जरूरत है।">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप किया गया है, लेकिन स्वतः सिंक नहीं होता है. “डाटा स्वतःतुल्यकालन” एंड्रायड सेटिंग में टॉगल करें &gt; डाटा प्रयोग.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; स्थापित हैं, लेकिन स्वचालित रूप से सिंक नहीं कर रहा है. एंड्रॉयड &gt; खाता सेटिंग्स में \&quot;ऑटो सिंक डेटा\&quot; टॉगल करें.">
-<!ENTITY fxaccount_status_needs_finish_migrating "अपने नए फ़ायरफ़ॉक्स खाता में साइन इन करने के लिए टैप करें.">
+<!ENTITY fxaccount_status_needs_finish_migrating "अपने नए Firefox खाता में साइन इन करने के लिए टैप करें.">
 <!ENTITY fxaccount_status_bookmarks "पुस्तचिह्न">
 <!ENTITY fxaccount_status_history "इतिहास">
 <!ENTITY fxaccount_status_passwords2 "लॉगिन">
