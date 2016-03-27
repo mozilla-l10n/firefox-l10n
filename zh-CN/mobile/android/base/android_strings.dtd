@@ -31,7 +31,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "书签库">
-<!ENTITY  history_title "历史">
+<!ENTITY  history_title "历史记录">
 <!ENTITY  reading_list_title "阅读列表">
 <!ENTITY  recent_tabs_title "最近的标签页">
 
@@ -323,7 +323,7 @@ size. -->
 <!ENTITY pref_search_suggestions "显示搜索建议">
 <!ENTITY pref_history_search_suggestions "显示搜索记录">
 <!ENTITY pref_import_options "导入来自其他浏览器的信息">
-<!ENTITY pref_import_android_summary "从原生浏览器导入书签和历史记录">
+<!ENTITY pref_import_android_summary "从自带浏览器导入书签和历史记录">
 <!ENTITY pref_private_data_history2 "浏览历史">
 <!ENTITY pref_private_data_searchHistory "搜索历史记录">
 <!ENTITY pref_private_data_formdata2 "表单历史记录">
@@ -531,7 +531,7 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; 首页">
-<!ENTITY home_history_title "历史">
+<!ENTITY home_history_title "历史记录">
 <!ENTITY home_clear_history_button "清除浏览历史记录">
 <!ENTITY home_clear_history_confirm "您确定要清除您的历史记录吗？">
 <!ENTITY home_bookmarks_empty "这里显示了您添加的书签。">
