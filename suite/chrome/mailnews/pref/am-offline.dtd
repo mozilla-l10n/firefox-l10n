@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Borrar todos excepto los más recientes">
 <!ENTITY retentionKeepRecent.accesskey "B">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Siempre eliminar los mensajes leídos (invalida configuraciones de tiempo)">
 <!ENTITY retentionApplyToFlagged.label "Siempre guardar los mensajes etiquetados">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Eliminar cuerpos de los mensajes de más de">
