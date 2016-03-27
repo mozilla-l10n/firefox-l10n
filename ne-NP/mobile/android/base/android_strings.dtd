@@ -174,23 +174,25 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi मार्फत रिमोट डिबग गर्न">
 
 
+<!ENTITY pref_manage_logins "लग इनहरु व्यवस्थापन गर्नुहोस्">
 
-
-
-
-
+<!ENTITY pref_category_home "गृह">
+<!ENTITY pref_category_home_summary "आफ्नो गृहपृष्ठ अनुकुलन गर्नुहोस्">
+<!ENTITY pref_category_home_panels "प्यानलहरु">
+<!ENTITY home_add_panel_title "नयाँ प्यानल थप्नुहोस्">
 
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "गृहपृष्ठमा \u0027&formatS;\u0027 थपियो">
+<!ENTITY pref_category_home_content_settings "सामग्री सेटिङ">
 
 
 
+<!ENTITY pref_home_suggested_sites "साइट सुझावहरु देखाउनुहोस्">
 
 
-
-
-
+<!ENTITY home_homepage_title "गृहपृष्ठ चयन गर्नुहोस्">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -206,42 +208,46 @@
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 
+<!ENTITY pref_header_accessibility "पहुँचता">
+<!ENTITY pref_header_advanced "उन्नत">
+<!ENTITY pref_header_help "मद्दत">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 
 
 
 
+<!ENTITY pref_tap_to_load_images_title2 "छविहरु देखाउनुहोस्">
+<!ENTITY pref_tap_to_load_images_enabled "सधैं">
+
+<!ENTITY pref_tap_to_load_images_disabled2 "निषेधित">
+
+
+<!ENTITY pref_tracking_protection_title "ट्रयाकिङ सुरक्षा">
+
+
+
+
+<!ENTITY pref_tracking_protection_enabled "सक्षम पारिएको">
+
+<!ENTITY pref_tracking_protection_disabled "अक्षम पारिएको">
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY tab_queue_toast_action "अहिले खोल्नुहोस्">
 
 
 
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-
-
+<!ENTITY tab_queue_prompt_positive_action_button "सक्षम पार्नुहोस्">
+<!ENTITY tab_queue_prompt_negative_action_button "अहिले होइन">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-
+<!ENTITY tab_queue_prompt_settings_button "सेटिङ्गमा जानुहोस्">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -251,33 +257,35 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
-
-
+<!ENTITY pref_char_encoding_on "मेनु देखाउनुहोस्">
+<!ENTITY pref_char_encoding_off "मेनु नदेखाउनुहोस्">
 
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "अहिले खाली गर्नुहोस्">
 
 
 
 <!ENTITY pref_plugins "प्लगइनहरू">
+<!ENTITY pref_plugins_enabled "सक्षम पारिएको">
+
+
+<!ENTITY pref_text_size "पाठ साइज">
 
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_font_size_tiny "अति सानो">
+<!ENTITY pref_font_size_small "सानो">
+<!ENTITY pref_font_size_medium "मध्यम">
+<!ENTITY pref_font_size_large "ठूलो">
+<!ENTITY pref_font_size_xlarge "अति ठूलो">
+<!ENTITY pref_font_size_set "सेट गर्नुहोस्">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
