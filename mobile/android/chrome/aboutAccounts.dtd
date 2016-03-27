@@ -10,4 +10,4 @@
 <!ENTITY aboutAccounts.retry.label "ลองอีกครั้ง">
 
 <!ENTITY aboutAccounts.restrictedError.title "ถูกจำกัด">
-<!ENTITY aboutAccounts.restrictedError.description "คุณไม่สามารถรวมบัญชี Firefox จากข้อมูลส่วนตัวนี้">
+<!ENTITY aboutAccounts.restrictedError.description "คุณไม่สามารถจัดการบัญชี Firefox จากโพรไฟล์นี้">
