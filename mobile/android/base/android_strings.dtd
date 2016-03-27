@@ -292,39 +292,44 @@ size. -->
 
 
 
+<!ENTITY pref_voice_input "आवाज आगत">
 
 
 
 
+<!ENTITY pref_use_master_password "मुख्य पासवर्ड प्रयोग गर्नुहोस्">
 
 
+<!ENTITY pref_search_suggestions "खोजि सुझाबहरु देखाउनुहोस्">
+<!ENTITY pref_history_search_suggestions "खोजी इतिहास देखाउनुहोस्">
+<!ENTITY pref_import_options "आयात विकल्पहरू">
+
+<!ENTITY pref_private_data_history2 "ब्राउजिङ इतिहास">
+<!ENTITY pref_private_data_searchHistory "खोजी इतिहास">
+<!ENTITY pref_private_data_formdata2 "फारम इतिहास">
+
+<!ENTITY pref_private_data_passwords2 "सङ्ग्रहित लग-इनहरू">
+<!ENTITY pref_private_data_cache "क्यास">
+<!ENTITY pref_private_data_offlineApps "अफलाइन वेबसाइट डाटा">
+
+<!ENTITY pref_private_data_downloadFiles2 "डाउनलोडहरू">
+<!ENTITY pref_private_data_syncedTabs "Sync गरिएका ट्याबहरू">
 
 
+<!ENTITY pref_about_firefox "&brandShortName; बारे">
+
+<!ENTITY pref_vendor_feedback "पुनर्निवेश दिनुहोस्">
+
+<!ENTITY pref_dialog_set_default "पूर्वनिर्धारितको रूपमा सेट गर्नुहोस्">
+<!ENTITY pref_dialog_default "पूर्वनिर्धारित">
+<!ENTITY pref_dialog_remove "हटाउनुहोस्">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_panels_show "देखाउनुहोस्">
+<!ENTITY pref_panels_hide "लुकाउनुहोस्">
+<!ENTITY pref_panels_reorder "क्रम परिवर्तन गर्नुहोस्">
+<!ENTITY pref_panels_move_up "माथि सार्नुहोस्">
+<!ENTITY pref_panels_move_down "तल सार्नुहोस्">
 
 
 
@@ -339,9 +344,9 @@ size. -->
      crashReporterDesc.label). -->
 
 
+<!ENTITY datareporting_telemetry_title "टेलीमेट्री">
 
-
-
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ले &vendorShortName; लाई तपाईको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि सहयोगार्थ पतन प्रतिवेदनहरु पेश गर्छ">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 
@@ -355,66 +360,73 @@ size. -->
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 
+<!ENTITY addons "एड-अनहरु">
+<!ENTITY logins "लग-इनहरू">
+
+<!ENTITY char_encoding "वर्ण सङ्केतन">
+
+<!ENTITY share "साझेदारी">
 
 
+<!ENTITY save_as_pdf "PDFको रूपमा बचत गर्नुहोस्">
+<!ENTITY print "मुद्रण गर्नुहोस्">
+<!ENTITY find_in_page "पृष्ठमा फेला पार्नुहोस्">
 
-
-
-
-
-
-
-
-
+<!ENTITY page "पृष्ठ">
 
 <!ENTITY new_tab "नयाँ ट्याब">
 
-
+<!ENTITY close_all_tabs "सबै ट्याब बन्द गर्नुहोस्">
 
 <!ENTITY tabs_normal "ट्याबहरू">
 
 
-
-
-
+<!ENTITY set_image_fail "छवि सेट गर्न असक्षम भयो">
+<!ENTITY set_image_path_fail "छवि बचत गर्न असक्षम भयो">
+<!ENTITY set_image_chooser_title "यस रूपमा छवि सेट गर्नुहोस्">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-
-
+<!ENTITY find_text "पृष्ठमा फेला पार्नुहोस्">
+<!ENTITY find_prev "अघिल्लो">
+<!ENTITY find_next "अर्को">
+<!ENTITY find_close "बन्द गर्नुहोस्">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 
 
 
+<!ENTITY contextmenu_open_new_tab "नयाँ ट्याबमा खोल्नुहोस्">
+<!ENTITY contextmenu_open_private_tab "निजि ट्याबमा खोल्नुहोस्">
+<!ENTITY contextmenu_remove "हटाउनुहोस्">
+<!ENTITY contextmenu_add_to_launcher "गृह पर्दामा थप्नुहोस">
+
+<!ENTITY contextmenu_pasteandgo "टाँस्नुहोस् र जानुहोस्">
+<!ENTITY contextmenu_paste "टाँस्नुहोस्">
+<!ENTITY contextmenu_copyurl "ठेगाना प्रतिलिपि गर्नुहोस्">
+<!ENTITY contextmenu_edit_bookmark "सम्पादन गर्नुहोस्">
+<!ENTITY contextmenu_subscribe "यस पृष्ठको सदस्यता लिनुहोस्">
+<!ENTITY contextmenu_site_settings "साइट सेटिङहरू सम्पादन गर्नुहोस्">
+<!ENTITY contextmenu_top_sites_edit "सम्पादन गर्नुहोस्">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY contextmenu_add_search_engine "खोजी इन्जिन थप्नुहोस्">
+<!ENTITY contextmenu_mark_read "पढेको रूपमा चिन्ह लगाउनुहोस्">
+<!ENTITY contextmenu_mark_unread "नपढेको रूपमा चिन्ह लगाउनुहोस्">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[प्रयोगकर्ता नाम छैन]">
+
+<!ENTITY doorhanger_login_edit_username_hint "प्रयोगकर्ता नाम">
+<!ENTITY doorhanger_login_edit_password_hint "पासवर्ड">
+<!ENTITY doorhanger_login_edit_toggle "पासवर्ड देखाउनुहोस्">
+<!ENTITY doorhanger_login_edit_toast_error "लग-इन बचत गर्न असफल भयो">
 
 
-
-
-
-
-
+<!ENTITY doorhanger_login_select_toast_copy_error "पासवर्ड प्रतिलिपि गर्न सकिएन">
 
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
@@ -429,18 +441,24 @@ size. -->
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
-<!ENTITY bookmark_edit_name "नाम">
+<!ENTITY page_removed "पृष्ठ हटाइयो">
 
+<!ENTITY bookmark_edit_title "पुस्तकचिनो सम्पादन गर्नुहोस्">
+<!ENTITY bookmark_edit_name "नाम">
+<!ENTITY bookmark_edit_location "स्थान">
 <!ENTITY bookmark_edit_keyword "शब्दकुञ्जी">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
-
+<!ENTITY site_settings_cancel       "रद्द गर्नुहोस्">
+<!ENTITY site_settings_clear        "खाली गर्नुहोस्">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
+<!ENTITY reading_list_added3 "पढ्ने सूचीमा थपियो">
+
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "पढ्ने सूचीबाट हटाउनुहोस्">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -449,18 +467,19 @@ size. -->
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY masterpassword_create_title "मुख्य पासवर्ड सिर्जना गर्नुहोस्">
 <!ENTITY masterpassword_remove_title "मुख्य पासवर्ड मेटाउनुहोस्">
-
-
+<!ENTITY masterpassword_password "पासवर्ड">
+<!ENTITY masterpassword_confirm "पासवर्ड पुष्टि गर्नुहोस्">
 
 <!ENTITY button_ok "OK">
-
+<!ENTITY button_cancel "रद्द गर्नुहोस्">
 <!ENTITY button_yes "हो">
 <!ENTITY button_no "होेइन">
 
-
-
-
+<!ENTITY button_set "सेट गर्नुहोस्">
+<!ENTITY button_clear "खाली गर्नुहोस्">
+<!ENTITY button_copy "प्रतिलिपि बनाउनुहोस्">
 
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
