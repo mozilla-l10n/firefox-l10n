@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "¡Xojtikïr!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ütz chik richin tichap chik el.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Ketzolïx chik kiwäch ri taq tzuwäch chuqa' taq ruwi' ">
-<!ENTITY welcomeback2.label.restoreSome "Xa xe jujun titzolïx kiwäch ">
+<!ENTITY welcomeback2.label.restoreAll  "Ketzolïx chik kiwäch ri taq tzuwäch chuqa' taq ruwi'">
+<!ENTITY welcomeback2.label.restoreSome "Xa xe jujun titzolïx kiwäch">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
@@ -47,14 +47,14 @@ their language.
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Ri taq atz'aqat chuqa' ichinanem xeyuj el, ruma ri' ri runuk'ulem okik'amaya'l xtzolïx ruwäch rik'in ri taq retal e k'o wi. We man nuchojmirisaj ta ri k'ayewal re', ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
-<!ENTITY welcomeback2.link.pageInfo2        "Tasik'ij ch'aqa' chik pa ruwi' ri yatikïr nab'än.  ">
+<!ENTITY welcomeback2.link.pageInfo2        "tasik'ij ch'aqa' chik pa ruwi' ri yatikïr nab'än.">
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
-<!ENTITY tabgroupsmigration.tabtitle            "Ke'ak'waj ri juley chik Molaj taq ruwi' ">
-<!ENTITY tabgroupsmigration.pagetitle2          "Xeqatorij el molaj taq ruwi', xeyak na kan ri taq ruwi' awichin ">
-<!ENTITY tabgroupsmigration.learnaboutaddons    "Tawetamaj ch'aqa' chik pa kiwi' ri molaj taq ruwi' rik'in ye'ajalwachij taq tz'aqat. ">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; xuya' ketal konojel ri taq amolaj, ruma ri' toq majun xsach el. ">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "Kek'ut pe ri taq molaj ruwi' etz'aqatisan pa taq yaketal ">
-<!ENTITY tabgroupsmigration.restoredescription  "Chuqa' yatikïr nacha' kitzolixik jujun o konojel ri taq molaj k'o chupam pa ri taq tzuwäch wakami: ">
+<!ENTITY tabgroupsmigration.tabtitle            "Ke'ak'waj ri juley chik Molaj taq ruwi'">
+<!ENTITY tabgroupsmigration.pagetitle2          "Xeqatorij el molaj taq ruwi', xeyak na kan ri taq ruwi' awichin">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "Tawetamaj ch'aqa' chik pa kiwi' ri molaj taq ruwi' rik'in ye'ajalwachij taq tz'aqat.">
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; xuya' ketal konojel ri taq amolaj, ruma ri' toq majun xsach el.">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "Kek'ut pe ri taq molaj ruwi' etz'aqatisan pa taq yaketal">
+<!ENTITY tabgroupsmigration.restoredescription  "Chuqa' yatikïr nacha' kitzolixik jujun o konojel ri taq molaj k'o chupam pa ri taq tzuwäch wakami:">
 
