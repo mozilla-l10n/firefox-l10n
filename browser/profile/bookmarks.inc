@@ -19,7 +19,7 @@
 #define bookmarks_toolbarfolder बुकमार्क्स टूलबार फ़ोल्डर
 
 
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder_description इस फ़ोल्डर में पुस्तचिह्न जोड़ें ताकि वह औजार पट्टी पर प्रदर्शित हों.
 
 
 # LOCALIZATION NOTE (getting_started):
