@@ -52,26 +52,26 @@
 <!ENTITY bottomLinks.license        "Na’oj richin ruya’ik q’ij ">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "Ruch’ojib’al nokisan ">
+<!ENTITY bottomLinks.rights         "Kich'ojib'al kisib'äl taq winäq">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "Runa’oj rajaw ">
+<!ENTITY bottomLinks.privacy        "Runa'ojil ichinanem">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Kijunamaxik taq jaloj… ">
+<!ENTITY update.checkingForUpdates  "Kikanoxik taq k'exoj ruwäch…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; jalon chik ">
+<!ENTITY update.noUpdatesFound      "&brandShortName; jalon chik">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Man etzijon ta ri taq jaloj pa tz'etöy asamaj ">
+<!ENTITY update.adminDisabled       "Xechup ri taq k'exoj ruwäch ruma ri runuk'samajel aq'inoj">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; tajin nik'ex ruma jun chik molaj. ">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; tajin nik'ex pa jun chik molaj.">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Man xuchäp ta ri jaloj.  ">
+<!ENTITY update.failed.start        "Man xuchäp ta ri k'exoj ruwäch. ">
 <!ENTITY update.failed.linkText     "Ruqasaxik ri ruk'isib'äl jalwäch ">
 <!ENTITY update.failed.end          "Taqasaj ri k'ak'a' ruwäch ">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
