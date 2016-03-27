@@ -34,3 +34,4 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "اکسیپشنمیں میں اضافہ کریں…">
 <!ENTITY certerror.copyToClipboard.label "متن کو تختہ تراشہ پر نقل کریں">
 
+<!ENTITY errorReporting.automatic "اس طرح کے نقص رپورٹ کرکے Mozilla کو غلط ترتیب شدہ ساِیٹس کی شناخت کرنے میں مدد کرے ">
