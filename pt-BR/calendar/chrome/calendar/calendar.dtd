@@ -302,7 +302,7 @@
 <!ENTITY calendar.alarm.snooze.30minutes.label      "30 Minutos" >
 <!ENTITY calendar.alarm.snooze.45minutes.label      "45 Minutos" >
 <!ENTITY calendar.alarm.snooze.1hour.label          "1 hora" >
-<!ENTITY calendar.alarm.snooze.2hours.label         "2 Horas" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 horas" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 dia" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
