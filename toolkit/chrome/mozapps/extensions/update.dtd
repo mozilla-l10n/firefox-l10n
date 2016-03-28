@@ -56,8 +56,8 @@ esta versão do &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Isto poderá demorar alguns minutos…">
 
 <!ENTITY  installerrors.wizard.title      "Problemas na instalação de atualizações">
-<!ENTITY  installerrors.intro.label       "O &brandShortName; encontrou problemas
-ao atualizar alguns dos seus extras.">
+<!ENTITY  installerrors.intro.label       "O &brandShortName; encontrou problemas ao atualizar 
+alguns dos seus extras.">
 <!-- general strings used by several of the finish pages -->
 
 <!ENTITY  clickFinish.label               "Prima Concluir para iniciar o &brandShortName;.">
