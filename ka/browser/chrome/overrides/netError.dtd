@@ -131,20 +131,6 @@
 &brandShortName; პროგრამას ქსელის წვდომის უფლება.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "საეჭვოდ მოიერიშე საიტი!">
-<!ENTITY malwareBlocked.longDesc "<p>მოიერიშე საიტი ცდილობს პროგრამის დაყენებას, რომელიც იპარავს პირად ინფორმაციას, ან თქვენს კომპიუტერს გამოიყენებს სხვებზე შეტევისთვის, ან დააზიანებს თქვენს სისტემას.</p>
-<p>საიტის მფლობელებს, რომლებიც თვლიან, რომ მათი საიტი შეცდომითაა დაბლოკილი, შეუძლიათ<a href='http://www.stopbadware.org/home/reviewinfo' >ხელმეორედ გადახედვის მოთხოვნა</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "საეჭვო საიტი, შემჩნეული არასასურველი პროგრამების გავრცელებაში!">
-<!ENTITY unwantedBlocked.longDesc "<p>არასასურველი პროგრამების საიტი ცდილობს პროგრამის დაყენებას, რომელიც შეიძლება თაღლითური აღმოჩნდეს და სისტემას გაუთვალისწინებელი ზიანი მიაყენოს.</p>">
-
-<!ENTITY phishingBlocked.title "ეჭვი ვებ ყალთაბანდობაზე!">
-<!ENTITY phishingBlocked.longDesc "<p>ამ გვერდზე პირადი ინფორმაციის მითითებით იდენტიფიკაციის მოპარვის ან ყალთაბანდობის მსხვერპლი შეიძლება გახდეთ.</p> 
-<p>ამ სახის ვებ ყალთაბანდობა ანკესობით ცნობილ მეთოდს იყენებს, როცა ყალთაბანდი გვერდები და ელფოსტა თქვენთვის სანდო წყაროების იმიტაციას ცდილობს.</p>">
-
-<!ENTITY forbiddenBlocked.title "აკრძალული საიტი">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName;-მა შეზღუდა გვერდის ჩატვირთვა, პარამეტრებში მითითებული აკრძალვის გამო.</p>">
-
 <!ENTITY cspBlocked.title "დაბლოკილია, შიგთავსის უსაფრთხოების დებულების შესაბამისად.">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-მა შეზღუდა გვერდის ჩატვირთვა, რადგან შეიცავს შიგთავსს, რომელიც მიუღებელია უსაფრთხოების დებულების შესაბამისად.</p>">
 
@@ -162,7 +148,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>გამონაკლისის დამატება არაა რეკომენდებული, თუ ბოლომდე სანდო ინტერნეტ კავშირს არ იყენებთ ან თუ ამ სერვერზე პირველად ხედავთ გაფრთხილებას.</p>
+<p>არ დაამატოთ გამონაკლისი, თუ არა სანდო ინტერნეტ კავშირს იყენებთ, ან ამ სერვერისთვის გაფრთხილებას პირველად ხედავთ.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
@@ -170,9 +156,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "შეატყობინეთ მსგავსი შეცდომები რათა დაეხმაროთ Mozilla-ს მავნე საიტების დადგენაში და მათ დაბლოკვაში.">
 <!ENTITY errorReporting.learnMore "შეიტყვეთ მეტი…">
-<!ENTITY errorReporting.sending "მოხსენება იგზავნება">
-<!ENTITY errorReporting.sent "მოხსენება გაიგზავნა">
-<!ENTITY errorReporting.tryAgain "სცადეთ ხელახლა">
 
 <!ENTITY remoteXUL.title "დისტანციური XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ დაუკავშირდით ვებ-საიტის მფლობელებს და შეატყობინეთ ამ პრობლემის შესახებ.</li></ul></p>">
