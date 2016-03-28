@@ -160,27 +160,6 @@ og du anbefales at prøve igen senere.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Websted mistænkt for at sprede skadelige programmer!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Nogle websteder forsøger at installere programmer som stjæler private data, bruge din computer til at angribe andre, eller at skade dit system.</p>
-<p>Ejere af websteder som tror deres websted fejlagtigt er blevet registereret som værende et der spreder skadelige programmer kan <a href='http://www.stopbadware.org/home/reviewinfo'>forespørge om et review</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "Websted mistænkt for uønskede programmer!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Websteder med uønskede programmer prøver at lokke dig til at installere programmer, der kan påvirke dit system på uventede måder.</p>
-">
-
-<!ENTITY phishingBlocked.title "Mistænkt netsvindel!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Indtastning af personlige informationer på denne side kan resultere i identitetstyveri eller anden forfalskning.</p>
-<p>Denne type netsvindel er kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
-">
-
-<!ENTITY forbiddenBlocked.title "Blokeret websted">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst, fordi den er indstillet til at blokere sider som denne.</p>
-">
-
 <!ENTITY cspBlocked.title "Blokeret grundet indholdssikkerhedspolitik">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde da den har en indholdssikkerhedspolitik, der forbyder dette.</p>">
 
@@ -206,9 +185,6 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic2 "Indberet automatisk fejl som denne for at hjælpe Mozilla med at identificere og blokere ondsindede websteder.">
 <!ENTITY errorReporting.learnMore "Læs mere…">
-<!ENTITY errorReporting.sending "Sender rapport">
-<!ENTITY errorReporting.sent "Rapport sendt">
-<!ENTITY errorReporting.tryAgain "Prøv igen">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul></p>">
