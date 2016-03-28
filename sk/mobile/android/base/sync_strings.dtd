@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Pripojiť sa k službe &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Pridať účet služby &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'Spárovať zariadenie'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Ak chcete aktivovať nové zariadenie, zvoľte na danom zariadení voľbu “Nastaviť službu &syncBrand.shortName.label;”.'>
-<!ENTITY sync.subtitle.header2.label 'Zadajte tento kód na svojom zariadení'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Zvoľte položku “&sync.title.pair.label;” na paneli Synchronizácia v okne nastavení Firefoxu vo vašom zariadení.'>
 <!ENTITY sync.subtitle.pair.label 'Na jeho aktiváciu zvoľte položku “Spárovať zariadenie”.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Ako na to'>
-<!ENTITY sync.link.advancedsetup.label 'Rozšírené nastavenia…'>
 <!ENTITY sync.link.nodevice.label 'Nemám zariadenie pri sebe…'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Čaká sa na druhé zariadenie…'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Zadajte informácie o svojom účte služby &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Názov účtu'>
-<!ENTITY sync.input.password.label 'Heslo'>
-<!ENTITY sync.input.key.label 'Obnovovací kľúč'>
-<!ENTITY sync.checkbox.server.label 'Použiť vlastný server'>
-<!ENTITY sync.input.server.label 'Adresa URL servera'>
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Nebolo možné nastaviť účet &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label 'Služba &syncBrand.fullName.label; sa nemohla pripojiť k serveru. Chcete to skúsiť znova?'>
-<!ENTITY sync.button.tryagain.label 'Skúsiť znova'>
-<!ENTITY sync.button.manual.label 'Manuálne nastavenie'>
-<!ENTITY sync.subtitle.nointernet.label 'Nie je dostupné pripojenie k sieti internet.'>
-<!ENTITY sync.subtitle.failaccount.label 'Vytvorenie účtu vo vašom zariadení zlyhalo.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Máte Firefox nainštalovaný viackrát? &syncBrand.fullName.label; nateraz podporuje súčasne len jednu inštaláciu Firefoxu. Ak chcete používať &syncBrand.shortName.label; odinštalujte ostatné inštalácie Firefoxu.'>
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Nastavenie dokončené'>
-<!ENTITY sync.subtitle.success.label1 'Vaše údaje sú teraz preberané na pozadí. Ak chcete, môžete si spravovať svoj účet v nastaveniach prehliadača alebo začnite s prehliadaním webu v prehliadači &brandShortName;.'>
-<!ENTITY sync.settings.label 'Nastavenia'>
-<!ENTITY sync.subtitle.manage.label1 'Váš účet služby &syncBrand.fullName.label; je už nastavený. Ak ho chcete spravovať, prejdite do nastavení prehliadača. Inak môžete rovno prehliadať web.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Skúsiť znova.'>
-<!ENTITY sync.pair.connectlocation.label 'Ak chcete aktivovať nové zariadenie, zvoľte položku “Nastaviť službu &syncBrand.shortName.label;” na tomto zariadení a následne zvoľte položku “Už mám účet”.'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Možnosti'>
-<!ENTITY sync.summary.pair.label 'Spárovať ďalšie zariadenie s vašim účtom služby &syncBrand.shortName.label;'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Položky na synchronizáciu'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Synchronizovať…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Záložky'>
 <!ENTITY sync.configure.engines.title.passwords2 'Prihlasovacie údaje'>
 <!ENTITY sync.configure.engines.title.history 'Históriu'>
 <!ENTITY sync.configure.engines.title.tabs 'Karty'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Zrušiť'>
-<!ENTITY sync.button.connect.label 'Pripojiť'>
-<!ENTITY sync.button.ok.label 'OK'>
-
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (zastarané)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -93,20 +40,7 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Pripnuté'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Podporovaný je len jeden účet služby &syncBrand.fullName.label;.'>
-<!ENTITY sync.notification.configure.saved 'Vaše voľby boli uložené.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Neplatný názov účtu alebo heslo.'>
-<!ENTITY sync.invalidserver.label 'Zadajte platnú adresu servera'>
-<!ENTITY sync.verifying.label 'Overuje sa…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Nesprávny Obnovovací kľúč. Skúste to znova.'>
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Odoslať kartu na zariadenia'>
-<!ENTITY sync.button.send.label 'Odoslať'>
-<!ENTITY sync.button.set.up.sync.label 'Nastaviť službu &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Nastavenie služby &syncBrand.shortName.label; na odosielanie kariet'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Nastavenie služby &syncBrand.fullName.label; na tomto zariadení na odosielanie kariet na ďalšie zariadenia.'>
 <!ENTITY sync.text.tab.sent.label 'Karta bola odoslaná!'>
