@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Ներբեռնումներ">
 <!ENTITY downloads.accesskey          "Ն">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Հավելումներ">
 <!ENTITY addons.accesskey             "Հ">
 <!ENTITY addons.commandkey            "A">
@@ -410,16 +410,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Բացել օգնության ցանկը">
 
 <!ENTITY appMenuRemoteTabs.label "Համաժամեցված ներդիրներ">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Հասցվում են համաժամեցված ներդիրները...">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Չկան բաց ներդիրներ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Միացրեք ներդիրների համաժամեցումը՝ տեսնելու այլ սարքերից ձեր ներդիրների ցանկը։">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "Մուտք գործե՛ք Firefox Ձեր այլ սարքերից՝ դրանց ներդիրներն այստեղ տեսնելու համար։">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Սինքի նախընտրանքներ">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Մուտք գործե՛ք՝ տեսնելու Ձեր այլ սարքերի ներդիրների ցանկը։">
 <!ENTITY appMenuRemoteTabs.signin.label "Մուտք գործել Սինք">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Դիտել համաժամեցված ներդիրների Կողագոտին">
 
@@ -744,7 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "Ա">
 
 <!ENTITY editBookmark.done.label                     "Պատրաստ է">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Անվտանգ կապակցում">
 <!ENTITY identity.connectionNotSecure "Կապակցումը անվտանգ չէ">
@@ -792,13 +795,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Համաժամեցված ներդիրներ">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Համաժամեցված ներդիրներ">
+<!ENTITY syncedTabs.sidebar.fetching.label     "Հասցվում են համաժամեցված ներդիրները...">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Մուտք գործե՛ք Firefox Ձեր այլ սարքերից՝ տեսնելու դրանց ներդիրներն այստեղ։">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Մուտք գործե՛ք՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Չկան բաց ներդիրներ">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Բացել &syncBrand.shortName.label;-ի կարգավորումները">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Միացրեք ներդիրների համաժամեցումը՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։">
 
 <!ENTITY syncedTabs.context.openTab.label                   "Բացել այս ներդիրը">
 <!ENTITY syncedTabs.context.openTab.accesskey               "Բ">

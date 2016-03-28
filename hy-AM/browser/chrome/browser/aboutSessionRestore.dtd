@@ -53,7 +53,7 @@ their language.
 
 <!ENTITY tabgroupsmigration.tabtitle            "Տեղափոխել ձեր այլ ներդիրների խմբերը">
 <!ENTITY tabgroupsmigration.pagetitle2          "Մենք հեռացրել ենք Ներդիրների խմբերը, բայց պահել ենք ձեր ներդիրները">
-
+<!ENTITY tabgroupsmigration.learnaboutaddons    "Իմանալ Tab Groups փոխարինող հավելման մասին">
 <!ENTITY tabgroupsmigration.description2        "&brandShortName;-ը էջանշել է Ձեր բոլոր խմբերը, այսպիսով չեք կորցրել որևէ բան։">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Ցուցադրել էջանշված ներդիրի խմբերը">
 <!ENTITY tabgroupsmigration.restoredescription  "Նաև կարող եք ընտրել վերականգնել որոշ կամ բոլոր ետնապլանի խմբերը պատուհանների մեջ՝">

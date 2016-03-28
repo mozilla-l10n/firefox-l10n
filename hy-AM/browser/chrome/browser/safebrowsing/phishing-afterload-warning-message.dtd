@@ -6,8 +6,8 @@
 <!ENTITY safeb.palm.decline.label "Անտեսել այս զգուշացումը">
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.notdeceptive.label "Սա խաբուսիկ կայք չէ...">
-
-
+<!ENTITY safeb.palm.reportPage.label "Ինչու՞ էր արգելափակված այս էջը:">
+<!ENTITY safeb.palm.whyForbidden.label "Ինչու՞ էր արգելափակված այս էջը:">
 
 <!ENTITY safeb.blocked.malwarePage.title "Բողոքում եմ: Պիտակել որպես հաձակողական էջ:">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
