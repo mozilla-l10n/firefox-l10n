@@ -181,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadButton.tooltip         "Rukamulokem re jun ruxaq re'">
 <!ENTITY stopCmd.label                "Tiq'at">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Ruq'atik okem pa re ruxaq re'">
+<!ENTITY stopButton.tooltip           "Tiq'at okem pa re ruxaq re'">
 <!ENTITY goEndCap.tooltip             "Rujaqik ri retal ochib'äl">
 <!ENTITY printButton.label            "Tz'ajixïk">
 <!ENTITY printButton.tooltip          "Rutz'ajb'axik re ruxaq re'">
@@ -912,7 +912,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginActivateNow.label "Ruya'ik q'ij wakami">
 <!ENTITY pluginActivateAlways.label "Ruya'ik q'ij chuqa' runataxik">
-<!ENTITY pluginBlockNow.label "Ruq'atik plugin">
+<!ENTITY pluginBlockNow.label "Tiq'at nak'ab'äl">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
