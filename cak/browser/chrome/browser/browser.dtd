@@ -42,7 +42,7 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "t">
 <!ENTITY  moveToNewWindow.label              "Rujalik pa jun k'aka' ruwi' kajtz'ïk">
 <!ENTITY  moveToNewWindow.accesskey          "l">
-<!ENTITY  bookmarkAllTabs.label              "Ketz'aqatisäx taq ruwi' pa taq yaköl etal… ">
+<!ENTITY  bookmarkAllTabs.label              "Ketz'aqatisäx taq ruwi' pa taq yaköl etal…">
 <!ENTITY  bookmarkAllTabs.accesskey          "r">
 <!ENTITY  undoCloseTab.label                 "Titzolïx chi rij ri rutz'apixik ruk'isib'al ruwi'">
 <!ENTITY  undoCloseTab.accesskey             "T">
@@ -81,7 +81,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Kesamajib'ëx chik konojel ri taq ruwi'">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "k">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ketz'aqatisäx apo konojel ri taq ruwi' pa taq yaköl etal… ">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ketz'aqatisäx apo konojel ri taq ruwi' pa taq yaköl etal…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Titzolïx chi rij ri rutz'apixik ruk'isib'al ruwi'">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "T">
