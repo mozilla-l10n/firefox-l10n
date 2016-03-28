@@ -196,7 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Jei jūsų kitas įrenginys vietoj QR kodo nuskaitymo prašo prieigos rakto, prašome į tą įrenginį nukopijuoti žemiau esančią reikšmę:">
-
+<!ENTITY wifi_auth_qr_size_note "Jei QR kodas atrodo per mažas sėkmingam susijungimui, pabandykite priartinti vaizdą arba padidinti langą.">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Paruošimo komandų žurnalas">
