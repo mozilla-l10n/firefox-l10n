@@ -14,7 +14,7 @@
 <!ENTITY firstrun_urlbar_subtext "Пронађите ствари брже са овим корисним пречицама.">
 <!ENTITY firstrun_bookmarks_title "Историјат">
 <!ENTITY firstrun_bookmarks_message "Ваше омиљене">
-<!ENTITY firstrun_bookmarks_subtext "Приказује резултате из ваших забелекши и историјата када претражујете.">
+<!ENTITY firstrun_bookmarks_subtext "Приказује резултате из ваших забелешки и историјата када претражујете.">
 <!ENTITY firstrun_data_title "Подаци">
 <!ENTITY firstrun_data_message "Мање података, више штедње">
 <!ENTITY firstrun_data_subtext2 "Искључите приказивање слика да потрошите мање података на сваком сајту који посећујете.">
@@ -168,7 +168,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "САВЕТ: Додајте било који сајт на листу провајдера претраге тако што ћете дуго притиснути поље за претрагу и затим притиснути &formatI; иконицу.">
+<!ENTITY pref_search_hint "САВЕТ: Додајте било који сајт на листу провајдера претраге тако што ћете дуго притиснути поље за претрагу, а затим притиснути &formatI; иконицу.">
 <!ENTITY pref_category_advanced "Напредно">
 <!ENTITY pref_category_advanced_summary2 "Обнова језичака, прикључци, алати за развој">
 <!ENTITY pref_developer_remotedebugging "Отклањање грешака">
@@ -330,7 +330,7 @@ size. -->
 <!ENTITY pref_private_data_cookies2 "Колачићи и пријаве">
 <!ENTITY pref_private_data_passwords2 "Сачуване пријаве">
 <!ENTITY pref_private_data_cache "Кеш">
-<!ENTITY pref_private_data_offlineApps "Подаци веб сајта који су ван везе">
+<!ENTITY pref_private_data_offlineApps "Ванмрежни подаци сајта">
 <!ENTITY pref_private_data_siteSettings2 "Поставке сајта">
 <!ENTITY pref_private_data_downloadFiles2 "Преузимања">
 <!ENTITY pref_private_data_syncedTabs "Синхронизовани језичци">
@@ -429,7 +429,7 @@ size. -->
 <!ENTITY media_stop "Заустави">
 
 <!ENTITY contextmenu_open_new_tab "Отвори у новом језичку">
-<!ENTITY contextmenu_open_private_tab "Отвори у новом приватном језичку">
+<!ENTITY contextmenu_open_private_tab "Отвори у приватном језичку">
 <!ENTITY contextmenu_remove "Уклони">
 <!ENTITY contextmenu_add_to_launcher "Додај на екран телефона">
 <!ENTITY contextmenu_share "Подели">
@@ -469,7 +469,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Режим целог екрана">
-<!ENTITY pref_scroll_title_bar_summary2 "Сакриј &brandShortName; алатну траку док се крећем низ страницу">
+<!ENTITY pref_scroll_title_bar_summary2 "Сакриј &brandShortName; алатну траку док скролујем страницу">
 
 <!ENTITY pref_tab_queue_title3 "Ред језичака">
 <!ENTITY pref_tab_queue_summary4 "Снимите везе док следећи пут не отворите &brandShortName;">
@@ -543,7 +543,7 @@ size. -->
 <!ENTITY home_selected_empty "Веб сајтови које сте посетили у одређеном временском периоду су приказани овде.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Псст: коришћење &formatS1; Нови приватан језичак&formatS2; неће снимити историјат.">
+<!ENTITY home_most_recent_emptyhint2 "Псст: коришћење &formatS1; Нови приватан језичак&formatS2; неће бележити историјат.">
 <!ENTITY home_reading_list_empty "Чланци које сте сачували за касније су приказани овде.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
@@ -624,8 +624,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY disable_protection "Онемогући заштиту">
 <!ENTITY keep_blocking "Настави блокирати">
 
-<!ENTITY private_data_success "Приватни подаци су очишћени">
-<!ENTITY private_data_fail "Неки приватни подаци нису могли да се очисте">
+<!ENTITY private_data_success "Приватни подаци су обрисани">
+<!ENTITY private_data_fail "Неки приватни подаци нису могли да се обришу">
 
 <!ENTITY bookmarkhistory_button_import "Увези">
 <!ENTITY bookmarkhistory_import_both "Увозим забелешке и историјат
@@ -677,7 +677,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Настави">
 <!ENTITY guest_session_dialog_cancel "Откажи">
 <!ENTITY new_guest_session_title "&brandShortName; ће се поново покренути">
-<!ENTITY new_guest_session_text2 "Особа која га користи неће моћи да види било шта од личних података прегледања (као сачуване пријаве, историја или забелешке).\n\nКад је гост готов са прегледавањем, подаци ће бити обрисани и сесија ће се обновити.">
+<!ENTITY new_guest_session_text2 "Особа која га користи неће моћи да види било шта од личних података прегледања (сачуване пријаве, историјат или забелешке).\n\nКад је гост готов са прегледавањем, подаци ће бити обрисани и сесија ће се обновити.">
 <!ENTITY guest_browsing_notification_title "Прегледање у сесији за госте је омогућено">
 <!ENTITY guest_browsing_notification_text "Притисните да изађете">
 
