@@ -86,7 +86,7 @@
 <!ENTITY forbiddenBlocked.title "Blokkert nettstad">
 <!ENTITY forbiddenBlocked.longDesc "<p>Nettlesaren hindra denne sida frå å lasta fordi han er konfigurert til å blokka henne.</p>">
 
-<!ENTITY securityOverride.linkText "Eller du kan laga eit unntak …   	">
+<!ENTITY securityOverride.linkText "Eller du kan laga eit unntak …">
 <!ENTITY securityOverride.warningContent "
 <p>Du bør ikkje laga eit unntak dersom du brukar eit Internett-samband som du ikkje stolar heilt på, eller om du ikkje er van med å sjå ei slik åtvaring for denne tenaren.</p>
 <p>Dersom du framleis ynskjer å laga eit unntak for denne nettstaden, kan du gjera det i dei avanserte krypterings-innstillingane.</p>">

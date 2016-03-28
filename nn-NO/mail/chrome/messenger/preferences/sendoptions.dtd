@@ -4,7 +4,7 @@
 
 <!ENTITY dialog.title                 "Sendeinnstillingar">
 <!ENTITY sendMail.title               "Tekstformat">
-<!ENTITY autoDowngrade.label          "sen dmeldingar som rein tekst om muleg">
+<!ENTITY autoDowngrade.label          "Send meldingar som rein tekst om muleg">
 <!ENTITY autoDowngrade.accesskey      "S">
 <!ENTITY sendMaildesc.label           "Ved sending av meldingar i HTML-format, og ein eller fleire mottakarar er oppførde som å ikkje kunne ta imot HTML:">
 <!ENTITY askMe.label                  "Spør meg om kva som skal gjerast">

@@ -19,7 +19,8 @@
 <!ENTITY dnsNotFound.title "Fann ikkje tenaren">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul>
+<!ENTITY dnsNotFound.longDesc4 "
+<ul>
  <li>Kontroller om det er skrivefeil i adressa, til dømes
    <strong>ww</strong>.eksempel.no i staden for
    <strong>www</strong>.eksempel.no</li>
@@ -32,7 +33,8 @@
  </ul>">
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
-<!ENTITY fileNotFound.longDesc "<ul>
+<!ENTITY fileNotFound.longDesc "
+<ul>
   <li>Kontroller filnamnet for store/små bokstavar, eller andre skrivefeil.</li>
   <li>Kontroller om fila er flytta, fått nytt namn eller er sletta.</li>
 </ul>
@@ -40,13 +42,15 @@
 
 
 <!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "<p>&brandShortName; kan av ukjend grunn ikkje lasta denne sida.</p>
+<!ENTITY generic.longDesc "
+<p>&brandShortName; kan av ukjend grunn ikkje lasta denne sida.</p>
 ">
 
 <!ENTITY malformedURI.title "Ugyldig adresse">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul>
+<!ENTITY malformedURI.longDesc2 "
+<ul>
   <li>Nettsideadresser vert vanlegvis skrivne i forma
     <strong>http://www.example.com/</strong></li>
     <div id='searchbox'>
@@ -67,7 +71,8 @@
 <!ENTITY netOffline.title "Fråkopla-modus">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul>
+<!ENTITY netOffline.longDesc3 "
+<ul>
   <li>Prøv igjen. &brandShortName; vil freista å opna ei tilkopling og lasta sida på nytt.
     <button id='wifi'>Slå på WiFi</button>
   </li>
@@ -75,13 +80,15 @@
 ">
 
 <!ENTITY contentEncodingError.title "Feil med teiknkoding">
-<!ENTITY contentEncodingError.longDesc "<ul>
+<!ENTITY contentEncodingError.longDesc "
+<ul>
   <li>Kontakt eigarane av nettstaden og informer om problemet.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Utrygg filtype">
-<!ENTITY unsafeContentType.longDesc "<ul>
+<!ENTITY unsafeContentType.longDesc "
+<ul>
   <li>Kontakt eigarane av nettsida for å informera om problemet.</li>
 </ul>
 ">
@@ -93,13 +100,15 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Klarte ikkje å forstå adressa">
-<!ENTITY unknownProtocolFound.longDesc "<ul>
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
   <li>Du må kanskje installera anna programvare for å opna denne addressa.</li>
 </ul>
 ">
 
 <!ENTITY proxyConnectFailure.title "Mellomtenar godtek ikkje tilkoplingar">
-<!ENTITY proxyConnectFailure.longDesc "<ul>
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
   <li>Kontroller at mellomtenarinnstillingane er korrekte.</li>
   <li>Kontakt nettverksansvarleg for å forsikra deg om at mellomtenaren
     verkar.</li>
@@ -109,7 +118,8 @@
 <!ENTITY proxyResolveFailure.title "Klarer ikkje å finna mellomtenar">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul>
+<!ENTITY proxyResolveFailure.longDesc3 "
+<ul>
   <li>Kontroller mellomtenarinnstillingane dine for å vera viss på at dei er rette.</li>
   <li>Kontroller at data- eller WiFi-tilkoplinga på eininga di fungerer.
     <button id='wifi'>Slå på Wi-Fi</button>
@@ -118,14 +128,16 @@
 ">
 
 <!ENTITY redirectLoop.title "Nettsida vidaresender ikkje skikkeleg">
-<!ENTITY redirectLoop.longDesc "<ul>
+<!ENTITY redirectLoop.longDesc "
+<ul>
   <li>Dette problemet kan av og til skuldast at infokapslar er
     slått av.</li>
 </ul>
 ">
 
 <!ENTITY unknownSocketType.title "Uventa svar frå tenar">
-<!ENTITY unknownSocketType.longDesc "<ul>
+<!ENTITY unknownSocketType.longDesc "
+<ul>
   <li>Kontroller at systemet ditt har «Personal Security Manager»
     installert.</li>
   <li>Dette kan skuldast eit ikkje-standardisert oppsett på tenaren.</li>
@@ -133,14 +145,16 @@
 ">
 
 <!ENTITY nssFailure2.title "Trygg tilkopling feila">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
+<!ENTITY nssFailure2.longDesc2 "
+<ul> 
   <li>Sida du freistar å opna kan ikkje visast fordi det ikkje kunne stadfestast at overførte data er autentiske.</li> 
   <li>Kontakt nettstadeigaren og informer om problemet.</li> 
 </ul>
 ">
 
 <!ENTITY nssBadCert.title "Trygg tilkopling feila">
-<!ENTITY nssBadCert.longDesc2 "<ul>
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
   <li>Dette kan vera pga. eit problem med oppsettet til tenaren, eller det kan vera
 nokon som prøvar å etterlikna tenaren.</li>
   <li>Om du har kopla til denne tenaren tidlegare, kan feilen 
@@ -150,7 +164,8 @@ vera krtvarig, og du kan prøva igjen seinare.</li>
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY sharedLongDesc3 "<ul>
+<!ENTITY sharedLongDesc3 "
+<ul>
   <li>Sida kan vera mellombels utilgjengeleg eller oppteken. Prøv igjen snart.</li>
   <li>Om du ikkje klarer å lasta sider, kontroller data- eller WiFi-tilkoplinga på eininga di.
     <button id='wifi'>Enable Wi-Fi</button>
@@ -173,12 +188,22 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "<p>Du bør ikkje leggja til ein unntaksregel om du brukar eit Internett-samband som du ikkje stolar fullstendig på, eller dersom du ikkje er van med å sjå slike åtvaringar for denne tenaren.</p> 
+<!ENTITY securityOverride.warningContent "
+<p>Du bør ikkje leggja til ein unntaksregel om du brukar eit Internett-samband som du ikkje stolar fullstendig på, eller dersom du ikkje er van med å sjå slike åtvaringar for denne tenaren.</p> 
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.title "Ekstern XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadseigarane og informer dei om dette problemet.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Kan ikkje kopla til trygt">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Avansert info: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Sambandet ditt er ikkje trygt">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Avansert info: SSL_ERROR_NO_CYPHER_OVERLAP">
