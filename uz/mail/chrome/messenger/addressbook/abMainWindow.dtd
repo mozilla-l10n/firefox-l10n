@@ -88,8 +88,8 @@
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Manzil kitobi paneli">
 <!ENTITY showAbToolbarCmd.accesskey                     "M">
-
-
+<!ENTITY showTaskbarCmd.label                           "Holat paneli">
+<!ENTITY showTaskbarCmd.accesskey                       "H">
 <!ENTITY customizeToolbar.label                         "Qulaylashtirish…">
 <!ENTITY customizeToolbar.accesskey                     "Q">
 <!ENTITY layoutMenu.label                               "Tartib">
@@ -199,6 +199,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY _PhoneticName.accesskey                        "o">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+
+<!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Uy">
 <!ENTITY other.heading                                  "Boshqa">
 <!ENTITY chat.heading                                   "Chat">
