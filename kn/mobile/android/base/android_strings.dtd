@@ -16,10 +16,10 @@
 
 
 <!ENTITY firstrun_data_title "ಮಾಹಿತಿ">
-
+<!ENTITY firstrun_data_message "ಕಡಿಮೆ ದತ್ತಾಂಶ, ಹೆಚ್ಚು ಉಳಿತಾಯ">
 
 <!ENTITY firstrun_sync_title "ಸಿಂಕ್">
-
+<!ENTITY firstrun_sync_message "&brandShortName;, ಯಾವಾಗಲೂ ನಿಮ್ಮ ಜೊತೆ">
 
 
 <!ENTITY firstrun_signin_button "ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಆಗಿ">
@@ -153,7 +153,7 @@
 <!ENTITY pref_category_privacy_short "ಗೌಪ್ಯತೆ">
 <!ENTITY pref_category_privacy_summary3 "ಜಾಡು ಇರಿಸುವಿಕೆ, ಕುಕೀಗಳು, ದತ್ತಾಂಶ ಆಯ್ಕೆಗಳು">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-
+<!ENTITY pref_category_vendor_summary2 "&brandShortName;,FAQs, ಪ್ರತಿಕ್ರೀಯೆ">
 <!ENTITY pref_category_datareporting "ದತ್ತಾಂಶ ಆಯ್ಕೆಗಳು">
 <!ENTITY pref_learn_more "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY pref_category_installed_search_engines "ಅನುಸ್ಥಾಪಿಸಿರುವ ಸರ್ಚ್ ಎಂಜಿನ್‌ಗಳು">
