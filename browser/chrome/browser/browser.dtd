@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
 <!ENTITY showAllBookmarks2.label "Zobraziť všetky záložky">
-<!ENTITY recentBookmarks.label "Naposledy pridané">
 <!ENTITY unsortedBookmarksCmd.label "Nezaradené záložky">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
 
@@ -425,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastavenia synchronizácie">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prihlásiť sa k službe Sync">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Zobraziť synchronizované karty na bočnom panely">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Zobraziť synchronizované karty na bočnom paneli">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pridať na panel nástrojov">
 <!ENTITY customizeMenu.addToToolbar.accesskey "s">
