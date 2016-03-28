@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "I">
 <!ENTITY retentionKeepRecent.label "Slett alle unntatt dei aller siste">
 <!ENTITY retentionKeepRecent.accesskey "S">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Alltid slett lesne meldingar (opphevar alders-innstillingar)">
 <!ENTITY retentionApplyToFlagged.label "Ta alltid vare på meldingar merkte med stjerne">
 <!ENTITY retentionApplyToFlagged.accesskey "d">
 
