@@ -31,8 +31,8 @@
 <!ENTITY importBookmarksFromHTML.accesskey "K">
 <!ENTITY exportBookmarksToHTML.label       "Kek'wäx el taq etal pa HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "K">
-<!ENTITY importOtherBrowser.label          "Kek'am pe ri tzij richin Another Browser">
-<!ENTITY importOtherBrowser.accesskey      "A">
+<!ENTITY importOtherBrowser.label          "Kejik' pe taq tzij richin junchik okik'amaya'l…">
+<!ENTITY importOtherBrowser.accesskey      "j">
 
 <!ENTITY cmd.backup.label               "Tiwachib'ëx…">
 <!ENTITY cmd.backup.accesskey           "T">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "Nutikirisaj">
+<!ENTITY startup.label             "Tikirisab'äl">
 
 <!ENTITY startupPage.label         "Toq xtitikirisäx &brandShortName;:">
 <!ENTITY startupPage.accesskey     "x">
@@ -10,11 +10,11 @@
 <!ENTITY startupBlankPage.label    "Tik'ut pe jun kowöl ruxaq">
 <!ENTITY startupLastSession.label  "Kek'ut ri taq nutzuwäch chuqa' taq ruwi' ruk'isib'äl numolojri'ïl">
 
-<!ENTITY homepage.label            "Tikirib'äl ruxaq">
-<!ENTITY homepage.accesskey        "T">
+<!ENTITY homepage.label            "Tikirib'äl ruxaq:">
+<!ENTITY homepage.accesskey        "r">
 <!ENTITY useCurrentPage.label      "Tokisäx ri ruxaq k'amaya'l k'o wakami">
 <!ENTITY useCurrentPage.accesskey  "C">
-<!ENTITY useMultiple.label         "Tokisäx ri taq ruxaq k'amaya'l e k'o wakami">
+<!ENTITY useMultiple.label         "Ke'okisäx ri taq ruxaq k'amaya'l e k'o wakami">
 <!ENTITY chooseBookmark.label      "Tokisäx yaketal…">
 <!ENTITY chooseBookmark.accesskey  "y">
 <!ENTITY restoreDefault.label      "Titzolïx ruwäch ri rajil achi'el ruk'amon pe">
@@ -28,7 +28,7 @@
 <!ENTITY chooseFolderWin.accesskey    "n">
 <!ENTITY chooseFolderMac.label        "Ticha'…">
 <!ENTITY chooseFolderMac.accesskey    "T">
-<!ENTITY alwaysAsk.label "Jantape' tik'utüx chwe akuchi' nyakox wi ri taq yakb'äl">
+<!ENTITY alwaysAsk.label "Jantape' tik'utüx pe chwe akuchi' yeyak wi kan ri taq yakb'äl">
 <!ENTITY alwaysAsk.accesskey "J">
 
 <!ENTITY alwaysCheckDefault2.label        "Junelïk tinik'öx we &brandShortName; ja ri' ri kan k'o wi awokik'amaya'l">

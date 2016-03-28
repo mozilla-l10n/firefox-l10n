@@ -4,10 +4,10 @@
 
 <!ENTITY position.label             "K'ojlib'äl:">
 <!ENTITY tile.label                 "Ch'utiwäch">
-<!ENTITY center.label               "Runik'ajal">
+<!ENTITY center.label               "Pa nik'aj">
 <!ENTITY stretch.label              "Tiyuq">
 <!ENTITY fill.label                 "Tinojisäx">
-<!ENTITY fit.label                  "Runuk'ik">
+<!ENTITY fit.label                  "Tinuk'">
 <!ENTITY preview.label              "Nab'ey tzub'al">
 <!ENTITY color.label                "B'onil:">
 <!ENTITY setDesktopBackground.title "Ticha' richin rupam ch'atal">

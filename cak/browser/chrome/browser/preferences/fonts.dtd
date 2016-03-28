@@ -44,7 +44,7 @@
 <!ENTITY  font.langGroup.georgian                 "Georgian">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.khmer                    "Aj CamboyaKhmer">
 <!ENTITY  font.langGroup.malayalam                "Malayo">
 <!ENTITY  font.langGroup.math                     "Ajilanem">
 <!ENTITY  font.langGroup.oriya                    "Ruchi'">
@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Aj Tibet">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Ko'ol runimilem tz'ib'">
+<!ENTITY minSize.label                            "Ko'öl runimilem tz'ib':">
 <!ENTITY minSize.accesskey                        "t">
 <!ENTITY minSize.none                             "Majun">
 <!-- default font type -->

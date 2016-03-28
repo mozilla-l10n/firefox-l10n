@@ -41,7 +41,7 @@
 <!ENTITY  mediaSaveAs           "Tiyak achi'el…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Nab'tz'etb'äl">
+<!ENTITY  mediaPreview          "Nab'ey rutzub'al q'ojom:">
 
 <!ENTITY  feedTab               "Taq b'ey">
 <!ENTITY  feedTab.accesskey     "F">
@@ -53,7 +53,7 @@
 <!ENTITY  permUseDefault        "Tokisäx ri ruk'amon wi pe">
 <!ENTITY  permAskAlways         "Junelïk tik'utüx pe">
 <!ENTITY  permAllow             "Ruya'ik q'ij">
-<!ENTITY  permAllowSession      "Tiya' q'ij  chupam re moloj re'">
+<!ENTITY  permAllowSession      "Tiya' q'ij chupam re molojri'ïl re'">
 <!ENTITY  permBlock             "Tiq'eleb'ëx">
 <!ENTITY  permissionsFor        "Taq ruya'ik q'ij richin:">
 <!ENTITY  permPlugins           "Titzij ri pluyin">
