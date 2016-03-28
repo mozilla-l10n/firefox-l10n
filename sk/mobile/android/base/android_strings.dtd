@@ -471,7 +471,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Prehliadanie na celú obrazovku">
 <!ENTITY pref_scroll_title_bar_summary2 "Skrýva panel nástrojov &brandShortName;u počas posúvania stránky">
 
-<!ENTITY pref_tab_queue_title3 "Fronta karty">
+<!ENTITY pref_tab_queue_title3 "Fronta kariet">
 <!ENTITY pref_tab_queue_summary4 "Linky ostanú uložené až pokiaľ znova nespustíte &brandShortName;.">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
@@ -771,7 +771,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Ospravedlňujeme sa! Tento &brandShortName; nebude fungovať na tomto zariadení (&formatS1;, &formatS2;). Prosím, prevezmite a nainštalujte správnu verziu.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; nebe viac aktualizovaný">
+<!ENTITY eol_notification_title2 "&brandShortName; nebude viac aktualizovaný">
 <!ENTITY eol_notification_summary "Ťuknutím zistíte ďalšie informácie">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
