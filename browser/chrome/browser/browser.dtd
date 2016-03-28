@@ -258,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
+<!ENTITY devtoolsServiceWorkers.accesskey  "o">
 
 <!ENTITY devtoolsConnect.label        "Opret forbindelse…">
 <!ENTITY devtoolsConnect.accesskey    "f">
@@ -424,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Indstillinger for Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Log ind for at få vist faneblade, som er åbne på dine andre enheder.">
 <!ENTITY appMenuRemoteTabs.signin.label "Log ind på Sync">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidepanel for synkroniserede faneblade">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Vis synkroniserede faneblade i sidepanel">
 
 <!ENTITY customizeMenu.addToToolbar.label "Føj til værktøjslinje">
 <!ENTITY customizeMenu.addToToolbar.accesskey "v">
@@ -796,7 +796,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Synkroniserede faneblade">
 <!ENTITY syncedTabs.sidebar.fetching.label     "Henter synkroniserede faneblade…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Log in på Firefox fra dine andre enheder for at se deres faneblade her.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Log ind på Firefox fra dine andre enheder for at se deres faneblade her.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Log ind for at se en liste med faneblade fra dine andre enheder.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ingen åbne faneblade">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Åbn Indstillinger i &syncBrand.shortName.label;">
@@ -804,10 +804,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivér synkronisering af faneblade for at se en liste med faneblade fra dine andre enheder.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Open This Tab">
-<!ENTITY syncedTabs.context.openTab.accesskey               "O">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Bookmark This Tab…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
+<!ENTITY syncedTabs.context.openTab.label                   "Åbn dette faneblad">
+<!ENTITY syncedTabs.context.openTab.accesskey               "f">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Tilføj bogmærke til faneblad…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "T">
 
 
 <!ENTITY syncBrand.shortName.label  "Sync">
