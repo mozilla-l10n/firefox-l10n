@@ -284,7 +284,7 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menylinje">
-<!ENTITY formatToolbar.tooltip "Formateringsverktøylinje">
+<!ENTITY formatToolbar.tooltip "Formateringsverktylinje">
 <!ENTITY cutToolbarCmd.tooltip "Klipp ut">
 <!ENTITY copyToolbarCmd.tooltip "Kopier">
 <!ENTITY pasteToolbarCmd.tooltip "Lim inn">

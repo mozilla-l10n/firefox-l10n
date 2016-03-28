@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY joinChatWindow.title           "Kople til nettprat">
+<!ENTITY joinChatWindow.title           "Kopla til nettprat">
 <!ENTITY name.label                     "Rom">
 <!ENTITY optional.label                 "(valfritt)">
 <!ENTITY account.label                  "Konto">
-<!ENTITY autojoin.label                 "Auto-tilkople dette programmet">
+<!ENTITY autojoin.label                 "Auto-tilkopla dette programmet">
 <!ENTITY autojoin.accesskey             "A">

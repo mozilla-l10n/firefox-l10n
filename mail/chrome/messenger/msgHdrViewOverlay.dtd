@@ -13,7 +13,7 @@
 <!ENTITY bccField4.label "Blindkopi">
 <!ENTITY newsgroupsField4.label "Gruppe">
 <!ENTITY followupToField4.label "Oppfølging">
-<!ENTITY tagsHdr4.label "Merkelappar">
+<!ENTITY tagsHdr4.label "Merkelapp-stikkord">
 <!ENTITY dateField4.label "Dato">
 <!ENTITY userAgentField4.label "Program">
 <!ENTITY referencesField4.label "Referansar">

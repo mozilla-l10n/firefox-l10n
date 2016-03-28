@@ -10,7 +10,7 @@
 <!ENTITY chat.noConv.description       "Bruk kontaktlista i panelet til venstre for å starta ein samtale.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; har ingen tidlegare samtalar lagra for denne kontakten. ">
 <!ENTITY chat.noAccount.title             "Du har ikkje sett opp ein nettprat-konto enno.">
-<!ENTITY chat.noAccount.description       "La &brandShortName; guide deg gjennom å setta opp ein nettprat-konto.">
+<!ENTITY chat.noAccount.description       "La &brandShortName; guida deg gjennom å setta opp ein nettprat-konto.">
 <!ENTITY chat.accountWizard.button       "Kom i gang">
 <!ENTITY chat.noConnectedAccount.title             "Nettpratkontoane dine er no tilkopla.">
 <!ENTITY chat.noConnectedAccount.description       "Du kan kopla dei til frå «Nettpratstatus»-dialogen:">
@@ -22,7 +22,7 @@
 
 <!ENTITY openConversationCmd.label     "Start ein samtale">
 <!ENTITY openConversationCmd.accesskey "t">
-<!ENTITY closeConversationCmd.label    "Lukk samtale">
+<!ENTITY closeConversationCmd.label    "Lat att samtale">
 <!ENTITY closeConversationCmd.accesskey "L">
 <!ENTITY aliasCmd.label                "Endra namn">
 <!ENTITY aliasCmd.accesskey            "E">
@@ -30,7 +30,7 @@
 <!ENTITY deleteCmd.accesskey           "S">
 
 <!ENTITY openConversationButton.tooltip  "Start ein samtale">
-<!ENTITY closeConversationButton.tooltip "Lukk samtale">
+<!ENTITY closeConversationButton.tooltip "Lat att samtale">
 
 <!ENTITY addBuddyButton.label          "Legg til ein kontakt">
 <!ENTITY joinChatButton.label          "Start nettprat">

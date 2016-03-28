@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemFormatting.label             "Formatering">
-<!ENTITY itemTags.label                   "Merkelappar">
+<!ENTITY itemTags.label                   "Merkelapp-stikkord">
 <!ENTITY itemAdvanced.label               "Avansert">
 
 <!ENTITY style.label                      "Stil:">
@@ -27,7 +27,7 @@
 <!ENTITY convertEmoticons.accesskey    "V">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label     "Merkelappar kan brukast for å kategorisere og prioritere meldingane dine.">
+<!ENTITY displayTagsText.label     "Merkelapp-stikkord kan brukast for å kategorisera og prioritera meldingane dine.">
 <!ENTITY addTagButton.label        "Legg til">
 <!ENTITY addTagButton.accesskey    "L">
 <!ENTITY editTagButton.label       "Rediger">
@@ -39,8 +39,8 @@
 <!ENTITY fontsAndColors1.label   "Skrifttypar og fargar">
 <!ENTITY defaultFont.label       "Standard skrifttype:">
 <!ENTITY defaultFont.accesskey   "t">
-<!ENTITY defaultSize.label       "Størrelse:">
-<!ENTITY defaultSize.accesskey   "ø">
+<!ENTITY defaultSize.label       "Storleik:">
+<!ENTITY defaultSize.accesskey   "o">
 <!ENTITY fontOptions.accesskey   "r">
 <!ENTITY fontOptions.label       "Skrifttypar …">
 <!ENTITY colorButton.label       "Fargar …">
