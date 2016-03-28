@@ -10,7 +10,7 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!ENTITY toolboxCloseButton.tooltip    "Užverti programuotojų priemones">
+<!ENTITY toolboxCloseButton.tooltip    "Užverti saityno kūrėjų priemones">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!ENTITY toolboxNextTool.key           "]">
 <!ENTITY toolboxPreviousTool.key       "[">
@@ -107,7 +107,7 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Įjungti naršyklės „chrome“ bei priedų derinimo įrankines">
-<!ENTITY options.enableChrome.tooltip3  "Įjungę šia parinktį galėsite naudotis įvairiais kūrėjo įrankiais naršyklėje (per Priemonės > Saityno kūrėjams > Naršyklės įrankinė) bei derinti priedus per priedų tvarkytuvę.">
+<!ENTITY options.enableChrome.tooltip3  "Įjungę šia parinktį galėsite naudotis įvairiomis saityno kūrėjų priemonėmis naršyklėje (per Priemonės > Saityno kūrėjams > Naršyklės įrankinė) bei derinti priedus per priedų tvarkytuvę.">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -119,7 +119,7 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableWorkers.label    "Įjungti scenarijų derinimą (programuojant)">
-<!ENTITY options.enableWorkers.tooltip  "Įjungdami šią nuostatą leisite programuotojo įrankiams derinti scenarijus">
+<!ENTITY options.enableWorkers.tooltip  "Įjungdami šią nuostatą leisite saityno kūrėjų priemonėms derinti scenarijus">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -142,13 +142,13 @@ values from browser.dtd.  -->
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label     "Numatytosios „Firefox“ programuotojų priemonės">
+<!ENTITY options.selectDefaultTools.label     "Numatytosios „Firefox“ saityno kūrėjų priemonės">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
 
-<!ENTITY options.selectAdditionalTools.label  "Priedų įdiegtos programuotojų priemonės">
+<!ENTITY options.selectAdditionalTools.label  "Priedų įdiegtos saityno kūrėjų priemonės">
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
