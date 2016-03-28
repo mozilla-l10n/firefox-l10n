@@ -793,8 +793,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "แท็บที่ผสาน">
 
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "ลงชื่อเข้าใช้ใน Firefox จากบนอุปกรณ์อื่นของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่นๆ ของคุณ">
 <!ENTITY syncedTabs.sidebar.notabs.label       "ไม่มีแท็บที่เปิดอยู่">
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
