@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY folderProps.windowtitle.label "Vlastnosti">
+<!ENTITY folderProps.windowtitle.label           "Vlastnosti">
 
-<!ENTITY generalInfo.label "Všeobecné informácie">
+<!ENTITY generalInfo.label                       "Všeobecné informácie">
 <!ENTITY folderCharsetFallback2.label            "Štandardné kódovanie textu:">
 <!ENTITY folderCharsetFallback2.accesskey        "a">
 <!ENTITY folderCharsetEnforce2.label             "Použiť pre všetky správy v priečinku (ignorovať kódovanie textu definované v správe)">
@@ -30,40 +30,38 @@
 <!ENTITY retentionKeepAll.accesskey "V">
 <!ENTITY retentionKeepRecent.label "Najnovšie">
 <!ENTITY retentionKeepRecent.accesskey "N">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Vždy odstrániť prečítané správy (nezávisle na dobe od prijatia správy)">
 <!ENTITY retentionApplyToFlagged.label "Vždy ponechať správy označené vlajkou">
 <!ENTITY retentionApplyToFlagged.accesskey "a">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronizácia">
-<!ENTITY folderCheckForNewMessages2.label       "Pri získavaní nových správ pre tento účet vždy kontrolovať aj tento priečinok">
-<!ENTITY folderCheckForNewMessages2.accesskey   "k">
+<!ENTITY folderCheckForNewMessages2.label        "Pri získavaní nových správ pre tento účet vždy kontrolovať aj tento priečinok">
+<!ENTITY folderCheckForNewMessages2.accesskey    "k">
 
-<!ENTITY offlineFolder.check.label "Používať tento priečinok offline">
-<!ENTITY offlineFolder.check.accesskey "u">
-<!ENTITY offlineFolder.button.label "Prevziať">
-<!ENTITY offlineFolder.button.accesskey "P">
+<!ENTITY offlineFolder.check.label               "Používať tento priečinok offline">
+<!ENTITY offlineFolder.check.accesskey           "u">
+<!ENTITY offlineFolder.button.label              "Prevziať">
+<!ENTITY offlineFolder.button.accesskey          "P">
 
-<!ENTITY selectofflineNewsgroup.check.label "Označiť túto diskusiu na použitie v režime offline">
-<!ENTITY selectofflineNewsgroup.check.accesskey "O">
-<!ENTITY offlineNewsgroup.button.label "Prevziať">
-<!ENTITY offlineNewsgroup.button.accesskey "P">
+<!ENTITY selectofflineNewsgroup.check.label      "Označiť túto diskusiu na použitie v režime offline">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "O">
+<!ENTITY offlineNewsgroup.button.label           "Prevziať">
+<!ENTITY offlineNewsgroup.button.accesskey       "P">
 
-<!ENTITY folderProps.name.label "Názov:">
-<!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderProps.name.label                  "Názov:">
+<!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Umiestnenie:">
 <!ENTITY folderProps.location.accesskey          "U">
 
-<!ENTITY folderSharingTab.label "Zdieľanie">
-<!ENTITY privileges.button.label "Prístupové práva…">
-<!ENTITY privileges.button.accesskey "P">
-<!ENTITY permissionsDesc.label "Máte nasledujúce prístupové práva:">
-<!ENTITY folderType.label "Typ priečinka:">
+<!ENTITY folderSharingTab.label                  "Zdieľanie">
+<!ENTITY privileges.button.label                 "Prístupové práva…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Máte nasledujúce prístupové práva:">
+<!ENTITY folderType.label                        "Typ priečinka:">
 
-<!ENTITY folderQuotaTab.label "Kvóta">
-<!ENTITY folderQuotaRoot.label "Hlavná kvóta:">
-<!ENTITY folderQuotaUsage.label "Využitie:">
-<!ENTITY folderQuotaStatus.label "Stav:">
+<!ENTITY folderQuotaTab.label                    "Kvóta">
+<!ENTITY folderQuotaRoot.label                   "Hlavná kvóta:">
+<!ENTITY folderQuotaUsage.label                  "Využitie:">
+<!ENTITY folderQuotaStatus.label                 "Stav:">
 
 <!ENTITY numberOfMessages.label                  "Počet správ:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
