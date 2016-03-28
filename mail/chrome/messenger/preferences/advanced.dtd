@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Spør OCSP-serverne om å bekrefte gyldigheten til sertifikater">
 <!ENTITY enableOCSP.accesskey            "Q">
 
-<!ENTITY viewCertificates.label         "Vis sertifikater">
-<!ENTITY viewCertificates.accesskey     "V">
-<!ENTITY viewSecurityDevices.label      "Sikkerhetsenheter">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY manageCertificates.label "Behandle sertifikater">
+<!ENTITY manageCertificates.accesskey "B">
+<!ENTITY viewSecurityDevices.label "Sikkerhetsenheter">
+<!ENTITY viewSecurityDevices.accesskey "S">
