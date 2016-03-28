@@ -9,11 +9,13 @@
 
 <!ENTITY pref.calendar.view.allview.caption "Generelt">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Dag- og vekevising">
-<!ENTITY pref.calendar.view.multiweekview.caption "Fleirvekevising">
+<!ENTITY pref.calendar.view.multiweekview.caption "Fleirveke-vising">
 <!ENTITY pref.calendar.view.workweek.caption "Arbeidsveke">
 
 <!ENTITY pref.weekstarts.label "Fyrste dag i veka:">
 <!ENTITY pref.weekstarts.accesskey "y">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Vis vekenummer i visingar og minimånad">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "V">
 <!ENTITY pref.daysoff.label "Dagar i arbeidsveka:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dagen startar klokka:">

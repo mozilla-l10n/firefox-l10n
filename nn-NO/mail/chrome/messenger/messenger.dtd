@@ -182,7 +182,7 @@
 <!ENTITY sortBySizeCmd.accesskey "t">
 <!ENTITY sortByStatusCmd.label "Status">
 <!ENTITY sortByStatusCmd.accesskey "u">
-<!ENTITY sortByTagsCmd.label "Merkelappar">
+<!ENTITY sortByTagsCmd.label "Merkelapp-stikkord">
 <!ENTITY sortByTagsCmd.accesskey "k">
 <!ENTITY sortByJunkStatusCmd.label "Uønskt-status">
 <!ENTITY sortByJunkStatusCmd.accesskey "U">
@@ -383,7 +383,7 @@
 <!ENTITY watchThreadMenu.label "Overvak tråd">
 <!ENTITY watchThreadMenu.accesskey "O">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY tagMenu.label "Merkelapp">
+<!ENTITY tagMenu.label "Merkelapp-stikkord">
 <!ENTITY tagMenu.accesskey "k">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
@@ -443,7 +443,7 @@
 <!ENTITY windowMenu.label "Vindauge">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label "Verktøy">
+<!ENTITY tasksMenu.label "Verkty">
 <!ENTITY tasksMenu.accesskey "e">
 <!ENTITY messengerCmd.label "E-post og nyhendegrupper">
 <!ENTITY messengerCmd.accesskey "E">
@@ -525,7 +525,7 @@
 <!ENTITY searchItem.title "Snøggsøk">
 <!ENTITY mailViewsToolbarItem.title "Meldingsoversyn">
 <!ENTITY folderLocationToolbarItem.title "Mappeplassering">
-<!ENTITY tagButton.label "Merkelapp">
+<!ENTITY tagButton.label "Merkelapp-stikkord">
 <!ENTITY compactButton.label "Komprimer">
 <!ENTITY appmenuButton.label "AppMeny">
 
@@ -586,14 +586,14 @@
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
 <!ENTITY appmenuNewContactCmd.label "Adressebokkontaktar …">
 <!ENTITY appmenuEditMenu.label "Rediger">
-<!ENTITY appmenuToolbarLayout.label "Verktøylinjeutsjånad …">
+<!ENTITY appmenuToolbarLayout.label "Verktylinjeutsjånad …">
 <!ENTITY appmenuSelectThread.label "Vel tråd">
 <!ENTITY appmenuSelectFlagged.label "Vel meldingar med stjerne">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Ny merkelapp …">
+<!ENTITY addNewTag.label "Nytt merkelapp-stikkord …">
 <!ENTITY addNewTag.accesskey "N">
-<!ENTITY manageTags.label "Handsam merkelappar …">
+<!ENTITY manageTags.label "Handsam merkelapp-stikkord …">
 <!ENTITY manageTags.accesskey "H">
 
 <!-- Folder Pane -->
@@ -664,7 +664,7 @@
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
-<!ENTITY tagsColumn.label "Merkelapp">
+<!ENTITY tagsColumn.label "Merkelapp-stikkord">
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Storleik">
@@ -687,7 +687,7 @@
 <!ENTITY subjectColumn2.tooltip "Sorter etter: Emne">
 <!ENTITY dateColumn2.tooltip "Sorter etter: Dato">
 <!ENTITY priorityColumn2.tooltip "Sorter etter: Prioritet">
-<!ENTITY tagsColumn2.tooltip "Sorter etter: Merkelappar">
+<!ENTITY tagsColumn2.tooltip "Sorter etter: Merkelapp-stikkord">
 <!ENTITY accountColumn2.tooltip "Sorter etter konto">
 <!ENTITY statusColumn2.tooltip "Sorter etter: Status">
 <!ENTITY sizeColumn2.tooltip "Sorter etter: Storleik">
