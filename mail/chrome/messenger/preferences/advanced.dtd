@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Spør OCSP-tenaren om å stadfesta at sertifikat gjeld">
 <!ENTITY enableOCSP.accesskey            "S">
 
-<!ENTITY viewCertificates.label         "Vis sertifikat">
-<!ENTITY viewCertificates.accesskey     "V">
-<!ENTITY viewSecurityDevices.label      "Tryggingseiningar">
-<!ENTITY viewSecurityDevices.accesskey  "T">
+<!ENTITY manageCertificates.label "Handsam sertifikat">
+<!ENTITY manageCertificates.accesskey "H">
+<!ENTITY viewSecurityDevices.label "Tryggingseiningar">
+<!ENTITY viewSecurityDevices.accesskey "T">

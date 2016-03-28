@@ -14,6 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "ø">
 <!ENTITY blockAutoRefresh.label          "Åtvar meg når nettsider freistar å omdirigera eller lasta sida på nytt">
 <!ENTITY blockAutoRefresh.accesskey      "Å">
+<!ENTITY useOnScreenKeyboard.label       "Vis eit touch-tastatur når naudsynt">
+<!ENTITY useOnScreenKeyboard.accesskey   "t">
 
 <!ENTITY browsing.label                  "Nettlesing">
 

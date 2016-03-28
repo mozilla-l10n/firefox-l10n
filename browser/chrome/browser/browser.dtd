@@ -250,10 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Utvidingar">
 <!ENTITY addons.accesskey             "U">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Appar">
-<!ENTITY webapps.accesskey            "p">
-<!ENTITY loopMenuItem.label           "Start ein samtale …">
-<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "Nettsideutvikling">
 <!ENTITY webDeveloperMenu.accesskey   "N">
@@ -752,7 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Denne sida er lagra på datamaskina di.">
 <!ENTITY identity.connectionVerified1 "Du er trygt kopla til denne sida, driven av:">
 <!ENTITY identity.connectionInternal "Dette er ei trygg &brandShortName;-side.">
-<!ENTITY identity.insecureLoginForms "Innlogginga di kan vera kompromittert.">
+<!ENTITY identity.insecureLoginForms2 "Innloggingsinfo skrive inn på denne sida kan lesast av tredjepart.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blokkert delar av denne sida som ikkje er trygg.">
@@ -936,10 +932,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "I">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ikkje spør meg meir">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "k">
-
-<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-<!ENTITY saveToPocketCmd.label     "Lagra sida til Pocket">
-<!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Lagra lenka til Pocket">
-<!ENTITY saveLinkToPocketCmd.accesskey "e">
-<!ENTITY pocketMenuitem.label      "Vis Pocket-liste">

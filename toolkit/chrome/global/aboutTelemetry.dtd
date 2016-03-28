@@ -36,6 +36,18 @@ Gjeldande ping-data
 Arkiverte ping-data
 ">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "
+Vising av ping-data:
+">
+
+<!ENTITY aboutTelemetry.structured "
+Strukturert
+">
+
+<!ENTITY aboutTelemetry.raw "
+Rå JSON
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Vis underøkt-data
 ">
