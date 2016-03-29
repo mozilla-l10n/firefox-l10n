@@ -1,6 +1,7 @@
 <!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
      in the inspector contextual-menu for the item that lets users edit the
      (outer) HTML of the current node -->
+<!ENTITY inspectorHTMLEdit.label       "עריכה בתור HTML">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
@@ -21,10 +22,12 @@
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
+<!ENTITY inspectorHTMLPasteOuter.label      "הדבקת HTML חיצוני">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
+<!ENTITY inspectorHTMLPasteInner.label      "הדבקת HTML פנימי">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
@@ -33,6 +36,7 @@
      - after the current node
      - as the first child of the current node
      - as the last child of the current node -->
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "הדבקה…">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
@@ -69,6 +73,7 @@
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
+<!ENTITY inspectorAddAttribute.label        "הוספת תכונה">
 
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
@@ -83,9 +88,9 @@
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
      the placeholder in inspector search box -->
 
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
-     be shown as the placeholder in the future, once the inspector search box
-     supports the full text HTML search in Bug 835896. -->
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
+     shown as the placeholder for the markup view search in the inspector. -->
+<!ENTITY inspectorSearchHTML.label3 "חיפוש HTML">
 
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
