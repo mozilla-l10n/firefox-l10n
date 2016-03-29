@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "บ">
 <!ENTITY shareVideo.label "แบ่งปันวิดีโอนี้">
 <!ENTITY shareVideo.accesskey "บ">
-
-
+<!ENTITY feedsMenu2.label "บอกรับหน้านี้">
+<!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
@@ -415,9 +415,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "ไม่มีแท็บที่เปิดอยู่">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "เปิดการผสานแท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่นๆ ของคุณ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "ลงชื่อเข้าใช้ใน Firefox จากบนอุปกรณ์อื่นของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
 
 
 <!ENTITY appMenuRemoteTabs.signin.label "เข้าสู่ระบบ Sync">
@@ -799,6 +801,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "เปิดการผสานแท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่นๆ ของคุณ">
 
 
 
