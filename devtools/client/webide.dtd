@@ -65,6 +65,7 @@
 <!ENTITY projectPanel_myProjects "הפרויקטים שלי">
 <!ENTITY projectPanel_runtimeApps "יישומי זמן ריצה">
 <!ENTITY projectPanel_tabs "לשוניות">
+<!ENTITY runtimePanel_usb "התקני USB">
 <!ENTITY runtimePanel_installsimulator "התקנת מדמה">
 <!ENTITY runtimePanel_noadbhelper "התקנת מסייע ADB">
 <!ENTITY runtimePanel_nousbdevice "ההתקן שלך לא מופיע ברשימה?">
