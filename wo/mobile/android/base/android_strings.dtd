@@ -19,17 +19,20 @@
 <!ENTITY firstrun_data_subtext2 "Nëbbal nataal yi ngir jëfandikoo njoxe yu gën a néew ci dal boy nemmeeku.">
 <!ENTITY firstrun_sync_title "Lonk">
 <!ENTITY firstrun_sync_message "&brandShortName;, ci sa wet saa su ne">
-<!ENTITY  onboard_start_button_browser "Start Browsing">
+<!ENTITY firstrun_signin_button "Duggal ngir lonk">
+<!ENTITY  onboard_start_button_browser "Tàmbalil joow">
+<!ENTITY firstrun_button_next "Toftal">
 
+<!ENTITY  onboard_start_restricted1 "Nekkal ci kaaraange ak bii sumb buñ yombal bu &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Bookmarks">
-<!ENTITY  history_title "History">
-<!ENTITY  reading_list_title "Reading List">
-<!ENTITY  recent_tabs_title "Recent Tabs">
+<!ENTITY  bookmarks_title "Màndarga-xët">
+<!ENTITY  history_title "Jaar-jaar">
+<!ENTITY  reading_list_title "Limub jàng">
+<!ENTITY  recent_tabs_title "Làcc yi mujj">
 
-<!ENTITY  switch_to_tab "Switch to tab">
+<!ENTITY  switch_to_tab "Dem ci làcc wi">
 
 <!ENTITY  crash_reporter_title "Rapooru lajj &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
