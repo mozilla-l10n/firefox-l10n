@@ -14,9 +14,22 @@
 
 
 
+<!ENTITY aboutTelemetry.raw "
+JSON גולמי
+">
 
 
 
+
+
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "
+שבוע
+">
+
+<!ENTITY aboutTelemetry.archivePingHeader "
+פינג
+">
 
 <!ENTITY aboutTelemetry.generalDataSection "  מידע כללי">
 
@@ -38,7 +51,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  כתיבה מאוחרת">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  נתוני מערכת">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  נתוני היסטוגרמה שנאספו על־ידי תוספות">
 
@@ -53,3 +65,5 @@
 <!ENTITY aboutTelemetry.hideSymbols "  הצגת מידע גולמי מתקיעות">
 
 <!ENTITY aboutTelemetry.filterText "  סינון (מחרוזות או /ביטויים.רגולריים/)">
+
+
