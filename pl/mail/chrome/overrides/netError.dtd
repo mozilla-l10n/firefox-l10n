@@ -68,18 +68,6 @@
 
 <!ENTITY sharedLongDesc "<ul><li>Witryna może być tymczasowo niedostępna lub zbyt obciążona. Spróbuj ponownie za kilka minut.</li><li>Jeśli nie można otworzyć żadnej strony, należy sprawdzić swoje połączenie sieciowe.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy program &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
 
-<!ENTITY malwareBlocked.title "Witryna podejrzewana o dokonywanie ataków!">
-<!ENTITY malwareBlocked.longDesc "<p>Tego rodzaju witryny mogą próbować instalować oprogramowanie wykradające poufne dane, używające komputera do pośredniczenia w atakach lub uszkadzające system.</p><p>Właściciele witryn, które zostały błędnie uznane za podejrzane, mogą <a href='http://www.stopbadware.org/home/reviewinfo'>poprosić o ponowne ich sprawdzenie</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Witryna podejrzewana o niechciane oprogramowanie!">
-<!ENTITY unwantedBlocked.longDesc "<p>Witryny zawierające niechciane oprogramowanie próbują nakłonić do instalacji programów mogących wprowadzać w błąd i wpływać na system operacyjny w nieoczekiwany sposób.</p>">
-
-<!ENTITY phishingBlocked.title "Prawdopodobne oszustwo!">
-<!ENTITY phishingBlocked.longDesc "<p>Wprowadzanie jakichkolwiek informacji osobistych na tej stronie może skutkować kradzieżą tożsamości lub inną malwersacją.</p><p>Tego rodzaju fałszerstwa określa się mianem phishingu. Atak ten polega na utworzeniu przez przestępców podrobionej strony lub wiadomości udającej źródło godne zaufania.</p>">
-
-<!ENTITY forbiddenBlocked.title "Zablokowana strona">
-<!ENTITY forbiddenBlocked.longDesc "<p>Program &brandShortName;, zgodnie ze swoimi ustawieniami, zablokował wczytywanie tej strony.</p>">
-
 <!ENTITY cspBlocked.title "Zablokowane przez politykę bezpieczeństwa treści">
 <!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ jej polityka bezpieczeństwa treści na to nie pozwala.</p>">
 
