@@ -26,7 +26,7 @@
 <!ENTITY signIn.recoveryKey.accesskey   "e">
 <!-- New Account Page 1: Basic Account Info -->
 
-<!ENTITY setup.newAccountDetailsPage.title.label "Retal ri taqoya'l">
+<!ENTITY setup.newAccountDetailsPage.title.label "Taq rub'anikil rub'i' taqoya'l">
 <!ENTITY setup.emailAddress.label     "Rochochib'al taqoya'l">
 <!ENTITY setup.emailAddress.accesskey "R">
 <!ENTITY setup.choosePassword.label      "Tacha' jun ewan tzij">

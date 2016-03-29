@@ -244,15 +244,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "r">
 
 <!ENTITY downloads.label              "Taq qasa’n">
-<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.accesskey          "q">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Taq rutz’aqat">
-<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.label                 "Taq tz’aqat">
+<!ENTITY addons.accesskey             "t">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Nuk'unel k'amaya'l">
-<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.label       "Nuk'unel ajk'amaya'l">
+<!ENTITY webDeveloperMenu.accesskey   "a">
 
 <!ENTITY devToolsCmd.keycode          "VK_F2">
 <!ENTITY devToolsCmd.keytext          "F12">
@@ -299,8 +299,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY browserToolboxMenu.label     "Molaj samajib'äl richin okem">
-<!ENTITY browserToolboxMenu.accesskey "e">
+<!ENTITY browserToolboxMenu.label     "Kikaxa taq samajib'äl richin okik'amaya'l">
+<!ENTITY browserToolboxMenu.accesskey "i">
 <!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.

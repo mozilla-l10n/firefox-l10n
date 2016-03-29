@@ -31,16 +31,16 @@
 <!ENTITY healthReport2.label      "Rutzijol raxnaqil richin &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "i">
 
-<!ENTITY helpTroubleshootingInfo.label      "Na'oj richin ye'asöl taq k'ayewal">
+<!ENTITY helpTroubleshootingInfo.label      "Na'oj richin kisolik taq k'ayewal">
 <!ENTITY helpTroubleshootingInfo.accesskey  "N">
 
-<!ENTITY helpFeedbackPage.label      "Rutaqik ana'oj.">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY helpFeedbackPage.label      "Ketaq taq rutzijol…">
+<!ENTITY helpFeedbackPage.accesskey  "K">
 
-<!ENTITY helpShowTour2.label            "&brandShorterName; B'eyajem">
-<!ENTITY helpShowTour2.accesskey        "a">
+<!ENTITY helpShowTour2.label            "&brandShorterName; B'enam">
+<!ENTITY helpShowTour2.accesskey        "n">
 
-<!ENTITY preferencesCmdMac.label        "Taq cha'oj…">
+<!ENTITY preferencesCmdMac.label        "Taq ajowab'äl…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Taq samaj">
