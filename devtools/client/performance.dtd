@@ -13,6 +13,8 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
+<!ENTITY performanceUI.startRecording "התחלת הקלטת הביצועים">
+<!ENTITY performanceUI.stopRecording  "עצירת הקלטת הביצועים">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
