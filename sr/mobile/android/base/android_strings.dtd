@@ -222,7 +222,7 @@
 
 <!ENTITY pref_cookies_menu "Колачићи">
 <!ENTITY pref_cookies_accept_all "Омогућени">
-<!ENTITY pref_cookies_not_accept_foreign "Омогућено, укључујући трећа лица">
+<!ENTITY pref_cookies_not_accept_foreign "Укључујући трећа лица">
 <!ENTITY pref_cookies_disabled "Онемогућени">
 
 <!ENTITY pref_tap_to_load_images_title2 "Прикажи слике">
@@ -290,7 +290,7 @@
 <!ENTITY pref_text_size "Величина текста">
 <!ENTITY pref_restore_tabs "Обнови језичке">
 <!ENTITY pref_restore_always "Увек обнови">
-<!ENTITY pref_restore_quit "Немој обновити након затварања &brandShortName;">
+<!ENTITY pref_restore_quit "Немој након затварања">
 <!ENTITY pref_font_size_tiny "Ситне">
 <!ENTITY pref_font_size_small "Мале">
 <!ENTITY pref_font_size_medium "Средње">
