@@ -163,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "ב">
 <!ENTITY shareVideo.label "שיתוף וידאו זה">
 <!ENTITY shareVideo.accesskey "ד">
-<!ENTITY feedsMenu.label "הרשמה">
 <!ENTITY subscribeToPageMenupopup.label "הרשמה לדף זה">
 <!ENTITY subscribeToPageMenuitem.label "הרשמה לדף זה…">
 <!ENTITY addCurPagesCmd.label "יצירת סימנייה לכל הלשוניות…">
@@ -247,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
+
 
 <!ENTITY devtoolsConnect.label        "התחברות…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -725,7 +725,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "ה">
 
 <!ENTITY editBookmark.done.label                     "סיום">
-<!ENTITY editBookmark.cancel.label                   "ביטול">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ה">
 
 <!ENTITY identity.connectionSecure "חיבור מאובטח">
@@ -758,6 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "נ">
 <!ENTITY identity.learnMore "מידע נוסף">
 
+
 <!ENTITY identity.moreInfoLinkText2 "מידע נוסף">
 
 <!ENTITY identity.permissions "הרשאות">
@@ -767,8 +767,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "לשוניות הדפדפן">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "לשוניות מסונכרנות">
+
+<!ENTITY syncedTabs.sidebar.notabs.label       "אין לשוניות פתוחות">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "פתיחת ההעדפות של &syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+<!ENTITY syncedTabs.context.openTab.label                   "פתיחת לשונית זו">
+<!ENTITY syncedTabs.context.openTab.accesskey               "פ">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "צור סימנייה ללשונית זו…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "ס">
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -806,7 +817,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "נא ללחוץ על השירות על־מנת להוסיף אותו אל &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "עוד">
 
-<!ENTITY customizeMode.tabTitle "התאמה אישית של &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "סרגלי כלים ותכונות נוספות">
 <!ENTITY customizeMode.menuAndToolbars.empty "מעוניינים בכלים נוספים?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "לבחור מאלפי תוספות">
@@ -912,7 +922,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "מידע נוסף על ניהול זכויות דיגיטלי…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "ז">
-<!ENTITY emeNotificationsNotNow.label             "לא כעת">
-<!ENTITY emeNotificationsNotNow.accesskey         "ל">
-<!ENTITY emeNotificationsDontAskAgain.label       "אל תשאל אותי שוב">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">

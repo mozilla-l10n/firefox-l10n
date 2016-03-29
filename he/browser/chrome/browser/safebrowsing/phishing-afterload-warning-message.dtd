@@ -5,6 +5,7 @@
 <!ENTITY safeb.palm.accept.label "צא מכאן!">
 <!ENTITY safeb.palm.decline.label "התעלם מהזהרה זו">
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
+<!ENTITY safeb.palm.notdeceptive.label "אתר זה אינו אתר מטעה…">
 <!ENTITY safeb.palm.reportPage.label "למה דף זה נחסם?">
 
 <!ENTITY safeb.blocked.malwarePage.title "דף תקיפה מדווח!">

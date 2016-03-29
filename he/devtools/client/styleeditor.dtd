@@ -24,6 +24,7 @@
 <!ENTITY saveButton.tooltip         "שמירת גליון הסגנון לקובץ">
 <!ENTITY saveButton.accesskey       "ש">
 
+<!ENTITY optionsButton.tooltip      "אפשרויות עורך העיצוב">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
