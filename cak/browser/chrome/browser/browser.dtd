@@ -340,33 +340,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY userContextBanking.accesskey     "Y">
 <!ENTITY userContextShopping.label        "Tiloq'">
 <!ENTITY userContextShopping.accesskey    "T">
-<!ENTITY newNavigatorCmd.label        "K'ak'a' kajtz'ik">
+<!ENTITY newNavigatorCmd.label        "K'ak'a' tzuwäch">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newNavigatorCmd.accesskey      "K">
 <!ENTITY newPrivateWindow.label     "K'ak'a' ichinan kajtz'ïk">
 <!ENTITY newPrivateWindow.accesskey "i">
 <!ENTITY newNonRemoteWindow.label   "K'ak'a' Non-e10s Window">
 
 <!ENTITY editMenu.label         "K'exonïk"> 
 <!ENTITY editMenu.accesskey       "e"> 
-<!ENTITY undoCmd.label            "Yujïk">  
+<!ENTITY undoCmd.label            "Tiyuj">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "T"> 
 <!ENTITY redoCmd.label            "Rukamuluxik">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "m"> 
-<!ENTITY cutCmd.label           "Qupixik">  
+<!ENTITY cutCmd.label           "Tiqupïx">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY cutCmd.accesskey         "q"> 
 <!ENTITY copyCmd.label            "Wachib'exïk">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "c"> 
-<!ENTITY pasteCmd.label           "Tz'ajb'axïk">  
+<!ENTITY pasteCmd.label           "Titz'ajb'äx">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "Yujïk">  
+<!ENTITY pasteCmd.accesskey         "T"> 
+<!ENTITY deleteCmd.label          "Tiyuj">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "ï"> 
+<!ENTITY deleteCmd.accesskey        "T"> 
 <!ENTITY selectAllCmd.label         "Rucha'ik ronojel">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "r"> 
@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.accesskey     "W">
 
 <!ENTITY historyMenu.label "Natab’äl">
-<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyMenu.accesskey "t">
 <!ENTITY historyUndoMenu.label "Taq ruwi' k'a b'a' etz'apin">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Taq k'ajtz'ib' k'a b'a' etz'apin">
@@ -437,8 +437,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Tiq'asäx pa MENU">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.moveToPanel.label "Tiq'asäx pa K'utsamaj">
+<!ENTITY customizeMenu.moveToPanel.accesskey "q">
 <!ENTITY customizeMenu.removeFromToolbar.label "Telesäx el pa molsamajib'äl">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "T">
 <!ENTITY customizeMenu.removeFromMenu.label "Telesäx el pa MENU">
@@ -521,8 +521,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openLinkCmdInTab.label       "Rujaqij ximon tzij pa jun k'ak'a' ruwi'">
 <!ENTITY openLinkCmdInTab.accesskey   "r">
-<!ENTITY openLinkCmd.label            "Rujaqik ximon tzij pa jun k'ak'a' kajtz'ïk">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmd.label            "Tijaq ximonel tzij pa jun k'ak'a' Tzuwäch">
+<!ENTITY openLinkCmd.accesskey        "T">
 <!ENTITY openLinkInPrivateWindowCmd.label "Rujaqik ximon tzij pa jun k'ak'a' ichinan kajtz'ïk">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "i">
 <!ENTITY openLinkCmdInCurrent.label     "Rujaqik ximon tzij">
