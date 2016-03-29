@@ -26,8 +26,8 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Kitz'apixik taq ruwi' pan ajkiq'a'">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeTabsToTheEnd.label            "Titz'apïx taq ruwi' pan ajkiq'a'">
+<!ENTITY  closeTabsToTheEnd.accesskey        "a">
 <!ENTITY  closeOtherTabs.label               "Ketz'apïx ri ch'aqa' chik taq ruwi'">
 <!ENTITY  closeOtherTabs.accesskey           "K">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -46,37 +46,37 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "r">
 <!ENTITY  undoCloseTab.label                 "Titzolïx chi rij ri rutz'apixik ruk'isib'al ruwi'">
 <!ENTITY  undoCloseTab.accesskey             "T">
-<!ENTITY  closeTab.label                     "Rutz’apixik ruwi’">
-<!ENTITY  closeTab.accesskey                 "C">
+<!ENTITY  closeTab.label                     "Titz'apïx ruwi’">
+<!ENTITY  closeTab.accesskey                 "T">
 
 <!ENTITY  listAllTabs.label      "Kik'utik konojel ri taq ruwi' kajtz'ïk">
 
 <!ENTITY tabCmd.label "K’ak’a’ ruwi’">
-<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.accesskey "r">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Tijaq ri k'ojlemal…">
-<!ENTITY openFileCmd.label "Rujaqik yakb'äl…">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.label "Tijaq yakb'äl…">
+<!ENTITY openFileCmd.accesskey "T">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Runuk'ik ruxaq…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Tinuk'samajïx ruxaq…">
+<!ENTITY printSetupCmd.accesskey "n">
 <!ENTITY printPreviewCmd.label "Nab'ey tz'etoj">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Tz'ajixïk…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printPreviewCmd.accesskey "e">
+<!ENTITY printCmd.label "Titz'ajb'äx…">
+<!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Chupül rusamaj">
 <!ENTITY goOfflineCmd.accesskey "m">
 
-<!ENTITY menubarCmd.label "Rucholab'al cha'osamaj">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.label "Rucholob'al cha'osamaj">
+<!ENTITY menubarCmd.accesskey "c">
 <!ENTITY navbarCmd.label "Rukajtz'ik okem pa k'amaya'l">
-<!ENTITY personalbarCmd.label "Rutz'aqat cholab'äl">
-<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY personalbarCmd.label "Kicholob'al taq kisamajib'al taq etal">
+<!ENTITY personalbarCmd.accesskey "K">
 <!ENTITY bookmarksToolbarItem.label "Ruch'akulal taq retal cholsamajib'äl">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Kesamajib'ëx chik konojel ri taq ruwi'">
@@ -93,15 +93,15 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.accesskey "R">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Tiyuk'umïx ri ruwi'">
-<!ENTITY mirrorTabCmd.accesskey "M">
+<!ENTITY mirrorTabCmd.accesskey "T">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Yatok pa tz'aqät ruwäch kematz'ib'">
 <!ENTITY enterFullScreenCmd.accesskey "t">
 <!ENTITY exitFullScreenCmd.label "Yatel pa tz'aqät ruwäch kematz'ib'">
 <!ENTITY exitFullScreenCmd.accesskey "t">
-<!ENTITY fullScreenCmd.label "Runimilem ruwäch">
-<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.label "Chijun ruwäch">
+<!ENTITY fullScreenCmd.accesskey "r">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Ruk'utik ronojel ruwi' kajtz'ïk">
 <!ENTITY showAllTabsCmd.accesskey "t">
@@ -141,8 +141,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Rutz'apixik kajtz'ïk">
 <!ENTITY closeWindow.accesskey "k">
 
-<!ENTITY bookmarksMenu.label "Taq retal">
-<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarksMenu.label "Taq etal">
+<!ENTITY bookmarksMenu.accesskey "e">
 <!ENTITY bookmarkThisPageCmd.label "Titz'aqatisäx re ruxaq re' pa taq yaköl etal">
 <!ENTITY editThisBookmarkCmd.label "Yujun taq Samajib'äl">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">

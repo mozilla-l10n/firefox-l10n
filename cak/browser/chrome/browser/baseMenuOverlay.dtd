@@ -9,11 +9,11 @@
 <!ENTITY windowMenu.label         "Window">
 
 <!ENTITY helpMenu.label           "To'ïk"> 
-<!ENTITY helpMenu.accesskey       "H"> 
+<!ENTITY helpMenu.accesskey       "T"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "To'ïk"> 
-<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY helpMenuWin.accesskey    "T">
 <!ENTITY aboutProduct2.label      "Chi rij ri &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "C">
 <!ENTITY productHelp2.label       "&brandShorterName; To'ïk">
@@ -23,9 +23,9 @@
 <!ENTITY helpKeyboardShortcuts.label     "Ruq'a' rub'ey Keyboard">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Rutzijik jub'ey chik rik'in chupül taq rutz'aqat…">
-<!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "Titikirisäx chik rik'in tzijon taq rutz'aqat">
+<!ENTITY helpSafeMode.label       "Ketikirisäx chik ri taq rutz'aqat e chupül…">
+<!ENTITY helpSafeMode.accesskey   "K">
+<!ENTITY helpSafeMode.stop.label       "Titikirisäx chik rik'in ri taq tz'aqat e tzijïl">
 <!ENTITY helpSafeMode.stop.accesskey   "T">
 
 <!ENTITY healthReport2.label      "Rutzijol raxnaqil richin &brandShorterName;">
