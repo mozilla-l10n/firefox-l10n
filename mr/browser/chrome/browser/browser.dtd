@@ -451,7 +451,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "टॅबचा वापर करा:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "तुम्ही तुमचा शोध अनुभव सूचनांद्वारा सुधारू इच्छिता का?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "आपण आपला शोध अनुभव सूचनांद्वारा सुधारू इच्छिता का?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "अधिक जाणून घ्या…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "नाही">
@@ -752,21 +752,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "सुरक्षित जोडणी">
 <!ENTITY identity.connectionNotSecure "जोडणी असुरक्षित आहे">
 <!ENTITY identity.connectionFile "हे पृष्ठ आपल्या संगणकावर संचयीत केले गेले आहे.">
-<!ENTITY identity.connectionVerified1 ":द्वारे चालवण्यात येणाऱ्या साईटला तुम्ही सुरक्षितपणे जुळलेले आहात">
+<!ENTITY identity.connectionVerified1 ":द्वारे चालवण्यात येणाऱ्या साईटला आपण सुरक्षितपणे जुळलेले आहात">
 <!ENTITY identity.connectionInternal "हे सुरक्षित &brandShortName; पान आहे.">
-<!ENTITY identity.insecureLoginForms2 "तुम्ही ह्या पानावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.">
+<!ENTITY identity.insecureLoginForms2 "आपण ह्या पानावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ने ह्या पानावरील काही असुरक्षित भाग अडवले आहेत.">
 <!ENTITY identity.passiveLoaded "या पृष्ठावरील काही भाग (उदा. प्रतिमा) सुरक्षित नाहीत.">
-<!ENTITY identity.activeLoaded "तुम्ही ह्या पानावरील सुरक्षा बंद केली आहे.">
+<!ENTITY identity.activeLoaded "आपण ह्या पानावरील सुरक्षा बंद केली आहे.">
 <!ENTITY identity.weakEncryption "हे पान कमकुवत एनक्रिप्शन वापरते.">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात (जसे कि पासवर्ड, संदेश, क्रेडीट कार्ड इत्यादी) ते इतर लोक पाहू शकतात.">
-<!ENTITY identity.description.insecureLoginForms "ह्या पानावर तुम्ही दिलेली लॉग इन माहिती सुरक्षित नसून त्याबरोबर तडजोड होऊ शकते.">
-<!ENTITY identity.description.weakCipher "ह्या वेबसाइट बरोबरची तुमची जोडणी कमकुवत एनक्रिप्शन वापरत असून ती खाजगी नाही.">
-<!ENTITY identity.description.weakCipher2 "इतर लोक तुमची माहिती पाहू शकतात किंवा वेबसाईटचे वर्तन बदलू शकतात. ">
+<!ENTITY identity.description.insecureLoginForms "ह्या पानावर आपण दिलेली लॉग इन माहिती सुरक्षित नसून त्याबरोबर तडजोड होऊ शकते.">
+<!ENTITY identity.description.weakCipher "ह्या वेबसाइट बरोबरची आपली जोडणी कमकुवत एनक्रिप्शन वापरत असून ती खाजगी नाही.">
+<!ENTITY identity.description.weakCipher2 "इतर लोक आपली माहिती पाहू शकतात किंवा वेबसाईटचे वर्तन बदलू शकतात. ">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ने ह्या पानावरील काही असुरक्षित भाग अडवले आहेत.">
 <!ENTITY identity.description.passiveLoaded "ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात ते इतर लोक पाहू शकतात.">
 <!ENTITY identity.description.passiveLoaded2 "या वेबसाईटवरील काही भाग (उदा. प्रतिमा) सुरक्षित नाही.">
@@ -786,7 +786,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "अधिक माहिती">
 
 <!ENTITY identity.permissions "परवानगी">
-<!ENTITY identity.permissionsEmpty "तुम्ही ह्या साईटला काही विशेष परवानग्या दिलेल्या नाहीत.">
+<!ENTITY identity.permissionsEmpty "आपण ह्या साईटला काही विशेष परवानग्या दिलेल्या नाहीत.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -842,7 +842,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.closeNotificationItem.label "आत्ता नाही">
 
 <!ENTITY social.directory.label "सक्रीय केलेल्यांची सूची">
-<!ENTITY social.directory.text "तुम्ही निर्देशिकेमधून Share सेवा सक्रिय करू शकता.">
+<!ENTITY social.directory.text "आपण निर्देशिकेमधून Share सेवा सक्रिय करू शकता.">
 <!ENTITY social.directory.button "मला तिकडे न्या !">
 <!ENTITY social.directory.introText "&brandShortName; मध्ये जोडण्यासाठी एका सेवे वर क्लिक करा.">
 <!ENTITY social.directory.viewmore.text "अधिक पहा">
@@ -850,7 +850,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "अगाऊ साधने आणि गुणविशेष">
 <!ENTITY customizeMode.menuAndToolbars.empty "आणखी साधने पाहिजेत?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारो ॲड-ऑन्स् पासून पसंत करा">
-<!ENTITY customizeMode.restoreDefaults "पूर्वनिर्धारित पुनःस्थापीत करा">
+<!ENTITY customizeMode.restoreDefaults "पूर्वनिर्धारित पूर्वस्थितीत आणा">
 <!ENTITY customizeMode.toolbars "साधनपट्ट्या दाखवा किंवा छुपे करा">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
 <!ENTITY customizeMode.lwthemes "थीम्स">

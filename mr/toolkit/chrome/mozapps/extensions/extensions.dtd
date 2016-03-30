@@ -12,7 +12,7 @@
 <!ENTITY loading.label                        "लोड करत आहे…">
 <!ENTITY listEmpty.installed.label            "या प्रकारचे ॲड-ऑन्स् प्रतिष्ठापीत नाही">
 <!ENTITY listEmpty.availableUpdates.label     "सुधारणा आढळले नाही">
-<!ENTITY listEmpty.recentUpdates.label        "तुम्ही नुकतेच कोणतेही ॲड-ऑन्स् सुधारीत केले नाही">
+<!ENTITY listEmpty.recentUpdates.label        "आपण नुकतेच कोणतेही ॲड-ऑन्स् सुधारीत केले नाही">
 <!ENTITY listEmpty.findUpdates.label          "सुधारणांकरीता तपासणी करा">
 <!ENTITY listEmpty.search.label               "कोणतेही जुळणारे ॲड-ऑन्स् आढळले नाही">
 <!ENTITY listEmpty.button.label               "ॲड-ऑन्स् विषयी अधिक शिका">
@@ -240,7 +240,7 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "खालील अॅड-ऑन्स् &brandShortName; मध्ये वापरण्यासाठी पडताळले गेले नाहीत. तुम्ही करू शकता ">
+<!ENTITY disabledUnsigned.description.start "खालील अॅड-ऑन्स् &brandShortName; मध्ये वापरण्यासाठी पडताळले गेले नाहीत. आपण करू शकता ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "पुनर्बदल शोधा">
 <!ENTITY disabledUnsigned.description.end " किंवा विकासकाला ते पडताळून घ्यायला सांगा.">
 <!ENTITY disabledUnsigned.learnMore "तुम्हाला ऑनलाईन सुरक्षित कसे ठेवायचे याबाबत आमच्या प्रयत्नांसंबंधी अधिक जाणून घ्या.">

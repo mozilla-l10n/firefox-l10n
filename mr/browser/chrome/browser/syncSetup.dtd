@@ -47,7 +47,7 @@
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; तुमच्या गोपणीयताची आम्ही काळजी घेतो">
 <!ENTITY setup.newRecoveryKeyPage.description.label "संपूर्ण गोपणीयताच्या खात्रीकरिता, सर्व डाटा अपलोड करण्यापूर्वी एंक्रिप्ट केला जातो. डाटा डिक्रिप्ट करण्यासाठी आवश्यक पुनःप्राप्ति कि अपलोड केले जात नाही.">
-<!ENTITY recoveryKeyEntry.label        "तुमची पुनःप्राप्ति कि">
+<!ENTITY recoveryKeyEntry.label        "आपली पुनःप्राप्ति कि">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "नवीन कि निर्माण करा">
 <!ENTITY recoveryKeyBackup.description "इतर मशीनवर &syncBrand.fullName.label; करीता प्रवेश प्राप्त करण्यासाठी पुनःप्राप्ति कि आवश्यक आहे. कृपाय बॅकअप प्रत निर्माण करा. पुनःप्राप्ति किची पुनःप्राप्तिकरीता मदत करणे अशक्य आहे.">
@@ -110,5 +110,5 @@
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "मांडणी पूर्ण झाली">
-<!ENTITY changeOptions.label "खालील सिंक पर्याय नीवडून तुम्ही ही पसंती बदलवू शकता.">
-<!ENTITY continueUsing.label "तुम्ही आत्ता &brandShortName;चा वापर चालू ठेवू शकता.">
+<!ENTITY changeOptions.label "खालील सिंक पर्याय नीवडून आपण ही पसंती बदलवू शकता.">
+<!ENTITY continueUsing.label "आपण आत्ता &brandShortName;चा वापर चालू ठेवू शकता.">

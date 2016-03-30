@@ -82,5 +82,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY copyLinkCmd.label "दुव्याच्या ठिकाणाचे प्रत बनवा">
 <!ENTITY copyLinkCmd.accesskey "L">
-<!ENTITY copyEmailCmd.label "इमेल पत्याचे प्रत बनवा">
+<!ENTITY copyEmailCmd.label "ईमेल पत्याची प्रत बनवा">
 <!ENTITY copyEmailCmd.accesskey "E">
