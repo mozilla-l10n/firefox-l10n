@@ -51,8 +51,8 @@
 <!ENTITY certmgr.email                        "Rochochib'al taqoya'l">
 <!ENTITY certmgr.serial                       "Rucholajem rajilab'al">
 
-<!ENTITY certmgr.close.label                  "Elem">
-<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.close.label                  "Titz'apïx">
+<!ENTITY certmgr.close.accesskey              "T">
 <!ENTITY certmgr.view2.label                  "Titz'et…">
 <!ENTITY certmgr.view2.accesskey              "T">
 <!ENTITY certmgr.edit3.label                  "Tinuk' kuqub'äl k'u'x…">
@@ -65,8 +65,8 @@
 <!ENTITY certmgr.delete_builtin.accesskey     "T">
 <!ENTITY certmgr.backup2.label                "Tiwachib'ëx…">
 <!ENTITY certmgr.backup2.accesskey            "T">
-<!ENTITY certmgr.backupall2.label             "Ti/wachib'ëx ronojel…">
-<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.backupall2.label             "Tiwachib'ëx ronojel…">
+<!ENTITY certmgr.backupall2.accesskey         "i">
 <!ENTITY certmgr.restore2.label               "Tijik' pe…">
 <!ENTITY certmgr.restore2.accesskey           "i">
 <!ENTITY certmgr.details.label                "Taq ruk'ojlib'al ruwujil b'i'aj">
@@ -76,7 +76,7 @@
 <!ENTITY certmgr.hierarchy.label              "Ruwujil b'i'aj ach'alanïk">
 <!ENTITY certmgr.hierarchy.accesskey2         "O">
 <!ENTITY certmgr.addException.label           "Titz'aqtisäx man relik ta…">
-<!ENTITY certmgr.addException.accesskey       "x">
+<!ENTITY certmgr.addException.accesskey       "e">
 
 <!ENTITY exceptionMgr.title                   "Tz'aqatisäx me'elik ta jikomal">
 <!ENTITY exceptionMgr.exceptionButton.label   "Tijikib'äl man relik ta richin jikomal">

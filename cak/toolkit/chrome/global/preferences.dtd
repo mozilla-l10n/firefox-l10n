@@ -5,5 +5,5 @@
 <!ENTITY  windowClose.key                         "w">
 <!ENTITY  preferencesDefaultTitleMac.title        "Taq ajowab'äl">
 <!ENTITY  preferencesDefaultTitleWin.title        "Taq cha'oj">
-<!ENTITY  preferencesCloseButton.label            "Elem">
-<!ENTITY  preferencesCloseButton.accesskey        "C">
+<!ENTITY  preferencesCloseButton.label            "Titz'apïx">
+<!ENTITY  preferencesCloseButton.accesskey        "T">

@@ -4,23 +4,23 @@
 
 <!ENTITY editMenu.label            "K'exonïk">
 <!ENTITY editMenu.accesskey        "e">
-<!ENTITY undoCmd.label             "Yujïk">
+<!ENTITY undoCmd.label             "Titzolïx">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "U">
+<!ENTITY undoCmd.accesskey         "T">
 <!ENTITY redoCmd.label             "Rukamuluxik">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "m">
-<!ENTITY cutCmd.label              "Qupixik">
+<!ENTITY cutCmd.label              "Tiqupïx">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY cutCmd.accesskey          "q">
 <!ENTITY copyCmd.label             "Wachib'exïk">
 <!ENTITY copyCmd.key               "K">
 <!ENTITY copyCmd.accesskey         "c">
-<!ENTITY pasteCmd.label            "Tz'ajb'axïk">
+<!ENTITY pasteCmd.label            "Tiz'ajb'äx">
 <!ENTITY pasteCmd.key              "W">
-<!ENTITY pasteCmd.accesskey        "P">
-<!ENTITY deleteCmd.label           "Yujïk">
-<!ENTITY deleteCmd.accesskey       "ï">
+<!ENTITY pasteCmd.accesskey        "T">
+<!ENTITY deleteCmd.label           "Tiyuj">
+<!ENTITY deleteCmd.accesskey       "T">
 <!ENTITY selectAllCmd.label        "Rucha'ik ronojel">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "r">

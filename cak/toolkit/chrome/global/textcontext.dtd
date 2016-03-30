@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.label "Qupixik">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.label "Tiqupïx">
+<!ENTITY cutCmd.accesskey "q">
 <!ENTITY copyCmd.label "Wachib'exïk">
 <!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Tz'ajb'axïk">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "Yujïk">
-<!ENTITY undoCmd.accesskey "U">
+<!ENTITY pasteCmd.label "Titz'ajb'äx">
+<!ENTITY pasteCmd.accesskey "T">
+<!ENTITY undoCmd.label "Titzolïx">
+<!ENTITY undoCmd.accesskey "T">
 <!ENTITY selectAllCmd.label "Rucha'ik ronojel">
 <!ENTITY selectAllCmd.accesskey "r">
-<!ENTITY deleteCmd.label "Yujïk">
-<!ENTITY deleteCmd.accesskey "ï">
+<!ENTITY deleteCmd.label "Tiyuj">
+<!ENTITY deleteCmd.accesskey "T">
 
 <!ENTITY spellAddToDictionary.label "Titz'aqatisäx pa soltzij">
 <!ENTITY spellAddToDictionary.accesskey "a">
@@ -34,4 +34,4 @@
 <!ENTITY fillUsernameMenu.label       "Tinojisäx rub'i' winäq">
 <!ENTITY fillUsernameMenu.accesskey   "T">
 <!ENTITY noLoginSuggestions.label     "(Majun taq kichilab'exik rutikirib'al molojri'ïl)">
-<!ENTITY viewSavedLogins.label        "Ketz'et ri yakon &amp;kitikirib'al molojri'ïl">
+<!ENTITY viewSavedLogins.label        "Ketz'et ri yakon kitikirisanik molojri'ïl">

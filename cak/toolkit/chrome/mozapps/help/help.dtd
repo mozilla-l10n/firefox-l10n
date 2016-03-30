@@ -22,8 +22,8 @@
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Tikirib'äl">
 <!ENTITY homeButton.tooltip             "Tib'e pa ri rutikirib'al ruxaq">
-<!ENTITY printButton.label              "Tz'ajixïk">
-<!ENTITY printButton.tooltip            "Rutz'ajb'axik re ruxaq re'">
+<!ENTITY printButton.label              "Titz'ajb'äx">
+<!ENTITY printButton.tooltip            "Titz'ajb'äx re ruxaq re'">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Rukanoxik">

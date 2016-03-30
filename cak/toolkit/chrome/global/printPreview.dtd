@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY print.label          "Tz'ajixïk…">
-<!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "Runuk'ik ruxaq…">
-<!ENTITY pageSetup.accesskey  "u">
+<!ENTITY print.label          "Titz'ajb'äx…">
+<!ENTITY print.accesskey      "T">
+<!ENTITY pageSetup.label      "Tinuk'samajïx ruxaq…">
+<!ENTITY pageSetup.accesskey  "s">
 <!ENTITY page.label           "Ruxaq:">
 <!ENTITY page.accesskey       "x">
 <!ENTITY of.label             "richin">
@@ -15,8 +15,8 @@
 <!ENTITY portrait.accesskey   "a">
 <!ENTITY landscape.label      "Kotz'öl">
 <!ENTITY landscape.accesskey  "K">
-<!ENTITY close.label          "Elem">
-<!ENTITY close.accesskey      "C">
+<!ENTITY close.label          "Titz'apïx">
+<!ENTITY close.accesskey      "T">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">

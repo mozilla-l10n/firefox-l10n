@@ -14,15 +14,15 @@
 
 <!ENTITY fileMenu.label "Yakb'äl">
 <!ENTITY fileMenu.accesskey "Y">
-<!ENTITY savePageCmd.label "Rub'eyal yakïk…">
-<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY savePageCmd.label "Tiyak re ruxaq achi'el…">
+<!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Runuk'ik ruxaq…">
-<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY pageSetupCmd.label "Tinuk'samajïx ruxaq…">
+<!ENTITY pageSetupCmd.accesskey "s">
 <!ENTITY printPreviewCmd.label "Nab'ey tz'etoj">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Tz'ajixïk…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printPreviewCmd.accesskey "o">
+<!ENTITY printCmd.label "Titz'ajb'äx…">
+<!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Elem">
 <!ENTITY closeCmd.accesskey "C">

@@ -182,9 +182,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Tiq'at">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Tiq'at okem pa re ruxaq re'">
-<!ENTITY goEndCap.tooltip             "Rujaqik ri retal ochib'äl">
-<!ENTITY printButton.label            "Tz'ajixïk">
-<!ENTITY printButton.tooltip          "Rutz'ajb'axik re ruxaq re'">
+<!ENTITY goEndCap.tooltip             "Tib'e pa URL richin ri rucholob'al taq ochochib'äl">
+<!ENTITY printButton.label            "Titz'ajb'äx">
+<!ENTITY printButton.tooltip          "Titz'ajb'äx re ruxaq re'">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Titz'et retamab'al ruxaq k'amaya'l">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
@@ -523,14 +523,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "r">
 <!ENTITY openLinkCmd.label            "Tijaq ximonel tzij pa jun k'ak'a' Tzuwäch">
 <!ENTITY openLinkCmd.accesskey        "T">
-<!ENTITY openLinkInPrivateWindowCmd.label "Rujaqik ximon tzij pa jun k'ak'a' ichinan kajtz'ïk">
+<!ENTITY openLinkInPrivateWindowCmd.label "Tijaq ximon tzij pa jun k'ak'a' ichinan kajtz'ïk">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "i">
-<!ENTITY openLinkCmdInCurrent.label     "Rujaqik ximon tzij">
-<!ENTITY openLinkCmdInCurrent.accesskey "R">
-<!ENTITY openFrameCmdInTab.label      "Rujaqik ruchi' pa jun k'ak'a' ruwi'">
+<!ENTITY openLinkCmdInCurrent.label     "Tijaq ximon tzij">
+<!ENTITY openLinkCmdInCurrent.accesskey "T">
+<!ENTITY openFrameCmdInTab.label      "Tijaq ruchi' pa jun k'ak'a' ruwi'">
 <!ENTITY openFrameCmdInTab.accesskey  "w">
-<!ENTITY openFrameCmd.label           "Rujaqik ri ruchi' pa jun k'ak'a' kajtz'ïk">
-<!ENTITY openFrameCmd.accesskey       "r">
+<!ENTITY openFrameCmd.label           "Tijaq ri ruchi' pa jun k'ak'a' kajtz'ïk">
+<!ENTITY openFrameCmd.accesskey       "k">
 <!ENTITY openLinkCmdInContainerTab.label "Tijaq ximonel pa k'ak'a' ruwi' ajk'wayöl">
 <!ENTITY openLinkCmdInContainerTab.accesskey "a">
 <!ENTITY showOnlyThisFrameCmd.label     "Ruk'utik xa xe re ruchi' re'">

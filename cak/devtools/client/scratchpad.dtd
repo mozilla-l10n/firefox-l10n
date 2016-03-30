@@ -26,11 +26,11 @@
 <!ENTITY fileMenu.accesskey           "Y">
 
 <!ENTITY newWindowCmd.label           "K'ak'a' kajtz'ik">
-<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.accesskey       "K">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Rujaqik yakb'äl…">
-<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.label            "Tijaq yakb'äl…">
+<!ENTITY openFileCmd.accesskey        "T">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "Tijaq K'ak'a'">
@@ -46,30 +46,30 @@
 <!ENTITY saveFileAsCmd.label          "Tiyak Achi'el…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "Elem">
+<!ENTITY closeCmd.label               "Titz'apïx">
 <!ENTITY closeCmd.key                 "t">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.accesskey           "T">
 
 <!ENTITY viewMenu.label               "Tz'etoj">
 <!ENTITY viewMenu.accesskey           "T">
 
-<!ENTITY lineNumbers.label             "Kek'ut ri taq rajilab'al b'ey">
-<!ENTITY lineNumbers.accesskey         "L">
+<!ENTITY lineNumbers.label             "Kek'ut ri taq rajilab'al k'amab'ey">
+<!ENTITY lineNumbers.accesskey         "k">
 
 <!ENTITY wordWrap.label                "Tichojmirisäx kicholajem tzij">
 <!ENTITY wordWrap.accesskey            "T">
 
 <!ENTITY highlightTrailingSpace.label     "Tiya' ketal ri taq rukojol pa ri ruk'isib'äl cholaj">
-<!ENTITY highlightTrailingSpace.accesskey "H">
+<!ENTITY highlightTrailingSpace.accesskey "r">
 
 <!ENTITY largerFont.label             "Nïm rupa'alem ruwäch tz'ib'">
-<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.accesskey         "ï">
 <!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY largerFont.commandkey2       "="> 
 
 <!ENTITY smallerFont.label            "Ko'öl rupa'alem ruwäch tz'ib'">
-<!ENTITY smallerFont.accesskey        "m">
+<!ENTITY smallerFont.accesskey        "o">
 <!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "Relik Runimilem">
