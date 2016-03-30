@@ -13,7 +13,7 @@
 <!ENTITY homepage.label            "Tikirib'äl ruxaq:">
 <!ENTITY homepage.accesskey        "r">
 <!ENTITY useCurrentPage.label      "Tokisäx ri ruxaq k'amaya'l k'o wakami">
-<!ENTITY useCurrentPage.accesskey  "C">
+<!ENTITY useCurrentPage.accesskey  "w">
 <!ENTITY useMultiple.label         "Ke'okisäx ri taq ruxaq k'amaya'l e k'o wakami">
 <!ENTITY chooseBookmark.label      "Tokisäx yaketal…">
 <!ENTITY chooseBookmark.accesskey  "y">

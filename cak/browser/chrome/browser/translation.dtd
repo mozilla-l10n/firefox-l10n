@@ -46,7 +46,7 @@
 
 <!ENTITY translation.serviceUnavailable.label   "Wakami man wachel ta ri tzalq'omanï. Tab'ana' utzil tatojtob'ej pa jun chik ti ramaj.">
 
-<!ENTITY translation.options.menu               "Taq &amp;cha'oj">
+<!ENTITY translation.options.menu               "Taq cha'oj">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for

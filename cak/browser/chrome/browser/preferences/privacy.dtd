@@ -91,7 +91,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Junelïk tokisäx pa rub'eyal ichinan okem pa k'amaya'l">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.accesskey "i">
 
 <!ENTITY  rememberHistory2.label      "Tinatäx ri nunatab'al richin taq qasanïk chuqa' okik'amaya'l">
 <!ENTITY  rememberHistory2.accesskey  "T">

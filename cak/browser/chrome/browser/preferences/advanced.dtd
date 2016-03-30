@@ -21,8 +21,8 @@
 
 <!ENTITY useAutoScroll.label             "Tokisäx ruyonil rusiloxik">
 <!ENTITY useAutoScroll.accesskey         "r">
-<!ENTITY useSmoothScrolling.label        "Rukusaxik rie eqal yaq'ax">
-<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY useSmoothScrolling.label        "Tokisäx jeb'ël q'axanïk">
+<!ENTITY useSmoothScrolling.accesskey    "e">
 <!ENTITY allowHWAccel.label              "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
 <!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkSpelling.label             "Tinik'öx ri nutz'ib'anik toq yitz'ib'an">
@@ -69,9 +69,9 @@
 <!ENTITY clearCacheNow.label             "Tijosq'ïx wakami">
 <!ENTITY clearCacheNow.accesskey         "T">
 <!ENTITY clearOfflineAppCacheNow.label   "Wakami kajosq'in">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
-<!ENTITY overrideSmartCacheSize.label    "Ruyujik ruyonil runuk'ulem ri kache'">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY clearOfflineAppCacheNow.accesskey "W">
+<!ENTITY overrideSmartCacheSize.label    "Tiyuj runuk'samajixïk ruyonil jumejyak">
+<!ENTITY overrideSmartCacheSize.accesskey "T">
 
 <!ENTITY updateTab.label                 "Tik'ex">
 
@@ -89,8 +89,8 @@
 <!ENTITY updateHistory.label             "Tik'ut pe ri runatab'al taq k'exoj ruwäch">
 <!ENTITY updateHistory.accesskey         "k">
 
-<!ENTITY useService.label                "Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj ruwäch ">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.label                "Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj ruwäch">
+<!ENTITY useService.accesskey            "r">
 
 <!ENTITY updateOthers.label              "Tik'ex pa ruyonil:">
 <!ENTITY enableSearchUpdate.label        "Samajel chi kanob'äl">
@@ -114,8 +114,8 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Junelïk tik'utüx pe">
 <!ENTITY certs.ask.accesskey             "A">
-<!ENTITY enableOCSP.label                "Rutzolixik rutzij ri OCSP peyon tzij, ri ruk'u'x taq samaj nikijikib'a' ri kutzil ri taq ruwujil rub'i' ">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.label                "Rutzolixik rutzij ri OCSP peyon tzij, ri ruk'u'x taq samaj nikijikib'a' ri kutzil ri taq ruwujil rub'i'">
+<!ENTITY enableOCSP.accesskey            "p">
 <!ENTITY viewCerts.label                 "Titz'et taq ruwujil b'i'aj">
 <!ENTITY viewCerts.accesskey             "r">
 <!ENTITY viewSecurityDevices.label       "Kokisaxel taq jikomal">

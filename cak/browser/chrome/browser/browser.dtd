@@ -153,7 +153,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY findShareServices.label "Ke'ilitäj ch'aqa' chik taq samaj richin yekomonïx…">
 <!ENTITY sharePageCmd.label "Tikomonïx re ruxaq re'">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "ï">
+<!ENTITY sharePageCmd.accesskey "e">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Tikomonïx re ximonel re'">
 <!ENTITY shareLink.accesskey "k">
@@ -568,12 +568,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkPageCmd2.label       "Titz'aqatisäx re ruxaq re' pa taq yaköl etal">
 <!ENTITY bookmarkThisLinkCmd.label      "Rutzaqatisaxik re jun ximon tzij re' pa taq samajib'äl">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "s">
-<!ENTITY bookmarkThisFrameCmd.label      "Ruya'ik re ruxaq re' pa samajib'äl">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "Rujachik tunuwuj pa taqoya'l…">
-<!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "Rub'eyal yakïk…">
-<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY bookmarkThisFrameCmd.label      "Titz'aqatisäx re ruchi' kajtz'ik re' pa taq etal">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "e">
+<!ENTITY emailPageCmd.label           "Titaq ximonel tzij…">
+<!ENTITY emailPageCmd.accesskey       "T">
+<!ENTITY savePageCmd.label            "Tiyak achi'el…">
+<!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "p">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -594,7 +594,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.label          "Rutaqik Silowachib'äl…">
 <!ENTITY emailVideoCmd.accesskey      "i">
 <!ENTITY castVideoCmd.label           "Titaq ri silowachib'äl pa okisaxel">
-<!ENTITY castVideoCmd.accesskey       "e">
+<!ENTITY castVideoCmd.accesskey       "t">
 <!ENTITY emailAudioCmd.label          "Titaq k'oxomal…">
 <!ENTITY emailAudioCmd.accesskey      "t">
 <!ENTITY playPluginCmd.label          "Rutziji re pluyin">
@@ -651,8 +651,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "k">
 <!ENTITY mediaHideControls.label     "Kewaxik taq K'wayöl ">
 <!ENTITY mediaHideControls.accesskey "a">
-<!ENTITY videoFullScreen.label       "Runimilem ruwäch">
-<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoFullScreen.label       "Chijun rwäch kematz'ib'">
+<!ENTITY videoFullScreen.accesskey   "C">
 <!ENTITY videoSaveImage.label        "Ruyakik ruwachib'al rutzub'al achi'el…">
 <!ENTITY videoSaveImage.accesskey    "R">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -693,20 +693,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Rutz'apixik chuchi' cha'osamaj">
 
-<!ENTITY quitApplicationCmdWin2.label       "Elem">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+<!ENTITY quitApplicationCmdWin2.label       "Tel">
+<!ENTITY quitApplicationCmdWin2.accesskey   "e">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Tel el pa &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Elem"> 
-<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmd.label       "Tel"> 
+<!ENTITY quitApplicationCmd.accesskey   "T">
 <!ENTITY quitApplicationCmdMac2.label   "Tel pa &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
-<!ENTITY closeCmd.label                 "Elem">  
+<!ENTITY closeCmd.label                 "Titz'apïx">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "T">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
@@ -777,7 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.label "Tijaq ri chajinïk">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "T">
 <!ENTITY identity.disableMixedContentBlocking.label "Wakami yan tz'apäl ri chajinïk">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "t">
 <!ENTITY identity.learnMore "Tetamäx ch'aqa' chik">
 
 <!ENTITY identity.removeCertException.label "Tiyuj el ri man ja ta jun">
@@ -818,12 +818,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.label        "Rutunik wakami">
 <!ENTITY syncSyncNowItem.accesskey    "R">
 <!ENTITY syncReAuthItem.label         "Tawokisaj chik pa &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncReAuthItem.accesskey     "T">
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Ruyib' rucha'osamaj winaqinel samajib'äl">
 
-<!ENTITY social.ok.label       "Ütz">
+<!ENTITY social.ok.label       "ÜTZ">
 <!ENTITY social.ok.accesskey   "Ü">
 
 <!ENTITY social.toggleSidebar.label "Tik'ut ri molsamajib'äl">
@@ -906,8 +906,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pointerLock.notification.message "Tapitz'a' ESC richin nitzolin chik pe.">
 
-<!ENTITY pluginNotification.showAll.label "Ruk'utik ronojel">
-<!ENTITY pluginNotification.showAll.accesskey "S">
+<!ENTITY pluginNotification.showAll.label "Tik'ut pe ronojel">
+<!ENTITY pluginNotification.showAll.accesskey "T">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 <!ENTITY pluginActivateNow.label "Ruya'ik q'ij wakami">

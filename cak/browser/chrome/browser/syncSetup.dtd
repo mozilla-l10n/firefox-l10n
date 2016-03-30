@@ -18,8 +18,8 @@
 <!ENTITY server.label               "Ruk'u'x samaj">
 <!ENTITY serverType.default.label      "Ruk'amon wi pe: Ruk'u'x rusamaj Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Tawokisaj jun ichinan ruk'u'x samaj…">
-<!ENTITY signIn.account2.label      " taqoya'l">
-<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY signIn.account2.label      "Rub'i' taqoya'l">
+<!ENTITY signIn.account2.accesskey  "t">
 <!ENTITY signIn.password.label      "Ewan tzij">
 <!ENTITY signIn.password.accesskey  "E">
 <!ENTITY signIn.recoveryKey.label       "Kolonel ewan tzij">
@@ -52,8 +52,8 @@
 <!ENTITY syncGenerateNewKey.label  "Titz'uk jun k'ak'a' ewan tzij">
 <!ENTITY recoveryKeyBackup.description "Rajowaxik ri kolonel ewan atzij richin yato pa &syncBrand.fullName.label; pa ch'aqa' chik taq samajib'äl. Tab'ana' utzil tab'ana' jun to'onel wachib'äl. We nasäch, man yojtikïr ta yatqato' richin naköl.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Tz'ajixïk…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.print.label     "Titz'ajb'äx…">
+<!ENTITY button.syncKeyBackup.print.accesskey "T">
 <!ENTITY button.syncKeyBackup.save.label      "Tiyak…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "T">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
@@ -93,8 +93,8 @@
 <!ENTITY engine.passwords.accesskey "E">
 <!ENTITY engine.prefs.label         "Taq ajowab'äl">
 <!ENTITY engine.prefs.accesskey     "b">
-<!ENTITY engine.addons.label        "Taq rutz’aqat">
-<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addons.label        "Taq tz’aqat">
+<!ENTITY engine.addons.accesskey    "t">
 
 <!ENTITY choice2a.merge.main.label       "Kexol ri taq retamab'al re okisaxel re' rik'in ri wetamab'al richin &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Chilab'en">

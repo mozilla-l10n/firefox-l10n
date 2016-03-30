@@ -12,8 +12,8 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "p">
 <!ENTITY  systemTypeRadio.label         "Tawokisaj ri runuk'ulem ruproxi q'inoj">
 <!ENTITY  systemTypeRadio.accesskey     "T">
-<!ENTITY  WPADTypeRadio.label           "Pa ruyonil trïl runuk'ulem ri proxi richin re b'ey re'">
-<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  WPADTypeRadio.label           "Pa ruyonil trïl runuk'ulem ri proxi richin re k'amab'ey re'">
+<!ENTITY  WPADTypeRadio.accesskey       "b">
 <!ENTITY  manualTypeRadio.label         "Tanuk'samajij retamawuj proxi:">
 <!ENTITY  manualTypeRadio.accesskey     "r">
 <!ENTITY  autoTypeRadio.label           "URL richin runuk'ulem pa ruyonil ri proxi:">

@@ -33,8 +33,8 @@
 <!ENTITY engine.passwords.accesskey "E">
 <!ENTITY engine.prefs.label         "Taq ajowab'äl">
 <!ENTITY engine.prefs.accesskey     "a">
-<!ENTITY engine.addons.label        "Taq rutz’aqat">
-<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addons.label        "Taq tz’aqat">
+<!ENTITY engine.addons.accesskey    "t">
 <!-- Device Settings -->
 
 <!ENTITY syncDeviceName.label       "Rub'i' ri okisaxel:">

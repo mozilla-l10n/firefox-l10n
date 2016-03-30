@@ -10,13 +10,13 @@
 <!ENTITY organize.accesskey    "T">
 <!ENTITY organize.tooltip      "Ke'acholajij ri taq yaketal">
 
-<!ENTITY file.close.label               "Elem">
-<!ENTITY file.close.accesskey           "C">
+<!ENTITY file.close.label               "Titz'apïx">
+<!ENTITY file.close.accesskey           "T">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Taq tzub'al">
 <!ENTITY views.accesskey                "T">
 <!ENTITY views.tooltip                  "Tajala' rutzub'al">
-<!ENTITY view.columns.label             "&amp;Tik'ut ri taq tem">
+<!ENTITY view.columns.label             "Kek'ut pe ri taq tem">
 <!ENTITY view.columns.accesskey         "t">
 <!ENTITY view.sort.label                "Ticholajïx">
 <!ENTITY view.sort.accesskey            "c">
@@ -24,8 +24,8 @@
 <!ENTITY view.unsorted.accesskey        "M">
 <!ENTITY view.sortAscending.label       "Ticholajïx A > '">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Ticholajïx ' > Z">
-<!ENTITY view.sortDescending.accesskey  "'">
+<!ENTITY view.sortDescending.label      "Ticholajïx Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "Kek'am pe taq etal pa…">
 <!ENTITY importBookmarksFromHTML.accesskey "K">
@@ -51,11 +51,11 @@
 <!ENTITY cmd.open.label                  "Tijaq">
 <!ENTITY cmd.open.accesskey              "T">
 <!ENTITY cmd.open_window.label           "Tijaq pa jun k'ak'a' tzuwach">
-<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_window.accesskey       "k">
 <!ENTITY cmd.open_private_window.label     "Tija pa jun k'ak'a' ichinan tzuwäch">
 <!ENTITY cmd.open_private_window.accesskey "i">
-<!ENTITY cmd.open_tab.label              "Tijaq jun k'ak'a' mich'">
-<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_tab.label              "Tijaq jun k'ak'a' ruwi'">
+<!ENTITY cmd.open_tab.accesskey          "k">
 <!ENTITY cmd.open_all_in_tabs.label      "Tiqaj ronojel rik'in ruwi'">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "T">
 
@@ -116,8 +116,8 @@
 <!ENTITY byDate.accesskey         "c">
 <!ENTITY bySite.label             "Chi ruxaq k'amaya'l">
 <!ENTITY bySite.accesskey         "r">
-<!ENTITY byMostVisited.label      "Chi k'ïy rutz'etik">
-<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byMostVisited.label      "Chi k'ïy tz'eton">
+<!ENTITY byMostVisited.accesskey  "t">
 <!ENTITY byLastVisited.label      "Chi ruk'isib'äl tz'etoj">
 <!ENTITY byLastVisited.accesskey  "k">
 <!ENTITY byDayAndSite.label       "Chi rajilab'al q'ij chuqa' ruxaq k'amaya'l ">

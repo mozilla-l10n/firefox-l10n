@@ -33,7 +33,7 @@
 
 <!ENTITY  useMasterPassword.label        "Tokisäx ri nimaläj ewan tzij">
 <!ENTITY  useMasterPassword.accesskey    "T">
-<!ENTITY  changeMasterPassword.label     "Ti&amp;k'ex nimaläj ewan tzij…">
+<!ENTITY  changeMasterPassword.label     "Tik'ex nimaläj ewan tzij…">
 <!ENTITY  changeMasterPassword.accesskey "n">
 
 <!ENTITY  savedLogins.label              "Yakon kitikirib'al molojri'ïl…">

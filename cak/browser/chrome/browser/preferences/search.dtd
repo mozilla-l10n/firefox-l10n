@@ -7,10 +7,10 @@
 <!ENTITY chooseYourDefaultSearchEngine.label   "Tacha' ri akanonel. &brandShortName; nawokisaj pa ri rukajtz'ik taq ochochib'äl, rukajtz'ik kanob'äl chuqa' ruxaq richin rutikirib'al.">
 
 <!ENTITY provideSearchSuggestions.label        "Tiya' pe taq chilab'en  richin nikanöx">
-<!ENTITY provideSearchSuggestions.accesskey    "s">
+<!ENTITY provideSearchSuggestions.accesskey    "n">
 
-<!ENTITY showURLBarSuggestions.label           "Kek'ut pe taq ruchilab'enik kanoxïk chi kikojol ri kikajtz'ik taq ochochib'äl">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions.label           "Kek'ut pe taq ruchilab'enik kanoxïk chi kikojol ri kiq'iq'oj kikajtz'ik taq ochochib'äl">
+<!ENTITY showURLBarSuggestions.accesskey       "k">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri &brandShortName; richin majub'ey tunataj ri anatab'al.">
 
 <!ENTITY redirectWindowsSearch.label "Tokisäx re rusamajinel kanoxik richin nikanöx pa Windows">
@@ -24,7 +24,7 @@
 <!ENTITY engineKeywordColumn.label             "Ruk'u'x tzij">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Ketzolïx ri kisamajel kanob'äl ruk'amon wi pe">
-<!ENTITY restoreDefaultSearchEngines.accesskey "D">
+<!ENTITY restoreDefaultSearchEngines.accesskey "r">
 
 <!ENTITY removeEngine.label                    "Telesäx">
 <!ENTITY removeEngine.accesskey                "s">
