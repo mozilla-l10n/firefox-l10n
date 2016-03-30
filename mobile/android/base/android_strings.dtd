@@ -82,7 +82,7 @@
 <!ENTITY menu "เมนู">
 <!ENTITY back "ย้อนกลับ">
 <!ENTITY stop "หยุด">
-<!ENTITY site_security "ความปลอดภัยของเว็บไซต์">
+<!ENTITY site_security "ความปลอดภัยของไซต์">
 <!ENTITY edit_mode_cancel "ยกเลิก">
 
 <!ENTITY close_tab "ปิดแท็บ">
@@ -191,7 +191,7 @@
 <!ENTITY pref_home_updates "การปรับปรุงอัตโนมัติ">
 <!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_home_updates_wifi "เฉพาะผ่าน Wi-Fi">
-<!ENTITY pref_home_suggested_sites "แสดงคำแนะนำเว็บไซต์">
+<!ENTITY pref_home_suggested_sites "แสดงคำแนะนำไซต์">
 <!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนหน้าแรกของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
 <!ENTITY pref_category_home_homepage "หน้าแรก">
 <!ENTITY home_homepage_title "ตั้งหน้าแรก">
@@ -235,7 +235,7 @@
 <!ENTITY pref_tracking_protection_title "การป้องกันการตามรอย">
 <!ENTITY pref_tracking_protection_summary3 "ถูกเปิดใช้งานในการท่องเว็บแบบส่วนตัว">
 <!ENTITY pref_donottrack_title "อย่าตามรอย">
-<!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ที่คุณไม่ต้องการถูกติดตาม">
+<!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ว่าคุณไม่ต้องการให้ตามรอย">
 
 <!ENTITY pref_tracking_protection_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_tracking_protection_enabled_pb "ถูกเปิดใช้งานในการท่องเว็บแบบส่วนตัว">
@@ -263,10 +263,10 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural2 "&formatD; แท็บอยู่ในคิว">
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; แท็บกำลังรออยู่">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular2 "1 แท็บกำลังรอ">
+<!ENTITY tab_queue_notification_text_singular2 "1 แท็บกำลังรออยู่">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
