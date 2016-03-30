@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "उदाहरणार्थ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ह्या प्रॉक्सी सर्व्हरचा सर्व प्रोटोकॉल्सकरिता वापर करा (s)">
 <!ENTITY  shareproxy.accesskey          "s">
-<!ENTITY  autologinproxy.label          "पासवर्ड साठवले अल्यास ओळख पटवणेकरिता विचारू नका">
+<!ENTITY  autologinproxy.label          "पासवर्ड साठवले असल्यास ओळख पटविण्याकरिता विचारू नका">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "प्रॉक्सीजकरिता श्रेय अगोदर साठवले असल्यास, हे पर्याय तुमची ओळख पटवते. ओळख पटवणे अपयशी ठरल्यास तुम्हाला विचारले जाईल.">
