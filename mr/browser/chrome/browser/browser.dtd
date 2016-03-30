@@ -129,7 +129,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "आता पूर्ण स्क्रीन आहे">
-<!ENTITY fullscreenWarning.generic.label "हे कागदपत्र आता पूर्ण स्क्रीन झाले आहे">
+<!ENTITY fullscreenWarning.generic.label "हे दस्तऐवज आता पूर्ण स्क्रीन झाले आहे">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -763,7 +763,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "हे पान कमकुवत एनक्रिप्शन वापरते.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात (जसे कि सांकेतिक शब्द, संदेश, क्रेडीट कार्ड इत्यादी) ते इतर लोक पाहू शकतात.">
+<!ENTITY identity.description.insecure "ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात (जसे कि पासवर्ड, संदेश, क्रेडीट कार्ड इत्यादी) ते इतर लोक पाहू शकतात.">
 <!ENTITY identity.description.insecureLoginForms "ह्या पानावर तुम्ही दिलेली लॉग इन माहिती सुरक्षित नसून त्याबरोबर तडजोड होऊ शकते.">
 <!ENTITY identity.description.weakCipher "ह्या वेबसाइट बरोबरची तुमची जोडणी कमकुवत एनक्रिप्शन वापरत असून ती खाजगी नाही.">
 <!ENTITY identity.description.weakCipher2 "इतर लोक तुमची माहिती पाहू शकतात किंवा वेबसाईटचे वर्तन बदलू शकतात. ">

@@ -11,11 +11,11 @@
 
 
 <!ENTITY newButton.label            "नवीन">
-<!ENTITY newButton.tooltip          "दस्तऐवजकरिता नवीन स्टाइल शीट निर्माण करा व समाविष्ट करा">
+<!ENTITY newButton.tooltip          "दस्तऐवजकरिता नवीन स्टाइल शीट निर्माण करा व जोडा">
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "आयात करा…">
-<!ENTITY importButton.tooltip       "अस्तित्वातील स्टाइल शीट आयात करा व समाविष्ट करा">
+<!ENTITY importButton.tooltip       "अस्तित्वातील स्टाइल शीट आयात करा व दस्तऐवजात जोडा">
 <!ENTITY importButton.accesskey     "I">
 
 <!ENTITY visibilityToggle.tooltip   "स्टाइल शीटचे अवलोकन बदला">

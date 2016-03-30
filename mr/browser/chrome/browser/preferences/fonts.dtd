@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.sinhala                  "सिन्हाला">
 <!ENTITY  font.langGroup.tibetan                  "तिबेटन">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "किमान फॉन्ट आकार:">
+<!ENTITY minSize.label                            "किमान टंक आकार:">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "काहिच नाही">
 <!-- default font type -->

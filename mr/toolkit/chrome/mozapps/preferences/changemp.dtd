@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY setPassword.title                 "मुख्य पासवर्ड बदलवा">
+<!ENTITY setPassword.title                 "मुख्य पासवर्ड बदला">
 <!ENTITY setPassword.tokenName.label       "सुरक्षा साधन">
 <!ENTITY setPassword.oldPassword.label     "सद्याचे पासवर्ड:">
 <!ENTITY setPassword.newPassword.label     "नवीन पासवर्ड प्रविष्ट करा:">

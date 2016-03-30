@@ -62,13 +62,13 @@
 <!ENTITY highlightTrailingSpace.label     "समाप्तिची मोकळी जागा ठळक करत आहे">
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
-<!ENTITY largerFont.label             "मोठे फाँट">
+<!ENTITY largerFont.label             "मोठे टंक">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY largerFont.commandkey2       "="> 
 
-<!ENTITY smallerFont.label            "लहान फाँट">
+<!ENTITY smallerFont.label            "लहान टंक">
 <!ENTITY smallerFont.accesskey        "m">
 <!ENTITY smallerFont.commandkey       "-">
 
