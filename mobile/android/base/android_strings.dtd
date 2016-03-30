@@ -26,7 +26,7 @@
 <!ENTITY  onboard_start_button_browser "เริ่มการท่องเว็บ">
 <!ENTITY firstrun_button_next "ถัดไป">
 
-<!ENTITY  onboard_start_restricted1 "ปลอดภัยและอยู่ในการควบคุมด้วยรุ่นย่อของ &brandShortName;">
+<!ENTITY  onboard_start_restricted1 "ปลอดภัยและอยู่ในการควบคุมด้วยรุ่นแบบเรียบง่ายนี้ของ &brandShortName;">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -151,7 +151,7 @@
 <!ENTITY pref_category_search3 "ค้นหา">
 <!ENTITY pref_category_search_summary "ปรับแต่งผู้ให้บริการค้นหาของคุณ">
 <!ENTITY pref_category_accessibility "การช่วยเข้าถึง">
-<!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร ย่อ-ขยาย การป้อนค่าด้วยเสียง">
+<!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร ย่อ-ขยาย การรับค่าด้วยเสียง">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
 <!ENTITY pref_category_privacy_summary3 "การตามรอย คุกกี้ ตัวเลือกข้อมูล">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -276,7 +276,7 @@
 <!ENTITY pref_clear_private_data "ล้างข้อมูลส่วนตัว">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
-<!ENTITY pref_clear_private_data_now_tablet "ล้างทันที">
+<!ENTITY pref_clear_private_data_now_tablet "ล้างตอนนี้">
 <!ENTITY pref_clear_on_exit_title3 "ล้างข้อมูลส่วนตัวเมื่อออก">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \u0022ออก\u0022 จากเมนูหลัก">
 <!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่ต้องการล้าง">
@@ -309,7 +309,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและสื่ออื่น ๆ ของเว็บไซต์โดยอัตโนมัติ">
 <!ENTITY pref_zoom_force_enabled "เปิดใช้งานการย่อ-ขยายตลอดเวลา">
 <!ENTITY pref_zoom_force_enabled_summary "บังคับใช้เพื่อให้สามารถย่อขยายดูได้ทุกหน้า">
-<!ENTITY pref_voice_input "การป้อนค่าด้วยเสียง">
+<!ENTITY pref_voice_input "การรับค่าด้วยเสียง">
 
 <!ENTITY pref_qrcode_enabled "ตัวอ่านรหัส QR">
 <!ENTITY pref_qrcode_enabled_summary2 "อนุญาตตัวสแกน QR ในแถบ URL">
@@ -345,7 +345,7 @@ size. -->
 
 <!ENTITY pref_panels_show "แสดง">
 <!ENTITY pref_panels_hide "ซ่อน">
-<!ENTITY pref_panels_reorder "เปลี่ยนลำดับ">
+<!ENTITY pref_panels_reorder "เปลี่ยนการเรียงลำดับ">
 <!ENTITY pref_panels_move_up "ย้ายขึ้น">
 <!ENTITY pref_panels_move_down "ย้ายลง">
 
@@ -748,7 +748,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "ล้างประวัติ">
 <!ENTITY restrictable_feature_clear_history_description "อนุญาตให้สมาชิกในครอบครัวลบข้อมูลเกี่ยวกับไซต์และหน้าที่พวกเขาเยี่ยมชม">
 <!ENTITY restrictable_feature_advanced_settings "การตั้งค่าขั้นสูง">
-
+<!ENTITY restrictable_feature_advanced_settings_description "สิ่งนี้รวมถึงการนำเข้าที่คั่นหน้า การเรียกคืนแท็บ และการปรับปรุงอัตโนมัติ ปิดเพื่อใช้การตั้งค่าแบบเรียบง่ายที่เหมาะสมสำหรับสมาชิกทุกคนในครอบครัว">
 <!ENTITY restrictable_feature_camera_microphone "กล้องและไมโครโฟน">
 
 <!ENTITY restrictable_feature_block_list "รายการการปิดกั้น">
