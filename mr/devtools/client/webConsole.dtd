@@ -44,7 +44,7 @@
   -  console.error(). -->
 
 <!ENTITY btnPageLogging.label   "लॉगिंग">
-<!ENTITY btnPageLogging.tooltip "window.console ऑबजेक्टकरिता पाठवलेले लॉग संदेश पाठवा">
+<!ENTITY btnPageLogging.tooltip "window.console घटकाकरिता पाठवलेले लॉग संदेश पाठवा">
 <!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "त्रुटी">
 <!ENTITY btnConsoleInfo         "माहिती">

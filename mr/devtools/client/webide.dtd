@@ -158,7 +158,7 @@
 <!ENTITY device_typeboolean "बुलियन">
 <!ENTITY device_typenumber "पूर्णांक">
 <!ENTITY device_typestring "स्ट्रिंग">
-<!ENTITY device_typeobject "वस्तु">
+<!ENTITY device_typeobject "घटक">
 <!ENTITY device_typenone "प्रकार नीवडा">
 <!-- Device Preferences -->
 
