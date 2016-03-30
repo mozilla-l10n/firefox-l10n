@@ -423,7 +423,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.label "तुमच्या इतर उपकरणांवरील टॅब्स येथे पाहण्यासाठी Firefox मध्ये साइन इन करा.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ताळमेळ प्राधान्यता">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "तुमच्या इतर उपकरणांवरील टॅब्सची यादी पाहण्यासाठी साइन इन करा.">
-<!ENTITY appMenuRemoteTabs.signin.label "सींक करणयासाठी साइन इन करा">
+<!ENTITY appMenuRemoteTabs.signin.label "सींक करण्यासाठी साइन इन करा">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ताळमेळ झालेले बाजुपट्टी बघा">
 
 <!ENTITY customizeMenu.addToToolbar.label "साधनपट्टीमध्ये समाविष्ट करा">
