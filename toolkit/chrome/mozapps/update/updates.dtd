@@ -54,7 +54,7 @@
 
 <!ENTITY  downloadPage.title              "&brandShortName; डाउनलोड करत आहे">
 <!ENTITY  downloading.intro               "अद्ययावत डाउनलोड करीत आहे...">
-<!ENTITY  connecting.label                "अद्ययावत सर्वरशी जुळवणी होत आहे...">
+<!ENTITY  connecting.label                "अद्ययावत सर्व्हरशी जुळवणी होत आहे...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; डाउनलोड केलेल्या वाढीव अद्ययावताची 
 एकाग्रता तपासू शकला नाही, त्यामुळे आता पूर्ण 
 अद्ययावत संकुलाचे डाउनलोड करत आहे.">
