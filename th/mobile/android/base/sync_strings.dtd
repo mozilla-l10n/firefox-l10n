@@ -44,14 +44,14 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "ตั้งค่าให้ &syncBrand.shortName.label; ส่งแท็บ">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "ตั้งค่าให้ &syncBrand.fullName.label; บนอุปกรณ์ของคุณส่งแท็บไปยังอุปกรณ์อื่น">
 <!ENTITY sync.text.tab.sent.label "ส่งแท็บของคุณแล้ว!">
-<!ENTITY sync.text.tab.not.sent.label "พบปัญหาในการส่งแท็บของคุณ">
+<!ENTITY sync.text.tab.not.sent.label "เกิดปัญหาในการส่งแท็บของคุณ">
 <!-- Firefox Account strings. -->
 
 
 <!ENTITY fxaccount_full_label "บัญชี Firefox">
 
-<!ENTITY fxaccount_custom_server_account_title "ใช้บัญชีบนเซิร์ฟเวอร์">
-<!ENTITY fxaccount_custom_server_sync_title "จัดเก็บข้อมูลที่ซิงค์บนเซิร์ฟเวอร์">
+<!ENTITY fxaccount_custom_server_account_title "กำลังใช้บัญชีบนเซิร์ฟเวอร์">
+<!ENTITY fxaccount_custom_server_sync_title "กำลังจัดเก็บข้อมูลที่ผสานบนเซิร์ฟเวอร์">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
