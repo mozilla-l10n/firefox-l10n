@@ -117,8 +117,8 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>हे सर्व्हर वरील संयोजनातील अडचण असू शकते, किंवा सर्व्हर नुरूप बहरूपी 
 सुद्धा असू शकतो.</li> 
-<li>या सर्व्हरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व तुम्ही 
-याकरता भविष्यात प्रयत्न करू शकता.</li> 
+<li>या सर्व्हरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व आपण 
+याकरीता भविष्यात प्रयत्न करू शकता.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
@@ -137,7 +137,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>डाटा स्थानांतरनवेळी त्रुटी आढळल्याने दृष्यास्पद पृष्ठ दाखवणे अशक्य आहे.</p><ul><li>या अडचणीविषयी माहिती पूरवण्याकरीता, कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "किंवा तुम्ही यास अपवाद जोडू शकता…">
+<!ENTITY securityOverride.linkText "किंवा आपण यास अपवाद जोडू शकता…">
 <!ENTITY securityOverride.getMeOutOfHereButton "मला येथून बाहेर काढा!">
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोडा…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the

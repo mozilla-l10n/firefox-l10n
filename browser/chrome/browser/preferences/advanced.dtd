@@ -30,7 +30,7 @@
 
 <!ENTITY dataChoicesTab.label            "माहिती पर्याय">
 
-<!ENTITY healthReportDesc.label          "ब्राउझर कामगिरी समझण्यास तुमची मदत करतो व ब्राउझरची प्रकृती &vendorShortName;सह शेअर करतो">
+<!ENTITY healthReportDesc.label          "ब्राउझर कामगिरी समझण्यास आपली मदत करतो व ब्राउझरची प्रकृती &vendorShortName; सह शेअर करतो">
 <!ENTITY enableHealthReport.label        "&brandShortName; Health Report सुरू करा">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "आणखी शिका">

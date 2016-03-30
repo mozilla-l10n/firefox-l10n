@@ -186,7 +186,7 @@
 <!ENTITY wifi_auth_header "क्लायंट ओळख">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "ही जोडणी अधिकृत करताना तुम्ही ज्या अन्तीमबिंदू ला जोडणार आहात त्यासाठी अधिक माहितीची गरज आहे. तुमच्या अन्य साधनावर प्रोम्ट च्या माध्यमातून कृपया क्यूआर कोड स्कॅन करा.">
+<!ENTITY wifi_auth_scan_request "ही जोडणी अधिकृत करताना आपण ज्या अन्तीमबिंदू ला जोडणार आहात त्यासाठी अधिक माहितीची गरज आहे. तुमच्या अन्य साधनावर प्रोम्ट च्या माध्यमातून कृपया क्यूआर कोड स्कॅन करा.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "क्यूआर स्कॅनर प्रोम्प्ट नाही?">
