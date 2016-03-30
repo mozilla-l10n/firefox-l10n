@@ -88,15 +88,15 @@
 <!ENTITY fxaccount_create_account_month_of_birth "เดือน">
 <!ENTITY fxaccount_create_account_year_of_birth "ปีเกิด">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "เพื่อดำเนินการต่อ ฉันยอมรับ &formatS1; และ &formatS2; ของบริการกลุ่มเมฆ Firefox">
+<!ENTITY fxaccount_create_account_policy_text2 "เพื่อดำเนินการต่อ ฉันยอมรับใน &formatS1; และ &formatS2; ของบริการกลุ่มเมฆ Firefox">
 <!ENTITY fxaccount_create_account_button "ถัดไป">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "เลือกข้อมูลที่จะผสาน">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "เลือกสิ่งที่จะผสาน">
 <!ENTITY fxaccount_create_account_sign_in_instead "มีบัญชีอยู่แล้ว? เข้าสู่ระบบ">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 หรือก่อนหน้า">
 <!ENTITY fxaccount_create_account_unknown_error "ไม่สามารถสร้างบัญชี">
 
 <!ENTITY fxaccount_account_create_not_allowed "ไม่สามารถสร้างบัญชี">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "คุณต้องมีอายุตามที่กำหนดไว้ จึงจะสามารถสร้างบัญชีผู้ใช้ได้">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "คุณต้องผ่านข้อกำหนดด้านอายุเพื่อสร้างบัญชี">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "เรียนรู้เพิ่มเติม">
 
 <!ENTITY fxaccount_confirm_account_header "ยืนยันบัญชีของคุณ">
@@ -125,9 +125,9 @@
 <!ENTITY fxaccount_update_credentials_button_label "เข้าสู่ระบบ">
 <!ENTITY fxaccount_update_credentials_unknown_error "ไม่สามารถเข้าสู่ระบบ">
 
-<!ENTITY fxaccount_finish_migrating_header "ลงชื่อเข้าใช้เพื่อทำการอัพเกรดให้เสร็จ">
+<!ENTITY fxaccount_finish_migrating_header "เข้าสู่ระบบเพื่อเสร็จสิ้นการปรับรุ่น">
 <!ENTITY fxaccount_finish_migrating_button_label "เสร็จสิ้นการปรับรุ่น">
-<!ENTITY fxaccount_finish_migrating_description "การปรับรุ่นจะมีการถ่ายโอนข้อมูลจำนวนมาก จะเป็นการดีที่สุดถ้าทำบนเครือข่าย WiFi">
+<!ENTITY fxaccount_finish_migrating_description "การปรับรุ่นจะมีการถ่ายโอนข้อมูลจำนวนมาก จะเป็นการดีที่สุดถ้าทำบนเครือข่าย Wi-Fi">
 
 <!ENTITY fxaccount_status_header2 "บัญชี Firefox">
 <!ENTITY fxaccount_status_signed_in_as "เข้าสู่ระบบเป็น">
@@ -138,15 +138,15 @@
 <!ENTITY fxaccount_status_device_name "ชื่ออุปกรณ์">
 <!ENTITY fxaccount_status_sync_server "เซิร์ฟเวอร์การผสาน">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; : เปิดใช้อยู่">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ถูกเปิดใช้งาน">
 <!ENTITY fxaccount_status_needs_verification2 "จำเป็นต้องยืนยันบัญชีของคุณ แตะเพื่อส่งอีเมลยืนยันอีกครั้ง">
 <!ENTITY fxaccount_status_needs_credentials "ไม่สามารถเชื่อมต่อได้ แตะเพื่อเข้าสู่ระบบ">
 <!ENTITY fxaccount_status_needs_upgrade "คุณจำเป็นต้องปรับรุ่นของ &brandShortName; เพื่อเข้าสู่ระบบ">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานข้อมูลโดยอัติโนมัติ ให้เลือกเปิดที่ “Auto-sync data” ใน Android Settings &gt; Data Usage">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานข้อมูลอัตโนมัติ ให้เลือกเปิดที่ “Auto-sync data” ในเมนูของ Android Settings &gt; Accounts">
-<!ENTITY fxaccount_status_needs_finish_migrating "แตะเพื่อลงชื่อเข้าใช้บัญชี Firefox ใหม่ของคุณ">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “Auto-sync data” ในการตั้งค่า Android &gt; Data Usage">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “Auto-sync data” ในเมนูการตั้งค่าของ Android &gt; Accounts">
+<!ENTITY fxaccount_status_needs_finish_migrating "แตะเพื่อเข้าสู่ระบบบัญชี Firefox ใหม่ของคุณ">
 <!ENTITY fxaccount_status_bookmarks "ที่คั่นหน้า">
-<!ENTITY fxaccount_status_history "ประวัติการท่องเว็บ">
+<!ENTITY fxaccount_status_history "ประวัติ">
 <!ENTITY fxaccount_status_passwords2 "การเข้าสู่ระบบ">
 <!ENTITY fxaccount_status_tabs "แท็บที่เปิด">
 <!ENTITY fxaccount_status_legal "ข้อกฎหมาย" >
@@ -160,10 +160,10 @@
 <!ENTITY fxaccount_remove_account "ตัดการเชื่อมต่อ&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "เอาบัญชี Firefox ออก?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; จะหยุดการซิงค์กับบัญชีของคุณ แต่จะไม่ลบข้อมูลการเข้าเว็บบนอุปกรณ์นี้">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; จะหยุดการผสานกับบัญชีของคุณ แต่จะไม่ลบข้อมูลการท่องเว็บใด ๆ ของคุณบนอุปกรณ์นี้">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "บัญชี Firefox &formatS; ถูกลบแล้ว">
+<!ENTITY fxaccount_remove_account_toast "เอาบัญชี Firefox &formatS; ออกแล้ว">
 
 <!ENTITY fxaccount_enable_debug_mode "เปิดใช้งานโหมดดีบั๊ก">
 <!-- Localization note: this is the name shown by the Android system
