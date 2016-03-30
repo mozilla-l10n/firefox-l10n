@@ -21,7 +21,7 @@
 <!ENTITY hideThisAppCmdMac.key              "K'">
 <!ENTITY hideOtherAppsCmdMac.label          "Kewaxik ch'aqa' chikKe">
 <!ENTITY hideOtherAppsCmdMac.key            "K'">
-<!ENTITY showAllAppsCmdMac.label            "Ruk'utik ronojel">
+<!ENTITY showAllAppsCmdMac.label            "Tik'ut pe ronojel">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 
 <!ENTITY quitApplicationCmdUnix.key          "Q">

@@ -167,9 +167,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Tatz'ib'aj ab'i' pa re jun ruxaq re'">
 <!ENTITY subscribeToPageMenuitem.label "Tatz'ib'aj ab'i' pa re ruxaq wuj…">
 <!ENTITY addCurPagesCmd.label "Taya' ronojel ri taq ruwi'…">
-<!ENTITY showAllBookmarks2.label "Ruk'utik konojel ri taq samajib'äl">
+<!ENTITY showAllBookmarks2.label "Kek'ut konojel ri taq etal">
 <!ENTITY unsortedBookmarksCmd.label "Taq samajib'äl majun ketal">
-<!ENTITY bookmarksToolbarChevron.tooltip "Ruk'utik ch'aqa' chik taq samajib'äl">
+<!ENTITY bookmarksToolbarChevron.tooltip "Kek'ut pe ch'aqa' chik taq etal">
 
 <!ENTITY backCmd.label                "Chi ruwäch">
 <!ENTITY backButton.tooltip           "Rutzolixik jun ruxaq">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Taq retal">
-<!ENTITY bookmarksMenuButton.unsorted.label "Ruk'utik ri taq asamajib'al">
+<!ENTITY bookmarksMenuButton.unsorted.label "Taq etal man echa'on ta">
 <!ENTITY viewBookmarksSidebar2.label        "Rutz'etik Sidebar Etal ">
 <!ENTITY viewBookmarksToolbar.label         "Rutz'etik ri rucholanel samajib'äl">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -343,8 +343,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "K'ak'a' tzuwäch">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "K">
-<!ENTITY newPrivateWindow.label     "K'ak'a' ichinan kajtz'ïk">
-<!ENTITY newPrivateWindow.accesskey "i">
+<!ENTITY newPrivateWindow.label     "K'ak'a' ichinan tzuwäch">
+<!ENTITY newPrivateWindow.accesskey "t">
 <!ENTITY newNonRemoteWindow.label   "K'ak'a' Non-e10s Window">
 
 <!ENTITY editMenu.label         "K'exonïk"> 
@@ -529,12 +529,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInCurrent.accesskey "T">
 <!ENTITY openFrameCmdInTab.label      "Tijaq ruchi' pa jun k'ak'a' ruwi'">
 <!ENTITY openFrameCmdInTab.accesskey  "w">
-<!ENTITY openFrameCmd.label           "Tijaq ri ruchi' pa jun k'ak'a' kajtz'ïk">
-<!ENTITY openFrameCmd.accesskey       "k">
+<!ENTITY openFrameCmd.label           "Tijaq ri ruchi' pa jun k'ak'a' tzuwäch">
+<!ENTITY openFrameCmd.accesskey       "t">
 <!ENTITY openLinkCmdInContainerTab.label "Tijaq ximonel pa k'ak'a' ruwi' ajk'wayöl">
 <!ENTITY openLinkCmdInContainerTab.accesskey "a">
-<!ENTITY showOnlyThisFrameCmd.label     "Ruk'utik xa xe re ruchi' re'">
-<!ENTITY showOnlyThisFrameCmd.accesskey "r">
+<!ENTITY showOnlyThisFrameCmd.label     "Tik'ut pe xa xe re ruchi' re'">
+<!ENTITY showOnlyThisFrameCmd.accesskey "T">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Rukamulokem ruchi'">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -589,7 +589,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "s">
 <!ENTITY saveAudioCmd.label           "Ruyakik q'ojom achi'el…">
 <!ENTITY saveAudioCmd.accesskey       "R">
-<!ENTITY emailImageCmd.label          "Rutaqik Wachib'äl…">
+<!ENTITY emailImageCmd.label          "Titaq Wachib'äl…">
 <!ENTITY emailImageCmd.accesskey      "i">
 <!ENTITY emailVideoCmd.label          "Rutaqik Silowachib'äl…">
 <!ENTITY emailVideoCmd.accesskey      "i">
@@ -647,8 +647,8 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Ruk'utik taq k'wayöl">
-<!ENTITY mediaShowControls.accesskey "k">
+<!ENTITY mediaShowControls.label     "Kek'ut pe chajinela'">
+<!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Kewaxik taq K'wayöl ">
 <!ENTITY mediaHideControls.accesskey "a">
 <!ENTITY videoFullScreen.label       "Chijun rwäch kematz'ib'">
@@ -831,7 +831,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.addons.label "Rub'anik samaj…">
 
-<!ENTITY social.toggleNotifications.label "Ruk'utik rutzijol kemach'atal">
+<!ENTITY social.toggleNotifications.label "Kek'ut pe taq rutzijol kematz'ib'ab'äl">
 <!ENTITY social.toggleNotifications.accesskey "r">
 
 <!ENTITY social.activated.description "Ri taq samajib'äl <label/> xetzij. Tikirel najalwachij ri taq samajib'äl nik'atzin chawe pa <label class='text-link'> Nuk'üy taq rutz'aqat</label>">
