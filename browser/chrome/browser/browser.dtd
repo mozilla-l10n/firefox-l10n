@@ -797,12 +797,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Sinxronlaşdırılmış Vərəqlər">
 <!ENTITY syncedTabs.sidebar.fetching.label     "Sinxronlaşdırılmış vərəqlər alınır…">
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Digər cihazlarınızdan da Firefox-a daxil olun, vərəqlərini burada görün.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Açıq vərəq yoxdur">
-
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; nizamlamalarını aç">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün vərəq sinxronizasiyasını aktivləşdirin.">
 
 <!ENTITY syncedTabs.context.openTab.label                   "Bu Vərəqi Aç">
 <!ENTITY syncedTabs.context.openTab.accesskey               "A">
