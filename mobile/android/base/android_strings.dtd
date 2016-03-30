@@ -540,7 +540,7 @@ size. -->
 <!ENTITY home_selected_empty "เว็บไซต์ที่คุณได้เยี่ยมชมตามกรอบเวลาที่คุณเลือกจะแสดงที่นี่">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "หมายเหตุ: การใช้&formatS1;แท็บส่วนตัวใหม่&formatS2;จะไม่บันทึกประวัติของคุณ">
+<!ENTITY home_most_recent_emptyhint2 "หมายเหตุ: การใช้ &formatS1;แท็บส่วนตัวใหม่&formatS2; จะไม่บันทึกประวัติของคุณ">
 <!ENTITY home_reading_list_empty "บทความที่คุณบันทึกไว้อ่านในภายหลังจะแสดงที่นี่">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -645,7 +645,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-<!ENTITY suggestion_for_engine "ค้นหา &formatS2; ด้วย &formatS1;">
+<!ENTITY suggestion_for_engine "ค้นหา &formatS1; สำหรับ &formatS2;">
 
 <!ENTITY searchable_description "ที่คั่นหน้าและประวัติ">
 <!-- Updater notifications --> 
@@ -736,7 +736,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
 
-<!ENTITY devtools_auth_scan_header "กำลังสแกนรหัส QR ที่แสดงบนอุปกรณ์อื่น ๆ ของคุณ">
+<!ENTITY devtools_auth_scan_header "กำลังสแกนรหัส QR ที่แสดงบนอุปกรณ์อื่นของคุณ">
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
@@ -771,7 +771,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version "ขออภัย! &brandShortName; ตัวนี้ไม่สามารถทำงานบนอุปกรณ์นี้ได้ (&formatS1; &formatS2;) โปรดดาวน์โหลดรุ่นที่ถูกต้อง">
 
-<!ENTITY eol_notification_title2 "&brandShortName; จะไม่ได้รับการปรับปรุงอีก">
+<!ENTITY eol_notification_title2 "&brandShortName; จะไม่ได้รับการปรับปรุงอีกต่อไป">
 <!ENTITY eol_notification_summary "แตะเพื่อเรียนรู้เพิ่มเติม">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
