@@ -48,7 +48,7 @@
 
 <!ENTITY aboutTelemetry.slowSqlSection "  हळू SQL विधाने">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "  ब्राऊजर हँग्ज">
+<!ENTITY aboutTelemetry.chromeHangsSection "  ब्राउझर हँग्ज">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  थ्रेड हँग्ज">
 

@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "वेब कंसोल">
-<!ENTITY browserConsole.title "ब्राउजर कंसोल">
+<!ENTITY browserConsole.title "ब्राउझर कंसोल">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 

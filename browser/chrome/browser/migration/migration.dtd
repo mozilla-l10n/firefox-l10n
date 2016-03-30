@@ -25,7 +25,7 @@
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFrom360se.label          "360 सुरक्षित ब्राउजर">
+<!ENTITY importFrom360se.label          "360 सुरक्षित ब्राउझर">
 <!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "ओळखचिन्ह, इतिहास किंवा पासवर्ड विषयी माहिती देणारे कुठलेही कार्यक्रम आढळले नाही.">
@@ -43,4 +43,4 @@
 <!ENTITY done.title                     "आगतप्रक्रिया पुर्ण झाली">
 <!ENTITY done.label                     "खालील घटक यशस्वीरित्या वाचले गेले:">
 
-<!ENTITY closeSourceBrowser.label       "कृपया पुढे जायच्या पहिले निवडलेला ब्राउजर बंद आहे याची खात्री करा.">
+<!ENTITY closeSourceBrowser.label       "कृपया पुढे जायच्या पहिले निवडलेला ब्राउझर बंद आहे याची खात्री करा.">
