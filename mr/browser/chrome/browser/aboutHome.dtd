@@ -14,7 +14,7 @@
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Firefox नीवडल्याबद्दल धन्यवाद! ब्राउजरला आणखी सुरेख बनवण्यासाठी, <a>नुकतेच गुणविशेष</a> विषयी अधिक जाणून घ्या.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefox नीवडल्याबद्दल धन्यवाद! ब्राउझरला आणखी सुरेख बनवण्यासाठी, <a>नुकतेच गुणविशेष</a> विषयी अधिक जाणून घ्या.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->

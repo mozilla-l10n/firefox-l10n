@@ -37,7 +37,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "टॅब्स उघडा">
 <!ENTITY  locbar.openpage.accesskey     "O">
-<!ENTITY  locbar.searches.label         "मुलभूत शोध इंजिनमधून संबधित शोध">
+<!ENTITY  locbar.searches.label         "पूर्वनिर्धारित शोध इंजिनमधून संबधित शोध">
 <!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  suggestionSettings.label      "शोध इंजिन साठी सूचनांचा असलेला प्राधान्यक्रम बदला…">

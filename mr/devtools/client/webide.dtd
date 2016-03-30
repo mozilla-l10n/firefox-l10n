@@ -204,7 +204,7 @@
 
 <!ENTITY simulator_title "सिम्युलेटर पर्याय">
 <!ENTITY simulator_remove "सिम्युलेटर नष्ट करा">
-<!ENTITY simulator_reset "डिफॉल्ट पूर्ववत करा">
+<!ENTITY simulator_reset "पूर्वनिर्धारित मूळस्थितित आणा">
 <!ENTITY simulator_name "नाव">
 <!ENTITY simulator_software "सॉफ्टवेअर">
 <!ENTITY simulator_version "आवृत्ती">

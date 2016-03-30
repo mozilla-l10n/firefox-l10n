@@ -31,7 +31,7 @@
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "HTML करिता वाचनखुणा एक्सपोर्ट करा…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "इतर ब्राऊजरपासून डाटा आयात करा…">
+<!ENTITY importOtherBrowser.label          "इतर ब्राउझरपासून डाटा आयात करा…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "बॅकअप…">

@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY defaultSearchEngine.label             "मुलभूत शोध इंजिन">
+<!ENTITY defaultSearchEngine.label             "पूर्वनिर्धारित शोध इंजिन">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "तुमचे डिफॉल्ट शोध इंजिन निवडा. &brandShortName; ते लोकेशन बार, शोध बार, आणि सुरूवातीच्या पृष्ठावर वापरते.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "तुमचे पूर्वनिर्धारित शोध इंजिन निवडा. &brandShortName; ते लोकेशन बार, शोध बार, आणि सुरूवातीच्या पृष्ठावर वापरते.">
 
 <!ENTITY provideSearchSuggestions.label        "शोध सूचना पुरवा">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
@@ -23,7 +23,7 @@
 <!ENTITY engineNameColumn.label                "शोध इंजिन्स">
 <!ENTITY engineKeywordColumn.label             "मुख्यशब्द">
 
-<!ENTITY restoreDefaultSearchEngines.label     "मुलभूत शोध इंजिन पुर्वस्थित करा">
+<!ENTITY restoreDefaultSearchEngines.label     "पूर्वनिर्धारित शोध इंजिन पुर्वस्थित करा">
 <!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
 <!ENTITY removeEngine.label                    "काढून टाका">
