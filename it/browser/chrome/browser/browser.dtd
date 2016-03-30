@@ -196,9 +196,9 @@
 <!ENTITY browserConsoleCmd.accesskey "o">
 <!ENTITY inspectContextMenu.label "Analizza elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
-<!ENTITY responsiveDesignTool.label "Visualizzazione flessibile">
-<!ENTITY responsiveDesignTool.accesskey "u">
-<!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY responsiveDesignMode.label "Modalità visualizzazione flessibile">
+<!ENTITY responsiveDesignMode.accesskey "u">
+<!ENTITY responsiveDesignMode.commandkey "M">
 <!ENTITY eyedropper.label "Prelievo colore">
 <!ENTITY eyedropper.accesskey "e">
 <!ENTITY scratchpad.label "Blocco per gli appunti">
