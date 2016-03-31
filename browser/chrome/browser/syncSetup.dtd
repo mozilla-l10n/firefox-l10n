@@ -45,7 +45,7 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- My Recovery Key dialog -->
 
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; तुमच्या गोपणीयताची आम्ही काळजी घेतो">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; आपल्या गोपणीयताची आम्ही काळजी घेतो">
 <!ENTITY setup.newRecoveryKeyPage.description.label "संपूर्ण गोपणीयताच्या खात्रीकरिता, सर्व डाटा अपलोड करण्यापूर्वी एंक्रिप्ट केला जातो. डाटा डिक्रिप्ट करण्यासाठी आवश्यक पुनःप्राप्ति कि अपलोड केले जात नाही.">
 <!ENTITY recoveryKeyEntry.label        "आपली पुनःप्राप्ति कि">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
@@ -67,7 +67,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "साधनने पुरवलेला कोड द्या:">
 <!ENTITY addDevice.dialog.tryAgain.label    "कृपया पुनः प्रयत्न करा.">
 <!ENTITY addDevice.dialog.successful.label  "साधन यशस्वीरित्या समाविष्ट केले. प्रारंभिक सिंक्रोनाइजेशनला काहिक मिनीटे लागू शकतील व पार्श्वभूमीत समाप्त होईल.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "साधन सुरू करण्यासाठी पुनःप्राप्ति कि द्या. कृपया ह्या किची छपाई करा किंवा कि साठवा व तुमच्यासह जपून ठेवा.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "साधन सुरू करण्यासाठी पुनःप्राप्ति कि द्या. कृपया ह्या किची छपाई करा किंवा कि साठवा व आपल्याकडे जपून ठेवा.">
 <!ENTITY addDevice.dialog.connected.label   "साधन जोडले">
 <!-- Existing Account Page 2: Manual Login -->
 
@@ -103,10 +103,10 @@
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "खात्री करा">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; आत्ता ह्या साधनाची ब्राउझर माहिती तुमच्या Sync खात्याशी एकत्रीत करेल.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; आत्ता ह्या साधनाची ब्राउझर माहिती आपल्या Sync खात्याशी एकत्रीत करेल.">
 <!ENTITY confirm.client3.label         "सावधानता: ह्या साधनावरील खालील &brandShortName;  माहिती नष्ट केली जाईल:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; त्यानंतर तुमच्या &syncBrand.fullName.label; माहितीचे ह्या साधनावर प्रत बनवेल.">
-<!ENTITY confirm.server2.label         "सावधानता: खालील साधने तुमच्या स्थानीय डाटाशी खोडून पुनः लिहीले जाईल:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; त्यानंतर आपल्या &syncBrand.fullName.label; माहितीचे ह्या साधनावर प्रत बनवेल.">
+<!ENTITY confirm.server2.label         "सावधानता: खालील साधने आपल्या स्थानीय डाटाशी खोडून पुनः लिहीले जाईल:">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "मांडणी पूर्ण झाली">

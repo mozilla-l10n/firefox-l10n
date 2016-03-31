@@ -110,7 +110,7 @@ values from browser.dtd.  -->
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label5    "ब्राउझर chrome आणि ॲडऑन डिबगिंग साधनपेट्या सक्रीय करा">
+<!ENTITY options.enableChrome.label5    "ब्राउझर chrome आणि ॲड-ऑन डिबगिंग साधनपेट्या सक्रीय करा">
 <!ENTITY options.enableChrome.tooltip3  "हे पर्याय सुरु केल्यामुळे आपल्याला खूप डेवलपर साधने ब्राउझर मध्ये वापरता येतील (साधने > वेब डेवलपर > साधनपेटी) आणि ॲड-ऑन्स् व्यवस्थापकाहून ॲड-ऑन्स् डीबग करा.">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
