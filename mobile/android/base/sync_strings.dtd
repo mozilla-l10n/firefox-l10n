@@ -127,7 +127,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "अद्ययावत संपवण्यासाठी साइन इन करा">
 <!ENTITY fxaccount_finish_migrating_button_label "अद्ययावत संपवा">
-<!ENTITY fxaccount_finish_migrating_description "अद्ययावत करताना खूप डेटा वापरला जाऊ शकतो. म्हणून वाय-फाय नेटवर्क वर असणे उत्कृष्ठ ठरेल.">
+<!ENTITY fxaccount_finish_migrating_description "अद्ययावत करताना खूप डाटा वापरला जाऊ शकतो. म्हणून वाय-फाय नेटवर्क वर असणे उत्कृष्ठ ठरेल.">
 
 <!ENTITY fxaccount_status_header2 "Firefox खातं">
 <!ENTITY fxaccount_status_signed_in_as "असे प्रवेश केले">
