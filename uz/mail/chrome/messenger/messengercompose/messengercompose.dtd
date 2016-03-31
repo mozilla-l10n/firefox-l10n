@@ -44,38 +44,38 @@
 <!ENTITY saveAsDraftCmd.accesskey "Q">
 <!ENTITY saveAsTemplateCmd.label "Namuna">
 <!ENTITY saveAsTemplateCmd.accesskey "N">
-<!ENTITY sendNowCmd.label "Hozir jo‘natish">
-
+<!ENTITY sendNowCmd.label "Darhol joʻnatish">
+<!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "j">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY sendLaterCmd.label "Keyinroq joʻnatish">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "K">
+<!ENTITY printSetupCmd.label "Sahifani moslash…">
+<!ENTITY printSetupCmd.accesskey "l">
+<!ENTITY printPreviewCmd.label "Chop qilishni ko‘rish">
+<!ENTITY printPreviewCmd.accesskey "n">
+<!ENTITY printCmd.label "Chop qilish…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "p">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Tahrirlash">
 <!ENTITY editMenu.accesskey "T">
-
-
-
+<!ENTITY undoCmd.label "Amalni bekor qilish">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "b">
 <!ENTITY redoCmd.label "Amalni qaytarish">
-
+<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "q">
-
-
-
-
-
-
-
-
-
+<!ENTITY cutCmd.label "Kesish">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "K">
+<!ENTITY copyCmd.label "Nusxa olish">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "N">
+<!ENTITY pasteCmd.label "Qo‘yish">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "Q">
 
 
 
