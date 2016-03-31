@@ -138,8 +138,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "बंद कंस स्वतः अंतर्भुत करा">
 <!ENTITY prefs_options_keybindings "किबाइंडिंग्ज">
 <!ENTITY prefs_options_keybindings_default "पूर्वनिर्धारीत">
-<!ENTITY prefs_options_autosavefiles "स्वयं पद्धतीने फाईल्स साठवा">
-<!ENTITY prefs_options_autosavefiles_tooltip "प्रकल्प चालवण्यापुर्वी संपादीत केलेल्या फाईल्स स्वयंपद्धतीने साठवा">
+<!ENTITY prefs_options_autosavefiles "स्वयं पद्धतीने फाइल्स साठवा">
+<!ENTITY prefs_options_autosavefiles_tooltip "प्रकल्प चालवण्यापुर्वी संपादीत केलेल्या फाइल्स स्वयंपद्धतीने साठवा">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "परवानगी कोष्टक">
