@@ -3,22 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Help Menu -->
 
+<!ENTITY helpMenu.label "Yordam">
+<!ENTITY helpMenu.accesskey "Y">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Yordam">
+<!ENTITY helpMenuWin.accesskey "Y">
+<!ENTITY helpTroubleshootingInfo.label     "Muammoni hal qilish ma’lumoti">
+<!ENTITY helpTroubleshootingInfo.accesskey "M">
+<!ENTITY helpSafeMode.label     "Qo‘sh. dasturlarsiz qayta ishga tushirish…">
+<!ENTITY helpSafeMode.accesskey "i">
+<!ENTITY releaseCmd2.label "Reliz izohlari">
+<!ENTITY releaseCmd2.accesskey "i">
+<!ENTITY whatsNewCmd.label "Yangi xususiyatlar">
+<!ENTITY whatsNewCmd.accesskey "Y">
+<!ENTITY openHelp.label "Yordam mundarijasi">
+<!ENTITY openHelp.accesskey "Y">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "&brandShortName; yordami">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "tezlatkich">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutMenuCmd.label "&brandShortName; haqida">
+<!ENTITY aboutMenuCmd.accesskey "h">

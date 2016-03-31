@@ -2,48 +2,51 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+
+<!ENTITY msgComposeWindow.title "Yozish: (mavzusiz)">
 <!-- File Menu -->
 
 <!ENTITY fileMenu.label "Fayl">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Yangi">
 <!ENTITY newMenu.accesskey "Y">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newMessage.label "Xabar">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "X">
+<!ENTITY newContact.label "Manzil kitobi va Kontakt…">
+<!ENTITY newContact.accesskey "K">
+<!ENTITY attachMenu.label "Biriktirish">
+<!ENTITY attachMenu.accesskey "B">
+<!ENTITY attachFileCmd.label "Fayl(lar)…">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachPageCmd.label "Veb sahifa…">
+<!ENTITY attachPageCmd.accesskey "V">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-
-
-
+<!ENTITY attachVCardCmd.label "Shaxsi karta (vCard)">
+<!ENTITY attachVCardCmd.accesskey "S">
+<!ENTITY remindLater.label "Kechroq eslatilsin">
+<!ENTITY remindLater.accesskey "K">
 <!ENTITY closeCmd.label "Yopish">
-
+<!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Y">
+<!ENTITY saveCmd.label "Saqlash">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveAsCmd.label "Quyidagicha saqlash">
+<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsFileCmd.label "Fayl…">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Qoralama">
+<!ENTITY saveAsDraftCmd.accesskey "Q">
+<!ENTITY saveAsTemplateCmd.label "Namuna">
+<!ENTITY saveAsTemplateCmd.accesskey "N">
+<!ENTITY sendNowCmd.label "Hozir jo‘natish">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY sendNowCmd.accesskey "j">
 
 
 
