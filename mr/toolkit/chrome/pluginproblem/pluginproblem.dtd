@@ -17,7 +17,7 @@
 <!ENTITY clickToActivatePlugin                               "प्लगइन सुरू करा.">
 <!ENTITY checkForUpdates                                     "सुधारणांसाठी तपासा...">
 <!ENTITY disabledPlugin                                      "हे प्लगईन बंद केले आहे.">
-<!ENTITY blockedPlugin.label                                 "हे प्लगइन तुमच्या सुरक्षेकरीता रोखले आहे.">
+<!ENTITY blockedPlugin.label                                 "हे प्लगइन आपल्या सुरक्षेकरीता रोखले आहे.">
 <!ENTITY hidePluginBtn.label                                 "प्लगइन लपवा">
 <!ENTITY managePlugins                                       "प्लगईन्स् व्यवस्थापित करा…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

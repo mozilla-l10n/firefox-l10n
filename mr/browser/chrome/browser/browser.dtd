@@ -834,7 +834,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "डेस्कटॉप सूचना दाखवा">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> पासूनच्या सेवा सुरू केले आहेत. <label class='text-link'>ॲडऑन व्यवस्थापक</label> मधील सेवांच्या सेटिंग्ज बदलणे शक्य आहे.">
+<!ENTITY social.activated.description "<label/> पासूनच्या सेवा सुरू केले आहेत. <label class='text-link'>ॲड-ऑन व्यवस्थापक</label> मधील सेवांच्या सेटिंग्ज बदलणे शक्य आहे.">
 <!ENTITY social.activated.undo.label "अरेच्छा, पूर्ववत् करा!">
 <!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "आणखी शिका…">
