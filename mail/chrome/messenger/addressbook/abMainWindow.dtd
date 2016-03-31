@@ -184,6 +184,7 @@ because displayed names don't have the comma in between. -->
 
 
 <!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Açıqlama">
 
 <!-- For Map It! -->
 
