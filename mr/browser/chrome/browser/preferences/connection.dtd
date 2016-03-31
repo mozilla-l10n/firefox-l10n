@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  connectionsDialog.title       "जोडणी रचना">
+<!ENTITY  connectionsDialog.title       "जोडणी सेटींग्स">
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
@@ -12,7 +12,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "प्रणाली प्रॉक्सी सेटिंग्जचा वापर करा">
 <!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  WPADTypeRadio.label           "या नेटवर्कसाठी प्रतिनिधी(प्रॉक्सी) रचना आपोआप शोधून काढा">
+<!ENTITY  WPADTypeRadio.label           "या नेटवर्कसाठी प्रतिनिधी(प्रॉक्सी) सेटींग्स आपोआप शोधून काढा">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "मानवीय प्रॉक्सी संरचना:">
 <!ENTITY  manualTypeRadio.accesskey     "M">

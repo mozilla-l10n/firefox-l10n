@@ -717,7 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "मूळ पृष्ठ शैली">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "ह्या संकेतस्थळाकरता पॉपअप अडवून ठेवणारी रचना बदला">
+<!ENTITY pageReportIcon.tooltip            "ह्या संकेतस्थळाकरता पॉप-अप अडवून ठेवणारे सेटींग्स बदला">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but

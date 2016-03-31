@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 ठसा">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 ठसा">
 
-<!ENTITY certmgr.editcacert.title             "CA प्रमाणपत्र विश्वासर्ह रचना संपादित करा">
-<!ENTITY certmgr.editcert.edittrust           "विश्वासर्ह रचना संपादित करा:">
+<!ENTITY certmgr.editcacert.title             "CA प्रमाणपत्र विश्वासर्ह सेटींग्स संपादित करा">
+<!ENTITY certmgr.editcert.edittrust           "विश्वासर्ह सेटींग्स संपादित करा:">
 <!ENTITY certmgr.editcert.trustssl            "हे प्रमाणपत्र संकेत स्थळं ओळखू शकते.">
 <!ENTITY certmgr.editcert.trustemail          "हे प्रमाणपत्र मेल वापरकर्त्यांना ओळखू शकते.">
 <!ENTITY certmgr.editcert.trustobjsign        "हे प्रमाणपत्र सॉफ्टवेअर निर्मात्यांना ओळखू शकते.">
