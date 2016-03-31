@@ -18,7 +18,7 @@
 <!ENTITY sync.account               "खाते नाव">
 <!ENTITY sync.password              "पासवर्ड">
 <!ENTITY sync.recoveryKey           "पुनःप्राप्ति कि">
-<!ENTITY sync.customServer          "मनपसंत सर्वर वापरा">
+<!ENTITY sync.customServer          "मनपसंत सर्व्हर वापरा">
 <!ENTITY sync.serverURL             "सर्व्हरचा URL">
 <!ENTITY sync.setup.connect         "जोडणी करा">
 <!ENTITY sync.setup.cancel          "रद्द करा">

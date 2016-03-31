@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "हा पत्ता प्रतिबंधित आहे">
 <!ENTITY deniedPortAccess.longDesc "हा पत्ता प्रतिबंधित आहे">
 
-<!ENTITY dnsNotFound.title "सर्वर सापडला नाही">
+<!ENTITY dnsNotFound.title "सर्व्हर सापडला नाही">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul>  
@@ -92,14 +92,14 @@
 <li>तुम्हाला हा पत्ता पाहण्यासाठी कदाचीत दुसरे सॉफ्टवेअर स्थापीत करावे लागेल.</li> 
 </ul>">
 
-<!ENTITY proxyConnectFailure.title "जोडणींसाठी प्रॉक्सी सर्वर नकार देत आहे">
+<!ENTITY proxyConnectFailure.title "जोडणींसाठी प्रॉक्सी सर्व्हर नकार देत आहे">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>प्रॉक्सी सेटींग अचूक आहेत याची खात्री करा.</li> 
-<li>प्रॉक्सी सर्वर कार्यरत आहे याची खात्री करण्यासाठी नेटवर्क 
+<li>प्रॉक्सी सर्व्हर कार्यरत आहे याची खात्री करण्यासाठी नेटवर्क 
 प्रशासकाशी संपर्क करा.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "प्रॉक्सी सर्वर शोधू शकत नाही">
+<!ENTITY proxyResolveFailure.title "प्रॉक्सी सर्व्हर शोधू शकत नाही">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
@@ -115,11 +115,11 @@
 न केल्यामुळेही होते.</li> 
 </ul>">
 
-<!ENTITY unknownSocketType.title "सर्वर कडून अनपेक्षित प्रतिसाद">
+<!ENTITY unknownSocketType.title "सर्व्हर कडून अनपेक्षित प्रतिसाद">
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>आपल्या प्रणालीवर व्यक्तिगत सुरक्षा व्यवस्थापक प्रस्थापित आहे 
 याची खातरजमा करा.</li> 
-<li>याचे कारण सर्वर वरील अमानक संरचना असू शकते.</li> 
+<li>याचे कारण सर्व्हर वरील अमानक संरचना असू शकते.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "सुरक्षीत जोडणी अपयशी">
@@ -130,9 +130,9 @@
 
 <!ENTITY nssBadCert.title "सुरक्षीत जोडणी अपयशी">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>हे या सर्वरवरील संयोजनातील अडचण असू शकते, किंवा सर्वर नुरूप बहरूपी 
+<li>हे या सर्व्हरवरील संयोजनातील अडचण असू शकते, किंवा सर्व्हर नुरूप बहरूपी 
 सुद्धा असू शकतो.</li> 
-<li>आपण या सर्वरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व आपण 
+<li>आपण या सर्व्हरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व आपण 
 पुनःप्रयत्न करू शकता.</li> 
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
@@ -160,7 +160,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>पूर्णतः विश्वासार्ह नसलेल्या इंटरनेट जोडणीचा वापर करत असल्यास किंवा या सर्वरवर सावधानता इशाऱ्याची सवय नसल्यास, अपवाद यादीत समाविष्ट करू नका.</p> 
+<!ENTITY securityOverride.warningContent "<p>पूर्णतः विश्वासार्ह नसलेल्या इंटरनेट जोडणीचा वापर करत असल्यास किंवा या सर्व्हरवर सावधानता इशाऱ्याची सवय नसल्यास, अपवाद यादीत समाविष्ट करू नका.</p> 
   
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
