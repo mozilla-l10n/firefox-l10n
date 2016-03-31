@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; ची मांडणी करा">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; तुम्हाला इतिहास, पुस्तकखुणे, पासवर्डस् व सर्व साधनांकरीता टॅब्स् उघडण्यास परवानगी देतो.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; तुम्हाला इतिहास, वाचनखूणा, पासवर्डस् व सर्व साधनांकरीता टॅब्स् उघडण्यास परवानगी देतो.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
@@ -77,14 +77,14 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "ईमेलची तपासणी करा">
 <!ENTITY forget.label                "हा ईमेल विसरून जा">
 
-<!ENTITY welcome.description "टॅब्ज, वाचनखुणा, पासवर्ड्ज आणि &brandShortName; चा वापर जेथे कुठेही होत असल्यास प्रवेश करा.">
+<!ENTITY welcome.description "टॅब्ज, वाचनखूणा, पासवर्ड्ज आणि &brandShortName; चा वापर जेथे कुठेही होत असल्यास प्रवेश करा.">
 <!ENTITY welcome.signIn.label "साइन इन">
 <!ENTITY welcome.createAccount.label "खाते निर्माण करा">
 
 <!ENTITY welcome.useOldSync.label "सिंकची जुणी आवृत्ती वापरत आहात?">
 
 <!ENTITY signedOut.caption            "आपला वेब आपल्याबरोबर घेऊन जा">
-<!ENTITY signedOut.description        "आपल्या सर्व साधणांकरीता आपले बुकमार्क, इतिहास, टॅब, पासवर्ड, ॲड-ऑन्स्, आणि प्राधान्ये समक्रमित करा.">
+<!ENTITY signedOut.description        "आपल्या सर्व साधणांकरीता आपल्या वाचनखूणा, इतिहास, टॅब, पासवर्ड, ॲड-ऑन्स्, आणि प्राधान्ये समक्रमित करा.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; सह जोडा">
 <!ENTITY signedOut.accountBox.create  "खाते निर्माण करा">
 <!ENTITY signedOut.accountBox.signin  "साइन इन">
