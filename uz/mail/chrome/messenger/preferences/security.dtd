@@ -42,5 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
-
+<!ENTITY antiVirus.intro      "Kiruvchi xatlarni kompyuterga saqlashdan oldin antivirus dasturlari tekshirishini &brandShortName; osonlashtiradi.">
+<!ENTITY antiVirus.label      "Individual kiruvchi xabarlarni karantinda saqlash uchun antivirus mijozlariga ruxsat berilsin">
+<!ENTITY antiVirus.accesskey  "r">
 

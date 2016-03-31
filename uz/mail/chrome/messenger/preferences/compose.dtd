@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "O">
 <!ENTITY restoreHTMLDefaults.label            "Asosiy sozlamalarni tiklash">
 <!ENTITY restoreHTMLDefaults.accesskey        "t">
-
-
+<!ENTITY enterKeyCreatesNewParagraph.label    "Paragraf formatidan foydalansangiz, kiritilgan kalit yangi paragrafni yaratadi">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "P">
 
 <!ENTITY spellCheck.label                     "Jo‘natishdan oldin imlo xatolarini tekshirish">
 <!ENTITY spellCheck.accesskey                 "t">
