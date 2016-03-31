@@ -26,7 +26,7 @@
 <!ENTITY attachPageCmd.label "Veb sahifa…">
 <!ENTITY attachPageCmd.accesskey "V">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Shaxsi karta (vCard)">
+<!ENTITY attachVCardCmd.label "Shaxsiy karta (vCard)">
 <!ENTITY attachVCardCmd.accesskey "S">
 <!ENTITY remindLater.label "Kechroq eslatilsin">
 <!ENTITY remindLater.accesskey "K">
@@ -36,8 +36,8 @@
 <!ENTITY saveCmd.label "Saqlash">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "S">
-<!ENTITY saveAsCmd.label "Quyidagicha saqlash">
-<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsCmd.label "Boshqa formatda saqlash">
+<!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Fayl…">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Qoralama">
@@ -50,8 +50,8 @@
 <!ENTITY sendLaterCmd.label "Keyinroq joʻnatish">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "K">
-<!ENTITY printSetupCmd.label "Sahifani moslash…">
-<!ENTITY printSetupCmd.accesskey "l">
+<!ENTITY printSetupCmd.label "Sahifani sozlash…">
+<!ENTITY printSetupCmd.accesskey "s">
 <!ENTITY printPreviewCmd.label "Chop qilishni ko‘rish">
 <!ENTITY printPreviewCmd.accesskey "n">
 <!ENTITY printCmd.label "Chop qilish…">
