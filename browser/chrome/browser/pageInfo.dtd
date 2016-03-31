@@ -38,7 +38,7 @@
 <!ENTITY  mediaDimension        "माप:">
 <!ENTITY  mediaLongdesc         "मोठे वर्णन:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "पान सुरक्षित करा...">
+<!ENTITY  mediaSaveAs           "असे साठवा…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "माध्यमाचे पूर्वदर्शन:">

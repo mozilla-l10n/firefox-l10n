@@ -8,11 +8,11 @@
 
 <!ENTITY accessibility.label             "प्रवेश">
 
-<!ENTITY useCursorNavigation.label       "पानाच्या आत संचार करण्याकरता नेहमी कर्सर कळचा वापर करा">
+<!ENTITY useCursorNavigation.label       "पृष्ठाच्या आत संचार करण्याकरता नेहमी कर्सर कळचा वापर करा">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "लिहीण्यास सुरूवात करतेवेळी मजकुर शोधा">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "संकेत स्थळ पान पुन्हनिर्देशीत किंवा पुन्हदाखल करतेवेळी मला सतर्क करा">
+<!ENTITY blockAutoRefresh.label          "संकेत स्थळ पृष्ठ पुन्हनिर्देशीत किंवा पुन्हदाखल करतेवेळी मला सतर्क करा">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY useOnScreenKeyboard.label       "जेव्हा आवश्यक असेल तेव्हा टच keyboard दाखवा">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">

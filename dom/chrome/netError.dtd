@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadError.label "पान दाखल करतेवेळी त्रूटी">
+<!ENTITY loadError.label "पृष्ठ दाखल करतेवेळी त्रूटी">
 <!ENTITY retry.label "पुन्ही प्रयत्न करा">
 <!-- Specific error messages -->
 
@@ -35,7 +35,7 @@
 <!ENTITY netOffline.longDesc2 "<p>ब्राउझर ऑफलाइन मोडमध्ये कार्यरत आहे व विनंतीकृत घटकाशी संपर्क करू शकत नाही.</p><ul><li>संगणक सक्रिय नेटवर्कसह जुळलेले आहे?</li><li>ऑनलाइन मोडचा वापर करण्यासाठी &quot;पुन्हा प्रयत्न करा&quot; दाबा व पृष्ठ पुन्हा लोड करा.</li></ul>">
 
 <!ENTITY contentEncodingError.title "अनुक्रम एन्कोडींग त्रुटी">
-<!ENTITY contentEncodingError.longDesc "<p>पान अवैध किंवा असमर्थीत संकुचन प्रकार वापरत असल्यामुळे इच्छिक पान पाहता येणार नाही.</p><ul> <li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी अगत करा.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>पृष्ठ अवैध किंवा असमर्थीत संकुचन प्रकार वापरत असल्यामुळे इच्छिक पृष्ठ पाहता येणार नाही.</p><ul> <li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी अगत करा.</li></ul>">
 
 <!ENTITY unsafeContentType.title "असुरक्षीत फाइल प्रकार">
 <!ENTITY unsafeContentType.longDesc "<ul> 
@@ -64,7 +64,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>स्थळाने नेटवर्क विनंतीला अनपेक्षितरित्या प्रतिसाद दिला व त्यामुळे ब्राउझर पुढे कार्यरत होऊ शकत नाही.</p>">
 
 <!ENTITY nssFailure2.title "सुरक्षीत जुळवणी अपयशी">
-<!ENTITY nssFailure2.longDesc2 "<p>प्राप्य माहितीची अधिप्रमाणता तपासता न आल्यामुळे तुम्हाला इच्छिक पान पाहता येणार नाही.</p><ul><li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी अगत करा.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>प्राप्य माहितीची अधिप्रमाणता तपासता न आल्यामुळे तुम्हाला इच्छिक पृष्ठ पाहता येणार नाही.</p><ul><li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी अगत करा.</li></ul>">
 
 <!ENTITY nssBadCert.title "सुरक्षीत जुळवणी अपयशी">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -77,7 +77,7 @@
  <p>तरी या स्थळाकरीता अपवाद जोडायचे असल्यास, प्रगत एन्क्रिप्शन संयोजनाचा वापर करा.</p>">
 
 <!ENTITY cspBlocked.title "अंतर्भुत माहिती सुरक्षा धोरणद्वारे रोखले गेले">
-<!ENTITY cspBlocked.longDesc "<p>पानामध्ये अंतर्भुत माहिती सुरक्षा धोरण आढळल्यामुळे ब्राउझरने पानाला याप्रकारे लोड होण्यापासून रोखले.</p>">
+<!ENTITY cspBlocked.longDesc "<p>पृष्ठामध्ये अंतर्भुत माहिती सुरक्षा धोरण आढळल्यामुळे ब्राउझरने पृष्ठाला याप्रकारे लोड होण्यापासून रोखले.</p>">
 
 <!ENTITY corruptedContentError.title "दोषीत अंतर्भुत माहिती त्रुटी">
 <!ENTITY corruptedContentError.longDesc "<p>डाटा स्थानांतरनवेळी त्रुटी आढळल्याने दृष्यास्पद पृष्ठ दाखवणे अशक्य आहे.</p><ul><li>या अडचणीविषयी माहिती पूरवण्याकरीता, कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul>">
