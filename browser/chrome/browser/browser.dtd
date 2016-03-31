@@ -557,8 +557,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "Ş">
 <!ENTITY viewImageInfoCmd.label       "Şəkil məlumatlarını göstər">
 <!ENTITY viewImageInfoCmd.accesskey   "r">
-<!ENTITY viewImageDescCmd.label       "İzahatı Göstər">
-<!ENTITY viewImageDescCmd.accesskey   "İ">
+<!ENTITY viewImageDescCmd.label       "Açıqlamanı Göstər">
+<!ENTITY viewImageDescCmd.accesskey   "A">
 <!ENTITY viewVideoCmd.label           "Videoya bax">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Arxa fon şəklini göstər">
