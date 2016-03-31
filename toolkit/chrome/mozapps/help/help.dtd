@@ -10,10 +10,10 @@
 
 <!ENTITY backButton.label               "मागे">
 <!ENTITY backButton.accesskey           "B">
-<!ENTITY backButton.tooltip             "एक पान मागे जा">
+<!ENTITY backButton.tooltip             "एक पृष्ठ मागे जा">
 <!ENTITY forwardButton.label            "पुढे">
 <!ENTITY forwardButton.accesskey        "F">
-<!ENTITY forwardButton.tooltip          "एक पान पुढे जा">
+<!ENTITY forwardButton.tooltip          "एक पृष्ठ पुढे जा">
 <!ENTITY copyCmd.label                  "प्रत बनवा">
 <!ENTITY copyCmd.accesskey              "C">
 <!ENTITY selectAllCmd.label             "सर्व निवडा">
@@ -21,9 +21,9 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "मुख्य">
-<!ENTITY homeButton.tooltip             "मदतीच्या पहिल्या पानावर जा">
+<!ENTITY homeButton.tooltip             "मदतीच्या पहिल्या पृष्ठावर जा">
 <!ENTITY printButton.label              "छपाई">
-<!ENTITY printButton.tooltip            "हे पान छापा">
+<!ENTITY printButton.tooltip            "हे पृष्ठ छापा">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "शोध">

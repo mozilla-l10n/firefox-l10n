@@ -20,8 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "सर्व ॲड-ऑन्स् करीता साधने">
 
-<!ENTITY cmd.back.tooltip                     "एक पान मागे जा">
-<!ENTITY cmd.forward.tooltip                  "एक पान पुढे जा">
+<!ENTITY cmd.back.tooltip                     "एक पृष्ठ मागे जा">
+<!ENTITY cmd.forward.tooltip                  "एक पृष्ठ पुढे जा">
 
 <!ENTITY showUnsignedExtensions.button.label  "काही एक्सटेंशन्स पडताळले जाऊ शकले नाहीत">
 <!ENTITY showAllExtensions.button.label       "सर्व एक्सटेंशन्स दर्शवा">
