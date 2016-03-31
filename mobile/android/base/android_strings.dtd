@@ -38,13 +38,13 @@
 <!ENTITY  switch_to_tab "टॅबवर जा">
 
 <!ENTITY  crash_reporter_title "&brandShortName; आपत्ती बातमीदार">
-<!ENTITY  crash_message2 "&brandShortName;मध्ये समस्या होती आणि त्यास आपत्ती झाली. तुम्ही परत सुरु करताना &brandShortName; सुरुवाती पानावर तुमच्या टॅब्सची यादी असेल.">
+<!ENTITY  crash_message2 "&brandShortName;मध्ये समस्या होती आणि त्यास आपत्ती झाली. आपण परत सुरु करताना &brandShortName; सुरुवाती पानावर आपल्या टॅब्सची यादी असेल.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName;ला या आपत्तीबद्दल सांगा जेणेकरुन ते हे ठीक करु शकतील">
 <!ENTITY  crash_include_url2 "मी असलेल्या पानाचा पत्ता समाविष्ट करा">
 <!ENTITY  crash_sorry "आम्ही क्षमस्व आहोत">
 <!ENTITY  crash_comment "टिपण्णी समाविष्ट करा (टिपण्णी सार्वजनिकरित्या दृष्यास्पद आहे)">
 <!ENTITY  crash_allow_contact2 "या अहवालाबद्दल मला संपर्क साधण्यासाठी &vendorShortName;ला अनुमत करा">
-<!ENTITY  crash_email "तुमचा इमेल">
+<!ENTITY  crash_email "आपला इमेल">
 <!ENTITY  crash_closing_alert "आपत्ती अहवाल न पाठवता बाहेर पडायचे?">
 <!ENTITY  sending_crash_report "आपत्ती अहवाल\u2026 पाठवत आहे">
 <!ENTITY  crash_close_label "बंद करा">
@@ -166,7 +166,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "टीप: शोध क्षेत्रात दीर्घकाळ-दाबुन आणि &formatI; चिन्हावर थाप मारुन कुठलीपण वेबसाइट तुमच्या शोध पुरविणारे यादीत समाविष्ट करा.">
+<!ENTITY pref_search_hint "टीप: शोध क्षेत्रात दीर्घकाळ-दाबुन आणि &formatI; चिन्हावर थाप मारुन कुठलीपण वेबसाइट आपल्या शोध पुरविणारे यादीत समाविष्ट करा.">
 
 
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डीबग करणे">
@@ -268,7 +268,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "आता पुसा">
 
-<!ENTITY pref_clear_on_exit_summary2 "जेव्हा तुम्ही मुख्य मेनू मधून \u0022बंद\u0022 निवडाल तेव्हा &brandShortName; आपोआप आपली माहिती पुसेल">
+<!ENTITY pref_clear_on_exit_summary2 "जेव्हा आपण मुख्य मेनू मधून \u0022बंद\u0022 निवडाल तेव्हा &brandShortName; आपोआप आपली माहिती पुसेल">
 <!ENTITY pref_clear_on_exit_dialog_title "कोणती माहिती पुसायची ते निवडा">
 <!ENTITY pref_plugins "प्लगइन्स">
 <!ENTITY pref_plugins_enabled "कार्यान्वीत">
@@ -343,7 +343,7 @@ size. -->
 <!ENTITY datareporting_notification_action_long "कोणती माहिती शेअर करावी ते निवडा">
 <!ENTITY datareporting_notification_action "काय शेअर करायचे ते निवडा">
 <!ENTITY datareporting_notification_summary "आपला वापर अनुभव सुधारण्यासाठी, &brandShortName; काही माहिती आपोआप &vendorShortName; ला पाठवतं.">
-<!ENTITY datareporting_notification_summary_short "तुमचा वापर अनुभव सुधारण्यासाठी, &brandShortName;...">
+<!ENTITY datareporting_notification_summary_short "आपला वापर अनुभव सुधारण्यासाठी, &brandShortName;...">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -353,10 +353,10 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; स्वास्थ्य अहवाल">
-<!ENTITY datareporting_fhr_summary2 "तुमच्या ब्राउझरच्या स्वास्थ्याबद्दल &vendorShortName; सोबत माहिती शेअर करतो आणि तुम्हाला तुमच्या ब्राउझरची कामगिरी समझण्यासाठी मदत करतो">
+<!ENTITY datareporting_fhr_summary2 "आपल्या ब्राउझरच्या स्वास्थ्याबद्दल &vendorShortName; सोबत माहिती शेअर करतो आणि आपणाला आपल्या ब्राउझरची कामगिरी समझण्यासाठी मदत करतो">
 <!ENTITY datareporting_abouthr_title "माझा आरोग्य अहवाल बघा">
 <!ENTITY datareporting_telemetry_title "दूरमापन">
-<!ENTITY datareporting_telemetry_summary "तुमच्या ब्राउझरची कामगिरी, प्रयोग, हार्डवेअर आणि स्वपसंती माहिती &vendorShortName; सोबत शेअर करुन &brandShortName; अधिक चांगल बनवण्यासाठी आम्हाला मदत करतो">
+<!ENTITY datareporting_telemetry_summary "आपल्या ब्राउझरची कामगिरी, प्रयोग, हार्डवेअर आणि स्वपसंती माहिती &vendorShortName; सोबत शेअर करुन &brandShortName; अधिक चांगल बनवण्यासाठी आम्हाला मदत करतो">
 <!ENTITY datareporting_crashreporter_summary "&vendorShortName;ला तुमचे ब्राउझर अधिक स्थिर व सुरक्षित बनवण्यास मदतीसाठी &brandShortName; क्रॅश अहवाल दाखल करतो">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -375,6 +375,7 @@ size. -->
 
 <!ENTITY quit "बाहेर पडा">
 
+<!ENTITY addons "ॲड-ऑन्स">
 
 <!ENTITY downloads "डाउनलोडस्">
 <!ENTITY char_encoding "कॅरेक्टर एनकोडिंग">
@@ -477,11 +478,11 @@ size. -->
      as possible. -->
 
 <!ENTITY reading_list_added3 "वाचन यादीत जोडले">
-<!ENTITY reading_list_removed "पान तुमच्या वाचन यादीतून काढले गेले">
+<!ENTITY reading_list_removed "पान आपल्या वाचन यादीतून काढले गेले">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_remove "वाचन यादीतून काढा">
-<!ENTITY reading_list_duplicate "पान अगोदरच तुमच्या वाचन यादीत">
+<!ENTITY reading_list_duplicate "पान अगोदरच आपल्या वाचन यादीत आहेत">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
@@ -516,12 +517,12 @@ size. -->
 <!ENTITY home_history_title "इतिहास">
 <!ENTITY home_clear_history_button "ब्राऊजिंग इतिहास पुसा">
 <!ENTITY home_clear_history_confirm "आपला इतिहास पुसण्याबद्दल आपली खात्री आहे का?">
-<!ENTITY home_bookmarks_empty "तुम्ही साठवलेले वाचनखूणा येथे दिसतील.">
+<!ENTITY home_bookmarks_empty "आपण साठवलेले वाचनखूणा येथे दिसतील.">
 <!ENTITY home_closed_tabs_title "नुकतेच बंद केलेले टॅब">
 <!ENTITY home_last_tabs_title "मागील वेळच्या टॅब">
-<!ENTITY home_last_tabs_empty "तुमच्या अलिकडच्या टॅब्स येथे दिसतील.">
+<!ENTITY home_last_tabs_empty "आपल्या अलिकडच्या टॅब्स येथे दिसतील.">
 <!ENTITY home_open_all "सगळे उघडा">
-<!ENTITY home_most_recent_empty "तुम्ही अगदी अलिकडे भेट दिलेली संकेतस्थळे येथे दिसतील.">
+<!ENTITY home_most_recent_empty "आपण अगदी अलिकडे भेट दिलेली संकेतस्थळे येथे दिसतील.">
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -568,7 +569,7 @@ size. -->
 <!ENTITY filepicker_video_title "ध्वनी निवडा किंवा रेकॉर्ड करा">
 <!-- Site identity popup -->
 
-<!ENTITY identity_connected_to "तुम्ही यांच्यासह जुळलेले आहात">
+<!ENTITY identity_connected_to "आपण यांच्यासह जुळलेले आहात">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -615,7 +616,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 इतिहास आयात करत आहे">
 <!ENTITY bookmarkhistory_import_wait "कृपया प्रतिक्षा करा...">
 
-<!ENTITY suggestions_prompt3 "तुम्ही शोध सूचना सुरु करु इच्छिता?">
+<!ENTITY suggestions_prompt3 "आपण शोध सूचना सुरु करु इच्छिता?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched

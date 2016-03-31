@@ -132,7 +132,7 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>हे या सर्वरवरील संयोजनातील अडचण असू शकते, किंवा सर्वर नुरूप बहरूपी 
 सुद्धा असू शकतो.</li> 
-<li>आपण या सर्वरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व तुम्ही 
+<li>आपण या सर्वरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व आपण 
 पुनःप्रयत्न करू शकता.</li> 
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
@@ -151,7 +151,7 @@
 <!ENTITY corruptedContentError.title "दुषीत मजकूर त्रुटी">
 <!ENTITY corruptedContentError.longDesc "<p>माहिती स्थानांतरणवेळी त्रुटी आढळल्याने, अपेक्षीत पान दाखवणे शक्य नाही.</p><ul><li>या अडचणीविषयी माहिती देण्याकरीता, कृपया संकेतस्थळाच्या मालकांशी संपर्क साधा.</li></ul>">
 
-<!ENTITY securityOverride.linkText "किंवा तुम्ही यास अपवाद यादीत जोडू शकता…">
+<!ENTITY securityOverride.linkText "किंवा आपण यास अपवाद यादीत जोडू शकता…">
 <!ENTITY securityOverride.getMeOutOfHereButton "मला येथून बाहेर काढा!">
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद यादीत जोडा…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the

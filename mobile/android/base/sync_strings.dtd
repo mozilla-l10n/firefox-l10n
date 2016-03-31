@@ -42,9 +42,9 @@
 <!-- Send tab to device. -->
 
 <!ENTITY sync.title.redirect.to.set.up.sync.label "टॅब पाठवण्यासाठी &syncBrand.shortName.label; मांडा">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "तुमच्या उपकरणावरुन इतर उपकरणांवर टॅब्स पाठवण्यासाठी &syncBrand.fullName.label; मांडा.">
-<!ENTITY sync.text.tab.sent.label "तुमचा टॅब पाठवला गेला!">
-<!ENTITY sync.text.tab.not.sent.label "तुमचा टॅब पाठवण्यात एक अडचण होती.">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "आपल्या उपकरणावरुन इतर उपकरणांवर टॅब्स पाठवण्यासाठी &syncBrand.fullName.label; मांडा.">
+<!ENTITY sync.text.tab.sent.label "आपला टॅब पाठवला गेला!">
+<!ENTITY sync.text.tab.not.sent.label "आपला टॅब पाठवण्यात एक अडचण होती.">
 <!-- Firefox Account strings. -->
 
 
@@ -117,7 +117,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error "साइन इन नाही करु शकले">
 
 <!ENTITY fxaccount_account_verified_sub_header "खातं प्रमाणित">
-<!ENTITY fxaccount_account_verified_description2 "तुमच्या माहितीचे ताळमेळ काही वेळातच सुरु होइल.">
+<!ENTITY fxaccount_account_verified_description2 "आपल्या माहितीचे ताळमेळ काही वेळातच सुरु होइल.">
 
 <!ENTITY fxaccount_migration_finished_header "अद्ययावत संपले">
 
@@ -182,7 +182,7 @@
      has been made to the remote server, and an error of some type has
      been returned. -->
 
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "तुम्ही Firefox अद्ययावत करण्याची गरज आहे">
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "आपण Firefox अद्ययावत करण्याची गरज आहे">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "खातं पहिले पासूनच आहे. &formatS1;">
