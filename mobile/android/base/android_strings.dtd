@@ -14,7 +14,7 @@
 <!ENTITY firstrun_urlbar_subtext "उपयुक्त शोध सूचना शॉर्टकट्सने गोष्टी जलद शोधा. ">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "आपले आवडते, अग्रभाग आणि मध्य">
-<!ENTITY firstrun_bookmarks_subtext "शोधताना आपल्या वाचनखुणा आणि इतिहासातुन शोध निष्कर्ष मिळवा.">
+<!ENTITY firstrun_bookmarks_subtext "शोधताना आपल्या वाचनखूणा आणि इतिहासातुन शोध निष्कर्ष मिळवा.">
 <!ENTITY firstrun_data_title "माहिती">
 <!ENTITY firstrun_data_message "कमी डाटा, अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "प्रत्येक साईट भेटीवर कमी माहिती खर्च करण्यासाठी प्रतिमा अडवा.">
@@ -64,7 +64,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "अगोदरचे वाचनखुण">
+<!ENTITY bookmark_already_added "अगोदरच वाचनखूण लावलेली">
 <!ENTITY bookmark_removed "वाचनखूण काढले">
 <!ENTITY bookmark_updated "वाचनखूण अद्ययावत केले">
 <!ENTITY bookmark_options "पर्याय">
@@ -319,11 +319,11 @@ size. -->
 
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
 <!ENTITY pref_sync2 "साइन इन">
-<!ENTITY pref_sync_summary2 "आपल्या टॅब्स, वाचनखुणा, लॉगइन्स, इतिहास यांचे ताळमेळ साधा">
+<!ENTITY pref_sync_summary2 "आपल्या टॅब्स, वाचनखूणा, लॉगइन्स, इतिहास यांचे ताळमेळ साधा">
 <!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
 <!ENTITY pref_history_search_suggestions "शोध इतिहास दर्शवा">
 <!ENTITY pref_import_options "आयात विकल्प">
-<!ENTITY pref_import_android_summary "मूळ ब्राउज़रमधून वाचनखुणा आणि इतिहास आयात करा">
+<!ENTITY pref_import_android_summary "मूळ ब्राउझरमधून वाचनखूणा आणि इतिहास आयात करा">
 <!ENTITY pref_private_data_history2 "ब्राउझिंग इतिहास">
 <!ENTITY pref_private_data_searchHistory "शोध इतिहास">
 <!ENTITY pref_private_data_formdata2 "इतिहास मधुन">
@@ -479,7 +479,7 @@ size. -->
 
 <!ENTITY page_removed "पान काढले गेले">
 
-<!ENTITY bookmark_edit_title "वाचनखुणेचे संपादन करा">
+<!ENTITY bookmark_edit_title "वाचनखूण संपादीत करा">
 <!ENTITY bookmark_edit_name "नाव">
 <!ENTITY bookmark_edit_location "स्थळ">
 <!ENTITY bookmark_edit_keyword "संकेतशब्द">
@@ -534,7 +534,7 @@ size. -->
 <!ENTITY home_history_title "इतिहास">
 <!ENTITY home_clear_history_button "ब्राऊजिंग इतिहास पुसा">
 <!ENTITY home_clear_history_confirm "आपला इतिहास पुसण्याबद्दल आपली खात्री आहे का?">
-<!ENTITY home_bookmarks_empty "आपण साठवलेले वाचनखूणा येथे दिसतील.">
+<!ENTITY home_bookmarks_empty "आपण साठवलेल्या वाचनखूणा येथे दिसतील.">
 <!ENTITY home_closed_tabs_title "नुकतेच बंद केलेले टॅब">
 <!ENTITY home_last_tabs_title "मागील वेळच्या टॅब">
 <!ENTITY home_last_tabs_empty "आपल्या अलिकडच्या टॅब्स येथे दिसतील.">
@@ -628,7 +628,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "काही खाजगी माहिती पुसली जाऊ शकली नाही">
 
 <!ENTITY bookmarkhistory_button_import "आयात करा">
-<!ENTITY bookmarkhistory_import_both "Androidमधून वाचनखूणा आणि इतिहास 
+<!ENTITY bookmarkhistory_import_both "Android मधून वाचनखूणा आणि इतिहास 
 आयात करत आहे">
 <!ENTITY bookmarkhistory_import_bookmarks "Androidमधून 
 वाचनखूणा आयात करत आहे">
