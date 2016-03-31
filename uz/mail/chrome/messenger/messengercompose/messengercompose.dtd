@@ -14,8 +14,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "X">
-<!ENTITY newContact.label "Manzil kitobi va Kontakt…">
-<!ENTITY newContact.accesskey "K">
+<!ENTITY newContact.label "Manzil kitobidagi kontakt…">
+<!ENTITY newContact.accesskey "k">
 <!ENTITY attachMenu.label "Biriktirish">
 <!ENTITY attachMenu.accesskey "B">
 <!ENTITY attachFileCmd.label "Fayl(lar)…">
