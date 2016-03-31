@@ -50,14 +50,14 @@
 
 <!ENTITY fxaccount_full_label "Firefox खाती">
 
-<!ENTITY fxaccount_custom_server_account_title "सर्वर वर खात्याचा वापर">
-<!ENTITY fxaccount_custom_server_sync_title "सर्वरवर ताळमेळ माहिती संग्रहित करीत आहोत">
+<!ENTITY fxaccount_custom_server_account_title "सर्व्हर वर खात्याचा वापर">
+<!ENTITY fxaccount_custom_server_sync_title "सर्व्हर वर ताळमेळ माहिती संग्रहित करीत आहोत">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
 
 <!ENTITY fxaccount_email_hint "इमेल">
-
+<!ENTITY fxaccount_password_hint "पासवर्ड">
 <!ENTITY fxaccount_password_hide "लपवा">
 <!ENTITY fxaccount_password_show "दाखवा">
 <!-- Localization note: these are shown in screens after the user has
@@ -132,7 +132,7 @@
 <!ENTITY fxaccount_status_header2 "Firefox खातं">
 <!ENTITY fxaccount_status_signed_in_as "असे प्रवेश केले">
 <!ENTITY fxaccount_status_manage_account "खाते व्यवस्थापीत करा">
-<!ENTITY fxaccount_status_auth_server "खाते सर्वर">
+<!ENTITY fxaccount_status_auth_server "खाते सर्व्हर">
 <!ENTITY fxaccount_status_sync_now "लगेच ताळमेळ करा">
 <!ENTITY fxaccount_status_syncing2 "ताळमेळ करीत आहोत…">
 <!ENTITY fxaccount_status_device_name "उपकरणाचे नाव">
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. Android सेटिंगमध्ये “माहितीचे आपोआप ताळमेळ” &gt; माहिती वापर टॉगल करा.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; सेट अप झाले, पण आपोआप ताळमेळ होत नाहीये. Android Settings &gt; Accounts मध्ये “Auto-sync data” चालू करा.">
 <!ENTITY fxaccount_status_needs_finish_migrating "आपल्या नवीन Firefox खात्यात साइन इन करण्यासाठी टॅप करा.">
-
+<!ENTITY fxaccount_status_bookmarks "वाचनखूणा">
 <!ENTITY fxaccount_status_history "इतिहास">
 <!ENTITY fxaccount_status_passwords2 "लॉगइन्स">
 <!ENTITY fxaccount_status_tabs "टॅब्स उघडा">
@@ -189,8 +189,8 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "अवैध इमेल किंवा पासवर्ड">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "अवैध इमेल किंवा पासवर्ड">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "खातं प्रमाणित नाही">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "सर्वर व्यस्त, लवकरच पुन:प्रयत्न करा">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "सर्वर व्यस्त, लवकरच पुन:प्रयत्न करा">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "सर्व्हर व्यस्त, लवकरच पुन:प्रयत्न करा">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "सर्व्हर व्यस्त, लवकरच पुन:प्रयत्न करा">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "एक अडचण होती">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "नेटवर्कशी जोडू शकत नाही">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "खाते लाॅक आहे. &formatS1;">

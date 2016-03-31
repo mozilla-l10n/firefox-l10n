@@ -17,12 +17,12 @@
 <!ENTITY firstrun_bookmarks_subtext "शोधताना आपल्या वाचनखुणा आणि इतिहासातुन शोध निष्कर्ष मिळवा.">
 <!ENTITY firstrun_data_title "माहिती">
 <!ENTITY firstrun_data_message "कमी डाटा, अधिक बचत">
-
+<!ENTITY firstrun_data_subtext2 "प्रत्येक साईट भेटीवर कमी माहिती खर्च करण्यासाठी प्रतिमा अडवा.">
 <!ENTITY firstrun_sync_title "ताळमेळ">
 <!ENTITY firstrun_sync_message "&brandShortName;, सदा आपल्याकडून">
 
-
-
+<!ENTITY firstrun_signin_message "जोडणी करा, प्रारंभ करा">
+<!ENTITY firstrun_signin_button "सींक करण्यासाठी साइन इन करा">
 <!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
 <!ENTITY firstrun_button_next "पुढे">
 
@@ -107,11 +107,13 @@
 
 <!ENTITY settings "सेटिंग">
 <!ENTITY settings_title "सेटिंग">
-
-
+<!ENTITY pref_category_general "सर्वसाधारण">
+<!ENTITY pref_category_general_summary2 "मुख्यपृष्ठ , भाषा,‌ URL पट्टी">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "भाषा">
 <!ENTITY pref_category_language_summary "आपली ब्राउझर भाषा बदला">
 <!ENTITY pref_browser_locale "ब्राउझर भाषा">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -148,10 +150,10 @@
 
 <!ENTITY pref_category_search3 "शोध">
 <!ENTITY pref_category_search_summary "शोध पुरविणारे स्वपसंत करा">
-
-
+<!ENTITY pref_category_accessibility "ॲक्सेसीबिलीटी">
+<!ENTITY pref_category_accessibility_summary2 "मजकूर आकार, झूम, आवाज इनपुट">
 <!ENTITY pref_category_privacy_short "गुप्तता">
-
+<!ENTITY pref_category_privacy_summary3 "ट्रॅकिंग, कुकीज, डाटा पर्याय.">
 
 
 <!ENTITY pref_category_datareporting "माहिती पर्याय">
@@ -320,7 +322,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "ऑफलाइन संकेतस्थळ माहिती">
 <!ENTITY pref_private_data_siteSettings2 "साइट सेटिंग">
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोडस्">
-<!ENTITY pref_private_data_syncedTabs "ताळमेळ झालेले टॅब्स">
+<!ENTITY pref_private_data_syncedTabs "ताळमेळीत झालेले टॅब्स">
 
 
 <!ENTITY pref_about_firefox "&brandShortName;बद्दल">
