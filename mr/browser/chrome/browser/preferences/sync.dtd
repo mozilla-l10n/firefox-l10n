@@ -75,7 +75,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.label        "खाते व्यवस्थापीत करा">
 <!ENTITY disconnect.label            "खंडीत…">
 <!ENTITY verify.label                "ईमेलची तपासणी करा">
-<!ENTITY forget.label                "हे ईमेल विसरून जा">
+<!ENTITY forget.label                "हा ईमेल विसरून जा">
 
 <!ENTITY welcome.description "टॅब्ज, वाचनखुणा, पासवर्ड्ज आणि &brandShortName; चा वापर जेथे कुठेही होत असल्यास प्रवेश करा.">
 <!ENTITY welcome.signIn.label "साइन इन">
