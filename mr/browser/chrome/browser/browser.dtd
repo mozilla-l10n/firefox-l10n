@@ -75,13 +75,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "मेन्यू पट्टी">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "संचारन साधनपट्टी">
-<!ENTITY personalbarCmd.label "वाचनखुणा साधनपट्टी">
+<!ENTITY personalbarCmd.label "वाचनखूणा साधनपट्टी">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "साधनपट्टीतील घटकांना ओळखचिन्ह लावा">
+<!ENTITY bookmarksToolbarItem.label "साधनपट्टीतील घटकांना वाचनखूण लावा">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "सर्व टॅब्ज पुन्हा लोड करा">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "सर्व टॅब्स्ना वाचनखूण लावा…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "सर्व टॅब्सला वाचनखूण लावा…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "टॅब बंद करणे पूर्ववत् करा">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -144,7 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "वाचनखुणा">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "या पानास वाचनखूण लावा">
-<!ENTITY editThisBookmarkCmd.label "हे ओळखचिन्ह संपादीत करा">
+<!ENTITY editThisBookmarkCmd.label "ही वाचनखूण संपादीत करा">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
@@ -166,10 +166,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "ह्या पानाचे सभासद व्हा">
 <!ENTITY subscribeToPageMenupopup.label "ह्या पानाचे सभासद व्हा">
 <!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या...">
-<!ENTITY addCurPagesCmd.label "सर्व टॅब्सला ओळखचिन्ह लावा...">
-<!ENTITY showAllBookmarks2.label "सर्व वाचणखुणा दाखवा">
-<!ENTITY unsortedBookmarksCmd.label "विनाक्रम वाचनखुणा">
-<!ENTITY bookmarksToolbarChevron.tooltip "आणखी ओळचिन्ह दर्शवा">
+<!ENTITY addCurPagesCmd.label "सर्व टॅब्सला वाचनखूण लावा...">
+<!ENTITY showAllBookmarks2.label "सर्व वाचणखूणा दाखवा">
+<!ENTITY unsortedBookmarksCmd.label "विनाक्रम वाचनखूणा">
+<!ENTITY bookmarksToolbarChevron.tooltip "आणखी वाचनखूणा दर्शवा">
 
 <!ENTITY backCmd.label                "मागे">
 <!ENTITY backButton.tooltip           "ऐक पाऩ मागे जा">
@@ -220,13 +220,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "घर, आरंभस्थळ">
 
-<!ENTITY bookmarksButton.label          "वाचनखुणा">
+<!ENTITY bookmarksButton.label          "वाचनखूणा">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "ओळखचिन्हे">
-<!ENTITY bookmarksMenuButton.unsorted.label "विनाक्रम ओळखचिन्हे">
-<!ENTITY viewBookmarksSidebar2.label        "ओळखचिन्हे साधनपट्टी दृष्य">
-<!ENTITY viewBookmarksToolbar.label         "ओळखचिन्हे साधनपट्टी दृष्य">
+<!ENTITY bookmarksMenuButton.label          "वाचनखूणा">
+<!ENTITY bookmarksMenuButton.unsorted.label "विनाक्रम वाचनखूणा">
+<!ENTITY viewBookmarksSidebar2.label        "वाचनखूणा साधनपट्टी दृष्य">
+<!ENTITY viewBookmarksToolbar.label         "वाचनखूणा साधनपट्टी दृष्य">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -565,7 +565,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "डेस्कटॉप पार्श्वभूमी म्हणून सेट करा…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "या पृष्ठाला वाचखुण लावा">
+<!ENTITY bookmarkPageCmd2.label       "या पृष्ठाला वाचणखूण लावा">
 <!ENTITY bookmarkThisLinkCmd.label      "ह्या दुव्याला वाचनखूण लावा">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "या चौकटाला वाचनखूण लावा">
@@ -808,7 +808,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openTab.label                   "ही टॅब उघडा">
 <!ENTITY syncedTabs.context.openTab.accesskey               "उ">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label         "या पानास वाचनखूण लावा…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "व">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
 
 
 <!ENTITY syncBrand.shortName.label    "ताळमेळ">

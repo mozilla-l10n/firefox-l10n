@@ -10,16 +10,16 @@
 # live.
 
 
-#define bookmarks_title ओळखचिन्हे
+#define bookmarks_title वाचनखूणा
 
 
-#define bookmarks_heading ओळखचिन्हे
+#define bookmarks_heading वाचनखूणा
 
 
-#define bookmarks_toolbarfolder ओळखचिन्हे साधनपट्टी फोल्डर
+#define bookmarks_toolbarfolder वाचनखूणा साधनपट्टी फोल्डर
 
 
-#define bookmarks_toolbarfolder_description ओळखचिन्हे साधनपट्टीवर दाखवण्यासाठी या फोल्डरवर ओळखचिन्हे समाविष्ट करा
+#define bookmarks_toolbarfolder_description वाचनखूणा साधनपट्टीवर दाखवण्यासाठी या फोल्डरवर वाचनखूणा समाविष्ट करा
 
 
 # LOCALIZATION NOTE (getting_started):
