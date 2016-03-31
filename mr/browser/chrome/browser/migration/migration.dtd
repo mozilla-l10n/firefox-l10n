@@ -38,9 +38,9 @@
 <!ENTITY migrating.label                "खालील घटक सध्या आयात केले जात आहेत…">
 
 <!ENTITY selectProfile.title            "निवडसंच निवडा">
-<!ENTITY selectProfile.label            "वाचण्यासाठी खालील निवडसंच उपलब्ध आहेत:">
+<!ENTITY selectProfile.label            "आयात करण्यासाठी पुढील निवडसंच उपलब्ध आहेत:">
 
-<!ENTITY done.title                     "आगतप्रक्रिया पुर्ण झाली">
-<!ENTITY done.label                     "खालील घटक यशस्वीरित्या वाचले गेले:">
+<!ENTITY done.title                     "आयात करणे पुर्ण झाले">
+<!ENTITY done.label                     "खालील घटक यशस्वीरित्या आयात केले गेले:">
 
 <!ENTITY closeSourceBrowser.label       "कृपया पुढे जायच्या पहिले निवडलेला ब्राउझर बंद आहे याची खात्री करा.">

@@ -410,7 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "मदत मेन्यु उघडा">
 
 <!ENTITY appMenuRemoteTabs.label "ताळमेळीत टॅब्स">
-<!ENTITY appMenuRemoteTabs.fetching.label "ताळमेळ झालेले टॅब्स मिळवत आहे…">
+<!ENTITY appMenuRemoteTabs.fetching.label "ताळमेळीत झालेले टॅब्स मिळवत आहे…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "कोणतेही टॅब्स उघडे नाहीत">

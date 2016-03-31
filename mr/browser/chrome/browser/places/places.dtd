@@ -94,7 +94,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "इम्पोर्ट व बॅकअप">
+<!ENTITY maintenance.label      "आयात व बॅकअप करा">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "ओळखचिन्हे आयात करा व बॅकअप करा">
 
