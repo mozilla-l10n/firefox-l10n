@@ -6,8 +6,8 @@
 
 <!ENTITY startupPage.label         "&brandShortName; सुरू होते तेंव्हा:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "माझे मुख्य पान दाखवा">
-<!ENTITY startupBlankPage.label    "रिक्त पान दाखवा">
+<!ENTITY startupHomePage.label     "माझे मुख्य पृष्ठ दाखवा">
+<!ENTITY startupBlankPage.label    "रिक्त पृष्ठ दाखवा">
 <!ENTITY startupLastSession.label  "शेवटच्या वेळ पासून माझ्या चौकटी आणि टॅब दाखवा">
 
 <!ENTITY homepage.label            "मुख्य पृष्ठ:">

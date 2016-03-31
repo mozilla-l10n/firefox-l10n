@@ -143,7 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "वाचनखुणा">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "या पानास वाचनखूण लावा">
+<!ENTITY bookmarkThisPageCmd.label "या पृष्ठास वाचनखूण लावा">
 <!ENTITY editThisBookmarkCmd.label "ही वाचनखूण संपादीत करा">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -163,28 +163,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "श">
 <!ENTITY shareVideo.label "हा व्हिडीओ शेअर करा">
 <!ENTITY shareVideo.accesskey "श">
-<!ENTITY feedsMenu2.label "ह्या पानाचे सभासद व्हा">
-<!ENTITY subscribeToPageMenupopup.label "ह्या पानाचे सभासद व्हा">
-<!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या...">
+<!ENTITY feedsMenu2.label "ह्या पृष्ठाचे सभासद व्हा">
+<!ENTITY subscribeToPageMenupopup.label "ह्या पृष्ठाचे सभासद व्हा">
+<!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पृष्ठास भेट द्या...">
 <!ENTITY addCurPagesCmd.label "सर्व टॅब्सला वाचनखूण लावा...">
 <!ENTITY showAllBookmarks2.label "सर्व वाचणखूणा दाखवा">
 <!ENTITY unsortedBookmarksCmd.label "विनाक्रम वाचनखूणा">
 <!ENTITY bookmarksToolbarChevron.tooltip "आणखी वाचनखूणा दर्शवा">
 
 <!ENTITY backCmd.label                "मागे">
-<!ENTITY backButton.tooltip           "ऐक पाऩ मागे जा">
+<!ENTITY backButton.tooltip           "ऐक पृष्ठ मागे जा">
 <!ENTITY forwardCmd.label             "पुढे">
-<!ENTITY forwardButton.tooltip        "ऐक पान पुढे जा">
+<!ENTITY forwardButton.tooltip        "ऐक पृष्ठ पुढे जा">
 <!ENTITY backForwardButtonMenu.tooltip "इतिहास दाखवण्यासाठी उजवी-क्लिक द्या किंवा खाली ओढा">
 <!ENTITY backForwardButtonMenuMac.tooltip "इतिहास दाखवण्याकरिता खाली ओढा">
 <!ENTITY reloadCmd.label              "पुन्हा लोड करा">
-<!ENTITY reloadButton.tooltip         "चालू पान परत दाखल करा">
+<!ENTITY reloadButton.tooltip         "चालू पृष्ठ परत दाखल करा">
 <!ENTITY stopCmd.label                "थांबा">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "हे पान दाखल करणे थांबवा">
+<!ENTITY stopButton.tooltip           "हे पृष्ठ दाखल करणे थांबवा">
 <!ENTITY goEndCap.tooltip             "स्थान पट्टीतील पत्त्यावर जा">
 <!ENTITY printButton.label            "छापा">
-<!ENTITY printButton.tooltip          "हे पान छापा">
+<!ENTITY printButton.tooltip          "हे पृष्ठ छापा">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "संकेतस्थळाची माहिती पहा">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
@@ -734,7 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "या पानात शोधा…">
+<!ENTITY findOnCmd.label     "या पृष्ठात शोधा…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "पुन्हा शोधा">
@@ -753,24 +753,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "जोडणी असुरक्षित आहे">
 <!ENTITY identity.connectionFile "हे पृष्ठ आपल्या संगणकावर संचयीत केले गेले आहे.">
 <!ENTITY identity.connectionVerified1 ":द्वारे चालवण्यात येणाऱ्या साईटला आपण सुरक्षितपणे जुळलेले आहात">
-<!ENTITY identity.connectionInternal "हे सुरक्षित &brandShortName; पान आहे.">
-<!ENTITY identity.insecureLoginForms2 "आपण ह्या पानावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.">
+<!ENTITY identity.connectionInternal "हे सुरक्षित &brandShortName; पृष्ठ आहे.">
+<!ENTITY identity.insecureLoginForms2 "आपण ह्या पृष्ठावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.">
 <!-- Strings for connection state warnings. -->
 
-<!ENTITY identity.activeBlocked "&brandShortName; ने ह्या पानावरील काही असुरक्षित भाग अडवले आहेत.">
+<!ENTITY identity.activeBlocked "&brandShortName; ने ह्या पृष्ठावरील काही असुरक्षित भाग अडवले आहेत.">
 <!ENTITY identity.passiveLoaded "या पृष्ठावरील काही भाग (उदा. प्रतिमा) सुरक्षित नाहीत.">
-<!ENTITY identity.activeLoaded "आपण ह्या पानावरील सुरक्षा बंद केली आहे.">
-<!ENTITY identity.weakEncryption "हे पान कमकुवत एनक्रिप्शन वापरते.">
+<!ENTITY identity.activeLoaded "आपण ह्या पृष्ठावरील सुरक्षा बंद केली आहे.">
+<!ENTITY identity.weakEncryption "हे पृष्ठ कमकुवत एनक्रिप्शन वापरते.">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात (जसे कि पासवर्ड, संदेश, क्रेडीट कार्ड इत्यादी) ते इतर लोक पाहू शकतात.">
-<!ENTITY identity.description.insecureLoginForms "ह्या पानावर आपण दिलेली लॉग इन माहिती सुरक्षित नसून त्याबरोबर तडजोड होऊ शकते.">
+<!ENTITY identity.description.insecureLoginForms "ह्या पृष्ठावर आपण दिलेली लॉग इन माहिती सुरक्षित नसून त्याबरोबर तडजोड होऊ शकते.">
 <!ENTITY identity.description.weakCipher "ह्या वेबसाइट बरोबरची आपली जोडणी कमकुवत एनक्रिप्शन वापरत असून ती खाजगी नाही.">
 <!ENTITY identity.description.weakCipher2 "इतर लोक आपली माहिती पाहू शकतात किंवा वेबसाईटचे वर्तन बदलू शकतात. ">
-<!ENTITY identity.description.activeBlocked "&brandShortName; ने ह्या पानावरील काही असुरक्षित भाग अडवले आहेत.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; ने ह्या पृष्ठावरील काही असुरक्षित भाग अडवले आहेत.">
 <!ENTITY identity.description.passiveLoaded "ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात ते इतर लोक पाहू शकतात.">
 <!ENTITY identity.description.passiveLoaded2 "या वेबसाईटवरील काही भाग (उदा. प्रतिमा) सुरक्षित नाही.">
-<!ENTITY identity.description.passiveLoaded3 "&brandShortName;ने काही भाग अडवले असले, तरी ह्या पानावर काही असुरक्षित आशय आहेत (उदा. प्रतिमा).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName;ने काही भाग अडवले असले, तरी ह्या पृष्ठावर काही असुरक्षित आशय आहेत (उदा. प्रतिमा).">
 <!ENTITY identity.description.activeLoaded "या वेबसाईटवरील काही भाग (उदा. स्क्रिप्ट्स) सुरक्षित नाही आणि आपली जोडणी खाजगी नाही आहे.">
 <!ENTITY identity.description.activeLoaded2 "आपण जी माहिती जमा करता आहात (जसे कि पासवर्ड, संदेश, क्रेडीट कार्ड माहिती, इत्यादी) ते इतर लोक पाहू शकतात.">
 
@@ -807,7 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openTab.label                   "ही टॅब उघडा">
 <!ENTITY syncedTabs.context.openTab.accesskey               "उ">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "या पानास वाचनखूण लावा…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "या पृष्ठास वाचनखूण लावा…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
 
 
@@ -879,7 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "मागोवा संरक्षण">
 <!ENTITY trackingProtection.detectedBlocked3 "जे आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकतात त्यांना &brandShortName; प्रतीरोधीत करीत आहे.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकणारे घटक या पानामधे आहेत.आपण ह्या पानावरील सुरक्षा बंद केली आहे.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकणारे घटक या पृष्ठामध्ये आहेत.आपण ह्या पृष्ठावरील सुरक्षा बंद केली आहे.">
 <!ENTITY trackingProtection.notDetected3 "मागोवा घेणारे घटक ह्या पृष्ठावर आढळले नाही.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -895,7 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "ट्रॅकिंग">
-<!ENTITY trackingContentBlocked.moreinfo "आपल्या आॅनलाइन कार्याचा मागोवा घेणारे पानाचे काही भाग अडवले गेले आहेत.">
+<!ENTITY trackingContentBlocked.moreinfo "आपल्या आॅनलाइन कार्याचा मागोवा घेणारे पृष्ठाचे काही भाग अडवले गेले आहेत.">
 <!ENTITY trackingContentBlocked.learnMore "आणखी शिका">
 <!ENTITY trackingContentBlocked.options "पर्याय">
 <!ENTITY trackingContentBlocked.unblock2.label "ह्या वेबसाईट साठी सुरक्षा निष्क्रिय करा">

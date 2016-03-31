@@ -7,7 +7,7 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "हे खूप गोंधळास्पद आहे.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; ला खिडकी व टॅब पुन्ह प्राप्त करतेवेळी अडचण निर्माण झाले. हे सहसा अलिकडील वेब पान उघडल्यामुळे घडले.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; ला विंडो व टॅब पुन्ह प्राप्त करतेवेळी अडचण निर्माण झाले. हे सहसा अलिकडील वेब पृष्ठ उघडल्यामुळे घडले.">
 <!ENTITY restorepage.tryThis        "आपण प्रयत्न करून पहा:">
 <!ENTITY restorepage.restoreSome    "अडचणीस कारणीभूत ठरणारे एक किंवा त्यापेक्षा जास्त टॅब काढूण पहा">
 <!ENTITY restorepage.startNew       "संपूर्णतया नवीन ब्राऊजींग सत्र सुरू करत आहे">
