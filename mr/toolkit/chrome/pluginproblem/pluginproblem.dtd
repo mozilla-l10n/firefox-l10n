@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "पान परत लोड करा">
+<!ENTITY reloadPlugin.middle                                 "पृष्ठ परत लोड करा">
 <!ENTITY reloadPlugin.post                                   " पुन्हा प्रयत्न करण्यासाठी.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "क्रॅश अहवाल पाठवा">
@@ -35,7 +35,7 @@
 <!ENTITY report.failed                                       "सादर करण्यात अपयश आले.">
 <!ENTITY report.unavailable                                  "अहवाल उपलब्ध नाही.">
 <!ENTITY report.comment                                      "टिपण्णी समाविष्ट करा (टिपण्णी सार्वजनिकरित्या दृष्यास्पद आहे)">
-<!ENTITY report.pageURL                                      "पानाचे URL समाविष्ट करा">
+<!ENTITY report.pageURL                                      "पृष्ठाचे URL समाविष्ट करा">
 
 <!ENTITY plugin.file                                         "फाइल">
 <!ENTITY plugin.mimeTypes                                    "MIME चे प्रकार">
