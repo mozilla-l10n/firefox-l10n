@@ -122,7 +122,7 @@
 <!ENTITY pref_category_advanced_summary2 "Przywracanie kart, wtyczki, narzędzia dla programistów">
 <!ENTITY pref_category_notifications "Powiadomienia">
 <!ENTITY pref_content_notifications "Powiadomienia ze stron">
-<!ENTITY pref_content_notifications_summary "Umożliwia obsługiwanym stronom wyświetlanie powiadomień">
+<!ENTITY pref_content_notifications_summary2 "Umożliwia obsługiwanym stronom wyświetlanie powiadomień">
 <!ENTITY pref_developer_remotedebugging_usb "Zdalne debugowanie przez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Zdalne debugowanie przez Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugowanie przez Wi-Fi wymaga zainstalowania czytnika kodów QR na urządzeniu.">
@@ -172,6 +172,9 @@
 <!ENTITY pref_tracking_protection_enabled "Włączona">
 <!ENTITY pref_tracking_protection_enabled_pb "Włączona w trybie prywatnym">
 <!ENTITY pref_tracking_protection_disabled "Wyłączona">
+
+<!ENTITY pref_whats_new_notification "Nowości w przeglądarce &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Powiadamianie o nowych funkcjach po aktualizacji">
 
 <!ENTITY tracking_protection_prompt_title "Nowa ochrona przed śledzeniem">
 <!ENTITY tracking_protection_prompt_text "Aktywne blokowanie elementów śledzących aktywność użytkownika.">
