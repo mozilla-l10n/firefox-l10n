@@ -5,7 +5,7 @@
 <!ENTITY addAccountDialog.menuTitle "Diuzañ ur gwazerezh kadaviñ enlinenn">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Anv ar gont :">
-<!ENTITY addAccountDialog.noAccountText "Diskonfort met an handelv vremanel eus &brandShortName; a ro tro arverañ ur gont nemetken evit pep gwazerezh kadaviñ enlinenn">
+<!ENTITY addAccountDialog.noAccountText "Digarezit met an handelv vremanel eus &brandShortName; a ro tro arverañ ur gont nemetken evit pep gwazerezh kadaviñ enlinenn">
 <!ENTITY addAccountDialog.createAccountText2 "Gallout a rit kas kenstagadurioù bras en ur arverañ unan eus ar gwazerezhioù kadaviñ enlinenn niverus. Mar plij, keflugnit ur gont a zo pe grouit ur gont nevez.">
 <!ENTITY addAccountDialog.authorizing "O wiriañ an aotre…">
 <!ENTITY addAccountDialog.error "Degouezhet ez eus bet ur fazi en ur gefluniañ ar gont !">
