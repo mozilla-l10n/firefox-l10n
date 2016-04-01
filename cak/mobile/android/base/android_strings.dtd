@@ -160,7 +160,7 @@
 <!ENTITY pref_learn_more "Tetamäx ch\u0027aqa\u0027 chik">
 <!ENTITY pref_category_installed_search_engines "Kanonela\u0027 eyakon chupam">
 <!ENTITY pref_category_add_search_providers "Ketz\u0027aqatisäx ch\u0027aqa\u0027 chik taq ya\u0027öl kanoxïk">
-<!ENTITY pref_category_search_restore_defaults "Rutzolixik kiwäch ri kanonela\u0027 eyakon chupam">
+<!ENTITY pref_category_search_restore_defaults "Ketzolïx kiwäch ri xamajel taq kanonela\u0027">
 <!ENTITY pref_search_restore_defaults "Rutzolixik kiwäch retal e k\u0027o wi">
 <!ENTITY pref_search_restore_defaults_summary "Titzolïxkiwäch ri taq retal e k\u0027o wi">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
