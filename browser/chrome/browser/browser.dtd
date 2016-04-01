@@ -854,7 +854,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Kaikki näkyvissä olevat ikkunat jaetaan.">
 
 <!ENTITY trackingProtection.title "Seurannan suojaus">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; estää osia sivusta, jotka saattavat seurata selaamistasi.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; estää sivusta osia, jotka saattavat seurata selaamistasi.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Sivusto sisältää osia, jotka saattavat seurata sinua. Seurannan suojaus on pois päältä.">
 <!ENTITY trackingProtection.notDetected3 "Sivulta ei löytynyt seuraavia osia.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
