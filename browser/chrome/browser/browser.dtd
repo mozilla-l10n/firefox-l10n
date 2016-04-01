@@ -531,6 +531,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey   "v">
 <!ENTITY openFrameCmd.label            "Avaa kehys uuteen ikkunaan">
 <!ENTITY openFrameCmd.accesskey        "A">
+<!ENTITY openLinkCmdInContainerTab.label "Avaa uuteen luokiteltuun välilehteen">
+<!ENTITY openLinkCmdInContainerTab.accesskey "u">
 <!ENTITY showOnlyThisFrameCmd.label      "Näytä vain tämä kehys">
 <!ENTITY showOnlyThisFrameCmd.accesskey  "N">
 <!ENTITY reloadCmd.commandkey          "r">
@@ -777,6 +779,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "P">
 <!ENTITY identity.learnMore "Lue lisää">
 
+<!ENTITY identity.removeCertException.label "Poista poikkeus">
+<!ENTITY identity.removeCertException.accesskey "s">
+
 <!ENTITY identity.moreInfoLinkText2 "Lisätietoja">
 
 <!ENTITY identity.permissions "Oikeudet">
@@ -946,7 +951,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Lue lisää DRM-suojauksesta…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Ei nyt">
-<!ENTITY emeNotificationsNotNow.accesskey         "E">
-<!ENTITY emeNotificationsDontAskAgain.label       "Älä kysy uudestaan">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "Ä">
