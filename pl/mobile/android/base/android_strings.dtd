@@ -394,6 +394,7 @@
 
 <!ENTITY home_title "&brandShortName;: Strona domowa">
 <!ENTITY home_history_title "Historia">
+<!ENTITY home_history_back_to "Wróć do całej historii">
 <!ENTITY home_clear_history_button "Wyczyść historię przeglądania">
 <!ENTITY home_clear_history_confirm "Czy na pewno wyczyścić historię przeglądania?">
 <!ENTITY home_bookmarks_empty "Tutaj pojawiają się zachowane zakładki.">
