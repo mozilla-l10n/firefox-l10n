@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Poveži se z &syncBrand.shortName.label;m'>
-<!ENTITY sync.title.adddevice.label 'Dodaj račun za &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'Dodaj napravo'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Za vklop vaše nove naprave na njej izberite “Nastavi &syncBrand.shortName.label;”.'>
-<!ENTITY sync.subtitle.header2.label 'Vnesite ta ključ na drugi napravi'>
-<!ENTITY sync.subtitle.connectlocation2.label 'V nastavitvah Firefoxa na drugi napravi poiščite &syncBrand.shortName.label; in izberite “&sync.title.pair.label;”.'>
 <!ENTITY sync.subtitle.pair.label 'Za vklop izberite “Dodaj napravo” na vaši drugi napravi.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Pokaži mi kako.'>
-<!ENTITY sync.link.advancedsetup.label 'Napredna nastavitev …'>
 <!ENTITY sync.link.nodevice.label 'Naprave nimam pri sebi …'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Čakanje na drugo napravo …'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Vnesite podatke računa za &syncBrand.fullName.label; '>
-<!ENTITY sync.input.username.label 'Ime računa'>
-<!ENTITY sync.input.password.label 'Geslo'>
-<!ENTITY sync.input.key.label 'Obnovitveni ključ'>
-<!ENTITY sync.checkbox.server.label 'Uporabi zasebni strežnik'>
-<!ENTITY sync.input.server.label 'URL strežnika'>
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label '&syncBrand.shortName.label;: nastavitev ni uspela'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; ne uspe vzpostaviti povezave s strežnikom. Želite poskusiti znova?'>
-<!ENTITY sync.button.tryagain.label 'Poskusi znova'>
-<!ENTITY sync.button.manual.label 'Ročna nastavitev'>
-<!ENTITY sync.subtitle.nointernet.label 'Povezava z internetom ni na voljo.'>
-<!ENTITY sync.subtitle.failaccount.label 'Ustvarjanje računa na napravi je spodletelo.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Ali imate nameščen več kot en Firefox? &syncBrand.fullName.label; trenutno podpira samo eno sočasno namestitev Firefoxa. Za uporabo &syncBrand.shortName.label; odstranite ostale namestitve.'>
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Nastavitev končana'>
-<!ENTITY sync.subtitle.success.label1 'Podatki se prenašajo v ozadju. Za upravljanje računa lahko uporabite nastavitve ali začnete brskati s &brandShortName;om.'>
-<!ENTITY sync.settings.label 'Nastavitve'>
-<!ENTITY sync.subtitle.manage.label1 'Vaš račun za &syncBrand.fullName.label; je že nastavljen. Za upravljanje računa lahko uporabite nastavitve ali zaženete &brandShortName;.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Poskusite znova.'>
-<!ENTITY sync.pair.connectlocation.label 'Za vklop vaše nove naprave na njej izberite “Nastavi &syncBrand.shortName.label;” in potem “Imam račun”.'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Možnosti'>
-<!ENTITY sync.summary.pair.label 'Povežite drugo napravo z vašim računom za &syncBrand.shortName.label;'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Kaj naj se sinhronizira'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Sinhroniziraj moje …'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Zaznamke'>
 <!ENTITY sync.configure.engines.title.passwords2 'Prijave'>
 <!ENTITY sync.configure.engines.title.history 'Zgodovino'>
 <!ENTITY sync.configure.engines.title.tabs 'Zavihke'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Prekliči'>
-<!ENTITY sync.button.connect.label 'Poveži'>
-<!ENTITY sync.button.ok.label 'V redu'>
-
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label;'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -93,20 +40,7 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Pripeto'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Samo en račun za &syncBrand.fullName.label; je podprt.'>
-<!ENTITY sync.notification.configure.saved 'Izbira je bila shranjena.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Napačno ime računa ali geslo.'>
-<!ENTITY sync.invalidserver.label 'Vnesite veljaven URL strežnika'>
-<!ENTITY sync.verifying.label 'Preverjanje …'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Napačen obnovitveni ključ. Poskusite znova.'>
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Pošlji zavihek na naprave'>
-<!ENTITY sync.button.send.label 'Pošlji'>
-<!ENTITY sync.button.set.up.sync.label 'Nastavi &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Nastavi &syncBrand.shortName.label; za pošiljanje zavihkov'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Nastavi &syncBrand.fullName.label; na svoji napravi za pošiljanje zavihkov na druge naprave.'>
 <!ENTITY sync.text.tab.sent.label 'Zavihek je bil poslan!'>
@@ -208,7 +142,7 @@
 <!ENTITY fxaccount_status_needs_verification2 'Vaš račun mora biti potrjen. Tapnite za ponovno pošiljanje potrditvene e-pošte.'>
 <!ENTITY fxaccount_status_needs_credentials 'Povezava ni mogoča. Tapnite za prijavo.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Za prijavo morate nadgraditi &brandShortName;.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Vključite “Samodejno sinhroniziraj podatke” v Androidovem menu Nastavitve &gt; Uporaba podatkov.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Vključite “Samodejno sinhroniziraj podatke” v Androidovem meniju Nastavitve &gt; Uporaba podatkov.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Vključite “Samodejno sinhroniziraj podatke” v Androidovem menu Nastavitve &gt; Računi.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tapnite za prijavo v vaš nov Firefox Račun.'>
 <!ENTITY fxaccount_status_bookmarks 'Zaznamki'>
