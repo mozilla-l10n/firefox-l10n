@@ -115,7 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "Ch'utinarisaxïk">
-<!ENTITY fullScreenRestore.tooltip "Rutzolixik">
+<!ENTITY fullScreenRestore.tooltip "Titzolïx">
 <!ENTITY fullScreenClose.tooltip "Titz'apïx">
 <!ENTITY fullScreenAutohide.label "rewaxik ri cholsamajib'äl">
 <!ENTITY fullScreenAutohide.accesskey "r">
@@ -172,7 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Kek'ut pe ch'aqa' chik taq etal">
 
 <!ENTITY backCmd.label                "Chi ruwäch">
-<!ENTITY backButton.tooltip           "Rutzolixik jun ruxaq">
+<!ENTITY backButton.tooltip           "Tib'e pa jun kan ruxaq">
 <!ENTITY forwardCmd.label             "Jun chik">
 <!ENTITY forwardButton.tooltip        "Jun chik ruxaq">
 <!ENTITY backForwardButtonMenu.tooltip "Tapitz'a' ruka'n ruwi' ri ch'oy, taqirirej pa xulan richin natz'ët ri natab'äl">

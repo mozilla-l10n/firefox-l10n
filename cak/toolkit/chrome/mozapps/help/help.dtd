@@ -10,7 +10,7 @@
 
 <!ENTITY backButton.label               "Chi rij">
 <!ENTITY backButton.accesskey           "C">
-<!ENTITY backButton.tooltip             "Rutzolixik jun ruxaq">
+<!ENTITY backButton.tooltip             "Titzolïx jun ruxaq">
 <!ENTITY forwardButton.label            "Jun chik">
 <!ENTITY forwardButton.accesskey        "J">
 <!ENTITY forwardButton.tooltip          "Jun chik ruxaq">
