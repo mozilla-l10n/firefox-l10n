@@ -41,7 +41,7 @@
 <!ENTITY  crash_message2 "Ur gudenn ez eus bet gant &brandShortName; ha sac\u0027het eo. Hoc\u0027h ivinelloù a zlefe bezañ diskouezet war bajennad loc\u0027hañ  &brandShortName; pa loc\u0027hot ar meziant en-dro.">
 <!ENTITY  crash_send_report_message3 "Kemennit ar sac\u0027hadenn da &vendorShortName; a-benn ma vo ratreet.">
 <!ENTITY  crash_include_url2 "Ouzhpennañ chomlec\u0027h al lec\u0027hienn edon o weladenniñ.">
-<!ENTITY  crash_sorry "Diskonfort omp">
+<!ENTITY  crash_sorry "Digarezit ac\u0027hanomp">
 <!ENTITY  crash_comment "Ouzhpennañ un askelenn (gwelus d\u0027an holl eo an askelennoù)">
 <!ENTITY  crash_allow_contact2 "Reiñ an aotre da &vendorShortName; mont e darempred ganin diwar-benn an danevell-mañ.">
 <!ENTITY  crash_email "Ho postel">
