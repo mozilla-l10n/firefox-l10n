@@ -22,7 +22,7 @@
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Etykiety">
 <!ENTITY bookmarks.folder.toolbar.label "Pasek zakładek">
-<!ENTITY bookmarks.folder.unfiled.label "Zakładki nieposortowane">
+<!ENTITY bookmarks.folder.other.label "Pozostałe zakładki">
 <!ENTITY bookmarks.folder.desktop.label "Zakładki z komputera">
 <!ENTITY bookmarks.folder.mobile.label "Zakładki z telefonu">
 <!ENTITY bookmarks.folder.pinned.label "Przypięte">
