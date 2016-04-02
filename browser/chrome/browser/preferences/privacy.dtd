@@ -5,8 +5,8 @@
 <!ENTITY  trackingProtectionHeader.label       "ಜಾಡು ಇರಿಸದಂತೆ ರಕ್ಷಣೆಯನ್ನು ಬಳಸು">
 <!ENTITY  trackingProtectionAlways.label       "ಯಾವಾಗಲೂ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
-
-
+<!ENTITY  trackingProtectionPrivate.label      "Only ಖಾಸಗಿ ಕಿಟಕಿಗಳಲ್ಲಿ">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "ಎಂದಿಗೂ ಬೇಡ">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
@@ -21,6 +21,8 @@
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+
+<!ENTITY  doNotTrack.pre.label          "ನೀವೂ ಕೂಡ ">
 
 <!ENTITY  doNotTrack.post.label         ".">
 
