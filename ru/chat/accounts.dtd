@@ -33,4 +33,4 @@
 <!ENTITY account.showDebugLog.accesskey "о">
 <!ENTITY account.connecting "Подключение…">
 <!ENTITY account.disconnecting "Отключение…">
-<!ENTITY account.disconnected "Не подключён">
+<!ENTITY account.disconnected "Не подключена">
