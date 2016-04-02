@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY aboutPage.title                        "Ci mbiru &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; dafa bees la mën am ay tolof tolof.">
+<!ENTITY aboutPage.title                        "Ci mbiri &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; lu bees la te doxam man naa sooxe.">
 <!ENTITY aboutPage.telemetryStart               " Dafay yonnee ay xibaar ci mën mën yi, materiyel bi, jëfandikoo yi ak solal yi ci ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " ngir gëna baaxal &brandShortName;.">
@@ -19,6 +19,6 @@
 <!ENTITY aboutPage.relNotes.label               "karmati sumb">
 <!ENTITY aboutPage.credits.label                "Ñi wall si">
 <!ENTITY aboutPage.license.label                "Xibaar yi ci yaatal sañ sañ yi">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Firefox and the Firefox logos are trademarks of the Mozilla Foundation.">

@@ -2,13 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "Yeb yi">
-<!ENTITY aboutDownloads.header                     "Say yeb">
-<!ENTITY aboutDownloads.empty                      "Yeb yi">
+<!ENTITY aboutDownloads.title                      "Yebbi">
+<!ENTITY aboutDownloads.header                     "Say yebbi">
+<!ENTITY aboutDownloads.empty                      "Amuli Yebbi">
 
-<!ENTITY aboutDownloads.remove                     "Màbb">
-<!ENTITY aboutDownloads.removeAll                  "Màbb lepp">
-<!ENTITY aboutDownloads.pause                      "Taxaw">
-
+<!ENTITY aboutDownloads.open                       "Ubbi">
+<!ENTITY aboutDownloads.remove                     "Far">
+<!ENTITY aboutDownloads.removeAll                  "Far lepp">
+<!ENTITY aboutDownloads.pause                      "Taxawal">
+<!ENTITY aboutDownloads.resume                     "Wéyal">
 <!ENTITY aboutDownloads.cancel                     "Neenal">
 <!ENTITY aboutDownloads.retry                      "Jéemaat">
