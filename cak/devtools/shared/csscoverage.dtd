@@ -35,7 +35,7 @@
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
-<!ENTITY csscoverage.optimize.bodyX "Konojel ri taq b'eyal e aj k'amab'ey.">
+<!ENTITY csscoverage.optimize.bodyX "Konojel ri taq b'eyal e ajk'amab'ey.">
 <!-- LOCALIZATION NOTE (csscoverage.footer1, csscoverage.footer2a,
   -  csscoverage.footer3, csscoverage.footer4): The text displayed at the
   -  bottom of the page, with 2a being the URL opened when the link text in 3
@@ -43,5 +43,5 @@
 
 <!ENTITY csscoverage.footer1 "Titz'et">
 <!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
-<!ENTITY csscoverage.footer3 "Ri MDN cholna'oj chi rij rusamajib'al CSS k'ojlem samaj">
+<!ENTITY csscoverage.footer3 "ri MDN cholna'oj chi rij rusamajib'al CSS k'ojlem samaj">
 <!ENTITY csscoverage.footer4 "richin nawetamaj kiwäch ri rutzijol taq k'ayewal chi rub'anik re rutzijol samaj re'.">
