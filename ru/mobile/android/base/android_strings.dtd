@@ -105,7 +105,7 @@
 <!ENTITY pref_category_advanced_summary2 "Восстановление вкладок, плагины, инструменты разработчика">
 <!ENTITY pref_category_notifications "Уведомления">
 <!ENTITY pref_content_notifications "Обновление веб-сайтов">
-<!ENTITY pref_content_notifications_summary "Разрешить уведомления для поддерживаемых сайтов">
+<!ENTITY pref_content_notifications_summary2 "Узнавать о новом содержимом с поддерживаемых сайтов">
 <!ENTITY pref_developer_remotedebugging_usb "Удалённая отладка через USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Удалённая отладка через Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Для удалённой отладки через Wi-Fi необходимо, чтобы на вашем устройстве было установлено приложение для чтения QR-кодов.">
@@ -147,6 +147,8 @@
 <!ENTITY pref_tracking_protection_enabled "Включено">
 <!ENTITY pref_tracking_protection_enabled_pb "Включено в Приватном просмотре">
 <!ENTITY pref_tracking_protection_disabled "Отключено">
+<!ENTITY pref_whats_new_notification "Что нового в &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Узнавать о новых возможностях после обновления">
 <!ENTITY tracking_protection_prompt_title "Теперь с Защитой от отслеживания">
 <!ENTITY tracking_protection_prompt_text "Активно блокируйте элементы отслеживания, чтобы не беспокоиться о слежке.">
 <!ENTITY tracking_protection_prompt_tip_text "Чтобы узнать больше, посетите параметры Приватности">
@@ -342,6 +344,7 @@
 <!ENTITY home_top_sites_add "Добавить сайт">
 <!ENTITY home_title "Дом &brandShortName;">
 <!ENTITY home_history_title "История">
+<!ENTITY home_history_back_to "Вернуться ко всей истории">
 <!ENTITY home_clear_history_button "Удалить историю веб-сёрфинга">
 <!ENTITY home_clear_history_confirm "Вы уверены, что хотите удалить свою историю?">
 <!ENTITY home_bookmarks_empty "Сохраняемые вами закладки появятся здесь.">

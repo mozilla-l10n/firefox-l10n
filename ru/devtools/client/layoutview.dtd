@@ -7,3 +7,4 @@
 <!ENTITY border.tooltip "border">
 <!ENTITY padding.tooltip "padding">
 <!ENTITY content.tooltip "содержимое">
+<!ENTITY geometry.button.tooltip "Изменить позицию">
