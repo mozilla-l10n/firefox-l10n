@@ -108,7 +108,7 @@
 <!ENTITY pref_category_advanced_summary2 "Ripristino schede, plugin, strumenti di sviluppo">
 <!ENTITY pref_category_notifications "Notifiche">
 <!ENTITY pref_content_notifications "Aggiornamenti siti web">
-<!ENTITY pref_content_notifications_summary "Consenti notifiche dai siti web supportati">
+<!ENTITY pref_content_notifications_summary2 "Scopri nuovi contenuti dai siti web supportati">
 <!ENTITY pref_developer_remotedebugging_usb "Debug remoto tramite USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debug remoto tramite Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Il debug tramite Wi-Fi richiede la presenza sul dispositivo di un’app per la scansione di codici QR.">
@@ -149,6 +149,8 @@
 <!ENTITY pref_tracking_protection_enabled "Attiva">
 <!ENTITY pref_tracking_protection_enabled_pb "Attiva in modalità Navigazione anonima">
 <!ENTITY pref_tracking_protection_disabled "Disattivata">
+<!ENTITY pref_whats_new_notification "Novità di &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Visualizza informazioni sulle nuove caratteristiche dopo un aggiornamento">
 <!ENTITY tracking_protection_prompt_title "Ora con protezione antitracciamento">
 <!ENTITY tracking_protection_prompt_text "Blocca in modo attivo gli elementi traccianti, rimuovendo ogni preoccupazione per l’utente.">
 <!ENTITY tracking_protection_prompt_tip_text "Per ulteriori informazioni visita la sezione Privacy delle impostazioni">
