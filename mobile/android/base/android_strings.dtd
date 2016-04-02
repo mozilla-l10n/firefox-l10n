@@ -343,6 +343,7 @@
 <!ENTITY home_top_sites_title "Siti principali">
 <!ENTITY home_top_sites_add "Aggiungi un sito">
 <!ENTITY home_history_title "Cronologia">
+<!ENTITY home_history_back_to "Torna alla cronologia completa">
 <!ENTITY home_clear_history_button "Elimina cronologia">
 <!ENTITY home_clear_history_confirm "Eliminare la cronologia di navigazione?">
 <!ENTITY home_bookmarks_empty "In questa sezione verranno visualizzati i segnalibri salvati.">
