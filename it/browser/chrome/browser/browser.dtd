@@ -162,7 +162,7 @@
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Segnalibri">
-<!ENTITY bookmarksMenuButton.unsorted.label "Segnalibri non catalogati">
+<!ENTITY bookmarksMenuButton.other.label "Altri segnalibri">
 <!ENTITY viewBookmarksSidebar2.label "Visualizza barra laterale segnalibri">
 <!ENTITY viewBookmarksToolbar.label "Visualizza Barra dei segnalibri">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
