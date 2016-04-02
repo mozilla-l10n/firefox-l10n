@@ -34,7 +34,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Étiquettes'>
 <!ENTITY bookmarks.folder.toolbar.label 'Barre personnelle'>
-<!ENTITY bookmarks.folder.unfiled.label 'Marque-pages non classés'>
+<!ENTITY bookmarks.folder.other.label 'Autres marque-pages'>
 <!ENTITY bookmarks.folder.desktop.label 'Marque-pages ordinateur'>
 <!ENTITY bookmarks.folder.mobile.label 'Marque-pages mobile'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
