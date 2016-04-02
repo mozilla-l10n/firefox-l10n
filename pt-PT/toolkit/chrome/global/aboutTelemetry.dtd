@@ -42,15 +42,15 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
 
-<!ENTITY aboutTelemetry.environmentDataSection "Dados do ambiente">
+<!ENTITY aboutTelemetry.environmentDataSection "  Dados do ambiente">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Registo de telemetria">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Instruções SQL lentas">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "  O navegador bloqueia">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Bloqueios do navegador">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Tópico bloqueia">
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Bloqueios de threads">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
