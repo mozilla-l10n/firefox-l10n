@@ -757,7 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; 已拦截此页面上的不安全内容。">
-<!ENTITY identity.passiveLoaded "此页面上的不安全内容（例如图像）">
+<!ENTITY identity.passiveLoaded "此页面上含有不安全的内容（例如图像）。">
 <!ENTITY identity.activeLoaded "您在此页面上已禁用保护。">
 <!ENTITY identity.weakEncryption "此页面使用较弱加密。">
 
@@ -767,7 +767,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "您至此网站的连接使用了一个较弱的加密并且非私密。">
 <!ENTITY identity.description.weakCipher2 "其他人可能查看您的信息和修改该网站的行为。">
 <!ENTITY identity.description.activeBlocked "&brandShortName; 已拦截此页面上的不安全内容。">
-<!ENTITY identity.description.passiveLoaded "您的连接非私密，并且您与此网站分享的信息可能被其他人看到。">
+<!ENTITY identity.description.passiveLoaded "您的连接非私密，您与此网站分享的信息可能被其他人看到。">
 <!ENTITY identity.description.passiveLoaded2 "此网站包含不安全内容（例如图像）。">
 <!ENTITY identity.description.passiveLoaded3 "尽管 &brandShortName; 已拦截部分内容，但页面上仍有内容不安全（例如图像）。">
 <!ENTITY identity.description.activeLoaded "此网站包含的内容不安全（例如脚本），并且您至它的连接非私密。">
