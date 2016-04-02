@@ -3,6 +3,42 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY validatePage.label "Соблюдены ли веб-стандарты">
-<!ENTITY validatePage.accesskey "о">
+<!ENTITY validatePage.accesskey "ю">
 <!ENTITY allowRemoteDebugging.label "Разрешить удалённую отладку">
-<!ENTITY allowRemoteDebugging.accesskey "а">
+<!ENTITY allowRemoteDebugging.accesskey "ш">
+<!ENTITY devToolsCmd.keycode "VK_F12">
+<!ENTITY devToolsCmd.keytext "F12">
+<!ENTITY devtoolsConnect.label "Соединиться…">
+<!ENTITY devtoolsConnect.accesskey "о">
+<!ENTITY browserConsoleCmd.label "Консоль браузера">
+<!ENTITY browserConsoleCmd.commandkey "Ζ">
+<!ENTITY browserConsoleCmd.accesskey "н">
+<!ENTITY responsiveDesignTool.label "Адаптивный дизайн">
+<!ENTITY responsiveDesignTool.accesskey "а">
+<!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY eyedropper.label "Пипетка">
+<!ENTITY eyedropper.accesskey "и">
+<!ENTITY scratchpad.label "Простой редактор JavaScript">
+<!ENTITY scratchpad.accesskey "к">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY scratchpad.keytext "F4">
+<!ENTITY browserToolboxMenu.label "Инструменты браузера">
+<!ENTITY browserToolboxMenu.accesskey "м">
+<!ENTITY browserToolboxCmd.commandkey "I">
+<!ENTITY browserContentToolboxMenu.label "Инструменты содержимого браузера">
+<!ENTITY browserContentToolboxMenu.accesskey "ы">
+<!ENTITY devToolbarCloseButton.tooltiptext "Закрыть панель разработки">
+<!ENTITY devToolbarMenu.label "Панель разработки">
+<!ENTITY devToolbarMenu.accesskey "л">
+<!ENTITY webide.label "WebIDE">
+<!ENTITY webide.accesskey "W">
+<!ENTITY webide.keycode "VK_F8">
+<!ENTITY webide.keytext "F8">
+<!ENTITY devToolbar.keycode "VK_F2">
+<!ENTITY devToolbar.keytext "F2">
+<!ENTITY devToolboxMenuItem.label "Инструменты разработки">
+<!ENTITY devToolboxMenuItem.accesskey "з">
+<!ENTITY devToolboxMenuItem.keytext "I">
+<!ENTITY devToolbarToolsButton.tooltip "Показать/скрыть инструменты разработки">
+<!ENTITY getMoreDevtoolsCmd.label "Другие инструменты">
+<!ENTITY getMoreDevtoolsCmd.accesskey "е">

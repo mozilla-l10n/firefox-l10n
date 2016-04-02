@@ -145,3 +145,5 @@
 <!ENTITY spellDictionaries.accesskey "Я">
 <!ENTITY spellAddDictionaries.label "Загрузить дополнительные словари…">
 <!ENTITY spellAddDictionaries.accesskey "З">
+<!ENTITY devtoolsInspect.label "Исследовать элемент">
+<!ENTITY devtoolsInspect.accesskey "е">
