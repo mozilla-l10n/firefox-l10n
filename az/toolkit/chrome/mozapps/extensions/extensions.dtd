@@ -23,8 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Əvvəlki səhifəyə qayıt">
 <!ENTITY cmd.forward.tooltip                  "Sonrakı səhifəyə keç">
 
-<!ENTITY showUnsignedExtensions.button.label  "Bəzi qoşmalar təsdiqlənə bilmirlər">
-<!ENTITY showAllExtensions.button.label       "Bütün qoşmaları göstər">
+<!ENTITY showUnsignedExtensions.button.label  "Bəzi uzantılar təsdiqlənə bilmirlər">
+<!ENTITY showAllExtensions.button.label       "Bütün uzantıları göstər">
 <!ENTITY debugAddons.label                    "Əlavələri Sazla">
 <!ENTITY debugAddons.accesskey                "z">
 <!-- global warnings -->

@@ -17,7 +17,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Bütün Çökmə Məlumatları">
 <!ENTITY aboutSupport.crashes.noConfig "Bu tətbiqetmə çökmə məlumatlarını göstərmək üçün tənzimlənməyib.">
 
-<!ENTITY aboutSupport.extensionsTitle "Əlavələr">
+<!ENTITY aboutSupport.extensionsTitle "Uzantılar">
 <!ENTITY aboutSupport.extensionName "Ad">
 <!ENTITY aboutSupport.extensionEnabled "Aktivdir">
 <!ENTITY aboutSupport.extensionVersion "Sürüm">
