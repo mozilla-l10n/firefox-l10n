@@ -120,7 +120,7 @@
 <!ENTITY addCurPagesCmd.label "Añadir pestañas a marcadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
 <!ENTITY recentBookmarks.label "Añadidos recientemente">
-<!ENTITY unsortedBookmarksCmd.label "Marcadores sin ordenar">
+<!ENTITY otherBookmarksCmd.label "Otros marcadores">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 <!ENTITY backCmd.label "Anterior">
 <!ENTITY backButton.tooltip "Ir a la página anterior">
@@ -162,7 +162,7 @@
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Marcadores">
-<!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin ordenar">
+<!ENTITY bookmarksMenuButton.other.label "Otros marcadores">
 <!ENTITY viewBookmarksSidebar2.label "Ver el panel lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label "Ver la barra de marcadores">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -182,50 +182,8 @@
 <!ENTITY addons.commandkey "A">
 <!ENTITY webDeveloperMenu.label "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey "W">
-<!ENTITY devToolsCmd.keycode "VK_F12">
-<!ENTITY devToolsCmd.keytext "F12">
-<!ENTITY devtoolsServiceWorkers.label "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey "k">
-<!ENTITY devtoolsConnect.label "Conectar…">
-<!ENTITY devtoolsConnect.accesskey "e">
-<!ENTITY errorConsoleCmd.label "Consola de errores">
-<!ENTITY errorConsoleCmd.accesskey "n">
-<!ENTITY remoteWebConsoleCmd.label "Consola web remota">
-<!ENTITY browserConsoleCmd.label "Consola del navegador">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey "C">
 <!ENTITY inspectContextMenu.label "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
-<!ENTITY responsiveDesignTool.label "Vista de diseño adaptable">
-<!ENTITY responsiveDesignTool.accesskey "V">
-<!ENTITY responsiveDesignTool.commandkey "M">
-<!ENTITY eyedropper.label "Selector de color">
-<!ENTITY eyedropper.accesskey "S">
-<!ENTITY scratchpad.label "Borrador">
-<!ENTITY scratchpad.accesskey "o">
-<!ENTITY scratchpad.keycode "VK_F4">
-<!ENTITY scratchpad.keytext "F4">
-<!ENTITY browserToolboxMenu.label "Caja de herramientas del navegador">
-<!ENTITY browserToolboxMenu.accesskey "h">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!ENTITY browserContentToolboxMenu.label "Caja de herramientas de contenido del navegador">
-<!ENTITY browserContentToolboxMenu.accesskey "h">
-<!ENTITY devToolbarCloseButton.tooltiptext "Cerrar la barra de desarrolladores">
-<!ENTITY devToolbarMenu.label "Barra de desarrolladores">
-<!ENTITY devToolbarMenu.accesskey "B">
-<!ENTITY webide.label "WebIDE">
-<!ENTITY webide.accesskey "W">
-<!ENTITY webide.keycode "VK_F8">
-<!ENTITY webide.keytext "F8">
-<!ENTITY devToolbar.keycode "VK_F2">
-<!ENTITY devToolbar.keytext "F2">
-<!ENTITY devToolboxMenuItem.label "Mostrar herramientas">
-<!ENTITY devToolboxMenuItem.accesskey "M">
-<!ENTITY devToolboxMenuItem.keytext "I">
-<!ENTITY devToolbarToolsButton.tooltip "Activar las herramientas para desarrolladores">
-<!ENTITY devToolbarOtherToolsButton.label "Más herramientas">
-<!ENTITY getMoreDevtoolsCmd.label "Obtener más herramientas">
-<!ENTITY getMoreDevtoolsCmd.accesskey "h">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newUserContext.label "Nueva pestaña contenedor">
