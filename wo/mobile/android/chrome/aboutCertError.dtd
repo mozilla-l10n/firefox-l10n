@@ -10,8 +10,8 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Lonkoo gu wóorul">
-<!ENTITY certerror.longpagetitle "Lonkoo gii kenn wóorluwu ko">
+<!ENTITY certerror.pagetitle  "Lonkoo guñ settantalul">
+<!ENTITY certerror.longpagetitle "Lonkoo gii kenn settantalu ko">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
@@ -23,9 +23,9 @@ was trying to connect. -->
 <!ENTITY certerror.getMeOutOfHere.label "Génn fii!">
 
 <!ENTITY certerror.expert.heading "Xam naa limuy wund">
-<!ENTITY certerror.expert.content "Boo xamee li am, mën nga wax &brandShortName; mu tàmbali am koolute ci jëmmu dal bi. <b> Boo wóoloo sax dal bi, njumte gi mën na tekki ni dafa am ku bëgg jariñoo sa lonkoo.</b>">
-<!ENTITY certerror.expert.contentPara2 "Bul yokk ag jagleel ludul dal na sa xel li dal bi dul jëfandikoo xammeekaay gu ñu wóoralul.">
-<!ENTITY certerror.addTemporaryException.label "Gane dal bi">
+<!ENTITY certerror.expert.content "Soo xamee li xew, mën nga wax &brandShortName; mu tàmbali am kóolute ci jëmmu dal bi. <b> Soo wóoloo sax dal bi, njumte gi mën na tekki ni dafa am ku bëgg jariñoo sa lonkoo.</b>">
+<!ENTITY certerror.expert.contentPara2 "Bul yokk ag seppiit ludul dal na sa xel li dal bi dul jëfandikoo xammeekaay gu ñu settantalul.">
+<!ENTITY certerror.addTemporaryException.label "Ubbi dal bi">
 <!ENTITY certerror.addPermanentException.label "Yokk benn seppi bu amul app">
 
-<!ENTITY certerror.technical.heading "Benn bennal yu xarala">
+<!ENTITY certerror.technical.heading "Xibaari xarala">
