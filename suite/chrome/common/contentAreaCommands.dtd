@@ -145,3 +145,5 @@
 <!ENTITY spellDictionaries.accesskey "I">
 <!ENTITY spellAddDictionaries.label "Descargar más diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "D">
+<!ENTITY devtoolsInspect.label "Inspeccionar elemento">
+<!ENTITY devtoolsInspect.accesskey "n">
