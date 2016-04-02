@@ -7,3 +7,4 @@
 <!ENTITY border.tooltip "bordo">
 <!ENTITY padding.tooltip "spaziatura interna">
 <!ENTITY content.tooltip "contenuto">
+<!ENTITY geometry.button.tooltip "Modifica posizione">
