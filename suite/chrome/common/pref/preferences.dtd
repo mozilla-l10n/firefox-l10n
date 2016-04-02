@@ -8,14 +8,16 @@
 <!ENTITY content.label "Содержимое">
 <!ENTITY fonts.label "Шрифты">
 <!ENTITY colors.label "Цвета">
+<!ENTITY spellingPane.label "Орфография">
 <!ENTITY navigator.label "Браузер">
 <!ENTITY history.label "Журнал">
 <!ENTITY languages.label "Языки">
 <!ENTITY applications.label "Приложения">
 <!ENTITY locationBar.label "Панель адреса">
+<!ENTITY search.label "Поиск в Интернете">
 <!ENTITY tabWindows.label "Вкладки">
 <!ENTITY links.label "Поведение ссылок">
-<!ENTITY offline.label "Автономная работа">
+<!ENTITY download.label "Загрузки">
 <!ENTITY security.label "Приватность и защита">
 <!ENTITY privatedata.label "Личные данные">
 <!ENTITY cookies.label "Куки">
@@ -27,18 +29,13 @@
 <!ENTITY certs.label "Сертификаты">
 <!ENTITY sync.label "Синхронизация">
 <!ENTITY advance.label "Дополнительно">
-<!ENTITY down.label "Загрузка">
+<!ENTITY scriptsAndWindows.label "Сценарии и плагины">
+<!ENTITY keynav.label "Клавиатура">
+<!ENTITY findAsYouType.label "Поиск по мере набора">
 <!ENTITY cache.label "Кэш">
 <!ENTITY offlineApps.label "Автономные приложения">
 <!ENTITY proxies.label "Прокси-серверы">
 <!ENTITY httpnetworking.label "Работа с HTTP">
 <!ENTITY smart.label "Установка ПО">
-<!ENTITY download.label "Загрузки">
-<!ENTITY keynav.label "Клавиатура">
-<!ENTITY findAsYouType.label "Поиск по мере набора">
-<!ENTITY search.label "Поиск в Интернете">
-<!ENTITY policies.label "Политика защиты">
 <!ENTITY mousewheel.label "Колесико мыши">
-<!ENTITY scriptsAndWindows.label "Сценарии и плагины">
-<!ENTITY spellingPane.label "Орфография">
 <!ENTITY focusSearch.key "f">

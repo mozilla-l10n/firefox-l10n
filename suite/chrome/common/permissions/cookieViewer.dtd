@@ -16,7 +16,6 @@
 <!ENTITY button.removeallcookies.accesskey "с">
 <!ENTITY search.placeholder "Поиск кук">
 <!ENTITY focusSearch.key "f">
-<!ENTITY windowClose.key "w">
 <!ENTITY selectAll.key "a">
 <!ENTITY props.name.label "Имя:">
 <!ENTITY props.value.label "Информация:">
@@ -25,10 +24,9 @@
 <!ENTITY props.secure.label "Отправить для:">
 <!ENTITY props.expires.label "Срок действия:">
 <!ENTITY treehead.sitename.label "Веб-сайт">
+<!ENTITY treehead.scheme.label "Схема">
 <!ENTITY treehead.status.label "Статус">
 <!ENTITY windowtitle.label "Управление куками">
-<!ENTITY buttonaccept.label "Закрыть">
-<!ENTITY buttonaccept.accesskey "к">
 <!ENTITY blockSite.label "Блокировать">
 <!ENTITY blockSite.accesskey "л">
 <!ENTITY allowSite.label "Разрешить">

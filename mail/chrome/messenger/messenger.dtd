@@ -133,7 +133,7 @@
 <!ENTITY messagePaneVertical.accesskey "В">
 <!ENTITY showFolderPaneCmd.label "Панель папок">
 <!ENTITY showFolderPaneCmd.accesskey "а">
-<!ENTITY showFolderPaneColsCmd.label "Колонки панели папок">
+<!ENTITY showFolderPaneColsCmd.label "Инструменты панели папок">
 <!ENTITY showFolderPaneColsCmd.accesskey "о">
 <!ENTITY showMessageCmd.label "Область просмотра сообщений">
 <!ENTITY showMessageCmd.accesskey "О">
@@ -151,6 +151,8 @@
 <!ENTITY recentFolders.accesskey "о">
 <!ENTITY compactVersion.label "Компактный вид">
 <!ENTITY compactVersion.accesskey "о">
+<!ENTITY folderPaneBar.label "Панель вида папок">
+<!ENTITY folderModeSelector.label "Отображения папок">
 <!ENTITY sortMenu.label "Сортировка">
 <!ENTITY sortMenu.accesskey "р">
 <!ENTITY sortByDateCmd.label "по дате отправки">
@@ -336,6 +338,8 @@
 <!ENTITY editAsNewMsgCmd.label "Редактировать как новое сообщение">
 <!ENTITY editAsNewMsgCmd.accesskey "е">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Редактировать черновик сообщения">
+<!ENTITY editDraftMsgCmd.accesskey "а">
 <!ENTITY createFilter.label "Создать фильтр…">
 <!ENTITY createFilter.accesskey "ф">
 <!ENTITY moveMsgToMenu.label "Переместить в папку">
@@ -651,6 +655,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "ы">
 <!ENTITY contextEditMsgAsNew.label "Редактировать как новое сообщение">
 <!ENTITY contextEditMsgAsNew.accesskey "а">
+<!ENTITY contextEditDraftMsg.label "Редактировать черновик сообщения">
 <!ENTITY contextArchive.label "Архивировать">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Ответить отправителю">

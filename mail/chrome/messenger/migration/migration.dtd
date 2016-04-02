@@ -13,8 +13,6 @@
 <!ENTITY importFromOExpress.accesskey "u">
 <!ENTITY importFromOutlook.label "Outlook">
 <!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
 <!ENTITY importSource.title "Импорт настроек и почты">
 <!ENTITY importItems.title "Объекты для импорта">
 <!ENTITY importItems.label "Выберите объекты для импорта:">
