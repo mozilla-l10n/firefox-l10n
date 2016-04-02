@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Marquer tous les onglets…">
 <!ENTITY showAllBookmarks2.label "Afficher tous les marque-pages">
 <!ENTITY recentBookmarks.label "Marqués récemment">
-<!ENTITY unsortedBookmarksCmd.label "Marque-pages non classés">
+<!ENTITY otherBookmarksCmd.label "Autres marque-pages">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afficher plus de marque-pages">
 
 <!ENTITY backCmd.label                "Page précédente">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey    "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marque-pages">
-<!ENTITY bookmarksMenuButton.unsorted.label "Marque-pages non classés">
+<!ENTITY bookmarksMenuButton.other.label "Autres marque-pages">
 <!ENTITY viewBookmarksSidebar2.label        "Afficher panneau des marque-pages">
 <!ENTITY viewBookmarksToolbar.label         "Afficher la barre personnelle">
 
@@ -253,80 +253,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Développement web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Services workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Se connecter…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Console d’erreurs">
-<!ENTITY errorConsoleCmd.accesskey    "s">
-
-<!ENTITY remoteWebConsoleCmd.label    "Console web distante">
-
-<!ENTITY browserConsoleCmd.label      "Console du navigateur">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "n">
-
 <!ENTITY inspectContextMenu.label     "Examiner l’élément">
 <!ENTITY inspectContextMenu.accesskey "x">
-
-<!ENTITY responsiveDesignMode.label      "Vue adaptative">
-<!ENTITY responsiveDesignMode.accesskey  "V">
-<!ENTITY responsiveDesignMode.commandkey "M">
-
-<!ENTITY eyedropper.label   "Pipette">
-<!ENTITY eyedropper.accesskey "e">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Ardoise JavaScript">
-<!ENTITY scratchpad.accesskey         "A">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Boîte à outils du navigateur">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Boîte à outils du contenu du navigateur">
-<!ENTITY browserContentToolboxMenu.accesskey "n">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Fermer la barre de développement">
-<!ENTITY devToolbarMenu.label              "Barre de développement">
-<!ENTITY devToolbarMenu.accesskey          "B">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "I">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Outils de développement">
-<!ENTITY devToolboxMenuItem.accesskey      "t">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Ouvrir/Fermer les outils de développement">
-
-<!ENTITY devToolbarOtherToolsButton.label  "Autres outils">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Obtenir d’autres outils">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "O">
 
 <!ENTITY fileMenu.label           "Fichier">
 <!ENTITY fileMenu.accesskey       "F">

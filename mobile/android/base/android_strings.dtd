@@ -167,7 +167,7 @@
 <!ENTITY pref_category_advanced_summary2 "Restaurer les onglets, plugins, outils de développement">
 <!ENTITY pref_category_notifications "Notifications">
 <!ENTITY pref_content_notifications "Actualités des sites web">
-<!ENTITY pref_content_notifications_summary "Autoriser les notifications pour les sites pris en charge">
+<!ENTITY pref_content_notifications_summary2 "Découvrir de nouveaux contenus depuis les sites pris en charge">
 <!ENTITY pref_developer_remotedebugging_usb "Débogage distant par USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Débogage distant par Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Le débogage par Wi-Fi nécessite que votre appareil dispose d’une application permettant de lire les QR codes.">
@@ -229,6 +229,9 @@
 <!ENTITY pref_tracking_protection_enabled "Activée">
 <!ENTITY pref_tracking_protection_enabled_pb "Activée en navigation privée">
 <!ENTITY pref_tracking_protection_disabled "Désactivée">
+
+<!ENTITY pref_whats_new_notification "Nouveautés de &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Découvrir les nouvelles fonctionnalités après une mise à jour">
 
 <!ENTITY tracking_protection_prompt_title "Désormais avec protection contre le pistage">
 <!ENTITY tracking_protection_prompt_text "Les éléments pouvant pister votre navigation sont bloqués afin que vous n’ayez pas à vous en préoccuper.">
@@ -524,6 +527,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Accueil de &brandShortName;">
 <!ENTITY home_history_title "Historique">
+<!ENTITY home_history_back_to "Retour à l’historique complet">
 <!ENTITY home_clear_history_button "Effacer l’historique de navigation">
 <!ENTITY home_clear_history_confirm "Voulez-vous vraiment effacer votre historique ?">
 <!ENTITY home_bookmarks_empty "Les marque-pages enregistrés s’affichent ici.">
