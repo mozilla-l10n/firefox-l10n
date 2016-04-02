@@ -242,7 +242,7 @@
 <!ENTITY pref_tracking_protection_disabled "ถูกปิดใช้งาน">
 
 <!ENTITY tracking_protection_prompt_title "ขณะนี้มาพร้อมการป้องกันการตามรอย">
-
+<!ENTITY tracking_protection_prompt_text "ปิดกั้นองค์ประกอบที่ตามรอยอย่างต่อเนื่อง คุณจึงไม่จำเป็นต้องกังวล">
 <!ENTITY tracking_protection_prompt_tip_text "เยี่ยมชมการตั้งค่าความเป็นส่วนตัวเพื่อเรียนรู้เพิ่มเติม">
 <!ENTITY tracking_protection_prompt_action_button "เข้าใจแล้ว!">
 
