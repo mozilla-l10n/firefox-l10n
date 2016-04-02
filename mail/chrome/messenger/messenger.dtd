@@ -104,7 +104,7 @@
 <!ENTITY all.label "Tudo">
 <!ENTITY all.accesskey "T">
 <!ENTITY selectThreadCmd.label "Tópico">
-<!ENTITY selectThreadCmd.accesskey "c">
+<!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Mensagens com estrela">
 <!ENTITY selectFlaggedCmd.accesskey "s">
@@ -203,7 +203,7 @@
 <!ENTITY sortDescending.label "Descendente">
 <!ENTITY sortDescending.accesskey "d">
 <!ENTITY sortThreaded.label "Agrupar por tópicos">
-<!ENTITY sortThreaded.accesskey "p">
+<!ENTITY sortThreaded.accesskey "t">
 <!ENTITY sortUnthreaded.label "Não agrupar">
 <!ENTITY sortUnthreaded.accesskey "N">
 <!ENTITY groupBySort.label "Agrupar pela ordem">
@@ -223,7 +223,7 @@
 <!ENTITY unreadMsgsCmd.label "Não lidas">
 <!ENTITY unreadMsgsCmd.accesskey "N">
 <!ENTITY threadsWithUnreadCmd.label "Tópicos não lidos">
-<!ENTITY threadsWithUnreadCmd.accesskey "c">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Tópicos monitorizados não lidos">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "m">
 <!ENTITY ignoredThreadsCmd.label "Tópicos ignorados">
