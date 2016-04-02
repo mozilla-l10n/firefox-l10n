@@ -120,7 +120,7 @@
 <!ENTITY addCurPagesCmd.label "Tutte le schede nei segnalibri…">
 <!ENTITY showAllBookmarks2.label "Visualizza tutti i segnalibri">
 <!ENTITY recentBookmarks.label "Aggiunti di recente">
-<!ENTITY unsortedBookmarksCmd.label "Segnalibri non catalogati">
+<!ENTITY otherBookmarksCmd.label "Altri segnalibri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Visualizza altri segnalibri">
 <!ENTITY backCmd.label "Indietro">
 <!ENTITY backButton.tooltip "Torna indietro di una pagina">

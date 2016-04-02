@@ -17,7 +17,7 @@
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Etichette">
 <!ENTITY bookmarks.folder.toolbar.label "Barra dei segnalibri">
-<!ENTITY bookmarks.folder.unfiled.label "Segnalibri non catalogati">
+<!ENTITY bookmarks.folder.other.label 'Altri segnalibri'>
 <!ENTITY bookmarks.folder.desktop.label "Segnalibri pc desktop">
 <!ENTITY bookmarks.folder.mobile.label "Segnalibri mobile">
 <!ENTITY bookmarks.folder.pinned.label "Bloccata">
