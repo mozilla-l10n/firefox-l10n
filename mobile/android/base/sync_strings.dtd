@@ -142,8 +142,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "บัญชีของคุณจำเป็นต้องได้รับการยืนยัน แตะเพื่อส่งอีเมลยืนยันใหม่">
 <!ENTITY fxaccount_status_needs_credentials "ไม่สามารถเชื่อมต่อได้ แตะเพื่อเข้าสู่ระบบ">
 <!ENTITY fxaccount_status_needs_upgrade "คุณจำเป็นต้องปรับรุ่นของ &brandShortName; เพื่อเข้าสู่ระบบ">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “Auto-sync data” ในการตั้งค่า Android &gt; Data Usage">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “Auto-sync data” ในเมนูการตั้งค่าของ Android &gt; Accounts">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ในการตั้งค่า Android &gt; การใช้งานอินเทอร์เน็ต">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ในเมนูการตั้งค่า Android &gt; บัญชี">
 <!ENTITY fxaccount_status_needs_finish_migrating "แตะเพื่อเข้าสู่ระบบบัญชี Firefox ใหม่ของคุณ">
 <!ENTITY fxaccount_status_bookmarks "ที่คั่นหน้า">
 <!ENTITY fxaccount_status_history "ประวัติ">
@@ -195,7 +195,7 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ไม่สามารถเชื่อมต่อกับเครือข่าย">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "บัญชีถูกล็อค &formatS1;">
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "ไม่สามารถเชื่อมต่อกับ &syncBrand.shortName.label; ได้">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "ไม่ได้เชื่อมต่อ &syncBrand.shortName.label;">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "แตะเพื่อเข้าสู่ระบบเป็น &formatS;">
