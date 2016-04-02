@@ -184,9 +184,6 @@
 <!ENTITY webDeveloperMenu.accesskey "v">
 <!ENTITY inspectContextMenu.label "Analizza elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
-<!ENTITY devToolbarCloseButton.tooltiptext "Chiudi la Barra sviluppatori">
-<!ENTITY devToolbarToolsButton.tooltip "Attiva o disattiva gli strumenti di sviluppo">
-<!ENTITY devToolbarOtherToolsButton.label "Altri strumenti">
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newUserContext.label "Nuova scheda contenitore">
