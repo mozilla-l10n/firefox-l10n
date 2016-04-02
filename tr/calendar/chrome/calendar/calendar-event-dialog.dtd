@@ -32,10 +32,14 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
+<!ENTITY event.attendees.notify.label               "Katılımcılara bildir">
+<!ENTITY event.attendees.notify.accesskey           "b">
 <!ENTITY event.attendees.notifyundisclosed.label    "Her katılımcı için ayrı davetiye">
-
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Bu seçenek katılımcı başına bir e-posta daveti gönderir. Her davet, diğer katılımcı kimliklerini ifşa etmeyecek şekilde alıcı katılımcıyı içerir.">
 <!-- Keyboard Shortcuts -->
+
+<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -173,7 +177,7 @@
 
 
 
-
+<!ENTITY event.to.label                                   "Bitiş:" >
 
 <!ENTITY task.to.label                                    "Son tarih:" >
 <!ENTITY task.to.accesskey                                "S">
@@ -349,7 +353,7 @@
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Kaynak">
 <!ENTITY event.attendee.usertype.room           "Oda">
-
+<!ENTITY event.attendee.usertype.unknown        "Bilinmiyor">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Lütfen saat dilimini belirleyin">
