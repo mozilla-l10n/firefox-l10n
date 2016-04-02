@@ -17,7 +17,7 @@
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
 <!ENTITY bookmarks.folder.toolbar.label "Barra de herramientas de marcadores">
-<!ENTITY bookmarks.folder.unfiled.label "Marcadores sin ordenar">
+<!ENTITY bookmarks.folder.other.label "Otros marcadores">
 <!ENTITY bookmarks.folder.desktop.label "Marcadores de escritorio">
 <!ENTITY bookmarks.folder.mobile.label "Marcadores del móvil">
 <!ENTITY bookmarks.folder.pinned.label "Fijada">
@@ -51,8 +51,8 @@
 <!ENTITY fxaccount_status_passwords2 "Inicios de sesión">
 <!ENTITY fxaccount_status_tabs "Abrir pestañas">
 <!ENTITY fxaccount_status_legal "Legal">
-<!ENTITY fxaccount_status_linktos "Términos del Servicio">
-<!ENTITY fxaccount_status_linkprivacy "Aviso sobre privacidad">
+<!ENTITY fxaccount_status_linktos2 "Términos del Servicio">
+<!ENTITY fxaccount_status_linkprivacy2 "Aviso sobre privacidad">
 <!ENTITY fxaccount_status_more "Más&ellipsis;">
 <!ENTITY fxaccount_remove_account "Desconectar&ellipsis;">
 <!ENTITY fxaccount_remove_account_dialog_title "¿Eliminar cuenta de Firefox?">

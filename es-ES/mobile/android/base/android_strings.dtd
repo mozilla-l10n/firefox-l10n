@@ -100,9 +100,12 @@
 <!ENTITY pref_category_search_restore_defaults "Restaurar buscadores">
 <!ENTITY pref_search_restore_defaults "Restaurar predeterminados">
 <!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
-<!ENTITY pref_search_hint "TRUCO: añada cualquier sitio web a su lista de buscadores con una pulsación larga en su campo de búsqueda y luego pulsando el icono &formatI;.">
+<!ENTITY pref_search_hint2 "TRUCO: añada cualquier sitio web a su lista de buscadores con una pulsación larga en su campo de búsqueda y tocando luego el icono &formatI;.">
 <!ENTITY pref_category_advanced "Avanzado">
 <!ENTITY pref_category_advanced_summary2 "Restaurar pestañas, plugins, herr. desarrollo">
+<!ENTITY pref_category_notifications "Notificaciones">
+<!ENTITY pref_content_notifications "Actualizaciones del sitio web">
+<!ENTITY pref_content_notifications_summary2 "Descubra nuevo contenido de los sitios admitidos">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota mediante USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota mediante wifi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración wifi requiere que su dispositivo tenga una aplicación lectora de códigos QR instalada.">
@@ -124,6 +127,7 @@
 <!ENTITY pref_header_search "Buscar">
 <!ENTITY pref_header_privacy_short "Privacidad">
 <!ENTITY pref_header_accessibility "Accesibilidad">
+<!ENTITY pref_header_notifications "Notificaciones">
 <!ENTITY pref_header_advanced "Avanzado">
 <!ENTITY pref_header_help "Ayuda">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -136,13 +140,15 @@
 <!ENTITY pref_tap_to_load_images_data "Sólo bajo Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloqueadas">
 <!ENTITY pref_show_web_fonts "Mostrar tipografías web">
-<!ENTITY pref_tracking_protection_title "Protección contra rastreo">
+<!ENTITY pref_tracking_protection_title2 "Protección contra rastreo">
 <!ENTITY pref_tracking_protection_summary3 "Activado en navegación privada">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a los sitios que no quiere ser rastreado">
 <!ENTITY pref_tracking_protection_enabled "Activada">
 <!ENTITY pref_tracking_protection_enabled_pb "Activada en navegación privada">
 <!ENTITY pref_tracking_protection_disabled "Desactivada">
+<!ENTITY pref_whats_new_notification "Novedades en &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Conoza las nuevas funciones tras una actualización">
 <!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo">
 <!ENTITY tracking_protection_prompt_text "Bloquear activamente los elementos de rastreo para que no tenga que preocuparse.">
 <!ENTITY tracking_protection_prompt_tip_text "Visite los ajustes de privacidad para más información">
@@ -160,17 +166,21 @@
 <!ENTITY tab_queue_notification_text_plural2 "&formatD; pestañas en espera">
 <!ENTITY tab_queue_notification_text_singular2 "1 pestaña en espera">
 <!ENTITY tab_queue_notification_settings "Para \&quot;Abrir múltiples enlaces\&quot;, active el permiso \'Dibujar sobre otras aplicaciones\' para &brandShortName;">
+<!ENTITY content_notification_summary "&brandShortName;">
+<!ENTITY content_notification_title_plural "&formatD; sitios web actualizados">
+<!ENTITY content_notification_action_settings "Ajustes de notificaciones">
+<!ENTITY content_notification_updated_on "Actualizado el &formatS;">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
-<!ENTITY pref_clear_private_data "Limpiar datos privados">
+<!ENTITY pref_clear_private_data2 "Limpiar datos privados">
 <!ENTITY pref_clear_private_data_now_tablet "Limpiar ahora">
 <!ENTITY pref_clear_on_exit_title3 "Limpiar datos privados al salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente sus datos cada vez que seleccione \u0022Salir\u0022 desde el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccione qué datos quiere eliminar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activados">
-<!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
+<!ENTITY pref_plugins_tap_to_play2 "Tocar para reproducir">
 <!ENTITY pref_plugins_disabled "Desactivados">
 <!ENTITY pref_text_size "Tamaño del texto">
 <!ENTITY pref_restore_tabs "Restaurar pestañas">
@@ -300,7 +310,7 @@
 <!ENTITY doorhanger_login_select_action_text "Seleccionar otro inicio de sesión">
 <!ENTITY doorhanger_login_select_title "Copiar contraseña de">
 <!ENTITY pref_magnifying_glass_enabled "Aumentar áreas pequeñas">
-<!ENTITY pref_magnifying_glass_enabled_summary "Aumentar enlaces y campos de formularios al tocar cerca de ellos">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Hacer más grandes los enlaces y campos de formularios al tocar cerca de ellos">
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary2 "Ocultar la barra de herramientas de &brandShortName; al bajar por una página">
 <!ENTITY pref_tab_queue_title3 "Pestañas en cola">
@@ -334,6 +344,7 @@
 <!ENTITY home_top_sites_add "Añadir un sitio">
 <!ENTITY home_title "Página de inicio de &brandShortName;">
 <!ENTITY home_history_title "Historial">
+<!ENTITY home_history_back_to "Volver al historial completo">
 <!ENTITY home_clear_history_button "Limpiar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Está seguro de que quiere limpiar su historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que guarde se muestran aquí.">
@@ -375,7 +386,7 @@
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ha bloqueado parte del contenido inseguro en esta página.">
 <!ENTITY mixed_content_display_loaded1 "Partes de esta página no son seguras (como imágenes).">
 <!ENTITY mixed_content_protection_disabled1 "Ha desactivado la protección del contenido inseguro.">
-<!ENTITY doorhanger_tracking_title "Protección contra rastreo">
+<!ENTITY doorhanger_tracking_title2 "Protección contra rastreo">
 <!ENTITY doorhanger_tracking_state_enabled "Activado">
 <!ENTITY doorhanger_tracking_state_disabled "Desactivado">
 <!ENTITY doorhanger_tracking_message_enabled1 "Los intentos de rastrear su comportamiento en Internet han sido bloqueado.">
