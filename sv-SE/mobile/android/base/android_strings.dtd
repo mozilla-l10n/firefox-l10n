@@ -75,7 +75,7 @@
 <!ENTITY history_this_month_section "Denna månaden">
 <!ENTITY history_older_section3 "Äldre än 6 månader">
 
-<!ENTITY go "Gå till">
+<!ENTITY go "Kör">
 <!ENTITY search "Sök">
 <!ENTITY reload "Uppdatera">
 <!ENTITY forward "Framåt">
@@ -151,7 +151,7 @@
 <!ENTITY pref_category_search3 "Sök">
 <!ENTITY pref_category_search_summary "Anpassa sökleverantörerna">
 <!ENTITY pref_category_accessibility "Tillgänglighet">
-<!ENTITY pref_category_accessibility_summary2 "Textstorlek, Zoom, Röst inmatning">
+<!ENTITY pref_category_accessibility_summary2 "Textstorlek, zoom, röstinmatning">
 <!ENTITY pref_category_privacy_short "Integritet">
 <!ENTITY pref_category_privacy_summary3 "Spårning, kakor, dataval">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -312,7 +312,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrollera om webbplatser kan spela upp automatiskt videor och annat medieinnehåll">
 <!ENTITY pref_zoom_force_enabled "Aktivera alltid zoom">
 <!ENTITY pref_zoom_force_enabled_summary "åsidosätt så att du kan zooma på vilken sida som helst">
-<!ENTITY pref_voice_input "Röst inmatning">
+<!ENTITY pref_voice_input "Röstinmatning">
 <!ENTITY pref_voice_input_summary2 "Tillåt röstdiktering i adressfältet">
 <!ENTITY pref_qrcode_enabled "QR-Kods läsare ">
 <!ENTITY pref_qrcode_enabled_summary2 "Tillåt QR skanner i adressfältet">
