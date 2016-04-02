@@ -6,7 +6,7 @@
 <!ENTITY addressbookPicker.accesskey        "t">
 <!ENTITY searchInput.label                  "Aranacak:">
 <!ENTITY searchInput.accesskey              "A">
-<!ENTITY SearchNameOrEmail.label            "Ad veya E-posta">
+<!ENTITY SearchNameOrEmail.label            "Ad veya e-posta">
 
 <!ENTITY deleteAddrBookCard.label           "Sil">
 <!ENTITY deleteAddrBookCard.accesskey       "S">

@@ -156,8 +156,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY dirTreeHeader.label                            "Adres Defterleri">
 <!-- Search Bar -->
 
-<!ENTITY SearchNameOrEmail.label                        "İsim veya E-Posta">
-<!ENTITY SearchNameOrEmail.accesskey                    "s">
+<!ENTITY SearchNameOrEmail.label                        "Ad veya e-posta">
+<!ENTITY SearchNameOrEmail.accesskey                    "A">
 <!ENTITY advancedButton.tooltip                         "Gelişmiş adres arama">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Hızlı Arama">
@@ -167,7 +167,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Addrbook.accesskey                             "A">
 <!ENTITY GeneratedName.label                            "Ad">
 <!ENTITY GeneratedName.accesskey                        "d">
-<!ENTITY PrimaryEmail.label                             "E-Posta">
+<!ENTITY PrimaryEmail.label                             "E-posta">
 <!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ChatName.label                                 "Sohbet Adı">
 <!ENTITY ChatName.accesskey                             "S">
@@ -175,7 +175,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Company.accesskey                              "u">
 <!ENTITY NickName.label                                 "Takma Ad">
 <!ENTITY NickName.accesskey                             "T">
-<!ENTITY SecondEmail.label                              "Ek E-Posta">
+<!ENTITY SecondEmail.label                              "Ek e-posta">
 <!ENTITY SecondEmail.accesskey                          "k">
 <!ENTITY Department.label                               "Bölüm">
 <!ENTITY Department.accesskey                           "m">
