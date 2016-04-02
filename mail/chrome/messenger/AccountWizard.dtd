@@ -33,7 +33,7 @@
 <!ENTITY fullnameLabel.label "Adınız:">
 <!ENTITY fullnameLabel.accesskey "A">
 
-<!ENTITY emailLabel.label "E-posta Adresi:">
+<!ENTITY emailLabel.label "E-posta adresi:">
 <!ENTITY emailLabel.accesskey "E">
 <!-- Entities for Incoming Server page -->
 
