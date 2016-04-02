@@ -120,7 +120,7 @@
 <!ENTITY addCurPagesCmd.label "Добавить все вкладки…">
 <!ENTITY showAllBookmarks2.label "Показать все закладки">
 <!ENTITY recentBookmarks.label "Недавно добавленные закладки">
-<!ENTITY unsortedBookmarksCmd.label "Неподшитые закладки">
+<!ENTITY otherBookmarksCmd.label "Другие закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backButton.tooltip "На предыдущую страницу">
@@ -162,7 +162,7 @@
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Закладки">
-<!ENTITY bookmarksMenuButton.unsorted.label "Неподшитые закладки">
+<!ENTITY bookmarksMenuButton.other.label "Другие закладки">
 <!ENTITY viewBookmarksSidebar2.label "Показать боковую панель закладок">
 <!ENTITY viewBookmarksToolbar.label "Показать панель закладок">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -182,50 +182,8 @@
 <!ENTITY addons.commandkey "A">
 <!ENTITY webDeveloperMenu.label "Веб-разработка">
 <!ENTITY webDeveloperMenu.accesskey "б">
-<!ENTITY devToolsCmd.keycode "VK_F12">
-<!ENTITY devToolsCmd.keytext "F12">
-<!ENTITY devtoolsServiceWorkers.label "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey "k">
-<!ENTITY devtoolsConnect.label "Соединиться…">
-<!ENTITY devtoolsConnect.accesskey "е">
-<!ENTITY errorConsoleCmd.label "Консоль ошибок">
-<!ENTITY errorConsoleCmd.accesskey "К">
-<!ENTITY remoteWebConsoleCmd.label "Удалённая веб-консоль">
-<!ENTITY browserConsoleCmd.label "Консоль браузера">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey "о">
 <!ENTITY inspectContextMenu.label "Исследовать элемент">
 <!ENTITY inspectContextMenu.accesskey "л">
-<!ENTITY responsiveDesignTool.label "Адаптивный дизайн">
-<!ENTITY responsiveDesignTool.accesskey "п">
-<!ENTITY responsiveDesignTool.commandkey "M">
-<!ENTITY eyedropper.label "Пипетка">
-<!ENTITY eyedropper.accesskey "и">
-<!ENTITY scratchpad.label "Простой редактор JavaScript">
-<!ENTITY scratchpad.accesskey "р">
-<!ENTITY scratchpad.keycode "VK_F4">
-<!ENTITY scratchpad.keytext "F4">
-<!ENTITY browserToolboxMenu.label "Инструменты браузера">
-<!ENTITY browserToolboxMenu.accesskey "н">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!ENTITY browserContentToolboxMenu.label "Инструменты содержимого браузера">
-<!ENTITY browserContentToolboxMenu.accesskey "ы">
-<!ENTITY devToolbarCloseButton.tooltiptext "Закрыть панель разработки">
-<!ENTITY devToolbarMenu.label "Панель разработки">
-<!ENTITY devToolbarMenu.accesskey "а">
-<!ENTITY webide.label "WebIDE">
-<!ENTITY webide.accesskey "W">
-<!ENTITY webide.keycode "VK_F8">
-<!ENTITY webide.keytext "F8">
-<!ENTITY devToolbar.keycode "VK_F2">
-<!ENTITY devToolbar.keytext "F2">
-<!ENTITY devToolboxMenuItem.label "Инструменты разработки">
-<!ENTITY devToolboxMenuItem.accesskey "м">
-<!ENTITY devToolboxMenuItem.keytext "I">
-<!ENTITY devToolbarToolsButton.tooltip "Показать/скрыть инструменты разработчика">
-<!ENTITY devToolbarOtherToolsButton.label "Другие инструменты">
-<!ENTITY getMoreDevtoolsCmd.label "Другие инструменты">
-<!ENTITY getMoreDevtoolsCmd.accesskey "у">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newUserContext.label "Новая вкладка в контейнере">

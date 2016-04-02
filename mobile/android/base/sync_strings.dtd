@@ -17,7 +17,7 @@
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Метки">
 <!ENTITY bookmarks.folder.toolbar.label "Панель закладок">
-<!ENTITY bookmarks.folder.unfiled.label "Неподшитые закладки">
+<!ENTITY bookmarks.folder.other.label "Другие закладки">
 <!ENTITY bookmarks.folder.desktop.label "Закладки десктопа">
 <!ENTITY bookmarks.folder.mobile.label "Мобильные закладки">
 <!ENTITY bookmarks.folder.pinned.label "Закреплённые">
