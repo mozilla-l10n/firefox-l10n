@@ -139,7 +139,7 @@
 <!ENTITY fxaccount_status_sync_server "เซิร์ฟเวอร์การผสาน">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ถูกเปิดใช้งาน">
-<!ENTITY fxaccount_status_needs_verification2 "จำเป็นต้องยืนยันบัญชีของคุณ แตะเพื่อส่งอีเมลยืนยันอีกครั้ง">
+<!ENTITY fxaccount_status_needs_verification2 "บัญชีของคุณจำเป็นต้องได้รับการยืนยัน แตะเพื่อส่งอีเมลยืนยันใหม่">
 <!ENTITY fxaccount_status_needs_credentials "ไม่สามารถเชื่อมต่อได้ แตะเพื่อเข้าสู่ระบบ">
 <!ENTITY fxaccount_status_needs_upgrade "คุณจำเป็นต้องปรับรุ่นของ &brandShortName; เพื่อเข้าสู่ระบบ">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “Auto-sync data” ในการตั้งค่า Android &gt; Data Usage">
@@ -185,13 +185,13 @@
 <!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "คุณจำเป็นต้องปรับรุ่น Firefox">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "มีบัญชีอยู่แล้ว &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "บัญชีมีอยู่แล้ว &formatS1;">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "อีเมลหรือรหัสผ่านไม่ถูกต้อง">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "อีเมลหรือรหัสผ่านไม่ถูกต้อง">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "บัญชีไม่ได้รับการยืนยัน">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "เซิร์ฟเวอร์กำลังทำงานหนัก รอสักพักแล้วลองใหม่">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "เซิร์ฟเวอร์กำลังทำงานหนัก รอสักพักแล้วลองใหม่">
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "พบปัญหา">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "เกิดปัญหา">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ไม่สามารถเชื่อมต่อกับเครือข่าย">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "บัญชีถูกล็อค &formatS1;">
 
