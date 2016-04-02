@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title2                     "Modili mottali">
-<!ENTITY aboutAddons.header2                    "Say modili mottali">
-<!ENTITY aboutAddons.options                    "Tànneef yi">
+<!ENTITY aboutAddons.title2                     "Yokkaan">
+<!ENTITY aboutAddons.header2                    "Say yokkaan">
+<!ENTITY aboutAddons.options                    "Tànneef">
 
-<!ENTITY addonAction.enable                     "Suqali">
-<!ENTITY addonAction.disable                    "Suuxal">
+<!ENTITY addonAction.enable                     "Doxal">
+<!ENTITY addonAction.disable                    "Doxadil">
 <!ENTITY addonAction.uninstall                  "Simpi">
 <!ENTITY addonAction.undo                       "Neenal">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName; manul settantal bii yokkaan.">
+<!ENTITY addonUnsigned.learnMore                "Yeneen xibaar">
