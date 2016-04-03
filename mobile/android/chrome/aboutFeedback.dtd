@@ -8,10 +8,10 @@
 
 <!ENTITY pageTitle                 "ข้อคิดเห็น &brandShortName;">
 
-<!ENTITY intro.header              "มีเวลาสักหน่อยไหม?">
-<!ENTITY intro.message             "บอกเราว่าคุณคิดยังไงกับ &brandShortName; สำหรับ Android บ้าง">
+<!ENTITY intro.header              "พอจะมีเวลาสักนาที?">
+<!ENTITY intro.message             "บอกเราว่าจนถึงตอนนี้คุณคิดอย่างไรเกี่ยวกับ &brandShortName; สำหรับ Android">
 <!ENTITY intro.happyLink           "ฉันรักสิ่งนี้">
-<!ENTITY intro.sadLink             "ฉันใช้งานแล้วเกิดปัญหา">
+<!ENTITY intro.sadLink             "ฉันพบปัญหาบางอย่าง">
 <!ENTITY intro.maybeLater          "ไว้ทีหลัง">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
