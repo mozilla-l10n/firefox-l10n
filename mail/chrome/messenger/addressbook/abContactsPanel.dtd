@@ -8,8 +8,8 @@
 
 <!ENTITY deleteAddrBookCard.label           "Dzēst">
 <!ENTITY deleteAddrBookCard.accesskey       "D">
-
-
+<!ENTITY addrBookCardProperties.label       "Īpašības">
+<!ENTITY addrBookCardProperties.accesskey   "p">
 
 
 
