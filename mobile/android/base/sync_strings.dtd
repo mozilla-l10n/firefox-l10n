@@ -189,8 +189,8 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "อีเมลหรือรหัสผ่านไม่ถูกต้อง">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "อีเมลหรือรหัสผ่านไม่ถูกต้อง">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "บัญชีไม่ได้รับการยืนยัน">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "เซิร์ฟเวอร์กำลังทำงานหนัก รอสักพักแล้วลองใหม่">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "เซิร์ฟเวอร์กำลังทำงานหนัก รอสักพักแล้วลองใหม่">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "เซิร์ฟเวอร์กำลังทำงานหนัก ลองอีกครั้งในเร็ว ๆ นี้">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "เซิร์ฟเวอร์กำลังทำงานหนัก ลองอีกครั้งในเร็ว ๆ นี้">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "เกิดปัญหา">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ไม่สามารถเชื่อมต่อกับเครือข่าย">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "บัญชีถูกล็อค &formatS1;">
