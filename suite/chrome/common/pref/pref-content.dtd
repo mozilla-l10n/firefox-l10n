@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
 <!ENTITY pref.content.title                     "Contenido">
@@ -9,6 +13,9 @@
 <!ENTITY useFavIcons.accesskey                  "a">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensionar las imágenes grandes para que quepan en la ventana del navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
+<!ENTITY scrolling.label                        "Desplazamiento">
+<!ENTITY useAutoScroll.label                    "Usar desplazamiento automático">
+<!ENTITY useAutoScroll.accesskey                "t">
 <!ENTITY useSmoothScroll.label                  "Usar desplazamiento suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
 <!ENTITY allowHWAccel.label                     "Usar aceleración gráfica cuando esté disponible">
