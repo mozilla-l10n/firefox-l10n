@@ -7,7 +7,7 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "類別">
+<!ENTITY pref.categories.add.title "新增類別">
 <!ENTITY pref.categories.addButton.label "新增…">
 <!ENTITY pref.categories.addButton.accesskey "A">
 <!ENTITY pref.categories.edit.title "編輯類別">

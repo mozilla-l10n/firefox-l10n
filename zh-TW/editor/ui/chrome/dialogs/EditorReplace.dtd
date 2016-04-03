@@ -15,7 +15,7 @@
 <!ENTITY wrapCheckbox.accesskey "W">
 <!ENTITY backwardsCheckbox.label "往回搜尋">
 <!ENTITY backwardsCheckbox.accesskey "b">
-<!ENTITY findNextButton.label "尋找下一個">
+<!ENTITY findNextButton.label "找下一個">
 <!ENTITY findNextButton.accesskey "F">
 <!ENTITY replaceButton.label "取代">
 <!ENTITY replaceButton.accesskey "R">

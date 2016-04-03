@@ -346,8 +346,8 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "暫定" >
 <!ENTITY event.freebusy.legend.busy_unavailable "忙碌中" >
 <!ENTITY event.freebusy.legend.unknown          "不明" >
-<!ENTITY event.attendee.role.required           "必須有與會者">
-<!ENTITY event.attendee.role.optional           "可選擇與會者">
+<!ENTITY event.attendee.role.required           "必須與會者">
+<!ENTITY event.attendee.role.optional           "非必要與會者">
 <!ENTITY event.attendee.role.chair              "主席">
 <!ENTITY event.attendee.role.nonparticipant     "非參加者">
 <!ENTITY event.attendee.usertype.individual     "個人">

@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "群組寄信">
+<!ENTITY mailListWindow.title           "郵件群組">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "新增到: ">
 
-<!ENTITY ListName.label                 "群組名單名稱: ">
-<!ENTITY ListNickName.label             "群組名單暱稱: ">
+<!ENTITY ListName.label                 "清單名稱:">
+<!ENTITY ListNickName.label             "群組暱稱: ">
 <!ENTITY ListDescription.label          "描述: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "輸入 Email 地址以加入群組信名單:">

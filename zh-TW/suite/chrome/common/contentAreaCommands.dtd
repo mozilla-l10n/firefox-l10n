@@ -36,7 +36,7 @@
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY reloadFrameCmd.label         "重新載入頁框">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "檢視選取範圍的原始碼">
+<!ENTITY viewPartialSourceForSelectionCmd.label "檢視選取範圍原始碼">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "檢視 MathML 原始碼">
 <!ENTITY viewPartialSourceCmd.accesskey "u">
 <!ENTITY viewPageSourceCmd.label      "檢視原始碼">
@@ -140,7 +140,7 @@ items are mutually exclusive. -->
 <!ENTITY spellAddToDictionary.accesskey "n">
 <!ENTITY spellUndoAddToDictionary.label      "還原新增到字典">
 <!ENTITY spellUndoAddToDictionary.accesskey  "i">
-<!ENTITY spellIgnoreWord.label          "忽略此字">
+<!ENTITY spellIgnoreWord.label          "忽略單字">
 <!ENTITY spellIgnoreWord.accesskey      "W">
 <!ENTITY spellCheckEnable.label         "檢查拼字">
 <!ENTITY spellCheckEnable.accesskey     "S">

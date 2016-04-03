@@ -29,7 +29,7 @@
 <!ENTITY hdrReplyAllButton1.label "回覆全部">
 <!ENTITY hdrReplyAllButton1.tooltip "回信給寄件者及所有收件者">
 <!ENTITY hdrReplyListButton1.label "回覆清單">
-<!ENTITY hdrReplyListButton1.tooltip "回覆到郵件論壇">
+<!ENTITY hdrReplyListButton1.tooltip "回覆到郵件群組">
 <!ENTITY hdrFollowupButton1.label "加入討論">
 <!ENTITY hdrFollowupButton1.tooltip "加入此郵件群組的討論">
 <!ENTITY hdrMenuForwardButton.label "轉寄為">

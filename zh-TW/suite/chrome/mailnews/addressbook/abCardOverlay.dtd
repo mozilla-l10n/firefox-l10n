@@ -48,7 +48,7 @@
 <!ENTITY ScreenName.label               "網路代號:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY WorkPhone.label                "公司電話:">
+<!ENTITY WorkPhone.label                "商務電話:">
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "住家電話:">
 <!ENTITY HomePhone.accesskey            "m">

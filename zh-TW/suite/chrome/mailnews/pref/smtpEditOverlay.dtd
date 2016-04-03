@@ -4,7 +4,7 @@
 
 <!ENTITY settings.caption "設定">
 <!ENTITY security.caption "安全與認證">
-<!ENTITY serverName.label "安全與認證">
+<!ENTITY serverName.label "伺服器名稱:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY serverDescription.label "說明:">
 <!ENTITY serverDescription.accesskey "D">

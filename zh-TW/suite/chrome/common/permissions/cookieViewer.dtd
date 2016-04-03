@@ -10,7 +10,7 @@
 <!ENTITY     treehead.cookiedomain.label    "網站">
 <!ENTITY     treehead.cookieexpires.label   "有效期限">
 <!ENTITY     treehead.infoselected.label    "關於已選取的 Cookie 的資訊:">
-<!ENTITY     button.removecookie.label      "移除 Cookie">
+<!ENTITY     button.removecookie.label      "刪除 Cookie">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "刪除全部 Cookie">
 <!ENTITY     button.removeallcookies.accesskey "e">

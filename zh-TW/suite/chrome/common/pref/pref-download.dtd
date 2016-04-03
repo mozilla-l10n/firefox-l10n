@@ -15,7 +15,7 @@
 <!ENTITY flashWhenOpen.accesskey        "f">
 
 <!ENTITY downloadLocation.label         "下載檔案存放設定">
-<!ENTITY saveTo.label                   "儲存全部檔案到">
+<!ENTITY saveTo.label                   "儲存檔案到">
 <!ENTITY saveTo.accesskey               "v">
 <!ENTITY chooseDownloadFolder.label     "選擇資料夾…">
 <!ENTITY chooseDownloadFolder.accesskey "C">

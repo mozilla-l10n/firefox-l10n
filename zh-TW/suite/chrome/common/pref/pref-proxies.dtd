@@ -12,7 +12,7 @@
 <!ENTITY  directTypeRadio.accesskey     "D">
 <!ENTITY  systemTypeRadio.label         "使用系統 Proxy 設定">
 <!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  manualTypeRadio.label         "手動設定 Proxy">
+<!ENTITY  manualTypeRadio.label         "手動設定 Proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  wpadTypeRadio.label           "自動偵測 Proxy 設定">
 <!ENTITY  wpadTypeRadio.accesskey       "A">
@@ -26,7 +26,7 @@
 <!ENTITY  HTTPPort.accesskey            "o">
 <!ENTITY  advanced.label                "進階…">
 <!ENTITY  advanced.accesskey            "v">
-<!ENTITY  noproxy.label                 "直接連線網域:">
+<!ENTITY  noproxy.label                 "直接連線:">
 <!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "範例:.mozilla.org (注意前面有加點)">
+<!ENTITY  noproxyExplain.label          "範例: .mozilla.org, .net.tw, 192.168.1.0/24">
 

@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "郵件安全">
-<!ENTITY subject.plaintextWarning "請注意: 郵件的標題不會被編碼。">
+<!ENTITY subject.plaintextWarning "請注意: 郵件的主旨不會被加密。">
 <!ENTITY status.heading "您的訊息內容將以下列方式寄送:">
 <!ENTITY status.signed "數位簽署:">
 <!ENTITY status.encrypted "已編碼:">
