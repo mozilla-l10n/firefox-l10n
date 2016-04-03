@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre3              "เยี่ยมชม ">
-<!ENTITY support.link2             "เว็บสนับสนุน">
-<!ENTITY support.post3             " ของเราเพื่อรับคำตอบสำหรับปัญหาที่พบบ่อย">
+<!ENTITY support.pre3              "เยี่ยมชม ">
+<!ENTITY support.link2             "ไซต์สนับสนุน">
+<!ENTITY support.post3             " ของเราเพื่อรับคำตอบสำหรับปัญหาที่พบบ่อย">
 
 <!ENTITY happy.header              "เยี่ยมมากที่ได้ยินอย่างนั้น!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -31,14 +31,14 @@
 
 <!ENTITY happy.finePrint           "ใช้เวลาไม่ถึงนาทีแต่รู้สึกดีมากกว่า">
 
-<!ENTITY happy.ratingLink          "ได้เลย ไปที่ Google Play">
+<!ENTITY happy.ratingLink          "ใช่ ไปที่ Google Play">
 <!ENTITY happy.maybeLater2         "ไว้ทีหลัง">
 <!ENTITY happy.noThanks            "ไม่ ขอบคุณ">
 
 <!ENTITY sad.header                "โอ้ ไม่!">
 <!ENTITY sad.message               "เราเสียใจที่คุณพบปัญหากับ &brandShortName; ช่วยบอกเราว่าเกิดอะไรขึ้นเพื่อที่เราจะได้แก้ไข">
 <!ENTITY sad.placeholder           "ป้อนข้อคิดเห็นของคุณที่นี่">
-<!ENTITY sad.lastSite2             "รวมเว็บไซต์ที่เข้าชมล่าสุด">
+<!ENTITY sad.lastSite2             "รวมไซต์ที่เยี่ยมชมล่าสุด">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">

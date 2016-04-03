@@ -11,8 +11,8 @@
 <!ENTITY sync.title.connect.label "เชื่อมต่อกับ &syncBrand.shortName.label;">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "เปิดใช้งานอุปกรณ์ใหม่ของคุณโดยเลือก “ตั้งค่า &syncBrand.shortName.label;” จากอุปกรณ์นั้น">
-<!ENTITY sync.subtitle.pair.label "เปิดใช้งาน โดยเลือก “เชื่อมโยงอุปกรณ์” จากอุปกรณ์อื่นของคุณ">
+<!ENTITY sync.subtitle.connect.label "เพื่อเปิดใช้งานอุปกรณ์ใหม่ของคุณ เลือก “ตั้งค่า &syncBrand.shortName.label;” บนอุปกรณ์นั้น">
+<!ENTITY sync.subtitle.pair.label "เพื่อเปิดใช้งาน เลือก “จับคู่อุปกรณ์” บนอุปกรณ์อื่นของคุณ">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "ฉันไม่มีอุปกรณ์อยู่กับตัว…">
 <!-- Configure Engines -->
@@ -76,8 +76,8 @@
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "ยินดีต้อนรับสู่ &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "เข้าสู่ระบบเพื่อผสานแท็บ ที่คั่นหน้า การเข้าสู่ระบบ และอื่น ๆ ของคุณ">
-<!ENTITY fxaccount_getting_started_get_started "เริ่มต้น">
-<!ENTITY fxaccount_getting_started_old_firefox "ใช้งาน &syncBrand.shortName.label; รุ่นเก่าอยู่?">
+<!ENTITY fxaccount_getting_started_get_started "เริ่มต้นใช้งาน">
+<!ENTITY fxaccount_getting_started_old_firefox "กำลังใช้งานรุ่นเก่ากว่าของ &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
@@ -101,12 +101,12 @@
 
 <!ENTITY fxaccount_confirm_account_header "ยืนยันบัญชีของคุณ">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "ส่งลิงก์สำหรับยืนยันไปที่ &formatS; แล้ว">
-<!ENTITY fxaccount_confirm_account_resend_email "ส่งอีเมลยืนยันอีกครั้ง">
-<!ENTITY fxaccount_confirm_account_change_email "ลืมที่อยู่อีเมล?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "ส่งอีเมลยืนยันแล้ว">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ไม่สามารถส่งอีเมลยืนยันได้">
-<!ENTITY fxaccount_resend_unlock_code_button_label "ส่งอีเมลปลดล็อคใหม่">
+<!ENTITY fxaccount_confirm_account_verification_link "ส่งลิงก์สำหรับยืนยันตัวตนไปที่ &formatS; แล้ว">
+<!ENTITY fxaccount_confirm_account_resend_email "ส่งอีเมลใหม่">
+<!ENTITY fxaccount_confirm_account_change_email "ลืมที่อยู่อีเมลนี้?">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "ส่งอีเมลสำหรับยืนยันตัวตนแล้ว">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ไม่สามารถส่งอีเมลสำหรับยืนยันตัวตน">
+<!ENTITY fxaccount_resend_unlock_code_button_label "ส่งอีเมลสำหรับปลดล็อคใหม่">
 <!ENTITY fxaccount_unlock_code_sent "ส่งอีเมลสำหรับปลดล็อคบัญชีแล้ว">
 <!ENTITY fxaccount_unlock_code_not_sent "ไม่สามารถส่งอีเมลสำหรับปลดล็อคบัญชี">
 
@@ -139,9 +139,9 @@
 <!ENTITY fxaccount_status_sync_server "เซิร์ฟเวอร์การผสาน">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ถูกเปิดใช้งาน">
-<!ENTITY fxaccount_status_needs_verification2 "บัญชีของคุณจำเป็นต้องได้รับการยืนยัน แตะเพื่อส่งอีเมลยืนยันใหม่">
-<!ENTITY fxaccount_status_needs_credentials "ไม่สามารถเชื่อมต่อได้ แตะเพื่อเข้าสู่ระบบ">
-<!ENTITY fxaccount_status_needs_upgrade "คุณจำเป็นต้องปรับรุ่นของ &brandShortName; เพื่อเข้าสู่ระบบ">
+<!ENTITY fxaccount_status_needs_verification2 "บัญชีของคุณจำเป็นต้องได้รับการยืนยัน แตะเพื่อส่งอีเมลสำหรับยืนยันตัวตนใหม่">
+<!ENTITY fxaccount_status_needs_credentials "ไม่สามารถเชื่อมต่อ แตะเพื่อเข้าสู่ระบบ">
+<!ENTITY fxaccount_status_needs_upgrade "คุณจำเป็นต้องปรับรุ่น &brandShortName; เพื่อเข้าสู่ระบบ">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ในการตั้งค่า Android &gt; การใช้งานอินเทอร์เน็ต">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ในเมนูการตั้งค่า Android &gt; บัญชี">
 <!ENTITY fxaccount_status_needs_finish_migrating "แตะเพื่อเข้าสู่ระบบบัญชี Firefox ใหม่ของคุณ">
