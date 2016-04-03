@@ -10,8 +10,11 @@
 
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 
-
+<!ENTITY directoriesNone.label     "Nekas">
 <!-- am-addressing.xul -->
+
+
+<!ENTITY compositionGroupTitle.label          "Kompozīcija">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 
 
