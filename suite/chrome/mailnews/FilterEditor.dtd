@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "篩選器(Filter)規則">
+<!ENTITY window.title "篩選條件規則">
 <!ENTITY filterEditorDialog.dimensions "width: 105ch;">
-<!ENTITY filterName.label "篩選器(Filter)名稱:">
+<!ENTITY filterName.label "篩選條件名稱:">
 <!ENTITY filterName.accesskey "i">
 
 <!ENTITY recentFolders.label "最近">
@@ -30,7 +30,7 @@
 <!ENTITY contextArchive.label "備存中">
 <!ENTITY contextArchive.accesskey "A">
 
-<!ENTITY filterActionDesc.label "執行以下動作:">
+<!ENTITY filterActionDesc.label "執行下列動作:">
 <!ENTITY filterActionDesc.accesskey "P">
 
 <!ENTITY filterActionOrderWarning.label "註: 篩選條件將以不同的順序執行。">

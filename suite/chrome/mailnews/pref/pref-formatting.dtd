@@ -28,7 +28,7 @@
 <!ENTITY DeletePlainText.accesskey    "t">
 
 <!-- Add Domain Name -->
-<!ENTITY add.htmltitle                "增加 HTML 網域名稱">
+<!ENTITY add.htmltitle                "新增使用 HTML 格式網域">
 <!ENTITY add.htmldomain               "HTML 網域名稱:">
 <!ENTITY add.plaintexttitle           "增加純文字網域名稱">
 <!ENTITY add.plaintextdomain          "純文字網域名稱:">

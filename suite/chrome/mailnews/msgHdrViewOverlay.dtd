@@ -17,7 +17,7 @@
 
 <!ENTITY tagsHdr.label "標籤: ">
 <!ENTITY dateField.label "日期: ">
-<!ENTITY userAgentField.label "使用者代理字串: ">
+<!ENTITY userAgentField.label "使用者代理程式:">
 <!ENTITY referencesField.label "參考資料: ">
 <!ENTITY messageIdField.label "郵件 ID: ">
 <!ENTITY inReplyToField.label "回覆給: ">

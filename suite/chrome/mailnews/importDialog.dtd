@@ -36,7 +36,7 @@
 <!ENTITY finish.label             "結束">
 <!ENTITY cancel.label             "取消">
 
-<!ENTITY select.label             "選擇要匯入資料的類別:">
+<!ENTITY select.label             "選擇要匯入的資料類型:">
 
 <!ENTITY title.label              "標題">
 <!ENTITY processing.label         "匯入中…">

@@ -13,7 +13,7 @@
 <!ENTITY  typefaces.label                         "字體">
 <!ENTITY  sizes.label                             "大小 (像素)">
 
-<!ENTITY  proportional.label                      "不等寬字型:">
+<!ENTITY  proportional.label                      "比例字型:">
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "襯線字型:">

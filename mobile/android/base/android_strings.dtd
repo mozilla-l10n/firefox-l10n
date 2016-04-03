@@ -233,7 +233,7 @@
 <!ENTITY pref_show_web_fonts "顯示網路字體">
 
 <!ENTITY pref_tracking_protection_title "追蹤保護">
-<!ENTITY pref_tracking_protection_summary3 "在隱私瀏覽中打開">
+<!ENTITY pref_tracking_protection_summary3 "在隱私瀏覽模式中使用">
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; 將會告訴網站您不想被追蹤">
 

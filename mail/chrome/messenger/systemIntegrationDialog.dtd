@@ -17,6 +17,6 @@
 <!ENTITY checkOnStartup.label "每次啟動 &brandShortName; 時都重新檢查">
 <!ENTITY checkOnStartup.accesskey "a">
 
-<!ENTITY searchIntegration.label "允許 &searchIntegration.engineName; 搜尋郵件">
+<!ENTITY searchIntegration.label "允許 &searchIntegration.engineName; 搜尋訊息">
 <!ENTITY searchIntegration.accesskey "s">
 

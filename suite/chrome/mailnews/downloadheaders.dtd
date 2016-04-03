@@ -14,7 +14,7 @@
 <!ENTITY download.label     "下載">
 <!ENTITY download.accesskey "o">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label      "份郵件資訊">
+<!ENTITY headers.label      "封郵件資訊">
 <!ENTITY headers.accesskey  "h">
 <!ENTITY mark.label         "把剩下的郵件標示為已讀">
 <!ENTITY mark.accesskey     "M">

@@ -15,10 +15,10 @@
 <!ENTITY newAcctLink.label            "新增帳號"> 
 
 <!ENTITY advFeaturesSectionHdr.label  "進階功能"> 
-<!ENTITY searchMsgsLink.label         "搜尋郵件"> 
-<!ENTITY filtersLink.label            "管理郵件篩選器(Filter)">
+<!ENTITY searchMsgsLink.label         "搜尋訊息"> 
+<!ENTITY filtersLink.label            "管理篩選條件">
 <!ENTITY junkSettings.label           "垃圾郵件設定">
-<!ENTITY offlineLink.label            "離線設定">
+<!ENTITY offlineLink.label            "離線模式設定">
 
 <!ENTITY feedsSectionHdr.label        "消息來源">
 <!ENTITY subscribeFeeds.label         "管理訂閱">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "搜尋郵件:">
+<!ENTITY searchHeading.label         "搜尋訊息於:">
 <!ENTITY searchHeading.accesskey     "e">
 <!ENTITY searchSubfolders.label      "搜尋子資料夾">
 <!ENTITY searchSubfolders.accesskey  "u">
@@ -17,7 +17,7 @@
 <!ENTITY openButton.accesskey        "O">
 <!ENTITY deleteButton.label          "刪除">
 <!ENTITY deleteButton.accesskey      "D">
-<!ENTITY searchDialogTitle.label     "搜尋郵件">
+<!ENTITY searchDialogTitle.label     "搜尋訊息">
 <!ENTITY results.label               "結果">
 <!ENTITY moveHereMenu.label          "移動至此">
 <!ENTITY moveHereMenu.accesskey      "H">

@@ -4,7 +4,7 @@
 
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewListTitle.label "自訂郵件檢視">
+<!ENTITY mailViewListTitle.label "自訂訊息畫面">
 <!ENTITY viewName.label "檢視名稱">
 
 

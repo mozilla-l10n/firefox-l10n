@@ -47,7 +47,7 @@
 <!ENTITY sendNowCmd.label "立刻寄出">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
-<!ENTITY sendLaterCmd.label "稍後再寄">
+<!ENTITY sendLaterCmd.label "稍候再寄">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
 <!ENTITY printSetupCmd.label "頁面設定…">
@@ -135,7 +135,7 @@
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "即時拼字檢查">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY quoteCmd.label "引入前封郵件">
+<!ENTITY quoteCmd.label "引用前封訊息">
 <!ENTITY quoteCmd.accesskey "Q">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
@@ -209,14 +209,14 @@
 <!ENTITY printButton.label "列印">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "立刻寄出此封郵件">
+<!ENTITY sendButton.tooltip "立刻寄出此訊息">
 <!ENTITY sendlaterButton.tooltip "稍後再寄出此封郵件">
 <!ENTITY quoteButton.tooltip "引入前封郵件的文字">
 <!ENTITY addressButton.tooltip "從通訊錄裡選擇收件者">
-<!ENTITY attachButton.tooltip "附加檔案到郵件中">
+<!ENTITY attachButton.tooltip "附加檔案">
 <!ENTITY spellingButton.tooltip "對郵件的全部或反白部分檢查拼字">
 <!ENTITY statusLanguageText.tooltip "拼字檢查語言">
-<!ENTITY saveButton.tooltip "儲存這封郵件">
+<!ENTITY saveButton.tooltip "儲存此訊息">
 <!ENTITY cutButton.tooltip              "剪下">
 <!ENTITY copyButton.tooltip             "複製">
 <!ENTITY pasteButton.tooltip            "貼上">

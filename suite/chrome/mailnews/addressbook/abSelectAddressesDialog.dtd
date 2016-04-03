@@ -18,7 +18,7 @@
 <!ENTITY editButton.accesskey                "E">
 <!ENTITY removeButton.label                  "移除"> 
 <!ENTITY removeButton.accesskey              "R"> 
-<!ENTITY lookIn.label                        "找尋:"> 
+<!ENTITY lookIn.label                        "尋找:"> 
 <!ENTITY lookIn.accesskey                    "L"> 
 <!ENTITY for.label                           ":"> 
 <!ENTITY for.accesskey                       "f"> 

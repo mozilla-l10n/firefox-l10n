@@ -62,7 +62,7 @@
 <!ENTITY optionsMenu.label "選項">
 <!ENTITY optionsMenu.accesskey "p">
 
-<!ENTITY quoteCmd.label "引入郵件文字">
+<!ENTITY quoteCmd.label "引用前封訊息">
 <!ENTITY quoteCmd.accesskey "Q">
 <!ENTITY selectAddressCmd.label "選擇地址…">
 <!ENTITY selectAddressCmd.key "">
@@ -81,7 +81,7 @@
 <!ENTITY highestPriorityCmd.label "最高">
 <!ENTITY highestPriorityCmd.accesskey "H">
 
-<!ENTITY returnReceiptMenu.label "收件回執(Return Receipt)">
+<!ENTITY returnReceiptMenu.label "收件回執">
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "遞送狀態通知">
 <!ENTITY dsnMenu.accesskey "N">
@@ -94,10 +94,10 @@
 <!ENTITY plainTextFormatCmd.accesskey "P">
 <!ENTITY htmlFormatCmd.label "只有 HTML">
 <!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "純文字及HTML">
+<!ENTITY bothFormatCmd.label "純文字及 HTML">
 <!ENTITY bothFormatCmd.accesskey "L">
 
-<!ENTITY fileCarbonCopyCmd.label "寄送副本">
+<!ENTITY fileCarbonCopyCmd.label "寄送副本到">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
 <!ENTITY fileHereMenu.label "歸檔至此">
 
@@ -114,11 +114,11 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "通訊錄列">
 <!ENTITY formatToolbar.tooltip "格式化工具列">
-<!ENTITY sendButton.tooltip "立刻寄出"> 
+<!ENTITY sendButton.tooltip "立刻寄出此訊息"> 
 <!ENTITY sendlaterButton.tooltip "稍後再寄出此封郵件"> 
 <!ENTITY addressButton.tooltip "從通訊錄裡選擇收件者"> 
-<!ENTITY attachButton.tooltip "附加夾檔"> 
-<!ENTITY saveButton.tooltip "儲存這份郵件"> 
+<!ENTITY attachButton.tooltip "附加檔案"> 
+<!ENTITY saveButton.tooltip "儲存此訊息"> 
 <!ENTITY stopButton.tooltip "停止傳送"> 
 
 <!-- context menu items -->

@@ -5,9 +5,9 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label            "發佈頁面">
 <!ENTITY windowTitleSettings.label    "發佈設定">
-<!ENTITY publishTab.label             "發表">
+<!ENTITY publishTab.label             "發佈">
 <!ENTITY settingsTab.label            "設定">
-<!ENTITY publishButton.label          "發表">
+<!ENTITY publishButton.label          "發佈">
 
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "網站名稱:">

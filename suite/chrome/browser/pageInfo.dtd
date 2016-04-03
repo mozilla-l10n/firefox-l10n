@@ -28,9 +28,9 @@
 <!ENTITY  generalType           "類型:">
 <!ENTITY  generalMode           "繪製模式:">
 <!ENTITY  generalSize           "大小:">
-<!ENTITY  generalReferrer       "參考網址:">
-<!ENTITY  generalSource         "來源:">
-<!ENTITY  generalModified       "最後修改:">
+<!ENTITY  generalReferrer       "參照網址:">
+<!ENTITY  generalSource         "快取來源:">
+<!ENTITY  generalModified       "上次修改:">
 <!ENTITY  generalEncoding2      "文字編碼:">
 <!ENTITY  generalMetaName       "名稱">
 <!ENTITY  generalMetaContent    "內容">
@@ -62,20 +62,20 @@
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaURL              "網址:">
 <!ENTITY  mediaAlt              "替代文字:">
-<!ENTITY  mediaAltHeader        "對應文字">
+<!ENTITY  mediaAltHeader        "替代文字">
 <!ENTITY  mediaAddress          "位置">
 <!ENTITY  mediaType             "類型">
 <!ENTITY  mediaSize             "大小">
-<!ENTITY  mediaCount            "計數">
+<!ENTITY  mediaCount            "數量">
 <!ENTITY  mediaDimensions       "尺寸:">
 <!ENTITY  mediaPhysDimensions   "真實大小:">
 <!ENTITY  mediaTitle            "標題:">
-<!ENTITY  mediaLongdesc         "完整敘述屬性:">
+<!ENTITY  mediaLongdesc         "完整描述:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "另存新檔…">
 <!ENTITY  mediaSaveAs.accesskey "a">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "媒體預覽">
+<!ENTITY  mediaPreview          "媒體預覽:">
 
 <!ENTITY  feedTab               "消息來源">
 <!ENTITY  feedTab.accesskey     "F">
@@ -108,7 +108,7 @@
 <!ENTITY  securityView.identity.header   "網站身分">
 <!ENTITY  securityView.identity.owner    "Owner: ">
 <!ENTITY  securityView.identity.domain   "網站:">
-<!ENTITY  securityView.identity.verifier "Verified by: ">
+<!ENTITY  securityView.identity.verifier "驗證機構:">
 
 <!ENTITY  securityView.privacy.header                   "隱私及歷史記錄">
 <!ENTITY  securityView.privacy.history                  "我以前瀏覽過這個網站嗎？">

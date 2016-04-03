@@ -537,7 +537,7 @@
 <!ENTITY newMsgButton.tooltip "建立新郵件">
 <!ENTITY replyButton.tooltip "回覆此信">
 <!ENTITY replyAllButton.tooltip "回信給寄件者及所有收件者">
-<!ENTITY replyListButton.tooltip "回覆到郵件論壇">
+<!ENTITY replyListButton.tooltip "回覆到郵件群組">
 <!ENTITY forwardButton.tooltip "轉寄選取郵件">
 <!ENTITY forwardAsInline.tooltip "將所選的文字作為行內文字轉寄">
 <!ENTITY forwardAsAttachment.tooltip "將所選的訊息作為附件轉寄">
@@ -645,7 +645,7 @@
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "搜尋郵件…">
+<!ENTITY glodaSearchBar.placeholder "搜尋訊息…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "主旨">

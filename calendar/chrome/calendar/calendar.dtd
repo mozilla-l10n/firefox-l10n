@@ -98,7 +98,7 @@
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
 <!ENTITY calendar.displaytodos.checkbox.label   "在行事曆中顯示工作" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "k" >
-<!ENTITY calendar.completedtasks.checkbox.label     "顯示完成的工作" >
+<!ENTITY calendar.completedtasks.checkbox.label     "顯示已完成的工作" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
 <!ENTITY calendar.orientation.label "旋轉視野" >

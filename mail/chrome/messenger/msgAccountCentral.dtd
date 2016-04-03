@@ -22,7 +22,7 @@
 <!ENTITY newAcct.label                "建立新帳號:">
 
 <!ENTITY advFeaturesSectionHdr.label  "進階功能">
-<!ENTITY searchMsgsLink.label         "搜尋郵件">
+<!ENTITY searchMsgsLink.label         "搜尋訊息">
 <!ENTITY filtersLink.label            "管理篩選條件">
 <!ENTITY junkSettings.label           "垃圾郵件設定">
 <!ENTITY offlineLink.label            "離線模式設定">
