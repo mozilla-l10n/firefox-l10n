@@ -7,7 +7,7 @@
 <!ENTITY setPassword.tokenName.label "Rokisab'al chajinïk">
 <!ENTITY setPassword.oldPassword.label "Ewan tzij wakami:">
 <!ENTITY setPassword.newPassword.label "K'ak'a' ewan tzij:">
-<!ENTITY setPassword.reenterPassword.label "K'ak'a' ewan tzij (Tijikib'äx):">
+<!ENTITY setPassword.reenterPassword.label "K'ak'a' ewan tzij (tijikib'äx):">
 <!ENTITY setPassword.meter.label "Retanel rutzil ri ewan tzij">
 <!-- Values for resetpassword.xul -->
 
@@ -17,7 +17,7 @@
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Tajin niqasäx ri ruwujil rub'i'">
-<!ENTITY downloadCert.message1 "Nik'utüx chawe chi ütz tatz'eta' ri k'ak'a' Taq'onel Ya'öl Wujil B'i'aj (TYWB').">
+<!ENTITY downloadCert.message1 "Nik'utüx chawe chi ütz tatz'eta' ri k'ak'a' Taq'onel Ya'öl Wujil B'i'aj (CA).">
 <!ENTITY downloadCert.trustSSL "Takuqub'a' ak'u'x rik'in re CA richin ye'atz'ët ajk'amaya'l taq ruxaq k'amaya'l.">
 <!ENTITY downloadCert.trustEmail "Tijikib'äx pa re jun CA richin niya' ketal taq ruwinaq taqoya'l.">
 <!ENTITY downloadCert.trustObjSign "Takuqub'a' ak'u'x rik'in ri CA richin ye'atz'ët taq ajb'anöy kema'.">

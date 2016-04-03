@@ -22,14 +22,14 @@
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "T">
 
 <!ENTITY certmgr.pending.label                "Tajin ninik'öx wakami ri ruwujil b'i'aj…">
-<!ENTITY certmgr.subjectinfo.label            "Elesan richin:">
-<!ENTITY certmgr.issuerinfo.label             "Elesan ruma:">
+<!ENTITY certmgr.subjectinfo.label            "Elesan richin">
+<!ENTITY certmgr.issuerinfo.label             "Elesan ruma">
 <!ENTITY certmgr.periodofvalidity.label       "Ruq'ijul ruk'aslem" >
 <!ENTITY certmgr.fingerprints.label           "Retal taq ruwi' q'ab'aj">
 <!ENTITY certmgr.certdetail.title             "Rub'anikil ruwujil b'i'aj">
-<!ENTITY certmgr.certdetail.cn                "Relik b'i'aj (RB')">
+<!ENTITY certmgr.certdetail.cn                "Relik b'i'aj (CN)">
 <!ENTITY certmgr.certdetail.o                 "Moloj (MO)">
-<!ENTITY certmgr.certdetail.ou                "Ruq'a' moloj (Q'AMO)">
+<!ENTITY certmgr.certdetail.ou                "Ruq'a' moloj (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Rucholajem rajilab'al">
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 Retal ruwi' q'ab'aj">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 Retal ruwi' q'ab'aj">
