@@ -31,7 +31,6 @@
 <!ENTITY retentionKeepRecent.label "Borrar todos excepto los más recientes">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Siempre borrar los mensajes leídos (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "Siempre mantener los mensajes destacados">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

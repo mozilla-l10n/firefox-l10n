@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Los más nuevos">
 <!ENTITY retentionKeepRecent.accesskey "n">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Siempre eliminar los mensajes leídos (invalida configuraciones de tiempo)">
 <!ENTITY retentionApplyToFlagged.label "Siempre mantener los mensajes destacados">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage '¿Borrar todo el historial de búsqueda para este dispositivo?'>
 <!ENTITY pref_clearHistory_title 'Borrar historial de búsqueda'>
 
-<!ENTITY pref_searchProvider_title 'Buscador'>
-
 <!ENTITY search_widget_button_label 'Buscar'>
 
 <!ENTITY network_error_title 'No hay conexión a internet'>
