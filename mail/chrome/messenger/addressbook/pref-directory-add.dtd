@@ -9,12 +9,15 @@
 
 
 
+<!ENTITY directorySecure.label             "Lietot drošo savienojumu (SSL)">
+<!ENTITY directorySecure.accesskey         "L">
 
 
-
-
-
+<!ENTITY General.tab                       "Vispārīgi">
 <!ENTITY Offline.tab                       "Nesaistē">
+<!ENTITY Advanced.tab                      "Paplašināti">
+<!ENTITY portNumber.label                  "Porta numurs: ">
+<!ENTITY portNumber.accesskey              "P">
 
 
 
@@ -25,10 +28,7 @@
 
 
 
-
-
-
-
+<!ENTITY results.label                     "rezultāti">
 
 
 
@@ -40,3 +40,5 @@
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
+
+<!ENTITY newDirectoryWidth                 "36em">
