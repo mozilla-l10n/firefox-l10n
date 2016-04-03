@@ -625,11 +625,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "ไม่สามารถล้างข้อมูลส่วนตัวบางอย่างได้">
 
 <!ENTITY bookmarkhistory_button_import "นำเข้า">
-<!ENTITY bookmarkhistory_import_both "กำลังนำเข้าที่คั่นหน้าและประวัติ 
+<!ENTITY bookmarkhistory_import_both "กำลังนำเข้าที่คั่นหน้าและประวัติ
 จาก Android">
-<!ENTITY bookmarkhistory_import_bookmarks "กำลังนำเข้าที่คั่นหน้า 
+<!ENTITY bookmarkhistory_import_bookmarks "กำลังนำเข้าที่คั่นหน้า
 จาก Android">
-<!ENTITY bookmarkhistory_import_history "กำลังนำเข้าประวัติ 
+<!ENTITY bookmarkhistory_import_history "กำลังนำเข้าประวัติ
 จาก Android">
 <!ENTITY bookmarkhistory_import_wait "โปรดรอ…">
 
