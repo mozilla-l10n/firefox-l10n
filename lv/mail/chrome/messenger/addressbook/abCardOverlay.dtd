@@ -62,10 +62,10 @@
 <!ENTITY HomeAddress2.accesskey         "">
 
 
-
-
-
-
+<!ENTITY HomeState.label                "Štats/province:">
+<!ENTITY HomeState.accesskey            "t">
+<!ENTITY HomeZipCode.label              "Indekss/pasta kods:">
+<!ENTITY HomeZipCode.accesskey          "I">
 
 
 
@@ -73,24 +73,27 @@
 
 
 <!ENTITY In.label                       "">
-
-
-
+<!ENTITY Year.placeholder               "Gads">
+<!ENTITY Or.value                       "vai">
+<!ENTITY Age.placeholder                "Vecums">
 <!ENTITY YearsOld.label                 "">
 
+<!ENTITY Work.tab                       "Darbs">
 
 
 
 
 
-
-
-
-
+<!ENTITY Company.label                  "Organizācija:">
+<!ENTITY Company.accesskey              "n">
+<!ENTITY WorkAddress.label              "Adrese:">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 
 
+<!ENTITY WorkState.label                "Štats/province:">
+<!ENTITY WorkState.accesskey            "t">
 
 
 
@@ -99,44 +102,43 @@
 
 
 
+<!ENTITY Custom1.label                  "Pielāgots 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Pielāgots 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Pielāgots 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Pielāgots 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Piezīmes:">
+<!ENTITY Notes.accesskey                "m">
+
+<!ENTITY Chat.tab                       "Tērzēšana">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC segvārds:">
+<!ENTITY IRC.accesskey                  "R">
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY DefaultPhoto.label             "Noklusētais">
 
 
 <!ENTITY BrowsePhoto.label              "Pārlūkot">

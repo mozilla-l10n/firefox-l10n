@@ -50,19 +50,19 @@
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "t">
 <!ENTITY cutCmd.label                                   "Izgriezt">
-
+<!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "t">
 <!ENTITY copyCmd.label                                  "Kopēt">
-
+<!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "K">
 <!ENTITY pasteCmd.label                                 "Ielīmēt">
-
+<!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "I">
 <!ENTITY deleteCmd.label                                "Dzēst">
 <!ENTITY deleteCmd.accesskey                            "D">
-
-
-
+<!ENTITY deleteAbCmd.label                              "Dzēst adrešu grāmatu">
+<!ENTITY deleteContactCmd.label                         "Dzēst kontaktu">
+<!ENTITY deleteContactsCmd.label                        "Dzēst kontaktus">
 <!ENTITY deleteListCmd.label                            "Dzēst sarakstu">
 <!ENTITY deleteListsCmd.label                           "Dzēst sarakstus">
 <!ENTITY deleteItemsCmd.label                           "Dzēst vienumus">
@@ -92,8 +92,8 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 
 
-
-
+<!ENTITY layoutMenu.label                               "Izkārtojums">
+<!ENTITY layoutMenu.accesskey                           "I">
 
 
 
@@ -117,10 +117,10 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.commandkey                        "1">
 
 
-
-
-
-
+<!ENTITY importCmd.label                                "Importēt…">
+<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "Eksportēt...">
+<!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd2.label                          "Iestatījumi">
 <!ENTITY preferencesCmd2.accesskey                      "I">
 <!ENTITY preferencesCmdUnix.label                       "Iestatījumi">
@@ -129,14 +129,14 @@ because displayed names don't have the comma in between. -->
 
 
 
+<!ENTITY editButton2.label                              "Īpašības">
+<!ENTITY editButton2.accesskey                          "p">
 
 
 
 
-
-
-
-
+<!ENTITY printButton.label                              "Drukāt…">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "Dzēst">
 <!ENTITY deleteButton2.accesskey                        "D">
 <!-- Address Book Toolbar Tooltips -->
@@ -153,7 +153,7 @@ because displayed names don't have the comma in between. -->
 <!-- Search Bar -->
 
 
-
+<!ENTITY quickSearchCmd.key                             "k">
 
 <!-- Results Pane -->
 
@@ -165,6 +165,8 @@ because displayed names don't have the comma in between. -->
 
 
 
+<!ENTITY Company.label                                  "Organizācija">
+<!ENTITY Company.accesskey                              "z">
 
 
 
@@ -173,14 +175,12 @@ because displayed names don't have the comma in between. -->
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY CellularNumber.label                           "Mobilais">
+<!ENTITY CellularNumber.accesskey                       "M">
+<!ENTITY PagerNumber.label                              "Peidžers">
+<!ENTITY PagerNumber.accesskey                          "P">
+<!ENTITY FaxNumber.label                                "Fakss">
+<!ENTITY FaxNumber.accesskey                            "F">
 
 
 
@@ -195,13 +195,14 @@ because displayed names don't have the comma in between. -->
 <!-- Box Headings -->
 
 <!ENTITY contact.heading                                "Kontakts">
-
-
-
-
-
+<!ENTITY home.heading                                   "Mājas">
+<!ENTITY other.heading                                  "Cits">
+<!ENTITY chat.heading                                   "Tērzēšana">
+<!ENTITY phone.heading                                  "Tālrunis">
+<!ENTITY work.heading                                   "Darbs">
 <!-- Special Box Headings, for mailing lists -->
-
+<!ENTITY description.heading                            "Apraksts">
+<!ENTITY addresses.heading                              "Adreses">
 <!-- For Map It! -->
 
 <!-- Status Bar -->
@@ -209,6 +210,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
-
-
-
+<!ENTITY windowMenu.label                               "Logs">
+<!ENTITY minimizeWindow.label                           "Minimizēt">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Nest visu uz priekšplānu">
+<!ENTITY zoomWindow.label                               "Tālummaiņa">
