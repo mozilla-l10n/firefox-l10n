@@ -759,8 +759,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "Dette gjelder blant annet import av bokmerker, gjenopprette faner og automatiske oppdateringer. Skru av for forenklede innstillinger som passer til hvilket som helst familiemedlem.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera og mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Tillater familiemedlemmer å delta i realtidskommunikasjon på nettsteder.">
-<!ENTITY restrictable_feature_data_choices "Datavalg">
-<!ENTITY restrictable_feature_data_choices_description "Velg om bruksinformasjon skal sendes til Mozilla for å hjelpe til å gjøre Firefox bedre.">
+<!ENTITY restrictable_feature_block_list "Blokkeringsliste">
+<!ENTITY restrictable_feature_block_list_description "Blokker nettsted som inneholder sensitivt innhold.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
