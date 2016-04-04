@@ -75,7 +75,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'Obvestilo o zasebnosti'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Pozdravljeni v &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'Prijavite se in sinhronizirajte zavihke, zaznamke, prijave in še kaj.'>
+<!ENTITY fxaccount_getting_started_description2 'Prijavite se in sinhronizirajte zavihke, zaznamke in prijave.'>
 <!ENTITY fxaccount_getting_started_get_started 'Začni'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Uporabljate starejšo različico &syncBrand.shortName.label;?'>
 
