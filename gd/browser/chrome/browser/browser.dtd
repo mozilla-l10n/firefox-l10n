@@ -257,7 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-
+<!ENTITY devtoolsServiceWorkers.label      "Obraichean seirbheise">
+<!ENTITY devtoolsServiceWorkers.accesskey  "b">
 
 <!ENTITY devtoolsConnect.label        "Ceangail…">
 <!ENTITY devtoolsConnect.accesskey    "e">
