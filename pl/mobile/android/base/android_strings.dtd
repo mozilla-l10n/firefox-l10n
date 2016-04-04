@@ -111,6 +111,7 @@
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "O programie &brandShortName;, najczęściej zadawane pytania, opinie">
 <!ENTITY pref_category_datareporting "Udostępnianie danych">
+<!ENTITY pref_category_logins "Dane logowania">
 <!ENTITY pref_learn_more "Więcej informacji">
 <!ENTITY pref_category_installed_search_engines "Zainstalowane wyszukiwarki">
 <!ENTITY pref_category_add_search_providers "Dodawanie wyszukiwarek">
