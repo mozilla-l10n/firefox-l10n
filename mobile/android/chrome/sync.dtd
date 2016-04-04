@@ -16,7 +16,7 @@
 <!ENTITY sync.fallback              "Ես իմ համակարգչի կողքին չեմ...">
 <!ENTITY sync.setup.manual          "Նշեք Ձեր Սինքի հաշվի ինֆոն">
 <!ENTITY sync.account               "Փոստարկղի անունը">
-<!ENTITY sync.password              "Գաղտնաբառը">
+<!ENTITY sync.password              "Գաղտնաբառ">
 <!ENTITY sync.recoveryKey           "Վերականգնող բանալին">
 <!ENTITY sync.customServer          "Օգտ. ընտրված սպասարկիչ">
 <!ENTITY sync.serverURL             "Սպասարկիչի URL-ն">
