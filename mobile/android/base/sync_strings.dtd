@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "სინქრონიზაცია">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'დაკავშირება - &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label '&syncBrand.fullName.label; ანგარიშის დამატება'>
-<!ENTITY sync.title.pair.label 'შეწყვილება'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'თქვენი ახალი მოწყობილობის გასააქტივებლად, მოწყობილობაზე შეარჩიეთ «&syncBrand.shortName.label;-ის გამართვა».'>
-<!ENTITY sync.subtitle.header2.label 'შეიტანეთ ეს კოდი თქვენს სხვა მოწყობილობაში'>
-<!ENTITY sync.subtitle.connectlocation2.label 'შეარჩიეთ “&sync.title.pair.label;” სექციაში &syncBrand.shortName.label; თქვენი სხვა მოწყობილობის Firefox პარამეტრებში.'>
 <!ENTITY sync.subtitle.pair.label 'გასააქტივებლად შეარჩიეთ «შეწყვილება» თქვენს სხვა მოწყობილობაში.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'მიჩვენე, როგორ.'>
-<!ENTITY sync.link.advancedsetup.label 'დეტალური პარამეტრები…'>
 <!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'ველოდებით სხვა მოწყობილობას…'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'შეიტანეთ თქვენი &syncBrand.fullName.label; ანგარიშის მონაცემები'>
-<!ENTITY sync.input.username.label 'ანგარიშის სახელი'>
-<!ENTITY sync.input.password.label 'პაროლი'>
-<!ENTITY sync.input.key.label 'აღდგენის კოდი'>
-<!ENTITY sync.checkbox.server.label 'საკუთარი სერვერის გამოყენება'>
-<!ENTITY sync.input.server.label 'სერვერის URL'>
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'ვერ ხერხდება &syncBrand.shortName.label; გამართვა'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; სერვერს ვერ უკავშირდება. გბევაცთ ვცადოთ ხელახლა?'>
-<!ENTITY sync.button.tryagain.label 'ხელახლა ცდა'>
-<!ENTITY sync.button.manual.label 'გამართვა ხელით'>
-<!ENTITY sync.subtitle.nointernet.label 'ინტერნეტ კავშირი ვერ მოიძებნა.'>
-<!ENTITY sync.subtitle.failaccount.label 'ანგარიშის შექმნა თქვენს მოწყობილობაზე ვერ ხერხდება.'>
-<!ENTITY sync.subtitle.failmultiple.label 'სხვა Firefox ბრაუზერიც ხომ არ გაქვთ ჩადგმული? ამ დორისთვის შესაძლებელია მხოლოდ ერთი &syncBrand.fullName.label; ჩადგმით სარგებლობა. გთხოვთ ამოიღოთ &syncBrand.shortName.label; ჩადგმა (თუ ასეთი არსებობს).'>
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'გამართვა დასრულდა'>
-<!ENTITY sync.subtitle.success.label1 'თქვენი მონაცემები ფონურად იტვირთება. თქვენი ანგარიშის სამართავად შეგიძლიათ გადახვიდეთ გვერდზე «პარამეტრები» ან დაიწყოთ ინტერნეტ მოგზაურობა &brandShortName; ბრაუზერით.'>
-<!ENTITY sync.settings.label 'პარამეტრები'>
-<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; ანგარიში უკვე შექმნილია. ანგარიშის სამართავად შეგიძლიათ გადახვიდეთ გვერდზე «პარამეტრები» ან გახსნათ &brandShortName; ბრაუზერი.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'გთხოვთ სცადოთ ხელახლა.'>
-<!ENTITY sync.pair.connectlocation.label 'თქვენი მოწყობილობის გასააქტივებლად, შეარჩიეთ «&syncBrand.shortName.label; გამართვა» მოწყობილობაზე და შემდეგ «მაქვს ანგარიში»'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'პარამეტრები'>
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; ანგარიში'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'ეა დასინქრონიზდეს'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'დასინქრონიზდეს ჩემი…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'სანიშნეები'>
 <!ENTITY sync.configure.engines.title.passwords2 'შესვლები'>
 <!ENTITY sync.configure.engines.title.history 'ისტორია'>
 <!ENTITY sync.configure.engines.title.tabs 'დაფები'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'გაუქმება'>
-<!ENTITY sync.button.connect.label 'დაკავშირება'>
-<!ENTITY sync.button.ok.label 'კეთილი'>
-
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (მოძველებული)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -93,23 +40,10 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'დამაგრებული'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'მისაღებია მხოლოდ ერთი &syncBrand.fullName.label; ანგარიში.'>
-<!ENTITY sync.notification.configure.saved 'თქვენი პარამეტრები შენახულია.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'უმართებლო ანგარიშის სახელი ან პაროლი.'>
-<!ENTITY sync.invalidserver.label 'გთხოვთ მიუთითოთ სერვერის მართებული URL'>
-<!ENTITY sync.verifying.label 'შემოწმება…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'აღდგენის კოდი მცდარია. გთხოვთ სცადოთ ხელახლა.'>
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'დაფის გაგზავნა მოწყობილობებზე'>
-<!ENTITY sync.button.send.label 'გაგზავნა'>
-<!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label; გამართვა'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; გამართვა დაფების გასაგზავნად'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label '&syncBrand.fullName.label; თქვენს მოწყობილობაზე გამართვა დაფების გასაგზავნად სხვა მოწყობილობებზე.'>
-<!ENTITY sync.text.tab.sent.label 'თქვენი დაფა გაიგზავნა!'>
+<!ENTITY sync.text.tab.sent.label 'თქვენი ჩანართი გაიგზავნა!'>
 <!ENTITY sync.text.tab.not.sent.label 'პრობლემა თქვენი დაფის გაგზავნისას.'>
 
 <!-- Firefox Account strings. -->
@@ -141,7 +75,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'კონფიდენციალურობის ცნობება'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'მოგესალმებათ &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'შედით სისტემაში თქვენი ჩანართების, სანიშნების, პაროლების და მეტის სინქრონიზაციისთვის.'>
+<!ENTITY fxaccount_getting_started_description2 'შედით სისტემაში თქვენი ჩანართების, სანიშნეების, პაროლების და მეტის სინქრონიზაციისთვის.'>
 <!ENTITY fxaccount_getting_started_get_started 'დაიწყეთ'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label;-ის ძველ ვერსიას იყენებთ?'>
 
