@@ -730,9 +730,9 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY syncedTabs.context.open.label                       "Ouvrir">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Ouvrir dans un nouvel onglet">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "v">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Ouvrir dans une nouvelle fenêtre">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Ouvrir dans une nouvelle fenêtre privée">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Marquer cet onglet…">
