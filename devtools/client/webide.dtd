@@ -195,7 +195,7 @@
 <!ENTITY wifi_auth_yes_scanner "क्यूआर स्कॅनर प्रोम्प्ट आहे?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "तुमचे अन्य साधन जर क्यूआर कोड स्कॅन करण्याऐवजी ओळखीची खुण मागत असेल, तर अन्य साधनावर खालील मूल्य कॉपी करा:">
+<!ENTITY wifi_auth_token_request "आपले अन्य साधन जर क्यूआर कोड स्कॅन करण्याऐवजी ओळखीची खुण मागत असेल, तर अन्य साधनावर खालील मूल्य कॉपी करा:">
 <!ENTITY wifi_auth_qr_size_note "यशस्वी जोडणी करीता QR कोड छोटा पडत असेल तर, त्याला मोठे करा किंवा विंडोचा आकार वाढवा">
 <!-- Logs panel -->
 

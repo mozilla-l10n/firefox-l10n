@@ -109,7 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; मध्ये प्रवेश करा">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; प्राधान्यता उघडा">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; सह जोडणी करा">
-<!ENTITY fxaUnverified.label "तुमचे खाते सत्यापित करा">
+<!ENTITY fxaUnverified.label "आपले खाते सत्यापित करा">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; सुरू केले">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; लवकरच ताळमेळ सुरू करेल.">
 
@@ -192,11 +192,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      It is not possible to see them visually in the UI. -->
 <!ENTITY urlbar.defaultNotificationAnchor.label         "सूचना दर्शवा">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "स्थान विनंती दर्शवा">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "ॲड-ऑन प्रस्थापीत केलेले संदेश दर्शवा">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "ॲड-ऑन इंस्टॉल केलेले संदेश दर्शवा">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "ॲप-ऑफलाइन संचय संदेश दर्शवा">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "आपली लॉग इन माहिती व्यवस्थापित करा">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "आपल्याला पासवर्ड साठवायचा असेल तर चेक बॉक्स वर क्लीक करा">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "ॲप प्रस्थापीत केलेल्याचा संदेश दर्शवा">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "ॲप इंस्टॉल केलेल्याचा संदेश दर्शवा">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "या पृष्ठावर प्लगईन्सच्या वापराचे व्यवस्थापन करा">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "साईटने आपल्याला सूचना दर्शवाव्या किंवा कसे यासाठी योग्य बदल करा">
 
@@ -208,7 +208,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "आपण आत्ता या साईटसोबत आपली विंडो किंवा स्क्रीन शेअर करत आहात.">
 
 <!ENTITY urlbar.pointerLockNotificationAnchor.label     "साइट पॉईंटर लपवू शकतात की नाही हे बदला">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "सर्विस प्रस्थापीत केल्याचा संदेश दर्शवा">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "सर्विस इंस्टॉल केल्याचा संदेश दर्शवा">
 <!ENTITY urlbar.translateNotificationAnchor.label       "पृष्ठाचे भाषांतर करा">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "पृष्ठाच्या अनुवादाचे व्यवस्थापन करा">
 <!ENTITY urlbar.emeNotificationAnchor.label             "DRM सॉफ्टवेअर वापराचे व्यवस्थापन करा">
