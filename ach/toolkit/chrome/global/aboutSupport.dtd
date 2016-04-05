@@ -5,10 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Kwedo bal me Ngec">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Pot buk man tye ki ngec matek me tic cing ma pire twero bedo tek ka itye 
-ka temo cobo peko. Ka ce itye kamoyo pi lagam me lapeny ma ngene 
-ikom &brandShortName;, rot <a id='supportLink'>support web site</a>.">
-
 <!ENTITY aboutSupport.crashes.title "Ripot me poto">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->

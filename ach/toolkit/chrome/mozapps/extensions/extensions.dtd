@@ -124,11 +124,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Ngo ma med-ikome obedo?">
-<!ENTITY discover.description2                "Med-ikome obedo purugram ma weko i yiko imiti ni &brandShortName; kwede
-tic mogo madwong onyo kit. Tem gintic ma inget me gwoko cawa, lami ngec me kot, onyo poro lok me weko &brandShortName; 
-bed megi.">
-<!ENTITY discover.footer                      "Ka ikube i intanet, dirica man bi nyutu 
-med-ikome mogo ma beco loyo dok ngen tutwal pi yin me temo gi.">
+
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Kite">
