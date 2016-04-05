@@ -12,30 +12,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Norėjote, kad „&brandShortName;“ užmegztų 
-saugų ryšį su <b>#1</b>, tačiau programa negali patvirtinti, jog šis 
-ryšys yra saugus.">
-<!ENTITY certerror.introPara2 "Paprastai svetainė, su kuria bandomas užmegzti 
-saugus ryšys, pateikia naršyklei patikimą liudijimą, įrodantį, jog ši jungiasi 
-ten, kur reikia. Deja, šios svetainės tapatumo patikrinti nepavyko.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ką daryti?">
-<!ENTITY certerror.whatShouldIDo.content "Jei paprastai jungiatės prie šios 
-svetainės be nesklandumų, šis pranešimas gali reikšti, jog kažkas kitas bando 
-apsimesti šia svetaine, ir jūs neturėtumėte tęsti.">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ši svetainė „HTTP 
-Strict Transport Security“ (HSTS) pagalba nurodė, kad „&brandShortName;“ 
-prie jos jungtųsi tik saugiu šifruotu ryšiu. Dėl to šiam liudijimui negalima kurti 
-išimties.">
+
+
 <!ENTITY certerror.getMeOutOfHere.label "Išeiti">
 
 <!ENTITY certerror.expert.heading "Jei suprantate pavojus">
-<!ENTITY certerror.expert.content "Jei suprantate, kas vyksta ir kodėl matote 
-šį pranešimą, galite liepti „&brandShortName;“ pasitikėti šios svetainės tapatumu. 
-<b>Net jei pasitikite šia svetaine, šis klaidos pranešimas gali reikšti, kad 
-prie ryšio su svetaine buvo „prikišti nagai“.</b>">
-<!ENTITY certerror.expert.contentPara2 "Nekurkite išimties, nebent gerai žinote, 
-kodėl ši svetainė nenaudoja patikimo liudijimo savo tapatumui užtikrinti.">
+
+
 <!ENTITY certerror.addException.label "Sukurti išimtį…">
 
 <!ENTITY certerror.technical.heading "Techninė informacija">
