@@ -10,8 +10,6 @@
 <!ENTITY warnCloseMultipleTabs.accesskey "a">
 <!ENTITY warnOpenManyTabs.label           "Ostrzegaj, jeśli otwarcie zbyt wielu kart może spowolnić program &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey "m">
-<!ENTITY restoreTabsOnDemand.label        "Nie wczytuj kart, dopóki nie zostały wybrane">
-<!ENTITY restoreTabsOnDemand.accesskey    "N">
 
 <!ENTITY switchToNewTabs.label        "Po otwarciu odnośnika w nowej karcie przechodź do niej automatycznie">
 <!ENTITY switchToNewTabs.accesskey    "c">
