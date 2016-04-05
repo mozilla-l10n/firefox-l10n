@@ -124,11 +124,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Əlavə nədir?">
-<!ENTITY discover.description2                "Əlavələr əlavə funksiya və formalarla &brandShortName; tətbiqinizi 
-şəxsiləşdirmək üçün yaradılan kiçik tətbiqlərdir. Sizə zaman qazandıran bir vasitə çubuğunu, 
-havanın vəziyyətini göstərən və ya &brandShortName; tətbiqinin istədiyiniz kimi görünməsini təmin edəcək bir mövzunu təcrübədən keçirin.">
-<!ENTITY discover.footer                      "İnternetə bağlananda bu bölmədə baxmağınız üçün 
-ən çox istifadə olunana əlavələrin bəziləri önə çıxarılacaq.">
+<!ENTITY discover.description2                "Əlavələr əlavə funksiya və formalarla &brandShortName; tətbiqinizi şəxsiləşdirmək üçün yaradılan kiçik tətbiqlərdir. Sizə zaman qazandıran bir vasitə çubuğunu, havanın vəziyyətini göstərən və ya &brandShortName; tətbiqinin istədiyiniz kimi görünməsini təmin edəcək bir mövzunu təcrübədən keçirin.">
+<!ENTITY discover.footer                      "İnternetə bağlananda bu bölmədə baxmağınız üçün ən çox istifadə olunana əlavələrin bəziləri önə çıxarılacaq.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Sürüm">
