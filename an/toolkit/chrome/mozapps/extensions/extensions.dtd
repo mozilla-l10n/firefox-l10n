@@ -124,11 +124,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Qué son os complementos?">
-<!ENTITY discover.description2                "Os complementos son aplicacions que le permiten personalizar &brandShortName; con 
-funcionalidatz u estilos adicionals. Prebe un panel lateral ta cabidar tiempo, un notificador d'orache u un tema ta fer &brandShortName; 
-mas personal.">
-<!ENTITY discover.footer                      "Quan siga connectau a Internet, ista finestra l'amostrará 
-beluns d'os millors y mas populars complementos ta que los prebe.">
+<!ENTITY discover.description2                "Os complementos son aplicacions que le permiten personalizar &brandShortName; con funcionalidatz u estilos adicionals. Prebe un panel lateral ta cabidar tiempo, un notificador d'orache u un tema ta fer &brandShortName; mas personal.">
+<!ENTITY discover.footer                      "Quan siga connectau a Internet, ista finestra l'amostrará beluns d'os millors y mas populars complementos ta que los prebe.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Versión">

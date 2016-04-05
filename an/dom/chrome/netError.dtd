@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>a pachina que ye mirando de veyer no puede amostrar porque usa una forma no valida u no admitida de compresión.</p><ul><li>Por favor, contacte con os propietarios d'o puesto web ta informar-les d'iste problema.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tipo de fichero inseguro">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Por favor, contacte con os propietarios d'o puesto web ta informar-les d'iste problema.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Por favor, contacte con os propietarios d'o puesto web ta informar-les d'iste problema.</li> </ul>">
 
 <!ENTITY netReset.title "S'ha interrompiu a connexión">
 <!ENTITY netReset.longDesc "<p>L'enlaz con o ret s'interrumpió mientres se negociaba una connexión. Por favor, torne a intentar-lo.</p>">
@@ -67,14 +65,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>A pachina que ye mirando de visualizar no se puet amostrar porque no se puet comprebar l'autenticidat d'os datos recibius. </p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-los d'o problema.</li></ul>">
 
 <!ENTITY nssBadCert.title "A connexión segura ha fallau">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Ixo podría estar un problema con a configuración d'o servidor, u podría estar belún mirando de fer-se pasar por o servidor.</li> 
-<li>Si ya ha connectau con iste servidor con exito en o pasau, a error podría estar temporal, y podrá tornar a intentar-lo mas tarde.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ixo podría estar un problema con a configuración d'o servidor, u podría estar belún mirando de fer-se pasar por o servidor.</li> <li>Si ya ha connectau con iste servidor con exito en o pasau, a error podría estar temporal, y podrá tornar a intentar-lo mas tarde.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "U puede anyader-ie una excepción…">
-<!ENTITY securityOverride.warningContent "<p>No habría d'adhibir una excepción si ye usando una connexión d'Internet en a qual no confíe de tot u si no ye feito a veyer garra alvertencia sobre iste servidor.</p> 
-<p>Si encara deseya adhibir una excepción ta iste puesto, puede fer-lo en a suya configuración abanzada de cifrau.</p>">
+<!ENTITY securityOverride.warningContent "<p>No habría d'adhibir una excepción si ye usando una connexión d'Internet en a qual no confíe de tot u si no ye feito a veyer garra alvertencia sobre iste servidor.</p> <p>Si encara deseya adhibir una excepción ta iste puesto, puede fer-lo en a suya configuración abanzada de cifrau.</p>">
 
 <!ENTITY cspBlocked.title "Bloqueyau por a politica de seguranza de conteniu">
 <!ENTITY cspBlocked.longDesc "<p>O navegador ha impediu que ista pachina se cargue d'ista traza porque a pachina tiene una politica de seguranza de conteniu que no lo permite.</p>">
