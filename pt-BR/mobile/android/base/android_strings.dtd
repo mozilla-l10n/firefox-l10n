@@ -149,7 +149,7 @@
 <!ENTITY overlay_no_synced_devices "Nenhum dispositivo conectado a conta Firefox">
 
 <!ENTITY pref_category_search3 "Pesquisa">
-<!ENTITY pref_category_search_summary "Personalize seus mecanismos de pesquisa">
+<!ENTITY pref_category_search_summary "Personalizar mecanismos de pesquisa">
 <!ENTITY pref_category_accessibility "Acessibilidade">
 <!ENTITY pref_category_accessibility_summary2 "Tamanho do texto, zoom, entrada de voz">
 <!ENTITY pref_category_privacy_short "Privacidade">
@@ -170,7 +170,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Dica: adicione qualquer site à sua lista de mecanismos de pesquisa dando um toque longo em seu campo de pesquisa e um toque no ícone &formatI;.">
 <!ENTITY pref_category_advanced "Avançado">
-<!ENTITY pref_category_advanced_summary2 "Restaure abas, plugins, ferramentas do desenvolvedor">
+<!ENTITY pref_category_advanced_summary2 "Restaurar abas, plugins, ferramentas do desenvolvedor">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_developer_remotedebugging_usb "Depuração remota via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuração remota via Wi-Fi">
@@ -179,7 +179,7 @@
 <!ENTITY pref_manage_logins "Gerenciar logins">
 
 <!ENTITY pref_category_home "Página inicial">
-<!ENTITY pref_category_home_summary "Personalize sua página inicial">
+<!ENTITY pref_category_home_summary "Personalizar página inicial">
 <!ENTITY pref_category_home_panels "Painéis">
 <!ENTITY home_add_panel_title "Adicionar novo painel">
 <!ENTITY home_add_panel_empty "Não encontramos nenhum painel para adicionar.">
@@ -228,7 +228,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "Mostrar imagens">
 <!ENTITY pref_tap_to_load_images_enabled "Sempre">
 <!ENTITY pref_tap_to_load_images_data "Somente via Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "Bloqueado">
+<!ENTITY pref_tap_to_load_images_disabled2 "Nunca">
 
 <!ENTITY pref_show_web_fonts "Mostrar fontes web">
 
@@ -319,7 +319,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync2 "Entrar">
-<!ENTITY pref_sync_summary2 "Sincronize suas abas, favoritos, logins e histórico">
+<!ENTITY pref_sync_summary2 "Sincronizar abas, favoritos, logins, histórico">
 <!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
 <!ENTITY pref_history_search_suggestions "Mostrar histórico de pesquisas">
 <!ENTITY pref_import_options "Opções de importação">
