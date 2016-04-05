@@ -527,10 +527,18 @@
 <!ENTITY syncedTabs.sidebar.notabs.label "Nessuna scheda aperta">
 <!ENTITY syncedTabs.sidebar.openprefs.label "Apri le impostazioni di &syncBrand.shortName.label;">
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Attiva la sincronizzazione delle schede per visualizzare le schede disponibili negli altri dispositivi.">
-<!ENTITY syncedTabs.context.openTab.label "Apri questa scheda">
-<!ENTITY syncedTabs.context.openTab.accesskey "A">
+<!ENTITY syncedTabs.context.open.label "Apri">
+<!ENTITY syncedTabs.context.open.accesskey "A">
+<!ENTITY syncedTabs.context.openInNewTab.label "Apri in una nuova scheda">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey "h">
+<!ENTITY syncedTabs.context.openInNewWindow.label "Apri in una nuova finestra">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey "f">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label "Apri in una nuova finestra anonima">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "n">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label "Aggiungi ai segnalibri…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "s">
+<!ENTITY syncedTabs.context.copy.label "Copia">
+<!ENTITY syncedTabs.context.copy.accesskey "C">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label "Accedi a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey "y">
