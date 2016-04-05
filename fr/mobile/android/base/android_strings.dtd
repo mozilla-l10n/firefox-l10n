@@ -151,6 +151,7 @@
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "À propos de &brandShortName;, FAQ, donner son avis">
 <!ENTITY pref_category_datareporting "Données collectées">
+<!ENTITY pref_category_logins "Identifiants">
 <!ENTITY pref_learn_more "En savoir plus">
 <!ENTITY pref_category_installed_search_engines "Moteurs de recherche installés">
 <!ENTITY pref_category_add_search_providers "Ajouter des moteurs de recherche">
