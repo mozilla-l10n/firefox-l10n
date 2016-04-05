@@ -68,8 +68,8 @@
 <!ENTITY updates.resetUpdatesToManual.label          "सुधारणा स्वहस्ते करण्यासाठी सर्व ॲड-ऑन्स् मूळस्थितीत आणा">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "ॲड-ऑन्स् सुधारीत करत आहे">
-<!ENTITY updates.installed.label              "तुमचे ॲड-ऑन्स् सुधारीत केले.">
-<!ENTITY updates.downloaded.label             "तुमचे ॲड-ऑन सुधारणा डाउनलोड केले आहे.">
+<!ENTITY updates.installed.label              "आपले ॲड-ऑन्स् सुधारीत केले.">
+<!ENTITY updates.downloaded.label             "आपले ॲड-ऑन सुधारणा डाउनलोड केले आहे.">
 <!ENTITY updates.restart.label                "प्रतिष्ठापन पूर्ण करण्यासाठी आत्ता पुनःचालू करा">
 <!ENTITY updates.noneFound.label              "सुधारणा आढळले नाही">
 <!ENTITY updates.manualUpdatesFound.label     "उपलब्ध सुधारणांचे दृष्य">
@@ -243,7 +243,7 @@
 <!ENTITY disabledUnsigned.description.start "खालील अॅड-ऑन्स् &brandShortName; मध्ये वापरण्यासाठी पडताळले गेले नाहीत. आपण करू शकता ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "पुनर्बदल शोधा">
 <!ENTITY disabledUnsigned.description.end " किंवा विकासकाला ते पडताळून घ्यायला सांगा.">
-<!ENTITY disabledUnsigned.learnMore "तुम्हाला ऑनलाईन सुरक्षित कसे ठेवायचे याबाबत आमच्या प्रयत्नांसंबंधी अधिक जाणून घ्या.">
+<!ENTITY disabledUnsigned.learnMore "आपणास ऑनलाईन सुरक्षित कसे ठेवायचे याबाबत आमच्या प्रयत्नांसंबंधी अधिक जाणून घ्या.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->

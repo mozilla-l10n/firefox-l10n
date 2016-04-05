@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; ची मांडणी करा">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; तुम्हाला इतिहास, वाचनखूणा, पासवर्डस् व सर्व साधनांकरीता टॅब्स् उघडण्यास परवानगी देतो.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; आपणास इतिहास, वाचनखूणा, पासवर्डस् व सर्व साधनांकरीता टॅब्स् उघडण्यास परवानगी देतो.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 

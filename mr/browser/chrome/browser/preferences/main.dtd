@@ -35,7 +35,7 @@
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
 <!ENTITY setAsMyDefaultBrowser2.label     "पूर्वनिर्धारित ब्राउजर बनवा">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
-<!ENTITY isDefault.label                  "&brandShortName; सध्या तुमचे पूर्वनिर्धारित ब्राउझर आहे">
+<!ENTITY isDefault.label                  "&brandShortName; सध्या आपले पूर्वनिर्धारित ब्राउझर आहे">
 <!ENTITY isNotDefault.label               "&brandShortName; सध्या आपले पूर्वनिर्धारित ब्राउझर नाही आहे">
 
 <!ENTITY separateProfileMode.label        "&brandShortName; आणि Firefox एकाच वेळी चालविण्याची परवानगी द्यावी">

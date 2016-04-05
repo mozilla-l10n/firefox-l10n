@@ -76,7 +76,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "तुम्हाला कदाचित ">
+<!ENTITY  rememberActions.pre.label           "आपणास कदाचित ">
 <!ENTITY  rememberActions.clearHistory.label  "अलिकडील इतिहास नष्ट करा">
 <!ENTITY  rememberActions.middle.label        ", किंवा ">
 <!ENTITY  rememberActions.removeCookies.label "स्वतंत्र कुकीज काढून टाका">

@@ -5,7 +5,7 @@
 <!ENTITY syncCustomize.dialog.title       "Sync नीवड">
 <!ENTITY syncCustomize.acceptButton.label "सुरू करा">
 
-<!ENTITY syncCustomize.title              "तुम्हाला काय तळमेळ करायचे?">
+<!ENTITY syncCustomize.title              "आपणास काय ताळमेळीत करायचे?">
 <!ENTITY syncCustomize.description        "पर्यायमध्ये हे बदल बदलणे शक्य आहे.">
 <!ENTITY syncCustomizeUnix.description    "प्राधान्यतामध्ये ही निवड बदलणे शक्य आहे.">
 <!--

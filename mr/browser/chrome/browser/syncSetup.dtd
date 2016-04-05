@@ -6,7 +6,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description2 "स्वागत आहे! याअगोदर कधिही &syncBrand.fullName.label; याचा वापर न केले असल्यास, तुम्हाला नवीन खाते निर्माण करावे लागेल.">
+<!ENTITY setup.pickSetupType.description2 "स्वागत आहे! याअगोदर कधिही &syncBrand.fullName.label; याचा वापर न केले असल्यास, आपणास नवीन खाते निर्माण करावे लागेल.">
 <!ENTITY button.createNewAccount.label "नवीन खाते निर्माण करा">
 <!ENTITY button.haveAccount.label      "माझ्याकडे खाते आहे">
 
