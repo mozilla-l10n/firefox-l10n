@@ -5,8 +5,7 @@
 <!ENTITY startpage.title "Welcome to &brandShortName; Mail &amp; Newsgroups">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
 <!ENTITY headline.label 'Welcome to <a id="vendorURL" href="">&brandShortName;</a> Mail &amp; Newsgroups!'>
-<!ENTITY description.label "&brandShortName; Mail &amp; Newsgroups is a powerful open-source mail and news 
-client, supporting advanced junk mail detection and other useful features.">
+
 <!ENTITY features.title "Features">
 <!ENTITY feat_multiacc.label "Support for multiple accounts">
 <!ENTITY feat_junk.label "Junk Mail detection">
@@ -19,11 +18,5 @@ client, supporting advanced junk mail detection and other useful features.">
 <!ENTITY dict.title "Dictionaries">
 <!ENTITY dict_intro.label "Dictionaries are used to check the spelling of your messages.">
 <!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label 'Many additional languages can be installed from the 
-<a id="dictURL" href="">dictionaries</a> section on 
-<a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
 <!ENTITY info.title "More Information">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label '<a href="https://developer.mozilla.org/docs/Mozilla/Projects/MailNews">We</a> welcome bug reports and feature 
-requests, but please read the <a id="releaseNotesURL" href="">release notes</a> and query 
-<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> first.'>
