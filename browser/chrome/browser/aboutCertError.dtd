@@ -20,17 +20,10 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "Saber-ne mas…">
 <!ENTITY certerror.advanced.label "Avanzau">
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Iste puesto fa servir HTTP 
-Strict Transport Security (HSTS) ta especificar que &brandShortName; nomás connecte 
-con ell de traza segura. Por ixo, no ye posible adhibir una excepción ta 
-iste certificau.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Iste puesto fa servir HTTP Strict Transport Security (HSTS) ta especificar que &brandShortName; nomás connecte con ell de traza segura. Por ixo, no ye posible adhibir una excepción ta iste certificau.">
 
-<!ENTITY certerror.expert.content "Si sabe qué ye fendo, puede 
-decir a &brandShortName; que confite en a identificacion d'o puesto. 
-<b>Mesmo si confita en o sitio, ista error podría dar-se porque belún 
-estase interferindo en a suya connexión.</b>">
-<!ENTITY certerror.expert.contentPara2 "No adhiba una excepción de no estar 
-que sepa de seguro por qué iste puesto web no fa servir una identificación segura.">
+<!ENTITY certerror.expert.content "Si sabe qué ye fendo, puede decir a &brandShortName; que confite en a identificacion d'o puesto. <b>Mesmo si confita en o sitio, ista error podría dar-se porque belún estase interferindo en a suya connexión.</b>">
+<!ENTITY certerror.expert.contentPara2 "No adhiba una excepción de no estar que sepa de seguro por qué iste puesto web no fa servir una identificación segura.">
 <!ENTITY certerror.addException.label "Adhibir una excepción…">
 <!ENTITY certerror.copyToClipboard.label "Copiar o texto en o portafuellas">
 
