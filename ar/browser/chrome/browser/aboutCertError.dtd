@@ -20,16 +20,10 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "اطّلع على المزيد…">
 <!ENTITY certerror.advanced.label "متقدم">
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "يستخدم هذا الموقع HTTP 
-”سياسة النقل الصارمة” (HSTS) تفرض على &brandShortName; ألا يتصل به  
-إلا بأمان. بناء على هذا فقد تعذّر إضافة استثناء لهذه الشهادة.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "يستخدم هذا الموقع HTTP ”سياسة النقل الصارمة” (HSTS) تفرض على &brandShortName; ألا يتصل به  إلا بأمان. بناء على هذا فقد تعذّر إضافة استثناء لهذه الشهادة.">
 
-<!ENTITY certerror.expert.content "إن كنتَ تفهم ما الذي يجري، يمكنك إخبار 
-&brandShortName; بأن يبدأ بالوثوق بتعريف هذا الموقع. 
-<b>حتى لو كنتَ تثق بهذا الموقع، فهذا الخطأ يعني أن أحدًا 
-يحاول العبث باتصالك.</b>">
-<!ENTITY certerror.expert.contentPara2 "لا تضِف استثناءً إلا 
-إن كنتَ تعلم سببًا قويًا لعدم استخدام هذا الموقع للتعريف الموثوق به.">
+<!ENTITY certerror.expert.content "إن كنتَ تفهم ما الذي يجري، يمكنك إخبار &brandShortName; بأن يبدأ بالوثوق بتعريف هذا الموقع. <b>حتى لو كنتَ تثق بهذا الموقع، فهذا الخطأ يعني أن أحدًا يحاول العبث باتصالك.</b>">
+<!ENTITY certerror.expert.contentPara2 "لا تضِف استثناءً إلا إن كنتَ تعلم سببًا قويًا لعدم استخدام هذا الموقع للتعريف الموثوق به.">
 <!ENTITY certerror.addException.label "أضِف استثناءً…">
 <!ENTITY certerror.copyToClipboard.label "انسخ النص إلى الحافظة">
 
