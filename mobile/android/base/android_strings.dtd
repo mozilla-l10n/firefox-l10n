@@ -97,6 +97,7 @@
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Informazioni su &brandShortName;, FAQ, feedback">
 <!ENTITY pref_category_datareporting "Condivisione dati">
+<!ENTITY pref_category_logins "Accessi">
 <!ENTITY pref_learn_more "Ulteriori informazioni">
 <!ENTITY pref_category_installed_search_engines "Motori di ricerca installati">
 <!ENTITY pref_category_add_search_providers "Aggiungi altri motori di ricerca">
