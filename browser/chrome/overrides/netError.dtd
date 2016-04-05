@@ -162,6 +162,7 @@ functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "ព័ត៌មាន​កម្រិត​ខ្ពស់៖ SSL_ERROR_NO_CYPHER_OVERLAP">
 
 
 
