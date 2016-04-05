@@ -20,17 +20,10 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "Научете повече…">
 <!ENTITY certerror.advanced.label "Допълнителни">
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Тази страница използва
-HTTP Strict Transport Security (HSTS), за да укаже на &brandShortName;
-да прави защитена връзка. Следователно е невъзможно да бъде
-добавено изключение за този сертификат.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Тази страница използваHTTP Strict Transport Security (HSTS), за да укаже на &brandShortName;да прави защитена връзка. Следователно е невъзможно да бъдедобавено изключение за този сертификат.">
 
-<!ENTITY certerror.expert.content "Ако разбирате какво става може да
-укажете на &brandShortName; да се доверява на идентификацията
-на тази страница. <b>Дори тази страница да е доверена грешката
-може да означава, че някой се намесва връзката ви със сървъра.</b>">
-<!ENTITY certerror.expert.contentPara2 "Не добавяйте изключение, освен ако
-нямате основателна причина страницата да не използва доверена идентификация.">
+<!ENTITY certerror.expert.content "Ако разбирате какво става може даукажете на &brandShortName; да се доверява на идентификациятана тази страница. <b>Дори тази страница да е доверена грешкатаможе да означава, че някой се намесва връзката ви със сървъра.</b>">
+<!ENTITY certerror.expert.contentPara2 "Не добавяйте изключение, освен аконямате основателна причина страницата да не използва доверена идентификация.">
 <!ENTITY certerror.addException.label "Добавяне на изключение…">
 <!ENTITY certerror.copyToClipboard.label "Копиране на текста в системния буфер">
 

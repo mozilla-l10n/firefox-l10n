@@ -19,33 +19,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сървърът не е намерен">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Проверете адреса за правописни грешки, като например 
-<strong>ww</strong>.example.com вместо 
-<strong>www</strong>.example.com</li> 
-<li>Ако не можете да заредите каквато и да е страница, 
- проверете хардуера.</li> 
-<li>Ако компютърът ви е зад защитна стена или прокси, 
-проверете дали на &brandShortName; е разрешен достъп до мрежата.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Проверете адреса за правописни грешки, като например <strong>ww</strong>.example.com вместо <strong>www</strong>.example.com</li> <li>Ако не можете да заредите каквато и да е страница,  проверете хардуера.</li> <li>Ако компютърът ви е зад защитна стена или прокси, проверете дали на &brandShortName; е разрешен достъп до мрежата.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Файлът не е намерен">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Проверете името на файла за големи/малки букви или други грешки при въвеждане.</li> 
-<li>Проверете дали файлът не е преместен, преименуван или изтрит.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Проверете името на файла за големи/малки букви или други грешки при въвеждане.</li> <li>Проверете дали файлът не е преместен, преименуван или изтрит.</li> </ul>">
 
 
 <!ENTITY generic.title "Опа.">
 <!ENTITY generic.longDesc "<p>&brandShortName; не може да зареди тази страница.</p>">
 
 <!ENTITY malformedURI.title "Адресът е невалиден">
-<!ENTITY malformedURI.longDesc "<ul>
-<li>Обикновено адресите изглеждат така:
-<strong>http://www.example.com/</strong></li>
-<li>Проверете дали използвате наклонени черти
-(т.е. <strong>/</strong>).</li>
-</ul>">
+<!ENTITY malformedURI.longDesc "<ul><li>Обикновено адресите изглеждат така:<strong>http://www.example.com/</strong></li><li>Проверете дали използвате наклонени черти(т.е. <strong>/</strong>).</li></ul>">
 
 <!ENTITY netInterrupt.title "Връзката беше прекъсната">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -54,19 +38,13 @@
 <!ENTITY notCached.longDesc "<p>Исканият документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като мярка за безопасност, &brandShortName; не изтегля наново сенситивни документи.</li><li>Натиснете Опит отново за ново изтегляне на документа от сайта.</li></ul>">
 
 <!ENTITY netOffline.title "Режим на работа извън мрежата">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Натиснете „Нов опит“, за да превключите към режим с връзка и да презаредите страницата.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Натиснете „Нов опит“, за да превключите към режим с връзка и да презаредите страницата.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Грешка в кодирането на съдържанието">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Опасен вид файл">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li> </ul>">
 
 <!ENTITY netReset.title "Връзката беше прекъсната">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -75,55 +53,27 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Адресът не е разпознат">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Може би трябва да инсталирате друг софтуер, за да отворите този адрес.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Може би трябва да инсталирате друг софтуер, за да отворите този адрес.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Прокси сървърът отказва свързване">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Проверете дали настройките на проксито са правилни.</li> 
-<li>Свържете се с мрежовия администратор и проверете дали 
-прокси сървърът работи.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Проверете дали настройките на проксито са правилни.</li> <li>Свържете се с мрежовия администратор и проверете дали прокси сървърът работи.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Прокси сървърът не може да бъде намерен">
-<!ENTITY proxyResolveFailure.longDesc "<ul>
-<li>Проверете дали настройките на прокси сървъра са правилни.</li>
-<li>Проверете дали връзката на компютъра с мрежата е наред.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете
-дали на &brandShortName; е разрешен достъпът до Интернет.</li>
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul><li>Проверете дали настройките на прокси сървъра са правилни.</li><li>Проверете дали връзката на компютъра с мрежата е наред.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверетедали на &brandShortName; е разрешен достъпът до Интернет.</li></ul>">
 
 <!ENTITY redirectLoop.title "Страницата не пренасочва правилно">
-<!ENTITY redirectLoop.longDesc "<ul>
-<li>Такъв проблем може да е причинен от изключване или забраняване на бисквитки.</li>
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>Такъв проблем може да е причинен от изключване или забраняване на бисквитки.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
-<!ENTITY unknownSocketType.longDesc "<ul>
-<li>Проверете дали системата има инсталиран Personal Security Manager.</li>
-<li>Настройките на сървъра може да са нестандартни.</li>
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
 
 <!ENTITY nssFailure2.title "Грешка в шифрованата връзка">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Страницата, която искате да видите, не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> 
-<li>Моля, свържете се със собствениците на уебсайта и ги информирайте за този проблем.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата, която искате да видите, не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на уебсайта и ги информирайте за този проблем.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Грешка в шифрованата връзка">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Това може да е проблем с настройките на сървъра или някой се опитва 
-да се представи за този сървър.</li> 
-<li>Ако преди сте се свързвали успешно с този сайт, 
-грешката може да е временна и може да опитайте отново по-късно.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Това може да е проблем с настройките на сървъра или някой се опитва да се представи за този сървър.</li> <li>Ако преди сте се свързвали успешно с този сайт, грешката може да е временна и може да опитайте отново по-късно.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul>
-<li>Страницата може да е временно недостъпна или твърде заета. Опитайте пак след малко.</li>
-<li>Ако не можете да заредите друга страница, проверете хардуера на компютъра.</li>
-<li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете
-дали на &brandShortName; е разрешен достъпът до Интернет.</li>
-</ul>">
+<!ENTITY sharedLongDesc "<ul><li>Страницата може да е временно недостъпна или твърде заета. Опитайте пак след малко.</li><li>Ако не можете да заредите друга страница, проверете хардуера на компютъра.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверетедали на &brandShortName; е разрешен достъпът до Интернет.</li></ul>">
 
 <!ENTITY cspBlocked.title "Блокирано от политика за сигурност на страницата">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото страницата е с политика за сигурност, което го забранява.</p>">
@@ -141,10 +91,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Не трябва да добавяте изключение, ако не се доверявате на вашата свързаност с Интернет или ако не сте свикнали да виждате такове предупреждение за точно този сървър.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Не трябва да добавяте изключение, ако не се доверявате на вашата свързаност с Интернет или ако не сте свикнали да виждате такове предупреждение за точно този сървър.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Докладвайте такива грешки, за да помогнете на Mozilla да идентифицира и блокира злонамерени сайтове">
 <!ENTITY errorReporting.learnMore "Научете повече…">
