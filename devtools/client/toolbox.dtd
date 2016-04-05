@@ -193,8 +193,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Gecko প্লেটফৰ্ম তথ্য দেখুৱাওক">
-<!ENTITY options.showPlatformData.tooltip  "যদি আপুনি এই বিকল্প সামৰ্থবান কৰে JavaScript আলেখ্যক সংবাদসমূহে 
-Gecko প্লেটফৰ্ম চিহ্নসমূহ অন্তৰ্ভুক্ত কৰিব">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
