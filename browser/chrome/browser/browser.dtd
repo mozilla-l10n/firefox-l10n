@@ -803,6 +803,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ireki &syncBrand.shortName.label; hobespenak">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktibatu fitxak sinkronizatzea zure beste gailuetako fitxen zerrenda ikusteko.">
 
 <!ENTITY syncedTabs.context.openTab.label                   "Ireki fitxa hau">
 <!ENTITY syncedTabs.context.openTab.accesskey               "I">
