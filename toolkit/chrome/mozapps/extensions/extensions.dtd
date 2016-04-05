@@ -124,11 +124,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Wat is byvoegings?">
-<!ENTITY discover.description2                "Byvoegings is toepassings waarmee jy &brandShortName; kan pasmaak met 
-ekstra funksionaliteit of styl. Daar is byvoorbeeld 'n kantbalk wat jou tyd spaar, 'n weerberig, of 'n tema wat &brandShortName; 
-meer laat lyk soos jy daarvan hou.">
-<!ENTITY discover.footer                      "Wanneer jy aan die internet gekoppel is, sal hierdie paneel van die 
-beste en gewildste byvoegings bevat wat jy kan probeer.">
+<!ENTITY discover.description2                "Byvoegings is toepassings waarmee jy &brandShortName; kan pasmaak met ekstra funksionaliteit of styl. Daar is byvoorbeeld 'n kantbalk wat jou tyd spaar, 'n weerberig, of 'n tema wat &brandShortName; meer laat lyk soos jy daarvan hou.">
+<!ENTITY discover.footer                      "Wanneer jy aan die internet gekoppel is, sal hierdie paneel van die beste en gewildste byvoegings bevat wat jy kan probeer.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Weergawe">

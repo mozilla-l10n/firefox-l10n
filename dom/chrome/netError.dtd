@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Die bladsy wat u probeer bekyk, kan nie gewys word nie omdat dit 'n ongeldige of nieondersteunde inpakformaat gebruik.</p><ul><li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Onveilige lêersoort">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig.</li> </ul>">
 
 <!ENTITY netReset.title "Verbinding onderbreek">
 <!ENTITY netReset.longDesc "<p>Die netwerkverbinding is onderbreek terwyl 'n verbinding onderhandel is. Probeer weer.</p>">
@@ -67,14 +65,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Die bladsy wat u probeer bekyk, kan nie gewys word nie omdat die egtheid van die ontvangde data nie geverifieer kon word nie.</p><ul><li>Kontak die webwerf se eienaars om hulle oor die probleem in te lig.</li></ul>">
 
 <!ENTITY nssBadCert.title "Kon nie beveilig koppel nie">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Daar kan dalk fout met die bediener se opstelling wees, of dalk probeer iemand die bediener na-aap.</li> 
-<li>As u in die verlede suksesvol aan hierdie bediener gekoppel het, kan die fout dalk tydelik wees, en dan kan u later weer probeer.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Daar kan dalk fout met die bediener se opstelling wees, of dalk probeer iemand die bediener na-aap.</li> <li>As u in die verlede suksesvol aan hierdie bediener gekoppel het, kan die fout dalk tydelik wees, en dan kan u later weer probeer.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Of u kan 'n uitsondering byvoeg…">
-<!ENTITY securityOverride.warningContent "<p>U moenie 'n uitsondering byvoeg as u 'n internetverbinding gebruik wat u nie heeltemal vertrou nie of as u nie gewoonlik 'n waarskuwing vir hierdie bediener ontvang nie.</p> 
-<p>As u wel 'n uitsondering vir hierdie werf wil byvoeg, kan u dit doen in u gevorderde enkripsie-instellings.</p>">
+<!ENTITY securityOverride.warningContent "<p>U moenie 'n uitsondering byvoeg as u 'n internetverbinding gebruik wat u nie heeltemal vertrou nie of as u nie gewoonlik 'n waarskuwing vir hierdie bediener ontvang nie.</p> <p>As u wel 'n uitsondering vir hierdie werf wil byvoeg, kan u dit doen in u gevorderde enkripsie-instellings.</p>">
 
 <!ENTITY cspBlocked.title "Geblokkeer deur inhoudbeveiligingsbeleid">
 <!ENTITY cspBlocked.longDesc "<p>Die blaaier het voorkom dat hierdie bladsy op hierdie manier laai want die bladsy het 'n inhoudbeveiligingsbeleid wat dit keer.</p>">
