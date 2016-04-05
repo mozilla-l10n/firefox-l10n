@@ -339,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Ouvrir le menu d’aide">
 
 <!ENTITY appMenuRemoteTabs.label "Onglets synchronisés">
-<!ENTITY appMenuRemoteTabs.fetching.label "Récupération des onglets synchronisés…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Aucun onglet ouvert">
@@ -720,7 +719,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY syncTabsMenu3.label     "Onglets synchronisés">
 
 <!ENTITY syncedTabs.sidebar.label              "Onglets synchronisés">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Récupération des onglets synchronisés…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Connectez-vous via Firefox depuis vos autres appareils pour afficher leurs onglets ici.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Connectez-vous pour afficher la liste des onglets de vos autres appareils.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Aucun onglet ouvert">
@@ -729,10 +727,18 @@ you can use these alternative items. Otherwise, their values should be empty.
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activez la synchronisation des onglets pour afficher la liste des onglets de vos autres appareils.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Ouvrir cet onglet">
-<!ENTITY syncedTabs.context.openTab.accesskey               "O">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Marquer cet onglet…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "M">
+<!ENTITY syncedTabs.context.open.label                       "Ouvrir">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Ouvrir dans un nouvel onglet">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Ouvrir dans une nouvelle fenêtre">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Ouvrir dans une nouvelle fenêtre privée">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Marquer cet onglet…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "M">
+<!ENTITY syncedTabs.context.copy.label                       "Copier">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
