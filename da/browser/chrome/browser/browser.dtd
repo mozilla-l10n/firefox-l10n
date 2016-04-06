@@ -802,7 +802,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Åbn Indstillinger i &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivér synkronisering af faneblade for at se en liste med faneblade fra dine andre enheder.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivér synkronisering af faneblade for at se en liste med faneblade, der er åbne på dine andre enheder.">
 
 <!ENTITY syncedTabs.context.openTab.label                   "Åbn dette faneblad">
 <!ENTITY syncedTabs.context.openTab.accesskey               "f">
