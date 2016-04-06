@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Yhdistä &syncBrand.shortName.label;-palveluun'>
-<!ENTITY sync.title.adddevice.label 'Luo tili &syncBrand.fullName.label; -palveluun'>
-<!ENTITY sync.title.pair.label 'Liitä laite'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Aktivoi uusi laitteesi valitsemalla laitteessa “Määritä &syncBrand.shortName.label;”-palvelun asetukset.'>
-<!ENTITY sync.subtitle.header2.label 'Kirjoita tämä koodi toiseen laitteesesi'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Valitse “&sync.title.pair.label;” toisen laitteesi Firefoxin &syncBrand.shortName.label;-palvelun asetuksista.'>
 <!ENTITY sync.subtitle.pair.label 'Aktivoi valitsemalla “Liitä laite” -valinta toisella laitteellasi.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Näytä ohjeet.'>
-<!ENTITY sync.link.advancedsetup.label 'Lisäasetukset…'>
 <!ENTITY sync.link.nodevice.label 'Minulla ei ole laitetta vieressäni…'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Odotetaan toista laitetta…'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Kirjoita &syncBrand.fullName.label; -palvelun tilitietosi'>
-<!ENTITY sync.input.username.label 'Tilin nimi'>
-<!ENTITY sync.input.password.label 'Salasana'>
-<!ENTITY sync.input.key.label 'Palautusavain'>
-<!ENTITY sync.checkbox.server.label 'Käytä omaa palvelinta'>
-<!ENTITY sync.input.server.label 'Palvelimen osoite'>
-  
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label '&syncBrand.shortName.label;-palvelun määritys ei onnistunut'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; -palvelu ei onnistunut muodostamaan yhteyttä palvelimelle. Yritetäänkö uudestaan?'>
-<!ENTITY sync.button.tryagain.label 'Yritä uudestaan'>
-<!ENTITY sync.button.manual.label 'Muokkaa asetuksia käsin'>
-<!ENTITY sync.subtitle.nointernet.label 'Ei Internet-yhteyttä.'>
-<!ENTITY sync.subtitle.failaccount.label 'Tilin luonti laitteellasi epäonnistui.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Onko laitteellesi asennettu useampi versio Firefoxista? Tällä hetkellä &syncBrand.fullName.label; tukee vain yhtä asennettua Firefoxia. Poista muut Firefoxin asennukset ennen kuin käytät &syncBrand.shortName.label;ia.'>
-  
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Määritys valmis'>
-<!ENTITY sync.subtitle.success.label1 'Tietojasi ladataan nyt taustalla. Voit muokata tilisi asetuksia palvelun asetuksista tai jatkaa selaamista &brandShortName;illa.'>
-<!ENTITY sync.settings.label 'Asetukset'>
-<!ENTITY sync.subtitle.manage.label1 '&syncBrand.fullName.label; -palvelun tilisi on jo määritetty. Muokkaa tilisi asetuksia asetusikkunasta tai käynnistää &brandShortName;in.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Yritä uudestaan.'>
-<!ENTITY sync.pair.connectlocation.label 'Aktivoi valitsemalla laitteesta “Määritä &syncBrand.shortName.label;” ja valitse sitten “Minulla on jo tili.”'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Asetukset'>
-<!ENTITY sync.summary.pair.label 'Liitä uusi laite &syncBrand.shortName.label;-palvelun tiliisi'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Mitä synkronoidaan'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Synkronoi…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Kirjanmerkit'>
 <!ENTITY sync.configure.engines.title.passwords2 'Kirjautumiset'>
 <!ENTITY sync.configure.engines.title.history 'Sivuhistoria'>
 <!ENTITY sync.configure.engines.title.tabs 'Välilehdet'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Peruuta'>
-<!ENTITY sync.button.connect.label 'Yhdistä'>
-<!ENTITY sync.button.ok.label 'OK'>
-  
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (vanhentunut)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -93,20 +40,7 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Kiinnitetyt'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Tuemme vain yhtä &syncBrand.fullName.label; -tiliä.'>
-<!ENTITY sync.notification.configure.saved 'Asetukset tallennettiin.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Virheellinen käyttäjätunnus tai salasana.'>
-<!ENTITY sync.invalidserver.label 'Anna kelvollinen palvelimen osoite'>
-<!ENTITY sync.verifying.label 'Todennetaan…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Virheellinen palautusavain. Yritä uudestaan.'>
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Lähetä välilehti laitteille'>
-<!ENTITY sync.button.send.label 'Lähetä'>
-<!ENTITY sync.button.set.up.sync.label 'Määritä &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Määritä &syncBrand.shortName.label; lähettääksesi välilehtiä'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Määritä &syncBrand.fullName.label; laitteellasi lähettääksesi välilehtiä toisiin laitteisiin.'>
 <!ENTITY sync.text.tab.sent.label 'Välilehti lähetettiin.'>
