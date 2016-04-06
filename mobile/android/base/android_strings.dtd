@@ -221,6 +221,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloquer">
 
 <!ENTITY pref_show_web_fonts "Afficher les polices web">
+<!ENTITY pref_show_web_fonts_summary "Masquez-les pour utiliser les polices par défaut et raccourcir le temps de chargement des sites web.">
 
 <!ENTITY pref_tracking_protection_title2 "Protection contre le pistage">
 <!ENTITY pref_tracking_protection_summary3 "Activée pour la navigation privée">
