@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Pagina pe care încercați să o vedeți nu poate fi afișată pentru că folosește o formă de compresie invalidă sau nesuportată.</p><ul><li>Vă rugăm să contactați proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tip de fișier nesigur">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Vă rugăm să contactați proprietarii site-ului web pentru a-i informa despre această problemă.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Vă rugăm să contactați proprietarii site-ului web pentru a-i informa despre această problemă.</li> </ul>">
 
 <!ENTITY netReset.title "Conexiune întreruptă">
 <!ENTITY netReset.longDesc "<p>Legătura de rețea a fost întreruptă în timp ce se negocia o conexiune. Vă rugăm să încercați din nou.</p>">
@@ -67,10 +65,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Pagina pe care încercați să o vedeți nu poate fi afișată deoarece nu s-a putut verifica autenticitatea datelor primite.</p><ul><li>Vă rugăm să contactați proprietarii site-ului web pentru a-i informa despre această problemă</li></ul>">
 
 <!ENTITY nssBadCert.title "Conexiunea securizată a eșuat">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Acest lucru s-ar putea datora unei probleme în configurația serverului, sau s-ar putea ca cineva să încerce să pretindă în mod fraudulos că este acest server.</li> 
-<li>Dacă v-ați conectat cu succes în trecut la acest server, eroarea poate fi temporară și puteți încerca din nou mai târziu.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Acest lucru s-ar putea datora unei probleme în configurația serverului, sau s-ar putea ca cineva să încerce să pretindă în mod fraudulos că este acest server.</li> <li>Dacă v-ați conectat cu succes în trecut la acest server, eroarea poate fi temporară și puteți încerca din nou mai târziu.</li> </ul>">
 
 
 

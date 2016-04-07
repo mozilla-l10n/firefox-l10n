@@ -20,17 +20,10 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "Află mai multe…">
 <!ENTITY certerror.advanced.label "Avansat">
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Acest site folosește HTTP 
-Strict Transport Security (HSTS) pentru a specifica că &brandShortName; se conectează doar 
-în mod securizat la el. Drept rezultat, nu este posibil să adaugi o excepție acestui 
-certificat.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Acest site folosește HTTP Strict Transport Security (HSTS) pentru a specifica că &brandShortName; se conectează doar în mod securizat la el. Drept rezultat, nu este posibil să adaugi o excepție acestui certificat.">
 
-<!ENTITY certerror.expert.content "Dacă înțelegeți ce se întâmplă, 
-puteți seta &brandShortName; să aibă încredere pe viitor în identificarea acestui site. 
-<b>Chiar dacă aveți încredere în acest site, această eroare ar putea însemna că cineva 
-încearcă să vă păcălească.</b>">
-<!ENTITY certerror.expert.contentPara2 "Nu adăugați excepții decât dacă aveți 
-un motiv întemeiat să credeți că acest site nu folosește o identificare de încredere">
+<!ENTITY certerror.expert.content "Dacă înțelegeți ce se întâmplă, puteți seta &brandShortName; să aibă încredere pe viitor în identificarea acestui site. <b>Chiar dacă aveți încredere în acest site, această eroare ar putea însemna că cineva încearcă să vă păcălească.</b>">
+<!ENTITY certerror.expert.contentPara2 "Nu adăugați excepții decât dacă aveți un motiv întemeiat să credeți că acest site nu folosește o identificare de încredere">
 <!ENTITY certerror.addException.label "Adaugă excepție…">
 <!ENTITY certerror.copyToClipboard.label "Copiază textul în clipboard">
 
