@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba lisebenzisa udidi locutho olungasebenziyo okanye olungaxhaswayo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Udidi lwefayile olungakhuselekanga">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> </ul>">
 
 <!ENTITY netReset.title "Unxibelelwano luphazanyisiwe">
 <!ENTITY netReset.longDesc "<p>Ikhonkco lenethiwekhi liphazanyisiwe xa bekuzanywa unxibelelwano. Nceda uzame kwakhona.</p>">
@@ -67,14 +65,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Ikhasi ozama ukulijonga alinakho ukuboniswa kuba ukufaneleka kweengcombolo ezifunyenweyo akunakuqinisekiswa.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
 
 <!ENTITY nssBadCert.title "Unxibelelo lokhuseleko aluphumelelanga">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Oku kusenokuba yingxaki nolungiselelo lweseva okanye isenokuba ngumntu ozenza umnini weseva.</li> 
-<li>Ukuba wakha wanxibelelana kule seva ngempumelelo ngaphambili, imposiso isenokuba yeyethutyana kwaye ungazama kwakhona kamva.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Oku kusenokuba yingxaki nolungiselelo lweseva okanye isenokuba ngumntu ozenza umnini weseva.</li> <li>Ukuba wakha wanxibelelana kule seva ngempumelelo ngaphambili, imposiso isenokuba yeyethutyana kwaye ungazama kwakhona kamva.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Okanye ungongeza ieksepshini…">
-<!ENTITY securityOverride.warningContent "<p>Umele ungongezi ekhethekileyo ukuba usebenzisa uqhagamshelo lwe-intanenthi ongaluthembi ngokupheleleyo okanye ukuba akuqhelanga ukubona isilumkiso sale seva.</p> 
-<p>Ukuba usafuna ukongeza ekhethekileyo kule sayithi, unokukwenza oku kwiisetingi ze-enkripshini ezihambele phambili.</p>">
+<!ENTITY securityOverride.warningContent "<p>Umele ungongezi ekhethekileyo ukuba usebenzisa uqhagamshelo lwe-intanenthi ongaluthembi ngokupheleleyo okanye ukuba akuqhelanga ukubona isilumkiso sale seva.</p> <p>Ukuba usafuna ukongeza ekhethekileyo kule sayithi, unokukwenza oku kwiisetingi ze-enkripshini ezihambele phambili.</p>">
 
 <!ENTITY cspBlocked.title "Ithintelwe ngumGaqonkqubo woKhuseleko lomXholo">
 <!ENTITY cspBlocked.longDesc "<p>Ibhrawuza ilithintele eli khasi ekulayisheni ngale ndlela kuba ikhasi linomgaqo wokhuselo lomxholo elingakuvumeliyo.</p>">
