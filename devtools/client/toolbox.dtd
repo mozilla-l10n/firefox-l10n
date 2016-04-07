@@ -192,8 +192,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "แสดงข้อมูล Gecko platform">
-<!ENTITY options.showPlatformData.tooltip  "ถ้าคุณเปิดใช้งานตัวเลือกนี้ รายงานตัวเก็บประวัติ JavaScript 
-จะรวมสัญลักษณ์ของ Gecko platform เข้าไปด้วย">
+<!ENTITY options.showPlatformData.tooltip  "ถ้าคุณเปิดใช้งานตัวเลือกนี้ รายงานตัวเก็บประวัติ JavaScript จะรวมสัญลักษณ์ของ Gecko platform เข้าไปด้วย">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
