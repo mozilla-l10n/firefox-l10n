@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Sćo &brandShortName; pšosył, aby wěsćej 
-z <b>#1</b> zwězał, ale njejo móžno wobkšuśiś, až waš zwisk jo wěsty.">
+<!ENTITY certerror.introPara1 "Sćo &brandShortName; pšosył, aby wěsćej z <b>#1</b> zwězał, ale njejo móžno wobkšuśiś, až waš zwisk jo wěsty.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Co by ja měł cyniś?">
-<!ENTITY certerror.whatShouldIDo.content "Jolic zwězujośo se zwětšego z 
-toś tym sedłom bźez problemow, by mógła toś ta zmólka wóznamjeniś, 
- až něchten wopytujo sedło za swójo wudaś, wy njeby mógał togodla pókšacowaś.">
+<!ENTITY certerror.whatShouldIDo.content "Jolic zwězujośo se zwětšego z toś tym sedłom bźez problemow, by mógła toś ta zmólka wóznamjeniś,  až něchten wopytujo sedło za swójo wudaś, wy njeby mógał togodla pókšacowaś.">
 <!ENTITY certerror.getMeOutOfHere.label "Cu how wen!">
 
 <!ENTITY certerror.expert.heading "Rozmějom rizika">
-<!ENTITY certerror.expert.content "Jolic rozmějośo, což se stawa, móžośo 
-&brandShortName; k wěsći daś, identifikaciji sedła dowěriś. 
-<b>Samo jolic dowěriśo sedłoju, by mógła toś ta zmólka wóznamjeniś, 
-až něchten pśepśima se na wašom zwisku.</b>">
-<!ENTITY certerror.expert.contentPara2 "Njepśidawaj wuwześe, snaźkuli wěsćo dobru pśicynu, 
-cogodla toś to sedło njewužywa dowěry gódnu identifikaciju.">
+<!ENTITY certerror.expert.content "Jolic rozmějośo, což se stawa, móžośo &brandShortName; k wěsći daś, identifikaciji sedła dowěriś. <b>Samo jolic dowěriśo sedłoju, by mógła toś ta zmólka wóznamjeniś, až něchten pśepśima se na wašom zwisku.</b>">
+<!ENTITY certerror.expert.contentPara2 "Njepśidawaj wuwześe, snaźkuli wěsćo dobru pśicynu, cogodla toś to sedło njewužywa dowěry gódnu identifikaciju.">
 <!ENTITY certerror.addTemporaryException.label "Sedło se woglědaś">
 <!ENTITY certerror.addPermanentException.label "Trajne wuwześe pśidaś">
 
