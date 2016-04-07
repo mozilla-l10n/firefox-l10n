@@ -43,8 +43,7 @@
 <!ENTITY  details.link                    "Birambuye">
 
 
-<!ENTITY  error.label                     "There were problems checking for, downloading or installing this 
-update. &brandShortName; could not be updated because:">
+<!ENTITY  error.label                     "There were problems checking for, downloading or installing this update. &brandShortName; could not be updated because:">
 
 
 
