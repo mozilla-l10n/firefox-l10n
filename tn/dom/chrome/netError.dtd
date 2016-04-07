@@ -36,9 +36,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</p><ul><li>Tswêê-tswêê itshwaraganye le beng ba setsha se sa webo go ba itsise ka bothata jo.</li></ul> ">
 
 <!ENTITY unsafeContentType.title "Mofuta wa Faele o sa Babalesegang">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li> </ul>">
 
 <!ENTITY netReset.title "Kgolagano e kgaupeditswe">
 <!ENTITY netReset.longDesc "<p>Kgokagano ya mafaratlhatlha e ne ya kgaopediwa fa go buisanyediwa kgolagano.Tswêê-tswêê leka gape.</p>">
@@ -65,10 +63,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
 <!ENTITY nssBadCert.title "Kgolagano e Sireletsegileng e Reteletswe ">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Se ekatswa ele bothata jwa kgola gano ya sefara, kgotsa ele mongwe yo o lekang go itira sefara.</li> 
-<li>Fa okile wa atlega mo go ikgolaganyeng le sefara e, phoso ekatswa ele ya nakwana,kajalo o ka leka gape moragonyana.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Se ekatswa ele bothata jwa kgola gano ya sefara, kgotsa ele mongwe yo o lekang go itira sefara.</li> <li>Fa okile wa atlega mo go ikgolaganyeng le sefara e, phoso ekatswa ele ya nakwana,kajalo o ka leka gape moragonyana.</li> </ul>">
 
 
 
