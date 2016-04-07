@@ -5,9 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "ट्रबलशूट करपाक माहिती">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  ह्या पानान तांत्रिक माहिती आसा जाचो तुमका आडमेळ सोडोवपाक 
-उपेग जाव येता. तुमी &brandShortName; विशीं सामान्य प्रस्नांक जाप 
-सोदतात जाल्यार, आमची <a id='फाटबळजोडणी'>फाटबळ सायट पळयात</a>.">
+<!ENTITY aboutSupport.pageSubtitle "  ह्या पानान तांत्रिक माहिती आसा जाचो तुमका आडमेळ सोडोवपाक उपेग जाव येता. तुमी &brandShortName; विशीं सामान्य प्रस्नांक जाप सोदतात जाल्यार, आमची <a id='फाटबळजोडणी'>फाटबळ सायट पळयात</a>.">
 
 <!ENTITY aboutSupport.crashes.title "क्रॅश अहवाल">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
