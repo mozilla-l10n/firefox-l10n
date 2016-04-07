@@ -19,15 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "சேவையகத்தை காண முடியவில்லை">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>இணைய முகவரிய தட்டியதில் கீழ்க்கண்டவாறு பிழை இருக்கலாம் 
-<strong>ww</strong>.example.com பதிலாக
-<strong>www</strong>.example.com </li> 
-<li>உங்களால் இணைய பக்கங்களை ஏற்ற முடியாவிட்டால் பிணையத்தை சோதித்து
-பார்க்கவும்.</li> 
-<li>உங்கள் கணனி அல்லது பிணையம் பயர்வால் அல்லது பிராக்சியால் கட்டுபாட்டில் 
-வைத்திருக்கலாம் &brandShortName; ஆனாது இணையத்தை அனுக இயலவில்லை.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>இணைய முகவரிய தட்டியதில் கீழ்க்கண்டவாறு பிழை இருக்கலாம் <strong>ww</strong>.example.com பதிலாக<strong>www</strong>.example.com </li> <li>உங்களால் இணைய பக்கங்களை ஏற்ற முடியாவிட்டால் பிணையத்தை சோதித்துபார்க்கவும்.</li> <li>உங்கள் கணனி அல்லது பிணையம் பயர்வால் அல்லது பிராக்சியால் கட்டுபாட்டில் வைத்திருக்கலாம் &brandShortName; ஆனாது இணையத்தை அனுக இயலவில்லை.</li> </ul>">
 
 <!ENTITY fileNotFound.title "கோப்பினை காணவில்லை">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Check the file name for capitalization or other typing errors.</li> <li>Check to see if the file was moved, renamed or deleted.</li> </ul>">
@@ -46,19 +38,13 @@
 <!ENTITY notCached.longDesc "<p>கோரப்பட்ட ஆவணம் &brandShortName; இன் தேக்ககத்தில் கிடைக்கவில்லை.</p><ul><li>பாதுகாப்பு எச்சரிக்கைக்காக, &brandShortName; ஆனது முக்கியமான ஆவணங்களை மறுமுறை கோராதபடி அமைக்கப்பட்டுள்ளது.</li><li>வலைத்தளத்திலிருந்து ஆவணத்தை மீண்டும் கோர மீண்டும் முயற்சிக்கவும் என்பதைக் கிளிக் செய்யவும்.</li></ul>">
 
 <!ENTITY netOffline.title "இணைப்பில்லாத முறைமை">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>ஆன்லைன் பயன்முறைக்கு மாற &quot;மீண்டும் முயற்சிக்கவும்&quot; என்பதை அழுத்தி, பிறகு பக்கத்தை மீண்டும் ஏற்றவும்.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>ஆன்லைன் பயன்முறைக்கு மாற &quot;மீண்டும் முயற்சிக்கவும்&quot; என்பதை அழுத்தி, பிறகு பக்கத்தை மீண்டும் ஏற்றவும்.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "உள்ளடக்க குறிமுறை பிழை">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>இந்த சிக்கல் குறித்து தெரிவிக்க இணையதள உரிமையாளர்களைத் தொடர்பு கொள்ளவும்.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>இந்த சிக்கல் குறித்து தெரிவிக்க இணையதள உரிமையாளர்களைத் தொடர்பு கொள்ளவும்.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "பாதுகாப்பில்லாத கோப்பு வகை">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>இந்த சிக்கல் குறித்து தெரிவிக்க இணையதள உரிமையாளர்களைத் தொடர்பு கொள்ளவும்.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>இந்த சிக்கல் குறித்து தெரிவிக்க இணையதள உரிமையாளர்களைத் தொடர்பு கொள்ளவும்.</li> </ul>">
 
 <!ENTITY netReset.title "இணைப்பு மறுஅமைக்கப்பட்டது">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -82,18 +68,10 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Check to make sure your system has the Personal Security Manager installed.</li> <li>This might be due to a non-standard configuration on the server.</li> </ul>">
 
 <!ENTITY nssFailure2.title "பாதுகாப்பான இணைப்பு தவறி விடுந்தது">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>பெறப்பட்ட தரவின் அங்கீகாரத்தன்மையை சரிபார்க்க முடியாததால், நீங்கள் காண முயற்சிக்கும் பக்கத்தைக் காண்பிக்க முடியாது.</li> 
-<li>வலைத்தள உரிமையாளர்களைத் தொடர்புகொண்டு இந்த சிக்கலை தெரிவிக்கவும்.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>பெறப்பட்ட தரவின் அங்கீகாரத்தன்மையை சரிபார்க்க முடியாததால், நீங்கள் காண முயற்சிக்கும் பக்கத்தைக் காண்பிக்க முடியாது.</li> <li>வலைத்தள உரிமையாளர்களைத் தொடர்புகொண்டு இந்த சிக்கலை தெரிவிக்கவும்.</li> </ul>">
 
 <!ENTITY nssBadCert.title "பாதுகாப்பான இணைப்பு தவறி விடுந்தது">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li> இந்த சர்வரின் கட்டமைப்பு சிக்கல் இருக்க வேண்டும், அல்லது அது 
- யாராவது சர்வர் ஆள்மாறாட்டம் செய்ய முயற்சி செய்திருப்பார்கள். </li> 
-<li> நீங்கள் இதற்கு முன்பு வெற்றிகரமாக இந்த சர்வர்ருடன் இணைந்து இருந்தால், இந்த பிழை 
-தற்காலிகமானதாக இருக்கும், மேலும் நீங்கள் பின்னர் மீண்டும் முயற்சி செய்யலாம். </li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li> இந்த சர்வரின் கட்டமைப்பு சிக்கல் இருக்க வேண்டும், அல்லது அது  யாராவது சர்வர் ஆள்மாறாட்டம் செய்ய முயற்சி செய்திருப்பார்கள். </li> <li> நீங்கள் இதற்கு முன்பு வெற்றிகரமாக இந்த சர்வர்ருடன் இணைந்து இருந்தால், இந்த பிழை தற்காலிகமானதாக இருக்கும், மேலும் நீங்கள் பின்னர் மீண்டும் முயற்சி செய்யலாம். </li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li> <li>If you are unable to load any pages, check your computer's network connection.</li> <li>If your computer or network is protected by a firewall or proxy, make sure that &brandShortName; is permitted to access the Web.</li> </ul>">
 
@@ -113,10 +91,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>நீங்கள் முழுமையாக நம்பாத ஒரு இணைய இணைப்பைப் பயனப்டுத்தினால் அல்லது இந்த சேவையகத்திற்கு இதற்கு முன்பு நீங்கள் இப்படி எச்சரிக்கையைப் பார்த்திருக்காவிட்டால், நீங்கள் விதிவிலக்கைச் சேர்க்கக்கூடாது.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>நீங்கள் முழுமையாக நம்பாத ஒரு இணைய இணைப்பைப் பயனப்டுத்தினால் அல்லது இந்த சேவையகத்திற்கு இதற்கு முன்பு நீங்கள் இப்படி எச்சரிக்கையைப் பார்த்திருக்காவிட்டால், நீங்கள் விதிவிலக்கைச் சேர்க்கக்கூடாது.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "மேலும் அறிக...">
 
