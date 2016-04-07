@@ -553,12 +553,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ખાનગી માહિતી સાફ">
 <!ENTITY private_data_fail "અમુક ખાનગી માહિતી સાફ કરી શકાય નહિ">
 
-<!ENTITY bookmarkhistory_import_both "બુકમાર્કો અને ઇતિહાસ આયાત કરી રહ્યા છીએ 
-Android માંથી">
-<!ENTITY bookmarkhistory_import_bookmarks "બુકમાર્કો આયાત કરી રહ્યા છીએ 
-Android માંથી">
-<!ENTITY bookmarkhistory_import_history "ઇતિહાસ આયાત કરી રહ્યા છીએ 
-Android માંથી">
+<!ENTITY bookmarkhistory_import_both "બુકમાર્કો અને ઇતિહાસ આયાત કરી રહ્યા છીએ Android માંથી">
+<!ENTITY bookmarkhistory_import_bookmarks "બુકમાર્કો આયાત કરી રહ્યા છીએ Android માંથી">
+<!ENTITY bookmarkhistory_import_history "ઇતિહાસ આયાત કરી રહ્યા છીએ Android માંથી">
 <!ENTITY bookmarkhistory_import_wait "મહેરબાની કરીને રાહ જુઓ...">
 
 <!ENTITY suggestions_prompt3 "શું તમે શોધ સૂચનો ચાલુ કરવા માંગો છો?">
