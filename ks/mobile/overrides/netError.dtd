@@ -22,10 +22,7 @@
 <!ENTITY dnsNotFound.longDesc4 "<ul> <li> ">
 
 <!ENTITY fileNotFound.title "فایل چھنہ موجود">
-<!ENTITY fileNotFound.longDesc "<ul>
-<li>فایل ہُند ناو کاریو چک کپٹلایزیشن یا بیی کنہ لیکھنہ چہ غلطی کھیترء  </li>
-<li>چک کریو فایل اگر سوء بیِس جاے ائسک نیمیچ یا ناو اوسک بدلومت یا میٹاونہ اءس  امیچہ  </li>
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>فایل ہُند ناو کاریو چک کپٹلایزیشن یا بیی کنہ لیکھنہ چہ غلطی کھیترء  </li><li>چک کریو فایل اگر سوء بیِس جاے ائسک نیمیچ یا ناو اوسک بدلومت یا میٹاونہ اءس  امیچہ  </li></ul>">
 
 
 <!ENTITY generic.title "افسوس">
@@ -34,14 +31,7 @@
 <!ENTITY malformedURI.title "یِ پتہ چھونِ سحی کہء">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> 
-<li> ویب اڈٰرس چُھ آم طور پر یتھ پئٹھ لیکھنہ <strong>http://www.example.com/</strong></li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>ژھاءنڈیو</button> 
-</div> 
-<li >یمہ کتھہ ھیوند تھایو خیال  زء توہ چھو فاروڈ سلیشس یستمال کران (مطلب <strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li> ویب اڈٰرس چُھ آم طور پر یتھ پئٹھ لیکھنہ <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ژھاءنڈیو</button> </div> <li >یمہ کتھہ ھیوند تھایو خیال  زء توہ چھو فاروڈ سلیشس یستمال کران (مطلب <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "کنکشن آو رکاونہ">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
