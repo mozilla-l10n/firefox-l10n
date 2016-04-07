@@ -19,24 +19,10 @@
 <!ENTITY dnsNotFound.title "Servern hittades inte">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Kontrollera adressen för skrivfel t.ex. 
-<strong>ww</strong>.example.com istället för  
-<strong>www</strong>.example.com</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Sök</button> 
-</div> 
-<li>Om du inte kan öppna sidor, kolla enhetens data eller Wi-Fi-anslutning. 
-<button id='wifi'>Slå på Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kontrollera adressen för skrivfel t.ex. <strong>ww</strong>.example.com istället för  <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Sök</button> </div> <li>Om du inte kan öppna sidor, kolla enhetens data eller Wi-Fi-anslutning. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Filen kan inte hittas">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Kontrollera om det finns stavfel eller andra typografiska fel i filnamnet.</li> 
-<li>Kontrollera om den flyttats, fått ett annat namn eller tagits bort.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Kontrollera om det finns stavfel eller andra typografiska fel i filnamnet.</li> <li>Kontrollera om den flyttats, fått ett annat namn eller tagits bort.</li> </ul>">
 
 
 <!ENTITY generic.title "Hoppsan!">
@@ -45,16 +31,7 @@
 <!ENTITY malformedURI.title "Adressen är inte giltig">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul>
-<li>Webbadresser skrivs vanligen som 
-<strong>http://www.example.com/</strong></li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Sök</button>  
-</div> 
-<li>Se till att du använder snedstreck (dvs.. / 
-<strong>/</strong>.</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc2 "<ul><li>Webbadresser skrivs vanligen som <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Sök</button>  </div> <li>Se till att du använder snedstreck (dvs.. / <strong>/</strong>.</li> </ul>">
 
 <!ENTITY netInterrupt.title "Anslutningen avbröts">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -65,21 +42,13 @@
 <!ENTITY netOffline.title "Nedkopplat läge">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>Försök igen.&brandShortName; kommer att försöka öppna en anslutning och ladda om sidan. 
-<button id='wifi'>Slå på Wi-Fi</button>
-</li>
-</ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Försök igen.&brandShortName; kommer att försöka öppna en anslutning och ladda om sidan. <button id='wifi'>Slå på Wi-Fi</button></li></ul>">
 
 <!ENTITY contentEncodingError.title "Kodningsfel av innehållet">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Kontakta webbplatsens ägare och informera dem om detta problem.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Kontakta webbplatsens ägare och informera dem om detta problem.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Osäker filtyp">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Kontakta webbplatsens ägare för att informera dem om detta problem.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Kontakta webbplatsens ägare för att informera dem om detta problem.</li> </ul>">
 
 <!ENTITY netReset.title "Anslutningen avbröts">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -88,62 +57,31 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Adressen förstods inte">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Du kan behöva installera andra program för att öppna den här sidan.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Du kan behöva installera andra program för att öppna den här sidan.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxyservern avvisar anslutningen">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Kontrollera att proxyinställningarna är riktiga.</li> 
-<li>Kontakta nätverksadministratören för att säkerställa att proxyservern 
-fungerar.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontrollera att proxyinställningarna är riktiga.</li> <li>Kontakta nätverksadministratören för att säkerställa att proxyservern fungerar.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Kan inte hitta proxyservern">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>Kontrollera att proxyinställningarna är riktiga.</li> 
-<li>Kontrollera att enheten har en fungerande data- eller Wi-Fi-anslutning. 
-<button id='wifi'>Slå på Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Kontrollera att proxyinställningarna är riktiga.</li> <li>Kontrollera att enheten har en fungerande data- eller Wi-Fi-anslutning. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Sidan dirigeras om felaktigt">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Det här problemet kan ibland uppstå om du inaktiverat eller nekat att ta 
-emot kakor.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Det här problemet kan ibland uppstå om du inaktiverat eller nekat att ta emot kakor.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Oväntat svar från servern">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Kontrollera om Personal Security Manager 
- finns installerat på datorn.</li> 
-<li>Det här kan ibland bero på en ovanlig konfiguration på servern.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Kontrollera om Personal Security Manager  finns installerat på datorn.</li> <li>Det här kan ibland bero på en ovanlig konfiguration på servern.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Säker anslutning misslyckades">
-<!ENTITY nssFailure2.longDesc2 "<ul>
-<li> Sidan du försöker visa kan inte visas för att autentisering av datan som skickats inte kunde bli verifierad.</li>
-<li>Snälla kontakta hemsidans ägare för att informera dom om detta problem.</li>
-</ul> ">
+<!ENTITY nssFailure2.longDesc2 "<ul><li> Sidan du försöker visa kan inte visas för att autentisering av datan som skickats inte kunde bli verifierad.</li><li>Snälla kontakta hemsidans ägare för att informera dom om detta problem.</li></ul> ">
 
 <!ENTITY nssBadCert.title "Säker anslutning misslyckades">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Detta kan bero på ett problem med serverns konfiguration, eller så kanske 
-någon annan felaktigt utger sig för att vara servern.</li> 
-<li>Om du tidigare utan problem har anslutit till den här servern kanske felet 
-är tillfälligt och du kan försöka igen senare.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Detta kan bero på ett problem med serverns konfiguration, eller så kanske någon annan felaktigt utger sig för att vara servern.</li> <li>Om du tidigare utan problem har anslutit till den här servern kanske felet är tillfälligt och du kan försöka igen senare.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> 
-<li>Platsen kan tillfälligt vara nere eller upptagen. Försök igen om en stund.</li> 
-<li>Om du inte kan öppna någon sida alls, kontrollera enhetens data- eller Wi-Fi-anslutning. 
-<button id='wifi'>Slå på Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>Platsen kan tillfälligt vara nere eller upptagen. Försök igen om en stund.</li> <li>Om du inte kan öppna någon sida alls, kontrollera enhetens data- eller Wi-Fi-anslutning. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; förhindrade sidan från att öppnas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
@@ -160,10 +98,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Du bör endast lägga till ett undantag om du använder en internetanslutning som du har ett fullständigt förtroende för, eller om du är van vid att se en varning för den här servern.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Du bör endast lägga till ett undantag om du använder en internetanslutning som du har ett fullständigt förtroende för, eller om du är van vid att se en varning för den här servern.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Extern XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakta ägaren av webbplatsen för att informera dem om detta problem.</li></ul></p>">
