@@ -594,12 +594,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "တစ်ကိုယ်ရေသုံး အချက်အလက်များရှင်းပြီး">
 <!ENTITY private_data_fail "အချို့သော တစ်ကိုယ်ရေသုံးအချက်အလက်များ မရှင်းလိုက်နိုင်ပါ">
 
-<!ENTITY bookmarkhistory_import_both "စာအမှတ်များနှင့် မှတ်တမ်းများအား   
-ဖုန်းမှ ဆွဲယူနေသှ်">
-<!ENTITY bookmarkhistory_import_bookmarks "စာအမှတ်များအား 
-ဖုန်းမှ ဆွဲယူနေသှ် ">
-<!ENTITY bookmarkhistory_import_history "မှတ်တမ်းများအား 
-ဖုန်းမှ ဆွဲယူနေသှ် ">
+<!ENTITY bookmarkhistory_import_both "စာအမှတ်များနှင့် မှတ်တမ်းများအား   ဖုန်းမှ ဆွဲယူနေသှ်">
+<!ENTITY bookmarkhistory_import_bookmarks "စာအမှတ်များအား ဖုန်းမှ ဆွဲယူနေသှ် ">
+<!ENTITY bookmarkhistory_import_history "မှတ်တမ်းများအား ဖုန်းမှ ဆွဲယူနေသှ် ">
 <!ENTITY bookmarkhistory_import_wait "စောင့်နေပါ...">
 
 <!ENTITY suggestions_prompt3 "ရှာဖွေရေး အကြံပေးချက်များအား ဖွင့်ထားမည်လား?">
