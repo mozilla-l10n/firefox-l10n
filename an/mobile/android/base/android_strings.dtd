@@ -624,12 +624,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Bells datos privaus no s\u0027han puesto borrar">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
-<!ENTITY bookmarkhistory_import_both "Se son importando os marcapachinas y 
-l\u0027historial dende Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Se son importando os 
-marcapachinas dende Android">
-<!ENTITY bookmarkhistory_import_history "Se ye importando l\u0027historial 
-dende Android">
+<!ENTITY bookmarkhistory_import_both "Se son importando os marcapachinas y l\u0027historial dende Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Se son importando os marcapachinas dende Android">
+<!ENTITY bookmarkhistory_import_history "Se ye importando l\u0027historial dende Android">
 <!ENTITY bookmarkhistory_import_wait "Aguarde por favor...">
 
 <!ENTITY suggestions_prompt3 "Quiere activar as sucherencias de busca?">
