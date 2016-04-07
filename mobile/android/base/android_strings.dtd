@@ -628,12 +628,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Nid oedd modd clirio peth data preifat">
 
 <!ENTITY bookmarkhistory_button_import "Mewnforio">
-<!ENTITY bookmarkhistory_import_both "Mewnforio nodau tudalen a hanes 
-gan Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Mewnforio nodau tudalen 
-o Android">
-<!ENTITY bookmarkhistory_import_history "Mewnforio hanes 
-o Android">
+<!ENTITY bookmarkhistory_import_both "Mewnforio nodau tudalen a hanes gan Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Mewnforio nodau tudalen o Android">
+<!ENTITY bookmarkhistory_import_history "Mewnforio hanes o Android">
 <!ENTITY bookmarkhistory_import_wait "Arhoswch...">
 
 <!ENTITY suggestions_prompt3 "Hoffech chi gychwyn yr awgrymiadau chwilio?">
