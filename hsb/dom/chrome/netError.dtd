@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Strona, kotruž chcéce sej wobhladać, njeda so pokazać, dokelž njepłaćiwu abo njepodpěrowanu formu kompresije wužiwa.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Njewěsty datajowy typ">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> </ul>">
 
 <!ENTITY netReset.title "Zwisk přetorhnjeny">
 <!ENTITY netReset.longDesc "<p>Syćowy wotkaz bu přetorhnjeny, hdyž so zwisk wujednawaše. Prošu spytajće hišće raz.</p>">
@@ -67,14 +65,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž awtentiskosć přijatych datow njeda so přepruwować.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">
 
 <!ENTITY nssBadCert.title "Wěsty zwisk njemóžno">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>To móhło problem z konfiguraciju serwera być, abo něchtó pospytuje, serwer imitować.</li> 
-<li>Jeli sće w zańdźenosći ze serwerom wuspěšnje zwjazany był, móže zmylk nachwilny być a móžeće pozdźišo hišće raz spytać.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>To móhło problem z konfiguraciju serwera być, abo něchtó pospytuje, serwer imitować.</li> <li>Jeli sće w zańdźenosći ze serwerom wuspěšnje zwjazany był, móže zmylk nachwilny być a móžeće pozdźišo hišće raz spytać.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Abo móžeće wuwzaće přidać…">
-<!ENTITY securityOverride.warningContent "<p>Wy njeměl wuwzaće přidać, jeli internetny zwisk wužiwaće, kotremuž dospołnje njedowěrjeće abo jeli zwjetša warnowanje za tutón serwer njewidźiće.</p>
- <p>Jeli chceće hišće wuwzaće za tute sydło přidać, móžeće to w swojich rozšěrjenych zaklučowanskich nastajenjach činić.</p>">
+<!ENTITY securityOverride.warningContent "<p>Wy njeměl wuwzaće přidać, jeli internetny zwisk wužiwaće, kotremuž dospołnje njedowěrjeće abo jeli zwjetša warnowanje za tutón serwer njewidźiće.</p> <p>Jeli chceće hišće wuwzaće za tute sydło přidać, móžeće to w swojich rozšěrjenych zaklučowanskich nastajenjach činić.</p>">
 
 <!ENTITY cspBlocked.title "Přez wěstotne prawidła za wobsah zablokowany">
 <!ENTITY cspBlocked.longDesc "<p>Wobhladowak zadźěwaše začitowanju tuteje strony na tute wašnje, dokelž strona ma wěstotne prawidła za wobsah, kotrež to zakazuja.</p>">
