@@ -5,9 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Taic le duilgheadasan">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Tha fiosrachadh teicnigeach air an duilleag seo a dh'fhaodadh a bhith 
-feumail dhut ann am fuasgladh dhuilgheadasan. Ma tha ceist neo-theicnigeach 
-agad mu &brandShortName;, cuir sùil air an <a id='supportLink'>làrach-taice</a> againn.">
+<!ENTITY aboutSupport.pageSubtitle "  Tha fiosrachadh teicnigeach air an duilleag seo a dh'fhaodadh a bhith feumail dhut ann am fuasgladh dhuilgheadasan. Ma tha ceist neo-theicnigeach agad mu &brandShortName;, cuir sùil air an <a id='supportLink'>làrach-taice</a> againn.">
 
 <!ENTITY aboutSupport.crashes.title "Aithisgean tuislidh">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
