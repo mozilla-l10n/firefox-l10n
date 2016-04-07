@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Letlakala leo o lekago go le lebelela le ka se laetšwe ka gobane le diriša sebopego sa kitlano yeo e sa šomego goba yeo e sa thekgwego.</p><ul><li>Hle ikopanye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Mohuta o sa bolokegago wa faele">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li> </ul>">
 
 <!ENTITY netReset.title "Kgokaganyo e šitišitšwe">
 <!ENTITY netReset.longDesc "<p>Lomaganyo ya neteweke e šitišitšwe mola e dutše e dira ditherišano tša kgokaganyo. Hle leka gape.</p>">
@@ -67,10 +65,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Letlakala leo o lekago go le lebelela le ka se laetšwe ka ge bonnete bja tsebišo yeo e amogetšwego bo ka se netefatšwe.</p><ul><li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul>">
 
 <!ENTITY nssBadCert.title "Kgokaganyo e šireletšegilego e paletšwe">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Se e ka ba e le bothata bja thulaganyo ya seabi, goba motho yo mongwe o leka go itira seabi.</li> 
-<li>Ge e ba nakong e fetilego o ikgokagantše go seabi se ka katlego, phošo e ka ba e le ya nakwana, gomme o ka leka gape ka moragonyana.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Se e ka ba e le bothata bja thulaganyo ya seabi, goba motho yo mongwe o leka go itira seabi.</li> <li>Ge e ba nakong e fetilego o ikgokagantše go seabi se ka katlego, phošo e ka ba e le ya nakwana, gomme o ka leka gape ka moragonyana.</li> </ul>">
 
 
 

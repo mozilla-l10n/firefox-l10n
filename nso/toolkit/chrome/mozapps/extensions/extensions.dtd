@@ -121,11 +121,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Ditlaleletši ke eng?">
-<!ENTITY discover.description2                "Ditlaleletši ke ditirišo tšeo di go dumelelago go dira &brandShortName; ka tsela ya gago; ka go 
-šoma ka mo go oketšegilego goba setaele. Leka para ya go boloka nako, setsebiši sa maemo a boso, goba tebego yeo e nago le sehlogo ya go dira gore &brandShortName; 
-e be ka mo o e nyakago ka gona.">
-<!ENTITY discover.footer                      "Ge o kgokagantšwe go inthanete, lefasetere le le tla bonagatša 
-tše dingwe tša ditlaleletši tše tšwago pele le tše tumilego kudu gore o di leke.">
+<!ENTITY discover.description2                "Ditlaleletši ke ditirišo tšeo di go dumelelago go dira &brandShortName; ka tsela ya gago; ka go šoma ka mo go oketšegilego goba setaele. Leka para ya go boloka nako, setsebiši sa maemo a boso, goba tebego yeo e nago le sehlogo ya go dira gore &brandShortName; e be ka mo o e nyakago ka gona.">
+<!ENTITY discover.footer                      "Ge o kgokagantšwe go inthanete, lefasetere le le tla bonagatša tše dingwe tša ditlaleletši tše tšwago pele le tše tumilego kudu gore o di leke.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Kgatišo">
