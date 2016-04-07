@@ -439,7 +439,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "मेन्यू पर Move">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-<!ENTITY customizeMenu.removeFromToolbar.label "औजारपट्टी से Remove">
+<!ENTITY customizeMenu.removeFromToolbar.label "औजारपट्टी से मिटाएँ">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "मेन्यू से निकालें">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">

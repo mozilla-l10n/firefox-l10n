@@ -20,15 +20,15 @@
 <!ENTITY productHelp2.accesskey   "म">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     " कुंजीपट शॉर्टकट">
+<!ENTITY helpKeyboardShortcuts.label     "कुंजीपट शॉर्टकट">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "सहयुक्तियों के निष्क्रिय के साथ Restart…">
+<!ENTITY helpSafeMode.label       "निष्क्रिय सहयुक्तियों के साथ फिर आरंभ करें…">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "ऐड-ऑन सक्षम के साथ फिर आरंभ करे.">
-<!ENTITY helpSafeMode.stop.accesskey   "आ">
+<!ENTITY helpSafeMode.stop.label       "सक्षम सहयुक्तियों के साथ फिर आरंभ करे">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "&brandShorterName; स्वास्थ्य रिपोर्ट.">
+<!ENTITY healthReport2.label      "&brandShorterName; स्वास्थ्य रिपोर्ट">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "विघ्ननिवारण सूचना ">
@@ -43,12 +43,12 @@
 <!ENTITY preferencesCmdMac.label        " वरीयताएँ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          " सेवाएँ">
+<!ENTITY servicesMenuMac.label          "सेवाएँ">
 
-<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; छिपाएँ ">
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; छिपाएँ">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      " अन्य छिपाएँ">
+<!ENTITY hideOtherAppsCmdMac.label      "अन्य छिपाएँ">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H ">
 
-<!ENTITY showAllAppsCmdMac.label        " सभी दिखाएँ">
+<!ENTITY showAllAppsCmdMac.label        "सभी दिखाएँ">

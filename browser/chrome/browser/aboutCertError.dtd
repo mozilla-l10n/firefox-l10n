@@ -20,17 +20,10 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "अधिक जानें…">
 <!ENTITY certerror.advanced.label "उन्नत">
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "यह साइट HTTP का उपयोग्य करती है। 
- Strict Transport Security (HSTS) का उपयोग &brandShortName; को उल्लिखित करने के  
- इसकी सुरक्षा के लिए करता है. नतीजतन, इस प्रमाण पत्र के लिए 
-अपवाद जोड़ना संभव नहीं है.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "यह साइट HTTP का उपयोग्य करती है।  Strict Transport Security (HSTS) का उपयोग &brandShortName; को उल्लिखित करने के   इसकी सुरक्षा के लिए करता है. नतीजतन, इस प्रमाण पत्र के लिए अपवाद जोड़ना संभव नहीं है.">
 
-<!ENTITY certerror.expert.content "यदि आप समझते हैं कि क्या चल रहा है, आप 
-&brandShortName; को कह सकते हैं कि वह साइट के पहचान पर भरोसा करना शुरू करे. 
-<b>हालाँकि आप इस साइट पर भरोसा करते हैं, इस त्रुटि का मतलब हो सकता है कि कोई व्यक्ति 
-आपके कनेक्शन के साथ छेड़छाड़ कर रहा है.</b>">
-<!ENTITY certerror.expert.contentPara2 "कोई अपवाद मत जोड़ें जब तक आप 
-नहीं जानते हैं कि क्यों यह साइट भरोसेमंद पहचान का प्रयोग नहीं करता है.">
+<!ENTITY certerror.expert.content "यदि आप समझते हैं कि क्या चल रहा है, आप &brandShortName; को कह सकते हैं कि वह साइट के पहचान पर भरोसा करना शुरू करे. <b>हालाँकि आप इस साइट पर भरोसा करते हैं, इस त्रुटि का मतलब हो सकता है कि कोई व्यक्ति आपके कनेक्शन के साथ छेड़छाड़ कर रहा है.</b>">
+<!ENTITY certerror.expert.contentPara2 "कोई अपवाद मत जोड़ें जब तक आप नहीं जानते हैं कि क्यों यह साइट भरोसेमंद पहचान का प्रयोग नहीं करता है.">
 <!ENTITY certerror.addException.label "अपवाद जोड़ें…">
 <!ENTITY certerror.copyToClipboard.label "काटपट पाठ की नक़ल करें">
 
