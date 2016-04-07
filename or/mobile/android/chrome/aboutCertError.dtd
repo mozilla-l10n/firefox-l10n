@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "ଆପଣ ସୁରକ୍ଷିତ ଭାବରେ ସଂଯୋଗ କରିବା ପାଇଁ &brandShortName; କୁ 
-ଅନୁରୋଧ କରିଥିଲେ <b>#1</b>, କିନ୍ତୁ ଆମେ ନିଶ୍ଚିତ କରିପାରିଲୁ ନାହିଁ ଯେ ଆପଣଙ୍କ ସଂଯୋଗ ସୁରକ୍ଷିତ ଅଛି କି ନାହିଁ ।">
+<!ENTITY certerror.introPara1 "ଆପଣ ସୁରକ୍ଷିତ ଭାବରେ ସଂଯୋଗ କରିବା ପାଇଁ &brandShortName; କୁ ଅନୁରୋଧ କରିଥିଲେ <b>#1</b>, କିନ୍ତୁ ଆମେ ନିଶ୍ଚିତ କରିପାରିଲୁ ନାହିଁ ଯେ ଆପଣଙ୍କ ସଂଯୋଗ ସୁରକ୍ଷିତ ଅଛି କି ନାହିଁ ।">
 
 <!ENTITY certerror.whatShouldIDo.heading "ମୋର କଣ କରିବା ଉଚିତ?">
-<!ENTITY certerror.whatShouldIDo.content "ଯଦି ଆପଣ ସାଧାରଣତଃ ଏହି ସାଇଟରେ ବିନା ସମସ୍ୟାରେ ସଂଯୁକ୍ତ ହେଉଥାନ୍ତି, 
-ତେବେ ଏହି ତ୍ରୁଟି ଘଟିବାର କାରଣ ହେଉଛି କେହି ଜଣେ ଏହି ସାଇଟକୁ ଆପଣଙ୍କ ବଦଳରେ ବ୍ୟବହାର କରୁଅଛି, 
-ଏଣୁ ଆପଣ ଆଗକୁ ବଢ଼ିପାରିବେ ନାହିଁ ।">
+<!ENTITY certerror.whatShouldIDo.content "ଯଦି ଆପଣ ସାଧାରଣତଃ ଏହି ସାଇଟରେ ବିନା ସମସ୍ୟାରେ ସଂଯୁକ୍ତ ହେଉଥାନ୍ତି, ତେବେ ଏହି ତ୍ରୁଟି ଘଟିବାର କାରଣ ହେଉଛି କେହି ଜଣେ ଏହି ସାଇଟକୁ ଆପଣଙ୍କ ବଦଳରେ ବ୍ୟବହାର କରୁଅଛି, ଏଣୁ ଆପଣ ଆଗକୁ ବଢ଼ିପାରିବେ ନାହିଁ ।">
 <!ENTITY certerror.getMeOutOfHere.label "ମୋତେ ଏଠାରୁ ବାହାର କରନ୍ତୁ!">
 
 <!ENTITY certerror.expert.heading "ମୁଁ କଣ ବିପଦ ତାହା ବୁଝୁଛି">
-<!ENTITY certerror.expert.content "ଯଦି ଆପଣ ବୁଝିପାରିବେ ଏହା କାହିଁକି ହେଉଛି, ତେବେ ଆପଣ 
-ଏହି ସାଇଟକୁ ବିଶ୍ୱାସ କରିବା କରିବା ପାଇଁ &brandShortName;ଙ୍କୁ କହିପାରିବେ। 
-<b>ଯଦିଓ ଆପଣ ଏହି ସାଇଟକୁ ବିଶ୍ୱାସ କରନ୍ତି, ତଥାପି ଏହି ତ୍ରୁଟିର ଅର୍ଥ ହେଉଛି କେହି ଜଣେ 
-ଆପଣଙ୍କ ସଂଯୋଗକୁ ଗୋପନରେ ବ୍ୟବହାର କରୁଛନ୍ତି ।</b>">
-<!ENTITY certerror.expert.contentPara2 "କୌଣସି ବ୍ୟତିକ୍ରମ ଯୋଗ କରନ୍ତୁ ନାହିଁ ଯଦି ଆପଣଙ୍କ ପାଖରେ ଯଥେଷ୍ଟ କାରଣ ନାହିଁ ଯେ 
-ଏହି ସାଇଟ କଣ ପାଇଁ ବିଶ୍ୱସ୍ତ ପରିଚୟ ବ୍ୟବହାର କରୁଅଛି ।">
+<!ENTITY certerror.expert.content "ଯଦି ଆପଣ ବୁଝିପାରିବେ ଏହା କାହିଁକି ହେଉଛି, ତେବେ ଆପଣ ଏହି ସାଇଟକୁ ବିଶ୍ୱାସ କରିବା କରିବା ପାଇଁ &brandShortName;ଙ୍କୁ କହିପାରିବେ। <b>ଯଦିଓ ଆପଣ ଏହି ସାଇଟକୁ ବିଶ୍ୱାସ କରନ୍ତି, ତଥାପି ଏହି ତ୍ରୁଟିର ଅର୍ଥ ହେଉଛି କେହି ଜଣେ ଆପଣଙ୍କ ସଂଯୋଗକୁ ଗୋପନରେ ବ୍ୟବହାର କରୁଛନ୍ତି ।</b>">
+<!ENTITY certerror.expert.contentPara2 "କୌଣସି ବ୍ୟତିକ୍ରମ ଯୋଗ କରନ୍ତୁ ନାହିଁ ଯଦି ଆପଣଙ୍କ ପାଖରେ ଯଥେଷ୍ଟ କାରଣ ନାହିଁ ଯେ ଏହି ସାଇଟ କଣ ପାଇଁ ବିଶ୍ୱସ୍ତ ପରିଚୟ ବ୍ୟବହାର କରୁଅଛି ।">
 <!ENTITY certerror.addTemporaryException.label "ସାଇଟ ଦେଖନ୍ତୁ">
 <!ENTITY certerror.addPermanentException.label "ସ୍ଥାୟୀ ବ୍ୟତିକ୍ରମ ଯୋଡ଼ନ୍ତୁ">
 
