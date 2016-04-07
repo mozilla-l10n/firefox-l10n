@@ -211,8 +211,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "देखाबू गेक्को मंच डेटा">
-<!ENTITY options.showPlatformData.tooltip  "अहाँ एहि विकल्प केँ सक्षम जावास्क्रिप्ट प्रोफाइलर रिपोर्टों गेक्को मंच 
-प्रतीक शामिल हाएब.">
+<!ENTITY options.showPlatformData.tooltip  "अहाँ एहि विकल्प केँ सक्षम जावास्क्रिप्ट प्रोफाइलर रिपोर्टों गेक्को मंच प्रतीक शामिल हाएब.">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
