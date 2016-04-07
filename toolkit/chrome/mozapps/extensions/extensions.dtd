@@ -124,11 +124,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Tiện ích là gì?">
-<!ENTITY discover.description2                "Tiện ích là những ứng dụng cho phép bạn cá nhân hóa &brandShortName; bằng 
-kiểu dáng hoặc chức năng phụ. Hãy thử một thanh lề tiết kiệm thời gian, một trình báo thời tiết, hoặc một giao diện để biến &brandShortName; 
-thành của riêng bạn.">
-<!ENTITY discover.footer                      "Khi bạn kết nối mạng, bảng này sẽ giới thiệu 
-một số tiện ích tốt nhất và thông dụng nhất để bạn thử.">
+<!ENTITY discover.description2                "Tiện ích là những ứng dụng cho phép bạn cá nhân hóa &brandShortName; bằng kiểu dáng hoặc chức năng phụ. Hãy thử một thanh lề tiết kiệm thời gian, một trình báo thời tiết, hoặc một giao diện để biến &brandShortName; thành của riêng bạn.">
+<!ENTITY discover.footer                      "Khi bạn kết nối mạng, bảng này sẽ giới thiệu một số tiện ích tốt nhất và thông dụng nhất để bạn thử.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Phiên bản">

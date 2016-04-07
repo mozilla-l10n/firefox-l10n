@@ -16,12 +16,8 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.expert.content "Nếu bạn hiểu điều gì đang xảy ra, bạn 
-có thể yêu cầu &brandShortName; tin tưởng định danh của trang này. 
-<b>Cho dù bạn tin tưởng trang web này, lỗi này cũng vẫn có thể là do ai đó 
-đang cố tác động tới kết nối của bạn.</b>">
-<!ENTITY certerror.expert.contentPara2 "Đừng thêm ngoại lệ trừ khi 
-bạn biết lí do đúng đắn khiến trang này không dùng định danh đáng tin cậy.">
+<!ENTITY certerror.expert.content "Nếu bạn hiểu điều gì đang xảy ra, bạn có thể yêu cầu &brandShortName; tin tưởng định danh của trang này. <b>Cho dù bạn tin tưởng trang web này, lỗi này cũng vẫn có thể là do ai đó đang cố tác động tới kết nối của bạn.</b>">
+<!ENTITY certerror.expert.contentPara2 "Đừng thêm ngoại lệ trừ khi bạn biết lí do đúng đắn khiến trang này không dùng định danh đáng tin cậy.">
 <!ENTITY certerror.addException.label "Thêm Ngoại Lệ…">
 
 
