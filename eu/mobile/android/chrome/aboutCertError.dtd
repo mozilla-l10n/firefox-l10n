@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "&brandShortName; <b>#1</b> helbidera modu ziurrean konektatzea 
-eskatu duzu, baina ezin dugu baieztatu konexioa ziurra denik.">
+<!ENTITY certerror.introPara1 "&brandShortName; <b>#1</b> helbidera modu ziurrean konektatzea eskatu duzu, baina ezin dugu baieztatu konexioa ziurra denik.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Zer egin?">
-<!ENTITY certerror.whatShouldIDo.content "Normalean gune honetara 
-arazorik gabe konektatzen bazara, errore hau norbait gunea ordezten 
-saiatzen ari dela esan lezake eta ez zenuke aurrera egin behar.">
+<!ENTITY certerror.whatShouldIDo.content "Normalean gune honetara arazorik gabe konektatzen bazara, errore hau norbait gunea ordezten saiatzen ari dela esan lezake eta ez zenuke aurrera egin behar.">
 <!ENTITY certerror.getMeOutOfHere.label "Eraman hemendik at!">
 
 <!ENTITY certerror.expert.heading "Arriskuaz jabetzen naiz">
-<!ENTITY certerror.expert.content "Gertatzen ari dena ulertzen baduzu, 
-&brandShortName;(r)i gune honen identifikazioaz fidatzea agin diezaiokezu. 
-<b>Baina guneaz fidatzen bazara ere, errore honek norbait zure konexioan 
-eskua sartzen dabilela esan nahi lezake.</b>">
-<!ENTITY certerror.expert.contentPara2 "Ez gehitu salbuespena ez badakizu 
-arrazoi on bat dagoela gune honek identifikazio fidagarria ez erabiltzeko.">
+<!ENTITY certerror.expert.content "Gertatzen ari dena ulertzen baduzu, &brandShortName;(r)i gune honen identifikazioaz fidatzea agin diezaiokezu. <b>Baina guneaz fidatzen bazara ere, errore honek norbait zure konexioan eskua sartzen dabilela esan nahi lezake.</b>">
+<!ENTITY certerror.expert.contentPara2 "Ez gehitu salbuespena ez badakizu arrazoi on bat dagoela gune honek identifikazio fidagarria ez erabiltzeko.">
 <!ENTITY certerror.addTemporaryException.label "Bisitatu gunea">
 <!ENTITY certerror.addPermanentException.label "Behin betiko salbuespena gehitu">
 
