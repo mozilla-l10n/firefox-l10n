@@ -19,24 +19,10 @@
 <!ENTITY dnsNotFound.title "Netþjónn finnst ekki">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Leitaðu í vistfanginu eftir villum eins og 
-<strong>ww</strong>.daemi.is í stað 
-<strong>www</strong>.daemi.is</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Leit</button> 
-</div> 
-<li>Ef þú getur ekki vafrað á neina síðu, skoðaðu þá gagnateninguna eða Wi-Fi tenginguna á tækinu þínu. 
-<button id='wifi'>Virkja Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Leitaðu í vistfanginu eftir villum eins og <strong>ww</strong>.daemi.is í stað <strong>www</strong>.daemi.is</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Leit</button> </div> <li>Ef þú getur ekki vafrað á neina síðu, skoðaðu þá gagnateninguna eða Wi-Fi tenginguna á tækinu þínu. <button id='wifi'>Virkja Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Athugaðu hvort það séu innsláttarvillur í skráarnafninu.</li> 
-<li>Athugaðu hvort skráin hafi verið færð, endurnefnd eða eytt.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Athugaðu hvort það séu innsláttarvillur í skráarnafninu.</li> <li>Athugaðu hvort skráin hafi verið færð, endurnefnd eða eytt.</li> </ul>">
 
 
 <!ENTITY generic.title "Tja hérna.">
@@ -45,16 +31,7 @@
 <!ENTITY malformedURI.title "Vistfang er ógilt">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> 
-<li>Vistföng eru vanalega rituð svona 
-<strong>http://www.daemi.is/</strong></li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Leit</button> 
-</div> 
-<li>Vertu viss að þú sért að nota rétta gerð af skástriki (i.e. 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Vistföng eru vanalega rituð svona <strong>http://www.daemi.is/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Leit</button> </div> <li>Vertu viss að þú sért að nota rétta gerð af skástriki (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Tengingin varð fyrir truflun">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -65,21 +42,13 @@
 <!ENTITY netOffline.title "Aftengdur hamur">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>Reyndu aftur. &brandShortName; mun reyna að opna tengingu og enduhlaða síðuna.  
-<button id='wifi'>Virkja Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Reyndu aftur. &brandShortName; mun reyna að opna tengingu og enduhlaða síðuna.  <button id='wifi'>Virkja Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Villa við dulkóðun innihalds">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Vinsamlega hafið samband við eigandur þessa svæðis til að upplýsa þá um þetta vandamál.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Vinsamlega hafið samband við eigandur þessa svæðis til að upplýsa þá um þetta vandamál.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Óörugg skráartegund">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Vinsamlega hafið samband við eigandur þessa svæðis til að upplýsa þá um þetta vandamál.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Vinsamlega hafið samband við eigandur þessa svæðis til að upplýsa þá um þetta vandamál.</li> </ul>">
 
 <!ENTITY netReset.title "Tengingin var endursett">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -88,62 +57,31 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Vistfangið skildist ekki">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Vera kann að þú þurfir að setja upp annað forrit til að opna þetta vistfang.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Vera kann að þú þurfir að setja upp annað forrit til að opna þetta vistfang.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Milliþjónn neitar tengingu">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Athugaðu hvort milliþjóna stillingarnar séu réttar.</li> 
-<li>Hafðu samband við kerfisstjórann þinn til að tryggja að milliþjónninn sé 
-að virka rétt.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Athugaðu hvort milliþjóna stillingarnar séu réttar.</li> <li>Hafðu samband við kerfisstjórann þinn til að tryggja að milliþjónninn sé að virka rétt.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Gat ekki fundið milliþjón">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>Athugaðu hvort milliþjóna stillingarnar séu réttar.</li> 
-<li>Athugaðu hvort tækið þitt sé með gagna- eða WiFi tengingu sem virkar. 
-<button id='wifi'>Virkja Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Athugaðu hvort milliþjóna stillingarnar séu réttar.</li> <li>Athugaðu hvort tækið þitt sé með gagna- eða WiFi tengingu sem virkar. <button id='wifi'>Virkja Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Síðan er ekki að beinast rétt">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Stundum er orsök þessa vandamáls ef neitað er að óvirkjuð meðtaka 
-smákökur.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Stundum er orsök þessa vandamáls ef neitað er að óvirkjuð meðtaka smákökur.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Óvænt viðbrögð frá netþjóni">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Athugaðu hvort kerfið þitt hafi Personal Security Manager 
-uppsettan.</li> 
-<li>Vera má að þetta sé vegna þess að netþjónninn er ekki stilltur eins og venjulega.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Athugaðu hvort kerfið þitt hafi Personal Security Manager uppsettan.</li> <li>Vera má að þetta sé vegna þess að netþjónninn er ekki stilltur eins og venjulega.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Örugg tenging mistókst">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Ekki var hægt að sýna síðuna sem þú ert að reyna að skoða því ekki var hægt að auðkenna móttekin gögn.</li> 
-<li>Vinsamlega hafið samband við vefsvæðis eigendur og látið þá vita af þessu vandamáli.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Ekki var hægt að sýna síðuna sem þú ert að reyna að skoða því ekki var hægt að auðkenna móttekin gögn.</li> <li>Vinsamlega hafið samband við vefsvæðis eigendur og látið þá vita af þessu vandamáli.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Örugg tenging mistókst">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Það gæti verið vandamál með uppsetningu netþjónsins eða það gæti verið 
-einhver að reyna að þykjast vera þessi netþjónn.</li> 
-<li>Ef þú hefur náð að tengjast þessum netþjón áður þá gæti villan verið 
-tímabundin og þú getur reynt aftur síðar.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Það gæti verið vandamál með uppsetningu netþjónsins eða það gæti verið einhver að reyna að þykjast vera þessi netþjónn.</li> <li>Ef þú hefur náð að tengjast þessum netþjón áður þá gæti villan verið tímabundin og þú getur reynt aftur síðar.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> 
-<li>Svæðið gæti verið ótiltækt tímabundið eða of upptekið til að svara. Reyndu aftur eftir smá tíma.</li> 
-<li>Athugaðu gagna- eða WiFi tenginguna á tækinu þínu ef þú nærð ekki að hlaða inn neinum síðum.   
-<button id='wifi'>Virkja Wi-Fi</button>  
-</li> 
-</ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>Svæðið gæti verið ótiltækt tímabundið eða of upptekið til að svara. Reyndu aftur eftir smá tíma.</li> <li>Athugaðu gagna- eða WiFi tenginguna á tækinu þínu ef þú nærð ekki að hlaða inn neinum síðum.   <button id='wifi'>Virkja Wi-Fi</button>  </li> </ul>">
 
 <!ENTITY cspBlocked.title "Innihalds öryggisregla hefur lokað á þetta">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að síðan hlóðst inn á þennan hátt vegna þess að á síðunni er efni með öryggisreglu sem leyfir það ekki.</p>">
@@ -160,10 +98,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Þú ættir ekki að bæta við fráviki ef þú ert að nota internets tengingu sem þú treystir ekki fullkomlega eða ef þú sérð vanalega ekki aðvörun fyrir þennan netþjón.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Þú ættir ekki að bæta við fráviki ef þú ert að nota internets tengingu sem þú treystir ekki fullkomlega eða ef þú sérð vanalega ekki aðvörun fyrir þennan netþjón.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Fjartenging XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vinsamlega hafðu samband við eigendur þessa vefsvæðis og látið þá vita af þessu vandamáli.</li></ul></p>">
