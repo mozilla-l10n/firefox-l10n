@@ -307,3 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "المتراسلون">
 <!-- Identity popup customize menuitem -->
 
+<!ENTITY customizeFromAddress.label "خصص عنوان المُرسِل…">
+<!ENTITY customizeFromAddress.accesskey "ع">
