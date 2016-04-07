@@ -131,6 +131,8 @@ because displayed names don't have the comma in between. -->
 
 
 
+
+
 <!-- Address Book Toolbar Tooltips -->
 
 
@@ -190,7 +192,7 @@ because displayed names don't have the comma in between. -->
 
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
 
