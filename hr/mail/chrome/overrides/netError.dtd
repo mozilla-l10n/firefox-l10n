@@ -17,32 +17,16 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Poslužitelj nije pronađen">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Provjerite je li adresa ispravno upisana, te sadrži li greške poput 
-<strong>ww</strong>.primjer.com umjesto 
-<strong>www</strong>.primjer.com</li> 
-<li>Ako ne možete pristupiti nijednoj stranici, provjerite vezu vašeg 
-računala.</li> 
-<li>Ako je vaše računalo ili mreža zaštićeno vatrozidom ili proxyjem, provjerite 
-ima li &brandShortName; omogućen pristup Webu.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Provjerite je li adresa ispravno upisana, te sadrži li greške poput <strong>ww</strong>.primjer.com umjesto <strong>www</strong>.primjer.com</li> <li>Ako ne možete pristupiti nijednoj stranici, provjerite vezu vašeg računala.</li> <li>Ako je vaše računalo ili mreža zaštićeno vatrozidom ili proxyjem, provjerite ima li &brandShortName; omogućen pristup Webu.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Provjerite velika i mala slova ili prisutnost ostalih tipfelera.</li> 
-<li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite velika i mala slova ili prisutnost ostalih tipfelera.</li> <li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; ne može učitati ovu stranicu.</p>">
 
 <!ENTITY malformedURI.title "Adresa nije ispravna">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Adrese web stranica se uobičajeno pišu kao 
-<strong>http://www.primjer.com/</strong></li> 
-<li>Provjerite koristite li kose crte prema naprijed (tj. 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Adrese web stranica se uobičajeno pišu kao <strong>http://www.primjer.com/</strong></li> <li>Provjerite koristite li kose crte prema naprijed (tj. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Veza je prekinuta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -51,19 +35,13 @@ ima li &brandShortName; omogućen pristup Webu.</li>
 <!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u privremenoj memoriji.</p><ul><li>Kao mjeru predostrožnosti, &brandShortName; ne traži automatski nanovo povjerljive dokument.</li><li>Kliknite Pokušaj ponovno kako biste ponovno zatražili dokument s web stranice.</li></ul>">
 
 <!ENTITY netOffline.title "Izvanmrežni način rada">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Kliknite na &quot;Pokušaj ponovno&quot; da biste uključili mrežni način rada i ponovno učitali stranicu.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Kliknite na &quot;Pokušaj ponovno&quot; da biste uključili mrežni način rada i ponovno učitali stranicu.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Greška kôdne stranice sadržaja">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Nesigurna vrsta datoteke">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> </ul>">
 
 <!ENTITY netReset.title "Veza je resetirana">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -72,71 +50,36 @@ ima li &brandShortName; omogućen pristup Webu.</li>
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nije razumljena">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Možda trebate instalirati drugu aplikaciju za otvaranje ove adrese.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Možda trebate instalirati drugu aplikaciju za otvaranje ove adrese.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy poslužitelj odbija veze">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Provjerite postavke proxyja i potvrdite da su ispravne.</li> 
-<li>Da biste provjerili radi li proxy poslužitelj, kontaktirajte svoje mrežnog 
-administratora.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Provjerite postavke proxyja i potvrdite da su ispravne.</li> <li>Da biste provjerili radi li proxy poslužitelj, kontaktirajte svoje mrežnog administratora.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Nije moguće pronaći proxy poslužitelje">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Provjerite postavke proxyja i potvrdite da su ispravne.</li> 
-<li>Provjerite ima li vaše računalo funkcionalnu mrežnu vezu.</li> 
-<li>Ako je vaše računalo ili mreža zaštićeno vatrozidom ili proxyjem, provjerite 
-ima li &brandShortName; omogućen pristup Webu.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Provjerite postavke proxyja i potvrdite da su ispravne.</li> <li>Provjerite ima li vaše računalo funkcionalnu mrežnu vezu.</li> <li>Ako je vaše računalo ili mreža zaštićeno vatrozidom ili proxyjem, provjerite ima li &brandShortName; omogućen pristup Webu.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Stranica ne preusmerava ispravno">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Ovaj problem ponekad može biti uzrokovan onemogućavanjem ili odbijanjem prihvaćanja 
-kolačića.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Ovaj problem ponekad može biti uzrokovan onemogućavanjem ili odbijanjem prihvaćanja kolačića.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Neočekivani odgovor od poslužitelja">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Provjerite je li na vašem računalu instaliran Personal Security Manager 
-</li> 
-<li>Ovo može biti uzrokovano neuobičajenim postavkama na poslužitelju.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Provjerite je li na vašem računalu instaliran Personal Security Manager </li> <li>Ovo može biti uzrokovano neuobičajenim postavkama na poslužitelju.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Sigurna veza nije uspjela">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Stranica kojoj pokušavate pristupiti nije moguće prikazati jer nije moguće provjeriti autentičnost podataka.</li> 
-<li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Stranica kojoj pokušavate pristupiti nije moguće prikazati jer nije moguće provjeriti autentičnost podataka.</li> <li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Sigurna veza nije uspjela">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Ovo može biti uzrokovano postavkama na poslužitelju ili je moguće da 
-netko pokušava oponašati ovaj poslužitelj.</li> 
-<li>Ako ste se na ovaj poslužitelj u prošlosti bez problema spajali, moguće je da je greška 
-privremena, stoga možete pokušati ponovno kasnije.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ovo može biti uzrokovano postavkama na poslužitelju ili je moguće da netko pokušava oponašati ovaj poslužitelj.</li> <li>Ako ste se na ovaj poslužitelj u prošlosti bez problema spajali, moguće je da je greška privremena, stoga možete pokušati ponovno kasnije.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> 
-<li>Stranica je možda privremeno nedostupna ili zauzeta. Pokušajte ponovno 
-kasnije.</li> 
-<li>Ako ne možete pristupiti nijednoj stranici, provjerite ima li vaše računalo funkcionalnu 
-mrežnu vezu.</li> 
-<li>Ako je vaše računalo ili mreža zaštićena vatrozidom ili proxyjem, provjerite 
-ima li &brandShortName; omogućen pristup Webu.</li> 
-</ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Stranica je možda privremeno nedostupna ili zauzeta. Pokušajte ponovno kasnije.</li> <li>Ako ne možete pristupiti nijednoj stranici, provjerite ima li vaše računalo funkcionalnu mrežnu vezu.</li> <li>Ako je vaše računalo ili mreža zaštićena vatrozidom ili proxyjem, provjerite ima li &brandShortName; omogućen pristup Webu.</li> </ul>">
 
 <!ENTITY malwareBlocked.title "Sumnja na zloćudnu stranicu!">
-<!ENTITY malwareBlocked.longDesc "<p>Zloćudne stranice pokušavaju instalirati program koji kradu privatne informacije, koriste vaše računalo za napade na druga računala ili oštećuju vaš sustav.</p> 
-<p>Vlasnici web stranica koji vjeruju da se radi o grešci mogu ponovno <a href='http://www.stopbadware.org/home/reviewinfo'>zatražiti pregled</a>.</p>">
+<!ENTITY malwareBlocked.longDesc "<p>Zloćudne stranice pokušavaju instalirati program koji kradu privatne informacije, koriste vaše računalo za napade na druga računala ili oštećuju vaš sustav.</p> <p>Vlasnici web stranica koji vjeruju da se radi o grešci mogu ponovno <a href='http://www.stopbadware.org/home/reviewinfo'>zatražiti pregled</a>.</p>">
 
 <!ENTITY unwantedBlocked.title "Sumnjiva nesigurna stranica!">
 <!ENTITY unwantedBlocked.longDesc "<p>Nesigurne stranice pokušavaju instalirati programe koju su zavaravajući i mogu utjecati na vaš sustav na neočekivane načine.</p>">
 
 <!ENTITY phishingBlocked.title "Sumnja na web krivotvorinu!">
-<!ENTITY phishingBlocked.longDesc "<p>Unošenje bilo kakvih osobnih podataka na ovoj web stranici može rezultirati krađom identiteta ili nekom drugom prijevarom.</p> 
-<p>Ovakve vrste web krivotvorina se koriste u prijevarama poznatijima kao napad lažnim predstavljanjem, u kojima se koriste varljive web stranice ili e-poštu koje imitiraju izvore kojima možda vjerujete.</p>">
+<!ENTITY phishingBlocked.longDesc "<p>Unošenje bilo kakvih osobnih podataka na ovoj web stranici može rezultirati krađom identiteta ili nekom drugom prijevarom.</p> <p>Ovakve vrste web krivotvorina se koriste u prijevarama poznatijima kao napad lažnim predstavljanjem, u kojima se koriste varljive web stranice ili e-poštu koje imitiraju izvore kojima možda vjerujete.</p>">
 
 <!ENTITY forbiddenBlocked.title "Zabranjena stranica">
 <!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; je spriječio učitavanje ove stranice jer je tako naređeno u postavkama.</p>">
@@ -156,10 +99,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Ne biste trebali dodati iznimku ako koristite Internet vezu kojoj ne vjerujete u potpunosti ili ako niste navikli viđati ovu grešku za ovaj poslužitelj.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Ne biste trebali dodati iznimku ako koristite Internet vezu kojoj ne vjerujete u potpunosti ili ako niste navikli viđati ovu grešku za ovaj poslužitelj.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Udaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">
