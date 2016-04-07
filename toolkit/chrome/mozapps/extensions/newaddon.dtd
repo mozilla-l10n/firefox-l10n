@@ -3,12 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "Faka isenezelo">
-<!ENTITY intro           "Olunye uhlelo kukhompyutha yakho lithanda ukuguqula 
-i-&brandShortName; ngalesi senezelo:">
+<!ENTITY intro           "Olunye uhlelo kukhompyutha yakho lithanda ukuguqula i-&brandShortName; ngalesi senezelo:">
 <!ENTITY warning         "Faka okwengeziwe kuphela kusuka ebabhalini obethembayo.">
 <!ENTITY allow           "Vumela lokhu kufakwa">
-<!ENTITY later           "Ungahlala ushintsha ingqondo yakho nganoma isiphi isikhathi ngokuya 
-kumphathi wesenzelo.">
+<!ENTITY later           "Ungahlala ushintsha ingqondo yakho nganoma isiphi isikhathi ngokuya kumphathi wesenzelo.">
 <!ENTITY continue        "Qhubeka">
 <!ENTITY restartMessage  "Kufanele uqale kabusha i-&brandShortName; ukuqedela ukufaka lesi senzelo.">
 <!ENTITY restartButton   "Qala kabusha i-&brandShortName;">

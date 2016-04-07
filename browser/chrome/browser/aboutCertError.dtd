@@ -16,12 +16,8 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.expert.content "Uma uzwisisa ukuthi kwenzekani, 
- ungatshela i-&brandShortName; ukuthi iqale ukuthemba lebu bunikazi balesayithi. 
- <b>Noma ngabe uyalithemba leli sayithi, leli phutha lingasho ukuthi kunomuntu 
- ozama okuthize ngokuxhumana kwakho.</b>">
-<!ENTITY certerror.expert.contentPara2 "Angongezi okukhishiwe ngaphandle kokuthi 
-wazi ukuthi kunesizathu  esilungile sokuba kungani le sayithi ingasebenzisi ubunikazi obuthembekile.">
+<!ENTITY certerror.expert.content "Uma uzwisisa ukuthi kwenzekani,  ungatshela i-&brandShortName; ukuthi iqale ukuthemba lebu bunikazi balesayithi.  <b>Noma ngabe uyalithemba leli sayithi, leli phutha lingasho ukuthi kunomuntu  ozama okuthize ngokuxhumana kwakho.</b>">
+<!ENTITY certerror.expert.contentPara2 "Angongezi okukhishiwe ngaphandle kokuthi wazi ukuthi kunesizathu  esilungile sokuba kungani le sayithi ingasebenzisi ubunikazi obuthembekile.">
 <!ENTITY certerror.addException.label "Yengeza okungaphandle…">
 
 
