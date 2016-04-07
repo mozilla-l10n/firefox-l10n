@@ -335,7 +335,7 @@ size. -->
 
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
 <!ENTITY pref_vendor_faqs "คำถามที่พบบ่อย">
-<!ENTITY pref_vendor_feedback "ส่งข้อคิดเห็น">
+<!ENTITY pref_vendor_feedback "เสนอข้อคิดเห็น">
 
 <!ENTITY pref_dialog_set_default "ตั้งเป็นค่าปริยาย">
 <!ENTITY pref_dialog_default "ค่าปริยาย">
@@ -625,12 +625,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "ไม่สามารถล้างข้อมูลส่วนตัวบางอย่างได้">
 
 <!ENTITY bookmarkhistory_button_import "นำเข้า">
-<!ENTITY bookmarkhistory_import_both "กำลังนำเข้าที่คั่นหน้าและประวัติ
-จาก Android">
-<!ENTITY bookmarkhistory_import_bookmarks "กำลังนำเข้าที่คั่นหน้า
-จาก Android">
-<!ENTITY bookmarkhistory_import_history "กำลังนำเข้าประวัติ
-จาก Android">
+<!ENTITY bookmarkhistory_import_both "กำลังนำเข้าที่คั่นหน้าและประวัติจาก Android">
+<!ENTITY bookmarkhistory_import_bookmarks "กำลังนำเข้าที่คั่นหน้าจาก Android">
+<!ENTITY bookmarkhistory_import_history "กำลังนำเข้าประวัติจาก Android">
 <!ENTITY bookmarkhistory_import_wait "โปรดรอ…">
 
 <!ENTITY suggestions_prompt3 "คุณต้องการเปิดคำแนะนำการค้นหาหรือไม่?">

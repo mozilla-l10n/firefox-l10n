@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "คุณได้ขอให้ &brandShortName; เชื่อมต่อ
-แบบปลอดภัยไปยัง <b>#1</b> แต่เราไม่สามารถยืนยันได้ว่าการเชื่อมต่อของคุณปลอดภัย">
+<!ENTITY certerror.introPara1 "คุณได้ขอให้ &brandShortName; เชื่อมต่อแบบปลอดภัยไปยัง <b>#1</b> แต่เราไม่สามารถยืนยันได้ว่าการเชื่อมต่อของคุณปลอดภัย">
 
 <!ENTITY certerror.whatShouldIDo.heading "ฉันควรทำอย่างไร?">
-<!ENTITY certerror.whatShouldIDo.content "ถ้าปกติคุณเชื่อมต่อกับ
-ไซต์นี้ได้โดยไม่มีปัญหา ข้อผิดพลาดนี้อาจหมายถึงมีใครบางคน
-กำลังพยายามปลอมแปลงไซต์นี้ และคุณไม่ควรดำเนินการต่อ">
+<!ENTITY certerror.whatShouldIDo.content "ถ้าปกติคุณเชื่อมต่อกับไซต์นี้ได้โดยไม่มีปัญหา ข้อผิดพลาดนี้อาจหมายถึงมีใครบางคนกำลังพยายามปลอมแปลงไซต์นี้ และคุณไม่ควรดำเนินการต่อ">
 <!ENTITY certerror.getMeOutOfHere.label "นำฉันออกไปจากที่นี่!">
 
 <!ENTITY certerror.expert.heading "ฉันเข้าใจถึงความเสี่ยง">
-<!ENTITY certerror.expert.content "ถ้าคุณเข้าใจในสิ่งที่เกิดขึ้น คุณ
-สามารถบอก &brandShortName; ให้เริ่มเชื่อถืออัตลักษณ์ของไซต์นี้ได้
-<b>แต่ถึงแม้ว่าคุณจะเชื่อถือไซต์นี้ ข้อผิดพลาดนี้อาจหมายถึงมีใครบางคน
-กำลังดัดแปลงการเชื่อมต่อของคุณ</b>">
-<!ENTITY certerror.expert.contentPara2 "อย่าเพิ่มข้อยกเว้นจนกว่า
-คุณจะทราบเหตุผลว่าทำไมไซต์นี้จึงไม่ใช้อัตลักษณ์ที่เชื่อถือได้">
+<!ENTITY certerror.expert.content "ถ้าคุณเข้าใจในสิ่งที่เกิดขึ้น คุณสามารถบอก &brandShortName; ให้เริ่มเชื่อถืออัตลักษณ์ของไซต์นี้ได้<b>แต่ถึงแม้ว่าคุณจะเชื่อถือไซต์นี้ ข้อผิดพลาดนี้อาจหมายถึงมีใครบางคนกำลังดัดแปลงการเชื่อมต่อของคุณ</b>">
+<!ENTITY certerror.expert.contentPara2 "อย่าเพิ่มข้อยกเว้นจนกว่าคุณจะทราบเหตุผลว่าทำไมไซต์นี้จึงไม่ใช้อัตลักษณ์ที่เชื่อถือได้">
 <!ENTITY certerror.addTemporaryException.label "เยี่ยมชมไซต์">
 <!ENTITY certerror.addPermanentException.label "เพิ่มข้อยกเว้นถาวร">
 
