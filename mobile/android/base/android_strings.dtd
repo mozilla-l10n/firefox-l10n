@@ -628,12 +628,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Algunos datos privados no pueden ser limpiados">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
-<!ENTITY bookmarkhistory_import_both "Importar marcadores e historial 
-desde Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importando marcadores 
-desde Android">
-<!ENTITY bookmarkhistory_import_history "Importando historial 
-desde Android">
+<!ENTITY bookmarkhistory_import_both "Importar marcadores e historial desde Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importando marcadores desde Android">
+<!ENTITY bookmarkhistory_import_history "Importando historial desde Android">
 <!ENTITY bookmarkhistory_import_wait "Por favor, espera...">
 
 <!ENTITY suggestions_prompt3 "¿Te gustaría activar las sugerencias de búsqueda?">

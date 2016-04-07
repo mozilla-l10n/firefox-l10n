@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Le solicitaste a &brandShortName; conectarse 
-en forma segura a <b>#1</b>, pero no es posible confirmarla como tal.">
+<!ENTITY certerror.introPara1 "Le solicitaste a &brandShortName; conectarse en forma segura a <b>#1</b>, pero no es posible confirmarla como tal.">
 
 <!ENTITY certerror.whatShouldIDo.heading "¿Qué debo hacer?">
-<!ENTITY certerror.whatShouldIDo.content "Si comúnmente te conectas a este sitio web 
-sin problemas, este error podría significar que alguien 
-está intentando suplantarlo y no deberías continuar.">
+<!ENTITY certerror.whatShouldIDo.content "Si comúnmente te conectas a este sitio web sin problemas, este error podría significar que alguien está intentando suplantarlo y no deberías continuar.">
 <!ENTITY certerror.getMeOutOfHere.label "¡Sácame de aquí!">
 
 <!ENTITY certerror.expert.heading "Entiendo los riesgos">
-<!ENTITY certerror.expert.content "Si entiendes lo que está pasando 
-puedes indicarle a &brandShortName; confiar en la identificación de este sitio web. 
-<b>Incluso si confías en este sitio web, este error podría significar 
-que alguien está interfiriendo tu conexión.</b>">
-<!ENTITY certerror.expert.contentPara2 "No añadas una excepción a menos 
-que sepas que hay una buena razón por la cual este sitio no usa identificación confiable.">
+<!ENTITY certerror.expert.content "Si entiendes lo que está pasando puedes indicarle a &brandShortName; confiar en la identificación de este sitio web. <b>Incluso si confías en este sitio web, este error podría significar que alguien está interfiriendo tu conexión.</b>">
+<!ENTITY certerror.expert.contentPara2 "No añadas una excepción a menos que sepas que hay una buena razón por la cual este sitio no usa identificación confiable.">
 <!ENTITY certerror.addTemporaryException.label "Visitar sitio">
 <!ENTITY certerror.addPermanentException.label "Agregar excepción permanente">
 
