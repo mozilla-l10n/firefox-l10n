@@ -19,33 +19,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Sarworde yiytaaka">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Ƴeewto so ñiiɓirde ndee alaa pergitte tappugol wano 
-<strong>ww</strong>.yeru.com foti wonde ko 
-<strong>www</strong>.yeru.com</li> 
-<li>So a horiima loowde kelle fof, ƴeewto ceŋorde laylaytol ordinateer 
- maa</li> 
-<li>So tawii laylaytol ordinateer maa ko suraande caggal ɓalal-jaynge walla proxy, waɗ feere 
-nde &brandShortName; yamirtee jolde e Geese.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Ƴeewto so ñiiɓirde ndee alaa pergitte tappugol wano <strong>ww</strong>.yeru.com foti wonde ko <strong>www</strong>.yeru.com</li> <li>So a horiima loowde kelle fof, ƴeewto ceŋorde laylaytol ordinateer  maa</li> <li>So tawii laylaytol ordinateer maa ko suraande caggal ɓalal-jaynge walla proxy, waɗ feere nde &brandShortName; yamirtee jolde e Geese.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Fiilde yiytaaka">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Ƴeewto alkule puɗɗorɗe ɗee e innde fiilde ndee walla juume tappugol goɗɗe.</li> 
-<li>Ƴeewto ngam so fiilde ndee dirtinaaka, innitaaka walla momtaaka.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Ƴeewto alkule puɗɗorɗe ɗee e innde fiilde ndee walla juume tappugol goɗɗe.</li> <li>Ƴeewto ngam so fiilde ndee dirtinaaka, innitaaka walla momtaaka.</li> </ul>">
 
 
 <!ENTITY generic.title "Ndo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; horiima loowde ngoo hello.</p>">
 
 <!ENTITY malformedURI.title "Ñiiɓirde ndee moƴƴaani">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Ñiiɓirɗe geese keewi winndireede ko 
-<strong>http://www.yeru.com/</strong></li> 
-<li>Ƴeewto no feewi so a huutoriima laase yeeso (k.n. 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Ñiiɓirɗe geese keewi winndireede ko <strong>http://www.yeru.com/</strong></li> <li>Ƴeewto no feewi so a huutoriima laase yeeso (k.n. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Ceŋagol ngol taƴii">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -54,19 +38,13 @@ nde &brandShortName; yamirtee jolde e Geese.</li>
 <!ENTITY notCached.longDesc "<p>Fiilannde ɗaɓɓitaande ndee woodaani e kaasol &brandShortName;.</p><ul><li>Ngam reentino kisal, &brandShortName; naamnittaako piilanɗe doondiiɗe caɗeele e jaajol.</li><li>Dobo ngam fuɗɗitaade naamnito-ɗaa fiilannde ndee e lowre ndee</li></ul>">
 
 <!ENTITY netOffline.title "Mbaydi ceŋtol">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Ñoƴƴu &quot;Fuɗɗito&quot; ngam faytude e mbayka ceŋol kesɗitinaa hello ngoo.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Ñoƴƴu &quot;Fuɗɗito&quot; ngam faytude e mbayka ceŋol kesɗitinaa hello ngoo.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Juumre Dokkitannde Loowdi">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe ɗee caɗeele.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe ɗee caɗeele.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Ndee Fiilde Toolnaaki">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe ɗee caɗeele.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe ɗee caɗeele.</li> </ul>">
 
 <!ENTITY netReset.title "Ceŋagol ngol fuɗɗitaama">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -75,60 +53,27 @@ nde &brandShortName; yamirtee jolde e Geese.</li>
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Ñiiɓirde ndee faamaaka">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Ena wona ko maa aafaa won e topirɗe ngam waawde udditde ndee ñiiɓirde.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Ena wona ko maa aafaa won e topirɗe ngam waawde udditde ndee ñiiɓirde.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Sarworde proxy ndee saliima ceŋanɗe">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Ƴeewto teelte proxy ɗee ngam yuurnitaade so eɗe peewi.</li> 
-<li>Jokkondir e jiiloowo laylaytol maa ngam ƴeewde so sarworde proxy ndee ena 
-moƴƴi.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Ƴeewto teelte proxy ɗee ngam yuurnitaade so eɗe peewi.</li> <li>Jokkondir e jiiloowo laylaytol maa ngam ƴeewde so sarworde proxy ndee ena moƴƴi.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Horiima yiytude sarworde proxy ndee">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Ƴeewto teelte proxy ɗee ngam yuurnitaade so eɗe peewi.</li> 
-<li>Ƴeewto so tawii ordinateer maa ena jogii seŋorde moƴƴere.</li> 
-<li>So tawii ordinateer walla laylaytol maa koko suraa caggal ɓalal-jaynge, yuurno 
-so &brandShortName; ena yamiraa naatde e geese.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Ƴeewto teelte proxy ɗee ngam yuurnitaade so eɗe peewi.</li> <li>Ƴeewto so tawii ordinateer maa ena jogii seŋorde moƴƴere.</li> <li>So tawii ordinateer walla laylaytol maa koko suraa caggal ɓalal-jaynge, yuurno so &brandShortName; ena yamiraa naatde e geese.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Ngoo hello wonaani e yiiltude no feewiri">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Ɗee caɗeele ena mbaawi arde so tawii ko a daaƴɗo walla caliiɗo 
-kukiije.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Ɗee caɗeele ena mbaawi arde so tawii ko a daaƴɗo walla caliiɗo kukiije.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Jaatol sarworde faamaaka">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Ƴeewto ngam yuurnitaade so yuɓɓo maa ena aafaa Personal Security 
-Manager.</li> 
-<li>Ɗum ena jolde so tawii teeltol sarworde ndee heftinaaka.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Ƴeewto ngam yuurnitaade so yuɓɓo maa ena aafaa Personal Security Manager.</li> <li>Ɗum ena jolde so tawii teeltol sarworde ndee heftinaaka.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Ceŋagol Kisnangol Woorii">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Hello ngo etoto-ɗaa naatnde ngoo waawaa hollireede sabu goongɗingol keɓe keɓaaɗe ɗee waawaa ƴeewteede.</li> 
-<li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Hello ngo etoto-ɗaa naatnde ngoo waawaa hollireede sabu goongɗingol keɓe keɓaaɗe ɗee waawaa ƴeewteede.</li> <li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Ceŋagol Kisnangol Woorii">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Ɗum ena waawi ummaade e teeltol sarworde ndee, walla ena waawi wonde 
-won etotooɗo ñemmbitaade sarworde ndee.</li> 
-<li>So tawii a meeɗii seŋaade e ndee sarworde e ko ɓenni, maa taw juumre ndee 
-juutataa, ngati aɗa waawi etaade so ɓooyii.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ɗum ena waawi ummaade e teeltol sarworde ndee, walla ena waawi wonde won etotooɗo ñemmbitaade sarworde ndee.</li> <li>So tawii a meeɗii seŋaade e ndee sarworde e ko ɓenni, maa taw juumre ndee juutataa, ngati aɗa waawi etaade so ɓooyii.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> 
-<li>Ndee lowre ena waawi tawo heɓotaako walla ko nde haljunde. Eto kadi ɗoo 
-e ɓooyde.</li> 
-<li>So a horiima loowde hay so hello, ƴeewto laylaytol ordinateer maa 
-so ena seŋii.</li> 
-<li>So tawii ordinateer walla laylaytol maa koko suraa caggal ɓalal-jaynge, yuurno 
-so &brandShortName; ena yamiraa naatde e geese.</li> 
-</ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Ndee lowre ena waawi tawo heɓotaako walla ko nde haljunde. Eto kadi ɗoo e ɓooyde.</li> <li>So a horiima loowde hay so hello, ƴeewto laylaytol ordinateer maa so ena seŋii.</li> <li>So tawii ordinateer walla laylaytol maa koko suraa caggal ɓalal-jaynge, yuurno so &brandShortName; ena yamiraa naatde e geese.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Dawirgol Kisnal Loowdi daaƴii ɗum">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; haɗii ngo hello loowaade e ndii mbaydi sabu hello ngoo ena jogii dawirdol kisnal loowdi caliindi ɗum.</p>">
@@ -146,10 +91,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>A fotaani ɓeydude paltoor so tawii aɗa huutoroo ceŋol enternet ngol a hoolaaji no feewi walla so a woowaani yiyde hono deentine ummiiɗe e ndee sarworde.</p> 
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>A fotaani ɓeydude paltoor so tawii aɗa huutoroo ceŋol enternet ngol a hoolaaji no feewi walla so a woowaani yiyde hono deentine ummiiɗe e ndee sarworde.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "Ɓeydu humpito…">
 

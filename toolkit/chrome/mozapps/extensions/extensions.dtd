@@ -121,11 +121,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Ko woni ɓeyditte?">
-<!ENTITY discover.description2                "Ɓeyditte ko jaaɓnirɗe ballooje-ma heertinde &brandShortName; ɓeyda heen 
-gaatuleeje goɗɗe walla panni. Ƴeewndo palal kuutorɗe jaawnowal, tintinorde asamaan, walla mbaydi siŋkoore ɓeydowal &brandShortName; 
-nanndude e yiɗde maa.">
-<!ENTITY discover.footer                      "So a seŋiima e enternet, ngal alluwal maa hollu 
-ɓeyditte ɓurɗe ŋarɗude e lollude ngal ƴeewndo-ɗaa.">
+<!ENTITY discover.description2                "Ɓeyditte ko jaaɓnirɗe ballooje-ma heertinde &brandShortName; ɓeyda heen gaatuleeje goɗɗe walla panni. Ƴeewndo palal kuutorɗe jaawnowal, tintinorde asamaan, walla mbaydi siŋkoore ɓeydowal &brandShortName; nanndude e yiɗde maa.">
+<!ENTITY discover.footer                      "So a seŋiima e enternet, ngal alluwal maa hollu ɓeyditte ɓurɗe ŋarɗude e lollude ngal ƴeewndo-ɗaa.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Yamre">
