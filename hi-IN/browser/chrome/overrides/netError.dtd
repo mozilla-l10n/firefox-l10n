@@ -19,33 +19,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title " सर्वर नहीं मिला">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>टाइपिंग त्रुटियों के लिए पते की जाँच करें 
-<strong>ww</strong>.example.com की जगह 
-<strong>www</strong>.example.com</li> 
-<li>यदि आप किसी भी पेज लोड करने में असमर्थ हैं, तो कंप्यूटर नेटवर्क 
- कनेक्शन की जाँच करें.</li> 
-<li>यदि आपका कंप्यूटर या नेटवर्क फायरवाल या प्रॉक्सी से सुरक्षित है, सुनिश्चित करें
- कि &brandShortName; को वेब के पहुँच के लिए अनुमति प्राप्त है.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>टाइपिंग त्रुटियों के लिए पते की जाँच करें <strong>ww</strong>.example.com की जगह <strong>www</strong>.example.com</li> <li>यदि आप किसी भी पेज लोड करने में असमर्थ हैं, तो कंप्यूटर नेटवर्क  कनेक्शन की जाँच करें.</li> <li>यदि आपका कंप्यूटर या नेटवर्क फायरवाल या प्रॉक्सी से सुरक्षित है, सुनिश्चित करें कि &brandShortName; को वेब के पहुँच के लिए अनुमति प्राप्त है.</li> </ul>">
 
 <!ENTITY fileNotFound.title " फाइल नहीं मिला">
-<!ENTITY fileNotFound.longDesc " <ul> 
-<li>कैपिटलाइजेशन या दूसरी टाइपिंग त्रुटि के लिए फाइल नाम जांचें.</li> 
-<li>जाँचे यह देखने के लिए कि फाइल खिसकाया, फिर नामकरण किया अथवा मिटाया गया था.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc " <ul> <li>कैपिटलाइजेशन या दूसरी टाइपिंग त्रुटि के लिए फाइल नाम जांचें.</li> <li>जाँचे यह देखने के लिए कि फाइल खिसकाया, फिर नामकरण किया अथवा मिटाया गया था.</li> </ul>">
 
 
 <!ENTITY generic.title " ओफ्फ.">
 <!ENTITY generic.longDesc " <p>&brandShortName; कुछ कारणों के लिए इस पृष्ठ को लोड नहीं कर सकता है.</p>">
 
 <!ENTITY malformedURI.title " पता वैध नहीं है">
-<!ENTITY malformedURI.longDesc " <ul> 
-<li>वेब पता प्रायः इस तरह लिखा जाता है 
-<strong>http://www.example.com/</strong></li> 
-<li>सुनिश्चित करें कि आप फॉरवर्ड स्लैश का प्रयोग कर रहे हैं (यानी 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc " <ul> <li>वेब पता प्रायः इस तरह लिखा जाता है <strong>http://www.example.com/</strong></li> <li>सुनिश्चित करें कि आप फॉरवर्ड स्लैश का प्रयोग कर रहे हैं (यानी <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title " कनेक्शन बाधित किया गया था">
 <!ENTITY netInterrupt.longDesc " &sharedLongDesc;">
@@ -54,19 +38,13 @@
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "Offline mode">
-<!ENTITY netOffline.longDesc2 " <ul> 
-<li>&quot;फिर कोशिश करें&quot; को ऑनलाइन अवस्था में जाने के लिए दबाएँ और पृष्ठ फिर लोड करें.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 " <ul> <li>&quot;फिर कोशिश करें&quot; को ऑनलाइन अवस्था में जाने के लिए दबाएँ और पृष्ठ फिर लोड करें.</li> </ul>">
 
 <!ENTITY contentEncodingError.title " अंतर्वस्तु ऐन्कोडिंग त्रुटि">
-<!ENTITY contentEncodingError.longDesc " <ul> 
-<li>कृपया वेबसाइट मालिक से उन्हें इस समस्या के बारे में बताने के लिए संपर्क करें.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc " <ul> <li>कृपया वेबसाइट मालिक से उन्हें इस समस्या के बारे में बताने के लिए संपर्क करें.</li> </ul>">
 
 <!ENTITY unsafeContentType.title " असुरक्षित फाइल प्रकार">
-<!ENTITY unsafeContentType.longDesc " <ul> 
-<li>कृपया वेबसाइट मालिक से उन्हें इस समस्या के बारे में बताने के लिए संपर्क करें.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc " <ul> <li>कृपया वेबसाइट मालिक से उन्हें इस समस्या के बारे में बताने के लिए संपर्क करें.</li> </ul>">
 
 <!ENTITY netReset.title " कनेक्शन रिसेट किया गया था">
 <!ENTITY netReset.longDesc " &sharedLongDesc;">
@@ -75,60 +53,27 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title " पता समझा नहीं गया था">
-<!ENTITY unknownProtocolFound.longDesc " <ul> 
-<li>आप अन्य साफ्टवेयर को इस पता को खोलने के लिए संस्थापित कर सकते हैं.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc " <ul> <li>आप अन्य साफ्टवेयर को इस पता को खोलने के लिए संस्थापित कर सकते हैं.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title " प्रॉक्सी सर्वर कनेक्शन अस्वीकार कर रहा है">
-<!ENTITY proxyConnectFailure.longDesc " <ul> 
-<li>प्रॉक्सी सेटिंग की जाँच सुनिश्चित करने के लिए करें कि वे सही हैं.</li> 
-<li>अपने संजाल प्रशासक को जांचे सुनिश्चित करने के लिए प्रॉक्सी सर्वर 
-काम कर रहा है.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc " <ul> <li>प्रॉक्सी सेटिंग की जाँच सुनिश्चित करने के लिए करें कि वे सही हैं.</li> <li>अपने संजाल प्रशासक को जांचे सुनिश्चित करने के लिए प्रॉक्सी सर्वर काम कर रहा है.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title " प्राक्सी सर्वर ढ़ूढ़ने में असमर्थ">
-<!ENTITY proxyResolveFailure.longDesc " <ul> 
-<li>प्रॉक्सी सेटिंग की जाँच सुनिश्चित करने के लिए करें कि वे सही हैं.</li> 
-<li>सुनिश्चित करने के लिए जाँचें कि आपके कंप्यूटर के पास कार्यशील संजाल कनेक्शन है.</li> 
-<li>यदि आपका कंप्यूटर या संजाल फायरवाल या प्रॉक्सी से सुरक्षित है, सुनिश्चित करें 
-कि &brandShortName; को वेब के अभिगम के लिए अनुमति प्राप्त है.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc " <ul> <li>प्रॉक्सी सेटिंग की जाँच सुनिश्चित करने के लिए करें कि वे सही हैं.</li> <li>सुनिश्चित करने के लिए जाँचें कि आपके कंप्यूटर के पास कार्यशील संजाल कनेक्शन है.</li> <li>यदि आपका कंप्यूटर या संजाल फायरवाल या प्रॉक्सी से सुरक्षित है, सुनिश्चित करें कि &brandShortName; को वेब के अभिगम के लिए अनुमति प्राप्त है.</li> </ul>">
 
 <!ENTITY redirectLoop.title " पृष्ठ ठीक से पुनर्निर्देशित नहीं कर रहा है">
-<!ENTITY redirectLoop.longDesc " <ul> 
-<li>यह समस्या कभी कभी कुकी को स्वीकार करने या निष्क्रिय 
-करने के कारण होता है.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc " <ul> <li>यह समस्या कभी कभी कुकी को स्वीकार करने या निष्क्रिय करने के कारण होता है.</li> </ul>">
 
 <!ENTITY unknownSocketType.title " सर्वर से अप्रत्याशित अनुक्रिया">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>सुनिश्चित करने के लिए जाँचें कि आपके सिस्टम में निजी सुरक्षा प्रबंधक 
-स्थापित है.</li> 
-<li>यह सर्वर पर किसी गैर मानक विन्यास के कारण हो सकता है.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>सुनिश्चित करने के लिए जाँचें कि आपके सिस्टम में निजी सुरक्षा प्रबंधक स्थापित है.</li> <li>यह सर्वर पर किसी गैर मानक विन्यास के कारण हो सकता है.</li> </ul>">
 
 <!ENTITY nssFailure2.title " सुरक्षित कनेक्शन विफल">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>पृष्ठ जिसे आप देखने की कोशिश कर रहे हैं नहीं दिखाया जा सकता है क्योंकि प्राप्त आंकड़ा की प्रमाणिकता जांची नहीं जा सकी.</li> 
-<li>कृपया वेब साइट मालिक को इस समस्या के बारे में सूचित करने के लिए संपर्क करें.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>पृष्ठ जिसे आप देखने की कोशिश कर रहे हैं नहीं दिखाया जा सकता है क्योंकि प्राप्त आंकड़ा की प्रमाणिकता जांची नहीं जा सकी.</li> <li>कृपया वेब साइट मालिक को इस समस्या के बारे में सूचित करने के लिए संपर्क करें.</li> </ul>">
 
 <!ENTITY nssBadCert.title " सुरक्षित कनेक्शन विफल">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>यह सर्वर विन्यास के साथ समस्या हो सकती है, या कोई दूसरा 
-सर्वर का भेष बना के आने की कोशिश कर सकता है !</li> 
-<li>यदि आप सर्वर से पहले सफलतापूर्वक कनेक्ट हो चुके हैं, तो त्रुटि 
-अस्थायी हो सकती है, और आप दोबारा फिर कोशिश कर सकते हैं</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>यह सर्वर विन्यास के साथ समस्या हो सकती है, या कोई दूसरा सर्वर का भेष बना के आने की कोशिश कर सकता है !</li> <li>यदि आप सर्वर से पहले सफलतापूर्वक कनेक्ट हो चुके हैं, तो त्रुटि अस्थायी हो सकती है, और आप दोबारा फिर कोशिश कर सकते हैं</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> 
-<li>यह साइट अस्थायी रूप से अनुपलब्ध या अत्यधिक व्यस्त हो सकती है! कुछ क्षणों में 
-फिर कोशिश करें.</li> 
-<li>यदि आप किसी पृष्ठ को लोड करने में असमर्थ हैं, अपने कंप्यूटर प्रसार 
-संयोजन की जांच करें.</li> 
-<li>यदि आपका कंप्यूटर या प्रसार किसी फायरवाल या प्रॉक्सी से संरक्षित है, सुनिश्चित करें 
-कि &brandShortName; वेब अभिगमन के लिए अनुमति प्राप्त है.</li> 
-</ul>">
+<!ENTITY sharedLongDesc "<ul> <li>यह साइट अस्थायी रूप से अनुपलब्ध या अत्यधिक व्यस्त हो सकती है! कुछ क्षणों में फिर कोशिश करें.</li> <li>यदि आप किसी पृष्ठ को लोड करने में असमर्थ हैं, अपने कंप्यूटर प्रसार संयोजन की जांच करें.</li> <li>यदि आपका कंप्यूटर या प्रसार किसी फायरवाल या प्रॉक्सी से संरक्षित है, सुनिश्चित करें कि &brandShortName; वेब अभिगमन के लिए अनुमति प्राप्त है.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
@@ -146,10 +91,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "इस तरह की त्रुटियों की सूचना देकर Mozilla का सहयोग करें ताकि Mozilla दुर्भावनापूर्ण साइटों की पहचान कर बंद कर सके">
 <!ENTITY errorReporting.learnMore "अधिक जानें…">
