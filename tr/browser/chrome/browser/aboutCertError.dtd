@@ -20,17 +20,10 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "Daha fazla bilgi…">
 <!ENTITY certerror.advanced.label "Gelişmiş">
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Bu site, &brandShortName; tarayıcısının kendisine 
-yalnızca güvenli olarak bağlanabileceğini belirtmek için 
-HTTP Sıkı Aktarım Güvenliği (HSTS) kullanmaktadır. Sonuç olarak, 
-bu sertifika için istisna eklenemez.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Bu site, &brandShortName; tarayıcısının kendisine yalnızca güvenli olarak bağlanabileceğini belirtmek için HTTP Sıkı Aktarım Güvenliği (HSTS) kullanmaktadır. Sonuç olarak, bu sertifika için istisna eklenemez.">
 
-<!ENTITY certerror.expert.content "Neler olup bittiğinin farkındaysanız &brandShortName; tarayıcısına 
-bu sitenin kimlik bilgilerine güvenmesini söyleyebilirsiniz. 
-<b>Siteye güvenseniz bile bu hata, birisinin bağlantınızı kurcaladığı 
-anlamına gelebilir.</b>">
-<!ENTITY certerror.expert.contentPara2 "Bu siteye, güvenilir kimlik bilgisi sunmaması için geçerli bir nedeni 
-olmadıkça ayrıcalık tanımayın.">
+<!ENTITY certerror.expert.content "Neler olup bittiğinin farkındaysanız &brandShortName; tarayıcısına bu sitenin kimlik bilgilerine güvenmesini söyleyebilirsiniz. <b>Siteye güvenseniz bile bu hata, birisinin bağlantınızı kurcaladığı anlamına gelebilir.</b>">
+<!ENTITY certerror.expert.contentPara2 "Bu siteye, güvenilir kimlik bilgisi sunmaması için geçerli bir nedeni olmadıkça ayrıcalık tanımayın.">
 <!ENTITY certerror.addException.label "Ayrıcalık tanı…">
 <!ENTITY certerror.copyToClipboard.label "Metni panoya kopyala">
 
