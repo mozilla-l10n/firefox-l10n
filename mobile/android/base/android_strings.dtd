@@ -628,12 +628,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Ezinye iingcombolo zangasese azisuseki">
 
 <!ENTITY bookmarkhistory_button_import "Thumela ngaphakathi">
-<!ENTITY bookmarkhistory_import_both "Ingenisa iibhukhmakhi nembali 
-esuka kwi-Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Ingenisa iibhukhmakhi 
-ezisuka kwi-Android">
-<!ENTITY bookmarkhistory_import_history "Ingenisa imbali 
-esuka kwi-Android">
+<!ENTITY bookmarkhistory_import_both "Ingenisa iibhukhmakhi nembali esuka kwi-Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Ingenisa iibhukhmakhi ezisuka kwi-Android">
+<!ENTITY bookmarkhistory_import_history "Ingenisa imbali esuka kwi-Android">
 <!ENTITY bookmarkhistory_import_wait "Nceda linda...">
 
 <!ENTITY suggestions_prompt3 "Ungathanda ukuvula iingcamango zokukhangela?">
