@@ -215,8 +215,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Taispeáin sonraí faoin ardán Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Leis an rogha seo, cuirfidh an próifíleoir JavaScript siombailí ardáin Gecko 
- san áireamh">
+<!ENTITY options.showPlatformData.tooltip  "Leis an rogha seo, cuirfidh an próifíleoir JavaScript siombailí ardáin Gecko  san áireamh">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
