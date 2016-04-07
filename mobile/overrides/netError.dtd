@@ -19,24 +19,10 @@
 <!ENTITY dnsNotFound.title "Cha deach am frithealaiche a lorg">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Dèan cinnteach nach eil mearachdan litreachaidh san t-seòladh mar 
-<strong>ww</strong>.ball-eisimpleir.com an àite 
-<strong>www</strong>.ball-eisimpleir.com</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Lorg</button> 
-</div> 
-<li>Mur urrainn dhut duilleag sam bith a luchdadh, thoir sùil air ceangal dàta no WiFi an uidheim agad. 
-<button id='wifi'>Cuir an comas WiFi</button> 
-</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Dèan cinnteach nach eil mearachdan litreachaidh san t-seòladh mar <strong>ww</strong>.ball-eisimpleir.com an àite <strong>www</strong>.ball-eisimpleir.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Lorg</button> </div> <li>Mur urrainn dhut duilleag sam bith a luchdadh, thoir sùil air ceangal dàta no WiFi an uidheim agad. <button id='wifi'>Cuir an comas WiFi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Cha deach am faidhle a lorg">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Dèan cinnteach nach eile litrichean mòra no beaga san àite chearr no mearachdan litreachaidh eile.</li> 
-<li>Saoil an deach am faidhle a ghluasad, a sguabadh às no gun deach ainm ùr a chur air?</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Dèan cinnteach nach eile litrichean mòra no beaga san àite chearr no mearachdan litreachaidh eile.</li> <li>Saoil an deach am faidhle a ghluasad, a sguabadh às no gun deach ainm ùr a chur air?</li> </ul>">
 
 
 <!ENTITY generic.title "Mo chreach!">
@@ -45,16 +31,7 @@
 <!ENTITY malformedURI.title "Chan e seòladh dligheach a tha ann">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> 
-<li>Bidh seòlaidhean-lìn coltas ri seo mar is trice: 
-<strong>http://www.ball-eisimpleir.com/</strong></li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Lorg</button> 
-</div> 
-<li>Dèan cinnteach gun cleachd thu an t-slais cheart (i.e. 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Bidh seòlaidhean-lìn coltas ri seo mar is trice: <strong>http://www.ball-eisimpleir.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Lorg</button> </div> <li>Dèan cinnteach gun cleachd thu an t-slais cheart (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Bhris rudeigin a-steach air a' cheangal">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -65,21 +42,13 @@
 <!ENTITY netOffline.title "Am modh far loidhne">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>Feuch ris a-rithist. Feuchaidh &brandShortName; ri ceangal fhosgladh is an duilleag ath-luchdadh. 
-<button id='wifi'>Cuir WiFi an comas</button> 
-</li> 
-</ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Feuch ris a-rithist. Feuchaidh &brandShortName; ri ceangal fhosgladh is an duilleag ath-luchdadh. <button id='wifi'>Cuir WiFi an comas</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Mearachd le còdachadh na susbaint">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Nach leig thu fios air an duilgheadas seo gun fheadhainn aig a bheil an làrach-lìn?</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Nach leig thu fios air an duilgheadas seo gun fheadhainn aig a bheil an làrach-lìn?</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Faidhle de sheòrsa neo-thèarainte">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Nach leig thu fios air an duilgheadas seo gun fheadhainn aig a bheil an làrach-lìn?</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Nach leig thu fios air an duilgheadas seo gun fheadhainn aig a bheil an làrach-lìn?</li> </ul>">
 
 <!ENTITY netReset.title "Chaidh an ceangal ath-shuidheachadh">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -88,62 +57,31 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Cha deach an seòladh a thuigsinn">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Dh'fhaodadh gum bi agad bathar-bog a bharrachd a stàladh mus fosgail thu an seòladh seo.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Dh'fhaodadh gum bi agad bathar-bog a bharrachd a stàladh mus fosgail thu an seòladh seo.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Tha am frithealaiche progsaidh a' diùltadh cheanglaichean">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li> 
-<li>Cuir fios gu rianaire an lìonra agad gus dèanamh cinnteach gu bheil 
-am progsaidh ag obair.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li> <li>Cuir fios gu rianaire an lìonra agad gus dèanamh cinnteach gu bheil am progsaidh ag obair.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Cha ghabh am frithealaiche progsaidh a lorg">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li> 
-<li>Dèan cinnteach gu bheil ceangal dàta no WiFi beò aig an uidheam agad. 
-<button id='wifi'>Cuir WiFi an comas</button> 
-</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li> <li>Dèan cinnteach gu bheil ceangal dàta no WiFi beò aig an uidheam agad. <button id='wifi'>Cuir WiFi an comas</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Chan eil an duilleag ag ath-stiùireadh mar bu chòir">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Tachraidh seo uaireannan mur eil briosgaidean an comas no 
-'gan diùltadh.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Tachraidh seo uaireannan mur eil briosgaidean an comas no 'gan diùltadh.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Freagairt ris nach robh dùil on fhrithealaiche">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Dèan cinnteach gu bheil manaidsear na tèarainteachd phearsanta air 
-an t-siostam agad.</li> 
-<li>Dh'fhaodadh seo tachairt an cois rèiteachadh neo-stannardach air an fhrithealaiche.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Dèan cinnteach gu bheil manaidsear na tèarainteachd phearsanta air an t-siostam agad.</li> <li>Dh'fhaodadh seo tachairt an cois rèiteachadh neo-stannardach air an fhrithealaiche.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Dh'fhàillig an ceangal tèarainte">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Cha ghabh an duilleag a tha thu airson faicinn a shealltainn a chionn 's nach gabh dearbhachd an dàta a fhuaradh a dhearbhadh.</li> 
-<li>Cuir fios gun fheadhainn aig a bheil an làrach-lìn gu bheil a leithid de dhuilgheadas ann.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Cha ghabh an duilleag a tha thu airson faicinn a shealltainn a chionn 's nach gabh dearbhachd an dàta a fhuaradh a dhearbhadh.</li> <li>Cuir fios gun fheadhainn aig a bheil an làrach-lìn gu bheil a leithid de dhuilgheadas ann.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Dh'fhàillig an ceangal tèarainte">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Dh’fhaodadh gur e duilgheadas le rèiteachadh an fhrithealaiche a tha ann no 
-gu bheil cuideigin a’ feuchainn ri gabhail orra gur iadsan am frithealaiche.</li> 
-<li>Ma chaidh agad air ceangal a dhèanamh ris an fhrithealaiche seo roimhe, 
-’s mathaid nach mair a' mhearachd agus feuch ris a-rithist an ceann tàmaill.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Dh’fhaodadh gur e duilgheadas le rèiteachadh an fhrithealaiche a tha ann no gu bheil cuideigin a’ feuchainn ri gabhail orra gur iadsan am frithealaiche.</li> <li>Ma chaidh agad air ceangal a dhèanamh ris an fhrithealaiche seo roimhe, ’s mathaid nach mair a' mhearachd agus feuch ris a-rithist an ceann tàmaill.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> 
-<li>Dh’fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang. Feuch ris a-rithist an ceann greis.</li> 
-<li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an uidheim agad. 
-<button id='wifi'>Cuir WiFi an comas</button> 
-</li> 
-</ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>Dh’fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang. Feuch ris a-rithist an ceann greis.</li> <li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an uidheim agad. <button id='wifi'>Cuir WiFi an comas</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "’Ga chasgadh le poileasaidh tèarainteachd susbainte">
 <!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn ’s gu bheil poileasaidh tèarainteachd susbainte ann nach eil ’ga cheadachadh.</p>">
@@ -160,10 +98,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Cha bu chòir dhut eisgeachd a chur ris ma tha thu a' cleachdadh ceangal dhan eadar-lìon anns nach eil earbsa agad buileach no mur eil dùil agad ri rabhadh mun fhrithealaiche seo.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Cha bu chòir dhut eisgeachd a chur ris ma tha thu a' cleachdadh ceangal dhan eadar-lìon anns nach eil earbsa agad buileach no mur eil dùil agad ri rabhadh mun fhrithealaiche seo.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL cèin">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Cuir fios gu seilbheadairean na làraich mun duilgheadas seo.</li></ul></p>">
