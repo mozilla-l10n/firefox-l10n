@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Sće &brandShortName; prosył, zo byšće wěsće 
-z <b>#1</b> zwjazał, ale njeje móžno wobkrućić, zo waš zwisk je wěsty.">
+<!ENTITY certerror.introPara1 "Sće &brandShortName; prosył, zo byšće wěsće z <b>#1</b> zwjazał, ale njeje móžno wobkrućić, zo waš zwisk je wěsty.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Što měło so činić?">
-<!ENTITY certerror.whatShouldIDo.content "Jeli zwjetša z tutym sydłom 
-bjez problemow zwjazujeće, móhł tutón zmylk woznamjenić, zo něchtó 
-pospytuje sydło za swoje wudać, wy njemóhł tohodla pokročować.">
+<!ENTITY certerror.whatShouldIDo.content "Jeli zwjetša z tutym sydłom bjez problemow zwjazujeće, móhł tutón zmylk woznamjenić, zo něchtó pospytuje sydło za swoje wudać, wy njemóhł tohodla pokročować.">
 <!ENTITY certerror.getMeOutOfHere.label "Daj mi tu won!">
 
 <!ENTITY certerror.expert.heading "Rozumju rizika">
-<!ENTITY certerror.expert.content "Jeli rozumiće, štož so stawa, móžeće 
-&brandShortName; kazać identifikaciji sydła dowěrić. 
-<b>Samo, jeli sydłu dowěrjeće, móhł tutón zmylk woznamjenić, 
-zo něchtó so ze zwiskom přepřimuje.</b>">
-<!ENTITY certerror.expert.contentPara2 "Njepřidaj wuwzaće, chibazo wěsće dobru přičinu, 
-čehodla tute sydło dowěry hódnu identifikaciju njewužiwa.">
+<!ENTITY certerror.expert.content "Jeli rozumiće, štož so stawa, móžeće &brandShortName; kazać identifikaciji sydła dowěrić. <b>Samo, jeli sydłu dowěrjeće, móhł tutón zmylk woznamjenić, zo něchtó so ze zwiskom přepřimuje.</b>">
+<!ENTITY certerror.expert.contentPara2 "Njepřidaj wuwzaće, chibazo wěsće dobru přičinu, čehodla tute sydło dowěry hódnu identifikaciju njewužiwa.">
 <!ENTITY certerror.addTemporaryException.label "Sydło wopytać">
 <!ENTITY certerror.addPermanentException.label "Trajne wuwzaće přidać">
 
