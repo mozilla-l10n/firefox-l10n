@@ -121,11 +121,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Add-on çi ne?">
-<!ENTITY discover.description2                "Add-on sepan in û bi wan dikarî &brandShortName;ê taybet bikî. Dikarî taybetî û 
-şêwazên cuda bi kar bînî. Dikarî kara-ji-demê, hişyarkiirna seqayê, an jî dirbên xuyakirinê bi kar bînî û &brandShortName;a 
-xwe xweşiktir bikî.">
-<!ENTITY discover.footer                      "Dema ku tu bikevî înternetê, ev pencerok dê ji bo 
-ceribandina te bikeve hin add-onên herî baş û nas.">
+<!ENTITY discover.description2                "Add-on sepan in û bi wan dikarî &brandShortName;ê taybet bikî. Dikarî taybetî û şêwazên cuda bi kar bînî. Dikarî kara-ji-demê, hişyarkiirna seqayê, an jî dirbên xuyakirinê bi kar bînî û &brandShortName;a xwe xweşiktir bikî.">
+<!ENTITY discover.footer                      "Dema ku tu bikevî înternetê, ev pencerok dê ji bo ceribandina te bikeve hin add-onên herî baş û nas.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Guherto">

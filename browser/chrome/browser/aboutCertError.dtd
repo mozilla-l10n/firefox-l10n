@@ -16,12 +16,8 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.expert.content "Heke dizanî ka çi diqewime, dikarî 
-ji &brandShortName;'ê re bêjî ku ji nasnameya vê malperê bawer bike. 
-<b>Heke pir baweriya te ji ewlekariya vê malperê heye, dibe ku hinek 
-niha êrîşî girêdana te ya înternetê dikin.</b>">
-<!ENTITY certerror.expert.contentPara2 "Heta ku sedemeke te ya baş tune be, 
-li nasnameya malperên wisa ewle nebe û zêdebariyê nedê.">
+<!ENTITY certerror.expert.content "Heke dizanî ka çi diqewime, dikarî ji &brandShortName;'ê re bêjî ku ji nasnameya vê malperê bawer bike. <b>Heke pir baweriya te ji ewlekariya vê malperê heye, dibe ku hinek niha êrîşî girêdana te ya înternetê dikin.</b>">
+<!ENTITY certerror.expert.contentPara2 "Heta ku sedemeke te ya baş tune be, li nasnameya malperên wisa ewle nebe û zêdebariyê nedê.">
 <!ENTITY certerror.addException.label "Zêdebariyê Bidê…">
 
 
