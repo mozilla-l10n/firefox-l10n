@@ -19,24 +19,10 @@
 <!ENTITY dnsNotFound.title "No se encontró el servidor">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Comprueba que la dirección que escribiste no tiene errores tales como 
-<strong>ww</strong>.ejemplo.com en lugar de 
-<strong>www</strong>.ejemplo.com</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Buscar</button> 
-</div> 
-<li>Si no puedes cargar ninguna página, revisa los datos de tu dispositivo o la conexión Wi-Fi. 
-<button id='wifi'>Habilitar Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Comprueba que la dirección que escribiste no tiene errores tales como <strong>ww</strong>.ejemplo.com en lugar de <strong>www</strong>.ejemplo.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Buscar</button> </div> <li>Si no puedes cargar ninguna página, revisa los datos de tu dispositivo o la conexión Wi-Fi. <button id='wifi'>Habilitar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "No se encontró el archivo">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Comprueba que el nombre del archivo no contenga errores.</li> 
-<li>Verifica si el archivo se borró, movió o renombró.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Comprueba que el nombre del archivo no contenga errores.</li> <li>Verifica si el archivo se borró, movió o renombró.</li> </ul>">
 
 
 <!ENTITY generic.title "Ups.">
@@ -45,16 +31,7 @@
 <!ENTITY malformedURI.title "La dirección no es válida">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> 
-<li>La direcciones Web usualmente están escritas como 
-<strong>http://www.example.com/</strong></li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Buscar</button> 
-</div> 
-<li>Asegúrate que estás usando las barras inclinadas hacia adelante (por ej. 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>La direcciones Web usualmente están escritas como <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Buscar</button> </div> <li>Asegúrate que estás usando las barras inclinadas hacia adelante (por ej. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "La conexión se interrumpió">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -65,21 +42,13 @@
 <!ENTITY netOffline.title "Modo sin conexión">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>Intentar de nuevo. &brandShortName; intentará abrir una conexión y recargar la página. 
-<button id='wifi'>Habilitar Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Intentar de nuevo. &brandShortName; intentará abrir una conexión y recargar la página. <button id='wifi'>Habilitar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li> </ul>">
 
 <!ENTITY netReset.title "La conexión se reinició">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -88,62 +57,31 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "No se comprende la dirección">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Necesitas instalar otro programa para abrir esta dirección.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Necesitas instalar otro programa para abrir esta dirección.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando las conexiones">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Comprueba que la configuración del proxy esté correcta.</li> 
-<li>Comunícate con el administrador de la red para comprobar que el servidor proxy está 
-funcionando.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Comprueba que la configuración del proxy esté correcta.</li> <li>Comunícate con el administrador de la red para comprobar que el servidor proxy está funcionando.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>Revisa la configuración del Proxy para estar seguro es correcta.</li> 
-<li>Asegúrate que tu dispositivo tiene una conexión operativa de Wi-Fi o de datos. 
-<button id='wifi'>Activar Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Revisa la configuración del Proxy para estar seguro es correcta.</li> <li>Asegúrate que tu dispositivo tiene una conexión operativa de Wi-Fi o de datos. <button id='wifi'>Activar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "La página no se está redireccionando apropiadamente">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Este problema puede estar pasando por haber deshabilitado 
-las cookies.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Este problema puede estar pasando por haber deshabilitado las cookies.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Respuesta inesperada del servidor">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Revisa para estar seguro que tu sistema tiene el Administrador de Seguridad Personal 
-instalado.</li> 
-<li>Esto podría ser ocasionado por una configuración no estándar en el servidor.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Revisa para estar seguro que tu sistema tiene el Administrador de Seguridad Personal instalado.</li> <li>Esto podría ser ocasionado por una configuración no estándar en el servidor.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Conexión segura fallida">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>La página que estás tratando de ver no puede mostrarse porque la autenticación para recibir datos no puede ser verificada.</li> 
-<li>Por favor contacta a los dueños del sitio web para informarles de este problema.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>La página que estás tratando de ver no puede mostrarse porque la autenticación para recibir datos no puede ser verificada.</li> <li>Por favor contacta a los dueños del sitio web para informarles de este problema.</li> </ul>">
 
 <!ENTITY nssBadCert.title "La conexión segura ha fallado">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Esto podría ser un problema con la configuración del servidor o tal vez alguien
-está intentando hacerse pasar por éste.</li> 
-<li>Si te has conectado a este servidor anteriormente con éxito el error podría ser temporal
-intentalo más tarde.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Esto podría ser un problema con la configuración del servidor o tal vez alguienestá intentando hacerse pasar por éste.</li> <li>Si te has conectado a este servidor anteriormente con éxito el error podría ser temporalintentalo más tarde.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> 
-<li>El sitio puede estar temporalmente no disponible o demasiado ocupado. Intenta de nuevo en unos minutos.</li> 
-<li>Si no puedes cargar ninguna página, revisa los datos de tu dispositivo o tu conexión Wi-Fi. 
-<button id='wifi'>Activar Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>El sitio puede estar temporalmente no disponible o demasiado ocupado. Intenta de nuevo en unos minutos.</li> <li>Si no puedes cargar ninguna página, revisa los datos de tu dispositivo o tu conexión Wi-Fi. <button id='wifi'>Activar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que se cargara esta página en esta forma por que tiene una política de seguridad de contenido que no lo permite.</p>">
@@ -160,10 +98,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>No deberías agregar una excepción si estás usando una conexión a Internet en la que no confías completamente o si no estás acostumbrado a ver una advertencia para este servidor.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>No deberías agregar una excepción si estás usando una conexión a Internet en la que no confías completamente o si no estás acostumbrado a ver una advertencia para este servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
