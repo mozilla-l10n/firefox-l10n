@@ -199,8 +199,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Gecko platformasi ma’lumotlarini koʻrsatish">
-<!ENTITY options.showPlatformData.tooltip  "Agar siz ushbu moslamani yoqsangiz, JavaScript Profiler natijalari  
-Gekko platformasi simvollarini qoʻshadi ">
+<!ENTITY options.showPlatformData.tooltip  "Agar siz ushbu moslamani yoqsangiz, JavaScript Profiler natijalari  Gekko platformasi simvollarini qoʻshadi ">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

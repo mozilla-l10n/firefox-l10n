@@ -124,11 +124,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Qoʻshimcha dasturlar nima?">
-<!ENTITY discover.description2                "Qoʻshimcha dasturlar &brandShortName;ni keng imkoniyatlaridan 
-foydalanib, moslash imkonini beradi. &brandShortName;ni didingiz boʻyicha moslash uchun 
-vaqtni tejash yon paneli, ob-havo ma`lumoti yoki mavzulardan foydalaning.">
-<!ENTITY discover.footer                      "Siz internetga ulanganingizda, ushbu panel ba`zi 
-mashhur va eng zoʻz qoʻshimcha dasturlarni sinab koʻrishni takli qiladi.">
+<!ENTITY discover.description2                "Qoʻshimcha dasturlar &brandShortName;ni keng imkoniyatlaridan foydalanib, moslash imkonini beradi. &brandShortName;ni didingiz boʻyicha moslash uchun vaqtni tejash yon paneli, ob-havo ma`lumoti yoki mavzulardan foydalaning.">
+<!ENTITY discover.footer                      "Siz internetga ulanganingizda, ushbu panel ba`zi mashhur va eng zoʻz qoʻshimcha dasturlarni sinab koʻrishni takli qiladi.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Versiyasi">
