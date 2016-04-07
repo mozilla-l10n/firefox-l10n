@@ -195,8 +195,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "கெக்கோ தளத்திற்க்கான தரவை காட்டு">
-<!ENTITY options.showPlatformData.tooltip  "ஒருவேளை நீங்க இந்த விருப்பத்தை இயக்கினால் ஜாவாநிரலின் விவரக்குறிப்பு அறிக்கைகள் 
-கெக்கோ தளத்தின் சின்னங்களை உள்ளடக்கியிருக்கும்">
+<!ENTITY options.showPlatformData.tooltip  "ஒருவேளை நீங்க இந்த விருப்பத்தை இயக்கினால் ஜாவாநிரலின் விவரக்குறிப்பு அறிக்கைகள் கெக்கோ தளத்தின் சின்னங்களை உள்ளடக்கியிருக்கும்">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
