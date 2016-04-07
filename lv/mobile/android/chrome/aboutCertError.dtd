@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Jūs likāt &brandShortName; droši savienoties ar 
-<b>#1</b>, taču mēs nevaram garantēt, ka savienojums ir drošs.">
+<!ENTITY certerror.introPara1 "Jūs likāt &brandShortName; droši savienoties ar <b>#1</b>, taču mēs nevaram garantēt, ka savienojums ir drošs.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ko man darīt?">
-<!ENTITY certerror.whatShouldIDo.content "Ja parasti savienojaties 
-ar šo lapu bez problēmām, šī kļūda varētu nozīmēt, ka kāda cita lapa mēģina 
-uzdoties par to, un jums nevajadzētu turpināt.">
+<!ENTITY certerror.whatShouldIDo.content "Ja parasti savienojaties ar šo lapu bez problēmām, šī kļūda varētu nozīmēt, ka kāda cita lapa mēģina uzdoties par to, un jums nevajadzētu turpināt.">
 <!ENTITY certerror.getMeOutOfHere.label "Vediet mani prom!">
 
 <!ENTITY certerror.expert.heading "Es apzinos riskus">
-<!ENTITY certerror.expert.content "Ja labi izprotat situāciju, varat pievienot šo lapu 
-&brandShortName; uzticamo lapu sarakstam. 
-<b>Pat, ja uzticaties šai lapai, šī kļūda var nozīmēt,
-ka kāds veic neatļautas darbības ar savienojumu.</b>">
-<!ENTITY certerror.expert.contentPara2 "Nepievienojiet izņēmumu, ja vien
-jums nav zināms labs iemesls, kāpēc šī lapa neizmanto uzticamu identifikāciju.">
+<!ENTITY certerror.expert.content "Ja labi izprotat situāciju, varat pievienot šo lapu &brandShortName; uzticamo lapu sarakstam. <b>Pat, ja uzticaties šai lapai, šī kļūda var nozīmēt,ka kāds veic neatļautas darbības ar savienojumu.</b>">
+<!ENTITY certerror.expert.contentPara2 "Nepievienojiet izņēmumu, ja vienjums nav zināms labs iemesls, kāpēc šī lapa neizmanto uzticamu identifikāciju.">
 <!ENTITY certerror.addTemporaryException.label "Apmeklēt lapu">
 <!ENTITY certerror.addPermanentException.label "Pievienot pastāvīgu izņēmumu">
 
