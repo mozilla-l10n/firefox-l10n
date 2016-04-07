@@ -38,7 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Wo renntumi nnhu krataafa a wo pɛ sɛ wo hwɛ no osiandɛ ɔmmfa kɔmprɛhyɛn papa anaaso kɔmprɛhɛn soronko bi a Firefox nnte ase.</p><ul><li>Yɛsrɛ wo bisa wɔn a wɛbsaet no yɛ wɔn de ma wɔ wɔnhwɛ ho asɛm nka.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Fael bɔbea yi nni bambɔ">
-
+<!ENTITY unsafeContentType.longDesc "<ul> <li> Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li> </ul>">
 
 <!ENTITY netReset.title "Woetwa Kɔnɛkhyɛn Ne So">
 <!ENTITY netReset.longDesc "<p>Nɛtwɛk no twae wɔ bere a Firefox rehwehwɛ kɔnɛkhyɛn. Yɛsrɛ wo san sɔ hwɛ.</p>">
@@ -65,7 +65,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Firefox nntumi nnkyerɛ krataafa a wopɛ sɛ wo hwɛ no efiri sɛ Firefox nntumi nnhu sɛ data a ne nsa aka no di mu a.</p><ul><li>Yɛsrɛ wo sɛ ka asɛm yi kyerɛ wɔn a wɛbsaet no yɛ wɔn de.</li></ul>">
 
 <!ENTITY nssBadCert.title "Kɔnɛkhyɛn a wɔabɔ ho ban no annkɔ yie">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Etumi ba no sɛ nhyehyɛe a wɔayɛ no wɔ sɛɛva no so nndi mu, anaaso etumi ba no sɛ obi pɛ sɛ ɔdaadaa obiara sɛ ɔno ne sɛɛva no.</li> <li>Sɛ wo akɔnɛkt akɔ sɛɛva yi so da a, etumi ba no sɛ mfomso yi bɛkɔ a ɛrennkyɛr, nti wo betumi asan asɔ ahwɛ.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Anaaso wobetumi eyi wɛbsaet yi efiri mu…">
 

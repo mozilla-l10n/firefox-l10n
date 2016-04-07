@@ -121,8 +121,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Nkaho no ne nea ɛwohe?">
-
-
+<!ENTITY discover.description2                "Nkaho yɛ aplekehyɛn a ɛmawo yɛ ankorankorɛ mmradin tiawa; ne fankhyɛnaliti anaa stael mmorosoɔ. Sɔ bere-sieyɛ saedbaa, wimu Kaeɛ, anaa tiim nhwɛ ma mmradin tiawa;  ɛnyɛ wo dea.">
+<!ENTITY discover.footer                      "Sɛ woasiani Intanɛte,abɛɛfo  kwantenpɔn a, saa paane yi bɛ fekya nkaho papa ne tseetsee no ama woasɔ ahwɛ.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "vɛɛhyen">

@@ -16,7 +16,8 @@ was trying to connect. -->
 
 
 
-
+<!ENTITY certerror.expert.content "Sɛ wo te nea ɛrekɔ so n'ase a,wobetumi aka akyerɛ &brandShortName; sɛ ɔnhyɛ ase ngye saet yi ndi.<b>Sɛ wo gye saet yi di a,saa mfomso yi betumi akyerɛ sɛ obi de ne nsa reka wo kɔnɛkhyɛn no.</b>">
+<!ENTITY certerror.expert.contentPara2 "Ɛnfa ngyegye nka ho akosi sɛ wo nim sɛ asɛm pa bi wɔhɔ enti a saet yi nni ahyɛnsode a yɛgye-di.">
 <!ENTITY certerror.addException.label "Fa ngyegye ka ho…">
 
 
