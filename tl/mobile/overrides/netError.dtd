@@ -27,14 +27,10 @@
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Hindi ligtas na file type">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> </ul>">
 
 
 
