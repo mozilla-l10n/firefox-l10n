@@ -19,24 +19,10 @@
 <!ENTITY dnsNotFound.title "सर्व्हर सापडला नाही">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul>  
-<li>पत्ता टाईप करताना होणाऱ्या चुका एकदा तपासा उदाहरणार्थ  
-<strong>www</strong>.example.com ऐवजी 
-<strong>ww</strong>.example.com</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input>  
-<button id='searchbutton'> शोधा</button> 
-</div> 
-<li>आपण कोणत्याही पृष्ठे लोड करण्यात अक्षम असाल तर, कृपया आपल्या उपकरणावर माहिती किंवा वाय-फाय जोडणी तपासा. 
-<button id='wifi'>वाय-फाय सक्रीय करा</button>  
-</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul>  <li>पत्ता टाईप करताना होणाऱ्या चुका एकदा तपासा उदाहरणार्थ  <strong>www</strong>.example.com ऐवजी <strong>ww</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input>  <button id='searchbutton'> शोधा</button> </div> <li>आपण कोणत्याही पृष्ठे लोड करण्यात अक्षम असाल तर, कृपया आपल्या उपकरणावर माहिती किंवा वाय-फाय जोडणी तपासा. <button id='wifi'>वाय-फाय सक्रीय करा</button>  </li> </ul>">
 
 <!ENTITY fileNotFound.title "फाइल सापडली नाही">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>कॅपिटल अक्षरांचा उपयोग, किंवा इतर टायपिंग त्रूटीं करता फाइलचे नाव तपासा.</li> 
-<li>फाइल स्थानांतरित, पुनःनामांकित किंवा काढून टाकली आहे का याची तपासणी करा.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>कॅपिटल अक्षरांचा उपयोग, किंवा इतर टायपिंग त्रूटीं करता फाइलचे नाव तपासा.</li> <li>फाइल स्थानांतरित, पुनःनामांकित किंवा काढून टाकली आहे का याची तपासणी करा.</li> </ul>">
 
 
 <!ENTITY generic.title "अरेच्या.">
@@ -45,16 +31,7 @@
 <!ENTITY malformedURI.title "पत्ता वैध नाही">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> 
-<li>वेब-पत्ता सहसा असा लिहिला जातो 
-<strong>http://www.example.com/</strong></li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>शोधा</button> 
-</div> 
-<li>आपण अग्रेषित स्लॅश वापरत असल्याची खात्री करा (जसे 
- <strong>/ </strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>वेब-पत्ता सहसा असा लिहिला जातो <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>शोधा</button> </div> <li>आपण अग्रेषित स्लॅश वापरत असल्याची खात्री करा (जसे  <strong>/ </strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "जोडणीमध्ये व्यत्यय आला">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -65,21 +42,13 @@
 <!ENTITY netOffline.title "ऑफलाइन प्रावस्था">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul>  
-<li>पुनःप्रयत्न करा.&brandShortName; जोडणी उघडण्याचा प्रयत्न करेल आणि पृष्ठ रीलोड होईल.  
-<button id='wifi'>वाय-फाय सक्षम करा</button>  
-</li> 
-</ul>">
+<!ENTITY netOffline.longDesc3 "<ul>  <li>पुनःप्रयत्न करा.&brandShortName; जोडणी उघडण्याचा प्रयत्न करेल आणि पृष्ठ रीलोड होईल.  <button id='wifi'>वाय-फाय सक्षम करा</button>  </li> </ul>">
 
 <!ENTITY contentEncodingError.title "मजकूर एन्कोडींग त्रुटी">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी माहिती द्या.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी माहिती द्या.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "असुरक्षीत फाइल प्रकार">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>कृपया संकेतस्थळाच्या मालकांना या अडचणी विषयी माहिती द्या.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>कृपया संकेतस्थळाच्या मालकांना या अडचणी विषयी माहिती द्या.</li> </ul>">
 
 <!ENTITY netReset.title "जोडणी पुनःप्रस्थापित करण्यात आली">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -88,62 +57,31 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "पत्ता समझला नाही">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>तुम्हाला हा पत्ता पाहण्यासाठी कदाचीत दुसरे सॉफ्टवेअर स्थापीत करावे लागेल.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>तुम्हाला हा पत्ता पाहण्यासाठी कदाचीत दुसरे सॉफ्टवेअर स्थापीत करावे लागेल.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "जोडणींसाठी प्रॉक्सी सर्व्हर नकार देत आहे">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>प्रॉक्सी सेटींग अचूक आहेत याची खात्री करा.</li> 
-<li>प्रॉक्सी सर्व्हर कार्यरत आहे याची खात्री करण्यासाठी नेटवर्क 
-प्रशासकाशी संपर्क करा.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>प्रॉक्सी सेटींग अचूक आहेत याची खात्री करा.</li> <li>प्रॉक्सी सर्व्हर कार्यरत आहे याची खात्री करण्यासाठी नेटवर्क प्रशासकाशी संपर्क करा.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "प्रॉक्सी सर्व्हर शोधू शकत नाही">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>प्राॅक्सी सेटिंग बरोबर आहेत की नाही याची खात्री करण्यासाठी तपासा.</li> 
-<li>आपल्या उपकरणावर चालू डाटा कनेक्शन किंवा वाय-फाय कनेक्शन आहे याची खात्री करण्यासाठी तपासा. 
-<button id='wifi'>वाय-फाय चालू करा</button> 
-</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>प्राॅक्सी सेटिंग बरोबर आहेत की नाही याची खात्री करण्यासाठी तपासा.</li> <li>आपल्या उपकरणावर चालू डाटा कनेक्शन किंवा वाय-फाय कनेक्शन आहे याची खात्री करण्यासाठी तपासा. <button id='wifi'>वाय-फाय चालू करा</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "पृष्ठ योग्यपणे मार्गदर्शित होत नाही आहे">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>ही अडचण कधीकधी कुकीजचे समर्थन नसल्यास किंवा स्वीकार 
-न केल्यामुळेही होते.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>ही अडचण कधीकधी कुकीजचे समर्थन नसल्यास किंवा स्वीकार न केल्यामुळेही होते.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "सर्व्हर कडून अनपेक्षित प्रतिसाद">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>आपल्या प्रणालीवर व्यक्तिगत सुरक्षा व्यवस्थापक प्रस्थापित आहे 
-याची खातरजमा करा.</li> 
-<li>याचे कारण सर्व्हर वरील अमानक संरचना असू शकते.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>आपल्या प्रणालीवर व्यक्तिगत सुरक्षा व्यवस्थापक प्रस्थापित आहे याची खातरजमा करा.</li> <li>याचे कारण सर्व्हर वरील अमानक संरचना असू शकते.</li> </ul>">
 
 <!ENTITY nssFailure2.title "सुरक्षीत जोडणी अपयशी">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>जे पान आपण बघण्याचा प्रयत्न करत आहात त्यच्या माहितीचे प्रमाण तपासले जाऊ न शकल्यामुळे पान दाखवु शकत नाही.</li> 
-<li>कृपया वेबसाइट मालकांना या व्यत्यया बद्दल सांगा.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>जे पान आपण बघण्याचा प्रयत्न करत आहात त्यच्या माहितीचे प्रमाण तपासले जाऊ न शकल्यामुळे पान दाखवु शकत नाही.</li> <li>कृपया वेबसाइट मालकांना या व्यत्यया बद्दल सांगा.</li> </ul>">
 
 <!ENTITY nssBadCert.title "सुरक्षीत जोडणी अपयशी">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>हे या सर्व्हरवरील संयोजनातील अडचण असू शकते, किंवा सर्व्हर नुरूप बहरूपी 
-सुद्धा असू शकतो.</li> 
-<li>आपण या सर्व्हरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व आपण 
-पुनःप्रयत्न करू शकता.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>हे या सर्व्हरवरील संयोजनातील अडचण असू शकते, किंवा सर्व्हर नुरूप बहरूपी सुद्धा असू शकतो.</li> <li>आपण या सर्व्हरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व आपण पुनःप्रयत्न करू शकता.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> 
-<li>हे संकेतस्थळ तात्पुरते उपलब्ध नाही किंवा खुपच व्यस्त आहे. काही क्षणानंतर, पुनःप्रयत्न करा.</li> 
-<li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या भ्रमणध्वनी जोडणी किंवा वाय-फाय जोडणी तपासा. 
- <button id='wifi'>वाय-फाय सक्रीय करा</button> 
-</li> 
-</ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>हे संकेतस्थळ तात्पुरते उपलब्ध नाही किंवा खुपच व्यस्त आहे. काही क्षणानंतर, पुनःप्रयत्न करा.</li> <li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या भ्रमणध्वनी जोडणी किंवा वाय-फाय जोडणी तपासा.  <button id='wifi'>वाय-फाय सक्रीय करा</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणामुळे रोखले गेले">
 <!ENTITY cspBlocked.longDesc "<p>पृष्ठात अंतर्भुत मजकूर सुरक्षा धोरणामुळे &brandShortName;ने या पृष्ठाला, याप्रकारे लोड होण्यापासून रोखले आहे.</p>">
@@ -160,10 +98,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>पूर्णतः विश्वासार्ह नसलेल्या इंटरनेट जोडणीचा वापर करत असल्यास किंवा या सर्व्हरवर सावधानता इशाऱ्याची सवय नसल्यास, अपवाद यादीत समाविष्ट करू नका.</p> 
-  
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>पूर्णतः विश्वासार्ह नसलेल्या इंटरनेट जोडणीचा वापर करत असल्यास किंवा या सर्व्हरवर सावधानता इशाऱ्याची सवय नसल्यास, अपवाद यादीत समाविष्ट करू नका.</p>   <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
