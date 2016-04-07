@@ -100,12 +100,8 @@
   <li>La pagina che si sta cercando di visualizzare non può essere mostrata in quanto non è possibile verificare l’autenticità dei dati ricevuti.</li>
   <li>Contattare il responsabile del sito web per informarlo del problema.</li>
 </ul>">
-<!ENTITY nssBadCert.title "Connessione sicura non riuscita">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>Potrebbe trattarsi di un problema nella configurazione del server oppure di un tentativo da parte di qualcuno di sostituirsi al server stesso.</li>
-  <li>Se è stato possibile connettersi a questo server in passato, il problema potrebbe essere solo temporaneo. Si consiglia di riprovare in seguito.</li>
-</ul>">
+<!ENTITY certerror.longpagetitle1 "Questa connessione non è sicura">
+<!ENTITY certerror.introPara "Il gestore di <span class='hostname'/> ha configurato il sito in modo non corretto. Per evitare potenziali furti di informazioni &brandShortName; ha interrotto la connessione.">
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Il sito potrebbe non essere disponibile o sovraccarico. Riprovare fra qualche momento.</li>
@@ -117,15 +113,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha bloccato il caricamento della pagina con questa modalità in quanto include dei criteri sulla sicurezza dei contenuti che lo impediscono.</p>  ">
 <!ENTITY corruptedContentError.title "Errore contenuto danneggiato">
 <!ENTITY corruptedContentError.longDesc "<p>La pagina richiesta non può essere visualizzata a causa di un errore rilevato durante la trasmissione dei dati.</p><ul><li>Contattare il proprietario del sito web e segnalare il problema.</li></ul>">
-<!ENTITY securityOverride.linkText "Oppure è possibile aggiungere un’eccezione…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Allontanarsi da questo sito">
 <!ENTITY securityOverride.exceptionButtonLabel "Aggiungi eccezione…">
-<!ENTITY securityOverride.warningContent "
-<p>È sconsigliato aggiungere un’eccezione nel caso in cui si stia utilizzando una connessione non completamente affidabile oppure se è la prima volta che questi avvisi di sicurezza appaiono con questo server.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
 <!ENTITY errorReporting.automatic2 "Segnala errori come questo per aiutare Mozilla a identificare e bloccare siti dannosi">
 <!ENTITY errorReporting.learnMore "Ulteriori informazioni…">
 <!ENTITY remoteXUL.title "XUL remoto">
@@ -137,3 +125,6 @@
 <!ENTITY weakCryptoAdvanced.title "Avanzate">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilizza protocolli di sicurezza obsoleti e vulnerabili. Questo potrebbe consentire a malintenzionati di intercettare e leggere informazioni che l’utente considera sicure.">
 <!ENTITY weakCryptoAdvanced.override "(Non sicuro) Prova a caricare <span class='hostname'></span> utilizzando protocolli di sicurezza obsoleti">
+<!ENTITY certerror.pagetitle1 "Connessione non sicura">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Questo sito utilizza il protocollo HSTS (HTTP Strict Transport Security) per garantire che la connessione con &brandShortName; avvenga esclusivamente in modo sicuro. Per questo motivo non è possibile aggiungere un’eccezione per questo certificato.">
+<!ENTITY certerror.copyToClipboard.label "Copia il testo negli appunti">
