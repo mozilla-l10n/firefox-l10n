@@ -628,12 +628,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Cha b\u0027 urrainn dhuinn cuid dhen dàta phrìobhaideach fhalamhadh">
 
 <!ENTITY bookmarkhistory_button_import "Ion-phortaich">
-<!ENTITY bookmarkhistory_import_both "Ag ion-phortadh nan comharra-lìn 
-is na h-eachdraidh o Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Ag ion-phortadh nan comharra-lìn 
-o Android">
-<!ENTITY bookmarkhistory_import_history "Ag ion-phortadh na h-eachdraidh 
-o Android">
+<!ENTITY bookmarkhistory_import_both "Ag ion-phortadh nan comharra-lìn is na h-eachdraidh o Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Ag ion-phortadh nan comharra-lìn o Android">
+<!ENTITY bookmarkhistory_import_history "Ag ion-phortadh na h-eachdraidh o Android">
 <!ENTITY bookmarkhistory_import_wait "Fuirich ort...">
 
 <!ENTITY suggestions_prompt3 "A bheil thu airson molaidhean luirg a chur air?">
