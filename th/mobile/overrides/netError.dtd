@@ -19,24 +19,10 @@
 <!ENTITY dnsNotFound.title "ไม่พบเซิร์ฟเวอร์">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>ตรวจสอบความผิดพลาดในการพิมพ์ที่อยู่ อย่างเช่น 
-<strong>ww</strong>.example.com แทนที่จะเป็น 
-<strong>www</strong>.example.com</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>ค้นหา</button> 
-</div> 
-<li>หากคุณไม่สามารถโหลดหน้าใด ๆ ให้ตรวจสอบการเชื่อมต่อ Wi-Fi หรือข้อมูลบนอุปกรณ์ของคุณ 
-<button id='wifi'>เปิดใช้งาน Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>ตรวจสอบความผิดพลาดในการพิมพ์ที่อยู่ อย่างเช่น <strong>ww</strong>.example.com แทนที่จะเป็น <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ค้นหา</button> </div> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ให้ตรวจสอบการเชื่อมต่อ Wi-Fi หรือข้อมูลบนอุปกรณ์ของคุณ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
-<!ENTITY fileNotFound.title "ไม่พบแฟ้ม">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>ตรวจสอบชื่อแฟ้ม ตัวเล็ก ตัวใหญ่ หรือตัวสะกดให้ถูกต้อง</li> 
-<li>ตรวจสอบว่าแฟ้มถูกย้าย เปลี่ยนชื่อ หรือถูกลบไปแล้วหรือไม่</li> 
-</ul>">
+<!ENTITY fileNotFound.title "ไม่พบไฟล์">
+<!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อแฟ้ม ตัวเล็ก ตัวใหญ่ หรือตัวสะกดให้ถูกต้อง</li> <li>ตรวจสอบว่าแฟ้มถูกย้าย เปลี่ยนชื่อ หรือถูกลบไปแล้วหรือไม่</li> </ul>">
 
 
 <!ENTITY generic.title "อุปส์">
@@ -45,16 +31,7 @@
 <!ENTITY malformedURI.title "ที่อยู่ไม่ถูกต้อง">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> 
-<li>ที่อยู่เว็บมักจะเขียนเป็น 
-<strong>http://www.example.com/</strong></li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>ค้นหา</button> 
-</div> 
-<li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ 
-<strong>/</strong>)</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>ที่อยู่เว็บมักจะเขียนเป็น <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ค้นหา</button> </div> <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ <strong>/</strong>)</li> </ul>">
 
 <!ENTITY netInterrupt.title "การเชื่อมต่อถูกขัดจังหวะ">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -65,21 +42,13 @@
 <!ENTITY netOffline.title "โหมดออฟไลน์">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>ลองใหม่ &brandShortName; พยายามที่จะเปิดการเชื่อมต่อและโหลดหน้าใหม่ 
-<button id='wifi'>เปิดใช้งาน Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>ลองใหม่ &brandShortName; พยายามที่จะเปิดการเชื่อมต่อและโหลดหน้าใหม่ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "การเข้ารหัสอักขระในเนื้อหาผิดพลาด">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งปัญหานี้</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งปัญหานี้</li> </ul>">
 
 <!ENTITY unsafeContentType.title "แฟ้มชนิดที่ไม่ปลอดภัย">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งปัญหานี้</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งปัญหานี้</li> </ul>">
 
 <!ENTITY netReset.title "การเชื่อมต่อถูกล้าง">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -88,60 +57,31 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่ตั้งนี้">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>คุณอาจต้องติดตั้งโปรแกรมอื่นเพื่อเปิดที่ตั้งนี้</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>คุณอาจต้องติดตั้งโปรแกรมอื่นเพื่อเปิดที่ตั้งนี้</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "เซิร์ฟเวอร์พร็อกซีปฏิเสธการเชื่อมต่อ">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>ตรวจสอบการตั้งค่าพร็อกซีให้ถูกต้อง</li> 
-<li>ติดต่อผู้ดูแลเครือข่ายของคุณเพื่อให้มั่นใจว่าพร็อกซีกำลังทำงานอยู่</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>ตรวจสอบการตั้งค่าพร็อกซีให้ถูกต้อง</li> <li>ติดต่อผู้ดูแลเครือข่ายของคุณเพื่อให้มั่นใจว่าพร็อกซีกำลังทำงานอยู่</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "ไม่สามารถค้นหาเซิร์ฟเวอร์พร็อกซี">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>ตรวจสอบการตั้งค่าพร็อกซีให้แน่ใจว่าใช้งานได้</li> 
-<li>ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อกับเครือข่ายข้อมูลหรือ Wi-Fi แล้ว 
-<button id='wifi'>เปิด Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>ตรวจสอบการตั้งค่าพร็อกซีให้แน่ใจว่าใช้งานได้</li> <li>ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อกับเครือข่ายข้อมูลหรือ Wi-Fi แล้ว <button id='wifi'>เปิด Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "หน้าเว็บไม่ได้เปลี่ยนเส้นทางอย่างถูกต้อง">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>ปัญหานี้บางครั้งอาจแก้ได้โดยการปิดการใช้งานหรือปฏิเสธการรับคุกกี้</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>ปัญหานี้บางครั้งอาจแก้ได้โดยการปิดการใช้งานหรือปฏิเสธการรับคุกกี้</li> </ul>">
 
 <!ENTITY unknownSocketType.title "การตอบสนองแบบที่ไม่คาดคิดจากเซิร์ฟเวอร์">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>ตรวจสอบว่ามีโปรแกรมจัดการความปลอดภัยส่วนบุคคลติดตั้งอยู่บนระบบของคุณ
-หรือไม่</li> 
-<li>อาจเกิดจากการตั้งค่าบนเซิร์ฟเวอร์ที่ไม่ตรงตามมาตรฐาน</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>ตรวจสอบว่ามีโปรแกรมจัดการความปลอดภัยส่วนบุคคลติดตั้งอยู่บนระบบของคุณหรือไม่</li> <li>อาจเกิดจากการตั้งค่าบนเซิร์ฟเวอร์ที่ไม่ตรงตามมาตรฐาน</li> </ul>">
 
 <!ENTITY nssFailure2.title "การเชื่อมต่อแบบปลอดภัยล้มเหลว">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>หน้าที่คุณกำลังพยายามจะดูไม่สามารถแสดงได้เนื่องจากไม่สามารถยืนยันความถูกต้องของข้อมูลที่ได้รับ</li> 
-<li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>หน้าที่คุณกำลังพยายามจะดูไม่สามารถแสดงได้เนื่องจากไม่สามารถยืนยันความถูกต้องของข้อมูลที่ได้รับ</li> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
 <!ENTITY nssBadCert.title "การเชื่อมต่อแบบปลอดภัยล้มเหลว">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>ปัญหาอาจเกิดจากการตั้งค่าของเซิร์ฟเวอร์ หรืออาจมีผู้พยายามปลอมแปลงตัวเป็น
-เซิร์ฟเวอร์</li> 
-<li>หากคุณเคยเชื่อมต่อกับเซิร์ฟเวอร์นี้ได้โดยไม่พบปัญหา ข้อผิดพลาดครั้งนี้อาจเป็น
-แค่ชั่วคราว คุณสามารถลองใหม่ทีหลังได้</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>ปัญหาอาจเกิดจากการตั้งค่าของเซิร์ฟเวอร์ หรืออาจมีผู้พยายามปลอมแปลงตัวเป็นเซิร์ฟเวอร์</li> <li>หากคุณเคยเชื่อมต่อกับเซิร์ฟเวอร์นี้ได้โดยไม่พบปัญหา ข้อผิดพลาดครั้งนี้อาจเป็นแค่ชั่วคราว คุณสามารถลองใหม่ทีหลังได้</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> 
-<li>ไม่สามารถเข้าถึงเว็บไซต์นี้ได้ชั่วคราว หรือเว็บไซต์อาจกำลังทำงานหนัก รออีกสักพักแล้วลองใหม่</li> 
-<li>หากคุณไม่สามารถโหลดหน้าเว็บใดๆ ได้เลย ลองตรวจสอบการรับส่งข้อมูลของอุปกรณ์ หรือการเชื่อมต่อ Wi-Fi 
-<button id='wifi'>เปิดใช้งาน Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>ไม่สามารถเข้าถึงเว็บไซต์นี้ได้ชั่วคราว หรือเว็บไซต์อาจกำลังทำงานหนัก รออีกสักพักแล้วลองใหม่</li> <li>หากคุณไม่สามารถโหลดหน้าเว็บใดๆ ได้เลย ลองตรวจสอบการรับส่งข้อมูลของอุปกรณ์ หรือการเชื่อมต่อ Wi-Fi <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ระงับการโหลดหน้าเว็บ เนื่องจากหน้านี้มีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาตให้โหลดหน้าเว็บด้วยวิธีนี้</p>">
@@ -158,12 +98,9 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>คุณไม่ควรเพิ่มข้อยกเว้น ถ้าหากคุณกำลังเชื่อมต่ออินเทอร์เน็ตผ่านเครือข่ายที่คุณไม่อาจเชื่อถือได้เต็มที่ หรือหากคุณไม่เคยพบข้อความเตือนนี้จากเซิร์ฟเวอร์นี้มาก่อน</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>คุณไม่ควรเพิ่มข้อยกเว้น ถ้าหากคุณกำลังเชื่อมต่ออินเทอร์เน็ตผ่านเครือข่ายที่คุณไม่อาจเชื่อถือได้เต็มที่ หรือหากคุณไม่เคยพบข้อความเตือนนี้จากเซิร์ฟเวอร์นี้มาก่อน</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "รีโมท XUL">
+<!ENTITY remoteXUL.title "XUL ระยะไกล">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งถึงปัญหานี้</li></ul></p>">
 
 <!ENTITY sslv3Used.title "ไม่สามารถเชื่อมต่ออย่างปลอดภัย">

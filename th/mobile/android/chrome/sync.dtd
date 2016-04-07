@@ -5,27 +5,27 @@
 <!ENTITY sync.title                 "Sync">
 <!ENTITY sync.notconnected          "ไม่ได้เชื่อมต่อ">
 <!ENTITY sync.connect               "เชื่อมต่อ">
-<!ENTITY sync.connected             "เชื่อมต่ออยู่">
+<!ENTITY sync.connected             "เชื่อมต่อแล้ว">
 <!ENTITY sync.details               "รายละเอียด">
 <!ENTITY sync.deviceName            "อุปกรณ์นี้">
 <!ENTITY sync.disconnect            "ตัดการเชื่อมต่อ">
 <!ENTITY sync.syncNow               "ผสานตอนนี้">
 
 <!ENTITY sync.setup.title           "เชื่อมต่อกับ Sync">
-<!ENTITY sync.setup.pair            "เริ่มกระบวนการ โดยเลือก &quot;เชื่อมโยงอุปกรณ์&quot; บนอุปกรณ์อื่นของคุณ">
-<!ENTITY sync.fallback              "คอมพิวเตอร์ของฉันไม่ได้อยู่แถวนี้…">
-<!ENTITY sync.setup.manual          "กรอกรายละเอียดบัญชีผู้ใช้ Sync ของคุณ">
+<!ENTITY sync.setup.pair            "เพื่อเปิดใช้งาน เลือก &quot;จับคู่อุปกรณ์&quot; บนอุปกรณ์อื่นของคุณ">
+<!ENTITY sync.fallback              "ฉันไม่ได้อยู่ใกล้คอมพิวเตอร์ของฉัน…">
+<!ENTITY sync.setup.manual          "ป้อนข้อมูลบัญชี Sync ของคุณ">
 <!ENTITY sync.account               "ชื่อบัญชี">
 <!ENTITY sync.password              "รหัสผ่าน">
-<!ENTITY sync.recoveryKey           "กู้คืนกุญแจ">
+<!ENTITY sync.recoveryKey           "กุญแจสำหรับกู้คืน">
 <!ENTITY sync.customServer          "ใช้เซิร์ฟเวอร์ที่กำหนดเอง">
-<!ENTITY sync.serverURL             "URL ของเซิร์ฟเวอร์">
+<!ENTITY sync.serverURL             "URL เซิร์ฟเวอร์">
 <!ENTITY sync.setup.connect         "เชื่อมต่อ">
 <!ENTITY sync.setup.cancel          "ยกเลิก">
 <!ENTITY sync.setup.tutorial        "บอกฉันว่าทำอย่างไร">
 <!ENTITY sync.setup.waiting2        "กำลังรออุปกรณ์อื่น…">
 
-<!ENTITY sync.pair.title            "เชื่อมโยงอุปกรณ์">
-<!ENTITY sync.pair.description      "เริ่มใช้งานอุปกรณ์ใหม่ของคุณโดยเลือก &quot;ตั้งค่า Sync&amp;&quot; บนอุปกรณ์">
+<!ENTITY sync.pair.title            "จับคู่อุปกรณ์">
+<!ENTITY sync.pair.description      "เพื่อเปิดใช้งานอุปกรณ์ใหม่ของคุณ เลือก &quot;ตั้งค่า Sync&quot; บนอุปกรณ์">
 <!ENTITY sync.setup.close           "ปิด">
 <!ENTITY sync.setup.waitingdownload "ข้อมูลของคุณกำลังถูกดาวน์โหลดอยู่ในเบื้องหลัง คุณสามารถปิดหน้าต่างนี้เมื่อไหร่ก็ได้">
