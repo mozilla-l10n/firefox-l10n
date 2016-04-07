@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Aina ya Faili Isiyo Salama">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwaeleza juu ya shida hii.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwaeleza juu ya shida hii.</li> </ul>">
 
 <!ENTITY netReset.title "Muungano Umesitishwa">
 <!ENTITY netReset.longDesc "<p>Kiungo cha mtandao kimesitishwa kilipokuwa kikijaribu kuungana. Tafadhali jaribu tena.</p>">
@@ -67,10 +65,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Ukurasa unayojaribu kuangalia hauwezi kuonyeshwa kwa sababu uhalali wa data iliyopokelewa haiwezi kudhibitishwa.</p><ul><li>Tafadhali wasiliana wamiliki wa tovuti ili kuwajulisha kuhusu tatizo hii.</li></ul>">
 
 <!ENTITY nssBadCert.title "Muungano Salama Umeshindwa">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Hii yaweza kuwa shida ya usanidi wa sava, au yaweza kuwa kuna mtu anayejaribu kuiga sava.</li> 
-<li>Kama umefanikiwa kuungana kwa sava hapo awali, kosa laweza kuwa la muda tu, na unaweza jaribu tena baadaye.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Hii yaweza kuwa shida ya usanidi wa sava, au yaweza kuwa kuna mtu anayejaribu kuiga sava.</li> <li>Kama umefanikiwa kuungana kwa sava hapo awali, kosa laweza kuwa la muda tu, na unaweza jaribu tena baadaye.</li> </ul>">
 
 
 

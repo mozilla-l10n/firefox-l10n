@@ -121,11 +121,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Kifaa cha nyongeza ni nini?">
-<!ENTITY discover.description2                "Vifaa vya nyongeza ni programu-tumizi ambazo hukuruhusu kubinafsisha &brandShortName; na 
-utenda kazi wa ziada au staili. Jaribu mwambaa upande unaohifadhi wakati, kiarifisho cha hali ya hewa, au mwoneko mandhari kujenga &brandShortName; 
-yako mwenyewe.">
-<!ENTITY discover.footer                      "Wakatu imeunganishwa kwa mtandao, kidirisha hiki kitaonekana 
-vifaa vya nyongeza bora zaidi na vinavyojulikana zaidi kwako ili uvijaribu.">
+<!ENTITY discover.description2                "Vifaa vya nyongeza ni programu-tumizi ambazo hukuruhusu kubinafsisha &brandShortName; na utenda kazi wa ziada au staili. Jaribu mwambaa upande unaohifadhi wakati, kiarifisho cha hali ya hewa, au mwoneko mandhari kujenga &brandShortName; yako mwenyewe.">
+<!ENTITY discover.footer                      "Wakatu imeunganishwa kwa mtandao, kidirisha hiki kitaonekana vifaa vya nyongeza bora zaidi na vinavyojulikana zaidi kwako ili uvijaribu.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Toleo">

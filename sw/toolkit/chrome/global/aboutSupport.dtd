@@ -5,9 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Maelezo ya Usuluhishaji">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Ukurasa huu una maelezo ya kiufundi ambayo yanaweza kutumiwa wakati unajaribu 
-kutatua tatizo. Kama unatafuta majibu kwa maswali ya kawaidia 
-kuhusu &brandShortName;, kagua kiungo chetu <a id='supportLink'>wavuti wa usaidizi</a>.">
+<!ENTITY aboutSupport.pageSubtitle "  Ukurasa huu una maelezo ya kiufundi ambayo yanaweza kutumiwa wakati unajaribu kutatua tatizo. Kama unatafuta majibu kwa maswali ya kawaidia kuhusu &brandShortName;, kagua kiungo chetu <a id='supportLink'>wavuti wa usaidizi</a>.">
 
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
