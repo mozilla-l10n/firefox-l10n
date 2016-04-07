@@ -108,6 +108,7 @@
 <!ENTITY pref_category_advanced "Avanzate">
 <!ENTITY pref_category_advanced_summary2 "Ripristino schede, plugin, strumenti di sviluppo">
 <!ENTITY pref_category_notifications "Notifiche">
+<!ENTITY pref_category_notifications_summary "Nuove funzioni, aggiornamenti dai siti web">
 <!ENTITY pref_content_notifications "Aggiornamenti siti web">
 <!ENTITY pref_content_notifications_summary2 "Scopri nuovi contenuti dai siti web supportati">
 <!ENTITY pref_developer_remotedebugging_usb "Debug remoto tramite USB">
