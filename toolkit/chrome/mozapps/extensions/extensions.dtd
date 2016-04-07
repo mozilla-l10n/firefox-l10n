@@ -123,11 +123,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "De qué son los moduls complementaris ?">
-<!ENTITY discover.description2                "Los moduls complementaris son d'aplicacions que permeton de personalizar &brandShortName; 
-amb de foncionalitats o d'estils suplementaris. Ganhatz de temps amb un panèl lateral, susvelhatz la metèo o cambiatz l'aparéncia de &brandShortName; 
-coma vos agrada.">
-<!ENTITY discover.footer                      "Quand vòstra connexion Internet serà activa, aqueste panèl vos permetrà de descobrir 
-certans dels melhors moduls complementaris e tanben los mai populars.">
+<!ENTITY discover.description2                "Los moduls complementaris son d'aplicacions que permeton de personalizar &brandShortName; amb de foncionalitats o d'estils suplementaris. Ganhatz de temps amb un panèl lateral, susvelhatz la metèo o cambiatz l'aparéncia de &brandShortName; coma vos agrada.">
+<!ENTITY discover.footer                      "Quand vòstra connexion Internet serà activa, aqueste panèl vos permetrà de descobrir certans dels melhors moduls complementaris e tanben los mai populars.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Version">

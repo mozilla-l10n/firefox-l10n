@@ -192,8 +192,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Afichar las donadas de la plataforma Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Se activatz aquesta opcion, los rapòrts del perfilador JavaScript incluiràn 
-los simbòls de la plataforma Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Se activatz aquesta opcion, los rapòrts del perfilador JavaScript incluiràn los simbòls de la plataforma Gecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

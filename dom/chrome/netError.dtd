@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque utiliza un tipe de compression invalid o pas pres en carga. </p><ul><li>Contactatz lo webmèstre del site Web per l'assabentar d'aqueste problèma.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tipe de fichièr pas segur">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> </ul>">
 
 <!ENTITY netReset.title "Connection Interrupted">
 <!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">
@@ -67,10 +65,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pò pas èsser verificada.</p><ul><li>Contactatz los proprietaris del site Web per los n'assabentar.</li></ul>">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensaja d'usurpar l'identitat del servidor.</li> 
-<li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensaja d'usurpar l'identitat del servidor.</li> <li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "O podètz apondre una excepcion…">
 
