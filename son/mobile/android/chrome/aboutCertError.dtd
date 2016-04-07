@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "War na &brandShortName; hãa ka ciya 
-dobu <b>#1</b> ga, amma ir ši alhakiika wala naanay goo ciyaroo ga.">
+<!ENTITY certerror.introPara1 "War na &brandShortName; hãa ka ciya dobu <b>#1</b> ga, amma ir ši alhakiika wala naanay goo ciyaroo ga.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Cin n'ay ga hima ka tee?">
-<!ENTITY certerror.whatShouldIDo.content "War ka doona ka 
-dogoo woo cee bila nda šenday, firkaa woo maanaa ga hin ka tee kaŋ boro foo ga 
-ceeci ka dogoo woo žente, adiši war ma si bisa.">
+<!ENTITY certerror.whatShouldIDo.content "War ka doona ka dogoo woo cee bila nda šenday, firkaa woo maanaa ga hin ka tee kaŋ boro foo ga ceeci ka dogoo woo žente, adiši war ma si bisa.">
 <!ENTITY certerror.getMeOutOfHere.label "Ay kaa taray ne!">
 
 <!ENTITY certerror.expert.heading "Ay ga faaham šendawey se">
-<!ENTITY certerror.expert.content "Nda war ga faham haya kaŋ goo ma tee se, war 
-ga hin ka &brandShortName; ka šintin ka naanay dogoo woo. 
-<b> Baa war ši naanay ya, firkaa woo maanaa ga hin ka tee kaŋ boro foo mma 
-ni gaaru ni ciyaroo waate. </b>">
-<!ENTITY certerror.expert.contentPara2 "War ma ši lanbari tonton nda manti 
-war ga bay kaŋ adalil hennoo goo no, kaŋ se dogoo woo ši nda taamanssa naanayante.">
+<!ENTITY certerror.expert.content "Nda war ga faham haya kaŋ goo ma tee se, war ga hin ka &brandShortName; ka šintin ka naanay dogoo woo. <b> Baa war ši naanay ya, firkaa woo maanaa ga hin ka tee kaŋ boro foo mma ni gaaru ni ciyaroo waate. </b>">
+<!ENTITY certerror.expert.contentPara2 "War ma ši lanbari tonton nda manti war ga bay kaŋ adalil hennoo goo no, kaŋ se dogoo woo ši nda taamanssa naanayante.">
 <!ENTITY certerror.addTemporaryException.label "Nungoo guna">
 <!ENTITY certerror.addPermanentException.label "Hasaraw duumante tonton">
 

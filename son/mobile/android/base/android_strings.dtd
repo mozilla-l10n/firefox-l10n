@@ -628,12 +628,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Sutura bayhaya fooyaŋ mana hin ka hun">
 
 <!ENTITY bookmarkhistory_button_import "Zaa">
-<!ENTITY bookmarkhistory_import_both "Doo-šilbawey nda taariki zaa 
-Android ra">
-<!ENTITY bookmarkhistory_import_bookmarks "Doo-šilbawey zaa 
-Android ra">
-<!ENTITY bookmarkhistory_import_history "Taariki zaa 
-Android ra">
+<!ENTITY bookmarkhistory_import_both "Doo-šilbawey nda taariki zaa Android ra">
+<!ENTITY bookmarkhistory_import_bookmarks "Doo-šilbawey zaa Android ra">
+<!ENTITY bookmarkhistory_import_history "Taariki zaa Android ra">
 <!ENTITY bookmarkhistory_import_wait "Batu taare...">
 
 <!ENTITY suggestions_prompt3 "War ga baa ceeci honnandiyaney ma tunandi?">
