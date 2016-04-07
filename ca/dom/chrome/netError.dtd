@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>No pot mostrar-se la pàgina que esteu intentant visualitzar perquè utilitza una forma de compressió no vàlida o incompatible.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tipus de fitxer insegur">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li> </ul>">
 
 <!ENTITY netReset.title "S'ha interromput la connexió">
 <!ENTITY netReset.longDesc "<p>S'ha interromput l'enllaç a la xarxa mentre es negociava una connexió. Torneu-ho a provar.</p>">
@@ -67,14 +65,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>La pàgina que esteu intentant veure no es pot mostrar perquè no s'ha pogut verificar l'autenticitat de les dades rebudes.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
 <!ENTITY nssBadCert.title "La connexió segura ha fallat">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Això podria ser un problema amb la configuració del servidor, o bé podria ser que algú estigués provant de fer-se passar pel servidor.</li> 
-<li>Si us hi heu connectat sense cap problema alguna altra vegada, l'error podria ser temporal, i podeu tornar-ho a provar més tard.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Això podria ser un problema amb la configuració del servidor, o bé podria ser que algú estigués provant de fer-se passar pel servidor.</li> <li>Si us hi heu connectat sense cap problema alguna altra vegada, l'error podria ser temporal, i podeu tornar-ho a provar més tard.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "O bé, podeu afegir una excepció…">
-<!ENTITY securityOverride.warningContent "<p>No hauríeu d'afegir una excepció si esteu utilitzant una connexió d'Internet de la qual no en confieu completament, o si no esteu acostumat a veure un avís d'aquest servidor.</p> 
-<p>Si tot i això voleu afegir una excepció per a aquest lloc web, podeu fer-ho des dels paràmetres avançats de xifratge.</p>">
+<!ENTITY securityOverride.warningContent "<p>No hauríeu d'afegir una excepció si esteu utilitzant una connexió d'Internet de la qual no en confieu completament, o si no esteu acostumat a veure un avís d'aquest servidor.</p> <p>Si tot i això voleu afegir una excepció per a aquest lloc web, podeu fer-ho des dels paràmetres avançats de xifratge.</p>">
 
 <!ENTITY cspBlocked.title "Blocat per la política de seguretat del contingut">
 <!ENTITY cspBlocked.longDesc "<p>El navegador ha impedit que la pàgina es carregui d'aquesta manera perquè la pàgina té una política de seguretat del contingut que no ho permet.</p>">
