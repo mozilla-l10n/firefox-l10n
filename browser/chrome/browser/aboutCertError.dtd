@@ -18,17 +18,10 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "Ketahui lagi...">
 <!ENTITY certerror.advanced.label "Lanjutan">
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Laman ini menggunakan HTTP 
-Keselamatan Pengangkut Terhad (HSTS) yang menentukan yang &brandShortName; hanya menyambung  
-kepada nya secara selamat. Akibatknya, adalah tidak mungkin untuk menambah pengecualian kepada  
-sijil ini.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Laman ini menggunakan HTTP Keselamatan Pengangkut Terhad (HSTS) yang menentukan yang &brandShortName; hanya menyambung  kepada nya secara selamat. Akibatknya, adalah tidak mungkin untuk menambah pengecualian kepada  sijil ini.">
 
-<!ENTITY certerror.expert.content "Jika anda faham dengan apa yang berlaku, anda 
- boleh beritahu &brandShortName; untuk mula mempercayai identifikasi laman ini. 
- <b>Biarpun jika anda mempercayai laman ini, masalah ini bermaksud ada seseorang 
- mengganggu sambungan anda.</b>">
-<!ENTITY certerror.expert.contentPara2 "Jangan tambah pengecualian melainkan 
- anda tahu ada alasan munasabah mengapa laman tidak boleh guna identifikasi yang dipercayai.">
+<!ENTITY certerror.expert.content "Jika anda faham dengan apa yang berlaku, anda  boleh beritahu &brandShortName; untuk mula mempercayai identifikasi laman ini.  <b>Biarpun jika anda mempercayai laman ini, masalah ini bermaksud ada seseorang  mengganggu sambungan anda.</b>">
+<!ENTITY certerror.expert.contentPara2 "Jangan tambah pengecualian melainkan  anda tahu ada alasan munasabah mengapa laman tidak boleh guna identifikasi yang dipercayai.">
 <!ENTITY certerror.addException.label "Tambah Pengecualian…">
 
 

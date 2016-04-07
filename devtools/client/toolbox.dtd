@@ -192,8 +192,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Tunjuk data platform Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Jika anda bolehkan pilihan ini laporan Pemprofil JavaScript akan 
-memasukkan simbol platform Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Jika anda bolehkan pilihan ini laporan Pemprofil JavaScript akan memasukkan simbol platform Gecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
