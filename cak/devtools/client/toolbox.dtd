@@ -215,8 +215,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Tik'ut pe ri kinuk'uche'el taq tzij richin Gecko">
-<!ENTITY options.showPlatformData.tooltip  "We natzïj re cha'oj re', ri taq rutzijol tz'etöy q'ijul richin JavaScript xtutz'aqatisaj 
-Taq rutz'ib' runuk'uche'el richin Gecko">
+<!ENTITY options.showPlatformData.tooltip  "We natzïj re cha'oj re', ri taq rutzijol tz'etöy q'ijul richin JavaScript xtutz'aqatisaj Taq rutz'ib' runuk'uche'el richin Gecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

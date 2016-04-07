@@ -5,9 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Etamab'äl richin yesol taq k'ayewal">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Pa re ruxaq re' k'o samajel etamab'äl chupam, ri nito'on we nawajo' 
-nasöl jun k'ayewal. Richin nawïl kitzijol relik taq k'utunïk 
-chi rij &brandShortName; kab'etz'eton pa qa <a id='supportLink'>ruxaq k'amaya'l richin to'ïk</a>.">
+<!ENTITY aboutSupport.pageSubtitle "  Pa re ruxaq re' k'o samajel etamab'äl chupam, ri nito'on we nawajo' nasöl jun k'ayewal. Richin nawïl kitzijol relik taq k'utunïk chi rij &brandShortName; kab'etz'eton pa qa <a id='supportLink'>ruxaq k'amaya'l richin to'ïk</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Rutzijol taq sachoj">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):

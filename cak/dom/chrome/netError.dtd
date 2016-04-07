@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Ri ruxaq k'amaya'l k'utun man tikirel ta nisamajib'ëx ruma jun ruwäch chi ch'utinisanïk, ri man koch'el ta o man okel ta.</p><ul><li>Katzijon kik'in ri rajwaw ruxaq k'amaya'al richin natzijoj chi ke pa ruwi' re k'ayewal re'.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Itzel ruwäch chi yakb'äl">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Tab'ana' utzil, ke'atz'ib'aj el ri rajaw ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Tab'ana' utzil, ke'atz'ib'aj el ri rajaw ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li> </ul>">
 
 <!ENTITY netReset.title "Xq'at ri okem pa k'amaya'l">
 <!ENTITY netReset.longDesc "<p>Xq'at ri ximonel toq nitzijöx rij ri okem pa k'amaya'l. Tatojtob'ej jumul chik.</p>">
@@ -67,14 +65,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Man tikirel ta ninik'öx chi e qitzij ri taq tzij xek'ul, man xtik'ut ta pe ri ruxaq k'amaya'l.</p><ul><li>Katzijon kik'in ri e pa'äl chuwäch ri ruxaq k'amaya'l richin naya' rutzijol chi ke pa ruwi' re k'ayewal re'.</li></ul>">
 
 <!ENTITY nssBadCert.title "Man xtikïr ta rik'in ri ütz okem">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Rik'in jub'a' jun ruk'ayewal ri runuk'ulem ruk'u'x samaj, o chuqa' k'o ri tajin nik'exo ri ruk'u'x samaj.</li> 
-<li>We at jikïl chi atokinäq chik ütz pa re ruk'u'x samaj re', ri sachoj xa xe jun ti mej, ruma ri' tikirel natojtob'ej pa jun chik ch'uti ramaj.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Rik'in jub'a' jun ruk'ayewal ri runuk'ulem ruk'u'x samaj, o chuqa' k'o ri tajin nik'exo ri ruk'u'x samaj.</li> <li>We at jikïl chi atokinäq chik ütz pa re ruk'u'x samaj re', ri sachoj xa xe jun ti mej, ruma ri' tikirel natojtob'ej pa jun chik ch'uti ramaj.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Tikirel chuqa' natz'aqatisaj jun man relik ta…">
-<!ENTITY securityOverride.warningContent "<p>Man ta natz'aqatisaj jun man relik ta, we tajin nawokisaj jun okem pa k'amaya'l, ri man kuqül ta ak'u'x rik'in o akuchi' man ruk'ulun ta chawe natz'ët rutzijol k'ayewal pa re ruk'u'x samaj re'.</p> 
-<p>We k'a nawajo' natz'aqatisaj jun man relik ta richin re ruxaq k'amaya'l re', yatikïr nab'än pa runuk'ulem q'axinäq man etaman ta.</p>">
+<!ENTITY securityOverride.warningContent "<p>Man ta natz'aqatisaj jun man relik ta, we tajin nawokisaj jun okem pa k'amaya'l, ri man kuqül ta ak'u'x rik'in o akuchi' man ruk'ulun ta chawe natz'ët rutzijol k'ayewal pa re ruk'u'x samaj re'.</p> <p>We k'a nawajo' natz'aqatisaj jun man relik ta richin re ruxaq k'amaya'l re', yatikïr nab'än pa runuk'ulem q'axinäq man etaman ta.</p>">
 
 <!ENTITY cspBlocked.title "Q'aton ruma ri runa'ojil ruchajixik rupam">
 <!ENTITY cspBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xjaqatäj ri ruxaq k'amaya'l, ruma ri ruxaq k'amaya'l k'o runa'oj pa ruwi' chajinïk, ri man nuya' ta q'ij.</p>">

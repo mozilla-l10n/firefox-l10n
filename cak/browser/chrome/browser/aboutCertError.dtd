@@ -20,17 +20,10 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "Tetamäx ch'aqa' chik…">
 <!ENTITY certerror.advanced.label "Q'axinäq">
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Re ruxaq k'amaya'l re' kan nrokisaj Nïm Ruchajinïk Ruk'wayöl HTTP (HSTS)
-richin nuya' retal chi &brandShortName; xa xe tok
-rik'in rija' pa ütz rub'anikil. Rin nib'e'el chi man nitikïr ta nutz'aqtisaj jun man relik ta chi re re
-ruwujil b'i'aj re'.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Re ruxaq k'amaya'l re' kan nrokisaj Nïm Ruchajinïk Ruk'wayöl HTTP (HSTS)richin nuya' retal chi &brandShortName; xa xe tokrik'in rija' pa ütz rub'anikil. Rin nib'e'el chi man nitikïr ta nutz'aqtisaj jun man relik ta chi re reruwujil b'i'aj re'.">
 
-<!ENTITY certerror.expert.content "We niq'ax chawäch ri tajin nik'ulwachitäj 
-tikirel nab'ij chi re &brandShortName; kuqül k'u'x chi rij re jun rupam k'amaya'l re'. 
-<b> Ke ri' chuqa' we kuqül ak'u'x chi rij re rupam k'amaya'l re, re jun sachoj re' rik'in jub'a' chuqa' nuq'ajuj 
-chi k'o jun ri nuju' ri' chupam ri awokem.</b>">
-<!ENTITY certerror.expert.contentPara2 "Man tatz'aqatisaj qa jun man relik ta 
-rajowaxik chi kan awetaman chi re jun ruxaq re' man trokisaj ri kuqül tz'etonem.">
+<!ENTITY certerror.expert.content "We niq'ax chawäch ri tajin nik'ulwachitäj tikirel nab'ij chi re &brandShortName; kuqül k'u'x chi rij re jun rupam k'amaya'l re'. <b> Ke ri' chuqa' we kuqül ak'u'x chi rij re rupam k'amaya'l re, re jun sachoj re' rik'in jub'a' chuqa' nuq'ajuj chi k'o jun ri nuju' ri' chupam ri awokem.</b>">
+<!ENTITY certerror.expert.contentPara2 "Man tatz'aqatisaj qa jun man relik ta rajowaxik chi kan awetaman chi re jun ruxaq re' man trokisaj ri kuqül tz'etonem.">
 <!ENTITY certerror.addException.label "Titz'aqatisäx qa jun me'elik…">
 <!ENTITY certerror.copyToClipboard.label "Tiwachib'ëx ri rucholajem tzij pa molwuj">
 

@@ -124,11 +124,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "¿Atux ri taq tz'aqat?">
-<!ENTITY discover.description2                "Ri taq tz'aqat taq e chokoy, ri nikiya' q'ij chawe richin nawichinaj &brandShortName; rik'in 
-rutz'aqat rusamaj o rub'anikil. Tatojtob'ej rik'in rukajtz'ik ruchi' richin nayäk aramaj, jun rutzijonel rub'anikil ri q'ij o tatz'eta' konojel ri taq na'oj richin naya' kan &brandShortName; 
-achi'el arayib'al.">
-<!ENTITY discover.footer                      "Toq atokinäq pa k'amaya'l, re pas re' xtiwachin pe 
-jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'atojtob'ej.">
+<!ENTITY discover.description2                "Ri taq tz'aqat taq e chokoy, ri nikiya' q'ij chawe richin nawichinaj &brandShortName; rik'in rutz'aqat rusamaj o rub'anikil. Tatojtob'ej rik'in rukajtz'ik ruchi' richin nayäk aramaj, jun rutzijonel rub'anikil ri q'ij o tatz'eta' konojel ri taq na'oj richin naya' kan &brandShortName; achi'el arayib'al.">
+<!ENTITY discover.footer                      "Toq atokinäq pa k'amaya'l, re pas re' xtiwachin pe jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'atojtob'ej.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Ruwäch">
