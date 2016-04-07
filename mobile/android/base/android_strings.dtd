@@ -607,12 +607,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ব্যাক্তিগত তথ্য মুছে ফেলা হয়েছে">
 <!ENTITY private_data_fail "কিছু ব্যাক্তিগত তথ্য মুছে ফেলা যায়নি">
 
-<!ENTITY bookmarkhistory_import_both "বুকমার্ক এবং ইতিহাস 
-অ্যান্ড্রয়েড থেকে আমদানি করা হচ্ছে">
-<!ENTITY bookmarkhistory_import_bookmarks "বুকমার্ক 
- অ্যান্ড্রয়েড থেকে আমদানি করা হচ্ছে">
-<!ENTITY bookmarkhistory_import_history "
- ইতিহাস অ্যান্ড্রয়েড থেকে আমদানি করা হচ্ছে">
+<!ENTITY bookmarkhistory_import_both "বুকমার্ক এবং ইতিহাস অ্যান্ড্রয়েড থেকে আমদানি করা হচ্ছে">
+<!ENTITY bookmarkhistory_import_bookmarks "বুকমার্ক  অ্যান্ড্রয়েড থেকে আমদানি করা হচ্ছে">
+<!ENTITY bookmarkhistory_import_history " ইতিহাস অ্যান্ড্রয়েড থেকে আমদানি করা হচ্ছে">
 <!ENTITY bookmarkhistory_import_wait "অনুগ্রহ করে অপেক্ষা করুন...">
 
 <!ENTITY suggestions_prompt3 "অনুসন্ধান পরামর্শ সক্রিয় করতে চান?">
