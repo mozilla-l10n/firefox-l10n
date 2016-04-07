@@ -20,17 +20,10 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "مزید سیکھیں…">
 <!ENTITY certerror.advanced.label "اعلٰی ترین">
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "یہ سائٹ HTTP 
- کا استعمال کرتی ہےسخت ٹرانسپورٹ سیکورٹی (HSTS) کہ اور &brandShortName; کی وضاحت کرنے کے لئے صرف رابطہ قائم 
- کرنے کے لئے محفوظ طریقے سے۔ اس کے نتیجے میں، اس سرٹیفکیٹ کے لئے استثنا شامل کرنا 
- ممکن نہیں ہے۔">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "یہ سائٹ HTTP  کا استعمال کرتی ہےسخت ٹرانسپورٹ سیکورٹی (HSTS) کہ اور &brandShortName; کی وضاحت کرنے کے لئے صرف رابطہ قائم  کرنے کے لئے محفوظ طریقے سے۔ اس کے نتیجے میں، اس سرٹیفکیٹ کے لئے استثنا شامل کرنا  ممکن نہیں ہے۔">
 
-<!ENTITY certerror.expert.content "اگر آپکو اس معاملے کی پہچان ہے تو آپ,
-&brandShortName; کو اس ویب سائٹ پر اعتبار کا کہہ سکتے ہیں-
-<b>اگرچہ ویب سائٹ قابل اعتبارہے، اس خرابی کامطلب ہے کہ
-کوئی آپکے رابطے کو غضب کررہاہے</b>">
-<!ENTITY certerror.expert.contentPara2 "استثنیٰ شامل نہ کریں
-ناکہ آپ کے پاس کوئی اچھی دلیل ہے کہ اس ویب سائٹ کوقابل اعتبارشناخت کی ضرورت نہیں۔">
+<!ENTITY certerror.expert.content "اگر آپکو اس معاملے کی پہچان ہے تو آپ,&brandShortName; کو اس ویب سائٹ پر اعتبار کا کہہ سکتے ہیں-<b>اگرچہ ویب سائٹ قابل اعتبارہے، اس خرابی کامطلب ہے کہکوئی آپکے رابطے کو غضب کررہاہے</b>">
+<!ENTITY certerror.expert.contentPara2 "استثنیٰ شامل نہ کریںناکہ آپ کے پاس کوئی اچھی دلیل ہے کہ اس ویب سائٹ کوقابل اعتبارشناخت کی ضرورت نہیں۔">
 <!ENTITY certerror.addException.label "اکسیپشنمیں میں اضافہ کریں…">
 <!ENTITY certerror.copyToClipboard.label "متن کو تختہ تراشہ پر نقل کریں">
 
