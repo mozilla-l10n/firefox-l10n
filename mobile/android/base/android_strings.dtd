@@ -589,12 +589,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "தனிப்பட்ட தரவுகள் நீக்கப்பட்டன">
 <!ENTITY private_data_fail "சில தனிப்பட்ட தரவுகளை நீக்க முடியவில்லை">
 
-<!ENTITY bookmarkhistory_import_both "ஆண்டிரய்டிலிருந்து புத்தகக்குறிகள் மற்றும் 
-வரலாற்றை இறக்குகிறது">
-<!ENTITY bookmarkhistory_import_bookmarks "ஆண்ட்ராய்டு புத்தகக்குறிகளை 
-இறக்கு">
-<!ENTITY bookmarkhistory_import_history "ஆண்ட்ராய்டு வரலாற்றை 
-இறக்கு">
+<!ENTITY bookmarkhistory_import_both "ஆண்டிரய்டிலிருந்து புத்தகக்குறிகள் மற்றும் வரலாற்றை இறக்குகிறது">
+<!ENTITY bookmarkhistory_import_bookmarks "ஆண்ட்ராய்டு புத்தகக்குறிகளை இறக்கு">
+<!ENTITY bookmarkhistory_import_history "ஆண்ட்ராய்டு வரலாற்றை இறக்கு">
 <!ENTITY bookmarkhistory_import_wait "தயவு செய்து காத்திருக்கவும்...">
 
 <!ENTITY suggestions_prompt3 "தேடல் பரிந்துரைகளை செயற்படுத்த விருப்பமா?">
