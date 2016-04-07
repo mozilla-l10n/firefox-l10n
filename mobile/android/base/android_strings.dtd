@@ -628,12 +628,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "কিছু ব্যক্তিগত তথ্য পরিষ্কার করা যায়নি">
 
 <!ENTITY bookmarkhistory_button_import "ইম্পোর্ট">
-<!ENTITY bookmarkhistory_import_both "এন্ড্রয়েড থেকে বুকমার্ক এবং ইতিহাস (r)
-ইম্পোর্ট করুন">
-<!ENTITY bookmarkhistory_import_bookmarks "এন্ড্রয়েড থেকে বুকমার্ক 
-ইম্পোর্ট করুন">
-<!ENTITY bookmarkhistory_import_history "এন্ড্রয়েড থেকে ইতিহাস
-ইম্পোর্ট করুন">
+<!ENTITY bookmarkhistory_import_both "এন্ড্রয়েড থেকে বুকমার্ক এবং ইতিহাস (r)ইম্পোর্ট করুন">
+<!ENTITY bookmarkhistory_import_bookmarks "এন্ড্রয়েড থেকে বুকমার্ক ইম্পোর্ট করুন">
+<!ENTITY bookmarkhistory_import_history "এন্ড্রয়েড থেকে ইতিহাসইম্পোর্ট করুন">
 <!ENTITY bookmarkhistory_import_wait "অনুগ্রহ করে অপেক্ষা করুন">
 
 <!ENTITY suggestions_prompt3 "আপনি কি পরামর্শ অনুসন্ধান আরম্ভ করতে চান?">

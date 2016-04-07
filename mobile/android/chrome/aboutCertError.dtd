@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "আপনি &brandShortName;কে 
-<b>#1</b> এর সাথে নিরাপদভাবে সংযুক্ত হতে বলেছেন, কিন্তু সংযোগটি নিরাপদ কিনা তা নিশ্চিত করা সম্ভব হচ্ছে না।">
+<!ENTITY certerror.introPara1 "আপনি &brandShortName;কে <b>#1</b> এর সাথে নিরাপদভাবে সংযুক্ত হতে বলেছেন, কিন্তু সংযোগটি নিরাপদ কিনা তা নিশ্চিত করা সম্ভব হচ্ছে না।">
 
 <!ENTITY certerror.whatShouldIDo.heading "আমার কি করা উচিৎ?">
-<!ENTITY certerror.whatShouldIDo.content "যদি আপনি আগে সবসময় কোন সমস্যা ছাড়াই এই সাইটে গিয়ে থাকেন, 
-এই ত্রুটির অর্থ হতে পারে যে কেউ এই সাইটটি জাল করার চেষ্টা করছে, 
-এবং আপনার এটির সাথে সংযোগ বিচ্ছিন্ন করা উচিৎ।">
+<!ENTITY certerror.whatShouldIDo.content "যদি আপনি আগে সবসময় কোন সমস্যা ছাড়াই এই সাইটে গিয়ে থাকেন, এই ত্রুটির অর্থ হতে পারে যে কেউ এই সাইটটি জাল করার চেষ্টা করছে, এবং আপনার এটির সাথে সংযোগ বিচ্ছিন্ন করা উচিৎ।">
 <!ENTITY certerror.getMeOutOfHere.label "আমাকে উদ্ধার করো!">
 
 <!ENTITY certerror.expert.heading "আমি এর ঝুঁকি সম্পর্কে অবগত আছি ">
-<!ENTITY certerror.expert.content "আপনি যদি বুঝে থাকেন কি হচ্ছে, আপনি 
-বলতে &brandShortName; কে বলতে পারেন যে এই সাইটের পরিচয় যেনো বিশ্বাস করা হয়।
-<b>যদিও আপনি এই সাইটকে বিশ্বাস করে থাকেন, এই ত্রুটির অর্থ হতে পারে যে কেউ 
-আপনার সংযোগের ক্ষতি করার চেষ্টা করছে</b>">
-<!ENTITY certerror.expert.contentPara2 "ব্যতিক্রম যোগ করবেন না
-যতক্ষণ না আপনি একটি গ্রহনযোগ্য কারণ দেখেন যে, কেনো এই সাইটটি নির্ভরযোগ্য পরিচয় প্রমান ব্যবহার করছে না।">
+<!ENTITY certerror.expert.content "আপনি যদি বুঝে থাকেন কি হচ্ছে, আপনি বলতে &brandShortName; কে বলতে পারেন যে এই সাইটের পরিচয় যেনো বিশ্বাস করা হয়।<b>যদিও আপনি এই সাইটকে বিশ্বাস করে থাকেন, এই ত্রুটির অর্থ হতে পারে যে কেউ আপনার সংযোগের ক্ষতি করার চেষ্টা করছে</b>">
+<!ENTITY certerror.expert.contentPara2 "ব্যতিক্রম যোগ করবেন নাযতক্ষণ না আপনি একটি গ্রহনযোগ্য কারণ দেখেন যে, কেনো এই সাইটটি নির্ভরযোগ্য পরিচয় প্রমান ব্যবহার করছে না।">
 <!ENTITY certerror.addTemporaryException.label "ওয়েবসাইট-এ যান">
 <!ENTITY certerror.addPermanentException.label "স্থায়ী একসেপশন যোগ করুন">
 
