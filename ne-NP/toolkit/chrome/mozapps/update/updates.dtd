@@ -11,14 +11,12 @@
 <!ENTITY  pluginupdateslink.label         "तपाईँको प्लगइन अपग्रेड कसरी गर्ने भनेर हेर्नुहोस्।">
 
 <!ENTITY  noupdatesfound.title            "कुनै अद्यावधि पाइएन">
-<!ENTITY  noupdatesautoenabled.intro      "कुनै पनि अपडेट उपलब्ध छैन। &brandShortName; ले 
- समय समयमा अपडेटका लागि जाँच गर्ने छ।  ">
+<!ENTITY  noupdatesautoenabled.intro      "कुनै पनि अपडेट उपलब्ध छैन। &brandShortName; ले  समय समयमा अपडेटका लागि जाँच गर्ने छ।  ">
 
 
 <!ENTITY  manualUpdate.title              "अद्यावधिक गर्न सकिएन">
 
-<!ENTITY  manualUpdate.space.desc         "एउटा सिफारिस गरिएको सुरक्षा र स्थिरता अद्यावधिक उपलब्ध छ, तर तपाइँसँग 
-यो स्थापना गर्न पर्याप्त ठाउँ छैन।">
+<!ENTITY  manualUpdate.space.desc         "एउटा सिफारिस गरिएको सुरक्षा र स्थिरता अद्यावधिक उपलब्ध छ, तर तपाइँसँग यो स्थापना गर्न पर्याप्त ठाउँ छैन।">
 
 
 <!ENTITY  unsupported.title               "सिस्टम असमर्थित">
