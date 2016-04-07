@@ -17,28 +17,16 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Sunucu bulunamadı">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Adres <strong>www</strong>.sunucu.com yerine 
-<strong>ww</strong>.sunucu.com 
-gibi yanlış yazılmış olabilir.</li> 
-<li>Hiçbir sayfayı açmayı başaramıyorsanız bilgisayarınızın ağ bağlantılarını gözden geçirin ve İnternet'e bağlı olduğunuzdan emin olun.</li> 
-<li>Bilgisayarınız ya da ağınız güvenlik duvarı ya da vekil sunucu tarafından korunuyorsa, &brandShortName; uygulamasına İnternet'e erişmek için gerekli izinlerin verilmiş olduğundan emin olun.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Adres <strong>www</strong>.sunucu.com yerine <strong>ww</strong>.sunucu.com gibi yanlış yazılmış olabilir.</li> <li>Hiçbir sayfayı açmayı başaramıyorsanız bilgisayarınızın ağ bağlantılarını gözden geçirin ve İnternet'e bağlı olduğunuzdan emin olun.</li> <li>Bilgisayarınız ya da ağınız güvenlik duvarı ya da vekil sunucu tarafından korunuyorsa, &brandShortName; uygulamasına İnternet'e erişmek için gerekli izinlerin verilmiş olduğundan emin olun.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Dosya adındaki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> 
-<li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Dosya adındaki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> <li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> </ul>">
 
 <!ENTITY generic.title "Tüh.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bazı nedenlerden dolayı bu sayfayı açamıyor.</p>">
 
 <!ENTITY malformedURI.title "Adres geçersiz">
-<!ENTITY malformedURI.longDesc " <ul> 
-<li>Web adresleri genellikle <strong>http://www.mozilla.org.tr/</strong> şeklinde yazılır.</li> 
-<li>Bölü işaretini <strong>(/)</strong> doğru şekilde kullandığınızdan emin olun.</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc " <ul> <li>Web adresleri genellikle <strong>http://www.mozilla.org.tr/</strong> şeklinde yazılır.</li> <li>Bölü işaretini <strong>(/)</strong> doğru şekilde kullandığınızdan emin olun.</li> </ul>">
 
 <!ENTITY netInterrupt.title "Bağlantı kesintiye uğradı">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -47,19 +35,13 @@ gibi yanlış yazılmış olabilir.</li>
 <!ENTITY notCached.longDesc "<p>Talep edilen belge önbellekte mevcut değil.</p><ul><li>&brandShortName; bir güvenlik önlemi olarak, hassas belgeleri otomatik olarak yeniden talep etmez.</li><li>Belgeyi web sitesinden tekrar talep etmek için Yeniden dene'ye tıklayın.</li></ul>">
 
 <!ENTITY netOffline.title "Çevrimdışı kip">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Çevrim içi moda geçip sayfayı tazelemek için &quot;Yeniden dene&quot;ye tıklayın.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Çevrim içi moda geçip sayfayı tazelemek için &quot;Yeniden dene&quot;ye tıklayın.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Güvensiz dosya türü">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> </ul>">
 
 <!ENTITY netReset.title "Bağlantı sıfırlandı">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -68,65 +50,36 @@ gibi yanlış yazılmış olabilir.</li>
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adres anlaşılamadı">
-<!ENTITY unknownProtocolFound.longDesc " <ul> 
-<li>Bu adresi açmak için başka bir yazılım kurmanız gerekebilir.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc " <ul> <li>Bu adresi açmak için başka bir yazılım kurmanız gerekebilir.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Vekil sunucu bağlantıları reddediyor">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Vekil sunucu ayarlarının doğruluğunu kontrol edin.</li> 
-<li>Sistem yöneticiniz ile irtibata geçin ve vekil sunucunuzu kontrol ettirin.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Vekil sunucu ayarlarının doğruluğunu kontrol edin.</li> <li>Sistem yöneticiniz ile irtibata geçin ve vekil sunucunuzu kontrol ettirin.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Vekil sunucu bulunamadı">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Vekil sunucu ayarlarının doğru olduğundan emin olun.</li> 
-<li>Bilgisayarınızın ağ bağlantısını kontrol edin.</li> 
-<li>Bilgisayarınız vekil sunucu veya güvenlik duvarı arkasındaysa, &brandShortName; uygulamasının web'e erişim izni olduğundan emin olun.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Vekil sunucu ayarlarının doğru olduğundan emin olun.</li> <li>Bilgisayarınızın ağ bağlantısını kontrol edin.</li> <li>Bilgisayarınız vekil sunucu veya güvenlik duvarı arkasındaysa, &brandShortName; uygulamasının web'e erişim izni olduğundan emin olun.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Sayfa doğru bir şekilde yönlendirilmiyor">
-<!ENTITY redirectLoop.longDesc " <ul> 
-<li>Bazen bu sorunun nedeni çerezlerin etkisizleştirilmesi veya 
-reddedilmesi olabilmektedir.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc " <ul> <li>Bazen bu sorunun nedeni çerezlerin etkisizleştirilmesi veya reddedilmesi olabilmektedir.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Beklenmeyen sunucu yanıtı">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Sisteminizde kişisel güvenlik yöneticisinin kurulu olduğundan emin olun.</li> 
-<li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Sisteminizde kişisel güvenlik yöneticisinin kurulu olduğundan emin olun.</li> <li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı hatası">
-<!ENTITY nssFailure2.longDesc2 " <ul> 
-<li>Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.</li> 
-<li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 " <ul> <li>Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.</li> <li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Güvenli bağlantı hatası">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Bu, sunucunun yapılandırmasıyla ilgili bir sorundan veya birinin sunucuyu taklit etmeye çalışmasından kaynaklanıyor olabilir.</li> 
-<li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden açmayı deneyebilirsiniz.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Bu, sunucunun yapılandırmasıyla ilgili bir sorundan veya birinin sunucuyu taklit etmeye çalışmasından kaynaklanıyor olabilir.</li> <li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden açmayı deneyebilirsiniz.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> 
-<li>Site geçici olarak ulaşılamıyor veya meşgul. Birkaç 
-saniye sonra tekrar deneyin.</li> 
-<li>Hiç bir sayfaya ulaşamıyorsanız bilgisayarınızın ağ 
-bağlantısını kontrol edin.</li> 
-<li>Bilgisayarınız vekil sunucusu veya ateş duvarı arkasındaysa,  &brandShortName; uygulamasının Web ulaşımı izni olduğundan emin olun.</li> 
-</ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Site geçici olarak ulaşılamıyor veya meşgul. Birkaç saniye sonra tekrar deneyin.</li> <li>Hiç bir sayfaya ulaşamıyorsanız bilgisayarınızın ağ bağlantısını kontrol edin.</li> <li>Bilgisayarınız vekil sunucusu veya ateş duvarı arkasındaysa,  &brandShortName; uygulamasının Web ulaşımı izni olduğundan emin olun.</li> </ul>">
 
 <!ENTITY malwareBlocked.title "Şüpheli saldırı sitesi!">
-<!ENTITY malwareBlocked.longDesc "<p>Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırma amacıyla kullanan ya da sisteminize zarar veren programlar kurmaya çalışan sitelerdir.</p> 
-<p>Web sitelerinin yanlışlıkla saldırı sitesi olarak rapor edildiğini düşünen site yöneticileri durumun <a href='http://www.stopbadware.org/home/reviewinfo'>gözden geçirilmesini</a> isteyebilir.</p>">
+<!ENTITY malwareBlocked.longDesc "<p>Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırma amacıyla kullanan ya da sisteminize zarar veren programlar kurmaya çalışan sitelerdir.</p> <p>Web sitelerinin yanlışlıkla saldırı sitesi olarak rapor edildiğini düşünen site yöneticileri durumun <a href='http://www.stopbadware.org/home/reviewinfo'>gözden geçirilmesini</a> isteyebilir.</p>">
 
 <!ENTITY unwantedBlocked.title "İstenmeyen Yazılım Sitesi Şüphesi!">
 <!ENTITY unwantedBlocked.longDesc "<p>İstenmeyen yazılım sayfaları, yanıltıcı olabilecek ve sisteminizi beklenmedik şekilde etkileyebilecek yazılımlar yüklemeye çalışır.</p>">
 
 <!ENTITY phishingBlocked.title "Sahtekârlık şüphesi!">
-<!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> 
-<p>Bu tür sahtekârlıklar yemleme olarak bilinen dümenlerde kullanılır. Yemleme saldırılarında araç olarak güvenebileceğiniz kurumları taklit eden sayfalara ve e-postalara başvurulur.</p>">
+<!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> <p>Bu tür sahtekârlıklar yemleme olarak bilinen dümenlerde kullanılır. Yemleme saldırılarında araç olarak güvenebileceğiniz kurumları taklit eden sayfalara ve e-postalara başvurulur.</p>">
 
 
 
@@ -145,10 +98,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Tamamen güvenmediğiniz bir internet bağlantısı kullanıyorsanız veya bu sunucudan uyarı almaya alışkın değilseniz ayrıcalık tanımamalısınız.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Tamamen güvenmediğiniz bir internet bağlantısı kullanıyorsanız veya bu sunucudan uyarı almaya alışkın değilseniz ayrıcalık tanımamalısınız.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Uzak XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">
