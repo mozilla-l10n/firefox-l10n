@@ -38,7 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Pot buk ma itye kaneno ne pe romo nyutu pien tiyo ki mung ma pe tiyo onyo kit dic ma pe kicwako ne.</p><ul><li>Tim ber ikube ki wegi di bar me Web me mino gi ngec pi peko man.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Kit Pwail Mape ber">
-
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Tim ber ikube ki wegi kakube man me mini gi ngec pi peko man.</li> </ul>">
 
 <!ENTITY netReset.title "Kibalo Kube woko">
 <!ENTITY netReset.longDesc "<p>Kakube me lakub iwi yamo kibalo woko kun poro kube. Tim ber item doki.</p>">
@@ -65,7 +65,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Pot buk ma itye katemo neno pe romo nyute pien twero pa tic ma kigamo pe onongo romo moko.</p><ul><li>Tim ber i kube ki wegi kakube wek i mini gi ngec pi peko man.</li></ul>">
 
 <!ENTITY nssBadCert.title "Gwoko Kubo Pe olare">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Man tyero bedo peko me can pa lapok tic, onyo romo bedo ngat mo tye ka tuku ki lapok tic.</li> <li>Ka ityeko kube ki lapok tic man maber i kare mukato angec, bal man twero bedo pi tutunu, ci i romo temo doki lacen</li> </ul>">
 
 
 
