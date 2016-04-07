@@ -609,12 +609,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Giyweyo woko tic pa dano">
 <!ENTITY private_data_fail "Pe onwongo gitwero yweyo woko tic pa dano">
 
-<!ENTITY bookmarkhistory_import_both "Kelo ki woko alama buke ki lok mukato angec
-ki Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Kel ki woko alama buke
- ki Android">
-<!ENTITY bookmarkhistory_import_history "Kelo kiwoko lok mukato 
-ki Android">
+<!ENTITY bookmarkhistory_import_both "Kelo ki woko alama buke ki lok mukato angecki Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Kel ki woko alama buke ki Android">
+<!ENTITY bookmarkhistory_import_history "Kelo kiwoko lok mukato ki Android">
 <!ENTITY bookmarkhistory_import_wait "Tim ber i kur...">
 
 <!ENTITY suggestions_prompt3 "Imito keto tam ikom yeny?">
