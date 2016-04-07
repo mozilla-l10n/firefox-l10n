@@ -19,33 +19,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Iseva Ayitholakali">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Hlola ukuthi ikheli alinawo amaphutha okubhala njengokuthi 
- <strong>ww</strong>.isibonelo.com esikhundleni sokuthi 
-<strong>www</strong>.isibonelo.com</li> 
-<li>Uma ungakwazi ukulayisha noma iliphi ikhasi, hlola ukuxhuma 
-kunethiwekhi yekhompyutha yakho.</li> 
-<li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka 
-ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li>
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Hlola ukuthi ikheli alinawo amaphutha okubhala njengokuthi  <strong>ww</strong>.isibonelo.com esikhundleni sokuthi <strong>www</strong>.isibonelo.com</li> <li>Uma ungakwazi ukulayisha noma iliphi ikhasi, hlola ukuxhuma kunethiwekhi yekhompyutha yakho.</li> <li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li></ul>">
 
 <!ENTITY fileNotFound.title "Ifayela alitholakali">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Hlola igama lefayela ukuthi osonhlamvukazi babhalwe kahle namanye amaphutha okubhala.</li> 
-<li>Hlola ubone ukuthi ifayela aliyiswanga kwenye indawo, laqanjwa futhi noma lasuswa.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Hlola igama lefayela ukuthi osonhlamvukazi babhalwe kahle namanye amaphutha okubhala.</li> <li>Hlola ubone ukuthi ifayela aliyiswanga kwenye indawo, laqanjwa futhi noma lasuswa.</li> </ul>">
 
 
 <!ENTITY generic.title "Hayi bo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; alikwazi ukulayisha leli khasi ngenxa yesizathu esithile.</p>">
 
 <!ENTITY malformedURI.title "Leli kheli alisebenzi">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Amakheli ewebhu avame ukubhalwa kanje 
-<strong>http://www.example.com/</strong></li> 
-<li>Qiniseka ukuthi usebenzisa isileshi esibheke phambili (isib. 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Amakheli ewebhu avame ukubhalwa kanje <strong>http://www.example.com/</strong></li> <li>Qiniseka ukuthi usebenzisa isileshi esibheke phambili (isib. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Ukuxhumana kuphazamisekile">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -54,18 +38,13 @@ ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li>
 <!ENTITY notCached.longDesc "<p>Umbhalo oceliwe awutholakali esilondolozini se-&brandShortName;</p><ul><li>Njesiqaphelisi sokuphepha, i-&brandShortName; ayiceli kabusha ngokuzenzakalela imibhalo ezwela  kakhulu.</li><li>Qhofoza u-Zama Futhi ukuze ucele kabusha umbhalo kusuka kuwebhusayithi.</li></ul>">
 
 <!ENTITY netOffline.title "Ayikho ku-inthanethi">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Chofoza u-&quot;Zama futhi&quot; ukushintshela kundlela eku-inthanethi futhi ulayishe kabusha ikhasi.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Chofoza u-&quot;Zama futhi&quot; ukushintshela kundlela eku-inthanethi futhi ulayishe kabusha ikhasi.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Iphutha lokubhala ngemfihlo okuqukethwe">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga</li>  </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga</li>  </ul>">
 
 <!ENTITY unsafeContentType.title "Uhlobo lwefayela elingaphephile">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga.</li> </ul>">
 
 <!ENTITY netReset.title "Ukuxhumana kuqaliswe phansi">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -74,57 +53,27 @@ ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li>
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Leli kheli aliqondakalanga">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
- <li>Kungase kudingeke ukuba ufakele olunye uhlaka olusetshenziswayo ukuze uvule leli kheli.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul>  <li>Kungase kudingeke ukuba ufakele olunye uhlaka olusetshenziswayo ukuze uvule leli kheli.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Iseva ye-proxy iyenqaba ukuxhuma">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Hlola ukuhlelwa kwe-proxy ukuze uqiniseke ukuthi kuyikho.</li> 
-<li>Thintana nomphathi wenethiwekhi yakho ukuze uqiniseke ukuthi iseva ye-proxy 
- iyasebenza.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Hlola ukuhlelwa kwe-proxy ukuze uqiniseke ukuthi kuyikho.</li> <li>Thintana nomphathi wenethiwekhi yakho ukuze uqiniseke ukuthi iseva ye-proxy  iyasebenza.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Ayikwazi ukuthola iseva ye-proxy">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Hlola ukuhlelwa kwe-proxy ukuze uqiniseke ukuthi kuyikho.</li> 
-<li>Hlola ukuze uqiniseka ukuthi ikhompyutha yakho ixhume kunethiwekhi esebenzayo.</li> 
-<li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma 
-i-proxy, qiniseka ukuthi &brandShortName; livunyelwe ukungena kuwebhu</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Hlola ukuhlelwa kwe-proxy ukuze uqiniseke ukuthi kuyikho.</li> <li>Hlola ukuze uqiniseka ukuthi ikhompyutha yakho ixhume kunethiwekhi esebenzayo.</li> <li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka ukuthi &brandShortName; livunyelwe ukungena kuwebhu</li> </ul>">
 
 <!ENTITY redirectLoop.title "Leli khasi aliqondile kahle kwenye indawo">
-<!ENTITY redirectLoop.longDesc "<ul>  
-<li>Le nkinga ngezinye izikhathi ingase ibangelwe ukwenza angasebenzi noma ukwenqaba ukwamukela
- amakukizi.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul>  <li>Le nkinga ngezinye izikhathi ingase ibangelwe ukwenza angasebenzi noma ukwenqaba ukwamukela amakukizi.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Impendulo engalindelekile evela kwi seva">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Hlola ukuze uqiniseke ukuthi uhlelo lwakho lunoMqondisi wokuvikela 
-Okungowakho ofakelwe.</li> 
-<li>Lokhu kungase kubangelwe isimo esingafani nezinye esikuseva.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Hlola ukuze uqiniseke ukuthi uhlelo lwakho lunoMqondisi wokuvikela Okungowakho ofakelwe.</li> <li>Lokhu kungase kubangelwe isimo esingafani nezinye esikuseva.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Uxhumo oluvikelekile luhlulekile">
 
 
 <!ENTITY nssBadCert.title "Uxhumo oluvikelekile luhlulekile">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Lokhu kungaba yinkinga nezimiso zeseva, noma kungaba 
-ukuthi omunye umuntu ozama ukuzenza omunye umuntu kuseva.</li> 
-<li>Uma uke waxhumeka kule seva ngempumelelo ngaphambilini, iphutha lingaba 
- ngalesi sikhashana, futhi ungabuye uzame kamuva.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Lokhu kungaba yinkinga nezimiso zeseva, noma kungaba ukuthi omunye umuntu ozama ukuzenza omunye umuntu kuseva.</li> <li>Uma uke waxhumeka kule seva ngempumelelo ngaphambilini, iphutha lingaba  ngalesi sikhashana, futhi ungabuye uzame kamuva.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> 
-<li>Kungenzeka ukuthi le ngosi ayitholakali okwesikhashana noma imatasa kakhulu. Phinda uzame ngemva 
-kwesikhashana.</li> 
-<li>Uma ungakwazi ukulayisha amakhasi athile, hlola ukuthi ikhompyutha 
- yakho ixhumekile kunethiwekhi.</li> 
-<li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka ukuthi 
-&brandShortName; ivunyelwe ukungena kuwebhu.</li> 
-</ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Kungenzeka ukuthi le ngosi ayitholakali okwesikhashana noma imatasa kakhulu. Phinda uzame ngemva kwesikhashana.</li> <li>Uma ungakwazi ukulayisha amakhasi athile, hlola ukuthi ikhompyutha  yakho ixhumekile kunethiwekhi.</li> <li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka ukuthi &brandShortName; ivunyelwe ukungena kuwebhu.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Kuvinjelwe yinqubomgomo yokuphepha okuqukethwe">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ivimbele le khasi ekulayisheni ngale ndlela ngoba ikhasi linenqubomgomo yokuphepha kokuqukethwe okuyinqabelayo.</p>">
@@ -142,10 +91,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Akumele ungeze okungaphandle uma usebenzisa uxhumo lwe-inthanethi ongalethembi ngokugcwele noma ungajwayele ukubona isexwayiso kulesi siphakeli.</p> 
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Akumele ungeze okungaphandle uma usebenzisa uxhumo lwe-inthanethi ongalethembi ngokugcwele noma ungajwayele ukubona isexwayiso kulesi siphakeli.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 
 

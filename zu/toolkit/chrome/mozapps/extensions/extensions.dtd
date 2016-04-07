@@ -121,11 +121,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Yini okwengezwayo?">
-<!ENTITY discover.description2                "Okwengezwayo mahlelo kisebenza akuvumela ukuba wenza kube ngokwakho i-&brandShortName; 
-ngokwenzeka okungaphezulu noma isitayela. Zana umugqa oseceleni wokonga isikhathi, isazisi ngesimo sezulu, noma ukubuka ngendikimba ukuze wenze i-&brandShortName; 
-kube ngeyakho.">
-<!ENTITY discover.footer                      "Uma uxhunyiwe kwi-inthanethi, leli windi lizofaka 
-okwengezwayo okuhle kakhulu futhi nokwaziwayo ukuze ukuzame.">
+<!ENTITY discover.description2                "Okwengezwayo mahlelo kisebenza akuvumela ukuba wenza kube ngokwakho i-&brandShortName; ngokwenzeka okungaphezulu noma isitayela. Zana umugqa oseceleni wokonga isikhathi, isazisi ngesimo sezulu, noma ukubuka ngendikimba ukuze wenze i-&brandShortName; kube ngeyakho.">
+<!ENTITY discover.footer                      "Uma uxhunyiwe kwi-inthanethi, leli windi lizofaka okwengezwayo okuhle kakhulu futhi nokwaziwayo ukuze ukuzame.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Inguqulo">
