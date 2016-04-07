@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "A naamniima &brandShortName; yoo seŋo 
-e kisal to <b>#1</b>, kono min mbaawaa teeŋtinde ceŋol maa ena hisi.">
+<!ENTITY certerror.introPara1 "A naamniima &brandShortName; yoo seŋo e kisal to <b>#1</b>, kono min mbaawaa teeŋtinde ceŋol maa ena hisi.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Hol Ko Pot-mi Waɗde?">
-<!ENTITY certerror.whatShouldIDo.content "So aɗa heewi seŋaade e 
-ndee lowre tawa alaa caɗeele, ndee juumre ena waawi firde won 
-etotooɗo ñemmbitaade lowre ndee, ngati a fotaani jokkude.">
+<!ENTITY certerror.whatShouldIDo.content "So aɗa heewi seŋaade e ndee lowre tawa alaa caɗeele, ndee juumre ena waawi firde won etotooɗo ñemmbitaade lowre ndee, ngati a fotaani jokkude.">
 <!ENTITY certerror.getMeOutOfHere.label "Yaltin-am ɗoo, a haalii bonnde!">
 
 <!ENTITY certerror.expert.heading "Miɗo Faami Nawaaje ɗee">
-<!ENTITY certerror.expert.content "So aɗa faami ko yahetee, aɗa 
-waawi wiyde &brandShortName; yoo fuɗɗo hoolaade innitol ndee lowre. 
-<b>Hay so aɗa hoolii lowre ndee, ndee juumre ena waawi firde wonde won 
-gonɗo e wujjitaade seŋol maa.</b>">
-<!ENTITY certerror.expert.contentPara2 "Hoto ɓeydu faltoore so wonaa 
-tawa aɗa anndi daliilu moƴƴo ena woodi ko haɗi ndee lowre huutoraade innitol koolangol.">
+<!ENTITY certerror.expert.content "So aɗa faami ko yahetee, aɗa waawi wiyde &brandShortName; yoo fuɗɗo hoolaade innitol ndee lowre. <b>Hay so aɗa hoolii lowre ndee, ndee juumre ena waawi firde wonde won gonɗo e wujjitaade seŋol maa.</b>">
+<!ENTITY certerror.expert.contentPara2 "Hoto ɓeydu faltoore so wonaa tawa aɗa anndi daliilu moƴƴo ena woodi ko haɗi ndee lowre huutoraade innitol koolangol.">
 <!ENTITY certerror.addTemporaryException.label "Yillo lowre">
 <!ENTITY certerror.addPermanentException.label "Ɓeydu paltol badaa">
 

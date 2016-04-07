@@ -574,12 +574,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Keɓe curaaɗe momtaama">
 <!ENTITY private_data_fail "Won e keɓe cuuriiɗe ɗe keɓaani momteede">
 
-<!ENTITY bookmarkhistory_import_both "Nana jiggoo maantore e aslol 
-iwde e Androis">
-<!ENTITY bookmarkhistory_import_bookmarks "Nana jiggoo maantore 
-iwde e Android">
-<!ENTITY bookmarkhistory_import_history "Nana jiggoo aslol 
-iwde e Android">
+<!ENTITY bookmarkhistory_import_both "Nana jiggoo maantore e aslol iwde e Androis">
+<!ENTITY bookmarkhistory_import_bookmarks "Nana jiggoo maantore iwde e Android">
+<!ENTITY bookmarkhistory_import_history "Nana jiggoo aslol iwde e Android">
 <!ENTITY bookmarkhistory_import_wait "Tiiɗno sabbo...">
 
 <!ENTITY suggestions_prompt3 "Aɗa yiɗi hurminde basiye njiilaw?">
