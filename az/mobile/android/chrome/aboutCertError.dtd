@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "&brandShortName; tətbiqindən təhlükəsiz şəkildə <b>#1</b> 
-ünvanına qoşulmasını istədiniz, amma bağlantınızın qorumalı olduğunu təsdiqləyə bilmirik.">
+<!ENTITY certerror.introPara1 "&brandShortName; tətbiqindən təhlükəsiz şəkildə <b>#1</b> ünvanına qoşulmasını istədiniz, amma bağlantınızın qorumalı olduğunu təsdiqləyə bilmirik.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Nə etməliyəm?">
-<!ENTITY certerror.whatShouldIDo.content "Adətən bu sayta heç bir problem 
-olmadan bağlana bilirdinizsə, bu dəfə başqa bir nəfər bu saytın adından 
-istifadə etmiş ola bilər, qısacası davam etməməlisiniz.">
+<!ENTITY certerror.whatShouldIDo.content "Adətən bu sayta heç bir problem olmadan bağlana bilirdinizsə, bu dəfə başqa bir nəfər bu saytın adından istifadə etmiş ola bilər, qısacası davam etməməlisiniz.">
 <!ENTITY certerror.getMeOutOfHere.label "Məni burdan xilas et!">
 
 <!ENTITY certerror.expert.heading "Təhlükəni anlayıram">
-<!ENTITY certerror.expert.content "Səbəbini bilirsizsə &brandShortName; səyyahına 
-bu saytın kimlik məlumatlarına etibar etməsini deyə bilərsiz. 
-<b>Sayta etibar etsəniz belə, bu xəta birisinin bağlantınızla 
-oynadığı mənasını verə bilər.</b>">
-<!ENTITY certerror.expert.contentPara2 "Bu sayta, etibar edilən bir kimlik məlumatı təqdim etməməsi 
-üçün vacib bir səbəb olmadığı müddətcə istisnalıq verməyin.">
+<!ENTITY certerror.expert.content "Səbəbini bilirsizsə &brandShortName; səyyahına bu saytın kimlik məlumatlarına etibar etməsini deyə bilərsiz. <b>Sayta etibar etsəniz belə, bu xəta birisinin bağlantınızla oynadığı mənasını verə bilər.</b>">
+<!ENTITY certerror.expert.contentPara2 "Bu sayta, etibar edilən bir kimlik məlumatı təqdim etməməsi üçün vacib bir səbəb olmadığı müddətcə istisnalıq verməyin.">
 <!ENTITY certerror.addTemporaryException.label "Saytı ziyarət et">
 <!ENTITY certerror.addPermanentException.label "Qalıcı istisna əlavə et">
 
