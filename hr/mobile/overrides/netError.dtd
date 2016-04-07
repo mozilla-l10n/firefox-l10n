@@ -19,24 +19,10 @@
 <!ENTITY dnsNotFound.title "Poslužitelj nije pronađen">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Provjerite adresu za greške u tipkanju kao što su 
-<strong>ww</strong>.primjer.hr umjesto 
-<strong>www</strong>.primjer.hr</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Traži</button> 
-</div> 
-<li>Ukoliko ne možete učitati niti jednu stranicu, provjerite podatkovnu ili Wi-Fi vezu vašeg uređaja. 
-<button id='wifi'>Omogući Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Provjerite adresu za greške u tipkanju kao što su <strong>ww</strong>.primjer.hr umjesto <strong>www</strong>.primjer.hr</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Traži</button> </div> <li>Ukoliko ne možete učitati niti jednu stranicu, provjerite podatkovnu ili Wi-Fi vezu vašeg uređaja. <button id='wifi'>Omogući Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Provjerite velika i mala slova ili prisutnost ostalih tipfelera.</li> 
-<li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite velika i mala slova ili prisutnost ostalih tipfelera.</li> <li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">
 
 
 <!ENTITY generic.title "Ups.">
@@ -45,16 +31,7 @@
 <!ENTITY malformedURI.title "Adresa nije ispravna">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> 
-<li>Web adrese se obično pišu kao 
-<strong>http://www.primjer.hr/</strong></li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Traži</button> 
-</div> 
-<li>Provjerite da koristite kose crte nagnute naprijed (npr. 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Web adrese se obično pišu kao <strong>http://www.primjer.hr/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Traži</button> </div> <li>Provjerite da koristite kose crte nagnute naprijed (npr. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Veza je prekinuta">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -65,21 +42,13 @@
 <!ENTITY netOffline.title "Izvanmrežni rad">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>Pokušajte ponovno. &brandShortName; će pokušati otvoriti vezu i ponovno učitati stranicu. 
-<button id='wifi'>Omogući Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Pokušajte ponovno. &brandShortName; će pokušati otvoriti vezu i ponovno učitati stranicu. <button id='wifi'>Omogući Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Greška kodiranja sadržaja">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Nesigurni tip datoteke">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li> </ul>">
 
 <!ENTITY netReset.title "Veza je prekinuta">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -88,62 +57,31 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nije prepoznata">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Možda trebate instalirati drugi program za otvaranje ove adrese.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Možda trebate instalirati drugi program za otvaranje ove adrese.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy poslužitelj odbija veze">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Provjerite proxy postavke i potvrdite da su ispravne.</li> 
-<li>Kako biste provjerili radi li proxy poslužitelj, kontaktirajte svojeg mrežnog 
-administratora.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Provjerite proxy postavke i potvrdite da su ispravne.</li> <li>Kako biste provjerili radi li proxy poslužitelj, kontaktirajte svojeg mrežnog administratora.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy poslužitelj nije pronađen">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>Provjerite proxy postavke i potvrdite da su ispravne.</li> 
-<li>Provjerite radi li podatkovna ili Wi-Fi veza vašeg uređaja. 
-<button id='wifi'>Omogući Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Provjerite proxy postavke i potvrdite da su ispravne.</li> <li>Provjerite radi li podatkovna ili Wi-Fi veza vašeg uređaja. <button id='wifi'>Omogući Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Stranica ne preusmjerava ispravno">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Ovaj problem ponekad može biti uzrokovan onemogućavanjem ili odbijanjem prihvaćanja 
-kolačića.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Ovaj problem ponekad može biti uzrokovan onemogućavanjem ili odbijanjem prihvaćanja kolačića.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Neočekivani odgovor od poslužitelja">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Provjerite je li na vašem računalu instaliran Personal Security Manager 
-</li> 
-<li>Ovo može biti uzrokovano neuobičajenim postavkama na poslužitelju.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Provjerite je li na vašem računalu instaliran Personal Security Manager </li> <li>Ovo može biti uzrokovano neuobičajenim postavkama na poslužitelju.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Sigurna veza nije uspjela">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Stranicu kojoj pokušavate pristupiti nije moguće prikazati jer nije moguće provjeriti autentičnost primljenih podataka.</li> 
-<li>Kontaktirajte vlasnika web stranice i obavijestite ih o ovom problemu.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Stranicu kojoj pokušavate pristupiti nije moguće prikazati jer nije moguće provjeriti autentičnost primljenih podataka.</li> <li>Kontaktirajte vlasnika web stranice i obavijestite ih o ovom problemu.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Sigurna veza nije uspjela">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Ovo može biti uzrokovano postavkama na poslužitelju ili je moguće da 
-netko pokušava oponašati ovaj poslužitelj.</li> 
-<li>Ako ste se na ovaj poslužitelj u prošlosti bez problema spajali, moguće je da je greška 
-privremena, stoga možete pokušati ponovno kasnije.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ovo može biti uzrokovano postavkama na poslužitelju ili je moguće da netko pokušava oponašati ovaj poslužitelj.</li> <li>Ako ste se na ovaj poslužitelj u prošlosti bez problema spajali, moguće je da je greška privremena, stoga možete pokušati ponovno kasnije.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> 
-<li>Stranica je možda privremeno nedostupna ili preopterećena. Pokušajte ponovno malo kasnije.</li> 
-<li>Ukoliko ne možete učitati niti jednu stranicu, provjerite podatkovnu ili Wi-Fi vezu vašeg uređaja. 
-<button id='wifi'>Omogući Wi-Fi</button> 
-</li> 
-</ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>Stranica je možda privremeno nedostupna ili preopterećena. Pokušajte ponovno malo kasnije.</li> <li>Ukoliko ne možete učitati niti jednu stranicu, provjerite podatkovnu ili Wi-Fi vezu vašeg uređaja. <button id='wifi'>Omogući Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je zaustavio učitavanje ove stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
@@ -160,10 +98,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Ako koristite internet vezu kojoj ne vjerujete u potpunosti ili ako niste navikli na upozorenja na ovom poslužitelju, tada ne biste trebali dodati iznimku.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Ako koristite internet vezu kojoj ne vjerujete u potpunosti ili ako niste navikli na upozorenja na ovom poslužitelju, tada ne biste trebali dodati iznimku.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Udaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li></ul></p>">

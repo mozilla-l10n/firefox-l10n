@@ -624,12 +624,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Neki privatni podaci nisu mogli biti očišćeni">
 
 <!ENTITY bookmarkhistory_button_import "Uvoz">
-<!ENTITY bookmarkhistory_import_both "Uvoz zabilješki i povijesti 
-iz Androida">
-<!ENTITY bookmarkhistory_import_bookmarks "Uvoz zabilješki 
-iz Androida">
-<!ENTITY bookmarkhistory_import_history "Uvoz povijesti 
-iz Androida">
+<!ENTITY bookmarkhistory_import_both "Uvoz zabilješki i povijesti iz Androida">
+<!ENTITY bookmarkhistory_import_bookmarks "Uvoz zabilješki iz Androida">
+<!ENTITY bookmarkhistory_import_history "Uvoz povijesti iz Androida">
 <!ENTITY bookmarkhistory_import_wait "Pričekajte...">
 
 <!ENTITY suggestions_prompt3 "Želite li uključiti prijedloge pretraživanja?">
