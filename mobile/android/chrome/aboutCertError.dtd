@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "شما از &brandShortName; خواسته‌اید که 
-به صورت امن به <b>#1</b> متصل شود، ولی تأیید امنیت اتصال شما امکان‌پذیر نیست.">
+<!ENTITY certerror.introPara1 "شما از &brandShortName; خواسته‌اید که به صورت امن به <b>#1</b> متصل شود، ولی تأیید امنیت اتصال شما امکان‌پذیر نیست.">
 
 <!ENTITY certerror.whatShouldIDo.heading "چه باید کرد؟">
-<!ENTITY certerror.whatShouldIDo.content "اگر معمولاً بدون اشکال به این پایگاه 
-وصل می‌شوید، این پیغام خطا به معنی آن است که شخصی تلاش می‌کند هویت این پایگاه 
-را جعل کند، پس نباید به مرور این پایگاه ادامه دهید.">
+<!ENTITY certerror.whatShouldIDo.content "اگر معمولاً بدون اشکال به این پایگاه وصل می‌شوید، این پیغام خطا به معنی آن است که شخصی تلاش می‌کند هویت این پایگاه را جعل کند، پس نباید به مرور این پایگاه ادامه دهید.">
 <!ENTITY certerror.getMeOutOfHere.label "ترک این مکان!">
 
 <!ENTITY certerror.expert.heading "متوجه خطرات هستم">
-<!ENTITY certerror.expert.content "اگر متوجه هستید که چه اتفاقی افتاده است، 
-می‌توانید از &brandShortName; بخواهید که به هویت این پایگاه اطمینان کند. 
-<b>حتی اگر به این پایگاه اطمینان دارید، این پیغام خطا ممکن است به معنی آن باشد 
-که شخصی در حال مداخله در اتصال شما است.</b>">
-<!ENTITY certerror.expert.contentPara2 "هیچ استثنایی اضافه نکنید مگر اینکه
-واقعا می‌دانید که چرا این سایت از یک شناسایی معتبر استفاده نمی‌کند.">
+<!ENTITY certerror.expert.content "اگر متوجه هستید که چه اتفاقی افتاده است، می‌توانید از &brandShortName; بخواهید که به هویت این پایگاه اطمینان کند. <b>حتی اگر به این پایگاه اطمینان دارید، این پیغام خطا ممکن است به معنی آن باشد که شخصی در حال مداخله در اتصال شما است.</b>">
+<!ENTITY certerror.expert.contentPara2 "هیچ استثنایی اضافه نکنید مگر اینکهواقعا می‌دانید که چرا این سایت از یک شناسایی معتبر استفاده نمی‌کند.">
 <!ENTITY certerror.addTemporaryException.label "بازدید از وب‌گاه">
 <!ENTITY certerror.addPermanentException.label "افزودن استثناء دائمی">
 
