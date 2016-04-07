@@ -588,12 +588,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ব্যক্তিগত তথ্য আতৰোৱা হৈছে">
 <!ENTITY private_data_fail "কিছুমান ব্যক্তিগত তথ্য আতৰাব পৰা নগল">
 
-<!ENTITY bookmarkhistory_import_both "Android ৰ পৰা পত্ৰচিহ্ন আৰু ইতিহাস 
-আমদানি কৰা">
-<!ENTITY bookmarkhistory_import_bookmarks "Android ৰ পৰা পত্ৰচিহ্নসমূহ 
-আমদানি কৰা">
-<!ENTITY bookmarkhistory_import_history "Android ৰ পৰা ইতিহাস 
-আমদানি কৰা">
+<!ENTITY bookmarkhistory_import_both "Android ৰ পৰা পত্ৰচিহ্ন আৰু ইতিহাস আমদানি কৰা">
+<!ENTITY bookmarkhistory_import_bookmarks "Android ৰ পৰা পত্ৰচিহ্নসমূহ আমদানি কৰা">
+<!ENTITY bookmarkhistory_import_history "Android ৰ পৰা ইতিহাস আমদানি কৰা">
 <!ENTITY bookmarkhistory_import_wait "অনুগ্ৰহ কৰি অপেক্ষা কৰক...">
 
 <!ENTITY suggestions_prompt3 "আপুনি সন্ধান পৰামৰ্শ অন কৰিব খোজে নে?">
