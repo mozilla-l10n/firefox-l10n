@@ -19,33 +19,17 @@
 <!ENTITY deniedPortAccess.longDesc "Esta dirección está restringida">
 
 <!ENTITY dnsNotFound.title "No se encontró el servidor">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Verifica que la dirección ingresada no contenga errores como 
-<strong>ww</strong>.ejemplo.mx en lugar de 
-<strong>www</strong>.ejemplo.mx</li> 
-<li>Si no puedes ver ninguna página, comprueba tu conexión 
-a la red.</li> 
-<li>Si tu computadora o red están protegidos por un firewall o proxy, asegúrate 
-que &brandShortName; tiene permisos para acceder a la web.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Verifica que la dirección ingresada no contenga errores como <strong>ww</strong>.ejemplo.mx en lugar de <strong>www</strong>.ejemplo.mx</li> <li>Si no puedes ver ninguna página, comprueba tu conexión a la red.</li> <li>Si tu computadora o red están protegidos por un firewall o proxy, asegúrate que &brandShortName; tiene permisos para acceder a la web.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Archivo no encontrado">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Comprueba que el nombre del archivo no contenga errores.</li> 
-<li>Verifica si el archivo se borró, movió o renombró.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Comprueba que el nombre del archivo no contenga errores.</li> <li>Verifica si el archivo se borró, movió o renombró.</li> </ul>">
 
 
 <!ENTITY generic.title "¡Chin!">
 <!ENTITY generic.longDesc "<p>&brandShortName; no puede cargar esta página por algúna razón.</p>">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
-<!ENTITY malformedURI.longDesc "<ul>  
-<li>Las direcciones web se escriben usualmente como 
-<strong>http://www.example.com/</strong></li> 
-<li>Verifica que estás usando las diagonales correctas (i.e. 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc "<ul>  <li>Las direcciones web se escriben usualmente como <strong>http://www.example.com/</strong></li> <li>Verifica que estás usando las diagonales correctas (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "La conexión se interrumpió">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -54,19 +38,13 @@ que &brandShortName; tiene permisos para acceder a la web.</li>
 <!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en la caché de &brandShortName;.</p><ul><li>Como precaución de seguridad, &brandShortName; no solicita automáticamente documentos sensibles.</li><li>Haz clic en Intentar de nuevo para volver a solicitar el documento del sitio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin conexión">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Pulsa &quot;Intentar de nuevo&quot; para cambiar al modo con conexión y recargar la página.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Pulsa &quot;Intentar de nuevo&quot; para cambiar al modo con conexión y recargar la página.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Contacta a los propietarios del sitio web para informarles sobre este problema.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Contacta a los propietarios del sitio web para informarles sobre este problema.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Contacta a los propietarios del sitio web para informarles sobre este problema.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Contacta a los propietarios del sitio web para informarles sobre este problema.</li> </ul>">
 
 <!ENTITY netReset.title "La conexión se reinició">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -75,60 +53,27 @@ que &brandShortName; tiene permisos para acceder a la web.</li>
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "No se comprende la dirección">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Necesitas instalar otro programa para abrir esta dirección.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Necesitas instalar otro programa para abrir esta dirección.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando las conexiones">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Comprueba que la configuración del proxy sea correcta.</li> 
-<li>Comunícate con el administrador de la red para comprobar que 
-el servidor proxy está funcionando.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Comprueba que la configuración del proxy sea correcta.</li> <li>Comunícate con el administrador de la red para comprobar que el servidor proxy está funcionando.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Comprueba que la configuración del proxy esté correcta.</li> 
-<li>Comprueba que la conexión de red de tu computadora esté funcionando.</li> 
-<li>Si tu computadora o red están protegidos por un firewall o proxy, asegúrate 
-que &brandShortName; tiene permisos para acceder a la web.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Comprueba que la configuración del proxy esté correcta.</li> <li>Comprueba que la conexión de red de tu computadora esté funcionando.</li> <li>Si tu computadora o red están protegidos por un firewall o proxy, asegúrate que &brandShortName; tiene permisos para acceder a la web.</li> </ul>">
 
 <!ENTITY redirectLoop.title "La página no se está redireccionando apropiadamente">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Este problema puede estar pasando por haber deshabilitado 
-las cookies.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Este problema puede estar pasando por haber deshabilitado las cookies.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Respuesta inesperada del servidor">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Verifica que tu sistema tiene instalado el administrador de seguridad 
-personal.</li> 
-<li>Esto podría ser ocasionado por una configuración no estándar en el servidor.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Verifica que tu sistema tiene instalado el administrador de seguridad personal.</li> <li>Esto podría ser ocasionado por una configuración no estándar en el servidor.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Conexión segura fallida">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>La página que estás tratando de ver no se puede mostrar porque la autenticidad de los datos recibidos no pueden ser verificados.</li> 
-<li>Por favor contacta a los propietarios del sitio web para informarles de este problema.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>La página que estás tratando de ver no se puede mostrar porque la autenticidad de los datos recibidos no pueden ser verificados.</li> <li>Por favor contacta a los propietarios del sitio web para informarles de este problema.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Conexión segura fallida">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Esto podría ser un problema con la configuración del servidor o tal vez 
-alguien intentando hacerse pasar por éste.</li> 
-<li>Si te has conectado a este servidor anteriormente con éxito el error podría 
-ser temporal, intentalo más tarde.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Esto podría ser un problema con la configuración del servidor o tal vez alguien intentando hacerse pasar por éste.</li> <li>Si te has conectado a este servidor anteriormente con éxito el error podría ser temporal, intentalo más tarde.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> 
-<li>El sitio podría estar temporalmente fuera de servicio o muy ocupado. Intenta 
-nuevamente en un momento.</li> 
-<li>Si no puedes cargar ninguna página, verifica la conexión de red 
-de tu computadora.</li> 
-<li>Si la red o tu computadora están protegidas por un firewall o proxy, asegúrate 
-que &brandShortName; pueda acceder a internet.</li> 
-</ul>">
+<!ENTITY sharedLongDesc "<ul> <li>El sitio podría estar temporalmente fuera de servicio o muy ocupado. Intenta nuevamente en un momento.</li> <li>Si no puedes cargar ninguna página, verifica la conexión de red de tu computadora.</li> <li>Si la red o tu computadora están protegidas por un firewall o proxy, asegúrate que &brandShortName; pueda acceder a internet.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que se cargara esta página en esta forma por que tiene una política de seguridad de contenido que no lo permite.</p>">
@@ -146,10 +91,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>No deberías agregar una excepción si estás usando una conexión a Internet en la que no confías completamente o si no estás acostumbrado a ver una advertencia para este servidor.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>No deberías agregar una excepción si estás usando una conexión a Internet en la que no confías completamente o si no estás acostumbrado a ver una advertencia para este servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Informa errores de este tipo para ayudar a Mozilla a identificar y bloquear sitios maliciosos.">
 <!ENTITY errorReporting.learnMore "Aprender más…">
