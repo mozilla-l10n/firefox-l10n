@@ -215,8 +215,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "A Gecko platform adatainak megjelenítése">
-<!ENTITY options.showPlatformData.tooltip  "A JavaScript profilozó jelentései tartalmazni fogják a 
-Gecko platform szimbólumait is">
+<!ENTITY options.showPlatformData.tooltip  "A JavaScript profilozó jelentései tartalmazni fogják a Gecko platform szimbólumait is">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
