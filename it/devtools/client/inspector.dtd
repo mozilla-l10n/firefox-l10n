@@ -47,3 +47,5 @@
 <!ENTITY inspectorCollapseNode.label "Contrai">
 <!ENTITY inspectorScreenshotNode.label "Salva una schermata del nodo">
 <!ENTITY inspectorDuplicateNode.label "Duplica nodo">
+<!ENTITY inspectorAddNode.label "Crea nuovo nodo">
+<!ENTITY inspectorAddNode.accesskey "C">
