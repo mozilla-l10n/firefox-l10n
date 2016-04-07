@@ -613,12 +613,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "No s\u0027han pogut netejar algunes dades privades">
 
 <!ENTITY bookmarkhistory_button_import "Importa">
-<!ENTITY bookmarkhistory_import_both "S\u0027estan important les adreces d\u0027interès i historial 
-de l\u0027Android">
-<!ENTITY bookmarkhistory_import_bookmarks "S\u0027estan important les adreces d\u0027interès 
-de l\u0027Android">
-<!ENTITY bookmarkhistory_import_history "S\u0027està important l\u0027historial 
-de l\u0027Android">
+<!ENTITY bookmarkhistory_import_both "S\u0027estan important les adreces d\u0027interès i historial de l\u0027Android">
+<!ENTITY bookmarkhistory_import_bookmarks "S\u0027estan important les adreces d\u0027interès de l\u0027Android">
+<!ENTITY bookmarkhistory_import_history "S\u0027està important l\u0027historial de l\u0027Android">
 <!ENTITY bookmarkhistory_import_wait "Espereu…">
 
 <!ENTITY suggestions_prompt3 "Voleu activar els suggeriments de cerca?">
