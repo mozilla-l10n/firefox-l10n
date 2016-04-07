@@ -44,6 +44,8 @@ values from browser.dtd.  -->
   -  the button to force the popups/panels to stay visible on blur.
   -  This is only visible in the browser toolbox as it is meant for
   -  addon developers and Firefox contributors. -->
+
+<!ENTITY toolboxNoAutoHideTooltip      "Awtomatiske chowanje wuskokujucych woknow znjemóžniś">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
@@ -66,6 +68,8 @@ values from browser.dtd.  -->
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 
+<!ENTITY options.collapseAttrs.label "DOM-atributy wótrězaś">
+<!ENTITY options.collapseAttrs.tooltip "Dłujke atributy w Inspektorje wótrězaś">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -211,8 +215,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Platformowe daty Gecko pokazaś">
-<!ENTITY options.showPlatformData.tooltip  "Jolic zmóžnijośo toś to nastajenje, budu rozpšawy JavaScriptoweje analyzy 
-běžnego casa platformowe symbole Gecko wopśimowaś">
+<!ENTITY options.showPlatformData.tooltip  "Jolic zmóžnijośo toś to nastajenje, budu rozpšawy JavaScriptoweje analyzy běžnego casa platformowe symbole Gecko wopśimowaś">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
