@@ -628,12 +628,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "ບໍ່ສາມາດລ້າງບາງຂໍ້ມູນສ່ວນໂຕໄດ້">
 
 <!ENTITY bookmarkhistory_button_import "ນຳເຂົ້າ">
-<!ENTITY bookmarkhistory_import_both "ການນຳເຂົ້າບຸກມາກ ແລະ ປະຫວັດ 
-ຈາກ Android">
-<!ENTITY bookmarkhistory_import_bookmarks "ການນຳເຂົ້າບຸກມາກ 
-ຈາກ Android ">
-<!ENTITY bookmarkhistory_import_history "ການນຳເຂົ້າປະຫວັດ 
-ຈາກ Android ">
+<!ENTITY bookmarkhistory_import_both "ການນຳເຂົ້າບຸກມາກ ແລະ ປະຫວັດ ຈາກ Android">
+<!ENTITY bookmarkhistory_import_bookmarks "ການນຳເຂົ້າບຸກມາກ ຈາກ Android ">
+<!ENTITY bookmarkhistory_import_history "ການນຳເຂົ້າປະຫວັດ ຈາກ Android ">
 <!ENTITY bookmarkhistory_import_wait "ກະລູນາລໍຖ້າ...">
 
 <!ENTITY suggestions_prompt3 "ທ່ານຕ້ອງການເປີດໃຊ້ງານການແນະນຳຄຳຄົ້ນຫາຫລືບໍ່?">
