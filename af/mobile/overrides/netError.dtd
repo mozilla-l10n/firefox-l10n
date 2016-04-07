@@ -21,10 +21,7 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Lêer nie gevind nie">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Kontroleer die lêernaam vir bokas of onderkas of ander tikfoute.</li> 
-<li>Kontroleer of die lêer verskuif, hernoem of geskrap is.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Kontroleer die lêernaam vir bokas of onderkas of ander tikfoute.</li> <li>Kontroleer of die lêer verskuif, hernoem of geskrap is.</li> </ul>">
 
 
 <!ENTITY generic.title "Oeps.">
@@ -63,17 +60,10 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "Die bladsy herverwys nie behoorlik nie">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Hierdie probleem kan soms veroorsaak word deur koekies te deaktiveer of 
-te weier om koekies te aanvaar.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Hierdie probleem kan soms veroorsaak word deur koekies te deaktiveer of te weier om koekies te aanvaar.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Onverwagse respons vanaf bediener">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Kontroleer of die persoonlike sekuriteitbestuurder op u rekenaar 
-geïnstalleer is.</li> 
-<li>Dit kan wees vanweë 'n niestandaard-opstelling op die bediener.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Kontroleer of die persoonlike sekuriteitbestuurder op u rekenaar geïnstalleer is.</li> <li>Dit kan wees vanweë 'n niestandaard-opstelling op die bediener.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Kon nie beveilig koppel nie">
 
@@ -97,10 +87,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Jy moenie 'n uitsondering byvoeg as jy 'n internetverbinding gebruik wat jy nie volledig vertrou nie, of as jy nie gewoonlik 'n waarskuwing vir hierdie bediener sien nie.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Jy moenie 'n uitsondering byvoeg as jy 'n internetverbinding gebruik wat jy nie volledig vertrou nie, of as jy nie gewoonlik 'n waarskuwing vir hierdie bediener sien nie.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Afgeleë XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig.</li></ul></p>">
