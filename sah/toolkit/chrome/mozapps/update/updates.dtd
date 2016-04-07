@@ -20,9 +20,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName; тиһэх барылын куруук мантан хачайданыаххын сөп:">
 
 <!ENTITY  unsupported.title               "Тиһилик (систиэмэ) өйөөбөт">
-<!ENTITY  unsupported.label               "&brandShortName; эргэрбит, ол гынан баран кэнники барыл 
-Эн систиэмэҥ өйөөбөт эбит. Бука диэн систиэмэҕин саҥардан биэр, уонна хатылаа 
-Бу биллэриини хос көрүөҥ суоҕа, ол эрэн бу туһунан ">
+<!ENTITY  unsupported.label               "&brandShortName; эргэрбит, ол гынан баран кэнники барыл Эн систиэмэҥ өйөөбөт эбит. Бука диэн систиэмэҕин саҥардан биэр, уонна хатылаа Бу биллэриини хос көрүөҥ суоҕа, ол эрэн бу туһунан ">
 <!ENTITY  unsupportedLink.label           "эбии билиэххин сөп.">
 
 <!ENTITY  incompatibleCheck.title         "Эбиискэ сөп түбэһиитин тургутуу">
@@ -32,8 +30,7 @@
 
 <!ENTITY  evangelism.desc                 "Бу саҥардыыны төһө кыалларынан түргэнник &brandShortName;-ка туһанарыҥ буоллар.">
 
-<!ENTITY  license.instructions            "Лиссиэнсийэ усулуобуйатын кытта сөбүлэһэр буоллаххына 
-саҥардыыны туруорарга «Сөбүлэһэбин» диэни баттаа.">
+<!ENTITY  license.instructions            "Лиссиэнсийэ усулуобуйатын кытта сөбүлэһэр буоллаххына саҥардыыны туруорарга «Сөбүлэһэбин» диэни баттаа.">
 
 <!ENTITY  license.titleText               "Лиссиэнсийэ сөбүлэҥэ">
 <!ENTITY  license.introText               "Бу бырагыраамманы туһаныы быраабылата уонна усулуобуйалара.">
@@ -48,9 +45,7 @@
 <!ENTITY  downloadPage.title              "Хачайдаан ылыы - &brandShortName;">
 <!ENTITY  downloading.intro               "Саҥардыы хачайдана турар...">
 <!ENTITY  connecting.label                "Саҥардыы сиэрбэрин кытта ситимнэһии...">
-<!ENTITY  verificationFailedText.label    "Хачайдаммыт саҥардыы чөллөркөйүн &brandShortName; 
-кыайан быһаарбата, онон толору саҥардыыны 
-хачайдаан эрэр.">
+<!ENTITY  verificationFailedText.label    "Хачайдаммыт саҥардыы чөллөркөйүн &brandShortName; кыайан быһаарбата, онон толору саҥардыыны хачайдаан эрэр.">
 
 <!ENTITY  viewDetails.tooltip             "Саҥардыы туһунан сиһилии">
 
@@ -58,32 +53,23 @@
 
 <!ENTITY  error.title                     "Саҥардыы сатаммата">
 
-<!ENTITY  error.label                     "Бу саҥардыыны тургутууга, хачайдаан ылыыга эбэтэр туруорууга 
-туох эрэ моһол үөскээтэ. &brandShortName; саҥардыллыбатах төрүөтэ:">
+<!ENTITY  error.label                     "Бу саҥардыыны тургутууга, хачайдаан ылыыга эбэтэр туруорууга туох эрэ моһол үөскээтэ. &brandShortName; саҥардыллыбатах төрүөтэ:">
                                            
-<!ENTITY  errorManual.label               "&brandShortName; кэнники саҥардыытын бэйэҥ 
- хачайдаан ылан туруоруоххун сөп:">
+<!ENTITY  errorManual.label               "&brandShortName; кэнники саҥардыытын бэйэҥ  хачайдаан ылан туруоруоххун сөп:">
                                            
-<!ENTITY  errorpatching.intro             "Саҥардыы сороҕо эрэ турар кыаҕа суох. 
-&brandShortName; толору саҥардыыны туруоран көрүө.">
+<!ENTITY  errorpatching.intro             "Саҥардыы сороҕо эрэ турар кыаҕа суох. &brandShortName; толору саҥардыыны туруоран көрүө.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; саҥардыы баарын-суоҕун кыайан быһаарбата. Бука диэн 
-көр, &brandShortName; тиһэх барыла мантан ылыллыбыт дуо:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Туохтан эрэ сылтаан &brandShortName; саҥардыллар кыаҕа суох. 
-Бука диэн көр, &brandShortName; тиһэх барыла мантан ылыллыбыт дуо:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Ким эрэ &brandShortName; албыннаан куттал суоһуон сөп саҥардыытын 
-уга сатыыр. Бука диэн провайдергын кытта ситимнэһэн көмөтө көрдөө.">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; саҥардыы баарын-суоҕун кыайан быһаарбата. Бука диэн көр, &brandShortName; тиһэх барыла мантан ылыллыбыт дуо:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Туохтан эрэ сылтаан &brandShortName; саҥардыллар кыаҕа суох. Бука диэн көр, &brandShortName; тиһэх барыла мантан ылыллыбыт дуо:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Ким эрэ &brandShortName; албыннаан куттал суоһуон сөп саҥардыытын уга сатыыр. Бука диэн провайдергын кытта ситимнэһэн көмөтө көрдөө.">
 
 <!ENTITY  finishedPage.title              "Саҥардыы туруорарга бэлэм">
-<!ENTITY  finishedPage.text               "Саҥардыы аныгыскы &brandShortName; хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин 
-&brandShortName; хос ыытыаххын сөп, эбэтэр салгыы үлэлээн баран кэлин инньэ гыныаххын сөп.">
+<!ENTITY  finishedPage.text               "Саҥардыы аныгыскы &brandShortName; хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин &brandShortName; хос ыытыаххын сөп, эбэтэр салгыы үлэлээн баран кэлин инньэ гыныаххын сөп.">
 
-<!ENTITY  finishedBackgroundPage.text     "&brandShortName; көмүскэлигэр уонна бигэ туруктаах буоларыгар 
-аналлаах саҥардыы хачайданна уонна туруорарга бэлэм.">
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; көмүскэлигэр уонна бигэ туруктаах буоларыгар аналлаах саҥардыы хачайданна уонна туруорарга бэлэм.">
 <!ENTITY  finishedBackground.name         "Саҥардыы:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Саҥардыы аныгыскы &brandShortName; хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин 
- &brandShortName; хос ыытыаххын сөп, эбэтэр салгыы үлэлээн баран кэлин инньэ гыныаххын сөп.">
+<!ENTITY  finishedBackground.more         "Саҥардыы аныгыскы &brandShortName; хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин  &brandShortName; хос ыытыаххын сөп, эбэтэр салгыы үлэлээн баран кэлин инньэ гыныаххын сөп.">
 
 <!ENTITY  installed.title                 "Саҥардыы туруорулунна">
 <!ENTITY  installed.intro                 "Саҥардыы сөпкө туруорулунна.">
