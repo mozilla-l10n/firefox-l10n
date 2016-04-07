@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž wužywa njepłaśiwu abo njepódpěranu formu kompresije.</p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Njewěsty datajowy typ">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Pšosym stejśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Pšosym stejśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li> </ul>">
 
 <!ENTITY netReset.title "Zwisk psétergnjony">
 <!ENTITY netReset.longDesc "<p>Seśowy wótkaz jo se pśetergnuł, gaž zwisk jo se wujadnawał. Pšosym wopytajśo hyšći raz.</p>">
@@ -67,14 +65,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž awtentiskosć dostanych datow njedajo se pśeglědaś.</p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li></ul>">
 
 <!ENTITY nssBadCert.title "Wěsty zwisk njemóžno">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>To by mógło problem z konfiguraciju serwera byś, abo by mógło byś, až něchten wopytujo serwer imitěrowaś.</li> 
-<li>Jolic sćo był ze serwerom w zachadnosći wuspěšnje zwězany, by mógła zmólka snaź nachylna byś a móžośo pózdźej hyšći raz wopytaś.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>To by mógło problem z konfiguraciju serwera byś, abo by mógło byś, až něchten wopytujo serwer imitěrowaś.</li> <li>Jolic sćo był ze serwerom w zachadnosći wuspěšnje zwězany, by mógła zmólka snaź nachylna byś a móžośo pózdźej hyšći raz wopytaś.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Abo móžośo wuwześe pśidaś…">
-<!ENTITY securityOverride.warningContent "<p>Wy njeby měl wuwześe pśidaś, jolic wužywaśo internetny zwisk, kótaremuž dopołnje njedowěriśo abo jolic zwětšego njewiźiśo warnowanje za toś ten serwer.</p>
- <p>Jolic cośo hyšći wuwześe za toś to sedło pśidaś, móžośo to w swójich rozšyrjonych koděrowańskich nastajenjach cyniś.</p>">
+<!ENTITY securityOverride.warningContent "<p>Wy njeby měl wuwześe pśidaś, jolic wužywaśo internetny zwisk, kótaremuž dopołnje njedowěriśo abo jolic zwětšego njewiźiśo warnowanje za toś ten serwer.</p> <p>Jolic cośo hyšći wuwześe za toś to sedło pśidaś, móžośo to w swójich rozšyrjonych koděrowańskich nastajenjach cyniś.</p>">
 
 <!ENTITY cspBlocked.title "Pśez wěstotne pšawidła za wopśimjeśe zablokěrowany">
 <!ENTITY cspBlocked.longDesc "<p>Wobglědowak jo zacytowanjoju toś togo boka na toś ten nałog zajźował, dokulaž bok ma wěstotne pšawidła za wopśimjeśe, kótarež to njedowóluju.</p>">
