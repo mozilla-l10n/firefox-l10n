@@ -122,6 +122,7 @@
 <!ENTITY pref_category_advanced "Zaawansowane">
 <!ENTITY pref_category_advanced_summary2 "Przywracanie kart, wtyczki, narzędzia dla programistów">
 <!ENTITY pref_category_notifications "Powiadomienia">
+<!ENTITY pref_category_notifications_summary "Powiadomienia ze stron i o nowych funkcjach">
 <!ENTITY pref_content_notifications "Powiadomienia ze stron">
 <!ENTITY pref_content_notifications_summary2 "Umożliwia obsługiwanym stronom wyświetlanie powiadomień">
 <!ENTITY pref_developer_remotedebugging_usb "Zdalne debugowanie przez USB">
