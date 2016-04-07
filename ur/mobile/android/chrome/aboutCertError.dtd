@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "آپ نے &brandShortName; کو حفاظت سے <b>#1</b> 
-کے ساتھ جڑنے کو کہا ہے، لیکن ہمیں یقین نہیں ہے کہ آپ کا کنکشن محفوظ ہے۔">
+<!ENTITY certerror.introPara1 "آپ نے &brandShortName; کو حفاظت سے <b>#1</b> کے ساتھ جڑنے کو کہا ہے، لیکن ہمیں یقین نہیں ہے کہ آپ کا کنکشن محفوظ ہے۔">
 
 <!ENTITY certerror.whatShouldIDo.heading "مجھے کیا کرنا چاہیے؟">
-<!ENTITY certerror.whatShouldIDo.content "اگر آپ عام طور پر بغیر مسائل کہ اس سائٹ 
-سے جڑتے ہیں، تو اس نقص کا یہ مطلب ہو سکتا ہے کہ کوئی 
-سائٹ کا روپ لینے کی کوشش کر رہا ہے اور آپ کو آگے نہیں جانا چاہیے۔">
+<!ENTITY certerror.whatShouldIDo.content "اگر آپ عام طور پر بغیر مسائل کہ اس سائٹ سے جڑتے ہیں، تو اس نقص کا یہ مطلب ہو سکتا ہے کہ کوئی سائٹ کا روپ لینے کی کوشش کر رہا ہے اور آپ کو آگے نہیں جانا چاہیے۔">
 <!ENTITY certerror.getMeOutOfHere.label "مجھے یہاں سے نکالیں!">
 
 <!ENTITY certerror.expert.heading "میں خطرات کو سمجھنا ہوں">
-<!ENTITY certerror.expert.content "اگر آپ کو سمجھ آ رہی ہے کہ کیا ہو رہا ہے، تو آپ 
-&brandShortName; کو اس سائٹ کی شناخت پر بھروسا کرنا شروع کرنے کے لیے کہ سکتے ہیں 
-<b>آپ کے سائٹ پر بھروسا کرنے کے باوجود، اس نقص کا مطلب ہو سکتا ہے کہ کوئی 
-آپ کے کنکشن کو چھیڑ رہا ہے۔</b>">
-<!ENTITY certerror.expert.contentPara2 "استثنیٰ شامل نہ کریں جب تک کہ 
-آپ کے پاس کوئی اچھی دلیل ہو کہ یہ ویب سائٹ قابل اعتبارشناخت استعمال نہیں کرتی۔">
+<!ENTITY certerror.expert.content "اگر آپ کو سمجھ آ رہی ہے کہ کیا ہو رہا ہے، تو آپ &brandShortName; کو اس سائٹ کی شناخت پر بھروسا کرنا شروع کرنے کے لیے کہ سکتے ہیں <b>آپ کے سائٹ پر بھروسا کرنے کے باوجود، اس نقص کا مطلب ہو سکتا ہے کہ کوئی آپ کے کنکشن کو چھیڑ رہا ہے۔</b>">
+<!ENTITY certerror.expert.contentPara2 "استثنیٰ شامل نہ کریں جب تک کہ آپ کے پاس کوئی اچھی دلیل ہو کہ یہ ویب سائٹ قابل اعتبارشناخت استعمال نہیں کرتی۔">
 <!ENTITY certerror.addTemporaryException.label "مصاحبہ سائٹ">
 <!ENTITY certerror.addPermanentException.label "مستقل استثنیٰ شامل کریں">
 
