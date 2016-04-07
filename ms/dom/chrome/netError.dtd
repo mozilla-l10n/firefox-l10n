@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Laman yang anda cuba lihat tidak dapat dipaparkan kerana ia menggunakan bentuk pemampatan yang tidak sah atau tidak disokong.</p><ul><li>Sila hubungi pemilik laman untuk memaklumkan masalah ini.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Jenis Fail yang Tidak Selamat">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li> </ul>">
 
 <!ENTITY netReset.title "Sambungan Terganggu">
 <!ENTITY netReset.longDesc "<p>Talian rangkaian terganggu ketika perundingan rangkaian. Sila cuba lagi.</p>">
@@ -67,10 +65,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Laman yang anda sedang lihat tidak dapat ditunjuk kerana data penerima adalah tidak sah</p><ul><li>Sila menghubungi pemilik laman web tentang masalah ini.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sambungan yang selamat gagal">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Ini kemungkinan masalah pada konfigurasi server, atau mungkin seseorang cuba menyamar server tersebut</li> 
-<li>Jikalau anda berjaya bersambung dengan server dahulu, kesalahan ini mungkin berlaku seketika, anda boleh cuba semula nanti.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ini kemungkinan masalah pada konfigurasi server, atau mungkin seseorang cuba menyamar server tersebut</li> <li>Jikalau anda berjaya bersambung dengan server dahulu, kesalahan ini mungkin berlaku seketika, anda boleh cuba semula nanti.</li> </ul>">
 
 
 
