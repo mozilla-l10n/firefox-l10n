@@ -121,11 +121,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Ebigattibwako bye biki?">
-<!ENTITY discover.description2                "Obugatibwako bwe bu pulogulaamu obukusobozesa okufula  &brandShortName; 
- nga bwogyagala nokufuna enkola nendabika eyenjawulo. Gezako akabawo kebali, akalanga obudde, oba endabika eyenjawulo okufula  &brandShortName; 
-eyiyo.">
-<!ENTITY discover.footer                      "Bwonoba oyungidwa ku mukutu gwensi yona, ekitundu kino kijjakulaga 
-obumuku ku bugattibwako obusinga obulungi nokumanyika osoobole obugezako.">
+<!ENTITY discover.description2                "Obugatibwako bwe bu pulogulaamu obukusobozesa okufula  &brandShortName;  nga bwogyagala nokufuna enkola nendabika eyenjawulo. Gezako akabawo kebali, akalanga obudde, oba endabika eyenjawulo okufula  &brandShortName; eyiyo.">
+<!ENTITY discover.footer                      "Bwonoba oyungidwa ku mukutu gwensi yona, ekitundu kino kijjakulaga obumuku ku bugattibwako obusinga obulungi nokumanyika osoobole obugezako.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Enkola">

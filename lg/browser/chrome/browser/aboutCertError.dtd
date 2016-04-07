@@ -16,12 +16,8 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.expert.content "Bwoba nga otegeera ekigenda mu maaso, oyinza 
-okutegeeza &brandShortName; okutandika okwesiga obubonero bw'ekibanja kino. 
-<b>Ne bwe wesiga ekibanja, ensobi eno esobola okutegeeza nti waliwo 
-ataataaganya okuyungibwa kwo.</b>">
-<!ENTITY certerror.expert.contentPara2 "Toteekako nkizo okuggyako ng'omanyi nti waliwo ensonga
- lwaki ekibanja kino tekikozesa bubonero bwesigika.">
+<!ENTITY certerror.expert.content "Bwoba nga otegeera ekigenda mu maaso, oyinza okutegeeza &brandShortName; okutandika okwesiga obubonero bw'ekibanja kino. <b>Ne bwe wesiga ekibanja, ensobi eno esobola okutegeeza nti waliwo ataataaganya okuyungibwa kwo.</b>">
+<!ENTITY certerror.expert.contentPara2 "Toteekako nkizo okuggyako ng'omanyi nti waliwo ensonga lwaki ekibanja kino tekikozesa bubonero bwesigika.">
 <!ENTITY certerror.addException.label "Gattako Okujjako…">
 
 

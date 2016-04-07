@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Omuko gw'ogezaako okulaba tegusobola kulagibwa kubanga gukozesa ennyiga yo lugo etewagiddwa oba tekkirizidwa.</p><ul><li>Bambi tegeeza bannannyini mukutu gw'ekyapa obabuulire obuzibu buno.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Ekika kya'Fayiro Ekyomutawaana">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> </ul>">
 
 <!ENTITY netReset.title "Okunnyungibwa Kutaataaganyiziddwa">
 <!ENTITY netReset.longDesc "<p>Empuliziganya egatta etaataaganyiziddwa ng'ogezaako okuyunga. Ddamu ogezeeko nate.</p>">
@@ -67,10 +65,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Omuko gw'ogezaako okulaba teguyinza kulabibwa, kubanga ensibuko y'ebiwandiiko tesoobola kukakasibbwa .</p><ul><li>Bambi tukirira bananyini kibanja kino okubategeeza ku kizibu kino.</li></ul>">
 
 <!ENTITY nssBadCert.title "Okunnyungibwa Okwesigika Kugaanye">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Kino kiyinza okubeera ekizibu okuva ku ntegeka ya kompyuta engabizi, oba kifananamu omuntu agezaako okukweka obukozesa bwe eri engabizi.</li> 
-<li>Bwoba oyungiddwa bulungi ku kompyuta eno enkulu gyebuvudeko, ensobi eyinza okuba nga ssi yalubeelera, era oyinza okudamu noogezako oluvannyuma.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Kino kiyinza okubeera ekizibu okuva ku ntegeka ya kompyuta engabizi, oba kifananamu omuntu agezaako okukweka obukozesa bwe eri engabizi.</li> <li>Bwoba oyungiddwa bulungi ku kompyuta eno enkulu gyebuvudeko, ensobi eyinza okuba nga ssi yalubeelera, era oyinza okudamu noogezako oluvannyuma.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Oba oyinza okugattako ekyensuso…">
 

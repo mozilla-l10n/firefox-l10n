@@ -19,33 +19,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Engabizi tezuulidddwa">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Kebera endagiriro ku nsobi ezikoleddwa mu kuwandiika nga 
-<strong>ww</strong>.ekyokulabirako.com mu kifo kya 
-<strong>www</strong>.ekyokulabirako.com</li> 
-<li>Bw'oba tosobala kuyingiza egyimu ku miko gyonna, kebera ku mpuliriziganya ya kompyuta yo 
-Enyungibwa</li> 
-<li>Kompyuta yo oba empuliziganyayo bw'eba ekuumiddwa firewall oba omubaka, kakasa 
-nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Kebera endagiriro ku nsobi ezikoleddwa mu kuwandiika nga <strong>ww</strong>.ekyokulabirako.com mu kifo kya <strong>www</strong>.ekyokulabirako.com</li> <li>Bw'oba tosobala kuyingiza egyimu ku miko gyonna, kebera ku mpuliriziganya ya kompyuta yo Enyungibwa</li> <li>Kompyuta yo oba empuliziganyayo bw'eba ekuumiddwa firewall oba omubaka, kakasa nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Enteresi ebuze">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Kebera erinnya ly'enteresi oba liri mu nnukuta nnene oba lyasobeddwa mukuliwandiika.</li> 
-<li>Kebera olabe oba enteresi yagyibwawo, oba ya kyusibbwa erinnya oba nga lyasanguddwa.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Kebera erinnya ly'enteresi oba liri mu nnukuta nnene oba lyasobeddwa mukuliwandiika.</li> <li>Kebera olabe oba enteresi yagyibwawo, oba ya kyusibbwa erinnya oba nga lyasanguddwa.</li> </ul>">
 
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName; terisobola kutikka muko guno olw'ensonga ezimu.</p>">
 
 <!ENTITY malformedURI.title "Endagiriro tetukana">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Endagiriro ze`ntimbe zitera okuwandikibwa nga 
-<strong>http://www.example.com/</strong></li> 
-<li>Ffuba okulaba nti okozesa obusale bw`omumaaso (i.e. 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Endagiriro ze`ntimbe zitera okuwandikibwa nga <strong>http://www.example.com/</strong></li> <li>Ffuba okulaba nti okozesa obusale bw`omumaaso (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Okuyungibwa kwataataaganyizibbwa">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -57,14 +41,10 @@ nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li>
 
 
 <!ENTITY contentEncodingError.title "Ensobi mu kulongoosa Ebirimu">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Ekika kya'Fayiro Ekyomutawaana">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> </ul>">
 
 <!ENTITY netReset.title "Okuyungibwa kwaddiddwamu okuteekebwa natte">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -73,56 +53,27 @@ nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li>
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Endagiriro teyategeerekese">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Oyinza okwetaaga okuteekamu pulogulamu za kompyuta endala okuggulawo endagiriro eno.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Oyinza okwetaaga okuteekamu pulogulamu za kompyuta endala okuggulawo endagiriro eno.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Kompyuta enfuga zinayo egaanyi obuyunzi">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Kebera entegeka eyokumpi okukakassa nti bituufu.</li> 
-<li>Tegeeza kalabaalaba wempulizigannya yo okakase nti enviisirizi enfuzi kweri 
- ekola.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kebera entegeka eyokumpi okukakassa nti bituufu.</li> <li>Tegeeza kalabaalaba wempulizigannya yo okakase nti enviisirizi enfuzi kweri  ekola.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Tesobodde kuzuula kompyuta effuga zinayo">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Kebera enkola ye`ntegekka okulaba nti ntuufu.</li> 
-<li>Kebera okukakasa nti kompyuuta yo eyungiddwa ku mukutu ogukola.</li> 
-<li>Kompyuuta yo oba empulisiganya bweba nga ekumiddwa abasirikale bapulogulamu oba enkola, ffuba okulaba nti &brandShortName; ekirizibwa okukozesa omukutu.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kebera enkola ye`ntegekka okulaba nti ntuufu.</li> <li>Kebera okukakasa nti kompyuuta yo eyungiddwa ku mukutu ogukola.</li> <li>Kompyuuta yo oba empulisiganya bweba nga ekumiddwa abasirikale bapulogulamu oba enkola, ffuba okulaba nti &brandShortName; ekirizibwa okukozesa omukutu.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Omuko guno tegulagirira bulungi">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Obuzibu buno oluusi busobola okuleetebwa okulemesa oba okugaana okukiriza 
- kuki.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Obuzibu buno oluusi busobola okuleetebwa okulemesa oba okugaana okukiriza  kuki.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Engabirizi ezemu nga tekissubirwa">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Kebera okakase ng'omuyungiro gwo gulina obukuumi Obwannannyini 
- obwateekebwako.</li> 
-<li>kino kiyinza okuba nga kiva ku ntegeka etari nnuŋŋamu okuva ku kompyuta enfuzi.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Kebera okakase ng'omuyungiro gwo gulina obukuumi Obwannannyini  obwateekebwako.</li> <li>kino kiyinza okuba nga kiva ku ntegeka etari nnuŋŋamu okuva ku kompyuta enfuzi.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Obuyunzi okwesigika kugaanye">
 
 
 <!ENTITY nssBadCert.title "Okuyungibwa Okweigibwa kugaanye">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Kino kisobola okuba ekizibu ekivudde ku nteekateeka ya enviisirizi kagaba, oba kisobola okuba 
-nga waliwo agezaako okwefuula kagaba.</li> 
-<li>Bwoba ng'oyungiddwa ku ngabizi bulungi emabegako, ensobi 
-eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osobola okuddamu okugezaako oluvannyuma.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Kino kisobola okuba ekizibu ekivudde ku nteekateeka ya enviisirizi kagaba, oba kisobola okuba nga waliwo agezaako okwefuula kagaba.</li> <li>Bwoba ng'oyungiddwa ku ngabizi bulungi emabegako, ensobi eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osobola okuddamu okugezaako oluvannyuma.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> 
-<li>Omutimbo guyinza okumala akaseera nga teguliiko oba gwandiba nga gukozesebwa nnyo. Gezaako nate 
- mu kaseera akomumaaso.</li> 
-<li>Bw'obeera olemeddwa okuttikka entimbe, kebera kenkwasaganya 
- yo'mukutu ku Kompyuta yo.</li> 
-<li>Bw'eba nga kompyuta yo oba empuliziganya ekumiddwa fgguluggulu oba kompyuta enkozi poxi, gezaako okulaba 
- nti &brandShortName; ekkirizibwa okweyambisa omutimbagano.</li> 
- </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Omutimbo guyinza okumala akaseera nga teguliiko oba gwandiba nga gukozesebwa nnyo. Gezaako nate  mu kaseera akomumaaso.</li> <li>Bw'obeera olemeddwa okuttikka entimbe, kebera kenkwasaganya  yo'mukutu ku Kompyuta yo.</li> <li>Bw'eba nga kompyuta yo oba empuliziganya ekumiddwa fgguluggulu oba kompyuta enkozi poxi, gezaako okulaba  nti &brandShortName; ekkirizibwa okweyambisa omutimbagano.</li>  </ul>">
 
 <!ENTITY cspBlocked.title "Kiziyiziddwa Eteka Elifuga  Ebyokwerinda Ebyomunda">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; eziyiza omuko guno okutika mungeri eno kubanga omuko guno gulina amateka agafuga ebyokwerinda byomunda elitagikiriza.</p>">
@@ -140,10 +91,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Tokiriza bitakeberwa oba oli ku mukutu gwo tesiga oba nga tomanyidde kulaba okuwabulwa ku sava eno.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Tokiriza bitakeberwa oba oli ku mukutu gwo tesiga oba nga tomanyidde kulaba okuwabulwa ku sava eno.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 
 

@@ -5,9 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Ebikwata ku kugonjoola obuzibu">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Omuko gunno gulina ebiwandiko ebyo'omugaso byo yinza okwetaga bwoba 
-ogezako okujjawo obuzibu obuguddwo. Bwoba ononoonya ebyokudamu eri emitaawana 
-ejjabulijo ku &brandShortName;, keberako ku <a id='supportLink'>muko ogwo'obuyambi</a>.">
+<!ENTITY aboutSupport.pageSubtitle "  Omuko gunno gulina ebiwandiko ebyo'omugaso byo yinza okwetaga bwoba ogezako okujjawo obuzibu obuguddwo. Bwoba ononoonya ebyokudamu eri emitaawana ejjabulijo ku &brandShortName;, keberako ku <a id='supportLink'>muko ogwo'obuyambi</a>.">
 
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->

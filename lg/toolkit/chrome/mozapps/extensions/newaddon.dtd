@@ -3,12 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "Teekamu Ekigattibwako">
-<!ENTITY intro           "Plogulamu endala ku kompyuta yo eyagala okukyusa 
-&brandShortName; nekigatibwako kino:">
+<!ENTITY intro           "Plogulamu endala ku kompyuta yo eyagala okukyusa &brandShortName; nekigatibwako kino:">
 <!ENTITY warning         "Teekamu ebigattibwako ebiva mubawandisi bewesiga.">
 <!ENTITY allow           "Kiiriza okutekamu kuno">
-<!ENTITY later           "Osoobola okwekyusa esawa yoona no genda 
- nga ogenda ku manager we ebigatibwako.">
+<!ENTITY later           "Osoobola okwekyusa esawa yoona no genda  nga ogenda ku manager we ebigatibwako.">
 <!ENTITY continue        "Weyongereyo">
 <!ENTITY restartMessage  "Olina okutandika buto &brandShortName; okumaliriza  okutekamu ekigattibwako kino.">
 <!ENTITY restartButton   "Tandikka buto &brandShortName;">
