@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Nid oes modd dangos y dudalen hon am ei bod yn defnyddio ffurf o gywasgiad sy'n anhysbys neu sydd ddim yn cael ei gynnal o .</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Math Anniogel o Ffeil">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> </ul>">
 
 <!ENTITY netReset.title "Tarfu ar y Cyswllt">
 <!ENTITY netReset.longDesc "<p>Cafodd y cysylltiad rhwydwaith ei dorri wrth negydu cysylltiad. Ceisiwch eto.</p>">
@@ -67,14 +65,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen gan nad oes modd gwirio dilysrwydd y data derbyniwyd.</p><ul><li>Cysylltwch â pherchennog y wefan i'w hysbysu o'r anhawster.</li></ul>">
 
 <!ENTITY nssBadCert.title "Methodd Cysylltiad Diogel">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Gall hyn fod yn anhawster gyda ffurfweddiad y gweinydd, neu gall fod bod rhywun yn ceisio ffugio'r gweinydd.</li> 
-<li>Os ydych wedi cysylltu'n llwyddiannus a'r gweinydd yn y gorffennol, efallai mai gwall dros dro ydyw a gallwch geisio eto yn hwyrach.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Gall hyn fod yn anhawster gyda ffurfweddiad y gweinydd, neu gall fod bod rhywun yn ceisio ffugio'r gweinydd.</li> <li>Os ydych wedi cysylltu'n llwyddiannus a'r gweinydd yn y gorffennol, efallai mai gwall dros dro ydyw a gallwch geisio eto yn hwyrach.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Neu mae modd ychwanegu eithriad…">
-<!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried yn llwyr ynddo neu os nad ydych wedi arfer a gweld negeseuon rhybudd ar gyfer y gweinydd hwn.</p> 
-<p>Os ydych yn parhau i fod yn awyddus i ychwanegu eithriad i'r wefan, gallwch wneud hynny yng ngosodiadau uwch amgryptio.</p>">
+<!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried yn llwyr ynddo neu os nad ydych wedi arfer a gweld negeseuon rhybudd ar gyfer y gweinydd hwn.</p> <p>Os ydych yn parhau i fod yn awyddus i ychwanegu eithriad i'r wefan, gallwch wneud hynny yng ngosodiadau uwch amgryptio.</p>">
 
 <!ENTITY cspBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
 <!ENTITY cspBlocked.longDesc "<p>Mae'r porwr wedi atal y dudalen rhag cael ei llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
