@@ -20,17 +20,10 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "Saznajte više…">
 <!ENTITY certerror.advanced.label "Napredno">
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ova stranica koristi HTTP 
-Strict Transport Security (HSTS) kako bi navela da se &brandShortName; povezuje 
-na nju samo sigurno. Kao rezultat, nije moguće dodati izuzetak za ovaj 
-certifikat.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ova stranica koristi HTTP Strict Transport Security (HSTS) kako bi navela da se &brandShortName; povezuje na nju samo sigurno. Kao rezultat, nije moguće dodati izuzetak za ovaj certifikat.">
 
-<!ENTITY certerror.expert.content "Ukoliko razumijete šta se dešava, možete 
-reći &brandShortName;u da počne vjerovati identifikaciji stranice. 
-<b>Čak i ako vjerujete stranici, ova greška bi mogla značiti da se 
-neko upliće u vašu vezu sa stranicom.</b>">
-<!ENTITY certerror.expert.contentPara2 "Nemojte dodavati izuzetke osim ako znate 
-da postoji dobar razlog zbog kojeg ova stranica ne koristi povjerljivu identifikaciju.">
+<!ENTITY certerror.expert.content "Ukoliko razumijete šta se dešava, možete reći &brandShortName;u da počne vjerovati identifikaciji stranice. <b>Čak i ako vjerujete stranici, ova greška bi mogla značiti da se neko upliće u vašu vezu sa stranicom.</b>">
+<!ENTITY certerror.expert.contentPara2 "Nemojte dodavati izuzetke osim ako znate da postoji dobar razlog zbog kojeg ova stranica ne koristi povjerljivu identifikaciju.">
 <!ENTITY certerror.addException.label "Dodaj izuzetak…">
 <!ENTITY certerror.copyToClipboard.label "Kopiraj tekst na clipboard">
 

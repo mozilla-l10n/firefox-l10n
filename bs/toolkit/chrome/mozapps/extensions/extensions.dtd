@@ -124,11 +124,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Šta su Add-oni?">
-<!ENTITY discover.description2                "Add-oni su aplikacije koje vam omogućavaju da personalizirate &brandShortName; sa 
-dodatnom funkcionalnošću ili stilom. Probajte vremensku prognozu ili tematiziran izgled da uljepšate 
-&brandShortName;.">
-<!ENTITY discover.footer                      "Kada ste konektovani na internet, ovaj panel će prikazivati 
-neke od najboljih i najpopularnijih add-ona koje možete isprobati.">
+<!ENTITY discover.description2                "Add-oni su aplikacije koje vam omogućavaju da personalizirate &brandShortName; sa dodatnom funkcionalnošću ili stilom. Probajte vremensku prognozu ili tematiziran izgled da uljepšate &brandShortName;.">
+<!ENTITY discover.footer                      "Kada ste konektovani na internet, ovaj panel će prikazivati neke od najboljih i najpopularnijih add-ona koje možete isprobati.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Verzija">
