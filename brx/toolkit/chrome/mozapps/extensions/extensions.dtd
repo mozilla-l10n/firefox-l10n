@@ -121,9 +121,7 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Add-ons आ मा मा?">
-<!ENTITY discover.description2                "Add-ons आ एप्लिकेसन, जाय नोंथांखौ बांद्राय खामानिगोहो एबा आदबजों
-&brandShortName; खौ बाहायनो गनायथि होयो। &brandShortName; खौ गावनि निजि खालामनो सम-बासायनाय साइडबार, आबहावा मिथिहोग्रा, एबा थिमगोनां नुथायखौ
-नाजा।">
+<!ENTITY discover.description2                "Add-ons आ एप्लिकेसन, जाय नोंथांखौ बांद्राय खामानिगोहो एबा आदबजों&brandShortName; खौ बाहायनो गनायथि होयो। &brandShortName; खौ गावनि निजि खालामनो सम-बासायनाय साइडबार, आबहावा मिथिहोग्रा, एबा थिमगोनां नुथायखौनाजा।">
 <!ENTITY discover.footer                      "नोंथाङा इन्टारनेटजों फोनांजाबनाय समाव, बे पेनआ माखासे साबसिन दिन्थिगोन आरो नोंथांनि थाखाय नाजानाय मुंदांखासिन add-ons खौ दिन्थिगोन।">
 <!-- detail view -->
 

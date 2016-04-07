@@ -5,9 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "ट्राबलशुटिं फोरमायथिहोग्रा">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "बे बिलाइआव बिरोंदामिन फोरमायथिहोग्रा दं, नोंथाङा जेंनाखौ सुस्रांनाय समाव बेयो खामानिआव नांथाव जानो हागौ।
-नोंथाङा &brandShortName; नि सरासनस्रा सोंथिनि फिननायखौ नागिरोब्ला,
-जोंनि <a id='supportLink'>हेफाजाब वेबसाइट</a> आव थां।">
+<!ENTITY aboutSupport.pageSubtitle "बे बिलाइआव बिरोंदामिन फोरमायथिहोग्रा दं, नोंथाङा जेंनाखौ सुस्रांनाय समाव बेयो खामानिआव नांथाव जानो हागौ।नोंथाङा &brandShortName; नि सरासनस्रा सोंथिनि फिननायखौ नागिरोब्ला,जोंनि <a id='supportLink'>हेफाजाब वेबसाइट</a> आव थां।">
 
 <!ENTITY aboutSupport.crashes.title "क्रेस रिपर्ट">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
