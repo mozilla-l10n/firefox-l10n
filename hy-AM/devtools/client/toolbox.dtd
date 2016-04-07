@@ -188,8 +188,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Ցուցադրել Gecko հարթակի տվյալները">
-<!ENTITY options.showPlatformData.tooltip  "Եթե միացնեք այս ընտրանքը, ապա JavaScript-ի Հատկագրի զեկույցները կներառվեն: 
-Gecko հարթակի նշանները">
+<!ENTITY options.showPlatformData.tooltip  "Եթե միացնեք այս ընտրանքը, ապա JavaScript-ի Հատկագրի զեկույցները կներառվեն: Gecko հարթակի նշանները">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
