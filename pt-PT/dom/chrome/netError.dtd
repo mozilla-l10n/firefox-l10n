@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>A página que está a tentar ver não pode ser apresentada porque utiliza uma forma de compressão inválida ou não suportada.</p><ul><li>Por favor contacte os proprietários do website para os informar deste problema.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tipo de Ficheiro Inseguro">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Por favor informe os proprietários do website do problema.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Por favor informe os proprietários do website do problema.</li> </ul>">
 
 <!ENTITY netReset.title "Ligação interrompida">
 <!ENTITY netReset.longDesc "<p>A ligação à rede foi interrompida enquanto era negociada uma ligação. Por favor tente novamente.</p>">
@@ -67,14 +65,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade da informação recebida.</p><ul><li>Por favor contacte os proprietários do website para os informar deste problema.</li></ul>">
 
 <!ENTITY nssBadCert.title "A ligação segura falhou">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Este pode ser um problema com a configuração do servidor, ou pode ser alguém a tentar fazer-se passar pelo servidor.</li> 
-<li>Se se ligou a este servidor no passado, o erro pode ser temporário e pode tentar mais tarde.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Este pode ser um problema com a configuração do servidor, ou pode ser alguém a tentar fazer-se passar pelo servidor.</li> <li>Se se ligou a este servidor no passado, o erro pode ser temporário e pode tentar mais tarde.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção…">
-<!ENTITY securityOverride.warningContent "<p>Não deverá adicionar uma exceção se estiver a utilizar uma ligação à Internet em que não confia ou se não está habituado a ver um aviso para este servidor.</p> 
-<p>Se ainda desejar adicionar uma exceção para este site, pode efetuá-lo nas definições avançadas da encriptação.</p>">
+<!ENTITY securityOverride.warningContent "<p>Não deverá adicionar uma exceção se estiver a utilizar uma ligação à Internet em que não confia ou se não está habituado a ver um aviso para este servidor.</p> <p>Se ainda desejar adicionar uma exceção para este site, pode efetuá-lo nas definições avançadas da encriptação.</p>">
 
 <!ENTITY cspBlocked.title "Bloqueado pela Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>O navegador impediu o carregamento desta página desta forma porque a página tem uma política de segurança de conteúdo que não o permite.</p>">

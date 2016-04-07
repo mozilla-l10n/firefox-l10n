@@ -215,8 +215,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Mostrar dados da plataforma Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Ao ativar esta opção os relatórios JavaScript irão incluir os 
-símbolos da plataforma Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Ao ativar esta opção os relatórios JavaScript irão incluir os símbolos da plataforma Gecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
