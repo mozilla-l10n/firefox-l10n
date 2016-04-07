@@ -10,10 +10,8 @@
 <!ENTITY  pluginupdateslink.label         "Tingnan kung paano i-upgrade ang iyong plugins.">
 
 <!ENTITY  noupdatesfound.title            "Hindi Nahanap ang mga Update">
-<!ENTITY  noupdatesautoenabled.intro      "Walang mga update na magagamit. &brandShortName; ay magsusuri 
-paminsan-minsan para sa mga update">
-<!ENTITY  noupdatesautodisabled.intro     "Walang mga update na magagamit. Mangyaring suriin muli sa paglaon o paganahin ang awtomatikong pagsusuri ng pagupdate ng 
- &brandShortName;.">
+<!ENTITY  noupdatesautoenabled.intro      "Walang mga update na magagamit. &brandShortName; ay magsusuri paminsan-minsan para sa mga update">
+<!ENTITY  noupdatesautodisabled.intro     "Walang mga update na magagamit. Mangyaring suriin muli sa paglaon o paganahin ang awtomatikong pagsusuri ng pagupdate ng  &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Hindi Maka-update">
 
@@ -28,8 +26,7 @@ paminsan-minsan para sa mga update">
 
 <!ENTITY  clickHere.label                 "Karagdagang impormasyon tungkol sa update na ito">
 
-<!ENTITY  evangelism.desc                 "Mahigpit na inirerekomenda na mag-aplay mo ito 
-i-update ang para &brandShortName; sa lalong madaling panahon.">
+<!ENTITY  evangelism.desc                 "Mahigpit na inirerekomenda na mag-aplay mo ito i-update ang para &brandShortName; sa lalong madaling panahon.">
 
 
 <!ENTITY  license.introText               "Tuntunin at Kondisyon sa paggamit ng software na ito.">
@@ -49,17 +46,13 @@ i-update ang para &brandShortName; sa lalong madaling panahon.">
 
 
 
-<!ENTITY  error.label                     "May mga problema nag-check sa mga, downloading, o nag-install ng
-update. &brandShortName; hindi ma-update dahil:">
+<!ENTITY  error.label                     "May mga problema nag-check sa mga, downloading, o nag-install ngupdate. &brandShortName; hindi ma-update dahil:">
                                            
-<!ENTITY  errorManual.label               "Maaari mong i-update ang &brandShortName; ng mano-mano sa pamamagitan ng pagbisita sa link na ito 
-at I-download ang pinakabagong version:">
+<!ENTITY  errorManual.label               "Maaari mong i-update ang &brandShortName; ng mano-mano sa pamamagitan ng pagbisita sa link na ito at I-download ang pinakabagong version:">
 
 
-<!ENTITY  errorCertAttrNoUpdate2.label    "Mayroong pumipigil sa pag-update ng &brandShortName; ng ligtas. 
- Mangyaring siguraduhin na mayroon kang pinakabagong version ng &brandShortName; mula sa:">
-<!ENTITY  errorCertAttrHasUpdate.label    "May isang bagay na sinusubukan lokohin ang &brandShortName; sa pagtanggap ng isang 
-hindi secure na-update. Mangyaring makipag-ugnayan sa iyong network provider at humingi ng tulong.">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Mayroong pumipigil sa pag-update ng &brandShortName; ng ligtas.  Mangyaring siguraduhin na mayroon kang pinakabagong version ng &brandShortName; mula sa:">
+<!ENTITY  errorCertAttrHasUpdate.label    "May isang bagay na sinusubukan lokohin ang &brandShortName; sa pagtanggap ng isang hindi secure na-update. Mangyaring makipag-ugnayan sa iyong network provider at humingi ng tulong.">
 
 <!ENTITY  finishedPage.title              "Nakahanda na ang Update para Iinstall">
 

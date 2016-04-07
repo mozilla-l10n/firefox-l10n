@@ -115,11 +115,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Ano ang mga Add-ons?">
-<!ENTITY discover.description2                "Ang Add-ons ay application na hahayaan kang i-personalize ang &brandShortName; na may 
- extra functionality o style.Subukan ang time-saving sidebar, weather notifier, o ang themed look upang gawin ang &brandShortName; 
-sa iyong kagustuhan">
-<!ENTITY discover.footer                      "Pag konektado ka sa Internet, ipapakita ng pane na ito 
-ang ilan sa pinakamagaganda at sikat na add-ons para masubukan mo.">
+<!ENTITY discover.description2                "Ang Add-ons ay application na hahayaan kang i-personalize ang &brandShortName; na may  extra functionality o style.Subukan ang time-saving sidebar, weather notifier, o ang themed look upang gawin ang &brandShortName; sa iyong kagustuhan">
+<!ENTITY discover.footer                      "Pag konektado ka sa Internet, ipapakita ng pane na ito ang ilan sa pinakamagaganda at sikat na add-ons para masubukan mo.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Bersyon">

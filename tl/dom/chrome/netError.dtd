@@ -26,9 +26,7 @@
 
 
 <!ENTITY unsafeContentType.title "Hindi ligtas na file type">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> </ul>">
 
 <!ENTITY netReset.title "Connection Interrupted">
 <!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">

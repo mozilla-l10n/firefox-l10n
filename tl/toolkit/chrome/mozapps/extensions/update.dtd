@@ -7,8 +7,7 @@
 <!ENTITY  offline.toggleOffline.accesskey "g">
 
 <!ENTITY  mismatch.win.title              "Incompatible na Add-ons">
-<!ENTITY  mismatch.top.label              "Ang mga sumusunod na add-ons ay hindi compatible sa version na ito ng 
-&brandShortName; kaya ito ay naka-disable:">
+<!ENTITY  mismatch.top.label              "Ang mga sumusunod na add-ons ay hindi compatible sa version na ito ng &brandShortName; kaya ito ay naka-disable:">
 
 
 <!ENTITY  checking.wizard.title           "Naghahanap ng Compatible na Add-ons">
@@ -17,8 +16,7 @@
 
 <!ENTITY  found.wizard.title               "Nahanap ang mga Compatible na Add-on">
 <!ENTITY  found.top.label                 "Piliin ang add-ons na gusto mong iinstall:">
-<!ENTITY  found.disabledXPinstall.label   "Ang mga update na ito ay hindi maaaring i-install dahil ang software na-install ay kasalukuyang 
-hindi pinagana. Maaari mong baguhin ang setting na ito sa ibaba.">
+<!ENTITY  found.disabledXPinstall.label   "Ang mga update na ito ay hindi maaaring i-install dahil ang software na-install ay kasalukuyang hindi pinagana. Maaari mong baguhin ang setting na ito sa ibaba.">
 <!ENTITY  found.enableXPInstall.label     "Allow web sites to install software">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
@@ -26,26 +24,19 @@ hindi pinagana. Maaari mong baguhin ang setting na ito sa ibaba.">
 <!ENTITY  installing.top.label            "Kinukuha at ini-install ang mga update sa iyong mga add-on…">
 
 <!ENTITY  noupdates.wizard.title          "Walang Nahanap ang mga Compatible na Add-on">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; ay hindi makahanap ng mga update sa iyong 
-incompatible add-ons.">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; ay hindi makahanap ng mga update sa iyong incompatible add-ons.">
 <!ENTITY  noupdates.error.desc            "Nagkaroon ng problema habang naghahanap ng updates.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ay mag check paminsan-minsan at I-inform ka 
-kung mayroon na compatible updates para sa add-ons na nahanap.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ay mag check paminsan-minsan at I-inform ka kung mayroon na compatible updates para sa add-ons na nahanap.">
 
 
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName;kayang mag check paminsan-minsan at I-inform ka 
-kung merong updates para sa add-ons na nahanap.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName;ay mag check paminsan-minsan at I-inform ka 
-kung merong updates para sa add-ons na nahanap.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName;kayang mag check paminsan-minsan at I-inform ka kung merong updates para sa add-ons na nahanap.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName;ay mag check paminsan-minsan at I-inform ka kung merong updates para sa add-ons na nahanap.">
 
 <!ENTITY  adminDisabled.wizard.title      "Hindi makapag-check ng updates">
-<!ENTITY  adminDisabled.warning.label     "Ito ay hindi posible upang suriin para sa mga update sa hindi tugma add-ons 
-dahil ang pag-install ng software para sa ang &brandShortName; ay hindi pinagana. 
-Mangyaring makipag-ugnay sa inyong System Administrator para sa tulong.">
+<!ENTITY  adminDisabled.warning.label     "Ito ay hindi posible upang suriin para sa mga update sa hindi tugma add-ons dahil ang pag-install ng software para sa ang &brandShortName; ay hindi pinagana. Mangyaring makipag-ugnay sa inyong System Administrator para sa tulong.">
 
 <!ENTITY  versioninfo.wizard.title        "Tinitingnan ang Compatibility ng Add-ons">
-<!ENTITY  versioninfo.top.label           "Sinusuri ang iyong mga add-on kung compatible ito 
-sa version ng &brandShortName;.">
+<!ENTITY  versioninfo.top.label           "Sinusuri ang iyong mga add-on kung compatible ito sa version ng &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Maghintay po ng ilang sandali…">
 
 <!ENTITY  installerrors.wizard.title      "Nagkaproblema habang iniinstall ang updates">

@@ -16,12 +16,8 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.expert.content "Kung naiintindihan mo ang nangyayari, pwede mong 
-itakda ang &brandShortName; na simulang magtiwalan sa pagkakakilanlan ng website. 
- <b>Kahit na nagtitiwala ka sa website, ang kamaliang ito ay maaring mangangahulugang 
- may nagmamanipula ng iyong koneksyon.</b>">
-<!ENTITY certerror.expert.contentPara2 "Huwag magdagdag ng exception maliban kung
-may magandang rason ang site na ito na hindi gumamit ng trusted identification.">
+<!ENTITY certerror.expert.content "Kung naiintindihan mo ang nangyayari, pwede mong itakda ang &brandShortName; na simulang magtiwalan sa pagkakakilanlan ng website.  <b>Kahit na nagtitiwala ka sa website, ang kamaliang ito ay maaring mangangahulugang  may nagmamanipula ng iyong koneksyon.</b>">
+<!ENTITY certerror.expert.contentPara2 "Huwag magdagdag ng exception maliban kungmay magandang rason ang site na ito na hindi gumamit ng trusted identification.">
 
 
 
