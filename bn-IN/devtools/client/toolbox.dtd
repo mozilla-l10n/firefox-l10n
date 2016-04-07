@@ -205,8 +205,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Gecko প্ল্যাটফর্ম ডাটা দেখান">
-<!ENTITY options.showPlatformData.tooltip  "অাপনি এই বিকল্প সক্রিয় করলে, JavaScript প্রোফাইলারের রিপোর্টে  
-Gecko প্ল্যাটফর্ম সংকেত অন্তর্ভুক্ত করবে">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
