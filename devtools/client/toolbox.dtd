@@ -205,8 +205,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Gecko ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸು">
-<!ENTITY options.showPlatformData.tooltip  "ನೀವು ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದಲ್ಲಿ JavaScript ಪ್ರೊಫೈಲರ್ ವರದಿಗಳು Gecko  
-ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಸಂಕೇತಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ">
+<!ENTITY options.showPlatformData.tooltip  "ನೀವು ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದಲ್ಲಿ JavaScript ಪ್ರೊಫೈಲರ್ ವರದಿಗಳು Gecko  ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಸಂಕೇತಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
