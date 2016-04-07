@@ -215,8 +215,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Gecko платформасының деректерін көрсету">
-<!ENTITY options.showPlatformData.tooltip  "Бұл баптауды іске қоссаңыз, JavaScript профильдеуші есептемелерінде 
-Gecko платформа таңбалары болады">
+<!ENTITY options.showPlatformData.tooltip  "Бұл баптауды іске қоссаңыз, JavaScript профильдеуші есептемелерінде Gecko платформа таңбалары болады">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
