@@ -5,9 +5,7 @@
 <!ENTITY aboutSupport.pageTitle " مولومات ہیوند مثلئ ہل كران">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "یتھ پیجس منز چھ تکنیکی انفارمیشن یوس ذن فأیدْ مند ہیکہ أسِتھ ییلہ توہیہ 
-کوشش کْریو پرابلیم حل کرنْچ۔ اگر توہیہ جواب ژھانڈان چھیو عام سوالن 
-&amp;برانڈ شاٹ ناوس؛ مُتلق، چک آوٹ کْریو <a id='supportLink'>امدأدی ویب سایِٹ</a>۔ ">
+<!ENTITY aboutSupport.pageSubtitle "یتھ پیجس منز چھ تکنیکی انفارمیشن یوس ذن فأیدْ مند ہیکہ أسِتھ ییلہ توہیہ کوشش کْریو پرابلیم حل کرنْچ۔ اگر توہیہ جواب ژھانڈان چھیو عام سوالن &amp;برانڈ شاٹ ناوس؛ مُتلق، چک آوٹ کْریو <a id='supportLink'>امدأدی ویب سایِٹ</a>۔ ">
 
 <!ENTITY aboutSupport.crashes.title "كریش بیان">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):

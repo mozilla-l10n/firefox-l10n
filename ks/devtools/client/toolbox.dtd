@@ -195,8 +195,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "ہأیو گیکو پلیٹ فارم ڈاٹا">
-<!ENTITY options.showPlatformData.tooltip  "اگر توہیہ اینیبْل کریو یہ اوپشن جاوا سیکریپٹْہ پروفایلر رپورٹن منز گژھ شأمل
-گیکو پلیٹ فارم سیمبُل ">
+<!ENTITY options.showPlatformData.tooltip  "اگر توہیہ اینیبْل کریو یہ اوپشن جاوا سیکریپٹْہ پروفایلر رپورٹن منز گژھ شأملگیکو پلیٹ فارم سیمبُل ">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
