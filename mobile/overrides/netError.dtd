@@ -19,24 +19,10 @@
 <!ENTITY dnsNotFound.title "Սպասարկիչը չի գտնվել">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Ստուգեք հասցեն՝ արդյոք սխալ չեք մուտքագրել. 
-<strong>ww</strong>.example.com՝ 
-<strong>www</strong>.example.com-ի փոխարեն</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Որոնում</button> 
-</div> 
-<li>Եթե որևէ էջ չի բացվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը: 
-<button id='wifi'>Միացնել Wi-Fi-ը</button> 
-</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Ստուգեք հասցեն՝ արդյոք սխալ չեք մուտքագրել. <strong>ww</strong>.example.com՝ <strong>www</strong>.example.com-ի փոխարեն</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Որոնում</button> </div> <li>Եթե որևէ էջ չի բացվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը: <button id='wifi'>Միացնել Wi-Fi-ը</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Ֆայլը չի գտնվել">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Ստուգեք ֆայլի անունը մեծատառերի կամ այլ տպագրական սխալների համար:</li> 
-<li>Ստուգեք՝ տեսնելու համար, թե արդյոք ֆայլը չի տեղափոխվել, անվանափոխվել կամ ջնջվել:</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Ստուգեք ֆայլի անունը մեծատառերի կամ այլ տպագրական սխալների համար:</li> <li>Ստուգեք՝ տեսնելու համար, թե արդյոք ֆայլը չի տեղափոխվել, անվանափոխվել կամ ջնջվել:</li> </ul>">
 
 
 <!ENTITY generic.title "Վայ.">
@@ -45,16 +31,7 @@
 <!ENTITY malformedURI.title "Հասցեն ճիշտ չէ">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> 
-<li>Վեբ հասցեները սովորաբար գրվում են այսպես՝ 
-<strong>http://www.example.com/</strong></li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Որոնում</button> 
-</div> 
-<li>Համոզվեք, որ օգտագործել եք հենց այս գրանշանը՝ (օր.՝ 
-<strong>/</strong>):</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Վեբ հասցեները սովորաբար գրվում են այսպես՝ <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Որոնում</button> </div> <li>Համոզվեք, որ օգտագործել եք հենց այս գրանշանը՝ (օր.՝ <strong>/</strong>):</li> </ul>">
 
 <!ENTITY netInterrupt.title "Կապը խզվեց">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -65,21 +42,13 @@
 <!ENTITY netOffline.title "Ցանցից դուրս">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>Կրկին փորձեք։ &brandShortName;-ը կընդունի կապակցումը և կվերաբացի էջը։  
-<button id='wifi'>Միացնել Wi-Fi-ը</button> 
-</li> 
-</ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Կրկին փորձեք։ &brandShortName;-ը կընդունի կապակցումը և կվերաբացի էջը։  <button id='wifi'>Միացնել Wi-Fi-ը</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Բովանդակության Կոդավորման Սխալ">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Խնդրում ենք կապնվել կայքի սեփականատիրոջ հետ՝ 
-այս խնդրի մասին տեղյակ պահելու համար:</li> </ul>         ">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Խնդրում ենք կապնվել կայքի սեփականատիրոջ հետ՝ այս խնդրի մասին տեղյակ պահելու համար:</li> </ul>         ">
 
 <!ENTITY unsafeContentType.title "Ոչ անվտանգ ֆայլի տեսակ">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Խնդրում ենք կապնվել կայքի սեփականատիրոջ հետ՝ 
-այս խնդրի մասին տեղյակ պահելու համար:</li> </ul>         ">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Խնդրում ենք կապնվել կայքի սեփականատիրոջ հետ՝ այս խնդրի մասին տեղյակ պահելու համար:</li> </ul>         ">
 
 <!ENTITY netReset.title "Կապը խզվեց">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;;">
@@ -88,62 +57,31 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;;">
 
 <!ENTITY unknownProtocolFound.title "Հասցեն անհասկանալի է">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Այս հասցեն բացելու համար հավանաբար կպահանջվի տեղակայել այլ ծրագիր:</li> 
- </ul>         ">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Այս հասցեն բացելու համար հավանաբար կպահանջվի տեղակայել այլ ծրագիր:</li>  </ul>         ">
 
 <!ENTITY proxyConnectFailure.title "Պրոքսի սպասարկիչը մերժում է ընդունել կապը">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Ստուգեք պրոքսի կարգավորումները և համոզվեք, որ դրանք ճիշտ են:</li> 
-<li>Կապվեք ձեր ցանցի ադմինիստրատորի հետ՝ համոզվելու համար, որ պրոքսի 
- սպասարկիչը աշխատում է:</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Ստուգեք պրոքսի կարգավորումները և համոզվեք, որ դրանք ճիշտ են:</li> <li>Կապվեք ձեր ցանցի ադմինիստրատորի հետ՝ համոզվելու համար, որ պրոքսի  սպասարկիչը աշխատում է:</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Չի ստացվում գտնել պրոքսի սպասարկիչ">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>Ստուգեք պրոքսի սպասարկիչի կարգավորումները։</li> 
-<li>Ստուգեք սարքի տվյալները կամ Wi-Fi կապը։  
-<button id='wifi'>Միացնել Wi-Fi-ը</button> 
-</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Ստուգեք պրոքսի սպասարկիչի կարգավորումները։</li> <li>Ստուգեք սարքի տվյալները կամ Wi-Fi կապը։  <button id='wifi'>Միացնել Wi-Fi-ը</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Էջը ճիշտ չէ վերահասցեավորվել">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Այս խնդիրը երբեմն կարող է պատահել cookie-ների անջատումից  
-կամ մերժումից:</li> 
- </ul>                   ">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Այս խնդիրը երբեմն կարող է պատահել cookie-ների անջատումից  կամ մերժումից:</li>  </ul>                   ">
 
 <!ENTITY unknownSocketType.title "Անհասկանալի պատասխան սպասարկիչից">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Ստուգեք և համոզվեք, որ ձեր համակարգը ունի Անձնական Անվտանգության 
- Կառավարիչ:</li> 
-<li>Սա կարող է հանդիսանալ սպասարկիչի ոչ ստանդարտ կարգավորման արդյունք:</li> 
- </ul>                       ">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Ստուգեք և համոզվեք, որ ձեր համակարգը ունի Անձնական Անվտանգության  Կառավարիչ:</li> <li>Սա կարող է հանդիսանալ սպասարկիչի ոչ ստանդարտ կարգավորման արդյունք:</li>  </ul>                       ">
 
 <!ENTITY nssFailure2.title "Չհաջողվեց կատարել Պաշտպանված կապակցում">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Էջը, որ ցանկանում եք դիտել, չի կարող ցուցադրվել, քանի որ ստացվող տվյալների իսկությունը հնարավոր չէ ստուգել:</li> 
-<li>Կապնվեք կայքի ս/տիրոջ հետ՝ խնդրի մասին տեղեկացնելու համար:</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Էջը, որ ցանկանում եք դիտել, չի կարող ցուցադրվել, քանի որ ստացվող տվյալների իսկությունը հնարավոր չէ ստուգել:</li> <li>Կապնվեք կայքի ս/տիրոջ հետ՝ խնդրի մասին տեղեկացնելու համար:</li> </ul>">
 
 <!ENTITY nssBadCert.title "Չհաջողվեց կատարել Պաշտպանված կապակցում">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Այս խնդիրը կարող է կապված լինել սպասարկիչի կարգավորման հետ կամ 
- հնարավոր է, որ որևէ մեկը փորձում է որպես սպասարկիչ հանդես գալ:</li> 
-<li>Եթե դուք այս սպասարկիչին նախկինում հաջողությամբ եք միացել, ապա սխալը 
- կարող է ժամանակավոր բնույթ կրել և կարող եք կրկին փորձել ավելի ուշ:</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Այս խնդիրը կարող է կապված լինել սպասարկիչի կարգավորման հետ կամ  հնարավոր է, որ որևէ մեկը փորձում է որպես սպասարկիչ հանդես գալ:</li> <li>Եթե դուք այս սպասարկիչին նախկինում հաջողությամբ եք միացել, ապա սխալը  կարող է ժամանակավոր բնույթ կրել և կարող եք կրկին փորձել ավելի ուշ:</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> 
-<li>Հնարավոր է կայքը ժամանակավորապես անհասանելի է կամ զբաղված է։ Փորձեք ավելի ուշ։</li> 
-<li>Եթե որևէ էջ չի բացվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը։  
-<button id='wifi'>Միացնել Wi-Fi-ը</button> 
-</li> 
-</ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>Հնարավոր է կայքը ժամանակավորապես անհասանելի է կամ զբաղված է։ Փորձեք ավելի ուշ։</li> <li>Եթե որևէ էջ չի բացվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը։  <button id='wifi'>Միացնել Wi-Fi-ը</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Արգելափակվել է Բովանդակության Անվտանգության Քաղաքականության կողմից">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;­­-ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է դա:</p>">
@@ -160,10 +98,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Դուք չպետք է ավելացնեք բացառություն, եթե դուք օգտվում եք մի ինտերնետ կապից, որին լիարժեք չեք վստահում, կամ եթե դուք սովոր չեք հետևել նախազգուշացմանը այս սպասարկիչի համար:</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Դուք չպետք է ավելացնեք բացառություն, եթե դուք օգտվում եք մի ինտերնետ կապից, որին լիարժեք չեք վստահում, կամ եթե դուք սովոր չեք հետևել նախազգուշացմանը այս սպասարկիչի համար:</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Հեռադիր XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապնվեք վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">
