@@ -628,12 +628,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Kai kurių privačiųjų duomenų išvalyti nepavyko">
 
 <!ENTITY bookmarkhistory_button_import "Importuoti">
-<!ENTITY bookmarkhistory_import_both "Importuojamas adresynas ir žurnalas 
-iš „Android“">
-<!ENTITY bookmarkhistory_import_bookmarks "Importuojamas adresynas 
-iš „Android“">
-<!ENTITY bookmarkhistory_import_history "Importuojamas žurnalas 
-iš „Android“">
+<!ENTITY bookmarkhistory_import_both "Importuojamas adresynas ir žurnalas iš „Android“">
+<!ENTITY bookmarkhistory_import_bookmarks "Importuojamas adresynas iš „Android“">
+<!ENTITY bookmarkhistory_import_history "Importuojamas žurnalas iš „Android“">
 <!ENTITY bookmarkhistory_import_wait "Luktelėkite…">
 
 <!ENTITY suggestions_prompt3 "Ar norite įgalinti paieškos siūlymus?">
