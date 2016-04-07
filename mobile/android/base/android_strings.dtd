@@ -628,12 +628,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "कुछ निजी आँकड़े साफ़ नहीं हो सके">
 
 <!ENTITY bookmarkhistory_button_import "आयात करें">
-<!ENTITY bookmarkhistory_import_both "ऐंड्रॉयड से पुस्तचिह्न और इतिहास 
-का आयात जारी">
-<!ENTITY bookmarkhistory_import_bookmarks "ऐंड्रॉयड से पुस्तचिह्न 
-का आयात जारी">
-<!ENTITY bookmarkhistory_import_history "ऐंड्रॉयड से इतिहास 
-का आयात जारी">
+<!ENTITY bookmarkhistory_import_both "ऐंड्रॉयड से पुस्तचिह्न और इतिहास का आयात जारी">
+<!ENTITY bookmarkhistory_import_bookmarks "ऐंड्रॉयड से पुस्तचिह्न का आयात जारी">
+<!ENTITY bookmarkhistory_import_history "ऐंड्रॉयड से इतिहास का आयात जारी">
 <!ENTITY bookmarkhistory_import_wait "कृपया इंतजार करें...">
 
 <!ENTITY suggestions_prompt3 "क्या खोज सुझाव को चालू करना चाहेंगे?">
