@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Azt szerette volna, hogy a &brandShortName; biztonságosan kapcsolódjon a következőhöz:
-<b>#1</b>, de nem garantálható, hogy a kapcsolat biztonságos.">
+<!ENTITY certerror.introPara1 "Azt szerette volna, hogy a &brandShortName; biztonságosan kapcsolódjon a következőhöz:<b>#1</b>, de nem garantálható, hogy a kapcsolat biztonságos.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Mit tegyek?">
-<!ENTITY certerror.whatShouldIDo.content "Ha általában probléma nélkül 
-tud kapcsolódni ehhez a webhelyhez, akkor ez a hiba azt jelentheti, hogy 
-valaki leutánozta a webhelyet. Ne folytassa.">
+<!ENTITY certerror.whatShouldIDo.content "Ha általában probléma nélkül tud kapcsolódni ehhez a webhelyhez, akkor ez a hiba azt jelentheti, hogy valaki leutánozta a webhelyet. Ne folytassa.">
 <!ENTITY certerror.getMeOutOfHere.label "Oldal elhagyása">
 
 <!ENTITY certerror.expert.heading "Megértettem a kockázatokat">
-<!ENTITY certerror.expert.content "Ha érti, hogy mi történik, utasíthatja a 
-&brandShortName;ot, hogy innentől kezdve bízzon meg a webhely azonosítójában. 
-<b>Még ha bízik is a webhelyben, ez a hiba akkor is jelentheti azt, hogy 
-valaki megpiszkálta a kapcsolatot.</b>">
-<!ENTITY certerror.expert.contentPara2 "Ne adjon hozzá kivételt, kivéve ha 
-tudja, hogy jó oka van annak, hogy ez a webhely nem megbízható azonosítást használ.">
+<!ENTITY certerror.expert.content "Ha érti, hogy mi történik, utasíthatja a &brandShortName;ot, hogy innentől kezdve bízzon meg a webhely azonosítójában. <b>Még ha bízik is a webhelyben, ez a hiba akkor is jelentheti azt, hogy valaki megpiszkálta a kapcsolatot.</b>">
+<!ENTITY certerror.expert.contentPara2 "Ne adjon hozzá kivételt, kivéve ha tudja, hogy jó oka van annak, hogy ez a webhely nem megbízható azonosítást használ.">
 <!ENTITY certerror.addTemporaryException.label "Webhely meglátogatása">
 <!ENTITY certerror.addPermanentException.label "Állandó kivétel hozzáadása">
 
