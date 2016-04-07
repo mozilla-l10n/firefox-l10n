@@ -19,24 +19,10 @@
 <!ENTITY dnsNotFound.title "Server topilmadi">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Quyidagiga o‘xshash xatolarni tekshirib chiqing: 
-<strong>ww</strong>.example.com kabi yozilgan bo‘lishi mumkin, aslida  
-<strong>www</strong>.example.com kabi yozilishi kerak</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Izlash</button> 
-</div> 
-<li>Agar birorta ham sahifa yuklanmasa, qurilmangizning internetga yoki WI-Fi’ga ulanganligini tekshirib ko‘ring. 
-<button id='wifi'>Wi-Fi’ni yoqish</button> 
-</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Quyidagiga o‘xshash xatolarni tekshirib chiqing: <strong>ww</strong>.example.com kabi yozilgan bo‘lishi mumkin, aslida  <strong>www</strong>.example.com kabi yozilishi kerak</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Izlash</button> </div> <li>Agar birorta ham sahifa yuklanmasa, qurilmangizning internetga yoki WI-Fi’ga ulanganligini tekshirib ko‘ring. <button id='wifi'>Wi-Fi’ni yoqish</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Fayl topilmadi">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Fayl nomlarining katta-kichigligini va boshqa yozishdagi xatolarini tekshiring.</li> 
-<li>Faylning o‘chirilganligi, nomi o‘zgartirilganligi va ko‘chirilganligini tekshirib koʻring.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Fayl nomlarining katta-kichigligini va boshqa yozishdagi xatolarini tekshiring.</li> <li>Faylning o‘chirilganligi, nomi o‘zgartirilganligi va ko‘chirilganligini tekshirib koʻring.</li> </ul>">
 
 
 <!ENTITY generic.title "Obbo.">
@@ -45,16 +31,7 @@
 <!ENTITY malformedURI.title "Xato manzil">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> 
-<li>Veb manzillar odatda 
-<strong>http://www.example.com/</strong></li> 
-<div id='searchbox'> kabi yoziladi
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Izlash</button> 
-</div> 
-<li>To‘g‘ri yo‘naltirish belgisidan foydalanayotganingizga ishonch hosil qiling (masalan: 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Veb manzillar odatda <strong>http://www.example.com/</strong></li> <div id='searchbox'> kabi yoziladi<input id='searchtext' type='search'></input> <button id='searchbutton'>Izlash</button> </div> <li>To‘g‘ri yo‘naltirish belgisidan foydalanayotganingizga ishonch hosil qiling (masalan: <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Aloqa uzilib qoldi">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -65,21 +42,13 @@
 <!ENTITY netOffline.title "Oflayn usuli">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>Yana urinib ko‘ring. &brandShortName; ulanishni ochishga va sahifani yangilashga urinib ko‘radi. 
-<button id='wifi'>Wi-Fi’ni yoqish</button> 
-</li> 
-</ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Yana urinib ko‘ring. &brandShortName; ulanishni ochishga va sahifani yangilashga urinib ko‘radi. <button id='wifi'>Wi-Fi’ni yoqish</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Kontentni kodlashda xato">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Xavfli fayl turi">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li> </ul>">
 
 <!ENTITY netReset.title "Ulanish uzilib qolgan">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -88,62 +57,31 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Manzil tushunilmadi">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Ushbu manzilni ochish uchun boshqa dasturni o‘rnatishingiz kerak.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Ushbu manzilni ochish uchun boshqa dasturni o‘rnatishingiz kerak.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proksi server ulanishlarni rad qilmoqda">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Proksi moslamalari to‘g‘ri ekanligini tekshirib ko‘ring.</li> 
-<li>Proksi server ishlayotganligiga ishonch hosil qilish uchun 
-tarmoq administratori bilan bog‘laning.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Proksi moslamalari to‘g‘ri ekanligini tekshirib ko‘ring.</li> <li>Proksi server ishlayotganligiga ishonch hosil qilish uchun tarmoq administratori bilan bog‘laning.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proksi server topilmadi">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>Proksi sozlamalarining to‘g‘ri ekanligini tekshirib ko‘ring.</li> 
-<li>Qurilmangizda internetga ulanish yoqilganligi yoki Wi-Fi’ga ualanganligini tekshirib ko‘ring. 
-<button id='wifi'>Wi-Fi’ni yoqish</button> 
-</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Proksi sozlamalarining to‘g‘ri ekanligini tekshirib ko‘ring.</li> <li>Qurilmangizda internetga ulanish yoqilganligi yoki Wi-Fi’ga ualanganligini tekshirib ko‘ring. <button id='wifi'>Wi-Fi’ni yoqish</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Sahifa to‘g‘ri yo‘naltirilmagan">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Ushbu muammo ba’zida kukilarni o‘chirilishiga yoki rozilikni rad qilinishiga 
-sabab bo‘lishi mumkin.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Ushbu muammo ba’zida kukilarni o‘chirilishiga yoki rozilikni rad qilinishiga sabab bo‘lishi mumkin.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Serverdan kutilmagan javob">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Shaxsiy xavfsizlik boshqaruvchisi (PSM) tizimingizda o‘rnatilganligini 
-tekshirib ko‘ring.</li> 
-<li>Bu serveringizning nostandart moslanganligidan ham bo‘lishi mumkin.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Shaxsiy xavfsizlik boshqaruvchisi (PSM) tizimingizda o‘rnatilganligini tekshirib ko‘ring.</li> <li>Bu serveringizning nostandart moslanganligidan ham bo‘lishi mumkin.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Xavfsiz ulanib bo‘lmadi">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Siz ochmoqchi bo‘lgan sahifani ko‘rsatib bo‘lmaydi, chunki olingan ma’lumotlarning haqiqiyligini tekshirib bo‘lmadi.</li> 
-<li>Ushbu muammo haqida xabar berish uchun veb-sayt egasi bilan bog‘laning.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Siz ochmoqchi bo‘lgan sahifani ko‘rsatib bo‘lmaydi, chunki olingan ma’lumotlarning haqiqiyligini tekshirib bo‘lmadi.</li> <li>Ushbu muammo haqida xabar berish uchun veb-sayt egasi bilan bog‘laning.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Xavfsiz ulanib bo‘lmadi">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Muammoga sabab serverning moslanishi yoki kimnidir 
-serverni buzishga urinishi bo‘lishi mumkin.</li> 
-<li>Agar serverga oldinroq muvaffaqiyatli ulangan bo‘lsangiz, xato 
-vaqtinchalik bo‘lishi mumkin va keyinroq yana urinib ko‘rishingiz mumkin bo‘ladi.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Muammoga sabab serverning moslanishi yoki kimnidir serverni buzishga urinishi bo‘lishi mumkin.</li> <li>Agar serverga oldinroq muvaffaqiyatli ulangan bo‘lsangiz, xato vaqtinchalik bo‘lishi mumkin va keyinroq yana urinib ko‘rishingiz mumkin bo‘ladi.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> 
-<li>Sayt vaqtinchalik ishlamayapti yoki juda band. Bir necha daqiqadan keyin urinib ko‘ring.</li> 
-<li>Agar birorta ham sahifa yuklanmasa, telefoningizning internetga  yoki Wi-Fi tarmoqqa ulanishini tekshirib ko‘ring. 
-<button id='wifi'>Wi-Fi’ni yoqish</button> 
-</li> 
-</ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>Sayt vaqtinchalik ishlamayapti yoki juda band. Bir necha daqiqadan keyin urinib ko‘ring.</li> <li>Agar birorta ham sahifa yuklanmasa, telefoningizning internetga  yoki Wi-Fi tarmoqqa ulanishini tekshirib ko‘ring. <button id='wifi'>Wi-Fi’ni yoqish</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Kontent xavfsizlik nazorati tomonidan to‘sib qo‘yilgan">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ushbu sahifani bu yo‘lda yuklashga to‘sqinlik qildi, chunki sahifadagi xavfsizlik siyosati bunga ruxsat bermadi.</p>">
@@ -160,10 +98,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>O‘zingiz ishonmaydigan internetga ulanishdan foydalansangiz yoki ushbu server uchun ogohlantirishlarni ko‘rishdan foydalanmasangiz, istisnolar qo‘shmasligingiz kerak .</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>O‘zingiz ishonmaydigan internetga ulanishdan foydalansangiz yoki ushbu server uchun ogohlantirishlarni ko‘rishdan foydalanmasangiz, istisnolar qo‘shmasligingiz kerak .</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Masofadagi XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Muammo haqida xabar berish uchun veb sayt egasi bilan bogʻlaning.</li></ul></p>">

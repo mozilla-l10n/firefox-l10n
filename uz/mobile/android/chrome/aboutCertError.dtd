@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Siz &brandShortName;ni xavfsiz ravishda 
-<b>#1</b>ga ulanishini so‘radingiz, ammo biz ushbu ulanish xavfsiz ekanligini tasdiqlay olmaymiz.">
+<!ENTITY certerror.introPara1 "Siz &brandShortName;ni xavfsiz ravishda <b>#1</b>ga ulanishini so‘radingiz, ammo biz ushbu ulanish xavfsiz ekanligini tasdiqlay olmaymiz.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Nima qilishim kerak?">
-<!ENTITY certerror.whatShouldIDo.content "Agar siz odatda ushbu saytga muammosiz 
-ulanib kelgan bo‘lsangiz, ushbu xatoga biror kishining saytni qalbakilashtirishga
-urinayotgani sabab bo‘lishi mumkin, shuning uchun kirishni davom ettirmang.">
+<!ENTITY certerror.whatShouldIDo.content "Agar siz odatda ushbu saytga muammosiz ulanib kelgan bo‘lsangiz, ushbu xatoga biror kishining saytni qalbakilashtirishgaurinayotgani sabab bo‘lishi mumkin, shuning uchun kirishni davom ettirmang.">
 <!ENTITY certerror.getMeOutOfHere.label "Bu yerdan ketaman!">
 
 <!ENTITY certerror.expert.heading "Men xavfni tushundim">
-<!ENTITY certerror.expert.content "Agar nima bo‘layotganini tushungan bo‘lsangiz,
-&brandShortName;ga ushbu saytni ishonchli deb tasdiqlashni boshlashni aytishingiz mumkin.
-<b>Agar siz ushbu saytga ishonsangiz, xatoga sabab kimdir sizning ulanishingiz orqali
-qalbaki kirishiga urinmoqda.</b>">
-<!ENTITY certerror.expert.contentPara2 "Ushbu saytning nima sababdan ishonchli tasdiqdan o‘tishdan 
-foydalanmasligiga ishonarli sabab bilmasangiz, istisno qo‘shmang.">
+<!ENTITY certerror.expert.content "Agar nima bo‘layotganini tushungan bo‘lsangiz,&brandShortName;ga ushbu saytni ishonchli deb tasdiqlashni boshlashni aytishingiz mumkin.<b>Agar siz ushbu saytga ishonsangiz, xatoga sabab kimdir sizning ulanishingiz orqaliqalbaki kirishiga urinmoqda.</b>">
+<!ENTITY certerror.expert.contentPara2 "Ushbu saytning nima sababdan ishonchli tasdiqdan o‘tishdan foydalanmasligiga ishonarli sabab bilmasangiz, istisno qo‘shmang.">
 <!ENTITY certerror.addTemporaryException.label "Kirilgan sana">
 <!ENTITY certerror.addPermanentException.label "Butunlay istisno qo‘shish">
 
