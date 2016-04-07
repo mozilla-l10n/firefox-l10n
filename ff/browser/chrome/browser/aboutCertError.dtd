@@ -15,17 +15,10 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ndee lowre huutortoo ko HTTP 
-Strict Transport Security (HSTS) ngam joopaade yoo &brandShortName; seŋo tan e mayre e mbaydi kisndi. Ɗuum jibinta ko horaade ɓeydude 
- heen paltol nguu 
-seedamfaagu.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ndee lowre huutortoo ko HTTP Strict Transport Security (HSTS) ngam joopaade yoo &brandShortName; seŋo tan e mayre e mbaydi kisndi. Ɗuum jibinta ko horaade ɓeydude  heen paltol nguu seedamfaagu.">
 
-<!ENTITY certerror.expert.content "So aɗa faami ko yahetee, aɗa 
-waawi wiyde &brandShortName; yoo fuɗɗo hoolaade innital ndee lowre. 
-<b>Hay so aɗa hoolii lowre ndee, ndeen juumre ena waawi firde wonde won 
-gonɗo e wujjitaade seŋol maa.</b>">
-<!ENTITY certerror.expert.contentPara2 "luutndere hoto ɓeydu faltoore so wonaa 
-tawa aɗa anndi daliilu moƴƴo ena woodi ko haɗi ndee lowre huutoraade innital koolangal.">
+<!ENTITY certerror.expert.content "So aɗa faami ko yahetee, aɗa waawi wiyde &brandShortName; yoo fuɗɗo hoolaade innital ndee lowre. <b>Hay so aɗa hoolii lowre ndee, ndeen juumre ena waawi firde wonde won gonɗo e wujjitaade seŋol maa.</b>">
+<!ENTITY certerror.expert.contentPara2 "luutndere hoto ɓeydu faltoore so wonaa tawa aɗa anndi daliilu moƴƴo ena woodi ko haɗi ndee lowre huutoraade innital koolangal.">
 <!ENTITY certerror.addException.label "Ɓeydu Paltoor…">
 
 
