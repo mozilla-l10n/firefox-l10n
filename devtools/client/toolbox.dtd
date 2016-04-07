@@ -215,8 +215,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Dangos data platfform Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Os ydych wedi galluogi'r dewis hwn bydd adroddiadau Proffiliwr JavaScript yn cynnwys 
-symbolau platfform Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Os ydych wedi galluogi'r dewis hwn bydd adroddiadau Proffiliwr JavaScript yn cynnwys symbolau platfform Gecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
