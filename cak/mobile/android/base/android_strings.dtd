@@ -170,7 +170,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "NA\u0027OJ: Tatz\u0027aqatisaj xa b\u0027a achike chi ruxaq k\u0027amaya\u0027l pan acholajem ya\u0027öl kanoxïk rik\u0027in napïtz\u0027 qa yaloj pa ri ruk\u0027ojlem richin kanoxïk chuqa\u0027 nachäp qa ri ruwachib\u0027al &formatI;.">
 <!ENTITY pref_category_advanced "Q\u0027axinäq">
-<!ENTITY pref_category_advanced_summary2 "Kinuk\u0027ik taq ruwi\u0027, taq pluyi, taq rusamajib\u0027al b\u0027anel">
+<!ENTITY pref_category_advanced_summary2 "Kinuk\u0027ik taq ruwi\u0027, taq pluyin, taq rusamajib\u0027al b\u0027anel">
 <!ENTITY pref_developer_remotedebugging "Ruchojmirisaxik chi näj">
 <!ENTITY pref_developer_remotedebugging_usb "Näj chojmirisanem pa USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Näj chojmirisanem pa Wi-Fi">
@@ -628,12 +628,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Jujun taq ichinan tzij man tikirel ta yejosq\u0027ïx el">
 
 <!ENTITY bookmarkhistory_button_import "Tik\u0027am pe">
-<!ENTITY bookmarkhistory_import_both "Kek\u0027wäx el  ri taq yakäl etal chuqa\u0027 k\u0027ulwachinel 
-">
-<!ENTITY bookmarkhistory_import_bookmarks "Kek\u0027wäx el ri taq yakäl etal 
-chuwäch ri Android">
-<!ENTITY bookmarkhistory_import_history "Tik\u0027wäx el ri k\u0027ulwachinel 
-chuwäch ri Android">
+<!ENTITY bookmarkhistory_import_both "Kek\u0027wäx el  ri taq yakäl etal chuqa\u0027 k\u0027ulwachinel ">
+<!ENTITY bookmarkhistory_import_bookmarks "Kek\u0027wäx el ri taq yakäl etal chuwäch ri Android">
+<!ENTITY bookmarkhistory_import_history "Tik\u0027wäx el ri k\u0027ulwachinel chuwäch ri Android">
 <!ENTITY bookmarkhistory_import_wait "Tab\u0027ana\u0027 utzil, tawoyob\u0027ej…">
 
 <!ENTITY suggestions_prompt3 "¿La nawajo\u0027 ye\u0027atzij ri taq chilab\u0027enïk richin yakanon?">
