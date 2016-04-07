@@ -190,8 +190,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Gecko પ્લેટફોર્મ માહિતીને બતાવો">
-<!ENTITY options.showPlatformData.tooltip  "જો તમે આ વિકલ્પ ને સક્રિય કરો તો આ JavaScript પ્રોફાઇલર રિપોર્ટ 
-Gecko પ્લેટફોર્મ સંકેતનો સમાવેશ કરશે">
+<!ENTITY options.showPlatformData.tooltip  "જો તમે આ વિકલ્પ ને સક્રિય કરો તો આ JavaScript પ્રોફાઇલર રિપોર્ટ Gecko પ્લેટફોર્મ સંકેતનો સમાવેશ કરશે">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
