@@ -571,12 +571,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ଗୋପନୀୟ ତଥ୍ୟ ଲିଭାଯାଇଛି">
 <!ENTITY private_data_fail "କିଛି ଗୋପନୀୟ ତଥ୍ୟ ଲିଭିଲାନାହିଁ">
 
-<!ENTITY bookmarkhistory_import_both "ଆଣ୍ଡ୍ରଏଡରୁ ପୃଷ୍ଠାସଂକେତ ଏବଂ 
-ପୁରୁଣା ତଥ୍ୟକୁ ଆମଦାନୀ କରାଯାଉଛି">
-<!ENTITY bookmarkhistory_import_bookmarks "ପୃଷ୍ଠାସଂକେତଗୁଡ଼ିକୁ ଆଣ୍ଡ୍ରଏଡ଼ରୁ  
-ଆମଦାନୀ କରୁଛି">
-<!ENTITY bookmarkhistory_import_history "ଆଣ୍ଡ୍ରଏଡ଼ରୁ ପୁରୁଣା ତଥ୍ୟ 
-ଆମଦାନୀ କରୁଛି">
+<!ENTITY bookmarkhistory_import_both "ଆଣ୍ଡ୍ରଏଡରୁ ପୃଷ୍ଠାସଂକେତ ଏବଂ ପୁରୁଣା ତଥ୍ୟକୁ ଆମଦାନୀ କରାଯାଉଛି">
+<!ENTITY bookmarkhistory_import_bookmarks "ପୃଷ୍ଠାସଂକେତଗୁଡ଼ିକୁ ଆଣ୍ଡ୍ରଏଡ଼ରୁ  ଆମଦାନୀ କରୁଛି">
+<!ENTITY bookmarkhistory_import_history "ଆଣ୍ଡ୍ରଏଡ଼ରୁ ପୁରୁଣା ତଥ୍ୟ ଆମଦାନୀ କରୁଛି">
 <!ENTITY bookmarkhistory_import_wait "ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ…">
 
 <!ENTITY suggestions_prompt3 "ସନ୍ଧାନ ସମ୍ଭାବନାସବୁକୁ ସଚଳ କରିବେ କି?">
