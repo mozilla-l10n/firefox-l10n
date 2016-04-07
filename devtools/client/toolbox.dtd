@@ -199,8 +199,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "గెకో ప్లాట్‌ఫాం దత్తాంశం చూపుము">
-<!ENTITY options.showPlatformData.tooltip  "మీరు ఈ ఐచ్చికం చేతనం చేస్తే జావాస్క్రిప్ట్ ప్రొఫైలర్ అనునది
-గెకో ప్లాట్‌ఫాం చిహ్నాలు నివేదించును">
+<!ENTITY options.showPlatformData.tooltip  "మీరు ఈ ఐచ్చికం చేతనం చేస్తే జావాస్క్రిప్ట్ ప్రొఫైలర్ అనునదిగెకో ప్లాట్‌ఫాం చిహ్నాలు నివేదించును">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
