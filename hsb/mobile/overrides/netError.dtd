@@ -19,24 +19,10 @@
 <!ENTITY dnsNotFound.title "Serwer njebu namakany">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Přepruwujće adresu za pisanskimi zmylkami kaž 
-<strong>ww</strong>.přikład.com město 
-<strong>www</strong>.přikład.com</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Pytać</button> 
-</div> 
-<li>Jeli njemóžeće strony začitać, přepruwujće daty swojeho grata abo WLAN-zwisk. 
-<button id='wifi'>WLAN zmóžnić</button> 
-</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Přepruwujće adresu za pisanskimi zmylkami kaž <strong>ww</strong>.přikład.com město <strong>www</strong>.přikład.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Pytać</button> </div> <li>Jeli njemóžeće strony začitać, přepruwujće daty swojeho grata abo WLAN-zwisk. <button id='wifi'>WLAN zmóžnić</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Dataja njebu namakana">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Přepruwujće datajowe mjeno za wulkopisanskimi abo hinašimi pisanskimi zmylkami.</li> 
-<li>Přepruwujće, hač bu dataja přesunjena, přemjenowana abo wotstronjena.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Přepruwujće datajowe mjeno za wulkopisanskimi abo hinašimi pisanskimi zmylkami.</li> <li>Přepruwujće, hač bu dataja přesunjena, přemjenowana abo wotstronjena.</li> </ul>">
 
 
 <!ENTITY generic.title "Hopla.">
@@ -45,16 +31,7 @@
 <!ENTITY malformedURI.title "Adresa płaćiwa njeje">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> 
-<li>Web-adresy so zwjetša kaž 
-<strong>http://www.přikład.com/</strong> pisaja</li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Pytać</button> 
-</div> 
-<li>Zawěsćće, zo nakósne smužki wužiwaće (t. r. 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Web-adresy so zwjetša kaž <strong>http://www.přikład.com/</strong> pisaja</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Pytać</button> </div> <li>Zawěsćće, zo nakósne smužki wužiwaće (t. r. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Zwisk bu přetorhnjeny">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -65,21 +42,13 @@
 <!ENTITY netOffline.title "Offline-modus">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> 
-<li>Spytajće hišće raz. &brandShortName; spyta zwisk wočinjeć a stronu znowa začitować. 
-<button id='wifi'>WLAN zmóžnić</button> 
-</li> 
-</ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Spytajće hišće raz. &brandShortName; spyta zwisk wočinjeć a stronu znowa začitować. <button id='wifi'>WLAN zmóžnić</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Zmylk při kodowanju wobsaha">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Njewěsty datajowy typ">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> </ul>">
 
 <!ENTITY netReset.title "Zwisk bu wróćo stajeny">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -88,62 +57,31 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Adresa njebu zrozumjena">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Snano dyrbiće druhe programy instalować, zo by so tuta adresa wočiniła.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Snano dyrbiće druhe programy instalować, zo by so tuta adresa wočiniła.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proksy-serwer zwiski wotpokazuje">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Přepruwujće proksy-nastajenja, zo by so zawěsćiło, zo wone su korektne.</li> 
-<li>Skontaktujće swojeho syćoweho administratora, zo by so zawěsćiło, zo proksy-serwer 
-dźěła.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Přepruwujće proksy-nastajenja, zo by so zawěsćiło, zo wone su korektne.</li> <li>Skontaktujće swojeho syćoweho administratora, zo by so zawěsćiło, zo proksy-serwer dźěła.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Njemóžno proksy-serwer namakać">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>Přepruwujće proksy-nastajenja, zo by so zawěsćiło, zo su korektne.</li> 
-<li>Přepruwujće, zo byšće zawěsćił, zo waš grat ma fungowacy datowy abo WLAN-zwisk. 
-<button id='wifi'>WLAN zmóžnić</button> 
-</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Přepruwujće proksy-nastajenja, zo by so zawěsćiło, zo su korektne.</li> <li>Přepruwujće, zo byšće zawěsćił, zo waš grat ma fungowacy datowy abo WLAN-zwisk. <button id='wifi'>WLAN zmóžnić</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Strona njesprawje posrědkuje">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Tutón problem so druhdy přeze zmóžnjenje abo znjemóžnjenje plackow 
-zawinuje.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Tutón problem so druhdy přeze zmóžnjenje abo znjemóžnjenje plackow zawinuje.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Njewočakowana wotmołwa ze serwera">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Pruwujće, hač Personal Security Manager je instalowany na wašim 
-systemje.</li> 
-<li>Přičina je snano njestandardna konfiguracija na wašim serwerje.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Pruwujće, hač Personal Security Manager je instalowany na wašim systemje.</li> <li>Přičina je snano njestandardna konfiguracija na wašim serwerje.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Wěsty zwisk njemóžno">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž awtentiskosć přijatych datow njeda so přepruwować.</li> 
-<li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž awtentiskosć přijatych datow njeda so přepruwować.</li> <li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Wěsty zwisk njemóžno">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>To móhło problem z konfiguraciju serwera być, abo móhło być, 
-zo něchtó pospytuje serwer imitować.</li> 
-<li>Jeli sće ze serwerom w zańdźenosći wuspěšnje zwjazany był, móhł zmylk 
-snano nachwilny być a móžeće pozdźišo hišće raz spytać.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>To móhło problem z konfiguraciju serwera być, abo móhło być, zo něchtó pospytuje serwer imitować.</li> <li>Jeli sće ze serwerom w zańdźenosći wuspěšnje zwjazany był, móhł zmylk snano nachwilny być a móžeće pozdźišo hišće raz spytać.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> 
-<li>Sydło njesteji snano nachwilu k dispoziciji abo je přećežene. Spytajće za mało wokomikow hišće raz.</li> 
-<li>Jeli njemóžeće strony začitać, přepruwujće datowy abo WLAN-zwisk wašeho mobilneho grata. 
-<button id='wifi'>WLAN zmóžnić</button> 
-</li> 
-</ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>Sydło njesteji snano nachwilu k dispoziciji abo je přećežene. Spytajće za mało wokomikow hišće raz.</li> <li>Jeli njemóžeće strony začitać, přepruwujće datowy abo WLAN-zwisk wašeho mobilneho grata. <button id='wifi'>WLAN zmóžnić</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Přez wěstotne prawidła za wobsah zablokowany">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je začitanju tuteje strony na tute wašnje zadźěwał, dokelž strona ma wěstotne prawidła za wobsah, kotrež to njedowoleja.</p>">
@@ -160,10 +98,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Njebyšće měł wuwzaće přidać, jeli internetny zwisk wužiwaće, kotremuž cyle njedowěrjeće abo jeli njewidźiće warnowanje za tutón serwer.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Njebyšće měł wuwzaće přidać, jeli internetny zwisk wužiwaće, kotremuž cyle njedowěrjeće abo jeli njewidźiće warnowanje za tutón serwer.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Zdaleny XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo problemje informował.</li></ul></p>">
