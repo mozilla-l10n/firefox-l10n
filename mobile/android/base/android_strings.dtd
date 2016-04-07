@@ -597,12 +597,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "అంతరంగిక భోగట్టా తుడిచివేయబడింది">
 <!ENTITY private_data_fail "కొంత అంతరంగిక భోగట్టాను తుడిచివేయలేకపోయాం">
 
-<!ENTITY bookmarkhistory_import_both "ఇష్టాంశాలు మరియు చరిత్ర దిగుమతి 
-ఆండ్రాయిడ్ నుండి">
-<!ENTITY bookmarkhistory_import_bookmarks "ఇష్టాంశాల దిగుమతి 
-ఆండ్రాయిడ్ నుండి">
-<!ENTITY bookmarkhistory_import_history "చిరిత్ర దిగుమతి 
-ఆండ్రాయిడ్ నుండి">
+<!ENTITY bookmarkhistory_import_both "ఇష్టాంశాలు మరియు చరిత్ర దిగుమతి ఆండ్రాయిడ్ నుండి">
+<!ENTITY bookmarkhistory_import_bookmarks "ఇష్టాంశాల దిగుమతి ఆండ్రాయిడ్ నుండి">
+<!ENTITY bookmarkhistory_import_history "చిరిత్ర దిగుమతి ఆండ్రాయిడ్ నుండి">
 <!ENTITY bookmarkhistory_import_wait "దయచేసి వేచివుండండి…">
 
 <!ENTITY suggestions_prompt3 "వెతుకుడు సలహాలను చేతనం చెయ్యమంటారా?">
