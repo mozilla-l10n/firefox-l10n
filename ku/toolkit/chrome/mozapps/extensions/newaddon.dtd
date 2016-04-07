@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "Pêvekê bar bike">
-<!ENTITY intro           "Bernameyeke din ya li ser kompîtera te dixwaze ku bi vê pêvekê re 
-&brandShortName;ê biguherîne:">
+<!ENTITY intro           "Bernameyeke din ya li ser kompîtera te dixwaze ku bi vê pêvekê re &brandShortName;ê biguherîne:">
 <!ENTITY warning         "Tenê pêvekên nivîskarên pêbawer saz bike.">
 <!ENTITY allow           "Destûrê bide vê sazkirinê">
 <!ENTITY later           "Tu her tim dikarî bikevî Birêveberiya Pêvekan û guhertinan bikî.">

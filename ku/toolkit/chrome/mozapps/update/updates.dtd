@@ -11,24 +11,16 @@
 <!ENTITY  pluginupdateslink.label         "Bibîne ka plugin çawa tên bilindkirin.">
 
 <!ENTITY  noupdatesfound.title            "Tu Rojanekirin Nehat Dîtin">
-<!ENTITY  noupdatesautoenabled.intro      "Tu rojanekirin tune. &brandShortName; wê bi awayeke periyodîk venêre 
-ji bo rojanekirinan.">
-<!ENTITY  noupdatesautodisabled.intro     "Tu rojanekirin tune. Dîsa biceribîne an jî 
-&brandShortName; çalak bike ku jixweber rojane bike.">
+<!ENTITY  noupdatesautoenabled.intro      "Tu rojanekirin tune. &brandShortName; wê bi awayeke periyodîk venêre ji bo rojanekirinan.">
+<!ENTITY  noupdatesautodisabled.intro     "Tu rojanekirin tune. Dîsa biceribîne an jî &brandShortName; çalak bike ku jixweber rojane bike.">
 
 <!ENTITY  manualUpdate.title              "Nikare Rojane bike">
-<!ENTITY  manualUpdate.desc               "Rojanekirineke ewlekarî û hevgirtinê ya tê pêşniyarkirin heye, lê destûra 
-te ya pergalî tune ye ku wê saz bikî. Tika ye bi rêveberê pergala xwe re 
-bikeve têkiliyê an jî bi hesabekî bidestûr careke din sazkirina li ser vê 
-komputerê biceribîne.">
-<!ENTITY  manualUpdate.space.desc         "Rojanekirineke pêşniyarbûyî ya hevgirtinê heye, lê ji bo sazkirina wê têra xwe 
-ciyê vala tune ye.">
+<!ENTITY  manualUpdate.desc               "Rojanekirineke ewlekarî û hevgirtinê ya tê pêşniyarkirin heye, lê destûra te ya pergalî tune ye ku wê saz bikî. Tika ye bi rêveberê pergala xwe re bikeve têkiliyê an jî bi hesabekî bidestûr careke din sazkirina li ser vê komputerê biceribîne.">
+<!ENTITY  manualUpdate.space.desc         "Rojanekirineke pêşniyarbûyî ya hevgirtinê heye, lê ji bo sazkirina wê têra xwe ciyê vala tune ye.">
 <!ENTITY  manualUpdateGetMsg.label        "Tu her dem dikarî guhertoya dawîn a &brandShortName;ê bistînî li:">
 
 <!ENTITY  unsupported.title               "Pergala Nayê Destekirin">
-<!ENTITY  unsupported.label               "&brandShortName;a te kevn e, lê versiyona nû ji hêla pergala te ve 
-nayê destekirin. Tika ye pergala xwe bilind bike, û paşê dîsa biceribîne. 
-Tu yê vê hişyariyê careke din nebînî, lê tu dikarî">
+<!ENTITY  unsupported.label               "&brandShortName;a te kevn e, lê versiyona nû ji hêla pergala te ve nayê destekirin. Tika ye pergala xwe bilind bike, û paşê dîsa biceribîne. Tu yê vê hişyariyê careke din nebînî, lê tu dikarî">
 <!ENTITY  unsupportedLink.label           "agahiyên din bistînî.">
 
 <!ENTITY  incompatibleCheck.title         "Hevgirtina Add-onê Kontrol Dike">
@@ -36,8 +28,7 @@ Tu yê vê hişyariyê careke din nebînî, lê tu dikarî">
 
 <!ENTITY  clickHere.label                 "Zêdetir agahî derbarê vê rojanekirinê de nîşan bide">
 
-<!ENTITY  evangelism.desc                 "Bi awayeke tund tê pêşniyarkirin ku vê yekê bikî 
-rojane bike ji bo &brandShortName; di demeke herî nêz de.">
+<!ENTITY  evangelism.desc                 "Bi awayeke tund tê pêşniyarkirin ku vê yekê bikî rojane bike ji bo &brandShortName; di demeke herî nêz de.">
 
 <!ENTITY  license.instructions            "Heke şertên vê peymanê bipejirînî Dipejirînim bitikîne û sazkirinê bidomîne.">
 
@@ -68,23 +59,17 @@ rojane bike ji bo &brandShortName; di demeke herî nêz de.">
                                            
 <!ENTITY  errorpatching.intro             "Rojanekirina bi parçe nehat sepandin. &brandShortName; dê daxistina bi temamî biceribîne.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; nikare tê derxe ka rojanekirinek heye an na. Tika ye 
-lê binêre ka &brandShortName;a te guhertoya dawî ya vê ye an na:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Hin tişt rojanekirina ewle ya &brandShortName;ê asteng dikin. 
-Tika ye lê binêre ka &brandShortName; guhertoya dawî ye û ji virê ye:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Hin tişt dixwazin bi rojanekirinên ne ewle &brandShortName;ê 
-bixapînin. Ji kerema xwe re bi pêşkêşkara torê re bikeve têkiliyê alîkariyê bixwaze.">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; nikare tê derxe ka rojanekirinek heye an na. Tika ye lê binêre ka &brandShortName;a te guhertoya dawî ya vê ye an na:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Hin tişt rojanekirina ewle ya &brandShortName;ê asteng dikin. Tika ye lê binêre ka &brandShortName; guhertoya dawî ye û ji virê ye:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Hin tişt dixwazin bi rojanekirinên ne ewle &brandShortName;ê bixapînin. Ji kerema xwe re bi pêşkêşkara torê re bikeve têkiliyê alîkariyê bixwaze.">
 
 <!ENTITY  finishedPage.title              "Rojanekirin ji bo Sazbûnê Amade ye">
-<!ENTITY  finishedPage.text               "Rojanekirin wê cara bê were sazkirin &brandShortName; destpê dike. Tu 
-dikarî &brandShortName; niha ji nû ve bidî destpêkirin, an jî dikarî xebata xwe bidomînî û paşê dîsa bidî destpêkirin.">
+<!ENTITY  finishedPage.text               "Rojanekirin wê cara bê were sazkirin &brandShortName; destpê dike. Tu dikarî &brandShortName; niha ji nû ve bidî destpêkirin, an jî dikarî xebata xwe bidomînî û paşê dîsa bidî destpêkirin.">
 
-<!ENTITY  finishedBackgroundPage.text     "Rojanekirina saxlemiyê ji bo &brandShortName; hat 
-daxistin û ji bo sazkirinê amade ye.">
+<!ENTITY  finishedBackgroundPage.text     "Rojanekirina saxlemiyê ji bo &brandShortName; hat daxistin û ji bo sazkirinê amade ye.">
 <!ENTITY  finishedBackground.name         "Rojanekirin:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Rojanekirin wê di destpêkirina nû ya &brandShortName; were sazkirin. Tu 
-dikarî niha &brandShortName; destpê bikî, an jî xebata xwe bidomînî û paşê dîsa bidî destpêkirin.">
+<!ENTITY  finishedBackground.more         "Rojanekirin wê di destpêkirina nû ya &brandShortName; were sazkirin. Tu dikarî niha &brandShortName; destpê bikî, an jî xebata xwe bidomînî û paşê dîsa bidî destpêkirin.">
 
 <!ENTITY  installed.title                 "Rojanekirin Hat Sazkirin">
 <!ENTITY  installed.intro                 "Rojanekirin bi temamî hat sazkirin.">

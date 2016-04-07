@@ -52,9 +52,7 @@ di dema şandina agahiyan de qut bû. Ji kerema xwe re dîsa biceribîne.</p>
 <!ENTITY contentEncodingError.longDesc "<p>Ji ber ku malpera ku tu dikî vekî formeke jidandinê a nederbasdar an bêdestek bi kar tînî, malper nayê nîşandan.</p><ul><li>Ji kerema xwe re ji bo ragihandina vê pirsgirêkê bi xwediyê malperê re têkeve têkiliyê.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Çewtî: Naveroka Neewle.">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Ji kerema xwe re xwediyên malperê derbarê vê arîşeyê de agahdar bike.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Ji kerema xwe re xwediyên malperê derbarê vê arîşeyê de agahdar bike.</li> </ul>">
 
 <!ENTITY netReset.title "Girêdan Qut Bû">
 <!ENTITY netReset.longDesc "<p>Dema girêdan baş bû girêdana torê qut bû. Ji kerema xwe re dîsa biceribîne.</p>">
@@ -99,10 +97,7 @@ nikare bidomîne.</p>">
 <!ENTITY nssFailure2.longDesc2 "<p>Ji ber ku cureyê şidandinê ê nederbasdar an jî bêdestek bi kar tînî, rûpela ku dixwazî vekî, nayê nîşandan.</p><ul><li>Bi xwediyê malperê re têkeve têkiliyê an jî ji pêşeka alîkariyê zêdetir agahî bixwîne.</li></ul>">
 
 <!ENTITY nssBadCert.title "Girêdana Ewle Têk Çû">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Dibe ku ev çewtî ji ber mîhengên pêşkêşkar be an jî hin kes dikin ku pêşkêşkarê taklît bikin.</li> 
-<li>Heke  di demên borî de te bi awayekî serkeftî bi vê pêşkêşkarê re girêdan çêkiribe, dibe ku ev çewtî demdemî bin û tu dikarî dû re dîsa biceribînî.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Dibe ku ev çewtî ji ber mîhengên pêşkêşkar be an jî hin kes dikin ku pêşkêşkarê taklît bikin.</li> <li>Heke  di demên borî de te bi awayekî serkeftî bi vê pêşkêşkarê re girêdan çêkiribe, dibe ku ev çewtî demdemî bin û tu dikarî dû re dîsa biceribînî.</li> </ul>">
 
 
 
