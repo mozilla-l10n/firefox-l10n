@@ -5,9 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "ព័ត៌មាន​អំពី​ដំណោះស្រាយ​បញ្ហា">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  ទំព័រ​នេះ មាន​ព័ត៌មាន​បច្ចេកទេស​ដែល​អាច​មាន​ប្រយោជន៍ នៅ​ពេល​ដែល​អ្នក 
-ព្យាយាម​ដោះស្រាយ​បញ្ហា ។ ប្រសិនបើ​អ្នក​កំពុង​រក​ចម្លើយ​សម្រាប់​សំណួរ​ទូទៅ 
-អំពី &brandShortName; ពិនិត្យមើល <a id='supportLink'>តំបន់​បណ្ដាញ​គាំទ្រ</a> របស់​យើង ។">
+<!ENTITY aboutSupport.pageSubtitle "  ទំព័រ​នេះ មាន​ព័ត៌មាន​បច្ចេកទេស​ដែល​អាច​មាន​ប្រយោជន៍ នៅ​ពេល​ដែល​អ្នក ព្យាយាម​ដោះស្រាយ​បញ្ហា ។ ប្រសិនបើ​អ្នក​កំពុង​រក​ចម្លើយ​សម្រាប់​សំណួរ​ទូទៅ អំពី &brandShortName; ពិនិត្យមើល <a id='supportLink'>តំបន់​បណ្ដាញ​គាំទ្រ</a> របស់​យើង ។">
 
 <!ENTITY aboutSupport.crashes.title "របាយការណ៍​ការ​គាំង">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):

@@ -209,8 +209,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "បង្ហាញ​ទិន្នន័យ​កម្មវិធី Gecko">
-<!ENTITY options.showPlatformData.tooltip  "បើ​អ្នក​បិទ​ជម្រើស​នេះ របាយការណ៍​កម្មវិធី​បង្កើត​ប្រវត្តិរូប​របស់ JavaScript នឹង​រួម​បញ្ចូល 
-និមិត្តសញ្ញា​កម្មវិធី Gecko">
+<!ENTITY options.showPlatformData.tooltip  "បើ​អ្នក​បិទ​ជម្រើស​នេះ របាយការណ៍​កម្មវិធី​បង្កើត​ប្រវត្តិរូប​របស់ JavaScript នឹង​រួម​បញ្ចូល និមិត្តសញ្ញា​កម្មវិធី Gecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
