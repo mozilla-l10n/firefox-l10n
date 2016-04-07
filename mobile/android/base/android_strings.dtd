@@ -606,12 +606,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "បាន​សម្អាត​ទិន្នន័យ​ឯកជន">
 <!ENTITY private_data_fail "ទិន្នន័យ​ឯកជន​មួយ​ចំនួន​មិន​អាច​សម្អាត​បាន​ទេ">
 
-<!ENTITY bookmarkhistory_import_both "កំពុង​នាំចូល​ចំណាំ និង​ប្រវត្តិ 
-ពី Android">
-<!ENTITY bookmarkhistory_import_bookmarks "កំពុង​នាំចូល​ចំណាំ 
-ពី Android">
-<!ENTITY bookmarkhistory_import_history "កំពុង​នាំចូល​ប្រវត្តិ 
-ពី Android">
+<!ENTITY bookmarkhistory_import_both "កំពុង​នាំចូល​ចំណាំ និង​ប្រវត្តិ ពី Android">
+<!ENTITY bookmarkhistory_import_bookmarks "កំពុង​នាំចូល​ចំណាំ ពី Android">
+<!ENTITY bookmarkhistory_import_history "កំពុង​នាំចូល​ប្រវត្តិ ពី Android">
 <!ENTITY bookmarkhistory_import_wait "សូម​រង់ចាំ...">
 
 <!ENTITY suggestions_prompt3 "តើ​អ្នក​ចង់​បើក​ការ​ស្នើ​ការ​ស្វែងរក​ឬ?">
