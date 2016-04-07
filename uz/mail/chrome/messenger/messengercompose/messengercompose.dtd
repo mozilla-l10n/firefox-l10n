@@ -85,9 +85,9 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Biriktirma nomini o‘zgartirish…">
 <!ENTITY renameAttachmentCmd.accesskey "n">
-
+<!ENTITY selectAllCmd.label "Barchasini tanlash">
 <!ENTITY selectAllCmd.key "A">
-
+<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findBarCmd.label "Topish…">
 <!ENTITY findBarCmd.accesskey "T">
 <!ENTITY findBarCmd.key "F">
@@ -114,8 +114,8 @@
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Formatini o‘zgartirish paneli">
 <!ENTITY showFormattingBarCmd.accesskey "F">
-
-
+<!ENTITY showTaskbarCmd.label "Holat paneli">
+<!ENTITY showTaskbarCmd.accesskey "H">
 <!ENTITY customizeToolbar.label "Qulaylashtirish…">
 <!ENTITY customizeToolbar.accesskey "Q">
 
@@ -127,6 +127,8 @@
 <!ENTITY formatMenu.accesskey "o">
 <!-- Options Menu -->
 
+<!ENTITY optionsMenu.label "Parametrlar">
+<!ENTITY optionsMenu.accesskey "P">
 <!ENTITY checkSpellingCmd2.label "Imloni tekshirish…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
@@ -156,7 +158,7 @@
 <!ENTITY bothFormatCmd.accesskey "O">
 <!ENTITY priorityMenu.label "Muhimlik darajasi">
 <!ENTITY priorityMenu.accesskey "M">
-
+<!ENTITY priorityButton.title "Muhimlik darajasi">
 <!ENTITY priorityButton.tooltiptext "Xabar muhimlik darajasini o‘zgartirish">
 <!ENTITY priorityButton.label "Muhimligi:">
 <!ENTITY lowestPriorityCmd.label "Juda past">
@@ -200,7 +202,7 @@
 
 <!ENTITY sendButton.label "Jo‘natish">
 <!ENTITY quoteButton.label "Iqtibos">
-
+<!ENTITY addressButton.label "Kontaktlar">
 <!ENTITY attachButton.label "Biriktirish">
 <!ENTITY spellingButton.label "Imloni tekshirish">
 <!ENTITY saveButton.label "Saqlash">
@@ -265,12 +267,12 @@
 <!ENTITY spellCheckAddToDictionary.accesskey "L">
 <!ENTITY undo.label "Amalni qaytarish">
 <!ENTITY undo.accesskey "q">
-
-
-
-
-
-
+<!ENTITY cut.label "Kesish">
+<!ENTITY cut.accesskey "K">
+<!ENTITY copy.label "Nusxa olish">
+<!ENTITY copy.accesskey "N">
+<!ENTITY paste.label "Qo‘yish">
+<!ENTITY paste.accesskey "Q">
 <!ENTITY pasteQuote.label "Iqtibos sifatida qo‘yish">
 <!ENTITY pasteQuote.accesskey "I">
 
@@ -282,8 +284,8 @@
 <!ENTITY removeAttachment.accesskey "o">
 <!ENTITY renameAttachment.label "Nomini o‘zgartirish…">
 <!ENTITY renameAttachment.accesskey "N">
-
-
+<!ENTITY selectAll.label "Barchasini tanlash">
+<!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Fayl(lar)ni biriktirish…">
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachCloud.label "Filelink…">
@@ -301,6 +303,8 @@
 <!ENTITY spellAddDictionaries.label "Lug‘atlar qo‘shish…">
 <!ENTITY spellAddDictionaries.accesskey "q">
 <!-- Title for the address picker panel -->
+
+<!ENTITY addressesSidebarTitle.label "Kontaktlar">
 <!-- Identity popup customize menuitem -->
 
 <!ENTITY customizeFromAddress.label "Manzildan sozlab olish…">

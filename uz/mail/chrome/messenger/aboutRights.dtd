@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Huquqlaringiz haqida">
 <!ENTITY rights.intro-header     "Huquqlaringiz haqida">
-
+<!ENTITY rights.intro "&brandFullName; erkin va ochiq kodli dasturiy ta’minot. Unga butun dunyodagi minglab insonlar o‘z hissasini qo‘shgan. Bu yerda bilishingiz kerak boʻlgan ba’zi narsalar bor:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -15,14 +15,21 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
+<!ENTITY rights.intro-point1a "&brandShortName; ">
+<!ENTITY rights.intro-point1b "&quot;Mozilla Public License&quot; (Mozilla ochiq litsenziyasi) shartlari boʻyicha mavjud.">
+<!ENTITY rights.intro-point1c ". Bu degani siz &brandShortName;dan foydalanishingiz, nusxa koʻchirishingiz va boshqalarga tarqatishingiz mumkin. Shuningdek, kerak boʻlsa &brandShortName;ning kodlarini oʻzgartirishingiz ham mumkin. &quot;The Mozilla Public License&quot; (Mozilla ochiq litsenziyasi) sizga kodlari oʻzgartiriglan versiyalarini tarqatish huquqini ham beradi.">
 
-
-
-
+<!ENTITY rights.intro-point2a "Mozilla sizga Mozilla va Thunderbird savdo markamalari yoki logotiplariga hech qanday huquq bermaydi. Savdo markalari bo‘yicha qo‘shimcha ma’lumotlarni ">
+<!ENTITY rights.intro-point2b "bu yerdan topishingiz mumkin">
+<!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
 
-
+<!ENTITY rights.intro-point3a "&vendorShortName;ning mahsulotlari uchun maxfiylik siyoastini ">
+<!ENTITY rights.intro-point3b "bu yerdan topishingiz mumkin">
+<!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "Bu mahsuloat uchun har qanday qabul qilingan maxfiylik siyosati bu yerda koʻrsatilgan boʻlishi kerak.">
 <!-- point 4 text for official branded builds -->
 
 

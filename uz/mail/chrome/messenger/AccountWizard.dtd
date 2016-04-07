@@ -97,12 +97,13 @@
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Chiquvchi xabarlar (SMTP) serveri, &quot;">
-
+<!ENTITY haveSmtp3.suffix3 "&quot;, kirish server bilan bir xil, kiruvchi server uchun foydalanuvchi nomi unga kirish uchun foydalaniladi.">
 <!-- Entities for Account name page -->
 
 
 <!ENTITY accnameTitle.label "Hisob nomi">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Bu hisob bilan bog‘lanishi lozim bo‘lgan nomni kiriting (masalan, &quot;Uy uchun hisob&quot;, &quot;Ish uchun hisob&quot; yoki &quot;Yangiliklar hisobi&quot;).">
 <!ENTITY accnameLabel.label "Hisob nomi:">
 <!ENTITY accnameLabel.accesskey "n">
 <!-- Entities for Done (Congratulations) page -->
