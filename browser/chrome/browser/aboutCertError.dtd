@@ -16,12 +16,8 @@ was trying to connect. -->
 
 
 
-<!ENTITY certerror.expert.content "Ge e ba o kwešiša seo se diregago, o 
-ka botša &brandShortName; go thoma go bota boitsebišo bja saete ye. 
-<b>Gaešita le ge o bota saete, phošo ye e ka ba e bolela gore motho yo mongwe o 
-šitišana le kgokaganyo ya gago.</b>">
-<!ENTITY certerror.expert.contentPara2 "O se ke wa oketša ditlhaolwa ka ntle le ge 
-o tseba gore go na le lebaka le lebotse leo ka lona saete ye e sa dirišego boitsebišo bjo bo botegago.">
+<!ENTITY certerror.expert.content "Ge e ba o kwešiša seo se diregago, o ka botša &brandShortName; go thoma go bota boitsebišo bja saete ye. <b>Gaešita le ge o bota saete, phošo ye e ka ba e bolela gore motho yo mongwe o šitišana le kgokaganyo ya gago.</b>">
+<!ENTITY certerror.expert.contentPara2 "O se ke wa oketša ditlhaolwa ka ntle le ge o tseba gore go na le lebaka le lebotse leo ka lona saete ye e sa dirišego boitsebišo bjo bo botegago.">
 <!ENTITY certerror.addException.label "Oketša setlhaolwa…">
 
 
