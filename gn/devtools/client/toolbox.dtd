@@ -211,8 +211,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Mba'ekuaarã jehechauka Gecko rehegua">
-<!ENTITY options.showPlatformData.tooltip  "Remyandývo poravopyrã marandu ñehesa'ỹijoha JavaScript omoingéta 
-ta'ãnga'i Gecko rehegua">
+<!ENTITY options.showPlatformData.tooltip  "Remyandývo poravopyrã marandu ñehesa'ỹijoha JavaScript omoingéta ta'ãnga'i Gecko rehegua">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

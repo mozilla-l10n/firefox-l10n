@@ -20,17 +20,10 @@ was trying to connect. -->
 <!ENTITY certerror.learnMore "Kuaave…">
 <!ENTITY certerror.advanced.label "Opanungáva">
 
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ko tenda oipuru HTTP 
-(HSTS) omoha'eño &brandShortName; oike hag̃ua
-pype tekorosãme. Tembiapokuéramo, ndaikatúi embojoaju peteĩ oĩ'ỹva ko 
-mboajepyrépe.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ko tenda oipuru HTTP (HSTS) omoha'eño &brandShortName; oike hag̃uapype tekorosãme. Tembiapokuéramo, ndaikatúi embojoaju peteĩ oĩ'ỹva ko mboajepyrépe.">
 
-<!ENTITY certerror.expert.content "Reikuaárõ rejapóva, 
-rejopyva'erã &brandShortName;-pe ojerovia hag̃ua ko tenda reraitére. 
-<b> jepémo oĩ jerovia ko tendáre, ko jejavy he'ise oĩha tapicha 
- omo'ãséva jeike.</b>">
-<!ENTITY certerror.expert.contentPara2 "Ani rembojoapy mba'eve ijyképe 
- oimérô ndereikuaaiporãi mba'érepa ko tenda ndoiporúi teraite mboajepyre.">
+<!ENTITY certerror.expert.content "Reikuaárõ rejapóva, rejopyva'erã &brandShortName;-pe ojerovia hag̃ua ko tenda reraitére. <b> jepémo oĩ jerovia ko tendáre, ko jejavy he'ise oĩha tapicha  omo'ãséva jeike.</b>">
+<!ENTITY certerror.expert.contentPara2 "Ani rembojoapy mba'eve ijyképe  oimérô ndereikuaaiporãi mba'érepa ko tenda ndoiporúi teraite mboajepyre.">
 <!ENTITY certerror.addException.label "Embojoapy oĩ'ỹva...">
 <!ENTITY certerror.copyToClipboard.label "Emondo moñe'ẽrã kuatiajokohápe">
 
