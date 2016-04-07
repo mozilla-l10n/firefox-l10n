@@ -590,12 +590,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "സ്വകാര്യ ഡേറ്റ നീക്കം ചെയ്തു">
 <!ENTITY private_data_fail "ചില സ്വകാര്യ ഡേറ്റ നീക്കം ചെയ്യാൻ സാധിച്ചില്ല">
 
-<!ENTITY bookmarkhistory_import_both "ഓര്‍മ്മക്കുറിപ്പുകളും നാൾവഴിയും ഇറക്കുമതി ചെയ്യുന്നു 
-ആന്‍ഡ്രോയിഡില്‍ നിന്ന്">
-<!ENTITY bookmarkhistory_import_bookmarks "ഓര്‍മ്മക്കുറിപ്പുകൾ ഇറക്കുമതി ചെയ്യുന്നു 
-ആന്‍ഡ്രോയിഡില്‍ നിന്ന്">
-<!ENTITY bookmarkhistory_import_history "നാൾവഴി ഇറക്കുമതി ചെയ്യുന്നു 
-ആന്‍ഡ്രോയിഡില്‍ നിന്ന് ">
+<!ENTITY bookmarkhistory_import_both "ഓര്‍മ്മക്കുറിപ്പുകളും നാൾവഴിയും ഇറക്കുമതി ചെയ്യുന്നു ആന്‍ഡ്രോയിഡില്‍ നിന്ന്">
+<!ENTITY bookmarkhistory_import_bookmarks "ഓര്‍മ്മക്കുറിപ്പുകൾ ഇറക്കുമതി ചെയ്യുന്നു ആന്‍ഡ്രോയിഡില്‍ നിന്ന്">
+<!ENTITY bookmarkhistory_import_history "നാൾവഴി ഇറക്കുമതി ചെയ്യുന്നു ആന്‍ഡ്രോയിഡില്‍ നിന്ന് ">
 <!ENTITY bookmarkhistory_import_wait "ദയവായി കാത്തിരിയ്ക്കുക...">
 
 <!ENTITY suggestions_prompt3 "തിരയല്‍ നിര്‍ദ്ദേശങ്ങള്‍ ഓൺ ചെയ്യണോ?">
