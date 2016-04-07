@@ -38,9 +38,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Ar bajennad emaoc'h o klask gwelout n'hall ket bezañ diskouezet rak un doare koazhañ anskor pe didalvoudek zo arveret ganti.</p><ul><li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Rizh restr arvarus ">
-<!ENTITY unsafeContentType.longDesc " <ul> 
-<li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc " <ul> <li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li> </ul>">
 
 <!ENTITY netReset.title "Ehanet eo bet ar c'hennaskañ">
 <!ENTITY netReset.longDesc "<p>Troc'het eo bet an ereadur ouzh ar rouedad e-pad ma oad o klask kennaskañ outañ. Klaskit en-dro.</p> ">
@@ -67,14 +65,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>N'hall ket bezañ diskouezet ar bajennad emaoc'h o klask gwelout rak n'hall ket bezañ gwiriet  dilested ar roadennoù bet degemeret.</p><ul><li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li></ul>">
 
 <!ENTITY nssBadCert.title "C'hwitadenn war ar c'hennaskañ diarvar">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Marteze e vefe ur gudenn gant kefluniadur an dafariad, pe unan bennak o klask dreveziñ an dafariad.</li> 
-<li>Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eus ur fazi padennek moarvat, klaskit diwezhatoc'h.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Marteze e vefe ur gudenn gant kefluniadur an dafariad, pe unan bennak o klask dreveziñ an dafariad.</li> <li>Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eus ur fazi padennek moarvat, klaskit diwezhatoc'h.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Pe un nemedenn a c'hallit ouzhpennañ…">
-<!ENTITY securityOverride.warningContent "<p>Gwell e vefe deoc'h chom hep ouzhpennañ un nemedenn mar n'eus ket fiziañs penn-da-benn en dafariad-mañ ganeoc'h pe ma n'oc'h ket boaziet gwelout un taol evezh a-berzh an dafariad-mañ.</p> 
-<p>Mar fell deoc'h ouzhpennañ un nemedenn memes tra e vez graet gant hoc'h arventennoù enrinegañ kempleshoc'h.</p> ">
+<!ENTITY securityOverride.warningContent "<p>Gwell e vefe deoc'h chom hep ouzhpennañ un nemedenn mar n'eus ket fiziañs penn-da-benn en dafariad-mañ ganeoc'h pe ma n'oc'h ket boaziet gwelout un taol evezh a-berzh an dafariad-mañ.</p> <p>Mar fell deoc'h ouzhpennañ un nemedenn memes tra e vez graet gant hoc'h arventennoù enrinegañ kempleshoc'h.</p> ">
 
 <!ENTITY cspBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
 <!ENTITY cspBlocked.longDesc "<p>Ar merdeer en deus harzet kargadur ar bajennad-mañ gant an doare-mañ rak difennet eo gant ur reolenn diogelroez a-fet endalc'hadoù eus ar bajennad.</p>">
