@@ -628,12 +628,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Egyes privát adatok nem törölhetők">
 
 <!ENTITY bookmarkhistory_button_import "Importálás">
-<!ENTITY bookmarkhistory_import_both "Könyvjelzők és előzmények importálása 
-Androidról">
-<!ENTITY bookmarkhistory_import_bookmarks "Könyvjelzők importálása 
-Androidról">
-<!ENTITY bookmarkhistory_import_history "Előzmények importálása 
-Androidról">
+<!ENTITY bookmarkhistory_import_both "Könyvjelzők és előzmények importálása Androidról">
+<!ENTITY bookmarkhistory_import_bookmarks "Könyvjelzők importálása Androidról">
+<!ENTITY bookmarkhistory_import_history "Előzmények importálása Androidról">
 <!ENTITY bookmarkhistory_import_wait "Kis türelmet…">
 
 <!ENTITY suggestions_prompt3 "Szeretné bekapcsolni a keresési javaslatokat?">
