@@ -606,12 +606,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ಖಾಸಗಿ ದತ್ತಾಂಶವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ">
 <!ENTITY private_data_fail "ಕೆಲವು ಖಾಸಗಿ ದತ್ತಾಂಶಗಳನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
-<!ENTITY bookmarkhistory_import_both "ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ 
-ಆಮದು ಮಾಡಲಾಗುತ್ತಿದೆ">
-<!ENTITY bookmarkhistory_import_bookmarks "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಆಮದುಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ 
-ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ">
-<!ENTITY bookmarkhistory_import_history "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಇತಿಹಾಸವನ್ನು 
-ಆಮದುಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ">
+<!ENTITY bookmarkhistory_import_both "ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದು ಮಾಡಲಾಗುತ್ತಿದೆ">
+<!ENTITY bookmarkhistory_import_bookmarks "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಆಮದುಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ">
+<!ENTITY bookmarkhistory_import_history "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ">
 <!ENTITY bookmarkhistory_import_wait "ದಯವಿಟ್ಟು ಕಾಯಿರಿ...">
 
 <!ENTITY suggestions_prompt3 "ನೀವು ಹುಡುಕು ಸಲಹೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಬಯಸುವಿರಾ?">
