@@ -618,12 +618,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Datele private curățate">
 <!ENTITY private_data_fail "Unele date private nu au putut fi curățate">
 
-<!ENTITY bookmarkhistory_import_both "Se importă semne de carte și istoric 
-din Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Se importă semne de carte 
-din Android">
-<!ENTITY bookmarkhistory_import_history "Se importă istoricul 
-din Android">
+<!ENTITY bookmarkhistory_import_both "Se importă semne de carte și istoric din Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Se importă semne de carte din Android">
+<!ENTITY bookmarkhistory_import_history "Se importă istoricul din Android">
 <!ENTITY bookmarkhistory_import_wait "Te rugăm să aștepți...">
 
 <!ENTITY suggestions_prompt3 "Dorești să pornești sugestiile de căutare?">
