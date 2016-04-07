@@ -211,8 +211,7 @@ values from browser.dtd.  -->
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "ജക്കോ പ്ലാറ്റ്ഫോ ഡേറ്റാ കാണിയ്ക്കുക">
-<!ENTITY options.showPlatformData.tooltip  "ഈ ഐച്ഛികം സജ്ജമാക്കിയാല്‍, ജാവാസ്ക്രിപ്റ്റ് പ്രൊഫൈലര്‍ 
-റിപോര്‍ട്ടില്‍ ജെക്കോ പ്ലാറ്റ്ഫോം ചിഹ്നങ്ങളും ഉള്‍പ്പെടുന്നു">
+<!ENTITY options.showPlatformData.tooltip  "ഈ ഐച്ഛികം സജ്ജമാക്കിയാല്‍, ജാവാസ്ക്രിപ്റ്റ് പ്രൊഫൈലര്‍ റിപോര്‍ട്ടില്‍ ജെക്കോ പ്ലാറ്റ്ഫോം ചിഹ്നങ്ങളും ഉള്‍പ്പെടുന്നു">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
