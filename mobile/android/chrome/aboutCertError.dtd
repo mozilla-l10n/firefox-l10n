@@ -15,22 +15,15 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Anda ditanya &brandShortName; untuk disambung
- secara selamat ke to <b>#1</b>, tapi kami tidak boleh mengesahkan yang sambungan ialah selamat.">
+<!ENTITY certerror.introPara1 "Anda ditanya &brandShortName; untuk disambung secara selamat ke to <b>#1</b>, tapi kami tidak boleh mengesahkan yang sambungan ialah selamat.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Apa perlu saya buat?">
-<!ENTITY certerror.whatShouldIDo.content "Jika anda selalu sambung ke 
- laman ini tanpa masalah, masalah ini bermaksud ada seseorang telah 
- mencuba untuk menyamar ke laman ini, dan anda tidak perlu teruskan.">
+<!ENTITY certerror.whatShouldIDo.content "Jika anda selalu sambung ke  laman ini tanpa masalah, masalah ini bermaksud ada seseorang telah  mencuba untuk menyamar ke laman ini, dan anda tidak perlu teruskan.">
 <!ENTITY certerror.getMeOutOfHere.label "Keluarkan saya daripada sini!">
 
 <!ENTITY certerror.expert.heading "Saya faham akan risiko ini">
-<!ENTITY certerror.expert.content "Jika anda faham dengan apa yang berlaku, anda 
-boleh beritahu &brandShortName; untuk mula mempercayai identifikasi laman ini. 
-<b>Biarpun jika anda percaya laman ini, masalah ini bermaksud ada seseorang 
-mengganggu sambungan anda.</b>">
-<!ENTITY certerror.expert.contentPara2 "Jangan tambah satu kecuali 
- melainkan anda tahu ada alasan munasabah kenapa laman tidak boleh guna identifikasi yang dipercayai.">
+<!ENTITY certerror.expert.content "Jika anda faham dengan apa yang berlaku, anda boleh beritahu &brandShortName; untuk mula mempercayai identifikasi laman ini. <b>Biarpun jika anda percaya laman ini, masalah ini bermaksud ada seseorang mengganggu sambungan anda.</b>">
+<!ENTITY certerror.expert.contentPara2 "Jangan tambah satu kecuali  melainkan anda tahu ada alasan munasabah kenapa laman tidak boleh guna identifikasi yang dipercayai.">
 <!ENTITY certerror.addTemporaryException.label "Lawat laman">
 <!ENTITY certerror.addPermanentException.label "Tambah pengecualian kekal">
 
