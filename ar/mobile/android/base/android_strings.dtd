@@ -313,7 +313,7 @@ size. -->
 <!ENTITY pref_voice_input "إدخال الصوت">
 <!ENTITY pref_voice_input_summary2 "اسمح بالأوامر الصّوتيّة في شريط المسار">
 <!ENTITY pref_qrcode_enabled "قارئ كود QR">
-<!ENTITY pref_qrcode_enabled_summary2 "اسمح بماسح QR في شريط المسار">
+<!ENTITY pref_qrcode_enabled_summary2 "اسمح بماسح باركود في شريط المسار">
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
 <!ENTITY pref_sync2 "لِج">
@@ -537,7 +537,7 @@ size. -->
 <!ENTITY home_last_tabs_empty "تظهر ألسنتك الأخيرة هنا.">
 <!ENTITY home_open_all "افتح الكل">
 <!ENTITY home_most_recent_empty "آخر المواقع التي زُرتها تظهر هنا.">
-
+<!ENTITY home_selected_empty "المواقع التي زرتها في المدة الزمنية المحددة تظهر هنا.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "تذكّر: استخدام &formatS1;لسان خاص جديد&formatS2; لن يحفظ تأريخ التصفح.">
@@ -548,6 +548,8 @@ size. -->
 <!ENTITY home_default_empty "لم يُعثر على أي محتوى لهذه اللوحة.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "عُد إلى &formatS;">
 
 <!ENTITY home_remote_tabs_title "الألسنة المُزامنة">
 <!ENTITY home_remote_tabs_empty "تظهر ألسنتك من الأجهزة الأخرى هنا.">
@@ -623,12 +625,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "تعذّر مسح بعض البيانات الخاصة">
 
 <!ENTITY bookmarkhistory_button_import "استورد">
-<!ENTITY bookmarkhistory_import_both "يستورد العلامات والتأريخ 
-من أندرويد">
-<!ENTITY bookmarkhistory_import_bookmarks "يستورد العلامات 
-من أندرويد">
-<!ENTITY bookmarkhistory_import_history "يستورد التأريخ 
-من أندرويد">
+<!ENTITY bookmarkhistory_import_both "يستورد العلامات والتأريخ من أندرويد">
+<!ENTITY bookmarkhistory_import_bookmarks "يستورد العلامات من أندرويد">
+<!ENTITY bookmarkhistory_import_history "يستورد التأريخ من أندرويد">
 <!ENTITY bookmarkhistory_import_wait "انتظر من فضلك...">
 
 <!ENTITY suggestions_prompt3 "أتريد تفعيل اقتراحات البحث؟">
