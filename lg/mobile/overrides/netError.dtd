@@ -21,10 +21,7 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Enteresi ebuze">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Kebera erinnya ly'enteresi oba liri mu nnukuta nnene oba lyasobeddwa mukuliwandiika.</li> 
-<li>Kebera olabe oba enteresi yagyibwawo, oba ya kyusibbwa erinnya oba nga lyasanguddwa.</li> 
-</ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Kebera erinnya ly'enteresi oba liri mu nnukuta nnene oba lyasobeddwa mukuliwandiika.</li> <li>Kebera olabe oba enteresi yagyibwawo, oba ya kyusibbwa erinnya oba nga lyasanguddwa.</li> </ul>">
 
 
 <!ENTITY generic.title "Oops.">
@@ -45,14 +42,10 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Ensobi mu kulongoosa Ebirimu">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Bambi tukirira bannanyini kibanja obabuulire kukizibu kino.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Bambi tukirira bannanyini kibanja obabuulire kukizibu kino.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Ekika kya'Fayiro Ekyomutawaana">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Bambi tukirira bannanyini kibanja obabuulire kukizibu kino.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Bambi tukirira bannanyini kibanja obabuulire kukizibu kino.</li> </ul>">
 
 <!ENTITY netReset.title "Okuyungibwa kwaddiddwamu okuteekebwa natte">
 
@@ -61,44 +54,26 @@
 
 
 <!ENTITY unknownProtocolFound.title "Endagiriro teyategeerekese">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Oyinza okwetaaga okuteekamu pulogulamu za kompyuta endala okuggulawo endagiriro eno.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Oyinza okwetaaga okuteekamu pulogulamu za kompyuta endala okuggulawo endagiriro eno.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Kompyuta enfuga zinayo egaanyi obuyunzi">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Kebera entegeka eyokumpi okukakassa nti bituufu.</li> 
-<li>Tegeeza kalabaalaba wempulizigannya yo okakase nti enviisirizi enfuzi kweri 
- ekola.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kebera entegeka eyokumpi okukakassa nti bituufu.</li> <li>Tegeeza kalabaalaba wempulizigannya yo okakase nti enviisirizi enfuzi kweri  ekola.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Tesobodde kuzuula kompyuta effuga zinayo">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "Omuko guno tegulagirira bulungi">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Obuzibu buno oluusi busobola okuleetebwa okulemesa oba okugaana okukiriza 
- kuki.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Obuzibu buno oluusi busobola okuleetebwa okulemesa oba okugaana okukiriza  kuki.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Engabirizi ezemu nga tekissubirwa">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Kebera okakase ng'omuyungiro gwo gulina obukuumi Obwannannyini 
- obwateekebwako.</li> 
-<li>kino kiyinza okuba nga kiva ku ntegeka etari nnuŋŋamu okuva ku kompyuta enfuzi.</li> 
-</ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Kebera okakase ng'omuyungiro gwo gulina obukuumi Obwannannyini  obwateekebwako.</li> <li>kino kiyinza okuba nga kiva ku ntegeka etari nnuŋŋamu okuva ku kompyuta enfuzi.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Okuyunga Okwesigika Kugaanye">
 
 
 <!ENTITY nssBadCert.title "Okuyunga Okwesigika Kugaanye">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Kino kisobola okuba ekizibu ekivudde ku nteekateeka ya enviisirizi kagaba, oba kisobola okuba 
-nga waliwo agezaako okwefuula kagaba.</li> 
-<li>Bwoba ng'oyungiddwa ku ngabizi bulungi emabegako, ensobi 
-eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osobola okuddamu okugezaako oluvannyuma.</li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Kino kisobola okuba ekizibu ekivudde ku nteekateeka ya enviisirizi kagaba, oba kisobola okuba nga waliwo agezaako okwefuula kagaba.</li> <li>Bwoba ng'oyungiddwa ku ngabizi bulungi emabegako, ensobi eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osobola okuddamu okugezaako oluvannyuma.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -117,10 +92,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Tokiriza bitakeberwa oba oli ku mukutu gwo tesiga oba nga tomanyidde kulaba okuwabulwa ku sava eno.</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Tokiriza bitakeberwa oba oli ku mukutu gwo tesiga oba nga tomanyidde kulaba okuwabulwa ku sava eno.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL ku kompyuta endala">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li></ul></p>">
