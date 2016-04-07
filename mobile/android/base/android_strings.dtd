@@ -542,12 +542,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Donadas personalas escafadas">
 <!ENTITY private_data_fail "D\u0027unas donadas personalas pòdon pas èsser escafadas">
 
-<!ENTITY bookmarkhistory_import_both "Importacion dels marcapaginas e de 
-l\u0027istoric dempuèi Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importacion dels marcapaginas 
-dempuèi Android">
-<!ENTITY bookmarkhistory_import_history "Importacion de l\u0027istoric 
-dempuèi Android">
+<!ENTITY bookmarkhistory_import_both "Importacion dels marcapaginas e de l\u0027istoric dempuèi Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importacion dels marcapaginas dempuèi Android">
+<!ENTITY bookmarkhistory_import_history "Importacion de l\u0027istoric dempuèi Android">
 <!ENTITY bookmarkhistory_import_wait "Esperatz...">
 
 <!ENTITY suggestions_prompt3 "Volètz activar las suggestions de recèrca?">
