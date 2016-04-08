@@ -20,7 +20,7 @@
 <!ENTITY  found.wizard.title              "Fandt kompatible tilføjelser">
 <!ENTITY  found.top.label                 "Vælg de tilføjelser du ønsker at opdatere:">	
 <!ENTITY  found.disabledXPinstall.label   "Disse opdateringer kan ikke installeres da programinstallation i øjeblikket er deaktiveret. Du kan ændre denne indstilling herunder.">
-<!ENTITY  found.enableXPInstall.label     "Tillad websteder at installere programmer">
+<!ENTITY  found.enableXPInstall.label     "Tillad websteder at installere software">
 <!ENTITY  found.enableXPInstall.accesskey "T">
 
 <!ENTITY  installing.wizard.title         "Installerer kompatible tilføjelser">
