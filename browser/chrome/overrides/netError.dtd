@@ -83,7 +83,7 @@
 
 
 <!ENTITY securityOverride.linkText "หรือคุณสามารถจะเพิ่มข้อยกเว้น…">
-<!ENTITY securityOverride.getMeOutOfHereButton "พาฉันออกไปจากที่นี่!">
+<!ENTITY securityOverride.getMeOutOfHereButton "นำฉันออกไปจากที่นี่!">
 <!ENTITY securityOverride.exceptionButtonLabel "เพิ่มข้อยกเว้นเว็บไซต์…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
