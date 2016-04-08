@@ -24,7 +24,8 @@
 <!ENTITY ispHeaders.label "Sarlahasi quyidagicha o‘rnatilgan bo‘lsa spam deb hisoblansin: ">
 <!ENTITY ispHeaders.accesskey "T">
 
-
+<!ENTITY junkClassification.label "Tanlash">
+<!ENTITY junkActions.label "Mo‘ljal va eslab qolish">
 
 <!ENTITY globalJunkPrefs.label "Global spam parametrlari…">
 <!ENTITY globalJunkPrefs.accesskey "G">
