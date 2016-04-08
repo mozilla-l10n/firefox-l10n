@@ -17,7 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Bilaketak egitean, eskuratu emaitzak zure laster-marketatik eta historiatik.">
 <!ENTITY firstrun_data_title "Datuak">
 <!ENTITY firstrun_data_message "Datu gutxiago, aurrezpen handiagoa">
-
+<!ENTITY firstrun_data_subtext2 "Desaktibatu irudiak datu gutxiago gastatzeko bisitatzen duzun gune bakoitzean.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, beti zure aldean">
 <!ENTITY firstrun_sync_subtext "Sinkronizatu zure fitxak, pasahitzak eta gehiago erabiltzen duzun toki orotan.">
@@ -230,6 +230,7 @@
 <!ENTITY pref_tap_to_load_images_data "Wi-Fi bidez soilik">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokeatuta">
 
+<!ENTITY pref_show_web_fonts "Erakutsi web letra-tipoak">
 
 <!ENTITY pref_tracking_protection_title "Jarraipenaren babesa">
 <!ENTITY pref_tracking_protection_summary3 "Nabigatze pribatuan gaituta">
@@ -470,7 +471,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Pantaila osoko nabigatzea">
 <!ENTITY pref_scroll_title_bar_summary2 "Ezkutatu &brandShortName;(r)en tresna-barra orria behera korritzean">
 
-
+<!ENTITY pref_tab_queue_title3 "Fitxen ilara">
+<!ENTITY pref_tab_queue_summary4 "Gorde loturak &brandShortName; irekitzen duzun hurrengo aldirako">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -549,6 +551,8 @@ size. -->
 <!ENTITY home_default_empty "Ez da edukirik aurkitu panel honetarako.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Atzera &formatS;(e)ra">
 
 <!ENTITY home_remote_tabs_title "Sinkronizatutako fitxak">
 <!ENTITY home_remote_tabs_empty "Zure beste gailuetako fitxak hemen erakusten dira.">
@@ -767,7 +771,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version "Barkatu! &brandShortName; hau ez da gailu honetan ibiliko (&formatS1;, &formatS2;). Mesedez deskargatu bertsio egokia.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; ez da gehiago eguneratuko">
 <!ENTITY eol_notification_summary "Sakatu argibide gehiagorako">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; eguneratuta dago">
+<!ENTITY whatsnew_notification_summary "Ezagutu zer berritasun dakartzan bertsio honek">

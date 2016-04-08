@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Helbide elektronikoa">
-
+<!ENTITY fxaccount_password_hint "Pasahitza">
 <!ENTITY fxaccount_password_hide "Ezkutatu">
 <!ENTITY fxaccount_password_show "Erakutsi">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \u0027Auto-sinkronizatu datuak\u0027 aukera Androideko Ezarpenak &gt; Datuen erabilpena atalean.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \u0027Auto-sinkronizatu datuak\u0027 aukera Androideko Ezarpenak &gt; Kontuak atalean.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Sakatu zure Firefoxeko kontu berrian saioa hasteko.">
-
+<!ENTITY fxaccount_status_bookmarks "Laster-markak">
 <!ENTITY fxaccount_status_history "Historia">
 <!ENTITY fxaccount_status_passwords2 "Saio-hasierak">
 <!ENTITY fxaccount_status_tabs "Irekitako fitxak">
