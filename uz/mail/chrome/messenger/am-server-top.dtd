@@ -23,10 +23,10 @@
 <!ENTITY biffStart.label "Yangi xabarlarni har">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "daqiqada ko‘rish">
-
-
-
-
+<!ENTITY useIdleNotifications.label "Yangi xabarlar yetib borganda serverdan tezda ogohlantirish xabarlari ko‘rsatilishiga ruxsat berilsin">
+<!ENTITY useIdleNotifications.accesskey "r">
+<!ENTITY connectionSecurity.label "XXavfsiz ulanish:">
+<!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Yo‘q">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, agar mavjud bo‘lsa">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
@@ -63,27 +63,30 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-
+<!ENTITY maxMessagesStart.label "Ushbudan ko‘proq yuklab olishdan oldin mendan so‘ralsin">
+<!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "xabarlar">
+<!ENTITY alwaysAuthenticate.label "Serverga ulanganda doimo shaxsni tasdiqlash so‘ralsin">
+<!ENTITY alwaysAuthenticate.accesskey "d">
+<!ENTITY newsrcFilePath.label "newsrc fayli:">
+<!ENTITY newsrcPicker.label "Newsrc faylini tanlash">
+<!ENTITY abbreviate.label "Yangiliklar to‘plami nomlarini xat jildida yon oyna sifatida ko‘rsatish:">
+<!ENTITY abbreviateOn.label "To‘liq nomlari (Masalan, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Qisqartma nomlari (Masalan, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Qoʻshimcha…">
+<!ENTITY advancedButton.accesskey "Q">
+<!ENTITY serverDefaultCharset2.label "Asosiy matnni kodlash usuli:">
+<!ENTITY localPath.label "Mahalliy direktoriya:">
+<!ENTITY localFolderPicker.label "Kompyuterdagi jildni tanlash">
+<!ENTITY browseFolder.label "Ko‘rish…">
+<!ENTITY browseFolder.accesskey "r">
+<!ENTITY browseNewsrc.label "Ko‘rish…">
+<!ENTITY browseNewsrc.accesskey "r">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY accountTitle.label "Hisob sozlamalari">
+<!ENTITY accountSettingsDesc.label "Quyidagi – maxsus hisob.  Hech qanday shaxsiyat bilan bog‘lanmagan.">
+<!ENTITY storeType.label "Xabarni saqlash turi:">
+<!ENTITY storeType.accesskey "t">
+<!ENTITY mboxStore2.label "Har bir jilddagi fayl (mbox)">
+<!ENTITY maildirStore.label "Har bir xabardagi fayl (maildir)">

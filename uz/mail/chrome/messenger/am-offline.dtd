@@ -44,11 +44,13 @@
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
 
-
-
+<!ENTITY allAutosync.label               "Muddatidan qat’i nazar kompyuterdagi barcha xabarlar sinxronlansin">
+<!ENTITY allAutosync.accesskey           "s">
+<!ENTITY ageAutosyncBefore.label         "Eng so‘nggi xabarlar sinxronlansin">
+<!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
-
-
-
-
+<!ENTITY dayAgeInterval.label            "Kunlik">
+<!ENTITY weekAgeInterval.label           "Haftalik">
+<!ENTITY monthAgeInterval.label          "Oylik">
+<!ENTITY yearAgeInterval.label           "Yillik">
 <!ENTITY ageAutosyncAfter.label          "">
