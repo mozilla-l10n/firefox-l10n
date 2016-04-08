@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "البريد">
-
+<!ENTITY fxaccount_password_hint "كلمة السّر">
 <!ENTITY fxaccount_password_hide "أخفِ">
 <!ENTITY fxaccount_password_show "أظهِر">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في إعدادات أندرويد ← استخدام البيانات.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في قائمة إعدادات أندرويد ← الحسابات.">
 <!ENTITY fxaccount_status_needs_finish_migrating "انقر للولوج إلى حساب فَيَرفُكس الجديد.">
-
+<!ENTITY fxaccount_status_bookmarks "العلامات">
 <!ENTITY fxaccount_status_history "التأريخ">
 <!ENTITY fxaccount_status_passwords2 "جلسات الولوج">
 <!ENTITY fxaccount_status_tabs "الألسنة المفتوحة">
