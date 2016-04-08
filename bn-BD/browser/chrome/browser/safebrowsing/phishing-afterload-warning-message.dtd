@@ -22,7 +22,7 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "ক্ষতিকারক সাইট!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "<span id='phishing_sitename'/> এ ওয়েব পেজ ক্ষতিকারক সাইট হিসেবে রিপোর্ট করা হয়েছে এবং আপনার নিরাপত্তা পছন্দ অনুযায়ী ব্লক করা হয়েছে।">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ক্ষতিকারক সাইটগুলো এমনভাবে তৈরি করা হয় যে আপনাকে বিভ্রান্ত করে কোন বিপদজনক কিছু করার প্রচরণা দেয়, যেমন সফটওয়্যার ইন্সটল করা, বা আপনার ব্যাক্তিগত তথ্য প্রকাশ করতে বাধ্য করা, যেমন পাসওয়ার্ড, ফোন নাম্বার বা ক্রেডিট কার্ড।</p><p>এইসব ওয়েব পেইজে তথ্য দেওয়ার ফলাফল পরিচয় চুরি বা অন্য কোন প্রতারণা হতে পারে।</p>">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "ব্লক করা সাইট">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
