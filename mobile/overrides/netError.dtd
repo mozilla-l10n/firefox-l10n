@@ -26,7 +26,7 @@
 
 
 <!ENTITY generic.title "อุปส์">
-<!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางประการ</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง</p>">
 
 <!ENTITY malformedURI.title "ที่อยู่ไม่ถูกต้อง">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -44,10 +44,10 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> <li>ลองใหม่ &brandShortName; พยายามที่จะเปิดการเชื่อมต่อและโหลดหน้าใหม่ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
-<!ENTITY contentEncodingError.title "การเข้ารหัสอักขระในเนื้อหาผิดพลาด">
+<!ENTITY contentEncodingError.title "ข้อผิดพลาดการเข้ารหัสอักขระเนื้อหา">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
-<!ENTITY unsafeContentType.title "แฟ้มชนิดที่ไม่ปลอดภัย">
+<!ENTITY unsafeContentType.title "ชนิดไฟล์ที่ไม่ปลอดภัย">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
 <!ENTITY netReset.title "การเชื่อมต่อถูกล้าง">
@@ -56,7 +56,7 @@
 <!ENTITY netTimeout.title "การเชื่อมต่อหมดเวลา">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่ตั้งนี้">
+<!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่อยู่นี้">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>คุณอาจต้องติดตั้งโปรแกรมอื่นเพื่อเปิดที่ตั้งนี้</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "เซิร์ฟเวอร์พร็อกซีปฏิเสธการเชื่อมต่อ">
@@ -87,7 +87,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ระงับการโหลดหน้าเว็บ เนื่องจากหน้านี้มีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาตให้โหลดหน้าเว็บด้วยวิธีนี้</p>">
 
 <!ENTITY corruptedContentError.title "ผิดพลาดจากเนื้อหาเสียหาย">
-<!ENTITY corruptedContentError.longDesc "<p>ไม่สามารถแสดงหน้าเว็บที่คุณพยายามเรียกดูได้เนื่องจากเกิดความผิดพลาดในการรับส่งข้อมูล </p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งถึงปัญหานี้</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในการส่งผ่านข้อมูล</p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul>">
 
 <!ENTITY securityOverride.linkText "หรือคุณสามารถเพิ่มข้อยกเว้น…">
 <!ENTITY securityOverride.getMeOutOfHereButton "นำฉันออกไปจากที่นี่!">

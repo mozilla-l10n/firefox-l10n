@@ -77,7 +77,7 @@
 
 <!ENTITY go "ไป">
 <!ENTITY search "ค้นหา">
-<!ENTITY reload "เรียกใหม่">
+<!ENTITY reload "โหลดใหม่">
 <!ENTITY forward "เดินหน้า">
 <!ENTITY menu "เมนู">
 <!ENTITY back "ย้อนกลับ">
