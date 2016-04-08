@@ -92,5 +92,5 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; nie może nawiązać połączenia">
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Stuknij, aby zalogować się jako &formatS;">
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title "Dokończ aktualizację &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Dokończyć aktualizację &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Stuknij, aby zalogować się jako &formatS;">
