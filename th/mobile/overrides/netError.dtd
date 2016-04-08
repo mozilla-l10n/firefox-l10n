@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "เกิดปัญหาในการโหลดหน้า">
-<!ENTITY retry.label "ลองใหม่">
+<!ENTITY retry.label "ลองอีกครั้ง">
 <!-- Specific error messages -->
 
 
