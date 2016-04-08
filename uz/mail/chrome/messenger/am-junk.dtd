@@ -20,8 +20,9 @@
 <!ENTITY whitelistHeader.label "Ushbu jo‘natuvchiga tegishli xabarlar avtomatik tarzda spam sifatida :belgilanasin">
 <!ENTITY whitelistHeader.accesskey ":">
 
-
-
+<!ENTITY ispHeadersWarning.label "Agar bu parametr tanlansa, &brandShortName; bu tashqi tasniflovchi tomonidan belgilangan xabarlarni spam deb hisoblaydi.">
+<!ENTITY ispHeaders.label "Sarlahasi quyidagicha o‘rnatilgan bo‘lsa spam deb hisoblansin: ">
+<!ENTITY ispHeaders.accesskey "T">
 
 
 
