@@ -16,8 +16,8 @@
 <!ENTITY resetPassword.text  "หากคุณล้างรหัสผ่านหลัก รหัสผ่านสำหรับเว็บและอีเมล, ข้อมูลแบบฟอร์ม, ใบรับรองส่วนบุคคล, และกุญแจส่วนตัวทั้งหมดของคุณจะถูกลบล้างไปด้วย คุณแน่ใจหรือไม่ว่าจะล้างรหัสผ่านหลัก">
 <!-- Downloading a cert -->
 
-<!ENTITY downloadCert.title "ดาวน์โหลดใบรับรอง">
-<!ENTITY downloadCert.message1 "คุณได้รับคำร้องขอความเชื่อมั่นจากหน่วยงานให้อนุญาตใบรับรอง (CA)">
+<!ENTITY downloadCert.title "กำลังดาวน์โหลดใบรับรอง">
+<!ENTITY downloadCert.message1 "คุณได้รับคำร้องขอให้เชื่อถือผู้ออกใบรับรอง (CA) ใหม่">
 <!ENTITY downloadCert.trustSSL "เชื่อมั่น CA แห่งนี้สำหรับการระบุเว็บไซต์">
 <!ENTITY downloadCert.trustEmail "เชื่อมั่น CA แห่งนี้สำหรับการระบุผู้ใช้อีเมล">
 <!ENTITY downloadCert.trustObjSign "เชื่อมั่น CA แห่งนี้สำหรับการระบุผู้พัฒนาซอฟต์แวร์">
