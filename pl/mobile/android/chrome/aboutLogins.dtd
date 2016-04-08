@@ -7,4 +7,4 @@
 <!ENTITY aboutLogins.title "Dane logowania">
 <!ENTITY aboutLogins.update "Aktualizuj">
 <!ENTITY aboutLogins.emptyLoginText "Ochrona danych logowania">
-<!ENTITY aboutLogins.emptyLoginHint "Tutaj pojawią się dane logowania zachowywane przez program &brandShortName;.">
+<!ENTITY aboutLogins.emptyLoginHint "Tutaj pojawią się dane logowania zachowywane przez przeglądarkę &brandShortName;.">
