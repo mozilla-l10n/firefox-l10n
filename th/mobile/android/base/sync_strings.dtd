@@ -142,8 +142,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "บัญชีของคุณจำเป็นต้องได้รับการยืนยัน แตะเพื่อส่งอีเมลสำหรับยืนยันตัวตนใหม่">
 <!ENTITY fxaccount_status_needs_credentials "ไม่สามารถเชื่อมต่อ แตะเพื่อเข้าสู่ระบบ">
 <!ENTITY fxaccount_status_needs_upgrade "คุณจำเป็นต้องปรับรุ่น &brandShortName; เพื่อเข้าสู่ระบบ">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ในการตั้งค่า Android &gt; การใช้งานอินเทอร์เน็ต">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ในเมนูการตั้งค่า Android &gt; บัญชี">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ใน การตั้งค่า Android &gt; การใช้ข้อมูล">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ในเมนู การตั้งค่า Android &gt; บัญชี">
 <!ENTITY fxaccount_status_needs_finish_migrating "แตะเพื่อเข้าสู่ระบบบัญชี Firefox ใหม่ของคุณ">
 <!ENTITY fxaccount_status_bookmarks "ที่คั่นหน้า">
 <!ENTITY fxaccount_status_history "ประวัติ">
