@@ -148,15 +148,15 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Websted mistænkt for at sprede skadelige programmer!">
+<!ENTITY malwareBlocked.title "Websted mistænkt for at sprede skadelig software!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Nogle websteder forsøger at installere programmer som stjæler private data, bruge din computer til at angribe andre, eller at skade dit system.</p>
-<p>Ejere af websteder som tror deres websted fejlagtigt er blevet registereret som værende et der spreder skadelige programmer kan <a href='http://www.stopbadware.org/home/reviewinfo'>forespørge om et review</a>.</p>
+<p>Nogle websteder forsøger at installere software som stjæler private data, bruge din computer til at angribe andre, eller at skade dit system.</p>
+<p>Ejere af websteder som tror deres websted fejlagtigt er blevet registereret som et websted, der spreder skadeligsoftware kan <a href='http://www.stopbadware.org/home/reviewinfo'>forespørge om et review</a>.</p>
 ">
 
-<!ENTITY unwantedBlocked.title "Websted mistænkt for uønskede programmer!">
+<!ENTITY unwantedBlocked.title "Websted mistænkt for uønsket software!">
 <!ENTITY unwantedBlocked.longDesc "
-<p>Websteder med uønskede programmer prøver at lokke dig til at installere programmer, som kan påvirke dit system på uventede måder.</p>
+<p>Websteder med uønsket software prøver at lokke dig til at installere software, som kan påvirke dit system på uventede måder.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Mistænkt netsvindel!">
