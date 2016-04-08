@@ -44,6 +44,7 @@
 <!ENTITY draftInOtherFolder.accesskey "B">
 <!ENTITY keepTemplates.label "Xabar namunalarini saqlash joyi:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-
-
-
+<!ENTITY templatesFolderOn.label "&quot;Namunalar&quot; jildi joylashuvi:">
+<!ENTITY templatesFolderOn.accesskey "N">
+<!ENTITY templateInOtherFolder.label "Boshqa:">
+<!ENTITY templateInOtherFolder.accesskey "B">
