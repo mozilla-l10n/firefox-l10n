@@ -79,7 +79,7 @@
 <!ENTITY unwantedBlocked.longDesc "<p>Feuchaidh duilleagan mar seo bathar-bog a stàladh air am bi coltas foilleil agus a mì-ghnàthaicheas an siostam agam air dòighean nach iarradh tu.</p>">
 
 <!ENTITY phishingBlocked.title "Tha amharas gur e fallsaicheachd-lìn a tha seo!">
-<!ENTITY phishingBlocked.longDesc "<p>Dh&apos;fhaodadh goid do dhearbh-aithne no foill eile èirigh dhut ma bheir thu seachad fiosrachadh pearsanta sam bith air an duilleag seo</p><p>Thèid an seòrsa seo de dh&apos;fhallsaidheachd-lìn a chleachdadh ann an cam-ghnothach air a bheil &quot;fiasgach&quot; far a bheil duilleagan-lìn is puist-dhealain a&apos; gabhail orra gu bheil iad nan tùsan earbsach.</p>">
+<!ENTITY phishingBlocked.longDesc "<p>Dh’fhaodadh goid do dhearbh-aithne no foill eile èirigh dhut ma bheir thu seachad fiosrachadh pearsanta sam bith air an duilleag seo</p><p>Thèid an seòrsa seo de dh’fhallsaidheachd-lìn a chleachdadh ann an cam-ghnothach air a bheil “fiasgach” far a bheil duilleagan-lìn is puist-d a’ gabhail orra gu bheil iad ’nan tùsan earbsach.</p>">
 
 <!ENTITY forbiddenBlocked.title "Làrach thoirmisgte">
 <!ENTITY forbiddenBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo a-rèir mar a chaidh a rèiteachadh.</p>">
