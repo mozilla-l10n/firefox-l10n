@@ -196,7 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Zure beste gailuak QR kodea eskaneatzearen ordez tokena eskatzen badu, kopiatu azpiko balioa beste gailuan:">
-
+<!ENTITY wifi_auth_qr_size_note "QR kodea oso txiki agertzen bada konexioa ondo ezartzeko, saiatu zooma erabiltzen edo leihoa handitzen.">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Aurre-paketatze komandoen erregistroa">
