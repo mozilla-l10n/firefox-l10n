@@ -10,7 +10,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "ไม่สามารถเชื่อมต่อได้">
+<!ENTITY connectionFailure.title "ไม่สามารถเชื่อมต่อ">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "ที่อยู่นี้ถูกจำกัด">
@@ -45,10 +45,10 @@
 <!ENTITY netOffline.longDesc3 "<ul> <li>ลองใหม่ &brandShortName; พยายามที่จะเปิดการเชื่อมต่อและโหลดหน้าใหม่ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "การเข้ารหัสอักขระในเนื้อหาผิดพลาด">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งปัญหานี้</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
 <!ENTITY unsafeContentType.title "แฟ้มชนิดที่ไม่ปลอดภัย">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งปัญหานี้</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
 <!ENTITY netReset.title "การเชื่อมต่อถูกล้าง">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -101,7 +101,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY securityOverride.warningContent "<p>คุณไม่ควรเพิ่มข้อยกเว้น ถ้าหากคุณกำลังเชื่อมต่ออินเทอร์เน็ตผ่านเครือข่ายที่คุณไม่อาจเชื่อถือได้เต็มที่ หรือหากคุณไม่เคยพบข้อความเตือนนี้จากเซิร์ฟเวอร์นี้มาก่อน</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL ระยะไกล">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งถึงปัญหานี้</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul></p>">
 
 <!ENTITY sslv3Used.title "ไม่สามารถเชื่อมต่ออย่างปลอดภัย">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
