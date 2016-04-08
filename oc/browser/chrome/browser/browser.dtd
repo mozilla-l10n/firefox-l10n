@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "P">
 <!ENTITY shareVideo.label "Partejar aquesta vidèo">
 <!ENTITY shareVideo.accesskey "a">
-
-
+<!ENTITY feedsMenu2.label "S'abonar a aquesta pagina">
+<!ENTITY subscribeToPageMenupopup.label "S'abonar a aquesta pagina">
 <!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina...">
 <!ENTITY addCurPagesCmd.label "Marcar totes los onglets…">
 <!ENTITY showAllBookmarks2.label "Afichar totes los marcapaginas">
@@ -244,7 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Telecargaments">
 <!ENTITY downloads.accesskey          "T">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Moduls complementaris">
 <!ENTITY addons.accesskey             "e">
 <!ENTITY addons.commandkey            "A">
@@ -759,13 +759,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.enableMixedContentBlocking.label "Activar la proteccion">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "v">
 
 
 <!ENTITY identity.learnMore "Ne saber mai">
 
 
 
+<!ENTITY identity.moreInfoLinkText2 "que lo detentor n'es">
 
 <!ENTITY identity.permissions "Permissions">
 
@@ -784,8 +786,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 
 
-
-
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Apondre aqueste pagina als marcapaginas…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "m">
 
 
 <!ENTITY syncBrand.shortName.label    "Onglets d'autres aparelhs">
@@ -861,20 +863,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Desactivar la proteccion per aqueste site">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Desactivar la proteccion per aqueste site">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Activar la proteccion">
+<!ENTITY trackingProtection.block2.accesskey "v">
 
 <!ENTITY trackingContentBlocked.message "Pistatge">
 
 <!ENTITY trackingContentBlocked.learnMore "Ne saber mai">
-
-
-
+<!ENTITY trackingContentBlocked.options "Opcions">
+<!ENTITY trackingContentBlocked.unblock2.label "Desactivar la proteccion per aqueste site">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activar la proteccion">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 
