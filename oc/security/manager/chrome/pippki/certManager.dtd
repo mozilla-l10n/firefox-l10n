@@ -74,7 +74,7 @@
 <!ENTITY certmgr.fields.label                 "Valor del camp">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Ierarquia dels certificats">
-
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Apondre una excepcion…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
