@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Notificacions">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ne saber mai">
-
+<!ENTITY  notificationsPolicyDesc3.label       "Causissètz los sites que vos pòdon mandar de notificacions">
 <!ENTITY  notificationsPolicyButton.accesskey  "a">
 <!ENTITY  notificationsPolicyButton.label      "Causir…">
 <!ENTITY  notificationsDoNotDisturb.label      "Derrenguetz pas">
