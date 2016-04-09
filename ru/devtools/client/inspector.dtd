@@ -43,3 +43,5 @@
 <!ENTITY inspectorCollapseNode.label "Свернуть">
 <!ENTITY inspectorScreenshotNode.label "Скриншот узла">
 <!ENTITY inspectorDuplicateNode.label "Дубликат узла">
+<!ENTITY inspectorAddNode.label "Создать новый узел">
+<!ENTITY inspectorAddNode.accesskey "з">
