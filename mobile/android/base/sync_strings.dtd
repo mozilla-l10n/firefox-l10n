@@ -12,7 +12,7 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Para activar tu nuevo dispositivo, selecciona \&quot;Configurar &syncBrand.shortName.label;\&quot; en el dispositivo.">
-<!ENTITY sync.subtitle.pair.label "Para activarlo, selecciona “Emparejar un dispositivo” en tu otro dispositivo.">
+<!ENTITY sync.subtitle.pair.label "Para activar, selecciona “Emparejar un dispositivo” en tu otro dispositivo.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "No tengo el dispositivo conmigo…">
 <!-- Configure Engines -->
