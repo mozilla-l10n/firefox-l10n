@@ -42,7 +42,7 @@
 <!ENTITY  crash_send_report_message3 "&vendorShortName; çöküşten haberdar edilsin ki sorunu çözebilsinler">
 <!ENTITY  crash_include_url2 "Baktığım sayfanın adresini dâhil et">
 <!ENTITY  crash_sorry "Üzgünüz">
-<!ENTITY  crash_comment "Yorum ekleyin (yorumlar herkes tarafından görülebilir)">
+<!ENTITY  crash_comment "Yorumunuzu ekleyin (Yorumlar herkes tarafından görülebilir.)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; bu raporla ilgili olarak benimle iletişime geçebilir">
 <!ENTITY  crash_email "E-postanız">
 <!ENTITY  crash_closing_alert "Çökme raporu göndermeden çıkmak mı istiyorsunuz?">
