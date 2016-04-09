@@ -198,7 +198,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName; Inicio">
+<!ENTITY home_homepage_radio_default "Inicio de &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
