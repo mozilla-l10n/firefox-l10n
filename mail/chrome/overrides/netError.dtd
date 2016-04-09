@@ -62,7 +62,7 @@
 <!ENTITY redirectLoop.longDesc " <ul> <li>Bazen bu sorunun nedeni çerezlerin etkisizleştirilmesi veya reddedilmesi olabilmektedir.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Beklenmeyen sunucu yanıtı">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Sisteminizde kişisel güvenlik yöneticisinin kurulu olduğundan emin olun.</li> <li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Sisteminizde Kişisel Güvenlik Yöneticisi'nin kurulu olduğundan emin olun.</li> <li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı hatası">
 <!ENTITY nssFailure2.longDesc2 " <ul> <li>Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.</li> <li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin.</li> </ul>">
