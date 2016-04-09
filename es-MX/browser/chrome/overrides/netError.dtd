@@ -56,7 +56,7 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Necesitas instalar otro programa para abrir esta dirección.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando las conexiones">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Comprueba que la configuración del proxy sea correcta.</li> <li>Comunícate con el administrador de la red para comprobar que el servidor proxy está funcionando.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Comprueba que la configuración del proxy esté correcta.</li> <li>Comunícate con el administrador de la red para comprobar que el servidor proxy está funcionando.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Comprueba que la configuración del proxy esté correcta.</li> <li>Comprueba que la conexión de red de tu computadora esté funcionando.</li> <li>Si tu computadora o red están protegidos por un firewall o proxy, asegúrate que &brandShortName; tiene permisos para acceder a la web.</li> </ul>">
