@@ -516,7 +516,7 @@ size. -->
 
 <!ENTITY button_ok "Aceptar">
 <!ENTITY button_cancel "Cancelar">
-<!ENTITY button_yes "Si">
+<!ENTITY button_yes "Sí">
 <!ENTITY button_no "No">
 <!ENTITY button_clear_data "Limpiar datos">
 <!ENTITY button_set "Establecer">
