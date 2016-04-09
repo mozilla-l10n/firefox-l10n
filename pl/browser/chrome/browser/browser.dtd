@@ -145,7 +145,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Dodaj zakładki do wszystkich kart…">
 <!ENTITY showAllBookmarks2.label "Wyświetl wszystkie zakładki">
 <!ENTITY recentBookmarks.label "Ostatnio dodane">
-<!ENTITY unsortedBookmarksCmd.label "Zakładki nieposortowane">
+<!ENTITY otherBookmarksCmd.label "Pozostałe zakładki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
 
 <!ENTITY backCmd.label "Wstecz" >
@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey        "b">
 
 <!ENTITY bookmarksMenuButton.label          "Zakładki">
-<!ENTITY bookmarksMenuButton.unsorted.label "Zakładki nieprzypisane">
+<!ENTITY bookmarksMenuButton.other.label "Pozostałe zakładki">
 <!ENTITY viewBookmarksSidebar2.label "Wyświetl panel zakładek">
 <!ENTITY viewBookmarksToolbar.label         "Wyświetl pasek zakładek">
 
