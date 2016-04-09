@@ -42,7 +42,7 @@
 <!ENTITY netOffline.title "โหมดออฟไลน์">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>ลองใหม่ &brandShortName; พยายามที่จะเปิดการเชื่อมต่อและโหลดหน้าใหม่ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>ลองอีกครั้ง &brandShortName; พยายามที่จะเปิดการเชื่อมต่อและโหลดหน้าใหม่ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "ข้อผิดพลาดการเข้ารหัสเนื้อหา">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
@@ -57,7 +57,7 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่อยู่นี้">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>คุณอาจต้องติดตั้งโปรแกรมอื่นเพื่อเปิดที่ตั้งนี้</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>คุณอาจจำเป็นต้องติดตั้งซอฟต์แวร์อื่นเพื่อเปิดที่อยู่นี้</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "เซิร์ฟเวอร์พร็อกซีปฏิเสธการเชื่อมต่อ">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>ตรวจสอบการตั้งค่าพร็อกซีให้ถูกต้อง</li> <li>ติดต่อผู้ดูแลเครือข่ายของคุณเพื่อให้มั่นใจว่าพร็อกซีกำลังทำงานอยู่</li> </ul>">
