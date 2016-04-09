@@ -44,6 +44,7 @@
 <!ENTITY translation.errorTranslating.label     "I a agut una error de traduccion sus aquesta pagina.">
 <!ENTITY translation.tryAgain.button            "Ensajatz tornarmai">
 
+<!ENTITY translation.serviceUnavailable.label   "Lo servici de traduccion es actualament indisponible. Tornatz ensajar pus tard.">
 
 <!ENTITY translation.options.menu               "Opcions">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
