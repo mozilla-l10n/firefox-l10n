@@ -67,7 +67,7 @@
 <!ENTITY nssBadCert.title "Falló la conexión segura">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Este podría ser un problema en la configuración del servidor o, en el peor de los casos, un programa o persona intentando hacerse pasar por éste.</li> <li>Si has logrado conectarte a este servidor en otras ocasiones, entonces pudiera ser un problema temporal y podrías intentar conectarte más tarde.</li> </ul>">
 
-<!ENTITY securityOverride.linkText "O puedes añadir una excepción…">
+<!ENTITY securityOverride.linkText "O puedes agregar una excepción…">
 <!ENTITY securityOverride.warningContent "<p>No deberías agregar una excepción si estás utilizando una conexión a Internet que no es confiable o si no estás acostumbrado a ver una advertencia para este servidor.</p><p>Si aún deseas agregar una excepción para este sitio, puedes hacerlo en la configuración de cifrado avanzado</p>">
 
 <!ENTITY cspBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
