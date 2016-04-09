@@ -52,8 +52,8 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 
-
-
+<!ENTITY translation.options.preferences.label  "Preferéncias de traduccion">
+<!ENTITY translation.options.preferences.accesskey "t">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -69,3 +69,5 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
+
+<!ENTITY translation.options.attribution.yandexTranslate "Propulsat per Yandex.Translate">
