@@ -96,14 +96,14 @@
 <!ENTITY engine.addons.label        "Complementos">
 <!ENTITY engine.addons.accesskey    "C">
 
-<!ENTITY choice2a.merge.main.label       "Mezclar la información de este dispositivo con mi información de &syncBrand.shortName.label;">
+<!ENTITY choice2a.merge.main.label       "Fusionar los datos de este dispositivo con mis datos de &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomendado:">
 <!ENTITY choice2a.client.main.label      "Reemplazar toda la información en este dispositivo con mi información de &syncBrand.shortName.label;">
 <!ENTITY choice2a.server.main.label      "Reemplazar los datos de todos los otros dispositivos con los datos de este dispositivo">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; mezclará toda la información del navegador de este dispositivo con tu cuenta de Sync.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; fusionará toda la información del navegador de este dispositivo con tu cuenta de Sync.">
 <!ENTITY confirm.client3.label         "Advertencia: La información de &brandShortName; en este dispositivo  será eliminada:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; copiará tu información de &syncBrand.fullName.label; a este dispositivo.">
 <!ENTITY confirm.server2.label         "Aviso: La iformación de los siguientes dispositivos se sobrescribirá con los datos locales:">
