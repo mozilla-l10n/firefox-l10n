@@ -107,7 +107,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "Se connectar a &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Dobrir las preferénciias del &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Se reconnectar a &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verificatz vòstre compte">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activat">
@@ -821,10 +821,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.closeNotificationItem.label "Mai tard">
 
 <!ENTITY social.directory.label "Repertòri d'activacion">
-
-
-
-
+<!ENTITY social.directory.text "Podètz activar de servici de partiment dempuèi lo repertòri">
+<!ENTITY social.directory.button "Dobrir lo repertòri">
+<!ENTITY social.directory.introText "Clicatz sus un servici per l'apondre a &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Afichar mai">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "Aisinas e foncionalitats suplementàrias">
 <!ENTITY customizeMode.menuAndToolbars.empty "Besonh d'encara mai d'aisinas ?">
@@ -854,7 +854,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "Microfòn de partejar :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-
+<!ENTITY getUserMedia.allWindowsShared.message "L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.">
 
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
 
@@ -907,21 +907,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "Escafar :">
+<!ENTITY panicButton.view.5min                    "Las cinc darrièras minutas">
+<!ENTITY panicButton.view.2hr                     "La doas darrièras oras">
+<!ENTITY panicButton.view.day                     "Las 24 darrièras oras">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc          "Se contunhatz, anatz :">
 <!ENTITY panicButton.view.deleteCookies           "Suprimir los <html:strong>Cookies</html:strong> recents">
 <!ENTITY panicButton.view.deleteHistory           "Suprimir l'<html:strong>Istoric</html:strong> recent">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Tampar totes los <html:strong>onglets</html:strong> e totas las <html:strong>fenèstras</html:strong>">
-
+<!ENTITY panicButton.view.openNewWindow           "Dobrir una novèla fenèstra verge">
 
 <!ENTITY panicButton.view.undoWarning             "Impossible d'anullar aquesta accion.">
+<!ENTITY panicButton.view.forgetButton            "Escafar">
 
-
-
+<!ENTITY panicButton.thankyou.msg1                "Vòstre istoric recent es estat escafat corrèctament.">
+<!ENTITY panicButton.thankyou.msg2                "Bona navigacion !">
 <!ENTITY panicButton.thankyou.buttonlabel         "Mercé !">
 
-
+<!ENTITY emeLearnMoreContextMenu.label            "Ne saber mai suls DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
