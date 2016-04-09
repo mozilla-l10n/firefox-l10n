@@ -71,12 +71,12 @@
 <!ENTITY redirectLoop.longDesc " <ul> <li>Bazen bu sorunun nedeni çerezlerin etkisizleştirilmesi veya reddedilmesi olabilmektedir.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Sunucudan beklenmeyen yanıt">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Sisteminizde Kişisel Güvenlik Yöneticisinin kurulu olduğundan emin olun.</li> <li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Sisteminizde Kişisel Güvenlik Yöneticisi'nin kurulu olduğundan emin olun.</li> <li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı girişimi başarısız">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.</li> <li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Güvenli bağlantı hatalı">
+<!ENTITY nssBadCert.title "Güvenli bağlantı girişimi başarısız">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Bu, sunucunun yapılandırmasıyla ilgili bir sorun olabilir veya birisi sunucuyu taklit etmeye çalışıyor olabilir.</li> <li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden deneyebilirsiniz.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
