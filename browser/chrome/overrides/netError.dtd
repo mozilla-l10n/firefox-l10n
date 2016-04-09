@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "ಪುಟವನ್ನು ಲೋಡ್‍ ಮಾಡುವಲ್ಲಿ ತೊಂದರೆ ಎದುರಾಗಿದೆ">
 <!ENTITY retry.label "ಮರಳಿ ಪ್ರಯತ್ನಿಸು">
-
-
+<!ENTITY returnToPreviousPage.label "ಹಿಂದೆ ಹೋಗು">
+<!ENTITY advanced.label "ಸುಧಾರಿತ">
 <!-- Specific error messages -->
 
 

@@ -17,8 +17,8 @@
 
 
 <!ENTITY trackingProtectionPBMLearnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
-
-
+<!ENTITY changeBlockList.label          "Change ನಿರ್ಬಂಧಿತ ಪಟ್ಟಿ">
+<!ENTITY changeBlockList.accesskey      "C">
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
