@@ -413,7 +413,6 @@
 <!ENTITY home_most_recent_empty "Tutaj pojawiają się ostatnio odwiedzone witryny.">
 <!ENTITY home_selected_empty "Tutaj pojawiają się witryny odwiedzone w wybranym przedziale czasowym.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: W &formatS1;nowej karcie prywatnej&formatS2; historia nie jest zapisywana.">
-<!ENTITY home_reading_list_empty "Tutaj pojawiają się artykuły zachowane na później.">
 
 <!ENTITY home_default_empty "Nie znaleziono treści do wyświetlenia na tym panelu.">
 
