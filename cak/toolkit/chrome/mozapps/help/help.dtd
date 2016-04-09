@@ -26,7 +26,7 @@
 <!ENTITY printButton.tooltip            "Titz'ajb'äx re ruxaq re'">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "Rukanoxik">
+<!ENTITY search.emptytext               "Tikanõx">
 <!ENTITY searchHeader.label             "Taq ruq'i'oj pa ri kanoxïk">
 <!ENTITY toctab.label                   "Rupam">
 <!ENTITY toctab.accesskey               "R">

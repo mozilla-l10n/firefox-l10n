@@ -215,7 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tik'ut pe ri natab'äl">
 
-<!ENTITY searchItem.title             "Rukanoxik">
+<!ENTITY searchItem.title             "Tikanõx">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Tikirib'äl">
