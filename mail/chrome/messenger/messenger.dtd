@@ -683,9 +683,11 @@
 <!ENTITY contextCopyMsgMenu.label "Копировать в папку">
 <!ENTITY contextCopyMsgMenu.accesskey "К">
 <!ENTITY contextKillThreadMenu.label "Пропустить обсуждение">
+<!ENTITY contextKillSubthreadMenu.accesskey "е">
 <!ENTITY contextKillThreadMenu.accesskey "о">
 <!ENTITY contextKillSubthreadMenu.label "Пропустить ветку обсуждения">
 <!ENTITY contextWatchThreadMenu.label "Отслеживать обсуждение">
+<!ENTITY contextWatchThreadMenu.accesskey "л">
 <!ENTITY contextSaveAs.label "Сохранить как…">
 <!ENTITY contextSaveAs.accesskey "С">
 <!ENTITY contextPrint.label "Распечатать…">
