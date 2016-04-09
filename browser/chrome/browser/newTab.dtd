@@ -4,13 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Onglet novèl">
+<!ENTITY newtab.customize.classic "Afichar los sites los mai visitats">
+<!ENTITY newtab.customize.cog.enhanced "Inclure los sites suggerits">
 
-
-
-
-
-
-
+<!ENTITY newtab.customize.cog.learn "Ne saber mai sus aquesta pagina">
+<!ENTITY newtab.customize.title "Personalizar la pagina Onglet novèl">
+<!ENTITY newtab.customize.suggested "Afichar los sites los mai visitats e los que son suggerits">
+<!ENTITY newtab.customize.topsites "Afichar los sites los mai visitats">
 <!ENTITY newtab.customize.blank2 "Afichar una pagina voida">
 <!ENTITY newtab.undo.removedLabel "Vinheta suprimida.">
 <!ENTITY newtab.undo.undoButton "Anullar">

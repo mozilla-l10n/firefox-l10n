@@ -4,7 +4,7 @@
 
 <!ENTITY window.title                     "Excepcions - Traduccion">
 <!ENTITY window.width                     "36em">
-
+<!ENTITY windowClose.key                  "w">
 
 <!ENTITY treehead.languageName.label      "Lengas">
 <!ENTITY removeLanguage.label             "Suprimir la lenga">
