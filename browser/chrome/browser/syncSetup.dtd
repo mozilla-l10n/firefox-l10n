@@ -58,10 +58,10 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY pairDevice.title.label             "Sincronizar un dispositivo">
+<!ENTITY pairDevice.title.label             "Emparejar un dispositivo">
 <!ENTITY addDevice.showMeHow.label          "Muéstrame cómo.">
 <!ENTITY addDevice.dontHaveDevice.label     "No tengo el dispositivo conmigo">
-<!ENTITY pairDevice.setup.description.label  "Para activar, selecciona &quot;Sincronizar un dispositivo&quot; en tu otro dispositivo.">
+<!ENTITY pairDevice.setup.description.label  "Para activar, selecciona &quot;Emparejar un dispositivo&quot; en tu otro dispositivo.">
 <!ENTITY addDevice.setup.enterCode.label    "A continuación, introduce el código:">
 <!ENTITY pairDevice.dialog.description.label "Para activar tu nuevo dispositivo, selecciona &quot;Configurar Sync&quot; en el dispositivo.">
 <!ENTITY addDevice.dialog.enterCode.label   "Ingresa el código que el dispositivo proporciona:">
