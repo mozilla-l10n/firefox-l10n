@@ -771,7 +771,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded "A sua ligação não é privada e a informação que partilha com o site pode ser vista por outros.">
 <!ENTITY identity.description.passiveLoaded2 "Este website contém conteúdo que não é seguro (tais como imagens).">
 <!ENTITY identity.description.passiveLoaded3 "O &brandShortName; bloqueou alguns conteúdos, mas ainda existem elementos na página que não são seguros (como imagens).">
-<!ENTITY identity.description.activeLoaded "Este website contém conteúdo que não é seguro (tais como scripts) e a sua ligação não é privada.">
+<!ENTITY identity.description.activeLoaded "Este website contém conteúdo que não é seguro (tais como scripts) e a sua ligação com o mesmo não é privada.">
 <!ENTITY identity.description.activeLoaded2 "As informações que partilhar com este site (tais como palavras-passe, mensagens, cartões de crédito, etc.) podem ser vistas por outros.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ativar proteção">
