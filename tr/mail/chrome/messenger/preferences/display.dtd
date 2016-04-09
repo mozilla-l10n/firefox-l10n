@@ -37,7 +37,7 @@
 <!-- Fonts and Colors -->
 
 <!ENTITY fontsAndColors1.label   "Yazı Tipleri ve Renkler">
-<!ENTITY defaultFont.label       "Varsayılan Yazıtipi:">
+<!ENTITY defaultFont.label       "Varsayılan yazı tipi:">
 <!ENTITY defaultFont.accesskey   "z">
 <!ENTITY defaultSize.label       "Boyut:">
 <!ENTITY defaultSize.accesskey   "o">

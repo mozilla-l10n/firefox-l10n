@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.appBasicsAppBuildID "Uygulama Yapı Kimliği">
 
 <!ENTITY aboutSupport.accountsTitle "Posta ve Haber Hesapları">
-<!ENTITY aboutSupport.showPrivateData.mainText "Hesap isimlerini dâhil et">
+<!ENTITY aboutSupport.showPrivateData.mainText "Hesap adlarını dahil et">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(bu bilgiler kimliğinizi ortaya çıkarabilir)">
 <!ENTITY aboutSupport.accountsID "Kimlik">
 <!ENTITY aboutSupport.accountsName "Ad">

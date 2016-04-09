@@ -101,10 +101,10 @@
 <!-- Entities for Account name page -->
 
 
-<!ENTITY accnameTitle.label "Hesap Adı">
+<!ENTITY accnameTitle.label "Hesap adı">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Bu hesabı tanımlayan bir isim girin. (örnek: &quot;İş Hesabı&quot;, &quot;Ev Hesabı&quot; veya &quot;Haber Grubu Hesabı&quot;)">
-<!ENTITY accnameLabel.label "Hesap Adı:">
+<!ENTITY accnameLabel.label "Hesap adı:">
 <!ENTITY accnameLabel.accesskey "a">
 <!-- Entities for Done (Congratulations) page -->
 
