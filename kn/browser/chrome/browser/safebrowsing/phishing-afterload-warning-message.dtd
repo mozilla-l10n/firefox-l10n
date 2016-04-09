@@ -18,8 +18,12 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc " ಈ ಜಾಲ ಪುಟ <span id='unwanted_sitename'/>  ಅವಶ್ಯವಲ್ಲದ ತಂತ್ರಾಂಶ ಹೊಂದಿದೆ ಎಂದು ವರದಿ ಮಾಡಿರುವುದರಿಂದ ಮತ್ತು ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ಅನುಸಾರವಾಗಿ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>ಅನವಶ್ಯ ತಂತ್ರಾಂಶ ಪುಟಗಳು ನಿಮ್ಮ ಗಣಕವನ್ನು ವಂಚಿಸುವ ಅಥವಾ ಅನಿರೀಕ್ಷಿತ ಮಾರ್ಗಗಳಿಂದ ಹಾಳುಗೆಡವಂತಹ ತಂತ್ರಾಂಶಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಬಹುದು.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title2 "ವಂಚಕ ತಾಣ!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "<span id='phishing_sitename'/> ನಲ್ಲಿನ ಈ ಜಾಲ ಪುಟವು ಒಂದು ವಂಚಕ ತಾಣದ್ದೆಂದು ವರದಿಯಾಗಿದೆ ಮತ್ತು ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ‍ಅನುಸಾರವಾಗಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
 
 
+<!ENTITY safeb.blocked.forbiddenPage.title2 "ನಿರ್ಬಂಧಿಸಲಾದ ತಾಣ">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "‍<span id='forbidden_sitename'/>ನಲ್ಲಿನ ಜಾಲ ಪುಟವನ್ನು ನಿಮ್ಮ ನಿರ್ವಾಹಕ ‍ಪ್ರೊಫೈಲ್‌ನಿಂದ ನಿರ್ಬಂಧಿಸಲ್ಪಟ್ಟಿದೆ.">
 
