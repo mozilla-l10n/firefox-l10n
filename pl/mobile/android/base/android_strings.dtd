@@ -95,10 +95,8 @@
 <!ENTITY locale_system_default "Domyślny język systemu">
 
 <!ENTITY overlay_share_bookmark_btn_label "Dodaj zakładkę">
-<!ENTITY overlay_share_reading_list_btn_label "Dodaj do listy „Do przeczytania”">
 <!ENTITY overlay_share_label "Przekaż do przeglądarki &brandShortName;">
 <!ENTITY overlay_share_bookmark_btn_label_already "Zakładka już istnieje">
-<!ENTITY overlay_share_reading_list_btn_label_already "Strona jest już zachowana na później">
 <!ENTITY overlay_share_send_other "Przekaż do innych urządzeń">
 
 <!ENTITY overlay_share_send_tab_btn_label "Przekaż do innego urządzenia">
@@ -375,11 +373,6 @@
 <!ENTITY site_settings_title3 "Ustawienia witryny">
 <!ENTITY site_settings_cancel "Anuluj">
 <!ENTITY site_settings_clear "Wyczyść">
-
-<!ENTITY reading_list_added3 "Dodano do czytelni">
-<!ENTITY reading_list_removed "Usunięto stronę z czytelni">
-<!ENTITY reading_list_remove "Usuń z czytelni">
-<!ENTITY reading_list_duplicate "Strona została już dodana do czytelni">
 
 <!ENTITY page_action_dropmarker_description "Dodatkowe czynności">
 
