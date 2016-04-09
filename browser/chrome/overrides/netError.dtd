@@ -93,6 +93,7 @@ functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>ನೀವು ಸಂಪೂರ್ಣವಾಗಿ ನಂಬದಿರುವ ಒಂದು ಅಂತರಜಾಲ ಸಂಪರ್ಕವನ್ನು ಬಳಸುತ್ತಿದ್ದಲ್ಲಿ ಅಥವಾ ಈ ಪರಿಚಾರಕದಿಂದ ಈ ಹಿಂದೆ ಯಾವುದೆ ಎಚ್ಚರಿಕಾ ಸಂದೇಶವು ಕಂಡು ಬಂದಿರದೆ ಇದ್ದಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ನೀವು ಒಂದು ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸಬಾರದು.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.automatic2 "ಈ ತರಹದ ದೋಷಗಳನ್ನು ವರದಿ ಮಾಡಿ Mozillaಗೆ ಅಪಾಯಕಾರಿ ತಾಣಗಳನ್ನು ಗುರುತು ಹಿಡಿಯಲು ಮತ್ತು ತಡೆಹಿಡಿಯಲು ಸಹಾಯ ಮಾಡಿ">
 <!ENTITY errorReporting.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ...">
 
 <!ENTITY remoteXUL.title "ದೂರಸ್ಥ XUL">
@@ -101,9 +102,12 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "ಸುಧಾರಿತ ಮಾಹಿತಿ: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "ನಿಮ್ಮ ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ‍">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
+<!ENTITY weakCryptoUsed.longDesc2 "ಸುಧಾರಿತ ಮಾಹಿತಿ: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "ಸುಧಾರಿತ">
 
 
