@@ -34,7 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Succès !">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; es prèst.">
 
-
+<!ENTITY welcomeback2.label.restoreAll  "Restablir totas las fenèstras e totes los onglets">
+<!ENTITY welcomeback2.label.restoreSome "Causir çò que vòli restablir">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
@@ -43,6 +44,7 @@ their language.
 -->
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "obténer mai d'informacion sus las autras possibilitats.">
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 

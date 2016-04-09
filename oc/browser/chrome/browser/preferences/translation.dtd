@@ -9,8 +9,8 @@
 <!ENTITY treehead.languageName.label      "Lengas">
 <!ENTITY removeLanguage.label             "Suprimir la lenga">
 <!ENTITY removeLanguage.accesskey         "r">
-
-
+<!ENTITY removeAllLanguages.label         "Suprimir totas las lengas">
+<!ENTITY removeAllLanguages.accesskey     "i">
 
 <!ENTITY treehead.siteName.label          "Sites">
 <!ENTITY removeSite.label                 "Suprimir lo site">
