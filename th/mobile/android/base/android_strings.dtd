@@ -747,7 +747,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "การตั้งค่าขั้นสูง">
 <!ENTITY restrictable_feature_advanced_settings_description "สิ่งนี้รวมถึงการนำเข้าที่คั่นหน้า การเรียกคืนแท็บ และการปรับปรุงอัตโนมัติ ปิดเพื่อใช้การตั้งค่าแบบเรียบง่ายที่เหมาะสมสำหรับสมาชิกทุกคนในครอบครัว">
 <!ENTITY restrictable_feature_camera_microphone "กล้องและไมโครโฟน">
-
+<!ENTITY restrictable_feature_camera_microphone_description "อนุญาตให้สมาชิกในครอบครัวมีส่วนร่วมในการสื่อสารตามเวลาจริงบนเว็บไซต์">
 <!ENTITY restrictable_feature_block_list "รายการการปิดกั้น">
 <!ENTITY restrictable_feature_block_list_description "ปิดกั้นเว็บไซต์ที่มีเนื้อหาล่อแหลม">
 <!-- Default Bookmarks titles-->
