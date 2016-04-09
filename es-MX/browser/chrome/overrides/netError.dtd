@@ -26,7 +26,7 @@
 
 
 <!ENTITY generic.title "¡Chin!">
-<!ENTITY generic.longDesc "<p>&brandShortName; no puede cargar esta página por algúna razón.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; no puede cargar esta página por alguna razón.</p>">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
 <!ENTITY malformedURI.longDesc "<ul>  <li>Las direcciones web se escriben usualmente como <strong>http://www.example.com/</strong></li> <li>Verifica que estás usando las diagonales correctas (i.e. <strong>/</strong>).</li> </ul>">
