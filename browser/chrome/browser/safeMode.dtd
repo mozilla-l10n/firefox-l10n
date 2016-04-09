@@ -11,6 +11,7 @@
 <!ENTITY safeModeDescription3.label   "Lo mòde sens fracàs es un mòde particular de &brandShortName; pòt èsser utilizat per resòlvre de problèmas.">
 <!ENTITY safeModeDescription4.label   "Vòstres moduls e paramètres personalizats seràn temporàriament desactivats.">
 
+<!ENTITY refreshProfileInstead.label  "Tanben podètz quitar lo mòde sens fracàs e aviar la reparacion automatica de &brandShortName;.">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
 <!ENTITY autoSafeModeDescription3.label "&brandShortName; s'es tampat inopinadament al moment de son aviada. Aquò pòt èsser causat per de moduls o per d'autres problèmas. Podètz ensajar de resòlvre lo problèma via lo mòde sens fracàs.">

@@ -2,23 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY  trackingProtectionHeader.label       "Utilizar la proteccion contra lo seguiment">
+<!ENTITY  trackingProtectionAlways.label       "Totjorn">
+<!ENTITY  trackingProtectionAlways.accesskey   "T">
+<!ENTITY  trackingProtectionPrivate.label      "Soque las fenèstras privadas">
+<!ENTITY  trackingProtectionPrivate.accesskey  "q">
+<!ENTITY  trackingProtectionNever.label        "Pas jamai">
+<!ENTITY  trackingProtectionNever.accesskey    "j">
 <!ENTITY  trackingProtectionLearnMore.label    "Ne saber mai">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "Excepcions…">
+<!ENTITY  trackingProtectionExceptions.accesskey "E">
 
 <!ENTITY tracking.label                 "Pistatge">
 
 
 <!ENTITY trackingProtectionPBMLearnMore.label "Ne saber mai">
-
-
+<!ENTITY changeBlockList.label          "Cambiar la llista de blocatge">
+<!ENTITY changeBlockList.accesskey      "C">
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+
+<!ENTITY  doNotTrack.pre.label          "Tanben podètz...">
 
 
 

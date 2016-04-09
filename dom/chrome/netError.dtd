@@ -68,7 +68,7 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensaja d'usurpar l'identitat del servidor.</li> <li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "O podètz apondre una excepcion…">
-
+<!ENTITY securityOverride.warningContent "<p>Vos cal pas apondre d'excepcion s'utilizatz una connexion a Internet dins la quala avètz pas totalament fisança o s'avètz pas la costuma de recebre un avertiment per aqueste servidor.</p> <p>Se volètz encara apondre una excepcion a aqueste site, lo podètz far dins vòstres paramètres de criptatge avançat.</p>">
 
 <!ENTITY cspBlocked.title "Blocat per Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>Lo navigador a empachat lo cargament d'aquesta pagina d'aqueste biais perque la pagina a una estrategia de seguretat de contengut que lo permet pas.</p>">
