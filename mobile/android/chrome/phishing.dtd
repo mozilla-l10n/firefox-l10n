@@ -22,4 +22,6 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "ಈ ಜಾಲ ಪುಟವನ್ನು <span id='unwanted_sitename'/> ನಲ್ಲಿ ಅವಶ್ಯವಿಲ್ಲದ ತಂತ್ರಾಂಶ ಇರುವುದೆಂದು ವರದಿ ಮಾಡಲಾಗಿರುವುದರಿಂದ ಮತ್ತು ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ಅನುಸಾರವಾಗಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "ಅವಶ್ಯವಿಲ್ಲದ ತಂತ್ರಾಂಶ ಪುಟಗಳು ನಿಮ್ಮ ಗಣಕವನ್ನು ಅನಿರೀಕ್ಷಿತ ದಾರಿಗಳಿಂದ ಬಾಧಿಸುವ ಮತ್ತು ವಂಚಕ ತಂತ್ರಾಂಶಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಪ್ರಯತ್ನಪಡಬಹುದು.">
 
+<!ENTITY safeb.blocked.forbiddenPage.title2 "ನಿರ್ಬಂಧಿಸಲಾದ ತಾಣ">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "‍<span id='forbidden_sitename'/>ನಲ್ಲಿನ ಜಾಲ ಪುಟವನ್ನು ನಿಮ್ಮ ನಿರ್ವಾಹಕ ‍ಪ್ರೊಫೈಲ್‌ನಿಂದ ನಿರ್ಬಂಧಿಸಲ್ಪಟ್ಟಿದೆ.">
