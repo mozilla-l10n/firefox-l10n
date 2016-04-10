@@ -356,7 +356,6 @@
 <!ENTITY home_most_recent_empty "In questa sezione verranno visualizzati i siti web più recenti.">
 <!ENTITY home_selected_empty "In questa sezione verranno visualizzati i siti web visitati nell’intervallo di tempo selezionato.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: utilizzando una &formatS1;Nuova scheda anonima&formatS2; non verrà salvata alcuna cronologia.">
-<!ENTITY home_reading_list_empty "In questa sezione verranno visualizzati gli articoli da leggere.">
 <!ENTITY home_default_empty "Nessun contenuto disponibile per questo pannello.">
 <!ENTITY home_move_back_to_filter "Ritorna a &formatS;">
 <!ENTITY home_remote_tabs_title "Schede sincronizzate">
