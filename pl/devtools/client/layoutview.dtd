@@ -5,5 +5,6 @@
 <!ENTITY layoutViewTitle "Model pudełkowy">
 <!ENTITY margin.tooltip "margines">
 <!ENTITY border.tooltip "obramowanie">
-<!ENTITY padding.tooltip        "padding">
-<!ENTITY content.tooltip        "treść">
+<!ENTITY padding.tooltip "padding">
+<!ENTITY content.tooltip "treść">
+<!ENTITY geometry.button.tooltip "Edytuj położenie">
