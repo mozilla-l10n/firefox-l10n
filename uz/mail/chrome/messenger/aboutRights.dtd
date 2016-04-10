@@ -62,8 +62,8 @@
 <!-- points 1-7 text for branded builds -->
 
 <!ENTITY rights.webservices-term1 "&vendorShortName; ehtiyotkorlik uchun &quot;Xizmarlar&quot; ko‘rsatishni to‘xtatishi yoki uni o‘zgartirishi mumkin.">
-
-
-
+<!ENTITY rights.webservices-term2 "Siz ushbu &quot;Xizmatlar&quot;dan &brandShortName;ning mavjud versiyasi bilan birga foydalanishingiz mumkin. Buning uchun sizga barcha huquqlar berilgan. &vendorShortName; va uning litsenziya beruvchilari barcha boshqa huquqlarni &quot;Xizmatlar&quot;ga saqlaydi.  Ushbu shartlar &brandShortName;da qoʻllanadigan ochiq kod litsenziyalari ostidagi kafolatlangan huquqlarni va &brandShortName; versiyalari manba kodini oʻzgartirishni cheklamaydi.">
+<!ENTITY rights.webservices-term3 "Ushbu xizmat &quot;boricha&quot; ko‘rsatiladi.  &vendorShortName;, dasturchilari, litsenziya egalari va tarqatuvchilari barcha kafolatlarni rad etishadi (tezlik yoki biror narsaga tegishli, shaxsiy maqsadlarda foydalanish yoki savdo maqsadidagi xizmatlarda).  Xizmatlar ijrosi va sifatiga munosabatda va maqsadlaringiz uchun xizmat tanlash bilan siz butun xavf-xatarni o‘z zimmangizga olasiz. Bir nechta huquqiy hujjatlar istisno yoki kafolatga ta’sir qiladigan cheklovlarga ruxsat bermaydi, shunday ekan ushbu rad qilishning sizga aloqasi bo‘lmasligi mumkin.">
+<!ENTITY rights.webservices-term4 "Istisno holatlarda qonun quyidagilarni talab qiladi, &vendorShortName;, uning ishchilari, litsenziya beruvchilar va tarqatuvchilar noto‘g‘ri, maxsus, tasodifiy, davom etadigan yoki  jarima to‘lanadigan yoki zarar uchun jazolash, &brandShortName;dan foydalanishda ishdan chiqish va xizmatlar uchun javob bermaydi.  Ushbu shartlarga muvofiq ish jamoasi javobgarligi  $500 (besh yuz dollar)dan oshmasligi kerak. Ba’zi huquqiy qonunlar istisnoga yoki aniqlangan zararni cheklashga ruxsat bermaydi, shuning uchun hozirgi istisno va cheklovlarning sizga aloqasi bo‘lmasligi mumkin.">
 
 
