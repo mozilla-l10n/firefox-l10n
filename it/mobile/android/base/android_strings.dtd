@@ -21,6 +21,9 @@
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
 <!ENTITY firstrun_button_next "Successivo">
 <!ENTITY onboard_start_restricted1 "Sicurezza e controllo garantiti grazie a questa versione semplificata di &brandShortName;.">
+<!ENTITY reading_list_migration_title "Connessione Elenco lettura">
+<!ENTITY reading_list_migration_subtext "Gli elementi salvati in Elenco lettura verranno aggiunti ai segnalibri">
+<!ENTITY reading_list_migration_goto_bookmarks "Vai ai segnalibri">
 <!ENTITY bookmarks_title "Segnalibri">
 <!ENTITY home_title "&brandShortName; Home">
 <!ENTITY history_title "Cronologia">
