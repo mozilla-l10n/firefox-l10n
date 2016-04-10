@@ -153,3 +153,5 @@
 <!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users
      duplicate the currently selected node. -->
+
+<!ENTITY inspectorDuplicateNode.label       "ನಕಲು ನೋಡ್">
