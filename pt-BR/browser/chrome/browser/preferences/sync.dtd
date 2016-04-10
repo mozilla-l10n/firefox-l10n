@@ -14,7 +14,7 @@
 <!ENTITY resetPass.label              "Redefinir">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Gerenciar conta">
+<!ENTITY manageAccount.label          "Gerenciar Conta">
 <!ENTITY manageAccount.accesskey      "G">
 <!ENTITY changePassword2.label        "Alterar senha…">
 <!ENTITY myRecoveryKey.label          "Minha chave de recuperação">
@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Você não está conectado.">
 <!ENTITY signIn.label                "Identificar-se">
 <!ENTITY profilePicture.tooltip      "Alterar imagem do perfil">
-<!ENTITY verifiedManage.label        "Gerenciar conta">
+<!ENTITY verifiedManage.label        "Gerenciar Conta">
 <!ENTITY disconnect.label            "Desconectar…">
 <!ENTITY verify.label                "Confirmar e-mail">
 <!ENTITY forget.label                "Esquecer este e-mail">
