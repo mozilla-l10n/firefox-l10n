@@ -14,18 +14,19 @@
 
 <!ENTITY firstrun_bookmarks_title "ಇತಿಹಾಸ">
 
-
+<!ENTITY firstrun_bookmarks_subtext "ನೀವು ಹುಡುಕುವಾಗ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸದಿಂದ ಫಲಿತಾಂಶ ಪಡೆಯಿರಿ.">
 <!ENTITY firstrun_data_title "ಮಾಹಿತಿ">
 <!ENTITY firstrun_data_message "ಕಡಿಮೆ ದತ್ತಾಂಶ, ಹೆಚ್ಚು ಉಳಿತಾಯ">
-
+<!ENTITY firstrun_data_subtext2 "‍ನೀವು ವಿಹರಿಸುವ ಪ್ರತಿಯೊಂದೂ ತಾಣದಲ್ಲಿ ಕಡಿಮೆ ಡೇಟಾ ವ್ಯಯಿಸಲು ಚಿತ್ರಗಳನ್ನು ಅಡಗಿಸಿ. ">
 <!ENTITY firstrun_sync_title "ಸಿಂಕ್">
 <!ENTITY firstrun_sync_message "&brandShortName;, ಯಾವಾಗಲೂ ನಿಮ್ಮ ಜೊತೆ">
-
-
+<!ENTITY firstrun_sync_subtext "‍ನೀವು ಬಳಸುವೆಲ್ಲೆಡೆಗಳಿಂದ ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು, ಗುಪ್ತಪದಗಳನ್ನು ಮತ್ತು ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್ ಮಾಡಿ.">
+<!ENTITY firstrun_signin_message "ಸಂಪರ್ಕಕ್ಕೆ ಬನ್ನಿ, ಪ್ರಾರಂಭಿಸಲು ಅನುವಾಗಿ">
 <!ENTITY firstrun_signin_button "ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಆಗಿ">
 <!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
 <!ENTITY firstrun_button_next "ಮುಂದೆ">
 
+<!ENTITY  onboard_start_restricted1 "‍ಸರಳಗೊಳಿಸಿರುವ ‍&brandShortName; ಆವೃತ್ತಿಯಿಂದ ಸುರಕ್ಷಿತವಾಗಿರಿ ಮತ್ತು ಹತೋಟಿಯಲ್ಲಿರಿ.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -102,6 +103,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "‍ಆಡಿಯೋ ಪ್ಲೇ ಆಗುತ್ತಿದೆ –‍ &formatS;">
 
 <!ENTITY settings "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY settings_title "ಸಿದ್ಧತೆಗಳು">
@@ -168,7 +170,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: ಯಾವುದೇ ಜಾಲತಾಣವನ್ನು ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಅದರ ಹುಡುಕು ವಲಯದಲ್ಲಿ ದೀರ್ಘವಾಗಿ ಒತ್ತಿ ಮತ್ತು &formatI; ಲಾಂಛನದ ಮೇಲೆ ತಟ್ಟಿ.">
 <!ENTITY pref_category_advanced "ಸುಧಾರಿತ">
-
+<!ENTITY pref_category_advanced_summary2 "ಟ್ಯಾಬ್‌ಗಳನ್ನು, ಪ್ಲಗಿನ್‌ಗಳನ್ನು, ಡೆವೆಲಪರ್ ಸಲಕರಣೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ">
 <!ENTITY pref_developer_remotedebugging "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್">
 <!ENTITY pref_developer_remotedebugging_usb "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್ USB ಮೂಲಕ">
 <!ENTITY pref_developer_remotedebugging_wifi "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್ Wi-Fi ಮೂಲಕ">
