@@ -103,6 +103,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "ದೂರಸ್ಥ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ಈ ತೊಂದರೆಯ ಬಗ್ಗೆ ಜಾಲತಾಣದ ಮಾಲಿಕರಿಗೆ ತಿಳಿಸಲು ಅವರನ್ನು ಸಂಪರ್ಕಸಿ.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "ಸುಧಾರಿತ ಮಾಹಿತಿ: ‍SSL_ERROR_UNSUPPORTED_VERSION">

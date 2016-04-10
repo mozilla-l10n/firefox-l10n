@@ -599,14 +599,14 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "ಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
 <!ENTITY identity_connection_insecure "ಅಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
-
+<!ENTITY identity_login_insecure "ಈ ಪುಟ ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ ಮತ್ತು ನಿಮ್ಮ ಲಾಗಿನ್ ‍ದಾಳಿಗೊಳಗಾಗಬಹುದು.">
 <!ENTITY identity_connection_chromeui "ಇದು ಸುರಕ್ಷಿತ &brandShortName; ಪುಟ">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ಸುರಕ್ಷಿತವಲ್ಲದ ಮಾಹಿತಿಯನ್ನು ಈ ಪುಟದಲ್ಲಿ ನಿರ್ಬಂಧಿಸಿದೆ.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ಕೆಲವು ಸುರಕ್ಷಿತವಲ್ಲದ ಮಾಹಿತಿಯನ್ನು ಈ ಪುಟದಲ್ಲಿ ನಿರ್ಬಂಧಿಸಿದೆ.">
 <!ENTITY mixed_content_display_loaded1 "ಪುಟದ ಕೆಲ ಭಾಗಗಳು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ(ಚಿತ್ರಗಳಂತಹವು).‍">
-
+<!ENTITY mixed_content_protection_disabled1 "‍ಸುರಕ್ಷಿತವಲ್ಲದ ಮಾಹಿತಿ ಸುರಕ್ಷತೆಯನ್ನು ನೀವು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದೀರಿ.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ">
@@ -660,6 +660,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "‍ಕಡತಗಳನ್ನು ಮತ್ತು ಪರಿಷ್ಕರಣೆಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು, &brandShortName; ಶೇಖರಣೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಅನುಮತಿ ನೀಡಿ.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "ಅನುಮತಿಸು">
 <!-- Guest mode -->    
@@ -755,10 +757,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_support "Firefox: ಬೆಂಬಲ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "ಜಾಲವನ್ನು ಕಲಿಯಿರಿ: ‍Mozilla Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_title2 "&brandShortName; ಇನ್ಮುಂದೆ ಪರಿಷ್ಕರಣೆಗೊಳ್ಳುವುದಿಲ್ಲ">
 <!ENTITY eol_notification_summary "ಹೆಚ್ಚು ಕಲಿಯಲು ಮೆಲ್ಲನೆ ತಟ್ಟಿ">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
