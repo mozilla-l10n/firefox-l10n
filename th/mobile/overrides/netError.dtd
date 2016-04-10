@@ -37,7 +37,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "เอกสารหมดอายุ">
-<!ENTITY notCached.longDesc "<p>เอกสารที่เรียก ไม่อยู่ในแคชของ &brandShortName;</p><ul><li>ตามมาตรการการรักษาความปลอดภัย &brandShortName; จะไม่เรียกเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>กดลองอีกครั้ง เพื่อเรียกเอกสารจากเว็บไซต์ใหม่</li></ul>">
+<!ENTITY notCached.longDesc "<p>เอกสารที่ร้องขอไม่มีในแคชของ &brandShortName;</p><ul><li>ตามมาตรการรักษาความปลอดภัย &brandShortName; จะไม่ร้องขอเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>คลิก ลองอีกครั้ง เพื่อร้องขอเอกสารจากเว็บไซต์ใหม่</li></ul>">
 
 <!ENTITY netOffline.title "โหมดออฟไลน์">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -68,7 +68,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>ตรวจสอบให้แน่ใจว่าการตั้งค่าพร็อกซีถูกต้อง</li> <li>ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณมีการเชื่อมต่อข้อมูลหรือ Wi-Fi ที่ทำงานได้ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "หน้าเว็บไม่ได้เปลี่ยนเส้นทางอย่างถูกต้อง">
-<!ENTITY redirectLoop.longDesc "<ul> <li>ปัญหานี้บางครั้งอาจแก้ได้โดยการปิดการใช้งานหรือปฏิเสธการรับคุกกี้</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>ปัญหานี้บางครั้งอาจมีสาเหตุมาจากการปิดใช้งานหรือปฏิเสธการยอมรับคุกกี้</li> </ul>">
 
 <!ENTITY unknownSocketType.title "การตอบสนองที่ไม่คาดคิดจากเซิร์ฟเวอร์">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>ตรวจสอบให้แน่ใจว่าระบบของคุณมีตัวจัดการความปลอดภัยส่วนบุคคลติดตั้งอยู่</li> <li>สิ่งนี้อาจเกิดจากการกำหนดค่าที่ไม่มาตรฐานบนเซิร์ฟเวอร์</li> </ul>">
