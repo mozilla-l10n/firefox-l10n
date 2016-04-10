@@ -32,23 +32,36 @@
 <!ENTITY rights.intro-point3-unbranded "Bu mahsuloat uchun har qanday qabul qilingan maxfiylik siyosati bu yerda koʻrsatilgan boʻlishi kerak.">
 <!-- point 4 text for official branded builds -->
 
-
+<!ENTITY rights.intro-point4a "&brandShortName; qo‘shimcha dasturlarni yangilash kabi ixtiyoriy xizmatlarni ham taklif qiladi, lekin biz ularning xatolardan 100&#037; xoli ekanligi va aniq ishlashiga kafolat bera olmaymiz.Bu xizmatlarni o‘chirib qo‘yish haqidagi batafsil ma’lumotlarni ">
+<!ENTITY rights.intro-point4b "xizmat shartlaridan olishingiz mumkin">
+<!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
+<!ENTITY rights.intro-point4a-unbranded "Agar ushbu mahsulot veb xizmatlar bilan bogʻliq boʻlsa, ushbu xizmat(lar) uchun har qanday qabul qilinadigan shartlar ">
+<!ENTITY rights.intro-point4b-unbranded "Veb sayt xizmatlari">
+<!ENTITY rights.intro-point4c-unbranded " boʻlimida keltirilgan boʻlishi kerak.">
 
-
+<!ENTITY rights.webservices-header "&brandFullName; veb sayt xizmatlari">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-
-
-
+<!ENTITY rights.webservices-a "&brandFullName; qo‘shimcha dasturlarni yangilash kabi ixtiyoriy xizmatlarni (&quot;Xizmatlar&quot;) taklif qiladi. Quyida keltirilganidek, ulardan &brandShortName; dasturining asosiy versiyasida foydalanish mumkin bo‘ladi. Agar siz &quot;Xizmatlar&quot;dan foydalanishni xohlamasangiz yoki quyidagi shartlarga rozi bo‘lmasangiz, dasturning parametrlar bandidan ">
+<!ENTITY rights.webservices-b "Qo‘shimcha ">
+<!ENTITY rights.webservices-c " qismidan ">
+<!ENTITY rights.webservices-d "Yangilash">
+<!ENTITY rights.webservices-e " ichki oynasiga o‘tib, &quot;Yangilanishlar uchun avtomatik tekshirilsin&quot; tanlamasini olib tashlab, qo‘shimcha dasturlarni yangilash xizmatini o‘chirib qo‘yishingiz mumkin.">
 <!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "Veb saytlar ma’lumotlarini koʻrib chiqish xizmati mahsulotga ularni qanday oʻchirish boʻyicha koʻrsatmalar qoʻshilgan, agar bu talab qilinsa, bu yerga qoʻshilishi kerak.">
 <!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "Ushbu mahsulot uchun qabul qilinadigan xizmat shartlari bu yerda koʻrsatilishi lozim.">
 <!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights.webservices-term1 "&vendorShortName; ehtiyotkorlik uchun &quot;Xizmarlar&quot; ko‘rsatishni to‘xtatishi yoki uni o‘zgartirishi mumkin.">
 
 
 
