@@ -79,9 +79,7 @@
 <!ENTITY locale_system_default "Predefinita del sistema">
 <!ENTITY overlay_share_label "Aggiungi a &brandShortName;">
 <!ENTITY overlay_share_bookmark_btn_label "Aggiungi ai segnalibri">
-<!ENTITY overlay_share_reading_list_btn_label "Aggiungi a Elenco lettura">
 <!ENTITY overlay_share_bookmark_btn_label_already "Già presente nei segnalibri">
-<!ENTITY overlay_share_reading_list_btn_label_already "Già presente in Elenco lettura">
 <!ENTITY overlay_share_send_other "Invia ad altri dispositivi">
 <!ENTITY overlay_share_send_tab_btn_label "Invia a un altro dispositivo">
 <!ENTITY overlay_share_no_url "Nessun link disponibile in questa condivisione">
@@ -325,10 +323,6 @@
 <!ENTITY site_settings_title3 "Impostazioni sito">
 <!ENTITY site_settings_cancel "Annulla">
 <!ENTITY site_settings_clear "Cancella">
-<!ENTITY reading_list_added3 "Aggiunta a Elenco lettura">
-<!ENTITY reading_list_removed "Pagina rimossa da Elenco lettura">
-<!ENTITY reading_list_remove "Rimuovi da Elenco lettura">
-<!ENTITY reading_list_duplicate "Pagina già presente in Elenco lettura">
 <!ENTITY page_action_dropmarker_description "Azioni disponibili">
 <!ENTITY masterpassword_create_title "Imposta password principale">
 <!ENTITY masterpassword_remove_title "Rimuovi password principale">
