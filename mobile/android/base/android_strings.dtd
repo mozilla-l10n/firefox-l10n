@@ -21,6 +21,9 @@
 <!ENTITY onboard_start_button_browser "Начать веб-сёрфинг">
 <!ENTITY firstrun_button_next "Далее">
 <!ENTITY onboard_start_restricted1 "Будьте в безопасности и установите свой контроль с этой упрощённой версией &brandShortName;.">
+<!ENTITY reading_list_migration_title "Список для чтения подключён">
+<!ENTITY reading_list_migration_subtext "Пункты вашего Списка для чтения будут добавлены в Закладки">
+<!ENTITY reading_list_migration_goto_bookmarks "Перейти в Закладки">
 <!ENTITY bookmarks_title "Закладки">
 <!ENTITY history_title "История">
 <!ENTITY reading_list_title "Список для чтения">
@@ -48,6 +51,7 @@
 <!ENTITY bookmark_options "Настройки">
 <!ENTITY screenshot_added_to_bookmarks "Скриншот добавлен в закладки">
 <!ENTITY screenshot_folder_label_in_bookmarks "Скриншоты">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Список для чтения">
 <!ENTITY history_today_section "Сегодня">
 <!ENTITY history_yesterday_section "Вчера">
 <!ENTITY history_week_section3 "Последние 7 дней">
@@ -77,9 +81,7 @@
 <!ENTITY locale_system_default "Язык устройства">
 <!ENTITY overlay_share_label "Добавить в &brandShortName;">
 <!ENTITY overlay_share_bookmark_btn_label "Заложить">
-<!ENTITY overlay_share_reading_list_btn_label "Добавить в Список для чтения">
 <!ENTITY overlay_share_bookmark_btn_label_already "Уже в закладках">
-<!ENTITY overlay_share_reading_list_btn_label_already "Уже в Списке для чтения">
 <!ENTITY overlay_share_send_other "Отправить на другие устройства">
 <!ENTITY overlay_share_send_tab_btn_label "Отправить на другое устройство">
 <!ENTITY overlay_share_no_url "В отправляемых данных ссылки не найдено">
@@ -299,8 +301,6 @@
 <!ENTITY contextmenu_top_sites_pin "Закрепить сайт">
 <!ENTITY contextmenu_top_sites_unpin "Открепить сайт">
 <!ENTITY contextmenu_add_search_engine "Добавить поисковую систему">
-<!ENTITY contextmenu_mark_read "Отметить как прочитанное">
-<!ENTITY contextmenu_mark_unread "Отметить как непрочитанное">
 <!ENTITY doorhanger_login_no_username "[Нет имени пользователя]">
 <!ENTITY doorhanger_login_edit_title "Изменить логин">
 <!ENTITY doorhanger_login_edit_username_hint "Имя пользователя">
@@ -326,10 +326,6 @@
 <!ENTITY site_settings_title3 "Параметры сайта">
 <!ENTITY site_settings_cancel "Отмена">
 <!ENTITY site_settings_clear "Очистить">
-<!ENTITY reading_list_added3 "Добавлено в Список для чтения">
-<!ENTITY reading_list_removed "Страница удалена из вашего Списка для чтения">
-<!ENTITY reading_list_remove "Удалить из Списка для чтения">
-<!ENTITY reading_list_duplicate "Страница уже находится в вашем Списке для чтения">
 <!ENTITY page_action_dropmarker_description "Дополнительные действия">
 <!ENTITY masterpassword_create_title "Создать мастер-пароль">
 <!ENTITY masterpassword_remove_title "Удалить мастер-пароль">
@@ -358,7 +354,6 @@
 <!ENTITY home_most_recent_empty "Недавно посещённые вами веб-сайты появятся здесь.">
 <!ENTITY home_selected_empty "Веб-сайты, посещённые вами в выбранный период времени, отобразятся здесь.">
 <!ENTITY home_most_recent_emptyhint2 "Псс: при использовании &formatS1;Новой приватной вкладки&formatS2; ваша история сохраняться не будет.">
-<!ENTITY home_reading_list_empty "Статьи, сохранённые вами для последующего чтения, появятся здесь.">
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
 <!ENTITY home_move_back_to_filter "Вернуться в &formatS;">
 <!ENTITY home_remote_tabs_title "Облачные вкладки">
