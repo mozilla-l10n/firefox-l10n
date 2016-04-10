@@ -18,7 +18,6 @@
 <!ENTITY firstrun_sync_subtext "Sincronizza schede, password e molto altro ancora ovunque lo utilizzi.">
 <!ENTITY firstrun_signin_message "Connettiti e inizia">
 <!ENTITY firstrun_signin_button "Accedi a Sync">
-
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
 <!ENTITY firstrun_button_next "Successivo">
 <!ENTITY onboard_start_restricted1 "Sicurezza e controllo garantiti grazie a questa versione semplificata di &brandShortName;.">
@@ -301,8 +300,6 @@
 <!ENTITY contextmenu_top_sites_pin "Blocca sito">
 <!ENTITY contextmenu_top_sites_unpin "Sblocca sito">
 <!ENTITY contextmenu_add_search_engine "Aggiungi motore di ricerca">
-<!ENTITY contextmenu_mark_read "Segna come letto">
-<!ENTITY contextmenu_mark_unread "Segna come non letto">
 <!ENTITY doorhanger_login_no_username "[nessun nome utente]">
 <!ENTITY doorhanger_login_edit_title "Modifica accesso">
 <!ENTITY doorhanger_login_edit_username_hint "Nome utente">
