@@ -22,7 +22,7 @@
 <!ENTITY dnsNotFound.longDesc4 "<ul> <li>Adresi yazım hatalarına karşı kontrol edin. Örneğin <strong>www</strong>.example.com yerine<strong>ww</strong>.example.com yazmadığınızdan emin olun. </li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Ara</button> </div> <li>Hiçbir sayfa açılmıyorsa cihazınızın veri veya Wi-Fi bağlantısını kontrol edin. <button id='wifi'>Wi-Fi'ı etkinleştir</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
-<!ENTITY fileNotFound.longDesc " <ul> <li>Dosya isminindeki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> <li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Dosya adındaki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> <li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> </ul>">
 
 
 <!ENTITY generic.title "Hoppalaaa.">
@@ -45,10 +45,10 @@
 <!ENTITY netOffline.longDesc3 "<ul> <li>Yeniden deneyin. &brandShortName; bağlantıyı açıp sayfayı tazelemeye çalışacaktır. <button id='wifi'>Wi-Fi&#39;ı etkinleştir</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Bu sorundan haberdar etmek için lütfen site sahipleri ile temasa geçin.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Lütfen site sahipleriyle iletişim kurarak onları bu sorundan haberdar edin.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Güvensiz dosya türü">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Lütfen site sahipleriyle iletişim kurarak onları bu sorundan haberdar edin.</li> </ul>">
 
 <!ENTITY netReset.title "Bağlantı sıfırlandı">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -60,7 +60,7 @@
 <!ENTITY unknownProtocolFound.longDesc " <ul> <li>Bu adresi açmak için başka bir yazılım kurmanız gerekebilir.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Vekil sunucu bağlantı kabul etmiyor">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Vekil sunucu ayarlarınızın doğru olup olmadığına bakın.</li> <li>Ağ yöneticinize başvurup vekil sunucunun çalıp çalışmadığıyla ilgili bilgi alın.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Vekil sunucu ayarlarınızın doğru olup olmadığına bakın.</li> <li>Vekil sunucunun çalıştığından emin olmak için ağ yöneticinizden bilgi alabilirsiniz.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Vekil sunucu bulunamadı">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
@@ -77,7 +77,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.</li> <li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Güvenli bağlantı girişimi başarısız">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Bu, sunucunun yapılandırmasıyla ilgili bir sorun olabilir veya birisi sunucuyu taklit etmeye çalışıyor olabilir.</li> <li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden deneyebilirsiniz.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Sunucunun yapılandırmasıyla ilgili bir sorun olabilir veya birisi sunucuyu taklit etmeye çalışıyor olabilir.</li> <li>Daha önce bu sunucuya sorunsuz bağlandıysanız sorun geçici olabilir ve daha sonra yeniden bağlanmayı deneyebilirsiniz.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -87,7 +87,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
 <!ENTITY corruptedContentError.title "Hasarlı İçerik Hatası">
-<!ENTITY corruptedContentError.longDesc "<p>Bakmak istediğiniz sayfa gösterilemiyor, çünkü dosya aktarımında bir sorun saptandı.</p><ul><li>Site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Veri aktarımında bir sorun tespit edildiği için görüntülemeye çalıştığınız sayfa gösterilemiyor.</p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
 
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan kurtar!">
