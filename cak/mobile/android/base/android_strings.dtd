@@ -155,7 +155,7 @@
 <!ENTITY pref_category_privacy_short "Ichinanem">
 <!ENTITY pref_category_privacy_summary3 "Retal q\u0027ojom, taq koki, rucha\u0027ik tzij">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Chi rij &brandShortName;, FAQS,feedback">
+<!ENTITY pref_category_vendor_summary2 "Chi rij &brandShortName;, FAQS, feedback">
 <!ENTITY pref_category_datareporting "Rucha\u0027ik tzij">
 <!ENTITY pref_learn_more "Tetamäx ch\u0027aqa\u0027 chik">
 <!ENTITY pref_category_installed_search_engines "Kanonela\u0027 eyakon chupam">
@@ -186,7 +186,7 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "&formatS; rutz\u0027aqatisaxik pa rutikirib\u0027al ruwäch">
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 rutz\u0027aqatisaxik pa rutikirib\u0027al ruwäch">
 <!ENTITY pref_category_home_content_settings "Rajowaxik rupam">
 <!ENTITY pref_home_updates "Ruyonil nuk\u0027ëx ruwäch">
 <!ENTITY pref_home_updates_enabled "Jaqäl">
@@ -631,7 +631,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_both "Kek\u0027wäx el ri taq yakäl etal chuqa\u0027 k\u0027ulwachinel">
 <!ENTITY bookmarkhistory_import_bookmarks "Kek\u0027wäx el ri taq yakäl etal chuwäch ri Android">
 <!ENTITY bookmarkhistory_import_history "Tik\u0027wäx el ri k\u0027ulwachinel chuwäch ri Android">
-<!ENTITY bookmarkhistory_import_wait "Tab\u0027ana\u0027 utzil, tawoyob\u0027ej…">
+<!ENTITY bookmarkhistory_import_wait "Tab\u0027ana\u0027 utzil, tawoyob\u0027ej...">
 
 <!ENTITY suggestions_prompt3 "¿La nawajo\u0027 ye\u0027atzij ri taq chilab\u0027enïk richin yakanon?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -728,7 +728,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "¿La yatel el chupam ri Ichinam Okem pa k\u0027amaya\u0027l?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "¿La yatel el chupam ri Ichinan Okem pa k\u0027amaya\u0027l?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -769,10 +769,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-<!ENTITY unsupported_sdk_version "¡Takuyu\u0027! &brandShortName;man xtisamäj ta pa re okisaxel re\u0027 (&formatS1;, &formatS2;). Tab\u0027ana\u0027 utzil taqasaj ri ütz ruwäch.">
+<!ENTITY unsupported_sdk_version "¡Takuyu\u0027! &brandShortName; man xtisamäj ta pa re okisaxel re\u0027 (&formatS1;, &formatS2;). Tab\u0027ana\u0027 utzil taqasaj ri ütz ruwäch.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; mani chik nik\u0027ex ruwäch">
-<!ENTITY eol_notification_summary "¿La nawajo\u0027 nawetamaj juley chik?">
+<!ENTITY eol_notification_summary "Tachapa\u0027 qa richin nawetamaj juley etamab\u0027äl">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 

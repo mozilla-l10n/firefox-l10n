@@ -11,8 +11,8 @@
 <!ENTITY sync.title.connect.label "Tokisäx pa &syncBrand.shortName.label;">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Richin natzïj ri k\u0027ak\u0027a\u0027 awokisaxel, tacha\u0027 \&quot;Rub\u0027anik runuk\u0027ulem &syncBrand.shortName.label;\&quot; pa ri okisaxel.">
-<!ENTITY sync.subtitle.pair.label "Richin natzïj. tacha\u0027 \&quot;Tixim jun okisaxel\&quot; pan ri jun chik awokisaxel.">
+<!ENTITY sync.subtitle.connect.label "Richin natzïj ri k\u0027ak\u0027a\u0027 awokisaxel, tacha\u0027 “Rub\u0027anik runuk\u0027ulem &syncBrand.shortName.label;” pa ri okisaxel.">
+<!ENTITY sync.subtitle.pair.label "Richin natzïj. tacha\u0027 “Tixim jun okisaxel” pan ri jun chik awokisaxel.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "Man k\u0027o ta ri woyonib\u0027äl wik\u0027in…">
 <!-- Configure Engines -->
@@ -30,7 +30,7 @@
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "K\u0027utüy rusamaj yakäl etal">
-<!ENTITY bookmarks.folder.places.label "K\u0027utüy kisamaj yakäl taq etal">
+<!ENTITY bookmarks.folder.places.label "k\u0027utüy kisamaj yakäl taq etal">
 <!ENTITY bookmarks.folder.tags.label "Ruwachib\u0027al b\u0027i\u0027aj">
 <!ENTITY bookmarks.folder.toolbar.label "Rumolsamajib\u0027al yakäl taq etal">
 <!ENTITY bookmarks.folder.unfiled.label "Taq samajib\u0027äl majun ketal">
@@ -43,7 +43,7 @@
 
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Tib\u0027an runuk\u0027ulem ri &syncBrand.shortName.label; richin yetaq taq ruwi\u0027">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Tib\u0027an runuk\u0027ulem ri &syncBrand.fullName.label; pa ri awokisaxel richin nitaq taq ruwi\u0027 pa ch\u0027aqa\u0027 chik taq samajib\u0027äl.">
-<!ENTITY sync.text.tab.sent.label "¡Xtaq ri awi\u0027 !">
+<!ENTITY sync.text.tab.sent.label "¡Xtaq ri awi\u0027!">
 <!ENTITY sync.text.tab.not.sent.label "Xk\u0027oje\u0027 jun k\u0027ayewal toq xtaq ri awi\u0027.">
 <!-- Firefox Account strings. -->
 
@@ -104,7 +104,7 @@
 <!ENTITY fxaccount_confirm_account_verification_link "Jun ximöy richin jikib\u0027axïk, xtaq pa &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Titaq chik ri taqoya\u0027l">
 <!ENTITY fxaccount_confirm_account_change_email "¿La nimestäx re rochochib\u0027al taqoya\u0027l re?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Xtaq ri jikib\u0027an taqoya\u0027l ">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Xtaq ri jikib\u0027an taqoya\u0027l">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Man tikirel ta xtaq ri jikib\u0027an taqoya\u0027l">
 <!ENTITY fxaccount_resend_unlock_code_button_label "Titaq chik rutzijol taqoj richin meq\u0027eleb\u0027enïk">
 <!ENTITY fxaccount_unlock_code_sent "Rutzijol taqoj richin meq\u0027eleb\u0027enïk richin ri taqon retal taqoya\u0027l">
@@ -142,8 +142,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Rajowaxik nijikib\u0027äx ri retal ataqoya\u0027l. Tanaqa\u0027 qa richin nitaq chik ri rutzijol jikib\u0027axïk.">
 <!ENTITY fxaccount_status_needs_credentials "Man tikirel ta nok. Tanaqa\u0027 qa richin natikirisaj qa samaj.">
 <!ENTITY fxaccount_status_needs_upgrade "Rajowaxik nik\u0027ex ruwäch &brandShortName; richin nitikirisäx qa samaj.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; b\u0027anon runuk\u0027ulem, xa xe chi man nuxïm ta ri\u0027 pa ruyonil. Tacha\u0027 \&quot;kexim taq tzij pa ruyonil\&quot; pa ri runuk\u0027ulem Android &gt; Kokisaxik taq tzij.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; b\u0027anon runuk\u0027ulem, xa xe chi man nuxïm ta ri\u0027 pa ruyonil. Tacha\u0027 \&quot;Kexim taq tzij pa ruyonil\&quot; pa ri runuk\u0027ulem Android &gt; Kokisaxik taq tzij.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; b\u0027anon runuk\u0027ulem, xa xe chi man nuxïm ta ri\u0027 pa ruyonil. Tacha\u0027 “kexim taq tzij pa ruyonil” pa ri runuk\u0027ulem Android &gt; Kokisaxik taq tzij.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; b\u0027anon runuk\u0027ulem, xa xe chi man nuxïm ta ri\u0027 pa ruyonil. Tacha\u0027 “Kexim taq tzij pa ruyonil” pa ri runuk\u0027ulem Android &gt; Kokisaxik taq tzij.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapitz\u0027a\u0027 richin yatok chupam ri k\u0027ak\u0027a\u0027 rub\u0027i\u0027 ataqoya\u0027l richin Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Yakäl taq etal">
 <!ENTITY fxaccount_status_history "K\u0027ulwachinel">
@@ -160,7 +160,7 @@
 <!ENTITY fxaccount_remove_account "Tichup&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "¿Tiyuj el ri rub\u0027i\u0027 taqoya\u0027l richin Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; xtuya\u0027 kan ruximik ataqoya\u0027l, majun kanonel tzij  xtuyüj el chupam ri okisaxel. ">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; xtuya\u0027 kan ruximik ataqoya\u0027l, majun kanonel tzij xtuyüj el chupam ri okisaxel.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Yujun rub\u0027i\u0027 taqoya\u0027l richin Firefox &formatS;.">
