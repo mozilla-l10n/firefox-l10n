@@ -259,7 +259,8 @@
 <!ENTITY appMenuRemoteTabs.label "Облачные вкладки">
 <!ENTITY appMenuRemoteTabs.notabs.label "Нет открытых вкладок">
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Включите синхронизацию вкладок, чтобы увидеть список вкладок с других устройств.">
-<!ENTITY appMenuRemoteTabs.noclients.label "Войдите в Firefox на других устройствах, чтобы увидеть здесь их вкладки.">
+<!ENTITY appMenuRemoteTabs.noclients.title "Пока здесь нет облачных вкладок!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Хотите увидеть здесь ваши вкладки с других устройств?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки синхронизации">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Войдите, чтобы увидеть список вкладок с других устройств.">
 <!ENTITY appMenuRemoteTabs.signin.label "Войти в Синхронизацию">
@@ -521,6 +522,8 @@
 <!ENTITY syncTabsMenu3.label "Облачные вкладки">
 <!ENTITY syncedTabs.sidebar.label "Облачные вкладки">
 <!ENTITY syncedTabs.sidebar.noclients.label "Войдите в Firefox на других устройствах, чтобы увидеть здесь их вкладки.">
+<!ENTITY syncedTabs.sidebar.noclients.title "Пока здесь нет облачных вкладок!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Хотите увидеть здесь ваши вкладки с других устройств?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label "Войдите, чтобы увидеть список вкладок с других устройств.">
 <!ENTITY syncedTabs.sidebar.notabs.label "Нет открытых вкладок">
 <!ENTITY syncedTabs.sidebar.openprefs.label "Открыть настройки Синхронизации">
