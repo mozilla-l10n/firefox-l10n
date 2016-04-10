@@ -22,7 +22,7 @@
 <!ENTITY dnsNotFound.longDesc4 "<ul> <li>ตรวจสอบความผิดพลาดในการพิมพ์ที่อยู่ อย่างเช่น <strong>ww</strong>.example.com แทนที่จะเป็น <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ค้นหา</button> </div> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ให้ตรวจสอบการเชื่อมต่อ Wi-Fi หรือข้อมูลบนอุปกรณ์ของคุณ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "ไม่พบไฟล์">
-<!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อแฟ้ม ตัวเล็ก ตัวใหญ่ หรือตัวสะกดให้ถูกต้อง</li> <li>ตรวจสอบว่าแฟ้มถูกย้าย เปลี่ยนชื่อ หรือถูกลบไปแล้วหรือไม่</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ</li> <li>ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ</li> </ul>">
 
 
 <!ENTITY generic.title "อุปส์">
@@ -84,9 +84,9 @@
 <!ENTITY sharedLongDesc3 "<ul> <li>ไม่สามารถเข้าถึงเว็บไซต์นี้ได้ชั่วคราว หรือเว็บไซต์อาจกำลังทำงานหนัก รออีกสักพักแล้วลองใหม่</li> <li>หากคุณไม่สามารถโหลดหน้าเว็บใดๆ ได้เลย ลองตรวจสอบการรับส่งข้อมูลของอุปกรณ์ หรือการเชื่อมต่อ Wi-Fi <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ระงับการโหลดหน้าเว็บ เนื่องจากหน้านี้มีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาตให้โหลดหน้าเว็บด้วยวิธีนี้</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ป้องกันหน้านี้จากการโหลดในลักษณะนี้เนื่องจากหน้ามีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาต</p>">
 
-<!ENTITY corruptedContentError.title "ผิดพลาดจากเนื้อหาเสียหาย">
+<!ENTITY corruptedContentError.title "ข้อผิดพลาดเนื้อหาเสียหาย">
 <!ENTITY corruptedContentError.longDesc "<p>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในการส่งผ่านข้อมูล</p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul>">
 
 <!ENTITY securityOverride.linkText "หรือคุณสามารถเพิ่มข้อยกเว้น…">
@@ -98,7 +98,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>คุณไม่ควรเพิ่มข้อยกเว้น ถ้าหากคุณกำลังเชื่อมต่ออินเทอร์เน็ตผ่านเครือข่ายที่คุณไม่อาจเชื่อถือได้เต็มที่ หรือหากคุณไม่เคยพบข้อความเตือนนี้จากเซิร์ฟเวอร์นี้มาก่อน</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>คุณไม่ควรเพิ่มข้อยกเว้นหากคุณกำลังใช้งานการเชื่อมต่ออินเทอร์เน็ตที่คุณไม่เชื่อถือโดยสมบูรณ์ หรือหากคุณไม่เคยเห็นคำเตือนสำหรับเซิร์ฟเวอร์นี้</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL ระยะไกล">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul></p>">
