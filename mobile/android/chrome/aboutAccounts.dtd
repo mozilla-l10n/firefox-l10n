@@ -10,4 +10,4 @@
 <!ENTITY aboutAccounts.retry.label "ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
 
 <!ENTITY aboutAccounts.restrictedError.title "ಪ್ರತಿಬಂಧಿಸಲ್ಪಟ್ಟಿದೆ">
-
+<!ENTITY aboutAccounts.restrictedError.description "ನೀವು ‍Firefox ಖಾತೆಗಳನ್ನು ಈ ಫ್ರೊಫೈಲ್‌ನಿಂದ ನಿರ್ವಹಿಸುವಂತಿಲ್ಲ.">
