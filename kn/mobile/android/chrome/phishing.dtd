@@ -4,14 +4,15 @@
 
 <!ENTITY safeb.palm.accept.label "ನನ್ನನ್ನು ಇಲ್ಲಿಂದ ಹೊರಗೆ ಕೊಂಡೊಯ್ಯಿರಿ!">
 <!ENTITY safeb.palm.decline.label "ಈ ಎಚ್ಚರಿಕೆಯನ್ನು ನಿರ್ಲಕ್ಷಿಸು">
-
-
+<!ENTITY safeb.palm.reportPage.label "ಈ ಪುಟವನ್ನು ಏಕೆ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ?">
+<!ENTITY safeb.palm.whyForbidden.label "ಈ ಪುಟವನ್ನು ಏಕೆ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ?">
 
 <!ENTITY safeb.blocked.malwarePage.title "ಧಾಳಿಕಾರಕ ಪುಟ ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "ಈ ಜಾಲ ಪುಟವನ್ನು <span id='malware_sitename'/> ನಲ್ಲಿನ ಒಂದು ಧಾಳಿಕಾರಕ ಪುಟ ಎಂದು ಪರಿಗಣಿಸಿ ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ಅನುಸಾರವಾಗಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>ಧಾಳಿಕಾರಕ ಪುಟಗಳು ನಿಮ್ಮ ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಕದಿಯುವಂತಹ, ಇತರರತ್ತ ಧಾಳಿ ಮಾಡುವ ಸಲುವಾಗಿ ನಿಮ್ಮ ಗಣಕವನ್ನು ಬಳಸಬಹುದಾದಂತಹ, ಅಥವ ನಿಮ್ಮ ಗಣಕವನ್ನು ಹಾಳುಗೆಡವಬಲ್ಲಂತಹ ಪ್ರೊಗ್ರಾಂಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತವೆ.</p><p>ಕೆಲವು ಧಾಳಿಕಾರಕ ಪುಟಗಳು ಉದ್ಧೇಶಪೂರ್ವಕವಾಗಿ ಅಪಾಯಕಾರಿ ತಂತ್ರಾಂಶವನ್ನು ವಿತರಿಸುತ್ತವೆ, ಆದರೆ ಹೆಚ್ಚಿನವು ಅವುಗಳ ಮಾಲಿಕರಿಗೆ ತಿಳಿದಿರುವುದಿಲ್ಲ ಅಥವ ಅವರ ಅನುಮತಿ ಪಡೆದಿರುವುದಿಲ್ಲ.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "ವಂಚಕ ತಾಣ!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "ಈ ಜಾಲ ಪುಟವನ್ನು <span id='phishing_sitename'/> ನಲ್ಲಿನ ಒಂದು ಧಾಳಿಕಾರಕ ಪುಟ ಎಂದು ಪರಿಗಣಿಸಿ ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ಅನುಸಾರವಾಗಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
 

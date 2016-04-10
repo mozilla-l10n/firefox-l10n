@@ -30,7 +30,7 @@
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಪರಿವಿಡಿ">
-<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.places.label "‍">
 <!ENTITY bookmarks.folder.tags.label "ಟ್ಯಾಗ್‌ಗಳು">
 <!ENTITY bookmarks.folder.toolbar.label "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಉಪಕರಣಪಟ್ಟಿ">
 <!ENTITY bookmarks.folder.unfiled.label "ವಿಂಗಡಿಸದೆ ಇರುವ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "ಇಮೇಲ್">
-
+<!ENTITY fxaccount_password_hint "ಗುಪ್ತಪದ">
 <!ENTITY fxaccount_password_hide "ಅಡಗಿಸು">
 <!ENTITY fxaccount_password_show "ತೋರಿಸು">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಆಂಡ್ರಾಯ್ಡ್ ಸಿದ್ದತೆಗಳಲ್ಲಿ &gt; ದತ್ತಾಂಶ ಬಳಕೆ ಯಲ್ಲಿ “ಸ್ವ-ಸಿಂಕ್ ದತ್ತಾಂಶ” ಅಂತರಣ ಮಾಡಿ.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಆಂಡ್ರಾಯ್ಡ್ ಸಿದ್ದತೆಗಳಲ್ಲಿ &gt; ದತ್ತಾಂಶ ಬಳಕೆ ಯಲ್ಲಿ “ಸ್ವ-ಸಿಂಕ್ ದತ್ತಾಂಶ” ಅಂತರಣ ಮಾಡಿ.">
 <!ENTITY fxaccount_status_needs_finish_migrating "ನಿಮ್ಮ ಹೊಸ Firefox ಖಾತೆಗೆ ಸೈನ್‌ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ.">
-
+<!ENTITY fxaccount_status_bookmarks "ಪುಟಗುರುತುಗಳು">
 <!ENTITY fxaccount_status_history "ಇತಿಹಾಸ">
 <!ENTITY fxaccount_status_passwords2 "ಲಾಗಿನ್‌ಗಳು">
 <!ENTITY fxaccount_status_tabs "ತೆರೆದ ಹಾಳೆಗಳು">
@@ -157,7 +157,7 @@
 <!ENTITY fxaccount_status_linktos "ಸೇವೆಯ ನಿಯಮಗಳು">
 <!ENTITY fxaccount_status_linkprivacy "ಗೌಪ್ಯತಾ ನಿಯಮ">
 <!ENTITY fxaccount_status_more "ಇನ್ನಷ್ಟು&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆಯನ್ನು ತೆಗೆದು ಹಾಕುವುದೇ?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; ನಿಮ್ಮ ಖಾತೆಯೊಂದಿಗೆ ಸಿಂಕ್ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸುವುದು, ಆದರೆ ಈ ಸಾಧನದಿಂದ ನಿಮ್ಮ ಯಾವುದೇ ಅಂತರ್ಜಾಲ ಪರಿವೀಕ್ಷಣಾ ಡೇಟಾವನ್ನು ಅಳಿಸುವುದಿಲ್ಲ.">
@@ -207,3 +207,5 @@
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
 
+<!ENTITY old_sync_deprecated_notification_title "ಸಿಂಕ್ ಮುಂದುವರೆಸಲು ಸೈನ್ ಇನ್ ಆಗಿ">
+<!ENTITY old_sync_deprecated_notification_content "ನಿಮ್ಮ ಖಾತೆ ಇನ್ನು ಬೆಂಬಲಿತವಾಗಿಲ್ಲ">
