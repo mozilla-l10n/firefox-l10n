@@ -747,7 +747,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing_description "Umožní dalším členům rodiny prohlížení bez ukládání informací o stránkách, které navštívili.">
 <!ENTITY restrictable_feature_clear_history "Vymazat historii">
 <!ENTITY restrictable_feature_clear_history_description "Umožní dalším členům rodiny smazat informace o stránkách, které navštívili.">
-<!ENTITY restrictable_feature_advanced_settings "Pokročilé nastavení">
+<!ENTITY restrictable_feature_advanced_settings "Rozšířené nastavení">
 <!ENTITY restrictable_feature_advanced_settings_description "Obsahuje import záložek, obnovu panelů nebo automatické aktualizace. Vypněte pro zjednodušené nastavení vhodné pro všechny členy rodiny.">
 <!ENTITY restrictable_feature_camera_microphone "Fotoaparát a mikrofón">
 <!ENTITY restrictable_feature_camera_microphone_description "Umožní dalším členům rodiny komunikovat na webových serverech v reálném čase.">
