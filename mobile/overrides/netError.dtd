@@ -50,7 +50,7 @@
 <!ENTITY unsafeContentType.title "ชนิดไฟล์ที่ไม่ปลอดภัย">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
-<!ENTITY netReset.title "การเชื่อมต่อถูกล้าง">
+<!ENTITY netReset.title "การเชื่อมต่อถูกตั้งใหม่">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "การเชื่อมต่อหมดเวลา">
@@ -60,18 +60,18 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>คุณอาจจำเป็นต้องติดตั้งซอฟต์แวร์อื่นเพื่อเปิดที่อยู่นี้</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "เซิร์ฟเวอร์พร็อกซีปฏิเสธการเชื่อมต่อ">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>ตรวจสอบการตั้งค่าพร็อกซีให้ถูกต้อง</li> <li>ติดต่อผู้ดูแลเครือข่ายของคุณเพื่อให้มั่นใจว่าพร็อกซีกำลังทำงานอยู่</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>ตรวจสอบให้แน่ใจว่าการตั้งค่าพร็อกซีถูกต้อง</li> <li>ติดต่อผู้ดูแลเครือข่ายของคุณเพื่อให้แน่ใจว่าเซิร์ฟเวอร์พร็อกซีกำลังทำงานอยู่</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "ไม่สามารถค้นหาเซิร์ฟเวอร์พร็อกซี">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>ตรวจสอบการตั้งค่าพร็อกซีให้แน่ใจว่าใช้งานได้</li> <li>ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อกับเครือข่ายข้อมูลหรือ Wi-Fi แล้ว <button id='wifi'>เปิด Wi-Fi</button> </li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>ตรวจสอบให้แน่ใจว่าการตั้งค่าพร็อกซีถูกต้อง</li> <li>ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณมีการเชื่อมต่อข้อมูลหรือ Wi-Fi ที่ทำงานได้ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "หน้าเว็บไม่ได้เปลี่ยนเส้นทางอย่างถูกต้อง">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ปัญหานี้บางครั้งอาจแก้ได้โดยการปิดการใช้งานหรือปฏิเสธการรับคุกกี้</li> </ul>">
 
-<!ENTITY unknownSocketType.title "การตอบสนองแบบที่ไม่คาดคิดจากเซิร์ฟเวอร์">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>ตรวจสอบว่ามีโปรแกรมจัดการความปลอดภัยส่วนบุคคลติดตั้งอยู่บนระบบของคุณหรือไม่</li> <li>อาจเกิดจากการตั้งค่าบนเซิร์ฟเวอร์ที่ไม่ตรงตามมาตรฐาน</li> </ul>">
+<!ENTITY unknownSocketType.title "การตอบสนองที่ไม่คาดคิดจากเซิร์ฟเวอร์">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>ตรวจสอบให้แน่ใจว่าระบบของคุณมีตัวจัดการความปลอดภัยส่วนบุคคลติดตั้งอยู่</li> <li>สิ่งนี้อาจเกิดจากการกำหนดค่าที่ไม่มาตรฐานบนเซิร์ฟเวอร์</li> </ul>">
 
 <!ENTITY nssFailure2.title "การเชื่อมต่อแบบปลอดภัยล้มเหลว">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>หน้าที่คุณกำลังพยายามจะดูไม่สามารถแสดงได้เนื่องจากไม่สามารถยืนยันความถูกต้องของข้อมูลที่ได้รับ</li> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
