@@ -51,10 +51,10 @@
 </ul>">
 
 <!ENTITY contentEncodingError.title "内容编码错误">
-<!ENTITY contentEncodingError.longDesc "<ul><li>请联系网站的所有者以告知此问题。</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 <!ENTITY unsafeContentType.title "不安全的文件类型">
-<!ENTITY unsafeContentType.longDesc "<ul><li>请联系网站的所有者以告知此问题。</li></ul>">
+<!ENTITY unsafeContentType.longDesc "<ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 <!ENTITY netReset.title "连接被重置">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -85,7 +85,7 @@
 <!ENTITY nssFailure2.title "安全连接失败">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>您尝试查看的页面无法显示，因为已收到数据的可靠性无法证实。</li> 
-<li>请联系网站的所有者，告知他们这个问题。</li> 
+<li>请联系此网站的管理员并告知此问题。</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "安全连接失败">
@@ -104,7 +104,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面载入，因为这个页面的内容安全政策不允许其以这种方式被载入。</p>">
 
 <!ENTITY corruptedContentError.title "内容损坏错误">
-<!ENTITY corruptedContentError.longDesc "<p>您尝试查看的页面无法显示，因为检测到一个数据传输错误。</p><ul><li>请联系网站所有者告知此问题。</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>您尝试查看的页面无法显示，因为检测到一个数据传输错误。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
@@ -125,7 +125,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "详细了解…">
 
 <!ENTITY remoteXUL.title "远程 XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>请联系网站拥有者告知这个问题。</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>请联系此网站的管理员并告知此问题。</li></ul></p>">
 
 <!ENTITY sslv3Used.title "无法安全地连接">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
