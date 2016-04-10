@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Kitikirisaxik taq moloj">
 <!ENTITY aboutLogins.update                      "Tik'ex ruwäch">
-<!ENTITY aboutLogins.emptyLoginText              "Kek'oje' ütz taq rutikirisaxik molojri'ïl awik'in">
+<!ENTITY aboutLogins.emptyLoginText              "Kek'oje' awik'in ütz taq rutikirib'al molojri'ïl ">
 <!ENTITY aboutLogins.emptyLoginHint              "Rutikirisaxik molojri'ïl chuqa' retal eyakon rik'in rokisaxik &brandShortName; xkek'ut pe wawe'.">

@@ -10,7 +10,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "¡Eleq'om re jun ruxaq k'amaya'l re'!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Pa <span id='malware_sitename'/> re jun ruxaq k'amaya'l re', ya'on rutzijol chi jun eleq'om chi k'amaya'l, ruma ri' toq xq'eleb'ëx ruma ri k'atzinel achajik.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Ri eleq'oma' taq ruxaq k'amaya'l nikitojtob'ej nikiyäk jun kema', ri nitikïr nreleq'aj awetamab'al, nrokisaj re asamajib'al richin nritzelaj ri aq'inoj. </p><p>Jujun taq ruxaq k'amaya'l jutaqil nikitaluj itzel taq kema', xa xe chi e k'ïy ri nikiq'ab'aj tzij ruma man awetaman ta chi chuqa' ya'on q'ij chi ke kuma ri kajaw pan ewäl.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Ri eleq'oma' taq ruxaq k'amaya'l nikitojtob'ej nikiyäk jun kema', ri nitikïr nreleq'aj awetamab'al, nrokisaj re asamajib'al richin nritzelaj ri aq'inoj.</p><p>Jujun taq ruxaq k'amaya'l jutaqil nikitaluj itzel taq kema', xa xe chi e k'ïy ri nikiq'ab'aj tzij ruma man awetaman ta chi chuqa' ya'on q'ij chi ke kuma ri kajaw pan ewäl.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "¡Q'olonel Ruxaq K'amaya'l!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

@@ -9,16 +9,16 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "okem itzel retal">
+<!ENTITY certerror.pagetitle  "Okem itzel retal">
 <!ENTITY certerror.longpagetitle "Re okem re' man ruk'amon ta">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Xak'utuj chi re ri &brandShortName; chi ütz  tok  chupam <b>#1</b>, xa xe chi man tikirel ta nijikib'äx chi ruk'amon ri okem.">
+<!ENTITY certerror.introPara1 "Xak'utuj chi re ri &brandShortName; chi ütz tok chupam <b>#1</b>, xa xe chi man tikirel ta nijikib'äx chi ruk'amon ri okem.">
 
 <!ENTITY certerror.whatShouldIDo.heading "¿Achike ütz ninb'än?">
-<!ENTITY certerror.whatShouldIDo.content "We junelïk yatok chupam re  ruxaq k'amaya'l re'   majun k'ayewal, re k'ayewal re' rik'in jub'a' nuq'ajuj chi k'o jun winäq  tajin nutïj ruq'ij richin yatruk'ëx el ruma ri man ta chik nasamajij el.">
+<!ENTITY certerror.whatShouldIDo.content "We junelïk yatok chupam re ruxaq k'amaya'l re' majun k'ayewal, re k'ayewal re' rik'in jub'a' nuq'ajuj chi k'o jun winäq  tajin nutïj ruq'ij richin yatruk'ëx el ruma ri man ta chik nasamajij el.">
 <!ENTITY certerror.getMeOutOfHere.label "¡Kinawelesaj el wawe'!">
 
 <!ENTITY certerror.expert.heading "Niq'ax pa nuwi' ronojel ri ruk'ayewal">

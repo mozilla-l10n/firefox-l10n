@@ -17,8 +17,8 @@
 <!ENTITY sync.setup.manual          "Tatz'ib'aj ri etamab'äl chi rij ri aximojri'ïl">
 <!ENTITY sync.account               "Rub'i' retal ataqoya'l">
 <!ENTITY sync.password              "Ewan tzij">
-<!ENTITY sync.recoveryKey           "Kolonel ruxe'el tzij ">
-<!ENTITY sync.customServer          "Tokisäx jun ichinan ruk'u'x samaj ">
+<!ENTITY sync.recoveryKey           "Kolonel ruxe'el tzij">
+<!ENTITY sync.customServer          "Tokisäx jun ichinan ruk'u'x samaj">
 <!ENTITY sync.serverURL             "Ruk'u'x samaj URL">
 <!ENTITY sync.setup.connect         "Tokisäx">
 <!ENTITY sync.setup.cancel          "Jumul tiq'at">
@@ -28,4 +28,4 @@
 <!ENTITY sync.pair.title            "Tixim jun okisaxel">
 <!ENTITY sync.pair.description      "Richin natzïj ri k&apos;ak&apos;a&apos; awokisaxel, tacha&apos; &quot;Tichinäx Ximïl&quot; pa ri okisaxel.">
 <!ENTITY sync.setup.close           "Titz'apïx">
-<!ENTITY sync.setup.waitingdownload "Ri taq atzij tajin yeqasäx pa ruka'n b'ey. Xa b'a achike ramaj tikirel natz'apij re jun tz'etöy ruwäch re'">
+<!ENTITY sync.setup.waitingdownload "Ri taq atzij tajin yeqasäx pa ruka'n b'ey. Xa b'a achike ramaj tikirel natz'apij re jun tz'etöy ruwäch re'.">

@@ -6,7 +6,7 @@
      your language and/or locale. More detailed notes below. -->
 
 
-<!ENTITY pageTitle                 "Na'oj chi rij ri &brandShortName;">
+<!ENTITY pageTitle                 "na'oj chi rij ri &brandShortName;">
 
 <!ENTITY intro.header              "¿La jamäl chawäch jun ach'utiramaj?">
 <!ENTITY intro.message             "Tatz'ijoj chi qe achike' nana'ojij chi rij ri &brandShortName; richin ri Android k'a wakami.">
@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre3              "Kab'etz'eton pa qa ">
+<!ENTITY support.pre3              "Kab'etz'eton pa qa  ">
 <!ENTITY support.link2             "Ruk'amaya'l koch'oj">
 <!ENTITY support.post3             " richin nawïl tz'olin taq tzij kichin taq wachinäq wakami.">
 
