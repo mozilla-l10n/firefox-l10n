@@ -641,10 +641,18 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY syncedTabs.sidebar.openprefs.label "Otwórz ustawienia synchronizacji">
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Włącz synchronizację kart, aby wyświetlać listę otwartych na innych urządzeniach.">
 
-<!ENTITY syncedTabs.context.openTab.label "Otwórz kartę">
-<!ENTITY syncedTabs.context.openTab.accesskey "O">
+<!ENTITY syncedTabs.context.open.label "Otwórz">
+<!ENTITY syncedTabs.context.open.accesskey "O">
+<!ENTITY syncedTabs.context.openInNewTab.label "Otwórz w nowej karcie">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey "n">
+<!ENTITY syncedTabs.context.openInNewWindow.label "Otwórz w nowym oknie">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey "e">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label "Otwórz w nowym oknie prywatnym">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "z">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label "Dodaj zakładkę do tej karty…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "D">
+<!ENTITY syncedTabs.context.copy.label "Kopiuj">
+<!ENTITY syncedTabs.context.copy.accesskey "K">
 
 <!ENTITY syncBrand.shortName.label "Firefox Sync">
 <!ENTITY syncSignIn.label "Zaloguj się do &syncBrand.shortName.label;…">
