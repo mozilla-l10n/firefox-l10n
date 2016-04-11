@@ -227,10 +227,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label "Zbadaj element">
 <!ENTITY inspectContextMenu.accesskey "t">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Zamknij pasek programisty">
-<!ENTITY devToolbarToolsButton.tooltip "Przełącz narzędzia dla programistów">
-<!ENTITY devToolbarOtherToolsButton.label "Więcej narzędzi">
-
 <!ENTITY fileMenu.label "Plik" >
 <!ENTITY fileMenu.accesskey "P" >
 <!ENTITY newUserContext.label "Nowa karta z kontekstem">
