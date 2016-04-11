@@ -222,7 +222,7 @@
 
 <!ENTITY pref_cookies_menu "Куки">
 <!ENTITY pref_cookies_accept_all "Увімкнено">
-<!ENTITY pref_cookies_not_accept_foreign "Увімкнено, включно з третьосторонніми">
+<!ENTITY pref_cookies_not_accept_foreign "Увімкнено, крім сторонніх">
 <!ENTITY pref_cookies_disabled "Вимкнено">
 
 <!ENTITY pref_tap_to_load_images_title2 "Показ зображень">
@@ -341,7 +341,7 @@ size. -->
 <!ENTITY pref_vendor_feedback "Залишити відгук">
 
 <!ENTITY pref_dialog_set_default "Встановити типовим">
-<!ENTITY pref_dialog_default "Типова">
+<!ENTITY pref_dialog_default "Типовий">
 <!ENTITY pref_dialog_remove "Вилучити">
 
 <!ENTITY pref_search_last_toast "Ви не можете вилучити чи вимкнути ваш останній засіб пошуку.">
@@ -400,7 +400,7 @@ size. -->
 <!ENTITY save_as_pdf "Зберегти як PDF">
 <!ENTITY print "Друк">
 <!ENTITY find_in_page "Знайти на сторінці">
-<!ENTITY desktop_mode "Вимагати десктопний сайт">
+<!ENTITY desktop_mode "Повна версія сайту">
 <!ENTITY page "Сторінка">
 <!ENTITY tools "Інструменти">
 <!ENTITY new_tab "Нова вкладка">
@@ -472,7 +472,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary2 "Приховувати панель інструментів &brandShortName; при прокручуванні сторінки">
 
 <!ENTITY pref_tab_queue_title3 "Черга вкладок">
-<!ENTITY pref_tab_queue_summary4 "Зберігайте посилання до наступного відкриття &brandShortName;">
+<!ENTITY pref_tab_queue_summary4 "Зберігати посилання до наступного відкриття &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -534,17 +534,17 @@ size. -->
 <!ENTITY home_history_title "Історія">
 <!ENTITY home_clear_history_button "Стерти історію перегляду">
 <!ENTITY home_clear_history_confirm "Ви впевнені, що хочете стерти свою історію?">
-<!ENTITY home_bookmarks_empty "Ваші збережені закладки з’являються тут.">
+<!ENTITY home_bookmarks_empty "Тут з’являтимуться збережені вами закладки.">
 <!ENTITY home_closed_tabs_title "Недавно закриті вкладки">
 <!ENTITY home_last_tabs_title "Вкладки з минулого разу">
-<!ENTITY home_last_tabs_empty "Ваші недавні вкладки з’являються тут.">
+<!ENTITY home_last_tabs_empty "Тут з’являтимуться ваші недавні вкладки.">
 <!ENTITY home_open_all "Відкрити всі">
 <!ENTITY home_most_recent_empty "Ваші недавно відвідані сайти будуть тут.">
-<!ENTITY home_selected_empty "Відвідані вами веб-сайти за обраний проміжок часу з’являються тут.">
+<!ENTITY home_selected_empty "Тут з’являтимуться відвідані вами веб-сайти за обраний період.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Зверніть увагу: історія з &formatS1;Нової приватної вкладки&formatS2; не буде зберігатися.">
-<!ENTITY home_reading_list_empty "Збережені вами на потім статті з’являються тут.">
+<!ENTITY home_reading_list_empty "Тут з’являтимуться статті, збережені вами на потім.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -555,7 +555,7 @@ size. -->
 <!ENTITY home_move_back_to_filter "Назад до &formatS;">
 
 <!ENTITY home_remote_tabs_title "Синхронізовані вкладки">
-<!ENTITY home_remote_tabs_empty "Ваші вкладки з інших пристроїв з’являються тут.">
+<!ENTITY home_remote_tabs_empty "Тут з’являтимуться ваші вкладки з інших пристроїв.">
 <!ENTITY home_remote_tabs_unable_to_connect "Неможливо з’єднатися">
 <!ENTITY home_remote_tabs_need_to_sign_in "Увійдіть, щоб знову підключитися до свого облікового запису Firefox та продовжити синхронізацію.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "Ваш новий обліковий запис Firefox готовий!">
