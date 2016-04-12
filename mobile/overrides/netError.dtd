@@ -56,7 +56,7 @@
 <!ENTITY netTimeout.title "การเชื่อมต่อหมดเวลา">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่อยู่นี้">
+<!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่อยู่">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>คุณอาจจำเป็นต้องติดตั้งซอฟต์แวร์อื่นเพื่อเปิดที่อยู่นี้</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "เซิร์ฟเวอร์พร็อกซีปฏิเสธการเชื่อมต่อ">
@@ -77,11 +77,11 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>หน้าที่คุณกำลังพยายามจะดูไม่สามารถแสดงได้เนื่องจากไม่สามารถยืนยันความถูกต้องของข้อมูลที่ได้รับ</li> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
 <!ENTITY nssBadCert.title "การเชื่อมต่อแบบปลอดภัยล้มเหลว">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>ปัญหาอาจเกิดจากการตั้งค่าของเซิร์ฟเวอร์ หรืออาจมีผู้พยายามปลอมแปลงตัวเป็นเซิร์ฟเวอร์</li> <li>หากคุณเคยเชื่อมต่อกับเซิร์ฟเวอร์นี้ได้โดยไม่พบปัญหา ข้อผิดพลาดครั้งนี้อาจเป็นแค่ชั่วคราว คุณสามารถลองใหม่ทีหลังได้</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>นี่อาจเป็นปัญหาจากการกำหนดค่าของเซิร์ฟเวอร์ หรืออาจมีใครบางคนกำลังพยายามปลอมแปลงเซิร์ฟเวอร์</li> <li>หากคุณเคยเชื่อมต่อกับเซิร์ฟเวอร์นี้สำเร็จในอดีต ข้อผิดพลาดอาจเกิดขึ้นเพียงชั่วคราว และคุณสามารถลองอีกครั้งในภายหลัง</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> <li>ไม่สามารถเข้าถึงเว็บไซต์นี้ได้ชั่วคราว หรือเว็บไซต์อาจกำลังทำงานหนัก รออีกสักพักแล้วลองใหม่</li> <li>หากคุณไม่สามารถโหลดหน้าเว็บใดๆ ได้เลย ลองตรวจสอบการรับส่งข้อมูลของอุปกรณ์ หรือการเชื่อมต่อ Wi-Fi <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>ไซต์นี้อาจใช้งานไม่ได้ชั่วคราวหรือกำลังทำงานหนักเกินไป ลองอีกครั้งในอีกสักครู่</li> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อข้อมูลหรือ Wi-Fi ของอุปกรณ์มือถือของคุณ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ป้องกันหน้านี้จากการโหลดในลักษณะนี้เนื่องจากหน้ามีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาต</p>">
