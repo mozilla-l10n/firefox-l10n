@@ -375,7 +375,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ตัวรายงานข้อขัดข้อง">
 <!ENTITY datareporting_wifi_title2 "บริการแจ้งตำแหน่งที่ตั้ง &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary4 "ช่วย &vendorShortName; สร้างแผนที่โลก! แบ่งปันตำแหน่งโดยประมาณของอุปกรณ์ Wi-Fi และโทรศัพท์มือถือของคุณเพื่อปรับปรุงบริการตำแหน่งทางภูมิศาสตร์ของเรา">
+<!ENTITY datareporting_wifi_geolocation_summary4 "ช่วย &vendorShortName; สร้างแผนที่โลก! แบ่งปันตำแหน่งที่ตั้ง Wi-Fi และเครือข่ายเคลื่อนที่ของอุปกรณ์ของคุณโดยประมาณเพื่อปรับปรุงบริการตำแหน่งที่ตั้งทางภูมิศาสตร์ของเรา">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
