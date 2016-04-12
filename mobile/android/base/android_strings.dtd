@@ -48,7 +48,7 @@
 <!ENTITY  crash_closing_alert "ออกโดยไม่ส่งรายงานข้อขัดข้อง?">
 <!ENTITY  sending_crash_report "กำลังส่งรายงานข้อขัดข้อง\u2026">
 <!ENTITY  crash_close_label "ปิด">
-<!ENTITY  crash_restart_label "เริ่ม &brandShortName; ใหม่">
+<!ENTITY  crash_restart_label "เริ่มการทำงาน &brandShortName; ใหม่">
 <!ENTITY  exit_label "ออก">
 
 <!ENTITY  launcher_shortcuts_title "เว็บแอป &brandShortName;">
@@ -310,8 +310,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "อนุญาตการเล่นอัตโนมัติ">
 <!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและเนื้อหาสื่ออื่นของเว็บไซต์โดยอัตโนมัติ">
-<!ENTITY pref_zoom_force_enabled "เปิดใช้งานการย่อ-ขยายตลอดเวลา">
-<!ENTITY pref_zoom_force_enabled_summary "บังคับใช้เพื่อให้สามารถย่อขยายดูได้ทุกหน้า">
+<!ENTITY pref_zoom_force_enabled "เปิดใช้งานการย่อ-ขยายเสมอ">
+<!ENTITY pref_zoom_force_enabled_summary "บังคับใช้ค่าเพื่อให้คุณสามารถย่อ-ขยายได้ทุกหน้า">
 <!ENTITY pref_voice_input "การรับค่าด้วยเสียง">
 <!ENTITY pref_voice_input_summary2 "อนุญาตการเขียนตามคำบอกเสียงในแถบ URL">
 <!ENTITY pref_qrcode_enabled "ตัวอ่านรหัส QR">
