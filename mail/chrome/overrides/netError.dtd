@@ -8,6 +8,9 @@
 <!-- Specific error messages -->
 
 
+<!ENTITY connectionFailure.title "Neizdevās savienoties">
+
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serveris nav atrasts">
