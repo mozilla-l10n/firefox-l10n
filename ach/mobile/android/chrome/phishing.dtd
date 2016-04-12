@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Pot buk ma kicobo temo keto purugram ma kwalo ngec pa dano, tii ki komputa mamegi me cobo jo mukene, onyo balo tic mamegi.</p><p>Pot buk mogo gabo purugram mabalo tic tektek, ento mogo time labongo ngec onyo twero ki bot wegi gi.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Pot buk me kakube man ma nonge i <span id='phishing_sitename'/> kimiyo ripot ni obedo kakube me bwola kadong kigengo woko malube ki miti ni me ber bedo.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "Kakube pi purugram mape kimito ma kimiyo ripote!">

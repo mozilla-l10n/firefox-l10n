@@ -11,17 +11,17 @@
 <!ENTITY  onboard_start_subtext3 "Wek tic me yeny pi Kakube ni me cing obed mamegi kikome.">
 
 <!ENTITY firstrun_urlbar_message "Wajoli i &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Nong jami oyoto ki yoo macek me tam ma kimiyo me yeny makonyo.">
+<!ENTITY firstrun_bookmarks_title "Gin mukato">
 
+<!ENTITY firstrun_bookmarks_subtext "Nong adwogi ki i alamabuk ki gin mukato mamegi ka i yenyo.">
+<!ENTITY firstrun_data_title "Data">
 
-
-
-
-
-
+<!ENTITY firstrun_data_subtext2 "Nek cal woko me tic ki data manok i kakube weng ma ilimo.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, jwijwi i ka ngeti">
 
-
-
+<!ENTITY firstrun_signin_message "Kube, caki">
 
 <!ENTITY  onboard_start_button_browser "Cak yenyo">
 <!ENTITY firstrun_button_next "Malubo">
@@ -150,12 +150,12 @@
 
 <!ENTITY pref_category_search3 "Yeny">
 <!ENTITY pref_category_search_summary "Yik lumi yeny mamegi">
-
+<!ENTITY pref_category_accessibility "Kit me nongo">
 
 <!ENTITY pref_category_privacy_short "Mung">
 
-
-
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Ikom &brandShortName;, Lapeny me pol kare, adwogi">
 <!ENTITY pref_category_datareporting "Yer me data">
 <!ENTITY pref_learn_more "Nong ngec mapol">
 <!ENTITY pref_category_installed_search_engines "Injin me yeny ma kiketo gi">
@@ -169,7 +169,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "TAM: Med kakube mo keken i kom lumi yeny mamegi ki dino ma cingi rii i ka yeny kadong i gudo cal me &formatI;.">
-
+<!ENTITY pref_category_advanced "Ma lamal">
 
 <!ENTITY pref_developer_remotedebugging "Nongo bal ki kama bor">
 <!ENTITY pref_developer_remotedebugging_usb "Nongo bal ki iyi USB">
@@ -188,7 +188,7 @@
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 kimedo i potbuk me gang">
 <!ENTITY pref_category_home_content_settings "Ter me jami">
-
+<!ENTITY pref_home_updates "Ngec manyen mapire kene">
 <!ENTITY pref_home_updates_enabled "Kicako">
 <!ENTITY pref_home_updates_wifi "Ki i Wi-Fi keken">
 <!ENTITY pref_home_suggested_sites "Nyut kakube ma kimiyo me tam">
@@ -198,6 +198,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; Gang">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -208,21 +209,22 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-
+<!ENTITY pref_header_search "Yeny">
 <!ENTITY pref_header_privacy_short "Mung">
-
-
+<!ENTITY pref_header_accessibility "Kit me nongo">
+<!ENTITY pref_header_advanced "Ma lamal">
 <!ENTITY pref_header_help "Kony">
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Kakube me intanet">
 <!ENTITY pref_cookies_accept_all "Kicako">
 <!ENTITY pref_cookies_not_accept_foreign "Kicako, pe kwako pati me adek">
 <!ENTITY pref_cookies_disabled "Kijuko woko">
 
-
-
-
+<!ENTITY pref_tap_to_load_images_title2 "Nyut cal">
+<!ENTITY pref_tap_to_load_images_enabled "Jwijwi">
+<!ENTITY pref_tap_to_load_images_data "Ki i Wi-Fi keken">
+<!ENTITY pref_tap_to_load_images_disabled2 "Kigengo woko">
 
 
 <!ENTITY pref_tracking_protection_title "Gwokke ikom lubo kor">
@@ -250,6 +252,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Pe kombedi">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Cit i ter">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -307,7 +310,7 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "Tii ki i cwil me donyo ma dit">
-
+<!ENTITY pref_sync2 "Dony iye">
 <!ENTITY pref_sync_summary2 "Tim dirica matino, alamabuk, dony iye, gin mukato ni marom">
 <!ENTITY pref_search_suggestions "Nyut byek me yeny maplo">
 <!ENTITY pref_history_search_suggestions "Nyut jami mukato me yeny">
@@ -368,15 +371,17 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Ngec manyen mapire kene">
 <!ENTITY pref_update_autodownload_wifi "Ki i Wi-Fi keken">
 <!ENTITY pref_update_autodownload_never "Pe">
-
+<!ENTITY pref_update_autodownload_always "Jwijwi">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Kony">
 
 <!ENTITY quit "Wek woko">
 
+<!ENTITY addons "Med ikome">
 
 <!ENTITY downloads "Gam">
 <!ENTITY char_encoding "Kit ma Kicoyo Kwede">
@@ -458,7 +463,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Yeny me wang kio ma opong">
 
 
-
+<!ENTITY pref_tab_queue_summary4 "Gwok kakube naka wa tyen ma lacen ma iyabo &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -515,6 +520,8 @@ size. -->
 <!ENTITY home_top_sites_add "Med kakube">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "&brandShortName; Gang">
 <!ENTITY home_history_title "Gin mukato">
 <!ENTITY home_clear_history_button "Jwa yeny mukato">
 <!ENTITY home_clear_history_confirm "Imoko ada ni imito jwayo gin mukato ni?">
@@ -535,6 +542,8 @@ size. -->
 <!ENTITY home_default_empty "Pe tye gin mo ma kinongo pi dirica man.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Cen wa i &formatS;">
 
 <!ENTITY home_remote_tabs_title "Ditija matidi me Synced">
 <!ENTITY home_remote_tabs_empty "Dirica matino ni ki i nyonyo mukene nyute kany.">
@@ -585,7 +594,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Kube ma tye ki ber bedo">
 <!ENTITY identity_connection_insecure "Kube ma pe ki ber bedo">
 <!ENTITY identity_login_insecure "Kakube man pe tye ki ber bedo ki dony iyie ni twero bedo goro.">
-
+<!ENTITY identity_connection_chromeui "Man potbuk me &brandShortName; matye ki ber bedo">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ogengo gin ma pe ki bedo ki i potbuk man.">
@@ -609,6 +618,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Giyweyo woko tic pa dano">
 <!ENTITY private_data_fail "Pe onwongo gitwero yweyo woko tic pa dano">
 
+<!ENTITY bookmarkhistory_button_import "Kel ki woko">
 <!ENTITY bookmarkhistory_import_both "Kelo ki woko alama buke ki lok mukato angecki Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Kel ki woko alama buke ki Android">
 <!ENTITY bookmarkhistory_import_history "Kelo kiwoko lok mukato ki Android">
@@ -645,6 +655,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Ye">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Kare pa welo manyen">
@@ -719,16 +730,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "Med ikome">
+
 <!ENTITY restrictable_feature_private_browsing "Yeny pa ma megi">
 
+<!ENTITY restrictable_feature_clear_history "Jwa gin mukato">
+
+<!ENTITY restrictable_feature_advanced_settings "Ter ma lamal">
+
+<!ENTITY restrictable_feature_camera_microphone "Lamak cal ki mikropon">
 
 
-
-
-
-
-
-
+<!ENTITY restrictable_feature_block_list_description "Geng kakube ma keto jami ma pigi lit.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -745,7 +758,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_title2 "&brandShortName; dong pe biketo ngec manyen">
+<!ENTITY eol_notification_summary "Gudi me nongo ngec mapol">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+<!ENTITY whatsnew_notification_title "&brandShortName; tye kakare">
 

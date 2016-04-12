@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Email">
-
+<!ENTITY fxaccount_password_hint "Mung me donyo">
 <!ENTITY fxaccount_password_hide "Kan">
 <!ENTITY fxaccount_password_show "Nyuti">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; dong kitero, ento pe timo marom pire kene. Lok “Auto-sync data” i Ter me Android &gt; Tic ki data.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; dong kitero, ento pe timo marom pire kene. Lok “Auto-sync data” i jami ayera me Ter me Android &gt; Akaunt.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Gudi me donyo iyie akaunt ni manyen me Firefox.">
-
+<!ENTITY fxaccount_status_bookmarks "Alamabuk">
 <!ENTITY fxaccount_status_history "Gin mukato">
 <!ENTITY fxaccount_status_passwords2 "Dony iyie">
 <!ENTITY fxaccount_status_tabs "Yab dirica matino">
