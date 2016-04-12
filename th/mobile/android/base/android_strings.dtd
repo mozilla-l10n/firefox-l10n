@@ -39,7 +39,7 @@
 
 <!ENTITY  crash_reporter_title "ตัวรายงานข้อขัดข้อง &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; เกิดปัญหาและขัดข้อง แท็บของคุณจะถูกแสดงรายการบนหน้าเริ่มต้นของ &brandShortName; เมื่อคุณเริ่มการทำงานใหม่">
-<!ENTITY  crash_send_report_message3 "แจ้ง &vendorShortName; เกี่ยวกับข้อขัดข้องนี้เพื่อให้สามารถแก้ไขได้">
+<!ENTITY  crash_send_report_message3 "แจ้ง &vendorShortName; เกี่ยวกับข้อขัดข้องนี้เพื่อให้พวกเขาสามารถแก้ไขได้">
 <!ENTITY  crash_include_url2 "รวมที่อยู่ของหน้าที่ฉันเข้าชมอยู่">
 <!ENTITY  crash_sorry "เราต้องขออภัย">
 <!ENTITY  crash_comment "เพิ่มความคิดเห็น (ความคิดเห็นจะปรากฏต่อสาธารณะ)">
@@ -133,7 +133,7 @@
 <!ENTITY overlay_share_bookmark_btn_label "ที่คั่นหน้า">
 <!ENTITY overlay_share_reading_list_btn_label "เพิ่มไปยังรายการอ่าน">
 <!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่แล้ว">
-<!ENTITY overlay_share_reading_list_btn_label_already "อยู่ในรายการอ่านอยู่แล้ว">
+<!ENTITY overlay_share_reading_list_btn_label_already "มีในรายการอ่านอยู่แล้ว">
 <!ENTITY overlay_share_send_other "ส่งไปยังอุปกรณ์อื่น ๆ">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -253,6 +253,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "คุณสามารถเปลี่ยนสิ่งนี้ได้ในภายหลังในการตั้งค่า">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "เปิด อนุญาตให้วาดทับแอปอื่นๆ">
 <!ENTITY tab_queue_prompt_positive_action_button "เปิดใช้งาน">
 <!ENTITY tab_queue_prompt_negative_action_button "ไม่ใช่ตอนนี้">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -269,6 +270,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 แท็บกำลังรออยู่">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "เพื่อ \&quot;เปิดหลายลิงก์\&quot; โปรดเปิดใช้งานการอนุญาต \u0027วาดทับแอปอื่นๆ\u0027 สำหรับ &brandShortName;">
 
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
@@ -306,11 +309,11 @@ size. -->
 <!ENTITY pref_font_size_preview_text "หมาป่าว่องไวสีส้มกระโดดข้ามความคาดหมายของคุณ ด้วยความเร็วที่มากกว่า ยืดหยุ่นกว่า และปลอดภัยกว่า เพราะเราเป็นองค์กรไม่แสวงหาผลกำไร เราจึงมีอิสระในการพัฒนาตามเพื่อคุณ โดยไม่มีแรงกดดันใด ๆ ซึ่งนั่นหมายความว่าคุณจะได้รับประสบการณ์ที่ดีกว่า และสร้างอนาคตที่สดใสกว่าให้กับเว็บ">
 
 <!ENTITY pref_media_autoplay_enabled "อนุญาตการเล่นอัตโนมัติ">
-<!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและสื่ออื่น ๆ ของเว็บไซต์โดยอัตโนมัติ">
+<!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและเนื้อหาสื่ออื่นของเว็บไซต์โดยอัตโนมัติ">
 <!ENTITY pref_zoom_force_enabled "เปิดใช้งานการย่อ-ขยายตลอดเวลา">
 <!ENTITY pref_zoom_force_enabled_summary "บังคับใช้เพื่อให้สามารถย่อขยายดูได้ทุกหน้า">
 <!ENTITY pref_voice_input "การรับค่าด้วยเสียง">
-
+<!ENTITY pref_voice_input_summary2 "อนุญาตการเขียนตามคำบอกเสียงในแถบ URL">
 <!ENTITY pref_qrcode_enabled "ตัวอ่านรหัส QR">
 <!ENTITY pref_qrcode_enabled_summary2 "อนุญาตตัวสแกน QR ในแถบ URL">
 
@@ -494,7 +497,7 @@ size. -->
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_remove "เอาออกจากรายการอ่าน">
-<!ENTITY reading_list_duplicate "หน้านี้มีอยู่ในรายการอ่านอยู่แล้ว">
+<!ENTITY reading_list_duplicate "หน้ามีในรายการอ่านของคุณอยู่แล้ว">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
@@ -605,7 +608,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ได้ปิดกั้นเนื้อหาที่ไม่ปลอดภัยในหน้านี้">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ได้ปิดกั้นเนื้อหาบางส่วนที่ไม่ปลอดภัยในหน้านี้">
-<!ENTITY mixed_content_display_loaded1 "บางส่วนของหน้านี้ไม่ปลอดภัย (อย่างเช่นภาพ)">
+<!ENTITY mixed_content_display_loaded1 "บางส่วนของหน้านี้ไม่ปลอดภัย (อย่างเช่น ภาพ)">
 <!ENTITY mixed_content_protection_disabled1 "คุณได้ปิดใช้งานการป้องกันจากเนื้อหาที่ไม่ปลอดภัย">
 <!-- Tracking content notifications in site identity popup -->
 
