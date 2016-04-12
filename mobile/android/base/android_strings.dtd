@@ -42,7 +42,7 @@
 <!ENTITY  crash_send_report_message3 "Notificar a &vendorShortName; sobre este travamento para que eles possam corrigi-lo">
 <!ENTITY  crash_include_url2 "Incluir o endereço da página onde eu estava">
 <!ENTITY  crash_sorry "Lamentamos">
-<!ENTITY  crash_comment "Adicione um comentário (visível ao público)">
+<!ENTITY  crash_comment "Adicionar um comentário (visível ao público)">
 <!ENTITY  crash_allow_contact2 "Permitir que a &vendorShortName; contate-me sobre este relatório">
 <!ENTITY  crash_email "Seu e-mail">
 <!ENTITY  crash_closing_alert "Sair sem enviar um relatório de travamento?">
@@ -159,7 +159,7 @@
 <!ENTITY pref_category_datareporting "Escolha de dados">
 <!ENTITY pref_learn_more "Saiba mais">
 <!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
-<!ENTITY pref_category_add_search_providers "Adicione mais mecanismos de pesquisa">
+<!ENTITY pref_category_add_search_providers "Adicionar mais mecanismos de pesquisa">
 <!ENTITY pref_category_search_restore_defaults "Restaurar mecanismos de pesquisa">
 <!ENTITY pref_search_restore_defaults "Restaurar padrões">
 <!ENTITY pref_search_restore_defaults_summary "Restaurar padrões">

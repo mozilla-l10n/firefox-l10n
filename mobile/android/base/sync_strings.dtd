@@ -99,7 +99,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Você deve atender a requisitos específicos de idade para criar uma conta.'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Saiba mais'>
 
-<!ENTITY fxaccount_confirm_account_header 'Confirme sua conta'>
+<!ENTITY fxaccount_confirm_account_header 'Confirmar sua conta'>
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Um link de confirmação foi enviado para &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Reenviar e-mail'>
