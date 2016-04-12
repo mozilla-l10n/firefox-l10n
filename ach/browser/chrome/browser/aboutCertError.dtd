@@ -27,3 +27,4 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "Med ma kiweko woko…">
 <!ENTITY certerror.copyToClipboard.label "Lok coc i bao coc">
 
+<!ENTITY errorReporting.automatic "Mi ripot me bal calo man me konyo Mozilla nongo kakube mape ki tero maber">

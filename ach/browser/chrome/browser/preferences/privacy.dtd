@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
-
-
-
-
+<!ENTITY  trackingProtectionAlways.label       "Jwijwi">
+<!ENTITY  trackingProtectionAlways.accesskey   "w">
+<!ENTITY  trackingProtectionPrivate.label      "I dirica me mung manyen keken">
+<!ENTITY  trackingProtectionPrivate.accesskey  "k">
+<!ENTITY  trackingProtectionNever.label        "Pe matwal">
+<!ENTITY  trackingProtectionNever.accesskey    "a">
 <!ENTITY  trackingProtectionLearnMore.label    "Nong ngec mapol">
 
 
@@ -19,6 +19,8 @@
 <!ENTITY changeBlockList.accesskey      "L">
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+
+<!ENTITY  doNotTrack.pre.label          "Itwero bene ">
 
 
 
