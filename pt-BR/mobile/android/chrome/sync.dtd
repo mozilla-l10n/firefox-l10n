@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sincronizar agora">
 
 <!ENTITY sync.setup.title           "Conectar-se ao Sync">
-<!ENTITY sync.setup.pair            "Para ativar, selecione &quot;Parear dispositivo&quot; no seu outro dispositivo.">
+<!ENTITY sync.setup.pair            "Para ativar, selecionar &#x0022;Parear dispositivo&#x0022; no seu outro dispositivo.">
 <!ENTITY sync.fallback              "Não estou perto do meu computador…">
 <!ENTITY sync.setup.manual          "Forneça as informações da sua conta do Sync">
 <!ENTITY sync.account               "Nome da conta">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Aguardando pelo outro dispositivo…">
 
 <!ENTITY sync.pair.title            "Parear dispositivo">
-<!ENTITY sync.pair.description      "Para ativar seu novo dispositivo, selecione &quot;Configurar Sync&quot; no dispositivo.">
+<!ENTITY sync.pair.description      "Para ativar seu novo dispositivo, selecionar &#x0022;Configurar Sync&#x0022; no dispositivo.">
 <!ENTITY sync.setup.close           "Fechar">
 <!ENTITY sync.setup.waitingdownload "Seus dados estão sendo recebidos em segundo plano. Você pode fechar esta janela quando quiser.">

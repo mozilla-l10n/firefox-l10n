@@ -209,7 +209,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "Digite o endereço ou termo para pesquisa">
+<!ENTITY home_homepage_hint_user_address "Digitar o endereço ou termo para pesquisa">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Geral">
@@ -282,7 +282,7 @@
 <!ENTITY pref_clear_private_data_now_tablet "Limpar agora">
 <!ENTITY pref_clear_on_exit_title3 "Limpar dados ao sair">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; irá limpar automaticamente os seus dados sempre que selecionar \u0022Sair\u0022 no menu principal">
-<!ENTITY pref_clear_on_exit_dialog_title "Selecione quais dados limpar">
+<!ENTITY pref_clear_on_exit_dialog_title "Selecionar quais dados limpar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Habilitado">
 <!ENTITY pref_plugins_tap_to_play "Toque para reproduzir">
@@ -353,8 +353,8 @@ size. -->
 <!ENTITY pref_panels_move_down "Mover para baixo">
 
 <!ENTITY datareporting_notification_title "Estatísticas e dados do &brandShortName;">
-<!ENTITY datareporting_notification_action_long "Escolha quais informações compartilhar">
-<!ENTITY datareporting_notification_action "Escolha o que compartilhar">
+<!ENTITY datareporting_notification_action_long "Selecionar quais informações compartilhar">
+<!ENTITY datareporting_notification_action "Selecionar o que compartilhar">
 <!ENTITY datareporting_notification_summary "Para melhorar a sua experiência, o &brandShortName; envia automaticamente algumas informações para a &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Para melhorar a sua experiência, o &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
@@ -437,7 +437,7 @@ size. -->
 <!ENTITY contextmenu_paste "Colar">
 <!ENTITY contextmenu_copyurl "Copiar endereço">
 <!ENTITY contextmenu_edit_bookmark "Editar">
-<!ENTITY contextmenu_subscribe "Inscrever-se à página">
+<!ENTITY contextmenu_subscribe "Assinar página">
 <!ENTITY contextmenu_site_settings "Editar config. do site">
 <!ENTITY contextmenu_top_sites_edit "Editar">
 <!ENTITY contextmenu_top_sites_pin "Fixar site">
@@ -458,7 +458,7 @@ size. -->
 <!ENTITY doorhanger_login_select_message "Copiar senha de &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Senha copiada para a área de transferência">
 <!ENTITY doorhanger_login_select_toast_copy_error "Não foi possível copiar a senha">
-<!ENTITY doorhanger_login_select_action_text "Selecione outro login">
+<!ENTITY doorhanger_login_select_action_text "Selecionar outro login">
 <!ENTITY doorhanger_login_select_title "Copiar senha de">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
@@ -583,9 +583,9 @@ size. -->
 <!ENTITY pin_site_dialog_hint "Forneça uma palavra-chave de pesquisa">
 
 <!ENTITY filepicker_title "Selecionar arquivo">
-<!ENTITY filepicker_audio_title "Selecione ou grave um som">
-<!ENTITY filepicker_image_title "Selecione ou tire uma foto">
-<!ENTITY filepicker_video_title "Selecione ou grave um vídeo">
+<!ENTITY filepicker_audio_title "Selecionar ou gravar um som">
+<!ENTITY filepicker_image_title "Selecionar ou tirar uma foto">
+<!ENTITY filepicker_video_title "Selecionar ou gravar um vídeo">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Conectado a">

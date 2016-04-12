@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Conectar-se ao &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Adicionar conta &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'Parear dispositivo'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Para ativar seu novo dispositivo, selecione “Configurar &syncBrand.shortName.label;” nele.'>
-<!ENTITY sync.subtitle.header2.label 'Digite este código no outro dispositivo'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Selecione “&sync.title.pair.label;” nas opções &syncBrand.shortName.label; no Firefox do seu outro dispositivo.'>
-<!ENTITY sync.subtitle.pair.label 'Para ativar, selecione “Parear dispositivo” no seu outro dispositivo.'>
+<!ENTITY sync.subtitle.connect.label 'Para ativar seu novo dispositivo, selecionar “Configurar &syncBrand.shortName.label;” nele.'>
+<!ENTITY sync.subtitle.pair.label 'Para ativar, selecionar “Parear dispositivo” no seu outro dispositivo.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Mostrar como.'>
-<!ENTITY sync.link.advancedsetup.label 'Configuração avançada…'>
 <!ENTITY sync.link.nodevice.label 'O dispositivo não está comigo…'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Aguardando pelo outro dispositivo…'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Entre com as informações da sua conta &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Nome da conta'>
-<!ENTITY sync.input.password.label 'Senha'>
-<!ENTITY sync.input.key.label 'Chave de recuperação'>
-<!ENTITY sync.checkbox.server.label 'Usar um outro servidor'>
-<!ENTITY sync.input.server.label 'URL do servidor'>
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Não foi possível configurar o &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label 'O &syncBrand.fullName.label; não conseguiu conectar-se ao servidor. Deseja tentar de novo?'>
-<!ENTITY sync.button.tryagain.label 'Tentar de novo'>
-<!ENTITY sync.button.manual.label 'Configuração manual'>
-<!ENTITY sync.subtitle.nointernet.label 'Sem conexão com a internet.'>
-<!ENTITY sync.subtitle.failaccount.label 'Falha na criação da conta no seu dispositivo.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Você possui mais de um Firefox instalado? Atualmente, o &syncBrand.fullName.label; suporta somente uma instalação do Firefox de cada vez. Por favor, desinstale outras instâncias para usar o &syncBrand.shortName.label;.'>
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Configuração concluída'>
-<!ENTITY sync.subtitle.success.label1 'Seus dados estão sendo recebidos em segundo plano. Entre em Configurações para gerenciar sua conta ou comece a navegar com o &brandShortName;.'>
-<!ENTITY sync.settings.label 'Configurações'>
-<!ENTITY sync.subtitle.manage.label1 'Sua conta &syncBrand.fullName.label; já está configurada. Entre em Configurações para gerenciá-la ou inicie o &brandShortName;.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Por favor, tente de novo.'>
-<!ENTITY sync.pair.connectlocation.label 'Para ativar o seu novo dispositivo, selecione “Configurar o &syncBrand.shortName.label;” no dispositivo e depois selecione “Eu tenho uma conta.”'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Opções'>
-<!ENTITY sync.summary.pair.label 'Conecte outro dispositivo a sua conta &syncBrand.shortName.label;'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'O que sincronizar'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Sincronizar seus…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Favoritos'>
 <!ENTITY sync.configure.engines.title.passwords2 'Logins'>
 <!ENTITY sync.configure.engines.title.history 'Histórico'>
 <!ENTITY sync.configure.engines.title.tabs 'Abas'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Cancelar'>
-<!ENTITY sync.button.connect.label 'Conectar'>
-<!ENTITY sync.button.ok.label 'OK'>
-
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (descontinuado)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -93,20 +40,7 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Afixado'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Somente uma conta &syncBrand.fullName.label; é suportada.'>
-<!ENTITY sync.notification.configure.saved 'Suas preferências foram salvas.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Nome da conta ou senha incorreta.'>
-<!ENTITY sync.invalidserver.label 'Por favor, insira um URL de servidor válido'>
-<!ENTITY sync.verifying.label 'Verificando…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Chave de recuperação incorreta. Por favor, tente de novo.'>
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Enviar aba para os dispositivos'>
-<!ENTITY sync.button.send.label 'Enviar'>
-<!ENTITY sync.button.set.up.sync.label 'Configurar &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurar o &syncBrand.shortName.label; para enviar abas'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurar o &syncBrand.fullName.label; no seu dispositivo para enviar abas para outros dispositivos.'>
 <!ENTITY sync.text.tab.sent.label 'Sua aba foi enviada!'>
@@ -226,7 +160,7 @@
 <!ENTITY fxaccount_remove_account 'Desconectar&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Remover conta Firefox?'>
-<!ENTITY fxaccount_remove_account_dialog_message 'O &brandShortName; interromperá a sincronização com a sua conta, mas não excluirá nenhum de seus dados pessoais neste dispositivo.'>
+<!ENTITY fxaccount_remove_account_dialog_message 'O &brandShortName; irá parar a sincronização com a sua conta, mas nenhum dos seus dado de navegação serão excluído neste dispositivo.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Conta Firefox &formatS; removida.'>
