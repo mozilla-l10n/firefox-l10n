@@ -11,7 +11,7 @@
 <!ENTITY forwardMsg.label                     "Sìn air adhart teachdaireachdan:">
 <!ENTITY forwardMsg.accesskey                 "S">
 <!ENTITY inline.label                         "Taobh a-staigh na loidhne">
-<!ENTITY asAttachment.label                   "Taobh a-staigh na loidhne">
+<!ENTITY asAttachment.label                   "Mar cheanglachan">
 <!ENTITY addExtension.label                   "cuir leudachan ri ainm an fhaidhle">
 <!ENTITY addExtension.accesskey               "e">
 
