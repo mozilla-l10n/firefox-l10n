@@ -748,7 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "เสร็จ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.connectionSecure "การเชื่อมต่อนิรภัย">
+<!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่นิรภัย">
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
 <!ENTITY identity.connectionVerified1 "คุณกำลังเชื่อมต่อไปยังเว็บไซต์นี้อย่างปลอดภัย ดำเนินงานโดย:">
