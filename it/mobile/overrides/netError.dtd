@@ -28,6 +28,12 @@
   <li>Verificare se il file è stato spostato, rinominato o rimosso.</li>
 </ul>
 ">
+<!ENTITY fileAccessDenied.title "Accesso negato al file">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Il file potrebbe essere stato rimosso o spostato, oppure non si possiedono le autorizzazioni necessarie per aprirlo.</li>
+</ul>
+">
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
 <p>Per qualche motivo &brandShortName; non è in grado di caricare questa pagina.</p>
