@@ -26,7 +26,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; bilinmeyen bir nedenden dolayı bu sayfayı açamıyor.</p>">
 
 <!ENTITY malformedURI.title "Adres geçersiz">
-<!ENTITY malformedURI.longDesc " <ul> <li>Web adresleri genellikle <strong>http://www.mozilla.org.tr/</strong> şeklinde yazılır.</li> <li>Bölü işaretini <strong>(/)</strong> doğru şekilde kullandığınızdan emin olun.</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Web adresleri genelde <strong>http://www.example.com/</strong> biçiminde yazılır.</li> <li>Adreste sağa yatık bölü işareti (<strong>/</strong>) bulunduğundan emin olun.</li> </ul>">
 
 <!ENTITY netInterrupt.title "Bağlantı kesintiye uğradı">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -35,7 +35,7 @@
 <!ENTITY notCached.longDesc "<p>Talep edilen belge önbellekte mevcut değil.</p><ul><li>&brandShortName; bir güvenlik önlemi olarak, hassas belgeleri otomatik olarak yeniden talep etmez.</li><li>Belgeyi web sitesinden tekrar talep etmek için Yeniden dene'ye tıklayın.</li></ul>">
 
 <!ENTITY netOffline.title "Çevrimdışı kip">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Çevrim içi moda geçip sayfayı tazelemek için &quot;Yeniden dene&quot;ye tıklayın.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Çevrimiçi moda geçip sayfayı tazelemek için &quot;Yeniden dene&quot;ye tıklayın.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Lütfen site sahipleriyle iletişim kurarak onları bu sorundan haberdar edin.</li> </ul>">
@@ -59,7 +59,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Vekil sunucu ayarlarınızın doğru olup olmadığına bakın.</li> <li>Bilgisayarınızın düzgün işleyen bir ağ bağlantısı olup olmadığına bakın.</li> <li>Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu tarafından korunuyorsa &brandShortName; uygulamasının Web’e erişim izni olduğundan emin olun.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Sayfa doğru bir şekilde yönlendirilmiyor">
-<!ENTITY redirectLoop.longDesc " <ul> <li>Bazen bu sorunun nedeni çerezlerin etkisizleştirilmesi veya reddedilmesi olabilmektedir.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Bu sorun bazen çerezlerin devre dışı bırakılmasından veya reddedilmesinden kaynaklabilir.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Beklenmeyen sunucu yanıtı">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Sisteminizde Kişisel Güvenlik Yöneticisi'nin kurulu olduğundan emin olun.</li> <li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> </ul>">
