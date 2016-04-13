@@ -31,7 +31,7 @@
 <!ENTITY dataChoicesTab.label            "Escolha de dados">
 
 <!ENTITY healthReportDesc.label          "Ajuda você a entender o desempenho do navegador e compartilha dados com a &vendorShortName; sobre a integridade do navegador">
-<!ENTITY enableHealthReport.label        "Ativar Relatório de Integridade do &brandShortName;">
+<!ENTITY enableHealthReport.label        "Ativar o relatório de integridade do &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "I">
 <!ENTITY healthReportLearnMore.label     "Saiba mais">
 
@@ -116,7 +116,7 @@
 <!ENTITY certs.ask.accesskey             "P">
 <!ENTITY enableOCSP.label                "Consultar servidores OCSP para confirmar a validade atual dos certificados">
 <!ENTITY enableOCSP.accesskey            "o">
-<!ENTITY viewCerts.label                 "Ver certificados">
+<!ENTITY viewCerts.label                 "Exibir certificados">
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey   "D">
