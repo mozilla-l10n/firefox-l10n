@@ -17,6 +17,7 @@
 <!ENTITY firstrun_bookmarks_subtext "북마크와 방문기록에서 검색하여 결과를 가져옵니다.">
 <!ENTITY firstrun_data_title "데이터">
 <!ENTITY firstrun_data_message "더 적은 데이터, 더 많은 절약">
+<!ENTITY firstrun_data_subtext2 "데이터 사용량을 줄이기 위해 방문하는 모든 사이트에서 이미지를 가져오지 않습니다.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, 항상 당신 곁에">
 <!ENTITY firstrun_sync_subtext "탭, 암호, 그리고 여러분이 사용하는 모든 것을 동기화합니다.">
@@ -470,6 +471,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "전체 화면 브라우징">
 <!ENTITY pref_scroll_title_bar_summary2 "페이지를 스크롤 할 때 &brandShortName; 제목창을 숨깁니다">
 
+<!ENTITY pref_tab_queue_title3 "탭 목록">
 <!ENTITY pref_tab_queue_summary4 "다음에 &brandShortName;를 열 때까지 링크 저장">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
