@@ -320,7 +320,7 @@ size. -->
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
 <!ENTITY pref_sync2 "เข้าสู่ระบบ">
 <!ENTITY pref_sync_summary2 "ผสานแท็บ ที่คั่นหน้า การเข้าสู่ระบบ ประวัติของคุณ">
-<!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
+<!ENTITY pref_search_suggestions "แสดงคำแนะนำการค้นหา">
 <!ENTITY pref_history_search_suggestions "แสดงประวัติการค้นหา">
 <!ENTITY pref_import_options "ตัวเลือกการนำเข้า">
 <!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเบราว์เซอร์ในเครื่อง">
@@ -344,7 +344,7 @@ size. -->
 <!ENTITY pref_dialog_default "ค่าปริยาย">
 <!ENTITY pref_dialog_remove "เอาออก">
 
-<!ENTITY pref_search_last_toast "คุณไม่สามารถเอาออกหรือปิดใช้งานเครื่องมือค้นหาตัวสุดท้าย">
+<!ENTITY pref_search_last_toast "คุณไม่สามารถเอาออกหรือปิดใช้งานเครื่องมือค้นหาตัวสุดท้ายของคุณ">
 
 <!ENTITY pref_panels_show "แสดง">
 <!ENTITY pref_panels_hide "ซ่อน">
