@@ -28,7 +28,7 @@
 <!ENTITY helpSafeMode.stop.label       "Reiniciar com os complementos ativados">
 <!ENTITY helpSafeMode.stop.accesskey   "r">
 
-<!ENTITY healthReport2.label      "Relatório de Integridade do &brandShorterName;">
+<!ENTITY healthReport2.label      "Relatório de integridade do &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Dados para suporte">
