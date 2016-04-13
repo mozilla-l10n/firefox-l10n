@@ -2,72 +2,78 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY titledefault.label    "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
+<!ENTITY newFolderCmd.label "Jild…">
+<!ENTITY newFolderCmd.accesskey "J">
+<!ENTITY closeTabCmd2.label "Ichki oynani yopish">
+<!ENTITY closeTabCmd2.accesskey "y">
+<!ENTITY closeOtherTabsCmd2.label "Boshqa ichki oynalarni yopish">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY recentlyClosedTabsCmd.label "Yaqinda yopilgan ichki oynalar">
+<!ENTITY recentlyClosedTabsCmd.accesskey "Y">
 
-
-
-
-
-
-
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY moveToNewWindow.label "Yangi oynaga ko‘chirish">
+<!ENTITY moveToNewWindow.accesskey "y">
+<!ENTITY newVirtualFolderCmd.label "Saqlangan qidiruvlar…">
+<!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newOtherAccountsCmd.label "Boshqa hisoblar…">
+<!ENTITY newOtherAccountsCmd.accesskey "B">
+<!ENTITY newCreateEmailAccountCmd.label "Yangi pochta hisobini olish…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "o">
+<!ENTITY newExistingEmailAccountCmd.label "Mavjud pochta hisobi…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "M">
+<!ENTITY newIMAccountCmd.label "Chat hisobi…">
+<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "Tasma hisobi…">
+<!ENTITY newFeedAccountCmd.accesskey "T">
+<!ENTITY newIMContactCmd.label "Chat kontakti…">
+<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY openMessageFileCmd.label "Saqlangan xabarni ochish…">
+<!ENTITY openMessageFileCmd.accesskey "o">
+<!ENTITY saveAsMenu.label "Boshqacha saqlash">
+<!ENTITY saveAsMenu.accesskey "B">
 <!ENTITY saveAsFileCmd.label "Fayl">
 <!ENTITY saveAsFileCmd.accesskey "F">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Namuna">
+<!ENTITY saveAsTemplateCmd.accesskey "N">
+<!ENTITY getNewMsgForCmd.label "Yangi xabar olish">
+<!ENTITY getNewMsgForCmd.accesskey "x">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Barcha hisoblar">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "B">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Joriy hisob">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "J">
+<!ENTITY getNextNMsgCmd.label "Keyingi 500 ta xabarni olish">
+<!ENTITY getNextNMsgCmd.accesskey "o">
+<!ENTITY sendUnsentCmd.label "Jo‘natilmagan xabarlarni jo‘natish">
+<!ENTITY sendUnsentCmd.accesskey "j">
+<!ENTITY subscribeCmd.label "Obuna boʻlish…">
+<!ENTITY subscribeCmd.accesskey "O">
+<!ENTITY deleteFolder.label "Jildni o‘chirish">
+<!ENTITY deleteFolder.accesskey "o">
+<!ENTITY renameFolder.label "Jild nomini o‘zgartirish…">
+<!ENTITY renameFolder.accesskey "o">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Jildlarni zichlash">
+<!ENTITY compactFolders.accesskey    "J">
+<!ENTITY emptyTrashCmd.label "Chiqindilar qutisini boʻshatish">
+<!ENTITY emptyTrashCmd.accesskey    "b">
+<!ENTITY offlineMenu.label "Oflayn">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineGoOfflineCmd.label "Oflayn ishlash">
+<!ENTITY offlineGoOfflineCmd.accesskey "i">
+<!ENTITY synchronizeOfflineCmd.label "Hozir yuklab olish/sinxronlash…">
+<!ENTITY synchronizeOfflineCmd.accesskey "s">
+<!ENTITY settingsOfflineCmd2.label "Oflayn sozlamalari">
+<!ENTITY settingsOfflineCmd2.accesskey "O">
 
 
 
