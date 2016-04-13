@@ -53,7 +53,7 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adres anlaşılamadı">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Bu adresi açmak için başka bir yazılım kurmanız gerekebilir.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Bu adresi açmak için başka bir yazılım yüklemeniz gerekebilir.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Vekil sunucu bağlantı kabul etmiyor">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Vekil sunucu ayarlarınızın doğru olup olmadığına bakın.</li> <li>Vekil sunucunun çalıştığından emin olmak için ağ yöneticinizden bilgi alabilirsiniz.</li> </ul>">
