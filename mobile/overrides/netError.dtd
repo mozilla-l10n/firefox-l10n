@@ -31,7 +31,7 @@
 <!ENTITY malformedURI.title "Adres geçersiz">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Web adresleri genellikle <strong>http://www.example.com/</strong>şeklinde yazılır.</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Ara</button> </div> <li>Sağa yatık bölü işaret kullandığınızdan emin olun (örn. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Web adresleri genellikle <strong>http://www.example.com/</strong>şeklinde yazılır.</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Ara</button> </div> <li>Sağa yatık bölü işareti (<strong>/</strong>) kullandığınızdan emin olun.</li> </ul>">
 
 <!ENTITY netInterrupt.title "Bağlantı kesildi">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -68,7 +68,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Vekil sunucu ayarlarını kontrol ederek doğruluğundan emin olun.</li> <li>Cihazınızın veri veya Wi-Fi bağlantısını kontrol ederek çalıştığından emin olun. <button id='wifi'>Wi-Fi&#39;ı etkinleştir</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Sayfa doğru bir şekilde yönlendirilmiyor">
-<!ENTITY redirectLoop.longDesc " <ul> <li>Bazen bu sorunun nedeni çerezlerin etkisizleştirilmesi veya reddedilmesi olabilmektedir.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Bu sorun bazen çerezlerin devre dışı bırakılmasından veya reddedilmesinden kaynaklabilir.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Sunucudan beklenmeyen yanıt">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Sisteminizde Kişisel Güvenlik Yöneticisi'nin kurulu olduğundan emin olun.</li> <li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> </ul>">
