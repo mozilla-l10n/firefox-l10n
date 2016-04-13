@@ -600,8 +600,8 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_connection_secure "การเชื่อมต่อแบบปลอดภัย">
-<!ENTITY identity_connection_insecure "การเชื่อมต่อแบบไม่ปลอดภัย">
+<!ENTITY identity_connection_secure "การเชื่อมต่อปลอดภัย">
+<!ENTITY identity_connection_insecure "การเชื่อมต่อไม่ปลอดภัย">
 <!ENTITY identity_login_insecure "หน้านี้ไม่ปลอดภัยและการเข้าสู่ระบบของคุณอาจมีช่องโหว่">
 <!ENTITY identity_connection_chromeui "นี่คือหน้า &brandShortName; ที่ปลอดภัย">
 <!-- Mixed content notifications in site identity popup -->
@@ -631,7 +631,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_both "กำลังนำเข้าที่คั่นหน้าและประวัติจาก Android">
 <!ENTITY bookmarkhistory_import_bookmarks "กำลังนำเข้าที่คั่นหน้าจาก Android">
 <!ENTITY bookmarkhistory_import_history "กำลังนำเข้าประวัติจาก Android">
-<!ENTITY bookmarkhistory_import_wait "โปรดรอ…">
+<!ENTITY bookmarkhistory_import_wait "โปรดรอ...">
 
 <!ENTITY suggestions_prompt3 "คุณต้องการเปิดคำแนะนำการค้นหาหรือไม่?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -658,7 +658,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "แตะเพื่อให้ติดตั้งการปรับปรุงหลังจากดาวน์โหลดเสร็จ">
 <!ENTITY updater_downloading_retry2 "แตะเพื่อลองใหม่">
 
-<!ENTITY updater_apply_title2 "มีการปรับปรุงสำหรับ &brandShortName;">
+<!ENTITY updater_apply_title2 "มีการปรับปรุงที่ใช้งานได้สำหรับ &brandShortName;">
 <!ENTITY updater_apply_select2 "แตะเพื่อปรับปรุง">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
