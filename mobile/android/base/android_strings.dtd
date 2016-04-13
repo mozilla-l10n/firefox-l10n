@@ -282,7 +282,7 @@
 <!ENTITY pref_clear_private_data_now_tablet "ล้างตอนนี้">
 <!ENTITY pref_clear_on_exit_title3 "ล้างข้อมูลส่วนตัวเมื่อออก">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \u0022ออก\u0022 จากเมนูหลัก">
-<!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่ต้องการล้าง">
+<!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่จะล้าง">
 <!ENTITY pref_plugins "โปรแกรมเสริม">
 <!ENTITY pref_plugins_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
@@ -353,7 +353,7 @@ size. -->
 <!ENTITY pref_panels_move_down "ย้ายลง">
 
 <!ENTITY datareporting_notification_title "สถิติและข้อมูล &brandShortName;">
-<!ENTITY datareporting_notification_action_long "เลือกข้อมูลใดบ้างที่จะแบ่งปัน">
+<!ENTITY datareporting_notification_action_long "เลือกข้อมูลที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_action "เลือกสิ่งที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_summary "เพื่อปรับปรุงประสบการณ์ของคุณ &brandShortName; จะส่งข้อมูลบางส่วนไปยัง &vendorShortName; โดยอัตโนมัติ">
 <!ENTITY datareporting_notification_summary_short "เพื่อปรับปรุงประสบการณ์ของคุณ &brandShortName;…">
