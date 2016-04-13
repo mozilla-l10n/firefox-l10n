@@ -12,6 +12,8 @@
 <!ENTITY dnsNotFound.longDesc "<p>Il browser non trova il server host relativo all’indirizzo inserito.</p><ul><li>Si è commesso un errore nella digitazione del dominio? (ad esempio <q><strong>ww</strong>.example.com</q> invece di <q><strong>www</strong>.example.com</q>)</li><li>Si è certi che questo dominio esista?  La sua registrazione potrebbe essere scaduta.</li><li>È possibile navigare in altri siti?  Controllare la connessione alla rete e le impostazioni relative ai server DNS.</li><li>Il computer o la rete sono protetti da un firewall o un proxy? Eventuali impostazioni errate potrebbero bloccare la navigazione.</li></ul>">
 <!ENTITY fileNotFound.title "File non trovato">
 <!ENTITY fileNotFound.longDesc "<ul><li>L’oggetto potrebbe essere stato rinominato, rimosso o spostato?</li><li>Potrebbe esserci un errore nell’indirizzo?</li><li>Si possiedono i permessi per accedere all’oggetto specificato?</li></ul>">
+<!ENTITY fileAccessDenied.title "Accesso negato al file">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Il file potrebbe essere stato rimosso o spostato, oppure non si possiedono le autorizzazioni necessarie per aprirlo.</li></ul>">
 <!ENTITY generic.title "Impossibile completare la richiesta">
 <!ENTITY generic.longDesc "<p>Le informazioni aggiuntive relative a questo problema o errore non sono attualmente disponibili.</p>">
 <!ENTITY malformedURI.title "Indirizzo non valido">
