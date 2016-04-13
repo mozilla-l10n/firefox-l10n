@@ -503,7 +503,7 @@ size. -->
      read an article. The word "minute" should be abbreviated if possible. -->
 
 <!ENTITY reading_list_time_minutes2 "&formatD; นาที">
-<!ENTITY reading_list_time_over_an_hour "มากกว่าหนึ่งชั่วโมง">
+<!ENTITY reading_list_time_over_an_hour "มากกว่าชั่วโมง">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
