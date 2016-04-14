@@ -44,7 +44,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "В">
 <!ENTITY  bookmarkAllTabs.label              "Закласти всі вкладки…">
 <!ENTITY  bookmarkAllTabs.accesskey          "к">
-<!ENTITY  undoCloseTab.label                 "Повернути закриту вкладку">
+<!ENTITY  undoCloseTab.label                 "Відновити закриту вкладку">
 <!ENTITY  undoCloseTab.accesskey             "П">
 <!ENTITY  closeTab.label                     "Закрити вкладку">
 <!ENTITY  closeTab.accesskey                 "к">
@@ -751,7 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Захищене з'єднання">
 <!ENTITY identity.connectionNotSecure "Незахищене з'єднання">
 <!ENTITY identity.connectionFile "Ця сторінка збережена на вашому комп'ютері.">
-<!ENTITY identity.connectionVerified1 "Ви підключились через захищене з'єднання до цього сайту, яке керується:">
+<!ENTITY identity.connectionVerified1 "Ви підключились до цього сайту через захищене з'єднання, яке керується:">
 <!ENTITY identity.connectionInternal "Це захищена сторінка &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Логіни введені на цій сторінці можуть бути скомпрометовані.">
 
