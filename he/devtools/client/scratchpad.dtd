@@ -53,12 +53,16 @@
 <!ENTITY viewMenu.label               "תצוגה">
 <!ENTITY viewMenu.accesskey           "ת">
 
+<!ENTITY lineNumbers.label             "הצגת מספרי שורות">
 
 
 
+<!ENTITY largerFont.label             "גופן גדול יותר">
  <!-- + is above this key on many keyboards -->
 
+<!ENTITY smallerFont.label            "גופן קטן יותר">
 
+<!ENTITY normalSize.label             "גודל רגיל">
 
 <!ENTITY editMenu.label               "עריכה">
 <!ENTITY editMenu.accesskey           "ע">

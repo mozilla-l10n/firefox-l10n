@@ -55,6 +55,7 @@
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
+<!ENTITY inspectorHTMLPasteLastChild.label       "כצאצא אחרון">
 
 <!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
      shown in the inspector contextual-menu for the item that lets users scroll
