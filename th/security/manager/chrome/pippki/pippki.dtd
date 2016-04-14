@@ -17,7 +17,7 @@
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "กำลังดาวน์โหลดใบรับรอง">
-<!ENTITY downloadCert.message1 "คุณได้รับคำร้องขอให้เชื่อถือผู้ออกใบรับรอง (CA) ใหม่">
+<!ENTITY downloadCert.message1 "คุณได้รับคำขอให้เชื่อถือผู้ออกใบรับรอง (CA) ใหม่">
 <!ENTITY downloadCert.trustSSL "เชื่อมั่น CA แห่งนี้สำหรับการระบุเว็บไซต์">
 <!ENTITY downloadCert.trustEmail "เชื่อมั่น CA แห่งนี้สำหรับการระบุผู้ใช้อีเมล">
 <!ENTITY downloadCert.trustObjSign "เชื่อมั่น CA แห่งนี้สำหรับการระบุผู้พัฒนาซอฟต์แวร์">
@@ -26,15 +26,15 @@
 <!ENTITY downloadCert.viewCert.text "ตรวจสอบใบรับรอง CA">
 <!-- Strings for the SSL client auth ask dialog -->
 
-<!ENTITY clientAuthAsk.title "การร้องขอการระบุผู้ใช้">
-<!ENTITY clientAuthAsk.message1 "ไซต์นี้ร้องขอให้คุณระบุตัวตนด้วยใบรับรอง :">
-<!ENTITY clientAuthAsk.message2 "เลือกใบรับรองเพื่อระบุตัวตน :">
-<!ENTITY clientAuthAsk.message3 "รายละเอียดของใบรับรองที่เลือก :">
+<!ENTITY clientAuthAsk.title "การร้องขออัตลักษณ์ของผู้ใช้">
+<!ENTITY clientAuthAsk.message1 "ไซต์นี้ได้ร้องขอให้คุณระบุตนเองด้วยใบรับรอง:">
+<!ENTITY clientAuthAsk.message2 "เลือกใบรับรองเพื่อระบุตัวตน:">
+<!ENTITY clientAuthAsk.message3 "รายละเอียดของใบรับรองที่เลือก:">
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "เลือกใบรับรอง">
 <!ENTITY certPicker.info  "ใบรับรอง :">
-<!ENTITY certPicker.detailsLabel "รายละเอียดของใบรับรองที่เลือก :">
+<!ENTITY certPicker.detailsLabel "รายละเอียดของใบรับรองที่เลือก:">
 
 <!ENTITY pkcs12.setpassword.title  "เลือกรหัสผ่านสำรองใบรับรอง :">
 <!ENTITY pkcs12.setpassword.message  "รหัสผ่านสำรองใบรับรองที่กำลังจะตั้งนี้จะช่วยปกป้องแฟ้มสำรองข้อมูลที่คุณกำลังจะสร้างขึ้น คุณจำเป็นต้องตั้งรหัสผ่านนี้เสียก่อนที่จะดำเนินการสำรองข้อมูลต่อ">
