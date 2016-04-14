@@ -61,7 +61,7 @@
 <!ENTITY redirectLoop.longDesc "<p>浏览器已停止尝试请求的项。因为此站点将请求重定向到其自身，以至于不可能完成。</p><ul><li>您是否禁止了该站点所必须的 Cookie？</li><li><em>注意</em>：如果接受该站点的 Cookie 仍然不能解决此问题，那么可能是由于该站点的服务器配置问题而不是您计算机的问题。</li></ul>">
 
 <!ENTITY unknownSocketType.title "不正确的响应">
-<!ENTITY unknownSocketType.longDesc "<p>该站点响应网络请求的方式不是所预期的，以至于浏览器无法继续。</p>">
+<!ENTITY unknownSocketType.longDesc "<p>该站点响应网络请求的方式与预期不符，因此浏览器无法继续。</p>">
 
 <!ENTITY nssFailure2.title "安全连接失败">
 <!ENTITY nssFailure2.longDesc2 "<p>无法显示您尝试查看的页面，因为无法验证所收到数据的真实性。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
