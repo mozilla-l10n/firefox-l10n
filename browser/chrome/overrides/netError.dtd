@@ -39,6 +39,9 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "L’accès au fichier a été refusé">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Il a peut-être été supprimé, déplacé ou les permissions associées au fichier ne permettent pas d’y accéder.</li></ul>">
+
 <!ENTITY generic.title "La requête ne peut aboutir">
 <!ENTITY generic.longDesc "
 <p>Pour une raison inconnue, &brandShortName; ne peut pas charger cette page.</p>
@@ -137,12 +140,12 @@
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Échec de la connexion sécurisée">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>Ceci peut-être dû à un problème de configuration du serveur ou à une personne essayant d’usurper l’identité du serveur.</li>
-  <li>Si vous avez déjà pu vous connecter à ce serveur, l’erreur est peut-être temporaire et vous pouvez essayer à nouveau plus tard.</li>
-</ul>">
+
+<!ENTITY certerror.longpagetitle1 "Connexion non sécurisée">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara "Les propriétaires de <span class='hostname'/> ont mal configuré leur site web. Pour éviter que vos données ne soient dérobées, &brandShortName; ne s’est pas connecté à ce site web.">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -158,21 +161,7 @@
 <!ENTITY cspBlocked.title "Bloqué par une stratégie de sécurité de contenu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car sa stratégie de sécurité de contenu ne le permet pas.</p>">
 
-<!ENTITY securityOverride.linkText "Ou vous pouvez ajouter une exception…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Quitter cette page">
 <!ENTITY securityOverride.exceptionButtonLabel "Ajouter une exception…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningContent "
-<p>Vous ne devez pas ajouter d’exception si vous utilisez une connexion à Internet en laquelle vous n’avez pas totalement confiance ou si vous n’avez pas l’habitude de recevoir un avertissement pour ce serveur.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
 
 <!ENTITY corruptedContentError.title "Erreur due à un contenu corrompu">
 <!ENTITY corruptedContentError.longDesc "<p>La page que vous essayez de voir ne peut pas être affichée car une erreur dans la transmission de données a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">
@@ -188,10 +177,14 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informations avancées : SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "La connexion n’est pas sécurisée">
+<!ENTITY weakCryptoUsed.title "Connexion non sécurisée">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Informations avancées : SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Avancé">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> fait appel à des technologies de sécurité qui sont obsolètes et vulnérables aux attaques. Un attaquant pourrait facilement révéler des informations que vous pensiez être protégées.">
 <!ENTITY weakCryptoAdvanced.override "(Non sécurisé) Essayer de recharger <span class='hostname'></span> en faisant appel à des technologies de sécurité obsolètes">
+
+<!ENTITY certerror.pagetitle1  "Connexion non sécurisée">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ce site a recours à HTTP Strict Transport Security (HSTS) pour indiquer à &brandShortName; de n’établir qu’une connexion sécurisée. Ainsi il n’est pas possible d’ajouter d’exception pour ce certificat.">
+<!ENTITY certerror.copyToClipboard.label "Copier le texte dans le presse-papiers">
