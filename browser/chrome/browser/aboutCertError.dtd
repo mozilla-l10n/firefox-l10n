@@ -15,7 +15,7 @@ by NSS/PSM via netError.xhtml. -->
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara "<span class='hostname'/> web sitesinin sahibi siteyi hatalı yapılandırmış. Bilgilerinizi çalınmasını önlemek için &brandShortName; bu web sitesine bağlanmadı.">
+<!ENTITY certerror.introPara "<span class='hostname'/> web sitesinin sahibi siteyi hatalı yapılandırmış.  Bilgilerinizin çalınmasını önlemek için &brandShortName; bu web sitesine bağlanmadı.">
 <!ENTITY certerror.returnToPreviousPage.label "Geri dön">
 <!ENTITY certerror.learnMore "Daha fazla bilgi…">
 <!ENTITY certerror.advanced.label "Gelişmiş">
