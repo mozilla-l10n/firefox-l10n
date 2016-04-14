@@ -20,3 +20,4 @@
 <!ENTITY savePresetButton "שמירה">
 
 <!-- LOCALIZATION NOTE(presetsToggleButton): This string is used in a button which toggles the presets list -->
+<!ENTITY presetsToggleButton "ערכות">

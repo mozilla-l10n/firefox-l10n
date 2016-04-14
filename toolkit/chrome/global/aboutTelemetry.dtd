@@ -10,6 +10,9 @@
 
 
 
+<!ENTITY aboutTelemetry.showCurrentPingData "
+נתוני הפינג הנוכחיים
+">
 
 
 
@@ -36,7 +39,13 @@ JSON גולמי
 
 <!ENTITY aboutTelemetry.generalDataSection "  מידע כללי">
 
+<!ENTITY aboutTelemetry.environmentDataSection "
+  נתונים סביבתיים
+">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  יומן טלמטריה
+">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  משפטי SQL איטיים">
 

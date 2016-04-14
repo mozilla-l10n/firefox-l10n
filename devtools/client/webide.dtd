@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "ס">
 <!ENTITY projectMenu_showPrefs_label "העדפות">
 <!ENTITY projectMenu_showPrefs_accesskey "ד">
+<!ENTITY projectMenu_manageComponents_label "ניהול רכיבים נוספים">
+<!ENTITY projectMenu_refreshTabs_label "רענון לשוניות">
 
 <!ENTITY runtimeMenu_label "זמן ריצה">
 <!ENTITY runtimeMenu_accesskey "ז">
