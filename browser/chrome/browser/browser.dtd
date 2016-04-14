@@ -416,7 +416,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Ni odprtih zavhkov">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Vključite sinhronizacijo zavihov za ogled seznama zavihkov drugih naprav.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Vključite sinhronizacijo zavihkov za ogled seznama zavihkov drugih naprav.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
@@ -802,7 +802,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Odpri nastavitve &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Vklopite sinhronizacijo zavihov za ogled seznama zavihkov drugih naprav.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Vklopite sinhronizacijo zavihkov za ogled seznama zavihkov drugih naprav.">
 
 <!ENTITY syncedTabs.context.openTab.label                   "Odpri ta zavihek">
 <!ENTITY syncedTabs.context.openTab.accesskey               "O aplikaciji">
