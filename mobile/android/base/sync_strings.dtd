@@ -42,7 +42,7 @@
 <!-- Send tab to device. -->
 
 <!ENTITY sync.title.redirect.to.set.up.sync.label "ตั้งค่าให้ &syncBrand.shortName.label; ส่งแท็บ">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "ตั้งค่าให้ &syncBrand.fullName.label; บนอุปกรณ์ของคุณส่งแท็บไปยังอุปกรณ์อื่น">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "ตั้งค่าให้ &syncBrand.fullName.label; บนอุปกรณ์ของคุณส่งแท็บไปยังอุปกรณ์อื่น ๆ">
 <!ENTITY sync.text.tab.sent.label "ส่งแท็บของคุณแล้ว!">
 <!ENTITY sync.text.tab.not.sent.label "เกิดปัญหาในการส่งแท็บของคุณ">
 <!-- Firefox Account strings. -->
@@ -77,7 +77,7 @@
 <!ENTITY fxaccount_getting_started_welcome_to_sync "ยินดีต้อนรับสู่ &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "เข้าสู่ระบบเพื่อผสานแท็บ ที่คั่นหน้า การเข้าสู่ระบบ และอื่น ๆ ของคุณ">
 <!ENTITY fxaccount_getting_started_get_started "เริ่มต้นใช้งาน">
-<!ENTITY fxaccount_getting_started_old_firefox "กำลังใช้งานรุ่นเก่ากว่าของ &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_getting_started_old_firefox "กำลังใช้งาน &syncBrand.shortName.label; รุ่นเก่ากว่า?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
@@ -101,7 +101,7 @@
 
 <!ENTITY fxaccount_confirm_account_header "ยืนยันบัญชีของคุณ">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "ส่งลิงก์สำหรับยืนยันตัวตนไปที่ &formatS; แล้ว">
+<!ENTITY fxaccount_confirm_account_verification_link "ลิงก์สำหรับยืนยันตัวตนถูกส่งไปที่ &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "ส่งอีเมลใหม่">
 <!ENTITY fxaccount_confirm_account_change_email "ลืมที่อยู่อีเมลนี้?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "ส่งอีเมลสำหรับยืนยันตัวตนแล้ว">
