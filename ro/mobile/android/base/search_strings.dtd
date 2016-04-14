@@ -18,9 +18,9 @@
 <!ENTITY search_pref_title "Setări">
 <!ENTITY search_pref_button_content_description "Setări">
 
-<!ENTITY pref_clearHistory_confirmation "Istoric curățat">
+<!ENTITY pref_clearHistory_confirmation "Istoric șters">
 <!ENTITY pref_clearHistory_dialogMessage "Ștergi tot istoricul de căutare de pe dispozitiv?">
-<!ENTITY pref_clearHistory_title "Curăță istoricul de căutare">
+<!ENTITY pref_clearHistory_title "Șterge istoricul de căutare">
 
 <!ENTITY pref_searchProvider_title "Motor de căutare">
 

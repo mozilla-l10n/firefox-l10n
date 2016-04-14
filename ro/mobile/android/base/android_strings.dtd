@@ -170,7 +170,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "PONT: Adaugă orice site în lista motoarelor de căutare prin atingerea lungă pe câmpul de căutare al acestuia iar apoi apăsând pe iconița &formatI;.">
 <!ENTITY pref_category_advanced "Avansat">
-
+<!ENTITY pref_category_advanced_summary2 "Restaurează filele, pluginurile, uneltele de dezvoltare">
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
 <!ENTITY pref_developer_remotedebugging_usb "Depanare de la distanță via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depanare de la distanță via Wi-Fi">
@@ -229,6 +229,7 @@
 <!ENTITY pref_tap_to_load_images_data "Doar prin Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blocat">
 
+<!ENTITY pref_show_web_fonts "Arată fonturi web">
 
 <!ENTITY pref_tracking_protection_title "Protecție față de urmărire">
 <!ENTITY pref_tracking_protection_summary3 "Activată în navigarea privată">
@@ -255,6 +256,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Nu acum">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Du-te la Setări">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -270,19 +272,19 @@
 <!ENTITY pref_char_encoding "Codare de caractere">
 <!ENTITY pref_char_encoding_on "Arată meniul">
 <!ENTITY pref_char_encoding_off "Nu arăta meniul">
-<!ENTITY pref_clear_private_data "Curăță datele private">
+<!ENTITY pref_clear_private_data "Șterge datele private">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
-<!ENTITY pref_clear_private_data_now_tablet "Curăță acum">
-
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; va curăța automat datele de fiecare dată când selectezi \u201EIeși\u201D din meniul principal">
+<!ENTITY pref_clear_private_data_now_tablet "Șterge acum">
+<!ENTITY pref_clear_on_exit_title3 "Șterge datele private la ieșire">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; va șterge automat datele de fiecare dată când selectezi \u201EIeși\u201D din meniul principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selectează ce date să ștergi">
 <!ENTITY pref_plugins "Pluginuri">
 <!ENTITY pref_plugins_enabled "Activate">
 <!ENTITY pref_plugins_tap_to_play "Atinge pentru redare">
 <!ENTITY pref_plugins_disabled "Dezactivate">
 <!ENTITY pref_text_size "Mărimea textului">
-<!ENTITY pref_restore_tabs "Restaurare file">
+<!ENTITY pref_restore_tabs "Restaurează filele">
 <!ENTITY pref_restore_always "Restaurează mereu">
 <!ENTITY pref_restore_quit "Nu restaura după ieșirea din &brandShortName;">
 <!ENTITY pref_font_size_tiny "Foarte mică">
@@ -481,7 +483,7 @@ size. -->
 
 <!ENTITY site_settings_title3       "Setările site-ului">
 <!ENTITY site_settings_cancel       "Renunță">
-<!ENTITY site_settings_clear        "Curăță">
+<!ENTITY site_settings_clear        "Șterge">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
@@ -511,9 +513,9 @@ size. -->
 <!ENTITY button_cancel "Renunță">
 <!ENTITY button_yes "Da">
 <!ENTITY button_no "Nu">
-<!ENTITY button_clear_data "Curăță datele">
+<!ENTITY button_clear_data "Șterge datele">
 <!ENTITY button_set "Setează">
-<!ENTITY button_clear "Curăță">
+<!ENTITY button_clear "Șterge">
 <!ENTITY button_copy "Copiază">
 
 <!ENTITY home_top_sites_title "Site-uri de top">
@@ -525,8 +527,8 @@ size. -->
 
 <!ENTITY home_title "Pagina de start &brandShortName;">
 <!ENTITY home_history_title "Istoric">
-<!ENTITY home_clear_history_button "Curăță istoricul de navigare">
-<!ENTITY home_clear_history_confirm "Sigur dorești să cureți istoricul?">
+<!ENTITY home_clear_history_button "Șterge istoricul de navigare">
+<!ENTITY home_clear_history_confirm "Sigur dorești să ștergi istoricul?">
 <!ENTITY home_bookmarks_empty "Semnele de carte pe care le salvezi apar aici.">
 <!ENTITY home_closed_tabs_title "File închise recent">
 <!ENTITY home_last_tabs_title "Filele de ultima dată">
@@ -615,8 +617,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY disable_protection "Dezactivează protecția">
 <!ENTITY keep_blocking "Păstrează blocarea">
 
-<!ENTITY private_data_success "Datele private curățate">
-<!ENTITY private_data_fail "Unele date private nu au putut fi curățate">
+<!ENTITY private_data_success "Datele private șterse">
+<!ENTITY private_data_fail "Unele date private nu au putut fi șterse">
 
 <!ENTITY bookmarkhistory_import_both "Se importă semne de carte și istoric din Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Se importă semne de carte din Android">
@@ -733,7 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY restrictable_feature_private_browsing "Navigare fără urme">
 
-<!ENTITY restrictable_feature_clear_history "Curăță istoricul">
+<!ENTITY restrictable_feature_clear_history "Șterge istoricul">
 
 <!ENTITY restrictable_feature_advanced_settings "Setări avansate">
 
