@@ -22,7 +22,7 @@ was trying to connect. -->
 <!ENTITY certerror.getMeOutOfHere.label "นำฉันออกไปจากที่นี่!">
 
 <!ENTITY certerror.expert.heading "ฉันเข้าใจถึงความเสี่ยง">
-<!ENTITY certerror.expert.content "ถ้าคุณเข้าใจในสิ่งที่เกิดขึ้น คุณสามารถบอก &brandShortName; ให้เริ่มเชื่อถืออัตลักษณ์ของไซต์นี้ได้<b>แต่ถึงแม้ว่าคุณจะเชื่อถือไซต์นี้ ข้อผิดพลาดนี้อาจหมายถึงมีใครบางคนกำลังดัดแปลงการเชื่อมต่อของคุณ</b>">
+<!ENTITY certerror.expert.content "ถ้าคุณเข้าใจในสิ่งที่เกิดขึ้น คุณสามารถบอก &brandShortName; ให้เริ่มเชื่อถืออัตลักษณ์ของไซต์นี้ได้ <b>แต่ถึงแม้ว่าคุณจะเชื่อถือไซต์นี้ ข้อผิดพลาดนี้อาจหมายถึงมีใครบางคนกำลังดัดแปลงการเชื่อมต่อของคุณ</b>">
 <!ENTITY certerror.expert.contentPara2 "อย่าเพิ่มข้อยกเว้นจนกว่าคุณจะทราบเหตุผลว่าทำไมไซต์นี้จึงไม่ใช้อัตลักษณ์ที่เชื่อถือได้">
 <!ENTITY certerror.addTemporaryException.label "เยี่ยมชมไซต์">
 <!ENTITY certerror.addPermanentException.label "เพิ่มข้อยกเว้นถาวร">
