@@ -11,7 +11,7 @@
 <!ENTITY sync.title.connect.label "เชื่อมต่อกับ &syncBrand.shortName.label;">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "เพื่อเปิดใช้งานอุปกรณ์ใหม่ของคุณ เลือก “ตั้งค่า &syncBrand.shortName.label;” บนอุปกรณ์นั้น">
+<!ENTITY sync.subtitle.connect.label "เพื่อเปิดใช้งานอุปกรณ์ใหม่ของคุณ เลือก “ตั้งค่า &syncBrand.shortName.label;” บนอุปกรณ์">
 <!ENTITY sync.subtitle.pair.label "เพื่อเปิดใช้งาน เลือก “จับคู่อุปกรณ์” บนอุปกรณ์อื่นของคุณ">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "ฉันไม่มีอุปกรณ์อยู่กับตัว…">

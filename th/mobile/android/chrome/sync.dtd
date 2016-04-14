@@ -22,7 +22,7 @@
 <!ENTITY sync.serverURL             "URL เซิร์ฟเวอร์">
 <!ENTITY sync.setup.connect         "เชื่อมต่อ">
 <!ENTITY sync.setup.cancel          "ยกเลิก">
-<!ENTITY sync.setup.tutorial        "บอกฉันว่าทำอย่างไร">
+<!ENTITY sync.setup.tutorial        "แสดงวิธีให้ฉันดู">
 <!ENTITY sync.setup.waiting2        "กำลังรออุปกรณ์อื่น…">
 
 <!ENTITY sync.pair.title            "จับคู่อุปกรณ์">
