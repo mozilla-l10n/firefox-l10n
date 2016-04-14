@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Претплата на ову страницу…">
 <!ENTITY addCurPagesCmd.label "Забележи све језичке…">
 <!ENTITY showAllBookmarks2.label "Прикажи све забелешке">
-<!ENTITY recentBookmarks.label "Недавно забележене">
 <!ENTITY unsortedBookmarksCmd.label "Неразврстане забелешке">
 <!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још забелешки">
 
