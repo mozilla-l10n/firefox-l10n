@@ -655,7 +655,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_downloading_title2 "กำลังดาวน์โหลด &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "การดาวน์โหลดล้มเหลว">
-<!ENTITY updater_downloading_select2 "แตะเพื่อให้ติดตั้งการปรับปรุงหลังจากดาวน์โหลดเสร็จ">
+<!ENTITY updater_downloading_select2 "แตะเพื่อใช้การปรับปรุงเมื่อดาวน์โหลดเสร็จ">
 <!ENTITY updater_downloading_retry2 "แตะเพื่อลองใหม่">
 
 <!ENTITY updater_apply_title2 "มีการปรับปรุงที่ใช้งานได้สำหรับ &brandShortName;">
