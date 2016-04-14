@@ -17,7 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server negăsit">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Verificați adresa de erori de tastare cum ar fi <strong>ww</strong>.exemplu.ro în loc de <strong>www</strong>.exemplu.ro</li> <li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea a calculatorului.</li> <li>Dacă sistemul sau rețeaua este protejat(ă) de un firewall sau proxy, asigurați-vă că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Verifică adresa de erori de tastare cum ar fi <strong>ww</strong>.exemplu.ro în loc de <strong>www</strong>.exemplu.ro</li> <li>Dacă nu poți încărca nicio pagină, verifică conexiunea la rețea a calculatorului.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Fișier negăsit">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
@@ -56,7 +56,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verificați setările proxy pentru a vă asigura că sunt corecte.</li> <li>Contactați administratorul rețelei pentru a vă asigura că serverul proxy funcționează.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verificați setările proxy pentru a vă asigura că sunt corecte.</li> <li>Asigurați-vă că sistemul dumneavoastră are o conexiune funcțională la rețea.</li> <li>Dacă sistemul sau rețeaua este protejat(ă) de un firewall sau proxy, asigurați-vă că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Asigură-te că calculatorul are o conexiune funcțională la rețea.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
@@ -70,7 +70,7 @@
 <!ENTITY nssBadCert.title "Conexiunea securizată a eșuat">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Acest lucru s-ar putea datora unei probleme în configurația serverului, sau s-ar putea ca cineva să încerce să pretindă că este acest server.</li> <li>Dacă v-ați conectat cu succes în trecut la acest server, eroarea poate fi temporară și puteți încerca din nou mai târziu.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> <li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încercați din nou în câteva momente.</li> <li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea a calculatorului.</li> <li>Dacă sistemul sau rețeaua este protejat(ă) de un firewall sau proxy, asigurați-vă că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încearcă din nou în câteva momente.</li> <li>Dacă nu poți încărca nicio pagină, verifică conexiunea la rețea a calculatorului.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
 <!ENTITY malwareBlocked.title "Site suspectat de atacuri!">
 <!ENTITY malwareBlocked.longDesc "<p>Site-urile de atac încearcă să instaleze programe care fură informații private, vă folosesc calculatorul pentru a ataca altele sau pentru a vă provoca pagube sistemului.</p> <p>Proprietarii site-urilor web care cred că site-ul lor a fost raportat ca unul de atac dintr-o greșeală pot <a href='http://www.stopbadware.org/home/reviewinfo'>cere o revizuire</a>.</p>">
