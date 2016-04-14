@@ -24,6 +24,11 @@
 
 <!ENTITY  onboard_start_restricted1 "Restez en sécurité et aux commandes avec cette version simplifiée de &brandShortName;.">
 
+<!ENTITY  reading_list_migration_title "Liste de lecture connectée">
+<!ENTITY  reading_list_migration_subtext "Les éléments de votre liste de lecture vont être ajoutés à vos marque-pages.">
+<!ENTITY  reading_list_migration_goto_bookmarks "Ouvrir les marque-pages">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Le panneau des marque-pages est masqué.">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Marque-pages">
@@ -63,6 +68,7 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Captures d’écran">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Liste de lecture">
 
 <!ENTITY history_today_section "Aujourd’hui">
 <!ENTITY history_yesterday_section "Hier">
@@ -125,9 +131,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Marquer cette page">
-<!ENTITY overlay_share_reading_list_btn_label "Ajouter à la liste de lecture">
 <!ENTITY overlay_share_bookmark_btn_label_already "Déjà dans les marque-pages">
-<!ENTITY overlay_share_reading_list_btn_label_already "Déjà dans la liste de lecture">
 <!ENTITY overlay_share_send_other "Envoyer à d’autres appareils">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -167,6 +171,7 @@
 <!ENTITY pref_category_advanced "Avancé">
 <!ENTITY pref_category_advanced_summary2 "Restaurer les onglets, plugins, outils de développement">
 <!ENTITY pref_category_notifications "Notifications">
+<!ENTITY pref_category_notifications_summary "Nouvelles fonctionnalités, actualités des sites web">
 <!ENTITY pref_content_notifications "Actualités des sites web">
 <!ENTITY pref_content_notifications_summary2 "Découvrir de nouveaux contenus depuis les sites pris en charge">
 <!ENTITY pref_developer_remotedebugging_usb "Débogage distant par USB">
@@ -215,13 +220,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Autorisés, sauf cookies tiers">
 <!ENTITY pref_cookies_disabled "Non autorisés">
 
+<!ENTITY pref_category_data_saver "Économiseur de données">
+<!ENTITY pref_category_media "Médias">
+<!ENTITY pref_category_developer_tools "Outils de développement">
+
 <!ENTITY pref_tap_to_load_images_title2 "Afficher les images">
 <!ENTITY pref_tap_to_load_images_enabled "Toujours">
 <!ENTITY pref_tap_to_load_images_data "Seulement par Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloquer">
 
 <!ENTITY pref_show_web_fonts "Afficher les polices web">
-<!ENTITY pref_show_web_fonts_summary "Masquez-les pour utiliser les polices par défaut et raccourcir le temps de chargement des sites web.">
+<!ENTITY pref_show_web_fonts_summary2 "Télécharger les polices distantes lors du chargement de la page">
 
 <!ENTITY pref_tracking_protection_title2 "Protection contre le pistage">
 <!ENTITY pref_tracking_protection_summary3 "Activée pour la navigation privée">
@@ -444,8 +453,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Épingler ce site">
 <!ENTITY contextmenu_top_sites_unpin "Relâcher ce site">
 <!ENTITY contextmenu_add_search_engine "Ajouter moteur recherche">
-<!ENTITY contextmenu_mark_read "Marquer comme lu">
-<!ENTITY contextmenu_mark_unread "Marquer comme non lu">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -491,15 +498,6 @@ size. -->
 <!ENTITY site_settings_cancel       "Annuler">
 <!ENTITY site_settings_clear        "Effacer">
 
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-<!ENTITY reading_list_added3 "Page ajoutée à la liste de lecture">
-<!ENTITY reading_list_removed "Page retirée de votre liste de lecture">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Retirer de la liste de lecture">
-<!ENTITY reading_list_duplicate "La page se trouve déjà dans votre liste de lecture">
-
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Actions supplémentaires">
@@ -542,7 +540,6 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst, utiliser un &formatS1;nouvel onglet de navigation privée&formatS2; ne conservera pas votre historique.">
-<!ENTITY home_reading_list_empty "Les articles enregistrés pour plus tard s’affichent ici.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -780,3 +777,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; est à jour">
 <!ENTITY whatsnew_notification_summary "Découvrez les nouveautés de cette version">
+
+<!ENTITY promotion_add_to_homescreen "Ajouter à l’écran d’accueil">
