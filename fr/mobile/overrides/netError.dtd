@@ -40,6 +40,8 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "L’accès au fichier a été refusé">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Il a peut-être été supprimé, déplacé ou les permissions associées au fichier ne permettent pas d’y accéder.</li></ul>">
 
 <!ENTITY generic.title "La requête ne peut aboutir">
 <!ENTITY generic.longDesc "
