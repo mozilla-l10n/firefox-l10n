@@ -4,7 +4,7 @@
 
 <!ENTITY pref.notifications.title         "Notificaties">
 <!ENTITY notifications.caption            "Notificaties">
-<!ENTITY newMessagesArrive.label          "Als nieuwe berichten arriveren:">
+<!ENTITY newMessagesArrive.label          "Als nieuwe berichten binnenkomen:">
 
 <!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
      showAlertFor.label is associated with the checkbox to show the alert,
@@ -16,11 +16,11 @@
 <!ENTITY showAlertTimeEnd.label           "seconden tonen">
 
 <!ENTITY showAlertPreviewText.label       "Berichtvoorbeeld tonen">
-<!ENTITY showAlertPreviewText.accesskey   "v">
+<!ENTITY showAlertPreviewText.accesskey   "e">
 <!ENTITY showAlertSubject.label           "Onderwerp tonen">
-<!ENTITY showAlertSubject.accesskey       "o">
+<!ENTITY showAlertSubject.accesskey       "O">
 <!ENTITY showAlertSender.label            "Afzender tonen">
-<!ENTITY showAlertSender.accesskey        "n">
+<!ENTITY showAlertSender.accesskey        "A">
 <!ENTITY useSystemAlert.label             "Desktopnotificaties van het besturingssysteem gebruiken">
 <!ENTITY useSystemAlert.accesskey         "D">
 <!ENTITY useBuiltInAlert.label            "&brandShortName;&apos;s eigen meldingsvensters gebruiken">
@@ -29,18 +29,18 @@
 <!ENTITY showTrayIcon.label               "Een systeemvakpictogram tonen">
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY showBalloon.label                "Een ballonwaarschuwing tonen">
-<!ENTITY showBalloon.accesskey            "o">
+<!ENTITY showBalloon.accesskey            "n">
 <!ENTITY bounceSystemDockIcon.label       "Het systeemvakpictogram animeren">
 <!ENTITY bounceSystemDockIcon.accesskey   "a">
 
 <!ENTITY playSound.label                  "Een geluid afspelen">
 <!ENTITY playSound.accesskey              "u">
 <!ENTITY playButton.label                 "Afspelen">
-<!ENTITY playButton.accesskey             "l">
+<!ENTITY playButton.accesskey             "f">
 <!ENTITY systemsound.label                "Systeemgeluid voor nieuwe e-mail">
-<!ENTITY systemsound.accesskey            "s">
+<!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Het volgende geluidsbestand gebruiken">
-<!ENTITY customsound.accesskey            "o">
+<!ENTITY customsound.accesskey            "v">
 <!ENTITY browse.label                     "Bladeren…">
 <!ENTITY browse.accesskey                 "B">
 <!ENTITY browse.title                     "Bestand kiezen">

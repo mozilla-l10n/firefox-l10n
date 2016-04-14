@@ -8,10 +8,10 @@
 <!ENTITY menu_securityEncryptRequire.accesskey "v">
 
 <!ENTITY menu_securitySign.label "Dit bericht digitaal ondertekenen">
-<!ENTITY menu_securitySign.accesskey "d">
+<!ENTITY menu_securitySign.accesskey "o">
 
 <!ENTITY menu_securityStatus.label "Beveiligingsinfo bekijken">
-<!ENTITY menu_securityStatus.accesskey "i">
+<!ENTITY menu_securityStatus.accesskey "b">
 
 <!ENTITY securityButton.label "Beveiliging">
 <!ENTITY securityButton.tooltip "Beveiligingsinstellingen bekijken of wijzigen">

@@ -8,8 +8,8 @@
 <!ENTITY searchHeading.accesskey     "k">
 <!ENTITY searchSubfolders.label      "Submappen doorzoeken">
 <!ENTITY searchSubfolders.accesskey  "u">
-<!ENTITY searchOnHeading.label       "Zoekbewerking uitvoeren op:">
-<!ENTITY searchOnHeading.accesskey   "Z">
+<!ENTITY searchOnHeading.label       "Zoekbewerkingen uitvoeren op:">
+<!ENTITY searchOnHeading.accesskey   "r">
 <!ENTITY searchOnRemote.label        "Externe server">
 <!ENTITY searchOnLocal.label         "Lokaal systeem">
 <!ENTITY resetButton.label           "Wissen">
@@ -20,12 +20,12 @@
 <!ENTITY deleteButton.accesskey      "V">
 <!ENTITY searchDialogTitle.label     "Berichten zoeken">
 <!ENTITY results.label               "Resultaten">
-<!ENTITY moveHereMenu.label          "Verplaatsen naar hier">
-<!ENTITY moveHereMenu.accesskey      "h">
+<!ENTITY moveHereMenu.label          "Hierheen verplaatsen">
+<!ENTITY moveHereMenu.accesskey      "H">
 <!ENTITY moveButton.label            "Verplaatsen naar">
 <!ENTITY moveButton.accesskey        "n">
-<!ENTITY goToFolderButton.label      "Berichtenmap openen">
-<!ENTITY goToFolderButton.accesskey  "B">
+<!ENTITY goToFolderButton.label      "Openen in map">
+<!ENTITY goToFolderButton.accesskey  "m">
 <!ENTITY saveAsVFButton.label        "Opslaan als zoekmap">
 <!ENTITY saveAsVFButton.accesskey    "s">
 

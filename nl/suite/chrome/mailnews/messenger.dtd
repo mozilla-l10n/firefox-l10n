@@ -26,13 +26,13 @@
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY newTabCmd.key "t">
 <!ENTITY closeTabCmd.label "Tabblad sluiten">
-<!ENTITY closeTabCmd.accesskey "u">
+<!ENTITY closeTabCmd.accesskey "s">
 <!ENTITY newAccountCmd.label "Account…">
 <!ENTITY newAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bijlagen">
-<!ENTITY openAttachmentCmd.accesskey "B">
+<!ENTITY openAttachmentCmd.accesskey "e">
 <!ENTITY saveAsMenu.label "Opslaan als">
 <!ENTITY saveAsMenu.accesskey "l">
 <!ENTITY saveAsFileCmd.label "Bestand">
@@ -174,7 +174,7 @@
 <!ENTITY sortThreaded.accesskey "C">
 <!ENTITY sortUnthreaded.label "Geen conversaties">
 <!ENTITY sortUnthreaded.accesskey "e">
-<!ENTITY groupBySort.label "Gegroepeerd op soort">
+<!ENTITY groupBySort.label "Gegroepeerd op sortering">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Berichten">
 <!ENTITY msgsMenu.accesskey "B">
@@ -197,8 +197,8 @@
 <!ENTITY ignoredThreadsCmd.label "Genegeerde conversaties">
 <!ENTITY ignoredThreadsCmd.accesskey "n">
 
-<!ENTITY headersMenu.label "Berichtkopregels">
-<!ENTITY headersMenu.accesskey "k">
+<!ENTITY headersMenu.label "Kopregels">
+<!ENTITY headersMenu.accesskey "K">
 <!ENTITY headersAllCmd.label "Alle">
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normaal">
@@ -211,11 +211,11 @@
 <!ENTITY bodySanitized.accesskey "V">
 <!ENTITY bodyAsPlaintext.label "Platte tekst">
 <!ENTITY bodyAsPlaintext.accesskey "P">
-<!ENTITY bodyAllParts.label "Alle opmaakonderdelen">
+<!ENTITY bodyAllParts.label "Alle tekstgedeelten">
 <!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feedberichtopmaak als">
-<!ENTITY bodyMenuFeed.accesskey "b">
+<!ENTITY bodyMenuFeed.accesskey "F">
 <!ENTITY viewFeedWebPage.label "Webpagina">
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Samenvatting">
@@ -226,9 +226,9 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Bijlagen in bericht weergeven">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 <!ENTITY reloadCmd.label "Vernieuwen">
-<!ENTITY reloadCmd.accesskey "V">
+<!ENTITY reloadCmd.accesskey "n">
 <!ENTITY stopCmd.label "Stoppen">
-<!ENTITY stopCmd.accesskey "S">
+<!ENTITY stopCmd.accesskey "o">
 <!ENTITY pageSourceCmd.label "Berichtbron">
 <!ENTITY pageSourceCmd.accesskey "r">
 <!ENTITY pageSourceCmd.key "u">
@@ -279,7 +279,7 @@
 <!ENTITY msgMenu.label "Bericht">
 <!ENTITY msgMenu.accesskey "e">
 <!ENTITY newMsgCmd.label "Nieuw bericht">
-<!ENTITY newMsgCmd.accesskey "N">
+<!ENTITY newMsgCmd.accesskey "w">
 <!ENTITY newNewMsgCmd.label "Bericht">
 <!ENTITY newNewMsgCmd.accesskey "B">
 <!ENTITY replyMsgCmd.label "Beantwoorden">
@@ -292,7 +292,7 @@
 <!ENTITY replySenderCmd.label "Afzender beantwoorden">
 <!ENTITY replySenderCmd.accesskey "a">
 <!ENTITY replyToAllMsgCmd.label "Allen beantwoorden">
-<!ENTITY replyToAllMsgCmd.accesskey "e">
+<!ENTITY replyToAllMsgCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Afzender en nieuwsgroep beantwoorden">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
@@ -307,8 +307,8 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Bijlage">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
-<!ENTITY editMsgAsNewCmd.label "Bericht als nieuw bewerken">
-<!ENTITY editMsgAsNewCmd.accesskey "b">
+<!ENTITY editMsgAsNewCmd.label "Bewerken als nieuw bericht">
+<!ENTITY editMsgAsNewCmd.accesskey "B">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Filter maken op basis van bericht…">
 <!ENTITY createFilter.accesskey "F">

@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP-servermap">
 <!ENTITY serverDirectory.accesskey "m">
-<!ENTITY usingSubscription.label "Alleen aangemelde mappen tonen">
+<!ENTITY usingSubscription.label "Alleen geabonneerde mappen tonen">
 <!ENTITY usingSubscription.accesskey "a">
 <!ENTITY dualUseFolders.label "Server ondersteunt mappen met submappen en berichten">
 <!ENTITY dualUseFolders.accesskey "o">
@@ -22,7 +22,7 @@
 <!ENTITY otherUsersNamespace.accesskey "d">
 <!ENTITY overrideNamespaces.label "Server toestaan om deze namespaces te negeren">
 <!ENTITY overrideNamespaces.accesskey "S">
-<!ENTITY pop3DeferringDesc.label "Bij het downloaden van e-mail van deze POP3-server, de volgende map voor nieuwe e-mail gebruiken:">
+<!ENTITY pop3DeferringDesc.label "Bij het downloaden van e-mail van de server van deze account, de volgende map voor het opslaan van nieuwe berichten gebruiken:">
 <!ENTITY accountInbox.label "Postvak IN van deze account">
 <!ENTITY accountInbox.accesskey "P">
 <!ENTITY deferToServer.label "Postvak IN van een andere account">

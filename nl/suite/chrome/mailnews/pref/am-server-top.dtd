@@ -23,7 +23,7 @@
 <!ENTITY biffStart.label "Op nieuwe berichten controleren om de">
 <!ENTITY biffStart.accesskey "c">
 <!ENTITY biffEnd.label "minuten">
-<!ENTITY useIdleNotifications.label "Directe servernotificaties toestaan als er nieuwe berichten binnenkomen">
+<!ENTITY useIdleNotifications.label "Directe servernotificaties toestaan als nieuwe berichten binnenkomen">
 <!ENTITY useIdleNotifications.accesskey "D">
 <!ENTITY connectionSecurity.label "Verbindingsbeveiliging:">
 <!ENTITY connectionSecurity.accesskey "V">
@@ -64,7 +64,7 @@
     of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Mij vragen voor het downloaden van meer dan">
-<!ENTITY maxMessagesStart.accesskey "v">
+<!ENTITY maxMessagesStart.accesskey "r">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "berichten">
 <!ENTITY alwaysAuthenticate.label "Altijd om authenticatie vragen bij verbinden met deze server">
@@ -87,6 +87,6 @@
 <!ENTITY accountTitle.label "Accountinstellingen">
 <!ENTITY accountSettingsDesc.label "Dit is een speciale account. Er zijn geen identiteiten mee verbonden.">
 <!ENTITY storeType.label "Type berichtenopslag:">
-<!ENTITY storeType.accesskey "T">
+<!ENTITY storeType.accesskey "h">
 <!ENTITY mboxStore2.label "Eén bestand per map (mbox)">
 <!ENTITY maildirStore.label "Eén bestand per bericht (maildir)">

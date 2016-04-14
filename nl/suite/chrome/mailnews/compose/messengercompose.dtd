@@ -45,7 +45,7 @@
 <!ENTITY editRewrapCmd.label "Opnieuw uitlijnen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "l">
-<!ENTITY accountManagerCmd.label "Accountinstellingen voor E-mail &amp; nieuwsgroepen…">
+<!ENTITY accountManagerCmd.label "Accountinstellingen…">
 <!ENTITY accountManagerCmd.accesskey "c">
 
 <!-- View menu items -->

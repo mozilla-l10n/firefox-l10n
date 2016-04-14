@@ -21,4 +21,4 @@
 <!ENTITY smtpEditTitle.label "SMTP-server">
 <!ENTITY serverPortDefault.label "Standaard:">
 <!ENTITY authMethod.label "Authenticatiemethode:">
-<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.accesskey "d">

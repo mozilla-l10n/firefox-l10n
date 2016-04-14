@@ -7,7 +7,7 @@
 <!ENTITY headline.label
 'Welkom bij <a id="vendorURL" href="">&brandShortName;</a> Mail &amp; nieuwsgroepen!'>
 <!ENTITY description.label
-"&brandShortName; Mail &amp; nieuwsgroepen is een krachtige opensource- e-mail- en nieuwsclient
+"&brandShortName; Mail &amp; nieuwsgroepen is een krachtige opensource e-mail- en nieuwsclient
 die geavanceerde detectie van ongewenste berichten en andere handige functies ondersteunt.">
 <!ENTITY features.title "Functies">
 <!ENTITY feat_multiacc.label "Ondersteuning voor meerdere accounts">
@@ -29,6 +29,6 @@ die geavanceerde detectie van ongewenste berichten en andere handige functies on
 <!ENTITY info.title "Meer informatie">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label
-'<a href="http://www.mozilla.org/mailnews/">We</a> verwelkomen bugrapporten en aanvragen voor
+'<a href="https://developer.mozilla.org/docs/Mozilla/Projects/MailNews">We</a> verwelkomen bugrapporten en aanvragen voor
 nieuwe functies, maar lees eerst de <a id="releaseNotesURL" href="">uitgaveopmerkingen</a>
 en doorzoek <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> voordat u een bug meldt.'>

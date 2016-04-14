@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.addressing.title                 "Adressering">
-<!ENTITY emailCollectiontitle.label            "E-mailadresverzameling">
+<!ENTITY emailCollectiontitle.label            "Verzamelen van e-mailadressen">
 <!ENTITY emailCollectionPicker.label           "E-mailadressen toevoegen aan mijn:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
 <!ENTITY emailCollectiontext.label             "E-mailadressen van uitgaande berichten kunnen automatisch aan een lokaal adresboek worden toegevoegd.">
 
 <!-- Autocompletion -->
-<!ENTITY addressingTitle.label                 "Adres autoaanvullen">
+<!ENTITY addressingTitle.label                 "Automatische adresaanvulling">
 <!ENTITY highlightNonMatches.label             "Adressen die niet automatisch worden aangevuld markeren">
 <!ENTITY highlightNonMatches.accesskey         "a">
 <!ENTITY addressingEnable.label                "Lokale adresboeken">
 <!ENTITY addressingEnable.accesskey            "L">
-<!ENTITY autocompleteText.label                "Bij het adresseren van berichten, naar overeenkomende vermeldingen zoeken in:">
+<!ENTITY autocompleteText.label                "Bij het adresseren van berichten, naar overeenkomsten zoeken in:">
 <!ENTITY directories.label                     "Directoryserver:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "Geen">

@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Message Header View Popup -->
-<!ENTITY AddToAddressBook.label            "Toevoegen aan adresboek">
+<!ENTITY AddToAddressBook.label            "Toevoegen aan adresboek…">
 <!ENTITY AddToAddressBook.accesskey        "T">
 <!ENTITY EditContact.label                 "Contact bewerken…">
 <!ENTITY EditContact.accesskey             "C">
-<!ENTITY ViewContact.label                 "View Contact">
-<!ENTITY ViewContact.accesskey             "e">
+<!ENTITY ViewContact.label                 "Contact bekijken">
+<!ENTITY ViewContact.accesskey             "C">
 <!ENTITY SendMailTo.label                  "Bericht opstellen aan…">
 <!ENTITY SendMailTo.accesskey              "s">
 <!ENTITY CopyEmailAddress.label            "E-mailadres kopiëren">

@@ -11,7 +11,7 @@
 
 <!ENTITY feedLocation.label          "Feed-URL:">
 <!ENTITY feedLocation.accesskey      "F">
-<!ENTITY feedLocation.placeholder    "Voer een geldige feed-url in om toe te voegen">
+<!ENTITY feedLocation.placeholder    "Voer een geldige feed-URL in om toe te voegen">
 
 <!ENTITY feedFolder.label            "Artikelen opslaan in:">
 <!ENTITY feedFolder.accesskey        "s">
@@ -19,25 +19,25 @@
 <!ENTITY quickMode.label             "Artikelsamenvatting weergeven i.p.v. de webpagina laden">
 <!ENTITY quickMode.accesskey         "A">
 
-<!ENTITY autotagEnable.label         "Automatisch labels van feed-&lt;categorie&gt;-namen aanmaken">
-<!ENTITY autotagEnable.accesskey     "l">
-<!ENTITY autotagUsePrefix.label      "Labels vooraf laten gaan door:">
-<!ENTITY autotagUsePrefix.accesskey  "v">
+<!ENTITY autotagEnable.label         "Automatisch labels van namen van feed &lt;categorie&gt; aanmaken">
+<!ENTITY autotagEnable.accesskey     "u">
+<!ENTITY autotagUsePrefix.label      "Labels laten voorafgaan door:">
+<!ENTITY autotagUsePrefix.accesskey  "L">
 <!ENTITY autoTagPrefix.placeholder   "Voer een labelvoorvoegsel in">
 
 <!ENTITY locationValidate.label      "Valideren">
-<!ENTITY validateText.label          "Controleer validatie en haal een geldige url op.">
+<!ENTITY validateText.label          "Controleer validatie en haal een geldige URL op.">
 
 <!ENTITY button.addFeed.label        "Toevoegen">
-<!ENTITY button.addFeed.accesskey    "T">
+<!ENTITY button.addFeed.accesskey    "o">
 <!ENTITY button.editFeed.label       "Bewerken">
 <!ENTITY button.editFeed.accesskey   "w">
 <!ENTITY button.removeFeed.label     "Verwijderen">
 <!ENTITY button.removeFeed.accesskey "V">
 <!ENTITY button.importOPML.label     "Importeren">
-<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.importOPML.accesskey "m">
 <!ENTITY button.exportOPML.label     "Exporteren">
-<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.exportOPML.accesskey "x">
 <!ENTITY button.exportOPML.tooltip   "Feeds exporteren met mapstructuur; Ctrl+klikken of Ctrl+Enter om feeds als een lijst te exporteren">
 
 <!ENTITY cmd.close.commandKey        "w">

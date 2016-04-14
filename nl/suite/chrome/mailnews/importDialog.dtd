@@ -30,11 +30,11 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importTitle.label        "&brandShortName;-importeerwizard">
 <!ENTITY importShortDesc.label    "E-mail, adresboeken, instellingen en filters van andere programma’s importeren">
 
-<!ENTITY importDescription1.label "Deze wizard zal e-mailberichten, adresboekgegevens, feedabonnementen, voorkeuren en/of filters van andere e-mailprogramma’s en bekende adresboekformaten importeren in &brandShortName;.">
-<!ENTITY importDescription2.label "Als deze eenmaal zijn geïmporteerd kunt u ze gebruiken in &brandShortName;.">
+<!ENTITY importDescription1.label "Deze wizard zal e-mailberichten, adresboekvermeldingen, feedabonnementen, voorkeuren en/of filters van andere e-mailprogramma’s en bekende adresboekformaten in &brandShortName; importeren.">
+<!ENTITY importDescription2.label "Als deze eenmaal zijn geïmporteerd, kunt u ze vanuit &brandShortName; benaderen.">
 
 <!ENTITY selectDescription.label  "Selecteer het type bestand dat u wilt importeren:">
-<!ENTITY selectDescriptionB.label "Selecteer een bestaand account of maak een nieuwe aan:">
+<!ENTITY selectDescriptionB.label "Selecteer een bestaande account of maak een nieuwe account aan:">
 <!ENTITY selectDescription.accesskey "S">
 <!ENTITY acctName.label           "Naam:">
 <!ENTITY acctName.accesskey       "N">
