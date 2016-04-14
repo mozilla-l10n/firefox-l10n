@@ -406,7 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Deschide meniul Ajutor">
 
 <!ENTITY appMenuRemoteTabs.label "File sincronizate">
-
+<!ENTITY appMenuRemoteTabs.fetching.label "Se preiau filele sincronizate…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nicio filă deschisă">
@@ -785,6 +785,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Filele browserului">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!ENTITY syncTabsMenu3.label     "File sincronizate">
+
+<!ENTITY syncedTabs.sidebar.label              "File sincronizate">
 
 
 

@@ -56,7 +56,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Browserul este configurat să folosească un server proxy, însă proxy-ul nu poate fi găsit.</p><ul><li>Este browserul configurat corect pentru acel proxy? Verificați setările și încercați din nou.</li><li>Este calculatorul conectat la o rețea activă?</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY redirectLoop.title "Buclă de redirecționări">
-<!ENTITY redirectLoop.longDesc "<p>Browserul a încetat să încerce aducerea conținutului de la adresa cerută. Site-ul redirecționează cererea astfel încât aceasta nu se va termina niciodată.</p><ul><li>Ați dezactivat sau blocat cookie-urile solicitate de acest site?</li><li><em>NOTĂ</em>: Dacă acceptați cookie-uri de la acest site și totuși problema persistă, este cel mai probabil o problemă de configurație a serverului și nu a calculatorului.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Browserul a încetat să încerce aducerea conținutului de la adresa cerută. Site-ul redirecționează cererea astfel încât aceasta nu se va termina niciodată.</p><ul><li>Ai dezactivat sau blocat cookie-urile solicitate de acest site?</li><li><em>NOTĂ</em>: Dacă accepți cookie-uri de la acest site și totuși problema persistă, este cel mai probabil o problemă de configurație a serverului și nu a calculatorului.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns incorect">
 <!ENTITY unknownSocketType.longDesc "<p>Site-ul a răspuns cererii într-un mod neprevăzut și browserul nu mai poate continua.</p>">
