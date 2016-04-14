@@ -28,7 +28,7 @@
 <!ENTITY printAddressBook.label                         "Adresboek afdrukken…">
 <!ENTITY printAddressBook.accesskey                     "f">
 <!ENTITY printPreviewAddressBook.label                  "Afdrukvoorbeeld adresboek"> 
-<!ENTITY printPreviewAddressBook.accesskey              "R">
+<!ENTITY printPreviewAddressBook.accesskey              "b">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Adresboek verwijderen">
@@ -41,7 +41,7 @@
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!ENTITY propertiesCmd.label                            "Eigenschappen…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY propertiesCmd.accesskey                        "i">  
+<!ENTITY propertiesCmd.accesskey                        "E">
 <!ENTITY propertiesCmd.key                              "i">  
 
 <!-- View Menu -->

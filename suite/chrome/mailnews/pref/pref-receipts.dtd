@@ -7,7 +7,7 @@
 <!ENTITY prefReceipts.caption          "Leesbevestigingen">
 <!ENTITY requestReceipt.label          "Altijd een leesbevestiging vragen bij het verzenden van berichten">
 <!ENTITY requestReceipt.accesskey      "t">
-<!ENTITY receiptArrive.label           "Als een leesbevestiging aankomt:">
+<!ENTITY receiptArrive.label           "Als een leesbevestiging binnenkomt:">
 <!ENTITY leaveIt.label                 "Deze in mijn Postvak IN laten staan">
 <!ENTITY leaveIt.accesskey             "l">
 <!ENTITY moveToSent.label              "Deze naar mijn map ‘Verzonden’ verplaatsen">

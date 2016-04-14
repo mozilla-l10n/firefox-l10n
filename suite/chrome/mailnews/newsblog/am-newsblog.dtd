@@ -13,7 +13,7 @@
 <!ENTITY useQuickMode.accesskey "S">
 
 <!ENTITY manageSubscriptions.label "Abonnementen beheren…">
-<!ENTITY manageSubscriptions.accesskey "b">
+<!ENTITY manageSubscriptions.accesskey "n">
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blogs &amp; nieuwsfeeds">

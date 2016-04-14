@@ -19,7 +19,7 @@
 <!ENTITY dateField.label "Datum:">
 <!ENTITY userAgentField.label "Useragent: ">
 <!ENTITY referencesField.label "Referenties: ">
-<!ENTITY messageIdField.label "Message-ID: ">
+<!ENTITY messageIdField.label "Bericht-ID: ">
 <!ENTITY inReplyToField.label "In-antwoord-op: ">
 <!ENTITY originalWebsite.label "Website: ">
 

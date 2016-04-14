@@ -8,7 +8,7 @@
 <!ENTITY accountName.label "Accountnaam:">
 <!ENTITY accountName.accesskey "A">
 <!ENTITY identityTitle.label "Standaardidentiteit">
-<!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit is de informatie die anderen zien als ze uw bericht lezen.">
+<!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit zijn de gegevens die anderen zien bij het lezen van uw berichten.">
 <!ENTITY name.label "Uw naam:">
 <!ENTITY name.accesskey "U">
 <!ENTITY email.label "E-mailadres:">
@@ -17,7 +17,7 @@
 <!ENTITY replyTo.accesskey "n">
 <!ENTITY replyTo.placeholder "Ontvangers zullen antwoorden naar dit andere adres">
 <!ENTITY organization.label "Organisatie:">
-<!ENTITY organization.accesskey "O">
+<!ENTITY organization.accesskey "r">
 <!ENTITY signatureText.label "Tekst van de ondertekening:">
 <!ENTITY signatureText.accesskey "T">
 <!ENTITY signatureHtml.label "HTML gebruiken">
@@ -35,8 +35,7 @@
 <!ENTITY manageIdentities.label "Identiteiten beheren…">
 <!ENTITY manageIdentities.accesskey "I">
 
-<!-- LOCALIZATION NOTE (
-Name.label) : do not translate "SMTP" in below line -->
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Uitgaande server (SMTP):">
 <!ENTITY smtpName.accesskey "S">
 <!ENTITY smtpDefaultServer.label "Standaardserver gebruiken">

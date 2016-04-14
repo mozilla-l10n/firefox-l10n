@@ -34,5 +34,5 @@
 <!ENTITY mailnewsTimeoutSeconds.label     "seconden">
 <!ENTITY Diskspace                        "Schijfruimte">
 <!ENTITY offlineCompactFolders.label      "Alle mappen comprimeren als het meer bespaart dan">
-<!ENTITY offlineCompactFolders.accesskey  "c">
+<!ENTITY offlineCompactFolders.accesskey  "m">
 <!ENTITY offlineCompactFoldersMB.label    "MB in totaal">

@@ -6,6 +6,6 @@
 <!ENTITY totalColumn.label "Totaal">
 <!ENTITY folderSizeColumn.label "Grootte">
 <!ENTITY folderLocationToolbarItem.title "Maplocatie">
-<!ENTITY mailViewsToolbarItem.title "Berichtenweergaven">
+<!ENTITY mailViewsToolbarItem.title "E-mailweergaven">
 <!ENTITY searchToolbarItem.title "Zoeken">
 <!ENTITY searchSubjectOrAddress.placeholder "Onderwerp of adres zoeken">

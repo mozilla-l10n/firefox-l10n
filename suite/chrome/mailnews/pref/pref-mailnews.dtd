@@ -13,7 +13,7 @@
 
 <!ENTITY defaultMailSettings.description  "&brandShortName; als de standaardtoepassing gebruiken voor:">
 <!ENTITY setDefaultMail.label             "E-mail">
-<!ENTITY setDefaultMail.accesskey         "M">
+<!ENTITY setDefaultMail.accesskey         "m">
 <!ENTITY setDefaultNews.label             "Nieuws">
 <!ENTITY setDefaultNews.accesskey         "N">
 <!ENTITY setDefaultFeed.label             "Feeds">

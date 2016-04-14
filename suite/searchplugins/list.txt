@@ -1,4 +1,7 @@
-creativecommons
 google
+bing
+duckduckgo
+bolcom-nl
 wikipedia-nl
+marktplaats-nl
 yahoo
