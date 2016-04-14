@@ -141,6 +141,9 @@
 <!ENTITY pref_cookies_accept_all "Attivi">
 <!ENTITY pref_cookies_not_accept_foreign "Attivi, esclusi di terze parti">
 <!ENTITY pref_cookies_disabled "Disattivati">
+<!ENTITY pref_category_data_saver "Risparmio dati">
+<!ENTITY pref_category_media "Elementi multimediali">
+<!ENTITY pref_category_developer_tools "Strumenti di sviluppo">
 <!ENTITY pref_tap_to_load_images_title2 "Visualizza immagini">
 <!ENTITY pref_tap_to_load_images_enabled "Sempre">
 <!ENTITY pref_tap_to_load_images_data "Solo con Wi-Fi">
