@@ -36,7 +36,7 @@
 <!ENTITY happy.noThanks            "ไม่ ขอบคุณ">
 
 <!ENTITY sad.header                "โอ้ ไม่!">
-<!ENTITY sad.message               "เราเสียใจที่คุณพบปัญหากับ &brandShortName; โปรดบอกเราว่าเกิดอะไรขึ้นเพื่อให้เราสามารถแก้ไขได้">
+<!ENTITY sad.message               "เราเสียใจที่คุณพบปัญหากับ &brandShortName; โปรดบอกเราว่าเกิดอะไรขึ้นเพื่อให้เราสามารถแก้ไขปัญหาได้">
 <!ENTITY sad.placeholder           "ป้อนข้อคิดเห็นของคุณที่นี่">
 <!ENTITY sad.lastSite2             "รวมไซต์ที่เยี่ยมชมล่าสุด">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->

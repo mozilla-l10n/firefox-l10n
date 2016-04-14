@@ -39,7 +39,7 @@
 
 <!ENTITY  crash_reporter_title "ตัวรายงานข้อขัดข้อง &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; เกิดปัญหาและขัดข้อง แท็บของคุณจะถูกแสดงรายการบนหน้าเริ่มต้นของ &brandShortName; เมื่อคุณเริ่มการทำงานใหม่">
-<!ENTITY  crash_send_report_message3 "แจ้ง &vendorShortName; เกี่ยวกับข้อขัดข้องนี้เพื่อให้พวกเขาสามารถแก้ไขได้">
+<!ENTITY  crash_send_report_message3 "แจ้ง &vendorShortName; เกี่ยวกับข้อขัดข้องนี้เพื่อให้พวกเขาสามารถแก้ไขปัญหาได้">
 <!ENTITY  crash_include_url2 "รวมที่อยู่ของหน้าที่ฉันเข้าชมอยู่">
 <!ENTITY  crash_sorry "เราต้องขออภัย">
 <!ENTITY  crash_comment "เพิ่มความคิดเห็น (ความคิดเห็นจะปรากฏต่อสาธารณะ)">
