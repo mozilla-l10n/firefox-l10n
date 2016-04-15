@@ -109,6 +109,6 @@
 <!ENTITY detailsPane.fewer.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Selecteer een item om de eigenschappen ervan te bekijken en te wijzigen">
 
-<!ENTITY editBookmark.done.label "Klaar">
+<!ENTITY editBookmark.done.label "Gereed">
 <!ENTITY editBookmark.cancel.label "Annuleren">
 <!ENTITY editBookmark.removeBookmark.accessKey "v">

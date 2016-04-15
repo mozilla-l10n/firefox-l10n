@@ -452,7 +452,7 @@
 <!ENTITY editRemoteContentSettings.accesskey "c">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Klaar">
+<!ENTITY statusText.label "Gereed">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Bericht openen in nieuw venster">
