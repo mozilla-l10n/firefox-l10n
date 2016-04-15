@@ -81,7 +81,7 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> <li>ไซต์นี้อาจใช้งานไม่ได้ชั่วคราวหรือกำลังทำงานหนักเกินไป ลองอีกครั้งในอีกสักครู่</li> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อข้อมูลหรือ Wi-Fi ของอุปกรณ์มือถือของคุณ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>ไซต์อาจใช้งานไม่ได้ชั่วคราวหรือกำลังทำงานหนักเกินไป ลองอีกครั้งในอีกสักครู่</li> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อข้อมูลหรือ Wi-Fi ของอุปกรณ์มือถือของคุณ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ป้องกันหน้านี้จากการโหลดในลักษณะนี้เนื่องจากหน้ามีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาต</p>">
