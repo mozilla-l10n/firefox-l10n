@@ -97,9 +97,27 @@
         this to set &brandShortName; as your default browser.</li>
     </ul>
   </li>
-  <li><strong>Home Page</strong>: In the field, type the web page you want as
+  <li><strong>When restoring sessions and windows</strong>: Choose how many
+    (if any) browser tabs should be restored at a time upon startup.
+    <ul>
+      <li><strong>Restore all tabs immediately</strong>: All the tabs you had
+        open the last time will be restored and loaded at once. This can affect
+        startup performance negatively if a large amount of tabs needs to be
+        restored in parallel.</li>
+      <li><strong>Restore [__] tab(s) at a time</strong>: If you choose this,
+        only the specified amount of tabs will be restored at a time. If you
+        had more tabs open than specified here, any extra tabs will only be
+        loaded once the loading of one of the other tabs has finished.</li>
+      <li><strong>Only restore tabs when I need them</strong>: This disables
+        automatic restoring of tabs, i.e. tabs will only be loaded if you
+        switch to or reload them.</li>
+    </ul>
+  </li>
+  <li>Home button preferences: In the field, type the web page you want as
     your home page or do one of the following:
     <ul>
+      <li><strong>Choose File</strong>: Click this to locate a file on disk
+        that you want to load as your home page.</li>
       <li><strong>Use Current Page</strong>: Click this to use the web page
         currently displayed in the browser as your home page.</li>
       <li><strong>Use Current Group</strong>: If you have two or more browser
@@ -114,8 +132,6 @@
       </li>
       <li><strong>Restore Default</strong>: Click this to revert to the
         default home page.</li>
-      <li><strong>Choose File</strong>: Click this to locate a file on disk
-        that you want to load as your home page.</li>
     </ul>
   </li>
 </ul>
@@ -150,6 +166,8 @@
   </li>
   <li><strong>Location Bar History</strong>:
     <ul>
+      <li><strong>Enable Location Bar history</strong>: Check this to enable
+        &brandShortName; to keep the location bar history.</li>
       <li><strong>Clear Location Bar</strong>: Click this to clear the list of
         websites in the Location bar menu.</li>
     </ul>
@@ -186,8 +204,7 @@
 </ol>
 
 <p>The Languages preferences panel allows you to choose the languages and
-  character encoding for displaying web pages and choose if and how your typing
-  is spell checked:</p>
+  text encoding for displaying web pages:</p>
 
 <ul>
   <li><strong>Languages for Web Pages</strong>:
@@ -208,17 +225,14 @@
         language.</li>
     </ul>
   </li>
-  <li><strong>Character Encoding</strong>:
+  <li><strong>Text Encoding for Legacy Content</strong>:
     <ul>
-      <li><strong>Default Character Encoding</strong>: Use the drop-down list
-        to select the character encoding you want for displaying web
-        pages.</li>
-    </ul>
-  </li>
-  <li><strong>Spelling</strong>:
-    <ul>
-      <li><strong>When typing check my spelling</strong>: Use the drop-down
-        list to select if and how your typing is spell checked.</li>
+      <li><strong>Fallback Text Encoding</strong>: Web pages are supposed to
+        declare the text encoding in which they are to be displayed, but legacy
+        content may not do so. Use the drop-down list to select the default
+        text encoding to be used for such web pages. This setting does not
+        affect any web pages which properly declare their encoding.
+      </li>
     </ul>
   </li>
 </ul>
@@ -244,10 +258,9 @@
   narrow the list to entries containing that text either in the type description
   or the currently selected action.</p>
 <p>You can choose a local application to handle any type. For some types, you
-  can also choose a web application to handle the type, choose
-  <!-- a feature (like <a href="glossary.xhtml#live_bookmark">Live Bookmarks</a> for
-  feeds) or --> a <a href="glossary.xhtml#plugin">plugin</a> in &brandShortName; to
-  handle the type, or save the type on your computer.</p>
+  can also choose a <a href="glossary.xhtml#web_application">web application</a>
+  to handle the type, choose a <a href="glossary.xhtml#plugin">plugin</a> in
+  &brandShortName; to handle the type, or save the type on your computer.</p>
 <p>To choose a handler for a type, select the type from the list. The current
   handler for the type will turn into a menu. Open the menu and select the
   handler you want to handle the type. Depending on the actual type, you can:</p>
@@ -348,13 +361,19 @@
             matching results from locations on your hard drive will still be
             shown in the drop-down list.</span></li>
         </ul></li>
+      <li><strong>Show default Internet search engine</strong>: Shows a drop-down
+        list item, allowing you to search with the default search engine for
+        words you enter.</li>
     </ul>
   </li>
-  <li><strong>Internet Search Engine</strong>:
+  <li><strong>Formatting</strong>:
     <ul>
-      <li><strong>Show default search engine</strong>: Shows a drop-down list item,
-        allowing you to search with the default search engine for words you
-        enter.</li>
+      <li><strong>Highlight the effective domain for websites and FTP
+        servers</strong>: Grays out all of the URL except for the effective
+        domain, so that it is clear which site you are visiting.</li>
+      <li><strong>Highlight web pages with a high level of connection
+        security</strong>: Colorizes the location bar for the next page
+        loaded if all of its components are fully encrypted.</li>
     </ul>
   </li>
   <li><strong>Unknown Locations</strong>
@@ -371,10 +390,7 @@
         search the web for text entered in the Location Bar. If the text
         you&apos;ve typed is not a web location, &brandShortName; will do a web
         search when you press <kbd class="noMac">Enter</kbd>
-        <kbd class="mac">Return</kbd> in the Location Bar.
-        <strong>Note</strong>: The search engine used can not be
-        changed by the <a href="#internet_search">Internet Search
-        Preferences</a>.</li>
+        <kbd class="mac">Return</kbd> in the Location Bar.</li>
     </ul>
   </li>
 </ul>
@@ -515,16 +531,34 @@
 
 <ul>
   <li><strong>Link open behavior</strong>: If a webpage is designed so that
-    certain links open in a new window by default (either through the target
-    attribute in HTML or through embedded JavaScript), you may want to
-    override this:
+    certain links open in a new window by default, you may want to override
+    this. You can define the behavior separately for links with a target
+    attribute and windows opened using JavaScript:
     <ul>
-      <li><strong>The current tab/window</strong>: Open the linked page in the
-        current tab of the active window.</li>
-      <li><strong>A new tab in the current window</strong>: Open the linked
-        page in a new tab instead of a new window.</li>
-      <li><strong>A new window</strong>: Open the linked page in a new window.
-        (This is the default and does not override the webpage design.)</li>
+      <li><strong>Open links meant to open a new window in</strong>:
+        <ul>
+          <li><strong>The current tab/window</strong>: Open the linked page in
+            the current tab of the active window.</li>
+          <li><strong>A new tab in the current window</strong>: Open the linked
+            page in a new tab instead of a new window.</li>
+          <li><strong>A new window</strong>: Open the linked page in a new
+            window. (This does not override the webpage design and disables
+            the below options for pages opened from scripts.)</li>
+        </ul>
+      </li>
+      <li><strong>When scripts want to open a new window</strong>:
+        <ul>
+          <li><strong>Always divert windows into tabs</strong>: Open the page to
+            be loaded in a tab according to the above settings.</li>
+          <li><strong>Don&apos;t divert custom windows into tabs</strong>: Open
+            the page to be loaded in a popup window if the script explicitly
+            specifies features of the new window (such as size or position),
+            else open the page in a tab according to the above settings.</li>
+          <li><strong>Always open new windows</strong>: Open the page to be
+            loaded in a new window. (This does not override the webpage
+            design.)</li>
+        </ul>
+      </li>
     </ul>
   </li>
   <li><strong>Links from other applications</strong>: If &brandShortName; is
@@ -536,8 +570,8 @@
         current tab of the active window.</li>
       <li><strong>A new tab in the current window</strong>: Open the linked
         page in a new tab instead of a new window.</li>
-      <li><strong>A new window</strong>: Open the linked page in a new window.
-        (This is the default.)</li>
+      <li><strong>A new window</strong>: Open the linked page in a new
+        window.</li>
     </ul>
   </li>
 </ul>
@@ -642,7 +676,7 @@
         &brandShortName; to play a custom sound (typically in WAV format) when
         a download is completed. Use the Browse button to select the sound file
         in the file locator. To listen to the sound you&apos;ve chosen, click
-        Preview.</li>
+        Play.</li>
       <li><strong>Show an alert</strong>: Select this if you want
         &brandShortName; to show an alert on the screen when a download is
         completed.</li>
