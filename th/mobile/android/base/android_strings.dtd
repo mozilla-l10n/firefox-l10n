@@ -399,7 +399,7 @@ size. -->
 <!ENTITY share_image_failed "ไม่สามารถแบ่งปันภาพนี้">
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
 <!ENTITY print "พิมพ์">
-<!ENTITY find_in_page "ค้นหาในหน้านี้">
+<!ENTITY find_in_page "ค้นหาในหน้า">
 <!ENTITY desktop_mode "ขอไซต์สำหรับเดสก์ท็อป">
 <!ENTITY page "หน้า">
 <!ENTITY tools "เครื่องมือ">
@@ -416,7 +416,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "ค้นหาในหน้านี้">
+<!ENTITY find_text "ค้นหาในหน้า">
 <!ENTITY find_prev "ก่อนหน้า">
 <!ENTITY find_next "ถัดไป">
 <!ENTITY find_close "ปิด">
@@ -437,7 +437,7 @@ size. -->
 <!ENTITY contextmenu_paste "วาง">
 <!ENTITY contextmenu_copyurl "คัดลอกที่อยู่">
 <!ENTITY contextmenu_edit_bookmark "แก้ไข">
-<!ENTITY contextmenu_subscribe "บอกรับหน้านี้">
+<!ENTITY contextmenu_subscribe "บอกรับหน้า">
 <!ENTITY contextmenu_site_settings "แก้ไขการตั้งค่าไซต์">
 <!ENTITY contextmenu_top_sites_edit "แก้ไข">
 <!ENTITY contextmenu_top_sites_pin "ปักหมุดไซต์">
