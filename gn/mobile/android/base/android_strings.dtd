@@ -3,14 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY firstrun_panel_title_welcome "Tereg̃uahẽporãite">
 
 
 
 
+<!ENTITY firstrun_bookmarks_title "Tembiasakue">
 
 
-
-
+<!ENTITY firstrun_data_title "Arange">
 
 
 
@@ -23,7 +24,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
+<!ENTITY  history_title "Tembiasakue">
 
 
 
