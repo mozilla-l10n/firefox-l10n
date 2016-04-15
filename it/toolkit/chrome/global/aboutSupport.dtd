@@ -65,3 +65,8 @@
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 <!ENTITY aboutSupport.safeModeTitle "Prova la modalità provvisoria">
 <!ENTITY aboutSupport.restartInSafeMode.label "Riavvia disattivando i componenti aggiuntivi…">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Caratteristiche">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostica">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Registro errori">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
