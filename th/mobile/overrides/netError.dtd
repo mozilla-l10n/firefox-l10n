@@ -31,7 +31,7 @@
 <!ENTITY malformedURI.title "ที่อยู่ไม่ถูกต้อง">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>ที่อยู่เว็บมักจะเขียนเป็น <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ค้นหา</button> </div> <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ <strong>/</strong>)</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>ที่อยู่เว็บมักจะเขียนเป็น <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ค้นหา</button> </div> <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ <strong>/</strong>)</li> </ul>">
 
 <!ENTITY netInterrupt.title "การเชื่อมต่อถูกขัดจังหวะ">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">

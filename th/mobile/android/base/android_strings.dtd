@@ -281,7 +281,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ล้างตอนนี้">
 <!ENTITY pref_clear_on_exit_title3 "ล้างข้อมูลส่วนตัวเมื่อออก">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \u0022ออก\u0022 จากเมนูหลัก">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \u0022ออก\u0022 จากเมนูหลัก">
 <!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่จะล้าง">
 <!ENTITY pref_plugins "โปรแกรมเสริม">
 <!ENTITY pref_plugins_enabled "ถูกเปิดใช้งาน">
@@ -365,9 +365,9 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "รายงานข้อมูลสุขภาพ &brandShortName;">
+<!ENTITY datareporting_fhr_title "รายงานสุขภาพ &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "แบ่งปันข้อมูลเกี่ยวกับสุขภาพเบราว์เซอร์ของคุณให้กับ &vendorShortName; และช่วยให้คุณเข้าใจประสิทธิภาพเบราว์เซอร์ของคุณ">
-<!ENTITY datareporting_abouthr_title "ดูรายงานข้อมูลสุขภาพของฉัน">
+<!ENTITY datareporting_abouthr_title "ดูรายงานสุขภาพของฉัน">
 <!ENTITY datareporting_telemetry_title "การวัดและส่งข้อมูลทางไกล">
 <!ENTITY datareporting_telemetry_summary "แบ่งปันข้อมูลประสิทธิภาพ การใช้งาน ฮาร์ดแวร์ และการปรับแต่งให้กับ &vendorShortName; เพื่อช่วยให้เราทำ &brandShortName; ให้ดียิ่งขึ้น">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ส่งรายงานข้อขัดข้องเพื่อช่วยให้ &vendorShortName; สร้างเบราว์เซอร์ของคุณให้เสถียรและปลอดภัยยิ่งขึ้น">
