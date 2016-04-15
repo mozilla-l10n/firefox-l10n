@@ -852,7 +852,7 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "Լ">
 <!ENTITY SendMessageTo.label "Գրել նամակ">
 <!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "Պատճենել էլ. փոստի հասցեն">
+<!ENTITY CopyEmailAddress.label "Պատճենել էլ. փոստը">
 <!ENTITY CopyEmailAddress.accesskey "Պ">
 <!ENTITY CopyNameAndEmailAddress.label "Պատճենել անունը և էլ. փոստը">
 <!ENTITY CopyNameAndEmailAddress.accesskey "ա">
@@ -878,7 +878,7 @@
 <!ENTITY copyLinkCmd.accesskey "հ">
 <!ENTITY copyImageAllCmd.label "Պատճենել նկարը">
 <!ENTITY copyImageAllCmd.accesskey "I">
-<!ENTITY copyEmailCmd.label "Պատճենել էլ. փոստի հասցեն">
+<!ENTITY copyEmailCmd.label "Պատճենել էլ. փոստը">
 <!ENTITY copyEmailCmd.accesskey "է">
 <!ENTITY stopCmd.label "Կանգնեցնել">
 <!ENTITY stopCmd.accesskey "S">
