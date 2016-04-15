@@ -77,7 +77,7 @@
 <!ENTITY settings_title "Impostazioni">
 <!ENTITY pref_category_general "Generale">
 <!ENTITY pref_header_search "Ricerca">
-<!ENTITY pref_category_general_summary2 "Pagina iniziale, lingua, barra degli indirizzi">
+<!ENTITY pref_category_general_summary3 "Pagina iniziale, lingua, accodamento schede">
 <!ENTITY pref_category_language "Lingua">
 <!ENTITY pref_category_language_summary "Cambia la lingua del browser">
 <!ENTITY pref_browser_locale "Lingua del browser">
