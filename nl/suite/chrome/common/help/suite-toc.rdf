@@ -16,7 +16,7 @@
         <rdf:li> <rdf:Description ID="help-help" nc:name="Using the Help Window" nc:link="help_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="ieusers"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav" nc:name="Browsing the Web" nc:link="nav_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail" nc:name="Using Mail" nc:link="mailnews_getting_started.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail" nc:name="Using Mail &amp; Newsgroups" nc:link="mailnews_getting_started.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp" nc:name="Creating Web Pages"  nc:link="composer_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust" nc:name="Customizing &brandShortName;"  nc:link="customize_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="using-priv-help" nc:name="Using Privacy Features" nc:link="privacy_help.xhtml"/> </rdf:li>
@@ -62,6 +62,7 @@
         <rdf:li> <rdf:Description ID="nav-doc-move" nc:name="Moving to Another Page" nc:link="nav_help.xhtml#moving_to_another_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-link" nc:name="Clicking a Link" nc:link="nav_help.xhtml#clicking_a_link"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-steps" nc:name="Retracing Your Steps" nc:link="nav_help.xhtml#retracing_your_steps"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-reopen" nc:name="Reopening Closed Tabs or Windows" nc:link="nav_help.xhtml#reopening_closed_tabs_windows"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-reload" nc:name="Stopping and Reloading"  nc:link="nav_help.xhtml#stopping_and_reloading"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-bmark" nc:name="Visiting Bookmarked Pages"  nc:link="nav_help.xhtml#visiting_bookmarked_pages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-tabbed" nc:name="Using Tabbed Browsing"  nc:link="nav_help.xhtml#using_tabbed_browsing"/> </rdf:li>
@@ -96,7 +97,7 @@
   <rdf:Description about="#nav-doc-language">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc-charencode" nc:name="Selecting Character Encodings and Fonts" nc:link="nav_help.xhtml#selecting_character_encodings_and_fonts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-charencode" nc:name="Selecting Text Encodings and Fonts" nc:link="nav_help.xhtml#selecting_text_encodings_and_fonts"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-languagepref" nc:name="Setting Language Preferences" nc:link="nav_help.xhtml#setting_language_preferences"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-webcontent" nc:name="Finding a &brandShortName; version in your own language" nc:link="nav_help.xhtml#finding_localized_version"/> </rdf:li>
       </rdf:Seq>
@@ -143,7 +144,7 @@
 <rdf:Description about="#mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc" nc:name="Getting Started with Mail" nc:link="mailnews_getting_started.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc" nc:name="Getting Started with Mail &amp; Newsgroups" nc:link="mailnews_getting_started.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Importing Mail from Other Programs" nc:link="mailnews_getting_started.xhtml#importing_mail_from_other_programs" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-read"    nc:name="Reading Messages" nc:link="mailnews_using_mail.xhtml#reading_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send"    nc:name="Sending Messages" nc:link="mailnews_using_mail.xhtml#sending_messages" /> </rdf:li>
@@ -158,7 +159,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Working Offline" nc:link="mailnews_offline.xhtml#working_offline" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt" nc:name="Signing &amp; Encrypting Messages" nc:link="mailnews_security.xhtml#signing_and_encrypting_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-account-settings" nc:name="Mail &amp; Newsgroups Account Settings" nc:link="mailnews_account_settings.xhtml#mail_and_newsgroups_account_settings" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="Mail &amp; Newsgroup Preferences" nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="Mail &amp; Newsgroups Preferences" nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -408,7 +409,7 @@
 <rdf:Description about="#mail-doc-offline">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name="Setting Up Mail to Work Offline" nc:link="mailnews_offline.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name="Setting Up Mail &amp; Newsgroups to Work Offline" nc:link="mailnews_offline.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-offline-inbox" nc:name="Downloading All Messages for Offline Use" nc:link="mailnews_offline.xhtml#downloading_all_messages_for_offline_use"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-offline-folder" nc:name="Downloading an Individual Folder" nc:link="mailnews_offline.xhtml#downloading_an_individual_folder_for_offline_use"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-offline-flagged" nc:name="Downloading Selected or Flagged Messages" nc:link="mailnews_offline.xhtml#downloading_selected_or_flagged_messages_for_offline_use"/> </rdf:li>
@@ -508,7 +509,7 @@
         <rdf:li> <rdf:Description ID="mail-prefs-junk" nc:name="Junk &amp; Suspect Mail" nc:link="mailnews_preferences.xhtml#junk_and_suspect_preferences"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-prefs-tags" nc:name="Tags" nc:link="mailnews_preferences.xhtml#tags"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Return Receipts" nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_character_encoding" nc:name="Character Encoding" nc:link="mailnews_preferences.xhtml#character_encoding"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_text_encoding" nc:name="Text Encoding" nc:link="mailnews_preferences.xhtml#text_encoding"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Network &amp; Storage" nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -523,6 +524,7 @@
         <rdf:li> <rdf:Description ID="page_change" nc:name="Formatting Your Web Pages"  nc:link="composer_help.xhtml#formatting_your_web_pages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp-doc-table" nc:name="Adding Tables to Your Web Page"  nc:link="composer_help.xhtml#adding_tables_to_your_web_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp-doc-image" nc:name="Adding Images to Your Web Page"  nc:link="composer_help.xhtml#adding_images_to_your_web_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-math" nc:name="Adding Mathematical Formulas to Your Web Page"  nc:link="composer_help.xhtml#adding_mathematical_formulas_to_your_web_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp-doc-page" nc:name="Setting Page Properties"  nc:link="composer_help.xhtml#setting_page_properties"/> </rdf:li>
         <rdf:li> <rdf:Description ID="link_properties" nc:name="Creating Links"  nc:link="composer_help.xhtml#creating_links_in_composer"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp-doc-publish" nc:name="Publishing Your Pages"  nc:link="composer_help.xhtml#publishing_your_pages_on_the_web"/> </rdf:li>
@@ -599,6 +601,15 @@
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="comp-doc-image-insert" nc:name="Inserting an Image into Your Page"  nc:link="composer_help.xhtml#inserting_an_image_into_your_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="image_properties" nc:name="Editing Image Properties"  nc:link="composer_help.xhtml#editing_image_properties"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#comp-doc-math">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="comp-doc-math-insert" nc:name="Inserting a Mathematical Formula into Your Page"  nc:link="composer_help.xhtml#inserting_a_mathematical_formula_into_your_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-math-latex-dialog" nc:name="Editing the LaTeX Source" nc:link="composer_help.xhtml#editing_the_latex_source"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -762,7 +773,7 @@
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="cust-addons-about" nc:name="About Add-ons"  nc:link="customize_help.xhtml#about_add-ons"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-addons-installing" nc:name="Installing Add-ons"  nc:link="customize_help.xhtml#installing_add-ons"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-addons-manager" nc:name="Using the Add-on Manager"  nc:link="customize_help.xhtml#using_the_add-on_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons-manager" nc:name="Using the Add-ons Manager"  nc:link="customize_help.xhtml#using_the_add-ons_manager"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -783,6 +794,7 @@
         <rdf:li> <rdf:Description ID="appearance_pref_content" nc:name="Content" nc:link="cs_nav_prefs_appearance.xhtml#content"/> </rdf:li>
         <rdf:li> <rdf:Description ID="appearance_pref_fonts" nc:name="Fonts" nc:link="cs_nav_prefs_appearance.xhtml#fonts"/> </rdf:li>
         <rdf:li> <rdf:Description ID="appearance_pref_colors" nc:name="Colors" nc:link="cs_nav_prefs_appearance.xhtml#colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref_spelling" nc:name="Spelling" nc:link="cs_nav_prefs_appearance.xhtml#spelling"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -807,7 +819,9 @@
       <rdf:Seq>
         <rdf:li><rdf:Description ID="advanced_pref_scripts" nc:name="Scripts &amp; Plugins" nc:link="cs_nav_prefs_advanced.xhtml#scripts_and_plugins"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_keyboard_nav" nc:name="Keyboard Navigation" nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_find_as_you_type" nc:name="Find As You Type" nc:link="cs_nav_prefs_advanced.xhtml#fayt"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_cache" nc:name="Cache" nc:link="cs_nav_prefs_advanced.xhtml#cache"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_offlineapps" nc:name="Offline Apps" nc:link="cs_nav_prefs_advanced.xhtml#offline_apps"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_proxies" nc:name="Proxies" nc:link="cs_nav_prefs_advanced.xhtml#proxies"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_http_networking" nc:name="HTTP Networking" nc:link="cs_nav_prefs_advanced.xhtml#http_networking"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_installation" nc:name="Software Installation" nc:link="cs_nav_prefs_advanced.xhtml#software_installation"/> </rdf:li>
@@ -827,6 +841,8 @@
         <rdf:li><rdf:Description ID="privacy-doc" nc:name="Privacy on the Internet" nc:link="privacy_help.xhtml#privacy_on_the_internet"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-cookies" nc:name="Using the Cookie Manager" nc:link="using_priv_help.xhtml#using_the_cookie_manager"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-password" nc:name="Using the Password Manager" nc:link="using_priv_help.xhtml#using_the_password_manager"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-private-data" nc:name="Clearing Private Data" nc:link="using_priv_help.xhtml#clearing_private_data"/> </rdf:li>
+        <rdf:li><rdf:Description ID="private-browsing" nc:name="Browsing in a Private Window" nc:link="using_priv_help.xhtml#browsing_in_a_private_window"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-encrypt" nc:name="Encrypting Stored Sensitive Information" nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/> </rdf:li>
         <rdf:li><rdf:Description ID="images-help-managing" nc:name="Managing Images" nc:link="using_priv_help.xhtml#managing_images"/> </rdf:li>
         <rdf:li><rdf:Description ID="pop_up_blocking" nc:name="Controlling Popups" nc:link="cs_priv_prefs_popup.xhtml"/> </rdf:li>
@@ -838,8 +854,9 @@
 <rdf:Description about="#privacy-doc">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="privacy-doc-visit" nc:name="What Information Does My Browser Give to a Website?"  		nc:link="privacy_help.xhtml#what_information_does_my_browser_give_to_a_web_site"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privacy-doc-visit" nc:name="What Information Does My Browser Give to a Website?"  		nc:link="privacy_help.xhtml#what_information_does_my_browser_give_to_a_website"/> </rdf:li>
         <rdf:li><rdf:Description ID="privacy-doc-cookies" nc:name="What Are Cookies, and How Do They Work?"  		nc:link="privacy_help.xhtml#what_are_cookies_and_how_do_they_work"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privacy-doc-tracking" nc:name="Why and How Are Websites Tracking Me?"  		nc:link="privacy_help.xhtml#why_and_how_are_websites_tracking_me"/> </rdf:li>
         <rdf:li><rdf:Description ID="privacy-doc-email" nc:name="How Can I Control Web Pages in Email Messages?"  		nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/> </rdf:li>
         <rdf:li><rdf:Description ID="privacy-doc-unauth" nc:name="How Can I Make Sure Unauthorized People Don't Use Information About Me?"  		nc:link="privacy_help.xhtml#how_can_i_make_sure_unauthorized_people_dont_use_information_about_me"/> </rdf:li>
       </rdf:Seq>
@@ -864,8 +881,6 @@
         <rdf:li><rdf:Description ID="cookies_prefs" nc:name="Cookie Preferences" nc:link="using_priv_help.xhtml#cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="cookies_stored" nc:name="Stored Cookies" nc:link="using_priv_help.xhtml#stored_cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="cookie_sites" nc:name="Cookie Websites" nc:link="using_priv_help.xhtml#cookie_sites"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cookie_notify" nc:name="Cookie Notification" nc:link="using_priv_help.xhtml#cookie_notification"/> </rdf:li>
-
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -892,6 +907,26 @@
         <rdf:li><rdf:Description ID="master-prefs-timeout" nc:name="Master Password Timeout" nc:link="passwords_help.xhtml#master_password_timeout"/> </rdf:li>
         <rdf:li><rdf:Description ID="master-prefs-reset" nc:name="Reset Master Password" nc:link="passwords_help.xhtml#reset_master_password"/> </rdf:li>
         <rdf:li><rdf:Description ID="choosing-good-password" nc:name="Choosing a Good Password" nc:link="passwords_help.xhtml#choosing_a_good_password"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+<rdf:Description about="#using-priv-help-private-data">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="types_of_private_data" nc:name="Types of Private Data" nc:link="using_priv_help.xhtml#types_of_private_data"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privatedata_prefs" nc:name="Private Data Preferences" nc:link="using_priv_help.xhtml#private_data_prefs"/> </rdf:li>
+        <rdf:li><rdf:Description ID="clear_private_data_now" nc:name="Clear Private Data Now" nc:link="using_priv_help.xhtml#clear_private_data_now"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+<rdf:Description about="#private-browsing">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="opening_a_private_window" nc:name="Opening a Private Window" nc:link="using_priv_help.xhtml#opening_a_private_window"/> </rdf:li>
+        <rdf:li><rdf:Description ID="behavior_of_a_private_window" nc:name="Behavior of a Private Window" nc:link="using_priv_help.xhtml#behavior_of_a_private_window"/> </rdf:li>
+        <rdf:li><rdf:Description ID="leaving_the_private_browsing_mode" nc:name="Leaving the Private Browsing Mode" nc:link="using_priv_help.xhtml#leaving_the_private_browsing_mode"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -924,6 +959,20 @@
     </nc:subheadings>
   </rdf:Description>
 
+<rdf:Description about="#sec_gen">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="sec_gen_private_data" nc:name="Private Data" nc:link="using_priv_help.xhtml#private_data_prefs"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_cookies" nc:name="Cookies" nc:link="using_priv_help.xhtml#cookies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_images" nc:name="Images" nc:link="using_priv_help.xhtml#images"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_popup_windows" nc:name="Popup Windows" nc:link="cs_priv_prefs_popup.xhtml#privacy_and_security_preferences_popup_windows"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_passwords" nc:name="Passwords" nc:link="passwords_help.xhtml#passwords"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_master_passwords" nc:name="Master Passwords" nc:link="passwords_help.xhtml#master_passwords"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_ssltls" nc:name="SSL/TLS" nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssltls"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_certificates" nc:name="Certificates" nc:link="certs_prefs_help.xhtml#privacy_and_security_preferences_certificates"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
 
 <!-- USING CERTIFICATES CONTENT -->
 <rdf:Description about="#using-help-certs">
@@ -933,7 +982,7 @@
         <rdf:li><rdf:Description ID="using-help-certs-info" nc:name="Checking Security For a Web Page" nc:link="using_certs_help.xhtml#checking_security_for_a_web_page"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-manage" nc:name="Managing Certificates" nc:link="using_certs_help.xhtml#managing_certificates"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-devices" nc:name="Managing Smart Cards and Other Security Devices" nc:link="using_certs_help.xhtml#managing_smart_cards_and_other_security_devices"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-ssl" nc:name="Managing SSL Warnings and Settings" nc:link="using_certs_help.xhtml#managing_ssl_warnings_and_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-ssltls" nc:name="Managing SSL/TLS Warnings and Settings" nc:link="using_certs_help.xhtml#managing_ssltls_warnings_and_settings"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-validation" nc:name="Controlling Validation" nc:link="using_certs_help.xhtml#controlling_validation"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-context-help" nc:name="Certificate Settings" nc:link="certs_prefs_help.xhtml#certificate_settings"/> </rdf:li>
 
@@ -965,18 +1014,18 @@
     </nc:subheadings>
   </rdf:Description>
 
-<rdf:Description about="#using-help-certs-ssl">
+<rdf:Description about="#using-help-certs-ssltls">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="ssl-settings" nc:name="SSL Settings" nc:link="ssl_help.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="ssltls-settings" nc:name="SSL/TLS Settings" nc:link="ssl_help.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
 
-<rdf:Description about="#ssl-settings">
+<rdf:Description about="#ssltls-settings">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="ssl_prefs" nc:name="SSL Preferences" nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssl"/> </rdf:li>
+        <rdf:li><rdf:Description ID="ssl_prefs" nc:name="SSL/TLS Preferences" nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssltls"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -985,30 +1034,7 @@
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li><rdf:Description ID="using-help-certs-validation-how" nc:name="How Validation Works" nc:link="using_certs_help.xhtml#how_validation_works"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls" nc:name="Managing CRLs" nc:link="using_certs_help.xhtml#managing_crls"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-validation-ocsp" nc:name="Configuring OCSP" nc:link="using_certs_help.xhtml#configuring_ocsp"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation_prefs" nc:name="Validation Settings" nc:link="validation_help.xhtml"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#using-help-certs-validation-crls">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-next" nc:name="About the Next Update Date" nc:link="using_certs_help.xhtml#about_the_next_update_date"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-import" nc:name="Importing CRLs" nc:link="using_certs_help.xhtml#importing_crls"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-view" nc:name="Viewing and Managing CRLs" nc:link="using_certs_help.xhtml#viewing_and_managing_crls"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#validation_prefs">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="validation-prefs" nc:name="Validation Preferences" nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation-crl-manage" nc:name="Manage CRLs" nc:link="validation_help.xhtml#manage_crls"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation-crl-import" nc:name="CRL Import Status" nc:link="validation_help.xhtml#crl_import_status"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation-crl-auto-update-prefs" nc:name="Automatic CRL Update Preferences" nc:link="validation_help.xhtml#automatic_crl_update_preferences"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1059,8 +1085,8 @@
 <rdf:Description about="#web_certs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="edit_web_certs" nc:name="Edit Website Certificate Settings" nc:link="certs_help.xhtml#edit_web_site_certificate_trust_settings"/> </rdf:li>
-        <rdf:li><rdf:Description ID="delete_web_certs" nc:name="Delete Website Certificate" nc:link="certs_help.xhtml#delete_web_site_certificates"/> </rdf:li>
+        <rdf:li><rdf:Description ID="edit_web_certs" nc:name="Edit Website Certificate Settings" nc:link="certs_help.xhtml#edit_website_certificate_trust_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="delete_web_certs" nc:name="Delete Website Certificate" nc:link="certs_help.xhtml#delete_website_certificates"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1084,7 +1110,7 @@
         <rdf:li><rdf:Description ID="backup_your_cert" nc:name="Certificate Backup" nc:link="cert_dialog_help.xhtml#certificate_backup"/> </rdf:li>
         <rdf:li><rdf:Description ID="which_cert" nc:name="User Identification Request" nc:link="cert_dialog_help.xhtml#user_identification_request"/> </rdf:li>
         <rdf:li><rdf:Description ID="new_ca" nc:name="New Certificate Authority" nc:link="cert_dialog_help.xhtml#new_certificate_authority"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cert-dialog-help-website" nc:name="Website Certificates" nc:link="cert_dialog_help.xhtml#web_site_certificates"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cert-dialog-help-website" nc:name="Website Certificates" nc:link="cert_dialog_help.xhtml#website_certificates"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1129,7 +1155,6 @@
       <rdf:Seq>
         <rdf:li><rdf:Description ID="tools-js_console" nc:name="Error Console" nc:link="developer_tools.xhtml#js_console"/> </rdf:li>
         <rdf:li><rdf:Description ID="tools-inspector" nc:name="DOM Inspector" nc:link="developer_tools.xhtml#inspector"/> </rdf:li>
-        <rdf:li><rdf:Description ID="tools-venkman" nc:name="JavaScript Debugger" nc:link="developer_tools.xhtml#venkman"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
 </rdf:Description>
@@ -1165,7 +1190,7 @@
 <rdf:Description about="#shortcuts_mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="General Mail Shortcuts" nc:link="shortcuts_mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="General Mail &amp; Newsgroups Shortcuts" nc:link="shortcuts_mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_mail_message_list" nc:name="Message List Shortcuts" nc:link="shortcuts_mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_mail_message_compose" nc:name="Message Compose Shortcuts" nc:link="shortcuts_mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
       </rdf:Seq>
