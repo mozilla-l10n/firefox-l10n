@@ -30,8 +30,8 @@
 
 <!ENTITY dataChoicesTab.label            "ตัวเลือกข้อมูล">
 
-<!ENTITY healthReportDesc.label          "ช่วยให้คุณเข้าใจประสิทธิภาพเบราว์เซอร์ของคุณและแบ่งปันข้อมูลกับ &vendorShortName; เกี่ยวกับข้อมูลสุขภาพของเบราว์เซอร์คุณ">
-<!ENTITY enableHealthReport.label        "เปิดใช้งาน &brandShortName; รายงานสุขภาพ">
+<!ENTITY healthReportDesc.label          "ช่วยให้คุณเข้าใจประสิทธิภาพเบราว์เซอร์ของคุณและแบ่งปันข้อมูลกับ &vendorShortName; เกี่ยวกับสุขภาพเบราว์เซอร์ของคุณ">
+<!ENTITY enableHealthReport.label        "เปิดใช้งานรายงานสุขภาพ &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "ร">
 <!ENTITY healthReportLearnMore.label     "เรียนรู้เพิ่มเติม">
 
