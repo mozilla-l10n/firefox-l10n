@@ -32,6 +32,11 @@
   <li>Проверьте, не был ли файл переименован, удалён или перемещён.</li>
 </ul>
 ">
+<!ENTITY fileAccessDenied.title "В доступе к файлу отказано">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Возможно, что он был удалён или перемещён, или разрешения на файл не дают получить к нему доступ.</li>
+</ul>">
 <!ENTITY generic.title "Ой.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; не может загрузить эту страницу по неопределённой причине.</p>

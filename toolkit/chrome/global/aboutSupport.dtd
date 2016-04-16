@@ -66,3 +66,8 @@
 <!ENTITY aboutSupport.sandboxTitle "Песочница">
 <!ENTITY aboutSupport.safeModeTitle "Попробовать безопасный режим">
 <!ENTITY aboutSupport.restartInSafeMode.label "Перезапустить с отключёнными дополнениями…">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Возможности">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Диагностика">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Лог ошибок">
+<!ENTITY aboutSupport.graphicsGPU1Title "Видеокарта №1">
+<!ENTITY aboutSupport.graphicsGPU2Title "Видеокарта №2">
