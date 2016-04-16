@@ -93,10 +93,10 @@
 <!ENTITY overlay_share_select_device "Seleziona dispositivo">
 <!ENTITY overlay_no_synced_devices "Non è disponibile alcun dispositivo connesso all’account Firefox">
 <!ENTITY pref_category_search3 "Ricerca">
-<!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
+<!ENTITY pref_category_search_summary2 "Aggiungi nuovi motori di ricerca, imposta motore predefinito, suggerimenti">
 <!ENTITY pref_category_accessibility "Accessibilità">
 <!ENTITY pref_category_accessibility_summary2 "Dimensione del testo, zoom, input vocale">
-<!ENTITY pref_category_privacy_summary3 "Tracciamento, cookie, condivisione dati">
+<!ENTITY pref_category_privacy_summary4 "Tracciamento, accessi, condivisione dati">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Informazioni su &brandShortName;, FAQ, feedback">
@@ -110,7 +110,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Ripristina predefiniti">
 <!ENTITY pref_search_hint2 "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca e poi toccando l’icona &formatI;.">
 <!ENTITY pref_category_advanced "Avanzate">
-<!ENTITY pref_category_advanced_summary2 "Ripristino schede, plugin, strumenti di sviluppo">
+<!ENTITY pref_category_advanced_summary3 "Ripristino schede, risparmio dati, strumenti di sviluppo">
 <!ENTITY pref_category_notifications "Notifiche">
 <!ENTITY pref_category_notifications_summary "Nuove funzioni, aggiornamenti dai siti web">
 <!ENTITY pref_content_notifications "Aggiornamenti siti web">
