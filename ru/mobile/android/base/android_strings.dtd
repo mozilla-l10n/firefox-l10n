@@ -24,6 +24,7 @@
 <!ENTITY reading_list_migration_title "Список для чтения подключён">
 <!ENTITY reading_list_migration_subtext "Пункты вашего Списка для чтения будут добавлены в Закладки">
 <!ENTITY reading_list_migration_goto_bookmarks "Перейти в Закладки">
+<!ENTITY reading_list_migration_bookmarks_hidden "Ваша панель закладок скрыта">
 <!ENTITY bookmarks_title "Закладки">
 <!ENTITY history_title "История">
 <!ENTITY reading_list_title "Список для чтения">
@@ -52,6 +53,8 @@
 <!ENTITY screenshot_added_to_bookmarks "Скриншот добавлен в закладки">
 <!ENTITY screenshot_folder_label_in_bookmarks "Скриншоты">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Список для чтения">
+<!ENTITY reader_saved_offline "Сохранено в автономном режиме">
+<!ENTITY reader_switch_to_bookmarks "Переключиться">
 <!ENTITY history_today_section "Сегодня">
 <!ENTITY history_yesterday_section "Вчера">
 <!ENTITY history_week_section3 "Последние 7 дней">
@@ -74,7 +77,7 @@
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
 <!ENTITY pref_category_general "Основные">
-<!ENTITY pref_category_general_summary2 "Домашняя, язык, панель адреса">
+<!ENTITY pref_category_general_summary3 "Домашняя, язык, очередь вкладок">
 <!ENTITY pref_category_language "Язык">
 <!ENTITY pref_category_language_summary "Изменение языка вашего браузера">
 <!ENTITY pref_browser_locale "Язык браузера">
@@ -88,11 +91,11 @@
 <!ENTITY overlay_share_select_device "Выбрать устройство">
 <!ENTITY overlay_no_synced_devices "Не найдено устройств, подключенных к Аккаунту Firefox">
 <!ENTITY pref_category_search3 "Поиск">
-<!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
+<!ENTITY pref_category_search_summary2 "Добавлять, выбирать по умолчанию, отображать предложения">
 <!ENTITY pref_category_accessibility "Специальные возможности">
 <!ENTITY pref_category_accessibility_summary2 "Размер шрифта, масштаб, голосовой ввод">
 <!ENTITY pref_category_privacy_short "Приватность">
-<!ENTITY pref_category_privacy_summary3 "Отслеживание, куки, выбор данных">
+<!ENTITY pref_category_privacy_summary4 "Отслеживание, логины, выбор данных">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "О &brandShortName;, FAQ, отзывы">
 <!ENTITY pref_category_datareporting "Выбор данных">
@@ -105,7 +108,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Восстановить по умолчанию">
 <!ENTITY pref_search_hint2 "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем коснувшись значка &formatI;.">
 <!ENTITY pref_category_advanced "Дополнительно">
-<!ENTITY pref_category_advanced_summary2 "Восстановление вкладок, плагины, инструменты разработчика">
+<!ENTITY pref_category_advanced_summary3 "Восстановление вкладок, экономия трафика, инструменты разработчика">
 <!ENTITY pref_category_notifications "Уведомления">
 <!ENTITY pref_category_notifications_summary "Новые возможности, обновления сайтов">
 <!ENTITY pref_content_notifications "Обновление веб-сайтов">
@@ -139,12 +142,15 @@
 <!ENTITY pref_cookies_accept_all "Включены">
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
 <!ENTITY pref_cookies_disabled "Отключены">
+<!ENTITY pref_category_data_saver "Экономия трафика">
+<!ENTITY pref_category_media "Медиа">
+<!ENTITY pref_category_developer_tools "Инструменты разработчика">
 <!ENTITY pref_tap_to_load_images_title2 "Показывать изображения">
 <!ENTITY pref_tap_to_load_images_enabled "Всегда">
 <!ENTITY pref_tap_to_load_images_data "Только через Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Блокировать">
 <!ENTITY pref_show_web_fonts "Использовать веб-шрифты">
-<!ENTITY pref_show_web_fonts_summary "Отключите для использования шрифтов по умолчанию и сокращения времени загрузки веб-сайтов">
+<!ENTITY pref_show_web_fonts_summary2 "Загружать шрифты с сайта при загрузке страницы">
 <!ENTITY pref_tracking_protection_title2 "Защита от отслеживания">
 <!ENTITY pref_tracking_protection_summary3 "Включена в Приватном просмотре">
 <!ENTITY pref_donottrack_title "Не отслеживать">
@@ -224,6 +230,7 @@
 <!ENTITY pref_private_data_siteSettings2 "Настройки сайтов">
 <!ENTITY pref_private_data_downloadFiles2 "Загрузки">
 <!ENTITY pref_private_data_syncedTabs "Облачные вкладки">
+<!ENTITY pref_default_browser "Сделать браузером по умолчанию">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Отправить отзыв">
@@ -456,3 +463,4 @@
 <!ENTITY eol_notification_summary "Нажмите, чтобы узнать больше">
 <!ENTITY whatsnew_notification_title "Установлена последняя версия &brandShortName;">
 <!ENTITY whatsnew_notification_summary "Узнать, что нового в этой версии">
+<!ENTITY promotion_add_to_homescreen "Добавить на домашний экран">
