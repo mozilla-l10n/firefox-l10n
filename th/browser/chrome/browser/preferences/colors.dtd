@@ -24,7 +24,7 @@
 <!ENTITY  underlineLinks.label            "ขีดเส้นใต้ลิงก์">
 <!ENTITY  underlineLinks.accesskey        "ส">
 <!ENTITY  links                           "สีลิงก์">
-<!ENTITY  linkColor.label                 "ลิงก์ที่ยังไม่ได้เข้า :">
-<!ENTITY  linkColor.accesskey             "ย">
-<!ENTITY  visitedLinkColor.label          "ลิงก์ที่เข้าแล้ว :">
-<!ENTITY  visitedLinkColor.accesskey      "ข">
+<!ENTITY  linkColor.label                 "ลิงก์ที่ยังไม่เคยเยี่ยมชม:">
+<!ENTITY  linkColor.accesskey             "ล">
+<!ENTITY  visitedLinkColor.label          "ลิงก์ที่เยี่ยมชมแล้ว:">
+<!ENTITY  visitedLinkColor.accesskey      "เ">
