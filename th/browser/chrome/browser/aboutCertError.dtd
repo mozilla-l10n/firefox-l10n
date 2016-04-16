@@ -15,7 +15,7 @@ by NSS/PSM via netError.xhtml. -->
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara "เจ้าของเว็บไซต์ <span class='hostname'/> ได้ตั้งค่าเว็บไซต์อย่างไม่เหมาะสม เพื่อป้องกันข้อมูลของคุณจะถูกขโมย &brandShortName; จะไม่เชื่อมต่อไปยังเว็บไซต์นี้">
+<!ENTITY certerror.introPara "เจ้าของ <span class='hostname'/> ได้กำหนดค่าเว็บไซต์ของพวกเขาไม่ถูกต้อง  เพื่อปกป้องข้อมูลของคุณจากการถูกขโมย &brandShortName; จึงไม่ได้เชื่อมต่อไปยังเว็บไซต์นี้">
 <!ENTITY certerror.returnToPreviousPage.label "ย้อนกลับ">
 <!ENTITY certerror.learnMore "เรียนรู้เพิ่มเติม…">
 <!ENTITY certerror.advanced.label "ขั้นสูง">
