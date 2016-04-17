@@ -8,14 +8,16 @@
 <!ENTITY content.label "Contenuto">
 <!ENTITY fonts.label "Caratteri">
 <!ENTITY colors.label "Colori">
+<!ENTITY spellingPane.label "Ortografia">
 <!ENTITY navigator.label "Browser">
 <!ENTITY history.label "Cronologia">
 <!ENTITY languages.label "Lingue">
 <!ENTITY applications.label "Applicazioni esterne">
 <!ENTITY locationBar.label "Barra degli indirizzi">
+<!ENTITY search.label "Ricerche in Internet">
 <!ENTITY tabWindows.label "Schede di navigazione">
 <!ENTITY links.label "Comportamento link">
-<!ENTITY offline.label "Non in linea">
+<!ENTITY download.label "Download">
 <!ENTITY security.label "Privacy e Sicurezza">
 <!ENTITY privatedata.label "Dati personali">
 <!ENTITY cookies.label "Cookie">
@@ -27,18 +29,13 @@
 <!ENTITY certs.label "Certificati">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avanzate">
-<!ENTITY down.label "Download">
+<!ENTITY scriptsAndWindows.label "Script e plugin">
+<!ENTITY keynav.label "Navigazione da tastiera">
+<!ENTITY findAsYouType.label "Cerca quanto digitato">
 <!ENTITY cache.label "Cache">
 <!ENTITY offlineApps.label "Applicazioni non in linea">
 <!ENTITY proxies.label "Proxy">
 <!ENTITY httpnetworking.label "Trasferimenti HTTP">
 <!ENTITY smart.label "Installazione programmi">
-<!ENTITY download.label "Download">
-<!ENTITY keynav.label "Navigazione da tastiera">
-<!ENTITY findAsYouType.label "Cerca quanto digitato">
-<!ENTITY search.label "Ricerche in Internet">
-<!ENTITY policies.label "Politiche di sicurezza">
 <!ENTITY mousewheel.label "Rotellina mouse">
-<!ENTITY scriptsAndWindows.label "Script e plugin">
-<!ENTITY spellingPane.label "Ortografia">
 <!ENTITY focusSearch.key "r">

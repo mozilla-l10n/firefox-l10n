@@ -145,3 +145,5 @@
 <!ENTITY spellDictionaries.accesskey "L">
 <!ENTITY spellAddDictionaries.label "Scarica altri dizionari…">
 <!ENTITY spellAddDictionaries.accesskey "S">
+<!ENTITY devtoolsInspect.label "Analizza elemento">
+<!ENTITY devtoolsInspect.accesskey "n">
