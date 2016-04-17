@@ -32,6 +32,12 @@
    eliminado.</li>
 </ul>
 ">
+<!ENTITY fileAccessDenied.title "El acceso al archivo ha sido denegado">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Puede haber sido eliminado, movido o sus permisos de archivo pueden estar impidiendo el acceso.</li>
+</ul>
+">
 <!ENTITY generic.title "¡Vaya!">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; no puede cargar esta página por alguna razón.</p>

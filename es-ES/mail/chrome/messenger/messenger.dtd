@@ -683,9 +683,11 @@
 <!ENTITY contextCopyMsgMenu.label "Copiar a">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Ignorar conversación">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorar sub-conversación">
 <!ENTITY contextWatchThreadMenu.label "Observar conversación">
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Guardar como…">
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Imprimir…">
