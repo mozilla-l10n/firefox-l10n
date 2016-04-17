@@ -257,10 +257,10 @@
 <!ENTITY appMenuHistory.viewSidebar.label "Ver panel lateral del historial">
 <!ENTITY appMenuHelp.tooltip "Abrir menú de ayuda">
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
-<!ENTITY appMenuRemoteTabs.fetching.label "Recuperando pestañas sincronizadas…">
 <!ENTITY appMenuRemoteTabs.notabs.label "No hay pestañas abiertas">
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Active la sincronización de pestañas para ver una lista de las mismas de sus otros dispositivos.">
-<!ENTITY appMenuRemoteTabs.noclients.label "Inicie sesión en Firefox desde sus otros dispositivos para ver sus pestañas aquí.">
+<!ENTITY appMenuRemoteTabs.noclients.title "No hay pestañas sincronizadas… ¡aún!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quiere ver sus pestañas de otros dispositivos aquí?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicie sesión para ver una lista de pestañas de sus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicie sesión en Sync">
@@ -521,16 +521,25 @@
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu3.label "Pestañas sincronizadas">
 <!ENTITY syncedTabs.sidebar.label "Pestañas sincronizadas">
-<!ENTITY syncedTabs.sidebar.fetching.label "Recuperando pestañas sincronizadas…">
 <!ENTITY syncedTabs.sidebar.noclients.label "Inicie sesión en Firefox desde sus otros dispositivos para ver sus pestañas aquí.">
+<!ENTITY syncedTabs.sidebar.noclients.title "No hay pestañas sincronizadas… ¡aún!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Quiere ver sus pestañas de otros dispositivos aquí?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label "Inicie sesión para ver una lista de pestañas de sus otros dispositivos.">
 <!ENTITY syncedTabs.sidebar.notabs.label "No hay pestañas abiertas">
 <!ENTITY syncedTabs.sidebar.openprefs.label "Abrir preferencias de &syncBrand.shortName.label;">
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Active la sincronización de pestañas para ver una lista de las mismas de sus otros dispositivos.">
-<!ENTITY syncedTabs.context.openTab.label "Abrir esta pestaña">
-<!ENTITY syncedTabs.context.openTab.accesskey "A">
+<!ENTITY syncedTabs.context.open.label "Abrir">
+<!ENTITY syncedTabs.context.open.accesskey "A">
+<!ENTITY syncedTabs.context.openInNewTab.label "Abrir en una pestaña nueva">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey "e">
+<!ENTITY syncedTabs.context.openInNewWindow.label "Abrir en una ventana nueva">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey "n">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label "Abrir en una nueva ventana privada">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "b">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label "Añadir a marcadores esta pestaña…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "m">
+<!ENTITY syncedTabs.context.copy.label "Copiar">
+<!ENTITY syncedTabs.context.copy.accesskey "C">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label "Conectarse a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey "Y">
