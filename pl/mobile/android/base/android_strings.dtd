@@ -163,6 +163,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "Akceptowanie, z wyjątkiem ciasteczek zewnętrznych podmiotów">
 <!ENTITY pref_cookies_disabled "Wyłączone">
 
+<!ENTITY pref_category_data_saver "Oszczędzanie danych">
+<!ENTITY pref_category_media "Media">
+<!ENTITY pref_category_developer_tools "Narzędzia dla programistów">
+
 <!ENTITY pref_tap_to_load_images_title2 "Wyświetlanie obrazów">
 <!ENTITY pref_tap_to_load_images_enabled "Zawsze">
 <!ENTITY pref_tap_to_load_images_data "Tylko przez Wi-Fi">
