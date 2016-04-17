@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 <!ENTITY  doNotTrack.pre.label          "Sie können auch ">
-<!ENTITY  doNotTrack.settings.label     "Ihre Einstellungen zum Schutz vor Aktivitätenverfolgung verwalten">
+<!ENTITY  doNotTrack.settings.label     "Websites mitteilen, Ihre Aktivitäten nicht zu verfolgen">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Chronik">
