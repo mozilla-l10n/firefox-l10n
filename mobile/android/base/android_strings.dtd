@@ -742,7 +742,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "ಆಡ್-ಆನ್‌ಗಳು">
-
+<!ENTITY restrictable_feature_addons_installation_description "Firefoxಗೆ ವೈಶಿಷ್ಟ್ಯತೆಗಳನ್ನು ಅಥವಾ ಕಾರ್ಯಶೀಲತೆಗಳನ್ನು ಸೇರಿಸಿ: ಗಮನಿಸಿ: ಆಡ್-ಆನ್‌ಗಳು ಕೆಲವು ಅಡೆತಡೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಬಲ್ಲವು.">
 <!ENTITY restrictable_feature_private_browsing "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
 
 <!ENTITY restrictable_feature_clear_history "ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು">
