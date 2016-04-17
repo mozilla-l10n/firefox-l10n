@@ -265,6 +265,7 @@
 <!ENTITY pref_private_data_downloadFiles2 "Pobrane pliki">
 <!ENTITY pref_private_data_syncedTabs "Zsynchronizowane karty">
 
+<!ENTITY pref_default_browser "Ustaw jako domyślną przeglądarkę">
 <!ENTITY pref_about_firefox "O programie &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Przekaż informacje zwrotne">
