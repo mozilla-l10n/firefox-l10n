@@ -43,3 +43,5 @@
 <!ENTITY inspectorCollapseNode.label "Contraer">
 <!ENTITY inspectorScreenshotNode.label "Capturar pantalla del nodo">
 <!ENTITY inspectorDuplicateNode.label "Duplicar nodo">
+<!ENTITY inspectorAddNode.label "Crear nodo nuevo">
+<!ENTITY inspectorAddNode.accesskey "n">
