@@ -7,9 +7,10 @@
 <!ENTITY select.all.label "Tutti i tipi di dato">
 <!ENTITY select.cookies.label "Solo cookie">
 <!ENTITY select.permissions.label "Solo permessi">
+<!ENTITY select.permissionspwd.label "Solo permessi password">
 <!ENTITY select.preferences.label "Solo preferenze">
 <!ENTITY select.passwords.label "Solo password">
-<!ENTITY select.storage.label "">
+<!ENTITY select.storage.label "Solo dati web archiviati">
 <!ENTITY domain.search.placeholder "Cerca nei domini">
 <!ENTITY domain.search.key "d">
 <!ENTITY domain.tree.domain.label "Dominio">
@@ -20,9 +21,10 @@
 <!ENTITY data.search.key "k">
 <!ENTITY tab.cookies.label "Cookie">
 <!ENTITY tab.permissions.label "Permessi">
+<!ENTITY tab.permissionspwd.label "Permessi password">
 <!ENTITY tab.preferences.label "Preferenze">
 <!ENTITY tab.passwords.label "Password">
-<!ENTITY tab.storage.label "">
+<!ENTITY tab.storage.label "Dati web archiviati">
 <!ENTITY tab.formdata.label "Dati moduli">
 <!ENTITY tab.forget.label "Dimentica">
 <!ENTITY cookies.description "Questo dominio ha memorizzato i seguenti cookie sul tuo computer:">
@@ -52,9 +54,15 @@
 <!ENTITY perm.AllowSameDomain "Permetti per lo stesso dominio">
 <!ENTITY perm.AllowSession "Permetti per la sessione">
 <!ENTITY perm.Block "Blocca">
-<!ENTITY perm.host.placeholder "Inserisci nome host">
+<!ENTITY perm.host.placeholder "Inserire nome host">
 <!ENTITY perm.button.add.label "Aggiungi">
 <!ENTITY perm.button.add.accesskey "A">
+<!ENTITY permpwd.UseDefault "Utilizza predefinito">
+<!ENTITY permpwd.AskAlways "Chiedi sempre">
+<!ENTITY permpwd.NeverSave "Non salvare mai">
+<!ENTITY permpwd.host.placeholder "Inserire nome host">
+<!ENTITY permpwd.button.add.label "Aggiungi">
+<!ENTITY permpwd.button.add.accesskey "A">
 <!ENTITY prefs.description "Le preferenze di contenuto sono un modo per &brandShortName; di salvare le proprie impostazioni specifiche per un sito come il livello di zoom.">
 <!ENTITY prefs.tree.host.label "Sito">
 <!ENTITY prefs.tree.name.label "Nome preferenza">
@@ -77,16 +85,16 @@
 <!ENTITY pwd.ctx.selectAll.accesskey "S">
 <!ENTITY pwd.button.remove.label "Elimina">
 <!ENTITY pwd.button.remove.accesskey "E">
-<!ENTITY storage.description "">
-<!ENTITY storage.tree.host.label "">
-<!ENTITY storage.tree.type.label "">
-<!ENTITY storage.tree.size.label "">
-<!ENTITY storage.ctx.remove.label "">
-<!ENTITY storage.ctx.remove.accesskey "">
-<!ENTITY storage.ctx.selectAll.label "">
-<!ENTITY storage.ctx.selectAll.accesskey "">
-<!ENTITY storage.button.remove.label "">
-<!ENTITY storage.button.remove.accesskey "">
+<!ENTITY storage.description "Questo dominio usa i seguenti dati archiviati dal web sul proprio computer:">
+<!ENTITY storage.tree.host.label "Sito web">
+<!ENTITY storage.tree.type.label "Tipo">
+<!ENTITY storage.tree.size.label "Dimensione">
+<!ENTITY storage.ctx.remove.label "Rimuovi">
+<!ENTITY storage.ctx.remove.accesskey "R">
+<!ENTITY storage.ctx.selectAll.label "Seleziona tutto">
+<!ENTITY storage.ctx.selectAll.accesskey "T">
+<!ENTITY storage.button.remove.label "Rimuovi">
+<!ENTITY storage.button.remove.accesskey "R">
 <!ENTITY fdata.search.placeholder "Cerca nei dati dei moduli">
 <!ENTITY fdata.tree.fieldname.label "Nome campo">
 <!ENTITY fdata.tree.value.label "Valore inserito">
@@ -103,12 +111,14 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Permessi">
 <!ENTITY forget.permissions.accesskey "P">
+<!ENTITY forget.permissionspwd.label "Permessi password">
+<!ENTITY forget.permissionspwd.accesskey "r">
 <!ENTITY forget.preferences.label "Preferenze contenuti">
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Password">
 <!ENTITY forget.passwords.accesskey "P">
-<!ENTITY forget.storage.label "">
-<!ENTITY forget.storage.accesskey "">
+<!ENTITY forget.storage.label "Dati web archiviati">
+<!ENTITY forget.storage.accesskey "w">
 <!ENTITY forget.formdata.label "Dati moduli">
 <!ENTITY forget.formdata.accesskey "D">
 <!ENTITY forget.button.label "Dimentica questi dati">

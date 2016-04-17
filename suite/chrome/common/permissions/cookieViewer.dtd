@@ -16,7 +16,6 @@
 <!ENTITY button.removeallcookies.accesskey "E">
 <!ENTITY search.placeholder "Cerca nei cookie">
 <!ENTITY focusSearch.key "f">
-<!ENTITY windowClose.key "h">
 <!ENTITY selectAll.key "u">
 <!ENTITY props.name.label "Nome:">
 <!ENTITY props.value.label "Contenuto:">
@@ -25,10 +24,9 @@
 <!ENTITY props.secure.label "Invia per:">
 <!ENTITY props.expires.label "Scadenza:">
 <!ENTITY treehead.sitename.label "Sito">
+<!ENTITY treehead.scheme.label "Schema">
 <!ENTITY treehead.status.label "Stato">
 <!ENTITY windowtitle.label "Gestione cookie">
-<!ENTITY buttonaccept.label "Chiudi">
-<!ENTITY buttonaccept.accesskey "C">
 <!ENTITY blockSite.label "Blocca">
 <!ENTITY blockSite.accesskey "B">
 <!ENTITY allowSite.label "Permetti">
