@@ -28,4 +28,4 @@
 <!ENTITY sync.pair.title            "จับคู่อุปกรณ์">
 <!ENTITY sync.pair.description      "เพื่อเปิดใช้งานอุปกรณ์ใหม่ของคุณ เลือก &quot;ตั้งค่า Sync&quot; บนอุปกรณ์">
 <!ENTITY sync.setup.close           "ปิด">
-<!ENTITY sync.setup.waitingdownload "ข้อมูลของคุณกำลังถูกดาวน์โหลดอยู่ในเบื้องหลัง คุณสามารถปิดหน้าต่างนี้เมื่อไหร่ก็ได้">
+<!ENTITY sync.setup.waitingdownload "ข้อมูลของคุณกำลังถูกดาวน์โหลดอยู่ในเบื้องหลัง คุณสามารถปิดหน้าต่างนี้เมื่อใดก็ได้">
