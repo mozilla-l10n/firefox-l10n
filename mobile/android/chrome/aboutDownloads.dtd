@@ -4,7 +4,7 @@
 
 <!ENTITY aboutDownloads.title                      "下载项">
 <!ENTITY aboutDownloads.header                     "您的下载项">
-<!ENTITY aboutDownloads.empty                      "没有下载">
+<!ENTITY aboutDownloads.empty                      "没有下载项">
 
 <!ENTITY aboutDownloads.open                       "打开">
 <!ENTITY aboutDownloads.remove                     "删除">
