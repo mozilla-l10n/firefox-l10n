@@ -70,6 +70,12 @@
 <!ENTITY screenshot_folder_label_in_bookmarks "Captures d’écran">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Liste de lecture">
 
+<!ENTITY reader_saved_offline "Enregistré hors ligne">
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Basculer">
+
 <!ENTITY history_today_section "Aujourd’hui">
 <!ENTITY history_yesterday_section "Hier">
 <!ENTITY history_week_section3 "Les 7 derniers jours">
@@ -108,7 +114,7 @@
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
 <!ENTITY pref_category_general "Général">
-<!ENTITY pref_category_general_summary2 "Accueil, langue, barre d’adresse">
+<!ENTITY pref_category_general_summary3 "Accueil, langue, file d’onglets">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -147,11 +153,11 @@
 <!ENTITY overlay_no_synced_devices "Aucun appareil connecté au compte Firefox trouvé">
 
 <!ENTITY pref_category_search3 "Recherche">
-<!ENTITY pref_category_search_summary "Personnaliser les moteurs de recherche">
+<!ENTITY pref_category_search_summary2 "Ajouter, définir un moteur par défaut, afficher des suggestions">
 <!ENTITY pref_category_accessibility "Accessibilité">
 <!ENTITY pref_category_accessibility_summary2 "Taille du texte, zoom, saisie vocale">
 <!ENTITY pref_category_privacy_short "Vie privée">
-<!ENTITY pref_category_privacy_summary3 "Pistage, cookies, données collectées">
+<!ENTITY pref_category_privacy_summary4 "Pistage, identifiants, données collectées">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "À propos de &brandShortName;, FAQ, donner son avis">
 <!ENTITY pref_category_datareporting "Données collectées">
@@ -169,7 +175,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "ASTUCE : ajoutez n’importe quel site à votre liste de moteurs de recherche en effectuant un appui long sur leur champ de recherche puis en appuyant sur l’icône &formatI;.">
 <!ENTITY pref_category_advanced "Avancé">
-<!ENTITY pref_category_advanced_summary2 "Restaurer les onglets, plugins, outils de développement">
+<!ENTITY pref_category_advanced_summary3 "Restauration d’onglets, économies de données, outils de développement">
 <!ENTITY pref_category_notifications "Notifications">
 <!ENTITY pref_category_notifications_summary "Nouvelles fonctionnalités, actualités des sites web">
 <!ENTITY pref_content_notifications "Actualités des sites web">
@@ -220,7 +226,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Autorisés, sauf cookies tiers">
 <!ENTITY pref_cookies_disabled "Non autorisés">
 
-<!ENTITY pref_category_data_saver "Économiseur de données">
+<!ENTITY pref_category_data_saver "Économies de données">
 <!ENTITY pref_category_media "Médias">
 <!ENTITY pref_category_developer_tools "Outils de développement">
 
@@ -346,7 +352,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Téléchargements">
 <!ENTITY pref_private_data_syncedTabs "Onglets synchronisés">
 
-
+<!ENTITY pref_default_browser "Définir comme navigateur par défaut">
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Donner votre avis">
