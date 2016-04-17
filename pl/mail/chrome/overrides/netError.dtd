@@ -18,6 +18,9 @@
 <!ENTITY fileNotFound.title "Nie odnaleziono pliku">
 <!ENTITY fileNotFound.longDesc "<ul><li>Sprawdź wielkość liter oraz upewnij się, że nazwa pliku nie zawiera literówek lub innych błędów w pisowni.</li><li>Sprawdź, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Odmowa dostępu do pliku">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Plik mógł zostać usunięty, przeniesiony lub jego uprawnienia uniemożliwiają dostęp.</li></ul>">
+
 <!ENTITY generic.title "Wystąpił błąd">
 <!ENTITY generic.longDesc "<p>&brandShortName; nie jest w stanie otworzyć tej strony.</p>">
 
