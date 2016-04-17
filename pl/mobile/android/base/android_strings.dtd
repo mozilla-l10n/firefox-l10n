@@ -88,7 +88,7 @@
 <!ENTITY settings "Ustawienia">
 <!ENTITY settings_title "Ustawienia">
 <!ENTITY pref_category_general "Ogólne">
-<!ENTITY pref_category_general_summary2 "Strona domowa, język, pasek adresu">
+<!ENTITY pref_category_general_summary3 "Strona domowa, język, kolejka kart">
 
 <!ENTITY pref_category_language "Język">
 <!ENTITY pref_category_language_summary "Zmiana języka przeglądarki">
@@ -107,11 +107,11 @@
 <!ENTITY overlay_no_synced_devices "Brak urządzeń połączonych z kontem Firefoksa">
 
 <!ENTITY pref_category_search3 "Wyszukiwanie">
-<!ENTITY pref_category_search_summary "Dostosowanie wyszukiwarek">
+<!ENTITY pref_category_search_summary2 "Dodawanie wyszukiwarek, ustawianie domyślnej, wyświetlanie sugestii">
 <!ENTITY pref_category_accessibility "Dostępność">
 <!ENTITY pref_category_accessibility_summary2 "Rozmiar tekstu, powiększanie, sterowanie głosowe">
 <!ENTITY pref_category_privacy_short "Prywatność">
-<!ENTITY pref_category_privacy_summary3 "Śledzenie, ciasteczka, zarządzanie danymi">
+<!ENTITY pref_category_privacy_summary4 "Śledzenie, dane logowania, zarządzanie danymi">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "O programie &brandShortName;, najczęściej zadawane pytania, opinie">
 <!ENTITY pref_category_datareporting "Udostępnianie danych">
@@ -124,7 +124,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Przywróć domyślne">
 <!ENTITY pref_search_hint2 "Rada: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie dotykając ikony &formatI;.">
 <!ENTITY pref_category_advanced "Zaawansowane">
-<!ENTITY pref_category_advanced_summary2 "Przywracanie kart, wtyczki, narzędzia dla programistów">
+<!ENTITY pref_category_advanced_summary3 "Przywracanie kart, oszczędzanie danych, narzędzia dla programistów">
 <!ENTITY pref_category_notifications "Powiadomienia">
 <!ENTITY pref_category_notifications_summary "Powiadomienia ze stron i o nowych funkcjach">
 <!ENTITY pref_content_notifications "Powiadomienia ze stron">
