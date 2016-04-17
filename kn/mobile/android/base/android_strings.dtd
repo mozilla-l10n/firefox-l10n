@@ -11,9 +11,9 @@
 <!ENTITY  onboard_start_subtext3 "ನಿಮ್ಮ ಮೊಬೈಲ್ ಜಾಲ ವೀಕ್ಷಣೆಯ ಅನುಭವವನ್ನು ನೈಜವಾಗಿ ನಿಮ್ಮ ಸ್ವಂತದ್ದಾಗಿಸಿಕೊಳ್ಳಿ.">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; ಗೆ ಸ್ವಾಗತ">
-
+<!ENTITY firstrun_urlbar_subtext "ಉಪಯುಕ್ತ ಹುಡುಕು ಸಲಹೆ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳಿಂದ ವೇಗವಾಗಿ ಹುಡುಕಿ.">
 <!ENTITY firstrun_bookmarks_title "ಇತಿಹಾಸ">
-
+<!ENTITY firstrun_bookmarks_message "ನಿಮ್ಮ ಮೆಚ್ಚಿನವು, ಮುಂ‍ಭಾಗ ಮತ್ತು ಮಧ್ಯೆ">
 <!ENTITY firstrun_bookmarks_subtext "ನೀವು ಹುಡುಕುವಾಗ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸದಿಂದ ಫಲಿತಾಂಶ ಪಡೆಯಿರಿ.">
 <!ENTITY firstrun_data_title "ಮಾಹಿತಿ">
 <!ENTITY firstrun_data_message "ಕಡಿಮೆ ದತ್ತಾಂಶ, ಹೆಚ್ಚು ಉಳಿತಾಯ">
@@ -253,6 +253,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "ನೀವು ಇದನ್ನು ನಂತರ ಸಿದ್ದತೆಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "ಇ‍ತರೆ ಅನ್ವಯಗಳ ಮೇಲೆ ಚಿತ್ರಿಸುವುದನ್ನು ಅನುಮತಿಸುವುದನ್ನು ಆನ್ ಮಾಡಿ">
 <!ENTITY tab_queue_prompt_positive_action_button "ಸಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY tab_queue_prompt_negative_action_button "ಈಗ ಬೇಡ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -269,6 +270,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 ಹಾಳೆ ಕಾಯುತ್ತಿದೆ">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "‍\&quot;ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆ\&quot;‌ಯಲು, ದಯವಿಟ್ಟು \u0027ಇತರೆ ಅನ್ವಯಗಳ ಮೇಲೆ ಚಿತ್ರಿಸು\u0027 ಅನುಮತಿಯನ್ನು ‍&brandShortName; ಗೆ ಸಕ್ರಿಯಗೊಳಿಸಿ">
 
 <!ENTITY pref_char_encoding "ಅಕ್ಷರದ ಎನ್ಕೋಡಿಂಗ್">
 <!ENTITY pref_char_encoding_on "ಪರಿವಿಡಿ ತೋರಿಸು">
@@ -461,7 +464,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "ಸಣ್ಣ ಪ್ರದೇಶಗಳನ್ನು ಹಿರಿದಾಗಿಸಿ">
-
+<!ENTITY pref_magnifying_glass_enabled_summary "ಕೊಂಡಿಗಳನ್ನು ಮತ್ತು ಮತ್ತು ಫಾರ್ಮ್ ಸ್ಥಳಗಳನ್ನು ಅವುಗಳ ಬಳಿ ತಟ್ಟುವುದರ ಮೂಲಕ ಹಿರಿದಾಗಿಸಿ">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -717,6 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "‍ಈ ಕೊಂಡಿ &formatS;. ನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ. ನೀವು ಖಾಸಗಿ ಜಾಲಾಟದಿಂದ ಹೊರಬರುವುದು ಖಚಿತವೇ?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -731,6 +735,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "ನಿಮ್ಮ ಇತರೆ ಸಾಧನದಲ್ಲಿ ತೋರಿಸಲಾಗಿರುವ ‌QR ಕೋಡ್ ಅನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗುತ್ತಿದೆ">
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
