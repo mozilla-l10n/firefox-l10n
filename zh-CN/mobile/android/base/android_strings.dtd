@@ -194,7 +194,7 @@
 <!ENTITY pref_home_suggested_sites "显示推荐网站">
 <!ENTITY pref_home_suggested_sites_summary "显示我们认为您可能感兴趣的网站">
 <!ENTITY pref_category_home_homepage "首页">
-<!ENTITY home_homepage_title "设置一个首页">
+<!ENTITY home_homepage_title "设置首页">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -203,7 +203,7 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "定制">
+<!ENTITY home_homepage_radio_user_address "自定义">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the

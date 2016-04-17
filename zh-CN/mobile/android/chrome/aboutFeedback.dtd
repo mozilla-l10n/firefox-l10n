@@ -53,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "再次感谢。">
 
-<!ENTITY feedback.privacy2         "为了您的隐私，请不要在您的反馈中包含任何个人信息。">
+<!ENTITY feedback.privacy2         "为了保护您的隐私，请不要在您的反馈内容中写下任何个人信息。">
 <!ENTITY feedback.send             "提交反馈">
