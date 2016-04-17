@@ -62,6 +62,9 @@
 <!ENTITY screenshot_folder_label_in_bookmarks "Zrzuty ekranu">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Do przeczytania">
 
+<!ENTITY reader_saved_offline "Zachowane w pamięci offline">
+<!ENTITY reader_switch_to_bookmarks "Przejdź">
+
 <!ENTITY history_today_section "Dzisiaj">
 <!ENTITY history_yesterday_section "Wczoraj">
 <!ENTITY history_week_section3 "Ostatnie 7 dni">
