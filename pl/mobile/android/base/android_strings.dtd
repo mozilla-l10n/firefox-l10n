@@ -169,7 +169,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokowanie">
 
 <!ENTITY pref_show_web_fonts "Wyświetlanie czcionek sieciowych">
-<!ENTITY pref_show_web_fonts_summary "Ukrycie powoduje użycie domyślnych czcionek, co skraca czas wczytywania stron">
+<!ENTITY pref_show_web_fonts_summary2 "Pobieranie zdalnych czcionek podczas wczytywania strony">
 
 <!ENTITY pref_tracking_protection_title2 "Ochrona przed śledzeniem">
 <!ENTITY pref_tracking_protection_summary3 "Włączona w trybie prywatnym">
