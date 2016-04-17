@@ -21,6 +21,10 @@
 <!ENTITY onboard_start_button_browser "Comenzar a navegar">
 <!ENTITY firstrun_button_next "Siguiente">
 <!ENTITY onboard_start_restricted1 "Permanezca seguro y mantenga el control con esta versión simplificada de &brandShortName;.">
+<!ENTITY reading_list_migration_title "Lista de lectura conectada">
+<!ENTITY reading_list_migration_subtext "Los elementos de su lista de lectura se añadirán ahora a sus marcadores">
+<!ENTITY reading_list_migration_goto_bookmarks "Ir a Marcadores">
+<!ENTITY reading_list_migration_bookmarks_hidden "Su panel de marcadores está oculto">
 <!ENTITY bookmarks_title "Marcadores">
 <!ENTITY history_title "Historial">
 <!ENTITY reading_list_title "Lista de lectura">
@@ -48,6 +52,9 @@
 <!ENTITY bookmark_options "Opciones">
 <!ENTITY screenshot_added_to_bookmarks "Captura añadida a marcadores">
 <!ENTITY screenshot_folder_label_in_bookmarks "Capturas">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista de lectura">
+<!ENTITY reader_saved_offline "Guardado sin conexión">
+<!ENTITY reader_switch_to_bookmarks "Cambiar">
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
 <!ENTITY history_week_section3 "En los últimos 7 días">
@@ -70,30 +77,29 @@
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_general "General">
-<!ENTITY pref_category_general_summary2 "Inicio, idioma, barra URL">
+<!ENTITY pref_category_general_summary3 "Inicio, idioma, cola de pestañas">
 <!ENTITY pref_category_language "Idioma">
 <!ENTITY pref_category_language_summary "Cambiar el idioma de su navegador">
 <!ENTITY pref_browser_locale "Idioma del navegador">
 <!ENTITY locale_system_default "Predeterminado del sistema">
 <!ENTITY overlay_share_label "Añadir a &brandShortName;">
 <!ENTITY overlay_share_bookmark_btn_label "Marcador">
-<!ENTITY overlay_share_reading_list_btn_label "Añadir a la lista de lectura">
 <!ENTITY overlay_share_bookmark_btn_label_already "Ya está en los marcadores">
-<!ENTITY overlay_share_reading_list_btn_label_already "Ya está en la lista de lectura">
 <!ENTITY overlay_share_send_other "Enviar a otros dispositivos">
 <!ENTITY overlay_share_send_tab_btn_label "Enviar a otro dispositivo">
 <!ENTITY overlay_share_no_url "No se ha encontrado enlace en esta compartición">
 <!ENTITY overlay_share_select_device "Seleccione dispositivo">
 <!ENTITY overlay_no_synced_devices "No se han encontrado dispositivos conectados a Firefox Accounts">
 <!ENTITY pref_category_search3 "Buscar">
-<!ENTITY pref_category_search_summary "Personalizar sus buscadores">
+<!ENTITY pref_category_search_summary2 "Añadir, estabecer predet., mostrar sugerencias">
 <!ENTITY pref_category_accessibility "Accesibilidad">
 <!ENTITY pref_category_accessibility_summary2 "Tamaño, entrada por voz">
 <!ENTITY pref_category_privacy_short "Privacidad">
-<!ENTITY pref_category_privacy_summary3 "Rastreo, cookies, elección de datos">
+<!ENTITY pref_category_privacy_summary4 "Rastreo, sesiones, elección de datos">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Acerca de &brandShortName;, FAQ, su opinión">
 <!ENTITY pref_category_datareporting "Elección de datos">
+<!ENTITY pref_category_logins "Inicios de sesión">
 <!ENTITY pref_learn_more "Saber más">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
 <!ENTITY pref_category_add_search_providers "Añadir más proveedores de búsquedas">
@@ -102,8 +108,9 @@
 <!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
 <!ENTITY pref_search_hint2 "TRUCO: añada cualquier sitio web a su lista de buscadores con una pulsación larga en su campo de búsqueda y tocando luego el icono &formatI;.">
 <!ENTITY pref_category_advanced "Avanzado">
-<!ENTITY pref_category_advanced_summary2 "Restaurar pestañas, plugins, herr. desarrollo">
+<!ENTITY pref_category_advanced_summary3 "Restaurar pestañas, guardado de datos, herramientas de desarrollo">
 <!ENTITY pref_category_notifications "Notificaciones">
+<!ENTITY pref_category_notifications_summary "Nuevas funciones, actual. sitios web">
 <!ENTITY pref_content_notifications "Actualizaciones del sitio web">
 <!ENTITY pref_content_notifications_summary2 "Descubra nuevo contenido de los sitios admitidos">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota mediante USB">
@@ -135,11 +142,15 @@
 <!ENTITY pref_cookies_accept_all "Activadas">
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, salvo las de terceras partes">
 <!ENTITY pref_cookies_disabled "Desactivadas">
+<!ENTITY pref_category_data_saver "Guardado de datos">
+<!ENTITY pref_category_media "Medios">
+<!ENTITY pref_category_developer_tools "Herramientas de desarrollo">
 <!ENTITY pref_tap_to_load_images_title2 "Mostrar imágenes">
 <!ENTITY pref_tap_to_load_images_enabled "Siempre">
 <!ENTITY pref_tap_to_load_images_data "Sólo bajo Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloqueadas">
 <!ENTITY pref_show_web_fonts "Mostrar tipografías web">
+<!ENTITY pref_show_web_fonts_summary2 "Descargar tipos de letra remotos al cargar una página">
 <!ENTITY pref_tracking_protection_title2 "Protección contra rastreo">
 <!ENTITY pref_tracking_protection_summary3 "Activado en navegación privada">
 <!ENTITY pref_donottrack_title "No rastrear">
@@ -219,6 +230,7 @@
 <!ENTITY pref_private_data_siteSettings2 "Configuración de sitios">
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
 <!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
+<!ENTITY pref_default_browser "Convertir en predeterminado">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Enviar opinión">
@@ -296,8 +308,6 @@
 <!ENTITY contextmenu_top_sites_pin "Fijar sitio">
 <!ENTITY contextmenu_top_sites_unpin "Soltar sitio">
 <!ENTITY contextmenu_add_search_engine "Añadir un buscador">
-<!ENTITY contextmenu_mark_read "Marcar como leído">
-<!ENTITY contextmenu_mark_unread "Marcar como no leído">
 <!ENTITY doorhanger_login_no_username "[Sin nombre]">
 <!ENTITY doorhanger_login_edit_title "Editar credencial">
 <!ENTITY doorhanger_login_edit_username_hint "Nombre de usuario">
@@ -323,10 +333,6 @@
 <!ENTITY site_settings_title3 "Configuración del sitio">
 <!ENTITY site_settings_cancel "Cancelar">
 <!ENTITY site_settings_clear "Limpiar">
-<!ENTITY reading_list_added3 "Añadido a la lista de lectura">
-<!ENTITY reading_list_removed "Página eliminada de su lista de lectura">
-<!ENTITY reading_list_remove "Eliminar de la lista de lectura">
-<!ENTITY reading_list_duplicate "Página ya está en su lista de lectura">
 <!ENTITY page_action_dropmarker_description "Acciones adicionales">
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
 <!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">
@@ -355,7 +361,6 @@
 <!ENTITY home_most_recent_empty "Los sitios web que ha visitado recientemente se mostrarán aquí.">
 <!ENTITY home_selected_empty "Los sitios web que visitó en el periodo seleccionado se muestran aquí.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: usar una &formatS1;pestaña privada nueva&formatS2; no guardará su historial.">
-<!ENTITY home_reading_list_empty "Los artículos que guarde para verlos más tarde aparecerán aquí.">
 <!ENTITY home_default_empty "No se ha podido encontrar contenido para este panel.">
 <!ENTITY home_move_back_to_filter "Volver a &formatS;">
 <!ENTITY home_remote_tabs_title "Pestañas sincronizadas">
@@ -461,3 +466,4 @@
 <!ENTITY eol_notification_summary "Toque para más información">
 <!ENTITY whatsnew_notification_title "&brandShortName; está actualizado">
 <!ENTITY whatsnew_notification_summary "Descubra las novedades de esta versión">
+<!ENTITY promotion_add_to_homescreen "Añadir a pantalla inicio">
