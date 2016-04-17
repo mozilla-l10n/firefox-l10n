@@ -11,6 +11,9 @@
 <!ENTITY useFavIcons.accesskey "C">
 <!ENTITY enableAutomaticImageResizing.label "Ridimensiona immagini grandi per mostrarle nella finestra del browser">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
+<!ENTITY scrolling.label "Scorrimento">
+<!ENTITY useAutoScroll.label "Usa lo scorrimento automatico">
+<!ENTITY useAutoScroll.accesskey "s">
 <!ENTITY useSmoothScroll.label "Utilizza lo scorrimento continuo">
 <!ENTITY useSmoothScroll.accesskey "U">
 <!ENTITY allowHWAccel.label "Utilizza accelerazione hardware se disponibile">
