@@ -274,7 +274,7 @@
 <!ENTITY paste.label "Plakken">
 <!ENTITY paste.accesskey "P">
 <!ENTITY pasteQuote.label "Plakken als citaat">
-<!ENTITY pasteQuote.accesskey "c">
+<!ENTITY pasteQuote.accesskey "t">
 
 <!ENTITY openAttachment.label "Openen">
 <!ENTITY openAttachment.accesskey "O">

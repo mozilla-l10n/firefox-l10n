@@ -687,7 +687,7 @@
 <!ENTITY subjectColumn2.tooltip "Sorteren op onderwerp">
 <!ENTITY dateColumn2.tooltip "Sorteren op datum">
 <!ENTITY priorityColumn2.tooltip "Sorteren op prioriteit">
-<!ENTITY tagsColumn2.tooltip "Sorteren op labels">
+<!ENTITY tagsColumn2.tooltip "Sorteren op label">
 <!ENTITY accountColumn2.tooltip "Sorteren op account">
 <!ENTITY statusColumn2.tooltip "Sorteren op status">
 <!ENTITY sizeColumn2.tooltip "Sorteren op grootte">
@@ -841,13 +841,13 @@
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Toevoegen aan adresboek…">
-<!ENTITY AddToAddressBook.accesskey "v">
+<!ENTITY AddToAddressBook.accesskey "T">
 <!ENTITY AddDirectlyToAddressBook.label "Toevoegen aan adresboek">
-<!ENTITY AddDirectlyToAddressBook.accesskey "v">
+<!ENTITY AddDirectlyToAddressBook.accesskey "T">
 <!ENTITY EditContact1.label "Contact bewerken">
 <!ENTITY EditContact1.accesskey "C">
 <!ENTITY ViewContact.label "Contact bekijken">
-<!ENTITY ViewContact.accesskey "e">
+<!ENTITY ViewContact.accesskey "C">
 <!ENTITY SubscribeToNewsgroup.label "Abonneren op nieuwsgroep">
 <!ENTITY SubscribeToNewsgroup.accesskey "N">
 <!ENTITY SendMessageTo.label "Bericht opstellen aan">
@@ -870,7 +870,7 @@
 <!ENTITY spellAddDictionaries.accesskey "t">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Koppelingsdoel opslaan als…">
+<!ENTITY saveLinkAsCmd.label "Koppeling opslaan als…">
 <!ENTITY saveLinkAsCmd.accesskey "d">
 <!ENTITY saveImageAsCmd.label "Afbeelding opslaan als…">
 <!ENTITY saveImageAsCmd.accesskey "p">

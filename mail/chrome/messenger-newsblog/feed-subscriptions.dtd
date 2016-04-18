@@ -36,7 +36,7 @@
 <!ENTITY button.importOPML.label     "Importeren">
 <!ENTITY button.importOPML.accesskey "m">
 <!ENTITY button.exportOPML.label     "Exporteren">
-<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.exportOPML.accesskey "x">
 <!ENTITY button.exportOPML.tooltip   "Feeds exporteren met mapstructuur; Ctrl+klikken of Ctrl+Enter om feeds als een lijst te exporteren">
 
 <!ENTITY cmd.close.commandKey        "w">
