@@ -653,7 +653,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title2 "Հասանելի է &brandShortName;-ի թարմացում">
 <!ENTITY updater_start_select2 "Դիպչեք՝ բեռնելու համար">
 
-<!ENTITY updater_downloading_title2 "&brandShortName;-ը բեռնվում է">
+<!ENTITY updater_downloading_title2 "&brandShortName;-ի ներբեռնում">
 <!ENTITY updater_downloading_title_failed2 "Ներբեռնումը ձախողվեց">
 <!ENTITY updater_downloading_select2 "Դիպչեք՝ բեռնելուց հետո թարմացումը կիրառելու համար">
 <!ENTITY updater_downloading_retry2 "Դիպչեք՝ կրկնելու համար">
