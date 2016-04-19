@@ -3,12 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR mozilla.org
+#define MOZ_LANGPACK_CREATOR Mozest
 
 # If non-English locales wish to credit multiple contributors, uncomment this
-
 # variable definition and use the format specified.
-
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Wen Shaohua</em:contributor> <em:contributor>Jin Jian</em:contributor> <em:contributor>Rongjun Mu</em:contributor> <em:contributor>Xie Yanbo</em:contributor> <em:contributor>Cathayan</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Wen Shaohua</em:contributor> <em:contributor>Jin Jian</em:contributor> <em:contributor>Rongjun Mu</em:contributor> <em:contributor>Xie Yanbo</em:contributor> <em:contributor>Cathayan</em:contributor> <em:contributor>YFdyh000</em:contributor> <em:contributor>xcffl</em:contributor> <em:contributor>Shen Hao</em:contributor> <em:contributor>Liu Xing</em:contributor>
 
 #unfilter emptyLines
