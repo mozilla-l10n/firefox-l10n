@@ -41,11 +41,11 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Відкріпити вкладку">
 <!ENTITY  unpinTab.accesskey                 "В">
 <!ENTITY  moveToNewWindow.label              "Перенести в нове вікно">
-<!ENTITY  moveToNewWindow.accesskey          "В">
+<!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  bookmarkAllTabs.label              "Закласти всі вкладки…">
 <!ENTITY  bookmarkAllTabs.accesskey          "к">
 <!ENTITY  undoCloseTab.label                 "Відновити закриту вкладку">
-<!ENTITY  undoCloseTab.accesskey             "П">
+<!ENTITY  undoCloseTab.accesskey             "о">
 <!ENTITY  closeTab.label                     "Закрити вкладку">
 <!ENTITY  closeTab.accesskey                 "к">
 
