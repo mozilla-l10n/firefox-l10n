@@ -8,7 +8,7 @@
 <!ENTITY chooseFileButton.label "Bestand kiezen…">
 <!ENTITY chooseFileButton.accessKey "B">
 <!ENTITY chooseFileLinkButton.label "Bestand kiezen…">
-<!ENTITY chooseFileLinkButton.accessKey "e">
+<!ENTITY chooseFileLinkButton.accessKey "B">
 <!ENTITY makeUrlRelative.label "URL is relatief ten opzichte van paginalocatie">
 <!ENTITY makeUrlRelative.accessKey "U">
 <!ENTITY makeUrlRelative.tooltip "Wisselen tussen relatieve en absolute URL. U moet de pagina eerst opslaan om dit te kunnen wijzigen.">

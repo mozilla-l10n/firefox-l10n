@@ -14,14 +14,14 @@
 <!ENTITY pasteAs.label "Plakken als">
 <!ENTITY pasteAs.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.label "Plakken als citaat">
-<!ENTITY pasteAsQuotationCmd.accesskey "c">
+<!ENTITY pasteAsQuotationCmd.accesskey "t">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Zoeken…">
 <!ENTITY findReplaceCmd.label "Zoeken en vervangen…">
 <!ENTITY enableInlineSpellChecker.label "Spelling controleren tijdens typen">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY enableInlineSpellChecker.accesskey "d">
 <!ENTITY checkSpellingCmd2.label "Spelling controleren…">
-<!ENTITY checkSpellingCmd2.accesskey "c">
+<!ENTITY checkSpellingCmd2.accesskey "S">
 <!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
