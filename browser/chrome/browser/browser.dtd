@@ -594,7 +594,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.label          "Videoyu e-posta ile gönder…">
 <!ENTITY emailVideoCmd.accesskey      "u">
 <!ENTITY castVideoCmd.label           "Videoyu aygıta gönder">
-<!ENTITY castVideoCmd.accesskey       "a">
+<!ENTITY castVideoCmd.accesskey       "n">
 <!ENTITY emailAudioCmd.label          "Sesi e-posta ile gönder…">
 <!ENTITY emailAudioCmd.accesskey      "ö">
 <!ENTITY playPluginCmd.label          "Bu yan uygulamayı etkinleştir">
@@ -608,7 +608,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageContentsCmd.label   "Resmi kopyala">
 <!ENTITY copyImageContentsCmd.accesskey  "o"> 
 <!ENTITY copyVideoURLCmd.label        "Video konumunu kopyala">
-<!ENTITY copyVideoURLCmd.accesskey    "V">
+<!ENTITY copyVideoURLCmd.accesskey    "k">
 <!ENTITY copyAudioURLCmd.label        "Ses konumunu kopyala">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "E-posta adresini kopyala">
