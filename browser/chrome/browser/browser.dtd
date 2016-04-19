@@ -757,7 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
-<!ENTITY identity.passiveLoaded "Partes desta página não são seguras (tal como imagens).">
+<!ENTITY identity.passiveLoaded "Partes desta página não são seguras (tais como imagens).">
 <!ENTITY identity.activeLoaded "Você desativou a proteção nesta página.">
 <!ENTITY identity.weakEncryption "Esta página usa criptografia fraca.">
 
