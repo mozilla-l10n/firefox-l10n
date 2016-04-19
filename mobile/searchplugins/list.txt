@@ -1,5 +1,4 @@
-google:hidden
-google-nocodes
+google
 yandex-tr
 twitter
 wikipedia-tr
