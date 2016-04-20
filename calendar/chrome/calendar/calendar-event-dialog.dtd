@@ -94,7 +94,7 @@
 
 <!ENTITY  event.menu.view.label                           "Sealladh">
 <!ENTITY  event.menu.view.accesskey                       "S">
-<!ENTITY  event.menu.view.toolbars.label                  "Na bàraichean-inneil">
+<!ENTITY  event.menu.view.toolbars.label                  "Na bàraichean-inneal">
 <!ENTITY  event.menu.view.toolbars.accesskey              "N">
 <!ENTITY  event.menu.view.toolbars.event.label            "Bàr-inneil nan tachartasan">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "e">
