@@ -117,7 +117,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "Lughdaich">
 <!ENTITY fullScreenRestore.tooltip "Aisig">
 <!ENTITY fullScreenClose.tooltip "Dùin">
-<!ENTITY fullScreenAutohide.label "Cuir bàraichean-inneil am falach">
+<!ENTITY fullScreenAutohide.label "Cuir bàraichean-inneal am falach">
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Fàg modh na làn-sgrìn">
 <!ENTITY fullScreenExit.accesskey "l">
@@ -263,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devtoolsConnect.label        "Ceangail…">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
-<!ENTITY errorConsoleCmd.label        "Consol nam mearachd">
+<!ENTITY errorConsoleCmd.label        "Consoil nam mearachd">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 
 <!ENTITY remoteWebConsoleCmd.label    "Consoil-lìn chèin">
@@ -381,7 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Sealladh"> 
 <!ENTITY viewMenu.accesskey       "S"> 
-<!ENTITY viewToolbarsMenu.label       "Na bàraichean-inneil"> 
+<!ENTITY viewToolbarsMenu.label       "Na bàraichean-inneal"> 
 <!ENTITY viewToolbarsMenu.accesskey     "N"> 
 <!ENTITY viewSidebarMenu.label "Am bàr-taoibh">
 <!ENTITY viewSidebarMenu.accesskey "t">
