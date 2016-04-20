@@ -10,7 +10,7 @@
 <!-- Toolbar-only items -->
 
 
-<!ENTITY compositionToolbar.tooltip "Bàr-inneil sgrìobhaidh">
+<!ENTITY compositionToolbar.tooltip "Bàr-inneal sgrìobhaidh">
 <!ENTITY previewToolbarCmd.label "Brabhsaich">
 <!ENTITY previewToolbarCmd.tooltip "Luchdaich an duilleag seo sa bhrabhsair">
 <!-- File menu items -->
@@ -23,9 +23,9 @@
 <!ENTITY sendPageCmd.accesskey "d">
 <!-- View menu items -->
 
-<!ENTITY compositionToolbarCmd.label "Bàr-inneil sgrìobhaidh">
+<!ENTITY compositionToolbarCmd.label "Bàr-inneal sgrìobhaidh">
 <!ENTITY compositionToolbarCmd.accesskey "B">
-<!ENTITY formattingToolbarCmd.label "Am bàr-inneil fòrmataidh">
+<!ENTITY formattingToolbarCmd.label "Am bàr-inneal fòrmataidh">
 <!ENTITY formattingToolbarCmd.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Bàr-inneil a' mhodh-deasachaidh">
 <!ENTITY editmodeToolbarCmd.accesskey "e">

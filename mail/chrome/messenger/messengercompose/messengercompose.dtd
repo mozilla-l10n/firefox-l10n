@@ -106,11 +106,11 @@
 
 <!ENTITY viewMenu.label "Sealladh">
 <!ENTITY viewMenu.accesskey "S">
-<!ENTITY viewToolbarsMenuNew.label "Na bàraichean-inneil">
+<!ENTITY viewToolbarsMenuNew.label "Na bàraichean-inneal">
 <!ENTITY viewToolbarsMenuNew.accesskey "N">
 <!ENTITY menubarCmd.label "Bàr a' chlàir-thaice">
 <!ENTITY menubarCmd.accesskey "B">
-<!ENTITY showCompositionToolbarCmd.label "Bàr-inneil sgrìobhaidh">
+<!ENTITY showCompositionToolbarCmd.label "Bàr-inneal sgrìobhaidh">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Am bàr fòrmataidh">
 <!ENTITY showFormattingBarCmd.accesskey "f">

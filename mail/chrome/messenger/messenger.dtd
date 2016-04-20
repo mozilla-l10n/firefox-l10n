@@ -130,7 +130,7 @@
 
 <!ENTITY menubarCmd.label "Bàr a' chlàir-thaice">
 <!ENTITY menubarCmd.accesskey "r">
-<!ENTITY showMessengerToolbarCmd.label "Bàr-inneil a' phuist">
+<!ENTITY showMessengerToolbarCmd.label "Bàr-inneal a' phuist">
 <!ENTITY showMessengerToolbarCmd.accesskey "B">
 <!ENTITY customizeToolbar.label "Gnàthaich…">
 <!ENTITY customizeToolbar.accesskey "c">
@@ -479,7 +479,7 @@
 <!ENTITY deleteJunk.accesskey "d">
 <!ENTITY importCmd.label "Ion-phortaich…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY errorConsoleCmd.label "Consol nam mearachd">
+<!ENTITY errorConsoleCmd.label "Consoil nam mearachd">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Falamhaich an eachdraidh faisg ort…">
