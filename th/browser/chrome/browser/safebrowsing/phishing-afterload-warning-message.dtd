@@ -5,6 +5,7 @@
 <!ENTITY safeb.palm.accept.label "นำฉันออกไปจากที่นี่!">
 <!ENTITY safeb.palm.decline.label "เพิกเฉยคำเตือนนี้">
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
+<!ENTITY safeb.palm.notdeceptive.label "นี้ไม่ใช่ไซต์หลอกลวง…">
 <!ENTITY safeb.palm.reportPage.label "ทำไมหน้านี้จึงถูกปิดกั้น?">
 <!ENTITY safeb.palm.whyForbidden.label "ทำไมหน้านี้จึงถูกปิดกั้น?">
 
