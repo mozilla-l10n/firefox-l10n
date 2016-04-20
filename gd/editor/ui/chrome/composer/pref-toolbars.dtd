@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.toolbars.title    "Na bàraichean-inneil">
+<!ENTITY pref.toolbars.title    "Na bàraichean-inneal">
 
-<!ENTITY composition.caption    "Seall na putain seo air a' chrann-inneil deasachaidh:">
+<!ENTITY composition.caption    "Seall na putain seo air a' bàr-inneal deasachaidh:">
 
 <!ENTITY new.label              "Ùr">
 <!ENTITY open.label             "Fosgail">
@@ -22,7 +22,7 @@
 <!ENTITY link.label             "Ceangal">
 <!ENTITY anchor.label           "Acair">
 
-<!ENTITY formatting.caption     "Seall na putain seo air a' bhàr-inneil fhòrmataidh:">
+<!ENTITY formatting.caption     "Seall na putain seo air a' bhàr-inneal fhòrmataidh:">
 
 <!ENTITY smaller.label          "Nas lugha">
 <!ENTITY larger.label           "Nas motha">

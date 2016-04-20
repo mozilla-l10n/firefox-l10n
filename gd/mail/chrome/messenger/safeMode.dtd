@@ -11,7 +11,7 @@
 <!ENTITY disableAddons.label              "Dèan gach tuillead neo chomasach">
 <!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label              "Aisig gach bàr-inneil is uidheam-smachd">
+<!ENTITY resetToolbars.label              "Aisig gach bàr-inneal is uidheam-smachd">
 <!ENTITY resetToolbars.accesskey          "r">
 
 <!ENTITY changeAndRestartButton.label     "Cuir na h-atharrachaidhean an gnìomh is ath-thòisich">

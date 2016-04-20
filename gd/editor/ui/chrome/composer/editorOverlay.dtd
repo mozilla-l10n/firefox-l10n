@@ -286,7 +286,7 @@
 <!-- Toolbar-only items -->
 
 <!ENTITY menuBar.tooltip "Bàr a' chlàir-thaice">
-<!ENTITY formatToolbar.tooltip "Bàr-inneil fòrmataidh">
+<!ENTITY formatToolbar.tooltip "Bàr-inneal fòrmataidh">
 <!ENTITY cutToolbarCmd.tooltip "Gearr às">
 <!ENTITY copyToolbarCmd.tooltip "Dèan lethbhreac dheth">
 <!ENTITY pasteToolbarCmd.tooltip "Cuir ann">

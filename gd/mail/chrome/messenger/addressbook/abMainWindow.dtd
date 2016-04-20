@@ -82,11 +82,11 @@
 
 <!ENTITY viewMenu.label                                 "Sealladh">
 <!ENTITY viewMenu.accesskey                             "S">
-<!ENTITY viewToolbarsMenu.label                         "Na bàraichean-inneil">
+<!ENTITY viewToolbarsMenu.label                         "Na bàraichean-inneal">
 <!ENTITY viewToolbarsMenu.accesskey                     "N">
 <!ENTITY menubarCmd.label                               "Bàr a' chlàir-thaice">
 <!ENTITY menubarCmd.accesskey                           "r">
-<!ENTITY showAbToolbarCmd.label                         "Bàr-inneil leabhar nan seòladh">
+<!ENTITY showAbToolbarCmd.label                         "Bàr-inneal leabhar nan seòladh">
 <!ENTITY showAbToolbarCmd.accesskey                     "B">
 <!ENTITY showTaskbarCmd.label                           "Bàr na staide">
 <!ENTITY showTaskbarCmd.accesskey                       "s">

@@ -13,9 +13,9 @@
 <!ENTITY locationEditField.label "Seòladh an deilbh:">
 <!ENTITY locationEditField.accessKey "l">
 <!ENTITY locationEditField.tooltip "Cuir a-steach ainm no seòladh an deilbh">
-<!ENTITY title.label "Gliocas-inneil:">
+<!ENTITY title.label "Gliocas-sgrìn:">
 <!ENTITY title.accessKey "G">
-<!ENTITY title.tooltip "Seo am feart html 'title' a nochdas mar ghliocas-inneil">
+<!ENTITY title.tooltip "Seo am feart html 'title' a nochdas mar ghliocas-sgrìn">
 <!ENTITY altText.label "Roghainn teacsa eile:">
 <!ENTITY altText.accessKey "a">
 <!ENTITY altTextEditField.tooltip "Cuir a-steach teacsa a chithear an àite an deilbh">
