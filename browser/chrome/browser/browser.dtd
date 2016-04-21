@@ -878,7 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Comhroinnfear gach fuinneog infheicthe ar do scáileáin.">
 
 <!ENTITY trackingProtection.title "Cosaint ar Rianú">
-<!ENTITY trackingProtection.detectedBlocked3 "Tá &brandShortName; ag cur bac ar chodanna den leathanach a d'fhéadfadh a bheith ag rianú do chuid brabhsála.">
+<!ENTITY trackingProtection.detectedBlocked3 "Tá &brandShortName; ag cur baic ar chodanna den leathanach a d'fhéadfadh a bheith ag rianú do chuid brabhsála.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tá eilimintí ar an suíomh seo a d'fhéadfadh do bhrabhsáil a rianú. Tá cosaint díchumasaithe agat.">
 <!ENTITY trackingProtection.notDetected3 "Níor aimsíodh aon eilimint rianaithe ar an leathanach seo.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
