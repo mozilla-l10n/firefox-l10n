@@ -7,45 +7,53 @@
 
 
 
+<!ENTITY firstrun_urlbar_message "Tereg̃uahẽporãite &brandShortName;-pe">
 
 <!ENTITY firstrun_bookmarks_title "Tembiasakue">
-
+<!ENTITY firstrun_bookmarks_message "Eguerohoryvéva, tenonde ha mbytépe">
 
 <!ENTITY firstrun_data_title "Arange">
+<!ENTITY firstrun_data_message "Mba\u0027ekuaarã\u0027ive, ñembyatyve">
+
+<!ENTITY firstrun_sync_title "Sync">
 
 
 
 
 
-
-
-
-
+<!ENTITY firstrun_button_next "Upeigua">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
+
+<!ENTITY  bookmarks_title "Techaukahakuéra">
 <!ENTITY  history_title "Tembiasakue">
+<!ENTITY  reading_list_title "Moñe\u0027ẽrã rysýi">
+<!ENTITY  recent_tabs_title "Tendayke pyahuvéva">
+
+<!ENTITY  switch_to_tab "Tendayképe jeguerova">
 
 
 
 
+<!ENTITY  crash_sorry "Rombyasyeterei">
+<!ENTITY  crash_comment "Embojuapy je\u0027erei (umi je\u0027erei ohecháta opavavete)">
 
+<!ENTITY  crash_email "Ne ñanduti veve">
 
+<!ENTITY  sending_crash_report "Emondohína jejavy rehegua\u2026">
+<!ENTITY  crash_close_label "Mboty">
+<!ENTITY  crash_restart_label "&brandShortName; moñepyrũjey">
+<!ENTITY  exit_label "Ñesẽ">
 
+<!ENTITY  launcher_shortcuts_title "Ñanduti rembipuru\u0027i &brandShortName; mba\u0027éva">
+<!ENTITY  launcher_shortcuts_empty "Ndojejuhúi ñanduti rembipuru\u0027i">
 
+<!ENTITY choose_file "Eiporavo marandurenda">
 
+<!ENTITY url_bar_default_text2 "Eheka térã emoinge kundaharape">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY bookmark "Techaukaha">
 
 
 <!-- Localization note (bookmark_already_added) : This string is
