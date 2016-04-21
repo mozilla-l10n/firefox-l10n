@@ -10,8 +10,8 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "G">
 <!ENTITY update.updateButton.label2               "Güncellemek için &brandShortName; Uygulamasını Yeniden Başlat">
 <!ENTITY update.updateButton.accesskey            "G">
-<!ENTITY update.applyButtonBillboard.label        "Güncellemeyi Uygula...">
-<!ENTITY update.applyButtonBillboard.accesskey    "U">
+<!ENTITY update.applyButtonBillboard.label        "Güncellemeyi uygula...">
+<!ENTITY update.applyButtonBillboard.accesskey    "u">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
