@@ -7,7 +7,7 @@
 <!ENTITY aboutAccounts.syncPreferences.label "Appuyez ici pour vérifier les paramètres de Sync">
 
 <!ENTITY aboutAccounts.noConnection.title "Aucune connexion Internet">
-<!ENTITY aboutAccounts.retry.label "Réinitialiser">
+<!ENTITY aboutAccounts.retry.label "Réessayer">
 
 <!ENTITY aboutAccounts.restrictedError.title "Action interdite">
 <!ENTITY aboutAccounts.restrictedError.description "Vous ne pouvez pas gérer de compte Firefox depuis ce profil.">

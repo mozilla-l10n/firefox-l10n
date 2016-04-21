@@ -73,8 +73,8 @@
 <!ENTITY addDevice.dialog.connected.label   "Appareil connecté">
 
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "S’abonner">
-<!ENTITY existingRecoveryKey.description  "Vous pouvez obtenir une copie de votre clé de récupération en vous rendant dans le menu « Préférences/Options » de &syncBrand.shortName.label; sur votre autre appareil puis sélectionnez « Ma clé de récupération » dans « Gérer le compte ».">
+<!ENTITY setup.signInPage.title.label "Se connecter">
+<!ENTITY existingRecoveryKey.description  "Vous pouvez obtenir une copie de votre clé de récupération en vous rendant dans le menu « Préférences/Options » de &syncBrand.shortName.label; sur votre autre appareil et en sélectionnant « Ma clé de récupération » dans « Gérer le compte ».">
 <!ENTITY verifying.label              "Vérification en cours…">
 <!ENTITY resetPassword.label          "Réinitialiser le mot de passe">
 <!ENTITY resetSyncKey.label           "J’ai perdu mon autre appareil.">

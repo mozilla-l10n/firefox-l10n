@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Prévenir lors de l’ouverture de multiples onglets d’un ralentissement possible de &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "P">
 
-<!ENTITY restoreTabsOnDemand.label        "Ne pas charger les onglets tant qu’ils ne sont pas sélectionnés">
-<!ENTITY restoreTabsOnDemand.accesskey    "N">
-
 <!ENTITY switchToNewTabs.label        "Lors de l’ouverture d’un lien dans un nouvel onglet, basculer vers celui-ci immédiatement">
 <!ENTITY switchToNewTabs.accesskey    "L">
 

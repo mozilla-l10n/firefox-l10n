@@ -9,7 +9,7 @@
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Les messages dont la taille dépasse">
 <!ENTITY offlineNotDownload.accesskey "g">
-<!ENTITY autosyncNotDownload.label "Ne pas télécharger les message dont la taille dépasse">
+<!ENTITY autosyncNotDownload.label "Ne pas télécharger les messages dont la taille dépasse">
 <!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "Ko">
 <!ENTITY daysOld.label "jours">

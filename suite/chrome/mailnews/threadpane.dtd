@@ -35,11 +35,11 @@
 <!ENTITY accountColumn2.tooltip "Trier par compte">
 <!ENTITY statusColumn2.tooltip "Trier par statut">
 <!ENTITY sizeColumn2.tooltip "Trier par taille">
-<!ENTITY junkStatusColumn2.tooltip "Trier par statut d’indésirable">
+<!ENTITY junkStatusColumn2.tooltip "Trier par statut indésirable">
 <!ENTITY unreadColumn2.tooltip "Nombre de messages non lus dans le fil">
 <!ENTITY totalColumn2.tooltip "Nombre total de messages dans le fil">
 <!ENTITY readColumn2.tooltip "Trier par état de lecture">
 <!ENTITY receivedColumn2.tooltip "Trier par date de réception">
 <!ENTITY flagColumn2.tooltip "Trier par état de cochage">
 <!ENTITY locationColumn2.tooltip "Trier par adresse">
-<!ENTITY idColumn2.tooltip "Trier par ordre reçu">
+<!ENTITY idColumn2.tooltip "Trier par ordre de réception">

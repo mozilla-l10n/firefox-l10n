@@ -21,9 +21,9 @@
 <!ENTITY bookmarkLinkCmd.accesskey "M">
 <!ENTITY copyLinkCmd.label "Copier l’adresse du lien">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY CopyMessageId.label "ID de la copie du message">
+<!ENTITY CopyMessageId.label "Copier l’identifiant du message">
 <!ENTITY CopyMessageId.accesskey "I">
-<!ENTITY OpenMessageForMsgId.label "ID de l’ouverture du message">
+<!ENTITY OpenMessageForMsgId.label "Ouvrir le message pour l’identifiant">
 <!ENTITY OpenMessageForMsgId.accesskey "D">
-<!ENTITY OpenBrowserWithMsgId.label "Ouvrir le navigateur avec l’ID du message">
+<!ENTITY OpenBrowserWithMsgId.label "Ouvrir le navigateur avec l’identifiant de message">
 <!ENTITY OpenBrowserWithMsgId.accesskey "O">

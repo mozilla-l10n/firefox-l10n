@@ -25,7 +25,7 @@
 <!ENTITY retentionKeepMsg.accesskey "S">
 <!ENTITY retentionKeepAll.label "Ne supprimer aucun message">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepRecent.label "Supprimer tous les messages sauf les">
+<!ENTITY retentionKeepRecent.label "Supprimer tous les messages, sauf les">
 <!ENTITY retentionKeepRecent.accesskey "r">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Toujours supprimer les messages lus (outrepasse les paramètres d’âge)">
