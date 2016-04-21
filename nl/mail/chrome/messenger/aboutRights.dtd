@@ -26,7 +26,7 @@
 <!ENTITY rights.intro-point3c " te vinden.">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Privacybeleidsregels die van toepassing zijn op dit product dienen hier te worden genoemd.">
+<!ENTITY rights.intro-point3-unbranded "Privacybeleidsregels die op dit product van toepassing zijn, dienen hier te worden genoemd.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "&brandShortName; biedt tevens optionele diensten, zoals de add-on-updateservice; we kunnen echter niet garanderen dat deze 100&#37; nauwkeurig of foutvrij zijn. Meer details, waaronder informatie over het uitschakelen van de diensten, is te vinden in de ">
