@@ -81,7 +81,7 @@
 <!ENTITY highestPriorityCmd.label "Maximale">
 <!ENTITY highestPriorityCmd.accesskey "M">
 
-<!ENTITY returnReceiptMenu.label "Demander un accusé réception">
+<!ENTITY returnReceiptMenu.label "Demander un accusé de réception">
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Notification de l’état de la distribution">
 <!ENTITY dsnMenu.accesskey "N">

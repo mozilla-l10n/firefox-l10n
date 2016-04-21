@@ -14,7 +14,7 @@
 <!ENTITY highlightNonMatches.accesskey         "M">
 <!ENTITY addressingEnable.label                "Les carnets d’adresses locaux">
 <!ENTITY addressingEnable.accesskey            "x">
-<!ENTITY autocompleteText.label                "Quand on adresse un message, chercher les entrées correspondantes dans :">
+<!ENTITY autocompleteText.label                "Lors de la recherche d’adresses, chercher les correspondances dans :">
 <!ENTITY directories.label                     "Le serveur d’annuaire :">
 <!ENTITY directories.accesskey                 "L">
 <!ENTITY directoriesNone.label                 "Aucun">
