@@ -6,6 +6,11 @@
 <!ENTITY safeb.palm.decline.label "Ignorer cet avertissement">
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.notdeceptive.label "Ce site n’est pas trompeur…">
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
+<!ENTITY safeb.palm.notdeceptive.accesskey "C">
 <!ENTITY safeb.palm.reportPage.label "Pourquoi cette page a-t-elle été bloquée ?">
 <!ENTITY safeb.palm.whyForbidden.label "Pourquoi cette page a-t-elle été bloquée ?">
 
