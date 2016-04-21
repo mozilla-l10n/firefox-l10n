@@ -286,7 +286,7 @@
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY selectAll.label "Tümünü Seç">
 <!ENTITY selectAll.accesskey "e">
-<!ENTITY attachFile.label "Dosya Ekle…">
+<!ENTITY attachFile.label "Dosya ekle…">
 <!ENTITY attachFile.accesskey "D">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "l">
