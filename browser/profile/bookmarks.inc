@@ -7,11 +7,11 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
-#define bookmarks_title 书签库
-#define bookmarks_heading 书签库
+#define bookmarks_title 书签
+#define bookmarks_heading 书签
 
 #define bookmarks_toolbarfolder 书签工具栏文件夹
-#define bookmarks_toolbarfolder_description 添加到此文件夹的书签会被显示到书签库工具栏中
+#define bookmarks_toolbarfolder_description 添加到此文件夹的书签会被显示到书签工具栏中
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
