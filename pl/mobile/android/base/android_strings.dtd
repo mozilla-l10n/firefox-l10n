@@ -7,7 +7,7 @@
 <!ENTITY onboard_start_subtext3 "Spraw, aby przeglądanie mobilne stało się prawdziwie Twoim.">
 
 <!ENTITY firstrun_urlbar_message "Witamy w przeglądarce &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Wyszukuj szybciej dzięki pomocnym sugestiom.">
+<!ENTITY firstrun_urlbar_subtext "Wyszukuj szybciej dzięki pomocnym podpowiedziom.">
 <!ENTITY firstrun_bookmarks_title "Historia">
 <!ENTITY firstrun_bookmarks_message "Ulubione strony, zawsze dostępne">
 <!ENTITY firstrun_bookmarks_subtext "Wyświetlaj wyniki z zakładek i historii podczas wyszukiwania.">
@@ -110,7 +110,7 @@
 <!ENTITY overlay_no_synced_devices "Brak urządzeń połączonych z kontem Firefoksa">
 
 <!ENTITY pref_category_search3 "Wyszukiwanie">
-<!ENTITY pref_category_search_summary2 "Dodawanie wyszukiwarek, ustawianie domyślnej, wyświetlanie sugestii">
+<!ENTITY pref_category_search_summary2 "Dodawanie wyszukiwarek, ustawianie domyślnej, wyświetlanie podpowiedzi">
 <!ENTITY pref_category_accessibility "Dostępność">
 <!ENTITY pref_category_accessibility_summary2 "Rozmiar tekstu, powiększanie, sterowanie głosowe">
 <!ENTITY pref_category_privacy_short "Prywatność">
