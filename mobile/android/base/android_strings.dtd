@@ -359,18 +359,9 @@
 <!ENTITY home_last_tabs_empty "In questa sezione verranno visualizzate le schede recenti.">
 <!ENTITY home_open_all "Apri tutte">
 <!ENTITY home_most_recent_empty "In questa sezione verranno visualizzati i siti web più recenti.">
-<!ENTITY home_selected_empty "In questa sezione verranno visualizzati i siti web visitati nell’intervallo di tempo selezionato.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: utilizzando una &formatS1;Nuova scheda anonima&formatS2; non verrà salvata alcuna cronologia.">
 <!ENTITY home_default_empty "Nessun contenuto disponibile per questo pannello.">
 <!ENTITY home_move_back_to_filter "Ritorna a &formatS;">
-<!ENTITY home_remote_tabs_title "Schede sincronizzate">
-<!ENTITY home_remote_tabs_empty "In questa sezione verranno visualizzate le schede provenienti da altri dispositivi.">
-<!ENTITY home_remote_tabs_unable_to_connect "Connessione non riuscita">
-<!ENTITY home_remote_tabs_need_to_sign_in "Effettuare l’accesso per riconnettersi al proprio account Firefox e proseguire la sincronizzazione.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "L’account Firefox è pronto per l’uso.">
-<!ENTITY home_remote_tabs_trouble_verifying "Problemi con la verifica dell’account?">
-<!ENTITY home_remote_tabs_need_to_verify "Verificare il proprio account Firefox per avviare la sincronizzazione.">
-<!ENTITY home_remote_tabs_one_hidden_device "1 dispositivo nascosto">
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositivi nascosti">
 <!ENTITY home_remote_tabs_hidden_devices_title "Dispositivi nascosti">
 <!ENTITY home_remote_tabs_unhide_selected_devices "Mostra dispositivi nascosti">
