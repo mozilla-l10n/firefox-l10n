@@ -424,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-palvelun asetukset">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Kirjaudu sisään, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
 <!ENTITY appMenuRemoteTabs.signin.label "Kirjaudu Sync-palveluun">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Näytä synkronoit. välilehtien sivupaneeli">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Synkronoitujen välilehtien sivupaneeli">
 
 <!ENTITY customizeMenu.addToToolbar.label "Lisää työkalupalkkiin">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
