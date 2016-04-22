@@ -1,7 +1,7 @@
-amazondotcom
-aol-web-search
+google
 bing
-eBay
+duckduckgo
+wikipedia-nl
+marktplaats-nl
 twitter
-wikipedia
 yahoo
