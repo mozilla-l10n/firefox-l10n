@@ -542,7 +542,6 @@ size. -->
 <!ENTITY home_last_tabs_empty "Les onglets de la session précédente s’affichent ici.">
 <!ENTITY home_open_all "Tout ouvrir">
 <!ENTITY home_most_recent_empty "Les sites récemment visités s’affichent ici.">
-<!ENTITY home_selected_empty "Les sites visités durant la période définie s’affichent ici.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst, utiliser un &formatS1;nouvel onglet de navigation privée&formatS2; ne conservera pas votre historique.">
@@ -561,16 +560,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Saisir un mot-clé pour la recherche">
 
-<!ENTITY home_remote_tabs_title "Onglets synchronisés">
-<!ENTITY home_remote_tabs_empty "Vos onglets provenant d’autres appareils s’affichent ici.">
-<!ENTITY home_remote_tabs_unable_to_connect "Connexion impossible">
-<!ENTITY home_remote_tabs_need_to_sign_in "Veuillez vous connecter pour reconnecter votre compte Firefox et poursuivre la synchronisation.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Votre nouveau compte Firefox est prêt.">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Des soucis pour vérifier votre compte ?">
-<!ENTITY home_remote_tabs_need_to_verify "Veuillez vérifier votre compte Firefox pour lancer la synchronisation.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 appareil masqué">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
