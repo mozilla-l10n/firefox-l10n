@@ -33,7 +33,7 @@
 <!ENTITY  license.instructions            "Se concordar com os termos deste acordo, clique Concordo (em baixo) para continuar com a instalação desta atualização.">
 
 <!ENTITY  license.titleText               "Acordo de licenciamento da aplicação">
-<!ENTITY  license.introText               "Termos e condições para usar esta aplicação.">
+<!ENTITY  license.introText               "Termos e condições para usar este software.">
 <!ENTITY  license.instructionText         "Por favor, leia o seguinte acordo de licenciamento. Utilize a barra lateral para ver o resto deste acordo.">
 <!ENTITY  license.accept                  "Eu aceito os termos do acordo de licenciamento">
 <!ENTITY  license.accept.accesskey        "c">

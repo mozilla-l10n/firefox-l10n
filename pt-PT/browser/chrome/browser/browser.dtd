@@ -74,8 +74,8 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY navbarCmd.label "Barra de navegação">
-<!ENTITY personalbarCmd.label "Barra de marcadores">
+<!ENTITY navbarCmd.label "Barra de ferramentas de navegação">
+<!ENTITY personalbarCmd.label "Barra de ferramentas de marcadores">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elementos da barra de marcadores">
 
@@ -86,18 +86,18 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Reabrir separador fechado">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
-<!ENTITY pageSourceCmd.label "Código-fonte da página">
+<!ENTITY pageSourceCmd.label "Fonte da página">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Informações da página">
-<!ENTITY pageInfoCmd.accesskey "p">
+<!ENTITY pageInfoCmd.label "Informação da página">
+<!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Separador espelho">
+<!ENTITY mirrorTabCmd.label "Espelhar separador">
 <!ENTITY mirrorTabCmd.accesskey "h">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Ecrã completo">
-<!ENTITY enterFullScreenCmd.accesskey "E">
+<!ENTITY enterFullScreenCmd.label "Entrar em ecrã completo">
+<!ENTITY enterFullScreenCmd.accesskey "e">
 <!ENTITY exitFullScreenCmd.label "Sair do ecrã completo">
 <!ENTITY exitFullScreenCmd.accesskey "e">
 <!ENTITY fullScreenCmd.label "Ecrã completo">
@@ -108,8 +108,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Iniciar sessão no &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abrir as preferências do &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Voltar a ligar ao &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Verificar a minha conta">
+<!ENTITY fxaSignInError.label "Religar ao &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Verificar a sua conta">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ativado">
 <!ENTITY syncStartPanel2.subTitle "O &brandShortName; iniciará a sincronização brevemente.">
 
@@ -133,7 +133,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Sair de ecrã completo (Esc)">
+<!ENTITY exitDOMFullscreen.button "Sair do ecrã completo (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Sair de ecrã completo (Esc)">
 <!ENTITY leaveDOMFullScreen.label "Sair do ecrã completo">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
@@ -570,7 +570,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Criar marcador para este frame">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "Enviar ligação por email…">
+<!ENTITY emailPageCmd.label           "Enviar ligação por e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Guardar página como…">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -611,7 +611,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar localização do áudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Copiar endereço de email">
+<!ENTITY copyEmailCmd.label           "Copiar endereço de e-mail">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Este frame">
 <!ENTITY thisFrameMenu.accesskey          "t">
