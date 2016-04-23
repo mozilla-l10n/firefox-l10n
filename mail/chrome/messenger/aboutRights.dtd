@@ -26,7 +26,7 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Alle relevante privatlivspolitiker for dette produkt bør være beskrevet her.">
+<!ENTITY rights.intro-point3-unbranded "Alle relevante privatlivspolitikker for dette produkt bør være beskrevet her.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "&brandShortName; tilbyder også valgfrie webbaserede informationstjenester om websteder, såsom tjenesten SafeBrowsing; Vi kan dog ikke garantere at de er 100&#37; korrekte eller fejlfrie. Yderligere detaljer, inklusive information om at deaktivere disse tjenester, kan findes under punktet ">
