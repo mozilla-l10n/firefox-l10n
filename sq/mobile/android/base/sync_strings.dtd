@@ -8,74 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Lidhu me &syncBrand.shortName.label;-un">
-<!ENTITY sync.title.adddevice.label "Krijoni një Llogari &syncBrand.fullName.label;-u">
-<!ENTITY sync.title.pair.label "Çiftoni një Pajisje">
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label "Që të aktivizoni pajisjen tuaj të re, përzgjidhni te pajisja “Rregulloni &syncBrand.shortName.label;-un”.">
-<!ENTITY sync.subtitle.header2.label "Jepeni këtë kod te pajisja juaj tjetër">
-<!ENTITY sync.subtitle.connectlocation2.label "Përzgjidhni “&sync.title.pair.label;” te ndarja &syncBrand.shortName.label; e mundësive të Firefox-it në pajisjen tuaj tjetër.">
 <!ENTITY sync.subtitle.pair.label "Që ta aktivizoni, përzgjidhni te pajisja juaj tjetër “Çiftoni një pajisje”.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Tregomëni se si.">
-<!ENTITY sync.link.advancedsetup.label "Rregullim i thelluar…">
 <!ENTITY sync.link.nodevice.label "Nuk e kam me vete pajisjen…">
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label "Po pritet për pajisje tjetër…">
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label "Jepni të dhënat e llogarisë suaj &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Emër Llogarie">
-<!ENTITY sync.input.password.label "Fjalëkalim">
-<!ENTITY sync.input.key.label "Kyç Rimarrjeje">
-<!ENTITY sync.checkbox.server.label "Përdorni shërbyes tuajin">
-<!ENTITY sync.input.server.label "URL Shërbyesi">
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label "Nuk Rregullon Dot &syncBrand.shortName.label;-un">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label;-u nuk u lidh dot te shërbyesi. Doni të riprovohet?">
-<!ENTITY sync.button.tryagain.label "Riprovo">
-<!ENTITY sync.button.manual.label "Rregullim Dorazi">
-<!ENTITY sync.subtitle.nointernet.label "Nuk u kap lidhje interneti aktive.">
-<!ENTITY sync.subtitle.failaccount.label "Krijimi i llogarisë në pajisjen tuaj dështoi.">
-<!ENTITY sync.subtitle.failmultiple.label "Keni më shumë se një Firefox të instaluar? Hëpërhë, &syncBrand.fullName.label;-u mbulon vetëm një instalim Firefox-i në herë. Ju lutemi, që të përdorni &syncBrand.shortName.label;-un çinstaloni instancat e tjera.">
-
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label "Rregullim i Plotësuar">
-<!ENTITY sync.subtitle.success.label1 "Të dhënat tuaja tani po shkarkohen në prapaskenë. Për të administruar llogarinë tuaj mund të shkoni te Rregullimet, ose filloni të shfletoni me with &brandShortName;-un.">
-<!ENTITY sync.settings.label "Rregullime">
-<!ENTITY sync.subtitle.manage.label1 "Llogaria juaj &syncBrand.fullName.label; është e rregulluar tashmë. Kaloni te Rregullimet që të administroni llogarinë tuaj, ose nisni &brandShortName;-un.">
-
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label "Ju lutemi, riprovoni.">
-<!ENTITY sync.pair.connectlocation.label "Që të aktivizoni pajisjen tuaj të re, përzgjidhni te pajisja “Rregulloni &syncBrand.shortName.label;-un”, dhe mandej përzgjidhni “Kam një Llogari.”">
-
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label "Mundësi">
-<!ENTITY sync.summary.pair.label "Lidhni te llogaria juaj &syncBrand.shortName.label; një pajisje tjetër">
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label "Ç\&apos;të njëkohësohet">
-<!ENTITY sync.configure.engines.sync.my.title.label "Njëkohësoni…">
-<!ENTITY sync.configure.engines.title.bookmarks "Faqerojtësit tuaj">
 <!ENTITY sync.configure.engines.title.passwords2 "Kredenciale hyrjesh">
 <!ENTITY sync.configure.engines.title.history "Historikun tuaj">
 <!ENTITY sync.configure.engines.title.tabs "Skedat tuaja">
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label "Anuloje">
-<!ENTITY sync.button.connect.label "Lidhu">
-<!ENTITY sync.button.ok.label "OK">
-
-<!-- Account strings -->
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (e vjetruar)">
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -96,20 +40,7 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Të fiksuar">
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label "Mbulohet vetëm një llogari &syncBrand.fullName.label;.">
-<!ENTITY sync.notification.configure.saved "Përzgjedhjet tuaja u ruajtën.">
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label "Emër ose fjalëkalim llogarie i pasaktë.">
-<!ENTITY sync.invalidserver.label "Ju lutemi, jepni një URL të vlefshme shërbyesi">
-<!ENTITY sync.verifying.label "Po verifikohet…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Kyç i pasaktë Riparimi. Ju lutemi, riprovoni.">
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label "Dërgojeni Skedën Te Pajisjet">
-<!ENTITY sync.button.send.label "Dërgoje">
-<!ENTITY sync.button.set.up.sync.label "Rregulloni &syncBrand.shortName.label;-un">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Rregullojeni &syncBrand.shortName.label;-un që të dërgojë skeda">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Rregullojeni &syncBrand.fullName.label;-un në pajisjen tuaj të dërgojë skeda në pajisjet e tjera.">
 <!ENTITY sync.text.tab.sent.label "Skeda juaj u dërgua!">
