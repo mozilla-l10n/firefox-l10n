@@ -31,13 +31,13 @@
 <!ENTITY successful.successMessage "E rregulluat me sukses llogarinë tuaj.">
 <!ENTITY successful.write "Shkruani ndonjë email">
 <!ENTITY successful.write.desc "Bëjuani të ditur adresën tuaj të re miqve dhe familjes.<br/> Ndaj edhe e hapët këtë llogari të re, apo jo?">
-<!ENTITY successful.customize "Personalizojeni &brandShortName;-in me disa shtesa të hijshme">
-<!ENTITY successful.customize.desc "Ka me mijëra shtesa që ju lejojnë të personalizoni &brandShortName;-it për ta bërë t&apos;i përshtatet nevojave tuaj të veçanta.">
+<!ENTITY successful.customize "Përshtateni &brandShortName;-in përmes disa shtesash të hijshme">
+<!ENTITY successful.customize.desc "Ka me mijëra shtesa që ju lejojnë ta përshtatni &brandShortName;-it për ta bërë t&apos;u përshtatet nevojave tuaj të veçanta.">
 <!ENTITY successful.attach "Shto një nënshkrim personal te email-i im">
 <!ENTITY successful.attach.desc "Në fund të çdo mesazhi që dërgoni mund të bashkëngjitni vetvetiu një thënie ose të dhëna rreth vetes.">
 <!ENTITY successful.close "Mbylle këtë dritare.">
 <!ENTITY input.namePlaceholder "Emri juaj, ose nofka">
 <!ENTITY input.search "Kërkoni">
-<!ENTITY search_engine.title "Personalizoni motorin tuaj të kërkimeve">
+<!ENTITY search_engine.title "Përshtatni motorin tuaj të kërkimeve">
 <!ENTITY search_engine.message "Mundësuesi i email-it tuaj mund t&apos;ju ofrojë edhe aftësi kërkimesh.">
 <!ENTITY search_engine.button "Përfundoje">

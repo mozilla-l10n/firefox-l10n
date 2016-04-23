@@ -42,7 +42,7 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Na jep të dhëna punimi, përdorimi, hardware-i dhe personalizimesh të klientit tuaj email &vendorShortName;, për të na ndihmuar ta përmirësojmë &brandShortName;-in">
+<!ENTITY telemetryDesc.label             "Na jep të dhëna punimi, përdorimi, hardware-i dhe përshtatjesh të klientit tuaj email &vendorShortName;, për të na ndihmuar ta përmirësojmë &brandShortName;-in">
 <!ENTITY enableTelemetry.label           "Aktivizojeni Telemetry-në">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Mësoni Më Tepër">
