@@ -71,7 +71,7 @@
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Indstillinger…">
 <!ENTITY showSettings.accesskey        "I">
-<!ENTITY proxiesConfigure.label        "Definer hvordan &brandShortName; forbinder til internettet">
+<!ENTITY proxiesConfigure.label        "Konfigurer hvordan &brandShortName; forbinder til internettet">
 <!ENTITY connectionsInfo.caption       "Forbindelse">
 <!ENTITY offlineInfo.caption           "Offline">
 <!ENTITY offlineInfo.label             "Rediger offline-indstillinger">

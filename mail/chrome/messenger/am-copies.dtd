@@ -9,7 +9,7 @@
 <!ENTITY fccReplyFollowsParent.label "Anbring svar i samme mappe som den besvarede meddelelse">
 <!ENTITY fccReplyFollowsParent.accesskey "m">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc disse mailadresser:">
+<!ENTITY ccAddress.label "Kopi til disse mailadresser:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Adskil adresser med komma">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
