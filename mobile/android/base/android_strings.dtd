@@ -427,8 +427,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Shfletim në ekran të plotë">
 <!ENTITY pref_scroll_title_bar_summary2 "Fshihe panelin e &brandShortName;-it kur rrëshqitet poshtë në faqe">
 
-<!ENTITY pref_tab_queue_title2 "Hapni lidhje të shumëfishta">
-<!ENTITY pref_tab_queue_summary3 "Ruajini deri herës tjetër që hapni &brandShortName;-un">
+<!ENTITY pref_tab_queue_title3 "Radhë skedash">
+<!ENTITY pref_tab_queue_summary4 "Ruajini lidhjet deri herës tjetër që hapni &brandShortName;-un">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -494,7 +494,7 @@ size. -->
 <!ENTITY firstrun_bookmarks_subtext "Merrni përfundime kërkimi nga faqerojtësit dhe historiku juaj, kur kërkoni.">
 <!ENTITY firstrun_data_title "Të dhëna">
 <!ENTITY firstrun_data_message "Më pak të dhëna, më shumë kursim">
-<!ENTITY firstrun_data_subtext "Bllokojini figurat, që të harxhoni më pak të dhëna, në çdo sajt që vizitoni.">
+<!ENTITY firstrun_data_subtext2 "Bllokojini figurat, që të harxhoni më pak të dhëna, në çdo sajt që vizitoni.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, përherë krah">
 <!ENTITY firstrun_sync_subtext "Njëkohësoni skedat tuaja, fjalëkalimet, etj, kudo që i përdorni.">
@@ -525,9 +525,9 @@ size. -->
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "S\&apos;u gjet dot lëndë për këtë panel.">
 
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_up_to_filter "Sipër te &formatS;">
+<!ENTITY home_move_back_to_filter "Mbrapsht te &formatS;">
 
 <!ENTITY home_remote_tabs_title "Skeda të Njëkohësuara">
 <!ENTITY home_remote_tabs_empty "Skedat tuaja prej pajisjesh të tjera shfaqen këtu.">
@@ -625,8 +625,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "Kërko me &formatS1; për &formatS2;">
 
-<!ENTITY webapp_generic_name "Aplikacione">
-
 <!ENTITY searchable_description "Faqerojtës dhe historik">
 
  <!-- Updater notifications -->
@@ -695,11 +693,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Njëkohësuar së fundi: kurrë">
 
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-<!ENTITY find_matchcase "Aa">
-
 <!ENTITY intent_uri_cannot_open "S\&apos;hapet dot lidhja">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -751,7 +744,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Mësoni Web-in: Mozilla Webmaker">
 
-<!ENTITY eol_notification_title "&brandShortName;-i s\’e mbulon më Android 3-in">
+<!ENTITY eol_notification_title2 "&brandShortName;-i nuk do të përditësohet më">
 <!ENTITY eol_notification_summary "Prekeni që të mësoni më tepër">
 
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -785,3 +778,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Na ndjeni! Ky &brandShortName; s\'do të funksionojë në këtë pajisje (&formatS1;, &formatS2;). Ju lutemi, shkarkoni versionin e saktë.">
+
+<!ENTITY home_top_sites_title "Sajtet Kryesues">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Shtoni një sajt">
+
+<!ENTITY pref_show_web_fonts "Shfaqni shkronja web">
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName;-u është i përditësuar">
+<!ENTITY whatsnew_notification_summary "Shihni ç\’ka të re në këtë version">
