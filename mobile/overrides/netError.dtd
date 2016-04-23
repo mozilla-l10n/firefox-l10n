@@ -20,26 +20,48 @@
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
+<!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
 
 
+<!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; nun pue cargar esta páxina por daqué razón.</p>
+">
 
+<!ENTITY malformedURI.title "La direición nun ye válida">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 
+<!ENTITY notCached.title "Caducó'l documentu">
 
+<!ENTITY netOffline.title "Mou fuera de llinia">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY contentEncodingError.title "Fallu de codificación de conteníu">
 
 
+<!ENTITY netReset.title "Reanicióse la conexón">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY netTimeout.title "Escosóse-y el tiempu a la conexón">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Nun s'entendió la direición">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Quiciabes precises instalar otru software p'abrir esta direición.</li>
+</ul>
+">
 
+<!ENTITY proxyConnectFailure.title "El sirvidor proxy ta refugando conexones">
 
+<!ENTITY proxyResolveFailure.title "Nun pue alcontrase un sirvidor proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY redirectLoop.title "La páxina nun ta redireicionando afayadizamente">
 
 
 
@@ -48,7 +70,11 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 
+<!ENTITY corruptedContentError.title "Fallu de conteníu toyíu">
 
+<!ENTITY securityOverride.linkText "O pues amestar una esceición…">
+<!ENTITY securityOverride.getMeOutOfHereButton "¡Sacáime d'equí!">
+<!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -56,10 +82,13 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
+<!ENTITY remoteXUL.title "XUL remotu">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "La to conexón nun ye segura">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">

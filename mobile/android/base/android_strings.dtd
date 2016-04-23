@@ -15,6 +15,7 @@
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Los favoritos, al frente y nel centru">
 <!ENTITY firstrun_bookmarks_subtext "Obtén resultaos de marcadores ya historial cuando faigas busques.">
+<!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Menos datos, más aforru">
 
 
@@ -22,6 +23,8 @@
      They are automatically converted to all caps by the Android platform. -->
 
 
+<!ENTITY  crash_sorry "Sentímoslo">
+<!ENTITY  exit_label "Colar">
 
 
 
@@ -29,11 +32,20 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_options "Opciones">
 
+<!ENTITY history_today_section "Güei">
+<!ENTITY history_yesterday_section "Ayeri">
+<!ENTITY history_this_month_section "Esti mes">
 
+<!ENTITY go "Dir">
+<!ENTITY site_security "Seguranza del sitiu">
+<!ENTITY edit_mode_cancel "Encaboxar">
 
+<!ENTITY one_tab "1 llingüeta">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; llingüetes">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -45,10 +57,12 @@
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
 
+<!ENTITY pref_category_general "Xeneral">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Llingua">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -70,15 +84,21 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 
+<!ENTITY pref_learn_more "Depriendi más">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 
+<!ENTITY pref_category_home_panels "Paneles">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
+<!ENTITY pref_category_home_content_settings "Axustes de conteníu">
+<!ENTITY pref_home_updates "Anovamientos automáticos">
+<!ENTITY pref_home_updates_wifi "Namái na Wi-Fi">
+<!ENTITY pref_category_home_homepage "Páxina d\&apos;aniciu">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -93,15 +113,21 @@
      text field. -->
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Xeneral">
+<!ENTITY pref_header_privacy_short "Privacidá">
+<!ENTITY pref_header_accessibility "Accesibilidá">
+<!ENTITY pref_header_help "Ayuda">
 
 
 
 
 
 
+<!ENTITY tracking_protection_prompt_tip_text "Visita los axustes de privacidá pa deprender más">
 
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_negative_action_button "Agora non">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!-- Localization note (tab_queue_notification_text_plural2) : The
@@ -114,6 +140,7 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY pref_char_encoding "Codificación de caráuteres">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
@@ -126,8 +153,14 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 
+<!ENTITY pref_private_data_cache "Caché">
+<!ENTITY pref_private_data_siteSettings2 "Axustes del sitiu">
+<!ENTITY pref_private_data_downloadFiles2 "Descargues">
+<!ENTITY pref_private_data_syncedTabs "Llingüetes sincronizaes">
 
 
+<!ENTITY pref_about_firefox "Tocante a &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQs">
 
 
 
@@ -236,6 +269,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Tracking content notifications in site identity popup -->
 
 <!-- Common mixed and tracking content strings in site identity popup -->
+<!ENTITY learn_more "Depriendi más">
 
 
 
@@ -323,6 +357,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_summary "Calca pa deprender más">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
