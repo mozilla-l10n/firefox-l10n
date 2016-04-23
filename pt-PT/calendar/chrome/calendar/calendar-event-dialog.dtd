@@ -34,9 +34,9 @@
 
 <!ENTITY event.attendees.notify.label               "Notificar participantes">
 <!ENTITY event.attendees.notify.accesskey           "f">
-<!ENTITY event.attendees.notifyundisclosed.label    "Separar convite por convidado">
+<!ENTITY event.attendees.notifyundisclosed.label    "Separar convite por participante">
 <!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opção envia um convite por correio por pessoa. Cada convite apenas contém o destinatário do convite pelo que outros convidados não serão identificados.">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opção envia um convite de e-mail por pessoa. Cada convite apenas contém um destinatário pelo que outros convidados não serão identificados.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -73,7 +73,7 @@
 <!ENTITY  event.menu.item.delete.label                    "Apagar…">
 <!ENTITY  event.menu.item.delete.accesskey                "A">
 <!ENTITY  event.menu.item.page.setup.label                "Configurar página">
-<!ENTITY  event.menu.item.page.setup.accesskey            "C">
+<!ENTITY  event.menu.item.page.setup.accesskey            "u">
 <!ENTITY  event.menu.item.print.label                     "Imprimir">
 <!ENTITY  event.menu.item.print.accesskey                 "I">
 
@@ -95,10 +95,10 @@
 <!ENTITY  event.menu.view.label                           "Ver">
 <!ENTITY  event.menu.view.accesskey                       "V">
 <!ENTITY  event.menu.view.toolbars.label                  "Barras de ferramentas">
-<!ENTITY  event.menu.view.toolbars.accesskey              "f">
+<!ENTITY  event.menu.view.toolbars.accesskey              "t">
 <!ENTITY  event.menu.view.toolbars.event.label            "Barra de eventos">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "e">
-<!ENTITY  event.menu.view.toolbars.customize.label        "Personalizar">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Personalizar…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
 <!ENTITY  event.menu.view.showlink.label                  "Mostrar ligações relacionadas">
 <!ENTITY  event.menu.view.showlink.accesskey              "r">
@@ -136,9 +136,9 @@
 
 <!ENTITY event.invite.attendees.label                     "Convidar participantes…">
 <!ENTITY event.invite.attendees.accesskey                 "i">
-<!ENTITY event.email.attendees.label                      "Criar mensagem para todos participantes…">
+<!ENTITY event.email.attendees.label                      "Criar e-mail para todos participantes…">
 <!ENTITY event.email.attendees.accesskey                  "a">
-<!ENTITY event.email.tentative.attendees.label            "Criar mensagem para os participantes indecisos…">
+<!ENTITY event.email.tentative.attendees.label            "Criar e-mail para os participantes indecisos…">
 <!ENTITY event.email.tentative.attendees.accesskey        "m">
 <!ENTITY event.remove.attendees.label2                    "Remover todos os participantes...">
 <!ENTITY event.remove.attendees.accesskey                 "r">
@@ -346,8 +346,8 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentativa" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Fora do escritório" >
 <!ENTITY event.freebusy.legend.unknown          "Sem informação" >
-<!ENTITY event.attendee.role.required           "Requer presença">
-<!ENTITY event.attendee.role.optional           "Presença facultativa">
+<!ENTITY event.attendee.role.required           "Requer participante">
+<!ENTITY event.attendee.role.optional           "Participante facultativo">
 <!ENTITY event.attendee.role.chair              "Presidente">
 <!ENTITY event.attendee.role.nonparticipant     "Não participante">
 <!ENTITY event.attendee.usertype.individual     "Individual">
