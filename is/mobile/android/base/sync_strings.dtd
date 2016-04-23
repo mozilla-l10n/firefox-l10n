@@ -75,7 +75,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Meðferð persónuupplýsinga">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Velkomin í &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description2 "Skráðu þig inn til að Sync-a flipa, bókarmerki, lykilorð og fleira.">
+<!ENTITY fxaccount_getting_started_description2 "Skráðu þig inn til að samstilla flipa, bókarmerki, lykilorð og fleira.">
 <!ENTITY fxaccount_getting_started_get_started "Hefjast handa">
 <!ENTITY fxaccount_getting_started_old_firefox "Ertu að nota eldri útgáfu af &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -143,7 +143,7 @@
 <!ENTITY fxaccount_status_needs_credentials "Tenging tókst ekki. Snertu til að innskrá.">
 <!ENTITY fxaccount_status_needs_upgrade "Þú þarft að uppfæra &brandShortName; til að skrá þig inn.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt samstilla gögn\&quot; stillingunni í Android stillingar &gt; Gagna notkun.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt Sync-a gögnum\&quot; stillingunni í Android stillingar &gt; Reikningar.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt samstilla gögnum\&quot; stillingunni í Android stillingar &gt; Reikningar.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Snertu skjáinn til að skrá þig inn með nýja Firefox reikningnum.">
 <!ENTITY fxaccount_status_bookmarks "Bókarmerki">
 <!ENTITY fxaccount_status_history "Ferill">
