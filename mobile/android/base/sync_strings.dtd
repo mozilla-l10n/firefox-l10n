@@ -52,14 +52,6 @@
 <!ENTITY fxaccount_getting_started_get_started 'Démarrer'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Vous utilisez une ancienne version de &syncBrand.shortName.label; ?'>
 
-<!ENTITY fxaccount_confirm_account_header 'Confirmer votre compte'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Renvoyer le courriel'>
-
-<!ENTITY fxaccount_sign_in_button_label 'Se connecter'>
-
-<!ENTITY fxaccount_finish_migrating_header 'Connectez-vous pour terminer la mise à jour'>
-<!ENTITY fxaccount_finish_migrating_button_label 'Terminer la mise à jour'>
-
 <!ENTITY fxaccount_status_signed_in_as 'Connecté en tant que'>
 <!ENTITY fxaccount_status_manage_account 'Gérer le compte'>
 <!ENTITY fxaccount_status_auth_server 'Serveur de comptes'>
