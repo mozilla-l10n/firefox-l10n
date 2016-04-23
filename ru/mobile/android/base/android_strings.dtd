@@ -359,18 +359,9 @@
 <!ENTITY home_last_tabs_empty "Ваши недавние вкладки появятся здесь.">
 <!ENTITY home_open_all "Открыть все">
 <!ENTITY home_most_recent_empty "Недавно посещённые вами веб-сайты появятся здесь.">
-<!ENTITY home_selected_empty "Веб-сайты, посещённые вами в выбранный период времени, отобразятся здесь.">
 <!ENTITY home_most_recent_emptyhint2 "Псс: при использовании &formatS1;Новой приватной вкладки&formatS2; ваша история сохраняться не будет.">
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">
 <!ENTITY home_move_back_to_filter "Вернуться в &formatS;">
-<!ENTITY home_remote_tabs_title "Облачные вкладки">
-<!ENTITY home_remote_tabs_empty "Ваши вкладки с других устройств появятся здесь.">
-<!ENTITY home_remote_tabs_unable_to_connect "Попытка соединения не удалась">
-<!ENTITY home_remote_tabs_need_to_sign_in "Пожалуйста, войдите, чтобы снова подключиться к Учётной записи Firefox и продолжить синхронизацию.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Ваша новая Учётная запись Firefox готова!">
-<!ENTITY home_remote_tabs_trouble_verifying "Проблема с подтверждением вашей учётной записи?">
-<!ENTITY home_remote_tabs_need_to_verify "Пожалуйста, подтвердите вашу Учётную запись Firefox, чтобы начать синхронизацию.">
-<!ENTITY home_remote_tabs_one_hidden_device "Скрыто 1 устройство">
 <!ENTITY home_remote_tabs_many_hidden_devices "Скрыто &formatD; устройств(а)">
 <!ENTITY home_remote_tabs_hidden_devices_title "Скрытые устройства">
 <!ENTITY home_remote_tabs_unhide_selected_devices "Показать выбранные скрытые устройства">

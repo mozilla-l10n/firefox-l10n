@@ -26,10 +26,11 @@
 <!ENTITY cmd.clearList.accesskey "ч">
 <!ENTITY cmd.clearDownloads.label "Очистить загрузки">
 <!ENTITY cmd.clearDownloads.accesskey "и">
-<!ENTITY cmd.unblock.label "Разблокировать">
-<!ENTITY cmd.unblock.accesskey "в">
+<!ENTITY cmd.unblock2.label "Разрешить загрузку">
+<!ENTITY cmd.unblock2.accesskey "ш">
 <!ENTITY cmd.removeFile.label "Удалить файл">
-<!ENTITY cmd.removeFile.accesskey "ь">
+<!ENTITY cmd.chooseUnblock.label "Удалить файл или Разрешить загрузку">
+<!ENTITY cmd.chooseOpen.label "Открыть или Удалить файл">
 <!ENTITY blocked.label "ЗАБЛОКИРОВАН">
 <!ENTITY learnMore.label "Подробнее">
 <!ENTITY downloadsHistory.label "Показать все загрузки">

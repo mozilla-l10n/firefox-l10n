@@ -26,11 +26,6 @@
 <!ENTITY fxaccount_getting_started_description2 "Войдите для синхронизации ваших вкладок, закладок, логинов и многого другого.">
 <!ENTITY fxaccount_getting_started_get_started "Начать">
 <!ENTITY fxaccount_getting_started_old_firefox "Используете старую версию Синхронизации?">
-<!ENTITY fxaccount_confirm_account_header "Подтвердите свою учётную запись">
-<!ENTITY fxaccount_confirm_account_resend_email "Повторить отправку письма">
-<!ENTITY fxaccount_sign_in_button_label "Войти">
-<!ENTITY fxaccount_finish_migrating_header "Войти, чтобы завершить обновление">
-<!ENTITY fxaccount_finish_migrating_button_label "Завершить обновление">
 <!ENTITY fxaccount_status_signed_in_as "Вошёл как">
 <!ENTITY fxaccount_status_manage_account "Управление аккаунтом">
 <!ENTITY fxaccount_status_auth_server "Сервер учётной записи">

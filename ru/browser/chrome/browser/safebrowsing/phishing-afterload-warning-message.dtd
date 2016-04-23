@@ -5,6 +5,7 @@
 <!ENTITY safeb.palm.accept.label "Уходим отсюда!">
 <!ENTITY safeb.palm.decline.label "Игнорировать это предупреждение">
 <!ENTITY safeb.palm.notdeceptive.label "Это не поддельный сайт…">
+<!ENTITY safeb.palm.notdeceptive.accesskey "е">
 <!ENTITY safeb.palm.reportPage.label "Почему эта страница была заблокирована?">
 <!ENTITY safeb.palm.whyForbidden.label "Почему эта страница была заблокирована?">
 <!ENTITY safeb.blocked.malwarePage.title "Имеется информация, что эта веб-страница атакует компьютеры!">
