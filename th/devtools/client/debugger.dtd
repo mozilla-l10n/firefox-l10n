@@ -157,10 +157,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.workers        "ผู้ปฏิบัติงาน">
+<!ENTITY debuggerUI.tabs.sources        "แหล่ง">
 
 
-
-
+<!ENTITY debuggerUI.tabs.variables      "ตัวแปร">
+<!ENTITY debuggerUI.tabs.events         "เหตุการณ์">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 

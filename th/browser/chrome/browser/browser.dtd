@@ -779,7 +779,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "ป">
 <!ENTITY identity.learnMore "เรียนรู้เพิ่มเติม">
 
-
+<!ENTITY identity.removeCertException.label "เอาข้อยกเว้นออก">
+<!ENTITY identity.removeCertException.accesskey "เ">
 
 <!ENTITY identity.moreInfoLinkText2 "ข้อมูลเพิ่มเติม">
 
