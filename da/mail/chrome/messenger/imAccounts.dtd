@@ -13,9 +13,9 @@
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Ingen eksisterende konto">
 <!ENTITY accountManager.noAccount.description "Klik på knappen &accountManager.newAccount.label; for at starte kontoguiden.">
-<!ENTITY account.autoSignOn.label     "Tilslut ved start">
+<!ENTITY account.autoSignOn.label     "Opret forbindelse ved start">
 <!ENTITY account.autoSignOn.accesskey "s">
-<!ENTITY account.connect.label        "Tilslut">
+<!ENTITY account.connect.label        "Opret forbindelse">
 <!ENTITY account.connect.accesskey    "T">
 <!ENTITY account.disconnect.label     "Afbryd">
 <!ENTITY account.disconnect.accesskey "A">
