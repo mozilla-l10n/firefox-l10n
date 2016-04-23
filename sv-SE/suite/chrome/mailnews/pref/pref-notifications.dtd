@@ -18,7 +18,7 @@
 <!ENTITY showAlertPreviewText.label       "Visa ett utdrag av meddelandetexten">
 <!ENTITY showAlertPreviewText.accesskey   "u">
 <!ENTITY showAlertSubject.label           "Visa ärendemeningen">
-<!ENTITY showAlertSubject.accesskey       "t">
+<!ENTITY showAlertSubject.accesskey       "i">
 <!ENTITY showAlertSender.label            "Visa avsändaren">
 <!ENTITY showAlertSender.accesskey        "n">
 <!ENTITY useSystemAlert.label             "Använd operativsystemets inbyggda aviseringar">

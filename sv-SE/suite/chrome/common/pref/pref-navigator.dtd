@@ -26,7 +26,7 @@
      "Restore [___] tab(s) at a time",
      using (restoreTabs.label) and a number (restoreTabsAtATime.label). -->
 <!ENTITY restoreTabs.label              "Återställ">
-<!ENTITY restoreTabs.accesskey          "g">
+<!ENTITY restoreTabs.accesskey          "t">
 <!ENTITY restoreTabsAtATime.label       "flik(ar) åt gången">
 <!ENTITY restoreDeferred.label          "Återställ flikar bara när jag behöver dem">
 <!ENTITY restoreDeferred.accesskey      "b">

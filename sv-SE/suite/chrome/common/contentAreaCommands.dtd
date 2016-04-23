@@ -4,9 +4,9 @@
 
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Tillåt inte webbplatsen att öppna extrafönster">
-<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowRejectCmd.accesskey "i">
 <!ENTITY popupWindowAllowCmd.label      "Tillåt webbplatsen att öppna extrafönster">
-<!ENTITY popupWindowAllowCmd.accesskey  "">
+<!ENTITY popupWindowAllowCmd.accesskey  "e">
 <!ENTITY openLinkCmd.label            "Öppna länken i ett nytt fönster">
 <!ENTITY openLinkCmd.accesskey        "Ö">
 <!ENTITY openLinkCmdInTab.label       "Öppna länken i en ny flik">

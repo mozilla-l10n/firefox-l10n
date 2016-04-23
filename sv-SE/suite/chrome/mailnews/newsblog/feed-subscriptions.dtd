@@ -20,7 +20,7 @@
 <!ENTITY quickMode.accesskey      "V">
 
 <!ENTITY autotagEnable.label         "Skapa automatiskt taggar från flödets &lt;kategori&gt; namn">
-<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagEnable.accesskey     "a">
 <!ENTITY autotagUsePrefix.label      "Ge taggarna prefixet:">
 <!ENTITY autotagUsePrefix.accesskey  "p">
 <!ENTITY autoTagPrefix.placeholder   "Ange ett taggprefix">

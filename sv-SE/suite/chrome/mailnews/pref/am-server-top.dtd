@@ -54,7 +54,7 @@
 <!ENTITY modelDeleteImmediately.accesskey "b">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Rensa (&quot;töm&quot;) inkorgen vid Avsluta">
-<!ENTITY expungeOnExit.accesskey "ä">
+<!ENTITY expungeOnExit.accesskey "R">
 <!ENTITY emptyTrashOnExit.label "Töm papperskorgen vid Avsluta">
 <!ENTITY emptyTrashOnExit.accesskey "ö">
 <!ENTITY loginAtStartup.label "Kontrollera om det kommit nya meddelanden vid start"> 

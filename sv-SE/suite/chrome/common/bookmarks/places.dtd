@@ -92,7 +92,7 @@
 
 <!ENTITY search.in.label                           "Sök i:">
 <!ENTITY search.scopeFolder.label                  "Vald mapp">
-<!ENTITY search.scopeFolder.accesskey              "k">
+<!ENTITY search.scopeFolder.accesskey              "m">
 <!ENTITY search.scopeBookmarks.label               "Bokmärken">
 <!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY saveSearch.label                          "Spara">
