@@ -64,21 +64,21 @@
 <!ENTITY netOffline.title "Offline-tilstand">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Vælg &quot;Prøv igen&quot; for at skifte til online-tilstand og genindlæse siden.</li>
+  <li>Klik på &quot;Prøv igen&quot; for at skifte til online-tilstand og genindlæse siden.</li>
 </ul>
 ">
 
 <!ENTITY contentEncodingError.title "Indholdskodningsfejl">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Kontakt venligst ejerne af webstedet omkring dette problem.</li>
+  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Usikker filtype">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Kontakt venligst ejerne af webstedet omkring dette problem.</li>
+  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
 
@@ -135,14 +135,14 @@
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Siden kunne ikke vises, da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
-  <li>Kontakt ejeren af webstedet om problemet.</li>
+  <li>Kontakt ejerne af webstedet omkring dette problem./li>
 </ul>
 ">
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Dette kan være et problem med serverens konfiguration eller det kan betyde 
+  <li>Dette kan være et problem med serverens konfiguration, eller det kan betyde,
 at nogen forsøger at give sig ud for at være serveren.</li>
   <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være midlertidligt 
 og du anbefales at prøve igen senere.</li>
@@ -164,7 +164,7 @@ og du anbefales at prøve igen senere.</li>
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde da den har en indholdssikkerhedspolitik, der forbyder dette.</p>">
 
 <!ENTITY corruptedContentError.title "Fejlbehæftet indhold">
-<!ENTITY corruptedContentError.longDesc "<p>Siden, du forsøger at se, kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Siden, du forsøger at se, kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Eller du kan tilføje en undtagelse…">
@@ -187,7 +187,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "Læs mere…">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Kan ikke oprette sikker forbindelse">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate

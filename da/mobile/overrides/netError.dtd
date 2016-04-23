@@ -45,7 +45,7 @@
 
 <!ENTITY generic.title "Hovsa.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; kan ikke indlæse denne webside af en eller anden grund.</p>
+<p>&brandShortName; kan ikke indlæse denne side, af en eller anden grund.</p>
 ">
 
 <!ENTITY malformedURI.title "Adressen er ikke gyldig">
@@ -84,14 +84,14 @@
 <!ENTITY contentEncodingError.title "Indholdskodningsfejl">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Kontakt venligst ejerne af webstedet omkring dette problem.</li>
+  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Usikker filtype">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Kontakt venligst ejerne af webstedet omkring dette problem.</li>
+  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
 
@@ -104,7 +104,7 @@
 <!ENTITY unknownProtocolFound.title "Adressen kunne ikke forstås">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Du er nødt til at installere andet software for at åbne denne adresse.</li>
+  <li>Du er måske nødt til at installere andet software for at åbne denne adresse.</li>
 </ul>
 ">
 
@@ -112,8 +112,8 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
-  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren
-    fungerer.</li>
+  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren 
+  fungerer.</li>
 </ul>
 ">
 
@@ -132,16 +132,16 @@
 <!ENTITY redirectLoop.title "Denne webside viderefører ikke forespørgslen korrekt">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse
-    af cookies er blevet nægtet.</li>
+  <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse 
+  af cookies er blevet nægtet.</li>
 </ul>
 ">
 
 <!ENTITY unknownSocketType.title "Uventet svar fra server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Undersøg om dit system har Personal Security Manager
-    installeret.</li>
+  <li>Undersøg om dit system har Personal Security Manager 
+  installeret.</li>
   <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
 </ul>
 ">
@@ -149,18 +149,18 @@
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>Websiden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
-  <li>Informer ejeren af webstedet om problemet.</li>
+  <li>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
+  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Dette kan være et problem med serverens konfiguration eller det kan betyde
-    at nogen forsøger at give sig ud for at være serveren.</li>
-  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være
-    midlertidligt og du anbefales at prøve igen senere.</li>
+  <li>Dette kan være et problem med serverens konfiguration, eller det kan betyde,
+at nogen forsøger at give sig ud for at være serveren.</li>
+  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være midlertidligt 
+og du anbefales at prøve igen senere.</li>
 </ul>
 ">
 
@@ -179,7 +179,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindrede denne webside i at blive indlæst på denne måde da den har en indholdssikkerhedspolitik, der forbyder dette.</p>">
 
 <!ENTITY corruptedContentError.title "Fejlbehæftet indhold">
-<!ENTITY corruptedContentError.longDesc "<p>Websiden kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Websiden kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Eller du kan tilføje en undtagelse…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få mig væk herfra!">
@@ -198,7 +198,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Kan ikke oprette sikker forbindelse">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
