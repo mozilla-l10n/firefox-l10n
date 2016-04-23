@@ -180,7 +180,7 @@
 <!ENTITY task.from.accesskey "a">
 <!ENTITY event.to.label "Slut:">
 <!ENTITY event.to.accesskey "l">
-<!ENTITY task.to.label "Slut:">
+<!ENTITY task.to.label "Slutdato:">
 <!ENTITY task.to.accesskey "l">
 <!ENTITY task.status.label "Status:">
 <!ENTITY task.status.accesskey "u">
