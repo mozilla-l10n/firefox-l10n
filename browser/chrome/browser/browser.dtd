@@ -942,7 +942,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Sulkee kaikki avatut <html:strong>välilehdet</html:strong> ja <html:strong>ikkunat</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Avaa uuden puhtaan ikkunan">
 
-<!ENTITY panicButton.view.undoWarning             "Tätä toimintoa ei voida perua.">
+<!ENTITY panicButton.view.undoWarning             "Tätä toimintoa ei voi perua.">
 <!ENTITY panicButton.view.forgetButton            "Unohda!">
 
 <!ENTITY panicButton.thankyou.msg1                "Tapahtumahistoria on poistettu.">
