@@ -6,6 +6,7 @@
 <!ENTITY  no_space_to_start_error "Nun hai abondu espaciu disponible pa que &brandShortName; pueda aniciase.">
 <!ENTITY  error_loading_file "Hebo un fallu al cargar los ficheros llocales necesarios pa executar &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Bienllegáu">
 <!ENTITY  onboard_start_message3 "Navegar con &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Configura la espericiencia de navegación Web móvil al to xeitu.">
 
@@ -14,6 +15,7 @@
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Los favoritos, al frente y nel centru">
 <!ENTITY firstrun_bookmarks_subtext "Obtén resultaos de marcadores ya historial cuando faigas busques.">
+<!ENTITY firstrun_data_message "Menos datos, más aforru">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
