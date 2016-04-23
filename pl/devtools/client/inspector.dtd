@@ -52,3 +52,6 @@
 
 <!ENTITY inspectorScreenshotNode.label "Zrzut ekranu węzła">
 <!ENTITY inspectorDuplicateNode.label "Powiel węzeł">
+
+<!ENTITY inspectorAddNode.label "Utwórz nowy węzęł">
+<!ENTITY inspectorAddNode.accesskey "n">
