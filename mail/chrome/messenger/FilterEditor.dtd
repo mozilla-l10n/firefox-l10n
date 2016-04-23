@@ -26,7 +26,7 @@
 <!ENTITY replyWithTemplate.label "Besvar med skabelon">
 <!ENTITY markMessageRead.label "Marker som læst">
 <!ENTITY markMessageUnread.label "Marker som ulæst">
-<!ENTITY markMessageStarred.label "Påfør stjerne">
+<!ENTITY markMessageStarred.label "Tilføj stjerne">
 <!ENTITY addTag.label "Marker meddelelse">
 <!ENTITY setPriority.label "Sæt prioritet til">
 <!ENTITY setJunkScore.label "Sæt spam-status til">
