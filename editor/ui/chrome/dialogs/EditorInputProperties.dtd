@@ -31,8 +31,8 @@
 <!ENTITY InputSelected.accesskey "a">
 <!ENTITY InputReadOnly.label "Skrivebeskyttet">
 <!ENTITY InputReadOnly.accesskey "S">
-<!ENTITY InputDisabled.label "Slået fra">
-<!ENTITY InputDisabled.accesskey "l">
+<!ENTITY InputDisabled.label "Deaktiveret">
+<!ENTITY InputDisabled.accesskey "D">
 <!ENTITY tabIndex.label "Tabulatorindeks:">
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY TextSize.label "Feltstørrelse:">
