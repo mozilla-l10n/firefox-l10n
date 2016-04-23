@@ -2,8 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAccounts.connected.title "Firefox mba'ete">
+<!ENTITY aboutAccounts.connected.description "Reikemahína">
+<!ENTITY aboutAccounts.syncPreferences.label "Epoko ko'ápe ehechajey hag̃ua Sync ñemoĩporã">
 
+<!ENTITY aboutAccounts.noConnection.title "Ndaikatuí eikévo ñandutípe">
+<!ENTITY aboutAccounts.retry.label "Eha'ãjey ag̃amieve">
 
-
-
-
+<!ENTITY aboutAccounts.restrictedError.title "Mochi'ĩmbyre">
+<!ENTITY aboutAccounts.restrictedError.description "Ndaikatúi eñangarekóvo Firefox mba'etére ko mba'etee guive.">
