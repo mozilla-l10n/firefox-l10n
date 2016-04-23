@@ -83,7 +83,7 @@
 <!ENTITY col.name.label          "Nome">
 <!ENTITY col.tags.label          "Etiquetas">
 <!ENTITY col.url.label           "Localização">
-<!ENTITY col.mostrecentvisit.label "Acesso mais recente">
+<!ENTITY col.mostrecentvisit.label "Visita mais recente">
 <!ENTITY col.visitcount.label    "Número de visitas">
 <!ENTITY col.description.label   "Descrição">
 <!ENTITY col.dateadded.label     "Adicionado">
