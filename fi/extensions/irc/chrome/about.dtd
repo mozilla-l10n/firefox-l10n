@@ -13,5 +13,5 @@
 <!ENTITY copyversion.label "Kopioi versionumero">
 
 <!ENTITY section.core.label    "Kehitysryhmä:">
-<!ENTITY section.locale.label  "Suomennus:">
+<!ENTITY section.locale.label  "Suomennos:">
 <!ENTITY section.contrib.label "Tukijat:">
