@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.connect               "Coneutar">
+<!ENTITY sync.details               "Detalles">
+<!ENTITY sync.deviceName            "Esti preséu">
+
+<!ENTITY sync.fallback              "Nun toi cierca'l mio ordenador…">
+<!ENTITY sync.account               "Nome de cuenta">
+<!ENTITY sync.password              "Contraseña">
+<!ENTITY sync.recoveryKey           "Clave de recuperación">
+<!ENTITY sync.customServer          "Usar sirvidor personalizáu">
+<!ENTITY sync.serverURL             "URL de sirvidor">
+<!ENTITY sync.setup.connect         "Coneutar">
+<!ENTITY sync.setup.cancel          "Encaboxar">
+<!ENTITY sync.setup.tutorial        "Amúesame cómo">
+<!ENTITY sync.setup.waiting2        "Esperando pol otru preséu…">
+
+<!ENTITY sync.pair.title            "Empareyar un preséu">
+<!ENTITY sync.setup.close           "Zarrar">
