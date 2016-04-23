@@ -417,7 +417,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAllReadCmd.label "Alle som læste">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Tilføj Stjerne">
+<!ENTITY markStarredCmd.label "Tilføj stjerne">
 <!ENTITY markStarredCmd.accesskey "S">
 <!ENTITY markStarredCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Som spam">

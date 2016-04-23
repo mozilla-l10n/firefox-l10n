@@ -363,7 +363,7 @@
 <!ENTITY calendar.error.detail "Detaljer…">
 <!ENTITY calendar.error.code "Fejlkode:">
 <!ENTITY calendar.error.description "Beskrivelse:">
-<!ENTITY calendar.error.title "Der er opstået en fejl">
+<!ENTITY calendar.error.title "Der opstod en fejl">
 
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Tilføj som begivenhed">
