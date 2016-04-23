@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+
+<!ENTITY search_pref_title 'Axustes'>
+<!ENTITY search_pref_button_content_description 'Axustes'>
+
+<!ENTITY pref_clearHistory_dialogMessage '¿Desaniciar tola historia d\&apos;esti preséu?'>
+
+<!ENTITY pref_searchProvider_title 'Motor de gueta'>
+
+
+<!ENTITY network_error_title 'Ensin conexón d\&apos;internet'>
+<!ENTITY network_error_message 'Calca equí pa comprobar los tos axustes de rede'>
