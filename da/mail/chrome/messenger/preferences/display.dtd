@@ -37,7 +37,7 @@
 
 <!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Skrifttyper &amp; farver">
-<!ENTITY defaultFont.label "Standard skrifttype:">
+<!ENTITY defaultFont.label "Standardskrifttype:">
 <!ENTITY defaultFont.accesskey "S">
 <!ENTITY defaultSize.label "Størrelse:">
 <!ENTITY defaultSize.accesskey "ø">
