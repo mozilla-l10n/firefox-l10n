@@ -57,7 +57,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "E-pošta">
-
+<!ENTITY fxaccount_password_hint "Lozinka">
 <!ENTITY fxaccount_password_hide "Sakrij">
 <!ENTITY fxaccount_password_show "Prikaži">
 <!-- Localization note: these are shown in screens after the user has
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; je postavljen, ali se ne sinkronizira automatski. Uključite “Automatska sinkronizacija” u Android postavke &gt; Korištenje podataka.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; je postavljen, ali se ne sinkronizira automatski. Uključite “Automatska sinkronizacija” u izborniku Android postavke &gt; Računi.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Pritisnite za prijavu u vaš novi Firefox račun.">
-
+<!ENTITY fxaccount_status_bookmarks "Zabilješke">
 <!ENTITY fxaccount_status_history "Povijest">
 <!ENTITY fxaccount_status_passwords2 "Prijave">
 <!ENTITY fxaccount_status_tabs "Otvori kartice">
