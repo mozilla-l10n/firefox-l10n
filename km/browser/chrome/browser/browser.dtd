@@ -193,24 +193,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.label         "មើល​ការ​ជូនដំណឹង">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "មើល​សំណើ​ទីតាំង">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "មើល​សារ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "មើលសារអំពីការផ្ទុកក្រៅបណ្តាញរបស់កម្មវិធី">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "គ្រប់គ្រងព័ត៌មាន​ការ​ចូល​របស់​អ្នក">
 
+<!ENTITY urlbar.webappsNotificationAnchor.label         "មើល​សារ​ពី​ការ​​ដំឡើង​កម្មវិធី​">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "គ្រប់គ្រងការប្រើប្រាស់កម្មវិធី​ជំនួយ​លើទំព័រនេះ">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "ផ្លាស់​ប្ដូរ​ថា​តើ​អ្នក​អាច​ទទួល​ការ​ជូន​ដំណឹង​ពីតំបន់បណ្តាញឬទេ">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "គ្រប់​គ្រង​ការ​ចែក​រំលែក​ម៉ាស៊ីនថត និង/ឬ មីក្រូហ្វូនរបស់អ្នកជាមួយតំបន់បណ្តាញ">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "អ្នក​កំពុង​ចែករំលែក​ម៉ាស៊ីន​ថត និង/ឬ ​មីក្រូហ្វូនរបស់អ្នក​ជាមួយ​តំបន់បណ្ដាញ។">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "គ្រប់គ្រងការចែករំលែកមីក្រូហ្វូនជាមួយតំបន់បណ្តាញ">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "អ្នក​កំពុង​ចែករំលែក​មីក្រូហ្វូន​របស់អ្នកជាមួយ​តំបន់បណ្តាញ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "គ្រប់គ្រងការចែករំលែកបង្អួច ឬអេក្រង់របស់អ្នកជាមួយតំបន់បណ្តាញ">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "អ្នកកំពុងចែករំលែកបង្អួច ឬអេក្រង់របស់អ្នកជាមួយតំបន់បណ្តាញ">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.servicesNotificationAnchor.label        "មើល​សារពីការ​ដំឡើង​សេវាកម្ម">
 <!ENTITY urlbar.translateNotificationAnchor.label       "បក​ប្រែ​ទំព័រ​នេះ">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "គ្រប់​គ្រង​ទំព័រ​បក​ប្រែ​">
+<!ENTITY urlbar.emeNotificationAnchor.label             "គ្រប់គ្រងការប្រើប្រាស់កម្មវិធី DRM">
 
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "បង្ហាញ​ប្រវត្តិ">
 
 <!ENTITY searchItem.title             "ស្វែងរក">
 <!-- Toolbar items --> 
@@ -405,18 +407,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "មើល​របារ​ចំហៀង​ប្រវត្តិ">
 <!ENTITY appMenuHelp.tooltip "បើក​ម៉ឺនុយ​ជំនួយ">
 
-
+<!ENTITY appMenuRemoteTabs.label "ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម">
+<!ENTITY appMenuRemoteTabs.fetching.label "កំពុងទាញយកផ្ទាំងដែលបានធ្វើសមកាលកម្ម…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "គ្មានផ្ទាំងបើកទេ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "បើកសមកាលកម្មផ្ទាំងដើម្បីបង្ហាញបញ្ជីនៃផ្ទាំងពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក ។">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.label "ចូលទៅកាន់Firefoxពីឧបករណ៍ផ្សេងទៀតរបស់អ្នកដើម្បីមើលផ្ទាំងរបស់ពួកវានៅទីនេះ។">
 
-
-
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "ចូល​ដើម្បី​មើល​បញ្ជី​នៃ​ផ្ទាំង​ទាំង​ឡាយ​ពី​ឧបករណ៍​ផ្សេង​ទៀត​របស់​អ្នក។​">
+<!ENTITY appMenuRemoteTabs.signin.label "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម">
+<!ENTITY appMenuRemoteTabs.sidebar.label "មើល​របា​ចំហៀង​នៃផ្ទាំងដែលបានធ្វើ​សមកាលកម្ម​">
 
 <!ENTITY customizeMenu.addToToolbar.label "បន្ថែម​ទៅ​របារ​ឧបករណ៍">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ប">
