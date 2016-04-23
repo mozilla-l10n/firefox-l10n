@@ -18,7 +18,7 @@
 <!ENTITY sync.account               "Emër Llogarie">
 <!ENTITY sync.password              "Fjalëkalim">
 <!ENTITY sync.recoveryKey           "Kyç Rimarrjeje">
-<!ENTITY sync.customServer          "Përdor shërbyes të personalizuar">
+<!ENTITY sync.customServer          "Përdor shërbyes të përshtatur">
 <!ENTITY sync.serverURL             "URL shërbyesi">
 <!ENTITY sync.setup.connect         "Lidhu">
 <!ENTITY sync.setup.cancel          "Anuloje">
