@@ -26,7 +26,7 @@
 
 
 <!ENTITY generic.title "Tja hérna.">
-<!ENTITY generic.longDesc "<p>&brandShortName; gat af einhverri ástæðu ekki hlaðið inn þessa síðu.</p>">
+<!ENTITY generic.longDesc "<p>Af einhverri ástæðu getur &brandShortName; ekki hlaðið inn þessari síðu.</p>">
 
 <!ENTITY malformedURI.title "Vistfang er ógilt">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
