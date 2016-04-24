@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ativado">
 <!ENTITY fxaccount_status_needs_verification2 "A sua conta tem de ser verificada. Toque para reenviar a mensagem de verificação.">
 <!ENTITY fxaccount_status_needs_credentials "Não é possível ligar. Toque para iniciar a sessão.">
-<!ENTITY fxaccount_status_needs_upgrade "Tem de atualizar o &brandShortName; para iniciar a sessão.">
+<!ENTITY fxaccount_status_needs_upgrade "Tem que atualizar o &brandShortName; para iniciar a sessão.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "O &syncBrand.shortName.label; está configurado mas não está a sincronizar automaticamente. Ative a opção “Sincronizar dados automaticamente” nas Definições do Android &gt; Utilização de dados.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "O &syncBrand.shortName.label; está configurado mas não está a sincronizar automaticamente. Ative a opção “Sincronização automática” no menu Definições do Android &gt; Contas.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Toque para iniciar sessão na sua nova conta Firefox.">
@@ -182,7 +182,7 @@
      has been made to the remote server, and an error of some type has
      been returned. -->
 
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "É necessário atualizar o Firefox">
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Tem que atualizar o Firefox">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "A conta já existe. &formatS1;">
