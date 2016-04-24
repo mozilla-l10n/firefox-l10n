@@ -7,10 +7,14 @@
 <!ENTITY safeb.palm.reportPage.label "¿Por qué se bloquió esta páxina?">
 <!ENTITY safeb.palm.whyForbidden.label "¿Por qué se bloquió esta páxina?">
 
+<!ENTITY safeb.blocked.malwarePage.title "¡Informóse de páxina atacante!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Informóse d'esta páxina web en <span id='malware_sitename'/> como páxina atacante y bloquióse basándose nes tos preferencies de seguranza.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Les páxines atacantes tenten de marafundiar información privada, usar el to ordenador p'atacar a otros o dañar el to sistema.</p><p>Delles páxines atacantes distribúin arré software dañible pero munches tán comprometíes ensin la conocencia o permisu de los sos dueños.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
+<!ENTITY safeb.blocked.unwantedPage.title "¡Informóse de sitiu de softawre non queríu!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Sitiu bloquiáu">
