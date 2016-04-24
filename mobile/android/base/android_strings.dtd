@@ -328,7 +328,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Paieškos istorija">
 <!ENTITY pref_private_data_formdata2 "Formų istorija">
 <!ENTITY pref_private_data_cookies2 "Slapukai ir esami prisijungimai">
-<!ENTITY pref_private_data_passwords2 "Išsaugoti prisijungimai">
+<!ENTITY pref_private_data_passwords2 "Įrašyti prisijungimai">
 <!ENTITY pref_private_data_cache "Podėlis">
 <!ENTITY pref_private_data_offlineApps "Duomenys darbui neprisijungus">
 <!ENTITY pref_private_data_siteSettings2 "Svetainių nuostatos">
@@ -411,7 +411,7 @@ size. -->
 <!ENTITY tabs_private "Privačiosios">
 <!ENTITY tabs_synced "Sinchronizuojamos">
 <!ENTITY set_image_fail "Nepavyko naudoti paveikslo">
-<!ENTITY set_image_path_fail "Nepavyko išsaugoti paveikslo">
+<!ENTITY set_image_path_fail "Nepavyko įrašyti paveikslo">
 <!ENTITY set_image_chooser_title "Naudoti paveikslą kaip">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -454,7 +454,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Naudotojo vardas">
 <!ENTITY doorhanger_login_edit_password_hint "Slaptažodis">
 <!ENTITY doorhanger_login_edit_toggle "Rodyti slaptažodį">
-<!ENTITY doorhanger_login_edit_toast_error "Nepavyko išsaugoti prisijungimo">
+<!ENTITY doorhanger_login_edit_toast_error "Nepavyko įrašyti prisijungimo">
 <!ENTITY doorhanger_login_select_message "Kopijuoti slaptažodį iš „&formatS;“?">
 <!ENTITY doorhanger_login_select_toast_copy "Slaptažodis nukopijuotas į iškarpinę">
 <!ENTITY doorhanger_login_select_toast_copy_error "Nepavyko nukopijuoti slaptažodžio">
