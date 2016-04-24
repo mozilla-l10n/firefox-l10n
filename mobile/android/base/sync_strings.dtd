@@ -186,9 +186,9 @@
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "A conta já existe. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Endereço de e-mail ou palavra-passe inválida">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Endereço de e-mail ou palavra-passe inválida">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Conta não verificada">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Endereço de email ou palavra-passe inválida">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Endereço de email ou palavra-passe inválida">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "A conta não está verificada">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Servidor ocupado, tente novamente mais tarde">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor ocupado, tente novamente mais tarde">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Ocorreu um problema">
