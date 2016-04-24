@@ -232,7 +232,7 @@
 
 <!ENTITY pref_show_web_fonts "Näytä sivujen omat kirjasinlajit">
 
-<!ENTITY pref_tracking_protection_title "Seurannalta suojautuminen">
+<!ENTITY pref_tracking_protection_title "Seurannan suojaus">
 <!ENTITY pref_tracking_protection_summary3 "Käytössä yksityisen selaamisen tilassa">
 <!ENTITY pref_donottrack_title "Älä seuraa">
 <!ENTITY pref_donottrack_summary "&brandShortName; ilmoittaa sivustoille, ettet halua niiden seuraavan sinua">
