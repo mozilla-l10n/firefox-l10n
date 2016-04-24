@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY safeb.palm.accept.label "¡Sacáime d'equí!">
 <!ENTITY safeb.palm.decline.label "Inorar esta alvertencia">
 <!ENTITY safeb.palm.whyForbidden.label "¿Por qué se bloquió esta páxina?">
 
