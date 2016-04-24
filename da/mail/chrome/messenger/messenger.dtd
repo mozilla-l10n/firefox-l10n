@@ -583,7 +583,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignorer advarsel for denne meddelelse">
-<!ENTITY phishingOptionIgnore.accesskey "I">
+<!ENTITY phishingOptionIgnore.accesskey "g">
 <!ENTITY phishingOptionSettings.label "Rediger indstillinger for mailsvindel…">
 <!ENTITY phishingOptionSettings.accesskey "R">
 <!ENTITY phishingOptionSettingsUnix.label "Rediger indstillinger for mailsvindel…">
