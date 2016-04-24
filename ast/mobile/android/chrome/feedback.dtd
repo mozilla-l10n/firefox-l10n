@@ -2,6 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY feedbackHeader2.label          "Ferramientes de feedback">
 
+<!ENTITY feedback.communicate.title     "¡Comunícamoslo!">
+<!ENTITY feedback.feedback.title        "Dar feedback">
+<!ENTITY feedback.feedback.good         "Bonu">
+<!ENTITY feedback.feedback.bad          "Malu">
 
 <!ENTITY feedback.tools.title           "Ferramientes">
+<!ENTITY feedback.allowTelemetry.title  "Unviar datos de rindiminetu">
+<!ENTITY feedback.forceCompat.title     "Forciar compatibilidá d'estensiones">
+<!ENTITY feedback.errorConsole.title    "Habilitar consola de fallos">
