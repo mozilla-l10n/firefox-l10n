@@ -107,6 +107,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos 'Términos del serviciu'>
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
@@ -114,6 +115,7 @@
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
@@ -125,8 +127,10 @@
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Precises anovar Firefox'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Yá esiste la cuenta. &formatS1;'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'La cuenta nun ta verificada'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Nun pue coneutase a la rede'>
 
