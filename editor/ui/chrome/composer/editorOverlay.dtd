@@ -293,7 +293,7 @@
 
 
 
-
+<!ENTITY AlignPopupButton.tooltip "Izvēlieties teksta novietojumu">
 
 
 
@@ -307,6 +307,8 @@
 
 <!-- TOC manipulation -->
 
+<!ENTITY insertTOC.label          "Ievietot">
+<!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "Atjaunināt">
 <!ENTITY updateTOC.accesskey      "u">
 
