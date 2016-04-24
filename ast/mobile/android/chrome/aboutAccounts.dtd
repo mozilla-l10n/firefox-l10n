@@ -9,4 +9,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Ensin conexón a internet">
 <!ENTITY aboutAccounts.retry.label "Tentar de nueves">
 
+<!ENTITY aboutAccounts.restrictedError.title "Restrinxíu">
 <!ENTITY aboutAccounts.restrictedError.description "Nun pues xestionar cuentes de Firefox dende esti perfil.">

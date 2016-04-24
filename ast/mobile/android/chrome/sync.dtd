@@ -2,11 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY sync.notconnected          "Non coneutáu">
 <!ENTITY sync.connect               "Coneutar">
+<!ENTITY sync.connected             "Coneutáu">
 <!ENTITY sync.details               "Detalles">
 <!ENTITY sync.deviceName            "Esti preséu">
+<!ENTITY sync.disconnect            "Desconeutase">
+<!ENTITY sync.syncNow               "Sincronizar agora">
 
+<!ENTITY sync.setup.title           "Coneutase a Sync">
+<!ENTITY sync.setup.pair            "P'activar, esbilla &#x0022;Empareyar preséu&#x0022; n'otru preséu de to.">
 <!ENTITY sync.fallback              "Nun toi cierca'l mio ordenador…">
+<!ENTITY sync.setup.manual          "Introduz la to información de cuenta Sync">
 <!ENTITY sync.account               "Nome de cuenta">
 <!ENTITY sync.password              "Contraseña">
 <!ENTITY sync.recoveryKey           "Clave de recuperación">
@@ -18,4 +25,6 @@
 <!ENTITY sync.setup.waiting2        "Esperando pol otru preséu…">
 
 <!ENTITY sync.pair.title            "Empareyar un preséu">
+<!ENTITY sync.pair.description      "P'activar el to preséu nuevu, esbilla &#x0022;Configurar Sync&#x0022; nel preséu.">
 <!ENTITY sync.setup.close           "Zarrar">
+<!ENTITY sync.setup.waitingdownload "Agora tán baxándose de fondu los tos datos. Pues zarrar esta ventana cuando quieras.">

@@ -16,7 +16,14 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "¿Qué debería facer?">
+<!ENTITY certerror.whatShouldIDo.content "Si davezu te coneutes a
+esti sitiu ensin problemes, esti fallu quiciabes diga que daquién ta
+tentando de suplantalu y nun deberíes siguir.">
 <!ENTITY certerror.getMeOutOfHere.label "¡Sacáime d'equí!">
 
+<!ENTITY certerror.expert.contentPara2 "Nun amiestes una esceición esceuto que
+sepas qu'hai un bona razón pola qu'esti sitiu nun use identificación d'enfotu.">
+<!ENTITY certerror.addTemporaryException.label "Visitar sitiu">
+<!ENTITY certerror.addPermanentException.label "Amestar esceición permante">
 
 <!ENTITY certerror.technical.heading "Detalles téunicos">
