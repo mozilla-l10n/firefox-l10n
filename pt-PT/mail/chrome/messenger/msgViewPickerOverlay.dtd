@@ -14,7 +14,7 @@
 <!ENTITY viewNotDeleted.accesskey "d">
 <!ENTITY viewTags.label "Etiquetas">
 <!ENTITY viewTags.accesskey "t">
-<!ENTITY viewCustomViews.label "Visualização personalizada...">
+<!ENTITY viewCustomViews.label "Vistas personalizadas...">
 <!ENTITY viewCustomViews.accesskey "V">
 <!ENTITY viewVirtualFolder.label "Guardar como pasta...">
 <!ENTITY viewVirtualFolder.accesskey "G">
