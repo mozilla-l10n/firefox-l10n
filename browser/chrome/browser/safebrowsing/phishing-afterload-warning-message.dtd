@@ -5,6 +5,7 @@
 <!ENTITY safeb.palm.accept.label "¡Sácame de aquí!">
 <!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
 <!ENTITY safeb.palm.notdeceptive.label "Este no es un sitio engañoso…">
+<!ENTITY safeb.palm.notdeceptive.accesskey "E">
 <!ENTITY safeb.palm.reportPage.label "¿Por qué ha sido bloqueada esta página?">
 <!ENTITY safeb.palm.whyForbidden.label "¿Por qué ha sido bloqueada esta página?">
 <!ENTITY safeb.blocked.malwarePage.title "¡Este sitio es una web atacante!">
