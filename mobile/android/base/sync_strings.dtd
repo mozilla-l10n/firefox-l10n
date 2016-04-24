@@ -90,25 +90,40 @@
 <!ENTITY fxaccount_create_account_button 'Siguiente'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Escueyi qué sincronizar'>
 <!ENTITY fxaccount_create_account_sign_in_instead '¿Yá tienes cuenta? Anicia sesión'>
+<!ENTITY fxaccount_create_account_unknown_error 'Nun pudo crease la cuenta'>
 
 <!ENTITY fxaccount_account_create_not_allowed 'Nun pue crease la cuenta'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Depriendi más'>
 
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Unvióse un enllaz de verificación a &formatS;'>
+<!ENTITY fxaccount_confirm_account_change_email '¿Escaecer esta direición de corréu?'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nun pudo unviase\&apos;l corréu de verificación'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Nun pudo unviase\&apos;l corréu de desbloquéu de cuenta'>
+
+<!ENTITY fxaccount_sign_in_forgot_password '¿Escaecisti la contraseña?'>
+<!ENTITY fxaccount_sign_in_unknown_error 'Nun pudo aniciase sesión'>
 
 
 
+<!ENTITY fxaccount_update_credentials_header 'Aniciar sesión'>
+<!ENTITY fxaccount_update_credentials_button_label 'Aniciar sesión'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'Nun pudo aniciase sesión'>
 
-
+<!ENTITY fxaccount_finish_migrating_header 'Anicia sesión pa finar l\&apos;anovamientu'>
 
 <!ENTITY fxaccount_status_header2 'Cuenta de Firefox'>
+<!ENTITY fxaccount_status_syncing2 'Sincronizando…'>
+<!ENTITY fxaccount_status_device_name 'Nome de preséu'>
+<!ENTITY fxaccount_status_needs_verification2 'La to cuenta precisa verificase. Calca pa reunviar el corréu de verificación.'>
+<!ENTITY fxaccount_status_needs_credentials 'Nun pue coneutase. Calca p\&apos;aniciar sesión.'>
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos 'Términos del serviciu'>
 
+<!ENTITY fxaccount_remove_account_dialog_title '¿Desaniciar cuenta de Firefox?'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 
@@ -132,7 +147,9 @@
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Yá esiste la cuenta. &formatS1;'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'La cuenta nun ta verificada'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Hebo un problema'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Nun pue coneutase a la rede'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'La cuenta ta bloquiada. &formatS1;'>
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
