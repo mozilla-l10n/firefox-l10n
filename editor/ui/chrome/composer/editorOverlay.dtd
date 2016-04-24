@@ -188,10 +188,11 @@
 
 
 
-
+<!ENTITY increaseIndent.label "Palielināt atkāpi">
+<!ENTITY increaseIndent.accesskey "P">
 <!ENTITY increaseIndent.key "]">
-
-
+<!ENTITY decreaseIndent.label "Samazināt atkāpi">
+<!ENTITY decreaseIndent.accesskey "S">
 <!ENTITY decreaseIndent.key "[">
 
 
@@ -209,6 +210,8 @@
 
 <!-- Insert SubMenu -->
 
+<!ENTITY tableInsertMenu.label "Ievietot">
+<!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Tabula">
 <!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Rinda">
@@ -218,16 +221,16 @@
 
 
 
+<!ENTITY tableColumn.label "Kolonna">
+<!ENTITY tableColumns.label "Kolonna(s)">
+<!ENTITY tableColumn.accesskey "o">
 
 
 
 
-
-
-
-
+<!ENTITY tableCell.label "Šūna">
 <!ENTITY tableCells.label "Šūna(s)">
-
+<!ENTITY tableCell.accesskey "n">
 
 
 
@@ -274,11 +277,13 @@
 
 <!ENTITY anchorToolbarCmd.label "Enkurs">
 
-
+<!ENTITY TextColorButton.tooltip "Izvēlieties krāsu tekstam">
 
 
 
 <!-- Editor toolbar -->
+
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Uzstādiet fonta izmēru">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mazāks fonta izmērs">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Lielāks fonta izmērs">
 <!ENTITY boldToolbarCmd.tooltip "Treknraksts">
