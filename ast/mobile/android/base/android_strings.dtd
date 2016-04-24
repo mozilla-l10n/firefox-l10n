@@ -22,11 +22,17 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Marcadores">
+<!ENTITY  recent_tabs_title "Llingüetes recientes">
 
 
+<!ENTITY  crash_message2 "&brandShortName; tuvo un problema y cascó. Les tos llingüetes deberíen llistase na páxina d\&apos;aniciu de &brandShortName; cuando reanicies.">
 <!ENTITY  crash_sorry "Sentímoslo">
+<!ENTITY  crash_email "El to corréu">
+<!ENTITY  crash_closing_alert "¿Colar ensin unviar l\&apos;informe de fallu?">
 <!ENTITY  exit_label "Colar">
 
+<!ENTITY  launcher_shortcuts_title "Aplicaciones web de &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Nun s\&apos;alcontraron aplicaciones web">
 
 
 
@@ -40,6 +46,7 @@
 <!ENTITY history_this_month_section "Esti mes">
 
 <!ENTITY go "Dir">
+<!ENTITY reload "Recargar">
 <!ENTITY site_security "Seguranza del sitiu">
 <!ENTITY edit_mode_cancel "Encaboxar">
 
@@ -58,12 +65,15 @@
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
 
+<!ENTITY settings "Axustes">
+<!ENTITY settings_title "Axustes">
 <!ENTITY pref_category_general "Xeneral">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Llingua">
+<!ENTITY pref_browser_locale "Llingua del restolador">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -72,27 +82,39 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Amestar a &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_send_other "Unviar a otros preseos">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Unviar a otru preséu">
+<!ENTITY overlay_share_no_url "Nun s\&apos;alcontró enllaz dalu nesta compartición">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 
+<!ENTITY pref_category_accessibility "Accesibilidá">
+<!ENTITY pref_category_accessibility_summary2 "Tamañu de testu, zoom, entrada de voz">
+<!ENTITY pref_category_privacy_short "Privacidá">
+<!ENTITY pref_category_privacy_summary3 "Rastrexu, cookies, escoyetes de datos">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_learn_more "Depriendi más">
+<!ENTITY pref_category_installed_search_engines "Motores de gueta instalaos">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_developer_remotedebugging_wifi "Depuración remota per Wi-Fi">
 
 <!ENTITY pref_category_home_panels "Paneles">
+<!ENTITY home_add_panel_empty "Perdón, nun pudimos alcontrate paneles dalos p\&apos;amestar.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -120,12 +142,16 @@
 <!ENTITY pref_header_help "Ayuda">
 
 
+<!ENTITY pref_tap_to_load_images_data "Namái na Wi-Fi">
 
 
 
 
+<!ENTITY tracking_protection_prompt_title "Agora con proteición de rastrexu">
 <!ENTITY tracking_protection_prompt_tip_text "Visita los axustes de privacidá pa deprender más">
 
+<!ENTITY tab_queue_prompt_title "¿Abrir enllaces múltiples?">
+<!ENTITY tab_queue_prompt_tip_text2 "Pues camudalo más sero n\&apos;Axustes">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_negative_action_button "Agora non">
@@ -157,6 +183,7 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 
+<!ENTITY pref_sync2 "Aniciar sesión">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_siteSettings2 "Axustes del sitiu">
 <!ENTITY pref_private_data_downloadFiles2 "Descargues">
@@ -167,6 +194,7 @@ size. -->
 <!ENTITY pref_vendor_faqs "FAQs">
 
 
+<!ENTITY pref_search_last_toast "Nun pues desaniciar o deshabilitar el to caberu motor de gueta.">
 
 
 
@@ -176,28 +204,57 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+<!ENTITY datareporting_telemetry_title "Telemetría">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Anovamientos automáticos">
+<!ENTITY pref_update_autodownload_wifi "Namái na Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Enxamás">
+<!ENTITY pref_update_autodownload_always "Siempres">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Ayuda">
 
+<!ENTITY quit "Colar">
 
+<!ENTITY addons "Estensiones">
+<!ENTITY logins "Anicios de sesión">
+<!ENTITY downloads "Descargues">
+<!ENTITY char_encoding "Codificación de caráuteres">
 
+<!ENTITY share_title "Compartir per">
+<!ENTITY share_image_failed "Nun pue compartise esta imaxe">
+<!ENTITY save_as_pdf "Guardar como PDF">
+<!ENTITY print "Imprentar">
+<!ENTITY find_in_page "Guetar na páxina">
+<!ENTITY desktop_mode "Pidir sitiu d\&apos;escritoriu">
+<!ENTITY page "Páxina">
+<!ENTITY tools "Ferramientes">
+<!ENTITY new_tab "Llingüeta nueva">
+<!ENTITY tabs_normal "Llingüetes">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_next "Siguiente">
+<!ENTITY find_close "Zarrar">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Unviando al preséu">
 
+<!ENTITY contextmenu_pasteandgo "Apegar y dir">
+<!ENTITY contextmenu_top_sites_pin "Fixar sitiu">
+<!ENTITY contextmenu_top_sites_unpin "Desfixar sitiu">
+<!ENTITY contextmenu_add_search_engine "Amestar un motor de gueta">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_select_message "¿Copiar contraseña de &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy_error "Nun pudo copiase la contraseña">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
@@ -210,9 +267,12 @@ size. -->
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
+<!ENTITY bookmark_edit_location "Allugamientu">
+<!ENTITY bookmark_edit_keyword "Pallabra clave">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_cancel       "Encaboxar">
 
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
@@ -228,34 +288,51 @@ size. -->
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Aiciones adicionales">
 
+<!ENTITY masterpassword_password "Contraseña">
+<!ENTITY masterpassword_confirm "Confirmar contraseña">
 
+<!ENTITY button_ok "Aceutar">
+<!ENTITY button_cancel "Encaboxar">
+<!ENTITY button_yes "Sí">
+<!ENTITY button_no "Non">
+<!ENTITY button_copy "Copiar">
 
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_bookmarks_empty "Equí amosaránse los tos marcadores.">
+<!ENTITY home_closed_tabs_title "Llingüetes zarraes apocayá">
+<!ENTITY home_open_all "Abrir too">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Nun pudo alcontrase conteníu dalu pa esti panel.">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "Volver a &formatS;">
 
+<!ENTITY home_remote_tabs_title "Llingüetes sincronizaes">
+<!ENTITY home_remote_tabs_empty "Equí amosaránse les llingüetes d\&apos;otros presos.">
 <!ENTITY home_remote_tabs_unable_to_connect "Nun pue coneutase">
 
 
+<!ENTITY home_remote_tabs_one_hidden_device "1 preséu anubríu">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; preseos anubríos">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "Preseos anubríos">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Amosar preseos esbillaos">
 
 <!ENTITY remote_tabs_panel_moved_title "¿Ánde foron les mios llingüetes?">
 
@@ -277,15 +354,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Conexón insegura">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_protection_disabled1 "Deshabilitesti la proteición de conteníu inseguru.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title "Proteición de rastrexu">
+<!ENTITY doorhanger_tracking_message_enabled1 "Bloquiáronse intentos de rastrexar el to comportamientu en llinia.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Esta páxina inclúi elementos que quiciabes rastrexen la to navegación.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Depriendi más">
 
+<!ENTITY private_data_fail "Nun pudieron llimpiase dellos datos privaos">
 
 <!ENTITY bookmarkhistory_import_wait "Espera por favor...">
 
+<!ENTITY suggestions_prompt3 "¿Prestaríate activar les suxerencies de gueta?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -298,10 +381,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY searchable_description "Marcadores ya historia">
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Anovamientu disponible pa &brandShortName;">
+<!ENTITY updater_start_select2 "Toca pa baxar">
 
+<!ENTITY updater_downloading_title2 "Baxando &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Falló la descarga">
+<!ENTITY updater_downloading_select2 "Toca p\&apos;aplicar l\&apos;anovamientu namái baxalu">
+<!ENTITY updater_downloading_retry2 "Toca pa retentar">
 
+<!ENTITY updater_apply_title2 "Anovamientu disponible pa &brandShortName;">
+<!ENTITY updater_apply_select2 "Toca p\&apos;anovar">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -311,7 +403,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
     <!-- Guest mode -->
 <!ENTITY guest_session_dialog_continue "Siguir">
 <!ENTITY guest_session_dialog_cancel "Encaboxar">
+<!ENTITY guest_browsing_notification_text "Calca pa colar">
 
+<!ENTITY exit_guest_session_title "&brandShortName; va reaniciase">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -331,8 +425,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+<!ENTITY actionbar_menu "Menú">
+<!ENTITY actionbar_done "Fecho">
 
 <!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Fala agora">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -342,6 +439,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 
+<!ENTITY intent_uri_cannot_open "Nun pue abrise l\&apos;enllaz">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -360,11 +458,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+<!ENTITY devtools_auth_scan_header "Escaniando\&apos;l códigu QR amosáu nel to otru preséu">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Estensiones">
+<!ENTITY restrictable_feature_private_browsing_description "Permite a familiares restolar ensin guardar información tocante a los sitios y páxines que visitaren.">
+<!ENTITY restrictable_feature_clear_history_description "Permite a familiares desaniciar información tocante a los sitios y páxines que visitaren.">
+<!ENTITY restrictable_feature_advanced_settings "Axustes avanzaos">
+<!ENTITY restrictable_feature_camera_microphone "Cámara y micrófonu">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
