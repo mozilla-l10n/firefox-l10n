@@ -32,7 +32,7 @@
 <!ENTITY rights.safebrowsing-b "La disattivazione del servizio Safe Browsing è sconsigliata in quanto consente all’utente di visitare siti non sicuri. Per disattivare completamente questa caratteristica procedere nel seguente modo:">
 <!ENTITY rights.safebrowsing-term1 "Aprire le opzioni dell’applicazione">
 <!ENTITY rights.safebrowsing-term2 "Selezionare la sezione Sicurezza">
-<!ENTITY rights.safebrowsing-term3 "Togliere la spunta alle voci &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights2.safebrowsing-term3 "Togliere la spunta alla voce &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Da questo momento il servizio Safe Browsing è disattivato">
 <!ENTITY rights.locationawarebrowsing-a "Navigazione geolocalizzata: ">
 <!ENTITY rights.locationawarebrowsing-b "richiede sempre un consenso esplicito. Nessuna informazione sulla posizione viene mai trasmessa senza consenso. Per disattivare completamente questa caratteristica procedere nel seguente modo:">
