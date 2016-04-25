@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "搜索 Cookie">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "名称:">
@@ -30,8 +29,6 @@
 <!ENTITY     treehead.sitename.label        "报告站点">
 <!ENTITY     treehead.status.label          "状态">
 <!ENTITY     windowtitle.label              "Cookie 管理器">
-<!ENTITY     buttonaccept.label             "关闭">
-<!ENTITY     buttonaccept.accesskey         "C">
 
 <!ENTITY     blockSite.label                "阻止">
 <!ENTITY     blockSite.accesskey            "B">
