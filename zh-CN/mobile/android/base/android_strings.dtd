@@ -14,7 +14,7 @@
 <!ENTITY firstrun_urlbar_subtext "搜索建议更加好用，找东西得心应手 。">
 <!ENTITY firstrun_bookmarks_title "历史记录">
 <!ENTITY firstrun_bookmarks_message "您想要的，就在眼前">
-<!ENTITY firstrun_bookmarks_subtext "在您搜索时，也会得到书签库和历史记录中的相关内容。">
+<!ENTITY firstrun_bookmarks_subtext "在您搜索时，也会得到书签和历史记录中的相关内容。">
 <!ENTITY firstrun_data_title "数据流量">
 <!ENTITY firstrun_data_message "流量消耗更少，节省更多">
 <!ENTITY firstrun_data_subtext2 "关闭所有网站图片，以节省您访问时消耗的数据流量。">
@@ -60,7 +60,7 @@
 
 <!ENTITY bookmark "书签">
 <!ENTITY bookmark_remove "移除书签">
-<!ENTITY bookmark_added "已加入书签库">
+<!ENTITY bookmark_added "书签已添加">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
@@ -130,7 +130,7 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "加入书签库">
+<!ENTITY overlay_share_bookmark_btn_label "添加书签">
 <!ENTITY overlay_share_reading_list_btn_label "添加到阅读列表">
 <!ENTITY overlay_share_bookmark_btn_label_already "已有此书签">
 <!ENTITY overlay_share_reading_list_btn_label_already "已在阅读列表中">

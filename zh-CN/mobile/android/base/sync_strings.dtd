@@ -29,10 +29,10 @@
 <!ENTITY sync.default.client.name '运行于 &formatS2; 的 &formatS1;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label '书签库菜单'>
+<!ENTITY bookmarks.folder.menu.label '书签菜单'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label '标签'>
-<!ENTITY bookmarks.folder.toolbar.label '书签库工具栏'>
+<!ENTITY bookmarks.folder.toolbar.label '书签工具栏'>
 <!ENTITY bookmarks.folder.unfiled.label '未分类的书签'>
 <!ENTITY bookmarks.folder.desktop.label '桌面设备上的书签'>
 <!ENTITY bookmarks.folder.mobile.label '移动设备上的书签'>
@@ -145,7 +145,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。'>
 <!ENTITY fxaccount_status_needs_finish_migrating '点按以登录到您全新的 Firefox 账户。'>
-<!ENTITY fxaccount_status_bookmarks '书签库'>
+<!ENTITY fxaccount_status_bookmarks '书签'>
 <!ENTITY fxaccount_status_history '历史记录'>
 <!ENTITY fxaccount_status_passwords2 '登录信息'>
 <!ENTITY fxaccount_status_tabs '打开的标签页'>
