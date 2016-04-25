@@ -311,7 +311,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Karty z innych urządzeń">
 <!ENTITY appMenuRemoteTabs.notabs.label "Brak otwartych kart">
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Włącz synchronizację kart, aby wyświetlić ich listę z innych urządzeń.">
-<!ENTITY appMenuRemoteTabs.noclients.label "Zaloguj się na innych urządzeniach, aby wyświetlić tutaj listę otwartych na nich kart.">
+<!ENTITY appMenuRemoteTabs.noclients.title "Synchronizacja kart wyłączona">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ustawienia synchronizacji">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Zaloguj się, aby wyświetlić tutaj listę kart z innych urządzeń.">
 <!ENTITY appMenuRemoteTabs.signin.label "Zaloguj się do synchronizacji">
@@ -634,6 +635,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!ENTITY syncedTabs.sidebar.label "Karty z innych urządzeń">
 <!ENTITY syncedTabs.sidebar.noclients.label "Zaloguj się w Firefoksie na innym urządzeniu, aby wyświetlić tutaj listę otwartych na nim kart.">
+<!ENTITY syncedTabs.sidebar.noclients.title "Synchronizacja kart wyłączona">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label "Zaloguj się, aby wyświetlić listę kart z innych urządzeń.">
 <!ENTITY syncedTabs.sidebar.notabs.label "Brak otwartych kart">
 <!ENTITY syncedTabs.sidebar.openprefs.label "Otwórz ustawienia synchronizacji">
