@@ -19,8 +19,28 @@
 <!ENTITY dnsNotFound.title "Nun s'alcontró'l sirvidor">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
+<ul>
+  <li>Comprueba los fallos d'escritura na direición como
+    <strong>ww</strong>.example.com en cuentes de
+    <strong>www</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Guetar</button>
+    </div>
+  <li>Si nun pues cargar páxina dala, comprueba la conexón de datos o Wi-F del to preséu.
+    <button id='wifi'>Habilitar Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Comprueba les mayúscules del nome'l ficheru u otros fallos d'escritura.</li>
+  <li>Mira si'l ficheru se movió, renomó o desanició.</li>
+</ul>
+">
 
 
 <!ENTITY generic.title "Ups.">
@@ -31,14 +51,35 @@
 <!ENTITY malformedURI.title "La direición nun ye válida">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
+<ul>
+  <li>Davezu les direiciones web escríbense como
+    <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Guetar</button>
+    </div>
+  <li>Make sure that you're using forward slashes (i.e.
+    <strong>/</strong>).</li>
+</ul>
+">
 
+<!ENTITY netInterrupt.title "Torgóse la conexón">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Caducó'l documentu">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché de &brandShortName;.</p><ul><li>Como una precaución de seguranza, &brandShortName; nun auto-solicitará de nueves documentos sensibles.</li><li>Primi Tentalo de nueves pa re-solicitar el documentu dende'l sitiu web.</li></ul>">
 
 <!ENTITY netOffline.title "Mou fuera de llinia">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "
+<ul>
+  <li>Téntalo de nueves. &brandShortName; tentará d'abrir una conexón y recargar la páxina.
+    <button id='wifi'>Habilitar Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Fallu de codificación de conteníu">
 <!ENTITY contentEncodingError.longDesc "<ul>
@@ -66,12 +107,25 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "El sirvidor proxy ta refugando conexones">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Comprueba los axustes del proxy p'asegurar que tán bien.</li>
+  <li>Contauta col to alministrador de rede p'asegurar que'l sirvidor proxy ta
+    furrulando.</li>
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.title "Nun pue alcontrase un sirvidor proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "La páxina nun ta redireicionando afayadizamente">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Esti problema pue ser causáu a vegaes por deshabilitar o refugar l'aceutación
+    cookies.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "Rempuesta inesperada del sirvidor">
 
@@ -96,6 +150,12 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
+<!ENTITY securityOverride.warningContent "
+<p>Nun deberíes amestar una esceición si tas usando una conexón a internet na que nun confies dafechu o si nun tas avezáu a ver una alvertencia pa esti sirvidor.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
 
 <!ENTITY remoteXUL.title "XUL remotu">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos dueños d'esti sitiu pa informa-yos d'esti problema.</li></ul></p>">
