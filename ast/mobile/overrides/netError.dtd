@@ -42,6 +42,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Ñegóse l'accesu al ficheru">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Quiciabes tea desaniciáu, movíu o que los permisos del ficheru tean evitándo l'accesu.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "
@@ -118,6 +124,14 @@
 <!ENTITY proxyResolveFailure.title "Nun pue alcontrase un sirvidor proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "
+<ul>
+  <li>Comprueba los axustes del proxy p'asegurar que tán bien.</li>
+  <li>Asegúrate que'l to preséu tien una conexón funcional de datos o Wi-Fi.
+    <button id='wifi'>Habilitar Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "La páxina nun ta redireicionando afayadizamente">
 <!ENTITY redirectLoop.longDesc "
@@ -128,6 +142,13 @@
 ">
 
 <!ENTITY unknownSocketType.title "Rempuesta inesperada del sirvidor">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Comprueba p'asegurar que'l to sistema tien instaláu'l Xestor de
+    Seguranza Personal.</li>
+  <li>Esto quiciabes sía pola mor d'una configuración non estándar nel sirvidor.</li>
+</ul>
+">
 
 <!ENTITY nssFailure2.title "Falló la conexón segura">
 <!ENTITY nssFailure2.longDesc2 "
@@ -138,9 +159,25 @@
 ">
 
 <!ENTITY nssBadCert.title "Falló la conexón segura">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Esto quiciabes seya un problema cola configuración del sirvidor o que daquién
+lu tea tentando de suplantar.</li>
+  <li>Si nel pasáu te coneutesti a esti sirvidor esitosamente, quiciabes el fallu seya
+temporal y pueas volver a tentalo más sero.</li>
+</ul>
+">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>Quiciabes el sitiu tea temporalmente non disponible o perocupáu. Volvi tentalo nunos minutos.</li>
+  <li>Si nun yes a cargar páxina dala, comprueba la to conexón de datos o Wi-Fi del preséu.
+    <button id='wifi'>Habilitar Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "Bloquiáu pola política de seguranza de conteníu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina cargue d'esti mou porque tien una política de seguranza de conteníu que nun lo permite.</p>">
@@ -177,5 +214,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "La to conexón nun ye segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría revelar información cenciellamente que cuidabes que taba segura. L'alministrador del sitiu web pecisará iguar primero'l sirvidor enantes que pueas visitar el sitiu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
