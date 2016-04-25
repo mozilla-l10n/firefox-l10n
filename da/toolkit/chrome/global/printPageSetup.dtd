@@ -45,7 +45,7 @@
 <!ENTITY headerFooter.label  "Sidehoveder og sidefødder">
 
 <!ENTITY hfLeft.label        "Venstre">
-<!ENTITY hfCenter.label      "Centrer">
+<!ENTITY hfCenter.label      "I midten">
 <!ENTITY hfRight.label       "Højre">
 <!ENTITY headerLeft.tip      "Venstrejusteret teksthoved">
 <!ENTITY headerCenter.tip    "Centreret teksthoved">
