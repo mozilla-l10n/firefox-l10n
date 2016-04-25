@@ -134,3 +134,5 @@
 <!ENTITY certerror.pagetitle1 "Connessione non sicura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Questo sito utilizza il protocollo HSTS (HTTP Strict Transport Security) per garantire che la connessione con &brandShortName; avvenga esclusivamente in modo sicuro. Per questo motivo non è possibile aggiungere un’eccezione per questo certificato.">
 <!ENTITY certerror.copyToClipboard.label "Copia il testo negli appunti">
+<!ENTITY inadequateSecurityError.title "Connessione non sicura">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilizza una tecnologia di sicurezza obsoleta e vulnerabile. Un tentativo di attacco potrebbe facilmente compromettere informazioni considerate sicure. L’amministratore del sito web deve aggiornare la configurazione del server prima di poterlo visitare.</p><p>Codice di errore: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
