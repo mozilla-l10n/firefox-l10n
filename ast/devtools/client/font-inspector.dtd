@@ -2,8 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY title "Fontes">
+<!-- LOCALIZATION NOTE : FILE This file contains the Font Inspector strings.
+  - The Font Inspector is the panel accessible in the Inspector sidebar. -->
+
+<!ENTITY fontInspectorTitle "Fontes">
 <!ENTITY showAllFonts "Amosar toles fontes usaes nesta páxina">
 <!ENTITY usedAs "Usada como: ">
 <!ENTITY system "sistema">
 <!ENTITY remote "Desaniciar">
+
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->

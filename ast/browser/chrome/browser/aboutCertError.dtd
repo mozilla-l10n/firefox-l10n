@@ -10,32 +10,26 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Conexón non verificada">
-<!ENTITY certerror.longpagetitle "Esta conexón nun ta verificada">
+<!ENTITY certerror.pagetitle1  "Conexón insegura">
+<!ENTITY certerror.longpagetitle1 "La conexón nun ye segura">
 
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Pidióse a &brandShortName; que se coneute de mou seguru
-a <b>#1</b>, pero nun puede asegurase que la conexón seya segura.">
-<!ENTITY certerror.introPara2 "Normalmente, cuando t'intentes coneutar de mou seguru,
-los sitios presentarán información verificada p'asegurar que tas nel sitiu correutu.
-Sicasí­, la identidá d'esti sitiu nun puede verificase.">
+<!ENTITY certerror.introPara "El propietariu de <span class='hostname'/> configuró'l sitiu web de mou incorreutu. Pa protexer la información de robos, &brandShortName; nun se coneutó a esti sitiu.">
+<!ENTITY certerror.returnToPreviousPage.label "Volver">
+<!ENTITY certerror.learnMore "Deprender más…">
+<!ENTITY certerror.advanced.label "Avanzáu">
 
-<!ENTITY certerror.whatShouldIDo.heading "¿Qué tienes de facer?">
-<!ENTITY certerror.whatShouldIDo.content "Si normalmente accedes a esti sitiu ensin problemes,
-esti fallu pue ser porque daquién ta intentando suplantar
-el sitiu y quiciabes nun debieras siguir.">
-<!ENTITY certerror.getMeOutOfHere.label "Sacáime d'equí!">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Seguridá estricta de Tresporte (HSTS) pa especificar que &brandShortName; namái se coneuta a él de mou seguru. Como resultáu, nun puede amestase una esceición pa esti certificáu.">
 
-<!ENTITY certerror.expert.heading "Atalanto los riesgos">
 <!ENTITY certerror.expert.content "Si sabes lo que tas faciendo, puedes obligar a
 &brandShortName; a confiar na identificación d'esti sitiu.
 <b>Inclusu magar que tengas enfotu nesti sitiu, esti fallu puede
 debese a que daquién tea interfiriendo na to conexón.</b>">
-<!ENTITY certerror.expert.contentPara2 "Nun amiestes una esceición sacante que
-sepas qu'hai bones razones poles qu'esti sitiu nun use información verificao.">
+<!ENTITY certerror.expert.contentPara2 "Nun amiestes una esceición a nun ser que
+sepas qu'hai bones razones poles qu'esti sitiu nun use información d'enfotu.">
 <!ENTITY certerror.addException.label "Amestar esceición…">
+<!ENTITY certerror.copyToClipboard.label "Copiar testu al cartafueyu">
 
-<!ENTITY certerror.technical.heading "Detalles téunicos">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Esti sitiu usa Seguridá estricto de tresporte de HTTP (HSTS) pa especificar que &brandShortName; namái se coneuta a él de mou seguru. Como resultáu, nun ye dable amestar una esceición pa esti certificáu.">
+<!ENTITY errorReporting.automatic "Informa de fallos como esti p'ayudar a Mozilla a identificar sitios mal configuraos">

@@ -9,6 +9,7 @@
 <!ENTITY startupHomePage.label     "Amosar la mio páxina d'entamu">
 <!ENTITY startupBlankPage.label    "Amosar una páxina en blanco">
 <!ENTITY startupLastSession.label  "Amosar les mios ventanes y llingüetes de la cabera sesión">
+
 <!ENTITY homepage.label            "Páxina d'entamu:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Usar páxina actual">
@@ -29,12 +30,16 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "Entrugame siempre aú guardar los ficheros">
 <!ENTITY alwaysAsk.accesskey "E">
-<!ENTITY isNotDefault.label "&brandShortName; nun ye'l to restolador web predetermináu">
-<!ENTITY isDefault.label "&brandShortName; ye'l to restolador web predetermináu">
-<!ENTITY alwaysCheckDefault2.accesskey "o">
-<!ENTITY useFirefoxSync.label "Conseyu: esto usa perfiles separtaos. Usa Sync pa compartir datos ente ellos.">
-<!ENTITY setAsMyDefaultBrowser2.label "Convertir en predetermináu">
+
+<!ENTITY alwaysCheckDefault2.label        "Comprobar siempre si &brandShortName; ye'l to restolador predetermináu">
+<!ENTITY alwaysCheckDefault2.accesskey    "o">
+<!ENTITY setAsMyDefaultBrowser2.label     "Convertir en predetermináu">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "d">
-<!ENTITY separateProfileMode.label "Permitir a &brandShortName; y Firefox executase al mesmu tiempu">
-<!ENTITY getStarted.label "Entama a usar Sync…">
-<!ENTITY alwaysCheckDefault2.label "Comprobar siempre si &brandShortName; ye'l to restolador predetermináu">
+<!ENTITY isDefault.label                  "&brandShortName; ye'l to restolador web predetermináu">
+<!ENTITY isNotDefault.label               "&brandShortName; nun ye'l to restolador web predetermináu">
+
+<!ENTITY separateProfileMode.label        "Permitir a &brandShortName; y Firefox executase al mesmu tiempu">
+<!ENTITY useFirefoxSync.label             "Conseyu: esto usa perfiles separtaos. Usa Sync pa compartir datos ente ellos.">
+<!ENTITY getStarted.label                 "Entama a usar Sync…">
+
+<!ENTITY e10sEnabled.label                "Habilitar el multiprocesu de &brandShortName;">

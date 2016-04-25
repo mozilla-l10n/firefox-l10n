@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.header "Les males noticies primero: esta llingüeta falló">
-<!ENTITY tabCrashed.message "Agora les bones noticies. Pues zarrar esta llingüeta, restaurala o restaurar toles llingüetes que fallaron.">
+<!ENTITY tabCrashed.message "Agora les bones noticies: Pues zarrar esta llingüeta, restaurala o restaurar toles llingüetes que cascaron.">
 <!ENTITY tabCrashed.sendReport "Unvia un informe de fallu p'ayudar a evitar más males noticies">
-<!ENTITY tabCrashed.reportSent "Unvióse l'informe de fallu; ¡gracies por ayudar a ameyorar &brandShortName;!">
+<!ENTITY tabCrashed.includeURL "Incluyir la direición de la páxina na que taba">
+<!ENTITY tabCrashed.commentPlaceholder "Amiesta un comentariu (los comentarios son públicos)">
+<!ENTITY tabCrashed.emailPlaceholder "Introduz equí la to direición de corréu">
+<!ENTITY tabCrashed.emailMe "Unviáime un corréu cuando heba más información disponible">
+<!ENTITY tabCrashed.crashReporter "Informador de casques de Mozilla">
+<!ENTITY tabCrashed.reportSent "Yá s'unvió l'informe de fallu; ¡gracies por ayudar a ameyorar &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Zarrar esta llingüeta">
 <!ENTITY tabCrashed.restoreTab "Restaurar esta llingüeta">
 <!ENTITY tabCrashed.restoreAll "Restaurar toles llingüetes fallíes">
