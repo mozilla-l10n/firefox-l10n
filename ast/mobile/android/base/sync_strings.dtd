@@ -152,6 +152,7 @@
 <!ENTITY fxaccount_remove_account 'Desconeutase&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title '¿Desaniciar cuenta de Firefox?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; parará de sincronizase cola to cuenta pero nun desaniciará datu dalu de restolamientu nesti preséu.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 

@@ -15,6 +15,8 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara1 "Entruguesti-y a &brandShortName; pa coneutate
+de mou seguru a <b>#1</b> pero nun podemos confirmar que la to conexón seya segura.">
 
 <!ENTITY certerror.whatShouldIDo.heading "¿Qué debería facer?">
 <!ENTITY certerror.whatShouldIDo.content "Si davezu te coneutes a
