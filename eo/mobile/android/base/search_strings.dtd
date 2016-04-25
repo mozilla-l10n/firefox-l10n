@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage 'Ĉu forviŝi la tutan historion de serĉoj en tiu ĉi aparato?'>
 <!ENTITY pref_clearHistory_title 'Viŝi historion de serĉoj'>
 
-<!ENTITY pref_searchProvider_title 'Serĉilo'>
-
 <!ENTITY search_widget_button_label 'Serĉi'>
 
 <!ENTITY network_error_title 'Ne estas retaliro'>

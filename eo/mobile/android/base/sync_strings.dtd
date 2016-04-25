@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Spegulado">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Konekti al &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Aldoni konton de  &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'Asocii aparaton'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Por aktivigi vian novan aparaton, elektu “Agordi &syncBrand.shortName.label;n“ en la aparato.'>
-<!ENTITY sync.subtitle.header2.label 'Tajpu tiun ĉi kodon en via alia aparato'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Elektu “&sync.title.pair.label;” en la sekcio &syncBrand.shortName.label; de la elektebloj de Firefox en via alia aparato.'>
 <!ENTITY sync.subtitle.pair.label 'Por aktivigi, elektu “Asocii aparaton” en via alia aparato.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Montri al mi kiel fari.'>
-<!ENTITY sync.link.advancedsetup.label 'Spertula agordo…'>
 <!ENTITY sync.link.nodevice.label 'Mi ne havas la aparaton kun mi…'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Atendo je alia aparato…'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Tajpu la informon de via konto de &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Nomo de konto'>
-<!ENTITY sync.input.password.label 'Pasvorto'>
-<!ENTITY sync.input.key.label 'Reakira ŝlosilo'>
-<!ENTITY sync.checkbox.server.label 'Uzi propran servilon'>
-<!ENTITY sync.input.server.label 'URL de servilo'>
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Ne eblas agordi &syncBrand.shortName.label;n'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; ne povis konektiĝi al la servilo. Ĉu vi volas klopodi denove?'>
-<!ENTITY sync.button.tryagain.label 'Klopodi denove'>
-<!ENTITY sync.button.manual.label 'Permana agordo'>
-<!ENTITY sync.subtitle.nointernet.label 'Ne estas retaliro.'>
-<!ENTITY sync.subtitle.failaccount.label 'Malsukcesa kreado de konto en via aparato.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Ĉu vi havas pli ol unu Firefox instalita? Nuntempe &syncBrand.fullName.label; nur subtenas po unu instalita Firefox. Bonvolu malinstali la aliajn por povi uzi &syncBrand.shortName.label;n.'>
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Agordo kompletigita'>
-<!ENTITY sync.subtitle.success.label1 'Viaj datumoj estas nun fone elŝutataj. Vi povas iri al “Agordoj“ por administri vian konton aŭ komenci retumi per &brandShortName;.'>
-<!ENTITY sync.settings.label 'Agordoj'>
-<!ENTITY sync.subtitle.manage.label1 'Via konto de &syncBrand.fullName.label; estas jam agordita. Vi povas iri al “Agordoj“ por administri vian konton, aŭ startigi &brandShortName;.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Bonvolu klopodi denove.'>
-<!ENTITY sync.pair.connectlocation.label 'Por aktivigi vian novan aparaton, elektu “Agordi &syncBrand.shortName.label;n” en la aparato, kaj poste elektu “Mi havas konton.”'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Elektebloj'>
-<!ENTITY sync.summary.pair.label 'Ligi alian aparaton al via konto de &syncBrand.shortName.label;'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Kion speguli'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Speguli via(j)n…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'legosignojn'>
 <!ENTITY sync.configure.engines.title.passwords2 'akreditilojn'>
 <!ENTITY sync.configure.engines.title.history 'historion'>
 <!ENTITY sync.configure.engines.title.tabs 'langetojn'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Nuligi'>
-<!ENTITY sync.button.connect.label 'Konekti'>
-<!ENTITY sync.button.ok.label 'Akcepti'>
-
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (deprecated)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -89,113 +36,29 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Neordigitaj legosignoj'>
 <!ENTITY bookmarks.folder.desktop.label 'Skribotablaj legosignoj'>
 <!ENTITY bookmarks.folder.mobile.label 'Poŝtelefonaj legosignoj'>
-<!ENTITY bookmarks.folder.readinglist.label 'Legolisto'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Alpinglitaj'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Nur unu konto de &syncBrand.fullName.label; estas subtenata.'>
-<!ENTITY sync.notification.configure.saved 'Viaj elektoj estis konservitaj.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Malĝusta nomo de konto aŭ pasvorto.'>
-<!ENTITY sync.invalidserver.label 'Bonvolu tajpi validan URL por la servilo'>
-<!ENTITY sync.verifying.label 'Kontrolo…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Malĝusta reakira ŝlosilo. Bonvolu klopodi denove.'>
-
-<!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Sendi langeton al aparatoj'>
-<!ENTITY sync.button.send.label 'Sendi'>
-<!ENTITY sync.button.set.up.sync.label 'Agordi &syncBrand.shortName.label;n'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Agordi &syncBrand.shortName.label;n por sendi langetojn'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Agordi &syncBrand.fullName.label;n en via aparato por sendi langetojn al aliaj aparatoj.'>
-<!ENTITY sync.text.tab.sent.label 'Via langeto estis sendita!'>
-<!ENTITY sync.text.tab.not.sent.label 'Okazis problemo dum sendo de via langeto.'>
-
 <!-- Firefox Account strings. -->
-
-<!ENTITY fxaccount_full_label 'Kontoj de Firefox'>
-
-<!ENTITY fxaccount_custom_server_account_title 'Uzi konton en servilo'>
-<!ENTITY fxaccount_custom_server_sync_title 'Datumoj de Spegulado konservataj en servilo'>
-
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-<!ENTITY fxaccount_email_hint 'Retpoŝto'>
-<!ENTITY fxaccount_password_hint 'Pasvorto'>
-<!ENTITY fxaccount_password_hide 'Kaŝi'>
-<!ENTITY fxaccount_password_show 'Montri'>
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Reen al retumo'>
 
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
-<!ENTITY fxaccount_policy_linktos 'Kondiĉoj de uzo'>
-<!ENTITY fxaccount_policy_linkprivacy 'Rimarko pri privateco'>
-
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Bonvenon al &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Komencu seancon por speguli viajn langetojn, legosignojn, akreditilojn kaj pli.'>
 <!ENTITY fxaccount_getting_started_get_started 'Unuaj paŝoj'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Ĉu vi nun uzas malnovan version de &syncBrand.shortName.label;?'>
 
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
-<!ENTITY fxaccount_create_account_header2 'Krei konton de Firefox'>
-<!ENTITY fxaccount_create_account_password_length_restriction 'Ĝi devas enhavi minimume 8 signojn'>
-<!ENTITY fxaccount_create_account_day_of_birth 'Tago'>
-<!ENTITY fxaccount_create_account_month_of_birth 'Monato'>
-<!ENTITY fxaccount_create_account_year_of_birth 'Naskiĝjaro'>
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'Se vi daŭrigas, vi konsentas kun la &formatS1; kaj &formatS2; de la nubaj servoj de Firefox.'>
-<!ENTITY fxaccount_create_account_button 'Antaŭen'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Kion speguli'>
-<!ENTITY fxaccount_create_account_sign_in_instead 'Ĉu vi jam havas konton? Komencu seancon'>
-<!ENTITY fxaccount_create_account_1990_or_earlier '1990 aŭ antaŭe'>
-<!ENTITY fxaccount_create_account_unknown_error 'Ne eblis krei konton'>
-
-<!ENTITY fxaccount_account_create_not_allowed 'Ne eblas krei konton'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Vi devas plenumi kelkajn postulojn pri aĝo por povi krei konton.'>
-<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Pli da informo'>
-
 <!ENTITY fxaccount_confirm_account_header 'Konfirmi vian konton'>
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'Konfirma ligilo estis sendita al &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Resendi retpoŝton'>
-<!ENTITY fxaccount_confirm_account_change_email 'Ĉu forgesi tiun ĉi retpoŝtan adreson?'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Konfirma retpoŝto sendita'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Ne eblis sendi konfirman retpoŝton'>
-<!ENTITY fxaccount_resend_unlock_code_button_label 'Resendi malblokan retpoŝton'>
-<!ENTITY fxaccount_unlock_code_sent 'Retpoŝto por malbloki konton sendita'>
-<!ENTITY fxaccount_unlock_code_not_sent 'Ne eblis sendi retpoŝton por malbloki konton'>
 
-<!ENTITY fxaccount_sign_in_sub_header 'Komenci seancon'>
 <!ENTITY fxaccount_sign_in_button_label 'Komenci seancon'>
-<!ENTITY fxaccount_sign_in_forgot_password 'Ĉu vi forgesis la pasvorton?'>
-<!ENTITY fxaccount_sign_in_create_account_instead 'Krei konton'>
-<!ENTITY fxaccount_sign_in_unknown_error 'Ne eblis komenci seancon'>
-
-<!ENTITY fxaccount_account_verified_sub_header 'Konto kontrolita'>
-<!ENTITY fxaccount_account_verified_description2 'La spegulado de viaj datumoj komenciĝos tre baldaŭ.'>
-
-<!ENTITY fxaccount_migration_finished_header 'Ĝisdatigo finita'>
-
-<!ENTITY fxaccount_update_credentials_header 'Komenci seancon'>
-<!ENTITY fxaccount_update_credentials_button_label 'Komenci seancon'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Ne eblis komenci seancon'>
 
 <!ENTITY fxaccount_finish_migrating_header 'Komenci seancon por fini la ĝisdatigon'>
 <!ENTITY fxaccount_finish_migrating_button_label 'Fini ĝisdatigon'>
-<!ENTITY fxaccount_finish_migrating_description 'Ĝisdatigo povas transmeti multe da datumoj. Estas plej bone fari tion en sendrata reto.'>
 
-<!ENTITY fxaccount_status_header2 'Konto de Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Seanco komencita kiel'>
 <!ENTITY fxaccount_status_manage_account 'Administri konton'>
 <!ENTITY fxaccount_status_auth_server 'Konta servilo'>
@@ -220,8 +83,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Kondiĉoj de uzo'>
-<!ENTITY fxaccount_status_linkprivacy 'Rimarko pri privateco'>
+<!ENTITY fxaccount_status_linktos2 'Kondiĉoj de uzo'>
+<!ENTITY fxaccount_status_linkprivacy2 'Rimarko pri privateco'>
 <!ENTITY fxaccount_status_more 'Pli&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Malkonekti ...'>
 
@@ -258,7 +121,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Servilo okupata, klopodu denove baldaŭ'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Servilo okupata, klopodu denove baldaŭ'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Problemo okazis'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Ne eblis konektiĝi al reto'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Konto blokita. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ne estas konektita'>
