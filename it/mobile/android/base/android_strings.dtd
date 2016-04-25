@@ -455,3 +455,6 @@
 <!ENTITY whatsnew_notification_title "&brandShortName; è aggiornato">
 <!ENTITY whatsnew_notification_summary "Scopri le novità in questa versione">
 <!ENTITY promotion_add_to_homescreen "Agg. a schermata principale">
+<!ENTITY helper_first_offline_bookmark_title "Lettura non in linea">
+<!ENTITY helper_first_offline_bookmark_message "Gli elementi salvati in Elenco lettura sono disponibili nei segnalibri, anche non in linea.">
+<!ENTITY helper_first_offline_bookmark_button "Vai ai segnalibri">
