@@ -2,21 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Předvolby">
 <!ENTITY categoryHeader "Kategorie">
+
 <!ENTITY appear.label "Vzhled">
 <!ENTITY content.label "Obsah">
 <!ENTITY fonts.label "Písma">
 <!ENTITY colors.label "Barvy">
+<!ENTITY spellingPane.label "Pravopis">
+
 <!ENTITY navigator.label "Prohlížeč">
 <!ENTITY history.label "Historie">
 <!ENTITY languages.label "Jazyky">
 <!ENTITY applications.label "Pomocné aplikace">
 <!ENTITY locationBar.label "Adresní řádek">
+<!ENTITY search.label "Hledání na webu">
 <!ENTITY tabWindows.label "Prohlížení v panelech">
 <!ENTITY links.label "Chování odkazů">
-<!ENTITY offline.label "Režim offline">
+<!ENTITY download.label "Stahování">
+
 <!ENTITY security.label "Soukromí a zabezpečení">
 <!ENTITY privatedata.label "Důvěrná data">
 <!ENTITY cookies.label "Cookies">
@@ -26,21 +31,18 @@
 <!ENTITY masterpass.label "Hlavní heslo">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certifikáty">
+
 <!ENTITY sync.label "Sync">
+
 <!ENTITY advance.label "Rozšířené nastavení">
-<!ENTITY down.label "Ukládání">
+<!ENTITY scriptsAndWindows.label "Skripty a moduly">
+<!ENTITY keynav.label "Navigace klávesnicí">
+<!ENTITY findAsYouType.label "Najít přímo při psaní">
 <!ENTITY cache.label "Mezipaměť">
 <!ENTITY offlineApps.label "Offline aplikace">
 <!ENTITY proxies.label "Proxy servery">
 <!ENTITY httpnetworking.label "HTTP spojení">
 <!ENTITY smart.label "Instalace software">
-<!ENTITY download.label "Stahování">
-<!ENTITY keynav.label "Navigace klávesnicí">
-<!ENTITY findAsYouType.label "Najít přímo při psaní">
-<!ENTITY search.label "Hledání na webu">
-<!ENTITY policies.label "Zabezpečení">
 <!ENTITY mousewheel.label "Kolečko myši">
-<!ENTITY scriptsAndWindows.label "Skripty a moduly">
-<!ENTITY spellingPane.label "Pravopis">
 
 <!ENTITY focusSearch.key "f">
