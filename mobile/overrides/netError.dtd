@@ -32,6 +32,7 @@
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Caducó'l documentu">
 
@@ -40,7 +41,11 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Fallu de codificación de conteníu">
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li>
+</ul>">
 
+<!ENTITY unsafeContentType.title "Triba de ficheru insegura">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Contauta colos dueños del sitiu pa informa-yos d'esti problema, por favor.</li>
@@ -77,8 +82,10 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina cargue d'esti mou porque tien una política de seguranza de conteníu que nun lo permite.</p>">
 
 <!ENTITY corruptedContentError.title "Fallu de conteníu toyíu">
+<!ENTITY corruptedContentError.longDesc "<p>Nun pue amosase la páxina que tas tentando de ver porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O pues amestar una esceición…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sacáime d'equí!">
@@ -91,7 +98,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
 <!ENTITY remoteXUL.title "XUL remotu">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos dueños d'esti sitiu pa informa-yos d'esti problema.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Nun pue coneutase de mou seguru">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">

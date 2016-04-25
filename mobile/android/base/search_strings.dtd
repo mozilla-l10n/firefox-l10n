@@ -7,6 +7,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Guetar con &formatS;'>
 
+<!ENTITY search_empty_title2 'Aniciar gueta'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
@@ -14,7 +15,9 @@
 <!ENTITY search_pref_title 'Axustes'>
 <!ENTITY search_pref_button_content_description 'Axustes'>
 
+<!ENTITY pref_clearHistory_confirmation 'Historia llimpiada'>
 <!ENTITY pref_clearHistory_dialogMessage '¿Desaniciar tola historia d\&apos;esti preséu?'>
+<!ENTITY pref_clearHistory_title 'Llimpiar historia de gueta'>
 
 <!ENTITY pref_searchProvider_title 'Motor de gueta'>
 

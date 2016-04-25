@@ -12,6 +12,7 @@
      term. -->
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloquia partes de les páxines que quiciabes rastrexen la to actividá de navegación.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Nun recordaremos la historia pero los ficheros baxaos y los marcadores nuevos entá se guardarán nel to preséu.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses

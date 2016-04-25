@@ -10,6 +10,7 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
+<!ENTITY certerror.longpagetitle "Esta conexón nun ye d'enfotu">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
@@ -21,6 +22,11 @@ esti sitiu ensin problemes, esti fallu quiciabes diga que daquién ta
 tentando de suplantalu y nun deberíes siguir.">
 <!ENTITY certerror.getMeOutOfHere.label "¡Sacáime d'equí!">
 
+<!ENTITY certerror.expert.heading "Pescancio los riesgos">
+<!ENTITY certerror.expert.content "Si pescancies qué asocederá, pues dici-y
+a &brandShortName; qu'entame a confiar na identificación d'esti sitiu.
+<b>Inclusu si confies nel sitiu, esti fallu quiciabes diga que daquién ta
+manipuliando la to conexón.</b>">
 <!ENTITY certerror.expert.contentPara2 "Nun amiestes una esceición esceuto que
 sepas qu'hai un bona razón pola qu'esti sitiu nun use identificación d'enfotu.">
 <!ENTITY certerror.addTemporaryException.label "Visitar sitiu">
