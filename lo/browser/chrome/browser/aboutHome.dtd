@@ -18,7 +18,6 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "ການປັບແກ້ໄຟຟັອກຂອງທ່ານໃຫ້ເປັນໄປຕາມສິ່ງທີທ່ານມັກນັ້ນແມ່ນງ່າຍດາຍ <a>ເລືອກໄດ້ຈາກໂປຼແກຣມເສີມເປັນພັນ</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; ຟຣີແລະເປີດແຫຼ່ງຂໍ້ມູນຊອບແວຈາກຫາກຖານໂມຊີລາໂດຍບໍ່ຫວັງຜົນກໍາໄລ. <a>ຮູ້ຈັກສິດທິຂອງທ່ານ...</a>">
 
