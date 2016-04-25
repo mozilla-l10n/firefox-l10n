@@ -2,23 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from content/preftree.xul -->
-
-<!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Možnosti">
 <!ENTITY categoryHeader "Kategória">
+
 <!ENTITY appear.label "Vzhľad">
 <!ENTITY content.label "Obsah">
 <!ENTITY fonts.label "Písma">
 <!ENTITY colors.label "Farby">
+<!ENTITY spellingPane.label "Pravopis">
+
 <!ENTITY navigator.label "Prehliadač">
 <!ENTITY history.label "História">
 <!ENTITY languages.label "Jazyky">
 <!ENTITY applications.label "Pomocné aplikácie">
 <!ENTITY locationBar.label "Panel Adresa">
+<!ENTITY search.label "Vyhľadávanie na webe">
 <!ENTITY tabWindows.label "Prehliadanie na kartách">
 <!ENTITY links.label "Správanie sa odkazov">
-<!ENTITY offline.label "Režim Offline">
+<!ENTITY download.label "Preberanie súborov">
+
 <!ENTITY security.label "Súkromie a bezpečnosť">
 <!ENTITY privatedata.label "Súkromné údaje">
 <!ENTITY cookies.label "Cookies">
@@ -28,21 +31,18 @@
 <!ENTITY masterpass.label "Hlavné heslá">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certifikáty">
+
 <!ENTITY sync.label "Synchronizácia">
+
 <!ENTITY advance.label "Rozšírené">
-<!ENTITY down.label "Preberanie súborov">
+<!ENTITY scriptsAndWindows.label "Skripty a zásuvné moduly">
+<!ENTITY keynav.label "Navigácia klávesnicou">
+<!ENTITY findAsYouType.label "Hľadanie počas písania">
 <!ENTITY cache.label "Vyrovnávacia pamäť">
 <!ENTITY offlineApps.label "Offline aplikácie">
 <!ENTITY proxies.label "Servery proxy">
 <!ENTITY httpnetworking.label "Spojenia HTTP">
 <!ENTITY smart.label "Inštalácia softvéru">
-<!ENTITY download.label "Preberanie súborov">
-<!ENTITY keynav.label "Navigácia klávesnicou">
-<!ENTITY findAsYouType.label "Hľadanie počas písania">
-<!ENTITY search.label "Vyhľadávanie na webe">
-<!ENTITY policies.label "Zásady zabezpečenia">
 <!ENTITY mousewheel.label "Koliesko myši">
-<!ENTITY scriptsAndWindows.label "Skripty a zásuvné moduly">
-<!ENTITY spellingPane.label  "Pravopis">
 
 <!ENTITY focusSearch.key "f">
