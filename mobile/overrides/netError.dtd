@@ -180,3 +180,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Fora XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Bonvolu kontakti la posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Ne eblas sekure konektiĝi">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Spertula informo: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Via konekto ne estas sekura">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Spertula informo: SSL_ERROR_NO_CYPHER_OVERLAP">
