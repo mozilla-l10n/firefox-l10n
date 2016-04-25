@@ -7,6 +7,7 @@
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 
 <!-- Main titles. -->
+<!ENTITY sync.title.connect.label 'Coneutase a &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'P\&apos;activar el to preséu nuevu, esbilla “Configurar &syncBrand.shortName.label;” nel preséu.'>
@@ -90,43 +91,71 @@
 <!ENTITY fxaccount_create_account_button 'Siguiente'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Escueyi qué sincronizar'>
 <!ENTITY fxaccount_create_account_sign_in_instead '¿Yá tienes cuenta? Anicia sesión'>
+<!ENTITY fxaccount_create_account_1990_or_earlier '1990 o anterior'>
 <!ENTITY fxaccount_create_account_unknown_error 'Nun pudo crease la cuenta'>
 
 <!ENTITY fxaccount_account_create_not_allowed 'Nun pue crease la cuenta'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Has cumplir ciertu requerimientu d\&apos;edá pa crear una cuenta.'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Depriendi más'>
 
+<!ENTITY fxaccount_confirm_account_header 'Confirma la to cuenta'>
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Unvióse un enllaz de verificación a &formatS;'>
+<!ENTITY fxaccount_confirm_account_resend_email 'Reunviar corréu'>
 <!ENTITY fxaccount_confirm_account_change_email '¿Escaecer esta direición de corréu?'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Unvióse\&apos;l corréu de verificación'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nun pudo unviase\&apos;l corréu de verificación'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Reunviar corréu de desbloquéu'>
+<!ENTITY fxaccount_unlock_code_sent 'Unvióse\&apos;l corréu de desbloquéu de cuenta'>
 <!ENTITY fxaccount_unlock_code_not_sent 'Nun pudo unviase\&apos;l corréu de desbloquéu de cuenta'>
 
+<!ENTITY fxaccount_sign_in_sub_header 'Aniciar sesión'>
+<!ENTITY fxaccount_sign_in_button_label 'Aniciar sesión'>
 <!ENTITY fxaccount_sign_in_forgot_password '¿Escaecisti la contraseña?'>
+<!ENTITY fxaccount_sign_in_create_account_instead 'Crear una cuenta'>
 <!ENTITY fxaccount_sign_in_unknown_error 'Nun pudo aniciase sesión'>
 
+<!ENTITY fxaccount_account_verified_sub_header 'Cuenta verificada'>
 
+<!ENTITY fxaccount_migration_finished_header 'Anovamientu fináu'>
 
 <!ENTITY fxaccount_update_credentials_header 'Aniciar sesión'>
 <!ENTITY fxaccount_update_credentials_button_label 'Aniciar sesión'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Nun pudo aniciase sesión'>
 
 <!ENTITY fxaccount_finish_migrating_header 'Anicia sesión pa finar l\&apos;anovamientu'>
+<!ENTITY fxaccount_finish_migrating_description 'L\&apos;anovamientu pue tresferir milenta datos. Lo meyor ye tar nuna rede Wi-Fi.'>
 
 <!ENTITY fxaccount_status_header2 'Cuenta de Firefox'>
+<!ENTITY fxaccount_status_signed_in_as 'Aniciesti sesión como'>
+<!ENTITY fxaccount_status_manage_account 'Xestionar cuenta'>
+<!ENTITY fxaccount_status_sync_now 'Sincronizar agora'>
 <!ENTITY fxaccount_status_syncing2 'Sincronizando…'>
 <!ENTITY fxaccount_status_device_name 'Nome de preséu'>
+<!ENTITY fxaccount_status_sync_server 'Sirvidor de sincronización'>
+<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_needs_verification2 'La to cuenta precisa verificase. Calca pa reunviar el corréu de verificación.'>
 <!ENTITY fxaccount_status_needs_credentials 'Nun pue coneutase. Calca p\&apos;aniciar sesión.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Precises anovar &brandShortName; p\&apos;anciar sesión.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Calca p\&apos;aniciar sesión na to cuenta nueva de Firefox.'>
+<!ENTITY fxaccount_status_bookmarks 'Marcadores'>
+<!ENTITY fxaccount_status_history 'Historia'>
+<!ENTITY fxaccount_status_passwords2 'Anicios de sesión'>
+<!ENTITY fxaccount_status_legal 'Llegal' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos 'Términos del serviciu'>
+<!ENTITY fxaccount_status_linkprivacy 'Noticia de privacidá'>
+<!ENTITY fxaccount_status_more 'Más&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Desconeutase&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title '¿Desaniciar cuenta de Firefox?'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 
+<!ENTITY fxaccount_enable_debug_mode 'Habilitar mou depuración'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -146,16 +175,25 @@
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Yá esiste la cuenta. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Corréu o contraseña non válidos'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Corréu o contraseña non válidos'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'La cuenta nun ta verificada'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Sirvidor ocupáu, volvi tentalo ceo'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Sirvidor ocupáu, volvi tentalo ceo'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Hebo un problema'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Nun pue coneutase a la rede'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'La cuenta ta bloquiada. &formatS1;'>
 
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; nun ta coneutáu'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Calca p\&apos;aniciar sesión como &formatS;'>
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Calca p\&apos;aniciar sesión como &formatS;'>
 
 <!-- Localization note: the following strings are used in a
      notification and should be kept as short as possible. -->
+<!ENTITY old_sync_deprecated_notification_title 'Anicia sesión pa siguir sincronizando'>
+<!ENTITY old_sync_deprecated_notification_content 'La to cuenta yá nun ta sofitada'>

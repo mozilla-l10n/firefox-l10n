@@ -17,11 +17,13 @@
 <!ENTITY firstrun_bookmarks_subtext "Obtén resultaos de marcadores ya historial cuando faigas busques.">
 <!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Menos datos, más aforru">
+<!ENTITY firstrun_sync_message "&brandShortName;, siempres del to llau">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Marcadores">
+<!ENTITY  history_title "Historia">
 <!ENTITY  recent_tabs_title "Llingüetes recientes">
 
 
@@ -48,10 +50,12 @@
 
 <!ENTITY history_today_section "Güei">
 <!ENTITY history_yesterday_section "Ayeri">
+<!ENTITY history_week_section3 "Caberos 7 díes">
 <!ENTITY history_this_month_section "Esti mes">
 
 <!ENTITY go "Dir">
 <!ENTITY reload "Recargar">
+<!ENTITY menu "Menú">
 <!ENTITY site_security "Seguranza del sitiu">
 <!ENTITY edit_mode_cancel "Encaboxar">
 
@@ -59,6 +63,7 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; llingüetes">
+<!ENTITY new_private_tab_opened "Llingüeta privada nueva abierta">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -186,6 +191,8 @@
 <!ENTITY pref_clear_private_data "Llimpiar datos privaos">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Llimpiar agora">
+<!ENTITY pref_clear_on_exit_title3 "Llimpiar datos privaos al colar">
 <!ENTITY pref_text_size "Tamañu de testu">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
@@ -198,6 +205,11 @@ size. -->
 
 
 <!ENTITY pref_sync2 "Aniciar sesión">
+<!ENTITY pref_private_data_history2 "Historia de navegación">
+<!ENTITY pref_private_data_searchHistory "Historia de gueta">
+<!ENTITY pref_private_data_formdata2 "Historia de formularios">
+<!ENTITY pref_private_data_cookies2 "Cookies y anicios de sesión activos">
+<!ENTITY pref_private_data_passwords2 "Anicios de sesión guardaos">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_siteSettings2 "Axustes del sitiu">
 <!ENTITY pref_private_data_downloadFiles2 "Descargues">
@@ -248,6 +260,7 @@ size. -->
 <!ENTITY page "Páxina">
 <!ENTITY tools "Ferramientes">
 <!ENTITY new_tab "Llingüeta nueva">
+<!ENTITY close_private_tabs "Zarrar llingüetes privaes">
 <!ENTITY tabs_normal "Llingüetes">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -379,6 +392,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Depriendi más">
 
+<!ENTITY private_data_success "Llimpiáronse los datos privaos">
 <!ENTITY private_data_fail "Nun pudieron llimpiase dellos datos privaos">
 
 <!ENTITY bookmarkhistory_import_wait "Espera por favor...">
