@@ -22,7 +22,7 @@
 <!ENTITY valueColumn.label "Valor">
 
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "Calque p'axeitar"> 
+<!ENTITY prefColumnHeader.tooltip "Primi pa ordenar"> 
 <!ENTITY columnChooser.tooltip "Calque pa seleicionar les columnes a amosar"> 
 
 <!-- Context Menu -->
