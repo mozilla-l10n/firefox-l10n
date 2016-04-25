@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Avisar-me se a abertura de vários separadores puder tornar o &brandShortName; lento">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "Não carregar separadores até que sejam selecionados">
-<!ENTITY restoreTabsOnDemand.accesskey    "l">
-
 <!ENTITY switchToNewTabs.label        "Mostrar imediatamente o separador ao abrir uma nova ligação">
 <!ENTITY switchToNewTabs.accesskey    "s">
 
