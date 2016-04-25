@@ -10,6 +10,7 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
+<!ENTITY certerror.pagetitle  "Conexón non fiable">
 <!ENTITY certerror.longpagetitle "Esta conexón nun ye d'enfotu">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
