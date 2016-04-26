@@ -19,6 +19,7 @@
 <!ENTITY props.secure.label                "Biztonság:">
 <!ENTITY props.expires.label               "Lejárat:">
 
+
 <!ENTITY window.title                      "Sütik">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "f">

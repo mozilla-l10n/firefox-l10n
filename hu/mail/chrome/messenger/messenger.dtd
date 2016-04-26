@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Tömör nézet">
 <!ENTITY compactVersion.accesskey "T">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Rendezés">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Szerkesztés új üzenetként">
 <!ENTITY editAsNewMsgCmd.accesskey "e">
 <!ENTITY editAsNewMsgCmd.key "e">
+
+
 <!ENTITY createFilter.label "Szűrő létrehozása az üzenet alapján…">
 <!ENTITY createFilter.accesskey "p">
 <!ENTITY moveMsgToMenu.label "Áthelyezés">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "m">
 <!ENTITY contextEditMsgAsNew.label "Szerkesztés új üzenetként">
 <!ENTITY contextEditMsgAsNew.accesskey "z">
+
 <!ENTITY contextArchive.label "Archiválás">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Válasz csak a feladónak">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Átmásolás">
 <!ENTITY contextCopyMsgMenu.accesskey "m">
 <!ENTITY contextKillThreadMenu.label "Témacsoport kihagyása">
+
 <!ENTITY contextKillThreadMenu.accesskey "h">
-<!ENTITY contextKillSubthreadMenu.label "Témacsoportrész kihagyása">
+
 <!ENTITY contextWatchThreadMenu.label "Témacsoport figyelése">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Mentés másként…">
 <!ENTITY contextSaveAs.accesskey "e">
 <!ENTITY contextPrint.label "Nyomtatás…">
