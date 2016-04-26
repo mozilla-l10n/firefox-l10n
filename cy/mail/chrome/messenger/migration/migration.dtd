@@ -16,8 +16,6 @@
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
 
 <!ENTITY importSource.title             "Gosodiadau Mewnforio a Ffolderi E-bost">
 <!ENTITY importItems.title              "Eitemau i'w Mewnforio">
