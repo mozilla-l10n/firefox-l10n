@@ -22,6 +22,8 @@
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Fitxategiaren izena birbegiratu ia errorerik daukan.</li> <li>Begiratu ia fitxategia lekuz mugitu, izena aldatu edo ezabatu duten.</li> </ul>">
 
+
+
 <!ENTITY generic.title "Iepa.">
 <!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orrialdea kargatu.</p>">
 
@@ -71,16 +73,6 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Hau zerbitzariaren konfigurazioan errore bat dela eta izan daiteke, edo norbait zerbitzariaren nortasuna hartzen ari dela.</li> <li>Aurretik zerbitzari honetara behar bezala konektatu bazara, errorea aldirokoa izan daiteke eta geroago saia zaitezke.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro minutu batzuen buruan.</li> <li>Beste inolako orrialderik ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li> <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
-
-<!ENTITY malwareBlocked.title "Ustezko eraso gunea!">
-<!ENTITY malwareBlocked.longDesc "<p>Gune erasotzaileek zure informazio pertsonala ostu, zure ordenagailua bestei erasotzeko erabili edo zure sistema kaltetzeko programak instalatzen saiatzen da.</p> <p>Beren gunea eraso gune bat bezala oker erreportaturik dagoela uste duten webguneen jabeek <a href='http://www.stopbadware.org/home/reviewinfo'>berrikuspen bat</a> eskatu dezakete.</p>">
-
-<!ENTITY unwantedBlocked.longDesc "<p>Nahi ez den softwarearen orriak iruzurtiak izan daitezkeen eta zure sistema espero gabeko moduetan eragin dezaketen softwarea instalatzen saiatzen dira.</p>">
-
-<!ENTITY phishingBlocked.title "Ustezko web iruzurra!">
-<!ENTITY phishingBlocked.longDesc "<p>Orrialde honetan informazio pertsonala sartzean nortasun iruzur bat egiteko aukera dago.</p> <p>Mota honetako web iruzurrak phishing erasoak bezala ezagutzen dira, konfiantza duzun webgune eta e-posta helbideak imitatzen dira.</p>">
-
-
 
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orrialde hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
