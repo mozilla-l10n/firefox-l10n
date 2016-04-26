@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "បង្រួម​ទិដ្ឋភាព">
 <!ENTITY compactVersion.accesskey "C">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Դասավորել ըստ">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "កែសម្រួល​ជា​សារ​ថ្មី">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
+
+
 <!ENTITY createFilter.label "Ստեղծել ֆիլտր նամակից...">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Տեղափոխել՝">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "កែសម្រួល​ជា​សា​ថ្មី">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+
 <!ENTITY contextArchive.label "Արխիվ">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Պատասխանել միայն ուղարկողին">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Պատճենել՝">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "មិន​អើពើ​​សែស្រឡាយ">
+
 <!ENTITY contextKillThreadMenu.accesskey "I">
-<!ENTITY contextKillSubthreadMenu.label "មិន​អើពើ​​ប្រធានបទ​តែ​មួយ​រង">
+
 <!ENTITY contextWatchThreadMenu.label "មើល​សែស្រឡាយ">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Պահպանել որպես…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Տպել…">
