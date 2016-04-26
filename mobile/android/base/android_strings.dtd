@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "空间不足，无法启动 &brandShortName;。">
-<!ENTITY  error_loading_file "载入运行 &brandShortName; 所需的文件时发生错误">
-
 <!ENTITY firstrun_panel_title_welcome "欢迎使用">
 <!ENTITY  onboard_start_message3 "使用 &brandShortName; 浏览">
 <!ENTITY  onboard_start_subtext3 "让移动互联网浏览体验有你的风格。">
@@ -28,6 +24,11 @@
 
 <!ENTITY  onboard_start_restricted1 "使用简化的 &brandShortName; 版本，确保安全和可控。">
 
+<!ENTITY  reading_list_migration_title "阅读列表已连接">
+<!ENTITY  reading_list_migration_subtext "您的“阅读列表”项目现在将添加到您的书签">
+<!ENTITY  reading_list_migration_goto_bookmarks "转至书签">
+<!ENTITY  reading_list_migration_bookmarks_hidden "您的书签面板已隐藏">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "书签库">
@@ -49,12 +50,6 @@
 <!ENTITY  sending_crash_report "正在发送崩溃报告\u2026">
 <!ENTITY  crash_close_label "关闭">
 <!ENTITY  crash_restart_label "重启 &brandShortName;">
-<!ENTITY  exit_label "退出">
-
-<!ENTITY  launcher_shortcuts_title "&brandShortName; 网页应用">
-<!ENTITY  launcher_shortcuts_empty "没有发现任何网页应用程序">
-
-<!ENTITY choose_file "选择文件">
 
 <!ENTITY url_bar_default_text2 "搜索或输入网址">
 
@@ -68,14 +63,24 @@
 <!ENTITY bookmark_removed "书签已移除">
 <!ENTITY bookmark_updated "书签已更新">
 <!ENTITY bookmark_options "选项">
+<!ENTITY screenshot_added_to_bookmarks "截图已添加到书签">
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "屏幕截图">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "阅读列表">
+
+<!ENTITY reader_saved_offline "已离线保存">
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "切换">
 
 <!ENTITY history_today_section "今天">
 <!ENTITY history_yesterday_section "昨天">
 <!ENTITY history_week_section3 "最近 7 天">
-<!ENTITY history_this_month_section "本月">
 <!ENTITY history_older_section3 "最近 6 个月">
 
-<!ENTITY go "转到">
 <!ENTITY search "搜索">
 <!ENTITY reload "重新加载">
 <!ENTITY forward "前进">
@@ -108,7 +113,7 @@
 <!ENTITY settings "设置">
 <!ENTITY settings_title "设置">
 <!ENTITY pref_category_general "常规">
-<!ENTITY pref_category_general_summary2 "主页、语言、地址栏">
+<!ENTITY pref_category_general_summary3 "首页、语言、标签页队列">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -131,9 +136,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "添加书签">
-<!ENTITY overlay_share_reading_list_btn_label "添加到阅读列表">
 <!ENTITY overlay_share_bookmark_btn_label_already "已有此书签">
-<!ENTITY overlay_share_reading_list_btn_label_already "已在阅读列表中">
 <!ENTITY overlay_share_send_other "发送到其他设备">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -149,14 +152,15 @@
 <!ENTITY overlay_no_synced_devices "没有找到已连接 Firefox 账号的设备">
 
 <!ENTITY pref_category_search3 "搜索">
-<!ENTITY pref_category_search_summary "自定义您的搜索提供商">
+<!ENTITY pref_category_search_summary2 "添加、设为默认、显示建议">
 <!ENTITY pref_category_accessibility "无障碍环境">
 <!ENTITY pref_category_accessibility_summary2 "文本缩放、语音输入">
 <!ENTITY pref_category_privacy_short "隐私">
-<!ENTITY pref_category_privacy_summary3 "跟踪、Cookie、数据反馈">
+<!ENTITY pref_category_privacy_summary4 "跟踪、登录信息、数据反馈">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "关于 &brandShortName;、常见问题解答、反馈">
 <!ENTITY pref_category_datareporting "数据反馈">
+<!ENTITY pref_category_logins "登录信息">
 <!ENTITY pref_learn_more "详细了解">
 <!ENTITY pref_category_installed_search_engines "已安装的搜索引擎">
 <!ENTITY pref_category_add_search_providers "添加更多搜索提供商">
@@ -168,10 +172,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "提示：长按搜索框后点击 &formatI; 图标添加任意网站到您的搜索服务提供者列表。">
+<!ENTITY pref_search_hint2 "提示：您可以长按任何网站的搜索框，然后点击 &formatI; 图标，将网站添加到您的搜索提供商列表。">
 <!ENTITY pref_category_advanced "高级">
-<!ENTITY pref_category_advanced_summary2 "恢复标签页、插件和开发者工具">
-<!ENTITY pref_developer_remotedebugging "远程调试">
+<!ENTITY pref_category_advanced_summary3 "恢复标签页、节约流量、开发者工具">
+<!ENTITY pref_category_notifications "通知">
+<!ENTITY pref_category_notifications_summary "新功能、网站更新">
+<!ENTITY pref_content_notifications "网站更新">
+<!ENTITY pref_content_notifications_summary2 "发现已支持网站的新内容">
 <!ENTITY pref_developer_remotedebugging_usb "通过 USB 远程调试">
 <!ENTITY pref_developer_remotedebugging_wifi "通过 Wi-Fi 远程调试">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi 调试需要您的设备已安装一个二维码扫描应用。">
@@ -181,18 +188,10 @@
 <!ENTITY pref_category_home "首页">
 <!ENTITY pref_category_home_summary "自定义您的首页">
 <!ENTITY pref_category_home_panels "面板">
-<!ENTITY home_add_panel_title "添加新面板">
-<!ENTITY home_add_panel_empty "抱歉，我们未找到您可添加的面板。">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "“&formatS;”已加入首页">
-<!ENTITY pref_category_home_content_settings "内容设置">
-<!ENTITY pref_home_updates "自动更新">
+<!ENTITY pref_category_home_add_ons "附加组件">
+<!ENTITY pref_home_updates2 "内容更新">
 <!ENTITY pref_home_updates_enabled "启用">
 <!ENTITY pref_home_updates_wifi "仅通过 Wi-Fi">
-<!ENTITY pref_home_suggested_sites "显示推荐网站">
-<!ENTITY pref_home_suggested_sites_summary "显示我们认为您可能感兴趣的网站">
 <!ENTITY pref_category_home_homepage "首页">
 <!ENTITY home_homepage_title "设置首页">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -216,6 +215,7 @@
 <!ENTITY pref_header_search "搜索">
 <!ENTITY pref_header_privacy_short "隐私">
 <!ENTITY pref_header_accessibility "无障碍环境">
+<!ENTITY pref_header_notifications "通知">
 <!ENTITY pref_header_advanced "高级">
 <!ENTITY pref_header_help "帮助">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -225,14 +225,19 @@
 <!ENTITY pref_cookies_not_accept_foreign "启用，第三方 Cookie 除外">
 <!ENTITY pref_cookies_disabled "禁用">
 
+<!ENTITY pref_category_data_saver "节约流量">
+<!ENTITY pref_category_media "媒体">
+<!ENTITY pref_category_developer_tools "开发者工具">
+
 <!ENTITY pref_tap_to_load_images_title2 "显示图像">
 <!ENTITY pref_tap_to_load_images_enabled "总是">
 <!ENTITY pref_tap_to_load_images_data "仅通过 Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "拦截">
 
 <!ENTITY pref_show_web_fonts "显示网络字体">
+<!ENTITY pref_show_web_fonts_summary2 "加载页面时下载远程字体">
 
-<!ENTITY pref_tracking_protection_title "跟踪保护">
+<!ENTITY pref_tracking_protection_title2 "跟踪保护">
 <!ENTITY pref_tracking_protection_summary3 "在隐私浏览模式中启用">
 <!ENTITY pref_donottrack_title "请勿跟踪">
 <!ENTITY pref_donottrack_summary "&brandShortName; 将会告诉网站您不想被跟踪">
@@ -240,6 +245,9 @@
 <!ENTITY pref_tracking_protection_enabled "启用">
 <!ENTITY pref_tracking_protection_enabled_pb "在隐私浏览中启用">
 <!ENTITY pref_tracking_protection_disabled "禁用">
+
+<!ENTITY pref_whats_new_notification "&brandShortName; 中的新变化">
+<!ENTITY pref_whats_new_notification_summary "了解更新后有什么新功能">
 
 <!ENTITY tracking_protection_prompt_title "立即使用跟踪保护">
 <!ENTITY tracking_protection_prompt_text "主动拦截跟踪您的元素，让您不再担心。">
@@ -273,10 +281,22 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "要一并打开多个链接，请为 &brandShortName; 启用“在其他应用之上显示内容”的权限">
 
+<!ENTITY content_notification_summary "&brandShortName;">
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; 网站已更新">
+<!ENTITY content_notification_action_settings "通知设置">
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "更新于 &formatS;">
+
 <!ENTITY pref_char_encoding "显示字符编码">
 <!ENTITY pref_char_encoding_on "显示菜单">
 <!ENTITY pref_char_encoding_off "不显示菜单">
-<!ENTITY pref_clear_private_data "清除隐私数据">
+<!ENTITY pref_clear_private_data2 "清除隐私数据">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "现在清除">
@@ -285,7 +305,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "选择要清除的数据">
 <!ENTITY pref_plugins "插件">
 <!ENTITY pref_plugins_enabled "启用">
-<!ENTITY pref_plugins_tap_to_play "点按即可播放">
+<!ENTITY pref_plugins_tap_to_play2 "点击播放">
 <!ENTITY pref_plugins_disabled "禁用">
 <!ENTITY pref_text_size "文字大小">
 <!ENTITY pref_restore_tabs "恢复标签页">
@@ -335,7 +355,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "下载历史">
 <!ENTITY pref_private_data_syncedTabs "受同步的标签页">
 
-
+<!ENTITY pref_default_browser "设为默认浏览器">
 <!ENTITY pref_about_firefox "关于 &brandShortName;">
 <!ENTITY pref_vendor_faqs "常见问题">
 <!ENTITY pref_vendor_feedback "提供反馈">
@@ -353,10 +373,12 @@ size. -->
 <!ENTITY pref_panels_move_down "下移">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 统计数据">
-<!ENTITY datareporting_notification_action_long "选择想分享的信息">
 <!ENTITY datareporting_notification_action "选择想分享什么">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "选择想分享的信息">
 <!ENTITY datareporting_notification_summary "为了改善您的体验，&brandShortName; 会自动发送一些信息到 &vendorShortName;。">
-<!ENTITY datareporting_notification_summary_short "为了改善您的体验，&brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -409,7 +431,6 @@ size. -->
 <!ENTITY close_private_tabs "关闭隐私浏览标签页">
 <!ENTITY tabs_normal "标签页">
 <!ENTITY tabs_private "隐私">
-<!ENTITY tabs_synced "已同步">
 <!ENTITY set_image_fail "无法设置图像">
 <!ENTITY set_image_path_fail "无法保存图像">
 <!ENTITY set_image_chooser_title "另存为图像">
@@ -443,8 +464,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "固定网站">
 <!ENTITY contextmenu_top_sites_unpin "解除网站固定">
 <!ENTITY contextmenu_add_search_engine "添加搜索引擎">
-<!ENTITY contextmenu_mark_read "标为已读">
-<!ENTITY contextmenu_mark_unread "标为未读">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -464,7 +483,7 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "放大较小区域">
-<!ENTITY pref_magnifying_glass_enabled_summary "点按链接和表单字段周围时放大">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "触摸链接和表单字段周围放大它们">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -489,21 +508,6 @@ size. -->
 <!ENTITY site_settings_title3       "站点设置">
 <!ENTITY site_settings_cancel       "取消">
 <!ENTITY site_settings_clear        "清除">
-
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-<!ENTITY reading_list_added3 "已添加到阅读列表">
-<!ENTITY reading_list_removed "页面已从您的阅读列表移除">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "从阅读列表移除">
-<!ENTITY reading_list_duplicate "页面已在您的阅读列表中">
-
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-<!ENTITY reading_list_time_minutes2 "&formatD; 分">
-<!ENTITY reading_list_time_over_an_hour "超过一个小时">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -532,6 +536,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; 首页">
 <!ENTITY home_history_title "历史记录">
+<!ENTITY home_history_back_to "返回所有历史">
 <!ENTITY home_clear_history_button "清除浏览历史记录">
 <!ENTITY home_clear_history_confirm "您确定要清除您的历史记录吗？">
 <!ENTITY home_bookmarks_empty "这里显示了您添加的书签。">
@@ -540,11 +545,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "您最近的标签页将出现在这里。">
 <!ENTITY home_open_all "打开全部">
 <!ENTITY home_most_recent_empty "您最近常访问的网站将出现在这里。">
-<!ENTITY home_selected_empty "您在选定时间内访问过的网站将显示在这里。">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "嘘！&formatS1;在新的隐私浏览标签页&formatS2; 中不会保存您的浏览记录。">
-<!ENTITY home_reading_list_empty "您保存以供稍后阅读的文章将出现在这里。">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -554,16 +557,6 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_back_to_filter "返回 &formatS;">
 
-<!ENTITY home_remote_tabs_title "受同步的标签页">
-<!ENTITY home_remote_tabs_empty "来自您的其他设备的标签页将出现在这里。">
-<!ENTITY home_remote_tabs_unable_to_connect "无法连接">
-<!ENTITY home_remote_tabs_need_to_sign_in "请登录以重新与您的 Firefox 账户建立连接，以便继续同步。">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "您的全新的 Firefox 账户已经准备就绪！">
-
-<!ENTITY home_remote_tabs_trouble_verifying "验证您的账户时遇到困难？">
-<!ENTITY home_remote_tabs_need_to_verify "请验证您的 Firefox 账户以开始同步。">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 个隐藏的设备">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -612,7 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "您已禁用对不安全内容的拦截。">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title "跟踪保护">
+<!ENTITY doorhanger_tracking_title2 "跟踪保护">
 <!ENTITY doorhanger_tracking_state_enabled "启用">
 <!ENTITY doorhanger_tracking_state_disabled "已停用">
 <!ENTITY doorhanger_tracking_message_enabled1 "跟踪您的在线行为的企图已被阻止。">
@@ -622,7 +615,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "详细了解">
 <!ENTITY enable_protection "启用保护">
 <!ENTITY disable_protection "禁用保护">
-<!ENTITY keep_blocking "保持拦截">
 
 <!ENTITY private_data_success "隐私数据已清除">
 <!ENTITY private_data_fail "某些隐私数据无法清除">
@@ -715,7 +707,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "最后同步：从未">
 
-<!ENTITY intent_uri_cannot_open "无法打开链接">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -778,3 +769,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; 已是最新版本">
 <!ENTITY whatsnew_notification_summary "了解这个版本的新变化">
+
+<!ENTITY promotion_add_to_homescreen "添加到主屏幕">
+
+<!ENTITY helper_first_offline_bookmark_title "离线阅读">
+<!ENTITY helper_first_offline_bookmark_message "在您的书签中查看您的阅读项目，离线也不怕。">
+<!ENTITY helper_first_offline_bookmark_button "转至书签">
