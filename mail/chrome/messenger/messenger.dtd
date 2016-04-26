@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "ح">
 <!ENTITY compactVersion.label "منظور متضام">
 <!ENTITY compactVersion.accesskey "م">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "رتّب حسب">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "حرّر كرسالةٍ جديدة">
 <!ENTITY editAsNewMsgCmd.accesskey "ح">
 <!ENTITY editAsNewMsgCmd.key "e">
+
+
 <!ENTITY createFilter.label "أنشئ مرشِّح مِن الرسالة…">
 <!ENTITY createFilter.accesskey "ش">
 <!ENTITY moveMsgToMenu.label "انقل إلى">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "ف">
 <!ENTITY contextEditMsgAsNew.label "حرّر كرسالةٍ جديدة">
 <!ENTITY contextEditMsgAsNew.accesskey "ح">
+
 <!ENTITY contextArchive.label "أرشيف">
 <!ENTITY contextArchive.accesskey "ف">
 <!ENTITY contextReplySender.label "رُد إلى المُرسِل فقط">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "انسخ إلى">
 <!ENTITY contextCopyMsgMenu.accesskey "خ">
 <!ENTITY contextKillThreadMenu.label "تجاهل النقاش">
+
 <!ENTITY contextKillThreadMenu.accesskey "ج">
-<!ENTITY contextKillSubthreadMenu.label "تجاهل النقاش الفرعي">
+
 <!ENTITY contextWatchThreadMenu.label "راقب النقاش">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "احفظ ك‍…">
 <!ENTITY contextSaveAs.accesskey "ح">
 <!ENTITY contextPrint.label "اطبع…">

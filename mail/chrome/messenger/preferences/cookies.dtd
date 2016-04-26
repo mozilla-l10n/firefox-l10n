@@ -19,6 +19,7 @@
 <!ENTITY props.secure.label                "مُرسَلة ل‍:">
 <!ENTITY props.expires.label               "تنتهي في:">
 
+
 <!ENTITY window.title                      "الكعكات">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "f">
