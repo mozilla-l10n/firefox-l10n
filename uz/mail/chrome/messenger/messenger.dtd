@@ -158,6 +158,8 @@
 
 
 
+
+
 <!-- Sort Menu -->
 
 
@@ -308,6 +310,8 @@
 
 
 <!-- Message Menu -->
+
+
 
 
 
@@ -694,6 +698,13 @@
 
 
 
+
+
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 
 
 

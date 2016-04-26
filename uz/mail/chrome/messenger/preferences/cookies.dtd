@@ -19,6 +19,7 @@
 <!ENTITY props.secure.label                "Jo‘natish:">
 <!ENTITY props.expires.label               "Muddati o‘tishi:">
 
+
 <!ENTITY window.title                      "Kukilar">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "f">
