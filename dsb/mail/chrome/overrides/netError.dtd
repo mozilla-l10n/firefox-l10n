@@ -22,6 +22,9 @@
 <!ENTITY fileNotFound.title "Dataja njejo se namakała">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Pśeglědajśo datajowe mě za wjelikopisańskimi abo hynakšymi pisańskimi zmólkami.</li> <li>Pśeglědjśo, lěc dataja jo se pśesunuła, pśemjeniła abo wulašowała.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "Pśistup na dataju jo se wótpokazał">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Snaź jo se wótpórała, pśesunuła, abo datajowe pšawa zajźuju pśistupoju.</li> </ul>">
+
 <!ENTITY generic.title "Hopla.">
 <!ENTITY generic.longDesc "<p>&brandShortName; njamóžo toś ten bok z někakeje pśicyny cytaś.</p>">
 
@@ -71,18 +74,6 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>To by mógło problem z konfiguraciju serwera byś, abo by mógło byś, až něchten wopytujo serwer imitěrowaś.</li> <li>Jolic sćo ze serwerom w zachadnosći wuspěšnje zwězany był, by mógła zmólka snaź nachylna byś a móžośo pózdźej hyšći raz wopytaś.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Sedło njeby mógło nachylnje k dispoziciji staś abo pśeśěžone byś. Wopytajśo za mało wokognuśow hyšći raz.</li> <li>Jolic njamóžośo někotare boki cytaś, pśekontrolěrujśo zwisk wašeje licadłoweje seśe.</li> <li>Jolic wašo licadło abo seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; smějo pśistup na Web měś.</li> </ul>">
-
-<!ENTITY malwareBlocked.title "Pódglědne napadujuce sedło!">
-<!ENTITY malwareBlocked.longDesc "<p>Napadujuce sedła wopytuju programy instalěrowaś, kótarež kšadnu priwatne informacije, wašo licadło wužywaś, aby druge napadowali abo waš system wobškóźeś.</p> <p>Wobsejźarje websedła, kotrež wěrje, až jo se jich sedło zamólnje ako napdujuce sedło zdźěliło, mógu wó <a href='http://www.stopbadware.org/home/reviewinfo' >pśekontrolěrowanje pšosyś</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Suspektne sedło z njewitaneju softwaru!">
-<!ENTITY unwantedBlocked.longDesc "<p>Boki z njewitaneju softwaru wopytuju softwaru instalěrowaś, kótaraž móžo wobšudna byś a kótaraž móžo waš system na njewótcakane nałogi wobwliwowaś.</p>">
-
-<!ENTITY phishingBlocked.title "Pódglědna websfalšowanka!">
-<!ENTITY phishingBlocked.longDesc "<p>Zapódawanje wósobinskich informacijow na toś tom boku móžo ku kšadnjenjeju identity abo drugej wobšuźe wjasć.</p> <p>Toś te typy webwobšudow wužywaju se we webwobšudach ako snuchlece napady, w kótarychž wobšudne webboki a e-maile se wužywaju, aby žrědła imitěrowali, kótarymž dowěriśo.</p>">
-
-<!ENTITY forbiddenBlocked.title "Zakazane sedło">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; jo toś tomu bokoju zacytowanje zawoborał, dokulaž jo se konfigurěrował, aby jen blokěrował.</p>">
 
 <!ENTITY cspBlocked.title "Pśez wěstotne pšawidła za wopśimjeśe zablokěrowany">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; jo zacytowanjeju toś togo boka na toś ten nałog zajźował, dokulaž bok ma wěstotne pšawidła za wopśimjeśe, kótarež to njedowóluju.</p>">

@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Kompaktny naglěd">
 <!ENTITY compactVersion.accesskey "K">
+<!ENTITY folderPaneBar.label "Symbolowa rědka zarědnikowego wobcerka">
+<!ENTITY folderModeSelector.label "Zarědnikowe naglědy">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sortěrowaś pó">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Powěsć ako nowu wobźěłaś">
 <!ENTITY editAsNewMsgCmd.accesskey "n">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Nacerjenje powěsći wobźěłaś">
+<!ENTITY editDraftMsgCmd.accesskey "N">
 <!ENTITY createFilter.label "Filter z powěsći napóraś…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Pśesunuś do">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "z">
 <!ENTITY contextEditMsgAsNew.label "Ako nowu powěsć wobźěłaś">
 <!ENTITY contextEditMsgAsNew.accesskey "b">
+<!ENTITY contextEditDraftMsg.label "Nacerjenje powěsći wobźěłaś">
 <!ENTITY contextArchive.label "Archiw">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Jano wótpósłarjeju wótegroniś">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Kopěrowaś do">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Nitku ignorěrowaś">
+<!ENTITY contextKillSubthreadMenu.accesskey "d">
 <!ENTITY contextKillThreadMenu.accesskey "i">
 <!ENTITY contextKillSubthreadMenu.label "Pódnitku ignorěrowaś">
 <!ENTITY contextWatchThreadMenu.label "Nitku wobglědowaś">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Składowaś ako…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Śišćaś…">
