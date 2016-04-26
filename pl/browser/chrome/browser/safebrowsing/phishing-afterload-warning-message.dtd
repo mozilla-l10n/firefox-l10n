@@ -5,6 +5,7 @@
 <!ENTITY safeb.palm.accept.label "Zabierz mnie stąd!">
 <!ENTITY safeb.palm.decline.label "Zignoruj to ostrzeżenie">
 <!ENTITY safeb.palm.notdeceptive.label "To nie jest oszustwo…">
+<!ENTITY safeb.palm.notdeceptive.accesskey "n">
 <!ENTITY safeb.palm.reportPage.label "Dlaczego ta strona została zablokowana?">
 <!ENTITY safeb.palm.whyForbidden.label "Dlaczego ta strona została zablokowana?">
 
