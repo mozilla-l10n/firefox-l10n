@@ -22,6 +22,8 @@
 <!ENTITY fileNotFound.title "Lêer nie gevind nie">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroleer die lêernaam vir bokas of onderkas of ander tikfoute.</li> <li>Kontroleer of die lêer verskuif, hernoem of geskrap is.</li> </ul>">
 
+
+
 <!ENTITY generic.title "Oeps.">
 <!ENTITY generic.longDesc "<p>&brandShortName; kan om een of ande rrede nie dié bladsy laai nie.</p>">
 
@@ -70,16 +72,6 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Dit kan 'n probleem wees met die bediener se opstelling, of dit is dalk iemand wat voorgee om die bediener te wees.</li> <li>Indien u in die verlede suksesvol aan dié bediener gekoppel het, kan die fout tydelik wees. Probeer gerus later.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Die werf is moontlik tydelik onbeskikbaar of te besig. Probeer weer oor 'n paar sekondes.</li> <li>Indien u geen bladsye kan laai nie, kontroleer u rekenaar se netwerkverbinding.</li> <li>Indien u rekenaar of netwerk deur 'n brandmuur of instaanbediener beskerm word, maak seker dat &brandShortName; toegelaat word om toegang tot die web te verkry.</li></ul>">
-
-<!ENTITY malwareBlocked.title "Vermoedelik 'n aanvalswerf!">
-<!ENTITY malwareBlocked.longDesc "<p>Aanvalswerwe probeer programme installeer wat private inligting steel, u rekenaar gebruik om ander aan te val, of u stelsel beskadig.</p> <p>Webwerfeienaars wat meen dat hul werf foutief as 'n aanvalswerf aangegee is, kan 'n <a href='http://www.stopbadware.org/home/reviewinfo'>hersiening aanvra</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Moontlike webnamaaksel!">
-<!ENTITY phishingBlocked.longDesc "<p>As u enige persoonlike inligting op hierdie bladsy intik, kan dit lei tot identiteitdiefstal of ander bedrog.</p> <p>Hierdie soort kwaadwillige na-apery word gebruik in slap rieme genaamd uitvissing, waarin bedrieglike webwerwe en e-posse gebruik word om bronne na te aap wat u vertrou.</p>">
-
-
 
 
 

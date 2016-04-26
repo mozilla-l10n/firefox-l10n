@@ -160,6 +160,8 @@
 <!ENTITY recentFolders.accesskey "O">
 
 
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Rangskik volgens">
@@ -350,6 +352,8 @@
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Stuur aan as">
 <!ENTITY forwardAsMenu.accesskey "t">
+
+
 
 
 
@@ -699,6 +703,7 @@
 
 
 
+
 <!ENTITY contextArchive.label "Argief">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Antwoord net aan afsender">
@@ -729,6 +734,12 @@
 
 
 
+
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Stoor as…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Druk…">
