@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "T">
 
 
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Urut berdasar">
@@ -354,6 +356,8 @@
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Teruskan Sebagai">
 <!ENTITY forwardAsMenu.accesskey "r">
+
+
 
 
 
@@ -703,6 +707,7 @@
 
 
 
+
 <!ENTITY contextArchive.label "Arsipkan">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Hanya Balas ke Pengirim">
@@ -733,6 +738,12 @@
 
 
 
+
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Simpan Sebagai…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Cetak…">
