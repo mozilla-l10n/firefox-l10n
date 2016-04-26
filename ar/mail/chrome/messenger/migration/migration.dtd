@@ -16,8 +16,6 @@
 <!ENTITY importFromOExpress.accesskey   "و">
 <!ENTITY importFromOutlook.label        "أوتلوك">
 <!ENTITY importFromOutlook.accesskey    "ت">
-<!ENTITY importFromEudora.label         "إيودورا">
-<!ENTITY importFromEudora.accesskey     "د">
 
 <!ENTITY importSource.title             "استورد الإعدادات ومجلدات البريد مِن">
 <!ENTITY importItems.title              "عناصر للاستيراد">
