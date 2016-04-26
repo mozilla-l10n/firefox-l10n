@@ -43,7 +43,7 @@
 <!ENTITY rights.safebrowsing-b "Nie zaleca się wyłączania funkcji „Bezpieczne przeglądanie”, ponieważ wówczas podczas próby otworzenia niebezpiecznej witryny nie będzie emitowane stosowne ostrzeżenie. Aby wyłączyć tę funkcję całkowicie:">
 <!ENTITY rights.safebrowsing-term1 "Otwórz opcje programu">
 <!ENTITY rights.safebrowsing-term2 "Przejdź do panelu Bezpieczeństwo">
-<!ENTITY rights2.safebrowsing-term3 "Odznacz opcję „&blockAttackSites.label;”">
+<!ENTITY rights2.safebrowsing-term3 "Odznacz opcję „&enableSafeBrowsing.label;”">
 <!ENTITY rights.safebrowsing-term4 "Funkcja „Bezpieczne przeglądanie” zostanie wówczas wyłączona">
 
 <!ENTITY rights.locationawarebrowsing-a "Udostępnianie witrynom położenia użytkownika: ">
