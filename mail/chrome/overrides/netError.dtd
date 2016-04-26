@@ -22,6 +22,8 @@
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Dosya adındaki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> <li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> </ul>">
 
+
+
 <!ENTITY generic.title "Tüh.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bilinmeyen bir nedenden dolayı bu sayfayı açamıyor.</p>">
 
@@ -71,17 +73,6 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Sunucunun yapılandırmasıyla ilgili bir sorun olabilir veya birisi sunucuyu taklit etmeye çalışıyor olabilir.</li> <li>Daha önce bu sunucuya sorunsuz bağlandıysanız sorun geçici olabilir ve daha sonra yeniden bağlanmayı deneyebilirsiniz.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Site geçici olarak kapalı veya çok meşgul olabilir. Biraz bekleyip yeniden deneyin.</li> <li>Hiçbir sayfayı açamıyorsanız bilgisayarınızın ağ bağlantısını kontrol edin.</li> <li>Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu tarafından korunuyorsa &brandShortName; uygulamasının Web’e erişim izni olduğundan emin olun.</li> </ul>">
-
-<!ENTITY malwareBlocked.title "Şüpheli saldırı sitesi!">
-<!ENTITY malwareBlocked.longDesc "<p>Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırma amacıyla kullanan ya da sisteminize zarar veren programlar kurmaya çalışan sitelerdir.</p> <p>Web sitelerinin yanlışlıkla saldırı sitesi olarak rapor edildiğini düşünen site yöneticileri durumun <a href='http://www.stopbadware.org/home/reviewinfo'>gözden geçirilmesini</a> isteyebilir.</p>">
-
-<!ENTITY unwantedBlocked.title "İstenmeyen Yazılım Sitesi Şüphesi!">
-<!ENTITY unwantedBlocked.longDesc "<p>İstenmeyen yazılım sayfaları, yanıltıcı olabilecek ve sisteminizi beklenmedik şekilde etkileyebilecek yazılımlar yüklemeye çalışır.</p>">
-
-<!ENTITY phishingBlocked.title "Sahtekârlık şüphesi!">
-<!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> <p>Bu tür sahtekârlıklar yemleme olarak bilinen dümenlerde kullanılır. Yemleme saldırılarında araç olarak güvenebileceğiniz kurumları taklit eden sayfalara ve e-postalara başvurulur.</p>">
-
-
 
 <!ENTITY cspBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">

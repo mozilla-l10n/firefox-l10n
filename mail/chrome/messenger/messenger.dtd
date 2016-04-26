@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "E">
 <!ENTITY compactVersion.label "Yoğun görünüm">
 <!ENTITY compactVersion.accesskey "Y">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sıralama koşulu">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Yeni ileti olarak düzenle">
 <!ENTITY editAsNewMsgCmd.accesskey "o">
 <!ENTITY editAsNewMsgCmd.key "e">
+
+
 <!ENTITY createFilter.label "İletiden süzgeç oluştur…">
 <!ENTITY createFilter.accesskey "s">
 <!ENTITY moveMsgToMenu.label "Taşı">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "a">
 <!ENTITY contextEditMsgAsNew.label "Yeni ileti olarak düzenle">
 <!ENTITY contextEditMsgAsNew.accesskey "o">
+
 <!ENTITY contextArchive.label "Arşivle">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Yalnızca göndereni yanıtla">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Buraya kopyala">
 <!ENTITY contextCopyMsgMenu.accesskey "B">
 <!ENTITY contextKillThreadMenu.label "Diziyi göz ardı et">
+
 <!ENTITY contextKillThreadMenu.accesskey "D">
-<!ENTITY contextKillSubthreadMenu.label "Alt diziyi göz ardı et">
+
 <!ENTITY contextWatchThreadMenu.label "Diziyi izle">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Farklı kaydet…">
 <!ENTITY contextSaveAs.accesskey "F">
 <!ENTITY contextPrint.label "Yazdır…">
