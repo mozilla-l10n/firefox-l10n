@@ -149,3 +149,5 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "K">
 <!ENTITY spellAddDictionaries.label     "Daugiau žodynų…">
 <!ENTITY spellAddDictionaries.accesskey "D">
+<!-- Developer Tools -->
+

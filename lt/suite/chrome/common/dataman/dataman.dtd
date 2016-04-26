@@ -8,6 +8,7 @@
 <!ENTITY select.all.label "Visų tipų duomenys">
 <!ENTITY select.cookies.label "Tik slapukai">
 <!ENTITY select.permissions.label "Tik leidimai">
+
 <!ENTITY select.preferences.label "Tik nuostatos">
 <!ENTITY select.passwords.label "Tik slaptažodžiai">
 <!ENTITY select.storage.label "Tik saugykla">
@@ -25,6 +26,7 @@
 
 <!ENTITY tab.cookies.label "Slapukai">
 <!ENTITY tab.permissions.label "Leidimai">
+
 <!ENTITY tab.preferences.label "Nuostatos">
 <!ENTITY tab.passwords.label "Slaptažodžiai">
 <!ENTITY tab.storage.label "Saugykla">
@@ -56,15 +58,18 @@
 <!ENTITY cookies.blockOnRemove.accesskey "d">
 <!-- permissions -->
 
-<!ENTITY perm.UseDefault "Naudoti numatytąsias nuostatas">
-<!ENTITY perm.AskAlways "Visada klausti">
-<!ENTITY perm.NeverSave "Niekada neįrašyti">
+
 <!ENTITY perm.Allow "Leisti">
 <!ENTITY perm.AllowSameDomain "Leisti vienoje srityje">
 
 <!ENTITY perm.Block "Neleisti">
 
-<!ENTITY perm.host.placeholder "Įveskite serverio vardą">
+
+
+<!-- password permissions -->
+
+
+
 
 
 <!-- preferences -->
@@ -126,6 +131,8 @@
 <!ENTITY forget.cookies.accesskey "s">
 <!ENTITY forget.permissions.label "leidimus">
 <!ENTITY forget.permissions.accesskey "d">
+
+
 <!ENTITY forget.preferences.label "turinio nuostatas">
 <!ENTITY forget.preferences.accesskey "n">
 <!ENTITY forget.passwords.label "slaptažodžius">

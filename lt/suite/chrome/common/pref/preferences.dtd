@@ -5,17 +5,21 @@
 
 <!ENTITY prefWindow.title "Nuostatos">
 <!ENTITY categoryHeader "Nuostatų grupės">
+
 <!ENTITY appear.label "Išvaizda">
 
 <!ENTITY fonts.label "Šriftai">
 <!ENTITY colors.label "Spalvos">
 
 
+
 <!ENTITY languages.label "Kalbos">
 
 <!ENTITY locationBar.label "Adreso laukas">
+<!ENTITY search.label "Paieška saityne">
 <!ENTITY tabWindows.label "Kortelės">
 <!ENTITY links.label "Saitų atvėrimas">
+
 
 <!ENTITY security.label "Privatumas ir saugumas">
 <!ENTITY privatedata.label "Privatieji duomenys">
@@ -28,18 +32,13 @@
 <!ENTITY certs.label "Liudijimai">
 
 
-
+<!ENTITY scriptsAndWindows.label "Scenarijai ir papildiniai">
+<!ENTITY keynav.label "Klaviatūra">
+<!ENTITY findAsYouType.label "Paieška renkant tekstą">
 <!ENTITY cache.label "Podėlis">
 <!ENTITY offlineApps.label "Duomenys darbui neprisijungus">
 <!ENTITY proxies.label "Įgaliotieji serveriai">
 <!ENTITY httpnetworking.label "HTTP protokolas">
 <!ENTITY smart.label "Programinės įrangos diegimas">
-
-<!ENTITY keynav.label "Klaviatūra">
-<!ENTITY findAsYouType.label "Paieška renkant tekstą">
-<!ENTITY search.label "Paieška saityne">
-<!ENTITY policies.label "Saugumo taisyklės">
 <!ENTITY mousewheel.label "Pelės ratukas">
-<!ENTITY scriptsAndWindows.label "Scenarijai ir papildiniai">
-
 
