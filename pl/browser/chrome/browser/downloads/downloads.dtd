@@ -27,10 +27,11 @@
 <!ENTITY cmd.clearList.accesskey          "c">
 <!ENTITY cmd.clearDownloads.label "Wyczyść pobrane">
 <!ENTITY cmd.clearDownloads.accesskey "e">
-<!ENTITY cmd.unblock.label "Odblokuj">
-<!ENTITY cmd.unblock.accesskey "O">
+<!ENTITY cmd.unblock2.label "Pozwól pobrać">
+<!ENTITY cmd.unblock2.accesskey "P">
 <!ENTITY cmd.removeFile.label "Usuń plik">
-<!ENTITY cmd.removeFile.accesskey "k">
+<!ENTITY cmd.chooseUnblock.label "Usuń plik lub pozwól go pobrać">
+<!ENTITY cmd.chooseOpen.label "Otwórz lub usuń plik">
 
 <!ENTITY blocked.label "Zablokowano">
 <!ENTITY learnMore.label "więcej informacji">
