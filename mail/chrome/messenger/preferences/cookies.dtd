@@ -19,6 +19,7 @@
 <!ENTITY props.secure.label                "Šalji za:">
 <!ENTITY props.expires.label               "Ističe:">
 
+
 <!ENTITY window.title                      "Kolačići">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "f">
