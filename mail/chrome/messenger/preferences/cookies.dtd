@@ -19,6 +19,7 @@
 <!ENTITY props.secure.label                "Trimite pentru:">
 <!ENTITY props.expires.label               "Expiră la:">
 
+
 <!ENTITY window.title                      "Cookie-uri">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "f">
