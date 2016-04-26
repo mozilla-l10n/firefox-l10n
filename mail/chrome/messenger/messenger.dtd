@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "r">
 <!ENTITY compactVersion.label "Ikuspegi trinkoa">
 <!ENTITY compactVersion.accesskey "n">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sailkapen irizpidea">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Editatu mezu berri gisa">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
+
+
 <!ENTITY createFilter.label "Sortu iragazkia mezutik…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Eraman hona">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "k">
 <!ENTITY contextEditMsgAsNew.label "Editatu mezu berri gisa">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+
 <!ENTITY contextArchive.label "Artxibatu">
 <!ENTITY contextArchive.accesskey "x">
 <!ENTITY contextReplySender.label "Erantzun bidaltzaileari soilik">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Kopiatu hona">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ezikusi haria">
+
 <!ENTITY contextKillThreadMenu.accesskey "i">
-<!ENTITY contextKillSubthreadMenu.label "Ezikusi azpiharia">
+
 <!ENTITY contextWatchThreadMenu.label "Behatu haria">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Gorde honela…">
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Inprimatu…">
