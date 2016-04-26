@@ -19,6 +19,7 @@
 <!ENTITY props.secure.label                "Serverio saugumas:">
 <!ENTITY props.expires.label               "Galioja iki:">
 
+
 <!ENTITY window.title                      "Slapukai">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "f">
