@@ -162,6 +162,8 @@
 <!ENTITY recentFolders.accesskey "о">
 
 
+
+
 <!-- Sort Menu -->
 
 
@@ -351,6 +353,8 @@
 <!ENTITY forwardAsInline.accesskey "М">
 <!ENTITY forwardAsAttachmentCmd.label "Салыным">
 <!ENTITY forwardAsAttachmentCmd.accesskey "а">
+
+
 
 
 
@@ -695,6 +699,7 @@
 
 
 
+
 <!ENTITY contextReplyList.label "Тізімге жауап беру">
 <!ENTITY contextReplyList.accesskey "Т">
 <!ENTITY contextForward.label "Алға">
@@ -717,6 +722,12 @@
 
 
 
+
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Қалайша сақтау...">
 <!ENTITY contextSaveAs.accesskey "Қ">
 <!ENTITY contextPrint.label "Баспаға шығару…">
