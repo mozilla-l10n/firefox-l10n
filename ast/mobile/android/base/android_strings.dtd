@@ -70,6 +70,7 @@
 <!ENTITY screenshot_folder_label_in_bookmarks "Captures de pantalla">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Llistáu de llectura">
 
+<!ENTITY reader_saved_offline "Guardóse fuera de llinia">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -171,9 +172,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "Conseyu: Amiesta cualesquier sitiu al to llistáu de fornidores de gueta teniendo primío nel so campu de gueta y dempués calca nel iconu &formatI;.">
 <!ENTITY pref_category_advanced "Avanzao">
 <!ENTITY pref_category_advanced_summary3 "Restaurar llingüetes, aforrador de datos, ferramientes de desendolcu">
+<!ENTITY pref_category_notifications "Avisos">
 <!ENTITY pref_category_notifications_summary "Carauterístiques nueves, anovamientos de sitios web">
+<!ENTITY pref_content_notifications "Anovamientos del sitiu web">
 <!ENTITY pref_content_notifications_summary2 "Descubri conteníu nuevu dende sitios sofitaos">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota per USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota per Wi-Fi">
@@ -228,6 +232,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "Amosar imáxenes">
 <!ENTITY pref_tap_to_load_images_enabled "Siempres">
 <!ENTITY pref_tap_to_load_images_data "Namái na Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Bloquiáu">
 
 <!ENTITY pref_show_web_fonts "Amosar fontes de web">
 <!ENTITY pref_show_web_fonts_summary2 "Baxa les fontes remotes al cargar una páxina">
@@ -255,6 +260,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Pues camudalo más sero n\&apos;Axustes">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Activa Enriba d\&apos;otres aplicaciones">
 <!ENTITY tab_queue_prompt_negative_action_button "Agora non">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
@@ -271,6 +277,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "P\&apos;«Abrir enllaces múltiples», habilita\&apos;l permisu «Enriba d\&apos;otres aplicaciones» pa &brandShortName;, por favor">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -295,6 +302,7 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; llimpiará automáticamente los tos datos siempres qu\&apos;esbilles \u0022Colar\u0022 dende\&apos;l menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Esbilla qué datos llimpiar">
 <!ENTITY pref_plugins "Estensiones">
+<!ENTITY pref_plugins_tap_to_play2 "Toca pa reproducir">
 <!ENTITY pref_text_size "Tamañu del testu">
 <!ENTITY pref_restore_tabs "Restaurar llingüetes">
 <!ENTITY pref_restore_always "Restaurar siempres">
@@ -316,12 +324,19 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web puen auto-reproducir videos y otru conteníu">
+<!ENTITY pref_zoom_force_enabled "Habilitar siempres el zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forcia l\&apos;anulación pa qu\&apos;asina pueas facer zoom en cualesquier páxina">
+<!ENTITY pref_voice_input "Entrada de voz">
 <!ENTITY pref_voice_input_summary2 "Permite\&apos;l dictáu per voz na barra d\&apos;URLs">
+<!ENTITY pref_qrcode_enabled "Llector de códigos QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Permite l\&apos;escáner de QR na barra d\&apos;URLs">
 
+<!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync2 "Aniciar sesión">
 <!ENTITY pref_sync_summary2 "Sincroniza les tos llingüetes, marcadores, anicios de sesión, historia">
+<!ENTITY pref_search_suggestions "Amosar suxerencies de gueta">
+<!ENTITY pref_history_search_suggestions "Amosar historia de gueta">
+<!ENTITY pref_import_options "Importar opciones">
 <!ENTITY pref_import_android_summary "Importa los marcadores ya historia del restolador nativu">
 <!ENTITY pref_private_data_history2 "Historia de navegación">
 <!ENTITY pref_private_data_searchHistory "Historia de gueta">
@@ -329,21 +344,36 @@ size. -->
 <!ENTITY pref_private_data_cookies2 "Cookies y anicios de sesión activos">
 <!ENTITY pref_private_data_passwords2 "Anicios de sesión guardaos">
 <!ENTITY pref_private_data_cache "Caché">
+<!ENTITY pref_private_data_offlineApps "Datos de sitiu web fuera de llinia">
 <!ENTITY pref_private_data_siteSettings2 "Axustes del sitiu">
 <!ENTITY pref_private_data_downloadFiles2 "Descargues">
 <!ENTITY pref_private_data_syncedTabs "Llingüetes sincronizaes">
 
+<!ENTITY pref_default_browser "Predeterminar restolador">
 <!ENTITY pref_about_firefox "Tocante a &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_feedback "Dar feedback">
 
+<!ENTITY pref_dialog_set_default "Predeterminar">
+<!ENTITY pref_dialog_default "Por defeutu">
+<!ENTITY pref_dialog_remove "Desaniciar">
 
 <!ENTITY pref_search_last_toast "Nun pues desaniciar o deshabilitar el to caberu motor de gueta.">
 
+<!ENTITY pref_panels_show "Amosar">
+<!ENTITY pref_panels_hide "Anubrir">
+<!ENTITY pref_panels_reorder "Camudar orde">
+<!ENTITY pref_panels_move_up "Xubir">
+<!ENTITY pref_panels_move_down "Baxar">
 
+<!ENTITY datareporting_notification_title "Estadístiques y datos de &brandShortName;">
+<!ENTITY datareporting_notification_action "Escueyi qué quies compartir">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Escueyi qué información compartir">
 <!ENTITY datareporting_notification_summary "P\&apos;ameyorar la to esperiencia, &brandShortName; unvia automáticamente della información a &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -353,12 +383,14 @@ size. -->
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Informe de salú de &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Comparte datos con &vendorShortName; tocante a la salú del to restolador y ayuda a pescanciar el so rindimientu">
+<!ENTITY datareporting_abouthr_title "Ver el mio informe de salú">
 <!ENTITY datareporting_telemetry_title "Telemetría">
 <!ENTITY datareporting_telemetry_summary "Comparte\&apos;l rindimientu, usu, hardware y personalización de datos tocante al to restolador con &vendorShortName; p\&apos;ameyorar &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; unvia informes de casques p\&apos;ayudar a &vendorShortName; a facer más estable y seguru\&apos;l to restolador">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informador de casques">
+<!ENTITY datareporting_wifi_title2 "Serviciu d\&apos;allugamientu de &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "¡Ayuda a &vendorShortName; a cartografiar el mundiu! Comparti l\&apos;allugamientu aproximáu de Wi-Fi y GPS del to preséu p\&apos;ameyorar el nuesu serviciu de xeollocalización.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -378,6 +410,7 @@ size. -->
 <!ENTITY downloads "Descargues">
 <!ENTITY char_encoding "Codificación de caráuteres">
 
+<!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir per">
 <!ENTITY share_image_failed "Nun pue compartise esta imaxe">
 <!ENTITY save_as_pdf "Guardar como PDF">
@@ -387,19 +420,41 @@ size. -->
 <!ENTITY page "Páxina">
 <!ENTITY tools "Ferramientes">
 <!ENTITY new_tab "Llingüeta nueva">
+<!ENTITY new_private_tab "Llingüeta privada nueva">
+<!ENTITY close_all_tabs "Zarrar toles llingüetes">
 <!ENTITY close_private_tabs "Zarrar llingüetes privaes">
 <!ENTITY tabs_normal "Llingüetes">
+<!ENTITY tabs_private "Privaes">
+<!ENTITY set_image_fail "Nun pue afitase la semeya">
+<!ENTITY set_image_path_fail "Nun pue guardase la imaxe">
+<!ENTITY set_image_chooser_title "Afitar imaxe como">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Guetar na páxina">
+<!ENTITY find_prev "Previu">
 <!ENTITY find_next "Siguiente">
 <!ENTITY find_close "Zarrar">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Unviando al preséu">
+<!ENTITY media_play "Reproducir">
+<!ENTITY media_pause "Posar">
+<!ENTITY media_stop "Parar">
 
+<!ENTITY contextmenu_open_new_tab "Abrir en llinüeta nueva">
+<!ENTITY contextmenu_open_private_tab "Abrir en llingüeta privada">
+<!ENTITY contextmenu_remove "Desaniciar">
+<!ENTITY contextmenu_add_to_launcher "Amestar a la pantalla d\&apos;aniciu">
+<!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Apegar y dir">
+<!ENTITY contextmenu_paste "Apegar">
+<!ENTITY contextmenu_copyurl "Copiar direición">
+<!ENTITY contextmenu_edit_bookmark "Editar">
+<!ENTITY contextmenu_subscribe "Soscribise a la páxina">
+<!ENTITY contextmenu_site_settings "Editar axustes del sitiu">
+<!ENTITY contextmenu_top_sites_edit "Editar">
 <!ENTITY contextmenu_top_sites_pin "Fixar sitiu">
 <!ENTITY contextmenu_top_sites_unpin "Desfixar sitiu">
 <!ENTITY contextmenu_add_search_engine "Amestar un motor de gueta">
@@ -407,11 +462,21 @@ size. -->
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[Ensin nome d\&apos;usuariu]">
+<!ENTITY doorhanger_login_edit_title "Editar aniciu de sesión">
+<!ENTITY doorhanger_login_edit_username_hint "Nome d\&apos;usuariu">
+<!ENTITY doorhanger_login_edit_password_hint "Contraseña">
+<!ENTITY doorhanger_login_edit_toggle "Amosar contraseña">
+<!ENTITY doorhanger_login_edit_toast_error "Fallu al guardar l\&apos;aniciu de sesión">
 <!ENTITY doorhanger_login_select_message "¿Copiar contraseña de &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Contraseña copiada al cartafueyu">
 <!ENTITY doorhanger_login_select_toast_copy_error "Nun pudo copiase la contraseña">
+<!ENTITY doorhanger_login_select_action_text "Esbilla d\&apos;otru aniciu de sesión">
+<!ENTITY doorhanger_login_select_title "Copiar contraseña de">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_magnifying_glass_enabled "Aumenta árees pequeñes">
 <!ENTITY pref_magnifying_glass_enabled_summary2 "Agranda los enllaces y campos de formularios al tocar cierca d\&apos;ellos">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
@@ -419,23 +484,31 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Restolamientu a pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary2 "Anubre la barra de ferramientes de &brandShortName; al desplazate haza abaxo nuna páxina">
 
+<!ENTITY pref_tab_queue_title3 "Cola de llingüetes">
 <!ENTITY pref_tab_queue_summary4 "Guarda los enllaces fasta la próxima vegada qu\&apos;abras &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+<!ENTITY page_removed "Páxina desaniciada">
 
+<!ENTITY bookmark_edit_title "Editar marcador">
+<!ENTITY bookmark_edit_name "Nome">
 <!ENTITY bookmark_edit_location "Allugamientu">
 <!ENTITY bookmark_edit_keyword "Pallabra clave">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Axustes del sitiu">
 <!ENTITY site_settings_cancel       "Encaboxar">
+<!ENTITY site_settings_clear        "Llimpiar">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Aiciones adicionales">
 
+<!ENTITY masterpassword_create_title "Crear contraseña maestra">
+<!ENTITY masterpassword_remove_title "Desaniciar contraseña maestra">
 <!ENTITY masterpassword_password "Contraseña">
 <!ENTITY masterpassword_confirm "Confirmar contraseña">
 
@@ -443,17 +516,28 @@ size. -->
 <!ENTITY button_cancel "Encaboxar">
 <!ENTITY button_yes "Sí">
 <!ENTITY button_no "Non">
+<!ENTITY button_clear_data "Llimpiar datos">
+<!ENTITY button_set "Afitar">
+<!ENTITY button_clear "Llimpiar">
 <!ENTITY button_copy "Copiar">
 
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Amiesta un sitiu">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Aniciu de &brandShortName;">
+<!ENTITY home_history_title "Historia">
+<!ENTITY home_history_back_to "Volver a tola historia">
 <!ENTITY home_clear_history_button "Llimpiar historia de restolar">
+<!ENTITY home_clear_history_confirm "¿De xuru que quies llimpiar la to historia?">
 <!ENTITY home_bookmarks_empty "Equí amosaránse los tos marcadores.">
 <!ENTITY home_closed_tabs_title "Llingüetes zarraes apocayá">
+<!ENTITY home_last_tabs_title "Llingüetes de la cabera vegada">
+<!ENTITY home_last_tabs_empty "Equí amosaránse les to llingüetes recientes.">
 <!ENTITY home_open_all "Abrir too">
+<!ENTITY home_most_recent_empty "Equí amosaránse los sitios web que más visitares.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Oi... Usar una &formatS1;llingüeta privada nueva&formatS2; nun guardará la to historia.">
@@ -479,10 +563,18 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Amosar preseos esbillaos">
 
 <!ENTITY remote_tabs_panel_moved_title "¿Ánde foron les mios llingüetes?">
+<!ENTITY remote_tabs_panel_moved_desc "Movimos les tos llingüetes d\&apos;otros preseos a un panel na to páxina d\&apos;aniciu que pue accedese cenciellamente cada vegada qu\&apos;abras una llingüeta nueva.">
+<!ENTITY remote_tabs_panel_moved_link "Lleváime al mio panel nuevu.">
 
+<!ENTITY pin_site_dialog_hint "Introduz una pallabra clave de gueta">
 
+<!ENTITY filepicker_title "Escoyer ficheru">
+<!ENTITY filepicker_audio_title "Escoyer o grabar un soníu">
+<!ENTITY filepicker_image_title "Escoyer o facer una semeya">
+<!ENTITY filepicker_video_title "Escoyer o grabar un videu">
 
 <!-- Site identity popup -->
+<!ENTITY identity_connected_to "Tas coneutáu a">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -496,20 +588,37 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexón segura">
 <!ENTITY identity_connection_insecure "Conexón insegura">
+<!ENTITY identity_login_insecure "Esta páxina nun ye segura y el to aniciu de sesión quiciabes seya vulnerable.">
+<!ENTITY identity_connection_chromeui "Esta ye una páxina segura de &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; bloquió conteníu inseguru nesta páxina.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; bloquió daqué conteníu inseguru nesta páxina.">
+<!ENTITY mixed_content_display_loaded1 "Partes d\&apos;esta páxina nun son segures (como imáxenes).">
 <!ENTITY mixed_content_protection_disabled1 "Deshabilitesti la proteición de conteníu inseguru.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "Proteición de rastrexu">
+<!ENTITY doorhanger_tracking_state_enabled "Habilitada">
+<!ENTITY doorhanger_tracking_state_disabled "Deshabilitada">
 <!ENTITY doorhanger_tracking_message_enabled1 "Bloquiáronse intentos de rastrexar el to comportamientu en llinia.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Esta páxina inclúi elementos que quiciabes rastrexen la to navegación.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Depriendi más">
+<!ENTITY enable_protection "Habilitar proteición">
+<!ENTITY disable_protection "Deshabilitar proteición">
 
 <!ENTITY private_data_success "Llimpiáronse los datos privaos">
 <!ENTITY private_data_fail "Nun pudieron llimpiase dellos datos privaos">
 
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "Importando marcadores ya historia
+                                      d\&apos;Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importando marcadores
+                                           d\&apos;Android">
+<!ENTITY bookmarkhistory_import_history "Importando historia
+                                         d\&apos;Android">
 <!ENTITY bookmarkhistory_import_wait "Espera por favor...">
 
 <!ENTITY suggestions_prompt3 "¿Prestaríate activar les suxerencies de gueta?">
@@ -524,6 +633,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Guetar &formatS1; pa &formatS2;">
 
 <!ENTITY searchable_description "Marcadores ya historia">
 
@@ -542,11 +652,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Pa baxar ficheros y anovamientos, da-y el permisu d\&apos;accesu al almacenamientu a &brandShortName;.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Permitir">
 
     <!-- Guest mode -->
+<!ENTITY new_guest_session "Sesión de convidáu nueva">
+<!ENTITY exit_guest_session "Colar de sesión de convidáu">
 <!ENTITY guest_session_dialog_continue "Siguir">
 <!ENTITY guest_session_dialog_cancel "Encaboxar">
+<!ENTITY new_guest_session_title "Agora &brandShortName; reaniciaráse">
+<!ENTITY new_guest_session_text2 "La persona que la use nun sedrá a ver datos personales de restolar de to (como anicios de sesión guardaos, historia o marcadores).\n\nCuando\&apos;l to convidáu/ada fine, desaniciaránse los sos datos de restolar y restauraráse la to sesión.">
+<!ENTITY guest_browsing_notification_title "Habilitóse\&apos;l restolar de convidáu">
 <!ENTITY guest_browsing_notification_text "Calca pa colar">
 
 <!ENTITY exit_guest_session_title "&brandShortName; va reaniciase">
@@ -582,7 +699,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Cabera sincronización: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Cabera sincronización: enxamás">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -610,24 +729,34 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Estensiones">
+<!ENTITY restrictable_feature_addons_installation_description "Amiesten carauterístiques o funcionalidaes a Firefox. Nota: les estensiones puen deshabilitar ciertes restricciones.">
 <!ENTITY restrictable_feature_private_browsing "Restolar en privao">
 <!ENTITY restrictable_feature_private_browsing_description "Permite a familiares restolar ensin guardar información tocante a los sitios y páxines que visitaren.">
+<!ENTITY restrictable_feature_clear_history "Llimpiar historia">
 <!ENTITY restrictable_feature_clear_history_description "Permite a familiares desaniciar información tocante a los sitios y páxines que visitaren.">
 <!ENTITY restrictable_feature_advanced_settings "Axustes avanzaos">
+<!ENTITY restrictable_feature_advanced_settings_description "Esto inclúi la importación de marcadores, restauración de llingüetes y anovamientos automatizaos. Desactívalo p\&apos;axustes acenciellaos pa cualesquier familiar.">
 <!ENTITY restrictable_feature_camera_microphone "Cámara y micrófonu">
+<!ENTITY restrictable_feature_camera_microphone_description "Permite a los familiares participar na comunicación en tiempu real con sitios web.">
+<!ENTITY restrictable_feature_block_list "Llistáu de bloquéu">
+<!ENTITY restrictable_feature_block_list_description "Bloquia sitios web qu\&apos;inclúin conteníu sensible.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!ENTITY bookmarks_about_browser "Firefox: Tocante al to restolador">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Sofitu">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "L\&apos;ayuda y sofitu de Firefox tán restrixíos a perfiles en tabletes d\&apos;Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Depriendi la web: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_title2 "&brandShortName; yá nun s\&apos;anovará">
 <!ENTITY eol_notification_summary "Calca pa deprender más">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
@@ -635,6 +764,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ta anováu">
 <!ENTITY whatsnew_notification_summary "Descubri qué hai nuevo nesta versión">
 
+<!ENTITY promotion_add_to_homescreen "Amestar a la pantalla d\&apos;aniciu">
 
 <!ENTITY helper_first_offline_bookmark_title "Lleer fuera de llinia">
 <!ENTITY helper_first_offline_bookmark_message "Alcuentra los elementos del to visor de llectura en marcadores, inclusu fuera de llinia.">
