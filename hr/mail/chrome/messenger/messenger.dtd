@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "e">
 <!ENTITY compactVersion.label "Zbijeni prikaz">
 <!ENTITY compactVersion.accesskey "Z">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sortiraj prema">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Uredi kao novu poruku">
 <!ENTITY editAsNewMsgCmd.accesskey "e">
 <!ENTITY editAsNewMsgCmd.key "e">
+
+
 <!ENTITY createFilter.label "Stvori filter iz poruke…">
 <!ENTITY createFilter.accesskey "v">
 <!ENTITY moveMsgToMenu.label "Premjesti u">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "v">
 <!ENTITY contextEditMsgAsNew.label "Uredi kao novu poruku">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
+
 <!ENTITY contextArchive.label "Arhiviraj">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odgovori samo pošiljatelju">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Kopiraj u">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignoriraj temu">
+
 <!ENTITY contextKillThreadMenu.accesskey "g">
-<!ENTITY contextKillSubthreadMenu.label "Ignoriraj podtemu">
+
 <!ENTITY contextWatchThreadMenu.label "Prati temu">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Spremi kao…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Ispis…">
