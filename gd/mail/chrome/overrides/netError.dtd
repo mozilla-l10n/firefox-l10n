@@ -22,6 +22,8 @@
 <!ENTITY fileNotFound.title "Cha deach am faidhle a lorg">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Dèan cinnteach nach eile litrichean mòra no beaga san àite chearr no mearachdan litreachaidh eile.</li> <li>Saoil an deach am faidhle a ghluasad, a sguabadh às no gun deach ainm ùr a chur air?</li> </ul>">
 
+
+
 <!ENTITY generic.title "Mo chreach!">
 <!ENTITY generic.longDesc "<p>Chan urrainn do &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
 
@@ -71,18 +73,6 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Dh'fhaodadh gur e duilgheadas le rèiteachadh an fhrithealaiche a tha ann no gubheil cuideigin a' feuchainn ri gabhail orra gur iadsan am frithealaiche.</li> <li>Ma chaidh agad air ceangal a dhèanamh ris an fhrithealaiche seo roimhe, 'smathaid nach mair a' mhearachd agus feuch ris a-rithist an ceann tamaill.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Dh'fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang.Feuch ris a-rithist an ceann tamaill.</li> <li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal a' choimpiutairagad ris an lìonra.</li> <li>Ma tha an coimpiutair no an lìonra agad 'ga dhìon le chachaileth-theine noprogsaidh, dèan cinnteach gu bheil cead aig &brandShortName; ceangal ris an lìon.</li> </ul>">
-
-<!ENTITY malwareBlocked.title "Tha amharas gur e làrach ionnsaighe a tha seo!">
-<!ENTITY malwareBlocked.longDesc "<p>Feuchaidh làraichean ionnsaighe ri prògraman a stàladh a ghoideas fiosrachadh prìobhaideach, a chleachdas an coimpiutair agad gus ionnsaigh a thoirt air feadhainn eile no cron a chur air an t-siostam agad.</p> <p>Ma tha làrach-lìn agad 's tu sa bheachd gun deach aithris a thoirt oirre mar làrach ionnsaighe air mhearachd, 's urrainn dhut <a href='http://www.stopbadware.org/home/reviewinfo'>ath-bhreith iarraidh</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Làrach a sgaoileas bathar-bog gun iarrtas!">
-<!ENTITY unwantedBlocked.longDesc "<p>Feuchaidh duilleagan mar seo bathar-bog a stàladh air am bi coltas foilleil agus a mì-ghnàthaicheas an siostam agam air dòighean nach iarradh tu.</p>">
-
-<!ENTITY phishingBlocked.title "Tha amharas gur e fallsaicheachd-lìn a tha seo!">
-<!ENTITY phishingBlocked.longDesc "<p>Dh’fhaodadh goid do dhearbh-aithne no foill eile èirigh dhut ma bheir thu seachad fiosrachadh pearsanta sam bith air an duilleag seo</p><p>Thèid an seòrsa seo de dh’fhallsaidheachd-lìn a chleachdadh ann an cam-ghnothach air a bheil “fiasgach” far a bheil duilleagan-lìn is puist-d a’ gabhail orra gu bheil iad ’nan tùsan earbsach.</p>">
-
-<!ENTITY forbiddenBlocked.title "Làrach thoirmisgte">
-<!ENTITY forbiddenBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo a-rèir mar a chaidh a rèiteachadh.</p>">
 
 <!ENTITY cspBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
 <!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn 's gu bheil poileasaidh tèarainteachd susbainte ann nach eil 'ga cheadachadh.</p>">
