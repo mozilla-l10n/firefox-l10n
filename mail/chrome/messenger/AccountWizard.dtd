@@ -29,7 +29,7 @@
 	1, do not translate two of "&quot;"
 	2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(par exemple « Jules César »).">
+<!ENTITY fullnameExample.label "(par exemple, « Jules César »).">
 <!ENTITY fullnameLabel.label "Votre nom :">
 <!ENTITY fullnameLabel.accesskey "V">
 

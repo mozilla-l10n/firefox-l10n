@@ -571,7 +571,7 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Transférer au format pièce jointe">
 
 <!-- Remote Content Button Popup -->
-<!ENTITY remoteContentOptionsAllowForMsg.label "Afficher le contenu distant de ce message">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Afficher le contenu distant dans ce message">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "h">
 <!ENTITY editRemoteContentSettings.label "Modifier les options pour le contenu distant…">
 <!ENTITY editRemoteContentSettings.accesskey "M">

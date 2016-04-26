@@ -13,8 +13,8 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; est disponible suivant les modalités de la ">
-<!ENTITY rights.intro-point1b "Mozilla Public License ">
-<!ENTITY rights.intro-point1c "(Licence publique Mozilla). Ceci signifie que vous pouvez utiliser, copier et distribuer &brandShortName; à d’autres personnes. Vous pouvez également modifier le code source de &brandShortName; à votre gré pour répondre à vos besoins. La Licence publique Mozilla vous autorise aussi à distribuer vos versions modifiées.">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c " (Licence publique Mozilla). Ceci signifie que vous pouvez utiliser, copier et distribuer &brandShortName; à d’autres personnes. Vous pouvez également modifier le code source de &brandShortName; à votre gré pour répondre à vos besoins. La Licence publique Mozilla vous autorise aussi à distribuer vos versions modifiées.">
 
 <!ENTITY rights.intro-point2-a "Il ne vous est cédé aucun droit ou licence sur les marques déposées de la Fondation Mozilla ou de tiers, y compris et sans limitation, sur le nom et le logo de Firefox. Vous pouvez consulter des informations complémentaires sur les marques déposées ">
 <!ENTITY rights.intro-point2-b "ici">
@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Il n’est pas recommandé de désactiver cette fonctionnalité car cela peut vous amener à naviguer sur des sites non sûrs. Si vous désirez désactiver la fonctionnalité complètement, suivez ces instructions :">
 <!ENTITY rights.safebrowsing-term1 "Ouvrez les préférences ou options de l’application">
 <!ENTITY rights.safebrowsing-term2 "Sélectionnez le panneau Sécurité">
-<!ENTITY rights.safebrowsing-term3 "Désélectionnez les options « &blockAttackSites.label; » et « &blockWebForgeries.label; »">
+<!ENTITY rights2.safebrowsing-term3 "Désélectionnez l’option « &enableSafeBrowsing.label; »">
 <!ENTITY rights.safebrowsing-term4 "Le blocage de sites malveillants est alors désactivé.">
 
 <!-- location aware browsing points for branded builds -->

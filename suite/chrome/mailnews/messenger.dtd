@@ -430,7 +430,7 @@
 <!ENTITY getMsgButton.tooltip "Relever les nouveaux messages">
 <!ENTITY newMsgButton.tooltip "Créer un nouveau message">
 <!ENTITY replyButton.tooltip "Répondre au message">
-<!ENTITY replyAllButton.tooltip "Répondre à l’expéditeur et aux autres destinataires">
+<!ENTITY replyAllButton.tooltip "Répondre à l’expéditeur et à tous les destinataires">
 <!ENTITY replyAllButtonNews.tooltip "Répondre à l’expéditeur et dans le groupe">
 <!ENTITY forwardButton.tooltip "Transférer le message sélectionné">
 <!ENTITY fileButton.tooltip "Classer les messages sélectionnés">

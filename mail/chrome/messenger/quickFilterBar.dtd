@@ -172,7 +172,7 @@
       quickFilterBar.show.key above.
       -->
  <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
-          "&lt;Ctrl+Shift+K&gt;">
+          "&lt;Ctrl+Maj+K&gt;">
 
  <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
       The description of the key-binding to get into the box on mac systems.

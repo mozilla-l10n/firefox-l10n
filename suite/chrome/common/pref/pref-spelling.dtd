@@ -10,7 +10,7 @@
 <!ENTITY multilineCheckSpelling.label         "dans les boîtes multiligne">
 <!ENTITY alwaysCheckSpelling.label            "dans toutes les boîtes">
 <!ENTITY spellForMailAndNews.label            "Courrier et groupes">
-<!ENTITY checkSpellingBeforeSend.label        "Vérifier l’orthographe avant d’envoyer">
+<!ENTITY checkSpellingBeforeSend.label        "Vérifier l’orthographe avant l’envoi">
 <!ENTITY checkSpellingBeforeSend.accesskey    "V">
 <!ENTITY spellCheckInline.label               "Vérifier l’orthographe lors de la saisie">
 <!ENTITY spellCheckInline.accesskey           "r">

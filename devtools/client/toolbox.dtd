@@ -227,7 +227,7 @@ values from browser.dtd.  -->
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Insérer automatiquement les parenthèses et les accolades fermantes">
 <!ENTITY options.sourceeditor.expandtab.label           "Indenter à l’aide d’espaces">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Utiliser des espaces à la place du caractère tabulation">
-<!ENTITY options.sourceeditor.tabsize.label             "Taille de la tabulation">
+<!ENTITY options.sourceeditor.tabsize.label             "Taille des tabulations">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Raccourcis clavier">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "R">

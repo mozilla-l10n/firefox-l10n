@@ -246,7 +246,7 @@
 <!ENTITY SmileButton.tooltip "Insérer une émoticône">
 <!ENTITY smiley1Cmd.label "Sourire">
 <!ENTITY smiley2Cmd.label "Mécontent">
-<!ENTITY smiley3Cmd.label "Clin d’oeil">
+<!ENTITY smiley3Cmd.label "Clin d’œil">
 <!ENTITY smiley4Cmd.label "Moqueur">
 <!ENTITY smiley5Cmd.label "Mort de rire">
 <!ENTITY smiley6Cmd.label "Embarrassé">

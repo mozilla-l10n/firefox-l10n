@@ -15,7 +15,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; est disponible suivant les modalités de la ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c "(Licence publique Mozilla). Ceci signifie que vous pouvez utiliser, copier et distribuer &brandShortName; à d’autres personnes. Vous pouvez également modifier le code source de &brandShortName; à votre gré pour répondre à vos besoins. La Licence publique Mozilla vous autorise aussi à distribuer vos versions modifiées.">
+<!ENTITY rights.intro-point1c " (Licence publique Mozilla). Ceci signifie que vous pouvez utiliser, copier et distribuer &brandShortName; à d’autres personnes. Vous pouvez également modifier le code source de &brandShortName; à votre gré pour répondre à vos besoins. La Licence publique Mozilla vous autorise aussi à distribuer vos versions modifiées.">
 
 <!ENTITY rights.intro-point2a "Mozilla ne vous cède aucun droit sur les marques déposées et logos Mozilla et SeaMonkey. Vous pouvez consulter des ">
 <!ENTITY rights.intro-point2b "informations complémentaires">
@@ -39,7 +39,7 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; met à disposition des services facultatifs (&quot;Services&quot;), comme la suggestion et la mise à jour de modules complémentaires ou la fonctionnalité de blocage de sites malveillants, qui sont mis à votre disposition dans cette version binaire de &brandShortName; comme décrit ci-dessous. Ces services sont activés par défaut. Si vous ne voulez pas utiliser Les Services ou si vous trouvez que les modalités ci-dessous ne sont pas acceptables, les instructions pour désactiver un service ou une fonctionnalité en particulier sont disponibles ">
+<!ENTITY rights2.webservices-a "&brandFullName; met à disposition des services facultatifs (« Services »), comme la suggestion et la mise à jour de modules complémentaires ou la fonctionnalité de blocage de sites malveillants, qui sont mis à votre disposition dans cette version binaire de &brandShortName; comme décrit ci-dessous. Ces services sont activés par défaut. Si vous ne voulez pas utiliser Les Services ou si vous trouvez que les modalités ci-dessous ne sont pas acceptables, les instructions pour désactiver un service ou une fonctionnalité en particulier sont disponibles ">
 <!ENTITY rights2.webservices-b "ici">
 <!ENTITY rights2.webservices-c ". Les autres fonctionnalités ou services peuvent être désactivés depuis les préférences de l’application.">
 
@@ -48,7 +48,7 @@
 <!ENTITY rights.addons-b "Par défaut, &brandShortName; suggèrera des modules complémentaires sur la page &view.discover.label; et recherchera des mises à jour à intervalles réguliers. Si vous souhaitez désactiver ces fonctionnalités pour éviter de communiquer au serveur des informations sur les modules installés, suivez ces instructions&#x00A0;:">
 <!ENTITY rights.addons-term1 "Ouvrez les préférences de l’application">
 <!ENTITY rights.addons-term2 "Sélectionnez le panneau &smart.label; dans la catégorie &advance.label;">
-<!ENTITY rights.addons-term3 "Décochez les options pour &quot;&autoAddOnsUpdates.label;&quot; et &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term3 "Décochez les options pour «&#x00A0;&autoAddOnsUpdates.label;&#x00A0;» et «&#x00A0;&enablePersonalized.label;&#x00A0;»">
 <!ENTITY rights.addons-term4 "Les services des modules complémentaires sont à présent désactivés">
 
 
@@ -57,7 +57,7 @@
 <!ENTITY rights.safebrowsing-b "Désactiver le blocage de sites malveillants est déconseillé car vous pourriez naviguer sur des sites non sécurisés. Si vous souhaitez désactiver la fonctionnalité complètement, suivez ces instructions&#x00A0;:">
 <!ENTITY rights.safebrowsing-term1 "Ouvrez les préférences de l’application">
 <!ENTITY rights.safebrowsing-term2 "Sélectionnez le panneau &security.label;">
-<!ENTITY rights.safebrowsing-term3 "Décochez les options pour &quot;&blockAttackSites.label;&quot; et &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term3 "Décochez les options pour «&#x00A0;&blockAttackSites.label;&#x00A0;» et «&#x00A0;&blockWebForgeries.label;&#x00A0;»">
 <!ENTITY rights.safebrowsing-term4 "Le blocage de sites malveillants est à présent désactivé">
 
 

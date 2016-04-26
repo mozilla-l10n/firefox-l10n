@@ -10,5 +10,5 @@
 <!ENTITY newsgroups.label "les groupes de discussion">
 <!ENTITY feeds.label "les flux">
 
-<!ENTITY checkOnStartup.label "Toujours faire cette vérification au démarrage de &brandShortName;">
+<!ENTITY checkOnStartup.label "Toujours effectuer cette vérification au démarrage de &brandShortName;.">
 <!ENTITY checkOnStartup.accesskey "T">

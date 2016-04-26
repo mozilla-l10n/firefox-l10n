@@ -10,11 +10,11 @@
 
 <!ENTITY searchTermCaption.label "Configurer les critères de recherche utilisés pour ce dossier virtuel : ">
 
-<!ENTITY folderSelectionCaption.label "Choisir les dossiers dans lesquels chercher :">
+<!ENTITY folderSelectionCaption.label "Choisir les dossiers dans lesquels rechercher :">
 <!ENTITY chooseFoldersButton.label "Choisir…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
-<!ENTITY searchOnline.label "Chercher en ligne (résultats plus à jour sur les dossiers IMAP et groupes mais temps d’ouverture du dossier plus grand)">
+<!ENTITY searchOnline.label "Rechercher en ligne (donne des résultats à jour pour les dossiers IMAP et les dossiers de groupes mais augmente le temps d’ouverture du dossier)">
 <!ENTITY searchOnline.accesskey "l">
 <!ENTITY newFolderButton.label "Créer">
 <!ENTITY newFolderButton.accesskey "r">
