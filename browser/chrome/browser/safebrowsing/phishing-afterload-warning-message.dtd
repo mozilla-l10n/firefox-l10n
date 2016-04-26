@@ -6,6 +6,11 @@
 <!ENTITY safeb.palm.decline.label "Ohita tämä varoitus">
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.notdeceptive.label "Tämä ei ole petollinen sivusto…">
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
+<!ENTITY safeb.palm.notdeceptive.accesskey "p">
 <!ENTITY safeb.palm.reportPage.label "Miksi tämä sivu on estetty?">
 <!ENTITY safeb.palm.whyForbidden.label "Miksi tämä sivu on estetty?">
 
