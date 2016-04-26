@@ -38,6 +38,12 @@
 <li>请检查文件是否已被移动，重命名或删除。</li> 
 </ul>">
 
+<!ENTITY fileAccessDenied.title "访问该文件被拒绝">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>它可能已被移除或移动，或者没有访问该文件的权限。</li>
+</ul>
+">
 
 <!ENTITY generic.title "哎呀。">
 <!ENTITY generic.longDesc "<p>&brandShortName; 因未知原因无法载入此页面。</p>">
@@ -163,3 +169,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "高级信息: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "您的连接不安全">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用的安全技术已过时并易受攻击。攻击者可能轻易读取您认为安全传输的信息。需要网站管理员先修正服务器，然后您才能访问此网站。</p><p>错误代码: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
