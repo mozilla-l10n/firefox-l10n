@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "L">
 <!ENTITY compactVersion.label "Dlúthamharc">
 <!ENTITY compactVersion.accesskey "D">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sórtáil de réir">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Cuir in eagar mar theachtaireacht nua">
 <!ENTITY editAsNewMsgCmd.accesskey "C">
 <!ENTITY editAsNewMsgCmd.key "l">
+
+
 <!ENTITY createFilter.label "Cruthaigh Scagaire ón Teachtaireacht…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Bog Go">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Cuir in Eagar Mar Theachtaireacht Nua">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+
 <!ENTITY contextArchive.label "Cuir sa chartlann">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Freagair an Seoltóir Amháin">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Cóipeáil Go">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Tabhair Neamhaird ar an Snáithe">
+
 <!ENTITY contextKillThreadMenu.accesskey "T">
-<!ENTITY contextKillSubthreadMenu.label "Tabhair Neamhaird ar an bhFoshnáithe">
+
 <!ENTITY contextWatchThreadMenu.label "Bí ag Faire ar an Snáithe">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Sábháil Mar…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Priontáil…">
