@@ -6,23 +6,36 @@
 
 <!ENTITY pref.content.title                     "Conteúdo">
 <!ENTITY pref.content.description               "Estas definições influenciam como um website e o conteúdo de mensagens aparecem no &brandShortName;.">
+
 <!ENTITY siteIcons.label                        "Ícones do website">
 <!ENTITY useSiteIcons.label                     "Mostrar ícones do website">
 <!ENTITY useSiteIcons.accesskey                 "s">
-<!ENTITY useFavIcons.label                      "Procurar agressivamente ícones do website quando a página não define nenhum">
+<!ENTITY useFavIcons.label                      "Procurar agressivamente por ícones do website quando a página não define nenhum">
 <!ENTITY useFavIcons.accesskey                  "a">
-<!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens grandes para caberem na janela do navegador">
-<!ENTITY enableAutomaticImageResizing.accesskey "R">
+
 <!ENTITY scrolling.label                        "Deslocamento">
 <!ENTITY useAutoScroll.label                    "Utilizar deslocação automática">
 <!ENTITY useAutoScroll.accesskey                "t">
 <!ENTITY useSmoothScroll.label                  "Utilizar deslocação suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
-<!ENTITY allowHWAccel.label                     "Se disponível, utilizar aceleração por hardware">
-<!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY textZoomOnly.label                     "Ampliar apenas o texto em vez de toda a página">
-<!ENTITY textZoomOnly.accesskey                 "A">
-<!ENTITY blockAutoRefresh.label                 "Avisar-me quando websites tentam redirecionar ou recarregar a página">
-<!ENTITY blockAutoRefresh.accesskey             "w">
+
+<!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
+     single hbox with minZoom.label preceding the minZoom control and
+     maxZoom.label preceding the maxZoom control; percent.label shows
+     the ASCII '%' character at the end of that string -->
+
+
+
+
+
 <!ENTITY siteSpecific.label                     "Memorizar nível de ampliação por site">
 <!ENTITY siteSpecific.accesskey                 "m">
+<!ENTITY textZoomOnly.label                     "Ampliar apenas o texto em vez de toda a página">
+<!ENTITY textZoomOnly.accesskey                 "A">
+<!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens grandes para caberem na janela do navegador">
+<!ENTITY enableAutomaticImageResizing.accesskey "R">
+
+<!ENTITY allowHWAccel.label                     "Se disponível, utilizar aceleração por hardware">
+<!ENTITY allowHWAccel.accesskey                 "e">
+<!ENTITY blockAutoRefresh.label                 "Avisar-me quando websites tentam redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.accesskey             "w">
