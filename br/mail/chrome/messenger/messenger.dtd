@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "v">
 <!ENTITY compactVersion.label "Gwel fetis">
 <!ENTITY compactVersion.accesskey "f">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Rummañ dre">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Embann evel ur gemennadenn nevez">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
+
+
 <!ENTITY createFilter.label "Sevel ur sil diouzh ar gemennadenn…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Dilec'hiañ etrezek">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "z">
 <!ENTITY contextEditMsgAsNew.label "Embann evel ur gemennadenn nevez">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+
 <!ENTITY contextArchive.label "Diellaouiñ">
 <!ENTITY contextArchive.accesskey "i">
 <!ENTITY contextReplySender.label "Respont d'ar c'haser hepken">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Eilañ etrezek">
 <!ENTITY contextCopyMsgMenu.accesskey "k">
 <!ENTITY contextKillThreadMenu.label "Leuskel an neudenn a-gostez">
+
 <!ENTITY contextKillThreadMenu.accesskey "n">
-<!ENTITY contextKillSubthreadMenu.label "Leuskel an isneudenn a-gostez">
+
 <!ENTITY contextWatchThreadMenu.label "Evezhiañ an neudenn">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Enrollañ evel…">
 <!ENTITY contextSaveAs.accesskey "E">
 <!ENTITY contextPrint.label "Moullañ…">

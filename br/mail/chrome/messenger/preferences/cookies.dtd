@@ -19,6 +19,7 @@
 <!ENTITY props.secure.label                "Kaset evit:">
 <!ENTITY props.expires.label               "Termenañ a ra:">
 
+
 <!ENTITY window.title                      "Toupinoù">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "f">
