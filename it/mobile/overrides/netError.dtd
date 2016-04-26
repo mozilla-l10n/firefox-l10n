@@ -146,3 +146,5 @@
 <!ENTITY sslv3Used.longDesc "Informazioni avanzate: SSL_ERROR_UNSUPPORTED_VERSION">
 <!ENTITY weakCryptoUsed.title "Questa connessione non è sicura">
 <!ENTITY weakCryptoUsed.longDesc "Informazioni avanzate: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY inadequateSecurityError.title "Connessione non sicura">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilizza una tecnologia di sicurezza obsoleta e vulnerabile. Un tentativo di attacco potrebbe facilmente compromettere informazioni considerate sicure. L’amministratore del sito web deve aggiornare la configurazione del server prima di poterlo visitare.</p><p>Codice di errore: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
