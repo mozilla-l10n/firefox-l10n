@@ -15,8 +15,8 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies "cookie">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "file temporanei">
 <!ENTITY aboutPrivateBrowsing.info.saved.before "Mentre">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize "vengono salvati">
-<!ENTITY aboutPrivateBrowsing.info.saved.after ":">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize "vengono salvati:">
+<!ENTITY aboutPrivateBrowsing.info.saved.after "">
 <!ENTITY aboutPrivateBrowsing.info.downloads "download">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "segnalibri">
 <!ENTITY aboutPrivateBrowsing.note.before "La navigazione anonima ">
@@ -25,5 +25,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2 "Ulteriori informazioni sulla ">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title "navigazione anonima">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
-<!ENTITY trackingProtection.description2 "Alcuni siti web utilizzano elementi traccianti in grado di monitorare l’attività degli utenti su Internet. Grazie alla protezione antitracciamento è possibile bloccare molti elementi che altrimenti potrebbero raccogliere informazioni sulle abitudini di navigazione.">
+<!ENTITY trackingProtection.description2 "Alcuni siti web utilizzano elementi traccianti in grado di seguire l’attività degli utenti su Internet. Grazie alla protezione antitracciamento è possibile bloccare molti di questi strumenti, impedendo la raccolta di informazioni sulle abitudini di navigazione dei visitatori.">
 <!ENTITY trackingProtection.startTour1 "Scopri come funziona">
