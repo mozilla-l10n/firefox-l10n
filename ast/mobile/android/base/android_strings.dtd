@@ -250,6 +250,7 @@
 <!ENTITY pref_whats_new_notification_summary "Depriendi más tocante a les carauterístiques nueves dempués d\&apos;anovar">
 
 <!ENTITY tracking_protection_prompt_title "Agora con proteición de rastrexu">
+<!ENTITY tracking_protection_prompt_text "Bloquia activamente los elementos de rastrexu pa que nun t\&apos;esmolezas.">
 <!ENTITY tracking_protection_prompt_tip_text "Visita los axustes de privacidá pa deprender más">
 <!ENTITY tracking_protection_prompt_action_button "¡Coyío!">
 
@@ -261,6 +262,7 @@
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Activa Enriba d\&apos;otres aplicaciones">
+<!ENTITY tab_queue_prompt_positive_action_button "Habilitar">
 <!ENTITY tab_queue_prompt_negative_action_button "Agora non">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
@@ -302,7 +304,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; llimpiará automáticamente los tos datos siempres qu\&apos;esbilles \u0022Colar\u0022 dende\&apos;l menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Esbilla qué datos llimpiar">
 <!ENTITY pref_plugins "Estensiones">
+<!ENTITY pref_plugins_enabled "Habilitáu">
 <!ENTITY pref_plugins_tap_to_play2 "Toca pa reproducir">
+<!ENTITY pref_plugins_disabled "Deshabilitáu">
 <!ENTITY pref_text_size "Tamañu del testu">
 <!ENTITY pref_restore_tabs "Restaurar llingüetes">
 <!ENTITY pref_restore_always "Restaurar siempres">
@@ -322,7 +326,9 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "El rápidu raposu naranxa salta penriba les tos espeutatives con más velocidá, más flexibilidá y más seguranza. Como una organización ensin ánimu de llucru, tenemos la llibertá d\&apos;innovar nel to nome ensin presión dala que te comprometa. Esto quier dicir una meyor esperiencia pa ti y un futuru destacáu pa la web.">
 
+<!ENTITY pref_media_autoplay_enabled "Permitir auto-reproducción">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web puen auto-reproducir videos y otru conteníu">
 <!ENTITY pref_zoom_force_enabled "Habilitar siempres el zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forcia l\&apos;anulación pa qu\&apos;asina pueas facer zoom en cualesquier páxina">
@@ -521,6 +527,7 @@ size. -->
 <!ENTITY button_clear "Llimpiar">
 <!ENTITY button_copy "Copiar">
 
+<!ENTITY home_top_sites_title "Sitios de davezu">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Amiesta un sitiu">
@@ -745,6 +752,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!ENTITY bookmarks_about_browser "Firefox: Tocante al to restolador">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Personalizar con estensiones">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: Sofitu">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
@@ -755,6 +763,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "¡Perdón! &brandShortName; nun furrulará nesti preséu (&formatS1;, &formatS2;). Baxa la versión correuta, por favor">
 
 <!ENTITY eol_notification_title2 "&brandShortName; yá nun s\&apos;anovará">
 <!ENTITY eol_notification_summary "Calca pa deprender más">
