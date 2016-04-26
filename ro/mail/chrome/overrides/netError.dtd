@@ -22,6 +22,8 @@
 <!ENTITY fileNotFound.title "Fișier negăsit">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
 
+
+
 <!ENTITY generic.title "Auu.">
 <!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina dintr-un motiv oarecare.</p>">
 
@@ -71,18 +73,6 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Acest lucru s-ar putea datora unei probleme în configurația serverului, sau s-ar putea ca cineva să încerce să pretindă că este acest server.</li> <li>Dacă v-ați conectat cu succes în trecut la acest server, eroarea poate fi temporară și puteți încerca din nou mai târziu.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încearcă din nou în câteva momente.</li> <li>Dacă nu poți încărca nicio pagină, verifică conexiunea la rețea a calculatorului.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
-
-<!ENTITY malwareBlocked.title "Site suspectat de atacuri!">
-<!ENTITY malwareBlocked.longDesc "<p>Site-urile de atac încearcă să instaleze programe care fură informații private, vă folosesc calculatorul pentru a ataca altele sau pentru a vă provoca pagube sistemului.</p> <p>Proprietarii site-urilor web care cred că site-ul lor a fost raportat ca unul de atac dintr-o greșeală pot <a href='http://www.stopbadware.org/home/reviewinfo'>cere o revizuire</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Site cu programe nedorite suspectat!">
-<!ENTITY unwantedBlocked.longDesc "<p>Paginile cu programe nedorite încearcă să instaleze programe care pot fi înșelătoare și vă afectează sistemul în moduri neașteptate.</p>">
-
-<!ENTITY phishingBlocked.title "Site suspectat de fals!">
-<!ENTITY phishingBlocked.longDesc "<p>Introducerea de informații personale pe această pagină ar putea rezulta în furt de identitate sau altă fraudă.</p> <p>Aceste tipuri de falsuri web sunt folosite în păcăleli cunoscute ca atacuri de tip „phishing”, în care pagini și e-mailuri frauduloase sunt folosite pentru a imita surse în care aveți încredere.</p>">
-
-<!ENTITY forbiddenBlocked.title "Site interzis">
-
 
 <!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
