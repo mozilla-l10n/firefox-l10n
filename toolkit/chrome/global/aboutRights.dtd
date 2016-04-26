@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Il n’est pas recommandé de désactiver cette fonctionnalité car cela peut vous amener à naviguer sur des sites non sûrs. Si vous désirez désactiver la fonctionnalité complètement, suivez ces instructions :">
 <!ENTITY rights.safebrowsing-term1 "Ouvrez les préférences ou options de l’application">
 <!ENTITY rights.safebrowsing-term2 "Sélectionnez le panneau Sécurité">
-<!ENTITY rights.safebrowsing-term3 "Désélectionnez les options « &blockAttackSites.label; » et « &blockWebForgeries.label; »">
+<!ENTITY rights2.safebrowsing-term3 "Désélectionnez l’option « &enableSafeBrowsing.label; »">
 <!ENTITY rights.safebrowsing-term4 "Le blocage de sites malveillants est alors désactivé.">
 
 <!-- location aware browsing points for branded builds -->
