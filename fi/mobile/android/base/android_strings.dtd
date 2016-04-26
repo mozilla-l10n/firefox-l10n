@@ -155,7 +155,7 @@
 <!ENTITY pref_category_privacy_short "Tietosuoja">
 <!ENTITY pref_category_privacy_summary3 "Seuranta, evästeet, tietojen lähettäminen">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Tietoja &brandShortName;ista, UKK:t, palaute">
+<!ENTITY pref_category_vendor_summary2 "Tietoja &brandShortName;ista, UKK, palaute">
 <!ENTITY pref_category_datareporting "Tietojen lähettäminen">
 <!ENTITY pref_learn_more "Lue lisää">
 <!ENTITY pref_category_installed_search_engines "Asennetut hakukoneet">
