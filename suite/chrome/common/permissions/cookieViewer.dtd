@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "Sütik keresése">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Név:">
@@ -28,10 +27,9 @@
 <!ENTITY     props.expires.label            "Lejárat:">
 
 <!ENTITY     treehead.sitename.label        "Webhely">
+
 <!ENTITY     treehead.status.label          "Állapot">
 <!ENTITY     windowtitle.label              "Sütikezelő">
-<!ENTITY     buttonaccept.label             "Bezárás">
-<!ENTITY     buttonaccept.accesskey         "B">
 
 <!ENTITY     blockSite.label                "Tiltás">
 <!ENTITY     blockSite.accesskey            "T">

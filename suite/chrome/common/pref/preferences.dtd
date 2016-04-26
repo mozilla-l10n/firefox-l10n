@@ -5,18 +5,23 @@
 
 <!ENTITY prefWindow.title "Beállítások">
 <!ENTITY categoryHeader "Kategória">
+
 <!ENTITY appear.label "Megjelenés">
 <!ENTITY content.label "Tartalom">
 <!ENTITY fonts.label "Betűk">
 <!ENTITY colors.label "Színek">
+<!ENTITY spellingPane.label "Helyesírás-ellenőrzés">
+
 <!ENTITY navigator.label "Böngésző">
 <!ENTITY history.label "Előzmények">
 <!ENTITY languages.label "Nyelvek">
 <!ENTITY applications.label "Segédalkalmazások">
 <!ENTITY locationBar.label "Címsor">
+<!ENTITY search.label "Internetes keresés">
 <!ENTITY tabWindows.label "Böngészőlapok">
 <!ENTITY links.label "Hivatkozások viselkedése">
-<!ENTITY offline.label "Kapcsolat nélküli munka">
+<!ENTITY download.label "Letöltések">
+
 <!ENTITY security.label "Adatvédelem és biztonság">
 <!ENTITY privatedata.label "Személyes adatok">
 <!ENTITY cookies.label "Sütik">
@@ -26,21 +31,18 @@
 <!ENTITY masterpass.label "Mesterjelszó">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Tanúsítványok">
+
 <!ENTITY sync.label "Szinkronizálás">
+
 <!ENTITY advance.label "Haladó">
-<!ENTITY down.label "Letöltés">
+<!ENTITY scriptsAndWindows.label "Parancsfájlok és bővítmények">
+<!ENTITY keynav.label "Navigálás a billentyűzettel">
+<!ENTITY findAsYouType.label "Gépelőkeresés">
 <!ENTITY cache.label "Gyorsítótár">
 <!ENTITY offlineApps.label "Webalkalmazások">
 <!ENTITY proxies.label "Proxyk">
 <!ENTITY httpnetworking.label "HTTP-beállítások">
 <!ENTITY smart.label "Szoftvertelepítés">
-<!ENTITY download.label "Letöltések">
-<!ENTITY keynav.label "Navigálás a billentyűzettel">
-<!ENTITY findAsYouType.label "Gépelőkeresés">
-<!ENTITY search.label "Internetes keresés">
-<!ENTITY policies.label "Biztonsági házirend">
 <!ENTITY mousewheel.label "Egérgörgő">
-<!ENTITY scriptsAndWindows.label "Parancsfájlok és bővítmények">
-<!ENTITY spellingPane.label  "Helyesírás-ellenőrzés">
 
 <!ENTITY focusSearch.key "f">

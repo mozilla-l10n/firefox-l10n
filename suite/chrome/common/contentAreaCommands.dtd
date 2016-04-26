@@ -149,3 +149,5 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "N">
 <!ENTITY spellAddDictionaries.label     "További szótárak letöltése…">
 <!ENTITY spellAddDictionaries.accesskey "T">
+<!-- Developer Tools -->
+
