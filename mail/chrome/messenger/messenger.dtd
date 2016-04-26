@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "D">
 <!ENTITY compactVersion.label "Golwg Cryno">
 <!ENTITY compactVersion.accesskey "G">
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Trefnu yn ôl">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Golygu fel Neges Newydd">
 <!ENTITY editAsNewMsgCmd.accesskey "G">
 <!ENTITY editAsNewMsgCmd.key "g">
+
+
 <!ENTITY createFilter.label "Creu Hidl o'r Neges…">
 <!ENTITY createFilter.accesskey "H">
 <!ENTITY moveMsgToMenu.label "Symud i">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "A">
 <!ENTITY contextEditMsgAsNew.label "Golygu fel Neges Newydd">
 <!ENTITY contextEditMsgAsNew.accesskey "N">
+
 <!ENTITY contextArchive.label "Archif">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Ateb yr Anfonwr yn Unig">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Copïo i">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Anwybyddu'r Edefyn">
+
 <!ENTITY contextKillThreadMenu.accesskey "A">
-<!ENTITY contextKillSubthreadMenu.label "Anwybyddu'r Is-Edefyn">
+
 <!ENTITY contextWatchThreadMenu.label "Gwylio'r Edefyn">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Cadw Fel…">
 <!ENTITY contextSaveAs.accesskey "a">
 <!ENTITY contextPrint.label "Argraffu…">
