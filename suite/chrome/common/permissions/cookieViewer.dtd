@@ -27,6 +27,7 @@
 <!ENTITY     props.expires.label            "过期时间：">
 
 <!ENTITY     treehead.sitename.label        "报告站点">
+<!ENTITY     treehead.scheme.label          "方案">
 <!ENTITY     treehead.status.label          "状态">
 <!ENTITY     windowtitle.label              "Cookie 管理器">
 
