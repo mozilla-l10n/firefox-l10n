@@ -797,7 +797,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "Synchronisierte Tabs">
 <!ENTITY syncedTabs.sidebar.fetching.label     "Synchronisierte Tabs werden abgerufen…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Melden Sie sich auf Ihren anderen Geräten bei Firefox an, um deren Tabs hier angezeigt zu bekommen.">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Melden Sie sich an,  um eine Liste der Tabs von Ihren anderen Geräten angezeigt zu bekommen.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Melden Sie sich an, um eine Liste der Tabs von Ihren anderen Geräten angezeigt zu bekommen.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Keine offenen Tabs">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Einstellungen von &syncBrand.shortName.label; öffnen">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
