@@ -108,3 +108,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Kokeile vikasietotilaa">
 <!ENTITY aboutSupport.restartInSafeMode.label "Käynnistä uudelleen ilman lisäosia…">
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Ominaisuudet">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostiikka">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Virheloki">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">

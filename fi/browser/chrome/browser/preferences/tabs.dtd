@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Varoita, kun usean välilehden avaaminen voi hidastaa &brandShortName;in toimintaa">
 <!ENTITY warnOpenManyTabs.accesskey   "r">
 
-<!ENTITY restoreTabsOnDemand.label        "Lataa välilehdet vasta valittaessa">
-<!ENTITY restoreTabsOnDemand.accesskey    "t">
-
 <!ENTITY switchToNewTabs.label        "Valitse linkistä avattu välilehti">
 <!ENTITY switchToNewTabs.accesskey    "i">
 
