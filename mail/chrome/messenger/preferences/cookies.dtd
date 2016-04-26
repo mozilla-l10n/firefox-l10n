@@ -19,6 +19,7 @@
 <!ENTITY props.secure.label                "Stuur met:">
 <!ENTITY props.expires.label               "Verval:">
 
+
 <!ENTITY window.title                      "Koekies">
 <!ENTITY windowClose.key                   "w">
 
