@@ -160,6 +160,8 @@
 <!ENTITY recentFolders.accesskey "R">
 
 
+
+
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sort by">
@@ -349,6 +351,8 @@
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Forward As">
 <!ENTITY forwardAsMenu.accesskey "w">
+
+
 
 
 
@@ -698,6 +702,7 @@
 
 
 
+
 <!ENTITY contextReplySender.label "Reply to Sender Only">
 <!ENTITY contextReplySender.accesskey "R">
 
@@ -726,6 +731,12 @@
 
 
 
+
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "ذخیره به نام…">
 <!ENTITY contextSaveAs.accesskey "ذ">
 <!ENTITY contextPrint.label "چاپ…">
