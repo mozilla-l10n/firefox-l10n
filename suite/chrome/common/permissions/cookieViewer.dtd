@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "Ieškoti slapukų">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Vardas:">
@@ -28,10 +27,9 @@
 <!ENTITY     props.expires.label            "Galioja iki:">
 
 <!ENTITY     treehead.sitename.label        "Svetainė">
+
 <!ENTITY     treehead.status.label          "Leidimas">
 <!ENTITY     windowtitle.label              "Slapukų tvarkytuvė">
-<!ENTITY     buttonaccept.label             "Užverti">
-<!ENTITY     buttonaccept.accesskey         "U">
 
 <!ENTITY     blockSite.label                "Neleisti">
 <!ENTITY     blockSite.accesskey            "N">
