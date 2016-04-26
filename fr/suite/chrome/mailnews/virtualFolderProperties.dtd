@@ -8,9 +8,9 @@
 <!ENTITY description.label "Créer comme sous-dossier de :">
 <!ENTITY description.accesskey "C">
 
-<!ENTITY searchTermCaption.label "Configurer le critère de recherche utilisé pour ce dossier virtuel : ">
+<!ENTITY searchTermCaption.label "Configurer les critères de recherche utilisés pour ce dossier virtuel : ">
 
-<!ENTITY folderSelectionCaption.label "Sélectionner les dossiers dans lesquels effectuer la recherche : ">
+<!ENTITY folderSelectionCaption.label "Choisir les dossiers dans lesquels rechercher : ">
 <!ENTITY chooseFoldersButton.label "Choisir…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 

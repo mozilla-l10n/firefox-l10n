@@ -112,3 +112,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Essayez en mode sans échec">
 <!ENTITY aboutSupport.restartInSafeMode.label "Redémarrer avec les modules désactivés…">
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Fonctionnalités">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostics">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Journal des échecs">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU 1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU 2">

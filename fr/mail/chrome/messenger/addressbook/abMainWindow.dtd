@@ -74,8 +74,8 @@
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "T">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Échanger nom/prénom">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "h">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Intervertir nom/prénom">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "v">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
@@ -158,7 +158,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.tooltip                          "Supprimer l’élément sélectionné">
 
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Carnet d’adresses">
+<!ENTITY dirTreeHeader.label                            "Carnets d’adresses">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Le nom ou l’adresse">
