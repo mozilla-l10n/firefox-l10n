@@ -155,6 +155,8 @@
 
 
 
+
+
 <!-- Sort Menu -->
 
 
@@ -317,6 +319,8 @@
 
 <!ENTITY cancelNewsMsgCmd.label "Atcelt ziņojumu">
 <!ENTITY cancelNewsMsgCmd.accesskey "c">
+
+
 
 
 
@@ -671,6 +675,7 @@
 
 
 
+
 <!ENTITY contextArchive.label "Arhivēt">
 <!ENTITY contextArchive.accesskey "h">
 
@@ -698,9 +703,15 @@
 
 
 <!ENTITY contextKillThreadMenu.label "Ignorēt pavedienu">
+
 <!ENTITY contextKillThreadMenu.accesskey "I">
-<!ENTITY contextKillSubthreadMenu.label "Ignorēt apakšpavedienu">
+
 <!ENTITY contextWatchThreadMenu.label "Vērot pavedienu">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Saglabāt kā…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Drukāt...">
