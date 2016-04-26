@@ -93,3 +93,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Tryb awaryjny">
 <!ENTITY aboutSupport.restartInSafeMode.label "Uruchom ponownie z wyłączonymi dodatkami…">
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Funkcje">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostyka">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Dziennik niepowodzeń">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU 1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU 2">
