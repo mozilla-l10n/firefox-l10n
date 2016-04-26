@@ -19,6 +19,7 @@
 <!ENTITY props.secure.label                "Gönderilen:">
 <!ENTITY props.expires.label               "Zaman Aşımı:">
 
+
 <!ENTITY window.title                      "Çerezler">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "f">
