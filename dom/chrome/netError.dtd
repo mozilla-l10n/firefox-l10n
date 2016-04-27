@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "ફાઇલ મળતી નથી દર્શાવતી ભૂલ">
 <!ENTITY fileNotFound.longDesc "સરનામા દ્વારા સ્પષ્ટ થતી ફાઇલ મળી શકી નહિ. તપાસો કે ફાઇલ અસ્તિત્વ ધરાવે છે અને તમારી પાસે જોવાની પૂરતી પરવાનગી છે.">
 
+
+
 <!ENTITY generic.title "અરજી પૂર્ણ કરી શકતા નથી">
 <!ENTITY generic.longDesc "પાનુ લાવી શકાયુ નહિ કારણ કે કદાચ તે અસ્તિત્વ ધરાવતુ નથી અથવા સ્થાન ખોટુ છે. <br/> ચકાસો કે સરનામુ (URL) યોગ્ય છે અને બરાબર રીતે બંધારણ થયેલુ છે.">
 
@@ -76,3 +78,6 @@
 
 <!ENTITY remoteXUL.title "દૂરસ્થ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>મહેરબાની કરીને આ સમસ્યાને તેઓને જણાવવા માટે વેબસાઇટ માલિકોનો સંપર્ક કરો.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
