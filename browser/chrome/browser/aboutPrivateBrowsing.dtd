@@ -2,53 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "Bạn đang ở cửa sổ không phải riêng tư.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Mở một cửa sổ riêng tư">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Bạn đang ở cửa sổ không phải riêng tư.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Mở một cửa sổ riêng tư">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "r">
 
-<!ENTITY privateBrowsing.title                 "Duyệt web Riêng tư">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
-     Width of the Private Browsing section. This should depend primarily on the
-     length of the headers and text, but should be roughly 1.5 times the width
-     of the Tracking Protection section, and in general not much larger than
-     30em to prevent the sections from wrapping on smaller window sizes.
-     -->
-
-<!ENTITY aboutPrivateBrowsing.width1           "30em">
-<!ENTITY aboutPrivateBrowsing.title            "Bạn đang duyệt web ở chế độ riêng tư">
-
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "Không lưu">
-<!ENTITY aboutPrivateBrowsing.info.history     "Nhật ký">
-<!ENTITY aboutPrivateBrowsing.info.searches    "Từ khóa tìm kiếm">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Tập tin tạm thời">
-
-<!ENTITY aboutPrivateBrowsing.info.saved       "Có lưu">
-<!ENTITY aboutPrivateBrowsing.info.downloads   "Tập tin tải về">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Trang đánh dấu">
-
-<!ENTITY aboutPrivateBrowsing.note1            "Xin lưu ý rằng nhà cung cấp Internet hoặc công ty của bạn vẫn có thể biết những trang bạn truy cập.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Tìm hiểu thêm.">
-<!-- LOCALIZATION NOTE (trackingProtection.width1):
-     Width of the Tracking Protection section. It is fine for the enabled or
-     disabled indicator or the words in the title to wrap to the next line, but
-     you can expand or reduce this section to fit better, as long as the width
-     of the Private Browsing section is roughly 1.5 times the width of this one.
-     Note that the required space may vary between platforms because fonts are
-     different, so testing on Windows, Mac, and Linux is encouraged.
-     -->
-
-<!ENTITY trackingProtection.width1             "22em">
-<!ENTITY trackingProtection.title              "Chống theo dõi">
-<!-- LOCALIZATION NOTE (trackingProtection.state.width):
-     Width of the element representing the enabled or disabled indicator.
-     -->
-
-<!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "BẬT">
-<!ENTITY trackingProtection.state.disabled     "TẮT">
 
 
-<!ENTITY trackingProtection.disable            "Tắt chế độ Chống theo dõi">
-<!ENTITY trackingProtection.enable             "Bật chế độ chống theo dõi">
-<!ENTITY trackingProtection.startTour1         "Xem tính năng này hoạt động như thế nào">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY trackingProtection.title                        "Chống theo dõi">
+
+
