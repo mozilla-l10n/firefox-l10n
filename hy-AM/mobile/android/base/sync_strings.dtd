@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Կցապիտակներ">
 <!ENTITY bookmarks.folder.toolbar.label "Էջանիշերի Վահանակ">
-
+<!ENTITY bookmarks.folder.other.label "Այլ Էջանիշեր">
 <!ENTITY bookmarks.folder.desktop.label "Էջանիշեր">
 <!ENTITY bookmarks.folder.mobile.label "Բջջային էջանիշեր">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -75,7 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "Ծառայության պայմանները">
+<!ENTITY fxaccount_status_linkprivacy2 "Գաղտնիության ծանուցում">
 <!ENTITY fxaccount_status_more "Ավելին&ellipsis;">
 <!ENTITY fxaccount_remove_account "Անջատել&ellipsis;">
 
