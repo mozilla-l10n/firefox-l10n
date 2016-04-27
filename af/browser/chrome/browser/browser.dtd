@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Teken in op hierdie bladsy…">
 <!ENTITY addCurPagesCmd.label "Boekmerk alle oortjies…">
 <!ENTITY showAllBookmarks2.label "Wys alle boekmerke">
-<!ENTITY unsortedBookmarksCmd.label "Ongeliasseerde boekmerke">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Wys meer boekmerke">
 
 <!ENTITY backCmd.label                "Terug">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Bestuur aanmeldinligting">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Merk as die wagwoord gestoor moet word">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Wys die program se installasieboodskap">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Bestuur die gebruik van inproppe op dié blad">
 
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Boekmerke">
-<!ENTITY bookmarksMenuButton.unsorted.label "Ongeliasseerde boekmerke">
+
 <!ENTITY viewBookmarksSidebar2.label        "Wys boekmerkkantbalk">
 <!ENTITY viewBookmarksToolbar.label         "Vertoon boekmerknutsbalk">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,76 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webontwikkelaar">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-<!ENTITY devtoolsConnect.label        "Koppel…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Foutkonsole">
-<!ENTITY errorConsoleCmd.accesskey    "k">
-
-<!ENTITY remoteWebConsoleCmd.label    "Afgeleë webkonsole">
-
-<!ENTITY browserConsoleCmd.label      "Blaaierkonsole">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
-
 <!ENTITY inspectContextMenu.label     "Inspekteer element">
 <!ENTITY inspectContextMenu.accesskey "n">
-
-<!ENTITY responsiveDesignTool.label   "Reaktiewe ontwerpsaansig">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Oogdrupper">
-<!ENTITY eyedropper.accesskey "O">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Rofwerk">
-<!ENTITY scratchpad.accesskey         "R">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Blaaiergereedskap">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Sluit ontwikkelingsnutsbalk">
-<!ENTITY devToolbarMenu.label              "Ontwikkelingsnutsbalk">
-<!ENTITY devToolbarMenu.accesskey          "O">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Gereedskap aan/af">
-<!ENTITY devToolboxMenuItem.accesskey      "G">
-
-
-<!ENTITY devToolbarToolsButton.tooltip     "Ontwikkelaargereedskap aan/af">
-<!ENTITY devToolbarOtherToolsButton.label  "Meer gereedskap">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Kry meer nutsgoed">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label         "Lêer"> 
 <!ENTITY fileMenu.accesskey       "L">
@@ -355,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Knip">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "p"> 
-<!ENTITY copyCmd.label            "Kopieer">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
+
 <!ENTITY pasteCmd.label           "Plak">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -407,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Open Hulpkieslys">
 
 <!ENTITY appMenuRemoteTabs.label "Gesinkroniseerde oortjies">
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
@@ -415,6 +346,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-voorkeure">
 
 <!ENTITY appMenuRemoteTabs.signin.label "Meld aan by Sync">
@@ -760,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "U verbinding aan dié werf is nie privaat nie. Inligting wat ingedien word kan deur ander gesien word (bv. wagwoorde, boodskappe, kredietkaartnommers, ens.)">
 <!ENTITY identity.description.insecureLoginForms "Die aanmeldinligting wat u op hierdie bladsy intik, is nie beveilig nie en kan gekompromitteer word. ">
 <!ENTITY identity.description.weakCipher "U verbinding aan dié werf gebruik swak enkripsie en is nie privaat nie.">
-<!ENTITY identity.description.weakCipher2 "Ander mense kan u inligting sien of die webwerf se gedrag verander.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; het dele van dié blad geblok wat nie beveilig is nie.">
 <!ENTITY identity.description.passiveLoaded "U verbinding is nie privaat nie en inligting wat met die werf gedeel word kan deur ander gesien word.">
 <!ENTITY identity.description.passiveLoaded2 "Dié webwerf bevat inhoud wat nie beveilig is nie (soos beelde).">
@@ -793,8 +725,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 

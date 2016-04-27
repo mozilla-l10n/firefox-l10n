@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Lêer nie gevind nie">
 <!ENTITY fileNotFound.longDesc "<ul><li>Kan dit wees dat die item hernoem, verwyder of verskuif is?</li><li>Is daar 'n spelfout, kasfout of ander skryffout in die adres?</li><li>Het u voldoende toegangsregte vir die aangevraagde item?</li></ul>">
 
+
+
 <!ENTITY generic.title "Kan nie versoek voltooi nie">
 <!ENTITY generic.longDesc "<p>Bykomende inligting oor hierdie probleem of fout is tans onbeskikbaar.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Afgeleë XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
