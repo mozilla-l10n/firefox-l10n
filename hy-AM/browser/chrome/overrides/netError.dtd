@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "Այս հասցեն արգելափակված է">
 
 <!ENTITY dnsNotFound.title "Սպասարկիչը չի գտնվել">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Ստուգել հասցեն մուտքագրման սխալի համար, օրինակ՝ <strong>ww</strong>.example.com <strong>www</strong>.example.com-ի փոխարեն</li> <li>Եթե չի ստացվում բեռնել որևէ էջ, ստուգեք համակարգչի ցանցային կապակցումը:</li> <li>Եթե ձեր համակարգիչը կամ ցանցը ապահովագրված է firewall-ով կամ պրոքսիով,  համոզվեք որ &brandShortName;-ին թույլատրված է միանալ ցանցին:</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "Ֆայլը չի գտնվել">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ստուգեք ֆայլի անունը մեծատառերի կամ այլ տպագրական սխալների համար:</li> <li>Ստուգեք, թե արդյոք ֆայլը չի տեղափոխվել, անվանափոխվել կամ ջնջվել:</li> </ul>">
 
 
-<!ENTITY generic.title "Վայ։">
-<!ENTITY generic.longDesc "<p>&brandShortName;ը ինչ որ պատճառով չի կարողանում բեռնել այս էջը</p>">
 
-<!ENTITY malformedURI.title "Հասցեի սխալ ձևաչափ">
-<!ENTITY malformedURI.longDesc "<ul> <li>Վեբ հասցեները սովորաբար գրվում են հետևյալ կերպ` <strong>http://www.example.com/</strong></li> <li>Համոզվեք, որ օգտագործում էք հակադարձ սլեշ (այսինքն` <strong>/</strong>):</li> </ul>">
+<!ENTITY generic.title "Վայ։">
+
+
+
 
 <!ENTITY netInterrupt.title "Կապը խզվեց">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Ավարտվել է">
-<!ENTITY notCached.longDesc "<p>Պահանջվող փաստաթուղթը հասանելի չէ &brandShortName;-ի պահոցում։</p><ul><li>Անվտանգության նկատառումներով &brandShortName;-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։ </li><li>Սեղմեք Կրկին փորձել՝ վերապահանջելու փաստաթուղթը վեբ կայքից։</li></ul>">
+
 
 <!ENTITY netOffline.title "Անցանց եղանակ">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Սեղմեք&quot;Կրկին փորձել&quot;` անցնելու համար առցանց եղանակի և էջը վերաբացելու համար:</li> </ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "Կապի հաստատման ժամանակը սպառվեց">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Հասցեն անհասկանալի էր">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Այս հասցեն բացելու համար ձեզ հավանաբար անհրաժեշտ է ձեռք բերել այլ ձրագիր:</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Պրոքսի սպասարկիչը մերժում է ընդունել կապը">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "Չի ստացվում գտնել պրոքսի սպասարկիչը">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Ստուգեք պրոքսի կարգավորումները՝ համոզվելու համար դրանք ճիշտ են:</li> <li>Ստուգեք և համոզվեք, որ համակարգիչը ունի աշխատող ցանցային կապակցում:</li> <li>Եթե ձեր համակարգիչը կամ ցանցը պաշտպանված է firewall-ով կամ պրոքսիով,  համոզվեք, որ &brandShortName;-ը ունի ցացին միանալու իրավունք:</li> </ul>">
 
-<!ENTITY redirectLoop.title "Էջի սխալ վերահասցեավորում">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Այս խնդիրը երբեմն կարող է ծագել cookie-ների  անջատումից կամ մերժումից:</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Սպասարկիչի պատասխանը անհասկանալի է:">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Ստուգեք և համոզվեք, որ ձեր համակարգը ունի տեղակայված Անվտանգության  Անձնական Կառավարիչ:</li> <li>Դա կարող է լինել սպասարկիչի ոչ ստանդարտ կարգավորման արդյունք:</li> </ul>">
 
-<!ENTITY nssFailure2.title "Չհաջողվեց կատարել Պաշտպանված կապակցում">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Այն էջը, որը փորձում եք դիտել, կարող է չերևալ, որովհետև ստացված տվյալների իսկությունը  չի կարող ստուգվել:</li> <li>Խնդրում ենք կապնվել կայքի սեփականատերերի հետ՝ նրանց տեղյակ պահելու այս խնդրի մասին:</li> </ul>">
 
-<!ENTITY nssBadCert.title "Չհաջողվեց կատարել Պաշտպանված կապակցում">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Այս խնդիրը կարող է կապված լինել սպասարկիչի կարգավորման հետ, կամ հնարավոր է,  որ որևէ մեկը փորձում է որպես սպասարկիչ հանդես գալ:</li> <li>Եթե դուք միացել եք այս սպասարկիչին հաջողությամբ անցյալում, սխալը կարող է  ժամանակավոր բնույթ կրել և կարող եք կրկին փորձել ավելի ուշ:</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>Հնարավոր է կայքը անհասանելի է կամ գերբեռնված է: Կրկին փորձեք մի քանի րոպե  անց:</li> <li>Եթե չի ստացվում բացել որևէ էջ, ստուգեք ձեր համակարգչի  ցանցային միացումը:</li> <li>Եթե ձեր համակարգիչը կամ ցանցը ապահովագրված է firewall-ով, համոզվեք, որ  &brandShortName;-ը ունի ցանցին միանալու արտոնություն:</li> </ul>">
 
 <!ENTITY cspBlocked.title "Արգելափակվել է Կոնտենտի Անվտանգության Քաղաքականության կողմից">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;­­-ը խոչնդոտեց այս էջի բեռնավորումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է նման բեռնավորումը</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Ընթացիկ էջը չի կարող ցուցադրվել, քանզի տեղի է ունեցնել փոխանցման սխալ։</p><ul><li>Կապնվեք վեբ կայիք հեղինակների հետ՝ նրանց այս մասին հաղորդելու համար։</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Կամ դուք կարող էք ավելացնել բացառություն…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Դո՛ւրս բեր ինձ այստեղից">
 <!ENTITY securityOverride.exceptionButtonLabel "Ավելացնել Բացառություն...">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>Դուք չպետք է ավելացնեք բացառություն, եթե դուք օգտվում եք մի կապից, որին լիարժեք չեք վստահում, կամ եթե դուք սովոր չեք հետևել նախազգուշացմանը այս սպասարկիչի համար:</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Հաղորդեք նման սխալների մասին՝ օգնելու համար Mozilla-ին գտնելու և արգելափակելու վնասակար կայքերը">
 <!ENTITY errorReporting.learnMore "Իմանալ ավելին…">
@@ -104,10 +92,15 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Լրացուցիչ՝ SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Կապակցումը անվտանգ չէ">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Լրացուցիչ՝ SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Լրացուցիչ">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ուղարկում է անվտագության տեխնոլոգիա, որը հնացած է և խոցելի: Հարձակվող հեշտությամբ կկարողանա տեսնել այն տեղեկությունը, որը դուք համարում եք անվտանգ:">
 <!ENTITY weakCryptoAdvanced.override "(Անվտանգ չէ) Փորձում է բեռնել <span class='hostname'></span> հնացած անվտանգությամբ">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

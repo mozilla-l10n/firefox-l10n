@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Ֆայլը չի գտնվել">
 <!ENTITY fileNotFound.longDesc "<ul><li>Կարո՞ղ է նշված բանը վերանվանվել կամ տեղափոխվել է:</li><li>Արդյո՞ք ուղղագրական, մեծ փոքրատառ կամ այլ տպելասխալ կա հասցեում:</li><li>Արդյո՞ք բավական իրավասություն ունեք նշված բանի վերաբերյալ</li></ul>">
 
+
+
 <!ENTITY generic.title "Անհնար է Հարցումն Ավարտել">
 <!ENTITY generic.longDesc "<p>Այս խնդրի կամ սխալի մասին հավելյալ տեղեկություններ առայժմ առկա չեն:</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Հեռավոր XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապնվեք վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

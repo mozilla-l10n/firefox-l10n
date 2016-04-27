@@ -13,8 +13,8 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromNothing.label        "Ոչինչ չներմուծել">
-<!ENTITY importFromNothing.accesskey    "Ո">
+
+
 <!ENTITY importFromSafari.label         "Safari­-ից">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "Chrome Canary">

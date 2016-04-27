@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Տեղակայում">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "Բարի Գալուստ։ Եթե նախկինում չեք օգտագործել &syncBrand.fullName.label;-ը, ապա պետք է ստեղծեք նոր հաշիվ։">
 <!ENTITY button.createNewAccount.label "Ստեղծել նոր հաշիվ">
 <!ENTITY button.haveAccount.label      "Ես ունեմ հաշիվ">
 
 <!ENTITY setup.choicePage.title.label     "Դուք նախկինում օգտագործե՞լ եք &syncBrand.fullName.label;">
-<!ENTITY setup.choicePage.new.label       "Ես նախկինում երբեք չեմ օգտագործել &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing2.label "Ես արդեն օգտագործում եմ &syncBrand.shortName.label;-ը այլ սարքում">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Սպասարկիչ">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "Կապակցում սարքին">
 <!ENTITY addDevice.showMeHow.label          "Ցույց տվեք, թե ինչպես:">
-<!ENTITY addDevice.dontHaveDevice.label     "Սարքը ինձ հետ չի">
+
 <!ENTITY pairDevice.setup.description.label  "Ակտիվացնելու համար ընտրեք &quot;Կապակցել սարքին&quot; ձեր այլ սարքում։">
 <!ENTITY addDevice.setup.enterCode.label    "Այնուհետև մուտքագրեք հետևյալ ծածկագիրը">
 <!ENTITY pairDevice.dialog.description.label "Ակտիվացնելու համար նոր սարքը, ընտրեք &quot;Կարգ. Սինքը&quot; Ձեր սարքում։">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "Հավելումներ">
 <!ENTITY engine.addons.accesskey    "Հ">
 
-<!ENTITY choice2a.merge.main.label       "Միավորել տվյալ սարքի տվյալները &syncBrand.shortName.label;-ի տվյալներին">
 <!ENTITY choice2.merge.recommended.label "Խորհուրդ է տրվում՝">
 <!ENTITY choice2a.client.main.label      "Վերագրել այս սարքի բոլոր տվյալները &syncBrand.shortName.label;-ի տվյալներով">
-<!ENTITY choice2a.server.main.label      "Փոխարինել բոլոր այլ սարքերը սարքի տվյալներով">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Հաստատել">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label;-ը այժմ կմիացնի բոլոր սարքերի դիտարկիչների տվյալները Սինքի ձեր հաշվին։">
+
 <!ENTITY confirm.client3.label         "Զգուշացեք. &brandShortName;-ի տվյալը այս սարքում կջնջվի։">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName;-ը կպատճենի &syncBrand.fullName.label;-ի Ձեր տվյալը այս սարքում։">
 <!ENTITY confirm.server2.label         "Զգուշացում` հետևյալ սարքերը կվերագրանցվեն ձեր տեղային տվյալների միջոցով:">
