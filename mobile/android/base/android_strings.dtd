@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "&brandShortName; सुरु गर्नको लागि पर्याप्त ठाउँ उपलब्ध छैन।">
-<!ENTITY  error_loading_file "&brandShortName; चलाउन आवश्यक पर्ने फाइलहरू लोड गर्ने प्रयास गर्दा एउटा त्रुटी देखापर्यो">
-
 <!ENTITY firstrun_panel_title_welcome "स्वागतम">
 <!ENTITY  onboard_start_message3 "&brandShortName; द्वारा ब्राउज गर्नुहोस्">
 
@@ -27,12 +23,16 @@
 <!ENTITY firstrun_button_next "अर्को">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; को यो सरल सँस्करणसँग सुरक्षित र आफ्नो नियन्त्रणमा रहनुहोस्।">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "पुस्तकचिनोहरू">
 <!ENTITY  history_title "इतिहास">
-<!ENTITY  reading_list_title "पढ्ने सुची">
+
 <!ENTITY  recent_tabs_title "हालैका ट्याबहरू">
 
 <!ENTITY  switch_to_tab "ट्याबमा स्विच गर्नुहोस्">
@@ -49,12 +49,6 @@
 <!ENTITY  sending_crash_report "क्रयासको रिपोर्ट पठाउँदै\u2026">
 <!ENTITY  crash_close_label "बन्द गर्नुहोस्">
 <!ENTITY  crash_restart_label "&brandShortName; फेरि सुरू गर्नुहोस्">
-<!ENTITY  exit_label "निस्कनुहोस्">
-
-<!ENTITY  launcher_shortcuts_title "&brandShortName; वेब एपहरु">
-<!ENTITY  launcher_shortcuts_empty "कुनै वेब एपहरु फेला परेन">
-
-<!ENTITY choose_file "फाइल रोज्नुहोस्">
 
 <!ENTITY url_bar_default_text2 "खोज वा ठेगाना राख्नुहोस्।">
 
@@ -69,13 +63,20 @@
 <!ENTITY bookmark_updated "पुस्तकचिनो अपडेट गरियो">
 <!ENTITY bookmark_options "विकल्पहरू">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "हिजो">
 <!ENTITY history_week_section3 "बितेका ७ दिनहरु">
-<!ENTITY history_this_month_section "यो महिना">
 <!ENTITY history_older_section3 "६ महिना भन्दा पुरानो">
 
-<!ENTITY go "जानुहोस्">
 <!ENTITY search "खोजी गर्नुहोस्">
 <!ENTITY reload "पुन: लोड गर्नुहोस्">
 <!ENTITY forward "अगाडि">
@@ -130,9 +131,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "पुस्तकचिनो">
-<!ENTITY overlay_share_reading_list_btn_label "पढ्ने सूचीमा थप्नुहोस्">
 <!ENTITY overlay_share_bookmark_btn_label_already "पुस्तकचिनो लगाइ सकियो">
-<!ENTITY overlay_share_reading_list_btn_label_already "पहिले नै पढ्ने सूचीमा छ">
 <!ENTITY overlay_share_send_other "अर्को उपकरणहरूमा पठाउनुहोस्">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -148,14 +147,15 @@
 <!ENTITY overlay_no_synced_devices "कुनै पनि Firefox Account जडान भएका उपकरणहरू फेला परेन">
 
 <!ENTITY pref_category_search3 "खोजी गर्नुहोस्">
-<!ENTITY pref_category_search_summary "आफ्नो खोज प्रदायकहरू अनुकूलित गर्नुहोस्">
+
 <!ENTITY pref_category_accessibility "पहुँचता">
 <!ENTITY pref_category_accessibility_summary2 "पाठ आकार, जुम, आवाज इनपुट">
 <!ENTITY pref_category_privacy_short "गोपनीयता">
-<!ENTITY pref_category_privacy_summary3 "ट्रयाकिङ, कुकीहरू, डाटा विकल्प">
+
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; बारे, सोधिने प्रश्न, सुझाव">
 <!ENTITY pref_category_datareporting "डाटा विकल्पहरू">
+
 <!ENTITY pref_learn_more "अझै जान्नुहोस्">
 <!ENTITY pref_category_installed_search_engines "स्थापित खोज इन्जिनहरू">
 <!ENTITY pref_category_add_search_providers "अरू खोज प्रदायकहरू थप्नुहोस्">
@@ -168,8 +168,11 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_advanced "उन्नत">
-<!ENTITY pref_category_advanced_summary2 "ट्याब, प्लगइन, विकासक उपकरणहरू पुनःस्थापना गर्नुहोस्">
-<!ENTITY pref_developer_remotedebugging "रिमोट डिबगिङ">
+
+
+
+
+
 <!ENTITY pref_developer_remotedebugging_usb "USB मार्फत रिमोट डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi मार्फत रिमोट डिबग गर्न">
 
@@ -179,17 +182,9 @@
 <!ENTITY pref_category_home "गृह">
 <!ENTITY pref_category_home_summary "आफ्नो गृहपृष्ठ अनुकुलन गर्नुहोस्">
 <!ENTITY pref_category_home_panels "प्यानलहरु">
-<!ENTITY home_add_panel_title "नयाँ प्यानल थप्नुहोस्">
-
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "गृहपृष्ठमा \u0027&formatS;\u0027 थपियो">
-<!ENTITY pref_category_home_content_settings "सामग्री सेटिङ">
 
 
 
-<!ENTITY pref_home_suggested_sites "साइट सुझावहरु देखाउनुहोस्">
 
 
 <!ENTITY home_homepage_title "गृहपृष्ठ चयन गर्नुहोस्">
@@ -209,9 +204,13 @@
 
 
 <!ENTITY pref_header_accessibility "पहुँचता">
+
 <!ENTITY pref_header_advanced "उन्नत">
 <!ENTITY pref_header_help "मद्दत">
 <!ENTITY pref_header_vendor "&vendorShortName;">
+
+
+
 
 
 
@@ -223,7 +222,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "निषेधित">
 
 
-<!ENTITY pref_tracking_protection_title "ट्रयाकिङ सुरक्षा">
+
 
 
 
@@ -231,6 +230,8 @@
 <!ENTITY pref_tracking_protection_enabled "सक्षम पारिएको">
 
 <!ENTITY pref_tracking_protection_disabled "अक्षम पारिएको">
+
+
 
 
 
@@ -247,7 +248,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "सेटिङ्गमा जानुहोस्">
-<!ENTITY tab_queue_notification_title "&brandShortName;">
+
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -256,6 +257,15 @@
      text of a notification; we expect only one tab queued. -->
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
 
 <!ENTITY pref_char_encoding_on "मेनु देखाउनुहोस्">
 <!ENTITY pref_char_encoding_off "मेनु नदेखाउनुहोस्">
@@ -315,7 +325,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोडहरू">
 <!ENTITY pref_private_data_syncedTabs "Sync गरिएका ट्याबहरू">
 
-
 <!ENTITY pref_about_firefox "&brandShortName; बारे">
 
 <!ENTITY pref_vendor_feedback "पुनर्निवेश दिनुहोस्">
@@ -332,10 +341,10 @@ size. -->
 <!ENTITY pref_panels_move_down "तल सार्नुहोस्">
 
 
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 
-
-
-
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -361,7 +370,7 @@ size. -->
 
 
 <!ENTITY addons "एड-अनहरु">
-<!ENTITY logins "लग-इनहरू">
+
 
 <!ENTITY char_encoding "वर्ण सङ्केतन">
 
@@ -379,7 +388,6 @@ size. -->
 <!ENTITY close_all_tabs "सबै ट्याब बन्द गर्नुहोस्">
 
 <!ENTITY tabs_normal "ट्याबहरू">
-
 
 <!ENTITY set_image_fail "छवि सेट गर्न असक्षम भयो">
 <!ENTITY set_image_path_fail "छवि बचत गर्न असक्षम भयो">
@@ -412,8 +420,6 @@ size. -->
 
 
 <!ENTITY contextmenu_add_search_engine "खोजी इन्जिन थप्नुहोस्">
-<!ENTITY contextmenu_mark_read "पढेको रूपमा चिन्ह लगाउनुहोस्">
-<!ENTITY contextmenu_mark_unread "नपढेको रूपमा चिन्ह लगाउनुहोस्">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -451,19 +457,6 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_cancel       "रद्द गर्नुहोस्">
 <!ENTITY site_settings_clear        "खाली गर्नुहोस्">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!ENTITY reading_list_added3 "पढ्ने सूचीमा थपियो">
-
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "पढ्ने सूचीबाट हटाउनुहोस्">
-
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -486,6 +479,7 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "इतिहास">
+
 <!ENTITY home_clear_history_button "ब्राउजिङ इतिहास खाली गर्नुहोस्">
 
 
@@ -494,23 +488,12 @@ size. -->
 
 <!ENTITY home_open_all "सबै खोल्नुहोस्">
 
-
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_remote_tabs_title "Sync गरिएका ट्याबहरू">
-
-<!ENTITY home_remote_tabs_unable_to_connect "जडान गर्न असमर्थ">
-
-
-
-
-
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -524,7 +507,6 @@ size. -->
 
 
 
-<!ENTITY filepicker_title "फाइल रोज्नुहोस्">
 
 
 
@@ -553,7 +535,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-
 
 
 
@@ -619,7 +600,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -664,4 +644,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
+
+
 
