@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন...">
 <!ENTITY addCurPagesCmd.label "সমস্ত ট্যাব বুকমার্ক করুন...">
 <!ENTITY showAllBookmarks2.label "সকল বুকমার্ক প্রদর্শন">
-<!ENTITY unsortedBookmarksCmd.label "অবিন্যস্ত বুকমার্ক">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "অতিরিক্ত বুকমার্ক প্রদর্শন করা হবে">
 
 <!ENTITY backCmd.label                "পূর্ববর্তী">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "অ্যাপ্লিকেশন - অফলাইন স্টোরেজ বার্তা দেখুন।">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "আপনার লগইন তথ্যর পরিচালনা করুন">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "দেখুন যদি আপনি আপনার পাসওয়ার্ড সংরক্ষণ করতে চান">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "অ্যাপ্লিকেশন ইনস্টল বার্তা দেখুন">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "এই পৃষ্ঠাতে ব্যবহার করা প্লাগইন পরিচালনা করুন">
 
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "বুকমার্ক">
-<!ENTITY bookmarksMenuButton.unsorted.label "অবিন্যস্ত বুকমার্ক">
+
 <!ENTITY viewBookmarksSidebar2.label        "বুকমার্ক টুল-বার প্রদর্শন করা হবে">
 <!ENTITY viewBookmarksToolbar.label         "বুকমার্ক টুল-বার প্রদর্শন করা হবে">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,78 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ওয়েব ডিভেলপর">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F2">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-<!ENTITY devtoolsConnect.label        "সংযোগ করুন...">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "ত্রুটি কনসোল">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "দূরবর্তী ওয়েব কনসোল">
-
-<!ENTITY browserConsoleCmd.label      "ব্রাউজার কনসোল">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
-
 <!ENTITY inspectContextMenu.label     "সামগ্রী নিরীক্ষণ করুন">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "রেসপনসিভ ডিজাইন প্রদর্শন">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "আইড্রপার y">
-<!ENTITY eyedropper.accesskey "y">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "খসড়া খাতা">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "ব্রাউজার টুলবক্স">
-<!ENTITY browserToolboxMenu.accesskey "জ">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "ব্রাউজার কন্টেট &amp; টুলবক্স">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "ডিভেলপার টুল-বার বন্ধ করুন">
-<!ENTITY devToolbarMenu.label              "ডিভেলপার টুল-বার">
-<!ENTITY devToolbarMenu.accesskey          "ড">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "ট্যোগল টুলসমূ">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "ডেভেলপার টুলসমূহ ট্যোগল করুন">
-<!ENTITY devToolbarOtherToolsButton.label  "অতিরিক্ত সরঞ্জাম">
-
-<!ENTITY getMoreDevtoolsCmd.label        "অতিরিক্ত সরঞ্জাম প্রাপ্ত করুন">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "ফাইল"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -357,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "কাট করুন">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "কপি করুন">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+
 <!ENTITY pasteCmd.label           "পেস্ট করুন">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -408,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "ইতিহাস সাইড বার দেখুন">
 <!ENTITY appMenuHelp.tooltip "সাহায্য তালিকা খুলুন">
 
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
@@ -416,6 +345,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -761,7 +691,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "এই সাইট টি তে আপনার কানেক্সন নিরাপদ নয়। আপনি যে তথ্যগুলি জমা করেছেন, সেগুলি অন্ন কেউ দেখতে পেতে পারেন(পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি )।">
 <!ENTITY identity.description.insecureLoginForms "আপনার দ্বারা পৃষ্ঠাটিতে প্রবেশ করানো তথ্যগুলি নিরাপদ নয় এবং এগুলি বিপদের সম্মুখীন হতে পারে।">
 <!ENTITY identity.description.weakCipher "এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার করে এবং ব্যক্তিগত নয়।">
-<!ENTITY identity.description.weakCipher2 "অন্ন কেউ আপনার তথ্য দেখে নিয়ে সেটিকে পরিবরতন করতে পারে।">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; এই পৃষ্ঠাতে কিছু নিরাপদ নয় উপাদান অবরোধ করেছে।">
 <!ENTITY identity.description.passiveLoaded "আপনার সংযোগ সুরক্ষিত নয় এবনং সেটি অন্য কেউ দেখতে পেতে পারে।">
 <!ENTITY identity.description.passiveLoaded2 "এই ওয়েবসাইটে নিরাপদ নয় এমন সামগ্রী রয়েছে (যেমন ছবি)।">
@@ -792,8 +722,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 
