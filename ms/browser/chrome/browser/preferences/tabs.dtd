@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Ingatkan saya apabila membuka beberapa tab mungkin akan melambatkan &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "b">
 
-<!ENTITY restoreTabsOnDemand.label        "Jangan isi tab kecuali sehingga dipilih">
-<!ENTITY restoreTabsOnDemand.accesskey    "l">
-
 <!ENTITY switchToNewTabs.label        "Apabila saya membuka pautan dalam tetingkap baharu, tukar terus kepadanya">
 <!ENTITY switchToNewTabs.accesskey    "s">
 

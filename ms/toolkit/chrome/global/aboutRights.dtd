@@ -61,7 +61,7 @@
 <!ENTITY rights.safebrowsing-b "Mematikan keistimewaan Pelayaran Selamat adalah tidak digalakkan kerana boleh menyebabkan anda melayari laman-laman sesawang yang tidak selamat. Jika anda sememangnya ingin mematikan keistimewaan tersebut, ikuti langkah-langkah berikut:">
 <!ENTITY rights.safebrowsing-term1 "Buka keutamaan aplikasi">
 <!ENTITY rights.safebrowsing-term2 "Pilih pilihan keselamatan">
-<!ENTITY rights.safebrowsing-term3 "Buang tanda pilihan ke &quot;&blockAttackSites.label;&quot; dan &quot;&blockWebForgeries.label;&quot;">
+
 <!ENTITY rights.safebrowsing-term4 "semak seimbas yang selamat teleh kehilangan upaya">
 <!-- location aware browsing points for branded builds -->
 

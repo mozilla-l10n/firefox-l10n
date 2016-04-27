@@ -2,54 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "Anda kini tidak berada di privasi tetingkap.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Buka satu tetingkap sulit">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Anda kini tidak berada di privasi tetingkap.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Buka satu tetingkap sulit">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
-<!ENTITY privateBrowsing.title                 "Pelayaran Persendirian">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
-     Width of the Private Browsing section. This should depend primarily on the
-     length of the headers and text, but should be roughly 1.5 times the width
-     of the Tracking Protection section, and in general not much larger than
-     30em to prevent the sections from wrapping on smaller window sizes.
-     -->
 
-<!ENTITY aboutPrivateBrowsing.width1           "30em">
-<!ENTITY aboutPrivateBrowsing.title            "Anda melayari secara privasi">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "Tidak Simpan">
-<!ENTITY aboutPrivateBrowsing.info.history     "Sejarah">
-<!ENTITY aboutPrivateBrowsing.info.searches    "Carian">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Fail Sementara">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "Simpan">
-<!ENTITY aboutPrivateBrowsing.info.downloads   "Muat turun">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Penandabuku">
 
-<!ENTITY aboutPrivateBrowsing.note1            "Sila ambil perhatian bahawa majikan atau pembekal perkhidmatan Internet anda masih boleh menjejaki halaman yang anda lawati.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Ketahui Lanjut.">
-<!-- LOCALIZATION NOTE (trackingProtection.width1):
-     Width of the Tracking Protection section. It is fine for the enabled or
-     disabled indicator or the words in the title to wrap to the next line, but
-     you can expand or reduce this section to fit better, as long as the width
-     of the Private Browsing section is roughly 1.5 times the width of this one.
-     Note that the required space may vary between platforms because fonts are
-     different, so testing on Windows, Mac, and Linux is encouraged.
-     -->
 
-<!ENTITY trackingProtection.width1             "22em">
-<!ENTITY trackingProtection.title              "Perlindungan Penjejakan">
-<!-- LOCALIZATION NOTE (trackingProtection.state.width):
-     Width of the element representing the enabled or disabled indicator.
-     -->
 
-<!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "Hidupkan">
-<!ENTITY trackingProtection.state.disabled     "Matikan">
 
-<!ENTITY trackingProtection.description1       "Tetingkap persendirian kini menghalang sebahagian daripada halaman yang mungkin menjejaki aktiviti pelayaran anda.">
 
-<!ENTITY trackingProtection.disable            "Matikan Perlindungan Penjejakan">
-<!ENTITY trackingProtection.enable             "Hidupkan Perlindungan Penjejakan">
-<!ENTITY trackingProtection.startTour1         "Ketahui cara ia berfungsi">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY trackingProtection.title                        "Perlindungan Penjejakan">
+
+
