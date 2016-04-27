@@ -61,7 +61,7 @@
 <!ENTITY rights.safebrowsing-b "Go šitiša sebopego sa go praosa mo go bolokegilego ga go eletšwe ka ge go ka feleletša ka gore o ye disaeteng tše sa bolokegago. Ge e ba o nyaka go šitiša sebopego ka mo go feletšego, latela megato ye:">
 <!ENTITY rights.safebrowsing-term1 "Bula dikganyogo tša tirišo">
 <!ENTITY rights.safebrowsing-term2 "Kgetha kgetho ya tšhireletšego">
-<!ENTITY rights.safebrowsing-term3 "Swayolla dikgetho gore o &quot;&blockAttackSites.label;&quot; le &quot;&blockWebForgeries.label;&quot;">
+
 <!ENTITY rights.safebrowsing-term4 "Go praosa mo go bolokegilego bjale go šitišitšwe">
 <!-- location aware browsing points for branded builds -->
 

@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Faele ga ya hwetšwa">
 <!ENTITY fileNotFound.longDesc "<ul><li>Na aetheme e ka ba e reilwe gape, tlošitšwe goba e hudišitšwe?</li><li>Na go na le phošo ya mopeleto, ditlhaka-kgolo goba ya kgatišo atereseng?</li><li>Na o na le ditumelelo tšeo di lekanego tša go tsena go aetheme yeo e kgopetšwego?</li></ul>">
 
+
+
 <!ENTITY generic.title "E ka se fetše kgopelo">
 <!ENTITY generic.longDesc "<p>Tshedimošo e oketšegilego ka ga bothata bjo goba phošo gabjale ga e gona.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "XUL ya kgole">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
