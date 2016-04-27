@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Reizēm lapu ielādi var paātrināt pārceļot">
 <!ENTITY csscoverage.optimize.body2 "tagus uz lapas beigām un izveidojot jaunu inline">
-<!ENTITY csscoverage.optimize.body3 "elementu ar nepieciešamajiem stiliem pirms 'load' notikuma augšpusē. Jums ir nepieciešami sekojoši stila bloki:">
+
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

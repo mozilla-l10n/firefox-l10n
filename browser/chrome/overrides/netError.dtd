@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serveris nav atrasts">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Pārbaudiet, vai lapas adresē nav drukas kļūdu - piemēram, <strong>ww</strong>.example.com vajadzīgā <strong>www</strong>.example.com vietā.</li> <li>Ja nevarat atvērt nevienu lapu, pārbaudiet sava datora tīkla savienojumu.</li> <li>Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka &brandShortName; ir atļauts piekļūt tīmeklim.</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "Fails nav atrasts">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Pārbaudiet, vai faila vārds ir uzrakstīts pareizi un ar pareizā lieluma burtiem.</li> <li>Pārliecinieties, ka fails nav pārvietots, pārsaukts vai izdzēsts.</li> </ul>">
 
 
-<!ENTITY generic.title "Savādi gan...">
-<!ENTITY generic.longDesc "<p>Kāda nezināma iemesla dēļ &brandShortName; nevar atvērt šo lapu.</p>">
 
-<!ENTITY malformedURI.title "Adrese nav pareiza">
-<!ENTITY malformedURI.longDesc "<ul> <li>Tīmekļa lapu adreses parasti raksta kā <strong>http://www.example.com/</strong></li> <li>Pārliecinieties, ka izmantojat pareizās slīpsvītras (proti, <strong>/</strong>).</li> </ul>">
+<!ENTITY generic.title "Savādi gan...">
+
+
+
 
 <!ENTITY netInterrupt.title "Savienojums tika pārtraukts">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumenta derīguma termiņš beidzies">
-<!ENTITY notCached.longDesc "<p>Pieprasītais dokuments vairs nav pieejams  &brandShortName; kešatmiņā.</p><ul><li>Drošības apsvērumu dēļ,  &brandShortName; neveic sensitīvu dokumentu automātisku atkārtotu pieprasīšanu.</li><li>Klikšķiniet uz Mēģināt vēlreiz, lai atkārtoti pieprasītu šo dokumentu no mājas lapas.</li></ul>">
+
 
 <!ENTITY netOffline.title "Nesaistes režīms">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Nospiediet &quot;Mēģināt vēlreiz&quot; lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.</li> </ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "Savienojumam iestājās noilgums">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Adrese netika saprasta">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Iespējams, jums jāuzinstalē kāda cita programma, lai apstrādātu šī tipa adreses.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Starpniekserveris (proxy) nepieņem savienojumus">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "Nevar atrast starpniekserveri">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Pārbaudiet starpniekservera (proxy) iestatījumus.</li> <li>Pārliecinieties, ka datoram ir strādājošs tīkla savienojums.</li> <li>Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka &brandShortName; ir atļauts piekļūt tīmeklim.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Lapa netiek korekti pāradresēta">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Šo problēmu reizēm var atrisināt, deaktivējot sīkdatnes vai nepieņemot tās no šīs lapas.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Negaidīta atbilde no servera">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Pārliecinieties, ka jums ir instalēts Personiskās drošības pārvaldnieks.</li> <li>Iemesls var būt arī nestandarta servera konfigurācija.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Drošais savienojums neizdevās">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Lapu, kuru jūs šobrīd mēģināt aplūkot, nevar parādīt, jo nevar pārbaudīt tās nosūtīto datu autentiskumu.</li> <li>Lūdzu, sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Drošais savienojums neizdevās">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Tā var notikt servera konfigurācijas kļūdas dēļ, vai arī tāpēc, ka kāds mēģina izlikties par šo serveri.</li> <li>Ja pagātnē jums ir izdevies veiksmīgi savienoties ar šo serveri, šī kļūda var būt īslaicīga. Mēģiniet vēlreiz nedaudz vēlāk.</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>Lapa var būt īslaicīgi nepieejama vai pārāk aizņemta. Mēģiniet vēlreiz pēc pāris minūtēm.</li> <li>Ja nevarat atvērt nevienu lapu, pārbaudiet sava datora tīkla savienojumu.</li> <li>Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka &brandShortName; ir atļauts piekļūt tīmeklim.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Bloķē satura drošības politika">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi, jo tās drošības politika to neļauj.</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Lapu, ko mēģināt apskatīt nevar attēlot datu pārraides kļūdas dēļ.</p><ul><li>Lūdzu sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Vai arī varat pieļaut izņēmumu...">
-<!ENTITY securityOverride.getMeOutOfHereButton "Vediet mani prom no šejienes!">
 <!ENTITY securityOverride.exceptionButtonLabel "Pieļaut izņēmumu...">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>Jums nevajadzētu pieļaut izņēmumus, kad izmantojat neuzticamu savienojumu, kā arī tad, ja parasti neredzat brīdinājumus, apmeklējot šo serveri.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Ziņojiet par šādām kļūdām Mozilla, lai varētu identificēt un bloķēt kaitnieciskas lapas">
 <!ENTITY errorReporting.learnMore "Uzzināt vairāk…">
@@ -104,10 +92,15 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Papildus informācija:  ssl_error_unsupported_version">
 
-<!ENTITY weakCryptoUsed.title "Savienojums nav drošs">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Papildus informācija:  ssl_error_no_cypher_overlap">
 <!ENTITY weakCryptoAdvanced.title "Papildu">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> izmanto drošības tehnoloģiju, kas ir novecojusi un pakļauj jūs uzbrukuma riskam. Uzbrucēji var viegli iegūt informāciju, kuru uzskatījāt par drošu.">
 <!ENTITY weakCryptoAdvanced.override "(Nav drošs) Mēģiniet ielādēt <span class='hostname'></span> izmantojot novecojušu drosību">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
