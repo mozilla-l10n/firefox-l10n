@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Subscriu-me a la pàgina…">
 <!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
 <!ENTITY showAllBookmarks2.label "Mostra totes les adreces d'interès">
-<!ENTITY unsortedBookmarksCmd.label "Adreces d'interès desordenades">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
 
 <!ENTITY backCmd.label                "Enrere">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Mostra el missatge d'emmagatzematge fora de línia de les aplicacions">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Gestiona la informació d'inici de sessió">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Comprova si voleu desar la contrasenya">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Mostra el missatge d'instal·lació de l'aplicació">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Gestiona l'ús de connectors en aquesta pàgina">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Canvia l'opció de si es poden rebre notificacions d'aquest lloc">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Adreces d'interès">
-<!ENTITY bookmarksMenuButton.unsorted.label "Adreces d'interès desordenades">
+
 <!ENTITY viewBookmarksSidebar2.label        "Mostra la barra lateral de les adreces d'interès">
 <!ENTITY viewBookmarksToolbar.label         "Mostra la barra de les adreces d'interès">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desenvolupador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Processos de treball de servei">
-<!ENTITY devtoolsServiceWorkers.accesskey  "P">
-
-<!ENTITY devtoolsConnect.label        "Connecta…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Consola d'errors">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "Consola web remota">
-
-<!ENTITY browserConsoleCmd.label      "Consola del navegador">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "n">
-
 <!ENTITY inspectContextMenu.label     "Inspecciona l'element">
 <!ENTITY inspectContextMenu.accesskey "I">
-
-<!ENTITY responsiveDesignTool.label   "Vista de disseny responsiu">
-<!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Comptagotes">
-<!ENTITY eyedropper.accesskey "m">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Bloc de proves">
-<!ENTITY scratchpad.accesskey         "s">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Caixa d'eines del navegador">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Caixa d'eines de contingut del navegador">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Tanca la barra per a desenvolupadors">
-<!ENTITY devToolbarMenu.label              "Barra d'eines per a desenvolupadors">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Mostra les eines">
-<!ENTITY devToolboxMenuItem.accesskey      "e">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Mostra les eines per a desenvolupadors">
-<!ENTITY devToolbarOtherToolsButton.label  "Més eines">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Aconsegueix més eines">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label         "Fitxer"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Retalla">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Copia">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+
 <!ENTITY pasteCmd.label           "Enganxa">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "x"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Obre el menú d'ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestanyes sincronitzades">
-<!ENTITY appMenuRemoteTabs.fetching.label "S'estan obtenint les pestanyes sincronitzades…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "No hi ha cap pestanya oberta">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Inicieu la sessió al Firefox en altres dispositius per tal de veure'n aquí les pestanyes obertes.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferències del Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia la sessió al Sync">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "La connexió a aquest lloc no és privada. La informació que envieu podria ser visualitzada per altres persones (com contrasenyes, missatges, targetes de crèdit, etc.).">
 <!ENTITY identity.description.insecureLoginForms "La informació d'inici de sessió que introduïu en aquesta pàgina no és segura i podria interceptar-se.">
 <!ENTITY identity.description.weakCipher "La connexió a aquest lloc web utilitza un xifratge feble i no és privada.">
-<!ENTITY identity.description.weakCipher2 "Altres persones podrien visualitzar la informació o modificar el comportament del lloc web.">
+
 <!ENTITY identity.description.activeBlocked "El &brandShortName; ha blocat parts d'aquesta pàgina que no són segures.">
 <!ENTITY identity.description.passiveLoaded "La connexió no és privada i la informació que compartiu amb el lloc podria ser visualitzada per altres persones.">
 <!ENTITY identity.description.passiveLoaded2 "Aquest lloc web inclou contingut que no és segur (com les imatges).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Pestanyes sincronitzades">
 
 <!ENTITY syncedTabs.sidebar.label              "Pestanyes sincronitzades">
-<!ENTITY syncedTabs.sidebar.fetching.label     "S'estan obtenint les pestanyes sincronitzades…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Inicieu la sessió al Firefox en altres dispositius per tal de veure'n aquí les pestanyes obertes.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "No hi ha cap pestanya oberta">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Obre les preferències del &syncBrand.shortName.label;">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activeu la sincronització de pestanyes per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Obre aquesta pestanya">
-<!ENTITY syncedTabs.context.openTab.accesskey               "O">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Afegeix aquesta pestanya a les adreces d'interès…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "f">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Afegeix aquesta pestanya a les adreces d'interès…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "f">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
