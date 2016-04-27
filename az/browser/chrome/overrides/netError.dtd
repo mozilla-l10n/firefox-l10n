@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server tapılmadı">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Ünvanı səhv daxil etmiş ola bilərsiniz. Məsələn <strong>www</strong>.mozilla.org əvəzinə <strong>ww</strong>.mozilla.org yazılmış ola bilər.</li> <li>Digər saytları da aça bilmirsinizsə, Kompüterinizin internet bağlantısını yoxlayın.</li> <li>Əgər kompüteriniz və ya şəbəkəniz Firewall ilə qorunursa, əmin olun ki, &brandShortName; internetə giriş icazəsinə malikdir.</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "Fayl tapılmadı">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Faylın adını böyük hərf və ya digər yazı xətaları üçün yoxlayın.</li> <li>Faylın köçürülmüş, adı dəyişdirilmiş və ya silinmiş olmasını yoxlayın.</li> </ul>">
 
 
-<!ENTITY generic.title "Uups.">
-<!ENTITY generic.longDesc "<p>&brandShortName; bu səhifəni yükləyə bilmir.</p>">
 
-<!ENTITY malformedURI.title "Ünvan səhvdir">
-<!ENTITY malformedURI.longDesc "<ul> <li>Web ünvanlar əsasən <strong>http://www.example.com/</strong> kimi yazılır</li> <li>Droblardan istifadə etdiyinizə əmin olun (məs. <strong>/</strong>).</li> </ul>">
+<!ENTITY generic.title "Uups.">
+
+
+
 
 <!ENTITY netInterrupt.title "Məlumat ötürmə xətası">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Sənədin vaxtı çıxıb">
-<!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd &brandShortName; keşində mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, &brandShortName; həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi vebsaytdan yenidən istəmək üçün, Təkrar Yoxla düyməsinə klikləyin.</li></ul>">
+
 
 <!ENTITY netOffline.title "Offline bağlantı səhvi">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Onlayn rejimə keçmək və səhifəni yeniləmək üçün &quot;Təkrar Yoxla&quot; düyməsinə basın.</li> </ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "Şəbəkə gözləmə müddəti">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Naməlum əlaqə protokolu">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Bu ünvanı açmaq üçün başqa proqram quraşdırmalısınız.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy server bağlantını rədd etdi">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "Proxy-server tapılmadı">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Proxy-server seçimlərinin düzgün olduğuna əmin olun.</li> <li>Kompüterinizin aktiv şəbəkə bağlantısı olduğuna əmin olun.</li> <li>Kompüteriniz təhlükəsizlik divarı və ya proksi ilə qorunursa, &brandShortName; üçün icazələrin verildiyinə əmin olun</li> </ul>">
 
-<!ENTITY redirectLoop.title "Yönlendirmə dövrəsi">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Bu problem, əsasən, çərəzləri söndürdükdə və ya qəbul etmədikdə baş verir.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Şəbəkədən gələn cavab yanlışdır">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Sizin sistemə Şəxsi Təhlükəsizlik Meneceri quraşdırıldığına əmin olun.</li> <li>Buna serverin standart olmayan konfiqurasiyası səbəb ola bilər.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Təhlükəsiz bağlantı qurulmadı">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Açmaq istədiyiniz səhifə göstərilə bilmir, çünki alınan məlumatların doğruluğu təsdiqlənəmədi.</li> <li>Zəhmət olmasa sayt sahibləri ilə əlaqə saxlayın və bu xətadan xəbərdar edin.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Təhlükəsiz bağlantı qurulmadı">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Bu, serverin nizamlanması ilə bağlı bir problemdən ya da başqa birinin özünü server kimi göstərməsindən qaynaqlana bilər.</li> <li>Əvvəllər bu serverə uğurla bağlandınızsa problem müvəqqəti ola bilər və daha sonra yenidən açmağı yoxlaya bilərsiniz.</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>Sayt müvəqqəti olaraq qapalı ya da çox məşğul ola bilər. Bir az gözləyib təzədən yoxlayın.</li> <li>Heç bir səhifə açılmırsa, kompüterinizin internet bağlantısını yoxlayın.</li> <li>Əgər kompüteriniz ya da şəbəkəniz Firewall və ya proxy ilə qorunursa, &brandShortName; proqramının internetə bağlanma icazəsinin olduğuna əmin olun.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Məzmun təhlükəsizlik qaydaları xəbərdar etdiyi üçün bloklandı">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu səhifənin bu üsulla yüklənməsinin qarşısını aldı, çünki, səhifədə olan fayllardan birinin təhlükəsizlik siyasəti bunu qadağan edir.</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Baxmaq istədiyiniz səhifə açıla bilmir, çünki fayl ötürülməsi zamanı bir xəta baş verdi.</p><ul><li>Lütfən sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "İstəsəniz istisnalıq verin…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Məni burdan xilas et!">
 <!ENTITY securityOverride.exceptionButtonLabel "İstisnalıq ver…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>Tam güvənmədiyiniz bir internet şəbəkəsi istifadə edirsinizsə və ya bu serverdən xəbərdarlıq almağa alışmamısınızsa istisnalıq verməməlisiniz.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Bu kimi xətaları Mozillaya xəbər edərək təhlükəli saytları təyin edib bloklamaya kömək edə bilərsiz.">
 <!ENTITY errorReporting.learnMore "Ətraflı öyrən…">
@@ -104,10 +92,15 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Təkmilləşmiş məlumat: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Bağlantınız qorumalı deyil">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Təkmilləşmiş məlumat: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Təkmilləşmiş">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> vaxtı keçmiş güvənlik texnologiyasını işlədir və hücumlara qarşı qorumasızdır. Hücum edən sizin güvənilir bildiyiniz məlumatı rahatlıqla ala bilər.">
 <!ENTITY weakCryptoAdvanced.override "(Qorumalı deyil) <span class='hostname'></span> üçün köhnə qoruma ilə yenidən yükləməyi yoxla">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

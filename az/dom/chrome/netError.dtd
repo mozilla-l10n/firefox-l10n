@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Fayl tapılmadı">
 <!ENTITY fileNotFound.longDesc "<ul><li>Fayl köçürülmüş, silinmiş ya da adı dəyişmiş ola bilər.</li><li>Ünvan səhv yazılmış ola bilər.</li><li>İstədiyiniz obyektə müraciət üçün icazəniz olmaya bilər.</li></ul>">
 
+
+
 <!ENTITY generic.title "İstək yerinə yetirilə bilmir">
 <!ENTITY generic.longDesc "<p>Bu xəta və problem haqqında ətraflı məlumat mövcud deyil</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Uzaq XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfən sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

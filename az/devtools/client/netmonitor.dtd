@@ -87,6 +87,8 @@
 <!ENTITY netmonitorUI.footer.filterMedia  "Ortam">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFlash): This is the label displayed
   -  in the network details footer for the "Flash" filtering button. -->
+<!-- LOCALIZATION NOTE (netmonitorUI.footer.filterWS): This is the label displayed
+  -  in the network details footer for the "WS" filtering button. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
 
