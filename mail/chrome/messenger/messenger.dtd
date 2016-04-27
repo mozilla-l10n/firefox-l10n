@@ -143,9 +143,9 @@
 <!ENTITY messagePaneWide.accesskey "L">
 <!ENTITY messagePaneVertical.label "Amharc Ingearach">
 <!ENTITY messagePaneVertical.accesskey "I">
-<!ENTITY showFolderPaneCmd.label "Pána an Fhillteáin">
+<!ENTITY showFolderPaneCmd.label "Pána na bhFillteán">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY showFolderPaneColsCmd.label "Colúin sa Phána Fillteáin">
+<!ENTITY showFolderPaneColsCmd.label "Colúin i bPána na bhFillteán">
 <!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Pána Teachtaireachta">
 <!ENTITY showMessageCmd.accesskey "T">
@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "L">
 <!ENTITY compactVersion.label "Dlúthamharc">
 <!ENTITY compactVersion.accesskey "D">
-
-
+<!ENTITY folderPaneBar.label "Barra Uirlisí Phána na bhFillteán">
+<!ENTITY folderModeSelector.label "Amhairc Fhillteáin">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sórtáil de réir">
@@ -363,8 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Cuir in eagar mar theachtaireacht nua">
 <!ENTITY editAsNewMsgCmd.accesskey "C">
 <!ENTITY editAsNewMsgCmd.key "l">
-
-
+<!ENTITY editDraftMsgCmd.label "Cuir Dréacht in Eagar">
+<!ENTITY editDraftMsgCmd.accesskey "D">
 <!ENTITY createFilter.label "Cruthaigh Scagaire ón Teachtaireacht…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Bog Go">
@@ -720,7 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Cuir in Eagar Mar Theachtaireacht Nua">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
-
+<!ENTITY contextEditDraftMsg.label "Cuir Dréacht in Eagar">
 <!ENTITY contextArchive.label "Cuir sa chartlann">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Freagair an Seoltóir Amháin">
@@ -748,9 +748,9 @@
 <!ENTITY contextCopyMsgMenu.label "Cóipeáil Go">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Tabhair Neamhaird ar an Snáithe">
-
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "T">
-
+<!ENTITY contextKillSubthreadMenu.label "Tabhair Neamhaird ar an bhFoshnáithe">
 <!ENTITY contextWatchThreadMenu.label "Bí ag Faire ar an Snáithe">
 <!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
    In the en-US locale we ran out of access keys, so there is an empty access key for
