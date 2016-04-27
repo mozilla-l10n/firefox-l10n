@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Hapus semua riwayat pencarian dari perangkat ini?">
 <!ENTITY pref_clearHistory_title "Bersihkan riwayat pencarian">
 
-<!ENTITY pref_searchProvider_title "Mesin pencari">
-
 <!ENTITY search_widget_button_label "Cari">
 
 <!ENTITY network_error_title "Tidak ada sambungan Internet">
