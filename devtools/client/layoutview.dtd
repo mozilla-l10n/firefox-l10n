@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "বাক্স মডেল">
-<!ENTITY margin.tooltip         "মার্জিন">
-<!ENTITY border.tooltip         "সীমানা">
-<!ENTITY padding.tooltip        "প্যাডিং">
-<!ENTITY content.tooltip        "বিষয়বস্তু">
+<!ENTITY layoutViewTitle          "বাক্স মডেল">
+<!ENTITY margin.tooltip           "মার্জিন">
+<!ENTITY border.tooltip           "সীমানা">
+<!ENTITY padding.tooltip          "প্যাডিং">
+<!ENTITY content.tooltip          "বিষয়বস্তু">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
