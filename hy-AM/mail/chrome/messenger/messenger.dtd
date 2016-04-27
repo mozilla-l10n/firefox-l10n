@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Հավաք տեսք">
 <!ENTITY compactVersion.accesskey "Հ">
-
-
+<!ENTITY folderPaneBar.label "Թղթապանակի գործիքագոտի">
+<!ENTITY folderModeSelector.label "Թղթապանակի դիտումներ">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Տեսակավորել ըստ">
@@ -363,8 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Խմբագրել որպես նոր նամակ">
 <!ENTITY editAsNewMsgCmd.accesskey "Խ">
 <!ENTITY editAsNewMsgCmd.key "e">
-
-
+<!ENTITY editDraftMsgCmd.label "Խմբագրել սևագիր նամակը">
+<!ENTITY editDraftMsgCmd.accesskey "ս">
 <!ENTITY createFilter.label "Ստեղծել զտիչ նամակից...">
 <!ENTITY createFilter.accesskey "ղ">
 <!ENTITY moveMsgToMenu.label "Տեղափոխել՝">
@@ -720,7 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "ց">
 <!ENTITY contextEditMsgAsNew.label "Խմբագրել որպես նոր նամակ">
 <!ENTITY contextEditMsgAsNew.accesskey "Խ">
-
+<!ENTITY contextEditDraftMsg.label "Խմբագրել սևագիր նամակը">
 <!ENTITY contextArchive.label "Արխիվ">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Պատասխանել միայն ուղարկողին">
@@ -748,9 +748,9 @@
 <!ENTITY contextCopyMsgMenu.label "Պատճենել՝">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Անտեսել շղթան">
-
+<!ENTITY contextKillSubthreadMenu.accesskey "ա">
 <!ENTITY contextKillThreadMenu.accesskey "Ա">
-
+<!ENTITY contextKillSubthreadMenu.label "Անտեսել ենթաշղթան">
 <!ENTITY contextWatchThreadMenu.label "Հետևել շղթային">
 <!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
    In the en-US locale we ran out of access keys, so there is an empty access key for

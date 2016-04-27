@@ -22,7 +22,8 @@
 <!ENTITY fileNotFound.title "Ֆայլը չի գտնվել">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ստուգել ֆայլի անունը մեծատառերի կամ այլ տպագրական սխալների համար:</li> <li>Ստուգել՝ տեսնելու համար, թե արդյոք ֆայլը չի տեղափոխվել, վերանվանվել կամ ջնջվել:</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Մատչումը ֆայլին մերժված է">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Հնարավոր է՝ այն հեռացվել է, տեղափոխվել կամ ֆայլի թույլտվությունները կանխել են մատչումը:</li></ul>">
 
 <!ENTITY generic.title "Վայ.">
 <!ENTITY generic.longDesc "<p>&brandShortName;ը ինչ որ պատճառով չի կարողանում բացել այս էջը</p>">

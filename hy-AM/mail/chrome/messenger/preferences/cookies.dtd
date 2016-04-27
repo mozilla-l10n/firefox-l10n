@@ -18,7 +18,7 @@
 <!ENTITY props.path.label                  "Ճ-ը.">
 <!ENTITY props.secure.label                "Կուղարկվի.">
 <!ENTITY props.expires.label               "Ավարտվում է՝">
-
+<!ENTITY props.container.label             "Զետեղարան.">
 
 <!ENTITY window.title                      "Cookie-ներ">
 <!ENTITY windowClose.key                   "w">
