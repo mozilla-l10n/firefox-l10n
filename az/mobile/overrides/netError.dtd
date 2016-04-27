@@ -19,25 +19,23 @@
 <!ENTITY dnsNotFound.title "Ünvan tapılmadı">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Ünvanı səhv daxil etmiş ola bilərsiniz. Məsələn <strong>www</strong>.example.com əvəzinə <strong>ww</strong>.example.com yazılmış ola bilər.</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Axtar</button> </div> <li>Əgər heç bir səhifə açılmırsa, cihazın data və ya Wi-Fi bağlantısını yoxlayın. <button id='wifi'>Wi-Fi Aktivləşdir</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Fayla tapılmadı">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Faylın adını böyük hərf və ya digər yazı səhvləri üçün yoxlayın.</li> <li>Faylın köçürülmədiyini, adının dəyişdirilmədiyini və ya silinmədiyini yoxlayın.</li> </ul>">
 
 
-<!ENTITY generic.title "Vaxsey.">
-<!ENTITY generic.longDesc "<p>&brandShortName; bəzi səbəblərə görə bu səhifəni aça bilmir.</p>">
 
-<!ENTITY malformedURI.title "Yanlış ünvan">
+<!ENTITY generic.title "Vaxsey.">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Web adresləri əsasən <strong>http://www.example.com/</strong> kimi yazılır.</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Axtar</button> </div> <li>Sağa əyrilmiş bölmə işarəti işlətdiyinizdən əmin olun (məs. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Məlumat ötürmə xətası">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Sənədin vaxtı çıxıb">
-<!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd &brandShortName; səyyahının keşində mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, &brandShortName; həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi saytdan yenidən istəmək üçün, Təkrar Yoxla düyməsinə klikləyin.</li></ul>">
+
 
 <!ENTITY netOffline.title "Offline bağlantı səhvi">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -56,7 +54,6 @@
 <!ENTITY netTimeout.title "Şəbəkə gözləmə müddəti">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "Naməlum əlaqə protokolu">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Bü ünvanı açmaq üçün əlavə proqram tələb olunur</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy server bağlantını rədd etdi">
@@ -67,7 +64,6 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Proksi tənzimləmələrini nəzərdən keçirib, doğru olduğundan əmin olun.</li> <li>Cihazın internet şəbəkəsinə qoşulu olduğundan əmin olun. <button id='wifi'>Wi-Fi Aktivləşdir</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "Yönlendirmə dövrəsi">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Bu problem bəzən çərəzləri qadağan etmə və ya qəbul etməməkdən ola bilir.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Şəbəkədən gələn cavab yanlışdır">
@@ -77,11 +73,9 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Görmək istədiyiniz səhifə alınan məlumatlar təsdiqlənə bilmədi deyə göstərilə bilmir.</li> <li>Lütfən sayt sahibləri ilə əlaqə saxlayın və bu problemdən xəbərdar edin.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Təhlükəsiz bağlantı qurulmadı">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Bu, serverin tənzimləməsi ilə bağlı bir problemdən ya da başqa birinin sizi səhv serverə yönləndirməsindən qaynaqlana bilər.</li> <li>Əvvəllər bu serverə uğurla bağlana bilirdinizsə problem müvəqqəti ola bilər və daha sonra təkrar yoxlaya bilərsiniz.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
-<!ENTITY sharedLongDesc3 "<ul> <li>Bu sayt müvəqqəti olaraq məşgul və ya əlçatmaz ola bilər. Bir neçə dəqiqə sonra təkrar yoxlayın.</li> <li>Əgər heç bir səhifəni aça bilmirsizsə, cihazınızın internetə bağlı olduğundan əmin olun. <button id='wifi'>Wi-Fi Aktivləşdir</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Məzmun təhlükəsizlik qaydaları xəbərdar etdiyi üçün bloklandı">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu səhifənin bu üsulla yüklənməsinin qarşısını aldı, çünki, səhifədə olan fayllardan birinin təhlükəsizlik siyasəti bunu qadağan edir.</p>">
@@ -108,7 +102,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Təkmilləşdirilmiş məlumat: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Bağlantınız güvənilir deyil">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Təkmilləşmiş məlumat: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
