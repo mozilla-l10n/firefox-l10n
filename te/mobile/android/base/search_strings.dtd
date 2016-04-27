@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "ఈ పరికరంనుండి మొత్తం అన్వేషణ చరిత్రను తొలగించాలా?">
 <!ENTITY pref_clearHistory_title "అన్వేషణ చరిత్ర శుభ్రపరచు">
 
-<!ENTITY pref_searchProvider_title "అన్వేషణ యంత్రం">
-
 <!ENTITY search_widget_button_label "వెతుకు">
 
 <!ENTITY network_error_title "అంతర్జాల అనుసంధానం లేదు">

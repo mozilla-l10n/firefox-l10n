@@ -31,103 +31,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "ట్యాగులు">
 <!ENTITY bookmarks.folder.toolbar.label "ఇష్టాంశముల సాధనపట్టీ">
-<!ENTITY bookmarks.folder.unfiled.label "క్రమబద్దీకరించని యిష్టాంశములు">
+
 <!ENTITY bookmarks.folder.desktop.label "డెస్కుటాప్ ఇష్టాంశములు">
 <!ENTITY bookmarks.folder.mobile.label "మొబైల్ యిష్టాంశములు">
-<!ENTITY bookmarks.folder.readinglist.label "చదివే జాబితా">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "పిన్‌చేసినవి">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "పంపు టాబ్‌లకు &syncBrand.shortName.label; అమర్చు">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "టాబ్‌లను ఇతర పరికరాలకు పంపుటకు మీ పరికరం పైన &syncBrand.fullName.label; అమర్చు.">
-<!ENTITY sync.text.tab.sent.label "మీ టాబ్ పంపబడెను!">
-<!ENTITY sync.text.tab.not.sent.label "మీ ట్యాబును పంపడంలో ఏదో సమస్య ఉంది.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "ఫైర్‌ఫాక్స్ ఖాతాలు">
-
-<!ENTITY fxaccount_custom_server_account_title "సేవకిలో ఖాతాను వాడుతున్నారు">
-<!ENTITY fxaccount_custom_server_sync_title "సింక్ డేటాను సేవికపై నిల్వవుంచుతోంది">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "ఈమెయిలు">
-
-<!ENTITY fxaccount_password_hide "దాచు">
-<!ENTITY fxaccount_password_show "చూపించు">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "తిరిగి విహరణకు">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "సేవా నియమాలు">
-<!ENTITY fxaccount_policy_linkprivacy "గోప్యతా గమనిక">
+<!ENTITY fxaccount_back_to_browsing "తిరిగి విహరణకు">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;కి స్వాగతం">
 
 <!ENTITY fxaccount_getting_started_get_started "మొదలు పెట్టండి">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; పాత వర్షన్ ఉపయోగిస్తున్నారా?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "ఫైర్‌ఫాక్స్ ఖాతా సృష్టించండి">
-<!ENTITY fxaccount_create_account_password_length_restriction "కనీసం 8 అక్షరాలు ఉండాలి">
-<!ENTITY fxaccount_create_account_day_of_birth "రోజు">
-<!ENTITY fxaccount_create_account_month_of_birth "నెల">
-<!ENTITY fxaccount_create_account_year_of_birth "పుట్టిన సంవత్సరం">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "నేను ఫైర్‌ఫాక్స్ క్లౌడ్ సేవల &formatS1; మరియు &formatS2; కు ఆమోదం తెలుపుతూ, కొనసాగుతున్నాను.">
-<!ENTITY fxaccount_create_account_button "తరువాత">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "ఏమి సింక్రనించాలో ఎంచుకోండి">
-<!ENTITY fxaccount_create_account_sign_in_instead "ఇప్పటికే ఖాతా ఉందా? లోనికి ప్రవేశించండి">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 లేదా అంతకుముందు">
-<!ENTITY fxaccount_create_account_unknown_error "ఖాతాను సృష్టించలేకపోయాం">
-
-<!ENTITY fxaccount_account_create_not_allowed "ఖాతాను సృష్టించలేరు">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "ఖాతా సృష్టించడానికి మీ వయస్సు తగినంత ఉండాలి.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "మరింత తెలుసుకోండి">
-
-<!ENTITY fxaccount_confirm_account_header "ఖాతా‌ను నిర్ధారించండి">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "నిర్ధారణ కోరుతూ లంకె &formatS; కు పంపబడెను.">
-<!ENTITY fxaccount_confirm_account_resend_email "ఈమెయిల్ తిరిగిపంపు">
-<!ENTITY fxaccount_confirm_account_change_email "ఈ ఈమెయిలు చిరునామాను మరచిపోవాలా?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "నిర్ధారణ కోరుతీ ఈమెయిల్ పంపెను">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "నిర్ధారణ కోరుతూ ఈమెయిల్ పంపలేక పోయెను">
-<!ENTITY fxaccount_resend_unlock_code_button_label "తాళం తీయడానికి ఈమెయిలుని మళ్ళీ పంపించు">
-<!ENTITY fxaccount_unlock_code_sent "ఖాతా తాళం తీసే ఈమెయిలు పంపించాం">
-<!ENTITY fxaccount_unlock_code_not_sent "ఖాతా తాళం తీసే ఈమెయిలు పంపించలేకపోయాం">
-
-<!ENTITY fxaccount_sign_in_sub_header "ప్రవేశించు">
-<!ENTITY fxaccount_sign_in_button_label "ప్రవేశించు">
-<!ENTITY fxaccount_sign_in_forgot_password "సంకేతపదం మరచిపోయారా?">
-<!ENTITY fxaccount_sign_in_create_account_instead "ఒక ఖాతాను సృష్టించు">
-<!ENTITY fxaccount_sign_in_unknown_error "ప్రవేశించలేక పోయెను">
-
-<!ENTITY fxaccount_account_verified_sub_header "ఖాతా నిర్ధారణ అయ్యింది">
-<!ENTITY fxaccount_account_verified_description2 "మీ దత్తాంశం సింక్ అగుట ప్రారంబించబడును.">
-
-<!ENTITY fxaccount_migration_finished_header "తాజాకరణ పూర్తయింది">
-
-<!ENTITY fxaccount_update_credentials_header "ప్రవేశించు">
-<!ENTITY fxaccount_update_credentials_button_label "ప్రవేశించు">
-<!ENTITY fxaccount_update_credentials_unknown_error "ప్రవేశించ లేకపోయాం">
-
-<!ENTITY fxaccount_finish_migrating_header "తాజాకరణను పూర్తి చేసేందుకు ప్రవేశించండి">
-<!ENTITY fxaccount_finish_migrating_button_label "నవీకరణను పూర్తిచేయి">
-
-
-<!ENTITY fxaccount_status_header2 "ఫైర్‌ఫాక్స్ ఖాతా">
 <!ENTITY fxaccount_status_signed_in_as "ఇలా ప్రవేశించారు">
 
 <!ENTITY fxaccount_status_auth_server "ఖాతా సేవకి">
@@ -152,8 +73,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "సేవా నియమాలు">
-<!ENTITY fxaccount_status_linkprivacy "గోప్యతా గమనిక">
+
 <!ENTITY fxaccount_status_more "మరిన్ని&ellipsis;">
 
 
@@ -189,7 +109,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "సేవిక వత్తిడిగా ఉంది, త్వరలో మరలా ప్రయత్నించు">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "సేవిక వత్తిడిగా ఉంది, త్వరలో మరలా ప్రయత్నించు">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ఏదో సమస్య ఉంది">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "నెట్వర్కునకు అనుసంధానం కాలేదు">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "ఖాతా తాళంవేయబడిండి. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; అనుసంధానమై లేదు">
@@ -201,6 +120,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; వలె ప్రవేశించడానికి తాకండి">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
