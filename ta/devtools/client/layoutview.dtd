@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "பாக்ஸ் மாடல்">
-<!ENTITY margin.tooltip         "ஓரம்">
-<!ENTITY border.tooltip         "எல்லை">
-<!ENTITY padding.tooltip        "நிரப்பல்">
-<!ENTITY content.tooltip        "உள்ளடக்கம்">
+<!ENTITY layoutViewTitle          "பாக்ஸ் மாடல்">
+<!ENTITY margin.tooltip           "ஓரம்">
+<!ENTITY border.tooltip           "எல்லை">
+<!ENTITY padding.tooltip          "நிரப்பல்">
+<!ENTITY content.tooltip          "உள்ளடக்கம்">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
