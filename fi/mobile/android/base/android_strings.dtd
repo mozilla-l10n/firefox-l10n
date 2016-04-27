@@ -659,7 +659,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_title2 "Ladataan &brandShortName;ia">
 <!ENTITY updater_downloading_title_failed2 "Lataus epäonnistui">
 <!ENTITY updater_downloading_select2 "Asenna päivitys koskettamalla latauksen päätyttyä">
-<!ENTITY updater_downloading_retry2 "Kosketa yrittääksesi uudestaan">
+<!ENTITY updater_downloading_retry2 "Yritä uudestaan koskettamalla">
  
 <!ENTITY updater_apply_title2 "&brandShortName;in päivitys saatavilla">
 <!ENTITY updater_apply_select2 "Päivitä koskettamalla">
