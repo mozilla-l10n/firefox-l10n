@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "రక్షిత బ్రౌజింగ్ సౌలభ్యమును అచేతనము చేయుట సిఫార్సు చేయుటలేదు యెంచేతంటే అది మీరు సురక్షితంకాని సైటులకు వెళ్ళుటకు కారణం కావచ్చును. మీరు యీ సౌలభ్యమును పూర్తిగా అచేతనము చేయవలెనంటే, యీ కింది అంచెలను అనుసరించుము:">
 <!ENTITY rights.safebrowsing-term1 "అనువర్తనము అభీష్టాలను తెరువుము">
 <!ENTITY rights.safebrowsing-term2 "రక్షమ యెంపికను యెంపికచేయుము">
-<!ENTITY rights.safebrowsing-term3 "ఐచ్ఛికములను &quot;&blockAttackSites.label;&quot; కు మరియు &quot;&blockWebForgeries.label;&quot; కు అన్‌చెక్ చేయుము">
+
 <!ENTITY rights.safebrowsing-term4 "రక్షణ బ్రౌజింగ్ యిప్పుడు అచేతనము చేయబడింది">
 <!-- location aware browsing points for branded builds -->
 

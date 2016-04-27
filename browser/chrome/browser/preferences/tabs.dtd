@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "&brandShortName; నిదానింప చేయగల బహుళ టాబ్ లను తెరుచునపుడు నన్నువారించు">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "ఎంపిక చేయునంతవరకు టాబ్‌లను లోడుచేయవద్దు">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "నేను కొత్త టాబ్ నందు లింకుని తెరిచినప్పుడు,దానికి  సత్వరమే మారు">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
