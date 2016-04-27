@@ -13,14 +13,14 @@
 
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
-<!ENTITY openURL.label "Otevřít URL v novém panelu">
+<!ENTITY openURL.label     "Otevřít URL v novém panelu">
 <!ENTITY openURL.accesskey "O">
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-<!ENTITY btnPageNet.label "Síť">
+<!ENTITY btnPageNet.label   "Síť">
 <!ENTITY btnPageNet.tooltip "Žurnál přístupu k síti">
 <!ENTITY btnPageNet.accesskey "S">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
@@ -29,11 +29,11 @@
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
-<!ENTITY btnPageCSS.label "CSS">
+<!ENTITY btnPageCSS.label   "CSS">
 <!ENTITY btnPageCSS.tooltip2 "Žurnál chyb a varování v CSS">
 <!ENTITY btnPageCSS.accesskey "C">
-<!ENTITY btnPageJS.label "JS">
-<!ENTITY btnPageJS.tooltip "Žurnál výjimek JavaScriptu">
+<!ENTITY btnPageJS.label    "JS">
+<!ENTITY btnPageJS.tooltip  "Žurnál výjimek JavaScriptu">
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Bezpečnost">
 <!ENTITY btnPageSecurity.tooltip "Žurnál bezpečnostních chyb a varování">
@@ -43,13 +43,13 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-<!ENTITY btnPageLogging.label "Žurnál">
+<!ENTITY btnPageLogging.label   "Žurnál">
 <!ENTITY btnPageLogging.tooltip "Žurnál zpráv zaslaných objektem „console“">
 <!ENTITY btnPageLogging.accesskey3 "u">
-<!ENTITY btnConsoleErrors "Chyby">
-<!ENTITY btnConsoleInfo "Info">
-<!ENTITY btnConsoleWarnings "Varování">
-<!ENTITY btnConsoleLog "Žurnál">
+<!ENTITY btnConsoleErrors       "Chyby">
+<!ENTITY btnConsoleInfo         "Info">
+<!ENTITY btnConsoleWarnings     "Varování">
+<!ENTITY btnConsoleLog          "Žurnál">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Přeformátování">
 
@@ -75,21 +75,21 @@
 <!ENTITY btnConsoleWindowlessWorkers "Doplněk nebo Chrome Workers">
 
 <!ENTITY filterOutput.placeholder "Filtr výstupu">
-<!ENTITY btnClear.label "Vymazat">
-<!ENTITY btnClear.tooltip "Vymaže obsah webové konzole">
+<!ENTITY btnClear.label        "Vymazat">
+<!ENTITY btnClear.tooltip      "Vymaže obsah webové konzole">
 <!ENTITY btnClear.accesskey    "V">
 
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY copyURLCmd.label "Kopírovat adresu odkazu">
+<!ENTITY copyURLCmd.label     "Kopírovat adresu odkazu">
 <!ENTITY copyURLCmd.accesskey "K">
 
 <!ENTITY closeCmd.key         "W">
