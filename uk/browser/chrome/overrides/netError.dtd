@@ -139,15 +139,9 @@
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Не вдалось встановити безпечне з’єднання">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>Це може бути проблема конфігурації сервера, або, можливо, хтось
-намагається імітувати той сервер.</li>
-<li>Якщо ви отримували доступ до цього сервера раніше, то це може бути
-тимчасова помилка. Можете спробувати ще раз пізніше.</li>
-</ul>
-">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -167,21 +161,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Сторінку, яку ви намагаєтесь переглянути неможливо відобразити через те, що в передачі даних було виявлено помилку.</p><ul><li>Зв’яжіться з власниками сайта, щоб повідомити їх про цю проблему.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Або ви можете зробити виняток…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Заберіть мене звідси">
 <!ENTITY securityOverride.exceptionButtonLabel "Додати виняток…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningContent "
-<p>Вам не слід додавати виняток, якщо використовуєте з’єднання, котрому не повністю довіряєте, або якщо ви не звикли бачити попередження для цього сервера.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
 
 <!ENTITY errorReporting.automatic2 "Звітувати про подібні помилки, щоб допомогти Mozilla виявляти й блокувати зловмисні сайти">
 <!ENTITY errorReporting.learnMore "Докладніше…">
@@ -201,3 +181,7 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoAdvanced.title "Додатково">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> використовує технологію захисту, яка є застарілою та вразливою до атак. Зловмисник може легко викрити інформацію, яка на вашу думку знаходиться в безпеці.">
 <!ENTITY weakCryptoAdvanced.override "(Небезпечно) Спробувати завантаження <span class='hostname'></span>, використовуючи застарілий захист">
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

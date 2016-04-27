@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Попереджати, коли відкриття великої кількості вкладок може сповільнити роботу &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "с">
 
-<!ENTITY restoreTabsOnDemand.label        "Не завантажувати вкладки доки їх не буде вибрано">
-<!ENTITY restoreTabsOnDemand.accesskey    "а">
-
 <!ENTITY switchToNewTabs.label        "При відкритті посилання в новій вкладці, одразу ж переключатись на неї">
 <!ENTITY switchToNewTabs.accesskey    "я">
 

@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Підписатися на цю сторінку…">
 <!ENTITY addCurPagesCmd.label "Закласти всі вкладки…">
 <!ENTITY showAllBookmarks2.label "Показати всі вкладки">
-<!ENTITY unsortedBookmarksCmd.label "Несортовані закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показати інші закладки">
 
 <!ENTITY backCmd.label                "Назад">
@@ -196,7 +195,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Перегляд повідомлення про автономне зберігання програми">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Керування інформацією вашого логіну">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Запит на збереження вашого пароля">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Перегляд повідомлення про встановлення програми">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Керування використанням плагінів на цій сторінці">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Зміна налаштувань отримання сповіщень від цього сайту">
 
@@ -224,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Закладки">
-<!ENTITY bookmarksMenuButton.unsorted.label "Несортовані закладки">
 <!ENTITY viewBookmarksSidebar2.label        "Показати панель закладок">
 <!ENTITY viewBookmarksToolbar.label         "Показати панель закладок">
 
@@ -254,79 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Веб-розробка">
 <!ENTITY webDeveloperMenu.accesskey   "р">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "З’єднатися…">
-<!ENTITY devtoolsConnect.accesskey    "д">
-
-<!ENTITY errorConsoleCmd.label        "Консоль помилок">
-<!ENTITY errorConsoleCmd.accesskey    "м">
-
-<!ENTITY remoteWebConsoleCmd.label    "Віддалена веб-консоль">
-
-<!ENTITY browserConsoleCmd.label      "Консоль браузера">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "б">
-
 <!ENTITY inspectContextMenu.label     "Дослідити елемент">
 <!ENTITY inspectContextMenu.accesskey "Д">
-
-<!ENTITY responsiveDesignTool.label   "Вигляд адаптивного дизайну">
-<!ENTITY responsiveDesignTool.accesskey "А">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Піпетка">
-<!ENTITY eyedropper.accesskey "П">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Чернетка">
-<!ENTITY scratchpad.accesskey         "Ч">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Інструменти браузера">
-<!ENTITY browserToolboxMenu.accesskey "е">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Інструменти вмісту браузера">
-<!ENTITY browserContentToolboxMenu.accesskey "І">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Закрити панель розробника">
-<!ENTITY devToolbarMenu.label              "Панель розробника">
-<!ENTITY devToolbarMenu.accesskey          "р">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Перемкнути інструменти">
-<!ENTITY devToolboxMenuItem.accesskey      "т">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Перемкнути інструменти розробника">
-<!ENTITY devToolbarOtherToolsButton.label  "Інші інструменти">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Інші інструменти">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "с">
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
@@ -410,7 +336,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Відкрити меню допомоги">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронізовані вкладки">
-<!ENTITY appMenuRemoteTabs.fetching.label "Отримання синхронізованих вкладок…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Немає відкритих вкладок">
@@ -420,7 +345,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Увійдіть у Firefox з інших пристроїв, щоб переглядати їх вкладки тут.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Налаштування синхронізації">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
 <!ENTITY appMenuRemoteTabs.signin.label "Увійти в Синхронізацію">
@@ -795,7 +719,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Синхронізовані вкладки">
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронізовані вкладки">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Отримання синхронізованих вкладок…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Увійдіть у Firefox з інших пристроїв, щоб переглядати їх вкладки тут.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Немає відкритих вкладок">
@@ -804,10 +727,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Увімкніть синхронізацію вкладок для перегляду списку вкладок з інших пристроїв.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Відкрити цю вкладку">
-<!ENTITY syncedTabs.context.openTab.accesskey               "В">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Закласти цю вкладку…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "З">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Закласти цю вкладку…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "З">
 
 
 <!ENTITY syncBrand.shortName.label    "Синхронізація">
