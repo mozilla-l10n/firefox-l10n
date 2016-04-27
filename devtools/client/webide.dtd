@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Egyéb">
 <!ENTITY runtimePanel_installsimulator "Szimulátor telepítése">
 <!ENTITY runtimePanel_noadbhelper "ADB segéd telepítése">
-<!ENTITY runtimePanel_nousbdevice "Nem látja az eszközt?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Eszközök frissítése">
 <!-- Lense -->
 

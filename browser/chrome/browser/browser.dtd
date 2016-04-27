@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Feliratkozás erre az oldalra…">
 <!ENTITY addCurPagesCmd.label "Minden lap egy könyvjelzőbe…">
 <!ENTITY showAllBookmarks2.label "Minden könyvjelző megjelenítése">
-<!ENTITY unsortedBookmarksCmd.label "Nem rendezett könyvjelzők">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
 
 <!ENTITY backCmd.label                "Vissza">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Az app kapcsolat nélküli tárolási üzenetének megjelenítése">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Bejelentkezési adatok kezelése">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Jelszó mentése">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Az app telepítési üzenetének megjelenítése">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Bővítményhasználat felügyelete az oldalon">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Módosítsa, hogy kap-e értesítéseket ettől az oldaltól">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Könyvjelzők">
-<!ENTITY bookmarksMenuButton.unsorted.label "Nem rendezett könyvjelzők">
+
 <!ENTITY viewBookmarksSidebar2.label        "Könyvjelzők oldalsáv megjelenítése">
 <!ENTITY viewBookmarksToolbar.label         "Könyvjelző eszköztár megjelenítése">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webfejlesztő">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workerek">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Kapcsolódás…">
-<!ENTITY devtoolsConnect.accesskey    "c">
-
-<!ENTITY errorConsoleCmd.label        "Hibakonzol">
-<!ENTITY errorConsoleCmd.accesskey    "H">
-
-<!ENTITY remoteWebConsoleCmd.label    "Távoli webkonzol">
-
-<!ENTITY browserConsoleCmd.label      "Böngészőkonzol">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "o">
-
 <!ENTITY inspectContextMenu.label     "Elem vizsgálata">
 <!ENTITY inspectContextMenu.accesskey "z">
-
-<!ENTITY responsiveDesignTool.label   "Alkalmazkodó megjelenés nézet">
-<!ENTITY responsiveDesignTool.accesskey "A">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Pipetta">
-<!ENTITY eyedropper.accesskey "P">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Böngésző eszköztára">
-<!ENTITY browserToolboxMenu.accesskey "n">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Böngészőtartalom eszközkészlet">
-<!ENTITY browserContentToolboxMenu.accesskey "B">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Fejlesztői eszköztár bezárása">
-<!ENTITY devToolbarMenu.label              "Fejlesztői eszköztár">
-<!ENTITY devToolbarMenu.accesskey          "F">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Eszközök be/ki">
-<!ENTITY devToolboxMenuItem.accesskey      "b">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Fejlesztői eszközök be/ki">
-<!ENTITY devToolbarOtherToolsButton.label  "További eszközök">
-
-<!ENTITY getMoreDevtoolsCmd.label        "További eszközök letöltése">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "T">
 
 <!ENTITY fileMenu.label         "Fájl"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Kivágás">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
-<!ENTITY copyCmd.label            "Másolás">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "M"> 
+
 <!ENTITY pasteCmd.label           "Beillesztés">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "B"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Súgó menü megnyitása">
 
 <!ENTITY appMenuRemoteTabs.label "Szinkronizált lapok">
-<!ENTITY appMenuRemoteTabs.fetching.label "Szinkronizált lapok lekérése…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nincsenek nyitott lapok">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Jelentkezzen be a Firefoxba más készülékeiről azok lapjainak itteni megjelenítéséhez.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Szinkronizálás beállításai">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Jelentkezzen be a más készülékeiről származó lapok listájának megjelenítéséhez.">
 <!ENTITY appMenuRemoteTabs.signin.label "Bejelentkezés a Syncbe">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "A kapcsolat ehhez az oldalhoz nem biztonságos. Az elküldött információkat mások is láthatják (például a jelszavakat, üzeneteket, bankkártya-adatokat stb.).">
 <!ENTITY identity.description.insecureLoginForms "Az oldalon megadott bejelentkezési információk nem biztonságosak, és feltörhetők.">
 <!ENTITY identity.description.weakCipher "A kapcsolat ehhez a weboldalhoz túl gyenge titkosítást használ, és nem biztonságos.">
-<!ENTITY identity.description.weakCipher2 "Mások megjeleníthetik információit, vagy módosíthatják a weboldal viselkedését.">
+
 <!ENTITY identity.description.activeBlocked "A &brandShortName; blokkolta az oldal néhány nem biztonságos elemét.">
 <!ENTITY identity.description.passiveLoaded "A kapcsolat nem biztonságos, és az oldalnak elküldött információkat mások is láthatják.">
 <!ENTITY identity.description.passiveLoaded2 "A weboldal nem biztonságos elemeket (például képeket) tartalmaz.">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Szinkronizált lapok">
 
 <!ENTITY syncedTabs.sidebar.label              "Szinkronizált lapok">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Szinkronizált lapok lekérése…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Jelentkezzen be a Firefoxba más készülékeiről azok lapjainak itteni megjelenítéséhez.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Jelentkezzen be a más készülékeiről származó lapok listájának megjelenítéséhez.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nincsenek nyitott lapok">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "A &syncBrand.shortName.label; beállításainak megnyitása">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Kapcsolja be a lapszinkronizálást a más készülékeiről származó lapok listájának megjelenítéséhez.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Aktuális lap megnyitása">
-<!ENTITY syncedTabs.context.openTab.accesskey               "A">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Aktuális lap könyvjelzőbe…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "t">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Aktuális lap könyvjelzőbe…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "t">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

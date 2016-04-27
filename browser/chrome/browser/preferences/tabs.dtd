@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Figyelmeztetés, hogy több lap megnyitása lelassíthatja a &brandShortName; programot">
 <!ENTITY warnOpenManyTabs.accesskey   "F">
 
-<!ENTITY restoreTabsOnDemand.label        "Csak kijelöléskor töltse be a lapot">
-<!ENTITY restoreTabsOnDemand.accesskey    "C">
-
 <!ENTITY switchToNewTabs.label        "Hivatkozás új lapon való megnyitásakor átváltás rá azonnal">
 <!ENTITY switchToNewTabs.accesskey    "H">
 

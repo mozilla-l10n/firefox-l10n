@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "A &syncBrand.fullName.label; beállítása">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "Üdvözöljük! Ha még nem használta a &syncBrand.fullName.label;et, akkor létre kell hoznia egy fiókot.">
 <!ENTITY button.createNewAccount.label "Új fiók létrehozása">
 <!ENTITY button.haveAccount.label      "Van már fiókom">
 
 <!ENTITY setup.choicePage.title.label     "Használta már a &syncBrand.fullName.label; kiegészítőt?">
-<!ENTITY setup.choicePage.new.label       "Még nem használtam a &syncBrand.shortName.label; kiegészítőt">
-<!ENTITY setup.choicePage.existing2.label "Már használom a &syncBrand.shortName.label; kiegészítőt egy másik eszközön">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Kiszolgáló">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "Eszköz párosítása">
 <!ENTITY addDevice.showMeHow.label          "Hogy kell?">
-<!ENTITY addDevice.dontHaveDevice.label     "Nincs nálam az eszköz">
+
 <!ENTITY pairDevice.setup.description.label  "Az aktiváláshoz válassza a másik eszközön az „Eszköz párosítása” lehetőséget.">
 <!ENTITY addDevice.setup.enterCode.label    "Ezután írja be ezt a kódot:">
 <!ENTITY pairDevice.dialog.description.label "Új eszközének aktiválásához válassza az eszközön a „Szinkronizálás beállítása” lehetőséget.">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "Kiegészítők">
 <!ENTITY engine.addons.accesskey    "K">
 
-<!ENTITY choice2a.merge.main.label       "Az eszköz adatainak összefésülése a &syncBrand.shortName.label; adataival">
 <!ENTITY choice2.merge.recommended.label "Ajánlott:">
 <!ENTITY choice2a.client.main.label      "Minden adat felülírása ezen az eszközön a &syncBrand.shortName.label; adataival">
-<!ENTITY choice2a.server.main.label      "Minden más eszköz adatának a helyi adatokra cseréje">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Megerősítés">
-<!ENTITY confirm.merge2.label    "A &syncBrand.fullName.label; most összefésüli ezen eszköz böngészőadatait a Sync-fiók adataival.">
+
 <!ENTITY confirm.client3.label         "Figyelmeztetés: A következő &brandShortName;-adatok fognak törlődni erről az eszközről:">
 <!ENTITY confirm.client2.moreinfo.label "A &brandShortName; ezután rámásolja a &syncBrand.fullName.label;-adatokat erre az eszközre.">
 <!ENTITY confirm.server2.label         "Figyelmeztetés: A következő eszközökön levő adatok lesznek felülírva a helyi adatokkal:">
