@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "फाइल नहि भेटल त्रुटि">
 <!ENTITY fileNotFound.longDesc "<ul><li>की आइटम केर नाम कें बदलल गेल अछि, हटाओल गेल अछि, अथवा स्थान बदलल गेल?</li><li>की पता मे कोनो स्पेलिंग, पैघ अक्षर, अथवा आन टाइपो केर त्रुटि अछि</li><li>की अनुरोध केर संबंध मे अहाँक पहुँच केर पूरा अनुमति प्राप्त अछि </li></ul>">
 
+
+
 <!ENTITY generic.title "आग्रह पूर्ण नहि कए सकैत अछि">
 <!ENTITY generic.longDesc "<p>ई समस्या अथवा त्रुटिक  संबंध मे बाइली जानकारी अखन अनुपलब्ध अछि.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

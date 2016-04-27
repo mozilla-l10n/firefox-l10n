@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "अहाँ घसकाए कए लोडिंग केर गति बढ़ाए सकैत छी">
 <!ENTITY csscoverage.optimize.body2 "पृष्ठ केर तल मे टैग आओर नव इनलाइन केर निर्माण">
-<!ENTITY csscoverage.optimize.body3 "शीर्ष मे 'load' घटना केर पहिले जरूरी शैली केर सँग तत्व. एतय शैली ब्लॉक अछि जे अहाँक लेल जरूरी अछि:">
+
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

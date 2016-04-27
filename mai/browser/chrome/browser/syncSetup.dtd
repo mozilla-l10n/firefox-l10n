@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; सेटअप">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "अहाँक स्वागत अछि! जँ अहाँ &syncBrand.fullName.label; केँ पहिने कखनो उपयोग नहि कएने अछि, अहाँकेँ एकगोट खाता खोलबाक जरूरत हाएत.">
 <!ENTITY button.createNewAccount.label "एकटा नव खाता बनाउ">
 <!ENTITY button.haveAccount.label      "हमर पास एकगोट खाता अछि">
 
 <!ENTITY setup.choicePage.title.label     "की अहाँ  कहियो पहिने &syncBrand.fullName.label; क प्रयोग कएल अछि?">
-<!ENTITY setup.choicePage.new.label       "हम कहियो &syncBrand.shortName.label; क पहिने उपयोग नहि कएने छी">
-<!ENTITY setup.choicePage.existing2.label "हम पहिने सँ &syncBrand.shortName.label; क उपयोग दोसर कंप्यूटर पर कए रहल छी">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "सर्वर">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "युक्ति युग्मित करू">
 <!ENTITY addDevice.showMeHow.label          "देखाउ जे कहिना.">
-<!ENTITY addDevice.dontHaveDevice.label     "हमरा संग युक्ति नहि अछि">
+
 <!ENTITY pairDevice.setup.description.label  "सक्रिय करए कलेल, &quot;युक्ति युग्मित करू&quot; केँ अपन आन युक्ति पर चुनू.">
 <!ENTITY addDevice.setup.enterCode.label    "फेर ई कोड डालू:">
 <!ENTITY pairDevice.dialog.description.label "अपन युक्ति केँ सक्रिय करए कलेल, &quot;सिंक सेटअप करू&quot; केँ युक्ति पर चुनू.">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "सहयुक्ति">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label       "ई कंप्यूटरक आँकड़ाकेँ हमर &syncBrand.shortName.label; आँकड़ासँ मिलान करू">
 <!ENTITY choice2.merge.recommended.label "अनुशंसित:">
 <!ENTITY choice2a.client.main.label      "ई कंप्यूटर पर सभटा आँकड़ाकेँ हमर &syncBrand.shortName.label; आँकड़ासँ प्रतिस्थापित  करू ">
-<!ENTITY choice2a.server.main.label      "ई कंप्यूटर आँकड़ासँ सभटा आन युक्तिकेँ प्रतिस्थापित करू ">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "पुष्टि करू ">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; आब एहि कंप्यूटरक सभटा ब्राउज़र आँकड़ा केँ अहाँक सिंक खाते सँ मिलैताह.">
+
 <!ENTITY confirm.client3.label         "चेतावनी: एहि कंप्यूटर पर निम्नलिखित &brandShortName; आँकड़ा मेटायल जएताह:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; तखन अहाँक &syncBrand.fullName.label; आँकड़ा केँ एहि कंप्यूटर पर लेबल करताह.">
 <!ENTITY confirm.server2.label         "चेतावनी: निम्नलिखित युक्ति अहाँक स्थानीय आँकड़ा सँ अधिलिखित कएल जएताह:">
