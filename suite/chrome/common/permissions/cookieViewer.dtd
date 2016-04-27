@@ -17,6 +17,7 @@
 
 <!ENTITY     search.placeholder             "Hľadať cookies">
 <!ENTITY     focusSearch.key                "f">
+<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Názov:">
@@ -29,6 +30,8 @@
 <!ENTITY     treehead.sitename.label        "Stránka">
 <!ENTITY     treehead.status.label          "Stav">
 <!ENTITY     windowtitle.label              "Správca cookies">
+<!ENTITY     buttonaccept.label             "Zavrieť">
+<!ENTITY     buttonaccept.accesskey         "Z">
 
 <!ENTITY     blockSite.label                "Blokovať">
 <!ENTITY     blockSite.accesskey            "B">
