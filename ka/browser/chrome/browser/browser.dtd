@@ -169,7 +169,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "ყველა ჩანართის ჩანიშვნა...">
 <!ENTITY showAllBookmarks2.label "ყველა სანიშნის ჩვენება">
 <!ENTITY recentBookmarks.label "ბოლოს ჩანიშნულები">
-<!ENTITY unsortedBookmarksCmd.label "დაუხარისხებელი სანიშნები">
 <!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნების ჩვენება">
 
 <!ENTITY backCmd.label                "უკან">
@@ -197,7 +196,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "აპის კავშირგარეშე საცავის შეტყობინების ნახვა">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "მართეთ თქვენი შესვლის ინფორმაცია">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "შემოწმება, გსურთ თუ არა პაროლის შენახვა">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "აპის ინსტალაციის შეტყობინების ნახვა">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "ამ გვერდზე პლაგინის გამოყენების მართვა">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "აირჩიეთ მიიღოთ თუ არა შეტყობინებები ამ საიტისგან">
 
@@ -225,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "სანიშნები">
-<!ENTITY bookmarksMenuButton.unsorted.label "დაუხარისხებელი სანიშნები">
 <!ENTITY viewBookmarksSidebar2.label        "სანიშნეთა გვერდითი ზოლის ჩვენება">
 <!ENTITY viewBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის ჩვენება">
 
@@ -255,79 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ვებ-დეველოპერი">
 <!ENTITY webDeveloperMenu.accesskey   "ვ">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "დაკავშირება…">
-<!ENTITY devtoolsConnect.accesskey    "კ">
-
-<!ENTITY errorConsoleCmd.label        "შეცდომების კონსოლი">
-<!ENTITY errorConsoleCmd.accesskey    "კ">
-
-<!ENTITY remoteWebConsoleCmd.label    "დაშორებული ვებ-კონსოლი">
-
-<!ENTITY browserConsoleCmd.label      "ბრაუზერის კონსოლი">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "ბ">
-
 <!ENTITY inspectContextMenu.label     "ელემენტზე დაკვირვება">
 <!ENTITY inspectContextMenu.accesskey "ტ">
-
-<!ENTITY responsiveDesignTool.label   "მეპასუხე დიზაინის ხედი">
-<!ENTITY responsiveDesignTool.accesskey "მ">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "პიპეტი">
-<!ENTITY eyedropper.accesskey "პ">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "ბრაუზერის ხელსაწყოთა ყუთი">
-<!ENTITY browserToolboxMenu.accesskey "ზ">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "ბრაუზერის შიგთავსის ხელსაწყოთა ყუთი">
-<!ENTITY browserContentToolboxMenu.accesskey "ყ">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "დეველოპერის ხელსაწყოთა ზოლის დახურვა">
-<!ENTITY devToolbarMenu.label              "დეველოპერის ხელსაწყოთა ზოლი">
-<!ENTITY devToolbarMenu.accesskey          "ვ">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "ხელსაწყოთა ბერკეტი">
-<!ENTITY devToolboxMenuItem.accesskey      "ბ">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "დეველოპერის ხელსაწყოების ბერკეტი">
-<!ENTITY devToolbarOtherToolsButton.label  "მეტი ხელსაწყოები">
-
-<!ENTITY getMoreDevtoolsCmd.label        "მეტი ხელსაწყოები მიღება">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "მ">
 
 <!ENTITY fileMenu.label         "ფაილი"> 
 <!ENTITY fileMenu.accesskey       "ფ">
@@ -411,7 +337,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "დახმარების მენიუს გახსნა">
 
 <!ENTITY appMenuRemoteTabs.label "სინქრონირებული ჩანართები">
-<!ENTITY appMenuRemoteTabs.fetching.label "სინქრონირებული ჩანართების მიღება…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "გახსნილი ჩანართები არაა">
@@ -421,7 +346,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "შედით Firefox-ში თქვენი სხვა მოწყობილობებიდან მათი ჩანართების აქ სანახავად.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "სინქრონიზაციის პარამეტრები">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ში შესვლა">
@@ -796,7 +720,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "სინქრონირებული ჩანართები">
 
 <!ENTITY syncedTabs.sidebar.label              "სინქრონირებული ჩანართები">
-<!ENTITY syncedTabs.sidebar.fetching.label     "სინქრონირებული ჩანართების მიღება…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "შედით Firefox-ში თქვენი სხვა მოწყობილობებიდან მათი ჩანართების აქ სანახავად.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "გახსნილი ჩანართები არაა">
@@ -805,10 +728,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ჩართეთ ჩანართების სინქრონიზაცია თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "ამ ჩანართის გახსნა">
-<!ENTITY syncedTabs.context.openTab.accesskey               "გ">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "ამ ჩანართის ჩანიშვნა…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "ჩ">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ამ ჩანართის ჩანიშვნა…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ჩ">
 
 
 <!ENTITY syncBrand.shortName.label    "სინქრონიზება">

@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "გამაფრთხილეთ, როდესაც მრავალი ჩანართის გახსნამ შესაძლოა &brandShortName; შეანელოს">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "ჩანართები მათზე გადასვმალდე არ ჩაიტვირთონ">
-<!ENTITY restoreTabsOnDemand.accesskey    "მ">
-
 <!ENTITY switchToNewTabs.label        "ბმულის ახალ ჩანართში გახსნისას მაშინვე იმ ჩანართზე გადასვლა">
 <!ENTITY switchToNewTabs.accesskey    "დ">
 
