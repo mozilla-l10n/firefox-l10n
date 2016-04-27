@@ -19,17 +19,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сервер олдсонгүй">
-<!ENTITY dnsNotFound.longDesc "<ul> <li><strong>www</strong>.example.com гэж бичихийн оронд <strong>ww</strong>.example.com гэж бичсэн байж болох алдааг шалгана уу</li> <li>Хэрэв та ямар ч хуудас дуудаж чадахгүй байгаа бол компьютерийнхээ сүлжээг шалгана уу.</li> <li>Хэрэв таны компьютер эсвэл сүлжээ галт хана, эсвэл проксигоор хамгаалагдсан бол &brandShortName;-г вэб хуудсанд зорчих эрхтэй эсэхийг шалгана уу.</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "Файл олдсонгүй">
 
 
 
-<!ENTITY generic.title "Уучлаарай.">
-<!ENTITY generic.longDesc "<p>&brandShortName; энэ хуудсыг зарим шалтгаанаар дуудаж чадахгүй байна.</p>">
 
-<!ENTITY malformedURI.title "Хаяг зөв биш байна">
-<!ENTITY malformedURI.longDesc "<ul> <li>Ихэнх вэб хуудас голцуу <strong>http://www.example.com/</strong></li> гэсэн хэлбэртэй байдаг. <li>Та хөтлөх тэмдгийг (жишээлбэл <strong>/</strong>) хэрэглэж буй эсэхээ шалгана уу.</li> </ul>">
+<!ENTITY generic.title "Уучлаарай.">
+
+
+
 
 <!ENTITY netInterrupt.title "Холболт тасарсан">
 
@@ -51,7 +51,6 @@
 <!ENTITY netTimeout.title "Холболтын цаг дууссан">
 
 
-<!ENTITY unknownProtocolFound.title "Хаяг ойлгогдоогүй">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Та энэ хаягийг нээхийн тулд магадгүй өөр програм суулгах хэрэгтэй байж болзошгүй.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Прокси сервер холболтоос татгалзлаа">
@@ -60,19 +59,17 @@
 <!ENTITY proxyResolveFailure.title "Прокси серверийг олж чадсангүй">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Проксигийн тохиргоо зөв эсэхийг шалгана уу.</li> <li>Таны компьютер ажиллагаатай сүлжээнд холбогдсон эсэхээ шалга.</li> <li>Хэрэв таны компьютер эсвэл сүлжээ галт хана, эсвэл проксигоор хамгаалагдсан бол &brandShortName;-г вэб хуудсанд зорчих эрхтэй эсэхийг шалгана уу.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Хуудсанд зөв дамжуулалт хийгдсэнгүй">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Энэ хүндрэл заримдаа күүкиг хорих юм уу татгалзсан үед гардаг.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Хүсээгүй үед ирсэн серверийн хариулт">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Та компьютерт Хувийн нууцлалын зохицуулагч суулгасан эсэхээ шалгана уу.</li> <li>Энэ магадгүй сервер дээр стандарт бус тохиргуулга хийсэнтэй холбоотой.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Нууцлалын холболтын алдаа">
 
 
-<!ENTITY nssBadCert.title "Нууцлалын холболтын алдаа">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Энэ хүндрэл нь серверийн тохиргооноос юмуу эсвэл хэн нэгэн уг сервертэй ижил үйлдэл гүйцэтгэж буй мэт оролдлого хийсэн байж болох юм.</li> <li>Хэрэв та урьд нь уг сервертэй амжилттай холбогдож байсан бол энэ алдаа нь түр зуурынх байж болох бөгөөд тийм тохиолдолд түр азнаад дахин оролдоно уу.</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>Хуудас түр хугацаагаар хаагдсан, эсвэл завгүй байж магадгүй. Хэсэг хугацааны дараа дахин оролдоно уу.</li> <li>Хэрэв та ямар ч хуудас дуудаж чадахгүй байгаа бол компьютерийнхээ сүлжээг шалгаарай.</li> <li>Хэрэв таны компьютер эсвэл сүлжээ галт хана, эсвэл проксигоор хамгаалагдсан бол &brandShortName;-г вэб хуудсанд зорчих эрхтэй эсэхийг шалгана уу.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Агуулгын хамгаалалтын улмаас хаагдсан">
 
@@ -80,13 +77,7 @@
 
 
 
-<!ENTITY securityOverride.linkText "Эсвэл та зарим онцгой тохиолдлууд нэмж болно…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Эндээс намайг гарга!">
 <!ENTITY securityOverride.exceptionButtonLabel "Онцгойлж зааж өгөх…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
 
 
 
@@ -101,3 +92,9 @@ functionality specific to firefox. -->
 
 
 
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

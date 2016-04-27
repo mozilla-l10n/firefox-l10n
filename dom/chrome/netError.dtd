@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Файл олдсонгүй Алдаа">
 
 
+
+
 <!ENTITY generic.title "Хүсэлтийг гүйцээж чадахгүй байна">
 <!ENTITY generic.longDesc "<p>Энэ алдаа эсвэл хүндрэлийн нэмэлт мэдээлэл одоогоор боломжгүй.</p>">
 
@@ -76,3 +78,6 @@
 
 <!ENTITY remoteXUL.title "Алсын XUL ">
 
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
