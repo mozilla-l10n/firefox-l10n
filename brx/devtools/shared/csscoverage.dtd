@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "लोरिहोनानै नोंथाङा ल'ड खालामनायखौ एखनब्ला गोख्रै खालामनो हायो">
 <!ENTITY csscoverage.optimize.body2 "बिलाइनि थालोआव टेग खालामो आरो गोदान इनलाइन सोरजियो">
-<!ENTITY csscoverage.optimize.body3 "बिजौआव 'ल'ड' जाथायनि सिगां गोनांथि जानाय आदबजों गुदिमुवा। नोंथांनो गोनांथि जानाय आदब ब्लकफोरखौ बेयाव होनाय जाबाय:">
+
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "फाइल मोनाखै">
 <!ENTITY fileNotFound.longDesc "<ul><li>आइटेमखौ फिन मुं होनो, बोखारनो एबा फिन गायसननो हायो नामा?</li><li>बे थंआव बानान, गेदेन हांखो एबा गुबुन टाइप खालामनाय गोरोन्थि दं नामा?</li><li>नोंथांहा खावलायखानाय आइटेमआव थोजासे हाबनाय मोनथाय दं नामा?</li></ul>">
 
+
+
 <!ENTITY generic.title "खावलायनायखौ आबुं खालामनो हाया">
 <!ENTITY generic.longDesc "<p>बे जेंना एबा गोरोन्थिनि बांद्राय फोरमायथिहोग्राया दासान्दि गैया</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "गोजाननि XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>बे जेंनाखौ खिन्थानो वेबसाइट बिगोमाजों जगाजग खालाम।</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

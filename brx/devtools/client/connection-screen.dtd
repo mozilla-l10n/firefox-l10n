@@ -23,8 +23,6 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
-<!ENTITY remoteHelp "फायारफक्स जौगाहोग्रा टुलआ रिमट डिभाइसखौ डिबाग खालामनो हायो (Androidनि फायारफक्स आरो बिदिन्थिनि फायारफक्स OS। नोंथाङा रिमट डिभाइसआव 'रिमट डेबागिं' उफ्राखौ अन खालामबाय नामा रोखा खालाम। गोबां मोनथिनो थाखाय, नाय">
 <!ENTITY remoteDocumentation "डकुमेन्टेसन">
 <!ENTITY remoteHelpSuffix ".">
 

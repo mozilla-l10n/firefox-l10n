@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "गोबां टेब खेवयोब्ला &brandShortName; खौ लासै खालामनाय समाव आंखौ सांग्रां खालाम">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "सायखनायखौ नङाब्ला टेबखौ ल'ड खालामनो नाङा">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "आं मोनसे लिंकखौ गोदान टेबआव खेवनाय समाव थाबैनो बेयाव थां">
 <!ENTITY switchToNewTabs.accesskey    "h">
 

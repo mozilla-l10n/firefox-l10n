@@ -18,7 +18,6 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "नोंथांनि फायारफक्सखौ नोंथांनि लुबैनाय बादि गावनि गोसोबादि खालामनो गोरलै।<a>गोबां add-ons निफ्राय बासिख</a>।">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; आ नन-प्रफिट मजिला फाउण्डेसन निफ्राय बेसेन-नाङै आरो अपेन सर्स।<a>नोंथांनि मोनथायखौ मोनथि…</a>">
 

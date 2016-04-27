@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "बाक्सु मडेल">
-<!ENTITY margin.tooltip         "रुगुं">
-<!ENTITY border.tooltip         "सिमना">
-<!ENTITY padding.tooltip        "पेडिं">
-<!ENTITY content.tooltip        "थानायआयदा">
+<!ENTITY layoutViewTitle          "बाक्सु मडेल">
+<!ENTITY margin.tooltip           "रुगुं">
+<!ENTITY border.tooltip           "सिमना">
+<!ENTITY padding.tooltip          "पेडिं">
+<!ENTITY content.tooltip          "थानायआयदा">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
