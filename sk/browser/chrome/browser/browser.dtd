@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
 <!ENTITY showAllBookmarks2.label "Zobraziť všetky záložky">
-<!ENTITY unsortedBookmarksCmd.label "Nezaradené záložky">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
 
 <!ENTITY backCmd.label                "Naspäť">
@@ -196,7 +195,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Zobraziť správu o úložisku pre aplikácie v režime offline">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Spravovať prihlasovacie údaje">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Otázka, či chcete uložiť heslo">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Zobraziť správu o inštalácii aplikácie">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Spravovať používanie zásuvných modulov na tejto stránke">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Zmeniť, či chcete dostávať upozornenia z tejto stránky">
 
@@ -224,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Záložky">
-<!ENTITY bookmarksMenuButton.unsorted.label "Nezaradené záložky">
 <!ENTITY viewBookmarksSidebar2.label        "Zobraziť bočný panel Záložky">
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
 
@@ -254,79 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webový vývojár">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Pripojiť…">
-<!ENTITY devtoolsConnect.accesskey    "P">
-
-<!ENTITY errorConsoleCmd.label        "Chybová konzola">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "Vzdialená webová konzola">
-
-<!ENTITY browserConsoleCmd.label      "Konzola prehliadača">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "h">
-
 <!ENTITY inspectContextMenu.label     "Preskúmať prvok">
 <!ENTITY inspectContextMenu.accesskey "m">
-
-<!ENTITY responsiveDesignTool.label   "Režim Responsive Design">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Kvapkadlo">
-<!ENTITY eyedropper.accesskey "K">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Editor JavaScriptu">
-<!ENTITY scratchpad.accesskey         "E">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Nástroje prehliadača">
-<!ENTITY browserToolboxMenu.accesskey "N">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Nástroje pre obsah prehliadača">
-<!ENTITY browserContentToolboxMenu.accesskey "a">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Zavrieť panel nástrojov Vývojár">
-<!ENTITY devToolbarMenu.label              "Panel nástrojov Vývojár">
-<!ENTITY devToolbarMenu.accesskey          "V">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Prepnúť vývojárske nástroje">
-<!ENTITY devToolboxMenuItem.accesskey      "P">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Prepnúť vývojárske nástroje">
-<!ENTITY devToolbarOtherToolsButton.label  "Ďalšie nástroje">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Získať ďalšie nástroje">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "Z">
 
 <!ENTITY fileMenu.label         "Súbor"> 
 <!ENTITY fileMenu.accesskey       "S">
@@ -410,7 +336,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Otvorí ponuku Pomocník">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizované karty">
-<!ENTITY appMenuRemoteTabs.fetching.label "Získavajú sa synchronizované karty…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Žiadne otvorené karty">
@@ -420,7 +345,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Prihláste sa do Firefoxu na vašich ostatných zariadeniach, ak tu chcete vidieť karty z týchto zariadení.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastavenia synchronizácie">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prihlásiť sa k službe Sync">
@@ -795,7 +719,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synchronizované karty">
 
 <!ENTITY syncedTabs.sidebar.label              "Synchronizované karty">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Získavajú sa synchronizované karty…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Prihláste sa do Firefoxu na vašich ostatných zariadeniach, ak tu chcete vidieť karty z týchto zariadení.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Žiadne otvorené karty">
@@ -804,10 +727,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Otvoriť túto kartu">
-<!ENTITY syncedTabs.context.openTab.accesskey               "O">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Pridať túto kartu medzi záložky…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "z">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Pridať túto kartu medzi záložky…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "z">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
