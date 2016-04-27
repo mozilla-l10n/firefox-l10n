@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiketak">
 <!ENTITY bookmarks.folder.toolbar.label "Laster-marken tresna-barra">
-<!ENTITY bookmarks.folder.unfiled.label "Ordenatu gabeko laster-markak">
+
 <!ENTITY bookmarks.folder.desktop.label "Laster-marka guztiak">
 <!ENTITY bookmarks.folder.mobile.label "Mugikorreko laster-markak">
-<!ENTITY bookmarks.folder.readinglist.label "Irakurketa-zerrenda">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Ainguratuak">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Konfiguratu &syncBrand.shortName.label; fitxak bidaltzeko">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Konfiguratu &syncBrand.fullName.label; zure gailuan beste gailuetara fitxak bidaltzeko.">
-<!ENTITY sync.text.tab.sent.label "Zure fitxa bidali da!">
-<!ENTITY sync.text.tab.not.sent.label "Arazo bat izan da zure fitxa bidaltzean.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Firefoxeko kontuak">
-
-<!ENTITY fxaccount_custom_server_account_title "Zerbitzariko kontua erabiliz">
-<!ENTITY fxaccount_custom_server_sync_title "Sync datuak zerbitzarian biltegiratuz">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "Helbide elektronikoa">
-<!ENTITY fxaccount_password_hint "Pasahitza">
-<!ENTITY fxaccount_password_hide "Ezkutatu">
-<!ENTITY fxaccount_password_show "Erakutsi">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "Atzera nabigaziora">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Zerbitzuaren baldintzak">
-<!ENTITY fxaccount_policy_linkprivacy "Pribatutasun-oharra">
+<!ENTITY fxaccount_back_to_browsing "Atzera nabigaziora">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Ongi etorri &syncBrand.shortName.label;(e)ra">
 <!ENTITY fxaccount_getting_started_description2 "Hasi saioa zure fitxak, laster-markak, saio-hasierak eta gehiago sinkronizatzeko.">
 <!ENTITY fxaccount_getting_started_get_started "Hasi erabiltzen">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;(e)n bertsio zaharrago bat darabilzu?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "Sortu Firefox kontua">
-<!ENTITY fxaccount_create_account_password_length_restriction "Gutxienez 8 karaktere izan behar ditu">
-<!ENTITY fxaccount_create_account_day_of_birth "Eguna">
-<!ENTITY fxaccount_create_account_month_of_birth "Hilabetea">
-<!ENTITY fxaccount_create_account_year_of_birth "Jaiotze-urtea">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Jarraitzearekin bat, Firefoxen hodeieko zerbitzuen &formatS1; eta &formatS2; onartzen ditut.">
-<!ENTITY fxaccount_create_account_button "Hurrengoa">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Aukeratu zer sinkronizatu">
-<!ENTITY fxaccount_create_account_sign_in_instead "Baduzu kontua? Hasi saioa">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 edo lehenago">
-<!ENTITY fxaccount_create_account_unknown_error "Ezin da kontua sortu">
-
-<!ENTITY fxaccount_account_create_not_allowed "Ezin da kontua sortu">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Adinaren zenbait baldintza bete behar dituzu kontua sortu ahal izateko.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Argibide gehiago">
-
-<!ENTITY fxaccount_confirm_account_header "Berretsi kontua">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Egiaztapen-lotura &formatS; helbidera bidali da">
-<!ENTITY fxaccount_confirm_account_resend_email "Birbidali mezua">
-<!ENTITY fxaccount_confirm_account_change_email "Helbide elektronikoa ahaztuta?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Egiaztapen-mezua bidali da">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Ezin izan da egiaztapen-mezua bidali">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Birbidali desblokeatzeko mezua">
-<!ENTITY fxaccount_unlock_code_sent "Kontua desblokeatzeko mezua bidalita">
-<!ENTITY fxaccount_unlock_code_not_sent "Ezin da kontua desblokeatzeko mezua bidali">
-
-<!ENTITY fxaccount_sign_in_sub_header "Hasi saioa">
-<!ENTITY fxaccount_sign_in_button_label "Hasi saioa">
-<!ENTITY fxaccount_sign_in_forgot_password "Pasahitza ahaztu duzu?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Sortu kontua">
-<!ENTITY fxaccount_sign_in_unknown_error "Ezin da saioa hasi">
-
-<!ENTITY fxaccount_account_verified_sub_header "Kontua egiaztatuta">
-<!ENTITY fxaccount_account_verified_description2 "Zure datuak une batetik bestera hasiko dira sinkronizatzen.">
-
-<!ENTITY fxaccount_migration_finished_header "Bertsio-berritzea amaituta">
-
-<!ENTITY fxaccount_update_credentials_header "Hasi saioa">
-<!ENTITY fxaccount_update_credentials_button_label "Hasi saioa">
-<!ENTITY fxaccount_update_credentials_unknown_error "Ezin da saioa hasi">
-
-<!ENTITY fxaccount_finish_migrating_header "Hasi saioa bertsio-berritzea amaitzeko">
-<!ENTITY fxaccount_finish_migrating_button_label "Amaitu bertsio-berritzea">
-<!ENTITY fxaccount_finish_migrating_description "Bertsio-berritzeak datu asko transferi ditzake. Hobe da Wi-Fi sare batean egotea.">
-
-<!ENTITY fxaccount_status_header2 "Firefox kontua">
 <!ENTITY fxaccount_status_signed_in_as "Saioa hasita:">
 <!ENTITY fxaccount_status_manage_account "Kudeatu kontua">
 <!ENTITY fxaccount_status_auth_server "Kontuaren zerbitzaria">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Zerbitzuaren baldintzak">
-<!ENTITY fxaccount_status_linkprivacy "Pribatutasun-oharra">
+
 <!ENTITY fxaccount_status_more "Gehiago&ellipsis;">
 <!ENTITY fxaccount_remove_account "Deskonektatu&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Zerbitzaria lanpetuta dago, saiatu berriro laster">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Zerbitzaria lanpetuta dago, saiatu berriro laster">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Arazo bat egon da">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Ezin da sarera konektatu">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Kontua blokeatuta dago. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; konektatu gabe dago">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Sakatu &formatS; gisa saioa hasteko">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "Hasi saioa sinkronizatzen jarraitzeko">
-<!ENTITY old_sync_deprecated_notification_content "Zure kontua ez da onartzen jada">
