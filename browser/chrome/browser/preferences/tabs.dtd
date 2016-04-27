@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "打开多个标签页可能致使 &brandShortName; 缓慢时警告我">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "选择之前不要加载标签页">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "新建标签页来打开链接时，立即切换过去">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
