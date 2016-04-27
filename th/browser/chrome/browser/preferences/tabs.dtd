@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "เตือนเมื่อเปิดแท็บจำนวนมาก ซึ่งอาจทำให้ &brandShortName; ทำงานช้าลง">
 <!ENTITY warnOpenManyTabs.accesskey   "ม">
 
-<!ENTITY restoreTabsOnDemand.label        "ไม่ต้องโหลดแท็บจนกว่าจะถูกเลือก">
-<!ENTITY restoreTabsOnDemand.accesskey    "ล">
-
 <!ENTITY switchToNewTabs.label        "เมื่อเปิดลิงก์ในแท็บใหม่ ให้สลับไปที่แท็บนั้นทันที">
 <!ENTITY switchToNewTabs.accesskey    "ส">
 

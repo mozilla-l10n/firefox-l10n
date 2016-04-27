@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "ไม่พบแฟ้มที่เรียก">
 <!ENTITY fileNotFound.longDesc "<ul><li>แฟ้มที่เรียกอาจเปลี่ยนชื่อ, ถูกลบ, หรือย้ายที่ไปแล้ว</li><li>ที่อยู่แฟ้มอาจสะกดผิด, เขียนตัวใหญ่-เล็กไม่ตรง, หรือตกหล่น</li><li>คุณอาจไม่ได้รับอนุญาตให้เข้าถึงแฟ้มที่เรียก</li></ul>">
 
+
+
 <!ENTITY generic.title "การดำเนินการตามที่ร้องขอไม่เสร็จสิ้น">
 <!ENTITY generic.longDesc "<p>ไม่มีข้อมูลข่าวสารเพิ่มเติมสำหรับปัญหาหรือข้อผิดพลาดนี้</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL ระยะไกล">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งปัญหาข้างต้น</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
