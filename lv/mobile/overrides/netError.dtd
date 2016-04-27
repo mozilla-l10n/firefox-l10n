@@ -19,25 +19,23 @@
 <!ENTITY dnsNotFound.title "Serveris nav atrasts">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Pārbaudiet, vai adresē nav drukas kļūdu, piemēram, <strong>ww</strong>.example.com, kur būtu jābūt <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Meklēt</button> </div> <li>Ja nevarat ielādēt nevienu lapu, pārbaudiet ierīces datu vai Wi-Fi savienojumu. <button id='wifi'>Ieslēgt Wi-Fi</button></li> </ul>">
 
 <!ENTITY fileNotFound.title "Fails nav atrasts">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Pārbaudiet, vai faila nosaukumā nav drukas kļūdu. Lielie un mazie burti ir atšķirīgi simboli.</li> <li>Pārbaudiet, vai fails nav pārvietots, pārsaukts vai izdzēsts.</li> </ul>">
 
 
-<!ENTITY generic.title "Ak vai!">
-<!ENTITY generic.longDesc "<p>&brandShortName; kaut kādu iemeslu dēļ nevar ielādēt šo lapu.</p>">
 
-<!ENTITY malformedURI.title "Adrese nav korekta">
+<!ENTITY generic.title "Ak vai!">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Adreses internetā parasti raksta šādi: <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Meklēt</button> </div> <li>Pārliecinieties, ka izmantojat pareizas slīpsvītras (tas ir, <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Savienojums tika pārtraukts">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumentam ir beidzies derīguma termiņš">
-<!ENTITY notCached.longDesc "<p>Pieprasītais dokuments vairs nav pieejams &brandShortName; kešatmiņā.</p><ul><li>Drošības apsvērumu dēļ &brandShortName; automātiski neveic sensitīvu dokumentu atkārtotu ielādi.</li><li>Spiediet pogu Mēģināt vēlreiz, lai atkārtoti ielādētu šo dokumentu no attiecīgās vietnes.</li></ul>">
+
 
 <!ENTITY netOffline.title "Nesaistes režīms">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -56,7 +54,6 @@
 <!ENTITY netTimeout.title "Savienojumam iestājās noilgums">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "Nepazīstama adrese">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Iespējams jāuzinstalē kāda programma, lai atvērtu šo adresi.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Starpniekserveris nepieņem savienojumus">
@@ -67,7 +64,6 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Lūdzu, pārbaudiet starpniekservera iestatījumus un pārliecinieties, ka tie ir korekti.</li> <li>Pārliecinieties, ka ierīces datu vai Wi-Fi savienojums darbojas. <button id='wifi'>Ieslēgt Wi-Fi</button></li> </ul>">
 
-<!ENTITY redirectLoop.title "Lapa veic nekorektu pāradresāciju">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Reizēm šādu problēmu var atrisināt, atļaujot un pieņemot sīkdatnes.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Negaidīta atbilde no servera">
@@ -77,11 +73,9 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Lapu, ko mēģināt aplūkot, nevar parādīt, jo nav iespējams pārbaudīt saņemto datu autentiskumu.</li> <li>Lūdzu, informējiet vietnes īpašniekus par šo problēmu.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Drošais savienojums neizdevās">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Šī var būt problēma ar servera konfigurāciju vai pazīme, ka par šo serveri uzdodas cits dators.</li> <li>Ja pagātnē esat pieslēdzies šim serverim, problēma var būt īslaicīga. Tad mēģiniet vēlreiz nedaudz vēlāk.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
-<!ENTITY sharedLongDesc3 "<ul> <li>Lapa var būt īslaicīgi nepieejama vai pārāk noslogota, mēģiniet vēlreiz nedaudz vēlāk.</li> <li>Ja nevarat ielādēt nevienu lapu, pārbaudiet ierīces datu vai Wi-Fi savienojumu. <button id='wifi'>Ieslēgt Wi-Fi</button></li> </ul>">
 
 <!ENTITY cspBlocked.title "Satura drošības politikas ierobežojums">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi, jo tā neatbilst satura drošības politikai.</p>">
@@ -108,7 +102,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Papildus informācija:  SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Savienojums nav drošs">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Papildus informācija:  SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

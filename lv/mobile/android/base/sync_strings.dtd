@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Birkas">
 <!ENTITY bookmarks.folder.toolbar.label "Grāmatzīmju rīkjosla">
-<!ENTITY bookmarks.folder.unfiled.label "Nešķirotās grāmatzīmes">
+
 <!ENTITY bookmarks.folder.desktop.label "Datora grāmatzīmes">
 <!ENTITY bookmarks.folder.mobile.label "Mobilās grāmatzīmes">
-<!ENTITY bookmarks.folder.readinglist.label "Lasīšanas saraksts">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Piespraustās">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Iestatīt &syncBrand.shortName.label;, lai nosūtītu cilnes">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Iestatīt &syncBrand.fullName.label; ierīcē, lai nosūtītu cilnes citām ierīcēm.">
-<!ENTITY sync.text.tab.sent.label "Cilne sekmīgi nosūtīta!">
-<!ENTITY sync.text.tab.not.sent.label "Sūtot cilni, gadījās kļūda.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Firefox konti">
-
-<!ENTITY fxaccount_custom_server_account_title "Izmantojot servera kontu">
-<!ENTITY fxaccount_custom_server_sync_title "Saglabā sinhronizācijas datus uz servera">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "E-pasts">
-<!ENTITY fxaccount_password_hint "Parole">
-<!ENTITY fxaccount_password_hide "Slēpt">
-<!ENTITY fxaccount_password_show "Rādīt">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "Turpināt pārlūkošanu">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Lietošanas noteikumi">
-<!ENTITY fxaccount_policy_linkprivacy "Privātuma atruna">
+<!ENTITY fxaccount_back_to_browsing "Turpināt pārlūkošanu">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Esiet sveicināti &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Ierakstieties, lai sinhronizētu cilnes, grāmatzīmes, paroles u.c.">
 <!ENTITY fxaccount_getting_started_get_started "Sākt">
 <!ENTITY fxaccount_getting_started_old_firefox "Izmantojat vecāku &syncBrand.shortName.label; versiju?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "Izveidot Firefox kontu">
-<!ENTITY fxaccount_create_account_password_length_restriction "Jābūt vismaz 8 simbolus garai">
-<!ENTITY fxaccount_create_account_day_of_birth "Diena">
-<!ENTITY fxaccount_create_account_month_of_birth "Mēnesis">
-<!ENTITY fxaccount_create_account_year_of_birth "Dzimšanas gads">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Firefox mākoņu pakalpojumu &formatS1; un &formatS2;. Turpinot, Jūs tiem piekrītat">
-<!ENTITY fxaccount_create_account_button "Turpināt">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Izvēlieties, ko sinhronizēt">
-<!ENTITY fxaccount_create_account_sign_in_instead "Jums jau ir konts? Ierakstieties">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 vai agrāk">
-<!ENTITY fxaccount_create_account_unknown_error "Neizdevās izveidot kontu">
-
-<!ENTITY fxaccount_account_create_not_allowed "Nevar izveidot kontu">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Kontu izveide ir pieejama tikai cilvēkiem noteiktā vecumā.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Uzzināt vairāk">
-
-<!ENTITY fxaccount_confirm_account_header "Apstipriniet kontu">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Apstiprinājuma saite ir nosūtīta uz &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Nosūtīt vēlreiz">
-<!ENTITY fxaccount_confirm_account_change_email "Aizmirsāt epasta adresi?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Apstiprinājuma e-pasts ir nosūtīts">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Neizdevās nosūtīt apstiprinājuma e-pastu">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Nosūtīt vēlreiz atbloķēšanas epastu">
-<!ENTITY fxaccount_unlock_code_sent "Konta atbloķēšanas epasts ir nosūtīs">
-<!ENTITY fxaccount_unlock_code_not_sent "Neizdevās nosūtīt konta atbloķēšanas epastu">
-
-<!ENTITY fxaccount_sign_in_sub_header "Ierakstīties">
-<!ENTITY fxaccount_sign_in_button_label "Ierakstīties">
-<!ENTITY fxaccount_sign_in_forgot_password "Aizmirsāt paroli?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Izveidot kontu">
-<!ENTITY fxaccount_sign_in_unknown_error "Neizdevās ierakstīties">
-
-<!ENTITY fxaccount_account_verified_sub_header "Konts ir apstiprināts">
-<!ENTITY fxaccount_account_verified_description2 "Jūsu dati tūlīt tiks sinhronizēti.">
-
-<!ENTITY fxaccount_migration_finished_header "Atjaunināšana ir pabeigta">
-
-<!ENTITY fxaccount_update_credentials_header "Ierakstieties">
-<!ENTITY fxaccount_update_credentials_button_label "Ierakstīties">
-<!ENTITY fxaccount_update_credentials_unknown_error "Neizdevās ierakstīties">
-
-<!ENTITY fxaccount_finish_migrating_header "Pieslēdzieties, lai pabeigtu atjaunināšanu">
-<!ENTITY fxaccount_finish_migrating_button_label "Pabeigt atjaunināšanu">
-<!ENTITY fxaccount_finish_migrating_description "Atjauninot var tikt pārsūtīts liels datu daudzums, to vislabāk darīt no WiFi tīkla.">
-
-<!ENTITY fxaccount_status_header2 "Firefox konts">
 <!ENTITY fxaccount_status_signed_in_as "Pierakstījies kā">
 <!ENTITY fxaccount_status_manage_account "Pārvaldīt kontu">
 <!ENTITY fxaccount_status_auth_server "Kona serveris">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Lietošanas noteikumi">
-<!ENTITY fxaccount_status_linkprivacy "Privātuma atruna">
+
 <!ENTITY fxaccount_status_more "Vairāk&ellipsis;">
 <!ENTITY fxaccount_remove_account "Atvienoties&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Serveris ir pārslogots, mēģiniet vēlreiz pēc brīža">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Serveris ir pārslogots, mēģiniet vēlreiz pēc brīža">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Radusies problēma">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Nevar savienoties ar tīklu">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Konts ir bloķēts. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; nav savienots">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Pieskarieties te, lai pieslēgtos kā &formatS;">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "Pierakstieties, lai turpinātu sinhronizēšanu">
-<!ENTITY old_sync_deprecated_notification_content "Jūsu konts vairs netiek atbalstīts">

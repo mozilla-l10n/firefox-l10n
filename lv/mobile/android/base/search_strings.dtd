@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Nodzēst visu meklēšana vēsturi šajā ierīcē?">
 <!ENTITY pref_clearHistory_title "Dzēst meklēšanas vēsturi">
 
-<!ENTITY pref_searchProvider_title "Meklētājs">
-
 <!ENTITY search_widget_button_label "Meklēt">
 
 <!ENTITY network_error_title "Nav interneta savienojuma">
