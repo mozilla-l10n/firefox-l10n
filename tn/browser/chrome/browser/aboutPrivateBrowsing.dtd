@@ -2,54 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "Ga o mo window e poraefete.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Bula Window e Poraefete">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Ga o mo window e poraefete.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Bula Window e Poraefete">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "W">
 
-<!ENTITY privateBrowsing.title                 "Patlo e Poraefete">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
-     Width of the Private Browsing section. This should depend primarily on the
-     length of the headers and text, but should be roughly 1.5 times the width
-     of the Tracking Protection section, and in general not much larger than
-     30em to prevent the sections from wrapping on smaller window sizes.
-     -->
 
-<!ENTITY aboutPrivateBrowsing.width1           "30em">
-<!ENTITY aboutPrivateBrowsing.title            "O mo patlong ya sephiri">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "Ga e a Bolokiwa">
-<!ENTITY aboutPrivateBrowsing.info.history     "ditso">
-<!ENTITY aboutPrivateBrowsing.info.searches    "Dipatlo">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "Dikhukhi">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Difaele tsa nakwana">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "E Bolokilwe">
-<!ENTITY aboutPrivateBrowsing.info.downloads   "Dikopololo">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Matshwaotsebe">
 
-<!ENTITY aboutPrivateBrowsing.note1            "Tswêê-tswêê itse fa mmereki wa gago kgotsa motlamedi wa tirelo ya inthanete a ka nna a latedisa ditsebe tse o di etelang.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Ithute mo Gontsi.">
-<!-- LOCALIZATION NOTE (trackingProtection.width1):
-     Width of the Tracking Protection section. It is fine for the enabled or
-     disabled indicator or the words in the title to wrap to the next line, but
-     you can expand or reduce this section to fit better, as long as the width
-     of the Private Browsing section is roughly 1.5 times the width of this one.
-     Note that the required space may vary between platforms because fonts are
-     different, so testing on Windows, Mac, and Linux is encouraged.
-     -->
 
-<!ENTITY trackingProtection.width1             "22em">
-<!ENTITY trackingProtection.title              "Tshireletso ya Tatediso">
-<!-- LOCALIZATION NOTE (trackingProtection.state.width):
-     Width of the element representing the enabled or disabled indicator.
-     -->
 
-<!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "TSHUBA">
-<!ENTITY trackingProtection.state.disabled     "TIMA">
 
-<!ENTITY trackingProtection.description1       "Windows tsa poraefete ga jaana di thibela dikarolo tsa tsebe tse di ka latedisang tiro-patlo ya gago.">
 
-<!ENTITY trackingProtection.disable            "Tobetsa go Tima Tshireletso ya Tatediso">
-<!ENTITY trackingProtection.enable             "Tobetsa go Dirisa Tshireletso ya Tatediso">
-<!ENTITY trackingProtection.startTour1         "Bona gore se dira jang">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY trackingProtection.title                        "Tshireletso ya Tatediso">
+
+
