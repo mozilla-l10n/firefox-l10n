@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "ഫയല്‍ ലഭ്യമായില്ല">
 <!ENTITY fileNotFound.longDesc "<ul><li>വസ്തുവിന്റെ പേര് മാറ്റുകയോ, അതിനെ നീക്കം ചെയ്യുകയോ സ്ഥലം മാറ്റുവാനോ സാധ്യമാണോ?</li><li>അക്ഷരത്തെറ്റോ മറ്റെന്തെങ്കിലും തെറ്റ് വിലാസത്തില്‍ ഉണ്ടോ ?</li><li> ആവശ്യപ്പെട്ട വസ്തുവിലേക്ക് പ്രവേശിക്കുന്നതിനുള്ള അനുവാദം നിങ്ങള്‍ക്കുണ്ടോ?</li></ul>">
 
+
+
 <!ENTITY generic.title "ആവശ്യം പൂര്‍ത്തിയാക്കുവാന്‍ സാധ്യമല്ല">
 <!ENTITY generic.longDesc "<p>ഈ പിശക് അല്ലെങ്കില്‍ പ്രശ്നം സംബന്ധിച്ചുള്ള കൂടുതല്‍ വിവരങ്ങള്‍ നിലവില്‍ ലഭ്യമല്ല.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "റിമോട്ട് XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ദയവായി വെബ് സൈറ്റ് ഉടമസ്ഥാക്കളെ ഈ പ്രശ്നത്തെപ്പറ്റി അറിയിയ്ക്കുക.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

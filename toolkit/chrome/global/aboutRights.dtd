@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "സുരക്ഷിതമായ ബ്രൌസിങ് വിശേഷത പ്രവര്‍ത്തന രഹിതമാക്കുന്നതു് ഉചിതമല്ല, കാരണം ഇതു് നിങ്ങളെ അസുരക്ഷിതമായ വെബ് സൈറ്റുകളിലേക്കു് എത്തിയ്ക്കുന്നു. ഈ വിശേഷത പൂര്‍ണ്ണമായി പ്രവര്‍ത്തന രഹിതമാക്കുന്നതിനായി, ഈ നടപടികള്‍ പാലിയ്ക്കുക:">
 <!ENTITY rights.safebrowsing-term1 "പ്രയോഗത്തിനുള്ള മുന്‍ഗണനകള്‍ തുറക്കുക">
 <!ENTITY rights.safebrowsing-term2 "സുരക്ഷ തെരഞ്ഞെടുക്കല്‍ തെരഞ്ഞെടുക്കുക">
-<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; , &quot;&blockWebForgeries.label;&quot; എന്നിവയ്ക്കുള്ള ഐച്ഛികള്‍ ഉപേക്ഷിയ്ക്കുക.">
+
 <!ENTITY rights.safebrowsing-term4 "സുരക്ഷാ ബ്രൌസിങ് ഇപ്പോള്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു">
 <!-- location aware browsing points for branded builds -->
 
