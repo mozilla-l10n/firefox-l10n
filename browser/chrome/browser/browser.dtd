@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Inscrever RSS…">
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
 <!ENTITY showAllBookmarks2.label "Exibir todos os favoritos">
-<!ENTITY unsortedBookmarksCmd.label "Favoritos não organizados">
 <!ENTITY bookmarksToolbarChevron.tooltip "Exibir mais favoritos">
 
 <!ENTITY backCmd.label                "Voltar">
@@ -196,7 +195,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ver a mensagem de armazenamento offline do aplicativo">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Gerenciar suas informações de login">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Verificar se você deseja salvar sua senha">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Ver a mensagem de instalação do aplicativo">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Gerenciar o uso do plugin nesta página">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Alterar o recebimento de notificações do site">
 
@@ -224,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Favoritos">
-<!ENTITY bookmarksMenuButton.unsorted.label "Favoritos não organizados">
 <!ENTITY viewBookmarksSidebar2.label        "Ver painel de favoritos">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de favoritos">
 
@@ -254,79 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desenvolvedor web">
 <!ENTITY webDeveloperMenu.accesskey   "s">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Conectar…">
-<!ENTITY devtoolsConnect.accesskey    "C">
-
-<!ENTITY errorConsoleCmd.label        "Console de erros">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "Console remoto da web">
-
-<!ENTITY browserConsoleCmd.label      "Console do navegador">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "o">
-
 <!ENTITY inspectContextMenu.label     "Inspecionar elemento">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "Modo de design adaptável">
-<!ENTITY responsiveDesignTool.accesskey "M">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Conta-gotas">
-<!ENTITY eyedropper.accesskey "g">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Caixa de ferramentas do navegador">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Caixa de ferramentas de conteúdo do navegador">
-<!ENTITY browserContentToolboxMenu.accesskey "C">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Fechar barra do desenvolvedor">
-<!ENTITY devToolbarMenu.label              "Barra do desenvolvedor">
-<!ENTITY devToolbarMenu.accesskey          "B">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Exibir/ocultar ferramentas">
-<!ENTITY devToolboxMenuItem.accesskey      "x">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Exibir/ocultar ferramentas do desenvolvedor">
-<!ENTITY devToolbarOtherToolsButton.label  "Mais ferramentas">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Adicionar outras ferramentas">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "A">
 
 <!ENTITY fileMenu.label         "Arquivo"> 
 <!ENTITY fileMenu.accesskey       "A">
@@ -410,7 +336,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Abrir menu Ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Abas sincronizadas">
-<!ENTITY appMenuRemoteTabs.fetching.label "Buscar abas sincronizadas…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nenhuma aba aberta">
@@ -420,7 +345,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Entre no Firefox em outros dispositivos para ver suas abas aqui.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferências do Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Entre para ver uma lista de abas de outros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Entrar no Sync">
@@ -795,7 +719,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Abas sincronizadas">
 
 <!ENTITY syncedTabs.sidebar.label              "Abas sincronizadas">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Buscar abas sincronizadas…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Entrar no Firefox em outros dispositivos para ver suas abas aqui.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Entrar para ver uma lista de abas de outros dispositivos.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nenhuma aba aberta">
@@ -804,10 +727,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ligar a sincronização para exibir uma lista de abas de outros dispositivos.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Abrir esta aba">
-<!ENTITY syncedTabs.context.openTab.accesskey               "A">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Adicionar esta aba aos favoritos…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "F">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Adicionar esta aba aos favoritos…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "F">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
