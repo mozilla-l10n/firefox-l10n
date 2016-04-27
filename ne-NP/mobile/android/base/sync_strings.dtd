@@ -26,70 +26,11 @@
 
 
 
-
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!-- Send tab to device. -->
-
-
-
 <!-- Firefox Account strings. -->
-
-
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-
-
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
-
-
-
-
-
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
-
-
-
-
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-
-
-
-
-
-
-
-
-
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -146,12 +87,8 @@
 
 
 
-
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
