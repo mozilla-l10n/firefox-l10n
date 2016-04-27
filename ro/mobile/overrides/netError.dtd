@@ -25,19 +25,18 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifică ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verifică ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
 
 
-<!ENTITY generic.title "Ups.">
-<!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina dintr-un motiv oarecare.</p>">
 
-<!ENTITY malformedURI.title "Adresa nu este validă">
+<!ENTITY generic.title "Ups.">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Adresele web se scriu de obicei așa <strong>http://www.exemplu.ro/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Caută</button> </div> <li>Asigură-te că folosești slash-uri orientate spre dreapta (de ex., <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Document expirat">
-<!ENTITY notCached.longDesc "<p>Documentul cerut nu este disponibil în cache-ul din &brandShortName;.</p><ul><li>Ca o măsură de securitate, &brandShortName; nu cere din nou automat documente confidențiale.</li><li>Clic pe „Încearcă din nou” pentru a cere din nou documentul de la site-ul web.</li></ul>">
+
 
 <!ENTITY netOffline.title "Mod offline">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -56,7 +55,6 @@
 <!ENTITY netTimeout.title "Timpul conexiunii a expirat">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>S-ar putea să fie nevoie să instalezi alt program pentru a deschide această adresă.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
@@ -67,7 +65,6 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Asigură-te că dispozitivul tău are o conexiune funcțională de date sau Wi-Fi. <button id='wifi'>Activează Wi-Fi-ul</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivezi sau refuzi să accepți cookie-uri.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
@@ -77,11 +74,9 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pagina pe care încerci să o vezi nu poate fi afișată deoarece nu s-a putut verifica autenticitatea datelor primite.</li> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Conexiunea securizată a eșuat">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Acest lucru s-ar putea datora unei probleme în configurația serverului, sau s-ar putea ca cineva să încerce să pretindă în mod fraudulos că este acest server.</li> <li>Dacă te-ai conectat cu succes în trecut la acest server, eroarea poate fi temporară și poți încerca din nou mai târziu.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
-<!ENTITY sharedLongDesc3 "<ul> <li>Site-ul ar putea fi temporar indisponibil sau foarte încărcat. Încearcă din nou în câteva momente.</li> <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi a dispozitivului. <button id='wifi'>Activează Wi-Fi-ul</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
@@ -108,7 +103,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Informații avansate: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Conexiunea ta nu este securizată">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Informații avansate: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

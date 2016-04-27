@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Ștergi tot istoricul de căutare de pe dispozitiv?">
 <!ENTITY pref_clearHistory_title "Șterge istoricul de căutare">
 
-<!ENTITY pref_searchProvider_title "Motor de căutare">
-
 <!ENTITY search_widget_button_label "Căutare">
 
 <!ENTITY network_error_title "Fără conexiune la internet">
