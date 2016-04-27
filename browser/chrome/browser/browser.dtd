@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Gerast áskrifandi að þessari síðu…">
 <!ENTITY addCurPagesCmd.label "Setja flipa í bókamerki…">
 <!ENTITY showAllBookmarks2.label "Sýna öll bókamerki">
-<!ENTITY unsortedBookmarksCmd.label "Óröðuð bókamerki">
+<!ENTITY recentBookmarks.label "Nýlega sett í bókamerki">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
 
 <!ENTITY backCmd.label                "Til baka">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Skoða skilaboð fyrir ónettengda app geymslu">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Sýsla með innskráningar">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Hakaðu við ef þú vilt vista lykilorðið">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Skoða skilaboð frá app uppsetningu">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Sýsla með notkun á tengiforriti á þessari síðu">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Breyta hvort vefsvæði getur sent þér tilkynningar">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bókamerki">
-<!ENTITY bookmarksMenuButton.unsorted.label "Óröðuð bókamerki">
+
 <!ENTITY viewBookmarksSidebar2.label        "Birta bókamerki í hliðslá">
 <!ENTITY viewBookmarksToolbar.label         "Skoða bókamerkjaslá">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Vefforritari">
 <!ENTITY webDeveloperMenu.accesskey   "f">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Tengjast…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Villugluggi">
-<!ENTITY errorConsoleCmd.accesskey    "g">
-
-<!ENTITY remoteWebConsoleCmd.label    "Fjartengdur vefgluggi">
-
-<!ENTITY browserConsoleCmd.label      "Vafragluggi">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "V">
-
 <!ENTITY inspectContextMenu.label     "Skoða einindi">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "Svartíma sýn">
-<!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Litaplokkari">
-<!ENTITY eyedropper.accesskey "L">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Ritill">
-<!ENTITY scratchpad.accesskey         "l">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Tækjaslá vafra">
-<!ENTITY browserToolboxMenu.accesskey "æ">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Verkfæri fyrir vafrainnihald">
-<!ENTITY browserContentToolboxMenu.accesskey "æ">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Loka tækjaslá forritara">
-<!ENTITY devToolbarMenu.label              "Tækjaslá forritara">
-<!ENTITY devToolbarMenu.accesskey          "f">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Skipta á milli verkfæra">
-<!ENTITY devToolboxMenuItem.accesskey      "t">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Skipta á milli þróunarverkfæra">
-<!ENTITY devToolbarOtherToolsButton.label  "Fleiri verkfæri">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Ná í fleiri verkfæri">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "N">
 
 <!ENTITY fileMenu.label         "Skrá"> 
 <!ENTITY fileMenu.accesskey       "S">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Klippa">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
-<!ENTITY copyCmd.label            "Afrita">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "A"> 
+
 <!ENTITY pasteCmd.label           "Líma">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "L"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Opna hjálparvalmynd">
 
 <!ENTITY appMenuRemoteTabs.label "Samstilltir flipar">
-<!ENTITY appMenuRemoteTabs.fetching.label "Næ í samstillta flipa…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Engir opnir flipar">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Skráðu þig inn í Firefox frá öðrum tækjum til að skoða þeirra flipa hér.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Samstilla stillingar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
 <!ENTITY appMenuRemoteTabs.signin.label "Skráðu þig inn í Sync">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Tengingin við þetta vefsvæði er ekki læst. Þær upplýsingar sem þú sendir gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).">
 <!ENTITY identity.description.insecureLoginForms "Upplýsingarnar sem þú setur inn á þessa síðu eru ekki öruggar og hugsanlega gæti þriðji aðili komist yfir þær.">
 <!ENTITY identity.description.weakCipher "Tengingin við þetta vefsvæði notar lélega dulkóðun og er ekki lokuð.">
-<!ENTITY identity.description.weakCipher2 "Aðrir geta skoðað þessar upplýsingar eða breytt virkni vefsvæðisins.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.">
 <!ENTITY identity.description.passiveLoaded "Tengingin við þetta vefsvæði er ekki lokuð og upplýsingar sem þú sendir gætu aðrir skoðað.">
 <!ENTITY identity.description.passiveLoaded2 "Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og myndir).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Samstilltir flipar">
 
 <!ENTITY syncedTabs.sidebar.label              "Samstilltir flipar">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Næ í samstillta flipa…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Skráðu þig inn í Firefox frá öðrum tækjum til að skoða þeirra flipa hér.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Engir opnir flipar">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Opna &syncBrand.shortName.label; stillingar">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Opna þennan flipa">
-<!ENTITY syncedTabs.context.openTab.accesskey               "O">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Setja flipa í bókamerki…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Setja flipa í bókamerki…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

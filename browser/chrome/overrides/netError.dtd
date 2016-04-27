@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Netþjónn fannst ekki">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Athugaðu hvort netfang inniheldur innsláttarvillur til dæmis <strong>ww</strong>.mozilla.org í staðinn fyrir <strong>www</strong>.mozilla.org</li> <li>Ef þú getur ekki tengst öðrum síðum, athugaðu þá nettengingu tölvunnar.</li> <li>Ef tölvan þín er varin af eldvegg eða milliþjóni, vertu viss um að &brandShortName; hafi aðgang til að tengjast vefnum.</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Athugaðu hvort þú hefur slegið inn skráarnafnið með hástafaritun eða aðra innsláttarvillu.</li> <li>Athugaðu hvort skráin hefur verið færð, endurnefnt eða eytt.</li> </ul>">
 
 
-<!ENTITY generic.title "Ææ.">
-<!ENTITY generic.longDesc "<p>Af einhverri ástæðu getur &brandShortName; ekki hlaðið inn þessari síðu.</p>">
 
-<!ENTITY malformedURI.title "Veffang ekki löglegt">
-<!ENTITY malformedURI.longDesc "<ul> <li>Veffang er venjulega skrifað sem <strong>http://www.example.com/</strong></li> <li>Vertu viss um að þú sért að slá inn skástrik (þ.e. <strong>/</strong>).</li> </ul>">
+<!ENTITY generic.title "Ææ.">
+
+
+
 
 <!ENTITY netInterrupt.title "Tenging slitnaði">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Skjal er útrunnið">
-<!ENTITY notCached.longDesc "<p>Umbeðið skjal er ekki til í skyndiminni &brandShortName;.</p><ul><li>Vegna öryggisástæðna, nær &brandShortName; ekki sjálfkrafa aftur í viðkvæm skjöl.</li><li>Smelltu á reyna aftur til að ná aftur í skjalið frá vefsvæðinu.</li></ul>">
+
 
 <!ENTITY netOffline.title "Ónettengdur hamur">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Smelltu á &quot;Reyna aftur&quot; til að tengjast netinu og endurnýja síðuna.</li> </ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "Tengitími rann út">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Óþekkt samskiptaregla">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Til að opna þetta veffang gætir þú þurft að hlaða inn öðrum hugbúnaði.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Milliþjónn neitar tengingum">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "Fann ekki milliþjónn">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Athugaðu milliþjóna stillingar netþjóns til að ganga úr skugga um að þær séu réttar.</li> <li>Athugaðu hvort tölvan þín sé tengd við netið.</li> <li>Ef tölvan eða netið er varið af eldvegg eða milliþjóni, athugaðu þá hvort &brandShortName; hefur leyfi til að tengjast netinu.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Síðan er ekki að endurbeina rétt">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Þetta vandamál getur verið vegna þess að lokað er á smákökur eða þær hafa verið aftengdar.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Rangt svar frá netþjóni">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Athugaðu hvort tölvan þín sé með persónulegan öryggisstjóra uppsettann.</li> <li>Þetta vandamál gæti verið vegna óstaðlaða stillinga á netþjóni.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Örugg tenging mistókst">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Ekki er hægt að sýna síðuna vegna þess að ekki var hægt að auðkenna gögnin.</li> <li>Hafið samband við vefstjóra svæðisins til að láta hann vita af þessu vandamáli.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Örugg tenging mistókst">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Þetta gæti verið vegna vandamála í stillingum netþjóns, eða einhver gæti verið að reyna að þykjast vera þessi netþjónn.</li> <li>Ef þú hefur getað tengst þessum netþjóni án vandamála áður, gæti verið að vandamálið sé aðeins tímabundið, þannig að þú gætir reynt aftur seinna.</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>Vefsvæðið er kannski ekki aðgengilegt eins og stendur eða er upptekið. Reyndu aftur seinna.</li> <li>Ef þú getur ekki hlaðið inn neinni síðu, athugaðu þá nettengingu tölvunnar.</li> <li>Ef tölvan eða netið er varið af eldvegg eða milliþjóni, athugaðu þá hvort &brandShortName; hafi aðgang til þess að fara á netið.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Lokað á vegna öryggisreglu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu sem kemur í veg fyrir það.</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við vefsíðueiganda til að láta hann vita af vandamálinu.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Eða þú getur bætt við undantekningu…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Hjálpaðu mér héðan út!">
 <!ENTITY securityOverride.exceptionButtonLabel "Bæta við undantekningu…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>Þú ættir ekki að bæta við undantekningu ef þú ert að nota Internet tengingu sem þú treystir ekki alveg eða ef þú ert ekki vanur að sjá aðvörun fyrir þennan vefþjóni.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Tilkynntu villur eins og þessa til að hjálpa Mozilla að bera kennsl á og loka á hættuleg vefsvæði">
 <!ENTITY errorReporting.learnMore "Fræðast meira…">
@@ -104,10 +92,15 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Ítarlegar upplýsingar: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Tenging er ekki örugg">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Ítarlegar upplýsingar: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Ítarlegt">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> notar öryggi sem er úrelt og er ekki öruggt. Árásaraðili gæti auðveldlega fengið aðgang að upplýsingum sem þú heldur að séu öruggar.">
 <!ENTITY weakCryptoAdvanced.override "(Ekki öruggt) Prófa að hlaða inn <span class='hostname'></span> á óöruggan hátt">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

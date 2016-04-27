@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "<ul><li>Gæti verið að hluturinn hafi verið endurnefndur, fjarlægður, eða færður til?</li><li>Er stafsetningarvilla, hástafaritun, eða annarskonar stafsetningarvilla í vistfanginu?</li><li>Hefurðu nægar aðgangsheimildir fyrir hlutinn?</li></ul>">
 
+
+
 <!ENTITY generic.title "Get ekki klárað beiðni">
 <!ENTITY generic.longDesc "<p>Aðrar upplýsingar um þetta vandamál er ekki til staðar.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Fjarlægt XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hafðu samband við eigendur vefsvæðins til að láta þá vita af þessu vandamáli.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
