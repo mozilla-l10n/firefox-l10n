@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Terkadang Anda dapat mempercepat pemuatan dengan memindahkan">
 <!ENTITY csscoverage.optimize.body2 "tag ke bagian akhir halaman dan membuat elemen sebaris baru">
-<!ENTITY csscoverage.optimize.body3 "baris dengan gaya yang dibutuhkan sebelum event 'load' di atas- Berikut adalah blok gaya yang dibutuhkan:">
+
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

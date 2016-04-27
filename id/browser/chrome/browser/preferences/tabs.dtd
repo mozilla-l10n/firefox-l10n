@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Ingatkan jika membuka banyak tab sekaligus akan membuat &brandShortName; melambat">
 <!ENTITY warnOpenManyTabs.accesskey   "l">
 
-<!ENTITY restoreTabsOnDemand.label        "Jangan muat tab sebelum dipilih">
-<!ENTITY restoreTabsOnDemand.accesskey    "m">
-
 <!ENTITY switchToNewTabs.label        "Jika tautan dibuka di sebuah tab baru, langsung pindah ke tab tersebut">
 <!ENTITY switchToNewTabs.accesskey    "p">
 
