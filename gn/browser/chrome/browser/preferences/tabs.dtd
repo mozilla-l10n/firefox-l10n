@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Emomarandúrõ eiketaha heta tendayképe ikatu omombegue down &brandShortName;-pe">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "Ani emyanyhẽ tendayke eiporavo mboyve">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "Eikévo peteĩ joajuha ovetã pyahúpe, eho pépe pya'eterei">
 <!ENTITY switchToNewTabs.accesskey    "h">
 

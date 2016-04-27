@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "Guarani">
 
 <!ENTITY dnsNotFound.title "Mohendahavusu ndojejuhúiva">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Ehechajey kundaharape ndoguerekóipa jejavy ijehaípe <strong>ww</strong>.techapyra.com <strong>www</strong>.techapyra.com rendaguépe</li> <li>Ndaikatúiramo emyanyhẽ kuatiarogue, ehechajey jeikekatu nemohendaha ñanduti rehegua.</li> <li>Nemohendaha térã ñanduti oguerekóramo ñemo'ã peteĩ tatakytĩha térã proxy, ehecháke &brandShortName; oguerekópa ñemoneĩ oikekuaa hag̃ua ñandutípe.</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "Marandurenda ndojejuhúiva">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ehechajey marandurenda réra ndoguerekoiha jejavy ijehaípe, avei taiguasu ojepurukuévo.</li> <li>Ehechajey pe marandurenda noñemongu'éipa, oñembohéra ambue térã ñemboguepyréva.</li> </ul>">
 
 
-<!ENTITY generic.title "Ndi.">
-<!ENTITY generic.longDesc "<p>&brandShortName; ndaikatúi omyanyhẽ ko kuatiarogue oiméne mba'érepa.</p>">
 
-<!ENTITY malformedURI.title "Pe kundaharenda ndoikói">
-<!ENTITY malformedURI.longDesc "<ul> <li>Ñanduti kundharape ojehai tapia kóicha <strong>http://www.ejemplo.com/</strong></li> <li>Ema'ẽjey eipuru porãpa barra ojero'áva tenonde gotyo (p.e. <strong>/</strong>.</li> </ul>">
+<!ENTITY generic.title "Ndi.">
+
+
+
 
 <!ENTITY netInterrupt.title "Pe jeike ojejokóma">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Kuatia oikove'ỹmava">
-<!ENTITY notCached.longDesc "<p>Kuatia jerurepyre noĩvéima ojepuru hag̃uáicha kache &brandShortName;-pe.</p><ul><li>Kyhyje tekorosãrãramo, &brandShortName; ndojeruremo'ãvéima ijehegui kuatiakuéra takate'ỹha.</li><li>Eikutu Ñeha'ãjey ejerure jey hag̃ua pe kuatia ñanduti renda pegua.</li></ul>">
+
 
 <!ENTITY netOffline.title "Jeikekatu'ỹre">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Ejopy &quot;Ha&apos;ã jey&quot; remoambue hag̃ua jeikekatúpe ha kuatiarogue myenyhẽjey.</li> </ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "Pe jeike ndoikovéima">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Pe kundaharape nahesakãi">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Ikatu eikotevẽ emohenda ambue software eike hag̃ua ko kundaharapépe.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Mohendahavusu proxy ombotove jeike">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "Ndaikatúi ojejuhu mohendahavusu proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Ehechajey proxy ñemboheko eikuaa porã hag̃ua oikoitetaha.</li> <li>Ehechajey nemohendaha oguerekópa ñandutípe jeikekatu ojepurukuaáva.</li> <li>Nemohendaha térã ñanduti omo'ã chupe peteĩ tatakytĩha térã proxy,  ehechajeýke &brandShortName; oguerekópa ñemoneĩ oike hag̃ua ñandutípe.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Ko kuatiarogue ndoguerahái hekoitépe">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ko apañuãi oikokuaa reipe'a térã neremoneĩriramo kookie ñeg̃uahẽ.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Mbohovái eha'ãrõ'ỹva mohendahavusúgui">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Ehechajey nde apopyvusu oguerekópa ñangarekoha imba'eteéva tekorosãrã mohendapyréva.</li> <li>Kóva ikatu ojehuhína peteĩ ñemboheko oiko porã'ỹva mohendahavusúpe rupi.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Jeikekatu jejavýva">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Kuatiarogue eikeseha ndaikatúi ehecha mba'ekuaarã og̃uahẽva ndaijeroviakatúi ndojehechajeýi rupi.</li> <li>Ikatúpiko, eñe'ẽmi ñanduti renda jára ndive ha emombe'umi chupekuéra ko apañuãi rehegua.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Jeikekatu ojavy">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ikatuhína peteĩ apañuãi mohendahavusu ñemboheko reheguáva, térã oiméne oĩ omyengoviaséva pe mohendahavusúpe.</li> <li>Eikuaaporãramo eikekatúma hague ko mohendahavusúpe, pe jejavy ikatu sapy'aite g̃uarãnte ha ikatukuaáta eha'ãjey tenondemieve.</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>Pe tenda ikatu hína ndojepurukuaái sapy'aitemi térã ojepuruetereihína. Eha'ãjey ãgamieve.</li> <li>Ndaikatúiramo emyanyhẽ mba'eveichagua kuatiarogue, ehechajey ijeikekatu nemohendaha ñanduti peguápe.</li> <li>Nemohendaha térã ñanduti omo'ã chupe tatakytĩha térã proxy, ehecháke &brandShortName; oguerekópa moneĩ oike hãgua ñandutípe.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Ojejoko hetepy rekorosãrã purureko rupi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ndohejái ko kuatiaroguépe oñemyañyhẽvo kóicha pe kuatiarogue oguereko rupi tetepy rekorosãrã purureko nomoneĩrĩva.</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Pe Kuatiarogue ehechaséva ndaikatúi ojehechauka ndéve ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ ko ñanduti renda jarakuéra ndive emomarandu hag̃ua chupekuéra ko apañuãi.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Terã ikatu embojoapy oĩ'ỹva…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Cheguenohẽ ko'águi!">
 <!ENTITY securityOverride.exceptionButtonLabel "Embojoaju ambue mba'e">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>Ani embojoapy mba'eve oĩ'ỹva eipururõhína ñandutípe jeike nderejeroviapáirõ hese terã rehecháta marandu kyhyjerã ko tendápe.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Emomarandu koichagua jejavy eipytyvõ hag̃ua Mozilla-pe ojuhúvo ha ojokóvo tenda mba'evai aposéva">
 <!ENTITY errorReporting.learnMore "Kuaave…">
@@ -104,10 +92,15 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Marandu opapotaitéva: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Nde jeike ndahekokatúi">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Marandu opapotaitéva: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Opanungáva">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> oipuru tembipuru pyahu tekorosãrã ituja ha ikangýmava mba'evai renondépe. Pe mba'evai ikatu ohechauka marandu nde eréva hekorosãha.">
 <!ENTITY weakCryptoAdvanced.override "(Jeroviaha'ỹva) Eñeha'ã emyenyhẽ <span class='hostname'></span> eipurukuévo tekorosãrã ndoikovéimava">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

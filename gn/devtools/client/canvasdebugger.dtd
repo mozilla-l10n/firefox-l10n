@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "Eikutu amo">
-<!ENTITY canvasDebuggerUI.emptyNotice2    "votõ eñongatuete hag̃ua ñehenoieta rehegua ñemokyre'ỹ korápe.">
+
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 

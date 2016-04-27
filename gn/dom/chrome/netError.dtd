@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Ndojejuhúi pe mohendaha'i">
 <!ENTITY fileNotFound.longDesc "<ul><li>Ikatúpa pe mba'epuru oñembohéra jo'a, ojejoko térã oñemoambue hape?</li><li>Oĩpa peteĩ jejavy jehai, taiguasu térã ambue jejavy ojehaihápe pe kundaharape</li><li>.Oguerekópa jeikekatu eikotevẽva mba'epuru ejerurévape g̃uarã</li></ul>">
 
+
+
 <!ENTITY generic.title "Ndaikatúi ojejapopa pe mba'ejerure">
 <!ENTITY generic.longDesc "<p>Ko'ag̃aite ndaipóri marandu jo'a ojepurukuaáva ko apañuãi térã jejavýpe g̃uara.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL okaygua">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Eñe'ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi rehegua.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "Ovetã &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "jahake">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Tandepo'aite">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Umi moĩmbaha ha ñemomba'egua oñemboguepa ha Kundahára jeguerova ojevyjey ijypykuépe. Péicha naiñambuéiramo apañuai,">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "Guarani">
 
 <!ENTITY welcomeback2.link.pageInfo2        "Reñemoaranduve upe ejaposèvape">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Eguerova ambue ne Tendayke Aty">
-<!ENTITY tabgroupsmigration.pagetitle2          "Ore rombogue Tendayke Aty, katu roñongatu ne tendaykekuéra">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Eikuaave moĩmbaha rehegua omyengoviáva Tendayke Aty">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; omongurusu opa aty ikatuhaguáicha rerekopa umíva.">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Tendayke Mongurusupyre Aty Jechauka">
 <!ENTITY tabgroupsmigration.restoredescription  "Emboguevijeykuaa avei ko ovetãme sa'i térã hetave aty oĩva tuguápe:">
 
