@@ -536,7 +536,7 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; Ana Səhifə">
 <!ENTITY home_history_title "Tarixçə">
-
+<!ENTITY home_history_back_to "Bütün tarixçəyə geri qayıt">
 <!ENTITY home_clear_history_button "Səyahət keçmişini təmizlə">
 <!ENTITY home_clear_history_confirm "Keçmişi təmizləmək istədiyinizə əminsiniz?">
 <!ENTITY home_bookmarks_empty "Saxladığınız əlfəcinlər burada görünür.">
@@ -575,6 +575,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Axtarış açarını daxil edin">
 
+<!ENTITY filepicker_title "Fayl Seç">
 <!ENTITY filepicker_audio_title "Səsi seçin və ya yazın">
 <!ENTITY filepicker_image_title "Şəkli seçin və ya çəkin">
 <!ENTITY filepicker_video_title "Videonu seçin və ya çəkin">
@@ -603,6 +604,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Bu səhifənin bəzi hissələri (şəkillər kimi) təhlükəsiz deyil.">
 <!ENTITY mixed_content_protection_disabled1 "Təhlükəli məzmunlardan qorunmanı söndürmüsünüz.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "İzlənmə Qoruması">
 <!ENTITY doorhanger_tracking_state_enabled "Aktivdir">
 <!ENTITY doorhanger_tracking_state_disabled "Söndürülüb">
 <!ENTITY doorhanger_tracking_message_enabled1 "Sizin onlayn aktivliyi izləmə cəhdi bloklandı.">
@@ -767,6 +770,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; güncəldir">
 <!ENTITY whatsnew_notification_summary "Bu versiyada olan yenilikləri öyrənin">
 
+<!ENTITY promotion_add_to_homescreen "Ana ekrana əlavə et">
 
-
-
+<!ENTITY helper_first_offline_bookmark_title "Oflayn oxu">
+<!ENTITY helper_first_offline_bookmark_message "Oxuma Görünüşü elementlərinizi Əlfəcinlərdə tapın, hətta oflaynda belə.">
+<!ENTITY helper_first_offline_bookmark_button "Əlfəcinlərə Get">
