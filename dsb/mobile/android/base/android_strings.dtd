@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "Njejo dosć ruma k dispoziciji, aby &brandShortName; startowało.">
-<!ENTITY  error_loading_file "Pśi wopyśe datajow zacytowaś, kótarež su trěbne za funkcioněrowanje &brandShortName;, jo zmólka nastała">
-
 <!ENTITY firstrun_panel_title_welcome "Witajśo">
 <!ENTITY  onboard_start_message3 "Z &brandShortName; pśeglědowaś">
 <!ENTITY  onboard_start_subtext3 "Cyńśo swójo mobilne webpśeglědowańske dožywjenje napšawdu k swójomu.">
@@ -27,12 +23,16 @@
 <!ENTITY firstrun_button_next "Pśiducy">
 
 <!ENTITY  onboard_start_restricted1 "Wóstańśo dalej wěsty a mějśo dalej kontrolu z toś teju zjednorjeneju wersiju &brandShortName;.">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Cytańske znamjenja">
 <!ENTITY  history_title "Historija">
-<!ENTITY  reading_list_title "Cytańska lisćina">
+
 <!ENTITY  recent_tabs_title "Nejnowše rejtarki">
 
 <!ENTITY  switch_to_tab "K rejtarkoju pśěpěś">
@@ -49,12 +49,6 @@
 <!ENTITY  sending_crash_report "Wowaleńska rozpšawa so sćelo\u2026">
 <!ENTITY  crash_close_label "Zacyniś">
 <!ENTITY  crash_restart_label "&brandShortName; znowego startowaś">
-<!ENTITY  exit_label "Skóńcyś">
-
-<!ENTITY  launcher_shortcuts_title "&brandShortName; - webnałoženja">
-<!ENTITY  launcher_shortcuts_empty "Žedne webnałoženja namakane">
-
-<!ENTITY choose_file "Dataju wubraś">
 
 <!ENTITY url_bar_default_text2 "Adresu pytaś abo zapódaś">
 
@@ -69,13 +63,20 @@
 <!ENTITY bookmark_updated "Cytańske znamje zaktualizěrowane">
 <!ENTITY bookmark_options "Nastajenja">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "Źinsa">
 <!ENTITY history_yesterday_section "Cora">
 <!ENTITY history_week_section3 "Slědne 7 dnjow">
-<!ENTITY history_this_month_section "Toś ten mjasec">
 <!ENTITY history_older_section3 "Starše ako 6 mjasecow">
 
-<!ENTITY go "Start">
 <!ENTITY search "Pytaś">
 <!ENTITY reload "Znowa zacytaś">
 <!ENTITY forward "Doprědka">
@@ -108,7 +109,7 @@
 <!ENTITY settings "Nastajenja">
 <!ENTITY settings_title "Nastajenja">
 <!ENTITY pref_category_general "Powšykne">
-<!ENTITY pref_category_general_summary2 "Startowy bok, rěc, adresowe pólo">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -131,9 +132,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Cytańske znamje">
-<!ENTITY overlay_share_reading_list_btn_label "Cytańskej lisćinje pśidaś">
 <!ENTITY overlay_share_bookmark_btn_label_already "Južo ako cytańske znamje skłaźony">
-<!ENTITY overlay_share_reading_list_btn_label_already "Južo w cytańskej lisćinje">
 <!ENTITY overlay_share_send_other "Na druge rědy pósłaś">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -149,14 +148,15 @@
 <!ENTITY overlay_no_synced_devices "Žedne rědy namakane, kótarež su z kontom Firefox zwězane">
 
 <!ENTITY pref_category_search3 "Pytaś">
-<!ENTITY pref_category_search_summary "Pśiměrśo swójich pytańskich póbitowarjow">
+
 <!ENTITY pref_category_accessibility "Bźezbariernosć">
 <!ENTITY pref_category_accessibility_summary2 "Tekstowa wjelikosć, skalěrowanje, rěcne zapódaśe">
 <!ENTITY pref_category_privacy_short "Priwatnosć">
-<!ENTITY pref_category_privacy_summary3 "Slědowanje, cookieje, datowe wuběrki">
+
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Wó &brandShortName;, ceste pšašanja, komentary">
 <!ENTITY pref_category_datareporting "Datowy wuběrki">
+
 <!ENTITY pref_learn_more "Dalšne informacije">
 <!ENTITY pref_category_installed_search_engines "Zainstalěrowane pytnice">
 <!ENTITY pref_category_add_search_providers "Dalšnych pytańskich póbitowarjow pśidaś">
@@ -168,10 +168,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "POKAZKA: Pśidajśo swójej lisćinje pytańskich póbitowarjow websedło, z tym až dłujko na jogo pytańske pólo a pótusniśo pótom symbol &formatI;.">
 <!ENTITY pref_category_advanced "Rozšyrjone">
-<!ENTITY pref_category_advanced_summary2 "Rejtarki wótnowiś, tykace, wuwijarske rědy">
-<!ENTITY pref_developer_remotedebugging "Daloke pytanje za zmólkami">
+
+
+
+
+
 <!ENTITY pref_developer_remotedebugging_usb "Daloke pytanje zmólkow pśez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Daloke pytanje zmólkow pśez WLAN">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Pytanje zmólkow pśez WLAN se pomina, až QR-kodowy cytak jo na wašom rěźe instalěrowany.">
@@ -181,18 +183,10 @@
 <!ENTITY pref_category_home "Startowy bok">
 <!ENTITY pref_category_home_summary "Pśiměrśo swój startowy bok">
 <!ENTITY pref_category_home_panels "Póla">
-<!ENTITY home_add_panel_title "Nowe pólo pśidaś">
-<!ENTITY home_add_panel_empty "Bóžko njejsmy mógli póla namakaś, kótarež móžośo pśidaś.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 jo se startowemu bokoju pśidał">
-<!ENTITY pref_category_home_content_settings "Wopśimjeśowe nastajenja">
-<!ENTITY pref_home_updates "Awtomatiske aktualizacije">
+
+
 <!ENTITY pref_home_updates_enabled "Zmóžnjony">
 <!ENTITY pref_home_updates_wifi "Jano pśez Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Sedłowe naraźenja pokazaś">
-<!ENTITY pref_home_suggested_sites_summary "Tastowe skrotconki za sedła na wašom startowem boku zwobrazniś, wó kótarychž myslimy, až wy maśo je za zajmne">
 <!ENTITY pref_category_home_homepage "Startowy bok">
 <!ENTITY home_homepage_title "Startowy bok póstajiś">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -216,6 +210,7 @@
 <!ENTITY pref_header_search "Pytaś">
 <!ENTITY pref_header_privacy_short "Priwatnosć">
 <!ENTITY pref_header_accessibility "Bźezbariernosć">
+
 <!ENTITY pref_header_advanced "Rozšyrjone">
 <!ENTITY pref_header_help "Pomoc">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -225,6 +220,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjony, z wuwześim tśeśich póbitowarjow">
 <!ENTITY pref_cookies_disabled "Znjemóžnjony">
 
+
+
+
 <!ENTITY pref_tap_to_load_images_title2 "Wobraze pokazaś">
 <!ENTITY pref_tap_to_load_images_enabled "Pśecej">
 <!ENTITY pref_tap_to_load_images_data "Jano pśez WLAN">
@@ -232,7 +230,7 @@
 
 <!ENTITY pref_show_web_fonts "Webpisma pokazaś">
 
-<!ENTITY pref_tracking_protection_title "Slědowański šćit">
+
 <!ENTITY pref_tracking_protection_summary3 "W priwatnem modusu zmóžnjony">
 <!ENTITY pref_donottrack_title "Njeslědowaś">
 <!ENTITY pref_donottrack_summary "&brandShortName; dajo sydłam k wěsći, až njocośo, až wam slěduju">
@@ -240,6 +238,8 @@
 <!ENTITY pref_tracking_protection_enabled "Zmóžnjony">
 <!ENTITY pref_tracking_protection_enabled_pb "W priwatnem modusu zmóžnjony">
 <!ENTITY pref_tracking_protection_disabled "Znjemóžnjony">
+
+
 
 <!ENTITY tracking_protection_prompt_title "Něnto ze slědowańskim šćitom">
 <!ENTITY tracking_protection_prompt_text "Slědowańske elementy se aktiwnje blokěruju, njetrjebaśo pótakem sr starosćiś.">
@@ -259,7 +259,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "K nastajenjam">
-<!ENTITY tab_queue_notification_title "&brandShortName;">
+
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -273,10 +273,19 @@
 
 <!ENTITY tab_queue_notification_settings "Aby „někotare wótkaze wócynił“, zmóžniśo pšosym nastajenje „Pśez druge nałoženja śěgnuś“ za &brandShortName;">
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "Znamuškowe koděrowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazaś">
 <!ENTITY pref_char_encoding_off "Meni njepokazaś">
-<!ENTITY pref_clear_private_data "Priwatne daty wulašowaś">
+
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Něnto lašowaś">
@@ -285,7 +294,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Wubjeŕśo, kótare daty maju se wulašowaś">
 <!ENTITY pref_plugins "Tykace">
 <!ENTITY pref_plugins_enabled "Zmóžnjony">
-<!ENTITY pref_plugins_tap_to_play "Pótusniśo, aby wótgrał">
+
 <!ENTITY pref_plugins_disabled "Znjemóžnjony">
 <!ENTITY pref_text_size "Tekstowa wjelikosć">
 <!ENTITY pref_restore_tabs "Rejtarki wótnowiś">
@@ -335,7 +344,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Ześěgnjenja">
 <!ENTITY pref_private_data_syncedTabs "Synchronizěrowane rejtarki">
 
-
 <!ENTITY pref_about_firefox "Wó &brandShortName;">
 <!ENTITY pref_vendor_faqs "Ceste pšašanja">
 <!ENTITY pref_vendor_feedback "Komentar pisaś">
@@ -353,10 +361,12 @@ size. -->
 <!ENTITY pref_panels_move_down "Dołoj">
 
 <!ENTITY datareporting_notification_title "Statistiki a daty &brandShortName;">
-<!ENTITY datareporting_notification_action_long "Wubjeŕśo, kótare informacije maju se źěliś">
 <!ENTITY datareporting_notification_action "Wubjeŕśo, což ma se źěliś">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Wubjeŕśo, kótare informacije maju se źěliś">
 <!ENTITY datareporting_notification_summary "Aby wašo dožywjenje pólěpšył, sćelo &brandShortName; awtomatiski informacije na &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Aby wašo dožywjenje pólěpšył, &brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -379,7 +389,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Awtomatiske aktualizacije">
 <!ENTITY pref_update_autodownload_wifi "Jano pśez Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nigda">
 <!ENTITY pref_update_autodownload_always "Pśecej">
@@ -390,7 +399,7 @@ size. -->
 <!ENTITY quit "Skóńcyś">
 
 <!ENTITY addons "Dodanki">
-<!ENTITY logins "Pśizjawjenja">
+
 <!ENTITY downloads "Ześěgnjenja">
 <!ENTITY char_encoding "Znamuškowe koděrowanje">
 
@@ -409,7 +418,6 @@ size. -->
 <!ENTITY close_private_tabs "Priwatne rejtarki zacyniś">
 <!ENTITY tabs_normal "Rejtarki">
 <!ENTITY tabs_private "Priwatny">
-<!ENTITY tabs_synced "Synchronizěrowany">
 <!ENTITY set_image_fail "Wobraz njedajo se pódaś">
 <!ENTITY set_image_path_fail "Wobraz njedajo se składowaś">
 <!ENTITY set_image_chooser_title "Wobraz pódaś ako">
@@ -443,8 +451,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Sedło pśipěś">
 <!ENTITY contextmenu_top_sites_unpin "Sedko wótpěś">
 <!ENTITY contextmenu_add_search_engine "Pytnicu pśidaś">
-<!ENTITY contextmenu_mark_read "Ako pśecytany markěrowaś">
-<!ENTITY contextmenu_mark_unread "Ako njepśecytany markěrowś">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -464,7 +470,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Małe wobcerki pówětšyś">
-<!ENTITY pref_magnifying_glass_enabled_summary "Wótkaze a formularne póla powětšyś, gaž pótusnjośo blisko nich">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -489,21 +495,6 @@ size. -->
 <!ENTITY site_settings_title3       "Sedłowe nastajenja">
 <!ENTITY site_settings_cancel       "Pśetergnuś">
 <!ENTITY site_settings_clear        "Lašowaś">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!ENTITY reading_list_added3 "Cytańskej lisćinje pśidany">
-<!ENTITY reading_list_removed "Bok jo se z wašeje cytańskeje lisćiny wótpórał">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Z cytańskeje lisćiny wótpóraś">
-<!ENTITY reading_list_duplicate "Bok jo južo we wašej cytańskej lisćinje">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
-<!ENTITY reading_list_time_minutes2 "&formatD; min">
-<!ENTITY reading_list_time_over_an_hour "Pśez góźinu">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -532,6 +523,7 @@ size. -->
 
 <!ENTITY home_title "Startowy bok &brandShortName;">
 <!ENTITY home_history_title "Historija">
+
 <!ENTITY home_clear_history_button "Pśeglědowańsku historiju wuprozniś">
 <!ENTITY home_clear_history_confirm "Cośo napšawdu historiju wuprozniś?">
 <!ENTITY home_bookmarks_empty "Cytańske znamjenja, kótarež składujośo, pokazuju se how.">
@@ -540,11 +532,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Waše nejnowše rejtarki pokazuju se how.">
 <!ENTITY home_open_all "Wšykne wócyniś">
 <!ENTITY home_most_recent_empty "Websedła, kótarež sćo se njedawno woglědał, pokazuju se how.">
-<!ENTITY home_selected_empty "Websedła, ku kótarymž sćo se we wubranem casowym wobłuku woglědak, se how pokazuju.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Pst: wužywanje &formatS1;nowego priwatnego rejtarka&formatS2; njebuźo wašu historiju składowaś.">
-<!ENTITY home_reading_list_empty "Nastawki, kótarež składujośo na pózdźej, pokazuju se how.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -553,21 +543,11 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_back_to_filter "Slědk k &formatS;">
-
-<!ENTITY home_remote_tabs_title "Synchronizěrowane rejtarki">
-<!ENTITY home_remote_tabs_empty "Waše rejtarki z drugich rědow se how pokazuju.">
-<!ENTITY home_remote_tabs_unable_to_connect "Zwisk njejo móžno">
-<!ENTITY home_remote_tabs_need_to_sign_in "Pšosym pśizjawśo se, aby se znoweg ze swójim kontom Firefox zwězał a ze synchronizaciju pókšacował.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Wašo nowe konto Firefox jo gótowe!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Maśo problemy pśi pśeglědowanju swójogo konta?">
-<!ENTITY home_remote_tabs_need_to_verify "Pšosym pśeglědujśo swójo konto Firefox, aby synchronizaciju zachopił.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 schowany rěd">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; rědy schowane">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -582,7 +562,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Zapódajśo pytańske klucowe słowo">
 
-<!ENTITY filepicker_title "Dataju wubraś">
 <!ENTITY filepicker_audio_title "Wubjeŕśo abo nagrajśo zuk">
 <!ENTITY filepicker_image_title "Wubjeŕśo abo wótmolujśo wobraz">
 <!ENTITY filepicker_video_title "Wubjeŕśo abo nagrajśo wideo">
@@ -611,8 +590,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Źěle toś togo boka njejsu wěste (na pśikład wobraze).">
 <!ENTITY mixed_content_protection_disabled1 "Sćo šćit pśeśiwo njewěstym elementam znjemóžnił.">
 <!-- Tracking content notifications in site identity popup -->
-
-<!ENTITY doorhanger_tracking_title "Slědowański šćit">
 <!ENTITY doorhanger_tracking_state_enabled "Zmóžnjony">
 <!ENTITY doorhanger_tracking_state_disabled "Znjemóžnjony">
 <!ENTITY doorhanger_tracking_message_enabled1 "Wopyty, wašo zaźaržanje online slědowaś, su se blokěrowali.">
@@ -622,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "Dalšne informacije">
 <!ENTITY enable_protection "Šćit zmóžniś">
 <!ENTITY disable_protection "Šćit znjemóžniś">
-<!ENTITY keep_blocking "Dalej blokěrowaś">
 
 <!ENTITY private_data_success "Priwatne daty wulašowane">
 <!ENTITY private_data_fail "Někotare priwatne daty njedaju se snaź lašowaś">
@@ -714,12 +690,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "Slědny raz synchronizěrowany: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Slědny raz synchronizěrowany: nigda">
-
-<!ENTITY intent_uri_cannot_open "Wótkaz njedajo se wócyniś">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+
 <!ENTITY intent_uri_private_browsing_prompt "Toś ten wótkaz wócynijo se w &formatS;. Cośo napšawdu priwatny modus spušćiś?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -778,3 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; jo aktualny">
 <!ENTITY whatsnew_notification_summary "Wuslěźćo, což jo nowe w toś tej wersiji">
+
+
+
+

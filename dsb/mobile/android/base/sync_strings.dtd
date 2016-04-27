@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Wobznamjenja">
 <!ENTITY bookmarks.folder.toolbar.label "Symbolowa rědka cytańskich znamjenjow">
-<!ENTITY bookmarks.folder.unfiled.label "Njesortěrowane cytańske znamjenja">
+
 <!ENTITY bookmarks.folder.desktop.label "Desktopowe cytańske znamjenja">
 <!ENTITY bookmarks.folder.mobile.label "Mobilne cytańske znamjenja">
-<!ENTITY bookmarks.folder.readinglist.label "Cytańska lisćina">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Pśipěty">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; za słanje rejtarkow konfigurěrowaś">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Konfigurěrujśo &syncBrand.fullName.label; na swójom rěźe, aby rejtarki na druge rědy pósłał.">
-<!ENTITY sync.text.tab.sent.label "Waš rejtark jo se pósłał!">
-<!ENTITY sync.text.tab.not.sent.label "Pśi słanju wašogo rejtarka jo problem nastał.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Konta Firefox">
-
-<!ENTITY fxaccount_custom_server_account_title "Wužywanje konta na serwerje">
-<!ENTITY fxaccount_custom_server_sync_title "Składowanje synchronizaciskich datow na serwerje">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "E-mail">
-<!ENTITY fxaccount_password_hint "Gronidło">
-<!ENTITY fxaccount_password_hide "Schowaś">
-<!ENTITY fxaccount_password_show "Pokazaś">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "Slědk k pśeglědowanjeju">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Słužbne wuměnjenja">
-<!ENTITY fxaccount_policy_linkprivacy "Powěźeńka priwatnosći">
+<!ENTITY fxaccount_back_to_browsing "Slědk k pśeglědowanjeju">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Witajśo do &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Pśizjawśo se, aby swóje rejtarki, cytańske znamjenja, gronidła a druge synchronizěrował.">
 <!ENTITY fxaccount_getting_started_get_started "Prědne kšace">
 <!ENTITY fxaccount_getting_started_old_firefox "Staršu wersiju &syncBrand.shortName.label; wužywaś?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "Konto Firefox załožyś">
-<!ENTITY fxaccount_create_account_password_length_restriction "Nanejmjenjej 8 znamuškow trěbnych">
-<!ENTITY fxaccount_create_account_day_of_birth "Źeń">
-<!ENTITY fxaccount_create_account_month_of_birth "Mjasec">
-<!ENTITY fxaccount_create_account_year_of_birth "Lěto naroźenja">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Gaž pókšacujośo, zwolijośo do &formatS1; a &formatS2; online-słužbow Firefox.">
-<!ENTITY fxaccount_create_account_button "Dalej">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Wubjeŕśo, což ma se sychronizěrowaś">
-<!ENTITY fxaccount_create_account_sign_in_instead "Maśo južo konto? Pśizjawśo se">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 abo do togo">
-<!ENTITY fxaccount_create_account_unknown_error "Konto njedajo se załožyś">
-
-<!ENTITY fxaccount_account_create_not_allowed "Konto njedajo se załožyś">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Musyśo wěste starstwowe pominanja docyniś, aby konto załožył.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Dalšne informacije">
-
-<!ENTITY fxaccount_confirm_account_header "Wašo konto wobkšuśiś">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Wobkšuśeński wótkaz jo se na &formatS; pósłał">
-<!ENTITY fxaccount_confirm_account_resend_email "Mailku znowego pósłaś">
-<!ENTITY fxaccount_confirm_account_change_email "Toś tu e-mailowu adresu zabyś?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Wobkšuśeńska mailka jo se pósłała">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Wobkšuśeńska mailka njedajo se pósłaś">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Mailku za wótblokěrowanje hyšći raz pósłaś">
-<!ENTITY fxaccount_unlock_code_sent "Mejlka za wótblokěrowanje konta jo se pósłała">
-<!ENTITY fxaccount_unlock_code_not_sent "Mejlka za wótblokěrowanje konta njedajo se pósłaś">
-
-<!ENTITY fxaccount_sign_in_sub_header "Pśizjawiś">
-<!ENTITY fxaccount_sign_in_button_label "Pśizjawiś">
-<!ENTITY fxaccount_sign_in_forgot_password "Sćo gronidło zabył?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Konto załožyś">
-<!ENTITY fxaccount_sign_in_unknown_error "Pśizjawjenje njejo móžno">
-
-<!ENTITY fxaccount_account_verified_sub_header "Konto jo pśeglědane">
-<!ENTITY fxaccount_account_verified_description2 "Waše daty budu se za mało wokognuśow synchronizěrowaś.">
-
-<!ENTITY fxaccount_migration_finished_header "Aktualizacija skóńcona">
-
-<!ENTITY fxaccount_update_credentials_header "Pśizjawiś">
-<!ENTITY fxaccount_update_credentials_button_label "Pśizjawiś">
-<!ENTITY fxaccount_update_credentials_unknown_error "Pśizjawjenje njejo móžno">
-
-<!ENTITY fxaccount_finish_migrating_header "Pśizjawśo se, aby aktualizěrowanje dokóńcył">
-<!ENTITY fxaccount_finish_migrating_button_label "Aktualizěrowanje skóńcyś">
-<!ENTITY fxaccount_finish_migrating_description "Aktualizěrowanje móžo wjele datow pśenosowaś. Cynśo to nejlěpjej we WLAN-seśi.">
-
-<!ENTITY fxaccount_status_header2 "Konto Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Pśizjawjony ako">
 <!ENTITY fxaccount_status_manage_account "Konto zastojaś">
 <!ENTITY fxaccount_status_auth_server "Kontowy serwer">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Słužbne wuměnjenja">
-<!ENTITY fxaccount_status_linkprivacy "Powěźeńka priwatnosći">
+
 <!ENTITY fxaccount_status_more "Wěcej&ellipsis;">
 <!ENTITY fxaccount_remove_account "Zwisk źěliś&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Serwer jo pśeśěžony, wopytajśo pózdźej hyšći raz">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Serwer jo pśeśěžony, wopytajśo pózdźej hyšći raz">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Problem jo nastał">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Zwisk ze seśu njejo móžno">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Konto jo zastajone. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; njejo zwězany">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Potusniśo, aby se ako &formatS; pśizjawił">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "Pśizjawśo se, aby ze synchronizěrowanim pókšacował">
-<!ENTITY old_sync_deprecated_notification_content "Wašo konto se wěcej njepódpěra">
