@@ -24,10 +24,10 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>ଅକ୍ଷର ପ୍ରକାର କିମ୍ବା ଅନ୍ୟାନ୍ୟ ଟାଇପ ତ୍ରୁଟିଗୁଡ଼ିକୁ ଯାଞ୍ଚ କରିବା ପାଇଁ ଫାଇଲନାମକୁ ଯାଞ୍ଚ କରନ୍ତୁ</li> <li>ଫାଇଲଟି କଢ଼ାଯାଇଛି କି ନାହିଁ , ପୁନଃନାମକରଣ ଅଥବା ଅପସାରଣ ହୋଇଛି କି ନାହିଁ ଦେଖିବା ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ।</li> </ul>">
 
 
-<!ENTITY generic.title "ଆହାଃ">
-<!ENTITY generic.longDesc "<p>&brandShortName; କୌଣସି କାରଣବଶତଃ ଏହି ପୃଷ୍ଠାକୁ ଧାରଣ କରିପାରିବ ନାହିଁ।</p>">
 
-<!ENTITY malformedURI.title "ଏହି ଠିକଣାଟି ବୈଧ ନୁହେଁ">
+<!ENTITY generic.title "ଆହାଃ">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -35,7 +35,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "ଦଲିଲର ସମୟ ସମାପ୍ତ ହୋଇଛି">
-<!ENTITY notCached.longDesc "<p>ଅନୁରୋଧ କରାଯାଇଥିବା ଦଲିଲଟି &brandShortName; ର କ୍ୟାଶେରେ ଉପଲବ୍ଧ ନାହିଁ।</p><ul><li>ସୁରକ୍ଷା ଦୃଷ୍ଟିକୋଣରୁ, &brandShortName; ଜରୁଜୀ ଦଲିଲଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ପୁନଃ-ଅନୁରୋଧ କରିନଥାଏ।</li><li>ୱେବସାଇଟରୁ ଦଲିଲକୁ ପୁନଃ-ଅନୁରୋଧ କରିବା ପାଇଁ ପୁଣଥରେ ଚେଷ୍ଟାକରନ୍ତୁ କୁ କ୍ଲିକ କରନ୍ତୁ।</li></ul>">
+
 
 <!ENTITY netOffline.title "ଅଫଲାଇନ ଅବସ୍ଥା">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -53,7 +53,6 @@
 <!ENTITY netTimeout.title "ସଂଯୋଗ ସମୟ ସମାପ୍ତ ହୋଇଯାଇଛି">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "ଠିକଣାଟି ବୁଝାପଡ଼ିନଥିଲା">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>ଏହି ଠିକଣାକୁ ଖୋଲିବା ପାଇଁ ଆପଣଙ୍କୁ ହୁଏତଃ ଅନ୍ୟ ସଫ୍ଟୱେର ସ୍ଥାପନ କରିବାକୁ ଆବଶ୍ୟକ ହୋଇପାରେ।</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "ପ୍ରକ୍ସି ସର୍ଭର ସଂଯୋଗଗୁଡ଼ଡିକୁ ବାରଣ କରୁଛି">
@@ -64,7 +63,6 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul>  <li>ପ୍ରକ୍ସି ସଂରଚନାକୁ ତାହା ସଠିକ ଅଛି କି ନାହିଁ ଯାଞ୍ଚ କରନ୍ତୁ।</li> <li>ଯାଞ୍ଚ କରନ୍ତୁ ଯେ ଆପଣଙ୍କର ଉପକରଣରେ କାର୍ଯ୍ୟରତ ତଥ୍ୟ ଅଥବା Wi-Fi ସଂଯୋଗ ଅଛି। <button id='wifi'>Wi-Fi କୁ ସକ୍ରିୟ କରନ୍ତୁ</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "ଏହି ପୃଷ୍ଠାଟି ସଠିକ ଭାବରେ ପୁନଃପ୍ରେରଣ କରିପାରୁନାହିଁ">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ଏହି ସମସ୍ୟା ବେଳେବେଳେ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣ କରିବାରୁ ନିଷ୍କ୍ରିୟକରିବା କିମ୍ବା ବାରଣ କରିବା ହେତୁ  ଘଟିଥାଏ।</li> </ul>">
 
 <!ENTITY unknownSocketType.title "ସର୍ଭରରୁ ଅପ୍ରତ୍ୟାଶିତ ଉତ୍ତର">
@@ -74,11 +72,9 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>ଆପଣ ଦେଖିବାକୁ ଚାହୁଁଥିବା ପୃଷ୍ଠାକୁ ଦର୍ଶାଯାଇ ପାରିବ ନାହିଁ କାରଣ ଗ୍ରହଣ କରାଯାଇଥିବା ତଥ୍ୟର ବୈଧିକରଣକୁ ଯାଞ୍ଚ କରାଯାଇନାହିଁ।</li> <li>ଏହି ସମସ୍ୟା ବିଷୟରେ ଅଗଚର କରାଇବା ପାଇଁ ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ସମ୍ପର୍କ କରନ୍ତ।</li> </ul>">
 
 <!ENTITY nssBadCert.title "ସୁରକ୍ଷିତ ସଂଯୋଗ ବିଫଳ ହେଲା">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>ଏହା ସର୍ଭର ସଂରଚନାରେ ହୋଇଥିବା କୌଣସି ସମସ୍ୟା ହୋଇପାରେ, କିମ୍ବା କୌଣସି ବ୍ୟକ୍ତି ସର୍ଭରରେ ଅନାଧିକାର ପ୍ରବେଶ କରିବା ପାଇଁ  ଚେଷ୍ଟାକରୁଥାଇପାରେ।</li> <li>ଯଦି ଆପଣ ଏହି ସର୍ଭରରେ ଅତିତରେ ସଫଳତାର ସହିତ ସଂଯୁକ୍ତ ହୋଇଥାନ୍ତି, ତେବେ ତ୍ରୁଟି ହୁଏତଃ ଅସ୍ଥାୟୀ ହୋଇଥାଇପାରେ, ଏବଂ ଆପଣ ପରେ ପୁଣିଥରେ  ଚେଷ୍ଟାକରିପାରିବେ।</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
-<!ENTITY sharedLongDesc3 "<ul> <li>ଏହି ସାଇଟଟି ଅସ୍ଥାୟୀ ଭାବରେ ଉପଲବ୍ଧ ନାହିଁ ଅଥବା ବ୍ୟସ୍ତ ଅଛି। କିଛି ମିନଟ ପରେ ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ।</li> <li>ଯଦି ଆପଣ କୌଣସି ପୃଷ୍ଠାକୁ ଧାରଣ କରିବାରେ ଅସମର୍ଥ ହେଉଛନ୍ତି, ତେବେ ଆପଣଙ୍କର ମୋବାଇଲ ଉପକରଣର ତଥ୍ୟ କିମ୍ବାWi-Fi ସଂଯୋଗକୁ ଯାଞ୍ଚ କରନ୍ତୁ। <button id='wifi'>Wi-Fi କୁ ସକ୍ରିୟ କରନ୍ତୁ</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "ବିଷୟବସ୍ତୁ ସୁରକ୍ଷା ନିତୀ ଦ୍ୱାରା ଅଟକ ରଖାଯାଇଛି">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ଏହି ପୃଷ୍ଠାକୁ ଏହି ଉପାୟରେ ଧାରଣ କରିବାରୁ ବାରଣ କରିଥାଏ କାରଣ ସେହି ପୃଷ୍ଠାରେ ବିଷୟବସ୍ତୁ ସୁରକ୍ଷା ନିତୀ ଅଛି ଯାହାକି ଏହାକୁ ଅନୁମତି ଦେଇନଥାଏ।</p>">
@@ -105,3 +101,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
