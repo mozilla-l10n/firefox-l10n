@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Tentar o modo de segurança">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar com os extras desativados…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Funcionalidades">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnósticos">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Registo de falha">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
