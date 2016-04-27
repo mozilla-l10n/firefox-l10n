@@ -4,8 +4,13 @@
 
 <!ENTITY safeb.palm.accept.label "Lamit kuit ac'hanon deus amañ !">
 <!ENTITY safeb.palm.decline.label "Chom hep derc'hel kont">
-<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
-<!ENTITY safeb.palm.notdeceptive.label "N'eo ket ul lec'hienn dagus...">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
+  item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
+  shown. -->
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
 <!ENTITY safeb.palm.reportPage.label "Perak eo bet harzet ar bajenn-mañ?">
 <!ENTITY safeb.palm.whyForbidden.label "Perak eo bet harzet ar bajenn-mañ?">
 

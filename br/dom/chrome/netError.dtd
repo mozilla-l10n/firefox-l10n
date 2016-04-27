@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Restr dianav ">
 <!ENTITY fileNotFound.longDesc "<ul><li>Gwiriañ ha dilec'hiet eo bet, adanvet pe dilamet an ergorenn.</li><li>Gwiriañ anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.</li><li>Hag an aotreoù hoc'h eus evit haeziñ an ergorenn goulennet ?</li></ul>">
 
+
+
 <!ENTITY generic.title "N'haller ket echuiñ an azgoulenn-mañ.">
 <!ENTITY generic.longDesc " <p>Titouroù ouzhpenn diwar-benn ar gudenn-mañ pe ar fazi-mañ n'int ket hegerz evit poent.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL a-bell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Diweredekaat mollad ar Merdeiñ diarvar n'eo ket erbedet rak da lec'hiennoù arvarus ez eot marteze. Mar fell deoc'h diweredekaat ar mollad-mañ penn-da-benn, grit evel-henn :">
 <!ENTITY rights.safebrowsing-term1 "Digeriñ gwellvezioù an arload">
 <!ENTITY rights.safebrowsing-term2 "Diuzit an diuzad a-fet diogelroez">
-<!ENTITY rights.safebrowsing-term3 "Digevaskit an dibarzhioù evit &quot;&blockAttackSites.label;&quot; ha &quot;&blockWebForgeries.label;&quot;">
+
 <!ENTITY rights.safebrowsing-term4 "Diweredekaet eo ar merdeiñ diarvar bremañ">
 <!-- location aware browsing points for branded builds -->
 
