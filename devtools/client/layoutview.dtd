@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Блоктық модель">
-<!ENTITY margin.tooltip         "шет өрістері">
-<!ENTITY border.tooltip         "жиектер">
-<!ENTITY padding.tooltip        "ішкі өріс">
-<!ENTITY content.tooltip        "мазмұн">
+<!ENTITY layoutViewTitle          "Блоктық модель">
+<!ENTITY margin.tooltip           "шет өрістері">
+<!ENTITY border.tooltip           "жиектер">
+<!ENTITY padding.tooltip          "ішкі өріс">
+<!ENTITY content.tooltip          "мазмұн">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

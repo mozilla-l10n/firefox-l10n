@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Беттердің көп санын ашу әрекеті &brandShortName; жұмысын тежей алатын кезде мені ескерту">
 <!ENTITY warnOpenManyTabs.accesskey   "т">
 
-<!ENTITY restoreTabsOnDemand.label        "Беттерді таңдалмағанша дейін жүктемеу">
-<!ENTITY restoreTabsOnDemand.accesskey    "л">
-
 <!ENTITY switchToNewTabs.label        "Сілтеме жаңа бетте ашылған кезде ол бетке ауысу">
 <!ENTITY switchToNewTabs.accesskey    "ы">
 
