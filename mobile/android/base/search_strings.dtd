@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Padamkan semua carian sejarah daripada peranti ini?">
 <!ENTITY pref_clearHistory_title "Padamkan sejarah carian">
 
-<!ENTITY pref_searchProvider_title "Enjin Carian">
-
 <!ENTITY search_widget_button_label "Carian">
 
 <!ENTITY network_error_title "Tiada sambungan internet">
