@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "&brandShortName; തുടങ്ങുന്നതിനാവശ്യമായ സ്ഥലമില്ല.">
-<!ENTITY  error_loading_file "&brandShortName; പ്രവര്‍ത്തിപ്പിക്കുന്നതാവശ്യമായ ഫയലുകള്‍ ലഭ്യമാക്കുന്നതില്‍ പിശക്.">
-
 <!ENTITY firstrun_panel_title_welcome "സ്വാഗതം">
 <!ENTITY  onboard_start_message3 "&brandShortName; ഉപയോഗിച്ചു് പരതുക">
 <!ENTITY  onboard_start_subtext3 "താങ്കളുടെ മൊബൈല്‍ ബ്രൗസിങ്ങ് അനുഭവത്തെ തികച്ചും സ്വന്തമാക്കി മാറ്റൂ.">
@@ -27,12 +23,16 @@
 <!ENTITY firstrun_button_next "അടുത്ത">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ന്‍റെ ഈ ലളിതമാക്കിയ പതിപ്പ് വഴി സുരക്ഷിതമായും നിയന്ത്രണത്തിലായും തുടരൂ.">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY  history_title "നാള്‍വഴി">
-<!ENTITY  reading_list_title "വായനാ പട്ടിക">
+
 <!ENTITY  recent_tabs_title "ഒടുവില്‍ ഉപയോഗിച്ച ടാബുകള്‍">
 
 <!ENTITY  switch_to_tab "ടാബ് മാറ്റുക">
@@ -49,12 +49,6 @@
 <!ENTITY  sending_crash_report "തകര്‍ച്ചാ കുറിപ്പ്‌ അയക്കുന്നു\u2026">
 <!ENTITY  crash_close_label "അടക്കുക">
 <!ENTITY  crash_restart_label "&brandShortName; വീണ്ടും ആരംഭിയ്ക്കുക">
-<!ENTITY  exit_label "പുറത്തു കടക്കുക">
-
-<!ENTITY  launcher_shortcuts_title "&brandShortName;വെബ് ആപ്പ്സ്">
-<!ENTITY  launcher_shortcuts_empty "ഒരു വെബ് ആപ്പും കണ്ടെത്തിയില്ല">
-
-<!ENTITY choose_file "ഫയല്‍ തിരഞ്ഞെടുക്കുക">
 
 <!ENTITY url_bar_default_text2 "തിരയുകയോ വിലാസം നല്‍കുകയോ ചെയ്യൂ">
 
@@ -69,13 +63,20 @@
 <!ENTITY bookmark_updated "അടയാളം പുതുക്കി">
 <!ENTITY bookmark_options "ഐച്ഛികങ്ങള്‍">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "ഇന്നു്">
 <!ENTITY history_yesterday_section "ഇന്നലെ">
 <!ENTITY history_week_section3 "കഴിഞ്ഞ 7 ദിവസങ്ങള്‍">
-<!ENTITY history_this_month_section "ഈ മാസം">
 <!ENTITY history_older_section3 "6 മാസത്തിലധികം പഴക്കമുള്ളത്">
 
-<!ENTITY go "പോവുക">
 <!ENTITY search "തിരയുക">
 <!ENTITY reload "പുതുക്കുക">
 <!ENTITY forward "മുന്നോട്ട്">
@@ -128,9 +129,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "അടയാളം">
-<!ENTITY overlay_share_reading_list_btn_label "വായനാ പട്ടികയിലേക്ക് ചേര്‍ക്കുക">
 <!ENTITY overlay_share_bookmark_btn_label_already "നേരത്തെതന്നെ അടയാളപ്പെടുത്തിയത്">
-<!ENTITY overlay_share_reading_list_btn_label_already "നേരത്തെ തന്നെ വായനപ്പട്ടികയിലുണ്ടു്">
 <!ENTITY overlay_share_send_other "മറ്റു് ഉപകരണങ്ങളിലേക്ക് അയയ്ക്കുക">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -146,7 +145,7 @@
 <!ENTITY overlay_no_synced_devices "ഫയര്‍ഫോക്സ് അക്കൗണ്ടുമായി ബന്ധിപ്പിച്ചിട്ടുള്ള ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല">
 
 <!ENTITY pref_category_search3 "തെരയുക">
-<!ENTITY pref_category_search_summary "തിരയല്‍ സേവന ദാതാക്കളെ ഇഷ്ടാനുസൃതമാക്കുക">
+
 
 
 <!ENTITY pref_category_privacy_short "സ്വകാര്യത">
@@ -154,6 +153,7 @@
 
 
 <!ENTITY pref_category_datareporting "ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
+
 <!ENTITY pref_learn_more "കൂടുതല്‍ അറിയുക">
 <!ENTITY pref_category_installed_search_engines "ഇന്‍സ്റ്റാള്‍ ചെയ്തിരിക്കുന്ന തിരയല്‍ യന്ത്രങ്ങള്‍">
 <!ENTITY pref_category_add_search_providers "കൂടുതല്‍ തിരയല്‍ സേവന ദാതാക്കളെ ചേര്‍ക്കുക">
@@ -165,10 +165,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "സഹായി: തിരച്ചില്‍ സഹായികളുടെ പട്ടികയിലേക്ക് ഏത് വെബ്സൈറ്റ് ചേര്‍ക്കണമെങ്കിലും തിരച്ചിലിനുള്ള ഫീല്‍ഡില്‍ ദീര്‍ഘനേരം അമര്‍ത്തിപിടിച്ച് &formatI; ഐക്കണില്‍ ഞെക്കുക.">
 
 
-<!ENTITY pref_developer_remotedebugging "വിദൂര ഡീബഗ്ഗിങ്">
+
+
+
+
 <!ENTITY pref_developer_remotedebugging_usb "യു എസ് ബി വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
 <!ENTITY pref_developer_remotedebugging_wifi "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗിനു താങ്കളുടെ ഡിവൈസില്‍ ക്യുആര്‍ കോഡ് റീഡര്‍ ആപ്പ് ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടതുണ്ട്.">
@@ -178,18 +180,10 @@
 <!ENTITY pref_category_home "ആസ്ഥാനം">
 <!ENTITY pref_category_home_summary "നിങ്ങളുടെ ഹോംപേജ്  ഇഷ്ടാനുസൃതമാക്കുക">
 <!ENTITY pref_category_home_panels "പാളികള്‍">
-<!ENTITY home_add_panel_title "പുതിയ പാളി ചേര്‍ക്കുക">
-<!ENTITY home_add_panel_empty "ക്ഷമിക്കണം, നിങ്ങള്‍ക്ക് ചേര്‍ക്കാനായി പാളികളൊന്നും കണ്ടെത്താനായില്ല.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "&formatS; ഹോംപേജിലേക്ക് ചേര്‍ത്തിരിക്കുന്നു">
-<!ENTITY pref_category_home_content_settings "ഉള്ളടക്ക സജ്ജീകരണങ്ങള്‍">
+
 
 <!ENTITY pref_home_updates_enabled "പ്രവര്‍ത്തനക്ഷമമാക്കി">
 <!ENTITY pref_home_updates_wifi "വൈ-ഫൈ വഴി മാത്രം">
-<!ENTITY pref_home_suggested_sites "സൈറ്റ് നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുക">
-<!ENTITY pref_home_suggested_sites_summary "താങ്കൾക്ക് ഇഷ്ടപ്പെടും എന്ന് ഞങ്ങൾ കരുതുന്ന സൈറ്റുകളിലേക്കുള്ള കുറുക്കുവഴികൾ പൂമുഖത്താളില്‍ കാണിക്കൂ">
 
 
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -209,6 +203,7 @@
 <!ENTITY pref_header_privacy_short "സ്വകാര്യത">
 
 
+
 <!ENTITY pref_header_help "സഹായം">
 
 
@@ -222,7 +217,10 @@
 
 
 
-<!ENTITY pref_tracking_protection_title "നിരീക്ഷണ സുരക്ഷ">
+
+
+
+
 
 <!ENTITY pref_donottrack_title "നിരീക്ഷിയ്ക്കേണ്ട">
 <!ENTITY pref_donottrack_summary "&brandShortName; നിങ്ങള്‍ നിരീക്ഷിക്കപ്പെടാന്‍ ആഗ്രഹിക്കുന്നില്ല എന്ന് വെബ്സൈറ്റുകളോട് പറയും">
@@ -230,6 +228,8 @@
 <!ENTITY pref_tracking_protection_enabled "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
 
 <!ENTITY pref_tracking_protection_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
+
+
 
 
 
@@ -256,6 +256,15 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
 <!ENTITY pref_char_encoding_on "മെനു കാണിക്കുക">
 <!ENTITY pref_char_encoding_off "മെനു കാണിക്കേണ്ട">
@@ -268,7 +277,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "വെടിപ്പാക്കേണ്ട ഡേറ്റാ തെരഞ്ഞെടുക്കൂ">
 <!ENTITY pref_plugins "പ്ലഗിനുകള്‍">
 <!ENTITY pref_plugins_enabled "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
-<!ENTITY pref_plugins_tap_to_play "കളിക്കാൻ തട്ടൂ">
+
 <!ENTITY pref_plugins_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
 <!ENTITY pref_text_size "അക്ഷര വലുപ്പം">
 
@@ -317,7 +326,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ഡൌണ്‍ലോഡുകള്‍">
 <!ENTITY pref_private_data_syncedTabs "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
 
-
 <!ENTITY pref_about_firefox "&brandShortName;-നെ സംബന്ധിച്ച്">
 <!ENTITY pref_vendor_faqs "സ്ഥിരം ചോദ്യങ്ങള്‍">
 <!ENTITY pref_vendor_feedback "പ്രതികരണം നല്‍കുക">
@@ -335,10 +343,12 @@ size. -->
 <!ENTITY pref_panels_move_down "താഴേക്കു് നീക്കൂ">
 
 <!ENTITY datareporting_notification_title "&brandShortName;കണക്കും വിവരങ്ങളും">
-<!ENTITY datareporting_notification_action_long "എന്തു വിവരമാണ് പങ്കിടേണ്ടതെന്ന് തിരഞ്ഞെടുക്കുക ">
 <!ENTITY datareporting_notification_action "എന്താണ് പങ്കിടേണ്ടതെന്ന് തിരഞ്ഞെടുക്കുക">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "എന്തു വിവരമാണ് പങ്കിടേണ്ടതെന്ന് തിരഞ്ഞെടുക്കുക ">
 <!ENTITY datareporting_notification_summary "നിങ്ങളുടെ അനുഭവം മികച്ചതാക്കാന്‍ &brandShortName; തനിയെ ചില വിവരങ്ങള്‍ക്ക് &vendorShortName;-ന് അയക്കുന്നുണ്ട്.">
-<!ENTITY datareporting_notification_summary_short "നിങ്ങളുടെ അനുഭവങ്ങൾ നന്നാക്കാൻ,&brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -389,7 +399,6 @@ size. -->
 <!ENTITY close_private_tabs "സ്വകാര്യ റ്റാബുകള്‍ അടയ്ക്കൂ">
 
 <!ENTITY tabs_private "സ്വകാര്യം">
-<!ENTITY tabs_synced "സിങ്ക് ചെയ്തു">
 <!ENTITY set_image_fail "ചിത്രം ചേര്‍ക്കാന്‍ കഴിഞ്ഞില്ല">
 
 <!ENTITY set_image_chooser_title "ചിത്രം ഉപയോഗിക്കുക">
@@ -421,8 +430,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "സൈറ്റ് ചേര്‍ക്കുക">
 <!ENTITY contextmenu_top_sites_unpin "സൈറ്റ് ഉപേക്ഷിയ്ക്കുക">
 <!ENTITY contextmenu_add_search_engine "തെരച്ചിലിനുള്ള പ്രയോഗം ചേര്‍ക്കുക">
-<!ENTITY contextmenu_mark_read "വായിച്ചതായി അടയാളപ്പെടുത്തുക">
-<!ENTITY contextmenu_mark_unread "വായിക്കാത്തതായി അടയാളപ്പെടുത്തുക">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -460,21 +467,6 @@ size. -->
 <!ENTITY site_settings_title3       "വെബ്സൈറ്റ് സജ്ജീകരണങ്ങള്‍">
 <!ENTITY site_settings_cancel       "റദ്ദാക്കുക">
 <!ENTITY site_settings_clear        "വൃത്തിയാക്കുക">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!ENTITY reading_list_added3 "വായനാ പട്ടികയിലേക്ക് ചേര്‍ത്തി">
-<!ENTITY reading_list_removed "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ നിന്നും നീക്കം ചെയ്തു">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "വായനാ പട്ടികയില്‍ നിന്നും ഒഴിവാക്കുക">
-<!ENTITY reading_list_duplicate "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ നേരത്തെതന്നെ ഉണ്ട്">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
-<!ENTITY reading_list_time_minutes2 "&formatD; നിമിഷം">
-<!ENTITY reading_list_time_over_an_hour "ഒരു മണിക്കൂറിലധികം">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -501,6 +493,7 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "നാള്‍വഴി">
+
 <!ENTITY home_clear_history_button "ബ്രൗസിങ്ങ് നാൾവഴി വെടിപ്പാക്കുക">
 <!ENTITY home_clear_history_confirm "നാള്‍വഴി മായ്ക്കട്ടെ?">
 <!ENTITY home_bookmarks_empty "നിങ്ങൾ സൂക്ഷിച്ച അടയാളക്കുറിപ്പുകള്‍ ഇവിടെ കാണിക്കുക">
@@ -509,27 +502,15 @@ size. -->
 <!ENTITY home_last_tabs_empty "നിങ്ങളുടെ ഒടുവിലത്തെ ടാബുകള്‍ ഇവിടെ കാണിക്കുക.">
 <!ENTITY home_open_all "എല്ലാം തുറക്കൂ">
 <!ENTITY home_most_recent_empty "അടുത്തിടെ സന്ദര്‍ശിച്ച വെബ്സ്റ്റൈറ്റുകള്‍ ഇവിടെ കാണാം.">
-
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "ഏയ്, &formatS1;പുതിയ സ്വകാര്യ ടാബ്&formatS2; ഉപയോഗിയ്ക്കുന്നത് താങ്കളുടെ നാള്‍വഴി സൂക്ഷിക്കില്ല.">
-<!ENTITY home_reading_list_empty "പിന്നീട് കാണാൻ നിങ്ങൾ സൂക്ഷിച്ച ലേഖനങ്ങൾ ഇവിടെ കാണിക്കുന്നു.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "ഈ പാനലിൽ ഒന്നും കാണാൻ സാധിച്ചില്ല">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_remote_tabs_title "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
-
-<!ENTITY home_remote_tabs_unable_to_connect "കണക്ട്‌ ചെയ്യുവാന്‍ സാധിച്ചില്ല">
-<!ENTITY home_remote_tabs_need_to_sign_in "സിങ്കിംഗ് തുടരുവാന്‍ താങ്കളുടെ ഫയര്‍ഫോക്സ് അക്കൗണ്ടിലെക്ക് പ്രവേശിക്കുക.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "താങ്കളുടെ പുതിയ ഫയര്‍ഫോക്സ് അക്കൗണ്ട്‌ തയ്യാറായി!">
-
-
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 ഡിവൈസ് മറഞ്ഞിരിക്കുന്നു">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -547,7 +528,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "സൂചകപദം നല്‍കു">
 
-<!ENTITY filepicker_title "ഫയല്‍ തിരഞ്ഞെടുക്കുക">
 <!ENTITY filepicker_audio_title "ഒരു ഒച്ച തിരഞ്ഞെടുക്കുകയോ റിക്കാര്‍ഡാക്കുകയോ ചെയ്യുക">
 <!ENTITY filepicker_image_title "ഒരു ചിത്രം തിരഞ്ഞെടുക്കുകയോ എടുക്കുകയോ ചെയ്യുക">
 <!ENTITY filepicker_video_title "ഒരു വീഡീയോ തിരഞ്ഞെടുക്കുകയോ റിക്കാര്‍ഡാക്കുകയോ ചെയ്യുക">
@@ -585,7 +565,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "കൂടുതല്‍ അറിയുക">
 <!ENTITY enable_protection "സംരക്ഷണം സജ്ജമാക്കുക">
 <!ENTITY disable_protection "സംരക്ഷണം വേണ്ടെന്നു വയ്ക്കുക">
-<!ENTITY keep_blocking "തടസ്സപ്പെടുത്തുക">
 
 <!ENTITY private_data_success "സ്വകാര്യ ഡേറ്റ നീക്കം ചെയ്തു">
 <!ENTITY private_data_fail "ചില സ്വകാര്യ ഡേറ്റ നീക്കം ചെയ്യാൻ സാധിച്ചില്ല">
@@ -660,7 +639,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "അവസാന സിങ്ക്: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -705,4 +683,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
+
+
 
