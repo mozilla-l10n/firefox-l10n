@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Warnować, hdyž móhło wočinjenje wjacorych rajtarkow &brandShortName; spomalić">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY restoreTabsOnDemand.label        "Rajtarki njezačitać, doniž njejsu wubrane">
-<!ENTITY restoreTabsOnDemand.accesskey    "z">
-
 <!ENTITY switchToNewTabs.label        "Hnydom na wotkaz přepinać, kotryž je so w nowym rajtarku wočinił">
 <!ENTITY switchToNewTabs.accesskey    "H">
 
