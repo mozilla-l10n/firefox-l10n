@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
 <!ENTITY fileNotFound.longDesc "<ul><li>Adakah item telah dinamakan, disingkir, atau dipindahkan?</li><li>Adakah terdapat kesilapan ejaan, penggunaan huruf besar, atau menaip dalam alamat?</li><li>Adakah anda memiliki keizinan yang mencukupi untuk memohon item?</li></ul>">
 
+
+
 <!ENTITY generic.title "Gagal Menyudahkan Permintaan">
 <!ENTITY generic.longDesc "<p>Maklumat tambahan perihal masalah atau ralat ini belum lagi wujud.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "Capaian jauh XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memberitahu mereka mengenai masalah ini.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
