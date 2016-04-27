@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Fayiro Ebuze">
 <!ENTITY fileNotFound.longDesc "<ul><li>Ekintu kiyinza okuba nga kyakyusiddwa erinnya,kyaggyiddwawo,oba kyakyusiddwa ekifo?</li><li>Waliwo ensobi mu nnyukuta ezikola ekigambo,okugezza ennyukuta, oba empandiika, mu ndagiriro?</li><li>Olina olukusa olumala ku kintu ekisabiddwa?</li></ul>">
 
+
+
 <!ENTITY generic.title "Tekisobose Kumalayo Kusaba kwo">
 <!ENTITY generic.longDesc "<p>Obubaka obulala obukwata ku kizibu kino oba ku nsobi eno tebiriiwo mu kaseera kano.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL ku kompyuta endala">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

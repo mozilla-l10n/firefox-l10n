@@ -4,14 +4,11 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Okutegeka">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "Tukusanyukidde! bwobanga tokozesangako &syncBrand.fullName.label;, ojjakwetaga okutondawo akaunta empya.">
 <!ENTITY button.createNewAccount.label "Tondawo Akaunta Empya">
 <!ENTITY button.haveAccount.label      "Nnina Akaunti">
 
 <!ENTITY setup.choicePage.title.label     "Walyo kozesezako &syncBrand.fullName.label;?">
-<!ENTITY setup.choicePage.new.label       "Sikozesangako &syncBrand.shortName.label;">
+
 
 <!-- New Account AND Existing Account -->
 
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "Yunga Ebyuma">
 <!ENTITY addDevice.showMeHow.label          "Ndaga nga.">
-<!ENTITY addDevice.dontHaveDevice.label     "Sirina kikozesebwa nange">
+
 
 <!ENTITY addDevice.setup.enterCode.label    "Oluvanyuma, otekemu kodi eno:">
 
