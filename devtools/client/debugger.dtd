@@ -126,6 +126,9 @@
 
 <!ENTITY debuggerUI.seMenuCondBreak     "Ɓeeydu sarɗi toɓɓere toddol">
 
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+  -  appears in the source editor context menu for editing a breakpoint. -->
+
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.sources        "Iwdeele">
