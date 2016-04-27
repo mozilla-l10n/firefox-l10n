@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pref.policies.title "Bezpečnostné zásady">
+
+<!ENTITY  zoneIntro.label     "&brandShortName; umožňuje vytváranie zásad určujúcich úroveň prístupu, ktorý majú definované webové stránky k rôznym funkciám, vrátane možnosti spúšťania skriptov a apletov Java.">
+
+<!ENTITY  policies.label      "Zásady:">
+<!ENTITY  default.label       "Predvolené zásady">
+<!ENTITY  allWebsites.label   "Všetky webové stránky">
+<!ENTITY  trusted.label       "Dôveryhodné stránky">
+<!ENTITY  annoyances.label    "Známi obťažovatelia">
+<!ENTITY  restricted.label    "Zakázané stránky">
+
+<!ENTITY  addSite.label       "Pridať stránku…">
+<!ENTITY  addSite.accesskey   "a">
+<!ENTITY  settings.label      "Nastavenia pre ">
+<!ENTITY  settings.accesskey  "s">
+
+<!ENTITY  description.label   "Popis zásad:">
