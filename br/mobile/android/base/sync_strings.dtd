@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label "a">
 <!ENTITY bookmarks.folder.tags.label "Gerioù Alc\u0027hwez">
 <!ENTITY bookmarks.folder.toolbar.label "Barrenn ostilhoù ar sinedoù">
-<!ENTITY bookmarks.folder.unfiled.label "Sinedoù dirumm">
+
 <!ENTITY bookmarks.folder.desktop.label "Sinedoù urzhiataer">
 <!ENTITY bookmarks.folder.mobile.label "Sinedoù hezougell">
-<!ENTITY bookmarks.folder.readinglist.label "Roll al lennadurioù">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Spilhennet">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Kefluniañ &syncBrand.shortName.label; da gas ivinelloù">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Kefluniañ &syncBrand.fullName.label; war ho trevnad da gas ivinelloù da drevnadoù all.">
-<!ENTITY sync.text.tab.sent.label "Kaset eo bet hoc\u0027h ivinell !">
-<!ENTITY sync.text.tab.not.sent.label "Ur gudenn ez eus bet e-pad kas hoc\u0027h ivinell.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Kontoù Firefox">
-
-<!ENTITY fxaccount_custom_server_account_title "Arver ar gont war an dafariad">
-<!ENTITY fxaccount_custom_server_sync_title "Gwarediñ ar roadennoù goubredañ war an dafariad">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "Postel">
-<!ENTITY fxaccount_password_hint "Ger-tremen">
-<!ENTITY fxaccount_password_hide "Kuzhat">
-<!ENTITY fxaccount_password_show "Diskouez">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "Distreiñ d\u0027ar merdeiñ">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Divizoù arver">
-<!ENTITY fxaccount_policy_linkprivacy "Evezhiadennoù a-fet buhez prevez">
+<!ENTITY fxaccount_back_to_browsing "Distreiñ d\u0027ar merdeiñ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Donemat war &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Kennaskit evit goubredañ hoc\u0027h ivinelloù, ho sinedoù, ho titouroù kennaskañ hag ouzhpenn c\u0027hoazh.">
 <!ENTITY fxaccount_getting_started_get_started "Deraouiñ">
 <!ENTITY fxaccount_getting_started_old_firefox "Emaoc\u0027h oc\u0027h ober gant un handelv all eus &syncBrand.shortName.label; ?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "Krouiñ ur gont Firefox">
-<!ENTITY fxaccount_create_account_password_length_restriction " Enankit 8 arouezenn da nebeutañ">
-<!ENTITY fxaccount_create_account_day_of_birth "Deiz">
-<!ENTITY fxaccount_create_account_month_of_birth "Miz">
-<!ENTITY fxaccount_create_account_year_of_birth "Bloaz ar c\u0027hanedigezh">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "En ur genderc\u0027hel ez asantan da &formatS1; ha &formatS2; eus gwazerezhioù evit koumoul Firefox.">
-<!ENTITY fxaccount_create_account_button "War-lerc\u0027h">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Dibab pezh a vo da c\u0027houbredañ">
-<!ENTITY fxaccount_create_account_sign_in_instead "Ur gont hoc\u0027h eus endeo ? En em gennaskit">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 pe a-raok">
-<!ENTITY fxaccount_create_account_unknown_error "N\u0027halled ket krouiñ ur gont">
-
-<!ENTITY fxaccount_account_create_not_allowed "N\u0027haller ket krouiñ ur gont">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Ret eo deoc\u0027h bezañ tizhet un oad bennak da grouiñ ur gont.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Gouzout hiroc\u0027h">
-
-<!ENTITY fxaccount_confirm_account_header "Kadarnaat ho kont">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Kaset ez eus bet un ere gwiriañ da &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Adkas ar postel">
-<!ENTITY fxaccount_confirm_account_change_email "Disoñjal ar chomlec\u0027h-mañ ?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Kaset eo bet ar postel gwiriañ">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "N\u0027halled ket kas ar postel gwiriañ">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Kas ar postel dibrennañ en-dro">
-<!ENTITY fxaccount_unlock_code_sent "Postel dibrennañ ar gont kaset">
-<!ENTITY fxaccount_unlock_code_not_sent "N\u0027eus ket bet tu da gas postel dibrennañ ar gont">
-
-<!ENTITY fxaccount_sign_in_sub_header "Kennaskañ">
-<!ENTITY fxaccount_sign_in_button_label "Kennaskañ">
-<!ENTITY fxaccount_sign_in_forgot_password "Disoñjet hoc\u0027h eus ho ker-tremen ?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Krouiñ ur gont">
-<!ENTITY fxaccount_sign_in_unknown_error "N\u0027haller ket en em gennaskañ">
-
-<!ENTITY fxaccount_account_verified_sub_header "Kont gwiriet">
-<!ENTITY fxaccount_account_verified_description2 "A-benn nebeut e krogo ho roadennoù o goubredañ. ">
-
-<!ENTITY fxaccount_migration_finished_header "Echuet an hizivadenn">
-
-<!ENTITY fxaccount_update_credentials_header "Kennaskañ">
-<!ENTITY fxaccount_update_credentials_button_label "Kennaskañ">
-<!ENTITY fxaccount_update_credentials_unknown_error "N\u0027halled ket kennaskañ">
-
-<!ENTITY fxaccount_finish_migrating_header "Kennaskit evit echuiñ an hizivadenn">
-<!ENTITY fxaccount_finish_migrating_button_label "Echuiñ an hizivadenn">
-<!ENTITY fxaccount_finish_migrating_description "Ur bern roadennoù a c\u0027hell bezañ implijet gant an hizivadenn. Gwelloc\u0027h eo bezañ kennasket war ur rouedad WiFi.">
-
-<!ENTITY fxaccount_status_header2 "Kont Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Kennasket evel">
 <!ENTITY fxaccount_status_manage_account "Ardeiñ ar gont">
 <!ENTITY fxaccount_status_auth_server "Dafariad ar gont">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Divizoù arver">
-<!ENTITY fxaccount_status_linkprivacy "Evezhiadennoù a-fet buhez prevez">
+
 <!ENTITY fxaccount_status_more "Muioc\u0027h&ellipsis;">
 <!ENTITY fxaccount_remove_account "Digennaskañ&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Dafariad ac\u0027hubet, klaskit en-dro diwezhatoc\u0027h">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Dafariad ac\u0027hubet, klaskit en-dro diwezhatoc\u0027h">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Ur gudenn dic\u0027hortoz zo degouezhet">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "N\u0027haller ket kennaskañ ouzh ar rouedad">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Stanket eo ar gont. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "N\u0027eo ket kennasket &syncBrand.shortName.label;">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Stokit d\u0027en em gennaskañ gant &formatS;">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "Kennaskit evit kenderc\u0027hel gant ar goubredañ">
-<!ENTITY old_sync_deprecated_notification_content "N\u0027eo ket skoret ho kont ken">

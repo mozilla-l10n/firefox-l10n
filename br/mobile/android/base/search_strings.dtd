@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Dilemel ar roll istor enklask diwar an trevnad-mañ ?">
 <!ENTITY pref_clearHistory_title "Skarzhañ ar roll istor enklask">
 
-<!ENTITY pref_searchProvider_title "Kefluskerioù enklask">
-
 <!ENTITY search_widget_button_label "Klask">
 
 <!ENTITY network_error_title "Kennask ebet ouzh ar genrouedad">
