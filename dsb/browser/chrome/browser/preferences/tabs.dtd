@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Warnowaś, gaby wócynjanje někotarych rejtarkow mógło &brandShortName; spomałšyś">
 <!ENTITY warnOpenManyTabs.accesskey   "k">
 
-<!ENTITY restoreTabsOnDemand.label        "Rejtarki njezacytaś, až njejsu wubrane">
-<!ENTITY restoreTabsOnDemand.accesskey    "z">
-
 <!ENTITY switchToNewTabs.label        "Ned na wótkaz pśešaltowaś, kótaryž jo se w nowem rejtarku wócynił">
 <!ENTITY switchToNewTabs.accesskey    "t">
 

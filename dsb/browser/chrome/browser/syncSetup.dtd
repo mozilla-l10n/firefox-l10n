@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; - Konfiguracija">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "Witajśo! Jolic njejsćo nigda do togo &syncBrand.fullName.label; wužywał, musyśo nowe konto załožyś.">
 <!ENTITY button.createNewAccount.label "Nowe konto załožyś">
 <!ENTITY button.haveAccount.label      "Mam konto">
 
 <!ENTITY setup.choicePage.title.label     "Sćo &syncBrand.fullName.label; do togo wužywał?">
-<!ENTITY setup.choicePage.new.label       "Njejsom &syncBrand.shortName.label; nigda do togo wužywał">
-<!ENTITY setup.choicePage.existing2.label "Wužywam &syncBrand.shortName.label; južo na drugem rěźe">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Serwer">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "Rěd zwězaś">
 <!ENTITY addDevice.showMeHow.label          "Pokažćo mě kak.">
-<!ENTITY addDevice.dontHaveDevice.label     "Njamam rěd sobu">
+
 <!ENTITY pairDevice.setup.description.label  "Aby jen aktiwěrował, wubjeŕśo &quot;Rěd zwězaś&quot; na swójom drugem rěźe.">
 <!ENTITY addDevice.setup.enterCode.label    "Zapódajśo pón toś ten kod:">
 <!ENTITY pairDevice.dialog.description.label "Aby swój nowy rěd aktiwěrował, wubjeŕśo &quot;Synchronizaciju konfigurěrowaś&quot; na rěźe.">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "Dodanki">
 <!ENTITY engine.addons.accesskey    "D">
 
-<!ENTITY choice2a.merge.main.label       "Daty toś togo rěda z datami &syncBrand.shortName.label; zjadnośiś">
 <!ENTITY choice2.merge.recommended.label "Dopórucone:">
 <!ENTITY choice2a.client.main.label      "Wšykne daty na toś tom rěźe pśez móje daty &syncBrand.shortName.label; wuměniś">
-<!ENTITY choice2a.server.main.label      "Wšykne druge rědy pśez daty toś togo rěda wuměniś">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Wobkšuśiś">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; zjadnośijo něnto wšykne daty wobglědowaka toś togo rěda ze synchronizaciskim kontom.">
+
 <!ENTITY confirm.client3.label         "Warnowanje: Slědujuce daty &brandShortName; na toś tom rěźe se wulašuju:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; buź pón waše daty &syncBrand.fullName.label; na toś ten rěd kopěrowaś.">
 <!ENTITY confirm.server2.label         "Warnowanje: Slědujuce rědy budu se pśez waše lokalne daty pśepisowaś:">

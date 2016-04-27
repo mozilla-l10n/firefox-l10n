@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "Wokno &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "Zachopmy!">
 <!ENTITY welcomeback2.restoreButton.access "o">
 
 <!ENTITY welcomeback2.tabtitle      "Wuspěch!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Waše dodanki a pśiměrjenja su se wótpórali a nastajenja wašogo wobglědowaka su se na standardne gódnoty slědk stajili. Jolic to njejo waš problem rozwězał, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "wěcej wó tom zgóniś, což móžośo cyniś.">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Waše druge rejtarkowe kupki pśenosowaś">
-<!ENTITY tabgroupsmigration.pagetitle2          "Smy rejtarkowe kupki wótpórali, ale waše rejtarki składowali">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Zgóńśo wěcej wó dodankach, kótarež narownuju rejtarkowe kupki.">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; jo wšykne waše kupki ako cytańske znamjenja składł, až njeby nic zgubił.">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Rejtarkowe kupki pokazaś, kótarež su se ako cytańske znamjenja składli">
 <!ENTITY tabgroupsmigration.restoredescription  "Móžośo něnto teke někotare abo wšykne slězynowe kupki we woknach wótnowiś:">
 

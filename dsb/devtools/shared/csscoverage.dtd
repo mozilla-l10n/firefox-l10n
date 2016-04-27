@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Móžośo wótergi zacytowanje póspěšyś pśez pśesuwanje">
 <!ENTITY csscoverage.optimize.body2 "elementow do dolneje kšomy boka a pśez napóranje nowego jadnosmužkowego">
-<!ENTITY csscoverage.optimize.body3 "elementa ze stilami, kótarež su górjejce za tšojenje 'load' trěbne. How su stilowe bloki, kótarež trjebaśo:">
+
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

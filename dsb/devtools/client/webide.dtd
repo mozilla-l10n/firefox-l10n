@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Druge">
 <!ENTITY runtimePanel_installsimulator "Simulator instalěrowaś">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper instalěrowaś">
-<!ENTITY runtimePanel_nousbdevice "Njamóžośo swój rěd wiźeś?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Rědy aktualizěrowaś">
 <!-- Lense -->
 
