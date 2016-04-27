@@ -36,7 +36,6 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY notCached.title "Documentu caducáu">
 <!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché de &brandShortName;.</p><ul><li>Por seguridá, &brandShortName; nun va solicitar automáticamente documentos con información sensible.</li><li>Calca en Intentar pa solicitar el documentu dende la web.</li></ul>">
 
-
 <!ENTITY netOffline.title "Mou ensin conexón">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -58,6 +57,8 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY netTimeout.title "La conexón caducó">
 <!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun respondió a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando el sirvidor alta demanda o un corte temporal? Vuelvi a intentalo más sero.</li><li>¿Nun pues navegar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Ta l'equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li><li>¿Entá tienes problemes? Consulta col alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
 
+<!ENTITY unknownProtocolFound.title "La direición nun resulta entendible">
+<!ENTITY unknownProtocolFound.longDesc "">
 
 <!ENTITY proxyConnectFailure.title "El sirvidor proxy ta refugando les conexones">
 <!ENTITY proxyConnectFailure.longDesc "<p>El restolador ta configuráu pa usar un sirvidor proxy, pero'l proxy refugó la conexón.</p><ul><li>¿Ye correuta la configuración del proxy del restolador? Comprueba la configuración y vuelvi a intentalo.</li><li>¿Dexa'l serviciu proxy conexones dende esta rede?</li><li>¿Entá tienes problemes? Consulta col so alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
@@ -72,13 +73,11 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY unknownSocketType.longDesc "<p>El sitiu respondió a la solicitú de rede d'una forma inesperada y el restolador nun pue continuar.</p>">
 
 <!ENTITY nssFailure2.title "Conexón segura fallida">
+<!ENTITY nssFailure2.longDesc2 "">
 
-<!ENTITY nssBadCert.title "La conexón segura falló">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>Pue ser un problema cola configuración del sirvidor, o bien que daquién tea tentando suplantar al sirvidor.</li>
-  <li>Si tas seguru de que coneutasti anteriormente a esti sirvidor con éxitu, l'error pudiera ser temporal polo que se pue intentar otra vegada nunos minutos.</li>
-</ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -92,41 +91,27 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 </ul>
  ">
 
-<!ENTITY malwareBlocked.title "¡Ye posible qu'esti seya un sitiu peligrosu!">
-<!ENTITY malwareBlocked.longDesc "<p>Los sitios atacantes intenten instalar programes que roben información privao, usen el to equipu p'atacar a otros o frañen el sistema.</p>
-<p>Los propietarios de sitios web que camienten que foren conseñaos como un sitiu atacante deberíen <a href='http://www.stopbadware.org/home/reviewinfo' >pidir una revisión</a>.</p>">
-
-<!ENTITY phishingBlocked.title "¡Paez qu'esti ye un sitiu web fraudulentu!">
-<!ENTITY phishingBlocked.longDesc "<p>Introducir información personal nesta páxina pue dar llugar a una suplantación d'identidá u otra engañifa.</p>
-<p>Estos tipos de falsificaciones de webs úsense n'engañifes conocíes como ataques de phishing, nos que s'usen páxines web y mensaxes de corréu-e fraudulentos pa imitar fontes nes que se confía.</p>">
-<!ENTITY corruptedContentError.title "Fallu de corrupción del conteníu">
-
-<!ENTITY corruptedContentError.longDesc "<p>Nun pue amosase la páxina que tas intentando ver, porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Por favor, contauta col propietariu de la web pa informá-y d'esti problema.</li></ul>">
-
-<!ENTITY securityOverride.linkText "O pues amestar una esceición…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Sacáime d'equí!">
-<!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">
-<!ENTITY securityOverride.warningContent "
-<p>Si tas usando una conexón a Internet insegura, nun tendríes d'amestar una esceición; o tamién si nun avezabes a ver avisos nesti sitiu con anterioridá.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
-<!ENTITY remoteXUL.title "XUL Remotu">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta col alministrador del sitiu web pa informalu d'esti problema.</li></ul></p>">
-<!ENTITY unknownProtocolFound.title "La direición nun resulta entendible">
-<!ENTITY unknownProtocolFound.longDesc "">
-<!ENTITY nssFailure2.longDesc2 "">
-<!ENTITY sslv3Used.title "Nun ye dable coneutar de mou seguru">
-<!ENTITY sslv3Used.longDesc "Información avanzao: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "Deprender más…">
-<!ENTITY errorReporting.tryAgain "Vuelvi a intentalo">
-<!ENTITY errorReporting.title "Informar d'esti fallu">
-<!ENTITY errorReporting.sent "Unvióse l'informe">
-<!ENTITY errorReporting.sending "Unviando informe">
-<!ENTITY errorReporting.report "Informar">
-<!ENTITY errorReporting.longDesc "Informar de la direición y la información del certificáu de <span id='hostname'></span> va ayudanos a identificar y bloquiar los sitios maliciosos. ¡Gracies por ayudar a crear una web más segura!">
-<!ENTITY errorReporting.learnMore "Más información…">
-<!ENTITY errorReporting.automatic "Nel futuru, informar de fallos automáticamente">
 <!ENTITY cspBlocked.title "Bloquiáu pola política de seguridá de conteníu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina se cargue d'esta forma porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">
+
+<!ENTITY corruptedContentError.title "Fallu de corrupción del conteníu">
+<!ENTITY corruptedContentError.longDesc "<p>Nun pue amosase la páxina que tas intentando ver, porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Por favor, contauta col propietariu de la web pa informá-y d'esti problema.</li></ul>">
+
+
+<!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">
+
+<!ENTITY errorReporting.learnMore "Más información…">
+
+<!ENTITY remoteXUL.title "XUL Remotu">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta col alministrador del sitiu web pa informalu d'esti problema.</li></ul></p>">
+
+<!ENTITY sslv3Used.title "Nun ye dable coneutar de mou seguru">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

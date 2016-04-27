@@ -3,50 +3,77 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutTelemetry.pageTitle "Datos de Telemetry">
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Telemetry ta <span>activáu</span>.
-">
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetry ta <span>desactiváu</span>.
-">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY aboutTelemetry.generalDataSection "">
+
+
+<!ENTITY aboutTelemetry.telemetryLogSection "">
+
 <!ENTITY aboutTelemetry.slowSqlSection "
   Sentencies SQL lentes
 ">
+
 <!ENTITY aboutTelemetry.chromeHangsSection "
-  El navegador colíngase
+  El restolador colíngase
 ">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrames
 ">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "">
+
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Midides simples
 ">
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Información de sistema
-">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "">
+
+<!ENTITY aboutTelemetry.lateWritesSection "">
+
+
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   Histogrames recopilaos por complementos
 ">
-<!ENTITY aboutTelemetry.toggle "
-  Calca pa estenderexar la seición
-">
+
+<!ENTITY aboutTelemetry.toggle "">
+
 <!ENTITY aboutTelemetry.emptySection "
   (Nun se recopilaron datos)
 ">
+
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTA: la depuración SQL lenta ta activada. Puen amosase cadenes completes de SQL pero nun van unviase a Telemetry.
 ">
+
 <!ENTITY aboutTelemetry.fetchSymbols "
   Recuperar nomes de función de les piles de cuelgue
 ">
+
 <!ENTITY aboutTelemetry.hideSymbols "
   Amosar datos non procesaos de cuelgues
 ">
-<!ENTITY aboutTelemetry.lateWritesSection "">
-<!ENTITY aboutTelemetry.toggle "">
-<!ENTITY aboutTelemetry.threadHangStatsSection "">
+
 <!ENTITY aboutTelemetry.filterText "">
-<!ENTITY aboutTelemetry.addonDetailsSection "">
-<!ENTITY aboutTelemetry.telemetryLogSection "">
-<!ENTITY aboutTelemetry.keyedHistogramsSection "">
-<!ENTITY aboutTelemetry.generalDataSection "">
+
+

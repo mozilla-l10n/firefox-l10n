@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Soscribise a esta páxina…">
 <!ENTITY addCurPagesCmd.label "Amestar llingüetes a marcadores…">
 <!ENTITY showAllBookmarks2.label "Amosar tolos marcadores">
-<!ENTITY unsortedBookmarksCmd.label "Marcadores ensin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amosar más marcadores">
 
 <!ENTITY backCmd.label                "Anterior">
@@ -196,7 +195,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ver l'almacenamientu de mensaxes de l'aplicación fuera de llinia">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Remanar la información d'aniciu de sesión">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Seleiciona si quies guardar la contraseña">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Ver el mensaxe de la instalación de la app">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Remanar l'usu de complementos nesta páxina">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Cambiar si pues recibir notificaciones del sitiu">
 
@@ -224,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
-<!ENTITY bookmarksMenuButton.unsorted.label "Marcadores ensin ordenar">
 <!ENTITY viewBookmarksSidebar2.label        "Ver el panel llateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver la barra de marcadores">
 
@@ -254,79 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desendolcador web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Coneutar…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Consola d'errores">
-<!ENTITY errorConsoleCmd.accesskey    "n">
-
-<!ENTITY remoteWebConsoleCmd.label    "Consola web remota">
-
-<!ENTITY browserConsoleCmd.label      "Consola del navegador">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "n">
-
 <!ENTITY inspectContextMenu.label     "Inspeicionar Elementu">
 <!ENTITY inspectContextMenu.accesskey "n">
-
-<!ENTITY responsiveDesignTool.label   "Vista de diseñu adaptable">
-<!ENTITY responsiveDesignTool.accesskey "ñ">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Seleutor de color">
-<!ENTITY eyedropper.accesskey "S">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "s">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Caxa de ferramientes del restolador web">
-<!ENTITY browserToolboxMenu.accesskey "h">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Caxa de ferramientes de conteníu del restolador">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Zarrar la barra de desendolcadores">
-<!ENTITY devToolbarMenu.label              "Barra de desendolcadores">
-<!ENTITY devToolbarMenu.accesskey          "b">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Amosar ferramientes">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Activar les ferramientes pa desendolcadores">
-<!ENTITY devToolbarOtherToolsButton.label  "Más ferramientes">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Obtener más Ferramientes">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label         "Ficheru"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -410,7 +336,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Abrir menú d'ayuda">
 
 <!ENTITY appMenuRemoteTabs.label "Llingüetes sincronizaes">
-<!ENTITY appMenuRemoteTabs.fetching.label "Obteniendo llingüetes sincronizaes…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nun hai llingüetes abiertes">
@@ -420,7 +345,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Anicia sesión en Firefox dende otros preseos pa ver les llingüetes equí.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sincronizar preferencies">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Anicia sesión pa ver una llista de llingüetes de los otros preseos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aniciar sesión en Sync">
@@ -768,25 +692,49 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher2 "Otres persones puen ver esta información o modificar el comportamientu del sitiu web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bloquió partes d'esta páxina que nun son segures.">
 <!ENTITY identity.description.passiveLoaded "La conexón nun ye privada y la información que compartas col sitiu pue ser vista por otros.">
+<!ENTITY identity.description.passiveLoaded2 "Esti sitiu web contién conteníu que nun ye seguru (por exemplu: imáxenes).">
+<!ENTITY identity.description.passiveLoaded3 "Magar que &brandShortName; bloquiara daqué del conteníu, siempre esiste dalgún conteníu na páxina que nun ye seguru (como imáxenes).">
+<!ENTITY identity.description.activeLoaded "Esti sitiu web contién conteníu que nun ye seguru (por exemplu: scripts) y la conexón a esti nun ye privada.">
+<!ENTITY identity.description.activeLoaded2 "La información que compartas con esti sitiu van poder vela otros (contraseñes, mensaxes, tarxetes de creitu, etc.).">
 
+<!ENTITY identity.enableMixedContentBlocking.label "Activar proteición">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "A">
+<!ENTITY identity.disableMixedContentBlocking.label "Desactivar proteición per agora">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "Deprendi más">
 
+<!ENTITY identity.removeCertException.label "Desaniciar esceición">
+<!ENTITY identity.removeCertException.accesskey "D">
 
+<!ENTITY identity.moreInfoLinkText2 "Más información">
 
 <!ENTITY identity.permissions "Permisos">
+<!ENTITY identity.permissionsEmpty "Nun diste a esti sitiu nengún permisu especial.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Llingüetes del restolador">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu3.label     "Llingüetes sincronizaes">
 
+<!ENTITY syncedTabs.sidebar.label              "Llingüetes sincronizaes">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Anicia sesión en Firefox dende otros preseos pa ver les llingüetes equí.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Anicia sesión pa ver una llista de llingüetes de los otros preseos.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Nun hai llingüetes abiertes">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Abrir preferencies de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activa la sinc de llingüetes pa ver una llista de llingüetes dende otros preseos.">
 
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Amestar a marcadores esta llingüeta…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "M">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "Coneutase a &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "C">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey    "z">
 <!ENTITY syncReAuthItem.label         "Reconeutar a &syncBrand.shortName.label;…">
@@ -846,14 +794,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófonu pa compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "Va compartise l'audiu de la llingüeta.">
 <!ENTITY getUserMedia.allWindowsShared.message "Van compartise toles ventanes visibles na to pantalla.">
 
+<!ENTITY trackingProtection.title "Proteición de rastrexu">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ta bloquiando partes de la páxina que quiciabes rastrexen la to actividá de navegación.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Esti sitiu inclúi elementos que puen rastrexar lo que faes. Tienes deshabilitada la proteición.">
+<!ENTITY trackingProtection.notDetected3 "Nun se deteutaron elementos de rastrexu nesta páxina.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "Desactivar proteición nesti sitiu">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Desactivar proteición pa esta sesión">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Activar proteición">
+<!ENTITY trackingProtection.block2.accesskey "A">
 
 <!ENTITY trackingContentBlocked.message "Rastréu">
 <!ENTITY trackingContentBlocked.moreinfo "Les partes d'esta páxina que rastrexen l'actividá en llinia tán bloquiaes.">

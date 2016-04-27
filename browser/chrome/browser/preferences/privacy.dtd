@@ -2,31 +2,46 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionLearnMore.label    "Deprender más">
+
 <!ENTITY tracking.label                 "Siguir">
+
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  history.label                 "Historial">
 
 <!ENTITY  locationBar.label             "Barra de direiciones">
 
+<!ENTITY  locbar.suggest.label          "Al usar la barra de direiciones, suxerir:">
 <!ENTITY  locbar.history.label          "Historial">
+<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
+<!ENTITY  locbar.bookmarks.accesskey    "M">
+<!ENTITY  locbar.openpage.label         "Abrir llingüetes">
+<!ENTITY  locbar.openpage.accesskey     "A">
+
 
 <!ENTITY  acceptCookies.label           "Aceutar cookies de les webs">
 <!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.pre.label      "Aceutar les cookies de terceres partes:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Siempre">
+<!ENTITY  acceptThirdParty.never.label    "Enxamás">
+<!ENTITY  acceptThirdParty.visited.label  "De los visitaos">
 
 <!ENTITY  keepUntil.label               "Caltener hasta que:">
 <!ENTITY  keepUntil.accesskey           "h">
 
 <!ENTITY  expire.label                  "caduquen">
 <!ENTITY  close.label                   "zarre &brandShortName;">
-<!ENTITY  askEachTime.label             "entrugar siempre">
 
 <!ENTITY  cookieExceptions.label        "Esceiciones…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "Amosar cookies…">
 <!ENTITY  showCookies.accesskey         "s">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; podría:">
 <!ENTITY  historyHeader.pre.accesskey      "p">
@@ -53,18 +68,12 @@
 <!ENTITY  dontrememberActions.pre.label          "Tamién podría interesa-y ">
 <!ENTITY  dontrememberActions.clearHistory.label "llimpiar tol historial">
 <!ENTITY  dontrememberActions.post.label         ".">
+
 <!ENTITY  privateBrowsingPermanent2.label "Usar siempre'l mou de navegación privao">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY rememberHistory2.label "Recordar el mio historial de descargues y navegación">
-<!ENTITY rememberHistory2.accesskey "o">
-
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
+<!ENTITY  rememberHistory2.label      "Recordar el mio historial de descargues y navegación">
+<!ENTITY  rememberHistory2.accesskey  "o">
 
 <!ENTITY  rememberSearchForm.label       "Recordar l'historial de formularios y guetes">
 <!ENTITY  rememberSearchForm.accesskey   "f">
@@ -72,22 +81,5 @@
 <!ENTITY  clearOnClose.label             "Llimpiar l'historial cuando &brandShortName; se zarre">
 <!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "Configuración…">
+<!ENTITY  clearOnCloseSettings.label     "Axustes…">
 <!ENTITY  clearOnCloseSettings.accesskey "C">
-
-<!ENTITY doNotTrackInfo.label "Deprender más">
-<!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY acceptThirdParty.visited.label "De los visitaos">
-<!ENTITY acceptThirdParty.pre.label "Aceutar les cookies de terceres partes:">
-<!ENTITY acceptThirdParty.pre.accesskey "c">
-<!ENTITY acceptThirdParty.never.label "Enxamás">
-<!ENTITY acceptThirdParty.always.label "Siempre">
-<!ENTITY dntTrackingNotOkay.label2 "Indicar a los sitios que nun quiero que me rastrexen">
-<!ENTITY trackingProtectionLearnMore.label "Deprender más">
-<!ENTITY trackingProtection.label "Nun permitir que los sitios me rastrexen">
-<!ENTITY trackingProtection.accesskey "o">
-<!ENTITY locbar.suggest.label "Al usar la barra de direiciones, suxerir:">
-<!ENTITY locbar.openpage.label "Abrir llingüetes">
-<!ENTITY locbar.openpage.accesskey "A">
-<!ENTITY locbar.history.accesskey "H">
-<!ENTITY locbar.bookmarks.accesskey "M">
