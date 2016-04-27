@@ -18,7 +18,6 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Firefox लाई तपाईँले चाहे अनुरूप सजिलै परिवर्तन गर्न सक्नुहुन्छ। <a> हजारौँ एड-अनहरूबाट चयन गर्न सक्नुहुन्छ</a>">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; गैर-नाफामुलक Mozilla फाउन्डेसनको खुला र स्वतन्त्र सफ्टवेयर हो। <a> तपाईँका अधिकारहरू बारे जान्नुहोस...</a>">
 

@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "यस पृष्ठलाई सब्स्क्राइब गर्नुहोस्...">
 <!ENTITY addCurPagesCmd.label "सब ट्याबहरूलाई पुस्तकचिनो बनाउनुहोस्...">
 <!ENTITY showAllBookmarks2.label "सबै पुस्तकचिनोहरू देखाउनुहोस्">
-<!ENTITY unsortedBookmarksCmd.label "नमिलाइएका पुस्तकचिनोहरू">
+<!ENTITY recentBookmarks.label "हालसालै थपिएको पुस्तकचिनो">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "अरु पुस्तकचिनोहरू देखाउनुहोस्">
 
 <!ENTITY backCmd.label                "पछाडि जाने">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "अनुप्रयोग अफलाइन भन्डारण सन्देशहरू हेर्नुहोस्">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "तपाईको लग-इन जानकारीको व्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "तपाईँ आफ्नो पासवर्ड सङ्ग्रह गर्न चाहनुहुन्छ भने ठिक लगाउनुहोस् ">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "अनुप्रयोग स्थापना सन्देश हेर्नुहोस्">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "यो पृष्ठमा प्लगइन प्रयोगहरू व्यवस्थापन गर्नुहोस् ">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "तपाईं साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "पुस्तकचिनोहरू">
-<!ENTITY bookmarksMenuButton.unsorted.label "क्रमवद्ध नगरिएको पुस्तकचिनोहरू">
+
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तकचिनो टुलबार देखाउनुहोस्">
 <!ENTITY viewBookmarksToolbar.label         "पुस्तकचिनो टुलबार देखाउनुहोस्">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "वेब डेभेलोपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12 ">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "सर्भिस वर्कर्स">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "जडान गर्नुहोस्...">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "त्रुटि कन्सोल">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "दुर वेब कन्सोल">
-
-<!ENTITY browserConsoleCmd.label      "ब्राउजर कन्सोल">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
-
 <!ENTITY inspectContextMenu.label     "इन्सपेक्ट इलेमेन्ट">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "उत्तरदायी डिजाइन अवलोकन">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Eyedropper">
-<!ENTITY eyedropper.accesskey "y">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "स्क्र्याचप्याड">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "ब्राउजर उपकरणपट्टी">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "ब्राउजर सामग्री उपकरणपट्टी">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "डेभलोपर टुलबार बन्द गर्नुहोस्">
-<!ENTITY devToolbarMenu.label              "डेभलोपर टुलबार">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "टोगल उपकरण">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "म">
-
-<!ENTITY devToolbarToolsButton.tooltip     "डेभेलोपर उपकरणहरू टोगल गर्नुहोस्">
-<!ENTITY devToolbarOtherToolsButton.label  "अरु सामग्रीहरू">
-
-<!ENTITY getMoreDevtoolsCmd.label        "अझै धेरै टुल्स पाउनुहोस">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "फाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "काट्नुहोस्">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "प्रतिलिपि गर्नुहोस्">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+
 <!ENTITY pasteCmd.label           "टाँस्नुहोस्">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "सहयोग मेनु खोल्नुहोस्">
 
 <!ENTITY appMenuRemoteTabs.label "समन्वयन गरिएको ट्याबहरू">
-<!ENTITY appMenuRemoteTabs.fetching.label "Sync गरिएको ट्याबहरू ल्याइँदै…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "खुला ट्याबहरू छैनन्">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "अन्य डिभाइसको ट्याबहरू हेर्न तपाईँको अन्य उपकरणहरूबाट Firefox मा साइन इन गर्नुहोस्।">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync प्राथमिकताहरू">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न साइन इन गर्नुहोस्।">
 <!ENTITY appMenuRemoteTabs.signin.label "सिङ्क गर्न साइन इन गर्नुहोस्">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "तपाईँको जडान सुरक्षित छैन । तपाईँले यो साइटमा दिएको जानकारी (जस्तै पासवर्डहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरुले पनि देख्न सक्छन्।">
 <!ENTITY identity.description.insecureLoginForms "तपाईँ यो पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।">
 <!ENTITY identity.description.weakCipher "यो वेवसाइटसँगको तपाईँको जडान कमजोर इन्क्रिप्सन प्रयोग गर्छ र जडान सुरक्षित छैन ।">
-<!ENTITY identity.description.weakCipher2 "अरू मानिसहरूले तपाईँको जानकारी हेर्नसक्छन र वेबसाइटको व्यवहार परिवर्तन गर्न सक्छन् ।">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; यस पृष्ठका असुरक्षित भागहरू अवरुद्ध गरिएको छ।">
 <!ENTITY identity.description.passiveLoaded "तपाईँको जडान सुरक्षित छैन र तपाईँले आदान प्रदान गर्ने जानकारी अरुले पनि हेर्न सक्छन् ।">
 <!ENTITY identity.description.passiveLoaded2 "यो वेबसाइटमा सामग्री जुन सुरक्षित छैन( जस्तै तस्विरहरू)।">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "समन्वयन गरिएको ट्याबहरू">
 
 <!ENTITY syncedTabs.sidebar.label              "Sync गरिएका ट्याबहरू">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Sync गरिएका ट्याबहरू ल्याइँदै…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "अन्य डिभाइसको ट्याबहरू हेर्न तपाईँको अन्य उपकरणहरूबाट Firefox मा साइन इन गर्नुहोस्।">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न साइन इन गर्नुहोस्।">
 <!ENTITY syncedTabs.sidebar.notabs.label       "खुला ट्याबहरू छैनन्">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; को प्राथमिकताहरू खोल्नुहोस्">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "तपाईँको अन्य उपकरणहरूबाट ट्याबहरूको सूची हेर्न ट्याब Sync सुरु गर्नुहोस्।">
 
-<!ENTITY syncedTabs.context.openTab.label                   "यस ट्याबलाई खोल्नुहोस्">
-<!ENTITY syncedTabs.context.openTab.accesskey               "O">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "यस पृष्ठमा पुस्तकचिनो हाल्नुहोस्…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "यस पृष्ठमा पुस्तकचिनो हाल्नुहोस्…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "समक्रमण">
