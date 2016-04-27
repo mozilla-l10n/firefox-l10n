@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "أتريد حذف كل تأريخ البحث من هذا الجهاز؟">
 <!ENTITY pref_clearHistory_title "امسح تأريخ البحث">
 
-<!ENTITY pref_searchProvider_title "محرك بحث">
-
 <!ENTITY search_widget_button_label "ابحث">
 
 <!ENTITY network_error_title "لا يوجد اتصال بالإنترنت">

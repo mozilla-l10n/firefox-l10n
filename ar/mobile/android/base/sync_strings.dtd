@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "الوسوم">
 <!ENTITY bookmarks.folder.toolbar.label "شريط العلامات">
-<!ENTITY bookmarks.folder.unfiled.label "العلامات غير المرتّبة">
+
 <!ENTITY bookmarks.folder.desktop.label "علامات سطح المكتب">
 <!ENTITY bookmarks.folder.mobile.label "علامات الجوال">
-<!ENTITY bookmarks.folder.readinglist.label "قائمة القراءة">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "مثبَّت">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "اضبط &syncBrand.shortName.label; لإرسال الألسنة">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "اضبط &syncBrand.fullName.label; على جهازك لإرسال الألسنة إلى الأجهزة الأخرى.">
-<!ENTITY sync.text.tab.sent.label "أُرسِل اللسان.">
-<!ENTITY sync.text.tab.not.sent.label "حدثت مشكلة أثناء إرسال اللسان.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "حسابات فَيَرفُكس">
-
-<!ENTITY fxaccount_custom_server_account_title "يستخدم حسابًا على خادوم">
-<!ENTITY fxaccount_custom_server_sync_title "يحفظ بيانات التزامن على خادوم">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "البريد">
-<!ENTITY fxaccount_password_hint "كلمة السّر">
-<!ENTITY fxaccount_password_hide "أخفِ">
-<!ENTITY fxaccount_password_show "أظهِر">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "عُد إلى التصفح">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "بنود خدمة">
-<!ENTITY fxaccount_policy_linkprivacy "تنبيه خصوصية">
+<!ENTITY fxaccount_back_to_browsing "عُد إلى التصفح">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "مرحبًا في &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "لِج لمزامنة ألسنتك و علاماتك و جلسات ولوجك و غيرها المزيد.">
 <!ENTITY fxaccount_getting_started_get_started "ابدأ">
 <!ENTITY fxaccount_getting_started_old_firefox "أستخدم إصدارة أقدم من &syncBrand.shortName.label;؟">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "أنشئ حسابَ فَيَرفُكس">
-<!ENTITY fxaccount_create_account_password_length_restriction "يجب أن يكون طوله 8 محارف على الأقل">
-<!ENTITY fxaccount_create_account_day_of_birth "اليوم">
-<!ENTITY fxaccount_create_account_month_of_birth "الشهر">
-<!ENTITY fxaccount_create_account_year_of_birth "سنة الميلاد">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "بالمواصلة أوافق على &formatS1; و &formatS2; خدمات فَيَرفُكس السحابية.">
-<!ENTITY fxaccount_create_account_button "التالي">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "اختر ما الذي تريد مزامنته">
-<!ENTITY fxaccount_create_account_sign_in_instead "ألديك حساب بالفعل؟ لِج">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 أو ما قبلها">
-<!ENTITY fxaccount_create_account_unknown_error "تعذّر إنشاء الحساب">
-
-<!ENTITY fxaccount_account_create_not_allowed "تعذّر إنشاء الحساب">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "يجب أن تتخطى سنًا معينة لإنشاء حساب.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "اطّلع على المزيد">
-
-<!ENTITY fxaccount_confirm_account_header "أكّد حسابك">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "أُرسل رابط التأكيد إلى &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "أعِد إرسال الرسالة">
-<!ENTITY fxaccount_confirm_account_change_email "هل نسيت عنوان البريد الإلكتروني هذا؟">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "أُرسل بريد التأكيد">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "تعذّر إرسال بريد التأكيد">
-<!ENTITY fxaccount_resend_unlock_code_button_label "أعِد إرسال بريد الفتح">
-<!ENTITY fxaccount_unlock_code_sent "تم إرسال بريد الفتح">
-<!ENTITY fxaccount_unlock_code_not_sent "تعذّر إرسال بريد الفتح">
-
-<!ENTITY fxaccount_sign_in_sub_header "لِج">
-<!ENTITY fxaccount_sign_in_button_label "لِج">
-<!ENTITY fxaccount_sign_in_forgot_password "أنسيت كلمة السر؟">
-<!ENTITY fxaccount_sign_in_create_account_instead "أنشئ حسابًا">
-<!ENTITY fxaccount_sign_in_unknown_error "تعذّر الولوج">
-
-<!ENTITY fxaccount_account_verified_sub_header "اُكّد الحساب">
-<!ENTITY fxaccount_account_verified_description2 "ستبدأ بياناتك في المزامنة آنيًا.">
-
-<!ENTITY fxaccount_migration_finished_header "انتهت الترقية">
-
-<!ENTITY fxaccount_update_credentials_header "لِج">
-<!ENTITY fxaccount_update_credentials_button_label "لِج">
-<!ENTITY fxaccount_update_credentials_unknown_error "تعذّر الولوج">
-
-<!ENTITY fxaccount_finish_migrating_header "لِج لإنهاء الترقية">
-<!ENTITY fxaccount_finish_migrating_button_label "أنهِ الترقية">
-<!ENTITY fxaccount_finish_migrating_description "قد تحتاج الترقية لنقل الكثير من البيانات. من الأفضل أن تكون على شبكة واي فاي.">
-
-<!ENTITY fxaccount_status_header2 "حساب فَيَرفُكس">
 <!ENTITY fxaccount_status_signed_in_as "ولِجت باسم">
 <!ENTITY fxaccount_status_manage_account "أدِر الحساب">
 <!ENTITY fxaccount_status_auth_server "خادوم الحساب">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "بنود الخدمة">
-<!ENTITY fxaccount_status_linkprivacy "تنبيه الخصوصية">
+
 <!ENTITY fxaccount_status_more "المزيد&ellipsis;">
 <!ENTITY fxaccount_remove_account "اقطع الاتصال&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "الخادوم مشغول، أعد المحاولة بعد قليل">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "الخادوم مشغول، أعد المحاولة بعد قليل">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "حدثت مشكلة">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "تعذّر الاتصال بالشبكة">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "الحساب موصد. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "‏&syncBrand.shortName.label; غير متّصل">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "انقر للولوج باسم &formatS;">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "لِج لمتابعة المزامنة">
-<!ENTITY old_sync_deprecated_notification_content "لم يعد حسابك مدعوما">
