@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "සාමාන්‍ය">
 
@@ -34,8 +34,6 @@
 <!ENTITY healthReportLearnMore.label     "තවත් දැනගන්න">
 
 <!ENTITY telemetryDesc.label             "අපට &brandShortName; දියුණු කිරීමට සහය වීමට ඔබේ ගවේශකයේ ක්‍රියාකාරිත්වය, භාවිතය, දෘඩාංග හා රුචිකරණය පිළිබඳ දත්ත &vendorShortName; සමඟ බෙදාගනි">
-
-
 <!ENTITY telemetryLearnMore.label        "තවත් දැනගන්න">
 
 <!ENTITY crashReporterDesc.label         "&vendorShortName; හට ඔබේ ගවේශකය වඩා ස්ථාවර හා ආරක්ෂාකාරී කිරීමට සහය වීමට &brandShortName; බිඳවැටීම් වාර්ථා පළ කරයි">
@@ -54,13 +52,13 @@
 <!ENTITY httpCache.label                 "කෑෂ් ගතකළ වෙබ් අන්තර්ගතය">
 
 <!ENTITY offlineStorage2.label           "නොබැඳි ගබඩාව සහ පරිශීලක තොරතුරු">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "cache මෙයට සීමා කරන්න">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB ක හිස් ඉඩක්">
@@ -106,7 +104,6 @@
 <!ENTITY offlineAppRemove.confirm        "නොබැඳි දත්ත ඉවත් කරන්න">
 
 <!ENTITY certificateTab.label            "සහතික">
-
 <!ENTITY certSelection.description       "සේවාදායකයක් මාගේ පෞද්ගලික සහතික ඉල්ලා සිටින විට:">
 <!ENTITY certs.auto                      "එකක් ස්වයංක්‍රීයව තෝරන්න">
 <!ENTITY certs.auto.accesskey            "S">

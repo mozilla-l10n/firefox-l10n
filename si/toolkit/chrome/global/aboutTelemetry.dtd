@@ -18,6 +18,10 @@
 
 
 
+
+
+
+
 <!ENTITY aboutTelemetry.generalDataSection "    සාමාන්‍ය දත්ත">
 
 
@@ -38,7 +42,6 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  පසු ලිවීම්">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  පද්ධති තොරතුරු">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ඇඩෝන මගින් එක්කළ හිස්ටොග්‍රෑම">
 
@@ -53,3 +56,5 @@
 <!ENTITY aboutTelemetry.hideSymbols "    විසන්ධි වෙතින් අමු දත්ත පෙන්වන්න">
 
 <!ENTITY aboutTelemetry.filterText "    පෙරහන (යෙදුම් හෝ /regexp/)">
+
+

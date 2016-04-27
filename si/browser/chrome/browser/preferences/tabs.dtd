@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "වැඩි ටැබ් ගණනක් විවෘත කිරීමේදී &brandShortName; වේගය අඩුවිය හැකිනම් අනතුරු අඟවන්න (d)">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "තෝරාගන්නා තෙක් ටැබ් පූර්ණය නොකරන්න (l)">
-<!ENTITY restoreTabsOnDemand.accesskey    "l">
-
 <!ENTITY switchToNewTabs.label        "මම සබැඳියක් නව් ටැබයක විවෘත කිරීමේදී ක්‍ෂණිකව එයට යොමුවන්න (h)">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
