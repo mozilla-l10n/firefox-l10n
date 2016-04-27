@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "หน้าต่าง &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "เริ่มกันเลย!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "สำเร็จ!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "ส่วนเสริมและการปรับแต่งของคุณได้ถูกนำออกแล้ว และการตั้งค่าเบราว์เซอร์ของคุณได้ถูกคืนค่าเป็นค่าปริยาย ถ้านี้ไม่สามารถแก้ไขปัญหาของคุณได้ ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "เรียนรู้เพิ่มเกี่ยวกับสิ่งที่คุณสามารถทำได้">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "เคลื่อนย้ายกลุ่มแท็บของคุณ">
-<!ENTITY tabgroupsmigration.pagetitle2          "เราได้ทำการนำกลุ่มแท็บออกแล้ว แต่ยังเก็บแท็บของคุณเอาไว้">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "เรียนรู้เกี่ยวกับส่วนเสริมที่มาแทนที่กลุ่มแท็บ">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; ได้ทำการคั่นหน้าเว็บของกลุ่มแท็บทั้งหมดแล้วดังนั้นคุณไม่ได้สูญเสียอะไร">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "แสดงกลุ่มแท็บที่คั่นหน้าเว็บไว้">
 <!ENTITY tabgroupsmigration.restoredescription  "คุณสามารถเลือกการเรียกคืนกลุ่มแท็บเบื้องหลังบางส่วนหรือทั้งหมดเข้าไปยังหน้าต่าง">
 

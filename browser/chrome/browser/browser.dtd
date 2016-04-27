@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
-<!ENTITY unsortedBookmarksCmd.label "ที่คั่นหน้าที่ยังไม่ได้เรียง">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าอื่น ๆ ด้วย">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "ดูข้อความที่เก็บข้อมูลออฟไลน์">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "จัดการการเข้าระบบของคุณ">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "โปรดทำเครื่องหมายกล่องนี้หากคุณต้องการบันทึกรหัสผ่าน">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "ดูข้อความการติดตั้งแอพ">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "จัดการการใช้งานโปรแกรมเสริมบนหน้านี้">
 
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ที่คั่นหน้า">
-<!ENTITY bookmarksMenuButton.unsorted.label "ที่คั่นหน้าที่ยังไม่ได้เรียง">
+
 <!ENTITY viewBookmarksSidebar2.label        "ดูแถบข้างที่คั่นหน้า">
 <!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้า">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,78 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
 <!ENTITY webDeveloperMenu.accesskey   "พ">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-<!ENTITY devtoolsConnect.label        "เชื่อมต่อ…">
-<!ENTITY devtoolsConnect.accesskey    "ต">
-
-<!ENTITY errorConsoleCmd.label        "คอนโซลข้อผิดพลาด">
-<!ENTITY errorConsoleCmd.accesskey    "ค">
-
-<!ENTITY remoteWebConsoleCmd.label    "คอนโซลเว็บระยะไกล">
-
-<!ENTITY browserConsoleCmd.label      "คอนโซลเบราว์เซอร์">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "บ">
-
 <!ENTITY inspectContextMenu.label     "ตรวจดูส่วนประกอบ">
 <!ENTITY inspectContextMenu.accesskey "ป">
-
-<!ENTITY responsiveDesignTool.label   "มุมมองการออกแบบเชิงตอบสนอง">
-<!ENTITY responsiveDesignTool.accesskey "ต">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "ตัวเลือกสี">
-<!ENTITY eyedropper.accesskey "ว">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "กระดานทดลอง">
-<!ENTITY scratchpad.accesskey         "ล">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "กล่องเครื่องมือเบราว์เซอร์">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "กล่องเครื่องมือเนื้อหาเบราว์เซอร์">
-<!ENTITY browserContentToolboxMenu.accesskey "อ">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "ปิดแถบเครื่องมือนักพัฒนา">
-<!ENTITY devToolbarMenu.label              "แถบเครื่องมือนักพัฒนา">
-<!ENTITY devToolbarMenu.accesskey          "พ">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "สลับเครื่องมือ">
-<!ENTITY devToolboxMenuItem.accesskey      "ส">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "สลับเครื่องมือนักพัฒนา">
-<!ENTITY devToolbarOtherToolsButton.label  "เครื่องมืออื่น">
-
-<!ENTITY getMoreDevtoolsCmd.label        "เพิ่มเครื่องมือ">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "ม">
 
 <!ENTITY fileMenu.label         "แฟ้ม"> 
 <!ENTITY fileMenu.accesskey       "ฟ">
@@ -357,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "ตัด">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ต"> 
-<!ENTITY copyCmd.label            "คัดลอก">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "ค"> 
+
 <!ENTITY pasteCmd.label           "วาง">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "ว"> 
@@ -409,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "เปิดเมนูช่วยเหลือ">
 
 <!ENTITY appMenuRemoteTabs.label "แท็บที่ผสาน">
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "ไม่มีแท็บที่เปิดอยู่">
@@ -419,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "ลงชื่อเข้าใช้ใน Firefox จากบนอุปกรณ์อื่นของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
+
 
 
 <!ENTITY appMenuRemoteTabs.signin.label "เข้าสู่ระบบ Sync">
@@ -765,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "การเชื่อมต่อของคุณไปยังไซต์นี้ไม่เป็นส่วนตัว ข้อมูลที่คุณส่งไปบนเว็บไซต์คนอื่นสามารถดูได้ (เช่น รหัสผ่าน ข้อความ บัตรเครดิต)">
 <!ENTITY identity.description.insecureLoginForms "ข้อมูลการเข้าระบบที่คุณป้อนบนหน้านี้นั้นไม่ปลอดภัยและอาจตกอยู่ในอันตรายได้">
 <!ENTITY identity.description.weakCipher "การเชื่อมต่อของคุณสู่เว็บไซต์นี้ใช้การเข้ารหัสแบบอ่อนแอและไม่เป็นส่วนตัว">
-<!ENTITY identity.description.weakCipher2 "คนอื่นสามารถดูข้อมูลของคุณหรือแก้ไขพฤติกรรมของเว็บไซต์ได้">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย">
 <!ENTITY identity.description.passiveLoaded "การเชื่อมต่อของคุณไม่เป็นส่วนตัวและข้อมูลที่คุณแบ่งปันกับเว็บไซต์คนอื่นสามารถดูได้">
 <!ENTITY identity.description.passiveLoaded2 "เว็บไซต์นี้มีเนื้อหาที่ไม่ได้เข้ารหัส (เช่น รูปภาพ)">
@@ -796,13 +725,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "แท็บที่ผสาน">
 
-<!ENTITY syncedTabs.sidebar.noclients.label    "ลงชื่อเข้าใช้ใน Firefox จากบนอุปกรณ์อื่นของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่นๆ ของคุณ">
 <!ENTITY syncedTabs.sidebar.notabs.label       "ไม่มีแท็บที่เปิดอยู่">
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "เปิดการผสานแท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่นๆ ของคุณ">
+
+
+
+
+
+
+
+
 
 
 

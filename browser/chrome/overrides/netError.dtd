@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ไม่พบเซิร์ฟเวอร์">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>ตรวจสอบว่าคุณพิมพ์ที่อยู่เว็บถูกต้องหรือไม่ เช่น <strong>ww</strong>.example.com แทนที่จะเป็น <strong>www</strong>.example.com</li> <li>ถ้าคุณยังไม่สามารถโหลดหน้าเว็บใด ๆ ได้เลย โปรดตรวจสอบการเชื่อมต่อเครือข่ายของคอมพิวเตอร์ของคุณ</li> <li>ถ้าคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องไว้ด้วย firewall หรือพร็อกซี่ ตรวจสอบให้แน่ใจว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บได้</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "ไม่พบแฟ้ม">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ</li> <li>ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ</li> </ul>">
 
 
-<!ENTITY generic.title "โอ๊ะ">
-<!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง</p>">
 
-<!ENTITY malformedURI.title "ที่อยู่ไม่ถูกต้อง">
-<!ENTITY malformedURI.longDesc "<ul> <li>ปกติแล้วที่อยู่เว็บจะมีรูปแบบเป็น <strong>http://www.example.com/</strong></li> <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมาย <strong>/</strong></li> </ul>">
+<!ENTITY generic.title "โอ๊ะ">
+
+
+
 
 <!ENTITY netInterrupt.title "การเชื่อมต่อถูกขัดจังหวะ">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "เอกสารหมดอายุ">
-<!ENTITY notCached.longDesc "<p>เอกสารที่ร้องขอไม่มีในแคชของ &brandShortName;</p><ul><li>ตามมาตรการรักษาความปลอดภัย &brandShortName; จะไม่ร้องขอเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>คลิก ลองอีกครั้ง เพื่อร้องขอเอกสารจากเว็บไซต์ใหม่</li></ul>">
+
 
 <!ENTITY netOffline.title "โหมดออฟไลน์">
 <!ENTITY netOffline.longDesc2 "<ul> <li>โปรด &quot;ลองใหม่อีกครั้ง&quot; เพื่อสลับไปยังโหมดออนไลน์และเรียกหน้าเว็บใหม่</li> </ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "การเชื่อมต่อหมดเวลา">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่อยู่">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>คุณอาจจำเป็นต้องติดตั้งซอฟต์แวร์อื่นเพื่อเปิดที่อยู่นี้</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "เซิร์ฟเวอร์พร็อกซีปฏิเสธการเชื่อมต่อ">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "ไม่สามารถค้นหาเซิร์ฟเวอร์พร็อกซี">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>ตรวจสอบให้แน่ใจว่าการตั้งค่าพร็อกซี่ถูกต้อง</li> <li>ตรวจสอบให้แน่ใจว่าคอมพิวเตอร์ของคุณสามารถเชื่อมต่อกับเครือข่ายได้</li> <li>ถ้าคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องไว้ด้วย firewall หรือพร็อกซี่ ตรวจสอบให้แน่ใจว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บได้</li> </ul>">
 
-<!ENTITY redirectLoop.title "หน้าเว็บไม่ได้เปลี่ยนเส้นทางอย่างถูกต้อง">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ปัญหานี้บางครั้งอาจมีสาเหตุมาจากการปิดใช้งานหรือปฏิเสธการยอมรับคุกกี้</li> </ul>">
 
 <!ENTITY unknownSocketType.title "การตอบสนองที่ไม่คาดคิดจากเซิร์ฟเวอร์">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>ตรวจสอบให้แน่ใจว่าระบบของคุณมีตัวจัดการความปลอดภัยส่วนบุคคลติดตั้งอยู่</li> <li>สิ่งนี้อาจเกิดจากการกำหนดค่าที่ไม่มาตรฐานบนเซิร์ฟเวอร์</li> </ul>">
 
-<!ENTITY nssFailure2.title "การเชื่อมต่อปลอดภัยล้มเหลว">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>หน้าที่คุณกำลังพยายามจะดูไม่สามารถแสดงได้เนื่องจากไม่สามารถยืนยันความถูกต้องของข้อมูลที่ได้รับ</li> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
-<!ENTITY nssBadCert.title "การเชื่อมต่อปลอดภัยล้มเหลว">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>นี่อาจเป็นปัญหาจากการกำหนดค่าของเซิร์ฟเวอร์ หรืออาจมีใครบางคนกำลังพยายามปลอมแปลงเซิร์ฟเวอร์</li> <li>หากคุณเคยเชื่อมต่อกับเซิร์ฟเวอร์นี้สำเร็จในอดีต ข้อผิดพลาดอาจเกิดขึ้นเพียงชั่วคราว และคุณสามารถลองอีกครั้งในภายหลัง</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>เว็บไซต์นี้อาจจะใช้การไม่ได้ชั่วคราวหรืออาจจะทำงานหนักมาก อีกสักพักค่อยลองใหม่อีก ครั้ง</li> <li>ถ้าคุณไม่สามารถโหลดหน้าเว็บใด ๆ ได้เลย โปรดตรวจสอบการเชื่อมต่อเครือข่ายของ คอมพิวเตอร์ของคุณ</li> <li>ถ้าคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องไว้ด้วย firewall หรือพร็อกซี่ ตรวจสอบให้แน่ใจว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บได้</li> </ul>">
 
 <!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ป้องกันหน้านี้จากการโหลดในลักษณะนี้เนื่องจากหน้ามีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาต</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในการส่งผ่านข้อมูล</p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "หรือคุณสามารถเพิ่มข้อยกเว้น…">
-<!ENTITY securityOverride.getMeOutOfHereButton "นำฉันออกไปจากที่นี่!">
 <!ENTITY securityOverride.exceptionButtonLabel "เพิ่มข้อยกเว้น…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>คุณไม่ควรเพิ่มข้อยกเว้นหากคุณกำลังใช้งานการเชื่อมต่ออินเทอร์เน็ตที่คุณไม่เชื่อถือโดยสมบูรณ์ หรือหากคุณไม่เคยเห็นคำเตือนสำหรับเซิร์ฟเวอร์นี้</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "รายงานข้อผิดพลาดเช่นนี้เพื่อช่วยเหลือ Mozilla ในการชี้ระบุและจำกัดไซต์ที่ประสงค์ร้าย">
 <!ENTITY errorReporting.learnMore "เรียนรู้เพิ่มเติม…">
@@ -103,9 +91,14 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-<!ENTITY weakCryptoUsed.title "การเชื่อมต่อของคุณไม่นิรภัย">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoAdvanced.title "ขั้นสูง">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ใช้เทคโนโลยีความปลอดภัยที่ตกรุ่นและมีช่องโหว่ในการโจมตี ผู้บุกรุกสามารถล่วงรู้ข้อมูลได้อย่างง่ายดายโดยที่คุณคิดว่ามันปลอดภัย">
 <!ENTITY weakCryptoAdvanced.override "(ไม่ปลอดภัย) กำลังโหลด <span class='hostname'></span> ที่ใช้งานการรักษาความปลอดภัยที่ล้าสมัย">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
