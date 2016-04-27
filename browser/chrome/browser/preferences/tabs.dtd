@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "একাধিক ট্যাব প্রদর্শনের ফলে &brandShortName; এর কর্ম সঞ্চালনের গতি হ্রাস হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে">
 <!ENTITY warnOpenManyTabs.accesskey   "হ">
 
-<!ENTITY restoreTabsOnDemand.label        "নির্বাচন না করার পূর্বে ট্যাব লোড করা হবে না">
-<!ENTITY restoreTabsOnDemand.accesskey    "প">
-
 <!ENTITY switchToNewTabs.label        "নতুন ট্যাবে একটি লিঙ্ক খোলা হলে সরাসরি সংশ্লিষ্ট ট্যাব প্রদর্শন করা হবে">
 <!ENTITY switchToNewTabs.accesskey    "হ">
 

@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul><li>বস্তুটির নাম অথবা স্থান পরিবর্তিত হওয়ার অথবা সেটি মুছে ফেলার সম্ভাবনা রয়েছে কি?</li><li>ঠিকানার লেখার সময় হরফের তারতম্য, অশুদ্ধ বানান অথবা অন্য কোনো ত্রুটি উপস্থিত রয়েছে কি?</li><li>অনুরোধ করার বস্তুটি ব্যবহারের জন্য যথাযত অনুমতি আছে কি?</li></ul>">
 
+
+
 <!ENTITY generic.title "অনুরোধ পূরণ করা সম্ভব নয়">
 <!ENTITY generic.longDesc "<p>এই সমস্যা অথবা ত্রুটি সংক্রান্ত অতিরিক্ত তথ্য বর্তমানে উপস্থিত নেই।</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "দূরবর্তী XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>অনুগ্রহ করে ওয়েব-সাইটের পরিচালকদেরকে এই সমস্যা সম্পর্কে অবহিত করুন।</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
