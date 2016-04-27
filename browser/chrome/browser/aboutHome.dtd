@@ -18,7 +18,6 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Jo lažko waš Firefox eksaktnje wašym žycenjam pśiměriś. <a>Wubjeŕśo z tysacow dodankow</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; jo licha a zjawna softwara wót za wše wužytneje załožby Mozilla Foundation. <a>Waše pšawa…</a>">
 

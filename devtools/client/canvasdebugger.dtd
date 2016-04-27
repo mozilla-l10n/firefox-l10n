@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "Klikniśo na">
-<!ENTITY canvasDebuggerUI.emptyNotice2    "tłocašk, aby wołański štapjel animaciskego wobłuka wótmólował.">
+
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 

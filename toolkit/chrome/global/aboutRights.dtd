@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Njepśiraźijo se funkciju wěstego pśeglědowanja znjemóžniś, dokulaž to móžo k tomu wjasć, až dostanjośo se do njewěstych sedłow. Jolic cośo toś tu funkciju dopołnje znjemóžniś, wuwjaźćo slědujuce kšace:">
 <!ENTITY rights.safebrowsing-term1 "Wócyńśo nastajenja nałoženja">
 <!ENTITY rights.safebrowsing-term2 "Wubjeŕśo rejtark Wěstota">
-<!ENTITY rights.safebrowsing-term3 "Znjemóžniśo nastajenja &quot;&blockAttackSites.label;&quot; a &quot;&blockWebForgeries.label;&quot;">
+
 <!ENTITY rights.safebrowsing-term4 "Wěste pśeglědowanje jo něnto znjemóžnjone">
 <!-- location aware browsing points for branded builds -->
 

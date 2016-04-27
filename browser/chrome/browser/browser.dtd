@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Toś ten bok aboněrowaś…">
 <!ENTITY addCurPagesCmd.label "Wšykne rejtarki ako cytańske znamjenja…">
 <!ENTITY showAllBookmarks2.label "Wšykne cytańske znamjenja pokazaś">
-<!ENTITY unsortedBookmarksCmd.label "Njesortěrowane cytańske znamjenja">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Dalšne cytańske znamjenja pokazaś">
 
 <!ENTITY backCmd.label                "Slědk">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Powěźeńku wo skłaźe offline nałoženja pokazaś">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Wašo pśizjawjeńske informacije zastojaś">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Kontrolěrujśo, lěc cośo swójo gronidło składowaś">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Instalěrowańsku powěźeńku nałoženja pokazaś">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Wužywanje tykacow na toś tom boku zastojaś">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Změńśo, lěc móžośo powěźeńki wót sedła dostaś">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Cytańske znamjenja">
-<!ENTITY bookmarksMenuButton.unsorted.label "Njesortěrowane cytańske znamjenja">
+
 <!ENTITY viewBookmarksSidebar2.label        "Rědku cytańskich znamjenjow pokazaś">
 <!ENTITY viewBookmarksToolbar.label         "Rědku cytańskich znamjenjow pokazaś">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webwuwijaŕ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Zwězaś…">
-<!ENTITY devtoolsConnect.accesskey    "a">
-
-<!ENTITY errorConsoleCmd.label        "Zmólkowa konsola">
-<!ENTITY errorConsoleCmd.accesskey    "m">
-
-<!ENTITY remoteWebConsoleCmd.label    "Daloka webkonsola">
-
-<!ENTITY browserConsoleCmd.label      "Konsola wobglědowaka">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "K">
-
 <!ENTITY inspectContextMenu.label     "Element pśepytowaś">
 <!ENTITY inspectContextMenu.accesskey "E">
-
-<!ENTITY responsiveDesignTool.label   "Pśiměrjony webdesign">
-<!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Pipeta">
-<!ENTITY eyedropper.accesskey "i">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Zapisnik">
-<!ENTITY scratchpad.accesskey         "Z">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Rědowy kašćik wobglědowaka">
-<!ENTITY browserToolboxMenu.accesskey "R">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Rědowy kašćik za wopśimjeśe wobglědowaka">
-<!ENTITY browserContentToolboxMenu.accesskey "k">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Wuwijarsku symbolowu rědku zacyniś">
-<!ENTITY devToolbarMenu.label              "Wuwijarska symbolowa rědka">
-<!ENTITY devToolbarMenu.accesskey          "w">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Rědy pśešaltowaś">
-<!ENTITY devToolboxMenuItem.accesskey      "R">
-<!ENTITY devToolboxMenuItem.keytext        "l">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Wuwijańske rědy pśešaltowaś">
-<!ENTITY devToolbarOtherToolsButton.label  "Dalšne rědy">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Dalšne rědy">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "l">
 
 <!ENTITY fileMenu.label         "Dataja"> 
 <!ENTITY fileMenu.accesskey       "D">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Wurězaś">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "r"> 
-<!ENTITY copyCmd.label            "Kopěrowaś">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
+
 <!ENTITY pasteCmd.label           "Zasajźiś">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "Z"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Meni Pomoc wócyniś">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizěrowane rejtarki">
-<!ENTITY appMenuRemoteTabs.fetching.label "Synchronizěrowane rejtarki se wobstaruju…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Žedne wócynjone rejtarki">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Pśizjawśo se pla Firefox z drugich rědow, aby se jich rejtarki how woglědał.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastajenja synchronizěrowaś">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pla Sync pśizjawiś">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Waš zwisk z toś tym sedłom njejo priwatny. Druge luźe by mógli Informacije wiźeś, kótarež sćelośo (na pśikład gronidła, powěsći, kreditne kórty atd.).">
 <!ENTITY identity.description.insecureLoginForms "Pśizjawjeńske informacije, kótarež zapódawaśo na toś tom boku, njejsu wěste a by mógli se wobgrozyś.">
 <!ENTITY identity.description.weakCipher "Waš zwisk z websedłom wužywa słabe koděrowanje a njejo priwatny.">
-<!ENTITY identity.description.weakCipher2 "Druge luźe mógu se waše informacije woglědaś abo zaźaržanje websedła změniś.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; jo źěle toś togo boka blokěrował, kótarež njejsu wěste.">
 <!ENTITY identity.description.passiveLoaded "Waš zwisk njejo priwatny a druge mógli informacije wiźeś, kótarež źěliśo ze sedłom.">
 <!ENTITY identity.description.passiveLoaded2 "Websedło wopśimujo wopśimjeśe, kótarež njejo wěste (ako na pśikład wobraze).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synchronizěrowane rejtarki">
 
 <!ENTITY syncedTabs.sidebar.label              "Synchronizěrowane rejtarki">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Synchronizěrowane rejtarki se wobstaruju…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Pśizjawśo se pla Firefox z drugich rědow, aby se jich rejtarki how woglědał.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Žedne wócynjone rejtarki">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Nastajenja &syncBrand.shortName.label; wócyniś">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Synchronizěrowanje rejtarkow zašaltowaś, aby se lisćina rejtarkow z drugich rědow pokazała.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Toś ten rejtark wócyniś">
-<!ENTITY syncedTabs.context.openTab.accesskey               "T">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Toś ten bok ako cytańske znamje składowaś…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "c">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Toś ten bok ako cytańske znamje składowaś…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "c">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

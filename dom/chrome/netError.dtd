@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Dataja njejo se namakała">
 <!ENTITY fileNotFound.longDesc "<ul><li>Jo móžno, až objekt jo se pśemjenił, wótpórał abo pśesunuł?</li><li>Jo zmólka pšawopisa, wjelikopisanja, abo hynakša typografiska zmólka w adresy?</li><li>Maśo dosěgajuce pśistupne pšawa za pominany objekt?</li></ul>">
 
+
+
 <!ENTITY generic.title "Napšašowanje njedajo se dokóńcyś">
 <!ENTITY generic.longDesc "<p>Pśidatne informacije wó toś tom problemje abo zmólce njestoje tuchylu k dispoziciji.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Daloki XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó problemje informěrował.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
