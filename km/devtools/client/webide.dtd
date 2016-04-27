@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "ផ្សេងទៀត">
 <!ENTITY runtimePanel_installsimulator "ដំឡើង​កម្មវិធី​និម្មិត">
 <!ENTITY runtimePanel_noadbhelper "ដំឡើង​កម្មវិធី​ជំនួយ ADB">
-<!ENTITY runtimePanel_nousbdevice "មិន​អាច​មើល​ឧបករណ៍​របស់​អ្នក?">
+
 
 <!-- Lense -->
 

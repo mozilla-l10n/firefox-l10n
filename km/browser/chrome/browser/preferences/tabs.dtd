@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "ព្រមាន​ខ្ញុំ នៅ​ពេល​បើក​ផ្ទាំង​ច្រើន​ដែល​ប្រហែល​អាច​ធ្វើ​ឲ្យ down &brandShortName; យឺត">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "កុំ​ផ្ទុក​ផ្ទាំង លុះត្រាតែ​​បាន​ជ្រើស">
-<!ENTITY restoreTabsOnDemand.accesskey    "ល">
-
 <!ENTITY switchToNewTabs.label        "នៅ​ពេល​ខ្ញុំ​បើក​តំណ​ក្នុង​ផ្ទាំង​ថ្មី, ប្ដូរ​ទៅ​វា​ភ្លាមៗ">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
