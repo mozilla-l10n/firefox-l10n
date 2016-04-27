@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Berkas Tidak Ditemukan">
 <!ENTITY fileNotFound.longDesc "<ul><li>Apakah objek telah diganti namanya, dibuang, atau dipindahkan?</li><li>Apa tidak ada kesalahan ejaan, huruf besar, atau <em>kesaalhan keitk</em> lainnya pada penulisan alamat?</li><li>Apakah Anda memiliki hak akses untuk mengakses objek yang diminta?</li></ul>">
 
+
+
 <!ENTITY generic.title "Tidak Dapat Menyelesaikan Permintaan">
 <!ENTITY generic.longDesc "<p>Informasi lanjut tentang masalah atau kesalahan tidak tersedia saat ini.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL Daring">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

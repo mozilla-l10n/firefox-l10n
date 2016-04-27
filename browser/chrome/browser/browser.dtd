@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Berlangganan Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Markahi Semua Tab…">
 <!ENTITY showAllBookmarks2.label "Tampilkan Semua Markah…">
-<!ENTITY unsortedBookmarksCmd.label "Markah Belum Diurut">
+<!ENTITY recentBookmarks.label "Baru Saja Dibuat Markah">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan markah lainnya">
 
 <!ENTITY backCmd.label                "Mundur">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Tampilkan pesan penyimpanan luring aplikasi">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Kelola info masuk Anda">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Centang jika ingin menyimpan sandi Anda">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Tampilkan pesan instal aplikasi">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Kelola penggunaan plugin di laman ini">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Ubah jika Anda ingin menerima notifikasi dari situs ini">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Markah">
-<!ENTITY bookmarksMenuButton.unsorted.label "Markah Belum Diurut">
+
 <!ENTITY viewBookmarksSidebar2.label        "Tampilkan Bilah Samping Markah">
 <!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Markah">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Pengembang Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Worker">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Sambungkan…">
-<!ENTITY devtoolsConnect.accesskey    "S">
-
-<!ENTITY errorConsoleCmd.label        "Konsol Kesalahan">
-<!ENTITY errorConsoleCmd.accesskey    "K">
-
-<!ENTITY remoteWebConsoleCmd.label    "Konsol Web Daring">
-
-<!ENTITY browserConsoleCmd.label      "Konsol Peramban">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "P">
-
 <!ENTITY inspectContextMenu.label     "Inspeksi Elemen">
 <!ENTITY inspectContextMenu.accesskey "n">
-
-<!ENTITY responsiveDesignTool.label   "Tampilan Desain Responsif">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Pipet Warna">
-<!ENTITY eyedropper.accesskey "W">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Kotak Alat Peramban">
-<!ENTITY browserToolboxMenu.accesskey "t">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Kotak Alat Konten Peramban">
-<!ENTITY browserContentToolboxMenu.accesskey "K">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Tutup Bilah Alat Pengembang">
-<!ENTITY devToolbarMenu.label              "Bilah Alat Pengembang">
-<!ENTITY devToolbarMenu.accesskey          "P">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Aktif/Nonaktifkan Alat">
-<!ENTITY devToolboxMenuItem.accesskey      "A">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Aktif/Nonaktifkan alat pengembang">
-<!ENTITY devToolbarOtherToolsButton.label  "Alat Lainnya">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Dapatkan Alat Lainnya">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "n">
 
 <!ENTITY fileMenu.label         "Berkas"> 
 <!ENTITY fileMenu.accesskey       "B">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Potong">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Salin">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "S"> 
+
 <!ENTITY pasteCmd.label           "Tempel">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "p"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
 
 <!ENTITY appMenuRemoteTabs.label "Tab yang Disinkronkan">
-<!ENTITY appMenuRemoteTabs.fetching.label "Mengambil Tab yag Disinkronkan…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Tidak ada tab terbuka">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Masuk ke Firefox dari perangkat lainnya untuk melihat tab perangkat tersebut di sini.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Pengaturan Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Masuk untuk melihat daftar tab dari perangkat lainnya.">
 <!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sync">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Sambungan Anda ke laman ini tidak pribadi. Informasi yang Anda kirim dapat dilihat oleh pihak lain (misalnya, sandi, pesan, kartu kredit, dll.).">
 <!ENTITY identity.description.insecureLoginForms "Info masuk yang Anda masukkan di laman ini tidak aman dan bisa diketahui orang lain.">
 <!ENTITY identity.description.weakCipher "Sambungan Anda ke situs web ini menggunakan enkripsi lemah dan tidak pribadi.">
-<!ENTITY identity.description.weakCipher2 "Orang lain dapat melihat informasi Anda atau memodifikasi perilaku situs web ini.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
 <!ENTITY identity.description.passiveLoaded "Sambungan Anda tidak pribadi dan informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain.">
 <!ENTITY identity.description.passiveLoaded2 "Situs web ini mengandung konten yang tidak aman (misalnya, gambar).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Tab yang Disinkronkan">
 
 <!ENTITY syncedTabs.sidebar.label              "Tab yang Disinkronkan">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Mengambil Tab yang Disinkronkan…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Masuk ke Firefox dari perangkat lainnya untuk melihat tab perangkat tersebut di sini.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Masuk untuk melihat daftar tab dari perangkat lainnya.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Tidak ada tab terbuka">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Buka preferensi &syncBrand.shortName.label;">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat lainnya.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Buka Tab Ini">
-<!ENTITY syncedTabs.context.openTab.accesskey               "T">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Markahi Tab Ini…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "M">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Markahi Tab Ini…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "M">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

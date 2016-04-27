@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "Jendela &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "Mulai!">
 <!ENTITY welcomeback2.restoreButton.access "M">
 
 <!ENTITY welcomeback2.tabtitle      "Sukses!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Pengaya dan pengubahsuaian Anda telah dibuang dan setelan peramban Anda telah dipulihkan ke setelan bawaan. Jika masalahnya masih belum teratasi, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "pelajari lebih lanjut apa yang dapat Anda lakukan berikutnya.">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Migrasikan Grup Tab lainnya">
-<!ENTITY tabgroupsmigration.pagetitle2          "Kami telah menghapus fitur Grup Tab, tetapi telah menyimpan tab Anda">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Pelajari tentang pengaya pengganti Grup Tab.">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; telah memarkahi semua grup Anda sehingga Anda tidak kehilangan tab tersebut.">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Tampilkan Grup Tab yang Dimarkahi">
 <!ENTITY tabgroupsmigration.restoredescription  "Anda juga bisa memilih untuk memulihkan beberapa atau semua grup latar belakang ke jendela sekarang:">
 
