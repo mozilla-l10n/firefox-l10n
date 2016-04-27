@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Dileu\u0027r holl hanes chwilio o\u0027r ddyfais?">
 <!ENTITY pref_clearHistory_title "Clirio hanes chwilio">
 
-<!ENTITY pref_searchProvider_title "Peiriant chwilio">
-
 <!ENTITY search_widget_button_label "Chwilio">
 
 <!ENTITY network_error_title "Dim cysylltiad rhyngrwyd">

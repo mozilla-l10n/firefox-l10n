@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; gychwyn.">
-<!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
-
 <!ENTITY firstrun_panel_title_welcome "Croeso">
 <!ENTITY  onboard_start_message3 "Pori gyda &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Gwnewch eich profiad pori ar y we yn un cartrefol.">
@@ -27,12 +23,16 @@
 <!ENTITY firstrun_button_next "Nesaf">
 
 <!ENTITY  onboard_start_restricted1 "Cadwch yn ddiogel ac mewn reolaeth gyda\u0027r fersiwn symlach yma o &brandShortName;.">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Nodau Tudalen">
 <!ENTITY  history_title "Hanes">
-<!ENTITY  reading_list_title "Rhestr Ddarllen">
+
 <!ENTITY  recent_tabs_title "Tabiau Diweddar">
 
 <!ENTITY  switch_to_tab "Newid i\u0027r tab">
@@ -49,12 +49,6 @@
 <!ENTITY  sending_crash_report "Anfon adroddiad chwalu\u2026">
 <!ENTITY  crash_close_label "Cau">
 <!ENTITY  crash_restart_label "Ailgychwyn &brandShortName;">
-<!ENTITY  exit_label "Gadael">
-
-<!ENTITY  launcher_shortcuts_title "Apiau Gwe &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Heb ganfod apiau gwe">
-
-<!ENTITY choose_file "Dewis Ffeil">
 
 <!ENTITY url_bar_default_text2 "Chwilio neu gyfeiriad gwe">
 
@@ -69,13 +63,20 @@
 <!ENTITY bookmark_updated "Diweddarwyd Nod Tudalen">
 <!ENTITY bookmark_options "Dewisiadau">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "Heddiw">
 <!ENTITY history_yesterday_section "Ddoe">
 <!ENTITY history_week_section3 "7 diwrnod diwethaf">
-<!ENTITY history_this_month_section "Y mis yma">
 <!ENTITY history_older_section3 "Hŷn na 6 mis">
 
-<!ENTITY go "Mynd">
 <!ENTITY search "Chwilio">
 <!ENTITY reload "Ail-lwytho">
 <!ENTITY forward "Ymlaen">
@@ -108,7 +109,7 @@
 <!ENTITY settings "Gosodiadau">
 <!ENTITY settings_title "Gosodiadau">
 <!ENTITY pref_category_general "Cyffredinol">
-<!ENTITY pref_category_general_summary2 "Cartref, iaith, Bar URL">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -131,9 +132,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Nod Tudalen">
-<!ENTITY overlay_share_reading_list_btn_label "Ychwanegu at y Rhestr Ddarllen">
 <!ENTITY overlay_share_bookmark_btn_label_already "Nod tudalen arno eisoes">
-<!ENTITY overlay_share_reading_list_btn_label_already "Eisoes yn y Rhestr Ddarllen">
 <!ENTITY overlay_share_send_other "Anfon i ddyfais arall">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -149,14 +148,15 @@
 <!ENTITY overlay_no_synced_devices "Heb ganfod dyfeisiau sy\u0027n cysylltu â Chyfrif Firefox">
 
 <!ENTITY pref_category_search3 "Chwilio">
-<!ENTITY pref_category_search_summary "Cyfaddasu eich darparwyr chwilio">
+
 <!ENTITY pref_category_accessibility "Hygyrchedd">
 <!ENTITY pref_category_accessibility_summary2 "Maint testun, chwyddo, mewnbwn llais">
 <!ENTITY pref_category_privacy_short "Preifatrwydd">
-<!ENTITY pref_category_privacy_summary3 "Tracio, cwcis dewisiadau data">
+
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Ynghylch &brandShortName;, cwestiynau cyffredin, adborth">
 <!ENTITY pref_category_datareporting "Dewisiadau data">
+
 <!ENTITY pref_learn_more "Dysgu rhagor">
 <!ENTITY pref_category_installed_search_engines "Peiriannau chwilio wedi eu gosod">
 <!ENTITY pref_category_add_search_providers "Ychwanegu rhagor o ddarparwyr chwilio">
@@ -168,10 +168,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Awgrym: Ychwanegwch unrhyw wefan i\u0027ch rhestr o ddarparwyr chwilio drwy bwyso\u0027n hir ar y maes chwilio ac yna tapio ar yr eicon &formatI;.">
 <!ENTITY pref_category_advanced "Uwch">
-<!ENTITY pref_category_advanced_summary2 "Adfer tabiau, ategion, offer datblygwyr">
-<!ENTITY pref_developer_remotedebugging "Dadfygio pell">
+
+
+
+
+
 <!ENTITY pref_developer_remotedebugging_usb "Dadfygio pell drwy USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Dadfygio pell drwy\u0027r diwifr">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Mae dadfygio pell drwy\u0027r diwifr angen i\u0027ch dyfais gael ap darllenydd QR wedi ei osod.">
@@ -181,18 +183,10 @@
 <!ENTITY pref_category_home "Cartref">
 <!ENTITY pref_category_home_summary "Cyfaddasu eich tudalen cartref">
 <!ENTITY pref_category_home_panels "Paneli">
-<!ENTITY home_add_panel_title "Ychwanegu panel newydd">
-<!ENTITY home_add_panel_empty "Ymddiheuriadau, doedd dim modd canfod paneli i chi eu hychwanegu.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 wedi ei ychwanegu i\u0027r tudalen cartref">
-<!ENTITY pref_category_home_content_settings "Gosodiadau cynnwys">
-<!ENTITY pref_home_updates "Diweddariadau awtomatig">
+
+
 <!ENTITY pref_home_updates_enabled "Galluogwyd">
 <!ENTITY pref_home_updates_wifi "Hanes pori a llwytho i lawr">
-<!ENTITY pref_home_suggested_sites "Dangos awgrymiadau am wefannau">
-<!ENTITY pref_home_suggested_sites_summary "Dangos llwybrau byr ar eich tudalen cartref i wefannau diddorol">
 <!ENTITY pref_category_home_homepage "Tudalen Cartref">
 <!ENTITY home_homepage_title "Gosod fel y Dudalen Cartref">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -216,6 +210,7 @@
 <!ENTITY pref_header_search "Chwilio">
 <!ENTITY pref_header_privacy_short "Preifatrwydd">
 <!ENTITY pref_header_accessibility "Hygyrchedd">
+
 <!ENTITY pref_header_advanced "Uwch">
 <!ENTITY pref_header_help "Cymorth">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -225,6 +220,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Galluogwyd, eithrio 3ydd parti">
 <!ENTITY pref_cookies_disabled "Analluogwyd">
 
+
+
+
 <!ENTITY pref_tap_to_load_images_title2 "Dangos delweddau">
 <!ENTITY pref_tap_to_load_images_enabled "Bob tro">
 <!ENTITY pref_tap_to_load_images_data "Dim ond dros diwifr">
@@ -232,7 +230,7 @@
 
 <!ENTITY pref_show_web_fonts "Dangos ffontiau gwe">
 
-<!ENTITY pref_tracking_protection_title "Diogelwch rhag tracio">
+
 <!ENTITY pref_tracking_protection_summary3 "Wedi ei Alluogi yn Pori Preifat">
 <!ENTITY pref_donottrack_title "Dim tracio">
 <!ENTITY pref_donottrack_summary "Bydd &brandShortName; yn dweud wrth wefannau nad ydych am gael eich tracio">
@@ -240,6 +238,8 @@
 <!ENTITY pref_tracking_protection_enabled "Galluogwyd">
 <!ENTITY pref_tracking_protection_enabled_pb "Wedi ei Alluogi yn Pori Preifat">
 <!ENTITY pref_tracking_protection_disabled "Analluogwyd">
+
+
 
 <!ENTITY tracking_protection_prompt_title "Nawr gyda Diogelwch Rhag Tracio">
 <!ENTITY tracking_protection_prompt_text "Yn rhwystro elfennau tracio heb i chi orfod poeni.">
@@ -259,7 +259,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Mynd i Settings Android">
-<!ENTITY tab_queue_notification_title "&brandShortName;">
+
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -273,10 +273,19 @@
 
 <!ENTITY tab_queue_notification_settings "Er mwyn \&quot;Agor dolenni niferus\&quot;, galluogwch ganiatâd \u0027Draw over other apps\u0027 ar gyfer &brandShortName;">
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "Amgodiad nod">
 <!ENTITY pref_char_encoding_on "Dangos dewislen">
 <!ENTITY pref_char_encoding_off "Peidio dangos dewislen">
-<!ENTITY pref_clear_private_data "Clirio Data Preifat">
+
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Clirio nawr">
@@ -285,7 +294,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Dewis pa ddata i\u0027w glirio">
 <!ENTITY pref_plugins "Ategion">
 <!ENTITY pref_plugins_enabled "Galluogwyd">
-<!ENTITY pref_plugins_tap_to_play "Tapio i chwarae">
+
 <!ENTITY pref_plugins_disabled "Analluogwyd">
 <!ENTITY pref_text_size "Maint testun">
 <!ENTITY pref_restore_tabs "Adfer tabiau">
@@ -335,7 +344,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Llwythi">
 <!ENTITY pref_private_data_syncedTabs "Tabiau wedi eu cydweddu">
 
-
 <!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
 <!ENTITY pref_vendor_faqs "Atebion">
 <!ENTITY pref_vendor_feedback "Rhoi adborth">
@@ -353,10 +361,12 @@ size. -->
 <!ENTITY pref_panels_move_down "Symud i lawr">
 
 <!ENTITY datareporting_notification_title "Ystadegau a data &brandShortName;">
-<!ENTITY datareporting_notification_action_long "Dewis pa wybodaeth i\u0027w rannu">
 <!ENTITY datareporting_notification_action "Dewis beth i\u0027w rannu">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Dewis pa wybodaeth i\u0027w rannu">
 <!ENTITY datareporting_notification_summary "I wella eich profiad mae &brandShortName; yn anfon peth gwybodaeth at &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "I wella eich profiad, mae &brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -379,7 +389,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Diweddariadau awtomatig">
 <!ENTITY pref_update_autodownload_wifi "Dim ond ar diwifr">
 <!ENTITY pref_update_autodownload_never "Byth">
 <!ENTITY pref_update_autodownload_always "Bob tro">
@@ -390,7 +399,7 @@ size. -->
 <!ENTITY quit "Gadael">
 
 <!ENTITY addons "Ychwanegion">
-<!ENTITY logins "Mewngofnodion">
+
 <!ENTITY downloads "Llwythi">
 <!ENTITY char_encoding "Nodau Amgodio">
 
@@ -409,7 +418,6 @@ size. -->
 <!ENTITY close_private_tabs "Cau Tabiau Preifat">
 <!ENTITY tabs_normal "Tabiau">
 <!ENTITY tabs_private "Preifat">
-<!ENTITY tabs_synced "Cydweddwyd">
 <!ENTITY set_image_fail "Methu gosod delwedd">
 <!ENTITY set_image_path_fail "Methu cadw delwedd">
 <!ENTITY set_image_chooser_title "Gosod Delwedd Fel">
@@ -443,8 +451,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Pinio Gwefan">
 <!ENTITY contextmenu_top_sites_unpin "Dad-binio Gwefan">
 <!ENTITY contextmenu_add_search_engine "Ychwanegu Peiriant Chwilio">
-<!ENTITY contextmenu_mark_read "Marcio wedi darllen">
-<!ENTITY contextmenu_mark_unread "Marcio heb ei ddarllen">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -464,7 +470,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Chwyddo ardaloedd bach">
-<!ENTITY pref_magnifying_glass_enabled_summary "Mwyhau dolenni a meysydd ffurflen wrth dapio yn eu hymyl">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -489,21 +495,6 @@ size. -->
 <!ENTITY site_settings_title3       "Gosodiadau Gwefan">
 <!ENTITY site_settings_cancel       "Diddymu">
 <!ENTITY site_settings_clear        "Clirio">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!ENTITY reading_list_added3 "Ychwanegu at y Rhestr Ddarllen">
-<!ENTITY reading_list_removed "Tudalen wedi ei thynnu o\u0027ch Rhestr Ddarllen">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Tynnu o\u0027r Rhestr Ddarllen">
-<!ENTITY reading_list_duplicate "Tudalen eisoes ar eich Rhestr Ddarllen">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
-<!ENTITY reading_list_time_minutes2 "&formatD; mun">
-<!ENTITY reading_list_time_over_an_hour "Dros awr">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -532,6 +523,7 @@ size. -->
 
 <!ENTITY home_title "Cartref &brandShortName;">
 <!ENTITY home_history_title "Hanes">
+
 <!ENTITY home_clear_history_button "Clirio eich hanes pori">
 <!ENTITY home_clear_history_confirm "Ydych chi\u0027n siŵr eich bod chi eisiau clirio eich hanes?">
 <!ENTITY home_bookmarks_empty "Mae nodau tudalen i\u0027w gweld yma.">
@@ -540,11 +532,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Bydd eich tabiau diweddar i\u0027w gweld yma.">
 <!ENTITY home_open_all "Agor y cyfan">
 <!ENTITY home_most_recent_empty "Bydd gwefannau diweddar i\u0027w gweld yma.">
-<!ENTITY home_selected_empty "Mae gwefannau rydych wedi ymweld â nhw o fewn yr amser penodol yn ymddangos yma.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: bydd defnyddio &formatS1;Tab Preifat Newydd&formatS2; ddim yn cadw eich hanes.">
-<!ENTITY home_reading_list_empty "Bydd erthyglau rydych yn eu cadw i\u0027w gweld yma.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -553,21 +543,11 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_back_to_filter "Nôl i &formatS;">
-
-<!ENTITY home_remote_tabs_title "Tabiau wedi eu Cydweddu">
-<!ENTITY home_remote_tabs_empty "Mae eich tabiau o ddyfeisiau eraill yn ymddangos yma.">
-<!ENTITY home_remote_tabs_unable_to_connect "Methu cysylltu">
-<!ENTITY home_remote_tabs_need_to_sign_in "Mewngofnodwch i ailgysylltu â\u0027ch Cyfrif Firefox a pharhau i gydweddu.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Mae eich Cyfrif Firefox newydd yn barod!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Anhawster gwirio eich cyfrif?">
-<!ENTITY home_remote_tabs_need_to_verify "Gwiriwch eich Cyfrif Firefox i gychwyn cydweddu.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 dyfais cudd">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dyfais cudd">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -582,7 +562,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Rhowch allweddair chwilio">
 
-<!ENTITY filepicker_title "Dewis Ffeil">
 <!ENTITY filepicker_audio_title "Dewis neu recordio sain">
 <!ENTITY filepicker_image_title "Dewis neu dynnu llun">
 <!ENTITY filepicker_video_title "Dewis neu recordio fideo">
@@ -611,8 +590,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Nid yw rhannau o\u0027r dudalen hon yn ddiogel (megis delweddau).">
 <!ENTITY mixed_content_protection_disabled1 "Rydych wedi analluogi diogelwch rhag elfennau anniogel.">
 <!-- Tracking content notifications in site identity popup -->
-
-<!ENTITY doorhanger_tracking_title "Diogelwch rhag tracio">
 <!ENTITY doorhanger_tracking_state_enabled "Galluogwyd">
 <!ENTITY doorhanger_tracking_state_disabled "Analluogwyd">
 <!ENTITY doorhanger_tracking_message_enabled1 "Mae ymdrechion i dracio\u0027ch ymddygad ar-lein wedi eu rhwystro.">
@@ -622,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "Dysgu Rhagor">
 <!ENTITY enable_protection "Galluogi diogelu">
 <!ENTITY disable_protection "Analluogi diogelu">
-<!ENTITY keep_blocking "Cadw i rwystro">
 
 <!ENTITY private_data_success "Clirio data preifat">
 <!ENTITY private_data_fail "Nid oedd modd clirio peth data preifat">
@@ -714,12 +690,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "Cydweddwyd diwethaf: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Cydweddwyd diwethaf: byth">
-
-<!ENTITY intent_uri_cannot_open "Methu agor dolen">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+
 <!ENTITY intent_uri_private_browsing_prompt "Bydd y ddolen yn agor yn &formatS;. Ydych chi\u0027n siŵr eich bod am adael Pori Preifat?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -778,3 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY whatsnew_notification_title "Mae &brandShortName; yn gyfredol">
 <!ENTITY whatsnew_notification_summary "Beth sy\u0027n newydd yn y fersiwn yma">
+
+
+
+
