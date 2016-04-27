@@ -7,3 +7,5 @@
 
 <!ENTITY searchBox.placeholder         "Kechayüx taq ch'akulal">
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
+
+<!ENTITY storage.popupMenu.deleteAllLabel "Tiyuj el ronojel">
