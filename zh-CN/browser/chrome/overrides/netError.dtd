@@ -88,11 +88,9 @@
 <li>请联系此网站的管理员并告知此问题。</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "安全连接失败">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>这可能是服务器配置的问题，或者有人尝试冒充该服务器所致。</li> 
-<li>如果您之前曾成功连接该服务器，那么此错误可能是暂时的，您可以稍后再试。</li> 
-</ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>此站点暂时不可用或者太忙。请稍后再试。</li> 
@@ -107,19 +105,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>您尝试查看的页面无法显示，因为检测到一个数据传输错误。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
-<!ENTITY securityOverride.getMeOutOfHereButton "离开这里！">
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningContent "<p>如果您使用的是一个您不能完全信任的互联网连接，或者您并不使用警告的此服务器，您不应该添加一个例外。</p> 
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "报告类似错误以帮助 Mozilla 识别和拦截恶意站点">
 <!ENTITY errorReporting.learnMore "详细了解…">
@@ -139,3 +125,7 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoAdvanced.title "高级">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> 使用了过时的安全技术，较容易遭受攻击。攻击者可以容易地获取您认为是安全的信息。">
 <!ENTITY weakCryptoAdvanced.override "尝试使用过时的安全性设置载入此页面 <span class='hostname'></span>（不安全）">
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
