@@ -24,10 +24,10 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas)</li> <li>Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.</li> </ul>">
 
 
-<!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "<p>&brandShortName;  pòt pas cargar aquesta pagina.</p>">
 
-<!ENTITY malformedURI.title "Aquesta adreça es pas valida.">
+<!ENTITY generic.title "Oops.">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -35,7 +35,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Lo document a expirat">
-<!ENTITY notCached.longDesc "<p>Lo document demandat es pas mai disponible dins l'escondedor de &brandShortName;.</p><ul><li>Per mesura de seguretat, &brandShortName; torna pas demandar automaticament de documents sensibles.</li><li>Clicatz sus Ensajar Tornarmai per tornar demandar aqueste document dempuèi lo site web.</li></ul>">
+
 
 <!ENTITY netOffline.title "Mòde sens connexion">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -53,7 +53,6 @@
 <!ENTITY netTimeout.title "Relambi d'espèra passat">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "La connexion es pas estada compresa">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Benlèu es necessari d'installar una autra aplicacion per dobrir aqueste tipe d'adreça.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Lo servidor mandatòri refusa las connexions">
@@ -64,7 +63,6 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Verificatz que los paramètres del proxy son corrèctes.</li> <li>Verificatz que la connexion donadas o WiFi de vòstre aparelh fonciona. <button id='wifi'>Activar lo Wifi</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "Redireccion de pagina incorrècta">
 <!ENTITY redirectLoop.longDesc "<ul> <li>La causa d'aqueste problèma pòt èsser la desactivacion o lo refús dels cookies.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Responsa inesperada del servidor">
@@ -74,11 +72,9 @@
 
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
-<!ENTITY nssBadCert.longDesc2 "<ul><li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensajad'usurpar l'identitat del servidor.</li> <li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètzensajar tornamai pus tard.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
-<!ENTITY sharedLongDesc3 "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar mai tard.</li> <li>Se capitatz pas de navigar sus cap de site, verificatz la connexion donadas o WiFi de vòstre aparelh. <button id='wifi'>Activar lo Wifi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacht lo cargament d'aquesta pagina d'aquel biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
@@ -105,3 +101,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
