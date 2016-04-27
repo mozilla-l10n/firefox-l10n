@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "ลบประวัติการค้นหาทั้งหมดจากอุปกรณ์นี้?">
 <!ENTITY pref_clearHistory_title "ล้างประวัติการค้นหา">
 
-<!ENTITY pref_searchProvider_title "เครื่องมือค้นหา">
-
 <!ENTITY search_widget_button_label "ค้นหา">
 
 <!ENTITY network_error_title "ไม่มีการเชื่อมต่ออินเทอร์เน็ต">

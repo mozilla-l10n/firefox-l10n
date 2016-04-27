@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "มีพื้นที่ไม่เพียงพอสำหรับให้ &brandShortName; เริ่มทำงาน">
-<!ENTITY  error_loading_file "เกิดข้อผิดพลาดขณะกำลังพยายามโหลดไฟล์ที่จำเป็นในการทำงาน &brandShortName;">
-
 <!ENTITY firstrun_panel_title_welcome "ยินดีต้อนรับ">
 <!ENTITY  onboard_start_message3 "ท่องเว็บด้วย &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "ทำให้ประสบการณ์การท่องเว็บบนมือถือของคุณเป็นของคุณอย่างแท้จริง">
@@ -27,6 +23,10 @@
 <!ENTITY firstrun_button_next "ถัดไป">
 
 <!ENTITY  onboard_start_restricted1 "ปลอดภัยและอยู่ในการควบคุมด้วยรุ่นแบบเรียบง่ายนี้ของ &brandShortName;">
+
+
+<!ENTITY  reading_list_migration_goto_bookmarks "ไปยังที่คั่นหน้า">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -49,12 +49,6 @@
 <!ENTITY  sending_crash_report "กำลังส่งรายงานข้อขัดข้อง\u2026">
 <!ENTITY  crash_close_label "ปิด">
 <!ENTITY  crash_restart_label "เริ่มการทำงาน &brandShortName; ใหม่">
-<!ENTITY  exit_label "ออก">
-
-<!ENTITY  launcher_shortcuts_title "เว็บแอป &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "ไม่พบเว็บแอป">
-
-<!ENTITY choose_file "เลือกไฟล์">
 
 <!ENTITY url_bar_default_text2 "ค้นหาหรือป้อนที่อยู่">
 
@@ -68,14 +62,23 @@
 <!ENTITY bookmark_removed "เอาที่คั่นหน้าออกแล้ว">
 <!ENTITY bookmark_updated "ปรับปรุงที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_options "ตัวเลือก">
+<!ENTITY screenshot_added_to_bookmarks "เพิ่มภาพหน้าจอไปยังที่คั่นหน้าแล้ว">
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "ภาพหน้าจอ">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "รายการอ่าน">
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "สลับ">
 
 <!ENTITY history_today_section "วันนี้">
 <!ENTITY history_yesterday_section "เมื่อวาน">
 <!ENTITY history_week_section3 "7 วันที่ผ่านมา">
-<!ENTITY history_this_month_section "เดือนนี้">
 <!ENTITY history_older_section3 "เก่ากว่า 6 เดือน">
 
-<!ENTITY go "ไป">
 <!ENTITY search "ค้นหา">
 <!ENTITY reload "โหลดใหม่">
 <!ENTITY forward "เดินหน้า">
@@ -108,7 +111,7 @@
 <!ENTITY settings "การตั้งค่า">
 <!ENTITY settings_title "การตั้งค่า">
 <!ENTITY pref_category_general "ทั่วไป">
-<!ENTITY pref_category_general_summary2 "หน้าแรก ภาษา แถบ URL">
+<!ENTITY pref_category_general_summary3 "หน้าแรก ภาษา คิวแท็บ">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -131,9 +134,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "ที่คั่นหน้า">
-<!ENTITY overlay_share_reading_list_btn_label "เพิ่มไปยังรายการอ่าน">
 <!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่แล้ว">
-<!ENTITY overlay_share_reading_list_btn_label_already "มีในรายการอ่านอยู่แล้ว">
 <!ENTITY overlay_share_send_other "ส่งไปยังอุปกรณ์อื่น ๆ">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -149,14 +150,15 @@
 <!ENTITY overlay_no_synced_devices "ไม่พบอุปกรณ์ที่เชื่อมต่อกับบัญชี Firefox">
 
 <!ENTITY pref_category_search3 "ค้นหา">
-<!ENTITY pref_category_search_summary "ปรับแต่งผู้ให้บริการค้นหาของคุณ">
+<!ENTITY pref_category_search_summary2 "เพิ่ม ตั้งค่าปริยาย แสดงคำแนะนำ">
 <!ENTITY pref_category_accessibility "การช่วยเข้าถึง">
 <!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร ย่อ-ขยาย การรับค่าด้วยเสียง">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
-<!ENTITY pref_category_privacy_summary3 "การตามรอย คุกกี้ ตัวเลือกข้อมูล">
+<!ENTITY pref_category_privacy_summary4 "การตามรอย การเข้าสู่ระบบ ตัวเลือกข้อมูล">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "เกี่ยวกับ &brandShortName; คำถามที่พบบ่อย ข้อคิดเห็น">
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
+<!ENTITY pref_category_logins "การเข้าสู่ระบบ">
 <!ENTITY pref_learn_more "เรียนรู้เพิ่มเติม">
 <!ENTITY pref_category_installed_search_engines "เครื่องมือค้นหาที่ติดตั้งไว้">
 <!ENTITY pref_category_add_search_providers "เพิ่มผู้ให้บริการค้นหาเพิ่มเติม">
@@ -168,10 +170,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "เคล็ดลับ: เพิ่มเว็บไซต์ใด ๆ ไปยังรายการผู้ให้บริการค้นหาของคุณโดยการแตะค้างบนช่องค้นหาของเว็บไซต์นั้น จากนั้นแตะที่ไอคอน &formatI;">
 <!ENTITY pref_category_advanced "ขั้นสูง">
-<!ENTITY pref_category_advanced_summary2 "การเรียกคืนแท็บ โปรแกรมเสริม เครื่องมือนักพัฒนา">
-<!ENTITY pref_developer_remotedebugging "การดีบั๊กระยะไกล">
+
+<!ENTITY pref_category_notifications "การแจ้งเตือน">
+
+
+
 <!ENTITY pref_developer_remotedebugging_usb "การดีบั๊กระยะไกลผ่าน USB">
 <!ENTITY pref_developer_remotedebugging_wifi "การดีบั๊กระยะไกลผ่าน Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "การดีบั๊กบน Wi-Fi จำเป็นต้องให้อุปกรณ์ของคุณมีแอปตัวอ่านรหัส QR ติดตั้งอยู่">
@@ -181,18 +185,10 @@
 <!ENTITY pref_category_home "หน้าแรก">
 <!ENTITY pref_category_home_summary "ปรับแต่งหน้าแรกของคุณ">
 <!ENTITY pref_category_home_panels "แผง">
-<!ENTITY home_add_panel_title "เพิ่งแผงใหม่">
-<!ENTITY home_add_panel_empty "ขออภัย เราไม่พบแผงใด ๆ สำหรับให้คุณเพิ่ม">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ถูกเพิ่มไปยังหน้าแรก">
-<!ENTITY pref_category_home_content_settings "ตั้งค่าเนื้อหา">
-<!ENTITY pref_home_updates "การปรับปรุงอัตโนมัติ">
+<!ENTITY pref_category_home_add_ons "ส่วนเสริม">
+
 <!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_home_updates_wifi "เฉพาะผ่าน Wi-Fi">
-<!ENTITY pref_home_suggested_sites "แสดงคำแนะนำไซต์">
-<!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนหน้าแรกของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
 <!ENTITY pref_category_home_homepage "หน้าแรก">
 <!ENTITY home_homepage_title "ตั้งหน้าแรก">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -216,6 +212,7 @@
 <!ENTITY pref_header_search "ค้นหา">
 <!ENTITY pref_header_privacy_short "ความเป็นส่วนตัว">
 <!ENTITY pref_header_accessibility "การช่วยเข้าถึง">
+<!ENTITY pref_header_notifications "การแจ้งเตือน">
 <!ENTITY pref_header_advanced "ขั้นสูง">
 <!ENTITY pref_header_help "ช่วยเหลือ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -225,6 +222,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "ถูกเปิดใช้งาน ยกเว้นจากบุคคลที่สาม">
 <!ENTITY pref_cookies_disabled "ถูกปิดใช้งาน">
 
+<!ENTITY pref_category_media "สื่อ">
+<!ENTITY pref_category_developer_tools "เครื่องมือนักพัฒนา">
+
 <!ENTITY pref_tap_to_load_images_title2 "แสดงภาพ">
 <!ENTITY pref_tap_to_load_images_enabled "เสมอ">
 <!ENTITY pref_tap_to_load_images_data "เฉพาะผ่าน Wi-Fi">
@@ -232,7 +232,8 @@
 
 <!ENTITY pref_show_web_fonts "แสดงแบบอักษรเว็บ">
 
-<!ENTITY pref_tracking_protection_title "การป้องกันการตามรอย">
+
+<!ENTITY pref_tracking_protection_title2 "การป้องกันการตามรอย">
 <!ENTITY pref_tracking_protection_summary3 "ถูกเปิดใช้งานในการท่องเว็บแบบส่วนตัว">
 <!ENTITY pref_donottrack_title "อย่าตามรอย">
 <!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ว่าคุณไม่ต้องการให้ตามรอย">
@@ -240,6 +241,9 @@
 <!ENTITY pref_tracking_protection_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_tracking_protection_enabled_pb "ถูกเปิดใช้งานในการท่องเว็บแบบส่วนตัว">
 <!ENTITY pref_tracking_protection_disabled "ถูกปิดใช้งาน">
+
+<!ENTITY pref_whats_new_notification "มีอะไรใหม่ใน &brandShortName;">
+
 
 <!ENTITY tracking_protection_prompt_title "ขณะนี้มาพร้อมการป้องกันการตามรอย">
 <!ENTITY tracking_protection_prompt_text "ปิดกั้นองค์ประกอบที่ตามรอยอย่างต่อเนื่อง คุณจึงไม่จำเป็นต้องกังวล">
@@ -273,10 +277,20 @@
 
 <!ENTITY tab_queue_notification_settings "เพื่อ \&quot;เปิดหลายลิงก์\&quot; โปรดเปิดใช้งานการอนุญาต \u0027วาดทับแอปอื่นๆ\u0027 สำหรับ &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
 <!ENTITY pref_char_encoding_off "ไม่แสดงเมนู">
-<!ENTITY pref_clear_private_data "ล้างข้อมูลส่วนตัว">
+<!ENTITY pref_clear_private_data2 "ล้างข้อมูลส่วนตัว">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ล้างตอนนี้">
@@ -285,7 +299,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่จะล้าง">
 <!ENTITY pref_plugins "โปรแกรมเสริม">
 <!ENTITY pref_plugins_enabled "ถูกเปิดใช้งาน">
-<!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
+<!ENTITY pref_plugins_tap_to_play2 "แตะเพื่อเล่น">
 <!ENTITY pref_plugins_disabled "ถูกปิดใช้งาน">
 <!ENTITY pref_text_size "ขนาดตัวอักษร">
 <!ENTITY pref_restore_tabs "เรียกคืนแท็บ">
@@ -335,7 +349,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ดาวน์โหลด">
 <!ENTITY pref_private_data_syncedTabs "แท็บที่ผสาน">
 
-
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
 <!ENTITY pref_vendor_faqs "คำถามที่พบบ่อย">
 <!ENTITY pref_vendor_feedback "เสนอข้อคิดเห็น">
@@ -353,10 +366,12 @@ size. -->
 <!ENTITY pref_panels_move_down "ย้ายลง">
 
 <!ENTITY datareporting_notification_title "สถิติและข้อมูล &brandShortName;">
-<!ENTITY datareporting_notification_action_long "เลือกข้อมูลที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_action "เลือกสิ่งที่จะแบ่งปัน">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "เลือกข้อมูลที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_summary "เพื่อปรับปรุงประสบการณ์ของคุณ &brandShortName; จะส่งข้อมูลบางส่วนไปยัง &vendorShortName; โดยอัตโนมัติ">
-<!ENTITY datareporting_notification_summary_short "เพื่อปรับปรุงประสบการณ์ของคุณ &brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -409,7 +424,6 @@ size. -->
 <!ENTITY close_private_tabs "ปิดแท็บส่วนตัว">
 <!ENTITY tabs_normal "แท็บ">
 <!ENTITY tabs_private "ส่วนตัว">
-<!ENTITY tabs_synced "ผสานแล้ว">
 <!ENTITY set_image_fail "ไม่สามารถตั้งภาพ">
 <!ENTITY set_image_path_fail "ไม่สามารถบันทึกภาพ">
 <!ENTITY set_image_chooser_title "ตั้งภาพเป็น">
@@ -443,8 +457,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ปักหมุดไซต์">
 <!ENTITY contextmenu_top_sites_unpin "ถอดหมุดไซต์">
 <!ENTITY contextmenu_add_search_engine "เพิ่มเครื่องมือค้นหา">
-<!ENTITY contextmenu_mark_read "ทำเครื่องหมายเป็นอ่านแล้ว">
-<!ENTITY contextmenu_mark_unread "ทำเครื่องหมายเป็นยังไม่ได้อ่าน">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -464,7 +476,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "ขยายพื้นที่ขนาดเล็ก">
-<!ENTITY pref_magnifying_glass_enabled_summary "ขยายขนาดลิงก์และช่องกรอกฟอร์มเมื่อแตะใกล้ ๆ">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -489,21 +501,6 @@ size. -->
 <!ENTITY site_settings_title3       "การตั้งค่าไซต์">
 <!ENTITY site_settings_cancel       "ยกเลิก">
 <!ENTITY site_settings_clear        "ล้าง">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!ENTITY reading_list_added3 "เพิ่มไปยังรายการอ่านแล้ว">
-<!ENTITY reading_list_removed "เอาหน้าออกจากรายการอ่านของคุณแล้ว">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "เอาออกจากรายการอ่าน">
-<!ENTITY reading_list_duplicate "หน้ามีในรายการอ่านของคุณอยู่แล้ว">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
-<!ENTITY reading_list_time_minutes2 "&formatD; นาที">
-<!ENTITY reading_list_time_over_an_hour "มากกว่าชั่วโมง">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -532,6 +529,7 @@ size. -->
 
 <!ENTITY home_title "หน้าแรก &brandShortName;">
 <!ENTITY home_history_title "ประวัติ">
+<!ENTITY home_history_back_to "ย้อนกลับไปยังประวัติทั้งหมด">
 <!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติของคุณ?">
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่คุณบันทึกไว้จะแสดงที่นี่">
@@ -540,11 +538,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "แท็บเมื่อเร็ว ๆ นี้ของคุณจะแสดงที่นี่">
 <!ENTITY home_open_all "เปิดทั้งหมด">
 <!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเพิ่งเยี่ยมชมล่าสุดจะแสดงที่นี่">
-<!ENTITY home_selected_empty "เว็บไซต์ที่คุณได้เยี่ยมชมตามกรอบเวลาที่คุณเลือกจะแสดงที่นี่">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "หมายเหตุ: การใช้ &formatS1;แท็บส่วนตัวใหม่&formatS2; จะไม่บันทึกประวัติของคุณ">
-<!ENTITY home_reading_list_empty "บทความที่คุณบันทึกไว้อ่านในภายหลังจะแสดงที่นี่">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -553,21 +549,11 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_back_to_filter "ย้อนกลับไปยัง &formatS;">
-
-<!ENTITY home_remote_tabs_title "แท็บที่ผสาน">
-<!ENTITY home_remote_tabs_empty "แท็บของคุณจากอุปกรณ์อื่น ๆ จะแสดงที่นี่">
-<!ENTITY home_remote_tabs_unable_to_connect "ไม่สามารถเชื่อมต่อ">
-<!ENTITY home_remote_tabs_need_to_sign_in "โปรดเข้าสู่ระบบเพื่อเชื่อมต่อบัญชี Firefox ของคุณใหม่และดำเนินการผสานต่อ">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "บัญชี Firefox ใหม่ของคุณพร้อมใช้งานแล้ว!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "มีปัญหาในการยืนยันบัญชีของคุณ?">
-<!ENTITY home_remote_tabs_need_to_verify "โปรดยืนยันบัญชี Firefox ของคุณเพื่อเริ่มการผสาน">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 อุปกรณ์ถูกซ่อน">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; อุปกรณ์ถูกซ่อน">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -612,7 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "คุณได้ปิดใช้งานการป้องกันจากเนื้อหาที่ไม่ปลอดภัย">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY doorhanger_tracking_title "การป้องกันการตามรอย">
+<!ENTITY doorhanger_tracking_title2 "การป้องกันการตามรอย">
 <!ENTITY doorhanger_tracking_state_enabled "ถูกเปิดใช้งาน">
 <!ENTITY doorhanger_tracking_state_disabled "ถูกปิดใช้งาน">
 <!ENTITY doorhanger_tracking_message_enabled1 "ความพยายามในการตามรอยพฤติกรรมออนไลน์ของคุณถูกปิดกั้น">
@@ -622,7 +608,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "เรียนรู้เพิ่มเติม">
 <!ENTITY enable_protection "เปิดใช้งานการป้องกัน">
 <!ENTITY disable_protection "ปิดใช้งานการป้องกัน">
-<!ENTITY keep_blocking "ปิดกั้นต่อไป">
 
 <!ENTITY private_data_success "ล้างข้อมูลส่วนตัวแล้ว">
 <!ENTITY private_data_fail "ไม่สามารถล้างข้อมูลส่วนตัวบางอย่างได้">
@@ -714,12 +699,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "ผสานล่าสุด: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "ผสานล่าสุด: ไม่เคย">
-
-<!ENTITY intent_uri_cannot_open "ไม่สามารถเปิดลิงก์">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+
 <!ENTITY intent_uri_private_browsing_prompt "ลิงก์นี้จะเปิดใน &formatS; คุณแน่ใจหรือไม่ว่าต้องการออกจากการท่องเว็บแบบส่วนตัว?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -778,3 +762,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; เป็นรุ่นล่าสุดแล้ว">
 <!ENTITY whatsnew_notification_summary "ค้นพบว่ามีอะไรใหม่ในรุ่นนี้">
+
+<!ENTITY promotion_add_to_homescreen "เพิ่มไปยังหน้าจอแรก">
+
+<!ENTITY helper_first_offline_bookmark_title "อ่านออฟไลน์">
+
+<!ENTITY helper_first_offline_bookmark_button "ไปยังที่คั่นหน้า">
