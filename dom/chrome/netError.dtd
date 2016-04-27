@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Dosiye ntibonetse">
 <!ENTITY fileNotFound.longDesc "<ul><li>Igice gishobora kuba cyahinduwe izina, cyavanweho, cyangwa cyimuwe?</li><li>Haba hariho ikosa ry'imyandikire, inyuguti nkuru, cyangwa irindi kosa rw'imisusire muri aderesi?</li><li>Ufite ibyemezo byihagije zo kugera ku kintu cyasabwe?</li></ul>">
 
+
+
 <!ENTITY generic.title "Ntibishoboka Kurangiza Ikibazo">
 <!ENTITY generic.longDesc "<p>Ibisobanuro by'inyongera byerekeye iki kibazo cyangwa ikosa ntibishobora kuboneka ubu.</p>">
 
@@ -69,3 +71,6 @@
 
 
 
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
