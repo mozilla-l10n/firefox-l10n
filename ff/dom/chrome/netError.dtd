@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Fiilde Yiytaaka">
 <!ENTITY fileNotFound.longDesc "<ul><li>Mbar temre ndee innitaaka, walla dirtinee?</li><li>Mbar alaa pergitte mbinndiin, kaftingol, walla tappugol ngoni e ñiiɓirde ndee?</li><li>Ala jogii jamirooje jonɗe huutoraade e temre ɗaɓɓitaande ndee?</li></ul>">
 
+
+
 <!ENTITY generic.title "Horiima Yeetinde Ɗaɓɓitannde">
 <!ENTITY generic.longDesc "<p>Humpito ɓeydorɗo baɗte ɗee caɗeele walla ndee juumre heɓotaako oo sahaa.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "XUL Poottiiɗo">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe caɗe ɗee.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
