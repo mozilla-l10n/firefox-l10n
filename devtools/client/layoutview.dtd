@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Model Blwch">
-<!ENTITY margin.tooltip         "ymyl">
-<!ENTITY border.tooltip         "border">
-<!ENTITY padding.tooltip        "padio">
-<!ENTITY content.tooltip        "cynnwys">
+<!ENTITY layoutViewTitle          "Model Blwch">
+<!ENTITY margin.tooltip           "ymyl">
+<!ENTITY border.tooltip           "border">
+<!ENTITY padding.tooltip          "padio">
+<!ENTITY content.tooltip          "cynnwys">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

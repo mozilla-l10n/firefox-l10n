@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "Clicio ar">
-<!ENTITY canvasDebuggerUI.emptyNotice2    "y botwm i recordio stac galw ffrâm animeiddio.">
+
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 

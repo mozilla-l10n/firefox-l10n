@@ -4,8 +4,13 @@
 
 <!ENTITY safeb.palm.accept.label "Allan o fan hyn!">
 <!ENTITY safeb.palm.decline.label "Anwybyddu'r rhybudd">
-<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
-<!ENTITY safeb.palm.notdeceptive.label "Nid yw hon yn wefan twyllodrus…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
+  item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
+  shown. -->
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
 <!ENTITY safeb.palm.reportPage.label "Pam oedd y dudalen hon wedi ei rhwystro?">
 <!ENTITY safeb.palm.whyForbidden.label "Pam oedd y dudalen hon wedi ei rhwystro?">
 

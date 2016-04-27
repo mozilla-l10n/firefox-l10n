@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Arall">
 <!ENTITY runtimePanel_installsimulator "Gosod yr Efelychydd">
 <!ENTITY runtimePanel_noadbhelper "Gosod ADB Helper">
-<!ENTITY runtimePanel_nousbdevice "Methu gweld eich dyfais?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Adnewyddu Dyfais">
 <!-- Lense -->
 
