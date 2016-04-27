@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Tagaichean">
 <!ENTITY bookmarks.folder.toolbar.label "Bàr nan comharra-lìn">
-<!ENTITY bookmarks.folder.unfiled.label "Comharran-lìn gun seòrsachadh">
+
 <!ENTITY bookmarks.folder.desktop.label "Comharran-lìn an desktop">
 <!ENTITY bookmarks.folder.mobile.label "Comharran-lìn an fhòn-làimhe">
-<!ENTITY bookmarks.folder.readinglist.label "An liosta-leughaidh">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Prìnichte">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Suidhich &syncBrand.shortName.label; gus tabaichean a chur">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Suidhich &syncBrand.fullName.label; air an uidheam agad gus tabaichean a chur gu uidheaman eile.">
-<!ENTITY sync.text.tab.sent.label "Chaidh an taba agad a chur!">
-<!ENTITY sync.text.tab.not.sent.label "Thachair duilgheadas nuair a chuir sinn a taba agad.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Cunntasan Firefox">
-
-<!ENTITY fxaccount_custom_server_account_title "A\u0027 cleachdadh a\u0027 chunntais air an fhrithealaiche">
-<!ENTITY fxaccount_custom_server_sync_title "A\u0027 stòradh an dàta sioncronachaidh air an fhrithealaiche">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "Post-d">
-<!ENTITY fxaccount_password_hint "Facal-faire">
-<!ENTITY fxaccount_password_hide "Falaich">
-<!ENTITY fxaccount_password_show "Seall">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "Till gun bhrabhsadh">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Teirmichean na seirbheise">
-<!ENTITY fxaccount_policy_linkprivacy "Sanas prìobhaideachd">
+<!ENTITY fxaccount_back_to_browsing "Till gun bhrabhsadh">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Fàilte gu &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Clàraich a-steach gus na tabaichean, comharran-lìn, clàraidhean a-steach ⁊ mòran a bharrachd a shioncronachadh.">
 <!ENTITY fxaccount_getting_started_get_started "Dèan toiseach tòiseachaidh">
 <!ENTITY fxaccount_getting_started_old_firefox "A bheil thu a\u0027 cleachdadh seann-tionndadh de &syncBrand.shortName.label;?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "Cruthaich cunntas Firefox">
-<!ENTITY fxaccount_create_account_password_length_restriction "Feumaidh seo a bhith 8 caractaran a dh’fhaid co-dhiù">
-<!ENTITY fxaccount_create_account_day_of_birth "Latha">
-<!ENTITY fxaccount_create_account_month_of_birth "Mìos">
-<!ENTITY fxaccount_create_account_year_of_birth "Bliadhna-breith">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Ma leanas tu air adhart, bidh thu ag aontachadh ri &formatS1; agus &formatS2; airson seirbheisean Firefox sa neul.">
-<!ENTITY fxaccount_create_account_button "Air adhart">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Tagh na tha thu airson sioncronachadh">
-<!ENTITY fxaccount_create_account_sign_in_instead "A bheil cunntas agad mu thràth? Clàraich a-steach">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 no na bu tràithe">
-<!ENTITY fxaccount_create_account_unknown_error "Cha b\u0027 urrainn dhuinn cunntas a chruthachadh">
-
-<!ENTITY fxaccount_account_create_not_allowed "Cha ghabh cunntas a chruthachadh">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Chan urrainn dhut cunntas a chruthachadh ma tha thu ro òg.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Barrachd fiosrachaidh">
-
-<!ENTITY fxaccount_confirm_account_header "Dearbh an cunntas agad">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Chaidh ceangal dearbhaidh a chur gu &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Cuir am post-d a-rithist">
-<!ENTITY fxaccount_confirm_account_change_email "A bheil airson ’s gun leig sinn am post-d seo air dìochuimhne?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Chaidh am post-d dearbhaidh a chur">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Cha b\u0027 urrainn dhuinn am post-d dearbhaidh a chur">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Ath-sheòl am post-d airson a’ ghlas a thoirt dheth">
-<!ENTITY fxaccount_unlock_code_sent "Chaidh post-d airson a’ ghlas a thoirt dheth a chur">
-<!ENTITY fxaccount_unlock_code_not_sent "Cha b’ urrainn dhuinn post-d airson a’ ghlas a thoirt dheth a chur">
-
-<!ENTITY fxaccount_sign_in_sub_header "Clàraich a-steach">
-<!ENTITY fxaccount_sign_in_button_label "Clàraich a-steach">
-<!ENTITY fxaccount_sign_in_forgot_password "Na dhìochuimhnich thu am facal-faire?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Cruthaich cunntas">
-<!ENTITY fxaccount_sign_in_unknown_error "Cha b\u0027 urrainn dhuinn do chlàradh a-steach">
-
-<!ENTITY fxaccount_account_verified_sub_header "Chaidh an cunntas a dhearbhadh">
-<!ENTITY fxaccount_account_verified_description2 "Thèid an dàta agad a shioncronachadh a dh’aithghearr.">
-
-<!ENTITY fxaccount_migration_finished_header "Deiseil leis an àrdachadh">
-
-<!ENTITY fxaccount_update_credentials_header "Clàraich a-steach">
-<!ENTITY fxaccount_update_credentials_button_label "Clàraich a-steach">
-<!ENTITY fxaccount_update_credentials_unknown_error "Cha b\u0027 urrainn dhuinn do chlàradh a-steach">
-
-<!ENTITY fxaccount_finish_migrating_header "Clàraich a-steach a choileanadh an àrdachaidh">
-<!ENTITY fxaccount_finish_migrating_button_label "Deiseil leis an àrdachadh">
-<!ENTITY fxaccount_finish_migrating_description "Feumaidh àrdachadh mòran dàta uaireannan. B’ fheairrde dhut lìonra WiFi a chleachdadh.">
-
-<!ENTITY fxaccount_status_header2 "Cunntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Chlàraich thu a-steach mar">
 <!ENTITY fxaccount_status_manage_account "Stiùirich an cunntas">
 <!ENTITY fxaccount_status_auth_server "Frithealaiche a\u0027 chunntais">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Teirmichean na seirbheise">
-<!ENTITY fxaccount_status_linkprivacy "Sanas prìobhaideachd">
+
 <!ENTITY fxaccount_status_more "Barrachd&ellipsis;">
 <!ENTITY fxaccount_remove_account "Dì-cheangail&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Tha am frithealaiche trang, feuch ris a-rithist a dh’aithghearr">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Tha am frithealaiche trang, feuch ris a-rithist a dh’aithghearr">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Bha duilgheadas ann">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Cha ghabh ceangal a dhèanamh ris an lìonra">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Tha an cunntas glaiste. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Chan eil &syncBrand.shortName.label; ceangailte">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Thoirt gnogag gus clàradh a-steach mar &formatS;">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "Clàraich a-steach airson leantainn air an t-sioncronachadh.">
-<!ENTITY old_sync_deprecated_notification_content "Chan eil taic ris a’ chunntas agad tuilleadh">
