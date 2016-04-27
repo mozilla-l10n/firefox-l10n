@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Borrar tot o historial de busca dende iste dispositivo?">
 <!ENTITY pref_clearHistory_title "Borrar o historial de busca">
 
-<!ENTITY pref_searchProvider_title "Motor de busca">
-
 <!ENTITY search_widget_button_label "Buscar">
 
 <!ENTITY network_error_title "No i hai connexión a internet">
