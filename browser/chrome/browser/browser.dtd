@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Criar marcadores para todos os separadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos os marcadores">
 <!ENTITY recentBookmarks.label "Marcadores recentes">
-
+<!ENTITY otherBookmarksCmd.label "Outros marcadores">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 
 <!ENTITY backCmd.label                "Anterior">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
-
+<!ENTITY bookmarksMenuButton.other.label "Outros marcadores">
 <!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral dos marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Cortar">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "Copiar">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Colar">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "o"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Sem separadores sincronizados... ainda!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Pretende ver os seus separadores de outros dispositivos aqui?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferências do Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicie sessão para ver uma lista de separadores a partir dos seus outros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Iniciar sessão no Sync">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "A sua ligação a este site não é privada. As informações que submeter (tais como palavras-passe, mensagens, cartões de crédito, etc.) podem ser vistas por terceiros.">
 <!ENTITY identity.description.insecureLoginForms "As credenciais que introduzir nesta página podem não ser seguras e podem ser comprometidas.">
 <!ENTITY identity.description.weakCipher "A sua ligação a este website utiliza uma encriptação fraca e não é privada.">
-
+<!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do website.">
 <!ENTITY identity.description.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
 <!ENTITY identity.description.passiveLoaded "A sua ligação não é privada e a informação que partilha com o site pode ser vista por outros.">
 <!ENTITY identity.description.passiveLoaded2 "Este website contém conteúdo que não é seguro (tais como imagens).">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Separadores sincronizados">
 
 <!ENTITY syncedTabs.sidebar.label              "Separadores sincronizados">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Inicie a sessão no Firefox a partir dos seus outros dispositivos para ver os seus separadores aqui.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Sem separadores sincronizados... ainda!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Pretende ver os seus separadores de outros dispositivos aqui?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicie sessão para ver uma lista de separadores a partir dos seus outros dispositivos.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nenhum separador aberto">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Abrir as preferências do &syncBrand.shortName.label;">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ative a sincronização de separadores para ver uma lista de separadores a partir dos seus outros dispositivos.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Abrir">
+<!ENTITY syncedTabs.context.open.accesskey                   "A">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Abrir em novo separador">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "s">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Abrir ligação em nova janela">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "j">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Abrir ligação em nova janela privada">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Criar marcador para este separador…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "C">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Copiar">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
