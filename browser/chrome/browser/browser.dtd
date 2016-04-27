@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Bokmärke för alla flikar…">
 <!ENTITY showAllBookmarks2.label "Visa alla bokmärken">
 <!ENTITY recentBookmarks.label "Nyligen bokmärkt">
-
+<!ENTITY otherBookmarksCmd.label "Andra bokmärken">
 <!ENTITY bookmarksToolbarChevron.tooltip "Visa fler bokmärken">
 
 <!ENTITY backCmd.label                "Bakåt">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bokmärken">
-
+<!ENTITY bookmarksMenuButton.other.label "Andra bokmärken">
 <!ENTITY viewBookmarksSidebar2.label        "Visa i sidofältet Bokmärken">
 <!ENTITY viewBookmarksToolbar.label         "Visa Bokmärkesfältet">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Klipp ut">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
-
+<!ENTITY copyCmd.label            "Kopiera">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "o"> 
 <!ENTITY pasteCmd.label           "Klistra in">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "l"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Inga synkroniserade flikar… än!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Vill du se dina flikar från andra enheter här?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinställningar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logga in för att se en lista med flikar från dina andra enheter.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logga in till Sync">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Din anslutning till den här sidan är inte privat. Information som du skickar kan ses av andra personer (som t.ex. lösenord, meddelanden, bankkort, osv.).">
 <!ENTITY identity.description.insecureLoginForms "Inloggningsinformation du anger på denna sida är inte säker och kan äventyras.">
 <!ENTITY identity.description.weakCipher "Din anslutning till den här webbsidan använder en svag kryptering och är inte privat.">
-
+<!ENTITY identity.description.weakCipher2 "Andra personer kan se din information eller ändra webbplatsens beteende.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; har blockerat några osäkra komponenter på sidan.">
 <!ENTITY identity.description.passiveLoaded "Anslutningen till denna webbplats är inte privat och andra personer kan se din information.">
 <!ENTITY identity.description.passiveLoaded2 "Den här webbplatsen har innehåll som inte är säkert (t.ex. bilder).">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synkade flikar">
 
 <!ENTITY syncedTabs.sidebar.label              "Synkade Flikar">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Logga in på Firefox från dina andra enheter för att visa deras flikar här.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Inga synkroniserade flikar… än!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Vill du se dina flikar från andra enheter här?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logga in för att se en lista med flikar från dina andra enheter.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Inga öppna flikar">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Öppna inställningar för &syncBrand.shortName.label;">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Slå på fliksynkronisering för att visa en lista med flikar från dina andra enheter.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Öppna">
+<!ENTITY syncedTabs.context.open.accesskey                   "p">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Öppna i en ny flik">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "n">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Öppna länk i ett nytt fönster">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Öppna länk i ett nytt privat fönster">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bokmärk denna flik…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Kopiera">
+<!ENTITY syncedTabs.context.copy.accesskey                   "o">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

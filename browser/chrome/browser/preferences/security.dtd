@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Blockera farligt och vilseledande innehåll">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Blockera farliga hämtningar">
+<!ENTITY  blockDownloads.accesskey        "f">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Varna mig om oönskad och ovanlig mjukvara">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Undantag…">
 <!ENTITY  addonExceptions.accesskey     "U">
