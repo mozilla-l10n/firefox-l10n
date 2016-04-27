@@ -134,12 +134,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImage.label "Μοιραστείτε αυτή την εικόνα">
 <!ENTITY shareSelect.label "Μοιραστείτε αυτή την επιλογή">
 <!ENTITY shareVideo.label "Μοιραστείτε αυτό το βίντεο">
-<!ENTITY feedsMenu.label "Συνδρομή">
 <!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα…">
 <!ENTITY addCurPagesCmd.label "Όλες οι καρτέλες σε σελιδοδείκτη…">
 <!ENTITY showAllBookmarks2.label "Προβολή όλων των σελιδοδεικτών">
-<!ENTITY unsortedBookmarksCmd.label "Αταξινόμητοι σελιδοδείκτες">
 <!ENTITY bookmarksToolbarChevron.tooltip "Προβολή περισσότερων σελιδοδεικτών">
 
 <!ENTITY backCmd.label                "Πίσω">
@@ -186,7 +184,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Σελιδοδείκτες">
 
 <!ENTITY bookmarksMenuButton.label          "Σελιδοδείκτες">
-<!ENTITY bookmarksMenuButton.unsorted.label "Αταξινόμητοι σελιδοδείκτες">
 <!ENTITY viewBookmarksSidebar2.label        "Προβολή πλευρικής στήλης σελιδοδεικτών">
 <!ENTITY viewBookmarksToolbar.label         "Προβολή εργαλειοθήκης σελιδοδεικτών">
 
@@ -206,39 +203,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Εργαλεία Προγραμματιστή">
 
-
-<!ENTITY devtoolsConnect.label        "Σύνδεση…">
-
-
-
-
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
-
-
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY devToolboxMenuItem.label          "Εναλλαγή προβολής εργαλείων">
-
-<!ENTITY devToolbarOtherToolsButton.label  "Περισσότερα εργαλεία">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Λήψη περισσότερων εργαλείων">
 
  
 <!ENTITY userContextPersonal.label        "Προσωπικό">
@@ -511,7 +476,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών…">
 
 <!ENTITY editBookmark.done.label                     "Προσθήκη">
-<!ENTITY editBookmark.cancel.label                   "Ακύρωση">
 
 <!ENTITY identity.connectionSecure "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
@@ -541,6 +505,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.label "Απενεργοποίηση προστασίας για την ώρα">
 <!ENTITY identity.learnMore "Μάθετε περισσότερα">
 
+
 <!ENTITY identity.moreInfoLinkText2 "Περισσότερες πληροφορίες">
 
 <!ENTITY identity.permissions "Δικαιώματα">
@@ -550,7 +515,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Καρτέλες περιηγητή">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
 
 
 <!ENTITY syncSignIn.label             "Είσοδος στο &syncBrand.shortName.label; …">
@@ -572,7 +542,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Κάντε κλικ σε μια υπηρεσία για να την προσθέσετε στον &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Εμφάνιση περισσότερων">
 
-<!ENTITY customizeMode.tabTitle "Προσαρμογή &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Επιπρόσθετα εργαλεία και λειτουργίες">
 <!ENTITY customizeMode.menuAndToolbars.empty "Θέλετε περισσότερα εργαλεία;">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα">
@@ -659,5 +628,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.buttonlabel         "Ευχαριστώ!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Μάθετε περισσότερα για το DRM…">
-<!ENTITY emeNotificationsNotNow.label             "Όχι τώρα">
-<!ENTITY emeNotificationsDontAskAgain.label       "Να μην ερωτηθώ ξανά">

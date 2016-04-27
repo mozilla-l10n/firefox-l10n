@@ -5,6 +5,9 @@
 
 <!ENTITY changeBlockList.label          "Αλλαγή λίστας αποκλεισμού">
 
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+
 
 
 
