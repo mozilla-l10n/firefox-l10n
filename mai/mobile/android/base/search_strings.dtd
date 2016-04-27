@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "इ युक्तिसँ अपन सभटा खोज इतिहास मेटाउ?">
 <!ENTITY pref_clearHistory_title "खोज इतिहास साफ करू">
 
-<!ENTITY pref_searchProvider_title "खोज इंजिन">
-
 <!ENTITY search_widget_button_label "खोजू">
 
 <!ENTITY network_error_title "कोनो इंटरनेट कनेक्शन नहि अछि">

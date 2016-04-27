@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label "टैग">
 <!ENTITY bookmarks.folder.tags.label "टैग">
 <!ENTITY bookmarks.folder.toolbar.label "पुस्तकचिह्न अओजारपट्टी">
-<!ENTITY bookmarks.folder.unfiled.label "बिनुछाँटल पुस्तकचिह्न">
+
 <!ENTITY bookmarks.folder.desktop.label "डेस्कटाप पुस्तकचिह्न">
 <!ENTITY bookmarks.folder.mobile.label "Mobile Bookmarks">
-<!ENTITY bookmarks.folder.readinglist.label "पठन सूची">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "टांगल">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "टैब पठाबै कलेल &syncBrand.shortName.label; सेटअप करू">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "&syncBrand.fullName.label; केँ अपन डिवायस पर सेटअप करू ताकि दोसर डिवायस मे टैब पठाबू जाए सकू.">
-<!ENTITY sync.text.tab.sent.label "अहाँक टैब भेजल गेल!">
-<!ENTITY sync.text.tab.not.sent.label "अपन टैब पठाबै मे कोनो समस्या आब रहल छल.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "फायरफाक्स खाता">
-
-<!ENTITY fxaccount_custom_server_account_title "सर्वरपर खाताक उपयोग करू">
-<!ENTITY fxaccount_custom_server_sync_title "सर्वरपर सिंक डाटाक जमा करू">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "ईमेल">
-
-<!ENTITY fxaccount_password_hide "नुकाउ">
-<!ENTITY fxaccount_password_show "देखाउ">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "ब्राउजिंग मे वापस">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "सेवा शर्त">
-<!ENTITY fxaccount_policy_linkprivacy "गोपनीयता नीति">
+<!ENTITY fxaccount_back_to_browsing "ब्राउजिंग मे वापस">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; मे अहाँक स्वागत अछि ;">
 <!ENTITY fxaccount_getting_started_description2 "टैब, पुस्तकचिह्न, लॉगिन आदि सिंक करब कलेल साइन इन करू.">
 <!ENTITY fxaccount_getting_started_get_started "आरंभ करू">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; क पुरान संस्करण क उपयोग कए रहल अछि?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "एकटा फायरफाक्स खाता बनाउ">
-<!ENTITY fxaccount_create_account_password_length_restriction "कम सँ कम 8 वर्ण क होनाइ चाही">
-<!ENTITY fxaccount_create_account_day_of_birth "दिन">
-<!ENTITY fxaccount_create_account_month_of_birth "महिना">
-<!ENTITY fxaccount_create_account_year_of_birth "जन्म क साल">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "जारी राखैत हुए, हम फायरफाक्स क्लाउड सेवा क &formatS1; आओर &formatS2;सँ सहमत छी. ">
-<!ENTITY fxaccount_create_account_button "आगाँ">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "चुनू जे की साझा कएल जाएनाइ अछि">
-<!ENTITY fxaccount_create_account_sign_in_instead "पहिने सँ खाता अछि? साइन इन करू">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 अथवा पूर्ववर्ती">
-<!ENTITY fxaccount_create_account_unknown_error "खाता नहि बनाय सकल">
-
-<!ENTITY fxaccount_account_create_not_allowed "खाता नहि बनाय सकैत">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "खाता बनाबै कलेल अहाँकेँ ख़ास आयु क होनाइ चाही">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "आओर जानू">
-
-<!ENTITY fxaccount_confirm_account_header "अपन खाता क पुष्टि करू">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "&formatS; मे जाँच कड़ी भेजल गेल अछि">
-<!ENTITY fxaccount_confirm_account_resend_email "इमेल फेर पठाबू">
-<!ENTITY fxaccount_confirm_account_change_email "अहि इ-मेलक पता बिसरि गेलहुं?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "सत्यापन इमेल भेजल गेल">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "सत्यापित इमेल भेजल नहि जाए सकल">
-<!ENTITY fxaccount_resend_unlock_code_button_label "ताला खोलबाक इ-मेल फेर पठाबू">
-<!ENTITY fxaccount_unlock_code_sent "खाताक ताला खोलबाक इ-मेल पठाबू">
-<!ENTITY fxaccount_unlock_code_not_sent "खाताक ताला खोलबाक इ-मेल पठाओल नहि जा सकल">
-
-<!ENTITY fxaccount_sign_in_sub_header "साइन इन करु">
-<!ENTITY fxaccount_sign_in_button_label "साइन इन करु">
-<!ENTITY fxaccount_sign_in_forgot_password "पासवर्ड बिसरि गेलहुं?">
-<!ENTITY fxaccount_sign_in_create_account_instead "एकटा खाता बनाउ">
-<!ENTITY fxaccount_sign_in_unknown_error "साइन-इन नहि कए सकल">
-
-<!ENTITY fxaccount_account_verified_sub_header "खाता सत्यापित कएल गेल">
-<!ENTITY fxaccount_account_verified_description2 "अहाँक आँकड़ा किछु कालक लेल तुल्यकालिक होए बला अछि.">
-
-<!ENTITY fxaccount_migration_finished_header "उन्नयन समाप्त भेल">
-
-<!ENTITY fxaccount_update_credentials_header "साइन इन करु">
-<!ENTITY fxaccount_update_credentials_button_label "साइन इन करु">
-<!ENTITY fxaccount_update_credentials_unknown_error "साइन इन नहि कए सकलहुं">
-
-<!ENTITY fxaccount_finish_migrating_header "उन्नयन समाप्त करबाक लेल साइन इन करु">
-<!ENTITY fxaccount_finish_migrating_button_label "उन्नयन समाप्त करु">
-<!ENTITY fxaccount_finish_migrating_description "अपग्रेड करै सँ बहुत आँकड़ा के स्थानान्तरित क सकैत अछि. WiFi नेटवर्क पर रहनाइ सब सँ नीक हाएत.">
-
-<!ENTITY fxaccount_status_header2 "फायरफॉक्स खाता">
 <!ENTITY fxaccount_status_signed_in_as "एहिना साइन इन करू">
 <!ENTITY fxaccount_status_manage_account "खाता प्रबंधित करू">
 <!ENTITY fxaccount_status_auth_server "खाताक सर्वर">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "सेवा शर्त">
-<!ENTITY fxaccount_status_linkprivacy "गोपनीयता नीति">
+
 <!ENTITY fxaccount_status_more "आओर&ellipsis;">
 <!ENTITY fxaccount_remove_account "&ellipsis;डिसकनेक्ट करू">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "सर्वर व्यस्त अछि, जल्दिये पुन: प्रयास करु.">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "सर्वर व्यस्त अछि, जल्दिये फेर प्रयास करु">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "एकटा कठिनाइ छल">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "नेटवर्क सँ जुड़ि नहि सकल">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "खाता बन्न अछि. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; कनेक्टेड नहि अछि">
@@ -204,6 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; रूपेँ साइन-इन करब कलेल टैप करू">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
