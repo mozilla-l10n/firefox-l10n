@@ -31,103 +31,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "ஒட்டுகள்">
 <!ENTITY bookmarks.folder.toolbar.label "புத்தகக்குறிகள் கருவிப்பட்டை">
-<!ENTITY bookmarks.folder.unfiled.label "வரிசைப்படுத்தப்படாத புத்தகக்குறிகள்">
+
 <!ENTITY bookmarks.folder.desktop.label "திரைமுகப்பின் புத்தகக்குறிகள்">
 <!ENTITY bookmarks.folder.mobile.label "மொபைல் புத்தகக்குறிகள்">
-<!ENTITY bookmarks.folder.readinglist.label "படிக்கும் பட்டியல்">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "நிலைநிறுத்தப்பட்டது">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; அமைவை தாவல்களுக்கு அனுப்பவும்">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "உங்கள் சாதனத்தின் &syncBrand.fullName.label; அமைவு கீற்றுகளை மற்ற சாதனங்களுக்கு அனுப்பவும்.">
-<!ENTITY sync.text.tab.sent.label "உங்களுடைய கீற்று அனுப்பப்பட்டது!">
-<!ENTITY sync.text.tab.not.sent.label "உங்களின் தாவலை அனுப்புவதில் பிரிச்சனை வந்திருக்கிறது.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "பயர்பாக்ஸ் கணக்குகள்">
-
-<!ENTITY fxaccount_custom_server_account_title "சேவையகத்தின் கணக்கைப் பயன்படுத்துகிறது">
-<!ENTITY fxaccount_custom_server_sync_title "ஒத்திசைவு தரவை சேவையகத்தில் சேமிக்கிறது">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "மின்னஞ்சல்">
-
-<!ENTITY fxaccount_password_hide "மறை">
-<!ENTITY fxaccount_password_show "காண்பி">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "உலாவிக்கு வந்தாச்சி">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "சேவைகளின் விதிமுறைகள்">
-<!ENTITY fxaccount_policy_linkprivacy "தனியுரிமை அறிவுப்பு">
+<!ENTITY fxaccount_back_to_browsing "உலாவிக்கு வந்தாச்சி">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;விற்கு வரவேற்கிறோம்">
 
 <!ENTITY fxaccount_getting_started_get_started "தொடங்கவும்">
 <!ENTITY fxaccount_getting_started_old_firefox "பழைய &syncBrand.shortName.label; பதிப்பை பயன்படுத்துகிறீர்களா?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "ஒரு பயர்பாக்ஸ் கணக்கை உருவாக்கு">
-<!ENTITY fxaccount_create_account_password_length_restriction "குறைந்தது 8 எழுத்துக்கள் இருக்கணும்">
-<!ENTITY fxaccount_create_account_day_of_birth "நாள்">
-<!ENTITY fxaccount_create_account_month_of_birth "மாதம்">
-<!ENTITY fxaccount_create_account_year_of_birth "பிறந்த வருடம்">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "தொடர்வதனால், நான் பயர்பாக்ஸின் மேகக்கணினி &formatS1; மற்றும் &formatS2; ஒப்புக்கொள்கிறேன்.">
-<!ENTITY fxaccount_create_account_button "அடுத்து">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "ஒத்திசைவுக்கு எதை தேர்ந்தெடுப்பது">
-<!ENTITY fxaccount_create_account_sign_in_instead "ஏற்க்கனவே கணக்கு வைத்திருக்கிறீர்களா? உள்நுழையும்">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 அல்லது அதற்கும் முன்னர்">
-<!ENTITY fxaccount_create_account_unknown_error "கணக்கை உருவாக்க முடியவில்லை">
-
-<!ENTITY fxaccount_account_create_not_allowed "கணக்கை உருவாக்க முடியாது">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "ஒரு கணக்கை உருவாக்க நீங்கள் குறிப்பிட்ட வயதை எட்டியுருக்க வேண்டும்.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "மேலும் அறிய">
-
-<!ENTITY fxaccount_confirm_account_header "கணக்கை உறுதிப்படுத்து">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "&formatS; க்கு ஒரு சரிபார்ப்பு தொடுப்பு அனுப்பப்பட்டுள்ளது">
-<!ENTITY fxaccount_confirm_account_resend_email "மின்னஞ்சலை திரும்ப அனுப்பவும்">
-<!ENTITY fxaccount_confirm_account_change_email "இந்த மின்னஞ்சல் முகவரியை மறக்கவா?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "சரிபார்ப்பு மின்னஞ்சல் அனுப்பப்பட்டது">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "சோதனை மடல் அனுப்ப முடியவில்லை">
-<!ENTITY fxaccount_resend_unlock_code_button_label "பூட்டைத் திறக்கும் மின்னஞ்சலை மீண்டும் அனுப்பு">
-<!ENTITY fxaccount_unlock_code_sent "பூட்டிய கணக்கைத் திறக்க மின்னஞ்சல் அனுப்பப்பட்டது">
-<!ENTITY fxaccount_unlock_code_not_sent "பூட்டிய கணக்கைத் திறக்க மின்னஞ்சல் அனுப்ப முடியவில்லை">
-
-<!ENTITY fxaccount_sign_in_sub_header "உள்நுழை">
-<!ENTITY fxaccount_sign_in_button_label "உள்நுழை">
-<!ENTITY fxaccount_sign_in_forgot_password "கடவுச்சொல்லை மறந்துவிட்டீர்களா?">
-<!ENTITY fxaccount_sign_in_create_account_instead "ஒரு கணக்கை உருவாக்கு">
-<!ENTITY fxaccount_sign_in_unknown_error "உள்நுழைய முடியவில்லை">
-
-<!ENTITY fxaccount_account_verified_sub_header "கணக்கு சரிபார்க்கப்பட்டது">
-<!ENTITY fxaccount_account_verified_description2 "உங்களுடைய தரவானது உடனே ஒத்திசைவை தொடங்கும்.">
-
-<!ENTITY fxaccount_migration_finished_header "புதுப்பித்தல் முடிந்தது">
-
-<!ENTITY fxaccount_update_credentials_header "உள்நுழை">
-<!ENTITY fxaccount_update_credentials_button_label "உள்நுழை">
-<!ENTITY fxaccount_update_credentials_unknown_error "உள்நுழைய முடியாது">
-
-<!ENTITY fxaccount_finish_migrating_header "புதுப்பித்தலை முடிக்க உள்நுழையும்">
-<!ENTITY fxaccount_finish_migrating_button_label "புதுப்பித்தலை முடி">
-<!ENTITY fxaccount_finish_migrating_description "புதுப்பித்தல் அதிகமான தரவுகளைப் பரிமாற்றும். எனவே வை-பை பிணையத்தில் இருப்பது நல்லது.">
-
-<!ENTITY fxaccount_status_header2 "பயர்பாக்ஸ் கணக்கு">
 <!ENTITY fxaccount_status_signed_in_as "ஆக உள்நுழைந்துள்ளீர்கள்">
 
 <!ENTITY fxaccount_status_auth_server "கணக்கு சேவையகம்">
@@ -152,8 +73,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "சேவைகளின் விதிமுறைகள்">
-<!ENTITY fxaccount_status_linkprivacy "தனியுரிமை அறிவிப்புகள்">
+
 <!ENTITY fxaccount_status_more "மேலும்&ellipsis;">
 
 
@@ -189,7 +109,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "சேவகன் வேலை நிமித்தமாக உள்ளது, மீண்டும் முயற்சிக்கவும்">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "சேவகன் வேலை நிமித்தமாக உள்ளது, மீண்டும் முயற்சிக்கவும்">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "அங்க ஏதோ ஒரு பிரச்சனை">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "பிணையத்துடன் இணைக்க இயலவில்லை">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "கணக்கு பூட்டப்பட்டுள்ளது. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ஆனது இணைக்கப்படவில்லை">
@@ -201,6 +120,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; ஆக நுழைய தட்டவும்">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
